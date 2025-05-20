@@ -1,6 +1,10 @@
 ---
-title: "Crank-Nicholson Implicit Scheme Explained (Algo Trading)"
-description: Discover how the Crank-Nicolson method, a stable and accurate numerical scheme, enhances algorithmic trading by refining derivative pricing models and risk management techniques through the precise solution of complex partial differential equations.
+category: quant_concept
+description: Discover how the Crank-Nicolson method, a stable and accurate numerical
+  scheme, enhances algorithmic trading by refining derivative pricing models and risk
+  management techniques through the precise solution of complex partial differential
+  equations.
+title: Crank-Nicholson Implicit Scheme Explained (Algo Trading)
 ---
 
 Algorithmic trading, often synonymous with high-frequency trading, leverages computer algorithms to execute trades at speeds and volumes unattainable by human traders. These algorithms, driven by intricate mathematical and statistical models, can analyze multiple markets and execute orders based on predefined criteria. This mode of trading is significant in modern financial markets due to its enhanced efficiency in processing vast amounts of data, ability to minimize transaction costs, and facilitation of market liquidity.

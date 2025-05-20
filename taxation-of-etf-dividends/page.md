@@ -1,6 +1,8 @@
 ---
-title: "Taxation of ETF Dividends (Algo Trading)"
-description: "Explore the complexities of ETF dividend taxation and discover how algorithmic trading can optimize your investment strategy to enhance returns and reduce risks."
+category: quant_concept
+description: Explore the complexities of ETF dividend taxation and discover how algorithmic
+  trading can optimize your investment strategy to enhance returns and reduce risks.
+title: Taxation of ETF Dividends (Algo Trading)
 ---
 
 Exchange-Traded Funds (ETFs) have garnered significant attention and popularity among investors due to their ability to provide diversified exposure to a wide range of asset classes. This diversification enables investors to participate in various markets and sectors with relatively lower risk compared to investing in individual stocks. A particularly attractive feature of certain ETFs is their capacity to pay dividends. Dividend-paying ETFs offer investors a dual advantage: the opportunity to earn regular income through dividends and the potential for capital appreciation over time.

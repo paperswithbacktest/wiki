@@ -1,6 +1,14 @@
 ---
-title: "History and Development of the Welfare State (Algo Trading)"
-description: "Explore the history and development of welfare states and their impact on modern social systems through examining diverse policies and global influences. This article investigates into how these systems have evolved to address economic inequalities and societal well-being, reflecting changing political ideologies and economic conditions. Discover the role of welfare states in shaping social security, healthcare, and education, and their interaction with innovations like algorithmic trading. Understand the criticisms and challenges faced by welfare systems as they adapt to new realities in an increasingly interconnected world."
+category: quant_concept
+description: Explore the history and development of welfare states and their impact
+  on modern social systems through examining diverse policies and global influences.
+  This article investigates into how these systems have evolved to address economic
+  inequalities and societal well-being, reflecting changing political ideologies and
+  economic conditions. Discover the role of welfare states in shaping social security,
+  healthcare, and education, and their interaction with innovations like algorithmic
+  trading. Understand the criticisms and challenges faced by welfare systems as they
+  adapt to new realities in an increasingly interconnected world.
+title: History and Development of the Welfare State (Algo Trading)
 ---
 
 The concept of a welfare state is central to understanding modern governance and social systems. It encompasses various government programs that aim to ensure the economic and social well-being of citizens by providing essential services and financial support. Welfare states are designed to mitigate social inequalities and economic disparities through policies that often include healthcare access, education subsidies, unemployment insurance, and pensions.

@@ -1,7 +1,8 @@
 ---
-title: Comprehensive Guide to F1 Score in Machine Learning
+category: quant_concept
 description: F1 Score measures balanced precision and recall for imbalanced classification
   tasks including medical diagnosis and fraud detection Discover more inside
+title: Comprehensive Guide to F1 Score in Machine Learning
 ---
 
 ![Image](images/1.webp)

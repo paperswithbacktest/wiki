@@ -1,6 +1,9 @@
 ---
-title: "Essential Apps for Financial Analysts (Algo Trading)"
-description: "Explore top apps for financial analysts and algo trading platforms to boost efficiency and decision-making. Leverage tech for optimal trading strategies and insights."
+category: dataset
+description: Explore top apps for financial analysts and algo trading platforms to
+  boost efficiency and decision-making. Leverage tech for optimal trading strategies
+  and insights.
+title: Essential Apps for Financial Analysts (Algo Trading)
 ---
 
 In today's fast-paced financial environment, productivity tools and financial apps are indispensable for financial analysts and traders. The rapid advancement of technology has equipped financial professionals with a diverse array of applications that significantly enhance efficiency and facilitate informed decision-making. These tools empower analysts and traders to handle data more effectively, access market information swiftly, and execute strategies with increased precision.

@@ -1,6 +1,8 @@
 ---
-title: "Bull Vertical Spread Explanation and Example (Algo Trading)"
-description: "Explore the mechanics of bull vertical spreads in options trading Learn how algorithmic strategies enhance precision in capturing bullish market trends"
+category: trading_strategy
+description: Explore the mechanics of bull vertical spreads in options trading Learn
+  how algorithmic strategies enhance precision in capturing bullish market trends
+title: Bull Vertical Spread Explanation and Example (Algo Trading)
 ---
 
 Options trading presents investors with opportunities to capitalize on market movements, offering a variety of strategies to suit different financial goals and risk appetites. Among these strategies, the bull vertical spread stands out as a popular choice for traders anticipating a rise in the price of an underlying asset. This approach incorporates options to create a balanced risk-reward profile, making it suitable for those with a bullish market outlook but a preference for controlled exposure.

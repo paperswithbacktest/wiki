@@ -1,6 +1,9 @@
 ---
-title: "Neuroeconomics: Concepts and Research Areas (Algo Trading)"
-description: "Explore how neuroeconomics combines neuroscience economics and psychology to influence algorithmic trading by understanding cognitive and emotional decision-making processes"
+category: quant_concept
+description: Explore how neuroeconomics combines neuroscience economics and psychology
+  to influence algorithmic trading by understanding cognitive and emotional decision-making
+  processes
+title: 'Neuroeconomics: Concepts and Research Areas (Algo Trading)'
 ---
 
 In an increasingly complex financial landscape, understanding economic behavior is vital for both individuals and institutions. As markets and investment strategies evolve, so does the need for innovative approaches to comprehend and predict economic decision-making. Neuroeconomics, an emerging field, merges neuroscience, psychology, and economics to provide deeper insights into how decisions are made. By exploring the neural mechanisms underlying choices, neuroeconomics illuminates the intrinsic factors that influence economic behaviors, offering a nuanced perspective beyond traditional models.

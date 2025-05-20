@@ -1,6 +1,8 @@
 ---
-title: "Outlay Cost: Definition and Mechanism (Algo Trading)"
-description: "Explore the definition and mechanism of outlay costs in algorithmic trading and learn how managing these expenses can maximize profitability and efficiency."
+category: quant_concept
+description: Explore the definition and mechanism of outlay costs in algorithmic trading
+  and learn how managing these expenses can maximize profitability and efficiency.
+title: 'Outlay Cost: Definition and Mechanism (Algo Trading)'
 ---
 
 In the ever-evolving world of financial markets, algorithmic trading has emerged as a game-changer. By leveraging computer algorithms to execute trades at speeds and frequencies that are impossible for human traders, algorithmic trading has significantly transformed the trading landscape. At the heart of this transformation lies the complex interplay between financial expenses and outlay costs—critical factors that traders must consider to maximize profitability.

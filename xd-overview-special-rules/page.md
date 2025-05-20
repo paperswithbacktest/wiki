@@ -1,6 +1,8 @@
 ---
-title: "XD: Overview and Special Rules (Algo Trading)"
-description: "Explore the benefits and complexities of algorithmic trading, focusing on XD, or ex-dividend trading, in financial markets highlighting strategy impacts."
+category: quant_concept
+description: Explore the benefits and complexities of algorithmic trading, focusing
+  on XD, or ex-dividend trading, in financial markets highlighting strategy impacts.
+title: 'XD: Overview and Special Rules (Algo Trading)'
 ---
 
 Algorithmic trading, commonly known as algo trading, has significantly transformed financial markets by introducing automated processes based on pre-defined rules to execute trading strategies. This modernization allows for the rapid analysis of market conditions and the execution of trades with minimal human intervention. At its core, it leverages algorithms to parse vast datasets at speeds and accuracies unattainable by manual trading. Our focus includes understanding the concept of XD in trading, which refers to a security trading ex-dividend. This crucial indicator means a stock is traded without the value of its next dividend payment, impacting the stock's pricing and the strategy that traders might employ.

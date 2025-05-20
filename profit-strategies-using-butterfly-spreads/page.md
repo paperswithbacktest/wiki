@@ -1,6 +1,8 @@
 ---
-title: "Profit Strategies Using Butterfly Spreads (Algo Trading)"
-description: "Explore butterfly spreads for options trading a strategy ideal for low-volatility markets offering balanced risk-reward profiles via algorithmic trading techniques"
+category: trading_strategy
+description: Explore butterfly spreads for options trading a strategy ideal for low-volatility
+  markets offering balanced risk-reward profiles via algorithmic trading techniques
+title: Profit Strategies Using Butterfly Spreads (Algo Trading)
 ---
 
 Options trading has become increasingly popular among investors seeking to enhance their portfolios with leveraged instruments that allow speculation on the price movements of various underlying assets, such as stocks, indices, or currencies. The growing interest in options trading is driven by the potential to achieve high returns with controlled risk, leveraging strategies that harness the inherent flexibility options contracts offer.

@@ -1,6 +1,8 @@
 ---
-title: "Overview of Index Funds (Algo Trading)"
-description: "Explore index funds and algorithmic trading in financial markets Learn how these strategies offer diverse investment solutions and optimize trading efficiency"
+category: quant_concept
+description: Explore index funds and algorithmic trading in financial markets Learn
+  how these strategies offer diverse investment solutions and optimize trading efficiency
+title: Overview of Index Funds (Algo Trading)
 ---
 
 Financial markets are vast ecosystems where various securities, including stocks, bonds, and commodities, are exchanged. These platforms play a crucial role in the global economy by facilitating capital formation and promoting liquidity. Investment options within these markets are diverse, ranging from individual stock picking and mutual funds to more structured vehicles such as exchange-traded funds (ETFs) and index funds.

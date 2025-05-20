@@ -1,6 +1,8 @@
 ---
-title: "Yield to Maturity Calculation of a Zero-Coupon Bond (Algo Trading)"
-description: "Discover the intricacies of yield to maturity calculations for zero-coupon bonds and their strategic application in algorithmic trading for optimized returns."
+category: quant_concept
+description: Discover the intricacies of yield to maturity calculations for zero-coupon
+  bonds and their strategic application in algorithmic trading for optimized returns.
+title: Yield to Maturity Calculation of a Zero-Coupon Bond (Algo Trading)
 ---
 
 Zero-coupon bonds are a distinct class of debt securities characterized by their absence of periodic interest payments, also known as coupons. Instead, these bonds are issued at a significant discount to their face value, with the full face value paid at maturity. This structure makes understanding the yield to maturity (YTM) of zero-coupon bonds essential for investors, as it represents the total return if the bonds are held until maturity. The YTM calculation helps investors assess the potential benefits of these securities within their portfolios.

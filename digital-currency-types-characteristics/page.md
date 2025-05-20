@@ -1,6 +1,8 @@
 ---
-title: "Digital Currency Types and Characteristics (Algo Trading)"
-description: "Explore the transformative power of digital currencies and algorithmic trading Discover their unique traits and impact on the global financial system."
+category: quant_concept
+description: Explore the transformative power of digital currencies and algorithmic
+  trading Discover their unique traits and impact on the global financial system.
+title: Digital Currency Types and Characteristics (Algo Trading)
 ---
 
 Digital currencies have emerged as a potent force in reshaping the global financial landscape, marking a notable shift from traditional financial mechanisms. These currencies offer a digital alternative to conventional fiat money, providing opportunities for innovation and efficiency in monetary transactions. The advent and proliferation of cryptocurrencies, such as Bitcoin and Ethereum, have exemplified the power of decentralized financial systems, where users can transact without intermediaries like banks. This rise has triggered a remarkable transformation, influencing how individuals and institutions perceive and interact with money.

@@ -1,6 +1,8 @@
 ---
-title: "Farmout Agreements: Significance and Process (Algo Trading)"
-description: "Explore farmout agreements and their impact on oil, gas, and algo trading. Discover how they reduce financial risk and improve exploration strategies."
+category: quant_concept
+description: Explore farmout agreements and their impact on oil, gas, and algo trading.
+  Discover how they reduce financial risk and improve exploration strategies.
+title: 'Farmout Agreements: Significance and Process (Algo Trading)'
 ---
 
 Understanding the intricate world of oil and gas contracts is essential for investors and companies in the energy sector. These contracts dictate how resources are explored, developed, and managed, impacting the financial and operational success of participating companies. Farmout agreements, in particular, are pivotal in the exploration and development of oil and gas resources. They provide a structured method for companies to collaborate on resource development, allowing one party to reduce financial risk by outsourcing exploration activities to another party, known as the farmee. This strategy is particularly beneficial for smaller companies that may lack the capital to conduct exploration independently.

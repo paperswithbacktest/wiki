@@ -1,6 +1,8 @@
 ---
-title: "Ba1/BB+ Rating: Overview and Functions (Algo Trading)"
-description: "Discover how Ba1 and BB+ credit ratings impact algorithmic trading strategies by enhancing risk assessments and navigating the complex risk-reward landscape."
+category: quant_concept
+description: Discover how Ba1 and BB+ credit ratings impact algorithmic trading strategies
+  by enhancing risk assessments and navigating the complex risk-reward landscape.
+title: 'Ba1/BB+ Rating: Overview and Functions (Algo Trading)'
 ---
 
 In the dynamic landscape of credit ratings, Ba1 and BB+ serve as key markers for investors seeking to balance the security of investment-grade assets with the potential returns from higher-risk investments. These ratings, assigned by Moody’s (Ba1) and Standard & Poor’s (S&P) (BB+), occupy a pivotal position just below investment grade. Understanding these ratings is crucial not only for traditional investment strategies but also for the increasingly prevalent algorithmic trading approaches that dominate today’s financial markets.

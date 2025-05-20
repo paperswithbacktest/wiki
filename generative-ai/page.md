@@ -1,7 +1,8 @@
 ---
-title: Generative AI Principles Applications Ethics and Future
+category: quant_concept
 description: Generative AI offers a clear guide to its core principles applications
   ethics and future potential in creativity and innovation Discover more inside.
+title: Generative AI Principles Applications Ethics and Future
 ---
 
 ![Image](images/1.png)

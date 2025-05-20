@@ -1,6 +1,8 @@
 ---
-title: "Structured Funds (Algo Trading)"
-description: "Discover innovative investment strategies with structured funds and algorithmic trading, designed to optimize returns and manage risks in today's financial markets."
+category: trading_strategy
+description: Discover innovative investment strategies with structured funds and algorithmic
+  trading, designed to optimize returns and manage risks in today's financial markets.
+title: Structured Funds (Algo Trading)
 ---
 
 Investing can be intricate, with a multitude of avenues available to maximize returns while managing risks. Investors today are presented with a range of sophisticated investment strategies and financial products, offering potential for both diversification and enhanced portfolio performance. This guide examines some of these innovative pathways, notably structured funds and algorithmic trading, which have transformed the financial landscape.

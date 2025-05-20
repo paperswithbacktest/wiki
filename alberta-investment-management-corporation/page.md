@@ -1,6 +1,9 @@
 ---
-title: "Alberta Investment Management Corporation (Algo Trading)"
-description: "Explore AIMCo's role in Alberta's economy focusing on algorithmic trading and its impact on investing. Understand AIMCo’s strategies and their adaptation to market changes."
+category: quant_concept
+description: Explore AIMCo's role in Alberta's economy focusing on algorithmic trading
+  and its impact on investing. Understand AIMCo’s strategies and their adaptation
+  to market changes.
+title: Alberta Investment Management Corporation (Algo Trading)
 ---
 
 The Alberta Investment Management Corporation (AIMCo) is a major entity within Canada's financial system, serving as a steward for various public sector funds across the nation. Established in 2008, AIMCo has swiftly ascended to be one of the foremost institutional investors globally, with its main offices situated in Edmonton, Alberta. AIMCo's mandate revolves around the meticulous management of its clients' assets, encompassing a diverse spectrum that includes pensions, endowments, and government funds.

@@ -1,6 +1,12 @@
 ---
-title: "DuPont Analysis Explained (Algo Trading)"
-description: "Discover the power of DuPont Analysis in investment evaluation. This approach dissects a company's Return on Equity (ROE) into key components: profit margin, asset turnover, and financial leverage. By understanding these elements, investors gain insights into operational efficiency and financial health. Explore how this framework aligns with algorithmic trading to enhance decision-making and optimize investment strategies."
+category: quant_concept
+description: 'Discover the power of DuPont Analysis in investment evaluation. This
+  approach dissects a company''s Return on Equity (ROE) into key components: profit
+  margin, asset turnover, and financial leverage. By understanding these elements,
+  investors gain insights into operational efficiency and financial health. Explore
+  how this framework aligns with algorithmic trading to enhance decision-making and
+  optimize investment strategies.'
+title: DuPont Analysis Explained (Algo Trading)
 ---
 
 Understanding an investment's potential requires a comprehensive approach to financial analysis. One powerful framework that investors and analysts leverage is the DuPont Analysis, a method that dissects the components driving a company's Return on Equity (ROE). This analysis facilitates the understanding of how profit margin, asset turnover, and financial leverage contribute to the overall profitability and financial health of a corporation.

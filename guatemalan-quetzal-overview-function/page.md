@@ -1,6 +1,9 @@
 ---
-title: "Guatemalan Quetzal: Overview and Function (Algo Trading)"
-description: "Explore the role of the Guatemalan Quetzal in the nation's economy with insights into algorithmic trading innovations that enhance market efficiency and profitability."
+category: quant_concept
+description: Explore the role of the Guatemalan Quetzal in the nation's economy with
+  insights into algorithmic trading innovations that enhance market efficiency and
+  profitability.
+title: 'Guatemalan Quetzal: Overview and Function (Algo Trading)'
 ---
 
 Guatemala, located in Central America, has an economy characterized by a diverse mix of sectors, including agriculture, manufacturing, and services. The primary currency used in Guatemala is the Guatemalan Quetzal (GTQ), named after the national bird of Guatemala. The GTQ plays a significant role in the nation's economic framework, acting as a medium of exchange and a store of value. Understanding the dynamics of the GTQ is crucial for comprehending the broader economic environment of Guatemala. The currency’s stability, influenced by domestic economic policies and external factors, is directly tied to the nation’s economic health and prospects.

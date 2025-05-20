@@ -1,6 +1,9 @@
 ---
-title: "Reverse Convertible Note (Algo Trading)"
-description: "Discover high-yield investment opportunities with Reverse Convertible Notes combining debt and equity features to navigate market volatility and enhance portfolio returns."
+category: quant_concept
+description: Discover high-yield investment opportunities with Reverse Convertible
+  Notes combining debt and equity features to navigate market volatility and enhance
+  portfolio returns.
+title: Reverse Convertible Note (Algo Trading)
 ---
 
 In financial markets, convertible securities and reverse convertible notes (RCNs) are increasingly recognized for their distinctive characteristics that blend features of both debt and equity. Convertible securities, such as convertible bonds and debentures, provide investors with the opportunity to participate in the equity upside of a company while offering some protection against downside risk. This balanced approach has made them a valuable tool in corporate finance, facilitating both fundraising and risk management.

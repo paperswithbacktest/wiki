@@ -1,6 +1,9 @@
 ---
-title: "Effects of Globalization on International Investments and Economies (Algo Trading)"
-description: "Explore how globalization impacts international investments and algorithmic trading reshaping economies worldwide. Analyze strategies for navigating global markets."
+category: quant_concept
+description: Explore how globalization impacts international investments and algorithmic
+  trading reshaping economies worldwide. Analyze strategies for navigating global
+  markets.
+title: Effects of Globalization on International Investments and Economies (Algo Trading)
 ---
 
 In today's interconnected world, globalization has emerged as a pivotal force, shaping the contours of modern economies across the globe. This phenomenon, characterized by the enhanced movement of goods, capital, services, and information across international borders, has fostered unprecedented economic integration and interdependence among nations.

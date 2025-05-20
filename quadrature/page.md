@@ -1,6 +1,8 @@
 ---
-title: "Quadrature (Algo Trading)"
-description: "Explore the critical role of quadrature in algorithmic trading This mathematical technique enhances options pricing and risk management by improving prediction precision"
+category: quant_concept
+description: Explore the critical role of quadrature in algorithmic trading This mathematical
+  technique enhances options pricing and risk management by improving prediction precision
+title: Quadrature (Algo Trading)
 ---
 
 Quadrature in algorithmic trading is a sophisticated mathematical technique focused on estimating the definite integral of functions, a process fundamental to numerous trading algorithms. This technique is pivotal in the evaluation of option pricing, a core aspect of financial derivatives that rely on accurate pricing models. It also underpins risk management frameworks, ensuring that potential asset price movements are precisely analyzed.

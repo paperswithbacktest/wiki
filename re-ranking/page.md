@@ -1,7 +1,8 @@
 ---
-title: Machine Learning Re-Ranking Techniques for Better Search Results
+category: quant_concept
 description: Re-ranking in machine learning refines search results using user behavior
   and ranking algorithms to enhance relevance and satisfaction Discover more inside
+title: Machine Learning Re-Ranking Techniques for Better Search Results
 ---
 
 ![Image](images/1.png)

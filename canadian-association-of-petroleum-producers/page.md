@@ -1,6 +1,9 @@
 ---
-title: "Canadian Association of Petroleum Producers (Algo Trading)"
-description: "Explore the Canadian petroleum industry and its evolution with algorithmic trading Learn how trading algorithms impact energy sector efficiency and market risks"
+category: quant_concept
+description: Explore the Canadian petroleum industry and its evolution with algorithmic
+  trading Learn how trading algorithms impact energy sector efficiency and market
+  risks
+title: Canadian Association of Petroleum Producers (Algo Trading)
 ---
 
 The energy sector in Canada is a fundamental pillar of the nation's economy, underpinning a substantial portion of its GDP and playing a crucial role in its trade balance. Canada is not only rich in fossil fuel resources but also has a well-established reputation as a leading player in the global energy market. The petroleum industry, in particular, stands out as a critical component of this sector. Canada ranks as the world's fourth-largest oil producer, showcasing its influence and capability in the global oil landscape. 

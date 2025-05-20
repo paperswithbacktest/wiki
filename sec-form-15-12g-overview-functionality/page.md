@@ -1,6 +1,9 @@
 ---
-title: "SEC Form 15-12G: Overview and Functionality (Algo Trading)"
-description: "SEC Form 15-12G allows companies to terminate securities registration, reducing compliance costs and enhancing operational flexibility, impacting market transparency."
+category: quant_concept
+description: SEC Form 15-12G allows companies to terminate securities registration,
+  reducing compliance costs and enhancing operational flexibility, impacting market
+  transparency.
+title: 'SEC Form 15-12G: Overview and Functionality (Algo Trading)'
 ---
 
 In the world of securities regulation, maintaining compliance is crucial for companies that list their securities. Part of this process involves staying current with reporting obligations mandated by regulatory authorities. However, there are circumstances under which a company may decide to deregister its securities—effectively opting out of certain regulatory requirements. This strategic decision is often motivated by the desire to reduce administrative and financial burdens associated with continued compliance.

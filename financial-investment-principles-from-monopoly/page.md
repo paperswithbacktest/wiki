@@ -1,6 +1,9 @@
 ---
-title: "Financial and Investment Principles Derived From Monopoly (Algo Trading)"
-description: "Discover how the classic board game Monopoly offers valuable insights into financial and investment principles, from cash flow management to strategic investment."
+category: quant_concept
+description: Discover how the classic board game Monopoly offers valuable insights
+  into financial and investment principles, from cash flow management to strategic
+  investment.
+title: Financial and Investment Principles Derived From Monopoly (Algo Trading)
 ---
 
 Monopoly, a classic board game, is not only a popular source of family entertainment but also a profound tool for understanding fundamental financial principles. Designed in the early 20th century, Monopoly simulates a marketplace where players buy, sell, and trade properties to amass wealth, ultimately aiming to drive opponents into bankruptcy. This seemingly simple gameplay intricately mirrors many real-world financial concepts, offering players a basic education in economics and investing strategies.

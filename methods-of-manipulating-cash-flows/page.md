@@ -1,6 +1,8 @@
 ---
-title: "Methods of Manipulating Cash Flows (Algo Trading)"
-description: "Explore the complexities of cash flow manipulation and algorithmic trading in financial markets Discover essential insights for safeguarding stakeholder interests"
+category: quant_concept
+description: Explore the complexities of cash flow manipulation and algorithmic trading
+  in financial markets Discover essential insights for safeguarding stakeholder interests
+title: Methods of Manipulating Cash Flows (Algo Trading)
 ---
 
 In the evolving landscape of financial markets, the complexities of financial reporting and the nuances of accounting practices play a pivotal role in shaping transparent financial ecosystems. These factors are more pronounced in the context of cash flow manipulation and the increasing prevalence of algorithmic trading (algo trading), which together present multifaceted challenges and opportunities for accountants, financial experts, and investors.

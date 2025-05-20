@@ -1,6 +1,9 @@
 ---
-title: "Acquired Fund Fees and Expenses (Algo Trading)"
-description: "Explore Acquired Fund Fees and Expenses (AFFE) in multi-manager investments and algorithmic trading to understand their impact on cost efficiency and investment decisions."
+category: quant_concept
+description: Explore Acquired Fund Fees and Expenses (AFFE) in multi-manager investments
+  and algorithmic trading to understand their impact on cost efficiency and investment
+  decisions.
+title: Acquired Fund Fees and Expenses (Algo Trading)
 ---
 
 The world of investment is in a state of perpetual advancement, continuously introducing new strategies designed to optimize returns. One intriguing facet of this evolving landscape is the concept of Acquired Fund Fees and Expenses (AFFE). These entail a crucial understanding of the cost structure associated with investments, particularly in arrangements like multi-manager setups and fund-of-funds (FOF) configurations.

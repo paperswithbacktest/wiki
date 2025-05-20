@@ -1,6 +1,9 @@
 ---
-title: "Exchange Rate Fluctuations (Algo Trading)"
-description: "Explore the dynamics of forex market with a focus on currency fluctuations and exchange rates Learn how algo trading revolutionizes trading strategies for better returns"
+category: quant_concept
+description: Explore the dynamics of forex market with a focus on currency fluctuations
+  and exchange rates Learn how algo trading revolutionizes trading strategies for
+  better returns
+title: Exchange Rate Fluctuations (Algo Trading)
 ---
 
 The global foreign exchange (forex) market stands as the largest and most liquid financial market worldwide, boasting daily trading volumes that exceed $6 trillion. This immense trading volume reflects the critical role that currency fluctuations and exchange rates play in international trade, investments, and economic stability. The forex market operates 24 hours a day, five days a week, facilitating transactions between a wide range of participants, including governments, financial institutions, corporations, and individual traders. 

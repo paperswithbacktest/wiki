@@ -1,6 +1,11 @@
 ---
-title: "Financial Accounting: Concepts and Principles (Algo Trading)"
-description: "Explore the essential accounting principles and their significance in financial accounting for algorithmic trading. Understand how these principles ensure transparency, consistency, and compliance in financial reporting. Discover how adhering to standards like revenue recognition and full disclosure enhances decision-making and risk management in modern trading environments."
+category: quant_concept
+description: Explore the essential accounting principles and their significance in
+  financial accounting for algorithmic trading. Understand how these principles ensure
+  transparency, consistency, and compliance in financial reporting. Discover how adhering
+  to standards like revenue recognition and full disclosure enhances decision-making
+  and risk management in modern trading environments.
+title: 'Financial Accounting: Concepts and Principles (Algo Trading)'
 ---
 
 The dynamic landscape of finance and trading necessitates a robust understanding of accounting principles. These principles form the underpinning of effective financial accounting, which is crucial for ensuring transparency and consistency in financial reporting. In modern trading, particularly algorithmic trading, it is essential to adhere to these guidelines because they help maintain the reliability of financial data across various trading platforms and systems.

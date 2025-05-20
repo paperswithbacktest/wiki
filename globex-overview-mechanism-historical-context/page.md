@@ -1,6 +1,8 @@
 ---
-title: "Globex: Overview, Mechanism, and Historical Context (Algo Trading)"
-description: "Explore the impact of Globex on algorithmic trading and modern financial markets with insights into its mechanism and historical milestones."
+category: quant_concept
+description: Explore the impact of Globex on algorithmic trading and modern financial
+  markets with insights into its mechanism and historical milestones.
+title: 'Globex: Overview, Mechanism, and Historical Context (Algo Trading)'
 ---
 
 The digital age has transformed trading dynamics, leading to notable advancements in the way financial markets operate. Among these advancements, algorithmic trading has emerged as a key development, optimizing trading strategies through the use of technology. Within this sphere, the evolution of Globex has played a pivotal role in reshaping the trading landscape.

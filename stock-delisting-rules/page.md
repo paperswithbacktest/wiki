@@ -1,6 +1,9 @@
 ---
-title: "Stock Delisting Rules (Algo Trading)"
-description: "Explore the rules governing stock delisting and their impact on investors and algorithmic trading Adapt strategies to mitigate risks on major exchanges like NYSE and Nasdaq"
+category: quant_concept
+description: Explore the rules governing stock delisting and their impact on investors
+  and algorithmic trading Adapt strategies to mitigate risks on major exchanges like
+  NYSE and Nasdaq
+title: Stock Delisting Rules (Algo Trading)
 ---
 
 Delisting represents the removal of a company's securities from a stock exchange, often indicating challenges in meeting the stringent requirements set by the exchange. This process raises significant concerns amongst investors due to its impact on stock liquidity, trading viability, and overall market perception. Delisting can occur either voluntarily, when a company decides to go private, or involuntarily, when the company fails to comply with the exchange's listing standards such as minimum share price, market capitalization, or financial disclosures.

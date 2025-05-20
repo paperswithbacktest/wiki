@@ -1,6 +1,8 @@
 ---
-title: "Fifty Percent Principle: Overview and Examples (Algo Trading)"
-description: "Master the Fifty Percent Principle in trading to forecast market corrections and enhance entry strategies with examples from algorithmic trading."
+category: quant_concept
+description: Master the Fifty Percent Principle in trading to forecast market corrections
+  and enhance entry strategies with examples from algorithmic trading.
+title: 'Fifty Percent Principle: Overview and Examples (Algo Trading)'
 ---
 
 Understanding market corrections is essential for making informed decisions in trading and investing. Among the various concepts employed by traders, the Fifty Percent Principle stands out as a noteworthy guide. This principle forecasts the potential depreciation of a stock or asset during a correction phase following a period of rapid gains. The core idea is that an asset might experience a retracement that sheds approximately 50% to 67% of its previous increase before stabilizing and possibly resuming its upward trajectory.

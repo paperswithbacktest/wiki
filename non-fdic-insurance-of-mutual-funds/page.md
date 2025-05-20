@@ -1,6 +1,8 @@
 ---
-title: "Non-FDIC Insurance of Mutual Funds (Algo Trading)"
-description: "Explore the dynamics of mutual funds and algorithmic trading in investment strategies focusing on the risks without FDIC coverage and the role of diversification."
+category: quant_concept
+description: Explore the dynamics of mutual funds and algorithmic trading in investment
+  strategies focusing on the risks without FDIC coverage and the role of diversification.
+title: Non-FDIC Insurance of Mutual Funds (Algo Trading)
 ---
 
 In the world of investments, safety and risk are two sides of the same coin. Investors aim to maximize returns while minimizing potential losses, an endeavor that demands a thorough understanding of specific financial constructs. Key among these are mutual funds, FDIC insurance, investment safety, and algorithmic trading; each plays a vital role in shaping investment strategies.

@@ -1,6 +1,8 @@
 ---
-title: "Hard Fork in Blockchain: Mechanism and Reasons (Algo Trading)"
-description: "Explore blockchain hard forks and their impact on crypto algo trading Learn about mechanisms reasons and strategies shaping the digital currency landscape"
+category: quant_concept
+description: Explore blockchain hard forks and their impact on crypto algo trading
+  Learn about mechanisms reasons and strategies shaping the digital currency landscape
+title: 'Hard Fork in Blockchain: Mechanism and Reasons (Algo Trading)'
 ---
 
 The cryptocurrency world is dynamic and ever-evolving, marked by frequent updates and changes that challenge both enthusiasts and investors. At the core of this transformation is blockchain technology, a decentralized and immutable digital ledger system. One of the critical aspects of blockchain technology is the occurrence of hard forks. These are significant events where changes in the underlying protocols result in the splitting of a blockchain network into two separate entities, often leading to the creation of new cryptocurrencies.

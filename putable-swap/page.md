@@ -1,6 +1,8 @@
 ---
-title: "Putable Swap (Algo Trading)"
-description: "Explore the dynamics of putable swaps in algorithmic trading which offer strategic flexibility in managing interest rate risks and optimizing financial outcomes."
+category: quant_concept
+description: Explore the dynamics of putable swaps in algorithmic trading which offer
+  strategic flexibility in managing interest rate risks and optimizing financial outcomes.
+title: Putable Swap (Algo Trading)
 ---
 
 The financial world offers a variety of instruments designed to meet the diverse needs of investors and institutions. Among these, swap agreements, particularly putable swaps, play a significant role. Traditionally, these instruments have been utilized for managing interest rate risks and optimizing financial outcomes. However, their significance has increased with more sophisticated trading environments and strategies.

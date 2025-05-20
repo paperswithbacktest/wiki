@@ -1,6 +1,8 @@
 ---
-title: "Conversion Ratio Calculation and Examples (Algo Trading)"
-description: "Discover how to calculate conversion ratios and rates in algo trading. Enhance your trading strategies with practical examples and algorithmic insights."
+category: quant_concept
+description: Discover how to calculate conversion ratios and rates in algo trading.
+  Enhance your trading strategies with practical examples and algorithmic insights.
+title: Conversion Ratio Calculation and Examples (Algo Trading)
 ---
 
 The financial world is a multifaceted domain that requires a deep understanding of various concepts to navigate successfully. Within this arena, the comprehension of conversion ratios, conversion examples, and conversion rate calculations becomes imperative for both casual investors and professional traders. These concepts are foundational elements that contribute significantly to informed decision-making and strategy formation in trading activities.

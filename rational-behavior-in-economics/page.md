@@ -1,6 +1,8 @@
 ---
-title: "Rational Behavior in Economics (Algo Trading)"
-description: "Explore how rational behavior in economics intertwines with algo trading enhancing market strategies with technology to optimize financial decisions."
+category: quant_concept
+description: Explore how rational behavior in economics intertwines with algo trading
+  enhancing market strategies with technology to optimize financial decisions.
+title: Rational Behavior in Economics (Algo Trading)
 ---
 
 Understanding economic behavior is crucial for predicting market trends and making informed decisions. At the heart of economic theory lies rational choice theory, which posits that individuals make decisions to maximize their utility. This foundational concept suggests that individuals weigh the costs and benefits of their options and choose the option that provides the greatest net benefit or utility. This principle has been instrumental in analyzing consumer behavior, preparing policy frameworks, and understanding market dynamics.
@@ -110,4 +112,3 @@ Looking forward, future developments in technology and economic theory will undo
 4. Lo, A. W. (2004). "The Adaptive Markets Hypothesis: Market Efficiency from an Evolutionary Perspective". Andrew Lo introduces the Adaptive Markets Hypothesis, proposing that market efficiency is not a static condition but instead evolves over time. He combines principles from evolutionary biology with traditional economic theories to suggest that financial markets adapt as financial agents learn and evolve. This perspective is highly relevant for the development of algorithmic trading systems that incorporate machine learning and are capable of evolving strategies over time based on new data.
 
 5. Hansen, L. P., & Sargent, T. J. (2001). "Robust Control and Model Uncertainty in Economics". This work explores the concept of robust control in economic modeling, particularly when facing uncertainties in model parameters. Hansen and Sargent address how economic agents make decisions when faced with model uncertainty and unknown variables. Robust control theory has implications for algo trading, where uncertain market conditions necessitate strategies that can perform well across a variety of potential scenarios, thus aligning with the principles of rational choice theory and risk management practices.
-

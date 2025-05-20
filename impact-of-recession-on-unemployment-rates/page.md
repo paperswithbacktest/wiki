@@ -1,6 +1,8 @@
 ---
-title: "Impact of Recession on Unemployment Rates (Algo Trading)"
-description: "Explore the impact of recessions on unemployment rates and discover how algorithmic trading strategies manage financial risks during economic downturns."
+category: trading_strategy
+description: Explore the impact of recessions on unemployment rates and discover how
+  algorithmic trading strategies manage financial risks during economic downturns.
+title: Impact of Recession on Unemployment Rates (Algo Trading)
 ---
 
 The interconnected world of economics experiences periodic cycles of growth and decline, which often lead to recessions impacting unemployment rates. Recessions, characterized by prolonged periods of economic contraction, can significantly disrupt labor markets, increasing unemployment as businesses cut back on their workforce in response to declining demand. 

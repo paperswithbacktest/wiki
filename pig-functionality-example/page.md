@@ -1,6 +1,8 @@
 ---
-title: "Pig: Definition, Functionality, and Example (Algo Trading)"
-description: "Explore the role of the 'Pig' in algorithmic trading where innovative algorithms manage behavioral finance, ensuring disciplined and strategic trading."
+category: quant_concept
+description: Explore the role of the 'Pig' in algorithmic trading where innovative
+  algorithms manage behavioral finance, ensuring disciplined and strategic trading.
+title: 'Pig: Definition, Functionality, and Example (Algo Trading)'
 ---
 
 In the fast-paced world of financial markets, algorithmic trading has dramatically transformed how transactions are conducted by utilizing sophisticated algorithms that enable traders to conduct transactions with unparalleled speed, efficiency, and precision. At the heart of these systems lies a critical concept known as the 'Pig', which fuses traditional investment strategies with cutting-edge technological advancements.

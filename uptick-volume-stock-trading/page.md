@@ -1,6 +1,8 @@
 ---
-title: "Uptick Volume in Stock Trading (Algo Trading)"
-description: "Explore the significance of uptick volume in algorithmic stock trading understanding how it helps traders gauge market trends and make informed decisions."
+category: quant_concept
+description: Explore the significance of uptick volume in algorithmic stock trading
+  understanding how it helps traders gauge market trends and make informed decisions.
+title: Uptick Volume in Stock Trading (Algo Trading)
 ---
 
 The world of stock trading is continuously evolving, driven by technological advancements and the increasing dominance of algorithmic trading. Algorithmic trading leverages computer algorithms to execute trades at speeds and frequencies that are impossible for human traders. This has not only streamlined the trading process but has also changed the dynamics of market analysis. Among the various metrics employed by traders, uptick volume stands out as a crucial indicator for assessing market direction and sentiment.

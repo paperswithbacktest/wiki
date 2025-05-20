@@ -1,6 +1,8 @@
 ---
-title: "Comparison of Bond Face Value and Market Price (Algo Trading)"
-description: "Compare bond face value and market price dynamics Learn how interest rates credit ratings and maturity impact bond valuation in algorithmic trading environments"
+category: quant_concept
+description: Compare bond face value and market price dynamics Learn how interest
+  rates credit ratings and maturity impact bond valuation in algorithmic trading environments
+title: Comparison of Bond Face Value and Market Price (Algo Trading)
 ---
 
 Bonds are a fundamental component of investment portfolios, serving as essential tools for both individual and institutional investors. They provide a means for governments and corporations to raise capital while offering investors a reliable income stream through interest payments. The effectiveness of bond investment strategies relies heavily on a comprehensive understanding of the face value, market price, and various pricing mechanisms associated with bonds.

@@ -1,6 +1,9 @@
 ---
-title: "Relativity Trap: Mechanism and Examples (Algo Trading)"
-description: "Explore the relativity trap in algorithmic trading which affects decision-making by favoring comparative assessments over absolute values learn to enhance trading strategies."
+category: quant_concept
+description: Explore the relativity trap in algorithmic trading which affects decision-making
+  by favoring comparative assessments over absolute values learn to enhance trading
+  strategies.
+title: 'Relativity Trap: Mechanism and Examples (Algo Trading)'
 ---
 
 Algorithmic trading has revolutionized the financial markets by utilizing computer algorithms to automate trading decisions, resulting in higher efficiency and the ability to process vast amounts of data quickly. This approach minimizes human error and emotional decision-making, allowing traders to capitalize on microsecond-level opportunities. However, the very efficiency of algorithmic trading also introduces complexities, particularly related to cognitive biases that traders might inadvertently program into their systems.

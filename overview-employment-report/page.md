@@ -1,6 +1,9 @@
 ---
-title: "Overview of the Employment Report (Algo Trading)"
-description: "Discover how labor statistics and employment reports guide economics and trading strategies. Unveil insights into job market dynamics and algorithmic trading impacts."
+category: dataset
+description: Discover how labor statistics and employment reports guide economics
+  and trading strategies. Unveil insights into job market dynamics and algorithmic
+  trading impacts.
+title: Overview of the Employment Report (Algo Trading)
 ---
 
 Labor statistics play a crucial role in shaping economic insights and guiding decision-making processes for policymakers, economists, and investors. These statistics provide a detailed overview of employment trends, wage growth, and labor force dynamics, serving as a foundation for evaluating the health and direction of an economy. A key component of labor statistics is the employment report, which offers comprehensive data on various aspects of employment. 

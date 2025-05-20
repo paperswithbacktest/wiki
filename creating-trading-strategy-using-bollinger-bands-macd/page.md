@@ -1,6 +1,8 @@
 ---
-title: "Creating a Trading Strategy Using Bollinger Bands and MACD (Algo Trading)"
-description: "Explore how Bollinger Bands and MACD indicators combine to form a dynamic trading strategy that enhances decision-making through volatility and momentum insights."
+category: trading_strategy
+description: Explore how Bollinger Bands and MACD indicators combine to form a dynamic
+  trading strategy that enhances decision-making through volatility and momentum insights.
+title: Creating a Trading Strategy Using Bollinger Bands and MACD (Algo Trading)
 ---
 
 In the world of investing and trading, technical indicators are crucial tools that help traders make informed decisions by analyzing market data. Among these indicators, the Moving Average Convergence Divergence (MACD) and Bollinger Bands stand out for their ability to provide insights into market dynamics through momentum and volatility analysis, respectively.
@@ -389,4 +391,3 @@ Online resources such as Investopedia and TradingView are also excellent for res
 To further deepen your understanding of market dynamics and the interaction of various technical indicators, "Quantitative Technical Analysis: An Integrated Approach to Trading System Development and Trading Management" by Dr. Howard Bandy provides an advanced exploration of system development and evaluation.
 
 Exploring these resources will equip traders with diverse perspectives and methodologies, allowing for more informed strategy development and execution in live markets.
-

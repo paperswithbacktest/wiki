@@ -1,6 +1,9 @@
 ---
-title: "Excess Spread: Overview and Mechanism (Algo Trading)"
-description: "Explore the interplay of securitization, excess spread, and algorithmic trading, highlighting their collective impact on modern financial markets and investment strategies."
+category: quant_concept
+description: Explore the interplay of securitization, excess spread, and algorithmic
+  trading, highlighting their collective impact on modern financial markets and investment
+  strategies.
+title: 'Excess Spread: Overview and Mechanism (Algo Trading)'
 ---
 
 The financial landscape is vast and multifaceted, comprising various mechanisms that aim to enhance investment opportunities while diligently managing associated risks. Among these mechanisms, securitization, excess spread, and algorithmic trading stand out for their significant contributions to modern financial markets.

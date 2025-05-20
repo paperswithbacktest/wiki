@@ -1,6 +1,12 @@
 ---
-title: "Reasons for Bond Trading by Investors (Algo Trading)"
-description: "Discover the significant impact of bond trading as a vital financial market segment providing stable returns and portfolio diversification. Explore the transformative role of algorithmic trading in enhancing bond market efficiency through improved liquidity and lower transaction costs. Understand how investors can leverage these insights to navigate complex trading landscapes optimize strategies and capitalize on evolving market opportunities."
+category: trading_strategy
+description: Discover the significant impact of bond trading as a vital financial
+  market segment providing stable returns and portfolio diversification. Explore the
+  transformative role of algorithmic trading in enhancing bond market efficiency through
+  improved liquidity and lower transaction costs. Understand how investors can leverage
+  these insights to navigate complex trading landscapes optimize strategies and capitalize
+  on evolving market opportunities.
+title: Reasons for Bond Trading by Investors (Algo Trading)
 ---
 
 The financial world has witnessed significant changes with the emergence of bond trading as a prominent segment. Bonds, as debt securities, have become a crucial component of modern financial markets, offering investors various avenues to maximize returns while safeguarding against risks. Unlike equities, bond investments typically provide a more predictable income stream, attracting both conservative and dynamic investors seeking diversification in their portfolios.

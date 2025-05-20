@@ -1,9 +1,11 @@
 ---
-title: "How do you automate and backtest a trading strategy without programming?"
-description: "Automate and backtest a trading strategy without programming - Discover how with visual trading platforms, intuitive backtesting tools, education, community support, and broker integrations. Learn more about strategies, libraries, datasets, and resources for systematic trading."
+category: trading_strategy
+description: Automate and backtest a trading strategy without programming - Discover
+  how with visual trading platforms, intuitive backtesting tools, education, community
+  support, and broker integrations. Learn more about strategies, libraries, datasets,
+  and resources for systematic trading.
+title: How do you automate and backtest a trading strategy without programming?
 ---
-
-
 
 The world of trading has transformed significantly over the past few decades, primarily due to technological advancements that have brought forth sophisticated mechanisms transcending traditional manual trading. Gone are the days when traders relied solely on gut feelings and manual chart analyses. Today, we stand at the forefront of a digital era that offers powerful tools capable of automating strategies and testing their effectiveness against historical data.
 

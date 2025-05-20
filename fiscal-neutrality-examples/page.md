@@ -1,6 +1,8 @@
 ---
-title: "Fiscal Neutrality: Definition and Examples (Algo Trading)"
-description: "Explore the complex relationship between fiscal neutrality and algorithmic trading and how they impact financial markets and economic policy for national stability."
+category: quant_concept
+description: Explore the complex relationship between fiscal neutrality and algorithmic
+  trading and how they impact financial markets and economic policy for national stability.
+title: 'Fiscal Neutrality: Definition and Examples (Algo Trading)'
 ---
 
 The interplay between government budget policies, economic management, fiscal neutrality, and algorithmic trading forms a complex ecosystem that affects national and global economic stability. These components of the financial landscape are intertwined, each influencing and being influenced by the others in various ways. For instance, government budget policies, including decisions on public spending and taxation, directly impact economic management and help define the fiscal environment within which businesses operate. Fiscal neutrality suggests that such policies should be structured to neither overly stimulate nor restrain the economy, aiming for a balanced approach that supports sustainable growth.
@@ -121,4 +123,3 @@ The imperative for further research and dialogue cannot be understated. Developi
 - Carney, M. (2009). Some Considerations on Using Government Spending to Stimulate Economic Activity. *Bank of Canada*. This discussion paper highlights the effectiveness of government spending as a mechanism to stimulate economic activity, particularly during periods of economic slack.
 
 - Alden, C., & Arner, D. W. (2019). Financial Stability, Resolution of Systemic Banking Crises, and Globalization. *Journal of Financial Regulation*. The authors delve into the complexities of maintaining financial stability amidst systemic crises, considering the implications of globalization on financial regulations and stability mechanisms.
-

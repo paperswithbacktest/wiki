@@ -1,6 +1,9 @@
 ---
-title: "Overcapitalization: Causes and Examples (Algo Trading)"
-description: "Explore the dynamics of overcapitalization and algorithmic trading to understand their impact on business efficiency sustainability and strategic financial management."
+category: quant_concept
+description: Explore the dynamics of overcapitalization and algorithmic trading to
+  understand their impact on business efficiency sustainability and strategic financial
+  management.
+title: 'Overcapitalization: Causes and Examples (Algo Trading)'
 ---
 
 In the rapidly evolving world of finance, businesses are exploring new paradigms to stay ahead. Critical concepts such as overcapitalization and algorithmic trading (algo trading) play essential roles in shaping the financial landscape. Overcapitalization occurs when a company's capital becomes excessive relative to its assets, creating inefficiencies and potentially jeopardizing long-term sustainability. On the other hand, algorithmic trading utilizes sophisticated computer algorithms to make swift trading decisions, allowing businesses to minimize human error and increase trading efficiency.

@@ -1,6 +1,8 @@
 ---
-title: "Manager Universe Benchmark: Advantages and Disadvantages (Algo Trading)"
-description: "Explore the impact of manager universe benchmarks in algo trading uncovering their advantages and disadvantages for investment performance evaluation."
+category: trading_strategy
+description: Explore the impact of manager universe benchmarks in algo trading uncovering
+  their advantages and disadvantages for investment performance evaluation.
+title: 'Manager Universe Benchmark: Advantages and Disadvantages (Algo Trading)'
 ---
 
 The financial landscape continues to evolve rapidly. At the heart of this transformation is the role of investment managers, whose performance is a key indicator of successful investment strategies. For investors aiming to enhance their portfolios, understanding how to benchmark investment performance is imperative. Benchmarking serves as a tool to evaluate the effectiveness of investment decisions by comparing them against established standards or peers. This process helps identify which investment strategies are yielding superior returns and informs decision-making processes.

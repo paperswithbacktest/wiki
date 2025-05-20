@@ -1,6 +1,8 @@
 ---
-title: "Ask Size in Finance (Algo Trading)"
-description: "Explore the significance of ask size in stock trading how it impacts market dynamics and the role of algorithmic trading in optimizing trade strategies."
+category: quant_concept
+description: Explore the significance of ask size in stock trading how it impacts
+  market dynamics and the role of algorithmic trading in optimizing trade strategies.
+title: Ask Size in Finance (Algo Trading)
 ---
 
 Stock trading is a fundamental component of financial markets, involving the continuous buying and selling of equity shares. It is a process where investors, both individual and institutional, exchange ownership in companies. This process not only seeks to generate profit but also facilitates capital allocation and market liquidity. For participants in these markets, understanding various terminologies and concepts is paramount. Terms such as "ask size" and "algorithmic trading" are among the key elements that investors need to grasp to navigate effectively.
@@ -184,4 +186,3 @@ Chan, E. P. (2017). "Quantitative Trading: How to Build Your Own Algorithmic Tra
 Hendershott, T., Jones, C. M., & Menkveld, A. J. "Does Algorithmic Trading Improve Liquidity?" This research paper explores the effects of algorithmic trading on market liquidity. It analyzes how algorithmic trading strategies impact bid-ask spreads, market depth, and overall market efficiency.
 
 Narang, R. K. "Inside the Black Box: The Simple Truth About Quantitative Trading." Narang's work demystifies the complex world of [quantitative trading](/wiki/quantitative-trading). The book offers insights into how quantitative strategies are designed, implemented, and managed, making it accessible to both novice and experienced traders.
-

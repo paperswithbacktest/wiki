@@ -1,6 +1,9 @@
 ---
-title: "Exhaustion Gap in Technical Analysis (Algo Trading)"
-description: "Explore the significance of exhaustion gaps in technical analysis and algorithmic trading to refine strategies and anticipate potential stock market trend reversals."
+category: trading_strategy
+description: Explore the significance of exhaustion gaps in technical analysis and
+  algorithmic trading to refine strategies and anticipate potential stock market trend
+  reversals.
+title: Exhaustion Gap in Technical Analysis (Algo Trading)
 ---
 
 Understanding technical signals in stock market trading is essential for making informed decisions. Among these signals, the exhaustion gap plays a significant role, often indicating potential trend reversals. This article examines stock market trends, focusing on technical analysis and algorithmic trading, with an emphasis on exhaustion gaps. By understanding the mechanics of exhaustion gaps, traders can develop profitable strategies, capitalizing on shifts in market sentiment.

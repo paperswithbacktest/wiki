@@ -1,6 +1,8 @@
 ---
-title: "Underemployment: Causes and Examples (Algo Trading)"
-description: "Explore underemployment's impact and algorithmic trading's role in today's economy Understand their effects on jobs markets and economic stability"
+category: quant_concept
+description: Explore underemployment's impact and algorithmic trading's role in today's
+  economy Understand their effects on jobs markets and economic stability
+title: 'Underemployment: Causes and Examples (Algo Trading)'
 ---
 
 The global job market is undergoing significant transformations, with underemployment and algorithmic trading standing out as critical interconnected issues influencing contemporary economic dynamics. Underemployment, where individuals find themselves in positions that neither fully utilize their skills nor offer adequate compensation, reflects broader structural inefficiencies in labor markets and has emerged as a persistent challenge to economic stability. Simultaneously, the rise of algorithmic trading, characterized by the use of complex algorithms and high-speed computations to execute financial trades, introduces both opportunities and potential disruptions to market equilibrium. 

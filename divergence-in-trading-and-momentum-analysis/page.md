@@ -1,6 +1,8 @@
 ---
-title: "Divergence in Trading and Momentum Analysis (Algo Trading)"
-description: "Explore the synergy of momentum analysis and divergence in trading to optimize strategies and enhance decision-making through algorithmic trading solutions."
+category: trading_strategy
+description: Explore the synergy of momentum analysis and divergence in trading to
+  optimize strategies and enhance decision-making through algorithmic trading solutions.
+title: Divergence in Trading and Momentum Analysis (Algo Trading)
 ---
 
 Momentum analysis and divergence serve as foundational cornerstones for traders navigating the complexities of financial markets. These analytical tools empower traders by illuminating the underlying forces driving price movements, offering insights that facilitate more informed trading decisions. By examining the speed and magnitude of price changes, traders can harness momentum analysis to gauge the direction and strength of trends, thereby enabling more strategic entry and exit points.

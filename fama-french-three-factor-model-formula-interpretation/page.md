@@ -1,6 +1,9 @@
 ---
-title: "Fama-French Three-Factor Model: Formula and Interpretation (Algo Trading)"
-description: "Explore the Fama-French Three-Factor Model's role in algorithmic trading. Learn how this model enhances portfolio performance by leveraging size and value factors."
+category: quant_concept
+description: Explore the Fama-French Three-Factor Model's role in algorithmic trading.
+  Learn how this model enhances portfolio performance by leveraging size and value
+  factors.
+title: 'Fama-French Three-Factor Model: Formula and Interpretation (Algo Trading)'
 ---
 
 Understanding and predicting stock returns is a central pursuit in finance. The Fama-French Three-Factor Model stands out as a significant framework for asset price assessment, expanding beyond the traditional Capital Asset Pricing Model (CAPM). The model introduces size and value factors, encapsulated in the Small Minus Big (SMB) and High Minus Low (HML) metrics, alongside the traditional market risk factor. These additional factors aim to capture asset price variations that the CAPM cannot explain, offering a more refined analysis of expected returns.
@@ -222,4 +225,3 @@ Jegadeesh, N., & Titman, S. (1993). "Returns to Buying Winners and Selling Loser
 Hilpisch, Y. "Python for Finance: Mastering Data-Driven Finance." This resource is excellent for practitioners interested in leveraging Python for financial analyses, providing practical insights into data management, backtesting, and implementation of financial models, including the Fama-French Three-Factor Model.
 
 Gray, W. R., & Carlisle, T. E. "Quantitative Value: A Practitioner's Guide to Automating Intelligent Investment." This book offers a comprehensive guide to value investing through quantitative strategies, serving as a practical resource for implementing intelligent investment processes using models like Fama-French.
-

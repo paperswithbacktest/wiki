@@ -1,6 +1,8 @@
 ---
-title: "Metals and Mining Sector Overview (Algo Trading)"
-description: "Explore the intersection of metals mining and algorithmic trading showcasing how tech innovations impact markets and drive efficiency in resource allocation."
+category: quant_concept
+description: Explore the intersection of metals mining and algorithmic trading showcasing
+  how tech innovations impact markets and drive efficiency in resource allocation.
+title: Metals and Mining Sector Overview (Algo Trading)
 ---
 
 The mining sector plays a crucial role in the global economy, underpinning various industries by providing essential raw materials that drive technological development and economic growth. Comprising several categories such as industrial minerals, energy minerals, and the prominent sector of metals, the mining industry is multifaceted. This article primarily focuses on metals, a category that includes vital elements such as gold, silver, copper, and platinum. These metals are indispensable not only for manufacturing and construction but also for advancing areas like electronics, jewelry, and renewable energy technologies.

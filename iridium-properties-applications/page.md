@@ -1,6 +1,9 @@
 ---
-title: "Iridium: Properties and Applications (Algo Trading)"
-description: "Explore the exceptional properties and diverse applications of iridium in technology industries and algorithmic trading highlighting its pivotal role in innovation."
+category: quant_concept
+description: Explore the exceptional properties and diverse applications of iridium
+  in technology industries and algorithmic trading highlighting its pivotal role in
+  innovation.
+title: 'Iridium: Properties and Applications (Algo Trading)'
 ---
 
 Iridium, symbolized as Ir, is an exceptionally hard, rare, and valuable metal distinguished by its high melting point and remarkable corrosion resistance. These intrinsic properties make iridium indispensable in a multitude of high-tech applications that are pivotal to technological advancements and innovation across various industries. The metal's unique characteristics enable it to withstand extreme conditions, making it particularly valuable in critical sectors such as electronics, automotive, aerospace, and medicine.

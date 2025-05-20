@@ -1,6 +1,10 @@
 ---
-title: "Global Economic Stimulus and Relief Measures in Response to COVID-19 (Algo Trading)"
-description: "Explore global economic stimulus measures and the role of algorithmic trading during COVID-19 as countries navigate unprecedented financial challenges and recovery strategies."
+category: quant_concept
+description: Explore global economic stimulus measures and the role of algorithmic
+  trading during COVID-19 as countries navigate unprecedented financial challenges
+  and recovery strategies.
+title: Global Economic Stimulus and Relief Measures in Response to COVID-19 (Algo
+  Trading)
 ---
 
 The COVID-19 pandemic initiated a cascade of economic complications globally, necessitating swift and innovative measures from governments and financial institutions. These measures were implemented to alleviate the immediate economic distress and set a foundation for recovery. The unprecedented scale of the economic disruption brought by lockdowns, travel restrictions, and shifts in consumer behavior required rapid responses to stabilize markets and sustain livelihoods. Key actions included emergency fiscal policies, monetary interventions, and economic stimulus packages designed to provide liquidity and support to businesses and individuals affected by the pandemic's economic impacts.

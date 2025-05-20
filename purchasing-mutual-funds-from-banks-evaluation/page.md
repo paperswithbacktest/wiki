@@ -1,6 +1,8 @@
 ---
-title: "Purchasing Mutual Funds from Banks: Evaluation (Algo Trading)"
-description: "Explore how banks and algorithmic trading are reshaping the mutual fund industry with insights into current trends and investment strategies for investors."
+category: trading_strategy
+description: Explore how banks and algorithmic trading are reshaping the mutual fund
+  industry with insights into current trends and investment strategies for investors.
+title: 'Purchasing Mutual Funds from Banks: Evaluation (Algo Trading)'
 ---
 
 The world of finance is perpetually transforming, with technological advancements serving as a key catalyst. This progression has broadened the spectrum of investment options available to both individual and institutional investors. Among these options, mutual funds have consistently retained their popularity due to their inherent diversification and the professional management they offer. This financial vehicle pools resources from a multitude of investors to create a diversified portfolio, aimed at achieving particular investment objectives while minimizing risk.

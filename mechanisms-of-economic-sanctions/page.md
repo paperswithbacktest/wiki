@@ -1,6 +1,9 @@
 ---
-title: "Mechanisms of Economic Sanctions (Algo Trading)"
-description: "Explore the role of algorithmic trading in economic sanctions enforcement. Understand the mechanisms, impact on global trade, and future trends in sanctions policy."
+category: quant_concept
+description: Explore the role of algorithmic trading in economic sanctions enforcement.
+  Understand the mechanisms, impact on global trade, and future trends in sanctions
+  policy.
+title: Mechanisms of Economic Sanctions (Algo Trading)
 ---
 
 International trade sanctions have become an increasingly pivotal element in global policy frameworks, primarily serving as instruments to achieve foreign policy objectives. Economic sanctions, a subset of trade sanctions, are strategically employed by countries or international bodies to compel behavioral changes from other states or entities. These sanctions can manifest in various measures, including restrictions on trade, investments, and diplomatic relations, fundamentally aiming to exert economic pressure on target nations or groups [1].

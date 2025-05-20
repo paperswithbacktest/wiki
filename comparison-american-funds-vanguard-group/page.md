@@ -1,6 +1,9 @@
 ---
-title: "Comparison of American Funds and Vanguard Group (Algo Trading)"
-description: "Explore the unique investment styles of American Funds and Vanguard two industry giants in active and passive fund management alongside algorithmic trading trends"
+category: trading_strategy
+description: Explore the unique investment styles of American Funds and Vanguard two
+  industry giants in active and passive fund management alongside algorithmic trading
+  trends
+title: Comparison of American Funds and Vanguard Group (Algo Trading)
 ---
 
 Investment funds play a pivotal role in shaping the financial futures of individuals and institutions alike. However, navigating the landscape of investment funds can be complex, especially when considering titans in the industry such as American Funds and Vanguard. Both organizations stand as monumental figures among mutual fund managers globally, yet they adopt markedly different approaches to investment management.

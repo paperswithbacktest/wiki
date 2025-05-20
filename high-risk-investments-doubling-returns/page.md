@@ -1,6 +1,8 @@
 ---
-title: "High-Risk Investments with Potential for Doubling Returns (Algo Trading)"
-description: "Explore the potential of high-risk investments and algorithmic trading strategies to double your returns. Learn how to harness market opportunities effectively."
+category: trading_strategy
+description: Explore the potential of high-risk investments and algorithmic trading
+  strategies to double your returns. Learn how to harness market opportunities effectively.
+title: High-Risk Investments with Potential for Doubling Returns (Algo Trading)
 ---
 
 Investing is a critical component of financial growth, offering a variety of avenues with diverse risk and reward profiles. Among these, high-risk investments stand out due to their potential for significant returns, albeit with a greater chance of capital loss. For those willing to navigate this volatility, the allure lies in the possibility of doubling their returns through strategic choices and informed management.

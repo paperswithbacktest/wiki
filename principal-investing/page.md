@@ -1,6 +1,9 @@
 ---
-title: "Principal Investing (Algo Trading)"
-description: "Explore the evolving strategies of principal investing and algorithmic trading in financial markets Discover how these methodologies enhance returns and manage risks effectively"
+category: trading_strategy
+description: Explore the evolving strategies of principal investing and algorithmic
+  trading in financial markets Discover how these methodologies enhance returns and
+  manage risks effectively
+title: Principal Investing (Algo Trading)
 ---
 
 In the ever-evolving world of financial markets, investment strategies continue to adapt and change. This article explores the intricacies of principal investing and algorithmic trading, two methodologies increasingly adopted by investors and institutions. These methods, embodying a blend of finance and technology, are reshaping how investors approach market opportunities. By integrating financial expertise with advanced technological execution, these strategies aim to enhance returns while simultaneously managing and mitigating risk.

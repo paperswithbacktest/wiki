@@ -1,6 +1,9 @@
 ---
-title: "Residual Interest Bond (Algo Trading)"
-description: "Explore the complexities of Residual Interest Bonds and their role in algorithmic trading Learn how these innovative municipal bonds can enhance yields and manage risks"
+category: quant_concept
+description: Explore the complexities of Residual Interest Bonds and their role in
+  algorithmic trading Learn how these innovative municipal bonds can enhance yields
+  and manage risks
+title: Residual Interest Bond (Algo Trading)
 ---
 
 The world of finance is continuously evolving, introducing complex instruments that present both opportunities and risks to investors. One such instrument in the municipal bond market is the Residual Interest Bond (RIB). These bonds are innovative securities, allowing investors to potentially enhance yields while also presenting certain challenges in terms of risk and complexity. This article provides a thorough examination of RIBs, highlighting their purpose and how they have become an integral part of algorithmic trading.

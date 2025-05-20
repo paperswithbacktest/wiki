@@ -1,7 +1,8 @@
 ---
-title: Enhancing Augmented Reality With Machine Learning Techniques
+category: quant_concept
 description: AR machine learning improves object recognition tracking and real time
   responsiveness in AR for seamless immersive experiences Discover more inside
+title: Enhancing Augmented Reality With Machine Learning Techniques
 ---
 
 ![Image](images/1.jpeg)

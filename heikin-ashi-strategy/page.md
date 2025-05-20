@@ -1,6 +1,11 @@
 ---
-title: "Heikin-Ashi Trading Strategy (Algo Trading)"
-description: Discover the potential of the Heikin Ashi trading strategy within algorithmic trading. This innovative method uses modified candlesticks to smooth out market noise for clearer trend identification. Ideal for traders seeking refined approaches to long-term market movements, the Heikin Ashi strategy is explored alongside its integration with technical indicators to optimize trading algorithms.
+category: trading_strategy
+description: Discover the potential of the Heikin Ashi trading strategy within algorithmic
+  trading. This innovative method uses modified candlesticks to smooth out market
+  noise for clearer trend identification. Ideal for traders seeking refined approaches
+  to long-term market movements, the Heikin Ashi strategy is explored alongside its
+  integration with technical indicators to optimize trading algorithms.
+title: Heikin-Ashi Trading Strategy (Algo Trading)
 ---
 
 In the dynamic landscape of trading, strategies continually evolve to enhance profitability and precision. One innovative technique gaining traction is the Heikin Ashi strategy, particularly within the domain of algorithmic trading. This strategy employs a specialized charting method designed to improve trend identification, providing traders with a clearer perspective by smoothing out price fluctuations and filtering market noise.

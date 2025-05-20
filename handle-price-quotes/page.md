@@ -1,6 +1,8 @@
 ---
-title: "Handle in Price Quotes (Algo Trading)"
-description: "Understand handles and price quotes in algo trading to optimize strategies and make informed decisions in dynamic financial markets through precision and speed."
+category: quant_concept
+description: Understand handles and price quotes in algo trading to optimize strategies
+  and make informed decisions in dynamic financial markets through precision and speed.
+title: Handle in Price Quotes (Algo Trading)
 ---
 
 Financial markets operate as intricate systems, governed by numerous factors that impact both price fluctuations and trading methodologies. A robust comprehension of financial terminology such as 'handle' and 'price quotes' is essential for traders and investors aiming to navigate these complex environments. The term 'handle' refers to the whole number part of a price quote, providing crucial insights for traders needing a swift and efficient assessment of price levels. Meanwhile, price quotes represent the current valuation of a financial asset, offering a succinct depiction of its market status. 

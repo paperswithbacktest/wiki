@@ -1,6 +1,9 @@
 ---
-title: "1973 Oil Crisis: Causes and Effects (Algo Trading)"
-description: "Explore the profound impact of the 1973 oil crisis on global economy and politics delve into its causes and effects highlighting its relevance to algo trading."
+category: quant_concept
+description: Explore the profound impact of the 1973 oil crisis on global economy
+  and politics delve into its causes and effects highlighting its relevance to algo
+  trading.
+title: '1973 Oil Crisis: Causes and Effects (Algo Trading)'
 ---
 
 The 1973 energy crisis marked a significant turning point in global economic and political landscapes, primarily instigated by the oil embargo imposed by the Organization of the Petroleum Exporting Countries (OPEC). This embargo was a direct response to geopolitical conflicts, specifically related to the U.S. support for Israel during the Yom Kippur War. As a result, oil prices skyrocketed, sending shockwaves through economies worldwide. Nations struggled to cope with the sudden and severe economic disruptions triggered by this scarcity and price hike, underscoring their deep dependency on oil.

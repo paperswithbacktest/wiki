@@ -1,6 +1,8 @@
 ---
-title: "Linear Relationships: Formula and Examples (Algo Trading)"
-description: "Explore the role of linear relationships in algorithmic trading with practical examples and mathematical insights to enhance decision-making and profitability."
+category: quant_concept
+description: Explore the role of linear relationships in algorithmic trading with
+  practical examples and mathematical insights to enhance decision-making and profitability.
+title: 'Linear Relationships: Formula and Examples (Algo Trading)'
 ---
 
 In today's fast-paced financial markets, a firm grasp of linear relationships is essential for both academic study and practical applications such as algorithmic trading. Linear equations serve as a backbone in this understanding, offering insights into how various financial variables interact. At its core, a linear relationship illustrates a direct proportional relationship between variables, often represented by the equation $y = mx + b$, where $m$ denotes the slope and $b$ the y-intercept.

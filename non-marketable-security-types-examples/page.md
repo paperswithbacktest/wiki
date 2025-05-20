@@ -1,6 +1,8 @@
 ---
-title: "Non-Marketable Security Types and Examples (Algo Trading)"
-description: "Explore non-marketable securities and algorithmic trading techniques to optimize investment strategies. Understand their roles in shaping financial markets."
+category: quant_concept
+description: Explore non-marketable securities and algorithmic trading techniques
+  to optimize investment strategies. Understand their roles in shaping financial markets.
+title: Non-Marketable Security Types and Examples (Algo Trading)
 ---
 
 The world of finance is vast and complex, characterized by a diverse array of investment types and methodologies, each with distinct roles and impacts in the financial ecosystem. This article primarily examines two critical components: non-marketable securities and algorithmic trading, both of which play significant roles in shaping investment strategies and financial markets.

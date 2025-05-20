@@ -1,6 +1,14 @@
 ---
-title: "Normalized vs Raw Market Data (Algo Trading)"
-description: Explore the critical role of market data in algorithmic trading and the choice between normalized versus raw data. Normalized market data offers a standardized, streamlined approach for easier integration with trading strategies, while raw data provides comprehensive, unprocessed details directly from market feeds. This article investigates into the advantages and challenges of each data type, helping traders decide which aligns best with their goals and technical capabilities. Understanding these differences is key to developing effective and efficient trading strategies and enhancing overall performance in the fast-paced world of algo trading.
+category: dataset
+description: Explore the critical role of market data in algorithmic trading and the
+  choice between normalized versus raw data. Normalized market data offers a standardized,
+  streamlined approach for easier integration with trading strategies, while raw data
+  provides comprehensive, unprocessed details directly from market feeds. This article
+  investigates into the advantages and challenges of each data type, helping traders
+  decide which aligns best with their goals and technical capabilities. Understanding
+  these differences is key to developing effective and efficient trading strategies
+  and enhancing overall performance in the fast-paced world of algo trading.
+title: Normalized vs Raw Market Data (Algo Trading)
 ---
 
 In algorithmic trading, market data is pivotal for developing and executing strategies. Market data forms the foundation upon which traders build their models and make informed decisions. The process of algorithmic trading relies heavily on accurate and timely market data to identify opportunities and execute trades.

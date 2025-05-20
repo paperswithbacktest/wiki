@@ -1,6 +1,8 @@
 ---
-title: "Measurement of Work in Progress in Accounting (Algo Trading)"
-description: "Explore the measurement of Work in Progress (WIP) in accounting and its integration with algorithmic trading to optimize financial strategies and decision-making."
+category: quant_concept
+description: Explore the measurement of Work in Progress (WIP) in accounting and its
+  integration with algorithmic trading to optimize financial strategies and decision-making.
+title: Measurement of Work in Progress in Accounting (Algo Trading)
 ---
 
 In today's dynamic financial landscape, understanding key concepts such as Work in Progress (WIP) measurement and its application in various fields is essential for businesses and investors alike. WIP plays a crucial role in accounting and financial analysis as it refers to the value of goods still in the production process, not yet completed or ready for sale. As businesses strive to optimize operations and improve financial outcomes, accurately measuring and managing WIP becomes pivotal.

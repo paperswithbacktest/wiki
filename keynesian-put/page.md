@@ -1,6 +1,9 @@
 ---
-title: "Keynesian Put (Algo Trading)"
-description: "Explore the synergy between Keynesian economics and algorithmic trading in today's financial markets, revealing insights into strategic behaviors and future trends."
+category: quant_concept
+description: Explore the synergy between Keynesian economics and algorithmic trading
+  in today's financial markets, revealing insights into strategic behaviors and future
+  trends.
+title: Keynesian Put (Algo Trading)
 ---
 
 This article aims to examine the intricate relationship between financial markets, Keynesian economics, economic theory, and algorithmic trading. By diving into this intersection, we can understand how the cornerstone principles of Keynesian economics still resonate within today's financial systems and are being refined through modern technological advancements like algorithmic trading.
@@ -170,4 +173,3 @@ As technology evolves, future possibilities include more sophisticated models th
    - Follow economic research organizations such as the National Bureau of Economic Research (NBER) for access to working papers and publications that offer in-depth economic analyses.
 
 Encourage readers to explore these materials to gain a nuanced understanding of how Keynesian economics and algorithmic trading continue to shape financial markets in a technologically advanced era.
-

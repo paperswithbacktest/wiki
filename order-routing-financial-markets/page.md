@@ -1,6 +1,8 @@
 ---
-title: "Order Routing in Financial Markets (Algo Trading)"
-description: "Optimize your trading strategies and execution in financial markets with smart order routing and algorithmic trading for enhanced efficiency and precision."
+category: quant_concept
+description: Optimize your trading strategies and execution in financial markets with
+  smart order routing and algorithmic trading for enhanced efficiency and precision.
+title: Order Routing in Financial Markets (Algo Trading)
 ---
 
 In today's rapidly evolving financial markets, technology plays a crucial role in achieving optimal trade execution. The advent of digital platforms has revolutionized how financial transactions are executed, leading to increased efficiency and precision. Key technological components such as order routing, trading systems, and algorithmic trading have brought about significant transformations.

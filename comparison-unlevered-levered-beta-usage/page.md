@@ -1,6 +1,14 @@
 ---
-title: "Comparison of Unlevered and Levered Beta Usage (Algo Trading)"
-description: "Explore the crucial differences between unlevered beta and levered beta in algo trading with this informative article. Understand how these metrics aid in risk assessment and investment decisions by measuring a company's risk relative to the market. Learn their relevance in formulating trading strategies that align with specific risk preferences. Gain insights into the calculations and implications of both betas, focusing on their integration into modern finance and algorithmic trading strategies for more sophisticated investment decisions. Enhance your financial knowledge and strategic execution in the evolving landscape of finance."
+category: quant_concept
+description: Explore the crucial differences between unlevered beta and levered beta
+  in algo trading with this informative article. Understand how these metrics aid
+  in risk assessment and investment decisions by measuring a company's risk relative
+  to the market. Learn their relevance in formulating trading strategies that align
+  with specific risk preferences. Gain insights into the calculations and implications
+  of both betas, focusing on their integration into modern finance and algorithmic
+  trading strategies for more sophisticated investment decisions. Enhance your financial
+  knowledge and strategic execution in the evolving landscape of finance.
+title: Comparison of Unlevered and Levered Beta Usage (Algo Trading)
 ---
 
 In the world of finance, understanding the concepts of unlevered beta and levered beta is crucial for risk assessment and investment decisions. These terms refer to different ways of measuring a company's risk relative to the market. Beta itself is a measure of a stock's volatility compared to the overall market, serving as a cornerstone for models such as the Capital Asset Pricing Model (CAPM). 

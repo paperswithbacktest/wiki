@@ -1,6 +1,8 @@
 ---
-title: "Amortizing Security: Definition and Application (Algo Trading)"
-description: "Explore the role of amortizing securities in algorithmic trading with insights into their cash flow predictability and risk management benefits for investors."
+category: quant_concept
+description: Explore the role of amortizing securities in algorithmic trading with
+  insights into their cash flow predictability and risk management benefits for investors.
+title: 'Amortizing Security: Definition and Application (Algo Trading)'
 ---
 
 Understanding a range of financial instruments is essential in today's dynamic financial environment. Among these, amortizing securities are noteworthy, significantly impacting investment strategies and algorithmic trading. These securities are a type of investment where the borrower makes scheduled payments that cover both interest and a portion of the principal, gradually reducing the debt until it's fully paid. Unlike non-amortizing securities, where the principal is repaid in a lump sum at maturity, amortizing securities offer a predictable pattern of cash flows, which is beneficial for both risk management and financial planning.

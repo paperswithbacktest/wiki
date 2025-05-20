@@ -1,7 +1,8 @@
 ---
-title: Comprehensive Guide to Image Colorization with Machine Learning
+category: quant_concept
 description: Image colorization uses machine learning models from CNNs to Transformers
   to add realistic color to black and white photos Discover more inside.
+title: Comprehensive Guide to Image Colorization with Machine Learning
 ---
 
 ![Image](images/1.jpeg)

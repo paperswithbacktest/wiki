@@ -1,6 +1,9 @@
 ---
-title: "Option Premium and Pricing Factors (Algo Trading)"
-description: "Explore how option premium pricing, vital for options trading, is influenced by intrinsic and extrinsic values. Learn how this understanding assists in algorithmic trading."
+category: quant_concept
+description: Explore how option premium pricing, vital for options trading, is influenced
+  by intrinsic and extrinsic values. Learn how this understanding assists in algorithmic
+  trading.
+title: Option Premium and Pricing Factors (Algo Trading)
 ---
 
 Option premium pricing is integral to options trading, as it dictates the cost of acquiring options and encapsulates both intrinsic and extrinsic values. The intrinsic value relates to the option's innate worth, based on the difference between the underlying asset's market price and the option's strike price. Meanwhile, the extrinsic value includes factors like time until expiration and anticipated market volatility. Accurately understanding these elements allows traders to predict and navigate the fluctuations in option prices effectively.

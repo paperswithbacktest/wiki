@@ -1,6 +1,8 @@
 ---
-title: "Impact of the 2008 Housing Crisis on the American Dream (Algo Trading)"
-description: "Explore the profound impact of the 2008 housing crisis on the American Dream, including the role of algorithmic trading in reshaping financial landscapes."
+category: quant_concept
+description: Explore the profound impact of the 2008 housing crisis on the American
+  Dream, including the role of algorithmic trading in reshaping financial landscapes.
+title: Impact of the 2008 Housing Crisis on the American Dream (Algo Trading)
 ---
 
 The concept of the American Dream has long been synonymous with homeownership and economic prosperity. This ideal has historically represented the promise of upward mobility and stability, rooted in the belief that anyone, regardless of their background, can achieve success through hard work. Homeownership, in particular, has been seen as a tangible asset that provides both personal security and an investment in one's future.

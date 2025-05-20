@@ -1,7 +1,8 @@
 ---
-title: BERT Bidirectional Transformer Model Explained for NLP Tasks
+category: quant_concept
 description: BERT enhances language understanding by processing words bidirectionally
   to boost search relevance translate text and power chatbots Discover more inside.
+title: BERT Bidirectional Transformer Model Explained for NLP Tasks
 ---
 
 ![Image](images/1.gif)

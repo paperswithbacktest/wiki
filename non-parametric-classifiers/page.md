@@ -1,8 +1,9 @@
 ---
-title: Understanding Non-Parametric Classification in Machine Learning
+category: quant_concept
 description: Non-parametric classification delivers flexible solutions that adapt
   to complex data without assumptions using algorithms like k-NN SVM GPs Discover
   more
+title: Understanding Non-Parametric Classification in Machine Learning
 ---
 
 ![Image](images/1.png)

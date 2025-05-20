@@ -1,6 +1,9 @@
 ---
-title: "Line Graphs: Types, Parts, Uses, and Examples (Algo Trading)"
-description: "Explore the importance of line graphs in algorithmic trading and data visualization Learn how they enhance decision-making by highlighting market trends and patterns"
+category: quant_concept
+description: Explore the importance of line graphs in algorithmic trading and data
+  visualization Learn how they enhance decision-making by highlighting market trends
+  and patterns
+title: 'Line Graphs: Types, Parts, Uses, and Examples (Algo Trading)'
 ---
 
 In today's data-driven world, effective visualization of information is crucial for decision-making. Line graphs are among the most popular tools for displaying trends over time, offering clarity and insight into patterns within data sets. Their simplicity and ease of interpretation make them indispensable in various fields, including finance, healthcare, and scientific research.

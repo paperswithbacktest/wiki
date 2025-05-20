@@ -1,6 +1,9 @@
 ---
-title: "Reference Equity (Algo Trading)"
-description: "Explore the intersection of equity and algorithmic trading in financial markets Unlock insights into ownership, capital allocation, and automated strategies' impact."
+category: quant_concept
+description: Explore the intersection of equity and algorithmic trading in financial
+  markets Unlock insights into ownership, capital allocation, and automated strategies'
+  impact.
+title: Reference Equity (Algo Trading)
 ---
 
 Equity represents ownership in an asset, such as a company, and is a cornerstone within financial markets. It forms the basis for various financial instruments and transactions, playing a crucial role in capital allocation and investment strategies. Equity markets offer a platform for companies to raise capital by issuing shares, while investors gain opportunities to participate in corporate growth. This interaction contributes to economic development and wealth creation, highlighting equity's foundational role.

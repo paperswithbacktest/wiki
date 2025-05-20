@@ -1,11 +1,9 @@
 ---
-title: "Filter: Definition, Functionality, and Examples (Algo Trading)"
-description: "Explore the pivotal role of filters in algorithmic trading to streamline data, optimize strategies, and enhance decision-making for traders and investors."
+category: quant_concept
+description: Explore the pivotal role of filters in algorithmic trading to streamline
+  data, optimize strategies, and enhance decision-making for traders and investors.
+title: 'Filter: Definition, Functionality, and Examples (Algo Trading)'
 ---
-
-
-
-
 
 Filters play a crucial role in the domains of investing and trading, particularly within the fast-evolving sphere of algorithmic trading. They serve as essential tools for investors and traders aiming to manage vast amounts of market data and make informed investment decisions. By significantly reducing the universe of potential investment options, filters enable traders to focus on securities that meet specific criteria, thus simplifying the decision-making process.
 

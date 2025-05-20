@@ -1,6 +1,11 @@
 ---
-title: "Matching Engines Guide (Algo Trading)"
-description: Discover the essential role of matching engines in algorithmic trading platforms. Learn how these engines pair buy and sell orders efficiently, contributing to market liquidity and low-latency execution. This guide provides valuable insights into their impact on trading strategies and market dynamics, featuring advanced algorithms and real-world applications for traders and developers.
+category: quant_concept
+description: Discover the essential role of matching engines in algorithmic trading
+  platforms. Learn how these engines pair buy and sell orders efficiently, contributing
+  to market liquidity and low-latency execution. This guide provides valuable insights
+  into their impact on trading strategies and market dynamics, featuring advanced
+  algorithms and real-world applications for traders and developers.
+title: Matching Engines Guide (Algo Trading)
 ---
 
 In the fast-paced world of algorithmic trading, understanding the infrastructure behind trading platforms is crucial. One of the key components that facilitate trades is the matching engine. At its core, a matching engine is an integral part of trading systems, responsible for pairing buy and sell orders efficiently and accurately. These engines are equipped with sophisticated algorithms that ensure orders are matched according to predefined rules, which can be based on price-time priority, volume, and other market dynamics.

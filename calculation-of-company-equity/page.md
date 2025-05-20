@@ -1,6 +1,9 @@
 ---
-title: "Calculation of Company Equity (Algo Trading)"
-description: "Explore the essential role of company equity in financial analysis and algorithmic trading Learn calculation methods and interpret metrics to optimize investments"
+category: quant_concept
+description: Explore the essential role of company equity in financial analysis and
+  algorithmic trading Learn calculation methods and interpret metrics to optimize
+  investments
+title: Calculation of Company Equity (Algo Trading)
 ---
 
 Understanding the concept of company equity is crucial for investors and analysts, as it serves as a fundamental metric in evaluating a company's financial health. Essentially, equity represents the residual value for shareholders after liabilities are subtracted from assets. This core principle underpins the assessment of a company's net worth, providing a clear picture of its financial stability and performance potential. By subtracting the total liabilities from the total assets, stakeholders can ascertain the equity of a company, offering insights into its ability to meet obligations and generate shareholder value.

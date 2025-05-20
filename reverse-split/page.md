@@ -1,6 +1,14 @@
 ---
-title: "Reverse split (Algo Trading)"
-description: Discover the intricacies of reverse stock splits in algorithmic trading, where companies reduce outstanding shares to alter stock structures without affecting market cap. Essential for traders, reverse splits can signal shifts in a company’s strategy, affecting trading strategies. In algotrading, they require data adjustments to ensure precise backtesting and accurate modeling. Learn how traders can adjust algorithms to maintain data integrity and enhance strategy effectiveness amidst market changes following a reverse split. This knowledge is crucial for navigating evolving trading landscapes successfully.
+category: quant_concept
+description: Discover the intricacies of reverse stock splits in algorithmic trading,
+  where companies reduce outstanding shares to alter stock structures without affecting
+  market cap. Essential for traders, reverse splits can signal shifts in a company’s
+  strategy, affecting trading strategies. In algotrading, they require data adjustments
+  to ensure precise backtesting and accurate modeling. Learn how traders can adjust
+  algorithms to maintain data integrity and enhance strategy effectiveness amidst
+  market changes following a reverse split. This knowledge is crucial for navigating
+  evolving trading landscapes successfully.
+title: Reverse split (Algo Trading)
 ---
 
 A reverse stock split is a corporate action in which a company reduces the number of its outstanding shares while proportionally increasing the share price. This process fundamentally alters the share structure without impacting the overall market capitalization of the company. For example, in a 1-for-5 reverse split, an investor holding 100 shares at $2 each would end up with 20 shares valued at $10 each. While the net value remains constant, the perception and metrics of the stock are changed significantly.

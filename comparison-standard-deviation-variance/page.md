@@ -1,6 +1,8 @@
 ---
-title: "Comparison of Standard Deviation and Variance (Algo Trading)"
-description: "Explore the significance of standard deviation and variance in algorithmic trading to grasp market volatility and optimize risk management strategies."
+category: quant_concept
+description: Explore the significance of standard deviation and variance in algorithmic
+  trading to grasp market volatility and optimize risk management strategies.
+title: Comparison of Standard Deviation and Variance (Algo Trading)
 ---
 
 In the rapidly changing finance sector, algorithmic trading has become a crucial component for both institutional and individual investors. By leveraging computer algorithms to execute a large volume of trades at speeds and frequencies that are impossible for human traders, algorithmic trading optimizes market opportunities. At the heart of these sophisticated trading systems lie fundamental mathematical concepts, among which standard deviation and variance play pivotal roles.

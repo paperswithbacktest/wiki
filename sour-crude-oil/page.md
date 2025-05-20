@@ -1,6 +1,8 @@
 ---
-title: "Sour Crude Oil (Algo Trading)"
-description: "Explore the unique challenges and opportunities of sour crude oil and algorithmic trading to enhance profitability in volatile crude oil markets."
+category: quant_concept
+description: Explore the unique challenges and opportunities of sour crude oil and
+  algorithmic trading to enhance profitability in volatile crude oil markets.
+title: Sour Crude Oil (Algo Trading)
 ---
 
 The importance of oil quality in the global market cannot be overstated, as it directly influences pricing, refining costs, and economic stability. Among the various types of crude oil, sour crude, characterized by its higher sulfur content, presents unique challenges and opportunities. Understanding this type of crude oil is crucial for traders and investors who seek to navigate the complexities of the oil market.

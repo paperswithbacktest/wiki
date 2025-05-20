@@ -1,6 +1,8 @@
 ---
-title: "EBITDAX Overview and Comparison with EBITDA (Algo Trading)"
-description: "Explore EBITDAX and its comparison with EBITDA in the context of algo trading uncovering strategies for smarter financial decisions in evolving markets."
+category: quant_concept
+description: Explore EBITDAX and its comparison with EBITDA in the context of algo
+  trading uncovering strategies for smarter financial decisions in evolving markets.
+title: EBITDAX Overview and Comparison with EBITDA (Algo Trading)
 ---
 
 The financial world is constantly evolving, necessitating a comprehensive understanding of key financial metrics for both investors and businesses. This article addresses significant metrics such as Earnings Per Share (EPS), Earnings Before Interest, Taxes, Depreciation and Amortization (EBITDA), and Earnings Before Interest, Taxes, Depreciation, Amortization and Exploration expenses (EBITDAX), alongside a discussion on algorithmic trading. 

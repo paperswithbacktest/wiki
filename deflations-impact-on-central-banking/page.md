@@ -1,6 +1,8 @@
 ---
-title: "Deflation's Impact on Central Banking (Algo Trading)"
-description: "Explore the complex effects of deflation on central banking and algorithmic trading, highlighting challenges and strategies for economic stability and growth."
+category: quant_concept
+description: Explore the complex effects of deflation on central banking and algorithmic
+  trading, highlighting challenges and strategies for economic stability and growth.
+title: Deflation's Impact on Central Banking (Algo Trading)
 ---
 
 Deflation is a significant economic phenomenon characterized by a decline in the overall price level of goods and services in an economy, often measured through indices such as the Consumer Price Index (CPI). This decrease in price levels can create a superficial impression of economic benefit due to the increase in the real purchasing power of money—consumers can buy more with the same amount of currency. However, the overall impact of deflation extends beyond this apparent benefit, introducing complex challenges for economic stability and growth.
@@ -127,4 +129,3 @@ In the context of financial machine learning and algorithmic trading strategies,
 Statistical analyses and case studies enrich the understanding of deflation across historical and contemporary scenarios. Studies on Japan's Lost Decade and the 2008-2009 financial crisis illustrate how algorithmic trading adapted to deflationary environments. The European Central Bank's working papers provide data-driven insights into deflationary trends and policy measures in the Eurozone.
 
 These references, through a mix of theoretical and practical perspectives, form a foundation for further exploration of deflation's impact on economic policy and financial markets.
-

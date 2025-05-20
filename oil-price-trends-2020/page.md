@@ -1,6 +1,9 @@
 ---
-title: "Oil Price Trends in 2020 (Algo Trading)"
-description: "Explore the multifaceted causes and effects of 2020 oil market volatility influenced by COVID-19 and geopolitical tensions with insights into algorithmic trading."
+category: dataset
+description: Explore the multifaceted causes and effects of 2020 oil market volatility
+  influenced by COVID-19 and geopolitical tensions with insights into algorithmic
+  trading.
+title: Oil Price Trends in 2020 (Algo Trading)
 ---
 
 In 2020, the global oil market underwent significant disruptions influenced by a confluence of external factors, primarily the COVID-19 pandemic and persistent geopolitical tensions. The onset of the COVID-19 pandemic resulted in an unprecedented reduction in global oil demand as countries imposed stringent lockdowns, travel restrictions, and industrial slowdowns to control the spread of the virus. Simultaneously, geopolitical dynamics, particularly an oil price war between leading oil producers, exacerbated these fluctuations by impacting supply levels in the market.

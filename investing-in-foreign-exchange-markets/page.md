@@ -1,6 +1,14 @@
 ---
-title: "Investing in Foreign Exchange Markets (Algo Trading)"
-description: "Explore the dynamic world of Forex trading with a focus on algorithmic strategies to enhance your investment portfolio. Understand the pivotal role of the largest financial market in facilitating global trade and discover how technological advancements can optimize efficiency and reduce risks. Dive into various currency investing strategies that offer versatility in managing wealth while leveraging market liquidity. Gain crucial insights into the factors influencing currency movements and learn how to position yourself effectively in the evolving landscape of foreign exchange markets."
+category: quant_concept
+description: Explore the dynamic world of Forex trading with a focus on algorithmic
+  strategies to enhance your investment portfolio. Understand the pivotal role of
+  the largest financial market in facilitating global trade and discover how technological
+  advancements can optimize efficiency and reduce risks. Dive into various currency
+  investing strategies that offer versatility in managing wealth while leveraging
+  market liquidity. Gain crucial insights into the factors influencing currency movements
+  and learn how to position yourself effectively in the evolving landscape of foreign
+  exchange markets.
+title: Investing in Foreign Exchange Markets (Algo Trading)
 ---
 
 The Forex market, or foreign exchange market, is a pivotal component of global finance, serving as the largest and most liquid financial market globally. It facilitates the exchange of currencies, which is essential for international trade and investment. Unlike stock markets, Forex operates on a decentralized network, only existing in the digital space across global financial centers, which allows for continuous operation, 24 hours a day, five days a week. This market's structure is unique compared to other financial markets, as it lacks a central exchange; trades occur "over-the-counter" (OTC), directly between parties via telecommunication networks.

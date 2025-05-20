@@ -1,9 +1,11 @@
 ---
-title: "Breakout Trading and Algo Trading"
-description: Uncover the strategies and insights behind successful breakout trading. Learn about identifying patterns, utilizing technical indicators, employing advanced tactics, understanding market psychology, and navigating limitations. Master this essential tactic for contemporary traders in volatile markets.
+category: trading_strategy
+description: Uncover the strategies and insights behind successful breakout trading.
+  Learn about identifying patterns, utilizing technical indicators, employing advanced
+  tactics, understanding market psychology, and navigating limitations. Master this
+  essential tactic for contemporary traders in volatile markets.
+title: Breakout Trading and Algo Trading
 ---
-
-
 
 At its core, breakout trading is a strategy where investors look for significant activity above or below a defined price range, signifying the potential start of a strong directional move.
 

@@ -1,6 +1,8 @@
 ---
-title: "On Account: Explanation and Examples (Algo Trading)"
-description: "Explore the critical role of journal entries and algorithmic trading in finance Discover how they ensure precise accounting and innovative trading strategies"
+category: quant_concept
+description: Explore the critical role of journal entries and algorithmic trading
+  in finance Discover how they ensure precise accounting and innovative trading strategies
+title: 'On Account: Explanation and Examples (Algo Trading)'
 ---
 
 In the world of finance and accounting, understanding journal entries and their implications is crucial. Journal entries are the foundational elements that capture every financial transaction within a business, providing a chronological record that is essential for accurate financial reporting. This article explores journal entries on account transactions, focusing on their critical role in maintaining precise and reliable accounting records. This understanding not only ensures compliance with accounting standards but also aids in effective decision-making and strategic planning.

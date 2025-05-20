@@ -1,6 +1,10 @@
 ---
-title: "Comparison of Earnings Per Share and Dividends Per Share (Algo Trading)"
-description: "Explore the key distinctions between Earnings Per Share (EPS) and Dividends Per Share (DPS) to understand their impact on investment decisions. Discover how EPS and DPS help assess a company's profitability and dividend policy, and learn about the role of algorithmic trading in modern finance for better-informed decisions."
+category: quant_concept
+description: Explore the key distinctions between Earnings Per Share (EPS) and Dividends
+  Per Share (DPS) to understand their impact on investment decisions. Discover how
+  EPS and DPS help assess a company's profitability and dividend policy, and learn
+  about the role of algorithmic trading in modern finance for better-informed decisions.
+title: Comparison of Earnings Per Share and Dividends Per Share (Algo Trading)
 ---
 
 The financial world is filled with numerous metrics and ratios that help investors evaluate the profitability and potential of companies. Two key financial metrics that play crucial roles in shaping investment decisions are Earnings Per Share (EPS) and Dividends Per Share (DPS). Both EPS and DPS are pivotal in helping investors assess the financial health and potential returns of their investments. In addition to these traditional financial ratios, the integration of algorithmic trading has significantly transformed the landscape of investment.

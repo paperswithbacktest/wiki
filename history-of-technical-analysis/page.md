@@ -1,6 +1,9 @@
 ---
-title: "History of Technical Analysis (Algo Trading)"
-description: "Explore the key developments in technical analysis history from pioneers like Charles Dow to modern algorithmic trading, highlighting influential figures and methodologies."
+category: quant_concept
+description: Explore the key developments in technical analysis history from pioneers
+  like Charles Dow to modern algorithmic trading, highlighting influential figures
+  and methodologies.
+title: History of Technical Analysis (Algo Trading)
 ---
 
 The stock market has served as a cornerstone of economic activity since its early inception, marked by the establishment of formal exchanges in the 17th century. Over time, it has evolved through a series of transformations, each contributing to the sophistication and reach of financial markets worldwide. Among these evolutionary strides, technical analysis stands out as a crucial methodology, fundamentally altering the way investors interpret and predict market behavior. This approach focuses on statistical trends gathered from trading activity, such as price movement and volume, rather than intrinsic value.

@@ -1,6 +1,8 @@
 ---
-title: "Borrowing Limits in Margin Accounts (Algo Trading)"
-description: "Explore borrowing limits in margin accounts and how they influence investment leverage and algorithmic trading Discover strategies to mitigate margin risks"
+category: quant_concept
+description: Explore borrowing limits in margin accounts and how they influence investment
+  leverage and algorithmic trading Discover strategies to mitigate margin risks
+title: Borrowing Limits in Margin Accounts (Algo Trading)
 ---
 
 Leveraging assets in the investment sector can significantly amplify returns, but it also increases exposure to risk. One of the key avenues for leveraging is through margin accounts, which allow investors to borrow funds from their broker to purchase additional securities. By doing so, investors can potentially enhance their profits but also expose themselves to risks such as margin calls, where they might be required to provide additional funds or face liquidation of their positions if the value of the assets falls below a certain threshold.

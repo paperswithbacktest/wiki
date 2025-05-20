@@ -1,6 +1,9 @@
 ---
-title: "Average Selling Price (Algo Trading)"
-description: "Discover the importance of Average Selling Price (ASP) in pricing strategy and algorithmic trading Learn how ASP guides decision-making to optimize market positioning"
+category: quant_concept
+description: Discover the importance of Average Selling Price (ASP) in pricing strategy
+  and algorithmic trading Learn how ASP guides decision-making to optimize market
+  positioning
+title: Average Selling Price (Algo Trading)
 ---
 
 The business world constantly evolves, with pricing strategies playing a critical role in determining the profitability and competitiveness of products and services. Central to these strategies is the concept of Average Selling Price (ASP), a pivotal metric in assessing pricing across various industries. ASP is not only a benchmark for setting and evaluating prices but also reflects market dynamics, consumer behavior, and competitive positioning.

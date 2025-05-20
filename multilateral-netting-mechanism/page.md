@@ -1,6 +1,8 @@
 ---
-title: "Multilateral Netting and Its Mechanism (Algo Trading)"
-description: "Discover how multilateral netting and algorithmic trading optimize financial strategies by reducing transaction complexity and enhancing market efficiency."
+category: quant_concept
+description: Discover how multilateral netting and algorithmic trading optimize financial
+  strategies by reducing transaction complexity and enhancing market efficiency.
+title: Multilateral Netting and Its Mechanism (Algo Trading)
 ---
 
 In the rapidly evolving world of finance, efficient transaction management is crucial for maximizing returns and minimizing risks. With the increasing complexity of financial instruments and global transactions, adopting strategies that streamline operations and boost profitability has become essential for firms aiming to maintain a competitive edge. This article explores the interconnected roles of multilateral netting, financial management, transaction settlement, and algorithmic trading in modern finance.
@@ -157,5 +159,4 @@ The evolution of the financial landscape demands that institutions not only adap
 
 [9]: Armstrong, J., & Gach, H. (2005). ["Multilateral Netting: An Overview."](https://www.semanticscholar.org/paper/Demand-Forecasting%3A-Evidence-Based-Methods-Green-Armstrong/0abb51e8923bd8c546794007475e21d4ec02106b)
 
-[10]: Treleaven, P., Galas, M., & Lalchand, V. (2013). ["Algorithmic Trading and High-Frequency Trading."](https://dl.acm.org/doi/10.1145/2500117) 
-
+[10]: Treleaven, P., Galas, M., & Lalchand, V. (2013). ["Algorithmic Trading and High-Frequency Trading."](https://dl.acm.org/doi/10.1145/2500117)

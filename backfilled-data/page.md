@@ -1,6 +1,12 @@
 ---
-title: "Backfilled data (Algo Trading)"
-description: Discover the critical role of backfilled data in algorithmic trading backtesting. Ensuring complete and reliable historical market data is key to validating trading strategies. Backfilled data eliminates gaps that could skew results, providing a solid foundation for assessing a strategy's effectiveness and risk. Explore methods to achieve comprehensive datasets for accurate backtesting and improved trading outcomes.
+category: dataset
+description: Discover the critical role of backfilled data in algorithmic trading
+  backtesting. Ensuring complete and reliable historical market data is key to validating
+  trading strategies. Backfilled data eliminates gaps that could skew results, providing
+  a solid foundation for assessing a strategy's effectiveness and risk. Explore methods
+  to achieve comprehensive datasets for accurate backtesting and improved trading
+  outcomes.
+title: Backfilled data (Algo Trading)
 ---
 
 Algorithmic trading, frequently referred to as algo trading, has fundamentally transformed financial markets. By utilizing predefined rules, algorithms execute trades at unparalleled speed and efficiency, effectively managing large volumes of transactions with precision that is unattainable through manual trading. This approach not only facilitates increased trading frequency but also enables strategies such as arbitrage, trend following, and market making, which capitalize on market opportunities within fractions of a second.

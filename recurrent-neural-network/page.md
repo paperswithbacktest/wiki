@@ -1,10 +1,9 @@
 ---
-title: Recurrent Neural Networks Explained Components and Applications
+category: quant_concept
 description: Recurrent Neural Networks use hidden states and gating to capture temporal
   dependencies in text and time series data actively. Discover more inside.
+title: Recurrent Neural Networks Explained Components and Applications
 ---
-
-
 
 ## Table of Contents
 

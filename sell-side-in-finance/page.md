@@ -1,6 +1,9 @@
 ---
-title: "Sell Side in Finance (Algo Trading)"
-description: "Discover how sell-side algorithmic trading is transforming financial markets by enhancing market efficiency, optimizing trade execution, and boosting profitability."
+category: quant_concept
+description: Discover how sell-side algorithmic trading is transforming financial
+  markets by enhancing market efficiency, optimizing trade execution, and boosting
+  profitability.
+title: Sell Side in Finance (Algo Trading)
 ---
 
 The landscape of financial brokerage has significantly transformed with the introduction of sell-side algorithmic trading to financial markets. Sell-side entities, encompassing investment banks, brokers, and dealers, manage transactions on behalf of clients, providing essential services such as research, trading strategies, and liquidity. The execution of these services has become more sophisticated with the use of algorithmic trading, which employs complex algorithms to automate and optimize the process of executing trades with precision and efficiency.

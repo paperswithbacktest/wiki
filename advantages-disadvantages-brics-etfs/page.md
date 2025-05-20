@@ -1,6 +1,9 @@
 ---
-title: "Advantages and Disadvantages of BRICS ETFs (Algo Trading)"
-description: "Explore the potential of BRICS ETFs for portfolio diversification and growth Learn about the benefits and risks of investing in emerging markets with algo trading strategies"
+category: trading_strategy
+description: Explore the potential of BRICS ETFs for portfolio diversification and
+  growth Learn about the benefits and risks of investing in emerging markets with
+  algo trading strategies
+title: Advantages and Disadvantages of BRICS ETFs (Algo Trading)
 ---
 
 The BRICS nations, comprising Brazil, Russia, India, China, and South Africa, represent a significant block of emerging markets on the global economic stage. These countries are recognized for their rapid industrialization and significant influence in international affairs due to their large populations, strategic economic collaborations, and share of global GDP. As such, they offer substantial growth potential, albeit accompanied by unique economic and political risks. 

@@ -1,6 +1,9 @@
 ---
-title: "Stock Watcher (Algo Trading)"
-description: "Discover how technology revolutionizes investing with tools for stock monitoring, financial analysis, investment tracking, and algorithmic trading to refine strategies."
+category: trading_strategy
+description: Discover how technology revolutionizes investing with tools for stock
+  monitoring, financial analysis, investment tracking, and algorithmic trading to
+  refine strategies.
+title: Stock Watcher (Algo Trading)
 ---
 
 The world of investing is experiencing a significant shift due to technological advancements. Stock monitoring, financial analysis, investment tracking, and algorithmic trading have become indispensable tools for contemporary investors. These tools play a crucial role in shaping modern investment strategies by providing critical insights that inform decision-making and portfolio optimization.

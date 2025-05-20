@@ -1,6 +1,8 @@
 ---
-title: "History and Replacement of Rule 10b-6 (Algo Trading)"
-description: "Explore the history and impact of SEC Rule 10b-6 and its replacement by Rule M Learn about its role in preventing market manipulation and promoting fairness"
+category: quant_concept
+description: Explore the history and impact of SEC Rule 10b-6 and its replacement
+  by Rule M Learn about its role in preventing market manipulation and promoting fairness
+title: History and Replacement of Rule 10b-6 (Algo Trading)
 ---
 
 Rule 10b-6 was a significant regulatory measure introduced by the Securities and Exchange Commission (SEC) aimed at curbing abuses in the securities market. This rule played a crucial role in maintaining market integrity by preventing manipulation during the distribution of securities. Its primary objective was to safeguard the fairness of trading conditions and protect investors from misleading price movements that could stem from manipulative practices, particularly by issuers and affiliated parties. By prohibiting certain stock purchases while a distribution was underway, Rule 10b-6 sought to eliminate artificial price inflation, thereby promoting transparency and trust within the financial markets.

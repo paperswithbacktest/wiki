@@ -1,6 +1,13 @@
 ---
-title: "Outstanding Shares and Float (Algo Trading)"
-description: "Discover how outstanding shares and stock float influence market behavior and algorithmic trading strategies in this comprehensive guide. Learn about the role of these financial metrics in calculating a company's value and how they affect stock liquidity and price stability. Understand the impact of algorithmic trading in modern markets, leveraging data-driven insights for rapid, efficient trade executions that capitalize on volatile and liquid stock conditions. Explore key concepts essential for optimizing investment decisions and maintaining a competitive trading edge."
+category: quant_concept
+description: Discover how outstanding shares and stock float influence market behavior
+  and algorithmic trading strategies in this comprehensive guide. Learn about the
+  role of these financial metrics in calculating a company's value and how they affect
+  stock liquidity and price stability. Understand the impact of algorithmic trading
+  in modern markets, leveraging data-driven insights for rapid, efficient trade executions
+  that capitalize on volatile and liquid stock conditions. Explore key concepts essential
+  for optimizing investment decisions and maintaining a competitive trading edge.
+title: Outstanding Shares and Float (Algo Trading)
 ---
 
 The stock market is a complex financial system where shares of publicly held companies are issued, bought, and sold. It serves as a critical platform for companies seeking capital to grow and for investors looking to gain returns. Within this market, two significant concepts are float and outstanding shares, both of which have profound impacts on investment strategies and market dynamics.

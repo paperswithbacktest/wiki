@@ -1,6 +1,8 @@
 ---
-title: "Overview of Deribit Platform (Algo Trading)"
-description: "Explore the Deribit platform for crypto trading with a focus on algorithmic strategies. Benefit from advanced tools and robust API for optimal trading performance."
+category: trading_strategy
+description: Explore the Deribit platform for crypto trading with a focus on algorithmic
+  strategies. Benefit from advanced tools and robust API for optimal trading performance.
+title: Overview of Deribit Platform (Algo Trading)
 ---
 
 Cryptocurrency trading has emerged as a complex and rapidly evolving field, offering both exciting opportunities and substantial challenges. For traders navigating this landscape, platforms such as Deribit provide a suite of specialized tools designed to facilitate effective trading strategies. Deribit distinguishes itself as a prominent cryptocurrency exchange, primarily focusing on the derivatives market with a strong emphasis on Bitcoin and Ether. It offers futures, options, and perpetual swaps, catering to a broad spectrum of traders, from retail to institutional levels.

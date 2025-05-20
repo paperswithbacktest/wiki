@@ -1,6 +1,9 @@
 ---
-title: "Essential Items for Your Initial Financial Advisor Appointment (Algo Trading)"
-description: "Prepare for your first financial advisor meeting on algo trading with practical tips and strategies to maximize the benefits of personalized advice and guidance."
+category: quant_concept
+description: Prepare for your first financial advisor meeting on algo trading with
+  practical tips and strategies to maximize the benefits of personalized advice and
+  guidance.
+title: Essential Items for Your Initial Financial Advisor Appointment (Algo Trading)
 ---
 
 In the dynamic landscape of investing and trading, financial advisors play an essential role in guiding individuals through complex financial decisions. For those new to this arena, especially with the advent of algorithmic trading, their expertise becomes indispensable. Algorithmic trading, or algo trading, uses computer algorithms to execute trades, often at speeds and frequencies unattainable by human traders. As this method of trading gains momentum, it is crucial to understand how a financial advisor can help tailor these advanced strategies to suit individual financial goals and risk profiles.

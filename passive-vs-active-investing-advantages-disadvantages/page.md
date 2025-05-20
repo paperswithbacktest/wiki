@@ -1,6 +1,10 @@
 ---
-title: "Passive vs. Active Investing: Advantages and Disadvantages (Algo Trading)"
-description: "Discover the distinct benefits and challenges of passive investing, active investing, and algorithmic trading in today's financial markets. Choose the strategy that aligns with your investment goals and risk tolerance for informed decision-making and potential wealth growth."
+category: trading_strategy
+description: Discover the distinct benefits and challenges of passive investing, active
+  investing, and algorithmic trading in today's financial markets. Choose the strategy
+  that aligns with your investment goals and risk tolerance for informed decision-making
+  and potential wealth growth.
+title: 'Passive vs. Active Investing: Advantages and Disadvantages (Algo Trading)'
 ---
 
 In today's dynamic financial markets, investors have numerous strategies available for wealth growth. Understanding the differences between passive investing, active investing, and algorithmic trading is crucial for financial success. Each strategy presents distinct advantages and challenges that require careful consideration.

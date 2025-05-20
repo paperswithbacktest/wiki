@@ -1,6 +1,9 @@
 ---
-title: "Discontinued and Uncommon U.S. Currency Denominations (Algo Trading)"
-description: "Explore discontinued and rare U.S. currency denominations that reflect historical shifts in economic and regulatory practices, intertwining past and modern finance."
+category: dataset
+description: Explore discontinued and rare U.S. currency denominations that reflect
+  historical shifts in economic and regulatory practices, intertwining past and modern
+  finance.
+title: Discontinued and Uncommon U.S. Currency Denominations (Algo Trading)
 ---
 
 The U.S. currency system is a tapestry woven with a diverse array of denominations, some of which have left their mark on history before fading from everyday use. From the earliest days of the American republic, the U.S. Treasury experimented with various forms and values of currency, introducing bills and coins that reflected the economic needs and technological capabilities of their times. Over the years, numerous denominations have been introduced and subsequently phased out, influenced by factors ranging from inflation and economic policy to counterfeiting concerns and shifts in public preference.
@@ -119,4 +122,3 @@ Reflecting on the history and value of physical currency could guide future mone
 [5]: ["History of the U.S. Federal Reserve"](https://en.wikipedia.org/wiki/History_of_the_Federal_Reserve_System)
 
 [6]: Smith, Andrew Farris. (2013). "U.S. Monetary History: The Evolution of Currency in America." Economics for Business Journal.
-

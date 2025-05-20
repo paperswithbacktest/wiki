@@ -1,6 +1,9 @@
 ---
-title: "Buying: Consumer and Business Perspectives and Types (Algo Trading)"
-description: "Explore the intersection of business and consumer purchasing behavior and the impact of algorithmic trading on decision-making in today's dynamic market landscape."
+category: trading_strategy
+description: Explore the intersection of business and consumer purchasing behavior
+  and the impact of algorithmic trading on decision-making in today's dynamic market
+  landscape.
+title: 'Buying: Consumer and Business Perspectives and Types (Algo Trading)'
 ---
 
 Understanding business purchasing and consumer buying behavior is crucial for companies aiming to optimize their marketing strategies. The market dynamics governing these areas are fundamental to crafting effective approaches that increase profitability and customer satisfaction. While both sectors share similar goals of acquiring goods and services, the motivations and processes differ significantly, impacting how businesses should strategize their marketing efforts.

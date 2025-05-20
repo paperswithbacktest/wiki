@@ -1,6 +1,12 @@
 ---
-title: "Purchase and Sale of NFTs (Algo Trading)"
-description: "Explore the dynamic world of NFTs and algorithmic trading with our comprehensive guide. Learn how to buy and sell unique digital assets securely on blockchain networks using digital wallets like MetaMask and Coinbase Wallet. Discover the mechanics of NFT marketplaces and the benefits of integrating algorithmic trading for enhanced decision-making. This page equips you with essential knowledge to confidently navigate the NFT landscape and capitalize on emerging opportunities in this innovative market."
+category: quant_concept
+description: Explore the dynamic world of NFTs and algorithmic trading with our comprehensive
+  guide. Learn how to buy and sell unique digital assets securely on blockchain networks
+  using digital wallets like MetaMask and Coinbase Wallet. Discover the mechanics
+  of NFT marketplaces and the benefits of integrating algorithmic trading for enhanced
+  decision-making. This page equips you with essential knowledge to confidently navigate
+  the NFT landscape and capitalize on emerging opportunities in this innovative market.
+title: Purchase and Sale of NFTs (Algo Trading)
 ---
 
 In the digital age, non-fungible tokens (NFTs) have emerged as a groundbreaking way to buy and sell digital assets, offering a new paradigm for understanding ownership in the virtual domain. Unlike cryptocurrencies like Bitcoin or Ethereum, which are fungible and can be exchanged for one another with equivalent value, NFTs represent ownership of unique items. These items can range from digital artworks, music, and videos to virtual real estate and even real-world assets, all secured by blockchain technology. 

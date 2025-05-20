@@ -1,7 +1,8 @@
 ---
-title: Practical Guide to Data Labeling for Machine Learning Models
+category: dataset
 description: Data labeling helps train machine learning models with precise tags that
   boost prediction accuracy and reliability. Discover more inside today.
+title: Practical Guide to Data Labeling for Machine Learning Models
 ---
 
 ![Image](images/1.jpeg)

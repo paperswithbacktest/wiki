@@ -1,6 +1,8 @@
 ---
-title: "Rollover Rate in Forex (Algo Trading)"
-description: "Discover how rollover rates and algorithmic trading enhance Forex trading strategies Manage interest rate differentials and optimize trade execution effectively"
+category: quant_concept
+description: Discover how rollover rates and algorithmic trading enhance Forex trading
+  strategies Manage interest rate differentials and optimize trade execution effectively
+title: Rollover Rate in Forex (Algo Trading)
 ---
 
 Forex trading, known as foreign exchange trading, involves the buying and selling of currencies in a decentralized global market. As one of the largest financial markets worldwide, it boasts a daily trading volume exceeding $6 trillion, showcasing its substantial influence on global trade and investments. Forex markets operate 24 hours a day, five days a week, and are integral to businesses, governments, and investors managing currency exposure and opportunities in international markets.

@@ -1,6 +1,8 @@
 ---
-title: "EIA Petroleum Status Report Overview (Algo Trading)"
-description: "Discover the impact of the EIA Petroleum Status Report on algorithmic trading in energy markets Get insights into crude oil supply demand dynamics"
+category: dataset
+description: Discover the impact of the EIA Petroleum Status Report on algorithmic
+  trading in energy markets Get insights into crude oil supply demand dynamics
+title: EIA Petroleum Status Report Overview (Algo Trading)
 ---
 
 The Petroleum Status Report, published weekly by the U.S. Energy Information Administration (EIA), serves as an essential resource for understanding both domestic and international oil markets. This report provides critical insights into the supply and demand dynamics of crude oil and refined products, playing a pivotal role in shaping the landscape of energy trading. It is a tool of paramount importance for investors and traders. The data contained within the EIA reports is indispensable for constructing informed trading strategies, especially for those leveraging algorithmic trading techniques, which rely heavily on accurate and timely data.

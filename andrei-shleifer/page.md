@@ -1,6 +1,9 @@
 ---
-title: "Andrei Shleifer (Algo Trading)"
-description: "Explore Andrei Shleifer's impact on financial economics focusing on his insights into algorithmic trading and behavioral finance revealing market behavior influences."
+category: quant_concept
+description: Explore Andrei Shleifer's impact on financial economics focusing on his
+  insights into algorithmic trading and behavioral finance revealing market behavior
+  influences.
+title: Andrei Shleifer (Algo Trading)
 ---
 
 Andrei Shleifer is a distinguished Russian-American economist recognized for his significant contributions to financial economics, behavioral finance, and development economics. As a professor at Harvard University, Shleifer has substantially influenced both academic theories and practical investment strategies. He was awarded the John Bates Clark Medal, which underlines his impact and stature in the field of economics. Shleifer’s research frequently challenges conventional theories of market efficiency, positing that markets are not always rational and are often subject to cognitive biases and psychological influences. This has opened new avenues for understanding phenomena such as market bubbles and crashes.

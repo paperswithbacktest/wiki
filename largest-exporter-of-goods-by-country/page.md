@@ -1,6 +1,8 @@
 ---
-title: "Largest Exporter of Goods by Country (Algo Trading)"
-description: "Explore global trade dynamics with a focus on the largest exporting countries and the impact of algorithmic trading, highlighting economic strategies and innovations."
+category: dataset
+description: Explore global trade dynamics with a focus on the largest exporting countries
+  and the impact of algorithmic trading, highlighting economic strategies and innovations.
+title: Largest Exporter of Goods by Country (Algo Trading)
 ---
 
 Global trade acts as a pivotal driver of the world economy by enabling international cooperation and fostering economic growth. The quantification of trade flows, specifically through export statistics, provides crucial insights into global economic dynamics, identifying the major players and understanding their influence on the international stage. This evaluation not only sheds light on economic dependencies but also on the strategic strengths that different countries harness.

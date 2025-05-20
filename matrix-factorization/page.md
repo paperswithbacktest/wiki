@@ -1,7 +1,8 @@
 ---
-title: Matrix Factorization Techniques for Effective ML Recommendations
+category: quant_concept
 description: Matrix Factorization boosts recommendation accuracy by revealing hidden
   user item patterns with SVD NMF and gradient descent Discover more inside
+title: Matrix Factorization Techniques for Effective ML Recommendations
 ---
 
 ![Image](images/1.jpeg)

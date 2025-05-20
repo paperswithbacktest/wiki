@@ -1,6 +1,8 @@
 ---
-title: "Double-Dip Recession: History and Overview (Algo Trading)"
-description: "Explore the dynamics of double-dip recessions and the role of algorithmic trading in navigating economic fluctuations Discover insights for investors today"
+category: quant_concept
+description: Explore the dynamics of double-dip recessions and the role of algorithmic
+  trading in navigating economic fluctuations Discover insights for investors today
+title: 'Double-Dip Recession: History and Overview (Algo Trading)'
 ---
 
 The financial world is no stranger to the ebb and flow of economic cycles. Economic cycles, or business cycles, are characterized by periods of expansion and contraction that impact all sectors of an economy. Understanding these cycles is crucial for identifying downturns, including the phenomenon known as a double-dip recession. A double-dip recession occurs when an economy experiences a recession, briefly recovers, and then falls into another recession. This pattern can be particularly challenging for both policymakers and investors, necessitating strategic preparation and response.

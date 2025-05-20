@@ -1,6 +1,12 @@
 ---
-title: "Information Ratio and Sharpe Ratio: Comparison and Formula (Algo Trading)"
-description: "Explore the key differences and formulas of the Information Ratio and Sharpe Ratio, essential metrics for assessing risk-adjusted returns in algorithmic trading. Understand how these ratios provide insights into the performance of investment strategies by measuring risk versus return and performance against a benchmark. This guide will deepen your comprehension of these financial tools, aiding in more informed strategy development and optimization within the complex financial markets."
+category: quant_concept
+description: Explore the key differences and formulas of the Information Ratio and
+  Sharpe Ratio, essential metrics for assessing risk-adjusted returns in algorithmic
+  trading. Understand how these ratios provide insights into the performance of investment
+  strategies by measuring risk versus return and performance against a benchmark.
+  This guide will deepen your comprehension of these financial tools, aiding in more
+  informed strategy development and optimization within the complex financial markets.
+title: 'Information Ratio and Sharpe Ratio: Comparison and Formula (Algo Trading)'
 ---
 
 The world of finance is characterized by a myriad of metrics that allow investors and traders to evaluate the performance and value of their investments and strategies comprehensively. Among these, the Sharpe Ratio and the Information Ratio have emerged as two critical metrics, particularly valuable within the framework of algorithmic trading. These ratios equip market participants with quantifiable measures to assess risk-adjusted returns, which is essential in developing and optimizing trading strategies.

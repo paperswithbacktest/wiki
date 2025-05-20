@@ -1,6 +1,8 @@
 ---
-title: "Consumerism and Its Economic Impact (Algo Trading)"
-description: "Explore the economic impact of consumerism and algorithmic trading two forces reshaping markets by driving demand and revolutionizing trading practices."
+category: quant_concept
+description: Explore the economic impact of consumerism and algorithmic trading two
+  forces reshaping markets by driving demand and revolutionizing trading practices.
+title: Consumerism and Its Economic Impact (Algo Trading)
 ---
 
 Consumerism and algorithmic trading represent two significant forces shaping the modern economy. Consumerism is an economic and cultural phenomenon characterized by the increased acquisition of goods and services. It primarily serves as a driver of demand within economies, influencing production patterns, employment, and overall economic growth. In contrast, algorithmic trading involves using computer algorithms to make trading decisions, aiming to optimize market operations through speed, efficiency, and the elimination of human error.

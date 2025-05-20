@@ -1,10 +1,9 @@
 ---
-title: Understanding ReLU Activation Function in Neural Networks
+category: quant_concept
 description: ReLU activation function boosts neural network training by preventing
   vanishing gradients and accelerating convergence for deep models Discover more inside
+title: Understanding ReLU Activation Function in Neural Networks
 ---
-
-
 
 ## Table of Contents
 

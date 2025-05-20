@@ -1,6 +1,9 @@
 ---
-title: "Zombie Banks: Definition, Functionality, and Examples (Algo Trading)"
-description: "Explore the concept of zombie banks and their impact on the financial system through insolvency and external aid Understand how they affect market stability and growth"
+category: quant_concept
+description: Explore the concept of zombie banks and their impact on the financial
+  system through insolvency and external aid Understand how they affect market stability
+  and growth
+title: 'Zombie Banks: Definition, Functionality, and Examples (Algo Trading)'
 ---
 
 A zombie bank is a financial institution that continues to operate despite being insolvent, often due to government support or other interventions that keep it artificially afloat. These banks are unable to fulfill their financial obligations and rely on external aid to avoid closure. The presence of zombie banks poses substantial threats to financial stability and the economy at large. Insolvent banks disrupt efficient allocation of resources, leading to a misallocation of capital and inhibited economic growth. By tying up resources, they hinder the entry and progression of more efficient financial entities, perpetuating inefficiencies within the financial system.

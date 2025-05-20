@@ -1,6 +1,9 @@
 ---
-title: "Pivot Points in Technical Analysis (Algo Trading)"
-description: "Pivot points are essential in technical analysis for predicting market movements gauging support and resistance levels and developing effective trading strategies."
+category: trading_strategy
+description: Pivot points are essential in technical analysis for predicting market
+  movements gauging support and resistance levels and developing effective trading
+  strategies.
+title: Pivot Points in Technical Analysis (Algo Trading)
 ---
 
 Pivot points are a popular tool used in technical analysis for determining potential turning points in financial markets. Originating from the pits of stock and commodity exchanges, pivot points have become widely adopted by traders due to their ability to predict movement based on historical price data. These points serve as a valuable guide for traders by indicating potential levels of support and resistance, which can help identify market sentiment as either bullish or bearish. The use of pivot points extends beyond the basic calculation of these levels—they provide traders with insights into the probable direction of price movements and help in strategizing entry and exit points in trades.

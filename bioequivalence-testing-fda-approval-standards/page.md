@@ -1,6 +1,9 @@
 ---
-title: "Bioequivalence Testing and FDA Approval Standards (Algo Trading)"
-description: "Explore the intriguing intersections between bioequivalence testing, FDA approval, and algorithmic trading revealing their complex relationships and shared methodologies."
+category: quant_concept
+description: Explore the intriguing intersections between bioequivalence testing,
+  FDA approval, and algorithmic trading revealing their complex relationships and
+  shared methodologies.
+title: Bioequivalence Testing and FDA Approval Standards (Algo Trading)
 ---
 
 The intersection of drug testing bioequivalence, FDA approval, and algorithmic trading is a niche, yet intriguing topic that reflects both the complexities and synergies of distinct disciplines. At its core, bioequivalence testing ensures that a generic drug acts identically to its brand-name counterpart, which is vital for confirming the safety and efficacy of generics. This testing revolves around ensuring that two drugs have no significant difference in the rate and extent of absorption, which the FDA mandates before a generic can enter the market.

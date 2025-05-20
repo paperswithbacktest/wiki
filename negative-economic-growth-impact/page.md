@@ -1,6 +1,8 @@
 ---
-title: "Negative Economic Growth and Its Impact (Algo Trading)"
-description: "Explore how negative economic growth and algorithmic trading intersect shaping financial markets and global economies with complex challenges and opportunities."
+category: quant_concept
+description: Explore how negative economic growth and algorithmic trading intersect
+  shaping financial markets and global economies with complex challenges and opportunities.
+title: Negative Economic Growth and Its Impact (Algo Trading)
 ---
 
 In the ever-evolving landscape of financial markets, grasping the intricate relationships between economic variables and market techniques is fundamental. This article addresses the economic impact of two significant yet challenging phenomena: negative growth and algorithmic trading.

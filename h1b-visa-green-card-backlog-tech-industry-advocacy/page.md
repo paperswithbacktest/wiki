@@ -1,6 +1,8 @@
 ---
-title: "H-1B Visa Green Card Backlog and Tech Industry Advocacy (Algo Trading)"
-description: "Discover how the H-1B visa green card backlog impacts the U.S. tech industry and explores the role of skilled foreign workers in maintaining innovation."
+category: quant_concept
+description: Discover how the H-1B visa green card backlog impacts the U.S. tech industry
+  and explores the role of skilled foreign workers in maintaining innovation.
+title: H-1B Visa Green Card Backlog and Tech Industry Advocacy (Algo Trading)
 ---
 
 The U.S. tech industry depends significantly on foreign talent, particularly highly-skilled workers who enter the United States through the H-1B visa program. This non-immigrant visa allows American companies to employ foreign professionals in specialty occupations that require technical expertise in fields such as IT, engineering, and biotechnology. However, a crucial challenge facing these skilled workers is the transition from temporary H-1B status to permanent residency, which involves obtaining a green card. The process for acquiring a green card has encountered a severe bottleneck, resulting in an extensive backlog that has substantial implications for the tech industry.

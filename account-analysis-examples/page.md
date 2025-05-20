@@ -1,6 +1,8 @@
 ---
-title: "Account Analysis and Examples (Algo Trading)"
-description: "Discover the intricacies of account and financial analysis in algo trading. Learn how they shape strategies with metrics and algorithms for success."
+category: quant_concept
+description: Discover the intricacies of account and financial analysis in algo trading.
+  Learn how they shape strategies with metrics and algorithms for success.
+title: Account Analysis and Examples (Algo Trading)
 ---
 
 In the fast-paced world of finance, understanding the nuances of account and financial analysis is crucial for success. Account analysis involves a meticulous examination of transactions and account activities to assess performance and identify trends. This detailed scrutiny allows organizations and individuals to make informed decisions by highlighting patterns and irregularities that may affect financial outcomes. Various metrics and tools are employed to evaluate account performance, guiding strategic financial planning.

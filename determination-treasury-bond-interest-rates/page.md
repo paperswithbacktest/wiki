@@ -1,6 +1,8 @@
 ---
-title: "Determination of Treasury Bond Interest Rates (Algo Trading)"
-description: "Discover how interest rates and algorithmic trading influence Treasury bond prices in the complex bond market Learn key strategies to optimize your investments"
+category: quant_concept
+description: Discover how interest rates and algorithmic trading influence Treasury
+  bond prices in the complex bond market Learn key strategies to optimize your investments
+title: Determination of Treasury Bond Interest Rates (Algo Trading)
 ---
 
 The bond market is a fundamental component of the global financial system, serving a critical role in providing investors with predictable returns and opportunities for capital preservation. Bonds are fixed-income instruments in which an investor loans money to an entity—typically corporate or governmental—in exchange for periodic interest payments and the return of the bond's face value upon maturity. This market is often seen as a safe haven for investment, as it offers various forms of risk mitigation compared to the more volatile stock market.

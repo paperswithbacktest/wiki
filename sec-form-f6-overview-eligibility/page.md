@@ -1,6 +1,8 @@
 ---
-title: "SEC Form F-6: Overview and Eligibility Criteria (Algo Trading)"
-description: "Explore SEC Form F-6 and understand its key role in registering American Depositary Receipts ADRs with the SEC vital for global investment and algo trading."
+category: quant_concept
+description: Explore SEC Form F-6 and understand its key role in registering American
+  Depositary Receipts ADRs with the SEC vital for global investment and algo trading.
+title: 'SEC Form F-6: Overview and Eligibility Criteria (Algo Trading)'
 ---
 
 The global financial landscape is undergoing constant transformation, driven by regulatory advancements and innovative practices such as algorithmic trading. In this dynamic environment, understanding the interplay between regulatory frameworks and trading mechanisms is essential for stakeholders involved in international securities trading.

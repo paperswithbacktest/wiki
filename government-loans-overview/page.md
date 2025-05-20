@@ -1,6 +1,8 @@
 ---
-title: "Government Loans Overview (Algo Trading)"
-description: "Explore the convergence of public financing, government loans, and algo trading and their impact on economic growth financial stability and market efficiency."
+category: quant_concept
+description: Explore the convergence of public financing, government loans, and algo
+  trading and their impact on economic growth financial stability and market efficiency.
+title: Government Loans Overview (Algo Trading)
 ---
 
 Public financing, government loans, and loan programs constitute a fundamental triad in the architecture of economic growth and financial stability. Public financing, often administered through government institutions, plays a pivotal role by injecting capital into critical sectors such as infrastructure, education, and healthcare. These funds, distributed via various mechanisms including grants, subsidies, and loans, serve as catalysts for innovation and development. Government loans and loan programs further democratize access to capital by offering financial resources to individuals and businesses that may not meet the stringent criteria of private lenders.

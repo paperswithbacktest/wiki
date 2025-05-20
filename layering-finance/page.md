@@ -1,6 +1,9 @@
 ---
-title: "Layering (finance) (Algo Trading)"
-description: "Explore the contentious algorithmic trading strategy of layering, which manipulates stock prices through deceptive trade orders and faces legal and ethical scrutiny worldwide."
+category: trading_strategy
+description: Explore the contentious algorithmic trading strategy of layering, which
+  manipulates stock prices through deceptive trade orders and faces legal and ethical
+  scrutiny worldwide.
+title: Layering (finance) (Algo Trading)
 ---
 
 Layering is a highly debated strategy within the arena of algorithmic trading. It revolves around the tactical placement and subsequent cancellation of trade orders with the primary goal of manipulating stock prices. This strategy is often executed in high-frequency trading (HFT) environments, where the speed and volume of trades enhance the ability to influence market perceptions. By artificially creating an apparent demand or supply through these placed orders, traders aim to generate a deceptive illusion of market activity. This can sway other market participants, causing them to make trading decisions based on the manipulated data, ultimately pushing the stock price in a desired direction.

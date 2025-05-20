@@ -1,6 +1,9 @@
 ---
-title: "Lightning Network Overview and Functionality (Algo Trading)"
-description: "Explore the Lightning Network's impact on Bitcoin scalability and algorithmic trading. Understand how it enhances transaction speed and reduces fees for optimized strategies."
+category: quant_concept
+description: Explore the Lightning Network's impact on Bitcoin scalability and algorithmic
+  trading. Understand how it enhances transaction speed and reduces fees for optimized
+  strategies.
+title: Lightning Network Overview and Functionality (Algo Trading)
 ---
 
 The world of cryptocurrency is continuously evolving, driven by innovations that address existing challenges and enhance its utility. Bitcoin, the first and most prominent cryptocurrency, has encountered multiple challenges over the years, with scalability being a significant concern. Initially designed to operate as a peer-to-peer digital cash system, Bitcoin's popularity exposed the limitations of its transaction processing capabilities. Specifically, Bitcoin's ability to process transactions is constrained by its block size limit and the ten-minute average block confirmation time. These constraints have resulted in increased transaction fees and prolonged confirmation times during periods of high demand, prompting extensive discussions on methods to enhance Bitcoin's scalability.

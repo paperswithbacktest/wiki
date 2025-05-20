@@ -1,6 +1,8 @@
 ---
-title: "International Banking Facilities and Regulations (Algo Trading)"
-description: "Explore the dynamics of International Banking Facilities and their regulatory frameworks uncovering how algorithmic trading is reshaping global banking practices."
+category: quant_concept
+description: Explore the dynamics of International Banking Facilities and their regulatory
+  frameworks uncovering how algorithmic trading is reshaping global banking practices.
+title: International Banking Facilities and Regulations (Algo Trading)
 ---
 
 The global banking landscape has transformed considerably over the decades, marked by the inception and evolution of complex financial structures like the International Banking Facility (IBF). Established in the early 1980s, IBF serves as a significant mechanism allowing U.S.-based banks and financial institutions to effectively manage and operate services aimed at foreign clients, primarily involving deposits and loans. This facility uniquely enables these institutions to access exemptions from certain regulatory requirements, including specific Federal Reserve mandates and some state and local taxes, rendering the banking process more efficient and economically favorable.

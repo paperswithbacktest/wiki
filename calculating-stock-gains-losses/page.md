@@ -1,6 +1,9 @@
 ---
-title: "Calculating Stock Gains and Losses (Algo Trading)"
-description: "Learn how to calculate stock gains and losses in algorithmic trading. Understand key concepts like cost basis and transaction fees for sound investment decisions."
+category: quant_concept
+description: Learn how to calculate stock gains and losses in algorithmic trading.
+  Understand key concepts like cost basis and transaction fees for sound investment
+  decisions.
+title: Calculating Stock Gains and Losses (Algo Trading)
 ---
 
 The world of stock trading is inherently complex, demanding a profound understanding of various elements critical to effective investment strategies. Among these, the calculation of gains and losses stands out as a fundamental concept that all investors must grasp. This calculation forms the bedrock upon which sound investment decisions are made, enabling traders to assess the profitability of their transactions.

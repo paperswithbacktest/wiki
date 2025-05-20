@@ -1,6 +1,9 @@
 ---
-title: "Public Purpose Bond (Algo Trading)"
-description: "Public purpose bonds finance community-enhancing projects with tax-free benefits for investors while algorithmic trading revolutionizes bond market efficiency and dynamics."
+category: trading_strategy
+description: Public purpose bonds finance community-enhancing projects with tax-free
+  benefits for investors while algorithmic trading revolutionizes bond market efficiency
+  and dynamics.
+title: Public Purpose Bond (Algo Trading)
 ---
 
 In the ever-evolving financial landscape, bonds remain a cornerstone of secure investment strategies. As traditional financial instruments, bonds are essentially loans made by investors to borrowers, with governments often serving as the latter. Bonds typically provide fixed interest returns over a designated period, rendering them an attractive option for investors seeking stability and predictability in their financial portfolios.

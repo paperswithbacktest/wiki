@@ -1,6 +1,8 @@
 ---
-title: "Trumponomics: Principles and Impact (Algo Trading)"
-description: "Explore the impact of Trumponomics on financial markets and algorithmic trading during Trump's presidency focusing on tax reforms and trade policies."
+category: quant_concept
+description: Explore the impact of Trumponomics on financial markets and algorithmic
+  trading during Trump's presidency focusing on tax reforms and trade policies.
+title: 'Trumponomics: Principles and Impact (Algo Trading)'
 ---
 
 'Trumponomics' refers to the economic strategies and policies introduced by the Trump administration during its tenure from 2017 to 2021. Characterized by a framework aimed at tax reform, deregulation, trade adjustments, and infrastructure investment, Trumponomics sought to transform the U.S. economic terrain significantly. One of the pivotal features was the implementation of the Tax Cuts and Jobs Act of 2017, which aimed to foster economic growth by reducing corporate tax rates and incentivizing capital repatriation. By lessening regulatory burdens, the Trump administration intended to enhance business investment and stimulate economic activity.

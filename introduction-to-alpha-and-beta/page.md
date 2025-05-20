@@ -1,6 +1,12 @@
 ---
-title: "Introduction to Alpha and Beta (Algo Trading)"
-description: "Explore the essential roles of alpha and beta in algorithmic trading. Learn how these metrics evaluate investment performance and risk, guiding investors to make informed decisions. Discover the significance of alpha in measuring excess returns and beta in assessing asset volatility relative to the market. This comprehensive guide highlights their applications in enhancing trading strategies within the dynamic world of algorithmic trading."
+category: quant_concept
+description: Explore the essential roles of alpha and beta in algorithmic trading.
+  Learn how these metrics evaluate investment performance and risk, guiding investors
+  to make informed decisions. Discover the significance of alpha in measuring excess
+  returns and beta in assessing asset volatility relative to the market. This comprehensive
+  guide highlights their applications in enhancing trading strategies within the dynamic
+  world of algorithmic trading.
+title: Introduction to Alpha and Beta (Algo Trading)
 ---
 
 Alpha and beta are essential metrics in the field of investing and algorithmic trading, playing a crucial role in evaluating the performance and risk associated with investments. These concepts help investors comprehend the dynamics of the market, guiding them in making informed investment decisions.

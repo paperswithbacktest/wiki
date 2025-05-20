@@ -1,6 +1,9 @@
 ---
-title: "Choosing Mutual Funds Over Individual Stocks (Algo Trading)"
-description: "Explore the benefits of choosing mutual funds over individual stocks for a balanced and diversified investment portfolio. Ideal for passive investors seeking professional management."
+category: trading_strategy
+description: Explore the benefits of choosing mutual funds over individual stocks
+  for a balanced and diversified investment portfolio. Ideal for passive investors
+  seeking professional management.
+title: Choosing Mutual Funds Over Individual Stocks (Algo Trading)
 ---
 
 Investing in the stock market can be approached in several ways, each offering distinct benefits and risks. For individuals venturing into this financial landscape, understanding these approaches is crucial for making well-informed decisions that align with one's financial goals and risk tolerance. This article explores the three primary investment choices: individual stocks, mutual funds, and algorithmic trading. 

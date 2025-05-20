@@ -1,6 +1,13 @@
 ---
-title: "Matrix-Matrix Multiplication on the GPU with Nvidia CUDA (Algo Trading)"
-description: Explore how using Nvidia CUDA for matrix-matrix multiplication can significantly enhance algorithmic trading through speed and efficiency gains. This article investigates into CUDA's ability to harness GPU power for faster computations, crucial for timely execution in trading environments. Learn about the impact of these advancements on trading strategies, enabling reduced latency and improved accuracy in financial models. Discover practical insights on implementing CUDA to maintain a competitive edge in the fast-evolving landscape of algorithmic trading.
+category: quant_concept
+description: Explore how using Nvidia CUDA for matrix-matrix multiplication can significantly
+  enhance algorithmic trading through speed and efficiency gains. This article investigates
+  into CUDA's ability to harness GPU power for faster computations, crucial for timely
+  execution in trading environments. Learn about the impact of these advancements
+  on trading strategies, enabling reduced latency and improved accuracy in financial
+  models. Discover practical insights on implementing CUDA to maintain a competitive
+  edge in the fast-evolving landscape of algorithmic trading.
+title: Matrix-Matrix Multiplication on the GPU with Nvidia CUDA (Algo Trading)
 ---
 
 In the fast-paced world of algorithmic trading, speed and efficiency are crucial. With the increase in trading volumes and the complexity of financial instruments, the demand for faster and more efficient execution of trading strategies has never been higher. One of the core mathematical operations that form the backbone of many trading algorithms is matrix multiplication. This operation is central to a wide array of applications, from quantitative analysis to portfolio optimization and risk management, making its performance critical.

@@ -1,6 +1,8 @@
 ---
-title: "Leveraged Loan Index: Meaning and Functionality (Algo Trading)"
-description: "Explore the significance of the Leveraged Loan Index in finance and algorithmic trading, offering insights into market trends and performance of institutional loans."
+category: dataset
+description: Explore the significance of the Leveraged Loan Index in finance and algorithmic
+  trading, offering insights into market trends and performance of institutional loans.
+title: 'Leveraged Loan Index: Meaning and Functionality (Algo Trading)'
 ---
 
 The world of financial indices is diverse and complex, providing investors and financial professionals with essential tools to evaluate markets and make informed decisions. Among these indices, the Leveraged Loan Index (LLI) stands out as a significant marker for tracking the performance of institutional leveraged loans. Leveraged loans are instrumental in financial markets, frequently employed as a funding mechanism in leveraged buyouts and high-yield investment scenarios. Leveraged loans offer an attractive funding option for companies with non-investment-grade credit ratings by enabling access to capital at competitive borrowing costs.

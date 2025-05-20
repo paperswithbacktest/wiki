@@ -1,6 +1,8 @@
 ---
-title: "Operating Leverage and Financial Leverage Comparison (Algo Trading)"
-description: "Compare operating and financial leverage in algo trading to understand how firms amplify returns and manage risks while optimizing capital structure."
+category: quant_concept
+description: Compare operating and financial leverage in algo trading to understand
+  how firms amplify returns and manage risks while optimizing capital structure.
+title: Operating Leverage and Financial Leverage Comparison (Algo Trading)
 ---
 
 Leverage plays a pivotal role in financial analysis, serving as a critical tool that allows businesses and investors to amplify their potential returns. At its core, leverage involves the use of various financial instruments or borrowed capital to increase the potential return on investment. Understanding leverage is essential for comprehending how firms structure their capital and operations to optimize outcomes and manage risks.

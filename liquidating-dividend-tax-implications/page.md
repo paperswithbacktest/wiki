@@ -1,6 +1,8 @@
 ---
-title: "Liquidating Dividend and Tax Implications (Algo Trading)"
-description: "Explore the impact of liquidating dividends on tax and investment strategies Learn how algorithmic trading aids in optimizing these financial decisions"
+category: quant_concept
+description: Explore the impact of liquidating dividends on tax and investment strategies
+  Learn how algorithmic trading aids in optimizing these financial decisions
+title: Liquidating Dividend and Tax Implications (Algo Trading)
 ---
 
 In the ever-evolving landscape of finance, the integration of corporate finance, tax regulations, and investment strategies demands a comprehensive understanding by today's investors. Liquidating dividends, which emerge during the dismantling of a company's operations, are a critical component of this financial confluence. These distributions fundamentally differ from regular dividends, primarily impacting economic decisions and tax outcomes.

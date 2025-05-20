@@ -1,6 +1,8 @@
 ---
-title: "Morningstar Risk Rating Overview (Algo Trading)"
-description: "Explore the synergy between Morningstar's risk ratings and algorithmic trading, essential tools for balancing risk and returns in evolving investment strategies."
+category: trading_strategy
+description: Explore the synergy between Morningstar's risk ratings and algorithmic
+  trading, essential tools for balancing risk and returns in evolving investment strategies.
+title: Morningstar Risk Rating Overview (Algo Trading)
 ---
 
 Investment strategies are continuously evolving, with financial advisors and investors constantly seeking effective methods to optimize their portfolios. In this dynamic landscape, Morningstar's risk rating and algorithmic trading have emerged as pivotal elements in the decision-making process for investors aiming to achieve an optimal balance between risk and returns.

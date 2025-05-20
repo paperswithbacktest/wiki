@@ -1,6 +1,9 @@
 ---
-title: "Institutional Shares: Eligibility and Examples (Algo Trading)"
-description: "Explore the dynamics of institutional investing and algorithmic trading including eligibility criteria for institutional shares and benefits for large-scale investors."
+category: quant_concept
+description: Explore the dynamics of institutional investing and algorithmic trading
+  including eligibility criteria for institutional shares and benefits for large-scale
+  investors.
+title: 'Institutional Shares: Eligibility and Examples (Algo Trading)'
 ---
 
 The world of institutional investing and algorithmic trading represents a complex landscape, replete with unique opportunities and challenges. Institutional investing involves large financial entities such as pension funds, insurance companies, and hedge funds, which operate on a scale significantly larger than that of individual retail investors. These institutional investors access a range of investment vehicles, including institutional shares, which offer them exclusive advantages like lower expense ratios due to the large sums involved in such transactions.

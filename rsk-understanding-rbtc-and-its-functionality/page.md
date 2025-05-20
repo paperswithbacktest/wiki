@@ -1,6 +1,8 @@
 ---
-title: "RSK: Understanding RBTC and Its Functionality (Algo Trading)"
-description: "Explore RBTC and the RSK blockchain to learn how this Bitcoin extension integrates smart contracts for enhanced trading and decentralized applications."
+category: quant_concept
+description: Explore RBTC and the RSK blockchain to learn how this Bitcoin extension
+  integrates smart contracts for enhanced trading and decentralized applications.
+title: 'RSK: Understanding RBTC and Its Functionality (Algo Trading)'
 ---
 
 Blockchain technology has emerged as a groundbreaking innovation, influencing a wide array of industries from finance to supply chain management. At its core, blockchain is a decentralized ledger system that enables secure, transparent, and immutable transactions without the need for intermediary oversight. This decentralization has revolutionized operations in sectors like banking, where it facilitates cross-border transactions, and supply chains, where it enhances tracking and accountability. One of the pivotal components of blockchain ecosystems is the smart contract, which automates and enforces contractual agreements when defined conditions are met.

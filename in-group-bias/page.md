@@ -1,7 +1,8 @@
 ---
-title: Mitigating In-Group Bias in Machine Learning Systems
+category: quant_concept
 description: In-group bias in machine learning skews model fairness. Explore data
   balancing and fairness metrics to build equitable AI. Discover more inside
+title: Mitigating In-Group Bias in Machine Learning Systems
 ---
 
 ![Image](images/1.png)

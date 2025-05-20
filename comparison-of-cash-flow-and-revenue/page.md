@@ -1,6 +1,9 @@
 ---
-title: "Comparison of Cash Flow and Revenue (Algo Trading)"
-description: "Explore the crucial role of revenue and cash flow in algorithmic trading. Understand how these financial metrics influence trading strategies to optimize liquidity and market potential."
+category: quant_concept
+description: Explore the crucial role of revenue and cash flow in algorithmic trading.
+  Understand how these financial metrics influence trading strategies to optimize
+  liquidity and market potential.
+title: Comparison of Cash Flow and Revenue (Algo Trading)
 ---
 
 In the world of finance and trading, understanding key financial metrics is crucial for making informed decisions. Two of the most important metrics for any business are revenue and cash flow. Revenue, the total income generated from normal business operations, provides insights into market demand and growth potential. Cash flow, on the other hand, captures the net amount of cash being transferred into and out of a business, offering a snapshot of its liquidity.

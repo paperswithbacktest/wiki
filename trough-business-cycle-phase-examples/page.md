@@ -1,6 +1,9 @@
 ---
-title: "Trough in the Business Cycle: Phase Examples (Algo Trading)"
-description: "Explore how understanding the business cycle, particularly the trough phase, can enhance algorithmic trading strategies, unlocking investment opportunities during economic recoveries."
+category: quant_concept
+description: Explore how understanding the business cycle, particularly the trough
+  phase, can enhance algorithmic trading strategies, unlocking investment opportunities
+  during economic recoveries.
+title: 'Trough in the Business Cycle: Phase Examples (Algo Trading)'
 ---
 
 Understanding the business cycle is crucial for investors and traders as it captures the fluctuations in economic activity over time. These cycles consist of distinct phases: expansion, peak, contraction, and trough. The trough phase, a critical component, is characterized by the lowest point of economic decline before a recovery phase begins. This point, marking the transition from recession to recovery, offers unique opportunities for strategic investment as assets are often undervalued. Identifying trough phases can thus empower investors to maximize returns.

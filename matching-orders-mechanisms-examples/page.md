@@ -1,6 +1,9 @@
 ---
-title: "Matching Orders: Mechanisms and Examples (Algo Trading)"
-description: "Explore the vital role of matching orders in algorithmic trading and how these mechanisms enhance trade efficiency speed and market fluidity in financial exchanges."
+category: quant_concept
+description: Explore the vital role of matching orders in algorithmic trading and
+  how these mechanisms enhance trade efficiency speed and market fluidity in financial
+  exchanges.
+title: 'Matching Orders: Mechanisms and Examples (Algo Trading)'
 ---
 
 This article explores the pivotal role of matching orders in modern financial markets, emphasizing their central function in ensuring the smooth operation of securities exchanges. Matching orders refers to the process of pairing buy and sell orders with equivalent prices and quantities, thereby facilitating trade execution. This function is crucial for maintaining market efficiency, allowing for swift and accurate transactions that are essential for both liquidity and price discovery.

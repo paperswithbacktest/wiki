@@ -1,6 +1,8 @@
 ---
-title: "Capital Funding and Its Mechanisms (Algo Trading)"
-description: "Explore the pivotal role of business financing capital funding and algorithmic trading in enhancing strategic positioning and driving growth in the financial sector."
+category: quant_concept
+description: Explore the pivotal role of business financing capital funding and algorithmic
+  trading in enhancing strategic positioning and driving growth in the financial sector.
+title: Capital Funding and Its Mechanisms (Algo Trading)
 ---
 
 Business financing, capital funding, investment mechanisms, and algorithmic trading are pivotal components in the modern financial landscape. As organizations grow and adapt to changing market conditions, exploring diverse pathways for securing capital and catalyzing growth becomes essential. This article examines these crucial concepts, emphasizing their interaction and the potential they offer to businesses.

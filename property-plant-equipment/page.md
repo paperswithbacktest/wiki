@@ -1,6 +1,9 @@
 ---
-title: "Property, Plant, and Equipment (Algo Trading)"
-description: "Explore the dynamic synergy between fixed assets PP&E and algorithmic trading to leverage technological advancements in finance and optimize investment strategies."
+category: quant_concept
+description: Explore the dynamic synergy between fixed assets PP&E and algorithmic
+  trading to leverage technological advancements in finance and optimize investment
+  strategies.
+title: Property, Plant, and Equipment (Algo Trading)
 ---
 
 The intersection of fixed assets, Property, Plant, and Equipment (PP&E), capital investment, and algorithmic trading makes a dynamic confluence of fields spanning finance, investment, and technology. Each element on its own plays a pivotal role in the financial landscape, yet their combined synergies offer even greater potential for businesses and investors.

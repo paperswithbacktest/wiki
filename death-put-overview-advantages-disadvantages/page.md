@@ -1,6 +1,8 @@
 ---
-title: "Death Put: Overview, Advantages, and Disadvantages (Algo Trading)"
-description: "Discover the benefits and challenges of death puts in bonds and algorithmic trading, offering key insights into portfolio management in volatile financial markets."
+category: trading_strategy
+description: Discover the benefits and challenges of death puts in bonds and algorithmic
+  trading, offering key insights into portfolio management in volatile financial markets.
+title: 'Death Put: Overview, Advantages, and Disadvantages (Algo Trading)'
 ---
 
 Investment finance presents a complex and expansive field, characterized by a myriad of financial instruments and strategies designed to enhance returns and manage risks. Due to the dynamic nature of financial markets, staying informed about various investment tools is vital for investors aiming to make judicious financial decisions. Among the array of tools available, the concepts of death puts and algorithmic trading stand out due to their sophisticated features and significant implications for portfolio management.

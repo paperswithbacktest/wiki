@@ -1,6 +1,8 @@
 ---
-title: "Managed Currency: Overview, Mechanism, and Advantages (Algo Trading)"
-description: "Explore the intricacies of managed currency, its mechanisms, and advantages in the context of algorithmic trading and economic policy for global stability."
+category: quant_concept
+description: Explore the intricacies of managed currency, its mechanisms, and advantages
+  in the context of algorithmic trading and economic policy for global stability.
+title: 'Managed Currency: Overview, Mechanism, and Advantages (Algo Trading)'
 ---
 
 Economic policy encompasses a broad range of governmental actions designed to influence a nation's economy, including decisions on taxation, government budgets, the money supply, interest rates, and labor market policies. One of its critical roles is shaping currency value directly and indirectly through mechanisms such as interest rate adjustments and fiscal strategies. For instance, by setting interest rates, central banks can influence inflation and economic growth, which subsequently impacts currency value. High-interest rates might attract foreign investment, increasing demand for the currency and causing its value to rise.

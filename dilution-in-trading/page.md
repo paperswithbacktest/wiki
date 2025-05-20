@@ -1,6 +1,8 @@
 ---
-title: "Dilution in Trading (Algo Trading)"
-description: "Explore the impact of stock dilution on trading and investment, crucial for algorithmic strategies. Learn to manage dilution events for optimal returns."
+category: quant_concept
+description: Explore the impact of stock dilution on trading and investment, crucial
+  for algorithmic strategies. Learn to manage dilution events for optimal returns.
+title: Dilution in Trading (Algo Trading)
 ---
 
 Understanding stock dilution is essential for making informed decisions in investing and trading. Stock dilution occurs when a company issues new shares, decreasing the ownership percentage of existing shareholders. This dilutive effect impacts earnings per share (EPS) and the overall value of an investment. For instance, if a company has 1 million shares outstanding and issues an additional 100,000 shares, the ownership percentage and EPS for existing shareholders decrease, potentially affecting the stock price.
@@ -140,4 +142,3 @@ A thorough understanding of algorithmic trading strategies is also critical, esp
 Additionally, academic journals and financial periodicals often publish studies examining specific cases of stock dilution, analyzing how companies have used raised capital and the resulting impact on their stock prices. Real-world examples include Tesla's share issuance strategies and Snap Inc.'s market maneuvers. These cases highlight how strategic issuance and adept algorithmic trading can mitigate dilution risks or harness the opportunities it presents.
 
 For those interested in practical applications, reviewing real-world instances of companies navigating dilution events can offer insights into effective strategies. Financial news websites and stock analysis platforms frequently provide updates on current market trends and significant corporate actions, which can be useful for both novice and experienced investors.
-

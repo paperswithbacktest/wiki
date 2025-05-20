@@ -1,6 +1,13 @@
 ---
-title: "HHI indexes (Algo Trading)"
-description: Discover the significance of the Herfindahl-Hirschman Index (HHI) in algorithmic trading by understanding its role in evaluating market concentration and competition. Explore how HHI informs portfolio diversification and risk assessment strategies, especially within cryptocurrency markets where decentralization varies. Learn how this metric helps optimize trading decisions by providing a quantitative measure of market dynamics, aiding traders to navigate the fast-paced landscape of digital assets effectively.
+category: quant_concept
+description: Discover the significance of the Herfindahl-Hirschman Index (HHI) in
+  algorithmic trading by understanding its role in evaluating market concentration
+  and competition. Explore how HHI informs portfolio diversification and risk assessment
+  strategies, especially within cryptocurrency markets where decentralization varies.
+  Learn how this metric helps optimize trading decisions by providing a quantitative
+  measure of market dynamics, aiding traders to navigate the fast-paced landscape
+  of digital assets effectively.
+title: HHI indexes (Algo Trading)
 ---
 
 Algorithmic trading, commonly referred to as algo trading, is a sophisticated method of executing trades that relies on automated, pre-programmed instructions. These algorithms consider multiple factors such as time, price, and volume to optimize trading decisions. This automated trading method is utilized extensively in financial markets, enhancing the speed and efficiency of trade executions while minimizing human intervention.

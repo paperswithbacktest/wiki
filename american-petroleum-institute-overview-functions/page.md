@@ -1,6 +1,8 @@
 ---
-title: "American Petroleum Institute: Overview and Functions (Algo Trading)"
-description: "Explore how the American Petroleum Institute sets industry standards and how algorithmic trading transforms modern oil markets for efficiency and safety."
+category: dataset
+description: Explore how the American Petroleum Institute sets industry standards
+  and how algorithmic trading transforms modern oil markets for efficiency and safety.
+title: 'American Petroleum Institute: Overview and Functions (Algo Trading)'
 ---
 
 The petroleum industry is a complex and vital sector that plays a significant role in shaping global economies and influencing various aspects of daily life. From powering transportation to providing raw materials for countless products, petroleum's ubiquitous presence is undeniable. Its importance is further highlighted by its role in energy security and geopolitical dynamics.

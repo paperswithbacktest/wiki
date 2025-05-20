@@ -1,6 +1,9 @@
 ---
-title: "Rights Offering: Types, Advantages, and Disadvantages (Algo Trading)"
-description: "Discover the intricacies of rights offerings and their role in equity finance. Explore the advantages and challenges these strategies pose in capital markets."
+category: quant_concept
+description: Discover the intricacies of rights offerings and their role in equity
+  finance. Explore the advantages and challenges these strategies pose in capital
+  markets.
+title: 'Rights Offering: Types, Advantages, and Disadvantages (Algo Trading)'
 ---
 
 Understanding the complexities of financial markets requires an examination of various methods of raising capital due to their multifaceted nature. Successful capital acquisition can propel corporate growth and innovation, while inadequate strategies can lead to financial instability and diminished investor confidence. This article focuses on four interconnected domains: equity finance, rights offerings, capital raising, and algorithmic trading. These components, although distinct, interact to form comprehensive financial strategies, creating both opportunities and challenges for companies and investors.

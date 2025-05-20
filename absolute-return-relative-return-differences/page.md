@@ -1,6 +1,8 @@
 ---
-title: "Absolute Return and Relative Return: Differences (Algo Trading)"
-description: "Understand absolute and relative returns in investing and their role in algorithmic trading to optimize investment strategies and enhance portfolio performance."
+category: quant_concept
+description: Understand absolute and relative returns in investing and their role
+  in algorithmic trading to optimize investment strategies and enhance portfolio performance.
+title: 'Absolute Return and Relative Return: Differences (Algo Trading)'
 ---
 
 In the world of investing, understanding the different methods of measuring investment returns is crucial for both novice and seasoned investors. Absolute and relative returns serve as fundamental metrics that provide unique insights into the performance of investments. Absolute return measures the total gain or loss of an investment over a specific period without comparing it to any external benchmark, thereby offering a straightforward evaluation of an investment's performance. On the other hand, relative return assesses the performance of an investment compared to a benchmark index or market standard, highlighting how well an investment has performed in relation to the broader market.

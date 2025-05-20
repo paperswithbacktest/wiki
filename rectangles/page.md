@@ -1,6 +1,9 @@
 ---
-title: "Rectangles (Algo Trading)"
-description: "Discover the significance of rectangle patterns in algorithmic trading Learn how these formations help traders identify consolidation phases and potential breakouts"
+category: quant_concept
+description: Discover the significance of rectangle patterns in algorithmic trading
+  Learn how these formations help traders identify consolidation phases and potential
+  breakouts
+title: Rectangles (Algo Trading)
 ---
 
 In geometry and financial markets, rectangles are notable for their practical applications and the insights they offer. Rectangles, as defined in geometry, are four-sided polygons characterized by equal and parallel opposite sides, along with right angles at each corner. This simplicity and symmetry not only make rectangles easy to analyze in the geometric context but also translate into significant utility in financial market analysis.

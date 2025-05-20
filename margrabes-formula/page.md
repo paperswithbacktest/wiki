@@ -1,6 +1,9 @@
 ---
-title: "Margrabe's formula (Algo Trading)"
-description: "Explore Margrabe's formula a key tool in algo trading for pricing exchange options evaluating asset volatilities correlations and aiding decision-making in financial markets."
+category: quant_concept
+description: Explore Margrabe's formula a key tool in algo trading for pricing exchange
+  options evaluating asset volatilities correlations and aiding decision-making in
+  financial markets.
+title: Margrabe's formula (Algo Trading)
 ---
 
 In the world of mathematical finance, option pricing models play a crucial role in determining the fair value of derivative instruments. Among these models, Margrabe's formula offers a unique approach to pricing options for exchanging one risky asset for another. Introduced by William Margrabe in 1978, this formula is specifically tailored for the valuation of exchange options, a type of derivative that grants the holder the right to exchange one asset for another at a predetermined future date.

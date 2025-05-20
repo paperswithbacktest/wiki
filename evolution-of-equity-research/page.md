@@ -1,6 +1,8 @@
 ---
-title: "Evolution of Equity Research (Algo Trading)"
-description: "Explore the transformation of equity research and algo trading in financial markets Discover how technology enhances investment strategies for optimized efficiency"
+category: quant_concept
+description: Explore the transformation of equity research and algo trading in financial
+  markets Discover how technology enhances investment strategies for optimized efficiency
+title: Evolution of Equity Research (Algo Trading)
 ---
 
 Investment analysis, finance, equity research, and algorithmic (algo) trading are crucial to the functioning of contemporary financial markets. These components collectively serve to optimize investment strategies and bolster market efficiency. Investment analysis primarily focuses on evaluating potential investment opportunities to determine their viability based on profitability and associated risk factors. This includes the rigorous assessment of financial metrics and economic indicators that guide informed investment decisions.

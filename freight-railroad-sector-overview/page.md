@@ -1,6 +1,8 @@
 ---
-title: "Freight Railroad Sector Overview (Algo Trading)"
-description: "Explore the freight railroad sector's evolution from the Gilded Age to modern times delving into its economic impact and algorithmic trading opportunities."
+category: quant_concept
+description: Explore the freight railroad sector's evolution from the Gilded Age to
+  modern times delving into its economic impact and algorithmic trading opportunities.
+title: Freight Railroad Sector Overview (Algo Trading)
 ---
 
 Freight railroads are a cornerstone of the transportation sector, forming a crucial part of economic infrastructure in modern society. These railroads have historical roots dating back to the Gilded Age, a period of rapid economic growth in the United States during the late 19th century, marked by significant industrial expansion and infrastructure development. The railroads of that era laid the groundwork for today's extensive network, facilitating the movement of goods across vast distances and supporting industry and commerce on an unprecedented scale.

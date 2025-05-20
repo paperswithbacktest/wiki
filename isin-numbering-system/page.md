@@ -1,6 +1,8 @@
 ---
-title: "ISIN Numbering System (Algo Trading)"
-description: "Explore the pivotal role of ISINs in global securities trading and discover how algorithmic strategies optimize trade execution for modern finance innovators."
+category: quant_concept
+description: Explore the pivotal role of ISINs in global securities trading and discover
+  how algorithmic strategies optimize trade execution for modern finance innovators.
+title: ISIN Numbering System (Algo Trading)
 ---
 
 The world of finance is vast and complex, characterized by an array of tools and identifiers that are essential for navigating the investment landscape. Among these, the International Securities Identification Number (ISIN) stands as a critical component for the identification and management of securities on a global scale. The ISIN serves as a unique identifier for financial instruments, facilitating efficient and accurate tracking and trading across international borders. This universal standard ensures that securities are clearly distinguished, reducing errors and enhancing communication among global market participants.

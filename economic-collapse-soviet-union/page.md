@@ -1,6 +1,8 @@
 ---
-title: "Economic Collapse of the Soviet Union (Algo Trading)"
-description: "Explore the profound economic changes following the Soviet Union's collapse and the rise of algorithmic trading as a response to global market volatility."
+category: quant_concept
+description: Explore the profound economic changes following the Soviet Union's collapse
+  and the rise of algorithmic trading as a response to global market volatility.
+title: Economic Collapse of the Soviet Union (Algo Trading)
 ---
 
 The dissolution of the Soviet Union in 1991 was a monumental event that brought significant changes to the political and economic frameworks globally. The collapse of this superpower not only marked the end of the Cold War but also initiated a profound economic upheaval across the former Soviet republics. As centralized control dissipated, these nations grappled with economic uncertainty, characterized by runaway inflation, unemployment, and the daunting task of transitioning to market economies. This tumultuous period created ripple effects that extended far beyond the borders of the erstwhile Soviet bloc, influencing global markets in various ways.

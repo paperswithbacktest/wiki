@@ -1,6 +1,8 @@
 ---
-title: "Volatility impact (Algo Trading)"
-description: "Explore the role of volatility in algorithmic trading and how it affects trading strategies risk management and performance optimization in dynamic markets."
+category: quant_concept
+description: Explore the role of volatility in algorithmic trading and how it affects
+  trading strategies risk management and performance optimization in dynamic markets.
+title: Volatility impact (Algo Trading)
 ---
 
 Algorithmic trading is a method of executing orders using automated pre-programmed trading instructions, accounting for variables such as time, price, and volume, to succeed in the financial markets. An essential component that impacts the effectiveness of algorithmic trading is market volatility, which refers to the degree of variation in trading prices over time. Understanding the impact of volatility is crucial for traders and investors as it can significantly influence the risk and returns associated with their trading strategies.

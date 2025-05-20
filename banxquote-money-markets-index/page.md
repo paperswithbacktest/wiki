@@ -1,6 +1,9 @@
 ---
-title: "BanxQuote Money Markets Index (Algo Trading)"
-description: "Explore the BanxQuote Money Markets Index's role in algorithmic trading Discover how it aids traders by providing insights into short-term interest rates and trends"
+category: dataset
+description: Explore the BanxQuote Money Markets Index's role in algorithmic trading
+  Discover how it aids traders by providing insights into short-term interest rates
+  and trends
+title: BanxQuote Money Markets Index (Algo Trading)
 ---
 
 In the fast-paced world of finance, having reliable indices is crucial for making informed decisions. Whether assessing market conditions or optimizing trading strategies, access to accurate and timely financial data often dictates success. The BanxQuote Money Markets Index has emerged as a significant benchmark within the money markets sector. It plays a vital role by providing insights into short-term interest rates and market trends, aiding investors in evaluating market stability and liquidity.

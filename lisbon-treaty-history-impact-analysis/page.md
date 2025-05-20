@@ -1,6 +1,8 @@
 ---
-title: "Lisbon Treaty: History, Impact, and Analysis (Algo Trading)"
-description: "Explore the Lisbon Treaty as a vital EU milestone shaping financial markets and algorithmic trading through enhanced regulatory frameworks and governance."
+category: quant_concept
+description: Explore the Lisbon Treaty as a vital EU milestone shaping financial markets
+  and algorithmic trading through enhanced regulatory frameworks and governance.
+title: 'Lisbon Treaty: History, Impact, and Analysis (Algo Trading)'
 ---
 
 The Lisbon Treaty stands as a cornerstone in the evolution of the European Union (EU), bringing significant advancements in the regulatory framework that govern its member states. Signed on December 13, 2007, this treaty sought to streamline EU institutions and decision-making processes, addressing the challenges faced by the union in an increasingly integrated world. Its implementation has exerted a profound impact on various sectors, including financial markets, where it continues influencing practices such as algorithmic trading.

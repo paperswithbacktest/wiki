@@ -1,6 +1,8 @@
 ---
-title: "Ethereum Network Transition (Algo Trading)"
-description: "Explore how the Ethereum Merge from Proof of Work to Proof of Stake impacts algorithmic trading strategies enhancing efficiency security and sustainability."
+category: quant_concept
+description: Explore how the Ethereum Merge from Proof of Work to Proof of Stake impacts
+  algorithmic trading strategies enhancing efficiency security and sustainability.
+title: Ethereum Network Transition (Algo Trading)
 ---
 
 The Ethereum Merge marks a significant advancement for the Ethereum blockchain, signifying the transition from the traditional Proof of Work (PoW) to the more eco-friendly and efficient Proof of Stake (PoS) consensus mechanism. This crucial development holds substantial implications across various sectors, with a profound impact on blockchain algorithmic trading. As traders seek to harness the benefits of these new blockchain dynamics, comprehending the intricacies of the Ethereum Merge becomes essential for refining and potentially enhancing trading strategies.

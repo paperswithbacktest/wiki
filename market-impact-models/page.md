@@ -1,6 +1,8 @@
 ---
-title: "Market impact models (Algo Trading)"
-description: "Explore market impact models vital for minimizing costs in algorithmic trading by predicting asset price changes due to trade activities in dynamic markets."
+category: quant_concept
+description: Explore market impact models vital for minimizing costs in algorithmic
+  trading by predicting asset price changes due to trade activities in dynamic markets.
+title: Market impact models (Algo Trading)
 ---
 
 The growing intricacy of financial markets, characterized by rapid developments in technology and global interconnectedness, has led to the widespread adoption of advanced algorithmic trading strategies. At the core of these strategies are market impact models, which play a pivotal role in predicting the effect of trading a particular quantity of an asset on its market price. These models are not just theoretical constructs but are crucial tools in the practical world of trading, essential for optimizing trade executions and minimizing the costs associated with large-scale trading activities. 

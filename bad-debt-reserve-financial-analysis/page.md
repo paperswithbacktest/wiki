@@ -1,6 +1,9 @@
 ---
-title: "Bad Debt Reserve: Role in Financial Analysis (Algo Trading)"
-description: "Explore the impact of bad debt reserves and debt ratios in financial analysis for algo trading Learn how these indicators can optimize strategies and inform decisions"
+category: quant_concept
+description: Explore the impact of bad debt reserves and debt ratios in financial
+  analysis for algo trading Learn how these indicators can optimize strategies and
+  inform decisions
+title: 'Bad Debt Reserve: Role in Financial Analysis (Algo Trading)'
 ---
 
 Financial health and management play a pivotal role in ensuring the sustainability and growth of businesses across various industries. The assessment of a company's financial stability often hinges on key financial indicators such as bad debt reserves and debt ratios. Bad debt reserves are accounts set aside to cover potential losses from uncollected receivables, serving as a safeguard against credit risk and a measure of fiscal prudence. Meanwhile, the debt ratio, defined as the proportion of a company's total debt to its total assets, is a critical indicator of a firm’s leverage and risk. It provides insights into a company's dependency on debt financing, which is crucial for stakeholders making investment decisions. 
@@ -166,4 +169,3 @@ For further reading on algorithmic trading strategies involving financial metric
 - Tsay, R. S. (2010). "Analysis of Financial Time Series." Wiley. This book is pivotal for understanding the statistical techniques employed in algorithmic trading, detailing methods for analyzing financial time series data crucial to credit risk assessment.
 
 These readings offer a foundation for better understanding how financial health indicators and algorithmic trading strategies intersect and inform investment and risk management activities.
-

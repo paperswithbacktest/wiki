@@ -1,6 +1,8 @@
 ---
-title: "Evergreen Statistical Trading (Algo Trading)"
-description: "Explore the world of evergreen statistical trading and discover how data-driven strategies can provide reliable and adaptable solutions for algorithmic trading."
+category: trading_strategy
+description: Explore the world of evergreen statistical trading and discover how data-driven
+  strategies can provide reliable and adaptable solutions for algorithmic trading.
+title: Evergreen Statistical Trading (Algo Trading)
 ---
 
 In today's fast-paced financial markets, technology has been a driving force in transforming trading practices. One notable evolution is the rise of evergreen statistical trading, a subset of algorithmic trading characterized by its reliance on data and statistical models to inform trading decisions. Unlike traditional methods, which often depend on human intuition and can be swayed by emotions, evergreen statistical trading uses data-driven insights to reduce the impact of biases.

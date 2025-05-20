@@ -1,7 +1,8 @@
 ---
-title: Designing Effective Feedback Loops in Machine Learning Models
+category: quant_concept
 description: Feedback loops in machine learning refine model performance by using
   predictions to adjust accuracy and minimize bias with monitoring Discover more
+title: Designing Effective Feedback Loops in Machine Learning Models
 ---
 
 ![Image](images/1.png)

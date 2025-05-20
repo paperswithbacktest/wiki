@@ -1,6 +1,8 @@
 ---
-title: "MonaCoin: Overview and Functionality (Algo Trading)"
-description: "Explore how MonaCoin, Japan's first digital currency, blends meme culture with blockchain efficiency, offering algorithmic trading potential and rapid transactions."
+category: quant_concept
+description: Explore how MonaCoin, Japan's first digital currency, blends meme culture
+  with blockchain efficiency, offering algorithmic trading potential and rapid transactions.
+title: 'MonaCoin: Overview and Functionality (Algo Trading)'
 ---
 
 In the ever-evolving landscape of cryptocurrency, MonaCoin stands out as Japan's first native digital currency. Created in 2013, MonaCoin has garnered a loyal following, largely due to its community-driven approach. Unlike traditional cryptocurrencies, MonaCoin also functions as a meme coin, initially gaining popularity from a meme featuring a cat-like figure. This unique blend of digital currency and internet culture has contributed significantly to its appeal.
@@ -182,4 +184,3 @@ In conclusion, while MonaCoin largely operates within the Japanese ecosystem, it
 [10]: Antonopoulos, A. M. (2014). ["Mastering Bitcoin: Unlocking Digital Cryptocurrencies."](https://books.google.com/books/about/Mastering_Bitcoin.html?id=IXmrBQAAQBAJ) O'Reilly Media. 
 
 [11]: Swammy, S. (2018). ["Bitcoin and Cryptocurrency Technologies: A Comprehensive Introduction"](https://press.princeton.edu/books/hardcover/9780691171692/bitcoin-and-cryptocurrency-technologies) - Offers foundational knowledge pertinent to understanding MonaCoin’s position in the digital currency spectrum.
-

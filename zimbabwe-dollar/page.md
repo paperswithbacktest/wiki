@@ -1,6 +1,12 @@
 ---
-title: "Zimbabwe Dollar (Algo Trading)"
-description: "Explore the tumultuous history of the Zimbabwe Dollar (ZWD) and its journey through hyperinflation and economic instability. Learn how economic mismanagement, political decisions, and global market influences contributed to its devaluation. Discover the rise of algorithmic trading as a modern tool potentially impacting the ZWD market and shaping new trading strategies. Understand the historical context, challenges faced, and the efforts towards economic recovery in Zimbabwe."
+category: quant_concept
+description: Explore the tumultuous history of the Zimbabwe Dollar (ZWD) and its journey
+  through hyperinflation and economic instability. Learn how economic mismanagement,
+  political decisions, and global market influences contributed to its devaluation.
+  Discover the rise of algorithmic trading as a modern tool potentially impacting
+  the ZWD market and shaping new trading strategies. Understand the historical context,
+  challenges faced, and the efforts towards economic recovery in Zimbabwe.
+title: Zimbabwe Dollar (Algo Trading)
 ---
 
 The Zimbabwe Dollar (ZWD) has a tumultuous history marked by hyperinflation and economic instability. As a currency that began its journey with relative strength and optimism post-independence, the ZWD quickly faced challenges that would lead it to be one of the most notable examples of hyperinflation in modern history. This article seeks to provide a comprehensive overview of the ZWD's progression, identifying key factors that influenced its value and assessing its impact on Zimbabwe's economic landscape. Among the many elements contributing to its volatile journey were economic mismanagement, political decisions, and the broader global market influences that exacerbated its depreciation.

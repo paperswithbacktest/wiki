@@ -1,6 +1,9 @@
 ---
-title: "Incremental Cost Calculation and Examples (Algo Trading)"
-description: "Explore how incremental cost analysis aids businesses in optimizing production efficiency and profitability by evaluating additional expenditure for unit increments in algo trading."
+category: quant_concept
+description: Explore how incremental cost analysis aids businesses in optimizing production
+  efficiency and profitability by evaluating additional expenditure for unit increments
+  in algo trading.
+title: Incremental Cost Calculation and Examples (Algo Trading)
 ---
 
 Understanding incremental cost is essential for businesses seeking to evaluate the feasibility and profitability of different operational decisions. Incremental cost, often interchangeable with the term marginal cost, refers to the additional expenditure incurred when producing one more unit of a product or service. This concept is crucial in environments where cost efficiency and productivity are paramount, such as in algorithmic trading and manufacturing.

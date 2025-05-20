@@ -1,6 +1,8 @@
 ---
-title: "Impact of Outsourcing on Industry (Algo Trading)"
-description: "Explore the complexities of outsourcing in algorithmic trading, where cost efficiency meets global talent, impacting local economies and trading innovation."
+category: quant_concept
+description: Explore the complexities of outsourcing in algorithmic trading, where
+  cost efficiency meets global talent, impacting local economies and trading innovation.
+title: Impact of Outsourcing on Industry (Algo Trading)
 ---
 
 Outsourcing has emerged as a crucial strategy for organizations aiming to achieve cost efficiency and operational scalability. This approach not only affects local economies but also extends its influence across global markets, altering economic landscapes. The advancement of algorithmic trading has introduced new dimensions to outsourcing dynamics, requiring a sophisticated comprehension of its economic effects.

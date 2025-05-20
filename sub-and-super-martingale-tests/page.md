@@ -1,6 +1,12 @@
 ---
-title: "Sub- and super-martingale tests (Algo Trading)"
-description: Explore the crucial role of sub- and super-martingale tests in enhancing algorithmic trading strategies. Learn how these probability theory concepts aid in understanding market trends optimizing trading decisions and managing risk effectively. Dive into the world of martingales and their variants to gain a competitive edge in dynamic financial markets by leveraging statistical models to predict trends and model asset prices.
+category: quant_concept
+description: Explore the crucial role of sub- and super-martingale tests in enhancing
+  algorithmic trading strategies. Learn how these probability theory concepts aid
+  in understanding market trends optimizing trading decisions and managing risk effectively.
+  Dive into the world of martingales and their variants to gain a competitive edge
+  in dynamic financial markets by leveraging statistical models to predict trends
+  and model asset prices.
+title: Sub- and super-martingale tests (Algo Trading)
 ---
 
 Algorithmic trading represents a significant evolution in modern financial markets, leveraging computational power and complex algorithms to execute trades with precision and speed unattainable by human traders. This technological advancement relies heavily on statistical models and theories to analyze market data, predict trends, and make informed trading decisions.

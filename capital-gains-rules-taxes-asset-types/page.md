@@ -1,6 +1,9 @@
 ---
-title: "Capital Gains: Rules, Taxes, and Asset Types (Algo Trading)"
-description: "Explore the complexities of capital gains tax in algorithmic trading Uncover strategies to optimize tax liabilities across diverse asset types like stocks and cryptocurrencies"
+category: trading_strategy
+description: Explore the complexities of capital gains tax in algorithmic trading
+  Uncover strategies to optimize tax liabilities across diverse asset types like stocks
+  and cryptocurrencies
+title: 'Capital Gains: Rules, Taxes, and Asset Types (Algo Trading)'
 ---
 
 Understanding the intricate tax rules associated with capital gains is an essential component for investors operating in modern financial markets, especially those employing algorithmic trading strategies. Capital gains taxation involves the levy imposed on the profit realized when an asset is sold for a higher price than its purchase date. These rules have far-reaching implications for investors due to their potential impact on net investment returns.

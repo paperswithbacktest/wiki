@@ -1,6 +1,9 @@
 ---
-title: "Energy Information Administration: Overview and History (Algo Trading)"
-description: "Explore the Energy Information Administration's history and its crucial role in shaping U.S. energy policy with independent data and analysis for informed decision-making."
+category: dataset
+description: Explore the Energy Information Administration's history and its crucial
+  role in shaping U.S. energy policy with independent data and analysis for informed
+  decision-making.
+title: 'Energy Information Administration: Overview and History (Algo Trading)'
 ---
 
 The Energy Information Administration (EIA) is a vital agency within the United States government, tasked with collecting, analyzing, and disseminating independent and impartial energy statistics and information. Established in 1977 following the Department of Energy Organization Act of that year, the EIA's creation was a strategic response to the energy crises of the 1970s. The agency's primary mission is to aid the formulation of sound policies, ensure the efficient usage of resources, and meet the needs of a broad spectrum of stakeholders with energy information that is unbiased, thorough, and easily accessible.

@@ -1,8 +1,11 @@
 ---
-title: "Forex System (Algo Trading)"
-description: Discover the Forex System in Algo Trading, a decentralized market dedicated to trading currency pairs with varying strategies including Factor Investing. Learn about manual vs automated systems, optimization, and resources for traders. Maximize chances of success in the Forex market through a systematic, rule-based approach.
+category: trading_strategy
+description: Discover the Forex System in Algo Trading, a decentralized market dedicated
+  to trading currency pairs with varying strategies including Factor Investing. Learn
+  about manual vs automated systems, optimization, and resources for traders. Maximize
+  chances of success in the Forex market through a systematic, rule-based approach.
+title: Forex System (Algo Trading)
 ---
-
 
 Forex algorithmic trading has revolutionized the way traders engage with the foreign exchange market, providing enhanced precision and execution speed through the use of complex algorithms. This form of trading, also known as algo trading, involves employing computer programs to make swift, data-driven decisions based on predetermined criteria, eliminating much of the human error associated with manual trading.
 

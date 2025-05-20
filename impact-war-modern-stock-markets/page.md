@@ -1,6 +1,8 @@
 ---
-title: "Impact of War on Modern Stock Markets (Algo Trading)"
-description: "Explore the impact of war on stock markets and algorithmic trading offering insights for investors on volatility trends and potential opportunities amidst conflict."
+category: trading_strategy
+description: Explore the impact of war on stock markets and algorithmic trading offering
+  insights for investors on volatility trends and potential opportunities amidst conflict.
+title: Impact of War on Modern Stock Markets (Algo Trading)
 ---
 
 The interplay between war, the economy, and financial markets is complex and multifaceted. Understanding how war impacts stock markets and algorithmic trading is crucial for investors navigating these challenging times. Historically, armed conflicts have provoked volatility in global markets, affecting both investor sentiment and stock market dynamics. When uncertainty increases due to geopolitical tensions, investors often react by re-evaluating their risk exposure, leading to rapid market swings.
@@ -136,4 +138,3 @@ In summary, while wars introduce uncertainties to financial markets, historical 
 12. **"The Logic of Political Survival" by Bruce Bueno de Mesquita** - This book combines political science and economic theory to explain how political decisions, like engaging in war, can impact economic stability and market trends.
 
 These resources provide a multidimensional perspective on the complex interactions between war, the economy, stock markets, and trading technologies, equipping readers with a deeper understanding of these dynamics.
-

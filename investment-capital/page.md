@@ -1,6 +1,11 @@
 ---
-title: "Investment Capital (Algo Trading)"
-description: "Explore the integration of algorithmic trading in capital investment to understand how technology transforms investment strategies. This article highlights the benefits of enhancing trading speed and accuracy while managing risks including market volatility and regulatory challenges. Ideal for investors interested in automating their trading approach for improved portfolio management and efficiency."
+category: trading_strategy
+description: Explore the integration of algorithmic trading in capital investment
+  to understand how technology transforms investment strategies. This article highlights
+  the benefits of enhancing trading speed and accuracy while managing risks including
+  market volatility and regulatory challenges. Ideal for investors interested in automating
+  their trading approach for improved portfolio management and efficiency.
+title: Investment Capital (Algo Trading)
 ---
 
 This article explores the intersection of capital investment finance and algorithmic trading, showcasing how technological innovations are reshaping investment strategies. Algorithmic trading, commonly known as algo-trading, involves the use of complex mathematical formulas and algorithms to execute trades in financial markets with greater speed and precision than possible with traditional human trading. By leveraging computational power, these algorithms can rapidly analyze market data, monitor technical indicators, and execute orders automatically in milliseconds, optimizing trading performance.

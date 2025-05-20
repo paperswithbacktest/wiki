@@ -1,6 +1,8 @@
 ---
-title: "General Collateral Financing Trades (Algo Trading)"
-description: "Explore the intricate world of General Collateral Financing Trades and algorithmic trading where advanced technology enhances liquidity and trading efficiency."
+category: trading_strategy
+description: Explore the intricate world of General Collateral Financing Trades and
+  algorithmic trading where advanced technology enhances liquidity and trading efficiency.
+title: General Collateral Financing Trades (Algo Trading)
 ---
 
 The financial markets are intricately connected systems that facilitate the flow of capital across different entities. These markets include a vast array of participants and instruments, ranging from individual investors and large institutional entities to stocks, bonds, and complex derivatives. The seamless transmission of capital is vital for economic growth and stability, and it is supported by a sophisticated infrastructure that manages risk, pricing, and liquidity.

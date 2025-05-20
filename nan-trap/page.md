@@ -1,7 +1,8 @@
 ---
-title: Resolving NAN Traps in Machine Learning for Model Stability
+category: quant_concept
 description: NAN Trap errors stall model training by creating undefined values. Use
   data cleaning preprocessing to maintain stable ML performance Discover more inside
+title: Resolving NAN Traps in Machine Learning for Model Stability
 ---
 
 ![Image](images/1.png)

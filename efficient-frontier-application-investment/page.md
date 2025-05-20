@@ -1,6 +1,8 @@
 ---
-title: "Efficient Frontier and Its Application in Investment (Algo Trading)"
-description: "Discover how the efficient frontier portfolio optimization and algo trading can enhance investment strategies by maximizing returns and managing risk effectively."
+category: quant_concept
+description: Discover how the efficient frontier portfolio optimization and algo trading
+  can enhance investment strategies by maximizing returns and managing risk effectively.
+title: Efficient Frontier and Its Application in Investment (Algo Trading)
 ---
 
 In the modern financial landscape, investors are constantly seeking strategies to maximize returns while minimizing risks. Among the many techniques available to achieve this balance, the efficient frontier and portfolio optimization stand out as crucial elements. The efficient frontier, a fundamental concept of modern portfolio theory developed by Harry Markowitz in the 1950s, helps investors identify portfolios that offer the highest expected return for a given level of risk. This theoretical framework encourages diversification to mitigate risks without sacrificing potential returns.

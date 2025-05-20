@@ -1,6 +1,8 @@
 ---
-title: "LIBOR Curve: Description, Functionality, and Criticism (Algo Trading)"
-description: "Explore the LIBOR curve's description function and criticism in the context of algorithmic trading Understand its historical significance and adaptation challenges"
+category: quant_concept
+description: Explore the LIBOR curve's description function and criticism in the context
+  of algorithmic trading Understand its historical significance and adaptation challenges
+title: 'LIBOR Curve: Description, Functionality, and Criticism (Algo Trading)'
 ---
 
 In an era of highly interconnected financial systems, a comprehensive understanding of core components such as financial curves, interest rates, and algorithmic trading has become indispensable. These elements form the backbone of modern financial markets, influencing everything from loan pricing to investment strategies. This article examines the pivotal roles played by LIBOR interest rates and financial curves in shaping the dynamics of algorithmic trading. 

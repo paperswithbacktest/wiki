@@ -1,6 +1,14 @@
 ---
-title: "Best Undergraduate Degree Course for Becoming a Quant (Algo Trading)"
-description: Explore how a career in algorithmic trading starts with a quant major, integrating math, finance, statistics, and computer science to create sophisticated trading strategies. This article dives into the essential skills, education pathways, and industry tools crucial for aspiring quants. Understand how these elements position you for success in the fast-paced world of algo trading while highlighting the importance of continuous learning and adaptation in this dynamic field. Mark your journey toward financial innovation by grasping the intricacies of quantitative finance and its pivotal role in reshaping modern markets.
+category: quant_concept
+description: Explore how a career in algorithmic trading starts with a quant major,
+  integrating math, finance, statistics, and computer science to create sophisticated
+  trading strategies. This article dives into the essential skills, education pathways,
+  and industry tools crucial for aspiring quants. Understand how these elements position
+  you for success in the fast-paced world of algo trading while highlighting the importance
+  of continuous learning and adaptation in this dynamic field. Mark your journey toward
+  financial innovation by grasping the intricacies of quantitative finance and its
+  pivotal role in reshaping modern markets.
+title: Best Undergraduate Degree Course for Becoming a Quant (Algo Trading)
 ---
 
 Algorithmic trading, often seen as the convergence of finance and technology, involves using computer algorithms to execute financial trades at speeds and frequencies that are impossible for human traders. These algorithms make trading decisions based on predefined strategies that take into consideration various market parameters. The precision, efficiency, and speed provided by algorithmic trading have reshaped modern financial markets.

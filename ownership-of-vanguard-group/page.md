@@ -1,6 +1,11 @@
 ---
-title: "Ownership of Vanguard Group (Algo Trading)"
-description: "Discover how Vanguard Group revolutionizes investment management through its unique mutual ownership model and advanced algorithmic trading. This approach allows Vanguard to deliver low-cost, transparent investment options while aligning with investor interests. Explore Vanguard's commitment to innovation and efficiency, ensuring optimal investment performance in a rapidly evolving financial landscape."
+category: quant_concept
+description: Discover how Vanguard Group revolutionizes investment management through
+  its unique mutual ownership model and advanced algorithmic trading. This approach
+  allows Vanguard to deliver low-cost, transparent investment options while aligning
+  with investor interests. Explore Vanguard's commitment to innovation and efficiency,
+  ensuring optimal investment performance in a rapidly evolving financial landscape.
+title: Ownership of Vanguard Group (Algo Trading)
 ---
 
 Investment management has become increasingly important in today's complex financial landscape, where individuals and institutions seek optimal strategies to grow and protect their wealth. At the forefront of this industry is Vanguard Group, a pioneering organization that has reshaped investment management through its distinctive ownership structure and advanced technological methodologies, such as algorithmic trading.

@@ -1,6 +1,8 @@
 ---
-title: "Hot Money: Overview, Mechanism, and Economic Impact (Algo Trading)"
-description: "Discover the role of hot money in global economics through the lens of algorithmic trading Learn its impact on market dynamics stability and trading strategies"
+category: quant_concept
+description: Discover the role of hot money in global economics through the lens of
+  algorithmic trading Learn its impact on market dynamics stability and trading strategies
+title: 'Hot Money: Overview, Mechanism, and Economic Impact (Algo Trading)'
 ---
 
 In today's highly interconnected financial world, 'hot money' has become a significant factor influencing economic stability and market dynamics. Hot money represents capital that moves rapidly across different markets in pursuit of the highest short-term returns. It is often characterized by its transient nature, swiftly moving from one country or asset class to another based on perceived investment opportunities. This kind of capital flow is driven by investors seeking immediate profit from changing conditions such as interest rates, geopolitical developments, or currency appreciations.

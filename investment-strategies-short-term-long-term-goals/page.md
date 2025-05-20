@@ -1,6 +1,9 @@
 ---
-title: "Investment Strategies for Short-Term and Long-Term Goals (Algo Trading)"
-description: "Explore effective investment strategies for short-term and long-term goals including the benefits of algorithmic trading in optimizing and automating financial decisions"
+category: trading_strategy
+description: Explore effective investment strategies for short-term and long-term
+  goals including the benefits of algorithmic trading in optimizing and automating
+  financial decisions
+title: Investment Strategies for Short-Term and Long-Term Goals (Algo Trading)
 ---
 
 Investing plays a pivotal role in securing both immediate and future financial goals by enabling individuals to generate wealth over time. With the vast array of investment options available, understanding the fundamental differences between short-term and long-term strategies is essential for crafting a personalized investment plan. Short-term investments generally span less than five years and focus on preserving capital while maintaining liquidity—ideal for objectives like an impending vacation or a significant purchase. Conversely, long-term investments stretch over a decade or more, targeting retirement savings or educational funds, and emphasize growth while enduring market fluctuations.

@@ -1,6 +1,12 @@
 ---
-title: "Goldman Sachs Most-Loved Stocks by Hedge Funds (Algo Trading)"
-description: "Explore the dynamic interplay between hedge funds, Goldman Sachs' stock investments, and algorithmic trading. Discover how these elements shape modern investment strategies, revealing insights into market trends and investment behaviors. Understand how Goldman Sachs influences institutional investors and how algorithmic trading enhances the efficiency and returns for hedge funds. Dive into a comprehensive analysis of these factors impacting today's financial markets and strategies."
+category: trading_strategy
+description: Explore the dynamic interplay between hedge funds, Goldman Sachs' stock
+  investments, and algorithmic trading. Discover how these elements shape modern investment
+  strategies, revealing insights into market trends and investment behaviors. Understand
+  how Goldman Sachs influences institutional investors and how algorithmic trading
+  enhances the efficiency and returns for hedge funds. Dive into a comprehensive analysis
+  of these factors impacting today's financial markets and strategies.
+title: Goldman Sachs Most-Loved Stocks by Hedge Funds (Algo Trading)
 ---
 
 Hedge funds have long been recognized as some of the most influential and assertive participants in the financial markets. These investment vehicles employ varied strategies, leveraging their flexibility to capitalize on a wide range of asset classes with the objective of achieving absolute returns. A significant player within this landscape is Goldman Sachs. As a leader in financial services, it holds substantial sway over institutional investor behavior, including that of hedge funds.

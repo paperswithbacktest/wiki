@@ -1,6 +1,12 @@
 ---
-title: "Paid-In Capital: Calculation and Par Value Excess (Algo Trading)"
-description: "Explore the intricacies of Paid-In Capital and its components with a focus on algorithmic trading. Understand how a company raises funds through par value and excess, and how this relates to financial health and capital structure. Discover how algorith traders use these elements to analyze investment opportunities and predict stock price movements, enhancing the effectiveness of trading strategies and informed decision-making."
+category: quant_concept
+description: Explore the intricacies of Paid-In Capital and its components with a
+  focus on algorithmic trading. Understand how a company raises funds through par
+  value and excess, and how this relates to financial health and capital structure.
+  Discover how algorith traders use these elements to analyze investment opportunities
+  and predict stock price movements, enhancing the effectiveness of trading strategies
+  and informed decision-making.
+title: 'Paid-In Capital: Calculation and Par Value Excess (Algo Trading)'
 ---
 
 In the world of finance, understanding the various components of equity is crucial for investors and analysts alike. Among these components, Paid-In Capital stands out as a fundamental aspect, representing the money a company raises through the issuance of stocks. It is essential in determining a company's financial health and capital structure, providing insights into how a company finances its operations and growth opportunities.

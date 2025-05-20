@@ -1,6 +1,8 @@
 ---
-title: "Kimchi Premium in Cryptocurrency Trading (Algo Trading)"
-description: "Explore the Kimchi Premium in crypto trading where South Korean markets exhibit price discrepancies Learn about arbitrage and the role of algorithmic trading"
+category: trading_strategy
+description: Explore the Kimchi Premium in crypto trading where South Korean markets
+  exhibit price discrepancies Learn about arbitrage and the role of algorithmic trading
+title: Kimchi Premium in Cryptocurrency Trading (Algo Trading)
 ---
 
 Trading arbitrage offers enticing prospects in the global cryptocurrency market by capitalizing on price discrepancies of the same asset across different platforms or geographic regions. Among these opportunities, the Kimchi Premium stands out as a notable phenomenon, particularly in the South Korean market, where cryptocurrencies such as Bitcoin are sometimes traded at higher prices compared to international markets. This article aims to explore the mechanisms of arbitrage, explain the dynamics behind the Kimchi Premium, and discuss the pivotal role of algorithmic trading in this context. 

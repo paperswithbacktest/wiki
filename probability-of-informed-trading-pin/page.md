@@ -1,6 +1,13 @@
 ---
-title: "Probability of informed trading (PIN) (Algo Trading)"
-description: Explore how the Probability of Informed Trading (PIN) plays a critical role in algorithmic trading strategies. Understand informed trading dynamics and learn how PIN quantifies the likelihood of trading based on non-public information. Enhance trading algorithms by integrating PIN for improved risk management and adaptability in volatile market conditions. Discover the theoretical framework by Easley et al. and how it calculates PIN using Poisson processes to distinguish between informed and uninformed trading activities.
+category: quant_concept
+description: Explore how the Probability of Informed Trading (PIN) plays a critical
+  role in algorithmic trading strategies. Understand informed trading dynamics and
+  learn how PIN quantifies the likelihood of trading based on non-public information.
+  Enhance trading algorithms by integrating PIN for improved risk management and adaptability
+  in volatile market conditions. Discover the theoretical framework by Easley et al.
+  and how it calculates PIN using Poisson processes to distinguish between informed
+  and uninformed trading activities.
+title: Probability of informed trading (PIN) (Algo Trading)
 ---
 
 Algorithmic trading has fundamentally transformed financial markets by employing advanced computational models and exploiting large datasets to execute trades with remarkable speed and precision. This paradigm shift has not only increased trading efficiency but also altered the dynamics of market interactions. As algorithmic platforms become increasingly sophisticated, one of the primary challenges they face is ensuring the integrity and reliability of the information utilized for trading decisions. In this context, 'informed trading'—where traders possess material, non-public information that could influence asset prices—emerges as a significant concern.

@@ -1,6 +1,9 @@
 ---
-title: "Trading Assets: Meaning, Examples, and Applications (Algo Trading)"
-description: "Explore trading assets and algorithmic trading to enhance investment strategies. Learn about stocks, bonds, ETFs, and commodities to navigate financial markets."
+category: quant_concept
+description: Explore trading assets and algorithmic trading to enhance investment
+  strategies. Learn about stocks, bonds, ETFs, and commodities to navigate financial
+  markets.
+title: 'Trading Assets: Meaning, Examples, and Applications (Algo Trading)'
 ---
 
 Investment opportunities encompass a broad spectrum of possibilities within the financial landscape, offering numerous pathways for potential growth and risk management. Understanding the intricacies of various financial instruments and trading assets is essential for making informed and effective investment decisions. Financial instruments such as stocks, bonds, commodities, and exchange-traded funds (ETFs) each present unique benefits and risks that require careful evaluation by investors.

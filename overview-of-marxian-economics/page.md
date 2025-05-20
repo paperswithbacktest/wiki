@@ -1,6 +1,9 @@
 ---
-title: "Overview of Marxian Economics (Algo Trading)"
-description: "Explore the intersection of Marxian economics and algorithmic trading, examining how Marx's critique of capitalism relates to modern financial technologies and market disparities."
+category: quant_concept
+description: Explore the intersection of Marxian economics and algorithmic trading,
+  examining how Marx's critique of capitalism relates to modern financial technologies
+  and market disparities.
+title: Overview of Marxian Economics (Algo Trading)
 ---
 
 Marxian economics represents a school of economic thought rooted in the work of Karl Marx, focusing on the critique of capitalism and its inherent contradictions. Marx theorized that capitalism, driven by profit maximization and capital accumulation, exploits the working class by extracting surplus value from labor. This critique remains relevant today, especially with the advancements in financial technologies such as algorithmic trading.

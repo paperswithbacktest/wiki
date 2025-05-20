@@ -1,6 +1,9 @@
 ---
-title: "List of Canadian Marijuana Stocks for Investment (Algo Trading)"
-description: "Invest in Canadian marijuana stocks with algorithmic trading for potential high returns Streamline decision-making and optimize your portfolio in this dynamic market"
+category: dataset
+description: Invest in Canadian marijuana stocks with algorithmic trading for potential
+  high returns Streamline decision-making and optimize your portfolio in this dynamic
+  market
+title: List of Canadian Marijuana Stocks for Investment (Algo Trading)
 ---
 
 The marijuana industry in Canada has experienced significant growth following the country's federal legalization in 2018. This landmark move positioned Canada as a pioneer, leading to the rapid expansion of cannabis-related businesses and the stock market appeal of these companies. Canadian marijuana stocks, therefore, offer an intriguing investment opportunity marked by dynamic market conditions and potential for substantial returns.

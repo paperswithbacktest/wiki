@@ -1,6 +1,9 @@
 ---
-title: "Impact of Brexit Deal: Winners and Losers (Algo Trading)"
-description: "Explore the impact of the Brexit deal on various sectors with a focus on winners like US bankers and machine part manufacturers amid volatility and evolving markets."
+category: trading_strategy
+description: Explore the impact of the Brexit deal on various sectors with a focus
+  on winners like US bankers and machine part manufacturers amid volatility and evolving
+  markets.
+title: 'Impact of Brexit Deal: Winners and Losers (Algo Trading)'
 ---
 
 Brexit stands as a landmark event in the tapestry of European history, presenting a series of economic and political challenges that reverberated across the continent and beyond. The United Kingdom's departure from the European Union on January 31, 2020, marked the conclusion of a 47-year membership, fundamentally altering the geopolitical and economic landscape. This disunion instigated substantial ripple effects across various sectors, domestic and international.

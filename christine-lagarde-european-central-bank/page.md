@@ -1,6 +1,9 @@
 ---
-title: "Christine Lagarde's Role at the European Central Bank (Algo Trading)"
-description: "Explore Christine Lagarde's influential role at the European Central Bank as she navigates economic challenges, shaping monetary policies impacting algorithmic trading."
+category: quant_concept
+description: Explore Christine Lagarde's influential role at the European Central
+  Bank as she navigates economic challenges, shaping monetary policies impacting algorithmic
+  trading.
+title: Christine Lagarde's Role at the European Central Bank (Algo Trading)
 ---
 
 The European Central Bank (ECB) stands as a keystone in the architecture of both European and global finance. Established in 1998, the ECB's primary mandate is to maintain price stability within the Eurozone, a region encompassing 20 European Union member states that have adopted the euro (€) as their common currency. The bank's influence extends beyond monetary policy; it also plays a crucial role in maintaining financial stability and coordinating currency issuance across the Eurozone.

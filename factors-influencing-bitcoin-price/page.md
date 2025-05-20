@@ -1,6 +1,12 @@
 ---
-title: "Factors Influencing Bitcoin Price (Algo Trading)"
-description: "Explore the factors influencing Bitcoin's price in algorithmic trading. Understand key determinants like supply-demand dynamics, regulatory news, macroeconomic trends, technological advancements, and investor sentiment, and discover how these elements impact trading strategies in the cryptocurrency market. This comprehensive guide provides insights for traders aiming to navigate Bitcoin's price dynamics with algorithmic approaches."
+category: quant_concept
+description: Explore the factors influencing Bitcoin's price in algorithmic trading.
+  Understand key determinants like supply-demand dynamics, regulatory news, macroeconomic
+  trends, technological advancements, and investor sentiment, and discover how these
+  elements impact trading strategies in the cryptocurrency market. This comprehensive
+  guide provides insights for traders aiming to navigate Bitcoin's price dynamics
+  with algorithmic approaches.
+title: Factors Influencing Bitcoin Price (Algo Trading)
 ---
 
 Bitcoin is the pioneering cryptocurrency that has not only introduced the concept of decentralized digital currencies but has also maintained its position as the most significant player in the cryptocurrency market. Created in 2009 by the pseudonymous entity Satoshi Nakamoto, Bitcoin revolutionized the digital financial landscape, offering a new form of currency not governed by central banks or financial institutions. As of 2023, Bitcoin continues to dictate trends in the cryptocurrency space, with a market capitalization often surpassing several hundred billion dollars. Bitcoin's prominence has made it both a subject of intrigue and a focal point for financial innovation, drawing interest from individual traders, institutional investors, and technologists alike.

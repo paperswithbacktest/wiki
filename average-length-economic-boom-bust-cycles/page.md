@@ -1,6 +1,9 @@
 ---
-title: "Average Length of Economic Boom and Bust Cycles (Algo Trading)"
-description: "Explore the interplay between economic cycles and algorithmic trading, uncovering how technology aids in navigating boom and bust phases for optimized market strategies."
+category: quant_concept
+description: Explore the interplay between economic cycles and algorithmic trading,
+  uncovering how technology aids in navigating boom and bust phases for optimized
+  market strategies.
+title: Average Length of Economic Boom and Bust Cycles (Algo Trading)
 ---
 
 Understanding the boom and bust cycles is pivotal for grasping the nature of economic fluctuations. These cycles, characterized by alternating phases of economic expansion and contraction, are fundamental to the analysis of both historical and contemporary economic conditions. A boom phase is marked by robust economic growth, increased employment, and rising asset prices, often leading to periods of high confidence and investment. Conversely, the bust phase brings about economic contraction, increased unemployment, and declining asset prices, generating challenges for policymakers and investors.

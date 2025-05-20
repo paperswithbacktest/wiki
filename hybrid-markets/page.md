@@ -1,6 +1,14 @@
 ---
-title: "Hybrid Markets (Algo Trading)"
-description: "Hybrid markets represent a transformative development in financial trading by combining traditional floor trading with advanced electronic systems. This dual approach enhances trading flexibility and efficiency, catering to the diverse needs of market participants. The integration of algorithmic trading within these markets further optimizes execution speed and risk management, making hybrid models indispensable in modern financial contexts. As technological advancements reshape trading structures, understanding hybrid markets becomes crucial for informed and strategic decision-making in the evolving landscape of financial trading."
+category: quant_concept
+description: Hybrid markets represent a transformative development in financial trading
+  by combining traditional floor trading with advanced electronic systems. This dual
+  approach enhances trading flexibility and efficiency, catering to the diverse needs
+  of market participants. The integration of algorithmic trading within these markets
+  further optimizes execution speed and risk management, making hybrid models indispensable
+  in modern financial contexts. As technological advancements reshape trading structures,
+  understanding hybrid markets becomes crucial for informed and strategic decision-making
+  in the evolving landscape of financial trading.
+title: Hybrid Markets (Algo Trading)
 ---
 
 Understanding the evolution of market structures in financial trading is crucial, especially as the integration of technology transforms traditional systems. Financial markets have undergone significant changes influenced by technological advancements, leading to the development of more sophisticated and efficient trading systems. Among these progressions is the emergence of hybrid markets, which combine the traditional floor trading methods with advanced electronic systems, offering a versatile and efficient trading environment.

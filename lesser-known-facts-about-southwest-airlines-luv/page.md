@@ -1,6 +1,9 @@
 ---
-title: "Lesser-Known Facts About Southwest Airlines (LUV) (Algo Trading)"
-description: "Discover how Southwest Airlines revolutionized air travel with a low-cost model focused on customer satisfaction and operational efficiency while exploring the impact of algorithmic trading in aviation."
+category: quant_concept
+description: Discover how Southwest Airlines revolutionized air travel with a low-cost
+  model focused on customer satisfaction and operational efficiency while exploring
+  the impact of algorithmic trading in aviation.
+title: Lesser-Known Facts About Southwest Airlines (LUV) (Algo Trading)
 ---
 
 The aviation industry is an essential component of global transportation, facilitating trade and connecting international communities. Within this sector, Southwest Airlines has emerged as a significant player, known for its influential role in reshaping air travel. This article highlights crucial aviation facts by examining Southwest Airlines, focusing on its impact and industry standing.

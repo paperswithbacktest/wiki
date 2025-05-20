@@ -1,6 +1,8 @@
 ---
-title: "Enterprise Value And Market Capitalization Comparison (Algo Trading)"
-description: "Understand the synergy between enterprise value and market capitalization in algo trading Learn how these financial metrics drive modern investment strategies"
+category: quant_concept
+description: Understand the synergy between enterprise value and market capitalization
+  in algo trading Learn how these financial metrics drive modern investment strategies
+title: Enterprise Value And Market Capitalization Comparison (Algo Trading)
 ---
 
 In today's rapidly evolving financial landscape, understanding the intricacies of financial metrics is crucial for both seasoned investors and newcomers alike. Financial metrics such as enterprise value (EV) and market capitalization provide invaluable insights into a company's size, market position, and overall financial health. While market capitalization, defined as the product of the current share price and the total number of outstanding shares, offers a snapshot of a company’s market value, enterprise value offers a more comprehensive assessment. EV accounts for market capitalization while also considering the company’s debt, cash reserves, and other financial obligations, thereby providing a holistic view of its valuation.

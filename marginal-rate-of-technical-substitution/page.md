@@ -1,6 +1,11 @@
 ---
-title: "Marginal Rate of Technical Substitution (Algo Trading)"
-description: "Explore the impact of blending traditional economic principles and technological advancements in finance with a focus on the Marginal Rate of Technical Substitution (MRTS) and algorithmic trading. Discover how these concepts optimize resource use and enhance trading efficiency for businesses seeking competitive advantages in production and financial markets."
+category: quant_concept
+description: Explore the impact of blending traditional economic principles and technological
+  advancements in finance with a focus on the Marginal Rate of Technical Substitution
+  (MRTS) and algorithmic trading. Discover how these concepts optimize resource use
+  and enhance trading efficiency for businesses seeking competitive advantages in
+  production and financial markets.
+title: Marginal Rate of Technical Substitution (Algo Trading)
 ---
 
 The financial world continually evolves with the incorporation of advanced concepts from economics and technology, aiming to enhance efficiency and decision-making. At the core of this evolution are the Marginal Rate of Technical Substitution (MRTS) and algorithmic trading. Both have significantly impacted modern financial strategies by blending traditional economic principles with technological advancements.

@@ -1,6 +1,8 @@
 ---
-title: "Cyclical Stocks: Advantages and Disadvantages (Algo Trading)"
-description: "Explore the advantages and risks of investing in cyclical stocks and discover how algorithmic trading can enhance your strategic approach to market cycles."
+category: trading_strategy
+description: Explore the advantages and risks of investing in cyclical stocks and
+  discover how algorithmic trading can enhance your strategic approach to market cycles.
+title: 'Cyclical Stocks: Advantages and Disadvantages (Algo Trading)'
 ---
 
 Investing in the stock market necessitates a sophisticated understanding of various investment strategies. Amongst the diverse array of options, cyclical stocks are particularly noteworthy due to their distinct performance patterns during different economic cycle phases. These stocks belong to companies whose earnings and operations tend to align closely with the fluctuations of the broader economy. For instance, industries such as automobiles, airlines, and luxury goods typically see a rise in stock prices during periods of economic expansion, as consumer confidence and spending increase. Conversely, during economic downturns, these industries often experience significant declines.

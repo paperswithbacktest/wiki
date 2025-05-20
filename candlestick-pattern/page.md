@@ -1,6 +1,8 @@
 ---
-title: "Candlestick Pattern (Algo Trading)"
-description: "Discover the essential role of candlestick patterns in algo trading Learn how these historical chart patterns and automated strategies enhance market analysis"
+category: trading_strategy
+description: Discover the essential role of candlestick patterns in algo trading Learn
+  how these historical chart patterns and automated strategies enhance market analysis
+title: Candlestick Pattern (Algo Trading)
 ---
 
 Candlestick patterns play a pivotal role in trading, acting as a major component of technical analysis. Originating from Japanese rice traders in the 18th century, these patterns present a visual representation of market prices, encapsulating the open, high, low, and close prices for a given period. Traders use these patterns to interpret market sentiment and make informed predictions about future price movements. Common patterns such as the doji, engulfing, and hammer provide insights into potential reversals or continuations in the price trend. 

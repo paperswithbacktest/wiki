@@ -1,6 +1,9 @@
 ---
-title: "Ledger Nano S Plus Evaluation (Algo Trading)"
-description: "Explore the enhanced security and functionality of the Ledger Nano S Plus. Ideal for secure cryptocurrency storage and algorithmic trading, offering improved capabilities."
+category: quant_concept
+description: Explore the enhanced security and functionality of the Ledger Nano S
+  Plus. Ideal for secure cryptocurrency storage and algorithmic trading, offering
+  improved capabilities.
+title: Ledger Nano S Plus Evaluation (Algo Trading)
 ---
 
 Securing cryptocurrencies is of paramount importance in today's digital finance landscape. As cryptocurrencies have gained traction, the need for robust security measures to protect these digital assets has become critical. Hardware wallets, such as those developed by Ledger, are an essential component in safeguarding cryptocurrencies from theft, hacking, and unauthorized access. These devices provide a highly secure environment by storing private keys offline, thus mitigating the risks associated with online storage solutions.

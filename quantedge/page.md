@@ -1,11 +1,16 @@
 ---
-title: "Quantedge (Algo Trading)"
-description: Quantedge Capital, based in Singapore and New York City, is a leading alternative investment manager known for its systematic investment strategies using advanced statistical models. With $3.8 billion in assets under management as of March 2024, the firm provides diversified investment solutions aimed at optimizing returns and managing risk. Quantedge's approach emphasizes ultra-diversification across a vast array of asset classes, ensuring robust performance despite market fluctuations. Offering the Quantedge Global Master Fund to high-net-worth and institutional investors, the firm consistently delivers impressive returns with a focus on long-term growth and dynamic risk management.
+category: trading_strategy
+description: Quantedge Capital, based in Singapore and New York City, is a leading
+  alternative investment manager known for its systematic investment strategies using
+  advanced statistical models. With $3.8 billion in assets under management as of
+  March 2024, the firm provides diversified investment solutions aimed at optimizing
+  returns and managing risk. Quantedge's approach emphasizes ultra-diversification
+  across a vast array of asset classes, ensuring robust performance despite market
+  fluctuations. Offering the Quantedge Global Master Fund to high-net-worth and institutional
+  investors, the firm consistently delivers impressive returns with a focus on long-term
+  growth and dynamic risk management.
+title: Quantedge (Algo Trading)
 ---
-
-
-
-
 
 Quantedge Capital is a noteworthy entity in the world of alternative investment management, distinguished by its dual operations in Singapore and New York City. Founded as a Singaporean-American asset manager, Quantedge Capital has made significant strides in the financial industry with its unique and systematic approach to investing. The firm is best known for its bold investment strategies that leverage statistical models to optimize returns, setting it apart from many traditional investment firms.
 

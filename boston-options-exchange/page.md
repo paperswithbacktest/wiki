@@ -1,6 +1,8 @@
 ---
-title: "Boston Options Exchange (Algo Trading)"
-description: "The Boston Options Exchange champions algorithmic trading with its innovative price improvement mechanisms offering speed and precision for optimized trading."
+category: quant_concept
+description: The Boston Options Exchange champions algorithmic trading with its innovative
+  price improvement mechanisms offering speed and precision for optimized trading.
+title: Boston Options Exchange (Algo Trading)
 ---
 
 The Boston Options Exchange (BOX) distinguishes itself as a formidable platform within the options market, recognized for its leadership in algorithmic trading. Since its establishment in 2002, BOX has consistently evolved, positioning itself as a fundamental entity that offers an extensive array of opportunities for traders and firms keen on utilizing algorithmic trading strategies. The exchange's commitment to embracing the latest technological advancements has allowed it to reconfigure how options are traded, setting new standards in an industry characterized by rapid innovation and transformation.

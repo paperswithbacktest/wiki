@@ -1,6 +1,8 @@
 ---
-title: "Overview of Nadex (Algo Trading)"
-description: "Explore Nadex for binary options trading in the US with its regulated, transparent environment. Ideal for novices and pros, offering algo trading tools."
+category: trading_strategy
+description: Explore Nadex for binary options trading in the US with its regulated,
+  transparent environment. Ideal for novices and pros, offering algo trading tools.
+title: Overview of Nadex (Algo Trading)
 ---
 
 Binary options trading has gained popularity due to its straightforward approach and the clear delineation of potential profits and losses. This financial instrument allows traders to speculate on the price movements of various underlying assets, including currencies, indices, and commodities, all while knowing their risk and reward before entering the trade. The binary nature of these options—where the outcome is either a profit or a loss—makes them accessible and appealing to both novice and experienced traders.

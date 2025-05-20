@@ -1,6 +1,9 @@
 ---
-title: "Impact of Quantitative Easing on Bond Market (Algo Trading)"
-description: "Explore the dynamic impact of quantitative easing on bond markets and algorithmic trading, analyzing their intricate influences on global financial stability and investment strategies."
+category: quant_concept
+description: Explore the dynamic impact of quantitative easing on bond markets and
+  algorithmic trading, analyzing their intricate influences on global financial stability
+  and investment strategies.
+title: Impact of Quantitative Easing on Bond Market (Algo Trading)
 ---
 
 The intersection of monetary policy, bond markets, quantitative easing, and algorithmic trading represents a complex and dynamic facet of modern finance. Each component functions as a critical pillar in the global financial structure, and their interactions significantly influence economic cycles and financial stability across nations.

@@ -1,6 +1,8 @@
 ---
-title: "Median Household Income by U.S. State (Algo Trading)"
-description: "Explore median household income variations by state in the U.S. and their impact on economic policies and investment strategies in algorithmic trading."
+category: quant_concept
+description: Explore median household income variations by state in the U.S. and their
+  impact on economic policies and investment strategies in algorithmic trading.
+title: Median Household Income by U.S. State (Algo Trading)
 ---
 
 Understanding the dynamics of income distribution across different states in the U.S. is essential for stakeholders such as policymakers, economists, and investors. The variation in income distribution provides insights into the economic health and living standards of diverse regions, highlighting disparities that may necessitate tailored socio-economic policies.

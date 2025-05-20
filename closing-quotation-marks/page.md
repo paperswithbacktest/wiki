@@ -1,6 +1,8 @@
 ---
-title: "Closing Quotation Marks (Algo Trading)"
-description: "Explore the pivotal role of closing quotes in algorithmic trading Discover how these final trade prices enhance strategies boost profitability and ensure precision."
+category: quant_concept
+description: Explore the pivotal role of closing quotes in algorithmic trading Discover
+  how these final trade prices enhance strategies boost profitability and ensure precision.
+title: Closing Quotation Marks (Algo Trading)
 ---
 
 Algorithmic trading, characterized by the use of computer algorithms to execute trading decisions, has transformed financial markets by enhancing trading speed and accuracy. This method has become indispensable for investors and traders due to its ability to capitalize on market opportunities with minimal human intervention. Central to this sophisticated trading framework is the concept of closing quotes—the final trading price of a security at the end of a trading session. Understanding the nuanced role these closing quotes play in algorithmic strategies can significantly boost trading efficiency and profitability.

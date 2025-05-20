@@ -1,7 +1,8 @@
 ---
-title: Implementing Equality of Opportunity in Machine Learning Models
+category: quant_concept
 description: Equality of Opportunity in machine learning ensures true positive rates
   match across groups to reduce bias and promote fairness Discover more inside.
+title: Implementing Equality of Opportunity in Machine Learning Models
 ---
 
 ![Image](images/1.png)

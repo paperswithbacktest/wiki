@@ -1,6 +1,8 @@
 ---
-title: "Introduction to Natural Gas (Algo Trading)"
-description: "Explore the vital role of natural gas in energy markets and discover algorithmic trading's transformative impact on natural gas pricing and efficiency."
+category: dataset
+description: Explore the vital role of natural gas in energy markets and discover
+  algorithmic trading's transformative impact on natural gas pricing and efficiency.
+title: Introduction to Natural Gas (Algo Trading)
 ---
 
 Natural gas, a fossil fuel recognized for its relatively cleaner-burning characteristics compared to coal and oil, plays a vital role in the global energy economy. As a versatile energy source, it is integral to electricity generation, industrial applications, and domestic heating, supporting a myriad of services that drive modern life. The advantages of natural gas include its abundance, efficiency, and lower emissions profile, which make it an attractive option in the transition toward more sustainable energy systems.

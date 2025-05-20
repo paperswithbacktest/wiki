@@ -1,6 +1,8 @@
 ---
-title: "Rediscount: Purpose, Process, Examples (Algo Trading)"
-description: "Explore the purpose and process of rediscount banking and its role in liquidity and economic stability alongside the impact of algorithmic trading."
+category: quant_concept
+description: Explore the purpose and process of rediscount banking and its role in
+  liquidity and economic stability alongside the impact of algorithmic trading.
+title: 'Rediscount: Purpose, Process, Examples (Algo Trading)'
 ---
 
 Rediscount banking is a significant financial mechanism that involves the revaluation of a financial instrument, such as a promissory note or bill of exchange, after it has been discounted by a bank and resold to a central bank or another financial institution. This process plays a crucial role in providing liquidity to the financial markets, as it allows commercial banks to convert their financial assets into cash quickly and efficiently. By doing so, banks are better positioned to meet the cash demands of their customers, thereby supporting the continuous flow of money within the economy.

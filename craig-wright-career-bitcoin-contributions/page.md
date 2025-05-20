@@ -1,6 +1,12 @@
 ---
-title: "Craig Wright: Career and Bitcoin Contributions (Algo Trading)"
-description: "Explore the intricate career and contributions of Craig Wright, a controversial figure in the cryptocurrency realm. This article investigates into Wright's assertion of being Satoshi Nakamoto, the enigmatic creator of Bitcoin, and examines his impact on algorithmic trading. Discover insights into technological advancements, identity assertions, and legal controversies that shed light on Wright's significant role in digital currency."
+category: quant_concept
+description: Explore the intricate career and contributions of Craig Wright, a controversial
+  figure in the cryptocurrency realm. This article investigates into Wright's assertion
+  of being Satoshi Nakamoto, the enigmatic creator of Bitcoin, and examines his impact
+  on algorithmic trading. Discover insights into technological advancements, identity
+  assertions, and legal controversies that shed light on Wright's significant role
+  in digital currency.
+title: 'Craig Wright: Career and Bitcoin Contributions (Algo Trading)'
 ---
 
 Craig Wright, a prominent yet controversial figure in the cryptocurrency community, has significantly influenced Bitcoin and algorithmic trading. His bold claim of being Satoshi Nakamoto, the elusive inventor of Bitcoin, has generated widespread skepticism and debate within the industry. This article investigates Wright's trajectory in the Bitcoin world, examining his pioneering efforts in algorithmic trading. We aim to chart his early career, highlight significant achievements, and dissect the ongoing controversies surrounding his assertion of being Nakamoto. This exploration offers insights into the complex interactions between technology, identity, and credibility in the burgeoning landscape of digital currency.
@@ -79,4 +85,4 @@ The ongoing debates surrounding Craig Wright highlight the complexities of ident
 
 [4]: Quiggin, J. (2021). ["The Bitcoin Bubble."](https://johnquiggin.com/2013/04/17/the-bitcoin-bubble-and-a-bad-hypothesis/) John Quiggin's Blog.
 
-[5]: Castillo, M. (2021). ["Craig Wright Found Liable for $100M in Kleiman vs. Wright Bitcoin Trial."](https://www.bbc.co.uk/news/business-59571277) CoinDesk. 
+[5]: Castillo, M. (2021). ["Craig Wright Found Liable for $100M in Kleiman vs. Wright Bitcoin Trial."](https://www.bbc.co.uk/news/business-59571277) CoinDesk.

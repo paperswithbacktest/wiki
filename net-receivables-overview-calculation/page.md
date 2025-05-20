@@ -1,6 +1,9 @@
 ---
-title: "Net Receivables: Overview and Calculation (Algo Trading)"
-description: "Explore the significance of net receivables in financial management and algorithmic trading. Learn how they influence cash flow, liquidity, and strategic decision-making."
+category: quant_concept
+description: Explore the significance of net receivables in financial management and
+  algorithmic trading. Learn how they influence cash flow, liquidity, and strategic
+  decision-making.
+title: 'Net Receivables: Overview and Calculation (Algo Trading)'
 ---
 
 In financial management and accounting, various concepts interplay to shape the operations and strategies of businesses. Companies today operate in a landscape where financial data and technological advancements converge, leading to innovative management approaches. This article explores net receivables and accounts receivable, integral components of a company’s financial framework. These elements are crucial, not merely in maintaining immediate financial stability but in making informed strategic decisions that drive future growth.
@@ -257,4 +260,3 @@ In conclusion, the fusion of AR processes with algorithmic trading tools signifi
    A widely trusted resource for definitions, explanations, and articles related to account receivables, net receivables, and the integration of algorithmic trading in financial processes. Visit [Investopedia](https://www.investopedia.com).
 
 These resources collectively cater to a range of interests, from academic studies and practical guides to online courses, equipping readers with the knowledge needed to explore the topics of net receivables, AR management, and algorithmic trading.
-

@@ -1,6 +1,8 @@
 ---
-title: "Gross Cash Recovery: Overview and Mechanism (Algo Trading)"
-description: "Discover Gross Cash Recovery and algorithmic trading mechanisms in finance to optimize asset liquidation strategies ensuring stability and minimizing losses."
+category: quant_concept
+description: Discover Gross Cash Recovery and algorithmic trading mechanisms in finance
+  to optimize asset liquidation strategies ensuring stability and minimizing losses.
+title: 'Gross Cash Recovery: Overview and Mechanism (Algo Trading)'
 ---
 
 In the world of finance, recovering from losses and ensuring stability is critical for both individuals and institutions. Gross Cash Recovery (GCR) emerges as a vital financial concept, particularly in contexts involving asset liquidation. GCR represents the expected gross cash collection over the remaining life of an asset, often expressed as a percentage of the asset's book value. Its significance is particularly pronounced in scenarios requiring rapid asset liquidation, such as during the closure of failed banks.

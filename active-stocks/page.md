@@ -1,6 +1,9 @@
 ---
-title: "Active Stocks (Algo Trading)"
-description: "Discover how active stocks and algorithmic trading redefine investment strategies with high liquidity and precision. Master these tools for enhanced portfolio performance."
+category: trading_strategy
+description: Discover how active stocks and algorithmic trading redefine investment
+  strategies with high liquidity and precision. Master these tools for enhanced portfolio
+  performance.
+title: Active Stocks (Algo Trading)
 ---
 
 Investing in the stock market often sparks interest and curiosity among both novice and experienced investors. The dynamic interplay of active stocks and algorithmic trading constitutes a significant portion of the current trading landscape, driving the attention of traders and analysts alike. Active stocks, characterized by high trading volumes, provide a window into market sentiments, offering potential insights into liquidity and price movements. These stocks, frequently discussed within financial circles, include names such as Apple, Microsoft, and Amazon, which dominate lists of most actively traded stocks.

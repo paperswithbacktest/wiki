@@ -1,6 +1,8 @@
 ---
-title: "Logarithmic Price Scale vs Linear Price Scale (Algo Trading)"
-description: "Explore the differences and applications of linear and logarithmic price scales in algorithmic trading to enhance decision-making and risk management strategies."
+category: quant_concept
+description: Explore the differences and applications of linear and logarithmic price
+  scales in algorithmic trading to enhance decision-making and risk management strategies.
+title: Logarithmic Price Scale vs Linear Price Scale (Algo Trading)
 ---
 
 Understanding price scales is essential for making informed decisions in trading. This article examines the application of linear and logarithmic price scales in algorithmic trading, highlighting their differences, applications, and advantages.

@@ -1,6 +1,9 @@
 ---
-title: "Agent-based simulations in finance (Algo Trading)"
-description: "Explore how agent-based simulations revolutionize algorithmic trading in finance, offering insights into complex market dynamics and enhancing trading strategies."
+category: trading_strategy
+description: Explore how agent-based simulations revolutionize algorithmic trading
+  in finance, offering insights into complex market dynamics and enhancing trading
+  strategies.
+title: Agent-based simulations in finance (Algo Trading)
 ---
 
 Agent-based simulations have become pivotal in enhancing our understanding of financial markets and formulating effective trading strategies. These simulations recreate market environments by modeling interactions among diverse market participants, each represented by an autonomous agent. This approach provides a robust framework for exploring complex market dynamics, enabling analysts and traders to construct more adaptive and successful trading strategies.

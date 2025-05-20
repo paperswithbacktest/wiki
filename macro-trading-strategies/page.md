@@ -1,6 +1,14 @@
 ---
-title: "Macro Trading Strategies Explained (Algo Trading)"
-description: Explore how macro trading strategies, when combined with algorithmic precision, can enhance investment decisions by leveraging broad economic insights like GDP growth and inflation rates. This page investigates into the evolution of trading strategies from manual to automated systems, highlighting the strategic advantages of integrating macroeconomic data into algorithmic models for improved market predictions and efficient trade execution. Discover the critical role of macro trading in navigating interconnected financial markets, driven by technological advancements and data analysis.
+category: trading_strategy
+description: Explore how macro trading strategies, when combined with algorithmic
+  precision, can enhance investment decisions by leveraging broad economic insights
+  like GDP growth and inflation rates. This page investigates into the evolution of
+  trading strategies from manual to automated systems, highlighting the strategic
+  advantages of integrating macroeconomic data into algorithmic models for improved
+  market predictions and efficient trade execution. Discover the critical role of
+  macro trading in navigating interconnected financial markets, driven by technological
+  advancements and data analysis.
+title: Macro Trading Strategies Explained (Algo Trading)
 ---
 
 Macro trading stands as a pivotal approach within the landscape of modern financial markets, emphasizing the influence of broad economic factors on asset prices. At its core, macro trading leverages insights from macroeconomics—such as GDP growth, inflation rates, and geopolitical events—to inform investment decisions. When combined with algorithmic trading, which uses computer algorithms to execute trades based on pre-defined criteria, the potential for precision and efficiency in markets is significantly enhanced.

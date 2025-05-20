@@ -1,6 +1,9 @@
 ---
-title: "Crossed Market: Definition, Mechanism, and Discrepancies (Algo Trading)"
-description: "Explore the dynamics of crossed markets and trading mechanisms in algo trading Learn to navigate rare market opportunities that arise during volatility and low liquidity"
+category: quant_concept
+description: Explore the dynamics of crossed markets and trading mechanisms in algo
+  trading Learn to navigate rare market opportunities that arise during volatility
+  and low liquidity
+title: 'Crossed Market: Definition, Mechanism, and Discrepancies (Algo Trading)'
 ---
 
 In the intricate world of financial markets, understanding the dynamics of crossed markets, market discrepancies, and trading mechanisms is paramount for successful trading. Crossed markets occur when the bid price of a security exceeds its ask price, which can create unique trading situations that require strategic navigation. Although rare, these scenarios often arise during periods of high volatility or in markets with low liquidity, underscoring the need for insight into these market phenomena.

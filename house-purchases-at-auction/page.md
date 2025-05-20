@@ -1,6 +1,8 @@
 ---
-title: "House Purchases at Auction (Algo Trading)"
-description: "Discover the dynamic world of real estate auctions fueled by technology and algorithmic trading providing new opportunities for strategic property investments."
+category: trading_strategy
+description: Discover the dynamic world of real estate auctions fueled by technology
+  and algorithmic trading providing new opportunities for strategic property investments.
+title: House Purchases at Auction (Algo Trading)
 ---
 
 Real estate auctions have become an increasingly popular method for buying and selling properties, offering a dynamic alternative to traditional real estate transactions. These auctions provide potential buyers and sellers with an opportunity to engage in a competitive bidding environment where properties can be sold within a relatively short timeframe. This model of property exchange attracts a wide range of participants, including individual homeowners, investors, and professionals within the real estate industry. The appeal of real estate auctions lies in the transparency of the process, the potential for discounted property prices, and the efficiency of transactions.

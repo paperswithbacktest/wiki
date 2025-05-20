@@ -1,6 +1,11 @@
 ---
-title: "Rolling EPS: Overview and Example (Algo Trading)"
-description: "Discover how Rolling EPS enhances financial analysis and algorithmic trading by providing a dynamic view of a company's earnings performance. This advanced metric updates continuously, offering timely insights beyond traditional EPS measures. Uncover how rolling EPS elevates trading strategies by integrating real-time data, supporting informed investment decisions in a rapidly evolving market landscape."
+category: quant_concept
+description: Discover how Rolling EPS enhances financial analysis and algorithmic
+  trading by providing a dynamic view of a company's earnings performance. This advanced
+  metric updates continuously, offering timely insights beyond traditional EPS measures.
+  Uncover how rolling EPS elevates trading strategies by integrating real-time data,
+  supporting informed investment decisions in a rapidly evolving market landscape.
+title: 'Rolling EPS: Overview and Example (Algo Trading)'
 ---
 
 Earnings per share (EPS) is a fundamental metric employed in financial analysis to measure a company’s profitability on a per-share basis. It serves as a key indicator of a company's financial health, which investors and analysts frequently use to assess potential investment opportunities. EPS is calculated by dividing a company's net income by the number of outstanding shares. This simple yet powerful ratio provides insights into how effectively a company is generating profit for its shareholders.

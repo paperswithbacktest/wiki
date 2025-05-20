@@ -1,6 +1,8 @@
 ---
-title: "Nasdaq Inc. Overview (Algo Trading)"
-description: "Discover how Nasdaq leverages cutting-edge technology to lead in algorithmic trading enabling faster, more efficient transactions with advanced AI strategies."
+category: quant_concept
+description: Discover how Nasdaq leverages cutting-edge technology to lead in algorithmic
+  trading enabling faster, more efficient transactions with advanced AI strategies.
+title: Nasdaq Inc. Overview (Algo Trading)
 ---
 
 The Nasdaq Stock Exchange stands as a beacon in the global financial markets, renowned for its cutting-edge technology and myriad of offerings across several asset classes. Founded in 1971, Nasdaq was a pioneer as the first electronic stock market, setting a new standard for trading operations worldwide. Known for its robust technological infrastructure, Nasdaq has continually pushed the boundaries of innovation, facilitating swift and secure transactions. This emphasis on technology positions Nasdaq as a prime platform for algorithmic trading, a method revolutionizing how transactions are executed.

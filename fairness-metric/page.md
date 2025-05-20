@@ -1,7 +1,8 @@
 ---
-title: Understanding Fairness Metrics In Machine Learning Models
+category: quant_concept
 description: Fairness metrics in machine learning reveal model bias across groups
   and guide corrections to ensure equitable outcomes for all users Discover more inside.
+title: Understanding Fairness Metrics In Machine Learning Models
 ---
 
 ![Image](images/1.png)
@@ -93,4 +94,3 @@ To find the right balance, organizations can use different techniques. One way i
 [4]: Corbett-Davies, S., & Goel, S. (2018). ["The Measure and Mismeasure of Fairness: A Critical Review of Fair Machine Learning."](https://arxiv.org/abs/1808.00023) Communications of the ACM, 61(6), 39-49.
 
 [5]: Kleinberg, J., Mullainathan, S., & Raghavan, M. (2017). ["Inherent Trade-Offs in the Fair Determination of Risk Scores."](https://arxiv.org/abs/1609.05807) ITCS '17: 395-402.
-

@@ -1,6 +1,8 @@
 ---
-title: "Overview of Mini-Sized Dow Options (Algo Trading)"
-description: "Optimize your trading with insights into Mini-Sized Dow Options and algorithmic strategies to enhance your market engagement using advanced trading techniques."
+category: trading_strategy
+description: Optimize your trading with insights into Mini-Sized Dow Options and algorithmic
+  strategies to enhance your market engagement using advanced trading techniques.
+title: Overview of Mini-Sized Dow Options (Algo Trading)
 ---
 
 In finance, trading options on indices such as the Mini-Sized Dow presents numerous opportunities for both traders and investors. These derivative instruments provide a versatile platform for speculating on the movements of the Dow Jones Industrial Average (DJIA), allowing engagement with the market using a smaller capital outlay compared to traditional options.

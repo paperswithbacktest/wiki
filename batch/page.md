@@ -1,7 +1,8 @@
 ---
-title: Essential Processes and Best Practices for Batch Machine Learning
+category: quant_concept
 description: Batch machine learning builds accurate models using complete datasets
   with streamlined pipelines and proven best practices Discover more inside.
+title: Essential Processes and Best Practices for Batch Machine Learning
 ---
 
 ![Image](images/1.jpeg)

@@ -1,6 +1,11 @@
 ---
-title: "Incidence Rate: Calculation and Examples (Algo Trading)"
-description: "Explore the transformative role of incidence rate calculations in algorithmic trading, a vital metric for predicting market trends and optimizing trading strategies. Gain insights into the frequency of specific trading events to enhance decision-making, manage risk, and improve trading efficiency within this rapidly evolving financial landscape. Master the application of incidence rates to stay ahead in algo trading."
+category: quant_concept
+description: Explore the transformative role of incidence rate calculations in algorithmic
+  trading, a vital metric for predicting market trends and optimizing trading strategies.
+  Gain insights into the frequency of specific trading events to enhance decision-making,
+  manage risk, and improve trading efficiency within this rapidly evolving financial
+  landscape. Master the application of incidence rates to stay ahead in algo trading.
+title: 'Incidence Rate: Calculation and Examples (Algo Trading)'
 ---
 
 Algorithmic trading, commonly referred to as algo trading, has significantly transformed financial markets by utilizing advanced algorithms to execute trading operations automatically. This automation leverages data-driven decisions, outpacing human traders in speed and efficiency. A crucial aspect of refining these trading strategies is the calculation of incidence rates, which measure the frequency of particular trading events within a specified timeframe. This metric is essential for traders who wish to predict future market trends and optimize trading strategies.

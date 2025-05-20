@@ -1,6 +1,9 @@
 ---
-title: "Money Market Fund Share Price Falling Below One Dollar (Algo Trading)"
-description: "Explore why money market funds can drop below $1 per share examining causes like economic distress and risky investments and the role of algo trading in risk management."
+category: quant_concept
+description: Explore why money market funds can drop below $1 per share examining
+  causes like economic distress and risky investments and the role of algo trading
+  in risk management.
+title: Money Market Fund Share Price Falling Below One Dollar (Algo Trading)
 ---
 
 Money market funds are highly regarded in the financial sector for their stability and liquidity, often perceived to be as secure as cash. These funds primarily invest in short-term, high-quality debt securities and aim to maintain a stable net asset value (NAV) of $1 per share. However, there have been rare instances where the NAV of a money market fund has fallen below $1, a situation known as "breaking the buck." This event is concerning for investors who expect these funds to offer protection against market volatility and preserve capital.

@@ -1,7 +1,8 @@
 ---
-title: Action Recognition Using TPN and G3D in Machine Learning
+category: quant_concept
 description: Action recognition uses temporal pyramid networks and 3D graph convolution
   to identify human movements in varied time scales and poses Discover more inside
+title: Action Recognition Using TPN and G3D in Machine Learning
 ---
 
 ![Image](images/1.png)

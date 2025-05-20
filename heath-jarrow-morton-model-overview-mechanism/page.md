@@ -1,6 +1,9 @@
 ---
-title: "Heath-Jarrow-Morton Model: Overview and Mechanism (Algo Trading)"
-description: "The Heath-Jarrow-Morton Model is crucial for modeling forward interest rates and pricing interest rate derivatives using stochastic differential equations in financial markets."
+category: quant_concept
+description: The Heath-Jarrow-Morton Model is crucial for modeling forward interest
+  rates and pricing interest rate derivatives using stochastic differential equations
+  in financial markets.
+title: 'Heath-Jarrow-Morton Model: Overview and Mechanism (Algo Trading)'
 ---
 
 The Heath-Jarrow-Morton (HJM) Model represents a pivotal framework in financial mathematics, particularly in the modeling of forward interest rates. This model is essential for the pricing of interest rate derivatives and other financial securities. Unlike traditional interest rate models that focus on short rates or instantaneous forward rates, the HJM Model provides a comprehensive approach by describing the entire forward rate curve. This approach allows for a more robust and detailed understanding of interest rate dynamics, which is crucial for accurately pricing complex financial instruments.

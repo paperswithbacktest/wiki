@@ -1,6 +1,9 @@
 ---
-title: "Self-Directed Stock Analysis (Algo Trading)"
-description: "Explore the synergy of investment strategies, financial education, stock analysis, and algorithmic trading to navigate financial markets and make informed decisions."
+category: trading_strategy
+description: Explore the synergy of investment strategies, financial education, stock
+  analysis, and algorithmic trading to navigate financial markets and make informed
+  decisions.
+title: Self-Directed Stock Analysis (Algo Trading)
 ---
 
 In the world of finance, investment strategies, financial education, stock analysis, and algorithmic trading stand as crucial pillars. Each of these components plays an essential role in shaping an investor's ability to navigate the complexities of the financial markets and improve their investment decisions. Investors, whether novices or seasoned professionals, continuously seek knowledge to understand and manage the inherent risks and rewards associated with financial markets.

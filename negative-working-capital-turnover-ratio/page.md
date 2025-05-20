@@ -1,6 +1,8 @@
 ---
-title: "Negative Working Capital Turnover Ratio in Companies (Algo Trading)"
-description: "Explore the impact of a negative working capital turnover ratio in companies and its implications on algorithmic trading strategies and investment decisions."
+category: quant_concept
+description: Explore the impact of a negative working capital turnover ratio in companies
+  and its implications on algorithmic trading strategies and investment decisions.
+title: Negative Working Capital Turnover Ratio in Companies (Algo Trading)
 ---
 
 Understanding key financial metrics is critical in the finance sector, as they provide insights necessary for making informed decisions. Among these metrics, the working capital turnover ratio holds significant importance, particularly within algorithmic trading. This metric evaluates a company's efficiency in utilizing its working capital to generate sales and maintain liquidity, reflecting its operational competence.

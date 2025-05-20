@@ -1,6 +1,8 @@
 ---
-title: "Types of Off-Balance Sheet Assets (Algo Trading)"
-description: "Explore the role of off-balance sheet assets in algorithmic trading and understand their impact on financial reporting transparency and investment strategies."
+category: quant_concept
+description: Explore the role of off-balance sheet assets in algorithmic trading and
+  understand their impact on financial reporting transparency and investment strategies.
+title: Types of Off-Balance Sheet Assets (Algo Trading)
 ---
 
 Financial reporting is a critical process for businesses to communicate their financial health and performance to stakeholders, including investors, regulators, and the public. It involves the preparation and presentation of financial statements such as the balance sheet, income statement, and cash flow statement. These documents provide a comprehensive overview of a company’s financial position and are essential for making informed decisions about investments and corporate governance.

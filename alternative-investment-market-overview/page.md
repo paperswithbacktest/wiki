@@ -1,6 +1,8 @@
 ---
-title: "Alternative Investment Market Overview (Algo Trading)"
-description: "Explore the dynamic world of the Alternative Investment Market and algorithmic trading Discover AIM's flexible regulatory environment and its impact on investors."
+category: quant_concept
+description: Explore the dynamic world of the Alternative Investment Market and algorithmic
+  trading Discover AIM's flexible regulatory environment and its impact on investors.
+title: Alternative Investment Market Overview (Algo Trading)
 ---
 
 The Alternative Investment Market (AIM) has established itself as a crucial platform for smaller enterprises aiming to access public funding, particularly as they confront the stringent criteria of larger stock exchanges. Launched in 1995 under the auspices of the London Stock Exchange, AIM was designed to cater to high-growth companies by offering them a more flexible regulatory environment. This approach has enabled AIM to become a popular choice for innovative companies that might find the entry requirements of major markets prohibitive.

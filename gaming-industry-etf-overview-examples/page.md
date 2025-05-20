@@ -1,6 +1,8 @@
 ---
-title: "Gaming Industry ETF: Overview and Examples (Algo Trading)"
-description: "Explore the growing world of gaming industry ETFs and how algorithmic trading can boost returns by optimizing trade execution in this dynamic sector."
+category: dataset
+description: Explore the growing world of gaming industry ETFs and how algorithmic
+  trading can boost returns by optimizing trade execution in this dynamic sector.
+title: 'Gaming Industry ETF: Overview and Examples (Algo Trading)'
 ---
 
 The gaming industry has witnessed remarkable growth over the past decade, transforming from a niche interest into a major sector of mainstream entertainment. This evolution is driven by advancements in technology, increasing internet penetration, and the rising popularity of eSports, making gaming a significant component of global leisure activities. According to market data, the global gaming market is projected to surpass USD 250 billion by 2025, underscoring its expanding influence and attractiveness [1].

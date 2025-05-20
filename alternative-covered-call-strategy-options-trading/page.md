@@ -1,6 +1,9 @@
 ---
-title: "Alternative Covered Call Strategy in Options Trading (Algo Trading)"
-description: "Explore the benefits of using algorithmic trading to optimize covered call strategies in options trading Learn how automation can boost efficiency and returns"
+category: trading_strategy
+description: Explore the benefits of using algorithmic trading to optimize covered
+  call strategies in options trading Learn how automation can boost efficiency and
+  returns
+title: Alternative Covered Call Strategy in Options Trading (Algo Trading)
 ---
 
 Options trading has become increasingly popular among investors, applauded for its flexibility and the potential to achieve substantial financial returns. This method of trading allows investors to hedge risks, speculate on the future direction of stock prices, or earn additional income, making it an attractive option for diverse trading strategies.

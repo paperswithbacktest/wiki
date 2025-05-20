@@ -1,6 +1,14 @@
 ---
-title: "Liquidity Adjustment Facility in Monetary Policy (Algo Trading)"
-description: "Explore the key role of the Liquidity Adjustment Facility (LAF) in monetary policy and its interaction with algorithmic trading. Understand how central banks use LAF to manage short-term liquidity, stabilize interest rates, and ensure economic equilibrium. This piece investigates into the functions of LAF, its application by the Reserve Bank of India, and how it compares to other liquidity management tools. With insights into repo and reverse repo operations and their implications, gain a comprehensive view of how LAF supports central bank objectives amid evolving financial markets."
+category: quant_concept
+description: Explore the key role of the Liquidity Adjustment Facility (LAF) in monetary
+  policy and its interaction with algorithmic trading. Understand how central banks
+  use LAF to manage short-term liquidity, stabilize interest rates, and ensure economic
+  equilibrium. This piece investigates into the functions of LAF, its application
+  by the Reserve Bank of India, and how it compares to other liquidity management
+  tools. With insights into repo and reverse repo operations and their implications,
+  gain a comprehensive view of how LAF supports central bank objectives amid evolving
+  financial markets.
+title: Liquidity Adjustment Facility in Monetary Policy (Algo Trading)
 ---
 
 The Liquidity Adjustment Facility (LAF) stands as a pivotal tool within the arsenal of central banks, designed to manage liquidity in the financial system effectively. Central banks utilize LAF to ensure stability and control over short-term interest rates, thereby influencing the supply of money in the economy. This facility allows banks to borrow money through repurchase agreements or lend their excess reserves to the central bank, adjusting the liquidity in the banking system. By doing so, central banks can address both liquidity shortages and surpluses, ensuring a balanced financial environment.

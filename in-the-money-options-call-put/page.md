@@ -1,6 +1,8 @@
 ---
-title: "In-the-Money Options: Call and Put (Algo Trading)"
-description: "Explore the key elements of in-the-money call and put options and how algorithmic trading enhances strategies for optimized profitability in options trading."
+category: trading_strategy
+description: Explore the key elements of in-the-money call and put options and how
+  algorithmic trading enhances strategies for optimized profitability in options trading.
+title: 'In-the-Money Options: Call and Put (Algo Trading)'
 ---
 
 Options trading is a versatile and dynamic financial strategy that plays a significant role in portfolio optimization for investors. This trading method involves the buying and selling of options, which are financial derivatives that derive their value from underlying assets such as stocks, commodities, or indices. Options trading offers investors the flexibility to employ varied tactics tailored to differing market conditions and personal risk appetites.

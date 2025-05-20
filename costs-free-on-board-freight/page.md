@@ -1,6 +1,8 @@
 ---
-title: "Costs of Free on Board Freight (Algo Trading)"
-description: "Explore the interplay between Free on Board costs, international trade, and algorithmic trading to optimize freight expenses and enhance global trade efficiency."
+category: quant_concept
+description: Explore the interplay between Free on Board costs, international trade,
+  and algorithmic trading to optimize freight expenses and enhance global trade efficiency.
+title: Costs of Free on Board Freight (Algo Trading)
 ---
 
 International trade is an essential component of today's interconnected global economy, representing the exchange of goods and services across international borders. It facilitates economic growth, encourages innovation, and enables countries to specialize in the production of specific goods, enhancing efficiency and productivity. The significance of international trade has skyrocketed with globalization, making it a crucial factor in determining the economic health of nations. By allowing for the comparative advantage of countries, international trade ensures a more equitable distribution of resources and skills on a worldwide scale.

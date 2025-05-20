@@ -1,6 +1,8 @@
 ---
-title: "Dividend Rollover Plan (Algo Trading)"
-description: "Explore dividend rollover plans combining traditional dividend investing with advanced algorithmic trading for optimized investment returns and risk management."
+category: trading_strategy
+description: Explore dividend rollover plans combining traditional dividend investing
+  with advanced algorithmic trading for optimized investment returns and risk management.
+title: Dividend Rollover Plan (Algo Trading)
 ---
 
 In today's digital age, financial strategies have evolved significantly, combining traditional methods with modern technology. This evolution has led to the development of a diverse range of investment strategies that aim to optimize returns while managing risk effectively. Among these, four strategies stand out for their potential to enhance portfolio performance: investment planning, rollover plans, dividend investing, and algorithmic trading.

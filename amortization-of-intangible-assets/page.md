@@ -1,6 +1,8 @@
 ---
-title: "Amortization of Intangible Assets (Algo Trading)"
-description: "Explore the importance of amortization of intangible assets in financial accounting and algorithmic trading to enhance investment strategies and decision-making."
+category: quant_concept
+description: Explore the importance of amortization of intangible assets in financial
+  accounting and algorithmic trading to enhance investment strategies and decision-making.
+title: Amortization of Intangible Assets (Algo Trading)
 ---
 
 Understanding financial concepts such as amortization, intangible assets, financial accounting, and algorithmic trading has become increasingly vital for modern investors. These elements form the backbone of informed financial decision-making and crafting effective trading strategies. Amortization allows investors to comprehend how charges associated with intangible assets are systematically allocated over time, ensuring accurate reflection of an asset's value. A thorough grasp of intangible assets, such as patents or trademarks, enables investors to appreciate their potential impact on a company's valuation and revenue-generating capabilities.

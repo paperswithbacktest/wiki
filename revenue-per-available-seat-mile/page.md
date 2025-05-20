@@ -1,6 +1,8 @@
 ---
-title: "Revenue Per Available Seat Mile (Algo Trading)"
-description: "Explore the crucial role of Revenue Per Available Seat Mile in airline strategy for maximizing revenue and operational efficiency with advanced technologies."
+category: quant_concept
+description: Explore the crucial role of Revenue Per Available Seat Mile in airline
+  strategy for maximizing revenue and operational efficiency with advanced technologies.
+title: Revenue Per Available Seat Mile (Algo Trading)
 ---
 
 In today's competitive airline industry, understanding key performance metrics is crucial for operational success. Revenue Per Available Seat Mile (RASM) is a vital metric that assists airlines in assessing their efficiency in generating revenue relative to their seating capacity. As airlines strive to optimize financial performance, RASM serves as an essential tool for scrutinizing how effectively an airline translates available capacity into revenue. This metric plays a critical role in airline performance analysis, enabling executives to make informed decisions about pricing, capacity management, and operational strategy.

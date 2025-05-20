@@ -1,6 +1,8 @@
 ---
-title: "Haircut (Algo Trading)"
-description: "Learn about haircuts in algo trading crucial for risk management and market stability by adjusting asset values as collateral in volatile conditions."
+category: quant_concept
+description: Learn about haircuts in algo trading crucial for risk management and
+  market stability by adjusting asset values as collateral in volatile conditions.
+title: Haircut (Algo Trading)
 ---
 
 A "haircut" is a fundamental term in finance, particularly pivotal in the domains of asset management and trading strategies, both traditional and algorithmic. It refers to the adjustment made to the value of an asset used as collateral, reducing its nominal value to account for potential risks associated with holding, trading, or lending it. This adjustment acts as a risk management tool by safeguarding financial intermediaries—such as banks, brokers, and clearinghouses—against potential devaluation of the collateral. By adopting haircuts, traders and investors can more effectively manage risks arising from market volatility, ensuring that the assets held as collateral maintain their intended value despite fluctuations.

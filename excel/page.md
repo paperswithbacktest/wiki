@@ -1,6 +1,12 @@
 ---
-title: "Excel (Algo Trading)"
-description: Explore the fundamentals of algorithmic trading with an emphasis on using Excel as a starting tool for developing automated trading systems. This comprehensive guide covers essential components such as speed, accuracy, data analysis, and risk management, while offering insights into the use of advanced platforms and techniques to maintain a competitive edge. Ideal for traders looking to enhance their understanding and implementation of algo trading strategies without extensive programming knowledge.
+category: quant_concept
+description: Explore the fundamentals of algorithmic trading with an emphasis on using
+  Excel as a starting tool for developing automated trading systems. This comprehensive
+  guide covers essential components such as speed, accuracy, data analysis, and risk
+  management, while offering insights into the use of advanced platforms and techniques
+  to maintain a competitive edge. Ideal for traders looking to enhance their understanding
+  and implementation of algo trading strategies without extensive programming knowledge.
+title: Excel (Algo Trading)
 ---
 
 Algorithmic trading, commonly referred to as algo trading, is reshaping the finance industry by allowing traders to automate their trading strategies, making them more efficient and less prone to human error. The integration of technology into trading has enabled participants to execute orders at unprecedented speeds and with enhanced precision, thereby unlocking new opportunities in the market.

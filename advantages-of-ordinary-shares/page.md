@@ -1,6 +1,8 @@
 ---
-title: "Advantages of Ordinary Shares (Algo Trading)"
-description: "Explore the advantages of ordinary shares in equity investment, including voting rights and potential returns, and the impact of algorithmic trading on efficiency."
+category: quant_concept
+description: Explore the advantages of ordinary shares in equity investment, including
+  voting rights and potential returns, and the impact of algorithmic trading on efficiency.
+title: Advantages of Ordinary Shares (Algo Trading)
 ---
 
 The world of investments offers numerous avenues, each tailored to meet diverse financial goals and risk appetites. Among these, ordinary shares stand out as a pivotal financial instrument for investors seeking to participate in the ownership and success of companies. Ordinary shares, also known as common shares, are a popular vehicle due to their potential for substantial returns and the empowerment they provide investors through voting rights in corporate governance. This opportunity to share in a company's success through dividends and capital appreciation makes them a significant component of equity investment.

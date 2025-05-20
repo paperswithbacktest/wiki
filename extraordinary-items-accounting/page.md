@@ -1,6 +1,9 @@
 ---
-title: "Extraordinary Items in Accounting (Algo Trading)"
-description: "Explore the impact of extraordinary items on financial reporting and algorithmic trading. Learn how these elements enhance data precision for investment strategies."
+category: quant_concept
+description: Explore the impact of extraordinary items on financial reporting and
+  algorithmic trading. Learn how these elements enhance data precision for investment
+  strategies.
+title: Extraordinary Items in Accounting (Algo Trading)
 ---
 
 Financial reporting and extraordinary items are pivotal to corporate finance and investment. They offer critical insights into a company's financial health, enabling investors, analysts, and stakeholders to make informed decisions. Historically, the classification of extraordinary items has been contentious, often leading to debates over their relevance and impact on financial statements. Such items were once considered unusual and infrequent, warranting separate disclosure to provide a clearer view of a company’s routine profitability. However, contemporary accounting practices have largely eliminated this classification, reflecting a move towards simplification and improved transparency.
@@ -183,4 +186,3 @@ The continued advancement of technology promises enhanced capabilities in interp
    - Khan Academy. "Accounting and Financial Statements". This series of free online modules covers basic to advanced concepts in financial reporting, serving as a useful primer for those interested in the field.
 
 These resources provide a broad spectrum of information and analysis on financial reporting, extraordinary items, and their implications for algorithmic trading, equipping readers with diverse perspectives and tools for further exploration.
-

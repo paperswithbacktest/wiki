@@ -1,6 +1,9 @@
 ---
-title: "Days Sales Outstanding in Finance: Calculation and Applications (Algo Trading)"
-description: "Explore how Days Sales Outstanding (DSO) impacts financial analysis and algorithmic trading strategies. Learn its significance for predicting company cash flow and stability."
+category: quant_concept
+description: Explore how Days Sales Outstanding (DSO) impacts financial analysis and
+  algorithmic trading strategies. Learn its significance for predicting company cash
+  flow and stability.
+title: 'Days Sales Outstanding in Finance: Calculation and Applications (Algo Trading)'
 ---
 
 Days Sales Outstanding (DSO) is a fundamental financial metric that provides insight into the efficiency of a company's credit and collections processes. It quantifies the average number of days a company takes to collect payment after a credit sale, offering a clear view of its cash flow health. In this article, we examine the significance of DSO in financial analysis and its emerging relevance in algorithmic trading.

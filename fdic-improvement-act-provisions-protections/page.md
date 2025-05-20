@@ -1,6 +1,8 @@
 ---
-title: "FDIC Improvement Act: Provisions and Protections (Algo Trading)"
-description: "Discover the FDIC Improvement Act's impact on banking regulations and algorithmic trading enhancing financial stability and safeguarding consumers' interests."
+category: quant_concept
+description: Discover the FDIC Improvement Act's impact on banking regulations and
+  algorithmic trading enhancing financial stability and safeguarding consumers' interests.
+title: 'FDIC Improvement Act: Provisions and Protections (Algo Trading)'
 ---
 
 The evolution of financial regulations over the decades has profoundly reshaped the banking and financial landscape. These regulations have been instrumental in ensuring stability, protecting consumers, and fostering trust in the financial system. Among these pivotal pieces of legislation is the Federal Deposit Insurance Corporation Improvement Act (FDICIA) of 1991. This act was introduced as a response to the savings and loan crisis of the 1980s, a period marked by widespread financial instability and the failure of numerous banking institutions across the United States.

@@ -1,6 +1,8 @@
 ---
-title: "Preferred Stock (Finance) (Algo Trading)"
-description: "Explore the synergy between preferred stocks and algo trading innovative approaches enabling enhanced dividend claims while optimizing trading strategies."
+category: quant_concept
+description: Explore the synergy between preferred stocks and algo trading innovative
+  approaches enabling enhanced dividend claims while optimizing trading strategies.
+title: Preferred Stock (Finance) (Algo Trading)
 ---
 
 In today's financial landscape, technological advancements and innovation are fundamentally altering investment strategies. Among the prominent developments, preferred stock and algorithmic trading have emerged as areas of significant focus. Preferred stock represents a unique class of equity securities that offer holders advantageous claims on dividends and assets compared to common shareholders. This blend of features situates preferred stock between common equity and debt instruments, providing investors with both stable income and reduced risk exposure.

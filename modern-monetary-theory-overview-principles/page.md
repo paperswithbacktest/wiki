@@ -1,6 +1,9 @@
 ---
-title: "Modern Monetary Theory: Overview and Principles (Algo Trading)"
-description: "Explore the impact of Modern Monetary Theory on algorithmic trading which challenges traditional economic paradigms by redefining fiscal policy and market strategies."
+category: quant_concept
+description: Explore the impact of Modern Monetary Theory on algorithmic trading which
+  challenges traditional economic paradigms by redefining fiscal policy and market
+  strategies.
+title: 'Modern Monetary Theory: Overview and Principles (Algo Trading)'
 ---
 
 Modern Monetary Theory (MMT) has become an increasingly influential economic theory, challenging conventional financial wisdom by proposing that governments with sovereign fiat currencies are not limited by traditional revenue constraints. This heterodox framework reimagines the role of fiscal policy, advocating for a proactive approach in managing economic cycles and addressing unemployment. Central to MMT is the notion that such governments can effectively "print" money to finance public expenditure, a departure from traditional views that emphasize budgetary discipline and fiscal austerity.

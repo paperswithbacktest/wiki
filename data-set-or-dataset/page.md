@@ -1,7 +1,8 @@
 ---
-title: Complete Guide to Machine Learning Datasets and Preparation
+category: dataset
 description: Machine Learning Datasets drive model accuracy by guiding data collection
   cleaning augmentation and testing for reliable outcomes Discover more inside.
+title: Complete Guide to Machine Learning Datasets and Preparation
 ---
 
 ![Image](images/1.png)

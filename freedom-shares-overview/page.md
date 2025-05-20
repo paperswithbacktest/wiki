@@ -1,6 +1,8 @@
 ---
-title: "Freedom Shares Overview (Algo Trading)"
-description: "Explore the dynamic world of freedom shares and algorithmic trading advancements redefining financial markets through innovation, strategy, and technology."
+category: trading_strategy
+description: Explore the dynamic world of freedom shares and algorithmic trading advancements
+  redefining financial markets through innovation, strategy, and technology.
+title: Freedom Shares Overview (Algo Trading)
 ---
 
 In recent years, the investment landscape has witnessed significant evolution, largely driven by technological advancements. This transformation is spearheaded by the development and integration of financial instruments, the introduction of freedom shares, diverse investment strategies, and the rise of algorithmic trading. These elements are pivotal in reshaping the dynamics of financial markets and highlight the ongoing convergence of traditional financial principles with modern technological innovations.

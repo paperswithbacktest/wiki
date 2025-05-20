@@ -1,6 +1,8 @@
 ---
-title: "Bank of Japan: Structure, Monetary Policy, and Transparency (Algo Trading)"
-description: "Discover the complex interactions between Bank of Japan's monetary policy and algorithmic trading in Japan's markets highlighting transparency's vital role."
+category: quant_concept
+description: Discover the complex interactions between Bank of Japan's monetary policy
+  and algorithmic trading in Japan's markets highlighting transparency's vital role.
+title: 'Bank of Japan: Structure, Monetary Policy, and Transparency (Algo Trading)'
 ---
 
 Understanding the intricate dynamics between financial transparency, monetary policy, and algorithmic trading is crucial for grasping modern financial markets. At the heart of Japan's monetary policy is the Bank of Japan (BOJ), which plays a pivotal role in shaping the country's economic landscape. Established in 1882, the BOJ is tasked with ensuring the stability of the Japanese yen and contributing to the economic development of Japan through sound monetary policy. This involves setting crucial financial parameters such as interest rates, overseeing currency operations, and ensuring financial stability.

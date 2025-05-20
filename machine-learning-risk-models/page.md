@@ -1,6 +1,8 @@
 ---
-title: "Machine learning risk models (Algo Trading)"
-description: "Explore how machine learning risk models are revolutionizing algorithmic trading by improving decision-making, mitigating risks, and enhancing strategy performance."
+category: trading_strategy
+description: Explore how machine learning risk models are revolutionizing algorithmic
+  trading by improving decision-making, mitigating risks, and enhancing strategy performance.
+title: Machine learning risk models (Algo Trading)
 ---
 
 The world of finance is undergoing a rapid transformation, with technology playing an increasingly pivotal role in shaping modern trading strategies. Central to this transformation is the application of machine learning, which is revolutionizing the development and application of risk models in algorithmic trading. Machine learning's ability to process vast amounts of data and uncover patterns that humans might overlook offers a significant advantage in the financial markets. This article will explore how machine learning risk models are being integrated into algorithmic trading, highlighting their importance, the methodologies used, and their impact on financial markets. 

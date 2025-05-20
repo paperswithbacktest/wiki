@@ -1,6 +1,9 @@
 ---
-title: "Reinforcement learning for order execution (Algo Trading)"
-description: "Explore the transformative impact of reinforcement learning on order execution in algorithmic trading. Discover how AI-driven strategies optimize trade efficiency and profitability."
+category: trading_strategy
+description: Explore the transformative impact of reinforcement learning on order
+  execution in algorithmic trading. Discover how AI-driven strategies optimize trade
+  efficiency and profitability.
+title: Reinforcement learning for order execution (Algo Trading)
 ---
 
 Order execution in the context of algorithmic trading refers to the process of buying and selling financial instruments through automated systems that execute trades based on predefined criteria and algorithms. These algorithms are designed to optimize the execution of orders, reducing the overall impact on the market and minimizing costs, thereby increasing the efficiency and profitability of trades.

@@ -1,6 +1,9 @@
 ---
-title: "Mumtalakat Holding Company (Algo Trading)"
-description: "Discover how Mumtalakat integrates AI and algorithmic trading to enhance investment strategies driving economic diversification and sustainable growth in Bahrain."
+category: dataset
+description: Discover how Mumtalakat integrates AI and algorithmic trading to enhance
+  investment strategies driving economic diversification and sustainable growth in
+  Bahrain.
+title: Mumtalakat Holding Company (Algo Trading)
 ---
 
 Mumtalakat Holding Company, established as Bahrain's sovereign wealth fund, serves a pivotal role in the nation's economic landscape. As a government-owned entity, Mumtalakat is tasked with managing and investing the wealth of Bahrain, leveraging its resources to foster economic diversification and sustainability. Founded in 2006, this dynamic investment company has strategically positioned itself to minimize Bahrain's economic dependency on oil and gas, thereby broadening its investment spectrum across various sectors.

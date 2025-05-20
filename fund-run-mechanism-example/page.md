@@ -1,6 +1,8 @@
 ---
-title: "Fund Run: Mechanism and Example (Algo Trading)"
-description: "Discover how algorithmic trading impacts fund runs and financial panics. Understand the dynamics and strategies shaping today's volatile financial markets."
+category: quant_concept
+description: Discover how algorithmic trading impacts fund runs and financial panics.
+  Understand the dynamics and strategies shaping today's volatile financial markets.
+title: 'Fund Run: Mechanism and Example (Algo Trading)'
 ---
 
 In the fast-paced world of finance, the digital revolution has transformed traditional practices, introducing both challenges and opportunities. Investment funds are at the forefront of this transformation, leveraging technological advancements to utilize algorithms that optimize trading strategies. These algorithms are designed to analyze vast amounts of data quickly, enabling fund managers to make informed decisions with greater precision and agility compared to conventional methods.

@@ -1,6 +1,9 @@
 ---
-title: "Incremental Dividend and Example (Algo Trading)"
-description: "Explore the strategic financial mechanism of incremental dividends in finance and investing. Learn how they signal company health and enhance investor income."
+category: quant_concept
+description: Explore the strategic financial mechanism of incremental dividends in
+  finance and investing. Learn how they signal company health and enhance investor
+  income.
+title: Incremental Dividend and Example (Algo Trading)
 ---
 
 Understanding the various types of dividends is essential in finance and investing. Among these, incremental dividends represent a strategic financial mechanism employed by certain companies to distribute profits to shareholders. Incremental dividends refer to a structured increase in dividend payouts over time, often signaling a company's robust financial health and effective management. These dividends are typically associated with mature companies generating substantial cash flows and maintaining low payout ratios, allowing for gradual increases in shareholder returns.

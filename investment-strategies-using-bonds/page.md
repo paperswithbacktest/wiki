@@ -1,6 +1,9 @@
 ---
-title: "Investment Strategies Using Bonds (Algo Trading)"
-description: "Explore how bonds, a staple of investment portfolios, integrate with algorithmic trading to enhance precision, reduce costs, and manage risks in diverse financial markets."
+category: trading_strategy
+description: Explore how bonds, a staple of investment portfolios, integrate with
+  algorithmic trading to enhance precision, reduce costs, and manage risks in diverse
+  financial markets.
+title: Investment Strategies Using Bonds (Algo Trading)
 ---
 
 Bonds are a fundamental component of diversified investment portfolios, renowned for providing stability and generating reliable income. Compared to equities, bonds typically involve lower risk and offer more predictable returns, which makes them attractive to investors seeking a balance between security and performance. A bond is essentially a loan an investor makes to a borrower, typically governmental, municipal, or corporate entities, which is repaid over time with interest.

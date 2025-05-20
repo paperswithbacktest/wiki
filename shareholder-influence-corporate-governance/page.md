@@ -1,6 +1,9 @@
 ---
-title: "Shareholder Influence on Corporate Governance (Algo Trading)"
-description: "Explore the complex interplay between shareholders, corporate governance, and algorithmic trading as companies navigate evolving financial markets and technological advances."
+category: quant_concept
+description: Explore the complex interplay between shareholders, corporate governance,
+  and algorithmic trading as companies navigate evolving financial markets and technological
+  advances.
+title: Shareholder Influence on Corporate Governance (Algo Trading)
 ---
 
 The convergence of corporate governance, firm operations, and the evolving role of shareholders presents a complex landscape in today's financial markets. As companies navigate increasingly intricate regulatory environments and heightened expectations from investors, understanding these dynamics becomes crucial. Shareholders hold significant sway over corporate governance, influencing pivotal decisions and strategic directions. This influence is moderated by the dual nature of shareholding, with voting and non-voting stocks determining the extent of shareholder participation in corporate matters.

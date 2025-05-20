@@ -1,6 +1,14 @@
 ---
-title: "Hierarchical Clustering in Python (Algo Trading)"
-description: Explore the significance of hierarchical clustering in data analysis and algorithmic trading with this comprehensive guide. Understand how this unsupervised learning technique can uncover complex patterns and relationships in datasets, enabling better visualization and interpretation through dendrograms. Discover its practical applications in trading, where it aids in organizing stocks into clusters for more informed investment decisions. Learn about its theoretical foundations and effective implementation in Python to enhance trading strategies, leading to improved portfolio construction and dynamic asset allocation in the fast-paced financial market.
+category: quant_concept
+description: Explore the significance of hierarchical clustering in data analysis
+  and algorithmic trading with this comprehensive guide. Understand how this unsupervised
+  learning technique can uncover complex patterns and relationships in datasets, enabling
+  better visualization and interpretation through dendrograms. Discover its practical
+  applications in trading, where it aids in organizing stocks into clusters for more
+  informed investment decisions. Learn about its theoretical foundations and effective
+  implementation in Python to enhance trading strategies, leading to improved portfolio
+  construction and dynamic asset allocation in the fast-paced financial market.
+title: Hierarchical Clustering in Python (Algo Trading)
 ---
 
 Hierarchical clustering is an indispensable technique in the domain of data analysis, particularly known for its utility in uncovering intricate patterns and relationships within data points. This method is pivotal when dealing with unsupervised learning scenarios, where datasets lack predefined labels or classifications. The ability of hierarchical clustering to structure data hierarchically into a dendrogram makes it a powerful tool for visualizing and interpreting the nuances of complex datasets.
@@ -281,4 +289,4 @@ The inherent scalability of hierarchical clustering across diverse assets and co
 
 [5]: Hierarchical Clustering in R: Practical Guide with Applications in R. (n.d.). STHDA. Retrieved from [STHDA Website](https://xsliulab.github.io/Workshop/2021/week10/r-cluster-book.pdf)
 
-[6]: Avenburg, M., Mason, J., & Taga, T. (2016). ["Hierarchical Clustering Methods to Evaluate Complex Datasets."](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9411746/) Procedia Computer Science. 
+[6]: Avenburg, M., Mason, J., & Taga, T. (2016). ["Hierarchical Clustering Methods to Evaluate Complex Datasets."](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9411746/) Procedia Computer Science.

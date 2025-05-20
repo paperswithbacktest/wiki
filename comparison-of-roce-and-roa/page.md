@@ -1,6 +1,8 @@
 ---
-title: "Comparison of ROCE and ROA (Algo Trading)"
-description: "Explore the interaction between algorithmic trading and key financial metrics ROCE and ROA to refine investment strategies and enhance decision-making."
+category: quant_concept
+description: Explore the interaction between algorithmic trading and key financial
+  metrics ROCE and ROA to refine investment strategies and enhance decision-making.
+title: Comparison of ROCE and ROA (Algo Trading)
 ---
 
 In today's competitive financial landscape, investors are constantly searching for methods to optimize returns on their investments. Among the array of financial metrics available, Return on Assets (ROA) and Return on Capital Employed (ROCE) are pivotal in assessing a company's efficiency and profitability. ROA, expressed as a percentage, measures how effectively a company is using its assets to generate net income. Conversely, ROCE evaluates a company's profitability by analyzing the profits it generates from its total capital, which includes equity and debt. These metrics serve as essential tools for investors to assess operational efficiency and make informed financial decisions.

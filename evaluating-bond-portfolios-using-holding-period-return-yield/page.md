@@ -1,6 +1,8 @@
 ---
-title: "Evaluating Bond Portfolios Using Holding Period Return Yield (Algo Trading)"
-description: "Optimize your bond portfolio using holding period return and yield metrics enhanced by algorithmic trading to maximize returns and manage risks effectively."
+category: trading_strategy
+description: Optimize your bond portfolio using holding period return and yield metrics
+  enhanced by algorithmic trading to maximize returns and manage risks effectively.
+title: Evaluating Bond Portfolios Using Holding Period Return Yield (Algo Trading)
 ---
 
 In the world of investing, evaluating the performance of a bond portfolio is crucial for making informed decisions. Investors seek to maximize returns and manage risks, and to do so effectively, they must use robust metrics such as the holding period return (HPR) and yield evaluation. These metrics are essential in assessing the financial performance of bond investments over specific periods. 

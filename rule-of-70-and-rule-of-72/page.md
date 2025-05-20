@@ -1,6 +1,8 @@
 ---
-title: "Rule of 70 and Rule of 72 (Algo Trading)"
-description: "Learn about the Rule of 70 and 72 powerful tools in finance for estimating investment doubling time aiding algorithmic trading and financial strategy planning."
+category: quant_concept
+description: Learn about the Rule of 70 and 72 powerful tools in finance for estimating
+  investment doubling time aiding algorithmic trading and financial strategy planning.
+title: Rule of 70 and Rule of 72 (Algo Trading)
 ---
 
 The Rule of 70 and the Rule of 72 are practical tools in the field of finance, widely used for estimating the time it will take for an investment to double in value. These rules offer a quick mental shortcut, circumventing more complex mathematical formulas, to provide investors and analysts with a sense of the potential growth of their investments. By dividing 70 or 72 by the annual growth rate percentage, individuals can approximate the doubling time of their investments, making these rules valuable in various financial contexts.

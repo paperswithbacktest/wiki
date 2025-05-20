@@ -1,6 +1,10 @@
 ---
-title: "Class weights (Algo Trading)"
-description: Explore the role of class weights in algorithmic trading to enhance model accuracy and sensitivity. Delve into strategies for managing class imbalances in financial data and discover best practices for optimizing predictive models in fluctuating market conditions.
+category: trading_strategy
+description: Explore the role of class weights in algorithmic trading to enhance model
+  accuracy and sensitivity. Delve into strategies for managing class imbalances in
+  financial data and discover best practices for optimizing predictive models in fluctuating
+  market conditions.
+title: Class weights (Algo Trading)
 ---
 
 Algorithmic trading, commonly referred to as algo trading, has fundamentally transformed the dynamics of financial markets. This method employs computer algorithms to execute trades based on pre-defined criteria, leveraging the speed and precision of computational systems to capitalize on market opportunities. As financial markets grow increasingly complex, the development of effective trading algorithms has become a critical focus for traders and institutions.

@@ -1,7 +1,8 @@
 ---
-title: Understanding Machine Learning Loss Curves for Model Training
+category: quant_concept
 description: Loss curve analysis shows error trends during training enabling precise
   adjustments to learning rate batch size and optimizers Discover more inside
+title: Understanding Machine Learning Loss Curves for Model Training
 ---
 
 ![Image](images/1.png)

@@ -1,6 +1,8 @@
 ---
-title: "Long Put and Shorting Stock: Comparison and Examples (Algo Trading)"
-description: "Explore the investment strategies of long put options shorting stock and algorithmic trading to enhance returns and manage risks in volatile markets."
+category: trading_strategy
+description: Explore the investment strategies of long put options shorting stock
+  and algorithmic trading to enhance returns and manage risks in volatile markets.
+title: 'Long Put and Shorting Stock: Comparison and Examples (Algo Trading)'
 ---
 
 In today's ever-evolving financial markets, grasping various investment strategies is essential for both novice and seasoned investors. This article focuses on three significant investment strategies: long put options, shorting stock, and algorithmic trading. Each strategy possesses distinct advantages and challenges, making them fitting for different market conditions and aligning with diverse investor objectives.
@@ -137,4 +139,4 @@ In conclusion, the synergy of these three strategies—long put options, shortin
 
 [6]: Aronson, D. R. (2006). ["Evidence-Based Technical Analysis: Applying the Scientific Method and Statistical Inference to Trading Signals"](https://www.amazon.com/Evidence-Based-Technical-Analysis-Scientific-Statistical/dp/0470008741). Wiley.  
 
-[7]: Chan, E. P. (2009). ["Quantitative Trading: How to Build Your Own Algorithmic Trading Business"](https://github.com/ftvision/quant_trading_echan_book). Wiley.  
+[7]: Chan, E. P. (2009). ["Quantitative Trading: How to Build Your Own Algorithmic Trading Business"](https://github.com/ftvision/quant_trading_echan_book). Wiley.

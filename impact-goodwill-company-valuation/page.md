@@ -1,6 +1,9 @@
 ---
-title: "Impact of Goodwill on Company Valuation (Algo Trading)"
-description: "Explore the critical influence of goodwill on company valuation and how algorithmic trading reshapes financial strategies within the world of corporate finance."
+category: quant_concept
+description: Explore the critical influence of goodwill on company valuation and how
+  algorithmic trading reshapes financial strategies within the world of corporate
+  finance.
+title: Impact of Goodwill on Company Valuation (Algo Trading)
 ---
 
 Corporate finance is a critical field that ensures the growth and sustainability of businesses worldwide. Central to this discipline is company valuation, an essential process that determines a business's worth by assessing its assets, liabilities, and potential for future earnings. This valuation process is complex, involving various components that contribute to a company's market value. Among these components, goodwill stands out as an intangible asset that often plays a decisive role in corporate acquisitions and mergers. Goodwill is essentially the premium paid over the book value of a company, justified by factors such as its reputation, brand recognition, and customer loyalty. These elements are not directly quantifiable, yet they significantly enhance a company's value by promising future economic benefits.

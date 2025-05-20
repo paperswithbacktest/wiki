@@ -1,6 +1,8 @@
 ---
-title: "Mt. Gox: History and Collapse (Algo Trading)"
-description: "Explore the rise and dramatic fall of Mt. Gox, the world's largest Bitcoin exchange in its time, and the impact of its collapse on crypto regulations."
+category: quant_concept
+description: Explore the rise and dramatic fall of Mt. Gox, the world's largest Bitcoin
+  exchange in its time, and the impact of its collapse on crypto regulations.
+title: 'Mt. Gox: History and Collapse (Algo Trading)'
 ---
 
 Mt. Gox was once a dominant force in the cryptocurrency market, emerging as the world's largest Bitcoin exchange. By early 2014, it was responsible for handling over 70% of all Bitcoin transactions globally. The exchange's prominence underscored the rapid growth and increasing mainstream attention that cryptocurrencies were garnering during the early 2010s. However, Mt. Gox's trajectory was dramatically altered with its collapse in 2014, an event that not only disrupted the cryptocurrency market but also spotlighted the vulnerabilities inherent in digital asset exchanges.

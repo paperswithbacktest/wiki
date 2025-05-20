@@ -1,6 +1,8 @@
 ---
-title: "Comparison of Dilutive and Anti-Dilutive Securities (Algo Trading)"
-description: "Explore how dilutive and anti-dilutive securities impact earnings per share and the role of algorithmic trading in shaping investment strategies."
+category: quant_concept
+description: Explore how dilutive and anti-dilutive securities impact earnings per
+  share and the role of algorithmic trading in shaping investment strategies.
+title: Comparison of Dilutive and Anti-Dilutive Securities (Algo Trading)
 ---
 
 Navigating the intricate world of financial instruments requires a keen understanding of various elements, notably dilutive and anti-dilutive securities, alongside algorithmic trading. Each component plays a critical role in the decision-making processes of investors, company management, and financial analysts. Dilutive securities, such as convertible debt or stock options, can lead to a decrease in earnings per share (EPS), impacting the value perceived by current shareholders. Conversely, anti-dilutive securities are designed to protect or enhance EPS, preserving shareholder value amid new share issues. The strategic selection and management of these securities can significantly influence a company's financial health and competitive strategy.

@@ -1,6 +1,8 @@
 ---
-title: "Risk Reversal and Its Mechanism (Algo Trading)"
-description: "Explore the risk reversal strategy in options trading enhanced by algorithmic tools to boost execution efficiency while reducing emotional biases and errors."
+category: trading_strategy
+description: Explore the risk reversal strategy in options trading enhanced by algorithmic
+  tools to boost execution efficiency while reducing emotional biases and errors.
+title: Risk Reversal and Its Mechanism (Algo Trading)
 ---
 
 Options trading is a versatile segment of the financial markets, providing investors with the ability to employ various strategies to take advantage of price movements. One strategy that attracts attention for its potential profitability in directional trading is the risk reversal. Essentially, a risk reversal is a strategy that involves simultaneously buying a call option and selling a put option on the same underlying asset, albeit often at different strike prices. This approach is typically employed by traders with a bullish outlook on the asset, aiming to benefit from upward price movements while partially mitigating risks.

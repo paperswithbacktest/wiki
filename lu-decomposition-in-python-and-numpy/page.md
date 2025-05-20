@@ -1,9 +1,16 @@
 ---
-title: "LU Decomposition in Python and NumPy (Algo Trading)"
-description: Explore the integration of LU decomposition in Python for algorithmic trading as we uncover its role in optimizing complex financial calculations. Discover how LU factorization decomposes matrices to simplify and accelerate the processing of vast market data in trading strategies. Learn about its applications in portfolio optimization and derivative pricing, offering speed and efficiency advantages critical for high-frequency trading environments. Enhance your trading algorithms with these numerical methods to gain a competitive edge in fast-paced markets.
+category: quant_concept
+description: Explore the integration of LU decomposition in Python for algorithmic
+  trading as we uncover its role in optimizing complex financial calculations. Discover
+  how LU factorization decomposes matrices to simplify and accelerate the processing
+  of vast market data in trading strategies. Learn about its applications in portfolio
+  optimization and derivative pricing, offering speed and efficiency advantages critical
+  for high-frequency trading environments. Enhance your trading algorithms with these
+  numerical methods to gain a competitive edge in fast-paced markets.
+title: LU Decomposition in Python and NumPy (Algo Trading)
 ---
 
- to LU Decomposition and Algorithmic Trading
+to LU Decomposition and Algorithmic Trading
 
 LU decomposition, also known as LU factorization, is a mathematical technique used to decompose a given square matrix $A$ into the product of a lower triangular matrix $L$ and an upper triangular matrix $U$. Mathematically, this can be expressed as $A = LU$. This decomposition is significant because it transforms complex matrix operations into simpler ones, facilitating the efficient solution of linear equations, matrix inversion, and determinant computations. Due to its computational efficiency, LU decomposition is widely used in numerical analysis and various applied fields.
 

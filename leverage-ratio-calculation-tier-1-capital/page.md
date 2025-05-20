@@ -1,6 +1,9 @@
 ---
-title: "Leverage Ratio Calculation with Tier 1 Capital (Algo Trading)"
-description: "Explore the pivotal role of leverage ratios and Tier 1 Capital in algo trading Learn calculation methods and practical applications in enhancing trading strategies"
+category: quant_concept
+description: Explore the pivotal role of leverage ratios and Tier 1 Capital in algo
+  trading Learn calculation methods and practical applications in enhancing trading
+  strategies
+title: Leverage Ratio Calculation with Tier 1 Capital (Algo Trading)
 ---
 
 The world of finance is an intricate and multifaceted domain, characterized by a myriad of metrics that rigorously evaluate financial health and performance. Among the most pivotal of these metrics are the leverage ratios and Tier 1 Capital, which are especially significant in the banking sector. Leverage ratios provide a lens through which the debt levels of a financial institution or a corporation are assessed, serving as critical indicators of financial risk and stability. On the other hand, Tier 1 Capital represents the core capital of a bank, encompassing elements such as common equity, retained earnings, and reserves. This foundational capital serves as a buffer to absorb potential losses, thereby ensuring the bank's stability during turbulent financial periods.

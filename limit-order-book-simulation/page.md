@@ -1,6 +1,8 @@
 ---
-title: "Limit Order Book Simulation (Algo Trading)"
-description: "Discover Limit Order Book Simulation's role in optimizing algo trading strategies by offering insights into market dynamics and improving decision accuracy."
+category: quant_concept
+description: Discover Limit Order Book Simulation's role in optimizing algo trading
+  strategies by offering insights into market dynamics and improving decision accuracy.
+title: Limit Order Book Simulation (Algo Trading)
 ---
 
 Algorithmic trading has significantly transformed financial markets over recent decades, enabling trades to be executed more swiftly and efficiently compared to traditional methods. This transformation largely hinges on the utilization of technology to automate trading decisions and execute them without direct human intervention. Central to algorithmic trading is the concept of the Limit Order Book (LOB), a mechanism that serves as an intermediary between buyers and sellers, facilitating their interactions in the trading environment.

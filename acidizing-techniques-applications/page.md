@@ -1,6 +1,8 @@
 ---
-title: "Acidizing Techniques and Applications (Algo Trading)"
-description: "Explore the synergy between oil well acidizing techniques and algorithmic trading insights in the energy sector aiming to enhance hydrocarbon recovery efficiency."
+category: quant_concept
+description: Explore the synergy between oil well acidizing techniques and algorithmic
+  trading insights in the energy sector aiming to enhance hydrocarbon recovery efficiency.
+title: Acidizing Techniques and Applications (Algo Trading)
 ---
 
 In the oil and gas industry, maximizing the production life and efficiency of wells is a critical objective. Among the various techniques employed to achieve this, acidizing plays a pivotal role. Acidizing involves the use of acids, particularly hydrochloric acid (HCl), to enhance well productivity. Hydrochloric acid is highly effective in dissolving rock formations, such as limestone and dolomite, thereby improving the permeability of the rock and facilitating greater oil and gas flow from the reservoir. This method is an essential component of well stimulation, designed to create new or enhance existing pathways for the extraction of hydrocarbons.

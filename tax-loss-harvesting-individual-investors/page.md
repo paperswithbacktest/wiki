@@ -1,6 +1,8 @@
 ---
-title: "Tax-Loss Harvesting for Individual Investors (Algo Trading)"
-description: "Explore tax-loss harvesting for individual investors with algorithmic trading strategies enhancing tax efficiency while staying compliant with regulations."
+category: trading_strategy
+description: Explore tax-loss harvesting for individual investors with algorithmic
+  trading strategies enhancing tax efficiency while staying compliant with regulations.
+title: Tax-Loss Harvesting for Individual Investors (Algo Trading)
 ---
 
 Tax-loss harvesting is an investment strategy designed to reduce an investor's tax liabilities by offsetting capital gains with capital losses within a given taxable year. This approach allows investors to decrease the amount of tax owed on investment gains by using realized losses to counterbalance them. The net gain, thus reduced, leads to a lower tax liability. 

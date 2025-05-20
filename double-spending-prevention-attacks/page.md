@@ -1,6 +1,9 @@
 ---
-title: "Double-Spending and Prevention of Attacks (Algo Trading)"
-description: "Explore the intricacies of double-spending attacks in cryptocurrency and discover how algorithmic trading can enhance security against these threats in digital transactions."
+category: quant_concept
+description: Explore the intricacies of double-spending attacks in cryptocurrency
+  and discover how algorithmic trading can enhance security against these threats
+  in digital transactions.
+title: Double-Spending and Prevention of Attacks (Algo Trading)
 ---
 
 Cryptocurrency represents a significant shift in the landscape of modern finance, redefining how transactions are conducted and value is transferred globally. At its core, a cryptocurrency is a digital or virtual currency that uses cryptographic techniques for security. This cryptographic nature ensures that operations such as buying, selling, and transferring assets can be executed securely and without the need for intermediaries. Over the past decade, cryptocurrencies like Bitcoin and Ethereum have gained substantial adoption and have demonstrated growing importance in the financial world. Their decentralized nature and potential for high returns have attracted a diverse range of investors and institutions.

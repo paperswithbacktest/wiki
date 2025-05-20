@@ -1,6 +1,8 @@
 ---
-title: "Inbound Cash Flow: Overview and Requirements (Algo Trading)"
-description: "Explore how algorithmic trading leverages inbound cash flow management for optimized financial strategies and seamless integration, enhancing market responsiveness."
+category: quant_concept
+description: Explore how algorithmic trading leverages inbound cash flow management
+  for optimized financial strategies and seamless integration, enhancing market responsiveness.
+title: 'Inbound Cash Flow: Overview and Requirements (Algo Trading)'
 ---
 
 The financial world today is witnessing rapid changes driven by technological advancements and the increasing sophistication of trading strategies. These changes are reshaping how businesses analyze and manage cash flow, a key component in maintaining financial health. Inbound cash flow, which encompasses revenue from sales, refunds, and financing transactions, is pivotal for sustaining operations and promoting growth. 
@@ -181,4 +183,3 @@ Lopez de Prado, M. "Advances in Financial Machine Learning." This book is an ess
 Aronson, D. "Evidence-Based Technical Analysis." In this work, Aronson introduces a rigorous, research-based approach to technical analysis. The book challenges traditional technical analysis methods by applying scientific and statistical scrutiny to determine their validity and effectiveness. It is an important read for traders looking to adopt a more empirical and objective approach to technical analysis.
 
 These references provide foundational and advanced knowledge crucial for developing, evaluating, and implementing algorithmic trading strategies. They cover a wide range of topics, from hyper-parameter optimization in machine learning to practical applications in financial markets, offering valuable insights for both novice and experienced traders.
-

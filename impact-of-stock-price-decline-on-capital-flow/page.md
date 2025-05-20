@@ -1,6 +1,13 @@
 ---
-title: "Impact of Stock Price Decline on Capital Flow (Algo Trading)"
-description: "Explore the impact of stock price decline on capital flow influenced by algorithmic trading. Understand the dynamics of how algorithmic trading shapes market movements and affects liquidity and volatility. Learn about the critical drivers including market psychology economic indicators and geopolitical factors that steer capital across markets. This comprehensive analysis equips investors with insights into navigating modern financial landscapes by understanding stock price fluctuations and capital flow patterns."
+category: trading_strategy
+description: Explore the impact of stock price decline on capital flow influenced
+  by algorithmic trading. Understand the dynamics of how algorithmic trading shapes
+  market movements and affects liquidity and volatility. Learn about the critical
+  drivers including market psychology economic indicators and geopolitical factors
+  that steer capital across markets. This comprehensive analysis equips investors
+  with insights into navigating modern financial landscapes by understanding stock
+  price fluctuations and capital flow patterns.
+title: Impact of Stock Price Decline on Capital Flow (Algo Trading)
 ---
 
 In recent years, the financial markets have experienced significant changes primarily driven by advancements in technology and automation. Notably, algorithmic trading has emerged as a crucial component in shaping stock market dynamics. This form of trading involves the use of sophisticated algorithms to execute trades at high speeds, far surpassing the capabilities of traditional human trading. As a result, algorithmic trading has become a dominant force in determining stock price movements.

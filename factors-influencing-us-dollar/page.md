@@ -1,6 +1,8 @@
 ---
-title: "Factors Influencing the U.S. Dollar (Algo Trading)"
-description: "Discover how economic factors like supply-demand dynamics, market sentiment, and key indicators influence the U.S. dollar in algorithmic trading strategies."
+category: trading_strategy
+description: Discover how economic factors like supply-demand dynamics, market sentiment,
+  and key indicators influence the U.S. dollar in algorithmic trading strategies.
+title: Factors Influencing the U.S. Dollar (Algo Trading)
 ---
 
 Understanding the factors that influence the U.S. dollar's value is crucial for traders and investors. The U.S. dollar (USD) serves as the world's primary reserve currency, meaning it is held in significant quantities by governments and institutions as part of their foreign exchange reserves. Its value impacts global trade and finance significantly.

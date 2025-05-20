@@ -1,6 +1,8 @@
 ---
-title: "Construction Activity Indicators: Overview and Examples (Algo Trading)"
-description: "Explore how construction activity indicators like building permits can boost algorithmic trading strategies by offering early economic insights."
+category: dataset
+description: Explore how construction activity indicators like building permits can
+  boost algorithmic trading strategies by offering early economic insights.
+title: 'Construction Activity Indicators: Overview and Examples (Algo Trading)'
 ---
 
 Algorithmic trading, the practice of utilizing computer algorithms to execute trades in financial markets, has witnessed significant growth over the past decades. As the trading landscape becomes more competitive, traders are continually seeking out innovative data sources that can provide an edge beyond traditional financial metrics like stock prices, earnings reports, or interest rates. One emerging area of interest is the use of construction activity indicators, which offer early signals of economic shifts.

@@ -1,6 +1,8 @@
 ---
-title: "Fulcrum Fee: Overview and Examples (Algo Trading)"
-description: "Explore the world of fulcrum fees and their impact on algorithmic trading. Understand performance-based fee structures and their implications for investors."
+category: quant_concept
+description: Explore the world of fulcrum fees and their impact on algorithmic trading.
+  Understand performance-based fee structures and their implications for investors.
+title: 'Fulcrum Fee: Overview and Examples (Algo Trading)'
 ---
 
 In the ever-evolving world of investment, understanding various financial terms and fee structures is crucial. The intricacies involved in investing often revolve around knowing how different fees can affect potential returns. This article focuses on fulcrum fees, investment fees, and their relation to algorithmic trading.

@@ -1,6 +1,8 @@
 ---
-title: "Positive Volume Index (Algo Trading)"
-description: "Explore the Positive Volume Index to understand market trends and enhance trading strategies by analyzing stock price movements with increasing trading volume."
+category: trading_strategy
+description: Explore the Positive Volume Index to understand market trends and enhance
+  trading strategies by analyzing stock price movements with increasing trading volume.
+title: Positive Volume Index (Algo Trading)
 ---
 
 The Positive Volume Index (PVI) stands as a crucial instrument in technical analysis, utilized predominantly to identify stock price movements correlated with positive changes in trading volume. Unlike conventional price-focused analytical tools, the PVI concentrates specifically on days when the market sees an uptick in trading activity, offering traders valuable insights into market sentiment and dynamics.

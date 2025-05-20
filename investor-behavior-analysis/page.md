@@ -1,6 +1,9 @@
 ---
-title: "Investor Behavior Analysis (Algo Trading)"
-description: "Explore how psychological factors impact investor behavior and decision-making in the context of algorithmic trading by analyzing emotional, cognitive, and social influences on market dynamics."
+category: quant_concept
+description: Explore how psychological factors impact investor behavior and decision-making
+  in the context of algorithmic trading by analyzing emotional, cognitive, and social
+  influences on market dynamics.
+title: Investor Behavior Analysis (Algo Trading)
 ---
 
 Understanding the complex dynamics of financial decision-making can be a daunting task. Investment decisions are influenced by both logical reasoning and an array of psychological factors, making the process intricate and multifaceted. Traditional investment theories often assume that individuals act as rational agents, driven by objective analysis and coherent strategies to maximize returns. However, real-world investing frequently diverges from this straightforward narrative.

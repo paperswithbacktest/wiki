@@ -1,6 +1,9 @@
 ---
-title: "Limitations of the Unemployment Rate (Algo Trading)"
-description: "Explore the limitations of the unemployment rate as an economic indicator in algorithmic trading and how understanding labor market dynamics can enhance trade strategies."
+category: quant_concept
+description: Explore the limitations of the unemployment rate as an economic indicator
+  in algorithmic trading and how understanding labor market dynamics can enhance trade
+  strategies.
+title: Limitations of the Unemployment Rate (Algo Trading)
 ---
 
 The labor market, unemployment rate, and economic indicators serve as pivotal measures in assessing a country's economic health. As economies become more intricate, these elements provide essential data about economic performance and trends. On the other hand, algorithmic trading, a method that employs pre-defined and automated algorithms to execute trades, increasingly leverages these indicators' insights to make informed decisions.

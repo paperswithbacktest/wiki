@@ -1,6 +1,8 @@
 ---
-title: "Accrual Bond: Overview and Functionality (Algo Trading)"
-description: "Explore the synergy between accrual bonds and algorithmic trading to optimize investment strategies and enhance portfolio performance in financial markets."
+category: quant_concept
+description: Explore the synergy between accrual bonds and algorithmic trading to
+  optimize investment strategies and enhance portfolio performance in financial markets.
+title: 'Accrual Bond: Overview and Functionality (Algo Trading)'
 ---
 
 Accrual bonds, investment finance, and algorithmic trading constitute crucial elements of the financial markets, each contributing uniquely to the evolution of investment strategies. Accrual bonds, unlike traditional bonds, defer interest payments until maturity. This characteristic parallels zero-coupon bonds where interest is compounded and added to the principal, thereby enhancing its value over time. These bonds are sold at a discount and are advantageous for investors seeking long-term growth and reinvestment risk mitigation.

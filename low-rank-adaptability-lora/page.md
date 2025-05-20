@@ -1,7 +1,8 @@
 ---
-title: Understanding LoRA Low-Rank Adaptability in Machine Learning
+category: quant_concept
 description: LoRA leverages low-rank matrices to fine-tune large models efficiently
   without full retraining and maintain performance on tasks Discover more inside
+title: Understanding LoRA Low-Rank Adaptability in Machine Learning
 ---
 
 ![Image](images/1.png)

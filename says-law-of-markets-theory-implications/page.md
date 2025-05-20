@@ -1,6 +1,9 @@
 ---
-title: "Say's Law of Markets: Theory and Implications (Algo Trading)"
-description: "Explore the impact of Say's Law on market theory and algorithmic trading highlighting the classic debate between supply-driven economics and demand-focused Keynesian views."
+category: quant_concept
+description: Explore the impact of Say's Law on market theory and algorithmic trading
+  highlighting the classic debate between supply-driven economics and demand-focused
+  Keynesian views.
+title: 'Say''s Law of Markets: Theory and Implications (Algo Trading)'
 ---
 
 The purpose of this article is to explore the economic implications of Say's Law, a principle in classical economics, its influence on market theory, and the evolving role of algorithmic trading in modern financial markets. Say's Law, formulated by the French economist Jean-Baptiste Say in the early 19th century, is often summarized by the phrase "supply creates its own demand." This principle argues that production itself generates a corresponding demand for goods, emphasizing the importance of supply-side factors in driving economic activity.

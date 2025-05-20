@@ -1,6 +1,8 @@
 ---
-title: "Employment Cost Index: Overview and Applications (Algo Trading)"
-description: "Explore how the Employment Cost Index impacts labor costs and algorithmic trading strategies Learn how ECI data influences market trends and trading decisions"
+category: quant_concept
+description: Explore how the Employment Cost Index impacts labor costs and algorithmic
+  trading strategies Learn how ECI data influences market trends and trading decisions
+title: 'Employment Cost Index: Overview and Applications (Algo Trading)'
 ---
 
 The Employment Cost Index (ECI) is a crucial economic indicator that measures the growth of labor costs in the United States, including wages, salaries, and employer costs for employee benefits. This quarterly index, published by the Bureau of Labor Statistics (BLS), provides a comprehensive view of how labor costs are changing across various sectors of the economy. The ECI is significant in the labor market because it helps businesses, policymakers, and economists understand the dynamics of wage and benefits trends, which are essential for making informed economic and policy decisions. By analyzing ECI data, stakeholders can assess potential inflationary pressures that may arise when labor costs rise, indicating increased consumer spending power and a tighter labor market.

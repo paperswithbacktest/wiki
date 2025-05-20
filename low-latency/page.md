@@ -1,6 +1,14 @@
 ---
-title: "Low-latency (Algo Trading)"
-description: Discover the critical role of low latency in algorithmic trading, where rapid data processing and execution are paramount for success. Understand how achieving ultra-low latency offers a competitive edge, facilitating high-frequency trading that reacts to market changes in microseconds. Explore the technical factors impacting latency, including network architecture, proximity to exchanges, and cutting-edge technologies, all of which are vital to maintaining an efficient trading infrastructure. Learn how minimizing latency can significantly enhance trading performance and profitability in the fast-paced world of capital markets.
+category: quant_concept
+description: Discover the critical role of low latency in algorithmic trading, where
+  rapid data processing and execution are paramount for success. Understand how achieving
+  ultra-low latency offers a competitive edge, facilitating high-frequency trading
+  that reacts to market changes in microseconds. Explore the technical factors impacting
+  latency, including network architecture, proximity to exchanges, and cutting-edge
+  technologies, all of which are vital to maintaining an efficient trading infrastructure.
+  Learn how minimizing latency can significantly enhance trading performance and profitability
+  in the fast-paced world of capital markets.
+title: Low-latency (Algo Trading)
 ---
 
 Low latency in capital markets refers to the swift transmission and processing of data, minimizing the time taken between the execution of a command or trade and its completion. In financial environments where speed can determine success, low latency is crucial for algorithmic trading, which depends on rapid data-driven decision-making. 

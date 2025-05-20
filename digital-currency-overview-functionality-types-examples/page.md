@@ -1,6 +1,9 @@
 ---
-title: "Digital Currency: Overview, Functionality, Types, and Examples (Algo Trading)"
-description: "Discover the functions and impacts of digital currency and cryptocurrency in finance Learn about electronic money and algorithmic trading in this informative guide"
+category: quant_concept
+description: Discover the functions and impacts of digital currency and cryptocurrency
+  in finance Learn about electronic money and algorithmic trading in this informative
+  guide
+title: 'Digital Currency: Overview, Functionality, Types, and Examples (Algo Trading)'
 ---
 
 In the rapidly evolving world of finance, electronic money, digital currency, and cryptocurrency have emerged as groundbreaking innovations reshaping how we perceive and engage with money and transactions. These developments have not only introduced new forms of financial assets but also revolutionized trading methods, notably through the integration of algorithmic trading. Algorithmic trading, often referred to as algo trading, harnesses sophisticated technology to efficiently navigate the digital landscapes established by these financial instruments. Through the use of computer algorithms, trading decisions are executed at speeds and precision far beyond human capabilities.

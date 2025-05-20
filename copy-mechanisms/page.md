@@ -1,7 +1,8 @@
 ---
-title: Copy Mechanisms in Machine Learning Sequence-to-Sequence Models
+category: quant_concept
 description: Copy mechanisms enable seq2seq models to directly reuse important input
   tokens and handle rare words with improved attention Discover more inside.
+title: Copy Mechanisms in Machine Learning Sequence-to-Sequence Models
 ---
 
 ![Image](images/1.png)

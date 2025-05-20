@@ -1,6 +1,8 @@
 ---
-title: "Comparison of Hedge Funds and Private Equity Funds (Algo Trading)"
-description: "Explore the differences between hedge funds and private equity funds with a focus on strategy, time horizon, and liquidity, enhanced by algorithmic trading."
+category: quant_concept
+description: Explore the differences between hedge funds and private equity funds
+  with a focus on strategy, time horizon, and liquidity, enhanced by algorithmic trading.
+title: Comparison of Hedge Funds and Private Equity Funds (Algo Trading)
 ---
 
 The world of finance offers a diverse array of investment vehicles, each characterized by unique attributes and potential rewards. Among these, private equity funds and hedge funds stand out as two of the most prominent and sophisticated investment options. Private equity funds typically involve direct investments in companies, often acquiring significant stakes or complete ownership with the objective of long-term value creation. These funds focus on enhancing management efficiency and optimizing operations, investing predominantly in private firms or aiming for controlling interests in public companies.

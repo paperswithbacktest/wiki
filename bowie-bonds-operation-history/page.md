@@ -1,6 +1,8 @@
 ---
-title: "Bowie Bonds: Operation and History (Algo Trading)"
-description: "Explore the evolution of Bowie Bonds in music industry securitization and algorithmic trading revealing new financial opportunities for artists and investors."
+category: quant_concept
+description: Explore the evolution of Bowie Bonds in music industry securitization
+  and algorithmic trading revealing new financial opportunities for artists and investors.
+title: 'Bowie Bonds: Operation and History (Algo Trading)'
 ---
 
 The music industry has continually evolved, driven by technological advances and innovative financial models. One of the most transformative innovations in recent decades has been the securitization of music royalties, famously pioneered by David Bowie with the creation of Bowie Bonds. This financial tool allowed artists to convert future incomes from their intellectual property into immediate capital, offering a groundbreaking way to finance their careers without relying solely on traditional revenue streams like album sales and concerts.

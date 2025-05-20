@@ -1,6 +1,8 @@
 ---
-title: "Price Transparency: Overview, Costs, and Improvements (Algo Trading)"
-description: "Explore the importance of price and cost transparency in algo trading Discover how transparency enhances market efficiency trust and fairness among participants"
+category: quant_concept
+description: Explore the importance of price and cost transparency in algo trading
+  Discover how transparency enhances market efficiency trust and fairness among participants
+title: 'Price Transparency: Overview, Costs, and Improvements (Algo Trading)'
 ---
 
 Transparency in financial markets is a cornerstone of efficient and fair exchanges, serving as a critical component in fostering trust among market participants. At the heart of market transparency lies the disclosure of information that participants need to make sound financial decisions. This includes price transparency, cost transparency, and the increasingly prevalent role of algorithmic trading.

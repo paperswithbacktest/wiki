@@ -1,7 +1,8 @@
 ---
-title: Understanding Scalars in Machine Learning Models and Operations
+category: quant_concept
 description: Scalars in machine learning are fundamental numerical values driving
   calculations from error measurement to model optimization Discover more inside.
+title: Understanding Scalars in Machine Learning Models and Operations
 ---
 
 ![Image](images/1.jpeg)

@@ -1,6 +1,8 @@
 ---
-title: "Single Stock Futures: Overview, Risks, and Benefits (Algo Trading)"
-description: "Explore the advantages and risks of single stock futures and algorithmic trading with insights into their leverage, market volatility, and investment strategies."
+category: quant_concept
+description: Explore the advantages and risks of single stock futures and algorithmic
+  trading with insights into their leverage, market volatility, and investment strategies.
+title: 'Single Stock Futures: Overview, Risks, and Benefits (Algo Trading)'
 ---
 
 Financial derivatives have become a cornerstone in modern finance, offering investors various options to hedge risks or amplify profits. As financial markets have evolved, the popularity of derivatives has surged due to their potential to enhance investment strategies. Single stock futures and algorithmic trading are two prominent areas within this landscape that command significant attention and debate among investors and market analysts.

@@ -1,6 +1,8 @@
 ---
-title: "Half Stock in Finance (Algo Trading)"
-description: "Explore half stock structures and algorithmic trading strategies to optimize investment portfolios enhance returns and mitigate risks in finance."
+category: trading_strategy
+description: Explore half stock structures and algorithmic trading strategies to optimize
+  investment portfolios enhance returns and mitigate risks in finance.
+title: Half Stock in Finance (Algo Trading)
 ---
 
 In the ever-evolving world of finance, traditional investment methodologies are continually being challenged and transformed by innovative approaches, including investing in stocks, leveraging half stock structures, and implementing algorithmic trading strategies. This progression is driven by the need to enhance returns, reduce risk, and adapt to rapidly changing market conditions.

@@ -1,6 +1,9 @@
 ---
-title: "Potential Recurrence of the 1929 Stock Market Crash (Algo Trading)"
-description: "Explore the dynamics of economic downturns and financial collapses alongside algorithmic trading's impact on market stability, drawing lessons from the 1929 crash."
+category: quant_concept
+description: Explore the dynamics of economic downturns and financial collapses alongside
+  algorithmic trading's impact on market stability, drawing lessons from the 1929
+  crash.
+title: Potential Recurrence of the 1929 Stock Market Crash (Algo Trading)
 ---
 
 Economic downturns and financial collapses are significant events in the financial landscape, each carrying distinct definitions and implications. An economic downturn refers to a period characterized by reduced economic activity, often marked by a decline in GDP, employment, and other macroeconomic indicators. These downturns can be cyclical and may result from various factors such as decreased consumer spending, fiscal tightening, or global economic conditions. In contrast, a financial collapse is a more severe and rapid breakdown of financial markets and institutions, often precipitating a deeper economic crisis. It involves massive financial instability, as seen during bank runs, stock market crashes, and failures of major financial entities.

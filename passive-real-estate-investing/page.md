@@ -1,6 +1,8 @@
 ---
-title: "Passive Real Estate Investing (Algo Trading)"
-description: "Discover the world of passive real estate investing with strategies like REITs and algo trading for sustainable income without active management effort."
+category: trading_strategy
+description: Discover the world of passive real estate investing with strategies like
+  REITs and algo trading for sustainable income without active management effort.
+title: Passive Real Estate Investing (Algo Trading)
 ---
 
 In recent years, the investment landscape has experienced substantial change, with real estate passive investing emerging as a popular option. This strategy allows investors to earn income from real estate investments without the need for active management involvement. Instead of dealing with the daily operational responsibilities associated with landlording, investors are increasingly exploring options like Real Estate Investment Trusts (REITs), real estate crowdfunding, and syndications. These methods provide exposure to the real estate market while offering varying levels of risk and reward, making passive investing appealing for its promise of generating sustainable income with reduced effort.

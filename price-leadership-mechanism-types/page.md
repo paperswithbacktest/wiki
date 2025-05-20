@@ -1,6 +1,12 @@
 ---
-title: "Price Leadership Mechanism and Types (Algo Trading)"
-description: "Discover the intricate dynamics of oligopolistic markets with a focus on price leadership and its impact on trading strategies. Explore how algorithmic trading enhances market efficiency and price discovery, providing strategic tools for companies within oligopolies. Understand various models of price leadership and the role of advanced trading algorithms in anticipating market conditions and competitor actions to maintain competitive advantage."
+category: quant_concept
+description: Discover the intricate dynamics of oligopolistic markets with a focus
+  on price leadership and its impact on trading strategies. Explore how algorithmic
+  trading enhances market efficiency and price discovery, providing strategic tools
+  for companies within oligopolies. Understand various models of price leadership
+  and the role of advanced trading algorithms in anticipating market conditions and
+  competitor actions to maintain competitive advantage.
+title: Price Leadership Mechanism and Types (Algo Trading)
 ---
 
 In today's competitive market environment, understanding different market structures is crucial, especially in oligopolies. An oligopoly is a market dominated by a few large players who hold significant market power. This concentration of power allows these firms to influence market prices and output levels, shaping the competitive landscape in ways that differ significantly from other market structures like perfect competition or monopolistic competition. A hallmark of oligopolistic markets is price leadership, where one dominant firm sets the pricing benchmark, and other firms in the industry follow suit. This practice not only stabilizes prices across the sector but also signals market trends and expectations to participants and observers alike.

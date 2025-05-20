@@ -1,6 +1,8 @@
 ---
-title: "Dividend Entitlement for Short Sellers in Dividend-Paying Stocks (Algo Trading)"
-description: "Explore the nuances of dividend entitlements for short sellers in dividend stocks. Learn strategies like dividend investing short selling and algo trading."
+category: quant_concept
+description: Explore the nuances of dividend entitlements for short sellers in dividend
+  stocks. Learn strategies like dividend investing short selling and algo trading.
+title: Dividend Entitlement for Short Sellers in Dividend-Paying Stocks (Algo Trading)
 ---
 
 Understanding different investment strategies is fundamental for investors aiming to achieve portfolio diversification and effective risk management. Each strategy serves specific objectives and can be employed to meet varying financial goals, risk tolerances, and market perspectives. Three noteworthy strategies often considered by investors include dividend investing, short selling, and algorithmic trading. These approaches differ significantly in execution and purpose, yet they can collectively contribute to a comprehensive investment strategy.

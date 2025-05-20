@@ -1,6 +1,8 @@
 ---
-title: "Diamonds ETF: Overview and Market Trends (Algo Trading)"
-description: "Explore the dynamic diamonds ETF market and gain insights into current trends and algorithmic trading for diversified investment in diamond-related assets."
+category: dataset
+description: Explore the dynamic diamonds ETF market and gain insights into current
+  trends and algorithmic trading for diversified investment in diamond-related assets.
+title: 'Diamonds ETF: Overview and Market Trends (Algo Trading)'
 ---
 
 The diamonds ETF (Exchange Traded Fund) market presents a dynamic and intriguing segment within the broader investment landscape, offering investors a unique avenue to gain exposure to the diamond industry without the complexities of direct ownership. Diamonds ETFs are instruments that track the price and performance of diamond assets, allowing investors to invest in a diversified portfolio of diamond-related securities. This market is significant due to its potential to attract both individual and institutional investors, offering liquidity, transparency, and lower transaction costs compared to traditional diamond trading.

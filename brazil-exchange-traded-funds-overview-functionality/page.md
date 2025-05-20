@@ -1,6 +1,9 @@
 ---
-title: "Brazil Exchange-Traded Funds: Overview and Functionality (Algo Trading)"
-description: "Explore how Brazil Exchange-Traded Funds can benefit from algorithmic trading strategies Offering insights into optimizing ETF investments in Brazil's dynamic market"
+category: quant_concept
+description: Explore how Brazil Exchange-Traded Funds can benefit from algorithmic
+  trading strategies Offering insights into optimizing ETF investments in Brazil's
+  dynamic market
+title: 'Brazil Exchange-Traded Funds: Overview and Functionality (Algo Trading)'
 ---
 
 Brazil's financial market is increasingly gaining global attention due in part to its diverse economic base and significant growth potential. As the largest economy in Latin America, Brazil is rich in natural resources, has a burgeoning tech sector, and boasts a rapidly expanding financial infrastructure. Consequently, these dynamics make Brazil an appealing destination for both domestic and international investors. The Brazilian stock exchange, B3, is a key player in this landscape, facilitating robust volumes of trading and offering a wide range of investment products, including Exchange-Traded Funds (ETFs).

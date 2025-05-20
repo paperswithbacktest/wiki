@@ -1,6 +1,10 @@
 ---
-title: "Function Objects (Functors) in C++ (Algo Trading)"
-description: Explore how functors enhance C++ code optimization for algorithmic trading by offering modularity and state retention. Functors, as function objects, empower developers to encapsulate strategy logic and maintain data across function calls, ensuring efficiency and code clarity essential for high-frequency trading.
+category: quant_concept
+description: Explore how functors enhance C++ code optimization for algorithmic trading
+  by offering modularity and state retention. Functors, as function objects, empower
+  developers to encapsulate strategy logic and maintain data across function calls,
+  ensuring efficiency and code clarity essential for high-frequency trading.
+title: Function Objects (Functors) in C++ (Algo Trading)
 ---
 
 Algorithmic trading is a method of executing orders using automated pre-programmed trading instructions that account for variables such as price, timing, and volume. In this field, constructing efficient and adaptable code is crucial due to the necessity for rapid decision-making and execution in financial markets. The need for such efficiency is particularly pronounced in high-frequency trading (HFT), where trading systems must process large volumes of data and execute trades within microseconds.

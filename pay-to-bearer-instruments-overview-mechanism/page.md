@@ -1,6 +1,8 @@
 ---
-title: "Pay-To-Bearer Instruments: Overview and Mechanism (Algo Trading)"
-description: "Explore the intersection of pay-to-bearer instruments and algorithmic trading including their history benefits and risks in modern financial markets."
+category: quant_concept
+description: Explore the intersection of pay-to-bearer instruments and algorithmic
+  trading including their history benefits and risks in modern financial markets.
+title: 'Pay-To-Bearer Instruments: Overview and Mechanism (Algo Trading)'
 ---
 
 Financial instruments play a pivotal role in global markets, serving as tools for raising capital, investing, and managing risks. They include a wide array of assets such as equities, bonds, derivatives, and more, each facilitating the efficient allocation of resources and the dispersal of risk among participants. As such, these instruments are integral to the functioning of both national and international economies, enabling businesses to fund operations and growth, while providing investors with opportunities to earn returns.
@@ -140,4 +142,3 @@ As the financial markets continue to evolve, the interaction between regulatory 
 9. Narang, R.K. (2013). *Inside the Black Box: The Simple Truth About Quantitative Trading*. Wiley. This book offers a clear understanding of algorithmic trading systems, presenting their benefits, challenges, and impact on market liquidity and efficiency.
 
 10. Tapscott, D., & Tapscott, A. (2016). *Blockchain Revolution: How the Technology Behind Bitcoin Is Changing Money, Business, and the World*. Penguin. This book dives into digital transformations within financial systems, discussing potential applications to bearer instruments through technologies like blockchain.
-

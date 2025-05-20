@@ -1,6 +1,8 @@
 ---
-title: "Asset-Or-Nothing Call Option (Algo Trading)"
-description: "Explore asset-or-nothing call options and algorithmic trading in derivatives for strategic investment with unique risk and reward profiles to enhance returns."
+category: quant_concept
+description: Explore asset-or-nothing call options and algorithmic trading in derivatives
+  for strategic investment with unique risk and reward profiles to enhance returns.
+title: Asset-Or-Nothing Call Option (Algo Trading)
 ---
 
 Financial derivatives are essential instruments in the landscape of modern finance, enabling investors and institutions to manage risk, enhance returns, and speculate on price movements with leverage. These tools, which derive their value from underlying assets, include a wide range of contracts such as options, futures, swaps, and forwards. Among these, call options hold notable significance due to their versatility and potential for profit.

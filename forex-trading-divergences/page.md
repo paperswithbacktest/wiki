@@ -1,6 +1,8 @@
 ---
-title: "Forex Trading Divergences (Algo Trading)"
-description: "Explore how divergences in forex trading offer reliable signals for trend reversals or continuations. Learn to enhance your algo trading strategies with precision."
+category: trading_strategy
+description: Explore how divergences in forex trading offer reliable signals for trend
+  reversals or continuations. Learn to enhance your algo trading strategies with precision.
+title: Forex Trading Divergences (Algo Trading)
 ---
 
 Divergences in forex trading refer to the discrepancies observed between the price movement of currency pairs and corresponding technical indicators, such as the Relative Strength Index (RSI) or the Moving Average Convergence Divergence (MACD). These divergences provide traders with crucial insights, often indicating a potential reversal or continuation of the prevailing trend. Essentially, divergences signal a discrepancy between the momentum of the price action and the momentum indicated by the technical tools, suggesting potential shifts in buying or selling pressures.

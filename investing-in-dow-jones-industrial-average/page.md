@@ -1,6 +1,9 @@
 ---
-title: "Investing in the Dow Jones Industrial Average (Algo Trading)"
-description: "Discover strategies for investing in the Dow Jones Industrial Average including algorithmic trading methods for optimizing trade executions and reducing risks."
+category: trading_strategy
+description: Discover strategies for investing in the Dow Jones Industrial Average
+  including algorithmic trading methods for optimizing trade executions and reducing
+  risks.
+title: Investing in the Dow Jones Industrial Average (Algo Trading)
 ---
 
 The Dow Jones Industrial Average (DJIA) is one of the most renowned stock market indices globally, consisting of 30 significant publicly traded companies in the United States. Established in 1896 by Charles Dow and Edward Jones, the DJIA serves as a barometer of the broader U.S. market and economic health. Although the index does not encapsulate the entire market, its composition of blue-chip companies from diverse sectors renders it a strong indicator of significant market trends. As a price-weighted index, the DJIA calculates its value based on the price of its component stocks, rather than market capitalization [1].

@@ -1,6 +1,8 @@
 ---
-title: "European Currency Unit: Overview and Functionality (Algo Trading)"
-description: "Discover the European Currency Unit’s pivotal role in history and its influence on algorithmic trading trends in European markets within the EMS framework."
+category: quant_concept
+description: Discover the European Currency Unit’s pivotal role in history and its
+  influence on algorithmic trading trends in European markets within the EMS framework.
+title: 'European Currency Unit: Overview and Functionality (Algo Trading)'
 ---
 
 The European Currency Unit (ECU) holds a pivotal place in the chronicles of global finance. As an important precursor to the euro, it served as a key instrument within the European Monetary System (EMS), facilitating economic coordination and cooperation among the European Economic Community (EEC) member states from 1979 to 1998. 

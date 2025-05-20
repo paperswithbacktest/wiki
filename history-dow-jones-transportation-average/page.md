@@ -1,6 +1,8 @@
 ---
-title: "History of the Dow Jones Transportation Average (Algo Trading)"
-description: "Explore the rich history of the Dow Jones Transportation Average and its evolution in the transportation sector from railroads to airlines and logistics."
+category: quant_concept
+description: Explore the rich history of the Dow Jones Transportation Average and
+  its evolution in the transportation sector from railroads to airlines and logistics.
+title: History of the Dow Jones Transportation Average (Algo Trading)
 ---
 
 The Dow Jones Transportation Average (DJTA) stands as a testament to the historical and ongoing significance of the transportation sector within the U.S. economy. Established in 1884 by Charles Dow, one of the co-founders of Dow Jones & Company, the DJTA is the oldest U.S. stock index, tracing its origins to a period when the railroads were emblematic of industrial progress and economic expansion. Initially, the index comprised predominantly railroad companies, reflecting the essential role of rail transport in the country's economic infrastructure. Over time, the DJTA has evolved to embody the broader spectrum of the transportation sector, now encompassing industries such as airlines, trucking, and logistics. This adaptation mirrors shifts in transportation modalities and economic priorities.

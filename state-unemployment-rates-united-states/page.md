@@ -1,6 +1,14 @@
 ---
-title: "State Unemployment Rates in the United States (Algo Trading)"
-description: "This page explores the critical role of unemployment rates in the U.S. economy, analyzing both national and state-level data to understand economic health and labor market dynamics. It discusses how unemployment impacts macroeconomic policies and trading strategies, emphasizing the significance of diverse economic structures and industry presence in state-specific unemployment variability. Additionally, it highlights the historical fluctuations and influences on unemployment, and how these factors provide essential insights for economic forecasting and decision-making in financial markets."
+category: dataset
+description: This page explores the critical role of unemployment rates in the U.S.
+  economy, analyzing both national and state-level data to understand economic health
+  and labor market dynamics. It discusses how unemployment impacts macroeconomic policies
+  and trading strategies, emphasizing the significance of diverse economic structures
+  and industry presence in state-specific unemployment variability. Additionally,
+  it highlights the historical fluctuations and influences on unemployment, and how
+  these factors provide essential insights for economic forecasting and decision-making
+  in financial markets.
+title: State Unemployment Rates in the United States (Algo Trading)
 ---
 
 The U.S. economy, the largest in the world, is a complex system influenced by numerous factors, with unemployment being one of its crucial indicators. Unemployment refers to the situation where individuals who are capable of working and are actively seeking employment cannot find a job. It acts as a critical barometer for economic health, affecting consumer purchasing power, government fiscal policies, and social stability. Monitoring unemployment rates helps shape macroeconomic policies and business strategies, reflecting the overall economic environment's health.
@@ -291,4 +299,3 @@ Ultimately, unemployment data acts as a crucial component in enhancing algorithm
    - Websites like Stack Exchange offer discussions and collaborative problem-solving for integrating economic data into trading systems.
 
 These resources will enhance understanding and application of unemployment data in both economic analysis and trading strategies, encouraging informed decision-making and continuous learning.
-

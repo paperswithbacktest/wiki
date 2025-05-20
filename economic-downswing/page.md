@@ -1,6 +1,9 @@
 ---
-title: "Economic Downswing (Algo Trading)"
-description: "Explore how algorithmic trading plays a critical role during economic downturns providing liquidity and optimizing trade execution while navigating market shifts."
+category: trading_strategy
+description: Explore how algorithmic trading plays a critical role during economic
+  downturns providing liquidity and optimizing trade execution while navigating market
+  shifts.
+title: Economic Downswing (Algo Trading)
 ---
 
 The global economy operates on cycles that include phases of growth followed by contractions, commonly referred to as recessions. A recession is identified by continuous declines in key economic indicators such as Gross Domestic Product (GDP), employment rates, and overall economic activity. During these periods of economic downturn, market dynamics can shift rapidly, affecting all financial sectors.

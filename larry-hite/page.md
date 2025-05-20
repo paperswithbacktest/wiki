@@ -1,6 +1,12 @@
 ---
-title: "Larry Hite: A Trading Legend (Algo Trading)"
-description: Explore the revolutionary legacy of Larry Hite in algorithmic trading. Recognized for his pioneering risk management techniques and systematic methodologies, Hite's work has fundamentally shaped modern trading strategies. Discover how his innovative approach continues to influence contemporary trading practices by prioritizing data-driven decisions and protecting capital over speculative gains, establishing a benchmark in the financial markets.
+category: quant_concept
+description: Explore the revolutionary legacy of Larry Hite in algorithmic trading.
+  Recognized for his pioneering risk management techniques and systematic methodologies,
+  Hite's work has fundamentally shaped modern trading strategies. Discover how his
+  innovative approach continues to influence contemporary trading practices by prioritizing
+  data-driven decisions and protecting capital over speculative gains, establishing
+  a benchmark in the financial markets.
+title: 'Larry Hite: A Trading Legend (Algo Trading)'
 ---
 
 Larry Hite is recognized as a pioneer in algorithmic trading, a field that integrates quantitative analysis and systematic methodologies to make trading decisions. His groundbreaking work has profoundly influenced modern trading strategies, primarily through the advancement of risk management techniques. By prioritizing risk assessment and integrating systematic processes, Hite established a foundation that many trading strategies still rely on today. This article will provide an exploration of Hite's impactful contributions to algorithmic trading, highlighting how his principles continue to guide contemporary traders.

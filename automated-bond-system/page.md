@@ -1,6 +1,9 @@
 ---
-title: "Automated Bond System (Algo Trading)"
-description: "Discover how automated bond systems revolutionize the bond market with enhanced speed precision and transparency through sophisticated algorithmic trading technologies."
+category: trading_strategy
+description: Discover how automated bond systems revolutionize the bond market with
+  enhanced speed precision and transparency through sophisticated algorithmic trading
+  technologies.
+title: Automated Bond System (Algo Trading)
 ---
 
 In the constantly evolving financial markets, technology has played a pivotal role in transforming the way trading occurs. Among the various sectors affected, the bond market has seen significant advancements through the incorporation of automated systems. These developments not only streamline transactions but also redefine traditional paradigms of trading. 

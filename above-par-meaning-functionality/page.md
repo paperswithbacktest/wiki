@@ -1,6 +1,9 @@
 ---
-title: "Above Par: Meaning and Functionality (Algo Trading)"
-description: "Explore the impact of algorithmic trading on modern finance focusing on above-par bonds and how automated strategies leverage AI for optimized trade execution."
+category: quant_concept
+description: Explore the impact of algorithmic trading on modern finance focusing
+  on above-par bonds and how automated strategies leverage AI for optimized trade
+  execution.
+title: 'Above Par: Meaning and Functionality (Algo Trading)'
 ---
 
 The world of finance is in a constant state of transformation, heavily influenced by advancements in technology. Algorithmic trading, often simply called algo trading, exemplifies one area where artificial intelligence (AI) and automation exert considerable influence. As technology continues to advance, the integration of sophisticated algorithms in financial transactions has fundamentally changed how markets operate. This method leverages computational power to execute trading strategies at speeds and complexities beyond human capabilities.

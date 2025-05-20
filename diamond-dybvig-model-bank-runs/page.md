@@ -1,6 +1,9 @@
 ---
-title: "Diamond-Dybvig Model and Bank Runs (Algo Trading)"
-description: "Explore the Diamond-Dybvig model's impact on bank runs, emphasizing its relevance to algorithmic trading and cryptocurrency exchanges in today's financial landscape."
+category: quant_concept
+description: Explore the Diamond-Dybvig model's impact on bank runs, emphasizing its
+  relevance to algorithmic trading and cryptocurrency exchanges in today's financial
+  landscape.
+title: Diamond-Dybvig Model and Bank Runs (Algo Trading)
 ---
 
 The financial world is intricately woven with various theories and models that explain crucial phenomena. Among these, the Diamond-Dybvig model stands out as a pivotal framework delineating the phenomenon of bank runs. Proposed by economists Douglas Diamond and Philip Dybvig in 1983, this model offers a profound understanding of why financial institutions, despite their apparent stability, may succumb to sudden and massive withdrawals triggered by depositor panic. Such runs are not merely theoretical constructs; they have tangible impacts on economies, as evidenced by historical banking crises.

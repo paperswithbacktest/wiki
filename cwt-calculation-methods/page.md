@@ -1,6 +1,9 @@
 ---
-title: "CWT and Calculation Methods (Algo Trading)"
-description: "Explore the significance of hundredweight (CWT) in trading and shipping, its calculation methods, and its integration into modern algorithmic trading strategies for commodities markets."
+category: quant_concept
+description: Explore the significance of hundredweight (CWT) in trading and shipping,
+  its calculation methods, and its integration into modern algorithmic trading strategies
+  for commodities markets.
+title: CWT and Calculation Methods (Algo Trading)
 ---
 
 The concept of hundredweight (CWT) is a traditional unit of measurement that has been embedded in the lexicon of commodities trading and shipping for centuries. Despite the global shift towards the metric system, CWT continues to hold significance in certain sectors, particularly agriculture and shipping, due to its historical roots and practical utility. One hundredweight in North America is equivalent to 100 pounds (approximately 45.4 kilograms), while in the United Kingdom, it equals 112 pounds (about 50.8 kilograms). This difference highlights the need for precision when dealing with international trade and shipping, where weight calculations are crucial.

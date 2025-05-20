@@ -1,6 +1,9 @@
 ---
-title: "Oligopoly: Characteristics and Market Dynamics (Algo Trading)"
-description: "Explore the dynamics of oligopoly markets and the role of algorithmic trading in shaping pricing, competition, and innovation within industries dominated by few firms."
+category: quant_concept
+description: Explore the dynamics of oligopoly markets and the role of algorithmic
+  trading in shaping pricing, competition, and innovation within industries dominated
+  by few firms.
+title: 'Oligopoly: Characteristics and Market Dynamics (Algo Trading)'
 ---
 
 Understanding different market structures is crucial for businesses and investors navigating today's dynamic economic landscape. Among these structures, the oligopoly stands out due to its distinct characteristics, primarily a market dominated by a small number of firms. This structure allows significant influence over market dynamics, notably in pricing, competition, and innovation. Oligopolistic markets can lead to a concentration of market power, often resulting in price-setting capabilities that differ markedly from those in more competitive environments.

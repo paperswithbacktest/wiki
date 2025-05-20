@@ -1,9 +1,14 @@
 ---
-title: "How can I get into quant trading?"
-description: "Discover how to get started in the competitive field of quantitative trading or quant trading. A solid academic background, technical skills, practical experience, networking, and keeping up-to-date are essential. Learn about programming languages, platforms, and strategies, and find resources for further study. Perseverance, passion, and a continuous learning attitude are key to success. Explore papers, libraries, datasets, and websites to help you become a quant trader and potentially achieve financial independence."
+category: quant_concept
+description: Discover how to get started in the competitive field of quantitative
+  trading or quant trading. A solid academic background, technical skills, practical
+  experience, networking, and keeping up-to-date are essential. Learn about programming
+  languages, platforms, and strategies, and find resources for further study. Perseverance,
+  passion, and a continuous learning attitude are key to success. Explore papers,
+  libraries, datasets, and websites to help you become a quant trader and potentially
+  achieve financial independence.
+title: How can I get into quant trading?
 ---
-
-
 
 Quantitative trading, often referred to as quant trading, is a method of trading securities that relies on mathematical models and algorithms to identify trading opportunities. It distinguishes itself from traditional trading by utilizing data-driven strategies developed through rigorous statistical analysis and computational algorithms. This approach allows for faster and often more accurate trading decisions, harnessing vast amounts of data to uncover patterns and trends that may not be visible through conventional analysis.
 

@@ -1,6 +1,8 @@
 ---
-title: "Trans-Pacific Partnership: Overview and Alternatives (Algo Trading)"
-description: "Explore the rise and fall of the Trans-Pacific Partnership and its alternatives Discover how algorithmic trading influences global trade agreements today"
+category: quant_concept
+description: Explore the rise and fall of the Trans-Pacific Partnership and its alternatives
+  Discover how algorithmic trading influences global trade agreements today
+title: 'Trans-Pacific Partnership: Overview and Alternatives (Algo Trading)'
 ---
 
 The Trans-Pacific Partnership (TPP) represented a pivotal initiative aimed at bolstering economic ties and enhancing trade across Pacific Rim economies. Spanning a total of 12 nations, including major economies such as the United States, Japan, and Australia, the TPP was structured to reduce trade barriers, such as tariffs, while promoting standards in labor and environmental practices. The breadth and scope of the agreement underscored its significance, potentially reshaping trade dynamics across one of the world’s most economically vibrant regions.

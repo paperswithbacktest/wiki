@@ -1,6 +1,9 @@
 ---
-title: "Diversification Strategies for a Million-Dollar Investment Portfolio (Algo Trading)"
-description: "Explore diversification strategies for a million-dollar investment portfolio using algorithmic trading to optimize returns and manage risk with advanced techniques."
+category: trading_strategy
+description: Explore diversification strategies for a million-dollar investment portfolio
+  using algorithmic trading to optimize returns and manage risk with advanced techniques.
+title: Diversification Strategies for a Million-Dollar Investment Portfolio (Algo
+  Trading)
 ---
 
 Wealth management is a comprehensive approach to managing an individual's or institution's financial assets, ensuring growth, preservation, and transfer according to defined objectives. A critical component of wealth management is diversification, a strategy undertaken to mitigate risk by allocating investments across various financial instruments, industries, and other categories. This approach helps minimize the impact of poor performance in any single asset, thereby protecting and potentially enhancing overall portfolio performance.

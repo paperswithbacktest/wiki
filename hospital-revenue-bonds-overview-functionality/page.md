@@ -1,6 +1,9 @@
 ---
-title: "Hospital Revenue Bonds: Overview and Functionality (Algo Trading)"
-description: "Explore the dynamic role of hospital revenue bonds in healthcare finance Learn how these bonds fund expansions and the impact of algorithmic trading on their market"
+category: quant_concept
+description: Explore the dynamic role of hospital revenue bonds in healthcare finance
+  Learn how these bonds fund expansions and the impact of algorithmic trading on their
+  market
+title: 'Hospital Revenue Bonds: Overview and Functionality (Algo Trading)'
 ---
 
 The investment landscape in healthcare infrastructure is undergoing significant changes, particularly in how hospital bonds are employed to fund essential hospital expansions. Hospital bonds, which include various types such as revenue bonds, serve as a pivotal financial instrument for realizing hospital projects. These bonds enable hospitals and related institutions to maintain and improve healthcare accessibility within their communities by financing the construction of new facilities and the upgrade of existing ones.

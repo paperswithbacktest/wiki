@@ -1,6 +1,9 @@
 ---
-title: "Hot Wallet Overview: Types, Uses, and Security (Algo Trading)"
-description: "Explore hot wallets in cryptocurrency trading including their types uses and security features Discover how algo trading optimizes strategies for better results"
+category: quant_concept
+description: Explore hot wallets in cryptocurrency trading including their types uses
+  and security features Discover how algo trading optimizes strategies for better
+  results
+title: 'Hot Wallet Overview: Types, Uses, and Security (Algo Trading)'
 ---
 
 In the rapidly evolving world of cryptocurrency, security remains one of the most crucial concerns for traders and investors. The emergence and growth of digital assets have heightened the need for secure storage solutions, leading to the development and refinement of digital wallets. These wallets are essential tools for holding and managing cryptocurrencies, and they come in various forms, each designed to offer varying degrees of protection and accessibility. 

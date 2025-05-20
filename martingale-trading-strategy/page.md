@@ -1,6 +1,11 @@
 ---
-title: "Martingale Trading Strategy (Algo Trading)"
-description: Explore the Martingale trading strategy's application in algorithmic trading, focusing on its potential for recovery in volatile markets. Learn how algorithmic systems can automate trade adjustments, while understanding the significant risks involved due to market unpredictability. Discover ways to implement risk controls and draw comparisons with other strategies to mitigate losses effectively.
+category: trading_strategy
+description: Explore the Martingale trading strategy's application in algorithmic
+  trading, focusing on its potential for recovery in volatile markets. Learn how algorithmic
+  systems can automate trade adjustments, while understanding the significant risks
+  involved due to market unpredictability. Discover ways to implement risk controls
+  and draw comparisons with other strategies to mitigate losses effectively.
+title: Martingale Trading Strategy (Algo Trading)
 ---
 
 The Martingale strategy is a concept that has found its application in both gambling and trading domains due to its straightforward approach to handling losses. Its primary principle involves doubling the size of a trade following each loss, with the expectation that a subsequent win will offset all previous losses. This system assumes a probability theory framework where outcomes eventually average out, thus creating opportunities to reclaim lost capital in trading.

@@ -1,6 +1,8 @@
 ---
-title: "Gross Domestic Product Calculation Using the Income Approach (Algo Trading)"
-description: "Explore how the Income Approach is used to calculate GDP and its integration with algorithmic trading to enhance market predictions and strategy efficiency."
+category: quant_concept
+description: Explore how the Income Approach is used to calculate GDP and its integration
+  with algorithmic trading to enhance market predictions and strategy efficiency.
+title: Gross Domestic Product Calculation Using the Income Approach (Algo Trading)
 ---
 
 Gross Domestic Product (GDP) is a fundamental economic indicator that quantifies the total monetary value of all finished goods and services produced within a country's borders in a specific time period. It serves as a comprehensive metric to gauge the economic health and performance of a nation, providing insights into the size and growth rate of an economy. Policymakers, investors, and economists rely on GDP as it reflects economic activity and informs decisions related to fiscal policy, investment strategies, and economic development initiatives.

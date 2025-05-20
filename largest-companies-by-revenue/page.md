@@ -1,6 +1,8 @@
 ---
-title: "List of Largest Companies by Revenue (Algo Trading)"
-description: "Explore the world's largest companies by revenue and market cap, revealing their impact on algorithmic trading and their role in global markets."
+category: dataset
+description: Explore the world's largest companies by revenue and market cap, revealing
+  their impact on algorithmic trading and their role in global markets.
+title: List of Largest Companies by Revenue (Algo Trading)
 ---
 
 In the ever-evolving global business landscape, the rankings of the largest companies draw significant attention. These rankings unveil insights into economic powerhouses driving innovation, economic growth, and financial markets worldwide. Companies across diverse sectors such as retail, technology, oil, and healthcare are at the forefront of these rankings, reflecting the varied engines that propel global economies. 

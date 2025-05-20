@@ -1,6 +1,9 @@
 ---
-title: "Deferred Income Tax (Algo Trading)"
-description: "Explore the complexities of deferred income tax in algorithmic trading. Understand tax implications for traders and discover strategies for effective tax management."
+category: quant_concept
+description: Explore the complexities of deferred income tax in algorithmic trading.
+  Understand tax implications for traders and discover strategies for effective tax
+  management.
+title: Deferred Income Tax (Algo Trading)
 ---
 
 Taxation encompasses a broad spectrum of concepts crucial to both individuals and businesses, especially within financial markets. Key terms include income tax, a levy on individual or corporate earnings; capital gains tax, applicable to profits from asset sales; value-added tax (VAT), a consumption tax on goods and services; and deferred tax, an accounting mechanism reflecting timing differences between tax reporting and accounting figures. These elements, among others, are tightly interwoven, shaping financial strategies, compliance requirements, and market behaviors. Each tax category impacts cash flows and investment returns, influencing decisions ranging from asset allocation to profit maximization.

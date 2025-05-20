@@ -1,6 +1,8 @@
 ---
-title: "Comparison of Institutional and Retail Traders (Algo Trading)"
-description: "Discover the contrasting roles of institutional and retail traders in the evolving landscape of algorithmic trading and its impact on market dynamics."
+category: quant_concept
+description: Discover the contrasting roles of institutional and retail traders in
+  the evolving landscape of algorithmic trading and its impact on market dynamics.
+title: Comparison of Institutional and Retail Traders (Algo Trading)
 ---
 
 Understanding the differences between institutional and retail traders, along with the influence of algorithmic trading, is essential in the trading landscape. Institutional traders are entities like banks and mutual funds that execute trades in high volumes, often impacting market trends and liquidity with their substantial capital and unrivaled access to information. In contrast, retail traders are individual investors operating with personal accounts and limited resources, accessing markets primarily through online platforms. Algorithmic trading, which automates trade execution based on predetermined criteria, has significantly transformed how both groups interact with the market. This technology offers speed and precision, opening new dimensions of trading opportunities. As a result, algorithmic trading is not only the domain of institutional players; savvy retail traders are increasingly harnessing it to enhance their strategies. This article will explore these topics, highlighting the evolving dynamics within today's financial markets and offering insights for traders looking to refine their approach using modern technological tools.

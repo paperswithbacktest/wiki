@@ -1,6 +1,13 @@
 ---
-title: "Institutional Trading Strategy (Algo Trading)"
-description: Explore the dynamics of institutional trading within algorithmic systems, which utilize complex algorithms for executing strategies with precision and speed. Discover how these technological advancements reduce costs and human error, enabling institutions to efficiently manage portfolios and seize market opportunities. Learn about the advantages of algo trading, including improved liquidity, disciplined trading, and enhanced risk management, and understand its transformative impact on global financial markets.
+category: trading_strategy
+description: Explore the dynamics of institutional trading within algorithmic systems,
+  which utilize complex algorithms for executing strategies with precision and speed.
+  Discover how these technological advancements reduce costs and human error, enabling
+  institutions to efficiently manage portfolios and seize market opportunities. Learn
+  about the advantages of algo trading, including improved liquidity, disciplined
+  trading, and enhanced risk management, and understand its transformative impact
+  on global financial markets.
+title: Institutional Trading Strategy (Algo Trading)
 ---
 
 In the modern trading ecosystem, institutional trading within algorithmic trading has become increasingly prominent. Algorithmic trading, often referred to as algo trading, involves the use of sophisticated technological systems to execute intricate trading strategies with a high degree of precision and speed. These strategies are pre-programmed into complex algorithms that can assess multiple market variables in real-time and execute trade orders at optimal points, often much faster than human capabilities would allow.

@@ -1,6 +1,8 @@
 ---
-title: "Uniform Securities Act: Overview and Application (Algo Trading)"
-description: "Explore the Uniform Securities Act and its application in the rise of algorithmic trading which enhances efficiency but raises regulatory challenges."
+category: quant_concept
+description: Explore the Uniform Securities Act and its application in the rise of
+  algorithmic trading which enhances efficiency but raises regulatory challenges.
+title: 'Uniform Securities Act: Overview and Application (Algo Trading)'
 ---
 
 In today's financial markets, securities regulation plays a crucial role in maintaining market integrity and protecting investors. As financial systems become increasingly complex and interconnected, effective regulation ensures transparency, fairness, and confidence amongst market participants. This article focuses on the Uniform Securities Act, a key legislative framework governing state-level securities regulation in the United States. The Act offers a model that states can adopt or modify to address specific local needs, providing a critical layer of protection alongside federal regulations.

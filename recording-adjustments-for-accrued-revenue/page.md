@@ -1,6 +1,8 @@
 ---
-title: "Recording Adjustments for Accrued Revenue (Algo Trading)"
-description: "Explore the critical role of accounting adjustments in recording accrued revenue for financial reporting in algorithmic trading where accuracy is paramount."
+category: quant_concept
+description: Explore the critical role of accounting adjustments in recording accrued
+  revenue for financial reporting in algorithmic trading where accuracy is paramount.
+title: Recording Adjustments for Accrued Revenue (Algo Trading)
 ---
 
 Financial reporting is a cornerstone of effective business operations, ensuring that stakeholders have access to accurate and reliable financial information. This accuracy hinges significantly on the meticulous recording of transactions, which is facilitated by accounting adjustments. Accounting adjustments are essential for aligning financial statements with the economic realities they represent, ensuring that revenues and expenses are accurately captured in the appropriate accounting periods. 

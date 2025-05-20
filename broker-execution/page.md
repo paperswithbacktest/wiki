@@ -1,6 +1,9 @@
 ---
-title: "broker execution (Algo Trading)"
-description: "Explore the intricacies of broker execution in algo trading highlighting strategies and technologies that enhance precision, efficiency, and market impact management."
+category: trading_strategy
+description: Explore the intricacies of broker execution in algo trading highlighting
+  strategies and technologies that enhance precision, efficiency, and market impact
+  management.
+title: broker execution (Algo Trading)
 ---
 
 In today's financial markets, algorithmic trading stands as a fundamental element of trading strategies, providing unparalleled precision and efficiency in executing trades. The pivotal role of execution in algorithmic trading lies in its ability to ensure that trades are carried out in alignment with predefined strategies, adapting seamlessly across varying market conditions. This article investigates the concept of broker execution in algorithmic trading, focusing on the strategies, algorithms, and technologies that underpin effective execution.

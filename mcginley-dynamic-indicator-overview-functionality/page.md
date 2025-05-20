@@ -1,6 +1,8 @@
 ---
-title: "McGinley Dynamic Indicator: Overview and Functionality (Algo Trading)"
-description: "Discover the McGinley Dynamic Indicator a tool designed to minimize lag in moving averages by adapting to market speed helping traders make informed decisions."
+category: trading_strategy
+description: Discover the McGinley Dynamic Indicator a tool designed to minimize lag
+  in moving averages by adapting to market speed helping traders make informed decisions.
+title: 'McGinley Dynamic Indicator: Overview and Functionality (Algo Trading)'
 ---
 
 The dynamic world of stock market trading is constantly evolving with new tools and strategies. Each year brings innovations aimed at providing traders with a sharper edge. Among these innovations, the McGinley Dynamic Indicator has emerged as a noteworthy tool. Developed by John R. McGinley, a seasoned market technician, the McGinley Dynamic Indicator is designed to address one of the most persistent issues in trading: the lag associated with traditional moving averages. By dynamically adjusting to changes in market velocity, this indicator aims to enhance the precision of trend analysis. It provides traders with a moving average that is not only smoother but also more responsive to fluctuations in market speed, distinguishing itself from conventional indicators like the Simple Moving Average (SMA) and Exponential Moving Average (EMA).

@@ -1,6 +1,9 @@
 ---
-title: "Long the Basis: Concept, Functionality, and Examples (Algo Trading)"
-description: "Explore the concept and functionality of the 'long the basis' strategy in algo trading a method for hedging and profiting from commodity price movements through technology."
+category: trading_strategy
+description: Explore the concept and functionality of the 'long the basis' strategy
+  in algo trading a method for hedging and profiting from commodity price movements
+  through technology.
+title: 'Long the Basis: Concept, Functionality, and Examples (Algo Trading)'
 ---
 
 The convergence of financial trading strategies and technology has led to the development of sophisticated methods like algorithmic trading, commonly referred to as algo trading. This integration of technology into the financial markets has not only enhanced trading efficiency but also opened up new avenues for leveraging complex strategies. In this article, our focus will be on a specific trading strategy known as "long the basis," and its significance within the trading world. 

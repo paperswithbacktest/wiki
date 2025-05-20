@@ -1,8 +1,9 @@
 ---
-title: Understanding Video Super-Resolution and BasicVSR Technology
+category: quant_concept
 description: Video super-resolution enhances low quality footage by using algorithms
   to boost resolution and clarity for improved viewing and analysis Discover more
   inside
+title: Understanding Video Super-Resolution and BasicVSR Technology
 ---
 
 ![Image](images/1.png)

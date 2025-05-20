@@ -1,6 +1,8 @@
 ---
-title: "Turing Machine in Trading (Algo Trading)"
-description: "Discover how Turing machines revolutionize algorithmic trading by integrating computation theory, enhancing the efficiency and adaptability of trading systems."
+category: quant_concept
+description: Discover how Turing machines revolutionize algorithmic trading by integrating
+  computation theory, enhancing the efficiency and adaptability of trading systems.
+title: Turing Machine in Trading (Algo Trading)
 ---
 
 Algorithmic trading has seen a remarkable evolution with the integration of advanced computing technologies and machine learning techniques. At the core of these advancements lies the concept of the Turing machine, an essential model in computation theory, which draws direct parallels with algorithmic trading systems, particularly when machine learning is involved. Named after the pioneering mathematician and computer scientist Alan Turing, the Turing machine is a theoretical construct capable of simulating the logic of any computer algorithm. Its significance in the computational landscape provides critical insights into how modern trading algorithms are designed and optimized.

@@ -1,6 +1,9 @@
 ---
-title: "Economic Indicators for Predicting Market Trends (Algo Trading)"
-description: "Explore the pivotal role of economic indicators and market trends in algo trading. Discover how predictive economics aids in informed decision-making for investors."
+category: quant_concept
+description: Explore the pivotal role of economic indicators and market trends in
+  algo trading. Discover how predictive economics aids in informed decision-making
+  for investors.
+title: Economic Indicators for Predicting Market Trends (Algo Trading)
 ---
 
 The world of finance and economics is constantly evolving, driven by a myriad of factors that affect global markets. The complexities of these markets are influenced by numerous elements such as political events, economic policies, and technological advancements. For investors, traders, and policymakers, understanding market trends and economic indicators is crucial to navigate these complexities effectively. Market trends provide insights into the general direction in which financial markets are moving, influenced by factors ranging from economic data releases to changes in consumer behavior.

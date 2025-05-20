@@ -1,6 +1,9 @@
 ---
-title: "Countries and Economy of the Middle East and North Africa (Algo Trading)"
-description: "Explore how MENA's evolving economies are integrating algorithmic trading to diversify from oil reliance enhancing market efficiency and attracting global investors."
+category: dataset
+description: Explore how MENA's evolving economies are integrating algorithmic trading
+  to diversify from oil reliance enhancing market efficiency and attracting global
+  investors.
+title: Countries and Economy of the Middle East and North Africa (Algo Trading)
 ---
 
 The Middle East and North Africa (MENA) region, encompassing a range of economies with abundant oil reserves, is rapidly establishing itself as a vital part of the global economic framework. Traditionally, the economic significance of MENA countries has been tightly intertwined with their substantial oil and natural gas resources. However, recent trends indicate a shift towards more diversified economic activities, driven by strategic visions such as Saudi Arabia’s Vision 2030 and the UAE’s initiatives to foster non-oil sectors. These efforts are catalyzing modernization across various industries, including finance, technology, and renewable energy.

@@ -1,6 +1,11 @@
 ---
-title: "Is the Stock Market a Zero-Sum Game? (Algo Trading)"
-description: Explore whether the stock market functions as a zero-sum game with a focus on algorithmic trading. Understand the interaction between short-term trading's zero-sum characteristics and long-term investing's value creation in financial markets. Delve into how algo trading exploits market inefficiencies, raising questions about its impact on competitive market dynamics and the zero-sum framework.
+category: quant_concept
+description: Explore whether the stock market functions as a zero-sum game with a
+  focus on algorithmic trading. Understand the interaction between short-term trading's
+  zero-sum characteristics and long-term investing's value creation in financial markets.
+  Delve into how algo trading exploits market inefficiencies, raising questions about
+  its impact on competitive market dynamics and the zero-sum framework.
+title: Is the Stock Market a Zero-Sum Game? (Algo Trading)
 ---
 
 The concept of a zero-sum game is frequently employed to explain various scenarios in economics and finance, including the stock market. A zero-sum game describes a situation where any gain by one participant is exactly balanced by losses incurred by others, resulting in a net change of zero. This is commonly observed in games like poker, where the total pool of money remains constant among players, meaning one's success directly equates to another's failure.

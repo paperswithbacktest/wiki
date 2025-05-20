@@ -1,6 +1,8 @@
 ---
-title: "Neutrality of Money Theory (Algo Trading)"
-description: "Explore the interconnectedness of monetary theory the neutrality of money and algorithmic trading in shaping modern financial systems and their economic impact."
+category: quant_concept
+description: Explore the interconnectedness of monetary theory the neutrality of money
+  and algorithmic trading in shaping modern financial systems and their economic impact.
+title: Neutrality of Money Theory (Algo Trading)
 ---
 
 Monetary theory, the neutrality of money, and algorithmic trading are interconnected concepts that shape modern financial systems. Monetary theory examines the functions and value of money, its supply, and how it impacts economic activities. It serves as a foundation for understanding how economic policies are crafted and adjusted by central banks worldwide.

@@ -1,6 +1,8 @@
 ---
-title: "Assets Under Management: Overview and Calculation (Algo Trading)"
-description: "Explore the critical concepts of Assets Under Management and algorithmic trading to enhance investment strategies and make informed decisions in finance."
+category: quant_concept
+description: Explore the critical concepts of Assets Under Management and algorithmic
+  trading to enhance investment strategies and make informed decisions in finance.
+title: 'Assets Under Management: Overview and Calculation (Algo Trading)'
 ---
 
 The financial world is experiencing rapid transformation, primarily driven by technological advancements and evolving market dynamics. As a result, the methods of asset management and trading are undergoing significant changes. This article explores the intersection of three pivotal concepts: financial management, Assets Under Management (AUM), and algorithmic trading (algo trading). These elements are increasingly critical in the modern financial landscape due to their impact on investment strategies and decision-making. By gaining an understanding of these components, both individual and institutional investors can harness their potential to make more informed and strategic investment choices.

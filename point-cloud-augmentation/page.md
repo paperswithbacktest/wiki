@@ -1,7 +1,8 @@
 ---
-title: Effective Point Cloud Data Augmentation Techniques for ML
+category: dataset
 description: Point cloud data augmentation enhances model robustness by generating
   diverse 3D object variations through rotations noise and patches Discover more inside
+title: Effective Point Cloud Data Augmentation Techniques for ML
 ---
 
 ![Image](images/1.png)

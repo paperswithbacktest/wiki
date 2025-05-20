@@ -1,6 +1,9 @@
 ---
-title: "Impact of Fixed and Variable Costs on Marginal Cost (Algo Trading)"
-description: "Understanding fixed and variable costs is essential in algorithmic trading. This article examines their impact on marginal cost, optimizing trading strategies and profitability."
+category: quant_concept
+description: Understanding fixed and variable costs is essential in algorithmic trading.
+  This article examines their impact on marginal cost, optimizing trading strategies
+  and profitability.
+title: Impact of Fixed and Variable Costs on Marginal Cost (Algo Trading)
 ---
 
 Algorithmic trading, commonly known as algo trading, represents a multifaceted area within the financial sector where computer algorithms are employed to execute trades at high speeds and volumes, far beyond the capacity of human traders. This method relies heavily on complex mathematical models and high-speed data analysis to make trading decisions.

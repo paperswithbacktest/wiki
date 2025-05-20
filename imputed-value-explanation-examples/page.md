@@ -1,6 +1,8 @@
 ---
-title: "Imputed Value: Explanation and Examples (Algo Trading)"
-description: "Discover how imputed value, valuation techniques, and algorithmic trading interconnect to optimize financial decision-making and enhance investment strategies."
+category: quant_concept
+description: Discover how imputed value, valuation techniques, and algorithmic trading
+  interconnect to optimize financial decision-making and enhance investment strategies.
+title: 'Imputed Value: Explanation and Examples (Algo Trading)'
 ---
 
 This article examines the intersection of economic value valuation techniques, imputed value, and algorithmic trading, highlighting their essential roles in modern financial markets. Understanding the interaction between these components can significantly enhance investment strategies and risk management frameworks. The purpose here is to elucidate how valuation methods and advanced trading technologies are applied to improve financial decision-making processes.

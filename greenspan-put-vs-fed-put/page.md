@@ -1,6 +1,8 @@
 ---
-title: "Greenspan Put and Its Comparison to the Fed Put (Algo Trading)"
-description: "Explore the impact of the Greenspan Put and Fed Put on financial markets and algorithmic trading Learn how central bank policies influence investor behavior"
+category: quant_concept
+description: Explore the impact of the Greenspan Put and Fed Put on financial markets
+  and algorithmic trading Learn how central bank policies influence investor behavior
+title: Greenspan Put and Its Comparison to the Fed Put (Algo Trading)
 ---
 
 In the world of finance and economics, the terms 'Fed Put' and 'Greenspan Put' have gained significant recognition. These concepts are linked to the Federal Reserve's actions during periods of market turmoil, characterized by interventions to prevent severe market declines. Such interventions aim to stabilize the financial markets by instilling confidence among investors that the central bank will step in to mitigate risks, reminiscent of the protective nature of financial derivatives like put options.

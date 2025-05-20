@@ -1,6 +1,8 @@
 ---
-title: "eSports Exchange-Traded Funds and Investor Engagement (Algo Trading)"
-description: "Explore the dynamic intersection of eSports, Exchange-Traded Funds (ETFs), and algorithmic trading to unlock investment opportunities in a fast-growing industry."
+category: trading_strategy
+description: Explore the dynamic intersection of eSports, Exchange-Traded Funds (ETFs),
+  and algorithmic trading to unlock investment opportunities in a fast-growing industry.
+title: eSports Exchange-Traded Funds and Investor Engagement (Algo Trading)
 ---
 
 The rise of eSports marks a pivotal transformation in both entertainment and investment landscapes. Over the past decade, eSports has evolved from niche tournaments into a global industry attracting millions of viewers and significant media attention. Recent reports suggest the eSports market could exceed $1.6 billion by 2024, driven by increased sponsorship, media rights, and growing audiences worldwide.[^1] This expansion presents a substantial investment opportunity.
@@ -144,4 +146,3 @@ Chan, E. P. (2008). *Quantitative Trading: How to Build Your Own Algorithmic Tra
 Jansen, S. (2020). *Machine Learning for Algorithmic Trading*. This book provides a practical approach to algorithmic trading using machine learning tools, addressing topics like feature engineering, model selection, and [backtesting](/wiki/backtesting) strategies to optimize trading performance.
 
 Aronson, D. (2006). *Evidence-Based Technical Analysis: Applying the Scientific Method and Statistical Inference to Trading Signals*. Aronson presents a rigorous evaluation of technical analysis tools, advocating for a scientific approach to trading, which includes statistical testing and validation of trading strategies to ensure robust investment decision-making.
-

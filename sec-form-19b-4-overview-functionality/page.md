@@ -1,6 +1,8 @@
 ---
-title: "SEC Form 19b-4: Overview and Functionality (Algo Trading)"
-description: "Discover the role of SEC Form 19b-4 in financial regulation and its impact on algorithmic trading Ensuring transparency and accountability in market practices"
+category: quant_concept
+description: Discover the role of SEC Form 19b-4 in financial regulation and its impact
+  on algorithmic trading Ensuring transparency and accountability in market practices
+title: 'SEC Form 19b-4: Overview and Functionality (Algo Trading)'
 ---
 
 In today's complex financial landscape, financial regulation plays a pivotal role in ensuring market integrity and investor protection. The Securities and Exchange Commission (SEC) is central to this regulatory framework, enforcing rules through various forms and filings. Among these instruments, SEC Form 19b-4 stands out as a critical tool used by self-regulatory organizations (SROs) to notify the SEC of proposed rule changes. The purpose of this form is to maintain transparency and accountability within financial markets by allowing public scrutiny and commentary on proposed changes.

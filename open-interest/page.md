@@ -1,6 +1,14 @@
 ---
-title: "Open interest (Algo Trading)"
-description: Open interest is a vital metric in futures and options trading, offering insights into market activity and sentiment. It measures the number of active contracts and reflects investor interest and potential market movements. A high open interest can indicate strong trends, while declining interest might suggest market consolidation. This article explores open interest's role in trading, especially in algorithmic strategies, where it helps craft precise predictive models. Understanding open interest assists traders in making informed decisions, anticipating market trends, and enhancing trading strategies in the dynamic world of trading.
+category: quant_concept
+description: Open interest is a vital metric in futures and options trading, offering
+  insights into market activity and sentiment. It measures the number of active contracts
+  and reflects investor interest and potential market movements. A high open interest
+  can indicate strong trends, while declining interest might suggest market consolidation.
+  This article explores open interest's role in trading, especially in algorithmic
+  strategies, where it helps craft precise predictive models. Understanding open interest
+  assists traders in making informed decisions, anticipating market trends, and enhancing
+  trading strategies in the dynamic world of trading.
+title: Open interest (Algo Trading)
 ---
 
 Open interest plays a crucial role in the landscape of futures trading and algorithmic trading. It serves as a key metric that can provide traders with a deeper insight into market activity and sentiment. By analyzing open interest, traders can gain valuable information about the number of active contracts in the marketplace, which reflects investor interest and potential future movements of various assets.

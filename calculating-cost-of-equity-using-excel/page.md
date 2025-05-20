@@ -1,6 +1,8 @@
 ---
-title: "Calculating Cost of Equity Using Excel (Algo Trading)"
-description: "Calculate the cost of equity using Excel to enhance financial analysis and optimize trading strategies. Learn to apply CAPM for precise returns assessment."
+category: quant_concept
+description: Calculate the cost of equity using Excel to enhance financial analysis
+  and optimize trading strategies. Learn to apply CAPM for precise returns assessment.
+title: Calculating Cost of Equity Using Excel (Algo Trading)
 ---
 
 The cost of equity represents a critical component in both financial analysis and algorithmic trading, serving as a cornerstone for valuing a company and an essential metric for investors evaluating potential returns. Fundamentally, the cost of equity is the return a company requires to decide if an investment meets capital return requirements. From an investor's perspective, it is the compensation sought for the risks associated with investing in the company's equity.

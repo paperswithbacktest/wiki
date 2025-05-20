@@ -1,6 +1,9 @@
 ---
-title: "Objectives of Financial Accounting (Algo Trading)"
-description: "Explore how financial accounting aids stakeholders in decision-making by providing transparency in corporate health and strategic planning alongside algorithmic trading."
+category: quant_concept
+description: Explore how financial accounting aids stakeholders in decision-making
+  by providing transparency in corporate health and strategic planning alongside algorithmic
+  trading.
+title: Objectives of Financial Accounting (Algo Trading)
 ---
 
 Understanding the landscape of financial accounting, reporting, and algorithmic trading is essential for modern businesses and investors. Financial reporting serves as a critical tool in assessing corporate health and value, enabling stakeholders such as investors, creditors, and managers to make informed decisions based on transparent and standardized information. It involves converting raw financial data into structured reports—such as income statements, balance sheets, and cash flow statements—which facilitate the evaluation of a company's performance and strategic direction.

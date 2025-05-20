@@ -1,6 +1,8 @@
 ---
-title: "Factor Income and Non-Factor Income (Algo Trading)"
-description: "Explore factor and non-factor income's impact on fiscal policy and economic health alongside algorithmic trading's role in modern financial markets."
+category: quant_concept
+description: Explore factor and non-factor income's impact on fiscal policy and economic
+  health alongside algorithmic trading's role in modern financial markets.
+title: Factor Income and Non-Factor Income (Algo Trading)
 ---
 
 Understanding the interplay between factor income, types of non-factor income, and algorithmic trading is crucial for modern investors and economists alike. Factor and non-factor income are central to economic analysis, providing insights into a nation's economic health and guiding fiscal policy. Factor income, derived from production factors like land, labor, and capital, informs measurements such as gross domestic product (GDP) and gross national product (GNP), essential indicators of economic well-being. These income streams highlight economic disparities, informing policymakers seeking equitable growth.

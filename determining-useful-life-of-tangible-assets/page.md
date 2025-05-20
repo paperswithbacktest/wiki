@@ -1,6 +1,8 @@
 ---
-title: "Determining Useful Life of Tangible Assets (Algo Trading)"
-description: "Explore how tangible assets' valuation and their useful life impact financial strategies in algo trading, enhancing investment decisions and profitability."
+category: quant_concept
+description: Explore how tangible assets' valuation and their useful life impact financial
+  strategies in algo trading, enhancing investment decisions and profitability.
+title: Determining Useful Life of Tangible Assets (Algo Trading)
 ---
 
 In finance, understanding assets and their valuation is crucial for making informed investment decisions. Assets, especially tangible ones, form the backbone of businesses, providing the necessary infrastructure and resources for operational success. Tangible assets, such as real estate, machinery, and inventory, hold intrinsic value and are fundamental in assessing a company's financial health and potential for revenue generation.

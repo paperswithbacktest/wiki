@@ -1,6 +1,9 @@
 ---
-title: "Investment Strategies in Affordable Housing (Algo Trading)"
-description: "Explore how technology enhances affordable housing investments through algorithmic trading offering stable returns and leveraging government support for social and financial benefits."
+category: trading_strategy
+description: Explore how technology enhances affordable housing investments through
+  algorithmic trading offering stable returns and leveraging government support for
+  social and financial benefits.
+title: Investment Strategies in Affordable Housing (Algo Trading)
 ---
 
 In recent years, affordable housing has emerged as a significant concern for both policymakers and investors. As urban populations continue to grow and housing costs rise, ensuring that lower-income families have access to safe and affordable residences is essential. This article aims to explore the intersection of technology and finance, specifically how investments in affordable housing can be both socially beneficial and financially lucrative.

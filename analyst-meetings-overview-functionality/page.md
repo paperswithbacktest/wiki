@@ -1,6 +1,8 @@
 ---
-title: "Analyst Meetings: Overview and Functionality (Algo Trading)"
-description: "Explore the synergy between analyst meetings financial analysis and algorithmic trading in enhancing investment strategies and market transparency."
+category: quant_concept
+description: Explore the synergy between analyst meetings financial analysis and algorithmic
+  trading in enhancing investment strategies and market transparency.
+title: 'Analyst Meetings: Overview and Functionality (Algo Trading)'
 ---
 
 In the rapidly evolving financial landscape, effective communication and technological advancements have become crucial in shaping investment strategies. The convergence of financial analysis, analyst meetings, investment communication, and algorithmic trading forms the backbone of successful financial management. Each of these components plays a pivotal role in dissecting market complexities, enabling informed decision-making and enhancing investment outcomes.

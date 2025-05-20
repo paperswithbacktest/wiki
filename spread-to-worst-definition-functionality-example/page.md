@@ -1,6 +1,8 @@
 ---
-title: "Spread-to-Worst: Definition, Functionality, and Example (Algo Trading)"
-description: "Explore the significance of Spread-to-Worst and Yield-to-Worst in bond investing. Learn how algorithmic trading enhances analysis for optimized decision-making."
+category: quant_concept
+description: Explore the significance of Spread-to-Worst and Yield-to-Worst in bond
+  investing. Learn how algorithmic trading enhances analysis for optimized decision-making.
+title: 'Spread-to-Worst: Definition, Functionality, and Example (Algo Trading)'
 ---
 
 In the world of finance, making informed investment decisions is essential for optimizing returns and minimizing risks. The bond market, with its array of options and varying degrees of complexity, requires investors to use quantitative measures to evaluate potential returns effectively. Among these, Spread-to-Worst (STW) and Yield-to-Worst (YTW) stand out as significant indicators that help investors understand the lowest possible return they might receive from a bond, factoring in any pre-emptive actions by the issuer.

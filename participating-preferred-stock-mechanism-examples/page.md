@@ -1,6 +1,8 @@
 ---
-title: "Participating Preferred Stock: Mechanism and Examples (Algo Trading)"
-description: "Explore the mechanism of participating preferred stock and discover examples in algorithmic trading Enhance your portfolio with fixed income and profit potential"
+category: quant_concept
+description: Explore the mechanism of participating preferred stock and discover examples
+  in algorithmic trading Enhance your portfolio with fixed income and profit potential
+title: 'Participating Preferred Stock: Mechanism and Examples (Algo Trading)'
 ---
 
 In the world of investing, understanding the different types of stocks is crucial for making informed decisions. Among the various classes of stocks, preferred shares stand out for their distinctive features and advantages over common stock. Preferred shares represent a class of ownership in a corporation, characterized by a higher claim on assets and earnings. These shares typically offer fixed dividends and lack voting rights, providing more stability in returns compared to common shares.

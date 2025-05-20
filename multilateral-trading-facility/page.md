@@ -1,6 +1,8 @@
 ---
-title: "Multilateral Trading Facility (MTF) (Algo Trading)"
-description: "Explore Multilateral Trading Facilities and the role of algorithmic trading in modern financial markets Discover the impact of technology on trading efficiency"
+category: quant_concept
+description: Explore Multilateral Trading Facilities and the role of algorithmic trading
+  in modern financial markets Discover the impact of technology on trading efficiency
+title: Multilateral Trading Facility (MTF) (Algo Trading)
 ---
 
 The evolution of financial markets in the digital age has been marked by significant technological advancements. Central to this transformation has been the development and widespread adoption of trading platforms and algorithmic trading systems. These innovations have fundamentally changed the mechanisms by which financial instruments are traded, introducing speed, efficiency, and complexity at unprecedented levels.

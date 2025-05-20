@@ -1,6 +1,8 @@
 ---
-title: "Closed Fund in Mutual Fund Investing (Algo Trading)"
-description: "Explore the dynamics of closed-end funds in mutual fund investing and the impact of algorithmic trading on investment strategies for optimizing returns."
+category: quant_concept
+description: Explore the dynamics of closed-end funds in mutual fund investing and
+  the impact of algorithmic trading on investment strategies for optimizing returns.
+title: Closed Fund in Mutual Fund Investing (Algo Trading)
 ---
 
 Navigating the world of investments can be complex, with numerous options available to investors. Among these options, closed-end and open-end funds offer distinct pathways for diversification and maximizing returns. Closed-end funds are known for their fixed-share issuance and trading on stock exchanges, which can offer unique advantages and risks. Conversely, open-end funds provide flexibility with continuous share issuance and redemption based on investor demand.

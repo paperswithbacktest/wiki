@@ -1,6 +1,8 @@
 ---
-title: "Overview of the Securities and Exchange Commission (Algo Trading)"
-description: "Discover how the SEC ensures market integrity and investor protection amidst the rise of algorithmic trading Explore its history and role in modern markets"
+category: quant_concept
+description: Discover how the SEC ensures market integrity and investor protection
+  amidst the rise of algorithmic trading Explore its history and role in modern markets
+title: Overview of the Securities and Exchange Commission (Algo Trading)
 ---
 
 Financial regulation plays a crucial role in ensuring the integrity of markets by establishing rules and standards that protect investors, maintain fair and efficient markets, and facilitate capital formation. The Securities and Exchange Commission (SEC) stands as a pivotal entity in the United States, charged with the oversight of securities markets. Established to enforce securities laws which promote full public disclosure, protect investors against fraudulent and manipulative practices, and regulate and monitor corporate takeovers, the SEC is integral to maintaining market order. Its responsibilities include the enforcement of federal securities laws, the regulation of securities exchanges, and the oversight of securities firms, investment advisors, and mutual funds, thereby building confidence among investors.

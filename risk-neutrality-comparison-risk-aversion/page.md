@@ -1,6 +1,8 @@
 ---
-title: "Risk Neutrality: Explanation and Comparison with Risk Aversion (Algo Trading)"
-description: "Discover how risk neutrality and risk aversion influence algorithmic trading strategies. Learn how traders apply these concepts to optimize trading outcomes."
+category: quant_concept
+description: Discover how risk neutrality and risk aversion influence algorithmic
+  trading strategies. Learn how traders apply these concepts to optimize trading outcomes.
+title: 'Risk Neutrality: Explanation and Comparison with Risk Aversion (Algo Trading)'
 ---
 
 In recent years, financial markets have seen a surge in interest in algorithmic trading, largely driven by technological advancements and enhanced data analytics capabilities. Algorithmic trading, which involves the use of computer algorithms to automate trading decisions, allows for faster and more efficient execution of trades. This approach leverages quantitative models and high-frequency data to make real-time trading decisions, reducing human error and emotional biases.

@@ -1,6 +1,8 @@
 ---
-title: "Impact of Large Mining Pools on Cryptocurrencies (Algo Trading)"
-description: "Explore the impact of large mining pools and algorithmic trading on the cryptocurrency market. Learn how these innovations shape crypto economics."
+category: quant_concept
+description: Explore the impact of large mining pools and algorithmic trading on the
+  cryptocurrency market. Learn how these innovations shape crypto economics.
+title: Impact of Large Mining Pools on Cryptocurrencies (Algo Trading)
 ---
 
 The cryptocurrency ecosystem has undergone significant evolution, characterized by the emergence of innovations such as mining pools and algorithmic trading. These advancements have fundamentally transformed the way cryptocurrencies are mined and traded, contributing to the dynamic nature of the market.

@@ -1,6 +1,8 @@
 ---
-title: "Calculating Gain and Loss on Stocks (Algo Trading)"
-description: "Explore essential concepts of stock gains and losses and the role algorithmic trading plays in modern markets. Learn to optimize investments today."
+category: trading_strategy
+description: Explore essential concepts of stock gains and losses and the role algorithmic
+  trading plays in modern markets. Learn to optimize investments today.
+title: Calculating Gain and Loss on Stocks (Algo Trading)
 ---
 
 Understanding stock losses and gains is a fundamental aspect for investors aiming to enhance their portfolios. At the core of successful investing lies the art of calculating investments, which involves balancing the potential risks against expected returns. This process requires a keen awareness of various financial metrics and indicators, which help in making informed decisions about where and how much to invest.

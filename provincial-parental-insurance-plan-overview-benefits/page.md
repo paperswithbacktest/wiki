@@ -1,6 +1,9 @@
 ---
-title: "Provincial Parental Insurance Plan: Overview and Benefits (Algo Trading)"
-description: "Explore the Provincial Parental Insurance Plan offering financial stability for new parents in Quebec by substituting income and providing comprehensive parental benefits."
+category: quant_concept
+description: Explore the Provincial Parental Insurance Plan offering financial stability
+  for new parents in Quebec by substituting income and providing comprehensive parental
+  benefits.
+title: 'Provincial Parental Insurance Plan: Overview and Benefits (Algo Trading)'
 ---
 
 The Provincial Parental Insurance Plan (PPIP) is a cornerstone of Canada's social protection framework, specifically established to offer essential financial assistance to new parents. This program plays a crucial role by providing economic stability during the significant life transition accompanying the arrival of a child. Understanding the PPIP, along with its benefits and how it contrasts with the federal benefits, can empower new parents in effectively managing their financial obligations.

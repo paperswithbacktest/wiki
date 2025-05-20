@@ -1,6 +1,11 @@
 ---
-title: "Israel Englander (Algo Trading)"
-description: Discover the influence of Israel Englander in the world of finance through algorithmic trading. As a leader in Millennium Management, Englander has pioneered data-driven trading strategies, reshaping modern practices with precision and innovation. Explore his journey from early education to his role in transforming Millennium into a global powerhouse, and understand how his methods have set industry benchmarks.
+category: quant_concept
+description: Discover the influence of Israel Englander in the world of finance through
+  algorithmic trading. As a leader in Millennium Management, Englander has pioneered
+  data-driven trading strategies, reshaping modern practices with precision and innovation.
+  Explore his journey from early education to his role in transforming Millennium
+  into a global powerhouse, and understand how his methods have set industry benchmarks.
+title: Israel Englander (Algo Trading)
 ---
 
 The world of finance is continuously advancing, with hedge fund managers like Israel Englander significantly influencing the field through algorithmic trading. Englander, a prominent figure in the financial sector, has demonstrated remarkable foresight and innovation, particularly through his leadership at Millennium Management. This article outlines Englander's path, highlighting his crucial role in the foundation and growth of Millennium Management and his profound influence on the development and adoption of algorithmic trading strategies.

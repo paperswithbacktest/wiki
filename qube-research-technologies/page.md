@@ -1,6 +1,15 @@
 ---
-title: "Qube Research & Technologies (Algo Trading)"
-description: Qube Research & Technologies Limited (QRT) is a leading British quantitative investment firm specializing in algorithmic trading and advanced quantitative methods. Leveraging cutting-edge technology, QRT excels in analyzing vast financial data, optimizing investment decisions, and predicting market movements with precision. Originally part of Credit Suisse, QRT emerged as a standalone entity following the implementation of the Volcker Rule, emphasizing its expertise in systematic trading strategies. Under the leadership of founders Pierre-Yves Morlat and Laurent Laizet, QRT has achieved significant growth and innovation in financial markets, managing US$20 billion in assets by 2024.
+category: quant_concept
+description: Qube Research & Technologies Limited (QRT) is a leading British quantitative
+  investment firm specializing in algorithmic trading and advanced quantitative methods.
+  Leveraging cutting-edge technology, QRT excels in analyzing vast financial data,
+  optimizing investment decisions, and predicting market movements with precision.
+  Originally part of Credit Suisse, QRT emerged as a standalone entity following the
+  implementation of the Volcker Rule, emphasizing its expertise in systematic trading
+  strategies. Under the leadership of founders Pierre-Yves Morlat and Laurent Laizet,
+  QRT has achieved significant growth and innovation in financial markets, managing
+  US$20 billion in assets by 2024.
+title: Qube Research & Technologies (Algo Trading)
 ---
 
 Qube Research & Technologies Limited (QRT) stands as a prominent player in the world of quantitative investment firms. As a British firm, QRT specializes in utilizing advanced quantitative methods and cutting-edge technology to navigate the complexities of the financial markets. The firm's primary focus on algorithmic trading underpins its investment strategy, enabling it to systematically analyze and manage vast volumes of financial data to optimize investment decisions.

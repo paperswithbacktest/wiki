@@ -1,6 +1,8 @@
 ---
-title: "Algorithmic Order Placement (Algo Trading)"
-description: "Explore the fundamentals of algorithmic trading to enhance efficiency and profitability in financial markets with automated computer algorithms for traders."
+category: quant_concept
+description: Explore the fundamentals of algorithmic trading to enhance efficiency
+  and profitability in financial markets with automated computer algorithms for traders.
+title: Algorithmic Order Placement (Algo Trading)
 ---
 
 Algorithmic order placement, commonly referred to as algo trading, has become an essential aspect of modern financial markets. This type of trading leverages the power of computer algorithms to automate the process of placing orders, enhancing both efficiency and profitability. By studying the fundamental concepts, benefits, and prevalent strategies in algorithmic trading, traders can better understand how to harness this technology effectively. The article aims to provide a thorough overview that caters to both beginners and seasoned investors eager to utilize algorithmic trading.

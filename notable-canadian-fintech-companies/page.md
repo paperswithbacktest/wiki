@@ -1,6 +1,9 @@
 ---
-title: "Notable Canadian Fintech Companies (Algo Trading)"
-description: "Explore the innovation of Canadian fintech companies driving the evolution of financial services through algo trading technology, transforming the industry landscape."
+category: dataset
+description: Explore the innovation of Canadian fintech companies driving the evolution
+  of financial services through algo trading technology, transforming the industry
+  landscape.
+title: Notable Canadian Fintech Companies (Algo Trading)
 ---
 
 The fintech industry in Canada has experienced rapid growth and development, playing a crucial role in reshaping the country's financial landscape. As technology advances, traditional financial services are being transformed to deliver more efficient, accessible, and tailored solutions to consumers and businesses alike. This transformation is largely driven by the integration of innovative technologies such as artificial intelligence, blockchain, and big data analytics, which enhance the performance, security, and personalization of financial services.

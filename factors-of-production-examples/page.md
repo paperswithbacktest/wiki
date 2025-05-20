@@ -1,6 +1,8 @@
 ---
-title: "Factors of Production with Examples (Algo Trading)"
-description: "Discover the core factors of production that drive economic growth and how technological advancements like algorithmic trading revolutionize markets."
+category: quant_concept
+description: Discover the core factors of production that drive economic growth and
+  how technological advancements like algorithmic trading revolutionize markets.
+title: Factors of Production with Examples (Algo Trading)
 ---
 
 In the evolving landscape of modern economics, understanding the key drivers of economic growth and development is crucial. At the heart of economic systems lie the factors of production—land, labor, capital, and entrepreneurship—each playing a distinct role in generating economic value. These factors serve as the building blocks for any production process, influencing how resources are allocated and utilized to meet societal needs.

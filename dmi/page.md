@@ -1,6 +1,10 @@
 ---
-title: "DMI (Directional Movement Index) Explained (Algo Trading)"
-description: Learn how the Directional Movement Index (DMI) is used in algorithmic trading to assess trend direction and strength. Explore its calculation, significance, and how it aids in making informed trading decisions to enhance strategies in various market conditions.
+category: quant_concept
+description: Learn how the Directional Movement Index (DMI) is used in algorithmic
+  trading to assess trend direction and strength. Explore its calculation, significance,
+  and how it aids in making informed trading decisions to enhance strategies in various
+  market conditions.
+title: DMI (Directional Movement Index) Explained (Algo Trading)
 ---
 
 Algorithmic trading, or algo trading, leverages computational algorithms to execute trades at speeds and frequencies that humans cannot match. This trading approach transforms the way financial markets operate by automating the buying and selling process based on pre-defined criteria, often using complex mathematical models to optimize decisions and minimize human error. One of the critical components of successful algorithmic trading is the use of technical indicators. These indicators are essential for identifying trends and signals in market data, helping traders make informed decisions with precision and speed.

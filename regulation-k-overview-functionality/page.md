@@ -1,6 +1,9 @@
 ---
-title: "Regulation K: Overview and Functionality (Algo Trading)"
-description: "Explore how Regulation K shapes international banking operations and its impact on algorithmic trading ensuring fair practices within global financial markets."
+category: quant_concept
+description: Explore how Regulation K shapes international banking operations and
+  its impact on algorithmic trading ensuring fair practices within global financial
+  markets.
+title: 'Regulation K: Overview and Functionality (Algo Trading)'
 ---
 
 In a constantly globalizing economy, international banking regulations have become increasingly critical for financial institutions around the world. Among these, Regulation K stands out as a significant regulatory framework that governs the international banking operations of U.S. banks, as well as foreign banks operating within the United States. Introduced by the Federal Reserve Board and the Federal Deposit Insurance Corporation (FDIC), Regulation K plays an integral role in both facilitating and controlling the international banking environment, ensuring compliance and fair play in cross-border banking practices.

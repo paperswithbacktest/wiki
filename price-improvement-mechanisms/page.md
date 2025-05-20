@@ -1,6 +1,9 @@
 ---
-title: "Price Improvement Mechanisms (Algo Trading)"
-description: "Explore how algorithmic trading strategies enhance price improvement by leveraging advanced technology. Discover the impact on efficiency and profitability in finance."
+category: quant_concept
+description: Explore how algorithmic trading strategies enhance price improvement
+  by leveraging advanced technology. Discover the impact on efficiency and profitability
+  in finance.
+title: Price Improvement Mechanisms (Algo Trading)
 ---
 
 In the world of finance, trading strategies play a crucial role in enabling traders to realize their financial goals. Central to this modern trading landscape is algorithmic trading, often referred to as algo trading. This approach leverages advanced computer programs to execute trades automatically, adhering to a set of pre-defined instructions without the need for continual human intervention. The rise of algorithmic trading has been driven by its ability to offer price improvements—trading at better prices than those initially quoted—thereby helping traders maximize their returns.

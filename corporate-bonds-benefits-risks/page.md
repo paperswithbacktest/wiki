@@ -1,6 +1,8 @@
 ---
-title: "Corporate Bonds: Benefits and Risks (Algo Trading)"
-description: "Explore the benefits and risks of corporate bonds as fixed-income investments, including insights on algorithmic trading's impact on bond markets."
+category: quant_concept
+description: Explore the benefits and risks of corporate bonds as fixed-income investments,
+  including insights on algorithmic trading's impact on bond markets.
+title: 'Corporate Bonds: Benefits and Risks (Algo Trading)'
 ---
 
 Corporate bonds are a popular choice for fixed-income investors due to their potential to offer higher returns compared to other fixed-income securities, such as government bonds. These financial instruments are essentially debt securities issued by corporations to raise capital for various purposes, such as expanding operations, funding mergers, or refinancing existing debt. When investors purchase corporate bonds, they are effectively lending money to the issuing company in exchange for periodic interest payments and the return of the bond's face value upon maturity.

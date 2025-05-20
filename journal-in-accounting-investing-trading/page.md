@@ -1,6 +1,9 @@
 ---
-title: "Journal in Accounting, Investing, and Trading (Algo Trading)"
-description: "Explore the vital role of journals in accounting investing and trading Learn how strategic documentation aids in decision-making and enhances financial success"
+category: trading_strategy
+description: Explore the vital role of journals in accounting investing and trading
+  Learn how strategic documentation aids in decision-making and enhances financial
+  success
+title: Journal in Accounting, Investing, and Trading (Algo Trading)
 ---
 
 Journals in financial domains, including investing, trading, and accounting, serve as systematic records for financial transactions, strategies, and performance assessments. These journals are indispensable tools designed to document, track, and analyze activities within these fields, providing a structured approach for improving financial decisions and outcomes. 

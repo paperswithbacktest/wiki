@@ -1,6 +1,9 @@
 ---
-title: "ProShares: Overview and Functionality (Algo Trading)"
-description: "Discover ProShares' innovative ETFs and algorithmic trading strategies tailored to diverse investment goals Enhance your portfolio with strategic financial solutions"
+category: quant_concept
+description: Discover ProShares' innovative ETFs and algorithmic trading strategies
+  tailored to diverse investment goals Enhance your portfolio with strategic financial
+  solutions
+title: 'ProShares: Overview and Functionality (Algo Trading)'
 ---
 
 In the ever-evolving landscape of financial investments, ProShares stands out as a prominent player with its variety of financial products. Specializing in exchange-traded funds (ETFs), ProShares offers products that cover a wide range of asset classes and investment strategies. ETFs are investment funds traded on stock exchanges, much like stocks, and have become popular due to their tax efficiency, transparency, and ability to track various indices. ProShares capitalizes on these advantages to meet the diverse needs of investors.

@@ -1,6 +1,13 @@
 ---
-title: "Backtesting Systematic Trading Strategies in Python: Considerations and Open-Source Frameworks (Algo Trading)"
-description: Explore the transformative role of backtesting in algorithmic trading with Python. Learn how traders leverage Python's robust libraries and frameworks to optimize and validate strategies using historical data. This guide examines the advantages of using Python for backtesting, highlighting essential frameworks like PyAlgoTrade, Backtrader, and Zipline that aid in refining trading algorithms to enhance performance and reduce risk.
+category: trading_strategy
+description: Explore the transformative role of backtesting in algorithmic trading
+  with Python. Learn how traders leverage Python's robust libraries and frameworks
+  to optimize and validate strategies using historical data. This guide examines the
+  advantages of using Python for backtesting, highlighting essential frameworks like
+  PyAlgoTrade, Backtrader, and Zipline that aid in refining trading algorithms to
+  enhance performance and reduce risk.
+title: 'Backtesting Systematic Trading Strategies in Python: Considerations and Open-Source
+  Frameworks (Algo Trading)'
 ---
 
 Algorithmic trading has transformed the landscape of financial markets. It allows traders and institutions to leverage automation and data-driven strategies to capitalize on market inefficiencies. Central to this transformation is backtesting, a process that evaluates the viability of trading strategies against historical data. This process involves simulating a strategy's performance over time, enabling traders to carefully analyze and refine their approaches before exposing capital in live markets.

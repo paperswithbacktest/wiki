@@ -1,6 +1,9 @@
 ---
-title: "Overallotment in Financial Markets (Algo Trading)"
-description: "Explore the interplay between overallotment stock offerings and algorithmic trading in financial markets to understand modern IPO price stabilization and market dynamics."
+category: quant_concept
+description: Explore the interplay between overallotment stock offerings and algorithmic
+  trading in financial markets to understand modern IPO price stabilization and market
+  dynamics.
+title: Overallotment in Financial Markets (Algo Trading)
 ---
 
 The financial industry is marked by a continuous cycle of innovation, driven by the development of new financial instruments and technological advancements. Among these innovations, overallotment stock offerings, also known as greenshoe options, have become crucial in the initial public offering (IPO) process. These options enable underwriters to stabilize stock prices in the often volatile period following an IPO. By allowing for the sale of additional shares, overallotment options can help balance supply and demand, thus preventing large price swings.

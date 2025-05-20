@@ -1,6 +1,9 @@
 ---
-title: "Relative Purchasing Power Parity in Economics (Algo Trading)"
-description: "Explore the relationship between Relative Purchasing Power Parity and algorithmic trading Learn how understanding exchange rates and inflation impacts financial markets"
+category: quant_concept
+description: Explore the relationship between Relative Purchasing Power Parity and
+  algorithmic trading Learn how understanding exchange rates and inflation impacts
+  financial markets
+title: Relative Purchasing Power Parity in Economics (Algo Trading)
 ---
 
 In today's global economy, the dynamics of exchange rates and purchasing power play a pivotal role for investors and traders. Understanding these elements is crucial for navigating the financial markets effectively. One fundamental economic theory that connects inflation rates with exchange rates is Relative Purchasing Power Parity (RPPP). This concept suggests that exchange rates between two countries should adjust to reflect changes in their respective inflation rates, thereby maintaining the purchasing power balance over time.

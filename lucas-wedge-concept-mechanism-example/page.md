@@ -1,6 +1,9 @@
 ---
-title: "Lucas Wedge: Concept and Mechanism with Example (Algo Trading)"
-description: "Explore the Lucas Wedge concept and its role in algorithmic trading Enhance your understanding of economic growth metrics like GDP and their impact on trading strategies"
+category: quant_concept
+description: Explore the Lucas Wedge concept and its role in algorithmic trading Enhance
+  your understanding of economic growth metrics like GDP and their impact on trading
+  strategies
+title: 'Lucas Wedge: Concept and Mechanism with Example (Algo Trading)'
 ---
 
 Understanding economic growth metrics is essential for both policymakers and investors. These metrics offer a clear picture of a nation's economic health and guide strategic economic planning and investment decisions. Key concepts such as Gross Domestic Product (GDP) growth and the Lucas Wedge provide distinct perspectives on economic performance. GDP growth is a fundamental measure of an economy's overall output and living standard improvements, indicating an increase in the production of goods and services. In contrast, the Lucas Wedge examines inefficiencies in policy that may result in unrealized economic potential. It highlights how suboptimal decisions can lead to significant long-term economic losses.

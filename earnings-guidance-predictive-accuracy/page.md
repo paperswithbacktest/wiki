@@ -1,6 +1,9 @@
 ---
-title: "Earnings Guidance and Predictive Accuracy (Algo Trading)"
-description: "Explore the impact of earnings guidance on financial markets and its role in algorithmic trading. Understand predictive accuracy, market dynamics, and investor strategies."
+category: quant_concept
+description: Explore the impact of earnings guidance on financial markets and its
+  role in algorithmic trading. Understand predictive accuracy, market dynamics, and
+  investor strategies.
+title: Earnings Guidance and Predictive Accuracy (Algo Trading)
 ---
 
 Earnings guidance and its predictive accuracy are pivotal in financial forecasting and algorithmic trading. This guidance comprises projections made by companies regarding their anticipated financial performance, including parameters like expected revenue, profit margins, and earnings per share. These insights are integral for market participants, providing them with a framework to anticipate future company performance and adjust their investment strategies accordingly.

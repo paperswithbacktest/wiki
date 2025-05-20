@@ -1,7 +1,8 @@
 ---
-title: Understanding Inference Extrapolation in Machine Learning Models
+category: quant_concept
 description: Inference extrapolation helps ML models extend predictions beyond training
   data with ALiBi and patching for reliable insights Discover more inside
+title: Understanding Inference Extrapolation in Machine Learning Models
 ---
 
 ![Image](images/1.png)

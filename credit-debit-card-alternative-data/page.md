@@ -1,6 +1,15 @@
 ---
-title: "Credit/Debit Card Alternative Data (Algo Trading)"
-description: In the dynamic landscape of financial markets, traders are increasingly turning to alternative data sources like credit and debit card transactions to gain a competitive edge. This data offers near real-time insights into consumer behavior, enabling traders to identify market trends and shifts ahead of traditional financial metrics. By integrating these transaction insights into algorithmic trading strategies, traders can detect emerging consumer trends, predict market movements, and strategize more effectively. This innovative use of credit/debit card data is reshaping trading tactics, providing unique opportunities and challenges in understanding market dynamics and improving decision-making processes.
+category: dataset
+description: In the dynamic landscape of financial markets, traders are increasingly
+  turning to alternative data sources like credit and debit card transactions to gain
+  a competitive edge. This data offers near real-time insights into consumer behavior,
+  enabling traders to identify market trends and shifts ahead of traditional financial
+  metrics. By integrating these transaction insights into algorithmic trading strategies,
+  traders can detect emerging consumer trends, predict market movements, and strategize
+  more effectively. This innovative use of credit/debit card data is reshaping trading
+  tactics, providing unique opportunities and challenges in understanding market dynamics
+  and improving decision-making processes.
+title: Credit/Debit Card Alternative Data (Algo Trading)
 ---
 
 In the fast-paced world of financial markets, where decisions are made in fractions of a second, the quest for a competitive edge is crucial for successful trading. Traders, fueled by the relentless drive to outperform market benchmarks, are constantly seeking new sources of data that can reveal hidden patterns and provide insights necessary for informed investment decisions. With traditional financial metrics offering only a partial view, a captivating trend has emerged in algorithmic trading: the integration of alternative data sources.

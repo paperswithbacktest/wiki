@@ -1,6 +1,9 @@
 ---
-title: "Elk Capital Markets (Algo Trading)"
-description: "Explore Elk Capital Markets a leader in algorithmic trading offering cutting-edge technology to optimize trades minimize risks and stay ahead in financial markets"
+category: trading_strategy
+description: Explore Elk Capital Markets a leader in algorithmic trading offering
+  cutting-edge technology to optimize trades minimize risks and stay ahead in financial
+  markets
+title: Elk Capital Markets (Algo Trading)
 ---
 
 Elk Capital Markets is a distinguished company specializing in algorithmic trading, a field that has revolutionized modern financial markets by automating complex trading processes and optimizing decision-making. As a leader in this sector, Elk Capital Markets leverages advanced algorithms to execute trades with precision and expediency, minimizing human error and reacting swiftly to market movements.

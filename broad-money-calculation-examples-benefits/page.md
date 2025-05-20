@@ -1,6 +1,12 @@
 ---
-title: "Broad Money: Calculation, Examples, and Benefits (Algo Trading)"
-description: "Explore the complexities of broad money and its significance in economic analysis and algorithmic trading. Discover how broad money serves as a key indicator of an economy's liquidity and potential inflationary pressures, influencing both monetary policy and trading strategies. Understand the calculation methods and components of broad money and its role in modern financial markets, providing essential insights for traders and policymakers."
+category: quant_concept
+description: Explore the complexities of broad money and its significance in economic
+  analysis and algorithmic trading. Discover how broad money serves as a key indicator
+  of an economy's liquidity and potential inflationary pressures, influencing both
+  monetary policy and trading strategies. Understand the calculation methods and components
+  of broad money and its role in modern financial markets, providing essential insights
+  for traders and policymakers.
+title: 'Broad Money: Calculation, Examples, and Benefits (Algo Trading)'
 ---
 
 Economic analysis relies heavily on understanding broad money, money supply, and algorithmic trading. Broad money is a critical measure of an economy's liquidity, encompassing the entire money supply, which includes both physical and electronic currencies as well as other near-money assets. It serves as a crucial indicator of potential inflationary pressures and overall economic health. Monitoring changes in broad money can help in predicting inflationary trends and provides valuable insights into the availability of financial resources in the economy.

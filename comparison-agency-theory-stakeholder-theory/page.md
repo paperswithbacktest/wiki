@@ -1,6 +1,9 @@
 ---
-title: "Comparison of Agency Theory and Stakeholder Theory (Algo Trading)"
-description: "Explore how Agency and Stakeholder Theories offer unique insights into corporate governance in algo trading Learn about managing stakeholder relationships and aligning incentives"
+category: quant_concept
+description: Explore how Agency and Stakeholder Theories offer unique insights into
+  corporate governance in algo trading Learn about managing stakeholder relationships
+  and aligning incentives
+title: Comparison of Agency Theory and Stakeholder Theory (Algo Trading)
 ---
 
 In business and finance, understanding the intricate relationships between stakeholders in a corporation is crucial. These relationships can greatly influence corporate governance, operational efficiency, and strategic decision-making. Two prominent theories that offer frameworks for analyzing these relationships are Stakeholder Theory and Agency Theory. Although both theories provide valuable insights into organizational behavior, they differ significantly in their focus and implications.

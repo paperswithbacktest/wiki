@@ -1,6 +1,8 @@
 ---
-title: "High-Low Method in Accounting (Algo Trading)"
-description: "Discover how the High-Low Method, a traditional accounting tool for cost estimation, integrates with algorithmic trading to optimize execution strategies."
+category: quant_concept
+description: Discover how the High-Low Method, a traditional accounting tool for cost
+  estimation, integrates with algorithmic trading to optimize execution strategies.
+title: High-Low Method in Accounting (Algo Trading)
 ---
 
 In the evolving landscape of finance and investing, effective cost management and strategic trading are critical components for success. In recent years, traditional accounting cost estimation techniques, such as the High-Low method, have found applications beyond their original scope, penetrating into the world of modern algorithmic trading. This convergence of accounting practices with algorithmic trading reflects a broader trend towards integrating proven financial methodologies into cutting-edge trading frameworks.

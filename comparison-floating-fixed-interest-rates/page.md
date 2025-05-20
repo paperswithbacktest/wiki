@@ -1,6 +1,8 @@
 ---
-title: "Comparison of Floating and Fixed Interest Rates (Algo Trading)"
-description: "Explore the essential differences between floating and fixed interest rates and their impact on algorithmic trading to make informed investment decisions."
+category: quant_concept
+description: Explore the essential differences between floating and fixed interest
+  rates and their impact on algorithmic trading to make informed investment decisions.
+title: Comparison of Floating and Fixed Interest Rates (Algo Trading)
 ---
 
 Understanding interest rates is vital in financial markets, impacting both individual and institutional investment strategies. Interest rates, whether floating or fixed, play a crucial role in financial planning, influencing borrowing costs and returns on investments. This article will cover the concepts of floating and fixed rate interest rates, emphasizing their significance in algorithmic trading.

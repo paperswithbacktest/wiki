@@ -1,6 +1,9 @@
 ---
-title: "Volume of Trade: Mechanisms and Significance (Algo Trading)"
-description: "Explore the key aspects of trade volume and its role in financial markets, including its impact on liquidity, investor interest, and modern algorithmic trading methods."
+category: quant_concept
+description: Explore the key aspects of trade volume and its role in financial markets,
+  including its impact on liquidity, investor interest, and modern algorithmic trading
+  methods.
+title: 'Volume of Trade: Mechanisms and Significance (Algo Trading)'
 ---
 
 The world of trading is vast and complex, characterized by a myriad of influencing factors. This article seeks to explore these intricacies by examining various components like trading mechanisms, economic indicators, and algorithmic trading. At the core of trading, trade volume represents the total quantity of a security exchanged within a specific timeframe. It serves as a critical metric for assessing market liquidity and gauging investor interest. Furthermore, understanding how underlying systems process trades can enhance efficiency and maximize trading outcomes.

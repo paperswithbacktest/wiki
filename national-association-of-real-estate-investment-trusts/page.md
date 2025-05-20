@@ -1,6 +1,8 @@
 ---
-title: "National Association of Real Estate Investment Trusts (Algo Trading)"
-description: "Discover how REITs under Nareit's guidance and algorithmic trading are transforming real estate investment by optimizing strategies and maximizing returns."
+category: quant_concept
+description: Discover how REITs under Nareit's guidance and algorithmic trading are
+  transforming real estate investment by optimizing strategies and maximizing returns.
+title: National Association of Real Estate Investment Trusts (Algo Trading)
 ---
 
 Real estate investment is a complex and diverse field, offering a range of opportunities for investors to earn income and build wealth. One significant player in this landscape is Nareit, the National Association of Real Estate Investment Trusts. Nareit serves as a key advocate and representative for REITs, which are investment vehicles that allow individuals to invest in portfolios of real estate assets without owning the properties directly. By pooling together capital from many investors, REITs provide a way to generate income from large-scale commercial real estate ventures.

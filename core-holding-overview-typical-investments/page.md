@@ -1,6 +1,9 @@
 ---
-title: "Core Holding: Overview and Typical Investments (Algo Trading)"
-description: "Explore the synergy between typical investments core holdings and algorithmic trading to craft robust adaptive portfolios that optimize performance and manage risks."
+category: trading_strategy
+description: Explore the synergy between typical investments core holdings and algorithmic
+  trading to craft robust adaptive portfolios that optimize performance and manage
+  risks.
+title: 'Core Holding: Overview and Typical Investments (Algo Trading)'
 ---
 
 Investment strategies play a vital role in helping individuals achieve their financial objectives within the dynamic landscape of global markets. They serve as crucial frameworks that guide decision-making processes, optimize asset allocation, and manage risk to meet specific financial goals. This article investigates into the intricate relationship between typical investments, core holdings, and algorithmic trading, shedding light on how these components synergize to form robust investment portfolios.
@@ -143,4 +146,3 @@ In conclusion, the integration of typical investments, core holdings, and algori
    - *Khan Academy* - Offers a variety of courses on personal finance and investing, helping individuals understand the foundations of different investment strategies.
 
 These resources offer valuable insights into how typical investments, core holdings, and algorithmic trading can be effectively integrated into a well-rounded investment strategy.
-

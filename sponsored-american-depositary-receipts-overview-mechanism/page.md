@@ -1,6 +1,8 @@
 ---
-title: "Sponsored American Depositary Receipts: Overview and Mechanism (Algo Trading)"
-description: "Explore the world of Sponsored American Depositary Receipts with insights into their mechanisms and the impact of algorithmic trading in global investments."
+category: quant_concept
+description: Explore the world of Sponsored American Depositary Receipts with insights
+  into their mechanisms and the impact of algorithmic trading in global investments.
+title: 'Sponsored American Depositary Receipts: Overview and Mechanism (Algo Trading)'
 ---
 
 The globalization of financial markets has significantly expanded investment opportunities, allowing investors to diversify their portfolios beyond domestic borders. One notable financial instrument facilitating this trend is the American Depositary Receipt (ADR), which provides a streamlined mechanism for U.S. investors to engage with international equities. ADRs simplify the process of investing in foreign stocks by allowing shares of these companies to be traded on U.S. exchanges, denominated in U.S. dollars. This reduces the complexities associated with direct investment in international markets, such as currency conversion and foreign regulatory compliance.
@@ -169,4 +171,3 @@ This FAQ section addresses key aspects of ADR investments and the role of algori
 [6]: Menkhoff, L. (2010). ["The Use of Technical Analysis in the Foreign Exchange Market."](https://www.econstor.eu/bitstream/10419/38748/1/625491165.pdf) Journal of Banking & Finance, 34(11).
 
 [7]: The Bank of New York Mellon. ["The Benefits of American Depositary Receipts (ADRs)"](https://www.bnymellon.com/content/dam/bnymellon/documents/pdf/depositary-receipts-brochure.pdf)
-

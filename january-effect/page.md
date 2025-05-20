@@ -1,6 +1,10 @@
 ---
-title: "January effect (Algo Trading)"
-description: Explore the impact of the January Effect on algorithmic trading and learn strategies to capitalize on this seasonal stock market phenomenon where small-cap stocks often surge in January. Discover the historical background, causes, and implications of this anomaly in an automated trading environment.
+category: trading_strategy
+description: Explore the impact of the January Effect on algorithmic trading and learn
+  strategies to capitalize on this seasonal stock market phenomenon where small-cap
+  stocks often surge in January. Discover the historical background, causes, and implications
+  of this anomaly in an automated trading environment.
+title: January effect (Algo Trading)
 ---
 
 The stock market is influenced by various seasonal patterns and anomalies, one of which is the January Effect—an occurrence where stock prices, predominantly those of small-cap stocks, often experience a notable increase during January compared to other months. Initially documented in the mid-20th century, this phenomenon has intrigued investors as it presents potential opportunities for returns that deviate from typical market behavior.

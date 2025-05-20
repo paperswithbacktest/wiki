@@ -1,6 +1,8 @@
 ---
-title: "Insurtech and Its Impact on the Insurance Industry (Algo Trading)"
-description: "Discover how insurtech is revolutionizing the insurance industry by integrating technology and algorithmic trading for enhanced efficiency and customer experience."
+category: quant_concept
+description: Discover how insurtech is revolutionizing the insurance industry by integrating
+  technology and algorithmic trading for enhanced efficiency and customer experience.
+title: Insurtech and Its Impact on the Insurance Industry (Algo Trading)
 ---
 
 The insurance industry is currently witnessing a substantial transformation fueled by technological advancements. Insurtech, a portmanteau of "insurance technology," embodies this shift. It is an evolving field that harnesses cutting-edge technology to innovate and enhance various facets of the insurance sector. This article addresses the significant influence of insurtech and its integration with algorithmic trading, both of which play crucial roles in elevating the efficiency and effectiveness of insurance operations.

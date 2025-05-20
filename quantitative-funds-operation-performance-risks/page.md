@@ -1,6 +1,8 @@
 ---
-title: "Quantitative Funds: Operation, Performance, and Risks (Algo Trading)"
-description: "Explore the world of quantitative funds and algorithmic trading, highlighting their operation, performance, and risks in today's data-driven investment landscape."
+category: quant_concept
+description: Explore the world of quantitative funds and algorithmic trading, highlighting
+  their operation, performance, and risks in today's data-driven investment landscape.
+title: 'Quantitative Funds: Operation, Performance, and Risks (Algo Trading)'
 ---
 
 Investment in quantitative funds and algorithmic trading has surged in recent years, reflecting a broader trend towards data-driven investment strategies. Quantitative funds, or quant funds, rely on sophisticated mathematical models to analyze vast amounts of data, making investment decisions that are less subject to human bias and error. These funds use algorithms to systematically buy and sell financial instruments, often executing trades at a speed and volume that would be impossible for human traders to match.

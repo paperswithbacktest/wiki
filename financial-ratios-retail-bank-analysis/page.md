@@ -1,6 +1,8 @@
 ---
-title: "Financial Ratios for Retail Bank Analysis (Algo Trading)"
-description: "Explore financial ratios crucial for retail bank analysis and understand how algorithmic trading enhances efficiency and profitability in modern banking."
+category: quant_concept
+description: Explore financial ratios crucial for retail bank analysis and understand
+  how algorithmic trading enhances efficiency and profitability in modern banking.
+title: Financial Ratios for Retail Bank Analysis (Algo Trading)
 ---
 
 In the rapidly evolving landscape of the financial industry, understanding the performance and stability of retail banks is crucial. Financial ratios offer key insights into a bank's operational efficiency and market standing, serving as essential tools for investors and financial analysts. These ratios allow stakeholders to assess various aspects of a bank's operations, providing a quantitative foundation for evaluating its financial health.

@@ -1,6 +1,9 @@
 ---
-title: "Cum Warrant (Algo Trading)"
-description: "Explore the synergy between stock warrants and algorithmic trading in modern investment strategies. Learn how these tools can optimize trading and manage risks."
+category: quant_concept
+description: Explore the synergy between stock warrants and algorithmic trading in
+  modern investment strategies. Learn how these tools can optimize trading and manage
+  risks.
+title: Cum Warrant (Algo Trading)
 ---
 
 Stock warrants and various financial instruments have gained prominence among traders and investors. This article focuses on stock warrants, cum warrants, and their connection with algorithmic trading. These financial tools are integral to contemporary trading strategies, offering both opportunities and challenges. Warrants, in particular, provide a mechanism for investors to potentially benefit from future stock price movements without immediate equity ownership.

@@ -1,6 +1,8 @@
 ---
-title: "Record Date vs. Payable Date (Algo Trading)"
-description: "Explore how algorithmic trading can enhance dividend strategies by understanding crucial dates like record and payable dates to optimize investment returns."
+category: quant_concept
+description: Explore how algorithmic trading can enhance dividend strategies by understanding
+  crucial dates like record and payable dates to optimize investment returns.
+title: Record Date vs. Payable Date (Algo Trading)
 ---
 
 Dividends are a vital component of the investment landscape, offering investors a consistent source of income. As companies generate profits, they may choose to distribute a portion of these earnings to shareholders in the form of dividends. This distribution not only rewards shareholders but also reflects a company's financial health and commitment to its investors.
@@ -159,4 +161,3 @@ Investors looking to maintain a competitive edge should be proactive in adopting
 10. Lease, R. C., John, K., Kalay, A., Loewenstein, U., & Sarig, O. (2000). *Dividend Policy: Its Impact on Firm Value*. Harvard Business Review Press. This publication explores how different dividend policies can influence a company's market value.
 
 For those interested in machine learning applications in algorithmic trading, incorporating dividend data may benefit from exploring sources such as Pärsson, S. (2013), "Algorithmic Trading Using Machine Learning," available via university repositories or industry-specific publications. Additionally, data-driven platforms like QuantConnect or backtesting frameworks such as Zipline in Python are valuable for refining algorithmic strategies involving dividend dates.
-

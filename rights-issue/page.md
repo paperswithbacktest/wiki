@@ -1,6 +1,12 @@
 ---
-title: "Rights Issue (Algo Trading)"
-description: "Explore the essential concepts of stock offerings, rights issues, and algorithmic trading to understand their impact on capital markets. Learn how companies raise funds and manage equity to enhance their financial position while offering investors opportunities to expand their portfolios. Navigate the intricacies of these financial mechanisms to make informed investment decisions in a rapidly evolving trading landscape."
+category: quant_concept
+description: Explore the essential concepts of stock offerings, rights issues, and
+  algorithmic trading to understand their impact on capital markets. Learn how companies
+  raise funds and manage equity to enhance their financial position while offering
+  investors opportunities to expand their portfolios. Navigate the intricacies of
+  these financial mechanisms to make informed investment decisions in a rapidly evolving
+  trading landscape.
+title: Rights Issue (Algo Trading)
 ---
 
 In finance, understanding mechanisms such as stock offerings, rights issues, equity financing, and algorithmic trading is essential for both investors and companies. These concepts form the backbone of capital markets, influencing how corporations raise funds and how investors make decisions. Stock offerings, including Initial Public Offerings (IPOs) and secondary offerings, enable companies to generate capital by issuing shares to the public. This influx of capital is critical for business expansion, debt management, and other strategic initiatives.

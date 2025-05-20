@@ -1,6 +1,8 @@
 ---
-title: "Norwegian Krone: History and FAQs (Algo Trading)"
-description: "Discover the evolution and impact of the Norwegian Krone in global financial markets, from historical roots to modern algorithmic trading dynamics."
+category: quant_concept
+description: Discover the evolution and impact of the Norwegian Krone in global financial
+  markets, from historical roots to modern algorithmic trading dynamics.
+title: 'Norwegian Krone: History and FAQs (Algo Trading)'
 ---
 
 The Norwegian Krone (NOK) is a notable currency within international markets, recognized as the official monetary unit of Norway. Its significance is not just limited to the functioning of Norway's domestic economy but also extends to its influence on global financial transactions. Introduced in the late 19th century, the NOK has experienced substantial shifts, mirroring the broader trends in the global financial landscape. From its origins as part of the Scandinavian Monetary Union to its current status as a floating currency, the Krone's evolution reflects Norway's adaptive economic strategies.

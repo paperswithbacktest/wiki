@@ -1,6 +1,12 @@
 ---
-title: "Economy: Types and Indicators (Algo Trading)"
-description: "Explore the intricacies of global economies and their impact on trading strategies. Delve into market-based, command-based, and mixed economies while understanding key economic indicators like GDP, unemployment rates, inflation, and trade balances. Learn how these elements influence algorithmic trading, enabling professionals to predict trends, manage risks, and optimize returns for a competitive edge in global markets."
+category: quant_concept
+description: Explore the intricacies of global economies and their impact on trading
+  strategies. Delve into market-based, command-based, and mixed economies while understanding
+  key economic indicators like GDP, unemployment rates, inflation, and trade balances.
+  Learn how these elements influence algorithmic trading, enabling professionals to
+  predict trends, manage risks, and optimize returns for a competitive edge in global
+  markets.
+title: 'Economy: Types and Indicators (Algo Trading)'
 ---
 
 The global economy is a complex network of interrelated systems that play a crucial role in resource allocation. This interconnectedness impacts financial markets, influencing trade, investment, and strategy formation across geographies. Understanding the nuances of various economic structures, their indicators, and implications in trading is essential for financial professionals and investors alike.

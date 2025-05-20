@@ -1,6 +1,8 @@
 ---
-title: "Master Swap Agreement: Overview and Historical Context (Algo Trading)"
-description: "Explore the Master Swap Agreement's history and its pivotal role in algorithmic trading by understanding its structure's evolution in OTC derivatives."
+category: quant_concept
+description: Explore the Master Swap Agreement's history and its pivotal role in algorithmic
+  trading by understanding its structure's evolution in OTC derivatives.
+title: 'Master Swap Agreement: Overview and Historical Context (Algo Trading)'
 ---
 
 The Master Swap Agreement is a fundamental component of the global finance system, providing a standardized structure that guides transactions in the over-the-counter (OTC) derivatives market. Developed and maintained by the International Swaps and Derivatives Association (ISDA), this agreement establishes a common framework to manage the complexities and inherent risks associated with derivatives trading across various jurisdictions and currencies. The agreement's widespread adoption and continual evolution underscore its importance in ensuring legal certainty and operational efficiency in the derivatives market.

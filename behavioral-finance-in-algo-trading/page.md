@@ -1,6 +1,8 @@
 ---
-title: "Behavioral Finance in Algo Trading (Algo Trading)"
-description: "Explore the fusion of behavioral finance and algorithmic trading Learn how cognitive biases like overconfidence impact markets and optimize trading strategies"
+category: quant_concept
+description: Explore the fusion of behavioral finance and algorithmic trading Learn
+  how cognitive biases like overconfidence impact markets and optimize trading strategies
+title: Behavioral Finance in Algo Trading (Algo Trading)
 ---
 
 Behavioral finance represents a pioneering amalgamation of psychology and traditional financial theories, offering a profound understanding of market behaviors. This field acknowledges the significant role of emotional and cognitive biases that influence decision-making processes in financial markets. Traditional financial models often assume that investors act rationally, processing available information efficiently to maximize their utility. However, behavioral finance challenges this notion by recognizing that human decisions are frequently affected by biases such as overconfidence, anchoring, and herd mentality.
@@ -174,4 +176,3 @@ Pompian, M. M. (2011). Behavioral Finance and Wealth Management, integrates beha
 De Bondt, W. F. M., & Thaler, R. H. (1985). Does the Stock Market Overreact?, investigates the phenomenon of overreaction in stock markets. This pioneering study demonstrates how investors' overreactions to news can lead to price anomalies and potential profit opportunities.
 
 Shefrin, H. (2002). Beyond Greed and Fear: Understanding Behavioral Finance and the Psychology of Investing, offers readers an in-depth examination of the psychological forces that drive financial markets. Shefrin explains how emotions such as greed and fear influence investor behavior and affect market dynamics.
-

@@ -1,6 +1,9 @@
 ---
-title: "Limited Government and Its Functioning (Algo Trading)"
-description: "Explore how limited government principles influence innovation within algorithmic trading, highlighting the historical and modern implications for financial markets."
+category: quant_concept
+description: Explore how limited government principles influence innovation within
+  algorithmic trading, highlighting the historical and modern implications for financial
+  markets.
+title: Limited Government and Its Functioning (Algo Trading)
 ---
 
 The article investigates the intersection of government structure, political theory, and algorithmic trading strategies, focusing on how principles of limited government can influence economic environments conducive to innovation. Limited government, characterized by its foundational principle of constraining governmental authority to preserve individual freedoms, plays a crucial role in shaping various sectors, including the rapidly evolving field of algorithmic trading. This concept is deeply rooted in historical frameworks and philosophical contributions from key periods such as the Enlightenment, which have emphasized the importance of minimizing state intervention. Through this lens, the piece analyzes how limited government frameworks can be linked to practical applications within financial markets.

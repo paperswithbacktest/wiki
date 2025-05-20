@@ -1,6 +1,8 @@
 ---
-title: "Bear Put Spread: Overview, Examples, Usage, and Risks (Algo Trading)"
-description: "Explore the Bear Put Spread strategy to manage risk in options trading. Learn how to profit from market downturns with algorithmic trading optimization."
+category: trading_strategy
+description: Explore the Bear Put Spread strategy to manage risk in options trading.
+  Learn how to profit from market downturns with algorithmic trading optimization.
+title: 'Bear Put Spread: Overview, Examples, Usage, and Risks (Algo Trading)'
 ---
 
 Options trading presents numerous strategies that investors can utilize to capitalize on market movements. Among these strategies, the Bear Put Spread is noteworthy for investors anticipating a downturn in a specific asset. This method involves the strategic use of put options to create a defined risk, defined reward setup that enables traders to profit from declines in the underlying asset’s price. 

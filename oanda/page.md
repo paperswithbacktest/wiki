@@ -1,6 +1,14 @@
 ---
-title: "Oanda (Algo Trading)"
-description: Discover how OANDA empowers algorithmic trading with its advanced API tools and seamless integration for Forex and CFD markets. Explore OANDA's platform for real-time trading, detailed market data, and robust APIs that support custom trading strategies. Learn how Python can leverage these tools for automated trading strategies, data retrieval, and backtesting, offering traders precision and confidence in the dynamic financial landscape. With its intuitive design and comprehensive features, OANDA provides traders the opportunity to maximize their potential and gain a competitive advantage in the world of automated trading.
+category: trading_strategy
+description: Discover how OANDA empowers algorithmic trading with its advanced API
+  tools and seamless integration for Forex and CFD markets. Explore OANDA's platform
+  for real-time trading, detailed market data, and robust APIs that support custom
+  trading strategies. Learn how Python can leverage these tools for automated trading
+  strategies, data retrieval, and backtesting, offering traders precision and confidence
+  in the dynamic financial landscape. With its intuitive design and comprehensive
+  features, OANDA provides traders the opportunity to maximize their potential and
+  gain a competitive advantage in the world of automated trading.
+title: Oanda (Algo Trading)
 ---
 
 Algorithmic trading has transformed the landscape of financial markets by enabling trades to be executed with remarkable speed and efficiency. The use of sophisticated algorithms allows traders to assess vast amounts of market data, identify patterns, and act on opportunities within milliseconds. This technological advancement has opened the door to a wide range of strategies that were previously difficult or impossible to implement manually.

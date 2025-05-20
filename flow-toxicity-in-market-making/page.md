@@ -1,6 +1,8 @@
 ---
-title: "Flow toxicity in market making (Algo Trading)"
-description: "Explore the complexities of flow toxicity in market making and algorithmic trading and discover how informed trading can affect liquidity providers."
+category: quant_concept
+description: Explore the complexities of flow toxicity in market making and algorithmic
+  trading and discover how informed trading can affect liquidity providers.
+title: Flow toxicity in market making (Algo Trading)
 ---
 
 Flow toxicity in market making and algorithmic trading refers to situations where the order flow or trading activity in the market becomes disadvantageous or harmful to liquidity providers, particularly market makers. This occurs when informed traders, often using advanced algorithms, take advantage of market makers' quotes, leading to unfavorable outcomes such as adverse selection and increased trading losses. Essentially, flow toxicity measures the quality and potential profitability of the flow of orders that market makers interact with, highlighting the risks when a significant portion of these orders are informed or strategically timed to exploit posted quotes.

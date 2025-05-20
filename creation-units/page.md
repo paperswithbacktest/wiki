@@ -1,6 +1,8 @@
 ---
-title: "Creation Units (Algo Trading)"
-description: "Discover how creation units play a pivotal role in the formation and efficient trading of ETFs, supported by algorithmic trading for optimal market performance."
+category: quant_concept
+description: Discover how creation units play a pivotal role in the formation and
+  efficient trading of ETFs, supported by algorithmic trading for optimal market performance.
+title: Creation Units (Algo Trading)
 ---
 
 This article explores the intricacies of creation units in the capital markets, specifically focusing on their role in the construction of Exchange-Traded Funds (ETFs) and the integration of algorithmic trading. ETFs have become a fundamental component of modern investment strategies due to their liquidity, diversification, and efficiency. The process by which these funds are created and managed relies heavily on creation units, which are packages of specified numbers of underlying securities deposited by authorized participants. These units allow ETFs to accurately track their respective indices and facilitate their subsequent trading on stock exchanges.

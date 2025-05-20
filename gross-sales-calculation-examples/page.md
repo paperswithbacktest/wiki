@@ -1,6 +1,9 @@
 ---
-title: "Gross Sales Calculation and Examples (Algo Trading)"
-description: "Explore how gross sales calculations enhance algorithmic trading strategies offering insights to optimize market performance and improve predictive accuracy in trading."
+category: quant_concept
+description: Explore how gross sales calculations enhance algorithmic trading strategies
+  offering insights to optimize market performance and improve predictive accuracy
+  in trading.
+title: Gross Sales Calculation and Examples (Algo Trading)
 ---
 
 In finance, measuring and analyzing company performance is crucial for informed decision-making. Financial measurement involves evaluating key metrics that reflect the health and performance of a business. One such crucial metric is gross sales, which represents the total revenue generated from goods sold or services provided before deducing costs like returns, allowances, and discounts. Gross sales serve as a foundational element in financial statements, offering a clear picture of total market activity and serving as a starting point for calculating net income and other important financial ratios.

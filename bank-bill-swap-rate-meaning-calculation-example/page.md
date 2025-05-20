@@ -1,6 +1,8 @@
 ---
-title: "Bank Bill Swap Rate: Meaning, Calculation, and Example (Algo Trading)"
-description: "Discover the significance of the Bank Bill Swap Rate (BBSR) in Australian markets, its calculation, and its crucial role in algorithmic trading strategies."
+category: quant_concept
+description: Discover the significance of the Bank Bill Swap Rate (BBSR) in Australian
+  markets, its calculation, and its crucial role in algorithmic trading strategies.
+title: 'Bank Bill Swap Rate: Meaning, Calculation, and Example (Algo Trading)'
 ---
 
 In today's dynamic financial world, understanding key benchmarks and financial instruments is crucial both for institutions and individual investors. One such benchmark that holds significant importance in the Australian financial markets is the Bank Bill Swap Rate (BBSR), also known as the Bank Bill Swap Reference Rate. The BBSR is used extensively in financial calculations, influencing the pricing of a wide array of financial products, from loans and bonds to derivatives, particularly those involving the Australian dollar. 

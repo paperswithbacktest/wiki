@@ -1,6 +1,9 @@
 ---
-title: "Delta Hedging Explained (Algo Trading)"
-description: "Discover the intricacies of delta hedging in options trading and how it integrates with algo trading strategies for effective risk management and potential gains."
+category: quant_concept
+description: Discover the intricacies of delta hedging in options trading and how
+  it integrates with algo trading strategies for effective risk management and potential
+  gains.
+title: Delta Hedging Explained (Algo Trading)
 ---
 
 Options trading, a prominent activity within financial markets, is both celebrated for its potential to yield substantial returns and feared for the risks it presents. Options are complex financial instruments that derive their value from underlying assets like stocks, indices, or commodities. Traders utilize options to speculate on market movements or hedge existing positions, but the intricate nature of these derivatives necessitates comprehensive risk management strategies to avert significant financial losses.

@@ -1,6 +1,8 @@
 ---
-title: "A Priori Investments (Algo Trading)"
-description: "Explore A Priori Investments a leader in algorithmic trading using cutting-edge technology and strategic insights to drive trading efficiency and precision."
+category: trading_strategy
+description: Explore A Priori Investments a leader in algorithmic trading using cutting-edge
+  technology and strategic insights to drive trading efficiency and precision.
+title: A Priori Investments (Algo Trading)
 ---
 
 The world of investments has experienced profound changes over the past few decades, driven largely by technological advancements and globalization. One of the most transformative developments has been the rise of algorithmic trading, a method that utilizes computer algorithms to execute trading orders at speeds and volumes impossible for human traders. This new approach has revolutionized the financial sector by providing enhanced efficiency, precision, and the capability to process massive datasets.

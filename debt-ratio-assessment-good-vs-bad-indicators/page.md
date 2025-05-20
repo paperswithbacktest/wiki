@@ -1,6 +1,12 @@
 ---
-title: "Debt Ratio Assessment: Good vs. Bad Indicators (Algo Trading)"
-description: "Evaluate the significance of debt ratios in financial health assessments and algorithmic trading by understanding how these metrics indicate company leverage and risk. A balanced debt ratio aids in informed investment decisions, while algorithmic trading relies on these insights to execute precise trades. Assessing credit evaluation alongside debt ratios enhances investment strategies, ensuring robust performance and effective risk management."
+category: trading_strategy
+description: Evaluate the significance of debt ratios in financial health assessments
+  and algorithmic trading by understanding how these metrics indicate company leverage
+  and risk. A balanced debt ratio aids in informed investment decisions, while algorithmic
+  trading relies on these insights to execute precise trades. Assessing credit evaluation
+  alongside debt ratios enhances investment strategies, ensuring robust performance
+  and effective risk management.
+title: 'Debt Ratio Assessment: Good vs. Bad Indicators (Algo Trading)'
 ---
 
 In the financial world, the interplay between debt ratio, credit evaluation, financial health, and algorithmic trading is pivotal for investors and businesses. These elements are fundamental in evaluating a company's financial stability and informing investment decisions.

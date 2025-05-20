@@ -1,6 +1,9 @@
 ---
-title: "Classification of Dividends as Passive or Ordinary Income (Algo Trading)"
-description: "Understand dividend income classification as passive or ordinary and how algorithmic trading optimizes this. Explore strategies that maximize financial gains."
+category: quant_concept
+description: Understand dividend income classification as passive or ordinary and
+  how algorithmic trading optimizes this. Explore strategies that maximize financial
+  gains.
+title: Classification of Dividends as Passive or Ordinary Income (Algo Trading)
 ---
 
 Dividends serve as a valuable mechanism for investors to generate income from their investments in company stocks. As companies earn profits, a portion of these earnings may be distributed to shareholders in the form of dividends, rewarding them for their investment. Understanding how dividend income is classified for tax purposes is essential for investors seeking to maximize their returns. Taxes can significantly impact the net income received from dividends, thereby influencing an investor's overall strategy and decision-making process.

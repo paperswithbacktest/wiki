@@ -1,6 +1,9 @@
 ---
-title: "Hard Money Loans in Real Estate Investment (Algo Trading)"
-description: "Explore the world of hard money loans and algorithmic trading in real estate investment Discover how these financing options can optimize your investment strategy"
+category: quant_concept
+description: Explore the world of hard money loans and algorithmic trading in real
+  estate investment Discover how these financing options can optimize your investment
+  strategy
+title: Hard Money Loans in Real Estate Investment (Algo Trading)
 ---
 
 Real estate investment represents a substantial opportunity for investors seeking diversification and potential high returns. Whether purchasing commercial properties, residential real estate, or land for development, the industry offers various avenues for income generation and asset appreciation. Central to optimizing these investment opportunities are the diverse financing options available to investors, including mortgages, private equity, and hard money loans.

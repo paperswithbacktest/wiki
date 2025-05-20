@@ -1,6 +1,8 @@
 ---
-title: "Fallen Angel: Concept, Mechanism, and Risks (Algo Trading)"
-description: "Explore the intricate world of fallen angels and algorithmic trading Discover how investment risks and credit downgrades shape financial strategies"
+category: quant_concept
+description: Explore the intricate world of fallen angels and algorithmic trading
+  Discover how investment risks and credit downgrades shape financial strategies
+title: 'Fallen Angel: Concept, Mechanism, and Risks (Algo Trading)'
 ---
 
 In the intricate world of finance, the intersection of investment risk, credit downgrades, fallen angels, and algorithmic trading presents unique challenges and opportunities. These elements form a complex network within today's financial markets, where changes in one area can significantly impact the others. Understanding the dynamics between these factors is crucial for investors seeking to navigate the financial landscape effectively.

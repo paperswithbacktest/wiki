@@ -1,6 +1,9 @@
 ---
-title: "Debit Ticket: Functionality and Examples (Algo Trading)"
-description: "Explore debit tickets in algorithmic trading understanding their crucial role in transaction recording compliance and optimizing trading strategies within modern finance."
+category: quant_concept
+description: Explore debit tickets in algorithmic trading understanding their crucial
+  role in transaction recording compliance and optimizing trading strategies within
+  modern finance.
+title: 'Debit Ticket: Functionality and Examples (Algo Trading)'
 ---
 
 In the intricate world of finance, where numbers tell the stories of businesses across the globe, understanding financial instruments is crucial. Financial instruments, such as stocks, bonds, and derivatives, represent claims on future cash flows and serve as the backbone of the financial system. Their role in facilitating economic activity underscores the importance of grasping their nuances, especially as technology continues to reshape the financial landscape.

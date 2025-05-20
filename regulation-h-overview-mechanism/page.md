@@ -1,6 +1,8 @@
 ---
-title: "Regulation H Overview and Mechanism (Algo Trading)"
-description: "Explore the intersection of Regulation H and algorithmic trading in banking Discover the essential compliance guidelines that ensure sound financial practices"
+category: quant_concept
+description: Explore the intersection of Regulation H and algorithmic trading in banking
+  Discover the essential compliance guidelines that ensure sound financial practices
+title: Regulation H Overview and Mechanism (Algo Trading)
 ---
 
 The financial sector is a complex network of institutions and markets, heavily influenced by a variety of regulatory frameworks designed to ensure stability and transparency. One critical regulation governing this space is Regulation H, which oversees the operations of state-chartered banks within the Federal Reserve System. This regulation is crucial for maintaining the integrity of banking operations, as it sets forth guidelines that ensure financial soundness and compliance with federal standards.

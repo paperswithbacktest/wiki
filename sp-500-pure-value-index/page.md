@@ -1,6 +1,8 @@
 ---
-title: "S&P 500 Pure Value Index (Algo Trading)"
-description: "Explore how algorithmic trading enhances value investing within the S&P 500 Pure Value Index offering strategic insights for systematic market opportunities."
+category: trading_strategy
+description: Explore how algorithmic trading enhances value investing within the S&P
+  500 Pure Value Index offering strategic insights for systematic market opportunities.
+title: S&P 500 Pure Value Index (Algo Trading)
 ---
 
 Value investing is a strategy focused on selecting stocks that seem undervalued by the market. It involves identifying stocks whose current price is lower than their intrinsic value, presenting a potential opportunity for profit when the market realizes and corrects the imbalance. Traditionally, value investors use metrics like the price-to-earnings ratio and dividend yield to find such investments.

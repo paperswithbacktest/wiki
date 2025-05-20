@@ -1,6 +1,8 @@
 ---
-title: "Plutocracy: Meaning and Examples (Algo Trading)"
-description: "Explore the intersection of plutocracy and algorithmic trading to understand how wealth distribution influences financial markets and policy."
+category: quant_concept
+description: Explore the intersection of plutocracy and algorithmic trading to understand
+  how wealth distribution influences financial markets and policy.
+title: 'Plutocracy: Meaning and Examples (Algo Trading)'
 ---
 
 The article focuses on the intersection between political systems, particularly plutocracy, and the concept of algorithmic trading. This intersection is crucial in understanding how financial markets and technological advancements are influenced by the distribution of wealth and power. Plutocracy, a term used to describe a political system where the wealthy hold significant control over government decisions, impacts the economic landscape by shaping policies that may favor affluent individuals and corporations.

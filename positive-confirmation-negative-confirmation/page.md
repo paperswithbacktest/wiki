@@ -1,6 +1,9 @@
 ---
-title: "Positive Confirmation and Negative Confirmation (Algo Trading)"
-description: "In algorithmic trading positive and negative confirmations help validate strategies by verifying signals or identifying discrepancies enhancing trading accuracy and performance."
+category: trading_strategy
+description: In algorithmic trading positive and negative confirmations help validate
+  strategies by verifying signals or identifying discrepancies enhancing trading accuracy
+  and performance.
+title: Positive Confirmation and Negative Confirmation (Algo Trading)
 ---
 
 In algorithmic trading, confirmation techniques are essential for validating trading signals and strategies. This article provides a comprehensive analysis of positive and negative confirmations in trading, illustrating their roles and applications in algorithmic systems. Positive confirmation involves corroborating a trade setup with additional data points or aligning multiple indicators to ensure reliability. On the other hand, negative confirmation is focused on identifying discrepancies or deviations that may arise in trading data or setups.

@@ -1,6 +1,8 @@
 ---
-title: "order routing (Algo Trading)"
-description: "Discover how order routing in algorithmic trading enhances trade execution by directing orders to optimal venues for lower costs and improved outcomes."
+category: quant_concept
+description: Discover how order routing in algorithmic trading enhances trade execution
+  by directing orders to optimal venues for lower costs and improved outcomes.
+title: order routing (Algo Trading)
 ---
 
 Order routing in algorithmic trading is a crucial component that facilitates the efficient execution of trades in the financial markets. At its core, order routing is the process by which trading orders are directed to different venues or exchanges for execution. This function has gained significant importance with the rise of algorithmic trading systems, which have revolutionized the way trading is conducted in modern financial markets.

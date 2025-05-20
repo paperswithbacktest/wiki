@@ -1,6 +1,8 @@
 ---
-title: "Comparison of Return on Sales and Operating Margin (Algo Trading)"
-description: "Explore the key differences between return on sales and operating margin in financial analysis essential for investors and algorithmic trading strategies."
+category: quant_concept
+description: Explore the key differences between return on sales and operating margin
+  in financial analysis essential for investors and algorithmic trading strategies.
+title: Comparison of Return on Sales and Operating Margin (Algo Trading)
 ---
 
 Understanding financial markets and the performance of companies requires a thorough analysis of key financial ratios. Two of the most critical profitability ratios in financial analysis are operating margin and return on sales (ROS). These ratios provide insights into a company's efficiency in generating profits from its operations, constituting essential metrics for investors, analysts, and business managers alike.

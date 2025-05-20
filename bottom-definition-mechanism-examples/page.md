@@ -1,6 +1,8 @@
 ---
-title: "Bottom: Definition and Mechanism with Examples (Algo Trading)"
-description: "Explore the concept of the 'bottom' in algo trading and learn how to utilize algorithmic strategies to identify buying opportunities for maximizing returns."
+category: quant_concept
+description: Explore the concept of the 'bottom' in algo trading and learn how to
+  utilize algorithmic strategies to identify buying opportunities for maximizing returns.
+title: 'Bottom: Definition and Mechanism with Examples (Algo Trading)'
 ---
 
 Algorithmic trading, often referred to as algo trading, is a cutting-edge method for executing trades via computer programs designed to follow predetermined algorithms. These algorithms are structured to process vast amounts of market data, identifying trading opportunities in real-time. Automated decision-making, based on data-driven insights, allows traders to respond to momentary market changes, thereby minimizing human errors and biases.

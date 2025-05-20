@@ -1,6 +1,8 @@
 ---
-title: "Mozambique New Metical: History and Economic Impact (Algo Trading)"
-description: "Explore the history and impact of Mozambique's currency, the metical, from its inception in 1980 to the influence of algorithmic trading today."
+category: dataset
+description: Explore the history and impact of Mozambique's currency, the metical,
+  from its inception in 1980 to the influence of algorithmic trading today.
+title: 'Mozambique New Metical: History and Economic Impact (Algo Trading)'
 ---
 
 Mozambique's national currency, the metical (MZN), is a fundamental component of the nation's economic framework. Officially introduced in 1980, the metical replaced the Mozambican escudo, marking a significant shift in the country's monetary history. The term "metical" is derived from the Arabic word "mithqal," which was historically used across various trading regions to denote a unit of weight, underscoring the currency's deep-rooted historical significance. The metical is pivotal not just for domestic economic transactions but also serves as a vital instrument in Mozambique's engagement with global markets.

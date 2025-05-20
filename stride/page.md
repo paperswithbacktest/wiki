@@ -1,7 +1,8 @@
 ---
-title: Stride Machine Learning for Efficient Big Data Processing
+category: quant_concept
 description: Stride machine learning speeds up analysis by taking larger steps to
   focus on key features in images and text for faster predictions Discover more inside
+title: Stride Machine Learning for Efficient Big Data Processing
 ---
 
 ![Image](images/1.png)

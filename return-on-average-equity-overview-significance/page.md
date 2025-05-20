@@ -1,6 +1,9 @@
 ---
-title: "Return On Average Equity: Overview and Significance (Algo Trading)"
-description: "Discover how Return on Average Equity (ROAE) offers a refined view on profitability and its significance in both investment analysis and algorithmic trading strategies."
+category: quant_concept
+description: Discover how Return on Average Equity (ROAE) offers a refined view on
+  profitability and its significance in both investment analysis and algorithmic trading
+  strategies.
+title: 'Return On Average Equity: Overview and Significance (Algo Trading)'
 ---
 
 Return on Average Equity (ROAE) is a critical financial metric used to evaluate a company's capability to generate profits from its shareholders' average equity over a specified period. Unlike traditional Return on Equity (ROE), which calculates returns based solely on ending equity values, ROAE incorporates an average of equity values throughout the fiscal period, leading to a more balanced view of profitability. This approach mitigates the distortion effects of sudden fluctuations in equity levels, thus offering a refined lens through which to assess company performance.

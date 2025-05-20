@@ -1,9 +1,9 @@
 ---
-title: "Rama Cont (Algo Trading)"
-description: "Discover the pioneering work of Rama Cont, a leading academic in mathematical finance and algorithmic trading, shaping global research and industry practices."
+category: quant_concept
+description: Discover the pioneering work of Rama Cont, a leading academic in mathematical
+  finance and algorithmic trading, shaping global research and industry practices.
+title: Rama Cont (Algo Trading)
 ---
-
-
 
 Rama Cont is a distinguished academic and influential figure in the fields of mathematical finance, quantitative finance, and algorithmic trading. Currently serving as a Professor of Mathematics at the University of Oxford, he holds the Statutory Professorship of Mathematics and is the Chair of Mathematical Finance at Oxford’s Mathematical Institute. His pioneering work in stochastic analysis, mathematical modeling, and systemic risk has significantly impacted the financial industry and academic research globally.
 

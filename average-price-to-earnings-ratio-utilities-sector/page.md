@@ -1,6 +1,9 @@
 ---
-title: "Average Price-to-Earnings Ratio in the Utilities Sector (Algo Trading)"
-description: "Discover the significance of the Price-to-Earnings ratio in the utilities sector for smart investments. Learn how algo trading optimizes returns using this key metric."
+category: quant_concept
+description: Discover the significance of the Price-to-Earnings ratio in the utilities
+  sector for smart investments. Learn how algo trading optimizes returns using this
+  key metric.
+title: Average Price-to-Earnings Ratio in the Utilities Sector (Algo Trading)
 ---
 
 The financial metrics of a sector are critical in evaluating investment opportunities. Among these sectors, the utilities sector—comprising electricity, water, and natural gas services—is particularly noteworthy for its stability and consistent dividend returns, making it a favored choice for conservative investors. A key metric for assessing the value and growth potential of investments within this sector is the Price-to-Earnings (P/E) ratio. This metric is defined as the ratio of a company’s current share price to its earnings per share (EPS), providing insights into how much investors are willing to pay for a dollar of earnings.

@@ -1,6 +1,9 @@
 ---
-title: "Five Against Note Spread (Algo Trading)"
-description: "Optimize trading strategies with the Five Against Note (FAN) spread by leveraging algorithmic trading for effective futures market decisions involving Treasury notes."
+category: trading_strategy
+description: Optimize trading strategies with the Five Against Note (FAN) spread by
+  leveraging algorithmic trading for effective futures market decisions involving
+  Treasury notes.
+title: Five Against Note Spread (Algo Trading)
 ---
 
 Financial trading strategies form the bedrock of effective investment decisions, with the Five Against Note (FAN) spread strategy standing out due to its unique approach in futures trading. Unlike straightforward buying and selling, the FAN strategy involves the simultaneous purchase and sale of different financial instruments, specifically focusing on Treasury notes with differing maturities. By leveraging the price differentials of these notes, traders aim to capitalize on shifts in interest rates and yield curves, thus optimizing their portfolios.

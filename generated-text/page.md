@@ -1,7 +1,8 @@
 ---
-title: Comprehensive Guide to Text Generation in Machine Learning
+category: quant_concept
 description: Text Generation delivers applications and expert insights on models methods
   challenges and ethics for machine learning use Discover more inside
+title: Comprehensive Guide to Text Generation in Machine Learning
 ---
 
 ![Image](images/1.png)

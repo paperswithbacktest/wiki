@@ -1,6 +1,8 @@
 ---
-title: "Ownership of Student Loan Debt in the United States (Algo Trading)"
-description: "Explore the impacts of immense student loan debt on US economic patterns and personal decisions, while understanding the influence of algorithmic trading."
+category: dataset
+description: Explore the impacts of immense student loan debt on US economic patterns
+  and personal decisions, while understanding the influence of algorithmic trading.
+title: Ownership of Student Loan Debt in the United States (Algo Trading)
 ---
 
 Student loan debt represents a substantial financial burden for countless individuals across the United States, profoundly influencing both personal economic decisions and broader economic dynamics. With over $1.7 trillion in student loan debt outstanding, this issue affects not only borrowers' financial futures but also impacts national economic patterns such as consumer spending and home ownership rates. The ownership of these student loans—predominantly by the federal government and, to a lesser extent, private financial institutions—plays a crucial role in determining the framework and feasibility of repayment and the propensity for default.

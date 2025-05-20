@@ -1,6 +1,8 @@
 ---
-title: "Eric S. Maskin: Harvard Faculty Information (Algo Trading)"
-description: "Explore how economics and algorithmic trading intersect through Eric S. Maskin's work in mechanism design at Harvard, impacting financial strategies."
+category: quant_concept
+description: Explore how economics and algorithmic trading intersect through Eric
+  S. Maskin's work in mechanism design at Harvard, impacting financial strategies.
+title: 'Eric S. Maskin: Harvard Faculty Information (Algo Trading)'
 ---
 
 This article explores the intersection of economics, algorithmic trading, and the educational contributions of Eric S. Maskin at Harvard University. A revered figure in the field of economics, Maskin is celebrated for his pioneering work in mechanism design theory, a critical domain within economic theory. This theory addresses the issue of designing institutions or mechanisms to achieve specific objectives, especially when participants have private information.

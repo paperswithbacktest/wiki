@@ -1,6 +1,9 @@
 ---
-title: "Central Bank Digital Currency (Algo Trading)"
-description: "Explore the synergy between Central Bank Digital Currencies (CBDCs) and algorithmic trading Discover how CBDCs can enhance trading efficiency and market liquidity"
+category: quant_concept
+description: Explore the synergy between Central Bank Digital Currencies (CBDCs) and
+  algorithmic trading Discover how CBDCs can enhance trading efficiency and market
+  liquidity
+title: Central Bank Digital Currency (Algo Trading)
 ---
 
 Central Bank Digital Currencies (CBDCs) have emerged as a significant topic of discussion within the realms of finance and technology. These digital currencies, issued by central banks, represent a new form of digital money that could transform global financial ecosystems. Unlike volatile cryptocurrencies, CBDCs are anchored by the stability of a nation's fiat currency, promising the potential to enhance financial inclusion, improve transaction efficiency, and bolster monetary policy effectiveness.

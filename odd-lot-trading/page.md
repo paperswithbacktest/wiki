@@ -1,6 +1,8 @@
 ---
-title: "Odd Lot in Trading (Algo Trading)"
-description: "Explore the nuances of odd lot algorithmic trading. Learn how combining these concepts can enhance market strategies and reveal investor sentiments."
+category: quant_concept
+description: Explore the nuances of odd lot algorithmic trading. Learn how combining
+  these concepts can enhance market strategies and reveal investor sentiments.
+title: Odd Lot in Trading (Algo Trading)
 ---
 
 Odd lot trading refers to the buying or selling of a security in quantities that are less than the standard trading unit, usually 100 shares or a multiple thereof, known as a 'round lot.' Historically, odd lot trading emerged to accommodate smaller investors who wished to participate in the stock market but could not afford or chose not to purchase round lots. Odd lots have traditionally been viewed as less significant in terms of market influence compared to larger trades but have become an area of interest due to their nuanced role in revealing investor sentiment and their participation in electronic trading systems.

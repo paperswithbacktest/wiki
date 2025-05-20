@@ -1,6 +1,9 @@
 ---
-title: "Cash Book and Its Functionality with Examples (Algo Trading)"
-description: "Explore the functionality of cash books in financial accounting and their role in algorithmic trading. Learn how accurate cash management enhances trading efficiency."
+category: quant_concept
+description: Explore the functionality of cash books in financial accounting and their
+  role in algorithmic trading. Learn how accurate cash management enhances trading
+  efficiency.
+title: Cash Book and Its Functionality with Examples (Algo Trading)
 ---
 
 In the world of finance and accounting, bookkeeping, cash books, and algorithmic trading are integral components. Bookkeeping forms the foundation of accurate financial management by ensuring every transaction is recorded methodically. This meticulous recording enhances transparency and accountability, enabling businesses to make informed financial decisions. The cash book plays a pivotal role within this framework, acting as a comprehensive record of all cash inflows and outflows. It functions as both a journal and a ledger, maintaining an ongoing, precise log of cash movements. This capability is crucial for businesses aiming to track cash flow and manage daily finances efficiently.

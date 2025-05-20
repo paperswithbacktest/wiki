@@ -1,6 +1,8 @@
 ---
-title: "Operating Margin Standards for Businesses (Algo Trading)"
-description: "Explore the significance of operating margins in assessing business profitability and their role in shaping algorithmic trading strategies for enhanced returns."
+category: quant_concept
+description: Explore the significance of operating margins in assessing business profitability
+  and their role in shaping algorithmic trading strategies for enhanced returns.
+title: Operating Margin Standards for Businesses (Algo Trading)
 ---
 
 In the world of finance, business profitability and financial metrics are fundamental in determining the success and sustainability of business operations. Among these metrics, the operating margin stands out as a key indicator of a company's efficiency in converting sales into profits after covering its operating expenses. The operating margin is calculated using the formula:

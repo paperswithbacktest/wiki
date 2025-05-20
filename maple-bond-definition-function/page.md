@@ -1,6 +1,9 @@
 ---
-title: "Maple Bond: Definition and Function (Algo Trading)"
-description: "Explore the significance of Maple Bonds in cross-border finance, allowing foreign issuers access to Canadian markets and offering Canadian investors currency risk-free diversification."
+category: quant_concept
+description: Explore the significance of Maple Bonds in cross-border finance, allowing
+  foreign issuers access to Canadian markets and offering Canadian investors currency
+  risk-free diversification.
+title: 'Maple Bond: Definition and Function (Algo Trading)'
 ---
 
 Maple Bonds serve as a significant facet of cross-border finance, offering foreign issuers a streamlined entry into the Canadian debt market. These financial instruments are Canadian-dollar denominated bonds issued by non-Canadian entities, facilitating the movement of international capital into Canada. For Canadian investors, Maple Bonds present a compelling opportunity to diversify their investment portfolios while mitigating the foreign exchange risk typically associated with international investments. Unlike traditional foreign bonds, Maple Bonds eliminate currency fluctuation concerns by maintaining all operations in the local currency.

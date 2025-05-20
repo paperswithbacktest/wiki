@@ -1,6 +1,8 @@
 ---
-title: "Laffer Curve: History and Criticism (Algo Trading)"
-description: "Explore the interplay between the Laffer Curve economic theory tax policy and algorithmic trading delving into historical contexts criticisms and future applications."
+category: quant_concept
+description: Explore the interplay between the Laffer Curve economic theory tax policy
+  and algorithmic trading delving into historical contexts criticisms and future applications.
+title: 'Laffer Curve: History and Criticism (Algo Trading)'
 ---
 
 The Laffer Curve is a pivotal concept in economic theory that delineates the relationship between tax rates and government revenue. Formulated by economist Arthur Laffer, this theory posits that there exists an optimal tax rate at which government revenue is maximized. The theory challenges the conventional wisdom that increasing tax rates invariably leads to proportional increases in tax revenue. Instead, it suggests that beyond a certain point, higher tax rates may actually diminish total revenue due to reduced economic activity and tax compliance.

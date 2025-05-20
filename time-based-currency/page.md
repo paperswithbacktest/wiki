@@ -1,6 +1,9 @@
 ---
-title: "Time-Based Currency (Algo Trading)"
-description: "Explore the intersection of time-based currency and algorithmic trading to discover innovative solutions for economic resilience and community exchange systems."
+category: quant_concept
+description: Explore the intersection of time-based currency and algorithmic trading
+  to discover innovative solutions for economic resilience and community exchange
+  systems.
+title: Time-Based Currency (Algo Trading)
 ---
 
 The ever-evolving global financial landscape presents numerous challenges that necessitate innovative solutions to bolster economic stability and resilience. Traditional financial systems, often reliant on fiat currencies and centralized institutions, face criticisms for their inability to adapt swiftly to local and global economic pressures. This has prompted communities around the world to seek alternative models of exchange that can offer more localized and flexible solutions.

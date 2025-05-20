@@ -1,6 +1,9 @@
 ---
-title: "Monthly Payment of Dividends (Algo Trading)"
-description: "Explore the synergy between monthly dividend stocks and algo trading to generate steady investment income Discover benefits and strategies for retirees and investors"
+category: trading_strategy
+description: Explore the synergy between monthly dividend stocks and algo trading
+  to generate steady investment income Discover benefits and strategies for retirees
+  and investors
+title: Monthly Payment of Dividends (Algo Trading)
 ---
 
 In today's ever-evolving financial landscape, generating steady investment income is crucial for many investors, especially retirees. Monthly dividend-paying stocks and algorithmic (algo) trading are two prominent strategies investors often consider for building a reliable income stream. Monthly dividend stocks provide a consistent revenue source by distributing a portion of a company's earnings to shareholders every month, as opposed to the more common quarterly or annual payouts. This regular payment schedule is particularly appealing for individuals who require steady cash flow, such as retirees looking to cover living expenses. 

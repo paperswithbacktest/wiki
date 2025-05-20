@@ -1,6 +1,9 @@
 ---
-title: "Indemnification Methods and Historical Overview (Algo Trading)"
-description: "Explore the significance of indemnification in algorithmic trading as a safeguard against financial risks, detailing methods and legal history essential for secure transactions."
+category: quant_concept
+description: Explore the significance of indemnification in algorithmic trading as
+  a safeguard against financial risks, detailing methods and legal history essential
+  for secure transactions.
+title: Indemnification Methods and Historical Overview (Algo Trading)
 ---
 
 Financial transactions inherently involve a web of complexities and significant risk management challenges. Within this landscape, indemnification emerges as a critical mechanism to shield parties from potential liabilities. Indemnification involves compensating for losses or damages incurred, playing a crucial role in mitigating the financial risks associated with contractual engagements. As the financial sector continues to evolve, these mechanisms have become increasingly integral to ensuring equitable and secure transactions.

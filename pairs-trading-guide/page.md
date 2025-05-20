@@ -1,6 +1,12 @@
 ---
-title: "Pairs Trading Guide (Algo Trading)"
-description: Discover the benefits of pair trading within algorithmic trading. This guide explores how traders use computer-driven strategies to identify opportunities and execute trades efficiently. Learn the mechanics behind pairs trading, a market-neutral strategy that capitalizes on price disparities between correlated assets, offering profitable avenues even in volatile markets. Understand how to identify asset pairs and use statistical models to enhance trading accuracy for maximized returns.
+category: trading_strategy
+description: Discover the benefits of pair trading within algorithmic trading. This
+  guide explores how traders use computer-driven strategies to identify opportunities
+  and execute trades efficiently. Learn the mechanics behind pairs trading, a market-neutral
+  strategy that capitalizes on price disparities between correlated assets, offering
+  profitable avenues even in volatile markets. Understand how to identify asset pairs
+  and use statistical models to enhance trading accuracy for maximized returns.
+title: Pairs Trading Guide (Algo Trading)
 ---
 
 In recent years, algorithmic trading has become increasingly popular among traders due to its ability to execute trades with unparalleled efficiency and precision. These computer-driven strategies can analyze market data at high speeds, identify trading opportunities, and execute orders faster than human traders. One strategy that has emerged as particularly popular within this domain is pair trading.

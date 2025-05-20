@@ -1,6 +1,13 @@
 ---
-title: "Base Rate (Algo Trading)"
-description: "Explore the critical roles of base rates and algorithmic trading in modern financial markets. Understand how central banks use base rates to influence economic activity and how algorithmic trading utilizes automation and technology for efficient trade execution. Learn about the impact of base rate changes on consumer behavior and market sentiment and how traders leverage this knowledge along with algorithmic strategies to gain a competitive advantage. Discover the intersection of these financial concepts and their influence on trading and investment decisions."
+category: quant_concept
+description: Explore the critical roles of base rates and algorithmic trading in modern
+  financial markets. Understand how central banks use base rates to influence economic
+  activity and how algorithmic trading utilizes automation and technology for efficient
+  trade execution. Learn about the impact of base rate changes on consumer behavior
+  and market sentiment and how traders leverage this knowledge along with algorithmic
+  strategies to gain a competitive advantage. Discover the intersection of these financial
+  concepts and their influence on trading and investment decisions.
+title: Base Rate (Algo Trading)
 ---
 
 In today's rapidly evolving financial landscape, understanding the intricacies of financial terms and trading strategies is crucial. Among the key areas of focus are base rate interest rates and algorithmic trading (algo trading), which play pivotal roles in shaping market dynamics.

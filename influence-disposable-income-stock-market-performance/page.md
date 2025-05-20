@@ -1,6 +1,8 @@
 ---
-title: "Influence of Disposable Income on Stock Market Performance (Algo Trading)"
-description: "Explore how disposable income influences stock market performance, affecting consumer spending, corporate earnings, and valuation trends in algo trading."
+category: quant_concept
+description: Explore how disposable income influences stock market performance, affecting
+  consumer spending, corporate earnings, and valuation trends in algo trading.
+title: Influence of Disposable Income on Stock Market Performance (Algo Trading)
 ---
 
 Disposable income, a pivotal financial concept, represents the amount of money individuals or households have available for spending and saving after accounting for taxes. It serves as a critical indicator of economic well-being and consumer confidence, underpinning the engine of economic growth through its influence on consumption patterns. An increase in disposable income typically empowers consumers to spend more, subsequently fueling business revenues and facilitating economic expansion. Conversely, a decline in disposable income can curb consumer spending, slow down business growth, and potentially trigger market contractions.

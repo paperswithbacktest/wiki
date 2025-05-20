@@ -1,6 +1,8 @@
 ---
-title: "Eurosclerosis: Concept and Mechanism (Algo Trading)"
-description: "Explore the concept of Eurosclerosis in Europe's economy marked by stagnation due to regulation and labor market rigidities. Discover its causes and implications."
+category: quant_concept
+description: Explore the concept of Eurosclerosis in Europe's economy marked by stagnation
+  due to regulation and labor market rigidities. Discover its causes and implications.
+title: 'Eurosclerosis: Concept and Mechanism (Algo Trading)'
 ---
 
 Europe's economic performance over recent decades has been marked by a series of challenges that have led to periods of stagnation, often encapsulated by the term 'Eurosclerosis.' This phenomenon points to an economic stagnation scenario largely attributed to excessive regulation and rigidities within the labor market. The term gained prominence as it became apparent that these issues were contributing significantly to the slow progress of European economies.

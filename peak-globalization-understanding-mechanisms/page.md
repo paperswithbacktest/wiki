@@ -1,6 +1,8 @@
 ---
-title: "Peak Globalization: Understanding and Mechanisms (Algo Trading)"
-description: "Explore the intricate dynamics of globalization with a focus on international relations economic trends and the rise of algorithmic trading in today’s economy"
+category: quant_concept
+description: Explore the intricate dynamics of globalization with a focus on international
+  relations economic trends and the rise of algorithmic trading in today’s economy
+title: 'Peak Globalization: Understanding and Mechanisms (Algo Trading)'
 ---
 
 Globalization, international relations, economic trends, and algorithmic trading are integral components of the modern economic landscape. These elements converge to shape global economies, impacting international trade dynamics, market stability, and economic growth. Globalization fosters interconnected economies, enabling free trade and cultural exchanges that influence economic trends and international relations. It leads to both opportunities and challenges, promoting economic growth while sometimes exacerbating inequalities.

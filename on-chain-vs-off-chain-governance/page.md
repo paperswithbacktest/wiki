@@ -1,6 +1,9 @@
 ---
-title: "On-Chain vs Off-Chain Governance in Blockchain (Algo Trading)"
-description: "Explore the key differences between on-chain and off-chain governance in blockchain and their impact on algorithmic trading strategies in this insightful guide."
+category: quant_concept
+description: Explore the key differences between on-chain and off-chain governance
+  in blockchain and their impact on algorithmic trading strategies in this insightful
+  guide.
+title: On-Chain vs Off-Chain Governance in Blockchain (Algo Trading)
 ---
 
 Blockchain technology represents a significant advancement in the digital landscape, offering decentralized solutions across various industries, from finance to supply chain management. A critical element of this technology is governance, which is essential for maintaining the integrity, security, and evolution of blockchain networks. Governance within blockchain can be divided into two primary models: on-chain governance and off-chain governance. These models are pivotal in determining how decisions are made regarding protocol upgrades, stakeholder participation, and conflict resolution.

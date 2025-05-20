@@ -1,6 +1,8 @@
 ---
-title: "Economics of Coffee Pricing (Algo Trading)"
-description: "Explore how global economic forces, algorithmic trading, and environmental factors influence coffee pricing, impacting producers, traders, and consumers."
+category: trading_strategy
+description: Explore how global economic forces, algorithmic trading, and environmental
+  factors influence coffee pricing, impacting producers, traders, and consumers.
+title: Economics of Coffee Pricing (Algo Trading)
 ---
 
 Coffee is not just a ubiquitous beverage; it is a cornerstone of global trade with profound economic significance. As a leading agricultural export, coffee ranks high among the world's most traded commodities, trailing only behind crude oil in terms of international trade value. This broad market presence is shaped by a complex web of cultivation practices, market forces, and trading mechanisms, all of which converge to determine the final price of coffee enjoyed by consumers worldwide.

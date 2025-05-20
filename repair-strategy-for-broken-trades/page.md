@@ -1,6 +1,9 @@
 ---
-title: "Repair Strategy for Broken Trades (Algo Trading)"
-description: "Explore repair strategies for broken trades in algorithmic trading to minimize financial losses and enhance performance by mitigating execution errors and market risks."
+category: trading_strategy
+description: Explore repair strategies for broken trades in algorithmic trading to
+  minimize financial losses and enhance performance by mitigating execution errors
+  and market risks.
+title: Repair Strategy for Broken Trades (Algo Trading)
 ---
 
 In the world of trading, both beginners and experts face the challenge of broken trades, which can result in significant financial losses. A trade is considered broken when it does not execute as intended, often due to factors such as market volatility, execution errors, or technical glitches. Despite advancements in technology, these issues remain prevalent, causing concern among traders who rely on accurate and efficient transactions to maintain profitability.

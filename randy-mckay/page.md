@@ -1,6 +1,13 @@
 ---
-title: "Randy McKay: A Trading Legend (Algo Trading)"
-description: Discover the impressive journey of Randy McKay, a trading legend known for his transformative strategies in the investment world. With a career spanning over 30 years, McKay has turned modest sums into multi-million dollar successes, earning him a place in "New Market Wizards." Learn how his methodologies have influenced both novice and seasoned traders, and explore the impact of his strategies on algorithmic trading. Gain insight into his trading philosophy, notable achievements, and the innovative approaches that continue to inspire the trading community.
+category: trading_strategy
+description: Discover the impressive journey of Randy McKay, a trading legend known
+  for his transformative strategies in the investment world. With a career spanning
+  over 30 years, McKay has turned modest sums into multi-million dollar successes,
+  earning him a place in "New Market Wizards." Learn how his methodologies have influenced
+  both novice and seasoned traders, and explore the impact of his strategies on algorithmic
+  trading. Gain insight into his trading philosophy, notable achievements, and the
+  innovative approaches that continue to inspire the trading community.
+title: 'Randy McKay: A Trading Legend (Algo Trading)'
 ---
 
 Randy McKay is a distinguished figure in the trading industry, celebrated for his effective trading strategies and the valuable insights he has shared through trading literature. Over the course of his impressive 30-year career, McKay has demonstrated a remarkable ability to transform modest initial investments into substantial multi-million dollar successes. This prowess has solidified his reputation as a master trader, earning him a prominent feature in Jack Schwager's influential book, "New Market Wizards." Through this publication, McKay's methodologies have permeated the trading community, significantly impacting both novice traders looking to establish their strategies and seasoned traders seeking to refine their approaches.

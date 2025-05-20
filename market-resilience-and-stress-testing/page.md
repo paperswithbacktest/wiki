@@ -1,6 +1,9 @@
 ---
-title: "Market Resilience and Stress Testing (Algo Trading)"
-description: "Explore the importance of stress testing in algo trading to ensure market resilience. Learn how to identify strategy weaknesses and prepare for financial shocks."
+category: quant_concept
+description: Explore the importance of stress testing in algo trading to ensure market
+  resilience. Learn how to identify strategy weaknesses and prepare for financial
+  shocks.
+title: Market Resilience and Stress Testing (Algo Trading)
 ---
 
 Algorithmic trading has become a mainstay in the financial markets, offering opportunities to execute complex strategies with speed and precision. As market dynamics grow increasingly unpredictable, the concepts of market resilience and stress testing have emerged as essential components for ensuring the stability and efficacy of trading systems. Stress testing, in particular, is instrumental for traders in understanding how their algorithmic strategies would fare under extreme and unforeseen conditions.

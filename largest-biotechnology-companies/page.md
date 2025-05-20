@@ -1,6 +1,9 @@
 ---
-title: "List of Largest Biotechnology Companies (Algo Trading)"
-description: "Explore the leading biotech companies driving innovation in healthcare agriculture and environmental sustainability with insights on algorithmic trading strategies."
+category: dataset
+description: Explore the leading biotech companies driving innovation in healthcare
+  agriculture and environmental sustainability with insights on algorithmic trading
+  strategies.
+title: List of Largest Biotechnology Companies (Algo Trading)
 ---
 
 Biotechnology is a rapidly evolving field that merges the principles of biology with technological advancements to devise innovative solutions addressing a broad spectrum of challenges faced by humanity. This interdisciplinary domain integrates various scientific and engineering techniques to harness cellular and biomolecular processes. Its scope covers multiple sectors, notably pharmaceuticals, agriculture, and environmental applications. 

@@ -1,6 +1,15 @@
 ---
-title: "Top Algorithmic Trading Movies (Algo Trading)"
-description: Explore the captivating world of algorithmic trading in cinema with our curated list of top algo trading movies. These films artfully portray the intersection of finance and technology, capturing the high-stakes drama of automated trading in global markets. From high-frequency trading ventures to ethical dilemmas, each movie offers an engaging narrative while providing insights into the sophisticated strategies and rapid decision-making processes in algo trading. Delve into this fascinating genre to understand how algorithms are reshaping financial landscapes, offering both thrilling entertainment and educational value for viewers intrigued by modern finance.
+category: quant_concept
+description: Explore the captivating world of algorithmic trading in cinema with our
+  curated list of top algo trading movies. These films artfully portray the intersection
+  of finance and technology, capturing the high-stakes drama of automated trading
+  in global markets. From high-frequency trading ventures to ethical dilemmas, each
+  movie offers an engaging narrative while providing insights into the sophisticated
+  strategies and rapid decision-making processes in algo trading. Delve into this
+  fascinating genre to understand how algorithms are reshaping financial landscapes,
+  offering both thrilling entertainment and educational value for viewers intrigued
+  by modern finance.
+title: Top Algorithmic Trading Movies (Algo Trading)
 ---
 
 The intersection of film and finance has led to the creation of a variety of movies that explore the intricate world of trading. A particular niche of these films focuses on algorithmic trading, spotlighting a distinct aspect of global financial markets. Algorithmic trading, often referred to as 'algo trading', utilizes computer algorithms to automate trading decisions and execute transactions. This makes it a compelling subject for filmmakers seeking to capture the drama and pace of modern financial systems.

@@ -1,6 +1,13 @@
 ---
-title: "Potential Recession Indicator from Upcoming Employment Report (Algo Trading)"
-description: "Discover how the upcoming employment report, a crucial economic indicator released by the U.S. Bureau of Labor Statistics, impacts financial markets and predicts economic trends. Understand the significance of key metrics like unemployment rate, job creation, and labor force participation, and explore their role in shaping algorithmic trading strategies. Gain insights into the Sahm Rule, a reliable recession indicator, and its importance in economic forecasting. Analyze how employment data influences economic strategies, policies, and market behaviors in the current economic climate."
+category: trading_strategy
+description: Discover how the upcoming employment report, a crucial economic indicator
+  released by the U.S. Bureau of Labor Statistics, impacts financial markets and predicts
+  economic trends. Understand the significance of key metrics like unemployment rate,
+  job creation, and labor force participation, and explore their role in shaping algorithmic
+  trading strategies. Gain insights into the Sahm Rule, a reliable recession indicator,
+  and its importance in economic forecasting. Analyze how employment data influences
+  economic strategies, policies, and market behaviors in the current economic climate.
+title: Potential Recession Indicator from Upcoming Employment Report (Algo Trading)
 ---
 
 The jobs report, officially known as the Employment Situation Summary, is a crucial tool for gauging the health of an economy. Released monthly by the U.S. Bureau of Labor Statistics (BLS), it offers a comprehensive overview of the labor market by detailing employment, unemployment, and other related metrics. Economists and policymakers closely scrutinize these reports as they are vital indicators of economic trends and potential recessions.

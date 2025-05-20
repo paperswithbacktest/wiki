@@ -1,6 +1,8 @@
 ---
-title: "Measurement and Reporting of Oil and Gas Production (Algo Trading)"
-description: "Explore the crucial role of oil and gas production measurement and reporting in the energy sector alongside the impact of algorithmic trading on market efficiency."
+category: quant_concept
+description: Explore the crucial role of oil and gas production measurement and reporting
+  in the energy sector alongside the impact of algorithmic trading on market efficiency.
+title: Measurement and Reporting of Oil and Gas Production (Algo Trading)
 ---
 
 The energy sector is a dynamic and pivotal component of the global economy. It encompasses various facets, including oil and gas production, energy trading, and technological advancements such as algorithmic trading. Together, these elements constitute a complex ecosystem that significantly influences global economic stability and growth.

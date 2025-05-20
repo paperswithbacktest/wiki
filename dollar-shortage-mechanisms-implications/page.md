@@ -1,6 +1,9 @@
 ---
-title: "Dollar Shortage: Mechanisms and Implications (Algo Trading)"
-description: "Explore the mechanisms of dollar shortages and their impact on global trade and finance Discover how algorithmic trading offers strategic benefits in such crises"
+category: quant_concept
+description: Explore the mechanisms of dollar shortages and their impact on global
+  trade and finance Discover how algorithmic trading offers strategic benefits in
+  such crises
+title: 'Dollar Shortage: Mechanisms and Implications (Algo Trading)'
 ---
 
 In today's interconnected global economy, the significance of the U.S. dollar extends far beyond national borders, exerting considerable influence on international trade, finance, and economic stability. As the world's primary reserve currency, the value and availability of the U.S. dollar are pivotal for global transactions. This profound role makes economies vulnerable to currency crises, events often marked by severe devaluations that disrupt financial systems both locally and internationally.

@@ -1,6 +1,9 @@
 ---
-title: "Basic Investment Objectives and Considerations (Algo Trading)"
-description: "Explore essential investment strategies and the impact of algorithmic trading in wealth management to enhance financial planning and achieve long-term goals."
+category: quant_concept
+description: Explore essential investment strategies and the impact of algorithmic
+  trading in wealth management to enhance financial planning and achieve long-term
+  goals.
+title: Basic Investment Objectives and Considerations (Algo Trading)
 ---
 
 Investing and financial planning are essential components of personal and institutional wealth management. They serve as foundational pillars for achieving long-term financial security and growth. By systematically allocating resources and planning for future financial needs, individuals and organizations can enhance their ability to meet both immediate and long-term objectives. Effective investing enables wealth accumulation, while financial planning provides a structured framework to navigate the complexities of various economic scenarios. 

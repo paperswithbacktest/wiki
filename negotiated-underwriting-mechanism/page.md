@@ -1,6 +1,9 @@
 ---
-title: "Negotiated Underwriting: Definition and Mechanism (Algo Trading)"
-description: "Explore the impact of negotiated underwriting and algorithmic trading on securities issuance Discover how these strategies enhance market efficiency and investor opportunities"
+category: quant_concept
+description: Explore the impact of negotiated underwriting and algorithmic trading
+  on securities issuance Discover how these strategies enhance market efficiency and
+  investor opportunities
+title: 'Negotiated Underwriting: Definition and Mechanism (Algo Trading)'
 ---
 
 In today's financial landscape, underwriting and algorithmic trading are two pivotal mechanisms significantly influencing the investment and securities market. Underwriting, particularly negotiated underwriting, plays a crucial role in the process of issuing new securities. Through negotiated underwriting, issuers of securities engage directly with underwriters to establish terms, including purchase and offering prices. This strategic interaction is particularly relevant during initial public offerings (IPOs), setting groundwork that impacts market positioning and security profitability.

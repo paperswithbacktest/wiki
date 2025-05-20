@@ -1,6 +1,8 @@
 ---
-title: "Mark-to-Market Losses: Overview and Examples (Algo Trading)"
-description: "Explore how mark-to-market losses and algorithmic trading influence financial reporting and investor decisions in today's complex financial markets."
+category: quant_concept
+description: Explore how mark-to-market losses and algorithmic trading influence financial
+  reporting and investor decisions in today's complex financial markets.
+title: 'Mark-to-Market Losses: Overview and Examples (Algo Trading)'
 ---
 
 Investment losses are a fundamental aspect of financial accounting, reflecting the decrease in the value of assets or investments. These losses occur when the returns on investments are lower than their original cost, highlighting the inherent risks and uncertainties in the financial markets. Financial accounting plays a crucial role in systematically recording, analyzing, and reporting these losses to provide a transparent view of an entity's financial condition. The accurate accounting of investment losses is essential for stakeholders, including investors and regulators, to assess the financial health of companies.

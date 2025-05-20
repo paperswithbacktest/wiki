@@ -1,6 +1,9 @@
 ---
-title: "California Assembly Bill 5: Overview and Implications (Algo Trading)"
-description: "Explore the transformative impact of California Assembly Bill 5 (AB5) on gig workers and businesses, focusing on its implications for algorithmic trading in California."
+category: quant_concept
+description: Explore the transformative impact of California Assembly Bill 5 (AB5)
+  on gig workers and businesses, focusing on its implications for algorithmic trading
+  in California.
+title: 'California Assembly Bill 5: Overview and Implications (Algo Trading)'
 ---
 
 California Assembly Bill 5 (AB5) has significantly transformed the gig economy landscape by redefining how workers are classified within the state. Enacted in 2019, the primary objective of AB5 was to extend employee-like rights to gig workers who were previously categorized as independent contractors. This legislative change has ignited extensive legal and political debates concerning worker classification, revealing a complex interplay between labor rights and business models.

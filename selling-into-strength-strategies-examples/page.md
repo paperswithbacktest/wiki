@@ -1,6 +1,9 @@
 ---
-title: "Selling Into Strength: Strategies and Examples (Algo Trading)"
-description: "Explore selling into strength strategies in algo trading Learn how traders capitalize on rising prices by forecasting trends and using tech for precision in execution"
+category: trading_strategy
+description: Explore selling into strength strategies in algo trading Learn how traders
+  capitalize on rising prices by forecasting trends and using tech for precision in
+  execution
+title: 'Selling Into Strength: Strategies and Examples (Algo Trading)'
 ---
 
 The financial markets are complex and dynamic environments where traders and investors are constantly seeking opportunities to maximize their profits. Within these markets, a sophisticated strategy gaining traction among astute investors is known as 'selling into strength'. This approach is often deployed in tandem with algorithmic trading, a technology-driven method that enhances the strategy's effectiveness and precision.

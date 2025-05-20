@@ -1,6 +1,8 @@
 ---
-title: "Layered Fees (Algo Trading)"
-description: "Understanding layered fees in algorithmic trading is crucial for maximizing returns by managing execution, data, and infrastructure costs effectively."
+category: quant_concept
+description: Understanding layered fees in algorithmic trading is crucial for maximizing
+  returns by managing execution, data, and infrastructure costs effectively.
+title: Layered Fees (Algo Trading)
 ---
 
 In algorithmic trading, understanding the various fees associated with financial transactions is crucial to maximizing returns. Algorithmic trading, which involves using computer algorithms to manage trading activities, often promises increased efficiency and potential returns. However, these benefits can be significantly offset by the fees incurred during the trading process.

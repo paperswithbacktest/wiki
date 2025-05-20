@@ -1,6 +1,8 @@
 ---
-title: "European Monetary System (Algo Trading)"
-description: "Explore the European Monetary System's role in fostering economic integration, its impact on financial markets, and the rise of algorithmic trading in Europe."
+category: quant_concept
+description: Explore the European Monetary System's role in fostering economic integration,
+  its impact on financial markets, and the rise of algorithmic trading in Europe.
+title: European Monetary System (Algo Trading)
 ---
 
 The European Monetary System (EMS) was initiated in 1979 as a crucial mechanism aimed at promoting economic integration and achieving monetary stability across Europe. Designed to reduce exchange rate variability and facilitate closer cooperation between member states, the EMS was part of broader efforts to unify European economies. This article examines how the EMS has contributed to European integration, tracing its evolution over time and assessing its impact on financial systems.

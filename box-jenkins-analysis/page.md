@@ -1,6 +1,13 @@
 ---
-title: "Box-Jenkins analysis (Algo Trading)"
-description: Explore the power of Box-Jenkins analysis in algorithmic trading, a crucial quantitative tool for forecasting financial market trends through time-series data. Utilizing the ARIMA model, this statistical method boosts efficiency by analyzing past data to predict future values, providing traders with enhanced decision-making capabilities and a competitive edge in the evolving financial landscape. Understand the synergy between traditional statistical theories and modern technology, enhancing trading strategies with accurate market forecasts.
+category: quant_concept
+description: Explore the power of Box-Jenkins analysis in algorithmic trading, a crucial
+  quantitative tool for forecasting financial market trends through time-series data.
+  Utilizing the ARIMA model, this statistical method boosts efficiency by analyzing
+  past data to predict future values, providing traders with enhanced decision-making
+  capabilities and a competitive edge in the evolving financial landscape. Understand
+  the synergy between traditional statistical theories and modern technology, enhancing
+  trading strategies with accurate market forecasts.
+title: Box-Jenkins analysis (Algo Trading)
 ---
 
 Algorithmic trading refers to the use of computer algorithms to automate trading decisions and execute trades in financial markets at speeds and frequencies beyond human capability. This form of trading, which leverages complex mathematical models, has become increasingly significant in modern financial markets due to its efficiency and precision. It allows traders to analyze massive datasets and execute trades at optimal times, often based on pre-defined criteria, reducing human error and emotional involvement.

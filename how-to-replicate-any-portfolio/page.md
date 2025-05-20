@@ -1,6 +1,15 @@
 ---
-title: "How to Replicate Any Portfolio"
-description: This article discusses how algorithmic trading can be used to replicate any portfolio, offering a detailed guide to enhance historical analysis and strategic planning. It highlights the benefits of using factor-based methodologies to analyze portfolios with limited historical data, extending the available analysis up to a century. By employing techniques such as multifactor regression analysis, investors can gain insights into portfolio sensitivities and drivers, aiding in risk management and strategic decision-making. The article also emphasizes the importance of constructing extensive datasets to uncover long-term risks and opportunities, ultimately providing a robust framework for informed investment decisions.
+category: trading_strategy
+description: This article discusses how algorithmic trading can be used to replicate
+  any portfolio, offering a detailed guide to enhance historical analysis and strategic
+  planning. It highlights the benefits of using factor-based methodologies to analyze
+  portfolios with limited historical data, extending the available analysis up to
+  a century. By employing techniques such as multifactor regression analysis, investors
+  can gain insights into portfolio sensitivities and drivers, aiding in risk management
+  and strategic decision-making. The article also emphasizes the importance of constructing
+  extensive datasets to uncover long-term risks and opportunities, ultimately providing
+  a robust framework for informed investment decisions.
+title: How to Replicate Any Portfolio
 ---
 
 Algorithmic trading has fundamentally transformed investing, offering a new lens to not only devise strategies but also replicate any portfolio for enhanced historical analysis. This approach enables investors and analysts to gain a deeper understanding of portfolio dynamics, offering insights both retrospectively and for future planning. By leveraging algorithmic techniques, we can dissect portfolio performances with a precision that traditional methods often lack. 

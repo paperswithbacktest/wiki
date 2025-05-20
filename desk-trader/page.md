@@ -1,6 +1,8 @@
 ---
-title: "Desk Trader (Algo Trading)"
-description: "Explore the evolution of desk and algorithmic trading in modern financial markets, emphasizing strategies for optimizing investment outcomes and market efficiency."
+category: trading_strategy
+description: Explore the evolution of desk and algorithmic trading in modern financial
+  markets, emphasizing strategies for optimizing investment outcomes and market efficiency.
+title: Desk Trader (Algo Trading)
 ---
 
 In the modern era of financial markets, trading has transformed remarkably from traditional approaches to more sophisticated methods such as desk trading and algorithmic trading. Traditional trading, once characterized by face-to-face transactions and fundamental analysis, now encompasses a broad array of strategies and technologies that amplify the ability of traders to respond to market opportunities swiftly and efficiently.

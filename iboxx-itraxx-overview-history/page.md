@@ -1,6 +1,9 @@
 ---
-title: "IBoxx iTraxx: Overview and History (Algo Trading)"
-description: "Explore how iTraxx indices revolutionize finance by enabling efficient trading of credit derivatives through algorithmic strategies for risk management and speculation."
+category: quant_concept
+description: Explore how iTraxx indices revolutionize finance by enabling efficient
+  trading of credit derivatives through algorithmic strategies for risk management
+  and speculation.
+title: 'IBoxx iTraxx: Overview and History (Algo Trading)'
 ---
 
 In finance, the iTraxx derivatives credit index plays a crucial role in providing transparency and risk management for market participants. As a standardized benchmark, it enables investors to efficiently trade credit default swaps, offering insights into the creditworthiness of various entities. This article examines the iTraxx index's relevance in algorithmic trading, a technique that leverages advanced computational algorithms to automate and optimize trading strategies. By understanding credit derivatives, investors gain access to unique financial instruments that allow them to manage risk and speculate on credit market changes.

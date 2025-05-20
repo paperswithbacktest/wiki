@@ -1,6 +1,9 @@
 ---
-title: "Momentum Investing: Concept, Calculations, and Debate (Algo Trading)"
-description: "Explore how synergy between momentum investing and algorithmic trading optimizes strategies in financial markets and leverages market trends for improved outcomes."
+category: trading_strategy
+description: Explore how synergy between momentum investing and algorithmic trading
+  optimizes strategies in financial markets and leverages market trends for improved
+  outcomes.
+title: 'Momentum Investing: Concept, Calculations, and Debate (Algo Trading)'
 ---
 
 Financial markets are platforms where financial instruments—such as stocks, bonds, currencies, and derivatives—are traded. These markets are fundamental to the functioning of any economy as they provide capital by matching investors with entities that need funds. Investment strategies play a pivotal role in these markets, helping investors make informed decisions to optimize their returns relative to their risk preferences. These strategies can range from conservative approaches focusing on long-term gains to aggressive tactics aiming to capitalize on short-term market fluctuations.

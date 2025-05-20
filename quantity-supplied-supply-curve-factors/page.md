@@ -1,6 +1,8 @@
 ---
-title: "Quantity Supplied and Supply Curve Factors (Algo Trading)"
-description: "Explore how economic factors shape the supply curve and the role of algorithmic trading in modern markets. Learn to navigate supply dynamics effectively."
+category: quant_concept
+description: Explore how economic factors shape the supply curve and the role of algorithmic
+  trading in modern markets. Learn to navigate supply dynamics effectively.
+title: Quantity Supplied and Supply Curve Factors (Algo Trading)
 ---
 
 In the ever-evolving world of finance and economics, understanding the dynamic interplay between economic factors and market supply is crucial. At the core of these interactions is the concept of quantity supplied, which refers to the amount of a good or service that producers are willing and able to offer for sale at a given price point within a specific time period. This notion forms the basis of the supply curve, a fundamental element of economic theory. The supply curve graphically represents the relationship between price levels and the quantity of goods supplied, typically illustrating an upward slope that reflects a direct relationship: as prices increase, the quantity supplied tends to rise.

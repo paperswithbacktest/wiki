@@ -1,6 +1,8 @@
 ---
-title: "Bid Size and Real-World Examples (Algo Trading)"
-description: "Explore the vital role of bid size in algorithmic trading Learn how understanding bid size can enhance trading strategies through real-world examples and insights"
+category: quant_concept
+description: Explore the vital role of bid size in algorithmic trading Learn how understanding
+  bid size can enhance trading strategies through real-world examples and insights
+title: Bid Size and Real-World Examples (Algo Trading)
 ---
 
 Financial markets trading encompasses a broad spectrum of strategies and technologies, with algorithmic trading standing out as a prime example. Algorithmic trading involves the use of computer algorithms to execute trading decisions based on predefined criteria. This sophisticated technology has transformed the trading landscape by enabling rapid and precise market transactions while minimizing human errors and biases. A key component in this process is understanding bid size, a metric vital for evaluating market demand and liquidity.
@@ -171,4 +173,3 @@ Aronson, D. R. (2007). *Evidence-Based Technical Analysis*. Aronson's work criti
 Jansen, S. (2020). *Machine Learning for Algorithmic Trading*. This book offers a structured approach to building machine learning-based trading systems. It covers a wide range of topics, including data acquisition, modeling, and implementation, with clear Python examples that facilitate practical application in trading algorithms.
 
 Chan, E. P. (2019). *Quantitative Trading: How to Build Your Own Algorithmic Trading Business*. Chan's guide is ideal for those interested in establishing their own algorithmic trading business. It provides insights into quantitative and algorithmic trading concepts, risk management, and practical aspects of system development and deployment.
-

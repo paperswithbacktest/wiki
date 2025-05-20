@@ -1,6 +1,9 @@
 ---
-title: "Modern Fixed-Income Portfolio Construction (Algo Trading)"
-description: "Enhance your fixed-income portfolio management with algorithmic trading strategies to optimize returns and manage risks effectively in a changing market landscape."
+category: trading_strategy
+description: Enhance your fixed-income portfolio management with algorithmic trading
+  strategies to optimize returns and manage risks effectively in a changing market
+  landscape.
+title: Modern Fixed-Income Portfolio Construction (Algo Trading)
 ---
 
 In the ever-evolving financial market, managing a fixed-income portfolio effectively is crucial for investors seeking steady returns and risk mitigation. Fixed-income investments are foundational components of many portfolios, offering predictable income streams and reduced volatility compared to equities. However, the low-interest-rate environment and fluctuating economic conditions necessitate a strategic approach to maximize returns and mitigate risks. This article aims to explore investment strategies for fixed-income portfolios and the role of algorithmic trading in enhancing portfolio management.
@@ -146,4 +149,3 @@ In conclusion, a structured and well-researched approach to managing fixed-incom
 5. **Principles of Financial Engineering by Salih N. Neftci**: This book provides an in-depth look at the design, creation, and evaluation of financial instruments. It offers detailed insights into how quantitative methods and financial technologies can be used to manage risks and enhance returns in the investment process. Part of its focus is on the application of financial engineering techniques within fixed-income markets to improve portfolio outcomes.
 
 These resources collectively offer a solid theoretical foundation and practical guidance for investors, traders, and financial analysts involved in fixed-income investment and algorithmic trading. They can serve as foundational literature for those aiming to enhance their investment strategies and apply advanced quantitative techniques in their portfolio management practices.
-

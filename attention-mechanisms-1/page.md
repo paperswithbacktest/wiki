@@ -1,7 +1,8 @@
 ---
-title: Understanding Attention Mechanisms in Machine Learning Models
+category: quant_concept
 description: Attention mechanisms help models focus on relevant data parts to improve
   translation accuracy and performance in NLP and vision tasks Discover more inside.
+title: Understanding Attention Mechanisms in Machine Learning Models
 ---
 
 ![Image](images/1.png)

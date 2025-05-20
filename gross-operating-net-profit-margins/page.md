@@ -1,6 +1,8 @@
 ---
-title: "Gross, Operating, and Net Profit Margins (Algo Trading)"
-description: "Explore how different profit margins impact trading decisions in algorithmic trading providing key insights into a company's financial health and profitability."
+category: quant_concept
+description: Explore how different profit margins impact trading decisions in algorithmic
+  trading providing key insights into a company's financial health and profitability.
+title: Gross, Operating, and Net Profit Margins (Algo Trading)
 ---
 
 In the fast-paced world of finance, understanding the different types of profit margins is crucial for investors and traders alike. Profit margins serve as key indicators of a company's financial health, providing insights into its ability to convert sales into actual profit. In the context of algorithmic trading, which leverages statistical analysis and computational algorithms to execute trades at high speeds, being aware of these financial metrics becomes essential.

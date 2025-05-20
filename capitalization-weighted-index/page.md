@@ -1,6 +1,9 @@
 ---
-title: "Capitalization-Weighted Index (Algo Trading)"
-description: "Explore the intricacies of capitalization-weighted indices and algorithmic trading to grasp their influence on market performance and develop informed investment strategies."
+category: quant_concept
+description: Explore the intricacies of capitalization-weighted indices and algorithmic
+  trading to grasp their influence on market performance and develop informed investment
+  strategies.
+title: Capitalization-Weighted Index (Algo Trading)
 ---
 
 Stock market indices serve as essential instruments for assessing the performance of specific sectors or the broader market. Among the various types of indices, the capitalization-weighted stock market index stands out as one of the most widely used. This type of index assigns weights to its constituent stocks based on their market capitalizations, providing a clear reflection of the market's collective valuation of each company. 

@@ -1,6 +1,9 @@
 ---
-title: "Private Equity: Examples and Investment Strategies (Algo Trading)"
-description: "Explore private equity and algorithmic trading strategies with real-world examples and insights into methodologies benefits and risks for informed investment decisions"
+category: trading_strategy
+description: Explore private equity and algorithmic trading strategies with real-world
+  examples and insights into methodologies benefits and risks for informed investment
+  decisions
+title: 'Private Equity: Examples and Investment Strategies (Algo Trading)'
 ---
 
 The world of investments is vast and varied, offering numerous opportunities for both individuals and institutions to grow their wealth. In navigating this complex financial landscape, understanding different investment strategies is paramount. Among the diverse tactics available, private equity and algorithmic trading stand out for their unique methodologies and potential benefits.

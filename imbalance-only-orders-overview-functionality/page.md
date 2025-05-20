@@ -1,6 +1,9 @@
 ---
-title: "Imbalance Only Orders: Overview and Functionality (Algo Trading)"
-description: "Explore the strategic use of imbalance-only orders in algorithmic trading. Learn how these specialized orders optimize trade execution, enhance liquidity, and manage risk."
+category: quant_concept
+description: Explore the strategic use of imbalance-only orders in algorithmic trading.
+  Learn how these specialized orders optimize trade execution, enhance liquidity,
+  and manage risk.
+title: 'Imbalance Only Orders: Overview and Functionality (Algo Trading)'
 ---
 
 In the fast-paced world of stock trading, understanding various order types is essential for maximizing strategies and minimizing risks. Stock market orders form the foundational backbone of trading strategies, dictating how trades are executed, at what price levels, and under what conditions. Among these, imbalance-only (IO) orders represent a specialized category that plays a significant role in the trading ecosystem, particularly within algorithmic trading frameworks.

@@ -1,6 +1,8 @@
 ---
-title: "Metrics in Data Analysis (Algo Trading)"
-description: "Explore essential metrics in algorithmic trading to optimize strategies through data analysis. Enhance profitability and risk management with key insights."
+category: trading_strategy
+description: Explore essential metrics in algorithmic trading to optimize strategies
+  through data analysis. Enhance profitability and risk management with key insights.
+title: Metrics in Data Analysis (Algo Trading)
 ---
 
 Algorithmic trading has become a transformative force in financial markets, offering new avenues for both institutional and individual traders to increase efficiency and reduce the influence of emotional biases in trading decisions. By deploying trading algorithms, market participants aim to capitalize on market opportunities with precision and speed, often unattainable through manual trading methods. These algorithms employ pre-defined rules based on mathematical models and quantitative analysis to execute trades automatically.

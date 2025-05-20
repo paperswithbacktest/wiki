@@ -1,6 +1,9 @@
 ---
-title: "Environmental Investment Strategies Using Exchange-Traded Funds (Algo Trading)"
-description: "Combine sustainable investing with algorithmic trading by optimizing green ETFs targeting renewable energy clean tech and sustainable agriculture for financial growth."
+category: trading_strategy
+description: Combine sustainable investing with algorithmic trading by optimizing
+  green ETFs targeting renewable energy clean tech and sustainable agriculture for
+  financial growth.
+title: Environmental Investment Strategies Using Exchange-Traded Funds (Algo Trading)
 ---
 
 In recent years, sustainable investing has experienced substantial growth, with a notable emphasis on green Exchange-Traded Funds (ETFs). These investment vehicles focus on companies committed to environmentally responsible practices, enabling investors to support sustainable initiatives while potentially realizing financial returns. Green ETFs invest in sectors such as renewable energy, clean technology, and sustainable agriculture, providing a diversified approach to sustainable investing. 

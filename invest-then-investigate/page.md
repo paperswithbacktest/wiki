@@ -1,6 +1,9 @@
 ---
-title: "Invest Then Investigate (Algo Trading)"
-description: "Unlock the complexities of algo trading and investment strategies with insights on value growth and income investing Learn how to navigate today's financial markets"
+category: trading_strategy
+description: Unlock the complexities of algo trading and investment strategies with
+  insights on value growth and income investing Learn how to navigate today's financial
+  markets
+title: Invest Then Investigate (Algo Trading)
 ---
 
 Investment decisions can be complex, involving a myriad of strategies and analyses essential for navigating the ever-evolving financial markets. As investors strive to optimize their portfolios, understanding various investment strategies—including value investing, growth investing, and income investing—becomes crucial. Each of these strategies offers unique benefits, risks, and time horizons, catering to different goals and risk appetites.

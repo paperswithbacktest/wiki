@@ -1,6 +1,14 @@
 ---
-title: "K-fold cross-validation (CV) (Algo Trading)"
-description: K-fold cross-validation is a key technique in machine learning used to evaluate predictive models by dividing data into 'k' subsets or folds. Each fold is used once as a test set, while the remaining serve as training sets, helping to enhance model generalization and mitigate overfitting. In algorithmic trading, this method validates trading models rigorously to ensure reliability on unseen data, addressing challenges like hindsight bias and data snooping. Financial data's temporal nature complicates cross-validation, requiring methodologies like purging and embargoing to prevent data leakage and ensure robust strategy development.
+category: quant_concept
+description: K-fold cross-validation is a key technique in machine learning used to
+  evaluate predictive models by dividing data into 'k' subsets or folds. Each fold
+  is used once as a test set, while the remaining serve as training sets, helping
+  to enhance model generalization and mitigate overfitting. In algorithmic trading,
+  this method validates trading models rigorously to ensure reliability on unseen
+  data, addressing challenges like hindsight bias and data snooping. Financial data's
+  temporal nature complicates cross-validation, requiring methodologies like purging
+  and embargoing to prevent data leakage and ensure robust strategy development.
+title: K-fold cross-validation (CV) (Algo Trading)
 ---
 
 K-fold cross-validation is a fundamental technique in machine learning aimed at evaluating the effectiveness of predictive models. This method partitions data into 'k' subsets or 'folds', using one as a test set while the remaining serve as training sets, iterating over all folds to ensure each subset is used for both training and testing. Its primary benefit lies in its ability to enhance generalization and mitigate overfitting. Consequently, k-fold cross-validation is regarded as an essential tool for model validation across various domains, including its emerging utilization in algorithmic trading.

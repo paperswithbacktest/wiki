@@ -1,6 +1,8 @@
 ---
-title: "National Multi-Commodity Exchange of India (Algo Trading)"
-description: "Explore how the National Multi-Commodity Exchange (NMCE) utilizes algorithmic trading to enhance efficiency and accessibility in India's commodity market."
+category: quant_concept
+description: Explore how the National Multi-Commodity Exchange (NMCE) utilizes algorithmic
+  trading to enhance efficiency and accessibility in India's commodity market.
+title: National Multi-Commodity Exchange of India (Algo Trading)
 ---
 
 Commodity trading is a critical component of the global economy, affecting everything from raw materials to the final products used in daily life. As the trading landscape evolves, algorithmic trading has emerged as a transformative force, making the trading process more efficient and accessible. Algorithmic trading employs computer algorithms to automate trading decisions, allowing for swift execution and enhanced precision. This shift has led to increased participation, driving liquidity and lowering costs for market participants.

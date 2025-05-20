@@ -1,6 +1,9 @@
 ---
-title: "Endogenous Growth Theory (Algo Trading)"
-description: "Explore how endogenous growth theory, which emphasizes innovation and human capital, aligns with algorithmic trading to drive sustainable economic and financial growth."
+category: quant_concept
+description: Explore how endogenous growth theory, which emphasizes innovation and
+  human capital, aligns with algorithmic trading to drive sustainable economic and
+  financial growth.
+title: Endogenous Growth Theory (Algo Trading)
 ---
 
 The interplay between economic growth models and algorithmic trading is significantly reshaping financial landscapes. Central to this transformation is endogenous growth theory, which emphasizes internal factors such as innovation and human capital as critical drivers of long-term economic development. Unlike other growth models that prioritize external influences, endogenous growth theory posits that investing in education, research and development (R&D), and technological advancement is vital for sustainable growth.
@@ -120,4 +123,3 @@ Future research and policy initiatives should prioritize the dual objectives of 
 [6]: Jansen, S. (2020). [Machine Learning for Algorithmic Trading](https://github.com/stefan-jansen/machine-learning-for-trading). Packt Publishing.
 
 [7]: Chan, E. P. (2009). [Quantitative Trading: How to Build Your Own Algorithmic Trading Business](https://github.com/ftvision/quant_trading_echan_book). Wiley.
-

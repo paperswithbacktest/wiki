@@ -1,6 +1,9 @@
 ---
-title: "Real Estate Market Tiers (Algo Trading)"
-description: "Explore how financial technology is transforming real estate through property classification, market tier analysis, and algorithmic trading, enhancing investment strategies."
+category: quant_concept
+description: Explore how financial technology is transforming real estate through
+  property classification, market tier analysis, and algorithmic trading, enhancing
+  investment strategies.
+title: Real Estate Market Tiers (Algo Trading)
 ---
 
 The intersection of real estate and financial technology has become a dynamic area of exploration and innovation, offering new opportunities and challenges for industry stakeholders. In recent years, the integration of financial technologies has transformed traditional practices in the real estate sector, leading to the emergence of new paradigms such as property classification systems, market tier analysis, and algorithmic trading. These components play significant roles in defining market dynamics and influencing investment strategies.

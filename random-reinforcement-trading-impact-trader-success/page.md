@@ -1,6 +1,9 @@
 ---
-title: "Random Reinforcement in Trading and Its Impact on Trader Success (Algo Trading)"
-description: "Explore the impact of random reinforcement on trading psychology It discusses how cognitive biases lead traders to misattribute random outcomes to skill and offers strategies to mitigate these effects"
+category: quant_concept
+description: Explore the impact of random reinforcement on trading psychology It discusses
+  how cognitive biases lead traders to misattribute random outcomes to skill and offers
+  strategies to mitigate these effects
+title: Random Reinforcement in Trading and Its Impact on Trader Success (Algo Trading)
 ---
 
 In the trading world, many aspiring traders enter the markets with hopes of making profits but are often unaware of the psychological traps and long-term challenges they may face. The allure of financial success can be overshadowed by the mental and emotional complexities inherent in trading. Traders frequently encounter a phenomenon known as random reinforcement, which plays a significant role in their potential defeat within the markets.

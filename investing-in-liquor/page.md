@@ -1,6 +1,9 @@
 ---
-title: "Investing in Liquor (Algo Trading)"
-description: "Explore investing in liquor and spirits as an alternative investment strategy. Learn about algorithmic trading and its impact on optimizing returns in this niche market."
+category: trading_strategy
+description: Explore investing in liquor and spirits as an alternative investment
+  strategy. Learn about algorithmic trading and its impact on optimizing returns in
+  this niche market.
+title: Investing in Liquor (Algo Trading)
 ---
 
 The world of investing is vast and diverse, offering opportunities that extend from traditional stocks and bonds to more specialized markets such as alcohol investing. Over recent years, investing in liquor and spirits has garnered attention as a promising alternative investment strategy. This growing interest stems from the unique potential and distinctive challenges associated with the alcohol market, urging investors to consider it as a part of their diversified portfolio.

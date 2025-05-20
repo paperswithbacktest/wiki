@@ -1,6 +1,8 @@
 ---
-title: "Bull Call Spread: Overview, Examples, Risks, and Benefits (Algo Trading)"
-description: "Explore the bull call spread strategy to optimize options trading and manage risks and rewards effectively using algorithmic trading for enhanced results."
+category: trading_strategy
+description: Explore the bull call spread strategy to optimize options trading and
+  manage risks and rewards effectively using algorithmic trading for enhanced results.
+title: 'Bull Call Spread: Overview, Examples, Risks, and Benefits (Algo Trading)'
 ---
 
 Options trading offers a variety of strategies for investors seeking to capitalize on market movements. Among these strategies, the bull call spread stands out as a popular choice for those with a bullish outlook. This strategy involves the simultaneous purchase and sale of call options, strategically set up to profit from potential upward price movements in the underlying asset, while keeping risk in check. Specifically, the bull call spread requires buying a call option at a lower strike price and selling a call option at a higher strike price, limiting both risk and reward to a predefined level.

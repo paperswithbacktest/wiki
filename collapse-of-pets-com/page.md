@@ -1,6 +1,8 @@
 ---
-title: "Collapse of Pets.com (Algo Trading)"
-description: "Explore the rise and fall of Pets.com during the dot-com bubble highlighting the impact of speculative trading and flawed business models in tech startups."
+category: trading_strategy
+description: Explore the rise and fall of Pets.com during the dot-com bubble highlighting
+  the impact of speculative trading and flawed business models in tech startups.
+title: Collapse of Pets.com (Algo Trading)
 ---
 
 The late 1990s and early 2000s marked a period of remarkable technological advancement and fervent stock market activity, largely driven by the advent of the internet. This era, known as the dot-com bubble, saw the emergence of numerous online businesses, many of which adopted the '.com' domain suffix that symbolized their presence on the burgeoning World Wide Web. Companies during this time experienced breathtaking growth and were often subject to equally rapid declines.

@@ -1,9 +1,16 @@
 ---
-title: "Books for quants"
-description: Dive into the world of quantitative finance with this definitive collection of books for quants. From theoretical underpinnings to advanced topics like stochastic calculus, time series analysis, and machine learning, these texts provide invaluable insights and practical applications for enhancing analytical capabilities. Books by renowned authors such as Hull, Joshi, Wilmott, Shreve, Hamilton, and Lopez de Prado cover risk management, stochastic calculus, time series analysis, and machine learning in finance. Whether you're a beginner or an advanced quant, these texts serve as continual references for navigating the ever-evolving landscape of quantitative finance.
+category: quant_concept
+description: Dive into the world of quantitative finance with this definitive collection
+  of books for quants. From theoretical underpinnings to advanced topics like stochastic
+  calculus, time series analysis, and machine learning, these texts provide invaluable
+  insights and practical applications for enhancing analytical capabilities. Books
+  by renowned authors such as Hull, Joshi, Wilmott, Shreve, Hamilton, and Lopez de
+  Prado cover risk management, stochastic calculus, time series analysis, and machine
+  learning in finance. Whether you're a beginner or an advanced quant, these texts
+  serve as continual references for navigating the ever-evolving landscape of quantitative
+  finance.
+title: Books for quants
 ---
-
-
 
 Quantitative finance merges mathematical finance theory with practical financial markets applications, harnessing mathematical models to drive investment strategies, manage risk, and predict market movements. For quants, who operate at the intersection of finance, mathematics, and programming, continuous learning isn't just beneficial; it's a necessity. The financial landscape is perpetually evolving, with new models, regulatory landscapes, and computational tools emerging constantly. Hence, a commitment to reading and learning is paramount for those looking to excel in this field.
 

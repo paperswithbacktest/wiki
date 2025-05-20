@@ -1,6 +1,9 @@
 ---
-title: "Limited Currency Convertibility (Algo Trading)"
-description: "Explore the impact of limited currency convertibility on forex trading and international trade Learn about algorithmic trading and how it shapes currency exchange dynamics"
+category: quant_concept
+description: Explore the impact of limited currency convertibility on forex trading
+  and international trade Learn about algorithmic trading and how it shapes currency
+  exchange dynamics
+title: Limited Currency Convertibility (Algo Trading)
 ---
 
 Forex trading, or foreign exchange trading, has undergone a transformative journey with the continuous advancements in technology and the digitization of financial markets. Historically, forex trading had been limited to large financial institutions, multinational corporations, and high-net-worth individuals. However, the proliferation of digital platforms and advanced technologies has democratized access, allowing individual traders to participate in this global market. 

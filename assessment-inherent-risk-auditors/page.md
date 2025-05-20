@@ -1,6 +1,8 @@
 ---
-title: "Assessment of Inherent Risk by Auditors (Algo Trading)"
-description: "Auditors assess inherent risks in algorithmic trading by evaluating control effectiveness to ensure systems align with regulatory standards and operate safely."
+category: quant_concept
+description: Auditors assess inherent risks in algorithmic trading by evaluating control
+  effectiveness to ensure systems align with regulatory standards and operate safely.
+title: Assessment of Inherent Risk by Auditors (Algo Trading)
 ---
 
 Algorithmic trading refers to the use of computer algorithms to automate trading activities in financial markets. These algorithms leverage mathematical models and historical data to make decisions based on predetermined criteria, allowing traders to execute orders at speeds and frequencies impractical for human traders. The growing significance of algorithmic trading in financial markets is underscored by its ability to increase market liquidity, reduce transaction costs, and eliminate human emotions that often affect trading decisions. It is estimated that algorithmic trading accounts for a significant portion of trading volume in major stock exchanges, indicating its entrenched role in modern finance.

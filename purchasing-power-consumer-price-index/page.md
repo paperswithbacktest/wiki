@@ -1,6 +1,14 @@
 ---
-title: "Purchasing Power and Consumer Price Index (Algo Trading)"
-description: "Explore the interconnectedness of purchasing power, inflation, consumer price index (CPI), and algorithmic trading in today's economic landscape. Understand how inflation affects purchasing power and how the CPI measures changes in consumer prices. Discover the role of algorithmic trading in modern financial markets and its reliance on economic indicators to execute trades efficiently. This article investigates into historical trends, recent changes, and future prospects of these metrics, offering insights into their implications on financial markets and personal financial well-being."
+category: quant_concept
+description: Explore the interconnectedness of purchasing power, inflation, consumer
+  price index (CPI), and algorithmic trading in today's economic landscape. Understand
+  how inflation affects purchasing power and how the CPI measures changes in consumer
+  prices. Discover the role of algorithmic trading in modern financial markets and
+  its reliance on economic indicators to execute trades efficiently. This article
+  investigates into historical trends, recent changes, and future prospects of these
+  metrics, offering insights into their implications on financial markets and personal
+  financial well-being.
+title: Purchasing Power and Consumer Price Index (Algo Trading)
 ---
 
 Purchasing power, inflation, the consumer price index (CPI), and algorithmic trading are essential concepts in understanding today's complex economic and financial environments. Purchasing power refers to the quantity of goods and services that a unit of currency can buy. It is a critical determinant of an individual's or an economy's overall economic well-being and is closely linked to inflation. Inflation is the rate at which the general level of prices for goods and services is rising and subsequently eroding purchasing power. The consumer price index is one of the tools used to measure inflation, reflecting the average change over time in the prices paid by urban consumers for a basket of consumer goods and services.

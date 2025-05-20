@@ -1,6 +1,13 @@
 ---
-title: "Top Carbon Dioxide Emitting Countries (Algo Trading)"
-description: "Explore the dynamics of global CO2 emissions by uncovering the top carbon dioxide emitting countries and the factors driving their elevated levels. Discover how industrial activities energy consumption patterns and policy frameworks contribute to these emissions and examine the role of algorithmic trading in carbon markets as a potential tool for reducing emissions. Gain insights into the challenges faced by major economies and the innovative solutions emerging to tackle climate change while promoting sustainable growth."
+category: dataset
+description: Explore the dynamics of global CO2 emissions by uncovering the top carbon
+  dioxide emitting countries and the factors driving their elevated levels. Discover
+  how industrial activities energy consumption patterns and policy frameworks contribute
+  to these emissions and examine the role of algorithmic trading in carbon markets
+  as a potential tool for reducing emissions. Gain insights into the challenges faced
+  by major economies and the innovative solutions emerging to tackle climate change
+  while promoting sustainable growth.
+title: Top Carbon Dioxide Emitting Countries (Algo Trading)
 ---
 
 The global increase in carbon dioxide (CO2) emissions has become a pressing concern, significantly contributing to climate change. CO2 is a greenhouse gas that traps heat in the atmosphere, leading to global warming and severe environmental consequences, such as rising sea levels, extreme weather conditions, and disruptions to ecosystems. Addressing this issue requires a comprehensive understanding of the sources and drivers of CO2 emissions.

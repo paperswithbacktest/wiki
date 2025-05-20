@@ -1,6 +1,8 @@
 ---
-title: "Standard of Value: Concept and Application (Algo Trading)"
-description: "Explore the evolution of economic value standards from gold to fiat currencies and their impact on modern algorithmic trading in global financial markets."
+category: quant_concept
+description: Explore the evolution of economic value standards from gold to fiat currencies
+  and their impact on modern algorithmic trading in global financial markets.
+title: 'Standard of Value: Concept and Application (Algo Trading)'
 ---
 
 The economic landscape has undergone remarkable transformations throughout history, shaped by shifts in monetary standards and the emergence of cutting-edge technologies. The concept of economic value is central to this landscape, serving as a measure of worth that facilitates trade and investment. This value is intrinsically linked to monetary systems, which provide a standardized medium of exchange, thus enabling efficient market transactions. As societies evolved from barter systems to sophisticated currency mechanisms, the definition and representation of economic value have continually adapted to meet the needs of dynamic markets.

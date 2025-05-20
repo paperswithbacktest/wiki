@@ -1,6 +1,8 @@
 ---
-title: "Bill of Lading: Types, Examples, and Purpose (Algo Trading)"
-description: "Explore the critical role of Bills of Lading in freight shipping and how algorithmic trading enhances logistics through efficiency and data-driven insights."
+category: quant_concept
+description: Explore the critical role of Bills of Lading in freight shipping and
+  how algorithmic trading enhances logistics through efficiency and data-driven insights.
+title: 'Bill of Lading: Types, Examples, and Purpose (Algo Trading)'
 ---
 
 Navigating the world of freight shipping is a complex task, made even more intricate by the extensive documentation involved. Among the many documents in the shipping process, the Bill of Lading (B/L) stands out as one of the most crucial. It serves as a legally binding document, integral to the efficient handling and transportation of goods across the globe. A B/L functions as a receipt, a document of title, and a contract between the shipper and the carrier, ensuring that the shipment details are accurately recorded and legally binding.

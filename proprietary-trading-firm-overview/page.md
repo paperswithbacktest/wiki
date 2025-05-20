@@ -1,6 +1,8 @@
 ---
-title: "Proprietary Trading Firm Overview (Algo Trading)"
-description: "Explore the evolving role of proprietary trading firms emphasizing algo trading's impact on financial markets with speed precision and strategic innovation."
+category: quant_concept
+description: Explore the evolving role of proprietary trading firms emphasizing algo
+  trading's impact on financial markets with speed precision and strategic innovation.
+title: Proprietary Trading Firm Overview (Algo Trading)
 ---
 
 In an era where financial markets are being transformed by technology, proprietary trading firms, or prop firms, are spearheading this evolution. These entities employ their own capital to engage in trading various financial instruments with the primary objective of generating profits. Unlike traditional trading entities that may derive revenue from client transactions or advisory fees, prop firms focus on maximizing returns from their own trading activities. This focus provides them with greater flexibility in choosing trading strategies and tools.

@@ -1,6 +1,9 @@
 ---
-title: "Exchange Controls and Corporate Evasion Strategies (Algo Trading)"
-description: "Explore the dynamic intersection of currency regulation, corporate finance exchange controls, and algorithmic trading, and their impact on the global financial landscape."
+category: quant_concept
+description: Explore the dynamic intersection of currency regulation, corporate finance
+  exchange controls, and algorithmic trading, and their impact on the global financial
+  landscape.
+title: Exchange Controls and Corporate Evasion Strategies (Algo Trading)
 ---
 
 In today’s interconnected global economy, currency regulation, corporate finance exchange controls, and algorithmic trading are integral components that significantly impact the financial landscape. These elements collectively influence how nations, corporations, and investors conduct their financial activities, aiming to achieve stability, efficiency, and profitability.

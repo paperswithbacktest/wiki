@@ -1,6 +1,8 @@
 ---
-title: "Investment Banking: Roles, Skills, and Examples (Algo Trading)"
-description: "Explore the diverse roles and essential skills of investment banking with a focus on the impact of algorithmic trading on financial strategies and operations."
+category: quant_concept
+description: Explore the diverse roles and essential skills of investment banking
+  with a focus on the impact of algorithmic trading on financial strategies and operations.
+title: 'Investment Banking: Roles, Skills, and Examples (Algo Trading)'
 ---
 
 Investment banking stands as a cornerstone of the financial industry, where professionals orchestrate high-stakes financial transactions that fuel economic growth. These financial experts play a pivotal role in the expansion of businesses and the mobilization of capital, influencing the trajectory of the global economy. Investment bankers specialize in a myriad of functions, including raising capital through equity and debt markets, facilitating mergers and acquisitions (M&A), and advising corporations on strategic matters. This multifaceted role necessitates a diverse skill set, encompassing financial literacy, analytical acumen, negotiation prowess, and an acute awareness of regulatory frameworks.

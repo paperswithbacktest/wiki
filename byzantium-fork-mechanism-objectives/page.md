@@ -1,6 +1,9 @@
 ---
-title: "Byzantium Fork: Mechanism and Objectives (Algo Trading)"
-description: "Explore the Byzantium fork's impact on Ethereum's infrastructure and its influence on algorithmic trading strategies with enhanced efficiency and security features."
+category: quant_concept
+description: Explore the Byzantium fork's impact on Ethereum's infrastructure and
+  its influence on algorithmic trading strategies with enhanced efficiency and security
+  features.
+title: 'Byzantium Fork: Mechanism and Objectives (Algo Trading)'
 ---
 
 Ethereum stands as a pivotal entity in the blockchain ecosystem, renowned for its innovative approach to decentralized computing and smart contracts. Since its inception, Ethereum has redefined the capabilities of blockchain technology, carving out a niche where developers can build decentralized applications (dApps) beyond mere transactions. Its impact on the blockchain space is comparable to how the World Wide Web transformed internet use, by providing a platform not just for static content but also for dynamic interaction and programmability. This dynamic nature is largely facilitated through smart contracts, self-executing contracts with the terms of the agreement directly written into code.

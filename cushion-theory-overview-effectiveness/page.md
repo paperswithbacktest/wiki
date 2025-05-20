@@ -1,6 +1,8 @@
 ---
-title: "Cushion Theory: Overview and Effectiveness (Algo Trading)"
-description: "Explore Cushion Theory a concept in algorithmic trading theory that analyzes heavily shorted stocks and price dynamics due to short covering and short squeezes."
+category: quant_concept
+description: Explore Cushion Theory a concept in algorithmic trading theory that analyzes
+  heavily shorted stocks and price dynamics due to short covering and short squeezes.
+title: 'Cushion Theory: Overview and Effectiveness (Algo Trading)'
 ---
 
 Cushion Theory is a financial concept that has attracted significant interest within algorithmic trading circles due to its analysis of heavily shorted stocks and their associated price movements. The theory posits that stocks with high short interest are subject to eventual price increases as short sellers cover their positions, adding a layer of strategic complexity for traders attempting to capitalize on such dynamics.

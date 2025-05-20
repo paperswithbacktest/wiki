@@ -1,6 +1,9 @@
 ---
-title: "Flow toxicity measurement (Algo Trading)"
-description: "Explore the crucial concept of flow toxicity in algorithmic trading, its impact on market efficiency, and methods to measure and manage its effects. Enhance trade performance."
+category: quant_concept
+description: Explore the crucial concept of flow toxicity in algorithmic trading,
+  its impact on market efficiency, and methods to measure and manage its effects.
+  Enhance trade performance.
+title: Flow toxicity measurement (Algo Trading)
 ---
 
 Flow toxicity is a critical concept in algorithmic trading, referring to the adverse effect on liquidity and market efficiency due to the presence of informed or aggressive trading flows. These flows often result in significant market impact and slippage, affecting the execution quality of trades. In essence, flow toxicity occurs when the order flow signals adverse information to market participants, typically leading to a deterioration of the price received by uninformed traders. This concept underscores the importance of examining the composition and sources of market orders, particularly focusing on their impact on liquidity provision and price discovery.

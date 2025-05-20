@@ -1,6 +1,9 @@
 ---
-title: "General Agreements to Borrow: Overview and Analysis (Algo Trading)"
-description: "Explore the evolution of global finance mechanisms with an analysis of the General Agreements to Borrow and its impact on international economy via algorithmic trading."
+category: quant_concept
+description: Explore the evolution of global finance mechanisms with an analysis of
+  the General Agreements to Borrow and its impact on international economy via algorithmic
+  trading.
+title: 'General Agreements to Borrow: Overview and Analysis (Algo Trading)'
 ---
 
 The complexity of global financial systems has underscored the importance of international finance mechanisms, with the General Agreements to Borrow (GAB) prominently illustrating this interconnectedness. Established by the International Monetary Fund (IMF) in 1962, the GAB served as a pivotal structure, allowing the IMF to harness resources from major economies to provide urgent financial support to countries in economic distress. The GAB's role ensured that nations could stabilize their economies, reflecting the collaborative nature of international financial systems designed to mitigate the impact of economic crises.

@@ -1,6 +1,8 @@
 ---
-title: "The Global Dow: Overview and Constituent Countries (Algo Trading)"
-description: "Explore the Global Dow index and algorithmic trading principles to enhance your investment strategy with insights into international markets and economic trends."
+category: dataset
+description: Explore the Global Dow index and algorithmic trading principles to enhance
+  your investment strategy with insights into international markets and economic trends.
+title: 'The Global Dow: Overview and Constituent Countries (Algo Trading)'
 ---
 
 The increasing global nature of trading and investing has transformed the financial landscape over the past few decades. Globalization has not only blurred geographical boundaries but also altered how investors access and manage opportunities. With advancements in technology and the rise of cross-border capital flows, the nature of trading has matured into a multifaceted entity that encompasses various international markets and indices.

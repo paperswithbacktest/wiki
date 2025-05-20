@@ -1,6 +1,9 @@
 ---
-title: "Commodity Index: Functions and Examples (Algo Trading)"
-description: "Explore how commodity indices function in algorithmic trading and their role in modern investment strategies enhancing data-driven decision-making and market insights."
+category: quant_concept
+description: Explore how commodity indices function in algorithmic trading and their
+  role in modern investment strategies enhancing data-driven decision-making and market
+  insights.
+title: 'Commodity Index: Functions and Examples (Algo Trading)'
 ---
 
 Investment strategies today are more complex and multifaceted than ever, as advancements in technology and analytics continue to reshape the financial landscape. A critical component of these strategies is the use of financial and commodity indices, which serve as benchmarks and barometers for market performance. These indices play a pivotal role in guiding investment decisions by providing investors with an aggregated view of market trends and fluctuations. For example, the performance of broad-market indices like the S&P 500 or the Bloomberg Commodity Index gives investors insight into the general health and trends of various economic sectors.

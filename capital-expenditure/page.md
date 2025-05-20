@@ -1,6 +1,10 @@
 ---
-title: "Capital Expenditure (Algo Trading)"
-description: "Explore the intersection of capital expenditure and algorithmic trading in modern finance where efficient management of business investments is vital for growth. Discover how algorithmic trading enhances investment strategies with precision and speed leading to better portfolio management and maximized returns."
+category: quant_concept
+description: Explore the intersection of capital expenditure and algorithmic trading
+  in modern finance where efficient management of business investments is vital for
+  growth. Discover how algorithmic trading enhances investment strategies with precision
+  and speed leading to better portfolio management and maximized returns.
+title: Capital Expenditure (Algo Trading)
 ---
 
 In today's rapidly evolving financial landscape, the effective management of business investments and capital expenditures (CapEx) is paramount for achieving sustained growth and success. As companies strive to maintain competitiveness and operational efficiency, strategic allocation of resources to CapEx is increasingly critical. Capital expenditures involve significant investments in physical assets such as property, equipment, and technology, which are essential for expanding operations and enhancing long-term value.

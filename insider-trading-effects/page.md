@@ -1,6 +1,13 @@
 ---
-title: "Insiders Trading Effects (Algo Trading)"
-description: Discover the insider trading effects in algorithmic trading, including its controversies and potential strategies like insider effect trading and insider inaction. Learn about insider trading legality and compliance with the SEC while exploring opportunities and challenges in this complex field. Dive deeper into trading strategies and resources on Equities, Cryptocurrencies, Commodities, Currencies, Bonds, Options, libraries, packages, blogs, tutorials, and datasets. Aim for financial independence as a quant trader.
+category: quant_concept
+description: Discover the insider trading effects in algorithmic trading, including
+  its controversies and potential strategies like insider effect trading and insider
+  inaction. Learn about insider trading legality and compliance with the SEC while
+  exploring opportunities and challenges in this complex field. Dive deeper into trading
+  strategies and resources on Equities, Cryptocurrencies, Commodities, Currencies,
+  Bonds, Options, libraries, packages, blogs, tutorials, and datasets. Aim for financial
+  independence as a quant trader.
+title: Insiders Trading Effects (Algo Trading)
 ---
 
 Insider trading has long been a controversial and critical topic within the financial markets. It involves the buying or selling of a publicly-traded company’s stock by someone who has nonpublic, material information about that stock. This practice is relevant because it compromises the fairness and integrity of the markets. Insider trading creates an uneven playing field, giving an unfair advantage to those with privileged information over other investors, which can undermine investor trust and destabilize market confidence.
@@ -187,4 +194,4 @@ In conclusion, the integration of ethical considerations, advanced technology, a
 
 [7]: Chan, E. P. (2008). [Quantitative Trading: How to Build Your Own Algorithmic Trading Business.](https://www.amazon.com/Quantitative-Trading-Build-Algorithmic-Business/dp/0470284889) Wiley.
 
-[8]: SEC, U.S. Securities and Exchange Commission. [Insider Trading – A U.S. Regulatory Perspective.](https://www.sec.gov/news/speech/speecharchive/1998/spch221.htm) 
+[8]: SEC, U.S. Securities and Exchange Commission. [Insider Trading – A U.S. Regulatory Perspective.](https://www.sec.gov/news/speech/speecharchive/1998/spch221.htm)

@@ -1,6 +1,11 @@
 ---
-title: "Inverted Yield Curve: Implications for Investors and Examples (Algo Trading)"
-description: "Discover how an inverted yield curve impacts investors and explore examples relevant to algorithmic trading. Understand why this phenomenon is a significant economic indicator and how it can signal potential recessions. This article investigates into the relationship between yield curves, financial metrics, and algo trading to enhance investment strategies in uncertain economic environments."
+category: quant_concept
+description: Discover how an inverted yield curve impacts investors and explore examples
+  relevant to algorithmic trading. Understand why this phenomenon is a significant
+  economic indicator and how it can signal potential recessions. This article investigates
+  into the relationship between yield curves, financial metrics, and algo trading
+  to enhance investment strategies in uncertain economic environments.
+title: 'Inverted Yield Curve: Implications for Investors and Examples (Algo Trading)'
 ---
 
 An inverted yield curve is a financial phenomenon where long-term debt instruments, such as government bonds, yield lower interest rates compared to short-term instruments of the same credit quality. This inversion is significant in economic analyses because it disrupts the typical upward-sloping shape of a yield curve, where longer maturities usually demand higher yields to compensate for inflation and risk over time. Historically, an inverted yield curve has been considered a reliable indicator of impending economic recessions. Numerous instances, including those preceding the 2008 financial crisis and the 2001 dot-com bubble, show a strong correlation between yield curve inversions and economic downturns, highlighting their relevance in investment decisions.

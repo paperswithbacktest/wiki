@@ -1,7 +1,8 @@
 ---
-title: Understanding Online Machine Learning and Its Key Concepts
+category: quant_concept
 description: Online machine learning updates models with each new data point for efficient
   streaming predictions and concept drift handling Discover more inside
+title: Understanding Online Machine Learning and Its Key Concepts
 ---
 
 ![Image](images/1.jpeg)

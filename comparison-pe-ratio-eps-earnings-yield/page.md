@@ -1,6 +1,8 @@
 ---
-title: "Comparison of P/E Ratio, EPS, and Earnings Yield (Algo Trading)"
-description: "Explore the importance of Earnings Yield EPS and P/E ratio in assessing company value and investment potential empowering traders with strategic insights"
+category: quant_concept
+description: Explore the importance of Earnings Yield EPS and P/E ratio in assessing
+  company value and investment potential empowering traders with strategic insights
+title: Comparison of P/E Ratio, EPS, and Earnings Yield (Algo Trading)
 ---
 
 In today's financial landscape, evaluating a company's financial health and investment potential requires the use of various critical metrics. Among these, Earnings Yield, EPS (Earnings Per Share), and the P/E (Price-to-Earnings) ratio stand out as essential tools for investors and traders. These financial metrics provide a quantitative basis for assessing a company's value, profitability, and potential for growth within the market.

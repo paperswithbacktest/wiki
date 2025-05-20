@@ -1,6 +1,14 @@
 ---
-title: "Money Illusion: Historical Overview and Case Studies (Algo Trading)"
-description: "Explore the intriguing concept of money illusion and its impact on financial decision-making amid inflationary environments. This article investigates into the history and theory behind money illusion, highlighting its significance in economics and trading. Discover how individuals often perceive wealth in nominal terms, misjudging their real financial status. With the rise of algorithmic trading, understanding these dynamics becomes crucial for developing effective strategies and policies. Gain insights into how this cognitive bias influences market behaviors and learn ways to mitigate its effects through enhanced financial literacy and planning."
+category: quant_concept
+description: Explore the intriguing concept of money illusion and its impact on financial
+  decision-making amid inflationary environments. This article investigates into the
+  history and theory behind money illusion, highlighting its significance in economics
+  and trading. Discover how individuals often perceive wealth in nominal terms, misjudging
+  their real financial status. With the rise of algorithmic trading, understanding
+  these dynamics becomes crucial for developing effective strategies and policies.
+  Gain insights into how this cognitive bias influences market behaviors and learn
+  ways to mitigate its effects through enhanced financial literacy and planning.
+title: 'Money Illusion: Historical Overview and Case Studies (Algo Trading)'
 ---
 
 The complex relationships between economic theories, inflation, and automated trading strategies necessitate a thorough analysis. Central to understanding these dynamics is the concept of money illusion, which describes the tendency of individuals to evaluate their financial circumstances in nominal rather than real terms. This illusion can significantly influence financial decision-making processes, particularly by distorting our perception of purchasing power and wealth.

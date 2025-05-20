@@ -1,6 +1,15 @@
 ---
-title: "Multi-product series (Algo Trading)"
-description: Explore the transformative world of multi-product series in algorithmic trading, where advanced technology revolutionizes trading strategies by handling multiple financial instruments simultaneously. This concept enhances diversification, optimizes trading activities, and mitigates risks across equities, futures, options, forex, and cryptocurrencies. Discover how sophisticated programming and simulations improve portfolio management, liquidity, and market exposure. Addressing potential challenges such as data accuracy and synchronization across time zones, multi-product strategies empower traders with dynamic solutions that adapt to market conditions, ensuring robust and profitable trading experiences.
+category: trading_strategy
+description: Explore the transformative world of multi-product series in algorithmic
+  trading, where advanced technology revolutionizes trading strategies by handling
+  multiple financial instruments simultaneously. This concept enhances diversification,
+  optimizes trading activities, and mitigates risks across equities, futures, options,
+  forex, and cryptocurrencies. Discover how sophisticated programming and simulations
+  improve portfolio management, liquidity, and market exposure. Addressing potential
+  challenges such as data accuracy and synchronization across time zones, multi-product
+  strategies empower traders with dynamic solutions that adapt to market conditions,
+  ensuring robust and profitable trading experiences.
+title: Multi-product series (Algo Trading)
 ---
 
 Algorithmic trading has transformed the dynamics of financial markets by utilizing technology to execute trades with remarkable speed and precision. This advancement allows traders to capitalize on market opportunities that might otherwise be missed with traditional manual trading methods. One innovative approach within this high-tech trading ecosystem is the concept of multi-product series strategy, which is garnering increasing attention.

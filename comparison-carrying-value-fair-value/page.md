@@ -1,6 +1,8 @@
 ---
-title: "Comparison of Carrying Value and Fair Value (Algo Trading)"
-description: "Explore the differences between carrying value and fair value in asset valuation plus the role of algorithmic trading in influencing these valuations."
+category: quant_concept
+description: Explore the differences between carrying value and fair value in asset
+  valuation plus the role of algorithmic trading in influencing these valuations.
+title: Comparison of Carrying Value and Fair Value (Algo Trading)
 ---
 
 In today's financial landscape, understanding asset valuation is crucial for investors, analysts, and financial professionals. Asset valuation provides a foundation for making informed investment decisions, preparing financial statements, and assessing company performance. This article explores key concepts like carrying value and fair value, which are central to financial reporting and investment analysis. Carrying value, or book value, represents an asset's worth on the balance sheet, accounting for depreciation and amortization. In contrast, fair value reflects an asset's market value, determined by the price at which a willing buyer and seller would transact.

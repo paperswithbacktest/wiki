@@ -1,6 +1,8 @@
 ---
-title: "Optimal stopping problems (Algo Trading)"
-description: "Explore optimal stopping problems in algorithmic trading to enhance strategic decision-making. Learn about their mathematical foundations for better trade timing."
+category: quant_concept
+description: Explore optimal stopping problems in algorithmic trading to enhance strategic
+  decision-making. Learn about their mathematical foundations for better trade timing.
+title: Optimal stopping problems (Algo Trading)
 ---
 
 Algorithmic trading, a sophisticated domain within financial markets, relies heavily on decision-making problems known as optimal stopping problems. These problems are concerned with the challenge of determining the most advantageous moment to cease observing a stochastic process in order to either maximize expected rewards or minimize expected costs associated with trading decisions.

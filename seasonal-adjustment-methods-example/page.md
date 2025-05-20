@@ -1,6 +1,9 @@
 ---
-title: "Seasonal Adjustment Methods and Example (Algo Trading)"
-description: "Discover how seasonal adjustment methods enhance algorithmic trading by refining economic data analysis. Learn to master trends and reduce risks in fast-paced markets."
+category: quant_concept
+description: Discover how seasonal adjustment methods enhance algorithmic trading
+  by refining economic data analysis. Learn to master trends and reduce risks in fast-paced
+  markets.
+title: Seasonal Adjustment Methods and Example (Algo Trading)
 ---
 
 In today's fast-paced financial markets, understanding economic data is crucial for informed trading decisions. Economic data analysis helps market participants interpret nuanced information that impacts the health of economies and influences investor behavior. This article focuses on the application of seasonal adjustment methods, a critical tool for extracting meaningful insights from economic data, particularly in the context of algorithmic trading.

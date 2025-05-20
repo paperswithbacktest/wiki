@@ -1,6 +1,11 @@
 ---
-title: "Is Interactive Brokers Safe? A Comprehensive Exploration"
-description: "Discover the safety measures and business model behind Interactive Brokers (IBKR), a pioneering electronic trading platform trusted by professionals and institutions worldwide. Understand how IBKR generates revenue through commissions, net interest margin, and prime brokerage services, while maintaining financial strength and regulatory compliance in various regions."
+category: quant_concept
+description: Discover the safety measures and business model behind Interactive Brokers
+  (IBKR), a pioneering electronic trading platform trusted by professionals and institutions
+  worldwide. Understand how IBKR generates revenue through commissions, net interest
+  margin, and prime brokerage services, while maintaining financial strength and regulatory
+  compliance in various regions.
+title: Is Interactive Brokers Safe? A Comprehensive Exploration
 ---
 
 Founded in 1978 by Thomas Peterffy, Interactive Brokers (IBKR) quickly transitioned from purchasing a seat on the American Stock Exchange to becoming a pioneering electronic trader by the early 1980s. Over the decades, the firm has grown to be recognized as one of the premier trading platforms catering to professional traders, institutions, and active investors worldwide.

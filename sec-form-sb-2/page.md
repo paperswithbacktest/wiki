@@ -1,6 +1,8 @@
 ---
-title: "SEC Form SB-2 (Algo Trading)"
-description: "Explore the impact and historical significance of SEC Form SB-2 on small businesses seeking public offerings and its connection to algorithmic trading."
+category: quant_concept
+description: Explore the impact and historical significance of SEC Form SB-2 on small
+  businesses seeking public offerings and its connection to algorithmic trading.
+title: SEC Form SB-2 (Algo Trading)
 ---
 
 SEC Form SB-2 played a crucial role for small businesses pursuing capital through public offerings. This form was designed to allow these businesses easier access to capital markets by simplifying the registration of securities under the Securities Act of 1933. By lowering regulatory barriers, SEC Form SB-2 enabled emerging companies to raise vital funds for growth, innovation, and market competitiveness. This simplified framework included a streamlined set of disclosure requirements, facilitating a more accessible capital-raising process for smaller enterprises.

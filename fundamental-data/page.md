@@ -1,6 +1,15 @@
 ---
-title: "Fundamental data (Algo Trading)"
-description: Discover how incorporating fundamental data into algorithmic trading enhances strategy sophistication and efficiency. Understand the critical role of earnings reports, financial statements, and corporate announcements in providing insights into a company’s intrinsic value. Learn how traders leverage this information to develop algorithms that surpass basic market trends, leading to informed trade decisions. Explore the integration tools and platforms like yfinance that offer streamlined access to essential financial data, empowering traders with resources to optimize their algorithmic strategies while considering economic contexts and market sentiment.
+category: dataset
+description: Discover how incorporating fundamental data into algorithmic trading
+  enhances strategy sophistication and efficiency. Understand the critical role of
+  earnings reports, financial statements, and corporate announcements in providing
+  insights into a company’s intrinsic value. Learn how traders leverage this information
+  to develop algorithms that surpass basic market trends, leading to informed trade
+  decisions. Explore the integration tools and platforms like yfinance that offer
+  streamlined access to essential financial data, empowering traders with resources
+  to optimize their algorithmic strategies while considering economic contexts and
+  market sentiment.
+title: Fundamental data (Algo Trading)
 ---
 
 Algorithmic trading refers to the use of computer programs to execute trades based on pre-defined criteria. It is well-regarded for its speed and precision, significantly enhancing the efficiency of trading processes. One of the key pillars of successful algorithmic trading is the use of fundamental data. This type of data encompasses critical information about a company's financial health and market position. It includes earnings reports, dividends, corporate announcements, and financial statements. By offering insights into a company's intrinsic value, fundamental data becomes a valuable input for traders who design algorithms tailored to make informed trading decisions.

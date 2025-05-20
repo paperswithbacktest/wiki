@@ -1,6 +1,8 @@
 ---
-title: "Garn–St. Germain Depository Institutions Act (Algo Trading)"
-description: "Explore the Garn-St. Germain Act's impact on U.S. banking deregulation discover its role in shaping modern financial practices including algorithmic trading."
+category: quant_concept
+description: Explore the Garn-St. Germain Act's impact on U.S. banking deregulation
+  discover its role in shaping modern financial practices including algorithmic trading.
+title: Garn–St. Germain Depository Institutions Act (Algo Trading)
 ---
 
 The Garn-St. Germain Depository Institutions Act, enacted in 1982, marks a pivotal moment in U.S. banking history. This landmark legislation was introduced during a challenging period of economic inflation and soaring interest rates, which placed considerable strain on financial institutions. By alleviating these economic pressures, the act aimed to provide much-needed relief and stability to the banking sector.

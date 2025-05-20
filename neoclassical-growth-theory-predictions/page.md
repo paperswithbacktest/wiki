@@ -1,6 +1,9 @@
 ---
-title: "Neoclassical Growth Theory and Its Predictions (Algo Trading)"
-description: "Explore the synergy between neoclassical growth theory and algorithmic trading to understand economic growth predictions and their impact on financial strategies."
+category: quant_concept
+description: Explore the synergy between neoclassical growth theory and algorithmic
+  trading to understand economic growth predictions and their impact on financial
+  strategies.
+title: Neoclassical Growth Theory and Its Predictions (Algo Trading)
 ---
 
 The interconnected realms of economic theories and technological advancements have profound implications for how we perceive growth and make predictions. Economic theories, particularly neoclassical growth theory, provide a quantitative framework to understand long-term economic expansion by focusing on the role of labor, capital, and technology. Meanwhile, technological advances in finance, such as algorithmic trading, leverage these theories to optimize market strategies and investment decisions in real-time.

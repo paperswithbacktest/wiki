@@ -1,6 +1,9 @@
 ---
-title: "Economic Moat and Competitive Advantage (Algo Trading)"
-description: "Discover how businesses utilize economic moats and algorithmic trading to establish a sustainable competitive advantage by leveraging unique assets and cutting-edge technology."
+category: quant_concept
+description: Discover how businesses utilize economic moats and algorithmic trading
+  to establish a sustainable competitive advantage by leveraging unique assets and
+  cutting-edge technology.
+title: Economic Moat and Competitive Advantage (Algo Trading)
 ---
 
 In the rapidly evolving business landscape, companies strive to establish a sustainable competitive advantage. One way to achieve this is through the concept of an economic moat, a term popularized by legendary investor Warren Buffett. An economic moat refers to a company's ability to maintain a competitive edge over its rivals, thereby ensuring long-term profitability. This edge may manifest through unique assets, cost advantages, scale, or customer loyalty, which collectively help a company preserve its market share against competitors.

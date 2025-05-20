@@ -1,6 +1,9 @@
 ---
-title: "Comparison of Betterment and E*TRADE Core Portfolios (Algo Trading)"
-description: "Discover the key differences between Betterment and E*TRADE Core Portfolios, two leading robo-advisors, focusing on their algorithmic trading features and investor benefits."
+category: trading_strategy
+description: Discover the key differences between Betterment and E*TRADE Core Portfolios,
+  two leading robo-advisors, focusing on their algorithmic trading features and investor
+  benefits.
+title: Comparison of Betterment and E*TRADE Core Portfolios (Algo Trading)
 ---
 
 Robo-advisors and algorithmic trading have fundamentally transformed investment management by leveraging technology to automate and optimize investment strategies. Over the past decade, these innovations have gained significant traction among individual and institutional investors seeking efficient, data-driven investment solutions. Robo-advisors are financial advisory platforms that use algorithms to generate personalized investment advice and manage portfolios with minimal human intervention. Algorithmic trading refers to the use of computer algorithms to execute trading orders based on predefined criteria, allowing for high-frequency trading and enhanced precision.

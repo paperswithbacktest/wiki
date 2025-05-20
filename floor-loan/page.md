@@ -1,6 +1,9 @@
 ---
-title: "Floor Loan (Algo Trading)"
-description: "Discover how the convergence of floor loans, real estate finance, and algorithmic trading is redefining financial strategies, enhancing profitability, and mitigating risks."
+category: trading_strategy
+description: Discover how the convergence of floor loans, real estate finance, and
+  algorithmic trading is redefining financial strategies, enhancing profitability,
+  and mitigating risks.
+title: Floor Loan (Algo Trading)
 ---
 
 The intersection of loan structures, floor loans, real estate financing, and algorithmic trading is gaining momentum as a notable trend in the financial sector. This convergence is significantly altering how investment strategies are developed and executed. For investors, developers, and entrepreneurs, a profound grasp of these components is critical to optimize financial strategies and enhance profitability. 
@@ -156,4 +159,3 @@ Machine Learning for Algorithmic Trading by Stefan Jansen. This resource details
 Quantitative Trading by Ernest P. Chan. Chan's book provides practical insights into building [quantitative trading](/wiki/quantitative-trading) models. It discusses the use of statistical methods and algorithmic techniques, which can extend to analyzing financial metrics in real estate to improve investment performance.
 
 These references together provide a solid foundation for understanding and applying algorithms and quantitative techniques in real estate finance, enhancing both traditional investment strategies and modern technological approaches.
-

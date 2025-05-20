@@ -1,6 +1,8 @@
 ---
-title: "Impact of the Financial Crisis on Millennials (Algo Trading)"
-description: "Explore the financial impact of the 2008 crisis on millennials, including investing habits and homeownership trends, amid the rise of algorithmic trading."
+category: quant_concept
+description: Explore the financial impact of the 2008 crisis on millennials, including
+  investing habits and homeownership trends, amid the rise of algorithmic trading.
+title: Impact of the Financial Crisis on Millennials (Algo Trading)
 ---
 
 The financial landscape has undergone profound changes over recent decades, significantly influenced by both major economic crises and rapid technological progression. At the forefront of these changes is the 2008 financial crisis, commonly referred to as the Great Recession, which left an indelible mark on the global economy and particularly on the millennial generation. This generation entered the workforce at a time characterized by widespread unemployment and economic instability, challenges that continue to inform their financial behavior today.

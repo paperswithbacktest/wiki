@@ -1,6 +1,9 @@
 ---
-title: "Salvage Value in Depreciation Calculations (Algo Trading)"
-description: "Explore the integration of salvage value in algorithmic trading Enhance your understanding of asset valuation frameworks, depreciation impacts, and trading accuracy."
+category: quant_concept
+description: Explore the integration of salvage value in algorithmic trading Enhance
+  your understanding of asset valuation frameworks, depreciation impacts, and trading
+  accuracy.
+title: Salvage Value in Depreciation Calculations (Algo Trading)
 ---
 
 In modern financial landscapes, the fusion of traditional accounting principles and cutting-edge algorithmic trading has emerged as a critical strategy. This integration is particularly evident in the alignment of asset valuation, salvage value, and depreciation frameworks with the dynamics of market behavior to create robust trading algorithms. 

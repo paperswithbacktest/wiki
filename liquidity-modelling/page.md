@@ -1,6 +1,9 @@
 ---
-title: "Liquidity Modelling (Algo Trading)"
-description: "Explore advanced liquidity modeling techniques in algorithmic trading and their practical applications. Discover strategies to enhance trading efficiency and reduce market risk."
+category: quant_concept
+description: Explore advanced liquidity modeling techniques in algorithmic trading
+  and their practical applications. Discover strategies to enhance trading efficiency
+  and reduce market risk.
+title: Liquidity Modelling (Algo Trading)
 ---
 
 Liquidity modeling in algorithmic trading is a crucial aspect that ensures traders efficiently handle execute orders without substantial impact on the market. The primary aim is to understand and manage the flow of liquidity, which is essential for maintaining market stability and efficiency. Liquidity modeling involves analyzing market dynamics, predicting liquidity shortages, and optimizing trading strategies to minimize slippage and market impact.

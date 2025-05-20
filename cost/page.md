@@ -1,7 +1,8 @@
 ---
-title: Understanding Cost Functions in Machine Learning Models
+category: quant_concept
 description: Machine learning cost functions measure model error and guide parameter
   optimization to improve prediction accuracy over time. Discover more inside.
+title: Understanding Cost Functions in Machine Learning Models
 ---
 
 ![Image](images/1.png)

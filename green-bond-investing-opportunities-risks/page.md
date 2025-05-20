@@ -1,6 +1,8 @@
 ---
-title: "Green Bond Investing: Opportunities and Risks (Algo Trading)"
-description: "Explore the opportunities and risks of green bond investing in the evolving landscape of sustainable finance, featuring insights on algorithmic trading."
+category: trading_strategy
+description: Explore the opportunities and risks of green bond investing in the evolving
+  landscape of sustainable finance, featuring insights on algorithmic trading.
+title: 'Green Bond Investing: Opportunities and Risks (Algo Trading)'
 ---
 
 The evolving landscape of finance is increasingly drawing focus towards sustainability, with green bonds playing a pivotal role. As global awareness of environmental issues intensifies, financial instruments like green bonds have emerged as crucial components in funding projects that aim to mitigate climate change. These bonds are specifically designed to support initiatives that result in positive environmental impacts, such as renewable energy projects, energy efficiency improvements, and sustainable infrastructure development.

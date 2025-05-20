@@ -1,6 +1,8 @@
 ---
-title: "Investment Advisory Representative Responsibilities (Algo Trading)"
-description: "Explore the essential responsibilities of Investment Advisory Representatives in algorithmic trading and discover how they enhance client financial strategies."
+category: quant_concept
+description: Explore the essential responsibilities of Investment Advisory Representatives
+  in algorithmic trading and discover how they enhance client financial strategies.
+title: Investment Advisory Representative Responsibilities (Algo Trading)
 ---
 
 Investment Advisor Representatives (IARs) play a pivotal role in the financial sector, servicing both individual and institutional investors with critical investment advice and financial planning. These professionals are instrumental in helping clients navigate financial markets to achieve their specific financial goals, including wealth accumulation and retirement planning. 

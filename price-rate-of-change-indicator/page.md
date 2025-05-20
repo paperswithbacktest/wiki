@@ -1,6 +1,13 @@
 ---
-title: "Price Rate of Change Indicator (Algo Trading)"
-description: "Discover the power of the Rate of Change (ROC) indicator, a crucial momentum-based tool in trading. This article offers a comprehensive guide on the ROC, covering its calculation, significance, and use in algorithmic trading to enhance decision-making. Learn how the ROC helps traders assess market momentum, anticipate trends, and make informed moves by identifying potential overbought or oversold conditions. Understand the limitations and optimize the application of ROC in trading strategies for improved performance and better market insights."
+category: trading_strategy
+description: Discover the power of the Rate of Change (ROC) indicator, a crucial momentum-based
+  tool in trading. This article offers a comprehensive guide on the ROC, covering
+  its calculation, significance, and use in algorithmic trading to enhance decision-making.
+  Learn how the ROC helps traders assess market momentum, anticipate trends, and make
+  informed moves by identifying potential overbought or oversold conditions. Understand
+  the limitations and optimize the application of ROC in trading strategies for improved
+  performance and better market insights.
+title: Price Rate of Change Indicator (Algo Trading)
 ---
 
 The financial markets are vast and complex, making it crucial for traders to utilize effective indicators to make informed decisions. One such powerful tool is the Rate of Change (ROC) indicator, a momentum-based metric that measures the velocity of price changes. The ROC provides traders with insights that simplify the observation of how quickly a security's price is changing, offering valuable information on the current market momentum. By examining the ROC, traders can better understand price dynamics and anticipate market movements.

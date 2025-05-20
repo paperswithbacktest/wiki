@@ -1,6 +1,12 @@
 ---
-title: "Clarifi (Algo Trading)"
-description: Explore the transformative power of Clarifi in algorithmic trading. Harnessing advanced machine learning, Clarifi enhances trading efficiency and accuracy with real-time data analysis. It empowers traders by identifying actionable patterns and optimizing strategies while supporting robust risk management and improved decision-making. Discover how Clarifi revolutionizes trading strategies and offers a competitive edge in the fast-paced financial markets.
+category: quant_concept
+description: Explore the transformative power of Clarifi in algorithmic trading. Harnessing
+  advanced machine learning, Clarifi enhances trading efficiency and accuracy with
+  real-time data analysis. It empowers traders by identifying actionable patterns
+  and optimizing strategies while supporting robust risk management and improved decision-making.
+  Discover how Clarifi revolutionizes trading strategies and offers a competitive
+  edge in the fast-paced financial markets.
+title: Clarifi (Algo Trading)
 ---
 
 Algorithmic trading, commonly known as algo trading, leverages computer programs to automate and optimize trading operations in financial markets. This approach to trading utilizes sophisticated statistical models and algorithms to make trading decisions at speeds and precision that far surpass human capabilities. Algo trading has become a cornerstone of modern financial markets, enabling traders to execute complex trading strategies with higher efficiency and reduced emotional bias.

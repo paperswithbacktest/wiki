@@ -1,6 +1,8 @@
 ---
-title: "Dispute Resolution With Financial Advisors (Algo Trading)"
-description: "Explore how disputes between financial advisors and algorithmic traders are resolved as financial markets evolve with new technologies and complex strategies."
+category: quant_concept
+description: Explore how disputes between financial advisors and algorithmic traders
+  are resolved as financial markets evolve with new technologies and complex strategies.
+title: Dispute Resolution With Financial Advisors (Algo Trading)
 ---
 
 The landscape of financial markets has been significantly altered by the rise of algorithmic trading and the development of increasingly complex financial products. These advancements have not only increased the pace and efficiency of trading but have also brought forward new challenges, particularly concerning the relationships between financial advisors and traders. Disputes arising in this environment are becoming more frequent and complex, reflecting the intricate nature of the modern financial system.

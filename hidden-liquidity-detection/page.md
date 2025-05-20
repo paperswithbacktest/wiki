@@ -1,6 +1,8 @@
 ---
-title: "Hidden liquidity detection (Algo Trading)"
-description: "Explore hidden liquidity in algo trading to understand buy or sell orders that aren't fully visible. Learn strategies to detect and exploit these market dynamics."
+category: quant_concept
+description: Explore hidden liquidity in algo trading to understand buy or sell orders
+  that aren't fully visible. Learn strategies to detect and exploit these market dynamics.
+title: Hidden liquidity detection (Algo Trading)
 ---
 
 The modern financial markets often conceal the full extent of trading activities, particularly through hidden liquidity. This phenomenon involves buy or sell orders that are not fully visible in the public order book, thus masking the real intentions of traders. Institutional players, such as hedge funds and large asset managers, favor strategies like iceberg orders to trade large volumes while maintaining anonymity. An iceberg order partially reveals its total size, typically displaying only a fraction to the public. The remainder stays hidden, surfacing only when the displayed portion is executed.

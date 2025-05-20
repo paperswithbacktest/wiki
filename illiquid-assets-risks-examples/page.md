@@ -1,6 +1,9 @@
 ---
-title: "Illiquid Assets: Risks and Examples (Algo Trading)"
-description: "Explore the unique challenges and opportunities of trading illiquid assets in algorithmic systems focusing on strategies for navigating risks like volatility and slippage."
+category: quant_concept
+description: Explore the unique challenges and opportunities of trading illiquid assets
+  in algorithmic systems focusing on strategies for navigating risks like volatility
+  and slippage.
+title: 'Illiquid Assets: Risks and Examples (Algo Trading)'
 ---
 
 The financial landscape is complex, encompassing a multitude of asset classes and investment vehicles. Among these, illiquid assets stand out for their unique set of challenges and potential opportunities. Illiquid assets are typically difficult to sell quickly without incurring a significant loss in value. This characteristic sets them apart from more liquid assets, which can be sold swiftly, even during periods of market distress, without substantial price concessions. The handling and management of illiquid assets necessitate specialized strategies, given the obstacles posed by their inherent nature.

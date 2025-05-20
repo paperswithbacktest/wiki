@@ -1,6 +1,8 @@
 ---
-title: "Recording Prepaid Expenses on the Income Statement (Algo Trading)"
-description: "Explore the intricacies of Income Statements and Prepaid Expenses and learn about the impact of Algo Trading on financial analysis and decision making."
+category: quant_concept
+description: Explore the intricacies of Income Statements and Prepaid Expenses and
+  learn about the impact of Algo Trading on financial analysis and decision making.
+title: Recording Prepaid Expenses on the Income Statement (Algo Trading)
 ---
 
 In the world of finance and accounting, understanding the intricacies of financial statements is crucial. This article explores three critical components: the Income Statement, Prepaid Expenses, and Algo Trading. These elements are foundational to financial analysis and management. The Income Statement provides a snapshot of a company's financial performance, highlighting its revenues, expenses, and profitability over a specific period. Prepaid Expenses represent payments made in advance for goods or services, affecting financial statements as they are realized. Algo Trading, or algorithmic trading, has transformed financial markets by executing trades at speeds and efficiencies beyond human capability. 

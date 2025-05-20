@@ -1,6 +1,9 @@
 ---
-title: "Permanent Wyoming Mineral Trust Fund (Algo Trading)"
-description: "Explore the Wyoming Mineral Trust Fund's strategic role in state economy with insights on its history, economic impact, and use of algorithmic trading for asset management."
+category: quant_concept
+description: Explore the Wyoming Mineral Trust Fund's strategic role in state economy
+  with insights on its history, economic impact, and use of algorithmic trading for
+  asset management.
+title: Permanent Wyoming Mineral Trust Fund (Algo Trading)
 ---
 
 The Wyoming Mineral Trust Fund, officially known as the Permanent Wyoming Mineral Trust Fund (PWMTF), is pivotal in shaping the economic landscape of Wyoming. Established in 1975, the fund is the state's oldest and largest government investment fund, primarily utilized to sustain and maintain state operations. Its substantial capital is sourced mainly from severance taxes levied on Wyoming's abundant natural resources, including coal, oil, and natural gas. The strategic allocation of these financial resources ensures a buffer against economic fluctuations predominantly dictated by the volatility of natural resource revenues.

@@ -1,6 +1,9 @@
 ---
-title: "Equity Curve: Overview and Calculations (Algo Trading)"
-description: "Explore the significance of equity curves in algo trading as they reveal trading account performance over time crucial for strategic adjustments and risk management."
+category: trading_strategy
+description: Explore the significance of equity curves in algo trading as they reveal
+  trading account performance over time crucial for strategic adjustments and risk
+  management.
+title: 'Equity Curve: Overview and Calculations (Algo Trading)'
 ---
 
 In the world of finance and trading, understanding performance metrics is crucial for making informed decisions. One essential tool that traders and investors use is the equity curve. The equity curve is a graphical representation that plots the change in value of a trading account over time. By visualizing the account balance or equity growth, traders can evaluate the viability and profitability of a trading strategy. A smooth, consistently upward-sloping equity curve typically indicates a profitable and stable trading strategy, while a volatile or downward trend may highlight potential weaknesses or risks.

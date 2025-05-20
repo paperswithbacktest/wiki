@@ -1,6 +1,8 @@
 ---
-title: "Order Routing Optimization (Algo Trading)"
-description: "Optimize your algorithmic trading by mastering order routing within alternative trading systems Boost trading efficiency and navigate markets with strategic edge."
+category: quant_concept
+description: Optimize your algorithmic trading by mastering order routing within alternative
+  trading systems Boost trading efficiency and navigate markets with strategic edge.
+title: Order Routing Optimization (Algo Trading)
 ---
 
 In algorithmic trading, order routing optimization is crucial for increasing trading efficiency and maximizing profits. This article examines the intricacies of optimizing order routing within alternative trading systems (ATSs) and its vital role in contemporary trading. Order routing refers to the mechanism through which trade orders are directed to the most suitable venues to ensure optimal execution. It is central to the trading process as it influences transaction costs, execution speed, and market liquidity.

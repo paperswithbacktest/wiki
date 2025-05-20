@@ -1,6 +1,8 @@
 ---
-title: "Regulated Market: Benefits and Drawbacks (Algo Trading)"
-description: "Explore the benefits and challenges of regulated markets in finance particularly with algorithmic trading Gain insights into regulation's impact on market integrity"
+category: quant_concept
+description: Explore the benefits and challenges of regulated markets in finance particularly
+  with algorithmic trading Gain insights into regulation's impact on market integrity
+title: 'Regulated Market: Benefits and Drawbacks (Algo Trading)'
 ---
 
 Market regulation in finance is pivotal in shaping economic activities by setting the frameworks within which financial transactions occur. These regulations are established by government entities and industry organizations to ensure stability, transparency, and fairness in market operations. In the context of rapid technological advancements like algorithmic trading, understanding the nuances of these regulations becomes even more essential. Algorithmic trading, where computers execute trades based on predefined instructions, has transformed financial markets by increasing the speed and volume of trading activities.

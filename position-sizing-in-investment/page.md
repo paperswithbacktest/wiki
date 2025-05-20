@@ -1,6 +1,8 @@
 ---
-title: "Position Sizing in Investment (Algo Trading)"
-description: "Discover the critical role of position sizing in investment and algorithmic trading for effective risk management and maximized returns in today's markets."
+category: trading_strategy
+description: Discover the critical role of position sizing in investment and algorithmic
+  trading for effective risk management and maximized returns in today's markets.
+title: Position Sizing in Investment (Algo Trading)
 ---
 
 Position sizing is a critical component in investment and trading, playing an essential role in risk management and the optimization of returns. At its core, position sizing refers to the determination of the number of units, shares, or contracts to be invested in a particular trade or investment. This decision has considerable implications for a trader or investor's exposure to risk and potential to capitalize on market opportunities.

@@ -1,6 +1,8 @@
 ---
-title: "Centiva Capital (Algo Trading)"
-description: "Centiva Capital leverages cutting-edge algorithmic strategies for efficient trading in financial markets minimizing human error and setting new industry standards."
+category: trading_strategy
+description: Centiva Capital leverages cutting-edge algorithmic strategies for efficient
+  trading in financial markets minimizing human error and setting new industry standards.
+title: Centiva Capital (Algo Trading)
 ---
 
 In the rapidly evolving world of finance, quantitative trading firms like Centiva Capital are at the forefront of innovation, utilizing advanced technology to redefine trading paradigms. Algorithmic trading has revolutionized the financial markets by providing unprecedented speed and efficiency. This automated trading technique allows for the rapid execution of orders based on pre-defined criteria, capitalizing on minute price discrepancies faster than any human trader could achieve.

@@ -1,6 +1,8 @@
 ---
-title: "Pricing of Derivative Products (Algo Trading)"
-description: "Explore the intricacies of derivative pricing in algorithmic trading with insights on models like Black-Scholes and Binomial"
+category: quant_concept
+description: Explore the intricacies of derivative pricing in algorithmic trading
+  with insights on models like Black-Scholes and Binomial
+title: Pricing of Derivative Products (Algo Trading)
 ---
 
 The world of finance is incredibly dynamic, with financial derivatives playing a crucial role in risk management and speculative strategies. Financial derivatives are contracts whose value is determined by the performance of an underlying asset, such as stocks, bonds, commodities, or interest rates. These instruments allow market participants to hedge risks or speculate on price movements, making them pivotal in the global financial system. 

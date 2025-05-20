@@ -1,6 +1,11 @@
 ---
-title: "Interest Rate Differential (Algo Trading)"
-description: "Explore how differential interest rates affect algorithmic trading by simplifying complex financial concepts for traders looking to leverage these strategies for profit maximization. Learn how understanding interest rate differentials is crucial for informed trading in both forex and bond markets, and how it informs strategy decisions through rapid algo execution."
+category: trading_strategy
+description: Explore how differential interest rates affect algorithmic trading by
+  simplifying complex financial concepts for traders looking to leverage these strategies
+  for profit maximization. Learn how understanding interest rate differentials is
+  crucial for informed trading in both forex and bond markets, and how it informs
+  strategy decisions through rapid algo execution.
+title: Interest Rate Differential (Algo Trading)
 ---
 
 Algorithmic trading, commonly referred to as algo trading, has significantly transformed the financial markets by automating trading processes which were traditionally handled manually. Through the use of sophisticated algorithms, traders can execute buy and sell orders at optimal times and prices, enhancing the overall efficiency of trades and reducing the risk of human error. This technological advance allows for rapid execution that is difficult to achieve by human traders, often operating within milliseconds.

@@ -1,6 +1,9 @@
 ---
-title: "Hedge Fund Registration with the SEC (Algo Trading)"
-description: "Explore SEC registration requirements for hedge funds using algorithmic trading Learn how these factors shape the industry's regulatory and technological landscape"
+category: quant_concept
+description: Explore SEC registration requirements for hedge funds using algorithmic
+  trading Learn how these factors shape the industry's regulatory and technological
+  landscape
+title: Hedge Fund Registration with the SEC (Algo Trading)
 ---
 
 The hedge fund industry has witnessed significant growth as an influential segment in global financial markets. Hedge funds are private investment pools that manage a substantial amount of assets, employing diverse strategies to generate high returns for their investors. The industry's rapid expansion can be attributed to its ability to offer dynamic investment opportunities and significant capital appreciation, attracting institutional investors seeking alternatives to traditional investment vehicles.

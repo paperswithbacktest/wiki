@@ -1,7 +1,8 @@
 ---
-title: Comprehensive Guide to Modern Face Recognition Technology
+category: quant_concept
 description: Face recognition technology leverages models like MagFace CurricularFace
   and PocketNet to improve accuracy security and efficiency Discover more inside.
+title: Comprehensive Guide to Modern Face Recognition Technology
 ---
 
 ![Image](images/1.png)

@@ -1,7 +1,8 @@
 ---
-title: Feature Matching in Machine Learning and Computer Vision
+category: quant_concept
 description: Feature matching enables accurate object recognition and tracking by
   comparing image features in datasets under varying conditions Discover more inside.
+title: Feature Matching in Machine Learning and Computer Vision
 ---
 
 ![Image](images/1.png)

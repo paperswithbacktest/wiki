@@ -1,6 +1,9 @@
 ---
-title: "Market Identifier Code: Purpose, Uses, and Types (Algo Trading)"
-description: "Market Identifier Codes (MICs) are crucial in algorithmic trading, enhancing efficiency by uniquely identifying trading venues and streamlining global market transactions."
+category: quant_concept
+description: Market Identifier Codes (MICs) are crucial in algorithmic trading, enhancing
+  efficiency by uniquely identifying trading venues and streamlining global market
+  transactions.
+title: 'Market Identifier Code: Purpose, Uses, and Types (Algo Trading)'
 ---
 
 Market Identifier Codes (MICs) play a crucial role in the organization and operation of financial markets worldwide. These alphanumeric identifiers are vital for categorizing different trading venues, including stock exchanges, electronic platforms, and other financial infrastructures. They are essential in facilitating algorithmic trading, which has become a dominant force in modern financial markets. MICs provide unique identifiers for each trading venue and thereby help algorithmic systems rapidly access and process trading data efficiently.

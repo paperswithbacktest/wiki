@@ -1,6 +1,8 @@
 ---
-title: "Marlboro Friday: Implications and Lessons (Algo Trading)"
-description: "Explore the profound impact of Marlboro Friday on marketing strategies stock market dynamics and consumer behavior amid a significant brand pricing shift."
+category: quant_concept
+description: Explore the profound impact of Marlboro Friday on marketing strategies
+  stock market dynamics and consumer behavior amid a significant brand pricing shift.
+title: 'Marlboro Friday: Implications and Lessons (Algo Trading)'
 ---
 
 Marlboro Friday, an event that took place on April 2, 1993, stands as a pivotal moment in the history of brand pricing and marketing strategy. This day marks when Philip Morris, one of the largest tobacco companies globally, announced an unprecedented 20% price cut on Marlboro cigarettes, a move that stunned the corporate world and had far-reaching implications for consumer behavior and marketing strategies. The significance of Marlboro Friday lies in the disruption it caused within brand pricing paradigms, shifting the focus from brand prestige to competitive pricing, in response to rising threats from generic brands.

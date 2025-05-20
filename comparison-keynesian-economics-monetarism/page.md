@@ -1,6 +1,8 @@
 ---
-title: "Comparison of Keynesian Economics and Monetarism (Algo Trading)"
-description: "Explore the contrasts between Keynesian Economics and Monetarism and their impact on modern economic policies and algo trading's role in financial markets."
+category: quant_concept
+description: Explore the contrasts between Keynesian Economics and Monetarism and
+  their impact on modern economic policies and algo trading's role in financial markets.
+title: Comparison of Keynesian Economics and Monetarism (Algo Trading)
 ---
 
 Economics is fundamentally shaped by two prominent theories: Keynesian Economics and Monetarism. These theories exert considerable influence on government policies worldwide, informing how fiscal and monetary decisions are made. Keynesian Economics, developed by John Maynard Keynes, advocates for substantial government intervention to manage economic fluctuations and promote stability. In contrast, Monetarism, championed by Milton Friedman, emphasizes the critical role of controlling the money supply to maintain economic stability and control inflation.

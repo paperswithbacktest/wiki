@@ -1,6 +1,8 @@
 ---
-title: "Hedonic Regression (Algo Trading)"
-description: "Explore hedonic regression in algorithmic trading to understand economic behaviors. Learn how econometric tools optimize strategies by analyzing market dynamics."
+category: quant_concept
+description: Explore hedonic regression in algorithmic trading to understand economic
+  behaviors. Learn how econometric tools optimize strategies by analyzing market dynamics.
+title: Hedonic Regression (Algo Trading)
 ---
 
 In today's complex financial landscape, understanding the tools and techniques used in economic analysis is crucial for investors, policymakers, and researchers. Among these tools, econometrics, hedonic pricing, regression analysis, and algorithmic trading represent key components that provide significant insights into economic behaviors and market dynamics.

@@ -1,6 +1,9 @@
 ---
-title: "Comparison of Buy-and-Hold Investing and Market Timing (Algo Trading)"
-description: "Explore the key differences between buy-and-hold investing and market timing. Discover how these strategies align with various financial goals and risk levels."
+category: trading_strategy
+description: Explore the key differences between buy-and-hold investing and market
+  timing. Discover how these strategies align with various financial goals and risk
+  levels.
+title: Comparison of Buy-and-Hold Investing and Market Timing (Algo Trading)
 ---
 
 In the world of investing, strategies are as diverse as the investors employing them, catering to a spectrum of risk tolerance levels and financial objectives. Typically, these strategies can be categorized broadly into active and passive approaches. Among these, market timing and buy-and-hold investing stand out as two prevalent strategies, each with distinct philosophies and outcomes. 

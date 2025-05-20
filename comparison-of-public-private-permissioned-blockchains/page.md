@@ -1,6 +1,9 @@
 ---
-title: "Comparison of Public, Private, and Permissioned Blockchains (Algo Trading)"
-description: "Explore the distinctions between public private and permissioned blockchains in algorithmic trading Discover how blockchain enhances transparency security and efficiency in trading systems"
+category: quant_concept
+description: Explore the distinctions between public private and permissioned blockchains
+  in algorithmic trading Discover how blockchain enhances transparency security and
+  efficiency in trading systems
+title: Comparison of Public, Private, and Permissioned Blockchains (Algo Trading)
 ---
 
 The digital landscape is undergoing significant transformation, primarily driven by advancements in blockchain technology. As a foundational component of the decentralized economy, blockchain is categorized into private, public, and permissioned types, each offering distinct features and applications. These variations are making impactful contributions across various sectors, including finance, healthcare, and supply chain management, among others. 
@@ -196,4 +199,3 @@ Maintaining an up-to-date understanding of blockchain innovations is crucial for
 [7]: Thayer, R. P., et al. (2018). ["Blockchains and Financial Market Innovation."](https://www.researchgate.net/publication/334279610_Blockchain_Technology_and_the_Financial_Market_An_Empirical_Analysis)
 
 [8]: Biais, B., Bisière, C., Bouvard, M., Casamatta, C., & Ma, K. (2019). ["The Blockchain Folk Theorem."](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3108601) The Review of Financial Studies, 32(5), 1662-1715.
-

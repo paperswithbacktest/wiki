@@ -1,6 +1,8 @@
 ---
-title: "Iceland Krona: Overview and History (Algo Trading)"
-description: "Explore the rich history and modern significance of the Iceland Krona ISK from its inception to its role in algorithmic trading and global finance."
+category: quant_concept
+description: Explore the rich history and modern significance of the Iceland Krona
+  ISK from its inception to its role in algorithmic trading and global finance.
+title: 'Iceland Krona: Overview and History (Algo Trading)'
 ---
 
 The Iceland Krona (ISK) stands as the official currency of Iceland, a nation characterized by its unique geographical, cultural, and economic attributes. As an island country located at the junction of the North Atlantic and Arctic Oceans, Iceland's financial system is both historically rich and dynamically modern. The ISK holds a distinctive position within these landscapes due to its historical evolution and its contemporary relevance in global financial markets. 

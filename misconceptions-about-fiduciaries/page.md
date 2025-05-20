@@ -1,6 +1,9 @@
 ---
-title: "Misconceptions About Fiduciaries (Algo Trading)"
-description: "Navigate financial intricacies with clarity on fiduciaries and demystify algorithmic trading. Learn to optimize investment strategies by understanding these key topics."
+category: quant_concept
+description: Navigate financial intricacies with clarity on fiduciaries and demystify
+  algorithmic trading. Learn to optimize investment strategies by understanding these
+  key topics.
+title: Misconceptions About Fiduciaries (Algo Trading)
 ---
 
 In the complex world of finance, financial advisors, fiduciaries, and algorithmic trading are pivotal components influencing the investment landscape. Despite their importance, misconceptions about these elements are pervasive, often leading to decisions that may not align with an individual's financial goals. Clarity on these subjects is paramount for anyone aiming to navigate personal and professional financial terrains successfully.

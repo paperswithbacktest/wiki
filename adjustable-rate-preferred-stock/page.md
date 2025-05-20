@@ -1,6 +1,8 @@
 ---
-title: "Adjustable-Rate Preferred Stock (Algo Trading)"
-description: "Adjustable-rate preferred stocks offer a blend of income stability and capital preservation adapting to market highs and lows through variable dividends."
+category: quant_concept
+description: Adjustable-rate preferred stocks offer a blend of income stability and
+  capital preservation adapting to market highs and lows through variable dividends.
+title: Adjustable-Rate Preferred Stock (Algo Trading)
 ---
 
 In the ever-evolving world of finance, investors continually seek strategies to optimize their portfolios, aiming to balance risk and return while adapting to market dynamics. Among various investment instruments, adjustable-rate financial securities, preferred stock, and algorithmic trading offer intriguing opportunities.

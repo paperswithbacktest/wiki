@@ -1,6 +1,8 @@
 ---
-title: "Sama Foreign Holdings in Saudi Arabia: Objectives and Strategy (Algo Trading)"
-description: "Discover how SAMA Foreign Holdings leverages algorithmic trading to optimize international investments and maintain Saudi Arabia's economic resilience."
+category: trading_strategy
+description: Discover how SAMA Foreign Holdings leverages algorithmic trading to optimize
+  international investments and maintain Saudi Arabia's economic resilience.
+title: 'Sama Foreign Holdings in Saudi Arabia: Objectives and Strategy (Algo Trading)'
 ---
 
 In recent years, Saudi Arabia has emerged as a key player in the global financial landscape, largely due to its strategic investment initiatives. At the forefront of these efforts is SAMA Foreign Holdings, the country's sovereign wealth fund, which is pivotal in optimizing international investments. Managed by the Saudi Arabian Monetary Agency (SAMA), this fund has become a significant force by leveraging extensive foreign holdings and employing advanced financial techniques.

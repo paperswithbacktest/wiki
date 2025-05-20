@@ -1,6 +1,8 @@
 ---
-title: "Understanding Closed-End Funds (Algo Trading)"
-description: "Explore closed-end funds and algorithmic trading in modern finance. Learn about investment strategies, market dynamics, and enhancing financial literacy."
+category: quant_concept
+description: Explore closed-end funds and algorithmic trading in modern finance. Learn
+  about investment strategies, market dynamics, and enhancing financial literacy.
+title: Understanding Closed-End Funds (Algo Trading)
 ---
 
 Financial education, closed-end funds, investment strategies, and algorithmic trading form a complex network that plays a pivotal role in personal and institutional investment landscapes. Financial literacy is foundational in this interconnected world, as it equips individuals with the knowledge and skills necessary to make informed decisions about personal finance and investments. A robust understanding of financial concepts helps investors navigate various investment vehicles, assess risks, and identify opportunities to diversify and maximize returns.

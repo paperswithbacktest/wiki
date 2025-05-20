@@ -1,6 +1,9 @@
 ---
-title: "Adair Turner, Baron Turner of Ecchinswell (Algo Trading)"
-description: "Explore Adair Turner's influential role in finance and his critical insights on algorithmic trading and regulation, emphasizing high-frequency trading's impact and risks."
+category: quant_concept
+description: Explore Adair Turner's influential role in finance and his critical insights
+  on algorithmic trading and regulation, emphasizing high-frequency trading's impact
+  and risks.
+title: Adair Turner, Baron Turner of Ecchinswell (Algo Trading)
 ---
 
 The world of finance is continuously evolving, with innovative technologies often at the forefront of these changes. One significant evolution in recent years has been the rise of algorithmic trading, a method that utilizes computers to execute trades at incredible speeds. This highly sophisticated approach has transformed the traditional mechanisms of trading by harnessing the power of complex algorithms and massive datasets. It leverages computational power to make split-second decisions, optimizing trading strategies and enhancing market liquidity.

@@ -1,6 +1,9 @@
 ---
-title: "Chaikin Oscillator: Overview, Calculation, and Examples (Algo Trading)"
-description: "Explore the Chaikin Oscillator a technical indicator by Marc Chaikin which measures momentum of the accumulation-distribution line for improved trading strategies."
+category: trading_strategy
+description: Explore the Chaikin Oscillator a technical indicator by Marc Chaikin
+  which measures momentum of the accumulation-distribution line for improved trading
+  strategies.
+title: 'Chaikin Oscillator: Overview, Calculation, and Examples (Algo Trading)'
 ---
 
 In the world of stock market trading, understanding technical indicators is crucial for making informed decisions. These indicators provide traders with insights into market trends, allowing them to anticipate potential price movements and adjust their trading strategies accordingly. One such powerful tool in technical analysis is the Chaikin Oscillator. Developed by Marc Chaikin, this momentum indicator is specifically designed to measure the momentum of the accumulation-distribution line, offering traders a way to gauge buying and selling pressure in the stock market.

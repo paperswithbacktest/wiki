@@ -1,6 +1,8 @@
 ---
-title: "Capital Recovery (Algo Trading)"
-description: "Explore capital recovery in investment strategies using financial analysis and algorithmic trading to maximize returns and minimize risks smartly and efficiently."
+category: quant_concept
+description: Explore capital recovery in investment strategies using financial analysis
+  and algorithmic trading to maximize returns and minimize risks smartly and efficiently.
+title: Capital Recovery (Algo Trading)
 ---
 
 Capital recovery investment is a fundamental concept for businesses and investors focused on regaining their initial capital expenditures and ensuring long-term financial sustainability. In an increasingly complex financial environment, strategic investment decisions often involve comprehensive financial analysis and the adoption of technological advancements, such as algorithmic trading. This integration is pivotal in formulating strategies that not only maximize returns but also minimize associated risks.

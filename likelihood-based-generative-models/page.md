@@ -1,7 +1,8 @@
 ---
-title: A Comprehensive Guide to Likelihood-Based Generative Models
+category: quant_concept
 description: Likelihood-Based Generative Models deliver clear data probability insights
   with VAEs normalizing flows and autoregressive methods Discover more inside
+title: A Comprehensive Guide to Likelihood-Based Generative Models
 ---
 
 ![Image](images/1.png)

@@ -1,6 +1,8 @@
 ---
-title: "Major Shareholders of eBay (Algo Trading)"
-description: "Explore the dynamics between eBay's major shareholders and algorithmic trading's impact on its stock performance in this insightful analysis for investors."
+category: dataset
+description: Explore the dynamics between eBay's major shareholders and algorithmic
+  trading's impact on its stock performance in this insightful analysis for investors.
+title: Major Shareholders of eBay (Algo Trading)
 ---
 
 In the rapidly evolving world of e-commerce, eBay has established itself as a prominent player, connecting millions of buyers and sellers worldwide. eBay's platform serves as a global marketplace where individuals and businesses can engage in buying and selling a diverse array of goods and services. Its impact on the e-commerce landscape is underscored by the vast reach and accessibility it provides to users across different geographical regions and demographics.

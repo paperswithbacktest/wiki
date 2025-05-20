@@ -1,6 +1,9 @@
 ---
-title: "Index Funds With Low Expense Ratios (Algo Trading)"
-description: "Discover the benefits of index funds with low expense ratios and algo trading to maximize returns. Learn how this strategy can enhance your investment portfolio."
+category: trading_strategy
+description: Discover the benefits of index funds with low expense ratios and algo
+  trading to maximize returns. Learn how this strategy can enhance your investment
+  portfolio.
+title: Index Funds With Low Expense Ratios (Algo Trading)
 ---
 
 Index funds and algorithmic trading, commonly referred to as algo trading, represent significant aspects of modern investing strategies. An index fund is a type of mutual or exchange-traded fund designed to track the performance of a specific market index, such as the S&P 500. By mirroring an index, these funds offer investors a diversified exposure to a segment of the financial market, providing a straightforward, yet powerful investment vehicle. 

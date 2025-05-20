@@ -1,6 +1,8 @@
 ---
-title: "Average Return on Equity of Banks (Algo Trading)"
-description: "Explore the significance of Return on Equity in evaluating banks' performance and its application in algorithmic trading to identify high-efficiency stocks."
+category: quant_concept
+description: Explore the significance of Return on Equity in evaluating banks' performance
+  and its application in algorithmic trading to identify high-efficiency stocks.
+title: Average Return on Equity of Banks (Algo Trading)
 ---
 
 Return on Equity (ROE) is a fundamental financial metric representing a company's ability to generate profits from its shareholders' equity. It serves as an essential gauge for investors and analysts, reflecting the efficiency with which a company utilizes the capital provided by shareholders. By expressing the net income as a percentage of shareholders' equity, ROE provides a direct measure of profitability relative to the equity invested in the firm.
@@ -292,4 +294,3 @@ In conclusion, ROE's role extends beyond a single measure of financial performan
 
 10. **"Corporate Finance Online Course" by edX**  
      This course provides an introduction to corporate finance principles, emphasizing the significance of ROE among other financial ratios in assessing business performance. It is a resource for both beginners and experts aiming to refine their analytical skills.
-

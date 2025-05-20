@@ -1,6 +1,9 @@
 ---
-title: "Capacity Cost: Definition, Mechanisms, and Key Considerations (Algo Trading)"
-description: "Optimize financial management in algo trading by understanding capacity costs managing direct and indirect expenses and leveraging technology for profitability growth."
+category: quant_concept
+description: Optimize financial management in algo trading by understanding capacity
+  costs managing direct and indirect expenses and leveraging technology for profitability
+  growth.
+title: 'Capacity Cost: Definition, Mechanisms, and Key Considerations (Algo Trading)'
 ---
 
 In today's fast-paced financial environment, effective management of business expenses is crucial for the success of any firm, especially those involved in algorithmic (algo) trading. Algorithmic trading relies heavily on automated processes to execute trades at speeds and frequencies that would be impossible for a human trader. This reliance on sophisticated technology and real-time data necessitates a unique approach to financial management that considers both operational costs and scalability requirements.

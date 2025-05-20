@@ -1,6 +1,14 @@
 ---
-title: "Yahoo Finance API Guide (Algo Trading)"
-description: Explore the Yahoo Finance API guide to enhance your algorithmic trading strategies with comprehensive financial data. Discover how to access detailed stock quotes, historical prices, exchange rates, and real-time updates to make informed trading decisions. Learn about the benefits and practical applications of integrating this API into your trading framework for accurate market predictions and improved execution. Uncover insights into backtesting strategies, real-time monitoring, and portfolio analysis to diversify your trading activities and achieve competitive advantages in the financial markets.
+category: dataset
+description: Explore the Yahoo Finance API guide to enhance your algorithmic trading
+  strategies with comprehensive financial data. Discover how to access detailed stock
+  quotes, historical prices, exchange rates, and real-time updates to make informed
+  trading decisions. Learn about the benefits and practical applications of integrating
+  this API into your trading framework for accurate market predictions and improved
+  execution. Uncover insights into backtesting strategies, real-time monitoring, and
+  portfolio analysis to diversify your trading activities and achieve competitive
+  advantages in the financial markets.
+title: Yahoo Finance API Guide (Algo Trading)
 ---
 
 In financial markets, algorithmic trading has become increasingly prevalent due to its efficiency and precision in executing trades. It involves using computer algorithms to make trading decisions, often relying on data-driven approaches to gain a competitive edge. A crucial aspect of successful algorithmic trading strategies is the integration of diverse data sources. This allows for more accurate market predictions and informed decision-making.

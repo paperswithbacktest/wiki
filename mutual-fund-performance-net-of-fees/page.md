@@ -1,6 +1,8 @@
 ---
-title: "Mutual Fund Performance Reporting: Net of Fees Consideration (Algo Trading)"
-description: "Explore how mutual fund performance is reported net of fees and the role of algorithmic trading in enhancing returns, helping investors make informed decisions."
+category: trading_strategy
+description: Explore how mutual fund performance is reported net of fees and the role
+  of algorithmic trading in enhancing returns, helping investors make informed decisions.
+title: 'Mutual Fund Performance Reporting: Net of Fees Consideration (Algo Trading)'
 ---
 
 In the competitive world of investing, understanding and analyzing the performance of mutual funds is crucial for investors seeking to maximize their returns. Mutual funds are pooled investment vehicles that allow investors to diversify across a wide array of securities, including stocks, bonds, and other assets. The performance of these funds is often a primary factor in investment decisions, making it essential for investors to consider how returns are reported.

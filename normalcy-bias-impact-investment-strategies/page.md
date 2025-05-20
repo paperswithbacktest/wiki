@@ -1,6 +1,8 @@
 ---
-title: "Normalcy Bias and Its Impact on Investment Strategies (Algo Trading)"
-description: "Discover how normalcy bias affects investment decisions and how algo trading can mitigate its impact leading to more rational and resilient strategies."
+category: trading_strategy
+description: Discover how normalcy bias affects investment decisions and how algo
+  trading can mitigate its impact leading to more rational and resilient strategies.
+title: Normalcy Bias and Its Impact on Investment Strategies (Algo Trading)
 ---
 
 Investing is a multifaceted domain that transcends mere numbers and trends. At its core, investing is profoundly shaped by human psychology. Investors must navigate a landscape where emotions and cognitive biases heavily influence decision-making processes. Among these psychological biases, normalcy bias plays a pivotal role, often leading to inappropriate risk assessments by causing individuals to underestimate the likelihood of adverse events. This can result in complacency and an irrational belief that existing conditions will persist unchanged.

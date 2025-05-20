@@ -1,7 +1,8 @@
 ---
-title: Advanced Pose Estimation Techniques in Machine Learning
+category: quant_concept
 description: Pose estimation models deliver insights on architectures applications
   and challenges in sports health and entertainment Discover more inside
+title: Advanced Pose Estimation Techniques in Machine Learning
 ---
 
 ![Image](images/1.jpeg)

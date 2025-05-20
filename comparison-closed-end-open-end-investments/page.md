@@ -1,6 +1,8 @@
 ---
-title: "Comparison of Closed-End and Open-End Investments (Algo Trading)"
-description: "Explore the differences between closed-end and open-end investments and learn how algorithmic trading can complement these strategies to enhance efficiency."
+category: quant_concept
+description: Explore the differences between closed-end and open-end investments and
+  learn how algorithmic trading can complement these strategies to enhance efficiency.
+title: Comparison of Closed-End and Open-End Investments (Algo Trading)
 ---
 
 Investors often encounter the decision of choosing between different investment fund structures, with open-end and closed-end investments standing out as popular options. Open-end investment funds, such as mutual funds and exchange-traded funds (ETFs), are characterized by their flexibility in issuing shares. This adaptability allows them to adjust to market conditions by constantly issuing and redeeming shares based on investor demand. On the other hand, closed-end investment funds have a fixed number of shares and operate more similarly to publicly traded companies. Shares in these funds are initially sold through an initial public offering (IPO) and subsequently traded in secondary markets.

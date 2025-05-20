@@ -1,6 +1,8 @@
 ---
-title: "Competitors of Morningstar Inc. (Algo Trading)"
-description: "Explore the competitive landscape of Morningstar Inc in algo trading, delving into rivals like Bloomberg and MarketWatch and the role of data."
+category: dataset
+description: Explore the competitive landscape of Morningstar Inc in algo trading,
+  delving into rivals like Bloomberg and MarketWatch and the role of data.
+title: Competitors of Morningstar Inc. (Algo Trading)
 ---
 
 The financial services industry, inherently dynamic, continuously adapts to technological advancements and the evolving needs of investors worldwide. In an age where information is a critical asset, investors strive to leverage top-tier platforms and tools to conduct thorough investment research and insightful data analysis. Among the front-runners in financial information dissemination is Morningstar, a company renowned for its robust financial data and comprehensive analysis tools.

@@ -1,6 +1,8 @@
 ---
-title: "Operating Loss: Calculation and Causes (Algo Trading)"
-description: "Explore operating losses in algo trading businesses, understanding calculation methods, common causes, and strategies for minimizing financial setbacks."
+category: trading_strategy
+description: Explore operating losses in algo trading businesses, understanding calculation
+  methods, common causes, and strategies for minimizing financial setbacks.
+title: 'Operating Loss: Calculation and Causes (Algo Trading)'
 ---
 
 In today's rapidly evolving financial landscape, businesses are increasingly adopting algorithmic trading to maintain a competitive edge. This form of trading, which employs automated and pre-programmed systems to execute trades based on market data and financial indicators, offers several advantages, including improved trading efficiency and reduced human error. Despite these benefits, companies still face significant challenges in dealing with operating losses and other financial setbacks.

@@ -1,6 +1,9 @@
 ---
-title: "Oil Shale: Characteristics, Operation, and Historical Context (Algo Trading)"
-description: "Explore the complex interplay between oil shale energy, fossil fuels, and algorithmic trading Discover how these elements impact global energy and financial markets"
+category: quant_concept
+description: Explore the complex interplay between oil shale energy, fossil fuels,
+  and algorithmic trading Discover how these elements impact global energy and financial
+  markets
+title: 'Oil Shale: Characteristics, Operation, and Historical Context (Algo Trading)'
 ---
 
 In recent years, oil shale energy extraction has emerged as a significant discussion point within the broader conversation about fossil fuels. This article addresses the intertwined relationship between oil shale energy, fossil fuels, and algorithmic trading within financial markets. Understanding these complex dynamics requires examining the importance of oil shale within the fossil fuel industry and its economic significance on a global scale. Oil shale, a sedimentary rock enriched with organic material known as kerogen, presents alternative pathways for energy production, especially pertinent as traditional fuel resources face depletion and increasing environmental scrutiny.

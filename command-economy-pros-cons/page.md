@@ -1,6 +1,9 @@
 ---
-title: "Command Economy: Pros and Cons (Algo Trading)"
-description: "Explore the pros and cons of command economies and algorithmic trading. Discover how these distinct systems impact economic stability, innovation, and resource allocation."
+category: quant_concept
+description: Explore the pros and cons of command economies and algorithmic trading.
+  Discover how these distinct systems impact economic stability, innovation, and resource
+  allocation.
+title: 'Command Economy: Pros and Cons (Algo Trading)'
 ---
 
 This article explores the intricacies of economic systems with a focus on command economies and algorithmic trading. Economic systems form the backbone of societies, shaping how resources are allocated, how goods and services are produced, and how wealth is distributed. Among these, the command economy presents a unique model where a centralized authority, typically the government, controls the means of production and allocation of goods. This system is often associated with socialist and communist countries, where governmental plans determine output levels and control prices, contrasting sharply with free-market economies driven by supply and demand dynamics.

@@ -1,6 +1,8 @@
 ---
-title: "Monetary Union Index of Consumer Prices (Algo Trading)"
-description: "Explore the significance of the Monetary Union Index of Consumer Prices in the eurozone economic landscape and its role in algorithmic trading and policy-making."
+category: dataset
+description: Explore the significance of the Monetary Union Index of Consumer Prices
+  in the eurozone economic landscape and its role in algorithmic trading and policy-making.
+title: Monetary Union Index of Consumer Prices (Algo Trading)
 ---
 
 The landscape of consumer prices and inflation in Europe is largely governed by key indices such as the Monetary Union Index of Consumer Prices (MUICP), which provides crucial insights for policymakers and traders alike. As an essential metric, MUICP allows for a standardized measurement of inflation across the eurozone, helping in the formulation of consistent monetary policies. This index aggregates the Harmonized Indices of Consumer Prices (HICPs) from each euro-using country, providing a comprehensive view of consumer price trends.

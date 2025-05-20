@@ -1,6 +1,9 @@
 ---
-title: "Ledger Balance: Meaning and Function (Algo Trading)"
-description: "Understand how ledger balance impacts banking and algorithmic trading by providing a snapshot of your account's end-of-day financial standing for effective planning."
+category: quant_concept
+description: Understand how ledger balance impacts banking and algorithmic trading
+  by providing a snapshot of your account's end-of-day financial standing for effective
+  planning.
+title: 'Ledger Balance: Meaning and Function (Algo Trading)'
 ---
 
 In today's rapidly evolving financial landscape, grasping financial terminology is more important than ever. The proliferation of digital platforms and the rise of algorithmic trading have transformed how financial transactions occur and how markets operate. Among these essential terms is the ledger balance, a fundamental concept in banking that significantly influences both individual financial planning and professional trading strategies.

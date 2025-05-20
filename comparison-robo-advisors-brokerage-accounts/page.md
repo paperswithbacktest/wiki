@@ -1,6 +1,8 @@
 ---
-title: "Comparison of Robo-Advisors and Brokerage Accounts (Algo Trading)"
-description: "Explore the differences between robo-advisors and traditional brokerage accounts in the world of algo trading to align your investment strategies effectively."
+category: trading_strategy
+description: Explore the differences between robo-advisors and traditional brokerage
+  accounts in the world of algo trading to align your investment strategies effectively.
+title: Comparison of Robo-Advisors and Brokerage Accounts (Algo Trading)
 ---
 
 In the evolving landscape of investment management, investors have an array of options to select from, each serving different preferences and levels of involvement. This article examines three prominent investment approaches: traditional brokerage accounts, robo-advisors, and algorithmic trading. Understanding the differences, advantages, and potential drawbacks of each can help investors make informed choices that align with their financial goals and risk tolerance.

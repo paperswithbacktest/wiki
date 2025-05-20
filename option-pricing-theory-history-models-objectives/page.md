@@ -1,6 +1,8 @@
 ---
-title: "Option Pricing Theory: History, Models, and Objectives (Algo Trading)"
-description: "Explore the history, essential models, and objectives of option pricing theory in algorithmic trading and understand its impact on financial markets today."
+category: quant_concept
+description: Explore the history, essential models, and objectives of option pricing
+  theory in algorithmic trading and understand its impact on financial markets today.
+title: 'Option Pricing Theory: History, Models, and Objectives (Algo Trading)'
 ---
 
 In the rapidly evolving world of finance, options trading has emerged as a foundational element both for managing risk and engaging in speculative investment. The essence of effective options trading lies in option pricing principles and the models that have been developed to deliver accurate market valuations. Understanding these models is crucial for investors aiming to capitalize on market opportunities or safeguard against financial uncertainties.

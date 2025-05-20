@@ -1,6 +1,8 @@
 ---
-title: "Order book imbalance strategies (Algo Trading)"
-description: "Explore effective algorithmic trading strategies using order book imbalance to predict short-term price movements and optimize high-frequency trading outcomes."
+category: trading_strategy
+description: Explore effective algorithmic trading strategies using order book imbalance
+  to predict short-term price movements and optimize high-frequency trading outcomes.
+title: Order book imbalance strategies (Algo Trading)
 ---
 
 High-frequency trading (HFT) has significantly altered the landscape of financial markets by facilitating the swift execution of trades through the use of complex algorithms. This rapid trading style depends on cutting-edge technology and sophisticated computational models to capitalize on small price movements at extremely high speeds. A foundational concept crucial to understanding and navigating HFT environments is order book imbalance, which assesses the underlying supply and demand dynamics at a detailed, granular level.

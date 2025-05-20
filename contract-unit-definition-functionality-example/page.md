@@ -1,6 +1,9 @@
 ---
-title: "Contract Unit: Definition and Functionality with Example (Algo Trading)"
-description: "Explore how contract units standardize trading in derivatives markets and how algorithmic trading enhances efficiency and precision in modern financial transactions."
+category: quant_concept
+description: Explore how contract units standardize trading in derivatives markets
+  and how algorithmic trading enhances efficiency and precision in modern financial
+  transactions.
+title: 'Contract Unit: Definition and Functionality with Example (Algo Trading)'
 ---
 
 The world of financial instruments trading has undergone a transformative evolution with the integration of algorithmic trading. This article examines the pivotal elements of trading contract units and the crucial function of algorithms in augmenting trading efficiency. For contemporary traders, grasping the fundamental principles of contract units and algo trading is indispensable. This discussion will clarify what contract units entail, their operational mechanics, and their significance in the derivatives markets. Additionally, algorithmic trading strategies' operational methods and their transformative impact on the financial trading landscape will be explored.

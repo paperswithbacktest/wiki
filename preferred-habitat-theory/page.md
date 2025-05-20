@@ -1,6 +1,8 @@
 ---
-title: "Preferred Habitat Theory (Algo Trading)"
-description: "Discover how preferred habitat theory influences algo trading by understanding the impact of interest rates and bond yields on financial markets dynamics."
+category: quant_concept
+description: Discover how preferred habitat theory influences algo trading by understanding
+  the impact of interest rates and bond yields on financial markets dynamics.
+title: Preferred Habitat Theory (Algo Trading)
 ---
 
 Financial markets play a crucial role in the global economy by facilitating the exchange of capital and resources among various entities. These markets comprise diverse components, including stocks, bonds, commodities, and foreign exchange, each with distinct characteristics and functions. Interconnections within financial markets are driven by participants such as investors, institutions, and traders, who operate across different market segments, thereby influencing pricing and liquidity.
@@ -258,4 +260,3 @@ In conclusion, the intersection of these financial elements underlines the impor
   Widely used software for trading and technical analysis in financial markets, providing tools for charting and executing trading strategies.
 
 These resources offer extensive insights and tools for individuals looking to deepen their understanding of financial markets and trading strategies, leveraging algorithmic tools and software for practical application.
-

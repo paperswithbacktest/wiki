@@ -1,6 +1,8 @@
 ---
-title: "Naked Short Selling: Mechanism and Legality (Algo Trading)"
-description: "Explore the dynamics of naked short selling and its implications in algo trading Discover how this controversial practice impacts market stability and regulation"
+category: quant_concept
+description: Explore the dynamics of naked short selling and its implications in algo
+  trading Discover how this controversial practice impacts market stability and regulation
+title: 'Naked Short Selling: Mechanism and Legality (Algo Trading)'
 ---
 
 Financial markets are dynamic ecosystems that play a pivotal role in the global economy, facilitating the buying and selling of securities like stocks. These markets are shaped by various mechanisms and behaviors, encompassing both legal trading practices and more controversial activities such as naked short selling. Understanding these dynamics is crucial for participants seeking to navigate the complexities of trading and investment effectively.

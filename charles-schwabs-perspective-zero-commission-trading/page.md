@@ -1,6 +1,9 @@
 ---
-title: "Charles Schwab's Perspective on Zero Commission Trading (Algo Trading)"
-description: "Charles Schwab's zero commission model revolutionized online trading by removing cost barriers, enhancing market accessibility, and promoting algorithmic trading."
+category: quant_concept
+description: Charles Schwab's zero commission model revolutionized online trading
+  by removing cost barriers, enhancing market accessibility, and promoting algorithmic
+  trading.
+title: Charles Schwab's Perspective on Zero Commission Trading (Algo Trading)
 ---
 
 The landscape of online trading has experienced remarkable changes in recent years, primarily driven by innovations and strategic decisions within the financial services industry. One key player in this transformation is Charles Schwab, a prominent brokerage firm known for its client-centric approach and innovative solutions. A critical moment marking this shift was Charles Schwab's bold decision to eliminate trading commissions, a move that significantly impacted the brokerage industry and consumer behavior.

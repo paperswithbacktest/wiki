@@ -1,6 +1,9 @@
 ---
-title: "Fibonacci Fan: Overview and Function (Algo Trading)"
-description: "Explore the foundational aspects and algorithmic integration of Fibonacci Fans in trading. Learn how these tools enhance precision in identifying key market levels."
+category: quant_concept
+description: Explore the foundational aspects and algorithmic integration of Fibonacci
+  Fans in trading. Learn how these tools enhance precision in identifying key market
+  levels.
+title: 'Fibonacci Fan: Overview and Function (Algo Trading)'
 ---
 
 Technical analysis is essential in financial markets, helping traders navigate complex decision-making processes. Among various tools, Fibonacci Fans stand out for their unique mathematical foundation, tracing back centuries to Leonardo of Pisa, known as Fibonacci. This tool applies the Fibonacci sequence—or series—in a way that highlights potential support and resistance levels on price charts, serving as a compass for traders to understand market dynamics and potential price movements.

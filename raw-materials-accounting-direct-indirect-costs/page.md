@@ -1,6 +1,8 @@
 ---
-title: "Raw Materials in Accounting: Direct and Indirect Costs (Algo Trading)"
-description: "Explore the complexities of cost accounting in algorithmic trading by understanding direct and indirect costs to enhance financial management and profitability."
+category: quant_concept
+description: Explore the complexities of cost accounting in algorithmic trading by
+  understanding direct and indirect costs to enhance financial management and profitability.
+title: 'Raw Materials in Accounting: Direct and Indirect Costs (Algo Trading)'
 ---
 
 The complexity of cost accounting has been significantly amplified with the rise of algorithmic trading. This progression necessitates a more nuanced understanding of how costs are delineated and managed within any business framework. In particular, the ability to distinguish between direct and indirect costs has become more crucial than ever for effective financial management.

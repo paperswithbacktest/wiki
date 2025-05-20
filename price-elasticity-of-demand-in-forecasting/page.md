@@ -1,6 +1,12 @@
 ---
-title: "Price Elasticity of Demand in Forecasting (Algo Trading)"
-description: "Explore the importance of price elasticity of demand, economic modeling, demand forecasting, and algorithmic trading in today's financial landscape. Understand how these concepts intertwine to influence market strategies, optimize pricing, and improve trading outcomes. Discover the role of elasticity in predicting consumer behavior and crafting efficient economic models for a competitive edge in algorithmic trading and market analysis."
+category: quant_concept
+description: Explore the importance of price elasticity of demand, economic modeling,
+  demand forecasting, and algorithmic trading in today's financial landscape. Understand
+  how these concepts intertwine to influence market strategies, optimize pricing,
+  and improve trading outcomes. Discover the role of elasticity in predicting consumer
+  behavior and crafting efficient economic models for a competitive edge in algorithmic
+  trading and market analysis.
+title: Price Elasticity of Demand in Forecasting (Algo Trading)
 ---
 
 In today's dynamic economic environment, grasping the connections between price elasticity, economic modeling, demand forecasting, and algorithmic trading is vital for both businesses and investors. These concepts, though distinct in their primary focus and application, collectively shape strategies that navigate the complexities of modern financial markets.

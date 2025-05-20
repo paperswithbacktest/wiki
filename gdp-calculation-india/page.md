@@ -1,6 +1,15 @@
 ---
-title: "GDP Calculation in India (Algo Trading)"
-description: "Explore the intricacies of GDP calculation in India, a vital economic indicator reflecting the nation's growth and economic performance. Understand different methodologies like the production, income, and expenditure approaches used to measure GDP. Discover how algorithmic trading influences economic dynamics by enhancing market efficiency, potentially impacting GDP through changing investment flows. Delve into the challenges and opportunities presented by India's rapid economic expansion in sectors such as information technology and financial services. Gain insights into how GDP serves as a benchmark for policy-making and international economic comparisons."
+category: quant_concept
+description: Explore the intricacies of GDP calculation in India, a vital economic
+  indicator reflecting the nation's growth and economic performance. Understand different
+  methodologies like the production, income, and expenditure approaches used to measure
+  GDP. Discover how algorithmic trading influences economic dynamics by enhancing
+  market efficiency, potentially impacting GDP through changing investment flows.
+  Delve into the challenges and opportunities presented by India's rapid economic
+  expansion in sectors such as information technology and financial services. Gain
+  insights into how GDP serves as a benchmark for policy-making and international
+  economic comparisons.
+title: GDP Calculation in India (Algo Trading)
 ---
 
 Gross Domestic Product (GDP) is a crucial indicator of economic health, providing a comprehensive measure of a nation's overall economic activity. GDP quantifies the value of all goods and services produced over a specific time period within a country, serving as a fundamental gauge for economic performance. Policymakers, analysts, and economists rely on GDP to assess economic progress, formulate strategic plans, and compare economic outputs across different nations.

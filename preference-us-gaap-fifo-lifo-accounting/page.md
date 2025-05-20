@@ -1,6 +1,8 @@
 ---
-title: "Preference of U.S. GAAP for FIFO or LIFO Accounting (Algo Trading)"
-description: "Explore the complexities of choosing between FIFO and LIFO accounting under U.S. GAAP, and understand the impact of algorithmic trading on financial reporting."
+category: quant_concept
+description: Explore the complexities of choosing between FIFO and LIFO accounting
+  under U.S. GAAP, and understand the impact of algorithmic trading on financial reporting.
+title: Preference of U.S. GAAP for FIFO or LIFO Accounting (Algo Trading)
 ---
 
 The world of finance is inherently complex, especially when addressing inventory accounting and trading dynamics. The management of inventory, a critical asset for many businesses, hinges heavily on the choice of accounting methods, such as Last-In, First-Out (LIFO) and First-In, First-Out (FIFO), under the framework of U.S. Generally Accepted Accounting Principles (GAAP). These methodologies are pivotal in determining the cost of goods sold (COGS) and ultimately influence a company's taxable income and financial statements. Specifically, LIFO assumes that the most recently acquired inventory is sold first, resulting in differing financial outcomes than FIFO, which assumes the earliest purchased inventory is sold first.

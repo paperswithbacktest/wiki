@@ -1,6 +1,8 @@
 ---
-title: "Nonaccrual Experience Method (Algo Trading)"
-description: "Discover how the Nonaccrual Experience (NAE) Method enhances financial reporting by accurately managing bad debts and refining algorithmic trading strategies."
+category: quant_concept
+description: Discover how the Nonaccrual Experience (NAE) Method enhances financial
+  reporting by accurately managing bad debts and refining algorithmic trading strategies.
+title: Nonaccrual Experience Method (Algo Trading)
 ---
 
 In the ever-evolving financial landscape, managing risks effectively is paramount for maintaining stability and accuracy in financial reports. Accurate accounting for bad debts remains a significant aspect of this risk management. Traditionally, accounting methods have struggled to adapt to the dynamic nature of certain sectors where debt recovery is unpredictable. One approach that addresses these challenges is the Nonaccrual Experience (NAE) Method. By focusing on nonaccrual loans, this method enhances the reflective accuracy of financial statements, offering institutions a clearer picture of their financial standing.

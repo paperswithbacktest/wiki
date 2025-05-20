@@ -1,6 +1,9 @@
 ---
-title: "Financial Advantages of Hire Purchase (Algo Trading)"
-description: "Discover the financial perks of hire purchase and algorithmic trading. Enhance liquidity with installment-based asset acquisition and boost trading precision with AI."
+category: quant_concept
+description: Discover the financial perks of hire purchase and algorithmic trading.
+  Enhance liquidity with installment-based asset acquisition and boost trading precision
+  with AI.
+title: Financial Advantages of Hire Purchase (Algo Trading)
 ---
 
 Hire purchase and algorithmic trading represent pivotal financial strategies in contemporary economic landscapes. Hire purchase, a traditional albeit still vital financial method, allows businesses and individuals to acquire assets through an installment-based system. Conversely, algorithmic trading embodies modern technological advancements in finance, automating trading decisions through sophisticated algorithms and high-speed data analysis.

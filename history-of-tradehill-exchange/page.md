@@ -1,6 +1,8 @@
 ---
-title: "History of Tradehill Exchange (Algo Trading)"
-description: "Explore the rise and fall of Tradehill Exchange a pioneer in cryptocurrency trading that integrated algorithmic strategies to enhance trading efficiency."
+category: quant_concept
+description: Explore the rise and fall of Tradehill Exchange a pioneer in cryptocurrency
+  trading that integrated algorithmic strategies to enhance trading efficiency.
+title: History of Tradehill Exchange (Algo Trading)
 ---
 
 Tradehill was one of the pioneers in the cryptocurrency exchange industry, launching in June 2011. Founded by Jered Kenna, a former U.S. Marine and early Bitcoin enthusiast, Tradehill quickly rose to prominence as a crucial platform for Bitcoin transactions, serving as an entry point into the burgeoning cryptocurrency market. This period marked a transformative phase in digital finance as Bitcoin and other digital currencies began to gain mainstream attention.

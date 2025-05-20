@@ -1,6 +1,8 @@
 ---
-title: "factor models for execution (Algo Trading)"
-description: "Discover how factor models enhance algorithmic trading by offering insights into risk management and asset return predictions to optimize trading strategies."
+category: trading_strategy
+description: Discover how factor models enhance algorithmic trading by offering insights
+  into risk management and asset return predictions to optimize trading strategies.
+title: factor models for execution (Algo Trading)
 ---
 
 Factor models have become essential in algorithmic trading by providing a structured approach to both understanding and predicting asset returns. By identifying relationships between financial factors—such as interest rates, economic indicators, or specific company metrics—and market performance, these models enable traders to optimize returns and manage risk effectively.

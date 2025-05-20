@@ -1,6 +1,8 @@
 ---
-title: "Accounting Conventions and Their Methods and Applications (Algo Trading)"
-description: "Explore how accounting methods like accrual accounting impact algorithmic trading Enhance transparency and compliance in automated trading environments"
+category: quant_concept
+description: Explore how accounting methods like accrual accounting impact algorithmic
+  trading Enhance transparency and compliance in automated trading environments
+title: Accounting Conventions and Their Methods and Applications (Algo Trading)
 ---
 
 Algorithmic trading, often referred to as 'algo trading', represents a sophisticated approach to executing trades where computer algorithms dictate the timing, price, and volume of stock orders. This methodology is becoming increasingly prominent in contemporary financial markets, characterized by its ability to conduct trades with speed and precision beyond human capacity. In today's financial landscape, these complex algorithms are not just augmenting but gradually replacing human decision-making processes. This transition introduces a unique set of challenges and opportunities, particularly in the domain of accounting methods.

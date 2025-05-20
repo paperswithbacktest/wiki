@@ -1,9 +1,11 @@
 ---
-title: "How can traders backtest and validate their AI-driven trading algorithms?"
-description: "Discover how to backtest and validate AI-driven trading algorithms using historical data and simulation methods. Learn essential steps, metrics, and pitfalls in creating profitable strategies for equities, cryptocurrencies, commodities, currencies, bonds, and options. Explore resources to improve your quant trading skills."
+category: trading_strategy
+description: Discover how to backtest and validate AI-driven trading algorithms using
+  historical data and simulation methods. Learn essential steps, metrics, and pitfalls
+  in creating profitable strategies for equities, cryptocurrencies, commodities, currencies,
+  bonds, and options. Explore resources to improve your quant trading skills.
+title: How can traders backtest and validate their AI-driven trading algorithms?
 ---
-
-
 
 The rise of information technology has given rise to a new form of trading: algorithmic trading driven by artificial intelligence (AI). As with any trading strategy, it is essential to test and validate algorithms before deploying them on the markets in real-time. Here's a guide to the process.
 

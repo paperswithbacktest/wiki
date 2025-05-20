@@ -1,6 +1,9 @@
 ---
-title: "Air Pocket Stocks: Definition and Function (Algo Trading)"
-description: "Explore air pocket stocks and algorithmic trading Discover how sudden market shifts interact with automated trades to create opportunities and challenges for investors"
+category: quant_concept
+description: Explore air pocket stocks and algorithmic trading Discover how sudden
+  market shifts interact with automated trades to create opportunities and challenges
+  for investors
+title: 'Air Pocket Stocks: Definition and Function (Algo Trading)'
 ---
 
 In the ever-evolving world of finance, understanding stock market terminology is crucial for investors. The stock market is a complex ecosystem where numerous factors influence the dynamics of asset prices and investment decisions. Among these factors, key concepts such as air pocket stocks and algorithmic trading play significant roles in shaping market behaviors and trends.

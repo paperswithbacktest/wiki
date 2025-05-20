@@ -1,6 +1,12 @@
 ---
-title: "American Companies Removed from the Dow Jones Industrial Average (Algo Trading)"
-description: "Explore the history and significance of American companies removed from the Dow Jones Industrial Average reflecting shifts in economic trends and algorithmic trading impacts. Discover how these changes shape the index's role in representing the U.S. economy's evolving dynamics and understand the broader industry trends driving these modifications. Gain insights into the importance of strategizing investments in line with technology and market innovations."
+category: dataset
+description: Explore the history and significance of American companies removed from
+  the Dow Jones Industrial Average reflecting shifts in economic trends and algorithmic
+  trading impacts. Discover how these changes shape the index's role in representing
+  the U.S. economy's evolving dynamics and understand the broader industry trends
+  driving these modifications. Gain insights into the importance of strategizing investments
+  in line with technology and market innovations.
+title: American Companies Removed from the Dow Jones Industrial Average (Algo Trading)
 ---
 
 The Dow Jones Industrial Average (DJIA) is a significant stock market index that encompasses 30 leading U.S. companies from various sectors. Since its inception, the DJIA has undergone numerous modifications to its composition to remain responsive to the changing market landscape and economic sectors. This adaptability ensures that the index continues to serve as a reliable benchmark for the stock market, reflecting the health and dynamics of the U.S. economy.

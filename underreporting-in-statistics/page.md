@@ -1,6 +1,8 @@
 ---
-title: "Underreporting in Statistics (Algo Trading)"
-description: "Explore the critical role of data accuracy in algo trading strategy development and mitigate underreporting's adverse effects on financial decision-making."
+category: quant_concept
+description: Explore the critical role of data accuracy in algo trading strategy development
+  and mitigate underreporting's adverse effects on financial decision-making.
+title: Underreporting in Statistics (Algo Trading)
 ---
 
 Algorithmic trading, often referred to as algo trading, is experiencing a rapid transformation driven by the pivotal role of data in shaping trading strategies and informing decision-making processes. Fundamental to the success of these strategies is the accuracy of the data used during algo trading backtesting. Accurate data ensures traders can replicate real market conditions, making it possible to gauge potential outcomes with greater precision and reliability. This accuracy is vital, given that it forms the backbone of sound decision-making in trading.

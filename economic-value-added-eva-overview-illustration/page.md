@@ -1,6 +1,8 @@
 ---
-title: "Economic Value Added (EVA): Overview and Illustration (Algo Trading)"
-description: "Explore how Economic Value Added and algorithmic trading intersect to enhance financial strategy Evaluate EVA's role in trading models for improved performance."
+category: quant_concept
+description: Explore how Economic Value Added and algorithmic trading intersect to
+  enhance financial strategy Evaluate EVA's role in trading models for improved performance.
+title: 'Economic Value Added (EVA): Overview and Illustration (Algo Trading)'
 ---
 
 Economic Value Added (EVA) is a financial performance metric that quantifies the value created by a company beyond its required return on capital. It represents the net profit of the enterprise after deducting its cost of capital, emphasizing value creation for shareholders. The significance of EVA lies in its focus on value generation rather than mere accounting profit, thereby providing a more comprehensive picture of company performance. By incentivizing effective capital investment decisions, EVA becomes a critical measure for assessing management's ability to enhance shareholder wealth.

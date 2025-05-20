@@ -1,6 +1,9 @@
 ---
-title: "Commodity Trading Advisors (Algo Trading)"
-description: "Explore how Commodity Trading Advisors leverage algorithmic trading to enhance commodity investment strategies focusing on trend following and diversification for optimal returns."
+category: quant_concept
+description: Explore how Commodity Trading Advisors leverage algorithmic trading to
+  enhance commodity investment strategies focusing on trend following and diversification
+  for optimal returns.
+title: Commodity Trading Advisors (Algo Trading)
 ---
 
 Commodity trading involves the buying and selling of raw materials and primary products, ranging from agricultural goods, such as wheat and corn, to energy products like oil and natural gas, and metals such as gold and silver. These commodities are essential components of the global economy, serving as inputs for other goods and thus are critically important in the financial markets for hedging, speculating, and diversification purposes. Their prices are affected by a myriad of factors, including supply and demand dynamics, geopolitical events, weather conditions, and market speculation, adding layers of complexity and opportunity for investors.

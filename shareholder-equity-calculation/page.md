@@ -1,6 +1,9 @@
 ---
-title: "Shareholder Equity Calculation (Algo Trading)"
-description: "Explore the synergy between shareholder equity and algorithmic trading to make informed investments. Learn how equity metrics enhance trading strategies and optimize returns."
+category: quant_concept
+description: Explore the synergy between shareholder equity and algorithmic trading
+  to make informed investments. Learn how equity metrics enhance trading strategies
+  and optimize returns.
+title: Shareholder Equity Calculation (Algo Trading)
 ---
 
 The integration of financial metrics into trading strategies has significantly transformed investment practices. As the financial markets grow increasingly complex, these metrics offer critical insights, allowing investors and analysts to make more informed decisions. Among these metrics, equity calculation stands as a foundational element for understanding a company's financial health. It provides a clear picture of what a company owns minus what it owes, ultimately presenting the net worth that belongs to shareholders. By subtracting total liabilities from total assets, shareholder equity offers a snapshot of a company's stability and operational efficiency.
@@ -167,4 +170,3 @@ The Algorithmic Trading Library offers valuable insights into the use of equity 
 Publications like "Advances in Financial Machine Learning" by Marcos López de Prado provide advanced perspectives on integrating financial data with trading models. This book investigates into the application of [machine learning](/wiki/machine-learning) techniques to enhance the analysis of financial metrics. It covers topics such as feature selection, backtesting, and the deployment of algorithms in trading environments, giving readers a robust framework for implementing machine learning strategies in finance.
 
 Overall, these references collectively serve as a strong foundation for both novice and experienced traders interested in enhancing their understanding and execution of trading strategies through the application of financial metrics and algorithmic techniques.
-

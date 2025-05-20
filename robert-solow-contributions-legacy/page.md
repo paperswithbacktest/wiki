@@ -1,6 +1,8 @@
 ---
-title: "Robert M. Solow: Contributions and Legacy (Algo Trading)"
-description: "Explore Robert M. Solow's influential economic growth theories, including the Nobel-winning Solow Model's impact on modern practices like algorithmic trading."
+category: quant_concept
+description: Explore Robert M. Solow's influential economic growth theories, including
+  the Nobel-winning Solow Model's impact on modern practices like algorithmic trading.
+title: 'Robert M. Solow: Contributions and Legacy (Algo Trading)'
 ---
 
 The Solow Model, introduced by Robert M. Solow, is a cornerstone in the field of economic growth theory. This model has been instrumental in dissecting the fundamental elements that contribute to an economy's progress, focusing primarily on capital, labor, and technological innovation. Solow's groundbreaking work in this domain was recognized with the Nobel Prize in Economic Sciences in 1987, underscoring the significance of his contributions to economics.

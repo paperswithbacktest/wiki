@@ -1,6 +1,8 @@
 ---
-title: "PFGBest Financial Services (Algo Trading)"
-description: "Explore the rise and fall of PFGBest, a pioneer in algorithmic trading. Discover its impact on financial services and the scandal that led to its closure."
+category: quant_concept
+description: Explore the rise and fall of PFGBest, a pioneer in algorithmic trading.
+  Discover its impact on financial services and the scandal that led to its closure.
+title: PFGBest Financial Services (Algo Trading)
 ---
 
 PFGBest, initially established as Peregrine Financial Group, Inc., became a significant entity within the financial services industry, primarily focusing on futures, options, and forex trading. Launched in 1980, the firm quickly rose to prominence due to its pioneering algorithmic trading solutions and a comprehensive portfolio of financial service products. Throughout its operational years, PFGBest was regarded as a formidable brokerage firm with advanced technological strategies that catered to both retail traders and large institutional investors. Algorithmic trading particularly stood out as a core component of PFGBest’s business model, enabling clients to utilize sophisticated trading strategies that enhanced execution speed and market precision.

@@ -1,6 +1,8 @@
 ---
-title: "Major Risks in the Oil and Gas Industry (Algo Trading)"
-description: "Explore the major risks facing the oil and gas industry including political instability regulatory challenges and market volatility despite technological advances"
+category: quant_concept
+description: Explore the major risks facing the oil and gas industry including political
+  instability regulatory challenges and market volatility despite technological advances
+title: Major Risks in the Oil and Gas Industry (Algo Trading)
 ---
 
 The oil and gas industry serves as a cornerstone of the global economy, supplying a substantial portion of the energy required for industrial operations, transportation, and residential needs. This sector's pivotal role is underscored by its contribution to energy security and economic development worldwide. In 2021, oil and gas accounted for over 50% of the world's primary energy consumption, highlighting their central position in the global energy landscape (BP Statistical Review of World Energy 2022).

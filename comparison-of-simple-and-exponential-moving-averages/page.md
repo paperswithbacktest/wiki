@@ -1,6 +1,8 @@
 ---
-title: "Comparison of Simple and Exponential Moving Averages (Algo Trading)"
-description: "Explore the key differences between simple and exponential moving averages in algorithmic trading to enhance your strategies and achieve better outcomes."
+category: trading_strategy
+description: Explore the key differences between simple and exponential moving averages
+  in algorithmic trading to enhance your strategies and achieve better outcomes.
+title: Comparison of Simple and Exponential Moving Averages (Algo Trading)
 ---
 
 In algorithmic trading, moving averages serve as essential tools for traders to identify trends and make informed decisions. By smoothing out price data, these averages provide a clearer picture of the market's direction and are vital for both manual and automated trading strategies. This article focuses on two main types of moving averages: the exponential moving average (EMA) and the simple moving average (SMA). Understanding the differences and applications of SMAs and EMAs can significantly enhance trading strategies and outcomes.

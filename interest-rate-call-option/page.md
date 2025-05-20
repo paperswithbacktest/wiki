@@ -1,6 +1,9 @@
 ---
-title: "Interest Rate Call Option (Algo Trading)"
-description: "Explore the utility of interest rate call options in algorithmic trading for risk management and speculation. Gain insights into optimizing derivative trading strategies."
+category: quant_concept
+description: Explore the utility of interest rate call options in algorithmic trading
+  for risk management and speculation. Gain insights into optimizing derivative trading
+  strategies.
+title: Interest Rate Call Option (Algo Trading)
 ---
 
 Financial derivatives are financial instruments whose value is derived from an underlying asset such as stocks, bonds, commodities, or interest rates. These instruments play a crucial role in modern finance by offering mechanisms for risk management, speculation, and arbitrage opportunities. Derivatives are essential in providing liquidity and enabling price discovery in financial markets, which in turn promotes market efficiency.

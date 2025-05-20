@@ -1,6 +1,14 @@
 ---
-title: "Assets (Algo Trading)"
-description: "Gain valuable insights into the essential role of financial and business assets within algorithmic trading. Discover how these assets, from stocks and bonds to machinery and patents, shape sophisticated trading strategies, enhance market efficiency, and drive economic growth. Learn how technology-driven approaches to trading optimize asset management, maximizing returns and enabling strategic decision-making in today's dynamic financial landscape. This article provides a comprehensive overview of asset classification and functionality, illustrating how modern trading practices can revolutionize investment portfolios."
+category: quant_concept
+description: Gain valuable insights into the essential role of financial and business
+  assets within algorithmic trading. Discover how these assets, from stocks and bonds
+  to machinery and patents, shape sophisticated trading strategies, enhance market
+  efficiency, and drive economic growth. Learn how technology-driven approaches to
+  trading optimize asset management, maximizing returns and enabling strategic decision-making
+  in today's dynamic financial landscape. This article provides a comprehensive overview
+  of asset classification and functionality, illustrating how modern trading practices
+  can revolutionize investment portfolios.
+title: Assets (Algo Trading)
 ---
 
 In the rapidly changing landscape of finance, grasping the intricacies of financial and business assets is crucial for both investors and traders. Financial assets, such as stocks, bonds, currencies, and commodities, represent instruments with monetary value that can be traded in financial markets. Business assets, on the other hand, encompass the tangible and intangible resources owned by a company, including machinery, buildings, patents, and brand values, which are essential for the company's future benefits and growth.

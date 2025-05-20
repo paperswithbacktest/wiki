@@ -1,6 +1,8 @@
 ---
-title: "Buyer's Monopoly: Definition and Function (Algo Trading)"
-description: "Discover how a buyer's monopoly or monopsony impacts market dynamics and algorithmic trading influencing pricing strategies and regulatory roles."
+category: quant_concept
+description: Discover how a buyer's monopoly or monopsony impacts market dynamics
+  and algorithmic trading influencing pricing strategies and regulatory roles.
+title: 'Buyer''s Monopoly: Definition and Function (Algo Trading)'
 ---
 
 This article explores the intricate dynamics of a buyer's monopoly, commonly known as monopsony, within economic market structures. A monopsony situation arises when a single entity predominantly influences the purchasing decisions for a particular good, service, or factor of production, creating unique market dynamics distinct from those found in more competitive environments. The presence of a monopsony can have significant impacts on pricing strategies and market behavior, as the dominant buyer exerts considerable power over sellers who have few alternative buyers.

@@ -1,9 +1,11 @@
 ---
-title: "Google Tax: Overview and Mechanism (Algo Trading)"
-description: "Explore the impact of Google Tax on digital taxation and its implications for algorithmic trading. Learn how these regulations affect global business practices."
+category: quant_concept
+description: Explore the impact of Google Tax on digital taxation and its implications
+  for algorithmic trading. Learn how these regulations affect global business practices.
+title: 'Google Tax: Overview and Mechanism (Algo Trading)'
 ---
 
- to Online Taxes and Digital Economy
+to Online Taxes and Digital Economy
 
 In today’s globalized digital economy, understanding online taxes has become crucial for businesses and individuals alike. The rapid expansion of internet-based commercial activities has necessitated a re-evaluation of traditional tax frameworks, which were designed for brick-and-mortar enterprises. One of the most significant developments in this field is the rise of digital taxation—a concept that seeks to address the challenges posed by the boundary-blurring nature of digital businesses.
 

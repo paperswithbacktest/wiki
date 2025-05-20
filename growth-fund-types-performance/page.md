@@ -1,6 +1,9 @@
 ---
-title: "Growth Fund: Types and Performance (Algo Trading)"
-description: "Explore the benefits of growth funds and algorithmic trading to boost investment performance. Understand various growth fund types and their integration with algo trading."
+category: trading_strategy
+description: Explore the benefits of growth funds and algorithmic trading to boost
+  investment performance. Understand various growth fund types and their integration
+  with algo trading.
+title: 'Growth Fund: Types and Performance (Algo Trading)'
 ---
 
 In finance, investors have myriad options for growing their wealth. Among these options, growth funds and algorithmic trading (algo trading) represent two pivotal strategies that have transformed the landscape of investments. Modern investors strive to achieve higher returns, and understanding these concepts is crucial for navigating today's financial markets effectively.

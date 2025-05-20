@@ -1,6 +1,8 @@
 ---
-title: "Factors Influencing Increases in Dividends Per Share (Algo Trading)"
-description: "Discover how dividends, shareholder value, corporate finance, and algorithmic trading interplay to influence investment strategies in dynamic markets."
+category: trading_strategy
+description: Discover how dividends, shareholder value, corporate finance, and algorithmic
+  trading interplay to influence investment strategies in dynamic markets.
+title: Factors Influencing Increases in Dividends Per Share (Algo Trading)
 ---
 
 In today's fast-paced financial markets, various elements have emerged as critical drivers in shaping investment strategies. Dividends, shareholder value, corporate finance, and algorithmic trading are among the most pivotal of these elements. Together, they form a complex web of interactions that influence the decision-making processes of both investors and corporations. 

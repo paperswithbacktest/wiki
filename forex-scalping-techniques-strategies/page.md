@@ -1,6 +1,14 @@
 ---
-title: "Forex Scalping Techniques and Strategies (Algo Trading)"
-description: "Discover effective forex scalping techniques and strategies for algorithmic trading. This page covers the essentials of executing rapid trades for small, frequent profits in the high-risk, fast-paced forex market. Learn about the necessary tools, the importance of market understanding, and integrating technology like MT4, MT5, and TradingView. Gain insights into strategy development using popular currency pairs, indicators, and risk management, as well as the benefits of automated trading systems. Enhance your forex scalping skills to maximize profitability and manage risks efficiently."
+category: trading_strategy
+description: Discover effective forex scalping techniques and strategies for algorithmic
+  trading. This page covers the essentials of executing rapid trades for small, frequent
+  profits in the high-risk, fast-paced forex market. Learn about the necessary tools,
+  the importance of market understanding, and integrating technology like MT4, MT5,
+  and TradingView. Gain insights into strategy development using popular currency
+  pairs, indicators, and risk management, as well as the benefits of automated trading
+  systems. Enhance your forex scalping skills to maximize profitability and manage
+  risks efficiently.
+title: Forex Scalping Techniques and Strategies (Algo Trading)
 ---
 
 Forex scalping is a widely adopted trading strategy that emphasizes executing multiple trades within extremely short time frames. This approach is highly favored by traders who aim for small yet frequent profits during the trading day. Scalping necessitates a distinct set of skills and characteristics owing to its rapid pace and elevated risk levels. 

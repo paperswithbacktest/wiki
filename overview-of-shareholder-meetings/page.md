@@ -1,6 +1,8 @@
 ---
-title: "Overview of Shareholder Meetings (Algo Trading)"
-description: "Explore the critical intersection of shareholder meetings, investor relations, corporate governance, and algorithmic trading in today’s evolving financial landscape."
+category: quant_concept
+description: Explore the critical intersection of shareholder meetings, investor relations,
+  corporate governance, and algorithmic trading in today’s evolving financial landscape.
+title: Overview of Shareholder Meetings (Algo Trading)
 ---
 
 The financial landscape has undergone profound changes, spurred by technological advancements and the evolution of corporate governance practices. Central to these transformations are investor relations, shareholder meetings, corporate governance frameworks, and algorithmic trading, each playing a critical role in shaping contemporary financial ecosystems.

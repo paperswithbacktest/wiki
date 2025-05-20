@@ -1,6 +1,13 @@
 ---
-title: "Big data analysis (Algo Trading)"
-description: Explore how big data and algorithmic trading intersect to transform modern financial markets. Discover the role of computer algorithms in automating and refining trading strategies through extensive datasets. Uncover insights into how high-frequency trading operates, leveraging vast amounts of structured and unstructured data to achieve speed, accuracy, and strategic decision-making in trading environments. Learn about the historical evolution of algo trading and its profound impact on market dynamics, risk management, and predictive analytics.
+category: quant_concept
+description: Explore how big data and algorithmic trading intersect to transform modern
+  financial markets. Discover the role of computer algorithms in automating and refining
+  trading strategies through extensive datasets. Uncover insights into how high-frequency
+  trading operates, leveraging vast amounts of structured and unstructured data to
+  achieve speed, accuracy, and strategic decision-making in trading environments.
+  Learn about the historical evolution of algo trading and its profound impact on
+  market dynamics, risk management, and predictive analytics.
+title: Big data analysis (Algo Trading)
 ---
 
 Algorithmic trading, often referred to as algo trading, involves using computer algorithms to automate trading strategies. These algorithms execute orders based on predefined criteria such as timing, price, or volume, and can operate at speeds and frequencies that a human trader cannot achieve. The evolution of algorithmic trading dates back to the 1970s and early 1980s, when the New York Stock Exchange first adopted electronic order systems. This period marked the beginning of computer-assisted trading. By the 2000s, with advancements in technology and telecommunications, fully electronic markets emerged, enabling high-frequency trading where algorithms could execute trades in fractions of a second.

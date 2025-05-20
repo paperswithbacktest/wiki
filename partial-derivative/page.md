@@ -1,7 +1,8 @@
 ---
-title: Understanding Partial Derivatives in Machine Learning Models
+category: quant_concept
 description: Partial derivatives in machine learning explain how adjusting one input
   impacts model performance through gradient descent. Discover more inside
+title: Understanding Partial Derivatives in Machine Learning Models
 ---
 
 ![Image](images/1.png)

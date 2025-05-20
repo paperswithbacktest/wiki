@@ -1,6 +1,8 @@
 ---
-title: "Bonus Issue of Shares (Algo Trading)"
-description: "Explore how bonus shares, stock issuance, and algorithmic trading impact corporate finance, enhancing shareholder value while maintaining company liquidity."
+category: quant_concept
+description: Explore how bonus shares, stock issuance, and algorithmic trading impact
+  corporate finance, enhancing shareholder value while maintaining company liquidity.
+title: Bonus Issue of Shares (Algo Trading)
 ---
 
 In corporate finance, issuing bonus shares is a strategic move that companies make to reward current shareholders while also potentially attracting new investors. Bonus shares, sometimes called scrip or capitalization issues, are distributed to shareholders at no additional cost. This approach serves as an alternative to cash dividends and helps boost the company's equity capital without affecting cash reserves. By increasing the number of shares without altering the payout amount, companies can maintain liquidity while enhancing shareholder value.

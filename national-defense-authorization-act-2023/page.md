@@ -1,6 +1,9 @@
 ---
-title: "National Defense Authorization Act of 2023 (Algo Trading)"
-description: "The National Defense Authorization Act of 2023 allocates $858 billion to U.S. defense, emphasizing military advancements, personnel pay, and algorithmic trading potential."
+category: quant_concept
+description: The National Defense Authorization Act of 2023 allocates $858 billion
+  to U.S. defense, emphasizing military advancements, personnel pay, and algorithmic
+  trading potential.
+title: National Defense Authorization Act of 2023 (Algo Trading)
 ---
 
 The National Defense Authorization Act (NDAA) for Fiscal Year 2023 is a vital legislative measure in shaping U.S. defense policy and military expenditure. With an authorized military budget of $858 billion, the NDAA underscores the United States' commitment to maintaining a formidable defense posture amid evolving global threats. This substantial budget allocation is integral to addressing the multifaceted challenges that the country faces in terms of national security and military readiness.

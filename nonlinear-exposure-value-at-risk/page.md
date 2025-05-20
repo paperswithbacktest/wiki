@@ -1,6 +1,9 @@
 ---
-title: "Nonlinear Exposure in Value at Risk (Algo Trading)"
-description: "Explore nonlinear exposure in algorithmic trading using Value at Risk for effective risk management Enhance strategies with advanced methods like Monte Carlo simulation"
+category: quant_concept
+description: Explore nonlinear exposure in algorithmic trading using Value at Risk
+  for effective risk management Enhance strategies with advanced methods like Monte
+  Carlo simulation
+title: Nonlinear Exposure in Value at Risk (Algo Trading)
 ---
 
 In the ever-evolving landscape of financial markets, managing risk is an essential component of maintaining robust trading strategies. As financial innovations flourish and markets become increasingly complex, the need for reliable risk assessment tools becomes paramount. Value at Risk (VaR) stands out as one of the most widely recognized statistical measures in risk management, crucial for predicting potential losses within a trading portfolio. It serves as a standard metric for quantifying the risk of loss in value due to adverse market movements over a specified time horizon, with a designated level of confidence.

@@ -1,6 +1,11 @@
 ---
-title: "Spinning Top Candlestick (Algo Trading)"
-description: "Discover the significance of spinning top candlestick patterns in technical analysis and algorithmic trading. Understand how these patterns, marked by small bodies and long shadows, indicate market indecision and potential trend reversals or continuations. Explore their role in optimizing trading strategies by providing insights into market dynamics and enhancing decision-making in algo trading systems."
+category: trading_strategy
+description: Discover the significance of spinning top candlestick patterns in technical
+  analysis and algorithmic trading. Understand how these patterns, marked by small
+  bodies and long shadows, indicate market indecision and potential trend reversals
+  or continuations. Explore their role in optimizing trading strategies by providing
+  insights into market dynamics and enhancing decision-making in algo trading systems.
+title: Spinning Top Candlestick (Algo Trading)
 ---
 
 Candlestick patterns are an essential tool in technical analysis, providing traders and analysts with actionable insights into the dynamics of financial markets. These patterns, formed by the open, high, low, and close prices on a candlestick chart, depict the behavior of market participants and can indicate potential future price movements. One such pattern is the spinning top candlestick, which characteristically signifies market indecision. Recognized by its small real body and long upper and lower shadows, the spinning top indicates that neither bullish nor bearish forces have managed to assert control during the period it represents.

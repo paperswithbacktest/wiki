@@ -1,6 +1,9 @@
 ---
-title: "Cash Flow From Operating Activities and Formulas (Algo Trading)"
-description: "Explore how cash flow from operating activities enhances algorithmic trading strategies by offering insights into a company's financial health and operational efficiency."
+category: quant_concept
+description: Explore how cash flow from operating activities enhances algorithmic
+  trading strategies by offering insights into a company's financial health and operational
+  efficiency.
+title: Cash Flow From Operating Activities and Formulas (Algo Trading)
 ---
 
 The intersection of financial analysis and algorithmic trading offers significant opportunities for traders and firms to enhance their strategies. At the core of this optimization is cash flow from operating activities, which features prominently in cash flow statements as a crucial indicator of a company's financial health. This aspect of cash flow is instrumental in providing insights into the company's ability to generate cash through its primary business functions, offering a direct reflection of its operational efficiency.

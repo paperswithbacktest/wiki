@@ -1,6 +1,10 @@
 ---
-title: "Hanging Man Candlestick Pattern Explained (Algo Trading)"
-description: Learn about the Hanging Man candlestick pattern in algorithmic trading and how it serves as a bearish reversal indicator. Discover its formation, significance, and application within trading algorithms to improve decision-making and strategy optimization.
+category: trading_strategy
+description: Learn about the Hanging Man candlestick pattern in algorithmic trading
+  and how it serves as a bearish reversal indicator. Discover its formation, significance,
+  and application within trading algorithms to improve decision-making and strategy
+  optimization.
+title: Hanging Man Candlestick Pattern Explained (Algo Trading)
 ---
 
 Algorithmic trading, often referred to as algo trading, represents a method of executing orders using automated and pre-programmed trading instructions. These instructions account for variables such as time, price, and volume, and they are essential for conducting large-volume trades that are often difficult to execute manually. Algo trading has surged in popularity due to its efficiency and the precision with which trades can be executed, minimizing human emotion and error.

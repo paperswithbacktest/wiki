@@ -1,6 +1,8 @@
 ---
-title: "Calculating the Debt-to-Equity Ratio in Excel (Algo Trading)"
-description: "Learn to calculate the debt-to-equity ratio in Excel and see how it can enhance algorithmic trading strategies by providing crucial financial insights."
+category: quant_concept
+description: Learn to calculate the debt-to-equity ratio in Excel and see how it can
+  enhance algorithmic trading strategies by providing crucial financial insights.
+title: Calculating the Debt-to-Equity Ratio in Excel (Algo Trading)
 ---
 
 Understanding financial ratios is essential for investors and analysts to make informed decisions. These ratios provide critical insight into a company's financial health, efficiency, and profitability, enabling stakeholders to assess investment opportunities and manage risks effectively. Among these ratios, the debt-to-equity (D/E) ratio is particularly significant, as it evaluates a company's financial leverage and risk by comparing its total liabilities to its shareholder equity. A well-calculated D/E ratio can help in determining the sustainability of a company's growth through debt.

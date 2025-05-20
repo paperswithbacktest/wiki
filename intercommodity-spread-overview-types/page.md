@@ -1,6 +1,9 @@
 ---
-title: "Intercommodity Spread: Overview and Types (Algo Trading)"
-description: "Discover the intricacies of intercommodity spread trading and its blend with algorithmic trading to leverage price differentials in competitive commodities markets."
+category: trading_strategy
+description: Discover the intricacies of intercommodity spread trading and its blend
+  with algorithmic trading to leverage price differentials in competitive commodities
+  markets.
+title: 'Intercommodity Spread: Overview and Types (Algo Trading)'
 ---
 
 Commodities trading is a fundamental component of the financial markets, involving the large-scale buying and selling of raw materials such as oil, gold, and wheat. These markets are crucial as they provide resources that are essential for various industries and economies worldwide. Within this domain, intercommodity spread trading has emerged as a sophisticated strategy. This strategy is designed to profit from the price differentials between related commodities, such as the spread between crude oil and heating oil or between corn and wheat.
@@ -127,4 +130,3 @@ Investopedia - Advanced Options Trading Concepts provides a detailed explanation
 Marcos Lopez de Prado's "Advances in Financial Machine Learning" is a comprehensive resource that covers the application of machine learning techniques in financial markets. This book is particularly useful for algorithmic traders looking to enhance their intercommodity spread strategies with advanced data analysis and pattern recognition techniques.
 
 Ernest P. Chan's "Quantitative Trading: How to Build Your Own Algorithmic Trading Business" offers insights into algorithm development and implementation. It is especially relevant for those interested in automating spread trading strategies, as it includes practical advice on setting up and maintaining algorithmic trading systems, with an emphasis on statistical and machine learning approaches.
-

@@ -1,6 +1,8 @@
 ---
-title: "option market liquidity (Algo Trading)"
-description: "Explore how algorithmic trading enhances options market liquidity by increasing transaction speed, tightening bid-ask spreads, and improving price stability."
+category: quant_concept
+description: Explore how algorithmic trading enhances options market liquidity by
+  increasing transaction speed, tightening bid-ask spreads, and improving price stability.
+title: option market liquidity (Algo Trading)
 ---
 
 Options market liquidity refers to the ease with which options contracts can be bought and sold in the marketplace without causing a significant movement in their prices. High liquidity is characterized by a large number of buy and sell orders, narrow bid-ask spreads, and significant trading volume, allowing market participants to transact quickly and at stable prices. This liquidity is crucial for efficient price discovery, minimizing transaction costs, and providing flexibility for traders to enter and exit positions.

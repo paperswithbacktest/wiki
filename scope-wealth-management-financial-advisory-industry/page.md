@@ -1,6 +1,8 @@
 ---
-title: "Scope of the Wealth Management and Financial Advisory Industry (Algo Trading)"
-description: "Explore the wealth management industry's current scale and future growth potential, focusing on how algorithmic trading is reshaping financial advisory practices."
+category: quant_concept
+description: Explore the wealth management industry's current scale and future growth
+  potential, focusing on how algorithmic trading is reshaping financial advisory practices.
+title: Scope of the Wealth Management and Financial Advisory Industry (Algo Trading)
 ---
 
 The wealth management and financial advisory industry is integral to the global economy, offering a wide array of financial services to both individuals and institutions. These services range from investment management to comprehensive financial planning, addressing complex financial needs and contributing to economic stability and growth. As the world of finance undergoes rapid transformation, it is becoming increasingly important for industry players to adopt technological innovations to remain competitive and relevant in the marketplace.

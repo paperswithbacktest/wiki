@@ -1,6 +1,8 @@
 ---
-title: "Hierarchical Deterministic Wallet in Cryptocurrency (Algo Trading)"
-description: "Discover how Hierarchical Deterministic wallets enhance cryptocurrency security and privacy by generating new keys from a master seed for safer asset management."
+category: quant_concept
+description: Discover how Hierarchical Deterministic wallets enhance cryptocurrency
+  security and privacy by generating new keys from a master seed for safer asset management.
+title: Hierarchical Deterministic Wallet in Cryptocurrency (Algo Trading)
 ---
 
 The digital world of cryptocurrency is evolving rapidly, driven by technological innovations that aim to enhance both security and efficiency. Among these innovations, Hierarchical Deterministic (HD) wallets stand out as a significant advancement in the secure management of digital assets. HD wallets revolutionize the way cryptocurrencies are stored and managed, providing users with a more streamlined and secure method to handle their assets.

@@ -1,6 +1,8 @@
 ---
-title: "Held-For-Trading Securities and Fair Value Adjustments (Algo Trading)"
-description: "Explore the synergy of held-for-trading securities, fair value adjustments, and algorithmic trading in shaping investment strategies and market efficiency."
+category: quant_concept
+description: Explore the synergy of held-for-trading securities, fair value adjustments,
+  and algorithmic trading in shaping investment strategies and market efficiency.
+title: Held-For-Trading Securities and Fair Value Adjustments (Algo Trading)
 ---
 
 The intersection of financial assets, fair value adjustments, held-for-trading securities, and algorithmic trading represents a pivotal convergence point in modern financial markets. Each element plays a crucial role in influencing investment decisions and shaping financial reporting. Financial assets, considered as investments purposed for income generation or profit, must be accurately valued to reflect their true market worth through fair value adjustments. This practice is essential for maintaining transparency in financial statements and ensuring that the reported earnings are a true reflection of a company's performance and asset management efficacy.

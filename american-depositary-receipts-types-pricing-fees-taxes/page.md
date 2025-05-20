@@ -1,6 +1,8 @@
 ---
-title: "American Depositary Receipts: Types, Pricing, Fees, and Taxes (Algo Trading)"
-description: "Explore American Depositary Receipts (ADRs) including their types, pricing, fees, and taxation. Learn how algo trading impacts ADR investments and market dynamics."
+category: quant_concept
+description: Explore American Depositary Receipts (ADRs) including their types, pricing,
+  fees, and taxation. Learn how algo trading impacts ADR investments and market dynamics.
+title: 'American Depositary Receipts: Types, Pricing, Fees, and Taxes (Algo Trading)'
 ---
 
 Financial instruments are essential tools used within the global economy to manage and facilitate the transfer of capital. They encompass a broad range of contracts and securities, including stocks, bonds, and derivatives, that represent a legal agreement involving monetary value. Their significance lies in their ability to allow investors to allocate resources efficiently, manage risks, and provide liquidity across international markets.

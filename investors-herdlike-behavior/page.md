@@ -1,6 +1,12 @@
 ---
-title: "Investors (herdlike behavior) (Algo Trading)"
-description: Explore how algorithmic trading, a cutting-edge financial tool using technology for high-speed trading, influences herdlike behavior among investors. Examine the advantages of enhanced market liquidity and efficient trade execution against the risks of synchronized trading actions leading to market volatility. Understand how these trends impact financial stability and necessitate regulatory frameworks for a transparent and resilient market environment.
+category: trading_strategy
+description: Explore how algorithmic trading, a cutting-edge financial tool using
+  technology for high-speed trading, influences herdlike behavior among investors.
+  Examine the advantages of enhanced market liquidity and efficient trade execution
+  against the risks of synchronized trading actions leading to market volatility.
+  Understand how these trends impact financial stability and necessitate regulatory
+  frameworks for a transparent and resilient market environment.
+title: Investors (herdlike behavior) (Algo Trading)
 ---
 
 Algorithmic trading represents a transformative development in financial markets, leveraging technology to facilitate high-speed and precise trading activities. This form of trading employs complex algorithms to execute trades across diverse financial instruments, aiming to optimize investment strategies and outcomes. As technology advances, investors are increasingly utilizing algorithmic strategies to make informed and efficient decisions, benefiting from the significant advantages these tools provide. Algorithmic trading enhances market liquidity, reduces transaction costs, and allows for rapid execution of trades, factors that contribute positively to market efficiency. 

@@ -1,6 +1,8 @@
 ---
-title: "Investment Accounts for Young Investors (Algo Trading)"
-description: "Empower your financial future with investment accounts and algorithmic trading for young investors Learn strategies to leverage technology for smart investing"
+category: quant_concept
+description: Empower your financial future with investment accounts and algorithmic
+  trading for young investors Learn strategies to leverage technology for smart investing
+title: Investment Accounts for Young Investors (Algo Trading)
 ---
 
 Understanding finance and investment is crucial for young individuals embarking on their financial journey. Early investment provides numerous advantages, primarily through the power of compound interest. Albert Einstein once described compound interest as the "eighth wonder of the world," and for a good reason. By investing early, young investors can capitalize on this effect, potentially amassing significant wealth over time with smaller principal amounts compared to those who start later in life.

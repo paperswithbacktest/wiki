@@ -1,6 +1,8 @@
 ---
-title: "Debt Funds: Risks, Investment Strategies, and Examples (Algo Trading)"
-description: "Explore how debt funds balance risks and returns through strategic financial risk management and algorithmic trading Learn about investment strategies and examples"
+category: trading_strategy
+description: Explore how debt funds balance risks and returns through strategic financial
+  risk management and algorithmic trading Learn about investment strategies and examples
+title: 'Debt Funds: Risks, Investment Strategies, and Examples (Algo Trading)'
 ---
 
 The financial landscape of today offers a multitude of investment options, each characterized by distinct attributes and varied risk profiles. Investors can allocate their capital across a diverse range of assets, which include equities, real estate, commodities, and fixed-income instruments to achieve their financial objectives. Among the components that play pivotal roles in modern investment practices are debt funds, financial risk management strategies, and algorithmic trading.

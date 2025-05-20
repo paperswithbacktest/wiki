@@ -1,6 +1,8 @@
 ---
-title: "Identifying Blow-Off Top Indicators in Technical Analysis (Algo Trading)"
-description: "Discover how to identify blow-off tops in trading through technical analysis and algorithmic trading, enhancing strategies for spotting rapid market shifts."
+category: trading_strategy
+description: Discover how to identify blow-off tops in trading through technical analysis
+  and algorithmic trading, enhancing strategies for spotting rapid market shifts.
+title: Identifying Blow-Off Top Indicators in Technical Analysis (Algo Trading)
 ---
 
 In the world of trading, understanding market patterns and indicators is crucial for making informed decisions. A key phenomenon to grasp is the 'blow-off top,' a chart pattern representing a rapid rise followed by a sharp decline in asset prices. Historically, blow-off tops are seen at the peaks of speculative rallies where asset prices become disconnected from their intrinsic values, often fueled by excessive enthusiasm and speculative buying.

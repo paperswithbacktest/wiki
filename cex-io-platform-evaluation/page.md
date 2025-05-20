@@ -1,6 +1,9 @@
 ---
-title: "CEX.IO Platform Evaluation (Algo Trading)"
-description: "Explore CEX.IO's robust cryptocurrency exchange platform with over 200 assets, algorithmic trading, and innovative features catering to diverse trading needs."
+category: dataset
+description: Explore CEX.IO's robust cryptocurrency exchange platform with over 200
+  assets, algorithmic trading, and innovative features catering to diverse trading
+  needs.
+title: CEX.IO Platform Evaluation (Algo Trading)
 ---
 
 Cryptocurrency exchanges have become crucial tools for traders and investors aiming to buy, sell, or hold digital currencies. With the vast number of platforms available, CEX.IO distinguishes itself as a regulated and reliable option. Established in 2013, CEX.IO has transitioned from its origins as a Bitcoin cloud mining provider into a robust digital currency exchange platform that supports over 200 cryptocurrencies. This transformation exemplifies the platform's adaptation to the rapidly evolving cryptocurrency landscape.

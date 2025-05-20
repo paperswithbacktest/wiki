@@ -1,6 +1,9 @@
 ---
-title: "Neoclassical Economics and Its Significance (Algo Trading)"
-description: "Explore the connection between neoclassical economics and algorithmic trading examining how traditional economic theories enhance trading strategy and market efficiency."
+category: quant_concept
+description: Explore the connection between neoclassical economics and algorithmic
+  trading examining how traditional economic theories enhance trading strategy and
+  market efficiency.
+title: Neoclassical Economics and Its Significance (Algo Trading)
 ---
 
 Neoclassical economics is a dominant school of thought that seeks to explain economic processes by focusing on how individuals maximize utility and firms maximize profit. This framework hinges on the concepts of supply and demand, as well as market equilibrium, with the assumption that all participants act rationally and have access to complete information. Neoclassical economics provides a robust foundation for understanding economic dynamics and has significantly influenced modern economic theory by formalizing the analysis of decision-making and resource allocation in competitive markets.

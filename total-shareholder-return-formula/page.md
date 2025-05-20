@@ -1,6 +1,9 @@
 ---
-title: "Total Shareholder Return Formula (Algo Trading)"
-description: "Discover how Total Shareholder Return (TSR) serves as a vital metric for evaluating investment performance, executive compensation, and algorithmic trading strategies."
+category: quant_concept
+description: Discover how Total Shareholder Return (TSR) serves as a vital metric
+  for evaluating investment performance, executive compensation, and algorithmic trading
+  strategies.
+title: Total Shareholder Return Formula (Algo Trading)
 ---
 
 Total Shareholder Return (TSR) is a critical financial metric utilized by investors to evaluate the performance of an investment, especially within equity markets. TSR offers a holistic perspective by focusing on two key components of shareholder returns: capital appreciation and dividend payouts. Capital appreciation refers to the increase in the stock price over a specific period, while dividends provide direct income to shareholders. By combining these elements, TSR allows investors to understand the total financial benefits of holding a stock.

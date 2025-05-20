@@ -1,6 +1,9 @@
 ---
-title: "Hong Kong Stock Exchange (Algo Trading)"
-description: "Explore the role of algorithmic trading at the Hong Kong Stock Exchange which connects global investors to China's markets through advanced tech and diverse offerings."
+category: dataset
+description: Explore the role of algorithmic trading at the Hong Kong Stock Exchange
+  which connects global investors to China's markets through advanced tech and diverse
+  offerings.
+title: Hong Kong Stock Exchange (Algo Trading)
 ---
 
 The Hong Kong Exchange, operated by Hong Kong Exchanges and Clearing Limited (HKEX), stands as a pivotal institution in the global financial market. As one of the largest and most dynamic exchanges worldwide, HKEX plays a crucial role in facilitating stock trading and financial operations. It serves as a vital bridge between mainland China and international investors, fostering a robust platform for capital flow and investment diversification.

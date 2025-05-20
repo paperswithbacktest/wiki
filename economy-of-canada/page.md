@@ -1,6 +1,8 @@
 ---
-title: "Economy of Canada (Algo Trading)"
-description: "Explore Canada's diverse economy in 2023 focusing on international trade, key sectors, and the rise of algorithmic trading driving growth and innovation."
+category: quant_concept
+description: Explore Canada's diverse economy in 2023 focusing on international trade,
+  key sectors, and the rise of algorithmic trading driving growth and innovation.
+title: Economy of Canada (Algo Trading)
 ---
 
 In 2023, Canada's economy remains a significant player on the global stage with its diverse and robust structure. As the tenth-largest economy in the world by nominal GDP, Canada continues to showcase resilience and adaptability in an ever-evolving economic landscape. Projections for 2024 suggest a stable growth trajectory, driven by strong policy frameworks and strategic international partnerships.

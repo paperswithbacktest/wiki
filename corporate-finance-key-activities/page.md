@@ -1,6 +1,9 @@
 ---
-title: "Corporate Finance: Key Activities (Algo Trading)"
-description: "Explore the significant role of algorithmic trading in corporate finance improving speed and efficiency in trade execution while minimizing human error and optimizing financial strategies."
+category: quant_concept
+description: Explore the significant role of algorithmic trading in corporate finance
+  improving speed and efficiency in trade execution while minimizing human error and
+  optimizing financial strategies.
+title: 'Corporate Finance: Key Activities (Algo Trading)'
 ---
 
 In recent years, financial markets have experienced significant evolution driven by technological innovations. Among these advancements, algorithmic trading has become a pivotal part of corporate finance. Algorithmic trading uses computer algorithms to execute trading activities based on pre-defined parameters, offering advantages like increased speed and efficiency. This method has gained popularity among traders due to its ability to perform complex transactions rapidly, which is critical in fast-moving financial environments.

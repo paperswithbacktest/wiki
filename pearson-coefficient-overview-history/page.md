@@ -1,6 +1,9 @@
 ---
-title: "Pearson Coefficient: Overview and Historical Context (Algo Trading)"
-description: "Explore the significance of the Pearson correlation coefficient in algorithmic trading, enhancing investment strategies by analyzing statistical relationships between assets."
+category: quant_concept
+description: Explore the significance of the Pearson correlation coefficient in algorithmic
+  trading, enhancing investment strategies by analyzing statistical relationships
+  between assets.
+title: 'Pearson Coefficient: Overview and Historical Context (Algo Trading)'
 ---
 
 Algorithmic trading has fundamentally transformed the landscape of modern investment strategies by enabling the execution of trades at speeds and frequencies far beyond human capability. This approach leverages complex algorithms and sophisticated mathematical models to evaluate trading strategies, identify trading opportunities, and manage investment portfolios across diverse financial markets. At the core of optimizing these strategies is the understanding of statistical correlations between financial instruments, which can provide insights into potential market movements and risk management. 

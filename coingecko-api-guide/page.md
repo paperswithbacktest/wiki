@@ -1,6 +1,11 @@
 ---
-title: "CoinGecko API Guide (Algo Trading)"
-description: Optimize your algorithmic trading strategies with the CoinGecko API guide that provides comprehensive insights into leveraging real-time cryptocurrency data. Discover how to integrate critical market analytics, historical trends, and community sentiment into your trading algorithms. Enhance your decision-making capabilities with accessible and reliable data to capitalize on market opportunities efficiently.
+category: dataset
+description: Optimize your algorithmic trading strategies with the CoinGecko API guide
+  that provides comprehensive insights into leveraging real-time cryptocurrency data.
+  Discover how to integrate critical market analytics, historical trends, and community
+  sentiment into your trading algorithms. Enhance your decision-making capabilities
+  with accessible and reliable data to capitalize on market opportunities efficiently.
+title: CoinGecko API Guide (Algo Trading)
 ---
 
 Algorithmic trading involves using computer programs to automate trading strategies, based on pre-defined criteria and real-time data. By leveraging algorithms, traders can make quicker decisions, execute trades at optimal prices, and manage larger portfolios more efficiently. This practice is prevalent across financial markets due to its ability to minimize human error and capitalize on fleeting trading opportunities. Algorithmic trading relies heavily on accurate and timely data, which underscores the importance of robust data sources in formulating effective trading strategies.

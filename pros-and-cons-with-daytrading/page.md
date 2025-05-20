@@ -1,6 +1,11 @@
 ---
-title: "Pros and Cons of Day Trading (Algo Trading)"
-description: Explore the advantages and disadvantages of day trading using algorithmic systems in this comprehensive guide. Understand how algo trading automates processes, improves speed, and enhances discipline, while also considering the technical complexity and technological dependence involved. This resource is essential for traders looking to optimize their strategies with advanced technology.
+category: trading_strategy
+description: Explore the advantages and disadvantages of day trading using algorithmic
+  systems in this comprehensive guide. Understand how algo trading automates processes,
+  improves speed, and enhances discipline, while also considering the technical complexity
+  and technological dependence involved. This resource is essential for traders looking
+  to optimize their strategies with advanced technology.
+title: Pros and Cons of Day Trading (Algo Trading)
 ---
 
 Algorithmic trading, commonly known as algo trading, has brought a transformative shift to financial markets by automating trading processes. This innovation has created new opportunities for day traders by enabling the execution of trades at speeds and efficiencies unmatched by human cognitive capabilities. As technological advancements continue to reshape the trading landscape, an increasing number of traders are contemplating the merits of employing algorithms in their day trading activities.

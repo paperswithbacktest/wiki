@@ -1,6 +1,8 @@
 ---
-title: "Analysis of Accounts Receivable (Algo Trading)"
-description: "Explore how the integration of algorithmic trading enhances accounts receivable management by optimizing financial analysis and improving cash flow efficiency."
+category: quant_concept
+description: Explore how the integration of algorithmic trading enhances accounts
+  receivable management by optimizing financial analysis and improving cash flow efficiency.
+title: Analysis of Accounts Receivable (Algo Trading)
 ---
 
 Accounts Receivable (AR) is a crucial element of a company's financial architecture, serving as a critical indicator of a firm's financial health. It comprises unpaid invoices that a company expects to collect from clients who've purchased goods or services on credit. The management of AR directly influences a company's liquidity levels and operational efficiency, as it encompasses crucial tasks such as timely issuance of invoices, diligent follow-up on outstanding debts, and the implementation of stringent credit controls to mitigate financial risk. 
@@ -167,4 +169,3 @@ Jansen, S. Machine Learning for Algorithmic Trading. This resource is fundamenta
 Chan, E.P. Quantitative Trading: How to Build Your Own Algorithmic Trading Business. In this book, Chan provides practical guidance on building algorithmic trading systems, which can be harnessed to integrate AR management practices, enabling businesses to streamline financial strategies and enhance operational efficiency.
 
 These references provide a comprehensive foundation for exploring the intersection of accounts receivable management, financial analysis, and algorithmic trading. They offer theoretical insights and practical guidance necessary for implementing cutting-edge solutions in contemporary financial management.
-

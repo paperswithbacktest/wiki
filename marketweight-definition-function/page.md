@@ -1,6 +1,8 @@
 ---
-title: "Marketweight: Definition and Function (Algo Trading)"
-description: "Explore the marketweight investment strategy and its role in algorithmic trading Learn how these concepts optimize portfolio performance and enhance decision-making"
+category: trading_strategy
+description: Explore the marketweight investment strategy and its role in algorithmic
+  trading Learn how these concepts optimize portfolio performance and enhance decision-making
+title: 'Marketweight: Definition and Function (Algo Trading)'
 ---
 
 Understanding investment strategies and financial analysis is crucial for both individual and institutional investors. In the rapidly evolving financial landscape, the ability to make informed decisions is paramount for achieving long-term financial goals. This article focuses on the marketweight investment strategy and the role of algorithmic trading in enhancing financial decision-making.

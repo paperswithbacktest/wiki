@@ -1,8 +1,11 @@
 ---
-title: "How do I start up an algorithmic trading company?"
-description: "Learn how to start an algorithmic trading business from scratch with this comprehensive 8-step guide. Covering feasibility study, business planning, legal framework, fundraising, infrastructure setup, algorithm development, launch, and ongoing evaluation."
+category: trading_strategy
+description: Learn how to start an algorithmic trading business from scratch with
+  this comprehensive 8-step guide. Covering feasibility study, business planning,
+  legal framework, fundraising, infrastructure setup, algorithm development, launch,
+  and ongoing evaluation.
+title: How do I start up an algorithmic trading company?
 ---
-
 
 ![1](images/1.png)
 

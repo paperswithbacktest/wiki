@@ -1,6 +1,8 @@
 ---
-title: "Paraguayan Guarani: Significance, History, and Economic Role (Algo Trading)"
-description: "Explore the historical evolution and economic influence of the Paraguayan Guarani. Discover its journey amidst challenges and the impact of algorithmic trading."
+category: quant_concept
+description: Explore the historical evolution and economic influence of the Paraguayan
+  Guarani. Discover its journey amidst challenges and the impact of algorithmic trading.
+title: 'Paraguayan Guarani: Significance, History, and Economic Role (Algo Trading)'
 ---
 
 The Guarani currency possesses a storied history integral to the economic fabric of Paraguay. This article sheds light on the evolution of the Guarani, examining its historical journey, associated challenges, and the transformative impact of algorithmic trading on its economic landscape. By examining these themes, we seek to understand Paraguay's economic progression and the pivotal role the Guarani has played within it.

@@ -1,6 +1,8 @@
 ---
-title: "Balance of Trade: Overview and Examples (Algo Trading)"
-description: "Explore trade dynamics with insights on trade surplus, deficit, and balance of trade in global markets. Learn how algorithmic trading impacts these elements."
+category: quant_concept
+description: Explore trade dynamics with insights on trade surplus, deficit, and balance
+  of trade in global markets. Learn how algorithmic trading impacts these elements.
+title: 'Balance of Trade: Overview and Examples (Algo Trading)'
 ---
 
 Understanding trade dynamics is fundamental to evaluating the economic health of nations operating in a globally interconnected market. Key terminology often surfaces in discussions of international trade—terms such as trade surplus, trade deficit, and balance of trade. These concepts are central to the analysis of how nations exchange goods, as they give insight into the flow of money and how economies adapt to global shifts.

@@ -1,6 +1,9 @@
 ---
-title: "Economic Indicators of Canada (Algo Trading)"
-description: "Explore Canada's economic indicators including GDP, employment, CPI, and more, and discover how algorithmic trading utilizes these metrics to optimize financial strategies."
+category: dataset
+description: Explore Canada's economic indicators including GDP, employment, CPI,
+  and more, and discover how algorithmic trading utilizes these metrics to optimize
+  financial strategies.
+title: Economic Indicators of Canada (Algo Trading)
 ---
 
 Canada is recognized as the eighth-largest economy globally, powered by a diverse mix of industries that contribute to its robust economic standing. Understanding the dynamics of Canada's economy requires an examination of various economic metrics and indicators that reflect its performance and health. This article aims to present an in-depth analysis of these key indicators to offer a comprehensive overview of the Canadian economy.

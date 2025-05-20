@@ -1,6 +1,11 @@
 ---
-title: "Questions to Ask a Financial Advisor (Algo Trading)"
-description: "Explore essential questions to ask a financial advisor about investment strategies, financial planning fundamentals, and the impact of algorithmic trading to make informed decisions. Learn how technology like robo-advisors is reshaping investment management and discover how to align your financial goals with targeted financial strategies."
+category: quant_concept
+description: Explore essential questions to ask a financial advisor about investment
+  strategies, financial planning fundamentals, and the impact of algorithmic trading
+  to make informed decisions. Learn how technology like robo-advisors is reshaping
+  investment management and discover how to align your financial goals with targeted
+  financial strategies.
+title: Questions to Ask a Financial Advisor (Algo Trading)
 ---
 
 In the ever-evolving landscape of finance, understanding the basics of investment, financial planning, and algorithmic trading is more critical than ever. As the financial markets become increasingly complex, both novice and seasoned investors must keep abreast of these core components to ensure robust financial health. Whether you're a beginner contemplating your investment journey or an experienced investor looking to refine your strategies, asking the right questions is key. Proper communication with a financial advisor can provide clarity and guidance, helping align your financial decisions with your goals and risk tolerance.

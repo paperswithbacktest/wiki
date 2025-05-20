@@ -1,6 +1,9 @@
 ---
-title: "Deferred Load: Overview and Functionality (Algo Trading)"
-description: "Explore the strategic advantages of utilizing deferred load functionality in algorithmic trading, allowing traders to maximize initial capital investment by deferring fees."
+category: quant_concept
+description: Explore the strategic advantages of utilizing deferred load functionality
+  in algorithmic trading, allowing traders to maximize initial capital investment
+  by deferring fees.
+title: 'Deferred Load: Overview and Functionality (Algo Trading)'
 ---
 
 In today's fast-paced trading environment, algorithmic trading has become an integral part of the financial markets. It harnesses computational power and sophisticated algorithms to automate trading strategies, allowing traders to execute orders at speeds and frequencies that are impossible for human traders. This automation not only increases efficiency but also reduces the risk of human error, thus optimizing trading performance.

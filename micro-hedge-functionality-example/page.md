@@ -1,6 +1,8 @@
 ---
-title: "Micro-Hedge: Functionality and Example (Algo Trading)"
-description: "Discover the intricacies of micro-hedging and its role in risk management in algo trading Learn to minimize risks and safeguard investment portfolios effectively"
+category: trading_strategy
+description: Discover the intricacies of micro-hedging and its role in risk management
+  in algo trading Learn to minimize risks and safeguard investment portfolios effectively
+title: 'Micro-Hedge: Functionality and Example (Algo Trading)'
 ---
 
 In the complex world of finance, managing risk is essential for ensuring the stability and performance of investment portfolios. One effective technique in financial risk management is micro-hedging, which aims to minimize the risk exposure of individual assets within a broader portfolio. This targeted approach addresses the risk associated with specific securities, providing a layer of protection against unforeseen market movements.

@@ -1,6 +1,8 @@
 ---
-title: "Commission Broker: Roles and Earnings (Algo Trading)"
-description: "Explore the evolving role of brokers in financial markets including how they earn through commissions and adapt to algorithmic trading innovations."
+category: quant_concept
+description: Explore the evolving role of brokers in financial markets including how
+  they earn through commissions and adapt to algorithmic trading innovations.
+title: 'Commission Broker: Roles and Earnings (Algo Trading)'
 ---
 
 The brokerage industry serves as a fundamental pillar of modern financial markets, acting as an intermediary that facilitates the buying and selling of securities, commodities, and other financial instruments. Brokers connect buyers and sellers, ensuring the smooth execution of transactions, which in turn maintains liquidity and stability in financial markets. Their significance is underscored by their ability to provide investors access to various markets, along with essential financial services such as advice and portfolio management.

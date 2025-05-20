@@ -1,6 +1,8 @@
 ---
-title: "Regulation AA: Overview and Prohibited Practices (Algo Trading)"
-description: "Explore Regulation AA's role in shaping fair practices against deceptive acts in banking and its enduring impact on algorithmic trading regulations."
+category: quant_concept
+description: Explore Regulation AA's role in shaping fair practices against deceptive
+  acts in banking and its enduring impact on algorithmic trading regulations.
+title: 'Regulation AA: Overview and Prohibited Practices (Algo Trading)'
 ---
 
 Consumer protection in the financial sector has long been a critical focus for regulators aiming to safeguard individuals against unfair or deceptive practices. Regulation AA, historically central to these efforts, set foundational guidelines to ensure ethical behavior within banking institutions. Established by the Federal Reserve in 1985, it provided a structure to address consumer grievances and mandate fair treatment. With the rise of digital technologies, particularly algorithmic trading in financial markets, the scope and nature of required protections have expanded. 

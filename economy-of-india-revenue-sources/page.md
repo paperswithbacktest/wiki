@@ -1,6 +1,8 @@
 ---
-title: "Economy of India: Revenue Sources (Algo Trading)"
-description: "Explore the dynamic landscape of India's economy and its diverse revenue sources, including the growing impact of algorithmic trading in the financial sector."
+category: quant_concept
+description: Explore the dynamic landscape of India's economy and its diverse revenue
+  sources, including the growing impact of algorithmic trading in the financial sector.
+title: 'Economy of India: Revenue Sources (Algo Trading)'
 ---
 
 India's economy has experienced substantial and rapid growth, solidifying its position as one of the most dynamic markets globally. Boasting a diverse economic landscape, India's growth is propelled by several key sectors, each contributing uniquely to the country's financial expansion. These sectors include agriculture, industry, and services, with the latter, particularly Information Technology (IT), playing a pivotal role in India's economic strides.

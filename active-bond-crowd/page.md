@@ -1,6 +1,8 @@
 ---
-title: "Active Bond Crowd (Algo Trading)"
-description: "Explore the evolving bond markets and the impact of algorithmic trading and AI on financial decisions Discover how bonds shape global financial ecosystems"
+category: quant_concept
+description: Explore the evolving bond markets and the impact of algorithmic trading
+  and AI on financial decisions Discover how bonds shape global financial ecosystems
+title: Active Bond Crowd (Algo Trading)
 ---
 
 The global financial markets continually evolve, driven by constant innovation and the dynamic behaviors of various investors. At the heart of these markets, bonds hold a pivotal position, often regarded as more secure investments compared to their equity counterparts. Bonds are fundamentally debt securities through which entities raise capital by committing to repay the principal amount with interest at a specified maturity date. Their perceived lower risk, alongside structured interest payments, renders bonds particularly attractive during periods of market volatility and economic upheaval.

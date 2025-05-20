@@ -1,6 +1,8 @@
 ---
-title: "External Economies vs. External Diseconomies (Algo Trading)"
-description: "Explore the impact of external economies and diseconomies in algo trading. Understand how these factors shape market dynamics and influence trading strategies."
+category: quant_concept
+description: Explore the impact of external economies and diseconomies in algo trading.
+  Understand how these factors shape market dynamics and influence trading strategies.
+title: External Economies vs. External Diseconomies (Algo Trading)
 ---
 
 In economics and trading, various concepts shape the way markets operate and businesses function. Critical among these are external economies and external diseconomies, which play pivotal roles in influencing market dynamics and business strategies. External economies refer to the benefits that firms experience due to factors outside their control, such as an expanding industry or improvements in infrastructure. These advantages can lead to increased efficiency and reduced costs. In contrast, external diseconomies involve negative impacts from external factors, such as regulatory constraints or environmental limits, which may increase operational costs or hinder a firm's performance.

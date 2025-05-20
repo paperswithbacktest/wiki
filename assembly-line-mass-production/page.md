@@ -1,6 +1,9 @@
 ---
-title: "Assembly Line in Mass Production (Algo Trading)"
-description: "Discover how the convergence of assembly line production and algorithmic trading is transforming manufacturing methodologies into a more efficient, data-driven process."
+category: quant_concept
+description: Discover how the convergence of assembly line production and algorithmic
+  trading is transforming manufacturing methodologies into a more efficient, data-driven
+  process.
+title: Assembly Line in Mass Production (Algo Trading)
 ---
 
 The intersection of manufacturing, mass production, assembly lines, and algorithmic trading signifies a notable progression in industrial methodologies. Traditionally, manufacturing and mass production have operated through mechanized processes and assembly lines, innovations dating back to the Industrial Revolution. This era witnessed a transformation from manual craftsmanship to machines designed for speed and uniformity. Assembly lines, notably advanced by Henry Ford, achieved unprecedented levels of efficiency, altering production systems fundamentally.
@@ -127,4 +130,3 @@ Proactively embracing these changes will enable manufacturers to shape the futur
 [4]: Martinelli, A., & Filippini, R. (2019). *The Organizational Impacts of Industry 4.0: Interrelationships and Effects on Operations*. This research examines how Industry 4.0 technologies affect organizational structures and operational interactions, offering insights into the complex dynamics introduced by digital transformation in manufacturing.
 
 [5]: Lee, E. A. (2008). *Cyber Physical Systems: Design Challenges*. IEEE Symposium. This paper discusses the challenges in designing Cyber-Physical Systems, focusing on the technical and conceptual hurdles that need to be addressed to facilitate their successful implementation in manufacturing and other sectors.
-

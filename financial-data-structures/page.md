@@ -1,6 +1,13 @@
 ---
-title: "Financial data structures (Algo Trading)"
-description: Discover the critical role financial data structures play in algorithmic trading as they enhance efficiency and precision in the fast-paced financial markets. This article investigates into the components and significance of these structures, highlighting their impact on data retrieval, processing speed, and the development of sophisticated trading strategies. Understand how arrays, hash tables, and more are essential for optimizing trading outcomes and maintaining a competitive edge in algo trading.
+category: dataset
+description: Discover the critical role financial data structures play in algorithmic
+  trading as they enhance efficiency and precision in the fast-paced financial markets.
+  This article investigates into the components and significance of these structures,
+  highlighting their impact on data retrieval, processing speed, and the development
+  of sophisticated trading strategies. Understand how arrays, hash tables, and more
+  are essential for optimizing trading outcomes and maintaining a competitive edge
+  in algo trading.
+title: Financial data structures (Algo Trading)
 ---
 
 Algorithmic trading, commonly known as algo trading, represents a sophisticated fusion of finance and technology that has transformed the landscape of financial markets. By employing automated systems, algo trading executes trades based on predefined criteria, significantly reducing the need for human intervention. This automation allows for the swift processing of high volumes of transactions, enhancing the efficiency and precision of financial operations.

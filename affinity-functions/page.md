@@ -1,7 +1,8 @@
 ---
-title: Affinity Functions in Machine Learning Models and Applications
+category: quant_concept
 description: Affinity functions measure similarity to improve clustering, feature
   reduction, and advanced attention in machine learning models Discover more inside.
+title: Affinity Functions in Machine Learning Models and Applications
 ---
 
 ![Image](images/1.jpeg)

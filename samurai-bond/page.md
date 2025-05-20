@@ -1,6 +1,9 @@
 ---
-title: "Samurai Bond (Algo Trading)"
-description: "Explore the impact of Samurai Bonds on global finance by understanding their role in Japan's capital market offering foreign investors currency diversification and regulatory assurance."
+category: quant_concept
+description: Explore the impact of Samurai Bonds on global finance by understanding
+  their role in Japan's capital market offering foreign investors currency diversification
+  and regulatory assurance.
+title: Samurai Bond (Algo Trading)
 ---
 
 Samurai Bonds are a pivotal instrument within the financial landscape, serving as a critical component of foreign investment in Japan. Introduced in the late 1970s, these are yen-denominated bonds issued in Japan by non-Japanese entities. Their significance is deeply rooted in providing foreign issuers with access to Japan's substantial pool of capital while offering Japanese investors diversification opportunities without currency exchange risks.

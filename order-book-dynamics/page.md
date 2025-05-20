@@ -1,6 +1,9 @@
 ---
-title: "order book dynamics (Algo Trading)"
-description: "Gain insights into the complexities of order book dynamics in algorithmic trading to optimize strategies for precise and efficient trade execution in volatile markets."
+category: quant_concept
+description: Gain insights into the complexities of order book dynamics in algorithmic
+  trading to optimize strategies for precise and efficient trade execution in volatile
+  markets.
+title: order book dynamics (Algo Trading)
 ---
 
 Algorithmic trading, often referred to as algo trading, involves the use of computer programs to execute buy and sell orders in financial markets according to predefined criteria. This approach harnesses the speed and computational power of modern technology to make trading decisions, often based on complex mathematical models and algorithms. One of the core elements in algorithmic trading is the order book, which serves as a detailed and real-time representation of supply and demand for a specific security. The order book lists all current buy and sell orders, displaying bid prices from buyers and ask prices from sellers, thereby providing critical insights into market behavior and sentiment.

@@ -1,6 +1,8 @@
 ---
-title: "optimal stopping in execution (Algo Trading)"
-description: "Discover how optimal stopping in algorithmic trading enhances performance by maximizing returns and minimizing costs through precise trade execution timing."
+category: quant_concept
+description: Discover how optimal stopping in algorithmic trading enhances performance
+  by maximizing returns and minimizing costs through precise trade execution timing.
+title: optimal stopping in execution (Algo Trading)
 ---
 
 Algorithmic trading, commonly referred to as algo trading, leverages automated software to efficiently manage trade executions by determining optimal entry and exit points in the financial markets. The effectiveness of these trades heavily depends on precise execution strategies that are adept at navigating market complexities. Central to this approach is the concept of optimal stopping, a critical element that aims to maximize returns while minimizing adverse market impacts such as slippage and market impact.

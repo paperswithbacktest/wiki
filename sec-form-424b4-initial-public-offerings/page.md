@@ -1,6 +1,9 @@
 ---
-title: "SEC Form 424B4 and Initial Public Offerings (Algo Trading)"
-description: "Explore the role of SEC Form 424B4 in Initial Public Offerings to understand how it ensures transparency and investor protection during a company’s transition to public trading."
+category: quant_concept
+description: Explore the role of SEC Form 424B4 in Initial Public Offerings to understand
+  how it ensures transparency and investor protection during a company’s transition
+  to public trading.
+title: SEC Form 424B4 and Initial Public Offerings (Algo Trading)
 ---
 
 An Initial Public Offering (IPO) marks a significant financial milestone for a private company transitioning to public ownership by offering its shares to the general public for the first time. This process is a pivotal mechanism for companies striving to raise substantial capital to fund expansion, reduce debt, enhance infrastructure, or pursue acquisition opportunities. By going public, companies can also enhance their visibility and prestige, often leading to an increased market valuation. IPOs provide a platform to access a large pool of investors, which can foster further development and innovation within the organization.

@@ -1,6 +1,9 @@
 ---
-title: "Margin Trading in the Forex Market (Algo Trading)"
-description: "Explore the intersection of Forex margin trading and algorithmic strategies Discover how leveraging borrowed funds and automated systems can maximize gains and manage risks"
+category: trading_strategy
+description: Explore the intersection of Forex margin trading and algorithmic strategies
+  Discover how leveraging borrowed funds and automated systems can maximize gains
+  and manage risks
+title: Margin Trading in the Forex Market (Algo Trading)
 ---
 
 Foreign exchange (Forex) trading involves the exchange of currencies in a decentralized global marketplace. As the largest and most liquid financial market in the world, the Forex market has an average daily trading volume exceeding $6 trillion, which underscores its critical role in the global economy. It operates continuously with the exception of weekends, facilitating currency transactions among banks, governments, businesses, and investors worldwide.

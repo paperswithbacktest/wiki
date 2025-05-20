@@ -1,6 +1,9 @@
 ---
-title: "Liquid Alternatives: Purposes, Risks, and Examples (Algo Trading)"
-description: "Explore the benefits and risks of liquid alternatives, incorporating algorithmic trading to diversify portfolios with mutual funds and ETFs in evolving markets."
+category: trading_strategy
+description: Explore the benefits and risks of liquid alternatives, incorporating
+  algorithmic trading to diversify portfolios with mutual funds and ETFs in evolving
+  markets.
+title: 'Liquid Alternatives: Purposes, Risks, and Examples (Algo Trading)'
 ---
 
 Financial markets are continually evolving, offering investors a range of options to diversify their portfolios beyond traditional stocks and bonds. Liquid alternatives have emerged as a notable category in this investment spectrum, providing mutual funds and exchange-traded funds (ETFs) that allow retail investors access to alternative strategies typically reserved for institutional investors, such as those employed by hedge funds. These strategies are characterized by their liquidity, allowing investors the flexibility of daily buying and selling opportunities, unlike traditional alternative investments that often require capital to be locked up for extended periods.

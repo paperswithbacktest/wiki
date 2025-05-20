@@ -1,6 +1,9 @@
 ---
-title: "Closet Indexing: Definition, Mechanisms, and Drawbacks (Algo Trading)"
-description: "Explore closet indexing a strategy where actively managed funds mimic index performance, its mechanisms, and drawbacks. Uncover insights for informed investing."
+category: quant_concept
+description: Explore closet indexing a strategy where actively managed funds mimic
+  index performance, its mechanisms, and drawbacks. Uncover insights for informed
+  investing.
+title: 'Closet Indexing: Definition, Mechanisms, and Drawbacks (Algo Trading)'
 ---
 
 In the complex world of investments, various strategies aim to maximize returns while managing risk. Understanding how these strategies operate is essential for investors seeking to make informed decisions. Three notable approaches that stand out due to their distinct methodologies are closet indexing, index funds, and algorithmic trading. Each of these investment strategies offers a unique pathway to achieving financial objectives, catering to different investor preferences and market conditions.

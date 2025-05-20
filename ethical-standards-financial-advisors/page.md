@@ -1,6 +1,9 @@
 ---
-title: "Ethical Standards for Financial Advisors (Algo Trading)"
-description: "Explore the crucial role of ethical standards for financial advisors in navigating the complexities of modern finance, especially within algorithmic trading."
+category: quant_concept
+description: Explore the crucial role of ethical standards for financial advisors
+  in navigating the complexities of modern finance, especially within algorithmic
+  trading.
+title: Ethical Standards for Financial Advisors (Algo Trading)
 ---
 
 Financial advisors play a pivotal role in guiding individuals, institutions, and organizations through the intricacies of modern financial systems. With an ever-changing array of financial products and services, advisors are tasked with providing expert advice that aligns with the unique goals and circumstances of their clients. Consequently, ethical standards in financial advising have become essential in building and maintaining trust, ensuring that advisors act with integrity and prioritize their clients' interests above their own. 

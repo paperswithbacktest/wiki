@@ -1,6 +1,8 @@
 ---
-title: "Loan Credit Default Swap: Overview and Mechanism (Algo Trading)"
-description: "Discover the dynamics of Loan Credit Default Swaps (LCDS) in algo trading their impact on credit risk management and how they enhance market efficiency."
+category: quant_concept
+description: Discover the dynamics of Loan Credit Default Swaps (LCDS) in algo trading
+  their impact on credit risk management and how they enhance market efficiency.
+title: 'Loan Credit Default Swap: Overview and Mechanism (Algo Trading)'
 ---
 
 The financial landscape has undergone significant transformations over recent decades, particularly due to the advent and evolution of derivative products and credit markets. Derivatives, which include instruments like futures, options, and swaps, are fundamentally financial contracts whose value is derived from an underlying asset or group of assets. They are crucial in financial markets for hedging risks, price discovery, and increasing liquidity.

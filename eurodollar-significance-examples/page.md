@@ -1,6 +1,14 @@
 ---
-title: "Eurodollar Significance and Examples (Algo Trading)"
-description: "Explore the significance of Eurodollars in global finance, highlighting their unique characteristics and role in algorithmic trading. Learn how these U.S. dollar deposits outside the U.S. circumvent Federal Reserve regulations, offering greater flexibility and impact on international financial strategies. Discover examples of Eurodollar utilization to enhance trading tactics, manage risks, and optimize cash management across borders. Delve into their influence on market dynamics, presenting both opportunities and challenges for investors and traders navigating the international capital landscape."
+category: quant_concept
+description: Explore the significance of Eurodollars in global finance, highlighting
+  their unique characteristics and role in algorithmic trading. Learn how these U.S.
+  dollar deposits outside the U.S. circumvent Federal Reserve regulations, offering
+  greater flexibility and impact on international financial strategies. Discover examples
+  of Eurodollar utilization to enhance trading tactics, manage risks, and optimize
+  cash management across borders. Delve into their influence on market dynamics, presenting
+  both opportunities and challenges for investors and traders navigating the international
+  capital landscape.
+title: Eurodollar Significance and Examples (Algo Trading)
 ---
 
 In global finance, certain financial instruments hold pivotal roles. Eurodollars are one such instrument, often discussed in currency trading and international finance. As U.S. dollars deposited outside the United States, Eurodollars circumvent the regulations imposed by the Federal Reserve Board, granting them unique flexibilities and characteristics. This distinction allows Eurodollars to serve as a vital component in global finance, impacting how traders and investors manage assets internationally.

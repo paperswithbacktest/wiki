@@ -1,6 +1,8 @@
 ---
-title: "Periodic Payment Plans (Algo Trading)"
-description: "Explore effective financial strategies in wealth management including periodic payment plans and algorithmic trading to mitigate risks and optimize returns."
+category: trading_strategy
+description: Explore effective financial strategies in wealth management including
+  periodic payment plans and algorithmic trading to mitigate risks and optimize returns.
+title: Periodic Payment Plans (Algo Trading)
 ---
 
 Financial planning and investment strategies are crucial components of wealth management, helping individuals and institutions navigate the complexities of the financial markets. Among the numerous strategies available, periodic investments, investment and payment plans, and algorithmic trading stand out for their effectiveness and popularity. 

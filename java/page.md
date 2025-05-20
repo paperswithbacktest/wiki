@@ -1,6 +1,13 @@
 ---
-title: "Java (Algo Trading)"
-description: Explore the dynamic world of algorithmic trading with Java, a top choice for developing trading systems due to its robustness, security, and extensive library support. Discover how the Alpaca API complements Java's capabilities to enhance trading strategies with commission-free options. Learn about algorithmic trading's data collection, model development, and order execution processes, and understand Java's pivotal role in creating scalable, high-performance trading algorithms in today's financial markets.
+category: quant_concept
+description: Explore the dynamic world of algorithmic trading with Java, a top choice
+  for developing trading systems due to its robustness, security, and extensive library
+  support. Discover how the Alpaca API complements Java's capabilities to enhance
+  trading strategies with commission-free options. Learn about algorithmic trading's
+  data collection, model development, and order execution processes, and understand
+  Java's pivotal role in creating scalable, high-performance trading algorithms in
+  today's financial markets.
+title: Java (Algo Trading)
 ---
 
 The rapidly changing landscape of finance has increasingly turned towards technology-driven solutions, notably algorithmic trading. This field involves the use of computer algorithms to automate trading processes, offering precision and speed that far surpass human capabilities. Algorithmic trading employs sophisticated mathematical models and computational techniques to decide the optimal timing and pricing for executing trades, making it a cornerstone of modern financial markets.

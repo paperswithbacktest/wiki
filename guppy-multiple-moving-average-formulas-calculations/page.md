@@ -1,6 +1,8 @@
 ---
-title: "Guppy Multiple Moving Average: Formulas and Calculations (Algo Trading)"
-description: "Explore the Guppy Multiple Moving Average to understand its role in enhancing trading strategies through trend identification and market momentum analysis."
+category: trading_strategy
+description: Explore the Guppy Multiple Moving Average to understand its role in enhancing
+  trading strategies through trend identification and market momentum analysis.
+title: 'Guppy Multiple Moving Average: Formulas and Calculations (Algo Trading)'
 ---
 
 Technical analysis is a method used by traders to evaluate securities and make trading decisions by analyzing statistical trends collected from trading activity, such as price movement and volume. Moving averages (MAs) are a fundamental component of technical analysis, used to smooth out price data by creating a constantly updated average price, which helps in identifying the direction of the trend over a certain period.

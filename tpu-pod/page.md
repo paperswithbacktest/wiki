@@ -1,7 +1,8 @@
 ---
-title: Optimizing Machine Learning Workflow with TPU Pod Technology
+category: quant_concept
 description: TPU Pod accelerates machine learning by linking TPUs into a high-speed
   cluster with setup and optimization best practices Discover more inside
+title: Optimizing Machine Learning Workflow with TPU Pod Technology
 ---
 
 ![Image](images/1.png)

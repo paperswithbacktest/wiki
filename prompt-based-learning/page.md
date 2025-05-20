@@ -1,10 +1,9 @@
 ---
-title: Prompt-Based Learning Drives Precision in Machine Learning
+category: quant_concept
 description: Prompt-Based Learning guides models with precise instructions and examples
   to deliver relevant responses across languages and coding Discover more inside.
+title: Prompt-Based Learning Drives Precision in Machine Learning
 ---
-
-
 
 ## Table of Contents
 

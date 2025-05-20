@@ -1,6 +1,8 @@
 ---
-title: "Buy Signals in Investing: Common Examples (Algo Trading)"
-description: "Learn how buy signals and algorithmic trading transform modern investing. Discover key indicators like moving averages and RSI to enhance trading strategies."
+category: trading_strategy
+description: Learn how buy signals and algorithmic trading transform modern investing.
+  Discover key indicators like moving averages and RSI to enhance trading strategies.
+title: 'Buy Signals in Investing: Common Examples (Algo Trading)'
 ---
 
 In today's fast-paced financial markets, identifying the optimal time to purchase or sell an asset presents a significant challenge to investors. The ever-changing nature of markets is driven by numerous factors, including macroeconomic trends, geopolitical events, and technological advancements. To navigate this complexity, investors rely on a suite of tools and indicators designed to assist in making well-informed decisions.

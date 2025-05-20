@@ -1,6 +1,9 @@
 ---
-title: "Analysis of Stash (Algo Trading)"
-description: "Discover how Stash combines user-friendly investing with educational resources in our analysis of its algorithmic trading features to enhance your investment strategy."
+category: trading_strategy
+description: Discover how Stash combines user-friendly investing with educational
+  resources in our analysis of its algorithmic trading features to enhance your investment
+  strategy.
+title: Analysis of Stash (Algo Trading)
 ---
 
 Stash has emerged as a popular investment app, particularly appealing to beginners due to its unique approach to investing. The app distinguishes itself by combining digital convenience with personalized educational content, making it accessible for individuals who may be new to the world of finance. Stash aims to simplify the process of investing by offering various options tailored to both self-directed investors and those who prefer automated portfolio management.

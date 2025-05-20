@@ -1,6 +1,8 @@
 ---
-title: "Nasdaq National Market Overview (Algo Trading)"
-description: "Explore the Nasdaq National Market and algorithmic trading's impact on modern finance. Learn how algo trading enhances speed efficiency and market dynamics."
+category: quant_concept
+description: Explore the Nasdaq National Market and algorithmic trading's impact on
+  modern finance. Learn how algo trading enhances speed efficiency and market dynamics.
+title: Nasdaq National Market Overview (Algo Trading)
 ---
 
 Financial markets have undergone substantial transformation, driven by technological advancements that have ushered in algorithmic trading. This form of trading leverages sophisticated computer algorithms to execute trades based on pre-defined strategies, timing, and conditions, often surpassing human-led trading in terms of speed and efficiency. The rise of algorithmic trading has been particularly notable on platforms like the Nasdaq National Market, which plays a pivotal role in the dynamics of electronic trading globally. 

@@ -1,6 +1,8 @@
 ---
-title: "Impact of Trade Deficit on the U.S. Dollar (Algo Trading)"
-description: "Explore the impact of the U.S. trade deficit on the dollar's value amid the complexities of algorithmic trading Learn how these factors shape global economics"
+category: quant_concept
+description: Explore the impact of the U.S. trade deficit on the dollar's value amid
+  the complexities of algorithmic trading Learn how these factors shape global economics
+title: Impact of Trade Deficit on the U.S. Dollar (Algo Trading)
 ---
 
 The U.S. dollar trade deficit represents a central issue in global economics, influencing currency valuation, economic growth, and financial stability. A trade deficit occurs when a nation, such as the United States, imports more goods and services than it exports. This imbalance results in an increased outflow of domestic currency to foreign markets, impacting the dollar's value on the global stage. Understanding this dynamic is essential, as it underscores the U.S.'s dependence on imports for consumer goods, technology, and resources. Persistent trade deficits have characterized the U.S. economic landscape since the mid-1970s, shaped by diverse economic factors.

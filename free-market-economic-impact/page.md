@@ -1,6 +1,8 @@
 ---
-title: "Free Market and Economic Impact (Algo Trading)"
-description: "Explore the economic impacts of integrating algorithmic trading into free markets examining benefits challenges and its role in modern financial systems."
+category: quant_concept
+description: Explore the economic impacts of integrating algorithmic trading into
+  free markets examining benefits challenges and its role in modern financial systems.
+title: Free Market and Economic Impact (Algo Trading)
 ---
 
 The global economy is undergoing rapid transformation, with the free market economy maintaining its pivotal role. Characterized by minimal governmental intervention, free markets rely on the dynamics of supply and demand to shape the production and distribution of goods and services. This self-regulating nature of free markets is integral to encouraging competition, innovation, and efficiency, all of which are key drivers of economic growth.

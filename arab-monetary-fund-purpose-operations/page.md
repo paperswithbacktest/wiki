@@ -1,6 +1,8 @@
 ---
-title: "Arab Monetary Fund: Purpose and Operations (Algo Trading)"
-description: "Discover how the Arab Monetary Fund fosters economic growth in the MENA region and its impact on the rise of algorithmic trading for enhanced market efficiency."
+category: quant_concept
+description: Discover how the Arab Monetary Fund fosters economic growth in the MENA
+  region and its impact on the rise of algorithmic trading for enhanced market efficiency.
+title: 'Arab Monetary Fund: Purpose and Operations (Algo Trading)'
 ---
 
 The Arab Monetary Fund (AMF) serves as an integral institution in the Middle East and North Africa (MENA) region, promoting economic stability and development across its member countries. Established in 1976, the AMF primarily aims to facilitate monetary cooperation, trade integration, and economic growth among its 22 member states, which include nations from both the Arab League and the Gulf Cooperation Council (GCC). By providing financial resources, technical expertise, and policy advice, the AMF works to stabilize exchange rates and promote balanced economic development, contributing to the overall financial stability of the region.

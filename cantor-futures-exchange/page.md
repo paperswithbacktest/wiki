@@ -1,6 +1,8 @@
 ---
-title: "Cantor Futures Exchange (Algo Trading)"
-description: "Discover unique futures trading at CX Futures Exchange where algorithmic trading meets niche derivatives like weather and forex for innovative market strategies."
+category: quant_concept
+description: Discover unique futures trading at CX Futures Exchange where algorithmic
+  trading meets niche derivatives like weather and forex for innovative market strategies.
+title: Cantor Futures Exchange (Algo Trading)
 ---
 
 The Cantor Exchange, also recognized as CX Futures Exchange, offers a dynamic and intricate platform where futures trading meets cutting-edge technology. CX Futures stands out in a crowded financial market landscape due to its unique focus on niche derivatives like weather and foreign exchange (forex) products, allowing traders to engage with assets not typically available on other American exchanges. This distinctiveness positions the exchange as a forward-thinking entity in the financial trading ecosystem.

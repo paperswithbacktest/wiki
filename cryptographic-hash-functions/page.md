@@ -1,6 +1,8 @@
 ---
-title: "Cryptographic Hash Functions (Algo Trading)"
-description: "Explore the pivotal role of cryptographic hash functions in algorithmic trading's security and data integrity while driving efficient and reliable transactions."
+category: quant_concept
+description: Explore the pivotal role of cryptographic hash functions in algorithmic
+  trading's security and data integrity while driving efficient and reliable transactions.
+title: Cryptographic Hash Functions (Algo Trading)
 ---
 
 In the fast-evolving world of digital finance and cybersecurity, understanding cryptographic hash functions is crucial. These mathematical algorithms transform input data into a fixed-length string, known as a hash, serving as a fingerprint for the data. This is essential in preserving data integrity and ensuring that information remains secure from unauthorized alterations, particularly significant in trading algorithms where accuracy and reliability are paramount.

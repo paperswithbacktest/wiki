@@ -1,6 +1,8 @@
 ---
-title: "Fibonacci Channel: Functionality and Limitations (Algo Trading)"
-description: "Explore the functionality and limitations of the Fibonacci Channel in algo trading Learn how this tool enhances strategies by automating trade actions"
+category: trading_strategy
+description: Explore the functionality and limitations of the Fibonacci Channel in
+  algo trading Learn how this tool enhances strategies by automating trade actions
+title: 'Fibonacci Channel: Functionality and Limitations (Algo Trading)'
 ---
 
 The world of stock trading is constantly evolving, and traders are continually seeking new methods and tools to gain an edge. One such tool that has gained popularity is the Fibonacci Channel, a technical analysis instrument used to estimate potential support and resistance levels in the price movements of stocks, commodities, and currencies. The Fibonacci Channel is valued for its ability to provide insights into future price directions by applying the mathematical properties of the Fibonacci sequence to financial markets.

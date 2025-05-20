@@ -1,6 +1,8 @@
 ---
-title: "Initial Offering Date: Explanation and Mechanism (Algo Trading)"
-description: "Explore the significance of the initial offering date in IPOs and discover how algorithmic trading impacts market dynamics through efficient trading strategies."
+category: quant_concept
+description: Explore the significance of the initial offering date in IPOs and discover
+  how algorithmic trading impacts market dynamics through efficient trading strategies.
+title: 'Initial Offering Date: Explanation and Mechanism (Algo Trading)'
 ---
 
 The initial offering date marks a significant milestone in a company's transition from private to public ownership. An initial public offering (IPO) enables companies to raise capital by offering shares to the public, allowing retail investors to become part of the growth narrative of these businesses. The proceeds from IPOs can be utilized to fund expansion, pay down debt, or invest in research and development, among other strategic objectives. This pivotal event not only enlarges a company’s capital base but also augments its visibility and credibility in the market.

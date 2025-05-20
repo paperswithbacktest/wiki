@@ -1,6 +1,8 @@
 ---
-title: "Common Phrases Used by Amateur Investors (Algo Trading)"
-description: "Discover common phrases crucial for amateur investors exploring algorithmic trading Learn key terms to navigate financial markets and improve investment decisions"
+category: quant_concept
+description: Discover common phrases crucial for amateur investors exploring algorithmic
+  trading Learn key terms to navigate financial markets and improve investment decisions
+title: Common Phrases Used by Amateur Investors (Algo Trading)
 ---
 
 The world of investments is dynamic and continuously evolving, greatly influenced by technological advancements. Understanding key investment phrases is essential for amateur investors to navigate the intricate financial markets effectively. As algorithmic trading, also known as 'algo trading,' becomes increasingly prevalent, it is crucial for new investors to comprehend both its impact and potential benefits.

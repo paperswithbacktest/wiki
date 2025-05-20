@@ -1,6 +1,8 @@
 ---
-title: "Commercial Real Estate Loans: Types, Terms, and Rates (Algo Trading)"
-description: "Explore the types and terms of commercial real estate loans including how algorithmic trading impacts investment strategies in the evolving CRE market."
+category: quant_concept
+description: Explore the types and terms of commercial real estate loans including
+  how algorithmic trading impacts investment strategies in the evolving CRE market.
+title: 'Commercial Real Estate Loans: Types, Terms, and Rates (Algo Trading)'
 ---
 
 The commercial real estate (CRE) loan landscape is a critical aspect of the real estate investment sector, providing crucial financial support for businesses seeking to acquire, develop, or refinance commercial properties. CRE loans serve as a vital engine driving economic growth by enabling business expansion and infrastructure development. These loans are typically used for financing office buildings, retail centers, hotels, and multifamily housing projects, distinguishing them from residential property loans that primarily cater to individual homebuyers.

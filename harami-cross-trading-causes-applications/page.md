@@ -1,6 +1,8 @@
 ---
-title: "Harami Cross in Trading: Causes and Applications (Algo Trading)"
-description: "Discover the importance of the Harami Cross pattern in algorithmic trading its mechanisms and how it aids in predicting market reversals effectively."
+category: trading_strategy
+description: Discover the importance of the Harami Cross pattern in algorithmic trading
+  its mechanisms and how it aids in predicting market reversals effectively.
+title: 'Harami Cross in Trading: Causes and Applications (Algo Trading)'
 ---
 
 Algorithmic trading has revolutionized the financial markets by allowing traders to execute trades with precision and speed using predefined criteria. Among the myriad technical patterns utilized in these automated strategies is the harami cross, a well-known candlestick pattern. Recognized for its potential to signal market reversals, the harami cross becomes a valuable tool within technical analysis, providing traders with insights into possible shifts in market momentum.

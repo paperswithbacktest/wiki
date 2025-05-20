@@ -1,6 +1,9 @@
 ---
-title: "Accumulation Period (Algo Trading)"
-description: "Explore the critical role of the accumulation period in financial management, combining traditional strategies and algorithmic trading for optimal investment outcomes."
+category: trading_strategy
+description: Explore the critical role of the accumulation period in financial management,
+  combining traditional strategies and algorithmic trading for optimal investment
+  outcomes.
+title: Accumulation Period (Algo Trading)
 ---
 
 In the evolving world of financial management, both traditional and modern methods play crucial roles in shaping the investment landscape. Traditional investment strategies, characterized by a systematic evaluation of asset classes and risk assessment, continue to provide a solid foundation for pursuing financial goals. These strategies often emphasize diversification, balancing between stocks, bonds, and other securities to manage risk while striving for returns.

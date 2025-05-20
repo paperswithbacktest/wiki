@@ -1,6 +1,8 @@
 ---
-title: "Great Recession: Causes and Impacts (Algo Trading)"
-description: "Explore the causes and impacts of the Great Recession, focusing on algorithmic trading's role in financial instability and market resilience."
+category: quant_concept
+description: Explore the causes and impacts of the Great Recession, focusing on algorithmic
+  trading's role in financial instability and market resilience.
+title: 'Great Recession: Causes and Impacts (Algo Trading)'
 ---
 
 Economic downturns and financial crises have long been subjects of significant interest and investigation. These events, which often manifest as recessions or depressions, can have far-reaching effects on global financial markets and economies. The Great Recession, which began in 2007, serves as a poignant example of how these downturns can lead to systemic financial distress and highlight vulnerabilities within economic structures.

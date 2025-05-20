@@ -1,6 +1,8 @@
 ---
-title: "Irrational Exuberance: Origin and Examples (Algo Trading)"
-description: "Explore irrational exuberance in finance, its impact on asset prices, and the role of algorithmic trading in navigating market bubbles and volatility."
+category: quant_concept
+description: Explore irrational exuberance in finance, its impact on asset prices,
+  and the role of algorithmic trading in navigating market bubbles and volatility.
+title: 'Irrational Exuberance: Origin and Examples (Algo Trading)'
 ---
 
 The concepts of irrational exuberance and economic bubbles are fundamental to understanding the dynamics of financial markets, acting as catalysts for significant market fluctuations. Irrational exuberance, a term popularized by the former Federal Reserve Chairman Alan Greenspan, describes the unsustainable enthusiasm of investors that drives asset prices beyond their intrinsic values. This often leads to economic bubbles, where the rapid escalation of market value is driven by speculative activity, eventually leading to a sharp contraction. Both phenomena play significant roles in shaping the financial landscape, influencing investment strategies, and posing challenges to market stability.

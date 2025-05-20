@@ -1,6 +1,9 @@
 ---
-title: "Understanding the Michigan Consumer Sentiment Index (Algo Trading)"
-description: "Discover the essential role of the Michigan Consumer Sentiment Index in economic analysis and algorithmic trading strategies, impacting market dynamics and investment decisions."
+category: dataset
+description: Discover the essential role of the Michigan Consumer Sentiment Index
+  in economic analysis and algorithmic trading strategies, impacting market dynamics
+  and investment decisions.
+title: Understanding the Michigan Consumer Sentiment Index (Algo Trading)
 ---
 
 Understanding economic indicators is crucial for assessing the overall health of an economy. One of the most important tools for gauging consumer confidence is the Michigan Consumer Sentiment Index (MCSI). Created by the University of Michigan, this index has become a vital barometer in economic analysis, serving as a predictive indicator of consumer behavior and economic trends. It provides insight into how individuals perceive current and future economic conditions, which in turn, influences their spending and saving decisions.

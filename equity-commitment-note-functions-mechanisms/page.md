@@ -1,6 +1,8 @@
 ---
-title: "Equity Commitment Note: Functions and Mechanisms (Algo Trading)"
-description: "Discover how equity commitment notes and algorithmic trading intersect to enhance capital allocation strategies and market efficiency in modern finance."
+category: quant_concept
+description: Discover how equity commitment notes and algorithmic trading intersect
+  to enhance capital allocation strategies and market efficiency in modern finance.
+title: 'Equity Commitment Note: Functions and Mechanisms (Algo Trading)'
 ---
 
 Financial instruments encompass a broad spectrum of assets and securities, ranging from stocks and bonds to complex derivatives and innovative products like equity commitment notes (ECNs). Equity commitment notes are a type of financial instrument designed to provide flexibility and potential advantages to both issuers and investors. They act as a commitment by an investor to purchase a specific amount of equity from the issuer at a predetermined price, usually facilitating capital raising efforts for companies while offering the investor an opportunity to gain equity exposure with strategic terms.

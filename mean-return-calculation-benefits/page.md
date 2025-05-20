@@ -1,6 +1,9 @@
 ---
-title: "Mean Return: Calculation and Benefits (Algo Trading)"
-description: "Explore the calculation and benefits of mean return in algorithmic trading to improve investment strategies by leveraging financial metrics and predictive insights."
+category: quant_concept
+description: Explore the calculation and benefits of mean return in algorithmic trading
+  to improve investment strategies by leveraging financial metrics and predictive
+  insights.
+title: 'Mean Return: Calculation and Benefits (Algo Trading)'
 ---
 
 In the rapidly evolving landscape of financial investments, understanding the synergy between financial metrics, investment analysis, mean return, and algorithmic trading is vital. The integration of these components has transformed how modern investors and traders approach the market, enabling more sophisticated and informed decision-making processes.

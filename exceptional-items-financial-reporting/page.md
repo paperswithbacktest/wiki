@@ -1,6 +1,9 @@
 ---
-title: "Exceptional Items in Financial Reporting (Algo Trading)"
-description: "Explore the role of exceptional items in financial reporting and their impact on algorithmic trading emphasizing transparency and accurate data for investors and models."
+category: quant_concept
+description: Explore the role of exceptional items in financial reporting and their
+  impact on algorithmic trading emphasizing transparency and accurate data for investors
+  and models.
+title: Exceptional Items in Financial Reporting (Algo Trading)
 ---
 
 In the modern financial landscape, the interconnectedness of accounting, financial reporting, and algorithmic trading is both profound and indispensable. These domains collectively form the backbone of financial analysis and investment decision-making, driving the accuracy and efficiency of market interactions. A prominent aspect of this intricate system is the treatment of exceptional and unusual items in financial reporting.

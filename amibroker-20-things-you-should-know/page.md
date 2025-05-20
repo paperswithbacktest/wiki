@@ -1,6 +1,11 @@
 ---
-title: "AmiBroker: 20 Things You Should Know (Algo Trading)"
-description: Discover the essential features of Amibroker for algorithmic trading and backtesting. Learn how this cost-effective, independent platform with sophisticated charting and backtesting capabilities can enhance your trading strategies. Ideal for both amateur and professional traders, this guide explores how Amibroker’s speed and efficiency can give you a competitive edge in the market.
+category: trading_strategy
+description: Discover the essential features of Amibroker for algorithmic trading
+  and backtesting. Learn how this cost-effective, independent platform with sophisticated
+  charting and backtesting capabilities can enhance your trading strategies. Ideal
+  for both amateur and professional traders, this guide explores how Amibroker’s speed
+  and efficiency can give you a competitive edge in the market.
+title: 'AmiBroker: 20 Things You Should Know (Algo Trading)'
 ---
 
 Amibroker is a comprehensive software platform extensively employed for algorithmic trading and backtesting by professional and retail traders alike. Algorithmic trading, which involves using computer algorithms to trade financial markets, requires tools that can efficiently process vast quantities of data, make decisions, and execute trades swiftly. Amibroker stands out in this field due to its impressive speed and affordability, attributes that have bolstered its popularity among trading enthusiasts and professionals. 

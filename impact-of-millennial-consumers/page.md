@@ -1,6 +1,8 @@
 ---
-title: "Impact of Millennial Consumers (Algo Trading)"
-description: "Explore the significant influence of millennial consumers on algorithmic trading, highlighting their unique digital consumption habits and investment preferences."
+category: quant_concept
+description: Explore the significant influence of millennial consumers on algorithmic
+  trading, highlighting their unique digital consumption habits and investment preferences.
+title: Impact of Millennial Consumers (Algo Trading)
 ---
 
 The millennial generation, born between 1981 and 1996, has emerged as a significant force in the global economy, distinguished by their distinctive consumer behaviors and spending patterns. These behaviors are shaped by a confluence of economic challenges, such as the Great Recession, student debt burdens, and housing market fluctuations, alongside the rapid advancement of digital technologies that permeate their daily lives. As digital natives, millennials have seamlessly integrated technology into all facets of their consumer behavior, from how they gather information to how they make purchasing decisions. Consequently, businesses aiming to tap into this vital market segment must develop a nuanced understanding of these behaviors and preferences.

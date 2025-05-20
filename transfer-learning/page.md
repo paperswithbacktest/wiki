@@ -1,7 +1,8 @@
 ---
-title: Understanding Transfer Learning for Machine Learning Efficiency
+category: quant_concept
 description: Transfer Learning speeds model training by reusing pre trained models
   to adapt to small datasets and improve efficiency Discover more inside
+title: Understanding Transfer Learning for Machine Learning Efficiency
 ---
 
 ![Image](images/1.png)

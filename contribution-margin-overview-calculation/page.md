@@ -1,6 +1,8 @@
 ---
-title: "Contribution Margin: Overview and Calculation (Algo Trading)"
-description: "Discover the importance of contribution margin in cost accounting and its role in algorithmic trading to enhance profitability analysis and strategy refinement."
+category: quant_concept
+description: Discover the importance of contribution margin in cost accounting and
+  its role in algorithmic trading to enhance profitability analysis and strategy refinement.
+title: 'Contribution Margin: Overview and Calculation (Algo Trading)'
 ---
 
 In today's fast-paced financial markets, understanding profitability through various accounting metrics is crucial for informed decision-making and strategic planning. Among these metrics, contribution margin stands out as a vital tool in cost accounting, providing insights into how revenues contribute to covering fixed costs and generating profits. In essence, the contribution margin illuminates the relationship between sales, variable costs, and profitability, making it indispensable for both traditional and modern financial strategies.

@@ -1,6 +1,8 @@
 ---
-title: "Comparison of Canopy Growth and Tilray (Algo Trading)"
-description: "Explore the competitive dynamics of Canopy Growth and Tilray in the cannabis sector, focusing on market strategies, regulatory challenges, and algorithmic trading."
+category: trading_strategy
+description: Explore the competitive dynamics of Canopy Growth and Tilray in the cannabis
+  sector, focusing on market strategies, regulatory challenges, and algorithmic trading.
+title: Comparison of Canopy Growth and Tilray (Algo Trading)
 ---
 
 The cannabis industry has undergone a remarkable transformation over recent years, significantly influenced by key players such as Tilray and Canopy Growth. These companies have been at the forefront of this evolution, capitalizing on new opportunities while navigating the multifaceted challenges inherent in this space. Tilray and Canopy Growth have made notable advancements in expanding their operational capacities, forging strategic partnerships, and enhancing product portfolios to secure a competitive edge in the burgeoning market.

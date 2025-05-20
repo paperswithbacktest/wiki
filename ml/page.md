@@ -1,7 +1,8 @@
 ---
-title: Understanding Machine Learning Fundamentals and Key Techniques
+category: quant_concept
 description: Machine Learning enables computers to learn from data to solve complex
   tasks accurately and efficiently with real-world applications Discover more inside.
+title: Understanding Machine Learning Fundamentals and Key Techniques
 ---
 
 ![Image](images/1.png)

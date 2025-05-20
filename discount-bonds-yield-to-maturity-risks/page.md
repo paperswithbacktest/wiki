@@ -1,6 +1,8 @@
 ---
-title: "Discount Bonds, Yield to Maturity, and Associated Risks (Algo Trading)"
-description: "Explore the complexities of discount bonds and yield to maturity to navigate risks and opportunities with algorithmic trading in today's financial markets."
+category: quant_concept
+description: Explore the complexities of discount bonds and yield to maturity to navigate
+  risks and opportunities with algorithmic trading in today's financial markets.
+title: Discount Bonds, Yield to Maturity, and Associated Risks (Algo Trading)
 ---
 
 The financial world is a complex system with a diverse array of investment vehicles, each carrying a unique set of risks and potential rewards. Bonds play a pivotal role in any well-rounded investment portfolio. Within this category, discount bonds offer particular opportunities and challenges. Discount bonds are issued at a price lower than their face value, creating an allure for investors focused on future capital appreciation. This type of bond reflects not only market perceptions but also factors like interest rates, inflation, and credit risk, resulting in a challenging valuation process that demands careful analysis.

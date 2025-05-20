@@ -1,6 +1,8 @@
 ---
-title: "Acceptance of Short Sales in Initial Public Offerings (Algo Trading)"
-description: "Explore the complexities of short sales in IPOs and the role of algorithmic trading Learn how these elements impact market liquidity and investor strategies"
+category: quant_concept
+description: Explore the complexities of short sales in IPOs and the role of algorithmic
+  trading Learn how these elements impact market liquidity and investor strategies
+title: Acceptance of Short Sales in Initial Public Offerings (Algo Trading)
 ---
 
 Financial markets serve as the backbone of global economic systems, providing platforms where financial instruments such as stocks, bonds, currencies, and derivatives are exchanged. They are essential for the efficient functioning of economies, enabling the allocation of resources, distribution of income, and facilitation of trade and investment. The mechanisms within these markets are diverse, evolving to include sophisticated instruments and strategies designed to manage risk, enhance returns, and leverage market dynamics.

@@ -1,6 +1,8 @@
 ---
-title: "Intermarket Analysis: Function and Mechanism (Algo Trading)"
-description: "Explore the role of intermarket analysis in algo trading to boost investment returns. Learn how analyzing correlations across markets enhances decision-making."
+category: trading_strategy
+description: Explore the role of intermarket analysis in algo trading to boost investment
+  returns. Learn how analyzing correlations across markets enhances decision-making.
+title: 'Intermarket Analysis: Function and Mechanism (Algo Trading)'
 ---
 
 In the modern age of technology-driven finance, market participants have access to a myriad of tools and strategies that enhance their trading performance. One such powerful approach is intermarket analysis, which involves studying the interconnectedness of different financial markets. By analyzing the relationships and correlations among various market sectors—such as equities, commodities, currencies, and bonds—investors can gain a holistic view of market dynamics. Understanding these relationships enables investors to make better-informed decisions, particularly when such insights are combined with algorithmic trading strategies.

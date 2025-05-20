@@ -1,7 +1,8 @@
 ---
-title: Understanding Confabulation in Machine Learning Models
+category: quant_concept
 description: Confabulation in Machine Learning models can produce plausible yet incorrect
   details. Explore methods to detect and reduce errors. Discover more inside.
+title: Understanding Confabulation in Machine Learning Models
 ---
 
 ![Image](images/1.gif)

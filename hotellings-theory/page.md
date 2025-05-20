@@ -1,6 +1,9 @@
 ---
-title: "Hotelling's Theory (Algo Trading)"
-description: "Explore Hotelling's Theory and its impact on algorithmic trading Discover how this economic principle helps traders predict price movements of nonrenewable resources"
+category: quant_concept
+description: Explore Hotelling's Theory and its impact on algorithmic trading Discover
+  how this economic principle helps traders predict price movements of nonrenewable
+  resources
+title: Hotelling's Theory (Algo Trading)
 ---
 
 Hotelling's Theory is a foundational concept in economics that addresses the extraction and pricing of nonrenewable resources such as oil, minerals, and other finite commodities. Proposed by economist Harold Hotelling in 1931, this theory fundamentally explores how the scarcity and exhaustibility of these resources influence their market pricing over time. According to Hotelling's Rule, the net price of a nonrenewable resource (defined as the market price minus extraction costs) should rise at a rate equal to the interest rate. This principle reflects the opportunity cost associated with leaving a resource unextracted in the ground versus extracting and investing its proceeds at the prevailing interest rate.

@@ -1,6 +1,8 @@
 ---
-title: "Private Mortgage Insurance Costs and Avoidance Strategies (Algo Trading)"
-description: "Explore strategies to avoid costly Private Mortgage Insurance (PMI) and enhance your home financing options with this comprehensive guide."
+category: quant_concept
+description: Explore strategies to avoid costly Private Mortgage Insurance (PMI) and
+  enhance your home financing options with this comprehensive guide.
+title: Private Mortgage Insurance Costs and Avoidance Strategies (Algo Trading)
 ---
 
 Navigating the complexities of home financing is a significant challenge for prospective homeowners, particularly when considering additional costs such as Private Mortgage Insurance (PMI). PMI is a type of insurance that lenders often require from borrowers who are unable to make a down payment of at least 20% on a conventional loan. Although PMI protects the lender against potential default, it represents a significant extra cost for homebuyers, potentially impacting their financial wellbeing.
@@ -105,4 +107,3 @@ Credit scores significantly influence PMI rates. Lenders use credit scores to as
 [5]: ["Homebuyers Beware: Strategies & Solutions for Debunking the U.S. Real Estate Myth"](https://www.zillow.com/learn/home-buying-myths/) by Carolyn Warren
 
 [6]: ["The Oxford Handbook of Quantitative Asset Management"](https://academic.oup.com/edited-volume/41255) edited by Bernd Scherer
-

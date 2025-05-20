@@ -1,6 +1,9 @@
 ---
-title: "Evaluation of Cryptocurrency Trading Volumes (Algo Trading)"
-description: "Explore the challenges of market manipulation and faked trading volumes in cryptocurrency. Learn how algorithmic trading impacts market integrity and investor trust."
+category: trading_strategy
+description: Explore the challenges of market manipulation and faked trading volumes
+  in cryptocurrency. Learn how algorithmic trading impacts market integrity and investor
+  trust.
+title: Evaluation of Cryptocurrency Trading Volumes (Algo Trading)
 ---
 
 Since the introduction of Bitcoin in 2009, the cryptocurrency market has experienced remarkable growth, capturing the attention of investors and financial institutions worldwide. This rapid expansion, while offering substantial investment opportunities, has also brought to light significant concerns regarding market integrity. Among such concerns, market manipulation and faked trading volumes have emerged as critical issues. Market manipulation, commonly seen in traditional securities markets, involves artificially altering the price or volume of a security to present a deceptive image to investors. In the context of cryptocurrencies, this practice can severely undermine trust and safety within the market.

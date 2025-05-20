@@ -1,6 +1,14 @@
 ---
-title: "Decimalization of stock prices (Algo Trading)"
-description: Decimalization marks the transition from fractional to decimal stock pricing, enhancing market precision and efficiency. Implemented in the U.S. in 2001, it led to narrower bid-ask spreads, lower transaction costs, and increased liquidity. This shift empowered algorithmic trading, allowing for the exploitation of smaller price changes and fostering high-frequency trading's growth. As markets modernized, the impact on trading strategies and investor accessibility has been profound, aligning U.S. financial practices with global standards and setting the stage for advanced algorithms to thrive.
+category: quant_concept
+description: Decimalization marks the transition from fractional to decimal stock
+  pricing, enhancing market precision and efficiency. Implemented in the U.S. in 2001,
+  it led to narrower bid-ask spreads, lower transaction costs, and increased liquidity.
+  This shift empowered algorithmic trading, allowing for the exploitation of smaller
+  price changes and fostering high-frequency trading's growth. As markets modernized,
+  the impact on trading strategies and investor accessibility has been profound, aligning
+  U.S. financial practices with global standards and setting the stage for advanced
+  algorithms to thrive.
+title: Decimalization of stock prices (Algo Trading)
 ---
 
 Decimalization refers to the shift from using fractional pricing, such as 1/8 or 1/16 of a dollar, to decimal pricing, commonly priced to the nearest cent, in the stock market. This significant transformation was fully implemented in the United States in 2001. By switching to decimal pricing, securities could be priced more precisely, reflecting their true market value and allowing for smaller price changes. The change simplified trading operations, enabling more straightforward calculations required during stock transactions.

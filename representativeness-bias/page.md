@@ -1,6 +1,13 @@
 ---
-title: "Representativeness bias (Algo Trading)"
-description: Explore representativeness bias in algorithmic trading and its effects on trading decisions. Learn how this cognitive bias leads to oversimplified choices by focusing on perceived similarities rather than comprehensive analysis. Understand how traders and developers can mitigate these impacts to create more effective trading systems. Discover the role of the representativeness heuristic, its influence on trading strategies, and the importance of integrating robust statistical approaches for better financial outcomes.
+category: quant_concept
+description: Explore representativeness bias in algorithmic trading and its effects
+  on trading decisions. Learn how this cognitive bias leads to oversimplified choices
+  by focusing on perceived similarities rather than comprehensive analysis. Understand
+  how traders and developers can mitigate these impacts to create more effective trading
+  systems. Discover the role of the representativeness heuristic, its influence on
+  trading strategies, and the importance of integrating robust statistical approaches
+  for better financial outcomes.
+title: Representativeness bias (Algo Trading)
 ---
 
 Algorithmic trading has fundamentally transformed financial markets by leveraging sophisticated algorithms to make trading decisions at high velocities. These advanced systems significantly enhance trading efficiency and consistency, yet they are not exempt from the influences of human cognitive biases that can inadvertently affect their decision-making processes. One such cognitive bias is the representativeness bias, a mental shortcut whereby individuals judge the probability of an event based on its similarity to an existing prototype without considering other pertinent information.

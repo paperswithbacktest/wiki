@@ -1,6 +1,9 @@
 ---
-title: "Price Persistence: Concept, Mechanism, and Example (Algo Trading)"
-description: "Explore the concepts and mechanisms of price persistence in algorithmic trading Understand how asset prices maintain their trajectory and its impact on market strategies"
+category: quant_concept
+description: Explore the concepts and mechanisms of price persistence in algorithmic
+  trading Understand how asset prices maintain their trajectory and its impact on
+  market strategies
+title: 'Price Persistence: Concept, Mechanism, and Example (Algo Trading)'
 ---
 
 The financial markets have undergone significant transformation over the past few decades, driven by technological advancements, globalization, and regulatory changes. The landscape has shifted from traditional floors of bustling human traders to virtual platforms where algorithms play a central role in executing trades. This evolution has introduced new dynamics and complexities, emphasizing the need to understand concepts such as market trends, price persistence, and algorithmic trading.

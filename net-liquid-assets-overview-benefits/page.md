@@ -1,6 +1,8 @@
 ---
-title: "Net Liquid Assets: Overview and Benefits (Algo Trading)"
-description: "Explore the benefits of net liquid assets and algorithmic trading Discover how liquidity and strategic financial management can enhance trading efficiency"
+category: quant_concept
+description: Explore the benefits of net liquid assets and algorithmic trading Discover
+  how liquidity and strategic financial management can enhance trading efficiency
+title: 'Net Liquid Assets: Overview and Benefits (Algo Trading)'
 ---
 
 This article explores the intersection of financial asset liquidity, net liquid assets, and algorithmic trading. Understanding these financial concepts is crucial for both investors and businesses when managing resources and optimizing trading strategies. Liquidity refers to the ease with which assets can be converted into cash without affecting their market price, playing a significant role in everyday trading activities and broader financial stability. Similarly, net liquid assets, which measure a company’s capacity to meet short-term obligations without external financing, signify financial health and strategic flexibility.

@@ -1,6 +1,13 @@
 ---
-title: "Python Data Types and Variables Tutorial (Algo Trading)"
-description: Discover how Python's variables and data types lay the foundation for algorithmic trading success. This guide unpacks the simplicity and adaptability of Python's dynamic nature, crucial for developing automated trading strategies. Learn to leverage integers, floats, strings, and booleans in crafting responsive algorithms, enabling efficient trade execution and data management. Embrace Python's flexibility to swiftly adjust to market dynamics, optimizing trading performance through smart data handling and decision-making.
+category: quant_concept
+description: Discover how Python's variables and data types lay the foundation for
+  algorithmic trading success. This guide unpacks the simplicity and adaptability
+  of Python's dynamic nature, crucial for developing automated trading strategies.
+  Learn to leverage integers, floats, strings, and booleans in crafting responsive
+  algorithms, enabling efficient trade execution and data management. Embrace Python's
+  flexibility to swiftly adjust to market dynamics, optimizing trading performance
+  through smart data handling and decision-making.
+title: Python Data Types and Variables Tutorial (Algo Trading)
 ---
 
 In algorithmic trading, Python's popularity is on an upward trajectory, primarily due to its simplicity and versatility. Known for its readable syntax and extensive library support, Python offers an attractive platform for traders looking to automate their trading strategies. Key among the foundational elements that make Python indispensable in this domain are variables and data types.

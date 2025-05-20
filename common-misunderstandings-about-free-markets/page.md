@@ -1,6 +1,8 @@
 ---
-title: "Common Misunderstandings About Free Markets (Algo Trading)"
-description: "Discover the truth about free markets and algorithmic trading by dispelling common misconceptions and myths for better policy and investment decisions."
+category: quant_concept
+description: Discover the truth about free markets and algorithmic trading by dispelling
+  common misconceptions and myths for better policy and investment decisions.
+title: Common Misunderstandings About Free Markets (Algo Trading)
 ---
 
 The concepts of free markets and algorithmic trading have gained substantial attention in recent years. However, these topics are often clouded with numerous misconceptions and myths. Free markets are typically understood as systems where prices are determined through the interactions of supply and demand without undue interference. Meanwhile, algorithmic trading employs pre-programmed algorithms to execute trades at high speeds, aiming to optimize investment outcomes.

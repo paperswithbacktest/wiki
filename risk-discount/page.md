@@ -1,6 +1,9 @@
 ---
-title: "Risk Discount (Algo Trading)"
-description: "Explore the vital role of risk discounts in algorithmic trading. Learn how these tools are indispensable for managing financial risk and optimizing asset valuation."
+category: quant_concept
+description: Explore the vital role of risk discounts in algorithmic trading. Learn
+  how these tools are indispensable for managing financial risk and optimizing asset
+  valuation.
+title: Risk Discount (Algo Trading)
 ---
 
 Financial risk management plays a vital role in trading and investment by enabling market participants to identify, assess, and mitigate potential losses. In today's volatile financial markets, understanding and managing risk is crucial to achieving consistent returns and safeguarding capital. Integral to this is the concept of risk discount, which reflects the decreased value investors might be willing to pay for an asset due to perceived risks. Unlike risk premiums, where investors require additional returns to compensate for risk exposure, risk discounts are subtracted to adjust valuation based on risk factors. Risk discount is essential in algorithmic trading, where strategies are systematically executed using pre-set rules and models, enabling traders to incorporate real-time risk assessments into their trading decisions.
@@ -220,4 +223,3 @@ As trading landscapes continue to evolve, fueled by advancements in technology a
    - **SciPy and Statsmodels**: Useful libraries for performing advanced statistical analysis and risk modeling.
 
 These recommended readings and resources are intended to guide further exploration into the topics of financial risk management, valuation techniques, and algorithmic trading, providing a mix of theoretical foundations and practical applications.
-

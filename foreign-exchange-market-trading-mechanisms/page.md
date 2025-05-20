@@ -1,6 +1,15 @@
 ---
-title: "Foreign Exchange Market Trading Mechanisms (Algo Trading)"
-description: "Explore the immense landscape of the global Forex market, the largest financial marketplace in the world, where national currencies are traded round the clock. Delve into the decentralized nature of this market and the evolving role of algorithmic trading in enhancing trade efficiency by utilizing sophisticated computer algorithms. Discover key concepts essential for successful Forex trading, including currency pairs and leverage and understand the significant impact of central bank policies on currency values. Whether you're new to Forex or looking to refine your strategies, this comprehensive guide provides insights into mastering the dynamic Forex environment."
+category: quant_concept
+description: Explore the immense landscape of the global Forex market, the largest
+  financial marketplace in the world, where national currencies are traded round the
+  clock. Delve into the decentralized nature of this market and the evolving role
+  of algorithmic trading in enhancing trade efficiency by utilizing sophisticated
+  computer algorithms. Discover key concepts essential for successful Forex trading,
+  including currency pairs and leverage and understand the significant impact of central
+  bank policies on currency values. Whether you're new to Forex or looking to refine
+  your strategies, this comprehensive guide provides insights into mastering the dynamic
+  Forex environment.
+title: Foreign Exchange Market Trading Mechanisms (Algo Trading)
 ---
 
 The global foreign exchange (Forex or FX) market is the world's largest and most liquid financial marketplace, facilitating the trading of national currencies. It operates continuously, 24 hours a day, five days a week, allowing participants from various corners of the world to engage in currency exchanges. According to the Bank for International Settlements (BIS) Triennial Survey of 2019, the average daily turnover in the forex market surpassed $6 trillion, reflecting its vast size and significance in the global financial landscape.

@@ -1,6 +1,12 @@
 ---
-title: "Dividend Growth Rate and Calculation (Algo Trading)"
-description: "Explore essential investment strategies like dividend growth, investment calculations, and algorithmic trading to enhance your financial market engagement. Learn how to leverage dividend growth models for long-term profitability, execute precise investment calculations for informed decision-making, and utilize algorithmic trading to optimize efficiency. Whether you're new to investing or experienced, these tools empower you to build a diversified portfolio and achieve financial success."
+category: quant_concept
+description: Explore essential investment strategies like dividend growth, investment
+  calculations, and algorithmic trading to enhance your financial market engagement.
+  Learn how to leverage dividend growth models for long-term profitability, execute
+  precise investment calculations for informed decision-making, and utilize algorithmic
+  trading to optimize efficiency. Whether you're new to investing or experienced,
+  these tools empower you to build a diversified portfolio and achieve financial success.
+title: Dividend Growth Rate and Calculation (Algo Trading)
 ---
 
 Investing in the financial markets can be a daunting task for beginners and seasoned investors alike. This article aims to simplify three key investment strategies: dividend growth, investment calculations, and algorithmic trading. These strategies form essential components of a robust investment approach by enabling investors to make informed decisions, optimize returns, and manage risks effectively.

@@ -1,6 +1,8 @@
 ---
-title: "Difference Between Divergence and Convergence (Algo Trading)"
-description: "Discover the key differences between convergence and divergence in algorithmic trading Learn how these concepts enhance market predictions and trading strategies"
+category: quant_concept
+description: Discover the key differences between convergence and divergence in algorithmic
+  trading Learn how these concepts enhance market predictions and trading strategies
+title: Difference Between Divergence and Convergence (Algo Trading)
 ---
 
 In the ever-evolving world of trading, understanding key concepts such as convergence, divergence, and algorithmic trading is essential for traders seeking to optimize their strategies. Convergence and divergence are fundamental analytical tools that help traders predict market behavior and guide informed decision-making. Convergence typically describes a situation where an asset's price moves towards alignment with an indicator or another related asset, while divergence indicates a disconnect between these values which may signal a change in the market's direction.
@@ -198,4 +200,3 @@ The continuous study and application of convergence and divergence strategies ca
 [5]: Chan, E. (2008). ["Quantitative Trading: How to Build Your Own Algorithmic Trading Business"](https://github.com/ftvision/quant_trading_echan_book). Wiley.
 
 [6]: Wilmott, P. (2006). ["Paul Wilmott Introduces Quantitative Finance"](https://www.amazon.com/Paul-Wilmott-Introduces-Quantitative-Finance/dp/0470319585). John Wiley & Sons.
-

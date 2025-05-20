@@ -1,6 +1,8 @@
 ---
-title: "Oversold Bounce: Meaning and Mechanism with Examples (Algo Trading)"
-description: "Explore the concept of oversold bounces in the stock market and learn how algorithmic trading can help identify and capitalize on these profitable opportunities."
+category: trading_strategy
+description: Explore the concept of oversold bounces in the stock market and learn
+  how algorithmic trading can help identify and capitalize on these profitable opportunities.
+title: 'Oversold Bounce: Meaning and Mechanism with Examples (Algo Trading)'
 ---
 
 Understanding the dynamics of the stock market is essential for every investor, especially during market downturns when unique opportunities emerge. One such opportunity is capitalizing on oversold conditions, which can lead to beneficial rebounds commonly referred to as oversold bounces. These scenarios occur when the market has excessively devalued a security, often due to panic selling or herd behavior, presenting potential for a price correction.

@@ -1,6 +1,13 @@
 ---
-title: "Market Analysis (Algo Trading)"
-description: "Explore the intricate world of economic markets and the impact of algorithmic trading on their evolution. Gain insights into market study and analysis processes, which are vital for strategic trading. Understand how algo trading enhances market efficiency, liquidity, and pricing accuracy. Learn how traders use cutting-edge algorithms and Python's coding prowess to navigate financial markets, optimize strategies, manage risks, and capitalize on new opportunities. This comprehensive overview aids traders in thriving within the fast-paced environment of modern markets."
+category: quant_concept
+description: Explore the intricate world of economic markets and the impact of algorithmic
+  trading on their evolution. Gain insights into market study and analysis processes,
+  which are vital for strategic trading. Understand how algo trading enhances market
+  efficiency, liquidity, and pricing accuracy. Learn how traders use cutting-edge
+  algorithms and Python's coding prowess to navigate financial markets, optimize strategies,
+  manage risks, and capitalize on new opportunities. This comprehensive overview aids
+  traders in thriving within the fast-paced environment of modern markets.
+title: Market Analysis (Algo Trading)
 ---
 
 Economic markets are intricate systems wherein various types of assets, ranging from equities and bonds to commodities and currencies, are consistently bought and sold. These markets function as fundamental components of global and local economies, providing mechanisms for price discovery, capital allocation, and risk management. Effective participation in these markets requires a deep understanding of their structure and the factors influencing their dynamics. This understanding largely depends on thorough market study and meticulous market analysis. Market study involves the systematic gathering of data concerning market conditions, emerging trends, and potential opportunities. In contrast, market analysis refers to making sense of this data to inform trading decisions and develop strategic insights.

@@ -1,6 +1,8 @@
 ---
-title: "Investment Options With $500: Beyond Penny Stocks (Algo Trading)"
-description: "Explore strategic investment options with just $500 beyond penny stocks Discover algorithmic trading plus blue-chip stocks ETFs and more for better returns"
+category: trading_strategy
+description: Explore strategic investment options with just $500 beyond penny stocks
+  Discover algorithmic trading plus blue-chip stocks ETFs and more for better returns
+title: 'Investment Options With $500: Beyond Penny Stocks (Algo Trading)'
 ---
 
 Investing can be an intimidating venture, particularly for those with limited funds. For many beginners, the world of investing is synonymous with high risks and complex strategies, which may seem daunting without substantial capital. Penny stocks often attract beginners due to their low price, providing an entry point into the market. These stocks, typically trading below $5 per share, offer the allure of high returns; however, they hold significant risk factors, such as high volatility and potential liquidity issues.

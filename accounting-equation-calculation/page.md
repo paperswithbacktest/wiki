@@ -1,6 +1,8 @@
 ---
-title: "Accounting Equation and Calculation (Algo Trading)"
-description: "Explore the accounting equation's role in algorithmic trading for accurate analysis and decision-making enhancing financial strategies with core principles."
+category: quant_concept
+description: Explore the accounting equation's role in algorithmic trading for accurate
+  analysis and decision-making enhancing financial strategies with core principles.
+title: Accounting Equation and Calculation (Algo Trading)
 ---
 
 In the rapidly evolving world of financial markets, understanding core concepts, such as the accounting equation, is crucial for accurate analysis and decision-making. The accounting equation, expressed as $\text{Assets} = \text{Liabilities} + \text{Equity}$, is a fundamental principle in financial accounting and serves as the basis for double-entry bookkeeping systems. This equation ensures that financial statements remain balanced and accurately reflect a company's financial position.

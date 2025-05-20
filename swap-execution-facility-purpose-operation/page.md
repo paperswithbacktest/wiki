@@ -1,6 +1,8 @@
 ---
-title: "Swap Execution Facility: Purpose and Operation (Algo Trading)"
-description: "Swap Execution Facilities (SEFs) create a regulated and transparent environment for trading derivatives, enhancing market efficiency and reducing systemic risk."
+category: quant_concept
+description: Swap Execution Facilities (SEFs) create a regulated and transparent environment
+  for trading derivatives, enhancing market efficiency and reducing systemic risk.
+title: 'Swap Execution Facility: Purpose and Operation (Algo Trading)'
 ---
 
 The financial markets have experienced substantial transformation in recent years, particularly regarding derivative trading. A significant component of this transformation is Swap Execution Facilities (SEFs), which have emerged as vital trading platforms tailored for swaps. SEFs were established to create a transparent and efficient environment for trading derivatives, allowing market participants to execute trades with increased oversight and regulation. These platforms are designed to facilitate swap transactions that were traditionally conducted in less regulated over-the-counter (OTC) markets.

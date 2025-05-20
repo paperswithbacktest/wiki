@@ -1,6 +1,8 @@
 ---
-title: "Interest Rate Gap and Its Measurement (Algo Trading)"
-description: "Explore the importance of interest rate gap measurement in algo trading to assess interest rate risk and optimize trading strategies for improved profitability."
+category: quant_concept
+description: Explore the importance of interest rate gap measurement in algo trading
+  to assess interest rate risk and optimize trading strategies for improved profitability.
+title: Interest Rate Gap and Its Measurement (Algo Trading)
 ---
 
 Interest rate gap is a pivotal financial concept that refers to the difference between the interest rates a financial institution receives from its loans and investments, and the interest rates it pays on its liabilities. This gap is a fundamental measure in assessing a firm's exposure to interest rate risk. Understanding it aids institutions in evaluating their financial health and managing potential risks. In essence, the interest rate gap can significantly impact a firm's profitability, as variations in interest rates influence both income generated from assets and expenses incurred from liabilities.

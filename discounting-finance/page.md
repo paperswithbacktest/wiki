@@ -1,6 +1,9 @@
 ---
-title: "Discounting in Finance (Algo Trading)"
-description: "Explore the crucial role of discounting in finance and its impact on algorithmic trading Discover how discount rates influence trading strategies and profitability"
+category: quant_concept
+description: Explore the crucial role of discounting in finance and its impact on
+  algorithmic trading Discover how discount rates influence trading strategies and
+  profitability
+title: Discounting in Finance (Algo Trading)
 ---
 
 The financial market is a complex ecosystem where various instruments and techniques are employed to maximize profit. Among these techniques, discounting stands out as a fundamental method for determining the present value of future cash flows. The concept of discounting is crucial in understanding the 'time value of money,' which asserts that a dollar today holds more value than a dollar received in the future. This principle can be mathematically represented using the formula for present value (PV):

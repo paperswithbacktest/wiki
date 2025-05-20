@@ -1,6 +1,8 @@
 ---
-title: "Annualization: Formulas and Examples (Algo Trading)"
-description: "Discover essential formulas and examples for utilizing annualization in algorithmic trading to compare investments and optimize trading strategies."
+category: quant_concept
+description: Discover essential formulas and examples for utilizing annualization
+  in algorithmic trading to compare investments and optimize trading strategies.
+title: 'Annualization: Formulas and Examples (Algo Trading)'
 ---
 
 In the fast-paced world of financial markets, understanding key financial formulas and metrics is crucial for success, especially regarding algorithmic trading. Annualization is a mathematical process that transforms shorter-term performance metrics into annual figures, allowing for a standardized basis to compare investment performance, assess loan costs, and analyze various financial data.

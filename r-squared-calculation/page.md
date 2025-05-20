@@ -1,6 +1,14 @@
 ---
-title: "R-Squared and Calculation (Algo Trading)"
-description: "Discover the essential role of R-squared in algorithmic trading with our comprehensive guide. Understand how this statistical measure quantifies the proportion of variance explained by independent variables in a regression model, crucial for assessing model reliability and predicting market trends. Learn the calculation, implications, and limitations of R-squared, along with comparisons to adjusted R-squared and beta, to improve your trading strategies and risk management. Enhance your financial modeling skills by exploring its application in Python and ensure greater accuracy in evaluating financial metrics and asset prices."
+category: quant_concept
+description: Discover the essential role of R-squared in algorithmic trading with
+  our comprehensive guide. Understand how this statistical measure quantifies the
+  proportion of variance explained by independent variables in a regression model,
+  crucial for assessing model reliability and predicting market trends. Learn the
+  calculation, implications, and limitations of R-squared, along with comparisons
+  to adjusted R-squared and beta, to improve your trading strategies and risk management.
+  Enhance your financial modeling skills by exploring its application in Python and
+  ensure greater accuracy in evaluating financial metrics and asset prices.
+title: R-Squared and Calculation (Algo Trading)
 ---
 
 Algorithmic trading stands at the forefront of modern finance, leveraging advanced technology to execute trades based on pre-set criteria with speed and precision. This technology depends heavily on statistical calculations to analyze and predict market behaviors, a cornerstone of which is the R-squared measure. Understanding R-squared is crucial as it quantifies the proportion of variance in a dependent variable that can be explained by one or more independent variables within a regression model.

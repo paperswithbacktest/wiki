@@ -1,6 +1,8 @@
 ---
-title: "Wall Street: Influence on Investing and Notoriety (Algo Trading)"
-description: "Explore Wall Street's pivotal role in algorithmic trading enhancing investment strategies through speed precision and technology in global financial markets."
+category: quant_concept
+description: Explore Wall Street's pivotal role in algorithmic trading enhancing investment
+  strategies through speed precision and technology in global financial markets.
+title: 'Wall Street: Influence on Investing and Notoriety (Algo Trading)'
 ---
 
 The world of financial markets is intricate and ever-evolving, with Wall Street at its epicenter. A focal point of innovation in this domain is algorithmic trading, a process that leverages advanced computing and analytics to transform investment strategies. This technological advancement has significantly altered the landscape of investing, providing investors with tools to make more timely and data-driven decisions.

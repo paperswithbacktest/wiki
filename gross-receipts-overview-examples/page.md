@@ -1,6 +1,9 @@
 ---
-title: "Gross Receipts: An Overview With Examples (Algo Trading)"
-description: "Discover the comprehensive role of gross receipts in business income and financial accounting their impact on tax and algorithmic trading strategies for optimal growth."
+category: quant_concept
+description: Discover the comprehensive role of gross receipts in business income
+  and financial accounting their impact on tax and algorithmic trading strategies
+  for optimal growth.
+title: 'Gross Receipts: An Overview With Examples (Algo Trading)'
 ---
 
 In the modern business landscape, financial decision-making is increasingly intertwined with technology and complex accounting principles. This intersection demands a thorough understanding of gross receipts and their impact on business income, coupled with a grasp of financial accounting and algorithmic trading. Gross receipts, a critical component of financial analysis, encompass the total income received by a business before any deductions or expenses. These receipts form the foundation for evaluating a company's revenue-generating capacity, impacting financial statements and tax calculations significantly.

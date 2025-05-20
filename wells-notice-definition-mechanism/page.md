@@ -1,6 +1,8 @@
 ---
-title: "Wells Notice: Definition and Mechanism (Algo Trading)"
-description: "Explore the Wells Notice mechanism in algorithmic trading. Understand SEC oversight, compliance strategies, and response tactics to safeguard operations."
+category: quant_concept
+description: Explore the Wells Notice mechanism in algorithmic trading. Understand
+  SEC oversight, compliance strategies, and response tactics to safeguard operations.
+title: 'Wells Notice: Definition and Mechanism (Algo Trading)'
 ---
 
 Algorithmic trading stands at the intersection of advanced technology and financial markets, presenting both opportunities and challenges. As traders increasingly rely on algorithms to execute complex trading strategies at high speeds, the regulatory framework governing these activities becomes critical. The U.S. Securities and Exchange Commission (SEC) plays a pivotal role in this context, tasked with enforcing federal securities laws to protect investors and ensure market integrity.

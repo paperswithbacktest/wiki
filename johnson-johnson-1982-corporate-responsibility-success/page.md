@@ -1,6 +1,8 @@
 ---
-title: "Johnson & Johnson's 1982 Corporate Responsibility Success (Algo Trading)"
-description: "Explore Johnson & Johnson's exemplary crisis management during the 1982 Tylenol scare and the role of algorithmic trading in modern risk management."
+category: trading_strategy
+description: Explore Johnson & Johnson's exemplary crisis management during the 1982
+  Tylenol scare and the role of algorithmic trading in modern risk management.
+title: Johnson & Johnson's 1982 Corporate Responsibility Success (Algo Trading)
 ---
 
 The 1982 Tylenol crisis highlights a significant episode of corporate responsibility in crisis management. At the core of this incident was Johnson & Johnson, a leading corporation, facing an unprecedented challenge. The tragedy unfolded when Tylenol, a widely-used pain relief medication, became the target of a poisoning scheme that resulted in the deaths of seven individuals in Chicago. This situation posed a critical test for Johnson & Johnson's ethical commitment and crisis management strategies.

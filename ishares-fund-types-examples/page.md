@@ -1,6 +1,8 @@
 ---
-title: "IShares: Fund Types and Examples (Algo Trading)"
-description: "Explore iShares funds and algorithmic trading strategies to optimize investments and diversify your portfolio with cost-effective ETFs managed by BlackRock."
+category: quant_concept
+description: Explore iShares funds and algorithmic trading strategies to optimize
+  investments and diversify your portfolio with cost-effective ETFs managed by BlackRock.
+title: 'IShares: Fund Types and Examples (Algo Trading)'
 ---
 
 The financial world is vast and diverse, offering countless opportunities and tools for investors. From traditional equities and bonds to innovative financial products, the range of investments available today is broader than ever before. Understanding different investment vehicles and strategies is crucial for anyone looking to grow their wealth. This understanding allows investors to make informed decisions about how to allocate their resources effectively to meet their financial goals.

@@ -1,6 +1,8 @@
 ---
-title: "Backwardation: Causes and Examples (Algo Trading)"
-description: "Explore the dynamics of backwardation in commodity markets and the role of algorithmic trading in futures, revealing unique trading opportunities."
+category: quant_concept
+description: Explore the dynamics of backwardation in commodity markets and the role
+  of algorithmic trading in futures, revealing unique trading opportunities.
+title: 'Backwardation: Causes and Examples (Algo Trading)'
 ---
 
 Commodity markets represent a crucial segment of the global economy, providing platforms for the exchange of a wide array of goods, including oil, gold, and agricultural products. These markets are integral to price discovery and offer participants opportunities to manage price risks through futures trading. Futures contracts are agreements to buy or sell a specific commodity at a predetermined price at a future date, thus enabling traders to hedge against price volatility or speculate on future price movements without owning the physical commodity.

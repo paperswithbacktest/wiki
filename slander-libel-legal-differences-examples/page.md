@@ -1,6 +1,12 @@
 ---
-title: "Slander and Libel: Legal Differences and Examples (Algo Trading)"
-description: "Discover the crucial legal differences between slander and libel, focusing on their relevance in finance and algorithmic trading. This informative article explores how defamation laws apply to personal reputation and financial markets, highlighting the importance of avoiding misinformation in modern digital communication. Learn how traditional legal concepts intersect with cutting-edge financial technologies, understanding the implications for reputation and market stability."
+category: quant_concept
+description: Discover the crucial legal differences between slander and libel, focusing
+  on their relevance in finance and algorithmic trading. This informative article
+  explores how defamation laws apply to personal reputation and financial markets,
+  highlighting the importance of avoiding misinformation in modern digital communication.
+  Learn how traditional legal concepts intersect with cutting-edge financial technologies,
+  understanding the implications for reputation and market stability.
+title: 'Slander and Libel: Legal Differences and Examples (Algo Trading)'
 ---
 
 In today’s fast-paced digital world, being aware of the legal intricacies involved in communication is becoming increasingly crucial, particularly when it concerns finance and personal reputation. As digital platforms proliferate, the ramifications of communication extend far beyond simple conversations, impacting reputations and financial markets. The terms libel and slander, while historically rooted in legal discussions, have maintained their relevance in contemporary settings, particularly as communication channels evolve. 

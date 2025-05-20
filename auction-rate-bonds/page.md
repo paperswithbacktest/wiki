@@ -1,6 +1,9 @@
 ---
-title: "Auction Rate Bonds (Algo Trading)"
-description: "Explore Auction Rate Bonds with Dutch auction interest rates and long-term maturity features. Understand their role and potential in algorithmic trading for liquidity."
+category: quant_concept
+description: Explore Auction Rate Bonds with Dutch auction interest rates and long-term
+  maturity features. Understand their role and potential in algorithmic trading for
+  liquidity.
+title: Auction Rate Bonds (Algo Trading)
 ---
 
 The bond market serves as a pivotal element of the global financial system, underpinning economic stability by channeling funds to governments and corporations. Within this expansive market, Auction Rate Bonds (ARBs) emerge as a distinctive category characterized by their method of determining interest rates through a Dutch auction mechanism. This methodology sets ARBs apart by allowing market dynamics to dictate bond pricing, potentially offering yields reflective of current market conditions.

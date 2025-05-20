@@ -1,6 +1,8 @@
 ---
-title: "Comparison of IPO and Private Placement (Algo Trading)"
-description: "Compare IPOs and private placements two popular capital-raising strategies for businesses. Learn how algorithmic trading impacts these investment methods."
+category: quant_concept
+description: Compare IPOs and private placements two popular capital-raising strategies
+  for businesses. Learn how algorithmic trading impacts these investment methods.
+title: Comparison of IPO and Private Placement (Algo Trading)
 ---
 
 The world of investment offers an array of opportunities for raising capital, among which Initial Public Offerings (IPOs), private placements, and algorithmic trading are particularly prominent. Each of these mechanisms presents unique advantages and challenges, influencing how businesses secure funding and how investors participate in financial markets.

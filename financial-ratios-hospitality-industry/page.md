@@ -1,6 +1,8 @@
 ---
-title: "Financial Ratios in the Hospitality Industry (Algo Trading)"
-description: "Explore key financial ratios in the hospitality industry and their impact on investment strategies Discover how algorithmic trading enhances financial analysis"
+category: quant_concept
+description: Explore key financial ratios in the hospitality industry and their impact
+  on investment strategies Discover how algorithmic trading enhances financial analysis
+title: Financial Ratios in the Hospitality Industry (Algo Trading)
 ---
 
 The hospitality industry encompasses a diverse array of sectors, such as hotels, tourism, and event planning, all of which play crucial roles in the global economy. This industry is largely defined by its substantial investments in both fixed and tangible assets, ranging from luxurious hotel properties to intricate travel infrastructure. Due to its asset-heavy nature, financial analysis becomes essential for understanding and assessing the operational health and business prospects of companies within this sector.

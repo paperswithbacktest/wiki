@@ -1,6 +1,8 @@
 ---
-title: "Okcoin (OKX): History and Operations (Algo Trading)"
-description: "Explore the history and operations of OKX and Okcoin with a focus on algorithmic trading Discover robust tools for enhancing your cryptocurrency strategies"
+category: trading_strategy
+description: Explore the history and operations of OKX and Okcoin with a focus on
+  algorithmic trading Discover robust tools for enhancing your cryptocurrency strategies
+title: 'Okcoin (OKX): History and Operations (Algo Trading)'
 ---
 
 The world of cryptocurrency trading has rapidly gained momentum, sparking interest and participation worldwide. Among the numerous platforms enabling this global phenomenon are OKX and Okcoin, two highly reputable cryptocurrency exchanges known for their robust trading environments. These platforms have garnered significant attention due to their user-friendly interfaces, diverse trading options, and advanced technological infrastructures.

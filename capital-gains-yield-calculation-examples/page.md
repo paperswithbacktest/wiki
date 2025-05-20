@@ -1,6 +1,8 @@
 ---
-title: "Capital Gains Yield Calculation and Examples (Algo Trading)"
-description: "Discover how to calculate capital gains yield and understand the impact of algorithmic trading on investment returns to enhance your financial strategies."
+category: quant_concept
+description: Discover how to calculate capital gains yield and understand the impact
+  of algorithmic trading on investment returns to enhance your financial strategies.
+title: Capital Gains Yield Calculation and Examples (Algo Trading)
 ---
 
 In the modern investment landscape, understanding financial calculations and metrics is essential for achieving optimal investment returns. These calculations and metrics serve as the foundation for making informed decisions and assessing the success of investment strategies. Among these, capital gains yield, investment returns, and the role of algorithmic trading (algo trading) stand out as pivotal components.
@@ -185,4 +187,3 @@ To thrive in the ever-changing market landscape, investors are encouraged to rem
 6. **Further Exploration and Academic Sources**  
    - CFA Institute. (n.d.). *CFA Program Curriculum*. The official curriculum covers extensive topics on investment calculations and strategies, providing primary sources for understanding capital gains yield and investment returns.
    - Journal of Finance and Journal of Financial Economics. These journals frequently publish academic papers on investment strategies, capital gains, and the impact of trading technologies like algorithmic trading.
-

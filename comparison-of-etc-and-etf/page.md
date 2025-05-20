@@ -1,6 +1,8 @@
 ---
-title: "Comparison of ETC and ETF (Algo Trading)"
-description: "Explore the key differences between ETC and ETF in algorithmic trading Learn how investors use these tools to enhance portfolio diversification and efficiency"
+category: quant_concept
+description: Explore the key differences between ETC and ETF in algorithmic trading
+  Learn how investors use these tools to enhance portfolio diversification and efficiency
+title: Comparison of ETC and ETF (Algo Trading)
 ---
 
 Understanding the nuances of financial products is essential for investors seeking to diversify their portfolios. Exchange Traded Commodities (ETC) and Exchange Traded Funds (ETF) are notable financial instruments that offer distinct benefits to investors. ETCs are investment vehicles primarily focused on single commodities or baskets of related commodities, allowing for targeted exposure to specific sectors such as metals, energy, or agriculture. On the other hand, ETFs provide a diversified portfolio encompassing various asset classes, such as stocks, bonds, or commodities, enabling investors to spread risk across multiple sectors. Both ETCs and ETFs are traded on major stock exchanges, providing liquidity and accessibility to individual and institutional investors alike.

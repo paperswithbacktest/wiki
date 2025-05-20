@@ -1,6 +1,12 @@
 ---
-title: "Risk-Adjusted Return Explained (Algo Trading)"
-description: Explore the intricacies of risk-adjusted return in algorithmic trading to gain a comprehensive understanding of investment performance by balancing potential returns with associated risks. Discover key metrics like the Sharpe Ratio, Treynor Ratio, and Jensen’s Alpha, which provide unique insights to optimize trading strategies. This guide highlights the significance of these metrics in evaluating trading algorithms, ensuring profitable and sustainable strategies in diverse market conditions.
+category: quant_concept
+description: Explore the intricacies of risk-adjusted return in algorithmic trading
+  to gain a comprehensive understanding of investment performance by balancing potential
+  returns with associated risks. Discover key metrics like the Sharpe Ratio, Treynor
+  Ratio, and Jensen’s Alpha, which provide unique insights to optimize trading strategies.
+  This guide highlights the significance of these metrics in evaluating trading algorithms,
+  ensuring profitable and sustainable strategies in diverse market conditions.
+title: Risk-Adjusted Return Explained (Algo Trading)
 ---
 
 Algorithmic trading, often abbreviated as algo trading, refers to the use of automated systems to execute trades based on pre-defined and pre-programmed trading instructions. These computerized systems have become integral to modern financial markets, allowing for the execution of orders at speeds and frequencies that are impossible for human traders to achieve. This sophistication in trading demands precise measurement and management of risk, as the ultimate goal is to optimize returns while considering the level of risk associated with achieving these returns.

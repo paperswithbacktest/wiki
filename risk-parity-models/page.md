@@ -1,6 +1,8 @@
 ---
-title: "Risk-parity models (Algo Trading)"
-description: "Explore the innovative world of risk parity models in algo trading Discover how balancing risk, not capital, enhances portfolio diversification and stability"
+category: trading_strategy
+description: Explore the innovative world of risk parity models in algo trading Discover
+  how balancing risk, not capital, enhances portfolio diversification and stability
+title: Risk-parity models (Algo Trading)
 ---
 
 Risk parity has emerged as an innovative strategy in financial portfolio management, rethinking traditional approaches to asset allocation. Unlike conventional models that primarily focus on expected returns and historical volatility, risk parity emphasizes balancing the risk across asset classes. This approach strives to achieve a portfolio configuration where each asset class contributes equally to the overall risk, providing enhanced diversification and stability.

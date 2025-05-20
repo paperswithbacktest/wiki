@@ -1,6 +1,9 @@
 ---
-title: "Net Revenue Pledge (Algo Trading)"
-description: "Explore the synergy of net revenue pledges and algorithmic trading in finance Discover how these strategies enhance municipal bonds' credit and optimize returns"
+category: quant_concept
+description: Explore the synergy of net revenue pledges and algorithmic trading in
+  finance Discover how these strategies enhance municipal bonds' credit and optimize
+  returns
+title: Net Revenue Pledge (Algo Trading)
 ---
 
 In today's rapidly evolving financial landscape, understanding the intricacies of net revenue finance and its integration with algorithmic trading is crucial for investors and financial experts alike. This article explores the concept of net revenue pledges, highlighting their significance in the context of municipal bonds, and examines the role of algorithmic trading in optimizing these financial instruments. 

@@ -1,6 +1,9 @@
 ---
-title: "Cash Equivalents: Types and Features (Algo Trading)"
-description: "Explore cash equivalents and their role in finance. Understand liquidity, asset conversion, and algorithmic trading's impact on financial strategies and market efficiency."
+category: quant_concept
+description: Explore cash equivalents and their role in finance. Understand liquidity,
+  asset conversion, and algorithmic trading's impact on financial strategies and market
+  efficiency.
+title: 'Cash Equivalents: Types and Features (Algo Trading)'
 ---
 
 In the fast-paced world of finance, understanding the liquidity of financial assets, cash equivalents, and the role of algorithmic trading is crucial for market participants. These elements form the backbone of effective financial strategies and are essential for ensuring efficient market functioning.

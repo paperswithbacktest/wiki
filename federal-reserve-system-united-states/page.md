@@ -1,6 +1,9 @@
 ---
-title: "Federal Reserve System of the United States (Algo Trading)"
-description: "Explore the dynamic interplay between the US Federal Reserve's monetary policies and algorithmic trading. Discover how this relationship influences markets worldwide."
+category: quant_concept
+description: Explore the dynamic interplay between the US Federal Reserve's monetary
+  policies and algorithmic trading. Discover how this relationship influences markets
+  worldwide.
+title: Federal Reserve System of the United States (Algo Trading)
 ---
 
 The U.S. Federal Reserve System, commonly referred to as the Fed, stands as the central banking authority of the United States, established through the Federal Reserve Act of 1913. Its foundational purpose is to regulate the flow of money and credit, thereby supporting a stable and resilient economy. The Fed's influence on monetary policy, including the setting of interest rates and control of money supply, positions it as a central figure in economic management.

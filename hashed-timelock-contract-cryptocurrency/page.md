@@ -1,6 +1,8 @@
 ---
-title: "Hashed Timelock Contract in Cryptocurrency (Algo Trading)"
-description: "Discover how Hashed Timelock Contracts (HTLCs) are transforming cryptocurrency transactions and algorithmic trading with secure, efficient cross-platform solutions."
+category: quant_concept
+description: Discover how Hashed Timelock Contracts (HTLCs) are transforming cryptocurrency
+  transactions and algorithmic trading with secure, efficient cross-platform solutions.
+title: Hashed Timelock Contract in Cryptocurrency (Algo Trading)
 ---
 
 Cryptocurrency and blockchain technology continue to revolutionize how transactions are conducted by offering innovative, decentralized solutions that empower peer-to-peer exchanges without the need for intermediaries. At the forefront of these innovations is the Hashed Timelock Contract (HTLC), a specialized type of smart contract that enhances security and efficiency by applying cryptographic hash functions and specified time constraints. HTLCs provide a mechanism by which transactions can occur conditionally, thus minimizing risks associated with counterparty default or fraud.

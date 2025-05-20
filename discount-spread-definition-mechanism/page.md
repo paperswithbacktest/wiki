@@ -1,6 +1,9 @@
 ---
-title: "Discount Spread: Definition and Mechanism (Algo Trading)"
-description: "Explore the intricacies of discount spreads and spread trading mechanisms in algo trading Understand how these components impact trading strategies and market efficiency"
+category: quant_concept
+description: Explore the intricacies of discount spreads and spread trading mechanisms
+  in algo trading Understand how these components impact trading strategies and market
+  efficiency
+title: 'Discount Spread: Definition and Mechanism (Algo Trading)'
 ---
 
 In the fast-evolving world of financial markets, understanding different types of spreads and trading mechanisms has become crucial. Trading spreads are essential components that reflect the price discrepancies between related financial instruments, rates, or yields. This article explores the concept of discount spreads, financial spreads, spread mechanisms, and algorithmic trading. Each topic represents a different facet of financial markets and, when understood in conjunction with algorithmic trading, offers significant advantages for traders aiming to develop and execute effective strategies.

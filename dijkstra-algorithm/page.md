@@ -1,6 +1,12 @@
 ---
-title: "Dijkstra’s Algorithm Explained (Algo Trading)"
-description: Explore the power of Dijkstra’s Algorithm within algorithmic trading to enhance decision-making and execution speed. This article dives into key distinctions between Dijkstra and Prim's Algorithms, shedding light on their practical applications for minimizing transaction latency and optimizing data paths. Unlock the potential of these foundational graph-based methods to refine trading strategies and optimize financial outcomes.
+category: quant_concept
+description: Explore the power of Dijkstra’s Algorithm within algorithmic trading
+  to enhance decision-making and execution speed. This article dives into key distinctions
+  between Dijkstra and Prim's Algorithms, shedding light on their practical applications
+  for minimizing transaction latency and optimizing data paths. Unlock the potential
+  of these foundational graph-based methods to refine trading strategies and optimize
+  financial outcomes.
+title: Dijkstra’s Algorithm Explained (Algo Trading)
 ---
 
 Algorithmic trading, a rapidly evolving area in finance, utilizes complex algorithms to make trading decisions at speeds and frequencies unachievable by human traders. An integral part of this process is the application of efficient and effective algorithms to predict market movements and execute trades optimally. Among the vast array of algorithms employed in computational finance, Prim's Algorithm and Dijkstra's Algorithm stand out as foundational graph-based methods with varied applications.

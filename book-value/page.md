@@ -1,6 +1,13 @@
 ---
-title: "Book Value (Algo Trading)"
-description: "Discover the pivotal role of book value in financial analysis and algorithmic trading. Understand how this fundamental accounting metric helps identify a company's intrinsic worth by evaluating its net assets against liabilities. Explore how algorithmic trading incorporates book value to make informed, data-driven investment decisions and discover strategies that combine robust financial insights with cutting-edge technology to optimize trading portfolios. Ideal for investors and traders seeking to navigate modern financial markets with precision."
+category: quant_concept
+description: Discover the pivotal role of book value in financial analysis and algorithmic
+  trading. Understand how this fundamental accounting metric helps identify a company's
+  intrinsic worth by evaluating its net assets against liabilities. Explore how algorithmic
+  trading incorporates book value to make informed, data-driven investment decisions
+  and discover strategies that combine robust financial insights with cutting-edge
+  technology to optimize trading portfolios. Ideal for investors and traders seeking
+  to navigate modern financial markets with precision.
+title: Book Value (Algo Trading)
 ---
 
 Understanding financial metrics and trading strategies is essential for investors and traders who wish to navigate today’s complex financial markets with assurance and precision. At the core of such metrics is the concept of book value, an accounting measure that can significantly aid in evaluating the intrinsic worth of a company. Book value serves as a foundation by providing investors with an estimate of a company’s net worth, obtained by subtracting total liabilities from total tangible assets. This measure, while straightforward, offers deep insights into a company’s financial health and its potential valuation by the market.

@@ -1,6 +1,9 @@
 ---
-title: "Non-Fungible Token: Overview and Functionality (Algo Trading)"
-description: "Explore the innovative intersection of NFTs and algorithmic trading in the evolving digital asset landscape, empowered by blockchain technology for enhanced strategies."
+category: quant_concept
+description: Explore the innovative intersection of NFTs and algorithmic trading in
+  the evolving digital asset landscape, empowered by blockchain technology for enhanced
+  strategies.
+title: 'Non-Fungible Token: Overview and Functionality (Algo Trading)'
 ---
 
 The digital transformation is accelerating across various industries, significantly impacting the financial sector. This shift is largely driven by advancements in blockchain technology, which is revolutionizing asset management. From cryptocurrencies to Non-Fungible Tokens (NFTs), blockchain technology is enabling new forms of digital assets that are changing how we perceive and interact with financial assets.

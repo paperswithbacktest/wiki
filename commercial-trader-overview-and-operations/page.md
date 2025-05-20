@@ -1,6 +1,9 @@
 ---
-title: "Commercial Trader: Overview and Operations (Algo Trading)"
-description: "Explore the transformations in trading operations focusing on commercial traders and algorithmic trading to understand modern financial market dynamics and strategies."
+category: quant_concept
+description: Explore the transformations in trading operations focusing on commercial
+  traders and algorithmic trading to understand modern financial market dynamics and
+  strategies.
+title: 'Commercial Trader: Overview and Operations (Algo Trading)'
 ---
 
 Trading operations have undergone significant transformations over the years, primarily driven by rapid technological advancements and evolving market demands. These developments have not only enhanced the efficiency and scope of trading activities but have also introduced new paradigms in how trades are executed and managed. This article discusses the intricacies of trading operations with a focus on two pivotal areas: commercial traders and algorithmic trading. 

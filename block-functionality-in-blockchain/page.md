@@ -1,6 +1,8 @@
 ---
-title: "Block Functionality in Blockchain (Algo Trading)"
-description: "Explore the pivotal role of blockchain in algorithmic trading and cryptocurrencies Understanding its security and transparency benefits for modern finance"
+category: quant_concept
+description: Explore the pivotal role of blockchain in algorithmic trading and cryptocurrencies
+  Understanding its security and transparency benefits for modern finance
+title: Block Functionality in Blockchain (Algo Trading)
 ---
 
 Blockchain technology has emerged as a pivotal component in today's technological landscape, offering unique capabilities that have transformed numerous industries. Fundamentally, a blockchain is a decentralized, distributed ledger that records transactions across many computers, ensuring security and transparency through cryptographic hashing. Its relevance today lies in its ability to create tamper-proof records without the need for intermediaries, fostering a new era of digital trust.

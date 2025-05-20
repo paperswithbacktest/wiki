@@ -1,6 +1,8 @@
 ---
-title: "Short Selling Procedures (Algo Trading)"
-description: "Explore short selling and algorithmic trading to maximize returns and manage risks in dynamic financial markets. Learn strategies tactics and their risks."
+category: trading_strategy
+description: Explore short selling and algorithmic trading to maximize returns and
+  manage risks in dynamic financial markets. Learn strategies tactics and their risks.
+title: Short Selling Procedures (Algo Trading)
 ---
 
 In the ever-evolving financial markets, investment strategies are paramount for investors aiming to maximize returns and manage risks. The stock market, a dynamic platform for trading ownership in corporations, presents a variety of strategies that cater to different types of investors and market conditions. Among these strategies are short selling and algorithmic trading, each characterized by unique attributes and distinct potential for profit.

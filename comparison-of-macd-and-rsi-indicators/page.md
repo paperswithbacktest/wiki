@@ -1,6 +1,8 @@
 ---
-title: "Comparison of MACD and RSI Indicators (Algo Trading)"
-description: "Explore the intricate differences between MACD and RSI indicators in algo trading Learn how these tools can enhance trading strategies and market analysis"
+category: trading_strategy
+description: Explore the intricate differences between MACD and RSI indicators in
+  algo trading Learn how these tools can enhance trading strategies and market analysis
+title: Comparison of MACD and RSI Indicators (Algo Trading)
 ---
 
 In algorithmic trading, the Moving Average Convergence Divergence (MACD) and the Relative Strength Index (RSI) are pivotal momentum indicators. Traders utilize these tools extensively to pinpoint trends, evaluate market momentum, and form informed trading decisions. The MACD, developed by Gerald Appel in the late 1970s, captures the momentum of a security by measuring the difference between two exponential moving averages (EMAs). In contrast, the RSI, introduced by J. Welles Wilder, Jr. in 1978, assesses the speed and change of price movements by oscillating between 0 and 100 to identify overbought or oversold conditions.

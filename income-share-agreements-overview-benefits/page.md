@@ -1,6 +1,9 @@
 ---
-title: "Income Share Agreements: Overview and Benefits (Algo Trading)"
-description: "Explore Income Share Agreements and their benefits in education financing Learn how ISAs offer a flexible alternative to traditional loans and investment opportunities"
+category: quant_concept
+description: Explore Income Share Agreements and their benefits in education financing
+  Learn how ISAs offer a flexible alternative to traditional loans and investment
+  opportunities
+title: 'Income Share Agreements: Overview and Benefits (Algo Trading)'
 ---
 
 Income Share Agreements (ISAs) have emerged as an innovative financial tool, particularly in the field of education. These agreements provide a flexible alternative to traditional loans by allowing students to receive financial support in exchange for agreeing to pay a fixed percentage of their future income for a specified period. Unlike conventional debt-based lending, ISAs align the interests of educational institutions or investors with students' economic success, fostering a shared risk approach.

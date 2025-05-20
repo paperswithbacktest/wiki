@@ -1,6 +1,13 @@
 ---
-title: "Impact of Load Factor on Airline Profitability (Algo Trading)"
-description: "Explore the crucial link between load factor and airline profitability in the context of aviation economics with insights into algorithmic trading. Understand how this key performance indicator impacts strategic decision-making in the aviation sector affecting optimization of routes and operational efficiency. This article elucidates how the interplay between load factor and profitability helps stakeholders in the aviation industry navigate challenges and leverage opportunities for sustainable growth."
+category: quant_concept
+description: Explore the crucial link between load factor and airline profitability
+  in the context of aviation economics with insights into algorithmic trading. Understand
+  how this key performance indicator impacts strategic decision-making in the aviation
+  sector affecting optimization of routes and operational efficiency. This article
+  elucidates how the interplay between load factor and profitability helps stakeholders
+  in the aviation industry navigate challenges and leverage opportunities for sustainable
+  growth.
+title: Impact of Load Factor on Airline Profitability (Algo Trading)
 ---
 
 Aviation economics plays a crucial role in shaping the infrastructure that supports global trade, travel, and communication. This field examines the financial performance and strategic management of airlines and airports, serving as a backbone for modern society by enabling rapid and efficient movement of goods and people. The importance of aviation economics is evident as it impacts cost structures, pricing strategies, and investment decisions within the industry.

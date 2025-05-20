@@ -1,6 +1,9 @@
 ---
-title: "All-Cap Fund: Overview and Examples (Algo Trading)"
-description: "Explore the dynamic world of all-cap mutual funds and algorithmic trading Discover how these innovative strategies can enhance investment portfolios and optimize returns"
+category: trading_strategy
+description: Explore the dynamic world of all-cap mutual funds and algorithmic trading
+  Discover how these innovative strategies can enhance investment portfolios and optimize
+  returns
+title: 'All-Cap Fund: Overview and Examples (Algo Trading)'
 ---
 
 In the evolving landscape of investment opportunities, mutual funds continue to attract investors due to their diversified nature and potential returns. Among the numerous investment vehicles available, mutual funds stand out for their ability to pool resources from various investors and allocate them across a wide array of securities, mitigating individual risk and potentially enhancing returns.

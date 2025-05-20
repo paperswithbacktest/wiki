@@ -1,6 +1,9 @@
 ---
-title: "International Investment Strategies (Algo Trading)"
-description: "Explore international investment strategies with insights on algorithmic trading and diversification to enhance portfolio growth while managing associated risks."
+category: trading_strategy
+description: Explore international investment strategies with insights on algorithmic
+  trading and diversification to enhance portfolio growth while managing associated
+  risks.
+title: International Investment Strategies (Algo Trading)
 ---
 
 In today's interconnected world, investors are increasingly looking beyond their national borders to grow their portfolios. Driven by the rapid advancement of technology and globalization, international investing provides access to a broader spectrum of opportunities that may not be available domestically. Global markets introduce investors to various sectors and industries, including those within high-growth economies, thus creating paths for potential increased returns. However, participating in these markets also presents unique risks and challenges that require careful consideration.

@@ -1,6 +1,8 @@
 ---
-title: "International Competitive Bidding (Algo Trading)"
-description: "Explore the intersection of international competitive bidding and algorithmic trading to enhance efficiency, compliance, and strategic growth in global markets."
+category: dataset
+description: Explore the intersection of international competitive bidding and algorithmic
+  trading to enhance efficiency, compliance, and strategic growth in global markets.
+title: International Competitive Bidding (Algo Trading)
 ---
 
 The global business environment is characterized by intense competition, with companies striving to seize opportunities in international tenders. These tenders serve as a crucial mechanism for international trade and economic development, facilitating the procurement of goods and services through structured bidding processes. International tenders are integral for organizations aiming to expand their market presence and optimize procurement costs while adhering to global standards and regulations.
@@ -149,4 +151,3 @@ In summary, the future of procurement lies in the effective integration of techn
 [4]: ["Advances in Financial Machine Learning"](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089) by Marcos Lopez de Prado: Comprehensive insights into the application of machine learning in financial systems, relevant for algorithmic trading in procurement.
 
 [5]: ["Quantitative Trading: How to Build Your Own Algorithmic Trading Business"](https://www.amazon.com/Quantitative-Trading-Build-Algorithmic-Business/dp/1119800064) by Ernest P. Chan: Offers foundational knowledge on creating algorithmic trading strategies, applicable to procurement processes.
-

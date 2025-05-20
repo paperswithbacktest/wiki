@@ -1,6 +1,12 @@
 ---
-title: "Fibonacci Sequence: Overview and Applications (Algo Trading)"
-description: "Discover the intriguing Fibonacci sequence and its profound impact on mathematics and algorithmic trading. Learn how this ancient series connects with nature, the golden ratio, and financial markets. Explore foundational number theory concepts, Fibonacci's mathematical properties, and its practical applications that guide traders. Uncover insights that bridge theoretical math with strategic trading techniques in this comprehensive overview."
+category: quant_concept
+description: Discover the intriguing Fibonacci sequence and its profound impact on
+  mathematics and algorithmic trading. Learn how this ancient series connects with
+  nature, the golden ratio, and financial markets. Explore foundational number theory
+  concepts, Fibonacci's mathematical properties, and its practical applications that
+  guide traders. Uncover insights that bridge theoretical math with strategic trading
+  techniques in this comprehensive overview.
+title: 'Fibonacci Sequence: Overview and Applications (Algo Trading)'
 ---
 
 Number theory, a fundamental branch of pure mathematics, explores the properties and relationships of numbers, particularly integers. It forms the backbone for many mathematical concepts, one of which is the Fibonacci sequence. Named after the Italian mathematician Leonardo of Pisa, known as Fibonacci, this sequence begins with the numbers 0 and 1, and each subsequent number is the sum of the two preceding ones. Despite its simple formulation, the Fibonacci sequence leads to profound insights in mathematics, including connections to the golden ratio, denoted by the Greek letter phi (φ), approximately equal to 1.618. This relationship is evident as the ratio of successive Fibonacci numbers converges to the golden ratio.

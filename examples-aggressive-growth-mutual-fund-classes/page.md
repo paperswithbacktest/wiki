@@ -1,6 +1,8 @@
 ---
-title: "Examples of Aggressive Growth Mutual Fund Classes (Algo Trading)"
-description: "Explore aggressive growth mutual funds and their distinct advantages and risks. Discover how algorithmic trading enhances these funds for optimized returns."
+category: trading_strategy
+description: Explore aggressive growth mutual funds and their distinct advantages
+  and risks. Discover how algorithmic trading enhances these funds for optimized returns.
+title: Examples of Aggressive Growth Mutual Fund Classes (Algo Trading)
 ---
 
 In the constantly evolving world of investing, aggressive growth funds represent a popular choice for investors aiming to maximize their return potential. These funds typically focus on stocks of companies expected to grow at an above-average rate compared to other companies. This investment strategy primarily targets firms that exhibit significant expansion capabilities, often within transformative sectors such as technology or biotechnology. The core appeal of aggressive growth funds lies in their ability to achieve high returns, but it is essential to recognize that these funds also embody enhanced risk factors.

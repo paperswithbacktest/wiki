@@ -1,9 +1,9 @@
 ---
-title: Interactive Brokers Vs Webull Comprehensive Trading Comparison
+category: trading_strategy
 description: Interactive Brokers vs Webull comparison covers account setup fees, platforms
   and research tools to guide your trading decisions Discover more inside
+title: Interactive Brokers Vs Webull Comprehensive Trading Comparison
 ---
-
 
 ![Image](images/1.jpeg)
 

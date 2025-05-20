@@ -1,6 +1,9 @@
 ---
-title: "Bahraini Dinar: Currency of Bahrain (Algo Trading)"
-description: "Discover the value and stability of the Bahraini Dinar, a key currency in the Middle Eastern economy, and explore its influence on global algo trading markets."
+category: dataset
+description: Discover the value and stability of the Bahraini Dinar, a key currency
+  in the Middle Eastern economy, and explore its influence on global algo trading
+  markets.
+title: 'Bahraini Dinar: Currency of Bahrain (Algo Trading)'
 ---
 
 The Middle East is a region of significant economic potential and diversity, characterized by its strategic importance in global trade and finance. Currencies in this area are crucial to economic interactions on a global scale, and among these, the Bahraini Dinar (BHD) emerges as one of the most valuable. The Bahraini Dinar's strong position is reflective of Bahrain's resource-rich economy and financial stability in the region.

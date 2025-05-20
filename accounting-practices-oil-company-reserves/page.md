@@ -1,6 +1,8 @@
 ---
-title: "Accounting Practices for Oil Company Reserves (Algo Trading)"
-description: "Explore the intersection of accounting practices for oil reserves and algorithmic trading to gain insights essential for competitive market positioning."
+category: quant_concept
+description: Explore the intersection of accounting practices for oil reserves and
+  algorithmic trading to gain insights essential for competitive market positioning.
+title: Accounting Practices for Oil Company Reserves (Algo Trading)
 ---
 
 In the rapidly evolving financial landscape, understanding the intersection of balance sheet accounting practices, oil reserves, and algorithmic trading is vital. As global markets continue to integrate advanced technologies and explore sustainable growth models, integrating knowledge of these three areas becomes essential for market participants aiming to maintain a competitive edge. This article explores the crucial aspects of recording oil reserves on a balance sheet, the implications of accounting methods, and how algorithmic trading interacts with these elements.

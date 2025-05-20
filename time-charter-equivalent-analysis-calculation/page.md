@@ -1,6 +1,9 @@
 ---
-title: "Time Charter Equivalent Analysis and Calculation (Algo Trading)"
-description: "Explore the importance of Time Charter Equivalent (TCE) in shipping finance and algo trading Learn how TCE aids in evaluating vessel profitability and strategic decision-making"
+category: quant_concept
+description: Explore the importance of Time Charter Equivalent (TCE) in shipping finance
+  and algo trading Learn how TCE aids in evaluating vessel profitability and strategic
+  decision-making
+title: Time Charter Equivalent Analysis and Calculation (Algo Trading)
 ---
 
 In the shipping industry, evaluating financial performance is crucial to maintaining profitability and sustainability. One of the primary metrics employed for this purpose is the Time Charter Equivalent (TCE), which quantifies the average daily revenue of a vessel. TCE serves as an essential tool for shipowners, operators, and financial analysts, facilitating comparisons of revenue potential across different voyages and charter types. The calculation of TCE involves deducting voyage expenses from the total voyage revenue and dividing the result by the number of days of the voyage, providing a standardized measurement that enhances financial assessment and operational decision-making.

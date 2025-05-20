@@ -1,6 +1,9 @@
 ---
-title: "Addition Rule for Probability (Algo Trading)"
-description: "Explore how the addition rule in probability enhances algorithmic trading by determining event likelihoods, aiding risk assessment, and optimizing trading strategies."
+category: quant_concept
+description: Explore how the addition rule in probability enhances algorithmic trading
+  by determining event likelihoods, aiding risk assessment, and optimizing trading
+  strategies.
+title: Addition Rule for Probability (Algo Trading)
 ---
 
 Probability theory is integral to the world of trading, especially in algorithmic trading strategies. At its core, probability offers a mathematical framework to quantify the uncertainty and risks constantly present in financial markets. This theoretical foundation enables traders to forecast potential outcomes and devise strategies accordingly. One of the fundamental rules within probability theory is the addition rule, which is crucial for assessing scenarios where multiple events could occur. Understanding basic probability rules such as the addition rule can significantly enhance trading models by providing insights into the likelihood of various market events.

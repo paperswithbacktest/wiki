@@ -1,6 +1,8 @@
 ---
-title: "Hard-To-Borrow List in Financial Markets (Algo Trading)"
-description: "Explore the critical role of the hard-to-borrow list in short selling and algorithmic trading Learn how it impacts costs liquidity and trading strategies"
+category: trading_strategy
+description: Explore the critical role of the hard-to-borrow list in short selling
+  and algorithmic trading Learn how it impacts costs liquidity and trading strategies
+title: Hard-To-Borrow List in Financial Markets (Algo Trading)
 ---
 
 The financial markets offer a multitude of investment strategies to both individual investors and professional traders. Among these, short selling is distinguished by its unique method of capitalizing on declining stock prices. Unlike conventional buying, which profits from an increase in asset value, short selling involves borrowing shares of a stock and selling them with the anticipation of repurchasing them at a lower price. This inverse relationship to price movement allows investors to benefit from bearish trends in the market. Short selling, however, is not without its challenges. It involves significant risks, including the potential for unlimited losses if the stock price rises.

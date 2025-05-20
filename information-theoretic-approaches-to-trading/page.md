@@ -1,6 +1,8 @@
 ---
-title: "Information Theoretic Approaches to Trading (Algo Trading)"
-description: "Discover the transformative power of Information Theoretic approaches in algorithmic trading to enhance decision-making and optimize trading strategies."
+category: quant_concept
+description: Discover the transformative power of Information Theoretic approaches
+  in algorithmic trading to enhance decision-making and optimize trading strategies.
+title: Information Theoretic Approaches to Trading (Algo Trading)
 ---
 
 In recent years, algorithmic trading, often referred to as algo trading, has dramatically transformed financial markets by enhancing trading efficiency and precision. At its core, algo trading empowers market participants to automate trade execution, thereby reducing human error and emotional biases by relying on predefined mathematical models and strategic criteria. Among the innovative approaches spearheading this revolution are Information Theoretic methods, which utilize concepts from Information Theory to optimize trading strategies.

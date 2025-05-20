@@ -1,6 +1,9 @@
 ---
-title: "Orphan Drug Tax Credit Overview (Algo Trading)"
-description: "Explore the role of the orphan drug tax credit in stimulating rare disease treatment development and how algorithmic trading optimizes these incentives for pharma."
+category: quant_concept
+description: Explore the role of the orphan drug tax credit in stimulating rare disease
+  treatment development and how algorithmic trading optimizes these incentives for
+  pharma.
+title: Orphan Drug Tax Credit Overview (Algo Trading)
 ---
 
 The pharmaceutical industry confronts significant obstacles in the quest to develop drugs for rare diseases, commonly labeled as orphan diseases. These conditions affect a small portion of the population, posing unique challenges in drug development due to their limited market size. The United States defines a rare disease as one affecting fewer than 200,000 people nationwide. Given the limited number of individuals impacted, the financial returns from conventional market-driven approaches are often insufficient to justify the high research and development (R&D) costs for pharmaceutical companies.

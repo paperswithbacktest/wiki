@@ -1,6 +1,9 @@
 ---
-title: "SEC Rule 144: Holding Periods and Regulations (Algo Trading)"
-description: "Explore the complexities of SEC Rule 144, crucial for navigating holding periods and regulations in algo trading Ensure compliance while optimizing trading strategies"
+category: quant_concept
+description: Explore the complexities of SEC Rule 144, crucial for navigating holding
+  periods and regulations in algo trading Ensure compliance while optimizing trading
+  strategies
+title: 'SEC Rule 144: Holding Periods and Regulations (Algo Trading)'
 ---
 
 The world of securities trading is underpinned by a complex matrix of regulations designed to uphold market integrity and transparency. Within this framework, SEC Rule 144 is crucial in overseeing the sale of restricted and control securities. These categories of securities are generally linked to significant shareholdings, where potential for market manipulation and insider trading is particularly pronounced. Rule 144 provides specific conditions under which these securities can be sold, aiming to protect investors and maintain orderly markets.

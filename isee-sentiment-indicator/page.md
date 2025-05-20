@@ -1,6 +1,9 @@
 ---
-title: "ISEE Sentiment Indicator (Algo Trading)"
-description: "Explore the ISEE Sentiment Indicator's unique approach to gauging market trends through retail investor behavior and its integration in algorithmic trading strategies."
+category: trading_strategy
+description: Explore the ISEE Sentiment Indicator's unique approach to gauging market
+  trends through retail investor behavior and its integration in algorithmic trading
+  strategies.
+title: ISEE Sentiment Indicator (Algo Trading)
 ---
 
 Financial market indicators are vital tools for traders and investors, providing essential insights and guidance in decision-making processes. These indicators, derived from historical data and current market conditions, help market participants assess the potential future movement of assets and manage risk. Among these indicators, sentiment indicators are particularly significant as they offer a view into the psychological and emotional state of market participants. Understanding market sentiment is crucial as it often drives price movements beyond fundamentals, reflecting aspects like fear, greed, optimism, and pessimism among traders.

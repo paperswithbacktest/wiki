@@ -1,6 +1,13 @@
 ---
-title: "Countries Adopting the U.S. Dollar (Algo Trading)"
-description: "Explore the implications of countries adopting the U.S. dollar as their currency, often due to economic instability or hyperinflation. Understand how dollarization impacts currency stability, monetary policy, and international trade, especially in light of the U.S. dollar's dominance in global markets. Discover the interplay between dollarization and algorithmic trading, which often involves U.S. dollar-denominated assets due to their liquidity and acceptance, offering crucial insights for investors and policymakers navigating the changing financial landscape."
+category: quant_concept
+description: Explore the implications of countries adopting the U.S. dollar as their
+  currency, often due to economic instability or hyperinflation. Understand how dollarization
+  impacts currency stability, monetary policy, and international trade, especially
+  in light of the U.S. dollar's dominance in global markets. Discover the interplay
+  between dollarization and algorithmic trading, which often involves U.S. dollar-denominated
+  assets due to their liquidity and acceptance, offering crucial insights for investors
+  and policymakers navigating the changing financial landscape.
+title: Countries Adopting the U.S. Dollar (Algo Trading)
 ---
 
 The growing phenomenon of dollarization presents significant implications for global economies, influencing currency stability and international financial interactions. Dollarization occurs when a country adopts the U.S. dollar in place of or alongside its national currency. This shift often arises from economic instability, hyperinflation, or a loss of confidence in a domestic currency, offering immediate economic stability at the cost of monetary policy independence.

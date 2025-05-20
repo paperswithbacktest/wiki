@@ -1,7 +1,8 @@
 ---
-title: Understanding Implicit Bias in Machine Learning Models
+category: quant_concept
 description: Implicit bias in machine learning skews model results but can be detected
   with fairness metrics data balancing and audits for fairness Discover more inside
+title: Understanding Implicit Bias in Machine Learning Models
 ---
 
 ![Image](images/1.jpeg)

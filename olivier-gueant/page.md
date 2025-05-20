@@ -1,9 +1,9 @@
 ---
-title: "Olivier Guéant (Algo Trading)"
-description: "Discover the profound impact of Olivier Guéant on algorithmic trading with insights into his research on market liquidity and optimal execution in finance."
+category: quant_concept
+description: Discover the profound impact of Olivier Guéant on algorithmic trading
+  with insights into his research on market liquidity and optimal execution in finance.
+title: Olivier Guéant (Algo Trading)
 ---
-
-
 
 Olivier Guéant is a prominent figure in applied mathematics and its applications in finance, particularly in the domain of algorithmic trading. His extensive academic and professional career spans teaching, research, and the development of market-based financial strategies. Guéant has made significant contributions to understanding market liquidity, optimal execution, and market making, establishing himself as a thought leader in algorithmic trading.
 

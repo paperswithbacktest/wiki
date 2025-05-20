@@ -1,6 +1,8 @@
 ---
-title: "Capital Markets Group Overview and Services (Algo Trading)"
-description: "Explore the essential roles and services of capital markets groups and algorithmic trading in modern finance including investment banking and M&A."
+category: quant_concept
+description: Explore the essential roles and services of capital markets groups and
+  algorithmic trading in modern finance including investment banking and M&A.
+title: Capital Markets Group Overview and Services (Algo Trading)
 ---
 
 In today's fast-paced financial world, investment groups significantly influence the dynamics of capital markets. These organizations, encompassing a variety of entities such as investment banks, private equity firms, and hedge funds, play essential roles by facilitating transactions, providing liquidity, and offering strategic financial services. Through their activities, investment groups help companies raise capital, structure complex deals, and manage financial risks, thereby promoting economic growth and market stability.

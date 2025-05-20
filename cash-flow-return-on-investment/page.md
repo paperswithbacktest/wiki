@@ -1,6 +1,9 @@
 ---
-title: "Cash Flow Return on Investment (Algo Trading)"
-description: "Explore how Cash Flow Return on Investment (CFROI) enhances algorithmic trading by offering a precise financial metric focused on cash flow, bolstering investment decisions."
+category: quant_concept
+description: Explore how Cash Flow Return on Investment (CFROI) enhances algorithmic
+  trading by offering a precise financial metric focused on cash flow, bolstering
+  investment decisions.
+title: Cash Flow Return on Investment (Algo Trading)
 ---
 
 In the ever-evolving world of finance, understanding various investment metrics is essential for investors striving to optimize their portfolios. Cash Flow Return on Investment (CFROI) is a pivotal metric that evaluates the economic performance of a company's investments. Unlike traditional Return on Investment (ROI), CFROI focuses on cash flow rather than net income, thus offering a more accurate reflection of a company's financial health. As algorithmic trading becomes increasingly prevalent, CFROI has garnered recognition as a valuable tool for evaluating and executing investment strategies.

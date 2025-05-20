@@ -1,6 +1,8 @@
 ---
-title: "Cryptojacking and Its Mechanisms (Algo Trading)"
-description: "Explore cryptojacking an escalating threat harnessing unsuspecting computers for illicit crypto mining Learn how it affects you and strategies for protection"
+category: quant_concept
+description: Explore cryptojacking an escalating threat harnessing unsuspecting computers
+  for illicit crypto mining Learn how it affects you and strategies for protection
+title: Cryptojacking and Its Mechanisms (Algo Trading)
 ---
 
 In recent years, the interplay of cryptocurrencies, mining, cybersecurity, and algorithmic trading has established a dynamic and complex digital ecosystem. This amalgamation offers numerous opportunities and challenges, shaping the landscape of modern finance and technology. Cryptocurrency mining and trading have surged in popularity, creating lucrative prospects for investors and technology enthusiasts. This process involves the creation of new digital coins and the validation of transactions through decentralized networks, providing a foundation for the entire cryptocurrency industry.

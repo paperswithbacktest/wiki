@@ -1,6 +1,8 @@
 ---
-title: "Optimal inventory management for market makers (Algo Trading)"
-description: "Optimize your inventory management in algorithmic trading to boost liquidity and profitability by exploring models and strategies tailored for market makers."
+category: trading_strategy
+description: Optimize your inventory management in algorithmic trading to boost liquidity
+  and profitability by exploring models and strategies tailored for market makers.
+title: Optimal inventory management for market makers (Algo Trading)
 ---
 
 Inventory management plays a pivotal role in algorithmic trading, especially for market makers. These entities are tasked with maintaining liquidity in financial markets by consistently providing buy and sell prices. Their primary function is to ensure that trading activities flow smoothly and efficiently, thereby stabilizing markets. The success of a market maker hinges on the ability to accurately manage and balance their inventories, striking an optimal balance that maximizes profits while minimizing associated risks.

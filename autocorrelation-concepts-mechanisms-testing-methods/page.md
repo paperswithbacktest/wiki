@@ -1,6 +1,13 @@
 ---
-title: "Autocorrelation: Concepts, Mechanisms, and Testing Methods (Algo Trading)"
-description: "Explore the fundamentals of autocorrelation in time series analysis and its pivotal role in algorithmic trading. This article investigates into its statistical significance, methods of detection, and implications for market prediction. Learn about key tests like Durbin-Watson and Ljung-Box and how traders leverage autocorrelation for trend analysis, risk management, and refined trading strategies. Enhance your understanding of these concepts to gain an analytical edge in today's dynamic financial markets."
+category: quant_concept
+description: Explore the fundamentals of autocorrelation in time series analysis and
+  its pivotal role in algorithmic trading. This article investigates into its statistical
+  significance, methods of detection, and implications for market prediction. Learn
+  about key tests like Durbin-Watson and Ljung-Box and how traders leverage autocorrelation
+  for trend analysis, risk management, and refined trading strategies. Enhance your
+  understanding of these concepts to gain an analytical edge in today's dynamic financial
+  markets.
+title: 'Autocorrelation: Concepts, Mechanisms, and Testing Methods (Algo Trading)'
 ---
 
 In today's fast-paced financial markets, time series analysis has become a cornerstone of quantitative trading strategies. At the heart of this approach lies the concept of autocorrelation, a statistical measure that traders use to identify patterns and predict future price movements. Autocorrelation measures how the values of a time series relate to their past values, thereby enabling traders to infer potential future price directions based on historical data patterns. When time series data exhibit significant autocorrelation, it suggests that past price movements can provide insights into future trends, making it a powerful tool for making informed trading decisions.

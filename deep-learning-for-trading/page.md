@@ -1,6 +1,9 @@
 ---
-title: "Deep Learning for Trading (Algo Trading)"
-description: "Deep learning revolutionizes algorithmic trading by modeling complex patterns and enhancing predictive accuracy, enabling precise, data-driven decisions in financial markets."
+category: trading_strategy
+description: Deep learning revolutionizes algorithmic trading by modeling complex
+  patterns and enhancing predictive accuracy, enabling precise, data-driven decisions
+  in financial markets.
+title: Deep Learning for Trading (Algo Trading)
 ---
 
 In recent years, deep learning has seen explosive growth in the financial sector, particularly within algorithmic trading. This growth is driven by deep learning's capability to model intricate patterns and make nuanced predictions, offering new possibilities for traders and investors. Algorithmic trading, also known as algo trading, utilizes computer algorithms to execute trades at high speed and volume, enabling traders to capitalize on market opportunities with precision and efficiency. This mechanized approach streamlines the trading process, effectively responding to market changes often imperceptible to human traders.

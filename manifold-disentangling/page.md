@@ -1,7 +1,8 @@
 ---
-title: Manifold Disentangling In Machine Learning With GEOMANCER
+category: quant_concept
 description: Manifold disentangling helps separate independent data features into
   controllable spaces for flexible model training and generation Discover more inside.
+title: Manifold Disentangling In Machine Learning With GEOMANCER
 ---
 
 ![Image](images/1.jpeg)

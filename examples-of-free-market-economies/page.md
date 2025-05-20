@@ -1,6 +1,12 @@
 ---
-title: "Examples of Free Market Economies (Algo Trading)"
-description: "Explore the fundamental characteristics and advantages of free market economies through real-world examples featuring countries like Singapore, Switzerland, and Ireland. Understand how minimal governmental intervention fosters innovation and competition, while algorithmic trading showcases advanced free market mechanisms. Discover the balance of economic freedom with regulatory measures to enhance global economic development."
+category: quant_concept
+description: Explore the fundamental characteristics and advantages of free market
+  economies through real-world examples featuring countries like Singapore, Switzerland,
+  and Ireland. Understand how minimal governmental intervention fosters innovation
+  and competition, while algorithmic trading showcases advanced free market mechanisms.
+  Discover the balance of economic freedom with regulatory measures to enhance global
+  economic development.
+title: Examples of Free Market Economies (Algo Trading)
 ---
 
 Understanding economic systems is crucial for grasping how countries manage and organize their resources. Among the diverse configurations that define global economies, a free market economy serves as a fundamental model characterized by minimal governmental intervention. In such a system, the forces of supply and demand predominantly dictate the production of goods and services, as well as labor market dynamics. This self-regulating nature fosters an environment where businesses and consumers can operate independently, making decisions based on individual preferences and market signals.

@@ -1,6 +1,9 @@
 ---
-title: "Box Spread: Uses and Risks (Algo Trading)"
-description: "Explore the intricacies of box spread options trading strategy and its role in arbitrage and risk management enhanced by algorithmic trading for optimal execution."
+category: trading_strategy
+description: Explore the intricacies of box spread options trading strategy and its
+  role in arbitrage and risk management enhanced by algorithmic trading for optimal
+  execution.
+title: 'Box Spread: Uses and Risks (Algo Trading)'
 ---
 
 Box spread options trading is a sophisticated financial strategy that plays a crucial role in arbitrage and risk management. At its core, this strategy involves creating a "box" through the combination of a bull call spread and a matching bear put spread. The bull call spread consists of buying and selling call options at different strike prices, while the bear put spread involves buying and selling put options at corresponding strike prices. This dual-spread approach allows traders to potentially exploit pricing inefficiencies in the options market.

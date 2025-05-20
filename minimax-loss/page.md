@@ -1,7 +1,8 @@
 ---
-title: Minimax Loss in Machine Learning for Improved Model Robustness
+category: quant_concept
 description: Minimax Loss trains models to perform reliably under worst-case scenarios
   by optimizing maximum loss against adversarial inputs Discover more inside.
+title: Minimax Loss in Machine Learning for Improved Model Robustness
 ---
 
 ![Image](images/1.png)

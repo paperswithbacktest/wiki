@@ -1,6 +1,8 @@
 ---
-title: "Purchasing Kishu Inu Cryptocurrency (Algo Trading)"
-description: "Learn how to buy Kishu Inu cryptocurrency and integrate algorithmic trading to maximize returns and minimize risks in your investment strategy."
+category: trading_strategy
+description: Learn how to buy Kishu Inu cryptocurrency and integrate algorithmic trading
+  to maximize returns and minimize risks in your investment strategy.
+title: Purchasing Kishu Inu Cryptocurrency (Algo Trading)
 ---
 
 Kishu Inu is a cryptocurrency that has garnered interest due to its unique features and the enthusiastic community surrounding it. Launched as a decentralized token, it aims to revolutionize the way users interact with digital assets by providing a novel investment opportunity in a continuously evolving market ecosystem.

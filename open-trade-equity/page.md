@@ -1,6 +1,9 @@
 ---
-title: "Open Trade Equity (Algo Trading)"
-description: "Discover the fundamental role of Open Trade Equity in trading strategies. Learn how OTE impacts risk management and decision-making in both manual and algo trading."
+category: quant_concept
+description: Discover the fundamental role of Open Trade Equity in trading strategies.
+  Learn how OTE impacts risk management and decision-making in both manual and algo
+  trading.
+title: Open Trade Equity (Algo Trading)
 ---
 
 Open Trade Equity (OTE) is a fundamental concept in the world of financial trading that traders must understand to optimize their strategies and maximize profits. This metric provides an essential real-time insight into the unrealized gains or losses of open derivative positions, offering traders a snapshot of their current trading potential. Understanding OTE is not only relevant for manual trading but also critical for algorithmic trading, where sophisticated systems leverage it to make decisions that enhance trading efficiency.

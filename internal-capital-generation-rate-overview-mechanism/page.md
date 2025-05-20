@@ -1,6 +1,8 @@
 ---
-title: "Internal Capital Generation Rate: Overview and Mechanism (Algo Trading)"
-description: "Explore the Internal Capital Generation Rate in algo trading and learn how it aids banks in fostering growth and sustainability without external funding."
+category: quant_concept
+description: Explore the Internal Capital Generation Rate in algo trading and learn
+  how it aids banks in fostering growth and sustainability without external funding.
+title: 'Internal Capital Generation Rate: Overview and Mechanism (Algo Trading)'
 ---
 
 In the competitive world of finance, understanding the metrics that drive growth and profitability is crucial. One such metric, the Internal Capital Generation Rate (ICGR), plays a key role in evaluating a bank's ability to foster capital growth. The ICGR is a measure of a bank's capacity to generate capital internally, reflecting its ability to support operations and growth without relying on external funding sources. This makes it an essential tool for financial analysts who aim to assess the financial health and sustainability of banking institutions.

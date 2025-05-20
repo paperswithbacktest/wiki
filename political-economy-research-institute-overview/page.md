@@ -1,6 +1,9 @@
 ---
-title: "Political Economy Research Institute Overview (Algo Trading)"
-description: "Explore the intersection of political economy and algorithmic trading, analyzing how economic policies shape resource distribution and market operations in financial sectors."
+category: quant_concept
+description: Explore the intersection of political economy and algorithmic trading,
+  analyzing how economic policies shape resource distribution and market operations
+  in financial sectors.
+title: Political Economy Research Institute Overview (Algo Trading)
 ---
 
 The intersection of political economy, economic policy, and algorithmic trading is a vibrant area of research and practice, sparking interest across academic, governmental, and financial sectors. This multifaceted domain explores how economic policies are crafted and implemented, how they affect the distribution of resources, and how algorithmic trading operates within these frameworks. Political economy examines the relationship between politics and economics, often focusing on how governmental policies impact economic behavior and thus influence market outcomes. By understanding these interrelationships, scholars and practitioners aim to optimize policy design and evaluate its effectiveness in real-world applications.

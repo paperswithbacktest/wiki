@@ -1,6 +1,9 @@
 ---
-title: "Debt-Service Coverage Ratio: Usage and Calculation (Algo Trading)"
-description: "Explore the significance of the Debt-Service Coverage Ratio in financial health assessment and its application in algorithmic trading for informed investment decisions."
+category: quant_concept
+description: Explore the significance of the Debt-Service Coverage Ratio in financial
+  health assessment and its application in algorithmic trading for informed investment
+  decisions.
+title: 'Debt-Service Coverage Ratio: Usage and Calculation (Algo Trading)'
 ---
 
 In the fast-paced world of finance, understanding key financial metrics is crucial for success. Among these essential metrics, the Debt-Service Coverage Ratio (DSCR) plays a vital role in assessing a company's financial health. DSCR is a measure used to evaluate a company's ability to generate enough income to cover its debt obligations. By providing insights into whether a company can meet its debt payments through its operational income, DSCR becomes a pivotal indicator for investors, creditors, and financial analysts.

@@ -1,6 +1,8 @@
 ---
-title: "The Importance of Keeping a Diary for Forex Trades (Algo Trading)"
-description: "Enhance your forex trading with a diary and algo strategies for improved decision-making Analyze past trades refine strategies and gain a competitive edge"
+category: trading_strategy
+description: Enhance your forex trading with a diary and algo strategies for improved
+  decision-making Analyze past trades refine strategies and gain a competitive edge
+title: The Importance of Keeping a Diary for Forex Trades (Algo Trading)
 ---
 
 Forex trading is a dynamic world involving various strategies and techniques designed to navigate the complexities of currency markets. Among these methods, trade analysis and trading diaries are particularly noteworthy for their capacity to enhance trader performance. Trade analysis involves scrutinizing past trades to identify patterns, successes, and errors, enabling traders to make informed, data-driven decisions for future trades. Through consistent trade analysis, traders can discern high-probability setups and build confidence in their strategies.

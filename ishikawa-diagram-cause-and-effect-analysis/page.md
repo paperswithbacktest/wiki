@@ -1,6 +1,8 @@
 ---
-title: "Ishikawa Diagram: Cause-and-Effect Analysis (Algo Trading)"
-description: "Explore how the Ishikawa Diagram can enhance algorithmic trading by identifying root causes of trading issues Improve your strategies with this powerful tool."
+category: quant_concept
+description: Explore how the Ishikawa Diagram can enhance algorithmic trading by identifying
+  root causes of trading issues Improve your strategies with this powerful tool.
+title: 'Ishikawa Diagram: Cause-and-Effect Analysis (Algo Trading)'
 ---
 
 In today's fast-paced and competitive markets, understanding the root causes of problems can be key to gaining a competitive edge. Algorithmic trading, or algo trading, is a domain where such an understanding is crucial, as it involves automating trade execution using complex algorithms. These algorithms are designed to capitalize on small price deviations and must operate efficiently in the ever-volatile financial markets, where unforeseen anomalies can lead to significant financial gains or losses.

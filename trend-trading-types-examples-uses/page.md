@@ -1,6 +1,14 @@
 ---
-title: "Trend in Trading: Types, Examples, and Uses (Algo Trading)"
-description: "Explore the evolution of investment practices with trend trading and algorithmic trading which utilize advanced technology and algorithms for data-driven decisions. Understand the intricacies of these strategies including their benefits and how they empower traders to optimize investment outcomes in today's complex markets. Discover techniques like trend analysis and algorithmic execution that can enhance performance while minimizing costs and emotional biases. Whether you're a trader or investor, this article equips you with knowledge to effectively implement trend and algo trading for a competitive edge."
+category: trading_strategy
+description: Explore the evolution of investment practices with trend trading and
+  algorithmic trading which utilize advanced technology and algorithms for data-driven
+  decisions. Understand the intricacies of these strategies including their benefits
+  and how they empower traders to optimize investment outcomes in today's complex
+  markets. Discover techniques like trend analysis and algorithmic execution that
+  can enhance performance while minimizing costs and emotional biases. Whether you're
+  a trader or investor, this article equips you with knowledge to effectively implement
+  trend and algo trading for a competitive edge.
+title: 'Trend in Trading: Types, Examples, and Uses (Algo Trading)'
 ---
 
 With the advancement of technology, investment practices have evolved significantly, leading to the emergence of trend trading and algorithmic (algo) trading. These trading strategies leverage computational power and sophisticated algorithms to make swift and data-driven investment decisions. As financial markets become more complex and interconnected, the demand for precision and speed in trading has intensified, prompting the adoption of these innovative approaches.

@@ -1,6 +1,11 @@
 ---
-title: "Quantitative investing (Algo Trading)"
-description: to sophisticated algorithms to process large datasets, identifying profitable opportunities and optimizing trade executions with minimal human intervention. As technology continues to evolve, the potential for more advanced and precise quantitative trading models grows, catering to both institutional and individual investors seeking systematic approaches to the stock market's unpredictability.
+category: quant_concept
+description: to sophisticated algorithms to process large datasets, identifying profitable
+  opportunities and optimizing trade executions with minimal human intervention. As
+  technology continues to evolve, the potential for more advanced and precise quantitative
+  trading models grows, catering to both institutional and individual investors seeking
+  systematic approaches to the stock market's unpredictability.
+title: Quantitative investing (Algo Trading)
 ---
 
 In recent years, the landscape of investing has undergone a transformative shift with the emergence and evolution of quantitative investing in algorithmic trading. This paradigm leverages data-driven analysis, employing mathematical and statistical models to inform investment decisions and execute trades. As financial markets become increasingly dynamic, the role and significance of quantitative trading have grown, influencing how investors approach risk management and profit maximization.

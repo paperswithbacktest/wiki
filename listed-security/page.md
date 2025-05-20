@@ -1,6 +1,8 @@
 ---
-title: "Listed Security (Algo Trading)"
-description: "Explore the dynamic world of financial markets with a focus on stock exchanges, publicly traded companies, and algorithmic trading for economic transformation."
+category: quant_concept
+description: Explore the dynamic world of financial markets with a focus on stock
+  exchanges, publicly traded companies, and algorithmic trading for economic transformation.
+title: Listed Security (Algo Trading)
 ---
 
 Financial markets represent a crucial component of the global economy, facilitating the allocation of resources, enabling risk management, and providing liquidity to businesses and investors. They encompass a variety of exchanges and platforms where financial instruments like stocks, bonds, currencies, and derivatives are traded. These markets are fundamental in fostering economic growth and development by allowing for efficient capital distribution and risk-sharing across borders.

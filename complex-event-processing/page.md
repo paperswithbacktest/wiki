@@ -1,6 +1,8 @@
 ---
-title: "Complex Event Processing (Algo Trading)"
-description: "Explore the transformative impact of Complex Event Processing (CEP) in algorithmic trading by analyzing real-time data streams to identify market opportunities."
+category: quant_concept
+description: Explore the transformative impact of Complex Event Processing (CEP) in
+  algorithmic trading by analyzing real-time data streams to identify market opportunities.
+title: Complex Event Processing (Algo Trading)
 ---
 
 Complex Event Processing (CEP) is a transformative technology that is reshaping the way businesses manage and respond to a diverse array of real-time events. Emerging from the field of discrete event simulation, CEP focuses on aggregating and analyzing continuous streams of data to discern meaningful patterns or trends. This real-time data handling capability makes the technology indispensable in sectors such as finance, where it plays a pivotal role in algorithmic trading by pinpointing patterns within stock markets.

@@ -1,6 +1,8 @@
 ---
-title: "Treasury International Capital: Overview and Functionality (Algo Trading)"
-description: "Discover the role and impact of Treasury International Capital in cross-border financial transactions and how it intersects with algorithmic trading systems."
+category: dataset
+description: Discover the role and impact of Treasury International Capital in cross-border
+  financial transactions and how it intersects with algorithmic trading systems.
+title: 'Treasury International Capital: Overview and Functionality (Algo Trading)'
 ---
 
 The global financial landscape is constantly evolving, driven by the complex interplay of various financial instruments and data sets. One such critical component is the Treasury International Capital (TIC) reporting system. Established to provide insights into the cross-border financial activities of the United States, the TIC system is a cornerstone for understanding the international flow of capital. It records and disseminates data on financial flows between the United States and foreign entities, offering vital information about the holdings and transactions involving U.S. and foreign securities.

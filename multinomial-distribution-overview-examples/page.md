@@ -1,6 +1,9 @@
 ---
-title: "Multinomial Distribution Overview and Examples (Algo Trading)"
-description: "Explore the significance of the multinomial distribution in algorithmic trading and finance, learn how it aids in making data-driven decisions by modeling multiple outcomes."
+category: quant_concept
+description: Explore the significance of the multinomial distribution in algorithmic
+  trading and finance, learn how it aids in making data-driven decisions by modeling
+  multiple outcomes.
+title: Multinomial Distribution Overview and Examples (Algo Trading)
 ---
 
 Understanding probability distributions is critical across multiple domains, such as finance and trading, because these statistical tools allow professionals to make data-driven decisions by quantifying uncertain events. Among these distributions, the multinomial distribution holds particular significance as it broadens the scope of the well-known binomial distribution to scenarios involving more than two potential outcomes.

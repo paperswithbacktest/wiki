@@ -1,6 +1,8 @@
 ---
-title: "Trading Instruments on the Chicago Board of Trade (Algo Trading)"
-description: "Explore the Chicago Board of Trade's trading instruments and the evolution of algorithmic trading in financial markets a blend of tradition and innovation."
+category: quant_concept
+description: Explore the Chicago Board of Trade's trading instruments and the evolution
+  of algorithmic trading in financial markets a blend of tradition and innovation.
+title: Trading Instruments on the Chicago Board of Trade (Algo Trading)
 ---
 
 The Chicago Board of Trade (CBOT) stands as a cornerstone in global financial markets, offering a comprehensive range of trading options that cater to diverse investor needs. Since its inception in 1848, CBOT has played a crucial role in the trade of agricultural commodities such as wheat, corn, and soybeans, establishing itself as a pivotal hub for commodity trading. The exchange's historical significance lies in its ability to standardize grain trading, thereby reducing risk and bringing transparency to the market.

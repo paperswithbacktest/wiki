@@ -1,6 +1,8 @@
 ---
-title: "Unitholder: Meaning, Taxation, and Examples (Algo Trading)"
-description: "Explore the intricate relationship between unitholder investments, taxation, and algorithmic trading to optimize returns, ensure compliance, and manage tax burdens."
+category: trading_strategy
+description: Explore the intricate relationship between unitholder investments, taxation,
+  and algorithmic trading to optimize returns, ensure compliance, and manage tax burdens.
+title: 'Unitholder: Meaning, Taxation, and Examples (Algo Trading)'
 ---
 
 In finance, the convergence of taxation, unitholder investments, and algorithmic trading presents a multifaceted opportunity for discerning investors. This article addresses the complexities related to taxation in unitholder investments, alongside the strategic use of algorithmic trading. The focus is on understanding tax implications and developing strategies that not only optimize returns but also ensure compliance with existing regulatory frameworks.

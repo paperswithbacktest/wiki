@@ -1,6 +1,8 @@
 ---
-title: "Deflation: Causes and Views on Its Impact (Algo Trading)"
-description: "Explore how deflation affects economies by reducing spending and altering trading strategies in financial markets with algorithmic trading implications."
+category: quant_concept
+description: Explore how deflation affects economies by reducing spending and altering
+  trading strategies in financial markets with algorithmic trading implications.
+title: 'Deflation: Causes and Views on Its Impact (Algo Trading)'
 ---
 
 Deflation is defined as the overall decrease in the price level of goods and services in an economy, marked by a decline in the consumer price index (CPI). This phenomenon is contrasted with inflation, which denotes a general rise in price levels. While inflation erodes purchasing power, deflation has the opposite effect, increasing the real value of currency. However, the impacts of deflation on an economy are complex and often adverse. It can lead to decreased consumer spending as people anticipate lower prices in the future, resulting in reduced business revenues and subsequent cuts in production and workforce.

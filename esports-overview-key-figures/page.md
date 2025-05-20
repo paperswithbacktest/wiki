@@ -1,6 +1,8 @@
 ---
-title: "Esports: Overview and Key Figures (Algo Trading)"
-description: "Explore the dynamic world of esports and its intersection with algorithmic trading Discover how this booming industry leverages technology and innovation"
+category: quant_concept
+description: Explore the dynamic world of esports and its intersection with algorithmic
+  trading Discover how this booming industry leverages technology and innovation
+title: 'Esports: Overview and Key Figures (Algo Trading)'
 ---
 
 The esports industry is a burgeoning sector at the intersection of gaming and competitive sports, experiencing unprecedented growth. It stands as a testament to the power of modern technology and digital culture, having transformed rapidly from a niche hobby into a global phenomenon. Advanced technologies and the increasing prevalence of high-speed internet have played significant roles in this transformation, enabling seamless connectivity and providing platforms for dynamic interaction among gamers worldwide. This evolution has facilitated the creation of an intricate ecosystem where professional players, game developers, sponsors, and spectators coexist.

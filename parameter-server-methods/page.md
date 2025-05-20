@@ -1,7 +1,8 @@
 ---
-title: Efficient Parameter Server for Distributed Machine Learning
+category: quant_concept
 description: Parameter Server systems streamline weight updates in distributed ML
   by centralizing updates and reducing communication delays Discover more inside
+title: Efficient Parameter Server for Distributed Machine Learning
 ---
 
 ![Image](images/1.png)

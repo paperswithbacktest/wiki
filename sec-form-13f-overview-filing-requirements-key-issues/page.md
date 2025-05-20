@@ -1,6 +1,8 @@
 ---
-title: "SEC Form 13F: Overview, Filing Requirements, Key Issues (Algo Trading)"
-description: "Discover the role of SEC Form 13F in algorithmic trading its filing requirements and how it provides strategic insights into institutional investment behaviors."
+category: quant_concept
+description: Discover the role of SEC Form 13F in algorithmic trading its filing requirements
+  and how it provides strategic insights into institutional investment behaviors.
+title: 'SEC Form 13F: Overview, Filing Requirements, Key Issues (Algo Trading)'
 ---
 
 The world of investment is vast and intricate, characterized by a multitude of forms and reports that institutional investors must handle to comply with regulatory requirements. Among these, SEC Form 13F plays a significant role in ensuring transparency and accountability in financial markets. Instituted by the U.S. Securities and Exchange Commission, this quarterly report mandates institutional investment managers with over $100 million in assets under management to disclose their equity holdings, providing insights into the strategies of prominent market entities often referred to as 'smart money'. 

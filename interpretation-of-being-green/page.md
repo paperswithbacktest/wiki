@@ -1,6 +1,8 @@
 ---
-title: "Interpretation of 'Being Green' (Algo Trading)"
-description: "Explore the intersection of algorithmic trading and environmental sustainability offering insights into eco-friendly investing for a responsible financial future."
+category: quant_concept
+description: Explore the intersection of algorithmic trading and environmental sustainability
+  offering insights into eco-friendly investing for a responsible financial future.
+title: Interpretation of 'Being Green' (Algo Trading)
 ---
 
 In recent years, the concept of environmental sustainability has become increasingly significant across various industries, notably including the financial sector. The growing interest in sustainability has introduced new paradigms such as environmentalism and eco-friendly investing into the trading domain. These concepts have become focal points as industries strive to meet the dual objectives of economic growth and environmental responsibility.

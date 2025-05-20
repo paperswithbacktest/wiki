@@ -1,6 +1,8 @@
 ---
-title: "Capital Markets: Functions and Operations (Algo Trading)"
-description: "Explore the dynamic landscape of capital markets and algorithmic trading to understand their functions, operations, and impact on global finance today."
+category: quant_concept
+description: Explore the dynamic landscape of capital markets and algorithmic trading
+  to understand their functions, operations, and impact on global finance today.
+title: 'Capital Markets: Functions and Operations (Algo Trading)'
 ---
 
 In today's fast-paced financial landscape, a thorough understanding of the factors driving market activities is fundamental. The financial environment is comprised of financial systems, investment capital markets, and algorithmic trading, each playing a vital role in shaping economic outcomes. By evaluating these components, we provide valuable insights into their significance, operation, and influence on the global economic stage.

@@ -1,6 +1,8 @@
 ---
-title: "Fullz: Understanding and Risk Mitigation (Algo Trading)"
-description: "Protect sensitive data in algorithmic trading by understanding risks posed by Fullz. Strengthen cybersecurity to mitigate identity theft and fraud impacts."
+category: quant_concept
+description: Protect sensitive data in algorithmic trading by understanding risks
+  posed by Fullz. Strengthen cybersecurity to mitigate identity theft and fraud impacts.
+title: 'Fullz: Understanding and Risk Mitigation (Algo Trading)'
 ---
 
 The digital age has revolutionized the way we live and work, bringing unprecedented convenience through technological advancements. However, it has also introduced new challenges, especially in cybersecurity. One major threat in this landscape is identity theft, increasingly fueled by the illicit trade of "Fullz"—a term referring to comprehensive sets of stolen personal data. Fullz typically include sensitive information such as names, addresses, credit card details, Social Security numbers, and birthdates, which are sold on dark web marketplaces and used for fraudulent activities.

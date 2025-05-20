@@ -1,6 +1,8 @@
 ---
-title: "Green Economics: Overview and Criticisms (Algo Trading)"
-description: "Explore the intricate relationship between green economics sustainable development and algorithmic trading while addressing the critiques and future potential."
+category: quant_concept
+description: Explore the intricate relationship between green economics sustainable
+  development and algorithmic trading while addressing the critiques and future potential.
+title: 'Green Economics: Overview and Criticisms (Algo Trading)'
 ---
 
 The intersection of sustainable development, green economics, economic critiques, and algorithmic trading represents a complex landscape with significant implications for modern economies. Green economics is an approach that aims to balance human development with the imperative of environmental stewardship by valuing natural and ecological capital as essential components of economic systems. This perspective seeks to address the shortcomings of traditional economic models, which often overlook the finite nature of ecological resources and ecosystem services.

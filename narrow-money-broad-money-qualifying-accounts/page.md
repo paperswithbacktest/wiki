@@ -1,6 +1,15 @@
 ---
-title: "Narrow Money and Broad Money: Differences and Qualifying Accounts (Algo Trading)"
-description: "Understand the crucial differences between narrow and broad money, along with the impact of algorithmic trading in today's economy. Narrow money includes the most liquid assets like physical currency and demand deposits, while broad money incorporates more diverse financial instruments and deposits for a complete view of a country's money supply. These classifications influence economic policies and investments. The role of algorithmic trading is significant, utilizing advanced technology to efficiently respond to money supply changes, impacting market trends and liquidity. Explore how these elements enhance investment strategies and economic policy evaluation."
+category: quant_concept
+description: Understand the crucial differences between narrow and broad money, along
+  with the impact of algorithmic trading in today's economy. Narrow money includes
+  the most liquid assets like physical currency and demand deposits, while broad money
+  incorporates more diverse financial instruments and deposits for a complete view
+  of a country's money supply. These classifications influence economic policies and
+  investments. The role of algorithmic trading is significant, utilizing advanced
+  technology to efficiently respond to money supply changes, impacting market trends
+  and liquidity. Explore how these elements enhance investment strategies and economic
+  policy evaluation.
+title: 'Narrow Money and Broad Money: Differences and Qualifying Accounts (Algo Trading)'
 ---
 
 In today's financial landscape, understanding the distinctions between broad money, narrow money, and the role of algorithmic trading is vital for investors and policymakers alike. Money supply classifications are fundamental in determining the amount of liquidity and cash flow available within an economy. Narrow money, typically referred to as M1, consists of physical currency and demand deposits, providing a snapshot of the most liquid forms of money. In contrast, broad money includes various forms of deposits and financial instruments beyond M1, such as savings and time deposits, expanding the view to encompass the total money supply within an economy. This broader view integrates classifications like M2, M3, and potentially up to M4, each encompassing progressively less liquid components of the money supply.

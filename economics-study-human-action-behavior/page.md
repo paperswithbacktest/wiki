@@ -1,6 +1,8 @@
 ---
-title: "Economics and the Study of Human Action and Behavior (Algo Trading)"
-description: "Explore the intersection of human behavior and economics in algorithmic trading to enhance decision-making strategies by integrating psychological insights."
+category: quant_concept
+description: Explore the intersection of human behavior and economics in algorithmic
+  trading to enhance decision-making strategies by integrating psychological insights.
+title: Economics and the Study of Human Action and Behavior (Algo Trading)
 ---
 
 Economics is fundamentally connected to human behavior and the decisions individuals make. Traditionally, economic theories have relied on the concept of rational actors—individuals who make decisions aimed at maximizing their utility based on available information and resources. However, this assumption often fails to capture the complexities and nuances of actual human behavior. Recent advancements in behavioral economics refocus attention on the ways psychological factors and cognitive biases can influence economic decisions, thereby challenging the notion of pure rationality. For instance, individuals may act irrationally due to biases such as overconfidence, anchoring, or herd behavior. These insights have critical implications when assessing market dynamics and devising trading strategies.

@@ -1,6 +1,9 @@
 ---
-title: "Recovery Property: Definition and Mechanism (Algo Trading)"
-description: "Explore the pivotal role of recovery properties in real estate investments and algorithmic trading Discover strategies to optimize returns and mitigate market risks"
+category: quant_concept
+description: Explore the pivotal role of recovery properties in real estate investments
+  and algorithmic trading Discover strategies to optimize returns and mitigate market
+  risks
+title: 'Recovery Property: Definition and Mechanism (Algo Trading)'
 ---
 
 The real estate market operates in well-documented cycles, characterized by fluctuations that present both risks and opportunities for investors. These cycles include phases of recovery, expansion, hyper supply, and recession, each with distinct economic and investment implications. Understanding and navigating these cycles is crucial for investors aiming to optimize their portfolios and mitigate risks associated with market volatility.

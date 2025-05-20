@@ -1,6 +1,9 @@
 ---
-title: "Account Reconciliation (Algo Trading)"
-description: "Integrating accounting, reconciliation, and algorithmic trading is essential for streamlined financial management and decision-making in today's digital finance landscape."
+category: quant_concept
+description: Integrating accounting, reconciliation, and algorithmic trading is essential
+  for streamlined financial management and decision-making in today's digital finance
+  landscape.
+title: Account Reconciliation (Algo Trading)
 ---
 
 In today's fast-paced financial world, the integration of accounting, financial management, reconciliation, and algorithmic trading is essential for success. These interconnected disciplines play a critical role in enhancing financial operations and informing strategic decision-making. Accounting serves as the foundational element, offering a structured record of financial transactions, assets, and liabilities. In turn, financial management utilizes this data to plan, organize, control, and monitor a company's resources, ensuring optimized financial performance.

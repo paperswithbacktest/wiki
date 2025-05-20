@@ -1,7 +1,8 @@
 ---
-title: Key Methods and Challenges in Offline Reinforcement Learning
+category: quant_concept
 description: Explore key offline reinforcement learning algorithms like Decision Transformer
   and IQL to improve decision making from fixed data Discover more inside
+title: Key Methods and Challenges in Offline Reinforcement Learning
 ---
 
 ![Image](images/1.png)

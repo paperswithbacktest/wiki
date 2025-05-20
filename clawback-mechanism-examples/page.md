@@ -1,6 +1,9 @@
 ---
-title: "Clawback Mechanism and Examples (Algo Trading)"
-description: "Explore the significance of compensation clawbacks in finance and algorithmic trading as mechanisms for risk mitigation and aligning executive interests with company goals."
+category: quant_concept
+description: Explore the significance of compensation clawbacks in finance and algorithmic
+  trading as mechanisms for risk mitigation and aligning executive interests with
+  company goals.
+title: Clawback Mechanism and Examples (Algo Trading)
 ---
 
 In the fast-evolving world of finance, certain terms and concepts such as 'compensation clawback', 'finance', and 'algorithmic trading' have gained considerable prominence. Compensation clawbacks are mechanisms through which companies can reclaim bonuses, stock options, or other incentives from employees, typically in response to misconduct or errors that negatively impact the organization. These clawbacks are particularly significant in financial services where they serve to protect company interests and encourage ethical behavior.

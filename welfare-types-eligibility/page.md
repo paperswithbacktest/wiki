@@ -1,6 +1,9 @@
 ---
-title: "Welfare: Types and Eligibility (Algo Trading)"
-description: "Explore how welfare systems and algorithmic trading intersect within socio-economic and financial realms examining welfare types eligibility and trading's market impact."
+category: quant_concept
+description: Explore how welfare systems and algorithmic trading intersect within
+  socio-economic and financial realms examining welfare types eligibility and trading's
+  market impact.
+title: 'Welfare: Types and Eligibility (Algo Trading)'
 ---
 
 The interplay between welfare systems and algorithmic trading underscores critical aspects of modern socio-economic and financial landscapes. This article investigates the characteristics of welfare systems, establishing key frameworks that determine the eligibility and distribution of social aid programs, and the ways algorithmic trading facilitates operations within financial markets.

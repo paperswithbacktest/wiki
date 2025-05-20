@@ -1,6 +1,13 @@
 ---
-title: "Labor Productivity: Overview, Calculation Methods, and Improvement Techniques (Algo Trading)"
-description: "Discover strategies and methods for calculating and improving labor productivity in an ever-evolving economic landscape. This article explores the impact of productivity on economic growth, highlighting its significance in policy formulation and business profitability. Learn how algorithmic trading enhances productivity, the role of technology, and how businesses can achieve growth through efficient processes and skill development."
+category: quant_concept
+description: Discover strategies and methods for calculating and improving labor productivity
+  in an ever-evolving economic landscape. This article explores the impact of productivity
+  on economic growth, highlighting its significance in policy formulation and business
+  profitability. Learn how algorithmic trading enhances productivity, the role of
+  technology, and how businesses can achieve growth through efficient processes and
+  skill development.
+title: 'Labor Productivity: Overview, Calculation Methods, and Improvement Techniques
+  (Algo Trading)'
 ---
 
 In today's rapidly evolving economic landscape, understanding productivity is more crucial than ever. Productivity, a fundamental driver of economic efficiency and growth, encompasses a spectrum of concepts, including individual labor productivity and total factor productivity. These concepts significantly impact economic dynamics, influencing both macroeconomic factors like GDP and microeconomic factors such as business profitability.

@@ -1,6 +1,8 @@
 ---
-title: "Impact of Stock Splits on Cash Dividends (Algo Trading)"
-description: "Explore how stock splits and cash dividends influence shareholder value and algorithmic trading strategies, impacting investor perceptions and market dynamics."
+category: quant_concept
+description: Explore how stock splits and cash dividends influence shareholder value
+  and algorithmic trading strategies, impacting investor perceptions and market dynamics.
+title: Impact of Stock Splits on Cash Dividends (Algo Trading)
 ---
 
 Shareholder value is a critical metric in assessing a company's success and the return on investment it provides to its shareholders. Corporate actions such as stock splits and cash dividends significantly influence this value, thereby impacting investor decisions and market perceptions. A stock split increases the number of a company's outstanding shares while concurrently reducing the price per share, making them potentially more attractive to a broader range of investors without affecting the company's overall market capitalization. Conversely, cash dividends serve as a direct payout to shareholders, reflecting a company's profitability and its willingness to share profits with its investors.

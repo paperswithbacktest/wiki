@@ -1,6 +1,8 @@
 ---
-title: "Asset-Backed Commercial Paper (Algo Trading)"
-description: "Explore asset-backed commercial paper and its role in short-term financing Discover how algorithmic trading impacts these securities and enhances market efficiency"
+category: quant_concept
+description: Explore asset-backed commercial paper and its role in short-term financing
+  Discover how algorithmic trading impacts these securities and enhances market efficiency
+title: Asset-Backed Commercial Paper (Algo Trading)
 ---
 
 Commercial paper (CP) and asset-backed commercial papers (ABCPs) are key components in the landscape of short-term financing. Commercial paper is defined as an unsecured, short-term debt instrument issued by corporations to finance their immediate operational needs, such as inventory purchase and payroll, with maturity terms typically ranging from 1 to 270 days.<sup>[1](https://www.investopedia.com/terms/c/commercialpaper.asp)</sup> In contrast, ABCPs are variants of commercial paper backed by financial assets, which might include receivables, mortgage loans, or other forms of collateral. These financial instruments are primarily designed to meet short-term liquidity requirements for borrowers while offering diversification of funding sources.

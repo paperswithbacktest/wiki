@@ -1,6 +1,9 @@
 ---
-title: "Issuance of Convertible Bonds by Private Corporations (Algo Trading)"
-description: "Explore how private corporations leverage convertible bonds to balance debt and equity while algorithmic trading enhances market efficiency and investor opportunities."
+category: quant_concept
+description: Explore how private corporations leverage convertible bonds to balance
+  debt and equity while algorithmic trading enhances market efficiency and investor
+  opportunities.
+title: Issuance of Convertible Bonds by Private Corporations (Algo Trading)
 ---
 
 Convertible bonds represent a distinctive category of financial instruments utilized within corporate finance, characterized by their capacity to blend aspects of both debt and equity. These instruments enable corporations to raise capital while offering investors structured investment opportunities. Convertible bonds issue fixed-interest payments akin to traditional bonds but also provide the option for conversion into a predetermined number of corporate shares, which offers opportunities for capital appreciation.

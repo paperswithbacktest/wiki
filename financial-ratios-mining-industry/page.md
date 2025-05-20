@@ -1,6 +1,11 @@
 ---
-title: "Financial Ratios in the Mining Industry (Algo Trading)"
-description: "Explore the financial vitality of the mining industry through essential ratios that evaluate operational efficiency and profitability. Delve into how these financial metrics, along with algorithmic trading, enhance investment strategies, offering insights into a sector crucial to economic growth amidst commodity price fluctuations."
+category: quant_concept
+description: Explore the financial vitality of the mining industry through essential
+  ratios that evaluate operational efficiency and profitability. Delve into how these
+  financial metrics, along with algorithmic trading, enhance investment strategies,
+  offering insights into a sector crucial to economic growth amidst commodity price
+  fluctuations.
+title: Financial Ratios in the Mining Industry (Algo Trading)
 ---
 
 The mining industry serves as a cornerstone of the global economy, providing essential raw materials that are integral to various sectors, including construction, technology, energy, and manufacturing. From ancient civilizations utilizing rudimentary techniques to modern operations employing advanced technologies, mining has persistently contributed to economic growth and development. Renowned for its capability to spur economic activity, the industry remains a magnet for investors seeking opportunities for significant returns, propelled by the continuous demand for resources vital to technological and infrastructural advancements.

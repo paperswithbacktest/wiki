@@ -1,6 +1,10 @@
 ---
-title: "Impact of Removal From the S&P 500 Index (Algo Trading)"
-description: "Explore the significant impact of stock removal from the S&P 500 index, a key benchmark representing major U.S. companies’ performance. Understand the criteria for inclusion and exclusion, and how algorithmic trading reacts to these changes, affecting market dynamics, stock prices, and investment strategies."
+category: quant_concept
+description: Explore the significant impact of stock removal from the S&P 500 index,
+  a key benchmark representing major U.S. companies’ performance. Understand the criteria
+  for inclusion and exclusion, and how algorithmic trading reacts to these changes,
+  affecting market dynamics, stock prices, and investment strategies.
+title: Impact of Removal From the S&P 500 Index (Algo Trading)
 ---
 
 The S&P 500, formally known as the Standard & Poor's 500, is a stock market index that tracks the stock performance of 500 of the largest companies listed on stock exchanges in the United States. It is one of the most commonly followed equity indices and is used as a benchmark for the overall health of the U.S. equity market. The S&P 500's importance lies in its diverse representation of various industries and its role as a barometer for the economy. As a market-capitalization-weighted index, companies with higher market valuations have a more significant impact on the index's performance. 

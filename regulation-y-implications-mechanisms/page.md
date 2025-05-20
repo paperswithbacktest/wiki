@@ -1,6 +1,9 @@
 ---
-title: "Regulation Y: Implications and Mechanisms (Algo Trading)"
-description: "Explore Regulation Y's impact on bank governance and its relevance to algorithmic trading Risk management and capital adequacy align trading with regulatory standards"
+category: quant_concept
+description: Explore Regulation Y's impact on bank governance and its relevance to
+  algorithmic trading Risk management and capital adequacy align trading with regulatory
+  standards
+title: 'Regulation Y: Implications and Mechanisms (Algo Trading)'
 ---
 
 The financial landscape is continually evolving, driven by technological innovations and regulatory measures that shape market dynamics. Among these, Regulation Y, enforced by the Federal Reserve Board, has emerged as a critical framework for maintaining corporate governance within bank holding companies and state-member banks. Its significance lies not only in ensuring the operational safety and soundness of these institutions but also in upholding broader financial stability.

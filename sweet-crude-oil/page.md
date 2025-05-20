@@ -1,6 +1,9 @@
 ---
-title: "Sweet Crude Oil (Algo Trading)"
-description: "Explore the crucial role of sweet crude oil in global energy with insights into refining processes and algorithmic trading strategies that optimize market dynamics."
+category: quant_concept
+description: Explore the crucial role of sweet crude oil in global energy with insights
+  into refining processes and algorithmic trading strategies that optimize market
+  dynamics.
+title: Sweet Crude Oil (Algo Trading)
 ---
 
 Sweet crude oil plays a crucial role in the global energy economy due to its low sulfur content, which makes it easier and more cost-effective to refine than sour crude oil. As one of the most sought-after forms of crude, sweet crude oil is exemplified by types like West Texas Intermediate (WTI), which serves as a prominent benchmark in oil pricing and trading worldwide. Refining sweet crude oil involves a series of complex chemical processes aimed at transforming this raw material into various usable products, such as gasoline and diesel, which are essential for transportation and industrial operations.

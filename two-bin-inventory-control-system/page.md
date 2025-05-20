@@ -1,6 +1,12 @@
 ---
-title: "Two-Bin Inventory Control System (Algo Trading)"
-description: "Discover how the Two-Bin Inventory Control System streamlines inventory management by preventing stockouts and reducing excess with effective reordering strategies. This article explores its compatibility with Just-in-Time principles and its innovative application in algorithmic trading. Learn how this simple yet powerful system can enhance efficiency by maintaining continuous inventory flow and offering clear cues for timely replenishment."
+category: trading_strategy
+description: Discover how the Two-Bin Inventory Control System streamlines inventory
+  management by preventing stockouts and reducing excess with effective reordering
+  strategies. This article explores its compatibility with Just-in-Time principles
+  and its innovative application in algorithmic trading. Learn how this simple yet
+  powerful system can enhance efficiency by maintaining continuous inventory flow
+  and offering clear cues for timely replenishment.
+title: Two-Bin Inventory Control System (Algo Trading)
 ---
 
 Inventory management plays a pivotal role in ensuring the smooth functioning of supply chains across numerous industries. Effective management of inventory directly influences the ability of a business to meet customer demands while optimizing operational costs. Among the various inventory control methods, the two-bin system stands out as a streamlined approach designed to mitigate the risks associated with stockouts and overstocks. By maintaining a simple yet effective mechanism, the two-bin system divides inventory into two distinct bins: one for active use and another for reserve stock. This arrangement allows for the seamless transition of inventory use from the working bin to the reserve bin upon depletion, thereby triggering a timely reorder to replenish stock levels.

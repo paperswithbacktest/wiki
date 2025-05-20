@@ -1,6 +1,9 @@
 ---
-title: "Hong Kong SAR, China: Role in Global Finance (Algo Trading)"
-description: "Explore how Hong Kong SAR plays a pivotal role in global finance and algorithmic trading with its strategic location robust legal framework and advanced infrastructure."
+category: quant_concept
+description: Explore how Hong Kong SAR plays a pivotal role in global finance and
+  algorithmic trading with its strategic location robust legal framework and advanced
+  infrastructure.
+title: 'Hong Kong SAR, China: Role in Global Finance (Algo Trading)'
 ---
 
 Hong Kong Special Administrative Region (SAR) has established itself as a pivotal player in the global financial landscape. Its strategic location, robust legal framework, and sophisticated infrastructure contribute to its status as a leading international financial center. With an open economy and a deep capital market, Hong Kong serves as a vital bridge between mainland China and the rest of the world, attracting a multitude of investors and financial institutions. The Hong Kong Stock Exchange (HKEX), one of the largest in the world, underscores the region’s prominence, facilitating substantial amounts of trading activity annually.

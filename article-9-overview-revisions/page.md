@@ -1,6 +1,9 @@
 ---
-title: "Article 9: Overview and Revisions (Algo Trading)"
-description: "Explore the significance of UCC Article 9, focusing on its impact on algorithmic trading. Understand revisions that address trading complexities and enhance regulatory compliance."
+category: quant_concept
+description: Explore the significance of UCC Article 9, focusing on its impact on
+  algorithmic trading. Understand revisions that address trading complexities and
+  enhance regulatory compliance.
+title: 'Article 9: Overview and Revisions (Algo Trading)'
 ---
 
 Article 9 of the Uniform Commercial Code (UCC) holds significant importance as it outlines the framework governing secured transactions within financial markets. Its provisions are crucial for maintaining the orderly conduct of trading activities, particularly in securities and derivatives. Over the years, advancements in technology have catalyzed the emergence and widespread adoption of algorithmic trading (often abbreviated as algo trading), a method that involves the use of computer algorithms to execute trades at speeds and frequencies that are beyond human capabilities.

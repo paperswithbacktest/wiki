@@ -1,6 +1,9 @@
 ---
-title: "Financial Technologies India Limited (Algo Trading)"
-description: "Discover how Financial Technologies (India) Ltd leads India's tech-driven trading evolution, pioneering innovations in algorithmic trading for enhanced market efficiency."
+category: quant_concept
+description: Discover how Financial Technologies (India) Ltd leads India's tech-driven
+  trading evolution, pioneering innovations in algorithmic trading for enhanced market
+  efficiency.
+title: Financial Technologies India Limited (Algo Trading)
 ---
 
 The financial sector in India is experiencing significant transformation through the integration of cutting-edge technologies. At the forefront of this technological revolution is Financial Technologies (India) Ltd (FTIL), a pioneering force particularly recognized for its contributions to algorithmic trading. Algorithmic trading, characterized by the use of complex algorithms to make automated trading decisions, has revolutionized how financial transactions are executed, providing speed and accuracy amidst vast amounts of data.

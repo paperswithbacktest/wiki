@@ -1,6 +1,8 @@
 ---
-title: "SEC Form 40-F Overview (Algo Trading)"
-description: "Discover the importance of SEC Form 40-F for Canadian firms in U.S. markets and its role in financial reporting and algorithmic trading efficiency."
+category: quant_concept
+description: Discover the importance of SEC Form 40-F for Canadian firms in U.S. markets
+  and its role in financial reporting and algorithmic trading efficiency.
+title: SEC Form 40-F Overview (Algo Trading)
 ---
 
 In the constantly evolving world of finance, having a comprehensive understanding of financial regulations and reporting requirements is crucial, especially for Canadian companies engaging with U.S. markets. One key regulatory requirement is the SEC Form 40-F, which serves as a cornerstone for Canadian firms that issue securities in the United States. This form not only ensures compliance with U.S. Securities and Exchange Commission (SEC) regulations but also plays a pivotal role in maintaining transparency and providing detailed financial information to investors.

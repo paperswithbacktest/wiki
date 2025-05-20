@@ -1,6 +1,8 @@
 ---
-title: "Exponential Moving Average: Usage and Formula (Algo Trading)"
-description: "Explore the usage and formula of the Exponential Moving Average in algorithmic trading Its dynamic calculation aids in trend analysis and trade efficacy"
+category: quant_concept
+description: Explore the usage and formula of the Exponential Moving Average in algorithmic
+  trading Its dynamic calculation aids in trend analysis and trade efficacy
+title: 'Exponential Moving Average: Usage and Formula (Algo Trading)'
 ---
 
 Algorithmic trading has transformed the financial markets by leveraging sophisticated tools and strategies to make informed decisions. At the core of many successful trading systems lies a suite of technical indicators, with the Exponential Moving Average (EMA) being one of the most favored by professionals and enthusiasts alike. The EMA is renowned for its ability to highlight trends in price data, offering traders a dynamic view of market behavior.

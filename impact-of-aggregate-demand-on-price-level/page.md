@@ -1,6 +1,8 @@
 ---
-title: "Impact of Aggregate Demand on Price Level (Algo Trading)"
-description: "Explore the impact of aggregate demand on price levels and its significance in algorithmic trading with insights into economic theory and market strategies."
+category: quant_concept
+description: Explore the impact of aggregate demand on price levels and its significance
+  in algorithmic trading with insights into economic theory and market strategies.
+title: Impact of Aggregate Demand on Price Level (Algo Trading)
 ---
 
 The interconnection between aggregate demand, price level, economic theory, and algorithmic trading creates a complex framework that significantly impacts financial markets. Aggregate demand, referring to the total demand for goods and services within an economy, and price level, indicating the average of current prices, are fundamental concepts in macroeconomic theory. These elements are pivotal in determining the equilibrium in the economy, influencing everything from consumer spending to monetary policy.

@@ -1,6 +1,8 @@
 ---
-title: "Knock-In Options and Their Types (Algo Trading)"
-description: "Explore the strategic benefits of knock-in options in algo trading Discover how these barrier options offer cost-effective ways to target specific market scenarios"
+category: quant_concept
+description: Explore the strategic benefits of knock-in options in algo trading Discover
+  how these barrier options offer cost-effective ways to target specific market scenarios
+title: Knock-In Options and Their Types (Algo Trading)
 ---
 
 Derivative trading plays an essential role in today's financial markets, providing sophisticated tools for hedging risks and pursuing speculative opportunities. As traders and investors seek to optimize their market strategies, knock-in options have emerged as a noteworthy instrument for gaining conditional exposure to price movements. These options are a subclass of barrier options, distinct for their activation feature which is dependent upon the underlying asset reaching specific price levels. The appeal of knock-in options lies in their ability to provide strategic benefits under particular market conditions, while generally offering lower premiums than standard vanilla options.

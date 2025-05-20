@@ -1,6 +1,9 @@
 ---
-title: "Top Vanguard Funds for Value Investing (Algo Trading)"
-description: "Discover top Vanguard funds ideal for value investing enhanced by algorithmic trading insights Achieve your long-term financial goals with lower costs and strategic growth"
+category: trading_strategy
+description: Discover top Vanguard funds ideal for value investing enhanced by algorithmic
+  trading insights Achieve your long-term financial goals with lower costs and strategic
+  growth
+title: Top Vanguard Funds for Value Investing (Algo Trading)
 ---
 
 Value investing is a strategic approach in financial markets focused on identifying and acquiring stocks that are believed to be undervalued by the market. This strategy is grounded in the principle that the intrinsic value of a stock is not always reflected in its current market price, presenting opportunities for investors to purchase at a discount. Over time, as the market adjusts to recognize the true value of these stocks, investors can potentially realize significant long-term gains.

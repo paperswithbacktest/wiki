@@ -1,6 +1,9 @@
 ---
-title: "Ability of Individual Investors to Outperform the Market (Algo Trading)"
-description: "Discover how individual investors can leverage algorithmic trading to potentially outperform the market exploring strategies and the impacts of emotional biases."
+category: trading_strategy
+description: Discover how individual investors can leverage algorithmic trading to
+  potentially outperform the market exploring strategies and the impacts of emotional
+  biases.
+title: Ability of Individual Investors to Outperform the Market (Algo Trading)
 ---
 
 In recent years, the financial markets have experienced a notable increase in the involvement of individual investors. This shift can be largely attributed to advancements in technology that have democratized access to trading, enabling a broader section of the population to participate in financial markets. Online platforms and mobile applications have significantly lowered the barriers to entry, allowing individual investors to trade with ease and obtain real-time data and analysis tools previously accessible only to institutional investors.

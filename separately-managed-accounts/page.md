@@ -1,6 +1,14 @@
 ---
-title: "Separately Managed Accounts (Algo Trading)"
-description: "Explore the transformative world of investment management with a focus on separately managed accounts and algorithmic trading. Discover how managed portfolios and personalized asset management are reshaping financial planning by offering diversified, professionally overseen investment solutions tailored to individual goals and risk tolerances. Learn about the role of investment accounts and how algorithmic trading leverages complex algorithms for efficiency in trade execution. This comprehensive overview provides expert insights to help investors navigate and harness modern financial strategies for optimal outcomes in an evolving market landscape."
+category: trading_strategy
+description: Explore the transformative world of investment management with a focus
+  on separately managed accounts and algorithmic trading. Discover how managed portfolios
+  and personalized asset management are reshaping financial planning by offering diversified,
+  professionally overseen investment solutions tailored to individual goals and risk
+  tolerances. Learn about the role of investment accounts and how algorithmic trading
+  leverages complex algorithms for efficiency in trade execution. This comprehensive
+  overview provides expert insights to help investors navigate and harness modern
+  financial strategies for optimal outcomes in an evolving market landscape.
+title: Separately Managed Accounts (Algo Trading)
 ---
 
 Investment management has drastically transformed with the advancement of technology, offering investors a wider array of strategic tools to enhance their portfolios. At the heart of these strategies are managed portfolios, personalized asset management, investment accounts, and algorithmic trading—each playing a crucial role in modern financial planning.

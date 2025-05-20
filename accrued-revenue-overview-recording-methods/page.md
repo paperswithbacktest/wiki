@@ -1,6 +1,8 @@
 ---
-title: "Accrued Revenue: Overview and Recording Methods (Algo Trading)"
-description: "Learn about accrued revenue and its crucial role in accrual accounting for algo trading Discover methods to record it and how it influences financial statements"
+category: quant_concept
+description: Learn about accrued revenue and its crucial role in accrual accounting
+  for algo trading Discover methods to record it and how it influences financial statements
+title: 'Accrued Revenue: Overview and Recording Methods (Algo Trading)'
 ---
 
 Accrual accounting is a foundational element of financial recording practices, especially prominent in sectors such as algorithmic trading where transaction timing and precision are vital. This approach to accounting ensures that financial statements reflect the financial position of a company accurately by recording revenues and expenses when they are incurred, regardless of when cash transactions occur. Such precision is crucial in algorithmic trading, which relies on automated and high-frequency decision-making processes that necessitate precise financial data to optimize trading strategies.

@@ -1,10 +1,9 @@
 ---
-title: Understanding Positional Encoding in Transformer Models
+category: quant_concept
 description: Positional encoding helps transformer models understand word order via
   sinusoidal and learned methods to improve sequence insight Discover more inside.
+title: Understanding Positional Encoding in Transformer Models
 ---
-
-
 
 ## Table of Contents
 

@@ -1,6 +1,9 @@
 ---
-title: "Overview of Strategic Petroleum Reserves (Algo Trading)"
-description: "Explore the role of Strategic Petroleum Reserves and algorithmic trading in enhancing energy security by maintaining economic stability amidst global market shifts."
+category: trading_strategy
+description: Explore the role of Strategic Petroleum Reserves and algorithmic trading
+  in enhancing energy security by maintaining economic stability amidst global market
+  shifts.
+title: Overview of Strategic Petroleum Reserves (Algo Trading)
 ---
 
 As the global energy landscape continues to evolve, ensuring energy security has emerged as a critical priority for nations and industries alike. Energy security, defined as the uninterrupted availability of energy sources at an affordable price, is essential for economic stability and growth. Several factors contribute to achieving this security, with oil storage, strategic petroleum reserves, and technological advancements such as algorithmic trading playing crucial roles.

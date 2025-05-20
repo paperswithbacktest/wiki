@@ -1,6 +1,9 @@
 ---
-title: "Liabilities on a Balance Sheet (Algo Trading)"
-description: "Explore the impact of balance sheet liabilities on algorithmic trading strategies to gain a competitive edge by understanding financial commitments and risks."
+category: quant_concept
+description: Explore the impact of balance sheet liabilities on algorithmic trading
+  strategies to gain a competitive edge by understanding financial commitments and
+  risks.
+title: Liabilities on a Balance Sheet (Algo Trading)
 ---
 
 In the rapidly evolving world of finance, understanding essential accounting principles is crucial for individuals and businesses alike. Among these principles, the balance sheet stands out as one of the foundational financial statements, providing a structured representation of a company's financial health at a given point in time. It is divided into three primary components: assets, liabilities, and equity. Liabilities, as a key component, represent the debts and obligations owed to external entities, such as suppliers, banks, and other creditors. These liabilities are categorized into current liabilities, due within a year, and long-term liabilities, which extend beyond a year. This categorization is vital for evaluating a company's financial flexibility and risk profile.

@@ -1,6 +1,8 @@
 ---
-title: "Calculating CAGR in Excel (Algo Trading)"
-description: "Learn how to calculate CAGR in Excel for accurate investment growth analysis, crucial for optimizing portfolios and enhancing algorithmic trading strategies."
+category: quant_concept
+description: Learn how to calculate CAGR in Excel for accurate investment growth analysis,
+  crucial for optimizing portfolios and enhancing algorithmic trading strategies.
+title: Calculating CAGR in Excel (Algo Trading)
 ---
 
 Understanding the importance of measuring investment growth accurately is crucial for investors looking to optimize their portfolios. The Compound Annual Growth Rate (CAGR) serves as a fundamental metric to evaluate the growth of investments over time. CAGR offers a clear picture of the investment's performance by providing an annualized rate of return that smooths out volatility, making it particularly useful for comparison among various investment opportunities.

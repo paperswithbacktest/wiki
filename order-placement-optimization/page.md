@@ -1,6 +1,8 @@
 ---
-title: "Order placement optimization (Algo Trading)"
-description: "Enhance your understanding of order placement optimization in algorithmic trading to boost profits by minimizing costs with strategic and timely execution."
+category: quant_concept
+description: Enhance your understanding of order placement optimization in algorithmic
+  trading to boost profits by minimizing costs with strategic and timely execution.
+title: Order placement optimization (Algo Trading)
 ---
 
 Algorithmic trading refers to the use of computer algorithms to automate the process of executing trades in financial markets. This approach leverages complex mathematical models and data analysis to decide on the timing, price, and amount for buying and selling financial securities. The significance of algorithmic trading in financial markets has grown exponentially due to its capability to process large volumes of data rapidly and execute trades at speeds that are unachievable by human traders. This automation not only enhances the efficiency of the markets but also provides traders with the ability to implement sophisticated trading strategies that can be precisely timed and executed.

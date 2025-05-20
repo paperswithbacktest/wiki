@@ -1,6 +1,8 @@
 ---
-title: "Business Economics and Types (Algo Trading)"
-description: "Explore the fusion of business economics and algorithmic trading to optimize profits. Learn how economic principles enhance trading strategies and market alignment."
+category: quant_concept
+description: Explore the fusion of business economics and algorithmic trading to optimize
+  profits. Learn how economic principles enhance trading strategies and market alignment.
+title: Business Economics and Types (Algo Trading)
 ---
 
 The convergence of business economics and algorithmic trading represents a remarkable fusion of economic theory and technological advancement. Business economics, with its focus on understanding corporate behavior, market dynamics, and decision-making processes, provides a theoretical backbone essential for structuring algorithmic trading systems designed to optimize profits. In this rapidly evolving landscape, mastering the economic principles underlying business operations can significantly enhance the effectiveness of algorithmic trading approaches.

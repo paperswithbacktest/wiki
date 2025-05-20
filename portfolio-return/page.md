@@ -1,6 +1,9 @@
 ---
-title: "Portfolio Return (Algo Trading)"
-description: "Explore the impact of algorithmic trading on portfolio returns and management. Learn how leveraging automation enhances investment precision and strategy in real-time markets."
+category: trading_strategy
+description: Explore the impact of algorithmic trading on portfolio returns and management.
+  Learn how leveraging automation enhances investment precision and strategy in real-time
+  markets.
+title: Portfolio Return (Algo Trading)
 ---
 
 In finance, effective portfolio management and investment returns stand as key pillars for investors aiming to achieve their financial objectives. At the forefront of this transformation is algorithmic trading, often referred to as algo trading, which leverages sophisticated automated systems for making informed and rapid investment decisions. Algo trading has significantly changed how portfolios are managed by enhancing precision and execution speed, thereby enabling investors to strategically adjust their holdings according to real-time market conditions.

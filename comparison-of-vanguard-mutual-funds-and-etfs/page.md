@@ -1,6 +1,11 @@
 ---
-title: "Comparison of Vanguard Mutual Funds and Vanguard ETFs (Algo Trading)"
-description: "Explore the differences between Vanguard mutual funds and ETFs, highlighting their roles in investment strategies with a focus on algorithmic trading. Understand how Vanguard's cost-effective options provide diversification and liquidity, bolstering investor portfolios. Learn about algorithmic trading's impact, offering speed and efficiency in modern financial markets."
+category: trading_strategy
+description: Explore the differences between Vanguard mutual funds and ETFs, highlighting
+  their roles in investment strategies with a focus on algorithmic trading. Understand
+  how Vanguard's cost-effective options provide diversification and liquidity, bolstering
+  investor portfolios. Learn about algorithmic trading's impact, offering speed and
+  efficiency in modern financial markets.
+title: Comparison of Vanguard Mutual Funds and Vanguard ETFs (Algo Trading)
 ---
 
 Vanguard, established in 1975 by John C. Bogle, is a leading financial services company known for its significant role in the investment industry. It offers a diverse range of investment products, notably Exchange Traded Funds (ETFs) and mutual funds, which have become integral tools for investors aiming to diversify portfolios and achieve specific financial goals. Vanguard's emphasis on low-cost, efficient investment options has made it a trusted brand among both individual and institutional investors worldwide.

@@ -1,6 +1,8 @@
 ---
-title: "Normal Distribution: Characteristics, Applications, and Formula (Algo Trading)"
-description: "Explore the role of normal distribution in algorithmic trading Understand its applications in predicting market behavior and enhancing risk assessment strategies"
+category: quant_concept
+description: Explore the role of normal distribution in algorithmic trading Understand
+  its applications in predicting market behavior and enhancing risk assessment strategies
+title: 'Normal Distribution: Characteristics, Applications, and Formula (Algo Trading)'
 ---
 
 Understanding statistical concepts is fundamental in finance and trading, particularly within the domain of algorithmic trading. This article highlights the importance of normal distribution and probability distribution, essential tools that underpin the decision-making and risk assessment processes crucial to the industry. Normal and probability distributions empower traders to anticipate market movements, evaluate risks, and devise sophisticated strategies that can enhance trading outcomes.

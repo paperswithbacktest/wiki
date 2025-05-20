@@ -1,6 +1,9 @@
 ---
-title: "Breaks in Technical Analysis: Meanings, Measurements, and Examples (Algo Trading)"
-description: "Explore how 'breaks' in technical analysis enhance algorithmic trading strategies Learn the significance of sharp price moves in guiding automated trade decisions"
+category: trading_strategy
+description: Explore how 'breaks' in technical analysis enhance algorithmic trading
+  strategies Learn the significance of sharp price moves in guiding automated trade
+  decisions
+title: 'Breaks in Technical Analysis: Meanings, Measurements, and Examples (Algo Trading)'
 ---
 
 The financial markets are complex ecosystems where technical analysis plays a crucial role in guiding traders. Technical analysis involves the examination of past market data, primarily price and volume, to forecast future price movements. This approach relies on various indicators, patterns, and price movements to make informed trading decisions.

@@ -1,6 +1,8 @@
 ---
-title: "Heritage and Stabilization Fund: Overview and History (Algo Trading)"
-description: "Explore the Heritage and Stabilization Fund of Trinidad and Tobago and how algorithmic trading enhances its economic stability for future generations."
+category: quant_concept
+description: Explore the Heritage and Stabilization Fund of Trinidad and Tobago and
+  how algorithmic trading enhances its economic stability for future generations.
+title: 'Heritage and Stabilization Fund: Overview and History (Algo Trading)'
 ---
 
 The Heritage and Stabilization Fund (HSF) is a crucial fiscal tool for the Republic of Trinidad and Tobago, designed to promote economic stability. Established under the Heritage and Stabilization Act, No. 6 of 2007, the HSF accumulates wealth from surplus revenues primarily derived from the nation's rich hydrocarbon sector, which includes oil and natural gas. This sector is a significant driver of Trinidad and Tobago's economy, contributing substantially to government revenues. The establishment of the HSF aims to ensure that the windfalls from these non-renewable resources foster sustainable economic growth and development.

@@ -1,6 +1,14 @@
 ---
-title: "Hazard Rate Calculation and Example (Algo Trading)"
-description: "Explore the concept of hazard rate in survival and reliability analyses vital for industries like healthcare engineering and finance enhancing risk management and decision-making. This page investigates into the hazard rate's role in modeling risk the principles of survival analysis and its applications in predicting time-to-event occurrences in various fields. Discover how algorithmic trading benefits from these analyses for improved market prediction and strategy optimization. Gain insights into statistical methodologies like Kaplan-Meier estimates and Cox models highlighting their significance in interpreting risk dynamics and enhancing operational efficiency."
+category: quant_concept
+description: Explore the concept of hazard rate in survival and reliability analyses
+  vital for industries like healthcare engineering and finance enhancing risk management
+  and decision-making. This page investigates into the hazard rate's role in modeling
+  risk the principles of survival analysis and its applications in predicting time-to-event
+  occurrences in various fields. Discover how algorithmic trading benefits from these
+  analyses for improved market prediction and strategy optimization. Gain insights
+  into statistical methodologies like Kaplan-Meier estimates and Cox models highlighting
+  their significance in interpreting risk dynamics and enhancing operational efficiency.
+title: Hazard Rate Calculation and Example (Algo Trading)
 ---
 
 The hazard rate, survival analysis, and reliability analysis are pivotal in multiple industries, forming the backbone of assessments concerning risk, longevity, and performance over time. These analyses are crucial across sectors such as healthcare, engineering, and finance, where understanding the probability of events over time enhances decision-making and operational efficiency. 

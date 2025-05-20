@@ -1,6 +1,12 @@
 ---
-title: "Unemployment Rates in the United States by Presidential Administration (Algo Trading)"
-description: "Explore the link between U.S. presidential policies, unemployment rates, and the transformative impact of algorithmic trading on economic analysis. Understand how different administrations' strategies have addressed job creation and loss, and discover how real-time data interpretation aids investors and policymakers in navigating economic shifts for sustained growth and stability."
+category: dataset
+description: Explore the link between U.S. presidential policies, unemployment rates,
+  and the transformative impact of algorithmic trading on economic analysis. Understand
+  how different administrations' strategies have addressed job creation and loss,
+  and discover how real-time data interpretation aids investors and policymakers in
+  navigating economic shifts for sustained growth and stability.
+title: Unemployment Rates in the United States by Presidential Administration (Algo
+  Trading)
 ---
 
 The intersections between presidential policies, economic statistics, and unemployment can have profound impacts on the U.S. economy. The decisions made within the confines of the Oval Office resonant far beyond politics, touching on the financial well-being of millions of Americans. By analyzing how different U.S. presidents have implemented economic strategies to tackle unemployment, one gains insight into the intricate ties between policy directives and employment figures. This exploration extends from historical administrations to contemporary presidencies, illustrating the varying approaches and outcomes related to job creation and job loss.

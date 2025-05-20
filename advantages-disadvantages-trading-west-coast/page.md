@@ -1,6 +1,8 @@
 ---
-title: "Advantages and Disadvantages of Trading on the West Coast (Algo Trading)"
-description: "Discover the unique advantages and challenges of algorithmic trading from the West Coast including time zone benefits tech access and market proximity."
+category: trading_strategy
+description: Discover the unique advantages and challenges of algorithmic trading
+  from the West Coast including time zone benefits tech access and market proximity.
+title: Advantages and Disadvantages of Trading on the West Coast (Algo Trading)
 ---
 
 Trading from the West Coast of the United States involves a distinctive interplay of advantages and challenges. Despite being separated from the traditional financial power centers of the East Coast by several time zones, traders on the West Coast benefit from advancements in technology, allowing them to access the same trading algorithms used by their counterparts in New York or Chicago. The ability to harness powerful computing capabilities and high-speed internet has effectively leveled the playing field, bridging the geographical gap within the financial trading landscape.

@@ -1,6 +1,9 @@
 ---
-title: "Market Maker Spread: Explanation and Example (Algo Trading)"
-description: "Explore the role of market makers and algorithmic trading in financial markets. Learn how market maker spreads influence trading algorithms for better decisions."
+category: quant_concept
+description: Explore the role of market makers and algorithmic trading in financial
+  markets. Learn how market maker spreads influence trading algorithms for better
+  decisions.
+title: 'Market Maker Spread: Explanation and Example (Algo Trading)'
 ---
 
 The financial markets have undergone significant transformation, underpinned by rapid technological advancements. A key element of this evolution is the role of market makers and algorithmic trading, two powerful forces driving efficiency and liquidity in modern markets. Market makers act as essential intermediaries, providing continuous bid and offer prices for a broad array of securities. This function supports market participants by ensuring they can transact seamlessly at any given moment. Their activity is instrumental in maintaining the flow of trading and contributes to tighter spreads, which in turn reduces market volatility.

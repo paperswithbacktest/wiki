@@ -1,6 +1,8 @@
 ---
-title: "Sell-Side in Financial Markets (Algo Trading)"
-description: "Explore the critical role of sell-side in financial markets focusing on investment banking and algorithmic trading to ensure liquidity and market efficiency."
+category: quant_concept
+description: Explore the critical role of sell-side in financial markets focusing
+  on investment banking and algorithmic trading to ensure liquidity and market efficiency.
+title: Sell-Side in Financial Markets (Algo Trading)
 ---
 
 Financial markets function as platforms for buying and selling financial instruments, such as stocks, bonds, derivatives, and currencies. They are essential for channeling funds from savers to entities requiring capital, thus driving economic growth and innovation. The sell-side of these markets plays a pivotal role by facilitating transactions, providing liquidity, and ensuring market efficiency. This segment includes investment banks, market makers, and broker-dealers, who create and distribute financial products, offer market insights, and guide pricing mechanisms. Their operations help maintain the fluidity and stability of financial exchanges, which is crucial for investor confidence and market vitality.

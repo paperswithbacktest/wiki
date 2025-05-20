@@ -1,6 +1,8 @@
 ---
-title: "Scalp Trading in Forex: Definition and Risks (Algo Trading)"
-description: "Discover the key aspects of forex scalp trading including its definition risks and the impact of algorithmic trading on this fast-paced strategy."
+category: trading_strategy
+description: Discover the key aspects of forex scalp trading including its definition
+  risks and the impact of algorithmic trading on this fast-paced strategy.
+title: 'Scalp Trading in Forex: Definition and Risks (Algo Trading)'
 ---
 
 Forex trading, particularly scalp trading, has garnered immense popularity among traders eager to capitalize on rapid fluctuations in the currency market. This trading style is characterized by its focus on short-term gains, with traders often aiming to exploit minor price movements within very brief timeframes. The method requires considerable skill and unwavering attention to execute numerous trades swiftly, often closing within minutes of opening.

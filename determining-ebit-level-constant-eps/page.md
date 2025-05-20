@@ -1,6 +1,8 @@
 ---
-title: "Determining the EBIT Level for Constant EPS (Algo Trading)"
-description: "Explore algorithmic trading strategies by analyzing Earnings Before Interest and Taxes (EBIT) levels to maintain a constant Earnings Per Share (EPS)."
+category: quant_concept
+description: Explore algorithmic trading strategies by analyzing Earnings Before Interest
+  and Taxes (EBIT) levels to maintain a constant Earnings Per Share (EPS).
+title: Determining the EBIT Level for Constant EPS (Algo Trading)
 ---
 
 Earnings Before Interest and Taxes (EBIT) and Earnings Per Share (EPS) are fundamental financial metrics used extensively in financial analysis to assess corporate performance. EBIT, calculated as total revenue minus operating expenses, serves as a key indicator of a company's operational efficiency independent of its capital structure and tax regime. It provides insights into how well a company generates profits from its core operations, making it a critical metric for evaluating operational profitability.

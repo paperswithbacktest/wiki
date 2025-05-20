@@ -1,6 +1,9 @@
 ---
-title: "Gross National Product Deflator (Algo Trading)"
-description: "Explore the role of macroeconomic indicators and the GNP deflator in algorithmic trading examining how these tools influence market analysis and investment decisions."
+category: quant_concept
+description: Explore the role of macroeconomic indicators and the GNP deflator in
+  algorithmic trading examining how these tools influence market analysis and investment
+  decisions.
+title: Gross National Product Deflator (Algo Trading)
 ---
 
 Macroeconomics is a fundamental field of economic study that examines the overall behavior and performance of an economy. It focuses on large-scale economic indicators and aggregates such as national income, gross domestic product (GDP), and inflation rates. Understanding macroeconomics is crucial for comprehending economic trends and the impacts of fiscal and monetary policy. It provides insights into how economies function at a global scale, offering guidance to policymakers, businesses, and investors.

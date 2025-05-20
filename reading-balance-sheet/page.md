@@ -1,6 +1,8 @@
 ---
-title: "Reading a Balance Sheet (Algo Trading)"
-description: "Discover how balance sheets influence algorithmic trading by providing key insights into financial health assets liabilities and shareholders' equity."
+category: quant_concept
+description: Discover how balance sheets influence algorithmic trading by providing
+  key insights into financial health assets liabilities and shareholders' equity.
+title: Reading a Balance Sheet (Algo Trading)
 ---
 
 In an ever-evolving financial landscape, understanding the nuances of financial statements and their relevance in different sectors is crucial. Among these financial statements, the balance sheet stands out as a central pillar. It provides an organized snapshot of an organization's financial position at a specific point in time. By detailing assets, liabilities, and shareholders' equity, a balance sheet offers a clear picture of what an organization owns, what it owes, and the net amount invested by shareholders.

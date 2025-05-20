@@ -1,6 +1,8 @@
 ---
-title: "Float Shrink: Overview, Mechanism, and Examples (Algo Trading)"
-description: "Explore the dynamics of float shrink in stock trading and learn how it affects market liquidity and investor strategies with algorithmic trading integration."
+category: quant_concept
+description: Explore the dynamics of float shrink in stock trading and learn how it
+  affects market liquidity and investor strategies with algorithmic trading integration.
+title: 'Float Shrink: Overview, Mechanism, and Examples (Algo Trading)'
 ---
 
 The financial world has experienced profound changes with technological innovations and the emergence of new financial mechanisms. A significant development in this landscape is the concept of stock market float shrink. This mechanism involves reducing the number of shares available for trading through various corporate actions such as share buybacks, acquisitions, or reverse stock splits. Float shrink can influence market liquidity, share prices, and overall investor perception.

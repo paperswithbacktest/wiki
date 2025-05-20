@@ -1,6 +1,14 @@
 ---
-title: "M2 Money Supply (Algo Trading)"
-description: "This article investigates into the impact of algorithmic trading on financial markets and its reliance on key economic indicators, with a focus on the M2 money supply. M2 encompasses cash, checking deposits, and near money, playing a crucial role in guiding trading strategies. Understanding M2's influence can enhance trading decisions by providing insights into market liquidity and fluctuations, helping traders and investors navigate economic conditions and optimize outcomes. This piece offers foundational knowledge on M2 and its significance for both traders and the broader economic landscape."
+category: trading_strategy
+description: This article investigates into the impact of algorithmic trading on financial
+  markets and its reliance on key economic indicators, with a focus on the M2 money
+  supply. M2 encompasses cash, checking deposits, and near money, playing a crucial
+  role in guiding trading strategies. Understanding M2's influence can enhance trading
+  decisions by providing insights into market liquidity and fluctuations, helping
+  traders and investors navigate economic conditions and optimize outcomes. This piece
+  offers foundational knowledge on M2 and its significance for both traders and the
+  broader economic landscape.
+title: M2 Money Supply (Algo Trading)
 ---
 
 Algorithmic trading has transformed the landscape of financial markets, delivering unprecedented speed and efficiency that manual trading cannot parallel. With the rise of computational power and sophisticated programming, algorithmic trading systems have become an essential part of trading floors across the globe. These systems rely heavily on a variety of economic indicators to guide their trading strategies, ensuring that their decisions are both timely and informed.

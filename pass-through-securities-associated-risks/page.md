@@ -1,6 +1,12 @@
 ---
-title: "Pass-Through Securities and Associated Risks (Algo Trading)"
-description: "Explore the complexities and risks associated with pass-through securities and algorithmic trading in financial markets. Discover how these instruments function, understand the potential pitfalls like default, prepayment, and systemic risks, and learn strategies to optimize investment decisions while minimizing risks. This article provides insights into the dynamics of modern financial instruments, empowering investors to navigate investments carefully."
+category: quant_concept
+description: Explore the complexities and risks associated with pass-through securities
+  and algorithmic trading in financial markets. Discover how these instruments function,
+  understand the potential pitfalls like default, prepayment, and systemic risks,
+  and learn strategies to optimize investment decisions while minimizing risks. This
+  article provides insights into the dynamics of modern financial instruments, empowering
+  investors to navigate investments carefully.
+title: Pass-Through Securities and Associated Risks (Algo Trading)
 ---
 
 Investing in financial instruments requires an understanding of various risks that can impact the outcome of an investment. These risks are inherent in the products themselves or can be influenced by external market dynamics. Financial instruments span a wide range, from traditional stocks and bonds to more complex entities like pass-through securities and algorithmic trading systems. Each financial instrument comes with its own set of potential pitfalls and benefits, necessitating careful assessment by investors prior to committing capital.

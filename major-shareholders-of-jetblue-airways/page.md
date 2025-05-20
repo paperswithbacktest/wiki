@@ -1,6 +1,8 @@
 ---
-title: "Major Shareholders of JetBlue Airways (Algo Trading)"
-description: "Explore JetBlue Airways' major shareholders and how algo trading influences investment decisions in the aviation industry for strategic financial insights."
+category: dataset
+description: Explore JetBlue Airways' major shareholders and how algo trading influences
+  investment decisions in the aviation industry for strategic financial insights.
+title: Major Shareholders of JetBlue Airways (Algo Trading)
 ---
 
 JetBlue Airways Corporation, a prominent player in the aviation industry, has garnered significant attention from investors and shareholders. The airline's operations are closely watched due to its position in a highly competitive market, where strategic decisions and financial performance are influenced by its ownership structure. Shareholders play a crucial role in shaping the company's future, impacting everything from governance to strategic planning. For stakeholders, understanding these dynamics is essential, as they can significantly affect investment outcomes and company policies.

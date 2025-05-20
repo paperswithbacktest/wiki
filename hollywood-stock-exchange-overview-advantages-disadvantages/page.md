@@ -1,6 +1,8 @@
 ---
-title: "Hollywood Stock Exchange: Overview, Advantages, and Disadvantages (Algo Trading)"
-description: "Explore the Hollywood Stock Exchange a unique virtual platform combining entertainment and finance by trading film assets with virtual currency and algorithms."
+category: trading_strategy
+description: Explore the Hollywood Stock Exchange a unique virtual platform combining
+  entertainment and finance by trading film assets with virtual currency and algorithms.
+title: 'Hollywood Stock Exchange: Overview, Advantages, and Disadvantages (Algo Trading)'
 ---
 
 The Hollywood Stock Exchange (HSX) represents an innovative intersection between the entertainment industry and financial markets through its unique virtual trading platform. Launched as a simulation, HSX allows participants to trade shares of movies, celebrities, and other entertainment-related assets using a virtual currency known as Hollywood Dollars. By turning the success metrics of the film industry into tradable commodities, HSX fosters a dynamic environment for both entertainment enthusiasts and financial strategists. 

@@ -1,6 +1,8 @@
 ---
-title: "Comparison of Bitcoin and Credit Card Transactions (Algo Trading)"
-description: "Explore the pros and cons of Bitcoin versus credit card transactions in algorithmic trading Discover which payment method offers speed and cost efficiency"
+category: quant_concept
+description: Explore the pros and cons of Bitcoin versus credit card transactions
+  in algorithmic trading Discover which payment method offers speed and cost efficiency
+title: Comparison of Bitcoin and Credit Card Transactions (Algo Trading)
 ---
 
 In today's digital economy, the landscape of payment methods has rapidly evolved, presenting a blend of both traditional and innovative solutions. Credit cards, first introduced in the mid-20th century, have long established themselves as a convenient means of payment, offering ease of use for both consumers and merchants. They facilitate borrowing, integrate seamlessly into online and offline systems, and provide additional benefits such as fraud protection and rewards programs. However, credit card transactions often involve several intermediaries, which can introduce higher costs and longer processing times.

@@ -1,6 +1,9 @@
 ---
-title: "Backtesting Trading Strategies (Algo Trading)"
-description: "Backtest your algorithmic trading strategies using historical data for better decision-making and performance evaluation in financial markets with our insights."
+category: trading_strategy
+description: Backtest your algorithmic trading strategies using historical data for
+  better decision-making and performance evaluation in financial markets with our
+  insights.
+title: Backtesting Trading Strategies (Algo Trading)
 ---
 
 In recent years, financial markets have witnessed significant advancements in trading strategies, particularly with the advent of algorithmic trading. Algorithmic trading, commonly referred to as "algo trading," involves the use of complex algorithms to automate trading activities. These algorithms leverage historical data to enhance decision-making processes, enabling traders to execute large orders with speed and precision while minimizing human intervention.

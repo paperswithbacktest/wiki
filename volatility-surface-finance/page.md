@@ -1,6 +1,8 @@
 ---
-title: "Volatility Surface in Finance (Algo Trading)"
-description: "Explore volatility surfaces in finance and their role in options pricing for algorithmic trading Gain insights into derivatives and enhance trading strategies"
+category: quant_concept
+description: Explore volatility surfaces in finance and their role in options pricing
+  for algorithmic trading Gain insights into derivatives and enhance trading strategies
+title: Volatility Surface in Finance (Algo Trading)
 ---
 
 Financial derivatives are intricate financial instruments whose value is derived from one or more underlying assets. These instruments include options, futures, swaps, and other structured securities. They play a pivotal role in modern finance by offering a mechanism for risk management, speculation, and price discovery. Through allowing market participants to hedge against risks or speculate on asset price movements, derivatives contribute significantly to the liquidity and efficiency of financial markets around the globe.

@@ -1,6 +1,14 @@
 ---
-title: "Causes of Market Fluctuation (Algo Trading)"
-description: "Explore the intricate dynamics influencing financial markets in this comprehensive guide. Discover how economic factors like interest rates and inflation impact market behavior and volatility. Learn about the role of algorithmic trading in shaping modern markets, enhancing liquidity, and reducing transaction costs. Unravel the complexities of market fluctuations with real-world examples, geopolitical influences, and strategies to navigate this ever-evolving landscape effectively. Ideal for investors looking to deepen their understanding of market conditions and optimize their trading approaches."
+category: quant_concept
+description: Explore the intricate dynamics influencing financial markets in this
+  comprehensive guide. Discover how economic factors like interest rates and inflation
+  impact market behavior and volatility. Learn about the role of algorithmic trading
+  in shaping modern markets, enhancing liquidity, and reducing transaction costs.
+  Unravel the complexities of market fluctuations with real-world examples, geopolitical
+  influences, and strategies to navigate this ever-evolving landscape effectively.
+  Ideal for investors looking to deepen their understanding of market conditions and
+  optimize their trading approaches.
+title: Causes of Market Fluctuation (Algo Trading)
 ---
 
 Financial markets operate in a complex and ever-changing environment, heavily influenced by a multitude of economic factors. These markets are platforms for the exchange of financial instruments, where prices are determined based on supply and demand dynamics. Key economic factors such as interest rates, inflation, and economic indicators play a critical role in shaping market behavior. For instance, a change in central bank policies regarding interest rates can lead to significant adjustments in asset prices as investors reassess future economic outlooks.

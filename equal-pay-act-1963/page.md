@@ -1,6 +1,9 @@
 ---
-title: "Equal Pay Act of 1963 (Algo Trading)"
-description: "Explore the impact of the Equal Pay Act of 1963 on wage discrimination and gender equality, alongside the role of algorithmic trading in shaping equitable pay practices."
+category: quant_concept
+description: Explore the impact of the Equal Pay Act of 1963 on wage discrimination
+  and gender equality, alongside the role of algorithmic trading in shaping equitable
+  pay practices.
+title: Equal Pay Act of 1963 (Algo Trading)
 ---
 
 The Equal Pay Act of 1963 represents a significant milestone in the movement towards addressing wage discrimination based on gender in the United States. Enacted as an amendment to the Fair Labor Standards Act of 1938, it targeted gender-based wage disparities by mandating equal pay for men and women performing the same job under similar conditions. Despite its inception, achieving full gender equality in pay has remained a complex challenge, influenced by various societal and economic factors that extend beyond the provisions of the Act itself.

@@ -1,6 +1,8 @@
 ---
-title: "Operating Cash Flow Calculation Using Excel (Algo Trading)"
-description: "Learn about calculating operating cash flow using Excel to enhance financial analysis and boost algorithmic trading strategies by integrating cash flow insights."
+category: quant_concept
+description: Learn about calculating operating cash flow using Excel to enhance financial
+  analysis and boost algorithmic trading strategies by integrating cash flow insights.
+title: Operating Cash Flow Calculation Using Excel (Algo Trading)
 ---
 
 In today's competitive financial landscape, understanding and analyzing operating cash flow is crucial for both investors and businesses. Operating cash flow is a fundamental measure of a company's financial health, as it reflects the cash generated from core business operations. Unlike net income, which can be influenced by non-cash items and accounting adjustments, operating cash flow provides a clearer picture of a company's ability to generate cash to sustain and grow its operations without relying on external funding sources.

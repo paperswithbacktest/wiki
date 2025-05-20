@@ -1,6 +1,8 @@
 ---
-title: "Island Reversal: Characteristics and Example (Algo Trading)"
-description: "Island reversal patterns can signal trend changes in trading, vital for algo trading strategies. Learn how to spot and utilize them for better market predictions."
+category: trading_strategy
+description: Island reversal patterns can signal trend changes in trading, vital for
+  algo trading strategies. Learn how to spot and utilize them for better market predictions.
+title: 'Island Reversal: Characteristics and Example (Algo Trading)'
 ---
 
 Understanding the stock market is crucial for investors and traders alike. Central to this comprehension is the ability to systematically analyze market trends and anticipate movements, which can greatly aid in making informed investment decisions. One of the primary methodologies employed in this analysis is technical analysis, which utilizes past market data, such as price and volume, to forecast future market behavior.

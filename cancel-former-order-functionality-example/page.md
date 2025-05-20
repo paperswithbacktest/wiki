@@ -1,6 +1,8 @@
 ---
-title: "Cancel Former Order (CFO): Functionality and Example (Algo Trading)"
-description: "Explore the Cancel Former Order process vital for efficient algo trading showcasing its role in swift order management for optimized trading strategies."
+category: trading_strategy
+description: Explore the Cancel Former Order process vital for efficient algo trading
+  showcasing its role in swift order management for optimized trading strategies.
+title: 'Cancel Former Order (CFO): Functionality and Example (Algo Trading)'
 ---
 
 In the fast-paced world of trading, effective order management is foundational to executing successful trades. The Cancel Former Order (CFO) process is specifically pivotal in algorithmic trading, where speed and accuracy are paramount. This article addresses the complexities of the CFO process, its significance in algorithmic strategies, and the way it supports investors in refining their trading approaches for improved efficiency.

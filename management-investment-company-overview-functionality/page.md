@@ -1,6 +1,9 @@
 ---
-title: "Management Investment Company: Overview and Functionality (Algo Trading)"
-description: "Explore the world of investment management and algorithmic trading Discover how investment companies optimize portfolios balancing returns and risks with cutting-edge technology"
+category: quant_concept
+description: Explore the world of investment management and algorithmic trading Discover
+  how investment companies optimize portfolios balancing returns and risks with cutting-edge
+  technology
+title: 'Management Investment Company: Overview and Functionality (Algo Trading)'
 ---
 
 Investment funds management is a critical component of modern finance, encompassing the oversight of a portfolio of assets and securities with the goal of achieving specific investment objectives. The management of these funds is provided by investment companies, which grant investors access to professionally managed portfolios. This professional oversight is pivotal not only in optimizing returns but also in minimizing risks associated with the volatility of financial markets.

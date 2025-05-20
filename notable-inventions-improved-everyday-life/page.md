@@ -1,6 +1,9 @@
 ---
-title: "Notable Inventions That Improved Everyday Life (Algo Trading)"
-description: "Discover how algorithmic trading transforms financial markets with speed and precision, leveraging technology to enhance everyday life and global economic systems."
+category: quant_concept
+description: Discover how algorithmic trading transforms financial markets with speed
+  and precision, leveraging technology to enhance everyday life and global economic
+  systems.
+title: Notable Inventions That Improved Everyday Life (Algo Trading)
 ---
 
 The rapid advancement of technology has seeped into every aspect of our daily lives, fundamentally transforming the way we work, communicate, and interact with the world. This progress is exemplified vividly in the finance industry, where algorithmic trading has emerged as a groundbreaking innovation. By automating trading processes and executing decisions based on complex algorithms, it has redefined the efficiency and dynamics of financial markets.

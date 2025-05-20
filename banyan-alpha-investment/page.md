@@ -1,6 +1,8 @@
 ---
-title: "Banyan Alpha Investment (Algo Trading)"
-description: "Banyan Alpha Investment leads in algorithmic trading using quantitative models and AI, promising enhanced returns through smart, data-driven strategies."
+category: trading_strategy
+description: Banyan Alpha Investment leads in algorithmic trading using quantitative
+  models and AI, promising enhanced returns through smart, data-driven strategies.
+title: Banyan Alpha Investment (Algo Trading)
 ---
 
 In the rapidly evolving world of finance, algorithmic trading stands as a cutting-edge approach that optimizes investment strategies through complex mathematical models and advanced computing technology. This form of trading utilizes algorithms—sets of defined instructions structured to automate trading decisions, enabling traders to execute orders with speed, precision, and reduced human intervention.

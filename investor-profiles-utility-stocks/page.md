@@ -1,6 +1,8 @@
 ---
-title: "Investor Profiles in Utility Stocks (Algo Trading)"
-description: "Explore how combining utility stocks with algorithmic trading can enhance portfolio performance plus discover investment strategies for income and growth."
+category: trading_strategy
+description: Explore how combining utility stocks with algorithmic trading can enhance
+  portfolio performance plus discover investment strategies for income and growth.
+title: Investor Profiles in Utility Stocks (Algo Trading)
 ---
 
 The world of investing is constantly evolving, shaped by technological advancements and shifting market dynamics. Among the many avenues for investment, the integration of utility stocks, investment strategies, and algorithmic trading represents a significant opportunity. Utility stocks, companies providing essential services such as electricity, gas, and water, have traditionally been favored for their stability and income-generating capacity. The increasing complexity of financial markets, however, calls for innovative strategies that leverage modern technology to optimize investment decisions.

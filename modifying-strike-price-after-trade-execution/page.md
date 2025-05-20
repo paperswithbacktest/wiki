@@ -1,6 +1,8 @@
 ---
-title: "Modifying Strike Price After Trade Execution (Algo Trading)"
-description: "Dive into the complexities of options trading with insights on modifying strike prices and trade execution using algorithmic strategies for optimized returns."
+category: trading_strategy
+description: Dive into the complexities of options trading with insights on modifying
+  strike prices and trade execution using algorithmic strategies for optimized returns.
+title: Modifying Strike Price After Trade Execution (Algo Trading)
 ---
 
 Options trading, a sophisticated segment of the financial markets, requires a thorough understanding of various elements such as strike prices, algorithmic trading, and trade modifications. Strike prices set the predetermined rate at which an option can be executed, playing a central role in the buyer's decision-making process. The dynamics of options trading become even more complex when integrating algorithmic strategies designed to optimize these decisions.

@@ -1,6 +1,8 @@
 ---
-title: "Rule 10b-18 and Compliance (Algo Trading)"
-description: "Explore Rule 10b-18 and its impact on stock buyback compliance. Discover how algorithmic trading integrates with this SEC rule to ensure market fairness."
+category: quant_concept
+description: Explore Rule 10b-18 and its impact on stock buyback compliance. Discover
+  how algorithmic trading integrates with this SEC rule to ensure market fairness.
+title: Rule 10b-18 and Compliance (Algo Trading)
 ---
 
 Rule 10b-18, promulgated by the U.S. Securities and Exchange Commission (SEC) in 1982, provides a structured framework for companies executing stock buybacks. This regulatory safeguard, often referred to as the "safe harbor" provision, is designed to facilitate stock repurchases by companies while concurrently minimizing the potential for market manipulation and insider trading. The rule delineates specific conditions that, if adhered to, allow companies to repurchase their shares without the looming threat of market manipulation allegations. These conditions focus on the manner, timing, price, and volume of the buyback transactions.

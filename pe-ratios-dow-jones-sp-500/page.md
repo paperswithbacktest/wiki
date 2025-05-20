@@ -1,6 +1,8 @@
 ---
-title: "P/E Ratios of Dow Jones and S&P 500 (Algo Trading)"
-description: "Explore the integration of P/E ratios in Dow Jones and S&P 500 with algorithmic trading, revealing insights into stock valuation and advanced trading strategies."
+category: trading_strategy
+description: Explore the integration of P/E ratios in Dow Jones and S&P 500 with algorithmic
+  trading, revealing insights into stock valuation and advanced trading strategies.
+title: P/E Ratios of Dow Jones and S&P 500 (Algo Trading)
 ---
 
 Price-to-Earnings (P/E) ratios are a fundamental metric in financial analysis, offering insights into a company's valuation by comparing its current share price to its per-share earnings. In today's fast-paced financial markets, understanding P/E ratios is crucial for investors seeking to assess stock valuations and make informed decisions. By analyzing these ratios, investors can gain a sense of how much they are paying for each dollar of a company's earnings, thereby providing a relative measure of market expectations regarding growth and profitability.

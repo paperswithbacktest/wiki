@@ -1,6 +1,9 @@
 ---
-title: "Emerging Versus Frontier Markets (Algo Trading)"
-description: "Explore the opportunities and risks of investing in emerging and frontier markets with insights on how algorithmic trading can optimize strategies for high returns."
+category: trading_strategy
+description: Explore the opportunities and risks of investing in emerging and frontier
+  markets with insights on how algorithmic trading can optimize strategies for high
+  returns.
+title: Emerging Versus Frontier Markets (Algo Trading)
 ---
 
 The investment landscape offers a wide array of opportunities, yet few areas garner as much attention as frontier and emerging markets. These markets present a compelling case for investors seeking substantial gains, primarily due to the dynamic economic environments they encompass. Frontier and emerging markets are often characterized by rapid growth and transition, making them attractive but also challenging for investors looking to expand their portfolios.

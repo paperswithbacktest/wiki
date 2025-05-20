@@ -1,6 +1,8 @@
 ---
-title: "Aggregate Demand: Formula, Components, and Limitations (Algo Trading)"
-description: "Explore the formula components and limitations of aggregate demand and its role in economic stability with insights on algorithmic trading strategies."
+category: quant_concept
+description: Explore the formula components and limitations of aggregate demand and
+  its role in economic stability with insights on algorithmic trading strategies.
+title: 'Aggregate Demand: Formula, Components, and Limitations (Algo Trading)'
 ---
 
 Understanding the forces of aggregate demand is crucial for comprehending how economies function. Aggregate demand represents the total demand for goods and services within an economy at a given time. It is a macroeconomic concept that quantifies the purchasing power across different sectors, including household consumption, business investments, government expenditures, and net exports. This holistic measure is pivotal in assessing overall economic strength and is often used to formulate fiscal and monetary policies.

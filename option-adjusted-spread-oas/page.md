@@ -1,6 +1,8 @@
 ---
-title: "Option-Adjusted Spread (OAS) (Algo Trading)"
-description: "Explore the essential role of Option-Adjusted Spread in algorithmic trading for assessing bond risk-adjusted returns, enhancing strategies with advanced analysis."
+category: quant_concept
+description: Explore the essential role of Option-Adjusted Spread in algorithmic trading
+  for assessing bond risk-adjusted returns, enhancing strategies with advanced analysis.
+title: Option-Adjusted Spread (OAS) (Algo Trading)
 ---
 
 The financial markets are constantly evolving, driven by advancements in technology and the introduction of innovative financial metrics. Among these innovations, the Option-Adjusted Spread (OAS) has emerged as a crucial tool for investors and traders seeking to evaluate the risk-adjusted returns of bonds, particularly those with embedded options. OAS helps to unravel the complexities associated with bonds by providing a clearer perspective on their yield adjusted for potential option-related scenarios.

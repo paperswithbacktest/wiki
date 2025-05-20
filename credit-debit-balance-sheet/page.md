@@ -1,6 +1,9 @@
 ---
-title: "Credit and Debit on a Balance Sheet (Algo Trading)"
-description: "Explore the essential role of credit and debit in accounting and their impact on balance sheets amidst algorithmic trading advancements for optimal financial strategies."
+category: quant_concept
+description: Explore the essential role of credit and debit in accounting and their
+  impact on balance sheets amidst algorithmic trading advancements for optimal financial
+  strategies.
+title: Credit and Debit on a Balance Sheet (Algo Trading)
 ---
 
 Understanding the balance sheet is fundamental to mastering the financial aspects of any business. A balance sheet is a critical financial statement that provides insights into a company's financial health by presenting its assets, liabilities, and equity at a specific point in time. Through a straightforward equation, Assets = Liabilities + Equity, the balance sheet offers a snapshot of a company's stability and potential profitability. In this era of rapid technological advancement, algorithmic trading has transformed the manner in which investors engage with financial markets, significantly affecting balance sheet analysis.

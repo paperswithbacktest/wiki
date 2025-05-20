@@ -1,6 +1,8 @@
 ---
-title: "Money Market Investor Funding Facility (Algo Trading)"
-description: "Discover how the Money Market Investor Funding Facility stabilized markets during the 2008 crisis and its pivotal role in supporting algorithmic trading."
+category: quant_concept
+description: Discover how the Money Market Investor Funding Facility stabilized markets
+  during the 2008 crisis and its pivotal role in supporting algorithmic trading.
+title: Money Market Investor Funding Facility (Algo Trading)
 ---
 
 In response to economic challenges and the need for greater stability within financial markets, the Money Market Investor Funding Facility (MMIFF) was established by the Federal Reserve during the 2008 financial crisis. This initiative was devised to address liquidity challenges and restore confidence in the money markets. As algorithmic trading continues to grow, understanding facilities like the MMIFF and their role in supporting money market investments is increasingly vital.

@@ -1,6 +1,8 @@
 ---
-title: "Federal Employee Protection Laws (Algo Trading)"
-description: "Explore federal employee protection laws in algorithmic trading, ensuring workplace fairness, safety, and rights adherence in this fast-paced financial sector."
+category: quant_concept
+description: Explore federal employee protection laws in algorithmic trading, ensuring
+  workplace fairness, safety, and rights adherence in this fast-paced financial sector.
+title: Federal Employee Protection Laws (Algo Trading)
 ---
 
 In an era characterized by the prevalence of algorithmic trading in financial markets, understanding the intersection of employment rights and employee protection becomes a critical focus. Algorithmic trading, which utilizes computer algorithms to execute trades at speeds and volumes beyond the capacity of human traders, has transformed how financial markets operate. This technological advancement introduces unique challenges and considerations regarding the rights and protections afforded to employees who design, implement, and maintain these complex systems.

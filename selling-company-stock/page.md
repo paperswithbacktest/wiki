@@ -1,6 +1,9 @@
 ---
-title: "Selling Company Stock (Algo Trading)"
-description: "Explore the synergy of financial planning and algorithmic trading to boost investment success by leveraging company stock insights in today's dynamic market."
+category: trading_strategy
+description: Explore the synergy of financial planning and algorithmic trading to
+  boost investment success by leveraging company stock insights in today's dynamic
+  market.
+title: Selling Company Stock (Algo Trading)
 ---
 
 In today's dynamic financial landscape, a comprehensive understanding of the interplay between company shares, financial planning, and stock trading mechanisms, particularly algorithmic trading, is indispensable for contemporary investors. The intersection of these elements provides a framework for evaluating market positions, managing portfolios, and optimizing investment outcomes.

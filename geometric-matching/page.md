@@ -1,7 +1,8 @@
 ---
-title: Geometric Matching in Machine Learning for Object Recognition
+category: quant_concept
 description: Geometric matching streamlines machine shape comparison by extracting
   key features and aligning objects with precision Discover more inside today
+title: Geometric Matching in Machine Learning for Object Recognition
 ---
 
 ![Image](images/1.jpeg)

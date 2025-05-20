@@ -1,6 +1,8 @@
 ---
-title: "Activist Investors: Roles and Major Figures (Algo Trading)"
-description: "Explore the dynamic roles of activist investors in shaping company strategies and delve into the world of algorithmic trading with insights from industry leaders."
+category: trading_strategy
+description: Explore the dynamic roles of activist investors in shaping company strategies
+  and delve into the world of algorithmic trading with insights from industry leaders.
+title: 'Activist Investors: Roles and Major Figures (Algo Trading)'
 ---
 
 In the world of finance, there are various investment strategies that cater to different types of investors. These strategies range widely and serve distinct investment objectives and risk tolerances. Among the most impactful approaches are those employed by activist investors, notable figures in the investment community, and practitioners of algorithmic trading. Each of these areas embodies unique methodologies that continue to shape financial markets.

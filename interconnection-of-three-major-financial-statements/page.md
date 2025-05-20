@@ -1,6 +1,9 @@
 ---
-title: "Interconnection of the Three Major Financial Statements (Algo Trading)"
-description: "Explore how income statements balance sheets and cash flow statements impact algorithmic trading by providing essential data and insights for strategic decisions."
+category: quant_concept
+description: Explore how income statements balance sheets and cash flow statements
+  impact algorithmic trading by providing essential data and insights for strategic
+  decisions.
+title: Interconnection of the Three Major Financial Statements (Algo Trading)
 ---
 
 Understanding financial statements is crucial for evaluating a company's financial health and making informed investment decisions. Financial statements such as the income statement, balance sheet, and cash flow statement offer comprehensive data concerning a company's financial performance and position. The income statement provides insights into a company's profitability by detailing revenue and expenses over a specific period. The balance sheet, on the other hand, serves as a snapshot of a company's financial status, delineating assets, liabilities, and shareholders' equity at a particular point in time. The cash flow statement complements these by illustrating how cash moves in and out of the business, pivotal for assessing liquidity.

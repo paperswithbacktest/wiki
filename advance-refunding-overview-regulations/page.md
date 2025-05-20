@@ -1,6 +1,8 @@
 ---
-title: "Advance Refunding: Overview and Regulations (Algo Trading)"
-description: "Explore advance refunding and algorithmic trading in municipal finance Discover how these strategies reduce costs enhance liquidity and navigate regulations"
+category: quant_concept
+description: Explore advance refunding and algorithmic trading in municipal finance
+  Discover how these strategies reduce costs enhance liquidity and navigate regulations
+title: 'Advance Refunding: Overview and Regulations (Algo Trading)'
 ---
 
 In the complex world of municipal finance, advance refunding and algorithmic trading are two prominent strategies that offer significant benefits while posing unique challenges. Advance refunding of municipal bonds is a refinancing technique designed to enable issuers to capitalize on lower interest rates, thereby reducing their overall borrowing costs. This involves issuing new bonds to replace outstanding ones before they reach maturity, allowing municipalities to effectively manage their debt portfolios and achieve cost savings over time.

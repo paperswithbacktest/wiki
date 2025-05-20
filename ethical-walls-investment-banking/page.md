@@ -1,6 +1,9 @@
 ---
-title: "Ethical Walls in Investment Banking (Algo Trading)"
-description: "Discover the essential role of ethical walls in investment banking and algorithmic trading Learn how they prevent conflicts of interest and protect sensitive data"
+category: quant_concept
+description: Discover the essential role of ethical walls in investment banking and
+  algorithmic trading Learn how they prevent conflicts of interest and protect sensitive
+  data
+title: Ethical Walls in Investment Banking (Algo Trading)
 ---
 
 In financial services, upholding ethical boundaries is essential for preventing conflicts of interest. At the core of these ethical practices is the concept of an 'ethical wall,' once referred to as a 'Chinese Wall.' This barrier is essential in sectors such as investment banking and algorithmic trading, where the risks associated with insider information are significant. An ethical wall serves to separate various parts of a financial institution to ensure that sensitive information does not cross from one segment to another, thereby preventing opportunities for insider trading and unfair market advantages. 

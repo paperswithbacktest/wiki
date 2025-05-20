@@ -1,6 +1,8 @@
 ---
-title: "Guidance for Financial Advisors on Crypto Taxes (Algo Trading)"
-description: "Navigate the complexities of crypto taxation with expert insights on algorithmic trading and financial advisors to optimize strategies and ensure compliance."
+category: quant_concept
+description: Navigate the complexities of crypto taxation with expert insights on
+  algorithmic trading and financial advisors to optimize strategies and ensure compliance.
+title: Guidance for Financial Advisors on Crypto Taxes (Algo Trading)
 ---
 
 The growing interest in cryptocurrency trading underscores the necessity of understanding the intricacies of crypto taxation. As the cryptocurrency market expands, so does the complexity of the tax obligations associated with digital assets. Cryptocurrencies are generally treated as property by tax authorities, allowing gains and losses to be calculated for tax purposes, similar to other assets. This approach necessitates precise record-keeping and a solid grasp of relevant tax laws.

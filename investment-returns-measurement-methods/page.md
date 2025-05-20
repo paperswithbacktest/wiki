@@ -1,6 +1,8 @@
 ---
-title: "Investment Returns and Measurement Methods (Algo Trading)"
-description: "Explore various metrics for evaluating investment returns in algorithmic trading to optimize strategies and maximize profitability in dynamic financial markets."
+category: quant_concept
+description: Explore various metrics for evaluating investment returns in algorithmic
+  trading to optimize strategies and maximize profitability in dynamic financial markets.
+title: Investment Returns and Measurement Methods (Algo Trading)
 ---
 
 Measuring investment returns is essential for assessing the effectiveness and success of different investment strategies. By accurately calculating and interpreting these returns, investors can make well-informed decisions, aligning their choices with their financial goals. Over recent years, the field of investment management has been revolutionized by algorithmic trading, which employs sophisticated technology to enhance efficiency and precision in trading operations. This technological advancement enables both institutional and individual investors to process and execute trades at speeds that far surpass traditional methods, potentially leading to improved investment outcomes.

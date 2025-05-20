@@ -1,6 +1,8 @@
 ---
-title: "Significance of Fleet Sales in Automaker Business (Algo Trading)"
-description: "Discover the crucial role of fleet sales and algorithmic trading in the automotive industry for enhancing efficiency and profitability amidst market changes."
+category: quant_concept
+description: Discover the crucial role of fleet sales and algorithmic trading in the
+  automotive industry for enhancing efficiency and profitability amidst market changes.
+title: Significance of Fleet Sales in Automaker Business (Algo Trading)
 ---
 
 The automotive industry has consistently served as a cornerstone of global economic activity, with fleet sales representing a substantial segment within this sector. Fleet sales involve the bulk purchase of vehicles by organizations such as corporations, rental agencies, and government bodies, providing automakers with a predictable and continuous revenue stream. This facet of the industry offers a mechanism to distribute excess inventory, maintaining production efficiencies and aligning with strategic business goals.

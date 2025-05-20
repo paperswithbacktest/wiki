@@ -1,6 +1,9 @@
 ---
-title: "Interval Funds: Overview, Trading, and Risks (Algo Trading)"
-description: "Explore the intricacies of interval funds and algorithmic trading their potential rewards and associated risks to help investors navigate modern financial markets effectively."
+category: trading_strategy
+description: Explore the intricacies of interval funds and algorithmic trading their
+  potential rewards and associated risks to help investors navigate modern financial
+  markets effectively.
+title: 'Interval Funds: Overview, Trading, and Risks (Algo Trading)'
 ---
 
 In the contemporary financial landscape, investment management involves navigating multifaceted financial risks. As financial markets evolve, investment strategies must adapt to manage these risks effectively, especially with the introduction of innovative investment vehicles and trading methodologies. Among these, interval funds and algorithmic trading have emerged as significant strategies that offer the potential for considerable returns, although they are accompanied by inherent risks.

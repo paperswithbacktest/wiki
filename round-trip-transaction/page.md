@@ -1,6 +1,11 @@
 ---
-title: "Round-trip transaction (Algo Trading)"
-description: Understanding round-trip transactions is essential in algorithmic trading as they determine transaction costs and strategy profitability. This page examines how traders can leverage round-trip analysis to refine their strategies and enhance performance. Readers will gain insight into cost structures and timing factors affecting trade efficiency, critical for successful algorithmic trading.
+category: quant_concept
+description: Understanding round-trip transactions is essential in algorithmic trading
+  as they determine transaction costs and strategy profitability. This page examines
+  how traders can leverage round-trip analysis to refine their strategies and enhance
+  performance. Readers will gain insight into cost structures and timing factors affecting
+  trade efficiency, critical for successful algorithmic trading.
+title: Round-trip transaction (Algo Trading)
 ---
 
 In algorithmic trading, understanding round-trip transactions is crucial for optimizing strategies. A round-trip transaction entails the complete process of buying and subsequently selling an asset, thereby completing a trade cycle. This concept is foundational in the evaluation and assessment of trading strategies, particularly in terms of their efficiency and cost implications. By analyzing round-trip transactions, traders can scrutinize the various aspects of their strategies, identifying areas for improvement. The interplay between buying and selling not only influences the individual trade outcomes but also the overall performance of the algorithmic strategy.

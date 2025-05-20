@@ -1,6 +1,9 @@
 ---
-title: "Marginal Propensity to Import (Algo Trading)"
-description: "Explore how integrating the Marginal Propensity to Import into algorithmic trading enhances market predictions by analyzing economic indicators and global trade dynamics."
+category: trading_strategy
+description: Explore how integrating the Marginal Propensity to Import into algorithmic
+  trading enhances market predictions by analyzing economic indicators and global
+  trade dynamics.
+title: Marginal Propensity to Import (Algo Trading)
 ---
 
 The landscape of modern trading is evolving with the integration of advanced algorithms and data analytics. As financial markets become increasingly complex, traders and investors are turning to sophisticated technologies to gain a competitive edge. Among the pivotal tools for traders, economic indicators stand out, offering insights into market movements influenced by various economic factors. These indicators help in analyzing trends and making informed decisions by revealing the underlying economic conditions.
@@ -173,4 +176,3 @@ Adapting trading algorithms to include comprehensive economic analysis remains a
 - **Aronson, D. 'Evidence-Based Technical Analysis.'** Aronson's book provides a rigorous approach to technical analysis, focusing on data-driven decision-making rather than subjective interpretations. This resource is valuable for traders aiming to integrate technical analysis with quantitative methods to develop more reliable trading strategies.
 
 - **Jansen, S. 'Machine Learning for Algorithmic Trading.'** Jansen's work serves as a practical guide to applying machine learning in trading. It covers a range of machine learning applications from developing trading strategies to implementing real-time systems, making it an essential resource for those interested in the practical implementation of machine learning in trading algorithms.
-

@@ -1,6 +1,13 @@
 ---
-title: "Output Gap: Definition, Advantages, and Example (Algo Trading)"
-description: "Explore the dynamic interplay between the output gap and algorithmic trading, crucial aspects of contemporary economic analysis and trading. Understand how the output gap measures an economy's production efficiency, indicating potential risks of inflation or recession. Discover the transformative role of algorithmic trading in financial markets, offering rapid trade execution and market efficiency. This article provides insights into their advantages and limitations, highlighting their impact on global economic stability and investor confidence."
+category: quant_concept
+description: Explore the dynamic interplay between the output gap and algorithmic
+  trading, crucial aspects of contemporary economic analysis and trading. Understand
+  how the output gap measures an economy's production efficiency, indicating potential
+  risks of inflation or recession. Discover the transformative role of algorithmic
+  trading in financial markets, offering rapid trade execution and market efficiency.
+  This article provides insights into their advantages and limitations, highlighting
+  their impact on global economic stability and investor confidence.
+title: 'Output Gap: Definition, Advantages, and Example (Algo Trading)'
 ---
 
 In the evolving landscape of global finance, economic measures such as the output gap and technological advancements like algorithmic trading have become essential components of modern economic analysis and trading practices. The output gap is a critical economic measure, representing the difference between an economy's actual output and its potential output, often expressed as a percentage of GDP. This metric is used to assess the current economic performance of a country, providing insights into whether the economy is operating above or below its capacity. A positive output gap suggests that an economy is overperforming, potentially leading to inflation, while a negative gap may indicate underperformance and risks of recession.

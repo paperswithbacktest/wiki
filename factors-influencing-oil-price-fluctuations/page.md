@@ -1,6 +1,9 @@
 ---
-title: "Factors Influencing Oil Price Fluctuations (Algo Trading)"
-description: "Explore the factors causing oil price fluctuations emphasizing the impact of algorithmic trading This detailed analysis helps stakeholders understand market dynamics"
+category: quant_concept
+description: Explore the factors causing oil price fluctuations emphasizing the impact
+  of algorithmic trading This detailed analysis helps stakeholders understand market
+  dynamics
+title: Factors Influencing Oil Price Fluctuations (Algo Trading)
 ---
 
 Oil prices are a pivotal element in shaping global economic stability and the cost of living. Their fluctuations carry significant implications, affecting everything from gasoline prices for consumers to input costs for businesses and investment decisions for financial institutions. Numerous factors contribute to the volatility of oil prices, making it imperative for stakeholders to comprehend these influences to navigate the complexities of the oil market effectively.

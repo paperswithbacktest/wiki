@@ -1,6 +1,9 @@
 ---
-title: "Carbon Trading: Mechanisms, Functionality, and Recent Developments (Algo Trading)"
-description: "Explore the world of carbon trading including mechanisms functionality and developments in algo trading enhancing efficiency in global climate change mitigation efforts."
+category: quant_concept
+description: Explore the world of carbon trading including mechanisms functionality
+  and developments in algo trading enhancing efficiency in global climate change mitigation
+  efforts.
+title: 'Carbon Trading: Mechanisms, Functionality, and Recent Developments (Algo Trading)'
 ---
 
 The evolving landscape of environmental policy is increasingly intertwined with market-based strategies like carbon trading, a response to the urgent need for effective tools to mitigate climate change. The concept of carbon trading, often referred to as emissions trading, lies at the heart of global efforts to reduce greenhouse gas emissions. By assigning a monetary value to carbon emissions, this mechanism incentivizes companies and countries to lower their greenhouse gas output, thus aligning economic activities with environmental objectives.

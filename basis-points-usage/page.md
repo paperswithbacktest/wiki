@@ -1,6 +1,9 @@
 ---
-title: "Basis Points and Their Usage (Algo Trading)"
-description: "Explore the significance of basis points in algo trading and how they influence financial strategies by providing precise measures for interest rate changes and investments."
+category: quant_concept
+description: Explore the significance of basis points in algo trading and how they
+  influence financial strategies by providing precise measures for interest rate changes
+  and investments.
+title: Basis Points and Their Usage (Algo Trading)
 ---
 
 The financial world is characterized by intricacies that necessitate a comprehensive understanding of various metrics and their implications on both investment strategies and economic policy. Among these metrics, basis points, interest rates, and algorithmic trading emerge as pivotal concepts that shape the landscape of modern finance. 
@@ -124,4 +127,3 @@ Investors must embrace these technological advancements to remain competitive. D
 9. **Biais, B., Foucault, T., & Moinas, S. (2014). Equilibrium High-Frequency Trading.** This study analyzes the effects of high-frequency trading in financial markets, focusing on the role of basis points in determining price equilibrium and strategy optimization. Available at SSRN: https://ssrn.com/abstract=2024360.
 
 These resources collectively provide a robust foundation for understanding the interplay between financial metrics, algorithmic trading, and interest rate dynamics.
-

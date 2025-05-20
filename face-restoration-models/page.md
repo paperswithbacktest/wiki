@@ -1,7 +1,8 @@
 ---
-title: Understanding Face Restoration Models in Machine Learning
+category: quant_concept
 description: Face restoration leverages deep learning to revive blurry or damaged
   photos with realistic detail and accurate facial features Discover more inside
+title: Understanding Face Restoration Models in Machine Learning
 ---
 
 ![Image](images/1.jpeg)

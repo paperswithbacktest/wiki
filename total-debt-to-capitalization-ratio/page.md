@@ -1,6 +1,8 @@
 ---
-title: "Total Debt-to-Capitalization Ratio (Algo Trading)"
-description: "Explore how the debt-to-capitalization ratio informs financial analysis and enhances algorithmic trading strategies in today's dynamic markets."
+category: quant_concept
+description: Explore how the debt-to-capitalization ratio informs financial analysis
+  and enhances algorithmic trading strategies in today's dynamic markets.
+title: Total Debt-to-Capitalization Ratio (Algo Trading)
 ---
 
 Understanding financial metrics is vital in corporate finance and investment strategies, as they provide insight into a company's financial health and risk profile. One such important metric is the debt-to-capitalization ratio, which is instrumental in analyzing a company's leverage and assessing potential risk factors associated with its debt load.
@@ -128,4 +130,3 @@ In the field of algorithmic trading, "Algorithmic Trading and DMA: An Introducti
 For practical insights and case studies, consider reading "Financial Modeling" by Simon Benninga. This book provides real-world examples and elaborates on how financial modeling, including the application of key financial ratios, is used to conduct in-depth financial analysis. These case studies help illustrate the challenges faced by companies with high debt-to-capitalization ratios and the strategies they employ to mitigate risk.
 
 Additionally, research articles and papers published in journals such as the "Journal of Finance" or the "Journal of Financial Economics" often include empirical studies and analyses on financial metrics and algorithmic trading, offering a wealth of knowledge and case-specific insights. These resources contribute significantly to understanding how theoretical concepts are applied in practice.
-

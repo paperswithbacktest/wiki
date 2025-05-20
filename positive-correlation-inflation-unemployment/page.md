@@ -1,6 +1,9 @@
 ---
-title: "Positive Correlation Between Inflation and Unemployment (Algo Trading)"
-description: "Explore the complex link between inflation and unemployment, and see how algorithmic trading offers insights into these key economic indicators for smarter investing."
+category: quant_concept
+description: Explore the complex link between inflation and unemployment, and see
+  how algorithmic trading offers insights into these key economic indicators for smarter
+  investing.
+title: Positive Correlation Between Inflation and Unemployment (Algo Trading)
 ---
 
 This article examines the intricate relationship between unemployment and inflation, two pivotal economic indicators with far-reaching influences on global economies. Historically, these factors have been understood through theoretical constructs like the Phillips Curve, which suggests an inverse relationship between unemployment and inflation. As unemployment decreases, inflation tends to rise due to increased consumer spending and demand for goods, and vice versa. However, economic peculiarities such as stagflation have shown that this relationship can sometimes be unpredictable.

@@ -1,6 +1,9 @@
 ---
-title: "History and Functionality of Kin Cryptocurrency and Its Future (Algo Trading)"
-description: "Explore Kin cryptocurrency's role in digital economies with insights into its functionality, history, and the influence of algorithmic trading on its future prospects."
+category: quant_concept
+description: Explore Kin cryptocurrency's role in digital economies with insights
+  into its functionality, history, and the influence of algorithmic trading on its
+  future prospects.
+title: History and Functionality of Kin Cryptocurrency and Its Future (Algo Trading)
 ---
 
 Digital currencies have significantly evolved since their inception, fundamentally altering traditional financial systems and introducing new paradigms for transactions and value storage. The genesis of cryptocurrencies began with Bitcoin, introduced in 2009 by the pseudonymous entity Satoshi Nakamoto. Bitcoin's decentralized ledger technology and proof-of-work algorithm laid the groundwork for a vast array of digital currencies that followed. Over the years, these currencies have developed varied functionalities and applications, heralding a new era in the global financial landscape.

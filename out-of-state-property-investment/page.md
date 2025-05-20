@@ -1,6 +1,9 @@
 ---
-title: "Out-of-State Property Investment (Algo Trading)"
-description: "Explore the benefits and challenges of out-of-state real estate investment enhanced by algorithmic trading Insights into maximizing returns while managing risks."
+category: trading_strategy
+description: Explore the benefits and challenges of out-of-state real estate investment
+  enhanced by algorithmic trading Insights into maximizing returns while managing
+  risks.
+title: Out-of-State Property Investment (Algo Trading)
 ---
 
 Investing in real estate has traditionally been a favored strategy for wealth accumulation and financial growth. In recent years, the trend of diversifying real estate portfolios by incorporating out-of-state properties has gained traction, primarily due to escalating local market prices in many urban areas. This diversification not only offers the potential for higher returns but also provides a strategic avenue for mitigating investment risks.

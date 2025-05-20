@@ -1,6 +1,9 @@
 ---
-title: "SEC Regulations on Short Selling (Algo Trading)"
-description: "Explore SEC regulations on short selling and algorithmic trading, vital for market stability and integrity Learn how these rules impact traders and investors alike"
+category: quant_concept
+description: Explore SEC regulations on short selling and algorithmic trading, vital
+  for market stability and integrity Learn how these rules impact traders and investors
+  alike
+title: SEC Regulations on Short Selling (Algo Trading)
 ---
 
 In the world of financial markets, short selling and algorithmic trading play pivotal roles in shaping market dynamics. Short selling allows investors to profit from declining stock prices by borrowing shares and selling them, with the intention of buying them back at a lower price. On the other hand, algorithmic trading uses computer algorithms to execute trades with speed and precision based on predefined criteria. Both strategies have a profound influence on market behavior and liquidity.

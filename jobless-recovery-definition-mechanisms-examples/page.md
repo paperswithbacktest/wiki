@@ -1,6 +1,8 @@
 ---
-title: "Jobless Recovery: Definition, Mechanisms, and Examples (Algo Trading)"
-description: "Explore the complexities of jobless recovery where economic growth isn't matched by employment increases and the impact of algorithmic trading on markets."
+category: quant_concept
+description: Explore the complexities of jobless recovery where economic growth isn't
+  matched by employment increases and the impact of algorithmic trading on markets.
+title: 'Jobless Recovery: Definition, Mechanisms, and Examples (Algo Trading)'
 ---
 
 Economic recovery is a critical and multifaceted process that follows a recession, marked by efforts to restore and enhance economic activities to pre-recession levels. This phase involves a gradual increase in production, consumer spending, and investment, which are indicators of returning economic stability. However, this recovery can be complicated by the phenomenon known as a jobless recovery, where economic growth is not accompanied by an increase in employment opportunities. In such scenarios, businesses may focus on improving productivity and profit margins through cost-cutting strategies, often at the expense of hiring new employees. This leads to prolonged high unemployment rates even as the economy begins to recover.

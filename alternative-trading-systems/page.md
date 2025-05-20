@@ -1,6 +1,9 @@
 ---
-title: "alternative trading systems (Algo Trading)"
-description: "Explore the transformation of financial trading with algorithmic trading systems within alternative trading systems Discover innovations that boost speed and precision"
+category: quant_concept
+description: Explore the transformation of financial trading with algorithmic trading
+  systems within alternative trading systems Discover innovations that boost speed
+  and precision
+title: alternative trading systems (Algo Trading)
 ---
 
 Algorithmic trading systems, commonly referred to as algo trading, represent a revolutionary shift in the landscape of financial trading. These systems utilize sophisticated algorithms and advanced computing capabilities to execute trades automatically, reducing human involvement and enhancing efficiency. This shift toward automation has enabled traders to capitalize on market opportunities with unprecedented speed and precision. 

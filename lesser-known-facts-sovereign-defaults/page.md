@@ -1,6 +1,8 @@
 ---
-title: "Lesser-Known Facts About Sovereign Defaults (Algo Trading)"
-description: "Explore sovereign defaults and their impact on global markets through the lens of algorithmic trading uncovering financial stability challenges and opportunities."
+category: quant_concept
+description: Explore sovereign defaults and their impact on global markets through
+  the lens of algorithmic trading uncovering financial stability challenges and opportunities.
+title: Lesser-Known Facts About Sovereign Defaults (Algo Trading)
 ---
 
 Sovereign defaults have been a persistent concern in the global financial landscape, often leading to economic crises and significant market disruptions. When a country fails to meet its debt obligations, the repercussions can extend beyond its national borders, affecting global markets and economies. As sovereign debt holds a critical role in the financial stability of a country, any default or potential default can impact investor confidence and prompt significant shifts in international investment patterns.

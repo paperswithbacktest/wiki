@@ -1,6 +1,8 @@
 ---
-title: "Comparison of Put and Call Options: Selling Strategies (Algo Trading)"
-description: "Explore the intricacies of selling put and call options as part of advanced algorithmic trading strategies aimed at income generation and risk management."
+category: trading_strategy
+description: Explore the intricacies of selling put and call options as part of advanced
+  algorithmic trading strategies aimed at income generation and risk management.
+title: 'Comparison of Put and Call Options: Selling Strategies (Algo Trading)'
 ---
 
 Options trading is a sophisticated financial activity that allows investors to speculate on the future price movements of assets such as stocks, indices, or commodities. An option is a financial derivative that provides the holder the right, but not the obligation, to buy or sell an asset at a predetermined price, known as the strike price, before or on a specific date known as the expiration date. There are two primary types of options: call options and put options.

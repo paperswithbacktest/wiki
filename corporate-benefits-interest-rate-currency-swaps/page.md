@@ -1,6 +1,8 @@
 ---
-title: "Corporate Benefits of Interest Rate and Currency Swaps (Algo Trading)"
-description: "Discover the corporate advantages of interest rate and currency swaps in risk management and strategic financial planning, enhanced by algorithmic trading."
+category: quant_concept
+description: Discover the corporate advantages of interest rate and currency swaps
+  in risk management and strategic financial planning, enhanced by algorithmic trading.
+title: Corporate Benefits of Interest Rate and Currency Swaps (Algo Trading)
 ---
 
 Interest rate swaps and currency swaps are integral instruments within corporate finance designed to mitigate the financial risks arising from interest rate variability and currency exchange rate shifts. These swaps serve as fundamental tools for corporations, governments, and financial institutions, aiding them in effectively maneuvering through the complexities of global markets.

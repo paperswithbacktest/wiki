@@ -1,7 +1,8 @@
 ---
-title: Role Prompting in Machine Learning for Enhanced AI Responses
+category: quant_concept
 description: Role prompting in machine learning guides AI to adopt roles for more
   accurate tailored responses and improved user interactions Discover more inside
+title: Role Prompting in Machine Learning for Enhanced AI Responses
 ---
 
 ![Image](images/1.png)

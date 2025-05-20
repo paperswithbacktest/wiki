@@ -1,6 +1,8 @@
 ---
-title: "Financial Distress: Signs and Remedies (Algo Trading)"
-description: "Explore the signs of financial distress and effective remedies including the role of algorithmic trading in enhancing financial health and stability."
+category: quant_concept
+description: Explore the signs of financial distress and effective remedies including
+  the role of algorithmic trading in enhancing financial health and stability.
+title: 'Financial Distress: Signs and Remedies (Algo Trading)'
 ---
 
 In today's financial landscape, maintaining financial health is essential for individuals and organizations alike. Financial health is a critical indicator of one's ability to manage and meet financial obligations without undue stress. However, financial distress, which is characterized by an inability to fulfill these obligations, can profoundly affect financial stability. This state can arise from various factors such as inadequate income, excessive debt, poor financial management, or unforeseen economic challenges. The repercussions of financial distress can be severe, leading to potential bankruptcy, inability to invest in growth opportunities, and diminished quality of life.

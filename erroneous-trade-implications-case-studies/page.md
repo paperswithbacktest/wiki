@@ -1,6 +1,8 @@
 ---
-title: "Erroneous Trade: Implications and Case Studies (Algo Trading)"
-description: "Explore the implications of erroneous trades in algorithmic trading Discover case studies and strategies to mitigate risks and maintain market integrity"
+category: trading_strategy
+description: Explore the implications of erroneous trades in algorithmic trading Discover
+  case studies and strategies to mitigate risks and maintain market integrity
+title: 'Erroneous Trade: Implications and Case Studies (Algo Trading)'
 ---
 
 In the fast-paced world of trading, errors can occur due to a variety of factors, from human mistakes to technical glitches. Algorithmic trading, which relies on computer programs to execute orders at high speeds and volumes, has become a dominant force in global markets. However, this automation brings its own set of challenges, particularly in the area of erroneous trades. These are trades that deviate significantly from the intended execution price, often resulting from misconfigured algorithms or technical malfunctions.

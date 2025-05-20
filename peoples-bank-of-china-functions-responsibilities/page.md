@@ -1,6 +1,8 @@
 ---
-title: "People's Bank of China: Functions and Responsibilities (Algo Trading)"
-description: "Discover the key functions and responsibilities of the People's Bank of China and its influence on algorithmic trading in China's financial markets."
+category: quant_concept
+description: Discover the key functions and responsibilities of the People's Bank
+  of China and its influence on algorithmic trading in China's financial markets.
+title: 'People''s Bank of China: Functions and Responsibilities (Algo Trading)'
 ---
 
 The People's Bank of China (PBoC) stands as a cornerstone in the financial architecture of China, wielding a profound influence over the nation’s economic stability and monetary policy. As China's central bank, the PBoC is entrusted with a multitude of critical functions that not only stabilize the domestic economy but also affect the broader global financial landscape. This article examines the extensive roles and responsibilities of the PBoC, focusing on its foundational elements and the significant impact it has on algorithmic trading within the country.

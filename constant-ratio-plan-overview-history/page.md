@@ -1,6 +1,8 @@
 ---
-title: "Constant Ratio Plan: Overview and Historical Context (Algo Trading)"
-description: "Explore the Constant Ratio Plan a strategic approach in investment management focusing on maintaining a fixed asset mix to optimize returns and manage risks."
+category: trading_strategy
+description: Explore the Constant Ratio Plan a strategic approach in investment management
+  focusing on maintaining a fixed asset mix to optimize returns and manage risks.
+title: 'Constant Ratio Plan: Overview and Historical Context (Algo Trading)'
 ---
 
 The world of finance is abundant with strategies aimed at optimizing investments, enhancing returns, and minimizing risks. One such investment strategy gaining traction among investors and financial analysts is the Constant Ratio Plan. This strategy, often referred to as constant mix or constant weighting investing, involves maintaining a predetermined fixed ratio of aggressive and conservative assets within a portfolio, typically achieved through a balanced mix of stocks and bonds.

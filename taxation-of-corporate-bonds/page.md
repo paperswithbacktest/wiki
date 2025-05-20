@@ -1,6 +1,8 @@
 ---
-title: "Taxation of Corporate Bonds (Algo Trading)"
-description: "Explore corporate bonds and their taxation in algo trading. Understand tax implications on interest income, capital gains, and original issue discount."
+category: quant_concept
+description: Explore corporate bonds and their taxation in algo trading. Understand
+  tax implications on interest income, capital gains, and original issue discount.
+title: Taxation of Corporate Bonds (Algo Trading)
 ---
 
 Corporate bond investments represent a fundamental component of the global financial market, serving as a pivotal mechanism for enterprises seeking to raise capital. At its core, a corporate bond is a debt instrument issued by a company to investors, offering a fixed rate of interest over a specified period. This contractual obligation allows companies to secure the necessary funding for growth, expansion, and operational needs, while providing investors with a relatively predictable stream of income.

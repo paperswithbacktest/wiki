@@ -1,6 +1,8 @@
 ---
-title: "Conditional Probability: Formula and Applications (Algo Trading)"
-description: "Explore the critical role of conditional probability in algorithmic trading Learn how traders use it to refine strategies and optimize risk management for success"
+category: quant_concept
+description: Explore the critical role of conditional probability in algorithmic trading
+  Learn how traders use it to refine strategies and optimize risk management for success
+title: 'Conditional Probability: Formula and Applications (Algo Trading)'
 ---
 
 Understanding probability is foundational in numerous fields, particularly in finance and trading where decision-making often hinges on predicting uncertain events. Probability theory provides the tools to gauge the likelihood of various outcomes, thus equipping traders with the necessary knowledge to navigate the volatile markets. Within this theoretical framework, conditional probability plays a crucial role by enabling traders to refine their predictions and strategies based on specific conditions or scenarios.

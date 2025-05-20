@@ -1,6 +1,8 @@
 ---
-title: "Quadruple Witching and Its Impact on Stock Markets (Algo Trading)"
-description: "Explore the impact of quadruple witching on stock markets and how algorithmic trading aids investors in navigating these volatile market events effectively."
+category: quant_concept
+description: Explore the impact of quadruple witching on stock markets and how algorithmic
+  trading aids investors in navigating these volatile market events effectively.
+title: Quadruple Witching and Its Impact on Stock Markets (Algo Trading)
 ---
 
 The stock market is a complex ecosystem affected by a myriad of factors that traders consider when making decisions. Among the notable phenomena influencing market dynamics is quadruple witching, a term describing a specific occurrence in the trading calendar with significant implications. Quadruple witching refers to the simultaneous expiration of various derivative contracts, including stock index futures, stock index options, stock options, and single stock futures. This convergence, happening four times a year, often leads to heightened trading activity and market volatility.

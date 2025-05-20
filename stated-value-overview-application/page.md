@@ -1,6 +1,9 @@
 ---
-title: "Stated Value: Overview and Application (Algo Trading)"
-description: "Explore the intricate world of finance with our in-depth look at stated value, asset valuation, and algorithmic trading. Enhance your financial insight today."
+category: quant_concept
+description: Explore the intricate world of finance with our in-depth look at stated
+  value, asset valuation, and algorithmic trading. Enhance your financial insight
+  today.
+title: 'Stated Value: Overview and Application (Algo Trading)'
 ---
 
 In the ever-evolving landscape of finance, understanding complex financial terms is crucial for investors and professionals alike. This article examines several essential financial concepts: stated value, asset valuation, and algorithmic trading. Our goal is to provide a comprehensive overview that interconnects these terms, illuminating their interplay in modern finance. From fundamental definitions to real-world applications, this article aims to enhance financial literacy and strategic decision-making. Whether you are a seasoned investor or a curious newcomer, grasping these concepts will improve your financial acumen.

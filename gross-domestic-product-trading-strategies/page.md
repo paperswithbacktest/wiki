@@ -1,6 +1,9 @@
 ---
-title: "Gross Domestic Product Trading Strategies (Algo Trading)"
-description: "Discover GDP-based forex trading strategies enhanced by algorithmic tools for precise decision-making Explore how GDP figures impact currency trends and trading outcomes"
+category: trading_strategy
+description: Discover GDP-based forex trading strategies enhanced by algorithmic tools
+  for precise decision-making Explore how GDP figures impact currency trends and trading
+  outcomes
+title: Gross Domestic Product Trading Strategies (Algo Trading)
 ---
 
 Currency trading, commonly referred to as forex trading, represents a highly dynamic financial market where traders exchange national currencies against each other. It is the largest and most liquid market in the world, with daily trading volumes exceeding $6 trillion as of 2020 according to the Bank for International Settlements. Forex trading is strongly influenced by various economic factors, with Gross Domestic Product (GDP) figures playing a crucial role in informing trading decisions. GDP-focused trades involve analyzing the economic health of countries, as indicated by their GDP figures, to anticipate currency movements. This approach helps traders identify opportunities and make informed decisions.

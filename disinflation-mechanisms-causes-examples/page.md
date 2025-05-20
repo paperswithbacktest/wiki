@@ -1,6 +1,8 @@
 ---
-title: "Disinflation: Mechanisms, Causes, and Examples (Algo Trading)"
-description: "Discover how disinflation moderates inflation rates affecting financial markets and algorithmic trading strategies exploring economic mechanisms and triggers."
+category: quant_concept
+description: Discover how disinflation moderates inflation rates affecting financial
+  markets and algorithmic trading strategies exploring economic mechanisms and triggers.
+title: 'Disinflation: Mechanisms, Causes, and Examples (Algo Trading)'
 ---
 
 In the intricate dynamics of economics, numerous factors contribute to the fluctuations observed within an economy. Disinflation, a key economic process, is characterized by a reduction in the rate of inflation. Unlike deflation, which involves actual decreases in price levels, disinflation is regarded as beneficial because it indicates a slowdown in inflation without turning negative. This process is critical as it helps maintain economic stability by preventing rapid inflation, thus allowing for sustainable growth without leading to detrimental economic overheating.

@@ -1,6 +1,8 @@
 ---
-title: "Latvian Lats and the Economy of Latvia (Algo Trading)"
-description: "Discover Latvia's economic evolution from lats to euro and its embrace of algorithmic trading a pivotal move enhancing stability and global market connectivity."
+category: quant_concept
+description: Discover Latvia's economic evolution from lats to euro and its embrace
+  of algorithmic trading a pivotal move enhancing stability and global market connectivity.
+title: Latvian Lats and the Economy of Latvia (Algo Trading)
 ---
 
 The Latvian economy has undergone significant transformations over the decades. Following the dissolution of the Soviet Union, Latvia regained its independence in 1991, which marked the beginning of a vital economic transition from a centrally planned system to a market-oriented economy. This transition involved extensive structural reforms aimed at liberalizing the market, privatizing state enterprises, and integrating with Western economies. Over the years, Latvia's economy has evolved to encompass a mix of traditional industries such as agriculture and manufacturing, while also embracing innovation in technology and services. This multidimensional growth reflects an economy that has been adaptive and resilient through various global economic challenges.

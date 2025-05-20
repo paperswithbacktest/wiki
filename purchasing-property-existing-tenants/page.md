@@ -1,6 +1,9 @@
 ---
-title: "Purchasing a Property with Existing Tenants (Algo Trading)"
-description: "Explore the complexities of buying property with existing tenants and the role of algorithmic trading in real estate investment strategies for optimized returns."
+category: quant_concept
+description: Explore the complexities of buying property with existing tenants and
+  the role of algorithmic trading in real estate investment strategies for optimized
+  returns.
+title: Purchasing a Property with Existing Tenants (Algo Trading)
 ---
 
 In the rapidly evolving landscape of real estate and finance, the interplay between property acquisition, tenant management, and algorithmic trading presents a myriad of opportunities and challenges. As the real estate market becomes increasingly dynamic, understanding the key components of transactions involving properties with existing tenants and the intricacies of property titles is pivotal. Investors must navigate legal frameworks to ensure legitimate ownership and compliance, thereby avoiding potential disputes.

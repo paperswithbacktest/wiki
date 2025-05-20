@@ -1,6 +1,13 @@
 ---
-title: "Biflation: Understanding Causes and Examples (Algo Trading)"
-description: "Discover the complex economic phenomena of biflation and inflation and their implications in modern financial markets shaped by algorithmic trading. Explore how biflation creates mixed economic conditions with simultaneous inflation and deflation in different sectors, influencing policy and investment strategies. Understand how inflation affects purchasing power and economic behavior, and learn about the causes and impacts of these forces. Gain insights into navigating today's intricate economic landscape with informed decision-making."
+category: quant_concept
+description: Discover the complex economic phenomena of biflation and inflation and
+  their implications in modern financial markets shaped by algorithmic trading. Explore
+  how biflation creates mixed economic conditions with simultaneous inflation and
+  deflation in different sectors, influencing policy and investment strategies. Understand
+  how inflation affects purchasing power and economic behavior, and learn about the
+  causes and impacts of these forces. Gain insights into navigating today's intricate
+  economic landscape with informed decision-making.
+title: 'Biflation: Understanding Causes and Examples (Algo Trading)'
 ---
 
 Biflation and inflation are pivotal economic phenomena that warrant comprehensive understanding and analysis, particularly for stakeholders within the financial markets, which have become increasingly complex with the advancement of algorithmic trading technologies. Both biflation and inflation uniquely influence economic activities and decisions in the financial realm. Biflation describes the simultaneous presence of inflationary and deflationary forces affecting different segments of the economy, leading to a mixed and occasionally contradictory economic landscape. Inflation, on the other hand, characterizes the overall increase in price levels in an economy over a given period, eroding purchasing power and altering economic behavior.

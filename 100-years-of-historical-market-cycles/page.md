@@ -1,6 +1,13 @@
 ---
-title: "100 Years of Historical Market Cycles"
-description: Explore the evolution of algorithmic trading over the past century and how market cycles like bull and bear markets have influenced trading strategies. Discover the role of technology, including artificial intelligence, in transforming trading speed and accuracy, and the impact of macroeconomic factors like inflation and interest rates on market dynamics. Learn how historical data analysis and machine learning are used to adapt algorithms to varying conditions for optimized trading outcomes.
+category: quant_concept
+description: Explore the evolution of algorithmic trading over the past century and
+  how market cycles like bull and bear markets have influenced trading strategies.
+  Discover the role of technology, including artificial intelligence, in transforming
+  trading speed and accuracy, and the impact of macroeconomic factors like inflation
+  and interest rates on market dynamics. Learn how historical data analysis and machine
+  learning are used to adapt algorithms to varying conditions for optimized trading
+  outcomes.
+title: 100 Years of Historical Market Cycles
 ---
 
 Algorithmic trading, often referred to as algo trading, has experienced substantial transformation over the past century, markedly altering the landscape of financial markets. Initially characterized by manual processes, the evolution of technology, particularly the advent of computers and more recently artificial intelligence, has enabled the creation of complex trading algorithms. These developments have allowed market participants to automate trading strategies to a large extent, thereby enhancing execution speed and efficiency.

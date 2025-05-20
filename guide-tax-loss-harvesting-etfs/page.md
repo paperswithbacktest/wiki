@@ -1,6 +1,9 @@
 ---
-title: "Guide to Tax-Loss Harvesting With ETFs (Algo Trading)"
-description: "Explore tax-loss harvesting using ETFs and algorithmic trading to optimize investment strategies. Learn how these tools can enhance returns and manage risk effectively."
+category: trading_strategy
+description: Explore tax-loss harvesting using ETFs and algorithmic trading to optimize
+  investment strategies. Learn how these tools can enhance returns and manage risk
+  effectively.
+title: Guide to Tax-Loss Harvesting With ETFs (Algo Trading)
 ---
 
 Modern investment strategies have evolved significantly, driven by advancements in technology and a growing emphasis on diversification. A crucial component of contemporary investment portfolios is the utilization of Exchange-Traded Funds (ETFs). ETFs are investment funds traded on stock exchanges, similar to stocks. They hold assets such as stocks, commodities, or bonds and generally operate with an arbitrage mechanism designed to keep trading close to its net asset value, though deviations can occasionally occur. By providing exposure to a wide array of assets and sectors, ETFs allow investors to achieve diversification, which is fundamental for mitigating risk and enhancing the potential for returns.

@@ -1,6 +1,8 @@
 ---
-title: "Institutional Holdings Exceeding 100 Percent (Algo Trading)"
-description: "Explore the interplay of institutional holdings and algorithmic trading reshaping stock market dynamics and influencing investment strategies for stability."
+category: trading_strategy
+description: Explore the interplay of institutional holdings and algorithmic trading
+  reshaping stock market dynamics and influencing investment strategies for stability.
+title: Institutional Holdings Exceeding 100 Percent (Algo Trading)
 ---
 
 Stock ownership has undergone significant transformation, largely influenced by the rise in institutional holdings and the rapid advancement of algorithmic trading. These two elements have reshaped how investments are approached, analyzed, and executed in financial markets. Institutional holdings, which involve large organizations such as mutual funds, pension funds, and hedge funds amassing significant amounts of stock, have become pivotal in shaping market trends and stability. These institutions have the resources to perform in-depth analyses and make substantial investments, thus wielding considerable influence over stock prices and market dynamics.
@@ -151,4 +153,3 @@ As the landscape of stock ownership and trading continues to evolve, investors a
 
 10. **"Quantitative Equity Portfolio Management: Modern Techniques and Applications"** by Ludwig B. Chincarini and Daehwan Kim
     - investigates into the quantitative techniques used in portfolio management, relevant for institutional investors utilizing algorithmic strategies.
-

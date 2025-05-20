@@ -1,6 +1,9 @@
 ---
-title: "Descending Tops: Mechanism and Example (Algo Trading)"
-description: "Explore the role of descending tops in trading a key technical analysis pattern signifying bearish trends Learn how to identify and leverage these patterns in real scenarios"
+category: trading_strategy
+description: Explore the role of descending tops in trading a key technical analysis
+  pattern signifying bearish trends Learn how to identify and leverage these patterns
+  in real scenarios
+title: 'Descending Tops: Mechanism and Example (Algo Trading)'
 ---
 
 Descending tops are a key concept in trading, particularly within technical analysis. This price pattern occurs when each successive peak on a price chart is lower than the previous one, indicating a general bearish sentiment among traders. The identification of descending tops is crucial for traders as it may signal a potential downtrend, prompting decisions related to selling or shorting assets to capitalize on anticipated price decreases.

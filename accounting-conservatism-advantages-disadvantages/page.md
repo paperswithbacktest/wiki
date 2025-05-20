@@ -1,6 +1,9 @@
 ---
-title: "Accounting Conservatism: Advantages and Disadvantages (Algo Trading)"
-description: "Explore the role of accounting conservatism in financial reporting and algorithmic trading Learn how this principle enhances data integrity and strategic decisions"
+category: quant_concept
+description: Explore the role of accounting conservatism in financial reporting and
+  algorithmic trading Learn how this principle enhances data integrity and strategic
+  decisions
+title: 'Accounting Conservatism: Advantages and Disadvantages (Algo Trading)'
 ---
 
 In today's financial landscape, the interplay between accounting principles and financial reporting is crucial for effective decision-making. Accounting conservatism emerges as a significant principle that guides financial reporting through a lens of caution and verification. This principle is essential in ensuring that financial statements are prepared prudently, reflecting a company's financial health accurately by recognizing potential losses promptly while only considering gains when they are assured.

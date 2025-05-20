@@ -1,6 +1,14 @@
 ---
-title: "RSI Trading Strategy Explained (Algo Trading)"
-description: Explore the widely recognized Relative Strength Index (RSI), a key momentum oscillator used in algorithmic trading to measure price movement speed and change in financial markets. Developed by J. Welles Wilder, RSI effectively indicates overbought or oversold conditions, providing valuable insights for automated trading systems. Learn how RSI's straightforward calculation and mean-reversion properties enhance trading strategies and discover essential steps for integrating RSI into algo trading systems, including data preparation and algorithm design. Understand the importance of backtesting to optimize RSI-based strategies for improved trading performance.
+category: trading_strategy
+description: Explore the widely recognized Relative Strength Index (RSI), a key momentum
+  oscillator used in algorithmic trading to measure price movement speed and change
+  in financial markets. Developed by J. Welles Wilder, RSI effectively indicates overbought
+  or oversold conditions, providing valuable insights for automated trading systems.
+  Learn how RSI's straightforward calculation and mean-reversion properties enhance
+  trading strategies and discover essential steps for integrating RSI into algo trading
+  systems, including data preparation and algorithm design. Understand the importance
+  of backtesting to optimize RSI-based strategies for improved trading performance.
+title: RSI Trading Strategy Explained (Algo Trading)
 ---
 
 The Relative Strength Index (RSI) is a widely recognized and utilized momentum oscillator developed to measure the speed and change of price movements in financial markets. A prominent tool among traders, RSI is revered for its ability to indicate overbought and oversold conditions in an asset's price, making it a valuable asset in trading strategies, including algorithmic trading. RSI's popularity in algo trading can be attributed to its straightforward calculation and the ease of integrating it within automated systems that continuously analyze market data.

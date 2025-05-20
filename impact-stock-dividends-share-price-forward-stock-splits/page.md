@@ -1,6 +1,9 @@
 ---
-title: "Impact of Stock Dividends on Share Price Compared to Forward Stock Splits (Algo Trading)"
-description: "Discover how stock dividends and forward stock splits impact share prices and investor strategies in the context of algorithmic trading. Learn key insights."
+category: quant_concept
+description: Discover how stock dividends and forward stock splits impact share prices
+  and investor strategies in the context of algorithmic trading. Learn key insights.
+title: Impact of Stock Dividends on Share Price Compared to Forward Stock Splits (Algo
+  Trading)
 ---
 
 In stock markets, understanding the impact of corporate actions such as stock dividends and stock splits on share prices is essential for investors aiming to maximize their returns. Stock dividends and forward stock splits, while both resulting in an increased number of shares outstanding, affect the market and individual portfolios differently, requiring strategic navigation.
@@ -258,4 +261,3 @@ Such implementation illustrates the simplicity with which a trading algorithm ca
    - QuantConnect: This platform provides tools for developing algorithmic trading strategies and includes resources for handling corporate actions such as stock splits and dividends. [Link](https://www.quantconnect.com)
 
 These resources provide valuable insights into the mechanics of stock dividends, splits, and the adaptation of algorithmic trading strategies to these corporate actions.
-

@@ -1,6 +1,8 @@
 ---
-title: "MSCI KLD 400 Social Index (Algo Trading)"
-description: "Explore the MSCI KLD 400 Social Index and the role of algorithmic trading in advancing sustainable investing strategies that align with ESG principles."
+category: trading_strategy
+description: Explore the MSCI KLD 400 Social Index and the role of algorithmic trading
+  in advancing sustainable investing strategies that align with ESG principles.
+title: MSCI KLD 400 Social Index (Algo Trading)
 ---
 
 The integration of sustainable practices in investing has become increasingly prevalent, signaling a shift towards more ethical finance avenues. As environmental awareness grows and social accountability becomes a priority, investors and financial institutions are seeking ways to align their portfolios with these values. This has led to the development of indices like the MSCI KLD 400 Social Index, which prioritizes companies with high Environmental, Social, and Governance (ESG) standards. By focusing on businesses that lead in ESG performance, the MSCI KLD 400 Social Index offers a framework for investors looking to adopt sustainable investing strategies.

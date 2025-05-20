@@ -1,6 +1,8 @@
 ---
-title: "Distribution in Finance: Types and Examples (Algo Trading)"
-description: "Understanding distributions is crucial in finance for risk management and strategy development. This article explores their role in algorithmic trading."
+category: quant_concept
+description: Understanding distributions is crucial in finance for risk management
+  and strategy development. This article explores their role in algorithmic trading.
+title: 'Distribution in Finance: Types and Examples (Algo Trading)'
 ---
 
 In the world of finance, understanding distributions is crucial for effective risk management and developing robust investment strategies. Distributions, both financial and statistical, play a pivotal role in analyzing market behavior, assessing risks, and enhancing decision-making processes. This article examines various types of distributions in finance, elucidating their significance in algorithmic trading and their broader impact on investment decision-making.

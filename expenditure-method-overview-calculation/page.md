@@ -1,6 +1,14 @@
 ---
-title: "Expenditure Method: Overview and Calculation (Algo Trading)"
-description: "Explore the intricate relationship between economic calculations and algorithmic trading with a focus on the expenditure method for GDP calculation. Discover how this method offers a comprehensive view of a nation's economic health by examining key components like personal consumption, investment, government spending, and net exports. Understand how these economic indicators are integrated into advanced trading algorithms, providing a competitive edge in data-driven financial markets, and how this interplay aids in making informed investment and policy decisions for a more efficient financial ecosystem."
+category: quant_concept
+description: Explore the intricate relationship between economic calculations and
+  algorithmic trading with a focus on the expenditure method for GDP calculation.
+  Discover how this method offers a comprehensive view of a nation's economic health
+  by examining key components like personal consumption, investment, government spending,
+  and net exports. Understand how these economic indicators are integrated into advanced
+  trading algorithms, providing a competitive edge in data-driven financial markets,
+  and how this interplay aids in making informed investment and policy decisions for
+  a more efficient financial ecosystem.
+title: 'Expenditure Method: Overview and Calculation (Algo Trading)'
 ---
 
 Economics and finance are disciplines that are inherently intertwined with complex calculations and methodologies designed to measure and evaluate a country's economic health. One pivotal method employed is the expenditure approach, which is instrumental in determining a nation's Gross Domestic Product (GDP). The GDP, essentially the monetary value of all finished goods and services produced within a country during a specific period, serves as a comprehensive gauge of a country's economic performance. The expenditure method specifically examines GDP by summing up the total expenditures incurred within an economy.

@@ -1,6 +1,10 @@
 ---
-title: "Cyclical Unemployment and Types of Unemployment (Algo Trading)"
-description: "Explore different types of unemployment including cyclical unemployment and their impact on economies. Understand how economic cycles influence employment and the role of policy interventions. Discover the implications of algorithmic trading on market dynamics and employment in the trading sector."
+category: quant_concept
+description: Explore different types of unemployment including cyclical unemployment
+  and their impact on economies. Understand how economic cycles influence employment
+  and the role of policy interventions. Discover the implications of algorithmic trading
+  on market dynamics and employment in the trading sector.
+title: Cyclical Unemployment and Types of Unemployment (Algo Trading)
 ---
 
 Unemployment is a pivotal economic indicator that portrays the overall health and stability of an economy. It is defined as the situation where individuals who are capable and willing to work cannot find employment. The impact of unemployment is multifaceted, affecting both microeconomic and macroeconomic conditions, and it serves as a critical measure for policymakers to assess and strategize economic policies.

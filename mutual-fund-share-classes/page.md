@@ -1,6 +1,9 @@
 ---
-title: "Mutual Fund Share Classes (Algo Trading)"
-description: "Explore mutual fund share classes and algorithmic trading strategies in this detailed guide Learn about diverse investment types and how to optimize your portfolio"
+category: quant_concept
+description: Explore mutual fund share classes and algorithmic trading strategies
+  in this detailed guide Learn about diverse investment types and how to optimize
+  your portfolio
+title: Mutual Fund Share Classes (Algo Trading)
 ---
 
 In investing, understanding the different components and options available is crucial. Investors face a myriad of choices and complexities that can significantly influence their returns. One such critical aspect is share classes, a concept prevalent in both mutual funds and company stocks. Share classes determine different rights, rewards, and responsibilities for investors, affecting voting rights as well as dividend allocations in stocks, or fee structures in mutual funds.

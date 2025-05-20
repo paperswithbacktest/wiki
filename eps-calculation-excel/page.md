@@ -1,6 +1,8 @@
 ---
-title: "EPS Calculation Using Excel (Algo Trading)"
-description: "Learn to calculate Earnings Per Share (EPS) using Excel to enhance your algorithmic trading strategies and make informed, data-driven investment decisions."
+category: quant_concept
+description: Learn to calculate Earnings Per Share (EPS) using Excel to enhance your
+  algorithmic trading strategies and make informed, data-driven investment decisions.
+title: EPS Calculation Using Excel (Algo Trading)
 ---
 
 Understanding key performance metrics is crucial for making informed investment decisions in the world of finance. One such valuable metric is Earnings Per Share (EPS), which provides insight into a company's profitability per share of stock. EPS is a fundamental indicator used by investors and analysts to evaluate a company’s financial health. It serves as a measure of profitability on a per-share basis, offering a straightforward way to compare companies within the same industry.

@@ -1,9 +1,9 @@
 ---
-title: Comprehensive Comparison of Interactive Brokers and E*TRADE
+category: trading_strategy
 description: Interactive Brokers vs E*TRADE comparison shows fees account minimums
   tools and mobile features to help you choose the right broker Discover more inside
+title: Comprehensive Comparison of Interactive Brokers and E*TRADE
 ---
-
 
 ![Image](images/1.png)
 

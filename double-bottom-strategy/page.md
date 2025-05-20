@@ -1,6 +1,11 @@
 ---
-title: "Double Bottom Strategy Explained (Algo Trading)"
-description: Learn about the double bottom strategy in algorithmic trading to enhance market reversal predictions. Discover how this pattern helps traders make informed decisions, manage risks, and leverage automation for efficiency. Understand the technical analysis involved in identifying double bottom patterns and develop strategies to optimize your trading outcomes in a dynamic market environment.
+category: trading_strategy
+description: Learn about the double bottom strategy in algorithmic trading to enhance
+  market reversal predictions. Discover how this pattern helps traders make informed
+  decisions, manage risks, and leverage automation for efficiency. Understand the
+  technical analysis involved in identifying double bottom patterns and develop strategies
+  to optimize your trading outcomes in a dynamic market environment.
+title: Double Bottom Strategy Explained (Algo Trading)
 ---
 
 In algorithmic trading, the 'double timing bottom' is an essential concept utilized for predicting market reversals. This pattern signals potential bullish reversals by identifying key price action structures in trading charts. Recognizing such patterns allows traders to make informed decisions, adjust their strategies effectively, and potentially increase returns while managing risks judiciously.

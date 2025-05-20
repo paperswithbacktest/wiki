@@ -1,6 +1,9 @@
 ---
-title: "liquidity fragmentation (Algo Trading)"
-description: "Explore the impact of liquidity fragmentation in algorithmic trading and DeFi Understand its causes challenges for traders and potential solutions for a seamless market experience"
+category: quant_concept
+description: Explore the impact of liquidity fragmentation in algorithmic trading
+  and DeFi Understand its causes challenges for traders and potential solutions for
+  a seamless market experience
+title: liquidity fragmentation (Algo Trading)
 ---
 
 Liquidity fragmentation is a critical issue in algorithmic trading and decentralized finance (DeFi), significantly impacting market efficiency and trader experiences. This fragmentation occurs when liquidity, or the ease of asset exchange without affecting price, is spread across multiple platforms rather than being consolidated. Such dispersion hinders the seamless operation of trading platforms, creating inefficiencies that can lead to increased transaction costs and limited trading opportunities.

@@ -1,6 +1,8 @@
 ---
-title: "Assessing Trust in Bond Rating Agencies (Algo Trading)"
-description: "Explore the dynamic relationship between trust in credit rating agencies, bond ratings, and the impact of algorithmic trading on bond market efficiency."
+category: quant_concept
+description: Explore the dynamic relationship between trust in credit rating agencies,
+  bond ratings, and the impact of algorithmic trading on bond market efficiency.
+title: Assessing Trust in Bond Rating Agencies (Algo Trading)
 ---
 
 In the complex landscape of financial markets, understanding the interplay between trust credit agencies, bond ratings, and algorithmic trading is essential. Credit rating agencies serve a pivotal function by assessing the creditworthiness of a variety of entities, from sovereign nations to corporations, directly influencing investor decisions and overall market dynamics. These ratings help investors gauge the risk associated with securities, particularly bonds, thereby influencing the interest rates entities must pay to attract funding.

@@ -1,6 +1,8 @@
 ---
-title: "Impact of Marketable Securities on Financial Statements (Algo Trading)"
-description: "Explore how marketable securities and algorithmic trading influence financial statements Learn the impact of these elements on liquidity ratios and investor perception"
+category: quant_concept
+description: Explore how marketable securities and algorithmic trading influence financial
+  statements Learn the impact of these elements on liquidity ratios and investor perception
+title: Impact of Marketable Securities on Financial Statements (Algo Trading)
 ---
 
 The world of finance is vast and multifaceted, with various elements playing crucial roles in shaping the financial landscape. Among these essential elements are financial statements, marketable securities, and algorithmic trading, each serving a unique function in corporate finance. This article explores the relationship between these financial components and their impact on a company's financial health.

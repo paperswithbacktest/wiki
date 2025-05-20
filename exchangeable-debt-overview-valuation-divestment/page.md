@@ -1,6 +1,9 @@
 ---
-title: "Exchangeable Debt: Overview, Valuation, and Divestment (Algo Trading)"
-description: "Explore the dynamics of exchangeable debt in finance, a hybrid security offering flexibility in debt reduction, strategic divestment, and algorithmic trading integration."
+category: quant_concept
+description: Explore the dynamics of exchangeable debt in finance, a hybrid security
+  offering flexibility in debt reduction, strategic divestment, and algorithmic trading
+  integration.
+title: 'Exchangeable Debt: Overview, Valuation, and Divestment (Algo Trading)'
 ---
 
 In the complex world of finance, exchangeable debt emerges as a distinctive form of hybrid security that offers both flexibility and strategic advantages to issuing companies. Unlike traditional debt instruments, exchangeable debt provides issuers with the option to convert their debt into equity shares of a company other than the issuer, often a subsidiary or a partner company. This feature not only serves as a mechanism for reducing debt but also allows companies to strategically manage their investment portfolios without immediate divestment of equity holdings. The intricate nature of exchangeable debt requires a comprehensive understanding of its valuation, which entails assessing both the bond component and the embedded option to exchange for equity shares. This intrinsic complexity also highlights the significant role exchangeable debt can play in divestment strategies, offering a nuanced approach to managing large equity stakes in other companies.

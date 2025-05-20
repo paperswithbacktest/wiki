@@ -1,6 +1,9 @@
 ---
-title: "ETF Discounts and Premiums (Algo Trading)"
-description: "Explore the intricacies of ETF pricing including premiums and discounts relative to NAV Understand how algorithmic trading impacts these financial instruments and pricing efficiency"
+category: trading_strategy
+description: Explore the intricacies of ETF pricing including premiums and discounts
+  relative to NAV Understand how algorithmic trading impacts these financial instruments
+  and pricing efficiency
+title: ETF Discounts and Premiums (Algo Trading)
 ---
 
 Exchange-traded funds (ETFs) have established themselves as a vital component of investment strategies due to their inherent flexibility, diversity of assets, and cost-efficiency. As pooled investment vehicles, ETFs allow investors to gain exposure to a diverse range of securities, including stocks, bonds, commodities, and other assets, with the convenience of trading like individual stocks on an exchange. The allure of ETFs largely derives from their ability to offer instant diversification, low expense ratios, and tax efficiency, making them attractive to both institutional and retail investors.

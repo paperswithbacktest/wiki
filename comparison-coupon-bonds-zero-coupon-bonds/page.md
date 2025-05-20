@@ -1,6 +1,8 @@
 ---
-title: "Comparison of Coupon Bonds and Zero-Coupon Bonds (Algo Trading)"
-description: "Discover the differences between coupon and zero-coupon bonds and learn how algorithmic trading is transforming bond markets enhancing investor decisions."
+category: quant_concept
+description: Discover the differences between coupon and zero-coupon bonds and learn
+  how algorithmic trading is transforming bond markets enhancing investor decisions.
+title: Comparison of Coupon Bonds and Zero-Coupon Bonds (Algo Trading)
 ---
 
 In the world of fixed-income investments, understanding the nuances of different bond types can significantly influence decision-making processes. Zero-coupon bonds and coupon bonds are two prominent types of bonds, each with unique characteristics and implications.

@@ -1,6 +1,8 @@
 ---
-title: "TraderPlanet Overview (Algo Trading)"
-description: "Explore the evolving world of algo trading and platforms like TraderPlanet essential for navigating modern financial markets and achieving investment success."
+category: trading_strategy
+description: Explore the evolving world of algo trading and platforms like TraderPlanet
+  essential for navigating modern financial markets and achieving investment success.
+title: TraderPlanet Overview (Algo Trading)
 ---
 
 The world of financial markets is in a state of constant flux, with technology emerging as a central force in the development and improvement of trading strategies. As investors continuously strive to outperform the market, tools such as trading platforms and algorithmic trading, commonly known as algo trading, have become indispensable.

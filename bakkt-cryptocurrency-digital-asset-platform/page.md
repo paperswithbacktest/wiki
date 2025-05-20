@@ -1,6 +1,9 @@
 ---
-title: "Bakkt: Cryptocurrency and Digital Asset Platform (Algo Trading)"
-description: "Explore Bakkt's innovative platform leading the way in digital asset trading with secure custody, algorithmic trading, and strategic partnerships for seamless transactions."
+category: trading_strategy
+description: Explore Bakkt's innovative platform leading the way in digital asset
+  trading with secure custody, algorithmic trading, and strategic partnerships for
+  seamless transactions.
+title: 'Bakkt: Cryptocurrency and Digital Asset Platform (Algo Trading)'
 ---
 
 In the rapidly evolving sphere of digital assets and cryptocurrency trading, Bakkt is at the forefront, pioneering innovative methods for handling and managing digital financial products. Established in 2018 by the Intercontinental Exchange (ICE) and headquartered in Atlanta, Georgia, Bakkt has swiftly emerged as a significant entity within the cryptocurrency ecosystem. The platform's inception was driven by the need to create a trusted infrastructure for digital assets, aiming to bridge the gap between traditional financial systems and the burgeoning digital currency market.

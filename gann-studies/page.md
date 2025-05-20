@@ -1,6 +1,8 @@
 ---
-title: "Gann Studies (Algo Trading)"
-description: "Discover the dynamic world of Gann studies in algo trading Learn how combining Gann analysis with technical and algorithmic trading enhances market prediction."
+category: trading_strategy
+description: Discover the dynamic world of Gann studies in algo trading Learn how
+  combining Gann analysis with technical and algorithmic trading enhances market prediction.
+title: Gann Studies (Algo Trading)
 ---
 
 The intersection of financial markets, Gann analysis, technical analysis, and algorithmic trading presents a dynamic and multifaceted landscape for traders and analysts. Each component offers distinct methods and insights that enhance market prediction and trading strategies.

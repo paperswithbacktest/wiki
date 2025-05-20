@@ -1,6 +1,8 @@
 ---
-title: "Recursive Competitive Equilibrium (Algo Trading)"
-description: "Recursive Competitive Equilibrium helps economists model economic dynamics and optimize algorithmic trading decisions by understanding supply-demand balance."
+category: quant_concept
+description: Recursive Competitive Equilibrium helps economists model economic dynamics
+  and optimize algorithmic trading decisions by understanding supply-demand balance.
+title: Recursive Competitive Equilibrium (Algo Trading)
 ---
 
 In finance, understanding how economies operate and evolve is crucial for both policymakers and market participants. One powerful theory aiding this understanding is Recursive Competitive Equilibrium (RCE), which serves as a fundamental framework in economic analysis. RCE is integral to modeling and predicting how economies adjust to various stimuli, by examining how supply and demand achieve balance in a recursive manner. As we analyze RCE, we will focus on its core principles and standout applications, specifically its impact on algorithmic trading—a fast-evolving field in modern finance.

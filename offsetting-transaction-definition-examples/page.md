@@ -1,6 +1,8 @@
 ---
-title: "Offsetting Transaction: Definition and Examples (Algo Trading)"
-description: "Explore the concept of offsetting transactions in algorithmic trading and discover how these strategies mitigate risk and enhance trading performance."
+category: quant_concept
+description: Explore the concept of offsetting transactions in algorithmic trading
+  and discover how these strategies mitigate risk and enhance trading performance.
+title: 'Offsetting Transaction: Definition and Examples (Algo Trading)'
 ---
 
 In today's dynamic financial landscape, comprehending the intricate mechanisms of market transactions is imperative for investors and traders alike. Among the key concepts is financial transaction offsetting, which is particularly impactful when applied within the context of algorithmic trading. Offsetting transactions serve as strategic instruments, not just mere techniques, aimed at mitigating risk and enhancing trading outcomes. This concept involves executing complementary trades that reduce or eliminate the potential risk associated with existing positions. 

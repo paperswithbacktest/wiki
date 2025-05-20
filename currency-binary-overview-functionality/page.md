@@ -1,6 +1,8 @@
 ---
-title: "Currency Binary: Overview and Functionality (Algo Trading)"
-description: "Explore the essentials of currency binary options trading and algorithmic strategies to make informed decisions in the fast-paced forex market."
+category: trading_strategy
+description: Explore the essentials of currency binary options trading and algorithmic
+  strategies to make informed decisions in the fast-paced forex market.
+title: 'Currency Binary: Overview and Functionality (Algo Trading)'
 ---
 
 In recent years, currency binary options have gained traction as a speculative financial instrument designed to capitalize on short-term movements in the forex market. This method of trading is characterized by fixed payoffs based on the outcome of whether the price of a currency pair will rise or fall within a specified time frame. The appeal of binary options lies in their simplicity—traders must simply predict if the market will move up or down. However, this simplicity belies the inherent high risk, as incorrect predictions can lead to the total loss of the initial investment.

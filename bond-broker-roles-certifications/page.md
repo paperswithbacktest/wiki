@@ -1,6 +1,8 @@
 ---
-title: "Bond Broker: Roles and Certifications (Algo Trading)"
-description: "Discover the roles and certifications of bond brokers in the evolving financial market with insights into algorithmic trading for enhanced strategies."
+category: quant_concept
+description: Discover the roles and certifications of bond brokers in the evolving
+  financial market with insights into algorithmic trading for enhanced strategies.
+title: 'Bond Broker: Roles and Certifications (Algo Trading)'
 ---
 
 The financial services industry is an ever-evolving space that demands continuous learning and adaptation from professionals to remain competitive. This dynamic is driven by the need for current certifications and expertise in new trading techniques. Among the key players in this ecosystem are bond brokers, who serve as essential intermediaries, facilitating transactions between buyers and sellers. Their role is pivotal in the bond market, which is often characterized by its complexity and lower transparency relative to the equity markets.

@@ -1,6 +1,9 @@
 ---
-title: "Give-Up Trade: Overview and Parties Involved (Algo Trading)"
-description: "Explore the intricacies of give-up trades in financial markets Learn how these trades involve multiple brokers to streamline operations and manage risk effectively"
+category: quant_concept
+description: Explore the intricacies of give-up trades in financial markets Learn
+  how these trades involve multiple brokers to streamline operations and manage risk
+  effectively
+title: 'Give-Up Trade: Overview and Parties Involved (Algo Trading)'
 ---
 
 In the world of financial trading, various intricate operations ensure trades are executed smoothly, efficiently, and at optimal costs. Among these, the 'give-up trade' stands out as a mechanism involving multiple brokers to facilitate trading activities, particularly in the securities or commodities markets. This article examines the intricacies of give-up trades, assessing their relevance in the broader trading ecosystem and their interaction with modern algorithmic trading strategies.

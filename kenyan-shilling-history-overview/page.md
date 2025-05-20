@@ -1,6 +1,8 @@
 ---
-title: "Kenyan Shilling: History And Overview (Algo Trading)"
-description: "Explore the rich history and evolution of the Kenyan Shilling (KES), its vital role in Kenya's economy, and its influence in algorithmic trading today."
+category: dataset
+description: Explore the rich history and evolution of the Kenyan Shilling (KES),
+  its vital role in Kenya's economy, and its influence in algorithmic trading today.
+title: 'Kenyan Shilling: History And Overview (Algo Trading)'
 ---
 
 The Kenyan Shilling (KES) stands as the official currency of Kenya, symbolizing the nation's economic identity since its inception. Serving as a vital component of the country’s economic framework, the Kenyan Shilling facilitates daily transactions, influences monetary policy, and affects both domestic and international trade. Its stability and value are crucial for economic planning, impacting everything from inflation rates to foreign investment attractiveness.

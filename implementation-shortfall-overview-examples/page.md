@@ -1,6 +1,8 @@
 ---
-title: "Implementation Shortfall: Overview and Examples (Algo Trading)"
-description: "Learn about implementation shortfall a key metric in trading that evaluates execution efficiency in algo trading and its impact on investment costs and returns."
+category: quant_concept
+description: Learn about implementation shortfall a key metric in trading that evaluates
+  execution efficiency in algo trading and its impact on investment costs and returns.
+title: 'Implementation Shortfall: Overview and Examples (Algo Trading)'
 ---
 
 Implementation shortfall in trading refers to the difference between the theoretical cost of executing an investment decision and the actual cost incurred when carrying out the trade. It quantifies the trade execution performance and is a critical metric for understanding and managing trading costs. The calculation of implementation shortfall involves comparing the price at the time of decision-making with the execution price, accounting for delays, price slippage, and any market impact. It can be mathematically expressed as:

@@ -1,6 +1,9 @@
 ---
-title: "Producer Surplus: Formula and Example (Algo Trading)"
-description: "Explore the intricacies of producer surplus with algorithmic trading Learn about market efficiency resource allocation and economic welfare in modern markets"
+category: quant_concept
+description: Explore the intricacies of producer surplus with algorithmic trading
+  Learn about market efficiency resource allocation and economic welfare in modern
+  markets
+title: 'Producer Surplus: Formula and Example (Algo Trading)'
 ---
 
 Understanding economic concepts such as surplus is essential in navigating the complexities of today's market dynamics and technological innovations. Economic surplus, which encompasses both consumer and producer surplus, reflects the additional benefits accrued by participants in a market transaction beyond the minimal acceptable price for producers or the maximum willingness to pay for consumers. These concepts are pivotal in assessing market efficiency and gauging economic welfare.

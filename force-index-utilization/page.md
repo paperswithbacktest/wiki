@@ -1,6 +1,8 @@
 ---
-title: "Force Index Utilization (Algo Trading)"
-description: "Understand market momentum with the Force Index a vital tool for traders using technical indicators for informed trading decisions in algorithmic strategies."
+category: trading_strategy
+description: Understand market momentum with the Force Index a vital tool for traders
+  using technical indicators for informed trading decisions in algorithmic strategies.
+title: Force Index Utilization (Algo Trading)
 ---
 
 In today's fast-paced financial markets, leveraging technical indicators is crucial for making informed trading decisions. Among these indicators, the Force Index stands out as a significant tool that traders use to assess market momentum and anticipate price movements. Developed by Dr. Alexander Elder, the Force Index measures the power behind a price movement by calculating the strength of buying and selling pressure. This calculation is achieved by taking the difference between the current closing price and the previous closing price and multiplying it by the traded volume. Mathematically, the Force Index $FI$ can be expressed as:

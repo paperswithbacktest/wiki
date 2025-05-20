@@ -1,6 +1,8 @@
 ---
-title: "Investment in Municipal Bonds Amidst Interest Rate Increases (Algo Trading)"
-description: "Explore the impact of rising interest rates on municipal bonds and how algorithmic trading can enhance investment strategies in fluctuating markets."
+category: trading_strategy
+description: Explore the impact of rising interest rates on municipal bonds and how
+  algorithmic trading can enhance investment strategies in fluctuating markets.
+title: Investment in Municipal Bonds Amidst Interest Rate Increases (Algo Trading)
 ---
 
 The world of investments is multifaceted and often challenging, particularly when it comes to understanding the interplay between interest rates and various financial instruments such as municipal bonds. Municipal bonds, commonly referred to as "munis," are debt securities issued by local governments, often to fund public infrastructure projects. These financial tools are generally considered secure investment options due to their stable returns and tax advantages. However, investment in municipal bonds becomes more complex with the fluctuating interest rates set forth by the Federal Reserve.

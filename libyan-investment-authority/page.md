@@ -1,6 +1,9 @@
 ---
-title: "Libyan Investment Authority (Algo Trading)"
-description: "Discover how the Libyan Investment Authority uses algorithmic trading to enhance investment efficiency and risk management, supporting diversified economic growth."
+category: dataset
+description: Discover how the Libyan Investment Authority uses algorithmic trading
+  to enhance investment efficiency and risk management, supporting diversified economic
+  growth.
+title: Libyan Investment Authority (Algo Trading)
 ---
 
 The Libyan Investment Authority (LIA) stands as one of Africa's largest sovereign wealth funds, with assets exceeding $67 billion. Established in 2006, the LIA was conceived as a vehicle to transform Libya's substantial oil revenues into diverse investment opportunities aimed at sustaining financial stability for future generations. The LIA's expansive portfolio encompasses sectors such as real estate, financial services, and technology, reflecting its commitment to economic diversification amidst the country's reliance on oil.

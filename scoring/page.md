@@ -1,7 +1,8 @@
 ---
-title: Understanding Scoring Metrics for Machine Learning Models
+category: quant_concept
 description: Scoring metrics in machine learning provide key insights into model accuracy
   recall and error rates while guiding improvements Discover more inside
+title: Understanding Scoring Metrics for Machine Learning Models
 ---
 
 ![Image](images/1.jpeg)

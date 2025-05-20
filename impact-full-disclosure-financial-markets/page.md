@@ -1,6 +1,10 @@
 ---
-title: "Impact of Full Disclosure on Financial Markets (Algo Trading)"
-description: "Explore the impact of full disclosure in financial markets, focusing on how transparency affects algorithmic trading. This article examines regulatory measures needed to ensure fairness and prevent market manipulation in a rapidly evolving digital marketplace."
+category: quant_concept
+description: Explore the impact of full disclosure in financial markets, focusing
+  on how transparency affects algorithmic trading. This article examines regulatory
+  measures needed to ensure fairness and prevent market manipulation in a rapidly
+  evolving digital marketplace.
+title: Impact of Full Disclosure on Financial Markets (Algo Trading)
 ---
 
 In recent years, the landscape of financial markets has been significantly transformed by advancements in technology, enabling a shift towards algorithmic trading. This form of trading uses sophisticated algorithms to execute high-speed transactions efficiently and has become a mainstay in global financial markets. Algorithmic trading leverages computer programs to automatically execute trading strategies at speeds and frequencies unimaginable to human traders, fundamentally altering market dynamics.

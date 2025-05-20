@@ -1,6 +1,10 @@
 ---
-title: "Paul Krugman's Criticisms of Bitcoin (Algo Trading)"
-description: "Explore Paul Krugman's critiques of Bitcoin, focusing on its lack of intrinsic value, potential for financial instability, and environmental impact. Discover how his views tie into broader concerns about financial innovation and regulation."
+category: quant_concept
+description: Explore Paul Krugman's critiques of Bitcoin, focusing on its lack of
+  intrinsic value, potential for financial instability, and environmental impact.
+  Discover how his views tie into broader concerns about financial innovation and
+  regulation.
+title: Paul Krugman's Criticisms of Bitcoin (Algo Trading)
 ---
 
 Paul Krugman, a Nobel laureate in Economics, is widely recognized for his significant contributions to economic theory and his insightful commentary on financial markets. Over the years, Krugman has been an outspoken critic of Bitcoin and cryptocurrencies, fundamentally questioning their place and utility within the economic framework. His skepticism is primarily anchored in the belief that these digital assets lack intrinsic economic value and utility. 

@@ -1,6 +1,9 @@
 ---
-title: "Breakout in Financial Analysis (Algo Trading)"
-description: "Explore the synergy between breakout strategies, financial analysis, and algo trading in this comprehensive guide to enhancing portfolio performance and investment success."
+category: trading_strategy
+description: Explore the synergy between breakout strategies, financial analysis,
+  and algo trading in this comprehensive guide to enhancing portfolio performance
+  and investment success.
+title: Breakout in Financial Analysis (Algo Trading)
 ---
 
 In the ever-evolving world of finance, algorithmic trading has become a cornerstone for many successful investment strategies. As financial markets continue to grow in complexity and speed, the necessity for robust, data-driven strategies becomes increasingly apparent. This article examines the intersection of breakout investment strategies, financial analysis, and algorithmic trading—three powerful domains that, when synergized, can significantly enhance portfolio performance.

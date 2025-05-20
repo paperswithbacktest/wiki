@@ -1,6 +1,8 @@
 ---
-title: "Comparison of U.S. Savings Bonds: Series EE and Series I (Algo Trading)"
-description: "Compare Series EE and Series I U.S. Savings Bonds with insights on their benefits for stable investing plus the impact of digital innovations and algo trading."
+category: quant_concept
+description: Compare Series EE and Series I U.S. Savings Bonds with insights on their
+  benefits for stable investing plus the impact of digital innovations and algo trading.
+title: 'Comparison of U.S. Savings Bonds: Series EE and Series I (Algo Trading)'
 ---
 
 U.S. Savings Bonds, such as Series EE and Series I, are investment instruments with the backing of the U.S. government, offering a level of security and reliability that attracts conservative investors. This guaranteed backing ensures the principal amount is protected, and investors earn interest, making these bonds a secure option for those looking to preserve capital over time.
@@ -117,4 +119,3 @@ Overall, U.S. savings bonds exemplify a balanced investment choice, offering sec
 
 3. **Fabozzi, Frank J.: Bond Markets, Analysis, and Strategies**  
    Frank J. Fabozzi’s book is an authoritative source on bond market mechanics and strategies. It provides foundational knowledge about different bond types, including government and corporate bonds, aiding in the comparative understanding of savings bonds and the broader bond market landscape.
-

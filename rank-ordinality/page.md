@@ -1,10 +1,9 @@
 ---
-title: Rank Data Techniques and Ordinal Regression in Machine Learning
+category: quant_concept
 description: Rank Data drives ML models to respect item order and improves search
   and recommendation while handling ties and missing values Discover more inside
+title: Rank Data Techniques and Ordinal Regression in Machine Learning
 ---
-
-
 
 ## Table of Contents
 

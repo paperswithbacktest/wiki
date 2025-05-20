@@ -1,6 +1,8 @@
 ---
-title: "Franked Dividends: Types and Examples (Algo Trading)"
-description: "Discover how franked dividends can optimize your investment strategy by providing tax credits and reducing double taxation impacting your overall returns."
+category: quant_concept
+description: Discover how franked dividends can optimize your investment strategy
+  by providing tax credits and reducing double taxation impacting your overall returns.
+title: 'Franked Dividends: Types and Examples (Algo Trading)'
 ---
 
 Dividends are a valuable part of investment portfolios, providing a stream of income from a company's earnings that is distributed to shareholders. Understanding the various types of dividends and their tax implications is essential for investors aiming to maximize their returns. This article will examine different categories of dividends, such as franked and unfranked dividends, which have distinct tax treatments with significant implications for investors. Franked dividends carry tax credits reflecting that corporate taxes have already been paid, while unfranked dividends do not offer such credits, impacting the tax liabilities of shareholders differently.
@@ -212,4 +214,3 @@ Emphasizing continuous education is vital for navigating this dynamic financial 
    - Bloomberg Professional Services. Regular webinars on financial strategies, including tax-efficient investing and algorithmic trading. More information can be found at: [Bloomberg Professional](https://www.bloomberg.com/professional).
 
 These resources collectively provide a comprehensive guide for further exploration of dividend taxation and the strategic role of algorithmic trading in maximizing tax efficiency.
-

@@ -1,6 +1,8 @@
 ---
-title: "Comparison of E*TRADE and TD Ameritrade (Algo Trading)"
-description: "Explore the algorithmic trading features of E*TRADE and TD Ameritrade. Compare usability, trading technology, and costs to optimize your trading strategy."
+category: trading_strategy
+description: Explore the algorithmic trading features of E*TRADE and TD Ameritrade.
+  Compare usability, trading technology, and costs to optimize your trading strategy.
+title: Comparison of E*TRADE and TD Ameritrade (Algo Trading)
 ---
 
 In the world of online brokerage, E*TRADE and TD Ameritrade stand out for their comprehensive platforms and wide range of offerings. Both brokers offer unique features and capabilities, particularly attracting those interested in algorithmic trading. Algorithmic trading, or algo trading, is the use of computer algorithms to automatically execute trades at optimal prices. Algorithms achieve higher speed and precision than any manual trading ever could, opening up opportunities to enhance trading strategies.

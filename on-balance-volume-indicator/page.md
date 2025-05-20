@@ -1,6 +1,8 @@
 ---
-title: "On-Balance Volume Indicator (Algo Trading)"
-description: "Explore the On-Balance Volume indicator to enhance your trading strategies By analyzing volume flow OBV helps forecast price changes and assess market trends"
+category: trading_strategy
+description: Explore the On-Balance Volume indicator to enhance your trading strategies
+  By analyzing volume flow OBV helps forecast price changes and assess market trends
+title: On-Balance Volume Indicator (Algo Trading)
 ---
 
 On-Balance Volume (OBV) is a widely recognized momentum indicator in the field of technical analysis. Its primary function is to use volume flow to predict changes in stock prices. This indicator was developed by Joseph Granville in the 1960s and has since evolved into a key tool for traders seeking to capture the dynamics of market trends.

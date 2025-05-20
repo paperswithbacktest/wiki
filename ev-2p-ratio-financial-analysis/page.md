@@ -1,6 +1,8 @@
 ---
-title: "EV/2P Ratio in Financial Analysis (Algo Trading)"
-description: "Explore the significance of the EV/2P ratio in valuing oil and gas companies and how it enhances algorithmic trading strategies for informed investments."
+category: quant_concept
+description: Explore the significance of the EV/2P ratio in valuing oil and gas companies
+  and how it enhances algorithmic trading strategies for informed investments.
+title: EV/2P Ratio in Financial Analysis (Algo Trading)
 ---
 
 Understanding financial metrics is critical in the investment world, where complex data evaluation often influences decisions. The oil and gas industry presents unique challenges and opportunities for investors, requiring specialized metrics to best assess company value. Among these, the EV/2P ratio plays a pivotal role. This ratio is a valuation metric used predominantly to gauge a company’s worth based on its enterprise value relative to its proven and probable reserves. It provides insights into how the market values a company’s reserves, enabling investors to make informed decisions.

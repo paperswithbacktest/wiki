@@ -1,6 +1,11 @@
 ---
-title: "Investing in Corporate Bonds (Algo Trading)"
-description: "Discover how algorithmic trading transforms corporate bond investing by boosting efficiency and liquidity in financial markets. Explore the benefits of automation in reducing transaction costs and enhancing decision-making, alongside understanding key corporate bond features and strategies to optimize investment portfolios."
+category: trading_strategy
+description: Discover how algorithmic trading transforms corporate bond investing
+  by boosting efficiency and liquidity in financial markets. Explore the benefits
+  of automation in reducing transaction costs and enhancing decision-making, alongside
+  understanding key corporate bond features and strategies to optimize investment
+  portfolios.
+title: Investing in Corporate Bonds (Algo Trading)
 ---
 
 The evolving landscape of fixed income corporate bond investing is increasingly shaped by the advent of algorithmic trading, a technological advancement that is revolutionizing the financial markets. Traditionally, fixed income investments, particularly corporate bonds, function as debt securities issued by corporations aiming to raise capital. These securities offer predetermined returns and have been a key component of diversified investment portfolios. However, the introduction of algorithmic trading has begun to alter the way these bonds are traded and managed.

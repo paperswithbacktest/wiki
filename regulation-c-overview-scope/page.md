@@ -1,6 +1,9 @@
 ---
-title: "Regulation C: Overview and Scope (Algo Trading)"
-description: "Explore the intricacies of Regulation C and its impact on algorithmic trading, focusing on transparency, compliance, and the challenges faced by market participants."
+category: quant_concept
+description: Explore the intricacies of Regulation C and its impact on algorithmic
+  trading, focusing on transparency, compliance, and the challenges faced by market
+  participants.
+title: 'Regulation C: Overview and Scope (Algo Trading)'
 ---
 
 Understanding the complex landscape of financial regulation is crucial for entities involved in algorithmic trading. Algorithmic trading, often characterized by rapid execution and reliance on sophisticated mathematical models, has revolutionized the financial markets. However, this transformation requires market participants to navigate a dense web of regulatory requirements designed to uphold market integrity and prevent systemic risks.

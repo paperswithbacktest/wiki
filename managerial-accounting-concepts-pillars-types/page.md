@@ -1,6 +1,9 @@
 ---
-title: "Managerial Accounting: Concepts, Pillars, and Types (Algo Trading)"
-description: "Explore how managerial accounting integrates with algorithmic trading to shape modern finance. Discover essential accounting pillars and types supporting strategic decisions."
+category: quant_concept
+description: Explore how managerial accounting integrates with algorithmic trading
+  to shape modern finance. Discover essential accounting pillars and types supporting
+  strategic decisions.
+title: 'Managerial Accounting: Concepts, Pillars, and Types (Algo Trading)'
 ---
 
 In the rapidly evolving world of finance, understanding accounting principles is crucial for informed decision-making. Accounting functions as the backbone of financial management, facilitating the maintenance of transparency and accountability. It enables businesses to monitor financial activities, comply with regulatory standards, and strategically plan for future growth. This article explores three essential components that form the bedrock of financial acumen: the fundamental pillars of accounting, various types of managerial accounting, and the role of algorithmic trading in modern finance.

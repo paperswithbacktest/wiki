@@ -1,6 +1,8 @@
 ---
-title: "Gold Options: Overview and Types (Algo Trading)"
-description: "Explore strategic advantages of gold options and algorithmic trading for investment portfolios. Learn how to effectively leverage gold market opportunities."
+category: quant_concept
+description: Explore strategic advantages of gold options and algorithmic trading
+  for investment portfolios. Learn how to effectively leverage gold market opportunities.
+title: 'Gold Options: Overview and Types (Algo Trading)'
 ---
 
 The world of financial derivatives offers various avenues for investment, and gold options are a notable choice. These financial instruments provide investors with the ability to position themselves in the gold market without the need to directly buy or sell the physical commodity. At the core of gold options is the principle that they are contracts granting the right, but not the obligation, to trade gold at a predetermined price at a future date. This opportunity for speculative positioning or hedging within the commodities market can cater to diverse investment objectives.

@@ -1,6 +1,9 @@
 ---
-title: "ESG Integration in Bond Markets (Algo Trading)"
-description: "Explore the integration of ESG and algorithmic trading in bond markets Discover how sustainable finance transforms investments aligning ethical values with financial goals"
+category: trading_strategy
+description: Explore the integration of ESG and algorithmic trading in bond markets
+  Discover how sustainable finance transforms investments aligning ethical values
+  with financial goals
+title: ESG Integration in Bond Markets (Algo Trading)
 ---
 
 In recent years, the financial sector has experienced a significant shift towards sustainable finance, with increasing emphasis on ESG (Environmental, Social, and Governance) investing. This transformation reflects a growing awareness among investors and institutions of the need to incorporate ethical and sustainable practices into financial decision-making processes. The convergence of bonds, sustainable finance, ESG investing, and algorithmic trading represents a noteworthy development in the investment landscape, offering new ways for investors to align their portfolios with both ethical values and financial objectives.

@@ -1,6 +1,8 @@
 ---
-title: "Free Cash Flow to Firm: Calculation and Examples (Algo Trading)"
-description: "Discover how Free Cash Flow to Firm is used in algorithmic trading as a critical metric for analyzing financial health and optimizing investment strategies."
+category: quant_concept
+description: Discover how Free Cash Flow to Firm is used in algorithmic trading as
+  a critical metric for analyzing financial health and optimizing investment strategies.
+title: 'Free Cash Flow to Firm: Calculation and Examples (Algo Trading)'
 ---
 
 Free Cash Flow to the Firm (FCFF) serves as a vital indicator in corporate finance and investing, reflecting a company's operational efficiency and value. This analysis focuses on FCFF within financial assessments and algorithmic trading, which benefits from FCFF's ability to portray a company's cash-generating capabilities clearly.

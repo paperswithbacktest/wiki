@@ -1,6 +1,9 @@
 ---
-title: "Ex-Distribution: Definition and Examples (Algo Trading)"
-description: "Explore the dynamic interplay between ex-distribution finance, dividends, and algorithmic trading to optimize your investment strategies and enhance shareholder value."
+category: quant_concept
+description: Explore the dynamic interplay between ex-distribution finance, dividends,
+  and algorithmic trading to optimize your investment strategies and enhance shareholder
+  value.
+title: 'Ex-Distribution: Definition and Examples (Algo Trading)'
 ---
 
 The financial landscape continually evolves, compelling investors to adopt innovative methods for optimizing strategies around key investment opportunities. Dividend distribution in finance is a pivotal event that significantly influences stock market dynamics. For many traders, dividends are not only a source of regular income but also an opportunity to enhance shareholder value, leading to informed investments in dividend-paying stocks.
@@ -189,4 +192,3 @@ Market reports from investment banks and consulting firms often provide insights
 Online platforms like Coursera and edX offer courses on trading technologies and algorithmic finance, often taught by industry experts or university professors. These courses cover topics such as computational finance, machine learning for trading, and the use of Python for algorithm development.
 
 Websites and forums dedicated to algorithmic trading, such as QuantConnect and Quantopian (though now integrated into Robinhood), offer tools for backtesting strategies and a wealth of user-generated content for learning and collaboration. These platforms enable aspiring traders to engage with broader trading communities, refine their strategies, and access backtesting environments.
-

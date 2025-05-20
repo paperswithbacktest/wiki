@@ -1,7 +1,8 @@
 ---
-title: Instance Segmentation Models From Mask R-CNN to BlendMask
+category: quant_concept
 description: Instance Segmentation delivers pixel level object masks with models like
   Mask R-CNN HTC and BlendMask for precise scene analysis Discover more inside
+title: Instance Segmentation Models From Mask R-CNN to BlendMask
 ---
 
 ![Image](images/1.png)

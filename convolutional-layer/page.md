@@ -1,7 +1,8 @@
 ---
-title: Understanding Convolutional Layers in Machine Learning
+category: quant_concept
 description: Convolutional layers use filters and convolution operations to extract
   image features for efficient learning and processing Discover more inside
+title: Understanding Convolutional Layers in Machine Learning
 ---
 
 ![Image](images/1.jpeg)

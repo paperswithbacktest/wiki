@@ -1,6 +1,8 @@
 ---
-title: "Hyperledger Fabric: Overview, Examples, Risks, and Version 2.0 (Algo Trading)"
-description: "Explore how Hyperledger Fabric 2.0 enhances algorithmic trading by increasing efficiency and security. Discover its role in transforming financial markets."
+category: quant_concept
+description: Explore how Hyperledger Fabric 2.0 enhances algorithmic trading by increasing
+  efficiency and security. Discover its role in transforming financial markets.
+title: 'Hyperledger Fabric: Overview, Examples, Risks, and Version 2.0 (Algo Trading)'
 ---
 
 Blockchain technology has emerged as a transformative force in modern business solutions, offering a decentralized, transparent, and secure framework for data and transaction management. By leveraging distributed ledger technology, blockchain allows multiple parties to have access to a synchronized copy of a digital ledger, reducing opportunities for fraud and error. This attribute makes it particularly valuable in industries where data integrity and transparency are paramount, such as supply chain management, healthcare, and finance.

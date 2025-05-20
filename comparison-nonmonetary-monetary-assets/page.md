@@ -1,6 +1,9 @@
 ---
-title: "Comparison of Nonmonetary and Monetary Assets (Algo Trading)"
-description: "Explore the pivotal distinctions between monetary and nonmonetary assets in algo trading to optimize strategies enhance risk management and boost investment returns."
+category: quant_concept
+description: Explore the pivotal distinctions between monetary and nonmonetary assets
+  in algo trading to optimize strategies enhance risk management and boost investment
+  returns.
+title: Comparison of Nonmonetary and Monetary Assets (Algo Trading)
 ---
 
 In the ever-evolving financial landscape, the capability to distinguish between different asset types plays a pivotal role in influencing investment decisions. Assets are generally classified into two primary categories: monetary and nonmonetary. Monetary assets are those that can be readily converted into cash or cash equivalents, such as bank deposits and accounts receivable. They typically have a fixed or determinable income value, making them essential for meeting short-term financial obligations. In contrast, nonmonetary assets include both tangible and intangible resources that do not possess a fixed or easily convertible cash value. Examples of these assets include real estate, equipment, and intellectual property such as patents and trademarks, which are critical for fostering long-term strategic growth.

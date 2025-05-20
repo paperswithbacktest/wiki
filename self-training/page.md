@@ -1,7 +1,8 @@
 ---
-title: Self-Training in Machine Learning for Improved Model Accuracy
+category: quant_concept
 description: Self-training in machine learning taps confident predictions on unlabeled
   data to expand training sets boost accuracy and limit errors Discover more inside
+title: Self-Training in Machine Learning for Improved Model Accuracy
 ---
 
 ![Image](images/1.jpeg)

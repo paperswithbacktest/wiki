@@ -1,6 +1,8 @@
 ---
-title: "Purchasing Pundi X Cryptocurrency (Algo Trading)"
-description: "Explore how to buy Pundi X cryptocurrency and leverage algorithmic trading for optimal investment strategies in the dynamic crypto market."
+category: trading_strategy
+description: Explore how to buy Pundi X cryptocurrency and leverage algorithmic trading
+  for optimal investment strategies in the dynamic crypto market.
+title: Purchasing Pundi X Cryptocurrency (Algo Trading)
 ---
 
 The world of cryptocurrency is vast and ever-evolving, with new tokens and projects emerging regularly. Among these innovative ventures is Pundi X, a project that aims to revolutionize retail transactions using blockchain technology. Pundi X seeks to simplify the way consumers and retailers transact with cryptocurrencies by providing a comprehensive ecosystem that facilitates seamless payment processes. 

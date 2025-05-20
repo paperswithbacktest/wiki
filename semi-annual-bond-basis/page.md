@@ -1,6 +1,9 @@
 ---
-title: "Semi-Annual Bond Basis (Algo Trading)"
-description: "Discover the importance of Semi-Annual Bond Basis in bond trading and how algorithmic trading optimizes strategies for comparing yields across different payment schedules."
+category: quant_concept
+description: Discover the importance of Semi-Annual Bond Basis in bond trading and
+  how algorithmic trading optimizes strategies for comparing yields across different
+  payment schedules.
+title: Semi-Annual Bond Basis (Algo Trading)
 ---
 
 In the world of financial markets, the semi-annual bond basis (SABB) is a crucial concept, particularly in bond trading. This metric plays a fundamental role in facilitating the comparison of bond yields by standardizing different coupon payment schedules. Bonds often come with varying coupon payment frequencies, such as annual, semi-annual, or quarterly. These discrepancies can make direct yield comparisons challenging for investors. 

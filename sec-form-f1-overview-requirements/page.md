@@ -1,6 +1,8 @@
 ---
-title: "SEC Form F-1: Overview and Requirements (Algo Trading)"
-description: "Explore SEC Form F-1 requirements crucial for foreign IPOs in the U.S. and how algorithmic trading utilizes this data for strategic trading insights."
+category: quant_concept
+description: Explore SEC Form F-1 requirements crucial for foreign IPOs in the U.S.
+  and how algorithmic trading utilizes this data for strategic trading insights.
+title: 'SEC Form F-1: Overview and Requirements (Algo Trading)'
 ---
 
 In today's fast-paced financial world, Initial Public Offerings (IPOs) represent a pivotal opportunity for companies aiming to raise capital and expand their operations. An integral element of the IPO process for foreign companies intending to list on U.S. exchanges is the filing of an SEC Form F-1. This form is crucial as it allows companies to register their securities with the U.S. Securities and Exchange Commission (SEC), facilitating their entry into one of the world's most significant capital markets.

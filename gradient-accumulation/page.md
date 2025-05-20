@@ -1,7 +1,8 @@
 ---
-title: Gradient Accumulation Techniques for Efficient Model Training
+category: quant_concept
 description: Gradient accumulation lets you train models with larger effective batch
   sizes on limited memory by summing gradients over mini batches Discover more inside
+title: Gradient Accumulation Techniques for Efficient Model Training
 ---
 
 ![Image](images/1.jpeg)

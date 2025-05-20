@@ -1,7 +1,8 @@
 ---
-title: Key Dimensionality Reduction Techniques in Machine Learning
+category: quant_concept
 description: Dimensionality reduction streamlines complex datasets for faster training
   and improved model accuracy using PCA LDA and autoencoders Discover more inside.
+title: Key Dimensionality Reduction Techniques in Machine Learning
 ---
 
 ![Image](images/1.jpeg)

@@ -1,6 +1,8 @@
 ---
-title: "2000 Y2K Bug: Events and Impact (Algo Trading)"
-description: "Discover how the Y2K bug impacted algorithmic trading systems and learn from the extensive preventive measures taken to mitigate potential disruptions."
+category: quant_concept
+description: Discover how the Y2K bug impacted algorithmic trading systems and learn
+  from the extensive preventive measures taken to mitigate potential disruptions.
+title: '2000 Y2K Bug: Events and Impact (Algo Trading)'
 ---
 
 The dawn of the year 2000 marked an era of significant fear and uncertainty due to the Millennium Bug, commonly known as Y2K. This bug stemmed from the widespread practice of abbreviating four-digit years to two digits in computer systems, a space-saving strategy dating back to the early days of computing. As 1999 turned into 2000, this shortcut threatened to confuse systems that might interpret the new year as 1900 instead, potentially causing errors in date calculations and data processing.

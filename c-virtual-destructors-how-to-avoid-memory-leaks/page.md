@@ -1,6 +1,10 @@
 ---
-title: "C++ Virtual Destructors: How to Avoid Memory Leaks (Algo Trading)"
-description: Learn how C++ virtual destructors can prevent memory leaks in algorithmic trading applications. Discover the importance of efficient resource management, the role of virtual destructors in inheritance and polymorphism, and their impact on system performance and reliability.
+category: quant_concept
+description: Learn how C++ virtual destructors can prevent memory leaks in algorithmic
+  trading applications. Discover the importance of efficient resource management,
+  the role of virtual destructors in inheritance and polymorphism, and their impact
+  on system performance and reliability.
+title: 'C++ Virtual Destructors: How to Avoid Memory Leaks (Algo Trading)'
 ---
 
 C++ serves as a foundational language in algorithmic trading due to its performance efficiency and low-level memory control. This programming language allows developers to write high-frequency trading applications capable of executing numerous transactions per second while maintaining stringent accuracy and reliability standards. The essence of algorithmic trading lies in executing preprogrammed trading instructions accounting for variables such as timing, price, and volume. In this context, the efficiency and speed of C++ are indispensable.

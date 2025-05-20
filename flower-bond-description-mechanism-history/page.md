@@ -1,6 +1,9 @@
 ---
-title: "Flower Bond: Description, Mechanism, and Historical Context (Algo Trading)"
-description: "Discover the historical context and mechanics of flower bonds in algo trading Explore their role, benefits, and technological influence on modern bond markets."
+category: quant_concept
+description: Discover the historical context and mechanics of flower bonds in algo
+  trading Explore their role, benefits, and technological influence on modern bond
+  markets.
+title: 'Flower Bond: Description, Mechanism, and Historical Context (Algo Trading)'
 ---
 
 The financial markets have evolved substantially over the decades, with bonds remaining a cornerstone in the investment landscape. Bonds offer a stable and predictable income, serving as a crucial component of diversified portfolios. They represent debt obligations that entities such as governments, municipalities, or corporations issue to raise capital. These instruments provide fixed income to investors, who rely on them for steady returns and capital preservation. Understanding the mechanics of bonds, including their pricing, yield factors, and risk characteristics, is essential for investment strategies.

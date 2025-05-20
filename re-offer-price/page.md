@@ -1,6 +1,8 @@
 ---
-title: "Re-Offer Price (Algo Trading)"
-description: "Unlock insights into re-offer pricing and algorithmic trading strategies to optimize investment decisions and capitalize on market fluctuations effectively."
+category: quant_concept
+description: Unlock insights into re-offer pricing and algorithmic trading strategies
+  to optimize investment decisions and capitalize on market fluctuations effectively.
+title: Re-Offer Price (Algo Trading)
 ---
 
 Re-offer price plays a significant role in investment finance, particularly within algorithmic trading strategies. This term pertains to the pricing and reintroduction of securities, such as bonds, into the market by underwriting syndicates. These syndicates are usually composed of financial institutions responsible for the initial purchase and subsequent resale of the securities to the public or institutional investors. The process of setting a re-offer price is essential for ensuring the distribution and liquidity of these securities in the market.

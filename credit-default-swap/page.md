@@ -1,6 +1,8 @@
 ---
-title: "Credit Default Swap (Algo Trading)"
-description: "Explore the intricacies of credit default swaps and algorithmic trading in the evolving derivatives market. Learn about risk management strategies and opportunities."
+category: quant_concept
+description: Explore the intricacies of credit default swaps and algorithmic trading
+  in the evolving derivatives market. Learn about risk management strategies and opportunities.
+title: Credit Default Swap (Algo Trading)
 ---
 
 Financial derivatives are influential instruments within the financial markets, offering both lucrative opportunities and potential risks. These financial contracts derive their value from underlying assets, such as stocks, bonds, commodities, interest rates, or market indices, and are used by investors to hedge risk, speculate, and in some instances, arbitrage. This article aims to explore the management of risks associated with financial derivatives, particularly focusing on credit default swaps (CDS) and algorithmic trading strategies, which have significantly transformed trading and risk management practices.

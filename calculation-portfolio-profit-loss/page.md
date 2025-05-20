@@ -1,6 +1,8 @@
 ---
-title: "Calculation of Portfolio Profit and Loss (Algo Trading)"
-description: "Gain insights into the calculation of portfolio profit and loss in algorithmic trading Learn how high-frequency trading improves decision-making and market efficiency"
+category: trading_strategy
+description: Gain insights into the calculation of portfolio profit and loss in algorithmic
+  trading Learn how high-frequency trading improves decision-making and market efficiency
+title: Calculation of Portfolio Profit and Loss (Algo Trading)
 ---
 
 Understanding the fundamental concepts of profit and loss is essential in portfolio management and investment strategies. The ability to accurately assess and forecast financial outcomes forms the bedrock of effective decision-making for investors. Profit and loss analysis not only helps in evaluating past performance but also enables investors to anticipate future trends, thereby facilitating informed portfolio adjustments.

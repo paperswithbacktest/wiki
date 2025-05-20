@@ -1,6 +1,8 @@
 ---
-title: "portfolio optimization under constraints (Algo Trading)"
-description: "Explore portfolio optimization in algorithmic trading to maximize returns under constraints. Discover techniques to manage constraints and automate trading."
+category: trading_strategy
+description: Explore portfolio optimization in algorithmic trading to maximize returns
+  under constraints. Discover techniques to manage constraints and automate trading.
+title: portfolio optimization under constraints (Algo Trading)
 ---
 
 Portfolio optimization is a pivotal component of algorithmic trading, aimed at maximizing returns while minimizing risk. This intricate process involves selecting an optimal combination of assets to meet defined investment goals under various constraints. These constraints might arise from a range of factors, including legal obligations or personal investment strategies, reflecting the diverse nature of investor requirements and market conditions.

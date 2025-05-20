@@ -1,6 +1,14 @@
 ---
-title: "Interest Rates (Algo Trading)"
-description: "Explore the interconnected world of interest rates, economics, finance, and algorithmic trading as they shape modern financial markets. Learn how central banks wield interest rates to influence market dynamics, while algorithmic trading leverages advanced technology for precision and efficiency. This article offers a deep dive into these concepts and their impact on trading strategies, equipping investors and traders with vital insights to navigate today's complex market environment. Uncover the synergy between economic indicators, fiscal policies, and tech-driven trading methodologies to gain a competitive edge."
+category: quant_concept
+description: Explore the interconnected world of interest rates, economics, finance,
+  and algorithmic trading as they shape modern financial markets. Learn how central
+  banks wield interest rates to influence market dynamics, while algorithmic trading
+  leverages advanced technology for precision and efficiency. This article offers
+  a deep dive into these concepts and their impact on trading strategies, equipping
+  investors and traders with vital insights to navigate today's complex market environment.
+  Uncover the synergy between economic indicators, fiscal policies, and tech-driven
+  trading methodologies to gain a competitive edge.
+title: Interest Rates (Algo Trading)
 ---
 
 In today's fast-paced financial markets, understanding the intricate components of economics, finance, interest rates, and algorithmic trading is crucial for investors and traders. These elements, each a cornerstone of financial markets, interconnect and influence one another, jointly shaping the landscape of modern trading. Economics and finance provide the foundational framework for market operations, influencing investment decisions through various indicators, policies, and strategies. Interest rates, as tools used by central banks, exert significant influence over economic stability and inflation, prompting traders to adjust their strategies in response to rate fluctuations.

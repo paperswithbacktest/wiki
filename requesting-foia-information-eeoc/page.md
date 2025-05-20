@@ -1,6 +1,8 @@
 ---
-title: "Requesting FOIA Information from the EEOC (Algo Trading)"
-description: "Explore how to request EEOC data through FOIA in the context of algorithmic trading Discover the benefits complexities and ethical considerations involved"
+category: dataset
+description: Explore how to request EEOC data through FOIA in the context of algorithmic
+  trading Discover the benefits complexities and ethical considerations involved
+title: Requesting FOIA Information from the EEOC (Algo Trading)
 ---
 
 The Equal Employment Opportunity Commission (EEOC) is a critical agency within the United States dedicated to eradicating workplace discrimination. Established to enforce federal laws that make it illegal to discriminate against job applicants or employees based on race, color, religion, sex, national origin, age, disability, or genetic information, the EEOC plays a vital role in promoting equal opportunities in the workforce. Through its activities, the Commission aims to create an environment where merit and hard work are the primary determinants of employment success, thus fostering a more inclusive and equitable workplace.

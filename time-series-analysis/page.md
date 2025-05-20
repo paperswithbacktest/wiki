@@ -1,7 +1,8 @@
 ---
-title: Time Series Analysis and Forecasting for Machine Learning
+category: quant_concept
 description: Time series analysis guides you through components preprocessing to modeling
   with ARIMA LSTM and Prophet to boost forecasting accuracy Discover more inside
+title: Time Series Analysis and Forecasting for Machine Learning
 ---
 
 ![Image](images/1.jpeg)

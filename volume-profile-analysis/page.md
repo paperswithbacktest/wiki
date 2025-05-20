@@ -1,6 +1,8 @@
 ---
-title: "Volume profile analysis (Algo Trading)"
-description: "Explore Volume Profile Analysis in algorithmic trading to understand market behavior, identify support and resistance levels, and make strategic decisions."
+category: trading_strategy
+description: Explore Volume Profile Analysis in algorithmic trading to understand
+  market behavior, identify support and resistance levels, and make strategic decisions.
+title: Volume profile analysis (Algo Trading)
 ---
 
 Understanding market behavior is a fundamental aspect of achieving success in trading. Among the various tools available to traders, Volume Profile Analysis stands out for its ability to provide insights into volume distribution across different price levels over a specified period. Unlike traditional volume indicators, which often focus on total volume over time, Volume Profile offers a detailed visualization that highlights how much volume is traded at specific price levels.

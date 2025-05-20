@@ -1,6 +1,8 @@
 ---
-title: "Dividend-Paying Australian Equity Mutual Funds (Algo Trading)"
-description: "Discover comprehensive insights into Australian dividend funds and mutual funds Enhance your strategy with algorithmic trading for optimized income and growth"
+category: dataset
+description: Discover comprehensive insights into Australian dividend funds and mutual
+  funds Enhance your strategy with algorithmic trading for optimized income and growth
+title: Dividend-Paying Australian Equity Mutual Funds (Algo Trading)
 ---
 
 The Australian investment landscape presents a diverse array of opportunities, particularly through instruments like dividend funds, mutual funds, and equity investments. These vehicles serve not only as avenues for income generation but also as a platform for wealth accumulation and strategic financial management.

@@ -1,6 +1,8 @@
 ---
-title: "Largest Companies by Market Capitalization (Algo Trading)"
-description: "Explore the role of algorithmic trading in shaping the landscape of the largest companies by market capitalization with insights into their financial influence."
+category: quant_concept
+description: Explore the role of algorithmic trading in shaping the landscape of the
+  largest companies by market capitalization with insights into their financial influence.
+title: Largest Companies by Market Capitalization (Algo Trading)
 ---
 
 Market capitalization is a key financial metric used to determine the size and value of a publicly traded company. It is calculated by multiplying the current share price of a company by its total number of outstanding shares. This metric provides an indication of a company's overall value in the market and serves as an essential determinant for classifying companies into various categories such as large-cap, mid-cap, and small-cap. Large-cap companies, typically with market capitalizations exceeding $10 billion, are typically seen as stable, with market perceptions often viewing them as leaders in their industries. In contrast, small-cap companies possess higher growth potential but may present greater risk to investors.

@@ -1,6 +1,9 @@
 ---
-title: "3C1 Tax Exemption and Its Application (Algo Trading)"
-description: "Explore the benefits of the 3C1 tax exemption in algo trading Funds can enhance confidentiality and adaptability by understanding this vital regulatory framework"
+category: quant_concept
+description: Explore the benefits of the 3C1 tax exemption in algo trading Funds can
+  enhance confidentiality and adaptability by understanding this vital regulatory
+  framework
+title: 3C1 Tax Exemption and Its Application (Algo Trading)
 ---
 
 Understanding tax exemption regulations is vital for financial entities such as hedge funds and private investment firms to effectively manage their operational frameworks and strategic portfolios. One significant aspect of this regulatory landscape is the 3C1 exemption, outlined in the Investment Company Act of 1940. This exemption plays a pivotal role for investment entities, particularly those engaged in algorithmic trading.

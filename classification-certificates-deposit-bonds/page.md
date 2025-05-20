@@ -1,6 +1,12 @@
 ---
-title: "Classification of Certificates of Deposit as Bonds (Algo Trading)"
-description: "Explore the comparison between Certificates of Deposit (CDs) and bonds in investment strategies, delving into their features, risks, and benefits. Learn how algorithmic trading enhances modern investment approaches with data-driven precision. Understand the interplay of traditional and tech-driven investments to maximize returns and manage risks in complex markets. Discover how these diversified strategies can help achieve financial goals efficiently."
+category: quant_concept
+description: Explore the comparison between Certificates of Deposit (CDs) and bonds
+  in investment strategies, delving into their features, risks, and benefits. Learn
+  how algorithmic trading enhances modern investment approaches with data-driven precision.
+  Understand the interplay of traditional and tech-driven investments to maximize
+  returns and manage risks in complex markets. Discover how these diversified strategies
+  can help achieve financial goals efficiently.
+title: Classification of Certificates of Deposit as Bonds (Algo Trading)
 ---
 
 In the ever-evolving landscape of investment opportunities, Certificates of Deposit (CDs), bonds, and algorithmic trading stand out as unique financial instruments catering to varying risk appetites and investment goals. Each of these instruments offers distinct advantages and potential risks, providing a spectrum of options for investors seeking to diversify their portfolios. CDs and bonds represent traditional methods of investment, often favored for their relative stability and predictable returns. In contrast, algorithmic trading introduces a modern, technology-driven approach to trading that leverages computational power to optimize decision-making and enhance performance in the financial markets.

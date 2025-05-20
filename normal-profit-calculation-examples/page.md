@@ -1,6 +1,8 @@
 ---
-title: "Normal Profit: Calculation and Examples (Algo Trading)"
-description: "Explore the fundamentals of normal profit in algo trading Discover calculation methods and examples that aid in informed strategic financial decisions"
+category: quant_concept
+description: Explore the fundamentals of normal profit in algo trading Discover calculation
+  methods and examples that aid in informed strategic financial decisions
+title: 'Normal Profit: Calculation and Examples (Algo Trading)'
 ---
 
 Profit calculation is a cornerstone concept in both traditional and algorithmic trading, offering a comprehensive framework for understanding financial outcomes and decision-making. In any trading environment, evaluating profitability is not merely about identifying gains and losses but involves a deeper analysis of various profit types that influence strategic financial decisions. The primary profit categories, including accounting profit, economic profit, and normal profit, serve distinct purposes in assessing a business's financial health and viability.
@@ -197,4 +199,3 @@ By integrating accounting principles with algorithmic trading strategies, trader
 - **Machine Learning for Algorithmic Trading by Stefan Jansen**: Jansen offers a practical guide to deploying machine learning in the algorithmic trading domain. Covering various aspects from data acquisition and processing to model development and strategy implementation, the book emphasizes the role of predictive analytics and the use of Python for crafting robust trading solutions.
 
 - **Quantitative Trading: How to Build Your Own Algorithmic Trading Business by Ernest P. Chan**: This book provides insights into setting up an algorithmic trading business, focusing on strategy development, risk management, and essential operational practices. Chan discusses the integration of quantitative models with practical trading aspects, offering guidance on strategy testing and adaptation to market conditions.
-

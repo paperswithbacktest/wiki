@@ -1,6 +1,9 @@
 ---
-title: "SEC Form X-17A-5 Overview and Functionality (Algo Trading)"
-description: "Explore the essential role of SEC Form X-17A-5 in algorithmic trading for broker-dealers ensuring transparency and compliance in an evolving financial landscape."
+category: quant_concept
+description: Explore the essential role of SEC Form X-17A-5 in algorithmic trading
+  for broker-dealers ensuring transparency and compliance in an evolving financial
+  landscape.
+title: SEC Form X-17A-5 Overview and Functionality (Algo Trading)
 ---
 
 The financial landscape for broker-dealers has transformed significantly, largely due to the rise of algorithmic trading. This evolution has necessitated increased transparency and regulatory oversight, particularly through mechanisms such as the SEC Form X-17A-5. This form, central to the regulatory framework, requires broker-dealers to provide detailed financial reports that ensure their operations are transparent and compliant with established financial regulations.

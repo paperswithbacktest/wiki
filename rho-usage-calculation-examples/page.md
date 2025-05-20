@@ -1,6 +1,8 @@
 ---
-title: "Rho: Usage, Calculation, and Examples (Algo Trading)"
-description: "Explore how rho, a crucial metric in financial derivatives, impacts option valuation and trading strategies in algorithmic trading, enhancing risk management."
+category: quant_concept
+description: Explore how rho, a crucial metric in financial derivatives, impacts option
+  valuation and trading strategies in algorithmic trading, enhancing risk management.
+title: 'Rho: Usage, Calculation, and Examples (Algo Trading)'
 ---
 
 Financial derivatives have fundamentally transformed financial markets by offering sophisticated tools for hedging risks and exploiting market opportunities. These instruments play a crucial role in modern finance by allowing investors to manage exposure to various financial risks—including changes in interest rates, currency exchange rates, and commodity prices. Among the key metrics used to evaluate and manage derivatives is "rho," a sensitivity measure often referred to as one of the Greeks. Rho specifically quantifies the expected change in an option's price concerning variations in interest rates, providing essential insights for traders and risk managers.

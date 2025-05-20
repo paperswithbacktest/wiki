@@ -1,6 +1,14 @@
 ---
-title: "Filter trading strategy (Algo Trading)"
-description: Explore the world of filter trading strategies in algorithmic trading, a method that refines decision-making by distinguishing significant price movements from market noise. Delve into how these strategies use mathematical filters, like moving averages, to enhance clarity and precision in trade executions. Discover the benefits of automation in reducing false signals and improving trading outcomes with greater efficiency and accuracy. Learn how filter trading strategies employ various methodologies, including statistical and machine learning filters, to optimize trading performance in dynamic financial markets.
+category: trading_strategy
+description: Explore the world of filter trading strategies in algorithmic trading,
+  a method that refines decision-making by distinguishing significant price movements
+  from market noise. Delve into how these strategies use mathematical filters, like
+  moving averages, to enhance clarity and precision in trade executions. Discover
+  the benefits of automation in reducing false signals and improving trading outcomes
+  with greater efficiency and accuracy. Learn how filter trading strategies employ
+  various methodologies, including statistical and machine learning filters, to optimize
+  trading performance in dynamic financial markets.
+title: Filter trading strategy (Algo Trading)
 ---
 
 Algorithmic trading, often known as algo trading, refers to the use of computers programmed to follow a set of instructions for placing trades to generate profits at a pace and frequency that is impossible for a human trader to achieve. These instructions, or trading algorithms, are based on various factors such as timing, price, quantity, or any mathematical model and aim to achieve specific objectives in the financial markets. The relevance of algorithmic trading in modern financial markets is underscored by its ability to handle large volumes of trades accurately and efficiently, minimize human error, and execute complex strategies that are not feasible manually.

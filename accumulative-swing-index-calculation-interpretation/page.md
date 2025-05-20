@@ -1,6 +1,8 @@
 ---
-title: "Accumulative Swing Index: Calculation and Interpretation (Algo Trading)"
-description: "Explore the significance of the Accumulative Swing Index in technical analysis and algo trading to enhance strategy development by identifying trends."
+category: trading_strategy
+description: Explore the significance of the Accumulative Swing Index in technical
+  analysis and algo trading to enhance strategy development by identifying trends.
+title: 'Accumulative Swing Index: Calculation and Interpretation (Algo Trading)'
 ---
 
 In financial markets, technical analysis serves as a fundamental method for traders aiming to make well-informed decisions. Among the various tools that this approach offers is the Accumulative Swing Index (ASI), a pivotal indicator invented by J. Welles Wilder. This index plays a crucial role in technical analysis and is noted for its capacity to identify and confirm trends effectively. By analyzing price movements and volumes, the ASI provides traders with insights that are essential for crafting robust trading strategies.

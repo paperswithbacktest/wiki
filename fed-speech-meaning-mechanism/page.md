@@ -1,6 +1,9 @@
 ---
-title: "Fed Speech: Meaning and Mechanism (Algo Trading)"
-description: "Explore how the Federal Reserve's communication impacts algorithmic trading highlighting the vital role of policy language in shaping market dynamics and trade strategies."
+category: trading_strategy
+description: Explore how the Federal Reserve's communication impacts algorithmic trading
+  highlighting the vital role of policy language in shaping market dynamics and trade
+  strategies.
+title: 'Fed Speech: Meaning and Mechanism (Algo Trading)'
 ---
 
 In the rapidly evolving world of financial markets, the role of policy language and communication by central banks is crucial. Central banks, such as the Federal Reserve, employ various strategies to influence market dynamics and guide economic expectations. The Federal Reserve, as the central bank of the United States, plays a pivotal role in shaping not only domestic but also global financial landscapes through its carefully constructed communication strategies.

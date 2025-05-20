@@ -1,6 +1,14 @@
 ---
-title: "Sharia and Its Impact on Investments (Algo Trading)"
-description: "Explore the dynamic fusion of Sharia-compliant investments and algorithmic trading in the global finance landscape. This article investigates into the integration of ethical Islamic financial principles with modern trading technologies, highlighting the balance between religious guidelines and technological advancements. Understand how Sharia investments prioritize ethical considerations and risk-sharing while leveraging cutting-edge tools like algorithmic trading to optimize financial decisions. As financial markets evolve, gaining insight into this intersection is crucial for investors and institutions committed to sustainable and ethical practices."
+category: trading_strategy
+description: Explore the dynamic fusion of Sharia-compliant investments and algorithmic
+  trading in the global finance landscape. This article investigates into the integration
+  of ethical Islamic financial principles with modern trading technologies, highlighting
+  the balance between religious guidelines and technological advancements. Understand
+  how Sharia investments prioritize ethical considerations and risk-sharing while
+  leveraging cutting-edge tools like algorithmic trading to optimize financial decisions.
+  As financial markets evolve, gaining insight into this intersection is crucial for
+  investors and institutions committed to sustainable and ethical practices.
+title: Sharia and Its Impact on Investments (Algo Trading)
 ---
 
 In the evolving landscape of global finance, the integration of Sharia-compliant investments with technology-driven tools such as algorithmic trading is gaining momentum. This fusion represents a significant shift where traditional Islamic financial principles meet the cutting edge of modern trading technologies. As global markets become more interconnected, the need for investment solutions that align with ethical and religious guidelines is more pronounced.

@@ -1,6 +1,9 @@
 ---
-title: "Perpetual Bond: Overview and Valuation Formula (Algo Trading)"
-description: "Explore perpetual bonds and their valuation in the context of algorithmic trading Discover how these fixed-income securities influence modern investment strategies and portfolio management"
+category: quant_concept
+description: Explore perpetual bonds and their valuation in the context of algorithmic
+  trading Discover how these fixed-income securities influence modern investment strategies
+  and portfolio management
+title: 'Perpetual Bond: Overview and Valuation Formula (Algo Trading)'
 ---
 
 The financial landscape has undergone significant transformation over the years, adapting to the demands of diverse investor needs with the emergence of novel instruments and strategies. Among these, perpetual bonds, bond valuation, and algorithmic trading stand out as pivotal components that significantly influence modern finance.

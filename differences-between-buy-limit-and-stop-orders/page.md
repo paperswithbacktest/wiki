@@ -1,6 +1,8 @@
 ---
-title: "Differences Between Buy Limit and Stop Orders (Algo Trading)"
-description: "Discover the differences between buy limit and stop orders in algorithmic trading and learn how they enhance trade execution and risk management."
+category: trading_strategy
+description: Discover the differences between buy limit and stop orders in algorithmic
+  trading and learn how they enhance trade execution and risk management.
+title: Differences Between Buy Limit and Stop Orders (Algo Trading)
 ---
 
 Trading orders are essential components of financial markets, allowing traders to execute transactions with precision and strategic intent. Among the various types of trading orders, stop orders and buy limit orders stand out due to their impactful roles in managing trades and risks. Additionally, the rise of algorithmic trading has transformed how these orders are employed, enhancing efficiency and execution speed.

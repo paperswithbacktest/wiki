@@ -1,6 +1,9 @@
 ---
-title: "Cash Value Added: Concept and Functionality (Algo Trading)"
-description: "Discover how Cash Value Added (CVA) serves as a pivotal metric in algorithmic trading by evaluating a company's capacity to generate cash flow above capital costs enhancing profitability."
+category: quant_concept
+description: Discover how Cash Value Added (CVA) serves as a pivotal metric in algorithmic
+  trading by evaluating a company's capacity to generate cash flow above capital costs
+  enhancing profitability.
+title: 'Cash Value Added: Concept and Functionality (Algo Trading)'
 ---
 
 Financial performance metrics are crucial tools used by companies to evaluate their operational efficiency, profitability, and ability to create value for shareholders. These metrics provide insight into the financial health and stability of a company, enabling decision-makers to adopt strategies that enhance long-term value creation. Among these metrics, Cash Value Added (CVA) stands out as an important measure that focuses on a company's ability to generate cash flow exceeding the cost of capital, thus offering a clearer picture of profitability.

@@ -1,6 +1,8 @@
 ---
-title: "Electronic Municipal Market Access: Function and Operation (Algo Trading)"
-description: "Explore how EMMA facilitates informed municipal bond investments and enhances algorithmic trading opportunities for smarter, more efficient strategies."
+category: dataset
+description: Explore how EMMA facilitates informed municipal bond investments and
+  enhances algorithmic trading opportunities for smarter, more efficient strategies.
+title: 'Electronic Municipal Market Access: Function and Operation (Algo Trading)'
 ---
 
 The world of municipal bonds offers a distinct investment opportunity for both private and institutional investors. These bonds are issued by local governments to fund public projects like schools, roads, and infrastructure improvements, and they often come with the advantage of tax-exempt interest income. For investors navigating this market, one tool stands out as indispensable: the Electronic Municipal Market Access (EMMA) platform. Developed by the Municipal Securities Rulemaking Board, EMMA is designed to provide transparent access to critical information on municipal bonds, such as bond prices, market trends, issuer data, and disclosure documents. This comprehensive access supports investors in making informed decisions, aligning their portfolios with their investment strategies.

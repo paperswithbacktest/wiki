@@ -1,6 +1,8 @@
 ---
-title: "Issued Shares Compared to Outstanding Shares (Algo Trading)"
-description: "Discover the key differences between issued and outstanding shares in the stock market and learn how algorithmic trading has reshaped trading strategies."
+category: quant_concept
+description: Discover the key differences between issued and outstanding shares in
+  the stock market and learn how algorithmic trading has reshaped trading strategies.
+title: Issued Shares Compared to Outstanding Shares (Algo Trading)
 ---
 
 Understanding the basics of stock comparison is crucial for investors looking to optimize their portfolios. In the stock market, shares play a vital role, and an investor's ability to differentiate between issued shares and outstanding shares is fundamental. Issued shares, the total number offered by a company, and outstanding shares, those held by investors excluding treasury shares, are key indicators of a company's financial standing and investor appeal.

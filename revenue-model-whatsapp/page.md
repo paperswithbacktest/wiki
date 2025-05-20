@@ -1,6 +1,9 @@
 ---
-title: "Revenue Model of WhatsApp (Algo Trading)"
-description: "Explore the innovative revenue model of WhatsApp focusing on its business API, click-to-WhatsApp ads, and payment services while maintaining an ad-free user experience."
+category: quant_concept
+description: Explore the innovative revenue model of WhatsApp focusing on its business
+  API, click-to-WhatsApp ads, and payment services while maintaining an ad-free user
+  experience.
+title: Revenue Model of WhatsApp (Algo Trading)
 ---
 
 WhatsApp is a prominent global messaging platform that has fundamentally altered how individuals communicate worldwide. Launched in 2009 by Brian Acton and Jan Koum, WhatsApp gained rapid popularity due to its user-friendly interface and the promise of offering a cost-effective alternative to traditional texting services. The platform's user base expanded exponentially, making it one of the most widely used messaging apps worldwide.

@@ -1,6 +1,8 @@
 ---
-title: "Expense Ratios in Mutual Funds (Algo Trading)"
-description: "Understand expense ratios in mutual funds and their impact on investment returns Explore how costs affect net gains and the role of algorithmic trading"
+category: quant_concept
+description: Understand expense ratios in mutual funds and their impact on investment
+  returns Explore how costs affect net gains and the role of algorithmic trading
+title: Expense Ratios in Mutual Funds (Algo Trading)
 ---
 
 Mutual funds are investment vehicles that pool money from multiple investors to invest in a diversified portfolio of stocks, bonds, or other securities. They play a crucial role in offering retail investors access to professionally managed portfolios, which would be challenging to achieve individually due to resource constraints and expertise requirements. One significant aspect of mutual fund investments is the expense ratio, which is the annual fee expressed as a percentage of the fund's assets. This fee covers the cost of fund management and operational expenses. Understanding expense ratios is vital because they directly impact net returns on investment. For instance, a higher expense ratio can erode potential gains, while a lower expense ratio can preserve more of an investor's returns.

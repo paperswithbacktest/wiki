@@ -1,6 +1,14 @@
 ---
-title: "Major Risks in Banking Sector (Algo Trading)"
-description: "Explore the major risks facing the banking sector today as technological advancements and algorithmic trading reshape the industry. Discover how AI and blockchain offer new opportunities yet elevate cybersecurity threats, and learn about the impact of stringent regulatory requirements. Understand the complexities introduced by High-Frequency Trading and the importance of strategic adaptation in managing systemic risks. Delve into the challenges of cybercrime, regulatory compliance, and the reliance on advanced technologies, essential for banks seeking stability and consumer trust in an ever-evolving landscape."
+category: quant_concept
+description: Explore the major risks facing the banking sector today as technological
+  advancements and algorithmic trading reshape the industry. Discover how AI and blockchain
+  offer new opportunities yet elevate cybersecurity threats, and learn about the impact
+  of stringent regulatory requirements. Understand the complexities introduced by
+  High-Frequency Trading and the importance of strategic adaptation in managing systemic
+  risks. Delve into the challenges of cybercrime, regulatory compliance, and the reliance
+  on advanced technologies, essential for banks seeking stability and consumer trust
+  in an ever-evolving landscape.
+title: Major Risks in Banking Sector (Algo Trading)
 ---
 
 The banking industry is in a state of constant evolution, facing a landscape comprised of intricate challenges and risks. Rapid technological advancements, stringent regulatory requirements, and the growing integration of algorithmic trading systems are reshaping the traditional banking model. These factors present a dual-edged sword, offering opportunities for innovation and efficiency while simultaneously introducing new threats and complexities. 

@@ -1,6 +1,8 @@
 ---
-title: "Standard & Poor's: Indices and Credit Ratings (Algo Trading)"
-description: "Explore the vital role of S&P's indices and credit ratings in the finance world including their impact on market trends economic health and algo trading strategies."
+category: dataset
+description: Explore the vital role of S&P's indices and credit ratings in the finance
+  world including their impact on market trends economic health and algo trading strategies.
+title: 'Standard & Poor''s: Indices and Credit Ratings (Algo Trading)'
 ---
 
 Standard & Poor's (S&P) indices and credit ratings are fundamental components of the financial landscape, serving as benchmarks and measures of creditworthiness, respectively. S&P, a leading financial services company, provides indices such as the S&P 500, which represents the performance of 500 large companies listed on stock exchanges in the United States. These indices are used by investors worldwide as indicators of market trends and economic health, forming the basis for various financial products and investment strategies.

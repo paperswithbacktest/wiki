@@ -1,6 +1,8 @@
 ---
-title: "Current Economic Reserves (Algo Trading)"
-description: "Discover how economic reserves, financial assets, and algorithmic trading shape modern financial markets Boost your understanding of key investment dynamics"
+category: quant_concept
+description: Discover how economic reserves, financial assets, and algorithmic trading
+  shape modern financial markets Boost your understanding of key investment dynamics
+title: Current Economic Reserves (Algo Trading)
 ---
 
 Understanding the interplay between economic reserves, contemporary financial assets, and algorithmic trading is crucial in shaping modern financial markets. Economic reserves are critical in ensuring liquidity and stability within the financial system. They serve as a buffer for central banks and financial institutions to back up their liabilities and guarantee the availability of funds. These reserves influence monetary policy, impacting the overall supply of money in an economy and affecting market dynamics.

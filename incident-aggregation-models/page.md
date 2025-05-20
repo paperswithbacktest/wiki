@@ -1,7 +1,8 @@
 ---
-title: Incident Aggregation Models for Smarter Machine Learning Insights
+category: quant_concept
 description: Incident Aggregation Models group similar events using graph based learning
   to uncover patterns accelerate response times Discover more inside
+title: Incident Aggregation Models for Smarter Machine Learning Insights
 ---
 
 ![Image](images/1.png)

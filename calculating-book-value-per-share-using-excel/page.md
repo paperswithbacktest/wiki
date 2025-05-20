@@ -1,6 +1,8 @@
 ---
-title: "Calculating Book Value Per Share Using Excel (Algo Trading)"
-description: "Learn how to calculate Book Value Per Share (BVPS) using Excel to assess a company's valuation and integrate it into algorithmic trading strategies."
+category: quant_concept
+description: Learn how to calculate Book Value Per Share (BVPS) using Excel to assess
+  a company's valuation and integrate it into algorithmic trading strategies.
+title: Calculating Book Value Per Share Using Excel (Algo Trading)
 ---
 
 In today's financial markets, understanding the intrinsic value of a stock is crucial for making informed investing decisions. One important metric that aids in this understanding is the Book Value Per Share (BVPS). BVPS provides an insight into a company's financial health by measuring the per-share equity available to common shareholders. It is calculated by dividing the company's total common equity by the number of outstanding shares. This metric is essential for investors seeking to assess whether a stock is undervalued or overvalued, especially when compared to its market price.

@@ -1,6 +1,8 @@
 ---
-title: "Structured Repackaged Asset-Backed Trust Security (Algo Trading)"
-description: "Explore the intricacies of Asset-Backed Securities and Structured Repackaged Asset-Backed Trust Securities in algorithmic trading today."
+category: quant_concept
+description: Explore the intricacies of Asset-Backed Securities and Structured Repackaged
+  Asset-Backed Trust Securities in algorithmic trading today.
+title: Structured Repackaged Asset-Backed Trust Security (Algo Trading)
 ---
 
 In today's financial landscape, having a comprehensive understanding of complex financial instruments and their interactions has become essential for both investors and professionals. Financial markets are increasingly dominated by intricate instruments that offer both opportunities and challenges. This article focuses on two such instruments: Asset-Backed Securities (ABS) and Structured Repackaged Asset-Backed Trust Securities (STRATS), as well as their role in the domain of algorithmic trading.

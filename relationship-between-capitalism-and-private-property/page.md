@@ -1,6 +1,9 @@
 ---
-title: "Relationship Between Capitalism and Private Property (Algo Trading)"
-description: "Explore the dynamic interplay of capitalism and private property with the rise of algorithmic trading highlighting their impact on economic efficiency and wealth distribution."
+category: quant_concept
+description: Explore the dynamic interplay of capitalism and private property with
+  the rise of algorithmic trading highlighting their impact on economic efficiency
+  and wealth distribution.
+title: Relationship Between Capitalism and Private Property (Algo Trading)
 ---
 
 Economic systems are foundational structures that determine how societies allocate resources and manage economic activities. Among these systems, capitalism and socialism stand out due to their distinct philosophies and operational methods. Capitalism is characterized by private ownership and free-market mechanisms, where individuals and companies own the means of production and operate for profit. In contrast, socialism advocates for government control and equitable distribution of resources, aiming to reduce social inequalities by sharing economic outputs more equally across society.

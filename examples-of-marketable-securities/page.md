@@ -1,6 +1,8 @@
 ---
-title: "Examples of Marketable Securities (Algo Trading)"
-description: "Explore marketable securities and algorithmic trading as essential components in modern portfolios offering liquidity and efficiency in today's financial landscape."
+category: quant_concept
+description: Explore marketable securities and algorithmic trading as essential components
+  in modern portfolios offering liquidity and efficiency in today's financial landscape.
+title: Examples of Marketable Securities (Algo Trading)
 ---
 
 The growing interest in optimizing portfolios has led many investors to explore various financial assets. With the aim of maximizing returns while minimizing risk, the investment landscape has witnessed a significant shift towards sophisticated strategies that incorporate both traditional and modern elements. Among these, marketable securities and algorithmic trading have emerged as pivotal components in achieving efficient investment strategies.
@@ -116,4 +118,3 @@ Another key resource is "Quantitative Trading: How to Build Your Own Algorithmic
 Additionally, online educational platforms and financial blogs are excellent resources for staying updated on marketable securities and algorithmic trading. Websites like Investopedia and Seeking Alpha provide introductory and advanced content on these topics. Financial news websites and blogs, such as Bloomberg, Zero Hedge, and QuantInsti, offer real-time updates and analyses that are essential for keeping abreast of market movements.
 
 These resources collectively provide a robust foundation for understanding the complex interplay between marketable securities and algorithmic trading. They are indispensable for investors seeking to optimize their portfolio strategies in an ever-evolving financial landscape.
-

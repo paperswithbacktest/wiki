@@ -1,7 +1,8 @@
 ---
-title: Enhancing Machine Learning Robustness With Advanced Techniques
+category: quant_concept
 description: Machine Learning Robustness ensures models perform on unpredictable data
   and resist adversarial attacks with advanced methods Discover more inside.
+title: Enhancing Machine Learning Robustness With Advanced Techniques
 ---
 
 ![Image](images/1.png)

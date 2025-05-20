@@ -1,6 +1,8 @@
 ---
-title: "Chastity Bond (Algo Trading)"
-description: "Discover the evolving dynamics of bond trading, including the rise of algorithmic trading and innovative financial instruments like chastity bonds."
+category: trading_strategy
+description: Discover the evolving dynamics of bond trading, including the rise of
+  algorithmic trading and innovative financial instruments like chastity bonds.
+title: Chastity Bond (Algo Trading)
 ---
 
 In the complex world of financial markets, bonds have traditionally been considered stable and reliable investments. Bonds, as fixed-income securities, offer predictable returns and are deemed less volatile compared to equities. Their role in financial portfolios is fundamental, providing diversification and acting as a stabilizing force. However, with the rise of technology and innovative financial instruments, the landscape of bond trading is undergoing profound changes.

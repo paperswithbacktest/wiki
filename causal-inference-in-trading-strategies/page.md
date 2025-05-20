@@ -1,6 +1,9 @@
 ---
-title: "Causal Inference in Trading Strategies (Algo Trading)"
-description: "Discover the power of causal inference in algorithmic trading to develop robust trading strategies by identifying cause-and-effect relationships among financial variables."
+category: trading_strategy
+description: Discover the power of causal inference in algorithmic trading to develop
+  robust trading strategies by identifying cause-and-effect relationships among financial
+  variables.
+title: Causal Inference in Trading Strategies (Algo Trading)
 ---
 
 Causal inference is an essential analytical tool in algorithmic trading, focused on identifying cause-and-effect relationships among financial variables. This capability is crucial because financial markets are replete with complex, interrelated factors that can easily be mistaken for direct causes when they are merely correlated. Distinguishing between correlation and causation can lead to the creation of trading strategies that are more resilient to market fluctuations and less susceptible to financial downturns.

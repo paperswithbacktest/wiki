@@ -1,6 +1,8 @@
 ---
-title: "Debt-for-Bond Swap (Algo Trading)"
-description: "Discover how debt-for-bond swaps and algorithmic trading revolutionize financial strategies enhancing bond market efficiency and financial restructuring."
+category: trading_strategy
+description: Discover how debt-for-bond swaps and algorithmic trading revolutionize
+  financial strategies enhancing bond market efficiency and financial restructuring.
+title: Debt-for-Bond Swap (Algo Trading)
 ---
 
 The financial landscape is undergoing significant transformation, and bond markets are at the heart of this evolution. Bond exchanges, financial restructuring, debt swaps, and algorithmic trading are becoming increasingly integral to modern finance. These elements collectively enhance the ability of companies and governments to navigate the complexities of today's economic environment.

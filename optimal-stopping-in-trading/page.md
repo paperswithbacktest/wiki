@@ -1,6 +1,8 @@
 ---
-title: "Optimal Stopping in Trading (Algo Trading)"
-description: "Discover how optimal stopping guides trading algorithms in timing decisions crucial for maximizing profits and minimizing losses in dynamic markets."
+category: quant_concept
+description: Discover how optimal stopping guides trading algorithms in timing decisions
+  crucial for maximizing profits and minimizing losses in dynamic markets.
+title: Optimal Stopping in Trading (Algo Trading)
 ---
 
 Optimal stopping, in the context of algorithmic trading, refers to a decision-making process that determines when to take a particular action, such as entering or exiting a trade, to achieve the maximum expected reward or to minimize potential losses. This concept is rooted in mathematical finance and statistics, where it forms a critical part of the decision framework used by trading algorithms. The importance of optimal stopping lies in its ability to guide traders on the timing of transactions, which can significantly impact the profitability of trading strategies. In highly dynamic and volatile markets, identifying the optimal entry and exit points is crucial as minor changes in timing can result in substantial differences in trade outcomes.

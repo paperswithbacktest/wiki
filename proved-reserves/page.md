@@ -1,6 +1,8 @@
 ---
-title: "Proved Reserves (Algo Trading)"
-description: "Explore the impact of algo trading on oil and gas markets as automation meets energy management revealing keys to navigating modern energy economics."
+category: quant_concept
+description: Explore the impact of algo trading on oil and gas markets as automation
+  meets energy management revealing keys to navigating modern energy economics.
+title: Proved Reserves (Algo Trading)
 ---
 
 The modern energy landscape is marked by a complex interplay of technology advancements, economic strategies, and geopolitical influences that continuously reshape the way energy resources are managed and traded. Central to this landscape are oil and gas, which continue to serve as pivotal energy resources globally. Key metrics such as "proved reserves" of oil and gas are critical indicators of a nation's energy wealth and its capacity to extract and supply these vital resources. These reserves offer insights into a country's economic strength and its potential geopolitical leverage in international energy markets.

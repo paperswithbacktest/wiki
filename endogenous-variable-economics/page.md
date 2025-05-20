@@ -1,6 +1,8 @@
 ---
-title: "Endogenous Variable in Economics (Algo Trading)"
-description: "Explore the role of endogenous variables in economics and algorithmic trading. Understand their impact on market predictions and trading strategies."
+category: quant_concept
+description: Explore the role of endogenous variables in economics and algorithmic
+  trading. Understand their impact on market predictions and trading strategies.
+title: Endogenous Variable in Economics (Algo Trading)
 ---
 
 Economics and finance are domains characterized by intricate concepts and models that seek to elucidate the behaviors and outcomes of markets. In this landscape, one of the crucial concepts is the 'endogenous variable'. This concept frequently appears in economic modeling and algorithmic trading, playing a pivotal role in understanding and predicting market dynamics. An endogenous variable is one whose value is determined by other variables within the model, providing insights into the causal relationships that drive economic phenomena.

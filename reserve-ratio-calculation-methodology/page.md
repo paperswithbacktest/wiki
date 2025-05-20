@@ -1,6 +1,11 @@
 ---
-title: "Reserve Ratio and Calculation Methodology (Algo Trading)"
-description: "Explore the world of finance with insights into reserve ratio calculations, banking regulations, and algorithmic trading. Understand the central banks' strategies affecting money supply and how banking rules ensure stability. Discover how algorithmic trading reshapes markets through speed and automation. Gain vital knowledge to navigate today's complex financial environment."
+category: quant_concept
+description: Explore the world of finance with insights into reserve ratio calculations,
+  banking regulations, and algorithmic trading. Understand the central banks' strategies
+  affecting money supply and how banking rules ensure stability. Discover how algorithmic
+  trading reshapes markets through speed and automation. Gain vital knowledge to navigate
+  today's complex financial environment.
+title: Reserve Ratio and Calculation Methodology (Algo Trading)
 ---
 
 The world of finance is multifaceted, characterized by a blend of regulatory frameworks and technological advancements that shape its ever-evolving landscape. This complexity arises from the intricate connections between various financial systems, the impact of global economic policies, and the continuous advancements in technology that influence finance operations.

@@ -1,6 +1,13 @@
 ---
-title: "West Texas Intermediate (Algo Trading)"
-description: "Explore how West Texas Intermediate (WTI) crude oil serves as a pivotal benchmark in global commodities markets, with a focus on its role in algorithmic trading. Discover the advantages of using advanced computer programs to automate trading decisions, optimize strategies, and improve outcomes by reducing human error in this dynamic, volatile market. Gain insights into WTI's characteristics, the significance of its pricing in economic contexts, and how algorithmic trading can enhance performance for traders and investors alike."
+category: quant_concept
+description: Explore how West Texas Intermediate (WTI) crude oil serves as a pivotal
+  benchmark in global commodities markets, with a focus on its role in algorithmic
+  trading. Discover the advantages of using advanced computer programs to automate
+  trading decisions, optimize strategies, and improve outcomes by reducing human error
+  in this dynamic, volatile market. Gain insights into WTI's characteristics, the
+  significance of its pricing in economic contexts, and how algorithmic trading can
+  enhance performance for traders and investors alike.
+title: West Texas Intermediate (Algo Trading)
 ---
 
 Understanding the intricacies of oil trading is essential for any investor or trader looking to participate in the global commodities market. Oil is a critical energy source, and fluctuations in its prices can have widespread economic implications. Among the different grades of crude oil, West Texas Intermediate (WTI) is a key benchmark in the oil market. Known for its light and sweet characteristics, WTI is preferred for refining into gasoline and is often the focus of trading strategies due to its relative stability and transparency in pricing.

@@ -1,6 +1,12 @@
 ---
-title: "Real vs. Nominal GDP: Calculation Methods (Algo Trading)"
-description: "Discover the importance of nominal and real GDP in economic analysis and algorithmic trading in this insightful article. Learn how nominal GDP offers a snapshot using current prices while real GDP adjusts for inflation, providing a true picture of growth. Understand their application in algorithmic trading to enhance investment strategies by leveraging genuine economic insights and accurate data analysis for optimal financial decisions."
+category: quant_concept
+description: Discover the importance of nominal and real GDP in economic analysis
+  and algorithmic trading in this insightful article. Learn how nominal GDP offers
+  a snapshot using current prices while real GDP adjusts for inflation, providing
+  a true picture of growth. Understand their application in algorithmic trading to
+  enhance investment strategies by leveraging genuine economic insights and accurate
+  data analysis for optimal financial decisions.
+title: 'Real vs. Nominal GDP: Calculation Methods (Algo Trading)'
 ---
 
 The economic landscape is a dynamic and intricate domain continuously shaped by numerous factors at both local and global levels. Key metrics such as Gross Domestic Product (GDP) play a pivotal role in shaping our understanding of economic performance, serving as vital tools for policymakers, investors, and businesses. GDP, the standard measure of the total value of all final goods and services produced within a country's borders over a specified period, offers crucial insights into the health and direction of an economy.

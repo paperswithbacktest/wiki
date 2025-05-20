@@ -1,6 +1,8 @@
 ---
-title: "Common Financial Growth Rates for Evaluating Company Prospects (Algo Trading)"
-description: "Explore key financial growth rates and algorithmic trading's impact on evaluating company prospects to make informed investment decisions effectively."
+category: quant_concept
+description: Explore key financial growth rates and algorithmic trading's impact on
+  evaluating company prospects to make informed investment decisions effectively.
+title: Common Financial Growth Rates for Evaluating Company Prospects (Algo Trading)
 ---
 
 In today's financial landscape, understanding the prospects of a company is crucial for investors and stakeholders. This encompasses the evaluation of its performance, potential for growth, and the myriad factors that could influence its future value. Central to these evaluations are financial analysis and growth rates, which serve as pivotal metrics in assessing a company's potential.

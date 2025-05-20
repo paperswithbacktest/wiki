@@ -1,6 +1,8 @@
 ---
-title: "Gini Index and Global Gini Coefficients (Algo Trading)"
-description: "Explore the significance of the Gini Index and automated trading in assessing global economic inequality. Understand its implications for policymakers and markets."
+category: quant_concept
+description: Explore the significance of the Gini Index and automated trading in assessing
+  global economic inequality. Understand its implications for policymakers and markets.
+title: Gini Index and Global Gini Coefficients (Algo Trading)
 ---
 
 The Gini Index and Gini Coefficient are crucial instruments for examining economic inequality. These metrics were introduced by the Italian statistician Corrado Gini in 1912 and have since become vital in analyzing income distribution within countries. The Gini Index, with values ranging from 0 to 1, offers a quantifiable measure of inequality; a value of 0 represents perfect equality, while a value of 1 indicates extreme inequality where a single individual controls all income.

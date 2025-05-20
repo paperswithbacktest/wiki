@@ -1,6 +1,8 @@
 ---
-title: "General Agreement on Tariffs and Trade (Algo Trading)"
-description: "Explore the impact of GATT and algorithmic trading on global commerce, highlighting their roles in shaping modern trade policies and market efficiencies."
+category: quant_concept
+description: Explore the impact of GATT and algorithmic trading on global commerce,
+  highlighting their roles in shaping modern trade policies and market efficiencies.
+title: General Agreement on Tariffs and Trade (Algo Trading)
 ---
 
 International trade has undergone significant transformation due to various trade agreements and technological advancements. One seminal agreement that has played a fundamental role in shaping international trade norms is the General Agreement on Tariffs and Trade (GATT). Established in the aftermath of World War II, GATT was instrumental in reducing tariffs and other trade barriers, thereby facilitating smoother and more predictable trade relations between nations. It laid the groundwork for what is now a complex global trading regime, influencing subsequent trade negotiations and policies.

@@ -1,6 +1,9 @@
 ---
-title: "Expected Utility Theory (Algo Trading)"
-description: "Explore expected utility theory's role in algorithmic trading to enhance decision-making in uncertain market conditions through probabilistic risk and reward analysis."
+category: quant_concept
+description: Explore expected utility theory's role in algorithmic trading to enhance
+  decision-making in uncertain market conditions through probabilistic risk and reward
+  analysis.
+title: Expected Utility Theory (Algo Trading)
 ---
 
 Utility theory serves as a foundational concept in decision-making processes within economics and finance by providing a structured framework for understanding how individuals and entities allocate resources under conditions of uncertainty. The core idea is that individuals aim to maximize their utility, or satisfaction, derived from the outcomes of their decisions. This theory helps in modeling rational behavior through mathematical formulations, enabling a systematic approach to evaluate choices involving risk.

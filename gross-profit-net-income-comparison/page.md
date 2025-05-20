@@ -1,6 +1,10 @@
 ---
-title: "Gross Profit and Net Income Comparison (Algo Trading)"
-description: "This article offers an in-depth comparison of net income and gross profit with a focus on their roles in algorithmic trading. By understanding the efficiency of production processes and comprehensive company profitability, traders can enhance data-driven strategies and optimize trading performance in financial markets."
+category: quant_concept
+description: This article offers an in-depth comparison of net income and gross profit
+  with a focus on their roles in algorithmic trading. By understanding the efficiency
+  of production processes and comprehensive company profitability, traders can enhance
+  data-driven strategies and optimize trading performance in financial markets.
+title: Gross Profit and Net Income Comparison (Algo Trading)
 ---
 
 This article explores the financial metrics of net income and gross profit, offering an in-depth comparison with a specific focus on algorithmic trading. These metrics play a vital role in assessing a company's ability to generate earnings relative to its costs and operational expenses. Gross profit, being the difference between revenue and the cost of goods sold (COGS), provides insights into the efficiency of production processes and pricing strategies. In contrast, net income, often referred to as the "bottom line," accounts for all expenses, taxes, and interest, thereby delivering a comprehensive view of a company's overall profitability.

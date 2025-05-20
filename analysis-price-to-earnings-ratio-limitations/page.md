@@ -1,6 +1,8 @@
 ---
-title: "Analysis of the Price-to-Earnings Ratio's Limitations in Investment (Algo Trading)"
-description: "Explore the limitations of the Price-to-Earnings ratio in investment analysis and its impact on algorithmic trading strategies for informed decision-making."
+category: quant_concept
+description: Explore the limitations of the Price-to-Earnings ratio in investment
+  analysis and its impact on algorithmic trading strategies for informed decision-making.
+title: Analysis of the Price-to-Earnings Ratio's Limitations in Investment (Algo Trading)
 ---
 
 This article explores the critical intersection of financial metrics and algorithmic trading strategies, particularly focusing on the influential role of financial ratios, such as the Price-to-Earnings (P/E) ratio, in investment analysis. Financial metrics serve as foundational tools for investors and traders, providing essential insights into a company's valuation, performance, and operational health. The P/E ratio, calculated by dividing a company's stock price by its earnings per share, becomes an essential indicator in this context, enabling investors to gauge whether a stock is overvalued or undervalued compared to its earnings potential.

@@ -1,6 +1,8 @@
 ---
-title: "Program Trading: Overview and Examples (Algo Trading)"
-description: "Discover how program trading transforms financial markets with advanced algorithms enhancing liquidity reducing costs and optimizing complex strategies"
+category: quant_concept
+description: Discover how program trading transforms financial markets with advanced
+  algorithms enhancing liquidity reducing costs and optimizing complex strategies
+title: 'Program Trading: Overview and Examples (Algo Trading)'
 ---
 
 Program trading, an integral component of contemporary financial markets, encompasses the use of computer algorithms to execute a large volume of trades swiftly and efficiently. Its significance lies in the ability to enhance market liquidity, reduce transaction costs, and enable complex trading strategies that would be challenging to implement manually. These automated systems, often referred to as algorithmic trading platforms, have transformed the landscape of trading by merging technology with financial acumen.

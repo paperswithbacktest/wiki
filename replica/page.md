@@ -1,10 +1,9 @@
 ---
-title: Replica Machine Learning for Scalable Efficient Model Training
+category: quant_concept
 description: Replica machine learning uses multiple model copies across machines to
   speed up training and ensure reliability in critical systems Discover more inside
+title: Replica Machine Learning for Scalable Efficient Model Training
 ---
-
-
 
 ## Table of Contents
 

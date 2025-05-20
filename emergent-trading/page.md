@@ -1,6 +1,8 @@
 ---
-title: "Emergent Trading (Algo Trading)"
-description: "Discover the transformative power of Emergent Trading and how algorithmic trading leverages speed and efficiency to redefine modern trading strategies."
+category: quant_concept
+description: Discover the transformative power of Emergent Trading and how algorithmic
+  trading leverages speed and efficiency to redefine modern trading strategies.
+title: Emergent Trading (Algo Trading)
 ---
 
 In recent years, technology has played a crucial role in transforming the world of trading. One of the most significant developments is the rise of Emergent Trading, also known as Algorithmic Trading or Algo Trading. This innovative practice employs computer algorithms to automate trading decisions, thereby enabling faster and more efficient execution of trades. By automating the trading process, Algo Trading allows for rapid analysis of market data and execution of buy and sell orders, often within fractions of a second. This level of speed and efficiency is unattainable by human traders and has become increasingly popular among both individual traders and financial institutions.

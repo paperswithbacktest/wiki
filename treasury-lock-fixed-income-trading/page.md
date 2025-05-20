@@ -1,6 +1,8 @@
 ---
-title: "Treasury Lock in Fixed Income Trading (Algo Trading)"
-description: "Explore the crucial role of treasury locks and algorithmic trading in managing interest rate risk within fixed income markets for an efficient strategy."
+category: trading_strategy
+description: Explore the crucial role of treasury locks and algorithmic trading in
+  managing interest rate risk within fixed income markets for an efficient strategy.
+title: Treasury Lock in Fixed Income Trading (Algo Trading)
 ---
 
 Financial derivatives play a crucial role in financial markets by offering tools for risk management and creating investment opportunities. These financial instruments derive their value from underlying assets such as stocks, bonds, or interest rates. They are used extensively for hedging risks or for speculative purposes. In the domain of fixed income trading, derivatives such as treasury locks provide essential mechanisms for managing interest rate risk efficiently.

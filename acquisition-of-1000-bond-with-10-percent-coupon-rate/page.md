@@ -1,6 +1,8 @@
 ---
-title: "Acquisition of a $1,000 Bond With a 10% Coupon Rate (Algo Trading)"
-description: "Understand the dynamics of acquiring a $1000 bond with a 10% coupon rate in the context of algorithmic trading to optimize investment strategies effectively."
+category: quant_concept
+description: Understand the dynamics of acquiring a $1000 bond with a 10% coupon rate
+  in the context of algorithmic trading to optimize investment strategies effectively.
+title: Acquisition of a $1,000 Bond With a 10% Coupon Rate (Algo Trading)
 ---
 
 In the highly competitive financial market, understanding financial instruments such as bonds, their coupon rates, and the impact of algorithmic trading is essential for informed investment decisions. Bonds are debt securities that governments, municipalities, and corporations use to raise capital. Investors who purchase bonds lend their money to the issuer in exchange for periodic interest payments, known as coupon payments, as well as the repayment of the bond's face value upon maturity. The coupon rate, which denotes the interest payment a bondholder receives as a percentage of the bond's face value, plays a critical role in determining a bond's price and yield.

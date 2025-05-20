@@ -1,6 +1,9 @@
 ---
-title: "Relationship Between PPI and CPI (Algo Trading)"
-description: "Explore the relationship between PPI and CPI in algorithmic trading Understand how these economic indicators are integrated into trading strategies to enhance decision-making"
+category: quant_concept
+description: Explore the relationship between PPI and CPI in algorithmic trading Understand
+  how these economic indicators are integrated into trading strategies to enhance
+  decision-making
+title: Relationship Between PPI and CPI (Algo Trading)
 ---
 
 In the complex landscape of modern financial markets, economic indicators and price indexes are fundamental in deciphering macroeconomic trends, particularly inflation. Among these indicators, the Consumer Price Index (CPI) and the Producer Price Index (PPI) stand out as critical measures for evaluating the economic health of a nation. The CPI tracks the average change in prices paid by urban consumers for a fixed basket of goods and services, serving as a primary gauge of inflation from the consumer's perspective. Meanwhile, the PPI measures the average change in selling prices received by domestic producers for their output, offering insights into the price changes occurring at the production level before they reach consumers. Both CPI and PPI are instrumental for policymakers, businesses, and investors seeking to understand and anticipate inflationary trends.

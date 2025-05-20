@@ -1,6 +1,9 @@
 ---
-title: "Capital Gearing Overview and Functionality (Algo Trading)"
-description: "Explore the fundamentals of capital gearing and financial leverage in algorithmic trading Discover how these metrics influence financial health and trading strategies"
+category: quant_concept
+description: Explore the fundamentals of capital gearing and financial leverage in
+  algorithmic trading Discover how these metrics influence financial health and trading
+  strategies
+title: Capital Gearing Overview and Functionality (Algo Trading)
 ---
 
 In finance, understanding financial metrics such as the gearing ratio, capital gearing, and financial leverage is essential for investors. These metrics play a vital role in evaluating a company's financial health, risk assessment, and formulating investment strategies. The gearing ratio is a measure of a company's financial leverage, indicating the degree to which its operations are funded by shareholder equity versus creditor financing. A high gearing ratio can signal increased financial risk, as the company relies heavily on borrowed funds, while a low ratio suggests a more conservative approach, reducing potential liabilities.
@@ -115,4 +118,3 @@ Bergstra, J., et al., Algorithms for Hyper-Parameter Optimization. This publicat
 Chan, E., *Algorithmic Trading: Winning Strategies and Their Rationale*. This reference provides a comprehensive overview of different algorithmic trading strategies, explaining the rationale behind them and how financial metrics such as gearing ratios and leverage can be employed to enhance these strategies.
 
 Jansen, S., *Machine Learning for Algorithmic Trading*. This book offers insights into the integration of machine learning in algorithmic trading, focusing on data-driven approaches that incorporate financial metrics to optimize trading performance and manage risks effectively.
-

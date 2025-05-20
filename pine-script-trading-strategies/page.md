@@ -1,6 +1,11 @@
 ---
-title: "Pine Script Trading Strategies (Algo Trading)"
-description: Discover the power of Pine Script for developing algorithmic trading strategies. Learn how this specialized scripting language from TradingView can enhance precision, reduce human errors, and optimize your trading approach. Explore various strategies, understand the advantages of automation, and leverage community resources to boost your trading success with custom techniques.
+category: trading_strategy
+description: Discover the power of Pine Script for developing algorithmic trading
+  strategies. Learn how this specialized scripting language from TradingView can enhance
+  precision, reduce human errors, and optimize your trading approach. Explore various
+  strategies, understand the advantages of automation, and leverage community resources
+  to boost your trading success with custom techniques.
+title: Pine Script Trading Strategies (Algo Trading)
 ---
 
 In recent years, algorithmic trading has gained tremendous popularity, primarily due to its capacity to execute trades with unparalleled speed and efficiency. Algorithmic trading, often referred to as algo trading, utilizes computer programs to manage trades according to predefined criteria, thus eliminating human intervention in the decision-making process. This technology is increasingly favored for its potential to enhance trading precision and optimize transaction costs, as well as for its ability to operate across multiple markets and platforms simultaneously.

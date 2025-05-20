@@ -1,6 +1,9 @@
 ---
-title: "Disagreement Among Economists (Algo Trading)"
-description: "Economists' disagreements on theories impact algorithmic trading strategies significantly Through understanding these debates traders can refine automated market decisions"
+category: quant_concept
+description: Economists' disagreements on theories impact algorithmic trading strategies
+  significantly Through understanding these debates traders can refine automated market
+  decisions
+title: Disagreement Among Economists (Algo Trading)
 ---
 
 Economists have been engaged in a long-standing debate over the most effective economic theories, often resulting in significant disagreements. These disagreements are not only academic; they have far-reaching implications, particularly in the field of algorithmic trading, where such theories are foundational to developing trading strategies. Algorithmic trading relies heavily on economic theories to guide automated decision-making processes in financial markets. Understanding the roots of these theoretical disagreements is essential for comprehending the complexities of financial markets and the behavior of algorithms executing trades within them.

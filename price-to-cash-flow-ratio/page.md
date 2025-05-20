@@ -1,6 +1,8 @@
 ---
-title: "Price-to-Cash Flow Ratio (Algo Trading)"
-description: "Explore the importance of the Price-to-Cash Flow ratio for financial valuation, highlighting its application in algorithmic trading and investment decision-making."
+category: quant_concept
+description: Explore the importance of the Price-to-Cash Flow ratio for financial
+  valuation, highlighting its application in algorithmic trading and investment decision-making.
+title: Price-to-Cash Flow Ratio (Algo Trading)
 ---
 
 Understanding financial ratios is critical for investors, analysts, and financial experts when evaluating a company's financial health. These ratios provide insights into various aspects of a company’s performance, helping stakeholders make informed decisions. Among the myriad of financial ratios available, the Price-to-Cash Flow (P/CF) ratio stands out as an essential tool for assessing a company's value based on its cash flow, offering a more tangible measure of financial health that is less susceptible to accounting manipulation than earnings-based metrics.

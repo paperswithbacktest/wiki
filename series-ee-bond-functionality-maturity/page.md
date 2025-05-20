@@ -1,6 +1,8 @@
 ---
-title: "Series EE Bond: Functionality and Maturity (Algo Trading)"
-description: "Explore the functionality and maturity of Series EE Bonds and their integration with algorithmic trading to maximize returns through a secure investment."
+category: quant_concept
+description: Explore the functionality and maturity of Series EE Bonds and their integration
+  with algorithmic trading to maximize returns through a secure investment.
+title: 'Series EE Bond: Functionality and Maturity (Algo Trading)'
 ---
 
 The investment landscape is perpetually evolving, accommodating both time-honored and cutting-edge financial instruments. One such traditional tool is the Series EE Bond—a stable U.S. government savings bond that holds particular appeal for conservative investors. These bonds provide a dependable and secure way to grow money over time, as they are backed by the full faith and credit of the U.S. government. Series EE Bonds are guaranteed to double in value over a 20-year term, making them a reliable choice for those prioritizing security and predictability in their investment portfolios.
@@ -113,4 +115,4 @@ The symbiotic relationship between Series EE Bonds' security and algorithmic tra
 
 [4]: Lopez de Prado, M. (2018). ["Advances in Financial Machine Learning"](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089) 
 
-[5]: Chan, E. P. (2008). ["Quantitative Trading: How to Build Your Own Algorithmic Trading Business"](https://github.com/ftvision/quant_trading_echan_book) 
+[5]: Chan, E. P. (2008). ["Quantitative Trading: How to Build Your Own Algorithmic Trading Business"](https://github.com/ftvision/quant_trading_echan_book)

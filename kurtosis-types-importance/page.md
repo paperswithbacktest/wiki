@@ -1,6 +1,9 @@
 ---
-title: "Kurtosis: Types and Importance (Algo Trading)"
-description: "Explore the influence of kurtosis in algorithmic trading to improve price volatility assessment and risk management. Enhance trading strategies by understanding data distribution extremes."
+category: quant_concept
+description: Explore the influence of kurtosis in algorithmic trading to improve price
+  volatility assessment and risk management. Enhance trading strategies by understanding
+  data distribution extremes.
+title: 'Kurtosis: Types and Importance (Algo Trading)'
 ---
 
 In today's fast-paced financial markets, algorithmic trading has emerged as a vital instrument for traders seeking to gain competitive advantages. With the increased complexity and speed of market transactions, traditional trading methods are becoming less effective. Algorithmic trading employs complex mathematical models and extensive data analysis to execute trades at unprecedented speeds, allowing traders to capitalize on fleeting market opportunities.

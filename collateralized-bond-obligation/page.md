@@ -1,6 +1,8 @@
 ---
-title: "Collateralized Bond Obligation (Algo Trading)"
-description: "Explore the role of bond securitization CBOs and algorithmic trading in modern investment strategies and their impact on global financial markets."
+category: quant_concept
+description: Explore the role of bond securitization CBOs and algorithmic trading
+  in modern investment strategies and their impact on global financial markets.
+title: Collateralized Bond Obligation (Algo Trading)
 ---
 
 In today's dynamic financial landscape, bond securitization, fixed income, collateralized bond obligations (CBOs), and algorithmic trading represent pivotal elements that shape modern investment strategies. These components not only facilitate capital flow and risk management but also drive innovation and efficiency across global financial markets. This article provides a comprehensive exploration of these critical concepts, revealing their interconnections and their collective impact on the functioning of contemporary financial systems.

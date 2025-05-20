@@ -1,6 +1,8 @@
 ---
-title: "Impact of Wall Street on Cryptocurrency (Algo Trading)"
-description: "Explore how Wall Street's embrace of algorithmic trading transforms cryptocurrency markets highlighting innovation, evolving strategies, and regulatory challenges."
+category: quant_concept
+description: Explore how Wall Street's embrace of algorithmic trading transforms cryptocurrency
+  markets highlighting innovation, evolving strategies, and regulatory challenges.
+title: Impact of Wall Street on Cryptocurrency (Algo Trading)
 ---
 
 The landscape of financial markets has undergone significant transformation with the convergence of traditional financial structures, such as those prevalent on Wall Street, and the emergent domain of cryptocurrencies. This amalgamation is not merely a fusion of different assets but represents a broad shift in trading paradigms, driven significantly by technological advancements like algorithmic trading.

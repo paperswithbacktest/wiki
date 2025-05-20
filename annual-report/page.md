@@ -1,6 +1,9 @@
 ---
-title: "Annual Report (Algo Trading)"
-description: "Explore the vital connections between corporate reporting and algorithmic trading in finance Learn how annual reports impact market stability and investor decisions"
+category: dataset
+description: Explore the vital connections between corporate reporting and algorithmic
+  trading in finance Learn how annual reports impact market stability and investor
+  decisions
+title: Annual Report (Algo Trading)
 ---
 
 In today's fast-paced financial world, understanding corporate reporting and financial statements is crucial for investors, analysts, and stakeholders. Annual reports serve as a foundation for corporate transparency, providing insights into a company's performance and strategic direction. These reports present a detailed account of a company's financial health, operational activities, and future plans, making them an essential tool for informed decision-making.

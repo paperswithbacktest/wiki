@@ -1,6 +1,8 @@
 ---
-title: "Currency ETFs: Overview and Considerations (Algo Trading)"
-description: "Explore currency ETFs and algorithmic trading to discover how this intersection enhances investment strategies offering diversification and efficiency."
+category: trading_strategy
+description: Explore currency ETFs and algorithmic trading to discover how this intersection
+  enhances investment strategies offering diversification and efficiency.
+title: 'Currency ETFs: Overview and Considerations (Algo Trading)'
 ---
 
 Exchange-Traded Funds (ETFs) have emerged as a pivotal financial instrument in the investment landscape, offering a versatile means for investors to gain exposure to a diverse range of assets including stocks, bonds, and commodities. ETFs are essentially marketable securities that track an index, a commodity, or a basket of assets, allowing investors the flexibility to trade them akin to stocks on stock exchanges. The significance of ETFs lies in their ability to provide diversification, liquidity, and typically lower costs compared to mutual funds, making them an attractive choice for both retail and institutional investors.

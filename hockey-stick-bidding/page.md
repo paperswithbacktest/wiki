@@ -1,6 +1,9 @@
 ---
-title: "Hockey Stick Bidding (Algo Trading)"
-description: "Explore the dynamics of hockey stick bidding in algo trading auctions and discover how this strategy manipulates pricing to maximize profit amidst market controversy."
+category: trading_strategy
+description: Explore the dynamics of hockey stick bidding in algo trading auctions
+  and discover how this strategy manipulates pricing to maximize profit amidst market
+  controversy.
+title: Hockey Stick Bidding (Algo Trading)
 ---
 
 Bidding strategies in auctions are critical methodologies employed by participants to gain competitive advantage and maximize their utility or profit. These strategies are varied and depend on the auction format, the nature of the goods or services, and the competitiveness of the environment. Algorithmic trading plays a vital role in these strategies by offering sophisticated means to analyze market data, predict trends, and execute trades with precision and speed that would be unattainable through manual efforts. Algorithmic trading employs mathematical models and algorithms to make decision-based trading, often capitalizing on small price discrepancies in real-time.

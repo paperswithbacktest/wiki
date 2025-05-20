@@ -1,6 +1,9 @@
 ---
-title: "Pure Play: Definition, Functionality, Advantages, and Risks (Algo Trading)"
-description: "Explore pure play algorithmic trading companies focusing on single-business models revealing visible cash flow but carrying increased sector-specific risks and competition."
+category: quant_concept
+description: Explore pure play algorithmic trading companies focusing on single-business
+  models revealing visible cash flow but carrying increased sector-specific risks
+  and competition.
+title: 'Pure Play: Definition, Functionality, Advantages, and Risks (Algo Trading)'
 ---
 
 In the modern investment landscape, algorithmic trading stands as a transformative force, fundamentally altering the way financial markets operate. This sophisticated approach utilizes complex algorithms to make predictions and execute trades at speeds and frequencies that are far beyond human capacity. As this technology-driven method gains prominence, understanding the underlying risks associated with various business models in algorithmic trading becomes increasingly important for investors.

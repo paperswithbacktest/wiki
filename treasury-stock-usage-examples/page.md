@@ -1,6 +1,8 @@
 ---
-title: "Treasury Stock: Usage and Examples (Algo Trading)"
-description: "Understand the strategic use and impact of treasury stock and share repurchases. Explore how these financial actions affect earnings per share and investor sentiment."
+category: trading_strategy
+description: Understand the strategic use and impact of treasury stock and share repurchases.
+  Explore how these financial actions affect earnings per share and investor sentiment.
+title: 'Treasury Stock: Usage and Examples (Algo Trading)'
 ---
 
 Share repurchase, commonly referred to as stock buyback, is a financial strategy where a company repurchases its own shares from the stock market. By doing so, the company effectively reduces the number of outstanding shares, which can lead to an increase in the stock's value. This occurs because the earnings per share (EPS) metric often improves when the total shares decrease, potentially making the stock more attractive to investors.

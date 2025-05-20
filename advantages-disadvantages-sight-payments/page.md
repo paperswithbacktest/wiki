@@ -1,6 +1,8 @@
 ---
-title: "Advantages and Disadvantages of At Sight Payments (Algo Trading)"
-description: "Explore the pros and cons of at sight payments and algorithmic trading Discover how these methods impact international trade and modern financial markets"
+category: trading_strategy
+description: Explore the pros and cons of at sight payments and algorithmic trading
+  Discover how these methods impact international trade and modern financial markets
+title: Advantages and Disadvantages of At Sight Payments (Algo Trading)
 ---
 
 The rise of digital transactions has revolutionized the financial landscape, making payments faster and more convenient. As technology continues to advance, businesses and consumers now have a plethora of transaction methods at their disposal, each offering unique benefits and potential drawbacks. However, not all transaction methods are without their challenges, and the effective navigation of these options is crucial for optimizing financial operations.

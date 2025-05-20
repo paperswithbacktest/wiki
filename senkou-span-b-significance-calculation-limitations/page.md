@@ -1,6 +1,8 @@
 ---
-title: "Senkou Span B: Significance, Calculation, and Limitations (Algo Trading)"
-description: "Explore Senkou Span B within the Ichimoku Cloud for insights into market trends and potential reversals essential for enhancing algorithmic trading strategies."
+category: quant_concept
+description: Explore Senkou Span B within the Ichimoku Cloud for insights into market
+  trends and potential reversals essential for enhancing algorithmic trading strategies.
+title: 'Senkou Span B: Significance, Calculation, and Limitations (Algo Trading)'
 ---
 
 The world of technical analysis offers traders a wide array of tools and indicators designed to interpret market trends and facilitate informed decision-making. Of these tools, the Ichimoku Cloud distinguishes itself through its comprehensive approach to analyzing market dynamics. Central to this indicator are its components, Senkou Span A and Senkou Span B, which play a vital role in offering a unique perspective on market trends and potential reversals.

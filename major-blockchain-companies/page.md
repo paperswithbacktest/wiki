@@ -1,6 +1,9 @@
 ---
-title: "Major Blockchain Companies (Algo Trading)"
-description: "Discover how leading blockchain companies are revolutionizing industries through algorithmic trading and innovative solutions, transforming financial markets and business paradigms."
+category: quant_concept
+description: Discover how leading blockchain companies are revolutionizing industries
+  through algorithmic trading and innovative solutions, transforming financial markets
+  and business paradigms.
+title: Major Blockchain Companies (Algo Trading)
 ---
 
 Blockchain technology has emerged as a transformative force across various industries, providing innovative solutions to long-standing problems in fields ranging from finance to supply chain management. This article identifies key blockchain companies pioneering advancement, detailing their role in reshaping traditional systems. By highlighting specific contributions and impacts, the article seeks to offer clear insights into the present state and future potential of blockchain technology, underscoring its significance across various sectors.

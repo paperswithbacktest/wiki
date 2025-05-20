@@ -1,6 +1,8 @@
 ---
-title: "Grayscale Bitcoin Trust ETF (Algo Trading)"
-description: "Explore the intersection of Grayscale Bitcoin Trust ETFs with algorithmic trading and learn how they are reshaping Bitcoin investments and financial markets."
+category: trading_strategy
+description: Explore the intersection of Grayscale Bitcoin Trust ETFs with algorithmic
+  trading and learn how they are reshaping Bitcoin investments and financial markets.
+title: Grayscale Bitcoin Trust ETF (Algo Trading)
 ---
 
 Bitcoin has become a significant component of the financial sector, gaining acceptance among both individual and institutional investors. As the first decentralized cryptocurrency, Bitcoin has demonstrated resilience and innovation, becoming a hedge against inflation and a new asset class in diversified portfolios. Its growing significance is evidenced by the increasing number of financial products designed to provide investors with exposure to Bitcoin, including Bitcoin trusts like those offered by Grayscale Investments.

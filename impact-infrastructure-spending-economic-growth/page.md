@@ -1,6 +1,8 @@
 ---
-title: "Impact of Infrastructure Spending on Economic Growth (Algo Trading)"
-description: "Explore how infrastructure spending acts as a catalyst for economic growth and influences markets through fiscal stimulus and algorithmic trading dynamics."
+category: trading_strategy
+description: Explore how infrastructure spending acts as a catalyst for economic growth
+  and influences markets through fiscal stimulus and algorithmic trading dynamics.
+title: Impact of Infrastructure Spending on Economic Growth (Algo Trading)
 ---
 
 Infrastructure spending, economic growth, fiscal stimulus, and algorithmic trading are deeply intertwined aspects of modern economic policy and financial markets. Infrastructure spending, consisting of government investments in essential public goods such as transportation, power, and water facilities, plays a crucial role as an economic stimulus. It is widely regarded as an effective tool aimed at boosting Gross Domestic Product (GDP) and employment levels. The Keynesian economic theory particularly advocates for increased infrastructure spending during recessions, positing that it elevates aggregate demand through direct job creation and induced economic activities.

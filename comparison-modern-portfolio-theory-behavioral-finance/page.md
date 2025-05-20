@@ -1,6 +1,9 @@
 ---
-title: "Comparison of Modern Portfolio Theory and Behavioral Finance (Algo Trading)"
-description: "Explore the interplay between Modern Portfolio Theory, Behavioral Finance, and Algorithmic Trading to enhance investment strategies for better risk management and returns."
+category: quant_concept
+description: Explore the interplay between Modern Portfolio Theory, Behavioral Finance,
+  and Algorithmic Trading to enhance investment strategies for better risk management
+  and returns.
+title: Comparison of Modern Portfolio Theory and Behavioral Finance (Algo Trading)
 ---
 
 Investment strategies have dramatically evolved over the years, with innovations in technology and finance reshaping how we approach portfolio management. A significant transformation has been the incorporation of advanced financial theories and technological advancements. The Modern Portfolio Theory (MPT), introduced by Harry Markowitz, revolutionized the field by providing a framework focused on maximizing expected return for a given level of risk through diversification. This theory introduced concepts like the efficient frontier, guiding investors in constructing optimal portfolios under the assumption of markets being efficient with rational investors.

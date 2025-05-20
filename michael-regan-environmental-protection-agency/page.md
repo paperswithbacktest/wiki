@@ -1,6 +1,12 @@
 ---
-title: "Michael Regan and the Environmental Protection Agency (Algo Trading)"
-description: "Explore the dynamic intersection of environmental policy and technology under the leadership of Michael Regan at the Environmental Protection Agency (EPA). Discover how Regan's focus on environmental justice and sustainability aligns with innovative financial tools like algorithmic trading, promoting sustainable investing and economic growth. Uncover the role of the EPA in shaping a sustainable future through modern technological capabilities and regulatory advancements."
+category: quant_concept
+description: Explore the dynamic intersection of environmental policy and technology
+  under the leadership of Michael Regan at the Environmental Protection Agency (EPA).
+  Discover how Regan's focus on environmental justice and sustainability aligns with
+  innovative financial tools like algorithmic trading, promoting sustainable investing
+  and economic growth. Uncover the role of the EPA in shaping a sustainable future
+  through modern technological capabilities and regulatory advancements.
+title: Michael Regan and the Environmental Protection Agency (Algo Trading)
 ---
 
 In recent years, the synergy between environmental justice, sustainability, and technological advancements has become increasingly apparent. At the forefront of addressing environmental justice issues is Michael Regan, the leader of the Environmental Protection Agency (EPA). His tenure signifies a pivotal moment in aligning environmental policy with modern technological capabilities. Concurrently, the financial sector witnesses a significant shift as algorithmic trading—a technology-driven approach—becomes a vital component in financial markets. With growing interest, analysts explore how this intersection of finance and environmental regulation can promote sustainable development.

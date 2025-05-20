@@ -1,6 +1,9 @@
 ---
-title: "Calculating Yield of Inflation-Adjusted Bonds (Algo Trading)"
-description: "Explore the synergy of bond yield strategies, inflation-adjusted bonds, and algorithmic trading to enhance investment performance and manage market volatility effectively."
+category: trading_strategy
+description: Explore the synergy of bond yield strategies, inflation-adjusted bonds,
+  and algorithmic trading to enhance investment performance and manage market volatility
+  effectively.
+title: Calculating Yield of Inflation-Adjusted Bonds (Algo Trading)
 ---
 
 Bond investment is a crucial component of the financial markets, providing investors with opportunities to generate steady income and manage risk. Bonds, as fixed-income securities, represent a loan from the investor to a borrower, typically governments or corporations. This reliable income generation makes bonds an attractive option for diversifying portfolios and hedging against market volatility.

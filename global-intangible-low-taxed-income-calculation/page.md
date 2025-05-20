@@ -1,6 +1,9 @@
 ---
-title: "Global Intangible Low-Taxed Income Calculation (Algo Trading)"
-description: "Explore the intricacies of Global Intangible Low-Taxed Income (GILTI) and its impact on U.S. corporations and algorithmic trading, ensuring compliance and tax optimization."
+category: quant_concept
+description: Explore the intricacies of Global Intangible Low-Taxed Income (GILTI)
+  and its impact on U.S. corporations and algorithmic trading, ensuring compliance
+  and tax optimization.
+title: Global Intangible Low-Taxed Income Calculation (Algo Trading)
 ---
 
 Global intangible low-taxed income (GILTI) has emerged as a significant factor in international tax compliance for U.S. corporations. Instituted under the Tax Cuts and Jobs Act (TCJA) of 2017, GILTI was designed to counteract profit shifting to tax havens, a strategy often employed by multinational enterprises to minimize their tax liabilities. By imposing a U.S. tax liability on foreign earnings, GILTI seeks to safeguard the U.S. tax base and ensure that corporations participate fairly in the economic responsibilities of operating within the U.S. economy.

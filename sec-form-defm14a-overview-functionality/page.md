@@ -1,6 +1,8 @@
 ---
-title: "SEC Form DEFM14A: Overview and Functionality (Algo Trading)"
-description: "SEC Form DEFM14A is crucial in M&A activities ensuring transparent shareholder communications and aiding algorithmic trading insights for market dynamics."
+category: quant_concept
+description: SEC Form DEFM14A is crucial in M&A activities ensuring transparent shareholder
+  communications and aiding algorithmic trading insights for market dynamics.
+title: 'SEC Form DEFM14A: Overview and Functionality (Algo Trading)'
 ---
 
 Shareholder communications are pivotal in mergers and acquisitions (M&A), ensuring that the interests of investors are represented and safeguarded. Among the essential components facilitating these communications is the SEC Form DEFM14A. This definitive proxy statement is required for shareholder votes in M&A activities, acting as a conduit for transparency and informed decision-making.

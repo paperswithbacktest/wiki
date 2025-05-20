@@ -1,6 +1,9 @@
 ---
-title: "Black Box Accounting: Definition, Techniques, and Challenges (Algo Trading)"
-description: "Explore the intricacies of black box accounting and its challenges in algorithmic trading due to lack of transparency, affecting market integrity and trading accuracy."
+category: quant_concept
+description: Explore the intricacies of black box accounting and its challenges in
+  algorithmic trading due to lack of transparency, affecting market integrity and
+  trading accuracy.
+title: 'Black Box Accounting: Definition, Techniques, and Challenges (Algo Trading)'
 ---
 
 This article examines accounting methods with a focus on black box accounting. Black box accounting involves intricate bookkeeping practices that often make financial statement interpretation difficult. Such practices possess limitations, particularly in algorithmic trading. Accounting methods, while crucial for financial transparency, can sometimes obscure a company's true financial health. Non-transparent practices like black box accounting present significant challenges to algorithmic trading, which relies on accurate financial data to function effectively.

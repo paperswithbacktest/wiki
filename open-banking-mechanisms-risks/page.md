@@ -1,6 +1,8 @@
 ---
-title: "Open Banking: Mechanisms and Risks (Algo Trading)"
-description: "Open Banking transforms finance via APIs connecting banks and third-party providers Enhancing services it also raises serious data security and privacy concerns"
+category: quant_concept
+description: Open Banking transforms finance via APIs connecting banks and third-party
+  providers Enhancing services it also raises serious data security and privacy concerns
+title: 'Open Banking: Mechanisms and Risks (Algo Trading)'
 ---
 
 Open Banking is fundamentally transforming the financial sector by enabling a seamless connection between banks, third-party providers, and consumers through the utilization of Application Programming Interfaces (APIs). This innovative framework allows financial data to be shared more freely and securely than ever before, fostering a new wave of personalized and competitive financial services. By providing third-party financial service providers access to consumer banking and transaction data, Open Banking encourages a broad spectrum of financial innovations that have the potential to benefit both consumers and the financial industry.

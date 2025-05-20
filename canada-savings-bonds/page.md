@@ -1,6 +1,8 @@
 ---
-title: "Canada Savings Bonds (Algo Trading)"
-description: "Explore the evolution of Canada Savings Bonds and modern investment alternatives like algorithmic trading offering secure, diversified strategies for investors."
+category: trading_strategy
+description: Explore the evolution of Canada Savings Bonds and modern investment alternatives
+  like algorithmic trading offering secure, diversified strategies for investors.
+title: Canada Savings Bonds (Algo Trading)
 ---
 
 Investing in Canadian financial instruments offers a variety of opportunities for both domestic and international investors looking to diversify their portfolios. One of the most well-known investment vehicles historically available in Canada was the Canada Savings Bond (CSB). Introduced as a safe and accessible savings option, CSBs played a pivotal role in providing Canadians with a low-risk investment strategy that guaranteed returns. Issued by the Bank of Canada, these bonds became synonymous with secure investment, appealing to risk-averse investors seeking stable, albeit modest, yields.

@@ -1,6 +1,8 @@
 ---
-title: "Put Option: Functionality and Trading Techniques (Algo Trading)"
-description: "Explore the convergence of put options and algorithmic trading, highlighting advanced techniques and strategies that optimize trading performance and risk management."
+category: quant_concept
+description: Explore the convergence of put options and algorithmic trading, highlighting
+  advanced techniques and strategies that optimize trading performance and risk management.
+title: 'Put Option: Functionality and Trading Techniques (Algo Trading)'
 ---
 
 Financial derivatives are financial contracts whose value is derived from an underlying asset, index, or rate. These instruments have become integral to modern finance, serving purposes ranging from hedging and speculation to risk management. They allow market participants to manage exposure to fluctuations in prices, rates, or other factors critical to their unique situations. Among various types of derivatives, options stand out as a vital category, offering tailored strategies to strategically engage with market movements.

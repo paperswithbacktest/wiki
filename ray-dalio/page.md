@@ -1,6 +1,14 @@
 ---
-title: "Ray Dalio (Algo Trading)"
-description: Ray Dalio is a pivotal figure in the financial sector, renowned for founding Bridgewater Associates, the world's largest hedge fund. His innovative approach to investing integrates algorithmic trading, using data-driven models to enhance market opportunities and manage risks effectively. This fusion of human insight and technological precision has reshaped modern investment strategies, highlighting Dalio's influence in evolving financial paradigms. Additionally, his emphasis on radical transparency and principled living, as detailed in his book "Principles" continues to offer valuable guidance in both investing and personal development.
+category: quant_concept
+description: Ray Dalio is a pivotal figure in the financial sector, renowned for founding
+  Bridgewater Associates, the world's largest hedge fund. His innovative approach
+  to investing integrates algorithmic trading, using data-driven models to enhance
+  market opportunities and manage risks effectively. This fusion of human insight
+  and technological precision has reshaped modern investment strategies, highlighting
+  Dalio's influence in evolving financial paradigms. Additionally, his emphasis on
+  radical transparency and principled living, as detailed in his book "Principles"
+  continues to offer valuable guidance in both investing and personal development.
+title: Ray Dalio (Algo Trading)
 ---
 
 Ray Dalio stands as one of the most influential figures in the financial landscape, renowned for his profound impact on the investment community. As the founder of Bridgewater Associates, the largest hedge fund in the world, Dalio has consistently demonstrated an unparalleled ability to navigate complex economic environments. His insights have not only enriched his own enterprise but have also provided valuable guidance to investors globally.

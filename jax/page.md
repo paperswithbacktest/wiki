@@ -1,7 +1,8 @@
 ---
-title: Comprehensive Guide To JAX For Efficient Machine Learning
+category: quant_concept
 description: JAX accelerates machine learning workflows with automatic differentiation
   just in time compilation and parallel hardware support Discover more inside.
+title: Comprehensive Guide To JAX For Efficient Machine Learning
 ---
 
 ![Image](images/1.png)

@@ -1,6 +1,9 @@
 ---
-title: "130-30 Investment Strategy (Algo Trading)"
-description: "Explore the 130-30 investment strategy which combines long positions and short selling for optimized returns. Learn its benefits, risks, and algorithmic trading integration."
+category: trading_strategy
+description: Explore the 130-30 investment strategy which combines long positions
+  and short selling for optimized returns. Learn its benefits, risks, and algorithmic
+  trading integration.
+title: 130-30 Investment Strategy (Algo Trading)
 ---
 
 The 130-30 strategy is an advanced investment technique that merges the traditional investment approach of holding long positions with the tactical strategy of short selling. This method is designed to allow institutional investors to capitalize on both upward and downward movements in stock prices, providing a potential avenue for optimizing capital efficiency and achieving superior returns. 

@@ -1,6 +1,8 @@
 ---
-title: "SEC Form 18-12B Overview (Algo Trading)"
-description: "Explore the essential role of SEC Form 18-12B in transparent financial reporting for algorithmic trading within U.S. securities markets ensuring compliance."
+category: quant_concept
+description: Explore the essential role of SEC Form 18-12B in transparent financial
+  reporting for algorithmic trading within U.S. securities markets ensuring compliance.
+title: SEC Form 18-12B Overview (Algo Trading)
 ---
 
 In the fast-paced world of finance, understanding regulatory requirements is crucial for market participants. One such regulatory filing is the SEC Form 18-12B. This article will explore the intricacies of SEC Form 18-12B and its relevance in financial reporting, especially with the increasing prevalence of algorithmic trading. The form plays a vital role in ensuring transparency and compliance within the U.S. securities markets. By examining the core components of the form, we aim to uncover how it facilitates adherence to financial reporting standards and supports algorithmic trading strategies.

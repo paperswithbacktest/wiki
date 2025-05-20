@@ -1,6 +1,9 @@
 ---
-title: "Qualified Eligible Participant (Algo Trading)"
-description: "Explore the role of Qualified Eligible Participants in algorithmic trading and their access to advanced investment opportunities and regulatory considerations in finance."
+category: quant_concept
+description: Explore the role of Qualified Eligible Participants in algorithmic trading
+  and their access to advanced investment opportunities and regulatory considerations
+  in finance.
+title: Qualified Eligible Participant (Algo Trading)
 ---
 
 A Qualified Eligible Participant (QEP) is a designation in the financial industry that identifies individuals or entities as having a sophisticated understanding and capability to engage in complex investment activities. This status is particularly vital for accessing advanced financial instruments and markets that are generally closed to ordinary investors due to their inherent complexities and risks. QEPs, therefore, play a crucial role in the financial ecosystem by contributing to liquidity and promoting market efficiency through their participation in sophisticated financial transactions.

@@ -1,6 +1,9 @@
 ---
-title: "Liberty Bonds Overview and Functionality (Algo Trading)"
-description: "Explore the evolution from Liberty Bonds' historical significance in wartime financing to modern algorithmic trading reshaping today's bond markets and investment strategies."
+category: quant_concept
+description: Explore the evolution from Liberty Bonds' historical significance in
+  wartime financing to modern algorithmic trading reshaping today's bond markets and
+  investment strategies.
+title: Liberty Bonds Overview and Functionality (Algo Trading)
 ---
 
 In this article, we explore government financing through war bonds and Liberty Bonds, along with the modern landscape of algorithmic trading. War bonds and Liberty Bonds have historically played a crucial role in financing military operations. These financial instruments enabled ordinary citizens to contribute to their country's wartime efforts while engaging with national financial systems. For instance, during World War I, the U.S. government introduced Liberty Bonds to fund military activities, fostering both economic participation and patriotic sentiment among the populace.

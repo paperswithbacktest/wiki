@@ -1,6 +1,8 @@
 ---
-title: "Negative Income Tax: Overview and Mechanism (Algo Trading)"
-description: "Explore the complex interplay between negative income tax and algorithmic trading A comprehensive guide on their roles in economic resilience and policy innovation"
+category: quant_concept
+description: Explore the complex interplay between negative income tax and algorithmic
+  trading A comprehensive guide on their roles in economic resilience and policy innovation
+title: 'Negative Income Tax: Overview and Mechanism (Algo Trading)'
 ---
 
 In today's dynamic economic landscape, understanding various income tax mechanisms is essential for individuals and policymakers. The tax policy framework encompasses multiple components, including the negative income tax (NIT), which offers a progressive approach to providing a safety net for low-income earners. Introduced by economist Milton Friedman, NIT proposes a system whereby individuals earning below a specified threshold receive supplemental financial assistance, thereby reducing poverty and boosting economic security.

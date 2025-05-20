@@ -1,6 +1,8 @@
 ---
-title: "Major Shareholders of Johnson & Johnson (Algo Trading)"
-description: "Discover the major shareholders of Johnson & Johnson and their influence on the company's strategic decisions in the evolving landscape of algorithmic trading."
+category: dataset
+description: Discover the major shareholders of Johnson & Johnson and their influence
+  on the company's strategic decisions in the evolving landscape of algorithmic trading.
+title: Major Shareholders of Johnson & Johnson (Algo Trading)
 ---
 
 Johnson & Johnson (JNJ) stands as one of the oldest and most distinguished American companies, with a legacy dating back to its founding in 1886. Established by the Johnson brothers—Robert, James, and Edward—the company has played a transformative role in the healthcare sector through its development of numerous medical devices, pharmaceuticals, and consumer health products. Its long-standing commitment to quality and innovation has cemented Johnson & Johnson's position as a leader in promoting global health.

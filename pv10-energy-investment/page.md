@@ -1,6 +1,9 @@
 ---
-title: "PV10 in Energy Investment (Algo Trading)"
-description: "Explore the impact of PV10 metrics on energy investments and discover how algorithmic trading enhances strategies by processing real-time market data for optimal decisions."
+category: quant_concept
+description: Explore the impact of PV10 metrics on energy investments and discover
+  how algorithmic trading enhances strategies by processing real-time market data
+  for optimal decisions.
+title: PV10 in Energy Investment (Algo Trading)
 ---
 
 In the ever-evolving landscape of energy investments, understanding valuation metrics is crucial for informed decision-making. Among the various measures, PV10 stands out as a vital metric in the energy sector. It represents the present value of estimated future oil and gas revenues, discounted at a rate of 10%. This measure plays an essential role in helping investors evaluate the potential profitability of energy assets. By analyzing PV10, investors can better assess the market value of energy companies, ensuring a more strategic approach to investment.

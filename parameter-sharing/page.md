@@ -1,7 +1,8 @@
 ---
-title: Parameter Sharing Techniques for Efficient Deep Learning Models
+category: quant_concept
 description: Parameter sharing reduces model complexity and improves generalization
   across CNNs and RNNs enabling faster training with fewer weights Discover more
+title: Parameter Sharing Techniques for Efficient Deep Learning Models
 ---
 
 ![Image](images/1.png)

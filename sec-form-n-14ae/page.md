@@ -1,6 +1,8 @@
 ---
-title: "SEC Form N-14AE (Algo Trading)"
-description: "Explore SEC Form N-14 and its pivotal role in transparent investment fund operations. Understand the key significance in mergers and algorithmic trading."
+category: quant_concept
+description: Explore SEC Form N-14 and its pivotal role in transparent investment
+  fund operations. Understand the key significance in mergers and algorithmic trading.
+title: SEC Form N-14AE (Algo Trading)
 ---
 
 The Securities and Exchange Commission (SEC) plays a pivotal role in regulating the financial industry of the United States, ensuring transparency, fairness, and efficiency in the securities markets. Established by the Securities Exchange Act of 1934, the SEC's primary mission is to protect investors, maintain fair, orderly, and efficient markets, and facilitate capital formation. It accomplishes these goals through the enforcement of securities laws and the establishment of rules and regulations that govern the industry.

@@ -1,6 +1,8 @@
 ---
-title: "Commercial Paper: Overview, Benefits, and Examples (Algo Trading)"
-description: "Explore the role of commercial paper in corporate finance and the impact of algorithmic trading Discover key benefits and examples enhancing financial management."
+category: quant_concept
+description: Explore the role of commercial paper in corporate finance and the impact
+  of algorithmic trading Discover key benefits and examples enhancing financial management.
+title: 'Commercial Paper: Overview, Benefits, and Examples (Algo Trading)'
 ---
 
 In the fast-paced world of finance, the need for efficient financial management tools is paramount to ensure sustainability and growth within corporations. One such financial instrument that has become integral in corporate finance is commercial paper. As an unsecured, short-term debt instrument, commercial paper provides companies a practical means to fulfill immediate financial obligations such as payroll, inventories, and other short-term liabilities. The ability to quickly raise funds without the extension of collateral offers corporations a distinct advantage, allowing for flexibility and agility in financial management.

@@ -1,6 +1,8 @@
 ---
-title: "Chartered Accountant Roles and Responsibilities (Algo Trading)"
-description: "Discover how Chartered Accountants enhance financial strategies in the evolving world of algo trading through risk management, compliance, and tech integration."
+category: quant_concept
+description: Discover how Chartered Accountants enhance financial strategies in the
+  evolving world of algo trading through risk management, compliance, and tech integration.
+title: Chartered Accountant Roles and Responsibilities (Algo Trading)
 ---
 
 Chartered Accountants (CAs) play an indispensable role in ensuring the financial health of organizations within the ever-changing landscape of finance and business. These professionals are integral not only for their traditional responsibilities of managing accounting and tax duties but also for providing strategic insights that keep organizations competitive. In this context, a noteworthy area where their expertise is becoming vital is algorithmic trading, a burgeoning trend in financial markets.

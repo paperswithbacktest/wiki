@@ -1,6 +1,8 @@
 ---
-title: "Defensive Investment Strategy (Algo Trading)"
-description: "Explore the benefits of a defensive investment strategy enhanced by algorithmic trading for risk-averse investors seeking stability and capital preservation."
+category: trading_strategy
+description: Explore the benefits of a defensive investment strategy enhanced by algorithmic
+  trading for risk-averse investors seeking stability and capital preservation.
+title: Defensive Investment Strategy (Algo Trading)
 ---
 
 In investing, effective portfolio management is crucial for achieving financial goals. A defensive investment strategy embodies a conservative approach, prioritizing risk minimization and principal preservation. Such a strategy holds particular appeal for risk-averse investors who prioritize stability over high returns. The essentials of constructing a defensive portfolio, bolstered by technological advancements like algorithmic trading, are pivotal in addressing the challenges posed by market volatility. 

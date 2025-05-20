@@ -1,6 +1,9 @@
 ---
-title: "Stock Volume and Its Significance for Investors (Algo Trading)"
-description: "Explore the importance of stock volume in trading and investing as a key metric for market dynamics liquidity analysis price trend confirmation and strategy development."
+category: quant_concept
+description: Explore the importance of stock volume in trading and investing as a
+  key metric for market dynamics liquidity analysis price trend confirmation and strategy
+  development.
+title: Stock Volume and Its Significance for Investors (Algo Trading)
 ---
 
 Trading volume is a critical metric in financial markets, encapsulating the total number of shares, contracts, or units exchanged over a defined period. This metric serves as a cornerstone for interpreting market dynamics and gauging the liquidity of financial instruments. In essence, a higher trading volume suggests more robust market activity and typically indicates that assets can be traded more easily without causing significant price changes. This ease of transaction is particularly beneficial when executing large orders, allowing for better price control and execution efficiency.

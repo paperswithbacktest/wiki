@@ -1,6 +1,8 @@
 ---
-title: "Price by Volume Chart: Overview and Examples (Algo Trading)"
-description: "Explore the significance of Price by Volume (PBV) charts in trading by understanding volume and price relationships to enhance strategy and decision-making."
+category: quant_concept
+description: Explore the significance of Price by Volume (PBV) charts in trading by
+  understanding volume and price relationships to enhance strategy and decision-making.
+title: 'Price by Volume Chart: Overview and Examples (Algo Trading)'
 ---
 
 The world of stock market trading is vast and complex, featuring myriad tools and strategies that underpin informed decision-making processes. One such essential tool is the Price by Volume (PBV) chart, a staple in the domain of technical analysis. PBV charts provide a unique perspective by offering a graphical representation of the volume of shares traded at varying price levels, making them indispensable for traders seeking to understand market dynamics beyond traditional price-focused charts.

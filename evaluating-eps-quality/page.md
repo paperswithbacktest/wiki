@@ -1,6 +1,9 @@
 ---
-title: "Evaluating EPS Quality (Algo Trading)"
-description: "Evaluate EPS quality in algo trading to assess profitability and optimize strategies. Gain insights into trading decisions and competitive advantages using EPS trends."
+category: quant_concept
+description: Evaluate EPS quality in algo trading to assess profitability and optimize
+  strategies. Gain insights into trading decisions and competitive advantages using
+  EPS trends.
+title: Evaluating EPS Quality (Algo Trading)
 ---
 
 Earnings per Share (EPS) is a key metric utilized in financial analysis and trading to evaluate a company's profitability on a per-share basis. This metric serves as a fundamental tool for investors and financial analysts, offering a straightforward measure of how much money a company earns for each share of its stock. EPS is calculated by dividing the net income of a company by its total number of outstanding shares. The formula is represented as:
@@ -140,4 +143,3 @@ Continuous refinement and updating of trading strategies are critical. Given the
 4. **Machine Learning Resources**: The intersection of machine learning and trading is explored through resources that cover the application of pattern recognition and data analysis in improving trading algorithms. These materials demonstrate how machine learning techniques can enhance the accuracy and efficiency of trading strategies by leveraging financial metrics such as EPS.
 
 These resources collectively offer a broad perspective on EPS's role in financial analysis and algorithmic trading, providing both theoretical foundations and practical applications.
-

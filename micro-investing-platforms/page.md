@@ -1,6 +1,8 @@
 ---
-title: "Micro-Investing Platforms (Algo Trading)"
-description: "Discover how micro-investing platforms and algorithmic trading are revolutionizing finance enabling seamless, automated investing for all skill levels."
+category: trading_strategy
+description: Discover how micro-investing platforms and algorithmic trading are revolutionizing
+  finance enabling seamless, automated investing for all skill levels.
+title: Micro-Investing Platforms (Algo Trading)
 ---
 
 In the rapidly evolving world of finance, micro-investing and algorithmic trading have emerged as popular strategies for both new and seasoned investors. Micro-investing platforms have significantly lowered the barrier to entry, enabling individuals to begin investing with minimal financial resources. By allowing investment with small sums, these platforms democratize the investment process, making it accessible to a larger segment of the population including those who may have previously been excluded due to high initial deposit requirements.

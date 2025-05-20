@@ -1,6 +1,9 @@
 ---
-title: "New Paradigm: Overview and Implementation (Algo Trading)"
-description: "Explore the impact of new paradigms and algorithmic trading in finance Learn how these innovations redefine markets enhance efficiency and drive future trends"
+category: quant_concept
+description: Explore the impact of new paradigms and algorithmic trading in finance
+  Learn how these innovations redefine markets enhance efficiency and drive future
+  trends
+title: 'New Paradigm: Overview and Implementation (Algo Trading)'
 ---
 
 A paradigm is a set of practices that defines a scientific discipline at any particular period of time. It encompasses the accepted theories, methods, and standards that are utilized within a given discipline, serving as the framework that guides research and practice. When a paradigm no longer functions effectively and is replaced by a new one, a paradigm shift occurs. These shifts, famously described by Thomas Kuhn in his book "The Structure of Scientific Revolutions," are pivotal in advancing knowledge and practices across various fields, promoting innovation and fostering development.

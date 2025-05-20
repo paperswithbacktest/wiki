@@ -1,6 +1,9 @@
 ---
-title: "Mumbai Interbank Offered Rate and Mumbai Interbank Bid Rate Comparison (Algo Trading)"
-description: "Compare MIBOR and MIBID rates vital for India's banking sector They benchmark short-term lending and influence financial products and trading strategies"
+category: dataset
+description: Compare MIBOR and MIBID rates vital for India's banking sector They benchmark
+  short-term lending and influence financial products and trading strategies
+title: Mumbai Interbank Offered Rate and Mumbai Interbank Bid Rate Comparison (Algo
+  Trading)
 ---
 
 Interbank rates play a crucial role in the financial markets by serving as benchmarks for short-term lending among banks. In India, the Mumbai Interbank Offer Rate (MIBOR) and the Mumbai Interbank Bid Rate (MIBID) are two such essential benchmarks. These rates are critical in providing a reference for various financial products and influence the country's monetary policy and liquidity distribution.
@@ -231,4 +234,3 @@ Looking ahead, the future of algorithmic trading leveraging interbank rates like
 [6]: ["How Financial Benchmarks Work"](https://www.investopedia.com/terms/b/benchmark.asp) by R. Gandhi, Reserve Bank of India speech.
 
 [7]: ["Unravelling the LIBOR: The Wolves of Wall Street's Premier Rate"](https://www.bloomberg.com/features/2021-what-is-libor-history-of-the-worlds-most-important-number/) in the Oxford Business & Economics book series.
-

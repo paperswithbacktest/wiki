@@ -1,6 +1,9 @@
 ---
-title: "Mutual Fund Subadvisor: Overview, Benefits, and Challenges (Algo Trading)"
-description: "Explore the pivotal role of mutual fund subadvisors and algo trading in modern investment strategies for efficient portfolio management and strategic diversification."
+category: trading_strategy
+description: Explore the pivotal role of mutual fund subadvisors and algo trading
+  in modern investment strategies for efficient portfolio management and strategic
+  diversification.
+title: 'Mutual Fund Subadvisor: Overview, Benefits, and Challenges (Algo Trading)'
 ---
 
 In the evolving world of investment management, mutual funds continue to play a pivotal role in diversified portfolios for both individuals and institutions. The integration of advanced technology has significantly reshaped this landscape, introducing concepts such as mutual fund subadvisors and algorithmic trading. These advancements have allowed for enhanced portfolio management strategies and competitive investment approaches.

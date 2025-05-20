@@ -1,6 +1,8 @@
 ---
-title: "Impact of Supply and Demand on the Oil Industry (Algo Trading)"
-description: "Explore how supply and demand dynamics shape the oil industry's market, with algorithmic trading adding complexity and influencing price volatility."
+category: quant_concept
+description: Explore how supply and demand dynamics shape the oil industry's market,
+  with algorithmic trading adding complexity and influencing price volatility.
+title: Impact of Supply and Demand on the Oil Industry (Algo Trading)
 ---
 
 The oil industry operates at the intersection of supply and demand dynamics, where the forces that govern these fundamental economic principles hold significant sway. Supply refers to the total amount of oil producers are willing and able to sell at a given price, while demand represents the quantity consumers are prepared to purchase. The interaction of these elements determines the market equilibrium price.

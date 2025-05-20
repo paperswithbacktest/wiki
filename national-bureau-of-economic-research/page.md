@@ -1,6 +1,12 @@
 ---
-title: "National Bureau of Economic Research (Algo Trading)"
-description: Explore the role of the National Bureau of Economic Research in advancing algorithmic trading amidst technological innovation in financial markets. This article investigates into NBER's influential contributions to developing sophisticated trading models, informing market behaviors and efficiencies through rigorous research. Discover the interplay between economic studies and algo trading strategies, alongside insights into AI's future impact on trading markets.
+category: quant_concept
+description: Explore the role of the National Bureau of Economic Research in advancing
+  algorithmic trading amidst technological innovation in financial markets. This article
+  investigates into NBER's influential contributions to developing sophisticated trading
+  models, informing market behaviors and efficiencies through rigorous research. Discover
+  the interplay between economic studies and algo trading strategies, alongside insights
+  into AI's future impact on trading markets.
+title: National Bureau of Economic Research (Algo Trading)
 ---
 
 The financial landscape is undergoing a radical transformation due to technological advancements, and algorithmic trading, commonly known as algo trading, is at the forefront of this change. Algo trading utilizes complex algorithms to make trading decisions in financial markets, optimizing trade execution beyond human capabilities. This article intends to examine the influential role of the National Bureau of Economic Research (NBER) in the sphere of algorithmic trading. By exploring current research and economic studies, the article highlights the dynamic relationship between economic research and algorithmic trading strategies.

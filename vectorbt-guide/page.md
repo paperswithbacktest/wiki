@@ -1,6 +1,13 @@
 ---
-title: "VectorBT Guide (Algo Trading)"
-description: Discover how vectorbt revolutionizes algorithmic trading by offering an efficient and robust Python library for backtesting strategies. With its powerful features, vectorbt enables traders to optimize complex algorithms using fast vectorized backtesting, seamless integration with other libraries, and comprehensive visualization tools. This guide explores its advantages and the pivotal role vectorbt plays in modern financial markets, helping both novices and veterans enhance their trading strategies through advanced techniques and reliable testing environments.
+category: trading_strategy
+description: Discover how vectorbt revolutionizes algorithmic trading by offering
+  an efficient and robust Python library for backtesting strategies. With its powerful
+  features, vectorbt enables traders to optimize complex algorithms using fast vectorized
+  backtesting, seamless integration with other libraries, and comprehensive visualization
+  tools. This guide explores its advantages and the pivotal role vectorbt plays in
+  modern financial markets, helping both novices and veterans enhance their trading
+  strategies through advanced techniques and reliable testing environments.
+title: VectorBT Guide (Algo Trading)
 ---
 
 Algorithmic trading has become a cornerstone in contemporary financial markets, offering the ability to execute trades at unprecedented speed and precision. By utilizing algorithms, traders can automate decisions, which frees them from the emotional biases that often plague human judgment. This shift towards automation has not only reshaped market dynamics but has also democratized the trading landscape, allowing individual traders to compete with institutional counterparts.

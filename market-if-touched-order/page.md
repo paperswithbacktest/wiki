@@ -1,6 +1,9 @@
 ---
-title: "Market-If-Touched Order (Algo Trading)"
-description: "Optimize your trading strategy with Market-if-Touched (MIT) orders Learn how they automate market engagement streamline decision-making and manage risks effectively"
+category: trading_strategy
+description: Optimize your trading strategy with Market-if-Touched (MIT) orders Learn
+  how they automate market engagement streamline decision-making and manage risks
+  effectively
+title: Market-If-Touched Order (Algo Trading)
 ---
 
 Market-if-touched (MIT) orders have gained notable importance among modern traders, offering a mechanism to execute trades once predefined price thresholds are achieved. By automatically converting into market orders upon reaching specified trigger prices, MIT orders help streamline the trading process, catering to both novice and seasoned traders alike. 

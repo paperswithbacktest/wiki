@@ -1,6 +1,9 @@
 ---
-title: "Forward Premium (Algo Trading)"
-description: "Explore the synergy of forward premiums and algo trading in forex to navigate market trends and optimize trades through insightful strategies and risk management."
+category: quant_concept
+description: Explore the synergy of forward premiums and algo trading in forex to
+  navigate market trends and optimize trades through insightful strategies and risk
+  management.
+title: Forward Premium (Algo Trading)
 ---
 
 Foreign exchange (forex) currency trading is a dynamic and intricate market, heavily influenced by a variety of economic factors. Among the critical components that assist traders in navigating this volatile environment are forward premiums and algorithmic (algo) trading. Forward premiums serve as indicators, reflecting market expectations about future currency movements by comparing the forward exchange rate with the current spot rate. On the other hand, algo trading employs advanced computational techniques to execute trades based on specific criteria, optimizing for speed and precision.

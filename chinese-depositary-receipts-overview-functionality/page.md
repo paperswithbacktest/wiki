@@ -1,9 +1,12 @@
 ---
-title: "Chinese Depositary Receipts: Overview and Functionality (Algo Trading)"
-description: "Explore the functionality of Chinese Depositary Receipts which enable foreign equity trading on Chinese exchanges aligning global markets with China's financial system."
+category: quant_concept
+description: Explore the functionality of Chinese Depositary Receipts which enable
+  foreign equity trading on Chinese exchanges aligning global markets with China's
+  financial system.
+title: 'Chinese Depositary Receipts: Overview and Functionality (Algo Trading)'
 ---
 
- to Chinese Depositary Receipts (CDRs)
+to Chinese Depositary Receipts (CDRs)
 
 Chinese Depositary Receipts (CDRs) are financial instruments designed to facilitate the trading of foreign equities on Chinese stock exchanges. These instruments closely resemble American Depositary Receipts (ADRs), which serve a similar purpose by allowing U.S. investors to invest in foreign companies. CDRs are issued by a custodian bank that holds the underlying foreign equities on behalf of Chinese investors. These receipts represent the ownership of shares in a foreign company, allowing them to be traded locally in China's stock exchanges like the Shanghai and Shenzhen exchanges. 
 

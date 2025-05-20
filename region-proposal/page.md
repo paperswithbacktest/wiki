@@ -1,8 +1,9 @@
 ---
-title: Region Proposal Techniques for Efficient Object Detection
+category: quant_concept
 description: Region Proposal methods enhance object detection by selecting key image
   areas and refining bounding boxes with neural networks for faster accurate results
   Discover more inside
+title: Region Proposal Techniques for Efficient Object Detection
 ---
 
 ![Image](images/1.png)

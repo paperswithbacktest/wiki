@@ -1,6 +1,9 @@
 ---
-title: "Implications of Negative Alpha on Investment Strategies (Algo Trading)"
-description: "Understand the role of negative alpha in algorithmic trading Explore its influence on investment strategies and the potential use of negative alpha as a sell signal"
+category: trading_strategy
+description: Understand the role of negative alpha in algorithmic trading Explore
+  its influence on investment strategies and the potential use of negative alpha as
+  a sell signal
+title: Implications of Negative Alpha on Investment Strategies (Algo Trading)
 ---
 
 In today's fast-paced financial markets, effectively managing investments requires a keen understanding of various indicators. Among these indicators, alpha and sell signals are critical components of algorithmic trading strategies. Alpha is a measure of an investment's performance relative to a benchmark, often embodying the added value through investment decisions. Sell signals, on the other hand, are automated triggers that indicate when it is opportune to dispose of a security based on specific criteria and market conditions.

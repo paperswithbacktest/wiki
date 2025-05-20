@@ -1,7 +1,8 @@
 ---
-title: Understanding Function Transformations in Machine Learning
+category: quant_concept
 description: Function transformation in machine learning converts data via scaling
   and log transformations to reveal patterns and improve accuracy Discover more inside
+title: Understanding Function Transformations in Machine Learning
 ---
 
 ![Image](images/1.png)

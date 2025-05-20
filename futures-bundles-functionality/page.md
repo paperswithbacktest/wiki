@@ -1,6 +1,8 @@
 ---
-title: "Futures Bundles and Their Functionality (Algo Trading)"
-description: "Explore how futures bundle trading and algorithmic strategies can optimize portfolios. Learn about their benefits, mechanics, and potential pitfalls."
+category: quant_concept
+description: Explore how futures bundle trading and algorithmic strategies can optimize
+  portfolios. Learn about their benefits, mechanics, and potential pitfalls.
+title: Futures Bundles and Their Functionality (Algo Trading)
 ---
 
 In the fast-paced world of financial markets, futures bundle trading and algorithmic trading strategies have become essential tools for traders seeking to optimize their portfolios. Futures bundles are sophisticated financial instruments that allow traders to buy or sell a set number of futures contracts across consecutive quarterly delivery months. This approach offers significant advantages, such as price locking and reduction in operational complexity, making it particularly appealing to industries like finance and commodities.

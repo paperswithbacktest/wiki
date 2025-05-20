@@ -1,6 +1,9 @@
 ---
-title: "Married Put Strategy (Algo Trading)"
-description: "Explore the married put strategy in options trading providing investors with a reliable method for stock protection by combining stock ownership with a put option."
+category: trading_strategy
+description: Explore the married put strategy in options trading providing investors
+  with a reliable method for stock protection by combining stock ownership with a
+  put option.
+title: Married Put Strategy (Algo Trading)
 ---
 
 Options trading offers investors a range of strategies to hedge against risks and capitalize on potential gains. Among these strategies, the 'married put' stands out as a reliable method for stock protection. By combining stock ownership with a put option, investors can create a safety net that mitigates potential losses from a decrease in stock prices.

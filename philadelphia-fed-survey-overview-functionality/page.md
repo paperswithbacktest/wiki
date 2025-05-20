@@ -1,6 +1,8 @@
 ---
-title: "Philadelphia Fed Survey: Overview and Functionality (Algo Trading)"
-description: "Understand the Philadelphia Fed Survey's role in gauging regional economic health and its impact on algorithmic trading with essential data insights."
+category: dataset
+description: Understand the Philadelphia Fed Survey's role in gauging regional economic
+  health and its impact on algorithmic trading with essential data insights.
+title: 'Philadelphia Fed Survey: Overview and Functionality (Algo Trading)'
 ---
 
 In the rapidly evolving economic landscape, understanding regional economies is crucial for businesses, policymakers, and investors alike. The Philadelphia Fed Survey serves as an essential tool for gauging regional economic health, focusing specifically on manufacturing conditions in the Northeastern United States. Officially known as the Manufacturing Business Outlook Survey, this financial indicator is generated monthly by the Federal Reserve Bank of Philadelphia. By assessing variables such as employment levels, new orders, shipments, and other key measures, the survey provides valuable insights into the economic vitality of the Third Federal Reserve District, which includes Pennsylvania, New Jersey, and Delaware.

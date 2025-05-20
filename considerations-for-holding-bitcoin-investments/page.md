@@ -1,6 +1,9 @@
 ---
-title: "Considerations for Holding Bitcoin Investments (Algo Trading)"
-description: "Explore the essentials of holding Bitcoin investments with insights into HODLing and algorithmic trading Discover strategies to navigate cryptocurrency markets effectively"
+category: trading_strategy
+description: Explore the essentials of holding Bitcoin investments with insights into
+  HODLing and algorithmic trading Discover strategies to navigate cryptocurrency markets
+  effectively
+title: Considerations for Holding Bitcoin Investments (Algo Trading)
 ---
 
 The world of cryptocurrency investment can be both thrilling and daunting, particularly with the rise of Bitcoin. Since its inception in 2009 by an anonymous entity known as Satoshi Nakamoto, Bitcoin has consistently captured the attention of investors worldwide. It's a decentralized digital currency designed to function as a medium of exchange without relying on a central authority, ensuring its independence from traditional financial systems.

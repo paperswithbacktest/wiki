@@ -1,6 +1,8 @@
 ---
-title: "Stock Versus Bond Performance (Algo Trading)"
-description: "Explore the contrasting dynamics of bonds and stocks through a comprehensive analysis on algorithmic trading to enhance your investment strategy's performance."
+category: trading_strategy
+description: Explore the contrasting dynamics of bonds and stocks through a comprehensive
+  analysis on algorithmic trading to enhance your investment strategy's performance.
+title: Stock Versus Bond Performance (Algo Trading)
 ---
 
 The world of investment offers various avenues for potential growth, income, and risk management. Among these, bonds, stocks, and algorithmic trading stand out as significant components of an investment strategy. Bonds, traditionally seen as fixed-income securities, provide predictable interest payments and return of principal upon maturity, appealing to conservative investors seeking stable returns with lower risk. In contrast, stocks represent ownership in a company, offering higher potential returns coupled with greater volatility and risk, appealing to those seeking long-term growth.

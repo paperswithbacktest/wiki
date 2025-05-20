@@ -1,6 +1,9 @@
 ---
-title: "Minimum Number of Shares Purchasable (Algo Trading)"
-description: "Explore how algorithmic trading enables access to stock markets with minimal investments by utilizing automated strategies and fractional shares for beginner investors."
+category: trading_strategy
+description: Explore how algorithmic trading enables access to stock markets with
+  minimal investments by utilizing automated strategies and fractional shares for
+  beginner investors.
+title: Minimum Number of Shares Purchasable (Algo Trading)
 ---
 
 In recent years, algorithmic trading has fundamentally transformed the landscape of stock trading. This advancement has opened the door for investors with minimal capital to participate actively in the markets. Algorithmic trading, often referred to as algo trading, employs sophisticated computer algorithms that automatically execute trades based on pre-established criteria. These criteria can include various parameters such as price, timing, and volume. By utilizing such algorithms, trading becomes a more efficient process—executing complex trading strategies with precision and speed that human traders are generally incapable of achieving.

@@ -1,6 +1,8 @@
 ---
-title: "Major Traded Currencies (Algo Trading)"
-description: "Discover key traded currencies in Forex and the impact of algo trading Explore currency dynamics market mechanics and future trading trends"
+category: dataset
+description: Discover key traded currencies in Forex and the impact of algo trading
+  Explore currency dynamics market mechanics and future trading trends
+title: Major Traded Currencies (Algo Trading)
 ---
 
 The foreign exchange market (Forex) stands as the largest financial market globally, with an estimated daily trading volume exceeding $6 trillion as of 2021. This vast marketplace operates the exchange of currencies, facilitating international trade and investment by enabling businesses and individuals to convert one currency into another. Due to its immense volume and continuous operation—trading occurs 24 hours a day during weekdays—Forex presents unique opportunities for traders and institutions alike.

@@ -1,6 +1,9 @@
 ---
-title: "Key Investing Concepts for Beginners (Algo Trading)"
-description: "Discover essential investing concepts for beginners including algorithmic trading Learn financial principles develop strategies and harness technology's role in trading"
+category: quant_concept
+description: Discover essential investing concepts for beginners including algorithmic
+  trading Learn financial principles develop strategies and harness technology's role
+  in trading
+title: Key Investing Concepts for Beginners (Algo Trading)
 ---
 
 Investing can be a daunting task for beginners, especially with an array of concepts and strategies to navigate. From understanding fundamental financial principles to utilizing advanced trading strategies, the complexity can be overwhelming. However, grasping key investing concepts is crucial for making informed decisions and achieving financial success. This article aims to provide a foundational understanding of basic investment concepts and introduces the exciting world of algorithmic trading—an area where technology meets finance to create new possibilities.

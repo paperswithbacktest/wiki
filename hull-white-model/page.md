@@ -1,6 +1,9 @@
 ---
-title: "Hull-White Model (Algo Trading)"
-description: "Explore the Hull-White Model for algorithmic trading and financial derivatives. Discover its flexibility in capturing interest rate dynamics and enhancing pricing accuracy."
+category: quant_concept
+description: Explore the Hull-White Model for algorithmic trading and financial derivatives.
+  Discover its flexibility in capturing interest rate dynamics and enhancing pricing
+  accuracy.
+title: Hull-White Model (Algo Trading)
 ---
 
 The Hull-White model is a renowned financial tool employed for the valuation of interest rate derivatives. It is categorized under no-arbitrage models, a class that effectively captures interest rate dynamics. The model was architected by John Hull and Alan White during the 1990s, marking a significant advancement in financial modeling due to its remarkable flexibility and adaptability. This model addresses the complexities of interest rate movements, accommodating their stochastic nature through time-dependent parameters and mean-reversion features. This article examines how the Hull-White model is applied in pricing various financial derivatives and its strategic role in algorithmic trading.

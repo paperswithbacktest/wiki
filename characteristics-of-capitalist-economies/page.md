@@ -1,6 +1,9 @@
 ---
-title: "Characteristics of Capitalist Economies (Algo Trading)"
-description: "Explore the dynamics of capitalist economies and algorithmic trading by examining how private ownership and free markets interact with technological innovation to shape today's global economy."
+category: quant_concept
+description: Explore the dynamics of capitalist economies and algorithmic trading
+  by examining how private ownership and free markets interact with technological
+  innovation to shape today's global economy.
+title: Characteristics of Capitalist Economies (Algo Trading)
 ---
 
 The global economy encompasses a variety of systems, with capitalism and socialism as two of the most predominant paradigms. Capitalism is frequently synonymous with market economies, where private ownership and the forces of a free market prevail. It operates on the principles of competition, individualism, and profit maximization, allowing for economic agents to freely engage in market activities. In contrast, socialism underscores public ownership and the equitable distribution of resources. This system seeks to manage resources to ensure fairness and meet societal needs, often characterized by substantial government intervention in economic activities.
@@ -172,4 +175,3 @@ Ultimately, the ability to integrate advanced financial tools like algorithmic t
 2. **"Market Socialism: The Current Debate" edited by Pranab Bardhan and John Roemer** - This collection examines various models of market socialism, a system attempting to blend the efficiency of market mechanisms with the equitable aims of socialism.
 
 3. **"Towards a New Socialism" by Paul Cockshott and Allin Cottrell** - This book proposes a model for utilizing modern computing technologies to enhance the efficiency of socialist economies, focusing on the integration of planning with market elements to achieve societal goals.
-

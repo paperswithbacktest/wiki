@@ -1,6 +1,9 @@
 ---
-title: "Accounting Change: Definition and Mechanism (Algo Trading)"
-description: "Discover the mechanism of accounting changes in the evolving world of finance and algorithmic trading and how they impact financial reporting and investment decisions."
+category: quant_concept
+description: Discover the mechanism of accounting changes in the evolving world of
+  finance and algorithmic trading and how they impact financial reporting and investment
+  decisions.
+title: 'Accounting Change: Definition and Mechanism (Algo Trading)'
 ---
 
 The world of finance continues to evolve with increasing complexity, driven by advancements in technology and changes in global business practices. This evolution necessitates a comprehensive understanding of financial reporting, accounting principles, and the impact of accounting changes, all of which are crucial for enterprises navigating this intricate landscape. Financial reporting comprises the preparation of vital documents such as balance sheets, income statements, and cash flow statements—tools essential for assessing a company’s fiscal health by various stakeholders, including investors and regulators. Consistency and transparency in these reports are maintained by adherence to standard accounting principles, which are the foundational guidelines for representing financial data accurately. 

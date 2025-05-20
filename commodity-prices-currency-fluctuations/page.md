@@ -1,6 +1,8 @@
 ---
-title: "Commodity Prices and Currency Fluctuations (Algo Trading)"
-description: "Understanding the impact of economic factors currency changes and algo trading is key for traders and investors shaping financial markets worldwide."
+category: trading_strategy
+description: Understanding the impact of economic factors currency changes and algo
+  trading is key for traders and investors shaping financial markets worldwide.
+title: Commodity Prices and Currency Fluctuations (Algo Trading)
 ---
 
 In today's global economy, understanding the interplay between economic factors, currency movements, commodity prices, and algorithmic trading is crucial for both traders and investors. These components are deeply interconnected, collectively shaping the landscape of financial markets, influencing investment decisions, and affecting economic stability globally.

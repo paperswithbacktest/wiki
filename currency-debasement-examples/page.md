@@ -1,6 +1,12 @@
 ---
-title: "Currency Debasement and Examples (Algo Trading)"
-description: "Explore the intricate relationships between currency debasement and algorithmic trading in today's economic landscape. Discover historical and modern examples of debasement, its impact on monetary policy, and how algorithmic trading dynamically adapts to these changes. Learn how investors can navigate inflation and economic volatility, leveraging technology to hedge risks and seize market opportunities in a constantly evolving financial world."
+category: quant_concept
+description: Explore the intricate relationships between currency debasement and algorithmic
+  trading in today's economic landscape. Discover historical and modern examples of
+  debasement, its impact on monetary policy, and how algorithmic trading dynamically
+  adapts to these changes. Learn how investors can navigate inflation and economic
+  volatility, leveraging technology to hedge risks and seize market opportunities
+  in a constantly evolving financial world.
+title: Currency Debasement and Examples (Algo Trading)
 ---
 
 In today's dynamic financial landscape, the concepts of currency debasement and algorithmic trading play a critical role in shaping the trajectory of global economies. Currency debasement is a process wherein the value of a nation's currency is reduced, often through the manipulation of the money supply, which can lead to inflationary pressures. This phenomenon is not new and has been seen throughout history, offering a rich source of analysis for understanding its modern implications. In parallel, the rise of algorithmic trading has transformed how markets operate, integrating automation and complex algorithms to exploit minute price discrepancies in real-time.

@@ -1,6 +1,8 @@
 ---
-title: "Effects of Recessions on Investors (Algo Trading)"
-description: "Explore how recessions impact investors and the strategic role of algorithmic trading in navigating economic downturns and market volatility effectively."
+category: trading_strategy
+description: Explore how recessions impact investors and the strategic role of algorithmic
+  trading in navigating economic downturns and market volatility effectively.
+title: Effects of Recessions on Investors (Algo Trading)
 ---
 
 In the world of investing, economic cycles play a crucial role in shaping strategies. These cycles, encompassing periods of expansion and contraction, drive shifts in market dynamics and influence investor behavior. Recessions, characterized by significant economic decline, present both challenges and opportunities for investors. During these periods, markets often experience volatility, requiring investors to adapt their strategies to safeguard and possibly grow their investments.

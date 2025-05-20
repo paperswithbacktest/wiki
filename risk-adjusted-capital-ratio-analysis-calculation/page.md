@@ -1,6 +1,8 @@
 ---
-title: "Risk-Adjusted Capital Ratio: Analysis and Calculation (Algo Trading)"
-description: "Explore the role of risk-adjusted capital ratios in improving the stability and performance of algorithmic trading strategies in diverse economic conditions."
+category: quant_concept
+description: Explore the role of risk-adjusted capital ratios in improving the stability
+  and performance of algorithmic trading strategies in diverse economic conditions.
+title: 'Risk-Adjusted Capital Ratio: Analysis and Calculation (Algo Trading)'
 ---
 
 The integration of technology and automation is transforming financial analysis, highlighting the significance of the risk-adjusted capital ratio, particularly in algorithmic trading. This metric is essential for understanding the financial stability of institutions and assessing the effectiveness of trading strategies. It measures how well institutions can withstand economic fluctuations, which is pivotal for both investors and financial entities aiming to enhance economic resilience.

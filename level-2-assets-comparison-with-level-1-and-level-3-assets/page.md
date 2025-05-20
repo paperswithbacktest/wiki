@@ -1,6 +1,8 @@
 ---
-title: "Level 2 Assets: Comparison with Level 1 and Level 3 Assets (Algo Trading)"
-description: "Explore the complexities of Level 2 financial assets, such as corporate bonds and derivatives, with insight into valuation and algorithmic trading strategies."
+category: quant_concept
+description: Explore the complexities of Level 2 financial assets, such as corporate
+  bonds and derivatives, with insight into valuation and algorithmic trading strategies.
+title: 'Level 2 Assets: Comparison with Level 1 and Level 3 Assets (Algo Trading)'
 ---
 
 Understanding the landscape of financial assets is crucial for successful investing and trading. Financial markets offer a diverse array of assets, each with its unique characteristics and roles within an investment portfolio. Among these, Level 2 assets present a particularly intriguing category due to their valuation complexities and lack of regular market pricing. 

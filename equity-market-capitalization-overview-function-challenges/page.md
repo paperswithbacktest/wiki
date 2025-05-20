@@ -1,6 +1,9 @@
 ---
-title: "Equity Market Capitalization: Overview, Function, and Challenges (Algo Trading)"
-description: "Explore the dynamics of equity markets focusing on the crucial role of market capitalization and algorithmic trading Its impact on investment decisions and market trends"
+category: quant_concept
+description: Explore the dynamics of equity markets focusing on the crucial role of
+  market capitalization and algorithmic trading Its impact on investment decisions
+  and market trends
+title: 'Equity Market Capitalization: Overview, Function, and Challenges (Algo Trading)'
 ---
 
 Financial markets serve as a cornerstone of global economies, forming a complex network where financial instruments such as stocks, bonds, and currencies are traded. These markets facilitate the efficient allocation of resources, support the transfer of funds between savers and borrowers, and play a pivotal role in determining the cost of capital for enterprises. The functionality and health of financial markets are thus integral to economic stability and growth.

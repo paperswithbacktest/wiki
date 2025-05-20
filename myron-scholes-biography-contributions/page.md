@@ -1,6 +1,9 @@
 ---
-title: "Myron Scholes: Biography and Contributions (Algo Trading)"
-description: "Discover Myron Scholes' pivotal impact on financial markets through his co-development of the Black-Scholes model and its role in advancing algorithmic trading."
+category: quant_concept
+description: Discover Myron Scholes' pivotal impact on financial markets through his
+  co-development of the Black-Scholes model and its role in advancing algorithmic
+  trading.
+title: 'Myron Scholes: Biography and Contributions (Algo Trading)'
 ---
 
 Myron Scholes is a pivotal figure in the field of finance, renowned for his extensive contributions to the understanding and application of financial economics. His most notable work, the Black-Scholes model, has had a profound and lasting impact on financial markets, particularly in the area of algorithmic trading. Scholes, a Nobel laureate, co-developed the Black-Scholes model, which introduced a new way to evaluate the pricing of options and other derivative securities.

@@ -1,6 +1,8 @@
 ---
-title: "Deflation and Disinflation (Algo Trading)"
-description: "Explore the impact of deflation, disinflation, and algorithmic trading on modern economies. Learn strategic investment tactics for varying economic conditions."
+category: quant_concept
+description: Explore the impact of deflation, disinflation, and algorithmic trading
+  on modern economies. Learn strategic investment tactics for varying economic conditions.
+title: Deflation and Disinflation (Algo Trading)
 ---
 
 This article explores the intricate roles and implications of deflation, disinflation, and algorithmic trading in the modern economic landscape. Deflation and disinflation, although often conflated, are distinct economic phenomena impacting economies and financial markets differently. Deflation is characterized by a general decline in the prices of goods and services, which leads to an increase in the purchasing power of money. Conversely, disinflation refers to a reduction in the rate of inflation, indicating that price levels are rising at a slower pace rather than declining.
@@ -171,4 +173,3 @@ By embracing these advanced methods, investors can effectively maintain balanced
 
 9. **Hull, John C. "Options, Futures, and Other Derivatives." Prentice Hall, 9th Edition, 2014.**  
    A key resource for understanding derivatives markets, with insights into trading strategies useful during deflation and disinflation scenarios.
-

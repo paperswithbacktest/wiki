@@ -1,6 +1,8 @@
 ---
-title: "Comparison of Load and No-Load Mutual Funds (Algo Trading)"
-description: "Explore the key differences between load and no-load mutual funds while examining how algorithmic trading affects mutual fund performance to refine strategies."
+category: trading_strategy
+description: Explore the key differences between load and no-load mutual funds while
+  examining how algorithmic trading affects mutual fund performance to refine strategies.
+title: Comparison of Load and No-Load Mutual Funds (Algo Trading)
 ---
 
 Mutual funds serve as a cornerstone for many individual investors' portfolios, owing to their diversification benefits and professional management. These collective investment vehicles pool money from various investors to purchase a diversified portfolio of stocks, bonds, or other securities. This approach allows individual investors to partake in a diverse range of assets without directly purchasing each one.

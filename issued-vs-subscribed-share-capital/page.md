@@ -1,6 +1,9 @@
 ---
-title: "Issued vs. Subscribed Share Capital (Algo Trading)"
-description: "Discover the crucial differences between issued and subscribed share capital in corporate finance and how they impact trading, governance, and investment strategies."
+category: quant_concept
+description: Discover the crucial differences between issued and subscribed share
+  capital in corporate finance and how they impact trading, governance, and investment
+  strategies.
+title: Issued vs. Subscribed Share Capital (Algo Trading)
 ---
 
 In corporate finance, understanding share capital is crucial for both investors and corporations. Share capital represents the ownership stake investors hold in a corporation, and it plays a fundamental role in corporate structure, financial reporting, and governance. Among the various types of share capital, issued and subscribed share capitals are two particularly important concepts. These terms, while related, have distinct meanings and implications that influence corporate transactions and investor relations.

@@ -1,6 +1,9 @@
 ---
-title: "Qualified Dividends and Taxation (Algo Trading)"
-description: "Explore the complexities of qualified dividend taxation and algo trading to optimize investment strategies. Learn how these factors impact returns and tax obligations."
+category: quant_concept
+description: Explore the complexities of qualified dividend taxation and algo trading
+  to optimize investment strategies. Learn how these factors impact returns and tax
+  obligations.
+title: Qualified Dividends and Taxation (Algo Trading)
 ---
 
 In this digital age, generating income through investments has become a common financial strategy. Dividends, particularly, play a crucial role in this process. As investors seek to maximize their returns, understanding the intricacies of dividend taxation becomes essential. Dividends are essentially payments made by a corporation to its shareholders, usually derived from profits. They can be categorized into two types: qualified and ordinary dividends. This distinction significantly affects the tax obligations of the investor.

@@ -1,6 +1,9 @@
 ---
-title: "Impact of Company Delisting on Shareholder Ownership (Algo Trading)"
-description: "Explore the impact of company delisting on shareholder rights and stock ownership in the fast-paced world of algo trading and understand the potential challenges faced."
+category: quant_concept
+description: Explore the impact of company delisting on shareholder rights and stock
+  ownership in the fast-paced world of algo trading and understand the potential challenges
+  faced.
+title: Impact of Company Delisting on Shareholder Ownership (Algo Trading)
 ---
 
 Company delisting occurs when a company's securities are removed from a stock exchange, making them no longer publicly traded on that platform. Delisting may be voluntary, initiated by the company's decision, often due to strategic restructuring, mergers, or returns to private ownership. Involuntary delisting typically results from failing to comply with exchange requirements, financial instability, or not meeting market capitalization thresholds.

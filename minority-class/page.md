@@ -1,7 +1,8 @@
 ---
-title: Handling Minority Class Imbalance in Machine Learning Models
+category: quant_concept
 description: Minority Class Imbalance can skew model results so explore oversampling
   SMOTE class weighting and tailored metrics to boost fairness Discover more inside
+title: Handling Minority Class Imbalance in Machine Learning Models
 ---
 
 ![Image](images/1.png)

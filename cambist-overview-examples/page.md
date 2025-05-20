@@ -1,6 +1,8 @@
 ---
-title: "Cambist: Overview and Examples (Algo Trading)"
-description: "Explore the evolution of cambist roles in forex as algorithmic trading reshapes currency exchange strategies and enhances market efficiency globally."
+category: trading_strategy
+description: Explore the evolution of cambist roles in forex as algorithmic trading
+  reshapes currency exchange strategies and enhances market efficiency globally.
+title: 'Cambist: Overview and Examples (Algo Trading)'
 ---
 
 The financial market landscape is in a state of constant evolution, with innovations in technology and development of new strategies profoundly influencing trading operations. Over the decades, the foreign exchange market, in particular, has witnessed a transformation in the roles and methodologies employed by currency traders, traditionally known as cambists. These professionals, once reliant on personal expertise and detailed currency manuals, have experienced a significant shift in their operational landscape.

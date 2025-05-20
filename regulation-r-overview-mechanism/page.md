@@ -1,6 +1,8 @@
 ---
-title: "Regulation R: Overview and Mechanism (Algo Trading)"
-description: "Explore financial regulation with a focus on Regulation R and algorithmic trading dynamics. Learn how compliance shapes stable, competitive banking practices."
+category: quant_concept
+description: Explore financial regulation with a focus on Regulation R and algorithmic
+  trading dynamics. Learn how compliance shapes stable, competitive banking practices.
+title: 'Regulation R: Overview and Mechanism (Algo Trading)'
 ---
 
 In an era where technology intersects finance, the regulation of banking and financial services remains a crucial foundation for maintaining economic stability. This article explores key facets of financial regulation, emphasizing banking compliance, Regulation R, and the dynamics of algorithmic trading. Understanding these areas comprehensively is vital for businesses and regulatory bodies to uphold market integrity and foster consumer trust.

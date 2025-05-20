@@ -1,7 +1,8 @@
 ---
-title: Scikit-Learn Guide Professional Machine Learning in Python
+category: quant_concept
 description: Scikit-Learn simplifies machine learning in Python with tools for data
   preprocessing model training and evaluation Discover more inside.
+title: Scikit-Learn Guide Professional Machine Learning in Python
 ---
 
 ![Image](images/1.png)

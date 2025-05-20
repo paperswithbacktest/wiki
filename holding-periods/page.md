@@ -1,6 +1,12 @@
 ---
-title: "Holding periods (Algo Trading)"
-description: Explore the critical role holding periods play in algorithmic trading strategies and their impact on profitability and risk. Understand how different holding durations, from microseconds in high-frequency trading to weeks in swing trading, align with market dynamics. Discover the factors influencing optimal holding periods and how they are strategically analyzed using statistical models for enhanced trading performance.
+category: trading_strategy
+description: Explore the critical role holding periods play in algorithmic trading
+  strategies and their impact on profitability and risk. Understand how different
+  holding durations, from microseconds in high-frequency trading to weeks in swing
+  trading, align with market dynamics. Discover the factors influencing optimal holding
+  periods and how they are strategically analyzed using statistical models for enhanced
+  trading performance.
+title: Holding periods (Algo Trading)
 ---
 
 Algorithmic trading, often shortened to algo trading, utilizes computer algorithms to trade financial markets by making rapid and precise trading decisions. As technology has advanced, introducing powerful computing and complex financial models, algo trading has become a cornerstone of modern finance. One key aspect of implementing a successful algorithmic trading strategy is understanding and optimizing the holding periods for trades. 

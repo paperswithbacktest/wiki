@@ -1,6 +1,14 @@
 ---
-title: "Amortisation Processes (Algo Trading)"
-description: "Explore the intricacies of finance, amortisation, loan repayment, and algorithmic trading in this comprehensive guide to modern financial management. Learn how these key elements work together to optimize strategies, allowing individuals and businesses to make informed financial decisions, manage debt efficiently, and embrace technological advancements in trading for better economic outcomes. Discover amortisation techniques, effective loan repayment plans, and the transformative impact of algorithmic trading on the financial markets. Boost your understanding of these critical components to navigate today's evolving financial landscape successfully."
+category: quant_concept
+description: Explore the intricacies of finance, amortisation, loan repayment, and
+  algorithmic trading in this comprehensive guide to modern financial management.
+  Learn how these key elements work together to optimize strategies, allowing individuals
+  and businesses to make informed financial decisions, manage debt efficiently, and
+  embrace technological advancements in trading for better economic outcomes. Discover
+  amortisation techniques, effective loan repayment plans, and the transformative
+  impact of algorithmic trading on the financial markets. Boost your understanding
+  of these critical components to navigate today's evolving financial landscape successfully.
+title: Amortisation Processes (Algo Trading)
 ---
 
 Finance, amortisation, loan repayment, and algorithmic trading are critical components in today's financial landscape. Each of these elements plays a vital role in personal and business finance management, optimizing strategies for better economic outcomes. As the financial world continues to evolve, understanding these elements becomes increasingly important for individuals and businesses aiming to make informed financial decisions.

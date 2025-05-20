@@ -1,6 +1,8 @@
 ---
-title: "CME Group and Live Cattle Futures (Algo Trading)"
-description: "Explore the CME Group's role in Live Cattle Futures trading and the impact of algorithmic trading on market dynamics and risk management strategies."
+category: trading_strategy
+description: Explore the CME Group's role in Live Cattle Futures trading and the impact
+  of algorithmic trading on market dynamics and risk management strategies.
+title: CME Group and Live Cattle Futures (Algo Trading)
 ---
 
 The CME Group is a preeminent institution in the field of commodity trading, offering an expansive range of derivative products that facilitate risk management across global markets. As the operator of some of the world's most significant exchanges, including the Chicago Mercantile Exchange (CME) and the New York Mercantile Exchange (NYMEX), the CME Group has been instrumental in shaping the futures and options markets. One of its notable contributions to commodity trading is the introduction of Live Cattle Futures, which has grown into a vital component of the agricultural market since its inception in 1964. This commodity market enables producers and consumers to hedge against the risks associated with unpredictable price movements in livestock.

@@ -1,6 +1,13 @@
 ---
-title: "NASDAQ Data Link Guide (Algo Trading)"
-description: Maximize your trading potential with the Nasdaq Data Link, a crucial tool for algorithmic traders offering a diverse range of datasets. Enhance the precision and speed of trading algorithms by integrating this comprehensive data into your strategies. Delve into the variety of data available, from traditional financial metrics to unconventional sources such as satellite imagery and social sentiment. Learn to utilize the Quandl API to access this invaluable information, boosting your trading capabilities and staying competitive in the fast-paced market environment.
+category: dataset
+description: Maximize your trading potential with the Nasdaq Data Link, a crucial
+  tool for algorithmic traders offering a diverse range of datasets. Enhance the precision
+  and speed of trading algorithms by integrating this comprehensive data into your
+  strategies. Delve into the variety of data available, from traditional financial
+  metrics to unconventional sources such as satellite imagery and social sentiment.
+  Learn to utilize the Quandl API to access this invaluable information, boosting
+  your trading capabilities and staying competitive in the fast-paced market environment.
+title: NASDAQ Data Link Guide (Algo Trading)
 ---
 
 In today's fast-paced trading environment, leveraging advanced tools and data is essential for staying ahead of the competition. One innovative resource offering a vast array of datasets vital for algorithmic trading is the Nasdaq Data Link. This platform provides an extensive selection of data, allowing traders to enhance the precision and speed of their trading algorithms. With algorithmic trading becoming a fundamental practice, the need for comprehensive datasets has never been more critical. Nasdaq Data Link stands out by delivering such data, becoming an indispensable component of a trader's toolkit.

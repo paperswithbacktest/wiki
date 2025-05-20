@@ -1,6 +1,9 @@
 ---
-title: "Differences Between LIBID and LIBOR (Algo Trading)"
-description: "Understanding LIBID and LIBOR is crucial for finance professionals as these rates significantly impact algorithmic trading strategies by benchmarking interbank actions."
+category: quant_concept
+description: Understanding LIBID and LIBOR is crucial for finance professionals as
+  these rates significantly impact algorithmic trading strategies by benchmarking
+  interbank actions.
+title: Differences Between LIBID and LIBOR (Algo Trading)
 ---
 
 In the world of finance, understanding key interest rate benchmarks such as LIBOR and LIBID is essential for investors and financial professionals. These rates play a crucial role within the London interbank market, with far-reaching implications across various financial instruments, including those utilized in algorithmic trading.

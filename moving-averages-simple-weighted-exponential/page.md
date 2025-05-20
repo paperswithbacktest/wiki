@@ -1,6 +1,8 @@
 ---
-title: "Moving Averages: Simple, Weighted, and Exponential (Algo Trading)"
-description: "Explore the essential role of moving averages in algorithmic trading encompassing SMA WMA and EMA to identify trends and make informed market decisions."
+category: trading_strategy
+description: Explore the essential role of moving averages in algorithmic trading
+  encompassing SMA WMA and EMA to identify trends and make informed market decisions.
+title: 'Moving Averages: Simple, Weighted, and Exponential (Algo Trading)'
 ---
 
 In the fast-paced world of algorithmic trading, moving averages are indispensable tools that traders utilize to gauge market trends and make data-driven decisions. Moving averages, by smoothing out price data over a specified period, help to reduce noise and highlight the underlying direction of asset prices. This ability to distill complex market movements into more comprehensible trends provides traders with clearer insights, allowing them to capitalize on opportunities with greater confidence.

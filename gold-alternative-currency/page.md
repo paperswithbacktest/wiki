@@ -1,6 +1,8 @@
 ---
-title: "Gold As An Alternative Currency (Algo Trading)"
-description: "Explore gold's role as a resilient alternative currency and its integration into algorithmic trading strategies to navigate today's financial complexities."
+category: trading_strategy
+description: Explore gold's role as a resilient alternative currency and its integration
+  into algorithmic trading strategies to navigate today's financial complexities.
+title: Gold As An Alternative Currency (Algo Trading)
 ---
 
 The economic landscape is continually evolving, driven by technological advancements and shifting financial paradigms, which have led to the exploration of alternative currencies and the rise of sophisticated algorithmic trading. Among the plethora of assets available, gold stands out due to its historical significance and intrinsic value. Recognized for its enduring worth, gold is often regarded as a resilient store of wealth and a viable alternative currency. Its unique properties have sustained its appeal, particularly during periods of economic instability and uncertainty.

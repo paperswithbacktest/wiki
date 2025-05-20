@@ -1,6 +1,12 @@
 ---
-title: "Real Value and Nominal Value: Differences and Calculation Example (Algo Trading)"
-description: "Explore the crucial distinctions between real value and nominal value in financial analysis, particularly in algorithmic trading. Understand how these fundamental concepts impact trading strategies by examining their methods of calculation and implications. Learn how real values, adjusted for inflation, provide a more accurate assessment of market performance and help traders make informed investment decisions based on true economic conditions."
+category: quant_concept
+description: Explore the crucial distinctions between real value and nominal value
+  in financial analysis, particularly in algorithmic trading. Understand how these
+  fundamental concepts impact trading strategies by examining their methods of calculation
+  and implications. Learn how real values, adjusted for inflation, provide a more
+  accurate assessment of market performance and help traders make informed investment
+  decisions based on true economic conditions.
+title: 'Real Value and Nominal Value: Differences and Calculation Example (Algo Trading)'
 ---
 
 In today's financial landscape, understanding the difference between nominal and real values is crucial, particularly for professionals engaged in algorithmic trading. These values serve as fundamental components in the analysis of financial instruments and their market performances. Nominal value, the unadjusted measure of an asset or financial instrument, often represents the initial or face value that does not account for inflationary effects. Conversely, real value is adjusted for inflation, providing a more accurate representation of an asset's or investment's purchasing power over time.

@@ -1,6 +1,9 @@
 ---
-title: "Methods of Purchasing Silver (Algo Trading)"
-description: "Explore diverse methods of purchasing silver including physical assets, ETFs, and algorithmic trading to enhance your investment strategy and hedge against inflation."
+category: trading_strategy
+description: Explore diverse methods of purchasing silver including physical assets,
+  ETFs, and algorithmic trading to enhance your investment strategy and hedge against
+  inflation.
+title: Methods of Purchasing Silver (Algo Trading)
 ---
 
 Silver has long been valued not only as a precious metal but also as a critical industrial commodity. Its unique properties make it essential in various applications, ranging from electronics to renewable energy technologies. Over the years, silver has gained popularity as an investment asset, appealing to those looking to hedge against inflation and diversify their investment portfolios. Its dual role as a tangible asset and a tradable financial product offers diverse investment opportunities.

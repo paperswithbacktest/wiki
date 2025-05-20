@@ -1,6 +1,12 @@
 ---
-title: "Pakistani Rupee: History and Currency Values (Algo Trading)"
-description: "Explore the evolution and significance of the Pakistani Rupee from its inception in 1947 to its current role in global financial markets. Discover how historical events, economic policies, and algorithmic trading have shaped the PKR's trajectory and its growing influence in international trade. Uncover insights into digital advancements reshaping trading practices and the challenges faced by the PKR in a dynamic economic landscape."
+category: dataset
+description: Explore the evolution and significance of the Pakistani Rupee from its
+  inception in 1947 to its current role in global financial markets. Discover how
+  historical events, economic policies, and algorithmic trading have shaped the PKR's
+  trajectory and its growing influence in international trade. Uncover insights into
+  digital advancements reshaping trading practices and the challenges faced by the
+  PKR in a dynamic economic landscape.
+title: 'Pakistani Rupee: History and Currency Values (Algo Trading)'
 ---
 
 The Pakistani Rupee (PKR) stands as the official currency of Pakistan, characterized by a rich and varied history that reflects the nation's economic and cultural evolution since its inception in 1947. Originally pegged to the British pound, the Pakistani Rupee has navigated numerous challenges and transformations, including periods of hyperinflation, financial adjustments, and shifts in economic policy. 

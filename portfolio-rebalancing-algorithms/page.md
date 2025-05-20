@@ -1,6 +1,8 @@
 ---
-title: "Portfolio Rebalancing Algorithms (Algo Trading)"
-description: "Explore portfolio rebalancing algorithms for efficient asset management Discover types benefits and methodologies to optimize your investment strategy"
+category: trading_strategy
+description: Explore portfolio rebalancing algorithms for efficient asset management
+  Discover types benefits and methodologies to optimize your investment strategy
+title: Portfolio Rebalancing Algorithms (Algo Trading)
 ---
 
 Portfolio rebalancing is a fundamental process in financial management aimed at maintaining a desired asset allocation and risk profile over time. As market conditions fluctuate, the values of different assets within a portfolio can change, resulting in a shift away from the original allocation. This drift can alter the portfolio's risk and return characteristics, potentially misaligning it with the investor's objectives.

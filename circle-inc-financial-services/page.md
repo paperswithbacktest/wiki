@@ -1,6 +1,8 @@
 ---
-title: "Circle Inc. (Financial Services) (Algo Trading)"
-description: "Circle Inc. stands at the forefront of digital finance, leveraging blockchain and algorithmic trading to deliver innovative financial solutions for businesses."
+category: quant_concept
+description: Circle Inc. stands at the forefront of digital finance, leveraging blockchain
+  and algorithmic trading to deliver innovative financial solutions for businesses.
+title: Circle Inc. (Financial Services) (Algo Trading)
 ---
 
 In the rapidly evolving world of finance, Circle Financial Services has emerged as a key player with its innovative use of blockchain technology. Established in 2013, Circle initially focused on providing a peer-to-peer payment system for consumers but has since evolved into a multifaceted financial services provider catering primarily to businesses. This transformation highlights Circle's strategic pivot towards leveraging blockchain technology to deliver a range of financial services that meet contemporary demands.

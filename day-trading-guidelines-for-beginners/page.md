@@ -1,6 +1,8 @@
 ---
-title: "Day Trading Guidelines for Beginners (Algo Trading)"
-description: "Discover the essentials of day trading for beginners exploring algorithmic strategies key terminologies and effective tools for success in financial markets."
+category: trading_strategy
+description: Discover the essentials of day trading for beginners exploring algorithmic
+  strategies key terminologies and effective tools for success in financial markets.
+title: Day Trading Guidelines for Beginners (Algo Trading)
 ---
 
 Day trading is an increasingly popular and dynamic method for individuals to engage with the financial markets. It involves buying and selling various financial instruments, such as stocks, forex, commodities, or cryptocurrencies, all within the same trading day. The primary objective of day trading is to take advantage of short-term price fluctuations in these markets, which can offer potentially lucrative opportunities for profit.

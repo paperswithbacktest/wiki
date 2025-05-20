@@ -1,6 +1,8 @@
 ---
-title: "Adaptive Price Zone Technical Indicator (Algo Trading)"
-description: "Enhance your trading strategy with the Adaptive Price Zone indicator a dynamic tool for identifying trends and turning points in volatile market conditions."
+category: trading_strategy
+description: Enhance your trading strategy with the Adaptive Price Zone indicator
+  a dynamic tool for identifying trends and turning points in volatile market conditions.
+title: Adaptive Price Zone Technical Indicator (Algo Trading)
 ---
 
 In the ever-evolving world of financial markets, traders and analysts are persistently seeking effective tools for better financial analysis. One such tool that has gained popularity over the years is the Adaptive Price Zone (APZ) indicator. The APZ is a technical indicator used within algorithmic trading systems to identify price trends and pinpoint potential turning points, making it a valuable asset in the trader's toolkit.

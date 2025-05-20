@@ -1,6 +1,9 @@
 ---
-title: "Moral Hazard: Concept, Examples, and Management (Algo Trading)"
-description: "Explore the concept of moral hazard in economic theory, especially in algorithmic trading, and discover strategies for mitigating excessive risk-taking in financial markets."
+category: quant_concept
+description: Explore the concept of moral hazard in economic theory, especially in
+  algorithmic trading, and discover strategies for mitigating excessive risk-taking
+  in financial markets.
+title: 'Moral Hazard: Concept, Examples, and Management (Algo Trading)'
 ---
 
 Moral hazard is a fundamental concern in economic theory, predominantly dealing with situations where an entity is incentivized to take excessive risks because the negative consequences of those risks will not be borne by them. In the context of financial markets, this concept becomes particularly relevant with the advent of algorithmic trading systems. Algorithmic trading, automated through complex algorithms, often operates at speeds and efficiencies unattainable by human traders, and it has rapidly become a significant component of modern markets. However, the automation of trading processes also brings with it distinct risks, including the potential amplification of moral hazard.

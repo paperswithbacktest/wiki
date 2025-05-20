@@ -1,6 +1,8 @@
 ---
-title: "Largest Private Oil Companies Worldwide (Algo Trading)"
-description: "Explore the impact of large private oil companies and algorithmic trading on global energy markets focusing on innovation efficiency and market dynamics."
+category: dataset
+description: Explore the impact of large private oil companies and algorithmic trading
+  on global energy markets focusing on innovation efficiency and market dynamics.
+title: Largest Private Oil Companies Worldwide (Algo Trading)
 ---
 
 This article provides an in-depth exploration of the landscape of private oil companies within the global oil industry. The oil sector remains a cornerstone of global energy supply and economic development, with both private and state-owned enterprises playing pivotal roles. Among the largest oil companies, firms like ExxonMobil, Royal Dutch Shell, and BP operate alongside state-owned entities such as Saudi Aramco and China National Petroleum Corporation. These companies not only drive economic activity but also foster advancements in technology, including algorithmic trading, to optimize their operations.

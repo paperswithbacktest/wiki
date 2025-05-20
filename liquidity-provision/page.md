@@ -1,6 +1,8 @@
 ---
-title: "Liquidity provision (Algo Trading)"
-description: "Discover how liquidity provision through algorithmic trading enhances market stability by minimizing price disruptions and ensuring seamless asset transactions."
+category: quant_concept
+description: Discover how liquidity provision through algorithmic trading enhances
+  market stability by minimizing price disruptions and ensuring seamless asset transactions.
+title: Liquidity provision (Algo Trading)
 ---
 
 Liquidity provision is a cornerstone of financial markets, ensuring that assets can be traded smoothly without causing significant price disruptions. At its core, liquidity provision involves mechanisms and strategies that allow market participants to buy and sell assets efficiently and at stable prices. This article aims to explore how liquidity provision functions within the domain of algorithmic trading, which has become increasingly vital in today's digital markets. By examining the mechanics, key participants, associated challenges, and future prospects of liquidity provision, this discussion will provide valuable insights to all kinds of market participants, from novice traders to seasoned investors.

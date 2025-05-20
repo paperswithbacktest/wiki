@@ -1,6 +1,8 @@
 ---
-title: "Generation X: Demographics and Influence (Algo Trading)"
-description: "Learn how Generation X, with their balanced skepticism and optimism, influences algo trading by blending traditional methods with tech-driven solutions."
+category: trading_strategy
+description: Learn how Generation X, with their balanced skepticism and optimism,
+  influences algo trading by blending traditional methods with tech-driven solutions.
+title: 'Generation X: Demographics and Influence (Algo Trading)'
 ---
 
 In the world of financial markets, generational dynamics significantly influence trading strategies and investor behavior. Different age groups, such as Baby Boomers, Generation X, and Millennials, exhibit distinct investment preferences and approaches. Algorithmic trading, or 'algo trading', has become a focal point of interest among these generations. This method involves using computer algorithms to automate trading decisions, allowing rapid execution and potentially enhanced precision. As a result, it's increasingly integrated into various investment strategies, catering to each generation's comfort with technology and risk tolerance.

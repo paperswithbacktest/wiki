@@ -1,6 +1,8 @@
 ---
-title: "Dow Jones Sustainability North America Index (Algo Trading)"
-description: "Discover how the Dow Jones Sustainability North America Index and algorithmic trading converge to create efficient strategies for sustainable investing."
+category: trading_strategy
+description: Discover how the Dow Jones Sustainability North America Index and algorithmic
+  trading converge to create efficient strategies for sustainable investing.
+title: Dow Jones Sustainability North America Index (Algo Trading)
 ---
 
 The intersection of sustainability and technology is transforming the landscape of modern finance, evidenced by the convergence of algorithmic trading and sustainability indices like the Dow Jones Sustainability North America Index (DJSI North America). This introduction to the topic presents how these elements coalesce to create innovative and efficient investment strategies designed for a sustainable future.

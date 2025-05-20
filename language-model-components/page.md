@@ -1,7 +1,8 @@
 ---
-title: Understanding Language Models in Machine Learning Applications
+category: quant_concept
 description: This guide explains language model fundamentals and advanced techniques
   in clear terms to help you master training and optimizations Discover more inside.
+title: Understanding Language Models in Machine Learning Applications
 ---
 
 ![Image](images/1.jpeg)

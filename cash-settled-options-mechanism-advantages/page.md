@@ -1,6 +1,8 @@
 ---
-title: "Cash-Settled Options: Mechanism and Advantages (Algo Trading)"
-description: "Explore the mechanism and advantages of cash-settled options in the derivatives market. Discover how algo trading enhances efficiency and reduces costs for traders."
+category: quant_concept
+description: Explore the mechanism and advantages of cash-settled options in the derivatives
+  market. Discover how algo trading enhances efficiency and reduces costs for traders.
+title: 'Cash-Settled Options: Mechanism and Advantages (Algo Trading)'
 ---
 
 Financial derivatives have long served as foundational elements in modern financial markets, providing critical mechanisms for risk management and speculative investments. These instruments include a range of products such as futures, swaps, and options, each facilitating different strategies and applications. Options trading, in particular, stands as a major component within the derivatives market, offering strategies that span from hedging—used to mitigate potential losses in investment portfolios—to speculation, where traders seek to profit from price fluctuations.

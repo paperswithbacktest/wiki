@@ -1,6 +1,9 @@
 ---
-title: "Hardening Processes and the Role of Speculators (Algo Trading)"
-description: "Explore the intertwined roles of speculators and algorithmic trading in modern financial markets. Understand their impact on liquidity market volatility and economic stability."
+category: quant_concept
+description: Explore the intertwined roles of speculators and algorithmic trading
+  in modern financial markets. Understand their impact on liquidity market volatility
+  and economic stability.
+title: Hardening Processes and the Role of Speculators (Algo Trading)
 ---
 
 The trading world has experienced profound changes with the rise of algorithmic trading, a technological advancement that has redefined how financial markets operate. Speculators, who have traditionally played a significant role, continue to be pivotal in contemporary markets, closely interacting with algorithmic trading (algo trading) systems. These two forces—speculators and algo trading—are essential to understanding the current landscape of financial markets, chiefly due to their impacts on economic stability and market volatility.

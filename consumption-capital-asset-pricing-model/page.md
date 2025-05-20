@@ -1,6 +1,9 @@
 ---
-title: "Consumption Capital Asset Pricing Model (Algo Trading)"
-description: "Explore the integration of Consumption Capital Asset Pricing Model (CCAPM) in algorithmic trading to enhance investment strategies by assessing consumption risks."
+category: quant_concept
+description: Explore the integration of Consumption Capital Asset Pricing Model (CCAPM)
+  in algorithmic trading to enhance investment strategies by assessing consumption
+  risks.
+title: Consumption Capital Asset Pricing Model (Algo Trading)
 ---
 
 In financial markets, asset pricing models are critical tools used to assess the expected returns of investments by evaluating risk and return dynamics. One such model, the Consumption Capital Asset Pricing Model (CCAPM), builds upon the traditional Capital Asset Pricing Model (CAPM) to incorporate consumption patterns alongside economic factors for a more comprehensive analysis of expected asset returns. Whereas the CAPM primarily focuses on market risks through a market beta, CCAPM extends this framework by considering how changes in aggregate consumption impact an asset's risk profile and return prospects.

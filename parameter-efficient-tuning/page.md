@@ -1,7 +1,8 @@
 ---
-title: Parameter-Efficient Tuning Strategies For Machine Learning Models
+category: trading_strategy
 description: Parameter-Efficient Tuning adapts pretrained models with minimal adjustment
   to save time and compute and preserve performance. Discover more inside.
+title: Parameter-Efficient Tuning Strategies For Machine Learning Models
 ---
 
 ![Image](images/1.png)

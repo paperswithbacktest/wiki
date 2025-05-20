@@ -1,6 +1,8 @@
 ---
-title: "Rebate Barrier Option: Overview and Mechanism (Algo Trading)"
-description: "Explore the world of rebate barrier options in algorithmic trading and learn how these exotic options provide risk management and trading strategy advantages."
+category: quant_concept
+description: Explore the world of rebate barrier options in algorithmic trading and
+  learn how these exotic options provide risk management and trading strategy advantages.
+title: 'Rebate Barrier Option: Overview and Mechanism (Algo Trading)'
 ---
 
 The world of finance encompasses an array of complex instruments and strategies, with options trading being a crucial segment for both hedging and speculative purposes. At the core of options trading are financial derivatives, instrumental in shaping advanced trading strategies. Among these, rebate barrier options stand out due to their unique structure and potential benefits for risk management.

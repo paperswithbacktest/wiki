@@ -1,6 +1,9 @@
 ---
-title: "Cross-Currency Transactions Excluding the U.S. Dollar (Algo Trading)"
-description: "Explore the intricacies of cross-currency forex transactions and the transformative role of algorithmic trading in enhancing efficiency, excluding the US Dollar."
+category: trading_strategy
+description: Explore the intricacies of cross-currency forex transactions and the
+  transformative role of algorithmic trading in enhancing efficiency, excluding the
+  US Dollar.
+title: Cross-Currency Transactions Excluding the U.S. Dollar (Algo Trading)
 ---
 
 Foreign exchange markets, or forex, represent one of the largest and most liquid financial markets in the world. These markets operate 24 hours a day across major financial centers, continuously adapting to economic shifts, geopolitical events, and technological advancements. Within this dynamic environment, traders and investors are consistently presented with both opportunities and challenges.

@@ -1,6 +1,8 @@
 ---
-title: "Usance in International Trade (Algo Trading)"
-description: "Explore the synergy of usance trade finance and algorithmic trading in global commerce Manage cash flow credit risk and enhance trading efficiency efficiently"
+category: quant_concept
+description: Explore the synergy of usance trade finance and algorithmic trading in
+  global commerce Manage cash flow credit risk and enhance trading efficiency efficiently
+title: Usance in International Trade (Algo Trading)
 ---
 
 In the ever-evolving landscape of global commerce, usance trade finance and algorithmic trading have emerged as essential mechanisms, each playing pivotal roles in facilitating international business and financial markets. Usance trade finance, often referred to as "tenor," is crucial in international trade as it determines the permissible period for settling payments after the delivery of goods or services. This temporal flexibility is fundamental for managing cash flow and mitigating credit risk, which are key concerns in cross-border transactions. On the other hand, algorithmic trading, utilizing sophisticated computer algorithms to automate trading decisions, has revolutionized financial markets by enhancing efficiency, speed, and market liquidity.

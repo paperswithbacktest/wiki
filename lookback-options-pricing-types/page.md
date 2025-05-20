@@ -1,6 +1,8 @@
 ---
-title: "Lookback Options: Pricing and Types (Algo Trading)"
-description: "Discover the pricing and advantages of lookback options in algorithmic trading Explore how these exotic derivatives offer optimal pricing and hedging strategies"
+category: quant_concept
+description: Discover the pricing and advantages of lookback options in algorithmic
+  trading Explore how these exotic derivatives offer optimal pricing and hedging strategies
+title: 'Lookback Options: Pricing and Types (Algo Trading)'
 ---
 
 Algorithmic trading has revolutionized financial markets by allowing traders to automate complex trading strategies, improving both efficiency and execution speed. This technological advancement leverages algorithmic systems to execute trade orders at high frequency and with precision, minimizing human intervention and error. Consequently, these strategies have gained significant traction among institutional investors and hedge funds aiming to seize opportunities in volatile markets.

@@ -1,6 +1,14 @@
 ---
-title: "Charts Used by Cryptocurrency Investors (Algo Trading)"
-description: "Discover the essential charts utilized by cryptocurrency investors for algorithmic trading to maximize returns and minimize risks. This comprehensive guide explores different chart types, including line, bar, and candlestick charts, highlighting their importance in visualizing market data and making informed trading decisions. Understand the integration of technical analysis tools like MACD, RSI, and Bollinger Bands to identify market trends and opportunities. Learn how algorithmic trading strategies leverage these charts and indicators for efficient trade execution in the fast-paced crypto market."
+category: trading_strategy
+description: Discover the essential charts utilized by cryptocurrency investors for
+  algorithmic trading to maximize returns and minimize risks. This comprehensive guide
+  explores different chart types, including line, bar, and candlestick charts, highlighting
+  their importance in visualizing market data and making informed trading decisions.
+  Understand the integration of technical analysis tools like MACD, RSI, and Bollinger
+  Bands to identify market trends and opportunities. Learn how algorithmic trading
+  strategies leverage these charts and indicators for efficient trade execution in
+  the fast-paced crypto market.
+title: Charts Used by Cryptocurrency Investors (Algo Trading)
 ---
 
 Cryptocurrency trading has emerged as an exciting opportunity for investors seeking high returns, driven by the potential for significant profit in a relatively short timeframe. The dynamic nature of the crypto market, characterized by high volatility and rapid price fluctuations, means that proper analysis and decision-making tools are essential for navigability and success. This necessitates a structured approach to crypto analysis, the backbone of informed trading decisions.

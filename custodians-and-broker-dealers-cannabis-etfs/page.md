@@ -1,6 +1,8 @@
 ---
-title: "Custodians and Broker-Dealers in Cannabis ETFs (Algo Trading)"
-description: "Explore the vital roles of custodians and broker-dealers in cannabis ETFs and discover how algorithmic trading enhances efficiency in this dynamic market."
+category: trading_strategy
+description: Explore the vital roles of custodians and broker-dealers in cannabis
+  ETFs and discover how algorithmic trading enhances efficiency in this dynamic market.
+title: Custodians and Broker-Dealers in Cannabis ETFs (Algo Trading)
 ---
 
 In recent years, the legalization of cannabis has opened up exciting opportunities in the financial markets. This shift has led to the emergence of cannabis exchange-traded funds (ETFs), providing a new avenue for investors to tap into the rapidly growing cannabis industry. Cannabis ETFs are designed to offer investors exposure to companies involved in various aspects of the cannabis sector, ranging from cultivation and production to distribution and ancillary services. 

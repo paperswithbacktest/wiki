@@ -1,6 +1,9 @@
 ---
-title: "Difference Between Loss Ratio and Combined Ratio (Algo Trading)"
-description: "Explore the difference between loss ratio and combined ratio in insurance and understand how algorithmic trading can enhance strategic decisions and financial performance."
+category: quant_concept
+description: Explore the difference between loss ratio and combined ratio in insurance
+  and understand how algorithmic trading can enhance strategic decisions and financial
+  performance.
+title: Difference Between Loss Ratio and Combined Ratio (Algo Trading)
 ---
 
 In today's competitive insurance market, understanding key financial metrics is crucial for both insurers and investors. As the industry evolves, two metrics stand out as particularly vital: the loss ratio and the combined ratio. These metrics not only offer insights into an insurer's financial health but also play a pivotal role in shaping strategic decisions. The pressure to remain profitable and efficient underscores the importance of these metrics in assessing the performance of underwriting and claims processes.

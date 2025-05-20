@@ -1,6 +1,8 @@
 ---
-title: "Risk-Neutral Measures in Finance (Algo Trading)"
-description: "Explore the pivotal role of risk-neutral measures in finance, crucial for derivative pricing and algorithmic trading, ensuring efficient asset valuation."
+category: quant_concept
+description: Explore the pivotal role of risk-neutral measures in finance, crucial
+  for derivative pricing and algorithmic trading, ensuring efficient asset valuation.
+title: Risk-Neutral Measures in Finance (Algo Trading)
 ---
 
 Risk-neutral measures are foundational in finance, particularly in the pricing of derivatives and asset valuation. These measures are employed in scenarios where risk preferences do not affect asset pricing, thereby simplifying complex financial models. By transforming the expected return assumptions, risk-neutral measures facilitate a standardized approach to evaluating future asset prices. This transformation allows financial products to be priced as though they will yield returns equivalent to risk-free rates, thereby eliminating the influence of risk appetites on pricing.

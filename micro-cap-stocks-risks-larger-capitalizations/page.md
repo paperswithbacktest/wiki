@@ -1,6 +1,8 @@
 ---
-title: "Micro-Cap Stocks and Risks Compared to Larger Capitalizations (Algo Trading)"
-description: "Explore the risks of investing in volatile micro-cap stocks and using algorithmic trading Learn how these factors make the stock market dynamic yet challenging"
+category: quant_concept
+description: Explore the risks of investing in volatile micro-cap stocks and using
+  algorithmic trading Learn how these factors make the stock market dynamic yet challenging
+title: Micro-Cap Stocks and Risks Compared to Larger Capitalizations (Algo Trading)
 ---
 
 Investing in the stock market involves various levels of risk, particularly when dealing with micro-cap stocks and utilizing algorithmic trading (algo trading). Micro-cap stocks are recognized for their high volatility and limited liquidity, which make them inherently riskier compared to larger-cap stocks. These stocks typically represent smaller companies with market capitalizations ranging between $50 million and $300 million. Due to their size, they often have less available information and less oversight, contributing to their unpredictability.

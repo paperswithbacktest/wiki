@@ -1,6 +1,9 @@
 ---
-title: "Understanding Stock Quotes (Algo Trading)"
-description: "Explore the dynamic world of stock quotes and algorithmic trading to enhance investment strategies and navigate financial markets with this insightful guide."
+category: quant_concept
+description: Explore the dynamic world of stock quotes and algorithmic trading to
+  enhance investment strategies and navigate financial markets with this insightful
+  guide.
+title: Understanding Stock Quotes (Algo Trading)
 ---
 
 The financial market is a complex ecosystem where stock quotes, investing, and algorithmic trading converge to create intricate trading scenarios. This article explores the intersection of these components, providing insight into how stock quotes inform investment strategies and the role of algorithmic trading in modern finance. Understanding the interaction between these elements is crucial for both novice and seasoned investors navigating the market effectively.

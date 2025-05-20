@@ -1,6 +1,9 @@
 ---
-title: "Overview of Munifacts (Algo Trading)"
-description: "Discover the transformative role of algorithmic trading in municipal finance. Explore how Munifacts and TM3 provide critical data for optimizing bond market strategies."
+category: trading_strategy
+description: Discover the transformative role of algorithmic trading in municipal
+  finance. Explore how Munifacts and TM3 provide critical data for optimizing bond
+  market strategies.
+title: Overview of Munifacts (Algo Trading)
 ---
 
 The world of municipal finance is currently undergoing significant transformation, primarily driven by the advent of algorithmic trading. This development introduces a sophisticated layer of automation and precision into the municipal bond markets, which are crucial for funding various public projects. Algorithmic trading involves the use of advanced computer algorithms to automate and optimize trading decisions and transactions, thereby improving efficiency and reducing costs.

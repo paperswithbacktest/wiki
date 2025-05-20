@@ -1,6 +1,9 @@
 ---
-title: "Certificate of Accrual on Treasury Securities (CATS) (Algo Trading)"
-description: "Explore the features and historical relevance of Certificate of Accrual on Treasury Securities (CATS) in the context of zero-coupon bonds and algo trading strategies."
+category: quant_concept
+description: Explore the features and historical relevance of Certificate of Accrual
+  on Treasury Securities (CATS) in the context of zero-coupon bonds and algo trading
+  strategies.
+title: Certificate of Accrual on Treasury Securities (CATS) (Algo Trading)
 ---
 
 The world of financial securities offers a diverse array of investment opportunities, each with its unique features and historical significance. Among these is the Certificate of Accrual on Treasury Security (CATS), a type of bond introduced in the early 1980s by Salomon Brothers. These securities emerged during a period characterized by considerable innovation in the financial markets, which saw the creation of numerous products designed to meet the needs of various investors and to optimize financial strategies.

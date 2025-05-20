@@ -1,6 +1,9 @@
 ---
-title: "Daily Chart in Trading Strategies (Algo Trading)"
-description: "Discover how algorithmic trading leverages daily chart analysis to optimize strategies. Uncover essential techniques for seasoned and new traders in an evolving market."
+category: trading_strategy
+description: Discover how algorithmic trading leverages daily chart analysis to optimize
+  strategies. Uncover essential techniques for seasoned and new traders in an evolving
+  market.
+title: Daily Chart in Trading Strategies (Algo Trading)
 ---
 
 In the ever-evolving world of finance, the integration of technology with trading practices has opened myriad opportunities for traders aiming to optimize their strategies. A significant advancement in recent times is the application of algorithmic trading to analyze daily charts—an approach that combines the precision and speed of automated systems with the foundational insights of daily chart analysis. Algorithmic trading, often referred to as algo trading, utilizes computer algorithms to execute trading orders at speeds and complexities beyond human capabilities. 

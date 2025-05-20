@@ -1,7 +1,8 @@
 ---
-title: Understanding Earth Mover's Distance in Machine Learning
+category: quant_concept
 description: Earth Mover's Distance quantifies minimal work to align data distributions
   in machine learning tasks like image retrieval and GANs Discover more inside.
+title: Understanding Earth Mover's Distance in Machine Learning
 ---
 
 ![Image](images/1.png)

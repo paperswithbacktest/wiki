@@ -1,6 +1,8 @@
 ---
-title: "Grain Futures Act of 1922 (Algo Trading)"
-description: "Explore the pivotal 1922 Grain Futures Act which introduced regulatory measures in grain futures trading influencing modern algo trading practices."
+category: quant_concept
+description: Explore the pivotal 1922 Grain Futures Act which introduced regulatory
+  measures in grain futures trading influencing modern algo trading practices.
+title: Grain Futures Act of 1922 (Algo Trading)
 ---
 
 The 1922 Grain Futures Act represents a pivotal moment in the history of commodity trading, specifically targeting the regulation of grain futures. This federal legislation was designed to address and mitigate issues inherent in unregulated markets, which had long been susceptible to fraud and manipulation. By mandating that all grain futures be traded on regulated exchanges, the Act significantly enhanced market transparency and fostered a more secure trading environment. This move marked a foundational step in the development of federal oversight in the United States commodity markets, setting a precedent for subsequent regulatory frameworks.

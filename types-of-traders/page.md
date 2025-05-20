@@ -1,6 +1,8 @@
 ---
-title: "Types of Traders (Algo Trading)"
-description: "Discover the nuances of trading styles and trader types in the evolving world of algo trading boosting financial acumen for better investment decisions."
+category: trading_strategy
+description: Discover the nuances of trading styles and trader types in the evolving
+  world of algo trading boosting financial acumen for better investment decisions.
+title: Types of Traders (Algo Trading)
 ---
 
 The world of financial trading is both expansive and intricate, necessitating a sophisticated understanding of various techniques and styles tailored to diverse trader profiles. These trading styles vary widely, some focusing on short-term gains and others on long-term investments. Recognizing and understanding these differing approaches is crucial for enhancing investment outcomes and aligning strategies with individual financial goals.

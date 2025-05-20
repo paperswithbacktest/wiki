@@ -1,6 +1,9 @@
 ---
-title: "Systemic Risk in Market Microstructure (Algo Trading)"
-description: "Explore how algorithmic trading intersects with systemic risk and market microstructure, shedding light on its implications for financial stability and market dynamics."
+category: quant_concept
+description: Explore how algorithmic trading intersects with systemic risk and market
+  microstructure, shedding light on its implications for financial stability and market
+  dynamics.
+title: Systemic Risk in Market Microstructure (Algo Trading)
 ---
 
 In today's complex financial landscapes, algorithmic trading, commonly referred to as algo trading, is rapidly becoming a defining factor. It leverages advanced computational methods to execute trades at speeds and efficiencies unattainable by human traders. Algo trading relies heavily on market microstructure, which encompasses the mechanics of how trades are executed in financial markets. This includes the processes and rules that govern trading, the behavior of various market participants, and how these elements interact to form prices and facilitate transactions.

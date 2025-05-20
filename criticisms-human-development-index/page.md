@@ -1,6 +1,9 @@
 ---
-title: "Criticisms of the Human Development Index (Algo Trading)"
-description: "Explore the limitations of the Human Development Index focusing on its simplification of complex development dynamics and its implications for algorithmic trading."
+category: quant_concept
+description: Explore the limitations of the Human Development Index focusing on its
+  simplification of complex development dynamics and its implications for algorithmic
+  trading.
+title: Criticisms of the Human Development Index (Algo Trading)
 ---
 
 The Human Development Index (HDI) is a composite statistic that reflects a country's average achievements across three principal dimensions: life expectancy, education, and per capita income. These dimensions provide a broadened prism for assessing and comparing human well-being and development across different nations. Formulated by the United Nations Development Programme (UNDP), HDI serves as a crucial tool for monitoring long-term national progress. The index combines life expectancy at birth as an index of population health and longevity, education level measured by mean of years of schooling for adults aged 25 years or older, and expected years of schooling for children of school entering age, alongside Gross National Income (GNI) per capita indicating living standards. 

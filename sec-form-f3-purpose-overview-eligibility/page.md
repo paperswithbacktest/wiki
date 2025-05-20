@@ -1,6 +1,9 @@
 ---
-title: "SEC Form F-3: Purpose, Overview, and Eligibility (Algo Trading)"
-description: "SEC Form F-3 provides foreign issuers streamlined access to U.S. capital markets facilitating securities offerings. Learn about its eligibility and benefits here."
+category: quant_concept
+description: SEC Form F-3 provides foreign issuers streamlined access to U.S. capital
+  markets facilitating securities offerings. Learn about its eligibility and benefits
+  here.
+title: 'SEC Form F-3: Purpose, Overview, and Eligibility (Algo Trading)'
 ---
 
 SEC Form F-3 is a crucial instrument for foreign issuers seeking to enter the U.S. capital markets for securities offerings. It provides a streamlined registration process that enables qualified foreign companies to offer securities to American investors, thus facilitating capital formation and enhancing market accessibility. This article examines the eligibility criteria, benefits, and special considerations associated with the use of SEC Form F-3, emphasizing its significance in the regulatory landscape. 

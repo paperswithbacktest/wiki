@@ -1,6 +1,14 @@
 ---
-title: "ISO Currency Codes of Major Countries (Algo Trading)"
-description: "Explore the essential role of ISO currency codes in global finance and algorithmic trading on this comprehensive page. These standardized three-letter codes, established by the International Organization for Standardization, ensure seamless currency identification, critical for automated systems and international transactions. Learn about their impact on precision in cross-border trade and the forex market's liquidity. Discover how these codes support efficient and error-free financial operations, making them indispensable in the evolving landscape of global commerce and automated trading platforms."
+category: dataset
+description: Explore the essential role of ISO currency codes in global finance and
+  algorithmic trading on this comprehensive page. These standardized three-letter
+  codes, established by the International Organization for Standardization, ensure
+  seamless currency identification, critical for automated systems and international
+  transactions. Learn about their impact on precision in cross-border trade and the
+  forex market's liquidity. Discover how these codes support efficient and error-free
+  financial operations, making them indispensable in the evolving landscape of global
+  commerce and automated trading platforms.
+title: ISO Currency Codes of Major Countries (Algo Trading)
 ---
 
 ISO currency codes, often referred to as ISO 4217 currency codes, play a pivotal role in international finance and trading. These standardized three-letter alphabetic codes, established by the International Organization for Standardization (ISO), are essential for the identification of currencies across global markets. The widespread adoption of ISO currency codes facilitates seamless communication among traders, financial institutions, and businesses worldwide, significantly reducing the potential for errors and misunderstandings in financial transactions.

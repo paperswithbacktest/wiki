@@ -1,6 +1,8 @@
 ---
-title: "Comparison of Buy Limit and Sell Stop Orders (Algo Trading)"
-description: "Understand the dynamics of buy limit and sell stop orders in algo trading Learn how these tools can enhance strategies improve execution and manage risks"
+category: quant_concept
+description: Understand the dynamics of buy limit and sell stop orders in algo trading
+  Learn how these tools can enhance strategies improve execution and manage risks
+title: Comparison of Buy Limit and Sell Stop Orders (Algo Trading)
 ---
 
 In the ever-evolving world of trading, understanding the different types of trading orders is crucial for investors aiming to optimize their trading strategies. Trading orders such as sell stop orders and buy limit orders are fundamental tools that can significantly influence trade execution, risk management, and profit realization. These orders allow traders to maintain control over the entry and exit points of their trades, thereby optimizing their strategies to align with specific market conditions.

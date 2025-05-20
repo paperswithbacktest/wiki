@@ -1,6 +1,11 @@
 ---
-title: "Moral Hazard vs. Adverse Selection (Algo Trading)"
-description: "Explore the intricate relationship between moral hazard and adverse selection within the realms of insurance economics and algorithmic trading. Delve into how these concepts shape market dynamics by altering behaviors and impacting risk assessment. This article offers insights into identifying and mitigating these financial phenomena to improve market efficiency and establish sound trading strategies."
+category: quant_concept
+description: Explore the intricate relationship between moral hazard and adverse selection
+  within the realms of insurance economics and algorithmic trading. Delve into how
+  these concepts shape market dynamics by altering behaviors and impacting risk assessment.
+  This article offers insights into identifying and mitigating these financial phenomena
+  to improve market efficiency and establish sound trading strategies.
+title: Moral Hazard vs. Adverse Selection (Algo Trading)
 ---
 
 The intersection of insurance economics and algorithmic trading presents unique challenges and opportunities. Central to understanding these fields are the concepts of moral hazard and adverse selection, which significantly influence their dynamics. Moral hazard arises when one party in a contract changes their behavior to the detriment of the other after the agreement is finalized, often due to the insulation that the contract provides. For instance, in insurance, once a policyholder is covered, they might engage in riskier behaviors because they no longer bear the full cost of these risks. 

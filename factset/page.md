@@ -1,6 +1,13 @@
 ---
-title: "FactSet (Algo Trading)"
-description: Discover how FactSet revolutionizes algorithmic trading with advanced data solutions and analytical tools. Enhance trading strategies with FactSet's comprehensive data feeds, seamless integration capabilities, and innovative technology platforms. Drive informed decision-making with real-time data analytics and customizable solutions tailored to your trading objectives. Learn how FactSet empowers financial professionals to optimize trade executions and stay competitive in the dynamic global finance landscape.
+category: trading_strategy
+description: Discover how FactSet revolutionizes algorithmic trading with advanced
+  data solutions and analytical tools. Enhance trading strategies with FactSet's comprehensive
+  data feeds, seamless integration capabilities, and innovative technology platforms.
+  Drive informed decision-making with real-time data analytics and customizable solutions
+  tailored to your trading objectives. Learn how FactSet empowers financial professionals
+  to optimize trade executions and stay competitive in the dynamic global finance
+  landscape.
+title: FactSet (Algo Trading)
 ---
 
 Algorithmic trading, commonly known as algo trading, is revolutionizing the financial markets by utilizing sophisticated algorithms and vast datasets to formulate and execute trading strategies. This methodology empowers traders and investment firms to make data-driven decisions, optimize trade executions, and capitalize on market opportunities with high precision and speed. The significance of data in this framework cannot be overstated, as it acts as the foundational element that drives trading models and strategies.

@@ -1,6 +1,11 @@
 ---
-title: "Macro Trading (Algo Trading)"
-description: Discover Macro Trading, a strategy that capitalizes on economic and political factors affecting entire countries or global events. Delve into the world of macro traders who focus on monetary policy, fiscal policy, geopolitical events, and global macroeconomic indicators to make informed investment decisions. Understand the significance of macro trading through historic examples and learn about its typologies and systems.
+category: trading_strategy
+description: Discover Macro Trading, a strategy that capitalizes on economic and political
+  factors affecting entire countries or global events. Delve into the world of macro
+  traders who focus on monetary policy, fiscal policy, geopolitical events, and global
+  macroeconomic indicators to make informed investment decisions. Understand the significance
+  of macro trading through historic examples and learn about its typologies and systems.
+title: Macro Trading (Algo Trading)
 ---
 
 Macro trading is a strategy that focuses on making investment decisions based on economic and political factors of entire countries or global events. This approach investigates into the broader aspects, such as a nation's monetary policy, fiscal policy, political events, and global macroeconomic factors, as opposed to analyzing individual companies or stocks. Macro trading can encompass a wide range of financial instruments, from foreign currencies and government bonds to commodities and equities, anything that reacts to large-scale economic shifts.

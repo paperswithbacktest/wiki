@@ -1,6 +1,8 @@
 ---
-title: "Regulation E and Electronic Fund Transfers (Algo Trading)"
-description: "Learn about Regulation E and its role in ensuring secure electronic fund transfers crucial for algorithmic trading while safeguarding consumer rights."
+category: quant_concept
+description: Learn about Regulation E and its role in ensuring secure electronic fund
+  transfers crucial for algorithmic trading while safeguarding consumer rights.
+title: Regulation E and Electronic Fund Transfers (Algo Trading)
 ---
 
 In today's fast-paced financial world, electronic fund transfers (EFTs) have become integral to facilitating smooth and efficient transactions for both consumers and businesses. Whether it's transferring funds between accounts, paying bills, or conducting business transactions, EFTs offer a quick and reliable method for handling financial activities. Central to this system is Regulation E—a significant framework established to protect the integrity and security of these electronic financial transactions. Created under the Electronic Fund Transfer Act (EFTA) by the Federal Reserve Board, Regulation E sets forth essential guidelines and procedures for issuers and users engaged in EFTs, ensuring that both parties benefit from the system's efficiency and reliability.

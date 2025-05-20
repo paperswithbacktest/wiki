@@ -1,6 +1,8 @@
 ---
-title: "Russell 1000 Index: Overview, Holdings, and Performance (Algo Trading)"
-description: "Explore the synergy between Russell 1000 investments and algorithmic trading Discover how this approach optimizes returns with speed and precision"
+category: trading_strategy
+description: Explore the synergy between Russell 1000 investments and algorithmic
+  trading Discover how this approach optimizes returns with speed and precision
+title: 'Russell 1000 Index: Overview, Holdings, and Performance (Algo Trading)'
 ---
 
 In the fast-paced world of stock trading, investors constantly seek strategies to gain an edge. A promising strategy that has gained traction is algorithmic trading. This approach leverages technology to automate the buying and selling decisions in the stock market, thus allowing transactions to be executed at speeds and frequencies beyond human capability. As technological advancements continue to evolve, algorithmic trading offers sophisticated methods to process complex data and execute trades based on defined criteria.

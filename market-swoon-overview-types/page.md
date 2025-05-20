@@ -1,6 +1,9 @@
 ---
-title: "Market Swoon: Overview and Types (Algo Trading)"
-description: "Explore the dynamics of market swoons and algorithmic trading during economic downturns Discover strategies to navigate volatility and ensure market stability"
+category: quant_concept
+description: Explore the dynamics of market swoons and algorithmic trading during
+  economic downturns Discover strategies to navigate volatility and ensure market
+  stability
+title: 'Market Swoon: Overview and Types (Algo Trading)'
 ---
 
 The financial landscape is marked by alternating cycles of growth and downturn that significantly influence investor sentiment and market stability. These cycles are characterized by periods of economic prosperity, followed by downturns that can disrupt financial systems globally. Economic downturns typically involve a sustained decline in economic activity, often resulting from factors such as decreased consumer spending, high unemployment rates, and reduced industrial production. These periods present challenges not only to individual investors but also to financial institutions striving to maintain profitability.

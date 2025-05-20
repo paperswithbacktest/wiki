@@ -1,6 +1,8 @@
 ---
-title: "North American Derivatives Exchange (Algo Trading)"
-description: "Explore Nadex a leading derivatives exchange offering binary options bull spreads and algo trading for diverse strategies under CFTC regulation."
+category: quant_concept
+description: Explore Nadex a leading derivatives exchange offering binary options
+  bull spreads and algo trading for diverse strategies under CFTC regulation.
+title: North American Derivatives Exchange (Algo Trading)
 ---
 
 Nadex, or the North American Derivatives Exchange, serves as a prominent fixture within the North American financial landscape, offering traders a reliable and innovative platform for engaging in derivatives trading. Established in 2004 and headquartered in Chicago, Nadex has carved out a niche by providing secure trading solutions under stringent regulation by the Commodity Futures Trading Commission (CFTC). This regulatory framework ensures that Nadex adheres to high standards of transparency and security, bolstering trader confidence in its offerings.

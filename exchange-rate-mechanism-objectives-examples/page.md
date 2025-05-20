@@ -1,6 +1,8 @@
 ---
-title: "Exchange Rate Mechanism: Objectives and Examples (Algo Trading)"
-description: "Discover the role of Exchange Rate Mechanisms in global finance and algo trading Explore their objectives examples and impact on currency stability"
+category: quant_concept
+description: Discover the role of Exchange Rate Mechanisms in global finance and algo
+  trading Explore their objectives examples and impact on currency stability
+title: 'Exchange Rate Mechanism: Objectives and Examples (Algo Trading)'
 ---
 
 An Exchange Rate Mechanism (ERM) is an essential component of global finance, designed to regulate a country's currency exchange rate in relation to other currencies. By doing so, it plays a pivotal role in ensuring currency stability, mitigating volatility, and promoting economic predictability. ERM systems are often employed by central banks as part of broader monetary policies to maintain fixed or controlled floating exchange rates. This practice helps in normalizing trade dynamics and controlling inflation, which are critical for economic stability and growth.

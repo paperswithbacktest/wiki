@@ -1,6 +1,8 @@
 ---
-title: "List of Largest Trucking Companies (Algo Trading)"
-description: "Explore the global impact of leading trucking companies and how algorithmic trading is transforming financial strategies in this essential industry sector."
+category: dataset
+description: Explore the global impact of leading trucking companies and how algorithmic
+  trading is transforming financial strategies in this essential industry sector.
+title: List of Largest Trucking Companies (Algo Trading)
 ---
 
 The trucking industry is a vital component of the global transportation sector, ensuring the efficient movement of goods across an intricate network of roads and highways. This segment of logistics is tasked with connecting producers to consumers and is integral to both local and international economies by facilitating trade and commerce. Trucking companies, by acting as the linchpins in the supply chain, ensure that products reach their destinations in a timely manner, which is crucial for market operations and consumer satisfaction.

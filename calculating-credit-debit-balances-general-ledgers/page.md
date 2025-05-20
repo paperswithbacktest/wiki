@@ -1,6 +1,9 @@
 ---
-title: "Calculating Credit and Debit Balances in General Ledgers (Algo Trading)"
-description: "Explore the essentials of debit and credit balances in general ledgers and discover the impact of algorithmic trading on financial markets and strategy execution."
+category: quant_concept
+description: Explore the essentials of debit and credit balances in general ledgers
+  and discover the impact of algorithmic trading on financial markets and strategy
+  execution.
+title: Calculating Credit and Debit Balances in General Ledgers (Algo Trading)
 ---
 
 In the rapidly evolving world of finance, understanding the intricacies of financial records and trading strategies is crucial for both professionals and enthusiasts. This article is dedicated to exploring key concepts such as debit and credit balances, general ledger accounting, and algorithmic trading. These elements collectively enhance the precision and efficiency of financial management, enabling a deeper comprehension of how they support robust financial strategies.

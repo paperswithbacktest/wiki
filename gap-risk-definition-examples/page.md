@@ -1,6 +1,9 @@
 ---
-title: "Gap Risk: Definition and Examples (Algo Trading)"
-description: "Explore gap risk in algorithmic trading where abrupt asset price changes present challenges. Learn strategies to manage these risks for better investment outcomes."
+category: quant_concept
+description: Explore gap risk in algorithmic trading where abrupt asset price changes
+  present challenges. Learn strategies to manage these risks for better investment
+  outcomes.
+title: 'Gap Risk: Definition and Examples (Algo Trading)'
 ---
 
 In the complex world of finance, investors constantly seek methods to maximize returns while minimizing risk. As market dynamics evolve, investment strategies that focus on effectively managing financial risk, particularly gap risk, have become essential for both amateur and seasoned investors. Gap risk, which involves abrupt price changes in assets outside regular trading hours, presents an unavoidable challenge that requires careful attention.

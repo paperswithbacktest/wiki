@@ -1,6 +1,8 @@
 ---
-title: "New Zealand Dollar: Overview and Functionality (Algo Trading)"
-description: "Explore the dynamics of the New Zealand Dollar in forex trading and how algorithmic strategies can optimize trading decisions for better market performance."
+category: quant_concept
+description: Explore the dynamics of the New Zealand Dollar in forex trading and how
+  algorithmic strategies can optimize trading decisions for better market performance.
+title: 'New Zealand Dollar: Overview and Functionality (Algo Trading)'
 ---
 
 The New Zealand Dollar (NZD), colloquially known as the "Kiwi," is a fundamental currency in the global foreign exchange markets. New Zealand's unique geographic position and its robust economy have contributed to the NZD's prominence, making it a frequently traded currency. Its importance is attributed to various factors including significant macroeconomic stability, substantial agricultural exports, and a high degree of transparency in monetary policy management by the Reserve Bank of New Zealand.

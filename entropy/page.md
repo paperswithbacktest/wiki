@@ -1,7 +1,8 @@
 ---
-title: Entropy in Machine Learning Algorithms and Decision Trees
+category: quant_concept
 description: Entropy in machine learning measures uncertainty and drives feature selection
   by maximizing information gain to build accurate models Discover more inside
+title: Entropy in Machine Learning Algorithms and Decision Trees
 ---
 
 ![Image](images/1.jpeg)

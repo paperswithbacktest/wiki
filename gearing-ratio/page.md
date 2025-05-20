@@ -1,6 +1,10 @@
 ---
-title: "Gearing Ratio (Algo Trading)"
-description: "Explore the importance of the gearing ratio and leverage in financial analysis and algorithmic trading strategy development. Understand how these metrics help assess financial health and performance, manage risk, and refine trading strategies in the dynamic financial landscape."
+category: quant_concept
+description: Explore the importance of the gearing ratio and leverage in financial
+  analysis and algorithmic trading strategy development. Understand how these metrics
+  help assess financial health and performance, manage risk, and refine trading strategies
+  in the dynamic financial landscape.
+title: Gearing Ratio (Algo Trading)
 ---
 
 In today's dynamic financial environment, understanding key financial metrics is essential for both individual and institutional investors. These metrics serve as important tools for assessing financial health, performance, and risk within investment strategies. Among these metrics, the gearing ratio and leverage are fundamental, playing pivotal roles in financial analysis and trading strategy development.

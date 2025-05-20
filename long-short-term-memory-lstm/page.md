@@ -1,7 +1,8 @@
 ---
-title: Exploring Long Short-Term Memory LSTM in Machine Learning
+category: quant_concept
 description: Long Short-Term Memory LSTM networks use gates and memory cells to overcome
   vanishing gradients and improve sequence prediction Discover more inside
+title: Exploring Long Short-Term Memory LSTM in Machine Learning
 ---
 
 ![Image](images/1.png)

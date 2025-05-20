@@ -1,6 +1,9 @@
 ---
-title: "Core Liquidity Provider (Algo Trading)"
-description: "Explore the essential role of core liquidity providers in financial markets and discover how algorithmic trading enhances their efficiency, ensuring seamless transactions."
+category: quant_concept
+description: Explore the essential role of core liquidity providers in financial markets
+  and discover how algorithmic trading enhances their efficiency, ensuring seamless
+  transactions.
+title: Core Liquidity Provider (Algo Trading)
 ---
 
 In today's fast-paced financial markets, liquidity stands as a cornerstone for enabling efficient trading and investment activities. As market participants engage in buying and selling assets, the ease with which these transactions can be executed without causing significant price changes defines the liquidity of the market. Liquidity providers are pivotal in maintaining the balance between supply and demand, ensuring that transactions are seamless and that markets function smoothly even amidst fluctuating conditions.

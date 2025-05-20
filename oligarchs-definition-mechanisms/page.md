@@ -1,6 +1,9 @@
 ---
-title: "Oligarchs: Definition and Mechanisms (Algo Trading)"
-description: "Explore the intertwining world of oligarchies and algorithmic trading Learn how modern oligarchs leverage technology to influence markets politics and democratic processes"
+category: quant_concept
+description: Explore the intertwining world of oligarchies and algorithmic trading
+  Learn how modern oligarchs leverage technology to influence markets politics and
+  democratic processes
+title: 'Oligarchs: Definition and Mechanisms (Algo Trading)'
 ---
 
 The term 'oligarchy' has traditionally been used to describe power structures where a limited number of individuals exert significant control over decision-making and governance. Historically, these individuals have wielded power through means such as wealth, nobility, or religion. In the modern context, oligarchies have evolved, with technology playing a pivotal role in reshaping their influence, particularly in political and economic spheres.

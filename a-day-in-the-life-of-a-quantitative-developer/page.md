@@ -1,9 +1,17 @@
 ---
-title: "A Day in the Life of a Quantitative Developer (Algo Trading)"
-description: Explore the dynamic world of quantitative developers in algorithmic trading, where mathematical models and computational techniques meld to optimize trading strategies, enhance risk management, and analyze market behavior. Discover the essential skills, qualifications, and daily activities that define the quant profession, including statistical analysis, programming, and financial acumen. Learn how quants drive decision-making in fast-paced financial markets through innovative algorithms and collaborative teamwork, ensuring a competitive edge for trading firms in an increasingly sophisticated landscape.
+category: quant_concept
+description: Explore the dynamic world of quantitative developers in algorithmic trading,
+  where mathematical models and computational techniques meld to optimize trading
+  strategies, enhance risk management, and analyze market behavior. Discover the essential
+  skills, qualifications, and daily activities that define the quant profession, including
+  statistical analysis, programming, and financial acumen. Learn how quants drive
+  decision-making in fast-paced financial markets through innovative algorithms and
+  collaborative teamwork, ensuring a competitive edge for trading firms in an increasingly
+  sophisticated landscape.
+title: A Day in the Life of a Quantitative Developer (Algo Trading)
 ---
 
- to Quantitative Life in Algorithmic Trading
+to Quantitative Life in Algorithmic Trading
 
 Quantitative finance is a discipline that employs mathematical models and computational techniques to analyze financial markets and securities. This field focuses on applying statistical methods to understand market behaviors, optimize portfolio strategies, and manage financial risks. Algorithmic trading, a subset of quantitative finance, involves using automated systems to execute trades at optimal prices based on defined strategies without human intervention. These algorithms can assess market conditions and make decisions within milliseconds, far quicker than human traders.
 

@@ -1,6 +1,8 @@
 ---
-title: "Brazilian Real: Overview, Economic Impact, and Conversion (Algo Trading)"
-description: "Explore the Brazilian Real BRL focusing on its economic impact and conversion methods with algo trading Uncover investment insights in Brazil's emerging market"
+category: quant_concept
+description: Explore the Brazilian Real BRL focusing on its economic impact and conversion
+  methods with algo trading Uncover investment insights in Brazil's emerging market
+title: 'Brazilian Real: Overview, Economic Impact, and Conversion (Algo Trading)'
 ---
 
 In the world of finance, currency conversions and algorithmic trading have become crucial elements for investors and traders. With Brazil being an emerging market, the Brazilian Real (BRL) is a currency of significant interest. This article explores the dynamic interplay between the Brazilian economy, currency conversion involving the Real, and the role of algorithmic trading.

@@ -1,6 +1,9 @@
 ---
-title: "Overview of Treasury Inflation-Protected Securities (Algo Trading)"
-description: "Explore Treasury Inflation-Protected Securities TIPS and their integration with algorithmic trading to enhance investment strategies combat inflation and optimize portfolios."
+category: quant_concept
+description: Explore Treasury Inflation-Protected Securities TIPS and their integration
+  with algorithmic trading to enhance investment strategies combat inflation and optimize
+  portfolios.
+title: Overview of Treasury Inflation-Protected Securities (Algo Trading)
 ---
 
 Treasury Inflation-Protected Securities (TIPS) are a specialized class of U.S. Treasury bonds uniquely designed to shield investors from the erosive effects of inflation while ensuring a real rate of return. Unlike traditional bonds, where fixed interest payments can lose purchasing power over time due to inflation, TIPS offer protection by automatically adjusting their principal value based on the Consumer Price Index (CPI). This ensures that both the principal and the interest payments rise with inflation and decrease with deflation, preserving the bondholder's real return.

@@ -1,6 +1,8 @@
 ---
-title: "Manual Trading (Algo Trading)"
-description: "Discover the differences between manual and algorithmic trading to optimize your financial strategies. Explore human intuition versus automated efficiency."
+category: trading_strategy
+description: Discover the differences between manual and algorithmic trading to optimize
+  your financial strategies. Explore human intuition versus automated efficiency.
+title: Manual Trading (Algo Trading)
 ---
 
 The financial markets present a wide array of trading opportunities that can be accessed through both manual and algorithmic trading methods. These trading approaches cater to different trader profiles, each with its own advantages and limitations. Manual trading is characterized by the involvement of human discretion in decision-making, allowing traders to use their intuition and experience to analyze market conditions and execute trades. This method can be advantageous in reacting to real-time news events and signals that do not fit into a programmable format, offering a personalized touch in unpredictable markets.

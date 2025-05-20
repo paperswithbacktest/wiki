@@ -1,6 +1,8 @@
 ---
-title: "Office of the Superintendent of Financial Institutions (Algo Trading)"
-description: "Explore OSFI's pivotal role in overseeing financial institutions in Canada, focusing on the regulation of technological advancements like algorithmic trading."
+category: quant_concept
+description: Explore OSFI's pivotal role in overseeing financial institutions in Canada,
+  focusing on the regulation of technological advancements like algorithmic trading.
+title: Office of the Superintendent of Financial Institutions (Algo Trading)
 ---
 
 The landscape of financial regulation in Canada is intricate and essential for safeguarding the country's economic stability. At the forefront of this regulatory framework is the Office of the Superintendent of Financial Institutions (OSFI), a critical agency tasked with overseeing the strength and stability of financial institutions and insurance companies nationwide. Established in 1987, OSFI's primary mission is to protect depositors and policyholders while fostering trust across the financial system. This oversight is followed by extending its regulatory efforts to incorporate a dynamic range of modern challenges, including the rise of technological advancements such as algorithmic trading.

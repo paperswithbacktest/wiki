@@ -1,7 +1,8 @@
 ---
-title: Iterative Taxonomy Expansion Model in Machine Learning
+category: quant_concept
 description: Taxonomy Expansion applies iterative models with contextual analysis
   to keep your machine learning taxonomy organized and current Discover more inside
+title: Iterative Taxonomy Expansion Model in Machine Learning
 ---
 
 ![Image](images/1.png)

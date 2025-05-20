@@ -1,6 +1,8 @@
 ---
-title: "Current Coupon in Finance (Algo Trading)"
-description: "Explore the significance of coupon bonds in finance and the transformative impact of algorithmic trading on bond markets for improved efficiency and precision."
+category: quant_concept
+description: Explore the significance of coupon bonds in finance and the transformative
+  impact of algorithmic trading on bond markets for improved efficiency and precision.
+title: Current Coupon in Finance (Algo Trading)
 ---
 
 The coupon bond market occupies a critical place in the financial landscape, serving as a key mechanism for raising capital by governments, municipalities, and corporations. Coupon bonds, characterized by periodic interest payments known as coupons, are integral to a diversified investment portfolio. They provide a predictable stream of income to investors and influence overall market interest rates. Coupon bonds are often viewed as a less volatile investment compared to equities, offering a stable risk-return profile, which makes them appealing to a broad array of investors, from individual retirees to large institutional funds.

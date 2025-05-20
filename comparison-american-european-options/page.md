@@ -1,6 +1,9 @@
 ---
-title: "Comparison of American and European Options (Algo Trading)"
-description: "Explore the key differences between American and European options in algo trading Understand how these derivatives impact trading strategies and risk management"
+category: quant_concept
+description: Explore the key differences between American and European options in
+  algo trading Understand how these derivatives impact trading strategies and risk
+  management
+title: Comparison of American and European Options (Algo Trading)
 ---
 
 Financial derivatives are sophisticated financial instruments that derive their value from an underlying asset, benchmark, or index. These derivatives play a pivotal role in today's trading world as they offer investors and traders a mechanism for hedging risk, speculating on future price movements, and enhancing portfolio returns. Among the vast array of derivatives, options stand out as a fundamental type, with two primary variations being European options and American options. 

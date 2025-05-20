@@ -1,6 +1,8 @@
 ---
-title: "Comparison of Stock Market Trends: 1950s vs. 1970s (Algo Trading)"
-description: "Explore the differences in stock market trends between the boom of the 1950s and the economic challenges of the 1970s with the rise of algo trading."
+category: quant_concept
+description: Explore the differences in stock market trends between the boom of the
+  1950s and the economic challenges of the 1970s with the rise of algo trading.
+title: 'Comparison of Stock Market Trends: 1950s vs. 1970s (Algo Trading)'
 ---
 
 The stock market serves as a crucial indicator of economic health and investor sentiment over various periods. Understanding stock market trends is not only important for investors but is also pivotal in understanding broader financial history. Historically, the market's fluctuations reflect the underlying political, economic, and technological dynamics of each era. The cyclical nature of these market trends offers insights into the past, helping investors and economists anticipate future market behaviors and developments.

@@ -1,6 +1,14 @@
 ---
-title: "Common Options Strategies for Investors (Algo Trading)"
-description: "Explore the world of financial derivatives and options strategies to enhance your investment portfolio with insights into algorithmic trading. Discover how these instruments allow investors to hedge risks, speculate on price movements, and optimize returns. Learn about various options strategies like covered calls, straddles, and iron condors that cater to different market conditions and objectives. Uncover the synergy between these strategies and algorithmic trading, which enables efficient, cost-effective trade execution, ultimately reshaping the financial landscape and providing innovative approaches to risk management and maximizing returns."
+category: trading_strategy
+description: Explore the world of financial derivatives and options strategies to
+  enhance your investment portfolio with insights into algorithmic trading. Discover
+  how these instruments allow investors to hedge risks, speculate on price movements,
+  and optimize returns. Learn about various options strategies like covered calls,
+  straddles, and iron condors that cater to different market conditions and objectives.
+  Uncover the synergy between these strategies and algorithmic trading, which enables
+  efficient, cost-effective trade execution, ultimately reshaping the financial landscape
+  and providing innovative approaches to risk management and maximizing returns.
+title: Common Options Strategies for Investors (Algo Trading)
 ---
 
 Financial derivatives are financial instruments whose value is derived from underlying assets, such as stocks, bonds, commodities, currencies, or market indices. They play a crucial role in the investment landscape by allowing investors to hedge against risks, speculate on future price movements, or enhance investment returns. Derivatives encompass various types, including futures, options, and swaps, each serving distinct purposes in financial markets.

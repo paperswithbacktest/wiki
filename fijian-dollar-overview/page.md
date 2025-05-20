@@ -1,6 +1,8 @@
 ---
-title: "Fijian Dollar Overview (Algo Trading)"
-description: "Explore the significance of the Fijian Dollar (FJD) in global finance, its role in Fiji's economy, and the impact of algorithmic trading for enhanced efficiency."
+category: dataset
+description: Explore the significance of the Fijian Dollar (FJD) in global finance,
+  its role in Fiji's economy, and the impact of algorithmic trading for enhanced efficiency.
+title: Fijian Dollar Overview (Algo Trading)
 ---
 
 The Fijian Dollar (FJD) holds significance for currency traders and financial market participants. As the official currency of Fiji, the FJD has a unique place in the global monetary landscape. This article will provide a comprehensive overview of the FJD, examining its historical development since its introduction, its importance within Fiji's economy, and the cultural symbols embedded in its banknotes.

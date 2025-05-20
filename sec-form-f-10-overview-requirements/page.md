@@ -1,6 +1,8 @@
 ---
-title: "SEC Form F-10: Overview and Requirements (Algo Trading)"
-description: "Learn about SEC Form F-10 for Canadian issuers offering securities in the U.S. Explore its role, requirements, and impact on cross-border trading."
+category: quant_concept
+description: Learn about SEC Form F-10 for Canadian issuers offering securities in
+  the U.S. Explore its role, requirements, and impact on cross-border trading.
+title: 'SEC Form F-10: Overview and Requirements (Algo Trading)'
 ---
 
 Securities offerings are integral to raising capital and expanding business operations, involving the issuance of stocks, bonds, or other financial instruments to investors. These offerings require regulatory compliance to ensure transparency, protect investors, and maintain orderly markets. Regulatory bodies, like the U.S. Securities and Exchange Commission (SEC), set forth specific requirements for securities offerings, particularly in cross-border transactions where different jurisdictions are involved.

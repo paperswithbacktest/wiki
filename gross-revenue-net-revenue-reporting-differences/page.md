@@ -1,6 +1,9 @@
 ---
-title: "Gross Revenue and Net Revenue Reporting Differences (Algo Trading)"
-description: "Explore the key differences between gross and net revenue reporting in algo trading. Understand their impact on decision-making and how they optimize trading strategies."
+category: quant_concept
+description: Explore the key differences between gross and net revenue reporting in
+  algo trading. Understand their impact on decision-making and how they optimize trading
+  strategies.
+title: Gross Revenue and Net Revenue Reporting Differences (Algo Trading)
 ---
 
 Understanding key financial metrics, such as net and gross revenue, is essential for both investors and businesses in today's financial landscape. These metrics serve as the bedrock of financial reporting and have significant implications for decision-making processes, investment strategies, and tax calculations. Gross revenue, representing total income from sales before deductions, provides insight into sales efficiency and market demand, while net revenue, which accounts for returns, allowances, and discounts, offers a clearer picture of a company's actual financial performance.

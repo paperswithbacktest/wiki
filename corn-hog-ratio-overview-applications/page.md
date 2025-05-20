@@ -1,6 +1,8 @@
 ---
-title: "Corn-Hog Ratio: Overview and Applications (Algo Trading)"
-description: "Explore how the corn-hog ratio impacts agricultural markets and profitability, with insights into its role in algorithmic trading and market strategies."
+category: quant_concept
+description: Explore how the corn-hog ratio impacts agricultural markets and profitability,
+  with insights into its role in algorithmic trading and market strategies.
+title: 'Corn-Hog Ratio: Overview and Applications (Algo Trading)'
 ---
 
 The commodity markets for agricultural products such as corn and hogs are fundamental to the global economy. These markets are integral not only because they supply essential food items but also due to their significant role in international trade and economic stability. A pivotal metric in these markets is the corn-hog ratio. This ratio is a vital analytical tool that helps gauge the profitability of using corn feed for raising livestock, specifically hogs. The corn-hog ratio is calculated by dividing the price of a hog by the cost of the corn required to sustain it, providing farmers with a clear indicator of whether it is more profitable to sell corn directly or to use it as feed for hogs. A higher ratio suggests that raising hogs is more lucrative, whereas a lower ratio could incentivize selling the corn crop.

@@ -1,6 +1,12 @@
 ---
-title: "Long-only vs. market-neutral strategies (Algo Trading)"
-description: Explore the dynamics of algorithmic trading with a focus on long-only versus market-neutral strategies. Understand how these strategies cater to distinct risk profiles and market perspectives. Long-only strategies aim for profit in bullish markets while market-neutral strategies hedge against market risks by balancing long and short positions. Gain insights into these approaches to optimize your trading strategy and navigate financial markets effectively.
+category: trading_strategy
+description: Explore the dynamics of algorithmic trading with a focus on long-only
+  versus market-neutral strategies. Understand how these strategies cater to distinct
+  risk profiles and market perspectives. Long-only strategies aim for profit in bullish
+  markets while market-neutral strategies hedge against market risks by balancing
+  long and short positions. Gain insights into these approaches to optimize your trading
+  strategy and navigate financial markets effectively.
+title: Long-only vs. market-neutral strategies (Algo Trading)
 ---
 
 Algorithmic trading has markedly transformed financial markets by introducing advanced levels of automation and efficiency. By using sophisticated computer programs, algorithmic trading executes trades with a speed and precision unattainable by human traders, which allows market participants to capitalize on transient price movements and exploit market inefficiencies that arise for fractions of seconds. This technological advancement eliminates the emotional biases associated with human trading, aiming for more objective and data-driven decision-making processes.

@@ -1,6 +1,8 @@
 ---
-title: "Flat Dollar: Definition and Mechanism (Algo Trading)"
-description: "Explore the flat dollar concept in algorithmic trading to understand its implications on currency mechanisms and global trade. Discover stability benefits."
+category: quant_concept
+description: Explore the flat dollar concept in algorithmic trading to understand
+  its implications on currency mechanisms and global trade. Discover stability benefits.
+title: 'Flat Dollar: Definition and Mechanism (Algo Trading)'
 ---
 
 The currency mechanism plays a fundamental role in the financial world, serving as the system through which countries exchange goods and services across borders. At its core, it involves various elements, including exchange rates, monetary policies, and the intricate operations of financial institutions like central banks. These components collectively ensure that global trade and investment can function efficiently, impacting everything from the price of imported goods to the returns on foreign investments. Key factors influencing currency mechanisms include interest rates, inflation rates, and geopolitical events. The modulation in exchange rates can have profound effects on an economy, influencing inflation, employment, and overall economic growth.

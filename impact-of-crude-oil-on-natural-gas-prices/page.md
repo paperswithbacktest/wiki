@@ -1,6 +1,9 @@
 ---
-title: "Impact of Crude Oil on Natural Gas Prices (Algo Trading)"
-description: "Explore the complex relationship between crude oil and natural gas prices and the impact of algorithmic trading in the dynamic energy markets for informed strategies."
+category: trading_strategy
+description: Explore the complex relationship between crude oil and natural gas prices
+  and the impact of algorithmic trading in the dynamic energy markets for informed
+  strategies.
+title: Impact of Crude Oil on Natural Gas Prices (Algo Trading)
 ---
 
 In energy markets, natural gas prices and crude oil play pivotal roles in shaping global economic landscapes. These commodities are key drivers of energy production, transportation, and industrial activities, influencing both developed and emerging economies. Understanding the intricacies of these markets can provide valuable insights for investors and traders alike, allowing them to anticipate shifts and make informed decisions.

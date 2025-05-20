@@ -1,6 +1,8 @@
 ---
-title: "Nigerian Naira: History and Forex Examples (Algo Trading)"
-description: "Discover the history of the Nigerian Naira and its dynamic role in Forex markets with the rise of algorithmic trading transforming currency exchange strategies."
+category: quant_concept
+description: Discover the history of the Nigerian Naira and its dynamic role in Forex
+  markets with the rise of algorithmic trading transforming currency exchange strategies.
+title: 'Nigerian Naira: History and Forex Examples (Algo Trading)'
 ---
 
 The Nigerian Naira, introduced in 1973, has undergone a fascinating journey marked by economic transitions and policy shifts. Replacing the British pound, the Naira represented a significant step towards economic independence for Nigeria. Its journey through the Forex market reflects the dynamic nature of Nigeria's economy and the challenges it faces on both domestic and international fronts.

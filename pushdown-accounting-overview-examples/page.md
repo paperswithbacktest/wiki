@@ -1,6 +1,8 @@
 ---
-title: "Pushdown Accounting: Overview and Examples (Algo Trading)"
-description: "Explore the intersection of pushdown accounting and algorithmic trading in modern finance, highlighting their impact on financial reporting and transparency."
+category: quant_concept
+description: Explore the intersection of pushdown accounting and algorithmic trading
+  in modern finance, highlighting their impact on financial reporting and transparency.
+title: 'Pushdown Accounting: Overview and Examples (Algo Trading)'
 ---
 
 Financial reporting and modern accounting practices are increasingly intertwined in today's complex economic landscape. The integration of advanced technologies and innovative methods, such as pushdown accounting, algorithmic trading, and enhanced financial reporting standards, are shaping the future of business finance. These concepts, while distinct, converge to offer comprehensive insights into financial health, driving accurate decision-making and strategic forecasting.

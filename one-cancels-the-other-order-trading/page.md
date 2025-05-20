@@ -1,6 +1,8 @@
 ---
-title: "One-Cancels-the-Other Order in Trading (Algo Trading)"
-description: "Explore how One-Cancels-the-Other (OCO) orders enhance trading strategies by automating risk management, crucial for volatile markets and algorithmic trading."
+category: trading_strategy
+description: Explore how One-Cancels-the-Other (OCO) orders enhance trading strategies
+  by automating risk management, crucial for volatile markets and algorithmic trading.
+title: One-Cancels-the-Other Order in Trading (Algo Trading)
 ---
 
 Financial markets are a dynamic environment where trading strategies and tools constantly evolve. One popular tool among traders is the One-Cancels-the-Other (OCO) order, a sophisticated trading mechanism designed to manage risk and automate the trading process. OCO orders involve placing two conditional orders linked together so that executing one automatically cancels the other. This strategic tool can be particularly beneficial in volatile market conditions, reducing the need for constant monitoring and enabling quick adjustments to trading strategies. 

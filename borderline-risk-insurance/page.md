@@ -1,6 +1,9 @@
 ---
-title: "Borderline Risk in Insurance (Algo Trading)"
-description: "Explore the intricate interplay between borderline risk in insurance and algorithmic trading Learn how financial professionals optimize risk assessment for better decisions"
+category: quant_concept
+description: Explore the intricate interplay between borderline risk in insurance
+  and algorithmic trading Learn how financial professionals optimize risk assessment
+  for better decisions
+title: Borderline Risk in Insurance (Algo Trading)
 ---
 
 In the ever-evolving landscape of finance and insurance, risk assessment plays a crucial role in decision-making. Financial markets are inherently uncertain, with a myriad of factors influencing asset prices, interest rates, and the solvency of institutions. Similarly, insurance companies face the challenge of quantifying risks to determine suitable premiums, ensuring that they remain adequately capitalized to meet potential claims. The intersection of these fields brings to light the complex interplay between risk assessment, insurance policies, borderline risk, and algorithmic trading.

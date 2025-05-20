@@ -1,6 +1,8 @@
 ---
-title: "Tiger Economy: Overview and Market Examples (Algo Trading)"
-description: "Explore how Southeast Asia's tiger economies like Singapore and South Korea thrive through industrialization and algorithmic trading in financial markets."
+category: quant_concept
+description: Explore how Southeast Asia's tiger economies like Singapore and South
+  Korea thrive through industrialization and algorithmic trading in financial markets.
+title: 'Tiger Economy: Overview and Market Examples (Algo Trading)'
 ---
 
 The concept of tiger economies has gained widespread recognition, encapsulating nations that have undergone rapid economic growth and development due to strategic governmental policies, foreign investment, and export-driven strategies. Typically located in Southeast Asia, some of the most prominent examples include Singapore, Hong Kong, South Korea, and Taiwan. These economies have distinguished themselves by transitioning from agrarian bases to dynamic industrial powerhouses, leveraging their strategic geographic locations, skilled labor forces, and favorable business environments to boost economic performance.

@@ -1,6 +1,8 @@
 ---
-title: "Private Currency: Overview and Mechanisms (Algo Trading)"
-description: "Explore the transformative interplay of private currencies and algorithmic trading as they redefine financial markets and influence global economic systems."
+category: quant_concept
+description: Explore the transformative interplay of private currencies and algorithmic
+  trading as they redefine financial markets and influence global economic systems.
+title: 'Private Currency: Overview and Mechanisms (Algo Trading)'
 ---
 
 In the modern financial landscape, the interplay between currency mechanisms, private currency, and algorithmic trading has fundamentally reshaped global financial systems. As economies become increasingly interconnected, understanding these components is crucial for stakeholders across various industries striving to leverage these systems for growth and stability.

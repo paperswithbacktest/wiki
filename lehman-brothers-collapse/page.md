@@ -1,6 +1,9 @@
 ---
-title: "Lehman Brothers Collapse (Algo Trading)"
-description: "Explore the impact of algorithmic trading in Lehman Brothers' historic collapse during the 2008 financial crisis highlighting systemic risks and market volatility."
+category: quant_concept
+description: Explore the impact of algorithmic trading in Lehman Brothers' historic
+  collapse during the 2008 financial crisis highlighting systemic risks and market
+  volatility.
+title: Lehman Brothers Collapse (Algo Trading)
 ---
 
 The collapse of Lehman Brothers in 2008 is widely regarded as a pivotal event in the global financial crisis, marking the largest bankruptcy filing in U.S. history. This section serves as a comprehensive exploration of the complexity and impact of algorithmic trading in this financial upheaval. Algorithmic trading, characterized by the use of advanced computer algorithms to execute trades at unprecedented speeds, gained significant traction among financial institutions in the early 2000s. Lehman Brothers, a leading investment bank, became a focal point of financial scrutiny due to its extensive involvement in these automated trading strategies.

@@ -1,6 +1,8 @@
 ---
-title: "List of Fastest-Growing Restaurant Chains in the United States (Algo Trading)"
-description: "Discover the fastest-growing restaurant chains in the U.S. as they innovate menus and enhance dining experiences amid the rise of algorithmic trading."
+category: dataset
+description: Discover the fastest-growing restaurant chains in the U.S. as they innovate
+  menus and enhance dining experiences amid the rise of algorithmic trading.
+title: List of Fastest-Growing Restaurant Chains in the United States (Algo Trading)
 ---
 
 In an ever-changing world where dining experiences and technological advancements evolve rapidly, two sectors have emerged as pillars of substantial growth: restaurant chains in the United States and algorithmic trading platforms. The United States hospitality industry is experiencing a transformation as consumers increasingly seek gourmet and diverse dining options. Simultaneously, investors are turning to algorithmic trading platforms for smarter and more efficient trading solutions. This convergence of demand in dining and innovation in investment technology presents intriguing opportunities and challenges.

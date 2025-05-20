@@ -1,6 +1,9 @@
 ---
-title: "FTX Exchange Overview (Algo Trading)"
-description: "Discover how FTX revolutionized cryptocurrency trading with innovative algo trading features before its collapse highlighted critical insights into exchange operations."
+category: quant_concept
+description: Discover how FTX revolutionized cryptocurrency trading with innovative
+  algo trading features before its collapse highlighted critical insights into exchange
+  operations.
+title: FTX Exchange Overview (Algo Trading)
 ---
 
 The emergence of cryptocurrencies has transformed the financial landscape, offering new opportunities and challenges within a digital asset trading ecosystem. Central to this transformation are cryptocurrency exchanges, platforms that enable users to trade digital currencies, tokens, and other crypto assets. Among these platforms, FTX stood out as a significant entity in the market. Founded by Sam Bankman-Fried and Gary Wang in 2018, FTX quickly distinguished itself through its innovative trading solutions, attracting both retail and institutional investors worldwide.

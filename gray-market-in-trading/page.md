@@ -1,6 +1,8 @@
 ---
-title: "Gray Market in Trading (Algo Trading)"
-description: "Discover how gray market and algorithmic trading are transforming financial markets, offering insights into trading strategies and impacting market dynamics."
+category: quant_concept
+description: Discover how gray market and algorithmic trading are transforming financial
+  markets, offering insights into trading strategies and impacting market dynamics.
+title: Gray Market in Trading (Algo Trading)
 ---
 
 The financial markets have experienced substantial transformation with the emergence of modern trading techniques over recent decades. Among these innovations are gray market trading and algorithmic trading (algo trading), both of which have significantly influenced how traders and investors interact with markets.

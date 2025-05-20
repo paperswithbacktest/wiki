@@ -1,6 +1,13 @@
 ---
-title: "European Best Bid and Offer (Algo Trading)"
-description: "Discover how the European Best Bid and Offer (EBBO) system enhances transparency and efficiency in trading by providing access to the best transaction prices. This article explores the impact of algorithmic trading techniques and regulatory frameworks like MiFID II on EBBO practices, alongside technological advancements such as smart order routing. Learn about the role of EBBO in optimizing trades and promoting market integrity through the oversight of the European Securities and Markets Authority (ESMA)."
+category: quant_concept
+description: Discover how the European Best Bid and Offer (EBBO) system enhances transparency
+  and efficiency in trading by providing access to the best transaction prices. This
+  article explores the impact of algorithmic trading techniques and regulatory frameworks
+  like MiFID II on EBBO practices, alongside technological advancements such as smart
+  order routing. Learn about the role of EBBO in optimizing trades and promoting market
+  integrity through the oversight of the European Securities and Markets Authority
+  (ESMA).
+title: European Best Bid and Offer (Algo Trading)
 ---
 
 In financial markets, transparency and efficiency are central to developing effective trading strategies. The European Best Bid and Offer (EBBO) system plays an integral role in ensuring that investors gain access to the most advantageous transaction prices available. EBBO serves as a critical mechanism in providing a transparent pricing framework across various trading venues, enhancing investors' ability to make informed decisions.

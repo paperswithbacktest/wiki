@@ -1,6 +1,8 @@
 ---
-title: "Federal Housing Administration: Overview and History (Algo Trading)"
-description: "Explore the Federal Housing Administration’s history and role in promoting homeownership and how algorithmic trading is impacting the housing market today."
+category: quant_concept
+description: Explore the Federal Housing Administration’s history and role in promoting
+  homeownership and how algorithmic trading is impacting the housing market today.
+title: 'Federal Housing Administration: Overview and History (Algo Trading)'
 ---
 
 The Federal Housing Administration (FHA) has been a pivotal institution in promoting homeownership across the United States. Established in 1934, the FHA was a strategic response to the severe housing crisis that gripped the nation during the Great Depression. At that time, the number of Americans able to purchase homes plummeted due to economic instability and stringent lending practices. The FHA was created to address these challenges by providing accessible home financing options to individuals who were often excluded from traditional loan opportunities.

@@ -1,6 +1,10 @@
 ---
-title: "Overview of Bitfinex (Algo Trading)"
-description: "Explore Bitfinex's algorithmic trading features that empower traders in the fast-paced cryptocurrency market. Discover how advanced trading tools and innovative solutions on Bitfinex optimize strategies and enhance market participation, making it a leading choice for both retail and institutional investors."
+category: trading_strategy
+description: Explore Bitfinex's algorithmic trading features that empower traders
+  in the fast-paced cryptocurrency market. Discover how advanced trading tools and
+  innovative solutions on Bitfinex optimize strategies and enhance market participation,
+  making it a leading choice for both retail and institutional investors.
+title: Overview of Bitfinex (Algo Trading)
 ---
 
 Cryptocurrency trading has experienced a phenomenal rise over the past decade, evolving from a niche market into a global financial powerhouse. The demand for digital trading platforms is driven by the ever-growing interest in cryptocurrencies, which offer alternative investment opportunities and innovative financial solutions. Among these platforms, Bitfinex has established itself as a prominent cryptocurrency exchange, providing traders with a diverse range of services and tools to navigate the digital asset market effectively.

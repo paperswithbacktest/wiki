@@ -1,6 +1,8 @@
 ---
-title: "Terrence A. Duffy and CME Group (Algo Trading)"
-description: "Discover the impact of Terrence A. Duffy's leadership on CME Group's rise in algorithmic trading and global derivatives market advancements."
+category: quant_concept
+description: Discover the impact of Terrence A. Duffy's leadership on CME Group's
+  rise in algorithmic trading and global derivatives market advancements.
+title: Terrence A. Duffy and CME Group (Algo Trading)
 ---
 
 This article explores the significant impact of Terrence A. Duffy, Chairman and CEO of CME Group, on financial markets and algorithmic trading. As a leader in the financial industry, Duffy has played a crucial role in the growth and innovation of CME Group, transforming it from a regional exchange into a global leader in derivatives trading. His strategic vision and leadership have been instrumental in positioning CME Group at the forefront of technological advancements, particularly in the area of algorithmic trading.

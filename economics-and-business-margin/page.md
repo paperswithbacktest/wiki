@@ -1,6 +1,9 @@
 ---
-title: "Economics and Business: Margin (Algo Trading)"
-description: "Explore the vital role of margins in algorithmic trading as this article investigates into economic margins, business margins, and their impact on strategy and risk management."
+category: quant_concept
+description: Explore the vital role of margins in algorithmic trading as this article
+  investigates into economic margins, business margins, and their impact on strategy
+  and risk management.
+title: 'Economics and Business: Margin (Algo Trading)'
 ---
 
 In the world of finance, the term 'margin' encompasses a variety of meanings contingent on its specific use case. In economic and business contexts, understanding 'margin' becomes essential as it significantly influences trading strategies, profit calculations, and risk management. Recognizing the multifaceted nature of margins, this article examines their crucial role in algorithmic trading. By focusing on economic margins, business margins, and profit margins, the article highlights how these concepts facilitate efficient trading strategies and sound risk management, enabling traders to maximize returns effectively.

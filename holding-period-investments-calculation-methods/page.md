@@ -1,6 +1,11 @@
 ---
-title: "Holding Period in Investments and Calculation Methods (Algo Trading)"
-description: "Discover the essentials of holding periods in investments and their impact on trading strategies, especially in algorithmic trading. Learn how the duration of holding an asset influences profitability, risk, transaction costs, and tax implications. This guide investigates into the significance of calculating optimal holding periods to align with financial goals and optimize returns in varying market conditions."
+category: quant_concept
+description: Discover the essentials of holding periods in investments and their impact
+  on trading strategies, especially in algorithmic trading. Learn how the duration
+  of holding an asset influences profitability, risk, transaction costs, and tax implications.
+  This guide investigates into the significance of calculating optimal holding periods
+  to align with financial goals and optimize returns in varying market conditions.
+title: Holding Period in Investments and Calculation Methods (Algo Trading)
 ---
 
 In the complex world of finance, understanding the dynamics of holding periods in investment is crucial for investors and traders alike. Holding periods refer to the length of time an asset, such as stocks, bonds, or other financial instruments, is held by an investor before it is sold. The significance of holding periods lies in their direct impact on the profitability and risk profile of investments. 

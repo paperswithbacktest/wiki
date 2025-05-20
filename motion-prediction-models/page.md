@@ -1,7 +1,8 @@
 ---
-title: Understanding Motion Prediction Models in Machine Learning
+category: quant_concept
 description: Motion prediction models use camera and sensor data to forecast object
   positions, improving safety for autonomous vehicles. Discover more inside.
+title: Understanding Motion Prediction Models in Machine Learning
 ---
 
 ![Image](images/1.png)

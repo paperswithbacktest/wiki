@@ -1,6 +1,8 @@
 ---
-title: "Attachment Theory and Mechanisms (Algo Trading)"
-description: "Explore how attachment theory influences trading behavior and decision-making in algorithmic trading to develop more balanced and resilient strategies."
+category: quant_concept
+description: Explore how attachment theory influences trading behavior and decision-making
+  in algorithmic trading to develop more balanced and resilient strategies.
+title: Attachment Theory and Mechanisms (Algo Trading)
 ---
 
 Trading in the financial markets involves more than just understanding numbers and charts; it requires a deep comprehension of the underlying psychological and emotional dynamics. These dynamics are intricately connected to attachment theory, a psychological model that explains how early relationships with caregivers shape our emotional development and behaviors in adulthood. The key idea is that these early emotional experiences influence our approach to stress, risk-taking, and decision-making processes, all of which are critical components in trading.

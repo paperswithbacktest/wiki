@@ -1,6 +1,8 @@
 ---
-title: "Differences Between Portfolio Management and Financial Planning (Algo Trading)"
-description: "Explore investment strategies and the role of financial planning versus portfolio management in wealth building Understand the impact of algorithmic trading"
+category: trading_strategy
+description: Explore investment strategies and the role of financial planning versus
+  portfolio management in wealth building Understand the impact of algorithmic trading
+title: Differences Between Portfolio Management and Financial Planning (Algo Trading)
 ---
 
 Investment strategies, financial planning, portfolio management, and algorithmic trading are integral components in finance. These elements are crucial in the development and implementation of effective wealth management systems. By understanding their interconnections, investors can optimize their financial outcomes and improve their overall financial health.
@@ -124,4 +126,3 @@ Bergstra, James, et al., "Algorithms for Hyper-Parameter Optimization," 2011, ex
 Marcos Lopez de Prado's "Advances in Financial Machine Learning" offers practical techniques for applying machine learning to finance. It covers methodologies and algorithms useful for developing adaptive models that can adjust to the ever-changing financial markets. Topics such as financial data structures, strategy evaluation, and back-testing are discussed, which are essential for creating reliable trading algorithms.
 
 Ernest P. Chan's "Quantitative Trading: How to Build Your Own Algorithmic Trading Business" acts as a guide for aspiring quant traders. Chan illustrates the process of developing, testing, and deploying trading strategies using algorithmic approaches. The book emphasizes practical aspects including strategy formulation, risk management, and execution, along with programming examples primarily in Python, that are vital for building efficient and scalable algorithmic trading systems.
-

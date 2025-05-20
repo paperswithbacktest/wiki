@@ -1,6 +1,8 @@
 ---
-title: "Differences Between Brokers and Market Makers (Algo Trading)"
-description: "Explore the roles of brokers and market makers in financial markets including their interaction with algorithmic trading to enhance liquidity and efficiency."
+category: quant_concept
+description: Explore the roles of brokers and market makers in financial markets including
+  their interaction with algorithmic trading to enhance liquidity and efficiency.
+title: Differences Between Brokers and Market Makers (Algo Trading)
 ---
 
 In the rapid and dynamic world of financial markets, understanding the key players and mechanisms is essential for any investor or trader. This article explores the critical roles of market makers, brokers, and algorithmic trading within financial markets. Market makers are entities that provide liquidity by being ready to buy and sell assets at any time, thus facilitating smooth operations and stability in trading. Brokers act as intermediaries between buyers and sellers, executing trades on behalf of their clients while ensuring compliance with legal and financial standards. Algorithmic trading, on the other hand, leverages technology to execute trading strategies automatically and with precision, enhancing efficiency and expanding trading capabilities.

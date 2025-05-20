@@ -1,6 +1,8 @@
 ---
-title: "Comparison of BND and AGG Bond ETFs (Algo Trading)"
-description: "Explore the benefits of BND and AGG bond ETFs and their integration with algorithmic trading to enhance investment strategies and manage risk effectively."
+category: trading_strategy
+description: Explore the benefits of BND and AGG bond ETFs and their integration with
+  algorithmic trading to enhance investment strategies and manage risk effectively.
+title: Comparison of BND and AGG Bond ETFs (Algo Trading)
 ---
 
 Bond Exchange-Traded Funds (ETFs) represent a pivotal component of the modern investment landscape, offering diversification, liquidity, and cost-efficiency. These financial instruments function by tracking a basket of bonds, such as government, corporate, or municipal bonds, thereby providing investors with exposure to a wide range of fixed-income securities without the need to purchase individual bonds.

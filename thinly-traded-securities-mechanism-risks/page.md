@@ -1,6 +1,8 @@
 ---
-title: "Thinly Traded Securities: Definition, Mechanism, and Risks (Algo Trading)"
-description: "Explore the definition mechanism and risks associated with thinly traded securities and discover how algorithmic trading influences such volatile markets."
+category: quant_concept
+description: Explore the definition mechanism and risks associated with thinly traded
+  securities and discover how algorithmic trading influences such volatile markets.
+title: 'Thinly Traded Securities: Definition, Mechanism, and Risks (Algo Trading)'
 ---
 
 Thinly traded securities are financial instruments that experience low trade volumes and wide bid-ask spreads. These characteristics result from limited participation in the market, leading to reduced liquidity. As a consequence, investors may find it challenging to execute large transactions without significantly affecting the asset's price. Thinly traded securities are commonly found in over-the-counter (OTC) markets, where securities are not listed on formal exchanges and trading occurs directly between parties. Due to their nature, these securities pose higher liquidity risks and are often subject to greater price volatility. This can make them less attractive to risk-averse investors but potentially rewarding for those willing to navigate the uncertainty.

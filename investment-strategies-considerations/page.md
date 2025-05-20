@@ -1,6 +1,9 @@
 ---
-title: "Investment Strategies and Considerations (Algo Trading)"
-description: "Explore the synergy between investment strategies and algo trading to enhance financial planning understand diverse asset classes and optimize portfolio management."
+category: trading_strategy
+description: Explore the synergy between investment strategies and algo trading to
+  enhance financial planning understand diverse asset classes and optimize portfolio
+  management.
+title: Investment Strategies and Considerations (Algo Trading)
 ---
 
 Investing and financial planning are essential components in achieving long-term financial stability and growth. They provide a structured approach to accumulating, managing, and preserving wealth over time. In recent years, algorithmic trading, often referred to as 'algo trading,' has gained significant traction in financial markets. This method utilizes pre-programmed computer algorithms to execute trades at optimal speeds and efficiencies, greatly enhancing trading precision and reducing emotional biases.

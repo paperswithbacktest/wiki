@@ -1,6 +1,9 @@
 ---
-title: "Maker-Taker Fee Model (Algo Trading)"
-description: "Explore the impact of the maker-taker fee model on liquidity and market stability in algorithmic trading. Understand its role in trading strategies and market dynamics."
+category: quant_concept
+description: Explore the impact of the maker-taker fee model on liquidity and market
+  stability in algorithmic trading. Understand its role in trading strategies and
+  market dynamics.
+title: Maker-Taker Fee Model (Algo Trading)
 ---
 
 The maker-taker fee model holds substantial importance in market structure, particularly for algorithmic trading. This model operates by rewarding market makers with liquidity rebates, providing them an incentive to maintain and enhance market liquidity. Conversely, it imposes fees on those extracting liquidity, effectively charging traders who remove orders from the market. This dual-structure design encourages the posting of orders that contribute to market depth and stability, thus influencing trading behaviors significantly.

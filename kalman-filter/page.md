@@ -1,9 +1,12 @@
 ---
-title: "Python Kalman Filter: The Ultimate Guide"
-description: Dive into the world of algorithmic trading using Python, the premier tool for finance sector due to its rich libraries, community support, interactivity, integration capabilities, and flexibility. Learn why Python is preferred over other contenders and how to get started with installation and best practices. Explore real-world success stories and begin your trading journey today.
+category: quant_concept
+description: Dive into the world of algorithmic trading using Python, the premier
+  tool for finance sector due to its rich libraries, community support, interactivity,
+  integration capabilities, and flexibility. Learn why Python is preferred over other
+  contenders and how to get started with installation and best practices. Explore
+  real-world success stories and begin your trading journey today.
+title: 'Python Kalman Filter: The Ultimate Guide'
 ---
-
-
 
 Algorithmic trading, often referred to as algo-trading, harnesses computer programs to automate the process of buying and selling securities based on predefined criteria. By eliminating human emotions and allowing for rapid execution of trades at large scales, it has fundamentally transformed the financial world, accounting for a significant portion of daily trading volume on major stock exchanges.
 

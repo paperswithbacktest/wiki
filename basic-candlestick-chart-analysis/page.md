@@ -1,6 +1,12 @@
 ---
-title: "Basic Candlestick Chart Analysis (Algo Trading)"
-description: "Explore the essential role of candlestick charts in technical analysis and algorithmic trading highlighting their contribution to financial market interpretation This article investigates into the basic patterns like Hammer Doji and Engulfing explores their significance in predicting market trends and provides insights into how these charts are integrated into modern trading practices incorporating technical indicators to enhance decision-making strategies"
+category: quant_concept
+description: Explore the essential role of candlestick charts in technical analysis
+  and algorithmic trading highlighting their contribution to financial market interpretation
+  This article investigates into the basic patterns like Hammer Doji and Engulfing
+  explores their significance in predicting market trends and provides insights into
+  how these charts are integrated into modern trading practices incorporating technical
+  indicators to enhance decision-making strategies
+title: Basic Candlestick Chart Analysis (Algo Trading)
 ---
 
 The world of financial markets is vast and intricate, with various tools and techniques that traders and investors use to make sense of complex data. Among these tools, candlestick charts offer a visual representation of price movements, allowing for an insightful interpretation of market trends over time. Originating in Japan, candlestick charts have become a fundamental element of technical analysis, which is a popular method used to predict future price movements based on historical data patterns.

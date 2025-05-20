@@ -1,6 +1,8 @@
 ---
-title: "Market Maker Role in Financial Markets (Algo Trading)"
-description: "Explore the pivotal role of market makers in financial markets and how algorithmic trading has enhanced liquidity efficiency and stability in asset trading."
+category: quant_concept
+description: Explore the pivotal role of market makers in financial markets and how
+  algorithmic trading has enhanced liquidity efficiency and stability in asset trading.
+title: Market Maker Role in Financial Markets (Algo Trading)
 ---
 
 Financial markets are intricate systems characterized by the dynamic interplay of numerous factors. Among these, liquidity and the presence of market makers are vital for ensuring seamless operations and market stability. Liquidity, in this context, refers to the ease with which assets can be bought or sold in the market without causing significant price movements. A liquid market is one where executed trades occur swiftly and with minimal impact on asset prices, thereby reducing market volatility and facilitating efficient price discovery.

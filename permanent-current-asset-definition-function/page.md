@@ -1,6 +1,9 @@
 ---
-title: "Permanent Current Asset: Definition and Function (Algo Trading)"
-description: "Explore the essential role of permanent current assets in asset management and algorithmic trading, crucial for optimizing financial strategies and enhancing decision-making."
+category: quant_concept
+description: Explore the essential role of permanent current assets in asset management
+  and algorithmic trading, crucial for optimizing financial strategies and enhancing
+  decision-making.
+title: 'Permanent Current Asset: Definition and Function (Algo Trading)'
 ---
 
 In finance, understanding the foundational concepts of permanent current assets, asset management, financial terms, and algorithmic trading is essential for success. This article seeks to explore these critical concepts and discuss their influence on modern financial markets. For investors, traders, and financial managers, grasping these ideas can provide a competitive advantage by enhancing their decision-making capabilities.
@@ -132,4 +135,3 @@ Jansen, S. *Machine Learning for Algorithmic Trading*. Github. This resource pro
 Chan, E. P. *Quantitative Trading: How to Build Your Own Algorithmic Trading Business*. Wiley. Chan details the process of developing and running a [quantitative trading](/wiki/quantitative-trading) business. The book is invaluable for those interested in understanding the algorithmic trading landscape and offers practical advice on implementing trading strategies, managing risk, and utilizing financial models.
 
 Aronson, D. R. *Evidence-Based Technical Analysis: Applying the Scientific Method and Statistical Inference to Trading Signals*. Aronson's work emphasizes the use of the scientific method to improve the reliability and validity of technical analysis in trading. By adopting a data-driven approach, Aronson advocates for systematic and statistically sound trading methods.
-

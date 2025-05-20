@@ -1,6 +1,14 @@
 ---
-title: "Capital Budgeting and Its Mechanisms (Algo Trading)"
-description: "Explore the critical components of capital budgeting, investment appraisal, and algorithmic trading in this comprehensive guide. Delve into how these financial mechanisms work together to enhance decision-making capabilities, helping investors and businesses optimize financial performance and manage risks effectively. Understand the essential role of capital budgeting in evaluating long-term investments and learn about algorithmic trading's impact on modern financial markets. This article provides valuable insights into integrating these strategies for improved financial outcomes and sustained growth."
+category: quant_concept
+description: Explore the critical components of capital budgeting, investment appraisal,
+  and algorithmic trading in this comprehensive guide. Delve into how these financial
+  mechanisms work together to enhance decision-making capabilities, helping investors
+  and businesses optimize financial performance and manage risks effectively. Understand
+  the essential role of capital budgeting in evaluating long-term investments and
+  learn about algorithmic trading's impact on modern financial markets. This article
+  provides valuable insights into integrating these strategies for improved financial
+  outcomes and sustained growth.
+title: Capital Budgeting and Its Mechanisms (Algo Trading)
 ---
 
 In the rapidly evolving world of finance, effective management strategies are becoming increasingly sophisticated, intertwining multiple crucial concepts such as capital budgeting, investment appraisal, and algorithmic trading. These elements are essential for helping investors and businesses make informed decisions that optimize financial performance and manage risks. With the complexity of modern financial markets, understanding these components is crucial for those aiming to navigate the financial landscape successfully.

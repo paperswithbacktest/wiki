@@ -1,6 +1,9 @@
 ---
-title: "Regulation EE Overview and FAQs (Algo Trading)"
-description: "Explore the essentials of Regulation EE and its impact on algorithmic trading Learn about netting efficiency and risk management in high-speed financial markets"
+category: quant_concept
+description: Explore the essentials of Regulation EE and its impact on algorithmic
+  trading Learn about netting efficiency and risk management in high-speed financial
+  markets
+title: Regulation EE Overview and FAQs (Algo Trading)
 ---
 
 In today's high-speed trading environment, understanding the intricacies of financial regulation is not just advantageous but essential for effective participation in financial markets. One regulation that has become particularly significant in this context is Regulation EE, administered by the U.S. Federal Reserve Board. This regulation has carved its role as a critical component of the financial regulatory fabric, especially for entities engaged in algorithmic trading.

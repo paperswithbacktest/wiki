@@ -1,6 +1,9 @@
 ---
-title: "Deferred Equity: Overview and Applications (Algo Trading)"
-description: "Explore the strategic blend of deferred equity and algorithmic trading to enhance portfolio performance offering flexibility and precision in investment strategies."
+category: quant_concept
+description: Explore the strategic blend of deferred equity and algorithmic trading
+  to enhance portfolio performance offering flexibility and precision in investment
+  strategies.
+title: 'Deferred Equity: Overview and Applications (Algo Trading)'
 ---
 
 Investment strategies are fundamental to effective financial planning, providing a framework for balancing risk and reward in an investor's portfolio. This balancing act has become increasingly sophisticated with the advent of innovative instruments and technological advancements in the financial sector. Among these, deferred equity and algorithmic trading have emerged as prominent tools for investors seeking to enhance their portfolio performance.

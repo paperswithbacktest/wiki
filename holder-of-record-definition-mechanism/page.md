@@ -1,6 +1,8 @@
 ---
-title: "Holder of Record: Definition and Mechanism (Algo Trading)"
-description: "Explore the holder of record, stock ownership, and algorithmic trading in financial markets to enhance your investment strategies and decision-making skills."
+category: quant_concept
+description: Explore the holder of record, stock ownership, and algorithmic trading
+  in financial markets to enhance your investment strategies and decision-making skills.
+title: 'Holder of Record: Definition and Mechanism (Algo Trading)'
 ---
 
 In today's complex financial markets, grasping key financial terminology is essential for both individual and institutional investors. This article examines the interconnected nature of several important financial concepts: holder of record, stock ownership, and algorithmic trading. These elements serve as fundamental components in the financial ecosystem, each playing a vital role in the investment process.

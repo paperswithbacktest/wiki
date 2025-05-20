@@ -1,6 +1,9 @@
 ---
-title: "American Dream: Concept, Examples, and Measurement (Algo Trading)"
-description: "Explore the evolution of the American Dream and how algorithmic trading exemplifies new pathways to success through innovation technology and financial independence."
+category: quant_concept
+description: Explore the evolution of the American Dream and how algorithmic trading
+  exemplifies new pathways to success through innovation technology and financial
+  independence.
+title: 'American Dream: Concept, Examples, and Measurement (Algo Trading)'
 ---
 
 The American Dream has long been a symbol of hope and opportunity, representing the idea that anyone, regardless of their background, can achieve success through hard work and determination. Historically envisioned as a pursuit of prosperity and better living standards, its definition has evolved over generations, shaped by changing societal values and economic landscapes. The traditional markers of the American Dream, such as homeownership and career stability, are increasingly complemented, if not supplanted, by notions of entrepreneurship, financial independence, and personal fulfillment.

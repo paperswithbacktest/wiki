@@ -1,6 +1,9 @@
 ---
-title: "Considerations for Delaying Investment in Marijuana Stocks (Algo Trading)"
-description: "Explore the financial risks and opportunities in marijuana stock investments through algorithmic trading strategies Learn to balance potential returns and market volatility"
+category: trading_strategy
+description: Explore the financial risks and opportunities in marijuana stock investments
+  through algorithmic trading strategies Learn to balance potential returns and market
+  volatility
+title: Considerations for Delaying Investment in Marijuana Stocks (Algo Trading)
 ---
 
 The marijuana industry has emerged as a significant sector within both the pharmaceutical and recreational markets, characterized by its rapid growth and expansive potential for investment. With the legalization wave sweeping across several countries, marijuana stocks have captivated investors due to the alluring promise of high returns. The industry's growth trajectory is underpinned by shifting public perceptions, legislative changes, and evolving consumption trends, leading to an influx of capital into marijuana-focused businesses and stocks.

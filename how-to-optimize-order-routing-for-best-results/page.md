@@ -1,9 +1,12 @@
 ---
-title: "How to optimize order routing for best results?"
-description: "Learn how to optimize order routing for best results in high-speed trading environments. Analyze market structures, use intelligent routing algorithms, manage latency, review costs, evaluate execution quality, and regularly adjust your strategy. Properly executed, these steps can improve execution speed, reduce costs, and provide a competitive advantage."
+category: trading_strategy
+description: Learn how to optimize order routing for best results in high-speed trading
+  environments. Analyze market structures, use intelligent routing algorithms, manage
+  latency, review costs, evaluate execution quality, and regularly adjust your strategy.
+  Properly executed, these steps can improve execution speed, reduce costs, and provide
+  a competitive advantage.
+title: How to optimize order routing for best results?
 ---
-
-
 
 In today's fast-paced market environment, efficient order routing stands as a critical component for businesses aiming to minimize costs and maximize profits. The ability to strategically manage the distribution of orders across various channels ensures that delivery is not only swift but also cost-effective, which is essential in maintaining a competitive edge.
 
@@ -160,4 +163,3 @@ In conclusion, a well-optimized order routing system not only reduces costs and 
 ## References & Further Reading
 
 [1]: Kearns, M., & Nevmyvaka, Y. (2013). ["Machine Learning for Market Microstructure and High-Frequency Trading."](https://www.cis.upenn.edu/~mkearns/papers/KearnsNevmyvakaHFTRiskBooks.pdf) Handbook of Financial Data and Risk Information.
-

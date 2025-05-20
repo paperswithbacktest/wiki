@@ -1,6 +1,9 @@
 ---
-title: "Held-to-Maturity Securities: Overview and Examples (Algo Trading)"
-description: "Discover the benefits of held-to-maturity securities and algorithmic trading in fixed income markets Learn how these tools enhance stability and investment strategy"
+category: quant_concept
+description: Discover the benefits of held-to-maturity securities and algorithmic
+  trading in fixed income markets Learn how these tools enhance stability and investment
+  strategy
+title: 'Held-to-Maturity Securities: Overview and Examples (Algo Trading)'
 ---
 
 In the ever-evolving landscape of financial investments, fixed income securities play a vital role in both portfolio diversification and risk management. These investments provide investors with a predictable income stream and are typically viewed as safer than other asset classes like equities. Among fixed income assets, held-to-maturity (HTM) securities are particularly attractive for those seeking stability and certainty in returns. HTM securities are debt instruments that investors commit to holding until a specified maturity date. This commitment reflects the investor's confidence in the creditworthiness of the issuer and the stability of the securities' returns.

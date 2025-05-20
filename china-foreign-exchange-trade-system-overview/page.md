@@ -1,6 +1,8 @@
 ---
-title: "China Foreign Exchange Trade System Overview (Algo Trading)"
-description: "Explore the pivotal role of the China Foreign Exchange Trade System as it drives algorithmic trading and innovation in China's currency markets."
+category: quant_concept
+description: Explore the pivotal role of the China Foreign Exchange Trade System as
+  it drives algorithmic trading and innovation in China's currency markets.
+title: China Foreign Exchange Trade System Overview (Algo Trading)
 ---
 
 The China Foreign Exchange Trade System (CFETS) plays a crucial role in China's currency market, acting as a central hub for interbank trading and foreign exchange activities. Established in 1994 by the People’s Bank of China, CFETS was designed to enhance the transparency and efficiency of China's financial markets, providing a platform where major financial institutions can conduct currency trading. Over the years, CFETS has evolved to meet the changing dynamics of the global economy by incorporating advanced technologies, including algorithmic trading.

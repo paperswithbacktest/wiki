@@ -1,6 +1,9 @@
 ---
-title: "Strategies for Pre-Market and After-Hours Trading (Algo Trading)"
-description: "Explore pre-market and after-hours trading strategies to enhance your trading, utilizing algorithmic approaches to navigate volatility and liquidity challenges effectively."
+category: trading_strategy
+description: Explore pre-market and after-hours trading strategies to enhance your
+  trading, utilizing algorithmic approaches to navigate volatility and liquidity challenges
+  effectively.
+title: Strategies for Pre-Market and After-Hours Trading (Algo Trading)
 ---
 
 In the evolving world of stock trading, after-hours and pre-market trading have become essential tools for active traders and investors aiming to enhance their investment strategies. These trading sessions, occurring outside the standard trading hours of 9:30 a.m. to 4 p.m. Eastern Time (ET), present unique opportunities for market participants to react swiftly to news and events. However, they also pose significant challenges, often marked by heightened volatility and constraints on liquidity due to lower trading volumes.

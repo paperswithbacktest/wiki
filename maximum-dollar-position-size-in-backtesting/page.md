@@ -1,6 +1,13 @@
 ---
-title: "Maximum dollar position size in backtesting (Algo Trading)"
-description: Discover how to determine the maximum dollar position size in backtesting for algorithmic trading. Learn the importance of position sizing for risk management and strategic optimization. Explore backtesting principles and tips to refine trading strategies using historical data. Understand key considerations like the Sharpe ratio to ensure robust risk-adjusted returns. Enhance your strategy's performance and achieve lasting success in the fast-paced world of algo trading by mastering these essential techniques.
+category: trading_strategy
+description: Discover how to determine the maximum dollar position size in backtesting
+  for algorithmic trading. Learn the importance of position sizing for risk management
+  and strategic optimization. Explore backtesting principles and tips to refine trading
+  strategies using historical data. Understand key considerations like the Sharpe
+  ratio to ensure robust risk-adjusted returns. Enhance your strategy's performance
+  and achieve lasting success in the fast-paced world of algo trading by mastering
+  these essential techniques.
+title: Maximum dollar position size in backtesting (Algo Trading)
 ---
 
 Algorithmic trading has experienced substantial growth over the years, revolutionizing the way traders engage with financial markets. By employing computer algorithms to automate buying and selling decisions, traders can execute numerous transactions at speeds and frequencies that are impossible for human traders. Central to successful algorithmic trading is the implementation of sound strategies that guide these automated decisions.

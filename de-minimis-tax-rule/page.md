@@ -1,6 +1,8 @@
 ---
-title: "De Minimis Tax Rule (Algo Trading)"
-description: "Learn about the de minimis tax rule and its impact on algorithmic trading strategies. Understand how this rule affects bond taxation and trading optimization."
+category: quant_concept
+description: Learn about the de minimis tax rule and its impact on algorithmic trading
+  strategies. Understand how this rule affects bond taxation and trading optimization.
+title: De Minimis Tax Rule (Algo Trading)
 ---
 
 In the world of financial markets, tax liabilities and strategies significantly impact trading outcomes. For traders involved in algorithmic trading, understanding tax rules such as the de minimis calculation becomes essential, as it influences their overall tax strategy significantly. The de minimis tax rule is crucial for determining how certain financial instruments, particularly discount bonds, are taxed. This rule affects algorithmic traders who often engage in bond trading by delineating how discounts on bond acquisitions are treated for tax purposes. 

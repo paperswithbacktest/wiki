@@ -1,8 +1,9 @@
 ---
-title: Understanding TD-VAE and Generative Sequence Models in Machine Learning
+category: quant_concept
 description: Generative sequence models explain how machines create text music or
   DNA sequences by learning patterns in data with TD-VAE insights included Discover
   more inside
+title: Understanding TD-VAE and Generative Sequence Models in Machine Learning
 ---
 
 ![Image](images/1.png)

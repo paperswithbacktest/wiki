@@ -1,6 +1,8 @@
 ---
-title: "Aftermarket Report (Algo Trading)"
-description: "Explore the transformative impact of algorithmic trading in modern finance Uncover market trends and aftermarket implications that drive trading efficiency"
+category: quant_concept
+description: Explore the transformative impact of algorithmic trading in modern finance
+  Uncover market trends and aftermarket implications that drive trading efficiency
+title: Aftermarket Report (Algo Trading)
 ---
 
 Algorithmic trading, often referred to as algo trading, involves the use of computer programs to execute trading activities based on pre-established criteria. These algorithms enable the automation of the trading process, eliminating human intervention except in the development and monitoring phases. This automation is primarily designed to enhance trading efficiency and optimize execution by facilitating faster and more precise trade orders. The integration of artificial intelligence (AI) and machine learning (ML) within these systems has considerably transformed trading strategies utilized by both individual traders and large institutional investors. These advancements have introduced sophisticated methods of analyzing vast datasets, recognizing patterns, and making informed trading decisions with minimal latency.

@@ -1,7 +1,8 @@
 ---
-title: Image Dataset Comparison Metrics In Machine Learning
+category: dataset
 description: Image dataset comparison metrics help you quantify similarity and quality
   across image sets using SSIM PSNR and MSE effectively Discover more inside.
+title: Image Dataset Comparison Metrics In Machine Learning
 ---
 
 ![Image](images/1.png)

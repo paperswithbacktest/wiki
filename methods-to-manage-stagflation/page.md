@@ -1,6 +1,9 @@
 ---
-title: "Methods to Manage Stagflation (Algo Trading)"
-description: "Explore methods to manage stagflation using algorithmic trading to enhance market stability and efficiency while tackling the challenges of economic stagnation and rising inflation."
+category: trading_strategy
+description: Explore methods to manage stagflation using algorithmic trading to enhance
+  market stability and efficiency while tackling the challenges of economic stagnation
+  and rising inflation.
+title: Methods to Manage Stagflation (Algo Trading)
 ---
 
 In recent years, economies worldwide have grappled with the resurgent challenge of stagflation, a dual predicament characterized by stagnant economic growth and rising inflation rates. This duality poses significant hurdles for policymakers traditionally reliant on tools that address either inflation or stagnation but not both simultaneously. The condition disrupts the conventional economic balance, straining resources and complicating interventions aimed at stabilization.
@@ -150,4 +153,3 @@ Lopez de Prado, M. (2018). "Advances in Financial Machine Learning." Wiley. Lope
 Aronson, D. R. (2006). "Evidence-Based Technical Analysis." Wiley. Aronson's book introduces a scientific approach to technical analysis, emphasizing empirical research and data-driven decision-making. The principles outlined can enhance algorithmic trading strategies by providing robust foundations for developing models that withstand the unpredictable nature of stagflation-influenced markets.
 
 Jansen, S. (2020). "Machine Learning for Algorithmic Trading: Second Edition." Packt Publishing. Jansen's work investigates into the practical implementation of machine learning for trading applications. Covering a wide range of techniques, from basic supervised learning to complex neural networks, this resource is invaluable for traders looking to optimize their strategies in fluctuating economic conditions, such as those presented by stagflation.
-

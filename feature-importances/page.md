@@ -1,7 +1,8 @@
 ---
-title: Understanding Feature Importance in Machine Learning Models
+category: quant_concept
 description: Feature importance in machine learning uncovers the most influential
   predictors to simplify models and boost accuracy Discover more inside today.
+title: Understanding Feature Importance in Machine Learning Models
 ---
 
 ![Image](images/1.png)

@@ -1,6 +1,8 @@
 ---
-title: "Asset Turnover Ratio (Algo Trading)"
-description: "Explore the synergy between asset turnover ratios and algorithmic trading to enhance business efficiency and strategic advantage in a competitive market landscape."
+category: quant_concept
+description: Explore the synergy between asset turnover ratios and algorithmic trading
+  to enhance business efficiency and strategic advantage in a competitive market landscape.
+title: Asset Turnover Ratio (Algo Trading)
 ---
 
 In today's fast-paced financial landscape, enhancing business efficiency is crucial for sustained success. As companies navigate a complex market environment, the quest for optimizing performance and resource use becomes paramount. This article explores the intersection between business efficiency, financial ratios, asset turnover, and algorithmic trading, shedding light on how these elements interact to drive profitability and strategic advantage.

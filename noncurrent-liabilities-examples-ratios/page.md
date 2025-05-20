@@ -1,6 +1,9 @@
 ---
-title: "Noncurrent Liabilities: Examples and Ratios (Algo Trading)"
-description: "Explore the crucial role of noncurrent liabilities and financial ratios in algo trading strategies and financial health assessment for informed risk management decisions."
+category: trading_strategy
+description: Explore the crucial role of noncurrent liabilities and financial ratios
+  in algo trading strategies and financial health assessment for informed risk management
+  decisions.
+title: 'Noncurrent Liabilities: Examples and Ratios (Algo Trading)'
 ---
 
 This article explores the intersection of financial ratios, long-term debt, noncurrent liabilities, and algorithmic trading, providing an in-depth analysis of their significance in the financial sphere. Financial metrics such as the debt ratio and leverage ratio are critical in evaluating a company's financial health and are pivotal in optimizing trading strategies. These ratios assess a company's ability to meet its long-term obligations and how effectively it utilizes borrowed funds to generate earnings. For instance, the debt ratio is calculated as follows:
@@ -186,4 +189,3 @@ Damodaran, A. (2012). "Investment Valuation: Tools and Techniques for Determinin
 Professional literature on algorithmic trading and financial ratios expands on the practical applications of these concepts in modern trading environments. Books and articles in this field discuss the integration of financial metrics into algorithmic models, highlighting how quantitative and financial analyses are combined to inform trading decisions. Research papers and textbooks emphasize methodologies for automating the calculation and monitoring of financial ratios, crucial for alerting traders to changes in a company's financial health.
 
 Further reading includes exploring advanced resources such as financial datasets and [machine learning](/wiki/machine-learning) algorithms to refine trading strategies, utilizing Python libraries such as pandas for data manipulation, and incorporating financial ratios into predictive models. The combination of financial theory, algorithmic trading insights, and programming skills enables traders to develop robust, data-driven trading frameworks.
-

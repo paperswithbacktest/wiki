@@ -1,6 +1,9 @@
 ---
-title: "Conditional Order in Financial Markets (Algo Trading)"
-description: "Explore the synergy between conditional order trading and algo trading to enhance trading efficiency by setting criteria-driven strategies for automated execution."
+category: trading_strategy
+description: Explore the synergy between conditional order trading and algo trading
+  to enhance trading efficiency by setting criteria-driven strategies for automated
+  execution.
+title: Conditional Order in Financial Markets (Algo Trading)
 ---
 
 In financial markets, traders and investors are constantly seeking methods to enhance their trading efficiency and profitability. One such method that has gained popularity is the use of conditional order trading, which, when combined with algorithmic (algo) trading, offers a powerful toolset for executing trades. Conditional order trading allows the specification of criteria that must be met for trades to occur, such as price levels or time frames. When these criteria are integrated into algorithm-driven processes, trades can be executed with increased precision and speed, minimizing human error and emotional decision-making.

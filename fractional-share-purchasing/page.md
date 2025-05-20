@@ -1,6 +1,14 @@
 ---
-title: "Fractional Share Purchasing (Algo Trading)"
-description: "Discover how fractional share purchasing and algorithmic trading are transforming investment strategies by making the stock market more accessible and efficient. This article explores the benefits of fractional shares, allowing investors to buy portions of stocks for diversification, even with limited capital. It also investigates into the automation and precision of algorithmic trading, which optimizes trade execution by leveraging technology for faster and more informed decisions. Learn how these innovations democratize finance and enhance participation in trading, while also considering potential limitations and complexities."
+category: trading_strategy
+description: Discover how fractional share purchasing and algorithmic trading are
+  transforming investment strategies by making the stock market more accessible and
+  efficient. This article explores the benefits of fractional shares, allowing investors
+  to buy portions of stocks for diversification, even with limited capital. It also
+  investigates into the automation and precision of algorithmic trading, which optimizes
+  trade execution by leveraging technology for faster and more informed decisions.
+  Learn how these innovations democratize finance and enhance participation in trading,
+  while also considering potential limitations and complexities.
+title: Fractional Share Purchasing (Algo Trading)
 ---
 
 The stock market has undergone significant transformations over the years, evolving to incorporate a myriad of investment strategies and technological advancements. These innovations aim to enhance investors' ability to maximize returns while effectively managing risks. Among such advancements, the concept of fractional shares has emerged as a pivotal tool, enabling investors to purchase a portion of a stock rather than a whole unit. This approach opens the door to diversification and affordability, allowing individuals with limited capital to construct varied investment portfolios.

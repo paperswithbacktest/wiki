@@ -1,6 +1,9 @@
 ---
-title: "Section 1231 Property and Tax Treatment (Algo Trading)"
-description: "Explore Section 1231 property tax advantages for algorithmic trading, balancing capital gains and ordinary losses to enhance investment strategies and optimize returns."
+category: quant_concept
+description: Explore Section 1231 property tax advantages for algorithmic trading,
+  balancing capital gains and ordinary losses to enhance investment strategies and
+  optimize returns.
+title: Section 1231 Property and Tax Treatment (Algo Trading)
 ---
 
 In the complex world of taxation, different types of property and their respective tax treatments can drastically affect investment outcomes. The U.S. Internal Revenue Code, with its numerous sections and provisions, plays a pivotal role in determining how investments are taxed. It is imperative for investors and business owners to understand these intricate details to maximize their returns and optimize their tax liabilities.

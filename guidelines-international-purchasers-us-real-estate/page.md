@@ -1,6 +1,9 @@
 ---
-title: "Guidelines for International Purchasers of U.S. Real Estate (Algo Trading)"
-description: "Discover how algorithmic trading is transforming international real estate investments in the U.S. market Learn strategies to navigate this evolving landscape effectively"
+category: trading_strategy
+description: Discover how algorithmic trading is transforming international real estate
+  investments in the U.S. market Learn strategies to navigate this evolving landscape
+  effectively
+title: Guidelines for International Purchasers of U.S. Real Estate (Algo Trading)
 ---
 
 The U.S. real estate market has been a long-standing focal point for foreign investors, drawn by the nation's economic stability, transparent legal framework, and diverse investment opportunities. Historically, these characteristics have provided a secure environment for wealth preservation and growth, facilitating both short-term gains and long-term asset appreciation. The allure of investing in U.S. real estate is further bolstered by strategic geographical locations, such as major metropolitan areas, which consistently demonstrate robust housing demand and resilient market performance.

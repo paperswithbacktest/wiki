@@ -1,6 +1,8 @@
 ---
-title: "Schedule TO-T (Algo Trading)"
-description: "Explore the complexities of Schedule TO-T and its vital role in tender offers in relation to algorithmic trading ensuring transparency and strategic leverage."
+category: quant_concept
+description: Explore the complexities of Schedule TO-T and its vital role in tender
+  offers in relation to algorithmic trading ensuring transparency and strategic leverage.
+title: Schedule TO-T (Algo Trading)
 ---
 
 The securities market is a multifaceted domain characterized by intricate regulations and systemic requirements designed to maintain transparency and compliance. At the heart of these requirements are various forms and filings, among which Schedule TO-T stands out as a pivotal document necessitated during tender offers. This article aims to unravel the complexities surrounding Schedule TO-T, highlighting its integral role in tender offers, and examining the intersection of algorithmic trading within these processes.

@@ -1,6 +1,8 @@
 ---
-title: "Collar Agreement: Functionality and Implications (Algo Trading)"
-description: "Discover how collar agreements function in algorithmic trading to manage investment risks and protect against market volatility with cost-effective strategies."
+category: quant_concept
+description: Discover how collar agreements function in algorithmic trading to manage
+  investment risks and protect against market volatility with cost-effective strategies.
+title: 'Collar Agreement: Functionality and Implications (Algo Trading)'
 ---
 
 In the ever-evolving world of financial markets, managing risks effectively is a top priority for investors and companies alike. Volatility and uncertainty are inherent in these markets, necessitating strategies that protect investments while allowing for growth. The concept of a collar agreement represents a strategic approach to hedging investment risks within defined limits. By leveraging this method, investors can establish a price range that their investments are allowed to fluctuate within, thereby safeguarding against significant losses and capping excessive gains.

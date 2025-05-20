@@ -1,6 +1,9 @@
 ---
-title: "Exchange-Traded Derivatives (Algo Trading)"
-description: "Explore the dynamic world of exchange-traded derivatives and algorithmic trading Discover how these instruments offer transparency security and strategic opportunities to investors"
+category: quant_concept
+description: Explore the dynamic world of exchange-traded derivatives and algorithmic
+  trading Discover how these instruments offer transparency security and strategic
+  opportunities to investors
+title: Exchange-Traded Derivatives (Algo Trading)
 ---
 
 The world of finance offers an extensive array of investment opportunities, and exchange-traded derivatives play a vital role in this landscape. Exchange-traded derivatives, which typically include futures and options, are traded on regulated exchanges, ensuring a level of transparency and security that is often absent in over-the-counter (OTC) derivatives. These financial instruments provide numerous advantages, such as standardized contracts and reduced counterparty risk through the involvement of clearinghouses that guarantee transactions.

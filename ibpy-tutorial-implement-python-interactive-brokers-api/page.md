@@ -1,6 +1,14 @@
 ---
-title: "IBPy Tutorial: Interactive Brokers API in Python (Algo Trading)"
-description: Discover how to leverage IBPy, a Python library, to seamlessly interact with the Interactive Brokers API for algorithmic trading. This tutorial explores IBPy's role in automating trades by integrating with Interactive Brokers' platform, highlighting its ability to enhance the speed and accuracy of trade execution. Learn about the essential components that facilitate programmatic trading and how to deploy Python-based trading strategies effectively. Empower your trading with an understanding of this robust infrastructure, unlocking new levels of efficiency and responsiveness in the competitive world of algo trading.
+category: trading_strategy
+description: Discover how to leverage IBPy, a Python library, to seamlessly interact
+  with the Interactive Brokers API for algorithmic trading. This tutorial explores
+  IBPy's role in automating trades by integrating with Interactive Brokers' platform,
+  highlighting its ability to enhance the speed and accuracy of trade execution. Learn
+  about the essential components that facilitate programmatic trading and how to deploy
+  Python-based trading strategies effectively. Empower your trading with an understanding
+  of this robust infrastructure, unlocking new levels of efficiency and responsiveness
+  in the competitive world of algo trading.
+title: 'IBPy Tutorial: Interactive Brokers API in Python (Algo Trading)'
 ---
 
 Algorithmic trading, commonly referred to as algo trading, is a modern trading approach that utilizes computers and programming to execute financial transactions rapidly and at high frequencies. This method has revolutionized the trading landscape by enabling traders to capitalize on market movements with greater precision and speed than traditional human-driven trading. The efficiency of algo trading is grounded in its ability to process vast amounts of data and execute orders within milliseconds, a feat unachievable by human traders.

@@ -1,6 +1,8 @@
 ---
-title: "Recession-Proof Strategies and Examples (Algo Trading)"
-description: "Discover how recession-proof strategies, financial resilience, and algorithmic trading can maintain stability and optimize investments during economic downturns."
+category: trading_strategy
+description: Discover how recession-proof strategies, financial resilience, and algorithmic
+  trading can maintain stability and optimize investments during economic downturns.
+title: Recession-Proof Strategies and Examples (Algo Trading)
 ---
 
 In a world where economic uncertainties loom large, preparing for recessions is crucial. Financial markets are inherently volatile, and economic downturns can exacerbate this volatility, leading to significant losses for unprepared investors. This article examines how understanding recession-proof economies, financial resilience, and algorithmic trading can help investors maintain stable portfolios in times of financial adversity.

@@ -1,6 +1,9 @@
 ---
-title: "Demutualization Process and Mechanisms (Algo Trading)"
-description: "Explore the dynamic shift in financial markets through demutualization and corporate restructuring coupled with the rise of efficient, fast-paced algorithmic trading."
+category: quant_concept
+description: Explore the dynamic shift in financial markets through demutualization
+  and corporate restructuring coupled with the rise of efficient, fast-paced algorithmic
+  trading.
+title: Demutualization Process and Mechanisms (Algo Trading)
 ---
 
 The transformation of financial institutions through demutualization, corporate restructuring, and the rise of algorithmic trading has marked a significant shift in the financial landscape. This evolution underscores the interconnectedness of these processes, which collectively have a profound impact on efficiency, competitiveness, and market access within the financial sector.

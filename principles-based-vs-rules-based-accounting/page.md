@@ -1,6 +1,8 @@
 ---
-title: "Principles-Based vs. Rules-Based Accounting (Algo Trading)"
-description: "Explore the crucial relationship between financial reporting accounting rules and principles in algo trading Understand how these affect trading strategies."
+category: quant_concept
+description: Explore the crucial relationship between financial reporting accounting
+  rules and principles in algo trading Understand how these affect trading strategies.
+title: Principles-Based vs. Rules-Based Accounting (Algo Trading)
 ---
 
 In today's fast-paced financial markets, a firm grasp of the relationships between financial reporting, accounting rules, and accounting principles is essential. Algorithmic trading, or algo trading, is increasingly integrated into the financial landscape, emphasizing the need for traders and analysts to understand these underlying accounting frameworks. Algorithmic trading involves the use of complex algorithms and automated processes to execute trading actions at speeds and frequencies impossible for human traders. As this form of trading grows in prevalence, the accurate interpretation and application of financial data become more critical to ensure the integrity and efficiency of trading strategies.

@@ -1,7 +1,8 @@
 ---
-title: Understanding Neural Network Initialization Methods
+category: quant_concept
 description: Neural network initialization ensures stable and efficient training by
   applying methods like Xavier Kaiming Fixup and LSUV. Discover more inside.
+title: Understanding Neural Network Initialization Methods
 ---
 
 ![Image](images/1.webp)

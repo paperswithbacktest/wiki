@@ -1,6 +1,9 @@
 ---
-title: "Causes and Timing of Sovereign Defaults (Algo Trading)"
-description: "Explore the dynamic interplay of economic crises, sovereign defaults, and algorithmic trading's role in shaping global financial ecosystems and economic resilience."
+category: quant_concept
+description: Explore the dynamic interplay of economic crises, sovereign defaults,
+  and algorithmic trading's role in shaping global financial ecosystems and economic
+  resilience.
+title: Causes and Timing of Sovereign Defaults (Algo Trading)
 ---
 
 The global economic landscape has been marked by significant shifts and trends in recent years, influenced by globalization, technological advancements, and policy changes. An economic crisis is characterized by a sharp decline in economic activity, often identified by drastic falls in GDP, asset prices, and employment, coupled with rising inflation rates. Sovereign defaults occur when national governments fail to meet debt obligations, which can lead to reputational damage and loss of access to international capital markets.

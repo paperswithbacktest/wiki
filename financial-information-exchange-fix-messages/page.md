@@ -1,6 +1,13 @@
 ---
-title: "Financial Information eXchange (FIX) messages (Algo Trading)"
-description: Discover how the Financial Information Exchange (FIX) protocol has transformed electronic trading, offering a standard framework for seamless communication among market participants. This page investigates into FIX's critical role in algorithmic trading and its evolution as a key component of modern trading infrastructures, enhancing efficiency and reducing errors in trade execution. Learn about the technical infrastructure supporting FIX-enabled systems and the importance of adapting to protocol updates for effective high-speed trading operations.
+category: quant_concept
+description: Discover how the Financial Information Exchange (FIX) protocol has transformed
+  electronic trading, offering a standard framework for seamless communication among
+  market participants. This page investigates into FIX's critical role in algorithmic
+  trading and its evolution as a key component of modern trading infrastructures,
+  enhancing efficiency and reducing errors in trade execution. Learn about the technical
+  infrastructure supporting FIX-enabled systems and the importance of adapting to
+  protocol updates for effective high-speed trading operations.
+title: Financial Information eXchange (FIX) messages (Algo Trading)
 ---
 
 The evolution of electronic trading has fundamentally transformed the financial landscape, introducing new efficiencies and capabilities that were previously unimaginable. At the heart of this transformation lies the Financial Information Exchange (FIX) protocol, a pivotal element in modernizing trading processes through standardization. Developed in 1992, FIX was conceived with the primary purpose of streamlining trading operations by establishing a universal framework for communication. This standardization facilitates seamless interaction amongst market participants, ranging from investment banks to stock exchanges.

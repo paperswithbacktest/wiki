@@ -1,10 +1,9 @@
 ---
-title: Understanding Prior Beliefs in Machine Learning Models
+category: quant_concept
 description: Prior beliefs in machine learning guide predictions by combining assumptions
   with new data to boost accuracy and reliability Discover more inside
+title: Understanding Prior Beliefs in Machine Learning Models
 ---
-
-
 
 ## Table of Contents
 

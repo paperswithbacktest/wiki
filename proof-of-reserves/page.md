@@ -1,6 +1,8 @@
 ---
-title: "Proof of Reserves (Algo Trading)"
-description: "Explore the essential role of Proof of Reserves in crypto auditing and algorithmic trading to ensure transparency and integrity in the cryptocurrency market."
+category: quant_concept
+description: Explore the essential role of Proof of Reserves in crypto auditing and
+  algorithmic trading to ensure transparency and integrity in the cryptocurrency market.
+title: Proof of Reserves (Algo Trading)
 ---
 
 The world of cryptocurrency has significantly transformed how financial transactions and investments are conducted. Unlike traditional financial systems, cryptocurrencies offer decentralized digital alternatives, sparking a new era in finance and technology. As digital currencies gain prominence, the need for financial transparency becomes increasingly critical. The inherently anonymous nature of cryptocurrencies, while providing privacy, also presents challenges in tracking and verifying transactions, posing risks such as fraud and regulatory infractions.

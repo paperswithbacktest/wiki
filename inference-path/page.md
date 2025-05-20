@@ -1,7 +1,8 @@
 ---
-title: Understanding Machine Learning Inference Paths and Optimization
+category: quant_concept
 description: Inference path in machine learning shows how data flows through model
   layers to yield predictions and pinpoint optimization steps. Discover more inside
+title: Understanding Machine Learning Inference Paths and Optimization
 ---
 
 ![Image](images/1.png)

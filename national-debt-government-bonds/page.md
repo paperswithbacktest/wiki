@@ -1,6 +1,9 @@
 ---
-title: "National Debt and Government Bonds (Algo Trading)"
-description: "Explore the complex interactions of national debt, government bonds, and algorithmic trading in shaping global finance, market efficiency, and fiscal policies."
+category: quant_concept
+description: Explore the complex interactions of national debt, government bonds,
+  and algorithmic trading in shaping global finance, market efficiency, and fiscal
+  policies.
+title: National Debt and Government Bonds (Algo Trading)
 ---
 
 The financial landscape is characterized by a complex interplay of public finance, government bonds, national debt, and algorithmic trading. Each of these components significantly influences global economies and financial markets. Public finance focuses on how governments generate revenue, such as through taxes or the issuance of bonds, and how they allocate these resources to maintain economic stability and growth. Effective management in this domain directly affects national debt levels, shaping the fiscal policy landscape.

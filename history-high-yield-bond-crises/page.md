@@ -1,6 +1,8 @@
 ---
-title: "History of High-Yield Bond Crises (Algo Trading)"
-description: "Explore the history of high-yield bond crises revealing their risks and market crashes and the impact of algorithmic trading in shaping bond market dynamics."
+category: quant_concept
+description: Explore the history of high-yield bond crises revealing their risks and
+  market crashes and the impact of algorithmic trading in shaping bond market dynamics.
+title: History of High-Yield Bond Crises (Algo Trading)
 ---
 
 High-yield bonds, commonly known as junk bonds, are financial instruments that exhibit high returns but also entail considerable risks. These bonds are usually issued by corporations with lower credit ratings than investment-grade securities, which necessitates higher interest rates to attract investors. The promise of superior yields in a low-interest-rate environment has made high-yield bonds an attractive investment choice. However, these benefits are coupled with significant downsides, particularly their vulnerability during financial crises and bond market downturns.

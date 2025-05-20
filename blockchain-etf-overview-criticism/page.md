@@ -1,6 +1,8 @@
 ---
-title: "Blockchain ETF: Overview and Criticism (Algo Trading)"
-description: "Explore the transformative impact of blockchain ETFs sparking financial innovation paired with the automation and speed of algo trading for modern investing."
+category: quant_concept
+description: Explore the transformative impact of blockchain ETFs sparking financial
+  innovation paired with the automation and speed of algo trading for modern investing.
+title: 'Blockchain ETF: Overview and Criticism (Algo Trading)'
 ---
 
 Blockchain technology is a decentralized digital ledger system that records transactions across multiple computers in a manner that ensures the data's integrity and security through cryptographic hashing. Its advent has had a transformative impact on financial systems globally. By offering enhanced transparency, immutability, and reduced costs, blockchain has revolutionized the way financial transactions are conducted. This innovation allows for real-time settlement of transactions and reduces the need for intermediaries, leading to significant efficiency improvements in various segments of the financial industry, including payments, remittances, and securities trading. Notable examples of blockchain in finance include the use of distributed ledgers for cross-border payments and the creation of digital assets such as cryptocurrencies.

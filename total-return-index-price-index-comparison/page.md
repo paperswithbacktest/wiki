@@ -1,6 +1,8 @@
 ---
-title: "Total Return Index and Price Index Comparison (Algo Trading)"
-description: "Explore the nuances between Total Return Index and Price Index in investment analysis and algorithmic trading strategies for optimal decision-making."
+category: quant_concept
+description: Explore the nuances between Total Return Index and Price Index in investment
+  analysis and algorithmic trading strategies for optimal decision-making.
+title: Total Return Index and Price Index Comparison (Algo Trading)
 ---
 
 The world of investment is multifaceted, encompassing a wide array of strategies and metrics that professionals rely on to evaluate performance and make informed decisions. Among the crucial metrics used in assessing returns are the Total Return Index and the Price Index. These indices are fundamental tools in investment analysis, offering distinct insights into the market's performance. The Total Return Index provides a comprehensive measure of an investment's success by accounting for both capital gains and reinvested dividends, whereas the Price Index focuses solely on price changes, disregarding any income generated from dividends. 

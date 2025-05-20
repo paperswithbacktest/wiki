@@ -1,7 +1,8 @@
 ---
-title: Disambiguating Crash Blossoms in NLP Machine Learning Models
+category: quant_concept
 description: Crash Blossoms create ambiguity in NLP and we explain how context analysis
   and attention mechanisms help disambiguate headlines Discover more inside
+title: Disambiguating Crash Blossoms in NLP Machine Learning Models
 ---
 
 ![Image](images/1.png)

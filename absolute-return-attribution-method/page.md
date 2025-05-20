@@ -1,6 +1,13 @@
 ---
-title: "Absolute return attribution method (Algo Trading)"
-description: Explore the essential concept of absolute return attribution in algorithmic trading and its role in breaking down a portfolio's total return. Gain insights into how specific components like market conditions and trading strategies contribute to profitability. Understand why this method is crucial for evaluating the efficacy of algorithms and aligning with risk-return expectations, enabling traders and investors to optimize decisions and enhance investment outcomes in the complex landscape of financial markets.
+category: trading_strategy
+description: Explore the essential concept of absolute return attribution in algorithmic
+  trading and its role in breaking down a portfolio's total return. Gain insights
+  into how specific components like market conditions and trading strategies contribute
+  to profitability. Understand why this method is crucial for evaluating the efficacy
+  of algorithms and aligning with risk-return expectations, enabling traders and investors
+  to optimize decisions and enhance investment outcomes in the complex landscape of
+  financial markets.
+title: Absolute return attribution method (Algo Trading)
 ---
 
 Algorithmic trading has become a dominant force in the financial markets, driven by the advancement of technology and increasing availability of real-time data. This method utilizes computer algorithms to execute trading strategies efficiently and at speeds unattainable by human traders. As of recent years, algorithmic trading has accounted for a substantial portion of transactions across major exchanges, with some estimates suggesting that algorithms now execute up to 80% of trades in U.S. stock markets alone (Leshik & Cralle, 2011).

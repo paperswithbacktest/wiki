@@ -1,6 +1,9 @@
 ---
-title: "Difference Between Compiled and Certified Financial Statements (Algo Trading)"
-description: "Explore the key differences between compiled and certified financial statements in algorithmic trading. Understand their implications for transparency, accuracy, and reliability."
+category: quant_concept
+description: Explore the key differences between compiled and certified financial
+  statements in algorithmic trading. Understand their implications for transparency,
+  accuracy, and reliability.
+title: Difference Between Compiled and Certified Financial Statements (Algo Trading)
 ---
 
 Financial reporting plays a crucial role in the modern financial world by providing transparency and accountability regarding a company's financial performance. It serves as the primary tool for investors, regulatory bodies, and other stakeholders to assess the financial health and operational efficiency of an organization. Through financial statements such as balance sheets, income statements, and cash flow statements, stakeholders can make informed decisions about investments, lending, and regulatory compliance.

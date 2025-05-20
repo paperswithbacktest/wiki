@@ -1,6 +1,8 @@
 ---
-title: "Libyan Dollar and the Libyan Economy (Algo Trading)"
-description: "Explore the complexities of the Libyan economy driven by oil exports and political instability Discover how algorithmic trading impacts the Libyan Dinar."
+category: quant_concept
+description: Explore the complexities of the Libyan economy driven by oil exports
+  and political instability Discover how algorithmic trading impacts the Libyan Dinar.
+title: Libyan Dollar and the Libyan Economy (Algo Trading)
 ---
 
 The Libyan economy has been a subject of global interest due to its unique challenges and opportunities. As a nation primarily driven by oil and petroleum exports, Libya's economic landscape is largely shaped by the complexities of global energy markets and domestic political instability. This intricate setting provides both potential and obstacles for economic growth and financial development, making it a pivotal focus for international traders, policymakers, and investors.

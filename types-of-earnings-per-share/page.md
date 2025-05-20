@@ -1,6 +1,8 @@
 ---
-title: "Types of Earnings per Share (Algo Trading)"
-description: "Explore Earnings Per Share in algorithmic trading with insights on Basic, Diluted, Normalized, and Adjusted EPS types and their impact on investment strategies."
+category: quant_concept
+description: Explore Earnings Per Share in algorithmic trading with insights on Basic,
+  Diluted, Normalized, and Adjusted EPS types and their impact on investment strategies.
+title: Types of Earnings per Share (Algo Trading)
 ---
 
 Financial metrics are essential tools used to gauge the financial health and operational efficiency of a company. Among these metrics, Earnings Per Share (EPS) holds a pivotal position for investors, as it provides a direct reflection of a company's profitability on a per-share basis. EPS is calculated by dividing the net income of a company by its total number of outstanding shares. This ratio is key for investors, as it helps in determining how much profit a company is generating for each share owned by investors, thus serving as a fundamental measure of a company's earnings performance.

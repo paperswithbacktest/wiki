@@ -1,6 +1,8 @@
 ---
-title: "Money Flow Index: Overview and Applications (Algo Trading)"
-description: "Explore the Money Flow Index (MFI) and its role in algorithmic trading as a powerful indicator combining price and volume to analyze market trends effectively."
+category: quant_concept
+description: Explore the Money Flow Index (MFI) and its role in algorithmic trading
+  as a powerful indicator combining price and volume to analyze market trends effectively.
+title: 'Money Flow Index: Overview and Applications (Algo Trading)'
 ---
 
 The Money Flow Index (MFI) serves as a crucial technical indicator in financial markets, helping traders and analysts assess buying and selling pressures with enhanced accuracy. Unlike other momentum indicators that primarily focus on price, the MFI uniquely incorporates both price and volume data, offering a more holistic view of market dynamics. This dual consideration allows the MFI to provide insights into the intensity of trade activities, which can often foreshadow critical market shifts.

@@ -1,10 +1,9 @@
 ---
-title: Understanding And Mitigating Prediction Bias In Machine Learning
+category: quant_concept
 description: Prediction bias in machine learning skews model fairness and accuracy
   but can be detected and mitigated with diverse data. Discover more inside.
+title: Understanding And Mitigating Prediction Bias In Machine Learning
 ---
-
-
 
 ## Table of Contents
 

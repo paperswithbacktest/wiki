@@ -1,6 +1,9 @@
 ---
-title: "Follow-on Public Offer (FPO) (Algo Trading)"
-description: "Discover the synergy between Follow-on Public Offerings and algorithmic trading Learn how these financial strategies optimize capital raising and trading efficiency"
+category: quant_concept
+description: Discover the synergy between Follow-on Public Offerings and algorithmic
+  trading Learn how these financial strategies optimize capital raising and trading
+  efficiency
+title: Follow-on Public Offer (FPO) (Algo Trading)
 ---
 
 Public offerings are critical events in the financial lifecycle of companies, providing them the platform to raise substantial capital from the public market. At the forefront of these offerings are Initial Public Offerings (IPOs) and Follow-on Public Offerings (FPOs). An IPO refers to the process by which a private company offers its shares to the public for the first time, thereby transitioning into a publicly traded entity. Conversely, an FPO occurs when a company that is already publicly traded issues additional shares, primarily to raise more capital.

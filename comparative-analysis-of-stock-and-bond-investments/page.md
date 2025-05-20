@@ -1,6 +1,8 @@
 ---
-title: "Comparative Analysis of Stock and Bond Investments (Algo Trading)"
-description: "Explore the dynamics of stock and bond investments alongside algorithmic trading to optimize portfolio performance by mitigating risk and maximizing returns."
+category: trading_strategy
+description: Explore the dynamics of stock and bond investments alongside algorithmic
+  trading to optimize portfolio performance by mitigating risk and maximizing returns.
+title: Comparative Analysis of Stock and Bond Investments (Algo Trading)
 ---
 
 Diversifying investments is a fundamental strategy for mitigating risk and optimizing returns in an ever-evolving financial landscape. Investors across the globe often turn to bonds, stocks, and algorithmic trading as primary tools to build a balanced portfolio. These instruments play pivotal roles in contemporary investment strategies, each offering its own set of potential benefits and inherent risks.

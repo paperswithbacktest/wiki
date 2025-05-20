@@ -1,9 +1,14 @@
 ---
-title: "How to Backtest a Trading Strategy"
-description: "Discover the importance of backtesting in evaluating trading strategies with this comprehensive guide. Backtesting is a critical process used by traders and financial analysts to assess a strategy's performance using historical data. By simulating trades, backtesting provides insights into potential risks, rewards, and weaknesses, allowing traders to make informed decisions before deploying capital in live markets. Backtesting is essential in today's high-stakes financial environment, where accuracy and precision are key to success."
+category: trading_strategy
+description: Discover the importance of backtesting in evaluating trading strategies
+  with this comprehensive guide. Backtesting is a critical process used by traders
+  and financial analysts to assess a strategy's performance using historical data.
+  By simulating trades, backtesting provides insights into potential risks, rewards,
+  and weaknesses, allowing traders to make informed decisions before deploying capital
+  in live markets. Backtesting is essential in today's high-stakes financial environment,
+  where accuracy and precision are key to success.
+title: How to Backtest a Trading Strategy
 ---
-
-
 
 In the financial markets, the landscape of trading has undergone a transformative shift over the past few decades. From the days of floor trading and manually executed transactions, we've transitioned into an era dominated by algorithmic and high-frequency trading (HFT). Algorithms now execute a substantial fraction of global trading volumes, making decisions in milliseconds based on complex mathematical models. HFT, a subset of algorithmic trading, is characterized by holding positions for extremely short durations, sometimes mere seconds, executing thousands of trades in a single day. The prominence of these technologies has made the world of trading incredibly dynamic and competitive, with vast amounts of capital moved every split second.
 

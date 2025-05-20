@@ -1,6 +1,9 @@
 ---
-title: "Mitigation Banking Basics (Algo Trading)"
-description: "Explore the connection between wetland restoration, conservation, mitigation banking, and algo trading, showcasing innovative solutions for environmental and financial sectors."
+category: quant_concept
+description: Explore the connection between wetland restoration, conservation, mitigation
+  banking, and algo trading, showcasing innovative solutions for environmental and
+  financial sectors.
+title: Mitigation Banking Basics (Algo Trading)
 ---
 
 The intersection of wetland restoration, environmental conservation, mitigation banking, and algorithmic trading represents a significant area of development within modern environmental economics, offering innovative solutions for both ecological and financial sectors. Wetland restoration holds paramount importance in maintaining biodiversity and supporting ecosystem services, which include water purification, flood mitigation, and carbon sequestration. These services are critical because wetlands act as natural buffers against the impacts of climate change, safeguarding coastal regions and providing habitats for numerous species.

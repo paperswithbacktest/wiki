@@ -1,6 +1,9 @@
 ---
-title: "Distributed Ledger Technology: Overview and Functionality (Algo Trading)"
-description: "Explore how Distributed Ledger Technology enhances algorithmic trading by boosting efficiency and security. Discover the synergy revolutionizing financial operations."
+category: quant_concept
+description: Explore how Distributed Ledger Technology enhances algorithmic trading
+  by boosting efficiency and security. Discover the synergy revolutionizing financial
+  operations.
+title: 'Distributed Ledger Technology: Overview and Functionality (Algo Trading)'
 ---
 
 Blockchain and Distributed Ledger Technology (DLT) represent significant advancements in digital record-keeping and transaction verification. A blockchain is a decentralized database that is managed by multiple participants, typically referred to as nodes. DLT encompasses blockchain but also includes other decentralized technologies that do not necessarily utilize blocks. These systems enhance trust and transparency by allowing secure and immutable data sharing without the need for intermediaries.

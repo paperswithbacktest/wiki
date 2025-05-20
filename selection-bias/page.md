@@ -1,6 +1,10 @@
 ---
-title: "Selection bias (Algo Trading)"
-description: Discover how selection bias impacts algorithmic trading, misleading traders with overly optimistic backtesting results due to unrepresentative data. Learn strategies to tackle selection bias, ensuring your trading models remain robust and effective in diverse market conditions.
+category: quant_concept
+description: Discover how selection bias impacts algorithmic trading, misleading traders
+  with overly optimistic backtesting results due to unrepresentative data. Learn strategies
+  to tackle selection bias, ensuring your trading models remain robust and effective
+  in diverse market conditions.
+title: Selection bias (Algo Trading)
 ---
 
 Algorithmic trading, or algo trading, leverages advanced computer systems to execute trades based on pre-set rules and sophisticated statistical models. This approach allows for the automation of trading decisions, enabling rapid execution and the potential for more consistent performance compared to manual methods. Despite its technological advantages, algorithmic trading faces issues that are not dissimilar from those encountered in traditional trading. One major issue is selection bias, a phenomenon that can significantly distort the results of backtesting—a process used to evaluate the viability of trading strategies using historical data.

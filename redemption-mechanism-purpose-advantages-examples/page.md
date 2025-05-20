@@ -1,6 +1,8 @@
 ---
-title: "Redemption Mechanism: Purpose, Advantages, and Examples (Algo Trading)"
-description: "Explore the purpose and benefits of redemption mechanisms in algo trading to optimize ETF market efficiency and investor valuation with real-world examples."
+category: quant_concept
+description: Explore the purpose and benefits of redemption mechanisms in algo trading
+  to optimize ETF market efficiency and investor valuation with real-world examples.
+title: 'Redemption Mechanism: Purpose, Advantages, and Examples (Algo Trading)'
 ---
 
 In the world of finance, the concept of redemption and its mechanisms play a crucial role in the seamless operation of market instruments such as exchange-traded funds (ETFs). These mechanisms are essential for maintaining the alignment of an ETF's net asset value (NAV) with its market price, which in turn supports market efficiency and ensures that investors receive a fair valuation of their holdings. A well-functioning redemption mechanism prevents ETFs from trading at excessive premiums or discounts relative to their underlying assets.

@@ -1,6 +1,8 @@
 ---
-title: "Jarrow-Turnbull Model: Overview and Mechanism (Algo Trading)"
-description: "Discover the Jarrow-Turnbull model's role in credit risk and algorithmic trading, offering insights into market adaptations for strategic financial decisions."
+category: quant_concept
+description: Discover the Jarrow-Turnbull model's role in credit risk and algorithmic
+  trading, offering insights into market adaptations for strategic financial decisions.
+title: 'Jarrow-Turnbull Model: Overview and Mechanism (Algo Trading)'
 ---
 
 Modern finance is characterized by its complexity, driven by the intricacies of credit risk and algorithmic trading. These components form a vital part of financial markets, impacting decisions and strategies employed by professionals globally. Central to understanding credit risk is the Jarrow-Turnbull model, a groundbreaking development in credit risk modeling introduced in the mid-1990s. This model is essential for finance and trading professionals seeking to accurately assess risks and make informed decisions based on these assessments.

@@ -1,6 +1,9 @@
 ---
-title: "Opportunity Zones: Definition, Benefits, and Criticisms (Algo Trading)"
-description: "Explore the benefits and criticisms of Opportunity Zones and algorithmic trading Discover their potential impacts on investment strategies and community development"
+category: quant_concept
+description: Explore the benefits and criticisms of Opportunity Zones and algorithmic
+  trading Discover their potential impacts on investment strategies and community
+  development
+title: 'Opportunity Zones: Definition, Benefits, and Criticisms (Algo Trading)'
 ---
 
 Investment strategies continuously evolve, reflecting the dynamic nature of financial markets and economic environments. Two prominent areas that have garnered substantial interest are Opportunity Zones and Algorithmic Trading. These investment strategies offer distinct advantages and challenges, which require careful consideration to fully understand their impact and potential benefits. Opportunity Zones, established under the Tax Cuts and Jobs Act of 2017, aim to stimulate economic growth in disadvantaged communities through tax incentives. Meanwhile, algorithmic trading leverages computational algorithms to execute trading decisions swiftly and efficiently, thereby capturing emerging opportunities in a fast-paced market setting.

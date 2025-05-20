@@ -1,6 +1,12 @@
 ---
-title: "Negative Correlation Coefficient Explanation (Algo Trading)"
-description: "Discover how understanding negative correlation coefficients is essential in algorithmic trading for effective decision-making and risk management. This fundamental statistical concept highlights inverse relationships between variables, offering traders insights into market dynamics. Learn how leveraging these correlations enhances trading strategies and optimizes portfolio performance amidst the fast-paced financial markets."
+category: quant_concept
+description: Discover how understanding negative correlation coefficients is essential
+  in algorithmic trading for effective decision-making and risk management. This fundamental
+  statistical concept highlights inverse relationships between variables, offering
+  traders insights into market dynamics. Learn how leveraging these correlations enhances
+  trading strategies and optimizes portfolio performance amidst the fast-paced financial
+  markets.
+title: Negative Correlation Coefficient Explanation (Algo Trading)
 ---
 
 In the world of data analysis and finance, understanding the relationships between variables is crucial. Interactions between variables can significantly impact decision-making processes and strategic planning across various fields. Negative correlation, a fundamental concept in statistics, represents a relationship where two variables move in opposite directions. This notion holds significant implications, particularly in areas like algorithmic trading.

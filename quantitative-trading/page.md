@@ -1,9 +1,14 @@
 ---
-title: "Quantitative Trading: The Ultimate Guide"
-description: Discover the intriguing world of quantitative trading, a methodical approach rooted in mathematics, statistics, and technology that transforms financial market trading. This comprehensive guide investigates into the history, mechanics, and advantages of quantitative trading, revealing how it harnesses data to make objective decisions and outperform traditional trading methods. From its origins in the mid-20th century to its current dominance in modern finance, uncover the secrets of this data-driven, systematic approach.
+category: quant_concept
+description: Discover the intriguing world of quantitative trading, a methodical approach
+  rooted in mathematics, statistics, and technology that transforms financial market
+  trading. This comprehensive guide investigates into the history, mechanics, and
+  advantages of quantitative trading, revealing how it harnesses data to make objective
+  decisions and outperform traditional trading methods. From its origins in the mid-20th
+  century to its current dominance in modern finance, uncover the secrets of this
+  data-driven, systematic approach.
+title: 'Quantitative Trading: The Ultimate Guide'
 ---
-
-
 
 Quantitative trading roots trace back to the mid-20th century, a time when computerized trading was in its embryonic stages. Back then, few could have predicted the seismic shift the financial markets were on the cusp of experiencing. As computers became more accessible and powerful, they began playing an essential role in trading, allowing for the automation of strategies based on mathematical and statistical models. This development was the genesis of what we now refer to as quantitative trading.
 

@@ -1,6 +1,9 @@
 ---
-title: "Overview of SEC Filing Forms (Algo Trading)"
-description: "Explore the importance of SEC filings in investment and algorithmic trading. Learn how forms like 10-K and 10-Q provide vital insights into companies' financial health."
+category: dataset
+description: Explore the importance of SEC filings in investment and algorithmic trading.
+  Learn how forms like 10-K and 10-Q provide vital insights into companies' financial
+  health.
+title: Overview of SEC Filing Forms (Algo Trading)
 ---
 
 Understanding financial documents, particularly those related to Securities and Exchange Commission (SEC) filings, is fundamental for anyone navigating the investment landscape. These documents serve as essential tools not only for investors but also for analysts and regulatory bodies, providing comprehensive insights into a company's financial health and strategic direction.

@@ -1,6 +1,9 @@
 ---
-title: "Factors of Production Inputs (Algo Trading)"
-description: "Explore how economic resources like land, labor, capital, and entrepreneurship drive algorithmic trading by optimizing production inputs and enhancing financial markets."
+category: quant_concept
+description: Explore how economic resources like land, labor, capital, and entrepreneurship
+  drive algorithmic trading by optimizing production inputs and enhancing financial
+  markets.
+title: Factors of Production Inputs (Algo Trading)
 ---
 
 Economic resources are the assets that serve as inputs for creating goods and services. These resources are crucial across various sectors as they determine the ability to produce and cater to societal demands. Economic resources are traditionally classified into four categories: land, labor, capital, and entrepreneurship. Land encompasses all natural resources, labor refers to human input, capital involves machinery and tools, and entrepreneurship is the innovation and risk-taking capacity to combine these factors productively.

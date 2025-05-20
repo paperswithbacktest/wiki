@@ -1,6 +1,9 @@
 ---
-title: "Application of Parabolic SAR in Trading (Algo Trading)"
-description: "Explore the application of Parabolic SAR in trading to identify market direction and reversals within algorithmic strategies optimize your trades and minimize risks."
+category: trading_strategy
+description: Explore the application of Parabolic SAR in trading to identify market
+  direction and reversals within algorithmic strategies optimize your trades and minimize
+  risks.
+title: Application of Parabolic SAR in Trading (Algo Trading)
 ---
 
 Technical analysis is a crucial component of trading that involves studying historical price and volume data to forecast future price movements. Traders employ various tools and indicators to discern potential market trends and make informed decisions. One such tool is the Parabolic SAR (Stop and Reverse), a popular indicator utilized for determining the direction of a market's price movement and identifying potential reversals.

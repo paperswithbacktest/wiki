@@ -1,6 +1,8 @@
 ---
-title: "Bank of England Role in Monetary Policy (Algo Trading)"
-description: "Discover how the Bank of England's monetary policy intersects with algorithmic trading to shape UK economic stability and influence financial markets."
+category: quant_concept
+description: Discover how the Bank of England's monetary policy intersects with algorithmic
+  trading to shape UK economic stability and influence financial markets.
+title: Bank of England Role in Monetary Policy (Algo Trading)
 ---
 
 The Bank of England holds a fundamental position in shaping the UK's economic framework. As the central bank, it wields significant influence over the financial markets through its various functions, which are critical for maintaining economic stability. By understanding the operations of the Bank of England, one gains insight into the broader mechanics of financial markets, as it employs monetary policy tools to navigate economic challenges.

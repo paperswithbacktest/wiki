@@ -1,6 +1,8 @@
 ---
-title: "UST: Overview, Mechanism, Applications (Algo Trading)"
-description: "Explore the synergy between UST stablecoin and algorithmic trading for optimized strategies and minimized risks in modern trading environments."
+category: trading_strategy
+description: Explore the synergy between UST stablecoin and algorithmic trading for
+  optimized strategies and minimized risks in modern trading environments.
+title: 'UST: Overview, Mechanism, Applications (Algo Trading)'
 ---
 
 In recent years, the intersection of technology and finance has led to remarkable innovations, creating diverse opportunities for investors and traders on a global scale. Among these advancements, algorithmic trading stands out as a pivotal development, automating the trading process through sophisticated computer programs. This innovation allows for the execution of trades at speeds and frequencies previously impossible with human intervention, thereby enhancing efficiency and minimizing the risk of emotional bias in trading decisions.

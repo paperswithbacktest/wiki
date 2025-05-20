@@ -1,6 +1,9 @@
 ---
-title: "Simple Moving Average and Its Formula (Algo Trading)"
-description: "Discover how the Simple Moving Average (SMA) aids in algorithmic trading by smoothing price data to reveal market trends. Explore its formula, benefits, and uses."
+category: quant_concept
+description: Discover how the Simple Moving Average (SMA) aids in algorithmic trading
+  by smoothing price data to reveal market trends. Explore its formula, benefits,
+  and uses.
+title: Simple Moving Average and Its Formula (Algo Trading)
 ---
 
 Technical analysis is an essential component of algorithmic trading, enabling traders and automated systems to forecast future price movements by analyzing historical market data. It relies on various tools and indicators to discern patterns and trends that may not be immediately visible. Central to these tools is the Simple Moving Average (SMA), a foundational element of technical analysis. SMA is a statistical calculation that simplifies price data, allowing traders to identify prevailing market trends more effectively.

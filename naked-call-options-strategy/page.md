@@ -1,6 +1,8 @@
 ---
-title: "Naked Call Options Strategy (Algo Trading)"
-description: "Explore the high-risk, high-reward world of naked call options and algorithmic trading. Understand strategies, risks, and how tech aids in risk management."
+category: trading_strategy
+description: Explore the high-risk, high-reward world of naked call options and algorithmic
+  trading. Understand strategies, risks, and how tech aids in risk management.
+title: Naked Call Options Strategy (Algo Trading)
 ---
 
 In the world of financial trading, options strategies play a crucial role in both risk management and speculative pursuits. Among these strategies, the naked call option stands out for its high-risk and potentially high-reward nature, captivating the interest of many traders. Naked call options involve writing call options without owning the underlying security, thus exposing the trader to theoretically unlimited losses if the market moves unfavorably. This approach contrasts with more conservative strategies like covered calls, where the risk is mitigated by holding the underlying asset.

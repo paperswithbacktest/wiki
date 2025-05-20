@@ -1,6 +1,10 @@
 ---
-title: "Shooting Star Candle Strategy Explained (Algo Trading)"
-description: Discover the power of the Shooting Star Candle Strategy in algorithmic trading to identify potential market reversals. Learn how this pattern, marked by its unique candlestick formation, enhances trade decisions by automating pattern detection and execution, optimizing market responsiveness with precision and speed.
+category: trading_strategy
+description: Discover the power of the Shooting Star Candle Strategy in algorithmic
+  trading to identify potential market reversals. Learn how this pattern, marked by
+  its unique candlestick formation, enhances trade decisions by automating pattern
+  detection and execution, optimizing market responsiveness with precision and speed.
+title: Shooting Star Candle Strategy Explained (Algo Trading)
 ---
 
 Algorithmic trading, commonly known as algo trading, utilizes sophisticated algorithms to perform trades with remarkable efficiency in terms of price, speed, and volume. This method of trading has revolutionized financial markets by minimizing human error and enabling the processing of vast amounts of market data in real-time. A key component of successful algorithmic trading is the ability to recognize and capitalize on trading patterns. These patterns, discernible in market data, guide traders in making informed decisions.

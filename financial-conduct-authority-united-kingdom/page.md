@@ -1,6 +1,9 @@
 ---
-title: "Financial Conduct Authority (United Kingdom) (Algo Trading)"
-description: "Explore how the Financial Conduct Authority regulates algorithmic trading in the UK ensuring market integrity and protecting consumer interests in a tech-driven era."
+category: quant_concept
+description: Explore how the Financial Conduct Authority regulates algorithmic trading
+  in the UK ensuring market integrity and protecting consumer interests in a tech-driven
+  era.
+title: Financial Conduct Authority (United Kingdom) (Algo Trading)
 ---
 
 In recent years, algorithmic trading has significantly altered the dynamics of financial markets by enhancing trading speed and efficiency. This transformation has been driven by sophisticated algorithms that process vast amounts of data within milliseconds, executing trades with minimal human intervention. Such advancements, however, bring with them a set of challenges, notably the need for stringent regulatory oversight to prevent potential market manipulation and systemic risk.

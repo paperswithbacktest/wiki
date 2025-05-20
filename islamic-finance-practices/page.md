@@ -1,6 +1,8 @@
 ---
-title: "Islamic Finance Practices (Algo Trading)"
-description: "Explore the fusion of Islamic finance principles with algorithmic trading. Discover Sharia-compliant banking's ethical practices within modern financial technologies."
+category: quant_concept
+description: Explore the fusion of Islamic finance principles with algorithmic trading.
+  Discover Sharia-compliant banking's ethical practices within modern financial technologies.
+title: Islamic Finance Practices (Algo Trading)
 ---
 
 In an ever-evolving financial landscape, Islamic finance stands out as a unique approach that aligns with Sharia law. Islamic finance, rooted in the ethical framework of Islam, offers a distinct set of financial practices that differ markedly from conventional banking. This article provides an exploration into the foundational principles of Sharia-compliant banking and the broader scope of Islamic finance. 

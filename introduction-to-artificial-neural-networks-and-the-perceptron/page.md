@@ -1,6 +1,14 @@
 ---
-title: "Introduction to Artificial Neural Networks and the Perceptron (Algo Trading)"
-description: Explore how perceptrons and activation functions revolutionize algorithmic trading by automating decision-making and refining predictive accuracy. Understand the role of these components within trading algorithms and their influence on crafting adaptive strategies in dynamic markets. Learn about key activation functions like sigmoid, tanh, and ReLU and their impact on handling complex trading scenarios. Discover how these functions transform algorithmic models, enhancing their ability to process non-linear data and improve trading performance through sophisticated decision boundaries.
+category: quant_concept
+description: Explore how perceptrons and activation functions revolutionize algorithmic
+  trading by automating decision-making and refining predictive accuracy. Understand
+  the role of these components within trading algorithms and their influence on crafting
+  adaptive strategies in dynamic markets. Learn about key activation functions like
+  sigmoid, tanh, and ReLU and their impact on handling complex trading scenarios.
+  Discover how these functions transform algorithmic models, enhancing their ability
+  to process non-linear data and improve trading performance through sophisticated
+  decision boundaries.
+title: Introduction to Artificial Neural Networks and the Perceptron (Algo Trading)
 ---
 
 Algorithmic trading has revolutionized modern financial markets by automating complex trading strategies, thereby enhancing efficiency and precision. This method involves the use of computer algorithms to make trading decisions at speeds and frequencies that are unimaginable to human traders. The significance of algorithmic trading lies in its ability to process vast amounts of market data, identify patterns, and execute trades based on pre-defined criteria, frequently leading to cost savings, improved accuracy, and reduced human error.

@@ -1,6 +1,10 @@
 ---
-title: "Optimal Number of Stocks in a Portfolio (Algo Trading)"
-description: "Discover how algorithmic trading and portfolio diversification can optimize investment strategies by spreading risk and maximizing returns. Learn the ideal number of stocks for diversification and how algorithms facilitate efficient asset allocation and dynamic portfolio management."
+category: trading_strategy
+description: Discover how algorithmic trading and portfolio diversification can optimize
+  investment strategies by spreading risk and maximizing returns. Learn the ideal
+  number of stocks for diversification and how algorithms facilitate efficient asset
+  allocation and dynamic portfolio management.
+title: Optimal Number of Stocks in a Portfolio (Algo Trading)
 ---
 
 In the fast-paced world of investing, strategies are constantly evolving. As algorithmic trading and quantitative techniques gain traction, understanding portfolio diversification's foundational principles becomes imperative for investors aiming to optimize their strategies. Portfolio diversification involves spreading investments across various sectors, industries, and asset classes to mitigate risk. This approach minimizes the impact of market volatility and helps ensure more stable returns over time.

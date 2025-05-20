@@ -1,6 +1,8 @@
 ---
-title: "Liquefied Natural Gas: Overview and Functionality (Algo Trading)"
-description: "Explore the impact of liquefied natural gas on global energy trends and the role of algorithmic trading in enhancing LNG market efficiency and profitability."
+category: quant_concept
+description: Explore the impact of liquefied natural gas on global energy trends and
+  the role of algorithmic trading in enhancing LNG market efficiency and profitability.
+title: 'Liquefied Natural Gas: Overview and Functionality (Algo Trading)'
 ---
 
 Liquefied Natural Gas (LNG) has become a significant element in the worldwide energy sector, playing a key role in the shift towards cleaner and more efficient energy sources. LNG is essentially natural gas that has been cooled down to a liquid state, which reduces its volume by about 600 times, facilitating its storage and transport across long distances. This characteristic makes LNG a vital link between regions abundant in natural gas and those with high energy demand, bridging geographical gaps and ensuring a stable energy supply.

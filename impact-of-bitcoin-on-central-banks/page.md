@@ -1,6 +1,8 @@
 ---
-title: "Impact of Bitcoin on Central Banks (Algo Trading)"
-description: "Explore the transformative impact of Bitcoin on central banks and algorithmic trading Discover how cryptocurrency reshapes economic governance and monetary policy"
+category: quant_concept
+description: Explore the transformative impact of Bitcoin on central banks and algorithmic
+  trading Discover how cryptocurrency reshapes economic governance and monetary policy
+title: Impact of Bitcoin on Central Banks (Algo Trading)
 ---
 
 The past decade has witnessed a profound transformation in the financial landscape, primarily driven by the convergence of central banking, cryptocurrency, and algorithmic trading. These elements, while distinct in their approach and function, collectively influence the dynamics of modern economics and finance.

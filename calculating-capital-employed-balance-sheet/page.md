@@ -1,6 +1,8 @@
 ---
-title: "Calculating Capital Employed from a Balance Sheet (Algo Trading)"
-description: "Explore calculating capital employed from balance sheets in algo trading highlighting its impact on strategy performance and essential financial metrics."
+category: quant_concept
+description: Explore calculating capital employed from balance sheets in algo trading
+  highlighting its impact on strategy performance and essential financial metrics.
+title: Calculating Capital Employed from a Balance Sheet (Algo Trading)
 ---
 
 In the context of algorithmic trading, capital employed, financial calculations, and balance sheets are integral components that collectively determine the financial soundness and performance of trading strategies. This article explores how these elements interact, emphasizing the critical role that precise financial calculations play in optimizing returns through algorithmic trading. Algorithmic trading, which relies heavily on automated systems to execute trades at optimal speeds and efficiencies, necessitates the use of precise financial metrics to maintain a competitive edge in dynamic markets.

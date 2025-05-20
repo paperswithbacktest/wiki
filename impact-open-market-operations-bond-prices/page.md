@@ -1,6 +1,9 @@
 ---
-title: "Impact of Open Market Operations on Bond Prices (Algo Trading)"
-description: "Explore how Open Market Operations impact bond prices and monetary policy decision-making. Understand their relevance in algorithmic trading and economic dynamics."
+category: quant_concept
+description: Explore how Open Market Operations impact bond prices and monetary policy
+  decision-making. Understand their relevance in algorithmic trading and economic
+  dynamics.
+title: Impact of Open Market Operations on Bond Prices (Algo Trading)
 ---
 
 Open Market Operations (OMOs) are instrumental tools employed by central banks globally to maintain control over the money supply and steer interest rates to desired levels. These operations involve the buying and selling of government securities in the open market to adjust banking reserves, thereby influencing broader economic conditions. By purchasing securities, a central bank injects liquidity into the financial system, while selling securities has the opposite effect, withdrawing liquidity and potentially leading to higher interest rates. 

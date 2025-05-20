@@ -1,6 +1,8 @@
 ---
-title: "Law of Supply: Curve, Types, and Examples (Algo Trading)"
-description: "Explore the law of supply including types and examples in algorithmic trading Learn how supply curves and market dynamics impact economic strategies"
+category: quant_concept
+description: Explore the law of supply including types and examples in algorithmic
+  trading Learn how supply curves and market dynamics impact economic strategies
+title: 'Law of Supply: Curve, Types, and Examples (Algo Trading)'
 ---
 
 Supply is a cornerstone of economic theory, embodying the various quantities of a good or service that producers are willing and able to offer at different price levels over a specific period. Its significance in economics cannot be overstated, as it directly influences market dynamics, pricing strategies, and economic equilibrium. The comprehensive understanding of supply is critical to navigating and interpreting the complexities of market behavior.

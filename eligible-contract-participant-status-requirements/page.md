@@ -1,6 +1,8 @@
 ---
-title: "Eligible Contract Participant Status and Requirements (Algo Trading)"
-description: "Discover the essentials of Eligible Contract Participant status in commodities trading. Learn about the requirements, benefits, and regulatory framework for ECPs."
+category: quant_concept
+description: Discover the essentials of Eligible Contract Participant status in commodities
+  trading. Learn about the requirements, benefits, and regulatory framework for ECPs.
+title: Eligible Contract Participant Status and Requirements (Algo Trading)
 ---
 
 Commodities trading plays a significant role in the global financial landscape, offering a complex and dynamic field for investors and institutions alike. At the core of this marketplace are Eligible Contract Participants (ECPs), who are crucial actors capable of engaging in sophisticated financial activities that are often beyond the reach of average investors. ECPs must navigate a myriad of regulations to operate legally and effectively, a task that demands a deep understanding of financial rules under pertinent legislation, such as the Commodity Exchange Act and the Dodd-Frank Act.

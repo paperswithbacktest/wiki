@@ -1,6 +1,15 @@
 ---
-title: "Contango (Algo Trading)"
-description: Contango is a key concept in futures markets, crucial for algorithmic trading strategies. It refers to a scenario where futures prices are higher than spot prices, indicating expected price rises due to factors like storage costs. For traders using algorithms, contango provides opportunities for profit through arbitrage and hedging. Algorithms excel in swiftly identifying contango by analyzing extensive market data, allowing traders to capitalize on price discrepancies and adapt strategies in real-time. Understanding contango is essential for maximizing returns and managing risk in algorithmic trading, as it shapes trading decisions and futures pricing models.
+category: quant_concept
+description: Contango is a key concept in futures markets, crucial for algorithmic
+  trading strategies. It refers to a scenario where futures prices are higher than
+  spot prices, indicating expected price rises due to factors like storage costs.
+  For traders using algorithms, contango provides opportunities for profit through
+  arbitrage and hedging. Algorithms excel in swiftly identifying contango by analyzing
+  extensive market data, allowing traders to capitalize on price discrepancies and
+  adapt strategies in real-time. Understanding contango is essential for maximizing
+  returns and managing risk in algorithmic trading, as it shapes trading decisions
+  and futures pricing models.
+title: Contango (Algo Trading)
 ---
 
 Contango is a vital concept in futures markets, serving as a cornerstone for various trading strategies, especially in the sophisticated sphere of algorithmic trading. At its core, contango refers to a situation where the futures price of a commodity is higher than its spot price. This phenomenon typically signals the market's expectation of rising prices in the future, reflecting factors such as carrying costs and storage fees. For traders utilizing algorithmic strategies, contango offers a landscape rich with opportunities for profit generation.

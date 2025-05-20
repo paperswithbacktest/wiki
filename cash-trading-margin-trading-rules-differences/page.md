@@ -1,6 +1,8 @@
 ---
-title: "Cash Trading and Margin Trading: Rules and Differences (Algo Trading)"
-description: "Discover the key differences and rules between cash, margin, and algorithmic trading to enhance your investment strategy by managing risks and maximizing returns."
+category: trading_strategy
+description: Discover the key differences and rules between cash, margin, and algorithmic
+  trading to enhance your investment strategy by managing risks and maximizing returns.
+title: 'Cash Trading and Margin Trading: Rules and Differences (Algo Trading)'
 ---
 
 Trading is a multifaceted domain characterized by various methodologies, each with distinct rules and attributes. This discussion focuses on three prominent trading strategies: margin trading, cash trading, and algorithmic trading. Understanding these strategies and their foundational rules is essential for investors who aspire to enhance returns while managing associated risks. By adopting a well-informed approach, traders can efficiently steer through market complexities and make strategic decisions. This guide aims to deliver insightful knowledge on each trading type, presenting a thorough exploration of their core principles.

@@ -1,6 +1,8 @@
 ---
-title: "Net Foreign Factor Income: Equation and Importance (Algo Trading)"
-description: "Understand Net Foreign Factor Income's importance and its impact on algorithmic trading strategies. Discover how NFFI shapes global economic interactions."
+category: quant_concept
+description: Understand Net Foreign Factor Income's importance and its impact on algorithmic
+  trading strategies. Discover how NFFI shapes global economic interactions.
+title: 'Net Foreign Factor Income: Equation and Importance (Algo Trading)'
 ---
 
 In today's economic landscape, understanding complex financial indicators such as Net Foreign Factor Income (NFFI) is crucial. NFFI, which measures the balance of income generated from a nation's international investments versus income paid to foreign investors, offers insights into a nation's economic standing beyond mere domestic outputs. By examining NFFI, stakeholders can gain a deeper comprehension of the economic health and international economic ties of a country, which is essential for shaping global economic strategies.

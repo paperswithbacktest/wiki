@@ -1,6 +1,8 @@
 ---
-title: "Neural Networks for Trading (Algo Trading)"
-description: "Discover how neural networks revolutionize algorithmic trading by enhancing accuracy and adaptability in financial markets with advanced data analysis tools."
+category: trading_strategy
+description: Discover how neural networks revolutionize algorithmic trading by enhancing
+  accuracy and adaptability in financial markets with advanced data analysis tools.
+title: Neural Networks for Trading (Algo Trading)
 ---
 
 In the rapidly evolving world of digital technology and artificial intelligence, algorithmic trading has emerged as a transformative force in financial markets. It involves using computer programs to execute trades at speeds and frequencies unimaginable to human traders, fundamentally redefining how trades are conducted. A significant development within algorithmic trading is the integration of neural networks, a subset of artificial intelligence technologies, which are being increasingly utilized to enhance predictive accuracy and adaptability.

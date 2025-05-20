@@ -1,6 +1,9 @@
 ---
-title: "Marginal Utility and Indifference Curves in Microeconomics (Algo Trading)"
-description: "Explore how microeconomics intersects with algorithmic trading by leveraging marginal utility and indifference curves to optimize trading strategies and analyze markets."
+category: quant_concept
+description: Explore how microeconomics intersects with algorithmic trading by leveraging
+  marginal utility and indifference curves to optimize trading strategies and analyze
+  markets.
+title: Marginal Utility and Indifference Curves in Microeconomics (Algo Trading)
 ---
 
 In today's rapidly advancing financial world, the intersection of microeconomics and algorithmic trading presents an invaluable framework for analyzing and understanding consumer behavior and market dynamics. This convergence is increasingly relevant as markets become more complex and data-driven decision-making takes center stage. By scrutinizing key microeconomic concepts such as marginal utility and indifference curves, financial analysts and traders are equipped with powerful tools to optimize trading strategies, leading to more informed and precise market behavior insights.

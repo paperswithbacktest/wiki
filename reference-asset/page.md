@@ -1,6 +1,9 @@
 ---
-title: "Reference Asset (Algo Trading)"
-description: "Explore the dynamic world of investment strategies with insights on financial and investment assets reference assets and algorithmic trading to optimize market returns."
+category: quant_concept
+description: Explore the dynamic world of investment strategies with insights on financial
+  and investment assets reference assets and algorithmic trading to optimize market
+  returns.
+title: Reference Asset (Algo Trading)
 ---
 
 In the modern financial landscape, investment strategies and trading approaches are constantly evolving, driven by advancements in technology and the dynamic nature of markets. Investors are often required to grasp a range of concepts to successfully navigate this environment, including financial assets, investment assets, reference assets, and algorithmic trading. Each of these elements plays a crucial role in shaping investment decisions and strategies.

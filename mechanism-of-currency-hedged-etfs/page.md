@@ -1,6 +1,8 @@
 ---
-title: "Mechanism of Currency-Hedged ETFs (Algo Trading)"
-description: "Explore how currency-hedged ETFs and algorithmic trading work together to manage currency risk and optimize investment returns in global markets."
+category: trading_strategy
+description: Explore how currency-hedged ETFs and algorithmic trading work together
+  to manage currency risk and optimize investment returns in global markets.
+title: Mechanism of Currency-Hedged ETFs (Algo Trading)
 ---
 
 As global markets continue to evolve, investors are increasingly looking for ways to maximize returns while minimizing risks. One area of concern for international investors is currency risk, which arises due to fluctuations in exchange rates and can significantly erode the returns of an investment portfolio. For example, an investor holding foreign assets could see gains in stock value negated by an unfavorable movement in currency exchange rates, emphasizing the need for strategies to manage this risk effectively.

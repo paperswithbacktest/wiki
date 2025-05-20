@@ -1,6 +1,9 @@
 ---
-title: "Optionable Stock: Definition, Operation, and Requirements (Algo Trading)"
-description: "Explore the dynamic world of optionable stocks and algorithmic trading Discover how these financial tools operate and the requirements they meet for trading success"
+category: quant_concept
+description: Explore the dynamic world of optionable stocks and algorithmic trading
+  Discover how these financial tools operate and the requirements they meet for trading
+  success
+title: 'Optionable Stock: Definition, Operation, and Requirements (Algo Trading)'
 ---
 
 The dynamic landscape of trading offers numerous avenues for financial engagement, particularly through the integration of optionable stocks, stock options trading requirements, and algorithmic trading techniques. Optionable stocks are those with listed options, meeting specific exchange criteria which facilitate a range of trading strategies. These stocks enhance a trader's capability to leverage options for hedging, speculation, or income generation, creating diverse portfolio opportunities. However, navigating the prerequisites for a stock to be optionable involves understanding exchange mandates such as trading volumes, liquidity measures, and share price standards that underpin the eligibility for options trading.

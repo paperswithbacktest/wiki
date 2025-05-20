@@ -1,6 +1,8 @@
 ---
-title: "Marginal Utility and Marginal Benefit: Differences (Algo Trading)"
-description: "Explore the differences between marginal utility and marginal benefit in economics and their application in algorithmic trading to enhance trading strategies."
+category: quant_concept
+description: Explore the differences between marginal utility and marginal benefit
+  in economics and their application in algorithmic trading to enhance trading strategies.
+title: 'Marginal Utility and Marginal Benefit: Differences (Algo Trading)'
 ---
 
 In economics, marginal benefit and marginal utility are foundational concepts that help in understanding decision-making processes and consumer behavior. Marginal benefit refers to the additional satisfaction or advantage gained from consuming one more unit of a good or service. It is essential in evaluating whether the additional consumption of a good is worth its cost. Mathematically, it is expressed as the change in total benefit divided by the change in quantity, often expressed as ΔB/ΔQ. Marginal utility, on the other hand, is the additional satisfaction a consumer gains from consuming an additional unit of a good or service. It helps explain consumer choices and preferences, highlighting how the utility derived from goods changes with consumption levels. As consumption increases, marginal utility typically decreases, a phenomenon known as diminishing marginal utility. 

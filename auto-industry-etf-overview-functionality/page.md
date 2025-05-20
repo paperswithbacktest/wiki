@@ -1,6 +1,8 @@
 ---
-title: "Auto Industry ETF: Overview and Functionality (Algo Trading)"
-description: "Explore the synergy of the auto industry ETFs and algorithmic trading offering innovative investment opportunities amidst dynamic market transformations."
+category: quant_concept
+description: Explore the synergy of the auto industry ETFs and algorithmic trading
+  offering innovative investment opportunities amidst dynamic market transformations.
+title: 'Auto Industry ETF: Overview and Functionality (Algo Trading)'
 ---
 
 The intersection of the auto industry, Exchange-Traded Funds (ETFs), and algorithmic trading represents a novel convergence of technological advancements and financial innovation. This synergy has the potential to reshape investment landscapes, offering new opportunities for market participants.

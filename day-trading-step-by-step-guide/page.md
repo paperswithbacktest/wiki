@@ -1,6 +1,8 @@
 ---
-title: "Day Trading: A Step-by-Step Guide (Algo Trading)"
-description: "Explore the world of day trading and algorithmic trading with this comprehensive guide Learn key strategies techniques and risk management for success"
+category: trading_strategy
+description: Explore the world of day trading and algorithmic trading with this comprehensive
+  guide Learn key strategies techniques and risk management for success
+title: 'Day Trading: A Step-by-Step Guide (Algo Trading)'
 ---
 
 In today's fast-paced financial markets, trading has emerged as a popular career choice, attracting many aspiring traders to the opportunities presented by day trading and algorithmic trading. Both methods offer distinct paths to profitability and require a specific set of skills and knowledge to navigate effectively.

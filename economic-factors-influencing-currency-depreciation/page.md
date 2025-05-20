@@ -1,6 +1,9 @@
 ---
-title: "Economic Factors Influencing Currency Depreciation (Algo Trading)"
-description: "Explore the intricate dynamics of currency depreciation influenced by economic factors such as inflation and interest rates within the algorithmic trading landscape."
+category: quant_concept
+description: Explore the intricate dynamics of currency depreciation influenced by
+  economic factors such as inflation and interest rates within the algorithmic trading
+  landscape.
+title: Economic Factors Influencing Currency Depreciation (Algo Trading)
 ---
 
 The foreign exchange (forex) market stands as one of the most significant and liquid financial markets globally, serving as the cornerstone of international trade and investment by allowing currencies to be exchanged freely. Foreign exchange transactions are vital for conducting cross-border business, affecting everything from the price of imported goods to the cost of global travel. The forex market operates with astronomical daily trading volumes—reaching upwards of $6 trillion—highlighting its pivotal role in global economic activities.

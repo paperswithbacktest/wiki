@@ -1,6 +1,12 @@
 ---
-title: "Train-Test Split Explained (Algo Trading)"
-description: Learn about train-test split and cross-validation techniques essential for validating algorithmic trading models. Explore how each method operates, their applications, and implications in trading to optimize strategies and minimize risks. Understand the importance of selecting the right validation approach based on data characteristics and computational needs to ensure robust and successful trading algorithms.
+category: trading_strategy
+description: Learn about train-test split and cross-validation techniques essential
+  for validating algorithmic trading models. Explore how each method operates, their
+  applications, and implications in trading to optimize strategies and minimize risks.
+  Understand the importance of selecting the right validation approach based on data
+  characteristics and computational needs to ensure robust and successful trading
+  algorithms.
+title: Train-Test Split Explained (Algo Trading)
 ---
 
 In algorithmic trading, developing and optimizing models represents a critical pursuit for those seeking to achieve success in financial markets. At the heart of this endeavor lies the essential task of model validation. This process ensures that models not only perform well on historical data but also maintain their efficacy when applied to unseen data. Achieving reliable model validation contributes to the robustness and profitability of trading strategies, minimizing potential risks associated with overfitting or underfitting the data.

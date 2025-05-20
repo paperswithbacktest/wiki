@@ -1,6 +1,9 @@
 ---
-title: "Vietnamese Dong: Overview and Functionality (Algo Trading)"
-description: "Explore the significance of the Vietnamese Dong in financial markets and its intersection with algorithmic trading trends, highlighting opportunities for global traders."
+category: quant_concept
+description: Explore the significance of the Vietnamese Dong in financial markets
+  and its intersection with algorithmic trading trends, highlighting opportunities
+  for global traders.
+title: 'Vietnamese Dong: Overview and Functionality (Algo Trading)'
 ---
 
 The Vietnamese Dong (VND) serves as the official currency of Vietnam, recognized for its vital role in both the domestic and international financial markets. Currency systems are fundamental components of the financial ecosystem, enabling trade, determining economic value, and facilitating exchange both within and across nations. The stability and value of a currency like the VND are influenced by numerous factors, including economic policies, geopolitical dynamics, and market sentiments.

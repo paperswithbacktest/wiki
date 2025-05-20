@@ -1,7 +1,8 @@
 ---
-title: Comprehensive Guide To Object Detection In Machine Learning
+category: quant_concept
 description: Object detection in machine learning offers a detailed overview of key
   concepts applications algorithms and performance metrics Discover more inside
+title: Comprehensive Guide To Object Detection In Machine Learning
 ---
 
 ![Image](images/1.jpeg)

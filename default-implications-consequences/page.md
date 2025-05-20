@@ -1,6 +1,9 @@
 ---
-title: "Default: Implications and Consequences (Algo Trading)"
-description: "Explore the impacts of financial defaults on algorithmic trading and investment strategies while learning to manage risks in today's dynamic financial landscape."
+category: quant_concept
+description: Explore the impacts of financial defaults on algorithmic trading and
+  investment strategies while learning to manage risks in today's dynamic financial
+  landscape.
+title: 'Default: Implications and Consequences (Algo Trading)'
 ---
 
 The concept of 'default' in the financial world is multi-faceted, encompassing various scenarios such as failing to meet debt obligations and automated trading systems making decisions based on default parameters. Understanding the consequences of financial defaults and their impact on algorithmic trading is crucial, especially in today's fast-paced financial markets. Financial defaults can disrupt markets, leading to increased volatility and affecting trading strategies. 

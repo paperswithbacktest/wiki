@@ -1,7 +1,8 @@
 ---
-title: Achieving Demographic Parity for Fairness in Machine Learning
+category: quant_concept
 description: Demographic parity ensures machine learning models deliver equal positive
   outcomes across groups to promote fairness and build trust. Discover more inside.
+title: Achieving Demographic Parity for Fairness in Machine Learning
 ---
 
 ![Image](images/1.png)

@@ -1,6 +1,9 @@
 ---
-title: "Bidding Up Securities: Mechanisms and Examples (Algo Trading)"
-description: "Explore how algorithmic trading transforms bidding up securities with speed and precision allowing investors to navigate and capitalize in dynamic financial markets."
+category: quant_concept
+description: Explore how algorithmic trading transforms bidding up securities with
+  speed and precision allowing investors to navigate and capitalize in dynamic financial
+  markets.
+title: 'Bidding Up Securities: Mechanisms and Examples (Algo Trading)'
 ---
 
 In today's dynamic financial markets, investment strategies are constantly evolving to leverage technological advancements and market mechanisms. With technological innovations such as algorithmic trading, the landscape of how investments are executed has drastically transformed. Algorithmic trading employs sophisticated algorithms to automate trading decisions, enabling rapid execution that surpasses human capabilities. This speed and efficiency have added a technological edge to financial markets, changing the traditional concepts of bidding and price determination.

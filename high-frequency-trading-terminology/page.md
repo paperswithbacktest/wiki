@@ -1,6 +1,8 @@
 ---
-title: "High-Frequency Trading Terminology (Algo Trading)"
-description: "Explore the intricacies of high-frequency and algorithmic trading terminology, uncovering their structures and impact on today's financial markets."
+category: quant_concept
+description: Explore the intricacies of high-frequency and algorithmic trading terminology,
+  uncovering their structures and impact on today's financial markets.
+title: High-Frequency Trading Terminology (Algo Trading)
 ---
 
 The rapid evolution of technology has significantly transformed financial markets, with high-frequency trading (HFT) and algorithmic trading becoming prominent features in this dynamic environment. These advanced trading techniques utilize complex algorithms and cutting-edge computing power to execute trades at unprecedented speeds, aiming to capitalize on even the smallest market inefficiencies. Understanding these sophisticated methodologies is essential for investors and industry professionals who seek to remain competitive in today's fast-paced financial landscape. 

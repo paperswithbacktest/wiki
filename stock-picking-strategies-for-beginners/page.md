@@ -1,6 +1,9 @@
 ---
-title: "Stock Picking Strategies for Beginners (Algo Trading)"
-description: "Explore stock picking strategies for beginners focusing on the integration of algorithmic trading and AI. Learn how these tools simplify complex decisions, enhancing investment success."
+category: trading_strategy
+description: Explore stock picking strategies for beginners focusing on the integration
+  of algorithmic trading and AI. Learn how these tools simplify complex decisions,
+  enhancing investment success.
+title: Stock Picking Strategies for Beginners (Algo Trading)
 ---
 
 Investment in the stock market presents both opportunities for substantial financial gain and challenges that can be especially daunting for newcomers. The complexity of navigating the stock market often stems from the multitude of investment options and strategies available. However, understanding the fundamentals of stock picking, alongside the innovative role of algorithmic trading, can significantly ease this journey.

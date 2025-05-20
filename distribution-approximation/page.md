@@ -1,7 +1,8 @@
 ---
-title: Understanding Distribution Approximation Techniques In ML
+category: quant_concept
 description: Distribution approximation simplifies complex data by fitting tractable
   distributions for faster model training and performance gains. Discover more inside
+title: Understanding Distribution Approximation Techniques In ML
 ---
 
 ![Image](images/1.png)

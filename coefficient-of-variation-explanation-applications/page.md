@@ -1,6 +1,8 @@
 ---
-title: "Coefficient of Variation: Explanation and Applications (Algo Trading)"
-description: "Explore how the coefficient of variation and data variability enhance algorithmic trading by assessing risk-reward ratios and improving trading strategies."
+category: quant_concept
+description: Explore how the coefficient of variation and data variability enhance
+  algorithmic trading by assessing risk-reward ratios and improving trading strategies.
+title: 'Coefficient of Variation: Explanation and Applications (Algo Trading)'
 ---
 
 In algorithmic trading, statistical metrics and their applications are essential for achieving success. As traders and developers strive for more sophisticated and efficient trading strategies, understanding complex statistical concepts becomes increasingly important. This article focuses on two significant components of statistical analysis: data variability and the coefficient of variation (CV). Both are instrumental in crafting robust trading algorithms that can effectively manage risk and exploit market opportunities.

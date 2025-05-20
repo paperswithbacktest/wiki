@@ -1,6 +1,9 @@
 ---
-title: "Yieldstreet: An Overview for 2024 (Algo Trading)"
-description: "Discover how Yieldstreet is revolutionizing investments in 2024 by integrating advanced algorithmic trading technologies to offer diverse alternative investment options."
+category: trading_strategy
+description: Discover how Yieldstreet is revolutionizing investments in 2024 by integrating
+  advanced algorithmic trading technologies to offer diverse alternative investment
+  options.
+title: 'Yieldstreet: An Overview for 2024 (Algo Trading)'
 ---
 
 In 2024, the investment landscape continues to evolve rapidly, driven by technological advancements and the increasing demand for more diversified investment opportunities. Modern investment platforms have embraced these technological innovations, particularly in enhancing the efficiency and accessibility of trading activities. Among these platforms, Yieldstreet has emerged as a noteworthy player, offering investors access to a broad spectrum of alternative investments, distinguishing itself from traditional platforms that focus primarily on stocks and bonds.

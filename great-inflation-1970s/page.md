@@ -1,6 +1,8 @@
 ---
-title: "The Great Inflation of the 1970s (Algo Trading)"
-description: "Explore the challenges of the 1970s Great Inflation and how algorithmic trading leverages historical insights to enhance modern financial strategies."
+category: quant_concept
+description: Explore the challenges of the 1970s Great Inflation and how algorithmic
+  trading leverages historical insights to enhance modern financial strategies.
+title: The Great Inflation of the 1970s (Algo Trading)
 ---
 
 The 1970s was a tumultuous period marked by significant economic challenges, predominantly characterized by the Great Inflation. This era was defined by soaring inflation rates that posed substantial hurdles to economic stability in the United States. The phenomenon of the Great Inflation arose from a confluence of factors, including policy decisions, economic shocks, and market behaviors, each contributing to the complex economic climate of that decade. 

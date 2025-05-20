@@ -1,6 +1,8 @@
 ---
-title: "Regulation in Algorithmic Trading (Algo Trading)"
-description: "Explore the evolving landscape of algorithmic trading regulation with a focus on SEBI's recent updates aiming to ensure transparency and market integrity."
+category: quant_concept
+description: Explore the evolving landscape of algorithmic trading regulation with
+  a focus on SEBI's recent updates aiming to ensure transparency and market integrity.
+title: Regulation in Algorithmic Trading (Algo Trading)
 ---
 
 Algorithmic trading, commonly referred to as Algo Trading, has become a significant component of modern financial markets. This form of trading involves the use of pre-programmed trading strategies executed at high speeds through algorithms to transact in financial markets. The rise of technology has enabled this rapid transformation, allowing both institutional and retail traders to implement complex strategies that were once reserved for high-frequency trading firms. Consequently, regulators worldwide have recognized the pressing need to ensure the transparency, fairness, and responsibility of automated trading practices to safeguard market integrity.

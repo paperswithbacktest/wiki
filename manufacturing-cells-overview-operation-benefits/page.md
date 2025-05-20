@@ -1,6 +1,8 @@
 ---
-title: "Manufacturing Cells: Overview, Operation, and Benefits (Algo Trading)"
-description: "Discover the transformative impact of manufacturing cells and algorithmic trading on industrial efficiency and financial systems driving innovation and productivity."
+category: quant_concept
+description: Discover the transformative impact of manufacturing cells and algorithmic
+  trading on industrial efficiency and financial systems driving innovation and productivity.
+title: 'Manufacturing Cells: Overview, Operation, and Benefits (Algo Trading)'
 ---
 
 The convergence of manufacturing efficiency and financial technologies has brought about significant transformations across global industries. As businesses strive to optimize their operations in an increasingly competitive landscape, the integration of advanced manufacturing and financial systems has emerged as a game-changing solution. This article examines how industrial efficiency, through the use of manufacturing cells and algorithmic trading, is reshaping the way companies operate.

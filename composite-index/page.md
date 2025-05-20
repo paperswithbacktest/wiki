@@ -1,6 +1,9 @@
 ---
-title: "Composite Index (Algo Trading)"
-description: "Explore the significance of composite indexes in algorithmic trading Learn how these benchmarks provide insights into market conditions to inform trading strategies"
+category: quant_concept
+description: Explore the significance of composite indexes in algorithmic trading
+  Learn how these benchmarks provide insights into market conditions to inform trading
+  strategies
+title: Composite Index (Algo Trading)
 ---
 
 Financial indexes play a crucial role in the global investment landscape, serving as benchmarks that reflect the performance of specific segments of the financial markets. These indexes are used by a wide range of market participants, including fund managers, individual investors, and policymakers, to gauge market trends and make informed investment decisions. Understanding the different types of financial indexes and their applications is essential for anyone involved in the financial markets, as these benchmarks offer insights into market dynamics and investor sentiment.

@@ -1,6 +1,8 @@
 ---
-title: "Monetary Policy in China (Algo Trading)"
-description: "Explore how China harmonizes monetary policy and algorithmic trading to drive economic growth and stabilize markets in an evolving financial landscape."
+category: quant_concept
+description: Explore how China harmonizes monetary policy and algorithmic trading
+  to drive economic growth and stabilize markets in an evolving financial landscape.
+title: Monetary Policy in China (Algo Trading)
 ---
 
 The intersection of money supply management, monetary policy, and algorithmic trading is becoming increasingly pivotal in shaping China's financial landscape. As a cornerstone in the Chinese economic architecture, monetary policy plays a crucial role by steering economic growth, stabilizing prices, and fostering employment. The People's Bank of China (PBoC), the nation's central bank, is the principal entity responsible for implementing these monetary policies to ensure economic balance and sustainability. Through a variety of tools like open market operations, interest rate adjustments, and reserve requirements, the PBoC adjusts the money supply to maintain economic stability.

@@ -1,6 +1,9 @@
 ---
-title: "National Currency: Function and Importance (Algo Trading)"
-description: "Explore the critical role of national currencies in global economic systems and the impact of algorithmic trading on currency values and economic opportunities worldwide."
+category: quant_concept
+description: Explore the critical role of national currencies in global economic systems
+  and the impact of algorithmic trading on currency values and economic opportunities
+  worldwide.
+title: 'National Currency: Function and Importance (Algo Trading)'
 ---
 
 In today's global economy, economic systems are intricately connected with national currencies and advanced technologies like algorithmic trading. The dynamics between these elements play a crucial role in shaping the economic landscape, influencing factors such as trade, inflation, and overall economic growth. National currencies serve as the backbone of economic systems, facilitating trade and providing a measure of value while acting as a store of wealth. Advanced technologies such as algorithmic trading harness computer algorithms to automate the execution of trades, capitalizing on currency market fluctuations to optimize trading efficiency and speed.

@@ -1,6 +1,8 @@
 ---
-title: "Advantages and Disadvantages of Paper Trading (Algo Trading)"
-description: "Explore the benefits and challenges of paper trading for algorithmic trading mastery. Learn how simulation can build confidence and improve trading strategies."
+category: trading_strategy
+description: Explore the benefits and challenges of paper trading for algorithmic
+  trading mastery. Learn how simulation can build confidence and improve trading strategies.
+title: Advantages and Disadvantages of Paper Trading (Algo Trading)
 ---
 
 In the fast-paced world of trading, mastering the basics before entering real-world markets is crucial. This article offers insights into trading practice with a specific focus on paper trading, investment strategies, and algorithmic trading. As the majority of trading happens electronically, algorithmic trading has gained significant traction. Understanding these concepts can help you stay ahead in the trading game. 

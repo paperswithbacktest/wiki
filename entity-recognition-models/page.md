@@ -1,7 +1,8 @@
 ---
-title: Comprehensive Guide to Entity Recognition in Machine Learning
+category: quant_concept
 description: Entity Recognition extracts and labels names dates and locations in text
   using ML and PFN filters for accuracy and speed Discover more inside
+title: Comprehensive Guide to Entity Recognition in Machine Learning
 ---
 
 ![Image](images/1.jpeg)

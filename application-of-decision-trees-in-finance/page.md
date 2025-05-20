@@ -1,6 +1,9 @@
 ---
-title: "Application of Decision Trees in Finance (Algo Trading)"
-description: "Explore how decision trees enhance financial modeling and algorithmic trading by providing clarity and structure for risk assessment and strategic planning in finance."
+category: quant_concept
+description: Explore how decision trees enhance financial modeling and algorithmic
+  trading by providing clarity and structure for risk assessment and strategic planning
+  in finance.
+title: Application of Decision Trees in Finance (Algo Trading)
 ---
 
 Understanding financial modeling is crucial for making informed decisions in the finance industry. Financial modeling involves constructing abstract representations of real-world financial situations, allowing businesses to analyze their financial performance and forecast future scenarios. These models are indispensable tools for assessing risks, evaluating investment opportunities, and guiding strategic planning. They typically incorporate various financial statements, such as income statements, balance sheets, and cash flow statements, and employ quantitative analysis techniques to simulate potential outcomes.

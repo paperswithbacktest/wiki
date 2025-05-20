@@ -1,6 +1,9 @@
 ---
-title: "Off-Balance Sheet Financing (Algo Trading)"
-description: "Explore how off-balance sheet financing and algorithmic trading intersect to influence corporate finance and investment strategies globally, shaping modern markets."
+category: quant_concept
+description: Explore how off-balance sheet financing and algorithmic trading intersect
+  to influence corporate finance and investment strategies globally, shaping modern
+  markets.
+title: Off-Balance Sheet Financing (Algo Trading)
 ---
 
 In today's complex financial landscape, off-balance sheet financing (OBSF) and algorithmic trading have become increasingly critical. These mechanisms not only shape corporate finance but also influence investment strategies on a global scale. This article explores how these two concepts intersect and the implications on corporate finance and investment strategies. 

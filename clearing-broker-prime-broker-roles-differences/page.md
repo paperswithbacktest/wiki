@@ -1,6 +1,9 @@
 ---
-title: "Clearing Broker and Prime Broker: Roles and Differences (Algo Trading)"
-description: "Explore the roles and differences between clearing and prime brokers in algo trading Discover how these entities enhance efficiency and reduce risk in financial markets"
+category: quant_concept
+description: Explore the roles and differences between clearing and prime brokers
+  in algo trading Discover how these entities enhance efficiency and reduce risk in
+  financial markets
+title: 'Clearing Broker and Prime Broker: Roles and Differences (Algo Trading)'
 ---
 
 Prime broker financial services are pivotal in the operation of financial markets, providing essential services that facilitate the activities of large institutional investors. These services encompass a broad spectrum, including custody services, securities lending, leveraged trading capabilities, and comprehensive risk management solutions. The significance of prime brokerage lies in its ability to streamline operations for hedge funds, asset managers, and other financial entities by offering a consolidated platform for executing trades and managing investments efficiently.

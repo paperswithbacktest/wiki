@@ -1,9 +1,9 @@
 ---
-title: AvaTrade 2024 Trading Platform Features Fees Security And Tools
+category: trading_strategy
 description: AvaTrade provides user friendly trading with demo accounts educational
   resources competitive spreads and secure data protection Discover more inside
+title: AvaTrade 2024 Trading Platform Features Fees Security And Tools
 ---
-
 
 ![Image](images/1.png)
 

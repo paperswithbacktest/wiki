@@ -1,6 +1,9 @@
 ---
-title: "Debt-to-Equity Ratio Formula and Interpretation (Algo Trading)"
-description: "Discover how the debt-to-equity ratio formula reveals a company's financial leverage crucial for investors and algorithmic trading strategies to assess risk and stability."
+category: quant_concept
+description: Discover how the debt-to-equity ratio formula reveals a company's financial
+  leverage crucial for investors and algorithmic trading strategies to assess risk
+  and stability.
+title: Debt-to-Equity Ratio Formula and Interpretation (Algo Trading)
 ---
 
 The financial landscape is constantly evolving, and evaluating a company's performance requires robust methodologies. Among these, the debt-to-equity (D/E) ratio stands as a crucial financial metric used to evaluate a company's financial leverage. This ratio provides insight into the proportion of a company's funding that comes from creditors compared to what is sourced from shareholders. Understanding the D/E ratio aids in assessing a company's strategic positioning and financial health, making it an indispensable tool for investors, analysts, and decision-makers.
@@ -122,4 +125,3 @@ The CFA Institute's materials on financial leverage and the Debt-to-Equity Ratio
 John C. Hull's "Options, Futures, and Other Derivatives" (2012) includes an exploration of how different financial derivatives may interact with corporate financial metrics, such as the D/E ratio. Hull's work is critical for understanding how leverage can influence valuations and the management of financial risk in derivative markets.
 
 The study by K. Tsatsaronis and H. Zhu (2004), titled "What Drives Housing Price Dynamics: Cross-country Evidence," provides empirical evidence on factors influencing housing markets. While the focus is on housing prices, insights from this study may indirectly relate to how external economic factors can impact a company's financial ratios, including its D/E ratio, through changes in asset values and investment strategies.
-

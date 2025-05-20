@@ -1,6 +1,8 @@
 ---
-title: "Accruals: Mechanism and Types (Algo Trading)"
-description: "Explore accruals in finance and algorithmic trading with insights on their importance in accurate financial reporting and strategy development."
+category: quant_concept
+description: Explore accruals in finance and algorithmic trading with insights on
+  their importance in accurate financial reporting and strategy development.
+title: 'Accruals: Mechanism and Types (Algo Trading)'
 ---
 
 Accruals are integral to finance and accounting, providing a precise depiction of a company's financial health. In accrual accounting, revenues and expenses are recorded when incurred, irrespective of cash flow. This principle, mandated by both Generally Accepted Accounting Principles (GAAP) and International Financial Reporting Standards (IFRS), ensures that financial statements accurately reflect a company's current economic activities and obligations.

@@ -1,6 +1,10 @@
 ---
-title: "Ba2/BB Credit Ratings and Associated Risks (Algo Trading)"
-description: "Discover the risks and significance of Ba2 and BB credit ratings in financial markets, particularly within algorithmic trading. Explore how these speculative-grade ratings impact investment decisions and market dynamics as traders integrate them into sophisticated strategies to navigate potential defaults and optimize returns."
+category: quant_concept
+description: Discover the risks and significance of Ba2 and BB credit ratings in financial
+  markets, particularly within algorithmic trading. Explore how these speculative-grade
+  ratings impact investment decisions and market dynamics as traders integrate them
+  into sophisticated strategies to navigate potential defaults and optimize returns.
+title: Ba2/BB Credit Ratings and Associated Risks (Algo Trading)
 ---
 
 Credit ratings are fundamental components of financial markets, offering essential insights into the creditworthiness of individuals, corporations, and governments. These evaluations are pivotal for investors, lenders, and analysts who rely on them to make well-informed decisions. Among the various credit ratings, BB and Ba2 hold particular significance as they categorize debt instruments that are considered speculative-grade, commonly known as "junk" ratings. These classifications inform investors about the heightened risk profile associated with the issuers and impact the financial instruments' market dynamics.

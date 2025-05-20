@@ -1,6 +1,12 @@
 ---
-title: "Institutional Ownership: Benefits and Drawbacks (Algo Trading)"
-description: "Explore the benefits and drawbacks of institutional ownership in financial markets with a deep dive into investment shareholding and algorithmic trading. Understand how institutional investors like mutual funds and pension funds impact market dynamics and corporate governance. Learn about the role and influence of algo trading, and examine potential future trends and regulatory considerations in this comprehensive analysis."
+category: quant_concept
+description: Explore the benefits and drawbacks of institutional ownership in financial
+  markets with a deep dive into investment shareholding and algorithmic trading. Understand
+  how institutional investors like mutual funds and pension funds impact market dynamics
+  and corporate governance. Learn about the role and influence of algo trading, and
+  examine potential future trends and regulatory considerations in this comprehensive
+  analysis.
+title: 'Institutional Ownership: Benefits and Drawbacks (Algo Trading)'
 ---
 
 Investment shareholding has become increasingly important in today's global financial markets. This significance stems from its potential to influence market dynamics and corporate governance. Investment shareholding refers to the ownership of company shares by individuals or entities, allowing shareholders to benefit from potential profits and to influence company decisions.

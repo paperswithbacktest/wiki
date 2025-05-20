@@ -1,6 +1,8 @@
 ---
-title: "Non-Standard Monetary Policy (Algo Trading)"
-description: "Explore the intricate dynamics between monetary policy, central banking, and algorithmic trading to understand their collective impact on global finance."
+category: quant_concept
+description: Explore the intricate dynamics between monetary policy, central banking,
+  and algorithmic trading to understand their collective impact on global finance.
+title: Non-Standard Monetary Policy (Algo Trading)
 ---
 
 Understanding the intricate relationship between economic policy, monetary policy, central banking, and algorithmic trading is crucial for navigating the modern financial landscape. This article aims to explore these interconnected domains, their individual roles, and how they collectively influence the global economic framework. Economic policy broadly encompasses strategies aiming to manage a nation's economy, focusing on objectives like stable prices, full employment, and economic growth. Within this framework, monetary policy serves as a vital component administered typically by central banks. Its primary function is to regulate the money supply and interest rates to achieve macroeconomic stability.

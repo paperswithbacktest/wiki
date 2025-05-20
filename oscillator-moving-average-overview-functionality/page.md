@@ -1,6 +1,8 @@
 ---
-title: "Oscillator of Moving Average: Overview and Functionality (Algo Trading)"
-description: "Explore the functionality of the Oscillator of Moving Average in algorithmic trading Learn how OSMA helps traders identify market trends and momentum shifts"
+category: trading_strategy
+description: Explore the functionality of the Oscillator of Moving Average in algorithmic
+  trading Learn how OSMA helps traders identify market trends and momentum shifts
+title: 'Oscillator of Moving Average: Overview and Functionality (Algo Trading)'
 ---
 
 In trading, technical analysis provides a suite of tools that traders use to navigate market fluctuations. These tools help traders make informed decisions by analyzing past market data to predict future price movements. Among the vast array of indicators available, the Oscillator of a Moving Average (OSMA) stands out due to its ability to highlight pivotal changes in market momentum and trends. Unlike many other indicators, the OSMA offers a unique method of visualizing the relationship between an oscillator and its moving average, providing insights that can be crucial for traders in determining trend strength and potential reversals.

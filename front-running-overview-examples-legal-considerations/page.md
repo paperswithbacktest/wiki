@@ -1,6 +1,12 @@
 ---
-title: "Front-Running: Overview, Examples, and Legal Considerations (Algo Trading)"
-description: "Explore the complexities of front-running in algorithmic and high-frequency trading within the financial markets. Understand the mechanics and ethical concerns of trading based on insider knowledge, the significant legal frameworks regulating this practice, and how technological advancements have amplified this issue. Gain insight into the challenges front-running poses to market integrity and the necessity for strict oversight to ensure fair trading practices."
+category: quant_concept
+description: Explore the complexities of front-running in algorithmic and high-frequency
+  trading within the financial markets. Understand the mechanics and ethical concerns
+  of trading based on insider knowledge, the significant legal frameworks regulating
+  this practice, and how technological advancements have amplified this issue. Gain
+  insight into the challenges front-running poses to market integrity and the necessity
+  for strict oversight to ensure fair trading practices.
+title: 'Front-Running: Overview, Examples, and Legal Considerations (Algo Trading)'
 ---
 
 The landscape of trading and investing has been rapidly transformed by technological advancements. Among the most significant developments are algorithmic trading and high-frequency trading, which have reshaped the financial markets over the last decade. Algorithmic trading refers to the use of computer algorithms to automate trading processes, executing orders based on pre-defined criteria without human intervention. High-frequency trading, a subset of algorithmic trading, involves executing a large number of orders at extremely high speeds, often within microseconds. These technologies have enhanced market efficiency, improved liquidity, and reduced transaction costs. However, they also bring forth ethical dilemmas, with front-running being a prominent concern.

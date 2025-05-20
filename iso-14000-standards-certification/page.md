@@ -1,6 +1,8 @@
 ---
-title: "ISO 14000 Standards and Certification (Algo Trading)"
-description: "Explore the intersection of ISO 14000 standards and algorithmic trading to enhance sustainability in financial markets by minimizing environmental impact."
+category: quant_concept
+description: Explore the intersection of ISO 14000 standards and algorithmic trading
+  to enhance sustainability in financial markets by minimizing environmental impact.
+title: ISO 14000 Standards and Certification (Algo Trading)
 ---
 
 In the era of increasing environmental awareness, businesses are increasingly focused on minimizing their ecological footprint to align with global sustainability goals. ISO 14000 certification provides a comprehensive and pivotal framework to manage and mitigate environmental impacts. Developed by the International Organization for Standardization, these standards help organizations establish an effective Environmental Management System (EMS) that can integrate seamlessly into their business operations, enhancing their capacity to operate sustainably.

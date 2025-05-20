@@ -1,6 +1,8 @@
 ---
-title: "DE Shaw (Algo Trading)"
-description: "Explore DE Shaw's leading role in algorithmic trading employing quantitative models and cutting-edge tech to deliver efficient trading and robust returns."
+category: quant_concept
+description: Explore DE Shaw's leading role in algorithmic trading employing quantitative
+  models and cutting-edge tech to deliver efficient trading and robust returns.
+title: DE Shaw (Algo Trading)
 ---
 
 In the modern financial landscape, algorithmic trading has revolutionized the process of investing, with DE Shaw emerging as a quintessential pioneer and leader in this domain. Founded by David E. Shaw in 1988, the firm is renowned for its innovative and strategic use of quantitative models to navigate financial markets with precision. DE Shaw employs a multidisciplinary approach, combining quantitative expertise with cutting-edge technology to execute trades efficiently, manage risk, and ultimately provide robust returns on investment.

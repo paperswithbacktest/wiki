@@ -1,6 +1,9 @@
 ---
-title: "Government Policy and Economic Intervention (Algo Trading)"
-description: "Explore the complex interplay of government policies and algorithmic trading in financial markets Discover how economic interventions shape growth and stability"
+category: quant_concept
+description: Explore the complex interplay of government policies and algorithmic
+  trading in financial markets Discover how economic interventions shape growth and
+  stability
+title: Government Policy and Economic Intervention (Algo Trading)
 ---
 
 Economic intervention is a pivotal strategy employed by governments globally to influence economic conditions and drive growth. Through a combination of fiscal and monetary policies, governments seek to steer the economy towards stability and advancement. This article examines the intricate connections between government policies and market operations, focusing on economic intervention, government policy, and algorithmic trading.

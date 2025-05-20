@@ -1,6 +1,8 @@
 ---
-title: "City Index Brokerage Analysis (Algo Trading)"
-description: "Explore City Index Brokerage renowned for exceptional support in algorithmic trading with advanced tools extensive market coverage and user-friendly platforms"
+category: trading_strategy
+description: Explore City Index Brokerage renowned for exceptional support in algorithmic
+  trading with advanced tools extensive market coverage and user-friendly platforms
+title: City Index Brokerage Analysis (Algo Trading)
 ---
 
 City Index is a distinguished brokerage, renowned for its comprehensive trading platform and significant support for algorithmic trading. Established in 1983, City Index has earned a reputation for reliability and innovation in the financial markets. As a subsidiary of StoneX Group Inc., it offers services tailored to a diverse clientele, ranging from novice traders to experienced professionals.

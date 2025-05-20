@@ -1,6 +1,9 @@
 ---
-title: "Net Interest Margin Securities: Overview and Mechanism (Algo Trading)"
-description: "Explore the intricate world of finance with insights into Net Interest Margin Securities and algorithmic trading Understand their impact on market dynamics and profitability"
+category: quant_concept
+description: Explore the intricate world of finance with insights into Net Interest
+  Margin Securities and algorithmic trading Understand their impact on market dynamics
+  and profitability
+title: 'Net Interest Margin Securities: Overview and Mechanism (Algo Trading)'
 ---
 
 In the complex world of finance, various terms and instruments play a crucial role in shaping the financial landscape. This article examines pivotal topics such as Net Interest Margin Securities (NIMS), financial instruments, and algorithmic trading. These areas are essential to comprehend as they provide invaluable insights into banking profitability, investment strategies, and market efficiency.

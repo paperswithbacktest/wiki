@@ -1,6 +1,9 @@
 ---
-title: "Currency Basket: Overview and Mechanism (Algo Trading)"
-description: "Explore the synergy between currency baskets and algorithmic trading in forex Discover how traders utilize these tools to manage risks and seize market opportunities"
+category: quant_concept
+description: Explore the synergy between currency baskets and algorithmic trading
+  in forex Discover how traders utilize these tools to manage risks and seize market
+  opportunities
+title: 'Currency Basket: Overview and Mechanism (Algo Trading)'
 ---
 
 In the world of foreign exchange, the concept of a currency basket is pivotal in influencing the valuation of currencies. By aggregating multiple currencies with assigned weightings, a currency basket serves to stabilize the value of other currencies, mitigate market volatility, and efficiently manage associated risks. The strategic use of currency baskets allows entities to buffer against sudden currency fluctuations by distributing risk across various currencies.

@@ -1,6 +1,9 @@
 ---
-title: "Scale Order: Meaning and Functionality (Algo Trading)"
-description: "Explore the role of scale orders in algorithmic trading and their impact on business efficiency Discover how economic scaling enhances trade execution and growth."
+category: quant_concept
+description: Explore the role of scale orders in algorithmic trading and their impact
+  on business efficiency Discover how economic scaling enhances trade execution and
+  growth.
+title: 'Scale Order: Meaning and Functionality (Algo Trading)'
 ---
 
 The modern business landscape is defined by the simultaneous pursuit of strategic growth and the seamless integration of technological advancements. Among the leading technological innovations reshaping industries is algorithmic trading, a method that automates the execution of stock trades through pre-programmed instructions. This transformation allows for the rapid execution of trades at scales and speeds unattainable through manual processes.
@@ -196,4 +199,3 @@ Bergstra, J., Bardenet, R., Bengio, Y., & Kégl, B. (2011). 'Algorithms for Hype
 "Machine Learning for Algorithmic Trading" by Stefan Jansen offers a comprehensive guide to implementing machine learning models in trading. Jansen provides readers with practical insights and Python code examples, covering essential topics like feature engineering, model evaluation, and backtesting strategies. The book is a valuable resource for traders looking to leverage machine learning for strategic growth.
 
 "Quantitative Trading" by Ernest P. Chan delivers practical advice on developing trading strategies using quantitative methods. Chan covers topics such as data sourcing, statistical arbitrage, and backtesting, all crucial for understanding the mechanics behind successful algorithmic trading strategies. His insights are valuable for traders aiming to specialize and scale their operations efficiently.
-

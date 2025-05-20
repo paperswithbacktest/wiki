@@ -1,6 +1,8 @@
 ---
-title: "Common Size Income Statement (Algo Trading)"
-description: "Explore the synergy of common-size income statements and algorithmic trading in enhancing financial analysis and decision-making for strategic investments."
+category: trading_strategy
+description: Explore the synergy of common-size income statements and algorithmic
+  trading in enhancing financial analysis and decision-making for strategic investments.
+title: Common Size Income Statement (Algo Trading)
 ---
 
 In the continuously changing field of finance, understanding financial statements and utilizing advanced technologies for trading have become essential competencies. Financial statements such as income statements are vital for gaining insights into a company’s revenues, expenses, and profits. Analyzing these components allows assessing profitability and operational efficiency, forming the backbone of strategic investment decisions. Concurrently, algorithmic trading, which uses complex algorithms to execute trades based on various market indicators, has emerged as a powerful tool for investors. The integration of common-size financial metrics into algorithmic trading models enhances decision-making by standardizing and normalizing financial data, thus allowing for better comparability across different entities and time periods. This convergence of financial analysis and algorithmic execution aids in generating actionable insights and strategic trades, promising more accurate and responsive investment strategies. By exploring the interaction between common-size analysis and algorithmic trading, the article aims to highlight how these methodologies can drive strategic, data-driven investments.
@@ -114,4 +116,3 @@ Hasbrouck, J. "Empirical Market Microstructure: The Institutions, Economics, and
 Pinedo, M. "The Basics of Financial Econometrics: Tools, Concepts, and Asset Applications." Wiley. This text introduces the key tools and concepts of financial econometrics, focusing on their application to asset pricing and risk management. It covers econometric techniques essential for analyzing financial data and developing predictive models, supporting enhanced decision-making in trading and investment.
 
 Lopez de Prado, M. "Advances in Financial Machine Learning." Wiley. A pioneering work on the application of machine learning techniques in finance, this book offers insights into developing machine learning models tailored for financial applications. It covers topics such as pattern recognition, feature engineering, and model validation, empowering traders and analysts to harness machine learning's potential for improving trading systems and strategies.
-

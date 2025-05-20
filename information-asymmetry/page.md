@@ -1,6 +1,9 @@
 ---
-title: "Information Asymmetry (Algo Trading)"
-description: "Discover how algorithmic trading impacts financial markets by creating information asymmetry which can lead to market inefficiencies like adverse selection and moral hazard."
+category: quant_concept
+description: Discover how algorithmic trading impacts financial markets by creating
+  information asymmetry which can lead to market inefficiencies like adverse selection
+  and moral hazard.
+title: Information Asymmetry (Algo Trading)
 ---
 
 The modern financial landscape is increasingly shaped by sophisticated technologies, notably algorithmic trading. This form of trading deploys advanced algorithms and utilizes rapid processing capabilities to perform trades at speeds unreachable by human traders. By analyzing massive datasets, these systems can discern patterns and implement trades within microseconds, fundamentally transforming financial markets to become more efficient and liquid.
@@ -96,4 +99,3 @@ MacKenzie, D. (2019). Trading at the Speed of Light: How Ultrafast Algorithms Ar
 O'Hara, M. (1997). Market Microstructure Theory. This seminal work on market microstructure addresses how various trading mechanisms and market designs can influence information flow and price formation, contributing to a deeper understanding of information asymmetry and its impact on market efficiency.
 
 Hasbrouck, J. (2007). Empirical Market Microstructure: The Institutions, Economics, and Econometrics of Securities Trading. Hasbrouck's book analyzes the empirical aspects of market microstructure, offering insights into how information asymmetries manifest in securities trading and the tools available to measure and mitigate these effects.
-

@@ -1,6 +1,9 @@
 ---
-title: "History and Legality of Short Selling (Algo Trading)"
-description: "Discover the history and legality of short selling and algorithmic trading Learn how these strategies evolved with technology and regulations shaping financial markets"
+category: trading_strategy
+description: Discover the history and legality of short selling and algorithmic trading
+  Learn how these strategies evolved with technology and regulations shaping financial
+  markets
+title: History and Legality of Short Selling (Algo Trading)
 ---
 
 Financial markets are dynamic ecosystems where a myriad of instruments, including stocks, bonds, commodities, and derivatives, are traded. The evolution of trading strategies within these markets has mirrored technological advancements and changing regulatory landscapes, culminating in the modern era characterized by sophisticated methods such as short selling and algorithmic trading.
@@ -187,4 +190,3 @@ Looking forward, future regulatory adaptations may focus on harnessing technolog
    - For an in-depth analysis of financial regulations global comparisons, consider “Comparative Financial Regulation” by Pauline Sadler. 
 
 These references offer a solid foundation for understanding the complexities surrounding short selling and algorithmic trading regulation, providing valuable insights for further research or study.
-

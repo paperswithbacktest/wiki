@@ -1,6 +1,8 @@
 ---
-title: "Profiting from Earnings Surprises with Straddles and Strangles (Algo Trading)"
-description: "Profiting from earnings surprises using straddles and strangles can boost algorithmic trading returns during high market volatility events like company announcements."
+category: trading_strategy
+description: Profiting from earnings surprises using straddles and strangles can boost
+  algorithmic trading returns during high market volatility events like company announcements.
+title: Profiting from Earnings Surprises with Straddles and Strangles (Algo Trading)
 ---
 
 In trading, options strategies known as straddles and strangles are pivotal for managing earnings surprises and enhancing algorithmic trades. These strategies are designed to profit from substantial price movements in the stock market, whether the movement is upward or downward. Straddles and strangles are particularly advantageous in periods of high volatility, such as during company earnings announcements that deviate from analysts' expectations. 

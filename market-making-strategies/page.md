@@ -1,6 +1,8 @@
 ---
-title: "Market Making Strategies (Algo Trading)"
-description: "Explore the transformative role of algorithmic trading in market making strategies enhancing liquidity and reducing volatility in financial markets."
+category: trading_strategy
+description: Explore the transformative role of algorithmic trading in market making
+  strategies enhancing liquidity and reducing volatility in financial markets.
+title: Market Making Strategies (Algo Trading)
 ---
 
 Market making is an essential function within financial markets, facilitating the smooth operation of trading by providing necessary liquidity. This role is crucial as it ensures that buyers and sellers can transact efficiently, minimizing price volatility and enhancing market stability. The significance of market making cannot be overstated, as it contributes to fair and orderly markets by bridging gaps between supply and demand.

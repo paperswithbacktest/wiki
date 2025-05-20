@@ -1,6 +1,13 @@
 ---
-title: "Handle in Trading (Algo Trading)"
-description: "Explore the essential role of algorithmic trading in the modern financial landscape. Learn how automated trading systems leverage technology to enhance market efficiency, execute complex strategies, and provide financial institutions with tools to navigate today's dynamic trading environment. Discover the evolution of financial trading from manual methods to cutting-edge algorithmic techniques that reduce human biases and increase market liquidity, enabling traders to capitalize on fleeting opportunities with precision and speed."
+category: quant_concept
+description: Explore the essential role of algorithmic trading in the modern financial
+  landscape. Learn how automated trading systems leverage technology to enhance market
+  efficiency, execute complex strategies, and provide financial institutions with
+  tools to navigate today's dynamic trading environment. Discover the evolution of
+  financial trading from manual methods to cutting-edge algorithmic techniques that
+  reduce human biases and increase market liquidity, enabling traders to capitalize
+  on fleeting opportunities with precision and speed.
+title: Handle in Trading (Algo Trading)
 ---
 
 Financial trading is a cornerstone of today's global economy, acting as a critical mechanism for transferring capital and risk between parties. It enables the efficient allocation of resources, supports economic growth, and facilitates investment opportunities across borders. As markets have evolved, so too have the methods by which trading occurs, with algorithmic trading emerging as a central component in modern finance.

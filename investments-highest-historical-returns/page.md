@@ -1,6 +1,11 @@
 ---
-title: "Investments With Highest Historical Returns (Algo Trading)"
-description: "Explore the relationship between historical investment returns and algorithmic trading's impact on financial performance. Gain insights into how evaluating past returns aids in forecasting future opportunities and risks. Understand asset classes like stocks, bonds, commodities, and real estate, and delve into algorithmic trading as it reshapes the investment landscape with data-driven strategies."
+category: trading_strategy
+description: Explore the relationship between historical investment returns and algorithmic
+  trading's impact on financial performance. Gain insights into how evaluating past
+  returns aids in forecasting future opportunities and risks. Understand asset classes
+  like stocks, bonds, commodities, and real estate, and delve into algorithmic trading
+  as it reshapes the investment landscape with data-driven strategies.
+title: Investments With Highest Historical Returns (Algo Trading)
 ---
 
 Investment returns play a pivotal role in financial decision-making, serving as the primary measure of an investment's profitability and risk. They influence decisions ranging from individual portfolio constructions to large-scale institutional allocations. By evaluating historical investment returns, investors gain insights into the performance patterns of various assets, which aids in forecasting future opportunities and risks.

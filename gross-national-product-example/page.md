@@ -1,6 +1,8 @@
 ---
-title: "Gross National Product with Example (Algo Trading)"
-description: "Explore how Gross National Product impacts algo trading by understanding its role in assessing a country's economic health and influencing trading strategies."
+category: quant_concept
+description: Explore how Gross National Product impacts algo trading by understanding
+  its role in assessing a country's economic health and influencing trading strategies.
+title: Gross National Product with Example (Algo Trading)
 ---
 
 Economic indicators are fundamental tools for traders and investors aiming to navigate the complexities of financial markets. Among these indicators, Gross National Product (GNP) plays a significant role. It measures the total market value of all goods and services produced by the residents of a nation, regardless of where the production occurs. This makes GNP a critical measure of a country's economic health, offering insights into how the nation’s residents contribute economically on a global scale.
@@ -271,4 +273,3 @@ To enhance your understanding of Gross National Product (GNP), Gross Domestic Pr
    - Federal Reserve Economic Data (FRED): Managed by the Federal Reserve Bank of St. Louis, FRED offers comprehensive datasets that include GNP and related economic indicators, beneficial for analytical and trading purposes. [FRED Economic Data](https://fred.stlouisfed.org/)
 
 These resources should provide a solid foundation for further exploration and application of GNP and GDP data in trading strategies and economic analysis.
-

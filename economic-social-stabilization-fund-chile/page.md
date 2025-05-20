@@ -1,6 +1,9 @@
 ---
-title: "Economic and Social Stabilization Fund of Chile (Algo Trading)"
-description: "Explore Chile's Economic and Social Stabilization Fund and its pivotal role in managing fiscal stability amid copper price volatility using innovative algo trading."
+category: quant_concept
+description: Explore Chile's Economic and Social Stabilization Fund and its pivotal
+  role in managing fiscal stability amid copper price volatility using innovative
+  algo trading.
+title: Economic and Social Stabilization Fund of Chile (Algo Trading)
 ---
 
 The Economic and Social Stabilization Fund (ESSF) is a pivotal element of Chile's fiscal architecture, designed to provide a safeguard against economic instability primarily induced by the volatile nature of copper prices, which are critical to Chile's export-driven economy. Since copper constitutes a significant portion of Chile's export revenues, fluctuations in its global market prices can lead to unpredictable fiscal conditions. Hence, the ESSF was created to counteract such volatility by acting as a financial buffer, stabilizing government budgets and ensuring fiscal continuity.

@@ -1,6 +1,9 @@
 ---
-title: "Net Short: Concept, Functionality, and Example (Algo Trading)"
-description: "Explore net short strategies where investors profit from falling asset prices using short selling and algorithmic trading to optimize trade execution and risk management."
+category: quant_concept
+description: Explore net short strategies where investors profit from falling asset
+  prices using short selling and algorithmic trading to optimize trade execution and
+  risk management.
+title: 'Net Short: Concept, Functionality, and Example (Algo Trading)'
 ---
 
 Net short investment strategy is a cornerstone concept in modern finance, allowing investors to potentially profit from declining asset prices. Short selling is a fundamental mechanism that enables this strategy. It involves borrowing securities to sell them on the market with the aim of repurchasing them later at a lower price. The borrower then returns the securities to the lender, keeping the difference as profit. This approach can significantly influence financial markets as it contributes to price discovery and market efficiency by allowing investors to express negative views on overvalued assets.
@@ -246,4 +249,3 @@ In summary, while integrating short selling into algo trading offers substantial
    - **TradeStation**: Provides a comprehensive suite for developing and executing algorithmic trading strategies with a focus on technical analysis and backtesting capabilities.
 
 These resources provide foundational knowledge and practical tools necessary to effectively engage in algorithmic trading and implement short-selling strategies while navigating regulatory environments.
-

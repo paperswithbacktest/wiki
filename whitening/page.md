@@ -1,7 +1,8 @@
 ---
-title: Understanding Whitening in Machine Learning Preprocessing
+category: quant_concept
 description: Whitening in machine learning improves algorithm performance by decorrelating
   features and standardizing variances across data sets. Discover more inside.
+title: Understanding Whitening in Machine Learning Preprocessing
 ---
 
 ![Image](images/1.png)

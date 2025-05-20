@@ -1,6 +1,9 @@
 ---
-title: "Income Inequality: Examples and Measurement (Algo Trading)"
-description: "Explore the complex relationship between algorithmic trading, income inequality, and wealth distribution in today's economy and its impact on market dynamics."
+category: quant_concept
+description: Explore the complex relationship between algorithmic trading, income
+  inequality, and wealth distribution in today's economy and its impact on market
+  dynamics.
+title: 'Income Inequality: Examples and Measurement (Algo Trading)'
 ---
 
 Economic disparity, income inequality, and wealth distribution are critical issues in today's global economy, affecting social stability and sustainable development. As technological advancements accelerate, particularly within financial sectors, they reshape these economic patterns. One notable innovation is algorithmic trading, which has dramatically altered the landscape of financial markets by utilizing automated and pre-programmed trading strategies. This sophisticated trading method, representing a pinnacle of technological evolution, plays a significant role in influencing wealth distribution. 

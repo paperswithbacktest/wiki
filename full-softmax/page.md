@@ -1,7 +1,8 @@
 ---
-title: Full Softmax Explained for Machine Learning Classification
+category: quant_concept
 description: Full Softmax converts raw scores into a unified probability distribution
   for precise multi class classification and efficient training Discover more inside
+title: Full Softmax Explained for Machine Learning Classification
 ---
 
 ![Image](images/1.png)

@@ -1,6 +1,9 @@
 ---
-title: "Insider and Institutional Stock Ownership (Algo Trading)"
-description: "Explore the significance of insider and institutional stock ownership in trading decisions and gain insights into algorithmic trading strategies for optimal investment outcomes."
+category: quant_concept
+description: Explore the significance of insider and institutional stock ownership
+  in trading decisions and gain insights into algorithmic trading strategies for optimal
+  investment outcomes.
+title: Insider and Institutional Stock Ownership (Algo Trading)
 ---
 
 The world of stock investment offers a plethora of opportunities for informed investors, with diverse strategies contributing to the complex landscape of financial markets. A critical component of navigating this landscape is understanding the roles of insider and institutional ownership in shaping a company's market performance. Insider ownership refers to the shares held by company executives, directors, and key personnel, who possess intimate knowledge about the company's future prospects and strategic direction. These insiders are often well-positioned to make informed decisions about the value of the company’s stock, providing important signals for investors.

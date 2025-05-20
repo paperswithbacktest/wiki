@@ -1,6 +1,11 @@
 ---
-title: "Ed Seykota’s Trading Strategies Explained (Algo Trading)"
-description: Discover how Ed Seykota revolutionized algorithmic trading with his innovative strategies and disciplined approach. Explore his methods that leverage trend following and systematic risk management to turn modest investments into substantial wealth. Gain insights into his pioneering impact on trading psychology and market analysis, offering valuable lessons for modern traders.
+category: trading_strategy
+description: Discover how Ed Seykota revolutionized algorithmic trading with his innovative
+  strategies and disciplined approach. Explore his methods that leverage trend following
+  and systematic risk management to turn modest investments into substantial wealth.
+  Gain insights into his pioneering impact on trading psychology and market analysis,
+  offering valuable lessons for modern traders.
+title: Ed Seykota’s Trading Strategies Explained (Algo Trading)
 ---
 
 Ed Seykota is recognized as a leading figure in algorithmic trading, often regarded as a pioneer in the development of computerized trading systems. His groundbreaking work in the field has established a framework for modern trading strategies that rely heavily on technology and data analytics. This article examines Seykota's career trajectory, highlighting how his innovative approach to market analysis and risk management transformed a modest investment into substantial wealth. Notably, he turned an initial $5,000 investment into $15 million over the span of 12 years, a feat that underscores his proficiency in understanding market dynamics and disciplined trading.

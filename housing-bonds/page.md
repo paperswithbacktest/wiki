@@ -1,6 +1,9 @@
 ---
-title: "Housing Bonds (Algo Trading)"
-description: "Explore the intersection of municipal finance, real estate investment, and algorithmic trading in housing bonds, revealing strategies for stable growth and tax benefits."
+category: quant_concept
+description: Explore the intersection of municipal finance, real estate investment,
+  and algorithmic trading in housing bonds, revealing strategies for stable growth
+  and tax benefits.
+title: Housing Bonds (Algo Trading)
 ---
 
 In the ever-evolving landscape of finance, it is imperative to grasp how municipal finance, real estate investment, and algorithmic trading intersect and coexist. These components play a pivotal role in shaping modern investment strategies, particularly with respect to municipal bonds and their impact on both public infrastructure and affordable housing.

@@ -1,6 +1,8 @@
 ---
-title: "Cardano: Characteristics and Comparison to Bitcoin (Algo Trading)"
-description: "Explore the unique characteristics of Cardano and Bitcoin in algo trading Learn how their distinct consensus mechanisms impact trading strategies and opportunities"
+category: trading_strategy
+description: Explore the unique characteristics of Cardano and Bitcoin in algo trading
+  Learn how their distinct consensus mechanisms impact trading strategies and opportunities
+title: 'Cardano: Characteristics and Comparison to Bitcoin (Algo Trading)'
 ---
 
 Cryptocurrency trading has witnessed substantial transformation over recent years, evolving into a sophisticated market where algorithmic trading has taken a prominent position. This paradigm shift is characterized by the increasing use of complex mathematical models and automated systems to execute trading strategies with precision and speed. Algorithmic trading, commonly referred to as "algo trading," leverages computer programs to automatically trade financial assets, significantly reducing human intervention and error.

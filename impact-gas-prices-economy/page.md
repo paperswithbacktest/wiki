@@ -1,6 +1,9 @@
 ---
-title: "Impact of Gas Prices on the Economy (Algo Trading)"
-description: "Explore the complex relationship between gas prices and the economy from consumer spending to algorithmic trading understand the broad implications on business and policy."
+category: quant_concept
+description: Explore the complex relationship between gas prices and the economy from
+  consumer spending to algorithmic trading understand the broad implications on business
+  and policy.
+title: Impact of Gas Prices on the Economy (Algo Trading)
 ---
 
 Gas prices have long served as a key indicator of economic health and consumer behavior. The intricate dynamics of global oil markets mean that these prices are in constant flux, highlighting the necessity of understanding their broader economic impacts. For businesses, consumers, and policymakers, grasping these dynamics is essential for making informed decisions in an increasingly volatile environment.

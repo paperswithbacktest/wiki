@@ -1,6 +1,9 @@
 ---
-title: "J Curve: Concept, Applications, and Case Study (Algo Trading)"
-description: "Explore the J Curve concept in economics, its application in algorithmic trading, and an insightful case study on leveraging currency fluctuations for strategic advantage."
+category: quant_concept
+description: Explore the J Curve concept in economics, its application in algorithmic
+  trading, and an insightful case study on leveraging currency fluctuations for strategic
+  advantage.
+title: 'J Curve: Concept, Applications, and Case Study (Algo Trading)'
 ---
 
 The J Curve economic theory is a significant concept within economics that describes a particular dynamic following currency depreciation. According to this theory, a country's trade balance is expected to worsen initially when its currency loses value. This is due to the fact that imports become more expensive immediately, while the positive effects on exports take longer to manifest. Over time, however, the trade balance may improve and eventually lead to a surplus as exports grow more attractive due to their relatively lower effective pricing. This creates a J-shaped pattern on a graph when plotting the trade balance over time.

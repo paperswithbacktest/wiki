@@ -1,6 +1,9 @@
 ---
-title: "Price Discovery (Algo Trading)"
-description: "Explore how algorithmic trading shapes price discovery in financial markets, enhancing speed, accuracy, and transparency by automating trade execution through advanced technologies."
+category: quant_concept
+description: Explore how algorithmic trading shapes price discovery in financial markets,
+  enhancing speed, accuracy, and transparency by automating trade execution through
+  advanced technologies.
+title: Price Discovery (Algo Trading)
 ---
 
 Price discovery is a fundamental process within financial markets, wherein the price of an asset is determined by the interactions of supply and demand. In the context of algorithmic trading, this process is increasingly shaped by the deployment of sophisticated computer algorithms which automate the trading process. Algorithmic trading has significantly transformed financial markets by enhancing the speed and accuracy with which price discovery occurs, thereby allowing market participants to make more informed decisions.

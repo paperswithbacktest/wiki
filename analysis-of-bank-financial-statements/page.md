@@ -1,6 +1,9 @@
 ---
-title: "Analysis of Bank Financial Statements (Algo Trading)"
-description: "Explore the synergy between financial statement analysis and algorithmic trading in the banking sector Learn how technology reshapes bank operations and investment strategies"
+category: trading_strategy
+description: Explore the synergy between financial statement analysis and algorithmic
+  trading in the banking sector Learn how technology reshapes bank operations and
+  investment strategies
+title: Analysis of Bank Financial Statements (Algo Trading)
 ---
 
 The financial industry is undergoing a significant transformation due to advancements in technology, reshaping traditional practices and opening new opportunities. As digital innovation permeates this sector, there is an increasing investment in financial statement analysis and algorithmic trading. These tools are essential for navigating the complex landscape of modern finance. 

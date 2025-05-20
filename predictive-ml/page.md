@@ -1,10 +1,9 @@
 ---
-title: Exploring Predictive Machine Learning Applications and Methods
+category: quant_concept
 description: Predictive machine learning helps teams forecast outcomes and optimize
   decisions by uncovering data patterns at every step Discover more inside.
+title: Exploring Predictive Machine Learning Applications and Methods
 ---
-
-
 
 ## Table of Contents
 

@@ -1,6 +1,8 @@
 ---
-title: "Transferring Common Stock Between Brokers (Algo Trading)"
-description: "Explore broker stock transfers and how algo trading enhances efficiency by automating and optimizing the complex process of moving common stocks and securities."
+category: quant_concept
+description: Explore broker stock transfers and how algo trading enhances efficiency
+  by automating and optimizing the complex process of moving common stocks and securities.
+title: Transferring Common Stock Between Brokers (Algo Trading)
 ---
 
 The world of stock trading and securities involves a myriad of processes that can be complex to navigate, especially when it comes to transferring assets. Broker stock transfers often require a detailed understanding of financial mechanisms and the seamless movement of shares, notably common stock and securities, between brokerage firms. 

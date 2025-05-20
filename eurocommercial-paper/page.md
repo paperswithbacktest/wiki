@@ -1,6 +1,9 @@
 ---
-title: "Eurocommercial Paper (Algo Trading)"
-description: "Eurocommercial Papers are short-term, unsecured debt instruments used by corporations for efficient international financing, often enhanced by algorithmic trading."
+category: quant_concept
+description: Eurocommercial Papers are short-term, unsecured debt instruments used
+  by corporations for efficient international financing, often enhanced by algorithmic
+  trading.
+title: Eurocommercial Paper (Algo Trading)
 ---
 
 Global money markets are a crucial component of the international financial system, facilitating the short-term borrowing and lending of large volumes of funds. These markets, characterized by high liquidity and low transaction costs, play a vital role in managing the liquidity needs of corporations, financial institutions, and governments across the globe. A key instrument within these markets is the Eurocommercial Paper (ECP), a type of unsecured, short-term debt instrument issued predominantly by corporations.

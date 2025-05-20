@@ -1,6 +1,12 @@
 ---
-title: "China's One-Child Policy: Implications and Significance (Algo Trading)"
-description: "Explore the profound implications of China's One-Child Policy, introduced in 1979, which reshaped its demographic landscape causing gender imbalances and an aging population. Delve into how these shifts, along with China's surge in algorithmic trading driven by technological advances, are impacting economic strategies. Discover the critical intersections between demographic policies and economic trends in China and the world."
+category: quant_concept
+description: Explore the profound implications of China's One-Child Policy, introduced
+  in 1979, which reshaped its demographic landscape causing gender imbalances and
+  an aging population. Delve into how these shifts, along with China's surge in algorithmic
+  trading driven by technological advances, are impacting economic strategies. Discover
+  the critical intersections between demographic policies and economic trends in China
+  and the world.
+title: 'China''s One-Child Policy: Implications and Significance (Algo Trading)'
 ---
 
 Population control has been a critical topic worldwide, with China's One-Child Policy being a prominent example of efforts to manage population growth. Initiated in 1979, the policy aimed to limit most Chinese families to a single child, largely as a strategy to mitigate the challenges posed by burgeoning population numbers. The One-Child Policy is noteworthy not only for its intention to control population size but also for its far-reaching social and economic implications. These ramifications include significant demographic shifts, such as a skewed gender ratio and an aging population, which have influenced China's economic and social landscapes.

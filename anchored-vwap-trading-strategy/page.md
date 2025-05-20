@@ -1,6 +1,14 @@
 ---
-title: "Anchored VWAP Trading Strategy Explained (Algo Trading)"
-description: Discover the nuances of the Anchored Volume Weighted Average Price (AVWAP) strategy in algorithmic trading. Unlike traditional VWAP, AVWAP provides flexibility by utilizing anchor points, allowing traders to analyze price movements from pivotal market events with enhanced precision. This strategy caters to both short-term and long-term traders, offering real-time updates that aid in strategic decision-making. Explore how AVWAP can optimize trading strategies by delivering insights into stock valuation relative to significant price levels, ultimately facilitating informed and efficient trading choices.
+category: trading_strategy
+description: Discover the nuances of the Anchored Volume Weighted Average Price (AVWAP)
+  strategy in algorithmic trading. Unlike traditional VWAP, AVWAP provides flexibility
+  by utilizing anchor points, allowing traders to analyze price movements from pivotal
+  market events with enhanced precision. This strategy caters to both short-term and
+  long-term traders, offering real-time updates that aid in strategic decision-making.
+  Explore how AVWAP can optimize trading strategies by delivering insights into stock
+  valuation relative to significant price levels, ultimately facilitating informed
+  and efficient trading choices.
+title: Anchored VWAP Trading Strategy Explained (Algo Trading)
 ---
 
 In trading, technology and creative trading strategies have continuously evolved to provide traders with more tools and insights. One such innovation in algorithmic trading is the Anchored Volume Weighted Average Price (AVWAP). This indicator builds upon the familiar Volume Weighted Average Price (VWAP) but offers a unique approach by allowing traders to set specific anchor points for the calculation. By doing so, AVWAP helps in assessing price action from a chosen point in time, providing a more tailored analysis of market trends. This differs considerably from the traditional VWAP, which begins its calculation from the start of each trading session.

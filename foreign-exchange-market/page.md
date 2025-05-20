@@ -1,6 +1,9 @@
 ---
-title: "Foreign Exchange Market (Algo Trading)"
-description: "Explore the dynamic world of forex trading and its technological evolution with algorithmic trading Discover how advanced algorithms enable faster smarter trade execution"
+category: quant_concept
+description: Explore the dynamic world of forex trading and its technological evolution
+  with algorithmic trading Discover how advanced algorithms enable faster smarter
+  trade execution
+title: Foreign Exchange Market (Algo Trading)
 ---
 
 Forex trading, commonly referred to as foreign exchange, is a cornerstone of the global financial system. As the largest financial market worldwide, it facilitates the exchange of different currencies, allowing market participants to engage in the buying and selling of currency pairs. With a staggering daily trading volume exceeding $6.6 trillion, the forex market offers a vast array of opportunities for investors seeking to capitalize on currency fluctuations.

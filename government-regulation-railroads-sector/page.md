@@ -1,6 +1,8 @@
 ---
-title: "Government Regulation and the Railroads Sector (Algo Trading)"
-description: "Explore the impact of government regulation on the railroad sector and the role of algorithmic trading in transforming logistics and operational strategies."
+category: quant_concept
+description: Explore the impact of government regulation on the railroad sector and
+  the role of algorithmic trading in transforming logistics and operational strategies.
+title: Government Regulation and the Railroads Sector (Algo Trading)
 ---
 
 The railroad industry has played a pivotal role in shaping modern economies, particularly in the United States. Emerging in the early 19th century, railroads rapidly became the backbone of industrial growth by providing a reliable means to move goods and people across vast distances. This new mode of transportation facilitated the expansion of markets, stimulated economic development, and contributed to the urbanization of rural areas. Railroads enabled unprecedented access to national and international markets, propelled industrialization, and played a fundamental role in transforming the economic landscape.

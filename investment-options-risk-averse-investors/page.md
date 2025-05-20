@@ -1,6 +1,9 @@
 ---
-title: "Investment Options for Risk-Averse Investors (Algo Trading)"
-description: "Explore investment strategies for risk-averse investors that focus on capital preservation and steady income. Learn about safe securities and algo trading benefits."
+category: trading_strategy
+description: Explore investment strategies for risk-averse investors that focus on
+  capital preservation and steady income. Learn about safe securities and algo trading
+  benefits.
+title: Investment Options for Risk-Averse Investors (Algo Trading)
 ---
 
 Investing is a crucial component of financial planning, allowing individuals to grow their wealth over time. However, the approach to investing varies significantly based on the individual’s appetite for risk. Risk-averse investors tend to prioritize preserving their capital and achieving a steady income stream instead of seeking high returns that come with higher volatility. This conservative approach can prove challenging, as it requires selecting investment strategies and securities that align with a lower risk tolerance.

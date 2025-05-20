@@ -1,6 +1,8 @@
 ---
-title: "Influence of Proxy Voting on Fund Shareholder Participation (Algo Trading)"
-description: "Explore the impact of proxy voting on shareholder participation in corporate governance amid the rise of algorithmic trading and evolving regulatory frameworks."
+category: quant_concept
+description: Explore the impact of proxy voting on shareholder participation in corporate
+  governance amid the rise of algorithmic trading and evolving regulatory frameworks.
+title: Influence of Proxy Voting on Fund Shareholder Participation (Algo Trading)
 ---
 
 Proxy voting is a mechanism that enables shareholders to exert influence over corporate policies and decisions through designated representatives without physically attending shareholder meetings. This system is critical as it ensures that investors can maintain a degree of control and ensure their interests are represented in the governance of companies in which they hold shares. The significance of proxy voting is underscored by its role in enhancing shareholder democracy, whereby the governance of a corporation is more accountable to its owners.

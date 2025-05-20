@@ -1,6 +1,9 @@
 ---
-title: "Weak Form Efficiency and Its Applications (Algo Trading)"
-description: "Explore weak form market efficiency and its impact on trading strategies including algorithmic trading challenging technical analysis and focusing on real-time data."
+category: quant_concept
+description: Explore weak form market efficiency and its impact on trading strategies
+  including algorithmic trading challenging technical analysis and focusing on real-time
+  data.
+title: Weak Form Efficiency and Its Applications (Algo Trading)
 ---
 
 Understanding market efficiency is a fundamental objective for investors and traders who wish to make informed decisions in financial markets. The Efficient Market Hypothesis (EMH), particularly its weak form, serves as a critical framework in assessing how market data and price movements are perceived and interpreted. The EMH posits that financial markets are "efficient" in reflecting all available information, suggesting that it is impossible to consistently achieve higher-than-average returns on investments through market timing or stock selection based on historical data.

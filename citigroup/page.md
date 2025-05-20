@@ -1,6 +1,8 @@
 ---
-title: "Citigroup (Algo Trading)"
-description: "Explore how Citigroup leverages algorithmic trading to enhance financial efficiency and investment strategies by automating processes and reducing costs."
+category: quant_concept
+description: Explore how Citigroup leverages algorithmic trading to enhance financial
+  efficiency and investment strategies by automating processes and reducing costs.
+title: Citigroup (Algo Trading)
 ---
 
 In the rapidly evolving world of finance, banking, financial investment, and algorithmic trading have fundamentally transformed how market participants engage with global financial systems. At the heart of this transformation lies algorithmic trading, which employs advanced computer programs to automate trading processes. These systems leverage algorithm-based strategies to execute trades with precision and speed, capitalizing on both fragmented and highly liquid markets.

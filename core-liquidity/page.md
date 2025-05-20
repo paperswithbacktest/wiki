@@ -1,6 +1,8 @@
 ---
-title: "Core Liquidity (Algo Trading)"
-description: "Explore the characteristics and vital role of core liquidity and algorithmic trading within financial markets to enrich trading processes and ensure stability."
+category: quant_concept
+description: Explore the characteristics and vital role of core liquidity and algorithmic
+  trading within financial markets to enrich trading processes and ensure stability.
+title: Core Liquidity (Algo Trading)
 ---
 
 In today's rapidly evolving financial landscape, understanding the interplay between financial liquidity, liquidity management, core liquidity, and algorithmic trading is essential for optimizing trading processes and ensuring financial stability. Financial liquidity represents the ease with which assets can be transformed into cash, impacting an institution's ability to meet immediate and short-term obligations efficiently. This characteristic is pivotal in maintaining smooth operations and preventing market disruptions. Effective liquidity management strategies are employed by financial institutions to balance the availability of liquid assets with the need for prudent investing, optimizing the financial performance while safeguarding solvency.

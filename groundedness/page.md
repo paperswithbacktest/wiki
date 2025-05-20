@@ -1,7 +1,8 @@
 ---
-title: Ensuring Groundedness in Machine Learning for Reliable Models
+category: quant_concept
 description: Groundedness in machine learning ensures your models use real data and
   provide clear explanations for trustworthy decision making Discover more inside
+title: Ensuring Groundedness in Machine Learning for Reliable Models
 ---
 
 ![Image](images/1.png)

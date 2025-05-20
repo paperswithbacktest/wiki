@@ -1,6 +1,13 @@
 ---
-title: "Python for Trading (Algo Trading)"
-description: Explore how Python is revolutionizing algorithmic trading with its speed and efficiency, making it a top choice for developing sophisticated trading algorithms. Discover essential Python libraries like Pandas and NumPy for data manipulation and technical analysis, and learn how Python's open-source nature fosters a supportive community. Uncover the advantages of using Python to create, backtest, and execute trading strategies in a unified development environment, showcasing its role as a cornerstone in the fast-paced financial landscape.
+category: trading_strategy
+description: Explore how Python is revolutionizing algorithmic trading with its speed
+  and efficiency, making it a top choice for developing sophisticated trading algorithms.
+  Discover essential Python libraries like Pandas and NumPy for data manipulation
+  and technical analysis, and learn how Python's open-source nature fosters a supportive
+  community. Uncover the advantages of using Python to create, backtest, and execute
+  trading strategies in a unified development environment, showcasing its role as
+  a cornerstone in the fast-paced financial landscape.
+title: Python for Trading (Algo Trading)
 ---
 
 In recent years, the field of algorithmic trading has gained substantial traction, driven by its inherent advantages of speed and efficiency. At the heart of this technological shift is Python, a dynamically-typed, easy-to-read programming language that has cemented itself as a favorite among developers of trading algorithms. Its concise syntax and ease of understanding make it accessible, not only to seasoned programmers but also to finance professionals seeking to enhance their trading strategies algorithmically.

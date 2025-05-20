@@ -1,6 +1,14 @@
 ---
-title: "Price Action in Stock Trading (Algo Trading)"
-description: "Explore the dynamic world of stock trading with insights into price action and algorithmic trading. Understand how traders use historical price patterns to predict trends in price action trading, avoiding reliance on technical indicators. Dive into algorithmic trading's technological edge, leveraging algorithms for rapid, precise trade execution, minimizing human errors. Discover the fundamentals, advantages, and challenges of these strategies to enhance trading techniques. Gain practical tips and real-world examples to navigate the dynamic stock market effectively, unlocking the unique potential of each approach in enhancing trade success."
+category: trading_strategy
+description: Explore the dynamic world of stock trading with insights into price action
+  and algorithmic trading. Understand how traders use historical price patterns to
+  predict trends in price action trading, avoiding reliance on technical indicators.
+  Dive into algorithmic trading's technological edge, leveraging algorithms for rapid,
+  precise trade execution, minimizing human errors. Discover the fundamentals, advantages,
+  and challenges of these strategies to enhance trading techniques. Gain practical
+  tips and real-world examples to navigate the dynamic stock market effectively, unlocking
+  the unique potential of each approach in enhancing trade success.
+title: Price Action in Stock Trading (Algo Trading)
 ---
 
 In the fast-paced world of stock trading, traders continually seek effective methods to predict market trends and make informed decisions. Among the diverse strategies available, price action trading and algorithmic trading have emerged as prominent approaches. Price action trading is a technique centered on analyzing historical price movements of stocks to discern patterns and trends. By focusing on price behavior, traders can make decisions without relying heavily on technical indicators. This method provides insights into market sentiment and potential price directions purely through observing price charts.

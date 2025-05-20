@@ -1,6 +1,9 @@
 ---
-title: "Home Bias: Definition, Mechanisms, and Considerations (Algo Trading)"
-description: "Discover how home bias and financial psychology impact investment decisions and learn strategies to leverage algorithmic trading for improved diversification and outcomes."
+category: quant_concept
+description: Discover how home bias and financial psychology impact investment decisions
+  and learn strategies to leverage algorithmic trading for improved diversification
+  and outcomes.
+title: 'Home Bias: Definition, Mechanisms, and Considerations (Algo Trading)'
 ---
 
 The intersection of financial psychology, home bias, investment behavior, and algorithmic trading offers a compelling exploration into how emotions and biases can influence investment decisions. Financial psychology provides a foundation for understanding abnormal patterns in financial decision-making that conventional economic theories often overlook. Home bias, an essential aspect of this framework, describes the tendency of investors to disproportionately allocate their portfolios in favor of domestic equities, potentially leading to suboptimal diversification and heightened risk exposure.

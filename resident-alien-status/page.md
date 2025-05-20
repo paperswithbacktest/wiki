@@ -1,6 +1,9 @@
 ---
-title: "Resident Alien Status (Algo Trading)"
-description: "Discover the intersection of U.S. immigration and algorithmic trading. Learn how resident alien status and a U.S. Green Card open doors in the finance sector."
+category: quant_concept
+description: Discover the intersection of U.S. immigration and algorithmic trading.
+  Learn how resident alien status and a U.S. Green Card open doors in the finance
+  sector.
+title: Resident Alien Status (Algo Trading)
 ---
 
 This article explores the intersecting topics of U.S. immigration, resident alien status, and algorithmic trading, a dynamic field at the crossroads of technology and finance. As global markets continue to evolve, the demand for skilled traders, particularly those with specialized knowledge of algorithmic trading, has surged. Algorithmic trading, which uses automated and pre-programmed instructions to execute trades, is transforming investment and finance by allowing faster and more efficient decision-making based on complex data sets.

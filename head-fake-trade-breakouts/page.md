@@ -1,6 +1,9 @@
 ---
-title: "Head-Fake Trade and Breakouts (Algo Trading)"
-description: "Explore the mechanics of head-fake trades and breakouts in algo trading Understand how algorithmic actions influence market behavior to improve strategic decisions"
+category: trading_strategy
+description: Explore the mechanics of head-fake trades and breakouts in algo trading
+  Understand how algorithmic actions influence market behavior to improve strategic
+  decisions
+title: Head-Fake Trade and Breakouts (Algo Trading)
 ---
 
 In the fast-paced world of financial markets, traders encounter numerous challenges that require strategic navigation. Among these challenges, the concept of the head-fake trade holds particular significance. Head-fake trades refer to scenarios where the price of a security initially moves in one direction, only to reverse sharply thereafter. This can often mislead traders who rely on breakout strategies, causing unexpected losses.

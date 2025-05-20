@@ -1,10 +1,9 @@
 ---
-title: Achieving Predictive Parity in Machine Learning Models
+category: quant_concept
 description: Predictive Parity ensures your machine learning models make fair and
   accurate positive predictions across all groups. Discover more inside today.
+title: Achieving Predictive Parity in Machine Learning Models
 ---
-
-
 
 ## Table of Contents
 

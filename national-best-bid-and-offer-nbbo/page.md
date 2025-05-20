@@ -1,6 +1,9 @@
 ---
-title: "National Best Bid and Offer (NBBO) and Its Function (Algo Trading)"
-description: "Understanding the National Best Bid and Offer is vital for traders as it impacts trade prices and ensures market transparency offering best available prices."
+category: quant_concept
+description: Understanding the National Best Bid and Offer is vital for traders as
+  it impacts trade prices and ensures market transparency offering best available
+  prices.
+title: National Best Bid and Offer (NBBO) and Its Function (Algo Trading)
 ---
 
 The stock market is a complex ecosystem driven by a multitude of metrics and technologies that together define its structure and function. At its core, the market serves as a platform for investors and traders to buy and sell financial instruments, such as stocks and bonds. This dynamic environment is characterized by the interaction of supply and demand, reflected in the prices of these instruments. A critical component that traders closely monitor is the National Best Bid and Offer (NBBO). The NBBO represents the highest price a buyer is willing to pay (bid) and the lowest price a seller will accept (offer) for a given security among all exchanges.

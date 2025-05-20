@@ -1,6 +1,9 @@
 ---
-title: "Comparative Advantage (Algo Trading)"
-description: "Discover how comparative advantage influences international trade by allowing countries to specialize and trade goods, maximizing economic efficiencies globally."
+category: quant_concept
+description: Discover how comparative advantage influences international trade by
+  allowing countries to specialize and trade goods, maximizing economic efficiencies
+  globally.
+title: Comparative Advantage (Algo Trading)
 ---
 
 In today's interconnected global economy, understanding the theories that drive international trade is essential. Among these theories, the concept of comparative advantage plays a fundamental role. Comparative advantage is a foundational economic principle that clarifies how countries benefit from engaging in trade and specializing in producing goods and services at lower opportunity costs. This principle suggests that even if one nation is less efficient at producing all goods compared to another, both nations can still achieve mutual gains through trade by focusing on their respective comparative advantages. This theory contrasts with absolute advantage, where a nation excels in producing goods more efficiently than others.

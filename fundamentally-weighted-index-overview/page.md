@@ -1,6 +1,8 @@
 ---
-title: "Fundamentally Weighted Index Overview (Algo Trading)"
-description: "Explore how fundamentally weighted indexes differ from traditional market cap-weighted ones and their role in algorithmic trading to optimize investment strategies."
+category: trading_strategy
+description: Explore how fundamentally weighted indexes differ from traditional market
+  cap-weighted ones and their role in algorithmic trading to optimize investment strategies.
+title: Fundamentally Weighted Index Overview (Algo Trading)
 ---
 
 The world of investing is continually evolving, offering various strategies to both maximize returns and mitigate risks. Central to these strategies are indexes, which serve as crucial benchmarks within the financial market, providing essential insights into various market segments. An index represents a portfolio of securities intended to replicate a particular market sector, commodity, or asset type, thereby offering a snapshot of market trends.

@@ -1,6 +1,8 @@
 ---
-title: "Dangling Debit (Algo Trading)"
-description: "Explore how accounting terminology influences algorithmic trading strategies in modern finance and learn to optimize trading processes through financial accuracy."
+category: quant_concept
+description: Explore how accounting terminology influences algorithmic trading strategies
+  in modern finance and learn to optimize trading processes through financial accuracy.
+title: Dangling Debit (Algo Trading)
 ---
 
 In the fast-paced world of finance, a firm grasp of accounting terminology and trading concepts is crucial for anyone involved in the financial markets. This article is designed to explore the interconnection between key accounting financial terms and algorithmic trading, emphasizing their collective impact on shaping modern finance. By examining important terms such as 'debit', we aim to understand their influence on trading activities and how they integrate with algorithmic trading strategies.

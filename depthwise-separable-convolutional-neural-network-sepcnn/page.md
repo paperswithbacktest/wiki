@@ -1,7 +1,8 @@
 ---
-title: Understanding Depthwise Separable Convolutional Neural Networks
+category: quant_concept
 description: Depthwise Separable CNNs optimize models efficiently by cutting parameters
   and computations in depthwise and pointwise steps Discover more inside
+title: Understanding Depthwise Separable Convolutional Neural Networks
 ---
 
 ![Image](images/1.png)

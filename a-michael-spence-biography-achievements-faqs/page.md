@@ -1,6 +1,9 @@
 ---
-title: "A. Michael Spence: Biography, Achievements, FAQs (Algo Trading)"
-description: "Explore A. Michael Spence's contributions to economics including his work on market signaling and asymmetric information and its relevance to algorithmic trading."
+category: quant_concept
+description: Explore A. Michael Spence's contributions to economics including his
+  work on market signaling and asymmetric information and its relevance to algorithmic
+  trading.
+title: 'A. Michael Spence: Biography, Achievements, FAQs (Algo Trading)'
 ---
 
 A. Michael Spence, an esteemed economist and Nobel laureate, has significantly advanced the field of economics through his pioneering work on market signaling and information asymmetry. His analytical framework provided crucial insights into how individuals and institutions communicate hidden information in markets, redefining our understanding of market behavior. This foundational theory has profoundly impacted a variety of economic domains, especially in elucidating the challenges posed by asymmetric information in determining economic outcomes. 

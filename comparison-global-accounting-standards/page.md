@@ -1,6 +1,8 @@
 ---
-title: "Comparison of Global Accounting Standards (Algo Trading)"
-description: "Explore the crucial interplay between GAAP and IFRS accounting standards and algorithmic trading strategies Discover how they enhance transparency and efficiency"
+category: quant_concept
+description: Explore the crucial interplay between GAAP and IFRS accounting standards
+  and algorithmic trading strategies Discover how they enhance transparency and efficiency
+title: Comparison of Global Accounting Standards (Algo Trading)
 ---
 
 In today’s globalized financial markets, accounting standards are essential for maintaining transparency and consistency in financial reporting. This article investigates the relationship between international accounting standards, specifically Generally Accepted Accounting Principles (GAAP) and International Financial Reporting Standards (IFRS), and the dynamic landscape of algorithmic trading. As businesses and investors conduct operations across borders, the demand for a uniform financial reporting structure has become increasingly imperative. 

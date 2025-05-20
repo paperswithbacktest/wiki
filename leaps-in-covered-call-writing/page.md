@@ -1,6 +1,8 @@
 ---
-title: "LEAPS in Covered Call Writing (Algo Trading)"
-description: "Learn how LEAPS options and covered calls combined with algorithmic trading can enhance portfolio performance with optimized risk and return strategies."
+category: trading_strategy
+description: Learn how LEAPS options and covered calls combined with algorithmic trading
+  can enhance portfolio performance with optimized risk and return strategies.
+title: LEAPS in Covered Call Writing (Algo Trading)
 ---
 
 In today's financial landscape, options trading has become a popular investment strategy for many traders and investors due to its flexibility and potential for high returns. Among the myriad of strategies available, LEAPS options, covered call options, and algorithmic (algo) trading stand out as dynamic approaches that offer unique advantages to investors.

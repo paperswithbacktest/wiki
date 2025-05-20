@@ -1,6 +1,8 @@
 ---
-title: "Investors in Uber and Lyft (Algo Trading)"
-description: "Explore the crucial role of investors and algorithmic trading in the growth and innovation of Uber and Lyft within the dynamic ride-sharing industry."
+category: quant_concept
+description: Explore the crucial role of investors and algorithmic trading in the
+  growth and innovation of Uber and Lyft within the dynamic ride-sharing industry.
+title: Investors in Uber and Lyft (Algo Trading)
 ---
 
 The ride-sharing industry has experienced remarkable growth in recent years, with companies like Uber and Lyft at the forefront of this transformation. The rise of these platforms has revolutionized urban mobility, offering convenient and efficient transportation solutions to millions around the globe. Central to their success is the substantial funding both companies have obtained from eminent investors, which has been instrumental in driving their expansion and technological progress.

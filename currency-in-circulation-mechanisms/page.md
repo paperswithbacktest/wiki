@@ -1,6 +1,9 @@
 ---
-title: "Currency in Circulation and Its Mechanisms (Algo Trading)"
-description: "Explore the role of currency circulation and algorithmic trading in shaping financial strategies Learn how these elements influence economic stability and market decisions"
+category: quant_concept
+description: Explore the role of currency circulation and algorithmic trading in shaping
+  financial strategies Learn how these elements influence economic stability and market
+  decisions
+title: Currency in Circulation and Its Mechanisms (Algo Trading)
 ---
 
 The financial landscape is a complex web of interrelated systems, and at its core lies the monetary system, which plays a critical role in maintaining economic stability. The monetary system includes the set of institutions, rules, and practices that a country employs to manage its currency supply and ensure the stability of its economy. Central to this understanding is the concept of currency circulation and monetary aggregates, both of which serve as essential barometers for assessing an economy's health.

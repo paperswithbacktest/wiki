@@ -1,6 +1,9 @@
 ---
-title: "Economic Impact of High Discount Rates (Algo Trading)"
-description: "Explore the interaction between high discount rates and algorithmic trading in today's economy Discover how these elements impact market dynamics and investment decisions"
+category: quant_concept
+description: Explore the interaction between high discount rates and algorithmic trading
+  in today's economy Discover how these elements impact market dynamics and investment
+  decisions
+title: Economic Impact of High Discount Rates (Algo Trading)
 ---
 
 In today's fast-paced financial landscape, understanding the interconnection between key economic variables is crucial. One such key variable is the discount rate, which can significantly impact economic activities and market dynamics. The discount rate, often set by central banks like the Federal Reserve, directly influences borrowing costs for financial institutions, thereby cascading its effects throughout the economy. Changes in this rate can alter consumer interest rates and investment decisions, ultimately shaping economic growth or contraction.

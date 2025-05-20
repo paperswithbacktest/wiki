@@ -1,6 +1,12 @@
 ---
-title: "Comparison of Corporate High-Yield Bonds and Equities (Algo Trading)"
-description: "Explore the differences between high-yield bonds and equities in the context of algorithmic trading. High-yield bonds offer attractive returns with higher risk, while equities represent ownership and potential growth. Algorithmic trading, a modern investment strategy, enhances efficiency and speed in trading. Understanding these components and their roles in today's financial markets is essential for making informed investment decisions."
+category: quant_concept
+description: Explore the differences between high-yield bonds and equities in the
+  context of algorithmic trading. High-yield bonds offer attractive returns with higher
+  risk, while equities represent ownership and potential growth. Algorithmic trading,
+  a modern investment strategy, enhances efficiency and speed in trading. Understanding
+  these components and their roles in today's financial markets is essential for making
+  informed investment decisions.
+title: Comparison of Corporate High-Yield Bonds and Equities (Algo Trading)
 ---
 
 High-yield bonds, corporate investments, equities, and algorithmic trading are critical components of modern financial markets, each playing a distinct role in investment portfolios. High-yield bonds are debt securities issued by companies with lower credit ratings, offering higher interest rates to compensate for increased risk. Corporate investments are strategies employed by firms to allocate resources into various assets or projects, aiming for growth and expansion. Equities, commonly known as stocks, represent ownership in a corporation and are considered a major component of investment portfolios due to their potential for high returns. Algorithmic trading involves the use of computer algorithms to execute buy and sell orders at high speed and efficiency, revolutionizing the way financial markets operate.

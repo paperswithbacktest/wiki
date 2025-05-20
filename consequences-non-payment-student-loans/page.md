@@ -1,6 +1,12 @@
 ---
-title: "Consequences of Non-Payment of Student Loans (Algo Trading)"
-description: "Explore the implications of student loan defaults in the context of modern financial markets influenced by algorithmic trading. This article examines the repercussions of non-payment, potential effects on borrowers' credit scores, and broader economic challenges. It highlights the significance of financial literacy as a preventive measure and suggests possible policy interventions to mitigate risks while analyzing how algorithmic trading dynamics intersect with these financial issues."
+category: quant_concept
+description: Explore the implications of student loan defaults in the context of modern
+  financial markets influenced by algorithmic trading. This article examines the repercussions
+  of non-payment, potential effects on borrowers' credit scores, and broader economic
+  challenges. It highlights the significance of financial literacy as a preventive
+  measure and suggests possible policy interventions to mitigate risks while analyzing
+  how algorithmic trading dynamics intersect with these financial issues.
+title: Consequences of Non-Payment of Student Loans (Algo Trading)
 ---
 
 The financial landscape is rapidly transforming, driven by the impact of algorithmic trading and emerging financial technologies. These innovations are revolutionizing investment strategies and reshaping the way financial markets operate. Algorithmic trading, which uses complex algorithms and high-speed computing to execute trades, has become a cornerstone of modern financial markets, accounting for a significant portion of market transactions. This has led to increased efficiency, reduced transaction costs, and enhanced market liquidity.

@@ -1,6 +1,8 @@
 ---
-title: "Trade-Through: Overview, Regulatory Exceptions, and Examples (Algo Trading)"
-description: "Explore the intricate world of trade-throughs in algorithmic trading including regulatory frameworks and exceptions crucial for maintaining market integrity."
+category: quant_concept
+description: Explore the intricate world of trade-throughs in algorithmic trading
+  including regulatory frameworks and exceptions crucial for maintaining market integrity.
+title: 'Trade-Through: Overview, Regulatory Exceptions, and Examples (Algo Trading)'
 ---
 
 The landscape of financial trading has undergone a fundamental transformation with the rise of algorithmic trading. This phenomenon involves the use of intricate mathematical models and advanced computer systems to automate and optimize trading processes. By enabling swift and efficient execution of trades, algorithmic trading has substantially improved market liquidity and operational efficiency. However, alongside these advantages, it presents significant challenges, particularly in regulatory compliance.

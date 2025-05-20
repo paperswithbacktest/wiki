@@ -1,6 +1,8 @@
 ---
-title: "Common Pitfalls in Discounted Cash Flow Analysis (Algo Trading)"
-description: "Explore common mistakes in Discounted Cash Flow analysis from inflated cash flow projections to improper discount rates that can skew investment valuations."
+category: quant_concept
+description: Explore common mistakes in Discounted Cash Flow analysis from inflated
+  cash flow projections to improper discount rates that can skew investment valuations.
+title: Common Pitfalls in Discounted Cash Flow Analysis (Algo Trading)
 ---
 
 Discounted Cash Flow (DCF) analysis is a pivotal financial valuation method used for estimating the present value of an asset by analyzing its expected future cash flows. Mastery of DCF analysis is essential for discerning investors who strive to make informed investment decisions. Mastery requires becoming adept at recognizing and avoiding common mistakes that can misrepresent an asset's intrinsic value. 

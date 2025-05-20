@@ -1,6 +1,9 @@
 ---
-title: "Comparison of Physical Gold and Gold Funds (Algo Trading)"
-description: "Discover the benefits and risks of investing in physical gold versus gold funds. Explore how algorithmic trading introduces modern strategies for gold investment."
+category: trading_strategy
+description: Discover the benefits and risks of investing in physical gold versus
+  gold funds. Explore how algorithmic trading introduces modern strategies for gold
+  investment.
+title: Comparison of Physical Gold and Gold Funds (Algo Trading)
 ---
 
 Investing in gold has consistently been a favored strategy for portfolio diversification and protection against economic turmoil. The enduring appeal of gold lies in its intrinsic value and historical role as a stable store of wealth. As financial markets face fluctuations and uncertainties, gold offers a haven for investors seeking stability.

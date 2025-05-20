@@ -1,6 +1,8 @@
 ---
-title: "Risk Arbitrage Trading for Profit (Algo Trading)"
-description: "Explore the dynamics of risk arbitrage and algorithmic trading to capitalize on market inefficiencies This guide reveals strategies to enhance investment returns"
+category: trading_strategy
+description: Explore the dynamics of risk arbitrage and algorithmic trading to capitalize
+  on market inefficiencies This guide reveals strategies to enhance investment returns
+title: Risk Arbitrage Trading for Profit (Algo Trading)
 ---
 
 Investment profits are a primary focus for traders and investors aiming to increase their financial assets. The quest for higher returns has led to the development of sophisticated trading strategies and methodologies. Two notable strategies that significantly enhance investment returns are risk arbitrage and algorithmic trading.

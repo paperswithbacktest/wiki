@@ -1,6 +1,8 @@
 ---
-title: "Rate of Return Regulation (Algo Trading)"
-description: "Explore the dynamic intersection of rate-of-return regulation and algorithmic trading to discover innovative strategies, market impacts, and future possibilities."
+category: quant_concept
+description: Explore the dynamic intersection of rate-of-return regulation and algorithmic
+  trading to discover innovative strategies, market impacts, and future possibilities.
+title: Rate of Return Regulation (Algo Trading)
 ---
 
 In the ever-evolving landscape of finance and technology, the intersection of public utilities, rate-of-return regulation, and algorithmic trading offers a fascinating arena of exploration. This dynamic intersection is significant given the distinct roles these entities play within financial markets. Public utilities are essential service providers, often subject to stringent regulation to prevent monopolistic practices and ensure fair pricing for consumers. Rate-of-return regulation, a historical framework, has been instrumental in safeguarding consumers from excessive charges by allowing regulated entities to cover costs and secure a reasonable profit margin.

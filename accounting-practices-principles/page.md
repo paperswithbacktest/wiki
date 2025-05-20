@@ -1,6 +1,8 @@
 ---
-title: "Accounting Practices and Principles (Algo Trading)"
-description: "Explore the synergy between traditional accounting principles and algorithmic trading in financial markets. Discover how accounting methods impact trading strategies."
+category: quant_concept
+description: Explore the synergy between traditional accounting principles and algorithmic
+  trading in financial markets. Discover how accounting methods impact trading strategies.
+title: Accounting Practices and Principles (Algo Trading)
 ---
 
 Accounting and finance have long been integral to the business world, underpinning the way enterprises report and validate their financial health. This structured approach to recording, analyzing, and reporting financial transactions not only promotes transparency but also ensures accuracy and compliance with established standards. These functions are vital for making informed business decisions, assessing performance, and building investor confidence. At the core of these processes is the need for consistency and reliability in financial reporting, which is achieved through adhering to established accounting principles and methods.

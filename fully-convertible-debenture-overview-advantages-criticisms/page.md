@@ -1,6 +1,8 @@
 ---
-title: "Fully Convertible Debenture: Overview, Advantages, Criticisms (Algo Trading)"
-description: "Discover the advantages and criticisms of Fully Convertible Debentures (FCDs) as a unique financial tool blending debt and equity with algo trading benefits."
+category: quant_concept
+description: Discover the advantages and criticisms of Fully Convertible Debentures
+  (FCDs) as a unique financial tool blending debt and equity with algo trading benefits.
+title: 'Fully Convertible Debenture: Overview, Advantages, Criticisms (Algo Trading)'
 ---
 
 Fully Convertible Debentures (FCDs) are a unique financial instrument that offers a blend of debt and potential equity, positioning them as a compelling option for investors. These instruments start as traditional debt obligations, providing holders with fixed interest payments. However, they possess a transformative feature: the ability to convert into equity shares at a future date, typically at the discretion of the issuer. This dual nature endows FCDs with versatility, appealing to investors seeking the stability of debt alongside the growth potential of equity.

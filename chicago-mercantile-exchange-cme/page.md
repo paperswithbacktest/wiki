@@ -1,6 +1,15 @@
 ---
-title: "Chicago Mercantile Exchange (CME) (Algo Trading)"
-description: The Chicago Mercantile Exchange (CME) plays a crucial role in global finance by offering a wide range of derivatives and futures products, facilitating algorithmic trading. This tech-driven trading approach enables participants to execute high-speed, precise trades, capitalizing on brief market opportunities. CME's advanced electronic trading platform supports algorithmic strategies, enhancing transaction efficiency and market liquidity. The exchange's robust infrastructure and real-time data services allow traders to implement sophisticated models, maintaining a competitive edge in the fast-paced financial landscape while understanding the evolving dynamics of algorithmic trading.
+category: quant_concept
+description: The Chicago Mercantile Exchange (CME) plays a crucial role in global
+  finance by offering a wide range of derivatives and futures products, facilitating
+  algorithmic trading. This tech-driven trading approach enables participants to execute
+  high-speed, precise trades, capitalizing on brief market opportunities. CME's advanced
+  electronic trading platform supports algorithmic strategies, enhancing transaction
+  efficiency and market liquidity. The exchange's robust infrastructure and real-time
+  data services allow traders to implement sophisticated models, maintaining a competitive
+  edge in the fast-paced financial landscape while understanding the evolving dynamics
+  of algorithmic trading.
+title: Chicago Mercantile Exchange (CME) (Algo Trading)
 ---
 
 The Chicago Mercantile Exchange (CME) stands as a pivotal institution in the global finance ecosystem, providing a vast array of derivatives and futures products. Recognized for its innovative contributions to financial markets, CME supports trading in categories such as commodities, financials, and equity index futures. The exchange's significance is amplified by its role in the burgeoning domain of algorithmic trading, a method that has reshaped trading practices worldwide.

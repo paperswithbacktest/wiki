@@ -1,6 +1,8 @@
 ---
-title: "Market Capitalization Rule: Explanation and Functionality (Algo Trading)"
-description: "Discover how market capitalization influences investment strategies through algo trading and financial rules Learn to balance risk and opportunity for success"
+category: quant_concept
+description: Discover how market capitalization influences investment strategies through
+  algo trading and financial rules Learn to balance risk and opportunity for success
+title: 'Market Capitalization Rule: Explanation and Functionality (Algo Trading)'
 ---
 
 Strategic investment planning is a cornerstone of success in today's complex financial markets. The volatile nature and rapid evolution of these markets necessitate a well-structured approach to investment, balancing risk and opportunity to achieve long-term financial goals. This calls for a thorough understanding of key concepts such as market capitalization, financial rules, and algorithmic trading, each of which plays a critical role in shaping investment strategies.
@@ -249,4 +251,3 @@ Integrating knowledge of market capitalization with algorithmic trading strategi
 9. **"Economic Shifts and Investment Rules," Federal Reserve Bank Publications.** This series of publications examines how financial rules adapt to changing economic conditions and their implications on investment strategies. [Explore publications](https://www.federalreserve.gov/publications.htm).
 
 These resources provide a deeper understanding of strategic investment planning, market capitalization, financial rules, and algorithmic trading, supporting the concepts covered in this article.
-

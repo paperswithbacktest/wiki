@@ -1,6 +1,14 @@
 ---
-title: "Plaza Accord: History, Purpose, and Successor (Algo Trading)"
-description: "The page discusses the history and effects of the Plaza Accord, an international agreement signed in 1985 by the United States, France, Germany, the United Kingdom, and Japan to address the overvaluation of the U.S. dollar and its impact on global trade imbalances. It examines the motivations behind the Accord, its immediate effects on curbing the dollar's value, and subsequent international monetary policies. The Accord's legacy includes influencing modern currency interventions and the rise of algorithmic trading as a tool for managing currency markets in today's global economy."
+category: quant_concept
+description: The page discusses the history and effects of the Plaza Accord, an international
+  agreement signed in 1985 by the United States, France, Germany, the United Kingdom,
+  and Japan to address the overvaluation of the U.S. dollar and its impact on global
+  trade imbalances. It examines the motivations behind the Accord, its immediate effects
+  on curbing the dollar's value, and subsequent international monetary policies. The
+  Accord's legacy includes influencing modern currency interventions and the rise
+  of algorithmic trading as a tool for managing currency markets in today's global
+  economy.
+title: 'Plaza Accord: History, Purpose, and Successor (Algo Trading)'
 ---
 
 The Plaza Accord, signed on September 22, 1985, represented a landmark agreement in international currency management. Initiated by the Group of Five (G-5) nations—the United States, France, Germany, the United Kingdom, and Japan—the Accord sought to address significant global economic imbalances exacerbated by the dramatic appreciation of the U.S. dollar in the early 1980s. This event marked a sustained effort by major economies to coordinate exchange rate adjustments with the explicit aim of depreciating the U.S. dollar relative to key currencies such as the Japanese yen and the German Deutschmark.

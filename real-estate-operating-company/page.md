@@ -1,6 +1,9 @@
 ---
-title: "Real Estate Operating Company (Algo Trading)"
-description: "Explore the innovative fusion of real estate investments and algorithmic trading offering enhanced strategies for REOCs to optimize portfolios and boost efficiencies."
+category: trading_strategy
+description: Explore the innovative fusion of real estate investments and algorithmic
+  trading offering enhanced strategies for REOCs to optimize portfolios and boost
+  efficiencies.
+title: Real Estate Operating Company (Algo Trading)
 ---
 
 The intersection of real estate investments and algorithmic trading has paved the way for innovative opportunities for both investors and real estate operating companies (REOCs). As technology continues to evolve, the adoption of algorithmic trading has expanded beyond traditional finance and is making significant inroads in the real estate sector. This transformation enables REOCs to leverage advanced technology-driven strategies, optimizing their investment portfolios and enhancing operational efficiencies.

@@ -1,6 +1,9 @@
 ---
-title: "Zero Bound in Monetary Policy (Algo Trading)"
-description: "Explore the influence of zero-bound monetary policy on algorithmic trading as central banks navigate economic downturns with unconventional tools like quantitative easing."
+category: quant_concept
+description: Explore the influence of zero-bound monetary policy on algorithmic trading
+  as central banks navigate economic downturns with unconventional tools like quantitative
+  easing.
+title: Zero Bound in Monetary Policy (Algo Trading)
 ---
 
 Monetary policy and algorithmic trading are crucial in influencing economic outcomes within the intricate financial ecosystem. As economies face various challenges, especially during periods of economic downturns, central banks often resort to zero-bound monetary policy interest rates. Zero-bound refers to the scenario where interest rates are reduced to zero or near zero, aiming to spur economic activity when conventional monetary tools prove ineffective. This strategic maneuver creates distinct implications for financial markets and algorithmic trading, necessitating an understanding of its mechanics.

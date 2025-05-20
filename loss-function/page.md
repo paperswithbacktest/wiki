@@ -1,7 +1,8 @@
 ---
-title: Comprehensive Guide to Loss Functions in Machine Learning
+category: quant_concept
 description: Loss functions quantify and minimize prediction errors to optimize machine
   learning models for regression and classification Discover more inside.
+title: Comprehensive Guide to Loss Functions in Machine Learning
 ---
 
 ![Image](images/1.png)

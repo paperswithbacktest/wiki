@@ -1,6 +1,9 @@
 ---
-title: "Financial Crises: Causes and Examples (Algo Trading)"
-description: "Explore the impact of financial crises and the role of algorithmic trading in market volatility Learn how technology influences economic stability and systemic risks"
+category: quant_concept
+description: Explore the impact of financial crises and the role of algorithmic trading
+  in market volatility Learn how technology influences economic stability and systemic
+  risks
+title: 'Financial Crises: Causes and Examples (Algo Trading)'
 ---
 
 Economic downturns and financial crises have consistently shaped the landscape of global economies and markets throughout history. These events, which can occur due to a mix of asset bubbles, excessive risk-taking, and regulatory shortcomings, lead to far-reaching consequences, challenging economies to adapt and recover. In recent decades, the advent of technology, and more precisely, the rise of algorithmic or 'algo' trading, introduces an additional complexity to the dynamics of financial markets.

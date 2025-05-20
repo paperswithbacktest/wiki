@@ -1,6 +1,8 @@
 ---
-title: "Comparison of Net Operating Profit After Tax and Net Income (Algo Trading)"
-description: "Explore the core differences between Net Operating Profit After Tax and net income and how these metrics can impact investment decisions and trading strategies."
+category: quant_concept
+description: Explore the core differences between Net Operating Profit After Tax and
+  net income and how these metrics can impact investment decisions and trading strategies.
+title: Comparison of Net Operating Profit After Tax and Net Income (Algo Trading)
 ---
 
 Understanding key metrics is essential in financial analysis and trading for making informed investment decisions. Among the myriad of metrics available, Net Operating Profit After Tax (NOPAT) and net income stand out as fundamental indicators used to evaluate a company's profitability and operational efficiency. NOPAT and net income, though related, serve distinct purposes in financial analysis. NOPAT represents a company's core earnings after taxes, discounting financing costs, offering a lens focused exclusively on operational efficiency. In contrast, net income encompasses total earnings, integrating all expenses, interest, and taxes, thus providing a holistic view of a company’s financial performance.

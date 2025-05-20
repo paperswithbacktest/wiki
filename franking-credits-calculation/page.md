@@ -1,6 +1,8 @@
 ---
-title: "Franking Credits and Calculation (Algo Trading)"
-description: "Explore how franking credits and dividend imputation optimize tax efficiency in investment strategies, enhancing returns through algorithmic trading insights."
+category: quant_concept
+description: Explore how franking credits and dividend imputation optimize tax efficiency
+  in investment strategies, enhancing returns through algorithmic trading insights.
+title: Franking Credits and Calculation (Algo Trading)
 ---
 
 Understanding the impact of taxes on investment strategies is essential for traders and investors seeking to maximize their returns. Among the various tax components that can influence investment outcomes are franking credits and dividend imputation, particularly significant in jurisdictions like Australia. These mechanisms are designed to enhance tax efficiency by reducing the double taxation on dividends, thereby benefiting shareholders and improving net returns.

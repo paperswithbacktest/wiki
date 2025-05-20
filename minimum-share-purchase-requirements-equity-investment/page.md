@@ -1,6 +1,9 @@
 ---
-title: "Minimum Share Purchase Requirements for Equity Investment (Algo Trading)"
-description: "Discover how minimum share purchase requirements and fractional shares have transformed equity investment making it accessible for all. Learn about algorithmic trading's role."
+category: quant_concept
+description: Discover how minimum share purchase requirements and fractional shares
+  have transformed equity investment making it accessible for all. Learn about algorithmic
+  trading's role.
+title: Minimum Share Purchase Requirements for Equity Investment (Algo Trading)
 ---
 
 Equity investment represents an integral aspect of the financial system, where investors acquire ownership stakes in companies through the purchase of shares. This investment avenue offers potential for wealth creation and portfolio diversification. Shares, or stocks, are essentially financial instruments that denote a proportionate share of ownership in a company. By purchasing shares, investors anticipate capital gains and dividends as returns on their investment. 

@@ -1,6 +1,11 @@
 ---
-title: "Databases (historical) (Algo Trading)"
-description: Explore the essential role of historical databases in algorithmic trading systems. Learn how these data management tools enable superior trading signal accuracy and strategy optimization by efficiently storing and analyzing vast datasets. Discover the types of databases—relational, NoSQL, and time-series—that elevate trading performance and provide a competitive edge in financial markets.
+category: dataset
+description: Explore the essential role of historical databases in algorithmic trading
+  systems. Learn how these data management tools enable superior trading signal accuracy
+  and strategy optimization by efficiently storing and analyzing vast datasets. Discover
+  the types of databases—relational, NoSQL, and time-series—that elevate trading performance
+  and provide a competitive edge in financial markets.
+title: Databases (historical) (Algo Trading)
 ---
 
 Algorithmic trading has revolutionized financial markets by allowing trading activities to be executed with increased precision and speed. At the heart of this transformation is the need for robust data management systems that ensure the accurate generation of trading signals. These systems rely heavily on databases, which play a pivotal role in storing, retrieving, and analyzing historical data. Databases provide a structured framework that supports the complex requirements of algorithmic trading, including the management of vast datasets and the execution of sophisticated trading strategies.

@@ -1,6 +1,8 @@
 ---
-title: "Eligible Commercial Entity (Algo Trading)"
-description: "Understand the intricate relationship between eligible commercial entities and algorithmic trading, pivotal to modern financial markets and regulatory frameworks."
+category: quant_concept
+description: Understand the intricate relationship between eligible commercial entities
+  and algorithmic trading, pivotal to modern financial markets and regulatory frameworks.
+title: Eligible Commercial Entity (Algo Trading)
 ---
 
 In the evolving world of business law and trading, a clear understanding of various entities' roles is essential for effective participation and regulation. This article explores key concepts related to eligible entities, commercial entities, business law, and algorithmic trading.

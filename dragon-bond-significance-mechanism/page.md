@@ -1,6 +1,9 @@
 ---
-title: "Dragon Bond: Significance and Mechanism (Algo Trading)"
-description: "Explore the significance of Dragon Bonds in algorithmic trading and discover how these innovative financial instruments offer unique investment opportunities in global markets."
+category: quant_concept
+description: Explore the significance of Dragon Bonds in algorithmic trading and discover
+  how these innovative financial instruments offer unique investment opportunities
+  in global markets.
+title: 'Dragon Bond: Significance and Mechanism (Algo Trading)'
 ---
 
 In recent years, the financial market landscape has evolved dramatically due to technological advancements, especially in the field of algorithmic trading. Algorithmic trading, which involves using computer algorithms to automate trading decisions and execution, has transformed the speed, efficiency, and accessibility of financial markets. This article explores the investment mechanism of Dragon Bonds and their integration into the world of algorithmic trading. Dragon Bonds, a specific type of bond issued by Asian companies and denominated in major foreign currencies like USD or JPY, offer unique investment opportunities for global investors looking to diversify their portfolios. 

@@ -1,6 +1,9 @@
 ---
-title: "PIPE Investments In Stock Markets (Algo Trading)"
-description: "Explore the dynamic world of PIPE investments and algorithmic trading, unlocking opportunities and strategic growth for investors and companies in the stock market."
+category: trading_strategy
+description: Explore the dynamic world of PIPE investments and algorithmic trading,
+  unlocking opportunities and strategic growth for investors and companies in the
+  stock market.
+title: PIPE Investments In Stock Markets (Algo Trading)
 ---
 
 In the dynamic landscape of the stock market, investment strategies continue to evolve, bridging the gap between private investors and publicly traded companies. One strategy that has gained significant attention is Private Investment in Public Equity (PIPE). This approach has become a key component of financial markets, providing a channel for rapid capital infusion into publicly listed companies. PIPE investments involve the purchase of shares by private entities at a discounted price, allowing companies to raise funds efficiently and effectively.

@@ -1,6 +1,8 @@
 ---
-title: "Risk Assessment of High-Yield Bonds (Algo Trading)"
-description: "Explore the risk assessment of high-yield bonds using algorithmic trading strategies Learn how to manage default risks and improve investment outcomes effectively"
+category: quant_concept
+description: Explore the risk assessment of high-yield bonds using algorithmic trading
+  strategies Learn how to manage default risks and improve investment outcomes effectively
+title: Risk Assessment of High-Yield Bonds (Algo Trading)
 ---
 
 High-yield bonds, commonly known as junk bonds, present investors with the opportunity for greater returns than those offered by investment-grade securities. These bonds are characterized by higher interest rates, reflecting the increased risk associated with them. Investment-grade bonds typically have lower yields but are considered safer due to their higher credit ratings. High-yield bonds, on the other hand, are assigned lower ratings by credit rating agencies, often categorized as BB+ or lower, making them more prone to default risk.

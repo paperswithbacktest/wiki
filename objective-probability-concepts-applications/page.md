@@ -1,6 +1,9 @@
 ---
-title: "Objective Probability: Concepts and Applications (Algo Trading)"
-description: "Explore the role of objective probability in algorithmic trading to enhance decision-making by leveraging statistical analysis for effective risk management and strategy development."
+category: quant_concept
+description: Explore the role of objective probability in algorithmic trading to enhance
+  decision-making by leveraging statistical analysis for effective risk management
+  and strategy development.
+title: 'Objective Probability: Concepts and Applications (Algo Trading)'
 ---
 
 In the world of finance and trading, the role of probability is crucial in facilitating effective decision-making. Probability provides a structured approach to understanding and managing uncertainty, making it a fundamental component in the development of trading strategies and risk management frameworks. This article explores the concept of objective probability and its application in probability theory, focusing on its relevance in algorithmic trading.

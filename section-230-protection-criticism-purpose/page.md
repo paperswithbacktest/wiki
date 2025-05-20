@@ -1,6 +1,9 @@
 ---
-title: "Section 230: Protection, Criticism, and Purpose (Algo Trading)"
-description: "Explore Section 230's role in online platform liability and its impact on algorithmic trading. Uncover legal and ethical challenges intersecting tech, law, and finance."
+category: quant_concept
+description: Explore Section 230's role in online platform liability and its impact
+  on algorithmic trading. Uncover legal and ethical challenges intersecting tech,
+  law, and finance.
+title: 'Section 230: Protection, Criticism, and Purpose (Algo Trading)'
 ---
 
 The digital age has transformed how we communicate and conduct business, with the internet playing a pivotal role in our daily lives. Among the many legal frameworks enabling this evolution, Section 230 of the Communications Decency Act of 1996 stands out as a cornerstone. This provision offers immunity to online platforms from liability for third-party content, thereby fostering a climate of innovation and free expression that has fueled the rapid growth of digital spaces.

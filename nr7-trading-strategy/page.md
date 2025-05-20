@@ -1,6 +1,14 @@
 ---
-title: "NR7 Trading Strategy (Algo Trading)"
-description: The NR7 Trading Strategy page details a volatility-based algorithmic trading technique developed by Tony Crabel that identifies narrow trading ranges to anticipate market breakouts. Suitable for novice and experienced traders, the NR7 strategy aims to exploit low-volatility phases and capture significant market movements. The article explores its mechanics, advantages, and challenges, emphasizing risk management and the integration of additional indicators for optimization. By understanding and implementing this strategy effectively, traders can enhance their portfolios and navigate dynamic market conditions profitably.
+category: trading_strategy
+description: The NR7 Trading Strategy page details a volatility-based algorithmic
+  trading technique developed by Tony Crabel that identifies narrow trading ranges
+  to anticipate market breakouts. Suitable for novice and experienced traders, the
+  NR7 strategy aims to exploit low-volatility phases and capture significant market
+  movements. The article explores its mechanics, advantages, and challenges, emphasizing
+  risk management and the integration of additional indicators for optimization. By
+  understanding and implementing this strategy effectively, traders can enhance their
+  portfolios and navigate dynamic market conditions profitably.
+title: NR7 Trading Strategy (Algo Trading)
 ---
 
 Algorithmic trading has seen a significant surge in popularity due to its ability to systematize the trading process and maximize returns. Traders increasingly seek strategies that can exploit market inefficiencies, and among these, the NR7 strategy, or Narrow Range 7 strategy, stands out. Developed by Tony Crabel in the 1990s, this approach is a volatility-based technique designed to capitalize on low-volatility periods within the market.

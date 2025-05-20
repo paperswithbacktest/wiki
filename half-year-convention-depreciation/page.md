@@ -1,6 +1,9 @@
 ---
-title: "Half-Year Convention in Depreciation (Algo Trading)"
-description: "Explore how the half-year convention in depreciation enhances algorithmic trading by aligning asset costs with revenues, optimizing efficiency, and aiding financial planning."
+category: quant_concept
+description: Explore how the half-year convention in depreciation enhances algorithmic
+  trading by aligning asset costs with revenues, optimizing efficiency, and aiding
+  financial planning.
+title: Half-Year Convention in Depreciation (Algo Trading)
 ---
 
 In finance, mastering various accounting and depreciation methods is essential for successful asset management and financial planning. One such method, the half-year convention for depreciation, plays an integral role. This approach, among other accounting strategies, provides a bridge to algorithmic trading, a domain where technology meets financial markets. By focusing on the half-year convention, this article highlights how these accounting strategies can enhance optimization within trading models, contributing to the financial success of algorithmic trading operations.

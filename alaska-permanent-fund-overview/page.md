@@ -1,6 +1,9 @@
 ---
-title: "Alaska Permanent Fund Overview (Algo Trading)"
-description: "Explore the vital role of the Alaska Permanent Fund in stabilizing and advancing the state's economy through innovative investment strategies and algorithmic trading."
+category: dataset
+description: Explore the vital role of the Alaska Permanent Fund in stabilizing and
+  advancing the state's economy through innovative investment strategies and algorithmic
+  trading.
+title: Alaska Permanent Fund Overview (Algo Trading)
 ---
 
 The Alaska Permanent Fund is a pivotal state-owned investment mechanism established to safeguard the wealth generated from Alaska’s natural oil and gas resources. In 1976, following the significant Prudhoe Bay oil discovery, the Fund was created to ensure the prudent management and preservation of the state's oil revenue surplus. This initiative was primarily aimed at benefiting both current and future generations of Alaskans by maintaining an equitable distribution of natural resource wealth.

@@ -1,6 +1,8 @@
 ---
-title: "Key Industries Contributing to Texas GDP Growth (Algo Trading)"
-description: "Explore Texas's economic growth driven by diverse industries like energy and technology and how algo trading is reshaping its financial landscape."
+category: dataset
+description: Explore Texas's economic growth driven by diverse industries like energy
+  and technology and how algo trading is reshaping its financial landscape.
+title: Key Industries Contributing to Texas GDP Growth (Algo Trading)
 ---
 
 Texas has long been a powerhouse in the U.S. economy, contributing significantly to the national Gross Domestic Product (GDP). Known for its vast size and abundant resources, the state's diverse range of industries continuously drive its economic growth, making it a vital player on the economic stage. Texas's economy is multifaceted, encompassing energy, technology, agriculture, and manufacturing sectors that position it as a leader in various fields. This diversity not only supports stability but also fosters innovation, development, and resilience in the face of economic fluctuations.

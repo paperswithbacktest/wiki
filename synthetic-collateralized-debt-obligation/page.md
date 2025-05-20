@@ -1,6 +1,8 @@
 ---
-title: "Synthetic Collateralized Debt Obligation (Algo Trading)"
-description: "Explore the intersection of Synthetic CDOs and algorithmic trading in modern finance uncovering how these tools shape investment strategies and risk management."
+category: quant_concept
+description: Explore the intersection of Synthetic CDOs and algorithmic trading in
+  modern finance uncovering how these tools shape investment strategies and risk management.
+title: Synthetic Collateralized Debt Obligation (Algo Trading)
 ---
 
 In recent years, the financial landscape has undergone significant transformation due to the introduction of innovative instruments such as Synthetic Collateralized Debt Obligations (CDOs). These financial derivatives are designed to mimic the performance of a portfolio of assets, allowing investors to gain exposure to diversified credit risk without directly owning the underlying assets. This evolution in financial products has been complemented by the rise of algorithmic trading, commonly known as algo trading, which automates trading processes through pre-programmed instructions executed at high speeds and volumes.

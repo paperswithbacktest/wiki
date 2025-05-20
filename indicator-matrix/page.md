@@ -1,6 +1,12 @@
 ---
-title: "Indicator matrix (Algo Trading)"
-description: Explore the transformative role of the indicator matrix in algorithmic trading, a tool that integrates multiple technical indicators for a comprehensive market analysis. Enhance decision-making with precision by leveraging this advanced framework to assess trends, reversals, and opportunities while minimizing risk. Unlock insights into the matrix's components, benefits, and implementation to optimize your trading strategies for superior market performance.
+category: trading_strategy
+description: Explore the transformative role of the indicator matrix in algorithmic
+  trading, a tool that integrates multiple technical indicators for a comprehensive
+  market analysis. Enhance decision-making with precision by leveraging this advanced
+  framework to assess trends, reversals, and opportunities while minimizing risk.
+  Unlock insights into the matrix's components, benefits, and implementation to optimize
+  your trading strategies for superior market performance.
+title: Indicator matrix (Algo Trading)
 ---
 
 Algorithmic trading has transformed the financial markets, providing traders with the ability to systematically execute trades with precision and speed. As the market landscape becomes increasingly complex, traders continuously seek advanced tools to refine their strategies and gain a competitive edge. One such innovative tool that has garnered considerable attention is the 'indicator matrix.' This sophisticated framework leverages multiple technical indicators together to provide a holistic view of market conditions, enhancing the analytical capabilities of traders.

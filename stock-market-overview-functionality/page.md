@@ -1,6 +1,8 @@
 ---
-title: "Stock Market Overview and Functionality (Algo Trading)"
-description: "Explore the dynamic evolution of stock markets and the impact of algorithmic trading. Enhance your investment strategies with cutting-edge insights and data."
+category: quant_concept
+description: Explore the dynamic evolution of stock markets and the impact of algorithmic
+  trading. Enhance your investment strategies with cutting-edge insights and data.
+title: Stock Market Overview and Functionality (Algo Trading)
 ---
 
 The stock market remains a pivotal element in the landscape of investment, serving as a dynamic platform where shares are bought, sold, and traded. With a history that spans centuries, it has continuously evolved, integrating new methodologies and technologies to facilitate economic growth and provide capital access to businesses worldwide [1]. In recent decades, the advent of algorithmic trading has added layers of complexity and efficiency, offering sophisticated strategies that can significantly enhance investment outcomes. Understanding these complexities is essential for investors aiming to refine and advance their strategies.

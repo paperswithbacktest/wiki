@@ -1,6 +1,15 @@
 ---
-title: "Normal backwardation (Algo Trading)"
-description: Normal backwardation is a key financial market concept where the futures price of a commodity is lower than its expected spot price at contract maturity. This downward-sloping futures curve signifies expected future price increases, often due to a risk premium for holding the asset. Introduced by John Maynard Keynes, it highlights hedgers' desire to mitigate price risk. Algorithmic trading utilizes normal backwardation by analyzing data to seize opportunities from price differentials, enhancing profitability. Understanding this market condition helps traders develop strategies to exploit price discrepancies between futures contracts and anticipated spot prices.
+category: quant_concept
+description: Normal backwardation is a key financial market concept where the futures
+  price of a commodity is lower than its expected spot price at contract maturity.
+  This downward-sloping futures curve signifies expected future price increases, often
+  due to a risk premium for holding the asset. Introduced by John Maynard Keynes,
+  it highlights hedgers' desire to mitigate price risk. Algorithmic trading utilizes
+  normal backwardation by analyzing data to seize opportunities from price differentials,
+  enhancing profitability. Understanding this market condition helps traders develop
+  strategies to exploit price discrepancies between futures contracts and anticipated
+  spot prices.
+title: Normal backwardation (Algo Trading)
 ---
 
 Normal backwardation is a crucial concept in financial markets, referring to a market condition where the futures price of a commodity is below its expected spot price at contract maturity. This phenomenon reflects a downward-sloping futures curve, indicating that traders anticipate higher prices in the future, often driven by a risk premium demanded by speculators for holding the asset until the contract's expiration. John Maynard Keynes first introduced the idea, highlighting the role of risk-averse hedgers who are willing to pay a premium to transfer price risk, thereby pushing futures prices lower than the expected spot prices.

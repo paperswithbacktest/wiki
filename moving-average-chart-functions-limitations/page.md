@@ -1,6 +1,8 @@
 ---
-title: "Moving Average Chart: Functions and Limitations (Algo Trading)"
-description: "Explore how moving averages enhance algorithmic trading by smoothing price data and recognizing trends. Understand their role in refining trading strategies."
+category: quant_concept
+description: Explore how moving averages enhance algorithmic trading by smoothing
+  price data and recognizing trends. Understand their role in refining trading strategies.
+title: 'Moving Average Chart: Functions and Limitations (Algo Trading)'
 ---
 
 Financial charts serve as essential tools for data analysis, offering valuable insights into market trends and price movements. They distill complex data into visual representations, enabling both novice and seasoned traders to make informed decisions. Within the diverse toolkit of financial chart analysis, moving averages stand out as a crucial component. By smoothing out price data over a specific period, moving averages help traders filter out market noise and recognize underlying trends.

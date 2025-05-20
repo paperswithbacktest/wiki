@@ -1,6 +1,9 @@
 ---
-title: "Organisation of Eastern Caribbean States (Algo Trading)"
-description: "Explore the role of algorithmic trading in the Organisation of Eastern Caribbean States enhancing market efficiency and financial integration while navigating challenges."
+category: quant_concept
+description: Explore the role of algorithmic trading in the Organisation of Eastern
+  Caribbean States enhancing market efficiency and financial integration while navigating
+  challenges.
+title: Organisation of Eastern Caribbean States (Algo Trading)
 ---
 
 The Caribbean is a region characterized by its diverse culture, thriving tourism sector, and a steadily growing economy. Comprising a mix of island nations, the Caribbean also possesses a dynamic financial landscape. Central to the economic cooperation among several Caribbean states is the Organisation of Eastern Caribbean States (OECS), an inter-governmental organization committed to regional integration. Established in 1981, the OECS promotes economic harmonization and integration, facilitating collective responses to regional and global challenges. One of the OECS's pivotal roles is the management of the Eastern Caribbean Dollar (XCD), a currency shared by its member states that aids in stabilizing the economies in the region and promoting seamless trade and investment opportunities.

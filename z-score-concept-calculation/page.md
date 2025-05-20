@@ -1,6 +1,8 @@
 ---
-title: "Z-Score: Concept and Calculation (Algo Trading)"
-description: "Explore the importance of Z-scores in algorithmic trading as a statistical tool for evaluating price deviations and potential trading opportunities."
+category: quant_concept
+description: Explore the importance of Z-scores in algorithmic trading as a statistical
+  tool for evaluating price deviations and potential trading opportunities.
+title: 'Z-Score: Concept and Calculation (Algo Trading)'
 ---
 
 In algorithmic trading, statistical tools play a critical role in evaluating potential trading strategies. Among these tools, the Z-score is particularly useful for measuring the statistical significance of a stock's deviation from its mean price. By providing a standardized way to assess price movements, Z-scores are invaluable for traders aiming to make informed decisions based on quantitative analysis.
@@ -134,4 +136,3 @@ By effectively incorporating Z-score analysis, traders are positioned to enhance
 [3]: Jansen, S. (2020). ["Machine Learning for Algorithmic Trading: Predictive models to extract signals from market and alternative data for systematic trading strategies with Python"](https://github.com/stefan-jansen/machine-learning-for-trading). Packt Publishing.
 
 [4]: Chan, E. P. (2008). ["Quantitative Trading: How to Build Your Own Algorithmic Trading Business"](https://github.com/ftvision/quant_trading_echan_book). Wiley.
-

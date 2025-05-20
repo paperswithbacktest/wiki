@@ -1,6 +1,9 @@
 ---
-title: "Time Value in Options Trading (Algo Trading)"
-description: "Explore the dynamics of time value in options trading and the role of algorithmic strategies enhancing trade performance through efficient and precise execution."
+category: quant_concept
+description: Explore the dynamics of time value in options trading and the role of
+  algorithmic strategies enhancing trade performance through efficient and precise
+  execution.
+title: Time Value in Options Trading (Algo Trading)
 ---
 
 Options trading is an essential facet of financial markets, enabling investors to manage risk, increase income, and take speculative positions on asset price movements. It involves derivative contracts known as options, which give traders the right, without obligation, to buy or sell an underlying asset at a specified price, known as the strike price, before a set expiration date. One of the fundamental components influencing these options is their time value.

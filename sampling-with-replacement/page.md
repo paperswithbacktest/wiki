@@ -1,7 +1,8 @@
 ---
-title: Understanding Sampling With Replacement in Machine Learning
+category: quant_concept
 description: Sampling with replacement generates diverse bootstrap samples to assess
   model stability and reduce variance in machine learning. Discover more inside.
+title: Understanding Sampling With Replacement in Machine Learning
 ---
 
 ![Image](images/1.png)

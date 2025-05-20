@@ -1,6 +1,8 @@
 ---
-title: "Users of Bills of Exchange (Algo Trading)"
-description: "Explore how bills of exchange and algorithmic trading are transforming trade finance offering enhanced efficiency risk management and optimized liquidity."
+category: quant_concept
+description: Explore how bills of exchange and algorithmic trading are transforming
+  trade finance offering enhanced efficiency risk management and optimized liquidity.
+title: Users of Bills of Exchange (Algo Trading)
 ---
 
 In the world of finance, various instruments play a vital role in facilitating trade and investment transactions. Bills of exchange and related financial tools in trade finance hold prominent positions due to their unique abilities to mitigate risks and provide credit in international dealings. These instruments are pivotal in guaranteeing payments, reducing uncertainties such as currency fluctuations and issues of creditworthiness. 

@@ -1,6 +1,9 @@
 ---
-title: "Conversion Premium in Finance (Algo Trading)"
-description: "Explore the benefits of convertible bonds in your investment portfolio including income and equity features, while leveraging algorithmic trading for optimized returns."
+category: quant_concept
+description: Explore the benefits of convertible bonds in your investment portfolio
+  including income and equity features, while leveraging algorithmic trading for optimized
+  returns.
+title: Conversion Premium in Finance (Algo Trading)
 ---
 
 Convertible bonds represent a unique class of financial instruments that serve as hybrid securities, offering the combined benefits of equity and debt. This investment tool is particularly compelling for those looking to balance risk and reward within their portfolios. On the one hand, convertible bonds grant investors a fixed income stream in the form of interest payments, akin to traditional bonds. On the other hand, they come with the flexibility of converting into a predetermined number of the issuer's common stock, effectively providing equity participation opportunities contingent upon the company's performance in the market.

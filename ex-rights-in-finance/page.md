@@ -1,6 +1,8 @@
 ---
-title: "Ex-Rights in Finance (Algo Trading)"
-description: "Explore how ex-rights finance calculations enhance algorithmic trading, optimizing strategies with precise stock pricing adjustments due to rights issues."
+category: trading_strategy
+description: Explore how ex-rights finance calculations enhance algorithmic trading,
+  optimizing strategies with precise stock pricing adjustments due to rights issues.
+title: Ex-Rights in Finance (Algo Trading)
 ---
 
 Algorithmic trading has revolutionized the financial markets, providing unparalleled speed, accuracy, and efficiency. This method of trading involves using complex algorithms to make informed decisions about buying and selling financial instruments. The integration of ex-rights finance stock calculations into algorithmic trading represents a significant advancement, as it allows traders to optimize their strategies based on precise adjustments in stock pricing due to rights issues.

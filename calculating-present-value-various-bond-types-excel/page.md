@@ -1,6 +1,9 @@
 ---
-title: "Calculating Present Value of Various Bond Types Using Excel (Algo Trading)"
-description: "Discover how Excel simplifies bond valuation by assessing present value of future cash flows ideal for understanding investment potential in algorithmic trading."
+category: quant_concept
+description: Discover how Excel simplifies bond valuation by assessing present value
+  of future cash flows ideal for understanding investment potential in algorithmic
+  trading.
+title: Calculating Present Value of Various Bond Types Using Excel (Algo Trading)
 ---
 
 Bond valuation plays a crucial role in the financial market by helping investors determine the fair price of a bond, which is essential for making informed investment decisions. It involves assessing the present value of a bond’s future cash flows, including periodic coupon payments and the face value at maturity. This valuation is fundamental to investors as it provides insights into the bond's potential returns, enabling them to compare it with other investment opportunities.

@@ -1,6 +1,8 @@
 ---
-title: "SEC Form 20FR12B (Algo Trading)"
-description: "SEC Form 20FR12B is essential for foreign firms entering US markets with algorithmic trading ensuring compliance with SEC regulations and fostering transparency."
+category: quant_concept
+description: SEC Form 20FR12B is essential for foreign firms entering US markets with
+  algorithmic trading ensuring compliance with SEC regulations and fostering transparency.
+title: SEC Form 20FR12B (Algo Trading)
 ---
 
 Algorithmic trading has become an integral part of modern financial markets, leveraging computer algorithms to automate trading strategies and execute orders at speeds and frequencies that are impossible for human traders. This method typically relies on complex algorithms to analyze market data and execute trades based on pre-set criteria. The significance of algorithmic trading lies in its ability to enhance market efficiency, reduce transaction costs, and provide liquidity, making it a cornerstone in today's financial ecosystem.

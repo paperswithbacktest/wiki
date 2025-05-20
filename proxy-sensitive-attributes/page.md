@@ -1,10 +1,9 @@
 ---
-title: Proxy Variables and Fairness in Machine Learning Models
+category: quant_concept
 description: Proxy variables can introduce bias when linked to sensitive attributes
   Detect and mitigate proxy bias to ensure fairness Discover more inside
+title: Proxy Variables and Fairness in Machine Learning Models
 ---
-
-
 
 ## Table of Contents
 

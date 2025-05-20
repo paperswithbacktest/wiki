@@ -1,6 +1,8 @@
 ---
-title: "Mid-Cap Stocks: Size Categories and Valuation (Algo Trading)"
-description: "Explore the potential of mid-cap stocks in investment portfolios. Discover their growth, valuation significance, and role in algorithmic trading strategies."
+category: quant_concept
+description: Explore the potential of mid-cap stocks in investment portfolios. Discover
+  their growth, valuation significance, and role in algorithmic trading strategies.
+title: 'Mid-Cap Stocks: Size Categories and Valuation (Algo Trading)'
 ---
 
 Understanding the different categories of stocks is vital for investors aiming to navigate the often unpredictable nature of stock markets effectively. Among these categories, mid-cap stocks hold a significant position. Characterized by companies with market capitalizations typically ranging from $2 billion to $10 billion, mid-cap stocks offer a blend of the growth potential seen in smaller-sized firms and the stability associated with larger enterprises. This balanced attribute makes them an intriguing component of diversified investment portfolios.

@@ -1,6 +1,8 @@
 ---
-title: "Copper: Significance, Price Factors, and Future Outlook (Algo Trading)"
-description: "Explore the significance of copper in global markets the factors influencing its price and the future trends driven by algorithmic trading and green energy investments."
+category: quant_concept
+description: Explore the significance of copper in global markets the factors influencing
+  its price and the future trends driven by algorithmic trading and green energy investments.
+title: 'Copper: Significance, Price Factors, and Future Outlook (Algo Trading)'
 ---
 
 The copper market is pivotal to understanding global economic dynamics due to copper's fundamental role in numerous industries and its pervasive impact on economic activities. Known for its excellent thermal and electrical conductivity, as well as its pliability and corrosion resistance, copper is integral to the construction, automotive, electronics, and renewable energy sectors. These properties make copper indispensable in building infrastructure, manufacturing electric vehicles, and producing electronics, underpinning its vast applications and significant influence on global markets.

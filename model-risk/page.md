@@ -1,6 +1,13 @@
 ---
-title: "Model risk (Algo Trading)"
-description: Explore the intricacies of model risk in algorithmic trading where sophisticated algorithms enhance market efficiency and liquidity but also pose risks due to flawed assumptions or inadequate data. Understand the importance of managing these risks through robust frameworks real-time market adaptation and rigorous testing to safeguard trading strategy integrity. Discover regulatory guidelines and industry insights that offer best practices for mitigating potential hazards in this rapidly evolving financial landscape.
+category: quant_concept
+description: Explore the intricacies of model risk in algorithmic trading where sophisticated
+  algorithms enhance market efficiency and liquidity but also pose risks due to flawed
+  assumptions or inadequate data. Understand the importance of managing these risks
+  through robust frameworks real-time market adaptation and rigorous testing to safeguard
+  trading strategy integrity. Discover regulatory guidelines and industry insights
+  that offer best practices for mitigating potential hazards in this rapidly evolving
+  financial landscape.
+title: Model risk (Algo Trading)
 ---
 
 Algorithmic trading, commonly referred to as algo trading, has significantly transformed financial markets by enhancing both efficiency and liquidity. Over the past few decades, the integration of sophisticated algorithms has enabled traders to execute orders at an unprecedented speed and volume, leveraging small price differentials that occur in millisecond intervals. This rapid execution capability not only improves market efficiency but also contributes to tighter spreads and greater liquidity, benefiting both institutional and retail investors.

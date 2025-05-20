@@ -1,6 +1,8 @@
 ---
-title: "Publicly Traded Company: Overview and Examples (Algo Trading)"
-description: "Discover how publicly traded companies utilize algorithmic trading for enhanced precision and efficiency in financial markets. Learn from notable examples."
+category: quant_concept
+description: Discover how publicly traded companies utilize algorithmic trading for
+  enhanced precision and efficiency in financial markets. Learn from notable examples.
+title: 'Publicly Traded Company: Overview and Examples (Algo Trading)'
 ---
 
 The modern financial landscape is increasingly driven by technology, with algorithmic trading emerging as a pivotal component in the evolution of stock market activities. Algorithmic trading, or algo trading, involves the utilization of computer programs to execute predefined instructions for trading in financial markets. These instructions can include timing, price, quantity, and other mathematical models that can optimize the outcome of a trade. The execution speed and precision afforded by these algorithms often surpass human capabilities, marking a significant shift in how trades are conducted.

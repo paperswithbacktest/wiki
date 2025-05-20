@@ -1,6 +1,9 @@
 ---
-title: "Model Risk: Management and Examples (Algo Trading)"
-description: "Explore the challenges of model risk in algorithmic trading and learn strategies for effective risk management to ensure robust and resilient trading systems."
+category: quant_concept
+description: Explore the challenges of model risk in algorithmic trading and learn
+  strategies for effective risk management to ensure robust and resilient trading
+  systems.
+title: 'Model Risk: Management and Examples (Algo Trading)'
 ---
 
 The integration of algorithmic trading within financial markets has significantly enhanced the speed and efficiency with which transactions are executed. This technological evolution has formed the backbone of modern trading strategies, allowing for rapid data analysis, decision-making, and execution of trades. Algorithmic trading, characterized by the use of advanced mathematical models and high-speed computational power, facilitates the processing of vast amounts of financial data to exploit market opportunities with minimal human intervention.

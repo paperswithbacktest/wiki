@@ -1,6 +1,8 @@
 ---
-title: "MEMX: Overview, Functionality, and Purpose (Algo Trading)"
-description: "Discover how MEMX, a member-owned exchange, reshapes US equities trading by enhancing competition, transparency, and cost-effectiveness, ideal for algo trading."
+category: quant_concept
+description: Discover how MEMX, a member-owned exchange, reshapes US equities trading
+  by enhancing competition, transparency, and cost-effectiveness, ideal for algo trading.
+title: 'MEMX: Overview, Functionality, and Purpose (Algo Trading)'
 ---
 
 In recent years, the financial trading landscape has experienced significant transformations, driven largely by the emergence of new exchanges and the integration of advanced technologies such as algorithmic trading. One notable development in this evolving scenario is the introduction of MEMX, or Members Exchange, which is pioneering a new era in the trading of equities across the United States. MEMX represents a shift towards enhanced competition and transparency, aiming to redefine how equities are traded by offering a platform that prioritizes simplicity and cost-effectiveness.

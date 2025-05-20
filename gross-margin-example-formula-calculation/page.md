@@ -1,6 +1,12 @@
 ---
-title: "Gross Margin: Example, Formula, and Calculation (Algo Trading)"
-description: "Explore the significance of gross margin in algorithmic trading with our in-depth guide that covers its definition, formula, and calculation. Learn how understanding and integrating gross margin and other key financial metrics can enhance trading strategies, improve profitability, and optimize execution in the fast-paced world of algo trading. Discover the intersection of financial analysis and automated technology to maximize trading performance and achieve better investment outcomes."
+category: quant_concept
+description: Explore the significance of gross margin in algorithmic trading with
+  our in-depth guide that covers its definition, formula, and calculation. Learn how
+  understanding and integrating gross margin and other key financial metrics can enhance
+  trading strategies, improve profitability, and optimize execution in the fast-paced
+  world of algo trading. Discover the intersection of financial analysis and automated
+  technology to maximize trading performance and achieve better investment outcomes.
+title: 'Gross Margin: Example, Formula, and Calculation (Algo Trading)'
 ---
 
 Algorithmic trading, commonly referred to as algo trading, has significantly altered the financial landscape by leveraging automation to execute trades at speeds and frequencies that traditional trading cannot match. This approach involves using pre-defined instructions or complex algorithms to determine the timing, pricing, and quantity of trades, allowing traders to capitalize swiftly on market opportunities.

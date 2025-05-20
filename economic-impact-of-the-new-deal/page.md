@@ -1,6 +1,8 @@
 ---
-title: "Economic Impact of the New Deal (Algo Trading)"
-description: "Explore the economic impact of the New Deal during the Great Depression and discover how modern algorithmic trading reshapes financial markets today."
+category: quant_concept
+description: Explore the economic impact of the New Deal during the Great Depression
+  and discover how modern algorithmic trading reshapes financial markets today.
+title: Economic Impact of the New Deal (Algo Trading)
 ---
 
 The Great Depression was a profound global economic downturn that began in 1929, marked by the collapse of stock prices on Black Tuesday, October 29, 1929. This event precipitated a decade-long economic crisis that affected economies worldwide. In the United States, the Great Depression led to significant declines in GDP and widespread unemployment. The industrial production fell dramatically, and international trade plummeted, while personal incomes, tax revenues, and profits hit rock bottom. The United States witnessed unprecedented failures in banking, business closures, and farm foreclosures, culminating in severe societal impacts.

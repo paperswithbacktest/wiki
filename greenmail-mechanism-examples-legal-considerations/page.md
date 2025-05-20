@@ -1,6 +1,8 @@
 ---
-title: "Greenmail: Mechanism, Examples, and Legal Considerations (Algo Trading)"
-description: "Explore how greenmail, a historical corporate finance tactic, influences modern business strategies and legal landscapes within the context of hostile takeovers."
+category: trading_strategy
+description: Explore how greenmail, a historical corporate finance tactic, influences
+  modern business strategies and legal landscapes within the context of hostile takeovers.
+title: 'Greenmail: Mechanism, Examples, and Legal Considerations (Algo Trading)'
 ---
 
 Greenmail is a notable strategy within corporate finance that has been influential in shaping business strategies, particularly in the context of hostile takeovers. It involves a tactic where a large block of a company's stock is purchased by an entity, often with the implicit or explicit threat of a takeover. To avert this, the target company may buy back the shares at a premium, resulting in a substantial profit for the purchaser. This maneuver is primarily associated with aggressive investment behavior seen in corporate finance during the 1980s, a period marked by numerous hostile takeover attempts.

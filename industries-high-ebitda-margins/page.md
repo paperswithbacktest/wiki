@@ -1,6 +1,8 @@
 ---
-title: "Industries with High EBITDA Margins (Algo Trading)"
-description: "Discover industries with high EBITDA margins that showcase strong operational efficiency and profitability through scalable operations and economic advantages."
+category: quant_concept
+description: Discover industries with high EBITDA margins that showcase strong operational
+  efficiency and profitability through scalable operations and economic advantages.
+title: Industries with High EBITDA Margins (Algo Trading)
 ---
 
 EBITDA, an acronym for Earnings Before Interest, Taxes, Depreciation, and Amortization, represents a key financial metric commonly used to assess a company's operating performance. It provides a clear picture of a firm's profitability by focusing solely on its core operational outcomes, excluding non-operating factors such as financing costs, tax obligations, and non-cash expenses like depreciation and amortization. This focus on fundamental operating efficiency makes EBITDA a vital tool for comparing companies within and across industries, offering insights into how effectively a company is managed.

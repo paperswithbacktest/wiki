@@ -1,6 +1,8 @@
 ---
-title: "Regulation F Overview and Requirements (Algo Trading)"
-description: "Explore the intersection of Regulation F and algorithmic trading in financial markets. Learn about consumer protection compliance and market stability protocols."
+category: quant_concept
+description: Explore the intersection of Regulation F and algorithmic trading in financial
+  markets. Learn about consumer protection compliance and market stability protocols.
+title: Regulation F Overview and Requirements (Algo Trading)
 ---
 
 In today's financial markets, algorithmic trading has emerged as a dominant force, allowing for the execution of trades at unprecedented speeds and scales. Algorithmic trading, or algotrading, leverages computer algorithms to make rapid decisions in buying and selling securities, optimizing trade execution in ways that human traders cannot match. As a result, algotrading has increased market efficiency but has also introduced complexities that require careful regulatory oversight.

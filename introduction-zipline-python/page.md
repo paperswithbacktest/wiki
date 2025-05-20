@@ -1,6 +1,15 @@
 ---
-title: "Introduction to Zipline in Python (Algo Trading)"
-description: Explore the power of Zipline in Python for algorithmic trading. Discover how this Pythonic event-driven library facilitates backtesting, leverages historical data, and integrates with scientific libraries like matplotlib and scikit-learn. Zipline simplifies developing, testing, and optimizing trading strategies by enabling a seamless transition from backtesting to live trading. Ideal for both novice and experienced traders, it incorporates essential tools and techniques within the PyData ecosystem, enhancing trading operations and ensuring robust strategy development. Learn about installation and core algorithm structures, including key functions for setting up and handling data.
+category: trading_strategy
+description: Explore the power of Zipline in Python for algorithmic trading. Discover
+  how this Pythonic event-driven library facilitates backtesting, leverages historical
+  data, and integrates with scientific libraries like matplotlib and scikit-learn.
+  Zipline simplifies developing, testing, and optimizing trading strategies by enabling
+  a seamless transition from backtesting to live trading. Ideal for both novice and
+  experienced traders, it incorporates essential tools and techniques within the PyData
+  ecosystem, enhancing trading operations and ensuring robust strategy development.
+  Learn about installation and core algorithm structures, including key functions
+  for setting up and handling data.
+title: Introduction to Zipline in Python (Algo Trading)
 ---
 
 Algorithmic trading, a cornerstone of modern financial markets, has dramatically changed the way trading is executed by leveraging the speed and accuracy of computer-driven strategies. It involves the use of advanced algorithms and mathematical models to make rapid trading decisions, with the aim of optimizing trade execution and maximizing returns. With the growing popularity of Python due to its simplicity and versatility, choosing a comprehensive library such as Zipline for algorithmic trading becomes essential for traders who wish to automate and refine their trading strategies.

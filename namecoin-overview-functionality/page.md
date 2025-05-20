@@ -1,6 +1,8 @@
 ---
-title: "Namecoin: Overview and Functionality (Algo Trading)"
-description: "Discover how Namecoin combines blockchain technology with algorithmic trading to optimize decentralized online identity systems and enhance trading efficiency."
+category: quant_concept
+description: Discover how Namecoin combines blockchain technology with algorithmic
+  trading to optimize decentralized online identity systems and enhance trading efficiency.
+title: 'Namecoin: Overview and Functionality (Algo Trading)'
 ---
 
 Blockchain technology has emerged as a transformative force, fundamentally altering digital landscapes across various sectors. At its core, blockchain is a decentralized ledger system that ensures transparency, security, and immutability of data. These attributes have enabled blockchain to transcend its initial application in cryptocurrencies and extend its utility to industries such as supply chain management, healthcare, and finance, fostering a new era of digital interactions and transactions.

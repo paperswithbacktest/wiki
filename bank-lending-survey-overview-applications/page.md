@@ -1,6 +1,9 @@
 ---
-title: "Bank Lending Survey: Overview and Applications (Algo Trading)"
-description: "Explore the evolving landscape of bank lending surveys and algorithmic trading Discover how these tools enhance financial analysis credit assessment and market dynamics"
+category: quant_concept
+description: Explore the evolving landscape of bank lending surveys and algorithmic
+  trading Discover how these tools enhance financial analysis credit assessment and
+  market dynamics
+title: 'Bank Lending Survey: Overview and Applications (Algo Trading)'
 ---
 
 In recent years, the financial landscape has evolved rapidly, influenced by technological advancements and shifts in regulatory frameworks. This transformation has underscored the importance of understanding bank lending practices, credit assessment, and the deployment of algorithms in trading. Bank lending surveys have emerged as critical tools in economic and financial analysis, offering insights into lending standards and credit availability. These surveys help central banks in regulating and supervising the banking system, ensuring financial stability.

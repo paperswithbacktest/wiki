@@ -1,6 +1,15 @@
 ---
-title: "Support Level in Trading (Algo Trading)"
-description: "Discover how support levels play a vital role in trading, especially in algorithmic trading. This article investigates into the application and significance of support levels for enhancing trading strategies, optimizing market entry and exit points, and mitigating risks associated with volatility. Explore both manual and automated systems for detecting support levels and understand how technology and traditional methods can come together to improve predictive accuracy and trading outcomes. Learn how algorithmic trading leverages computational algorithms to efficiently analyze market data and identify key support levels, leading to smarter and faster trading decisions."
+category: trading_strategy
+description: Discover how support levels play a vital role in trading, especially
+  in algorithmic trading. This article investigates into the application and significance
+  of support levels for enhancing trading strategies, optimizing market entry and
+  exit points, and mitigating risks associated with volatility. Explore both manual
+  and automated systems for detecting support levels and understand how technology
+  and traditional methods can come together to improve predictive accuracy and trading
+  outcomes. Learn how algorithmic trading leverages computational algorithms to efficiently
+  analyze market data and identify key support levels, leading to smarter and faster
+  trading decisions.
+title: Support Level in Trading (Algo Trading)
 ---
 
 Technical analysis is an essential skill for traders aiming to identify key price levels, notably support and resistance. These levels are pivotal in determining potential price movements and inform trading decisions significantly. This article examines the understanding and application of support levels, particularly within the context of algorithmic trading. These price levels can optimize trading strategies by offering insights into market entry and exit points, thereby reducing risks associated with volatility.

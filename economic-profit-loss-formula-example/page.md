@@ -1,6 +1,9 @@
 ---
-title: "Economic Profit and Loss: Formula and Example (Algo Trading)"
-description: "Enhance your algo trading strategies by understanding economic profit and P&L statements, incorporating opportunity costs, and leveraging financial analysis for better outcomes."
+category: quant_concept
+description: Enhance your algo trading strategies by understanding economic profit
+  and P&L statements, incorporating opportunity costs, and leveraging financial analysis
+  for better outcomes.
+title: 'Economic Profit and Loss: Formula and Example (Algo Trading)'
 ---
 
 In today's highly competitive financial landscape, the ability to navigate complex markets with precision is more critical than ever. To thrive in this environment, traders must have a deep understanding of several key financial concepts, including economic profit, profit and loss (P&L), and financial analysis. These elements form the backbone of sound trading strategies and are indispensable tools for achieving success.

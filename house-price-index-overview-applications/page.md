@@ -1,6 +1,9 @@
 ---
-title: "House Price Index: Overview and Applications (Algo Trading)"
-description: "Explore how the House Price Index enhances algorithmic trading in real estate by providing data-driven insights for more accurate and efficient investment strategies."
+category: dataset
+description: Explore how the House Price Index enhances algorithmic trading in real
+  estate by providing data-driven insights for more accurate and efficient investment
+  strategies.
+title: 'House Price Index: Overview and Applications (Algo Trading)'
 ---
 
 The House Price Index (HPI) is a valuable metric in the real estate market, offering insights into property value trends over time. It measures fluctuations in residential property prices, enabling stakeholders to understand market dynamics, assess investment opportunities, and evaluate economic conditions. By tracking these changes, investors and policymakers can make informed decisions that reflect the underlying economic environment and property market conditions.

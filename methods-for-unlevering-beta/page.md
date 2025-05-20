@@ -1,6 +1,13 @@
 ---
-title: "Methods for Unlevering Beta (Algo Trading)"
-description: "Explore the dynamic world of finance with a focus on understanding beta and its unlevered counterpart as essential metrics in investment strategy. This article investigates into the importance of unlevered beta by stripping away financial leverage effects to reveal intrinsic business risk. Gain insights into how these concepts impact algorithmic trading, risk assessments, and portfolio management, equipping investors and financial professionals with the knowledge to make informed decisions in a constantly evolving market landscape."
+category: quant_concept
+description: Explore the dynamic world of finance with a focus on understanding beta
+  and its unlevered counterpart as essential metrics in investment strategy. This
+  article investigates into the importance of unlevered beta by stripping away financial
+  leverage effects to reveal intrinsic business risk. Gain insights into how these
+  concepts impact algorithmic trading, risk assessments, and portfolio management,
+  equipping investors and financial professionals with the knowledge to make informed
+  decisions in a constantly evolving market landscape.
+title: Methods for Unlevering Beta (Algo Trading)
 ---
 
 In finance, understanding the nuances of beta calculations can significantly impact investment strategies. Beta is traditionally employed as a measure to assess a stock's volatility compared to the broader market. It plays a pivotal role in determining how much a stock's price might fluctuate relative to an index such as the S&P 500. A beta value of 1 suggests that the stock should move with the market. However, a beta greater than 1 indicates higher volatility, making the stock more susceptible to larger price swings. Conversely, a beta less than 1 suggests less volatility and potentially lower investment risk.

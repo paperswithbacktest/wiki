@@ -1,6 +1,8 @@
 ---
-title: "Participatory Notes: Overview and Functionality (Algo Trading)"
-description: "Explore the role of Participatory Notes and algorithmic trading in finance They simplify foreign investments in India and enhance trading efficiency in markets"
+category: quant_concept
+description: Explore the role of Participatory Notes and algorithmic trading in finance
+  They simplify foreign investments in India and enhance trading efficiency in markets
+title: 'Participatory Notes: Overview and Functionality (Algo Trading)'
 ---
 
 The world of finance encompasses a diverse range of financial instruments, each offering unique opportunities and challenges for investors aiming to diversify their portfolios. Participatory Notes, commonly referred to as P-Notes, are significant among these instruments. They facilitate offshore investments in Indian securities without requiring direct registration with the Securities and Exchange Board of India (SEBI). This feature allows foreign investors to access Indian markets efficiently, promoting cross-border investment flows and economic integration.

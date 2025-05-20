@@ -1,6 +1,9 @@
 ---
-title: "PGIM Quant Solutions (Algo Trading)"
-description: "Discover how PGIM Quant Solutions leverages AI and machine learning in algorithmic trading to enhance asset management efficiency and set new industry standards."
+category: trading_strategy
+description: Discover how PGIM Quant Solutions leverages AI and machine learning in
+  algorithmic trading to enhance asset management efficiency and set new industry
+  standards.
+title: PGIM Quant Solutions (Algo Trading)
 ---
 
 PGIM Quant Solutions is a prominent division within PGIM, the global investment management business of Prudential Financial, Inc., specializing in quantitative investment strategies. It plays a critical role in the financial industry by providing sophisticated algorithmic trading solutions that enhance the efficiency and effectiveness of asset management. Algorithmic trading, which involves using computer algorithms to automate trading decisions based on predefined criteria, has undergone significant evolution over the years. Initially developed for institutional investors to execute large trades more efficiently, algorithmic trading has now expanded its reach to various sectors, aiding both institutional and individual investors in executing rapid and data-driven decisions in complex financial markets.

@@ -1,6 +1,8 @@
 ---
-title: "Bank Bail-Ins as Modern Financial Bailouts (Algo Trading)"
-description: "Discover how bank bail-ins and algorithmic trading are reshaping financial bailouts with modern economic implications and systemic stability in focus."
+category: quant_concept
+description: Discover how bank bail-ins and algorithmic trading are reshaping financial
+  bailouts with modern economic implications and systemic stability in focus.
+title: Bank Bail-Ins as Modern Financial Bailouts (Algo Trading)
 ---
 
 The global financial landscape has been significantly influenced by diverse economic policies, particularly since the financial crisis of 2007-2008. During this period, financial bailouts emerged as a critical mechanism, wherein governments injected capital into failing financial institutions to prevent a systemic collapse. This intervention typically involved the deployment of taxpayer funds to stabilize the institutions considered "too big to fail." The objective was to protect the broader economy from the potentially devastating impacts of major bank failures, although this approach raised concerns about moral hazard, where institutions might engage in risky behavior, assuming future government support.

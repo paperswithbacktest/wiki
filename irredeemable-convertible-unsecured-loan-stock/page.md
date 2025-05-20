@@ -1,6 +1,8 @@
 ---
-title: "Irredeemable Convertible Unsecured Loan Stock (Algo Trading)"
-description: "Explore the dynamic intersection of ICULS and algo trading a blend of hybrid securities and advanced trading technology enhancing modern investment strategies."
+category: quant_concept
+description: Explore the dynamic intersection of ICULS and algo trading a blend of
+  hybrid securities and advanced trading technology enhancing modern investment strategies.
+title: Irredeemable Convertible Unsecured Loan Stock (Algo Trading)
 ---
 
 Financial instruments represent a broad category of assets that can be traded or used for various economic purposes in financial markets. Among these, Irredeemable Convertible Unsecured Loan Stock (ICULS) stands out as a unique hybrid security, reflecting characteristics of both debt and equity. ICULS are issued by corporations seeking to raise capital and present investors with the dual benefit of fixed interest income and potential equity ownership. This dual nature makes them particularly appealing in complex investment strategies, offering structured avenues for both the issuer's and investor's benefit.

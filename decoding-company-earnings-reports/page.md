@@ -1,6 +1,8 @@
 ---
-title: "Decoding Company Earnings Reports (Algo Trading)"
-description: "Discover how to enhance trading performance by decoding company earnings reports using algorithmic strategies during peak volatility in earnings season."
+category: trading_strategy
+description: Discover how to enhance trading performance by decoding company earnings
+  reports using algorithmic strategies during peak volatility in earnings season.
+title: Decoding Company Earnings Reports (Algo Trading)
 ---
 
 The financial landscape is profoundly shaped by company reports and financial analysis, with earnings reports holding particular significance. Earnings reports provide a snapshot of a company's financial health and significantly influence investment decisions and market movements. Consequently, they shape market perceptions and drive stock price fluctuations. Investors and traders closely monitor earnings reports to derive insights about a company's performance, which, in turn, affects their investment strategies.

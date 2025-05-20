@@ -1,6 +1,8 @@
 ---
-title: "Normal Yield Curve (Algo Trading)"
-description: "Explore the dynamics of bond market interest rates, yield curves, and algorithmic trading Learn how these elements impact investments and trading strategies."
+category: quant_concept
+description: Explore the dynamics of bond market interest rates, yield curves, and
+  algorithmic trading Learn how these elements impact investments and trading strategies.
+title: Normal Yield Curve (Algo Trading)
 ---
 
 The bond market is integral to the global economy, acting as a conduit for capital between governments, corporations, and investors. By issuing bonds, governments and corporations can secure necessary funds for infrastructure projects, business expansions, and other financial needs. These bonds offer a fixed income for investors, typically in the form of interest payments, which are heavily influenced by prevailing interest rates.

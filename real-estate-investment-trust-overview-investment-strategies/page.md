@@ -1,6 +1,9 @@
 ---
-title: "Real Estate Investment Trust: Overview and Investment Strategies (Algo Trading)"
-description: "Explore how Real Estate Investment Trusts (REITs) and algorithmic trading strategies revolutionize real estate investment, enhancing returns and portfolio management."
+category: trading_strategy
+description: Explore how Real Estate Investment Trusts (REITs) and algorithmic trading
+  strategies revolutionize real estate investment, enhancing returns and portfolio
+  management.
+title: 'Real Estate Investment Trust: Overview and Investment Strategies (Algo Trading)'
 ---
 
 Real estate investment has long been a cornerstone of wealth generation and asset diversification for investors worldwide. Recognizing and navigating the myriad aspects of this investment avenue is crucial for modern investors aiming to optimize their portfolios. Among the strategies that have revolutionized how real estate investments are approached are Real Estate Investment Trusts (REITs) and algorithmic trading. These approaches have catalyzed significant changes in the landscape, providing new tools and methodologies for investors to maximize their returns.
@@ -181,4 +184,3 @@ Looking ahead, the future of real estate investment will increasingly rely on th
 [6]: Lopez de Prado, M. (2018). ["Advances in Financial Machine Learning"](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089). John Wiley & Sons.
 
 [7]: Kotecha, K., & Kotecha, K. (2020). ["Algorithmic Trading Using Deep Reinforcement Learning"](https://orcid.org/0000-0003-2653-3780) in Machine Learning for Optimal Systems.
-

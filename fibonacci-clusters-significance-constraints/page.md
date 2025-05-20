@@ -1,6 +1,9 @@
 ---
-title: "Fibonacci Clusters: Significance and Constraints (Algo Trading)"
-description: "Explore the significance of Fibonacci clusters in algorithmic trading as a method to identify market trends and mitigate risks while overcoming inherent constraints."
+category: trading_strategy
+description: Explore the significance of Fibonacci clusters in algorithmic trading
+  as a method to identify market trends and mitigate risks while overcoming inherent
+  constraints.
+title: 'Fibonacci Clusters: Significance and Constraints (Algo Trading)'
 ---
 
 In the ever-evolving world of trading, where technological advancements and data analytics continually redefine strategies, algorithmic trading has emerged as a crucial tool for traders seeking precision and efficiency. Among the arsenal of techniques employed in algorithmic trading, Fibonacci clusters have gained prominence. This method, deeply rooted in the principles of Fibonacci retracement and extension levels, offers traders a systematic way to identify critical points in the market, such as support and resistance areas.

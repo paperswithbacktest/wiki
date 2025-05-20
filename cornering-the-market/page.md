@@ -1,6 +1,9 @@
 ---
-title: "Cornering the market (Algo Trading)"
-description: "Explore the complexities of market cornering within algorithmic trading, its risks, legal aspects, and how tech innovations and regulations aim to ensure fairness."
+category: trading_strategy
+description: Explore the complexities of market cornering within algorithmic trading,
+  its risks, legal aspects, and how tech innovations and regulations aim to ensure
+  fairness.
+title: Cornering the market (Algo Trading)
 ---
 
 Market cornering is a trading strategy where a single entity gains significant control over a market, effectively manipulating prices to its advantage. In the context of algorithmic trading, this concept takes on new dimensions. By leveraging high-speed algorithms and vast data processing capabilities, traders can implement cornering strategies more efficiently and subtly. Understanding market cornering in today's financial markets is crucial, as it underscores the potential risks inherent in these highly automated trading environments.

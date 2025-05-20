@@ -1,6 +1,9 @@
 ---
-title: "Bond Ratings: Overview and Impact (Algo Trading)"
-description: "Explore the impact of bond ratings and algorithmic trading on financial markets Learn about credit rating agencies' roles and how they affect investment decisions"
+category: quant_concept
+description: Explore the impact of bond ratings and algorithmic trading on financial
+  markets Learn about credit rating agencies' roles and how they affect investment
+  decisions
+title: 'Bond Ratings: Overview and Impact (Algo Trading)'
 ---
 
 In an era where financial markets are increasingly complex, the roles of credit rating agencies and algorithmic trading have become critical. These entities and practices significantly impact the investment landscape, particularly with regard to bond ratings. Credit rating agencies, such as Moody's, Standard & Poor's, and Fitch Ratings, assign ratings that serve as indicators of the creditworthiness of bond issuers. These ratings are integral to investment decisions, influencing both investor confidence and the cost of borrowing for issuers.

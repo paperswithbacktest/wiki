@@ -1,6 +1,8 @@
 ---
-title: "Counter Trend Strategy: Overview and Benefits (Algo Trading)"
-description: "Unlock the potential of counter trend trading with algorithmic strategies Capitalize on market reversals and enhance trading efficiency with advanced tools"
+category: trading_strategy
+description: Unlock the potential of counter trend trading with algorithmic strategies
+  Capitalize on market reversals and enhance trading efficiency with advanced tools
+title: 'Counter Trend Strategy: Overview and Benefits (Algo Trading)'
 ---
 
 Understanding the fundamental concepts of investment strategies and trading techniques is crucial for any trader. Trading strategies are essential tools that guide traders in decision-making processes, helping them navigate financial markets efficiently. These strategies encompass a wide range of approaches, each tailored to specific market conditions and trader preferences. One such strategy is the counter trend strategy, which involves trading against the prevailing trend. This approach is based on the notion that market trends do not persist indefinitely and are often interrupted by price corrections or reversals.

@@ -1,6 +1,8 @@
 ---
-title: "Enhancing Returns Without Increasing Risk (Algo Trading)"
-description: "Optimize investment returns with algorithmic trading without increasing risk through data-driven decisions and robust risk management strategies."
+category: trading_strategy
+description: Optimize investment returns with algorithmic trading without increasing
+  risk through data-driven decisions and robust risk management strategies.
+title: Enhancing Returns Without Increasing Risk (Algo Trading)
 ---
 
 Alpha is a crucial measure in investment strategies, representing the excess returns earned by an asset or a portfolio compared to the market benchmark. This excess return showcases the effectiveness of an investment manager's ability to generate profits beyond the passive market index. For investors and fund managers, achieving a positive alpha is often synonymous with skillful portfolio management and is a key benchmark for performance evaluation.

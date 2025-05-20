@@ -1,6 +1,8 @@
 ---
-title: "Economic Impact of World War II on the Global Economy (Algo Trading)"
-description: "Explore the profound economic impact of World War II on the global economy and the rise of technologies like algorithmic trading that modernized markets."
+category: quant_concept
+description: Explore the profound economic impact of World War II on the global economy
+  and the rise of technologies like algorithmic trading that modernized markets.
+title: Economic Impact of World War II on the Global Economy (Algo Trading)
 ---
 
 World War II was a pivotal event that reshaped the global economic landscape significantly. The conflict, which lasted from 1939 to 1945, resulted in profound geopolitical changes but also introduced economic transformations that would resonate for decades. The war catalyzed shifts across various sectors, imprinting a lasting legacy on national economies and the international monetary system. This examination of the economic impacts of World War II investigates into the complexities of these shifts, emphasizing the consequential emergence of technologies, including algorithmic trading, which has modernized financial markets.

@@ -1,7 +1,8 @@
 ---
-title: Understanding BLEU Score for Machine Translation Quality
+category: quant_concept
 description: BLEU score offers an automated way to assess machine translation by matching
   n-grams to human references with a brevity penalty Discover more inside
+title: Understanding BLEU Score for Machine Translation Quality
 ---
 
 ![Image](images/1.png)

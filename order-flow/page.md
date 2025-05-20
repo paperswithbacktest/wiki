@@ -1,6 +1,9 @@
 ---
-title: "order flow (Algo Trading)"
-description: "Explore the intricacies of order flow analysis in algorithmic trading to enhance precision in identifying supply and demand zones for optimized market strategies."
+category: quant_concept
+description: Explore the intricacies of order flow analysis in algorithmic trading
+  to enhance precision in identifying supply and demand zones for optimized market
+  strategies.
+title: order flow (Algo Trading)
 ---
 
 Order flow analysis has emerged as a formidable tool in the arsenal of traders seeking an advantage in competitive markets. This analytical approach deciphers the intricate patterns of buying and selling activities, enabling traders to glean valuable insights that traditional analysis methods might overlook. By integrating order flow analysis with conventional trading techniques, traders can more precisely identify supply and demand zones, critical regions on a price chart where the forces of supply and demand equilibrate. These zones often herald potential reversals or continuations in price movements, making them invaluable for strategic trading decisions.

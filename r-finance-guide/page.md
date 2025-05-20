@@ -1,6 +1,12 @@
 ---
-title: "R Finance Guide (Algo Trading)"
-description: Discover how R empowers algorithmic trading with its statistical prowess, robust libraries, and data visualization capabilities. This guide explores R's role in building and deploying quantitative trading strategies, emphasizing its advantage in data manipulation and analysis. Learn about essential R packages and how they enhance financial computations, offering traders a competitive edge in today's fast-paced markets.
+category: trading_strategy
+description: Discover how R empowers algorithmic trading with its statistical prowess,
+  robust libraries, and data visualization capabilities. This guide explores R's role
+  in building and deploying quantitative trading strategies, emphasizing its advantage
+  in data manipulation and analysis. Learn about essential R packages and how they
+  enhance financial computations, offering traders a competitive edge in today's fast-paced
+  markets.
+title: R Finance Guide (Algo Trading)
 ---
 
 Algorithmic trading refers to the use of computer algorithms to automate trading decisions in financial markets. Through algorithmic trading, large volumes of trades can be executed with speed and precision that surpasses human capabilities. This form of trading has become increasingly integral to financial markets, given its ability to enhance liquidity, reduce transaction costs, and improve execution quality. According to a report by Mordor Intelligence, algorithmic trading accounted for approximately 60-73% of the overall trading volume in the US by 2020, underscoring its critical role in modern finance [1].

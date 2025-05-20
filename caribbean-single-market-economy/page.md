@@ -1,6 +1,8 @@
 ---
-title: "Caribbean Single Market and Economy (Algo Trading)"
-description: "Explore the integration of the Caribbean Single Market and Economy with algorithmic trading to enhance regional economic growth and market efficiency."
+category: quant_concept
+description: Explore the integration of the Caribbean Single Market and Economy with
+  algorithmic trading to enhance regional economic growth and market efficiency.
+title: Caribbean Single Market and Economy (Algo Trading)
 ---
 
 The Caribbean Single Market and Economy (CSME) represents a significant endeavor aimed at unifying the economies of Caribbean nations to enhance regional economic integration and development. Established under the framework of the Caribbean Community (CARICOM), the CSME seeks to create a single economic space that facilitates the free movement of goods, services, capital, and labor. This integration is intended to boost economic competitiveness and provide a cooperative mechanism for regional development. By eliminating trade barriers and fostering a collaborative economic environment, the CSME aims to bolster resilience against external economic shocks and increase the global competitiveness of its member states.

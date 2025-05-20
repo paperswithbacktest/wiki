@@ -1,6 +1,8 @@
 ---
-title: "Common Stock and Preferred Stock: Overview and Types (Algo Trading)"
-description: "Explore the key differences between common and preferred stock including voting rights and dividends Discover how algorithmic trading impacts modern markets"
+category: quant_concept
+description: Explore the key differences between common and preferred stock including
+  voting rights and dividends Discover how algorithmic trading impacts modern markets
+title: 'Common Stock and Preferred Stock: Overview and Types (Algo Trading)'
 ---
 
 In the world of investment, understanding the different types of stock—common stock and preferred stock—is vital. These financial instruments provide a gateway for individuals and institutions to participate in the equity of a company, offering varied rights and privileges. Common stock represents ownership stakes, allowing shareholders to influence corporate decisions through voting, while preferred stock often prioritizes dividend payments over voting rights, presenting a more stable income stream.

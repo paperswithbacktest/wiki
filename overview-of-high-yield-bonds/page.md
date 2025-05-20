@@ -1,6 +1,8 @@
 ---
-title: "Overview of High-Yield Bonds (Algo Trading)"
-description: "Explore high-yield bonds and their potential for significant returns. Discover the risks involved and how algorithmic trading impacts these investments."
+category: quant_concept
+description: Explore high-yield bonds and their potential for significant returns.
+  Discover the risks involved and how algorithmic trading impacts these investments.
+title: Overview of High-Yield Bonds (Algo Trading)
 ---
 
 Understanding the investment landscape is crucial for investors seeking higher returns. High-yield bonds, also known as junk bonds, present a unique opportunity with their potential for significant yield. These bonds are issued by companies with lower credit ratings, which translates into higher interest payments as compensation for their elevated risk profile. As such, they are an enticing option for investors willing to explore outside traditional, safer investments.

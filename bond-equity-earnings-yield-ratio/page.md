@@ -1,6 +1,8 @@
 ---
-title: "Bond Equity Earnings Yield Ratio (Algo Trading)"
-description: "Explore the Bond Equity Earnings Yield Ratio's role in algorithmic trading and investment strategies for optimized returns by comparing bond and stock yields."
+category: trading_strategy
+description: Explore the Bond Equity Earnings Yield Ratio's role in algorithmic trading
+  and investment strategies for optimized returns by comparing bond and stock yields.
+title: Bond Equity Earnings Yield Ratio (Algo Trading)
 ---
 
 Understanding different financial metrics is fundamental for investors aiming to make well-informed investment decisions. Among these metrics, the Bond Equity Earnings Yield (BEER) ratio serves as an important tool for assessing the relationship between bond yields and stock market earnings yields. The BEER ratio allows investors to systematically evaluate whether to favor stocks or bonds based on comparative yields. 

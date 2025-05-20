@@ -1,6 +1,8 @@
 ---
-title: "List of Basic Commodities (Algo Trading)"
-description: "Discover the essentials of commodities in algo trading Explore how automated strategies leverage these crucial resources for optimized trading and risk management"
+category: dataset
+description: Discover the essentials of commodities in algo trading Explore how automated
+  strategies leverage these crucial resources for optimized trading and risk management
+title: List of Basic Commodities (Algo Trading)
 ---
 
 Algorithmic trading, commonly known as algo trading, has transformed the financial markets by allowing for the automated buying and selling of commodities and other financial instruments. This technological advancement leverages sophisticated algorithms, often incorporating machine learning and statistical methods, to execute trading decisions at speeds and frequencies that are impossible for human traders. The automation of trading processes not only enhances efficiency but also provides opportunities for traders to capitalize on arbitrage opportunities, manage risk more effectively, and implement complex trading strategies across diverse market conditions.

@@ -1,7 +1,8 @@
 ---
-title: Neural Architecture Search Explained for Efficient Models
+category: quant_concept
 description: Neural Architecture Search automates network design with smart search
   and validation to save time and boost model performance Discover more inside
+title: Neural Architecture Search Explained for Efficient Models
 ---
 
 ![Image](images/1.png)

@@ -1,6 +1,8 @@
 ---
-title: "Investment Strategies Based on Time Horizons (Algo Trading)"
-description: "Explore investment strategies aligned with various time horizons including value and growth investing and understand how algorithmic trading enhances decision-making."
+category: trading_strategy
+description: Explore investment strategies aligned with various time horizons including
+  value and growth investing and understand how algorithmic trading enhances decision-making.
+title: Investment Strategies Based on Time Horizons (Algo Trading)
 ---
 
 The world of investing is extensive, offering a multitude of strategies aimed at achieving financial growth. Investing can range from the simplicity of a savings account to the complexity of hedge funds and derivatives. Successful investing often necessitates the alignment of strategies with specific goals and time horizons, ensuring that each investment decision contributes to a clearly defined financial objective. Individual investors, therefore, need to be acquainted with different strategies, such as value investing, growth investing, and algorithmic trading, among others. Each strategy comes with its own set of rules and potential outcomes, which must be matched with an investor's financial aspirations and risk appetite.

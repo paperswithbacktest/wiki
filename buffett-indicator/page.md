@@ -1,6 +1,8 @@
 ---
-title: "Buffett indicator (Algo Trading)"
-description: "Discover the power of the Buffett Indicator for evaluating market valuation in algo trading, integrating insights into trading strategies for better decision-making."
+category: quant_concept
+description: Discover the power of the Buffett Indicator for evaluating market valuation
+  in algo trading, integrating insights into trading strategies for better decision-making.
+title: Buffett indicator (Algo Trading)
 ---
 
 In the world of investment and finance, the Buffett Indicator has gained significant attention as a metric for assessing market valuation. Named after the legendary investor Warren Buffett, this indicator provides a simplistic yet powerful insight into whether the stock market is overvalued or undervalued.

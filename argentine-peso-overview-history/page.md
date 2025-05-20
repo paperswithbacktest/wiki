@@ -1,6 +1,8 @@
 ---
-title: "Argentine Peso: Overview and Historical Background (Algo Trading)"
-description: "Explore the historical journey of the Argentine Peso amid economic challenges and currency reforms. Understand its impact on trading strategies and market dynamics."
+category: dataset
+description: Explore the historical journey of the Argentine Peso amid economic challenges
+  and currency reforms. Understand its impact on trading strategies and market dynamics.
+title: 'Argentine Peso: Overview and Historical Background (Algo Trading)'
 ---
 
 The Argentine Peso (ARP) once served as the national currency of Argentina, marking significant periods of economic transformation during its brief existence. Introduced in 1983, the ARP emerged in a climate of severe monetary turmoil, as Argentina grappled with hyperinflation and a crumbling economic infrastructure. During its short tenure, the ARP became emblematic of the country's struggle to achieve financial stability against a backdrop of political and economic challenges.

@@ -1,6 +1,9 @@
 ---
-title: "Asset Performance and Mechanics (Algo Trading)"
-description: "Explore the synergy between asset management and algorithmic trading in shaping modern financial strategies Gain insights into optimizing returns and minimizing risks"
+category: trading_strategy
+description: Explore the synergy between asset management and algorithmic trading
+  in shaping modern financial strategies Gain insights into optimizing returns and
+  minimizing risks
+title: Asset Performance and Mechanics (Algo Trading)
 ---
 
 The ever-changing landscape of financial markets has led to the emergence of advanced investment strategies and technological innovations. At the core of these developments lies asset management, which is pivotal in optimizing returns and managing risks effectively. Asset management encompasses a comprehensive approach to evaluating asset performance, ensuring that the assets are utilized in the most productive way. It involves a systematic process of deploying, operating, maintaining, and trading assets in a manner that maximizes returns while minimizing risks. The evaluation of asset performance through metrics such as Return on Assets (ROA) provides essential insights into how efficiently a firm uses its assets to generate income.

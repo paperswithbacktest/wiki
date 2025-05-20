@@ -1,7 +1,8 @@
 ---
-title: Harnessing Optax For Efficient Machine Learning Optimization
+category: quant_concept
 description: Optax simplifies model optimization by offering flexible optimizers and
   custom learning rate schedules for faster results. Discover more inside.
+title: Harnessing Optax For Efficient Machine Learning Optimization
 ---
 
 ![Image](images/1.png)

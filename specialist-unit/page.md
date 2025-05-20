@@ -1,6 +1,9 @@
 ---
-title: "Specialist Unit (Algo Trading)"
-description: "Discover how algorithmic trading has transformed financial markets by enhancing efficiency and speed Learn about key roles and AI impact shaping this dynamic field"
+category: quant_concept
+description: Discover how algorithmic trading has transformed financial markets by
+  enhancing efficiency and speed Learn about key roles and AI impact shaping this
+  dynamic field
+title: Specialist Unit (Algo Trading)
 ---
 
 Algorithmic trading has revolutionized financial markets by providing unprecedented efficiency and speed in executing trades. This trading method utilizes computer algorithms to make trading decisions, which has significantly diminished the role of human participation in executing trade orders. Initially, the stock markets relied heavily on specialist units, such as those on the New York Stock Exchange (NYSE), who played a crucial role in maintaining market liquidity and balance by managing buy and sell orders. Over time, advancements in technology have led these human roles to be largely replaced or augmented by electronic algorithms, thereby transforming the traditional trading landscape.

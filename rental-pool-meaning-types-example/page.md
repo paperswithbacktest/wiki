@@ -1,6 +1,8 @@
 ---
-title: "Rental Pool: Meaning, Types, and Example (Algo Trading)"
-description: "Explore the dynamic world of real estate investment with insights into rental pools and algorithmic trading to enhance portfolio returns and diversification."
+category: trading_strategy
+description: Explore the dynamic world of real estate investment with insights into
+  rental pools and algorithmic trading to enhance portfolio returns and diversification.
+title: 'Rental Pool: Meaning, Types, and Example (Algo Trading)'
 ---
 
 Real estate investment is a dynamic and versatile sector that presents a wealth of strategies tailored to varying financial objectives and risk thresholds. As the market continues to evolve, investors are presented with a broad spectrum of opportunities ranging from conventional to cutting-edge approaches. Traditional real estate investment methods, such as acquiring and holding properties, provide stability and long-term growth prospects. More innovative strategies, like rental pools and algorithmic trading, offer new avenues for generating returns and diversifying portfolios.

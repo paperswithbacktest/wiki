@@ -1,6 +1,9 @@
 ---
-title: "Gulf Tiger: Functionality and Challenges (Algo Trading)"
-description: "Discover the fascinating rise of Dubai, aka the Gulf Tiger, as a global financial powerhouse tackling challenges through economic diversification and algorithmic trading."
+category: quant_concept
+description: Discover the fascinating rise of Dubai, aka the Gulf Tiger, as a global
+  financial powerhouse tackling challenges through economic diversification and algorithmic
+  trading.
+title: 'Gulf Tiger: Functionality and Challenges (Algo Trading)'
 ---
 
 Dubai, often dubbed the "Gulf Tiger," has swiftly positioned itself as a formidable force in global trade and finance. Renowned for its impressive collection of towering skyscrapers, including the iconic Burj Khalifa, and its dynamic and bustling economy, Dubai has effectively transformed itself into a pivotal financial and technological nexus. The city's skyline and urban planning reflect a commitment to modernity and innovation, symbolizing its broader economic ambitions and achievements.

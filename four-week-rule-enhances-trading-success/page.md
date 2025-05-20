@@ -1,6 +1,9 @@
 ---
-title: "Four-Week Rule Enhances Trading Success (Algo Trading)"
-description: "The four-week rule is a simple yet effective trend-following strategy in algorithmic trading helping traders automate strategies to capture market trends efficiently."
+category: trading_strategy
+description: The four-week rule is a simple yet effective trend-following strategy
+  in algorithmic trading helping traders automate strategies to capture market trends
+  efficiently.
+title: Four-Week Rule Enhances Trading Success (Algo Trading)
 ---
 
 In today's dynamic financial markets, traders are in constant pursuit of strategies that provide a competitive edge. The four-week rule stands out as a notably effective tactic, gaining recognition for its simplicity and efficacy in capturing market trends. This strategy was pioneered by Richard Donchian, a pioneer in the field of technical analysis. The four-week rule is built on trend-following principles that utilize historical price data to identify trading opportunities. Specifically, it generates signals based on four-week price highs and lows, allowing traders to ride significant market movements.

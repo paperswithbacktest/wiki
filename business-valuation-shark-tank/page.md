@@ -1,6 +1,8 @@
 ---
-title: "Business Valuation on Shark Tank (Algo Trading)"
-description: "Explore how business valuation impacts investment decisions on Shark Tank and discover the role of algorithmic trading in evaluating business opportunities."
+category: quant_concept
+description: Explore how business valuation impacts investment decisions on Shark
+  Tank and discover the role of algorithmic trading in evaluating business opportunities.
+title: Business Valuation on Shark Tank (Algo Trading)
 ---
 
 Understanding business valuation is crucial for stakeholders in high-stakes environments such as Shark Tank. Business valuation serves as a cornerstone in the decision-making process for both entrepreneurs seeking investment and investors evaluating the potential return on their investments. Accurately valuing a business involves assessing various factors, including financial performance, market conditions, and competitive position, which can significantly impact the negotiation and outcome of investment deals.

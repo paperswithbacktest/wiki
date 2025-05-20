@@ -1,6 +1,12 @@
 ---
-title: "Future of Financial Technology (Algo Trading)"
-description: "Explore the future of financial technology and algorithmic trading with insights into emerging trends and key drivers such as AI, machine learning, and blockchain. Understand how these elements shape the fintech landscape by enhancing service delivery, efficiency, and personalization while navigating evolving regulatory environments. Discover the profound impact of these innovations on global financial markets and consumer behaviors."
+category: quant_concept
+description: Explore the future of financial technology and algorithmic trading with
+  insights into emerging trends and key drivers such as AI, machine learning, and
+  blockchain. Understand how these elements shape the fintech landscape by enhancing
+  service delivery, efficiency, and personalization while navigating evolving regulatory
+  environments. Discover the profound impact of these innovations on global financial
+  markets and consumer behaviors.
+title: Future of Financial Technology (Algo Trading)
 ---
 
 Fintech, a portmanteau of 'financial technology,' refers to the integration and application of digital technologies in the financial services industry, a sector traditionally characterized by its reliance on manual processes and extensive paperwork. Over recent decades, fintech has significantly transformed how financial services are delivered and consumed. From the advent of Automated Teller Machines (ATMs) in the late 1960s, which revolutionized cash withdrawals, to today's complex smartphone banking applications, fintech continues to evolve, impacting the delivery of financial products and services globally.

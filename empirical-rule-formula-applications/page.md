@@ -1,6 +1,9 @@
 ---
-title: "Empirical Rule Explained: Formula and Applications (Algo Trading)"
-description: "The empirical rule is crucial for traders in algorithmic trading by helping quantify risk and volatility through understanding data distribution and standard deviation."
+category: quant_concept
+description: The empirical rule is crucial for traders in algorithmic trading by helping
+  quantify risk and volatility through understanding data distribution and standard
+  deviation.
+title: 'Empirical Rule Explained: Formula and Applications (Algo Trading)'
 ---
 
 The empirical rule, also known as the 68-95-99.7 rule, is a cornerstone in statistical analysis, particularly applicable to fields such as finance and trading. This rule provides a quick way to understand how data is distributed around the mean in a normal distribution. Specifically, it states that approximately 68% of the data falls within one standard deviation of the mean, about 95% within two standard deviations, and nearly 99.7% within three standard deviations. This characteristic makes it an essential tool for traders, enabling them to quantify risk and volatility in financial markets efficiently.

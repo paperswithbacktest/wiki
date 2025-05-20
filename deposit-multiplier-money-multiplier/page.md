@@ -1,6 +1,8 @@
 ---
-title: "Deposit Multiplier and Money Multiplier (Algo Trading)"
-description: "Dive into the world of finance with insights on money and deposit multipliers, macroeconomic impacts, and the role of algorithmic trading in modern markets."
+category: quant_concept
+description: Dive into the world of finance with insights on money and deposit multipliers,
+  macroeconomic impacts, and the role of algorithmic trading in modern markets.
+title: Deposit Multiplier and Money Multiplier (Algo Trading)
 ---
 
 In finance and trading, understanding key concepts such as the money multiplier, deposit multiplier, and algorithmic trading is essential for grasping the complexities of the financial ecosystem. These concepts are fundamental to comprehending how money creation, banking operations, and technological advancements in trading strategies interact and shape modern economies.

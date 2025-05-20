@@ -1,6 +1,8 @@
 ---
-title: "Federal Government-Backed Debt Instruments (Algo Trading)"
-description: "Explore the integration of algorithmic trading with federal government-backed securities, examining their role in efficient trading and economic stability."
+category: quant_concept
+description: Explore the integration of algorithmic trading with federal government-backed
+  securities, examining their role in efficient trading and economic stability.
+title: Federal Government-Backed Debt Instruments (Algo Trading)
 ---
 
 Federal obligations, debt instruments, and government-backed securities are pivotal components of the financial system, providing essential mechanisms for government financing and fiscal policy implementation. These instruments, typically considered low-risk due to their governmental backing, include a range of securities such as Treasury bonds, notes, and bills. Their primary function is to secure funding for public projects and manage national debt, making them indispensable to economic stability and growth.
@@ -153,4 +155,3 @@ Through these references, individuals can gain a deeper understanding of federal
 [1] Interagency Working Group on Treasury Market Surveillance reports.  
 [2] U.S. Department of the Treasury.  
 [3] Aldridge, Ir. "High-Frequency Trading: A Practical Guide."
-

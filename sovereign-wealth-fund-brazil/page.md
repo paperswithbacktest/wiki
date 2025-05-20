@@ -1,6 +1,8 @@
 ---
-title: "Sovereign Wealth Fund of Brazil (Algo Trading)"
-description: "Explore the benefits of algorithmic trading for Brazil's Sovereign Wealth Fund to enhance financial management improve returns and ensure economic stability."
+category: quant_concept
+description: Explore the benefits of algorithmic trading for Brazil's Sovereign Wealth
+  Fund to enhance financial management improve returns and ensure economic stability.
+title: Sovereign Wealth Fund of Brazil (Algo Trading)
 ---
 
 Sovereign wealth funds (SWFs) are state-owned investment vehicles utilized to manage and grow national wealth. They typically accumulate funds through the country's surplus reserves, often derived from commodities exports or fiscal surpluses. These funds are invested in a variety of financial assets such as stocks, bonds, real estate, and other investment vehicles to achieve long-term profit and economic stability. SWFs hold significant importance in global finance due to their ability to inject substantial capital into global markets, influence market trends, and stabilize national economies during periods of financial distress.

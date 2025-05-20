@@ -1,6 +1,9 @@
 ---
-title: "Basel III International Regulations (Algo Trading)"
-description: "Discover how Basel III regulations and algorithmic trading shape today's financial landscape Ensuring stability and mitigating risks in the global banking sector"
+category: quant_concept
+description: Discover how Basel III regulations and algorithmic trading shape today's
+  financial landscape Ensuring stability and mitigating risks in the global banking
+  sector
+title: Basel III International Regulations (Algo Trading)
 ---
 
 In the wake of the global financial crisis, significant reform efforts have profoundly reshaped banking regulations worldwide. The 2008 crisis underscored the vulnerabilities in the global financial system, revealing how interconnected and fragile financial institutions could be. In response, international banking regulations have been developed with the primary aim of ensuring the stability and transparency of financial institutions. These regulations intend to mitigate the risk of future financial turmoil by enforcing measures that promote a more resilient banking sector.

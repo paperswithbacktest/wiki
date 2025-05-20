@@ -1,6 +1,12 @@
 ---
-title: "Lot Size in Trading (Algo Trading)"
-description: "Explore the essential role of lot size in trading within the context of algorithmic trading systems. Discover how understanding this standardized unit is key to managing risks, planning strategies, and handling trade volumes efficiently. Gain insights into the intricate relationship between lot sizes and sophisticated algo trading techniques, highlighting the benefits and challenges of this modern financial approach to achieve enhanced trading effectiveness and efficiency."
+category: quant_concept
+description: Explore the essential role of lot size in trading within the context
+  of algorithmic trading systems. Discover how understanding this standardized unit
+  is key to managing risks, planning strategies, and handling trade volumes efficiently.
+  Gain insights into the intricate relationship between lot sizes and sophisticated
+  algo trading techniques, highlighting the benefits and challenges of this modern
+  financial approach to achieve enhanced trading effectiveness and efficiency.
+title: Lot Size in Trading (Algo Trading)
 ---
 
 In today's rapidly evolving financial landscape, trading in financial markets has become increasingly complex and intricate. The advent of advanced technologies has dramatically reshaped these markets, driving a substantial shift towards algorithmic trading systems. These systems bring nuanced elements such as lot size and automated strategies to the forefront of modern trading. A "lot" is a standardized unit of trading used to quantify the amount of an asset being bought or sold. Understanding lot sizes is essential for evaluating risk, planning strategies, and managing trade volume.

@@ -1,6 +1,9 @@
 ---
-title: "Horizon Analysis: Meaning and Mechanism (Algo Trading)"
-description: "Discover how horizon analysis enhances algorithmic trading strategies by assessing investment performance over time, optimizing decision-making, and managing risks."
+category: quant_concept
+description: Discover how horizon analysis enhances algorithmic trading strategies
+  by assessing investment performance over time, optimizing decision-making, and managing
+  risks.
+title: 'Horizon Analysis: Meaning and Mechanism (Algo Trading)'
 ---
 
 Algorithmic trading is increasingly reliant on advanced methodologies to enhance its forecasting and decision-making capabilities. Among these methodologies is horizon analysis, a pivotal instrument for assessing the performance of financial investments across diverse time frames. This technique allows traders and portfolio managers to better understand and anticipate market behaviors by evaluating potential outcomes over defined periods.

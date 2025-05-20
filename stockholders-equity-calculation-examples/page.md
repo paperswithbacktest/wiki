@@ -1,6 +1,8 @@
 ---
-title: "Stockholders' Equity: Calculation and Examples (Algo Trading)"
-description: "Explore the essentials of stockholders' equity with insights into calculations, examples, and the impact of algorithmic trading on equity metrics."
+category: quant_concept
+description: Explore the essentials of stockholders' equity with insights into calculations,
+  examples, and the impact of algorithmic trading on equity metrics.
+title: 'Stockholders'' Equity: Calculation and Examples (Algo Trading)'
 ---
 
 Equity, in the financial context, represents the ownership value held by shareholders in a company, often referred to as stockholders' equity. It is a critical component that factors into a company’s balance sheet, bridging the gap between its assets and liabilities. Mathematically, stockholders’ equity is calculated through the formula: 

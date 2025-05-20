@@ -1,6 +1,8 @@
 ---
-title: "Moneyness and Intrinsic Value of Options (Algo Trading)"
-description: "Explore moneyness and intrinsic value in options trading to enhance algorithmic strategies Gain insights into evaluating profitability and optimizing trading decisions"
+category: quant_concept
+description: Explore moneyness and intrinsic value in options trading to enhance algorithmic
+  strategies Gain insights into evaluating profitability and optimizing trading decisions
+title: Moneyness and Intrinsic Value of Options (Algo Trading)
 ---
 
 Understanding the complex world of options trading can be daunting, especially when terms like moneyness and intrinsic value come into play. Options trading is a form of derivative trading where the contract's value is based on an underlying asset. Determining the potential profitability and risk of these contracts involves a keen understanding of several key concepts, of which moneyness and intrinsic value are foundational.

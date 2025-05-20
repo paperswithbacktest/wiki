@@ -1,6 +1,12 @@
 ---
-title: "Convertible arbitrage (Algo Trading)"
-description: Discover convertible arbitrage, a complex investment strategy used by hedge funds to exploit market inefficiencies through convertible securities and stock shorting. This market-neutral approach leverages the unique blend of debt and equity features found in convertible bonds, allowing investors to capitalize on pricing discrepancies and embedded options, ensuring potential gains from both price volatility and mispricing opportunities.
+category: trading_strategy
+description: Discover convertible arbitrage, a complex investment strategy used by
+  hedge funds to exploit market inefficiencies through convertible securities and
+  stock shorting. This market-neutral approach leverages the unique blend of debt
+  and equity features found in convertible bonds, allowing investors to capitalize
+  on pricing discrepancies and embedded options, ensuring potential gains from both
+  price volatility and mispricing opportunities.
+title: Convertible arbitrage (Algo Trading)
 ---
 
 Convertible arbitrage is a sophisticated investment strategy often employed by hedge funds to capitalize on market inefficiencies. At its core, this approach involves simultaneously purchasing convertible securities and short selling the common stock of the same issuer. The essence of the strategy is to exploit the inherent pricing inefficiencies and volatility characteristics embedded within convertible bonds.

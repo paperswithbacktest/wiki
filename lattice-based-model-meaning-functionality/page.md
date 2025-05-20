@@ -1,6 +1,8 @@
 ---
-title: "Lattice-Based Model: Meaning and Functionality (Algo Trading)"
-description: "Optimize your algorithmic trading strategies by understanding lattice-based models crucial for pricing derivatives and managing market risks."
+category: quant_concept
+description: Optimize your algorithmic trading strategies by understanding lattice-based
+  models crucial for pricing derivatives and managing market risks.
+title: 'Lattice-Based Model: Meaning and Functionality (Algo Trading)'
 ---
 
 Algorithmic trading has significantly transformed the landscape of financial markets by employing advanced mathematical models to inform and execute trading decisions. A fundamental component of these mathematical frameworks is the lattice-based model, which serves a pivotal role in the valuation of complex financial derivatives. Historically, the challenge in financial markets has been to accurately price derivatives, which are financial instruments that derive their value from the performance of underlying assets, such as stocks, bonds, commodities, currencies, interest rates, or market indices.

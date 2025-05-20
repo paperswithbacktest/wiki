@@ -1,6 +1,9 @@
 ---
-title: "Biotechnology ETFs: Overview and Investment Guide (Algo Trading)"
-description: "Explore biotech ETFs and algorithmic trading strategies to tap into the growth of biotechnology through diversified investments and optimize returns with technology."
+category: trading_strategy
+description: Explore biotech ETFs and algorithmic trading strategies to tap into the
+  growth of biotechnology through diversified investments and optimize returns with
+  technology.
+title: 'Biotechnology ETFs: Overview and Investment Guide (Algo Trading)'
 ---
 
 Biotechnology has swiftly become a pivotal sector, integrating biological processes with technological innovations to produce revolutionary products and services that span medicine, agriculture, and environmental management. The synthesis of biology and technology has paved the way for advancements such as genetic engineering, biopharmaceuticals, and new diagnostic techniques, significantly impacting global health and economies.

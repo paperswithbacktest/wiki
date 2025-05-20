@@ -1,7 +1,8 @@
 ---
-title: Understanding True Positive Rate In Machine Learning Models
+category: quant_concept
 description: True Positive Rate measures model sensitivity quickly by comparing true
   positives to actual positives in classification tasks Discover more inside.
+title: Understanding True Positive Rate In Machine Learning Models
 ---
 
 ![Image](images/1.png)

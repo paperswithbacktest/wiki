@@ -1,6 +1,9 @@
 ---
-title: "Best Bid: Explanation and Process (Algo Trading)"
-description: "Discover the intricacies of best bid auction processes in algorithmic trading uncovering how advanced algorithms enhance bidding strategies and optimize outcomes."
+category: quant_concept
+description: Discover the intricacies of best bid auction processes in algorithmic
+  trading uncovering how advanced algorithms enhance bidding strategies and optimize
+  outcomes.
+title: 'Best Bid: Explanation and Process (Algo Trading)'
 ---
 
 In the fast-paced world of financial markets, the art of bidding has evolved significantly, influenced heavily by advancements in auction processes and the advent of algorithmic trading. Traditional methods of bidding, once reliant on physical presence and manual negotiations, have been transformed through digital platforms that facilitate speed and efficiency. These platforms enable market participants to execute a vast number of trades with precise timing and minimal human intervention.

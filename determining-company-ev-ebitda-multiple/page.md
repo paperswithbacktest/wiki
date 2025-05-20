@@ -1,6 +1,8 @@
 ---
-title: "Determining a Company's EV/EBITDA Multiple (Algo Trading)"
-description: "Explore the EV/EBITDA ratio to assess company value in algo trading Discover its role in operational efficiency and uncover undervaluation opportunities"
+category: quant_concept
+description: Explore the EV/EBITDA ratio to assess company value in algo trading Discover
+  its role in operational efficiency and uncover undervaluation opportunities
+title: Determining a Company's EV/EBITDA Multiple (Algo Trading)
 ---
 
 Understanding financial metrics is essential for investors aiming to evaluate a company's value and make informed decisions. Among these metrics, the EV/EBITDA ratio stands out as a widely-used tool for assessing a company's operational efficiency and overall market valuation. This ratio simplifies the complex landscape of financial analysis by measuring a company's Enterprise Value (EV) relative to its Earnings Before Interest, Taxes, Depreciation, and Amortization (EBITDA).

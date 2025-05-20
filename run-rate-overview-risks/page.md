@@ -1,6 +1,9 @@
 ---
-title: "Run Rate: Overview and Associated Risks (Algo Trading)"
-description: "Explore the significance of run rate in financial forecasting and algorithmic trading The article covers its role in predicting outcomes and managing associated risks"
+category: quant_concept
+description: Explore the significance of run rate in financial forecasting and algorithmic
+  trading The article covers its role in predicting outcomes and managing associated
+  risks
+title: 'Run Rate: Overview and Associated Risks (Algo Trading)'
 ---
 
 Financial forecasting and performance measurement are crucial elements for any business aiming to sustain and expand its operations. The ability to accurately predict future financial outcomes allows businesses to make strategic decisions, allocate resources efficiently, and prepare for potential challenges. Within financial analysis, the 'run rate' concept stands out as an insightful metric that aids in predicting future performance based on existing data patterns.

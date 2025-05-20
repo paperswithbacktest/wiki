@@ -1,6 +1,8 @@
 ---
-title: "Construction Loan Note (Algo Trading)"
-description: "Explore the synergy between construction loan notes and algorithmic trading to optimize financing strategies and enhance project management efficiency."
+category: quant_concept
+description: Explore the synergy between construction loan notes and algorithmic trading
+  to optimize financing strategies and enhance project management efficiency.
+title: Construction Loan Note (Algo Trading)
 ---
 
 In today's financial landscape, the integration of various financial instruments and techniques is crucial for achieving successful investment outcomes and efficient project management. Construction loan notes (CLNs) represent a key financial tool that can be optimized through the application of algorithmic trading and other advanced financial techniques. Understanding how these components interact enables investors, developers, and financial professionals to harness their full potential effectively.

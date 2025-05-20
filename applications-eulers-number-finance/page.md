@@ -1,6 +1,9 @@
 ---
-title: "Applications of Euler’s Number in Finance (Algo Trading)"
-description: "Discover how Euler's number 'e' enhances algorithmic trading by aiding market prediction, optimizing financial models, and refining portfolio management strategies."
+category: quant_concept
+description: Discover how Euler's number 'e' enhances algorithmic trading by aiding
+  market prediction, optimizing financial models, and refining portfolio management
+  strategies.
+title: Applications of Euler’s Number in Finance (Algo Trading)
 ---
 
 Euler's number, commonly represented as 'e', is a fundamental constant that is indispensable in mathematics and finance. Its approximate value, 2.71828, makes 'e' a cornerstone in numerous scientific and financial applications. Euler's number underpins the natural logarithm and is vital for understanding exponential growth and decay processes. This becomes especially important in finance, where the continuous compounding of interest is a fundamental concept driven by the exponential function $e^x$.

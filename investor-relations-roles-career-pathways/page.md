@@ -1,6 +1,9 @@
 ---
-title: "Investor Relations: Roles and Career Pathways (Algo Trading)"
-description: "Explore the intersection of investor relations and algorithmic trading careers focusing on essential skills, strategic communication, and future industry trends."
+category: quant_concept
+description: Explore the intersection of investor relations and algorithmic trading
+  careers focusing on essential skills, strategic communication, and future industry
+  trends.
+title: 'Investor Relations: Roles and Career Pathways (Algo Trading)'
 ---
 
 Investment communication is a significant facet of the financial landscape, encompassing critical areas like investor relations and algorithmic trading. These specialized fields play essential roles in the way financial markets operate and how companies interact with their stakeholders.

@@ -1,7 +1,8 @@
 ---
-title: Pax Machine Learning Framework for Scalable Model Training
+category: quant_concept
 description: Pax machine learning framework accelerates scalable model training across
   systems with flexible customization and experimentation Discover more inside
+title: Pax Machine Learning Framework for Scalable Model Training
 ---
 
 ![Image](images/1.png)

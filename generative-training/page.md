@@ -1,7 +1,8 @@
 ---
-title: Understanding Generative Training Techniques And Applications
+category: quant_concept
 description: Generative training in machine learning enables models to create realistic
   images text and music by mastering data patterns. Discover more inside.
+title: Understanding Generative Training Techniques And Applications
 ---
 
 ![Image](images/1.png)

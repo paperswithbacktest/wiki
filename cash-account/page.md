@@ -1,6 +1,8 @@
 ---
-title: "Cash Account (Algo Trading)"
-description: "Explore the fundamentals of cash accounts and algorithmic trading, ensuring risk-reduced investing with clear insights into modern financial management techniques."
+category: quant_concept
+description: Explore the fundamentals of cash accounts and algorithmic trading, ensuring
+  risk-reduced investing with clear insights into modern financial management techniques.
+title: Cash Account (Algo Trading)
 ---
 
 Understanding financial terms is essential for effective personal and professional financial management. The ability to comprehend concepts ranging from cash accounts to algorithmic trading is foundational for making informed financial decisions. Financial terminology often seems complex and daunting, yet gaining clarity in these areas can significantly enhance financial literacy and decision-making capabilities.

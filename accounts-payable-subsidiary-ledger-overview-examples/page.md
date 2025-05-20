@@ -1,6 +1,8 @@
 ---
-title: "Accounts Payable Subsidiary Ledger: Overview and Examples (Algo Trading)"
-description: "Explore the synergy between accounts payable management and algorithmic trading strategies Discover how optimizing these can enhance efficiency and competitiveness"
+category: quant_concept
+description: Explore the synergy between accounts payable management and algorithmic
+  trading strategies Discover how optimizing these can enhance efficiency and competitiveness
+title: 'Accounts Payable Subsidiary Ledger: Overview and Examples (Algo Trading)'
 ---
 
 Accounts payable and algorithmic trading are two key elements in the financial landscape that significantly impact business operations and trading efficiencies. Understanding accounts payable (AP) is essential for businesses to manage their liabilities effectively. It allows companies to maintain good supplier relationships and ensure smooth cash flow—a critical aspect in avoiding disruptions in operations or the procurement chain. Effective AP management not only helps in meeting financial commitments on time but also optimizes working capital management.
@@ -107,4 +109,3 @@ Bergstra, J., Bardenet, R., Bengio, Y., & Kégl, B. (2011). "Algorithms for Hype
 "Machine Learning for Algorithmic Trading" by Stefan Jansen provides a detailed examination of deploying machine learning in trading. The book illustrates how these techniques can improve trading strategies, emphasizing data-driven decision-making processes.
 
 "Quantitative Trading: How to Build Your Own Algorithmic Trading Business" by Ernest P. Chan guides readers on establishing their own quantitative trading practice. Chan discusses key topics such as developing, testing, and deploying algorithmic strategies, providing practical insights for aspiring quantitative traders.
-

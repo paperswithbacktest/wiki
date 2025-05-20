@@ -1,6 +1,9 @@
 ---
-title: "Return on Average Capital Employed (ROACE) (Algo Trading)"
-description: "Explore how Return on Average Capital Employed (ROACE) enhances financial analysis by assessing a company's capital efficiency and profitability for better investment decisions."
+category: quant_concept
+description: Explore how Return on Average Capital Employed (ROACE) enhances financial
+  analysis by assessing a company's capital efficiency and profitability for better
+  investment decisions.
+title: Return on Average Capital Employed (ROACE) (Algo Trading)
 ---
 
 Understanding profitability metrics is crucial for making informed investment decisions in finance. One essential metric is Return on Average Capital Employed (ROACE), which measures how effectively a company utilizes its capital investments to generate profits. ROACE is particularly helpful for investors and analysts as it provides a clear view of a company's operational efficiency by considering the average capital employed over a period, mitigating the effects of temporary fluctuations in capital levels.

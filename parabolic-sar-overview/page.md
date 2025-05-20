@@ -1,6 +1,9 @@
 ---
-title: "Parabolic SAR Overview (Algo Trading)"
-description: "Explore the Parabolic SAR to enhance trading strategies by identifying trend directions and reversals Learn how this tool aids in optimizing algorithmic trading decisions"
+category: quant_concept
+description: Explore the Parabolic SAR to enhance trading strategies by identifying
+  trend directions and reversals Learn how this tool aids in optimizing algorithmic
+  trading decisions
+title: Parabolic SAR Overview (Algo Trading)
 ---
 
 In technical analysis, the Parabolic SAR is a pivotal tool for traders. Developed by J. Welles Wilder Jr., this indicator helps identify trend direction and potential reversals in the price movement of assets. The Parabolic SAR is represented by a series of dots on a price chart, strategically positioned above or below the current asset price. These dots serve as signals for potential entry and exit points, making the indicator especially useful for traders seeking to optimize their strategies.

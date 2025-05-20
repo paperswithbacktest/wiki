@@ -1,6 +1,8 @@
 ---
-title: "SEC Form PRER14A (Algo Trading)"
-description: "Discover how SEC Form PRER14A impacts shareholder voting on key corporate matters and its role in algorithmic trading insights for informed investment strategies."
+category: quant_concept
+description: Discover how SEC Form PRER14A impacts shareholder voting on key corporate
+  matters and its role in algorithmic trading insights for informed investment strategies.
+title: SEC Form PRER14A (Algo Trading)
 ---
 
 SEC filings are fundamental tools in corporate finance, ensuring transparency and accountability to shareholders. Among these filings, the SEC Form PRER14A and the proxy statement emerge as critical documents for maintaining robust investor relations. SEC Form PRER14A, a revised preliminary proxy statement, is filed with the Securities and Exchange Commission (SEC) to inform shareholders about important voting matters, typically in scenarios where amendments have been made to preliminary proxy materials. This document, along with the definitive proxy statement (SEC Form DEF 14A), plays a vital role when shareholder votes are needed on various corporate activities.

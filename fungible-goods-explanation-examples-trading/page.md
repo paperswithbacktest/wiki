@@ -1,6 +1,8 @@
 ---
-title: "Fungible Goods: Explanation, Examples, and Trading (Algo Trading)"
-description: "Explore how fungibility impacts algorithmic trading with examples of fungible goods like currencies, commodities, and securities, enhancing market efficiency."
+category: quant_concept
+description: Explore how fungibility impacts algorithmic trading with examples of
+  fungible goods like currencies, commodities, and securities, enhancing market efficiency.
+title: 'Fungible Goods: Explanation, Examples, and Trading (Algo Trading)'
 ---
 
 Fungibility is a foundational principle in finance, signifying the interchangeability and uniformity of certain goods and assets. This property allows individual units of a commodity or financial instrument to be seamlessly exchanged or substituted, maintaining equal value and functionality. For example, one ounce of gold from one source is as good as an ounce from another, just as a dollar bill holds the same value regardless of its sequence number. 
@@ -164,4 +166,3 @@ Explore a range of resources to gain a comprehensive understanding of algorithmi
    - The World Economic Forum's studies on blockchain and cryptocurrencies offer perspectives on how fungibility evolves with technological advancements in financial markets.
 
 These resources will equip readers with the necessary knowledge to navigate and succeed in the evolving landscape of financial trading.
-

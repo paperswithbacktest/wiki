@@ -1,6 +1,9 @@
 ---
-title: "Coverage Initiation: Overview and Mechanism (Algo Trading)"
-description: "Explore how investment analysis and algorithmic trading intersect to enhance financial decisions Learn about coverage initiation its impact and future trends"
+category: quant_concept
+description: Explore how investment analysis and algorithmic trading intersect to
+  enhance financial decisions Learn about coverage initiation its impact and future
+  trends
+title: 'Coverage Initiation: Overview and Mechanism (Algo Trading)'
 ---
 
 Investment analysis plays a pivotal role in today's financial markets, assisting investors in making informed decisions to maximize returns while managing risk. As global financial markets have grown increasingly complex, the need for sophisticated analysis has become paramount. Investment analysis provides a structured approach to understanding market trends, assessing financial instruments, and evaluating the performance potential of various assets. It serves as the backbone for crafting investment strategies that are both profitable and sustainable.

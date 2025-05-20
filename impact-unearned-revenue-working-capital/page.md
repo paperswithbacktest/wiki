@@ -1,6 +1,8 @@
 ---
-title: "Impact of Unearned Revenue on Working Capital (Algo Trading)"
-description: "Explore how unearned revenue impacts working capital and algo trading, essential for financial health and strategy in modern business finance."
+category: quant_concept
+description: Explore how unearned revenue impacts working capital and algo trading,
+  essential for financial health and strategy in modern business finance.
+title: Impact of Unearned Revenue on Working Capital (Algo Trading)
 ---
 
 Unearned revenue, financial management, working capital, and algorithmic trading are pivotal concepts in the landscape of modern business finance. Each component plays a distinct yet interconnected role in shaping the financial health and operational efficiency of a business, making their understanding essential for investors and enterprises alike.

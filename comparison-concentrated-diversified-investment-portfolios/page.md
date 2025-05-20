@@ -1,6 +1,8 @@
 ---
-title: "Comparison of Concentrated and Diversified Investment Portfolios (Algo Trading)"
-description: "Explore the synergy of diversification and algorithmic trading to enhance investment portfolios Dynamic market response optimizes returns and minimizes risk"
+category: trading_strategy
+description: Explore the synergy of diversification and algorithmic trading to enhance
+  investment portfolios Dynamic market response optimizes returns and minimizes risk
+title: Comparison of Concentrated and Diversified Investment Portfolios (Algo Trading)
 ---
 
 In today's dynamic financial environment, the importance of a well-rounded investment strategy cannot be overstated. Diversification, an investment strategy widely embraced by investors across the globe, aims to spread risk by allocating investments across various financial instruments, industries, and other categories. This approach reduces the impact of a poor performance in any single investment, allowing for a more stable long-term return on investment.

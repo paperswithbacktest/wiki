@@ -1,6 +1,9 @@
 ---
-title: "Protecting Investment Portfolios from Inflation and Deflation (Algo Trading)"
-description: "Enhance investment portfolio resilience with algorithmic trading strategies tailored for inflation and deflation conditions to protect and optimize financial outcomes."
+category: trading_strategy
+description: Enhance investment portfolio resilience with algorithmic trading strategies
+  tailored for inflation and deflation conditions to protect and optimize financial
+  outcomes.
+title: Protecting Investment Portfolios from Inflation and Deflation (Algo Trading)
 ---
 
 In the dynamic landscape of financial markets, comprehending the impacts of inflation and deflation is imperative for constructing resilient investment portfolios. Inflation refers to the general rise in prices of goods and services over time, which erodes the purchasing power of money. On the other hand, deflation is marked by a decline in prices, which may increase the real value of money but can signal economic challenges. These opposing economic conditions necessitate distinct investment approaches, each with unique challenges and opportunities for investors. 

@@ -1,6 +1,8 @@
 ---
-title: "Sluggish Economy: Overview and Characteristics (Algo Trading)"
-description: "Explore the intricacies of a sluggish economy its impact on growth and the role of algorithmic trading in market performance during economic slowdowns."
+category: quant_concept
+description: Explore the intricacies of a sluggish economy its impact on growth and
+  the role of algorithmic trading in market performance during economic slowdowns.
+title: 'Sluggish Economy: Overview and Characteristics (Algo Trading)'
 ---
 
 The global economy is currently facing an array of complex challenges, underscoring the necessity to comprehend phenomena such as sluggish economic growth, economic slowdown, and the intricate role of algorithmic trading (algo trading) in these contexts. At its core, a sluggish economy is typified by slow or negligible growth, which can have profound implications on businesses, consumers, and investors. This state of tepid economic performance can manifest in several ways, including stagnant wages, reduced consumer spending, and lackluster investment activities. These conditions often lead to a trickle-down effect impacting employment rates, corporate profitability, and ultimately stock market performance.

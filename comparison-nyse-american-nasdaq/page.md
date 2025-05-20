@@ -1,6 +1,14 @@
 ---
-title: "Comparison of NYSE American and Nasdaq (Algo Trading)"
-description: "Explore the key differences between NYSE American and Nasdaq focusing on their structures listing requirements and market focus with particular attention to algorithmic trading's role in transforming the trading landscape. Understand how these exchanges foster innovation support small to mid-cap companies and cater to technology-oriented firms by leveraging distinct trading models and technology advancements to enhance market efficiency transparency and liquidity. Discover the dynamic interplay between traditional exchanges and modern trading strategies and its implications for future market developments."
+category: quant_concept
+description: Explore the key differences between NYSE American and Nasdaq focusing
+  on their structures listing requirements and market focus with particular attention
+  to algorithmic trading's role in transforming the trading landscape. Understand
+  how these exchanges foster innovation support small to mid-cap companies and cater
+  to technology-oriented firms by leveraging distinct trading models and technology
+  advancements to enhance market efficiency transparency and liquidity. Discover the
+  dynamic interplay between traditional exchanges and modern trading strategies and
+  its implications for future market developments.
+title: Comparison of NYSE American and Nasdaq (Algo Trading)
 ---
 
 Stock exchanges play a crucial role in the global financial market by serving as platforms for the buying and selling of securities. These exchanges facilitate capital formation, liquidity, and price discovery for companies and investors alike. Stock exchanges provide a formalized venue where securities such as stocks, bonds, and derivatives are bought and sold, helping to regulate market activities, thereby ensuring transparency, efficiency, and fairness in trading activities.

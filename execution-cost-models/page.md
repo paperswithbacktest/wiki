@@ -1,6 +1,9 @@
 ---
-title: "Execution Cost Models (Algo Trading)"
-description: "Explore strategies to minimize execution costs in algorithmic trading. Understand explicit and implicit costs like slippage and market impact to enhance profitability."
+category: quant_concept
+description: Explore strategies to minimize execution costs in algorithmic trading.
+  Understand explicit and implicit costs like slippage and market impact to enhance
+  profitability.
+title: Execution Cost Models (Algo Trading)
 ---
 
 Algorithmic trading has revolutionized the financial industry by providing traders with the ability to execute trades at high speeds and frequencies. This technological advancement allows for the efficient execution of trades that would otherwise be impossible to achieve manually due to the rapid pace and volume. However, a critical challenge inherent in algorithmic trading is the management of execution costs, which can heavily impact a trader's overall profitability.
@@ -106,4 +109,3 @@ In conclusion, a blend of strategic cost awareness, integration of advanced tech
 - Hasbrouck, J. (2007). *Empirical Market Microstructure: The Institutions, Economics, and Econometrics of Securities Trading*. Hasbrouck offers a detailed empirical perspective on market microstructure, providing insights into the economic forces and institutional frameworks that impact execution costs. His work is critical for understanding how market conditions and participant interactions influence cost dynamics.
 
 These references provide a solid foundation for understanding and managing execution costs in algorithmic trading, each offering unique insights into the challenges and strategies applicable to maintaining profitability.
-

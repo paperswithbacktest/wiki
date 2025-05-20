@@ -1,6 +1,13 @@
 ---
-title: "Risk (Algo Trading)"
-description: Explore the world of algorithmic trading where computer algorithms automate trading strategies in financial markets to enhance efficiency and potentially outperform human traders. With a significant portion of trading volume now driven by these algorithms, this method offers benefits such as increased speed and reduced transaction costs while also minimizing human error and emotional bias. However, it is crucial to manage associated risks like technical issues and market volatility to prevent financial losses and market disruptions.
+category: quant_concept
+description: Explore the world of algorithmic trading where computer algorithms automate
+  trading strategies in financial markets to enhance efficiency and potentially outperform
+  human traders. With a significant portion of trading volume now driven by these
+  algorithms, this method offers benefits such as increased speed and reduced transaction
+  costs while also minimizing human error and emotional bias. However, it is crucial
+  to manage associated risks like technical issues and market volatility to prevent
+  financial losses and market disruptions.
+title: Risk (Algo Trading)
 ---
 
 Algorithmic trading, often abbreviated as algo trading, refers to the use of computer algorithms to automate trading strategies in financial markets. These algorithms are designed to execute orders based on a set of predefined rules and criteria, which may include timing, price, quantity, or other mathematical models. The primary purpose of algorithmic trading is to enhance trading efficiency by leveraging computational speed and precision, thereby outperforming human capabilities in fast-paced market environments.

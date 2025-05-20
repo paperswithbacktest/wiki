@@ -1,6 +1,9 @@
 ---
-title: "Canadian Dollar as Loonie Benchmark (Algo Trading)"
-description: "Explore the significance of the Canadian Dollar as a global benchmark. Understand its role in finance, algorithmic trading, and the intricate forex market dynamics."
+category: quant_concept
+description: Explore the significance of the Canadian Dollar as a global benchmark.
+  Understand its role in finance, algorithmic trading, and the intricate forex market
+  dynamics.
+title: Canadian Dollar as Loonie Benchmark (Algo Trading)
 ---
 
 Currency benchmarks serve as a pivotal reference point in global finance, offering standard valuations against which other currencies are measured. The Canadian Dollar (CAD), colloquially known as the "Loonie," plays a noteworthy role among these benchmarks. A currency's benchmark status provides it with significant influence and recognition in international trade and finance, as it often serves as a stable point of comparison or a unit of account in global transactions.

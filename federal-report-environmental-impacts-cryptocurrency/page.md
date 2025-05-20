@@ -1,6 +1,8 @@
 ---
-title: "Federal Report on Environmental Impacts of Cryptocurrency (Algo Trading)"
-description: "Explore the federal report on cryptocurrency and algorithmic trading's environmental impacts focusing on energy consumption and potential regulatory solutions."
+category: quant_concept
+description: Explore the federal report on cryptocurrency and algorithmic trading's
+  environmental impacts focusing on energy consumption and potential regulatory solutions.
+title: Federal Report on Environmental Impacts of Cryptocurrency (Algo Trading)
 ---
 
 In recent years, the rise of cryptocurrency and algorithmic trading has led to significant technological advancements and changes in financial markets. Cryptocurrencies, such as Bitcoin and Ethereum, have gained widespread popularity due to their decentralized nature and potential for high returns. Simultaneously, algorithmic trading has transformed the speed and efficiency of financial transactions. However, these developments have sparked concerns about their environmental impact, particularly regarding energy consumption and carbon emissions.

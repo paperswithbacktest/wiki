@@ -1,6 +1,9 @@
 ---
-title: "Pump and dump (Algo Trading)"
-description: "Explore the intricate dynamics of pump and dump schemes in algorithmic trading, uncovering their impact on market integrity and the regulatory challenges they present."
+category: quant_concept
+description: Explore the intricate dynamics of pump and dump schemes in algorithmic
+  trading, uncovering their impact on market integrity and the regulatory challenges
+  they present.
+title: Pump and dump (Algo Trading)
 ---
 
 Pump and dump schemes have long been a notorious form of market manipulation known to exploit unsuspecting investors. In these schemes, perpetrators artificially inflate the price of a security through misleading or false information, only to sell their own holdings at the elevated price, leaving unsuspecting investors with devalued stocks. In recent years, the rise of algorithmic trading has introduced new dimensions to these fraudulent activities, magnifying both their scope and sophistication. Algorithmic trading employs computer programs to execute trades at high speeds and volumes, often without human intervention, presenting both opportunities for enhanced market efficiency and risks of sophisticated manipulative practices.

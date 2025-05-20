@@ -1,6 +1,9 @@
 ---
-title: "Investment in Film Industry (Algo Trading)"
-description: "Explore the transformative role of algorithmic trading in film financing. Discover how modern strategies optimize investments and democratize opportunities worldwide."
+category: trading_strategy
+description: Explore the transformative role of algorithmic trading in film financing.
+  Discover how modern strategies optimize investments and democratize opportunities
+  worldwide.
+title: Investment in Film Industry (Algo Trading)
 ---
 
 In recent years, the intersection of entertainment and technology has transformed film investment, creating groundbreaking opportunities for investors worldwide. Traditionally, Hollywood has been the epicenter of film-based investments, with success largely determined by box office returns. However, the landscape is now undergoing a significant evolution with the advent of algorithmic trading and tokenization.

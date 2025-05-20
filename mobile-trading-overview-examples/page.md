@@ -1,6 +1,9 @@
 ---
-title: "Mobile Trading: Overview and Examples (Algo Trading)"
-description: "Explore the transformative world of mobile and algorithmic trading where digital platforms and trading apps offer efficiency flexibility and market access on-the-go"
+category: trading_strategy
+description: Explore the transformative world of mobile and algorithmic trading where
+  digital platforms and trading apps offer efficiency flexibility and market access
+  on-the-go
+title: 'Mobile Trading: Overview and Examples (Algo Trading)'
 ---
 
 The world of trading has undergone a profound transformation due to digital technology. The adoption and integration of trading apps, mobile trading, digital trading platforms, and algorithmic trading systems have become indispensable for modern traders. These technologies not only simplify access to financial markets but also enhance efficiency and strategic depth.

@@ -1,6 +1,9 @@
 ---
-title: "Jocassee Quantitative (Algo Trading)"
-description: "Explore Jocassee Quantitative's innovative algorithmic trading solutions leveraging advanced technologies to optimize market performance and drive trading efficiency."
+category: trading_strategy
+description: Explore Jocassee Quantitative's innovative algorithmic trading solutions
+  leveraging advanced technologies to optimize market performance and drive trading
+  efficiency.
+title: Jocassee Quantitative (Algo Trading)
 ---
 
 Algorithmic trading, often simply known as algo trading, refers to the use of computer programs to automate trading processes according to a predetermined set of rules or strategies. It has become a pivotal component of modern financial markets due to its ability to process vast amounts of data with speed and accuracy far beyond human capabilities. This automation enables rapid execution, reducing transaction costs and minimizing human errors. Consequently, algorithmic trading enhances market efficiency and provides liquidity, making it indispensable in today’s financial ecosystem.

@@ -1,6 +1,8 @@
 ---
-title: "Market Overhang: Meaning and Mechanism (Algo Trading)"
-description: "Explore the dynamics of market overhang in trading Discover how algorithmic strategies transform investing stay competitive and mitigate risks effectively"
+category: quant_concept
+description: Explore the dynamics of market overhang in trading Discover how algorithmic
+  strategies transform investing stay competitive and mitigate risks effectively
+title: 'Market Overhang: Meaning and Mechanism (Algo Trading)'
 ---
 
 In today's financial landscape, investing and trading in financial markets have become increasingly accessible to a wide array of individuals. With the digitization of trading platforms and the proliferation of financial technology, people from diverse backgrounds can now participate actively in markets without the need for traditional intermediaries. 

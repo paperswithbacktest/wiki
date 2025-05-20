@@ -1,6 +1,9 @@
 ---
-title: "Calculation of Goodwill (Algo Trading)"
-description: "Explore how algorithmic trading enhances goodwill valuation in mergers and acquisitions. Understand intangible asset evaluation in the evolving financial landscape."
+category: quant_concept
+description: Explore how algorithmic trading enhances goodwill valuation in mergers
+  and acquisitions. Understand intangible asset evaluation in the evolving financial
+  landscape.
+title: Calculation of Goodwill (Algo Trading)
 ---
 
 In today's dynamic financial environment, understanding the valuation of intangible assets like goodwill is crucial for businesses and investors alike. Goodwill represents the premium aspect in acquisitions, embodying elements such as brand reputation, customer loyalty, and intellectual property that do not appear on a company's balance sheet. Unlike tangible assets, goodwill is not a physical entity but a representation of the value added to a company due to its exceptional standing or presence in its industry. This intangible asset becomes particularly significant during mergers and acquisitions, often determining the final transaction price above the book value of the firm's known assets. 

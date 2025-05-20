@@ -1,6 +1,8 @@
 ---
-title: "Inflation and Gross Domestic Product (Algo Trading)"
-description: "Explore the impact of inflation and GDP on algorithmic trading to optimize strategies and enhance market returns with data-driven insights into economic trends."
+category: quant_concept
+description: Explore the impact of inflation and GDP on algorithmic trading to optimize
+  strategies and enhance market returns with data-driven insights into economic trends.
+title: Inflation and Gross Domestic Product (Algo Trading)
 ---
 
 Inflation and Gross Domestic Product (GDP) are central to understanding the complexities of global economic dynamics. For investors and traders, especially those employing algorithmic strategies, these indicators provide essential insights into the state of market conditions. Inflation, reflecting the rate at which prices for goods and services rise, erodes purchasing power and influences consumer behavior and business decisions. On the other hand, GDP represents the aggregate value of all finished goods and services produced within a country's borders over a specified time frame, offering a comprehensive assessment of a nation's economic health.

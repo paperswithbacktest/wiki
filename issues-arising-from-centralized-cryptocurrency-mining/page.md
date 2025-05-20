@@ -1,6 +1,9 @@
 ---
-title: "Issues Arising from Centralized Cryptocurrency Mining (Algo Trading)"
-description: "Explore how centralized cryptocurrency mining impacts decentralization and introduces security risks like 51% attacks along with the complexities of algorithmic trading."
+category: quant_concept
+description: Explore how centralized cryptocurrency mining impacts decentralization
+  and introduces security risks like 51% attacks along with the complexities of algorithmic
+  trading.
+title: Issues Arising from Centralized Cryptocurrency Mining (Algo Trading)
 ---
 
 Cryptocurrency mining is a groundbreaking innovation that has fundamentally reshaped the financial landscape by enabling decentralized validation of transactions and the creation of new digital coins. Despite its revolutionary nature, mining has encountered several significant challenges that threaten the core ideals of decentralization—a principle that initially underpinned the development of blockchain technology and cryptocurrencies such as Bitcoin. One of the primary challenges is centralization in mining, where a small number of powerful entities dominate a substantial portion of a network’s computational power, or hashrate. This concentration of control can undermine the decentralized philosophy and introduce security vulnerabilities, such as the risk of 51% attacks, where such entities can potentially alter transaction history or double-spend coins.

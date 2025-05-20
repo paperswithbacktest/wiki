@@ -1,6 +1,8 @@
 ---
-title: "Types of Investment Notes (Algo Trading)"
-description: "Explore diverse investment notes in algorithmic trading emphasizing stocks bonds and innovative tech-driven options to manage risk and maximize returns"
+category: quant_concept
+description: Explore diverse investment notes in algorithmic trading emphasizing stocks
+  bonds and innovative tech-driven options to manage risk and maximize returns
+title: Types of Investment Notes (Algo Trading)
 ---
 
 Investors today have a plethora of choices when it comes to choosing investment vehicles for wealth-building and risk management. The financial landscape offers a wide array of instruments, from traditional stocks and bonds to innovative options like algorithmic trading and structured notes. Each type of financial instrument presents its own set of opportunities and risks, making it essential for investors to thoroughly understand these options to make informed decisions.

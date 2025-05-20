@@ -1,6 +1,8 @@
 ---
-title: "Economic Shortages: Causes, Types, and Examples (Algo Trading)"
-description: "Explore the complexities of economic shortages and their impact on markets Learn how algorithmic trading can help investors navigate supply-demand shifts effectively"
+category: quant_concept
+description: Explore the complexities of economic shortages and their impact on markets
+  Learn how algorithmic trading can help investors navigate supply-demand shifts effectively
+title: 'Economic Shortages: Causes, Types, and Examples (Algo Trading)'
 ---
 
 Understanding the interconnection between economic shortages and supply issues is crucial for businesses and investors. Economic shortages arise when the demand for goods and services outpaces the available supply, often leading to increased prices and market volatility. Such conditions can arise from a variety of causes, including natural disasters, geopolitical tensions, and global health crises like pandemics. These shortages can significantly affect trading strategies, as they influence market behavior and pricing dynamics.

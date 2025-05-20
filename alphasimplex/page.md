@@ -1,6 +1,8 @@
 ---
-title: "AlphaSimplex (Algo Trading)"
-description: "AlphaSimplex pioneers algorithmic trading, leveraging quantitative analysis and economic theory to optimize investment strategies in fast-paced financial markets."
+category: quant_concept
+description: AlphaSimplex pioneers algorithmic trading, leveraging quantitative analysis
+  and economic theory to optimize investment strategies in fast-paced financial markets.
+title: AlphaSimplex (Algo Trading)
 ---
 
 In today's fast-paced financial markets, AlphaSimplex Group has emerged as a significant force in algorithmic trading. Based in Boston, this asset management firm stands out by leveraging quantitative analysis to refine and enhance investment strategies. A unique blend of economic theory, data-driven insights, and mathematical modeling forms the core of AlphaSimplex's approach, showcasing the pivotal role of technology in reshaping finance.
@@ -98,4 +100,3 @@ Lopez de Prado, M. (2018). *Advances in Financial Machine Learning*. Wiley. Marc
 Berger, A., Pukthuanthong, K., & Yang, J. J. (2011). "International diversification with frontier markets." *Journal of Financial Economics*. This article examines the benefits of diversifying investment portfolios with frontier markets, highlighting potential risks and returns. It provides an in-depth analysis of how diversification can enhance portfolio resilience.
 
 Chan, E. P. (2008). *Quantitative Trading: How to Build Your Own Algorithmic Trading Business*. Wiley. Ernest Chan delivers a comprehensive guide to building algorithmic trading systems. This resource is invaluable for traders looking to leverage quantitative methods in developing automated trading strategies. Chan emphasizes practical implementation, making it accessible for those aiming to apply quantitative finance principles in real-world scenarios.
-

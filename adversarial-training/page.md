@@ -1,7 +1,8 @@
 ---
-title: Adversarial Training Techniques To Enhance Model Robustness
+category: quant_concept
 description: Adversarial training strengthens machine learning models by exposing
   tricky examples to boost reliability on messy real world data Discover more inside
+title: Adversarial Training Techniques To Enhance Model Robustness
 ---
 
 ![Image](images/1.png)

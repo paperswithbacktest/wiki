@@ -1,6 +1,8 @@
 ---
-title: "Relative Valuation of Stocks (Algo Trading)"
-description: "Discover the essentials of relative stock valuation and algorithmic trading through equity analysis Dive into financial strategies to boost investment success"
+category: trading_strategy
+description: Discover the essentials of relative stock valuation and algorithmic trading
+  through equity analysis Dive into financial strategies to boost investment success
+title: Relative Valuation of Stocks (Algo Trading)
 ---
 
 Understanding stock value is essential for making informed decisions in today's fast-paced financial environment. This article provides insights into key financial principles like equity analysis, relative valuation, stock valuation, and algorithmic trading. Understanding how these elements work together can enhance an investor's comprehension of modern investment strategies.

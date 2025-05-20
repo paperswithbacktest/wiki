@@ -1,6 +1,8 @@
 ---
-title: "Economic Factors Leading to World War II (Algo Trading)"
-description: "Explore the economic factors that led to World War II including the impacts of the Treaty of Versailles and the Great Depression on global conflict dynamics."
+category: quant_concept
+description: Explore the economic factors that led to World War II including the impacts
+  of the Treaty of Versailles and the Great Depression on global conflict dynamics.
+title: Economic Factors Leading to World War II (Algo Trading)
 ---
 
 World War II was a pivotal moment not only in global politics but also profoundly affected economic history. The onset of the war was heavily influenced by economic factors that deteriorated international relations and led nations toward conflict. The economic conditions preceding World War II played a significant role in laying the groundwork for the war. These conditions included the punitive reparations imposed by the Treaty of Versailles, global economic instability manifested in events such as the Great Depression, and the resulting policy shifts toward economic nationalism and militarism.

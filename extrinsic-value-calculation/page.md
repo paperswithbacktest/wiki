@@ -1,6 +1,8 @@
 ---
-title: "Extrinsic Value and Calculation (Algo Trading)"
-description: "Explore the significance of extrinsic value in options trading and algorithmic strategies where understanding its role in pricing can enhance trading performance."
+category: quant_concept
+description: Explore the significance of extrinsic value in options trading and algorithmic
+  strategies where understanding its role in pricing can enhance trading performance.
+title: Extrinsic Value and Calculation (Algo Trading)
 ---
 
 Understanding financial concepts is crucial for successful trading, especially in advanced fields like algorithmic trading. This encompasses a wide range of topics, including risk management, market dynamics, and various financial instruments, where a deep understanding can distinguish between profit and loss. One such essential concept is the extrinsic value, which plays a significant role in options trading. Options are financial derivatives that grant the holder the right, though not the obligation, to buy or sell an underlying asset at a predetermined price within a specific time frame. 

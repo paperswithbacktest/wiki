@@ -1,6 +1,8 @@
 ---
-title: "Least Squares Criterion (Algo Trading)"
-description: "Discover how the least squares method enhances algorithmic trading by improving data analysis for precise predictions and effective strategy formulation."
+category: quant_concept
+description: Discover how the least squares method enhances algorithmic trading by
+  improving data analysis for precise predictions and effective strategy formulation.
+title: Least Squares Criterion (Algo Trading)
 ---
 
 In the fast-paced world of financial markets, accurate data analysis is crucial for making informed trading decisions. With the increasing complexity and volume of market data, traders are more than ever reliant on robust analytical methods to make precise predictions and formulate strategies. Among these methods, the least squares technique stands out as a powerful statistical tool. It enables traders to find the optimal line of best fit for datasets, a task essential when analyzing historical price movements to forecast future trends.
@@ -359,4 +361,3 @@ $$
     - *QuantInsti* (www.quantinsti.com): Offers free resources and courses on algorithmic trading, including the use of least squares in trading strategies.
     - *Investopedia* (www.investopedia.com): A rich source of articles explaining fundamental concepts, including statistical methods used in trading.
     - *Kaggle* (www.kaggle.com): A hub for datasets and code sharing, beneficial for practicing least squares implementations in Python for financial predictions.
-

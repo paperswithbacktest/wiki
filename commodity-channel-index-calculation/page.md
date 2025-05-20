@@ -1,6 +1,9 @@
 ---
-title: "Commodity Channel Index Calculation (Algo Trading)"
-description: "Learn how to calculate and interpret the Commodity Channel Index (CCI), a significant tool in technical analysis used to identify cyclical price trends and potential buy and sell signals."
+category: trading_strategy
+description: Learn how to calculate and interpret the Commodity Channel Index (CCI),
+  a significant tool in technical analysis used to identify cyclical price trends
+  and potential buy and sell signals.
+title: Commodity Channel Index Calculation (Algo Trading)
 ---
 
 The Commodity Channel Index (CCI) is a pivotal technical indicator used by traders to discern potential buy and sell signals in the financial markets. Developed by Donald Lambert in the 1980s, CCI has become an integral part of technical analysis, offering valuable insights into market momentum and potential price reversals. This indicator is particularly revered for its ability to highlight cyclical trends, thereby aiding traders in making informed decisions. The purpose of this article is to provide a comprehensive guide on understanding the CCI, its calculation, and its application in algorithmic trading.

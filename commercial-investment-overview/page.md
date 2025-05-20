@@ -1,6 +1,8 @@
 ---
-title: "Commercial Investment Overview (Algo Trading)"
-description: "Explore the dynamic intersection of commercial investment and algorithmic trading to uncover innovative strategies and essential insights for today's investors."
+category: quant_concept
+description: Explore the dynamic intersection of commercial investment and algorithmic
+  trading to uncover innovative strategies and essential insights for today's investors.
+title: Commercial Investment Overview (Algo Trading)
 ---
 
 In today’s rapidly evolving financial landscape, commercial investment and algorithmic trading (algo trading) are gaining significant attention. These concepts represent the fusion of traditional financial strategies with modern technological advancements, offering new opportunities and challenges for investors. 

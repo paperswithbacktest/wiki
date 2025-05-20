@@ -1,6 +1,12 @@
 ---
-title: "Assessment of Robinhood's Safety for Investors (Algo Trading)"
-description: "Explore the safety of investing with Robinhood, a pioneer in commission-free trading, which democratizes financial markets using a user-friendly platform that supports algorithmic trading. Learn about the protections it offers to investors, including compliance with SEC and FINRA regulations, SIPC account protection, and additional insurance coverage, ensuring a secure environment for modern digital trading."
+category: trading_strategy
+description: Explore the safety of investing with Robinhood, a pioneer in commission-free
+  trading, which democratizes financial markets using a user-friendly platform that
+  supports algorithmic trading. Learn about the protections it offers to investors,
+  including compliance with SEC and FINRA regulations, SIPC account protection, and
+  additional insurance coverage, ensuring a secure environment for modern digital
+  trading.
+title: Assessment of Robinhood's Safety for Investors (Algo Trading)
 ---
 
 In recent years, investment platforms have witnessed an unprecedented surge in popularity, transforming how individuals engage with financial markets. This shift can be attributed to the democratization of investment opportunities facilitated by technology, which allows users to trade stocks, options, and other financial instruments with ease. Among the numerous platforms that have emerged, Robinhood stands out as a pivotal force in reshaping online trading.

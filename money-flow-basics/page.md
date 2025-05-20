@@ -1,6 +1,9 @@
 ---
-title: "Money Flow Basics (Algo Trading)"
-description: "Explore money flow basics, currency movements, and algorithmic trading to enhance your financial market strategies. Master these skills for better investment outcomes."
+category: quant_concept
+description: Explore money flow basics, currency movements, and algorithmic trading
+  to enhance your financial market strategies. Master these skills for better investment
+  outcomes.
+title: Money Flow Basics (Algo Trading)
 ---
 
 The dynamic world of financial markets is shaped by a myriad of complex and interrelated factors. Among the most critical aspects are money flow, currency movements, and algorithmic trading, each playing a significant role in influencing market behavior and investment strategies. For investors seeking success, understanding these elements is essential.

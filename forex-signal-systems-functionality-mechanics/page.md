@@ -1,6 +1,8 @@
 ---
-title: "Forex Signal Systems: Functionality and Mechanics (Algo Trading)"
-description: "Explore the functionality and mechanics of forex signal systems and algo trading Discover how these tools enhance trading strategies in the forex market"
+category: trading_strategy
+description: Explore the functionality and mechanics of forex signal systems and algo
+  trading Discover how these tools enhance trading strategies in the forex market
+title: 'Forex Signal Systems: Functionality and Mechanics (Algo Trading)'
 ---
 
 The foreign exchange (forex or FX) market is a cornerstone of global finance, facilitating the exchange of currencies across the world. With a daily trading volume exceeding $6 trillion, the forex market is the largest and most liquid financial market globally, surpassing stock and bond markets. Its significance lies in the critical role it plays in international trade and investment, as it allows businesses to convert currencies efficiently, hedge against currency risks, and engage in cross-border transactions.

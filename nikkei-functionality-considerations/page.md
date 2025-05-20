@@ -1,6 +1,8 @@
 ---
-title: "Nikkei Functionality and Considerations (Algo Trading)"
-description: "Explore the synergy of the Nikkei 225 and algorithmic trading Learn how top Japanese industries and advanced trading strategies shape global finance dynamics"
+category: quant_concept
+description: Explore the synergy of the Nikkei 225 and algorithmic trading Learn how
+  top Japanese industries and advanced trading strategies shape global finance dynamics
+title: Nikkei Functionality and Considerations (Algo Trading)
 ---
 
 The Nikkei 225, often regarded as Japan's equivalent to the Dow Jones Industrial Average, stands as a key barometer of economic activity and market sentiment in Japan. This article examines the crucial intersection of this influential stock market index and the transformative practice of algorithmic trading. The Nikkei 225 encompasses 225 top blue-chip companies listed on the Tokyo Stock Exchange and provides critical insight into the health and growth trajectories of major Japanese industries. Understanding its composition is not only essential for local investors but also for global finance, offering a window into Japan's economic standing on the world stage.

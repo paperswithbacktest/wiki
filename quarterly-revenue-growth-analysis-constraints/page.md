@@ -1,6 +1,9 @@
 ---
-title: "Quarterly Revenue Growth: Analysis and Constraints (Algo Trading)"
-description: "Analyze quarterly revenue growth for insights on company's performance and strategic decisions in algo trading enhancing investment strategies and market positioning."
+category: trading_strategy
+description: Analyze quarterly revenue growth for insights on company's performance
+  and strategic decisions in algo trading enhancing investment strategies and market
+  positioning.
+title: 'Quarterly Revenue Growth: Analysis and Constraints (Algo Trading)'
 ---
 
 In the fast-paced world of finance, staying ahead relies heavily on understanding financial data. Quarterly revenue financial analysis is crucial for both investors and companies striving to make informed decisions. This analysis offers insights into a company's performance and market position by examining the fluctuations in sales figures over consecutive quarters.

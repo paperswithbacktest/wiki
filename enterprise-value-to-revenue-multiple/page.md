@@ -1,6 +1,9 @@
 ---
-title: "Enterprise Value to Revenue Multiple (Algo Trading)"
-description: "Discover the significance of the Enterprise Value-to-Revenue multiple in algorithmic trading and how it aids in evaluating companies and developing trading strategies."
+category: quant_concept
+description: Discover the significance of the Enterprise Value-to-Revenue multiple
+  in algorithmic trading and how it aids in evaluating companies and developing trading
+  strategies.
+title: Enterprise Value to Revenue Multiple (Algo Trading)
 ---
 
 The enterprise value-to-revenue (EV/R) multiple is a pivotal financial metric utilized in assessing company valuations, offering substantial benefits in algorithmic trading. This metric gauges a company's valuation by comparing its enterprise value (EV) to its revenue, thus providing a clear perspective on stock value irrespective of profitability. Such insights are invaluable in valuing companies that have yet to achieve profitability, particularly startups or enterprises in high-growth sectors where traditional profit metrics may not apply.

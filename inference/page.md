@@ -1,7 +1,8 @@
 ---
-title: Machine Learning Inference Principles And Best Practices
+category: quant_concept
 description: Machine learning inference delivers accurate predictions in real time
   while reducing hardware demands and maintenance Discover more inside now.
+title: Machine Learning Inference Principles And Best Practices
 ---
 
 ![Image](images/1.jpeg)

@@ -1,6 +1,8 @@
 ---
-title: "Growth Recession Explained (Algo Trading)"
-description: "Explore the role of algorithmic trading in managing economic fluctuations such as growth recessions Learn how GDP growth and slowdowns impact market strategies"
+category: quant_concept
+description: Explore the role of algorithmic trading in managing economic fluctuations
+  such as growth recessions Learn how GDP growth and slowdowns impact market strategies
+title: Growth Recession Explained (Algo Trading)
 ---
 
 In recent years, the global economy has been subject to significant fluctuations, affecting both Gross Domestic Product (GDP) growth and overall economic sentiment. These fluctuations have been driven by various factors including geopolitical tensions, technological advancements, and shifting consumer behaviors, which have collectively added layers of complexity to the global market landscape. Such market volatility, coupled with the inherent cycles of the economy—highlighted by slowdowns and recessions—has compelled investors to seek more reliable ways to manage risk and optimize returns.

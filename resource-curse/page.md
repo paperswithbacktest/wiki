@@ -1,6 +1,9 @@
 ---
-title: "Resource Curse (Algo Trading)"
-description: "Explore how natural resources impact economic growth and the challenges of the resource curse Investigate the role of algorithmic trading in resource-dependent sectors"
+category: quant_concept
+description: Explore how natural resources impact economic growth and the challenges
+  of the resource curse Investigate the role of algorithmic trading in resource-dependent
+  sectors
+title: Resource Curse (Algo Trading)
 ---
 
 The economic impact of natural resources has long been a subject of intense study and debate. The central question is how these resources can be harnessed to foster economic growth and development. Natural resources, including oil, gas, minerals, and forestry, present significant opportunities for wealth generation. Theoretically, they can provide countries with substantial revenue streams, enhancing public welfare, infrastructure, and overall economic prosperity. However, the 'resource curse' often complicates this narrative. This paradox refers to the phenomenon where countries abundant in natural resources experience less economic growth and worse development outcomes than those with fewer resources.

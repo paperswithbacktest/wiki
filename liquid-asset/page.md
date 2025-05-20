@@ -1,6 +1,9 @@
 ---
-title: "Liquid Asset (Algo Trading)"
-description: "Unlock the potential of algo trading in financial markets Understand liquid assets and their crucial role in investment strategies for maximum agility and returns"
+category: quant_concept
+description: Unlock the potential of algo trading in financial markets Understand
+  liquid assets and their crucial role in investment strategies for maximum agility
+  and returns
+title: Liquid Asset (Algo Trading)
 ---
 
 Investing in financial markets has undergone a profound transformation over the years. The advent of technology has introduced sophisticated strategies such as algorithmic trading, enabling traders to execute investments with unmatched precision and speed. Algorithmic trading, commonly referred to as algo trading, leverages complex algorithms and automated systems to make high-frequency trading decisions, revolutionizing the way investments are managed.

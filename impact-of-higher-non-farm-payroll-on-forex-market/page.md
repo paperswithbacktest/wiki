@@ -1,6 +1,8 @@
 ---
-title: "Impact of Higher Non-Farm Payroll on Forex Market (Algo Trading)"
-description: "Explore how non-farm payroll data impacts the forex market and algorithmic trading strategies to optimize performance and trading outcomes."
+category: trading_strategy
+description: Explore how non-farm payroll data impacts the forex market and algorithmic
+  trading strategies to optimize performance and trading outcomes.
+title: Impact of Higher Non-Farm Payroll on Forex Market (Algo Trading)
 ---
 
 Economic indicators play a crucial role in the forex market, serving as essential tools for assessing a country’s economic performance and informing traders' decisions. They include various data points that reflect the health of an economy, such as GDP growth rates, inflation rates, and employment figures. These indicators are pivotal because they help traders infer potential fluctuations in currency values, thus offering vital insights for making informed trading decisions.

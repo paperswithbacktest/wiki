@@ -1,6 +1,12 @@
 ---
-title: "Methods for Reducing Property Tax Expenses (Algo Trading)"
-description: "Discover effective strategies to reduce property tax expenses while navigating the complexities of property valuation. Learn how to manage your tax liabilities through informed decisions and explore the role of algorithmic trading in optimizing tax outcomes. Uncover methods to challenge assessments and leverage exemptions and relief programs for significant savings. Equip yourself with practical knowledge to enhance your financial planning and minimize property tax burdens."
+category: quant_concept
+description: Discover effective strategies to reduce property tax expenses while navigating
+  the complexities of property valuation. Learn how to manage your tax liabilities
+  through informed decisions and explore the role of algorithmic trading in optimizing
+  tax outcomes. Uncover methods to challenge assessments and leverage exemptions and
+  relief programs for significant savings. Equip yourself with practical knowledge
+  to enhance your financial planning and minimize property tax burdens.
+title: Methods for Reducing Property Tax Expenses (Algo Trading)
 ---
 
 Property tax can be a perplexing and often overwhelming concept for homeowners, particularly when faced with increasing figures on their annual tax bills. This form of taxation, determined by the appraised value of a property, can sometimes seem erratic and unjust, weighing heavily on a homeowner’s financial planning and budgeting. The complexity arises from the intricate processes involved in property valuation and the variety of factors that contribute to fluctuating assessment values.

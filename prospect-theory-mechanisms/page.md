@@ -1,6 +1,9 @@
 ---
-title: "Prospect Theory and Its Mechanisms (Algo Trading)"
-description: "Explore how prospect theory reshapes algorithmic trading by incorporating behavioral insights into market strategies enhancing predictive accuracy and risk management."
+category: quant_concept
+description: Explore how prospect theory reshapes algorithmic trading by incorporating
+  behavioral insights into market strategies enhancing predictive accuracy and risk
+  management.
+title: Prospect Theory and Its Mechanisms (Algo Trading)
 ---
 
 Behavioral economics challenges the traditional economic paradigm that humans are entirely rational agents. It reveals that cognitive biases, emotions, and social influences frequently lead individuals to make decisions that deviate from rationality. One of the seminal contributions to this field is prospect theory, developed by Daniel Kahneman and Amos Tversky, which revolutionized understanding by emphasizing how people perceive and decide under risk. Unlike classical utility theory, which assumes individuals evaluate outcomes based solely on final states, prospect theory suggests that losses and gains are perceived relative to a reference point, typically the status quo, and that losses generally have a more significant impact than equivalent gains. This concept of "loss aversion" explains why people may take greater risks to avoid losses than to secure gains, thus providing a nuanced insight into human decision-making.

@@ -1,6 +1,9 @@
 ---
-title: "Liberalization Clause: Definition and Mechanism (Algo Trading)"
-description: "Explore how liberalization clauses in contracts ensure adaptability in algorithmic trading by facilitating compliance amidst evolving regulations within financial markets."
+category: quant_concept
+description: Explore how liberalization clauses in contracts ensure adaptability in
+  algorithmic trading by facilitating compliance amidst evolving regulations within
+  financial markets.
+title: 'Liberalization Clause: Definition and Mechanism (Algo Trading)'
 ---
 
 Algorithmic trading, also known as automated trading, refers to the use of computer algorithms to manage trading orders in financial markets. This methodology has significantly influenced the financial sector by enhancing the speed, accuracy, and efficiency of trading activities. It involves complex mathematical models and rapid data analysis, allowing traders to capitalize on market conditions faster than human cognition allows. Algorithms, which make decisions based on pre-set rules and market data, govern the buying or selling of financial instruments without human intervention. 

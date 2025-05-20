@@ -1,6 +1,8 @@
 ---
-title: "Breakaway Gap: Concept and Examples (Algo Trading)"
-description: "Explore the concept of breakaway gaps in trading and their significance in predicting market trends. Learn how algorithmic trading can optimize these strategies."
+category: quant_concept
+description: Explore the concept of breakaway gaps in trading and their significance
+  in predicting market trends. Learn how algorithmic trading can optimize these strategies.
+title: 'Breakaway Gap: Concept and Examples (Algo Trading)'
 ---
 
 Understanding chart patterns is a fundamental aspect of trading, offering traders insights into potential future market movements. Among these chart patterns, the breakaway gap is noteworthy for its role in signaling strong price movements. A breakaway gap occurs when a security's price makes a significant leap, breaking through established levels of support or resistance. This phenomenon often marks the beginning of a new trend and is typically accompanied by a surge in trading volume.

@@ -1,6 +1,8 @@
 ---
-title: "Economic Reports Influencing the Euro (Algo Trading)"
-description: "Explore how economic reports and algorithmic trading influence the Euro in global markets. Understand the dynamics and impact of data-driven strategies."
+category: trading_strategy
+description: Explore how economic reports and algorithmic trading influence the Euro
+  in global markets. Understand the dynamics and impact of data-driven strategies.
+title: Economic Reports Influencing the Euro (Algo Trading)
 ---
 
 The European economy, driven by its diverse and interdependent member states, is a pivotal force in global markets. As of 2021, the European Union (EU) collectively represents one of the largest economies worldwide, with a Gross Domestic Product (GDP) that competes closely with other leading economic powers. The Euro, introduced in 1999, serves as the unified currency for 19 of the 27 EU member states, facilitating seamless trade and economic stability within the Eurozone. The Euro's status as the second most traded currency globally underscores the significant role Europe plays in the international financial landscape.

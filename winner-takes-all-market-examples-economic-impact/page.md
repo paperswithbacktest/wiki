@@ -1,6 +1,8 @@
 ---
-title: "Winner-Takes-All Market: Examples and Economic Impact (Algo Trading)"
-description: "Discover how winner-takes-all markets shape economic landscapes and algorithmic trading dynamics, driving wealth concentration, competition, and innovation."
+category: quant_concept
+description: Discover how winner-takes-all markets shape economic landscapes and algorithmic
+  trading dynamics, driving wealth concentration, competition, and innovation.
+title: 'Winner-Takes-All Market: Examples and Economic Impact (Algo Trading)'
 ---
 
 In this article, we examine the concept of the 'winner-takes-all' market, exploring its implications for both the economy and the world of algorithmic trading. A winner-takes-all market is characterized by situations where top performers capture the majority of rewards, often leaving little room for others. This phenomenon leads to a concentration of power and resources among a few dominant players, often resulting in oligopolies or monopolies.

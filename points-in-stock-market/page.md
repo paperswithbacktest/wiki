@@ -1,6 +1,8 @@
 ---
-title: "Points in Stock Market (Algo Trading)"
-description: "Understanding stock market points is key for traders and investors to analyze market trends and make informed decisions using algorithmic trading efficiently."
+category: quant_concept
+description: Understanding stock market points is key for traders and investors to
+  analyze market trends and make informed decisions using algorithmic trading efficiently.
+title: Points in Stock Market (Algo Trading)
 ---
 
 Understanding stock market points is crucial for navigating the financial markets effectively. These metrics form the backbone of market analysis, allowing traders, investors, and financial analysts to interpret market movements accurately. Stock market points represent numerical values that indicate changes in stock prices or market indexes such as the Dow Jones Industrial Average or the S&P 500. By understanding these changes, market participants can make informed decisions, identify trends, and gauge market sentiments.

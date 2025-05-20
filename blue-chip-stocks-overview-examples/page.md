@@ -1,6 +1,8 @@
 ---
-title: "Blue Chip Stocks: Overview and Examples (Algo Trading)"
-description: "Discover the benefits of investing in blue chip stocks and algorithmic trading High stability and data-driven strategies for diverse investor profiles"
+category: trading_strategy
+description: Discover the benefits of investing in blue chip stocks and algorithmic
+  trading High stability and data-driven strategies for diverse investor profiles
+title: 'Blue Chip Stocks: Overview and Examples (Algo Trading)'
 ---
 
 In today's complex financial landscape, investing in the stock market can seem daunting. This article aims to provide clarity by exploring key investment strategies: blue chip stocks and algorithmic trading. Blue chip stocks represent the epitome of financial stability and reliability. Algorithmic trading, on the other hand, offers high-speed and data-driven investment opportunities. Together, these strategies can cater to diverse investor profiles, from conservative to technologically savvy.

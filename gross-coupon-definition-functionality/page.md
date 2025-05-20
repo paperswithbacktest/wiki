@@ -1,6 +1,9 @@
 ---
-title: "Gross Coupon: Definition and Functionality (Algo Trading)"
-description: "Explore the role of gross coupons in bond trading and how algorithmic trading enhances market efficiency By understanding these concepts investors optimize strategies."
+category: quant_concept
+description: Explore the role of gross coupons in bond trading and how algorithmic
+  trading enhances market efficiency By understanding these concepts investors optimize
+  strategies.
+title: 'Gross Coupon: Definition and Functionality (Algo Trading)'
 ---
 
 Understanding the intricate components of finance, particularly within bond markets and algorithmic trading, is pivotal for today’s investors. Bonds act as a cornerstone of financial markets, representing fixed-income investments where investors lend money to entities, such as governments or corporations, with the promise of periodic interest payments. These interest payments, known as bond coupons, play a significant role in determining the bond's yield and market valuation. The coupon rate is essentially an indicator of the income an investor can expect from a bond, usually expressed as a percentage of its face value. Higher coupon rates are a focal point for investors due to their potential to generate greater returns.

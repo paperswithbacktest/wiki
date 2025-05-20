@@ -1,6 +1,9 @@
 ---
-title: "Regulation Q: Overview, Historical Context, and Modern Impact (Algo Trading)"
-description: "Explore Regulation Q’s historical influence on banking and its impact on financial stability and innovation, highlighting its relevance in today's regulation dynamics."
+category: quant_concept
+description: Explore Regulation Q’s historical influence on banking and its impact
+  on financial stability and innovation, highlighting its relevance in today's regulation
+  dynamics.
+title: 'Regulation Q: Overview, Historical Context, and Modern Impact (Algo Trading)'
 ---
 
 The financial landscape has undergone substantial transformations, with regulatory measures playing a pivotal role in shaping its evolution. Among these measures, Regulation Q, introduced as part of the Banking Act of 1933, stands as a significant influence in the banking sector. Designed to impose interest rate ceilings, Regulation Q aimed to ensure stability by limiting the rates banks could offer on deposits, thus curbing potentially risky banking practices. This article seeks to explore the evolution of Regulation Q, addressing its substantial impact on banking practices, financial services, and the broader economy.

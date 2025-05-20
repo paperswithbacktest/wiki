@@ -1,6 +1,9 @@
 ---
-title: "Fiscal Policy Authority in the United States: President vs. Congress (Algo Trading)"
-description: "Explore the dynamic relationship between the President and Congress in shaping U.S. fiscal policy and its impact on algorithmic trading and financial markets."
+category: quant_concept
+description: Explore the dynamic relationship between the President and Congress in
+  shaping U.S. fiscal policy and its impact on algorithmic trading and financial markets.
+title: 'Fiscal Policy Authority in the United States: President vs. Congress (Algo
+  Trading)'
 ---
 
 The intersection of presidential powers, congressional authority, fiscal policy, and algorithmic trading creates a complex and evolving landscape within the U.S. economy. Each of these components plays a distinct yet interrelated role in shaping economic outcomes and influencing financial markets. The President and Congress together define fiscal policy through legislation that determines government spending and taxation, impacting economic conditions and liquidity. These fiscal decisions are rooted in Keynesian economic principles, which advocate for government intervention to stabilize economic fluctuations.

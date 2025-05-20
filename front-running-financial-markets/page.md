@@ -1,6 +1,8 @@
 ---
-title: "Front Running in Financial Markets (Algo Trading)"
-description: "Explore the complex world of front running in financial markets, its implications, and how algorithmic trading impacts this controversial practice."
+category: quant_concept
+description: Explore the complex world of front running in financial markets, its
+  implications, and how algorithmic trading impacts this controversial practice.
+title: Front Running in Financial Markets (Algo Trading)
 ---
 
 Front running is considered a highly controversial practice within financial markets due to its capacity to undermine the principles of fair and equitable trading. This illegal maneuver involves executing transactions based on non-public information to gain an advantage over other market participants. Despite its illicit nature, front running poses a significant challenge to detect and prevent, a challenge that has only magnified with the proliferation of algorithmic trading.

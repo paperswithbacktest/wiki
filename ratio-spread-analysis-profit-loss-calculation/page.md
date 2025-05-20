@@ -1,6 +1,8 @@
 ---
-title: "Ratio Spread: Analysis and Profit-Loss Calculation (Algo Trading)"
-description: "Explore ratio spreads in algorithmic trading to optimize strategies with unequal options, manage risk, and capitalize on market fluctuations effectively."
+category: trading_strategy
+description: Explore ratio spreads in algorithmic trading to optimize strategies with
+  unequal options, manage risk, and capitalize on market fluctuations effectively.
+title: 'Ratio Spread: Analysis and Profit-Loss Calculation (Algo Trading)'
 ---
 
 Options trading is a dynamic and complex field where various strategies enable traders to effectively manage risk while optimizing potential returns. Among these strategies, the ratio spread stands out as a sophisticated method employed by experienced traders. This technique involves the simultaneous buying and selling of options in unequal quantities, typically featuring a larger number of short positions compared to long ones. Ratio spreads are versatile, applicable to both call and put options, and are often structured in a common 2:1 ratio, where a trader might purchase one option while selling two options of the same type.

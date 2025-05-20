@@ -1,6 +1,14 @@
 ---
-title: "Identity of Satoshi Nakamoto (Algo Trading)"
-description: "Explore the intriguing identity of Satoshi Nakamoto, the pseudonymous creator of Bitcoin, and its profound impact on the cryptocurrency market. Delve into Nakamoto's pivotal role in redefining currency transactions and paving the way for algorithmic trading, transforming financial technologies through decentralization. Learn how Bitcoin's inception has fueled innovation, leading to the emergence of alternative coins and the evolution of complex trading strategies that enhance market liquidity and efficiency. Discover the synergy between Bitcoin and algorithmic trading, offering insights into the future trajectory of cryptocurrency markets."
+category: quant_concept
+description: Explore the intriguing identity of Satoshi Nakamoto, the pseudonymous
+  creator of Bitcoin, and its profound impact on the cryptocurrency market. Delve
+  into Nakamoto's pivotal role in redefining currency transactions and paving the
+  way for algorithmic trading, transforming financial technologies through decentralization.
+  Learn how Bitcoin's inception has fueled innovation, leading to the emergence of
+  alternative coins and the evolution of complex trading strategies that enhance market
+  liquidity and efficiency. Discover the synergy between Bitcoin and algorithmic trading,
+  offering insights into the future trajectory of cryptocurrency markets.
+title: Identity of Satoshi Nakamoto (Algo Trading)
 ---
 
 Bitcoin, introduced in 2008 by the pseudonymous Satoshi Nakamoto, stands as a revolutionary development in the financial sector. As the first decentralized digital currency, Bitcoin operates without a central bank or single administrator, allowing users to conduct peer-to-peer transactions through the blockchain—an immutable ledger system. This groundbreaking innovation has not only redefined the parameters of currency transactions but has also set the stage for the extensive development of the cryptocurrency market.

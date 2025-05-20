@@ -1,6 +1,8 @@
 ---
-title: "History of the French Franc (Algo Trading)"
-description: "Explore the rich history of the French Franc spanning over six centuries and its impact on current economic strategies and algorithmic trading insights."
+category: quant_concept
+description: Explore the rich history of the French Franc spanning over six centuries
+  and its impact on current economic strategies and algorithmic trading insights.
+title: History of the French Franc (Algo Trading)
 ---
 
 The French Franc, once the national currency of France, has a history extending over six centuries, reflecting the nation's rich economic and cultural tapestry. Its inception in 1360, primarily as a means to pay the ransom of King John II during the Hundred Years' War, marks the beginning of its extensive journey through varying political and economic landscapes. The evolution of the Franc is not only a testament to the resilience of France's economy but also a mirror to its adaptability amidst external influences and internal reforms.

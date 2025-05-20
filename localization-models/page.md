@@ -1,7 +1,8 @@
 ---
-title: Localization Models in Machine Learning and Computer Vision
+category: quant_concept
 description: Localization Models in machine learning pinpoint object positions using
   CNNs and advanced techniques to address real world challenges Discover more inside
+title: Localization Models in Machine Learning and Computer Vision
 ---
 
 ![Image](images/1.jpeg)

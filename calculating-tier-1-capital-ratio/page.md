@@ -1,6 +1,9 @@
 ---
-title: "Calculating Tier 1 Capital Ratio (Algo Trading)"
-description: "Explore the significance of Tier 1 capital ratio in banking stability and its role in regulatory compliance and algorithmic trading for sound financial operations."
+category: quant_concept
+description: Explore the significance of Tier 1 capital ratio in banking stability
+  and its role in regulatory compliance and algorithmic trading for sound financial
+  operations.
+title: Calculating Tier 1 Capital Ratio (Algo Trading)
 ---
 
 Understanding the financial stability of banks is essential for investors, regulators, and customers alike, as it determines how well a bank can withstand economic fluctuations and financial stress. A critical metric used in assessing a bank's financial robustness is the Tier 1 capital ratio. This ratio serves as a measure of a bank's core capital, which primarily includes common stock, retained earnings, and certain other reserves. It provides insight into the bank's ability to absorb losses while continuing to operate effectively.

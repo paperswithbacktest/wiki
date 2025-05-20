@@ -1,6 +1,8 @@
 ---
-title: "Mandatory Convertible Bonds (Algo Trading)"
-description: "Explore the hybrid nature of mandatory convertible bonds and their role in algorithmic trading for enhanced market efficiency and strategic capital management."
+category: quant_concept
+description: Explore the hybrid nature of mandatory convertible bonds and their role
+  in algorithmic trading for enhanced market efficiency and strategic capital management.
+title: Mandatory Convertible Bonds (Algo Trading)
 ---
 
 Convertible bonds are financial instruments that serve as a hybrid between debt and equity, offering unique benefits for both issuers and investors. They grant the bondholder the option to convert the bond into a predetermined number of shares of the issuing company's stock, thus allowing investors to benefit from fixed income during the bond's tenure while also participating in the company's equity upside. This duality imbues convertible bonds with significant strategic importance in financial markets, as they can be an effective tool for managing a company's capital structure and investor portfolio diversification.
@@ -229,4 +231,3 @@ For those interested in a deeper understanding of the connection between financi
 - **Coursera: Financial Markets by Yale University** - An online course providing a strong foundation in financial markets and instruments, including bonds and technological advancements in trading. Available at [Coursera](https://www.coursera.org/learn/financial-markets-global).
 
 Examine these resources to gain more knowledge about the dynamics of convertible bonds and the technological advancements shaping modern financial strategies.
-

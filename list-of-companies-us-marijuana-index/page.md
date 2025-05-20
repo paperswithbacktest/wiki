@@ -1,6 +1,8 @@
 ---
-title: "List of Companies in the U.S. Marijuana Index (Algo Trading)"
-description: "Explore the U.S. Marijuana Index and algorithmic trading in cannabis stocks to understand market trends and make informed investment decisions."
+category: dataset
+description: Explore the U.S. Marijuana Index and algorithmic trading in cannabis
+  stocks to understand market trends and make informed investment decisions.
+title: List of Companies in the U.S. Marijuana Index (Algo Trading)
 ---
 
 The cannabis industry has experienced significant transformation in recent years, emerging as a critical area of interest for investors. Driven by changing regulations, increased medical applications, and evolving consumer preferences, marijuana companies and cannabis stocks have drawn considerable attention in the financial markets. As the industry matures, understanding key performance indicators such as the U.S. Marijuana Index becomes increasingly important for investors aiming to capitalize on this growth.

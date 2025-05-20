@@ -1,6 +1,8 @@
 ---
-title: "Deep learning in market prediction (Algo Trading)"
-description: "Deep learning revolutionizes market prediction in algorithmic trading by analyzing vast data sets to identify trends and minimize risks effectively."
+category: quant_concept
+description: Deep learning revolutionizes market prediction in algorithmic trading
+  by analyzing vast data sets to identify trends and minimize risks effectively.
+title: Deep learning in market prediction (Algo Trading)
 ---
 
 The rise of big data and computational capabilities has significantly enhanced the ability to predict market movements. Advances in hardware and software have enabled the collection, storage, and processing of vast amounts of financial data, which provides an unprecedented opportunity for analyzing market dynamics and making informed decisions. This transformation has paved the way for deep learning to become an essential component in algorithmic trading.

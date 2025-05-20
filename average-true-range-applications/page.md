@@ -1,6 +1,9 @@
 ---
-title: "Average True Range and Its Applications (Algo Trading)"
-description: "Explore the power of Average True Range (ATR) in algorithmic trading Discover how this key volatility indicator enhances strategies and refines decision-making skills"
+category: quant_concept
+description: Explore the power of Average True Range (ATR) in algorithmic trading
+  Discover how this key volatility indicator enhances strategies and refines decision-making
+  skills
+title: Average True Range and Its Applications (Algo Trading)
 ---
 
 In technical analysis and algorithmic trading, indicators are essential tools for making informed decisions. Among these, the Average True Range (ATR) stands out as a powerful indicator for assessing market volatility. Introduced by J. Welles Wilder Jr., the ATR does not predict price direction but rather quantifies the degree of price variation over time. This characteristic makes it an invaluable resource for traders aiming to understand and adapt to changing market dynamics.

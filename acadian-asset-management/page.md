@@ -1,6 +1,15 @@
 ---
-title: "Acadian Asset Management (Algo Trading)"
-description: Acadian Asset Management is a leading entity in investment management, excelling in quantitative analysis and algorithmic trading strategies since its founding in 1986. Utilizing cutting-edge technological solutions like AI and data science, Acadian identifies profitable market opportunities, optimizing trade executions through sophisticated algorithms. With a foundation in quantitative investment, the firm remains adaptable, consistently delivering innovative solutions and maintaining a competitive edge. As a pioneer in its field, Acadian stands at the intersection of finance and technology, driving the evolution of modern investment management practices.
+category: trading_strategy
+description: Acadian Asset Management is a leading entity in investment management,
+  excelling in quantitative analysis and algorithmic trading strategies since its
+  founding in 1986. Utilizing cutting-edge technological solutions like AI and data
+  science, Acadian identifies profitable market opportunities, optimizing trade executions
+  through sophisticated algorithms. With a foundation in quantitative investment,
+  the firm remains adaptable, consistently delivering innovative solutions and maintaining
+  a competitive edge. As a pioneer in its field, Acadian stands at the intersection
+  of finance and technology, driving the evolution of modern investment management
+  practices.
+title: Acadian Asset Management (Algo Trading)
 ---
 
 Acadian Asset Management has established itself as a distinguished entity in the investment management industry, known for leveraging cutting-edge quantitative analysis and algorithmic trading strategies. Founded in 1986, the firm has continuously evolved to adapt to the dynamic landscape of global finance, thereby cementing its position as a leader in quantitative investment approaches. Acadian's strategic implementation of algorithmic trading has not only broadened its influence in financial markets but has also enhanced the efficiency and precision of its investment methodologies.

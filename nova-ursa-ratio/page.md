@@ -1,6 +1,8 @@
 ---
-title: "Nova to Ursa Ratio (Algo Trading)"
-description: "Explore the Nova/Ursa ratio in algo trading, integrating astronomy insights with market sentiment indicators to enhance your investment strategies."
+category: trading_strategy
+description: Explore the Nova/Ursa ratio in algo trading, integrating astronomy insights
+  with market sentiment indicators to enhance your investment strategies.
+title: Nova to Ursa Ratio (Algo Trading)
 ---
 
 In the ever-evolving landscape of financial investment, algorithmic trading strategies have emerged as vital tools for investors and financial institutions. Among these strategies, a novel approach that integrates astronomy insights with financial algorithms is gaining attention. This article explores how traders are employing the Nova/Ursa ratio alongside astronomical cycles to potentially enhance their investment strategies.

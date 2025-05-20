@@ -1,6 +1,9 @@
 ---
-title: "Average Operating Expenses in the Oil and Gas Industry (Algo Trading)"
-description: "Explore how operational expenses in oil and gas impact profitability and discover the role of algorithmic trading in optimizing trading strategies and efficiency."
+category: dataset
+description: Explore how operational expenses in oil and gas impact profitability
+  and discover the role of algorithmic trading in optimizing trading strategies and
+  efficiency.
+title: Average Operating Expenses in the Oil and Gas Industry (Algo Trading)
 ---
 
 In the modern global economy, the oil and gas sector is a critical driver of economic dynamics and energy security, affecting both developed and developing nations. As a cornerstone of industrial development, it supplies the energy and materials necessary for numerous sectors, from transportation to manufacturing. This sector's complexity and capital-intensive nature necessitate a focus on meticulous operational cost management, which directly influences profitability and sustainability.

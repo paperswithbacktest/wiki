@@ -1,6 +1,8 @@
 ---
-title: "Income Funds: Types and Examples (Algo Trading)"
-description: "Explore the potential of income funds and algorithmic trading for optimizing your investment portfolio with steady income and innovative trading strategies."
+category: trading_strategy
+description: Explore the potential of income funds and algorithmic trading for optimizing
+  your investment portfolio with steady income and innovative trading strategies.
+title: 'Income Funds: Types and Examples (Algo Trading)'
 ---
 
 Income funds and algorithmic trading represent two significant facets of modern investment strategies, each offering distinct advantages to enhance an investor's portfolio. Income funds are designed to provide a steady stream of income with lower risk compared to more volatile investment options. These funds primarily focus on generating regular income through diversified portfolios consisting of dividend-paying stocks, bonds, or other interest-bearing assets. Such funds are appealing to conservative investors or those seeking consistent returns, as they aim to mitigate risks associated with market fluctuations.

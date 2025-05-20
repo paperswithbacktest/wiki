@@ -1,7 +1,8 @@
 ---
-title: Advancements in Lane Detection Models for Autonomous Driving
+category: quant_concept
 description: Lane Detection enhances autonomous driving safety by using real time
   vision models like YOLOP for precise lane tracking. Discover more inside
+title: Advancements in Lane Detection Models for Autonomous Driving
 ---
 
 ![Image](images/1.png)

@@ -1,6 +1,9 @@
 ---
-title: "Information Cascades in Financial Markets (Algo Trading)"
-description: "Explore the complexities of information cascades in financial markets and their impact on algorithmic trading Learn how herd behavior influences market trends"
+category: quant_concept
+description: Explore the complexities of information cascades in financial markets
+  and their impact on algorithmic trading Learn how herd behavior influences market
+  trends
+title: Information Cascades in Financial Markets (Algo Trading)
 ---
 
 In the complex world of financial markets, understanding underlying behaviors and patterns is essential for making informed decisions. Among the various phenomena influencing market dynamics, information cascades are particularly noteworthy. Rooted in behavioral economics, information cascades occur when individuals rely on the observed actions of others rather than their private information, often leading to herding behavior. This is especially pertinent in financial markets, where herd instincts can create significant fluctuations, manifesting in phenomena such as asset bubbles and market crashes.

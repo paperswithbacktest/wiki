@@ -1,6 +1,12 @@
 ---
-title: "Cash Flow Statement and Its Analysis (Algo Trading)"
-description: "Explore the intricacies of cash flow statements and their analysis within algorithmic trading on this page. Gain insights into a company's financial health, understand cash inflows and outflows, and how this data enhances trading decisions. This resource also covers the three primary components: operating activities, investing activities, and financing activities, to help investors create informed investment strategies."
+category: quant_concept
+description: 'Explore the intricacies of cash flow statements and their analysis within
+  algorithmic trading on this page. Gain insights into a company''s financial health,
+  understand cash inflows and outflows, and how this data enhances trading decisions.
+  This resource also covers the three primary components: operating activities, investing
+  activities, and financing activities, to help investors create informed investment
+  strategies.'
+title: Cash Flow Statement and Its Analysis (Algo Trading)
 ---
 
 Understanding financial statements is a fundamental skill for anyone involved in finance and investing, as these documents provide invaluable insights into the financial health and performance of a company. Among these documents, the cash flow statement stands out as a crucial component of financial analysis. Unlike the income statement, which focuses on profitability, or the balance sheet, which provides a snapshot of assets and liabilities, the cash flow statement offers a detailed account of the cash generated and used by a business during a particular period.

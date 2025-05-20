@@ -1,6 +1,9 @@
 ---
-title: "Dutch Book Theorem (Algo Trading)"
-description: "Discover how the Dutch Book Theorem impacts betting strategies and algorithmic trading by highlighting inconsistent probability assessments and their financial implications."
+category: quant_concept
+description: Discover how the Dutch Book Theorem impacts betting strategies and algorithmic
+  trading by highlighting inconsistent probability assessments and their financial
+  implications.
+title: Dutch Book Theorem (Algo Trading)
 ---
 
 The Dutch Book Theorem is a critical concept within probability theory that has profound implications for fields such as betting strategy, probability calculations, and algorithmic trading. This theorem delineates the conditions under which inconsistent probabilities can lead to certain losses, a phenomenon commonly known as a 'Dutch Book'. Such a scenario occurs when an individual's probability assessments are incoherent, meaning they violate the fundamental axioms of probability theory, which can be exploited for guaranteed profit by an informed counterparty.

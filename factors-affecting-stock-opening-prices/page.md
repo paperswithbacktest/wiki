@@ -1,6 +1,8 @@
 ---
-title: "Factors Affecting Stock Opening Prices (Algo Trading)"
-description: "Explore the factors influencing stock opening prices in algo trading Uncover how algorithms impact market dynamics and optimize trading strategies efficiently"
+category: trading_strategy
+description: Explore the factors influencing stock opening prices in algo trading
+  Uncover how algorithms impact market dynamics and optimize trading strategies efficiently
+title: Factors Affecting Stock Opening Prices (Algo Trading)
 ---
 
 In stock trading, the intricacies of opening and closing prices are pivotal for traders at all levels. These prices serve not only as foundational elements for daily trading strategies but also as indicators of broader market sentiment. The closing price represents the final trading price during regular market hours, providing a snapshot of daily market performance. Meanwhile, the opening price, set by the first trade executed at the market's start, can reveal reactions to news that arose outside of trading hours.

@@ -1,6 +1,9 @@
 ---
-title: "Collapse of the Mississippi Bubble (Algo Trading)"
-description: "Explore the early 18th-century Mississippi Bubble its financial innovations and speculative fervor providing insights for modern algorithmic trading and economic stability."
+category: quant_concept
+description: Explore the early 18th-century Mississippi Bubble its financial innovations
+  and speculative fervor providing insights for modern algorithmic trading and economic
+  stability.
+title: Collapse of the Mississippi Bubble (Algo Trading)
 ---
 
 The Mississippi Bubble was a pivotal financial event in the early 18th century, orchestrated by John Law, a Scottish economist. This large-scale financial bubble stands out as one of the earliest significant instances of speculative mania in economic history. The occurrence offers valuable insights into the mechanisms of speculation and the pitfalls of fiscal mismanagement. At its core, the Mississippi Bubble narrative illustrates the ambitious but ultimately flawed economic strategies employed by Law, which included the introduction of paper money and the integration of colonial trade enterprises within France's financial system.

@@ -1,6 +1,9 @@
 ---
-title: "Investment Canada Act: Overview and Mechanism (Algo Trading)"
-description: "Explore Canada's investment landscape with insights into the Investment Canada Act and the rise of algorithmic trading providing a technological edge in investments."
+category: quant_concept
+description: Explore Canada's investment landscape with insights into the Investment
+  Canada Act and the rise of algorithmic trading providing a technological edge in
+  investments.
+title: 'Investment Canada Act: Overview and Mechanism (Algo Trading)'
 ---
 
 Canada has been recognized as a significant hub for foreign investment due to its robust and vibrant economy, which serves as a magnet for international investors. A key regulatory framework governing these foreign investments is the Investment Canada Act (ICA). Enacted to oversee and ensure that foreign investments benefit the Canadian economy, the ICA plays a pivotal role in maintaining economic stability and fostering growth. It outlines the necessary procedures for foreign entities looking to invest significantly within the country, ensuring these investments align with national interests and security.

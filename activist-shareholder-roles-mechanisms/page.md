@@ -1,6 +1,9 @@
 ---
-title: "Activist Shareholder: Roles and Mechanisms (Algo Trading)"
-description: "Explore the roles and mechanisms of activist shareholders in corporate governance as they leverage algo trading to influence company strategy and enhance value."
+category: quant_concept
+description: Explore the roles and mechanisms of activist shareholders in corporate
+  governance as they leverage algo trading to influence company strategy and enhance
+  value.
+title: 'Activist Shareholder: Roles and Mechanisms (Algo Trading)'
 ---
 
 Shareholder activism has become a significant force in shaping corporate behavior and governance dynamics. As companies face increasing pressure from stakeholders to enhance value and accountability, activist shareholders have emerged as a powerful catalyst for change. These individuals or groups typically acquire a substantial equity stake in a corporation to influence its management and strategic direction. The growing relevance of shareholder activism can be attributed to its ability to effect tangible changes within companies, promote transparency, and align corporate actions with shareholder interests.

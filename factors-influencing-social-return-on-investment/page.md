@@ -1,6 +1,8 @@
 ---
-title: "Factors Influencing Social Return on Investment (Algo Trading)"
-description: "Explore how Social Return on Investment (SROI) enhances social investments and algorithmic trading by aligning financial and social impact goals effectively."
+category: quant_concept
+description: Explore how Social Return on Investment (SROI) enhances social investments
+  and algorithmic trading by aligning financial and social impact goals effectively.
+title: Factors Influencing Social Return on Investment (Algo Trading)
 ---
 
 Social Return on Investment (SROI) is an analytic tool used to quantify the social value created by investments, beyond the conventional financial returns typically emphasized in financial statements. SROI translates social impacts into measurable financial metrics, allowing investors, companies, and policymakers to understand the broader implications of their financial decisions. It is increasingly significant in today’s investment landscape as stakeholders demand greater accountability and transparency concerning the environmental, social, and governance (ESG) aspects of their investments.

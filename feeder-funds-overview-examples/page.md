@@ -1,6 +1,8 @@
 ---
-title: "Feeder Funds: Overview and Examples (Algo Trading)"
-description: "Explore the role of feeder funds in investment strategies, offering indirect access to diverse master funds. Learn how algorithmic trading enhances efficiency."
+category: quant_concept
+description: Explore the role of feeder funds in investment strategies, offering indirect
+  access to diverse master funds. Learn how algorithmic trading enhances efficiency.
+title: 'Feeder Funds: Overview and Examples (Algo Trading)'
 ---
 
 Investment funds are foundational elements in the construction of financial portfolios, providing investors with the advantages of diversification and professional management. Among the diverse array of investment strategies, feeder funds and algorithmic trading have emerged as significant and frequently discussed topics within the investment community. Feeder funds serve as a conduit, allowing investors to gain indirect exposure to master funds. This indirect exposure enables greater diversification and access to investment opportunities that might otherwise be challenging to attain for individual investors.

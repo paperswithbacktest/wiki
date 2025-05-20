@@ -1,6 +1,9 @@
 ---
-title: "Conventional Cash Flow (Algo Trading)"
-description: "Explore the fusion of cash flow analysis with algorithmic trading to understand financial health and enhance trading strategies for optimized investment outcomes."
+category: quant_concept
+description: Explore the fusion of cash flow analysis with algorithmic trading to
+  understand financial health and enhance trading strategies for optimized investment
+  outcomes.
+title: Conventional Cash Flow (Algo Trading)
 ---
 
 In an era increasingly dominated by data in financial markets, the intersection of cash flow analysis and algorithmic trading offers new opportunities for investors and financial professionals. Cash flow analysis is crucial, providing deep insights into a company's financial stability by examining the inflow and outflow of cash. This analysis is typically divided into three main parts: operating activities, investing activities, and financing activities, each offering unique insights into different aspects of a business’s financial health.

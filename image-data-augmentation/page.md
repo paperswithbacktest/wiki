@@ -1,7 +1,8 @@
 ---
-title: Practical Image Data Augmentation Guide for Machine Learning
+category: dataset
 description: Image data augmentation improves model accuracy by creating diverse training
   images with flips, color shifts, Mixup and AutoAugment Discover more inside.
+title: Practical Image Data Augmentation Guide for Machine Learning
 ---
 
 ![Image](images/1.webp)

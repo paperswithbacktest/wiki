@@ -1,6 +1,9 @@
 ---
-title: "Comparison of Mortgage and Paying Cash for Real Estate (Algo Trading)"
-description: "Explore the benefits and drawbacks of mortgages and cash in real estate, with insights into leveraging algorithmic trading to optimize property investment strategies."
+category: trading_strategy
+description: Explore the benefits and drawbacks of mortgages and cash in real estate,
+  with insights into leveraging algorithmic trading to optimize property investment
+  strategies.
+title: Comparison of Mortgage and Paying Cash for Real Estate (Algo Trading)
 ---
 
 The real estate market provides various options for purchasing property, with the two primary methods being taking out a mortgage or paying in cash. Mortgages involve borrowing capital from financial institutions, enabling buyers to leverage their investments potentially for higher returns, while cash purchases eliminate borrowing costs and complexities associated with loans. However, both methods have distinct advantages and drawbacks that must be considered when planning property investments.

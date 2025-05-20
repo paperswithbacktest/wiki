@@ -1,6 +1,8 @@
 ---
-title: "Manufacturing Production and Types (Algo Trading)"
-description: "Explore how manufacturing production types impact economic indicators and enhance algorithmic trading strategies for improved market predictions and efficiency."
+category: quant_concept
+description: Explore how manufacturing production types impact economic indicators
+  and enhance algorithmic trading strategies for improved market predictions and efficiency.
+title: Manufacturing Production and Types (Algo Trading)
 ---
 
 In the fast-paced world of finance and manufacturing, understanding how manufacturing production types intersect with algorithmic trading is crucial for gaining a strategic edge. As manufacturing processes drive economic activity, the data they generate hold significant value for traders. The focus of this article is to unravel how different manufacturing production types influence economic indicators and how these insights can be leveraged through algorithmic trading.

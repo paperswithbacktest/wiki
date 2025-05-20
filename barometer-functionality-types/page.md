@@ -1,6 +1,9 @@
 ---
-title: "Barometer: Functionality and Types (Algo Trading)"
-description: "Discover how barometers, like moving averages, transform algorithmic trading by gauging market trends and predicting economic conditions for informed decisions."
+category: quant_concept
+description: Discover how barometers, like moving averages, transform algorithmic
+  trading by gauging market trends and predicting economic conditions for informed
+  decisions.
+title: 'Barometer: Functionality and Types (Algo Trading)'
 ---
 
 Barometers, traditionally perceived as instruments for measuring atmospheric pressure, have evolved to represent significant tools beyond meteorology, finding their application in various domains, including financial markets. In finance, the term "barometer" metaphorically refers to indicators or measures that gauge the health, strength, and trends of economic and financial conditions. These financial barometers play a critical role in trading and economic forecasting, providing valuable insights into market dynamics.

@@ -1,6 +1,8 @@
 ---
-title: "Methods for Changing Financial Advisors (Algo Trading)"
-description: "Explore methods for adapting to the evolving role of financial advisors amid the rise of algorithmic trading and digital tools in modern finance."
+category: trading_strategy
+description: Explore methods for adapting to the evolving role of financial advisors
+  amid the rise of algorithmic trading and digital tools in modern finance.
+title: Methods for Changing Financial Advisors (Algo Trading)
 ---
 
 In the evolving world of finance, the role of financial advisors is undergoing significant transformation. The integration of technology, especially algorithmic trading, is reshaping the landscape of financial planning. Algorithmic trading, or algo trading, utilizes advanced computer systems to execute buying and selling decisions based on pre-set rules, removing much of the manual intervention traditionally associated with trading activities. This technological advancement is creating a dynamic shift in how financial advisors approach the management of their clients' investments.

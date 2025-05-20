@@ -1,6 +1,8 @@
 ---
-title: "Refunding Escrow Deposits (Algo Trading)"
-description: "Learn about escrow deposits and their refund process in financial and real estate transactions Discover how algorithmic trading enhances market efficiency"
+category: quant_concept
+description: Learn about escrow deposits and their refund process in financial and
+  real estate transactions Discover how algorithmic trading enhances market efficiency
+title: Refunding Escrow Deposits (Algo Trading)
 ---
 
 In this article, we will explore the interconnected topics of escrow accounts, escrow deposits, and the refund process. These mechanisms play a pivotal role in ensuring secure and efficient transactions in both the real estate and broader financial sectors. An escrow account acts as a safeguard, holding funds securely while conditions of a contractual agreement are yet to be fully met, thereby protecting both parties involved. The escrow deposit, a vital component, serves as a token of commitment, reinforcing trust within the transaction by demonstrating the buyer's intent.

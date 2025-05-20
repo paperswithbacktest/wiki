@@ -1,6 +1,8 @@
 ---
-title: "Largest Global Oil Companies (Algo Trading)"
-description: "Discover how algorithmic trading is transforming the financial operations of the largest oil companies globally and uncover key industry insights."
+category: dataset
+description: Discover how algorithmic trading is transforming the financial operations
+  of the largest oil companies globally and uncover key industry insights.
+title: Largest Global Oil Companies (Algo Trading)
 ---
 
 The global oil industry is a dynamic ecosystem comprising some of the world's largest companies that significantly influence the economic development and energy supply of many nations. These oil companies are integral to providing the energy needed for industrial operations, transportation, and residential use. They not only facilitate daily life through energy provision but also play a crucial role in the economic frameworks of countries, contributing to GDP and employment.

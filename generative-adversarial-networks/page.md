@@ -1,6 +1,9 @@
 ---
-title: "Generative Adversarial Networks (Algo Trading)"
-description: "Explore how Generative Adversarial Networks enhance algorithmic trading by simulating market conditions generating realistic data and refining strategies effectively."
+category: quant_concept
+description: Explore how Generative Adversarial Networks enhance algorithmic trading
+  by simulating market conditions generating realistic data and refining strategies
+  effectively.
+title: Generative Adversarial Networks (Algo Trading)
 ---
 
 The financial industry has long been a pioneer in harnessing technological advancements to enhance market operations and strategies. Algorithmic trading, a key element of this sector, exemplifies this trend by utilizing algorithms to automate trading decisions and executions based on pre-established criteria. In recent years, the convergence of machine learning with algorithmic trading has ushered in a new era of innovation, with Generative Adversarial Networks (GANs) at the forefront of this transformation.

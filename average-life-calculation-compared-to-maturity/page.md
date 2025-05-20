@@ -1,6 +1,9 @@
 ---
-title: "Average Life and Its Calculation Compared to Maturity (Algo Trading)"
-description: "Explore key concepts in finance with a focus on average life and maturity. Learn how these metrics aid in risk assessment and portfolio optimization in algorithmic trading."
+category: quant_concept
+description: Explore key concepts in finance with a focus on average life and maturity.
+  Learn how these metrics aid in risk assessment and portfolio optimization in algorithmic
+  trading.
+title: Average Life and Its Calculation Compared to Maturity (Algo Trading)
 ---
 
 In finance and trading, the ability to accurately evaluate investment opportunities is vital for making sound decisions. This article examines key concepts such as maturity, average life, and algorithmic trading. It emphasizes comparing average life with maturity in financial instruments, which are integral to understanding investment risks and performance potential.
@@ -189,4 +192,3 @@ The comprehensive understanding and practical application of both average life a
 10. **CFA Institute’s Curriculum.** Widely regarded as a leading resource for finance professionals, it covers principles related to average life, maturity, and other financial metrics crucial for investment analysis.
 
 These readings provide detailed perspectives on average life, maturity, and their relevance in finance, offering both theoretical and practical insights for investors and traders.
-

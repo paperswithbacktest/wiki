@@ -1,6 +1,8 @@
 ---
-title: "Clean Price: Meaning, Overview, and Examples (Algo Trading)"
-description: "Discover the importance of clean price in bond markets Understand its role in pricing trading and financial strategies with examples for better decisions"
+category: quant_concept
+description: Discover the importance of clean price in bond markets Understand its
+  role in pricing trading and financial strategies with examples for better decisions
+title: 'Clean Price: Meaning, Overview, and Examples (Algo Trading)'
 ---
 
 The world of finance offers a variety of investment options, among which bonds hold a prominent place. As debt securities issued by entities such as governments, municipalities, and corporations, bonds serve as a foundational component for the fixed-income market. They provide a predictable stream of income and are viewed as relatively safe investments when compared to equities. Bonds are crucial for portfolio diversification and risk management, making them attractive to both retail and institutional investors.

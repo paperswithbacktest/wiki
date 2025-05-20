@@ -1,6 +1,9 @@
 ---
-title: "Cinnober Financial Technology (Algo Trading)"
-description: "Cinnober Financial Technology, a pioneer in fintech, excels in innovative solutions for trading systems, enhancing efficiency, security, and transparency in global markets."
+category: quant_concept
+description: Cinnober Financial Technology, a pioneer in fintech, excels in innovative
+  solutions for trading systems, enhancing efficiency, security, and transparency
+  in global markets.
+title: Cinnober Financial Technology (Algo Trading)
 ---
 
 Cinnober Financial Technology has consistently led advancements in fintech solutions aimed at enhancing the financial trading industry. Since its inception, the company has garnered a reputation for providing some of the most advanced trading and clearing technologies available. These innovations are instrumental to leading financial markets worldwide, ensuring seamless operation and robust infrastructure.

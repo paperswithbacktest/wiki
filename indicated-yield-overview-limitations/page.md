@@ -1,6 +1,9 @@
 ---
-title: "Indicated Yield: Overview and Limitations (Algo Trading)"
-description: "Explore the importance of indicated yield as a forward-looking metric in finance Learn how algorithmic trading combines with yield metrics to optimize investment performance"
+category: quant_concept
+description: Explore the importance of indicated yield as a forward-looking metric
+  in finance Learn how algorithmic trading combines with yield metrics to optimize
+  investment performance
+title: 'Indicated Yield: Overview and Limitations (Algo Trading)'
 ---
 
 In the ever-evolving world of investing, understanding key metrics such as yield calculations and investment performance metrics is essential for making well-informed decisions. Yield calculations serve as the bedrock for evaluating the profitability and potential income of various investments. From stocks and bonds to mutual funds, these metrics offer insights into the expected returns, enabling investors to gauge the performance and financial health of their portfolios. Among these yield measures, indicated yield stands out as a forward-looking metric that predicts the annual dividend return of a stock based on its most recent dividend, providing critical foresight for investors seeking stable income sources.

@@ -1,6 +1,9 @@
 ---
-title: "Old Economy: Concepts and Examples (Algo Trading)"
-description: "Explore the key concepts and examples of the old economy focusing on traditional industries like manufacturing agriculture and mining and their historical significance."
+category: quant_concept
+description: Explore the key concepts and examples of the old economy focusing on
+  traditional industries like manufacturing agriculture and mining and their historical
+  significance.
+title: 'Old Economy: Concepts and Examples (Algo Trading)'
 ---
 
 The term 'Old Economy' refers to traditional industries and sectors that were prominent before the advent of digital technology. These industries primarily revolve around the production of tangible goods and the delivery of services that are heavily reliant on manual labor. Key sectors within the old economy include manufacturing, mining, and agriculture, all of which have played foundational roles in shaping modern economic structures. Manufacturing, for instance, has been pivotal in producing goods ranging from consumer products to industrial machinery, while agriculture has been essential in ensuring food security and raw material supply. Mining, on the other hand, has provided crucial resources such as coal and minerals, essential for various industrial applications.

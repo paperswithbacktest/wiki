@@ -1,6 +1,8 @@
 ---
-title: "Cash Disbursement Journal (Algo Trading)"
-description: "Discover how cash disbursement journals enhance financial management accuracy by tracking outgoing payments and supporting efficient algo trading strategies."
+category: quant_concept
+description: Discover how cash disbursement journals enhance financial management
+  accuracy by tracking outgoing payments and supporting efficient algo trading strategies.
+title: Cash Disbursement Journal (Algo Trading)
 ---
 
 In finance, efficient record-keeping and accurate financial reporting are crucial for strategic decision-making. These practices ensure that businesses can make informed choices, manage assets effectively, and comply with regulatory standards. One essential record-keeping tool is the cash disbursement journal, a vital component in accounting and financial management. Cash disbursement journals track all outgoing payments made by a business, providing a detailed account of each transaction, including the date, amount, and purpose.

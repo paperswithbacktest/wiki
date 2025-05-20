@@ -1,6 +1,8 @@
 ---
-title: "Asset Deficiency: Overview and Examples (Algo Trading)"
-description: "Explore asset deficiency in finance understand its impact on businesses and discover how algorithmic trading offers solutions for mitigating financial shortfalls."
+category: quant_concept
+description: Explore asset deficiency in finance understand its impact on businesses
+  and discover how algorithmic trading offers solutions for mitigating financial shortfalls.
+title: 'Asset Deficiency: Overview and Examples (Algo Trading)'
 ---
 
 In finance, understanding the interplay between business finance, asset deficiency, and financial shortfalls is crucial to maintaining financial health and corporate sustainability. Business finance encompasses the management of a company's resources, ensuring operational efficiency and facilitating growth. Meanwhile, asset deficiency, a situation where liabilities surpass assets, signals financial distress and increases the risk of default on financial obligations.

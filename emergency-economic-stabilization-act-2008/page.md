@@ -1,6 +1,8 @@
 ---
-title: "Emergency Economic Stabilization Act of 2008 (Algo Trading)"
-description: "Explore the Emergency Economic Stabilization Act of 2008 and its impact on financial markets and algorithmic trading during the global economic crisis."
+category: quant_concept
+description: Explore the Emergency Economic Stabilization Act of 2008 and its impact
+  on financial markets and algorithmic trading during the global economic crisis.
+title: Emergency Economic Stabilization Act of 2008 (Algo Trading)
 ---
 
 In 2008, the global economic landscape experienced an unprecedented upheaval due to a financial crisis that affected economies worldwide. This crisis, primarily rooted in the collapse of the subprime mortgage market in the United States, resulted in a cascading effect that permeated international financial systems. As financial institutions and banks faced substantial losses and a significant decline in consumer confidence ensued, there was an urgent need for intervention to restore stability and prevent further economic deterioration.

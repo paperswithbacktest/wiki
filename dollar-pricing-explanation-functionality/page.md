@@ -1,6 +1,9 @@
 ---
-title: "Dollar Pricing: Explanation and Functionality (Algo Trading)"
-description: "Explore the role of the U.S. dollar in global finance and how algorithmic trading influences currency exchange rates, aiding traders in navigating market dynamics."
+category: quant_concept
+description: Explore the role of the U.S. dollar in global finance and how algorithmic
+  trading influences currency exchange rates, aiding traders in navigating market
+  dynamics.
+title: 'Dollar Pricing: Explanation and Functionality (Algo Trading)'
 ---
 
 In today's dynamic financial markets, understanding currency exchange rates is crucial for traders, investors, and policymakers. Exchange rates influence the cost of imports and exports, affecting national economies and individual portfolios. An exchange rate reflects the relative value between two currencies, determined by factors such as interest rates, inflation, geopolitical stability, and market speculation.

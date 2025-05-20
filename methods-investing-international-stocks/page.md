@@ -1,6 +1,8 @@
 ---
-title: "Methods of Investing in International Stocks (Algo Trading)"
-description: "Explore methods of investing in international stocks including the advantages of diversification and the role of algorithmic trading in navigating global markets."
+category: trading_strategy
+description: Explore methods of investing in international stocks including the advantages
+  of diversification and the role of algorithmic trading in navigating global markets.
+title: Methods of Investing in International Stocks (Algo Trading)
 ---
 
 In recent years, international stocks have increasingly become a vital component of diversified investment portfolios. This trend reflects the burgeoning integration of global economies and the corresponding opportunities that arise for investors seeking to maximize returns and mitigate risks. Globalization has facilitated access to emerging and developed markets alike, providing investors with a broader spectrum of growth dynamics and potential profits.

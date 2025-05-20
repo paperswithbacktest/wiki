@@ -1,6 +1,9 @@
 ---
-title: "Asset-Based Lending Model (Algo Trading)"
-description: "Explore the connection between asset-based lending models and algorithmic trading to optimize financial strategies, enhance liquidity, and drive business growth."
+category: trading_strategy
+description: Explore the connection between asset-based lending models and algorithmic
+  trading to optimize financial strategies, enhance liquidity, and drive business
+  growth.
+title: Asset-Based Lending Model (Algo Trading)
 ---
 
 In today's rapidly evolving financial landscape, understanding diverse lending models and trading strategies is crucial for businesses. The finance industry continuously innovates, making it imperative for organizations to stay informed about new financial mechanisms that can drive strategic decision-making. This article explores the interplay between asset-based lending, various lending models, and algorithmic trading, critical elements that collectively influence the business financing environment. 

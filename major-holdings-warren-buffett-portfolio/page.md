@@ -1,6 +1,8 @@
 ---
-title: "Major Holdings in Warren Buffett's Investment Portfolio (Algo Trading)"
-description: "Discover Warren Buffett's major stock holdings in Berkshire Hathaway's diverse portfolio. Learn about value investing principles and the role of algo trading."
+category: trading_strategy
+description: Discover Warren Buffett's major stock holdings in Berkshire Hathaway's
+  diverse portfolio. Learn about value investing principles and the role of algo trading.
+title: Major Holdings in Warren Buffett's Investment Portfolio (Algo Trading)
 ---
 
 Warren Buffett is widely regarded as one of the most successful investors of all time. His legendary status in the field of investment is largely attributed to his company, Berkshire Hathaway, which holds a diversified investment portfolio. This portfolio attracts significant attention due to its composition and the insights it offers into Buffett's strategies. Known for his value-investing philosophy, Buffett emphasizes choosing stocks that are undervalued relative to their intrinsic worth. This approach has guided Berkshire Hathaway to achieve substantial returns over several decades, often outpacing broader market indices like the S&P 500.

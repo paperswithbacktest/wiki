@@ -1,6 +1,13 @@
 ---
-title: "EBITDAR Overview (Algo Trading)"
-description: "Explore the significance of EBITDAR in business valuation and algorithmic trading. Understand how it differs from traditional EBITDA by factoring in rent and restructuring costs to offer a clearer picture of operational performance. Learn how EBITDAR helps analysts and investors evaluate companies with high fixed costs, aiding in strategic investment decisions. Discover its role in algorithmic trading systems which leverage financial metrics for data-driven market analysis and investment strategy optimization."
+category: quant_concept
+description: Explore the significance of EBITDAR in business valuation and algorithmic
+  trading. Understand how it differs from traditional EBITDA by factoring in rent
+  and restructuring costs to offer a clearer picture of operational performance. Learn
+  how EBITDAR helps analysts and investors evaluate companies with high fixed costs,
+  aiding in strategic investment decisions. Discover its role in algorithmic trading
+  systems which leverage financial metrics for data-driven market analysis and investment
+  strategy optimization.
+title: EBITDAR Overview (Algo Trading)
 ---
 
 In today's financial landscape, understanding key financial metrics is crucial for assessing business performance and making strategic decisions. Among these metrics, EBITDAR—an extension of the more commonly known EBITDA—plays a significant role. EBITDAR, which stands for "earnings before interest, taxes, depreciation, amortization, and restructuring or rent costs," provides a nuanced understanding of a company's operational performance. This is particularly relevant for companies that incur significant expenses related to rent or restructuring, such as those in the retail or hospitality industries, where rent constitutes a substantial portion of operating costs.

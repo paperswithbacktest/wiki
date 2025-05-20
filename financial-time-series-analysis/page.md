@@ -1,6 +1,8 @@
 ---
-title: "Financial Time Series Analysis (Algo Trading)"
-description: "Unlock your trading potential with financial time series analysis Learn to leverage data patterns and advanced models to enhance algorithmic trading strategies"
+category: quant_concept
+description: Unlock your trading potential with financial time series analysis Learn
+  to leverage data patterns and advanced models to enhance algorithmic trading strategies
+title: Financial Time Series Analysis (Algo Trading)
 ---
 
 Financial time series analysis is a cornerstone of quantitative finance and algorithmic trading. By examining sequentially ordered financial data, analysts can identify patterns, forecast future movements, and enhance decision-making processes in trading activities. This analysis is pivotal for developing effective algorithmic trading strategies, as it leverages historical data to anticipate market trends.

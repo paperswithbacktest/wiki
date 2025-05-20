@@ -1,6 +1,8 @@
 ---
-title: "Problem Child: Definition and Function (Algo Trading)"
-description: "Explore the intersection of child behavior psychology and algorithmic trading to understand complex human actions and apply insights to financial markets."
+category: quant_concept
+description: Explore the intersection of child behavior psychology and algorithmic
+  trading to understand complex human actions and apply insights to financial markets.
+title: 'Problem Child: Definition and Function (Algo Trading)'
 ---
 
 In today's fast-paced world, understanding behavior, whether it pertains to children or stock markets, is vital. Human behavior, with its complexities and nuances, plays a significant role in various aspects of life, from parenting to financial investment. This article explores the intriguing intersection between child behavior psychology and algorithmic trading. Behavioral theories, which traditionally aid in comprehending children's actions, are increasingly being recognized for their potential to inform sophisticated investment strategies.

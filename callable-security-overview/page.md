@@ -1,6 +1,9 @@
 ---
-title: "Callable Security Overview (Algo Trading)"
-description: "Explore the benefits and risks of callable securities and algorithmic trading in modern finance Understand strategic investment options to optimize portfolio returns"
+category: quant_concept
+description: Explore the benefits and risks of callable securities and algorithmic
+  trading in modern finance Understand strategic investment options to optimize portfolio
+  returns
+title: Callable Security Overview (Algo Trading)
 ---
 
 In the ever-evolving financial landscape, investors continuously seek diversified strategies to maximize their portfolio returns. With markets becoming increasingly complex and interconnected, understanding the variety of investment instruments and strategies available is crucial for achieving optimal performance.
@@ -170,4 +173,3 @@ This section provides further reading materials and source references for deeper
   - Online platforms like Github and Stack Overflow have dedicated communities where developers share code snippets and algorithms for trading systems.
 
 Investors are encouraged to continue their education journey to fully grasp the complexities of financial instruments and strategies. Understanding these resources and utilizing them in practice can significantly enhance investment acumen and portfolio management skills.
-

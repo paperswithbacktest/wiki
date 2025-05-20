@@ -1,6 +1,8 @@
 ---
-title: "regulatory impact on trading (Algo Trading)"
-description: "Explore how regulatory changes affect algorithmic trading, focusing on enhancing transparency and security while balancing innovation and market integrity."
+category: quant_concept
+description: Explore how regulatory changes affect algorithmic trading, focusing on
+  enhancing transparency and security while balancing innovation and market integrity.
+title: regulatory impact on trading (Algo Trading)
 ---
 
 Algorithmic trading, commonly referred to as Algo Trading, has fundamentally reshaped financial markets by enhancing speed, precision, and efficiency in trade executions. Unlike manual trading, algorithmic trading utilizes complex algorithms and high-frequency trading strategies to systematically execute orders based on pre-defined criteria, offering a significant edge in terms of timing and volume control.

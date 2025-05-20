@@ -1,6 +1,9 @@
 ---
-title: "Accidental High Yielder (Algo Trading)"
-description: "Discover accidental high-yield opportunities in algo trading Leverage powerful algorithms to identify undervalued assets and maximize returns with minimal risk"
+category: trading_strategy
+description: Discover accidental high-yield opportunities in algo trading Leverage
+  powerful algorithms to identify undervalued assets and maximize returns with minimal
+  risk
+title: Accidental High Yielder (Algo Trading)
 ---
 
 High-yield investing strategies have long been a focal point for investors seeking higher returns. These strategies primarily revolve around targeting assets that offer elevated yields compared to market averages, such as dividend stocks, high-yield bonds, and real estate investments. Accidental yield refers to a scenario where assets unexpectedly provide higher returns, often due to market dislocations or temporary imbalances. Such opportunities may arise from unforeseen market conditions that lead to an asset being undervalued or oversold, subsequently resulting in a higher yield.

@@ -1,6 +1,8 @@
 ---
-title: "Earnings Announcements and Their Market Impact (Algo Trading)"
-description: "Explore the market impact of earnings announcements and learn how algorithmic trading can optimize strategies during earnings seasons for improved outcomes."
+category: quant_concept
+description: Explore the market impact of earnings announcements and learn how algorithmic
+  trading can optimize strategies during earnings seasons for improved outcomes.
+title: Earnings Announcements and Their Market Impact (Algo Trading)
 ---
 
 In the dynamic universe of financial markets, earnings announcements command attention for their profound impact on market activities. These announcements serve as a crucial indicator of a company's financial performance and health, often leading to significant fluctuations in stock prices. The fluctuations are primarily driven by the variance of actual results when compared against analysts' predictions. When a company's reported earnings exceed expectations, it often results in a positive market reaction, whereas falling short can lead to a decline in stock prices.
@@ -196,4 +198,3 @@ Ultimately, the strategic use of algorithmic trading in conjunction with earning
 - Zhang, X., Ma, G., & Ji, L. (2020). "Stock Price Prediction based on SSA-SVR and Time Series Features." *Procedia Computer Science*, 174, 917–925. This article discusses alternative techniques for stock price prediction, which can be integrated into algorithmic trading models to enhance performance during volatile periods like earnings seasons.
 
 These resources collectively offer insights into the methodologies, tools, and theoretical underpinnings necessary for traders to effectively incorporate earnings announcements into algorithmic trading strategies.
-

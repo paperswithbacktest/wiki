@@ -1,6 +1,8 @@
 ---
-title: "Verition Fund Management (Algo Trading)"
-description: "Discover Verition Fund Management's unique blend of algorithmic trading and traditional strategies for superior fund management and performance."
+category: trading_strategy
+description: Discover Verition Fund Management's unique blend of algorithmic trading
+  and traditional strategies for superior fund management and performance.
+title: Verition Fund Management (Algo Trading)
 ---
 
 Verition Fund Management is a prominent hedge fund known for its innovative approach in the finance industry. Established in 2008, the firm has carved a niche for itself by integrating sophisticated algorithmic trading strategies with traditional investment methodologies. This blend demonstrates Verition's commitment to leveraging technology for enhanced financial performance and risk management, setting it apart in the competitive landscape of fund management.

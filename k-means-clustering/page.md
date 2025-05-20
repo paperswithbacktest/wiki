@@ -1,6 +1,9 @@
 ---
-title: "K-means clustering (Algo Trading)"
-description: "Explore how K-means clustering enhances algorithmic trading by identifying data patterns with innovative integration of technical indicators like RSI for profitable strategies."
+category: quant_concept
+description: Explore how K-means clustering enhances algorithmic trading by identifying
+  data patterns with innovative integration of technical indicators like RSI for profitable
+  strategies.
+title: K-means clustering (Algo Trading)
 ---
 
 K-means clustering is a widely-used algorithm in unsupervised machine learning designed to partition data into distinct clusters based on feature similarity. Its popularity arises from its simplicity and efficiency in handling large datasets, making it a valuable tool across various industries. In algorithmic trading, K-means clustering is particularly useful in analyzing financial data to identify patterns that may suggest trading opportunities.

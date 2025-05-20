@@ -1,6 +1,9 @@
 ---
-title: "Old Mission Capital (Algo Trading)"
-description: "Explore how Old Mission Capital leverages technology in algorithmic trading to optimize efficiency innovate strategies and enhance trading outcomes in financial markets."
+category: quant_concept
+description: Explore how Old Mission Capital leverages technology in algorithmic trading
+  to optimize efficiency innovate strategies and enhance trading outcomes in financial
+  markets.
+title: Old Mission Capital (Algo Trading)
 ---
 
 Algorithmic trading, a revolution in the financial trading landscape, utilizes computer algorithms to execute trading orders at speeds and frequencies that human traders cannot achieve. This approach has transformed trading methodologies by automating the process through precise mathematical models, making it indispensable in modern financial markets. The importance of algorithmic trading lies in its ability to analyze vast datasets swiftly, react to market changes with minimal latency, and eliminate human emotional biases, leading to more efficient and effective trading outcomes.

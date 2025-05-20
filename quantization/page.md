@@ -1,10 +1,9 @@
 ---
-title: Quantization in Machine Learning Models for Efficient Deployment
+category: quant_concept
 description: Quantization in machine learning shrinks model size and speeds up inference
   on low-power devices while preserving accuracy Discover more inside.
+title: Quantization in Machine Learning Models for Efficient Deployment
 ---
-
-
 
 ## Table of Contents
 

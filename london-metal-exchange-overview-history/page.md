@@ -1,6 +1,9 @@
 ---
-title: "London Metal Exchange: Overview and History (Algo Trading)"
-description: "Explore the London Metal Exchange's rich history and its evolution into modern digital trading, highlighting the impact of algorithmic trading on market dynamics."
+category: quant_concept
+description: Explore the London Metal Exchange's rich history and its evolution into
+  modern digital trading, highlighting the impact of algorithmic trading on market
+  dynamics.
+title: 'London Metal Exchange: Overview and History (Algo Trading)'
 ---
 
 The London Metal Exchange (LME) is an essential component of the global commodities market, where it specializes in the trading of metal futures and options. Established in 1877, the LME has grown to become the largest market for these transactions globally. Its long history underscores its continuing importance and resilience in the continuously evolving financial environment. Over the years, the LME has witnessed numerous technological advancements that have shaped its trading processes. One of the most significant developments has been the rise of algorithmic trading, which leverages advanced algorithms to optimize the execution of trades.

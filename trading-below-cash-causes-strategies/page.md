@@ -1,6 +1,8 @@
 ---
-title: "Trading Below Cash: Causes and Strategies (Algo Trading)"
-description: "Explore causes and strategies in trading below cash with insights into stock valuation, cash flow analysis, and algorithmic trading to optimize investments."
+category: trading_strategy
+description: Explore causes and strategies in trading below cash with insights into
+  stock valuation, cash flow analysis, and algorithmic trading to optimize investments.
+title: 'Trading Below Cash: Causes and Strategies (Algo Trading)'
 ---
 
 Understanding the core concepts of stock valuation, cash flow analysis, trading strategies, and algorithmic trading (algo trading) is crucial for investors seeking to optimize their portfolios effectively in the ever-evolving landscape of finance. These components are foundational to making informed investment decisions, blending traditional methodologies with modern innovations to navigate the complexities of financial markets.

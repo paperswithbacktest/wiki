@@ -1,8 +1,9 @@
 ---
-title: Understanding Machine Learning Confidence Estimators with MACEst
+category: quant_concept
 description: Machine learning confidence estimators reveal how sure models are about
   predictions using techniques like MACEst for more reliable decision making Discover
   more inside.
+title: Understanding Machine Learning Confidence Estimators with MACEst
 ---
 
 ![Image](images/1.png)

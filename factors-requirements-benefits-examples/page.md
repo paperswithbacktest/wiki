@@ -1,6 +1,8 @@
 ---
-title: "Factors: Requirements, Benefits, and Examples (Algo Trading)"
-description: "Explore the world of algorithmic trading uncovering essential requirements key benefits and illustrative examples that highlight its role in modern markets."
+category: trading_strategy
+description: Explore the world of algorithmic trading uncovering essential requirements
+  key benefits and illustrative examples that highlight its role in modern markets.
+title: 'Factors: Requirements, Benefits, and Examples (Algo Trading)'
 ---
 
 Algorithmic trading, often referred to as algo-trading, signifies the use of computer algorithms to execute trading orders. These algorithms manage the trading process based on predefined instructions and parameters, such as timing, price, or volume, and are crucial in modern financial markets due to their ability to execute orders at a higher speed and frequency than human traders.

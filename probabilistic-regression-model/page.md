@@ -1,10 +1,9 @@
 ---
-title: Understanding Probabilistic Regression Models in Machine Learning
+category: quant_concept
 description: Probabilistic regression models output prediction ranges and likelihood
   measures to quantify uncertainty and guide decision making. Discover more inside.
+title: Understanding Probabilistic Regression Models in Machine Learning
 ---
-
-
 
 ## Table of Contents
 

@@ -1,6 +1,9 @@
 ---
-title: "Comparison of Weighted Average, FIFO, and LIFO Accounting Methods (Algo Trading)"
-description: "Explore how Weighted Average FIFO and LIFO accounting methods impact algo trading firms. Learn their effects on COGS, tax obligations, and financial analysis."
+category: quant_concept
+description: Explore how Weighted Average FIFO and LIFO accounting methods impact
+  algo trading firms. Learn their effects on COGS, tax obligations, and financial
+  analysis.
+title: Comparison of Weighted Average, FIFO, and LIFO Accounting Methods (Algo Trading)
 ---
 
 Understanding the nuances of inventory accounting is crucial for businesses, particularly those involved in algorithmic trading. Inventory accounting helps firms accurately document the cost of goods and manage their financial records. This ensures that they present a clear picture of their financial health and comply with regulatory standards.

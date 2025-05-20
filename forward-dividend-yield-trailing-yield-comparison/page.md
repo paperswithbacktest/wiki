@@ -1,6 +1,8 @@
 ---
-title: "Forward Dividend Yield and Trailing Yield Comparison (Algo Trading)"
-description: "Compare trailing and forward dividend yields for trading strategies and discover their significance in algorithmic trading. Enhance portfolio returns efficiently."
+category: quant_concept
+description: Compare trailing and forward dividend yields for trading strategies and
+  discover their significance in algorithmic trading. Enhance portfolio returns efficiently.
+title: Forward Dividend Yield and Trailing Yield Comparison (Algo Trading)
 ---
 
 Dividend yield is a fundamental metric in investment strategies, representing the annual dividend income an investor receives relative to the price of the stock. Typically expressed as a percentage, it is calculated by dividing the annual dividends per share by the current market price per share. The dividend yield offers a direct insight into the income-generating ability of an equity investment, thus serving as a critical factor in stock analysis and investment decisions.

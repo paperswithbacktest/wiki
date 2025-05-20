@@ -1,7 +1,8 @@
 ---
-title: Pruning Methods for Efficient Machine Learning Models
+category: quant_concept
 description: Machine learning pruning simplifies models by removing redundant weights
   and neurons to boost efficiency and reduce overfitting. Discover more inside.
+title: Pruning Methods for Efficient Machine Learning Models
 ---
 
 ![Image](images/1.png)

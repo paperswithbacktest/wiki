@@ -1,6 +1,8 @@
 ---
-title: "Impact of Monopolies on Markets (Algo Trading)"
-description: "Explore the impacts of monopolies on market dynamics and algo trading uncovering how pricing strategies and technological advances shape modern economies."
+category: quant_concept
+description: Explore the impacts of monopolies on market dynamics and algo trading
+  uncovering how pricing strategies and technological advances shape modern economies.
+title: Impact of Monopolies on Markets (Algo Trading)
 ---
 
 Monopolies, defined as market structures where a single firm controls the entire market supply of a product or service, play a crucial role in economics. These entities have the power to influence prices and output levels, often leading to reduced competition and consumer choice. Monopolies can emerge through various pathways such as government regulation, ownership of key resources, strategic mergers, or innovation that outpaces competitors. Their economic significance is rooted in their ability to dictate market conditions, influence economic efficiency, and impact consumer welfare through their pricing strategies and control over supply chains.

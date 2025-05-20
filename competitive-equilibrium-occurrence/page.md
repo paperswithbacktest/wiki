@@ -1,6 +1,9 @@
 ---
-title: "Competitive Equilibrium and Occurrence (Algo Trading)"
-description: "Explore the role of competitive equilibrium in economics and its application in algorithmic trading highlighting market efficiency resource allocation and trading strategies."
+category: quant_concept
+description: Explore the role of competitive equilibrium in economics and its application
+  in algorithmic trading highlighting market efficiency resource allocation and trading
+  strategies.
+title: Competitive Equilibrium and Occurrence (Algo Trading)
 ---
 
 Market equilibrium is a foundational concept in economics that describes a state where the quantity of goods supplied matches the quantity demanded, resulting in a stable price level. This balance ensures that neither excess surplus nor shortage exists, fostering stability and predictability within the economy. Within this broader framework lies competitive equilibrium, where producers and consumers optimize their individual benefits, or utilities, under free market conditions. At this point, prices adjust to reflect both parties' preferences and resources, yielding an efficient allocation of resources. 

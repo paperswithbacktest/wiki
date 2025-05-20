@@ -1,6 +1,9 @@
 ---
-title: "Treynor Ratio: Definition and Calculation Formula (Algo Trading)"
-description: "Explore the significance of the Treynor Ratio in algorithmic trading with insights into risk-adjusted returns and its application in optimizing investment strategies."
+category: quant_concept
+description: Explore the significance of the Treynor Ratio in algorithmic trading
+  with insights into risk-adjusted returns and its application in optimizing investment
+  strategies.
+title: 'Treynor Ratio: Definition and Calculation Formula (Algo Trading)'
 ---
 
 The finance and investment sectors are continuously transforming, with a heightened emphasis on risk measurement and performance evaluation, which are becoming essential for both investors and traders. Amidst various metrics used to assess investment performance, the Treynor Ratio stands out, especially in the context of algorithmic trading. This article aims to shed light on the Treynor Ratio, elaborating on its importance and functionality in assessing risk-adjusted returns. We will examine how the Treynor Ratio plays a crucial role in evaluating investment performance and how it is applied in algorithmic trading strategies. By comprehending these aspects, investors can improve portfolio management and enhance investment strategies.

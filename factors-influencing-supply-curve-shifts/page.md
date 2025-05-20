@@ -1,6 +1,9 @@
 ---
-title: "Factors Influencing Supply Curve Shifts (Algo Trading)"
-description: "Explore how supply curve shifts impact market dynamics and algorithmic trading, focusing on technological, cost, and regulatory influences in financial strategies."
+category: quant_concept
+description: Explore how supply curve shifts impact market dynamics and algorithmic
+  trading, focusing on technological, cost, and regulatory influences in financial
+  strategies.
+title: Factors Influencing Supply Curve Shifts (Algo Trading)
 ---
 
 In today's dynamic economic environment, understanding the factors that influence supply and demand is crucial for making informed financial decisions. Supply shifts—changes in the position of the supply curve—reflect these underlying influences and have significant implications for market equilibrium. A thorough comprehension of these shifts enables market participants to better anticipate price changes and adjust their strategies accordingly.

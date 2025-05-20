@@ -1,6 +1,9 @@
 ---
-title: "Origins of the GBP/USD Currency Pair's Nickname 'Cable' (Algo Trading)"
-description: "Explore the origins of the GBP/USD forex pair's nickname 'Cable' and discover how algorithmic trading can enhance its profitability through precision and speed."
+category: quant_concept
+description: Explore the origins of the GBP/USD forex pair's nickname 'Cable' and
+  discover how algorithmic trading can enhance its profitability through precision
+  and speed.
+title: Origins of the GBP/USD Currency Pair's Nickname 'Cable' (Algo Trading)
 ---
 
 The GBP/USD currency pair is a cornerstone of the foreign exchange (forex) market, commonly referred to as the "Cable." This nickname originates from the 19th century, when the transatlantic telegraph cable was first laid down, enabling instant communication of currency prices between London and New York. This historical context underscores the deep-seated trading relationship between the United Kingdom and the United States.

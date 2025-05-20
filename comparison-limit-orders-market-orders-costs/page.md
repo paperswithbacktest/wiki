@@ -1,6 +1,8 @@
 ---
-title: "Comparison of Limit Orders and Market Orders Costs (Algo Trading)"
-description: "Compare the costs of limit and market orders in algo trading to optimize your strategy Understand each order type's impact on fees and execution outcomes"
+category: quant_concept
+description: Compare the costs of limit and market orders in algo trading to optimize
+  your strategy Understand each order type's impact on fees and execution outcomes
+title: Comparison of Limit Orders and Market Orders Costs (Algo Trading)
 ---
 
 Trading in financial markets involves various types of orders, each with its own advantages and drawbacks. A fundamental understanding of these orders is vital for investors aiming to navigate the ever-evolving landscape of financial markets effectively. Market orders and limit orders are among the most commonly used order types by investors and traders. Each serves distinct purposes and comes with specific cost implications, affecting overall trading strategy and outcomes.

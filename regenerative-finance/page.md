@@ -1,6 +1,16 @@
 ---
-title: "Regenerative Finance (Algo Trading)"
-description: "Regenerative Finance represents a groundbreaking shift towards combining finance and sustainability through innovative concepts like blockchain and algorithmic trading. With an emphasis on ecological and social regeneration, ReFi challenges traditional financial systems by fostering processes that rejuvenate natural and social resources. By integrating blockchain technology, ReFi ensures transparency and equity, empowering local communities and promoting inclusive participation in sustainable development. The synergy with algorithmic trading enables optimized investments in green sectors, aiming to revolutionize strategies towards sustainable financial growth. ReFi is poised to redefine financial markets, aligning economic incentives with ecological stewardship and social responsibility."
+category: quant_concept
+description: Regenerative Finance represents a groundbreaking shift towards combining
+  finance and sustainability through innovative concepts like blockchain and algorithmic
+  trading. With an emphasis on ecological and social regeneration, ReFi challenges
+  traditional financial systems by fostering processes that rejuvenate natural and
+  social resources. By integrating blockchain technology, ReFi ensures transparency
+  and equity, empowering local communities and promoting inclusive participation in
+  sustainable development. The synergy with algorithmic trading enables optimized
+  investments in green sectors, aiming to revolutionize strategies towards sustainable
+  financial growth. ReFi is poised to redefine financial markets, aligning economic
+  incentives with ecological stewardship and social responsibility.
+title: Regenerative Finance (Algo Trading)
 ---
 
 Regenerative Finance, commonly referred to as ReFi, represents a transformative shift at the confluence of finance and sustainability. This innovative concept seeks to leverage advanced technologies, notably blockchain, to construct an economic framework that actively promotes ecological and social regeneration. Traditional financial systems have long been critiqued for prioritizing short-term monetary gains often at the expense of environmental health and social equity. In contrast, ReFi aims to foster a financial ecosystem that supports regenerative processes — restoring and revitalizing ecological and social systems while maintaining economic viability.

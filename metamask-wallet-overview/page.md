@@ -1,6 +1,9 @@
 ---
-title: "MetaMask Wallet Overview (Algo Trading)"
-description: "Explore the integration of MetaMask in algorithmic trading and cryptocurrency management. Discover how this wallet enhances trading efficiency and blockchain interactions."
+category: quant_concept
+description: Explore the integration of MetaMask in algorithmic trading and cryptocurrency
+  management. Discover how this wallet enhances trading efficiency and blockchain
+  interactions.
+title: MetaMask Wallet Overview (Algo Trading)
 ---
 
 Blockchain technology, since its inception, has emerged as a groundbreaking innovation with the potential to transform a multitude of industries. At its core, blockchain is a decentralized ledger that ensures transactions are secure, transparent, and immutable. This revolutionary framework has been widely adopted in sectors such as finance, supply chain, healthcare, and more, dramatically altering how data is stored and managed.

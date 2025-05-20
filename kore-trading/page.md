@@ -1,6 +1,9 @@
 ---
-title: "Kore Trading (Algo Trading)"
-description: "Kore Trading empowers modern traders with advanced algorithmic trading solutions promoting speed precision and innovation essential for today's fast-paced markets."
+category: trading_strategy
+description: Kore Trading empowers modern traders with advanced algorithmic trading
+  solutions promoting speed precision and innovation essential for today's fast-paced
+  markets.
+title: Kore Trading (Algo Trading)
 ---
 
 Kore Trading has emerged as a formidable player in the competitive landscape of algorithmic trading, offering innovative solutions that cater to the needs of modern traders. This type of trading, commonly known as algo trading, relies on computer algorithms to execute orders, providing significant advantages in speed and complexity. By automating trading decisions and actions, algorithmic trading allows market participants to efficiently analyze various market parameters such as price, timing, volume, and more, often producing results that are superior to those achieved by human traders alone.

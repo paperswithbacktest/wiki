@@ -1,6 +1,9 @@
 ---
-title: "Key Rate Duration and Its Calculation (Algo Trading)"
-description: "Understand key rate duration and its calculation for accurate bond price sensitivity assessment with this comprehensive guide tailored for investors and traders."
+category: quant_concept
+description: Understand key rate duration and its calculation for accurate bond price
+  sensitivity assessment with this comprehensive guide tailored for investors and
+  traders.
+title: Key Rate Duration and Its Calculation (Algo Trading)
 ---
 
 Understanding key rate duration is crucial in financial markets, particularly for investors and portfolio managers dealing with debt securities. Key rate duration is a more sophisticated measurement tool compared to traditional duration measures, catering to complex market environments. Traditional duration measures, such as Macaulay duration or modified duration, provide a single value indicating the sensitivity of a bond's price to interest rate changes. However, they assume parallel shifts in the yield curve, which are rare in reality. Key rate duration offers a more nuanced approach by quantifying the sensitivity of a bond's price to changes in interest rates at specific maturity points along the yield curve. This allows investors to pinpoint how particular segments of the yield curve affect a bond's value.

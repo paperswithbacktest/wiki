@@ -1,6 +1,13 @@
 ---
-title: "Spot Next: Meaning and Functionality with Example (Algo Trading)"
-description: "Explore the pivotal concept of Spot Next in the Forex market where transactions settle a day after the spot date to manage liquidity and exposure effectively. Discover how algorithmic trading systems enhance strategy optimization by executing trades with speed and precision thus avoiding human error. Understand the benefits and functionalities of algorithmic trading in Spot Next transactions and learn how this technology can improve trading efficiency and effectiveness in the ever-evolving Forex landscape."
+category: quant_concept
+description: Explore the pivotal concept of Spot Next in the Forex market where transactions
+  settle a day after the spot date to manage liquidity and exposure effectively. Discover
+  how algorithmic trading systems enhance strategy optimization by executing trades
+  with speed and precision thus avoiding human error. Understand the benefits and
+  functionalities of algorithmic trading in Spot Next transactions and learn how this
+  technology can improve trading efficiency and effectiveness in the ever-evolving
+  Forex landscape.
+title: 'Spot Next: Meaning and Functionality with Example (Algo Trading)'
 ---
 
 The global foreign exchange (Forex) market functions as one of the largest and most liquid markets globally, with daily trading volumes exceeding $6 trillion. Within this intricate financial landscape, Spot Next emerges as a pivotal concept, indicating the settlement of a foreign exchange transaction on the day following the spot date. Such transactions are essential for traders who wish to manage liquidity and exposure effectively, especially for short-term currency swaps.

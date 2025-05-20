@@ -1,6 +1,8 @@
 ---
-title: "Ingot: Definition, Function, and Types (Algo Trading)"
-description: "Explore the essential role of metal ingots in industry and trading, linking their historical importance to modern algorithmic trading in metal commodities."
+category: quant_concept
+description: Explore the essential role of metal ingots in industry and trading, linking
+  their historical importance to modern algorithmic trading in metal commodities.
+title: 'Ingot: Definition, Function, and Types (Algo Trading)'
 ---
 
 In commerce and production, metal ingots are crucial components within the metal casting industries. These blocks of metal are not just utilitarian; they carry significant historical and economic value. The creation and use of ingots reflect the advancements in metallurgy and the development of economic systems over time.

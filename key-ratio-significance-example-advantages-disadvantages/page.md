@@ -1,6 +1,8 @@
 ---
-title: "Key Ratio: Significance, Example, Advantages and Disadvantages (Algo Trading)"
-description: "Discover the significance of key financial ratios in algorithmic trading explore their advantages and disadvantages for informed financial analysis and strategy."
+category: quant_concept
+description: Discover the significance of key financial ratios in algorithmic trading
+  explore their advantages and disadvantages for informed financial analysis and strategy.
+title: 'Key Ratio: Significance, Example, Advantages and Disadvantages (Algo Trading)'
 ---
 
 The financial world has long relied on key financial ratios and algorithmic trading to achieve transparency and efficiency in financial analysis and decision-making. These tools have become integral for investors and analysts seeking a comprehensive understanding of a company's financial health and performance, as well as for developing effective trading strategies. 

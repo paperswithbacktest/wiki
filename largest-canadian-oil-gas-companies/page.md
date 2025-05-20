@@ -1,6 +1,14 @@
 ---
-title: "Largest Canadian Oil and Gas Companies (Algo Trading)"
-description: "Explore the dynamic landscape of Canada's oil and gas industry, a cornerstone of the national economy and a key player in global energy markets. Discover how the sector is segmented into upstream, midstream, and downstream activities, each contributing to the efficient supply chain from exploration to consumer distribution. With a focus on Alberta's oil sands, learn about the technological advancements and algorithmic trading strategies that enhance productivity and market stability. Stay informed about key companies like Cenovus Energy, Suncor Energy, and Imperial Oil as they navigate environmental challenges and market fluctuations."
+category: dataset
+description: Explore the dynamic landscape of Canada's oil and gas industry, a cornerstone
+  of the national economy and a key player in global energy markets. Discover how
+  the sector is segmented into upstream, midstream, and downstream activities, each
+  contributing to the efficient supply chain from exploration to consumer distribution.
+  With a focus on Alberta's oil sands, learn about the technological advancements
+  and algorithmic trading strategies that enhance productivity and market stability.
+  Stay informed about key companies like Cenovus Energy, Suncor Energy, and Imperial
+  Oil as they navigate environmental challenges and market fluctuations.
+title: Largest Canadian Oil and Gas Companies (Algo Trading)
 ---
 
 The gas industry in Canada occupies a pivotal position within both the national economy and the broader global energy framework. As the world's fourth-largest oil producer, Canada’s oil and gas sector is integral to international energy supply chains and economic systems. This sector is methodically categorized into three fundamental segments: upstream, midstream, and downstream.

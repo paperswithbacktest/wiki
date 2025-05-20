@@ -1,6 +1,9 @@
 ---
-title: "Intertemporal Capital Asset Pricing Model (Algo Trading)"
-description: "Explore the role of the Intertemporal Capital Asset Pricing Model in algorithmic trading Dive into advanced models to enhance asset pricing strategies and risk management"
+category: quant_concept
+description: Explore the role of the Intertemporal Capital Asset Pricing Model in
+  algorithmic trading Dive into advanced models to enhance asset pricing strategies
+  and risk management
+title: Intertemporal Capital Asset Pricing Model (Algo Trading)
 ---
 
 In today's rapidly evolving financial markets, a robust understanding of the sophisticated models and strategies used in asset pricing and trading is crucial for gaining a competitive edge. This article investigates the intricate connection between financial models, asset pricing, and algorithmic trading, drawing particular attention to the Intertemporal Capital Asset Pricing Model (ICAPM). Financial models serve as fundamental tools in the arsenal of algorithmic trading, equipping investors with the ability to make informed decisions based on sound quantitative principles.

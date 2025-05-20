@@ -1,7 +1,8 @@
 ---
-title: Medical Image Analysis Models Transforming Healthcare Diagnostics
+category: quant_concept
 description: Medical image analysis models leverage AI to detect anomalies in X-rays
   and MRIs boosting speed and accuracy for patient care Discover more inside
+title: Medical Image Analysis Models Transforming Healthcare Diagnostics
 ---
 
 ![Image](images/1.jpeg)

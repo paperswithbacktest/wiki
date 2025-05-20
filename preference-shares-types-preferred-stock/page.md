@@ -1,6 +1,9 @@
 ---
-title: "Preference Shares and Types of Preferred Stock (Algo Trading)"
-description: "Explore different types of preferred stocks and discover how algorithmic trading enhances investment strategies by optimizing trades and increasing market efficiency."
+category: quant_concept
+description: Explore different types of preferred stocks and discover how algorithmic
+  trading enhances investment strategies by optimizing trades and increasing market
+  efficiency.
+title: Preference Shares and Types of Preferred Stock (Algo Trading)
 ---
 
 The world of investment offers a myriad of opportunities, with preferred stocks being one of them. Preferred stocks, also known as preference shares, combine features of both equity and debt, providing investors with unique benefits. Unlike common stocks, preferred stocks typically offer fixed dividend payments and have a higher claim on assets in the event of company liquidation, making them an attractive option for investors seeking a hybrid investment vehicle. Their dual nature allows investors to enjoy the benefit of receiving regular income from dividends while having potential upside tied to the equity markets.

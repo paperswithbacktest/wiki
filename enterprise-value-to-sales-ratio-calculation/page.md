@@ -1,6 +1,8 @@
 ---
-title: "Enterprise Value-to-Sales Ratio and Calculation (Algo Trading)"
-description: "Discover the advantages of the Enterprise Value-to-Sales ratio in financial analysis and algorithmic trading Enhance your stock selection with this key metric"
+category: quant_concept
+description: Discover the advantages of the Enterprise Value-to-Sales ratio in financial
+  analysis and algorithmic trading Enhance your stock selection with this key metric
+title: Enterprise Value-to-Sales Ratio and Calculation (Algo Trading)
 ---
 
 The Enterprise Value-to-Sales (EV/Sales) ratio is a pivotal metric in financial analysis, serving as a key tool for evaluating a company's market valuation against its sales. It offers investors a quantitative measure of how the market perceives a company's worth relative to its revenue generation capabilities. This metric is particularly advantageous when assessing high-growth companies and dynamic industries where traditional valuation metrics like the Price-to-Earnings (P/E) ratio may not provide a complete picture. 

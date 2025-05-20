@@ -1,6 +1,8 @@
 ---
-title: "Direct Stock Purchase from Companies (Algo Trading)"
-description: "Explore the benefits of direct stock purchase plans and algorithmic trading to enhance portfolio efficiency while reducing fees in today's dynamic markets."
+category: trading_strategy
+description: Explore the benefits of direct stock purchase plans and algorithmic trading
+  to enhance portfolio efficiency while reducing fees in today's dynamic markets.
+title: Direct Stock Purchase from Companies (Algo Trading)
 ---
 
 In the rapidly evolving world of finance, direct stock purchase plans, shares buying, and algorithmic trading represent pivotal concepts for modern investors. These investment tools provide alternatives to traditional methods, allowing investors to maximize their portfolio’s potential by bypassing conventional broker fees and enhancing transaction efficiency. Direct stock purchase plans (DSPPs) enable investors to acquire shares directly from the issuing company, which can be particularly advantageous for those seeking to reduce costs and increase engagement with their investments.

@@ -1,6 +1,8 @@
 ---
-title: "Comparison of Bottom-Line and Top-Line Growth (Algo Trading)"
-description: "Explore how algo trading impacts financial performance by analyzing top-line and bottom-line growth, revealing insights into revenue and profitability strategies."
+category: quant_concept
+description: Explore how algo trading impacts financial performance by analyzing top-line
+  and bottom-line growth, revealing insights into revenue and profitability strategies.
+title: Comparison of Bottom-Line and Top-Line Growth (Algo Trading)
 ---
 
 The landscape of financial performance analysis is multifaceted, encompassing various metrics essential for understanding a company's health and potential. Among these metrics, top-line growth and bottom-line growth are critical indicators frequently examined by investors and analysts to assess company performance.

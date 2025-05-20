@@ -1,6 +1,8 @@
 ---
-title: "Impulse Wave Pattern: Theory and Rules (Algo Trading)"
-description: "Explore the impulse wave pattern, a key tool in technical analysis and algorithmic trading, offering insights into market trends and investor sentiment."
+category: trading_strategy
+description: Explore the impulse wave pattern, a key tool in technical analysis and
+  algorithmic trading, offering insights into market trends and investor sentiment.
+title: 'Impulse Wave Pattern: Theory and Rules (Algo Trading)'
 ---
 
 In the world of technical analysis, the impulse wave pattern is recognized as a crucial tool for traders seeking to forecast market movements. Originating from Elliott Wave Theory, these wave patterns provide valuable insights into market trends and are instrumental in identifying significant price movements. Elliott Wave Theory, formulated by R.N. Elliott, presents a framework based on the idea that market cycles arise from investor psychology and that these cycles display repetitive wave patterns. The impulse wave pattern, being one of these key components, consists of a distinctive structure that indicates a major price move aligned with the core trend of a financial asset. 

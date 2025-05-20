@@ -1,6 +1,9 @@
 ---
-title: "Registered Principal: Definition and Functionality (Algo Trading)"
-description: "Explore the roles of registered principal investment firms within the financial industry, their compliance with regulations, and the impact of algorithmic trading."
+category: quant_concept
+description: Explore the roles of registered principal investment firms within the
+  financial industry, their compliance with regulations, and the impact of algorithmic
+  trading.
+title: 'Registered Principal: Definition and Functionality (Algo Trading)'
 ---
 
 The financial industry has undergone significant transformation over the decades, particularly with the rise of investment firms that play a crucial role in global capital markets. Initially characterized by traditional brokerage activities and advisory services, the industry has evolved to encompass a wide array of financial services, including asset management, wealth management, and private equity, among others.

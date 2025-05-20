@@ -1,6 +1,8 @@
 ---
-title: "Geometric Mean: Calculation and Examples (Algo Trading)"
-description: "Discover the fundamental role of the geometric mean in algorithmic trading Analyze investment performance accurately avoid skewness and optimize strategies"
+category: quant_concept
+description: Discover the fundamental role of the geometric mean in algorithmic trading
+  Analyze investment performance accurately avoid skewness and optimize strategies
+title: 'Geometric Mean: Calculation and Examples (Algo Trading)'
 ---
 
 The geometric mean is a fundamental mathematical concept that plays a significant role in various disciplines, notably in finance and trading. It is vital for evaluating investment performance, especially within algorithmic trading. Unlike the arithmetic mean, which can be skewed by extreme values, the geometric mean provides a more accurate representation of data sets that involve multiplication, growth rates, or compounding. The essence of the geometric mean is capturing the central tendency of a set of numbers by considering the product of their values. This characteristic makes it particularly suitable for assessing average rates of return over time, offering insights that are critical for developing sound trading strategies.

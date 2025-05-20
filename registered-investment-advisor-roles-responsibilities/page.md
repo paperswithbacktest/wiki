@@ -1,6 +1,9 @@
 ---
-title: "Registered Investment Advisor: Roles and Responsibilities (Algo Trading)"
-description: "Explore the roles and responsibilities of Registered Investment Advisors in the fast-evolving world of algorithmic trading and their impact on investment strategies."
+category: quant_concept
+description: Explore the roles and responsibilities of Registered Investment Advisors
+  in the fast-evolving world of algorithmic trading and their impact on investment
+  strategies.
+title: 'Registered Investment Advisor: Roles and Responsibilities (Algo Trading)'
 ---
 
 In today's fast-paced financial landscape, individuals and institutions frequently seek professional advice to effectively manage and grow their investments. Among the various types of financial advisors, Registered Investment Advisors (RIAs) stand out for their expertise in guiding clients through complex financial markets. With the rapid advancement of technology, algorithmic trading has emerged as a significant component of contemporary investment strategies. This article examines the financial responsibilities of investment advisors, the regulatory framework governing RIAs, and the influence of algorithmic trading on investment advisory services. By examining these aspects, we aim to illustrate how they function collectively to optimize financial outcomes for clients.

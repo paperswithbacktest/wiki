@@ -1,6 +1,10 @@
 ---
-title: "Pullback in Mathematics (Algo Trading)"
-description: "Explore how pullbacks in category theory can optimize algorithmic trading strategies by enhancing market analysis and improving decision-making. Discover the intersection of abstract mathematics and finance to refine trading models through universal insights into market dynamics."
+category: quant_concept
+description: Explore how pullbacks in category theory can optimize algorithmic trading
+  strategies by enhancing market analysis and improving decision-making. Discover
+  the intersection of abstract mathematics and finance to refine trading models through
+  universal insights into market dynamics.
+title: Pullback in Mathematics (Algo Trading)
 ---
 
 In recent years, the fusion of advanced mathematics and finance has significantly intrigued researchers and practitioners who aim to refine algorithmic trading strategies. Algorithmic trading fundamentally relies on mathematical models to facilitate trading decisions that hinge on complex data inputs. In this context, category theory—a branch of mathematics dedicated to abstract structures and the relationships between them—has emerged as a potentially transformative tool. At the heart of category theory are concepts such as objects, morphisms, and critical constructs like pullbacks, each of which provides a universal language for describing and connecting various mathematical forms.

@@ -1,6 +1,8 @@
 ---
-title: "Interim Dividend: Payment Process and Eligibility (Algo Trading)"
-description: "Explore the connection between interim dividends and algorithmic trading in this insightful guide. Learn about dividend payouts and smart investment strategies."
+category: trading_strategy
+description: Explore the connection between interim dividends and algorithmic trading
+  in this insightful guide. Learn about dividend payouts and smart investment strategies.
+title: 'Interim Dividend: Payment Process and Eligibility (Algo Trading)'
 ---
 
 Dividends are a critical aspect of investing, forming a bridge between a company’s profitability and the tangible returns received by its shareholders. Essentially, dividends are a portion of a company's earnings distributed to shareholders, typically in the form of cash or additional stock. They serve as an income stream for investors, reflecting a company's financial health and its commitment to sharing profits with its owners. 

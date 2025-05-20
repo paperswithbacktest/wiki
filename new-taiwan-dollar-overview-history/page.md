@@ -1,6 +1,8 @@
 ---
-title: "New Taiwan Dollar: Overview and History (Algo Trading)"
-description: "Explore the significance of the New Taiwan Dollar in Taiwan's economy including its history and role in algorithmic trading and the Forex market."
+category: dataset
+description: Explore the significance of the New Taiwan Dollar in Taiwan's economy
+  including its history and role in algorithmic trading and the Forex market.
+title: 'New Taiwan Dollar: Overview and History (Algo Trading)'
 ---
 
 This article provides an in-depth look at the New Taiwan Dollar (TWD), its history, and its significance in Taiwan's economy. The New Taiwan Dollar was introduced as the primary currency in Taiwan in 1949, succeeding the Old Taiwan Dollar to address hyperinflation issues born from the Chinese Civil War. Over the years, the TWD has evolved to become a cornerstone of Taiwan's economic structure. Initially issued by the Bank of Taiwan, the responsibility for its issuance was later transferred to the Central Bank of the Republic of China (Taiwan) in 2000, solidifying its status as a national currency.

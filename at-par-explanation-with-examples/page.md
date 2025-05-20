@@ -1,6 +1,8 @@
 ---
-title: "At Par Explanation with Examples (Algo Trading)"
-description: "Explore the significance of the financial term 'at par' in bond trading and its role in algorithmic trading strategies for informed investment decisions."
+category: quant_concept
+description: Explore the significance of the financial term 'at par' in bond trading
+  and its role in algorithmic trading strategies for informed investment decisions.
+title: At Par Explanation with Examples (Algo Trading)
 ---
 
 Understanding key terms in finance is essential for making informed decisions. One such term, 'at par,' frequently arises in discussions about bonds and other securities. It represents a basic yet critical concept that can significantly impact investment strategies. This article will cover the meaning of 'at par’ and its application in financial contexts, illustrating its importance in market analysis and decision-making processes.

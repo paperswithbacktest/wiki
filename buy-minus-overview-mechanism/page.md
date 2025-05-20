@@ -1,6 +1,12 @@
 ---
-title: "Buy-Minus: Overview and Mechanism (Algo Trading)"
-description: "Explore the innovative buy-minus strategy in algorithmic trading designed for investors seeking new techniques to enhance returns and manage risks. This article provides a comprehensive look at how buy-minus can strategically capitalize on market conditions by buying below-market prices. Learn how algorithmic trading paired with AI and machine learning powers this approach offering insights on successful implementation in volatile markets for smarter trading decisions."
+category: trading_strategy
+description: Explore the innovative buy-minus strategy in algorithmic trading designed
+  for investors seeking new techniques to enhance returns and manage risks. This article
+  provides a comprehensive look at how buy-minus can strategically capitalize on market
+  conditions by buying below-market prices. Learn how algorithmic trading paired with
+  AI and machine learning powers this approach offering insights on successful implementation
+  in volatile markets for smarter trading decisions.
+title: 'Buy-Minus: Overview and Mechanism (Algo Trading)'
 ---
 
 Algorithmic trading has revolutionized the financial markets by enabling investors to execute trades with precision, speed, and efficiency that surpass manual trading methods. This technology-driven approach employs complex algorithms to automate trading decisions, leveraging data analysis to identify profitable opportunities and optimize execution. In recent years, algorithmic trading has gained substantial popularity among investors seeking sophisticated strategies to enhance their portfolios and achieve their financial goals.

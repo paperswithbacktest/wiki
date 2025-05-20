@@ -1,6 +1,13 @@
 ---
-title: "Electronic Fund Transfer Act and Its Requirements (Algo Trading)"
-description: "Discover the key aspects of the Electronic Fund Transfer Act which safeguards consumer interests in electronic financial transactions. This page outlines EFTA requirements set to protect against unauthorized transfers and errors, offering insights into its impact on algorithmic trading. Learn about consumer rights, financial institution obligations, and the critical role of the CFPB in ensuring compliance. Stay informed on the essential regulations that contribute to a safer, more transparent electronic fund transfer system."
+category: quant_concept
+description: Discover the key aspects of the Electronic Fund Transfer Act which safeguards
+  consumer interests in electronic financial transactions. This page outlines EFTA
+  requirements set to protect against unauthorized transfers and errors, offering
+  insights into its impact on algorithmic trading. Learn about consumer rights, financial
+  institution obligations, and the critical role of the CFPB in ensuring compliance.
+  Stay informed on the essential regulations that contribute to a safer, more transparent
+  electronic fund transfer system.
+title: Electronic Fund Transfer Act and Its Requirements (Algo Trading)
 ---
 
 The financial landscape has evolved significantly with the advent of technology, resulting in faster and more efficient financial transactions. As technology continues to drive innovation, electronic fund transfers (EFTs) have become a cornerstone of modern financial systems. These transactions enable the secure and rapid movement of money between accounts, vastly improving the convenience and speed of financial dealings. However, with increased reliance on such technology comes the necessity for robust regulatory frameworks to protect consumers and ensure transactional integrity.

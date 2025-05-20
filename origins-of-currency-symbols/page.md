@@ -1,6 +1,9 @@
 ---
-title: "Origins of Currency Symbols (Algo Trading)"
-description: "Explore the fascinating evolution of currency from barter to digital forms Discover how currency symbols and algorithmic trading shape global financial landscapes today"
+category: quant_concept
+description: Explore the fascinating evolution of currency from barter to digital
+  forms Discover how currency symbols and algorithmic trading shape global financial
+  landscapes today
+title: Origins of Currency Symbols (Algo Trading)
 ---
 
 Currencies have been a fundamental part of human civilization, evolving from primitive barter systems to complex financial instruments that underpin modern economies. From early forms of trade that relied on the direct exchange of goods and services, human societies gradually transitioned to using commodities like grains, shells, and metal coins as standardized mediums of exchange. This allowed for greater efficiency and reliability in trade, marking the beginning of currency as we know it.
@@ -91,4 +94,3 @@ Kroszner, R. S., & Obstfeld, M. (2014). *Lessons from the Financial Crisis*. Fed
 This publication presents analyses and retrospectives on the 2008 financial crisis. Kroszner and Obstfeld discuss the crisis's impact on global markets, the responses from financial institutions and governments, and the lessons learned to prevent future economic disruptions.
 
 These references provide a well-rounded understanding of the history, significance, and contemporary issues surrounding currency and financial markets, offering further insights into topics discussed in the article.
-

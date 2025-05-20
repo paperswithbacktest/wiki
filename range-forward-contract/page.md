@@ -1,6 +1,8 @@
 ---
-title: "Range Forward Contract (Algo Trading)"
-description: "Explore range forward contracts in algorithmic trading, focusing on managing currency risks with a blend of strategic risk mitigation and potential gain opportunities."
+category: quant_concept
+description: Explore range forward contracts in algorithmic trading, focusing on managing
+  currency risks with a blend of strategic risk mitigation and potential gain opportunities.
+title: Range Forward Contract (Algo Trading)
 ---
 
 Financial derivatives are integral components of modern financial markets, offering a diverse range of instruments designed to manage risk and increase returns. These financial contracts derive their value from underlying assets such as currencies, commodities, or equities, making them versatile tools for both hedging and speculation. Among the array of derivatives available, range forward contracts are particularly prominent due to their efficacy in managing currency exchange risks. 

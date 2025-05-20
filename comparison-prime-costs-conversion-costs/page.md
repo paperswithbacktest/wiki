@@ -1,6 +1,8 @@
 ---
-title: "Comparison of Prime Costs and Conversion Costs (Algo Trading)"
-description: "Explore the essential comparison of prime and conversion costs in algorithmic trading to enhance efficiency and profitability in financial operations."
+category: quant_concept
+description: Explore the essential comparison of prime and conversion costs in algorithmic
+  trading to enhance efficiency and profitability in financial operations.
+title: Comparison of Prime Costs and Conversion Costs (Algo Trading)
 ---
 
 In the world of finance and manufacturing, understanding the various types of costs involved in production is crucial for efficiency and profitability. This article focuses on the concepts of prime costs and conversion costs and their implications for algorithmic trading.

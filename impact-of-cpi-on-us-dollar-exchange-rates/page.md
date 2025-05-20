@@ -1,6 +1,8 @@
 ---
-title: "Impact of CPI on US Dollar Exchange Rates (Algo Trading)"
-description: "Explore the impact of Consumer Price Index on US Dollar's exchange rates and how algorithmic trading strategies enhance forex market efficiency."
+category: trading_strategy
+description: Explore the impact of Consumer Price Index on US Dollar's exchange rates
+  and how algorithmic trading strategies enhance forex market efficiency.
+title: Impact of CPI on US Dollar Exchange Rates (Algo Trading)
 ---
 
 Forex trading is a constantly evolving field, influenced by numerous economic indicators that drive market movements. Among these, the Consumer Price Index (CPI) stands out as a fundamental metric, providing critical insights into inflation levels and, consequently, affecting the relative values of currencies. As a measure of the average change over time in the prices paid by consumers for a basket of goods and services, CPI serves as an essential gauge for inflation, which directly influences currency strength.

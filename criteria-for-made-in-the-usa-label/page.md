@@ -1,6 +1,9 @@
 ---
-title: "Criteria for 'Made in the USA' Label (Algo Trading)"
-description: "Explore how manufacturing standards, 'Made in the USA' labeling, and algo trading intersect to enhance product quality, foster innovation, and drive market competitiveness."
+category: quant_concept
+description: Explore how manufacturing standards, 'Made in the USA' labeling, and
+  algo trading intersect to enhance product quality, foster innovation, and drive
+  market competitiveness.
+title: Criteria for 'Made in the USA' Label (Algo Trading)
 ---
 
 Manufacturing standards and product labeling are pivotal in ensuring the quality, safety, and traceability of products in today's global market. They provide a framework that manufacturers must adhere to, which fosters transparency and builds consumer trust. Product labeling is not merely about identifying the origin or ingredients of a product; it serves as a marketing tool that can significantly influence consumer perception and purchasing decisions.

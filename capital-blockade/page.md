@@ -1,6 +1,9 @@
 ---
-title: "Capital Blockade (Algo Trading)"
-description: "Discover how capital blockades and economic sanctions shape global markets impact financial stability and challenge algorithmic trading systems in our interconnected world."
+category: quant_concept
+description: Discover how capital blockades and economic sanctions shape global markets
+  impact financial stability and challenge algorithmic trading systems in our interconnected
+  world.
+title: Capital Blockade (Algo Trading)
 ---
 
 The global landscape of economic policies and financial interactions is increasingly influenced by capital blockades, economic restrictions, and financial sanctions. These tools are deployed by nations to exert pressure and achieve political objectives without engaging in military conflict. The impacts of such measures can vary widely, affecting not only the targeted countries but also the broader international community. For instance, the imposition of economic sanctions can significantly alter trade routes, disrupt international supply chains, and potentially lead to considerable shifts in global markets.

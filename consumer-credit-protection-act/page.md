@@ -1,6 +1,9 @@
 ---
-title: "Consumer Credit Protection Act (Algo Trading)"
-description: "Explore the Consumer Credit Protection Act's impact on consumer finance transparency and fairness alongside the rise of algorithmic trading in financial markets."
+category: quant_concept
+description: Explore the Consumer Credit Protection Act's impact on consumer finance
+  transparency and fairness alongside the rise of algorithmic trading in financial
+  markets.
+title: Consumer Credit Protection Act (Algo Trading)
 ---
 
 Financial regulations are essential mechanisms that ensure the stability and integrity of financial systems. They are designed to protect consumers from unfair practices, fraud, and systemic risks that can arise in the financial sector. These regulations provide a framework within which financial institutions must operate, ensuring transparency, fairness, and accountability. The Consumer Credit Protection Act (CCPA), enacted in 1968, represents a pivotal moment in the history of consumer financial protection in the United States. It was established to safeguard consumers by regulating the credit practices of many financial institutions, thus addressing issues like transparent lending practices, accurate credit reporting, and fair debt collection.

@@ -1,6 +1,9 @@
 ---
-title: "Five-Step Evaluation for Trading Strategies (Algo Trading)"
-description: "Explore the essentials of evaluating trading strategies in algorithmic trading. Learn about strategy formulation, risk management, and improving decision-making for success."
+category: trading_strategy
+description: Explore the essentials of evaluating trading strategies in algorithmic
+  trading. Learn about strategy formulation, risk management, and improving decision-making
+  for success.
+title: Five-Step Evaluation for Trading Strategies (Algo Trading)
 ---
 
 In today's fast-paced financial markets, the ability to effectively evaluate investments, develop robust trading strategies, and make informed decisions is crucial for achieving success. The advent of algorithmic trading has significantly transformed trading practices, offering traders automation and precise execution through technology-driven solutions. Algorithmic trading systems, often powered by advanced computing, are capable of executing trades at speeds and frequencies that human traders cannot match, thereby reducing human errors and emotions typically associated with manual trading.
@@ -252,4 +255,3 @@ Whether engaging in manual trading or deploying sophisticated algorithms, a disc
 [4]: Chan, Ernest P. (2009). ["Quantitative Trading: How to Build Your Own Algorithmic Trading Business"](https://github.com/ftvision/quant_trading_echan_book), Wiley.
 
 [5]: Aronson, David R. (2006). ["Evidence-Based Technical Analysis: Applying the Scientific Method and Statistical Inference to Trading Signals"](https://onlinelibrary.wiley.com/doi/book/10.1002/9781118268315), Wiley.
-

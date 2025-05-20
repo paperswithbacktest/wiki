@@ -1,6 +1,9 @@
 ---
-title: "Enhanced Oil Recovery Methods and Examples (Algo Trading)"
-description: "Explore Enhanced Oil Recovery methods and their role in boosting oil extraction efficiency. Learn about their economic impact and the role of algo trading in EOR investments."
+category: quant_concept
+description: Explore Enhanced Oil Recovery methods and their role in boosting oil
+  extraction efficiency. Learn about their economic impact and the role of algo trading
+  in EOR investments.
+title: Enhanced Oil Recovery Methods and Examples (Algo Trading)
 ---
 
 The energy industry is continuously evolving, with Enhanced Oil Recovery (EOR) techniques representing a significant advancement in the extraction of oil beyond traditional methods. EOR, commonly referred to as tertiary recovery, is crucial for prolonging the operational life of oil reservoirs and maximizing resource extraction. This technique is essential for accessing the remaining oil that cannot be efficiently recovered through primary and secondary methods, which rely mainly on natural reservoir energy and water flooding, respectively.

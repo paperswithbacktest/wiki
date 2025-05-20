@@ -1,6 +1,8 @@
 ---
-title: "Capitalization of Accrued Interest (Algo Trading)"
-description: "Explore key financial terms including accrued interest and capitalization, vital for investment strategies. Understand algorithmic trading's impact on markets."
+category: quant_concept
+description: Explore key financial terms including accrued interest and capitalization,
+  vital for investment strategies. Understand algorithmic trading's impact on markets.
+title: Capitalization of Accrued Interest (Algo Trading)
 ---
 
 In today's fast-evolving financial landscape, understanding key financial terms such as accrued interest, capitalization, and algorithmic trading can be crucial for investors and finance professionals. This article explores these concepts in detail, highlighting their significance and role within the broader financial ecosystem. Financial terms serve as the foundation for sound investment strategies and decision-making processes, impacting both individual and institutional portfolios.

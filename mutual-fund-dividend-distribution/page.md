@@ -1,6 +1,8 @@
 ---
-title: "Mutual Fund Dividend Distribution (Algo Trading)"
-description: "Optimize your investment strategy with insights into mutual fund dividend distribution and algorithmic trading to enhance both income and portfolio growth."
+category: trading_strategy
+description: Optimize your investment strategy with insights into mutual fund dividend
+  distribution and algorithmic trading to enhance both income and portfolio growth.
+title: Mutual Fund Dividend Distribution (Algo Trading)
 ---
 
 In today's dynamic financial landscape, investors constantly seek options that offer both security and growth potential. A dynamic approach to investing is crucial to meet both short-term income needs and long-term wealth accumulation. By combining different investment strategies, investors can enhance income and build a robust portfolio capable of weathering market fluctuations. This article examines dividends, mutual fund investments, and algorithmic trading as key components of a diversified investment strategy.

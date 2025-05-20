@@ -1,7 +1,8 @@
 ---
-title: Comprehensive Guide to Machine Learning Environments and Setup
+category: quant_concept
 description: Machine learning environment guide covering setup optimization security
   scaling data management and version control Discover more inside
+title: Comprehensive Guide to Machine Learning Environments and Setup
 ---
 
 ![Image](images/1.png)

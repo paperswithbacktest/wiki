@@ -1,6 +1,9 @@
 ---
-title: "Social Economics and Its Societal Impact (Algo Trading)"
-description: "Explore the societal impacts of economic theory, social economics, and algorithmic trading, highlighting the interplay between economies, societies, and technology."
+category: quant_concept
+description: Explore the societal impacts of economic theory, social economics, and
+  algorithmic trading, highlighting the interplay between economies, societies, and
+  technology.
+title: Social Economics and Its Societal Impact (Algo Trading)
 ---
 
 Economic theory serves as the foundational framework for understanding how economies operate and evolve. It provides a lens through which we can examine the processes that drive wealth creation, distribution, and consumption within societies. The impact of economic theory extends beyond markets and industries, influencing policy decisions, shaping social structures, and contributing to societal disparities.

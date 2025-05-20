@@ -1,6 +1,8 @@
 ---
-title: "Main Segments of the Real Estate Industry (Algo Trading)"
-description: "Discover the key segments of the real estate industry and how algorithmic trading is transforming investment strategies with precise data analysis and insights."
+category: quant_concept
+description: Discover the key segments of the real estate industry and how algorithmic
+  trading is transforming investment strategies with precise data analysis and insights.
+title: Main Segments of the Real Estate Industry (Algo Trading)
 ---
 
 The real estate industry is a dynamic and multifaceted market, comprising various segments and investment opportunities. This article explores the main segments within the real estate sector—residential, commercial, and industrial—and discusses the role of algorithmic trading in enhancing investment strategies across these property sectors.

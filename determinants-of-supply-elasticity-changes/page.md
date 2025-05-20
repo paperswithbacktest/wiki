@@ -1,6 +1,9 @@
 ---
-title: "Determinants of Supply Elasticity Changes (Algo Trading)"
-description: "Explore how production capacity, resource availability, and technology impact supply elasticity and how algorithmic trading leverages these insights for competitive advantage."
+category: quant_concept
+description: Explore how production capacity, resource availability, and technology
+  impact supply elasticity and how algorithmic trading leverages these insights for
+  competitive advantage.
+title: Determinants of Supply Elasticity Changes (Algo Trading)
 ---
 
 Supply elasticity is a fundamental concept in economics that refers to the sensitivity of the quantity of a good that producers are willing to supply to changes in price. This sensitivity is quantified using the supply elasticity coefficient, which is a measure of how much the quantity supplied changes in response to a price change. The formula for calculating supply elasticity ($E_s$) is given by:

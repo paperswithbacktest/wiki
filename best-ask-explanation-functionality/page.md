@@ -1,6 +1,8 @@
 ---
-title: "Best Ask: Explanation and Functionality (Algo Trading)"
-description: "Unlock the intricacies of algo trading with a focus on the best ask price vital for traders to evaluate market conditions and enhance profitability strategies."
+category: quant_concept
+description: Unlock the intricacies of algo trading with a focus on the best ask price
+  vital for traders to evaluate market conditions and enhance profitability strategies.
+title: 'Best Ask: Explanation and Functionality (Algo Trading)'
 ---
 
 Understanding the complex world of financial markets is essential for traders looking to capitalize on opportunities. These markets are multifaceted, involving trading activities that span stocks, commodities, currencies, and derivatives, each with its own dynamics and potential for profit and loss. Traders navigate this landscape by employing various strategies that fit their risk tolerance, objectives, and market conditions. 

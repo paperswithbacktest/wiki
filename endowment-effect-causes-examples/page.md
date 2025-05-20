@@ -1,6 +1,8 @@
 ---
-title: "Endowment Effect: Causes and Examples (Algo Trading)"
-description: "Explore the intersection of behavioral economics and algorithmic trading through the endowment effect which influences how traders value and manage assets."
+category: quant_concept
+description: Explore the intersection of behavioral economics and algorithmic trading
+  through the endowment effect which influences how traders value and manage assets.
+title: 'Endowment Effect: Causes and Examples (Algo Trading)'
 ---
 
 Behavioral economics, psychology, and algorithmic trading intersect in fascinating ways, each influencing the other to shape decision-making processes in financial markets. A prominent example of this interaction is the endowment effect, a cognitive bias where individuals irrationally assign higher value to objects they own than to those they do not. This phenomenon can significantly impact trading behaviors, as traders might overvalue their holdings simply because they possess them. 

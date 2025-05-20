@@ -1,6 +1,8 @@
 ---
-title: "Beta and Market Risk of Stocks (Algo Trading)"
-description: "Explore market risk beta and algorithmic trading to understand stock volatility improve risk management and enhance trading strategies through technology."
+category: quant_concept
+description: Explore market risk beta and algorithmic trading to understand stock
+  volatility improve risk management and enhance trading strategies through technology.
+title: Beta and Market Risk of Stocks (Algo Trading)
 ---
 
 In the rapidly evolving world of finance, comprehending key metrics such as market risk, beta, and algorithmic trading is essential for making informed investment decisions. Market risk, sometimes called systematic risk, represents the inherent uncertainty that affects the entire financial market. It is crucial for investors to understand this risk when formulating investment strategies, as it cannot be mitigated simply through diversification.

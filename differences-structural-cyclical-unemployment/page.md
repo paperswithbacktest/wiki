@@ -1,6 +1,8 @@
 ---
-title: "Differences Between Structural and Cyclical Unemployment (Algo Trading)"
-description: "Explore the key differences between structural and cyclical unemployment and their impact on economic cycles and algorithmic trading strategies."
+category: quant_concept
+description: Explore the key differences between structural and cyclical unemployment
+  and their impact on economic cycles and algorithmic trading strategies.
+title: Differences Between Structural and Cyclical Unemployment (Algo Trading)
 ---
 
 Unemployment is a multifaceted economic phenomenon, encompassing various types that significantly influence an economy's health and stability. Commonly recognized forms of unemployment include structural, cyclical, frictional, and seasonal unemployment. Each type reflects different underlying causes and exerts distinct effects on economic dynamics. Understanding these unemployment types is pivotal for economic analysis and policymaking, as they serve as key indicators of economic performance and labor market health.

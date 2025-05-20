@@ -1,6 +1,9 @@
 ---
-title: "ETFs in the Metals and Mining Sector (Algo Trading)"
-description: "Explore algorithmic trading in metals and mining ETFs Learn how this innovation enhances investment strategies while understanding potential risks and rewards"
+category: trading_strategy
+description: Explore algorithmic trading in metals and mining ETFs Learn how this
+  innovation enhances investment strategies while understanding potential risks and
+  rewards
+title: ETFs in the Metals and Mining Sector (Algo Trading)
 ---
 
 In today's global market, the landscape of trading and investment is undergoing a significant transformation with the integration of advanced technology, particularly algorithmic trading. This evolution is particularly evident in the metals and mining sectors, industries that have traditionally served as the pillars of the industrial world. These sectors now offer innovative opportunities through Exchange Traded Funds (ETFs), which can be effectively leveraged using algorithmic trading strategies.

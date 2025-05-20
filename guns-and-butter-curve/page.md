@@ -1,6 +1,8 @@
 ---
-title: "Guns and Butter Curve (Algo Trading)"
-description: "Explore the Guns and Butter Curve and Production Possibility Frontier to understand trade-offs in economics and their impact on algorithmic trading strategies."
+category: quant_concept
+description: Explore the Guns and Butter Curve and Production Possibility Frontier
+  to understand trade-offs in economics and their impact on algorithmic trading strategies.
+title: Guns and Butter Curve (Algo Trading)
 ---
 
 In the modern economic landscape, grasping the complexities of production possibilities and trade-offs is of paramount importance. Economics serves as a guiding framework for understanding how societies allocate scarce resources to maximize benefits. Key among these economic insights are concepts like the Production Possibility Frontier (PPF) and the Guns-and-Butter Curve, which illustrate fundamental principles of decision-making and opportunity costs.

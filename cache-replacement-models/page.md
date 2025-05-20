@@ -1,7 +1,8 @@
 ---
-title: Optimizing System Speed With Parrot Cache Replacement Model
+category: quant_concept
 description: Parrot cache replacement model uses machine learning to predict data
   access and retain critical items in cache for faster performance Discover more inside.
+title: Optimizing System Speed With Parrot Cache Replacement Model
 ---
 
 ![Image](images/1.jpeg)

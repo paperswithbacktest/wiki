@@ -1,6 +1,9 @@
 ---
-title: "Closed to New Investors (Algo Trading)"
-description: "Explore the complexities of investment funds and algorithmic trading Discover strategies and restrictions to maximize returns and navigate the dynamic market environment"
+category: trading_strategy
+description: Explore the complexities of investment funds and algorithmic trading
+  Discover strategies and restrictions to maximize returns and navigate the dynamic
+  market environment
+title: Closed to New Investors (Algo Trading)
 ---
 
 The world of investment funds is both vast and diverse, offering numerous opportunities for investors to grow their wealth. Investment funds, which include mutual funds, exchange-traded funds (ETFs), and hedge funds, serve as collective investment vehicles that pool resources from multiple investors to purchase a diversified portfolio of assets. This model not only provides investors access to a broader range of investment opportunities but also spreads risk across different asset classes and sectors, potentially leading to more stable returns.

@@ -1,6 +1,9 @@
 ---
-title: "Private Export Funding Corporation (Algo Trading)"
-description: "Explore the role of the Private Export Funding Corporation in boosting U.S. exports through financial products and strategic partnerships in today's global market."
+category: trading_strategy
+description: Explore the role of the Private Export Funding Corporation in boosting
+  U.S. exports through financial products and strategic partnerships in today's global
+  market.
+title: Private Export Funding Corporation (Algo Trading)
 ---
 
 In today's rapidly changing financial landscape, identifying and capitalizing on the synergies between various financial entities and strategies is essential. Emerging technologies and financial institutions play significant roles in driving global trade and corporate efficiencies. The Private Export Funding Corporation (PEFCO) is a crucial entity in supporting U.S. exports, providing a critical link between financial assistance and global market expansion for businesses.

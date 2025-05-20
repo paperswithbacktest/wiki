@@ -1,6 +1,9 @@
 ---
-title: "IMC Financial Markets (Algo Trading)"
-description: "Explore IMC Financial Markets a leader in proprietary trading and market making, utilizing cutting-edge technology and strategies to enhance global financial markets."
+category: quant_concept
+description: Explore IMC Financial Markets a leader in proprietary trading and market
+  making, utilizing cutting-edge technology and strategies to enhance global financial
+  markets.
+title: IMC Financial Markets (Algo Trading)
 ---
 
 IMC Financial Markets is a prominent proprietary trading firm and market maker with a significant presence in the global financial industry. Established in 1989, IMC is known for its expertise in leveraging advanced technology and data analytics to facilitate high-frequency trading and market-making activities. The firm operates on major exchanges worldwide, providing liquidity and contributing to the efficiency and stability of financial markets.

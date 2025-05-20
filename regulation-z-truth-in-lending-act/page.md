@@ -1,6 +1,12 @@
 ---
-title: "Regulation Z: Truth in Lending Act (Algo Trading)"
-description: "Explore the intersection of algorithmic trading and Regulation Z within the financial industry. Learn how Regulation Z's emphasis on transparency and fair practices, primarily aimed at consumer credit protection, can influence algo trading strategies in the evolving financial markets. Discover the impact of technology on trading efficiency and the necessity of adapting regulatory measures to safeguard consumer interests while fostering innovation."
+category: quant_concept
+description: Explore the intersection of algorithmic trading and Regulation Z within
+  the financial industry. Learn how Regulation Z's emphasis on transparency and fair
+  practices, primarily aimed at consumer credit protection, can influence algo trading
+  strategies in the evolving financial markets. Discover the impact of technology
+  on trading efficiency and the necessity of adapting regulatory measures to safeguard
+  consumer interests while fostering innovation.
+title: 'Regulation Z: Truth in Lending Act (Algo Trading)'
 ---
 
 The world of finance is undergoing profound changes, primarily driven by technological advancements that are altering the foundations of investing and trading. Central to this transformation is algorithmic trading, or algo trading, which leverages sophisticated computer algorithms to execute trades with remarkable speed and precision. These algorithms are programmed to follow specific instructions, enabling high-frequency trading across various financial markets. As a significant force, algo trading is reshaping how financial transactions are conducted, offering benefits such as reduced transaction costs and enhanced efficiency.

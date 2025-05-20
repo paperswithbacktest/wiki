@@ -1,6 +1,9 @@
 ---
-title: "Common Mistakes in Investing (Algo Trading)"
-description: "Discover key tips to avoid common investment mistakes in algo trading. Enhance decision-making by understanding risks, minimizing errors, and optimizing strategies."
+category: trading_strategy
+description: Discover key tips to avoid common investment mistakes in algo trading.
+  Enhance decision-making by understanding risks, minimizing errors, and optimizing
+  strategies.
+title: Common Mistakes in Investing (Algo Trading)
 ---
 
 In today's fast-paced financial market, investing has become a pivotal part of securing long-term wealth. Market dynamics are constantly evolving, and investors are continually seeking innovative methods to optimize their investment strategies. While traditional investment methods remain prevalent, algorithmic trading (algo trading) is increasingly gaining attention for its efficiency and precision in executing trades.

@@ -1,6 +1,8 @@
 ---
-title: "Lean Enterprise: Concepts, Principles, and Lean Six Sigma (Algo Trading)"
-description: "Explore Lean Enterprise and Lean Six Sigma methods to boost efficiency and quality in algorithmic trading. Learn how these principles drive success."
+category: quant_concept
+description: Explore Lean Enterprise and Lean Six Sigma methods to boost efficiency
+  and quality in algorithmic trading. Learn how these principles drive success.
+title: 'Lean Enterprise: Concepts, Principles, and Lean Six Sigma (Algo Trading)'
 ---
 
 In today's fast-paced business environment, achieving efficient processes and high-quality outcomes are essential for organizational success and competitiveness. To meet these demands, companies increasingly turn to methodologies such as Lean Six Sigma and Lean Enterprise, which focus on reducing waste, improving processes, and enhancing quality. These methodologies originate from established practices in manufacturing and service sectors but have broader applications across various industries.

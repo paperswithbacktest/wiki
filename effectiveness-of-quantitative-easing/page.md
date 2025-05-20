@@ -1,6 +1,9 @@
 ---
-title: "Effectiveness of Quantitative Easing (Algo Trading)"
-description: "Explore the impact of quantitative easing on financial markets and how algorithmic trading transforms the economic landscape offering insights for investors and policymakers."
+category: quant_concept
+description: Explore the impact of quantitative easing on financial markets and how
+  algorithmic trading transforms the economic landscape offering insights for investors
+  and policymakers.
+title: Effectiveness of Quantitative Easing (Algo Trading)
 ---
 
 The economic landscape is influenced by numerous factors, with monetary policy playing a pivotal role in shaping financial systems. This article examines the relationships between monetary policy, quantitative easing (QE), and algorithmic trading. These elements are crucial in understanding their collective impact on global economies and financial markets, making them essential knowledge for investors, policymakers, and anyone interested in economics.

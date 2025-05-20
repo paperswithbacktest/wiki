@@ -1,6 +1,8 @@
 ---
-title: "Comparison of Market Makers and Electronic Communications Networks (Algo Trading)"
-description: "Discover the intricacies of market makers and ECNs in algorithmic trading Learn about their roles in enhancing liquidity trading efficiency and pricing transparency"
+category: quant_concept
+description: Discover the intricacies of market makers and ECNs in algorithmic trading
+  Learn about their roles in enhancing liquidity trading efficiency and pricing transparency
+title: Comparison of Market Makers and Electronic Communications Networks (Algo Trading)
 ---
 
 The world of financial markets is complex and multifaceted. Among the many players and platforms that facilitate trading are Electronic Communications Networks (ECNs) and market makers. ECNs are automated systems that match buy and sell orders for securities, bypassing traditional intermediaries like brokers. This direct interaction can lead to reduced transaction costs and enhanced pricing transparency. In contrast, market makers are typically financial institutions or brokerage firms that provide liquidity by quoting both buy and sell prices, profiting from the spread and ensuring market stability.

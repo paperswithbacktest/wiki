@@ -1,7 +1,8 @@
 ---
-title: Essential Guide To Machine Learning Concepts And Applications
+category: quant_concept
 description: Machine learning shows how computers learn from data using algorithms
   for tasks like prediction clustering and reinforcement learning Discover more inside.
+title: Essential Guide To Machine Learning Concepts And Applications
 ---
 
 ![Image](images/1.jpeg)

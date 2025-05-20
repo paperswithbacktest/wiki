@@ -1,6 +1,8 @@
 ---
-title: "Irrelevance Proposition Theorem (Algo Trading)"
-description: "Explore the Irrelevance Proposition Theorem by Miller and Modigliani 1958 its impact on finance markets and role in algorithmic trading strategies today."
+category: quant_concept
+description: Explore the Irrelevance Proposition Theorem by Miller and Modigliani
+  1958 its impact on finance markets and role in algorithmic trading strategies today.
+title: Irrelevance Proposition Theorem (Algo Trading)
 ---
 
 The irrelevance proposition theory, introduced by Nobel laureates Merton Miller and Franco Modigliani in 1958, fundamentally contends that a company's market value is unaffected by its financial structure, particularly its choice between debt and equity financing. The theorem's assumptions include a market devoid of taxes, bankruptcy costs, and asymmetric information. Under these ideal conditions, the proposition asserts that the value of a firm is determined by its real assets and operations, not by its liability structure. 

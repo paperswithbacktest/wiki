@@ -1,6 +1,11 @@
 ---
-title: "Federal Reserve (Algo Trading)"
-description: "Explore how the Federal Reserve's monetary policy and algorithmic trading intersect to impact financial markets. Understand how central bank decisions influence economic activities and market dynamics through algorithmic responses to interest rate announcements. Discover insights into navigating modern financial markets with a focus on trading speed, investment strategies, and economic stability."
+category: quant_concept
+description: Explore how the Federal Reserve's monetary policy and algorithmic trading
+  intersect to impact financial markets. Understand how central bank decisions influence
+  economic activities and market dynamics through algorithmic responses to interest
+  rate announcements. Discover insights into navigating modern financial markets with
+  a focus on trading speed, investment strategies, and economic stability.
+title: Federal Reserve (Algo Trading)
 ---
 
 In the financial world, central banks play a crucial role in maintaining the economic stability of a country. The Federal Reserve, as the central bank of the United States, utilizes various monetary policy tools to achieve its economic objectives. Established in 1913, the Federal Reserve is tasked with managing the nation’s currency, money supply, and interest rates to ensure financial stability and foster economic growth. These objectives are pursued through mechanisms such as open market operations, discount rates, and reserve requirements. By adjusting these levers, the Federal Reserve influences economic activities, including consumption, investment, and inflation.

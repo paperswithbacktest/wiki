@@ -1,7 +1,8 @@
 ---
-title: Understanding Log Odds and Their Role in Machine Learning
+category: quant_concept
 description: Log odds simplify probability calculations in logistic regression and
   other models enabling smoother training and stable predictions Discover more inside.
+title: Understanding Log Odds and Their Role in Machine Learning
 ---
 
 ![Image](images/1.png)

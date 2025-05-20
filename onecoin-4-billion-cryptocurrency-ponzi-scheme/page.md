@@ -1,6 +1,9 @@
 ---
-title: "OneCoin: The $4 Billion Cryptocurrency Ponzi Scheme (Algo Trading)"
-description: "Explore the deception of OneCoin the infamous Ponzi scheme disguised as a cryptocurrency revolution that defrauded investors of $4 billion with false promises"
+category: trading_strategy
+description: Explore the deception of OneCoin the infamous Ponzi scheme disguised
+  as a cryptocurrency revolution that defrauded investors of $4 billion with false
+  promises
+title: 'OneCoin: The $4 Billion Cryptocurrency Ponzi Scheme (Algo Trading)'
 ---
 
 The cryptocurrency space has experienced diverse dynamics, evolving from innovative digital payment solutions to platforms that host elaborate scams. Among these, OneCoin stands out as one of the most notorious Ponzi schemes, amassing an estimated $4 billion before its collapse. Marketed as a revolutionary digital currency, OneCoin was structured to appear legitimate while, in reality, it was a sophisticated fraud. 

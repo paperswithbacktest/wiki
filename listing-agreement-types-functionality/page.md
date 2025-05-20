@@ -1,6 +1,8 @@
 ---
-title: "Listing Agreement: Types and Functionality (Algo Trading)"
-description: "Explore the types and functionality of listing agreements in real estate covering exclusive rights and open listings and their role in algorithmic trading."
+category: quant_concept
+description: Explore the types and functionality of listing agreements in real estate
+  covering exclusive rights and open listings and their role in algorithmic trading.
+title: 'Listing Agreement: Types and Functionality (Algo Trading)'
 ---
 
 The real estate industry is a complex ecosystem characterized by various agreements and contracts that stipulate the roles and responsibilities of involved parties. One such vital document is the listing agreement. This contract specifies the terms under which a real estate broker represents a property seller, acting as an intermediary to facilitate a successful transaction. Listing agreements are crucial to real estate transactions as they define the scope of the broker's engagement, delineate the duties of the broker, and set out the conditions for earning a commission. Understanding these contracts is fundamental for both brokers and sellers to ensure clarity and alignment in their partnership.

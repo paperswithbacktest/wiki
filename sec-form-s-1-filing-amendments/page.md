@@ -1,6 +1,8 @@
 ---
-title: "SEC Form S-1: Filing and Amendments (Algo Trading)"
-description: "The page explores SEC Form S-1 detailing its importance in IPOs for U.S. companies and its implications in algorithmic trading by enhancing investor transparency."
+category: quant_concept
+description: The page explores SEC Form S-1 detailing its importance in IPOs for U.S.
+  companies and its implications in algorithmic trading by enhancing investor transparency.
+title: 'SEC Form S-1: Filing and Amendments (Algo Trading)'
 ---
 
 The world of finance and trading is complex, with the securities market playing a crucial role in the global economy. This market enables companies to raise capital by offering securities to the public, thus facilitating investment and economic growth. For U.S.-based companies, embarking on the journey of going public involves a critical step of filing the SEC Form S-1 with the Securities and Exchange Commission (SEC). This pivotal document serves as the foundation for a company’s initial public offering (IPO), providing potential investors with essential information regarding the company's business, financial health, and the particulars of the securities being offered.

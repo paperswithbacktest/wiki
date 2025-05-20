@@ -1,6 +1,9 @@
 ---
-title: "Inflation and Its Impact on Investments (Algo Trading)"
-description: "Explore how inflation impacts investments and algorithmic trading. Learn strategies to mitigate inflation's effects on asset classes like stocks, bonds, and real estate."
+category: quant_concept
+description: Explore how inflation impacts investments and algorithmic trading. Learn
+  strategies to mitigate inflation's effects on asset classes like stocks, bonds,
+  and real estate.
+title: Inflation and Its Impact on Investments (Algo Trading)
 ---
 
 Inflation is a pivotal economic indicator that influences a broad spectrum of sectors, including consumer goods and financial markets. This sustained increase in the prices of goods and services can signal changes in the economic environment affecting purchasing power, savings, and investments. For investors, the dynamics of inflation are particularly significant as they directly impact asset prices and investment returns. Understanding the various causes of inflation, from demand-pull and cost-push factors to built-in inflation, is essential for developing effective strategies that withstand economic fluctuations.

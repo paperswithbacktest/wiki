@@ -1,6 +1,9 @@
 ---
-title: "Option Class: Overview and Functionality (Algo Trading)"
-description: "Explore the synergy of options and algorithmic trading strategies for hedging, speculation, and diversification, enhancing trading outcomes in financial markets."
+category: quant_concept
+description: Explore the synergy of options and algorithmic trading strategies for
+  hedging, speculation, and diversification, enhancing trading outcomes in financial
+  markets.
+title: 'Option Class: Overview and Functionality (Algo Trading)'
 ---
 
 In the world of finance, options trading and algorithmic strategies are gaining significant traction, offering traders dynamic ways to approach markets. The fusion of these two methodologies capitalizes on the strengths of each, creating opportunities for optimized trading performance. Options trading provides versatile financial instruments that offer the right, but not the obligation, to buy or sell assets at predetermined prices, making them an essential tool for hedging, speculation, and diversification. On the other hand, algorithmic trading automates strategy execution, providing speed, precision, and the capability to manage complex strategies efficiently.

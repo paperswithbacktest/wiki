@@ -1,6 +1,9 @@
 ---
-title: "Percentage of Global Money in Bitcoin (Algo Trading)"
-description: "Explore the impact of Bitcoin in global finance with insights into its algorithmic trading involvement scarcity-driven value and potential as a global currency."
+category: quant_concept
+description: Explore the impact of Bitcoin in global finance with insights into its
+  algorithmic trading involvement scarcity-driven value and potential as a global
+  currency.
+title: Percentage of Global Money in Bitcoin (Algo Trading)
 ---
 
 Bitcoin has emerged as a pivotal figure in the world of finance, capturing the attention of investors, financial analysts, and policy-makers across the globe. As a decentralized digital currency, Bitcoin functions outside the purview of central banks and traditional financial infrastructures, leveraging blockchain technology to validate transactions and maintain security. This independence marks a significant shift from the conventional monetary systems that have dominated for centuries, paving the way for innovative financial mechanisms.

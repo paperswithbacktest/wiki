@@ -1,6 +1,8 @@
 ---
-title: "Gina Raimondo: Biography and Achievements (Algo Trading)"
-description: "Explore the remarkable career of Gina Raimondo blending politics finance and technology. Discover her leadership in commerce and advancements in algo trading."
+category: quant_concept
+description: Explore the remarkable career of Gina Raimondo blending politics finance
+  and technology. Discover her leadership in commerce and advancements in algo trading.
+title: 'Gina Raimondo: Biography and Achievements (Algo Trading)'
 ---
 
 Gina Raimondo stands out as a distinguished figure in contemporary American politics, seamlessly merging her roles as a politician, venture capitalist, and businesswoman. Appointed by President Joe Biden as the 40th U.S. Secretary of Commerce, Raimondo's career is characterized by a series of significant accomplishments that reflect her multifaceted expertise. Her active engagement with the finance sector, especially through her venture capital initiatives, provides her career with a distinctive edge.

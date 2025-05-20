@@ -1,6 +1,9 @@
 ---
-title: "Forward-Backward Stochastic Differential Equations (FBSDE) (Algo Trading)"
-description: "Explore how Forward-Backward Stochastic Differential Equations (FBSDEs) enhance algorithmic trading by modeling the complex dynamics and randomness of financial markets."
+category: quant_concept
+description: Explore how Forward-Backward Stochastic Differential Equations (FBSDEs)
+  enhance algorithmic trading by modeling the complex dynamics and randomness of financial
+  markets.
+title: Forward-Backward Stochastic Differential Equations (FBSDE) (Algo Trading)
 ---
 
 Forward-Backward Stochastic Differential Equations (FBSDEs) have emerged as a formidable mathematical framework within several key disciplines, notably including probability, control theory, and finance. These equations combine the characteristics of both forward and backward stochastic differential equations, providing a comprehensive approach to modeling systems where feedback and adaptive responses are essential. In financial contexts, especially, FBSDEs have started to play a pivotal role, particularly in algorithmic trading, due to their capability to manage and model complex systems characterized by randomness and uncertainty.

@@ -1,6 +1,8 @@
 ---
-title: "Fluctuations in Initial Public Offerings (Algo Trading)"
-description: "Explore the impact of algorithmic trading in Initial Public Offerings and how it mitigates IPO volatility while enhancing market efficiency and liquidity."
+category: quant_concept
+description: Explore the impact of algorithmic trading in Initial Public Offerings
+  and how it mitigates IPO volatility while enhancing market efficiency and liquidity.
+title: Fluctuations in Initial Public Offerings (Algo Trading)
 ---
 
 Initial Public Offerings (IPOs) are critical events for any company looking to expand its capital and gain visibility in financial markets. As a transition from private to public ownership, an IPO provides companies with access to a wider pool of capital, which can be leveraged for strategic growth, innovation, and debt reduction. This transformation is significant, as it marks a new stage in a company's lifecycle, potentially increasing its valuation and enhancing its public profile.

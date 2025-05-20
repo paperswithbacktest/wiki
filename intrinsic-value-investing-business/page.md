@@ -1,6 +1,8 @@
 ---
-title: "Intrinsic Value in Investing and Business (Algo Trading)"
-description: "Explore business valuation, intrinsic value, and algorithmic trading to make informed investment decisions and adapt to fast-paced financial markets."
+category: quant_concept
+description: Explore business valuation, intrinsic value, and algorithmic trading
+  to make informed investment decisions and adapt to fast-paced financial markets.
+title: Intrinsic Value in Investing and Business (Algo Trading)
 ---
 
 Understanding the intricacies of investing is vital for anyone looking to maximize their wealth. Within this complex landscape, business valuation, intrinsic value calculation, and algorithmic trading stand out as key elements that enable investors to make informed decisions. Business valuation is the process by which the economic value of a business or company is determined, offering insights into its potential profitability and market position. Intrinsic value, on the other hand, refers to the actual worth of an asset or company based on fundamental analysis, independent of its current market price. This concept aids investors in distinguishing between undervalued and overvalued assets, allowing for strategic investment decisions.
@@ -159,4 +161,3 @@ This strategic combination promises not only profitability but also a comprehens
 - **High-Frequency Trading: A Practical Guide by Irene Aldridge**: Irene Aldridge's book provides a practical guide to high-frequency trading (HFT), covering its methods, technologies, and risk management practices. The book is particularly useful for those exploring the intricacies of executing trades at high speeds, discussing the infrastructure and strategies that HFT firms employ in today's markets.
 
 - **Trading and Exchanges: Market Microstructure for Practitioners by Larry Harris**: This comprehensive text examines the market microstructure, focusing on how trading occurs within financial markets. Larry Harris discusses the roles of different market participants, the formation of prices, and the implications of trading rules and regulations, making it a valuable resource for anyone interested in understanding the mechanics of trading execution.
-

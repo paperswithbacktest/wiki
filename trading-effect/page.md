@@ -1,6 +1,8 @@
 ---
-title: "Trading Effect (Algo Trading)"
-description: "Explore the dynamic world of algorithmic trading and its significant impact on financial markets Discover key concepts benefits risks and trading strategies"
+category: trading_strategy
+description: Explore the dynamic world of algorithmic trading and its significant
+  impact on financial markets Discover key concepts benefits risks and trading strategies
+title: Trading Effect (Algo Trading)
 ---
 
 In the rapidly evolving world of financial markets, algorithmic trading, often referred to as algo trading, plays a pivotal role. This modern trading approach involves the use of pre-programmed instructions executed automatically within financial markets. Such instructions, often grounded in complex mathematical models and sophisticated analysis of market data, allow for a systematic and efficient trading process that can outpace traditional human decision-making.

@@ -1,6 +1,9 @@
 ---
-title: "Price-to-Earnings Ratio: Formula and Examples (Algo Trading)"
-description: "Learn about the Price-to-Earnings ratio a vital metric in algo trading that helps investors assess stock value by comparing market price to earnings per share."
+category: quant_concept
+description: Learn about the Price-to-Earnings ratio a vital metric in algo trading
+  that helps investors assess stock value by comparing market price to earnings per
+  share.
+title: 'Price-to-Earnings Ratio: Formula and Examples (Algo Trading)'
 ---
 
 Investment metrics play a crucial role in stock trading, offering quantitative assessments that guide investors in their decision-making processes. Among these metrics, the Price-to-Earnings (P/E) ratio stands out as a cornerstone for evaluating company stocks. The P/E ratio is essentially a reflection of how much investors are willing to pay today for a dollar of earnings in the future. This ratio serves as a barometer for assessing whether a stock is overvalued or undervalued relative to its earnings potential. It is calculated using the formula:
@@ -272,4 +275,3 @@ Incorporating various financial metrics into algorithmic trading strategies enha
    - Eugene Fama and Kenneth French: Known for their work on market efficiency and asset pricing, their research informs the use of various financial metrics in evaluating investment opportunities. 
 
 These resources offer rich insights into both traditional and contemporary approaches to stock valuation and trading strategies, making them valuable for anyone looking to deepen their understanding of these fields.
-

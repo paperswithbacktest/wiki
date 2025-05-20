@@ -1,6 +1,8 @@
 ---
-title: "Honduran Lempira: Overview and Challenges (Algo Trading)"
-description: "Explore the Honduran Lempira's history and economic challenges such as inflation and volatility Discover how algorithmic trading aids currency stability"
+category: quant_concept
+description: Explore the Honduran Lempira's history and economic challenges such as
+  inflation and volatility Discover how algorithmic trading aids currency stability
+title: 'Honduran Lempira: Overview and Challenges (Algo Trading)'
 ---
 
 The Honduran Lempira, as the official currency of Honduras, signifies much more than a mere medium of exchange. It occupies a central role in the nation's economic practices and serves as a significant emblem of Honduran national identity. This currency not only facilitates everyday transactions but also reflects the historical and cultural narratives of Honduras. This article provides a comprehensive examination of the Lempira's history, exploring its origins, the economic hurdles it faces, and innovative approaches such as algorithmic trading that aim to address some of these challenges.

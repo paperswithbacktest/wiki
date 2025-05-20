@@ -1,6 +1,14 @@
 ---
-title: "Net Asset Value of Mutual Funds and Calculation Formula (Algo Trading)"
-description: "Discover the essential insights into mutual funds and their Net Asset Value (NAV) calculation with a focus on algorithmic trading strategies. Explore how NAV, a key measure of fund value, is determined using total assets and liabilities while learning about its significance in fund transactions. Understand the impact of algo trading in maximizing efficiency and precision in financial markets. Embrace this comprehensive guide to equip yourself with knowledge on mutual fund investments, NAV's role, and the influence of modern trading technologies, enhancing your investment strategy in the fast-evolving financial landscape."
+category: quant_concept
+description: Discover the essential insights into mutual funds and their Net Asset
+  Value (NAV) calculation with a focus on algorithmic trading strategies. Explore
+  how NAV, a key measure of fund value, is determined using total assets and liabilities
+  while learning about its significance in fund transactions. Understand the impact
+  of algo trading in maximizing efficiency and precision in financial markets. Embrace
+  this comprehensive guide to equip yourself with knowledge on mutual fund investments,
+  NAV's role, and the influence of modern trading technologies, enhancing your investment
+  strategy in the fast-evolving financial landscape.
+title: Net Asset Value of Mutual Funds and Calculation Formula (Algo Trading)
 ---
 
 Mutual funds are an integral part of investment portfolios, serving as a means for investors to diversify their assets and gain access to a wide array of securities without the need for direct, individual investments. These funds pool money from multiple investors to purchase a collection of stocks, bonds, or other securities, managed by a professional fund manager. This setup allows investors to benefit from the manager's expertise and the funds' collective buying power, while also spreading risk across a broad range of assets.

@@ -1,6 +1,8 @@
 ---
-title: "Leading Mutual Funds in Impact Investing (Algo Trading)"
-description: "Discover the intersection of sustainable finance and algorithmic trading as mutual funds drive impact investing enhancing efficiency and societal benefits."
+category: trading_strategy
+description: Discover the intersection of sustainable finance and algorithmic trading
+  as mutual funds drive impact investing enhancing efficiency and societal benefits.
+title: Leading Mutual Funds in Impact Investing (Algo Trading)
 ---
 
 In the evolving world of finance, strategies such as sustainable investing and algorithmic trading are increasingly gaining prominence. These strategies represent a shift towards integrating ethical considerations and technological advancements within traditional finance to achieve broader economic and social goals. This article focuses on the growing influence of sustainable finance, mutual funds aimed at impact investing, and the role of algorithmic trading, exploring their interconnectedness and overall significance in modern finance.

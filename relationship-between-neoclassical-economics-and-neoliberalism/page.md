@@ -1,6 +1,8 @@
 ---
-title: "Relationship Between Neoclassical Economics and Neoliberalism (Algo Trading)"
-description: "Explore the intricate link between neoclassical economics and neoliberalism in shaping modern financial systems and the evolution of algorithmic trading."
+category: quant_concept
+description: Explore the intricate link between neoclassical economics and neoliberalism
+  in shaping modern financial systems and the evolution of algorithmic trading.
+title: Relationship Between Neoclassical Economics and Neoliberalism (Algo Trading)
 ---
 
 Economic theories such as neoclassical economics and neoliberalism are intricately linked to the evolution of modern financial systems. Neoclassical economics, with its focus on supply and demand equilibrium, and neoliberalism, advocating for free markets and minimal government intervention, have both shaped key economic principles that underpin today's financial markets. These theories are not merely academic constructs but have practical implications that resonate throughout various economic activities, including algorithmic trading.

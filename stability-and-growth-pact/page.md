@@ -1,6 +1,9 @@
 ---
-title: "Stability and Growth Pact (Algo Trading)"
-description: "Discover how the EU's Stability and Growth Pact ensures fiscal stability amid modern challenges like algorithmic trading Learn its significance in the financial landscape"
+category: quant_concept
+description: Discover how the EU's Stability and Growth Pact ensures fiscal stability
+  amid modern challenges like algorithmic trading Learn its significance in the financial
+  landscape
+title: Stability and Growth Pact (Algo Trading)
 ---
 
 The European Union's Stability and Growth Pact (SGP) serves as a fundamental mechanism to ensure fiscal prudence and economic stability within its member states. Established in the late 1990s, the SGP outlines fiscal rules that limit budget deficits to 3% of a country's Gross Domestic Product (GDP) and cap national public debt at 60% of GDP. These fiscal thresholds are designed to prevent excessive government borrowing, thereby maintaining stability within the EU's economic and monetary union. 

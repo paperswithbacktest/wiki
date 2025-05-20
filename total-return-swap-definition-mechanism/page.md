@@ -1,6 +1,8 @@
 ---
-title: "Total Return Swap: Definition and Mechanism (Algo Trading)"
-description: "Explore Total Return Swaps and their role in algorithmic trading Learn how TRS contracts can enhance returns and manage risks for diverse financial strategies"
+category: quant_concept
+description: Explore Total Return Swaps and their role in algorithmic trading Learn
+  how TRS contracts can enhance returns and manage risks for diverse financial strategies
+title: 'Total Return Swap: Definition and Mechanism (Algo Trading)'
 ---
 
 Financial derivatives are critical components in modern finance, serving as instruments that derive their value from underlying assets such as stocks, bonds, commodities, or interest rates. They are used for hedging risk, speculation, and to leverage positions in financial markets. Derivatives enable investors to manage exposure to various risks, thereby enhancing liquidity and enabling efficient price discovery in financial markets.
@@ -195,4 +197,3 @@ Furthermore, the exploration and study of financial derivatives remain crucial a
 [5]: ["Swaps and Other Derivatives in Electronic Trading: A Case Study into the Role of Algorithmic Trading"](https://sites.duke.edu/djepapers/files/2016/08/schiffrin.pdf) - The Review of Financial Studies
 
 [6]: ["Quantitative Trading: How to Build Your Own Algorithmic Trading Business"](https://github.com/LucindaYa/quant-resources/blob/master/Quantitative%20Trading%20How%20to%20Build%20Your%20Own%20Algorithmic%20Trading%20Business.pdf) by Ernest P. Chan
-

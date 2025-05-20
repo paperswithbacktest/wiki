@@ -1,6 +1,8 @@
 ---
-title: "market reaction modeling (Algo Trading)"
-description: "Explore market reaction modeling in algorithmic trading and its role in predicting and responding to market events enhancing trading precision and efficiency."
+category: quant_concept
+description: Explore market reaction modeling in algorithmic trading and its role
+  in predicting and responding to market events enhancing trading precision and efficiency.
+title: market reaction modeling (Algo Trading)
 ---
 
 Algorithmic trading, often referred to as algo trading, leverages computer programs and algorithms to execute trading strategies at high speeds and frequencies. Unlike traditional trading, which relies on human decision-making and manual order placement, algorithmic trading automates these processes, facilitating rapid transactions and reducing the likelihood of human error. The relevance of algorithmic trading in modern financial markets is exemplified by its substantial contribution to the increase in trading volumes and liquidity, making it a pivotal component of contemporary trading ecosystems.

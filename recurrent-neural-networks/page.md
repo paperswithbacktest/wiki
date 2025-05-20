@@ -1,7 +1,8 @@
 ---
-title: Comprehensive Overview Of Recurrent Neural Network Architectures
+category: quant_concept
 description: Recurrent Neural Network architectures explained from basics to advanced
   models with insights on common challenges and solutions Discover more inside.
+title: Comprehensive Overview Of Recurrent Neural Network Architectures
 ---
 
 ![Image](images/1.png)

@@ -1,6 +1,9 @@
 ---
-title: "Brady Bonds: Function and Examples (Algo Trading)"
-description: "Discover how Brady Bonds revolutionized sovereign debt restructuring in emerging markets and their intersection with algorithmic trading strategies in global finance."
+category: quant_concept
+description: Discover how Brady Bonds revolutionized sovereign debt restructuring
+  in emerging markets and their intersection with algorithmic trading strategies in
+  global finance.
+title: 'Brady Bonds: Function and Examples (Algo Trading)'
 ---
 
 The complexities of global finance often necessitate a variety of instruments and strategies to manage sovereign debt effectively. Central to this is the concept of Brady Bonds, which emerged in the late 1980s as a pivotal innovation aimed at restructuring sovereign debt in emerging markets. Named after then U.S. Treasury Secretary Nicholas Brady, these bonds were introduced under the Brady Plan, which provided a framework for converting bank loans into tradable instruments, thereby mitigating the debt crises faced by several developing countries.

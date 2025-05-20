@@ -1,6 +1,11 @@
 ---
-title: "Marijuana ETFs: Advantages and Disadvantages (Algo Trading)"
-description: "Discover the opportunities and challenges of investing in marijuana ETFs and the impact of algorithmic trading on these investment vehicles. Explore how these ETFs provide diversified access to the cannabis industry, the pros and cons of such investments, and how cutting-edge trading strategies can enhance returns in a volatile market."
+category: trading_strategy
+description: Discover the opportunities and challenges of investing in marijuana ETFs
+  and the impact of algorithmic trading on these investment vehicles. Explore how
+  these ETFs provide diversified access to the cannabis industry, the pros and cons
+  of such investments, and how cutting-edge trading strategies can enhance returns
+  in a volatile market.
+title: 'Marijuana ETFs: Advantages and Disadvantages (Algo Trading)'
 ---
 
 The legal marijuana industry has witnessed significant growth, bringing new investment opportunities to the forefront, especially through Exchange-Traded Funds (ETFs). These ETFs offer investors a diversified gateway into the cannabis sector by pooling together assets from various cannabis-related companies and tracking their collective performance. As the marijuana market navigates the complexities of legalization and regulatory changes, investors also find themselves exploring advanced investment strategies, such as algorithmic trading, to maximize their returns.

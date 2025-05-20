@@ -1,6 +1,8 @@
 ---
-title: "Economic Development Measurement Using GNP (Algo Trading)"
-description: "Explore the complex interplay between economic development GNP and algo trading to understand their impact on national economies and global financial dynamics."
+category: quant_concept
+description: Explore the complex interplay between economic development GNP and algo
+  trading to understand their impact on national economies and global financial dynamics.
+title: Economic Development Measurement Using GNP (Algo Trading)
 ---
 
 The intricate relationship between economic development, Gross National Product (GNP), and the national economy forms the backbone of modern financial analysis. Economic development is intrinsically linked to GNP, which quantifies the total economic output produced by a nation's residents, regardless of whether the production occurs within the country's borders. This measurement provides invaluable insights into the economic performance and living standards of a nation.

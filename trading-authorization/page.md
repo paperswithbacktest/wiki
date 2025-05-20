@@ -1,6 +1,9 @@
 ---
-title: "Trading Authorization (Algo Trading)"
-description: "Explore the role of trading authorization in the high-speed world of algorithmic trading Learn how authorization levels impact strategy efficiency and investor control"
+category: quant_concept
+description: Explore the role of trading authorization in the high-speed world of
+  algorithmic trading Learn how authorization levels impact strategy efficiency and
+  investor control
+title: Trading Authorization (Algo Trading)
 ---
 
 In the rapidly evolving world of finance, algorithmic trading, often referred to as algo trading, has become a cornerstone of modern financial markets. This sophisticated approach leverages advanced computer algorithms to facilitate swift and efficient transactions, often operating at speeds and scales beyond human capability. Algo trading is a transformative force, optimizing the execution of trades and ensuring precision in strategies that require high-frequency transactions. 

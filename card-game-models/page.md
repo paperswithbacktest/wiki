@@ -1,7 +1,8 @@
 ---
-title: Card Game Model Fundamentals for Machine Learning Beginners
+category: quant_concept
 description: Card game models in machine learning build AI opponents by simulating
   strategies with reinforcement learning to learn winning moves Discover more inside
+title: Card Game Model Fundamentals for Machine Learning Beginners
 ---
 
 ![Image](images/1.png)

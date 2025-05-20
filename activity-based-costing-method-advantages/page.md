@@ -1,6 +1,12 @@
 ---
-title: "Activity-Based Costing: Method and Advantages (Algo Trading)"
-description: "Explore the advantages of Activity-Based Costing (ABC) in cost management within trading and investing sectors. Understand how ABC provides granular insights into cost structures, aiding strategic decisions in algorithmic trading by identifying cost-intensive activities. This article highlights ABC as a powerful tool across industries, enhancing profitability and operational efficiency through improved cost accuracy and resource optimization."
+category: quant_concept
+description: Explore the advantages of Activity-Based Costing (ABC) in cost management
+  within trading and investing sectors. Understand how ABC provides granular insights
+  into cost structures, aiding strategic decisions in algorithmic trading by identifying
+  cost-intensive activities. This article highlights ABC as a powerful tool across
+  industries, enhancing profitability and operational efficiency through improved
+  cost accuracy and resource optimization.
+title: 'Activity-Based Costing: Method and Advantages (Algo Trading)'
 ---
 
 In today's complex financial landscape, understanding the intricacies of cost management is vital, especially for those involved in trading and investing. The ability to allocate and manage costs effectively can have a significant impact on profitability and operational efficiency. This article explores the role and benefits of Activity-Based Costing (ABC) in cost management and its influence on algorithmic trading strategies. ABC is a cost allocation methodology that provides detailed insights into the costs associated with producing goods or services by assigning costs to specific activities that drive those costs. Unlike traditional costing methods that use broad averages, ABC helps identify the true costs of products by analyzing the resources consumed by each activity involved in production.

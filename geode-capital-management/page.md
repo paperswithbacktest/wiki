@@ -1,6 +1,14 @@
 ---
-title: "Geode Capital Management (Algo Trading)"
-description: Geode Capital Management is a leading investment management firm specializing in algorithmic trading, headquartered in Boston, Massachusetts. Established in 2001, Geode has built a strong reputation for its growth and innovation in systematic investment strategies, managing over $1 trillion in assets by 2022. The firm employs a data-driven, risk-managed approach with a focus on technology and quantitative research, excelling in diverse asset classes. Geode's team of quantitative experts and robust infrastructure enable it to consistently generate value, maintaining its position at the forefront of the rapidly evolving financial industry.
+category: quant_concept
+description: Geode Capital Management is a leading investment management firm specializing
+  in algorithmic trading, headquartered in Boston, Massachusetts. Established in 2001,
+  Geode has built a strong reputation for its growth and innovation in systematic
+  investment strategies, managing over $1 trillion in assets by 2022. The firm employs
+  a data-driven, risk-managed approach with a focus on technology and quantitative
+  research, excelling in diverse asset classes. Geode's team of quantitative experts
+  and robust infrastructure enable it to consistently generate value, maintaining
+  its position at the forefront of the rapidly evolving financial industry.
+title: Geode Capital Management (Algo Trading)
 ---
 
 Geode Capital Management, renowned for its proficiency in algorithmic trading, stands as a distinguished investment management firm headquartered in Boston, Massachusetts. Since its founding in 2001, Geode has charted a remarkable trajectory of growth and innovation in the financial sector. This article examines Geode's historical journey, the evolution of its operational strategies, and its influential role in the domain of algorithmic trading—a swiftly advancing field characterized by the use of complex algorithms and data analytics to inform investment decisions. The firm's strategic initiatives and sustained success offer a compelling narrative in the dynamic landscape of investment management.

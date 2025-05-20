@@ -1,6 +1,9 @@
 ---
-title: "Impact of Factor Endowments on Comparative Advantage (Algo Trading)"
-description: "Explore how factor endowments influence comparative advantage in algo trading Learn how economic theories shape modern trading strategies and global market dynamics"
+category: quant_concept
+description: Explore how factor endowments influence comparative advantage in algo
+  trading Learn how economic theories shape modern trading strategies and global market
+  dynamics
+title: Impact of Factor Endowments on Comparative Advantage (Algo Trading)
 ---
 
 The world of economics and finance encompasses a vast array of theories and models that aim to clarify the mechanisms of trade and production. Among these, the factor endowment theory prominently connects with the principle of comparative advantage, forming a foundational element in international economics. Factor endowment theory suggests that the resources a country possesses—such as land, labor, and capital—significantly influence its production capabilities and trade behaviors. This theory posits that differing resource endowments result in varying opportunity costs for producing goods, which consequently impacts trade and specialization patterns among countries.

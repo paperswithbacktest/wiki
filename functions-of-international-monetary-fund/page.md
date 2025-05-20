@@ -1,6 +1,11 @@
 ---
-title: "Functions of the International Monetary Fund (Algo Trading)"
-description: "Explore the intricate relationship between the International Monetary Fund and algorithmic trading and their collective impact on global economies. Understand how the IMF influences economic outcomes and how algorithmic trading reshapes market dynamics. Discover the feedback loop created as these financial forces interact, shaping policies and strategies in the world economy."
+category: quant_concept
+description: Explore the intricate relationship between the International Monetary
+  Fund and algorithmic trading and their collective impact on global economies. Understand
+  how the IMF influences economic outcomes and how algorithmic trading reshapes market
+  dynamics. Discover the feedback loop created as these financial forces interact,
+  shaping policies and strategies in the world economy.
+title: Functions of the International Monetary Fund (Algo Trading)
 ---
 
 The International Monetary Fund (IMF) is a pivotal institution in global economics. Established in 1944 at the Bretton Woods Conference, the IMF's primary objectives are to secure financial stability, facilitate international trade, promote high employment and sustainable economic growth, and reduce poverty around the world. It does this through a variety of mechanisms including the surveillance of member economies, provision of financial assistance, and capacity development. The IMF's role in stabilizing international exchange rates has been crucial in shaping the economic policies of nations worldwide. Despite these achievements, the organization has faced criticisms and controversies over its policies, which some argue can lead to stringent economic conditions for borrowing nations.

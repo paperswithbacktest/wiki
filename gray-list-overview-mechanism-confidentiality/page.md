@@ -1,6 +1,9 @@
 ---
-title: "Gray List: Overview, Mechanism, and Confidentiality (Algo Trading)"
-description: "Explore the role of gray lists in algorithmic trading focusing on risk management confidential data protection, and how financial strategies adapt to rapid changes."
+category: quant_concept
+description: Explore the role of gray lists in algorithmic trading focusing on risk
+  management confidential data protection, and how financial strategies adapt to rapid
+  changes.
+title: 'Gray List: Overview, Mechanism, and Confidentiality (Algo Trading)'
 ---
 
 Algorithmic trading, often referred to as algo trading, encompasses the use of computer programs and algorithms to execute trades in financial markets. This method leverages complex mathematical models and formulas to make swift trading decisions, aiming to capitalize on market opportunities and trends that are often unnoticed by human traders. Over recent years, algorithmic trading has become increasingly influential, dominating a substantial portion of market transactions. Its rise can be attributed to the technology's capacity to process vast volumes of data at high speeds, ensuring efficient trade execution while reducing human error and emotional decision-making.

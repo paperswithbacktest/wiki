@@ -1,6 +1,13 @@
 ---
-title: "Basket of Goods and CPI Calculation (Algo Trading)"
-description: "Discover the intricacies of the Consumer Price Index and its impact on economic strategies on this page. Learn how the CPI, an essential tool for measuring inflation, influences policy, investment, and business decisions through its comprehensive analysis of price changes in a representative basket of goods. Explore the methodologies behind CPI calculation and the role of algorithmic trading in leveraging this data for financial advantage. Understand the importance of CPI in forecasting economic trends and crafting informed trading strategies."
+category: quant_concept
+description: Discover the intricacies of the Consumer Price Index and its impact on
+  economic strategies on this page. Learn how the CPI, an essential tool for measuring
+  inflation, influences policy, investment, and business decisions through its comprehensive
+  analysis of price changes in a representative basket of goods. Explore the methodologies
+  behind CPI calculation and the role of algorithmic trading in leveraging this data
+  for financial advantage. Understand the importance of CPI in forecasting economic
+  trends and crafting informed trading strategies.
+title: Basket of Goods and CPI Calculation (Algo Trading)
 ---
 
 The Consumer Price Index (CPI) is a fundamental economic indicator that tracks the average change over time in the prices paid by urban consumers for a representative basket of goods and services. It serves as a critical measure for assessing inflation, allowing policymakers, investors, and businesses to make well-informed economic decisions. The CPI is designed to capture the price dynamics of a predefined set of goods and services, reflecting various consumer expenditures.

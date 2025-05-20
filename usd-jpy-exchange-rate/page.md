@@ -1,6 +1,9 @@
 ---
-title: "USD/JPY Exchange Rate (Algo Trading)"
-description: "Explore how the USD/JPY exchange rate is influenced by algorithmic trading This guide examines key factors impacting this major forex pair for traders and investors"
+category: trading_strategy
+description: Explore how the USD/JPY exchange rate is influenced by algorithmic trading
+  This guide examines key factors impacting this major forex pair for traders and
+  investors
+title: USD/JPY Exchange Rate (Algo Trading)
 ---
 
 The foreign exchange market, commonly known as the forex market, is the largest and most liquid financial market in the world. It operates as a decentralized network of financial institutions, corporations, and individual traders involved in buying, selling, and exchanging currencies at prevailing market prices. The daily trading volume in the forex market exceeds $6 trillion, which highlights its vastness and pivotal role in the global economy. The forex market is crucial for international trade and investment, affecting everything from currency valuation to economic policies.

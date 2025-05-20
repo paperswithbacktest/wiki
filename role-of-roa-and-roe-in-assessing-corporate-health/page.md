@@ -1,6 +1,8 @@
 ---
-title: "Role of ROA and ROE in Assessing Corporate Health (Algo Trading)"
-description: "Explore how ROA and ROE, key financial ratios, measure corporate health and enhance algorithmic trading strategies for optimal investment decisions."
+category: quant_concept
+description: Explore how ROA and ROE, key financial ratios, measure corporate health
+  and enhance algorithmic trading strategies for optimal investment decisions.
+title: Role of ROA and ROE in Assessing Corporate Health (Algo Trading)
 ---
 
 In the evolving landscape of corporate finance and trading, assessing the financial health of companies has become pivotal for investors and analysts. Return on Equity (ROE) and Return on Assets (ROA) are two crucial financial ratios used to gauge a company's efficiency in generating profits from shareholders’ equity and assets. ROE, defined as the ratio of net income to shareholders’ equity, measures a company’s ability to generate earnings from each unit of equity. Mathematically, it is expressed as:

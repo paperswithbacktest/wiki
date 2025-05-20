@@ -1,6 +1,8 @@
 ---
-title: "Franco Modigliani and His Contributions to Economics (Algo Trading)"
-description: "Explore Franco Modigliani's revolutionary impact on economics and finance with key theories like the Modigliani-Miller Theorem and life-cycle hypothesis."
+category: quant_concept
+description: Explore Franco Modigliani's revolutionary impact on economics and finance
+  with key theories like the Modigliani-Miller Theorem and life-cycle hypothesis.
+title: Franco Modigliani and His Contributions to Economics (Algo Trading)
 ---
 
 Franco Modigliani was a distinguished Neo-Keynesian economist whose work has had a profound and enduring impact on economic theory. Born in Rome, Italy, in 1918, Modigliani moved to the United States during World War II, where he would shape much of modern economic thinking. His innovative theories and rigorous analytical approaches earned him numerous accolades, culminating in being awarded the Nobel Prize in Economic Sciences in 1985.

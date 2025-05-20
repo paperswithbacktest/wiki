@@ -1,6 +1,8 @@
 ---
-title: "Internet Bubble: Significance and Mechanics (Algo Trading)"
-description: "Explore the significance and mechanics behind economic bubbles with a focus on the dot-com era and its impact on algo trading and financial markets."
+category: quant_concept
+description: Explore the significance and mechanics behind economic bubbles with a
+  focus on the dot-com era and its impact on algo trading and financial markets.
+title: 'Internet Bubble: Significance and Mechanics (Algo Trading)'
 ---
 
 The rise and fall of economic bubbles have been subjects of keen interest in the study of financial markets. Among the most notable of these bubbles is the dot-com era, which is often referred to as the internet bubble. This period, spanning from the mid-to-late 1990s, was characterized by an extraordinary surge in technology stocks, culminating in a spectacular collapse. The dot-com bubble serves as a critical study of how speculative investing, propelled by the burgeoning popularity of the internet, led to unsustainable market valuations.

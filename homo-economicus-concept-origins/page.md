@@ -1,6 +1,9 @@
 ---
-title: "Homo Economicus: Concept and Origins (Algo Trading)"
-description: "Explore the concept of Homo Economicus in economic theories and its role in algorithmic trading examining how rational behavior impacts financial markets and decision-making."
+category: quant_concept
+description: Explore the concept of Homo Economicus in economic theories and its role
+  in algorithmic trading examining how rational behavior impacts financial markets
+  and decision-making.
+title: 'Homo Economicus: Concept and Origins (Algo Trading)'
 ---
 
 The concept of Homo Economicus represents individuals in economic theories as rational, self-interested actors, capable of making decisions that maximize their utility based on complete and accurate information. This theoretical model forms a crucial foundation for many economic theories, which rely on the assumption of consistent rational behavior and perfect information to predict and explain economic outcomes. However, in practical applications, especially within financial markets and algorithmic trading, these assumptions are often scrutinized.

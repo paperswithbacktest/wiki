@@ -1,6 +1,11 @@
 ---
-title: "Republican and Democratic Economic Regulation Approaches (Algo Trading)"
-description: "Explore the contrasting economic regulation approaches of Republicans and Democrats in the U.S. Discover how each party's philosophy influences their policies and impacts the economy from tax reforms to algorithmic trading. Understand the implications for growth and social welfare through an analysis of historical data and emerging challenges in financial markets."
+category: quant_concept
+description: Explore the contrasting economic regulation approaches of Republicans
+  and Democrats in the U.S. Discover how each party's philosophy influences their
+  policies and impacts the economy from tax reforms to algorithmic trading. Understand
+  the implications for growth and social welfare through an analysis of historical
+  data and emerging challenges in financial markets.
+title: Republican and Democratic Economic Regulation Approaches (Algo Trading)
 ---
 
 The intersection of politics and the economy in the United States has been a long-standing debate with significant implications on policy-making and national development. Central to this discourse are the contrasting economic philosophies of the two major political parties: the Republicans and the Democrats. Each party's approach to economic regulation reflects a distinct ideology that influences their policy decisions and priorities.

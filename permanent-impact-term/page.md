@@ -1,6 +1,8 @@
 ---
-title: "Permanent impact term (Algo Trading)"
-description: "Explore the crucial Permanent Impact Term in algorithmic trading, impacting trade costs and strategy by influencing a security's long-term market price."
+category: quant_concept
+description: Explore the crucial Permanent Impact Term in algorithmic trading, impacting
+  trade costs and strategy by influencing a security's long-term market price.
+title: Permanent impact term (Algo Trading)
 ---
 
 Algorithmic trading, a sophisticated form of trading that uses algorithms to execute transactions, is deeply dependent on efficient execution strategies to enhance profitability and minimize costs. A crucial aspect of these strategies is understanding the 'Permanent Impact Term,' which is integral to grasping market impact within algorithmic trading frameworks. The Permanent Impact Term refers to the long-lasting effect a trade has on the price of a security, usually due to the information it conveys to the market about the security's potential value.

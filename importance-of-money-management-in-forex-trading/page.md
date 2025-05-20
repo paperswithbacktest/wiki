@@ -1,6 +1,9 @@
 ---
-title: "Importance of Money Management in Forex Trading (Algo Trading)"
-description: "Master forex trading by understanding the importance of money management and algorithmic trading Boost profits and mitigate risks with smart strategies in the market"
+category: trading_strategy
+description: Master forex trading by understanding the importance of money management
+  and algorithmic trading Boost profits and mitigate risks with smart strategies in
+  the market
+title: Importance of Money Management in Forex Trading (Algo Trading)
 ---
 
 The world of forex trading encompasses a vast and intricate system that presents numerous opportunities for profit. Recognized as the largest financial market globally, forex trading involves transactions exceeding trillions of dollars each day. Traders, banks, financial institutions, and corporations actively participate in this dynamic market, contributing to its liquidity and volatility.

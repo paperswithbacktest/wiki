@@ -1,6 +1,9 @@
 ---
-title: "Roll-Up Merger: Overview and Benefits (Algo Trading)"
-description: "Explore roll-up mergers and their strategic advantages in consolidating companies for growth efficiency and market reach while leveraging algo trading in modern business."
+category: quant_concept
+description: Explore roll-up mergers and their strategic advantages in consolidating
+  companies for growth efficiency and market reach while leveraging algo trading in
+  modern business.
+title: 'Roll-Up Merger: Overview and Benefits (Algo Trading)'
 ---
 
 The corporate world is a dynamic landscape where businesses constantly seek strategies to enhance growth, increase market share, and optimize efficiencies. Mergers and acquisitions (M&A) have long been a critical strategy in this pursuit, with roll-up mergers gaining particular prominence. Roll-up mergers involve the consolidation of multiple smaller companies within an industry into a larger, more competitive entity. This approach is favored for its potential to achieve economies of scale, streamline operations, and extend market reach. 

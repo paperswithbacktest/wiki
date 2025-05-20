@@ -1,6 +1,8 @@
 ---
-title: "Price Efficiency: Concept, Examples, and Limitations (Algo Trading)"
-description: "Explore the concept of price efficiency in financial markets, its implications in algorithmic trading, and understand its limitations in modern economic analysis."
+category: quant_concept
+description: Explore the concept of price efficiency in financial markets, its implications
+  in algorithmic trading, and understand its limitations in modern economic analysis.
+title: 'Price Efficiency: Concept, Examples, and Limitations (Algo Trading)'
 ---
 
 In today's rapidly evolving financial markets, comprehending the concepts of economic analysis, market efficiency, and price efficiency is crucial for investors and market participants. As markets become increasingly complex, understanding these principles aids in making informed investment decisions and navigating the global financial landscape.

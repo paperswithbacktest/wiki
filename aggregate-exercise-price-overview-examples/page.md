@@ -1,6 +1,8 @@
 ---
-title: "Aggregate Exercise Price: Overview and Examples (Algo Trading)"
-description: "Explore the essentials of aggregate exercise price and algorithmic options trading strategies to enhance your understanding and optimize your trading outcomes."
+category: quant_concept
+description: Explore the essentials of aggregate exercise price and algorithmic options
+  trading strategies to enhance your understanding and optimize your trading outcomes.
+title: 'Aggregate Exercise Price: Overview and Examples (Algo Trading)'
 ---
 
 Options trading is a vibrant sector of the financial markets renowned for its complexity and diversity. Unlike traditional stock trading, options trading affords investors the opportunity to capitalize on market fluctuations without the necessity of holding the underlying assets. This flexibility permits traders to manage risk, speculate on price movements, and generate potential income through various strategic maneuvers.

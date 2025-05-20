@@ -1,6 +1,9 @@
 ---
-title: "Bond Spreads as a Forex Indicator (Algo Trading)"
-description: "Explore how bond spreads influence Forex trading by providing insights into economic health and risks countries face. Enhance your strategy with this key indicator."
+category: trading_strategy
+description: Explore how bond spreads influence Forex trading by providing insights
+  into economic health and risks countries face. Enhance your strategy with this key
+  indicator.
+title: Bond Spreads as a Forex Indicator (Algo Trading)
 ---
 
 Global finance markets are intricate networks where diverse factors influence currency movements. Understanding various indicators is essential for Forex traders to make informed decisions. One critical indicator that provides nuanced insights into currency movements is bond spreads. Bond spreads, the difference in yields between two government bonds, often reflect the relative economic health of countries and market confidence. Recognizing the significance of these spreads can provide traders with a leading edge in predicting currency trends.

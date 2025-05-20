@@ -1,6 +1,14 @@
 ---
-title: "Data mining (Algo Trading)"
-description: Algorithmic trading transforms financial transactions with speed and efficiency, and data mining plays a pivotal role in this evolution. By extracting patterns from large datasets, data mining enhances trading systems' decision-making abilities. Traders can quickly analyze data, identify trends, and refine strategies for better efficiency and profitability. The synergy between data mining and algorithmic trading is essential for predicting market movements and gaining a competitive edge. As technology advances, mastering this integration is crucial for long-term success in financial markets, offering sophisticated and redefined trading approaches.
+category: trading_strategy
+description: Algorithmic trading transforms financial transactions with speed and
+  efficiency, and data mining plays a pivotal role in this evolution. By extracting
+  patterns from large datasets, data mining enhances trading systems' decision-making
+  abilities. Traders can quickly analyze data, identify trends, and refine strategies
+  for better efficiency and profitability. The synergy between data mining and algorithmic
+  trading is essential for predicting market movements and gaining a competitive edge.
+  As technology advances, mastering this integration is crucial for long-term success
+  in financial markets, offering sophisticated and redefined trading approaches.
+title: Data mining (Algo Trading)
 ---
 
 In recent years, algorithmic trading has revolutionized financial transactions by automating complex trading processes and executing orders with increased speed and efficiency. Central to this transformation is the role of data mining, a powerful technique used to extract patterns and insights from large datasets. This has emerged as a critical component in the development of successful algorithmic trading systems.

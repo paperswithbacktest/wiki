@@ -1,6 +1,8 @@
 ---
-title: "algorithmic execution (Algo Trading)"
-description: "Discover the world of algorithmic execution in trading where technology drives speed and precision Explore its benefits pitfalls and strategies for success"
+category: quant_concept
+description: Discover the world of algorithmic execution in trading where technology
+  drives speed and precision Explore its benefits pitfalls and strategies for success
+title: algorithmic execution (Algo Trading)
 ---
 
 In the rapidly evolving world of financial trading, the integration of advanced technologies has become a necessity. Among these technologies, algorithmic execution—commonly known as algo trading—stands out as a revolutionary force. The advent of algo trading represents a paradigm shift, enabling market participants to execute trades with unprecedented speed and precision.

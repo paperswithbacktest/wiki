@@ -1,6 +1,8 @@
 ---
-title: "China-Africa Development Fund: Overview and Objectives (Algo Trading)"
-description: "Explore how the China-Africa Development Fund (CADFund) enhances China-Africa economic ties through strategic investments in key sectors for sustainable growth."
+category: dataset
+description: Explore how the China-Africa Development Fund (CADFund) enhances China-Africa
+  economic ties through strategic investments in key sectors for sustainable growth.
+title: 'China-Africa Development Fund: Overview and Objectives (Algo Trading)'
 ---
 
 The China-Africa Development Fund (CADFund) plays a pivotal role in enhancing economic relations between China and Africa. Established in June 2007, CADFund is China's inaugural equity investment fund focused specifically on African markets, and it is managed by the China Development Bank. The inception of CADFund underscores a strategic effort by China to foster stronger economic ties with the African continent by supporting Chinese enterprises in their investment ventures in Africa. This initiative aligns with China's broader diplomatic goals, which include strengthening its economic footprint globally and facilitating sustainable growth across developing regions.

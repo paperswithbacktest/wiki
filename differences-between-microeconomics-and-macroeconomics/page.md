@@ -1,6 +1,11 @@
 ---
-title: "Differences Between Microeconomics and Macroeconomics (Algo Trading)"
-description: "Discover the essential distinctions between microeconomics and macroeconomics and their impact on algorithmic trading. Learn how microeconomics focuses on individual market behaviors and decisions while macroeconomics analyzes broader economic trends and policies. Understand the relevance of these economic concepts in optimizing trading strategies in today's complex financial landscape."
+category: quant_concept
+description: Discover the essential distinctions between microeconomics and macroeconomics
+  and their impact on algorithmic trading. Learn how microeconomics focuses on individual
+  market behaviors and decisions while macroeconomics analyzes broader economic trends
+  and policies. Understand the relevance of these economic concepts in optimizing
+  trading strategies in today's complex financial landscape.
+title: Differences Between Microeconomics and Macroeconomics (Algo Trading)
 ---
 
 Understanding economic concepts is vital for effectively navigating the complexities of financial markets and national economies. At the core, economics is typically divided into two main categories: microeconomics and macroeconomics. Each focuses on different facets of economic activity and provides distinct insights for comprehending how economies function. Microeconomics examines the behaviors and decisions made by individuals and businesses, addressing how supply, demand, and resource allocation play out in specific markets. Conversely, macroeconomics looks at the broader economic picture, analyzing entire industries and economic systems. This includes assessing factors such as national fiscal policies, inflation rates, unemployment, and overall economic growth.

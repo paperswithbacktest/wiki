@@ -1,6 +1,9 @@
 ---
-title: "Diluted Normalized Earnings Per Share (Algo Trading)"
-description: "Explore how diluted normalized EPS enhances algorithmic trading strategies by providing insight into a company's true earning potential after accounting for share dilution."
+category: quant_concept
+description: Explore how diluted normalized EPS enhances algorithmic trading strategies
+  by providing insight into a company's true earning potential after accounting for
+  share dilution.
+title: Diluted Normalized Earnings Per Share (Algo Trading)
 ---
 
 In the modern financial landscape, understanding key financial metrics is crucial for investors and traders aiming to make informed decisions. One such metric is the diluted normalized Earnings Per Share (EPS), which holds significant implications for investment strategies and financial analysis. Diluted normalized EPS offers more nuanced insight into a company's profitability by accounting for potential dilution of shares through convertible securities and normalizing extraordinary income or expenses. This deeper level of financial scrutiny is essential for accurately assessing a company's true earning power.

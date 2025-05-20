@@ -1,6 +1,8 @@
 ---
-title: "Pennant Chart Pattern in Technical Analysis (Algo Trading)"
-description: "Explore the pennant chart pattern in technical analysis for algo trading and discover how it aids in predicting market trends and enhancing trading strategies."
+category: trading_strategy
+description: Explore the pennant chart pattern in technical analysis for algo trading
+  and discover how it aids in predicting market trends and enhancing trading strategies.
+title: Pennant Chart Pattern in Technical Analysis (Algo Trading)
 ---
 
 Trading relies heavily on technical analysis as a fundamental method for evaluating securities and making informed decisions. This method employs various tools, with chart patterns being essential in predicting market movements and aiding traders in seizing potential opportunities. Among these patterns, the pennant pattern stands out due to its frequent appearance and reliability. Recognized as a continuation pattern, the pennant forms during market consolidations after a robust price movement.

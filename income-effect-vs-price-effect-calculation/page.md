@@ -1,6 +1,8 @@
 ---
-title: "Income Effect vs. Price Effect Calculation (Algo Trading)"
-description: "Explore the complex interplay of income and price effects in algorithmic trading and learn how these economic concepts can optimize trading strategies."
+category: quant_concept
+description: Explore the complex interplay of income and price effects in algorithmic
+  trading and learn how these economic concepts can optimize trading strategies.
+title: Income Effect vs. Price Effect Calculation (Algo Trading)
 ---
 
 This article explores the intricate economic concepts of income effect and price effect and their relevance in the modern context of algorithmic trading. The income effect describes the change in the quantity demanded of a good or service resulting from a variation in consumer income. When consumers experience an increase in income, they may alter their consumption patterns, purchasing more of certain goods and less of others. Conversely, a decrease in income can lead to reduced spending.

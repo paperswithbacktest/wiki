@@ -1,6 +1,9 @@
 ---
-title: "Mechanics of Program Trading Strategies (Algo Trading)"
-description: "Explore the mechanics of algo trading where computer algorithms execute trades automatically Learn how these strategies shape markets and optimize trading efficiency"
+category: trading_strategy
+description: Explore the mechanics of algo trading where computer algorithms execute
+  trades automatically Learn how these strategies shape markets and optimize trading
+  efficiency
+title: Mechanics of Program Trading Strategies (Algo Trading)
 ---
 
 The role of technology in financial markets has experienced significant growth over the last few decades, fundamentally altering the landscape through the emergence and proliferation of program and algorithmic trading. Program trading employs computer programs to execute trades automatically when certain conditions are met, substantially reducing human intervention in the trading process. This evolution in trading methodologies has been accompanied by the increased prevalence of algorithmic, or 'algo' trading, which uses sophisticated mathematical models and software to execute trades at speeds far surpassing traditional methods.

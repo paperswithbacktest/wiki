@@ -1,6 +1,9 @@
 ---
-title: "IPO Lockup: Purpose and Expiration Strategies (Algo Trading)"
-description: "Explore the intricacies of IPO lockups and algorithmic trading with insights into expiration strategies. Unlock successful investing by understanding market dynamics."
+category: trading_strategy
+description: Explore the intricacies of IPO lockups and algorithmic trading with insights
+  into expiration strategies. Unlock successful investing by understanding market
+  dynamics.
+title: 'IPO Lockup: Purpose and Expiration Strategies (Algo Trading)'
 ---
 
 In finance, understanding the mechanics of investment strategies is crucial for maximizing returns. This article explores key themes in the investment landscape, specifically targeting expiration strategies, IPO lockups, and algorithmic trading. By dissecting each of these components, we aim to illuminate their effects on investments and market behavior.

@@ -1,6 +1,8 @@
 ---
-title: "Penny Stocks Analysis Using Technical Methods (Algo Trading)"
-description: "Explore how technical analysis and algorithmic trading can enhance penny stock trading. Gain insights into tools for navigating this high-risk market segment."
+category: trading_strategy
+description: Explore how technical analysis and algorithmic trading can enhance penny
+  stock trading. Gain insights into tools for navigating this high-risk market segment.
+title: Penny Stocks Analysis Using Technical Methods (Algo Trading)
 ---
 
 Penny stocks, defined as shares trading for less than $5, present unique opportunities and significant risks for investors due to their volatility and the typically small size of the companies involved. Many investors use technical analysis to better understand and predict price movements, which is crucial in this high-risk segment of the stock market. Technical analysis involves examining historical data, particularly price and volume, to identify patterns and trends to forecast future price movements. This method is particularly suited to penny stocks, which often exhibit rapid and unpredictable price changes.

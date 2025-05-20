@@ -1,6 +1,8 @@
 ---
-title: "Impact of Dividends on Option Pricing (Algo Trading)"
-description: "Explore how dividends affect option pricing and impact financial strategies. Delve into traditional and algorithmic models for effective trading insights."
+category: quant_concept
+description: Explore how dividends affect option pricing and impact financial strategies.
+  Delve into traditional and algorithmic models for effective trading insights.
+title: Impact of Dividends on Option Pricing (Algo Trading)
 ---
 
 The intersection of dividends, option pricing, financial markets, and algorithmic trading presents a sophisticated yet rewarding framework for investors. This article explores the influence of dividends on option pricing, crucial financial models, including the Black-Scholes model, and algorithmic trading's transformative role in modern markets. As financial strategies evolve, understanding these elements is vital for successful market navigation.

@@ -1,6 +1,9 @@
 ---
-title: "The Journey of Computing in Trading (Algo Trading)"
-description: Discover the evolution of algorithmic trading from its beginnings in the 1970s to its role in today's financial markets, highlighting how AI and machine learning have transformed trading strategies to achieve speed, accuracy, and efficiency.
+category: quant_concept
+description: Discover the evolution of algorithmic trading from its beginnings in
+  the 1970s to its role in today's financial markets, highlighting how AI and machine
+  learning have transformed trading strategies to achieve speed, accuracy, and efficiency.
+title: The Journey of Computing in Trading (Algo Trading)
 ---
 
 The digital age has brought transformative changes to numerous sectors, and trading is a prominent example. Algorithmic trading, often referred to as algo trading, leverages data analysis and automation to conduct transactions within financial markets. This approach harnesses computational power to deploy intricate algorithms that execute trades at speeds and frequencies unattainable by human traders. Over time, as technology has advanced, the capacity to use these sophisticated algorithms has significantly improved, enabling traders to maximize efficiency and capitalize on market opportunities with unprecedented precision.

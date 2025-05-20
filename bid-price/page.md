@@ -1,6 +1,14 @@
 ---
-title: "Bid price (Algo Trading)"
-description: The article offers a detailed exploration of the bid price in algorithmic trading, highlighting its significance as the highest price a buyer is willing to pay for an asset. It explains the role of bid prices in understanding market dynamics, liquidity, and their critical influence on trading decisions and strategies. Readers will learn about the relationship between bid and ask prices and how the bid-ask spread reflects market conditions. The piece also investigates into the application of bid prices in algorithmic trading strategies, such as market-making, and the impact on decision-making for optimal trade execution.
+category: quant_concept
+description: The article offers a detailed exploration of the bid price in algorithmic
+  trading, highlighting its significance as the highest price a buyer is willing to
+  pay for an asset. It explains the role of bid prices in understanding market dynamics,
+  liquidity, and their critical influence on trading decisions and strategies. Readers
+  will learn about the relationship between bid and ask prices and how the bid-ask
+  spread reflects market conditions. The piece also investigates into the application
+  of bid prices in algorithmic trading strategies, such as market-making, and the
+  impact on decision-making for optimal trade execution.
+title: Bid price (Algo Trading)
 ---
 
 In algorithmic trading, the bid price is a critical concept, referring to the highest price a buyer is willing to pay for a particular asset at any given moment. This price plays a vital role in the execution of trades and the overall functioning of financial markets, as it helps determine the market's liquidity and depth. Understanding the bid price is essential for traders and financial analysts because it impacts the decision-making process involved in executing trades. By comprehending bid price dynamics, traders can develop more effective trading strategies, optimize entry and exit points, and enhance portfolio performance.

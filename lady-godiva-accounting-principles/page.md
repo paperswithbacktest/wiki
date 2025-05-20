@@ -1,6 +1,8 @@
 ---
-title: "Lady Godiva Accounting Principles (Algo Trading)"
-description: "Explore the Lady Godiva Accounting Principles to understand transparency's role in financial reporting and its impact on modern algorithmic trading practices."
+category: quant_concept
+description: Explore the Lady Godiva Accounting Principles to understand transparency's
+  role in financial reporting and its impact on modern algorithmic trading practices.
+title: Lady Godiva Accounting Principles (Algo Trading)
 ---
 
 The world of accounting has witnessed numerous transformative ideas and practices over the decades, reflecting the evolving demands for transparency and ethical financial reporting. Among these concepts is the Lady Godiva Accounting Principles (LGAP), a theoretical framework introduced to emphasize the importance of transparency and full disclosure in corporate financial reporting. LGAP is metaphorically inspired by the legendary tale of Lady Godiva, where the emphasis lies on the removal of barriers to transparency, mirroring her act that sought to provide unobstructed insight.

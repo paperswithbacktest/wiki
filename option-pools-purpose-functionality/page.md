@@ -1,6 +1,8 @@
 ---
-title: "Option Pools: Purpose and Functionality (Algo Trading)"
-description: "Explore how option pools and algorithmic trading drive startup equity strategies, enabling talent retention and enhancing financial efficiency for growth."
+category: quant_concept
+description: Explore how option pools and algorithmic trading drive startup equity
+  strategies, enabling talent retention and enhancing financial efficiency for growth.
+title: 'Option Pools: Purpose and Functionality (Algo Trading)'
 ---
 
 In today's fast-paced and competitive startup environment, attracting and retaining top talent is crucial for success. As startups strive to gain a foothold in various industries, they face the challenge of offering competitive compensation packages that align with their often limited cash resources. One of the key strategies startups use to overcome this hurdle is offering equity compensation through option pools. By providing future employees a stake in the company's success, startups can motivate and reward talent, fostering stronger ties and commitment to the company's goals.

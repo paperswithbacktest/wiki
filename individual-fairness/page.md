@@ -1,7 +1,8 @@
 ---
-title: Ensuring Individual Fairness in Machine Learning Models
+category: quant_concept
 description: Individual fairness ensures machine learning models treat similar individuals
   alike using Lipschitz based constraints for fair outcomes Discover more inside
+title: Ensuring Individual Fairness in Machine Learning Models
 ---
 
 ![Image](images/1.webp)

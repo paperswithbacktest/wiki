@@ -1,6 +1,8 @@
 ---
-title: "Hudson Bay Capital (Algo Trading)"
-description: "Explore Hudson Bay Capital’s innovative approaches in algorithmic trading renowned for precision and speed in investment management and market performance."
+category: quant_concept
+description: Explore Hudson Bay Capital’s innovative approaches in algorithmic trading
+  renowned for precision and speed in investment management and market performance.
+title: Hudson Bay Capital (Algo Trading)
 ---
 
 Hudson Bay Capital is a prominent entity in the field of investment management, particularly recognized for its pioneering approach to algorithmic trading. This firm has emerged as a significant influencer in financial markets due to its adept adoption and application of cutting-edge trading methodologies. Algorithmic trading has revolutionized investment practices by delivering a level of speed and precision that was once thought unattainable. This technique involves the use of complex algorithms to facilitate trading decisions, surpassing the capabilities of human traders both in accuracy and execution speed.

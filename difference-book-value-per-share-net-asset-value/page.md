@@ -1,6 +1,8 @@
 ---
-title: "Difference Between Book Value Per Share and Net Asset Value (Algo Trading)"
-description: "Discover how understanding book value and net asset value (NAV) can enhance algorithmic trading strategies for better investment decisions and portfolio performance."
+category: quant_concept
+description: Discover how understanding book value and net asset value (NAV) can enhance
+  algorithmic trading strategies for better investment decisions and portfolio performance.
+title: Difference Between Book Value Per Share and Net Asset Value (Algo Trading)
 ---
 
 Understanding critical financial metrics is essential for making informed decisions in finance and investment. Book value and net asset value (NAV) are fundamental concepts that serve as indicators of a company's economic health and potential. This article explores these financial metrics, providing insights into their calculation, roles in valuation, and utility in algorithmic trading. 

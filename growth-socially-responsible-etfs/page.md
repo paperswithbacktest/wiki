@@ -1,6 +1,8 @@
 ---
-title: "Growth of Socially Responsible Exchange-Traded Funds (Algo Trading)"
-description: "Explore the rise of socially responsible ETFs and ESG-integrated algo trading in sustainable finance unraveling the impact of values-driven investments."
+category: quant_concept
+description: Explore the rise of socially responsible ETFs and ESG-integrated algo
+  trading in sustainable finance unraveling the impact of values-driven investments.
+title: Growth of Socially Responsible Exchange-Traded Funds (Algo Trading)
 ---
 
 The financial world is experiencing a significant transformation, characterized by an increasing focus on sustainability and social responsibility. This shift is driven by growing awareness of the impact of corporate and financial practices on the environment and society. Investors and financial institutions are recognizing the importance of integrating environmental, social, and governance (ESG) criteria into investment strategies. The convergence of sustainable finance, socially responsible investing (SRI), and Exchange-Traded Funds (ETFs) is at the forefront of this evolution, presenting unique opportunities and challenges for investors.

@@ -1,6 +1,8 @@
 ---
-title: "Oslo Stock Exchange (Algo Trading)"
-description: "Explore Oslo Børs, the Oslo Stock Exchange, a hub for algorithmic trading and financial innovation under Euronext offering diverse global investment opportunities."
+category: dataset
+description: Explore Oslo Børs, the Oslo Stock Exchange, a hub for algorithmic trading
+  and financial innovation under Euronext offering diverse global investment opportunities.
+title: Oslo Stock Exchange (Algo Trading)
 ---
 
 The Oslo Stock Exchange, commonly referred to as Oslo Børs, serves as the central securities market in Norway. Established in 1819, it has developed into a comprehensive platform supporting various financial instruments, including equities, derivatives, and fixed income products. Over the years, the exchange has adapted to the evolving financial landscape, expanding its services and enhancing its capabilities to meet the needs of both local and international investors.

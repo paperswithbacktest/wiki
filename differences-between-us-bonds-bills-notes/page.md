@@ -1,6 +1,8 @@
 ---
-title: "Differences Between U.S. Bonds, Bills, and Notes (Algo Trading)"
-description: "Explore the differences between U.S. bonds, bills, and notes and their impact on the financial markets alongside insights into algorithmic trading strategies."
+category: quant_concept
+description: Explore the differences between U.S. bonds, bills, and notes and their
+  impact on the financial markets alongside insights into algorithmic trading strategies.
+title: Differences Between U.S. Bonds, Bills, and Notes (Algo Trading)
 ---
 
 U.S. bonds, Treasury notes, and Treasury bills are fundamental components of the global financial landscape. They represent debt securities issued by the U.S. Department of the Treasury to help fund governmental expenditures. In particular, U.S. bonds typically refer to longer-term debt instruments with maturities exceeding ten years, whereas Treasury notes have maturities ranging from two to ten years, and Treasury bills have maturities of one year or less. Each of these instruments serves distinct functions and attracts various investors based on their financial goals and liquidity preferences.

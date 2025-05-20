@@ -1,6 +1,8 @@
 ---
-title: "Bracketed Sell Order (Algo Trading)"
-description: "Explore the role of bracketed sell orders in algorithmic trading to effectively manage risk and optimize strategies for better trading outcomes in volatile markets."
+category: trading_strategy
+description: Explore the role of bracketed sell orders in algorithmic trading to effectively
+  manage risk and optimize strategies for better trading outcomes in volatile markets.
+title: Bracketed Sell Order (Algo Trading)
 ---
 
 Understanding the complexities of stock market trading requires sophisticated tools and strategic approaches. The ever-evolving nature of financial markets means that traders must leverage advanced technologies to stay competitive and achieve success. In recent years, algorithmic trading has transformed the way market participants buy and sell stocks, automating decision-making processes to enhance speed, efficiency, and accuracy. These algorithms operate based on pre-defined criteria, allowing traders to capitalize on market opportunities far more quickly than manual methods would permit.

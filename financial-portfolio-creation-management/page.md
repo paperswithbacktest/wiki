@@ -1,6 +1,8 @@
 ---
-title: "Financial Portfolio: Creation and Management (Algo Trading)"
-description: "Achieve investment success through effective portfolio creation and management with algorithmic trading Enhance strategies with data-driven insights and technology."
+category: trading_strategy
+description: Achieve investment success through effective portfolio creation and management
+  with algorithmic trading Enhance strategies with data-driven insights and technology.
+title: 'Financial Portfolio: Creation and Management (Algo Trading)'
 ---
 
 In today's complex financial landscape, effective portfolio creation and management are crucial for achieving investment success. As financial markets continue to evolve, the integration of traditional investment strategies with modern technological advancements has become increasingly important. Specifically, blending financial portfolio creation, investment management, and algorithmic trading can significantly enhance overall investment outcomes.

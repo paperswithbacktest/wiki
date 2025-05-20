@@ -1,7 +1,8 @@
 ---
-title: Understanding Neural Network Nodes How They Work and Learn
+category: quant_concept
 description: Neural network nodes use weights biases and activation functions to process
   data recognize patterns and refine predictions Discover more inside.
+title: Understanding Neural Network Nodes How They Work and Learn
 ---
 
 ![Image](images/1.png)

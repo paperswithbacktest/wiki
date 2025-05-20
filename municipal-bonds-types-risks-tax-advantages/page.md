@@ -1,6 +1,8 @@
 ---
-title: "Municipal Bonds: Types, Risks, and Tax Advantages (Algo Trading)"
-description: "Discover the benefits and risks of municipal bonds as a tax-efficient investment choice Explore how algorithmic trading is enhancing their market dynamics"
+category: quant_concept
+description: Discover the benefits and risks of municipal bonds as a tax-efficient
+  investment choice Explore how algorithmic trading is enhancing their market dynamics
+title: 'Municipal Bonds: Types, Risks, and Tax Advantages (Algo Trading)'
 ---
 
 Municipal bonds, often referred to as "munis," have remained a popular investment choice due to their unique combination of low-risk and tax advantages. These bonds are debt securities issued by states, municipalities, or counties to finance public projects like schools, highways, and water systems. The appeal of municipal bonds is largely rooted in their tax benefits; the interest income earned from these bonds is typically exempt from federal income tax and, in some cases, state and local taxes as well. This tax-exempt status makes them especially attractive to high-income investors seeking tax-efficient income streams.

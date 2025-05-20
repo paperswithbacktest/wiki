@@ -1,6 +1,9 @@
 ---
-title: "Calculating Yield in Excel (Algo Trading)"
-description: "Master financial yield calculations using Excel to optimize trading strategies with algorithmic integration Ensure informed investment decisions by leveraging Excel's robust tools."
+category: trading_strategy
+description: Master financial yield calculations using Excel to optimize trading strategies
+  with algorithmic integration Ensure informed investment decisions by leveraging
+  Excel's robust tools.
+title: Calculating Yield in Excel (Algo Trading)
 ---
 
 Financial yield calculations are essential tools for anyone involved in trading and investing. By understanding these calculations, traders can make more informed decisions, enhancing their strategies to achieve better performance. Excel, a widely used tool in the financial industry, offers powerful functionalities for computing yields and implementing them in algorithmic trading. This article focuses on how using Excel for yield calculations can aid in the development and optimization of trading strategies.

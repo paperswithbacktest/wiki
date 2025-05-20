@@ -1,6 +1,8 @@
 ---
-title: "Overview of the Overseas Private Investment Corporation (Algo Trading)"
-description: "Explore the synergy of the U.S. International Development Finance Corporation and algorithmic trading in enhancing private overseas investments and economic growth."
+category: quant_concept
+description: Explore the synergy of the U.S. International Development Finance Corporation
+  and algorithmic trading in enhancing private overseas investments and economic growth.
+title: Overview of the Overseas Private Investment Corporation (Algo Trading)
 ---
 
 In an ever-globalizing economy, the importance of private investment in overseas markets is paramount. These investments drive economic growth, mitigate risks through diversification, and foster international development. A significant player in facilitating such investments is the U.S. Overseas Private Investment Corporation (OPIC), which has evolved into the U.S. International Development Finance Corporation (DFC). This transformation signifies a strategic enhancement in the United States' approach to international development finance, aimed at expanding American business footprints in emerging markets and mitigating investment risks.

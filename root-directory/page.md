@@ -1,7 +1,8 @@
 ---
-title: Organizing the Root Directory for Efficient ML Projects
+category: dataset
 description: Root Directory structure simplifies ML workflows by organizing data,
   code and models into clear folders while boosting collaboration Discover more inside
+title: Organizing the Root Directory for Efficient ML Projects
 ---
 
 ![Image](images/1.png)

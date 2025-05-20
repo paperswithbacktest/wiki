@@ -1,6 +1,9 @@
 ---
-title: "Difference Between Equity and Shareholders' Equity (Algo Trading)"
-description: "Explore the distinctions between equity and shareholders' equity and learn how these concepts intersect with algorithmic trading to enhance investment strategies."
+category: quant_concept
+description: Explore the distinctions between equity and shareholders' equity and
+  learn how these concepts intersect with algorithmic trading to enhance investment
+  strategies.
+title: Difference Between Equity and Shareholders' Equity (Algo Trading)
 ---
 
 Shareholders' equity, commonly referred to as stockholders' equity, represents the residual interest in the assets of a company after deducting its liabilities. It is a critical component of a company's balance sheet, often regarded as an indicator of financial health and stability. The fundamental equation used to calculate shareholders' equity is:

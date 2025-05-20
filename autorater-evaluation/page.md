@@ -1,7 +1,8 @@
 ---
-title: Understanding Autorater Evaluation in Machine Learning Models
+category: quant_concept
 description: Autorater evaluation helps ensure machine learning ratings match human
   judgments using accuracy recall and correlation metrics Discover more inside.
+title: Understanding Autorater Evaluation in Machine Learning Models
 ---
 
 ![Image](images/1.png)

@@ -1,9 +1,12 @@
 ---
-title: "How to evaluate and choose an OMS platform for your hedge fund?"
-description: "Choose the right Order Management System (OMS) for your hedge fund with this comprehensive guide. Learn key features, technology integration, risk management, performance, security, costs, and support. Discover popular OMS platforms like FlexTrade, Eze Software, Charles River Development, and more. Make an informed decision based on your hedge fund's needs."
+category: trading_strategy
+description: Choose the right Order Management System (OMS) for your hedge fund with
+  this comprehensive guide. Learn key features, technology integration, risk management,
+  performance, security, costs, and support. Discover popular OMS platforms like FlexTrade,
+  Eze Software, Charles River Development, and more. Make an informed decision based
+  on your hedge fund's needs.
+title: How to evaluate and choose an OMS platform for your hedge fund?
 ---
-
-
 
 Evaluating and choosing an OMS (Order Management System) requires a meticulous approach, especially for a hedge fund where operations are complex and speed and efficiency are paramount. Here's a more specific and technical guide to making that choice:
 
@@ -64,5 +67,3 @@ Here are a few OMS (Order Management Systems) names that are popular and widely 
 - **Advent's Geneva & APX**: These are mainly back-office oriented, but also offer order management functionalities.
 
 It is important to note that the choice of OMS should be based on the specific needs of the [hedge fund](/wiki/hedge-fund-trading-strategies) or institution. It is advisable to [carry](/wiki/carry-trading) out a thorough evaluation, consult demos and, if possible, obtain feedback before making a decision.
-
-

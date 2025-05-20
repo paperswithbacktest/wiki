@@ -1,6 +1,8 @@
 ---
-title: "Converting Value at Risk Across Time Periods (Algo Trading)"
-description: "Discover how Value at Risk (VaR) integrates with algorithmic trading to enhance financial risk management and optimize decision-making in uncertain markets."
+category: quant_concept
+description: Discover how Value at Risk (VaR) integrates with algorithmic trading
+  to enhance financial risk management and optimize decision-making in uncertain markets.
+title: Converting Value at Risk Across Time Periods (Algo Trading)
 ---
 
 Risk management serves as a cornerstone in the architecture of financial analysis, ensuring the stability and predictability of financial systems and investments. It is a systematic approach to identifying, assessing, and mitigating uncertainties in investment decisions. As financial landscapes become increasingly complex, the importance of risk management escalates, safeguarding investments against unforeseen volatilities. A critical aspect of risk management is quantifying potential losses to inform decision-making, which is where Value at Risk (VaR) plays an essential role.

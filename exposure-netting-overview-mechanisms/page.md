@@ -1,6 +1,9 @@
 ---
-title: "Exposure Netting: Overview and Mechanisms (Algo Trading)"
-description: "Discover how exposure netting combined with derivatives and algorithmic trading empowers firms to manage financial risks and enhance their economic stability effectively."
+category: quant_concept
+description: Discover how exposure netting combined with derivatives and algorithmic
+  trading empowers firms to manage financial risks and enhance their economic stability
+  effectively.
+title: 'Exposure Netting: Overview and Mechanisms (Algo Trading)'
 ---
 
 Understanding the intertwined world of financial risk management, derivatives, and algorithmic trading is crucial for businesses operating in today's global economy. These interrelated disciplines form the backbone of contemporary financial strategies, helping organizations manage uncertainty and protect their economic interests. Financial risk management focuses on identifying, analyzing, and mitigating risks that can affect a business's financial performance. Derivatives and algorithmic trading are advanced techniques that enhance these risk management efforts.

@@ -1,6 +1,8 @@
 ---
-title: "Arms Index (TRIN) Calculation (Algo Trading)"
-description: "Explore the Arms Index (TRIN) calculation a key technical indicator in trading that analyzes stock market dynamics through price and volume to guide decisions."
+category: trading_strategy
+description: Explore the Arms Index (TRIN) calculation a key technical indicator in
+  trading that analyzes stock market dynamics through price and volume to guide decisions.
+title: Arms Index (TRIN) Calculation (Algo Trading)
 ---
 
 In today's rapidly evolving financial markets, understanding technical indicators is crucial for making informed trading decisions. Technical indicators help traders interpret market behavior, identify trends, and anticipate future price movements. One such tool, the Arms Index, also known as the TRIN (Short-Term Trading Index), provides valuable insights into market dynamics by analyzing the relationship between price movement and trading volume. Richard W. Arms, Jr. developed the TRIN in 1967, and it has since become an essential component of technical analysis for both individual and institutional investors.

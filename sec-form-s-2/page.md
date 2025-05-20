@@ -1,6 +1,8 @@
 ---
-title: "SEC Form S-2 (Algo Trading)"
-description: "Explore the historical significance of SEC Form S-2 in streamlining securities registration. Understand its role, requirements, and transition to Form S-1."
+category: quant_concept
+description: Explore the historical significance of SEC Form S-2 in streamlining securities
+  registration. Understand its role, requirements, and transition to Form S-1.
+title: SEC Form S-2 (Algo Trading)
 ---
 
 Securities registration with the U.S. Securities and Exchange Commission (SEC) is a fundamental aspect of investment practices, providing the necessary framework for the issuance and trading of securities. Investors must navigate this landscape to ensure compliance and informed decision-making. One of the key forms previously utilized in this context was the SEC Form S-2. Although no longer used, SEC Form S-2 was instrumental in streamlining the process for registering new securities, particularly for companies with an established record under the Securities Exchange Act of 1934.

@@ -1,6 +1,9 @@
 ---
-title: "Human Capital Theory and Its Applications (Algo Trading)"
-description: "Discover the transformative impact of integrating human capital theory with algo trading driving workforce development and innovation in today's economic landscape."
+category: quant_concept
+description: Discover the transformative impact of integrating human capital theory
+  with algo trading driving workforce development and innovation in today's economic
+  landscape.
+title: Human Capital Theory and Its Applications (Algo Trading)
 ---
 
 The convergence of human capital development and economic theory with advancements in technology marks a significant evolution in the workforce landscape. At the forefront of this transformation is algorithmic trading (algo trading), which exemplifies how the skills and capabilities of a highly skilled workforce intersect with cutting-edge financial technology. Algo trading leverages complex algorithms and data analysis, automating trading decisions and executions at speeds and frequencies that surpass human capabilities.

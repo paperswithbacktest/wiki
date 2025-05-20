@@ -1,6 +1,9 @@
 ---
-title: "Gross Interest: Definition and Functionality (Algo Trading)"
-description: "Discover the essentials of gross interest and its role in algorithmic trading Understand how gross interest impacts financial decisions and enhances trading strategies"
+category: quant_concept
+description: Discover the essentials of gross interest and its role in algorithmic
+  trading Understand how gross interest impacts financial decisions and enhances trading
+  strategies
+title: 'Gross Interest: Definition and Functionality (Algo Trading)'
 ---
 
 In today's rapidly evolving financial markets, understanding key financial terms and concepts is crucial for both seasoned investors and beginners. As global financial systems continue to advance in complexity and reach, the need for a firm grasp of foundational principles becomes increasingly essential for navigating market dynamics effectively. The financial world is abundant with terminologies and concepts that might appear daunting without a well-structured guide. 

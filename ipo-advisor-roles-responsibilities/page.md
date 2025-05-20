@@ -1,6 +1,9 @@
 ---
-title: "IPO Advisor: Roles and Responsibilities (Algo Trading)"
-description: "Explore the intricate role of IPO advisors in guiding companies through public offerings and the impact of algorithmic trading on IPO outcomes in financial markets."
+category: quant_concept
+description: Explore the intricate role of IPO advisors in guiding companies through
+  public offerings and the impact of algorithmic trading on IPO outcomes in financial
+  markets.
+title: 'IPO Advisor: Roles and Responsibilities (Algo Trading)'
 ---
 
 Initial Public Offerings (IPOs) signify a pivotal transformation in a company's lifecycle, marking the shift from private ownership to public trading on stock exchanges. This transition is not merely an internal restructuring but a strategic maneuver to secure capital investment for expansion, enhance credibility, and gain visibility in the financial markets. By offering shares to the public, companies can tap into a larger pool of investors, thereby raising substantial funds critical for growth and scaling operations.

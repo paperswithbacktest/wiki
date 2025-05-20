@@ -1,6 +1,8 @@
 ---
-title: "Farm Price Index: Overview and Functionality (Algo Trading)"
-description: "Explore the Farm Price Index and its role in understanding market trends in agriculture Learn about its impact on economic strategies and algorithmic trading"
+category: dataset
+description: Explore the Farm Price Index and its role in understanding market trends
+  in agriculture Learn about its impact on economic strategies and algorithmic trading
+title: 'Farm Price Index: Overview and Functionality (Algo Trading)'
 ---
 
 The Farm Price Index (FPI) is a key economic indicator that tracks the prices received by farmers for their agricultural products, including crops and livestock. Often known as the Agricultural Price Index, it offers vital insights into the pricing patterns within the agricultural sector, allowing for a comprehensive understanding of market dynamics. This data, released monthly by the National Agricultural Statistics Service (NASS) of the U.S. Department of Agriculture (USDA), holds significant importance in assessing the economic health of the agricultural industry.

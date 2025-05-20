@@ -1,6 +1,9 @@
 ---
-title: "Investment Center: Purpose and Example (Algo Trading)"
-description: "Discover how investment centers optimize profitability via financial responsibility and algorithmic trading while aligning with corporate strategies for success."
+category: trading_strategy
+description: Discover how investment centers optimize profitability via financial
+  responsibility and algorithmic trading while aligning with corporate strategies
+  for success.
+title: 'Investment Center: Purpose and Example (Algo Trading)'
 ---
 
 Successful investment center business management integrates several key components to optimize profitability and efficiency. Investment centers function as critical segments within a corporate structure, tasked with generating profits while managing their assets independently. This autonomy necessitates a robust framework for financial responsibility, ensuring that revenues, expenses, and investments align with broader corporate strategies.

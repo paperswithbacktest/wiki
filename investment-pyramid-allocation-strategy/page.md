@@ -1,6 +1,9 @@
 ---
-title: "Investment Pyramid and Allocation Strategy (Algo Trading)"
-description: "Explore investment strategies using the investment pyramid for balanced asset allocation. Leverage algorithmic trading to optimize return and manage risk effectively."
+category: trading_strategy
+description: Explore investment strategies using the investment pyramid for balanced
+  asset allocation. Leverage algorithmic trading to optimize return and manage risk
+  effectively.
+title: Investment Pyramid and Allocation Strategy (Algo Trading)
 ---
 
 Investment allocation strategies play a vital role in managing risk and maximizing returns. These strategies, often visualized through the investment pyramid, guide investors in distributing their assets across various risk levels to create a balanced and potentially lucrative portfolio. The investment pyramid is structured into three tiers, with the broad base representing low-risk investments such as bonds and savings accounts. The middle tier contains moderate-risk assets like index funds or real estate, while the narrow top is reserved for high-risk investments such as stocks or derivatives. This structure helps investors allocate the largest portion of their resources to secure, low-risk investments, while progressively smaller portions are dedicated to higher-risk opportunities.

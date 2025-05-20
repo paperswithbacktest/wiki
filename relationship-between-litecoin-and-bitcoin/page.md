@@ -1,6 +1,9 @@
 ---
-title: "Relationship Between Litecoin and Bitcoin (Algo Trading)"
-description: "Explore the relationship between Litecoin and Bitcoin in algo trading, highlighting unique features, market roles, and strategies for maximizing trading efficiency."
+category: trading_strategy
+description: Explore the relationship between Litecoin and Bitcoin in algo trading,
+  highlighting unique features, market roles, and strategies for maximizing trading
+  efficiency.
+title: Relationship Between Litecoin and Bitcoin (Algo Trading)
 ---
 
 Cryptocurrencies have dramatically reshaped the financial landscape over the past decade. Originating from the conceptual framework described in 2008 by an individual or group known as Satoshi Nakamoto, Bitcoin emerged as the world's first decentralized digital currency, offering a new paradigm of financial transactions free from intermediaries. Its introduction set the foundation for a broader crypto ecosystem, sparking the development of numerous alternative coins, or "altcoins," that have since proliferated. Among these, Litecoin, introduced by Charlie Lee in 2011, has gained prominence for its technical enhancements over Bitcoin, particularly its faster transaction times and improved storage efficiency.

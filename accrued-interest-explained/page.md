@@ -1,6 +1,9 @@
 ---
-title: "Accrued Interest Explained (Algo Trading)"
-description: "Understand accrued interest and its role in algorithmic trading. Discover how accurate interest calculations drive decisions, optimizing market strategies for investors."
+category: quant_concept
+description: Understand accrued interest and its role in algorithmic trading. Discover
+  how accurate interest calculations drive decisions, optimizing market strategies
+  for investors.
+title: Accrued Interest Explained (Algo Trading)
 ---
 
 In the evolving landscape of finance, understanding key concepts such as accrued interest, interest calculation, and algorithmic (algo) trading is essential for both novice and seasoned investors. These concepts form the backbone of numerous financial transactions and strategies, enabling investors to make more informed decisions and optimize their approaches in the market. 

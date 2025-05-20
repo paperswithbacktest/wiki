@@ -1,6 +1,8 @@
 ---
-title: "Cambodian Riel (KHR) (Algo Trading)"
-description: "Explore algo trading of the Cambodian Riel (KHR) and harness the dynamic potential of the currency in forex markets with state-of-the-art trading techniques."
+category: quant_concept
+description: Explore algo trading of the Cambodian Riel (KHR) and harness the dynamic
+  potential of the currency in forex markets with state-of-the-art trading techniques.
+title: Cambodian Riel (KHR) (Algo Trading)
 ---
 
 The Cambodian Riel (KHR), as the official currency of Cambodia, reflects a vibrant and dynamic economy, offering unique opportunities for traders. Historically linked to the resilience and growth of Cambodia, the Riel underscores the country's economic landscape characterized by both challenges and potential. Despite the dominance of the US dollar in domestic transactions, the Riel holds critical importance within Cambodia, shaping its financial identity and offering a distinctive trading avenue in forex markets.

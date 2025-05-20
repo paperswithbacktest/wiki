@@ -1,7 +1,8 @@
 ---
-title: Understanding Probability Distributions for Machine Learning
+category: quant_concept
 description: Probability distributions help machine learning models quantify uncertainty
   and improve predictions by showing outcome likelihoods Discover more inside.
+title: Understanding Probability Distributions for Machine Learning
 ---
 
 ![Image](images/1.png)

@@ -1,6 +1,8 @@
 ---
-title: "Event Risk: Definition, Examples, and Mitigation (Algo Trading)"
-description: "Explore event risk in algorithmic trading its impact on markets and strategies to manage and mitigate risks for better trading performance and resilience."
+category: quant_concept
+description: Explore event risk in algorithmic trading its impact on markets and strategies
+  to manage and mitigate risks for better trading performance and resilience.
+title: 'Event Risk: Definition, Examples, and Mitigation (Algo Trading)'
 ---
 
 Algorithmic trading, commonly known as algo trading, has become an essential element in the landscape of financial markets. Utilized by institutional and individual traders alike, it involves deploying computer algorithms to automate trading decisions, taking advantage of speed and precision that far exceed human capabilities. As algo trading continues to rise in prominence, comprehending the importance of event risk management and risk mitigation is paramount for anyone involved in trading activities.

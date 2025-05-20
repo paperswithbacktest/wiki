@@ -1,6 +1,8 @@
 ---
-title: "Overnight Positions in Trading: Risks and Benefits (Algo Trading)"
-description: "Explore the risks and benefits of overnight position trading and algorithmic trading in financial markets. Learn how to optimize strategies for better returns."
+category: trading_strategy
+description: Explore the risks and benefits of overnight position trading and algorithmic
+  trading in financial markets. Learn how to optimize strategies for better returns.
+title: 'Overnight Positions in Trading: Risks and Benefits (Algo Trading)'
 ---
 
 Trading is a multifaceted activity that involves taking various risks and leveraging different strategies to maximize returns. Among the numerous strategies available to traders, two that stand out due to their unique characteristics and implications are overnight position trading and algorithmic trading, commonly referred to as algo trading. Both methods offer distinct advantages that can significantly enhance a trader's ability to capture market opportunities, but they also come with their own set of challenges and risks.

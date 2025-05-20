@@ -1,6 +1,8 @@
 ---
-title: "Coupon Rate of a Bond and Its Calculation (Algo Trading)"
-description: "Explore the essential elements of bond investments including coupon rate calculation and the impact of algorithmic trading in optimizing financial strategies."
+category: quant_concept
+description: Explore the essential elements of bond investments including coupon rate
+  calculation and the impact of algorithmic trading in optimizing financial strategies.
+title: Coupon Rate of a Bond and Its Calculation (Algo Trading)
 ---
 
 In finance, understanding various elements like bond calculations, coupon rates, and algorithmic trading is crucial for informed investment decisions. Bonds are fundamental financial instruments, serving as a primary method for companies and governments to raise capital. Accurately valuing these bonds requires a solid grasp of bond pricing and yield calculations, which heavily depend on the coupon rate—the fixed annual interest paid to investors. This interest rate affects the bond's attractiveness and price sensitivity to market interest fluctuations, which are pivotal in shaping an investor's decision-making process.

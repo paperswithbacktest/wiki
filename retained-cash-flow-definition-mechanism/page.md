@@ -1,6 +1,9 @@
 ---
-title: "Retained Cash Flow: Definition and Mechanism (Algo Trading)"
-description: "Discover the significance of retained cash flow in business finance and its impact on algorithmic trading strategies Learn how to manage cash flow effectively for growth"
+category: quant_concept
+description: Discover the significance of retained cash flow in business finance and
+  its impact on algorithmic trading strategies Learn how to manage cash flow effectively
+  for growth
+title: 'Retained Cash Flow: Definition and Mechanism (Algo Trading)'
 ---
 
 Understanding cash flow management is crucial for any business looking to sustain and grow in a competitive environment. Cash flow management involves monitoring, analyzing, and optimizing the net amount of cash receipts minus cash expenses. By effectively managing cash flow, businesses can maintain liquidity, meet financial obligations, and invest in future growth opportunities. 

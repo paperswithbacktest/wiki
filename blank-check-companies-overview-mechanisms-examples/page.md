@@ -1,6 +1,8 @@
 ---
-title: "Blank Check Companies: Overview, Mechanisms, and Examples (Algo Trading)"
-description: "Discover how Special Purpose Acquisition Companies (SPACs) offer a fast-track to public markets while posing unique risks influenced by algorithmic trading dynamics."
+category: quant_concept
+description: Discover how Special Purpose Acquisition Companies (SPACs) offer a fast-track
+  to public markets while posing unique risks influenced by algorithmic trading dynamics.
+title: 'Blank Check Companies: Overview, Mechanisms, and Examples (Algo Trading)'
 ---
 
 Special Purpose Acquisition Companies (SPACs) have emerged prominently as an alternative investment vehicle, particularly in recent years. Commonly referred to as blank check companies, SPACs provide a novel method for private firms to enter public markets more rapidly than traditional initial public offerings (IPOs). This accelerated pathway to raising capital and gaining market visibility has captivated investors, especially those enticed by the prospect of substantial returns.

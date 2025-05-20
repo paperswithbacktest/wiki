@@ -1,6 +1,9 @@
 ---
-title: "Mechanics of Currency (Algo Trading)"
-description: "Explore the intersection of currency and algorithmic trading in global markets Discover how technology reshapes finance and economic mechanisms worldwide today"
+category: quant_concept
+description: Explore the intersection of currency and algorithmic trading in global
+  markets Discover how technology reshapes finance and economic mechanisms worldwide
+  today
+title: Mechanics of Currency (Algo Trading)
 ---
 
 The modern financial landscape is increasingly shaped by the intersection of technology and money. This relationship plays a crucial role in areas such as currency, economic mechanisms, and algorithmic trading, each of which is integral to the functioning of global markets. The evolution of currency, influenced by technological advancements and monetary policies, continues to redefine economic transactions. Similarly, the emergence of algorithmic trading is transforming how financial markets operate, using complex algorithms to facilitate high-speed trading decisions.

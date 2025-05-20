@@ -1,6 +1,8 @@
 ---
-title: "Price Per Flowing Barrel: Meaning and Application (Algo Trading)"
-description: "Discover how the Price Per Flowing Barrel metric enhances oil investment decisions and see its role in optimizing algorithmic trading strategies."
+category: quant_concept
+description: Discover how the Price Per Flowing Barrel metric enhances oil investment
+  decisions and see its role in optimizing algorithmic trading strategies.
+title: 'Price Per Flowing Barrel: Meaning and Application (Algo Trading)'
 ---
 
 The valuation of oil is a pivotal aspect of the global energy-driven economy, influencing everything from national energy policies to the operations of multinational corporations. As the world's most traded commodity, oil's value extends beyond its market price; it reflects geopolitical dynamics, technological advancements, and market speculation. Understanding and evaluating oil companies and projects require sophisticated investment metrics that can accurately capture their economic potential and financial health.

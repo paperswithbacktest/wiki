@@ -1,6 +1,9 @@
 ---
-title: "Recognition of Expenses and Revenues in Accrual Accounting (Algo Trading)"
-description: "Explore how accrual accounting principles enhance financial reporting precision and their synergy with algorithmic trading strategies for optimized business operations."
+category: quant_concept
+description: Explore how accrual accounting principles enhance financial reporting
+  precision and their synergy with algorithmic trading strategies for optimized business
+  operations.
+title: Recognition of Expenses and Revenues in Accrual Accounting (Algo Trading)
 ---
 
 In the modern financial landscape, understanding the interplay between accounting principles and algorithmic trading is crucial for businesses aiming to optimize operations and maintain compliance. This article explores the key concepts of revenue recognition, expense recognition, and accrual accounting, and their relationship with the evolution of algorithmic trading.
@@ -151,4 +154,3 @@ For deeper insights into revenue recognition and algorithmic trading, consider c
 - **Financial Markets and Derivatives**: Textbooks and scholarly articles on financial markets and derivatives provide foundational knowledge that supports both accounting and trading disciplines. These readings explore market dynamics, instruments, and the theoretical frameworks necessary for informed financial decision-making.
 
 These resources collectively provide a robust framework for understanding and integrating the principles of revenue recognition with the efficiencies and strategies of algorithmic trading, equipping professionals to navigate and succeed in the financial landscape.
-

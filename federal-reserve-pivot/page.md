@@ -1,6 +1,8 @@
 ---
-title: "Federal Reserve Pivot (Algo Trading)"
-description: "Explore how economic strategies, Federal Reserve policies, and algorithmic trading shape modern financial markets and influence liquidity, prices, and stability."
+category: quant_concept
+description: Explore how economic strategies, Federal Reserve policies, and algorithmic
+  trading shape modern financial markets and influence liquidity, prices, and stability.
+title: Federal Reserve Pivot (Algo Trading)
 ---
 
 The interplay between economic strategy, monetary policy, the Federal Reserve, and algorithmic trading serves as a cornerstone in the evolution and functioning of contemporary financial markets. Each of these elements operates within a complex web of interactions that influence market behavior, price stability, and overall economic health. The Federal Reserve, as the central bank of the United States, has a pivotal role in steering monetary policy, which directly affects interest rates, inflation, and economic growth. Through tools such as open market operations and reserve requirements, it seeks to manage liquidity and ensure economic stability.

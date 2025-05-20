@@ -1,7 +1,8 @@
 ---
-title: Adaptive Activation Functions for Neural Network Flexibility
+category: quant_concept
 description: Adaptive activation functions enhance neural network learning by adjusting
   to data patterns and improving accuracy across tasks Discover more inside
+title: Adaptive Activation Functions for Neural Network Flexibility
 ---
 
 ![Image](images/1.png)

@@ -1,6 +1,8 @@
 ---
-title: "Impact of Dividends on Mutual Fund Net Asset Value (Algo Trading)"
-description: "Explore the impact of dividends on mutual fund NAV and the role of algo trading in modern investing to optimize financial strategies amidst market dynamics."
+category: quant_concept
+description: Explore the impact of dividends on mutual fund NAV and the role of algo
+  trading in modern investing to optimize financial strategies amidst market dynamics.
+title: Impact of Dividends on Mutual Fund Net Asset Value (Algo Trading)
 ---
 
 In an era where technology and finance converge, the investment landscape is witnessing a transformation driven by key concepts such as dividends, net asset value (NAV), mutual funds, and algorithmic trading. Understanding the interplay between these components is crucial for investors aiming to enhance their portfolios in today's dynamic markets.
@@ -116,4 +118,3 @@ To be successful in investing, staying informed and adaptable to technological a
    - "Future of Investing: Technological Innovations and Automation," a study by Deloitte, examines technology's transformative influence on the financial sector. Available on Deloitte's website: https://www2.deloitte.com.
 
 These resources provide a broad spectrum of knowledge essential for understanding dividends, NAV calculations, mutual fund strategies, and the emerging role of technology in modern finance.
-

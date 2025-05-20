@@ -1,6 +1,9 @@
 ---
-title: "Revealed Preference Economics (Algo Trading)"
-description: "Explore how revealed preference theory enhances algorithmic trading by linking consumer choices to market trends, boosting predictive power and trading efficiency."
+category: quant_concept
+description: Explore how revealed preference theory enhances algorithmic trading by
+  linking consumer choices to market trends, boosting predictive power and trading
+  efficiency.
+title: Revealed Preference Economics (Algo Trading)
 ---
 
 Consumer behavior has long been a focal point in economics, serving as a critical framework for comprehending market dynamics. Within this domain, the revealed preference theory, introduced by economist Paul Samuelson in 1938, stands out as a key concept that connects consumer choices with their underlying preferences. This theory posits that one can infer a consumer's preferences by observing their purchasing decisions, thus shedding light on their decision-making processes more effectively than abstract utility functions.

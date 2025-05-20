@@ -1,6 +1,14 @@
 ---
-title: "Interactive Brokers Python API Native Guide (Algo Trading)"
-description: Explore the power of Interactive Brokers' API for developing advanced algorithmic trading applications. This guide investigates into how traders can leverage the API for market data access, automating trading strategies, and executing trades efficiently. Learn how the API's robust framework supports custom strategies and rapid decision-making, providing insights into optimizing trading operations for competitive advantages. Discover the versatility of using Python and other programming languages for seamless integration with Interactive Brokers' platform, enhancing automation and system scalability with security and compliance.
+category: trading_strategy
+description: Explore the power of Interactive Brokers' API for developing advanced
+  algorithmic trading applications. This guide investigates into how traders can leverage
+  the API for market data access, automating trading strategies, and executing trades
+  efficiently. Learn how the API's robust framework supports custom strategies and
+  rapid decision-making, providing insights into optimizing trading operations for
+  competitive advantages. Discover the versatility of using Python and other programming
+  languages for seamless integration with Interactive Brokers' platform, enhancing
+  automation and system scalability with security and compliance.
+title: Interactive Brokers Python API Native Guide (Algo Trading)
 ---
 
 Algorithmic trading, which entails the use of complex algorithms to automate trading decisions, has significantly transformed financial markets over the past few decades. Initially implemented by institutional investors and hedge funds to exploit market inefficiencies, algorithmic trading has democratized access to sophisticated trading strategies. This automation enables traders to execute orders at speeds and frequencies that are beyond human capacity, thus improving market efficiency, reducing transaction costs, and offering opportunities for arbitrage.

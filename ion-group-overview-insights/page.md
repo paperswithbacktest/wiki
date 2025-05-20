@@ -1,6 +1,8 @@
 ---
-title: "ION Group: Overview and Insights (Algo Trading)"
-description: "ION Group offers innovative algo trading solutions that enhance speed and execution. With AI integration, their technology maximizes market performance."
+category: quant_concept
+description: ION Group offers innovative algo trading solutions that enhance speed
+  and execution. With AI integration, their technology maximizes market performance.
+title: 'ION Group: Overview and Insights (Algo Trading)'
 ---
 
 ION Group is a prominent enterprise in the financial technology sector, delivering proprietary software solutions that substantially enhance trading and execution, risk management, and connectivity across diverse financial markets. Established in 1999, ION has grown from its headquarters in Dublin, Ireland to operate globally in major financial cities. The company has strategically placed itself as a cornerstone in the financial industry, addressing the intricate demands of financial institutions, corporations, central banks, and governments around the world.

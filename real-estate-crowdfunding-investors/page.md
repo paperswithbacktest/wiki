@@ -1,6 +1,8 @@
 ---
-title: "Real Estate Crowdfunding for Investors (Algo Trading)"
-description: "Explore the synergy of real estate crowdfunding and algorithmic trading to optimize investments enhance market analysis and offer strategic financial opportunities."
+category: quant_concept
+description: Explore the synergy of real estate crowdfunding and algorithmic trading
+  to optimize investments enhance market analysis and offer strategic financial opportunities.
+title: Real Estate Crowdfunding for Investors (Algo Trading)
 ---
 
 Real estate investment crowdfunding and algorithmic trading are two transformative strategies reshaping the financial landscape. Real estate investment crowdfunding is a funding mechanism that enables multiple investors, often using an online platform, to pool resources to invest in real estate projects. This democratizes access to property investments by allowing individuals to contribute relatively small amounts in exchange for equity or debt in real estate ventures. Such platforms have reduced traditional barriers to entry, offering diversification opportunities and increasing transparency through accessible digital interfaces.

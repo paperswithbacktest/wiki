@@ -1,6 +1,11 @@
 ---
-title: "Cyclical Industry: Characteristics and Examples (Algo Trading)"
-description: "Explore the intricacies of cyclical industries like automotive and construction and their response to economic shifts. Gain insights into how algorithmic trading optimizes strategies by evaluating growth indicators and navigating economic phases. This guide empowers readers to understand and anticipate fluctuations, fostering informed decision-making aligned with market dynamics."
+category: trading_strategy
+description: Explore the intricacies of cyclical industries like automotive and construction
+  and their response to economic shifts. Gain insights into how algorithmic trading
+  optimizes strategies by evaluating growth indicators and navigating economic phases.
+  This guide empowers readers to understand and anticipate fluctuations, fostering
+  informed decision-making aligned with market dynamics.
+title: 'Cyclical Industry: Characteristics and Examples (Algo Trading)'
 ---
 
 Cyclical industries play a crucial role in comprehending the fluctuations within economic cycles and their subsequent impacts on various market segments. These industries, which include automotive, construction, and consumer discretionary sectors, demonstrate pronounced patterns of growth and contraction aligned with the broader economic environment. As such, understanding their dynamics is essential for investors and business leaders aiming to make informed decisions.

@@ -1,6 +1,8 @@
 ---
-title: "Beneish Model and M-Score Calculation (Algo Trading)"
-description: "Discover the Beneish M-Score a vital financial tool for detecting earnings manipulation through scrutinized financial ratios, crucial in investment analysis."
+category: quant_concept
+description: Discover the Beneish M-Score a vital financial tool for detecting earnings
+  manipulation through scrutinized financial ratios, crucial in investment analysis.
+title: Beneish Model and M-Score Calculation (Algo Trading)
 ---
 
 The Beneish M-Score is a widely recognized financial model designed to detect earnings manipulation through the analysis of various financial ratios. Created by Professor Messod Beneish, this model has proven its effectiveness in identifying potential financial fraud, thus becoming a critical tool in forensic accounting and financial analysis. The M-Score's utility is most notably reflected in its application during the Enron scandal, where its predictive capabilities highlighted significant discrepancies before the scandal became public knowledge. This event underscored the importance of the Beneish M-Score as a method for investors to assess the potential risks that arise from earnings manipulation, equipping them with a systematic approach to gauge the financial integrity of companies.

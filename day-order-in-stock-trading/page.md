@@ -1,6 +1,8 @@
 ---
-title: "Day Order in Stock Trading (Algo Trading)"
-description: "Explore how day order stock trading and algorithmic strategies enhance risk management and trade execution in volatile markets for optimal outcomes."
+category: trading_strategy
+description: Explore how day order stock trading and algorithmic strategies enhance
+  risk management and trade execution in volatile markets for optimal outcomes.
+title: Day Order in Stock Trading (Algo Trading)
 ---
 
 Day order stock trading is a fundamental component of trading strategies that enables traders to effectively manage risk and optimize trade execution. A day order is a buy or sell instruction for a security that expires at the end of the trading session if not executed. This characteristic makes day orders popular among traders who seek to avoid the risks associated with holding positions overnight, such as unexpected market events or news that can cause significant price changes.

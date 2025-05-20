@@ -1,7 +1,8 @@
 ---
-title: Understanding Model Routers in Machine Learning Pipelines
+category: quant_concept
 description: Model Router dynamically matches data types to the optimal model improving
   speed and accuracy in real-time machine learning workflows. Discover more inside
+title: Understanding Model Routers in Machine Learning Pipelines
 ---
 
 ![Image](images/1.png)

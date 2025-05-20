@@ -1,6 +1,14 @@
 ---
-title: "Data Broker Alternative Data (Algo Trading)"
-description: Discover the future of trading with alternative data facilitated by data brokers. As traditional data struggles to keep pace with evolving markets, alternative data sourced from app statistics, social media, and more provides unique insights crucial for algorithmic trading. Learn how data brokers enhance this process by aggregating and distributing diverse datasets to institutional clients, enabling superior strategic decisions and competitive advantage in financial markets. Explore challenges, opportunities, and future trends in this domain to understand how alternative data can redefine trading success.
+category: dataset
+description: Discover the future of trading with alternative data facilitated by data
+  brokers. As traditional data struggles to keep pace with evolving markets, alternative
+  data sourced from app statistics, social media, and more provides unique insights
+  crucial for algorithmic trading. Learn how data brokers enhance this process by
+  aggregating and distributing diverse datasets to institutional clients, enabling
+  superior strategic decisions and competitive advantage in financial markets. Explore
+  challenges, opportunities, and future trends in this domain to understand how alternative
+  data can redefine trading success.
+title: Data Broker Alternative Data (Algo Trading)
 ---
 
 In the competitive landscape of financial markets, traders are continually seeking an edge to enhance their returns and manage risks more effectively. Historically, the reliance was on traditional data sources such as financial statements, historical price data, and economic indicators. However, as markets have evolved and become more complex, these conventional data sources are now often seen as insufficient to maintain a competitive advantage. This shift has led to a burgeoning interest in alternative data, which is increasingly being powered and made accessible by data brokers.

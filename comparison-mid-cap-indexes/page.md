@@ -1,6 +1,8 @@
 ---
-title: "Comparison of Mid-Cap Indexes (Algo Trading)"
-description: "Explore the dynamics of mid-cap indexes in algorithmic trading to optimize investment strategies. Gain insights into index structures and their unique benefits."
+category: quant_concept
+description: Explore the dynamics of mid-cap indexes in algorithmic trading to optimize
+  investment strategies. Gain insights into index structures and their unique benefits.
+title: Comparison of Mid-Cap Indexes (Algo Trading)
 ---
 
 The stock market offers a wide range of investment opportunities, necessitating a thorough understanding of different indices for sound decision-making. Among these opportunities, mid-cap indexes are particularly significant. They represent companies whose market capitalizations fall between large-cap and small-cap stocks, typically ranging from $2 billion to $10 billion. These indices provide exposure to firms that are often in their growth phase, potentially offering a balance between risk and return compared to their large-cap and small-cap counterparts.

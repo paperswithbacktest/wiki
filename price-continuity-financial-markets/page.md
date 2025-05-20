@@ -1,6 +1,9 @@
 ---
-title: "Price Continuity in Financial Markets (Algo Trading)"
-description: "Explore the critical role of price continuity in financial markets understanding its significance in algorithmic trading and stock trading to enhance stability and efficiency."
+category: quant_concept
+description: Explore the critical role of price continuity in financial markets understanding
+  its significance in algorithmic trading and stock trading to enhance stability and
+  efficiency.
+title: Price Continuity in Financial Markets (Algo Trading)
 ---
 
 The world of financial markets is vast and complex, characterized by numerous elements that influence their operation. Key amongst these is price continuity, a crucial factor ensuring the efficient functionality of markets. Price continuity refers to the smooth transition from one price to another, minimizing the degree of sudden changes and thus reducing trading risks. This stability is vital for market participants, as it enables informed decision-making and enhances trader confidence. 

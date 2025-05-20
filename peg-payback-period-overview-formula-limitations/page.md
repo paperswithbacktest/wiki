@@ -1,6 +1,8 @@
 ---
-title: "PEG Payback Period: Overview, Formula, and Limitations (Algo Trading)"
-description: "Explore how the payback period and PEG ratio enhance trading strategies through algorithmic trading unlocking quicker investment assessments and decision-making."
+category: quant_concept
+description: Explore how the payback period and PEG ratio enhance trading strategies
+  through algorithmic trading unlocking quicker investment assessments and decision-making.
+title: 'PEG Payback Period: Overview, Formula, and Limitations (Algo Trading)'
 ---
 
 In the world of finance and investing, a plethora of metrics and tools are employed to assess the viability, risk, and potential returns of different investment opportunities. Among these tools, the payback period and the PEG (Price/Earnings-to-Growth) ratio stand out, each offering unique insights into evaluating investments. The payback period provides a simplified measure of how quickly an investment can recoup its initial costs, emphasizing short-term risk and liquidity. Meanwhile, the PEG ratio refines the traditional price-to-earnings (P/E) ratio by factoring in the expected growth in earnings, offering a more nuanced perspective on stock valuation.

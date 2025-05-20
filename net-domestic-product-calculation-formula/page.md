@@ -1,6 +1,14 @@
 ---
-title: "Net Domestic Product and Calculation Formula (Algo Trading)"
-description: "Explore how Net Domestic Product (NDP) and algorithmic trading intersect in financial analysis. Understand NDP's role as an economic indicator that adjusts GDP by accounting for asset depreciation to provide a clear view of economic sustainability. Discover how this metric aids in investment strategies by informing data-driven algorithms used in algotrading, enabling predictions of market trends and optimization of trading decisions. This page investigates into the critical role of economic indicators and their integration into advanced trading techniques, highlighting the importance of precision in navigating ever-evolving global markets."
+category: quant_concept
+description: Explore how Net Domestic Product (NDP) and algorithmic trading intersect
+  in financial analysis. Understand NDP's role as an economic indicator that adjusts
+  GDP by accounting for asset depreciation to provide a clear view of economic sustainability.
+  Discover how this metric aids in investment strategies by informing data-driven
+  algorithms used in algotrading, enabling predictions of market trends and optimization
+  of trading decisions. This page investigates into the critical role of economic
+  indicators and their integration into advanced trading techniques, highlighting
+  the importance of precision in navigating ever-evolving global markets.
+title: Net Domestic Product and Calculation Formula (Algo Trading)
 ---
 
 In the ever-evolving world of finance, understanding key terminologies and metrics is crucial for making informed decisions. Net Domestic Product (NDP) stands out as a vital economic indicator, offering a more accurate gauge of economic performance than Gross Domestic Product (GDP) by accounting for depreciation. While GDP provides a broad measure of a country's economic activity by calculating the total value of goods and services produced within its borders, it fails to account for the depreciation of assets over time. This omission can lead to an overestimation of a nation's economic health. NDP addresses this gap by incorporating depreciation, thus providing a clearer picture of the actual economic output.

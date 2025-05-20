@@ -1,7 +1,8 @@
 ---
-title: Wisdom of the Crowd for Enhanced Machine Learning Predictions
+category: quant_concept
 description: Wisdom of the Crowd ensembles merge model outputs in machine learning
   to reduce bias enhance accuracy and produce reliable predictions Discover more inside
+title: Wisdom of the Crowd for Enhanced Machine Learning Predictions
 ---
 
 ![Image](images/1.png)

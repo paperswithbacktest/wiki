@@ -1,6 +1,8 @@
 ---
-title: "Alpha Generator in International Investments (Algo Trading)"
-description: "Explore the pivotal role of alpha in international investments and algorithmic trading as a means to maximize portfolio returns beyond market benchmarks."
+category: quant_concept
+description: Explore the pivotal role of alpha in international investments and algorithmic
+  trading as a means to maximize portfolio returns beyond market benchmarks.
+title: Alpha Generator in International Investments (Algo Trading)
 ---
 
 Alpha is a pivotal concept in investment strategies, representing the excess return that an investment generates relative to a benchmark index. It is a measure of an investment's performance on a risk-adjusted basis. A positive alpha indicates that a portfolio has outperformed its benchmark after adjusting for risk, while a negative alpha signifies underperformance. For investors, both institutional and individual, understanding and generating alpha is crucial because it directly correlates with the potential for maximizing portfolio returns.

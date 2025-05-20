@@ -1,6 +1,8 @@
 ---
-title: "Capitalization Table: Creation and Maintenance (Algo Trading)"
-description: "Discover the essentials of managing cap tables in algo trading startups from equity allocation to market impacts for optimized growth and efficient scaling."
+category: quant_concept
+description: Discover the essentials of managing cap tables in algo trading startups
+  from equity allocation to market impacts for optimized growth and efficient scaling.
+title: 'Capitalization Table: Creation and Maintenance (Algo Trading)'
 ---
 
 Understanding capitalization (cap) tables is crucial for startups looking to manage their equity efficiently. These documents provide a comprehensive breakdown of a company's ownership structure, detailing who owns what percentage of the company and how different equity instruments are distributed. This becomes especially important as startups navigate the complexities of fundraising and ownership, where equity stakes and valuations fluctuate with each funding round.

@@ -1,6 +1,9 @@
 ---
-title: "Distributed Ledger Technology in Trading (Algo Trading)"
-description: "Explore the transformative impact of Distributed Ledger Technology on algorithmic trading enhancing transparency and efficiency while reducing risks and intermediaries."
+category: quant_concept
+description: Explore the transformative impact of Distributed Ledger Technology on
+  algorithmic trading enhancing transparency and efficiency while reducing risks and
+  intermediaries.
+title: Distributed Ledger Technology in Trading (Algo Trading)
 ---
 
 Distributed Ledger Technology (DLT) is profoundly impacting various sectors, with blockchain standing out as its most notable application. Prominently, DLT promises to redefine the trading industry, particularly algorithmic trading, by offering improvements in transparency, security, and efficiency. Algorithmic trading, which relies on pre-defined strategies and high-speed data processing, necessitates robust and reliable systems to maximize effectiveness. The integration of DLT within these systems can vastly enhance their performance by ensuring immutable and verifiable transaction records, expediting trade settlements, and minimizing reliance on intermediaries. 
@@ -94,4 +97,3 @@ Mougayar, W. (2016) – *The Business Blockchain*. Mougayar offers insights into
 Iansiti, M., & Lakhani, K. R. (2017) – *The Truth About Blockchain*. This article demystifies blockchain, addressing both its transformative potential and the misconceptions associated with it. The authors explore how blockchain can change the landscape of business operations by enhancing transparency and security. Their analysis helps readers grasp the profound impact this technology may have on innovation and competitive advantage.
 
 Tapscott, D., & Tapscott, A. (2016) – *Blockchain Revolution*. In this pioneering work, the Tapscotts examine how blockchain technology can revolutionize the economy. The book delves into how blockchains can be leveraged to execute transactions, streamline operations, and foster trust in areas ranging from financial services to supply chain management. It provides a visionary perspective on blockchain's capabilities and its prospective role in shaping future economic structures.
-

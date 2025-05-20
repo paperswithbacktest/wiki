@@ -1,6 +1,8 @@
 ---
-title: "Common Stock Funds: Overview and Types (Algo Trading)"
-description: "Explore common stock funds and algorithmic trading to enhance your investment strategy through diversification, cost efficiency, and precision trading."
+category: trading_strategy
+description: Explore common stock funds and algorithmic trading to enhance your investment
+  strategy through diversification, cost efficiency, and precision trading.
+title: 'Common Stock Funds: Overview and Types (Algo Trading)'
 ---
 
 In today's fast-paced financial markets, the landscape of common stock fund investment types and algorithmic trading has become integral for both novice and experienced investors. Common stock funds, which include mutual funds and exchange-traded funds (ETFs), provide investors with the opportunity for diversified investments in the equity of publicly traded companies. These funds simplify the investment process by enabling investors to avoid the complexities of analyzing and selecting individual stocks. The primary benefits of such funds lie in their diversification potential, simplicity, cost-effectiveness, and reduced time commitment, making them attractive to a broad range of investors.

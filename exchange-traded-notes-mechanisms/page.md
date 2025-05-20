@@ -1,6 +1,8 @@
 ---
-title: "Exchange-Traded Notes and Their Mechanisms (Algo Trading)"
-description: "Explore the intersection of ETNs and algo trading to unlock efficient investment strategies and insights on financial market innovations and challenges."
+category: quant_concept
+description: Explore the intersection of ETNs and algo trading to unlock efficient
+  investment strategies and insights on financial market innovations and challenges.
+title: Exchange-Traded Notes and Their Mechanisms (Algo Trading)
 ---
 
 In modern finance, financial instruments play a critical role in facilitating investment, risk management, and capital allocation. These instruments, which include stocks, bonds, derivatives, and commodities, are essential tools for investors and financial institutions to achieve various financial goals. One of the more recent additions to this diverse lineup is the Exchange-Traded Note (ETN). ETNs are unsecured debt securities issued by financial institutions that promise to pay a return linked to a specific index or benchmark. Unlike Exchange-Traded Funds (ETFs), which hold a basket of assets, ETNs do not own any underlying assets. Instead, they rely on the creditworthiness of the issuer, offering a unique way for investors to gain exposure to different asset classes and indices without direct ownership.

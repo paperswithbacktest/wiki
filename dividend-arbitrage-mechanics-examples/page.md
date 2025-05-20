@@ -1,6 +1,9 @@
 ---
-title: "Dividend Arbitrage: Mechanics and Examples (Algo Trading)"
-description: "Explore the mechanics of dividend arbitrage and its synergy with algorithmic trading to exploit dividend-related market inefficiencies and enhance investment returns."
+category: trading_strategy
+description: Explore the mechanics of dividend arbitrage and its synergy with algorithmic
+  trading to exploit dividend-related market inefficiencies and enhance investment
+  returns.
+title: 'Dividend Arbitrage: Mechanics and Examples (Algo Trading)'
 ---
 
 Dividend arbitrage is a sophisticated trading strategy employed in financial markets to capitalize on discrepancies related to dividend payouts. This technique involves the strategic buying and selling of stocks around their ex-dividend date to profit from differential tax treatments and pricing anomalies. Investors leverage such opportunities to enhance their returns, taking advantage of short-term inefficiencies in market pricing. Dividend arbitrage holds particular importance for institutional investors and hedge funds who seek to maximize yield by exploiting these temporary market conditions.

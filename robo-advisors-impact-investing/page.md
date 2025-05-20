@@ -1,6 +1,9 @@
 ---
-title: "Robo-Advisors and Impact Investing (Algo Trading)"
-description: "Explore how robo-advisors, impact investing, and algorithmic trading are transforming modern investing, making finance more accessible, efficient, and value-driven."
+category: quant_concept
+description: Explore how robo-advisors, impact investing, and algorithmic trading
+  are transforming modern investing, making finance more accessible, efficient, and
+  value-driven.
+title: Robo-Advisors and Impact Investing (Algo Trading)
 ---
 
 The financial technology sector has undergone profound changes over the past decade, driven largely by three key innovations: robo-advisors, impact investing, and algorithmic trading. Together, these components have reshaped the landscape of modern investing, making financial services more accessible, efficient, and aligned with individual values.

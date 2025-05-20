@@ -1,6 +1,15 @@
 ---
-title: "Chaos Theory: Overview, History, and Applications (Algo Trading)"
-description: "Explore the fascinating world of chaos theory and its impact on algorithmic trading as this article investigates into the history principles and applications of this mathematical concept. Chaos theory examines how small changes in initial conditions can lead to significant differences in outcomes highlighting the unpredictable nature of complex systems. Discover how chaos theory challenges conventional financial models by revealing the nonlinear dynamics of markets allowing traders to uncover hidden patterns and refine their strategies. This comprehensive overview offers insights into using chaos theory to navigate the complexities of modern financial systems."
+category: quant_concept
+description: Explore the fascinating world of chaos theory and its impact on algorithmic
+  trading as this article investigates into the history principles and applications
+  of this mathematical concept. Chaos theory examines how small changes in initial
+  conditions can lead to significant differences in outcomes highlighting the unpredictable
+  nature of complex systems. Discover how chaos theory challenges conventional financial
+  models by revealing the nonlinear dynamics of markets allowing traders to uncover
+  hidden patterns and refine their strategies. This comprehensive overview offers
+  insights into using chaos theory to navigate the complexities of modern financial
+  systems.
+title: 'Chaos Theory: Overview, History, and Applications (Algo Trading)'
 ---
 
 Chaos theory is a captivating branch of mathematics that investigates how minuscule alterations in the initial conditions of complex systems can produce substantial differences in their outcomes. Initially conceptualized in the domains of physics and meteorology, chaos theory has extended its influence across various fields, notably in finance and trading. By studying the intricacies of chaos theory, alongside nonlinear science and dynamical systems, we gain valuable insights into their applications and implications for algorithmic trading (algo trading).

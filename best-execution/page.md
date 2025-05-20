@@ -1,6 +1,15 @@
 ---
-title: "Best execution (Algo Trading)"
-description: Best execution in algorithmic trading is crucial for investment services firms to efficiently manage and execute client orders. Key factors include obtaining the best price, ensuring the complete execution of orders, and timely processing to avoid market volatility impacts. Regulatory developments in the U.S. and Europe have refined best execution principles, emphasizing transparency, market competition, and diverse execution factors. Algorithmic trading technologies further necessitate adherence to these standards. Benchmarks like VWAP and TWAP help evaluate execution quality, while selecting optimal liquidity sources involves balancing price, fees, and risk considerations for superior trade outcomes.
+category: quant_concept
+description: Best execution in algorithmic trading is crucial for investment services
+  firms to efficiently manage and execute client orders. Key factors include obtaining
+  the best price, ensuring the complete execution of orders, and timely processing
+  to avoid market volatility impacts. Regulatory developments in the U.S. and Europe
+  have refined best execution principles, emphasizing transparency, market competition,
+  and diverse execution factors. Algorithmic trading technologies further necessitate
+  adherence to these standards. Benchmarks like VWAP and TWAP help evaluate execution
+  quality, while selecting optimal liquidity sources involves balancing price, fees,
+  and risk considerations for superior trade outcomes.
+title: Best execution (Algo Trading)
 ---
 
 Best execution is a fundamental obligation for investment services firms, including brokerage houses, to manage and execute client orders efficiently. This responsibility extends beyond merely fulfilling a transaction; it demands a comprehensive consideration of various critical factors. Price opportunity, which involves obtaining the best possible price for a trade, is central to best execution. This encompasses the assessment of prevailing market prices and the potential for price improvement.

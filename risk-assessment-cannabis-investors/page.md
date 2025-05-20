@@ -1,6 +1,9 @@
 ---
-title: "Risk Assessment of Cannabis Investors (Algo Trading)"
-description: "Explore the risks and opportunities of investing in the cannabis market through algorithmic trading, understanding regulatory impacts, market volatility, and growth potential."
+category: trading_strategy
+description: Explore the risks and opportunities of investing in the cannabis market
+  through algorithmic trading, understanding regulatory impacts, market volatility,
+  and growth potential.
+title: Risk Assessment of Cannabis Investors (Algo Trading)
 ---
 
 The cannabis market is gradually being recognized as a lucrative opportunity for investors, driven by a combination of legal reforms and growing societal acceptance. Despite its apparent volatility, this burgeoning sector presents numerous possibilities for financial growth and diversification. This article aims to provide an insightful analysis of the associated risks and opportunities within cannabis investments, emphasizing the increasingly employed strategy of algorithmic trading. 

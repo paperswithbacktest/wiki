@@ -1,6 +1,8 @@
 ---
-title: "Modified Accrual Accounting (Algo Trading)"
-description: "Explore the intersection of government accounting and algorithmic trading through modified accrual accounting to enhance transparency and improve fiscal management."
+category: quant_concept
+description: Explore the intersection of government accounting and algorithmic trading
+  through modified accrual accounting to enhance transparency and improve fiscal management.
+title: Modified Accrual Accounting (Algo Trading)
 ---
 
 This article investigates the dynamic interplay between financial reporting in government accounting and modified accrual accounting frameworks, with a particular focus on their connection to algorithmic trading. As government sectors continue to prioritize transparency and accountability, modified accrual accounting stands out as a vital method in financial decision-making. This approach, which incorporates elements of both cash and accrual accounting, allows government entities to delineate between short- and long-term financial obligations, thereby helping to provide a clearer picture of fiscal health.

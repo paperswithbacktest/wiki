@@ -1,6 +1,13 @@
 ---
-title: "Capital IQ (Algo Trading)"
-description: Explore the integration of Capital IQ data into algorithmic trading strategies to enhance precision and strategy development. Learn how this robust financial information platform offers comprehensive datasets and analytics tools essential for developing sophisticated trading algorithms. Discover how traders can leverage Capital IQ to improve trading accuracy, manage large volumes of data, and make informed, data-driven decisions while understanding the benefits and challenges of algo trading in today's financial markets.
+category: quant_concept
+description: Explore the integration of Capital IQ data into algorithmic trading strategies
+  to enhance precision and strategy development. Learn how this robust financial information
+  platform offers comprehensive datasets and analytics tools essential for developing
+  sophisticated trading algorithms. Discover how traders can leverage Capital IQ to
+  improve trading accuracy, manage large volumes of data, and make informed, data-driven
+  decisions while understanding the benefits and challenges of algo trading in today's
+  financial markets.
+title: Capital IQ (Algo Trading)
 ---
 
 Algorithmic trading, often abbreviated as algo trading, is the process of using computer algorithms to automate the trading of financial instruments such as stocks, bonds, commodities, and currencies. This method leverages complex mathematical models and decision-making systems to execute trades at speeds and frequencies that are beyond human capability. In recent years, algorithmic trading has experienced significant growth, becoming a vital component of modern financial markets. Its importance stems from several key advantages, including improved speed and accuracy of trade execution, reduced transaction costs, and the ability to manage large volumes of data more efficiently than traditional methods.

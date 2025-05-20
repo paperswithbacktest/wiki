@@ -1,6 +1,8 @@
 ---
-title: "Requirement of Demat Accounts for Mutual Funds (Algo Trading)"
-description: "Explore how demat accounts, mutual funds, and algorithmic trading integrate to optimize your investment strategies, enhancing efficiency and diversification."
+category: quant_concept
+description: Explore how demat accounts, mutual funds, and algorithmic trading integrate
+  to optimize your investment strategies, enhancing efficiency and diversification.
+title: Requirement of Demat Accounts for Mutual Funds (Algo Trading)
 ---
 
 Understanding financial investments involves navigating a diverse landscape of instruments and strategies, including mutual funds, demat accounts, and sophisticated trading methodologies like algorithmic trading. Each of these components uniquely contributes to an investor's portfolio management, which can be significantly enhanced through informed decision-making and strategic resource allocation. This article aims to explore the roles and significance of demat accounts, mutual funds, and algorithmic trading, offering insights into how they may be integrated and leveraged to optimize investment strategies effectively.

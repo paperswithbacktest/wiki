@@ -1,6 +1,11 @@
 ---
-title: "Comparison of Treasury Bonds, Notes, and Bills (Algo Trading)"
-description: "Explore the differences between U.S. Treasury Bonds, Notes, and Bills and understand their roles in diversified portfolios with algorithmic trading techniques. Learn how these government-backed securities vary in maturities and interest payments to suit diverse investment strategies and how algorithmic trading optimizes their management by automating trades to respond to market changes effectively."
+category: quant_concept
+description: Explore the differences between U.S. Treasury Bonds, Notes, and Bills
+  and understand their roles in diversified portfolios with algorithmic trading techniques.
+  Learn how these government-backed securities vary in maturities and interest payments
+  to suit diverse investment strategies and how algorithmic trading optimizes their
+  management by automating trades to respond to market changes effectively.
+title: Comparison of Treasury Bonds, Notes, and Bills (Algo Trading)
 ---
 
 Investors looking to diversify their portfolios with fixed-income securities often turn to U.S. Treasury instruments due to their government backing and low-risk nature. Understanding the distinctions between Treasury Notes, Treasury Bonds, and Treasury Bills is essential in making informed investment decisions. These government-issued securities differ primarily in their maturities and interest payments, thus offering various advantages depending on the investor's time horizon and income requirements.

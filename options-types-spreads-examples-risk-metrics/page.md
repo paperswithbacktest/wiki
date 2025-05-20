@@ -1,6 +1,8 @@
 ---
-title: "Options: Types, Spreads, Examples, and Risk Metrics (Algo Trading)"
-description: "Explore the significance of options spreads and algorithmic trading in modern finance. Understand risk metrics like the Greeks to elevate trading strategies."
+category: trading_strategy
+description: Explore the significance of options spreads and algorithmic trading in
+  modern finance. Understand risk metrics like the Greeks to elevate trading strategies.
+title: 'Options: Types, Spreads, Examples, and Risk Metrics (Algo Trading)'
 ---
 
 The continuous evolution of financial markets has highlighted the increasing importance of options spreads and algorithmic trading as indispensable tools for traders. Options spreads, which involve strategic combinations of buying and selling different options, enable investors to manage risk and optimize returns, offering tailored strategies that cater to varying market conditions and risk appetites. These instruments provide flexibility by allowing traders to hedge positions and potentially leverage opportunities at reduced costs compared to direct asset investments.

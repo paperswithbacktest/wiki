@@ -1,6 +1,8 @@
 ---
-title: "Certified Valuation Analyst: Role and Responsibilities (Algo Trading)"
-description: "Discover the crucial role of Certified Valuation Analysts in modern business Navigate mergers acquisitions and financial reporting with expert valuation insights"
+category: quant_concept
+description: Discover the crucial role of Certified Valuation Analysts in modern business
+  Navigate mergers acquisitions and financial reporting with expert valuation insights
+title: 'Certified Valuation Analyst: Role and Responsibilities (Algo Trading)'
 ---
 
 The business world is increasingly complex, characterized by rapid technological advancements, globalization, and evolving market dynamics. Accurately assessing the value of a company has become crucial for activities such as mergers, acquisitions, legal disputes, and strategic planning. In this context, Certified Valuation Analysts (CVAs) offer essential insights and expertise. They contribute significantly to the financial stability and growth of organizations by providing accurate and reliable business valuations.

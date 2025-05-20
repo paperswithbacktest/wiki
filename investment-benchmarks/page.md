@@ -1,6 +1,8 @@
 ---
-title: "Investment Benchmarks (Algo Trading)"
-description: "Discover essential concepts for enhancing investment portfolios including strategies benchmarks indices and algo trading for optimal market opportunities"
+category: quant_concept
+description: Discover essential concepts for enhancing investment portfolios including
+  strategies benchmarks indices and algo trading for optimal market opportunities
+title: Investment Benchmarks (Algo Trading)
 ---
 
 In today's rapidly evolving financial markets, understanding the landscape is essential for making informed investment decisions. As technology and globalization continue to reshape the world's financial systems, investors face an increasingly complex set of options and challenges. The ability to navigate these complexities effectively is pivotal to achieving financial success. 

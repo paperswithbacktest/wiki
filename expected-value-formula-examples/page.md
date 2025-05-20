@@ -1,6 +1,8 @@
 ---
-title: "Expected Value: Formula and Examples (Algo Trading)"
-description: "Learn how expected value impacts algorithmic trading Discover formulas examples and principles that can optimize decisions and improve trading strategies"
+category: quant_concept
+description: Learn how expected value impacts algorithmic trading Discover formulas
+  examples and principles that can optimize decisions and improve trading strategies
+title: 'Expected Value: Formula and Examples (Algo Trading)'
 ---
 
 Algorithmic trading involves the use of advanced mathematical concepts to create and implement trading strategies. Among these, statistics and probability theory are essential components, as they provide the analytical framework needed to evaluate trading opportunities and manage risks. At the core of this analytical framework lies the concept of expected value, a fundamental concept in probability theory that is crucial for decision making in algorithmic trading.

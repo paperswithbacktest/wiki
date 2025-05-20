@@ -1,6 +1,8 @@
 ---
-title: "Impact of Global Events on the Forex Market (Algo Trading)"
-description: "Explore the impact of global events on forex trading and how algorithmic trading adapts to market volatility offering insights into navigating economic shifts."
+category: quant_concept
+description: Explore the impact of global events on forex trading and how algorithmic
+  trading adapts to market volatility offering insights into navigating economic shifts.
+title: Impact of Global Events on the Forex Market (Algo Trading)
 ---
 
 The foreign exchange market, commonly known as the forex market, is the largest and most liquid financial market in the world. It operates on a decentralized basis, where currencies are traded over-the-counter between participants, including banks, corporations, governments, and individual traders. According to the Bank for International Settlements, the average daily trading volume in the forex market reached $6.6 trillion in 2019, underscoring its immense scale and liquidity.

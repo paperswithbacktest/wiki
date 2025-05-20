@@ -1,6 +1,8 @@
 ---
-title: "Paul Samuelson: Nobel Laureate and Economic Researcher (Algo Trading)"
-description: "Discover how Paul Samuelson's groundbreaking work revolutionized economic theory and influenced algorithmic trading strategies through enduring insights."
+category: quant_concept
+description: Discover how Paul Samuelson's groundbreaking work revolutionized economic
+  theory and influenced algorithmic trading strategies through enduring insights.
+title: 'Paul Samuelson: Nobel Laureate and Economic Researcher (Algo Trading)'
 ---
 
 Paul Samuelson was a pioneering figure in the field of economics, whose extensive research and theoretical innovations have left an indelible mark on modern economic thought. His work is not only foundational in the academic sphere but also holds significant implications for practical applications, such as algorithmic trading in the financial markets. Samuelson's influential theories emerged at a time when economics was evolving into a more rigorous and scientifically-backed discipline.

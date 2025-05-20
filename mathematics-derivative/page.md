@@ -1,6 +1,10 @@
 ---
-title: "Mathematics Derivative (Algo Trading)"
-description: "Discover how calculus and derivatives form the foundation of algorithmic trading strategies by analyzing market trends, predicting price fluctuations, and optimizing trade execution. Explore their application in calculating financial derivatives and the importance of mathematical modeling in identifying trading opportunities."
+category: quant_concept
+description: Discover how calculus and derivatives form the foundation of algorithmic
+  trading strategies by analyzing market trends, predicting price fluctuations, and
+  optimizing trade execution. Explore their application in calculating financial derivatives
+  and the importance of mathematical modeling in identifying trading opportunities.
+title: Mathematics Derivative (Algo Trading)
 ---
 
 The intersection of mathematics and finance has led to the development of advanced trading strategies, particularly within algorithmic trading. At the core of these strategies lies calculus, a branch of mathematics concerned with continuous change, particularly through its subfield of derivatives. Derivatives, in this context, are mathematical expressions that describe how a function changes as its inputs change, providing a powerful tool for analyzing and predicting fluctuations in financial markets. 

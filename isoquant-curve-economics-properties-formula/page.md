@@ -1,6 +1,11 @@
 ---
-title: "Isoquant Curve in Economics: Properties and Formula (Algo Trading)"
-description: "Explore the role of isoquant curves in production theory and their application in algorithmic trading. Learn how this economic concept helps optimize resource allocation and enhance trading efficiency by analyzing input trade-offs and achieving cost-effective outputs. Discover the integration of isoquant principles with modern technology to innovate and improve financial decision-making."
+category: quant_concept
+description: Explore the role of isoquant curves in production theory and their application
+  in algorithmic trading. Learn how this economic concept helps optimize resource
+  allocation and enhance trading efficiency by analyzing input trade-offs and achieving
+  cost-effective outputs. Discover the integration of isoquant principles with modern
+  technology to innovate and improve financial decision-making.
+title: 'Isoquant Curve in Economics: Properties and Formula (Algo Trading)'
 ---
 
 In the evolving landscape of economics and finance, understanding production theory and its applications in modern technology like algorithmic trading is crucial. Production theory, a core concept in economics, examines how inputs are transformed into outputs, providing frameworks that are essential for optimizing resource allocation and enhancing productivity. One of the central elements of production theory is the isoquant curve, which represents all combinations of inputs, such as capital and labor, capable of producing a specific level of output. 

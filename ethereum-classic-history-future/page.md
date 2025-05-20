@@ -1,6 +1,8 @@
 ---
-title: "Ethereum Classic: History and Future (Algo Trading)"
-description: "Explore Ethereum Classic's origins from The DAO hack, its steadfast philosophy of blockchain immutability, and its evolving role in algorithmic trading."
+category: quant_concept
+description: Explore Ethereum Classic's origins from The DAO hack, its steadfast philosophy
+  of blockchain immutability, and its evolving role in algorithmic trading.
+title: 'Ethereum Classic: History and Future (Algo Trading)'
 ---
 
 Ethereum Classic (ETC) is one of the enduring legacies of the blockchain world, born out of a pivotal moment in cryptocurrency history. Its inception is directly linked to a major event in the crypto domain that challenged the principle of immutability in blockchain technology. This event, known as The DAO hack of 2016, led to a split in the Ethereum community, resulting in the creation of Ethereum Classic. ETC's existence underscores a fundamental debate about the philosophy and integrity of blockchain, notably adhering to the "code is law" ethos, which emphasizes the importance of preserving the original state of the blockchain, irrespective of external circumstances.

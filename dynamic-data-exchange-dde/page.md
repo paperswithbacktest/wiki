@@ -1,6 +1,11 @@
 ---
-title: "Dynamic data exchange (DDE) (Algo Trading)"
-description: Explore how Dynamic Data Exchange (DDE) enhances algorithmic trading by enabling real-time data integration between trading platforms and software like Microsoft Excel. Understand DDE's role in facilitating data-driven decisions for traders, the protocol's benefits, implementation strategies, and its use in optimizing trading outcomes on platforms such as Interactive Brokers' Trader Workstation.
+category: quant_concept
+description: Explore how Dynamic Data Exchange (DDE) enhances algorithmic trading
+  by enabling real-time data integration between trading platforms and software like
+  Microsoft Excel. Understand DDE's role in facilitating data-driven decisions for
+  traders, the protocol's benefits, implementation strategies, and its use in optimizing
+  trading outcomes on platforms such as Interactive Brokers' Trader Workstation.
+title: Dynamic data exchange (DDE) (Algo Trading)
 ---
 
 Dynamic Data Exchange (DDE) is a communication protocol developed by Microsoft to facilitate the transfer of data between applications running on Windows operating systems. This technology is particularly useful in environments where real-time data exchange is crucial. One such environment is algorithmic trading, where DDE empowers trading platforms to seamlessly interact with external software, such as Microsoft Excel, enabling efficient, data-driven trading decisions.

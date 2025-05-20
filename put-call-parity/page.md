@@ -1,6 +1,14 @@
 ---
-title: "Put–call parity (Algo Trading)"
-description: Put-Call Parity is a foundational concept in financial mathematics that connects the prices of European call and put options with identical strike prices and expiry dates. This relationship illustrates the equivalency of holding a long call option and a short put option with a forward contract. In algorithmic trading, this principle is critical as it helps identify arbitrage opportunities. Automated systems exploit deviations from Put-Call Parity, utilizing fast computing to detect and profit from market inefficiencies, thereby enhancing trading strategy robustness and effectiveness.
+category: quant_concept
+description: Put-Call Parity is a foundational concept in financial mathematics that
+  connects the prices of European call and put options with identical strike prices
+  and expiry dates. This relationship illustrates the equivalency of holding a long
+  call option and a short put option with a forward contract. In algorithmic trading,
+  this principle is critical as it helps identify arbitrage opportunities. Automated
+  systems exploit deviations from Put-Call Parity, utilizing fast computing to detect
+  and profit from market inefficiencies, thereby enhancing trading strategy robustness
+  and effectiveness.
+title: Put–call parity (Algo Trading)
 ---
 
 Put-Call Parity is a fundamental principle in financial mathematics that establishes a relationship between the prices of European call and put options with the same strike price and expiry date. The parity formula is expressed as:

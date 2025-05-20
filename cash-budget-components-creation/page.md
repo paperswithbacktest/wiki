@@ -1,6 +1,9 @@
 ---
-title: "Cash Budget Components and Creation (Algo Trading)"
-description: "Explore key financial strategies including cash budgeting and algorithmic trading Learn how these methods support financial stability growth and informed decision-making"
+category: trading_strategy
+description: Explore key financial strategies including cash budgeting and algorithmic
+  trading Learn how these methods support financial stability growth and informed
+  decision-making
+title: Cash Budget Components and Creation (Algo Trading)
 ---
 
 In today’s dynamic financial landscape, managing finances efficiently is crucial for both individuals and businesses. Financial management encompasses a wide range of activities, including creating a cash budget, planning long-term investments, and leveraging algorithmic trading. Each of these components plays a vital role in ensuring financial stability and growth.

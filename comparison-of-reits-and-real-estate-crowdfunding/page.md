@@ -1,6 +1,8 @@
 ---
-title: "Comparison of REITs and Real Estate Crowdfunding (Algo Trading)"
-description: "Explore the differences between REITs and real estate crowdfunding along with algorithmic trading as investment strategies Learn their benefits and risks"
+category: trading_strategy
+description: Explore the differences between REITs and real estate crowdfunding along
+  with algorithmic trading as investment strategies Learn their benefits and risks
+title: Comparison of REITs and Real Estate Crowdfunding (Algo Trading)
 ---
 
 Investing in real estate has historically been regarded as a stable and profitable method for wealth accumulation. Traditional approaches to real estate investment typically required considerable capital and significant responsibility in terms of property management. However, technological advancements have introduced alternative investment options such as real estate crowdfunding and Real Estate Investment Trusts (REITs). These innovations have lowered entry barriers, allowing a broader audience to participate in real estate investments without directly owning or managing properties.

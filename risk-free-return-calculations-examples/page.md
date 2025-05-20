@@ -1,6 +1,8 @@
 ---
-title: "Risk-Free Return: Calculations and Examples (Algo Trading)"
-description: "Explore the concepts of risk-free return calculations and algorithmic trading to optimize investment strategies and enhance portfolio performance."
+category: trading_strategy
+description: Explore the concepts of risk-free return calculations and algorithmic
+  trading to optimize investment strategies and enhance portfolio performance.
+title: 'Risk-Free Return: Calculations and Examples (Algo Trading)'
 ---
 
 The financial landscape has evolved significantly with the advent of technology, providing novel opportunities for investors. This transformation has been marked by the development of sophisticated algorithms, complex financial instruments, and advanced data analytics, all of which have enabled investors to harness the power of modern finance to achieve higher returns and manage risks effectively.

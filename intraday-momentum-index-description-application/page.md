@@ -1,6 +1,8 @@
 ---
-title: "Intraday Momentum Index: Description and Application (Algo Trading)"
-description: "Explore the Intraday Momentum Index and its application in algo trading Discover how this unique momentum indicator aids in making informed intraday decisions"
+category: trading_strategy
+description: Explore the Intraday Momentum Index and its application in algo trading
+  Discover how this unique momentum indicator aids in making informed intraday decisions
+title: 'Intraday Momentum Index: Description and Application (Algo Trading)'
 ---
 
 In the fast-paced world of intraday trading, understanding market momentum is crucial for achieving a competitive advantage. Momentum indicators, which measure the speed and strength of price movements, play a pivotal role in identifying short-term trading opportunities. These tools enable traders to make informed decisions by analyzing price dynamics and predicting potential reversals or continuations in the market.

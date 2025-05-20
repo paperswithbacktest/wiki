@@ -1,6 +1,8 @@
 ---
-title: "Share Purchase Rights: Overview and Mechanism (Algo Trading)"
-description: "Explore the dynamics of share purchase rights and algorithmic trading Learn how these tools empower investors to optimize portfolios and enhance returns"
+category: quant_concept
+description: Explore the dynamics of share purchase rights and algorithmic trading
+  Learn how these tools empower investors to optimize portfolios and enhance returns
+title: 'Share Purchase Rights: Overview and Mechanism (Algo Trading)'
 ---
 
 The landscape of financial instruments presents a myriad of complexities and opportunities that can be optimized through the strategic intersection of traditional and modern investment methodologies. As global financial markets evolve, the importance of understanding diverse financial tools becomes increasingly apparent. Among these tools, share purchase rights and algorithmic trading stand out as pivotal components that empower investors to make informed decisions and enhance portfolio performance.

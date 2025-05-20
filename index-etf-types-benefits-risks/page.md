@@ -1,6 +1,9 @@
 ---
-title: "Index ETF: Types, Benefits, and Risks (Algo Trading)"
-description: "Index ETFs offer cost-effective diversification by tracking market indices like the S&P 500 Learn about their benefits risks and the influence of algorithmic trading"
+category: trading_strategy
+description: Index ETFs offer cost-effective diversification by tracking market indices
+  like the S&P 500 Learn about their benefits risks and the influence of algorithmic
+  trading
+title: 'Index ETF: Types, Benefits, and Risks (Algo Trading)'
 ---
 
 Exchange-Traded Funds (ETFs) have emerged as a prominent investment tool, gaining widespread popularity due to their unique ability to offer diversification, liquidity, and cost-effectiveness. Unlike traditional mutual funds, ETFs trade on stock exchanges much like individual stocks, enabling investors to buy or sell shares with relative ease throughout the trading day. This feature enhances liquidity, a critical attribute that allows investors to react swiftly to market movements.

@@ -1,6 +1,8 @@
 ---
-title: "BCG Growth-Share Matrix Overview (Algo Trading)"
-description: "Explore the impact of the BCG Growth-Share Matrix on strategic management and its integration with algorithmic trading to optimize business decision-making."
+category: quant_concept
+description: Explore the impact of the BCG Growth-Share Matrix on strategic management
+  and its integration with algorithmic trading to optimize business decision-making.
+title: BCG Growth-Share Matrix Overview (Algo Trading)
 ---
 
 The business landscape is characterized by rapid changes, driven by technological advancements, shifting consumer preferences, and global economic fluctuations. In response, organizations employ a variety of strategic management tools to stay competitive and make informed decisions. One such tool is the BCG Matrix, developed by the Boston Consulting Group. This matrix serves as a framework that assists companies in evaluating their product portfolio by considering two fundamental dimensions: market growth and market share.

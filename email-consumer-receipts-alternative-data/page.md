@@ -1,6 +1,10 @@
 ---
-title: "Email/Consumer Receipts Alternative Data (Algo Trading)"
-description: Explore the power of email consumer receipts as alternative data in algorithmic trading to enhance precision and timing of trading strategies Illuminate how these digital receipts offer real-time insights into purchasing behaviors transforming trading strategies with valuable market dynamics understanding
+category: dataset
+description: Explore the power of email consumer receipts as alternative data in algorithmic
+  trading to enhance precision and timing of trading strategies Illuminate how these
+  digital receipts offer real-time insights into purchasing behaviors transforming
+  trading strategies with valuable market dynamics understanding
+title: Email/Consumer Receipts Alternative Data (Algo Trading)
 ---
 
 In the world of financial markets, information is power. With the increasing complexity of the markets, traders are perpetually in search of innovative methods to gain an edge over their competition. One such method involves the utilization of alternative data, which encompasses information beyond traditional financial metrics like prices and volumes. This approach has gained traction as it allows traders to derive insights not readily apparent from conventional data sources.

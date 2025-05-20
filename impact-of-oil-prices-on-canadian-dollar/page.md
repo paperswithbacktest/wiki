@@ -1,6 +1,8 @@
 ---
-title: "Impact of Oil Prices on the Canadian Dollar (Algo Trading)"
-description: "Discover how oil prices influence the Canadian dollar and how algorithmic trading leverages this dynamic to offer actionable opportunities in currency markets."
+category: trading_strategy
+description: Discover how oil prices influence the Canadian dollar and how algorithmic
+  trading leverages this dynamic to offer actionable opportunities in currency markets.
+title: Impact of Oil Prices on the Canadian Dollar (Algo Trading)
 ---
 
 Oil prices are a critical factor in the Canadian economy, given Canada's position as a leading global oil producer. The fluctuations in oil prices directly impact various sectors of the economy, influencing everything from governmental fiscal policies to corporate earnings. As oil is a major export for Canada, changes in its price can have significant ripple effects, influencing not only industry stakeholders but also the overall economic health of the nation.

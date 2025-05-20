@@ -1,6 +1,8 @@
 ---
-title: "Applications of the Pareto Principle (Algo Trading)"
-description: "Explore how the Pareto Principle can enhance algorithmic trading by focusing on key strategies that yield maximum returns optimizing efficiency and profitability."
+category: quant_concept
+description: Explore how the Pareto Principle can enhance algorithmic trading by focusing
+  on key strategies that yield maximum returns optimizing efficiency and profitability.
+title: Applications of the Pareto Principle (Algo Trading)
 ---
 
 The Pareto Principle, commonly known as the 80-20 Rule, is a seminal concept that illustrates the uneven distribution of effects and causes. Originating from the work of Italian economist Vilfredo Pareto, this principle was first observed in his study of wealth distribution, where Pareto noted that roughly 80% of Italy’s wealth was owned by 20% of the population. This phenomenon of significant imbalance in distributions isn’t limited to economics; it extends across various domains including quality control, business management, and technical disciplines. In essence, the rule suggests that a minority of causes, inputs, or efforts typically leads to a majority of results, outputs, or rewards.

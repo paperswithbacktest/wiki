@@ -1,6 +1,9 @@
 ---
-title: "Balassa-Samuelson Effect in Economic Theory (Algo Trading)"
-description: "Explore how the Balassa-Samuelson Effect and Purchasing Power Parity impact algorithmic trading strategies by influencing exchange rates and currency valuation."
+category: quant_concept
+description: Explore how the Balassa-Samuelson Effect and Purchasing Power Parity
+  impact algorithmic trading strategies by influencing exchange rates and currency
+  valuation.
+title: Balassa-Samuelson Effect in Economic Theory (Algo Trading)
 ---
 
 This article explores the intersection of the Balassa-Samuelson Effect and purchasing power parity (PPP) within economic theory, and how these concepts inform algorithmic trading strategies. The Balassa-Samuelson Effect serves as a fundamental principle explaining how productivity variances between sectors in different countries influence real exchange rates and wage levels. Higher productivity, particularly in tradable goods sectors, often leads to increased wages and prices in non-tradable sectors, consequently affecting currency valuations. Thus, countries with high productivity might exhibit undervalued currencies compared to their actual economic potential.

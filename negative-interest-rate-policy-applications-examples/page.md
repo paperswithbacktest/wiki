@@ -1,6 +1,9 @@
 ---
-title: "Negative Interest Rate Policy: Applications and Examples (Algo Trading)"
-description: "Explore the implications of Negative Interest Rate Policy (NIRP) and how algorithmic trading can adapt to these economic shifts Learn strategies to navigate NIRP dynamics"
+category: quant_concept
+description: Explore the implications of Negative Interest Rate Policy (NIRP) and
+  how algorithmic trading can adapt to these economic shifts Learn strategies to navigate
+  NIRP dynamics
+title: 'Negative Interest Rate Policy: Applications and Examples (Algo Trading)'
 ---
 
 The financial landscape is evolving rapidly with the advent of unconventional monetary policies like the Negative Interest Rate Policy (NIRP). NIRP emerges as a significant tool utilized by central banks to stimulate economic growth, particularly in times when traditional monetary solutions prove inadequate. Under NIRP, nominal interest rates fall below zero, effectively charging banks for holding excess reserves. This counterintuitive measure aims to incentivize increased lending and expenditure, thus combating deflationary challenges and encouraging economic expansion.

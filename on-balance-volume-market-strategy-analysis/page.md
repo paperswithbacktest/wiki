@@ -1,6 +1,9 @@
 ---
-title: "On-Balance Volume and Market Strategy Analysis (Algo Trading)"
-description: "Discover how On-Balance Volume can enhance your algo trading strategy by analyzing volume-driven market trends. Improve precision in predicting price movements."
+category: trading_strategy
+description: Discover how On-Balance Volume can enhance your algo trading strategy
+  by analyzing volume-driven market trends. Improve precision in predicting price
+  movements.
+title: On-Balance Volume and Market Strategy Analysis (Algo Trading)
 ---
 
 On-Balance Volume (OBV) serves as a crucial instrument in the domain of technical analysis and algorithmic trading. Devised by Joseph Granville, OBV is a momentum indicator that measures buying and selling pressure through volume changes. This article examines how OBV can be strategically employed as a market strategy in algo trading.

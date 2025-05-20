@@ -1,6 +1,9 @@
 ---
-title: "Balance of Payments in International Trade (Algo Trading)"
-description: "Understand the balance of payments and its links to international trade and algorithmic trading Key insights into economic stability and policies await readers"
+category: quant_concept
+description: Understand the balance of payments and its links to international trade
+  and algorithmic trading Key insights into economic stability and policies await
+  readers
+title: Balance of Payments in International Trade (Algo Trading)
 ---
 
 In today's interconnected world, understanding the intricate dynamics of global transactions is vital for businesses and policymakers. These dynamics encompass the balance of payments, international trade, and algorithmic trading, each playing a crucial role in shaping economic policies and strategies. The balance of payments (BOP), for instance, serves as a financial statement that summarizes a country's economic transactions with the rest of the world over a specific period. It comprises various components, including the current account, capital account, and financial account, which collectively offer insights into the country's economic interactions.

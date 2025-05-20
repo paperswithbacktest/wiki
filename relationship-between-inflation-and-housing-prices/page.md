@@ -1,6 +1,8 @@
 ---
-title: "Relationship Between Inflation and Housing Prices (Algo Trading)"
-description: "Explore how inflation impacts housing prices and how algorithmic trading influences real estate investments providing insights into market dynamics and strategies."
+category: quant_concept
+description: Explore how inflation impacts housing prices and how algorithmic trading
+  influences real estate investments providing insights into market dynamics and strategies.
+title: Relationship Between Inflation and Housing Prices (Algo Trading)
 ---
 
 The housing market, inflation, and home prices have become increasingly intertwined in the current economic landscape. This entanglement is largely due to macroeconomic factors, such as inflation, which plays a pivotal role in dictating market conditions. Inflation refers to the general increase in prices and the corresponding decrease in purchasing power within an economy. As inflation rates climb, they invariably affect various economic sectors, with the housing market being significantly impacted. As inflation rates soar, homebuyers and investors alike are concerned about the impacts on housing affordability. Rising inflation usually results in increased interest rates, which directly influence mortgage costs and ultimately, housing affordability. Higher borrowing costs can deter potential buyers, reducing demand and potentially suppressing home price appreciation.

@@ -1,6 +1,9 @@
 ---
-title: "Forfaiting: Mechanism, Advantages, and Examples (Algo Trading)"
-description: "Explore forfaiting as a financial tool in trade finance with its mechanisms, benefits, and real-world examples, enhancing export operations through algorithmic trading."
+category: quant_concept
+description: Explore forfaiting as a financial tool in trade finance with its mechanisms,
+  benefits, and real-world examples, enhancing export operations through algorithmic
+  trading.
+title: 'Forfaiting: Mechanism, Advantages, and Examples (Algo Trading)'
 ---
 
 Trade finance and export financing are pivotal mechanisms in the global marketplace, designed to facilitate international trade by assisting firms in navigating complex financial landscapes. Trade finance refers to the suite of financial instruments and products that banks and financial institutions provide to companies to ensure seamless trade flow, including lines of credit, documentary collections, and guarantees. This domain significantly mitigates risks associated with cross-border trade, such as currency fluctuations, political instability, and credit risks.

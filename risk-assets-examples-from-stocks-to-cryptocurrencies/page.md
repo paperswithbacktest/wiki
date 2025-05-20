@@ -1,6 +1,9 @@
 ---
-title: "Risk Assets: Examples From Stocks to Cryptocurrencies (Algo Trading)"
-description: "Explore the dynamic world of risk assets including stocks and cryptocurrencies and discover how algorithmic trading is transforming investment strategies for better risk management."
+category: quant_concept
+description: Explore the dynamic world of risk assets including stocks and cryptocurrencies
+  and discover how algorithmic trading is transforming investment strategies for better
+  risk management.
+title: 'Risk Assets: Examples From Stocks to Cryptocurrencies (Algo Trading)'
 ---
 
 Risk assets are a foundational concept in financial markets, representing investments associated with higher volatility and the potential for substantial returns or losses. These assets, which include equities, commodities, and cryptocurrencies, are characterized by their sensitivity to market fluctuations and broader economic conditions. As such, understanding these risk assets is crucial for investors and financial professionals.

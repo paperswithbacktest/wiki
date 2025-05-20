@@ -1,6 +1,8 @@
 ---
-title: "Accumulative Swing Index and McClellan Oscillator (Algo Trading)"
-description: "Explore the power of the McClellan Oscillator and Accumulative Swing Index in algo trading to boost strategy precision and market trend analysis."
+category: trading_strategy
+description: Explore the power of the McClellan Oscillator and Accumulative Swing
+  Index in algo trading to boost strategy precision and market trend analysis.
+title: Accumulative Swing Index and McClellan Oscillator (Algo Trading)
 ---
 
 Technical analysis is a method used to evaluate and forecast the future price movements of financial instruments by analyzing past market data, primarily price and volume. This method is essential in trading as it provides a systematic approach to understanding market behavior, enabling traders to make informed decisions. By interpreting chart patterns and technical indicators, traders can identify potential entry and exit points, enhance their trading strategies, and manage risks effectively.
@@ -208,4 +210,3 @@ To achieve financial success in trading, it is essential to integrate these tech
 [5]: Elder, A. (1993). ["Trading for a Living: Psychology, Trading Tactics, Money Management."](https://www.amazon.com/Trading-Living-Psychology-Tactics-Management/dp/0471592242) Wiley.
 
 [6]: Lopez de Prado, M. (2018). ["Advances in Financial Machine Learning."](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089) Wiley.
-

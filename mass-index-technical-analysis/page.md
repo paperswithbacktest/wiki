@@ -1,6 +1,8 @@
 ---
-title: "Mass Index in Technical Analysis (Algo Trading)"
-description: "Explore the Mass Index a technical indicator for trend reversals in trading Analyze its unique focus on price range volatility and its role in algo trading"
+category: trading_strategy
+description: Explore the Mass Index a technical indicator for trend reversals in trading
+  Analyze its unique focus on price range volatility and its role in algo trading
+title: Mass Index in Technical Analysis (Algo Trading)
 ---
 
 The modern financial market offers a diverse range of tools and techniques tailored for traders aiming to exploit trends and movements within the markets. Among these instruments is the Mass Index, a technical indicator acclaimed for its proficiency in identifying potential trend reversals. Introduced by technical analyst Donald Dorsey in the early 1990s, the Mass Index serves as an analytical tool to scrutinize fluctuations in the price range of a security. Instead of focusing on price changes or momentum, the Mass Index centers on the expansion and contraction of the range between high and low prices over a specific period.

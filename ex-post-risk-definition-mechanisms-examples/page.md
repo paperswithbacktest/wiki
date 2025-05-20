@@ -1,6 +1,9 @@
 ---
-title: "Ex-Post Risk: Definition, Mechanisms, and Examples (Algo Trading)"
-description: "Explore the significance of ex-post risk in algorithmic trading to enhance financial strategies by analyzing historical data for improved risk management and resilience."
+category: quant_concept
+description: Explore the significance of ex-post risk in algorithmic trading to enhance
+  financial strategies by analyzing historical data for improved risk management and
+  resilience.
+title: 'Ex-Post Risk: Definition, Mechanisms, and Examples (Algo Trading)'
 ---
 
 In the world of finance, the integration of technology and data-driven strategies has significantly transformed financial operations, especially in the area of algorithmic trading. Algorithmic trading uses automated, pre-programmed trading instructions to execute orders based on variables such as time, price, and volume. This approach leverages computational algorithms to assess market data continuously, enabling traders to capitalize on market conditions swiftly and efficiently.

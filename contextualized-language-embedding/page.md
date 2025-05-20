@@ -1,7 +1,8 @@
 ---
-title: Contextualized Language Embeddings in Machine Learning
+category: quant_concept
 description: Contextualized Language Embeddings deliver dynamic context aware vectors
   to boost NLP tasks such as translation and sentiment analysis Discover more inside
+title: Contextualized Language Embeddings in Machine Learning
 ---
 
 ![Image](images/1.png)

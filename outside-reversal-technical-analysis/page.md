@@ -1,6 +1,8 @@
 ---
-title: "Outside Reversal in Technical Analysis (Algo Trading)"
-description: "Explore the significance of the outside reversal pattern in stock trading and algorithmic trading strategies, identifying market trends for enhanced decision-making."
+category: trading_strategy
+description: Explore the significance of the outside reversal pattern in stock trading
+  and algorithmic trading strategies, identifying market trends for enhanced decision-making.
+title: Outside Reversal in Technical Analysis (Algo Trading)
 ---
 
 Stock trading is a complex field that requires a deep understanding of various patterns and signals. This complexity arises from the interplay of economic indicators, investor behaviors, and market dynamics. Among the tools available to traders, technical analysis stands out as a methodology for anticipating future price movements, which aids in strategic decision-making. By examining historical price data and trading volumes, traders can detect patterns that suggest potential future trends.

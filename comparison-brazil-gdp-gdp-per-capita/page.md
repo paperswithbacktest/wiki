@@ -1,6 +1,8 @@
 ---
-title: "Comparison of Brazil's GDP and GDP Per Capita (Algo Trading)"
-description: "Explore Brazil's economic strength through GDP and GDP per capita insights highlighting key sectors and the impact of algorithmic trading on growth."
+category: quant_concept
+description: Explore Brazil's economic strength through GDP and GDP per capita insights
+  highlighting key sectors and the impact of algorithmic trading on growth.
+title: Comparison of Brazil's GDP and GDP Per Capita (Algo Trading)
 ---
 
 The Brazilian economy stands as a dominant force in South America, regularly securing a position among the globe's largest economies. Its influence is not merely regional but extends to substantial participation on the world stage. Evaluating Brazil's economic prowess requires a fundamental understanding of Gross Domestic Product (GDP) and GDP per capita. GDP serves as an aggregate measure of a nation's total economic output and is critical for gauging economic health and growth. GDP per capita, on the other hand, divides the GDP by the population, providing insight into individual prosperity, and offering a tangible metric for the standard of living and wealth distribution within the country.

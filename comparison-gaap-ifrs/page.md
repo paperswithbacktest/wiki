@@ -1,6 +1,8 @@
 ---
-title: "Comparison of GAAP and IFRS (Algo Trading)"
-description: "Explore how GAAP and IFRS impact algorithmic trading with key differences in financial reporting. Understand their role in ensuring transparency and compliance."
+category: quant_concept
+description: Explore how GAAP and IFRS impact algorithmic trading with key differences
+  in financial reporting. Understand their role in ensuring transparency and compliance.
+title: Comparison of GAAP and IFRS (Algo Trading)
 ---
 
 In today's globalized financial environment, the significance of accounting standards such as the International Financial Reporting Standards (IFRS) and the Generally Accepted Accounting Principles (GAAP) has become increasingly evident. These frameworks are central to businesses and investors, ensuring that financial statements are transparent, reliable, and comparable across borders. As companies expand globally, understanding these standards is crucial, not only for compliance purposes but also for making strategic financial decisions.

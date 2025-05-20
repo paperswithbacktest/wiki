@@ -1,6 +1,12 @@
 ---
-title: "Covered Call Exchange-Traded Funds and Investment Returns (Algo Trading)"
-description: "Discover how covered call ETFs provide stable income through options strategies by selling call options for additional income. Uncover the advantages and limitations of this approach and explore the impact of algorithmic trading on managing these funds for optimized returns. This article offers insights into incorporating covered call ETFs into investment portfolios to balance income generation with growth objectives."
+category: trading_strategy
+description: Discover how covered call ETFs provide stable income through options
+  strategies by selling call options for additional income. Uncover the advantages
+  and limitations of this approach and explore the impact of algorithmic trading on
+  managing these funds for optimized returns. This article offers insights into incorporating
+  covered call ETFs into investment portfolios to balance income generation with growth
+  objectives.
+title: Covered Call Exchange-Traded Funds and Investment Returns (Algo Trading)
 ---
 
 Exchange-traded funds (ETFs) have established a prominent position within the investment landscape, offering investors various strategies tailored to meet diverse financial objectives. Amongst these, covered call ETFs represent an innovative category that integrates options strategies to enhance income. These ETFs utilize the covered call strategy, which involves selling call options on assets within the ETF's portfolio to generate additional income. This approach allows investors to enjoy potential income enhancements without directly engaging in complex options transactions.

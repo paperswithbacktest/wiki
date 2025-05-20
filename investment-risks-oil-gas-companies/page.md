@@ -1,6 +1,12 @@
 ---
-title: "Investment Risks in Oil and Gas Companies (Algo Trading)"
-description: "The oil and gas sector offers high potential returns but comes with significant risks, such as price volatility and operational hazards. Geopolitical dynamics and supply-demand shifts contribute to unpredictable market conditions, impacting stock prices and dividends. Algorithmic trading may mitigate some risks but introduces new ones. Understanding these challenges is crucial for investors navigating the energy market's complexities."
+category: trading_strategy
+description: The oil and gas sector offers high potential returns but comes with significant
+  risks, such as price volatility and operational hazards. Geopolitical dynamics and
+  supply-demand shifts contribute to unpredictable market conditions, impacting stock
+  prices and dividends. Algorithmic trading may mitigate some risks but introduces
+  new ones. Understanding these challenges is crucial for investors navigating the
+  energy market's complexities.
+title: Investment Risks in Oil and Gas Companies (Algo Trading)
 ---
 
 The energy sector, particularly the oil and gas industry, remains a pivotal element of the global economy. This industry not only fuels transportation and electricity generation but also supports infrastructure and technological advancements worldwide. Investments in oil and gas are appealing due to the potential for high returns, driven by the continuously increasing demand for energy and the profitability of oil and gas companies. However, these investments also carry significant risks.

@@ -1,6 +1,8 @@
 ---
-title: "Principal Exchange Rate Linked Security (Algo Trading)"
-description: "Explore the benefits of Principal Exchange Rate Linked Securities and how algorithmic trading enhances investment strategies in fluctuating currency markets."
+category: quant_concept
+description: Explore the benefits of Principal Exchange Rate Linked Securities and
+  how algorithmic trading enhances investment strategies in fluctuating currency markets.
+title: Principal Exchange Rate Linked Security (Algo Trading)
 ---
 
 The world of finance is vast and diverse, offering a range of profitable opportunities for savvy investors. In this complex ecosystem, Principal Exchange Rate Linked securities (PERLs) and algorithmic (algo) trading stand out as significant financial instruments. PERLs offer a unique investment opportunity as they pay interest based on currency exchange rate movements, aligning their yield with fluctuations in foreign currency values relative to the U.S. dollar. This characteristic allows investors to hedge against or speculate on exchange rate changes, providing both potential opportunities and risks.

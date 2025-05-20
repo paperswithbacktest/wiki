@@ -1,6 +1,8 @@
 ---
-title: "Corruption Perceptions Index and Country Rankings (Algo Trading)"
-description: "Explore global corruption perceptions with the 2023 Corruption Perceptions Index. Gain insights into rankings, economic impacts, and algorithmic trading links."
+category: dataset
+description: Explore global corruption perceptions with the 2023 Corruption Perceptions
+  Index. Gain insights into rankings, economic impacts, and algorithmic trading links.
+title: Corruption Perceptions Index and Country Rankings (Algo Trading)
 ---
 
 The Corruption Perceptions Index (CPI) is an essential tool for assessing the perceived levels of public sector corruption in countries worldwide. Developed and released annually by Transparency International, the CPI provides a comparative snapshot of corruption by ranking countries on a scale from 0, indicating a high prevalence of corruption, to 100, suggesting a very clean public sector environment. This tool draws on various data sources and assessments to give a robust measurement of corruption perceptions, informing policymakers, researchers, and civil society.

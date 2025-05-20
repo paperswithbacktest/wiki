@@ -1,6 +1,8 @@
 ---
-title: "Common Stock Indicators for Trend Trading (Algo Trading)"
-description: "Explore how stock indicators, trend trading, and technical analysis empower traders in algorithmic trading. Learn key tools like RSI, MACD, and ADX."
+category: trading_strategy
+description: Explore how stock indicators, trend trading, and technical analysis empower
+  traders in algorithmic trading. Learn key tools like RSI, MACD, and ADX.
+title: Common Stock Indicators for Trend Trading (Algo Trading)
 ---
 
 The integration of technology and data-driven insights has significantly transformed the trading landscape. This modernization has empowered traders with sophisticated tools and methodologies that enhance their capabilities in the financial markets. Key elements of contemporary trading involve the understanding and application of stock indicators, trend trading, technical analysis, and algorithmic trading. Each of these components plays a vital role in enabling traders to make informed decisions.

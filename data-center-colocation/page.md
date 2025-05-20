@@ -1,6 +1,8 @@
 ---
-title: "Data Center Colocation (Algo Trading)"
-description: "Improve your algo trading with data center colocation for instant market reactions and reduced latency essential for high-frequency trading success."
+category: quant_concept
+description: Improve your algo trading with data center colocation for instant market
+  reactions and reduced latency essential for high-frequency trading success.
+title: Data Center Colocation (Algo Trading)
 ---
 
 In the fast-evolving world of algorithmic trading (algo trading), milliseconds can make the difference between profit and loss. Trading algorithms rely on rapid data analysis and quick execution to capture small price movements in the financial markets. Consequently, the need for fast and efficient IT infrastructure is critical. Among the essential components contributing to this speed are colocation data centers, which significantly impact the success of algo trading strategies.

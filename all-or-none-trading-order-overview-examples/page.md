@@ -1,6 +1,8 @@
 ---
-title: "All Or None Trading Order: Overview and Examples (Algo Trading)"
-description: "Discover the strategic advantage of All Or None (AON) orders in trading minimize partial fills and enhance efficiency through integrated algorithmic strategies."
+category: quant_concept
+description: Discover the strategic advantage of All Or None (AON) orders in trading
+  minimize partial fills and enhance efficiency through integrated algorithmic strategies.
+title: 'All Or None Trading Order: Overview and Examples (Algo Trading)'
 ---
 
 In stock market trading, understanding diverse order types is crucial for maximizing returns and minimizing risks. One such order type is the All Or None (AON) order, which offers strategic advantages in specific trading scenarios. This article examines AON orders and their integration with algorithmic trading to enhance trading efficiency.

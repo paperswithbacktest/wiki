@@ -1,6 +1,11 @@
 ---
-title: "Growth Rates: Explanation and Calculation (Algo Trading)"
-description: "Discover the critical role growth rates play in algorithmic trading. This comprehensive guide explains how financial metrics like Compound Annual Growth Rate (CAGR) and others are calculated and utilized to optimize trading strategies. Enhance your understanding of risk management and performance evaluation to make informed investment decisions in the fast-paced world of algo trading."
+category: quant_concept
+description: Discover the critical role growth rates play in algorithmic trading.
+  This comprehensive guide explains how financial metrics like Compound Annual Growth
+  Rate (CAGR) and others are calculated and utilized to optimize trading strategies.
+  Enhance your understanding of risk management and performance evaluation to make
+  informed investment decisions in the fast-paced world of algo trading.
+title: 'Growth Rates: Explanation and Calculation (Algo Trading)'
 ---
 
 In today's financial landscape, the increasing complexity and interconnectivity of global markets has led both seasoned investors and newcomers to seek more efficient and informed approaches to investment. One such approach that has gained prominence is algorithmic trading, often referred to as algo trading. This method leverages computer algorithms to execute trades based on predetermined criteria, allowing for rapid decision-making and execution beyond human capability.

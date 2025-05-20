@@ -1,6 +1,8 @@
 ---
-title: "Exchange-Traded Derivatives and Over-the-Counter Comparison (Algo Trading)"
-description: "Explore the differences between exchange-traded and OTC derivatives, their benefits, and the impact of algorithmic trading on market efficiency."
+category: quant_concept
+description: Explore the differences between exchange-traded and OTC derivatives,
+  their benefits, and the impact of algorithmic trading on market efficiency.
+title: Exchange-Traded Derivatives and Over-the-Counter Comparison (Algo Trading)
 ---
 
 The financial markets are inherently complex, featuring a variety of instruments designed to accommodate diverse investment strategies and risk preferences. Among these instruments, derivatives hold a significant place. They are primarily divided into two categories: exchange-traded derivatives and over-the-counter (OTC) derivatives. Exchange-traded derivatives are standardized contracts that are traded on regulated exchanges, while OTC derivatives are custom agreements negotiated directly between parties, offering a tailored approach to meet specific requirements.

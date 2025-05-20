@@ -1,6 +1,9 @@
 ---
-title: "Government and Nonprofit Financial Management (Algo Trading)"
-description: "Explore the complexities of government and nonprofit financial management, including budgeting, accountability, and the impact of algorithmic trading on public funds."
+category: quant_concept
+description: Explore the complexities of government and nonprofit financial management,
+  including budgeting, accountability, and the impact of algorithmic trading on public
+  funds.
+title: Government and Nonprofit Financial Management (Algo Trading)
 ---
 
 Understanding public sector budgeting and financial management is crucial for ensuring that governments and nonprofits use resources efficiently and effectively. These entities operate under distinct principles compared to private enterprises, focusing on public interest and service rather than profit maximization. While private enterprises prioritize shareholder value and profitability, public sector and nonprofit organizations aim to deliver public services and achieve societal goals within a framework of accountability and transparency.

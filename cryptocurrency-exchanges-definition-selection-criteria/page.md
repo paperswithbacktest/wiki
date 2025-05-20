@@ -1,6 +1,8 @@
 ---
-title: "Cryptocurrency Exchanges: Definition and Selection Criteria (Algo Trading)"
-description: "Discover the essential criteria for selecting a cryptocurrency exchange to optimize your algorithmic trading strategies including security and trading fees."
+category: quant_concept
+description: Discover the essential criteria for selecting a cryptocurrency exchange
+  to optimize your algorithmic trading strategies including security and trading fees.
+title: 'Cryptocurrency Exchanges: Definition and Selection Criteria (Algo Trading)'
 ---
 
 Cryptocurrency algorithmic trading is becoming increasingly popular among both professional traders and retail investors. This method leverages computer programs and algorithms to execute trades at speeds and frequencies that are impossible for human traders. The advantages of using algorithmic trading within the cryptocurrency market include enhanced trading efficiency, the ability to backtest strategies on historical data, and the reduction of emotional decision-making. As the cryptocurrency market continues to evolve, the importance of choosing the right exchange for successful trading cannot be overstated.

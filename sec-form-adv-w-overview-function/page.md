@@ -1,6 +1,9 @@
 ---
-title: "SEC Form ADV-W: Overview and Function (Algo Trading)"
-description: "Explore SEC Form ADV-W's vital role in regulatory compliance for investment advisers as they navigate withdrawal, aligning tech advancements like algorithmic trading."
+category: quant_concept
+description: Explore SEC Form ADV-W's vital role in regulatory compliance for investment
+  advisers as they navigate withdrawal, aligning tech advancements like algorithmic
+  trading.
+title: 'SEC Form ADV-W: Overview and Function (Algo Trading)'
 ---
 
 The financial advisory sector is governed by an array of complex regulations, necessitating diligent compliance from professionals within the industry. One of the pivotal regulatory processes involves the withdrawal of an investment adviser's registration with the Securities and Exchange Commission (SEC), which is executed through the submission of SEC Form ADV-W. This formality is not merely bureaucratic but is crucial for ensuring that the cessation of advisory services is conducted in adherence to federal regulations outlined in the Investment Advisers Act of 1940. SEC Form ADV-W serves as the official vehicle for signaling an adviser's decision to relinquish federal oversight, either as part of a strategic business transition or due to the overwhelming nature of compliance requirements.

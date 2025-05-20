@@ -1,6 +1,9 @@
 ---
-title: "Event-Driven Trading (Algo Trading)"
-description: "Explore event-driven trading in finance which leverages algorithms to exploit price inefficiencies during events like earnings reports mergers and macroeconomic shifts."
+category: trading_strategy
+description: Explore event-driven trading in finance which leverages algorithms to
+  exploit price inefficiencies during events like earnings reports mergers and macroeconomic
+  shifts.
+title: Event-Driven Trading (Algo Trading)
 ---
 
 Event-driven trading is a strategy in the financial markets designed to exploit price inefficiencies brought about by significant corporate and macroeconomic events. This approach relies on the use of sophisticated algorithms to automate the trade execution process, basing decisions on various occurrences such as earnings reports, mergers, acquisitions, and regulatory developments. The primary goal of this strategy is to achieve rapid execution and precision, as timely recognition of these events can result in substantial profits.

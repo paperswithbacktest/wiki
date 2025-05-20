@@ -1,7 +1,8 @@
 ---
-title: Understanding True Negatives In Machine Learning Models
+category: quant_concept
 description: True negatives in machine learning show how models rule out unwanted
   cases boost specificity and strengthen confidence in decisions Discover more inside
+title: Understanding True Negatives In Machine Learning Models
 ---
 
 ![Image](images/1.jpeg)

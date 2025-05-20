@@ -1,6 +1,8 @@
 ---
-title: "National Futures Association Overview (Algo Trading)"
-description: "Explore the National Futures Association's role in futures trading regulation, market integrity, investor protection, and challenges posed by algorithmic trading."
+category: quant_concept
+description: Explore the National Futures Association's role in futures trading regulation,
+  market integrity, investor protection, and challenges posed by algorithmic trading.
+title: National Futures Association Overview (Algo Trading)
 ---
 
 Futures trading is a fundamental element of the financial markets, providing investors with a mechanism to speculate on the future price movements of a variety of commodities and financial instruments. This speculative activity allows for both profit opportunities and hedging strategies against price volatility. Futures contracts, which represent agreements to buy or sell assets at a predetermined future date and price, are widely used to manage risks associated with fluctuating prices of commodities such as oil, gold, and agricultural products.

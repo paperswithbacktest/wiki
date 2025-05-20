@@ -1,6 +1,9 @@
 ---
-title: "Cyclical Stocks: Characteristics, Examples, and Risks (Algo Trading)"
-description: "Explore the characteristics and risks of cyclical stocks in this comprehensive guide, including their relationship with economic cycles and algorithmic trading strategies."
+category: trading_strategy
+description: Explore the characteristics and risks of cyclical stocks in this comprehensive
+  guide, including their relationship with economic cycles and algorithmic trading
+  strategies.
+title: 'Cyclical Stocks: Characteristics, Examples, and Risks (Algo Trading)'
 ---
 
 The stock market offers various opportunities for investors seeking growth and diversification. Cyclical stocks stand out as a significant category due to their unique characteristics and the potential for high returns. These stocks tend to move in tandem with broader economic cycles, experiencing growth during economic expansions and declines when the economy contracts. Given their direct relationship with macroeconomic indicators, understanding the risks involved in investing in cyclical stocks is essential.

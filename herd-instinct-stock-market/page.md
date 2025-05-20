@@ -1,6 +1,9 @@
 ---
-title: "Herd Instinct in the Stock Market (Algo Trading)"
-description: "Explore the impact of herd instinct on the stock market and algorithmic trading Discover strategies to counteract crowd behavior and enhance investment decisions"
+category: quant_concept
+description: Explore the impact of herd instinct on the stock market and algorithmic
+  trading Discover strategies to counteract crowd behavior and enhance investment
+  decisions
+title: Herd Instinct in the Stock Market (Algo Trading)
 ---
 
 The stock market is a complex system influenced by a wide array of factors that drive investor behavior. Among these factors, the herd instinct is particularly noteworthy. Herd instinct is characterized by the tendency of investors to follow the crowd, often leading to collective movements in buying and selling that mimic the behavior of a larger group. This article examines the effects of herd instinct on investment behavior and algorithmic trading, highlighting how this phenomenon can impact decision-making processes in financial markets.

@@ -1,7 +1,8 @@
 ---
-title: Understanding Ridge Regularization in Machine Learning Models
+category: quant_concept
 description: Ridge regularization prevents overfitting by penalizing large coefficients
   to boost model stability and generalization Discover more inside
+title: Understanding Ridge Regularization in Machine Learning Models
 ---
 
 ![Image](images/1.jpeg)

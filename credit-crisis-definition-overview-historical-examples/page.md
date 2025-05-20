@@ -1,6 +1,8 @@
 ---
-title: "Credit Crisis: Definition, Overview, and Historical Examples (Algo Trading)"
-description: "Explore credit crises, their historical impact on global markets, and the role of algorithmic trading in modern finance to understand financial stability."
+category: quant_concept
+description: Explore credit crises, their historical impact on global markets, and
+  the role of algorithmic trading in modern finance to understand financial stability.
+title: 'Credit Crisis: Definition, Overview, and Historical Examples (Algo Trading)'
 ---
 
 The interplay between financial markets and economic cycles represents a complex series of fluctuations characterized by periods of expansion and contraction. These fluctuations are often marked by financial downturns and crises that have far-reaching consequences on global economies. Financial markets, composed of diverse elements such as stocks, bonds, and commodities, are inherently susceptible to a variety of economic forces that influence their stability and performance.
@@ -191,4 +193,3 @@ In conclusion, while algorithmic trading represents a significant advancement in
     Provides fundamental insights into decision making under uncertainty, applicable to trading and economic forecasting.
 
 For a more comprehensive understanding, these works offer substantial coverage of the intricate interactions between financial markets, economic cycles, and the role of algorithmic trading.
-

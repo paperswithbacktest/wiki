@@ -1,6 +1,8 @@
 ---
-title: "In the Money Put Option (Algo Trading)"
-description: "Discover how algorithmic trading enhances the management of in the money put options, optimizing strategies for hedging and speculating on market downturns."
+category: quant_concept
+description: Discover how algorithmic trading enhances the management of in the money
+  put options, optimizing strategies for hedging and speculating on market downturns.
+title: In the Money Put Option (Algo Trading)
 ---
 
 Options trading is recognized as a sophisticated investment strategy, involving contracts known as options, which grant the buyer the right, but not the obligation, to buy or sell a security at a predetermined price before a specified expiration date. Fundamental to understanding options trading are terms like "in the money" (ITM) put options. An ITM put option occurs when the market price of the underlying security is lower than the option's strike price, offering the holder an intrinsic value. This intrinsic value is calculated as the difference between the strike price and the current market price of the underlying asset, provided this results in a positive number. This characteristic makes ITM put options a valuable tool for traders looking to hedge against declines in asset prices or speculate on bearish market movements.

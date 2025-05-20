@@ -1,6 +1,8 @@
 ---
-title: "Investment Analysis: Types and Importance (Algo Trading)"
-description: "Discover the significance of different investment types and the role of algorithmic trading in financial analysis to make informed investment decisions."
+category: quant_concept
+description: Discover the significance of different investment types and the role
+  of algorithmic trading in financial analysis to make informed investment decisions.
+title: 'Investment Analysis: Types and Importance (Algo Trading)'
 ---
 
 In the intricate world of finance, understanding different types of investments and their significance is crucial for achieving robust financial health. Investment knowledge not only empowers individuals to build wealth but also to safeguard and grow their financial resources over time. As the financial landscape evolves, grasping the fundamentals of various investment types, their benefits, and potential risks becomes increasingly vital.

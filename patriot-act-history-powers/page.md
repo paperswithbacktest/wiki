@@ -1,6 +1,14 @@
 ---
-title: "Patriot Act: History and Powers (Algo Trading)"
-description: "Explore the history and powers of the Patriot Act, a legislation enacted in response to terrorist attacks on September 11, 2001. The act expanded government surveillance and investigative authorities to enhance national security, sparking ongoing debates on civil liberties and privacy. This page investigates into the implications for constitutional rights and the financial sector, including algorithmic trading, as institutions navigate new compliance requirements. Understanding the balance between security measures and individual freedoms is crucial in comprehending the broader impact of the Patriot Act."
+category: quant_concept
+description: Explore the history and powers of the Patriot Act, a legislation enacted
+  in response to terrorist attacks on September 11, 2001. The act expanded government
+  surveillance and investigative authorities to enhance national security, sparking
+  ongoing debates on civil liberties and privacy. This page investigates into the
+  implications for constitutional rights and the financial sector, including algorithmic
+  trading, as institutions navigate new compliance requirements. Understanding the
+  balance between security measures and individual freedoms is crucial in comprehending
+  the broader impact of the Patriot Act.
+title: 'Patriot Act: History and Powers (Algo Trading)'
 ---
 
 The nexus between national security and civil liberties emerged as a pivotal issue in policy debates following the enactment of the USA PATRIOT Act. This legislative measure was introduced by the U.S. government in the wake of the catastrophic attacks on September 11, 2001, aimed at augmenting the powers of law enforcement agencies in their fight against terrorism. The act significantly broadened the surveillance capabilities and investigative authorities of federal agencies, aiming to preempt potential threats and bolster national security.

@@ -1,6 +1,8 @@
 ---
-title: "Tax Implications of Dividend Stocks (Algo Trading)"
-description: "Explore the tax implications of dividend stocks in algo trading Understand how dividends are taxed optimize investment strategies and enhance after-tax returns"
+category: quant_concept
+description: Explore the tax implications of dividend stocks in algo trading Understand
+  how dividends are taxed optimize investment strategies and enhance after-tax returns
+title: Tax Implications of Dividend Stocks (Algo Trading)
 ---
 
 Dividend stocks are a favored choice for investors seeking a source of passive income. These stocks provide shareholders with a portion of a company's earnings in the form of regular payments, known as dividends. The appeal of dividend stocks lies in their potential to deliver regular income, particularly attractive in low-interest-rate environments where traditional saving accounts offer minimal returns. Moreover, dividend-paying companies are often perceived as financially stable, providing an additional layer of security to investors looking for reliability.

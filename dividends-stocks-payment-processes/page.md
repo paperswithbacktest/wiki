@@ -1,6 +1,8 @@
 ---
-title: "Dividends in Stocks and Payment Processes (Algo Trading)"
-description: "Discover how dividend stocks and algorithmic trading intersect to revolutionize investment approaches offering insights into optimizing dividend strategies."
+category: trading_strategy
+description: Discover how dividend stocks and algorithmic trading intersect to revolutionize
+  investment approaches offering insights into optimizing dividend strategies.
+title: Dividends in Stocks and Payment Processes (Algo Trading)
 ---
 
 Dividend stocks have long been favored by investors seeking steady income streams in addition to capital appreciation. These stocks, typically issued by established companies with stable earnings, distribute a portion of their profits to shareholders regularly. The attraction lies in their potential to provide a reliable source of income, making them appealing for both income-focused investors and those looking to diversify their investment portfolios.

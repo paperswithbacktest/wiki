@@ -1,6 +1,8 @@
 ---
-title: "Diversification Using Index Funds (Algo Trading)"
-description: "Explore the power of diversification with index fund investing and algorithmic trading Learn strategies to manage risk enhance returns and optimize portfolios"
+category: trading_strategy
+description: Explore the power of diversification with index fund investing and algorithmic
+  trading Learn strategies to manage risk enhance returns and optimize portfolios
+title: Diversification Using Index Funds (Algo Trading)
 ---
 
 In the ever-evolving world of finance, the synthesis of diversification, index fund investing, and algorithmic trading presents a compelling strategy for modern investors. Diversification, a cornerstone of risk management, involves spreading investments across various sectors and asset classes to minimize the impact of any single asset's poor performance. This approach is crucial for stabilizing returns and reducing significant losses.

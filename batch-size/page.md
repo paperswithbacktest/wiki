@@ -1,7 +1,8 @@
 ---
-title: Choosing Optimal Batch Size for Efficient Machine Learning
+category: quant_concept
 description: Batch size affects training speed stability and generalization in machine
   learning Optimize batch size to improve model performance Discover more inside
+title: Choosing Optimal Batch Size for Efficient Machine Learning
 ---
 
 ![Image](images/1.png)

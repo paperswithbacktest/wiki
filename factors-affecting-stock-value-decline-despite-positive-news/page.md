@@ -1,6 +1,8 @@
 ---
-title: "Factors Affecting Stock Value Decline Despite Positive News (Algo Trading)"
-description: "Explore why stock values may decline despite positive news involving algorithmic trading and market anomalies disrupting traditional market expectations."
+category: quant_concept
+description: Explore why stock values may decline despite positive news involving
+  algorithmic trading and market anomalies disrupting traditional market expectations.
+title: Factors Affecting Stock Value Decline Despite Positive News (Algo Trading)
 ---
 
 In recent years, stock market anomalies have sparked considerable debate among investors and analysts alike. A particularly intriguing phenomenon is the impact of positive news on stock value decline — a contradiction that challenges traditional market expectations. Conventionally, one would expect that positive news, such as strong earnings reports or favorable economic indicators, would lead to an increase in stock prices as investors rush to purchase stocks believed to offer promising returns. However, instances where stock values decline following positive news suggest a more complex reality.

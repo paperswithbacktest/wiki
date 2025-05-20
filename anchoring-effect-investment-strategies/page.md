@@ -1,6 +1,8 @@
 ---
-title: "Anchoring Effect in Investment Strategies (Algo Trading)"
-description: "Explore how anchoring bias impacts investment strategies and algorithmic trading, and discover methods to mitigate its effects for optimal financial outcomes."
+category: quant_concept
+description: Explore how anchoring bias impacts investment strategies and algorithmic
+  trading, and discover methods to mitigate its effects for optimal financial outcomes.
+title: Anchoring Effect in Investment Strategies (Algo Trading)
 ---
 
 Investment strategies are experiencing significant transformation, largely due to the advancements in behavioral finance and technology. As the understanding of market dynamics deepens, cognitive biases such as the anchoring effect are identified as influential factors in decision-making processes. The anchoring effect, a concept grounded in behavioral finance, describes the human tendency to over-rely on the first piece of information encountered (the "anchor") when making subsequent decisions. In the context of investing, this bias can profoundly affect decision-making, leading individuals and even algorithmic systems to make potentially suboptimal choices.

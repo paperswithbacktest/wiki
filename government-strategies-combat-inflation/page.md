@@ -1,6 +1,12 @@
 ---
-title: "Government Strategies to Combat Inflation (Algo Trading)"
-description: "Explore how governments worldwide are prioritizing inflation control through economic policies, including monetary and fiscal strategies. Discover how central banks use interest rates and money supply adjustments to stabilize economies while algorithmic trading enhances market efficiency. Learn about the synergy of economic theories and technology in maintaining economic stability and growth amid growing global financial interconnectivity."
+category: trading_strategy
+description: Explore how governments worldwide are prioritizing inflation control
+  through economic policies, including monetary and fiscal strategies. Discover how
+  central banks use interest rates and money supply adjustments to stabilize economies
+  while algorithmic trading enhances market efficiency. Learn about the synergy of
+  economic theories and technology in maintaining economic stability and growth amid
+  growing global financial interconnectivity.
+title: Government Strategies to Combat Inflation (Algo Trading)
 ---
 
 Economic policy plays a crucial role in maintaining the stability and growth of a nation's economy, and in recent years, inflation control has emerged as a primary focus for governments worldwide. Inflation, if unchecked, can erode purchasing power and destabilize economies, hence the importance of its effective management. Governments and central banks are employing various strategies to manage inflation, such as monetary policies, fiscal adjustments, and regulatory measures to ensure a stable economic environment. Central banks, for instance, often manipulate interest rates to regulate the money supply and control inflationary pressures. The relationship can be represented through the equation $M \times V = P \times Q$, where $M$ is the money supply, $V$ is the velocity of money, $P$ is the price level, and $Q$ is the real output, illustrating how changes in money supply can influence inflation.

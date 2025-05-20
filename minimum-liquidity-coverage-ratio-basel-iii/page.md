@@ -1,6 +1,9 @@
 ---
-title: "Minimum Liquidity Coverage Ratio Under Basel III (Algo Trading)"
-description: "Explore the impact of Basel III's Liquidity Coverage Ratio on banks, highlighting its role in enhancing liquidity management through algorithmic trading strategies."
+category: quant_concept
+description: Explore the impact of Basel III's Liquidity Coverage Ratio on banks,
+  highlighting its role in enhancing liquidity management through algorithmic trading
+  strategies.
+title: Minimum Liquidity Coverage Ratio Under Basel III (Algo Trading)
 ---
 
 The global financial system experienced a seismic shift following the 2008 financial crisis, revealing significant vulnerabilities within financial institutions worldwide. In response, regulatory bodies introduced Basel III, a comprehensive set of reform measures developed by the Basel Committee on Banking Supervision aimed at strengthening regulation, supervision, and risk management in the banking sector. Basel III's primary objective is to improve the banking sector's ability to absorb shocks arising from financial and economic stress, thus safeguarding the overall stability of the financial system. 
@@ -172,4 +175,3 @@ As financial markets continue to evolve, so too must banking regulations. Basel 
    - For ongoing updates and detailed reports on financial regulations, the World Bank serves as a highly reliable source. [World Bank Financial Regulation](https://www.worldbank.org/en/topic/financialsector)
 
 These resources offer a comprehensive view of the interconnections between Basel III, liquidity coverage ratios, and the role of algorithmic trading in modern financial systems, serving as excellent starting points for further exploration.
-

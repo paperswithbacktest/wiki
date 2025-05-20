@@ -1,6 +1,8 @@
 ---
-title: "Cash Management Bills: Overview and Applications (Algo Trading)"
-description: "Explore how Cash Management Bills enhance cash flow management and algorithmic trading with their flexible, short-term issuance. Discover use cases and strategies."
+category: quant_concept
+description: Explore how Cash Management Bills enhance cash flow management and algorithmic
+  trading with their flexible, short-term issuance. Discover use cases and strategies.
+title: 'Cash Management Bills: Overview and Applications (Algo Trading)'
 ---
 
 Cash Management Bills (CMBs) are a type of short-term debt security issued by the U.S. Treasury. Distinctively, these bills are not sold on a fixed schedule, a characteristic that sets them apart from other types of Treasury Bills. This unique feature allows the Treasury to wield CMBs as versatile instruments to manage unforeseen cash flow disruptions, effectively serving as tools for addressing temporary cash shortages and providing emergency funding when necessary.

@@ -1,6 +1,8 @@
 ---
-title: "Determinants of Option Pricing (Algo Trading)"
-description: "Explore the key factors influencing option pricing and discover how algorithmic trading enhances strategy in the dynamic world of financial derivatives."
+category: quant_concept
+description: Explore the key factors influencing option pricing and discover how algorithmic
+  trading enhances strategy in the dynamic world of financial derivatives.
+title: Determinants of Option Pricing (Algo Trading)
 ---
 
 Financial derivatives are financial instruments whose value is derived from various underlying assets, including stocks, bonds, commodities, currencies, interest rates, or market indexes. These instruments play a pivotal role in the financial markets due to their multifaceted nature, allowing traders and investors to hedge risks, speculate on market movements, and enhance portfolio returns. Options, a specific type of derivative, grant the holder the right, but not the obligation, to buy or sell an underlying asset at a predetermined price within a specified time frame.

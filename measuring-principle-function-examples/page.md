@@ -1,6 +1,8 @@
 ---
-title: "Measuring Principle: Function and Examples (Algo Trading)"
-description: "Explore algorithmic trading as we delve into core measurement principles methods and examples maximizing trading strategy effectiveness and market insights."
+category: quant_concept
+description: Explore algorithmic trading as we delve into core measurement principles
+  methods and examples maximizing trading strategy effectiveness and market insights.
+title: 'Measuring Principle: Function and Examples (Algo Trading)'
 ---
 
 Algorithmic trading, often abbreviated as algo trading, refers to the use of advanced mathematical models and computer algorithms to execute trades at high speeds and frequencies that human traders are unable to accomplish. It leverages computational power to analyze multiple market variables and execute orders based on pre-defined criteria. This form of trading has been growing in significance within financial markets, supplying liquidity and contributing to market efficiency by minimizing transaction costs and eliminating human-induced errors.

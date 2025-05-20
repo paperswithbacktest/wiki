@@ -1,6 +1,14 @@
 ---
-title: "Comparison of Balance Sheet and Profit and Loss Statement (Algo Trading)"
-description: "Explore the crucial differences between balance sheets and profit and loss statements in the context of algorithmic trading in this insightful article. Gain an understanding of how these financial documents form the backbone of effective trading strategies by providing accurate and detailed data needed for developing predictive algorithms. This guide covers the structure and significance of balance sheets and P&L statements and offers a deeper dive into their integral role in advancing algorithmic trading models and enhancing market success. Perfect for traders aiming to leverage comprehensive financial data for informed decision-making."
+category: quant_concept
+description: Explore the crucial differences between balance sheets and profit and
+  loss statements in the context of algorithmic trading in this insightful article.
+  Gain an understanding of how these financial documents form the backbone of effective
+  trading strategies by providing accurate and detailed data needed for developing
+  predictive algorithms. This guide covers the structure and significance of balance
+  sheets and P&L statements and offers a deeper dive into their integral role in advancing
+  algorithmic trading models and enhancing market success. Perfect for traders aiming
+  to leverage comprehensive financial data for informed decision-making.
+title: Comparison of Balance Sheet and Profit and Loss Statement (Algo Trading)
 ---
 
 In the ever-evolving world of finance and investment, understanding complex financial documents is crucial for investors and traders alike. These documents are foundational to assessing a company's financial health and paving the way for informed decision-making. This article shines a spotlight on the essential financial statements—balance sheets and profit and loss (P&L) statements—and their direct implications for algorithmic trading. 

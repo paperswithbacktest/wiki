@@ -1,6 +1,8 @@
 ---
-title: "Application of Modern Portfolio Theory (Algo Trading)"
-description: "Explore the synergy of Modern Portfolio Theory and algorithmic trading to optimize your investment strategy balancing risk, returns, and diversification."
+category: quant_concept
+description: Explore the synergy of Modern Portfolio Theory and algorithmic trading
+  to optimize your investment strategy balancing risk, returns, and diversification.
+title: Application of Modern Portfolio Theory (Algo Trading)
 ---
 
 Investment strategies have undergone significant transformation over the years, with Modern Portfolio Theory (MPT) emerging as a foundational element in this evolution. Developed by Harry Markowitz in the 1950s, MPT offers a systematic framework for investors aiming to optimize returns for a given level of risk by strategically diversifying their investment portfolios. This theoretical construct has become indispensable in understanding how to balance risk and return effectively through diversification. MPT posits that it's not enough to look at the expected risk and return of one particular stock in isolation, but rather the portfolio as a whole. 

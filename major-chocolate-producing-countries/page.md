@@ -1,6 +1,8 @@
 ---
-title: "Major Chocolate-Producing Countries (Algo Trading)"
-description: "Explore the intricacies of the global chocolate industry with insights into major producers, the role of algorithmic trading, and emerging market trends."
+category: dataset
+description: Explore the intricacies of the global chocolate industry with insights
+  into major producers, the role of algorithmic trading, and emerging market trends.
+title: Major Chocolate-Producing Countries (Algo Trading)
 ---
 
 The global chocolate industry is a complex and fascinating sector, deeply integrated with cultural, economic, and technological influences. From small artisanal workshops to large multinational corporations, the industry showcases a rich tapestry of traditions and innovations. This article explores key aspects of this industry, highlighting the top chocolate producers, examining the broader chocolate production landscape, and discussing the emerging role of algorithmic trading in commodities like cocoa.

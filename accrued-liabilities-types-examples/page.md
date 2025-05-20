@@ -1,6 +1,11 @@
 ---
-title: "Accrued Liabilities: Types and Examples (Algo Trading)"
-description: "Explore the significance of accrued liabilities within financial accounting and their impact on algorithmic trading strategies. Understand how these liabilities, recognized when incurred regardless of payment timing, enhance financial statement accuracy. Discover how algorithmic traders leverage liability insights to optimize trading strategies and gain competitive advantages in the fast-paced trading environment."
+category: quant_concept
+description: Explore the significance of accrued liabilities within financial accounting
+  and their impact on algorithmic trading strategies. Understand how these liabilities,
+  recognized when incurred regardless of payment timing, enhance financial statement
+  accuracy. Discover how algorithmic traders leverage liability insights to optimize
+  trading strategies and gain competitive advantages in the fast-paced trading environment.
+title: 'Accrued Liabilities: Types and Examples (Algo Trading)'
 ---
 
 In the world of financial accounting, understanding liabilities is crucial for accurate financial reporting. Liabilities, representing a company's financial obligations, play a pivotal role in reflecting the true financial health of an organization. This article aims to shed light on various liability examples, with a particular focus on accrued liabilities—a category of liability that arises due to the accrual basis of accounting. Accrued liabilities are expenses recognized when they are incurred, regardless of whether payment has been made, making them essential for providing a precise depiction of financial performance.

@@ -1,6 +1,9 @@
 ---
-title: "Margin of Safety: Meaning and Examples (Algo Trading)"
-description: "Understand the margin of safety concept in investing for risk management with examples and learn how financial analysis aids in its application in algorithmic trading."
+category: trading_strategy
+description: Understand the margin of safety concept in investing for risk management
+  with examples and learn how financial analysis aids in its application in algorithmic
+  trading.
+title: 'Margin of Safety: Meaning and Examples (Algo Trading)'
 ---
 
 In the world of investing, numerous strategies are designed to manage risk and enhance returns. These strategies, encompassing both time-tested and contemporary approaches, are crucial for effectively understanding and engaging with financial markets. Among these strategies, the 'margin of safety' stands out as a key principle. Introduced by Benjamin Graham, it is employed as a risk management tool that assists investors in making well-informed decisions. This principle involves purchasing securities when their market price is significantly lower than their intrinsic value, thereby providing a buffer against valuation errors and unforeseen market volatility.

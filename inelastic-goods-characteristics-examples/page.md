@@ -1,6 +1,8 @@
 ---
-title: "Inelastic Goods: Characteristics and Examples (Algo Trading)"
-description: "Discover the characteristics and examples of inelastic goods in economics Learn how price variations impact demand and influence trading strategies"
+category: quant_concept
+description: Discover the characteristics and examples of inelastic goods in economics
+  Learn how price variations impact demand and influence trading strategies
+title: 'Inelastic Goods: Characteristics and Examples (Algo Trading)'
 ---
 
 In economics, elasticity refers to how the quantity demanded or supplied of a good changes in response to price alterations. This concept is critical for understanding market dynamics and predicting how changes in pricing strategies or economic policies might impact markets. Goods are typically categorized as elastic or inelastic based on their responsiveness to price changes. Elastic goods experience significant shifts in demand with price variations, whereas inelastic goods show minimal changes in demand when prices fluctuate.

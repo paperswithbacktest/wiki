@@ -1,6 +1,8 @@
 ---
-title: "Early Exercise and Benefits of Selling Call Options Early (Algo Trading)"
-description: "Explore the benefits of selling call options early in algo trading, including premium income, risk management, and strategies for optimizing trade execution."
+category: quant_concept
+description: Explore the benefits of selling call options early in algo trading, including
+  premium income, risk management, and strategies for optimizing trade execution.
+title: Early Exercise and Benefits of Selling Call Options Early (Algo Trading)
 ---
 
 Options trading has become an integral part of modern financial markets, offering a versatile tool for hedging, speculation, and income generation. Options are financial derivatives that derive their value from an underlying asset, such as stocks, indices, or commodities. In the world of options, call options hold a significant place, playing a crucial role in various trading strategies.

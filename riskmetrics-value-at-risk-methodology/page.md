@@ -1,6 +1,9 @@
 ---
-title: "RiskMetrics in Value at Risk Methodology (Algo Trading)"
-description: "Explore how RiskMetrics enhances risk management in algorithmic trading, enabling traders to estimate potential losses efficiently using the Value at Risk methodology."
+category: quant_concept
+description: Explore how RiskMetrics enhances risk management in algorithmic trading,
+  enabling traders to estimate potential losses efficiently using the Value at Risk
+  methodology.
+title: RiskMetrics in Value at Risk Methodology (Algo Trading)
 ---
 
 Value at Risk (VaR) plays a crucial role in financial markets as a risk management tool, offering a quantitative assessment of potential losses an investment portfolio might incur. It provides investors and financial institutions with an estimate grounded in historical data to anticipate potential risks and manage their exposure more effectively. By setting a confidence level, VaR helps in understanding the worst-case loss scenario within a specified timeframe under normal market conditions.

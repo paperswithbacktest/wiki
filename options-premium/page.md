@@ -1,6 +1,9 @@
 ---
-title: "Options Premium (Algo Trading)"
-description: "Explore premium finance options to enhance your algorithmic trading strategies. Learn how to leverage capital for increased efficiency and profitability in financial markets."
+category: quant_concept
+description: Explore premium finance options to enhance your algorithmic trading strategies.
+  Learn how to leverage capital for increased efficiency and profitability in financial
+  markets.
+title: Options Premium (Algo Trading)
 ---
 
 Algorithmic trading, often referred to as algo trading, involves using computer algorithms to execute financial market transactions at speeds and frequencies that surpass human capability. By leveraging mathematical models and complex algorithms, traders can automate processes and execute orders based on predefined criteria, such as timing, price, or volume. This automation has gained significant attention due to its ability to enhance efficiency, precision, and speed in trading, allowing for the rapid execution of multiple trades within seconds. Algo trading is particularly prominent in markets like stocks, exchange-traded funds (ETFs), and options, where speed and accuracy are paramount.

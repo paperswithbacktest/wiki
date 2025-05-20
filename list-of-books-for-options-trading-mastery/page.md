@@ -1,6 +1,8 @@
 ---
-title: "List of Books for Options Trading Mastery (Algo Trading)"
-description: "Explore essential books that offer insights into mastering options and algorithmic trading strategies. Enhance your trading skills and manage risks effectively."
+category: trading_strategy
+description: Explore essential books that offer insights into mastering options and
+  algorithmic trading strategies. Enhance your trading skills and manage risks effectively.
+title: List of Books for Options Trading Mastery (Algo Trading)
 ---
 
 Investment strategies within the financial markets are diverse and complex, offering numerous avenues for traders to explore and exploit. Among these strategies, options trading and algorithmic trading have emerged as pivotal components that provide unique opportunities for maximizing profits while effectively managing risks. This article will illuminate these strategies, focusing on the key concepts, literature, and tools that equip traders to navigate the financial landscape with confidence.

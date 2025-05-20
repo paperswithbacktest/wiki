@@ -1,6 +1,8 @@
 ---
-title: "Random walk hypothesis (Algo Trading)"
-description: "Explore the Random Walk Hypothesis a critical theory in algorithmic trading suggesting asset prices move unpredictably challenging market predictability."
+category: quant_concept
+description: Explore the Random Walk Hypothesis a critical theory in algorithmic trading
+  suggesting asset prices move unpredictably challenging market predictability.
+title: Random walk hypothesis (Algo Trading)
 ---
 
 The Random Walk Hypothesis (RWH) is a cornerstone financial theory positing that asset prices follow a random path. According to this hypothesis, the future movement of asset prices is not influenced by historical price movements, suggesting an inherent unpredictability in market dynamics. The RWH challenges the notion of accurately predicting market trends, as it assumes all available information is already reflected in current prices, leaving no room for predictive patterns based on past data.

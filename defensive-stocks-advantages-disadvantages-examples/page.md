@@ -1,6 +1,9 @@
 ---
-title: "Defensive Stocks: Advantages, Disadvantages, and Examples (Algo Trading)"
-description: "Discover the benefits and drawbacks of defensive stocks alongside algo trading examples Learn how these strategies combine to navigate volatile markets effectively"
+category: trading_strategy
+description: Discover the benefits and drawbacks of defensive stocks alongside algo
+  trading examples Learn how these strategies combine to navigate volatile markets
+  effectively
+title: 'Defensive Stocks: Advantages, Disadvantages, and Examples (Algo Trading)'
 ---
 
 The stock market serves as a dynamic and intricate environment where investors strive to maximize returns through varied strategies. Within this environment, two prominent approaches gaining traction are investment in defensive stocks and the utilization of algorithmic trading, also referred to as algo trading. These strategies have emerged as efficient methods to navigate the challenges posed by volatile markets.

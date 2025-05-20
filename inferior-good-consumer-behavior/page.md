@@ -1,6 +1,13 @@
 ---
-title: "Inferior Good and Consumer Behavior (Algo Trading)"
-description: "Discover how inferior goods and consumer behavior impact algorithmic trading in financial markets. Explore the unique role of inferior goods, which see a decline in demand as incomes rise, unlike normal goods. Delve into how this consumer behavior provides insights into market trends, influencing trading strategies driven by advanced technologies. This article offers a comprehensive analysis suited for economists, traders, and consumers, highlighting the interplay between economic theory and algorithmic trading for better market insights and strategies."
+category: quant_concept
+description: Discover how inferior goods and consumer behavior impact algorithmic
+  trading in financial markets. Explore the unique role of inferior goods, which see
+  a decline in demand as incomes rise, unlike normal goods. Delve into how this consumer
+  behavior provides insights into market trends, influencing trading strategies driven
+  by advanced technologies. This article offers a comprehensive analysis suited for
+  economists, traders, and consumers, highlighting the interplay between economic
+  theory and algorithmic trading for better market insights and strategies.
+title: Inferior Good and Consumer Behavior (Algo Trading)
 ---
 
 In the world of economics, consumer behavior is a pivotal factor in determining the demand for different types of goods. Among these, inferior goods present a unique case, as they exhibit a distinctive demand pattern in response to changes in consumer incomes. Unlike normal goods, which see an increase in demand when incomes rise, inferior goods experience a decline in demand under the same conditions. This characteristic is indicative of a negative income elasticity of demand, a concept fundamental to understanding consumption dynamics.

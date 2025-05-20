@@ -1,6 +1,8 @@
 ---
-title: "Intercontinental Exchange: Functions and Role (Algo Trading)"
-description: "Discover how the Intercontinental Exchange shapes global financial markets through algorithmic trading by enhancing speed, accuracy, and market efficiency."
+category: quant_concept
+description: Discover how the Intercontinental Exchange shapes global financial markets
+  through algorithmic trading by enhancing speed, accuracy, and market efficiency.
+title: 'Intercontinental Exchange: Functions and Role (Algo Trading)'
 ---
 
 The financial world is undergoing a profound transformation driven by advancements in technology. Among the forefront contributors to this evolution is algorithmic trading, often referred to as algo trading. This approach utilizes computer algorithms to automate trading decisions, increasing both the speed and accuracy of trades. As financial markets continue to embrace digital solutions, algorithmic trading emerges as a pivotal component that shapes market dynamics.

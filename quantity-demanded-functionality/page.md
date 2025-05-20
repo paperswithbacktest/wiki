@@ -1,6 +1,9 @@
 ---
-title: "Quantity Demanded and Its Functionality (Algo Trading)"
-description: "Explore how demand curve integration in algorithmic trading optimizes strategies by predicting market shifts and enhancing efficiency in financial trading dynamics."
+category: quant_concept
+description: Explore how demand curve integration in algorithmic trading optimizes
+  strategies by predicting market shifts and enhancing efficiency in financial trading
+  dynamics.
+title: Quantity Demanded and Its Functionality (Algo Trading)
 ---
 
 In the rapidly evolving world of economics and trading, understanding the demand curve is crucial for comprehending market dynamics. At its core, the demand curve represents the relationship between the price of a good and the quantity demanded by consumers. This foundational economic principle holds significant implications for both traditional and modern trading strategies.

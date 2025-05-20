@@ -1,6 +1,11 @@
 ---
-title: "American Standard Code for Information Interchange (Algo Trading)"
-description: "Explore the role of the American Standard Code for Information Interchange ASCII in algorithmic trading systems. Discover how this foundational character encoding system supports efficient data transmission and reduces errors in financial markets despite the rise of Unicode. Learn about ASCII's history and its enduring relevance in facilitating seamless communication in trading environments."
+category: quant_concept
+description: Explore the role of the American Standard Code for Information Interchange
+  ASCII in algorithmic trading systems. Discover how this foundational character encoding
+  system supports efficient data transmission and reduces errors in financial markets
+  despite the rise of Unicode. Learn about ASCII's history and its enduring relevance
+  in facilitating seamless communication in trading environments.
+title: American Standard Code for Information Interchange (Algo Trading)
 ---
 
 In the digital age, efficient information interchange is crucial in various technological and financial fields. An integral part of seamless data exchange is character encoding systems like ASCII. The American Standard Code for Information Interchange (ASCII), developed in the early 1960s, has been foundational in shaping digital communication. It assigns a unique numerical value to each character, enabling computers to store and manipulate text. ASCII's simplicity and ubiquity have made it a critical component of communication protocols, influencing data representation and storage across diverse applications.

@@ -1,7 +1,8 @@
 ---
-title: Factorization Machines Explained for Recommendation Systems
+category: quant_concept
 description: Factorization Machines capture complex feature interactions to improve
   sparse data predictions in recommendation systems Discover more inside
+title: Factorization Machines Explained for Recommendation Systems
 ---
 
 ![Image](images/1.png)

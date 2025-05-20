@@ -1,6 +1,9 @@
 ---
-title: "Loan Participation Note (Algo Trading)"
-description: "Explore the benefits of Loan Participation Notes LPNs including yield enhancement risk diversification and algorithmic trading integration in investment portfolios"
+category: quant_concept
+description: Explore the benefits of Loan Participation Notes LPNs including yield
+  enhancement risk diversification and algorithmic trading integration in investment
+  portfolios
+title: Loan Participation Note (Algo Trading)
 ---
 
 Loan Participation Notes (LPNs) have emerged as significant financial instruments within numerous financial sectors. An LPN is a financial instrument that allows investors to acquire a stake in an existing loan or a portfolio of loans. This financial mechanism provides unique opportunities for investors, focusing on risk distribution and yield enhancement. An LPN is structured in a way that an investor does not own the loan directly but rather shares in the income and risk associated with the loan. This ability to distribute risk makes LPNs particularly appealing to investors seeking diversification in their investment strategies.

@@ -1,6 +1,9 @@
 ---
-title: "Dark Pools: Functionality, Criticisms, and Examples (Algo Trading)"
-description: "Explore the role of dark pools and algorithmic trading in modern markets including their functionality criticisms and examples to navigate trading dynamics efficiently."
+category: quant_concept
+description: Explore the role of dark pools and algorithmic trading in modern markets
+  including their functionality criticisms and examples to navigate trading dynamics
+  efficiently.
+title: 'Dark Pools: Functionality, Criticisms, and Examples (Algo Trading)'
 ---
 
 In today's fast-paced financial markets, technology continues to play a pivotal role in shaping the landscape for trading platforms and mechanisms. As the financial world rapidly evolves, the integration of advanced technologies has become crucial in enhancing the efficiency and sophistication of trading activities. This article explores the integral aspects of financial markets trading platforms, with a special emphasis on dark pools and algorithmic trading, providing a comprehensive understanding of their operations and significance.

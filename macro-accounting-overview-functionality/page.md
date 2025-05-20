@@ -1,6 +1,8 @@
 ---
-title: "Macro Accounting: Overview and Functionality (Algo Trading)"
-description: "Explore the interplay of macro accounting and algorithmic trading, uncover how they drive financial strategies, and gain insights into economic indicators."
+category: quant_concept
+description: Explore the interplay of macro accounting and algorithmic trading, uncover
+  how they drive financial strategies, and gain insights into economic indicators.
+title: 'Macro Accounting: Overview and Functionality (Algo Trading)'
 ---
 
 In the dynamic landscape of modern financial markets, the convergence of economic measurement, macro accounting, financial analysis, and algorithmic trading forms the backbone of strategic financial decision-making. These interconnected disciplines collectively shape our understanding of economic health and inform trading strategies, providing key insights into the mechanisms that drive economies and financial systems.
@@ -217,4 +219,3 @@ A data-driven approach, fortified by sound economic principles, is paramount for
      - QuantInsti's blog offers in-depth articles and case studies regarding algorithmic trading at [www.quantinsti.com](https://www.quantinsti.com).
 
 These resources collectively provide foundational knowledge and practical insights for those interested in economic measurement, financial analysis, and algorithmic trading strategies, promoting a robust understanding of modern financial markets.
-

@@ -1,6 +1,8 @@
 ---
-title: "Reliability of the P/E Ratio for Investors (Algo Trading)"
-description: "Explore the reliability of the Price-to-Earnings ratio in investment analysis and understand how algorithmic trading enhances modern financial strategies."
+category: trading_strategy
+description: Explore the reliability of the Price-to-Earnings ratio in investment
+  analysis and understand how algorithmic trading enhances modern financial strategies.
+title: Reliability of the P/E Ratio for Investors (Algo Trading)
 ---
 
 The world of investment is a dynamic landscape where complexity and rapid advancements are the norm. Investors today are equipped with a plethora of tools and techniques aimed at facilitating well-informed decision-making processes. Among the various financial metrics available, the Price-to-Earnings (P/E) ratio is distinguished as a fundamental measure for evaluating stock valuations. This ratio serves as a vital gauge of a company's market performance, allowing investors to assess how the market prices a company's earnings relative to its share price.

@@ -1,6 +1,8 @@
 ---
-title: "Jeffrey C. Sprecher Biography (Algo Trading)"
-description: "Explore Jeffrey C Sprecher’s journey as a pioneer in electronic trading and algorithmic platforms leading ICE to global prominence in financial markets"
+category: quant_concept
+description: Explore Jeffrey C Sprecher’s journey as a pioneer in electronic trading
+  and algorithmic platforms leading ICE to global prominence in financial markets
+title: Jeffrey C. Sprecher Biography (Algo Trading)
 ---
 
 The business world consistently evolves, birthing new and transformative marketplaces. A pivotal figure in this dynamic arena is Jeffrey Sprecher, whose leadership and innovation have significantly influenced electronic trading platforms, especially within the financial sector. Sprecher serves as the Chairman and CEO of the Intercontinental Exchange (ICE), a globally recognized enterprise in the domain of algorithmic trading and digital marketplaces. 

@@ -1,6 +1,8 @@
 ---
-title: "Financial Accounting in Decision-Making (Algo Trading)"
-description: "Explore how financial accounting impacts decision-making and the growing role of algorithmic trading in financial markets through data-driven insights."
+category: quant_concept
+description: Explore how financial accounting impacts decision-making and the growing
+  role of algorithmic trading in financial markets through data-driven insights.
+title: Financial Accounting in Decision-Making (Algo Trading)
 ---
 
 In today's era, characterized by rapid technological developments and intricate financial landscapes, decision-making has emerged as a sophisticated art requiring precision and foresight. In this complex environment, the fields of accounting and finance play a crucial role in guiding individuals and organizations toward informed choices. Effective decision-making in these areas is not merely a necessity but a cornerstone of strategic financial management and investment success.

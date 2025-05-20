@@ -1,6 +1,8 @@
 ---
-title: "Using Relative Rotation Graphs in Trading (Algo Trading)"
-description: "Unlock trading potential with Relative Rotation Graphs (RRG) by visualizing security performance, optimizing asset allocation, and enhancing algorithmic strategies."
+category: trading_strategy
+description: Unlock trading potential with Relative Rotation Graphs (RRG) by visualizing
+  security performance, optimizing asset allocation, and enhancing algorithmic strategies.
+title: Using Relative Rotation Graphs in Trading (Algo Trading)
 ---
 
 The relative rotation graph (RRG) is an innovative tool in technical analysis that enables investors to visualize the performance and momentum of various securities relative to a benchmark. This visualization is achieved by plotting securities on a two-dimensional graph, where the x-axis represents the relative strength ratio and the y-axis indicates momentum. Such a representation provides traders with a distinct visual advantage, fostering quicker and more informed decision-making processes.

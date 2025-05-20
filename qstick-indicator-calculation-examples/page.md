@@ -1,6 +1,9 @@
 ---
-title: "Qstick Indicator: Calculation and Examples (Algo Trading)"
-description: "Explore the Qstick indicator a unique tool for assessing market trends and momentum through the average difference in closing and opening prices in algo trading"
+category: trading_strategy
+description: Explore the Qstick indicator a unique tool for assessing market trends
+  and momentum through the average difference in closing and opening prices in algo
+  trading
+title: 'Qstick Indicator: Calculation and Examples (Algo Trading)'
 ---
 
 Technical analysis in stock trading involves examining historical price data to predict future price movements. This method relies heavily on various tools and indicators that help traders discern patterns and make informed decisions. Among these tools, the Qstick indicator stands out, not for its popularity, but for its unique ability to provide deep insights into market trends by evaluating the balance of buying and selling pressures over time.

@@ -1,6 +1,8 @@
 ---
-title: "European Financial Stability Facility (Algo Trading)"
-description: "Explore the European Financial Stability Facility's role in crisis management and discover how algorithmic trading influences eurozone financial stability."
+category: quant_concept
+description: Explore the European Financial Stability Facility's role in crisis management
+  and discover how algorithmic trading influences eurozone financial stability.
+title: European Financial Stability Facility (Algo Trading)
 ---
 
 The European Financial Stability Facility (EFSF) was established in 2010 in response to the severe financial crisis that impacted the eurozone. As a temporary crisis resolution mechanism, it aimed to provide financial assistance to eurozone countries at risk of financial instability, such as Ireland, Portugal, and Greece. The EFSF's operations primarily involved issuing bonds backed by guarantees from EU member states, thereby facilitating financial support without direct European Union taxpayer intervention.

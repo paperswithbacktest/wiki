@@ -1,6 +1,12 @@
 ---
-title: "International Trade: Benefits and Criticisms (Algo Trading)"
-description: "Explore the multifaceted landscape of international trade, highlighting its benefits such as economic growth, market efficiency, and consumer choice diversity. Understand the role of algorithmic trading in transforming global trade with its speed and efficiency while balancing regulatory challenges. Gain insights into comparative advantage, specialization, and the dynamic interplay of free trade and protectionism in shaping global economic strategies."
+category: quant_concept
+description: Explore the multifaceted landscape of international trade, highlighting
+  its benefits such as economic growth, market efficiency, and consumer choice diversity.
+  Understand the role of algorithmic trading in transforming global trade with its
+  speed and efficiency while balancing regulatory challenges. Gain insights into comparative
+  advantage, specialization, and the dynamic interplay of free trade and protectionism
+  in shaping global economic strategies.
+title: 'International Trade: Benefits and Criticisms (Algo Trading)'
 ---
 
 International trade, often referred to as global trade, encompasses the exchange of goods and services across international borders. This intricate system allows countries to connect economically, bridging the gap between different markets and resources. The operations of international trade have profound impacts on global economies, driving economic growth, stimulating innovation, and improving market efficiency.

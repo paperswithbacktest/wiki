@@ -1,6 +1,8 @@
 ---
-title: "Comparison of Quote-Driven and Order-Driven Markets (Algo Trading)"
-description: "Explore the differences and benefits of quote-driven and order-driven markets in algo trading and how they influence trading strategies and liquidity."
+category: quant_concept
+description: Explore the differences and benefits of quote-driven and order-driven
+  markets in algo trading and how they influence trading strategies and liquidity.
+title: Comparison of Quote-Driven and Order-Driven Markets (Algo Trading)
 ---
 
 In financial markets, understanding the complexities of different market structures is crucial for traders and investors. Financial markets can be broadly categorized into two main types based on their operational mechanisms: order-driven and quote-driven markets. Each market structure exhibits unique characteristics that affect how trades are executed, priced, and fulfilled. 

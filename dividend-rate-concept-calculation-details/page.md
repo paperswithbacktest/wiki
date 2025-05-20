@@ -1,6 +1,8 @@
 ---
-title: "Dividend Rate: Concept, Calculation, and Details (Algo Trading)"
-description: "Explore the essential concepts of dividend rates calculation and algorithmic trading to enhance your investment strategy and optimize financial returns."
+category: quant_concept
+description: Explore the essential concepts of dividend rates calculation and algorithmic
+  trading to enhance your investment strategy and optimize financial returns.
+title: 'Dividend Rate: Concept, Calculation, and Details (Algo Trading)'
 ---
 
 The world of investing is imbued with complex terminologies that can often seem daunting to newcomers, yet mastering these concepts is essential for navigating the financial markets successfully. Among these critical terms are the dividend rate, dividend calculation, and the modern technique of algorithmic trading, commonly known as algo trading. Each serves as a cornerstone in the broader context of investment strategy, influencing decision-making processes and optimizing returns.

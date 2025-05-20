@@ -1,6 +1,8 @@
 ---
-title: "Comparison of Gross Profit, Operating Profit, and Net Income (Algo Trading)"
-description: "Explore the significance of gross profit, operating profit, and net income in algorithmic trading to enhance financial strategies and maximize potential returns."
+category: quant_concept
+description: Explore the significance of gross profit, operating profit, and net income
+  in algorithmic trading to enhance financial strategies and maximize potential returns.
+title: Comparison of Gross Profit, Operating Profit, and Net Income (Algo Trading)
 ---
 
 In financial analysis, differentiating between various types of profits—operating profit, net income, and gross profit—is essential for stakeholders such as investors, analysts, and companies. Operating profit is a measure of a company's core business profitability before accounting for interest and taxes. Net income, also known as the bottom line, includes all expenses, taxes, and interest, providing a comprehensive view of a company's financial health. Gross profit, derived from total revenue minus the cost of goods sold (COGS), reflects the efficiency of production and sales processes.
@@ -133,4 +135,3 @@ Jansen, Stefan. 'Machine Learning for Algorithmic Trading.' A comprehensive reso
 Chan, Ernest P. 'Quantitative Trading: How to Build Your Own Algorithmic Trading Business.' This book serves as a guide to establishing and managing a [quantitative trading](/wiki/quantitative-trading) business, offering insights into different trading strategies and risk management techniques.
 
 These resources provide foundational knowledge and practical strategies for utilizing machine learning and algorithmic trading in financial markets, helping traders develop robust and optimized trading systems.
-

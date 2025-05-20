@@ -1,6 +1,9 @@
 ---
-title: "Real Estate Owned Properties: Benefits and Drawbacks (Algo Trading)"
-description: "Explore the synergy of REO properties and algorithmic trading in real estate Learn the benefits and drawbacks of tech-driven investments in distressed assets"
+category: quant_concept
+description: Explore the synergy of REO properties and algorithmic trading in real
+  estate Learn the benefits and drawbacks of tech-driven investments in distressed
+  assets
+title: 'Real Estate Owned Properties: Benefits and Drawbacks (Algo Trading)'
 ---
 
 The integration of technology into the real estate sector has seen a significant rise, reshaping how properties are managed, transacted, and invested. This technological evolution encompasses various elements, including Real Estate Owned (REO) properties, real estate investment strategies, and algorithmic trading mechanisms. Understanding these concepts is fundamental in today's market as they influence how assets are valued, analyzed, and ultimately bought and sold.

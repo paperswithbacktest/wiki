@@ -1,6 +1,8 @@
 ---
-title: "Serial Bond (Algo Trading)"
-description: "Explore the world of serial bonds and their unique staggered maturities Learn how algorithmic trading enhances bond market efficiency and investment strategies"
+category: trading_strategy
+description: Explore the world of serial bonds and their unique staggered maturities
+  Learn how algorithmic trading enhances bond market efficiency and investment strategies
+title: Serial Bond (Algo Trading)
 ---
 
 The financial world is an intricate domain characterized by dynamic markets, evolving regulatory frameworks, and a diverse range of investment vehicles. It is a realm where investors, policymakers, and financial institutions interact, influenced by economic indicators, interest rate fluctuations, and geopolitical events. At the heart of this complex landscape lies the bond market—a critical component that serves as a cornerstone for both personal and institutional investment portfolios.

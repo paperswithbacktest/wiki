@@ -1,6 +1,8 @@
 ---
-title: "Comparison of Fixed Assets and Current Assets (Algo Trading)"
-description: "Explore the critical differences between fixed and current assets to enhance your understanding of financial management and algorithmic trading strategies."
+category: quant_concept
+description: Explore the critical differences between fixed and current assets to
+  enhance your understanding of financial management and algorithmic trading strategies.
+title: Comparison of Fixed Assets and Current Assets (Algo Trading)
 ---
 
 Understanding the distinctions between fixed assets and current assets is essential in modern financial management. As companies strive to optimize their financial structures, mastering the nuances of these asset types becomes crucial for asset management and trading strategies. Fixed assets, such as property and equipment, represent long-term investments, while current assets, including cash and inventory, are pivotal for a company’s short-term liquidity.
@@ -173,4 +175,3 @@ To deepen your understanding of asset classification and its impact on algorithm
    - Financial Modeling and Valuation by the Corporate Finance Institute includes modules on classifying and managing assets for corporate financial strategy.
 
 Engaging with these resources will facilitate a robust understanding of asset classification's role in financial performance and trading strategy optimization.
-

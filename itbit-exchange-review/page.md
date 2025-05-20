@@ -1,6 +1,13 @@
 ---
-title: "ItBit Exchange Review (Algo Trading)"
-description: "Explore a comprehensive review of ItBit Exchange, a notable player in the cryptocurrency market known for its robust trading infrastructure and emphasis on security and regulatory compliance. Learn about ItBit's features, including support for algorithmic trading strategies, which cater to both retail and institutional traders. Discover how ItBit maintains market liquidity, adheres to strict compliance standards, and ensures a secure trading environment, making it a reliable choice for investors seeking advanced trading solutions in the digital asset space."
+category: trading_strategy
+description: Explore a comprehensive review of ItBit Exchange, a notable player in
+  the cryptocurrency market known for its robust trading infrastructure and emphasis
+  on security and regulatory compliance. Learn about ItBit's features, including support
+  for algorithmic trading strategies, which cater to both retail and institutional
+  traders. Discover how ItBit maintains market liquidity, adheres to strict compliance
+  standards, and ensures a secure trading environment, making it a reliable choice
+  for investors seeking advanced trading solutions in the digital asset space.
+title: ItBit Exchange Review (Algo Trading)
 ---
 
 Cryptocurrency exchanges play a critical role in the digital asset market by providing a platform for the trading of cryptocurrencies. These exchanges serve as a bridge between buyers and sellers, offering a marketplace for executing transactions in various digital coins and tokens. They are essential for price discovery, market liquidity, and implementing investment strategies, ranging from simple purchases to complex trading algorithms.

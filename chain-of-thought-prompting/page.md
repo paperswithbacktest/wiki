@@ -1,7 +1,8 @@
 ---
-title: Enhancing AI Reasoning With Chain-of-Thought Prompting
+category: quant_concept
 description: Chain-of-Thought prompting helps machine learning models break down complex
   tasks into clear reasoning steps for more accurate results Discover more inside
+title: Enhancing AI Reasoning With Chain-of-Thought Prompting
 ---
 
 ![Image](images/1.png)

@@ -1,6 +1,9 @@
 ---
-title: "Financial Contagion During Economic Crises (Algo Trading)"
-description: "Explore the origins and impact of financial contagion during economic crises and the role of algorithmic trading in modern markets. Discover strategies for resilience."
+category: quant_concept
+description: Explore the origins and impact of financial contagion during economic
+  crises and the role of algorithmic trading in modern markets. Discover strategies
+  for resilience.
+title: Financial Contagion During Economic Crises (Algo Trading)
 ---
 
 In today's interconnected global economy, financial markets are increasingly subject to novel forms of stress and risk. One prominent concept is financial contagion, where economic crises spread from one market to another, much like diseases among populations. This phenomenon poses a significant concern for investors, policymakers, and governments globally due to the complexity and speed at which these crises can propagate.

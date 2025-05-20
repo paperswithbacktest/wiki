@@ -1,6 +1,9 @@
 ---
-title: "Monetary Aggregates in Economics (Algo Trading)"
-description: "Explore the intricate relationship between monetary aggregates, money supply, and algorithmic trading and their collective impact on economic stability and trading strategies."
+category: quant_concept
+description: Explore the intricate relationship between monetary aggregates, money
+  supply, and algorithmic trading and their collective impact on economic stability
+  and trading strategies.
+title: Monetary Aggregates in Economics (Algo Trading)
 ---
 
 This article examines the intricate relationships among economics, monetary aggregates, money supply, and algorithmic trading. Each component plays a significant role in shaping the broader economic landscape, with monetary aggregates like M0, M1, M2, and historically, M3 serving as key indicators for central bank policies. Understanding these aggregates is vital for grasping their impact on economic metrics such as inflation, Gross Domestic Product (GDP), and unemployment rates.

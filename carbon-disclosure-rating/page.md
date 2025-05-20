@@ -1,6 +1,8 @@
 ---
-title: "Carbon Disclosure Rating (Algo Trading)"
-description: "Explore the intersection of sustainability and algorithmic trading with insights into carbon disclosure and environmental impact in today's financial markets."
+category: dataset
+description: Explore the intersection of sustainability and algorithmic trading with
+  insights into carbon disclosure and environmental impact in today's financial markets.
+title: Carbon Disclosure Rating (Algo Trading)
 ---
 
 In today's business environment, a significant shift towards sustainability and transparency is taking place, driven by increasing awareness of environmental issues. Companies are under ever-growing scrutiny by investors and stakeholders who demand transparency about their environmental impact. This has led to the emergence of sustainability ratings, carbon disclosure, and environmental reporting as pivotal tools in assessing a company's commitment to eco-friendly practices.

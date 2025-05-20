@@ -1,6 +1,8 @@
 ---
-title: "False Market: Meaning and Causes with Example (Algo Trading)"
-description: "Explore the significance of false markets in modern finance. Understand their causes, impact on algorithmic trading, and repercussions for economic stability."
+category: quant_concept
+description: Explore the significance of false markets in modern finance. Understand
+  their causes, impact on algorithmic trading, and repercussions for economic stability.
+title: 'False Market: Meaning and Causes with Example (Algo Trading)'
 ---
 
 In the modern financial landscape, the concept of a false market has gained significant attention. This financial phenomenon is characterized by manipulated prices and misinformation, presenting a distorted view of economic reality to market participants. Such distortions can have serious implications, impairing the ability of financial markets to efficiently allocate resources based on true supply and demand dynamics.

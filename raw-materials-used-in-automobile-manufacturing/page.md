@@ -1,6 +1,8 @@
 ---
-title: "Raw Materials Used in Automobile Manufacturing (Algo Trading)"
-description: "Explore how algorithmic trading can revolutionize raw material sourcing in the auto industry enhancing supply chain efficiency and mitigating price volatility."
+category: dataset
+description: Explore how algorithmic trading can revolutionize raw material sourcing
+  in the auto industry enhancing supply chain efficiency and mitigating price volatility.
+title: Raw Materials Used in Automobile Manufacturing (Algo Trading)
 ---
 
 Raw materials are fundamental components in the production of automobiles, constituting the basic substances from which vehicle parts are manufactured. Key materials such as steel, aluminum, plastics, and rare earth metals form the structural and functional backbone of modern vehicles. Their availability and cost are crucial determinants of manufacturing efficiency and innovation.

@@ -1,6 +1,8 @@
 ---
-title: "Darvas Box Trading Strategy (Algo Trading)"
-description: "Discover the powerful Darvas Box Trading Strategy Learn how this trend-following system utilizes price action to identify breakout opportunities for improved gains"
+category: trading_strategy
+description: Discover the powerful Darvas Box Trading Strategy Learn how this trend-following
+  system utilizes price action to identify breakout opportunities for improved gains
+title: Darvas Box Trading Strategy (Algo Trading)
 ---
 
 In the ever-evolving world of stock trading, strategies frequently evolve, yet certain approaches persist well beyond their inception. One such enduring methodology is the Darvas Box strategy, a classic trend-following system that continues to attract traders eager to optimize investment gains. Originally conceived by Nicolas Darvas, a figure famous not for his initial Wall Street background but for his extraordinary trading success, this strategy blends elements of technical analysis with momentum trading principles, providing a robust framework for traders.

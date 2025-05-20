@@ -1,6 +1,11 @@
 ---
-title: "Sector Picking (Algo Trading)"
-description: Discover how Sector Picking, an investment strategy used in algorithmic trading, can help quant traders capitalize on sector-specific movements and maximize returns. Learn the basics of Sector Picking, its relevance to algo trading, and strategies for implementation. Read more about relevant trading strategies, tools, and resources.
+category: trading_strategy
+description: Discover how Sector Picking, an investment strategy used in algorithmic
+  trading, can help quant traders capitalize on sector-specific movements and maximize
+  returns. Learn the basics of Sector Picking, its relevance to algo trading, and
+  strategies for implementation. Read more about relevant trading strategies, tools,
+  and resources.
+title: Sector Picking (Algo Trading)
 ---
 
 Sector picking is a strategic approach in algorithmic trading that focuses on selecting the most promising sectors for investment or trading based on data analysis and market trends. In algorithmic trading, computers execute trades automatically according to a set of predefined rules and computations. The primary advantage of algorithmic trading lies in its ability to process vast amounts of market data and execute trades at speeds and efficiencies that are impossible for human traders. This minimizes human errors, biases, and emotional influences, while allowing for the execution of complex strategies through systematic and consistent decision-making.

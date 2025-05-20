@@ -1,7 +1,8 @@
 ---
-title: Understanding Machine Learning Estimators and Applications
+category: quant_concept
 description: Machine learning estimators help you select evaluate and tune models
   from linear regression to ensemble methods for reliable predictions Discover more.
+title: Understanding Machine Learning Estimators and Applications
 ---
 
 ![Image](images/1.png)

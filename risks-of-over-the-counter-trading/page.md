@@ -1,6 +1,8 @@
 ---
-title: "Risks of Over-the-Counter Trading (Algo Trading)"
-description: "Explore the risks of over-the-counter and algorithmic trading focusing on liquidity issues, lack of transparency, potential for errors, and market manipulation."
+category: trading_strategy
+description: Explore the risks of over-the-counter and algorithmic trading focusing
+  on liquidity issues, lack of transparency, potential for errors, and market manipulation.
+title: Risks of Over-the-Counter Trading (Algo Trading)
 ---
 
 In today's increasingly complex financial markets, trading has moved beyond the confines of traditional exchanges to encompass over-the-counter (OTC) markets and algorithmic (algo) trading. These newer avenues of trading present unique opportunities; however, they are not without inherent risks that require careful consideration and management. The evolution of financial trading from exchange-based activities to include OTC and algorithmic methodologies allows for greater flexibility, but also introduces challenges that traders must understand to make informed investment decisions.

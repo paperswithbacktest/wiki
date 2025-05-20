@@ -1,9 +1,10 @@
 ---
-title: "Jian Pan (Algo Trading)"
-description: "Discover the impactful career of Jian Pan a leading expert in algorithmic trading and quantitative systems shaping modern financial strategies at Acadian Asset Management."
+category: quant_concept
+description: Discover the impactful career of Jian Pan a leading expert in algorithmic
+  trading and quantitative systems shaping modern financial strategies at Acadian
+  Asset Management.
+title: Jian Pan (Algo Trading)
 ---
-
-
 
 Jian Pan is a notable figure in the field of algorithmic trading, currently serving as the Senior Vice President and Head of Quantitative Systems at Acadian Asset Management, a prominent investment management firm based in Boston, Massachusetts, United States. Pan's extensive experience in quantitative analytics and algorithmic trading has significantly contributed to advancements in these areas, shaping the way modern financial systems operate.
 

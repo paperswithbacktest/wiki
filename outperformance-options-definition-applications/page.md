@@ -1,6 +1,9 @@
 ---
-title: "Outperformance Options: Definition and Applications (Algo Trading)"
-description: "Explore outperformance options and their role in algorithmic trading. Learn how they help traders profit from asset performance and enhance investment strategies."
+category: quant_concept
+description: Explore outperformance options and their role in algorithmic trading.
+  Learn how they help traders profit from asset performance and enhance investment
+  strategies.
+title: 'Outperformance Options: Definition and Applications (Algo Trading)'
 ---
 
 The financial world hinges on a vast array of investment strategies that cater to diverse investor needs and market conditions. Central to these strategies is the utilization of financial derivatives, instruments that derive their value from underlying assets such as stocks, commodities, or indices. Among the myriad of derivative instruments, the outperformance option stands out as a pivotal tool designed to exploit relative price movements between assets. This option type offers traders the ability to profit from the performance of one asset relative to another, providing an advanced method for seeking returns beyond conventional metrics.
@@ -228,4 +231,3 @@ Hull, J.C. (2017). "Options, Futures, and Other Derivatives." Pearson Education.
 de Prado, M.L. (2018). "Advances in Financial Machine Learning." John Wiley & Sons. This book explores the intersection of machine learning and finance, presenting techniques to improve trading strategies through data-driven approaches. Covering topics such as feature engineering and portfolio management, it offers crucial insights for leveraging machine learning in financial decision-making.
 
 Chan, E.P. (2009). "Quantitative Trading: How to Build Your Own Algorithmic Trading Business." Wiley Trading. This practical guide provides a blueprint for developing and implementing algorithmic trading systems. It walks readers through strategy design, backtesting, risk management, and execution, making it an essential reference for traders seeking to automate their strategies.
-

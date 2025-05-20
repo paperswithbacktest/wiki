@@ -1,6 +1,9 @@
 ---
-title: "Aroon Indicator: Formula, Calculation, and Interpretation (Algo Trading)"
-description: "Discover how the Aroon Indicator helps traders identify trend changes and measure trend strength. Learn formulas, calculations, and applications in algo trading."
+category: trading_strategy
+description: Discover how the Aroon Indicator helps traders identify trend changes
+  and measure trend strength. Learn formulas, calculations, and applications in algo
+  trading.
+title: 'Aroon Indicator: Formula, Calculation, and Interpretation (Algo Trading)'
 ---
 
 The Aroon Indicator is a pivotal tool in technical analysis, designed to detect trend changes and measure trend strength in asset prices. It was developed by Tushar Chande in 1995 and stands out due to its unique approach that emphasizes the time intervals between the highs and lows of asset prices. This focus on timing provides traders with a deeper understanding of market trends, distinguishing it from other indicators that primarily rely on price movements alone.

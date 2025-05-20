@@ -1,6 +1,15 @@
 ---
-title: "Bid–ask spread (Algo Trading)"
-description: Explore the intricacies of the bid-ask spread in algorithmic trading with this comprehensive analysis. Learn how this crucial financial concept impacts trading costs and strategies by highlighting the difference between the highest price a buyer will pay and the lowest a seller will accept. Delve into its role as a liquidity indicator, the implications in various markets like stocks, futures, and currency pairs, and its significance in high-frequency trading environments. Gain insights into liquidity's influence on the spread and differentiate between quoted, effective, and realized spreads to understand market behavior and optimize trade execution.
+category: quant_concept
+description: Explore the intricacies of the bid-ask spread in algorithmic trading
+  with this comprehensive analysis. Learn how this crucial financial concept impacts
+  trading costs and strategies by highlighting the difference between the highest
+  price a buyer will pay and the lowest a seller will accept. Delve into its role
+  as a liquidity indicator, the implications in various markets like stocks, futures,
+  and currency pairs, and its significance in high-frequency trading environments.
+  Gain insights into liquidity's influence on the spread and differentiate between
+  quoted, effective, and realized spreads to understand market behavior and optimize
+  trade execution.
+title: Bid–ask spread (Algo Trading)
 ---
 
 The bid-ask spread is a fundamental concept in financial markets that signifies the difference between the highest price a buyer is willing to pay (bid) and the lowest price a seller is willing to accept (ask) for an asset. This spread plays a crucial role as it represents both a cost of trading for investors and a source of profit for market makers. Its size can often indicate the level of liquidity in the market; smaller spreads suggest a more liquid, competitive market, while larger spreads can indicate less liquidity and potentially higher risk.

@@ -1,6 +1,9 @@
 ---
-title: "Command Economy: Overview and Characteristics (Algo Trading)"
-description: "Explore command economies and algo trading contrasting state-controlled systems with market-driven innovation in trading analyzing their unique impacts on the economy."
+category: quant_concept
+description: Explore command economies and algo trading contrasting state-controlled
+  systems with market-driven innovation in trading analyzing their unique impacts
+  on the economy.
+title: 'Command Economy: Overview and Characteristics (Algo Trading)'
 ---
 
 This article explores the intersection of central planning economic systems, often exemplified by command economies, and algorithmic trading (algo trading), which thrives in free-market settings. Command economies, characterized by central planning, have historically aimed to achieve specific economic and social objectives through governmental or authoritative control over production and distribution. Countries such as the former Soviet Union and present-day North Korea have implemented command economic models intending to create equitable wealth distribution and social welfare.

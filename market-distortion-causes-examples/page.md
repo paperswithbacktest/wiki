@@ -1,6 +1,9 @@
 ---
-title: "Market Distortion: Causes and Examples (Algo Trading)"
-description: "Explore the causes and examples of market distortion driven by economic factors and algorithmic trading Learn how these elements influence financial markets today"
+category: quant_concept
+description: Explore the causes and examples of market distortion driven by economic
+  factors and algorithmic trading Learn how these elements influence financial markets
+  today
+title: 'Market Distortion: Causes and Examples (Algo Trading)'
 ---
 
 In the ever-evolving landscape of financial markets, a complex interplay of economic factors and technological advancements significantly influences market dynamics. Economic shifts, whether driven by policy changes, global events, or market sentiment, can impact prices and resource allocations, often leading to market distortions. Market distortion occurs when extrinsic factors disrupt the natural operations of the market, causing misaligned prices and inefficient resource distribution. Such distortions can manifest from various sources, including government interventions, subsidies, and monopolistic practices, all of which can alter the natural supply and demand balance.

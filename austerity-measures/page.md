@@ -1,6 +1,8 @@
 ---
-title: "Austerity Measures (Algo Trading)"
-description: "Explore the complex relationship between austerity measures and algorithmic trading Discover how fiscal policies impact trading strategies in today's economy"
+category: quant_concept
+description: Explore the complex relationship between austerity measures and algorithmic
+  trading Discover how fiscal policies impact trading strategies in today's economy
+title: Austerity Measures (Algo Trading)
 ---
 
 The global economy has experienced a myriad of fiscal challenges, with governments around the world employing various strategies to manage these issues. Austerity measures frequently emerge as a key tool in this regard. These measures generally involve reducing government spending, increasing taxes, or a combination of both, primarily aimed at decreasing public-sector debt and achieving fiscal discipline. By implementing austerity, governments strive to reassure creditors and financial markets of their fiscal responsibility, aiming to avoid scenarios where high debt levels could potentially impede economic growth.

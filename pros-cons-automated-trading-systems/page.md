@@ -1,6 +1,9 @@
 ---
-title: "Pros and Cons of Automated Trading Systems (Algo Trading)"
-description: "Explore the advantages and disadvantages of automated trading systems Discover how algo trading can enhance trading efficiency while posing potential risks"
+category: trading_strategy
+description: Explore the advantages and disadvantages of automated trading systems
+  Discover how algo trading can enhance trading efficiency while posing potential
+  risks
+title: Pros and Cons of Automated Trading Systems (Algo Trading)
 ---
 
 Automated trading, often referred to as algorithmic or algo trading, has significantly transformed the trading landscape by leveraging sophisticated computer algorithms to enable precise and efficient trading strategies. These systems allow traders to execute complex strategies with minimal human intervention, using pre-defined criteria encoded into trading software. As technology continues to advance, automated trading systems have become increasingly prevalent, allowing for swift and emotion-free trading decisions that enhance efficiency and reliability. 

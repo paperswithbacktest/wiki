@@ -1,6 +1,8 @@
 ---
-title: "Canadian Overnight Money Market Rate (Algo Trading)"
-description: "Explore the Canadian money market with insights on the overnight rate and algorithmic trading unleashing liquidity and efficiency in the financial ecosystem."
+category: dataset
+description: Explore the Canadian money market with insights on the overnight rate
+  and algorithmic trading unleashing liquidity and efficiency in the financial ecosystem.
+title: Canadian Overnight Money Market Rate (Algo Trading)
 ---
 
 The financial markets are perpetually undergoing transformations driven by the integration of new technologies and strategies. Notably, the Canadian money market and its associated overnight rate have established themselves as crucial components within this evolving landscape. At the forefront of modern finance, algorithmic trading has emerged as an influential tool, especially within money markets, where it contributes significantly to trading efficiency and liquidity enhancement.

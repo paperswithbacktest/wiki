@@ -1,6 +1,8 @@
 ---
-title: "Open Offer and Rights Issue (Algo Trading)"
-description: "Explore the dynamics of stock offerings like rights issues and open offers, and discover how algorithmic trading is reshaping capital-raising strategies."
+category: quant_concept
+description: Explore the dynamics of stock offerings like rights issues and open offers,
+  and discover how algorithmic trading is reshaping capital-raising strategies.
+title: Open Offer and Rights Issue (Algo Trading)
 ---
 
 Equity investment provides a multitude of methods for companies to generate capital, each offering distinct advantages and challenges. Stock offerings remain a cornerstone of this financial strategy, serving as a conduit for businesses to distribute additional shares either to the public at large or to existing shareholders. Notably, rights issues and open offers stand out as two prevalent forms of stock offerings due to their straightforward mechanisms and effectiveness in capital accumulation.

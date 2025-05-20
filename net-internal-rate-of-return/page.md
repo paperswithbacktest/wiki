@@ -1,6 +1,9 @@
 ---
-title: "Net Internal Rate of Return (Algo Trading)"
-description: "Explore the synergy between Net Internal Rate of Return and algorithmic trading to refine investment models and achieve consistent profitability in financial markets."
+category: quant_concept
+description: Explore the synergy between Net Internal Rate of Return and algorithmic
+  trading to refine investment models and achieve consistent profitability in financial
+  markets.
+title: Net Internal Rate of Return (Algo Trading)
 ---
 
 Financial metrics play an indispensable role in guiding investors toward prudent investment decisions, with the Net Internal Rate of Return (Net IRR) being particularly significant. Net IRR is a metric that offers a nuanced perspective of an investment’s profitability by adjusting for fees and carried interests. Recognized as a superior measure to the traditional Internal Rate of Return (IRR), it provides investors with an annualized return percentage, ensuring a more precise evaluation of potential yields.
@@ -144,4 +147,3 @@ Investment Valuation: Tools and Techniques for Determining the Value of Any Asse
 Algorithmic Trading & DMA: An introduction to direct access trading strategies by Barry Johnson provides insights into the application of algorithmic trading techniques within financial markets. It explores how traditional financial metrics, including IRR, can be embedded in algorithmic models to optimize trading strategies. The book effectively combines theory and practice, highlighting the technological advancements that enhance investment decision-making.
 
 Python for Finance: Mastering Data-Driven Finance by Yves Hilpisch investigates into the integration of programming, particularly Python, in financial analysis and trading. This reference is valuable for those looking to implement algorithmic trading strategies while incorporating financial metrics like Net IRR to improve precision and decision-making. The book covers data processing, predictive analytics, and model calibration techniques essential for modern finance professionals.
-

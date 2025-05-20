@@ -1,6 +1,9 @@
 ---
-title: "Directional Movement Index: Interpretation and Calculation (Algo Trading)"
-description: "Explore the Directional Movement Index for analyzing market trends and making informed trading decisions with DMI calculations and insights into algorithmic trading"
+category: quant_concept
+description: Explore the Directional Movement Index for analyzing market trends and
+  making informed trading decisions with DMI calculations and insights into algorithmic
+  trading
+title: 'Directional Movement Index: Interpretation and Calculation (Algo Trading)'
 ---
 
 The world of trading is complex, encompassing various strategies and techniques that require robust tools for effective decision-making. Among these tools, the Directional Movement Index (DMI) stands out as a pivotal technical analysis indicator. Introduced by J. Welles Wilder Jr. in 1978, the DMI is designed to quantify both the strength and direction of price movements, offering traders invaluable insights into market trends.

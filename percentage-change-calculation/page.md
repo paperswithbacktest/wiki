@@ -1,6 +1,9 @@
 ---
-title: "Percentage Change Calculation (Algo Trading)"
-description: "Discover the vital role of percentage change in algorithmic trading Enhance your trading strategies by understanding market dynamics through price movements and trends"
+category: quant_concept
+description: Discover the vital role of percentage change in algorithmic trading Enhance
+  your trading strategies by understanding market dynamics through price movements
+  and trends
+title: Percentage Change Calculation (Algo Trading)
 ---
 
 Algorithmic trading employs mathematical formulas to execute trades based on a variety of market conditions, with one critical mathematical concept being the calculation of percentage change. This concept is pivotal to the operation of algorithmic trading systems, as it aids traders in making informed decisions by examining price movements, predicting future trends, and crafting trading strategies geared towards market success. A comprehensive grasp of how to compute and apply percentage change can significantly enhance a trader's ability to analyze financial data effectively, enabling the prediction of potential market scenarios.

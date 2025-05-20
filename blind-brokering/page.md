@@ -1,6 +1,9 @@
 ---
-title: "Blind Brokering (Algo Trading)"
-description: "Explore the impact of algorithmic trading and blind brokering in modern financial markets Learn how automation and anonymity enhance transaction efficiency and fairness"
+category: trading_strategy
+description: Explore the impact of algorithmic trading and blind brokering in modern
+  financial markets Learn how automation and anonymity enhance transaction efficiency
+  and fairness
+title: Blind Brokering (Algo Trading)
 ---
 
 In the rapidly evolving landscape of financial markets, brokerage services have undergone significant transformation. As technology continues to advance, the methods and strategies used to conduct financial transactions have become more sophisticated and efficient. One of the most influential technological innovations in this domain is algorithmic trading. By leveraging automated systems and complex algorithms, algorithmic trading has fundamentally reshaped the execution of transactions, offering increased speed, accuracy, and the ability to handle large volumes of data.

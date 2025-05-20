@@ -1,6 +1,8 @@
 ---
-title: "Calculating Fixed Asset Depreciation in Excel (Algo Trading)"
-description: "Learn how to efficiently calculate fixed asset depreciation in Excel, integrating it into algorithmic trading strategies to optimize financial decisions."
+category: quant_concept
+description: Learn how to efficiently calculate fixed asset depreciation in Excel,
+  integrating it into algorithmic trading strategies to optimize financial decisions.
+title: Calculating Fixed Asset Depreciation in Excel (Algo Trading)
 ---
 
 Fixed assets hold a crucial role in the financial architecture of businesses. These long-term tangible properties, such as machinery, buildings, and equipment, are essential for operations and are significant in financial reporting due to their substantial value and impact on investment decisions. The financial reporting of fixed assets reflects a business's capital investments and long-term financial health.

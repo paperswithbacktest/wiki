@@ -1,6 +1,9 @@
 ---
-title: "Analysis of Mid-Cap Stocks (Algo Trading)"
-description: "Explore the potential of mid-cap stocks in a diversified portfolio by analyzing their profitability growth and financial health through algorithmic trading strategies."
+category: trading_strategy
+description: Explore the potential of mid-cap stocks in a diversified portfolio by
+  analyzing their profitability growth and financial health through algorithmic trading
+  strategies.
+title: Analysis of Mid-Cap Stocks (Algo Trading)
 ---
 
 The rise of mid-cap stocks as a key component in investment portfolios has garnered notable interest from investors. These stocks, defined by their market capitalizations typically ranging between $2 billion and $10 billion, present a distinctive balance of growth potential and stability. As investors seek to enhance their portfolio's performance, understanding the intricacies of investing in mid-cap stocks through strategic analysis and algorithmic trading is essential. This article is designed to explore these investment strategies and tools, emphasizing the unique advantages of incorporating mid-cap stocks into a diversified portfolio.

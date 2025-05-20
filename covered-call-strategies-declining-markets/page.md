@@ -1,6 +1,8 @@
 ---
-title: "Covered Call Strategies in Declining Markets (Algo Trading)"
-description: "Discover effective covered call strategies using algorithmic trading in declining markets Enhance income generation manage risks and optimize trade outcomes"
+category: trading_strategy
+description: Discover effective covered call strategies using algorithmic trading
+  in declining markets Enhance income generation manage risks and optimize trade outcomes
+title: Covered Call Strategies in Declining Markets (Algo Trading)
 ---
 
 Covered call options represent a widely used trading strategy where an investor holds a long position in a stock and sells a call option on the same stock. This mechanism is often employed to generate income through premiums received from selling the call options, while simultaneously providing a modest level of risk management. In this strategy, the potential income from option premiums offsets some downside risk; however, it constrains the upside potential, as the stock may be called away if its price exceeds the strike price of the sold call.

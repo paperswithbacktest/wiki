@@ -1,6 +1,14 @@
 ---
-title: "Comparison of Permissioned and Permissionless Blockchains with Examples (Algo Trading)"
-description: "Explore the differences between permissioned and permissionless blockchains and their applications in algorithmic trading. Understand how permissioned blockchains offer data privacy and controlled access for industries like finance and supply chain, while permissionless blockchains promote transparency and decentralization, with examples such as Bitcoin and Ethereum. Discover the role of blockchain technology in enhancing the efficiency and security of algo trading systems and its future prospects in financial markets."
+category: quant_concept
+description: Explore the differences between permissioned and permissionless blockchains
+  and their applications in algorithmic trading. Understand how permissioned blockchains
+  offer data privacy and controlled access for industries like finance and supply
+  chain, while permissionless blockchains promote transparency and decentralization,
+  with examples such as Bitcoin and Ethereum. Discover the role of blockchain technology
+  in enhancing the efficiency and security of algo trading systems and its future
+  prospects in financial markets.
+title: Comparison of Permissioned and Permissionless Blockchains with Examples (Algo
+  Trading)
 ---
 
 Blockchain technology represents one of the most significant advancements in digital innovation, with a transformative potential across industries. At its core, blockchain is a decentralized digital ledger that records transactions across multiple computers, ensuring that the recorded transactions cannot be altered retroactively. This inherent immutability, transparency, and security have made blockchain an attractive solution for numerous applications.

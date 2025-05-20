@@ -1,6 +1,9 @@
 ---
-title: "Aggregate Supply: Overview and Mechanism (Algo Trading)"
-description: "Explore the connections between aggregate supply, economic theories, and algorithmic trading to understand their significant roles in modern economic systems."
+category: quant_concept
+description: Explore the connections between aggregate supply, economic theories,
+  and algorithmic trading to understand their significant roles in modern economic
+  systems.
+title: 'Aggregate Supply: Overview and Mechanism (Algo Trading)'
 ---
 
 In the ever-evolving world of economics and trading, comprehending key concepts such as aggregate supply, economic theories, and algorithmic trading is essential for navigating modern markets. Aggregate supply, a core element of macroeconomics, reflects the relationship between the price level in an economy and the amount of goods and services produced. This component provides insights into how economies respond to various stimuli, including changes in policy and external economic conditions.

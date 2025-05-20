@@ -1,6 +1,8 @@
 ---
-title: "Fokker-Planck equation (Algo Trading)"
-description: "Explore the Fokker-Planck equation in algorithmic trading to model asset price behavior and develop strategies by understanding market dynamics and volatility."
+category: quant_concept
+description: Explore the Fokker-Planck equation in algorithmic trading to model asset
+  price behavior and develop strategies by understanding market dynamics and volatility.
+title: Fokker-Planck equation (Algo Trading)
 ---
 
 The Fokker-Planck equation is a partial differential equation used to describe the time evolution of the probability density function of the velocity of a particle. It is widely applied in physics, chemistry, and other scientific domains to model diffusive processes. Mathematically formulated as:

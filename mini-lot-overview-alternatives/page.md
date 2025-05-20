@@ -1,6 +1,8 @@
 ---
-title: "Mini Lot: Definition, Overview, and Alternatives (Algo Trading)"
-description: "Explore mini lot forex trading to manage risk with reduced financial exposure. Discover how mini lots balance risk and reward with algorithmic strategies."
+category: quant_concept
+description: Explore mini lot forex trading to manage risk with reduced financial
+  exposure. Discover how mini lots balance risk and reward with algorithmic strategies.
+title: 'Mini Lot: Definition, Overview, and Alternatives (Algo Trading)'
 ---
 
 Forex trading is a highly active financial market where participants engage in buying and selling currencies. The market operates around the clock, enabling traders from different time zones to participate without interruption. A fundamental aspect of forex trading involves dealing with various lot sizes, which define the volume or size of currency trades. Understanding these lot sizes is crucial for traders to effectively manage risk and capital.

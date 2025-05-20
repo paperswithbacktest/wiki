@@ -1,6 +1,9 @@
 ---
-title: "Industries Resilient During Economic Recessions (Algo Trading)"
-description: "Explore recession-proof industries like healthcare, utilities, and algorithmic trading, which offer resilience during economic downturns by sustaining demand and leveraging technology."
+category: trading_strategy
+description: Explore recession-proof industries like healthcare, utilities, and algorithmic
+  trading, which offer resilience during economic downturns by sustaining demand and
+  leveraging technology.
+title: Industries Resilient During Economic Recessions (Algo Trading)
 ---
 
 Economic downturns and recessions are inevitable parts of the economic cycle, challenging businesses while also presenting unique opportunities. During these periods of economic contraction, industries deemed 'recession-proof' exhibit economic resilience by maintaining demand for their goods and services despite weakening economic conditions. This concept underpins the strategic positioning of businesses within such sectors, where essential goods and services remain in demand regardless of a country's fiscal landscape. 

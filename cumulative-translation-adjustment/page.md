@@ -1,6 +1,8 @@
 ---
-title: "Cumulative Translation Adjustment (Algo Trading)"
-description: "Explore the importance of cumulative translation adjustment and algorithmic trading in Forex to understand their impact on global financial market operations."
+category: quant_concept
+description: Explore the importance of cumulative translation adjustment and algorithmic
+  trading in Forex to understand their impact on global financial market operations.
+title: Cumulative Translation Adjustment (Algo Trading)
 ---
 
 The multifaceted world of foreign exchange (Forex) offers numerous opportunities and challenges, especially in financial reporting and trading. In the context of international business, understanding the cumulative translation adjustment (CTA) is crucial as it reflects the impact of exchange rate fluctuations on financial statements. CTA is instrumental in ensuring that financial statements accurately represent the financial health of companies with international operations. By differentiating between operational gains or losses and those arising from currency translation, CTA provides businesses with a clearer picture of their financial performance.

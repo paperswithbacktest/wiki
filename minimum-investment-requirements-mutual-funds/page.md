@@ -1,6 +1,11 @@
 ---
-title: "Minimum Investment Requirements for Mutual Funds (Algo Trading)"
-description: "Discover how mutual funds offer diverse investment opportunities for both novice and seasoned investors by understanding essential factors such as minimum investment requirements and algorithmic trading. This article provides insights into how these elements impact investment strategies, enabling you to align your portfolio with evolving financial markets and achieve long-term objectives."
+category: trading_strategy
+description: Discover how mutual funds offer diverse investment opportunities for
+  both novice and seasoned investors by understanding essential factors such as minimum
+  investment requirements and algorithmic trading. This article provides insights
+  into how these elements impact investment strategies, enabling you to align your
+  portfolio with evolving financial markets and achieve long-term objectives.
+title: Minimum Investment Requirements for Mutual Funds (Algo Trading)
 ---
 
 Investing provides a myriad of opportunities catering to both beginners embarking on their financial journeys and seasoned investors seeking to enhance their portfolios. Within this diverse landscape, mutual funds stand out as one of the most favored investment vehicles, primarily due to their inherent diversification and the expertise of professional fund managers overseeing them. By pooling resources from numerous investors, mutual funds offer access to a wide array of assets, which individually might be inaccessible to a typical investor.

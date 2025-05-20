@@ -1,6 +1,8 @@
 ---
-title: "Strategies of Hedge Funds (Algo Trading)"
-description: "Explore hedge funds and algorithmic trading strategies which utilize complex techniques for high returns Learn how they capitalize on market inefficiencies"
+category: trading_strategy
+description: Explore hedge funds and algorithmic trading strategies which utilize
+  complex techniques for high returns Learn how they capitalize on market inefficiencies
+title: Strategies of Hedge Funds (Algo Trading)
 ---
 
 Investment strategies play a vital role in the effective management of financial resources. Among the array of sophisticated approaches available, hedge funds and algorithmic (algo) trading are prominent due to their inherent complexity and the potential for high returns that they offer. Hedge funds, serving as alternative investment vehicles, utilize a diverse range of strategies to generate active returns for their investors. These strategies are designed to capitalize on market inefficiencies and often involve complex financial instruments.

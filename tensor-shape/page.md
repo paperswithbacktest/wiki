@@ -1,7 +1,8 @@
 ---
-title: Essential Guide to Tensor Shapes in Machine Learning
+category: quant_concept
 description: Tensor shape knowledge organizes and optimizes data for neural networks
   by mastering dimensions broadcasting and reshaping. Discover more inside.
+title: Essential Guide to Tensor Shapes in Machine Learning
 ---
 
 ![Image](images/1.jpeg)

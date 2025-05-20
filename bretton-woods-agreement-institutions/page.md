@@ -1,6 +1,9 @@
 ---
-title: "Bretton Woods Agreement and Its Institutions (Algo Trading)"
-description: "Explore the impact of the Bretton Woods Agreement on global finance by examining the roles of the World Bank and IMF alongside the rise of algorithmic trading"
+category: quant_concept
+description: Explore the impact of the Bretton Woods Agreement on global finance by
+  examining the roles of the World Bank and IMF alongside the rise of algorithmic
+  trading
+title: Bretton Woods Agreement and Its Institutions (Algo Trading)
 ---
 
 The global economic system has undergone significant transformations since the Bretton Woods Conference in 1944, which laid the foundation for modern international finance. This conference aimed to create a cooperative framework to prevent the economic instability that characterized the interwar period. As a result, two pivotal institutions were established: the World Bank and the International Monetary Fund (IMF).

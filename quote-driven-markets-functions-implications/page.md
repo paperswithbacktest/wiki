@@ -1,6 +1,9 @@
 ---
-title: "Quote-Driven Markets: Functions and Implications (Algo Trading)"
-description: "Explore the functions and implications of quote-driven markets in algorithmic trading Learn how market makers enhance liquidity and efficiency while maintaining price stability"
+category: quant_concept
+description: Explore the functions and implications of quote-driven markets in algorithmic
+  trading Learn how market makers enhance liquidity and efficiency while maintaining
+  price stability
+title: 'Quote-Driven Markets: Functions and Implications (Algo Trading)'
 ---
 
 In the ever-evolving world of financial markets, understanding the intricacies of different trading systems is crucial for investors and traders. One fundamental concept within this realm is the quote-driven market, also referred to as a price-driven market. In this system, market makers or dealers set prices through buy and sell quotations. This contrasts with the order-driven market, where prices are dictated by the order flow from buyers and sellers. Quote-driven markets prevail in trading areas like bond, currency, and commodity markets, offering liquidity through dealers who commit to honoring their quoted prices.

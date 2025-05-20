@@ -1,6 +1,8 @@
 ---
-title: "Premium to Net Asset Value (Algo Trading)"
-description: "Explore how Premium to Net Asset Value (NAV) and algorithmic trading transform investment strategies by leveraging modern technology for optimal returns."
+category: trading_strategy
+description: Explore how Premium to Net Asset Value (NAV) and algorithmic trading
+  transform investment strategies by leveraging modern technology for optimal returns.
+title: Premium to Net Asset Value (Algo Trading)
 ---
 
 The investment landscape is continuously evolving, with technological advancements reshaping traditional approaches. Investors and traders are increasingly leveraging sophisticated tools and methods to optimize returns and manage risk. One of the significant shifts is the fusion of premium investment, net asset value (NAV) calculations, and algorithmic trading.

@@ -1,6 +1,8 @@
 ---
-title: "LIBOR-in-Arrears Swap Mechanics and Functionality (Algo Trading)"
-description: "Discover the mechanics and functionality of LIBOR-in-Arrears swaps within algorithmic trading Essential for managing interest rate risks and optimizing strategies"
+category: quant_concept
+description: Discover the mechanics and functionality of LIBOR-in-Arrears swaps within
+  algorithmic trading Essential for managing interest rate risks and optimizing strategies
+title: LIBOR-in-Arrears Swap Mechanics and Functionality (Algo Trading)
 ---
 
 Financial derivatives serve as essential instruments in contemporary finance, facilitating the management of risk and the optimization of investment strategies. Among these derivatives, interest rate swaps are particularly pivotal, enabling entities to manage their exposure to variations in interest rates effectively. These financial contracts involve the exchange of cash flows between parties, where typically one party pays a fixed interest rate while the other pays a floating rate, often based on benchmark rates such as the London Interbank Offered Rate (LIBOR) or the Secured Overnight Financing Rate (SOFR). 
@@ -158,4 +160,3 @@ Additional learning can be augmented by engaging with academic articles and indu
 Industry reports from major financial institutions, consultancy firms, and regulatory bodies also serve as valuable resources. These documents offer recent insights into market trends, regulatory changes, and technological advancements affecting the use of derivatives and algorithmic trading strategies. 
 
 Engaging with these resources not only enriches one's understanding of financial derivatives and their integration with algorithmic trading but also equips individuals with the tools necessary to adapt to and capitalize on the rapidly evolving financial landscape.
-

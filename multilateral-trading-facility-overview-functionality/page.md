@@ -1,6 +1,9 @@
 ---
-title: "Multilateral Trading Facility: Overview and Functionality (Algo Trading)"
-description: "Discover the advantages and functionalities of Multilateral Trading Facilities and how they offer enhanced liquidity and diverse trading opportunities in the financial market."
+category: quant_concept
+description: Discover the advantages and functionalities of Multilateral Trading Facilities
+  and how they offer enhanced liquidity and diverse trading opportunities in the financial
+  market.
+title: 'Multilateral Trading Facility: Overview and Functionality (Algo Trading)'
 ---
 
 The financial world is constantly evolving, and among its recent innovations is the Multilateral Trading Facility (MTF). MTFs represent a significant advancement in the trading landscape, offering investors a modernized platform for the exchange of financial instruments. These facilities serve as an alternative to traditional trading venues, providing increased flexibility and a broader range of trading opportunities. MTFs have emerged as a key component in the financial ecosystem, meeting the needs of investors seeking diverse options beyond conventional exchanges.

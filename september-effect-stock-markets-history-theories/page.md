@@ -1,6 +1,14 @@
 ---
-title: "September Effect in Stock Markets: History and Theories (Algo Trading)"
-description: "Explore the phenomenon known as the September Effect in stock markets and its historical significance. This page investigates into the recurring trend of underperformance in September, particularly in U.S. markets, and examines potential causes like investor psychology and institutional behaviors. The content provides insights into how these anomalies challenge the Efficient Market Hypothesis and offers strategies for investors to adapt their approaches to capitalize on or mitigate associated risks. Understanding these patterns could improve investment strategies by leveraging or counteracting predictable market behaviors in September."
+category: quant_concept
+description: Explore the phenomenon known as the September Effect in stock markets
+  and its historical significance. This page investigates into the recurring trend
+  of underperformance in September, particularly in U.S. markets, and examines potential
+  causes like investor psychology and institutional behaviors. The content provides
+  insights into how these anomalies challenge the Efficient Market Hypothesis and
+  offers strategies for investors to adapt their approaches to capitalize on or mitigate
+  associated risks. Understanding these patterns could improve investment strategies
+  by leveraging or counteracting predictable market behaviors in September.
+title: 'September Effect in Stock Markets: History and Theories (Algo Trading)'
 ---
 
 Stock market trends have long captivated investors, analysts, and economists, serving as critical indicators of economic health and offering insights for investment decisions. Among these trends, the "September Effect" stands out due to its historical significance and recurring presence. The September Effect is a perceived market anomaly whereby stock indices, particularly in the United States, have historically underperformed in the month of September compared to other months. This phenomenon has puzzled market observers and analysts, drawing attention to its potential causes and implications for investors.

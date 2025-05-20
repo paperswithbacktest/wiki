@@ -1,6 +1,8 @@
 ---
-title: "Feed-In Tariff: Overview and Applications (Algo Trading)"
-description: "Explore how Feed-in Tariffs and algorithmic trading revolutionize renewable energy adoption and market efficiency shaping sustainable energy policy."
+category: quant_concept
+description: Explore how Feed-in Tariffs and algorithmic trading revolutionize renewable
+  energy adoption and market efficiency shaping sustainable energy policy.
+title: 'Feed-In Tariff: Overview and Applications (Algo Trading)'
 ---
 
 In this article, we will explore how various energy incentives are shaping the renewable energy landscape, focusing particularly on the Feed-in Tariff (FiT) and its impact on sustainable energy policy. Feed-in Tariffs have emerged as a significant tool for boosting the adoption of renewable technologies by ensuring that energy producers receive fixed payments for their contributions to the grid. This financial mechanism reduces the risk for investors and promotes the development of alternative energy sources like solar and wind.

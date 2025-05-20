@@ -1,6 +1,11 @@
 ---
-title: "Loan-to-Cost Ratio Explanation and Calculation (Algo Trading)"
-description: "Explore the critical role of the Loan-to-Cost ratio in real estate financing and its integration with algorithmic trading. This article investigates into how the LTC ratio helps assess investment feasibility and risk, while highlighting the innovative integration of technology in real estate investments for optimized decision-making and enhanced portfolio management."
+category: quant_concept
+description: Explore the critical role of the Loan-to-Cost ratio in real estate financing
+  and its integration with algorithmic trading. This article investigates into how
+  the LTC ratio helps assess investment feasibility and risk, while highlighting the
+  innovative integration of technology in real estate investments for optimized decision-making
+  and enhanced portfolio management.
+title: Loan-to-Cost Ratio Explanation and Calculation (Algo Trading)
 ---
 
 Real estate financing is a cornerstone of property investment, providing the necessary capital for purchasing, developing, or refinancing real estate assets. At its core, it involves a range of financial arrangements that enable the acquisition or improvement of property, typically through loans secured by the property itself. A critical metric within this domain is the Loan-to-Cost (LTC) ratio, which measures the proportion of loan financing against the total cost of the real estate project. The LTC ratio is crucial for assessing the feasibility and risk associated with property investments, as it helps both investors and lenders determine the level of financial leverage and potential return on investment.

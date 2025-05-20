@@ -1,7 +1,8 @@
 ---
-title: Mastering Sentiment Analysis in Machine Learning Applications
+category: quant_concept
 description: Sentiment Analysis uses machine learning to decode emotions in customer
   feedback and social media for actionable insights in real time Discover more inside
+title: Mastering Sentiment Analysis in Machine Learning Applications
 ---
 
 ![Image](images/1.png)

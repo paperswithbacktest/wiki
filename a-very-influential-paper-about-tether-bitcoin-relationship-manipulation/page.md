@@ -1,6 +1,13 @@
 ---
-title: "A Very Influential Paper About Tether-Bitcoin Relationship (Manipulation?)"
-description: Explore the intricate dynamics of the Tether-Bitcoin relationship and market stability in this detailed analysis of Griffin and Schams' influential research. Delve into the controversies and potential manipulation within the cryptocurrency ecosystem as this article examines Tether's impact on Bitcoin's volatility, trading practices, and market transparency. Discover the nuances of stablecoin influence on digital asset valuation and the broader implications for traders, investors, and regulators aiming to ensure integrity in crypto markets.
+category: quant_concept
+description: Explore the intricate dynamics of the Tether-Bitcoin relationship and
+  market stability in this detailed analysis of Griffin and Schams' influential research.
+  Delve into the controversies and potential manipulation within the cryptocurrency
+  ecosystem as this article examines Tether's impact on Bitcoin's volatility, trading
+  practices, and market transparency. Discover the nuances of stablecoin influence
+  on digital asset valuation and the broader implications for traders, investors,
+  and regulators aiming to ensure integrity in crypto markets.
+title: A Very Influential Paper About Tether-Bitcoin Relationship (Manipulation?)
 ---
 
 The cryptocurrency landscape has experienced significant transformation over the past decade. Central to this transformation is Bitcoin, a decentralized digital currency that has gained both massive popularity and immense scrutiny. Launched in 2009 by the pseudonymous Satoshi Nakamoto, Bitcoin introduced a novel financial paradigm by offering a peer-to-peer network for transactions independent of centralized financial institutions. Its intrinsic features, such as censorship resistance, limited supply, and decentralized governance, have positioned it at the forefront of the crypto revolution. Despite its achievements, Bitcoin has faced challenges, notably the price volatility and environmental concerns related to its proof-of-work consensus mechanism.

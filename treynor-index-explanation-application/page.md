@@ -1,6 +1,8 @@
 ---
-title: "Treynor Index: Explanation and Application (Algo Trading)"
-description: "Optimize your investment strategies with the Treynor Index, a key metric for assessing risk-adjusted returns crucial for investors and algorithmic traders."
+category: quant_concept
+description: Optimize your investment strategies with the Treynor Index, a key metric
+  for assessing risk-adjusted returns crucial for investors and algorithmic traders.
+title: 'Treynor Index: Explanation and Application (Algo Trading)'
 ---
 
 The world of finance continually seeks innovative strategies to assess investment performance, with the Treynor Index emerging as a key tool for evaluating risk-adjusted returns. This metric is particularly significant at the intersection of traditional investment evaluation and modern algorithmic trading. The Treynor Index provides a valuable measurement of market-related risks, allowing investors and traders to optimize their strategies. By focusing on systematic risk, it offers insights into the performance of portfolios relative to the broader market. In doing so, it assists in precisely assessing the effectiveness of investment decisions. Understanding how the Treynor Index functions in these contexts is crucial for making informed and robust investment choices.

@@ -1,6 +1,13 @@
 ---
-title: "Index arbitrage (Algo Trading)"
-description: Discover the intricacies of index arbitrage, a trading strategy that exploits discrepancies between an index's market price and its theoretical value derived from component stocks. Integral to algorithmic trading, this strategy leverages automated systems for precise, real-time transactions, allowing traders to capitalize on price inefficiencies in index-tracking products like ETFs and index futures. Learn how traders minimize risks while enhancing speed and accuracy to secure potential profits in an evolving financial landscape.
+category: trading_strategy
+description: Discover the intricacies of index arbitrage, a trading strategy that
+  exploits discrepancies between an index's market price and its theoretical value
+  derived from component stocks. Integral to algorithmic trading, this strategy leverages
+  automated systems for precise, real-time transactions, allowing traders to capitalize
+  on price inefficiencies in index-tracking products like ETFs and index futures.
+  Learn how traders minimize risks while enhancing speed and accuracy to secure potential
+  profits in an evolving financial landscape.
+title: Index arbitrage (Algo Trading)
 ---
 
 Index arbitrage is a sophisticated trading strategy aimed at capitalizing on the differences between an index's actual market price and the theoretical value derived from its individual components. This form of arbitrage falls under the umbrella of statistical arbitrage, where the trader doesn't merely speculate but exploits quantifiable statistical correlations and inefficiencies. By pinpointing these discrepancies, traders can potentially lock in profits with minimal risk. 

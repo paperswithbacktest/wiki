@@ -1,6 +1,8 @@
 ---
-title: "Robo-Advisor Tax-Loss Harvesting (Algo Trading)"
-description: "Discover how robo-advisors, tax-loss harvesting, and algorithmic trading are revolutionizing investment strategies for optimal portfolio management."
+category: trading_strategy
+description: Discover how robo-advisors, tax-loss harvesting, and algorithmic trading
+  are revolutionizing investment strategies for optimal portfolio management.
+title: Robo-Advisor Tax-Loss Harvesting (Algo Trading)
 ---
 
 In the rapidly evolving world of finance, technology is significantly influencing investment strategies. The advent of robo-advisors, tax-loss harvesting, and algorithmic trading is fundamentally reshaping how investors manage their portfolios. This article aims to explore these innovative tools and strategies, providing a comprehensive understanding of their impact on investment management.

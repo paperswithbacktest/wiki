@@ -1,6 +1,8 @@
 ---
-title: "Analysis of Walt Disney Stock Dividends (Algo Trading)"
-description: "Discover key insights on Walt Disney's stock dividends and explore the role of algorithmic trading in optimizing investment strategies for potential returns."
+category: trading_strategy
+description: Discover key insights on Walt Disney's stock dividends and explore the
+  role of algorithmic trading in optimizing investment strategies for potential returns.
+title: Analysis of Walt Disney Stock Dividends (Algo Trading)
 ---
 
 The Walt Disney Company, commonly referred to as Disney (NYSE: DIS), is a leading entity within the global entertainment industry, renowned for its wide-ranging operations spanning media networks, theme parks, studio entertainment, and consumer products. Founded in 1923, Disney has built a significant presence across multiple platforms, establishing itself as a formidable brand synonymous with family entertainment, innovation, and creativity. Its portfolio includes renowned assets like ABC, ESPN, Pixar, Marvel, Lucasfilm, and the incomparable Disney theme parks that attract millions of visitors annually. This vast array of operations not only solidifies Disney's status as an entertainment giant but also underscores the complex nature of evaluating its financial undertakings, particularly its stock investments and dividend policies.

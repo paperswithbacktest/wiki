@@ -1,6 +1,8 @@
 ---
-title: "Income Bond: Overview and Role in Debt Restructuring (Algo Trading)"
-description: "Explore the role of income bonds and debt restructuring in corporate finance and how algorithmic trading enhances market participation and decision-making."
+category: quant_concept
+description: Explore the role of income bonds and debt restructuring in corporate
+  finance and how algorithmic trading enhances market participation and decision-making.
+title: 'Income Bond: Overview and Role in Debt Restructuring (Algo Trading)'
 ---
 
 The world of finance is intricate, with numerous instruments offering varied benefits and risks. Companies often employ specific financial instruments to navigate their complex environments effectively. Among these, income bonds and debt restructuring are pivotal tools, especially for companies facing financial difficulties. These instruments play a crucial role by providing flexibility and easing financial pressures that might otherwise lead to insolvency or severe financial hardship.

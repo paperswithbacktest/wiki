@@ -1,6 +1,9 @@
 ---
-title: "Count: Definition, Functionality, Varieties (Algo Trading)"
-description: "Explore the essentials of counting techniques in algorithmic trading learn how permutations combinations and factorials enhance trading strategies and risk management."
+category: quant_concept
+description: Explore the essentials of counting techniques in algorithmic trading
+  learn how permutations combinations and factorials enhance trading strategies and
+  risk management.
+title: 'Count: Definition, Functionality, Varieties (Algo Trading)'
 ---
 
 Algorithmic trading represents a fusion of mathematics, technology, and finance, leveraging these disciplines to execute trades at unparalleled speeds. This rapid execution is achieved through the use of complex algorithms that analyze market data and execute trades with minimal human intervention. The backbone of this system lies in the mathematical principles that underpin it. A thorough understanding of these principles can provide traders with a significant advantage by optimizing strategies and managing risks more effectively.

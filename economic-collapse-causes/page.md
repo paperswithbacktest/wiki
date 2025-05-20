@@ -1,6 +1,8 @@
 ---
-title: "Economic Collapse and Causes (Algo Trading)"
-description: "Explore the causes of economic collapse and financial crises, and understand the impact of algorithmic trading on market stability during economic downturns."
+category: quant_concept
+description: Explore the causes of economic collapse and financial crises, and understand
+  the impact of algorithmic trading on market stability during economic downturns.
+title: Economic Collapse and Causes (Algo Trading)
 ---
 
 Economic collapse, downturns, and financial crises are events that have persistently influenced global economies, societal structures, and individual livelihoods. These phenomena are intricately linked to the cyclical nature of economies, characterized by periods of growth and contraction. While economic recessions are natural and expected phases within economic cycles, they can sometimes escalate into severe economic collapses if not managed synergistically through effective policies and interventions. Such collapses lead to significant disruptions across financial markets and labor structures, potentially resulting in long-term depressions.

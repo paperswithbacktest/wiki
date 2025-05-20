@@ -1,6 +1,8 @@
 ---
-title: "Option Moneyness: Concepts and Valuation (Algo Trading)"
-description: "Explore the concepts of option moneyness and valuation in algorithmic trading Uncover how moneyness impacts options trading profitability and decision-making"
+category: quant_concept
+description: Explore the concepts of option moneyness and valuation in algorithmic
+  trading Uncover how moneyness impacts options trading profitability and decision-making
+title: 'Option Moneyness: Concepts and Valuation (Algo Trading)'
 ---
 
 Financial derivatives, particularly options, are essential instruments in modern finance. These instruments derive their value from an underlying asset, such as stocks, commodities, or indices, offering traders the flexibility to hedge risk or speculate on market movements without directly owning the assets. Options, a prominent category of derivatives, grant the buyer the right, but not the obligation, to buy (call option) or sell (put option) an asset at a predetermined strike price before or at expiration.

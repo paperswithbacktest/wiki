@@ -1,6 +1,8 @@
 ---
-title: "Maintenance Margin and Comparison to Margin Accounts (Algo Trading)"
-description: "Explore the critical role of maintenance margin in algo trading. Learn how it safeguards investments by managing equity levels in margin accounts."
+category: quant_concept
+description: Explore the critical role of maintenance margin in algo trading. Learn
+  how it safeguards investments by managing equity levels in margin accounts.
+title: Maintenance Margin and Comparison to Margin Accounts (Algo Trading)
 ---
 
 The world of trading and finance is vast and complex, incorporating various concepts and strategies to optimize returns. A critical element within this sphere is the 'maintenance margin,' particularly relevant in margin accounts and algorithmic trading. At its core, maintenance margin is the minimum amount of equity that must be maintained in a margin account subsequent to securities' purchase. This serves as a safeguard against market volatility and potential financial losses, ensuring that traders remain within the bounds of their broker's lending terms. 
@@ -117,4 +119,3 @@ Lopez de Prado, M. (2018). *Advances in Financial Machine Learning*. Wiley. This
 Jansen, S. (2020). *Machine Learning for Algorithmic Trading - Second Edition*. Packt Publishing. An insightful guide on employing machine learning in trading algorithms, this book discusses various strategies, risk management, and the pivotal role of maintenance margins in ensuring that trading algorithms operate within safe boundaries.
 
 Chan, E. P. (2009). *Quantitative Trading: How to Build Your Own Algorithmic Trading Business*. Wiley. This resource provides practical insights into setting up an algorithmic trading business, offering essential guidance on managing risk and maintaining margins essential for successful trading in volatile financial markets.
-

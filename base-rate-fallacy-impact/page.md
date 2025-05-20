@@ -1,6 +1,9 @@
 ---
-title: "Base Rate Fallacy and Its Impact (Algo Trading)"
-description: "Explore the base rate fallacy's influence on algorithmic trading by understanding cognitive biases that can skew data-driven decision-making, impacting financial outcomes."
+category: quant_concept
+description: Explore the base rate fallacy's influence on algorithmic trading by understanding
+  cognitive biases that can skew data-driven decision-making, impacting financial
+  outcomes.
+title: Base Rate Fallacy and Its Impact (Algo Trading)
 ---
 
 Algorithmic trading, often referred to as algo trading, fundamentally depends on the execution of trades based on quantitative models and predefined instructions that consider time, price, and volume. The reliance on automation and data-driven decision-making seeks to capitalize on market nuances that are often invisible to the human trader. However, despite the apparent objectivity of algorithmic systems, human cognitive biases can inadvertently infiltrate these processes, leading to potential suboptimal outcomes.

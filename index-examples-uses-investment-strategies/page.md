@@ -1,6 +1,8 @@
 ---
-title: "Index: Examples, Uses, and Investment Strategies (Algo Trading)"
-description: "Explore the significance of financial indexes in algo trading with examples and strategies to optimize investment decisions through effective index investing."
+category: trading_strategy
+description: Explore the significance of financial indexes in algo trading with examples
+  and strategies to optimize investment decisions through effective index investing.
+title: 'Index: Examples, Uses, and Investment Strategies (Algo Trading)'
 ---
 
 Indexes hold significant importance in the financial world, serving as crucial benchmarks that capture the performance of various market segments. Investors rely on these indexes to gain insights into market trends and make informed decisions. Indexes such as the Dow Jones Industrial Average and the S&P 500 track the general health of the stock market, offering a snapshot of overall market performance. By representing a basket of securities, indexes provide a transparent view of a given market or sector's performance over time.

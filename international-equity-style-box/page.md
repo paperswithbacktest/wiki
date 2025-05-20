@@ -1,6 +1,9 @@
 ---
-title: "International Equity Style Box (Algo Trading)"
-description: "Explore international equity style boxes and algo trading to enhance portfolio diversification and performance. Learn strategies for global investment success."
+category: quant_concept
+description: Explore international equity style boxes and algo trading to enhance
+  portfolio diversification and performance. Learn strategies for global investment
+  success.
+title: International Equity Style Box (Algo Trading)
 ---
 
 Understanding the basics of international investing and the equity style box is crucial for investors looking to diversify their portfolios globally. International investing allows investors to access markets beyond their home country, offering exposure to different economic environments, growth opportunities, and diversification benefits. By investing across various geographies, investors can mitigate the risks associated with domestic market downturns and capitalize on the growth potential of emerging markets.

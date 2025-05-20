@@ -1,6 +1,8 @@
 ---
-title: "Interlisted Stock (Algo Trading)"
-description: "Explore the benefits and intricacies of dual listing and interlisted stocks in global markets with insights into algorithmic trading's impact on liquidity."
+category: quant_concept
+description: Explore the benefits and intricacies of dual listing and interlisted
+  stocks in global markets with insights into algorithmic trading's impact on liquidity.
+title: Interlisted Stock (Algo Trading)
 ---
 
 In today's global financial markets, understanding the intricacies of dual listing and interlisting is crucial for investors and companies. Dual listing refers to the process of a company being listed on more than one stock exchange. This approach offers numerous advantages, including enhanced liquidity and broader access to a diverse investor base. By being present on multiple exchanges, a company can attract more investors, which often results in greater trading volume and improved stock liquidity. 

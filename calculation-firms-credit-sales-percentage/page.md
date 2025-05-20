@@ -1,6 +1,8 @@
 ---
-title: "Calculation of Firm's Credit Sales Percentage (Algo Trading)"
-description: "Discover how calculating a firm's credit sales percentage and utilizing algorithmic trading can enhance financial health efficiency and market competitiveness."
+category: quant_concept
+description: Discover how calculating a firm's credit sales percentage and utilizing
+  algorithmic trading can enhance financial health efficiency and market competitiveness.
+title: Calculation of Firm's Credit Sales Percentage (Algo Trading)
 ---
 
 In the rapidly evolving world of finance, understanding key metrics like credit sales percentage is vital for firms striving to maintain liquidity and operational efficiency. As businesses expand and financial markets become increasingly complex, having a firm grasp of financial metrics helps organizations make informed decisions, ensuring sustainability and growth. The credit sales percentage is one such critical metric that enables firms to evaluate the proportion of sales made on credit, providing insights into cash flow management and financial health.

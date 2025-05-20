@@ -1,6 +1,13 @@
 ---
-title: "Financial Advisor Fee Structures (Algo Trading)"
-description: "Discover the dynamic landscape of financial advisory fee structures and the influence of algorithmic trading on advisory costs. Gain insights into the various pricing models employed by advisors including hourly fixed asset-based and commission-based fees and understand how these impact investment strategies and financial goals. Explore how the integration of algorithmic trading reshapes advisory services by enhancing efficiency and potentially reducing costs enabling investors to make more informed financial decisions."
+category: quant_concept
+description: Discover the dynamic landscape of financial advisory fee structures and
+  the influence of algorithmic trading on advisory costs. Gain insights into the various
+  pricing models employed by advisors including hourly fixed asset-based and commission-based
+  fees and understand how these impact investment strategies and financial goals.
+  Explore how the integration of algorithmic trading reshapes advisory services by
+  enhancing efficiency and potentially reducing costs enabling investors to make more
+  informed financial decisions.
+title: Financial Advisor Fee Structures (Algo Trading)
 ---
 
 In today's complex financial environment, understanding the costs associated with financial advisory services is crucial for investors. Financial advisory fees can vary significantly depending on the advisor's fee structure and the services offered. Advisors generally charge fees in several ways, such as hourly rates, fixed fees, asset-based fees, or commission-based fees. Each structure offers distinctive features and potential implications for both the advisor and the investor, influencing how advisory services are utilized to reach financial goals.

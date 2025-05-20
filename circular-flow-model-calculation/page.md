@@ -1,6 +1,15 @@
 ---
-title: "Circular Flow Model and Calculation (Algo Trading)"
-description: "Explore the complexities of modern economies with our insightful analysis on the circular flow model and financial flows within algorithmic trading. Discover how the movement of money, goods, and services between producers and consumers forms the backbone of economic stability. Learn how financial flow models outline capital circulation through investments and government spending, offering critical insights for policymakers. Uncover how algorithmic trading reshapes market dynamics through rapid technological advancements, providing a new perspective on economic forecasting and analysis. This comprehensive exploration arms stakeholders with the knowledge needed to navigate today's fast-paced financial systems."
+category: quant_concept
+description: Explore the complexities of modern economies with our insightful analysis
+  on the circular flow model and financial flows within algorithmic trading. Discover
+  how the movement of money, goods, and services between producers and consumers forms
+  the backbone of economic stability. Learn how financial flow models outline capital
+  circulation through investments and government spending, offering critical insights
+  for policymakers. Uncover how algorithmic trading reshapes market dynamics through
+  rapid technological advancements, providing a new perspective on economic forecasting
+  and analysis. This comprehensive exploration arms stakeholders with the knowledge
+  needed to navigate today's fast-paced financial systems.
+title: Circular Flow Model and Calculation (Algo Trading)
 ---
 
 Modern economies are intricate systems characterized by a multitude of interactions and exchanges. To decipher these complexities, economists have developed various models and tools that portray the dynamics of financial systems. Among these, the circular economy and financial flow models hold a significant position in illustrating how modern economies function and sustain themselves.

@@ -1,6 +1,8 @@
 ---
-title: "Orderly Market: Definition and Function (Algo Trading)"
-description: "Explore the role of algorithmic trading and market making in maintaining orderly markets to enhance market efficiency, price stability, and economic growth."
+category: quant_concept
+description: Explore the role of algorithmic trading and market making in maintaining
+  orderly markets to enhance market efficiency, price stability, and economic growth.
+title: 'Orderly Market: Definition and Function (Algo Trading)'
 ---
 
 Understanding the mechanisms of market function economics is essential for investors and traders navigating today's dynamic financial landscape. These mechanisms ensure that financial markets operate efficiently, facilitating the smooth exchange of assets at prices that reflect their true values. This concept is critical as orderly markets are foundational to investor confidence and economic growth. 

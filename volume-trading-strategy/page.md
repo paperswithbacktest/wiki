@@ -1,6 +1,11 @@
 ---
-title: "Volume trading strategy"
-description: Uncover the power of trading volume in identifying market trends and sentiment with our comprehensive guide to volume trading strategies. From the basics of volume analysis to advanced indicators like Chaikin Money Flow (CMF) and Negative Volume Index (NVI), learn how to interpret volume data and enhance your trading decisions.
+category: trading_strategy
+description: Uncover the power of trading volume in identifying market trends and
+  sentiment with our comprehensive guide to volume trading strategies. From the basics
+  of volume analysis to advanced indicators like Chaikin Money Flow (CMF) and Negative
+  Volume Index (NVI), learn how to interpret volume data and enhance your trading
+  decisions.
+title: Volume trading strategy
 ---
 
 Volume Trading Strategy harnesses the market's transactional heartbeat, measuring the number of shares or contracts traded to gauge the intensity behind price movements. Unlike price action alone, volume provides a depth of information, revealing the strength or weakness of market trends and trader commitment to current prices.

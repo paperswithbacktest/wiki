@@ -1,6 +1,8 @@
 ---
-title: "Intangible Costs and Tangible Costs: Overview and Examples (Algo Trading)"
-description: "Explore tangible and intangible costs in algorithmic trading to optimize your strategies. Learn how these costs impact profitability and decision-making."
+category: quant_concept
+description: Explore tangible and intangible costs in algorithmic trading to optimize
+  your strategies. Learn how these costs impact profitability and decision-making.
+title: 'Intangible Costs and Tangible Costs: Overview and Examples (Algo Trading)'
 ---
 
 Algorithmic trading, often referred to as algo trading, is a popular method that employs automated and sophisticated algorithms to execute financial transactions at high speed and volume. It involves using pre-defined instructions based on various factors such as timing, price, and volume, enabling traders to perform a large number of trades within milliseconds. The efficiency offered by algorithmic trading has radically transformed financial markets, enabling continuous trade execution with minimal human intervention, thus reducing the impact of human psychology and error.

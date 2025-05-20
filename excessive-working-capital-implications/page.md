@@ -1,6 +1,8 @@
 ---
-title: "Implications of Excessive Working Capital (Algo Trading)"
-description: "Explore the impact of excessive working capital in algorithmic trading and discover strategies to improve financial management and operational efficiency."
+category: trading_strategy
+description: Explore the impact of excessive working capital in algorithmic trading
+  and discover strategies to improve financial management and operational efficiency.
+title: Implications of Excessive Working Capital (Algo Trading)
 ---
 
 In today's rapidly evolving business landscape, effective financial management is essential for sustaining growth and ensuring stability. As businesses contend with dynamic market conditions, globalization, and technological advancement, maintaining sound financial strategies becomes increasingly critical. The integration of business finance, financial management, working capital, and algorithmic trading forms a comprehensive approach to achieving financial success.
@@ -163,4 +165,3 @@ Aronson, D. "Evidence-Based Technical Analysis" emphasizes a scientific approach
 Jansen, S. "Machine Learning for Algorithmic Trading" offers practical insights into using machine learning techniques to design and deploy trading strategies. It covers a broad range of topics from predictive modeling to executing and managing risk in trading systems.
 
 Chan, E. P. "Quantitative Trading" serves as a guide for developing systematic trading strategies from quantitative research methods. It is particularly useful for professionals aiming to develop strategies that are data-driven and rely on quantitative analysis.
-

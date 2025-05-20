@@ -1,6 +1,8 @@
 ---
-title: "Prisoner's Dilemma in Business and Economy (Algo Trading)"
-description: "Discover how the Prisoner's Dilemma in game theory influences strategic decision-making in business, especially through the lens of algorithmic trading."
+category: quant_concept
+description: Discover how the Prisoner's Dilemma in game theory influences strategic
+  decision-making in business, especially through the lens of algorithmic trading.
+title: Prisoner's Dilemma in Business and Economy (Algo Trading)
 ---
 
 Economic theory provides a framework to understand market dynamics, consumer behavior, and the allocation of resources. It helps businesses develop strategies by offering insights into how markets operate and the factors that drive competition and cooperation. Essential to this is game theory, a branch of mathematics that examines strategic interactions between rational decision-makers. Within game theory, the Prisoner's Dilemma stands out as a critical concept. It illustrates a scenario where two individuals, acting in their self-interest, may end up worse off than if they had cooperated, highlighting the complexities of decision-making in competitive environments.

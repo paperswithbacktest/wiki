@@ -1,6 +1,11 @@
 ---
-title: "Institutional Trading (Algo Trading)"
-description: Explore the role of institutional trading in algorithmic markets highlighting how banks hedge funds and proprietary firms utilize sophisticated algorithms for high-frequency trading. These institutions leverage advanced technology and financial instruments ensuring rapid execution and improved market efficiency while addressing challenges like tech dependency and market volatility.
+category: quant_concept
+description: Explore the role of institutional trading in algorithmic markets highlighting
+  how banks hedge funds and proprietary firms utilize sophisticated algorithms for
+  high-frequency trading. These institutions leverage advanced technology and financial
+  instruments ensuring rapid execution and improved market efficiency while addressing
+  challenges like tech dependency and market volatility.
+title: Institutional Trading (Algo Trading)
 ---
 
 Algorithmic trading, commonly known as algo trading, represents a significant shift in the financial trading landscape. Unlike the traditional manual trading processes, algo trading leverages sophisticated computer programs and algorithms to execute trades at speeds and volumes humans cannot match. These algorithms are designed based on preset conditions that dictate optimal trading moments, enabling execution with precision and efficiency.

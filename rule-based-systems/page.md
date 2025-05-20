@@ -1,7 +1,8 @@
 ---
-title: Understanding Rule-Based Systems in Machine Learning and AI
+category: quant_concept
 description: Rule-based systems in machine learning deliver clear decisions with if-then
   rules and AI integration to enhance automation Discover more inside
+title: Understanding Rule-Based Systems in Machine Learning and AI
 ---
 
 ![Image](images/1.png)

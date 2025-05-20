@@ -1,6 +1,8 @@
 ---
-title: "Liquidity Preference Theory (Algo Trading)"
-description: "Explore the fusion of Keynesian liquidity preference theory with algorithmic trading strategies in finance. Discover insights into modern markets."
+category: quant_concept
+description: Explore the fusion of Keynesian liquidity preference theory with algorithmic
+  trading strategies in finance. Discover insights into modern markets.
+title: Liquidity Preference Theory (Algo Trading)
 ---
 
 John Maynard Keynes stands as a towering figure in the landscape of 20th-century economics. His groundbreaking work reshaped economic thought and policy, most notably through his development of liquidity preference theory. Introduced in his seminal work, "The General Theory of Employment, Interest, and Money," liquidity preference theory addresses the demand for money based on the motives of transactions, precaution, and speculation. This theory fundamentally altered how economists and policymakers understand interest rate determination, intertwining preferences for liquidity with broader economic conditions.

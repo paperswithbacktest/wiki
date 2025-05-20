@@ -1,6 +1,9 @@
 ---
-title: "Calculation and Importance of Net Debt (Algo Trading)"
-description: "Discover the calculation and significance of net debt in financial analysis and algorithmic trading enhance your understanding of corporate leverage and risk management."
+category: quant_concept
+description: Discover the calculation and significance of net debt in financial analysis
+  and algorithmic trading enhance your understanding of corporate leverage and risk
+  management.
+title: Calculation and Importance of Net Debt (Algo Trading)
 ---
 
 Understanding the financial health of a company is crucial for investors, analysts, and traders, as it dictates investment decisions and risk management strategies. Among the array of metrics available for financial evaluation, net debt stands out as a vital indicator of a company's leverage and risk profile. Net debt is calculated by subtracting a company's cash and cash equivalents from its total debt, providing a snapshot of how well a company can cover its debt obligations with available liquidity. This measure not only highlights potential financial stability or distress but also plays a significant role in shaping credit ratings and influencing borrowing costs.

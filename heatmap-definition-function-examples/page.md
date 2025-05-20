@@ -1,6 +1,9 @@
 ---
-title: "Heatmap: Definition, Function, and Examples (Algo Trading)"
-description: "Discover how heatmaps enhance algorithmic trading through clear data visualization of trends and patterns allowing for informed decision-making and strategy execution."
+category: quant_concept
+description: Discover how heatmaps enhance algorithmic trading through clear data
+  visualization of trends and patterns allowing for informed decision-making and strategy
+  execution.
+title: 'Heatmap: Definition, Function, and Examples (Algo Trading)'
 ---
 
 Algorithmic trading has fundamentally transformed the structure and functioning of financial markets, leveraging sophisticated algorithms to make trading decisions at a speed and frequency that human traders cannot match. This innovation has increased market efficiency, liquidity, and opened new frontiers for financial innovation. The trading decisions in algorithmic trading span a variety of strategies, from market making and arbitrage to statistical and machine learning models, all relying on the rapid processing and analysis of enormous volumes of financial data.

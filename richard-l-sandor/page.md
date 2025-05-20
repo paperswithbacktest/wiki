@@ -1,6 +1,8 @@
 ---
-title: "Richard L. Sandor (Algo Trading)"
-description: "Explore the evolution of financial markets with Richard Sandor's transformative impact on environmental finance and algorithmic trading for a sustainable future."
+category: quant_concept
+description: Explore the evolution of financial markets with Richard Sandor's transformative
+  impact on environmental finance and algorithmic trading for a sustainable future.
+title: Richard L. Sandor (Algo Trading)
 ---
 
 The financial markets have long served as a cornerstone of the global economy, exerting significant influence on economic growth and stability across nations. Traditionally dominated by considerations of profitability and efficiency, these markets are now witnessing the emergence of a transformative dimension: environmental finance. This integration marks a pivotal evolution in financial systems, aligning economic interests with environmental sustainability.

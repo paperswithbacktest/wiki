@@ -1,6 +1,12 @@
 ---
-title: "Cointegration (Algo Trading)"
-description: Explore the significance of cointegration in algorithmic trading, where it identifies long-term relationships between financial assets for profit through mean-reversion strategies. Delve into foundational theories by Granger and Engle, and learn methodologies like the Engle-Granger and Johansen tests for detecting cointegration. Discover practical applications and strategies to enhance trading performance by understanding these statistical concepts.
+category: quant_concept
+description: Explore the significance of cointegration in algorithmic trading, where
+  it identifies long-term relationships between financial assets for profit through
+  mean-reversion strategies. Delve into foundational theories by Granger and Engle,
+  and learn methodologies like the Engle-Granger and Johansen tests for detecting
+  cointegration. Discover practical applications and strategies to enhance trading
+  performance by understanding these statistical concepts.
+title: Cointegration (Algo Trading)
 ---
 
 Cointegration is a critical statistical concept in time series analysis that has found profound applications in algorithmic trading. The essence of cointegration lies in identifying and utilizing statistical relationships between paired or grouped financial assets to capitalize on mean-reversion strategies. When two or more non-stationary time series variables share a stochastic trend, their linear combination may remain stationary. This relationship characterizes them as cointegrated, signaling that despite individual variabilities, they move together in the long term.

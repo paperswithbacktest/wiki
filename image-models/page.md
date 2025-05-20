@@ -1,7 +1,8 @@
 ---
-title: Comprehensive Guide to Image Models in Machine Learning
+category: quant_concept
 description: Image models in machine learning explore CNNs transformers and transfer
   learning plus architecture insights and optimization tips Discover more inside.
+title: Comprehensive Guide to Image Models in Machine Learning
 ---
 
 ![Image](images/1.png)

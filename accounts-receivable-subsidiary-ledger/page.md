@@ -1,6 +1,8 @@
 ---
-title: "Accounts Receivable Subsidiary Ledger (Algo Trading)"
-description: "Explore the synergy between accounts receivable subsidiary ledgers and algorithmic trading to optimize financial records and enhance trading strategies."
+category: quant_concept
+description: Explore the synergy between accounts receivable subsidiary ledgers and
+  algorithmic trading to optimize financial records and enhance trading strategies.
+title: Accounts Receivable Subsidiary Ledger (Algo Trading)
 ---
 
 Managing financial records precisely is pivotal for any business's success in finance and accounting. A key component of this is the accounts receivable subsidiary ledger, which details customer credit transactions and helps maintain an accurate financial picture. As businesses increasingly adopt innovative strategies, merging traditional financial management with algorithmic trading presents both opportunities and challenges. 

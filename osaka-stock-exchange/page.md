@@ -1,6 +1,9 @@
 ---
-title: "Osaka Stock Exchange (Algo Trading)"
-description: "Explore the transformative role of the Osaka Stock Exchange in Japan's financial markets with a focus on algorithmic trading and derivatives within the JPX."
+category: quant_concept
+description: Explore the transformative role of the Osaka Stock Exchange in Japan's
+  financial markets with a focus on algorithmic trading and derivatives within the
+  JPX.
+title: Osaka Stock Exchange (Algo Trading)
 ---
 
 Japan stands as a significant force in the global financial markets, characterized by its advanced stock exchanges and vibrant securities environment. Among these, the Osaka Stock Exchange (OSE) holds substantial importance. Now integrated into the Japan Exchange Group (JPX), the OSE is pivotal within Japan's financial system, with a particular emphasis on derivatives trading. The OSE has not only adapted to but also spearheaded various advancements in financial trading, reflecting the broader economic evolution of Japan.

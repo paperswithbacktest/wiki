@@ -1,6 +1,9 @@
 ---
-title: "Short squeeze (Algo Trading)"
-description: "Explore how short squeezes impact algorithmic trading strategies by understanding their mechanics and exploiting market shifts, with insights drawn from historical events."
+category: quant_concept
+description: Explore how short squeezes impact algorithmic trading strategies by understanding
+  their mechanics and exploiting market shifts, with insights drawn from historical
+  events.
+title: Short squeeze (Algo Trading)
 ---
 
 In algorithmic trading, short squeezes represent a complex yet intriguing phenomenon that can lead to significant market disruptions. A short squeeze occurs when the price of a heavily shorted stock begins to rise unexpectedly, compelling short sellers to buy shares to cover their positions, thereby contributing to further price increases. This scenario unfolds due to a feedback loop where the upward price pressure forces additional buying, exacerbating the squeeze.
@@ -99,4 +102,3 @@ Sornette, D. (2003) in 'Why Stock Markets Crash: Critical Events in Complex Fina
 Bijl, L., et al. (2015) present a study titled 'Google searches and stock returns' in the International Review of Financial Analysis. The authors analyze the relationship between online search trends and stock price movements, providing empirical evidence on new predictors of market behavior, which can impact short squeeze occurrences.
 
 Ofek, E., & Richardson, M. (2003) discuss 'DotCom Mania: The Rise and Fall of Internet Stock Prices' in The Journal of Finance. Their research provides a historical perspective on market excesses and corrections, offering valuable lessons on the mechanics of speculative bubbles and short squeezes.
-

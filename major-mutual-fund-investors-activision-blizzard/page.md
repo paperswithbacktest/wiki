@@ -1,6 +1,9 @@
 ---
-title: "Major Mutual Fund Investors in Activision Blizzard (Algo Trading)"
-description: "Discover key mutual fund investments in Activision Blizzard and explore how algorithmic trading impacts the gaming and technology markets for strategic growth."
+category: dataset
+description: Discover key mutual fund investments in Activision Blizzard and explore
+  how algorithmic trading impacts the gaming and technology markets for strategic
+  growth.
+title: Major Mutual Fund Investors in Activision Blizzard (Algo Trading)
 ---
 
 Mutual fund investments in Activision Blizzard represent a significant area of interest within the financial markets, reflecting the enduring impact and substantial growth potential of the gaming and technology sectors. Activision Blizzard, a prominent player in the global gaming industry, has established itself as a key company with successful franchises such as Call of Duty and World of Warcraft. This article explores the dynamics of mutual fund investments in Activision Blizzard, with a particular focus on those funds employing algorithmic trading strategies.

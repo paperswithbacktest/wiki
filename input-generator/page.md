@@ -1,7 +1,8 @@
 ---
-title: Comprehensive Guide To Input Generators In Machine Learning
+category: quant_concept
 description: Input Generators create diverse synthetic and augmented training data
   to boost machine learning model accuracy and robustness Discover more inside.
+title: Comprehensive Guide To Input Generators In Machine Learning
 ---
 
 ![Image](images/1.jpeg)

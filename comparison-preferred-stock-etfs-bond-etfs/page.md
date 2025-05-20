@@ -1,6 +1,9 @@
 ---
-title: "Comparison of Preferred Stock ETFs and Bond ETFs (Algo Trading)"
-description: "Discover the pros and cons of preferred stock and bond ETFs, exploring their characteristics, advantages, and the role of algorithmic trading in building robust portfolios."
+category: trading_strategy
+description: Discover the pros and cons of preferred stock and bond ETFs, exploring
+  their characteristics, advantages, and the role of algorithmic trading in building
+  robust portfolios.
+title: Comparison of Preferred Stock ETFs and Bond ETFs (Algo Trading)
 ---
 
 In the world of investing, a myriad of options await, each with unique characteristics and benefits. Among the most versatile and accessible are Exchange-Traded Funds (ETFs), which have gained immense popularity for their diversity and convenience. ETFs, such as preferred stock ETFs and bond ETFs, offer investors exposure to various asset classes and are designed to mirror the returns of specific indices. This versatility allows investors to tailor their portfolios according to their risk tolerance and financial goals.

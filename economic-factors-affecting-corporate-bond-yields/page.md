@@ -1,6 +1,8 @@
 ---
-title: "Economic Factors Affecting Corporate Bond Yields (Algo Trading)"
-description: "Explore economic factors influencing corporate bond yields, including growth, inflation, and algorithmic trading, offering key insights for informed investing."
+category: quant_concept
+description: Explore economic factors influencing corporate bond yields, including
+  growth, inflation, and algorithmic trading, offering key insights for informed investing.
+title: Economic Factors Affecting Corporate Bond Yields (Algo Trading)
 ---
 
 Corporate bonds play a pivotal role in the financial markets by providing companies with an essential source of capital for growth and expansion. These financial instruments serve as a form of debt where companies borrow money from investors, who in return, receive periodic interest payments and the return of the bond's face value upon maturity. For investors, corporate bonds present a compelling alternative to equities, generally offering lower risk but competitive returns.

@@ -1,6 +1,11 @@
 ---
-title: "Price-Cap Regulation (Algo Trading)"
-description: "Explore the intricate dynamics of price-cap regulation and its role in controlling utility prices while fostering efficiency within monopoly industries. Learn how this regulatory approach, alongside algorithmic trading advancements, shapes economic policies and challenges market participants in balancing regulatory frameworks and innovation."
+category: quant_concept
+description: Explore the intricate dynamics of price-cap regulation and its role in
+  controlling utility prices while fostering efficiency within monopoly industries.
+  Learn how this regulatory approach, alongside algorithmic trading advancements,
+  shapes economic policies and challenges market participants in balancing regulatory
+  frameworks and innovation.
+title: Price-Cap Regulation (Algo Trading)
 ---
 
 Price-cap regulation is a pivotal economic policy tool designed to control the pricing behavior of natural monopoly industries, primarily in sectors like utilities. Originally developed in the United Kingdom, this regulatory approach permits utility companies to adjust prices within specified limits over a regulatory period, primarily considering factors such as inflation and potential efficiency gains. This mechanism aims to protect consumers from excessive prices while allowing firms to maintain profitability and encourage operational efficiency. The application of price-cap regulation has systematically evolved to balance consumer interests and the economic viability of utility providers, making it a vital aspect of economic policy.

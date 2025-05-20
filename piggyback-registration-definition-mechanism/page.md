@@ -1,6 +1,9 @@
 ---
-title: "Piggyback Registration: Definition and Mechanism (Algo Trading)"
-description: "Explore the intricacies of piggyback registration and algorithmic trading with our guide on securities financial terms essential for savvy investors in today’s market."
+category: quant_concept
+description: Explore the intricacies of piggyback registration and algorithmic trading
+  with our guide on securities financial terms essential for savvy investors in today’s
+  market.
+title: 'Piggyback Registration: Definition and Mechanism (Algo Trading)'
 ---
 
 In finance, understanding complex terms and strategies is crucial for successful investing. This article examines 'securities financial terms piggyback registration algo trading,' offering a comprehensive overview for both novice and seasoned investors. Securities trading, piggyback registration, and algorithmic trading are key components of the financial markets, each playing a unique role in investment strategies.

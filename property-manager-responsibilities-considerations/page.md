@@ -1,6 +1,9 @@
 ---
-title: "Property Manager Responsibilities and Considerations (Algo Trading)"
-description: "Explore the critical role of property managers in real estate investing including responsibilities from tenant management to legal compliance and algorithmic tools."
+category: quant_concept
+description: Explore the critical role of property managers in real estate investing
+  including responsibilities from tenant management to legal compliance and algorithmic
+  tools.
+title: Property Manager Responsibilities and Considerations (Algo Trading)
 ---
 
 The real estate market is currently experiencing significant growth, creating a fertile ground for investment opportunities and challenges alike. In this dynamic environment, the role of property managers is increasingly vital. Property managers are professionals responsible for managing the various operational and financial aspects of real estate properties. Their skill set includes the comprehensive oversight of both residential and commercial properties, ensuring these assets are well-maintained and financially viable.

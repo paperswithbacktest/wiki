@@ -1,6 +1,14 @@
 ---
-title: "Golden Cross Pattern: Analysis with Examples and Charts (Algo Trading)"
-description: "Discover the Golden Cross pattern in technical analysis, a key indicator for bullish market trends where a short-term moving average crosses above a long-term moving average. Learn how algorithmic trading leverages this pattern for automated strategies, using tools like Python for real-time market data analysis. Understand the role of moving averages in identifying market momentum and optimize trading entries while minimizing emotional biases. Enhance your trading strategy with insights on the Golden Cross, supported by examples and practical Python code snippets for effective signal detection."
+category: trading_strategy
+description: Discover the Golden Cross pattern in technical analysis, a key indicator
+  for bullish market trends where a short-term moving average crosses above a long-term
+  moving average. Learn how algorithmic trading leverages this pattern for automated
+  strategies, using tools like Python for real-time market data analysis. Understand
+  the role of moving averages in identifying market momentum and optimize trading
+  entries while minimizing emotional biases. Enhance your trading strategy with insights
+  on the Golden Cross, supported by examples and practical Python code snippets for
+  effective signal detection.
+title: 'Golden Cross Pattern: Analysis with Examples and Charts (Algo Trading)'
 ---
 
 The Golden Cross is a well-regarded pattern in technical analysis, primarily used by traders to anticipate bullish market trends. It occurs when a short-term moving average crosses above a long-term moving average, typically employing the 50-day and 200-day moving averages. This crossover signifies a shift in momentum, suggesting the potential for upward market movements.

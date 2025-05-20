@@ -1,6 +1,9 @@
 ---
-title: "Comparison of eToro and Coinbase (Algo Trading)"
-description: "Explore the algorithmic trading benefits of eToro and Coinbase two top platforms for cryptocurrency trading. Understand features that optimize your trading strategy."
+category: trading_strategy
+description: Explore the algorithmic trading benefits of eToro and Coinbase two top
+  platforms for cryptocurrency trading. Understand features that optimize your trading
+  strategy.
+title: Comparison of eToro and Coinbase (Algo Trading)
 ---
 
 Cryptocurrency trading has experienced exponential growth over recent years, fostering the development of numerous trading platforms. Amongst these, eToro and Coinbase have distinguished themselves by offering unique features and intuitive user interfaces. These platforms are pivotal for traders aiming to maximize their market strategy's efficacy.

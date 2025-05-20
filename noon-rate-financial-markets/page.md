@@ -1,6 +1,8 @@
 ---
-title: "Noon Rate in Financial Markets (Algo Trading)"
-description: "Explore how algorithmic trading is transforming the forex market by improving efficiency and precision while addressing risks and opportunities in USD/CAD trades."
+category: quant_concept
+description: Explore how algorithmic trading is transforming the forex market by improving
+  efficiency and precision while addressing risks and opportunities in USD/CAD trades.
+title: Noon Rate in Financial Markets (Algo Trading)
 ---
 
 The dynamics of financial markets have experienced profound changes due to algorithmic trading, a technology that employs complex algorithms to automate trading processes. One area that notably benefits from this innovation is the foreign exchange (forex) market, renowned for its high liquidity and the vast volume of currency exchange transactions. Distinguished as the world’s largest financial market, forex has seen enhanced efficiency and speed due to algorithm-driven trades, which have ushered in a new era of trading precision and opportunity.

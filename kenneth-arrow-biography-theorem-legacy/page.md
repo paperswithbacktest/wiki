@@ -1,6 +1,9 @@
 ---
-title: "Kenneth Arrow: Biography, Theorem, and Legacy (Algo Trading)"
-description: "Explore Kenneth Arrow's influential impact on economic theory and algorithmic trading His Impossibility Theorem shapes social choice theory while his insights drive modern trading systems"
+category: quant_concept
+description: Explore Kenneth Arrow's influential impact on economic theory and algorithmic
+  trading His Impossibility Theorem shapes social choice theory while his insights
+  drive modern trading systems
+title: 'Kenneth Arrow: Biography, Theorem, and Legacy (Algo Trading)'
 ---
 
 Kenneth Arrow, a towering figure in the field of economics, is celebrated for his transformative contributions to economic theory and its application in diverse areas. His work has left an indelible mark on both theoretical constructs and practical implementations across economic disciplines. Arrow's groundbreaking theories, particularly the Impossibility Theorem, have been instrumental in shaping the landscape of social choice theory. This theorem, also known as Arrow's paradox, asserts that no rank-order electoral system can universally satisfy a set of fairness criteria when voters have three or more options. This insight has profound implications for understanding democratic voting systems and decision-making processes in social and political contexts.

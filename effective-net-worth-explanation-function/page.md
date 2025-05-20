@@ -1,6 +1,8 @@
 ---
-title: "Effective Net Worth: Explanation and Function (Algo Trading)"
-description: "Explore how understanding net worth, financial literacy, and algo trading can improve financial health and prosperity with actionable strategies for growth."
+category: quant_concept
+description: Explore how understanding net worth, financial literacy, and algo trading
+  can improve financial health and prosperity with actionable strategies for growth.
+title: 'Effective Net Worth: Explanation and Function (Algo Trading)'
 ---
 
 In today's complex financial landscape, understanding key concepts such as net worth and financial literacy is crucial. As financial markets evolve, individuals are increasingly aware of the importance of managing personal wealth efficiently. Net worth, which is calculated as the difference between total assets and total liabilities ([Net Worth = Assets - Liabilities](https://www.investopedia.com/terms/n/networth.asp)), serves as a snapshot of one's financial health. By consistently assessing this metric, individuals can better navigate their financial journeys.

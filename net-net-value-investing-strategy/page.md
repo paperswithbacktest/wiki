@@ -1,6 +1,14 @@
 ---
-title: "Net-Net Value Investing Strategy Explained (Algo Trading)"
-description: Discover how the integration of net-net stock strategies into algorithmic trading frameworks can elevate value investing. This article explores the synergy between traditional value investing principles and modern algo trading techniques to enhance trade execution and decision-making. Learn how leveraging technology can streamline identifying undervalued stocks, minimize human errors, and capitalize on market discrepancies for optimized investment performance. Ideal for those interested in combining Graham’s value investing philosophy with cutting-edge trading strategies to achieve substantial returns in today’s market environment.
+category: trading_strategy
+description: Discover how the integration of net-net stock strategies into algorithmic
+  trading frameworks can elevate value investing. This article explores the synergy
+  between traditional value investing principles and modern algo trading techniques
+  to enhance trade execution and decision-making. Learn how leveraging technology
+  can streamline identifying undervalued stocks, minimize human errors, and capitalize
+  on market discrepancies for optimized investment performance. Ideal for those interested
+  in combining Graham’s value investing philosophy with cutting-edge trading strategies
+  to achieve substantial returns in today’s market environment.
+title: Net-Net Value Investing Strategy Explained (Algo Trading)
 ---
 
 In the fast-paced world of trading, algorithmic trading, or algo trading, has emerged as a highly efficient method to execute trades. By employing computer programs to make trading decisions based on pre-defined criteria, algorithmic trading enhances the speed, accuracy, and execution of trading strategies. This article focuses on the integration of net-net stock strategies within these algorithmic frameworks, providing a fresh perspective on value-oriented investing.

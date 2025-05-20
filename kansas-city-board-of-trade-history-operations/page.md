@@ -1,6 +1,9 @@
 ---
-title: "Kansas City Board of Trade History and Operations (Algo Trading)"
-description: "Explore the Kansas City Board of Trade's rich history in grain futures trading and its modern innovations, such as algorithmic trading, impacting global markets."
+category: quant_concept
+description: Explore the Kansas City Board of Trade's rich history in grain futures
+  trading and its modern innovations, such as algorithmic trading, impacting global
+  markets.
+title: Kansas City Board of Trade History and Operations (Algo Trading)
 ---
 
 The Kansas City Board of Trade (KCBT) is a significant entity in commodities trading, particularly specializing in grain futures. Established in 1856, KCBT has a long-standing history in the grain trading sector, with a notable focus on hard red winter wheat futures, a key agricultural commodity. This type of wheat, essential for bread production, puts KCBT at the heart of one of the world's most productive wheat-growing regions, making it a crucial benchmark for global wheat prices.

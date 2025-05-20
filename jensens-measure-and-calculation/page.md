@@ -1,6 +1,8 @@
 ---
-title: "Jensen's Measure and Its Calculation (Algo Trading)"
-description: "Explore Jensen's Measure in algorithmic trading to assess and refine trading strategies, enhancing returns over benchmarks with risk-adjusted insights."
+category: trading_strategy
+description: Explore Jensen's Measure in algorithmic trading to assess and refine
+  trading strategies, enhancing returns over benchmarks with risk-adjusted insights.
+title: Jensen's Measure and Its Calculation (Algo Trading)
 ---
 
 In the fast-paced world of finance, algorithmic trading is pivotal in contemporary investment and portfolio management practices. As investors seek methods to enhance their returns, performance evaluation becomes critical, especially with the growing reliance on algorithms in trading. One of the key metrics for assessing performance in this context is Jensen's Measure, often referred to simply as Alpha. This article provides an in-depth exploration of how Jensen's Measure is utilized to evaluate the effectiveness of trading algorithms, offering valuable insights into their capacity to generate excess returns over a benchmark.

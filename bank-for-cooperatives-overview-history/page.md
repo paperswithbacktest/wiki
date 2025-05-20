@@ -1,6 +1,9 @@
 ---
-title: "Bank for Cooperatives: Overview and History (Algo Trading)"
-description: "Explore the evolving role of the Bank for Cooperatives within the Farm Credit System and its integration of algorithmic trading for enhanced financial strategies."
+category: quant_concept
+description: Explore the evolving role of the Bank for Cooperatives within the Farm
+  Credit System and its integration of algorithmic trading for enhanced financial
+  strategies.
+title: 'Bank for Cooperatives: Overview and History (Algo Trading)'
 ---
 
 The landscape of financial institutions encompasses a diverse array of entities, with cooperative banking being a significant component of the global economy. Cooperative banking institutions are designed to serve the interests of their members rather than external shareholders. As member-owned entities, they offer a range of services aimed at promoting financial growth and stability. These services typically include savings accounts, loans, and other financial products that are tailored to meet the needs of the members, particularly within specific sectors such as agriculture.

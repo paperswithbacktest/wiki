@@ -1,9 +1,11 @@
 ---
-title: "HFT Companies: an In-depth Look"
-description: Discover the history and impact of High-Frequency Trading (HFT) companies on today's financial markets. From their origins in the late 1980s to their dominant role in modern trading, learn about the technology, innovations, and controversies shaping this high-stakes industry.
+category: quant_concept
+description: Discover the history and impact of High-Frequency Trading (HFT) companies
+  on today's financial markets. From their origins in the late 1980s to their dominant
+  role in modern trading, learn about the technology, innovations, and controversies
+  shaping this high-stakes industry.
+title: 'HFT Companies: an In-depth Look'
 ---
-
-
 
 The world of trading has undergone transformative evolutions over the past few decades, transitioning from bustling trading floors filled with shouting brokers to the quiet hum of servers executing millions of trades in milliseconds. As electronic exchanges took over traditional floor trading in the late 20th century, a new paradigm of trading emerged, one characterized by lightning-fast execution speeds and complex algorithms: High-Frequency Trading (HFT). This rapid evolution was not merely a byproduct of advancing technology but a testament to the relentless pursuit of edge and efficiency in the financial markets.
 

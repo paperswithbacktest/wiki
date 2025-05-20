@@ -1,6 +1,14 @@
 ---
-title: "Overview of Interactive Brokers (Algo Trading)"
-description: "Explore Interactive Brokers' algorithmic trading capabilities in this comprehensive review highlighting its industry-leading technology and diverse service offerings. Discover how this brokerage firm, established in 1978, caters to both individual and institutional clients with innovative trading tools, competitive pricing, and a focus on customer experience. Learn about the intuitive design of its platforms, the associated costs, and the impact of algorithmic systems on trading efficiency, market entry, and transaction costs. Understand why Interactive Brokers remains a top choice for traders seeking to navigate modern investment landscapes."
+category: quant_concept
+description: Explore Interactive Brokers' algorithmic trading capabilities in this
+  comprehensive review highlighting its industry-leading technology and diverse service
+  offerings. Discover how this brokerage firm, established in 1978, caters to both
+  individual and institutional clients with innovative trading tools, competitive
+  pricing, and a focus on customer experience. Learn about the intuitive design of
+  its platforms, the associated costs, and the impact of algorithmic systems on trading
+  efficiency, market entry, and transaction costs. Understand why Interactive Brokers
+  remains a top choice for traders seeking to navigate modern investment landscapes.
+title: Overview of Interactive Brokers (Algo Trading)
 ---
 
 Interactive Brokers, established in 1978, has emerged as a leading brokerage firm within the financial services sector. The firm’s longstanding presence and its commitment to advanced technology have positioned it at the forefront of innovation in trading services. Interactive Brokers serves a diverse clientele, accounting for the needs of both individual retail investors and large-scale institutional clients.

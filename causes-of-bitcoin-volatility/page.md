@@ -1,6 +1,8 @@
 ---
-title: "Causes of Bitcoin Volatility (Algo Trading)"
-description: "Explore Bitcoin's notorious volatility and how algorithmic trading offers strategic opportunities to harness market fluctuations for potential gains."
+category: quant_concept
+description: Explore Bitcoin's notorious volatility and how algorithmic trading offers
+  strategic opportunities to harness market fluctuations for potential gains.
+title: Causes of Bitcoin Volatility (Algo Trading)
 ---
 
 Bitcoin, introduced in 2009 by an anonymous entity known as Satoshi Nakamoto, revolutionized the financial world as the first decentralized digital currency. It operates on a technology called blockchain, a public ledger that records all transactions and is both transparent and immutable. Over the years, Bitcoin has gained significant traction and has positioned itself as a pivotal asset in the cryptocurrency market, commanding substantial influence due to its pioneering status and widespread recognition.

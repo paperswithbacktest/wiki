@@ -1,6 +1,8 @@
 ---
-title: "Micro Risk: Definition and Mechanism (Algo Trading)"
-description: "Explore the critical role of managing micro risks in algorithmic trading to secure investments and maintain profitable strategies amidst market volatility."
+category: quant_concept
+description: Explore the critical role of managing micro risks in algorithmic trading
+  to secure investments and maintain profitable strategies amidst market volatility.
+title: 'Micro Risk: Definition and Mechanism (Algo Trading)'
 ---
 
 In the fast-paced world of algorithmic trading, risk management is integral to ensuring stability and profitability. Traders constantly face a dynamic environment characterized by market volatility, technological advancements, and regulatory changes. Against this backdrop, the need to effectively navigate a complex landscape of micro risks is paramount. These micro risks, while often overshadowed by broader market and systemic risks, can significantly impact trading outcomes if not properly managed.

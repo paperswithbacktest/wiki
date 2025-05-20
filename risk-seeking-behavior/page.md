@@ -1,6 +1,9 @@
 ---
-title: "Risk-Seeking Behavior (Algo Trading)"
-description: "Explore the intersection of risk-seeking behavior and algorithmic trading Discover how risk preferences affect strategies and the importance of robust risk management"
+category: trading_strategy
+description: Explore the intersection of risk-seeking behavior and algorithmic trading
+  Discover how risk preferences affect strategies and the importance of robust risk
+  management
+title: Risk-Seeking Behavior (Algo Trading)
 ---
 
 In the world of financial markets, algorithmic trading has emerged as a key player, where speed and precision define success. Algorithmic trading, often referred to as algo trading, utilizes computer algorithms to execute trades based on pre-set criteria, which allows for rapid decision-making and execution. Yet, within this high-octane environment, traders often exhibit risk-seeking behaviors, significantly impacting their decision-making processes. This intersection of technology and human psychology presents unique challenges and opportunities within the financial markets landscape.

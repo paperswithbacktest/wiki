@@ -1,6 +1,8 @@
 ---
-title: "Large Cap Stock (Algo Trading)"
-description: "Explore the allure of large-cap stocks for investors seeking stability and steady returns enhanced by algorithmic trading's precision and efficiency."
+category: quant_concept
+description: Explore the allure of large-cap stocks for investors seeking stability
+  and steady returns enhanced by algorithmic trading's precision and efficiency.
+title: Large Cap Stock (Algo Trading)
 ---
 
 Large-cap stocks, often referred to as big-cap stocks, hold a significant position in the sphere of investment markets due to their large market capitalization, substantial liquidity, and perceived stability. These stocks generally have a market capitalization value exceeding $10 billion and are considered safer investments than small-cap or mid-cap stocks. This classification reduces the relative risk exposure making them attractive for a broad spectrum of investors, particularly those seeking steady returns and lower risk profiles.

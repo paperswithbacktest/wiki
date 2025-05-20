@@ -1,6 +1,8 @@
 ---
-title: "Comparison of Monopoly and Oligopoly (Algo Trading)"
-description: "Explore how monopolies and oligopolies impact algorithmic trading in financial markets, examining market dynamics, legal considerations, and future trends."
+category: quant_concept
+description: Explore how monopolies and oligopolies impact algorithmic trading in
+  financial markets, examining market dynamics, legal considerations, and future trends.
+title: Comparison of Monopoly and Oligopoly (Algo Trading)
 ---
 
 The global financial markets are intricate systems where various structures and technologies interplay to form the foundational framework. Among these structures, monopoly and oligopoly are pivotal in shaping market dynamics. A monopoly exists when a single company dominates the market, limiting competition and controlling prices due to the lack of substitutes. Conversely, an oligopoly features a few dominant firms that hold significant market power, often leading to strategic interactions, where these firms may engage in tacit or explicit collusion.

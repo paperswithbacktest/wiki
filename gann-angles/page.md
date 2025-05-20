@@ -1,6 +1,8 @@
 ---
-title: "Gann Angles (Algo Trading)"
-description: "Explore the fascinating world of Gann Angles and their role in algorithmic trading Get insights into predicting market movements using geometric constructs"
+category: quant_concept
+description: Explore the fascinating world of Gann Angles and their role in algorithmic
+  trading Get insights into predicting market movements using geometric constructs
+title: Gann Angles (Algo Trading)
 ---
 
 In the ever-evolving world of trading, techniques and strategies are as diverse as the markets themselves. Traders constantly seek methodologies that offer a competitive edge, and one such fascinating approach is the W.D. Gann technical analysis. William Delbert Gann was a notable figure in financial market analysis, renowned for employing geometric shapes and mathematical calculations to forecast market movements.

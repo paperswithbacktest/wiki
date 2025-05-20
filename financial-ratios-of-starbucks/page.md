@@ -1,6 +1,8 @@
 ---
-title: "Financial Ratios of Starbucks (Algo Trading)"
-description: "Explore the financial health of Starbucks through key ratios like ROE and operating margin alongside algorithmic trading insights to optimize investments."
+category: dataset
+description: Explore the financial health of Starbucks through key ratios like ROE
+  and operating margin alongside algorithmic trading insights to optimize investments.
+title: Financial Ratios of Starbucks (Algo Trading)
 ---
 
 Starbucks Corporation is a leading entity in the retail industry, renowned for its widespread presence and significant influence on the global market for specialty coffee. Founded in 1971, the company has grown from a single store in Seattle, Washington, to a global phenomenon with thousands of locations across numerous countries. Starbucks' brand is synonymous with quality coffee, innovative store designs, and a unique consumer experience, making it a formidable force in the retail industry.

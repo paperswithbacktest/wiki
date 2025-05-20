@@ -1,6 +1,8 @@
 ---
-title: "Discount Rate: Federal Reserve Usage and Cash-Flow Analysis (Algo Trading)"
-description: "Discover how the Federal Reserve's discount rate impacts cash-flow analysis and algorithmic trading strategies, shaping investment decisions in evolving markets."
+category: quant_concept
+description: Discover how the Federal Reserve's discount rate impacts cash-flow analysis
+  and algorithmic trading strategies, shaping investment decisions in evolving markets.
+title: 'Discount Rate: Federal Reserve Usage and Cash-Flow Analysis (Algo Trading)'
 ---
 
 The financial landscape is shaped by various players, among which the Federal Reserve (Fed) plays an instrumental role. As the central bank of the United States, it exerts significant influence over the economy by leveraging tools such as the discount rate to guide economic policy. The Federal Reserve's discount rate is pivotal in regulating liquidity and maintaining the stability of the financial system, affecting the cost of borrowing for commercial banks and, subsequently, influencing broader economic conditions.

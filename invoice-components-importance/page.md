@@ -1,6 +1,8 @@
 ---
-title: "Invoice Components and Their Importance (Algo Trading)"
-description: "Explore the role of invoices in algorithmic trading and their impact on financial accuracy. Understand how automated invoicing enhances accounting practices."
+category: quant_concept
+description: Explore the role of invoices in algorithmic trading and their impact
+  on financial accuracy. Understand how automated invoicing enhances accounting practices.
+title: Invoice Components and Their Importance (Algo Trading)
 ---
 
 In this article, the intersection of invoicing and business accounting is examined, emphasizing the essential components of an invoice and its role in algorithmic trading. An invoice serves as a foundational document in accounting, detailing financial transactions between buyers and sellers. Its precise structure and content are crucial not only for traditional accounting but also for modern algorithmic trading systems.

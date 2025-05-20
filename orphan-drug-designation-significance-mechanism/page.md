@@ -1,6 +1,9 @@
 ---
-title: "Orphan Drug Designation: Significance and Mechanism (Algo Trading)"
-description: "Explore the intersection of orphan drug designation and algorithmic trading where investors harness exclusive rights and regulatory incentives for strategic gains."
+category: quant_concept
+description: Explore the intersection of orphan drug designation and algorithmic trading
+  where investors harness exclusive rights and regulatory incentives for strategic
+  gains.
+title: 'Orphan Drug Designation: Significance and Mechanism (Algo Trading)'
 ---
 
 In recent years, the pharmaceutical industry has experienced remarkable progress in developing orphan drugs designed to treat rare diseases. Orphan drugs are essential for addressing the unmet medical needs of small patient populations, often suffering from conditions with limited treatment options. This specialization not only meets healthcare requirements but also presents pharmaceutical companies with distinct financial and strategic advantages. Orphan drugs benefit from exclusive marketing rights, tax incentives, and regulatory assistance, which contribute to their potential profitability despite the limited market size.

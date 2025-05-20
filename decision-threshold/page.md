@@ -1,7 +1,8 @@
 ---
-title: Understanding Decision Thresholds in Machine Learning Models
+category: quant_concept
 description: Decision thresholds balance false positives and negatives in machine
   learning for critical decisions and optimize model performance Discover more inside
+title: Understanding Decision Thresholds in Machine Learning Models
 ---
 
 ![Image](images/1.png)

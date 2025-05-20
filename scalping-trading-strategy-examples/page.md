@@ -1,6 +1,8 @@
 ---
-title: "Scalping in Trading: Strategy and Examples (Algo Trading)"
-description: "Discover how scalping in trading, paired with algorithmic techniques, leverages speed and precision for quick profits by targeting small price moves."
+category: trading_strategy
+description: Discover how scalping in trading, paired with algorithmic techniques,
+  leverages speed and precision for quick profits by targeting small price moves.
+title: 'Scalping in Trading: Strategy and Examples (Algo Trading)'
 ---
 
 In the fast-paced world of financial markets, traders constantly seek strategies to gain a competitive edge. Scalping emerges as a favored trading approach, targeting small price movements to achieve quick profits. Scalpers execute numerous trades within short timeframes, leveraging minimal risk exposure. Speed, precision, and accurate market assessments are crucial to this strategy's success.

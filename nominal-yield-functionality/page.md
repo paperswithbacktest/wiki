@@ -1,6 +1,9 @@
 ---
-title: "Nominal Yield and Its Functionality (Algo Trading)"
-description: "Explore how bond yields, nominal yields, and algorithmic trading intertwine to enhance investment strategies and portfolio optimization in today's financial markets."
+category: trading_strategy
+description: Explore how bond yields, nominal yields, and algorithmic trading intertwine
+  to enhance investment strategies and portfolio optimization in today's financial
+  markets.
+title: Nominal Yield and Its Functionality (Algo Trading)
 ---
 
 The financial landscape is a complex environment where bond yields, nominal yields, and algorithmic trading converge to define and refine investment strategies. These components are not isolated; rather, they interact in intricate ways that have significant implications for investors aiming to optimize their portfolios.
@@ -155,4 +158,3 @@ For those seeking to deepen their understanding of the intricate dynamics betwee
 5. **Investopedia articles on bond yields and algorithmic trading.** Investopedia offers accessible explanations and practical examples related to bond yields, nominal yields, and algorithmic trading techniques. It serves as a reliable resource for both novice and experienced investors.
 
 These references provide a robust framework for exploring bond yields and algorithmic trading, offering strategic and analytical perspectives necessary for optimizing investment performance.
-

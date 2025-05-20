@@ -1,6 +1,8 @@
 ---
-title: "Edmund S. Phelps: Biography and Contributions (Algo Trading)"
-description: "Discover how Edmund S. Phelps's groundbreaking economic theories intersect with algorithmic trading methodologies to revolutionize market strategies and analysis."
+category: quant_concept
+description: Discover how Edmund S. Phelps's groundbreaking economic theories intersect
+  with algorithmic trading methodologies to revolutionize market strategies and analysis.
+title: 'Edmund S. Phelps: Biography and Contributions (Algo Trading)'
 ---
 
 Edmund S. Phelps stands as a prominent figure in economic science, celebrated for his research that profoundly influences modern economic thought. Awarded the Nobel Prize in Economic Sciences in 2006, Phelps is best known for his pioneering work on the dynamics of unemployment and inflation. His development of the expectations-augmented Phillips curve was crucial in understanding the trade-off between unemployment and inflation, a concept that significantly altered the landscape of macroeconomic policy. Phelps's theories on the natural rate of unemployment and adaptive expectations have helped shape economic models that are widely used to both interpret market behavior and inform policy-making.

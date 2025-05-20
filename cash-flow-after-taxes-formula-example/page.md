@@ -1,6 +1,8 @@
 ---
-title: "Cash Flow After Taxes: Formula and Example (Algo Trading)"
-description: "Explore how CFAT enhances algorithmic trading strategies by merging financial health insights with trading precision improving investment decisions in real time."
+category: quant_concept
+description: Explore how CFAT enhances algorithmic trading strategies by merging financial
+  health insights with trading precision improving investment decisions in real time.
+title: 'Cash Flow After Taxes: Formula and Example (Algo Trading)'
 ---
 
 Cash flow after taxes (CFAT) is a crucial metric in financial analysis that represents the net cash a company generates after accounting for tax liabilities. It offers a clearer picture of a company's financial health by evaluating the real cash generated from operations after settling taxes. Calculating CFAT involves adjusting net income by adding back non-cash expenses such as depreciation, while subtracting taxes paid. This metric is vital for understanding a company’s ability to sustain operations, invest in growth, and meet obligations. Analysts and investors often use CFAT to gauge the actual cash-generating efficiency of a business beyond just profit figures.

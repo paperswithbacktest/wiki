@@ -1,6 +1,8 @@
 ---
-title: "Prohibition of LIFO Under IFRS (Algo Trading)"
-description: "Explore how the prohibition of LIFO under IFRS impacts financial reporting and compliance. Learn how algorithmic trading is reshaping market strategies."
+category: quant_concept
+description: Explore how the prohibition of LIFO under IFRS impacts financial reporting
+  and compliance. Learn how algorithmic trading is reshaping market strategies.
+title: Prohibition of LIFO Under IFRS (Algo Trading)
 ---
 
 In today's fast-paced financial landscape, the convergence of accounting standards and technological innovations is critical. Accounting methodologies, such as Last-In-First-Out (LIFO), play a significant role in how companies manage inventory and report financial results. LIFO influences cost accounting by designating the most recently acquired inventory as sold first, thus affecting taxable income and profitability during periods of inflation. However, while LIFO remains permissible under the Generally Accepted Accounting Principles (GAAP) in the United States, it is prohibited under the International Financial Reporting Standards (IFRS) due to its potential to misrepresent financial reality.

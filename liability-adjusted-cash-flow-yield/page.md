@@ -1,6 +1,9 @@
 ---
-title: "Liability-Adjusted Cash Flow Yield (Algo Trading)"
-description: "Explore the integration of financial metrics like cash flow yield and liability adjustments in algorithmic trading to enhance strategy efficiency and risk management."
+category: trading_strategy
+description: Explore the integration of financial metrics like cash flow yield and
+  liability adjustments in algorithmic trading to enhance strategy efficiency and
+  risk management.
+title: Liability-Adjusted Cash Flow Yield (Algo Trading)
 ---
 
 In finance, understanding and analyzing financial metrics is crucial for informed decision-making. As financial markets evolve and trading strategies become more sophisticated, the integration of key financial metrics into algorithmic trading becomes increasingly important. This article explores this integration, focusing on how such metrics enhance trading strategies and improve decision-making processes.

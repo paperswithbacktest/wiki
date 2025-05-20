@@ -1,6 +1,9 @@
 ---
-title: "Dirty Float: Historical Context and Role in Monetary Policy (Algo Trading)"
-description: "Explore the historical context and significance of dirty float exchange rate regimes in monetary policy highlighting their role in algorithmic trading and global economic stability."
+category: quant_concept
+description: Explore the historical context and significance of dirty float exchange
+  rate regimes in monetary policy highlighting their role in algorithmic trading and
+  global economic stability.
+title: 'Dirty Float: Historical Context and Role in Monetary Policy (Algo Trading)'
 ---
 
 In today's interconnected global economy, exchange rate regimes are pivotal in determining the value of a country's currency. These systems come in various forms, each with specific mechanisms and impacts on international trade and economic stability. A particularly intriguing system within this spectrum is the 'dirty float'. This exchange rate regime represents an intermediary between fixed and floating systems, allowing a currency to float freely yet enabling central banks to intervene when necessary. Such interventions are typically aimed at stabilizing the currency's value amidst market volatility, economic shocks, and speculative pressures.

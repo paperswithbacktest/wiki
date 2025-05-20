@@ -1,6 +1,9 @@
 ---
-title: "Responsibilities of the United States Secretary of Energy (Algo Trading)"
-description: "Discover how the U.S. Secretary of Energy applies algorithmic trading strategies to revolutionize energy management, improve efficiency, and optimize distribution."
+category: quant_concept
+description: Discover how the U.S. Secretary of Energy applies algorithmic trading
+  strategies to revolutionize energy management, improve efficiency, and optimize
+  distribution.
+title: Responsibilities of the United States Secretary of Energy (Algo Trading)
 ---
 
 Algorithmic trading, commonly known as algo trading, has fundamentally transformed financial markets worldwide. Leveraging advanced computer algorithms, this approach facilitates the rapid execution of trades and analysis of data, thereby optimizing trading strategies. Traditionally associated with stock exchanges and commodities markets, algo trading has demonstrated profound impacts through enhanced market efficiency, increased liquidity, and refined price discovery processes.

@@ -1,6 +1,8 @@
 ---
-title: "Annual Basis: Concept and Application (Algo Trading)"
-description: "Discover the essentials of annual basis concepts and algorithmic trading in finance Learn how these key terms shape investment strategies and market participation"
+category: quant_concept
+description: Discover the essentials of annual basis concepts and algorithmic trading
+  in finance Learn how these key terms shape investment strategies and market participation
+title: 'Annual Basis: Concept and Application (Algo Trading)'
 ---
 
 In today's rapidly evolving financial landscape, understanding the confluence of traditional financial terminology with cutting-edge technologies is crucial for investors seeking to optimize their portfolios. Key terms such as 'annual basis' and 'algorithmic trading' stand out as essential concepts that not only underpin financial strategies but also elevate them in the context of modern financial markets.

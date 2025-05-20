@@ -1,6 +1,13 @@
 ---
-title: "Limit prices in bet sizing (Algo Trading)"
-description: Explore the critical aspects of bet sizing and limit pricing in algorithmic trading to optimize risk management and enhance trading performance. Understand how these strategies help balance potential gains with risks by automating capital allocation and setting specific execution prices to safeguard against adverse market movements. Discover how limit prices influence bet sizing decisions for superior trade execution and refined strategic approaches leading to disciplined and successful trading operations.
+category: trading_strategy
+description: Explore the critical aspects of bet sizing and limit pricing in algorithmic
+  trading to optimize risk management and enhance trading performance. Understand
+  how these strategies help balance potential gains with risks by automating capital
+  allocation and setting specific execution prices to safeguard against adverse market
+  movements. Discover how limit prices influence bet sizing decisions for superior
+  trade execution and refined strategic approaches leading to disciplined and successful
+  trading operations.
+title: Limit prices in bet sizing (Algo Trading)
 ---
 
 Algorithmic trading has become a transformative force in financial markets due to its capacity for efficiency and systematic execution. This type of trading employs complex algorithms to execute orders based on predetermined criteria, minimizing human intervention and maximizing consistency. A cornerstone of successful algorithmic trading is risk management, wherein traders must deftly balance potential rewards against possible losses. Two critical components in achieving this balance are bet sizing and limit pricing, which work in tandem to manage risk while capitalizing on market opportunities.

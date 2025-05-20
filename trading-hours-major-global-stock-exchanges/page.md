@@ -1,6 +1,9 @@
 ---
-title: "Trading Hours of Major Global Stock Exchanges (Algo Trading)"
-description: "Discover key trading hours of major global stock exchanges to enhance your trading strategies Learn how time variations impact algorithmic trading and market movements"
+category: quant_concept
+description: Discover key trading hours of major global stock exchanges to enhance
+  your trading strategies Learn how time variations impact algorithmic trading and
+  market movements
+title: Trading Hours of Major Global Stock Exchanges (Algo Trading)
 ---
 
 Understanding the trading hours of global stock markets is vital for investors and traders seeking to enhance their decision-making processes. The stock market is not a 24-hour affair; rather, each market operates within specific hours that reflect its geographical location and timezone. These trading hours not only define when the market is open for buying and selling but also significantly impact investor strategies and algorithmic trading behavior. By surveying and understanding the trading schedules of major stock markets, one can identify opportunities that arise around market openings and closings and leverage these periods strategically.

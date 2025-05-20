@@ -1,6 +1,9 @@
 ---
-title: "Decimalization: Overview, Historical Context, and Implementation (Algo Trading)"
-description: "Explore decimalization's impact on the stock market moving from fractions to decimals improving trading efficiency with narrower spreads and boosting algorithmic strategies."
+category: quant_concept
+description: Explore decimalization's impact on the stock market moving from fractions
+  to decimals improving trading efficiency with narrower spreads and boosting algorithmic
+  strategies.
+title: 'Decimalization: Overview, Historical Context, and Implementation (Algo Trading)'
 ---
 
 The transition from fractional to decimal pricing in the stock market, known as decimalization, marked a significant evolution in financial trading. Prior to this shift, stock prices were quoted in fractions, reflecting an antiquated system that was less intuitive for investors. By adopting decimal pricing, markets improved their accessibility, making it simpler for participants to interpret price movements with greater precision. This transition played a pivotal role in enhancing the efficiency and competitiveness of trading platforms globally. Decimalization allowed for narrower bid-ask spreads, reducing trading costs and fostering a more competitive marketplace. 

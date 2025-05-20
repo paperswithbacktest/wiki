@@ -1,6 +1,9 @@
 ---
-title: "Cash Flow Loan Overview (Algo Trading)"
-description: "Explore the synergy of business finance cash flow loans and algorithmic trading to optimize financial strategies enhance growth potential and manage risks effectively."
+category: quant_concept
+description: Explore the synergy of business finance cash flow loans and algorithmic
+  trading to optimize financial strategies enhance growth potential and manage risks
+  effectively.
+title: Cash Flow Loan Overview (Algo Trading)
 ---
 
 The modern financial landscape is characterized by a high degree of complexity and continuous evolution, driven by several pivotal components that influence how businesses operate and expand. Business financing, cash flow loans, and the rise of algorithmic trading stand out as three transformative elements in today’s financial world. Each plays a crucial role in shaping the strategies that companies employ to manage and grow their financial resources.

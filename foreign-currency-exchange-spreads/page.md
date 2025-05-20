@@ -1,6 +1,12 @@
 ---
-title: "Foreign Currency Exchange Spreads (Algo Trading)"
-description: "Explore the dynamics of the forex market and understand the critical role of exchange spreads and algorithmic trading. Learn how exchange spreads impact transaction costs and liquidity while navigating currency exchange mechanisms. Discover how algorithmic trading enhances trade efficiency and consistency by reducing human errors in decision-making. This insight into forex market intricacies can guide traders in optimizing their strategies in the world's most liquid market."
+category: quant_concept
+description: Explore the dynamics of the forex market and understand the critical
+  role of exchange spreads and algorithmic trading. Learn how exchange spreads impact
+  transaction costs and liquidity while navigating currency exchange mechanisms. Discover
+  how algorithmic trading enhances trade efficiency and consistency by reducing human
+  errors in decision-making. This insight into forex market intricacies can guide
+  traders in optimizing their strategies in the world's most liquid market.
+title: Foreign Currency Exchange Spreads (Algo Trading)
 ---
 
 The foreign exchange market, commonly known as the forex market, is the largest and most liquid financial market in the world. It facilitates the exchange of currencies and determines the relative value of different currencies. Daily trading volumes exceed $6 trillion, highlighting its critical role in global finance. Understanding the intricacies of the forex market, particularly elements like exchange spreads, is essential for participants ranging from individual traders to multinational corporations.

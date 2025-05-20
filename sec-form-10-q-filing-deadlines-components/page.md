@@ -1,6 +1,8 @@
 ---
-title: "SEC Form 10-Q: Filing Deadlines and Components (Algo Trading)"
-description: "Explore the SEC Form 10-Q for insights into quarterly financial health and strategic advantages for algorithmic traders through timely, detailed disclosures."
+category: dataset
+description: Explore the SEC Form 10-Q for insights into quarterly financial health
+  and strategic advantages for algorithmic traders through timely, detailed disclosures.
+title: 'SEC Form 10-Q: Filing Deadlines and Components (Algo Trading)'
 ---
 
 The SEC Form 10-Q is a fundamental financial document that public companies must file each quarter. It provides investors with a detailed snapshot of a company's financial condition and operational results over the most recent three-month period. This unaudited report plays a critical role in maintaining transparency and ensuring timely disclosure of a company’s performance, enabling investors to make informed decisions about their financial engagements.

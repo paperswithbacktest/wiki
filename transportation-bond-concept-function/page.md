@@ -1,6 +1,9 @@
 ---
-title: "Transportation Bond: Concept and Function (Algo Trading)"
-description: "Explore the crucial role of transportation bonds in finance and the impact of algorithmic trading on their market dynamics, providing insights for investors and traders."
+category: quant_concept
+description: Explore the crucial role of transportation bonds in finance and the impact
+  of algorithmic trading on their market dynamics, providing insights for investors
+  and traders.
+title: 'Transportation Bond: Concept and Function (Algo Trading)'
 ---
 
 In the ever-evolving landscape of finance, transportation bonds have emerged as a vital component, providing the financial backbone necessary for developing and maintaining essential public infrastructure projects. These fixed-income securities are issued by government entities to generate capital specifically for transportation-related initiatives, which include the construction and maintenance of highways, bridges, transit systems, and airports. As urban centers continue to expand and the demands on public transportation systems grow, the importance of transportation bonds becomes increasingly apparent.

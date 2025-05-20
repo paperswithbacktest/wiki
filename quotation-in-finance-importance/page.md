@@ -1,6 +1,9 @@
 ---
-title: "Quotation in Finance and Their Importance (Algo Trading)"
-description: "Explore the significance of financial quotations in trading and their crucial role in algorithmic trading for effective, data-driven decision-making and strategy optimization."
+category: quant_concept
+description: Explore the significance of financial quotations in trading and their
+  crucial role in algorithmic trading for effective, data-driven decision-making and
+  strategy optimization.
+title: Quotation in Finance and Their Importance (Algo Trading)
 ---
 
 In the world of finance, understanding the role of quotations is crucial for making informed trading decisions. Quotations serve as essential indicators of market dynamics, providing real-time data on the prices at which assets such as stocks, bonds, or commodities are traded. They encompass various price points, including the bid and ask prices, as well as historical data like high, low, open, and close values. This information allows traders to gauge the current market sentiment and liquidity, forming the basis for both short-term and long-term financial strategies.

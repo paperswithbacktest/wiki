@@ -1,6 +1,8 @@
 ---
-title: "Risk Management with Options (Algo Trading)"
-description: "Explore risk management through options trading and algorithmic strategies. Understand derivatives, hedge risks, and leverage tech for optimal trading outcomes."
+category: trading_strategy
+description: Explore risk management through options trading and algorithmic strategies.
+  Understand derivatives, hedge risks, and leverage tech for optimal trading outcomes.
+title: Risk Management with Options (Algo Trading)
 ---
 
 Financial derivatives are complex financial instruments that derive their value from an underlying asset, index, or benchmark. These instruments are pivotal in modern finance as they enable market participants to hedge risks, speculate on future price movements, and enhance liquidity. The basic types of derivatives include futures, options, swaps, and forwards. Each type serves unique purposes, but collectively, they form the backbone of many risk management and trading strategies.

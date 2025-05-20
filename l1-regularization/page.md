@@ -1,7 +1,8 @@
 ---
-title: Understanding L1 Regularization for Feature Selection
+category: quant_concept
 description: L1 regularization improves model generalization by adding an absolute
   coefficient penalty that drives sparsity and feature selection Discover more inside.
+title: Understanding L1 Regularization for Feature Selection
 ---
 
 ![Image](images/1.png)

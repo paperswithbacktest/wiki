@@ -1,6 +1,9 @@
 ---
-title: "Largest Solar Energy Companies (Algo Trading)"
-description: "Explore how top solar companies like NextEra Energy and First Solar are leading the renewable transformation and how algorithmic trading optimizes solar investments."
+category: dataset
+description: Explore how top solar companies like NextEra Energy and First Solar are
+  leading the renewable transformation and how algorithmic trading optimizes solar
+  investments.
+title: Largest Solar Energy Companies (Algo Trading)
 ---
 
 The transition towards renewable energy is accelerating as climate change becomes an increasingly urgent global issue. Among the various sources of renewable energy, solar energy stands out as a pivotal contributor due to its minimal environmental footprint. Harnessing the power of the sun through photovoltaic technology, solar energy provides a sustainable and cleaner alternative to fossil fuels. As technological advancements continue to lower costs, solar energy is becoming increasingly accessible for both residential and commercial use, fulfilling a significant role in reducing carbon emissions.

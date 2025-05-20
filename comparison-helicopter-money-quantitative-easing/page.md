@@ -1,6 +1,8 @@
 ---
-title: "Comparison of Helicopter Money and Quantitative Easing (Algo Trading)"
-description: "Explore the differences between helicopter money and quantitative easing as monetary policies and their effects on economic stability and algorithmic trading."
+category: quant_concept
+description: Explore the differences between helicopter money and quantitative easing
+  as monetary policies and their effects on economic stability and algorithmic trading.
+title: Comparison of Helicopter Money and Quantitative Easing (Algo Trading)
 ---
 
 The global economy operates within a complex and dynamic environment, characterized by ever-evolving challenges that demand innovative solutions. Among these solutions, unconventional monetary policies such as helicopter money and quantitative easing have gained prominence. Both approaches offer significant departures from traditional economic interventions, aiming to address unique economic circumstances that necessitate more direct and immediate forms of stimulus.

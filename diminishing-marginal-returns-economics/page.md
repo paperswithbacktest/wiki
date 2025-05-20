@@ -1,6 +1,13 @@
 ---
-title: "Diminishing Marginal Returns in Economics (Algo Trading)"
-description: "Explore how the concept of diminishing marginal returns applies to algorithmic trading. Algo trading has revolutionized financial markets but increasing investment does not always result in proportional gains. This article investigates into economic principles like diminishing returns, helping traders understand their impact on trading strategies. Learn how to recognize the onset of diminishing returns and manage resources effectively for optimized trading strategies and better long-term profitability."
+category: quant_concept
+description: Explore how the concept of diminishing marginal returns applies to algorithmic
+  trading. Algo trading has revolutionized financial markets but increasing investment
+  does not always result in proportional gains. This article investigates into economic
+  principles like diminishing returns, helping traders understand their impact on
+  trading strategies. Learn how to recognize the onset of diminishing returns and
+  manage resources effectively for optimized trading strategies and better long-term
+  profitability.
+title: Diminishing Marginal Returns in Economics (Algo Trading)
 ---
 
 Algorithmic trading (algo trading) has fundamentally transformed financial markets by enhancing trading efficiency and execution speed. This transformation is underpinned by complex algorithms that analyze market data and execute trades at speeds and frequencies impossible for human traders. Despite these advancements, algorithmic trading is not immune to the fundamental economic principles that govern all market activities. Among these principles is the law of diminishing returns, which traders frequently encounter, especially when they attempt to scale their trading strategies or optimize resource utilization.

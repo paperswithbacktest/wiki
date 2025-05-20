@@ -1,6 +1,8 @@
 ---
-title: "Schedule 13E-4: Explanation and Functionality (Algo Trading)"
-description: "Explore the history and impact of Schedule 13E-4, its role in tender offers and algorithmic trading, and its eventual replacement by Schedule TO-I."
+category: quant_concept
+description: Explore the history and impact of Schedule 13E-4, its role in tender
+  offers and algorithmic trading, and its eventual replacement by Schedule TO-I.
+title: 'Schedule 13E-4: Explanation and Functionality (Algo Trading)'
 ---
 
 The financial sector is constantly evolving, influenced by technological advancements and regulatory shifts designed to enhance market operations and investor protections. Among these regulatory developments was the introduction of Schedule 13E-4 by the U.S. Securities and Exchange Commission (SEC), a crucial SEC filing that reshaped the landscape of tender offers. Introduced under the Securities Exchange Act of 1934, Schedule 13E-4 required public companies to file detailed disclosures when conducting self-tender offers, whereby a company offers to repurchase its own shares from existing shareholders. These disclosures were intended to increase transparency, prevent fraudulent activities, and ensure equitable treatment of all shareholders involved in such transactions.

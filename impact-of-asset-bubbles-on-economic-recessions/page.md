@@ -1,6 +1,9 @@
 ---
-title: "Impact of Asset Bubbles on Economic Recessions (Algo Trading)"
-description: "Explore the complex connections between asset bubbles, economic recessions, and financial crises, focusing on algorithmic trading's role in these financial phenomena."
+category: quant_concept
+description: Explore the complex connections between asset bubbles, economic recessions,
+  and financial crises, focusing on algorithmic trading's role in these financial
+  phenomena.
+title: Impact of Asset Bubbles on Economic Recessions (Algo Trading)
 ---
 
 Asset bubbles, economic recessions, and financial crises are intertwined elements within the financial landscape, each influencing and being influenced by the cyclical nature of economies. Asset bubbles occur when prices of assets skyrocket significantly above their intrinsic values, often driven by speculative behavior, market psychology, and sometimes inadequate economic policies. When these bubbles burst, they can precipitate economic recessions, which are periods of economic decline marked by reduced industrial activity and increased unemployment. This sequence can culminate in financial crises, characterized by banking collapses and severe disruptions in financial markets.

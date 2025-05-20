@@ -1,6 +1,9 @@
 ---
-title: "Destructive Creation: Concept and Mechanism (Algo Trading)"
-description: "Explore the interplay between creative destruction and destructive creation in algorithmic trading Learn how these phenomena shape economic growth and potential risks"
+category: quant_concept
+description: Explore the interplay between creative destruction and destructive creation
+  in algorithmic trading Learn how these phenomena shape economic growth and potential
+  risks
+title: 'Destructive Creation: Concept and Mechanism (Algo Trading)'
 ---
 
 The modern economic landscape is marked by a continuous cycle of innovation and change, dramatically reshaping industries and economies globally. This transformation is propelled by the interplay of two pivotal economic concepts: creative destruction and destructive creation. These phenomena provide a framework to understand how innovation can simultaneously drive economic growth and lead to challenges within existing structures.

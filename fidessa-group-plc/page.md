@@ -1,6 +1,8 @@
 ---
-title: "Fidessa Group PLC (Algo Trading)"
-description: "Fidessa Group PLC offers advanced algorithmic trading platforms, enhancing efficiency and decision-making in financial markets for institutions globally."
+category: trading_strategy
+description: Fidessa Group PLC offers advanced algorithmic trading platforms, enhancing
+  efficiency and decision-making in financial markets for institutions globally.
+title: Fidessa Group PLC (Algo Trading)
 ---
 
 The trading landscape has undergone a transformative shift with the advent of digital platforms and algorithmic trading, reshaping how financial markets operate. Central to this evolution is Fidessa Group, a trailblazer in the domain of financial software. Fidessa offers robust trading platforms specifically designed for algorithmic trading, meeting the needs of a fast-paced, data-driven market environment. These platforms facilitate efficient trade management, supporting processes from order execution to compliance, ensuring smooth operations across the trading cycle.

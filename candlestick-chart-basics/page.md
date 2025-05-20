@@ -1,6 +1,9 @@
 ---
-title: "Candlestick Chart Basics (Algo Trading)"
-description: "Learn the essentials of candlestick charts in algorithmic trading to enhance your trading strategies and gain insights into market trends and trader sentiments."
+category: quant_concept
+description: Learn the essentials of candlestick charts in algorithmic trading to
+  enhance your trading strategies and gain insights into market trends and trader
+  sentiments.
+title: Candlestick Chart Basics (Algo Trading)
 ---
 
 In the rapidly evolving world of finance, mastering the intricacies of financial charts and technical analysis is paramount for traders and investors. These tools are indispensable for interpreting vast amounts of market data, identifying trends, and making informed trading decisions. Candlestick chart patterns and algorithmic trading are essential components in this analytical toolkit, each contributing uniquely to a trader’s ability to predict market movements, optimize trading strategies, and understand trader sentiments.

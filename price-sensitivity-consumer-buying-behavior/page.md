@@ -1,6 +1,9 @@
 ---
-title: "Price Sensitivity and Consumer Buying Behavior (Algo Trading)"
-description: "Explore how consumer behavior and price sensitivity impact algorithmic trading strategies. Learn how businesses leverage these insights to refine market approaches."
+category: quant_concept
+description: Explore how consumer behavior and price sensitivity impact algorithmic
+  trading strategies. Learn how businesses leverage these insights to refine market
+  approaches.
+title: Price Sensitivity and Consumer Buying Behavior (Algo Trading)
 ---
 
 The interplay between consumer behavior, price sensitivity, and algorithmic trading is transforming the landscape of buying decisions. As consumers, we are no longer passive participants in the marketplace. With the proliferation of information and technology, consumers now make informed decisions that are significantly influenced by various factors, most prominently, price.

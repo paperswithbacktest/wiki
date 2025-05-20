@@ -1,6 +1,9 @@
 ---
-title: "Stop Order Types and Timing (Algo Trading)"
-description: "Explore the role of stop orders in algorithmic trading strategies. Learn how stop-loss, stop-entry, and trailing stop orders manage risk and optimize stock trading."
+category: trading_strategy
+description: Explore the role of stop orders in algorithmic trading strategies. Learn
+  how stop-loss, stop-entry, and trailing stop orders manage risk and optimize stock
+  trading.
+title: Stop Order Types and Timing (Algo Trading)
 ---
 
 In the world of stock trading, developing a comprehensive strategy is crucial for maximizing profits while minimizing potential losses. Among the various tools at a trader's disposal, stop orders stand out as a critical element, offering automation for both buying and selling decisions. This functionality empowers traders to react swiftly to market conditions without constant monitoring, which is invaluable in the fast-paced environment of stock trading.

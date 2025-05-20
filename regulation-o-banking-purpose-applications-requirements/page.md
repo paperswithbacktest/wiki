@@ -1,6 +1,8 @@
 ---
-title: "Regulation O in Banking: Purpose, Applications, and Requirements (Algo Trading)"
-description: "Explore Regulation O in banking and its impact on insider credit regulations and algorithmic trading compliance to ensure financial stability and fairness."
+category: quant_concept
+description: Explore Regulation O in banking and its impact on insider credit regulations
+  and algorithmic trading compliance to ensure financial stability and fairness.
+title: 'Regulation O in Banking: Purpose, Applications, and Requirements (Algo Trading)'
 ---
 
 In today's financial landscape, regulatory compliance is essential for maintaining the stability and integrity of banking operations. As the sector evolves, financial institutions are increasingly incorporating technology, particularly algorithmic trading, into their operations, which brings about complex regulatory challenges. In this context, understanding the intersection of banking regulation and technology becomes crucial. With the emergence of sophisticated trading algorithms, institutions must adhere to stringent compliance requirements to prevent market manipulation and ensure fair practices, as mandated by various regulatory bodies.

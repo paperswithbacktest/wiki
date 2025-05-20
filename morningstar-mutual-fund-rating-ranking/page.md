@@ -1,6 +1,8 @@
 ---
-title: "Morningstar Mutual Fund Rating and Ranking (Algo Trading)"
-description: "Explore the intersection of Morningstar's mutual fund ratings and algorithmic trading to enhance investment strategies by evaluating risks and maximizing returns."
+category: dataset
+description: Explore the intersection of Morningstar's mutual fund ratings and algorithmic
+  trading to enhance investment strategies by evaluating risks and maximizing returns.
+title: Morningstar Mutual Fund Rating and Ranking (Algo Trading)
 ---
 
 Mutual funds are vital components in modern investment strategies, providing investors with opportunities to diversify their portfolios across different asset classes. They pool resources from numerous investors to invest in a wide array of securities such as stocks, bonds, and other assets, thereby mitigating risks associated with individual investments. This diversification is crucial as it allows investors to spread their risk across a broader spectrum, potentially yielding higher returns over the long term. The accessibility and professionally managed nature of mutual funds make them particularly appealing to both novice and seasoned investors.

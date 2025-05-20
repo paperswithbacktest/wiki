@@ -1,6 +1,8 @@
 ---
-title: "Qualitative Factors in Evaluating Company Excellence (Algo Trading)"
-description: "Explore the essential role of qualitative analysis in algorithmic trading to evaluate company excellence by considering management, culture, and market conditions."
+category: quant_concept
+description: Explore the essential role of qualitative analysis in algorithmic trading
+  to evaluate company excellence by considering management, culture, and market conditions.
+title: Qualitative Factors in Evaluating Company Excellence (Algo Trading)
 ---
 
 Qualitative analysis is a crucial component in evaluating the greatness of a business, especially in the dynamic field of algorithmic trading. In an industry predominantly driven by data and numbers, the allure of quantitative metrics often overshadows the nuanced understanding that qualitative analysis provides. This form of analysis investigates into non-quantifiable factors that can significantly influence a company’s performance and potential, such as the quality of management, strength of brand, and customer satisfaction. These are elements that cannot simply be distilled into numerical data but require a subtler approach to fully appreciate their impact.

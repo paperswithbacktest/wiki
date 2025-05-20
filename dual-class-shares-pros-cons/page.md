@@ -1,6 +1,8 @@
 ---
-title: "Dual-Class Shares: Pros and Cons (Algo Trading)"
-description: "Explore the pros and cons of dual-class shares in corporate governance and algorithmic trading and their implications on investor rights and market dynamics."
+category: quant_concept
+description: Explore the pros and cons of dual-class shares in corporate governance
+  and algorithmic trading and their implications on investor rights and market dynamics.
+title: 'Dual-Class Shares: Pros and Cons (Algo Trading)'
 ---
 
 The landscape of corporate governance is undergoing constant transformation, characterized by emerging trends and new challenges. In this article, we investigate essential aspects of investor rights, corporate governance, dual-class shares, and algorithmic trading. These components significantly impact market dynamics and corporate performance, influencing how companies operate and engage with their stakeholders.

@@ -1,6 +1,12 @@
 ---
-title: "Factor’s Performance During Various Market Cycles"
-description: Explore the impact of various market cycles on algorithmic trading strategies and factor performance in dynamic economic conditions. Understand key factors like interest rates, inflation, and market trends to enhance strategy optimization and portfolio management. Gain insights through comprehensive risk/return analysis using historical data and the Quantpedia Multi-Factor Regression Model for smarter investment decisions and superior trading outcomes during bull and bear markets.
+category: trading_strategy
+description: Explore the impact of various market cycles on algorithmic trading strategies
+  and factor performance in dynamic economic conditions. Understand key factors like
+  interest rates, inflation, and market trends to enhance strategy optimization and
+  portfolio management. Gain insights through comprehensive risk/return analysis using
+  historical data and the Quantpedia Multi-Factor Regression Model for smarter investment
+  decisions and superior trading outcomes during bull and bear markets.
+title: Factor’s Performance During Various Market Cycles
 ---
 
 Algorithmic trading is a sophisticated and volatile domain, where understanding the nuances of market cycles is key to strategy optimization. Market cycles—periods of economic ups and downs—have profound impacts on trading strategies, necessitating a deep understanding of how various factors perform across these phases. Traders who adeptly navigate these cycles can significantly enhance their algorithmic strategies.

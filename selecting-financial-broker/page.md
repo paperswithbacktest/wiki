@@ -1,6 +1,9 @@
 ---
-title: "Selecting a Financial Broker (Algo Trading)"
-description: "Explore the key considerations when selecting a financial broker for algorithmic trading including platform technology regulatory compliance and trading costs."
+category: trading_strategy
+description: Explore the key considerations when selecting a financial broker for
+  algorithmic trading including platform technology regulatory compliance and trading
+  costs.
+title: Selecting a Financial Broker (Algo Trading)
 ---
 
 With the rise of algorithmic trading, selecting the right financial broker has become more crucial than ever. Algorithmic trading, characterized by the use of computer algorithms to automate investment strategies, enables traders to execute buy and sell orders at speeds far beyond human capability. This technological advancement allows for the implementation of complex strategies, reducing human error and increasing trading efficiency.

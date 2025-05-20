@@ -1,6 +1,8 @@
 ---
-title: "Difference Between Credit Rating and Equity Research (Algo Trading)"
-description: "Explore the differences between credit ratings and equity research in algo trading to enhance investment strategies with comprehensive financial insights."
+category: quant_concept
+description: Explore the differences between credit ratings and equity research in
+  algo trading to enhance investment strategies with comprehensive financial insights.
+title: Difference Between Credit Rating and Equity Research (Algo Trading)
 ---
 
 This article examines the interconnected aspects of credit ratings, financial analysis, equity research, and algorithmic trading, which play a critical role in shaping contemporary financial markets and investment strategies. Each of these components provides essential insights into different facets of the market, influencing how investment decisions are crafted.

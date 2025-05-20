@@ -1,6 +1,9 @@
 ---
-title: "Marginal Propensity to Save (Algo Trading)"
-description: "Explore the significance of Marginal Propensity to Save and algorithmic trading in shaping investment strategies. Understand how these concepts impact economic behavior."
+category: quant_concept
+description: Explore the significance of Marginal Propensity to Save and algorithmic
+  trading in shaping investment strategies. Understand how these concepts impact economic
+  behavior.
+title: Marginal Propensity to Save (Algo Trading)
 ---
 
 In today's fast-paced financial environment, understanding various economic concepts can give investors and policymakers an edge. This article explores the dynamics of savings behavior, focusing on concepts like Marginal Propensity to Save (MPS), its calculation, and the role of algorithmic trading in shaping investment decisions. MPS plays a crucial role in Keynesian economics, acting as a bellwether for the broader economic behavior of individuals and households. It measures the fraction of additional income that is saved rather than consumed, providing insight into consumer consumption patterns and saving habits. This, in turn, affects aggregate demand and overall economic health.

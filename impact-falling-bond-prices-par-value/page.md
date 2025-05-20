@@ -1,6 +1,8 @@
 ---
-title: "Impact of Falling Bond Prices on Par Value (Algo Trading)"
-description: "Explore how falling bond prices affect par value in the context of algorithmic trading. Learn about the bond market's dynamics and the role of AI in trading."
+category: quant_concept
+description: Explore how falling bond prices affect par value in the context of algorithmic
+  trading. Learn about the bond market's dynamics and the role of AI in trading.
+title: Impact of Falling Bond Prices on Par Value (Algo Trading)
 ---
 
 The bond market is a fundamental pillar of the global financial ecosystem, underlining the economic activities of both corporate entities and governments. It serves as a vital mechanism for raising capital, providing issuers with necessary funds to finance their operations, and offering investors opportunities to earn returns. In this context, understanding how bond prices and par value interplay, alongside the various dynamics that influence them, is indispensable for both individual and institutional investors.

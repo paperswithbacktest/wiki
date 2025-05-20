@@ -1,6 +1,12 @@
 ---
-title: "Interest Coverage Ratio: Evaluating Optimal Values (Algo Trading)"
-description: "Explore the importance of the Interest Coverage Ratio (ICR) in evaluating a company's financial health and its application in algorithmic trading strategies. Learn how a higher ICR indicates better ability to cover interest expenses and reduces investment risks. Discover how integrating ICR into trading algorithms can enhance decision-making by providing critical insights into a company's financial robustness, aiding traders in forming more strategic and informed investment decisions."
+category: quant_concept
+description: Explore the importance of the Interest Coverage Ratio (ICR) in evaluating
+  a company's financial health and its application in algorithmic trading strategies.
+  Learn how a higher ICR indicates better ability to cover interest expenses and reduces
+  investment risks. Discover how integrating ICR into trading algorithms can enhance
+  decision-making by providing critical insights into a company's financial robustness,
+  aiding traders in forming more strategic and informed investment decisions.
+title: 'Interest Coverage Ratio: Evaluating Optimal Values (Algo Trading)'
 ---
 
 In today's rapidly evolving financial markets, understanding key financial metrics is crucial for traders and investors. Among these metrics, the Interest Coverage Ratio (ICR) plays a vital role in evaluating a company's capacity to fulfill its debt obligations. ICR is calculated by dividing a company's earnings before interest and taxes (EBIT) by its interest expense:

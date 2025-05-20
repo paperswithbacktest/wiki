@@ -1,6 +1,9 @@
 ---
-title: "Agent-Based Market Simulations (Algo Trading)"
-description: "Explore how agent-based market simulations enhance algorithmic trading by modeling participant interactions predicting market dynamics and refining strategies effectively."
+category: quant_concept
+description: Explore how agent-based market simulations enhance algorithmic trading
+  by modeling participant interactions predicting market dynamics and refining strategies
+  effectively.
+title: Agent-Based Market Simulations (Algo Trading)
 ---
 
 Agent-based market simulations are instrumental in enhancing our understanding of financial markets by modeling the behaviors and interactions of various market participants. These simulations aim to predict market dynamics through the emulation of decisions by diverse agents, such as individual traders, institutional investors, and market makers. Each agent operates with distinct strategies, contributing to a complex and dynamic environment that closely mirrors real-world markets.

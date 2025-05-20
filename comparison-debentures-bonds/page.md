@@ -1,6 +1,8 @@
 ---
-title: "Comparison of Debentures and Bonds (Algo Trading)"
-description: "Explore the distinctions between debentures and bonds, key elements of the debt market, and how algorithmic trading enhances investment strategies."
+category: quant_concept
+description: Explore the distinctions between debentures and bonds, key elements of
+  the debt market, and how algorithmic trading enhances investment strategies.
+title: Comparison of Debentures and Bonds (Algo Trading)
 ---
 
 The financial instruments market plays a crucial role in the global economy, serving as a fundamental platform for raising capital and managing risk. It includes a variety of products such as stocks, bonds, debentures, derivatives, and more, each offering unique attributes catering to diverse investment strategies and risk appetites. This diversity provides opportunities for investors to tailor their portfolios to align with their financial objectives, and to manage risk through informed decision-making.

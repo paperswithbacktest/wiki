@@ -1,6 +1,9 @@
 ---
-title: "OHLC Chart Interpretation (Algo Trading)"
-description: "Understand the power of OHLC charts in financial market analysis Discover how Open High Low Close charts aid in technical analysis and algorithmic trading strategies."
+category: quant_concept
+description: Understand the power of OHLC charts in financial market analysis Discover
+  how Open High Low Close charts aid in technical analysis and algorithmic trading
+  strategies.
+title: OHLC Chart Interpretation (Algo Trading)
 ---
 
 In today's fast-paced financial markets, traders and analysts utilize an array of tools and techniques to make informed decisions. Among these, the OHLC chart—representing Open, High, Low, and Close prices—emerges as a critical resource. The OHLC chart provides a visual representation of price movements over a specified period, offering invaluable insights into a security's trading behavior.

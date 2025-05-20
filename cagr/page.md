@@ -1,6 +1,14 @@
 ---
-title: "Compound Annual Growth Rate (CAGR) Explained (Algo Trading)"
-description: Discover the concept of Compound Annual Growth Rate (CAGR) in algorithmic trading and its importance in evaluating investment performance. Understand how CAGR offers a smoothed annual growth figure, aiding traders in comparing different strategies by minimizing short-term market volatility effects. This article investigates into the meaning of a 'good' CAGR and its relevance to risk profile and market conditions, providing insights for assessing and optimizing trading strategies effectively. Unlock the potential of CAGR to align your investment objectives with realistic growth expectations in algo trading.
+category: quant_concept
+description: Discover the concept of Compound Annual Growth Rate (CAGR) in algorithmic
+  trading and its importance in evaluating investment performance. Understand how
+  CAGR offers a smoothed annual growth figure, aiding traders in comparing different
+  strategies by minimizing short-term market volatility effects. This article investigates
+  into the meaning of a 'good' CAGR and its relevance to risk profile and market conditions,
+  providing insights for assessing and optimizing trading strategies effectively.
+  Unlock the potential of CAGR to align your investment objectives with realistic
+  growth expectations in algo trading.
+title: Compound Annual Growth Rate (CAGR) Explained (Algo Trading)
 ---
 
 In algorithmic trading, the Compound Annual Growth Rate (CAGR) is often cited as a key performance measure. CAGR provides a useful means of evaluating the annualized return of an investment by accounting for the compounding effect of gains over time. The significance of CAGR lies in its ability to offer a smoothed annual growth figure, eliminating the influence of short-term market volatility and allowing traders to compare the performance of different strategies over the same period.

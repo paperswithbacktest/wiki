@@ -1,6 +1,9 @@
 ---
-title: "Difference Between Short Position and Short Sale (Algo Trading)"
-description: "Explore the key distinctions between short positions and short sales in algorithmic trading, understanding their roles, risks, and benefits in volatile markets."
+category: quant_concept
+description: Explore the key distinctions between short positions and short sales
+  in algorithmic trading, understanding their roles, risks, and benefits in volatile
+  markets.
+title: Difference Between Short Position and Short Sale (Algo Trading)
 ---
 
 Short selling and short positions play a vital role in the stock market by providing mechanisms for traders to benefit from declining asset prices. At their core, these strategies allow investors to sell securities they do not currently own, with the intention of buying them back at a lower price and profiting from the difference. This speculative maneuver carries significant risks, as there is no theoretical limit to the price of an asset, meaning potential losses are unlimited if the price increases instead of decreases.

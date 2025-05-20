@@ -1,6 +1,9 @@
 ---
-title: "Priced Out in Behavioral Economics (Algo Trading)"
-description: "Explore the intersection of behavioral economics and algorithmic trading to uncover insights on market dynamics and refine strategies amid rising costs and biases."
+category: trading_strategy
+description: Explore the intersection of behavioral economics and algorithmic trading
+  to uncover insights on market dynamics and refine strategies amid rising costs and
+  biases.
+title: Priced Out in Behavioral Economics (Algo Trading)
 ---
 
 In today’s fast-paced financial markets, the convergence of behavioral economics and algorithmic trading has become a pivotal element in shaping trading strategies and economic behavior. As markets grow increasingly complex, understanding how these fields interact can provide valuable insights for traders and financial analysts alike.

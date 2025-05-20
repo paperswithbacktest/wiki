@@ -1,6 +1,9 @@
 ---
-title: "Differences Between IFRS and U.S. GAAP (Algo Trading)"
-description: "Discover the key differences between IFRS and U.S. GAAP as applied to algorithmic trading and understand their impact on accounting practices and financial reporting."
+category: quant_concept
+description: Discover the key differences between IFRS and U.S. GAAP as applied to
+  algorithmic trading and understand their impact on accounting practices and financial
+  reporting.
+title: Differences Between IFRS and U.S. GAAP (Algo Trading)
 ---
 
 Understanding accounting standards like U.S. GAAP (Generally Accepted Accounting Principles) and IFRS (International Financial Reporting Standards) is crucial for financial professionals. These frameworks define the guidelines and rules under which financial transactions are recorded and reported, ensuring consistency, transparency, and comparability of financial statements across different entities. Financial professionals rely on these standards to analyze and interpret financial data, make informed decisions, and uphold the integrity of financial markets.
@@ -119,4 +122,3 @@ Lambert, B., & Leuz, C. (2006). International Differences in Accounting Standard
 Park, C., & Park, J. (2002). The Stock-Bond Correlation and Its Implications on the Cost of Capital. *Financial Review.* This article discusses the relationship between stock and bond markets and its influence on the cost of capital. Understanding these correlations is essential for algorithmic trading, which often relies on such relationships for developing trading strategies.
 
 Robinson, T. R., Henry, E., Pirie, W. L., & Broihahn, M. A. (International Financial Statement Analysis, 4th Edition). This textbook provides comprehensive coverage of financial statement analysis, with a focus on international standards. It is a valuable resource for professionals navigating the complexities of accounting standards in the context of global algorithmic trading.
-

@@ -1,6 +1,8 @@
 ---
-title: "Comparison of Operating Income and EBITDA (Algo Trading)"
-description: "Explore the role of operating income and EBITDA in algorithmic trading Compare these crucial metrics to enhance trading strategies and optimize profitability"
+category: trading_strategy
+description: Explore the role of operating income and EBITDA in algorithmic trading
+  Compare these crucial metrics to enhance trading strategies and optimize profitability
+title: Comparison of Operating Income and EBITDA (Algo Trading)
 ---
 
 Algorithmic trading, also known as algo trading, refers to the use of computer algorithms to automate trading strategies. These strategies leverage data analytics and quantitative models to make investment decisions at speeds and frequencies far beyond what is achievable by human traders. A crucial component of successful algorithmic trading is the inclusion of relevant financial metrics, which provide insights into the financial health and operational efficiency of a company.

@@ -1,6 +1,8 @@
 ---
-title: "Comparison of Impact Investing and Venture Philanthropy (Algo Trading)"
-description: "Discover the differences between impact investing and venture philanthropy and how these strategies prioritize both financial returns and societal impact."
+category: trading_strategy
+description: Discover the differences between impact investing and venture philanthropy
+  and how these strategies prioritize both financial returns and societal impact.
+title: Comparison of Impact Investing and Venture Philanthropy (Algo Trading)
 ---
 
 In the modern financial landscape, investors are increasingly focused on aligning their financial goals with societal impact. This shift has given rise to investment strategies such as venture philanthropy, impact investing, and algorithmic trading. These strategies not only aim to achieve financial returns but also contribute to societal good by addressing social and environmental challenges.

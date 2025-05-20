@@ -1,6 +1,9 @@
 ---
-title: "Emigration: Reasons and Economic Impact (Algo Trading)"
-description: "Explore the complex interplay between migration, economic impacts, and algorithmic trading. Understand diverse motivations, benefits, and challenges shaping global economies."
+category: quant_concept
+description: Explore the complex interplay between migration, economic impacts, and
+  algorithmic trading. Understand diverse motivations, benefits, and challenges shaping
+  global economies.
+title: 'Emigration: Reasons and Economic Impact (Algo Trading)'
 ---
 
 Migration, economic impact, and technological advancements, such as algorithmic trading, represent a complex and interconnected global phenomenon. Migration, defined as the movement of individuals from one region or country to another, occurs for diverse reasons. These range from economic aspirations, like better employment opportunities and escape from poverty, to non-economic motivations such as political instability, war, and personal ambitions. Migration influences economic conditions not only in the countries individuals leave but also in those they enter. 

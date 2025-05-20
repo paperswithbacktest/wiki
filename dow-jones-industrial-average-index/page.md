@@ -1,6 +1,8 @@
 ---
-title: "Dow Jones Industrial Average Index (Algo Trading)"
-description: "Explore the historical significance and modern influence of the Dow Jones Industrial Average in algorithmic trading strategies and economic indicators."
+category: quant_concept
+description: Explore the historical significance and modern influence of the Dow Jones
+  Industrial Average in algorithmic trading strategies and economic indicators.
+title: Dow Jones Industrial Average Index (Algo Trading)
 ---
 
 The Dow Jones Industrial Average (DJIA) is one of the most renowned stock market indices globally, serving as a cornerstone of financial markets since its inception. First introduced in 1896 by Charles Dow and Edward Jones, the DJIA aimed to provide a clear snapshot of the industrial sector's performance within the United States. Over the decades, it has evolved into a symbol of economic performance and a benchmark for the U.S. stock market.

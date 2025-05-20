@@ -1,6 +1,9 @@
 ---
-title: "Subsequent Offering: Overview and Examples (Algo Trading)"
-description: "Explore the pivotal role of subsequent offerings in capital raising and market dynamics for public companies. Essential insights for investors and algorithmic traders."
+category: quant_concept
+description: Explore the pivotal role of subsequent offerings in capital raising and
+  market dynamics for public companies. Essential insights for investors and algorithmic
+  traders.
+title: 'Subsequent Offering: Overview and Examples (Algo Trading)'
 ---
 
 Subsequent offerings are a significant financial mechanism employed by companies to raise additional capital after their initial public offering (IPO). These offerings allow public companies to issue new shares or existing shareholders to sell their shares, having far-reaching implications for market dynamics and investor strategies. For investors and traders, particularly those engaged in algorithmic trading, understanding subsequent offerings is paramount. This insight aids in evaluating a company's financial health and strategic direction.

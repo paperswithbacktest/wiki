@@ -1,6 +1,9 @@
 ---
-title: "Economic Impacts of National Liberalization (Algo Trading)"
-description: "Explore how national economic liberalization and algorithmic trading are reshaping global markets driving efficiency innovation and boosting economic growth."
+category: quant_concept
+description: Explore how national economic liberalization and algorithmic trading
+  are reshaping global markets driving efficiency innovation and boosting economic
+  growth.
+title: Economic Impacts of National Liberalization (Algo Trading)
 ---
 
 Economic liberalization, as a national policy, refers to the reduction or elimination of government regulations and restrictions in an economy to enhance economic growth. This policy is typically characterized by the removal of trade barriers, reduction of tariffs, and deregulation, creating an environment more conducive to private enterprise. One of the primary objectives is to open the economy to international markets, which can stimulate competition, attract foreign direct investment (FDI), and spread technology and innovation. The potential economic effects of economic liberalization include increased efficiency, higher economic growth rates, and improved standards of living.
@@ -155,4 +158,3 @@ Looking to the future, the balance between liberalization, technological advance
    - Brummer, C. (2015). *Soft Law and the Global Financial System: Rule Making in the 21st Century*. Cambridge University Press. This book stresses the importance of aligning international and national policies amidst technological advancements. 
 
 For those seeking additional insights, the referenced materials offer a spectrum of perspectives and in-depth analyses pertinent to the topics of economic liberalization and algorithmic trading, vital for understanding modern economic policies and global trade dynamics.
-

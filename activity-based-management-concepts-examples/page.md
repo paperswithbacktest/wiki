@@ -1,6 +1,8 @@
 ---
-title: "Activity-Based Management: Concepts and Examples (Algo Trading)"
-description: "Optimize business performance with Activity-Based Management by identifying inefficiencies and reducing costs. Explore its synergy with algorithmic trading."
+category: quant_concept
+description: Optimize business performance with Activity-Based Management by identifying
+  inefficiencies and reducing costs. Explore its synergy with algorithmic trading.
+title: 'Activity-Based Management: Concepts and Examples (Algo Trading)'
 ---
 
 In modern business, organizations continually seek strategies to enhance efficiency and profitability. Activity-Based Management (ABM) is a strategic approach that provides detailed insights into business operations through a cost-driven lens. ABM focuses on identifying and eliminating non-value-added activities, thereby improving financial performance and decision-making. By allocating costs based on specific activities, organizations gain a clearer understanding of how resources are consumed and where inefficiencies may lie. This nuanced view of financial dynamics enables more informed strategic planning and resource allocation.

@@ -1,6 +1,11 @@
 ---
-title: "Is technical analysis still effective for trading?"
-description: "Explore the benefits and limitations of technical analysis for trading, including its simplicity, reactivity, diversity of tools, and applicability to various time horizons. Learn about self-fulfillment, inefficiency in efficient markets, parameter dependency, and fundamental information neglection. Discover how effectiveness depends on context, and find valuable resources for further learning."
+category: quant_concept
+description: Explore the benefits and limitations of technical analysis for trading,
+  including its simplicity, reactivity, diversity of tools, and applicability to various
+  time horizons. Learn about self-fulfillment, inefficiency in efficient markets,
+  parameter dependency, and fundamental information neglection. Discover how effectiveness
+  depends on context, and find valuable resources for further learning.
+title: Is technical analysis still effective for trading?
 ---
 
 Technical analysis is a method used to evaluate and forecast the future price movements of financial instruments based on historical price data and volume. Originating in the late 19th century with Charles Dow, it has played a crucial role in shaping financial markets and trading strategies. Dow's theory laid the foundation for future developments by suggesting that price movements are not random and can be interpreted through identifying patterns.

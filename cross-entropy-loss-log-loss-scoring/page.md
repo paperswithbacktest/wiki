@@ -1,6 +1,16 @@
 ---
-title: "Cross-entropy loss (log loss) scoring (Algo Trading)"
-description: In algorithmic trading, optimizing trading models is crucial for profitability and maintaining a competitive edge. Cross-entropy loss, also known as log loss, is a key metric used to evaluate the accuracy of these models by measuring the difference between predicted probabilities and actual outcomes. This metric is particularly important for classification tasks, which are common in algorithmic trading models that predict market movements. By understanding and applying cross-entropy loss, traders can enhance model accuracy, leading to better trading decisions based on probabilistic predictions. This article explores the significance of cross-entropy loss in algorithmic trading strategy optimization and highlights its role in refining model predictions for improved trading success.
+category: quant_concept
+description: In algorithmic trading, optimizing trading models is crucial for profitability
+  and maintaining a competitive edge. Cross-entropy loss, also known as log loss,
+  is a key metric used to evaluate the accuracy of these models by measuring the difference
+  between predicted probabilities and actual outcomes. This metric is particularly
+  important for classification tasks, which are common in algorithmic trading models
+  that predict market movements. By understanding and applying cross-entropy loss,
+  traders can enhance model accuracy, leading to better trading decisions based on
+  probabilistic predictions. This article explores the significance of cross-entropy
+  loss in algorithmic trading strategy optimization and highlights its role in refining
+  model predictions for improved trading success.
+title: Cross-entropy loss (log loss) scoring (Algo Trading)
 ---
 
 In algorithmic trading, optimizing trading models is essential to achieving profitability and maintaining a competitive edge. These models leverage mathematical and statistical techniques to predict market movements and make automated trading decisions. Among the critical components in evaluating the performance of these models is cross-entropy loss, often referred to as log loss. This metric is instrumental in measuring the accuracy of classification models by quantifying the difference between predicted probabilities and actual outcomes.

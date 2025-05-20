@@ -1,6 +1,9 @@
 ---
-title: "Major Financial Crises of the 21st Century (Algo Trading)"
-description: "Explore how major 21st-century financial crises and the rise of algorithmic trading have reshaped global markets highlighting their impact on volatility and systemic risks."
+category: quant_concept
+description: Explore how major 21st-century financial crises and the rise of algorithmic
+  trading have reshaped global markets highlighting their impact on volatility and
+  systemic risks.
+title: Major Financial Crises of the 21st Century (Algo Trading)
 ---
 
 The 21st century has been characterized by a series of significant economic downturns and financial crises that have reshaped global economic landscapes. Notable events such as the 2008 Global Financial Crisis, the European Sovereign Debt Crisis, and the more recent financial upheaval induced by the COVID-19 pandemic underscore the fragility of global economic systems and the interconnectivity of financial markets. These crises have not only highlighted systemic vulnerabilities but have also prompted a reevaluation of financial practices and regulatory frameworks worldwide.
@@ -101,4 +104,3 @@ MacKenzie, D. A., & Spears, T. (2018). *The Invention of Credit Default Swaps*. 
 Pasquariello, P. (2019). *Financial Market Dislocations*. This book investigates into the phenomenon of market dislocations, where asset prices are significantly detached from fundamental values due to liquidity crises and other factors. It provides an analytical framework for understanding these dislocations and their implications for financial stability.
 
 Aldridge, I. (2013). *High-Frequency Trading: A Practical Guide to Algorithmic Strategies and Trading Systems*. This guide covers the mechanics of high-frequency trading and its impact on market dynamics. It discusses both the benefits, such as enhanced market liquidity, and the risks, including potential for increased volatility and systemic instability, associated with algorithmic trading practices.
-

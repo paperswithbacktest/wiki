@@ -1,6 +1,8 @@
 ---
-title: "ETF Market Price and Net Asset Value Comparison (Algo Trading)"
-description: "Explore the relationship between ETF market price and NAV, and discover how algorithmic trading impacts ETF strategies for informed investment decisions."
+category: dataset
+description: Explore the relationship between ETF market price and NAV, and discover
+  how algorithmic trading impacts ETF strategies for informed investment decisions.
+title: ETF Market Price and Net Asset Value Comparison (Algo Trading)
 ---
 
 In the rapidly evolving financial landscape, Exchange-Traded Funds (ETFs) have grown in popularity as a flexible and accessible investment vehicle. These funds are traded on stock exchanges similarly to individual stocks, providing investors with a unique blend of diversification, liquidity, and cost efficiency. Their rise is partly attributed to their simplicity in comparison to more complex investment products, offering a straightforward entry into various markets and asset classes.

@@ -1,6 +1,8 @@
 ---
-title: "Cost of Revenue: Explanation and Calculation (Algo Trading)"
-description: "Discover how understanding and calculating the cost of revenue in algorithmic trading can enhance efficiencies and profitability in a competitive market."
+category: quant_concept
+description: Discover how understanding and calculating the cost of revenue in algorithmic
+  trading can enhance efficiencies and profitability in a competitive market.
+title: 'Cost of Revenue: Explanation and Calculation (Algo Trading)'
 ---
 
 Understanding the financial landscape is crucial for business success, especially in sectors like algorithmic trading. In this rapidly evolving field, companies leverage advanced computational techniques to execute trading strategies with high speed and precision. As these firms navigate complex markets, understanding their financial metrics becomes imperative to maintaining competitiveness and profitability.

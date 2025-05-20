@@ -1,6 +1,8 @@
 ---
-title: "Nominee and Nominee Accounts (Algo Trading)"
-description: "Discover how nominee accounts and algorithmic trading are reshaping modern finance Enhancing asset management and trading speed they offer efficiency and protection"
+category: quant_concept
+description: Discover how nominee accounts and algorithmic trading are reshaping modern
+  finance Enhancing asset management and trading speed they offer efficiency and protection
+title: Nominee and Nominee Accounts (Algo Trading)
 ---
 
 In the complex world of finance, nominee accounts and financial services have become vital tools for investors and brokers alike. These mechanisms are designed to facilitate efficient asset management, protect investor interests, and streamline trade executions. Nominee accounts, which allow brokers to hold securities on behalf of their clients, help simplify the management and safekeeping of assets while ensuring that investors remain the beneficiaries.

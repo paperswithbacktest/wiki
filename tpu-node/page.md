@@ -1,7 +1,8 @@
 ---
-title: Understanding TPU Nodes For Accelerated Machine Learning
+category: quant_concept
 description: TPU Nodes accelerate machine learning by optimizing neural network tasks
   and energy efficiency while scaling data processing in cloud Discover more inside
+title: Understanding TPU Nodes For Accelerated Machine Learning
 ---
 
 ![Image](images/1.jpeg)

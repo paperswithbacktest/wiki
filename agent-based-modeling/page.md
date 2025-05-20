@@ -1,6 +1,8 @@
 ---
-title: "Agent-based modeling (Algo Trading)"
-description: "Explore the role of agent-based modeling in algorithmic trading to understand market dynamics and develop sophisticated, adaptive trading strategies."
+category: quant_concept
+description: Explore the role of agent-based modeling in algorithmic trading to understand
+  market dynamics and develop sophisticated, adaptive trading strategies.
+title: Agent-based modeling (Algo Trading)
 ---
 
 Agent-based modeling (ABM) is an innovative methodology applied across various fields, including finance, where it plays a critical role in algorithmic trading. This modeling technique involves simulating the actions and interactions of autonomous agents that represent individual market participants, such as traders and investors, within a digital environment. The primary objective of ABM in this context is to assess how the market environment affects trader behavior and, conversely, how the actions of traders impact market dynamics.

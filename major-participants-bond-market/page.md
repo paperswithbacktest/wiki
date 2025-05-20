@@ -1,6 +1,9 @@
 ---
-title: "Major Participants in the Bond Market (Algo Trading)"
-description: "Explore key players in the bond market including issuers underwriters and purchasers Learn how algorithmic trading impacts debt securities for better returns"
+category: quant_concept
+description: Explore key players in the bond market including issuers underwriters
+  and purchasers Learn how algorithmic trading impacts debt securities for better
+  returns
+title: Major Participants in the Bond Market (Algo Trading)
 ---
 
 Understanding the bond market is fundamental for investors seeking to diversify their portfolios beyond traditional equities. The bond market serves as a platform for debt securities issuance and trading, offering investors opportunities to earn fixed income. It plays a crucial role in both corporate and governmental financial operations. Corporations issue bonds to finance expansion or operations, while governments use them to fund public projects and manage fiscal policies.

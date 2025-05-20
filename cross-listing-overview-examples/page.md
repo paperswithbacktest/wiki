@@ -1,6 +1,9 @@
 ---
-title: "Cross-Listing: Overview and Examples (Algo Trading)"
-description: "Explore the strategic benefits of cross-listing in global markets Learn how companies enhance liquidity access international investors and leverage algorithmic trading"
+category: quant_concept
+description: Explore the strategic benefits of cross-listing in global markets Learn
+  how companies enhance liquidity access international investors and leverage algorithmic
+  trading
+title: 'Cross-Listing: Overview and Examples (Algo Trading)'
 ---
 
 In today's globalized financial markets, cross-listing has emerged as a significant strategy for companies aiming to broaden their investor base and enhance their financial standing. This practice involves the listing of a company's shares on multiple stock exchanges, extending beyond the primary domestic market. Companies pursue cross-listing to capitalize on various benefits, such as increased liquidity and enhanced access to capital markets. By participating in different stock exchanges, companies can attract a diverse set of international investors, thereby reducing their reliance on a single market and increasing their overall financial resilience.

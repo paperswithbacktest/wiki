@@ -1,6 +1,9 @@
 ---
-title: "Fibonacci Retracement Trading Strategies (Algo Trading)"
-description: "Explore Fibonacci retracement strategies in algo trading to identify potential support and resistance levels optimize trading decisions and enhance market trends analysis"
+category: trading_strategy
+description: Explore Fibonacci retracement strategies in algo trading to identify
+  potential support and resistance levels optimize trading decisions and enhance market
+  trends analysis
+title: Fibonacci Retracement Trading Strategies (Algo Trading)
 ---
 
 Fibonacci retracement is a widely utilized technical analysis tool among traders seeking to identify potential support and resistance levels in financial markets. Based on the Fibonacci sequence, this technique reflects significant proportions that are not only apparent in various natural phenomena but also resonate within financial markets. The sequence, discovered by Leonardo Fibonacci in the 13th century, involves a series of numbers where each number is the sum of the two preceding ones, typically starting from 0 and 1: 0, 1, 1, 2, 3, 5, 8, 13, and so forth. The ratios derived from this sequence, particularly 61.8%, 38.2%, and 23.6%, are of substantial interest to traders. These ratios are calculated by dividing a number in the sequence by the number immediately following it (e.g., 21/34 ≈ 0.618) or by numbers further down the sequence.

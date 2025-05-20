@@ -1,6 +1,10 @@
 ---
-title: "Comparison of Credit Spread Risk and Default Risk in Financial Situations (Algo Trading)"
-description: "Explore the dynamics of credit spread risk and default risk in financial markets Discover how algorithmic trading enhances risk management and portfolio optimization"
+category: quant_concept
+description: Explore the dynamics of credit spread risk and default risk in financial
+  markets Discover how algorithmic trading enhances risk management and portfolio
+  optimization
+title: Comparison of Credit Spread Risk and Default Risk in Financial Situations (Algo
+  Trading)
 ---
 
 In the modern financial landscape, effectively managing and leveraging risk is essential, especially within credit markets. A refined understanding of credit spread risk, default risk, and algorithmic trading is pivotal for investors aiming to optimize their portfolios and market strategies. Credit markets are integral components of the global financial system, and their associated risks can significantly impact investment decisions and outcomes. 
@@ -124,4 +128,3 @@ Staying updated with the latest financial news is vital for monitoring changes i
 For those inclined towards empirical finance research, reviewing academic journals such as "The Journal of Finance" or "Journal of Financial and Quantitative Analysis" can offer peer-reviewed studies on credit risk and spread analysis. These journals regularly publish cutting-edge research on financial markets, providing insights into the latest methodologies and findings in the field. 
 
 By engaging with these resources, investors and financial professionals can deepen their understanding of credit spreads and enhance their ability to craft strategic and informed investment decisions.
-

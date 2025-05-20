@@ -1,6 +1,8 @@
 ---
-title: "Private Sector Adjustment Factor (Algo Trading)"
-description: "Explore the critical intersection of the Private Sector Adjustment Factor and algorithmic trading to optimize your financial strategies and economic outcomes."
+category: quant_concept
+description: Explore the critical intersection of the Private Sector Adjustment Factor
+  and algorithmic trading to optimize your financial strategies and economic outcomes.
+title: Private Sector Adjustment Factor (Algo Trading)
 ---
 
 In the complex world of economics and finance, the term 'Private Sector Adjustment Factor (PSAF)' holds significant importance. The PSAF is a metric designed to ensure that services provided by publicly accountable organizations, such as the Federal Reserve, are in sync with private sector practices. This article aims to explore this intersection where private sector economics and algorithmic trading meet the PSAF. By examining these elements, we aim to equip economic stakeholders with the necessary knowledge to improve their strategies within an ever-evolving financial landscape.

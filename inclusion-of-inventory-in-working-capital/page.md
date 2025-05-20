@@ -1,6 +1,8 @@
 ---
-title: "Inclusion of Inventory in Working Capital (Algo Trading)"
-description: "Explore how inventory management, business finance, working capital, and algorithmic trading intersect to boost financial efficiency and business growth."
+category: trading_strategy
+description: Explore how inventory management, business finance, working capital,
+  and algorithmic trading intersect to boost financial efficiency and business growth.
+title: Inclusion of Inventory in Working Capital (Algo Trading)
 ---
 
 In today's fast-paced business environment, effective financial management is vital for any organization aiming to achieve sustainability and competitive advantage. This article examines the intersection of four critical areas: inventory management, business finance, working capital, and algorithmic trading. Each of these elements is instrumental in shaping the modern financial landscape by contributing to the efficiency and robustness of business operations.

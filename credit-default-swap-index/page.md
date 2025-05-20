@@ -1,6 +1,13 @@
 ---
-title: "Credit Default Swap Index (Algo Trading)"
-description: "Explore the intricacies of the Credit Default Swap Index (CDX) and the transformative impact of algorithmic trading in this comprehensive guide. Discover how CDX aggregates CDS contracts to provide diversified exposure to credit risks and enhances hedging and speculative strategies. Learn about the benefits and risks of these financial derivatives and how algorithms optimize trading precision and efficiency in volatile markets. Ideal for market participants aiming to capitalize on opportunities in the credit derivatives space."
+category: quant_concept
+description: Explore the intricacies of the Credit Default Swap Index (CDX) and the
+  transformative impact of algorithmic trading in this comprehensive guide. Discover
+  how CDX aggregates CDS contracts to provide diversified exposure to credit risks
+  and enhances hedging and speculative strategies. Learn about the benefits and risks
+  of these financial derivatives and how algorithms optimize trading precision and
+  efficiency in volatile markets. Ideal for market participants aiming to capitalize
+  on opportunities in the credit derivatives space.
+title: Credit Default Swap Index (Algo Trading)
 ---
 
 Financial derivatives have become indispensable in the financial markets, providing tools for a wide range of activities, from risk management to speculative strategies. Among these derivatives, Credit Default Swaps (CDS) play a pivotal role by acting as a safeguard against credit risk. A CDS is essentially a contract allowing one party to transfer the risk of a credit event, such as a default, to another party in exchange for periodic premium payments. This mechanism enables investors and institutions to manage exposure to credit risk efficiently.

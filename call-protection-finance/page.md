@@ -1,6 +1,8 @@
 ---
-title: "Call Protection in Finance (Algo Trading)"
-description: "Explore how call protection in bonds and algorithmic trading work together to create resilient investment portfolios while managing risks and enhancing returns."
+category: trading_strategy
+description: Explore how call protection in bonds and algorithmic trading work together
+  to create resilient investment portfolios while managing risks and enhancing returns.
+title: Call Protection in Finance (Algo Trading)
 ---
 
 The world of finance is in a perpetual state of transformation, driven by the continuous quest of investors to develop innovative strategies for enhancing returns. This search has led to the exploration of combining traditional and modern financial instruments, such as bonds, call protection, and algorithmic trading. Each of these components plays a crucial role in the construction of efficient and resilient investment portfolios.

@@ -1,6 +1,9 @@
 ---
-title: "Build-Operate-Transfer Contract: Risks and Framework (Algo Trading)"
-description: "Explore the synergies between Build-Operate-Transfer contracts and algorithmic trading to revolutionize infrastructure projects through enhanced efficiency and technology integration."
+category: quant_concept
+description: Explore the synergies between Build-Operate-Transfer contracts and algorithmic
+  trading to revolutionize infrastructure projects through enhanced efficiency and
+  technology integration.
+title: 'Build-Operate-Transfer Contract: Risks and Framework (Algo Trading)'
 ---
 
 In infrastructure development, the Build-Operate-Transfer (BOT) contract is a prominent model for financing and managing large-scale projects. BOT contracts allow private sector entities to construct and operate infrastructure projects for a specified period before transferring ownership to a public authority. This article examines the relationship between BOT contracts and algorithmic trading within financial markets to uncover the synergies and benefits that these fields can bring to infrastructure and financial sectors.

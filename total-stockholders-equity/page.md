@@ -1,6 +1,9 @@
 ---
-title: "Total Stockholders' Equity (Algo Trading)"
-description: "Enhance your algorithmic trading strategies by understanding financial statements. Leverage insights from stockholders' equity and balance sheets to predict market trends."
+category: quant_concept
+description: Enhance your algorithmic trading strategies by understanding financial
+  statements. Leverage insights from stockholders' equity and balance sheets to predict
+  market trends.
+title: Total Stockholders' Equity (Algo Trading)
 ---
 
 In finance, the ability to interpret financial statements is crucial for investors and traders alike. These documents provide a detailed snapshot of a company's financial condition, influencing strategic decisions and investment choices. This article focuses on the integration of financial statements, specifically stockholders' equity and balance sheets, with algorithmic trading to enhance decision-making. Stockholders' equity represents the ownership value held by shareholders, including initial capital and accumulated retained earnings, while balance sheets offer a comprehensive view of a company's assets, liabilities, and equity at a specific point in time.

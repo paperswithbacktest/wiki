@@ -1,6 +1,9 @@
 ---
-title: "Largest Automobile Manufacturers (Algo Trading)"
-description: "Explore the dynamic world of top car manufacturers like Volkswagen and Toyota examining their market influence innovation strategies and algorithmic trading role."
+category: dataset
+description: Explore the dynamic world of top car manufacturers like Volkswagen and
+  Toyota examining their market influence innovation strategies and algorithmic trading
+  role.
+title: Largest Automobile Manufacturers (Algo Trading)
 ---
 
 The automobile industry is a cornerstone of the global economy, significantly impacting employment, technological advancement, and international trade. Large companies such as Volkswagen, Toyota, and Ford dominate this dynamic sector by their sheer market presence and financial clout. These automotive giants not only produce vast numbers of vehicles annually but also drive innovation through investments in electric and autonomous vehicles, fiscal strategies, and market expansions.

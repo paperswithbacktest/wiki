@@ -1,6 +1,8 @@
 ---
-title: "Diamond-Water Paradox (Algo Trading)"
-description: "Explore the Diamond-Water Paradox in economics and its implications for value perception in algorithmic trading. Understand key theories on marginal utility."
+category: quant_concept
+description: Explore the Diamond-Water Paradox in economics and its implications for
+  value perception in algorithmic trading. Understand key theories on marginal utility.
+title: Diamond-Water Paradox (Algo Trading)
 ---
 
 The Diamond-Water Paradox presents an intriguing dilemma in the field of economics, addressing the apparent contradiction in the valuation of essential versus non-essential goods. At the core of this paradox is the observation that water, a necessity for life, is ordinarily less expensive than diamonds, a luxury item with no immediate utility for survival. This paradox forces us to question the underlying principles of value determination in economies, offering insights crucial for both theoretical explorations and practical applications in contemporary economic practices.

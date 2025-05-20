@@ -1,6 +1,14 @@
 ---
-title: "Probability Distribution in Investing (Algo Trading)"
-description: "Explore how probability distributions are essential in finance and investing. Understand their role in predicting market behavior assessing risks and developing trading strategies with a focus on algorithmic trading or algo trading. This method utilizes distributions to improve trading processes increasing efficiency and effectiveness. Learn about discrete and continuous probability distributions such as normal and log-normal distributions and their applications in financial markets including risk management and algorithmic trading systems. Discover practical implementations using Python for more informed trading decisions and improved financial performance."
+category: quant_concept
+description: Explore how probability distributions are essential in finance and investing.
+  Understand their role in predicting market behavior assessing risks and developing
+  trading strategies with a focus on algorithmic trading or algo trading. This method
+  utilizes distributions to improve trading processes increasing efficiency and effectiveness.
+  Learn about discrete and continuous probability distributions such as normal and
+  log-normal distributions and their applications in financial markets including risk
+  management and algorithmic trading systems. Discover practical implementations using
+  Python for more informed trading decisions and improved financial performance.
+title: Probability Distribution in Investing (Algo Trading)
 ---
 
 Understanding the types of distributions and probability distributions is fundamental in finance and investing. These statistical tools play a critical role in predicting market behavior, assessing risks, and formulating effective trading strategies. In particular, algorithmic trading, often referred to as algo trading, utilizes these distributions to automate and refine trading processes, enhancing both efficiency and efficacy.

@@ -1,6 +1,9 @@
 ---
-title: "Open-Market Transactions: Definition, Process, and Reasons (Algo Trading)"
-description: "Explore open-market transactions and the rise of algo trading Learn about their impact on financial markets and how they offer insights and opportunities for investors"
+category: quant_concept
+description: Explore open-market transactions and the rise of algo trading Learn about
+  their impact on financial markets and how they offer insights and opportunities
+  for investors
+title: 'Open-Market Transactions: Definition, Process, and Reasons (Algo Trading)'
 ---
 
 Financial markets have undergone profound changes with the incorporation of advanced technology, leading to the emergence of intricate mechanisms such as open-market and economic transactions. This technological evolution has been pivotal in transforming how trades are executed and monitored. Central to these advancements is algorithmic trading, often referred to as algo trading, which employs automated systems to carry out trading processes based on set criteria.

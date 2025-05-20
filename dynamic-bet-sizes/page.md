@@ -1,6 +1,12 @@
 ---
-title: "Dynamic bet sizes (Algo Trading)"
-description: Explore the advantages of dynamic bet sizing in algorithmic trading as this technique tailors trade sizes based on real-time market conditions. By adjusting bets in response to volatility and other factors traders can enhance risk management and optimize capital allocation. Learn how dynamic bet sizing differs from static strategies and offers a strategic edge in adapting to changing market dynamics for improved performance and sustainability.
+category: trading_strategy
+description: Explore the advantages of dynamic bet sizing in algorithmic trading as
+  this technique tailors trade sizes based on real-time market conditions. By adjusting
+  bets in response to volatility and other factors traders can enhance risk management
+  and optimize capital allocation. Learn how dynamic bet sizing differs from static
+  strategies and offers a strategic edge in adapting to changing market dynamics for
+  improved performance and sustainability.
+title: Dynamic bet sizes (Algo Trading)
 ---
 
 In the fast-paced world of algorithmic trading, effectively managing risk and optimizing capital allocation are essential for success. Algorithmic trading relies on complex computer programs executing trades at speeds and frequencies impractical for human traders. Within this arena, the ability to adjust trade sizes according to varying market conditions and strategic factors is crucial. One of the sophisticated strategies deployed to achieve this is dynamic bet sizing. This approach adjusts trade sizes in response to factors such as market volatility, trend momentum, and historical performance.

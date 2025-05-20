@@ -1,6 +1,8 @@
 ---
-title: "WH Trading (Algo Trading)"
-description: "Explore WH Trading as a specialized form of algorithmic trading focusing on high-frequency strategies and cutting-edge technology for efficient market execution."
+category: trading_strategy
+description: Explore WH Trading as a specialized form of algorithmic trading focusing
+  on high-frequency strategies and cutting-edge technology for efficient market execution.
+title: WH Trading (Algo Trading)
 ---
 
 Algorithmic trading, often referred to as algo trading, is a method of executing trades using pre-programmed instructions, which account for variables such as timing, price, and volume. Its growing significance in modern financial markets can be attributed to the efficiency and speed it provides, enabling traders to execute large orders with minimal market impact. Algorithmic trading systems are sophisticated, employing complex algorithms and models to make buy and sell decisions based on real-time data and predefined criteria.

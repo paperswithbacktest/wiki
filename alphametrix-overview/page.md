@@ -1,6 +1,9 @@
 ---
-title: "AlphaMetrix Overview (Algo Trading)"
-description: "Discover AlphaMetrix's rise and fall in algorithmic trading providing insights into technological innovation and financial management in the hedge fund industry."
+category: quant_concept
+description: Discover AlphaMetrix's rise and fall in algorithmic trading providing
+  insights into technological innovation and financial management in the hedge fund
+  industry.
+title: AlphaMetrix Overview (Algo Trading)
 ---
 
 The financial services industry is undergoing constant transformation with the rapid advancement of technology acting as a catalyst for innovation. Among the pioneers in this technological evolution was AlphaMetrix, a significant entity that played a crucial role in bringing algorithmic trading to prominence within the hedge fund industry. Established in 2005, AlphaMetrix leveraged cutting-edge technology to create a managed account platform that provided unprecedented access to hedge fund investment opportunities. Its strategies capitalized on the sophisticated use of algorithms to navigate the complex financial markets, setting a benchmark in investment management.

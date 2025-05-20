@@ -1,6 +1,9 @@
 ---
-title: "Newly Industrialized Countries (Algo Trading)"
-description: "Explore the economic transformation of Newly Industrialized Countries and the impact of algorithmic trading on their growth and integration into global markets."
+category: quant_concept
+description: Explore the economic transformation of Newly Industrialized Countries
+  and the impact of algorithmic trading on their growth and integration into global
+  markets.
+title: Newly Industrialized Countries (Algo Trading)
 ---
 
 Newly Industrialized Countries (NICs) represent an important category of emerging economies that are undergoing a transition from developing to more industrialized states. This transition involves significant economic restructuring, wherein NICs experience rapid industrial growth, increased urbanization, and improvements in infrastructure. These nations often move away from agrarian-based economies towards diversified economic activities, notably manufacturing and export-oriented industries. Hong Kong, South Korea, Singapore, and Taiwan are prime examples of NICs, each demonstrating unique developmental paths while sharing common characteristics, such as high growth rates in GDP and improvements in standards of living.

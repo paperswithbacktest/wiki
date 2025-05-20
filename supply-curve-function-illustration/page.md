@@ -1,6 +1,8 @@
 ---
-title: "Supply Curve: Function and Illustration (Algo Trading)"
-description: "Explore how the supply curve plays a crucial role in algorithmic trading strategies for optimizing trade efficiency by integrating supply and demand economics."
+category: quant_concept
+description: Explore how the supply curve plays a crucial role in algorithmic trading
+  strategies for optimizing trade efficiency by integrating supply and demand economics.
+title: 'Supply Curve: Function and Illustration (Algo Trading)'
 ---
 
 Understanding the principles of supply and demand is fundamental to grasping how markets operate. In economics, the supply curve represents the relationship between the price of a good and the quantity of the good that suppliers are willing to produce and sell. This concept is critical in market analysis as it helps predict how changes in price can affect the quantity of goods available. Typically, the supply curve is positively sloped, indicating that as prices increase, suppliers are willing to produce and sell more of a good.

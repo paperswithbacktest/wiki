@@ -1,6 +1,8 @@
 ---
-title: "Series HH Bonds: Meaning and Function (Algo Trading)"
-description: "Explore the significance of Series HH Bonds, a non-marketable U.S. government bond known for fixed interest and 20-year terms, within algorithmic trading."
+category: quant_concept
+description: Explore the significance of Series HH Bonds, a non-marketable U.S. government
+  bond known for fixed interest and 20-year terms, within algorithmic trading.
+title: 'Series HH Bonds: Meaning and Function (Algo Trading)'
 ---
 
 In today's financial market, bond options play a crucial role in portfolio diversification, risk management, and funding strategies. Among these, Series HH Bonds are a notable type of U.S. government savings bond, known for their fixed interest rates and 20-year term. These bonds represent an essential tool for investors seeking reliable, interest-bearing securities to secure long-term financial goals. Series HH Bonds, as non-marketable securities, are unique in that they cannot be bought or sold in secondary markets, providing a stable investment alternative with predictable returns. Although no longer available for purchase since 2004, their legacy persists in understanding the structure and benefits of fixed-income investments.

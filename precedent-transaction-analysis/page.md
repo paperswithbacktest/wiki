@@ -1,6 +1,9 @@
 ---
-title: "Precedent Transaction Analysis (Algo Trading)"
-description: "Explore precedent transaction analysis in algo trading to derive a company's market value using historical transaction data, enhancing strategic decisions in M&A."
+category: quant_concept
+description: Explore precedent transaction analysis in algo trading to derive a company's
+  market value using historical transaction data, enhancing strategic decisions in
+  M&A.
+title: Precedent Transaction Analysis (Algo Trading)
 ---
 
 Valuation methods serve as essential instruments in financial analysis, offering clarity on the value of a company or asset. These methods are particularly important in contexts such as mergers and acquisitions, where accurate valuations inform critical business decisions. Among these techniques, precedent transaction analysis is notable for its reliance on historical transaction data to estimate a company's contemporary market value. This method examines past transactions of similar companies to establish a benchmark for assessing the value of a business under current market conditions.

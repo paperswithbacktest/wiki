@@ -1,6 +1,8 @@
 ---
-title: "NYSE Composite Index Overview (Algo Trading)"
-description: "Explore the relationship between the NYSE Composite Index and algorithmic trading Discover how tech advances implement swift efficient trades in dynamic markets"
+category: quant_concept
+description: Explore the relationship between the NYSE Composite Index and algorithmic
+  trading Discover how tech advances implement swift efficient trades in dynamic markets
+title: NYSE Composite Index Overview (Algo Trading)
 ---
 
 The financial markets are intricate and constantly changing, a vast network of trading activities undergoing perpetual evolution. This evolution has largely been shaped by technological advancements, with algorithmic trading emerging as a powerful force. Algorithmic trading employs complex computer algorithms to execute trades at speeds and frequencies impossible for human traders. This technological innovation allows investors to engage with markets with unprecedented swiftness and efficiency, reducing transaction costs and improving market liquidity.

@@ -1,6 +1,8 @@
 ---
-title: "Intrinsic Value and Market Value Comparison (Algo Trading)"
-description: "Explore the differences between intrinsic and market value in investment and how algorithmic trading integrates these concepts to enhance trading strategies."
+category: quant_concept
+description: Explore the differences between intrinsic and market value in investment
+  and how algorithmic trading integrates these concepts to enhance trading strategies.
+title: Intrinsic Value and Market Value Comparison (Algo Trading)
 ---
 
 The landscape of investment analysis has transformed dramatically with the advent of advanced methodologies and sophisticated tools. Investment analysis now goes beyond mere intuition, employing systematic techniques that enhance decision-making processes. This article focuses on four key components central to contemporary finance: intrinsic value, market value, investment analysis, and algorithmic trading.
@@ -190,4 +192,3 @@ Investors who master these tools can effectively align their strategies with evo
 
 5. **Exploring further readings on financial methodologies and trading innovations**  
    It is advisable to continue exploring contemporary literature and research articles that cover emerging trends and technological advancements in financial methodologies and trading strategies. Journals, academic papers, and industry case studies provide ongoing insights into new innovations and practical applications.
-

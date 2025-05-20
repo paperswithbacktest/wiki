@@ -1,6 +1,9 @@
 ---
-title: "Hong Kong Dollar: Overview and Functionality (Algo Trading)"
-description: "Explore the significance of the Hong Kong Dollar and algorithmic trading within Hong Kong's vibrant financial system as they shape a leading global finance hub."
+category: quant_concept
+description: Explore the significance of the Hong Kong Dollar and algorithmic trading
+  within Hong Kong's vibrant financial system as they shape a leading global finance
+  hub.
+title: 'Hong Kong Dollar: Overview and Functionality (Algo Trading)'
 ---
 
 The Hong Kong financial system is an intricate and dynamic framework that significantly influences the global economy. At its core is the Hong Kong Dollar (HKD), a vital currency for financial trades and transactions. The HKD acts as a lynchpin in financial markets, ensuring that Hong Kong maintains its status as a major international financial hub.

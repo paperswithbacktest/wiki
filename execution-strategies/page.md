@@ -1,6 +1,9 @@
 ---
-title: "Execution Strategies (Algo Trading)"
-description: "Optimize your algo trading with effective execution strategies to minimize costs and risks Ensure optimal trade execution by understanding market dynamics and order types"
+category: trading_strategy
+description: Optimize your algo trading with effective execution strategies to minimize
+  costs and risks Ensure optimal trade execution by understanding market dynamics
+  and order types
+title: Execution Strategies (Algo Trading)
 ---
 
 Execution strategies are essential in algorithmic trading, comprising the methodologies employed to efficiently execute buy or sell orders. The primary objective of execution is to achieve optimal trading results by minimizing costs and risks associated with market impact, slippage, and latency. Market impact refers to the adverse effect on the asset's price resulting from the trade itself. Slippage represents the difference between the expected execution price of a trade and the actual price. Latency, on the other hand, involves the delay between decision-making and execution, often affecting transaction speeds and outcomes.

@@ -1,6 +1,9 @@
 ---
-title: "Golden Share: Overview and Benefits (Algo Trading)"
-description: "Explore the benefits of golden shares in corporate governance and their role alongside algorithmic trading in shaping financial landscapes and stakeholder influence."
+category: quant_concept
+description: Explore the benefits of golden shares in corporate governance and their
+  role alongside algorithmic trading in shaping financial landscapes and stakeholder
+  influence.
+title: 'Golden Share: Overview and Benefits (Algo Trading)'
 ---
 
 The landscape of corporate governance is rapidly evolving, shaped by an array of financial mechanisms and policies that influence how companies are directed and controlled. Corporate governance serves as the backbone of organizational integrity and accountability, ensuring that corporations act in the best interests of their stakeholders, including shareholders, employees, customers, and the broader community.

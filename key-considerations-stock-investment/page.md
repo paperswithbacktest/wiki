@@ -1,6 +1,8 @@
 ---
-title: "Key Considerations for Stock Investment (Algo Trading)"
-description: "Explore key investment tips and the rise of algorithmic trading to enhance your financial strategy and navigate the evolving stock market landscape effectively."
+category: trading_strategy
+description: Explore key investment tips and the rise of algorithmic trading to enhance
+  your financial strategy and navigate the evolving stock market landscape effectively.
+title: Key Considerations for Stock Investment (Algo Trading)
 ---
 
 Investing is becoming increasingly sophisticated, with technology playing a pivotal role in shaping the landscape. This evolution introduces a multitude of opportunities and challenges for both individual and institutional investors. The world of finance offers a broad spectrum of investment possibilities, ranging from traditional stock investments, which have been a cornerstone of financial growth and wealth generation, to modern strategies such as algorithmic trading. These strategies leverage advanced computer algorithms to execute trades at high speeds based on predetermined criteria, offering a new dimension to investment strategies.

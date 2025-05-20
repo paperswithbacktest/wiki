@@ -1,6 +1,9 @@
 ---
-title: "Classification of Preferred Stock as Equity or Fixed-Income Security (Algo Trading)"
-description: "Explore the classification of preferred stock as equity or fixed-income security and discover how algorithmic trading can optimize returns in volatile markets."
+category: quant_concept
+description: Explore the classification of preferred stock as equity or fixed-income
+  security and discover how algorithmic trading can optimize returns in volatile markets.
+title: Classification of Preferred Stock as Equity or Fixed-Income Security (Algo
+  Trading)
 ---
 
 In finance, investors are continuously searching for strategies that optimize the balance between risk and return, while also remaining adaptive to the inevitable fluctuations of the market. A sophisticated portfolio typically integrates a range of financial instruments, among which fixed-income securities, equities, and algorithmic trading are vital components. This article focuses on the interesting combination of fixed-income securities and equity, specifically preferred stocks, alongside algorithmic trading to enhance investment outcomes.
@@ -103,4 +106,3 @@ By strategically combining these financial instruments, investors can construct 
   This work investigates into the implementation of machine learning techniques for developing robust and adaptive trading strategies. Stefan Jansen covers concepts such as data-driven trading, automation, and performance improvement, crucial for integrating algorithmic trading within financial markets.
 
 These references provide additional context and depth for investors and financial professionals interested in preferred stocks, fixed-income securities, and the transformative role of algorithmic trading strategies.
-

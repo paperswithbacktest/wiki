@@ -1,6 +1,8 @@
 ---
-title: "Coppock Curve Trade Signal Generation (Algo Trading)"
-description: "Explore how the Coppock Curve, a momentum indicator, integrates into algorithmic trading for generating effective trade signals and optimizing strategies."
+category: trading_strategy
+description: Explore how the Coppock Curve, a momentum indicator, integrates into
+  algorithmic trading for generating effective trade signals and optimizing strategies.
+title: Coppock Curve Trade Signal Generation (Algo Trading)
 ---
 
 Technical analysis is a key component in trading strategies, focusing on analyzing statistical trends derived from trading activity, such as price movement and volume. It provides traders and investors with a means to predict future price behavior based on past market data. Unlike fundamental analysis, which evaluates a company's financial statements, technical analysis is rooted in the belief that past market trends often repeat and can offer significant insights into future movements.

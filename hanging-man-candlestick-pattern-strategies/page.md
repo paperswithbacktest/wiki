@@ -1,6 +1,10 @@
 ---
-title: "Hanging Man Candlestick Pattern and Strategies (Algo Trading)"
-description: "Explore the importance of the Hanging Man candlestick pattern in trading and how it can be integrated into algorithmic strategies. Discover insights into its formation, psychological implications, and how traders can effectively utilize it to enhance decision-making and optimize trading outcomes in the financial markets."
+category: trading_strategy
+description: Explore the importance of the Hanging Man candlestick pattern in trading
+  and how it can be integrated into algorithmic strategies. Discover insights into
+  its formation, psychological implications, and how traders can effectively utilize
+  it to enhance decision-making and optimize trading outcomes in the financial markets.
+title: Hanging Man Candlestick Pattern and Strategies (Algo Trading)
 ---
 
 Candlestick patterns are widely recognized as a fundamental tool for traders seeking to analyze and forecast market movements. Originating from Japan in the 18th century, these patterns provide visual cues about market sentiment and potential future price movements based on the historical behavior of a particular asset. Among the myriad of candlestick patterns, the Hanging Man stands out as a crucial indicator often signaling a bearish reversal. Characterized by its small body and long lower shadow with little to no upper shadow, the Hanging Man appears after a price uptrend, suggesting a potential shift from bullish sentiment to bearish pressure as sellers gain strength.

@@ -1,6 +1,8 @@
 ---
-title: "Random Variable: Types and Applications (Algo Trading)"
-description: "Explore how random variables and probability are vital in crafting successful algorithmic trading strategies by managing uncertainty in financial markets."
+category: quant_concept
+description: Explore how random variables and probability are vital in crafting successful
+  algorithmic trading strategies by managing uncertainty in financial markets.
+title: 'Random Variable: Types and Applications (Algo Trading)'
 ---
 
 In today's complex and dynamic financial markets, employing statistical analysis, random variables, and probability is essential for developing effective algorithmic trading strategies. Algorithmic trading refers to the use of computer programs that execute trades based on predefined criteria. This requires a sophisticated understanding of mathematical concepts to manage uncertainty and variability in market conditions.

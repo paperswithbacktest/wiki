@@ -1,6 +1,8 @@
 ---
-title: "Impact of Oil Prices on the Russian Economy (Algo Trading)"
-description: "Explore how fluctuating oil prices impact Russia's economy, a leading global exporter, and discover the role of algorithmic trading in market dynamics."
+category: quant_concept
+description: Explore how fluctuating oil prices impact Russia's economy, a leading
+  global exporter, and discover the role of algorithmic trading in market dynamics.
+title: Impact of Oil Prices on the Russian Economy (Algo Trading)
 ---
 
 Oil prices have always significantly impacted the global economy by affecting inflation, trade balances, and the cost structures of businesses worldwide. Dynamic and often unpredictable, fluctuations in oil prices hold the potential to either invigorate or destabilize economies reliant on oil exports. Russia exemplifies this phenomenon as a leading global oil exporter. The Russian economy is intrinsically linked to oil price trends, experiencing substantial revenue generation during periods of high prices and facing economic strain when prices fall.

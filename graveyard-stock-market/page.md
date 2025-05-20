@@ -1,6 +1,8 @@
 ---
-title: "Graveyard Stock Market (Algo Trading)"
-description: "Explore the impact of algorithmic trading and financial downturns on stock market dynamics and investment strategies in today's volatile landscape."
+category: trading_strategy
+description: Explore the impact of algorithmic trading and financial downturns on
+  stock market dynamics and investment strategies in today's volatile landscape.
+title: Graveyard Stock Market (Algo Trading)
 ---
 
 In recent years, financial markets have undergone profound transformations due to the integration of cutting-edge technologies and the influence of macroeconomic factors. The convergence of algorithmic trading, shifting market trends, and the occurrence of financial downturns has introduced complex dynamics to the stock market landscape. This article aims to explore the interplay of these elements and their implications for both short-term and long-term investment strategies.
@@ -140,4 +142,3 @@ In conclusion, the intersection of market trends, financial downturns, and algor
    - Jegadeesh, Narasimhan, and Sheridan Titman. "Returns to buying winners and selling losers: Implications for stock market efficiency." *The Journal of Finance*, vol. 48, no. 1, 1993, pp. 65-91. This landmark paper analyzes momentum strategies in stock markets, showing the effects of past trends on future performance.
 
 These references serve as a foundation for understanding the interconnected dynamics of algorithmic trading, market trends, and financial downturns, providing valuable resources for investors and researchers alike.
-

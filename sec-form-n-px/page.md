@@ -1,6 +1,14 @@
 ---
-title: "SEC Form N-PX (Algo Trading)"
-description: "Explore the crucial role of SEC Form N-PX in enhancing investment transparency by mandating annual disclosure of proxy voting records by registered investment funds. Gain insights into how mutual funds and companies vote, aligning investment choices with personal values and governance philosophies. Learn how these disclosures impact algorithmic trading, offering data-driven strategies a competitive edge by understanding voting patterns and market predictions. Dive into the evolving landscape of financial technologies, fostering investor knowledge in navigating transparency and corporate governance effectively."
+category: quant_concept
+description: Explore the crucial role of SEC Form N-PX in enhancing investment transparency
+  by mandating annual disclosure of proxy voting records by registered investment
+  funds. Gain insights into how mutual funds and companies vote, aligning investment
+  choices with personal values and governance philosophies. Learn how these disclosures
+  impact algorithmic trading, offering data-driven strategies a competitive edge by
+  understanding voting patterns and market predictions. Dive into the evolving landscape
+  of financial technologies, fostering investor knowledge in navigating transparency
+  and corporate governance effectively.
+title: SEC Form N-PX (Algo Trading)
 ---
 
 In today’s fast-paced financial world, transparency is a key concern for investors seeking to make informed decisions. The intricacies of shareholder voting can significantly impact investment outcomes, making it essential for investors to understand how and why investment companies vote on shareholder matters. Proxy voting is a mechanism that empowers shareholders, particularly those not physically present at shareholder meetings, to exercise their influence over corporate governance decisions through appointed representatives. Consequently, the visibility into these voting behaviors is of paramount importance.

@@ -1,6 +1,8 @@
 ---
-title: "Goodwill to Assets Ratio: Overview and Analysis (Algo Trading)"
-description: "Discover the intersection of accounting ratios and algorithmic trading by understanding the goodwill to assets ratio's role in financial strategy and valuation."
+category: quant_concept
+description: Discover the intersection of accounting ratios and algorithmic trading
+  by understanding the goodwill to assets ratio's role in financial strategy and valuation.
+title: 'Goodwill to Assets Ratio: Overview and Analysis (Algo Trading)'
 ---
 
 In the rapidly evolving world of finance, the intersection of accounting ratio financial analysis, the goodwill to assets ratio, and algorithmic trading presents unique opportunities and challenges. Accounting ratios serve as vital tools for investors and financial analysts, offering insights into a company's profitability, liquidity, efficiency, and solvency. Among these, the goodwill to assets ratio stands out as a specific indicator of a company's reliance on intangible assets, particularly goodwill, which often results from acquisitions and merges, highlighting aspects such as brand reputation or customer relationships.

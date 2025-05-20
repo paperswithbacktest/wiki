@@ -1,6 +1,8 @@
 ---
-title: "Institute Of Management Accountants: Overview And Functions (Algo Trading)"
-description: "Explore the intersection of management accounting and algorithmic trading as essential tools driving strategic financial decisions and market efficiency improvements."
+category: quant_concept
+description: Explore the intersection of management accounting and algorithmic trading
+  as essential tools driving strategic financial decisions and market efficiency improvements.
+title: 'Institute Of Management Accountants: Overview And Functions (Algo Trading)'
 ---
 
 Management accounting is a fundamental aspect of strategic financial planning and decision-making in organizations. It provides crucial insights that help enterprises optimize their resources and enhance overall efficiency. The Institute of Management Accountants (IMA), a prominent global association for financial professionals, plays a pivotal role in advancing management accounting by offering certifications, such as the Certified Management Accountant (CMA), and a range of resources designed to bolster expertise in this domain.

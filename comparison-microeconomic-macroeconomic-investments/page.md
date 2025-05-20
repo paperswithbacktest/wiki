@@ -1,6 +1,8 @@
 ---
-title: "Comparison of Microeconomic and Macroeconomic Investments (Algo Trading)"
-description: "Explore the interplay between microeconomic and macroeconomic factors in shaping investment strategies and the role of algorithmic trading in modern markets."
+category: quant_concept
+description: Explore the interplay between microeconomic and macroeconomic factors
+  in shaping investment strategies and the role of algorithmic trading in modern markets.
+title: Comparison of Microeconomic and Macroeconomic Investments (Algo Trading)
 ---
 
 Understanding economics is essential for making informed trading and investment decisions. Economics provides the foundational knowledge needed to interpret market signals and trends. Specifically, economics is divided into microeconomics and macroeconomics, both of which play a crucial role in crafting effective trading strategies.

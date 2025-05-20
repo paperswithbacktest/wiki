@@ -1,6 +1,8 @@
 ---
-title: "OTC Markets Group: Structure and Overview (Algo Trading)"
-description: "Explore the structure and innovations of OTC Markets Group Learn how algorithmic trading enhances speed and precision in navigating the OTC trading environment"
+category: quant_concept
+description: Explore the structure and innovations of OTC Markets Group Learn how
+  algorithmic trading enhances speed and precision in navigating the OTC trading environment
+title: 'OTC Markets Group: Structure and Overview (Algo Trading)'
 ---
 
 In the ever-evolving world of financial markets, traders are continuously seeking platforms and tools that offer them the edge in trading. The evolution of these platforms is fundamental in allowing traders to capitalize on market opportunities with precision and efficiency. Financial trading platforms have become indispensable to traders at all levels, granting access to a plethora of markets and instruments, and facilitating rapid execution of trades.

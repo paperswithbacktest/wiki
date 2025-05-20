@@ -1,6 +1,14 @@
 ---
-title: "Comparison of Real-Time and Delayed Market Quotes (Algo Trading)"
-description: "Explore the critical differences between real-time and delayed market quotes for algorithmic trading on this page. Real-time quotes provide immediate stock and market data, essential for day and high-frequency traders who rely on current information for swift decision-making. In contrast, delayed quotes are typically 15-20 minutes behind and are cost-effective for long-term investors focusing on broader trends rather than minute-to-minute changes. Understand the importance of precise data timing in algorithmic trading and learn how both real-time and delayed information can impact trading strategies and outcomes."
+category: quant_concept
+description: Explore the critical differences between real-time and delayed market
+  quotes for algorithmic trading on this page. Real-time quotes provide immediate
+  stock and market data, essential for day and high-frequency traders who rely on
+  current information for swift decision-making. In contrast, delayed quotes are typically
+  15-20 minutes behind and are cost-effective for long-term investors focusing on
+  broader trends rather than minute-to-minute changes. Understand the importance of
+  precise data timing in algorithmic trading and learn how both real-time and delayed
+  information can impact trading strategies and outcomes.
+title: Comparison of Real-Time and Delayed Market Quotes (Algo Trading)
 ---
 
 In the fast-paced financial markets, the precision of data and the timing of its delivery are critical for traders and investors seeking to maximize profits and minimize risks. Efficient trading relies heavily on the availability of accurate market information, which can be categorized mainly into two types: real-time market quotes and delayed market quotes. These types vary significantly in terms of immediacy and application, influencing the strategies employed by financial professionals.

@@ -1,6 +1,9 @@
 ---
-title: "Economics of Solar Energy (Algo Trading)"
-description: "Discover the economic factors affecting solar energy's global rise and the potential of algorithmic trading to optimize sustainable investments and solar market dynamics."
+category: quant_concept
+description: Discover the economic factors affecting solar energy's global rise and
+  the potential of algorithmic trading to optimize sustainable investments and solar
+  market dynamics.
+title: Economics of Solar Energy (Algo Trading)
 ---
 
 The global energy landscape is undergoing significant transformation as climate change concerns and the imminent depletion of fossil fuels necessitate a shift toward renewable energy sources. Among these, solar power emerges as a leading contender due to its considerable potential and rapidly decreasing costs. Recent advancements in solar technology alongside supportive government policies have accelerated the adoption of solar energy globally.

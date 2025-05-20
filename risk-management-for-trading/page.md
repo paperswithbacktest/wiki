@@ -1,6 +1,8 @@
 ---
-title: "risk management for trading (Algo Trading)"
-description: "Effective risk management is vital for algo trading to mitigate financial risks stemming from high-speed transactions, ensuring stability and maximizing profitability."
+category: trading_strategy
+description: Effective risk management is vital for algo trading to mitigate financial
+  risks stemming from high-speed transactions, ensuring stability and maximizing profitability.
+title: risk management for trading (Algo Trading)
 ---
 
 Algorithmic trading, commonly known as algo trading, leverages advanced algorithms to execute trading decisions at speeds and complexities that far exceed human capabilities. This high-speed and intricate environment necessitates meticulous risk management to prevent substantial financial losses. With predefined algorithms handling a vast number of transactions, maintaining stability and profitability hinges on robust risk management practices.

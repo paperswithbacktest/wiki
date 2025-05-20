@@ -1,6 +1,8 @@
 ---
-title: "Inflation-Linked Certificates of Deposit (Algo Trading)"
-description: "Explore how inflation-linked CDs and algorithmic trading can manage inflation risks and enhance investments by preserving purchasing power and capital growth."
+category: quant_concept
+description: Explore how inflation-linked CDs and algorithmic trading can manage inflation
+  risks and enhance investments by preserving purchasing power and capital growth.
+title: Inflation-Linked Certificates of Deposit (Algo Trading)
 ---
 
 Inflation is a fundamental economic concept, influencing the purchasing power of currency and consequently affecting various financial products. As prices rise, the real value of money tends to diminish, posing significant challenges for investors seeking to maintain the value of their portfolios. Understanding the implications of inflation is crucial for making informed investment decisions.

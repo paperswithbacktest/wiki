@@ -1,6 +1,9 @@
 ---
-title: "Investment Funds with Palladium Exposure (Algo Trading)"
-description: "Explore diverse investment opportunities with palladium-focused funds and algorithmic trading. Understand risk management and diversify effectively in evolving markets."
+category: trading_strategy
+description: Explore diverse investment opportunities with palladium-focused funds
+  and algorithmic trading. Understand risk management and diversify effectively in
+  evolving markets.
+title: Investment Funds with Palladium Exposure (Algo Trading)
 ---
 
 Understanding the financial landscape is crucial for investors aiming to diversify their portfolios. In this article, we explore concepts such as financial exposure, investment funds that focus on palladium, and the expanding field of algorithmic trading.

@@ -1,6 +1,9 @@
 ---
-title: "Retracement in Investing and Its Comparison to Reversal (Algo Trading)"
-description: "Discover how algorithmic trading enhances investing by distinguishing crucial market retracements from reversals, optimizing strategy with precision and speed."
+category: quant_concept
+description: Discover how algorithmic trading enhances investing by distinguishing
+  crucial market retracements from reversals, optimizing strategy with precision and
+  speed.
+title: Retracement in Investing and Its Comparison to Reversal (Algo Trading)
 ---
 
 Algorithmic trading has witnessed a substantial rise in popularity within the financial markets, driven by the need for efficiency, speed, and accuracy in executing trades. This growth is largely attributed to the evolution of technology, which has allowed traders to implement sophisticated strategies that can capitalize on market movements with minimal human intervention. Algorithmic trading, or algo trading, uses complex algorithms to automate the process of buying and selling securities, making it a fundamental element in modern trading strategies.

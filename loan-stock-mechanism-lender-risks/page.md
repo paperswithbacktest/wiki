@@ -1,6 +1,8 @@
 ---
-title: "Loan Stock: Mechanism and Lender Risks (Algo Trading)"
-description: "Explore the critical role of loans, stocks, and algorithmic trading in modern financial markets and understand the risks lenders face within these mechanisms."
+category: quant_concept
+description: Explore the critical role of loans, stocks, and algorithmic trading in
+  modern financial markets and understand the risks lenders face within these mechanisms.
+title: 'Loan Stock: Mechanism and Lender Risks (Algo Trading)'
 ---
 
 Financial mechanisms serve as the backbone of modern markets, shaping the flow of capital and fostering economic stability and growth. At the heart of these mechanisms lie loans, stocks, and lending activities, each playing a critical role in facilitating the movement of funds between entities. Loans provide the necessary capital for enterprises and individuals to invest in new ventures, purchase goods, or manage day-to-day operations, thereby stimulating economic activity. Stocks, on the other hand, represent ownership in companies and allow firms to raise capital from the public, creating opportunities for growth and expansion.

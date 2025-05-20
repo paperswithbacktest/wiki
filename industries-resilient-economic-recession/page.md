@@ -1,6 +1,8 @@
 ---
-title: "Industries Resilient to Economic Recession (Algo Trading)"
-description: "Explore recession-resilient industries and the role of algorithmic trading in economic stability Learn how these sectors safeguard investments during downturns"
+category: trading_strategy
+description: Explore recession-resilient industries and the role of algorithmic trading
+  in economic stability Learn how these sectors safeguard investments during downturns
+title: Industries Resilient to Economic Recession (Algo Trading)
 ---
 
 In times of economic downturns such as recessions, certain industries demonstrate a remarkable ability to sustain themselves amidst financial turbulence. This phenomenon of recession-resilient industries gains significant importance as the global economy frequently confronts uncertainties ranging from geopolitical tensions to unexpected financial crises. While traditional safe havens such as consumer staples and utilities remain relevant, technological advancements have introduced new dimensions to economic resilience.

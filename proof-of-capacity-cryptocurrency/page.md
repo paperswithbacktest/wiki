@@ -1,6 +1,9 @@
 ---
-title: "Proof of Capacity in Cryptocurrency (Algo Trading)"
-description: "Explore the energy-efficient Proof of Capacity consensus mechanism for cryptocurrencies and its implications for algorithmic trading within evolving blockchain technology."
+category: quant_concept
+description: Explore the energy-efficient Proof of Capacity consensus mechanism for
+  cryptocurrencies and its implications for algorithmic trading within evolving blockchain
+  technology.
+title: Proof of Capacity in Cryptocurrency (Algo Trading)
 ---
 
 In the rapidly advancing field of cryptocurrencies, various mechanisms are continuously being developed to enhance network efficiency and security. At the heart of these digital currencies lies the necessity for consensus mechanisms, which are instrumental in maintaining the integrity and operational performance of blockchain networks. These mechanisms ensure that all participants in the network agree on a single version of the truth, preventing issues like double-spending.

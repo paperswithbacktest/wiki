@@ -1,6 +1,8 @@
 ---
-title: "Downtick Volume (Algo Trading)"
-description: "Explore the importance of downtick volume in stock trading to understand market trends selling pressure and its integration in algorithmic trading strategies."
+category: quant_concept
+description: Explore the importance of downtick volume in stock trading to understand
+  market trends selling pressure and its integration in algorithmic trading strategies.
+title: Downtick Volume (Algo Trading)
 ---
 
 Stock trading market analysis is an essential component in understanding market trends and making informed trading decisions. It involves a comprehensive examination of historical data, statistical analyses, and various indicators to forecast future price movements. This analysis is crucial for investors and traders as it supports the development of strategies aimed at maximizing returns while minimizing risks. 

@@ -1,6 +1,9 @@
 ---
-title: "Hong Kong Monetary Authority: Roles and Functions (Algo Trading)"
-description: "Explore the vital roles and functions of the Hong Kong Monetary Authority in maintaining currency stability and fostering financial innovation within Hong Kong."
+category: quant_concept
+description: Explore the vital roles and functions of the Hong Kong Monetary Authority
+  in maintaining currency stability and fostering financial innovation within Hong
+  Kong.
+title: 'Hong Kong Monetary Authority: Roles and Functions (Algo Trading)'
 ---
 
 Understanding the crucial role of monetary authorities in modern economies is vital for anyone interested in finance. These entities not only regulate monetary policy and ensure financial stability but also adapt to the dynamic changes within global markets. The Hong Kong Monetary Authority (HKMA) stands as a pivotal institution within Hong Kong’s financial architecture, acting as a de facto central bank since its establishment in 1993. Its responsibilities extend beyond traditional banking oversight, encompassing the management of the Hong Kong dollar's stability through a linked exchange rate system with the US dollar.

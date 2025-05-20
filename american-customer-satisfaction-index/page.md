@@ -1,6 +1,8 @@
 ---
-title: "American Customer Satisfaction Index (Algo Trading)"
-description: "Explore how American Customer Satisfaction Index data enhances algorithmic trading strategies by integrating consumer insights for improved market decisions."
+category: dataset
+description: Explore how American Customer Satisfaction Index data enhances algorithmic
+  trading strategies by integrating consumer insights for improved market decisions.
+title: American Customer Satisfaction Index (Algo Trading)
 ---
 
 The American Customer Satisfaction Index (ACSI) serves as a critical benchmark in assessing consumer satisfaction within various industries in the United States. As a predictive tool, it captures consumer sentiments through extensive surveys, providing insights that are instrumental in market analysis and corporate strategy development. Accurate measurement of customer satisfaction can reveal significant trends and behaviors influencing both market dynamics and consumer preferences. ACSI's findings guide businesses in enhancing their product offerings and customer service protocols to remain competitive.

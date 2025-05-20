@@ -1,6 +1,8 @@
 ---
-title: "Investment Company Act of 1940 (Algo Trading)"
-description: "Explore how the Investment Company Act of 1940 shapes algorithmic trading within regulatory frameworks to ensure transparency and investor protection."
+category: quant_concept
+description: Explore how the Investment Company Act of 1940 shapes algorithmic trading
+  within regulatory frameworks to ensure transparency and investor protection.
+title: Investment Company Act of 1940 (Algo Trading)
 ---
 
 The Investment Company Act of 1940 is fundamentally significant in shaping the landscape of investment company regulation in the United States. Enacted as part of a series of legislative measures aimed at restoring trust in the financial system after the Great Depression, the Act established critical regulatory frameworks to protect investors and promote stability in financial markets. By instituting comprehensive regulations for the formation and operation of investment companies, it sought to prevent the financial abuses that contributed to the stock market crash of 1929.

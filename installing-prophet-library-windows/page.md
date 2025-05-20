@@ -1,6 +1,12 @@
 ---
-title: "Installing Prophet Library on Windows (Algo Trading)"
-description: "Learn how to install the Prophet library on Windows for algorithmic trading: a crucial tool for financial forecasting. This guide covers the prerequisites and detailed installation steps to seamlessly set up Prophet. Understand its strategic advantages, such as handling outliers and seasonal data, to enhance your trading strategies. Also, find solutions for potential installation challenges, ensuring a smooth integration into your trading system for improved market analysis and decision-making."
+category: dataset
+description: 'Learn how to install the Prophet library on Windows for algorithmic
+  trading: a crucial tool for financial forecasting. This guide covers the prerequisites
+  and detailed installation steps to seamlessly set up Prophet. Understand its strategic
+  advantages, such as handling outliers and seasonal data, to enhance your trading
+  strategies. Also, find solutions for potential installation challenges, ensuring
+  a smooth integration into your trading system for improved market analysis and decision-making.'
+title: Installing Prophet Library on Windows (Algo Trading)
 ---
 
 Algorithmic trading has significantly revolutionized the financial markets, primarily through the utilization of advanced data analysis techniques. This quantitative approach allows for the execution of complex trading strategies at high speeds, far surpassing the capabilities of manual trading. Central to this evolution is the integration of sophisticated forecasting models, which are crucial for predicting market trends and making informed trading decisions.

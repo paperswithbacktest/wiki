@@ -1,6 +1,9 @@
 ---
-title: "Assessing REITs with Funds from Operations and Adjusted Funds from Operations (Algo Trading)"
-description: "Explore the essential metrics of Funds from Operations (FFO) and Adjusted Funds from Operations (AFFO) for assessing REITs alongside algorithmic trading insights."
+category: trading_strategy
+description: Explore the essential metrics of Funds from Operations (FFO) and Adjusted
+  Funds from Operations (AFFO) for assessing REITs alongside algorithmic trading insights.
+title: Assessing REITs with Funds from Operations and Adjusted Funds from Operations
+  (Algo Trading)
 ---
 
 Real Estate Investment Trusts (REITs) are companies that own, operate, or finance income-generating real estate across a range of property sectors. Modeled after mutual funds, REITs provide investors with a way to earn a proportion of income generated through real estate investments without directly owning or managing the properties. They are crucial in investment portfolios due to their potential for providing competitive returns via dividends and capital appreciation, as well as their ability to diversify investment holdings beyond the traditional realms of stocks and bonds.

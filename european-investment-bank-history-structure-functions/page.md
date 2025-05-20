@@ -1,6 +1,8 @@
 ---
-title: "European Investment Bank: History, Structure, and Functions (Algo Trading)"
-description: "Explore the European Investment Bank's history, structure, and functions including its key role in algorithmic trading and strategic initiatives in the EU."
+category: quant_concept
+description: Explore the European Investment Bank's history, structure, and functions
+  including its key role in algorithmic trading and strategic initiatives in the EU.
+title: 'European Investment Bank: History, Structure, and Functions (Algo Trading)'
 ---
 
 The European Investment Bank (EIB) is a cornerstone institution within the European Union, established to support its policy objectives through the financing of large-scale projects. Founded in 1958 under the Treaty of Rome, the EIB has since become one of the world's largest multilateral financial institutions, playing a critical role in fostering economic growth, promoting social cohesion, and addressing environmental challenges across the EU and beyond. 

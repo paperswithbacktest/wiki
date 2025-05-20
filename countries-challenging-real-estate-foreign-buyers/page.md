@@ -1,6 +1,9 @@
 ---
-title: "Countries with Challenging Real Estate Markets for Foreign Buyers (Algo Trading)"
-description: "Explore the complexities of international real estate investing with insights into how algorithmic trading is transforming decision-making for foreign buyers."
+category: quant_concept
+description: Explore the complexities of international real estate investing with
+  insights into how algorithmic trading is transforming decision-making for foreign
+  buyers.
+title: Countries with Challenging Real Estate Markets for Foreign Buyers (Algo Trading)
 ---
 
 In the rapidly evolving world of international property investment, foreign buyers are increasingly leveraging advanced technologies to enhance their decision-making processes. The adoption of algorithmic trading, a mechanism traditionally confined to the trading of stocks and commodities, is now permeating the real estate sector. This significant shift offers both challenges and opportunities within the landscape of real estate investing, especially for foreign buyers seeking international properties.

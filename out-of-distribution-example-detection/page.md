@@ -1,7 +1,8 @@
 ---
-title: Out-of-Distribution Detection and the DIME Method for Models
+category: quant_concept
 description: Out-of-Distribution detection uses the DIME framework to merge Mahalanobis
   distance with model confidence to improve model reliability Discover more inside
+title: Out-of-Distribution Detection and the DIME Method for Models
 ---
 
 ![Image](images/1.jpeg)

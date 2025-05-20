@@ -1,6 +1,9 @@
 ---
-title: "Convertible Bond Overview and Benefits (Algo Trading)"
-description: "Explore the benefits of convertible bonds and algorithmic trading as they offer a blend of risk management and growth potential in today's financial landscape."
+category: quant_concept
+description: Explore the benefits of convertible bonds and algorithmic trading as
+  they offer a blend of risk management and growth potential in today's financial
+  landscape.
+title: Convertible Bond Overview and Benefits (Algo Trading)
 ---
 
 Convertible bond investments have become an important aspect of modern finance, as investors look for ways to balance risk and potential returns. Convertible bonds, which possess the characteristics of both bonds and equities, offer diversification and flexibility. Algorithmic trading, characterized by the use of computer algorithms to automate trading decisions, has gained prominence as a critical tool in financial markets. This intersection of finance and technology optimizes investment outcomes, enhancing the potential gains from convertible bonds while minimizing risks.

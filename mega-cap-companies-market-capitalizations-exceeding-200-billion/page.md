@@ -1,6 +1,9 @@
 ---
-title: "Mega Cap Companies with Market Capitalizations Exceeding $200 Billion (Algo Trading)"
-description: "Explore the influence of mega cap companies with market caps over $200 billion and the role of algorithmic trading in shaping today's financial markets."
+category: quant_concept
+description: Explore the influence of mega cap companies with market caps over $200
+  billion and the role of algorithmic trading in shaping today's financial markets.
+title: Mega Cap Companies with Market Capitalizations Exceeding $200 Billion (Algo
+  Trading)
 ---
 
 In today's rapidly evolving financial markets, mega cap companies and algorithmic trading are two dominant forces shaping the landscape. Mega cap companies, defined as those with market capitalizations exceeding $200 billion, exert significant influence on global markets due to their economic size, widespread consumer reach, and capacity for technological innovation. These firms often set industry standards, influencing trends in sectors such as technology, finance, and consumer goods.
@@ -129,4 +132,3 @@ Aronson, D. (2006). 'Evidence-Based Technical Analysis: Applying the Scientific 
 Jansen, S. (2020). 'Machine Learning for Algorithmic Trading.' This resource serves as a guide for integrating machine learning into algorithmic trading, offering practical insights and code examples to facilitate the development of trading strategies through machine learning techniques.
 
 Chan, E.P. (2009). 'Quantitative Trading: How to Build Your Own Algorithmic Trading Business.' Chan outlines the fundamental aspects of creating a [quantitative trading](/wiki/quantitative-trading) business, providing a foundational understanding of how quantitative methods can be applied to build and refine trading algorithms.
-

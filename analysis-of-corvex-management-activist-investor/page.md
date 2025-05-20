@@ -1,6 +1,8 @@
 ---
-title: "Analysis of Corvex Management as an Activist Investor (Algo Trading)"
-description: "Explore Corvex Management's activist trading strategies and algorithmic integration as they reshape corporate landscapes under Keith Meister’s leadership."
+category: trading_strategy
+description: Explore Corvex Management's activist trading strategies and algorithmic
+  integration as they reshape corporate landscapes under Keith Meister’s leadership.
+title: Analysis of Corvex Management as an Activist Investor (Algo Trading)
 ---
 
 Corvex Management is a hedge fund based in New York, recognized for its influence in the world of activist investing. Founded by Keith Arlyn Meister, a protégé of the renowned investor Carl Icahn, Corvex has become a significant player in shaping corporate landscapes through strategic investments and advocacy for change within companies. Keith Meister's leadership and his background in activist investment have positioned Corvex as a formidable force in pushing for reforms that often lead to enhanced shareholder value.

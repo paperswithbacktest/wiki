@@ -1,6 +1,13 @@
 ---
-title: "Indentured Servitude: History and Controversy (Algo Trading)"
-description: "Explore the intricate connections between the historical practice of indentured servitude and modern issues such as algorithmic trading in this comprehensive analysis. Discover how labor systems from the past inform contemporary debates on economic structures and societal impacts, providing valuable insights into ongoing labor controversies and technological advancements in trading. Understand the legacy and ethical considerations of historical and modern labor practices to anticipate future challenges in economic efficiency and employment equity."
+category: quant_concept
+description: Explore the intricate connections between the historical practice of
+  indentured servitude and modern issues such as algorithmic trading in this comprehensive
+  analysis. Discover how labor systems from the past inform contemporary debates on
+  economic structures and societal impacts, providing valuable insights into ongoing
+  labor controversies and technological advancements in trading. Understand the legacy
+  and ethical considerations of historical and modern labor practices to anticipate
+  future challenges in economic efficiency and employment equity.
+title: 'Indentured Servitude: History and Controversy (Algo Trading)'
 ---
 
 The intersection of labor history, specifically indentured servitude, and modern controversies, such as algorithmic trading, presents an intricate web of economic and societal issues that have evolved over centuries. Understanding the historical context of labor systems like indentured servitude and their transformation provides a lens through which we can view the complexities of contemporary labor dynamics, particularly within the sphere of algorithmic trading.

@@ -1,6 +1,9 @@
 ---
-title: "Brokered Market: Overview and Mechanism (Algo Trading)"
-description: "Explore brokered markets algorithmic trading and financial structures Learn how they facilitate transactions liquidity and the interplay within today's financial markets"
+category: quant_concept
+description: Explore brokered markets algorithmic trading and financial structures
+  Learn how they facilitate transactions liquidity and the interplay within today's
+  financial markets
+title: 'Brokered Market: Overview and Mechanism (Algo Trading)'
 ---
 
 In today’s rapidly evolving financial landscape, brokered markets, financial market structures, and algorithmic trading are pivotal components shaping the way trading is executed and transactions are processed. Each element plays a crucial role: brokered markets provide the necessary liquidity and facilitate efficient transactions through intermediaries; financial market structures determine the organization and flow of trading activities; and algorithmic trading employs advanced technological tools to ensure speed, accuracy, and cost-effectiveness in executing trades.

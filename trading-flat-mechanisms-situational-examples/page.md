@@ -1,6 +1,8 @@
 ---
-title: "Trading Flat: Mechanisms and Situational Examples (Algo Trading)"
-description: "Explore the mechanisms and challenges of trading flat markets with algorithmic strategies Understand how to find opportunities in periods of price stagnation"
+category: trading_strategy
+description: Explore the mechanisms and challenges of trading flat markets with algorithmic
+  strategies Understand how to find opportunities in periods of price stagnation
+title: 'Trading Flat: Mechanisms and Situational Examples (Algo Trading)'
 ---
 
 The financial markets are dynamic environments where prices fluctuate based on various economic, political, and psychological factors. However, there are occasions when these markets exhibit minimal price movement, resulting in what is known as a flat market. During such periods, traders and investors face distinct challenges and opportunities. A flat market is characterized by stagnant prices, with little to no upward or downward movement—a scenario that, while seemingly uneventful, can be strategically significant.

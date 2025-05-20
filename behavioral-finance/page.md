@@ -1,6 +1,14 @@
 ---
-title: "Behavioral finance (Algo Trading)"
-description: Explore the cutting-edge field of behavioral finance and its application in algorithmic trading. Learn how the fusion of psychology and finance helps to decode market behaviors influenced by human biases like overconfidence and herd mentality. Discover how integrating these insights into algorithmic models can optimize trading strategies and improve market stability, harnessing the power of cognitive psychology to anticipate and react to market anomalies for potential profit and growth. Unveil the complexities and opportunities that arise at this intersection, paving the way for innovative trading approaches.
+category: quant_concept
+description: Explore the cutting-edge field of behavioral finance and its application
+  in algorithmic trading. Learn how the fusion of psychology and finance helps to
+  decode market behaviors influenced by human biases like overconfidence and herd
+  mentality. Discover how integrating these insights into algorithmic models can optimize
+  trading strategies and improve market stability, harnessing the power of cognitive
+  psychology to anticipate and react to market anomalies for potential profit and
+  growth. Unveil the complexities and opportunities that arise at this intersection,
+  paving the way for innovative trading approaches.
+title: Behavioral finance (Algo Trading)
 ---
 
 Behavioral finance is a groundbreaking field that combines elements of psychology with traditional financial theory to provide a deeper understanding of market behaviors. Unlike classical finance, which assumes that markets are efficient and participants are rational, behavioral finance acknowledges that emotional and cognitive biases can significantly impact decision-making processes. These biases, such as overconfidence, loss aversion, and herd behavior, often lead to irrational market behaviors that deviate from the predictions of traditional models.

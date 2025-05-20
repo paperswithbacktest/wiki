@@ -1,6 +1,8 @@
 ---
-title: "Average Balance: Usage and Effects on Interest (Algo Trading)"
-description: "Explore the essential role of average balance and interest calculation in algorithmic trading Learn their impact on financial decisions and trading strategies"
+category: quant_concept
+description: Explore the essential role of average balance and interest calculation
+  in algorithmic trading Learn their impact on financial decisions and trading strategies
+title: 'Average Balance: Usage and Effects on Interest (Algo Trading)'
 ---
 
 In the world of finance, understanding the intricacies of interest calculation, average balance, and algorithmic trading is crucial. These elements form the backbone of many financial decisions and products. Interest calculation involves determining the cost of borrowing money or the potential gains from savings, typically expressed as a percentage. It is fundamental in shaping the terms and attractiveness of loans and savings products. Various methods such as simple or compound interest calculations dictate how much one pays on a loan or earns on a deposit.

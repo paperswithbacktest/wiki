@@ -1,6 +1,12 @@
 ---
-title: "Bank Merger Review Modernization Act (Algo Trading)"
-description: "Explore the complexities of financial regulation in the context of the Bank Merger Review Modernization Act focusing on bank mergers and algorithmic trading. Understand the evolution of financial regulation and its role in fostering innovation while ensuring stability across systems. Discover key historical milestones, modernization trends, and the intricate balance regulators must maintain to address challenges in today's rapidly evolving financial landscape."
+category: quant_concept
+description: Explore the complexities of financial regulation in the context of the
+  Bank Merger Review Modernization Act focusing on bank mergers and algorithmic trading.
+  Understand the evolution of financial regulation and its role in fostering innovation
+  while ensuring stability across systems. Discover key historical milestones, modernization
+  trends, and the intricate balance regulators must maintain to address challenges
+  in today's rapidly evolving financial landscape.
+title: Bank Merger Review Modernization Act (Algo Trading)
 ---
 
 Financial regulation serves as an essential framework for maintaining the integrity and stability of financial systems. Historically, it has evolved significantly, responding to economic challenges and technological advancements. Initially, regulation focused on preventing bank runs and ensuring depositor safety, as seen in the aftermath of major financial crises like the Great Depression. Over time, the financial industry witnessed significant legislative changes aimed at adapting to an increasingly complex and interconnected global economy. The Glass-Steagall Act of 1933, for instance, was a critical regulatory milestone that separated commercial and investment banking activities in the United States, thereby reshaping financial operations for decades.

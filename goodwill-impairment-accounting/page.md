@@ -1,6 +1,8 @@
 ---
-title: "Goodwill Impairment in Accounting (Algo Trading)"
-description: "Explore how goodwill impairment impacts accounting and trading strategies by analyzing its effects on financial reporting and the role of algorithmic trading."
+category: quant_concept
+description: Explore how goodwill impairment impacts accounting and trading strategies
+  by analyzing its effects on financial reporting and the role of algorithmic trading.
+title: Goodwill Impairment in Accounting (Algo Trading)
 ---
 
 Goodwill is a crucial intangible asset that emerges during corporate acquisitions when a buyer pays more for a company than the fair value of its identifiable net assets. This excess payment often reflects valuable brand reputation, customer relationships, and other non-quantifiable assets contributing to future economic benefits. In corporate finance and accounting, goodwill is significant because it offers a more realistic picture of a company's value beyond its tangible assets, guiding strategic investment decisions.
@@ -170,4 +172,3 @@ Looking ahead, future trends are likely to see even deeper integration of intang
    - Coursera and edX offer modules on financial accounting principles, algorithmic trading, and the role of financial technology in market operations. Explore offerings from institutions like Wharton School or MIT Sloan School of Management for courses on modern finance strategies.
 
 These curated sources will provide foundational knowledge and advanced insights into goodwill accounting practices, impairment testing, and the integration of algorithmic trading techniques in financial markets.
-

@@ -1,6 +1,9 @@
 ---
-title: "Mixed Lot: Overview, Functionality, and Benefits (Algo Trading)"
-description: "Explore the integration of mixed lot logistics with algorithmic trading to optimize inventory management enhance trading performance and improve supply chain efficiency."
+category: quant_concept
+description: Explore the integration of mixed lot logistics with algorithmic trading
+  to optimize inventory management enhance trading performance and improve supply
+  chain efficiency.
+title: 'Mixed Lot: Overview, Functionality, and Benefits (Algo Trading)'
 ---
 
 The convergence of inventory management, mixed lot logistics, and algorithmic trading represents a frontier in optimizing both supply chain and trading operations. As industries evolve, understanding the dynamics of mixed lots becomes pivotal for professionals immersed in logistics and inventory management. 

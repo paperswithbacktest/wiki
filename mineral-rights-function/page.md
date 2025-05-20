@@ -1,6 +1,8 @@
 ---
-title: "Mineral Rights and Their Function (Algo Trading)"
-description: "Explore the complex relationship between mineral rights, mining regulations, and algorithmic trading in shaping the global economy and resource management."
+category: quant_concept
+description: Explore the complex relationship between mineral rights, mining regulations,
+  and algorithmic trading in shaping the global economy and resource management.
+title: Mineral Rights and Their Function (Algo Trading)
 ---
 
 Mineral rights, resource ownership, mining regulations, and algorithmic trading form a complex web that increasingly influences today's global economy. As industries worldwide shift toward more sustainable practices, the need for critical minerals such as lithium, cobalt, and rare earth elements has surged. These minerals are essential for powering electric vehicles, renewable energy technologies, and advanced electronics, underscoring a growing demand that impacts a wide range of stakeholders, from landowners to large-scale investors.

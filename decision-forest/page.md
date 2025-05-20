@@ -1,8 +1,9 @@
 ---
-title: Understanding Decision Forests in Machine Learning Models
+category: quant_concept
 description: Decision Forests combine multiple decision trees using random sampling
   and feature selection to improve accuracy and prevent overfitting Discover more
   inside
+title: Understanding Decision Forests in Machine Learning Models
 ---
 
 ![Image](images/1.png)

@@ -1,6 +1,8 @@
 ---
-title: "Singapore Exchange (Algo Trading)"
-description: "Explore the advanced algorithmic trading systems at the Singapore Exchange SGX offering cutting-edge solutions for global investors in Asia's financial markets."
+category: dataset
+description: Explore the advanced algorithmic trading systems at the Singapore Exchange
+  SGX offering cutting-edge solutions for global investors in Asia's financial markets.
+title: Singapore Exchange (Algo Trading)
 ---
 
 The Singapore financial market, led by the Singapore Exchange (SGX), has rapidly evolved, establishing itself as one of Asia's most prominent multi-asset class exchanges. Founded in 1999, SGX emerged from the merger of the Stock Exchange of Singapore and the Singapore International Monetary Exchange. This pivotal integration laid the foundation for SGX's role as a crucial player in the global financial ecosystem. SGX offers a wide range of financial products including derivatives, equities, and commodities, catering to both domestic and international investors.

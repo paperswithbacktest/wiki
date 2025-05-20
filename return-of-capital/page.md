@@ -1,6 +1,8 @@
 ---
-title: "Return of Capital (Algo Trading)"
-description: "Explore how Return of Capital (ROC) influences algorithmic trading strategies helping investors optimize tax liabilities while enhancing investment returns."
+category: quant_concept
+description: Explore how Return of Capital (ROC) influences algorithmic trading strategies
+  helping investors optimize tax liabilities while enhancing investment returns.
+title: Return of Capital (Algo Trading)
 ---
 
 In today's fast-evolving financial landscape, understanding the various aspects of investment returns is vital. One such concept is the Return of Capital (ROC), especially in the context of algorithmic trading. This principle is pivotal for investors aiming to maintain strategic financial growth while managing tax liabilities effectively. ROC represents the return of an original investment back to investors, distinct from income or capital gains. By differentiating between the recovery of the original investment and taxable income, investors can optimize their financial strategies.

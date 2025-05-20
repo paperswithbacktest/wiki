@@ -1,6 +1,8 @@
 ---
-title: "High-dimensional statistical models in trading (Algo Trading)"
-description: "Unlock the potential of high-dimensional statistical models in algo trading to optimize strategies process vast datasets and enhance decision-making accuracy."
+category: quant_concept
+description: Unlock the potential of high-dimensional statistical models in algo trading
+  to optimize strategies process vast datasets and enhance decision-making accuracy.
+title: High-dimensional statistical models in trading (Algo Trading)
 ---
 
 In the world of trading, high-dimensional statistical models are increasingly becoming indispensable. These models are designed to handle vast datasets characterized by a large number of variables, often exceeding the number of observations. Traditional statistical methods tend to struggle with such data complexity due to issues like multicollinearity and the curse of dimensionality. In contrast, high-dimensional models excel at analyzing and interpreting these intricate datasets with greater precision and speed.

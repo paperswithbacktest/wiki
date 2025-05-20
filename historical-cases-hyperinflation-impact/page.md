@@ -1,6 +1,8 @@
 ---
-title: "Historical Cases of Hyperinflation and Their Impact (Algo Trading)"
-description: "Explore historical hyperinflation cases like Germany's Weimar era and Zimbabwe's crisis and their impacts on economies and algorithmic trading strategies."
+category: quant_concept
+description: Explore historical hyperinflation cases like Germany's Weimar era and
+  Zimbabwe's crisis and their impacts on economies and algorithmic trading strategies.
+title: Historical Cases of Hyperinflation and Their Impact (Algo Trading)
 ---
 
 Hyperinflation is a severe economic phenomenon distinguished by an exceptionally rapid increase in prices, leading to a situation where the currency in question essentially loses its value. Unlike ordinary inflation, which can represent healthy economic growth when kept at manageable levels, hyperinflation is defined by inflation rates exceeding 50% per month. This extraordinary rate of inflation destabilizes economies, leading to drastic currency devaluation, and can be triggered by various factors including excessive money supply, fiscal mismanagement, and a loss of confidence in the nation's currency.

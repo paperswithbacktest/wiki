@@ -1,7 +1,8 @@
 ---
-title: Bayesian Neural Networks for Reliable Uncertainty Estimates
+category: quant_concept
 description: Bayesian Neural Networks model weights as distributions to quantify prediction
   uncertainty with variational inference and MCMC. Discover more inside.
+title: Bayesian Neural Networks for Reliable Uncertainty Estimates
 ---
 
 ![Image](images/1.png)

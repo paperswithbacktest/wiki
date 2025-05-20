@@ -1,6 +1,8 @@
 ---
-title: "Comparison of Gold and Treasury Securities as Inflation Hedges (Algo Trading)"
-description: "Explore how gold and treasury securities, combined with algorithmic trading, serve as effective inflation hedges amidst economic fluctuations."
+category: trading_strategy
+description: Explore how gold and treasury securities, combined with algorithmic trading,
+  serve as effective inflation hedges amidst economic fluctuations.
+title: Comparison of Gold and Treasury Securities as Inflation Hedges (Algo Trading)
 ---
 
 Inflation, characterized by the gradual increase in prices and corresponding decrease in purchasing power, presents challenges for investors seeking to preserve their wealth. Amidst fluctuating economic conditions, it's crucial to understand how inflation impacts investment portfolios. Various financial instruments have been identified as potential hedges against inflation, notably treasury securities and gold. These assets offer different methods of safeguarding wealth against the eroding effects of inflation due to their unique characteristics and historical performance.

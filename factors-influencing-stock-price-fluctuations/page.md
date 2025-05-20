@@ -1,6 +1,12 @@
 ---
-title: "Factors Influencing Stock Price Fluctuations (Algo Trading)"
-description: "Discover the intricate dynamics influencing stock price fluctuations in the fast-paced realm of finance. This article examines key factors such as economic indicators, investor sentiment, and the transformative impact of algorithmic trading. Gain a comprehensive understanding of how these elements shape market behavior, affect volatility, and inform investment decisions for savvy investors navigating global financial markets."
+category: quant_concept
+description: Discover the intricate dynamics influencing stock price fluctuations
+  in the fast-paced realm of finance. This article examines key factors such as economic
+  indicators, investor sentiment, and the transformative impact of algorithmic trading.
+  Gain a comprehensive understanding of how these elements shape market behavior,
+  affect volatility, and inform investment decisions for savvy investors navigating
+  global financial markets.
+title: Factors Influencing Stock Price Fluctuations (Algo Trading)
 ---
 
 In the ever-evolving world of finance, stock price movements are of paramount importance to investors who seek to maximize returns and minimize risks. The dynamic nature of stock prices stems from a multitude of factors, each exerting varying levels of influence on market behavior. Among these, the impact of economic indicators, investor sentiment, and unexpected global events cannot be overlooked. As stock prices respond to these influences, market volatility emerges as a key area of concern, representing the degree of variation in trading prices over a given period.

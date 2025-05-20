@@ -1,6 +1,9 @@
 ---
-title: "Currency Swap Mechanisms (Algo Trading)"
-description: "Discover how currency swaps and algorithmic trading empower businesses to manage risks, optimize financial strategies, and capitalize on global market opportunities."
+category: quant_concept
+description: Discover how currency swaps and algorithmic trading empower businesses
+  to manage risks, optimize financial strategies, and capitalize on global market
+  opportunities.
+title: Currency Swap Mechanisms (Algo Trading)
 ---
 
 In today’s complex financial landscape, the ability to navigate and understand various financial instruments is crucial for both businesses and investors. Financial markets have developed a broad array of tools, among which currency swaps and algorithmic trading stand out due to their substantial roles in international finance. These instruments are instrumental in managing risks, enhancing financial strategies, and capitalizing on market opportunities across the globe.

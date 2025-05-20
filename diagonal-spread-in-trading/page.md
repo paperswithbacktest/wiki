@@ -1,6 +1,8 @@
 ---
-title: "Diagonal Spread in Trading (Algo Trading)"
-description: "Explore how diagonal spreads in algo trading combine vertical and calendar strategies for added flexibility and potential profitability through automation."
+category: trading_strategy
+description: Explore how diagonal spreads in algo trading combine vertical and calendar
+  strategies for added flexibility and potential profitability through automation.
+title: Diagonal Spread in Trading (Algo Trading)
 ---
 
 Options trading has become an essential component of today's financial markets. Traders utilize diverse strategies to navigate market complexities, and among them, the diagonal spread stands out as a sophisticated approach. This strategy ingeniously combines elements from both vertical and calendar spreads, allowing traders to leverage advantages from both setups. Vertical spreads involve options with the same expiry but different strike prices, while calendar spreads entail options with the same strike price but different expiration dates. The diagonal spread intersects these characteristics to provide a nuanced trading method that benefits from price movement and time decay.

@@ -1,6 +1,9 @@
 ---
-title: "Return On Investment Calculation For Rental Properties (Algo Trading)"
-description: "Calculate ROI for rental properties using advanced algorithmic trading strategies. Optimize investments, improve efficiency, and maximize your potential returns."
+category: quant_concept
+description: Calculate ROI for rental properties using advanced algorithmic trading
+  strategies. Optimize investments, improve efficiency, and maximize your potential
+  returns.
+title: Return On Investment Calculation For Rental Properties (Algo Trading)
 ---
 
 Rental property investments have emerged as a preferred option for generating passive income and building long-term wealth. For potential investors venturing into this domain, comprehending the intricacies involved is vital to making informed decisions that maximize returns. Central to these decisions is the calculation of Return on Investment (ROI), a pivotal metric used to gauge the profitability of rental properties. ROI offers insights into the efficiency of an investment, assisting investors in comparing potential returns against their financial outlays.

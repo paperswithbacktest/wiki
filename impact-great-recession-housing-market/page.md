@@ -1,6 +1,8 @@
 ---
-title: "Impact of the Great Recession on the Housing Market (Algo Trading)"
-description: "Explore how the Great Recession reshaped the housing market and the rise of algorithmic trading unraveling economic impacts and recovery dynamics."
+category: quant_concept
+description: Explore how the Great Recession reshaped the housing market and the rise
+  of algorithmic trading unraveling economic impacts and recovery dynamics.
+title: Impact of the Great Recession on the Housing Market (Algo Trading)
 ---
 
 The global economic downturn known as the Great Recession, which took place from 2007 to 2009, underscored the deep interconnectedness between the housing market and the broader economy. This period was marked by a dramatic contraction in economic activity worldwide, stemming from a collapse in housing prices and the subsequent financial crisis. The destabilization of the housing market revealed how deeply the global financial system was intertwined with residential real estate values, leading to significant repercussions across various sectors of the economy.

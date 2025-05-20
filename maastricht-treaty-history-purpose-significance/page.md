@@ -1,6 +1,8 @@
 ---
-title: "Maastricht Treaty: History, Purpose, and Significance (Algo Trading)"
-description: "Explore the Maastricht Treaty's pivotal role in shaping the EU's economic and political landscape and its impact on algorithmic trading trends in Europe."
+category: quant_concept
+description: Explore the Maastricht Treaty's pivotal role in shaping the EU's economic
+  and political landscape and its impact on algorithmic trading trends in Europe.
+title: 'Maastricht Treaty: History, Purpose, and Significance (Algo Trading)'
 ---
 
 The Maastricht Treaty, often referred to as the Treaty on European Union, serves as a foundational element in the establishment of the European Union (EU). Signed in 1992 in Maastricht, Netherlands, the treaty played a pivotal role in shaping Europe's political and economic landscape by providing the structural framework necessary for greater integration among European nations.

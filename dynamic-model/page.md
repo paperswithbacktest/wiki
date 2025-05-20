@@ -1,7 +1,8 @@
 ---
-title: Adaptive Dynamic Models in Machine Learning Applications
+category: quant_concept
 description: Dynamic Models in Machine Learning adapt to real time data to improve
   prediction accuracy for weather stock or traffic forecasting Discover more inside
+title: Adaptive Dynamic Models in Machine Learning Applications
 ---
 
 ![Image](images/1.jpeg)

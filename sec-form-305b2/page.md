@@ -1,6 +1,9 @@
 ---
-title: "SEC Form 305B2 (Algo Trading)"
-description: "Understand the essentials of SEC Form 305B2 in algorithmic trading. Learn its importance for transparency and compliance in securities issuance for financial firms."
+category: quant_concept
+description: Understand the essentials of SEC Form 305B2 in algorithmic trading. Learn
+  its importance for transparency and compliance in securities issuance for financial
+  firms.
+title: SEC Form 305B2 (Algo Trading)
 ---
 
 In today's financial landscape, understanding key regulatory forms like SEC Form 305B2 is crucial for companies involved in the issuance of securities. This regulatory form holds particular significance for firms that engage in automated trading and financial reporting, as it embodies the principles of transparency and accountability essential in contemporary finance. SEC Form 305B2 is strategically designed to align with the intricacies of algorithmic trading, ensuring that companies maintain the requisite compliance while utilizing advanced trading technologies. 

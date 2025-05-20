@@ -1,6 +1,11 @@
 ---
-title: "OKX API Guide (Algo Trading)"
-description: Explore the OKX API Guide for insights into algorithmic trading in cryptocurrency markets. Learn how to set up and optimize trading algorithms using OKX's robust platform, which offers tools like REST and WebSocket APIs for efficient data access and trade execution. Enhance your trading precision and operational efficiency with advanced features while maintaining security and performance in fast-paced environments.
+category: quant_concept
+description: Explore the OKX API Guide for insights into algorithmic trading in cryptocurrency
+  markets. Learn how to set up and optimize trading algorithms using OKX's robust
+  platform, which offers tools like REST and WebSocket APIs for efficient data access
+  and trade execution. Enhance your trading precision and operational efficiency with
+  advanced features while maintaining security and performance in fast-paced environments.
+title: OKX API Guide (Algo Trading)
 ---
 
 Algorithmic trading, a method of executing trades using automated pre-programmed trading instructions, has gained significant traction among investors and traders worldwide. Its growing popularity can be attributed to its ability to conduct transactions at speeds and frequencies that exceed human capabilities, utilizing advanced mathematical models and complex algorithms. This approach not only enhances efficiency but also mitigates emotional decision-making, providing a significant edge in the fast-paced financial markets.

@@ -1,6 +1,8 @@
 ---
-title: "Graham Number: Formula, Examples, and Limitations (Algo Trading)"
-description: "Explore the Graham Number a key valuation metric for assessing stock value based on earnings and book value Discover its relevance in algorithmic trading."
+category: quant_concept
+description: Explore the Graham Number a key valuation metric for assessing stock
+  value based on earnings and book value Discover its relevance in algorithmic trading.
+title: 'Graham Number: Formula, Examples, and Limitations (Algo Trading)'
 ---
 
 In today's fast-evolving financial markets, investment analysis plays a crucial role in aiding investors to make well-informed decisions. As markets become increasingly complex and interconnected, understanding fundamental financial metrics is essential for evaluating investment opportunities and assessing potential risk. Among these metrics, the Graham Number stands out as a significant tool, enabling investors to determine the fair value of stocks based on earnings and book value. This traditional method continues to hold relevance even in modern trading approaches, particularly in algorithmic trading.

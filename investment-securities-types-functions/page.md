@@ -1,6 +1,8 @@
 ---
-title: "Investment Securities: Types and Functions (Algo Trading)"
-description: "Explore investment securities and algorithmic trading their functions in capital growth and risk management Learn how these assets support diverse portfolios"
+category: quant_concept
+description: Explore investment securities and algorithmic trading their functions
+  in capital growth and risk management Learn how these assets support diverse portfolios
+title: 'Investment Securities: Types and Functions (Algo Trading)'
 ---
 
 Investment securities play a crucial role in financial markets by providing mechanisms for capital growth and enabling businesses and governments to raise necessary funds. These securities serve as fundamental instruments for investors aiming to diversify their portfolios and achieve long-term financial objectives. By understanding how securities function and the variety of options available, investors can make informed decisions tailored to their risk tolerance and investment goals.

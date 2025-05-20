@@ -1,6 +1,12 @@
 ---
-title: "Advanced Economies: Criteria and Statistics (Algo Trading)"
-description: "Discover the crucial role of advanced economies in global finance through their high income, industrialization, and innovation. Learn how algorithmic trading utilizes economic indicators like GDP and inflation to enhance trading strategies, mitigate risks, and drive successful investment decisions. Uncover how integrating economic statistics with cutting-edge technology is essential for investors and policymakers to navigate the dynamic global marketplace."
+category: dataset
+description: Discover the crucial role of advanced economies in global finance through
+  their high income, industrialization, and innovation. Learn how algorithmic trading
+  utilizes economic indicators like GDP and inflation to enhance trading strategies,
+  mitigate risks, and drive successful investment decisions. Uncover how integrating
+  economic statistics with cutting-edge technology is essential for investors and
+  policymakers to navigate the dynamic global marketplace.
+title: 'Advanced Economies: Criteria and Statistics (Algo Trading)'
 ---
 
 In today's interconnected world, understanding economic statistics is crucial for both investors and policy-makers. Advanced economies, characterized by their high per capita income and extensive industrialization, play a significant role in shaping the global financial landscape. These economies are not only major players in global trade but also influential in setting trends in technological advancements and financial systems. They have robust infrastructural, educational, and health systems, contributing to their high Human Development Index (HDI).

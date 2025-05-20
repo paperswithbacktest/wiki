@@ -1,6 +1,8 @@
 ---
-title: "Adjusted Balance Method (Algo Trading)"
-description: "Explore the benefits of the adjusted balance method for credit calculation and discover how algo trading can optimize financial strategies and execution."
+category: quant_concept
+description: Explore the benefits of the adjusted balance method for credit calculation
+  and discover how algo trading can optimize financial strategies and execution.
+title: Adjusted Balance Method (Algo Trading)
 ---
 
 In the rapidly evolving world of finance, mastering concepts like the "adjusted balance method" and "algo trading" is essential for both beginners and experienced professionals in banking and investments. As financial markets grow increasingly complex, these terms represent pivotal strategies that can shape the landscape of personal and institutional finance.

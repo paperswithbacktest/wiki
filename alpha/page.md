@@ -1,6 +1,11 @@
 ---
-title: "Alpha (Algo Trading)"
-description: Explore the significance of Alpha in algorithmic trading, a key metric that measures investment performance against market indices. Understand how traders use Alpha to assess and refine strategies for generating excess returns, highlighting its role in modern portfolio theory and the quest for consistent positive Alpha in efficient markets.
+category: quant_concept
+description: Explore the significance of Alpha in algorithmic trading, a key metric
+  that measures investment performance against market indices. Understand how traders
+  use Alpha to assess and refine strategies for generating excess returns, highlighting
+  its role in modern portfolio theory and the quest for consistent positive Alpha
+  in efficient markets.
+title: Alpha (Algo Trading)
 ---
 
 In the ever-evolving world of finance, understanding how investments perform in comparison to market indices is crucial. Investors and analysts rely on various metrics to evaluate investment success, one of which is Alpha. Alpha measures the active return on an investment, providing insights into how a specific investment or trading strategy performs relative to a benchmark index.

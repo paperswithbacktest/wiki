@@ -1,6 +1,14 @@
 ---
-title: "List of Highly Tradable Currencies (Algo Trading)"
-description: "Explore the world of highly tradable currencies and discover how algorithmic trading is revolutionizing the Forex market. This article investigates into the significance of key currencies like the US Dollar, Euro, and Japanese Yen, highlighting their economic stability and universal acceptance. Learn how advanced trading algorithms leverage data to enhance performance, minimize errors, and optimize decision-making. Understand the fundamental and technical aspects of high-frequency trading to navigate the Forex market with precision and gain a strategic advantage in currency exchange strategies."
+category: trading_strategy
+description: Explore the world of highly tradable currencies and discover how algorithmic
+  trading is revolutionizing the Forex market. This article investigates into the
+  significance of key currencies like the US Dollar, Euro, and Japanese Yen, highlighting
+  their economic stability and universal acceptance. Learn how advanced trading algorithms
+  leverage data to enhance performance, minimize errors, and optimize decision-making.
+  Understand the fundamental and technical aspects of high-frequency trading to navigate
+  the Forex market with precision and gain a strategic advantage in currency exchange
+  strategies.
+title: List of Highly Tradable Currencies (Algo Trading)
 ---
 
 In the world of finance, understanding tradable currencies and their role in currency exchange is crucial. The foreign exchange market, commonly referred to as Forex, is the platform where currencies are traded, establishing itself as the largest financial market worldwide. Characterized by its immense liquidity and dynamic nature, Forex involves participants from governments to individual traders.

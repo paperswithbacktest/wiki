@@ -1,6 +1,9 @@
 ---
-title: "Brunei Investment Agency: Structure and Holdings (Algo Trading)"
-description: "Explore the Brunei Investment Agency's structure and investment strategies, including its innovative use of algorithmic trading to enhance performance and economic resilience."
+category: quant_concept
+description: Explore the Brunei Investment Agency's structure and investment strategies,
+  including its innovative use of algorithmic trading to enhance performance and economic
+  resilience.
+title: 'Brunei Investment Agency: Structure and Holdings (Algo Trading)'
 ---
 
 Understanding the landscape of global investments requires a closer look at sovereign wealth funds and how they operate across different regions. The Brunei Investment Agency (BIA) stands as a notable example of such an entity. Established in 1983, BIA was created to manage Brunei's wealth derived predominantly from oil exports, functioning as a central component of the nation's economic framework. It plays a critical role in ensuring Brunei's financial stability and economic diversification, preparing the country for a future less reliant on oil revenues. 

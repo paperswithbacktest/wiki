@@ -1,6 +1,8 @@
 ---
-title: "Commercial Paper Funding Facility (Algo Trading)"
-description: "Explore how the Commercial Paper Funding Facility supports financial stability through liquidity in markets and the rise of algorithmic trading's influence."
+category: quant_concept
+description: Explore how the Commercial Paper Funding Facility supports financial
+  stability through liquidity in markets and the rise of algorithmic trading's influence.
+title: Commercial Paper Funding Facility (Algo Trading)
 ---
 
 In the complex tapestry of financial markets, the Commercial Paper Funding Facility (CPFF) stands out as a crucial intervention by the Federal Reserve during periods of economic distress. Initially introduced in response to the 2008 financial crisis, the CPFF was designed to provide liquidity to the commercial paper market, which is pivotal for the short-term financing needs of corporations. As firms rely on commercial paper to fund everyday operational costs, the freeze in this market during the crisis threatened to exacerbate financial instability. The CPFF aimed to purchase short-term debt from corporations, thereby restoring investor confidence and ensuring that essential short-term financing remained available.

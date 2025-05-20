@@ -1,6 +1,9 @@
 ---
-title: "Poop and Scoop: Explanation and Examples (Algo Trading)"
-description: "Explore the synergy between pet waste management and technology focusing on how systematic methods can enhance community cleanliness and health through innovative solutions."
+category: quant_concept
+description: Explore the synergy between pet waste management and technology focusing
+  on how systematic methods can enhance community cleanliness and health through innovative
+  solutions.
+title: 'Poop and Scoop: Explanation and Examples (Algo Trading)'
 ---
 
 Pet waste management, while often overlooked, plays a critical role in maintaining cleanliness and hygiene in urban and suburban areas. In densely populated regions, the sheer volume of waste produced by pets can pose significant challenges. Effective sanitation practices, such as regular poop scooping and proper disposal, are essential not only for maintaining public cleanliness but also for protecting community health.

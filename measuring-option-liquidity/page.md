@@ -1,6 +1,9 @@
 ---
-title: "Measuring Option Liquidity (Algo Trading)"
-description: "Explore the intricacies of option liquidity in trading with insights into measuring liquidity through daily volume and open interest facilitated by algorithmic trading."
+category: quant_concept
+description: Explore the intricacies of option liquidity in trading with insights
+  into measuring liquidity through daily volume and open interest facilitated by algorithmic
+  trading.
+title: Measuring Option Liquidity (Algo Trading)
 ---
 
 In the ever-evolving landscape of financial markets, options trading has emerged as a prominent investment avenue, attracting both novice and experienced traders. Options are financial derivatives that confer the right, but not the obligation, to buy or sell an underlying asset at a predetermined price before or at the expiration date. The appeal of options trading lies in its flexibility, leverage potential, and ability to hedge against risks.

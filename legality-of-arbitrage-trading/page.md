@@ -1,6 +1,8 @@
 ---
-title: "Legality of Arbitrage Trading (Algo Trading)"
-description: "Explore the legal landscape of arbitrage and algorithmic trading ensuring compliance while optimizing trading strategies for efficiency and minimized risks."
+category: quant_concept
+description: Explore the legal landscape of arbitrage and algorithmic trading ensuring
+  compliance while optimizing trading strategies for efficiency and minimized risks.
+title: Legality of Arbitrage Trading (Algo Trading)
 ---
 
 Arbitrage trading and algorithmic trading are two major strategies employed in the financial markets to optimize trading activities. These strategies are pivotal for traders who aim to maximize efficiency and minimize risks in an increasingly complex financial environment. Understanding their legality is essential for investors as it helps in navigating regulatory landscapes effectively and avoiding potential legal pitfalls.

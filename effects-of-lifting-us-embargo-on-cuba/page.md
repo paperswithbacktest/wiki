@@ -1,6 +1,8 @@
 ---
-title: "Effects of Lifting the U.S. Embargo on Cuba (Algo Trading)"
-description: "Explore the potential impacts of lifting the U.S. embargo on Cuba, focusing on shifts in international relations, economic opportunities, and algo trading dynamics."
+category: quant_concept
+description: Explore the potential impacts of lifting the U.S. embargo on Cuba, focusing
+  on shifts in international relations, economic opportunities, and algo trading dynamics.
+title: Effects of Lifting the U.S. Embargo on Cuba (Algo Trading)
 ---
 
 The relationship between the United States and Cuba has been a focal point of international politics and economics for over six decades, largely shaped by the U.S. embargo on the island nation. Instituted in the early 1960s, the embargo emerged from Cold War tensions and has persistently influenced bilateral ties and Cuba's interactions with global markets. Its reach extends beyond mere trade restrictions, affecting diplomatic engagements and economic development strategies within the region and beyond.

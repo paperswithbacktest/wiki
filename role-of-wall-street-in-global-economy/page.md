@@ -1,6 +1,8 @@
 ---
-title: "Role of Wall Street in the Global Economy (Algo Trading)"
-description: "Explore Wall Street’s pivotal role in the global economy and the transformative impact of algorithmic trading, highlighting its influence on financial markets."
+category: quant_concept
+description: Explore Wall Street’s pivotal role in the global economy and the transformative
+  impact of algorithmic trading, highlighting its influence on financial markets.
+title: Role of Wall Street in the Global Economy (Algo Trading)
 ---
 
 The global financial markets are fundamental to the world's economy, with Wall Street at its core, influencing market trends and shaping economic policies. Wall Street, synonymous with financial power and institutional strength, not only represents a geographical location but also embodies the spirit of global financial activity. It hosts major stock exchanges, such as the New York Stock Exchange (NYSE) and Nasdaq, which are crucial players in determining market dynamics globally.

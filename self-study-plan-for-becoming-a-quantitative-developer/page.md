@@ -1,6 +1,14 @@
 ---
-title: "Self-Study Plan for Becoming a Quantitative Developer (Algo Trading)"
-description: Learn the essentials of becoming a quantitative developer with this comprehensive self-study plan focused on algorithmic trading. Discover the role of a quant developer, the necessary skills, and the typical workplaces in the finance industry. Gain insights into the responsibilities involving mathematical models, programming skills, and financial market knowledge required for building high-performance trading systems. This guide also explores the symbiotic relationship between quant developers and algorithmic traders, highlighting the distinct roles they play in optimizing automated trading strategies.
+category: quant_concept
+description: Learn the essentials of becoming a quantitative developer with this comprehensive
+  self-study plan focused on algorithmic trading. Discover the role of a quant developer,
+  the necessary skills, and the typical workplaces in the finance industry. Gain insights
+  into the responsibilities involving mathematical models, programming skills, and
+  financial market knowledge required for building high-performance trading systems.
+  This guide also explores the symbiotic relationship between quant developers and
+  algorithmic traders, highlighting the distinct roles they play in optimizing automated
+  trading strategies.
+title: Self-Study Plan for Becoming a Quantitative Developer (Algo Trading)
 ---
 
 A quant developer, often termed "quant," is a professional who specializes in designing, developing, and implementing quantitative models for algorithmic trading systems. These individuals play a critical role in the financial industry, especially in the development of automated trading strategies that execute trades based on statistical and mathematical models. They work at the intersection of finance, mathematics, and computer science, harnessing each of these fields to optimize trading performance and efficiency.

@@ -1,6 +1,9 @@
 ---
-title: "Lifecycle Funds: Functionality and Examples (Algo Trading)"
-description: "Explore lifecycle funds and algorithmic trading contrasting hands-off investment strategies with dynamic market approaches to enhance long-term financial planning."
+category: trading_strategy
+description: Explore lifecycle funds and algorithmic trading contrasting hands-off
+  investment strategies with dynamic market approaches to enhance long-term financial
+  planning.
+title: 'Lifecycle Funds: Functionality and Examples (Algo Trading)'
 ---
 
 Investing wisely is essential for anyone aiming to achieve long-term financial objectives. With the financial landscape in constant flux, understanding the available investment strategies is paramount for making informed decisions. This article focuses on two distinct yet innovative investment strategies: lifecycle funds and algorithmic trading. These strategies demonstrate different approaches, addressing varied risk appetites and investment timelines.

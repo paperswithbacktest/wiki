@@ -1,6 +1,14 @@
 ---
-title: "Comparison of M1 Finance and Merrill Guided Investing (Algo Trading)"
-description: "Explore a detailed comparison between M1 Finance and Merrill Guided Investing, two leading robo-advisors with unique strategies in automated investment management. Discover how M1 Finance's pie-based investing and fractional shares offer precise customization for investors, while Merrill Guided Investing combines algorithmic portfolios with expert oversight, leveraging Bank of America's resources. This guide helps potential users choose between M1's cost-effective, self-directed approach and Merrill's integrated service model, considering factors like investment strategies, fees, user experience, and customer support to align with individual financial objectives."
+category: trading_strategy
+description: Explore a detailed comparison between M1 Finance and Merrill Guided Investing,
+  two leading robo-advisors with unique strategies in automated investment management.
+  Discover how M1 Finance's pie-based investing and fractional shares offer precise
+  customization for investors, while Merrill Guided Investing combines algorithmic
+  portfolios with expert oversight, leveraging Bank of America's resources. This guide
+  helps potential users choose between M1's cost-effective, self-directed approach
+  and Merrill's integrated service model, considering factors like investment strategies,
+  fees, user experience, and customer support to align with individual financial objectives.
+title: Comparison of M1 Finance and Merrill Guided Investing (Algo Trading)
 ---
 
 M1 Finance and Merrill Guided Investing are prominent players in the expanding market of robo-advisors, each offering unique approaches to automated investment management. M1 Finance distinguishes itself through a dynamic platform that emphasizes personalized, pie-based investing and fractional share ownership. This allows users to customize their portfolios with precision and accessibility, catering to both novice and seasoned investors. Merrill Guided Investing, a subsidiary of Merrill Lynch, integrates traditional investment expertise with automated strategies, leveraging the extensive resources and banking privileges available through its association with Bank of America.

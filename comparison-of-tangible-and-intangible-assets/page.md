@@ -1,6 +1,9 @@
 ---
-title: "Comparison of Tangible and Intangible Assets (Algo Trading)"
-description: "Explore the distinctions between tangible and intangible assets and discover how algorithmic trading enhances investment strategies for managing these assets effectively."
+category: quant_concept
+description: Explore the distinctions between tangible and intangible assets and discover
+  how algorithmic trading enhances investment strategies for managing these assets
+  effectively.
+title: Comparison of Tangible and Intangible Assets (Algo Trading)
 ---
 
 Understanding the different types of assets is fundamental in finance for developing effective investment strategies. This article will compare tangible and intangible assets and explore the role of algorithmic trading in managing these assets. Tangible assets, including real estate and machinery, provide concrete value and stability, making them appealing for investors looking for steady returns and collateral options. In contrast, intangible assets like patents and intellectual property, although lacking physical presence, are crucial for a company's competitive positioning and long-term growth, especially in technology-centric industries.

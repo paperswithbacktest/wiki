@@ -1,6 +1,8 @@
 ---
-title: "Comparison of Par Value and Market Value (Algo Trading)"
-description: "Explore the differences between par and market value in stock trading, their impact on investments, and the role of algorithmic trading in valuation dynamics."
+category: quant_concept
+description: Explore the differences between par and market value in stock trading,
+  their impact on investments, and the role of algorithmic trading in valuation dynamics.
+title: Comparison of Par Value and Market Value (Algo Trading)
 ---
 
 Stock valuation is a fundamental aspect of financial markets, playing a crucial role in investment decision-making processes. It involves determining the intrinsic value of a stock to assess whether it is overvalued or undervalued compared to its current trading price. This evaluation guides investors in making informed purchase and sale decisions, aiming to optimize returns and manage risk.

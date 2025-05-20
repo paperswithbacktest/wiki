@@ -1,6 +1,8 @@
 ---
-title: "Economic Capital: Calculation and Example (Algo Trading)"
-description: "Discover how economic capital calculations enhance algorithmic trading systems by improving risk management and investment strategies in financial markets."
+category: quant_concept
+description: Discover how economic capital calculations enhance algorithmic trading
+  systems by improving risk management and investment strategies in financial markets.
+title: 'Economic Capital: Calculation and Example (Algo Trading)'
 ---
 
 Algorithmic trading has fundamentally transformed financial markets by employing sophisticated computer algorithms to execute trades with unmatched precision and speed. These algorithms can analyze large datasets almost instantaneously, identifying and capitalizing on market opportunities while minimizing human error and emotional decision-making. This approach not only enhances the efficiency of trading operations but also enables the execution of complex trading strategies that would be impractical manually. 

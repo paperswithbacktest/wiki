@@ -1,6 +1,14 @@
 ---
-title: "Notable Forex Traders in History (Algo Trading)"
-description: "Explore the most influential Forex traders in history, known for their strategic insight and innovation. Discover how pioneers like George Soros and Stanley Druckenmiller shaped the Forex market, achieving legendary success through deep economic understanding. Delve into the rise of algorithmic trading, highlighting its transformative impact on Forex trading efficiency and profitability. This article offers a rich look at both historical figures and modern advancements, showcasing the blend of human intelligence and technological progress that continues to drive Forex markets forward."
+category: trading_strategy
+description: Explore the most influential Forex traders in history, known for their
+  strategic insight and innovation. Discover how pioneers like George Soros and Stanley
+  Druckenmiller shaped the Forex market, achieving legendary success through deep
+  economic understanding. Delve into the rise of algorithmic trading, highlighting
+  its transformative impact on Forex trading efficiency and profitability. This article
+  offers a rich look at both historical figures and modern advancements, showcasing
+  the blend of human intelligence and technological progress that continues to drive
+  Forex markets forward.
+title: Notable Forex Traders in History (Algo Trading)
 ---
 
 Forex trading, also known as foreign exchange trading, is the act of buying and selling currencies on the global market. This market is the largest and most liquid in the world, boasting daily trading volumes that exceed $6 trillion. Such liquidity makes Forex trading a popular method of investing, providing ample opportunities for high returns by capitalizing on the fluctuating values of different currencies.

@@ -1,9 +1,9 @@
 ---
-title: Lightspeed vs Interactive Brokers Trading Platform Comparison
+category: trading_strategy
 description: Lightspeed vs Interactive Brokers comparison of account minimums fees
   features and global trading guides your broker choice Discover more inside.
+title: Lightspeed vs Interactive Brokers Trading Platform Comparison
 ---
-
 
 ![Image](images/1.png)
 

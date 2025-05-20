@@ -1,6 +1,9 @@
 ---
-title: "Y: Meaning, Function, and Examples (Algo Trading)"
-description: "Discover the pivotal role of the 'Y' function in trading from its symbol significance in ADRs to its application in algorithmic trading strategies using yfinance."
+category: quant_concept
+description: Discover the pivotal role of the 'Y' function in trading from its symbol
+  significance in ADRs to its application in algorithmic trading strategies using
+  yfinance.
+title: 'Y: Meaning, Function, and Examples (Algo Trading)'
 ---
 
 The 'Y' function holds significant importance across various financial contexts, serving as a bridge between trading symbols and algorithmic trading. In the world of stock markets, the 'Y' symbol is particularly crucial for American Depositary Receipts (ADRs), which allow U.S. investors to trade shares of foreign companies on American exchanges. The unique 'Y' suffix within trading symbols identifies those instruments as ADRs, distinguishing them from other equity investments. This facilitates investors' access to global markets without the direct complexities of dealing with foreign financial regulations and currency exchange fluctuations.

@@ -1,6 +1,8 @@
 ---
-title: "Market Conversion Price (Algo Trading)"
-description: "Explore the critical components of algorithmic trading and market conversion price with insights into stock conversion practices and essential financial terms."
+category: quant_concept
+description: Explore the critical components of algorithmic trading and market conversion
+  price with insights into stock conversion practices and essential financial terms.
+title: Market Conversion Price (Algo Trading)
 ---
 
 Understanding the complex world of finance can be daunting with its multitude of terms and concepts. It encompasses diverse areas such as stock exchanges, derivatives, commodities, and more, all of which have their own unique terminology and intricacies. This complexity is compounded when one considers the different financial products and strategies available to investors and traders. Navigating these waters requires not only an understanding of individual terms but also how they relate to and influence one another.

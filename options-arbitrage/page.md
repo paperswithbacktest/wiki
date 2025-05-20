@@ -1,6 +1,16 @@
 ---
-title: "Options arbitrage (Algo Trading)"
-description: Options arbitrage in algorithmic trading leverages pricing inefficiencies in the options market to execute low-risk strategies for consistent profits. This approach involves detecting and capitalizing on the mispricing of options relative to their theoretical values through strategies like conversions and reversals. Conversions neutralize market risk by shorting calls, longing puts, and purchasing the underlying asset when options are overpriced, while reversals do the opposite for underpriced options. The rapid advancement in trading technology and algorithms has refined the ability to spot these opportunities, enabling traders to act with unmatched speed and precision. Despite fewer opportunities due to quick market corrections, options arbitrage remains a vital component of sophisticated trading strategies.
+category: trading_strategy
+description: Options arbitrage in algorithmic trading leverages pricing inefficiencies
+  in the options market to execute low-risk strategies for consistent profits. This
+  approach involves detecting and capitalizing on the mispricing of options relative
+  to their theoretical values through strategies like conversions and reversals. Conversions
+  neutralize market risk by shorting calls, longing puts, and purchasing the underlying
+  asset when options are overpriced, while reversals do the opposite for underpriced
+  options. The rapid advancement in trading technology and algorithms has refined
+  the ability to spot these opportunities, enabling traders to act with unmatched
+  speed and precision. Despite fewer opportunities due to quick market corrections,
+  options arbitrage remains a vital component of sophisticated trading strategies.
+title: Options arbitrage (Algo Trading)
 ---
 
 Options arbitrage is a nuanced strategy in algorithmic trading that seeks to exploit pricing inefficiencies within the options market. These inefficiencies arise when options are mispriced relative to their theoretical value, creating opportunities for traders to execute low-risk strategies that yield steady profits. The rapid evolution of technology and sophisticated algorithms has reshaped how traders approach these opportunities, enhancing their ability to detect and act on inefficiencies with precision and speed.

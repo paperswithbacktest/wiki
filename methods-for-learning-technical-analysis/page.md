@@ -1,6 +1,8 @@
 ---
-title: "Methods for Learning Technical Analysis (Algo Trading)"
-description: "Learn how to master investment strategies, technical analysis, and algo trading in modern financial markets with insightful knowledge and practical approaches."
+category: quant_concept
+description: Learn how to master investment strategies, technical analysis, and algo
+  trading in modern financial markets with insightful knowledge and practical approaches.
+title: Methods for Learning Technical Analysis (Algo Trading)
 ---
 
 In the fast-paced world of financial markets, staying ahead of the curve requires a robust understanding of investment strategies, technical analysis, and algorithmic trading. Advances in technology and analytics have transformed the manner in which market participants assess risks and opportunities. This article explores the core concepts behind these methods and provides insight into effective learning approaches to mastering them.

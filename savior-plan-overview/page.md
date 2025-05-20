@@ -1,6 +1,8 @@
 ---
-title: "Savior Plan Overview (Algo Trading)"
-description: "Explore strategic planning in algorithmic trading with the Savior Plan framework enhancing algo efficiency resilience and financial performance for investors."
+category: trading_strategy
+description: Explore strategic planning in algorithmic trading with the Savior Plan
+  framework enhancing algo efficiency resilience and financial performance for investors.
+title: Savior Plan Overview (Algo Trading)
 ---
 
 Algorithmic trading, often referred to as algo trading, involves the use of complex algorithms to automatically execute trades with enhanced efficiency and rapidity. These algorithms analyze numerous market variables, identify trading opportunities, and execute buy or sell orders at optimal timings. This technological innovation has transformed traditional trading practices by reducing the need for manual order placement, thus increasing the speed and accuracy of trade execution.

@@ -1,6 +1,12 @@
 ---
-title: "Payment-In-Kind Bonds and Interest Mechanisms (Algo Trading)"
-description: "Discover the world of Payment-In-Kind (PIK) bonds where companies issue additional bonds instead of cash for interest payments offering crucial cash flow relief during financial distress. Explore the benefits and risks for investors seeking higher yields but facing elevated default risks. Learn how PIK bonds integrate with algorithmic trading optimizing strategies for high-yield investments while comparing them to traditional bonds in terms of risk and reward."
+category: quant_concept
+description: Discover the world of Payment-In-Kind (PIK) bonds where companies issue
+  additional bonds instead of cash for interest payments offering crucial cash flow
+  relief during financial distress. Explore the benefits and risks for investors seeking
+  higher yields but facing elevated default risks. Learn how PIK bonds integrate with
+  algorithmic trading optimizing strategies for high-yield investments while comparing
+  them to traditional bonds in terms of risk and reward.
+title: Payment-In-Kind Bonds and Interest Mechanisms (Algo Trading)
 ---
 
 In the world of bond investments, Payment-In-Kind (PIK) bonds present a unique proposition. These securities distinguish themselves by offering a creative form of interest payment, wherein companies issue additional bonds instead of paying cash to cover interest obligations. This alternative structure can be particularly vital for companies experiencing financial distress, as it allows them to conserve cash during challenging times.

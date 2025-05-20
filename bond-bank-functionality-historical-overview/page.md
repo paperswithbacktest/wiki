@@ -1,6 +1,9 @@
 ---
-title: "Bond Bank: Functionality and Historical Overview (Algo Trading)"
-description: "Explore the evolution of the bond market from its historical roots to the role of bond banks and the transformative effect of algorithmic trading on modern strategies."
+category: quant_concept
+description: Explore the evolution of the bond market from its historical roots to
+  the role of bond banks and the transformative effect of algorithmic trading on modern
+  strategies.
+title: 'Bond Bank: Functionality and Historical Overview (Algo Trading)'
 ---
 
 The financial market is a complex ecosystem made up of various instruments, among which bonds hold a fundamental position. Bonds serve as essential financial tools for both governments and corporations, providing a mechanism to secure funding for a variety of initiatives. This article brings together a comprehensive overview of the bond market's historical development, alongside the interplay of bond banks and the transformative impact of algorithmic trading on modern investment strategies.

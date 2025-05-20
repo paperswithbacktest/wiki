@@ -1,6 +1,8 @@
 ---
-title: "Essential Metrics for Value Investors (Algo Trading)"
-description: "Discover how value investing principles blend with algorithmic trading to refine decision-making and risk management for optimal investment strategies."
+category: trading_strategy
+description: Discover how value investing principles blend with algorithmic trading
+  to refine decision-making and risk management for optimal investment strategies.
+title: Essential Metrics for Value Investors (Algo Trading)
 ---
 
 Value investing is a strategic financial approach aimed at uncovering underpriced securities by conducting comprehensive fundamental analysis. This method primarily involves calculating a company's intrinsic value and comparing it to its current market valuation. Esteemed investors like Warren Buffett have been instrumental in popularizing this investment style, heralding its efficacy over long durations. Buffett's investment philosophy underscores the belief that purchasing undervalued stocks and holding them until their market worth aligns with their intrinsic value can lead to significant financial gains.
@@ -199,4 +201,3 @@ Lopez de Prado, M. (2018). *Advances in Financial Machine Learning*. This text e
 Chan, E. P. (2008). *Quantitative Trading: How to Build Your Own Algorithmic Trading Business*. This book serves as a guide to developing and deploying [quantitative trading](/wiki/quantitative-trading) systems, covering the essential components of algorithmic trading and offering practical advice for those looking to build a trading business.
 
 Jansen, S. (2020). *Machine Learning for Algorithmic Trading*. Jansen's work discusses the integration of machine learning techniques into algorithmic trading systems, offering both theoretical foundations and practical examples for implementing these strategies in Python.
-

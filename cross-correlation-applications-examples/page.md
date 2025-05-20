@@ -1,6 +1,9 @@
 ---
-title: "Cross-Correlation: Applications and Examples (Algo Trading)"
-description: "Explore the use of cross-correlation in algorithmic trading to uncover lead-lag relationships, enhance strategies, and optimize trade executions in financial markets."
+category: quant_concept
+description: Explore the use of cross-correlation in algorithmic trading to uncover
+  lead-lag relationships, enhance strategies, and optimize trade executions in financial
+  markets.
+title: 'Cross-Correlation: Applications and Examples (Algo Trading)'
 ---
 
 In today’s rapidly evolving financial markets, algorithmic trading is crucial for optimizing trade executions. Such trading relies on sophisticated mathematical models and statistical techniques to analyze market data and execute orders efficiently. Among these techniques, the application of statistical analysis through signal processing is particularly important.

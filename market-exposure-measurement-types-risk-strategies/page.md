@@ -1,6 +1,9 @@
 ---
-title: "Market Exposure: Measurement, Types, and Risk Strategies (Algo Trading)"
-description: "Explore effective strategies for measuring and managing market exposure risk in algorithmic trading. Understand methods like VaR and scenario analysis to optimize portfolios."
+category: trading_strategy
+description: Explore effective strategies for measuring and managing market exposure
+  risk in algorithmic trading. Understand methods like VaR and scenario analysis to
+  optimize portfolios.
+title: 'Market Exposure: Measurement, Types, and Risk Strategies (Algo Trading)'
 ---
 
 Market exposure risk is a critical component of financial investments, playing a particularly significant role in algorithmic trading. Algorithmic trading, often referred to as algo trading, utilizes complex computer algorithms to execute trades at high speeds and volumes. This form of trading demands meticulous strategies to effectively manage and measure financial risks. 

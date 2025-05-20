@@ -1,7 +1,8 @@
 ---
-title: Asynchronous Data Parallel Methods for Faster ML Training
+category: quant_concept
 description: Asynchronous Data Parallel distributes training across processors to
   boost speed and efficiency while managing stale gradients Discover more inside
+title: Asynchronous Data Parallel Methods for Faster ML Training
 ---
 
 ![Image](images/1.png)

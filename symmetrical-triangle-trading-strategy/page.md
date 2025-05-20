@@ -1,6 +1,13 @@
 ---
-title: "Symmetrical Triangle Trading Strategy (Algo Trading)"
-description: Explore the symmetrical triangle trading strategy, a key tool in technical analysis used by algorithmic traders to predict market movements. This pattern, formed by converging trend lines, identifies essential consolidation phases that often precede significant breakout opportunities. By understanding and recognizing these patterns, traders can enhance their trading algorithms, optimize entry and exit points, manage risks, and automate trade execution for increased efficiency and profitability in the dynamic financial markets.
+category: trading_strategy
+description: Explore the symmetrical triangle trading strategy, a key tool in technical
+  analysis used by algorithmic traders to predict market movements. This pattern,
+  formed by converging trend lines, identifies essential consolidation phases that
+  often precede significant breakout opportunities. By understanding and recognizing
+  these patterns, traders can enhance their trading algorithms, optimize entry and
+  exit points, manage risks, and automate trade execution for increased efficiency
+  and profitability in the dynamic financial markets.
+title: Symmetrical Triangle Trading Strategy (Algo Trading)
 ---
 
 The symmetrical triangle pattern is a fundamental tool in technical analysis, often employed by algorithmic traders to enhance trading strategies. This chart pattern plays a critical role in identifying potential continuation patterns across various financial markets, providing insights that help traders predict future price movements. It is formed when the price of an asset is bounded by two converging trend lines: one connecting a series of descending highs and the other a series of ascending lows. This convergence indicates a market equilibrium, where the forces of supply and demand are temporarily balanced.

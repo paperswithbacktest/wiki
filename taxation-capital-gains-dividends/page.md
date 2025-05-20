@@ -1,6 +1,9 @@
 ---
-title: "Taxation of Capital Gains and Dividends (Algo Trading)"
-description: "Enhance investment returns by understanding capital gains and dividend taxation in algorithmic trading Stay informed about tax strategies to optimize portfolio performance"
+category: quant_concept
+description: Enhance investment returns by understanding capital gains and dividend
+  taxation in algorithmic trading Stay informed about tax strategies to optimize portfolio
+  performance
+title: Taxation of Capital Gains and Dividends (Algo Trading)
 ---
 
 In today's investment landscape, understanding the nuances of taxation and its interaction with various investment strategies is crucial for maximizing returns. As investors seek to enhance their portfolio performance, the differentiation between dividends and capital gains becomes pertinent. Dividends, often perceived as a reliable income stream, are subjected to taxation based on their nature - categorically divided into qualified and nonqualified dividends. Capital gains, on the other hand, signify the profit from selling an asset for more than its purchase price, with tax obligations differing based on whether the asset was held short-term or long-term.

@@ -1,6 +1,9 @@
 ---
-title: "Noncredit Services Overview and Examples (Algo Trading)"
-description: "Explore the impact of noncredit services and algorithmic trading in finance uncovering how fee-based services enhance revenue and automation transforms global markets."
+category: quant_concept
+description: Explore the impact of noncredit services and algorithmic trading in finance
+  uncovering how fee-based services enhance revenue and automation transforms global
+  markets.
+title: Noncredit Services Overview and Examples (Algo Trading)
 ---
 
 In the ever-evolving world of finance, both noncredit and credit services are integral to the economic landscape. Noncredit services, which encompass various fee-based offerings from financial institutions, do not involve the extension of credit. These services generate a significant revenue stream through fees and commissions, proving essential in times when interest rate spreads are narrow. Such offerings include bank account management, payment processing, underwriting, and other services that enhance the financial institution's income without relying on traditional lending.

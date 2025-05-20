@@ -1,6 +1,8 @@
 ---
-title: "Active Index Funds: Overview and Limitations (Algo Trading)"
-description: "Explore active management index funds and algorithmic trading to optimize investments. Discover benefits, limitations and integration for effective strategies."
+category: trading_strategy
+description: Explore active management index funds and algorithmic trading to optimize
+  investments. Discover benefits, limitations and integration for effective strategies.
+title: 'Active Index Funds: Overview and Limitations (Algo Trading)'
 ---
 
 In the world of investing, achieving optimal returns while managing risks is a critical objective for both individual and institutional investors. A diverse array of strategies is available, each offering unique benefits and presenting specific limitations. Among these, three prominent approaches have emerged as key components of modern investment landscapes: active management, index funds, and algorithmic trading.

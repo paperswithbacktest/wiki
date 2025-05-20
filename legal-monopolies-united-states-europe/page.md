@@ -1,6 +1,9 @@
 ---
-title: "Legal Monopolies in the United States and Europe (Algo Trading)"
-description: "Explore how legal monopolies shape European sectors and the impact of algorithmic trading on US financial markets highlighting regulatory approaches and market dynamics."
+category: quant_concept
+description: Explore how legal monopolies shape European sectors and the impact of
+  algorithmic trading on US financial markets highlighting regulatory approaches and
+  market dynamics.
+title: Legal Monopolies in the United States and Europe (Algo Trading)
 ---
 
 Legal monopolies in Europe and algorithmic trading in the United States represent pivotal aspects of contemporary economic and financial systems. A legal monopoly occurs when a government grants exclusive rights to a company or organization to operate in a specific sector, limiting competition. This practice is prevalent in certain European sectors where public welfare and infrastructure considerations are prioritized. Notable examples include utilities and postal services, where monopoly status is often justified by the need for uniform service delivery and substantial infrastructure investment.

@@ -1,6 +1,12 @@
 ---
-title: "Opening Price in Stock Trading (Algo Trading)"
-description: "Explore the importance of the opening price in stock trading and its integration with algorithmic strategies. This article investigates into how the opening price serves as a critical benchmark for daily trading, influenced by various factors like premarket activities and overnight news. Discover how algorithmic trading leverages the opening price to execute precise and efficient trades, enhancing market analysis and strategy development in today's digital trading environment."
+category: quant_concept
+description: Explore the importance of the opening price in stock trading and its
+  integration with algorithmic strategies. This article investigates into how the
+  opening price serves as a critical benchmark for daily trading, influenced by various
+  factors like premarket activities and overnight news. Discover how algorithmic trading
+  leverages the opening price to execute precise and efficient trades, enhancing market
+  analysis and strategy development in today's digital trading environment.
+title: Opening Price in Stock Trading (Algo Trading)
 ---
 
 Stock trading strategies have evolved significantly over time, driven by advancements in technology and changes in market structures. From the early days of trading on physical exchange floors, where traders relied on personal intuition and experience, to today's sophisticated electronic trading systems, the evolution has been profound. The transition has been marked by the increased use of mathematical models, statistical analyses, and most recently, algorithmic trading. This evolution reflects the continuous quest for efficiency, speed, and accuracy in executing trades.

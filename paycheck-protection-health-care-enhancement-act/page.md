@@ -1,6 +1,9 @@
 ---
-title: "Paycheck Protection and Health Care Enhancement Act (Algo Trading)"
-description: "Explore the Paycheck Protection and Health Care Enhancement Act's role in stabilizing small businesses and strengthening healthcare during the COVID-19 crisis."
+category: quant_concept
+description: Explore the Paycheck Protection and Health Care Enhancement Act's role
+  in stabilizing small businesses and strengthening healthcare during the COVID-19
+  crisis.
+title: Paycheck Protection and Health Care Enhancement Act (Algo Trading)
 ---
 
 The COVID-19 pandemic posed unprecedented global challenges, compelling nations to devise various strategies to mitigate its multifaceted impacts. In the United States, one significant legislative response was the introduction of the Paycheck Protection Program and Health Care Enhancement Act, commonly referred to as the COVID 3.5 package. This relief package, amounting to $484 billion, was meticulously crafted to address the economic repercussions of the pandemic, provide vital support to small businesses, and bolster healthcare infrastructures. 

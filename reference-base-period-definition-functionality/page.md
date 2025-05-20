@@ -1,6 +1,8 @@
 ---
-title: "Reference Base Period: Definition and Functionality (Algo Trading)"
-description: "Understand time series analysis and the crucial role of a reference base period in economic indices and algorithmic trading strategies to enhance forecasts."
+category: quant_concept
+description: Understand time series analysis and the crucial role of a reference base
+  period in economic indices and algorithmic trading strategies to enhance forecasts.
+title: 'Reference Base Period: Definition and Functionality (Algo Trading)'
 ---
 
 Time series analysis is crucial in economic analysis and predictive modeling, offering a framework to evaluate temporal data and draw meaningful inferences. At its core, this method involves scrutinizing sequences of data points to discern inherent structures or trends that can serve as predictive signals. Given its robust capabilities, time series analysis has become integral in interpreting economic indicators, shaping monetary policy, and enhancing algorithmic trading strategies.

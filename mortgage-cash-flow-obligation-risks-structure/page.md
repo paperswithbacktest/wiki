@@ -1,6 +1,9 @@
 ---
-title: "Mortgage Cash Flow Obligation: Overview, Risks, and Structure (Algo Trading)"
-description: "Explore the dynamics of mortgage cash flow obligations and their impact on financial strategy. Learn about risks, structures, and the role of algorithmic trading."
+category: quant_concept
+description: Explore the dynamics of mortgage cash flow obligations and their impact
+  on financial strategy. Learn about risks, structures, and the role of algorithmic
+  trading.
+title: 'Mortgage Cash Flow Obligation: Overview, Risks, and Structure (Algo Trading)'
 ---
 
 Understanding the intricacies of finance today is essential for both individuals and businesses. The financial landscape has grown increasingly complex, with multiple interwoven elements significantly influencing financial management and decision-making processes. Mortgages, cash flow, financial risk, financial structure, and algorithmic trading form the core components of this dynamic environment. These facets are deeply interconnected and collectively shape investment decisions, risk management practices, and overall financial strategies.

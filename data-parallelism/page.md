@@ -1,7 +1,8 @@
 ---
-title: Efficient Data Parallelism Techniques for Machine Learning
+category: quant_concept
 description: Data parallelism speeds up machine learning by splitting data across
   GPUs and syncing updates to cut training time and optimize GPU utilization See inside
+title: Efficient Data Parallelism Techniques for Machine Learning
 ---
 
 ![Image](images/1.png)

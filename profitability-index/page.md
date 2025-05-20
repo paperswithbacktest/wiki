@@ -1,6 +1,14 @@
 ---
-title: "Profitability Index (Algo Trading)"
-description: "Explore the use of Profitability Index (PI) in algorithmic trading for a data-driven approach to investment decisions. Learn how PI evaluates investment attractiveness by comparing expected cash flow against initial costs to prioritize projects. Discover how integrating PI with algorithmic strategies automates trade execution for optimized financial outcomes. This guide covers PI calculations, interpretations, and applications in enhancing decision-making in modern markets using algo trading, providing valuable insights for investors and traders seeking to leverage technology for profitability."
+category: quant_concept
+description: Explore the use of Profitability Index (PI) in algorithmic trading for
+  a data-driven approach to investment decisions. Learn how PI evaluates investment
+  attractiveness by comparing expected cash flow against initial costs to prioritize
+  projects. Discover how integrating PI with algorithmic strategies automates trade
+  execution for optimized financial outcomes. This guide covers PI calculations, interpretations,
+  and applications in enhancing decision-making in modern markets using algo trading,
+  providing valuable insights for investors and traders seeking to leverage technology
+  for profitability.
+title: Profitability Index (Algo Trading)
 ---
 
 In today's fast-evolving financial markets, investors are continually seeking ways to evaluate potential investments efficiently. The profitability index (PI) is a critical financial metric that aids in assessing the attractiveness of investment projects. Serving as an indicator of potential returns relative to the initial costs, PI is utilized to rank and prioritize projects, particularly under constraints of limited resources. The metric simplifies complex financial decisions, allowing investors to select projects that promise greater profitability by comparing the present value of expected cash flows to initial outlays.

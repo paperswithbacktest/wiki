@@ -1,6 +1,8 @@
 ---
-title: "Methods for Identifying Actively Traded Stocks (Algo Trading)"
-description: "Discover strategies for identifying actively traded stocks in algorithmic trading Learn how market analysis and automation can help you make informed trades"
+category: trading_strategy
+description: Discover strategies for identifying actively traded stocks in algorithmic
+  trading Learn how market analysis and automation can help you make informed trades
+title: Methods for Identifying Actively Traded Stocks (Algo Trading)
 ---
 
 The world of stock trading is vast and complex, offering numerous opportunities and challenges for investors navigating this dynamic landscape. As markets continue to evolve, traders must equip themselves with the tools and strategies necessary to understand and capitalize on market movements. This article will explore several critical areas of stock trading, including market analysis, actively traded stocks, and the transformative rise of algorithmic trading.

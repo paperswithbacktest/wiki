@@ -1,6 +1,9 @@
 ---
-title: "Characteristic Line and Its Functionality (Algo Trading)"
-description: "Explore the role of the characteristic line in investment analysis and algorithmic trading Discover insights into risk and return dynamics shaping modern strategies"
+category: quant_concept
+description: Explore the role of the characteristic line in investment analysis and
+  algorithmic trading Discover insights into risk and return dynamics shaping modern
+  strategies
+title: Characteristic Line and Its Functionality (Algo Trading)
 ---
 
 Investment analysis serves as a cornerstone in the field of finance, offering essential insights for both individual and institutional investors seeking to achieve specific financial objectives. The landscape of investment analysis is shaped by an array of financial theories and methods, which collectively empower investors to make informed decisions and navigate complex markets effectively. One of the foundational components within these financial theories is the characteristic line, which plays a pivotal role in evaluating potential investment opportunities.

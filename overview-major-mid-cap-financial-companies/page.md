@@ -1,6 +1,9 @@
 ---
-title: "Overview of Major Mid-Cap Financial Companies (Algo Trading)"
-description: "Explore successful mid-cap financial companies in algo trading with growth potential and stability. Discover top stocks and trading strategies for optimal investment."
+category: trading_strategy
+description: Explore successful mid-cap financial companies in algo trading with growth
+  potential and stability. Discover top stocks and trading strategies for optimal
+  investment.
+title: Overview of Major Mid-Cap Financial Companies (Algo Trading)
 ---
 
 The financial sector is a vital component of the economy, offering a plethora of investment opportunities that cater to a wide range of investor preferences and risk tolerances. Among these opportunities are mid-cap financial stocks, which represent corporations with a market capitalization typically ranging from $1.6 billion to $12.5 billion. These stocks are considered a crucial segment of the equity market, providing a unique advantage by balancing growth potential and stability.

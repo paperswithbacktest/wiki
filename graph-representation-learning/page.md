@@ -1,7 +1,8 @@
 ---
-title: Graph Representation Learning Techniques and Applications
+category: quant_concept
 description: Graph Representation Learning creates embeddings using GNNs and contrastive
   methods for social networks and drug discovery Discover more inside.
+title: Graph Representation Learning Techniques and Applications
 ---
 
 ![Image](images/1.png)

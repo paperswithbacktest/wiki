@@ -1,6 +1,8 @@
 ---
-title: "European Union: Overview, Member States, History, and Objectives (Algo Trading)"
-description: "Explore the European Union's history, member states, and how it shaped algorithmic trading fostering growth and innovation in Europe's financial markets."
+category: quant_concept
+description: Explore the European Union's history, member states, and how it shaped
+  algorithmic trading fostering growth and innovation in Europe's financial markets.
+title: 'European Union: Overview, Member States, History, and Objectives (Algo Trading)'
 ---
 
 The European Union (EU) is a political and economic union consisting of 27 member countries predominantly located in Europe. Established with the aim of fostering economic cooperation, the EU has become a significant entity, promoting peace, stability, and prosperity across the region. With over 450 million inhabitants, the EU's single market allows for the free movement of goods, services, capital, and people, thereby establishing itself as a major player on the global economic stage. Its influence extends beyond the continent, impacting global trade, environmental policies, and regulatory standards.

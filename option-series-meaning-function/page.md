@@ -1,6 +1,9 @@
 ---
-title: "Option Series: Meaning and Function (Algo Trading)"
-description: "Explore the dynamics of algo trading in today's markets Learn how algorithms optimize portfolio efficiency by executing rapid trades with precision and minimal risk"
+category: quant_concept
+description: Explore the dynamics of algo trading in today's markets Learn how algorithms
+  optimize portfolio efficiency by executing rapid trades with precision and minimal
+  risk
+title: 'Option Series: Meaning and Function (Algo Trading)'
 ---
 
 In today's fast-paced financial markets, investors are constantly seeking innovative ways to optimize their portfolios and enhance their trading efficiency. Algorithmic trading, commonly referred to as algo trading, is one such method that has gained significant popularity among market participants. This approach involves the use of computer programs that follow a defined set of instructions for placing trades. These algorithms can vary in complexity, from simple moving averages to intricate statistical models, but they all share the goal of executing trades at the best possible price with the utmost speed and accuracy.

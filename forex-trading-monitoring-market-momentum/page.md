@@ -1,6 +1,8 @@
 ---
-title: "Forex Trading: Monitoring Market Momentum (Algo Trading)"
-description: "Explore forex trading momentum with algorithmic strategies for enhanced decision-making Use indicators like MACD and RSI to optimize trading success"
+category: trading_strategy
+description: Explore forex trading momentum with algorithmic strategies for enhanced
+  decision-making Use indicators like MACD and RSI to optimize trading success
+title: 'Forex Trading: Monitoring Market Momentum (Algo Trading)'
 ---
 
 In the world of forex trading, understanding market momentum and utilizing algorithmic trading strategies can significantly enhance trading success. Momentum refers to the speed at which asset prices move, and recognizing this can help traders anticipate future price movements and capital allocations. As the forex market is characterized by high liquidity and volatility, traders who master momentum trading strategies are at a distinct advantage.

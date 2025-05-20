@@ -1,6 +1,12 @@
 ---
-title: "Aroon Indicator Strategy Explained (Algo Trading)"
-description: Explore the effectiveness of the Aroon Indicator in algorithmic trading by understanding its ability to identify emerging trends and market volatility. This indicator, developed by Tushar Chande in 1995, consists of Aroon Up and Aroon Down lines that help traders assess trend strength and direction. Gain insights into its application for making informed trading decisions and optimizing strategies in the fast-paced world of algo trading.
+category: trading_strategy
+description: Explore the effectiveness of the Aroon Indicator in algorithmic trading
+  by understanding its ability to identify emerging trends and market volatility.
+  This indicator, developed by Tushar Chande in 1995, consists of Aroon Up and Aroon
+  Down lines that help traders assess trend strength and direction. Gain insights
+  into its application for making informed trading decisions and optimizing strategies
+  in the fast-paced world of algo trading.
+title: Aroon Indicator Strategy Explained (Algo Trading)
 ---
 
 Technical indicators are essential tools in algorithmic trading. These mathematical calculations are derived from price, volume, or open interest information of a security or contract. They play a crucial role in assisting traders to identify market trends, measure volatility, and determine potential future price movements. Algorithmic trading, which involves using computer programs to execute trades at very high speeds, often leverages technical indicators to make data-driven decisions and optimize trading strategies.

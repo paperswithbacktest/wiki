@@ -1,6 +1,8 @@
 ---
-title: "Voodoo Economics: History and Analysis (Algo Trading)"
-description: "Explore the intricate relationships between Voodoo Economics fiscal policy and algorithmic trading in shaping global financial markets and economic stability."
+category: quant_concept
+description: Explore the intricate relationships between Voodoo Economics fiscal policy
+  and algorithmic trading in shaping global financial markets and economic stability.
+title: 'Voodoo Economics: History and Analysis (Algo Trading)'
 ---
 
 In the complex world of economics, the continuous evolution of theories and practices plays a pivotal role in shaping financial landscapes. These dynamics are influenced by a multitude of elements that include foundational economic theories, unconventional concepts such as Voodoo Economics, the strategic deployment of fiscal policy, and the cutting-edge innovation of algorithmic trading. This article endeavors to uncover the intricate relationships among these elements, examining how they impact economies and the behavior of financial markets globally.

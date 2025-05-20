@@ -1,6 +1,9 @@
 ---
-title: "K-Percent Rule: Function and Mechanism (Algo Trading)"
-description: "Discover how the K-Percent Rule shapes economic policy and algorithmic trading highlighting its significance in stabilizing economies and enhancing trading strategies."
+category: quant_concept
+description: Discover how the K-Percent Rule shapes economic policy and algorithmic
+  trading highlighting its significance in stabilizing economies and enhancing trading
+  strategies.
+title: 'K-Percent Rule: Function and Mechanism (Algo Trading)'
 ---
 
 Economic and monetary policy are foundational elements of modern financial systems, with diverse theories and frameworks guiding their application. Among these, Milton Friedman's K-Percent Rule stands out as a significant theory with wide-ranging implications, extending from economic stability to modern algorithmic trading practices. This article investigates the K-Percent Rule's relevance within the larger context of monetary policy and its practical application in algorithmic trading.

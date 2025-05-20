@@ -1,6 +1,9 @@
 ---
-title: "Emergency Banking Act of 1933 (Algo Trading)"
-description: "Explore the significance of the Emergency Banking Act of 1933 which restored public confidence during the Great Depression offering insights into modern financial reforms."
+category: quant_concept
+description: Explore the significance of the Emergency Banking Act of 1933 which restored
+  public confidence during the Great Depression offering insights into modern financial
+  reforms.
+title: Emergency Banking Act of 1933 (Algo Trading)
 ---
 
 The Great Depression of the 1930s was marked by profound economic upheaval, which necessitated the formulation of innovative strategies to stabilize the U.S. economy. Among the pivotal responses to this crisis was the Emergency Banking Act of 1933. This legislative measure was instrumental in restoring public confidence in the financial system after the stock market crash of 1929, which had precipitated a series of bank failures and exacerbated economic instability.

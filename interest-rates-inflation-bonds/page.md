@@ -1,6 +1,9 @@
 ---
-title: "Interest Rates, Inflation, and Bonds (Algo Trading)"
-description: "Explore the interplay between bonds, inflation, and interest rates in algorithmic trading. Learn how these factors shape financial markets and investment strategies."
+category: quant_concept
+description: Explore the interplay between bonds, inflation, and interest rates in
+  algorithmic trading. Learn how these factors shape financial markets and investment
+  strategies.
+title: Interest Rates, Inflation, and Bonds (Algo Trading)
 ---
 
 Financial markets are complex systems where various instruments, such as stocks, bonds, commodities, and currencies, are traded. These markets are influenced by economic factors including supply and demand dynamics, investor sentiment, and geopolitical events. Among the key economic factors are bonds, inflation, and interest rates, which play pivotal roles in shaping market behavior. 

@@ -1,6 +1,8 @@
 ---
-title: "Humped Yield Curve: Meaning, Functionality, and Types (Algo Trading)"
-description: "Explore the unique characteristics of a humped yield curve and its impact on finance and algorithmic trading strategies Learn how it shapes investor insights"
+category: quant_concept
+description: Explore the unique characteristics of a humped yield curve and its impact
+  on finance and algorithmic trading strategies Learn how it shapes investor insights
+title: 'Humped Yield Curve: Meaning, Functionality, and Types (Algo Trading)'
 ---
 
 The financial landscape is complex, and understanding the yield curve's nuances plays a vital role in navigating this landscape. Amidst various types of yield curves, the humped yield curve presents unique characteristics that challenge and enhance financial analysis. Unlike the more common upward or downward sloping yield curves, a humped yield curve, often described as bell-shaped, exhibits higher medium-term interest rates compared to both short- and long-term rates. This peculiar shape emerges under specific market conditions and reflects the interplay of various economic factors, including interest rates and investor expectations.

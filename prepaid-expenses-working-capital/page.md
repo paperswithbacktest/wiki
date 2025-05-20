@@ -1,6 +1,9 @@
 ---
-title: "Prepaid Expenses in Working Capital (Algo Trading)"
-description: "Discover the dynamics of working capital and prepaid expenses in finance, exploring their impact on algorithmic trading and effective financial management strategies."
+category: quant_concept
+description: Discover the dynamics of working capital and prepaid expenses in finance,
+  exploring their impact on algorithmic trading and effective financial management
+  strategies.
+title: Prepaid Expenses in Working Capital (Algo Trading)
 ---
 
 Understanding the interplay between various accounting and financial concepts is crucial for both individual and organizational financial success. This article explores critical concepts, including working capital, prepaid expenses, and algorithmic trading. By addressing their definitions, significance, and interconnections, the article aims to provide readers with insights into efficient financial management and strategic business decision-making.

@@ -1,6 +1,8 @@
 ---
-title: "Hypothesis Testing: Steps and Example (Algo Trading)"
-description: "Learn the essential steps of hypothesis testing in algorithmic trading to make data-driven decisions that optimize strategies and minimize risk effectively."
+category: quant_concept
+description: Learn the essential steps of hypothesis testing in algorithmic trading
+  to make data-driven decisions that optimize strategies and minimize risk effectively.
+title: 'Hypothesis Testing: Steps and Example (Algo Trading)'
 ---
 
 In the fast-paced world of algorithmic trading, making astute, data-driven decisions is essential to gaining a competitive edge. Traders are increasingly turning to robust statistical tools to enhance their decision-making processes, thereby optimizing trading strategies and minimizing risk. One such powerful tool is hypothesis testing, a method that enables traders to infer patterns from sample data and draw reliable conclusions about market behaviors.

@@ -1,6 +1,10 @@
 ---
-title: "Investor Overview (Algo Trading)"
-description: "Explore how financial markets, investment strategies, and technology intersect with algorithmic trading to reshape the investment landscape. Gain insights into market dynamics, types of investors, and the role of algorithms in executing trades with speed and precision for a competitive edge in modern markets."
+category: quant_concept
+description: Explore how financial markets, investment strategies, and technology
+  intersect with algorithmic trading to reshape the investment landscape. Gain insights
+  into market dynamics, types of investors, and the role of algorithms in executing
+  trades with speed and precision for a competitive edge in modern markets.
+title: Investor Overview (Algo Trading)
 ---
 
 Understanding the dynamics of financial markets is crucial for anyone looking to invest or trade. Financial markets offer a vast array of investment opportunities, ranging from traditional stocks and bonds to more sophisticated instruments like derivatives. These markets serve as platforms where buyers and sellers can exchange assets, providing liquidity and enabling the effective allocation of resources across the economy.

@@ -1,6 +1,9 @@
 ---
-title: "Peak Oil: Predictions and Consequences (Algo Trading)"
-description: "Explore the concept of peak oil and its global implications on economics and technology Discover the role of AI and algorithmic trading in navigating these challenges"
+category: quant_concept
+description: Explore the concept of peak oil and its global implications on economics
+  and technology Discover the role of AI and algorithmic trading in navigating these
+  challenges
+title: 'Peak Oil: Predictions and Consequences (Algo Trading)'
 ---
 
 Peak oil, a concept that has been debated for decades, refers to the hypothesized point when global crude oil production reaches its maximum level, followed by a permanent decline. This notion stems from concerns about the depletion of conventional oil reserves, and its potential economic, social, and environmental ramifications are profound. The debates surrounding peak oil not only consider the technical aspects of oil extraction and production but also extend to the impacts of changing energy demands and the availability of alternative resources.

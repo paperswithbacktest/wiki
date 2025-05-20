@@ -1,6 +1,12 @@
 ---
-title: "RSI2 Strategy on SPY Explained (Algo Trading)"
-description: Discover how the RSI2 trading strategy effectively leverages the Relative Strength Index for mean-reversal opportunities on the SPDR S&P 500 ETF Trust (SPY) known for its liquidity and volatility. Uncover insights into strategy performance entry and exit points and methods to enhance robustness adapting to market changes. Suitable for both novice and experienced algorithmic traders aiming for short-term gains through the identification of overbought or oversold conditions.
+category: trading_strategy
+description: Discover how the RSI2 trading strategy effectively leverages the Relative
+  Strength Index for mean-reversal opportunities on the SPDR S&P 500 ETF Trust (SPY)
+  known for its liquidity and volatility. Uncover insights into strategy performance
+  entry and exit points and methods to enhance robustness adapting to market changes.
+  Suitable for both novice and experienced algorithmic traders aiming for short-term
+  gains through the identification of overbought or oversold conditions.
+title: RSI2 Strategy on SPY Explained (Algo Trading)
 ---
 
 In algorithmic trading, technical indicators play a pivotal role in crafting effective trading strategies. The Relative Strength Index (RSI) is one such indicator, known for its ability to highlight mean-reversal opportunities in the market. It is widely used by traders to detect and capitalize on potential price reversals. RSI operates as a momentum oscillator, quantifying the velocity and magnitude of price changes on a scale from 0 to 100. Typically, readings above 70 signify overbought conditions, while readings below 30 indicate oversold conditions, making it invaluable for identifying key reversal points.

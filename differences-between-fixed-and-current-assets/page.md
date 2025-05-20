@@ -1,6 +1,8 @@
 ---
-title: "Differences Between Fixed and Current Assets (Algo Trading)"
-description: "Explore the key distinctions between fixed and current assets in corporate finance and how they impact algorithmic trading and financial strategies."
+category: quant_concept
+description: Explore the key distinctions between fixed and current assets in corporate
+  finance and how they impact algorithmic trading and financial strategies.
+title: Differences Between Fixed and Current Assets (Algo Trading)
 ---
 
 In corporate finance, accurately classifying assets is a fundamental aspect of effective financial management and strategic planning. Assets are categorized primarily into two types: fixed assets and current assets, each serving distinct roles and influencing a company's operational and investment decisions differently.

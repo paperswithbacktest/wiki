@@ -1,6 +1,9 @@
 ---
-title: "Bond Market and Debt Securities Overview (Algo Trading)"
-description: "Explore the dynamics of bond markets and debt securities, and understand the growing influence of algorithmic trading in optimizing investments and market efficiency."
+category: quant_concept
+description: Explore the dynamics of bond markets and debt securities, and understand
+  the growing influence of algorithmic trading in optimizing investments and market
+  efficiency.
+title: Bond Market and Debt Securities Overview (Algo Trading)
 ---
 
 In today's fast-paced financial world, understanding different financial instruments and markets is essential for both seasoned investors and newcomers. The bond market is a significant component of the global economy, where debt securities like bonds are issued and traded. Bonds provide a mechanism for governments and corporations to raise funds for various initiatives and projects, making them integral to both macroeconomic stability and corporate finance. Unlike stocks, which represent ownership in a company, bonds are a form of debt, wherein the issuer is obligated to pay a specified interest rate over a given period and repay the principal amount upon maturity.

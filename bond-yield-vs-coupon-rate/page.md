@@ -1,6 +1,8 @@
 ---
-title: "Bond Yield vs. Coupon Rate (Algo Trading)"
-description: "Discover the nuances between bond yield and coupon rate and how algorithmic trading reshapes bond markets for optimized strategies and informed investment decisions."
+category: quant_concept
+description: Discover the nuances between bond yield and coupon rate and how algorithmic
+  trading reshapes bond markets for optimized strategies and informed investment decisions.
+title: Bond Yield vs. Coupon Rate (Algo Trading)
 ---
 
 The bond market plays a crucial role in the global financial ecosystem, providing a platform where debt securities are issued and traded. Bonds are integral to both institutional and individual investment portfolios, offering a mechanism for raising capital while providing investors with opportunities for income generation. Fundamental to comprehending the bond market are key terms such as bond yield, coupon rate, and the influence of algorithmic trading.
@@ -170,4 +172,4 @@ Continuous innovation in the field of algorithmic trading promises to increase e
 
 [4]: ["Inside the Yield Book: The Classic That Created the Science of Bond Analysis"](https://www.amazon.com/Inside-Yield-Book-Classic-Analysis/dp/111839013X) by Sidney Homer and Martin L. Leibowitz - A fundamental text for understanding the impact of interest rates and yield curve on bond pricing and strategies.
 
-[5]: ["The Basics of Algorithmic Trading: Concepts and Examples"](https://www.investopedia.com/articles/active-trading/101014/basics-algorithmic-trading-concepts-and-examples.asp) - A research foundation publication by the CFA Institute, which investigates into the principles and applications of algorithmic trading in modern markets. 
+[5]: ["The Basics of Algorithmic Trading: Concepts and Examples"](https://www.investopedia.com/articles/active-trading/101014/basics-algorithmic-trading-concepts-and-examples.asp) - A research foundation publication by the CFA Institute, which investigates into the principles and applications of algorithmic trading in modern markets.

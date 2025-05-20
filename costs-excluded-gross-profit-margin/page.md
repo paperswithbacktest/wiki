@@ -1,6 +1,9 @@
 ---
-title: "Costs Excluded from Gross Profit Margin (Algo Trading)"
-description: "Explore the key financial metric of Gross Profit Margin its exclusions and its importance in algorithmic trading This article analyzes its role in financial analysis"
+category: quant_concept
+description: Explore the key financial metric of Gross Profit Margin its exclusions
+  and its importance in algorithmic trading This article analyzes its role in financial
+  analysis
+title: Costs Excluded from Gross Profit Margin (Algo Trading)
 ---
 
 In the world of finance, understanding key financial metrics is crucial for making informed investment decisions. Among these metrics, Gross Profit Margin stands out as a vital tool for evaluating a company's financial health. Gross Profit Margin is calculated by subtracting the cost of goods sold (COGS) from total revenue and then dividing this figure by total revenue. This calculation yields a percentage that reflects the portion of revenue exceeding the cost of producing goods or services.

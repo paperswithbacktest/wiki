@@ -1,6 +1,9 @@
 ---
-title: "Treasury Bill Overview (Algo Trading)"
-description: "Explore the benefits of algorithmic trading for Treasury Bills including precision, efficiency, and optimized strategies to maximize returns and minimize risks."
+category: quant_concept
+description: Explore the benefits of algorithmic trading for Treasury Bills including
+  precision, efficiency, and optimized strategies to maximize returns and minimize
+  risks.
+title: Treasury Bill Overview (Algo Trading)
 ---
 
 In recent years, algorithmic trading has revolutionized the way investors access financial markets. This innovative approach utilizes sophisticated algorithms to automatically execute trades, leveraging computational power and vast data analysis to optimize transactional efficiency. With its automated capabilities, algorithmic trading provides a more streamlined and precise method for engaging with various financial instruments, including Treasury Bills (T-Bills).

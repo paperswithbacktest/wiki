@@ -1,6 +1,8 @@
 ---
-title: "Overview of Asset Allocation (Algo Trading)"
-description: "Explore asset allocation financial planning and algorithmic trading as integral components of a robust investment strategy. Learn how they optimize returns."
+category: trading_strategy
+description: Explore asset allocation financial planning and algorithmic trading as
+  integral components of a robust investment strategy. Learn how they optimize returns.
+title: Overview of Asset Allocation (Algo Trading)
 ---
 
 In today's complex financial world, asset allocation, financial planning, and algorithmic trading are recognized as essential components in constructing a robust investment strategy. These elements, when understood and applied effectively, can substantially enhance an investor's capability to manage their wealth and navigate the volatile financial markets. This article aims to explore the fundamentals of asset allocation, its significance within financial planning, and the evolving role of algorithmic trading in shaping modern investment strategies.

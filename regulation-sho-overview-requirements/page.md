@@ -1,6 +1,9 @@
 ---
-title: "Regulation SHO: Overview and Requirements (Algo Trading)"
-description: "Explore Regulation SHO and its influence on short selling in U.S. markets highlighting its impact on market integrity compliance and the role of algorithmic trading."
+category: quant_concept
+description: Explore Regulation SHO and its influence on short selling in U.S. markets
+  highlighting its impact on market integrity compliance and the role of algorithmic
+  trading.
+title: 'Regulation SHO: Overview and Requirements (Algo Trading)'
 ---
 
 The financial markets operate within a framework of complexity, where numerous rules and regulations are essential to ensure stability and transparency. These rules not only safeguard the integrity of market activities but also protect investors by promoting fair trading practices. Among the significant regulatory measures is Regulation SHO, introduced by the U.S. Securities and Exchange Commission (SEC) in 2005. This particular regulation primarily addresses short selling practices in the United States' financial markets.

@@ -1,6 +1,13 @@
 ---
-title: "Convertible Bonds: Advantages and Disadvantages for Companies and Investors (Algo Trading)"
-description: "Discover the unique benefits and challenges of convertible bonds for companies and investors in the evolving landscape of algorithmic trading. Explore how these hybrid instruments combine the stability of fixed income with the upside potential of equity, aiding in capital structure optimization and investment diversification. Learn about their strategic advantages in corporate finance and the implications of their issuance and trading."
+category: quant_concept
+description: Discover the unique benefits and challenges of convertible bonds for
+  companies and investors in the evolving landscape of algorithmic trading. Explore
+  how these hybrid instruments combine the stability of fixed income with the upside
+  potential of equity, aiding in capital structure optimization and investment diversification.
+  Learn about their strategic advantages in corporate finance and the implications
+  of their issuance and trading.
+title: 'Convertible Bonds: Advantages and Disadvantages for Companies and Investors
+  (Algo Trading)'
 ---
 
 Convertible bonds represent a unique investment vehicle that combines characteristics of both debt and equity instruments. These financial instruments offer the fixed income security of traditional bonds while providing the flexibility of converting into a predetermined number of equity shares, making them versatile tools in corporate finance. Convertible bonds are particularly advantageous during periods of market volatility, as they allow investors to benefit from the stability of bonds with the potential upside of equity.

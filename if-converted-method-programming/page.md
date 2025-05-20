@@ -1,6 +1,8 @@
 ---
-title: "If-Converted Method in Programming (Algo Trading)"
-description: "Explore the if-converted method in algorithmic trading to enhance performance by accurately evaluating convertible securities' impact on financial metrics."
+category: trading_strategy
+description: Explore the if-converted method in algorithmic trading to enhance performance
+  by accurately evaluating convertible securities' impact on financial metrics.
+title: If-Converted Method in Programming (Algo Trading)
 ---
 
 In the fast-paced world of algorithmic trading, code optimization often emerges as the cornerstone of competitive advantage. As trading algorithms grow in complexity, driven by advancements in technology and increased market data, ensuring that these algorithms run efficiently and effectively becomes paramount. This efficiency is not merely about reducing computational time; it is about strategically leveraging algorithmic insights to maximize trading performance.

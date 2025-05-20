@@ -1,6 +1,8 @@
 ---
-title: "Going Concern in Financial Reporting (Algo Trading)"
-description: "Explore the importance of going concern in financial reporting and the transformative role of algorithmic trading in today's dynamic financial markets."
+category: quant_concept
+description: Explore the importance of going concern in financial reporting and the
+  transformative role of algorithmic trading in today's dynamic financial markets.
+title: Going Concern in Financial Reporting (Algo Trading)
 ---
 
 The modern financial landscape is marked by complexity and constant evolution, driven by an array of emerging developments that continually redefine accounting practices and financial reporting standards. A foundational element within this landscape is a firm's status as a going concern, a concept embedded within accounting principles and a critical indicator of financial health. This status reflects the assumption that an entity will persist in operating into the foreseeable future without facing the threat of liquidation. Ensuring a company maintains its going concern status is vital for accurate financial reporting and upholding investor confidence.

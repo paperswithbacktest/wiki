@@ -1,7 +1,8 @@
 ---
-title: Understanding Batch Inference In Machine Learning Pipelines
+category: quant_concept
 description: Batch inference processes large datasets at once to reduce compute time
   enhance efficiency and generate bulk predictions for analytics Discover more inside
+title: Understanding Batch Inference In Machine Learning Pipelines
 ---
 
 ![Image](images/1.jpeg)

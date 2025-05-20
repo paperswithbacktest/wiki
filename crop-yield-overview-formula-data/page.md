@@ -1,6 +1,8 @@
 ---
-title: "Crop Yield: Overview, Formula, and Data (Algo Trading)"
-description: "Explore the significance of crop yield in agriculture and its connection to algorithmic trading for optimizing market decisions through data-driven insights."
+category: dataset
+description: Explore the significance of crop yield in agriculture and its connection
+  to algorithmic trading for optimizing market decisions through data-driven insights.
+title: 'Crop Yield: Overview, Formula, and Data (Algo Trading)'
 ---
 
 Agriculture plays a pivotal role in the global economy, serving as a fundamental source of food, raw materials, and employment. It contributes significantly to the gross domestic product (GDP) of many countries, particularly in developing regions where agriculture can account for a substantial portion of the economy. As the global population continues to grow, the demand for agricultural products rises, making efficient agricultural practices more crucial than ever.

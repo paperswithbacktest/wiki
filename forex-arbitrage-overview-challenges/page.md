@@ -1,6 +1,9 @@
 ---
-title: "Forex Arbitrage: Overview and Challenges (Algo Trading)"
-description: "Explore Forex arbitrage and algorithmic trading strategies that exploit currency value discrepancies for profit. Understand the challenges and automation benefits."
+category: trading_strategy
+description: Explore Forex arbitrage and algorithmic trading strategies that exploit
+  currency value discrepancies for profit. Understand the challenges and automation
+  benefits.
+title: 'Forex Arbitrage: Overview and Challenges (Algo Trading)'
 ---
 
 Currency trading, widely known as Forex or FX trading, represents the global marketplace for trading national currencies against one another. It operates as the largest financial market in the world, with a daily trading volume exceeding $6 trillion [1]. The Forex market functions through a network of banks, brokers, and financial institutions, allowing for continuous trading 24 hours a day, five days a week. Forex trading involves varying strategies and presents both opportunities and challenges to traders due to its decentralized and highly volatile nature.

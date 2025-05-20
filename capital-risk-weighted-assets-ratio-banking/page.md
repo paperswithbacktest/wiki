@@ -1,6 +1,9 @@
 ---
-title: "Capital-To-Risk Weighted Assets Ratio in Banking (Algo Trading)"
-description: "Explore the intricate relationship between risk-weighted assets, capital ratios, and algorithmic trading within the banking sector, highlighting their regulatory impacts."
+category: quant_concept
+description: Explore the intricate relationship between risk-weighted assets, capital
+  ratios, and algorithmic trading within the banking sector, highlighting their regulatory
+  impacts.
+title: Capital-To-Risk Weighted Assets Ratio in Banking (Algo Trading)
 ---
 
 The modern banking sector operates within a framework of stringent regulations designed to ensure financial stability and safeguard depositors. Central to this framework are risk-weighted assets, banking regulations, and capital ratios, each contributing to the robust architecture needed to withstand financial turbulence. Risk-weighted assets (RWAs) represent the risk assessment of each type of asset a bank holds, with a significant impact on a bank's financial stability and regulatory requirements. By assigning different risk weights to different asset types, banks ensure they are prepared for potential losses, maintaining an adequate capital buffer as required by regulations.

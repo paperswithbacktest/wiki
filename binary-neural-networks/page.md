@@ -1,7 +1,8 @@
 ---
-title: Binary Neural Networks for Efficient Edge and IoT Deployments
+category: quant_concept
 description: Binary Neural Networks deliver fast bitwise operations and lower memory
   use on constrained devices through efficient training Discover more inside
+title: Binary Neural Networks for Efficient Edge and IoT Deployments
 ---
 
 ![Image](images/1.png)

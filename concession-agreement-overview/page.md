@@ -1,6 +1,9 @@
 ---
-title: "Concession Agreement Overview (Algo Trading)"
-description: "Explore the critical role of concession agreements and algorithmic trading contracts in business strategy Learn how these agreements impact operations and opportunities"
+category: quant_concept
+description: Explore the critical role of concession agreements and algorithmic trading
+  contracts in business strategy Learn how these agreements impact operations and
+  opportunities
+title: Concession Agreement Overview (Algo Trading)
 ---
 
 In business and investing, agreements and contracts are crucial in determining how operations are conducted, revenue is generated, and risks are managed. These legal frameworks provide the structure within which businesses operate and interact with stakeholders, from government entities to private sector partners. Among the myriad of contracts that companies engage with, concession agreements and algorithmic trading contracts are particularly noteworthy, each bearing distinct implications for the sectors they serve.

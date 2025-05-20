@@ -1,6 +1,8 @@
 ---
-title: "Calculation of the U.S. Monthly Unemployment Rate (Algo Trading)"
-description: "Explore the relationship between U.S. unemployment rates and algorithmic trading strategies and discover how labor statistics influence financial markets."
+category: quant_concept
+description: Explore the relationship between U.S. unemployment rates and algorithmic
+  trading strategies and discover how labor statistics influence financial markets.
+title: Calculation of the U.S. Monthly Unemployment Rate (Algo Trading)
 ---
 
 The unemployment rate is a pivotal economic indicator that provides insights into the labor market's health and, by extension, the overall economic climate. A low unemployment rate generally signals a robust economy with strong job creation, which often results in heightened investor confidence and increased consumer spending. Conversely, high unemployment can indicate economic distress, prompting caution among investors and impacting consumer behavior negatively. These fluctuations in consumer confidence and investor sentiment underscore the significance of unemployment data in gauging economic stability and growth prospects.

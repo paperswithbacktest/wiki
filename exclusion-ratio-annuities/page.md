@@ -1,6 +1,8 @@
 ---
-title: "Exclusion Ratio in Annuities (Algo Trading)"
-description: "Explore how the exclusion ratio impacts annuity taxation and discover the role of algorithmic trading in optimizing investment strategies for tax efficiency."
+category: quant_concept
+description: Explore how the exclusion ratio impacts annuity taxation and discover
+  the role of algorithmic trading in optimizing investment strategies for tax efficiency.
+title: Exclusion Ratio in Annuities (Algo Trading)
 ---
 
 This article explores the intersection of annuities, taxation, the exclusion ratio, and algorithmic trading. Annuities, as financial instruments, are designed to provide a steady income stream, often considered a staple in retirement planning. Taxation issues related to annuities can be complex, with the exclusion ratio playing a crucial role in determining the taxable and non-taxable portions of annuity payments. The exclusion ratio is significant because it allows investors to understand the portion of annuity income that can remain tax-free, thus optimizing their financial planning and retirement strategies.

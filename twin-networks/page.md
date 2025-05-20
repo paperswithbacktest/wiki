@@ -1,7 +1,8 @@
 ---
-title: Twin Networks Architecture Explained for Machine Learning
+category: quant_concept
 description: Twin Networks offer a Siamese neural design that compares inputs for
   face recognition signature verification and one-shot learning Discover more inside
+title: Twin Networks Architecture Explained for Machine Learning
 ---
 
 ![Image](images/1.jpeg)

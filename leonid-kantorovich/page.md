@@ -1,6 +1,9 @@
 ---
-title: "Leonid Kantorovich (Algo Trading)"
-description: "Leonid Kantorovich's pioneering work in linear programming revolutionized resource allocation and optimization in economics and mathematics influencing the field of algorithmic trading today."
+category: quant_concept
+description: Leonid Kantorovich's pioneering work in linear programming revolutionized
+  resource allocation and optimization in economics and mathematics influencing the
+  field of algorithmic trading today.
+title: Leonid Kantorovich (Algo Trading)
 ---
 
 Leonid Kantorovich's contributions hold a pivotal role in shaping modern optimization techniques in both mathematics and economics. His groundbreaking work in the development of linear programming earned him the Nobel Prize in Economics in 1975. This innovative approach has revolutionized resource allocation methods across diverse industries. By examining Kantorovich's achievements, we gain insight into his influence on economic theory and the practical applications that have emerged from his work, particularly in today's algorithmic trading landscape.

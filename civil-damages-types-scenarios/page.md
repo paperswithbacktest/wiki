@@ -1,6 +1,15 @@
 ---
-title: "Civil Damages: Types and Scenarios (Algo Trading)"
-description: "Explore the multifaceted concepts of civil damages and legal compensations essential in addressing wrongful acts within the legal and financial landscapes. This article investigates into the various types of damages recognized in civil law, including compensatory, punitive, general, and special damages, highlighting their unique purposes. Additionally, it examines the complexities introduced by algorithmic trading, emphasizing the importance of understanding potential legal scenarios and liabilities in today's financial markets. Gain insights to navigate the intricate interplay of law and automated trading with a focus on ensuring fair restitution and deterrence in financial sector misconduct cases."
+category: quant_concept
+description: Explore the multifaceted concepts of civil damages and legal compensations
+  essential in addressing wrongful acts within the legal and financial landscapes.
+  This article investigates into the various types of damages recognized in civil
+  law, including compensatory, punitive, general, and special damages, highlighting
+  their unique purposes. Additionally, it examines the complexities introduced by
+  algorithmic trading, emphasizing the importance of understanding potential legal
+  scenarios and liabilities in today's financial markets. Gain insights to navigate
+  the intricate interplay of law and automated trading with a focus on ensuring fair
+  restitution and deterrence in financial sector misconduct cases.
+title: 'Civil Damages: Types and Scenarios (Algo Trading)'
 ---
 
 The intricate landscape of legal systems and finance demands a comprehensive understanding of compensations and damages. Within this framework, legal compensations and damages function as mechanisms to address wrongful acts. They ensure fair restitution to affected parties and serve as deterrents against future misconduct. This article explores the relationship between legal compensations and the various damages recognized in civil law. It also examines the modern complexities introduced by automated or algorithmic trading.

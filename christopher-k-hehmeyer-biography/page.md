@@ -1,6 +1,8 @@
 ---
-title: "Christopher K. Hehmeyer Biography (Algo Trading)"
-description: "Explore the notable career of Christopher K. Hehmeyer in financial trading from his influential role in futures and crypto markets to leading Warwick Capital."
+category: quant_concept
+description: Explore the notable career of Christopher K. Hehmeyer in financial trading
+  from his influential role in futures and crypto markets to leading Warwick Capital.
+title: Christopher K. Hehmeyer Biography (Algo Trading)
 ---
 
 Christopher K. Hehmeyer is a notable figure in financial trading, recognized particularly for his involvement in both the futures and cryptocurrency markets. His expertise and leadership have made significant impacts in these sectors, driving innovation and influencing market practices. Based in Zug, Switzerland, Hehmeyer plays a pivotal role as the chairman of Warwick Capital Management Ltd., a position that underscores his ongoing influence in financial markets. This article aims to provide a comprehensive exploration of Hehmeyer's distinguished career, highlighting his key achievements and influential role in algorithmic trading, which has redefined trading strategies and market dynamics.

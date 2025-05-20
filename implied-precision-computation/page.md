@@ -1,6 +1,14 @@
 ---
-title: "Implied precision computation (Algo Trading)"
-description: Explore the role of implied precision in algorithmic trading, where computational accuracy is crucial for executing financial trades based on models and historical data. Understand how this concept affects pricing and risk management within trading strategies as it infers the level of precision from assumptions and data limitations. Delve into mathematical frameworks like the Black-Scholes model that support implied precision in this dynamic market environment. Discover the importance of grasping these elements to enhance trading strategies while managing the inherent uncertainties of financial computations.
+category: quant_concept
+description: Explore the role of implied precision in algorithmic trading, where computational
+  accuracy is crucial for executing financial trades based on models and historical
+  data. Understand how this concept affects pricing and risk management within trading
+  strategies as it infers the level of precision from assumptions and data limitations.
+  Delve into mathematical frameworks like the Black-Scholes model that support implied
+  precision in this dynamic market environment. Discover the importance of grasping
+  these elements to enhance trading strategies while managing the inherent uncertainties
+  of financial computations.
+title: Implied precision computation (Algo Trading)
 ---
 
 Algorithmic trading refers to the utilization of computer algorithms to automate the process of trading financial securities. It involves executing trades based on pre-defined criteria determined from an analysis of historical market data, mathematical models, and real-time market information. Precision in computational operations is a cornerstone of algorithmic trading, as even minimal errors can lead to substantial financial consequences. For instance, small discrepancies in calculating asset prices, interest rates, or risk metrics can significantly impact the profitability of trades and the effectiveness of strategies.

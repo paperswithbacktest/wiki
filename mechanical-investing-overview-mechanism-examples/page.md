@@ -1,6 +1,9 @@
 ---
-title: "Mechanical Investing: Overview, Mechanism, and Examples (Algo Trading)"
-description: "Explore mechanical investing and algorithmic trading for disciplined portfolio management Learn how predefined rules eliminate emotional biases for optimal investment"
+category: trading_strategy
+description: Explore mechanical investing and algorithmic trading for disciplined
+  portfolio management Learn how predefined rules eliminate emotional biases for optimal
+  investment
+title: 'Mechanical Investing: Overview, Mechanism, and Examples (Algo Trading)'
 ---
 
 Investment strategy, mechanical investing, portfolio management, and algorithmic trading are essential components of contemporary wealth management. Investment strategies form the backbone of portfolio allocation decisions, guiding investors in selecting suitable assets to achieve specific financial goals. These strategies are diverse, ranging from aggressive growth-focused approaches to conservative income-generating tactics, each tailored to align with an investor's risk tolerance and investment horizon.

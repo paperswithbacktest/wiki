@@ -1,6 +1,9 @@
 ---
-title: "Residual Value Calculation and Examples (Algo Trading)"
-description: "Explore the intersections of residual value, depreciation, and asset valuation in algorithmic trading to enhance financial analysis and optimize trading strategies."
+category: quant_concept
+description: Explore the intersections of residual value, depreciation, and asset
+  valuation in algorithmic trading to enhance financial analysis and optimize trading
+  strategies.
+title: Residual Value Calculation and Examples (Algo Trading)
 ---
 
 Asset valuation, residual value, and depreciation are fundamental concepts in financial analysis, playing a crucial role in the accurate representation of a company's financial health. Asset valuation determines the worth of a company's assets, providing insight into the tangible and intangible resources available to generate future income. Accurately valuing assets ensures that financial statements reflect true economic conditions, supporting informed decision-making by investors, creditors, and other stakeholders.

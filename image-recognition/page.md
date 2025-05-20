@@ -1,7 +1,8 @@
 ---
-title: Fundamentals Of Image Recognition In Machine Learning
+category: quant_concept
 description: Image recognition in machine learning uses CNNs with preprocessing and
   evaluation to identify and categorize objects accurately Discover more inside.
+title: Fundamentals Of Image Recognition In Machine Learning
 ---
 
 ![Image](images/1.jpeg)

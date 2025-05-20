@@ -1,6 +1,8 @@
 ---
-title: "Theodore W. Schultz: Biography and Contributions (Algo Trading)"
-description: "Explore the groundbreaking work of Theodore W. Schultz in agricultural development and human capital theory to understand his lasting impact on economics."
+category: quant_concept
+description: Explore the groundbreaking work of Theodore W. Schultz in agricultural
+  development and human capital theory to understand his lasting impact on economics.
+title: 'Theodore W. Schultz: Biography and Contributions (Algo Trading)'
 ---
 
 Theodore W. Schultz was a groundbreaking economist whose profound insights into agricultural development and human capital theory have significantly influenced modern economic studies. Born in a rural setting, Schultz's early experiences shaped his understanding of the economic challenges faced by agricultural communities, laying the foundation for his future contributions. His pioneering work fundamentally redefined how economists think about the economic value of education and health, crucial components of what he termed "human capital."

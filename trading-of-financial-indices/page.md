@@ -1,6 +1,13 @@
 ---
-title: "Trading of Financial Indices (Algo Trading)"
-description: "Explore the world of financial indices and algorithmic trading. Learn how indices like the S&P 500 and NASDAQ serve as market benchmarks and how algo trading transforms market execution with automation and speed. Understand how the integration of these elements offers benefits like enhanced efficiency, improved risk management, and optimized strategies for investors. Dive into the evolving landscape where trading of financial indices through algorithms promises a more effective trading environment."
+category: quant_concept
+description: Explore the world of financial indices and algorithmic trading. Learn
+  how indices like the S&P 500 and NASDAQ serve as market benchmarks and how algo
+  trading transforms market execution with automation and speed. Understand how the
+  integration of these elements offers benefits like enhanced efficiency, improved
+  risk management, and optimized strategies for investors. Dive into the evolving
+  landscape where trading of financial indices through algorithms promises a more
+  effective trading environment.
+title: Trading of Financial Indices (Algo Trading)
 ---
 
 The stock market is a dynamic financial space where buying and selling of financial instruments like stocks, bonds, and indices take place. Financial indices, such as the S&P 500 or NASDAQ, represent a specific segment of the market and are crucial for understanding broader market trends. These indices provide a consolidated view of market performance by tracking the prices of a selected group of stocks, thus serving as benchmarks for investors. Indices help in understanding how the market or a market sector is doing at any point in time, which is critical for making informed investment decisions.

@@ -1,6 +1,9 @@
 ---
-title: "Financial Markets for Investors (Algo Trading)"
-description: "Explore how algorithmic trading enhances investment opportunities in financial markets. Understand tools and strategies to optimize trade execution and decisions."
+category: quant_concept
+description: Explore how algorithmic trading enhances investment opportunities in
+  financial markets. Understand tools and strategies to optimize trade execution and
+  decisions.
+title: Financial Markets for Investors (Algo Trading)
 ---
 
 The financial markets offer a multitude of opportunities for investors to enhance their wealth through informed decision-making and an intricate understanding of the investment landscape. These markets are vital to the global economy, providing a platform for the exchange of financial securities and assets that is essential for capital allocation and wealth distribution. As technology has advanced, investors today have an unprecedented array of tools and strategies at their disposal, fundamentally transforming the way investment activities are conducted. Among these advancements, algorithmic trading stands out as a prominent development, enabling the execution of trades based on pre-defined criteria through computer algorithms.

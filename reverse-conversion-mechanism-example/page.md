@@ -1,6 +1,9 @@
 ---
-title: "Reverse Conversion: Mechanism and Example (Algo Trading)"
-description: "Explore the reverse conversion strategy in algorithmic trading a sophisticated approach that leverages option mispricings for potential profits without directional market risk."
+category: trading_strategy
+description: Explore the reverse conversion strategy in algorithmic trading a sophisticated
+  approach that leverages option mispricings for potential profits without directional
+  market risk.
+title: 'Reverse Conversion: Mechanism and Example (Algo Trading)'
 ---
 
 Options trading represents a dynamic and multifaceted domain in finance, appealing to traders due to its inherent flexibility and the potential for substantial profits. Among the array of strategies available in options trading, the reverse conversion financial strategy stands out for its sophistication and precision. This strategy is designed to capitalize on mispricings in the options market by constructing a synthetic long position coupled with a short sale of the underlying stock.

@@ -1,6 +1,8 @@
 ---
-title: "ETF Rule and Its Significance (Algo Trading)"
-description: "Discover the interconnection of ETFs and algorithmic trading in investment finance Learn how to leverage these tools for enhanced portfolio performance"
+category: quant_concept
+description: Discover the interconnection of ETFs and algorithmic trading in investment
+  finance Learn how to leverage these tools for enhanced portfolio performance
+title: ETF Rule and Its Significance (Algo Trading)
 ---
 
 Investment finance plays a pivotal role in wealth generation, serving as the backbone for accumulating, preserving, and expanding financial assets over time. At its core, it involves the strategic management of assets with a keen focus on optimizing returns while managing risk. As global markets evolve and adapt, Exchange-Traded Funds (ETFs) have emerged as a versatile and popular investment tool, offering investors an approachable and cost-effective entry into market diversification. These financial instruments mimic the performance of a specific index, sector, commodity, or other asset class, and are traded on exchanges much like stocks, granting investors the dual benefits of market exposure and liquidity.

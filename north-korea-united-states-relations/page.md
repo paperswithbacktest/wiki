@@ -1,6 +1,8 @@
 ---
-title: "North Korea–United States Relations (Algo Trading)"
-description: "Explore the intricate relations between North Korea and the United States and discover how algorithmic trading influences diplomatic and economic interactions."
+category: quant_concept
+description: Explore the intricate relations between North Korea and the United States
+  and discover how algorithmic trading influences diplomatic and economic interactions.
+title: North Korea–United States Relations (Algo Trading)
 ---
 
 The complex sphere of international relations plays a vital role in shaping global dynamics, particularly when it involves influential nations like North Korea and the United States. These two countries, with their contrasting ideologies and long-standing hostilities, represent a focal point of global diplomacy and security concerns. Scholars and policymakers must comprehend the intricacies of their interactions to navigate the challenges and opportunities arising from this bilateral relationship.

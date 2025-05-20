@@ -1,6 +1,14 @@
 ---
-title: "Day Trading Techniques and Strategies (Algo Trading)"
-description: "Explore the intricacies of day trading and algorithmic trading strategies in the stock market. This comprehensive guide unveils vital techniques to capitalize on market volatility, catering to both hands-on traders seeking quick profits and those leveraging automated systems for efficiency. Discover the skills required, benefits, and challenges involved, and learn how to craft a successful trading plan with effective risk management. Stay informed about market conditions and enhance trading decisions through technical analysis and insight into news and sentiment factors, mastering a balanced approach to both day trading and algo trading."
+category: trading_strategy
+description: Explore the intricacies of day trading and algorithmic trading strategies
+  in the stock market. This comprehensive guide unveils vital techniques to capitalize
+  on market volatility, catering to both hands-on traders seeking quick profits and
+  those leveraging automated systems for efficiency. Discover the skills required,
+  benefits, and challenges involved, and learn how to craft a successful trading plan
+  with effective risk management. Stay informed about market conditions and enhance
+  trading decisions through technical analysis and insight into news and sentiment
+  factors, mastering a balanced approach to both day trading and algo trading.
+title: Day Trading Techniques and Strategies (Algo Trading)
 ---
 
 Stock market trading is a cornerstone of the global financial system. It facilitates the buying and selling of stocks, bonds, and other securities in a regulated environment, thereby contributing to economic growth and wealth distribution. The importance of stock market trading lies in its ability to provide liquidity, enable companies to raise capital, and offer investors opportunities for profit and financial diversification.

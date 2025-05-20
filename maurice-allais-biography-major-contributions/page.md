@@ -1,6 +1,9 @@
 ---
-title: "Maurice Allais: Biography and Major Contributions (Algo Trading)"
-description: "Explore Maurice Allais' impact as a Nobel-winning economist known for his work on market equilibrium and behavioral economics influencing algorithmic trading."
+category: quant_concept
+description: Explore Maurice Allais' impact as a Nobel-winning economist known for
+  his work on market equilibrium and behavioral economics influencing algorithmic
+  trading.
+title: 'Maurice Allais: Biography and Major Contributions (Algo Trading)'
 ---
 
 Maurice Allais was a distinguished French economist, celebrated for his significant contributions to market equilibrium and behavioral economics. His pioneering work laid the groundwork for numerous economic theories and practices that remain influential today. Born on May 31, 1911, in Paris, Allais rose to prominence through his profound insights into market dynamics and decision-making processes. He was awarded the Nobel Prize in Economic Sciences in 1988, highlighting his deep impact on economic theory and practice.

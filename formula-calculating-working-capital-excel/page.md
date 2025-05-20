@@ -1,6 +1,8 @@
 ---
-title: "Formula for Calculating Working Capital in Excel (Algo Trading)"
-description: "Explore how to calculate working capital in Excel essential for financial health and supporting algorithmic trading strategies through efficient data analysis."
+category: quant_concept
+description: Explore how to calculate working capital in Excel essential for financial
+  health and supporting algorithmic trading strategies through efficient data analysis.
+title: Formula for Calculating Working Capital in Excel (Algo Trading)
 ---
 
 In the fast-paced world of finance, managing working capital effectively is crucial for maintaining a company's short-term financial health and liquidity. As an indicator of a company’s operational efficiency, working capital, defined as the difference between current assets and current liabilities, provides insights into a business’s ability to meet short-term obligations. A positive working capital suggests that a company can readily pay off its short-term debts and potentially invest in new opportunities, whereas a negative working capital may indicate liquidity challenges that could necessitate financial restructuring.

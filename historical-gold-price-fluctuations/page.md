@@ -1,6 +1,9 @@
 ---
-title: "Historical Gold Price Fluctuations (Algo Trading)"
-description: "Explore historical gold price fluctuations and their significance in trading decisions Discover how algorithmic trading redefines strategies in this dynamic market"
+category: dataset
+description: Explore historical gold price fluctuations and their significance in
+  trading decisions Discover how algorithmic trading redefines strategies in this
+  dynamic market
+title: Historical Gold Price Fluctuations (Algo Trading)
 ---
 
 The allure of gold has captivated civilizations throughout history, maintaining its status as a symbol of wealth and security. From ancient Egyptian pharaohs who adorned themselves with gold jewelry to the gold rushes that paved the way for new settlements, gold's influence is timeless. Its inherent qualities, such as resistance to corrosion and attractive luster, have made it a preferred medium of exchange and a store of value.

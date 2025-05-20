@@ -1,6 +1,8 @@
 ---
-title: "Counter Currency: Definition and Examples (Algo Trading)"
-description: "Explore counter currency in forex trading and the impact of algorithmic trading on market dynamics with examples that enhance trading efficiency."
+category: quant_concept
+description: Explore counter currency in forex trading and the impact of algorithmic
+  trading on market dynamics with examples that enhance trading efficiency.
+title: 'Counter Currency: Definition and Examples (Algo Trading)'
 ---
 
 The foreign exchange market, commonly referred to as forex, represents a dynamic and complex ecosystem where the trading of currencies occurs across the globe. Recognized for its unparalleled liquidity, this market operates at an international scale, allowing for the seamless exchange of different currencies, which is fundamental to global economic activity. Participants in the forex market range from large financial institutions and corporations to individual traders, each engaging in transactions that cumulatively amount to trillions of dollars daily.

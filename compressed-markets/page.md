@@ -1,6 +1,13 @@
 ---
-title: "Compressed markets (Algo Trading)"
-description: Explore the transformative impact of compressed markets in algorithmic trading where advanced algorithms execute trades rapidly and efficiently. Delve into their role in enhancing profitability by minimizing spreads and slippage while boosting liquidity and transaction speed. Despite their advantages these markets also face challenges like technical glitches and regulatory compliance. Discover the future potential driven by cutting-edge technologies shaping these adaptive trading environments.
+category: quant_concept
+description: Explore the transformative impact of compressed markets in algorithmic
+  trading where advanced algorithms execute trades rapidly and efficiently. Delve
+  into their role in enhancing profitability by minimizing spreads and slippage while
+  boosting liquidity and transaction speed. Despite their advantages these markets
+  also face challenges like technical glitches and regulatory compliance. Discover
+  the future potential driven by cutting-edge technologies shaping these adaptive
+  trading environments.
+title: Compressed markets (Algo Trading)
 ---
 
 Algorithmic trading, commonly referred to as 'algo trading', has significantly transformed financial markets by utilizing advanced computational techniques to execute trading orders at speeds and frequencies that would be impossible for a human trader. Central to this advancement is the concept of compressed markets. These markets facilitate a trading environment where algorithms can execute trades with remarkable precision and speed, minimizing the spreads and capitalizing on negligible price differences across platforms. 

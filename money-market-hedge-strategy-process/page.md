@@ -1,6 +1,8 @@
 ---
-title: "Money Market Hedge: Strategy and Process (Algo Trading)"
-description: "Discover how a money market hedge can mitigate currency risk using financial instruments and algorithmic trading to secure investments in a volatile market."
+category: trading_strategy
+description: Discover how a money market hedge can mitigate currency risk using financial
+  instruments and algorithmic trading to secure investments in a volatile market.
+title: 'Money Market Hedge: Strategy and Process (Algo Trading)'
 ---
 
 In the fast-paced world of finance, managing risks associated with currency fluctuations and market changes is crucial. A money market hedge is a fundamental strategy employed in financial risk management to address these concerns. This technique is used to minimize the risk posed by volatile exchange rates during foreign transactions, allowing companies to secure the value of a foreign currency in their domestic currency. 

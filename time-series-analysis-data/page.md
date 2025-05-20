@@ -1,6 +1,8 @@
 ---
-title: "Time Series Analysis in Data (Algo Trading)"
-description: "Explore the critical role of time series analysis in algorithmic trading to uncover trends and improve trading strategies through advanced forecasting techniques."
+category: quant_concept
+description: Explore the critical role of time series analysis in algorithmic trading
+  to uncover trends and improve trading strategies through advanced forecasting techniques.
+title: Time Series Analysis in Data (Algo Trading)
 ---
 
 In the rapidly evolving financial markets, data analysis plays a critical role in informing investment decisions. As the volume of data available to traders continues to expand, the ability to effectively analyze this data becomes increasingly essential for maintaining a competitive edge. One of the most valuable tools within the data analysis spectrum is time series analysis. This technique offers insights into temporal data, making it indispensable for algorithmic trading (algo trading).

@@ -1,6 +1,8 @@
 ---
-title: "Differences Between IPOs and Seasoned Equity Offerings (Algo Trading)"
-description: "Discover the differences between IPOs and SEOs and explore the impact of algorithmic trading on equity offerings unlocking new possibilities for investors."
+category: quant_concept
+description: Discover the differences between IPOs and SEOs and explore the impact
+  of algorithmic trading on equity offerings unlocking new possibilities for investors.
+title: Differences Between IPOs and Seasoned Equity Offerings (Algo Trading)
 ---
 
 The financial landscape constantly evolves as companies seek growth and investors search for new opportunities. A dynamic component of this landscape is equity offerings, which provide firms with access to capital markets to support various business objectives. Two primary types of equity offerings are Initial Public Offerings (IPOs) and Seasoned Equity Offerings (SEOs).

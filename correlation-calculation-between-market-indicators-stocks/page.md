@@ -1,6 +1,9 @@
 ---
-title: "Correlation Calculation Between Market Indicators and Stocks (Algo Trading)"
-description: "Explore the critical role of correlation between market indicators and stocks in algorithmic trading to enhance predictive accuracy, risk assessment, and strategies."
+category: trading_strategy
+description: Explore the critical role of correlation between market indicators and
+  stocks in algorithmic trading to enhance predictive accuracy, risk assessment, and
+  strategies.
+title: Correlation Calculation Between Market Indicators and Stocks (Algo Trading)
 ---
 
 In the ever-evolving world of financial markets, understanding the correlation between stocks and market indicators is crucial for successful trading strategies. These correlations are essential because they reflect how different financial assets and indicators move relative to one another, providing insight that can lead to informed trading decisions. Traders and investors leverage these correlations to predict market trends, assess risk, and optimize portfolio performance.

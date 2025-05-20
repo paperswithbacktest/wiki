@@ -1,6 +1,8 @@
 ---
-title: "Foreign-Invested Enterprises: Overview and Functionality (Algo Trading)"
-description: "Explore how foreign-invested enterprises and algorithmic trading shape global investment strategies enhancing business structures and financial performance."
+category: trading_strategy
+description: Explore how foreign-invested enterprises and algorithmic trading shape
+  global investment strategies enhancing business structures and financial performance.
+title: 'Foreign-Invested Enterprises: Overview and Functionality (Algo Trading)'
 ---
 
 In today's global economy, businesses face increasing pressure to optimize their corporate structures to attract and effectively manage foreign investments. As barriers to international trade decrease and markets become more interconnected, companies seek efficient strategies to leverage foreign capital for growth and expansion. This trend is driven by the need to capitalize on diverse markets and resources available across different regions, leading to strategic business planning and structural optimization.

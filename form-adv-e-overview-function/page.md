@@ -1,6 +1,8 @@
 ---
-title: "Form ADV-E: Overview and Function (Algo Trading)"
-description: "Explore Form ADV-E for investment advisers managing client funds or securities Learn its role in protecting client assets through annual audits and SEC compliance"
+category: quant_concept
+description: Explore Form ADV-E for investment advisers managing client funds or securities
+  Learn its role in protecting client assets through annual audits and SEC compliance
+title: 'Form ADV-E: Overview and Function (Algo Trading)'
 ---
 
 The financial industry operates under a complex regulatory framework designed to maintain market integrity and protect investors. This framework is shaped by a multitude of regulations and compliance requirements that govern the behavior of market participants, including investment advisers. Investment advisers play a critical role in managing investment portfolios and providing financial advice, making them essential to the financial ecosystem.

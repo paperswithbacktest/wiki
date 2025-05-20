@@ -1,6 +1,8 @@
 ---
-title: "Howey Test and Its Implications for Cryptocurrency (Algo Trading)"
-description: "Explore the Howey Test's role in cryptocurrency regulation its impact on algorithmic trading and how it defines investment contracts in the crypto space."
+category: quant_concept
+description: Explore the Howey Test's role in cryptocurrency regulation its impact
+  on algorithmic trading and how it defines investment contracts in the crypto space.
+title: Howey Test and Its Implications for Cryptocurrency (Algo Trading)
 ---
 
 The cryptocurrency market has experienced substantial growth over the past decade, marked by an exponential increase in capitalization, diversity of offerings, and global adoption. Starting with the creation of Bitcoin in 2009, cryptocurrencies have transitioned from niche digital assets to significant financial instruments traded globally. With thousands of different coins and tokens now in circulation, the market's expansion has brought about both opportunities and challenges for investors, regulators, and the broader financial ecosystem.

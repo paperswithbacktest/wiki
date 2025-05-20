@@ -1,6 +1,15 @@
 ---
-title: "Market Making and Algo Trading"
-description: Market making is a vital process in financial markets, where market makers continuously quote bid and ask prices for securities, ensuring liquidity and smooth trade execution. The evolution of market making, from traditional manual methods to sophisticated algorithmic trading, has enhanced market efficiency. Market makers profit from the bid-ask spread and take on the risk of holding inventory to facilitate trades. While market makers operate across different exchanges like NYSE, Nasdaq, and decentralized platforms using Automated Market Makers (AMMs), their role in maintaining orderly markets remains essential, supported by advances in technology and algorithmic strategies.
+category: quant_concept
+description: Market making is a vital process in financial markets, where market makers
+  continuously quote bid and ask prices for securities, ensuring liquidity and smooth
+  trade execution. The evolution of market making, from traditional manual methods
+  to sophisticated algorithmic trading, has enhanced market efficiency. Market makers
+  profit from the bid-ask spread and take on the risk of holding inventory to facilitate
+  trades. While market makers operate across different exchanges like NYSE, Nasdaq,
+  and decentralized platforms using Automated Market Makers (AMMs), their role in
+  maintaining orderly markets remains essential, supported by advances in technology
+  and algorithmic strategies.
+title: Market Making and Algo Trading
 ---
 
 Market making is a cornerstone activity in financial markets, ensuring liquidity and facilitating the smooth execution of trades. At its core, market making involves **continuously quoting** buy (bid) and sell (ask) prices for financial instruments, such as stocks, bonds, or derivatives, thereby providing a platform for other participants to trade. For institutional traders, market makers are indispensable partners, guaranteeing the ability to enter or exit positions without causing significant price disruptions. Meanwhile, for retail traders, they often operate behind the scenes, indirectly influencing the prices seen on trading platforms and ensuring that when the trade button is clicked, there's a counterparty ready to take the opposite position.

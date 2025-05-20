@@ -1,6 +1,8 @@
 ---
-title: "Comparison of Equity Funds and Income Funds (Algo Trading)"
-description: "Explore the key differences between equity and income funds and the impact of algorithmic trading on investment strategies for effective portfolio management."
+category: quant_concept
+description: Explore the key differences between equity and income funds and the impact
+  of algorithmic trading on investment strategies for effective portfolio management.
+title: Comparison of Equity Funds and Income Funds (Algo Trading)
 ---
 
 Understanding different types of investment funds is crucial for effective portfolio management. In an increasingly complex financial environment, selecting the right investment vehicles is essential for achieving specific financial goals. This article focuses on exploring and comparing equity funds and income funds, two fundamental investment categories that cater to different investor needs and risk appetites. Equity funds primarily invest in stocks, aiming for capital growth through market appreciation and dividends. In contrast, income funds prioritize generating consistent income through investments in bonds and other fixed-income securities.

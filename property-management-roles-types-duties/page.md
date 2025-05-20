@@ -1,6 +1,8 @@
 ---
-title: "Property Management: Roles, Types, and Duties (Algo Trading)"
-description: "Explore the transformative fusion of property management and algorithmic trading. Discover key roles and tech-driven strategies reshaping real estate investments."
+category: quant_concept
+description: Explore the transformative fusion of property management and algorithmic
+  trading. Discover key roles and tech-driven strategies reshaping real estate investments.
+title: 'Property Management: Roles, Types, and Duties (Algo Trading)'
 ---
 
 The interconnected world of real estate property management and algorithmic trading represents a transformative fusion of traditional industry practices with cutting-edge technological advancements. This article explores the fundamental roles in property management, detailing the various types and duties involved. Additionally, it investigates into the impact of algorithmic trading within real estate, highlighting how this quantitative approach is reshaping investment strategies.

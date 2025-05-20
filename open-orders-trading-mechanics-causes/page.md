@@ -1,6 +1,8 @@
 ---
-title: "Open Orders in Trading: Mechanics and Causes (Algo Trading)"
-description: "Explore the mechanics of open orders and algorithmic trading in the financial markets Learn how these tools optimize trade execution and manage risks efficiently"
+category: quant_concept
+description: Explore the mechanics of open orders and algorithmic trading in the financial
+  markets Learn how these tools optimize trade execution and manage risks efficiently
+title: 'Open Orders in Trading: Mechanics and Causes (Algo Trading)'
 ---
 
 In the rapidly changing financial markets, open orders and algorithmic trading have assumed critical roles for traders and investors by offering innovative methods to execute trades and manage risks efficiently. Open orders, which are directives to brokers to buy or sell securities under specific conditions, function as fundamental tools for achieving targeted trade outcomes. Algorithmic trading, on the other hand, uses precise strategies and computer algorithms to transact trades, optimizing timing and pricing beyond human capabilities.

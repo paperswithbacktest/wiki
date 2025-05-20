@@ -1,6 +1,8 @@
 ---
-title: "Frequency of Mutual Fund Holdings Reports (Algo Trading)"
-description: "Explore how mutual fund holdings reports impact algorithmic trading strategies Discover the significance of report frequency and its influence on trading dynamics"
+category: dataset
+description: Explore how mutual fund holdings reports impact algorithmic trading strategies
+  Discover the significance of report frequency and its influence on trading dynamics
+title: Frequency of Mutual Fund Holdings Reports (Algo Trading)
 ---
 
 Mutual funds play a significant role in the investment landscape, offering investors a diversified portfolio of stocks, bonds, or other securities. By pooling resources, investors gain access to professional management and can achieve a level of diversification that might be challenging to acquire individually. This diversification helps mitigate risk while providing the opportunity for returns. The importance of mutual funds in the market is underscored by their ability to absorb capital from multiple small investors, channeling it collectively into potentially profitable avenues.

@@ -1,6 +1,14 @@
 ---
-title: "Winton Group (Algo Trading)"
-description: Explore Winton Group's influential role in algorithmic trading within the financial industry. Founded in 1997 by David Harding, this leading British investment firm manages $10 billion in assets as of 2023. Known for its innovative use of advanced algorithms and commitment to research, Winton stands out by effectively leveraging big data for informed trading decisions. Through global offices and a strong focus on quantitative analysis, Winton exemplifies the fusion of technology and finance, continually refining its strategies to maintain a competitive edge in the ever-evolving market landscape.
+category: trading_strategy
+description: Explore Winton Group's influential role in algorithmic trading within
+  the financial industry. Founded in 1997 by David Harding, this leading British investment
+  firm manages $10 billion in assets as of 2023. Known for its innovative use of advanced
+  algorithms and commitment to research, Winton stands out by effectively leveraging
+  big data for informed trading decisions. Through global offices and a strong focus
+  on quantitative analysis, Winton exemplifies the fusion of technology and finance,
+  continually refining its strategies to maintain a competitive edge in the ever-evolving
+  market landscape.
+title: Winton Group (Algo Trading)
 ---
 
 This article explores Winton Group's significant role in algorithmic trading, emphasizing its prominence in the financial industry. Founded by David Harding in 1997, Winton Group has become a leading British investment management firm known for its innovative and systematic approach to trading. With assets under management reaching an impressive $10 billion as of late 2023, the company has established itself as a major player in the financial sector.

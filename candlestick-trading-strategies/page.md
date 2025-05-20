@@ -1,6 +1,13 @@
 ---
-title: "Candlestick Trading Strategies Explained (Algo Trading)"
-description: Explore the world of candlestick trading strategies with a detailed guide for algorithmic traders. Discover how traditional Japanese techniques can enhance modern trading systems by offering insights into market trends and sentiment through candlestick patterns. This resource covers essential patterns like Doji, Hammer, and Engulfing, providing valuable strategies for anticipating market movements. Learn about the strategic advantages of integrating candlestick analysis into algorithm trading and gain knowledge to improve your trading efficiency and precision.
+category: trading_strategy
+description: Explore the world of candlestick trading strategies with a detailed guide
+  for algorithmic traders. Discover how traditional Japanese techniques can enhance
+  modern trading systems by offering insights into market trends and sentiment through
+  candlestick patterns. This resource covers essential patterns like Doji, Hammer,
+  and Engulfing, providing valuable strategies for anticipating market movements.
+  Learn about the strategic advantages of integrating candlestick analysis into algorithm
+  trading and gain knowledge to improve your trading efficiency and precision.
+title: Candlestick Trading Strategies Explained (Algo Trading)
 ---
 
 Algorithmic trading has significantly transformed financial markets, leveraging complex algorithms and high-speed data processing to facilitate trades with remarkable efficiency and precision. This technological advancement allows traders to automate trading decisions based on pre-defined criteria, enabling them to respond swiftly to market opportunities and risks. Among the various tools utilized in algorithmic trading, candlestick patterns stand out as essential analytical elements. Originating from centuries-old Japanese techniques, these patterns offer unique insights into market sentiment by visually representing historical price actions.

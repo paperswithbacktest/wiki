@@ -1,6 +1,12 @@
 ---
-title: "P-Value Calculation and Examples (Algo Trading)"
-description: "This article explores the application of p-value calculations in algorithmic trading, highlighting its importance in measuring statistical significance during hypothesis testing. By understanding and utilizing p-values, traders can validate strategies with data-driven evidence, discerning genuine market patterns from random chance. This piece further explains the methodology of p-value computation, emphasizing its role in optimizing trading models and making informed decisions."
+category: quant_concept
+description: This article explores the application of p-value calculations in algorithmic
+  trading, highlighting its importance in measuring statistical significance during
+  hypothesis testing. By understanding and utilizing p-values, traders can validate
+  strategies with data-driven evidence, discerning genuine market patterns from random
+  chance. This piece further explains the methodology of p-value computation, emphasizing
+  its role in optimizing trading models and making informed decisions.
+title: P-Value Calculation and Examples (Algo Trading)
 ---
 
 In trading, especially algorithmic trading, statistical analysis is key in creating and verifying strategies that succeed. A fundamental statistical concept applied here is the p-value calculation, which measures statistical significance in hypothesis testing. This article addresses how p-value calculations can be applied practically in algorithmic trading. P-values estimate the probability that the observed results occurred by random chance, assuming a null hypothesis is correct.

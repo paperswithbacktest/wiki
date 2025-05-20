@@ -1,6 +1,8 @@
 ---
-title: "Measures of Stock Price Volatility (Algo Trading)"
-description: "Explore the essential measures of stock price volatility and their significance in algorithmic trading to optimize risk management and maximize returns."
+category: quant_concept
+description: Explore the essential measures of stock price volatility and their significance
+  in algorithmic trading to optimize risk management and maximize returns.
+title: Measures of Stock Price Volatility (Algo Trading)
 ---
 
 In the dynamically changing world of financial markets, understanding and interpreting stock volatility is crucial for investors and traders. Volatility represents the degree of variation in trading prices and is a fundamental measure of risk. Its assessment is vital for making informed trading decisions as it directly impacts potential returns and risk management strategies. This article explores the relationship between financial metrics and stock volatility, providing insights into various measures of volatility and their application in algorithmic trading.

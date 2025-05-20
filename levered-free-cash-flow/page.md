@@ -1,6 +1,8 @@
 ---
-title: "Levered Free Cash Flow (Algo Trading)"
-description: "Explore Levered Free Cash Flow and its role in assessing financial health and investment in algorithmic trading to enhance decision-making strategies."
+category: quant_concept
+description: Explore Levered Free Cash Flow and its role in assessing financial health
+  and investment in algorithmic trading to enhance decision-making strategies.
+title: Levered Free Cash Flow (Algo Trading)
 ---
 
 In finance and investment, understanding key financial metrics is essential for making informed decisions. Levered Free Cash Flow (LFCF) is one such metric, widely utilized in assessing a company's financial health and its capacity to meet financial obligations. LFCF represents the cash available after a company has met its financial commitments, such as interest payments and debt amortization. This metric provides insights into the money that equity shareholders can potentially receive, making it a vital indicator of financial stability and resilience.

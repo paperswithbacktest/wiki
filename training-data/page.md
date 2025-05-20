@@ -1,6 +1,10 @@
 ---
-title: "Training Data (Algo Trading)"
-description: Unravel the significance of Training Data in Algo Trading - the fuel powering AI-driven decisions. Learn how quality data impacts accuracy, adaptability, and model complexity. Discover challenges and essential resources for effective training data collection and management.
+category: dataset
+description: Unravel the significance of Training Data in Algo Trading - the fuel
+  powering AI-driven decisions. Learn how quality data impacts accuracy, adaptability,
+  and model complexity. Discover challenges and essential resources for effective
+  training data collection and management.
+title: Training Data (Algo Trading)
 ---
 
 Algorithmic trading, often referred to as algo trading, is the use of computer programs to execute trades in financial markets based on a set of predefined criteria. This trend is transforming the landscape of financial exchanges by leveraging speed, precision, and the capacity to handle large volumes of trades without human intervention. The importance of algo trading has been escalating due to its ability to reduce transaction costs and boost market efficiency. In 2020, it was estimated that over 60% of global trading activities were supported by algorithmic systems, underscoring their vital role in contemporary finance.

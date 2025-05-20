@@ -1,6 +1,9 @@
 ---
-title: "Market Orders and Limit Orders (Algo Trading)"
-description: "Explore the essential differences and strategic uses of market orders and limit orders in algorithmic trading to optimize transactions and manage risk effectively."
+category: quant_concept
+description: Explore the essential differences and strategic uses of market orders
+  and limit orders in algorithmic trading to optimize transactions and manage risk
+  effectively.
+title: Market Orders and Limit Orders (Algo Trading)
 ---
 
 Trading orders are a fundamental aspect of stock and securities trading, serving as the primary mechanism through which investors and traders execute their buy and sell strategies. At the core, understanding the different types of trading orders, such as market orders and limit orders, is essential for effective trading. Market orders allow for immediate execution at the current market price, offering speed and simplicity, whereas limit orders enable traders to specify the price at which they are willing to buy or sell, thus offering greater price control.

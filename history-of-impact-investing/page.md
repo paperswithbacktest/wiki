@@ -1,6 +1,8 @@
 ---
-title: "History of Impact Investing (Algo Trading)"
-description: "Explore the dynamic evolution of impact investing and algorithmic trading A fusion driving responsible finance by aligning ethical values with high-tech strategies"
+category: quant_concept
+description: Explore the dynamic evolution of impact investing and algorithmic trading
+  A fusion driving responsible finance by aligning ethical values with high-tech strategies
+title: History of Impact Investing (Algo Trading)
 ---
 
 The world of finance is undergoing a significant transformation, driven by a shift towards more socially and environmentally responsible investment strategies. This paradigm shift has given rise to various innovative approaches, prominently including social finance, impact investing, and algorithmic trading. These strategies have begun to redefine traditional investment paradigms, presenting new pathways for generating financial returns while contributing to positive social and environmental impacts.

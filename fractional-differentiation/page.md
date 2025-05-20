@@ -1,6 +1,12 @@
 ---
-title: "Fractional differentiation (Algo Trading)"
-description: Explore how fractional differentiation enhances algorithmic trading by transforming non-stationary financial data into stationary datasets without losing key information. This advanced mathematical tool enables more accurate predictive modeling, improving the efficiency and effectiveness of trading strategies by capturing long-term dependencies and trends within financial time series. Discover practical implementations and future applications in the trading domain.
+category: quant_concept
+description: Explore how fractional differentiation enhances algorithmic trading by
+  transforming non-stationary financial data into stationary datasets without losing
+  key information. This advanced mathematical tool enables more accurate predictive
+  modeling, improving the efficiency and effectiveness of trading strategies by capturing
+  long-term dependencies and trends within financial time series. Discover practical
+  implementations and future applications in the trading domain.
+title: Fractional differentiation (Algo Trading)
 ---
 
 Algorithmic trading, defined as the use of computer algorithms to automate financial trading activities, plays a pivotal role in modern finance due to its ability to process large volumes of data at speeds impossible for human traders. These algorithms leverage mathematical models to make decisions on behalf of traders, often capitalizing on market inefficiencies and executing trades at the optimal price and time. The significance of algorithmic trading is emphasized by its widespread adoption across global markets, where it enhances liquidity, reduces trading costs, and improves the overall efficiency of financial markets.

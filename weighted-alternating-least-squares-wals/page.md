@@ -1,7 +1,8 @@
 ---
-title: Weighted Alternating Least Squares Matrix Factorization Explained
+category: quant_concept
 description: Weighted Alternating Least Squares improves recommendations by weighting
   data confidence in sparse matrices to enhance personalization Discover more inside
+title: Weighted Alternating Least Squares Matrix Factorization Explained
 ---
 
 ![Image](images/1.png)

@@ -1,6 +1,8 @@
 ---
-title: "Heavy Industry Considerations for Large-Scale Enterprises (Algo Trading)"
-description: "Explore how integrating algorithmic trading with heavy industry can enhance operational efficiency and competitiveness for large-scale enterprises."
+category: quant_concept
+description: Explore how integrating algorithmic trading with heavy industry can enhance
+  operational efficiency and competitiveness for large-scale enterprises.
+title: Heavy Industry Considerations for Large-Scale Enterprises (Algo Trading)
 ---
 
 The integration of heavy industry and algorithmic trading in large-scale businesses is becoming increasingly prominent. This phenomenon reflects the broader trend where technological advancements intersect with traditional industries, reshaping the landscape of business operations and financial strategies. Heavy industry, which includes sectors such as steel manufacturing, shipbuilding, aerospace, and defense, is defined by its capital-intensive processes and extensive resource and manpower requirements. These industries are characterized by large-scale operations and the handling of heavy, bulky goods, necessitating substantial infrastructure for both production and transportation.

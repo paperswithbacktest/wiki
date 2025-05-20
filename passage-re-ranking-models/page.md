@@ -1,7 +1,8 @@
 ---
-title: Understanding Passage Re-Ranking Models in Machine Learning
+category: quant_concept
 description: Passage Re-Ranking Models improve search by reordering retrieval outputs
   with machine learning scoring for more precise results Discover more inside.
+title: Understanding Passage Re-Ranking Models in Machine Learning
 ---
 
 ![Image](images/1.png)

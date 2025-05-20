@@ -1,6 +1,9 @@
 ---
-title: "Current Account and Its Influencing Factors (Algo Trading)"
-description: "Discover the intricate links between international trade and current account balances highlighting how trade policies and algorithmic trading reshape global markets."
+category: quant_concept
+description: Discover the intricate links between international trade and current
+  account balances highlighting how trade policies and algorithmic trading reshape
+  global markets.
+title: Current Account and Its Influencing Factors (Algo Trading)
 ---
 
 International trade plays a crucial role in shaping the current account balance of nations by determining their net financial interactions with other countries. This balance, incorporating elements such as the trade balance, net income on cross-border investments, and transfer payments, serves as a pivotal indicator of a country's economic standing and stability. In an interconnected global economy, fluctuations in one country's current account can ripple across international borders, influencing markets and economic policies worldwide.

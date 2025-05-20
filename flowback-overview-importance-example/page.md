@@ -1,6 +1,9 @@
 ---
-title: "Flowback: Overview, Importance, and Example (Algo Trading)"
-description: "Explore the role of AI in enhancing hydraulic fracturing efficiency and flowback control, highlighting advanced analytical techniques for better well productivity and sustainable operations."
+category: quant_concept
+description: Explore the role of AI in enhancing hydraulic fracturing efficiency and
+  flowback control, highlighting advanced analytical techniques for better well productivity
+  and sustainable operations.
+title: 'Flowback: Overview, Importance, and Example (Algo Trading)'
 ---
 
 Hydraulic fracturing, commonly known as fracking, is a pivotal technique employed in the oil and gas industry to enhance the extraction rates and recovery from reservoir wells. The fundamental process involves the high-pressure injection of a specialized fracturing fluid into subterranean rock formations. This high-pressure fluid creates fissures in the rocks, which subsequently allows for the more efficient flow of oil and gas toward the production wells.

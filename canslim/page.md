@@ -1,6 +1,14 @@
 ---
-title: "CANSLIM Trading Strategy Explained (Algo Trading)"
-description: Explore the enduring significance and adaptability of the CANSLIM trading strategy within algorithmic trading systems. Developed by investor William O'Neil, CANSLIM combines fundamental and technical analysis to identify high-growth stocks. This article discusses its potential integration into automated trading for enhanced precision and efficiency. As technology reshapes financial markets, merging traditional strategies with modern techniques may unlock new investment avenues. Discover how CANSLIM's comprehensive stock evaluation, when automated, can help traders capitalize on market opportunities swiftly and effectively.
+category: trading_strategy
+description: Explore the enduring significance and adaptability of the CANSLIM trading
+  strategy within algorithmic trading systems. Developed by investor William O'Neil,
+  CANSLIM combines fundamental and technical analysis to identify high-growth stocks.
+  This article discusses its potential integration into automated trading for enhanced
+  precision and efficiency. As technology reshapes financial markets, merging traditional
+  strategies with modern techniques may unlock new investment avenues. Discover how
+  CANSLIM's comprehensive stock evaluation, when automated, can help traders capitalize
+  on market opportunities swiftly and effectively.
+title: CANSLIM Trading Strategy Explained (Algo Trading)
 ---
 
 In trading and investment, strategies are developed, tested, and frequently discarded. However, the CANSLIM method, devised by renowned investor William O’Neil, has remained a steadfast approach. This strategy, noted for its systematic evaluation of stocks, combines both fundamental and technical analysis components, enabling traders to identify high-growth opportunities.

@@ -1,6 +1,8 @@
 ---
-title: "Execution Probability Models (Algo Trading)"
-description: "Explore execution probability models for algorithmic trading and enhance trade efficiency with insights on order execution likelihood improving trading strategies."
+category: quant_concept
+description: Explore execution probability models for algorithmic trading and enhance
+  trade efficiency with insights on order execution likelihood improving trading strategies.
+title: Execution Probability Models (Algo Trading)
 ---
 
 The modern trading landscape has undergone a significant transformation with the advent of order-driven markets. These markets rely on the continuous flow of orders from buyers and sellers, facilitated by advanced technological platforms. A crucial component of this evolution is algorithmic trading, which plays an essential role in executing trades efficiently and accurately. Algorithmic trading systems are designed to process large volumes of data at high speeds, enabling traders to make split-second decisions and capitalize on market opportunities. These systems have become indispensable in achieving optimal execution of trades by reducing human error and improving the precision of order placements.

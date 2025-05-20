@@ -1,7 +1,8 @@
 ---
-title: Comprehensive Guide to Machine Learning Data Imputation Methods
+category: dataset
 description: Machine learning imputation ensures reliable datasets by filling missing
   values with methods from simple averages to advanced models Discover more inside.
+title: Comprehensive Guide to Machine Learning Data Imputation Methods
 ---
 
 ![Image](images/1.png)

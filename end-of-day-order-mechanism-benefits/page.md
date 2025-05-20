@@ -1,6 +1,8 @@
 ---
-title: "End of Day Order: Mechanism and Benefits (Algo Trading)"
-description: "Discover the benefits and mechanisms of end-of-day orders in algorithmic trading and learn how these strategies can enhance your financial market investments."
+category: trading_strategy
+description: Discover the benefits and mechanisms of end-of-day orders in algorithmic
+  trading and learn how these strategies can enhance your financial market investments.
+title: 'End of Day Order: Mechanism and Benefits (Algo Trading)'
 ---
 
 End-of-day orders are a crucial aspect of financial markets that allow investors to execute transactions at the close of the trading day. These orders are placed with the intention that they will be executed at or right before the market closes. The importance of end-of-day orders in stock trading lies in their ability to help investors and traders capture the closing price, which is often seen as a significant indicator of a stock’s daily performance. By waiting until the market's final moments, traders can assess the day’s trading activities and market sentiment to make informed decisions.

@@ -1,6 +1,10 @@
 ---
-title: "Absorption Costing: Overview, Advantages, Disadvantages, and Example (Algo Trading)"
-description: "Explore the intricacies of absorption costing and its impact on financial strategies and profitability in dynamic markets enhanced by algorithmic trading innovations."
+category: quant_concept
+description: Explore the intricacies of absorption costing and its impact on financial
+  strategies and profitability in dynamic markets enhanced by algorithmic trading
+  innovations.
+title: 'Absorption Costing: Overview, Advantages, Disadvantages, and Example (Algo
+  Trading)'
 ---
 
 In today's dynamic business environment, understanding the cost structure of a business is crucial for achieving financial success. Accurate cost management not only helps in improving profitability but also supports strategic decision-making. Among the most significant methodologies employed by businesses to manage expenses is absorption costing. This comprehensive approach allocates all costs related to the production of goods, providing a detailed overview of production-related expenses.

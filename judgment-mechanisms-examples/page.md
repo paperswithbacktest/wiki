@@ -1,6 +1,8 @@
 ---
-title: "Judgment: Mechanisms and Examples (Algo Trading)"
-description: "Discover the mechanisms and examples of algorithmic trading Explore how judgments and decisions combine with technology to revolutionize trading efficiency"
+category: trading_strategy
+description: Discover the mechanisms and examples of algorithmic trading Explore how
+  judgments and decisions combine with technology to revolutionize trading efficiency
+title: 'Judgment: Mechanisms and Examples (Algo Trading)'
 ---
 
 The world of trading has significantly transformed with the advent of modern technology, which has led to the widespread adoption of algorithmic trading. This approach has reshaped how trading is conducted, particularly by integrating computer programs that execute trades based on predefined criteria, thereby enhancing speed and efficiency in financial markets.

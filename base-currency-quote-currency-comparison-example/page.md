@@ -1,6 +1,12 @@
 ---
-title: "Base Currency and Quote Currency Comparison and Example (Algo Trading)"
-description: "Discover the essential roles of base and quote currencies in forex trading and how they impact trading strategies. This guide investigates into currency pairs, exchange mechanisms, and the influence of algorithmic trading, providing valuable insights for anyone interested in optimizing their forex market activities. Understand the dynamics of currency exchanges, economic indicators, and market sentiment to improve your trading decisions and potentially increase profitability."
+category: quant_concept
+description: Discover the essential roles of base and quote currencies in forex trading
+  and how they impact trading strategies. This guide investigates into currency pairs,
+  exchange mechanisms, and the influence of algorithmic trading, providing valuable
+  insights for anyone interested in optimizing their forex market activities. Understand
+  the dynamics of currency exchanges, economic indicators, and market sentiment to
+  improve your trading decisions and potentially increase profitability.
+title: Base Currency and Quote Currency Comparison and Example (Algo Trading)
 ---
 
 In the world of finance, understanding currencies is crucial for any trader or investor, especially in the foreign exchange (forex) market. At the core of forex trading are currency pairs, which consist of a base currency and a quote currency. The base currency represents the currency you are buying, while the quote currency represents the currency you are selling. For example, in the EUR/USD pair, EUR is the base currency, and USD is the quote currency, indicating how much USD is required to purchase one EUR.

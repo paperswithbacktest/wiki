@@ -1,7 +1,8 @@
 ---
-title: Key Components and Advancements in Face to Face Translation
+category: quant_concept
 description: Face to face translation systems use speech recognition and text to speech
   to deliver real time multilingual conversations Discover more inside
+title: Key Components and Advancements in Face to Face Translation
 ---
 
 ![Image](images/1.png)

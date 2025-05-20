@@ -1,6 +1,8 @@
 ---
-title: "Risk of Ruin: Concept, Mechanism, and Management (Algo Trading)"
-description: "Explore strategies to manage risk of ruin in algorithmic trading Understand key concepts and methodologies to ensure sustainable and profitable trading operations"
+category: quant_concept
+description: Explore strategies to manage risk of ruin in algorithmic trading Understand
+  key concepts and methodologies to ensure sustainable and profitable trading operations
+title: 'Risk of Ruin: Concept, Mechanism, and Management (Algo Trading)'
 ---
 
 Investment strategies play a crucial role in driving financial growth, yet they inherently come with various risks that must be acknowledged and managed. As technology continues to evolve, algorithmic trading, commonly referred to as algo trading, has greatly influenced how these strategies are executed. It leverages computer algorithms to perform trading at speeds and frequencies that are impossible for human traders, thereby enhancing the efficiency and precision of executing investment strategies.
@@ -193,4 +195,3 @@ Risk of ruin calculators prove to be invaluable tools in this context, facilitat
    - The Chartered Financial Analyst (CFA) Institute offers substantial resources on financial analysis and risk management, including articles and research papers.
    - Quantitative Finance and Risk Management forums, such as QuantConnect and QuantInsti, provide extensive tools and community support for algo trading and risk analysis.
    - The Wilmott Forums and Quantitative Finance book series are also valuable resources for continuous learning and staying updated on modern financial risk management practices.
-

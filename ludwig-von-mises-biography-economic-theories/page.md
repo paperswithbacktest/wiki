@@ -1,6 +1,9 @@
 ---
-title: "Ludwig Von Mises: Biography and Economic Theories (Algo Trading)"
-description: "Explore how Ludwig von Mises's Austrian economic theories intersect with modern algorithmic trading offering insights into free market efficiencies and trading strategies."
+category: quant_concept
+description: Explore how Ludwig von Mises's Austrian economic theories intersect with
+  modern algorithmic trading offering insights into free market efficiencies and trading
+  strategies.
+title: 'Ludwig Von Mises: Biography and Economic Theories (Algo Trading)'
 ---
 
 The intersection of Ludwig von Mises's economic theories with contemporary advancements in algorithmic trading highlights an intriguing narrative in the progression of economic thought. Ludwig von Mises, a pivotal figure in the Austrian School of Economics, laid down foundational theories that continue to influence modern economic practices. His paradigms, particularly around free-market capitalism and monetary theory, resonate with today's financial technologies, making his work a critical study for comprehending the dynamics of modern markets.

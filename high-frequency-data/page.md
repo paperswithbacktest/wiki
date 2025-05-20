@@ -1,6 +1,14 @@
 ---
-title: "High frequency data (Algo Trading)"
-description: High frequency data in algorithmic trading is essential for gaining insights from rapid, detailed market activities. It allows traders to analyze vast quantities of real-time data to optimize strategies and minimize risks. With high-speed computing and sophisticated algorithms, traders execute precise trades swiftly, providing a competitive edge. This data supports quantitative models to predict market movements and mitigate risks, making it indispensable in the fast-paced financial landscape. As technology progresses, the efficiency of high frequency data analysis continues to enhance, empowering traders in navigating the complexities of modern markets.
+category: dataset
+description: High frequency data in algorithmic trading is essential for gaining insights
+  from rapid, detailed market activities. It allows traders to analyze vast quantities
+  of real-time data to optimize strategies and minimize risks. With high-speed computing
+  and sophisticated algorithms, traders execute precise trades swiftly, providing
+  a competitive edge. This data supports quantitative models to predict market movements
+  and mitigate risks, making it indispensable in the fast-paced financial landscape.
+  As technology progresses, the efficiency of high frequency data analysis continues
+  to enhance, empowering traders in navigating the complexities of modern markets.
+title: High frequency data (Algo Trading)
 ---
 
 High frequency data in algorithmic trading is pivotal for financial market participants aiming to gain insights from rapid, time-series data captured at very fine intervals. This type of data collection is possible because of advancements in computational technology, which allow traders to efficiently gather and analyze vast quantities of data in real time. The main application of high frequency data is to interpret market behaviors and dynamics instantaneously.

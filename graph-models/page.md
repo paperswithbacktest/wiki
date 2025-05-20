@@ -1,7 +1,8 @@
 ---
-title: Graph Models in Machine Learning Architectures and Applications
+category: quant_concept
 description: Graph models in machine learning analyze complex relationships for social
   networks recommendation systems and drug discovery Discover more inside
+title: Graph Models in Machine Learning Architectures and Applications
 ---
 
 ![Image](images/1.png)

@@ -1,6 +1,8 @@
 ---
-title: "Away-from-the-Market Trades (Algo Trading)"
-description: "Explore the world of algorithmic trading, market strategies, and financial markets dynamics. Learn how technology enhances trading efficiency and profitability."
+category: trading_strategy
+description: Explore the world of algorithmic trading, market strategies, and financial
+  markets dynamics. Learn how technology enhances trading efficiency and profitability.
+title: Away-from-the-Market Trades (Algo Trading)
 ---
 
 The world of financial markets is inherently vast and complex, presenting a multitude of opportunities for both traders and investors to engage in diverse financial activities. At the heart of market trading lies the fundamental process of buying and selling financial instruments, such as stocks, bonds, commodities, and derivatives. The primary goal of market trading is to capitalize on fluctuations in market prices, which are influenced by a range of factors including economic indicators, geopolitical events, and investor sentiment.

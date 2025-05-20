@@ -1,6 +1,11 @@
 ---
-title: "Out-of-Sample Trading Tests Explained (Algo Trading)"
-description: Explore the significance of out-of-sample testing in algorithmic trading and learn how it ensures the robustness and adaptability of trading strategies. Discover the methodology behind data division, avoid overfitting pitfalls, and boost confidence in strategy deployment with practical insights and best practices in dynamic financial markets.
+category: trading_strategy
+description: Explore the significance of out-of-sample testing in algorithmic trading
+  and learn how it ensures the robustness and adaptability of trading strategies.
+  Discover the methodology behind data division, avoid overfitting pitfalls, and boost
+  confidence in strategy deployment with practical insights and best practices in
+  dynamic financial markets.
+title: Out-of-Sample Trading Tests Explained (Algo Trading)
 ---
 
 Algorithmic trading has dramatically transformed financial markets by enabling systematic and data-driven decision-making processes. Central to crafting efficient trading algorithms is the process of backtesting—a procedure that involves the division of historical data into 'in-sample' and 'out-of-sample' datasets. These datasets are pivotal for assessing and refining trading strategies to ensure robustness and adaptability to real market conditions.

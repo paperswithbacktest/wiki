@@ -1,6 +1,9 @@
 ---
-title: "Methods for Achieving Economic Growth (Algo Trading)"
-description: "Explore how algorithmic trading can drive economic growth by enhancing market efficiency and liquidity while integrating with broader development strategies for sustainable progress."
+category: quant_concept
+description: Explore how algorithmic trading can drive economic growth by enhancing
+  market efficiency and liquidity while integrating with broader development strategies
+  for sustainable progress.
+title: Methods for Achieving Economic Growth (Algo Trading)
 ---
 
 Economic development and economic growth are fundamental concepts in understanding the dynamics of modern economies. Economic growth refers to the increase in the production of goods and services over a specific period, commonly measured by Gross Domestic Product (GDP). GDP acts as a quantitative measure, reflecting the economic performance and the capacity of an economy to expand its output. Economic development, however, is a broader concept encompassing qualitative aspects such as improvements in living standards, education, and political stability, alongside economic growth.

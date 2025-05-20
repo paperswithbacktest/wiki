@@ -1,6 +1,8 @@
 ---
-title: "Buying Power in Trading (Algo Trading)"
-description: "Explore how buying power and algorithmic trading strategies can transform trading outcomes. Understand leverage, market opportunities, and risk management."
+category: quant_concept
+description: Explore how buying power and algorithmic trading strategies can transform
+  trading outcomes. Understand leverage, market opportunities, and risk management.
+title: Buying Power in Trading (Algo Trading)
 ---
 
 The complex world of trading offers a variety of strategies and tools to maximize financial growth. Among these, understanding terms like buying power, excess equity, and algorithmic trading is crucial for investors seeking to enhance their financial outcomes. Buying power refers to the money an investor has available to purchase securities. It plays a vital role in shaping an investor's trading strategies, as it determines the scope of transactions that can be undertaken without additional deposits.

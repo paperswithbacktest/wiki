@@ -1,6 +1,8 @@
 ---
-title: "Merton Miller: Biography, Theorem, Notable Contributions (Algo Trading)"
-description: "Discover the life and legacy of Merton H. Miller focusing on his pivotal contributions to finance including the groundbreaking Modigliani-Miller theorem."
+category: quant_concept
+description: Discover the life and legacy of Merton H. Miller focusing on his pivotal
+  contributions to finance including the groundbreaking Modigliani-Miller theorem.
+title: 'Merton Miller: Biography, Theorem, Notable Contributions (Algo Trading)'
 ---
 
 Merton H. Miller was a pivotal figure in the field of financial economics, renowned for his profound contributions that have significantly shaped modern finance theory. Among his numerous achievements, his collaboration with Franco Modigliani led to the formulation of the Modigliani-Miller theorem, a cornerstone of corporate finance theory. This theorem, published in 1958, fundamentally challenged prevailing notions about capital structure's impact on a firm's value, positing that under specific market conditions, the value of a firm is unaffected by its capital structure. This proposition is articulated in its most basic form as V(L) = V(U), where V(L) is the value of a levered firm and V(U) the value of an unlevered firm, assuming no taxes, bankruptcy costs, or asymmetric information.
@@ -154,4 +156,3 @@ For finance professionals, staying abreast of foundational theories like the Mod
     - [Wikipedia's Modigliani-Miller Theorem](https://en.wikipedia.org/wiki/Modigliani%E2%80%93Miller_theorem): An accessible entry point for understanding the theorem's history and propositions.
 
 These resources provide an extensive framework for studying the Modigliani-Miller theorem's foundational, practical, and theoretical applications in finance. They also offer insights into the historical development of financial theories and how these theories intersect with algorithmic trading in modern financial markets.
-

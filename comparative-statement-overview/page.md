@@ -1,6 +1,8 @@
 ---
-title: "Comparative Statement Overview (Algo Trading)"
-description: "Explore the role of comparative statement analysis in financial assessment and algorithmic trading for strategic insights and improved investment decisions."
+category: quant_concept
+description: Explore the role of comparative statement analysis in financial assessment
+  and algorithmic trading for strategic insights and improved investment decisions.
+title: Comparative Statement Overview (Algo Trading)
 ---
 
 In the fast-paced world of finance and investment, understanding the nuances of financial analysis is crucial for success. Comparative statement analysis, a key tool in financial analysis, allows investors to track a company's progress over time and compare it with peers. This involves the evaluation of financial data, often by placing figures side-by-side over multiple time periods to detect trends and discrepancies. It helps stakeholders gain insights into the operational efficiency and financial stability of a company, driving better investment decisions.

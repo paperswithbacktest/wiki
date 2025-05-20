@@ -1,6 +1,15 @@
 ---
-title: "Consumer Goods: Types and Examples (Algo Trading)"
-description: "Explore the intricate intersection of consumer goods and algorithmic trading, where understanding diverse product types and leveraging technology is essential for success. This article investigates into the role of algorithmic trading in the modern marketplace, examining how it automates trading processes to enhance supply chain management and marketing strategies across various sectors. Through detailed examples and insights, discover how consumer goods are categorized and how these classifications influence market dynamics and trading strategies. Ideal for business owners, traders, and curious consumers alike, this guide offers a comprehensive look at how these elements shape today's commerce landscape."
+category: trading_strategy
+description: Explore the intricate intersection of consumer goods and algorithmic
+  trading, where understanding diverse product types and leveraging technology is
+  essential for success. This article investigates into the role of algorithmic trading
+  in the modern marketplace, examining how it automates trading processes to enhance
+  supply chain management and marketing strategies across various sectors. Through
+  detailed examples and insights, discover how consumer goods are categorized and
+  how these classifications influence market dynamics and trading strategies. Ideal
+  for business owners, traders, and curious consumers alike, this guide offers a comprehensive
+  look at how these elements shape today's commerce landscape.
+title: 'Consumer Goods: Types and Examples (Algo Trading)'
 ---
 
 In the fast-paced world of consumer goods and trading, understanding the intersection of product types and algorithmic trading is key. The modern marketplace is characterized by a diverse range of products designed for personal consumption, each varying in durability, functionality, and economic cycle. Navigating this landscape requires not only a keen knowledge of these product types but also an appreciation for the technological advancements shaping market practices.

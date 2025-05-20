@@ -1,6 +1,13 @@
 ---
-title: "Adjusted Present Value: Overview, Formula, Example (Algo Trading)"
-description: "Explore the comprehensive Adjusted Present Value (APV) methodology in financial valuation, distinguishing a project's unlevered value from the impacts of financing decisions like tax shields. Essential for complex financial environments, the APV method enhances algorithmic trading by offering precise evaluations of market opportunities with dynamic capital structures. This article provides a technical overview of APV and its application in trading, detailing the benefits of separating operational and financing effects for informed investment decisions."
+category: quant_concept
+description: Explore the comprehensive Adjusted Present Value (APV) methodology in
+  financial valuation, distinguishing a project's unlevered value from the impacts
+  of financing decisions like tax shields. Essential for complex financial environments,
+  the APV method enhances algorithmic trading by offering precise evaluations of market
+  opportunities with dynamic capital structures. This article provides a technical
+  overview of APV and its application in trading, detailing the benefits of separating
+  operational and financing effects for informed investment decisions.
+title: 'Adjusted Present Value: Overview, Formula, Example (Algo Trading)'
 ---
 
 The Adjusted Present Value (APV) formula is a pivotal tool in financial valuation, offering a nuanced approach to assessing the value of investments and projects by separating financial and operational considerations. It contrasts with traditional techniques by clearly distinguishing between a project's unlevered value and the value addition or deduction brought by financing decisions, such as tax shields. This distinction is particularly relevant in complex financial situations where the traditional Net Present Value (NPV) or Discounted Cash Flow (DCF) methods might blur the lines between operational performance and financing strategy.

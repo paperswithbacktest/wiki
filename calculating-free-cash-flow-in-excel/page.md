@@ -1,6 +1,8 @@
 ---
-title: "Calculating Free Cash Flow in Excel (Algo Trading)"
-description: "Learn how to calculate Free Cash Flow in Excel to analyze financial performance effectively Enhance investment strategies and algorithmic trading outcomes"
+category: quant_concept
+description: Learn how to calculate Free Cash Flow in Excel to analyze financial performance
+  effectively Enhance investment strategies and algorithmic trading outcomes
+title: Calculating Free Cash Flow in Excel (Algo Trading)
 ---
 
 Understanding financial metrics is crucial for both individual investors and large financial institutions. Assessing these metrics can provide invaluable insights into a company’s operational efficiency and overall financial health. Among these metrics, free cash flow (FCF) stands out as a significant indicator, offering a detailed perspective on a company's financial performance. 

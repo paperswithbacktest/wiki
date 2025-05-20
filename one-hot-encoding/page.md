@@ -1,7 +1,8 @@
 ---
-title: Understanding One-Hot Encoding for Categorical Data in ML
+category: quant_concept
 description: One-Hot Encoding turns categories into binary vectors to boost model
   accuracy without ordering bias and streamline data handling. Discover more inside
+title: Understanding One-Hot Encoding for Categorical Data in ML
 ---
 
 ![Image](images/1.png)

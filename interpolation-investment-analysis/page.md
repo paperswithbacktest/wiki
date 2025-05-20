@@ -1,6 +1,9 @@
 ---
-title: "Interpolation in Investment Analysis (Algo Trading)"
-description: "Discover the crucial role of interpolation in financial modeling and algo trading Enhance investment analysis accuracy by estimating unknown data points for better decision-making"
+category: quant_concept
+description: Discover the crucial role of interpolation in financial modeling and
+  algo trading Enhance investment analysis accuracy by estimating unknown data points
+  for better decision-making
+title: Interpolation in Investment Analysis (Algo Trading)
 ---
 
 In the era of digital finance, the integration of technology into investment practices continues to advance at a rapid pace. This article addresses the significance of interpolation within the financial modeling, investment analysis, and algorithmic trading sectors. Interpolation is a crucial technique in financial mathematics. It aids in understanding and estimating values within investment scenarios, providing a framework for making more informed decisions. 

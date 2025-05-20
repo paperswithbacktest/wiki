@@ -1,6 +1,12 @@
 ---
-title: "Backtrader for Backtesting Explained (Algo Trading)"
-description: Explore the key features and advantages of using Backtrader for backtesting algorithmic trading strategies. Discover how this powerful open-source platform helps traders refine strategies through robust simulation capabilities and seamless integration of multiple data feeds and custom indicators. Learn about its supportive community and accessible framework that make it an ideal choice for both novice and seasoned traders looking to enhance their trading algorithms in a reliable environment.
+category: trading_strategy
+description: Explore the key features and advantages of using Backtrader for backtesting
+  algorithmic trading strategies. Discover how this powerful open-source platform
+  helps traders refine strategies through robust simulation capabilities and seamless
+  integration of multiple data feeds and custom indicators. Learn about its supportive
+  community and accessible framework that make it an ideal choice for both novice
+  and seasoned traders looking to enhance their trading algorithms in a reliable environment.
+title: Backtrader for Backtesting Explained (Algo Trading)
 ---
 
 Algorithmic trading, often known as algo trading, involves the use of computer programs and algorithms to execute trades at high speed and volume, leveraging complex mathematical models and formulas. This method has become significant in financial markets as it enhances trading efficiency and decision-making while minimizing human intervention. With the ability to analyze vast datasets and execute trades within milliseconds, algo trading allows market participants to capitalize on micro-movements in price, improving liquidity and market dynamics.

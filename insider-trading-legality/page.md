@@ -1,6 +1,15 @@
 ---
-title: "Insider Trading Legality (Algo Trading)"
-description: "Explore the complexities of insider trading, both legal and illegal, within financial markets. Understand how legal insider trading permits corporate insiders to buy or sell securities with adherence to regulations, promoting transparency. Conversely, illegal trading exploits non-public information for unfair gain, undermining market fairness. Delve into regulatory frameworks and the impact of algorithms, examining enforcement by the SEC and others. Gain insights into maintaining market integrity and the balance of automated trading systems with regulatory compliance. Essential knowledge for investors, corporate entities, and regulators focused on fair financial practices."
+category: quant_concept
+description: Explore the complexities of insider trading, both legal and illegal,
+  within financial markets. Understand how legal insider trading permits corporate
+  insiders to buy or sell securities with adherence to regulations, promoting transparency.
+  Conversely, illegal trading exploits non-public information for unfair gain, undermining
+  market fairness. Delve into regulatory frameworks and the impact of algorithms,
+  examining enforcement by the SEC and others. Gain insights into maintaining market
+  integrity and the balance of automated trading systems with regulatory compliance.
+  Essential knowledge for investors, corporate entities, and regulators focused on
+  fair financial practices.
+title: Insider Trading Legality (Algo Trading)
 ---
 
 Insider trading is a complex and often misunderstood concept within financial markets, encompassing a range of activities related to trading a company's securities based on material, non-public information. The primary distinction lies in its legality, which significantly depends on the intent and context of information use. Legal insider trading occurs when corporate insiders such as executives or board members buy or sell stock in their company while adhering to established regulations, including timely public disclosures. Conversely, illegal insider trading involves exploiting confidential information for unfair advantage, undermining the principles of market fairness and transparency.

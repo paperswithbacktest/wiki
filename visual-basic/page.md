@@ -1,6 +1,15 @@
 ---
-title: "Visual Basic (Algo Trading)"
-description: Visual Basic in algorithmic trading offers a user-friendly solution with its integration capabilities and familiar syntax, particularly for those within the Microsoft ecosystem. This programming language enables effective automation of trading strategies by leveraging its seamless connection with Microsoft Office tools like Excel, facilitating real-time data processing and analysis. Ideal for smaller firms or traders new to algorithmic trading, Visual Basic reduces learning curves while providing opportunities to innovate within existing infrastructures. However, its use in high-frequency, high-volume trading presents challenges, necessitating a careful assessment of its applicability to specific trading needs.
+category: quant_concept
+description: Visual Basic in algorithmic trading offers a user-friendly solution with
+  its integration capabilities and familiar syntax, particularly for those within
+  the Microsoft ecosystem. This programming language enables effective automation
+  of trading strategies by leveraging its seamless connection with Microsoft Office
+  tools like Excel, facilitating real-time data processing and analysis. Ideal for
+  smaller firms or traders new to algorithmic trading, Visual Basic reduces learning
+  curves while providing opportunities to innovate within existing infrastructures.
+  However, its use in high-frequency, high-volume trading presents challenges, necessitating
+  a careful assessment of its applicability to specific trading needs.
+title: Visual Basic (Algo Trading)
 ---
 
 Algorithmic trading utilizes automated systems to conduct trades based on predefined criteria, allowing for efficiency and precision in financial markets. These systems employ algorithms that consider variables such as timing, price, and volume to execute buy or sell orders at optimal moments, minimizing human error and capitalizing on market opportunities. Algorithmic trading is prevalent across various asset classes, including equities, commodities, and foreign exchange, due to its ability to process large volumes of data rapidly and execute trades at speeds unattainable by human traders.

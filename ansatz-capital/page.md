@@ -1,6 +1,8 @@
 ---
-title: "Ansatz Capital (Algo Trading)"
-description: "Ansatz Capital leads in algorithmic trading with data-driven strategies blending finance and tech to enhance market efficiency and capture opportunities."
+category: quant_concept
+description: Ansatz Capital leads in algorithmic trading with data-driven strategies
+  blending finance and tech to enhance market efficiency and capture opportunities.
+title: Ansatz Capital (Algo Trading)
 ---
 
 In the rapidly evolving domain of financial markets, algorithmic trading has emerged as a revolutionary approach that leverages technology and computational intelligence to enhance trading efficiency and accuracy. This form of trading uses complex algorithms, mathematical models, and vast amounts of market data to execute trades at a speed and scale previously unattainable by human traders. Within this sophisticated landscape, Ansatz Capital has established itself as a prominent entity.

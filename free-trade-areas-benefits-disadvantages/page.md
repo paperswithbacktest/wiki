@@ -1,6 +1,8 @@
 ---
-title: "Free Trade Areas: Benefits and Disadvantages (Algo Trading)"
-description: "Explore the benefits and drawbacks of free trade areas and algorithmic trading Discover how they influence global economic development and market dynamics"
+category: quant_concept
+description: Explore the benefits and drawbacks of free trade areas and algorithmic
+  trading Discover how they influence global economic development and market dynamics
+title: 'Free Trade Areas: Benefits and Disadvantages (Algo Trading)'
 ---
 
 Global trade has been a cornerstone of economic development, fostering interconnectedness among nations through mechanisms such as free trade areas and technological advancements. One significant advancement in recent years is algorithmic trading, which has drastically transformed financial markets. These frameworks not only shape economies but also require a nuanced understanding of their advantages and shortcomings. 

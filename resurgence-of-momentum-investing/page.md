@@ -1,6 +1,9 @@
 ---
-title: "Resurgence of Momentum Investing (Algo Trading)"
-description: "Discover how momentum investing combined with algorithmic trading is shaping modern investment strategies by leveraging trends and automating trades for optimal returns."
+category: trading_strategy
+description: Discover how momentum investing combined with algorithmic trading is
+  shaping modern investment strategies by leveraging trends and automating trades
+  for optimal returns.
+title: Resurgence of Momentum Investing (Algo Trading)
 ---
 
 Investment strategies are constantly evolving to align with the fluctuating dynamics of financial markets, with the primary objective of maximizing returns while effectively managing risk. Among these strategies, momentum investing stands out as a prominent approach that leverages emerging trends within the markets. This strategy hinges on the principle that securities that have exhibited past performance, whether upward or downward, are likely to continue moving in the same direction. By capitalizing on these trends, investors aim to generate substantial returns.

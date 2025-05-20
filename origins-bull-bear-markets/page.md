@@ -1,6 +1,8 @@
 ---
-title: "Origins of Bull and Bear Markets (Algo Trading)"
-description: "Explore the origins and impacts of bull and bear markets while learning about algorithmic trading This guide covers key market terms and trading strategies"
+category: quant_concept
+description: Explore the origins and impacts of bull and bear markets while learning
+  about algorithmic trading This guide covers key market terms and trading strategies
+title: Origins of Bull and Bear Markets (Algo Trading)
 ---
 
 In the world of finance, terms like 'bull market' and 'bear market' are frequently used to describe stock market conditions. Understanding these terms is essential for investors and traders aiming to make informed decisions. A bull market generally indicates a period where stock prices are on the rise, driven by factors like economic growth, investor optimism, and strong market trends. Conversely, a bear market is identified by falling stock prices, often fueled by economic downturns, investor pessimism, and market uncertainties.

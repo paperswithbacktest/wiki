@@ -1,6 +1,8 @@
 ---
-title: "Synthetic Forward Contract (Algo Trading)"
-description: "Explore the world of synthetic forward contracts in algorithmic trading Learn how these complex derivatives offer flexibility and efficiency in modern markets"
+category: quant_concept
+description: Explore the world of synthetic forward contracts in algorithmic trading
+  Learn how these complex derivatives offer flexibility and efficiency in modern markets
+title: Synthetic Forward Contract (Algo Trading)
 ---
 
 Financial derivatives are financial instruments whose value is derived from the value of an underlying asset or group of assets. They serve as cornerstone tools in modern financial markets, providing essential mechanisms for risk management, speculation, and efficient allocation of capital. Among the myriad of derivatives, synthetic forward contracts stand out due to their unique construction and versatile applications.

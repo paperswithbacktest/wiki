@@ -1,6 +1,9 @@
 ---
-title: "Heteroscedasticity: Meaning and Types (Algo Trading)"
-description: "Explore heteroscedasticity in algo trading, its types, detection methods, and impact on financial models. Enhance trading strategies by managing variance efficiently."
+category: quant_concept
+description: Explore heteroscedasticity in algo trading, its types, detection methods,
+  and impact on financial models. Enhance trading strategies by managing variance
+  efficiently.
+title: 'Heteroscedasticity: Meaning and Types (Algo Trading)'
 ---
 
 In the world of finance and data analysis, heteroscedasticity is a statistical concept that presents both challenges and opportunities, particularly in algorithmic trading. Heteroscedasticity occurs when the variability of a data set, specifically the error terms in regression models, is inconsistent across values. This violation of the homoscedasticity assumption can lead to inefficient estimates and invalid hypothesis tests if not properly addressed. In financial markets, this issue is particularly pronounced due to the complex nature of financial data, which often exhibits time-varying volatility and other irregular patterns.

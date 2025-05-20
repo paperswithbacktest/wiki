@@ -1,6 +1,14 @@
 ---
-title: "Cryptohunters: Roles and Categories (Algo Trading)"
-description: "Discover the dynamic world of cryptohunters and algorithmic trading in the cryptocurrency industry. Cryptohunters specialize in asset recovery and security, offering services from password recovery to blockchain forensics. As digital currency adoption grows, their role becomes vital. Meanwhile, algorithmic trading revolutionizes market operations, enhancing efficiency and performance. This article investigates into how these fields intersect and shape the future of cryptocurrency markets, providing insights critical for investors and stakeholders navigating this evolving landscape."
+category: quant_concept
+description: Discover the dynamic world of cryptohunters and algorithmic trading in
+  the cryptocurrency industry. Cryptohunters specialize in asset recovery and security,
+  offering services from password recovery to blockchain forensics. As digital currency
+  adoption grows, their role becomes vital. Meanwhile, algorithmic trading revolutionizes
+  market operations, enhancing efficiency and performance. This article investigates
+  into how these fields intersect and shape the future of cryptocurrency markets,
+  providing insights critical for investors and stakeholders navigating this evolving
+  landscape.
+title: 'Cryptohunters: Roles and Categories (Algo Trading)'
 ---
 
 Cryptohunters are becoming an integral part of the cryptocurrency ecosystem, primarily recognized for their proficiency in recovering lost or stolen bitcoins and other digital currencies. As the cryptocurrency market expands rapidly, these specialists are broadening their scope to include a wide range of services such as password recovery, blockchain forensics, and more. Their expertise is not only valuable to individual cryptocurrency holders but also supports law enforcement agencies in tracking and reclaiming digital assets.

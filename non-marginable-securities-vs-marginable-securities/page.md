@@ -1,6 +1,8 @@
 ---
-title: "Non-Marginable Securities vs. Marginable Securities (Algo Trading)"
-description: "Discover the differences between marginable and non-marginable securities and how algorithmic trading can enhance your strategies in today's markets."
+category: quant_concept
+description: Discover the differences between marginable and non-marginable securities
+  and how algorithmic trading can enhance your strategies in today's markets.
+title: Non-Marginable Securities vs. Marginable Securities (Algo Trading)
 ---
 
 Understanding the dynamics of stock trading requires a comprehensive knowledge of various key concepts, including non-marginable and marginable securities and algorithmic trading. Stock trading is a multifaceted discipline, influenced by diverse factors that both novice and veteran traders must understand to succeed in the financial markets.

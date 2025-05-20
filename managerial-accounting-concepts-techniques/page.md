@@ -1,6 +1,9 @@
 ---
-title: "Managerial Accounting Concepts and Techniques (Algo Trading)"
-description: "Explore the synergy between managerial accounting and algorithmic trading in modern finance Enhance decision-making and gain a competitive edge in dynamic markets"
+category: quant_concept
+description: Explore the synergy between managerial accounting and algorithmic trading
+  in modern finance Enhance decision-making and gain a competitive edge in dynamic
+  markets
+title: Managerial Accounting Concepts and Techniques (Algo Trading)
 ---
 
 The finance industry is undergoing a significant transformation, spurred by rapid advancements in technology and the globalization of markets. This evolution necessitates the adoption of sophisticated accounting techniques and management concepts to meet the demands of modern financial environments. Two pivotal developments in this landscape are managerial accounting and algorithmic trading. Managerial accounting focuses on equipping organizations with detailed financial analyses to aid in strategic planning and decision-making. This discipline emphasizes the use of internal financial data over historical financial statements, allowing businesses to make informed forecasts and align resources efficiently.

@@ -1,6 +1,9 @@
 ---
-title: "SEC Form 5: Overview and Information Requirements (Algo Trading)"
-description: "Explore the importance of SEC Form 5 in disclosing insider trading activities and its critical role in maintaining transparency and integrity within financial markets."
+category: quant_concept
+description: Explore the importance of SEC Form 5 in disclosing insider trading activities
+  and its critical role in maintaining transparency and integrity within financial
+  markets.
+title: 'SEC Form 5: Overview and Information Requirements (Algo Trading)'
 ---
 
 The world of finance is governed by intricate systems and stringent regulations crafted to uphold transparency and equity. Among these, SEC Form 5 stands out as a vital instrument in reinforcing legal and ethical trading practices within corporations. This form is a key component in the disclosure of insider trading activities, ensuring that information about ownership changes by company insiders is made public. Its role extends to regulating interactions with algorithmic trading, a sophisticated method of executing securities transactions using advanced algorithms.

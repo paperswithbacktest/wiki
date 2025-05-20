@@ -1,6 +1,8 @@
 ---
-title: "European Central Bank Announcement (Algo Trading)"
-description: "Explore how ECB announcements influence algorithmic trading in this detailed analysis of the eurozone's economic policies and market dynamics."
+category: quant_concept
+description: Explore how ECB announcements influence algorithmic trading in this detailed
+  analysis of the eurozone's economic policies and market dynamics.
+title: European Central Bank Announcement (Algo Trading)
 ---
 
 In the world of finance, the European Central Bank (ECB) plays a crucial role in shaping the economic landscape of the eurozone through its monetary policy decisions. Established in 1998, the ECB's primary objective is to maintain price stability within the euro area, directly impacting inflation rates, interest rates, and overall economic growth. The ECB wields a range of monetary policy tools, including key interest rate adjustments, asset purchase programs, and liquidity-providing operations, all aimed at sustaining economic equilibrium and fostering financial stability.

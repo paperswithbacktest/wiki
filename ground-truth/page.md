@@ -1,7 +1,8 @@
 ---
-title: Mastering Ground Truth Data For Machine Learning Accuracy
+category: dataset
 description: Ground truth data ensures machine learning models train on accurate labels
   and deliver reliable predictions and insights over time Discover more inside.
+title: Mastering Ground Truth Data For Machine Learning Accuracy
 ---
 
 ![Image](images/1.png)

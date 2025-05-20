@@ -1,6 +1,9 @@
 ---
-title: "FactSet: Overview, Operations, and Corporate Structure (Algo Trading)"
-description: "Explore FactSet's impact in financial services with insights on company structure and algorithmic trading Track market trends and optimize strategies for success"
+category: dataset
+description: Explore FactSet's impact in financial services with insights on company
+  structure and algorithmic trading Track market trends and optimize strategies for
+  success
+title: 'FactSet: Overview, Operations, and Corporate Structure (Algo Trading)'
 ---
 
 In the rapidly evolving world of finance, company structure and services play a pivotal role in shaping successful outcomes. The organization and management of financial services companies significantly impact operational efficiency and client satisfaction. Understanding the nuances of company structure within the financial services industry is essential for optimizing these aspects, leading to improved performance and strategic alignment.

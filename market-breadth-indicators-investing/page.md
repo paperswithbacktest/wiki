@@ -1,6 +1,8 @@
 ---
-title: "Market Breadth and Its Indicators in Investing (Algo Trading)"
-description: "Explore the significance of market breadth and investment indicators in finance to enhance trading strategies using insights and tools for informed decisions."
+category: trading_strategy
+description: Explore the significance of market breadth and investment indicators
+  in finance to enhance trading strategies using insights and tools for informed decisions.
+title: Market Breadth and Its Indicators in Investing (Algo Trading)
 ---
 
 In the complex world of finance, mastering various indicators is a critical step toward enhancing investment strategies. Financial indicators serve as essential tools that provide key insights into market behavior, helping investors and traders navigate market dynamics effectively. This article explores significant components such as investment indicators, financial analysis, market breadth, and algorithmic trading, which form the backbone of informed decision-making in finance.

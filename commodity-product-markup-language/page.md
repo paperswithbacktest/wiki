@@ -1,6 +1,14 @@
 ---
-title: "Commodity product Markup Language (Algo Trading)"
-description: Discover the essential role of Commodity Product Markup Language (CpML) in revolutionizing algorithmic trading within the wholesale energy sector. As a standardized XML-based business markup language, CpML streamlines trading communications, ensuring speed, accuracy, and interoperability in complex transactions. This technology enhances operational efficiency, supports regulatory compliance, and enables high-frequency trading systems to execute deals swiftly and precisely. Explore how CpML continues to adapt and meet the dynamic demands of modern energy markets through standardized data exchange and seamless integration.
+category: quant_concept
+description: Discover the essential role of Commodity Product Markup Language (CpML)
+  in revolutionizing algorithmic trading within the wholesale energy sector. As a
+  standardized XML-based business markup language, CpML streamlines trading communications,
+  ensuring speed, accuracy, and interoperability in complex transactions. This technology
+  enhances operational efficiency, supports regulatory compliance, and enables high-frequency
+  trading systems to execute deals swiftly and precisely. Explore how CpML continues
+  to adapt and meet the dynamic demands of modern energy markets through standardized
+  data exchange and seamless integration.
+title: Commodity product Markup Language (Algo Trading)
 ---
 
 Algorithmic trading has become an integral part of financial markets, significantly changing how trading operations are conducted. With the rise of complex algorithms and high-frequency trading systems, traditional methods are being increasingly overshadowed by mechanical procedures designed for speed, precision, and efficiency. Algorithmic trading allows for the execution of trades at scales and speeds human traders cannot achieve, leveraging capabilities that range from simple rule-based strategies to sophisticated machine learning models. 

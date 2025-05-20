@@ -1,7 +1,8 @@
 ---
-title: Open Domain Chatbots How They Work and Their Key Components
+category: quant_concept
 description: Open domain chatbot uses large language models and machine learning to
   power natural conversations and ensure ethical safeguards Discover more inside
+title: Open Domain Chatbots How They Work and Their Key Components
 ---
 
 ![Image](images/1.jpeg)

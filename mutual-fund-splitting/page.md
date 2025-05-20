@@ -1,6 +1,8 @@
 ---
-title: "Mutual Fund Splitting (Algo Trading)"
-description: "Explore the synergy of mutual funds, fund splitting, and algorithmic trading to optimize investment performance and make informed financial decisions."
+category: trading_strategy
+description: Explore the synergy of mutual funds, fund splitting, and algorithmic
+  trading to optimize investment performance and make informed financial decisions.
+title: Mutual Fund Splitting (Algo Trading)
 ---
 
 The intersection of mutual funds, fund splitting, algorithmic trading, and investment strategies plays a crucial role in the modern financial landscape. As one of the most accessible investment vehicles, mutual funds allow individuals to invest in a diversified portfolio of securities managed by professional fund managers. This diversification helps spread risk and improve potential returns, making mutual funds an attractive option for investors of varying experience levels.
@@ -102,4 +104,3 @@ where $E(R_i)$ is the expected return of the investment, $R_f$ is the risk-free 
 Elton, E. J., Gruber, M. J. "Modern Portfolio Theory and Investment Analysis." John Wiley & Sons. This comprehensive book covers the principles of modern portfolio theory, providing a detailed exploration of risk-reward trade-offs, diversification, and asset allocation. It serves as a valuable resource for understanding the theoretical underpinnings and practical applications of portfolio management.
 
 For further understanding, these references are essential for grasping the strategic integration of mutual funds, investment strategies, and algorithmic trading, offering both theoretical and practical insights into the dynamic field of investment management.
-

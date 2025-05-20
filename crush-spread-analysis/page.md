@@ -1,6 +1,8 @@
 ---
-title: "Crush Spread Analysis (Algo Trading)"
-description: "Explore agricultural futures and the impact of crush spreads in soybean processing using algorithmic trading to optimize risk management and enhance profitability."
+category: trading_strategy
+description: Explore agricultural futures and the impact of crush spreads in soybean
+  processing using algorithmic trading to optimize risk management and enhance profitability.
+title: Crush Spread Analysis (Algo Trading)
 ---
 
 Agricultural futures are a pivotal component of global markets, serving as essential instruments for agricultural commodities trading. These financial contracts obligate the buyer to purchase, and the seller to sell, a specific quantity of an agricultural product at a predetermined price and future date. They are standardized contracts traded on future exchanges and play a critical role in price discovery, risk management, and market liquidity. The agricultural sector, encompassing staple commodities like corn, wheat, soybeans, and coffee, relies heavily on futures to stabilize income and mitigate the risks associated with price volatility.

@@ -1,6 +1,8 @@
 ---
-title: "Comparison of Profitability in the Film and Television Industries (Algo Trading)"
-description: "Explore the evolving profitability of the film and television industries with insights into revenue streams and the impact of algorithmic trading."
+category: trading_strategy
+description: Explore the evolving profitability of the film and television industries
+  with insights into revenue streams and the impact of algorithmic trading.
+title: Comparison of Profitability in the Film and Television Industries (Algo Trading)
 ---
 
 The media industry encompasses a broad spectrum of sectors, notably film, television, and digital media. Its evolution has been significantly influenced by advancements in digital technology, which have reshaped traditional business models. As these sectors undergo continuous transformation, understanding their profitability becomes imperative. This understanding not only benefits industry stakeholders but also provides insights into the dynamic nature of global media markets.

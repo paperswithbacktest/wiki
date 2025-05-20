@@ -1,6 +1,12 @@
 ---
-title: "Personal Consumption Expenditures: Overview and Measurement (Algo Trading)"
-description: "Explore the critical role of Personal Consumption Expenditures (PCE) in economic analysis and how it informs algorithmic trading strategies. This article investigates into the integration of PCE data within algo trading models to enhance trading precision and market insights. Traders can leverage these robust data-driven approaches to optimize their strategies and better anticipate market movements in today’s dynamic financial landscape."
+category: quant_concept
+description: Explore the critical role of Personal Consumption Expenditures (PCE)
+  in economic analysis and how it informs algorithmic trading strategies. This article
+  investigates into the integration of PCE data within algo trading models to enhance
+  trading precision and market insights. Traders can leverage these robust data-driven
+  approaches to optimize their strategies and better anticipate market movements in
+  today’s dynamic financial landscape.
+title: 'Personal Consumption Expenditures: Overview and Measurement (Algo Trading)'
 ---
 
 In today's fast-paced financial markets, understanding economic indicators is crucial for making informed trading decisions. Among these indicators, Personal Consumption Expenditures (PCE) hold significant weight as a measure of consumer spending, which directly reflects economic health. PCE encompasses a broad range of household expenditures and is a critical component of the United States Gross Domestic Product (GDP), thus providing essential insights into overall economic trends and consumer confidence.

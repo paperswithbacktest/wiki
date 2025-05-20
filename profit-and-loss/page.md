@@ -1,6 +1,12 @@
 ---
-title: "Profit and Loss (Algo Trading)"
-description: "Explore the intricate relationship between profit and loss statements and algorithmic trading in the financial sector. Understand how P&L data guides automated trading systems in maximizing profitability and identifying market trends. Delve into factors like market volatility and liquidity that affect trading outcomes, and learn how integrating financial insights into algorithmic strategies enhances decision-making and market adaptability."
+category: quant_concept
+description: Explore the intricate relationship between profit and loss statements
+  and algorithmic trading in the financial sector. Understand how P&L data guides
+  automated trading systems in maximizing profitability and identifying market trends.
+  Delve into factors like market volatility and liquidity that affect trading outcomes,
+  and learn how integrating financial insights into algorithmic strategies enhances
+  decision-making and market adaptability.
+title: Profit and Loss (Algo Trading)
 ---
 
 In finance, understanding the interplay between profit and loss statements and algorithmic trading is essential. Financial statements, particularly the profit and loss (P&L) statement, provide a detailed view of a company's financial performance over a specific period. These statements offer critical insights into revenue generation, expense management, and ultimately net income or loss, serving as a foundational tool for traders and investors alike to evaluate the financial health of their interests.

@@ -1,6 +1,13 @@
 ---
-title: "Cournot Competition Model (Algo Trading)"
-description: "Cournot Competition Model explores strategic interactions among firms in an oligopoly by focusing on output levels rather than prices. Originating from Augustin Cournot's 1838 analysis, the model outlines how firms predict competitors’ production to optimize their own, leading to a Nash equilibrium where no firm can benefit from changing output independently. This approach helps explain how firms with significant market influence behave in structured environments and sets the stage for advanced economic theories of market dynamics and industrial organization."
+category: quant_concept
+description: Cournot Competition Model explores strategic interactions among firms
+  in an oligopoly by focusing on output levels rather than prices. Originating from
+  Augustin Cournot's 1838 analysis, the model outlines how firms predict competitors’
+  production to optimize their own, leading to a Nash equilibrium where no firm can
+  benefit from changing output independently. This approach helps explain how firms
+  with significant market influence behave in structured environments and sets the
+  stage for advanced economic theories of market dynamics and industrial organization.
+title: Cournot Competition Model (Algo Trading)
 ---
 
 Cournot competition is a fundamental model in economic theory that captures the essence of strategic interaction among firms in an oligopolistic market structure. In an oligopoly, a limited number of firms hold significant market power, and their individual decisions regarding output levels can influence overall market dynamics. The Cournot model, devised by the French economist Augustin Cournot in 1838, stands as one of the pioneering contributions to the study of oligopoly behavior.

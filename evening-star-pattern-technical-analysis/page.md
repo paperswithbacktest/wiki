@@ -1,6 +1,9 @@
 ---
-title: "Evening Star Pattern in Technical Analysis (Algo Trading)"
-description: "Explore the significance of the Evening Star pattern in technical analysis and algorithmic trading This candlestick pattern signals a bearish reversal perfect for automated systems"
+category: trading_strategy
+description: Explore the significance of the Evening Star pattern in technical analysis
+  and algorithmic trading This candlestick pattern signals a bearish reversal perfect
+  for automated systems
+title: Evening Star Pattern in Technical Analysis (Algo Trading)
 ---
 
 Candlestick patterns are a fundamental aspect of technical analysis, used by traders to interpret and predict market sentiment and future price movements. These visual representations, formed by a succession of candlesticks, encapsulate the battle between buyers and sellers over specific periods. Among these patterns, the Evening Star holds particular significance as a bearish reversal formation, typically indicating the potential end of an uptrend and a shift towards a downtrend. It comprises three components: a large bullish candle, a subsequent smaller-bodied candle indicating indecision, and a large bearish candle, confirming the reversal of sentiment. 
@@ -232,4 +235,3 @@ Educational resources are equally essential for traders new to this domain. Book
    - [Coursera](https://www.coursera.org/) and [edX](https://www.edx.org/): Look for courses on technical analysis and algorithmic trading, which provide structured learning paths on these subjects.
 
 By exploring the above-suggested materials, traders and researchers can deepen their understanding of candlestick patterns, like the Evening Star, and how these can be effectively used within algorithmic trading frameworks.
-

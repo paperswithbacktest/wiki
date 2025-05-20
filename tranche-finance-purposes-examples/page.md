@@ -1,6 +1,9 @@
 ---
-title: "Tranche in Finance: Purposes and Examples (Algo Trading)"
-description: "Discover the dynamic interplay between tranche finance and algorithmic trading Learn how these financial strategies can optimize portfolios and enhance risk management"
+category: quant_concept
+description: Discover the dynamic interplay between tranche finance and algorithmic
+  trading Learn how these financial strategies can optimize portfolios and enhance
+  risk management
+title: 'Tranche in Finance: Purposes and Examples (Algo Trading)'
 ---
 
 In the rapidly evolving world of finance, both tranche finance and algorithmic trading have emerged as influential forces. Tranche finance, a method often utilized in structured finance products, involves dividing securities into segments, or "tranches," each characterized by distinct risks, rewards, and maturities. This segmentation caters to the varying risk appetites and return expectations of different investors, allowing for tailored investment strategies that enhance risk management and portfolio diversification.

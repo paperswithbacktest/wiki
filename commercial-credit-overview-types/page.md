@@ -1,6 +1,8 @@
 ---
-title: "Commercial Credit: Overview And Types (Algo Trading)"
-description: "Explore the role of commercial credit and algorithmic trading in financial growth Understand how these mechanisms enhance business liquidity and market operations"
+category: quant_concept
+description: Explore the role of commercial credit and algorithmic trading in financial
+  growth Understand how these mechanisms enhance business liquidity and market operations
+title: 'Commercial Credit: Overview And Types (Algo Trading)'
 ---
 
 In the world of finance, understanding various credit types and their practical applications is essential for promoting individual and corporate growth. Credit serves as a cornerstone of financial activity, facilitating transactions and enabling both consumers and businesses to access resources beyond their immediate capital. This article examines diverse credit types, with particular attention given to commercial credit and the role of algorithmic trading in contemporary financial practices. 

@@ -1,7 +1,8 @@
 ---
-title: Understanding Long-Range Interaction Layers in Machine Learning
+category: quant_concept
 description: Long-Range Interaction Layers enable models to connect distant information
   and improve context understanding and accuracy. Discover more inside.
+title: Understanding Long-Range Interaction Layers in Machine Learning
 ---
 
 ![Image](images/1.png)

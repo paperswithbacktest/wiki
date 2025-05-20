@@ -1,6 +1,11 @@
 ---
-title: "Autoregressive Moving Average (ARMA) Models for Time Series Analysis (Algo Trading)"
-description: Explore the application of ARMA models in algorithmic trading to enhance strategy development by understanding autocorrelations in time series data. Learn how ARMA helps predict market behaviors crucial for executing profitable trades and optimizing risk management.
+category: quant_concept
+description: Explore the application of ARMA models in algorithmic trading to enhance
+  strategy development by understanding autocorrelations in time series data. Learn
+  how ARMA helps predict market behaviors crucial for executing profitable trades
+  and optimizing risk management.
+title: Autoregressive Moving Average (ARMA) Models for Time Series Analysis (Algo
+  Trading)
 ---
 
 Algorithmic trading, a fixture in contemporary financial markets, involves the use of computer algorithms to automatically execute trading decisions at high speeds. This method outpaces human capabilities, allowing the analysis of complex market data and execution of orders in fractions of a second. The significant advantage of algorithmic trading lies in its ability to exploit market inefficiencies, optimize execution speed, and minimize the emotional biases often associated with human traders.

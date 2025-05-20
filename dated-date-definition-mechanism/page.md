@@ -1,6 +1,8 @@
 ---
-title: "Dated Date: Definition and Mechanism (Algo Trading)"
-description: "Explore the intricacies of dated dates in bond finance and the impact of algorithmic trading in modern markets to enhance investment strategies."
+category: quant_concept
+description: Explore the intricacies of dated dates in bond finance and the impact
+  of algorithmic trading in modern markets to enhance investment strategies.
+title: 'Dated Date: Definition and Mechanism (Algo Trading)'
 ---
 
 Understanding complex financial terms is crucial in today's market, where innovation and technology meet traditional finance. The contemporary financial landscape is characterized by rapid advancements and the increasing integration of technology with traditional finance mechanisms. Key components shaping this environment include the concepts of dated date, bond issuance, and algorithmic trading, each playing a vital role in financial markets, particularly concerning fixed-income securities and automated investment strategies.

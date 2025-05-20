@@ -1,6 +1,9 @@
 ---
-title: "Dow Jones Industrial Average Yield Overview (Algo Trading)"
-description: "Explore an insightful overview of the Dow Jones Industrial Average focusing on yield calculations and the significant role of algorithmic trading in financial markets."
+category: quant_concept
+description: Explore an insightful overview of the Dow Jones Industrial Average focusing
+  on yield calculations and the significant role of algorithmic trading in financial
+  markets.
+title: Dow Jones Industrial Average Yield Overview (Algo Trading)
 ---
 
 The Dow Jones Industrial Average (DJIA) stands as one of the foremost indices in the global financial landscape, serving as a critical indicator of the stock market's performance and, by proxy, the economic health of the United States. Established in 1896, it comprises 30 prominent, publicly traded companies in the U.S., covering diverse sectors such as technology, finance, healthcare, and consumer goods. The calculation of the DJIA is unique as it employs a price-weighted methodology, which means each component stock contributes to the index in proportion to its price per share, rather than its market capitalization.

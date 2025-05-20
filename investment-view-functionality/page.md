@@ -1,6 +1,9 @@
 ---
-title: "Investment View and Functionality (Algo Trading)"
-description: "Discover the synergy between investment views, finance, and algorithmic trading to enhance investment outcomes with strategic insights and advanced financial tools."
+category: quant_concept
+description: Discover the synergy between investment views, finance, and algorithmic
+  trading to enhance investment outcomes with strategic insights and advanced financial
+  tools.
+title: Investment View and Functionality (Algo Trading)
 ---
 
 In the rapidly evolving world of finance, three interconnected domains play a pivotal role: investment view, investment finance, and algorithmic (algo) trading. Each element forms a crucial part of modern financial strategies, offering tools and perspectives to enhance investment outcomes. Understanding these domains and their interplay is vital for investors aiming for success.

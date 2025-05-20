@@ -1,6 +1,8 @@
 ---
-title: "Dedicated Short Bias Strategy (Algo Trading)"
-description: "Explore the dynamics of short bias and short selling strategies enhanced by algorithmic trading to profit from market downturns with precision and efficiency."
+category: trading_strategy
+description: Explore the dynamics of short bias and short selling strategies enhanced
+  by algorithmic trading to profit from market downturns with precision and efficiency.
+title: Dedicated Short Bias Strategy (Algo Trading)
 ---
 
 Investment strategies within financial markets have undergone significant evolution, adapting to shifting market conditions and varying investor objectives. Among such strategies, short bias and short selling are particularly noteworthy for targeting profits from falling asset prices. Short bias involves holding a portfolio skewed towards short positions, aiming to capture gains during market downturns. Short selling, on the other hand, entails borrowing assets to sell them with the intent of repurchasing them at a lower price, thus benefitting from the expected decline in value.
@@ -185,4 +187,3 @@ For further insights into the topics of financial markets, algorithmic trading, 
   - *Journals*: The Journal of Portfolio Management and the Journal of Investment Strategies publish comprehensive studies on complex investment approaches.
 
 Engaging with these resources will deepen your understanding of the nuanced landscape of financial strategies, offering both foundational knowledge and insights into cutting-edge techniques.
-

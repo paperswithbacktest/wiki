@@ -1,6 +1,8 @@
 ---
-title: "Big Blue: IBM Nickname and History (Algo Trading)"
-description: "Discover IBM's impact on technology and its role in financial markets. Explore the history of 'Big Blue' and its influence in algorithmic trading."
+category: quant_concept
+description: Discover IBM's impact on technology and its role in financial markets.
+  Explore the history of 'Big Blue' and its influence in algorithmic trading.
+title: 'Big Blue: IBM Nickname and History (Algo Trading)'
 ---
 
 International Business Machines Corporation (IBM), affectionately known as 'Big Blue,' stands as a vanguard in the computing industry. Founded in 1911 as the Computing-Tabulating-Recording Company, IBM has consistently led the charge in technological innovation and business transformation. As one of the earliest developers of business machines and computers, IBM has laid down the technological foundations that catalyzed the evolution of modern computing landscapes. The company's moniker, 'Big Blue,' not only reflects the iconic blue hue associated with its branding but also signifies its immense influence and stature within the technology sector.

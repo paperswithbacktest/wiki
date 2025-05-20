@@ -1,6 +1,8 @@
 ---
-title: "Economic Supply Theory (Algo Trading)"
-description: "Explore the synergy of market theory supply economics and algorithmic trading transforming financial strategies with technology-driven decision-making."
+category: quant_concept
+description: Explore the synergy of market theory supply economics and algorithmic
+  trading transforming financial strategies with technology-driven decision-making.
+title: Economic Supply Theory (Algo Trading)
 ---
 
 The integration of market theory with supply economics and algorithmic trading represents a pivotal development in contemporary financial strategies. Market theory, primarily characterized by the interplay between supply and demand, serves as the cornerstone of understanding market dynamics. Supply-side economics, a key component of market theory, concentrates on the producer's ability to create goods and services, emphasizing economic growth through increased production capabilities. This focus on production lays the groundwork for understanding how economies can achieve sustainable growth by optimizing supply conditions.
@@ -147,4 +149,3 @@ In contemplating the future, the fusion of traditional economic theories with ad
    - Exploring the suggested readings and datasets will foster a deeper comprehension of market dynamics and the integration of economic theory with algorithmic strategies.
 
 This compilation aims to aid readers in expanding their knowledge and skill set in the intersection of market theory, supply economics, and algorithmic trading.
-

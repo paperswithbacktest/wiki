@@ -1,6 +1,8 @@
 ---
-title: "Optimal Trading (Algo Trading)"
-description: "Explore the transformative world of algorithmic trading which leverages advanced algorithms to improve trading efficiency reduce errors and ensure consistency."
+category: trading_strategy
+description: Explore the transformative world of algorithmic trading which leverages
+  advanced algorithms to improve trading efficiency reduce errors and ensure consistency.
+title: Optimal Trading (Algo Trading)
 ---
 
 Algorithmic trading, often referred to as algo trading, signifies a transformational development within the financial sector. It employs sophisticated computer algorithms to manage trading actions, enhancing the speed and efficiency of transactions compared to manual trading processes. By automating trades, these algorithms eliminate the pitfalls of human emotion and error, thus ensuring precision and consistency in executing trades.

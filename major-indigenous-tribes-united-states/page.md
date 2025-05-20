@@ -1,6 +1,8 @@
 ---
-title: "Major Indigenous Tribes in the United States (Algo Trading)"
-description: "Explore how major Indigenous tribes in the United States engage in algorithmic trading blending traditional practices with cutting-edge financial technology."
+category: quant_concept
+description: Explore how major Indigenous tribes in the United States engage in algorithmic
+  trading blending traditional practices with cutting-edge financial technology.
+title: Major Indigenous Tribes in the United States (Algo Trading)
 ---
 
 Indigenous tribes and Native American groups hold a significant place in the cultural and historical tapestry of the United States. For millennia, these communities have contributed to the rich heritage of the nation through their unique traditions, languages, and social structures. The recognition of their enduring legacy and customs is crucial to understanding the broader narrative of American history.

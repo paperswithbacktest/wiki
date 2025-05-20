@@ -1,6 +1,8 @@
 ---
-title: "Goldman 360 Overview (Algo Trading)"
-description: "Goldman 360 by Goldman Sachs revolutionizes investment management with real-time data access and advanced trading tools for financial professionals."
+category: quant_concept
+description: Goldman 360 by Goldman Sachs revolutionizes investment management with
+  real-time data access and advanced trading tools for financial professionals.
+title: Goldman 360 Overview (Algo Trading)
 ---
 
 Goldman 360 is a groundbreaking financial services platform pioneered by Goldman Sachs. It is designed to transform investment management and enhance trading performance. This sophisticated platform is tailored to meet the needs of investment managers and financial professionals by providing a wide array of services that streamline complex financial operations and decision-making processes. As digital transformation gains momentum, financial platforms like Goldman 360 have become essential components of contemporary investment strategies. They facilitate real-time data access, algorithmic trading, and comprehensive portfolio management.

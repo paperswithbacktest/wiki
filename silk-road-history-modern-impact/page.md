@@ -1,6 +1,8 @@
 ---
-title: "Silk Road: History and Modern Impact (Algo Trading)"
-description: "Explore the enduring influence of the Silk Road on modern trade by examining its historical role and the evolution of algorithmic trading practices today."
+category: quant_concept
+description: Explore the enduring influence of the Silk Road on modern trade by examining
+  its historical role and the evolution of algorithmic trading practices today.
+title: 'Silk Road: History and Modern Impact (Algo Trading)'
 ---
 
 The Silk Road, an expansive network of trade routes, historically bridged the cultural and commercial chasm between the Eastern and Western worlds. Originating in ancient China and extending as far as Europe, it was pivotal in facilitating the exchange of goods, ideas, and culture for centuries. Items such as silk, spices, and precious metals traversed these routes, fostering economic growth and cultural interactions that have left a lasting legacy.

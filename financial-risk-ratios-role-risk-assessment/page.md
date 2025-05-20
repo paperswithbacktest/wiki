@@ -1,6 +1,9 @@
 ---
-title: "Financial Risk Ratios and Their Role in Risk Assessment (Algo Trading)"
-description: "Explore the critical role of financial risk ratios in assessing risk in algorithmic trading to enhance strategies amid fast market fluctuations and high volatility."
+category: quant_concept
+description: Explore the critical role of financial risk ratios in assessing risk
+  in algorithmic trading to enhance strategies amid fast market fluctuations and high
+  volatility.
+title: Financial Risk Ratios and Their Role in Risk Assessment (Algo Trading)
 ---
 
 In today's fast-paced financial markets, managing risk effectively is crucial for success. The rapid evolution of algorithmic trading has transformed the way financial transactions are conducted, with decisions made at lightning speed by sophisticated computer algorithms. In this context, risk assessment becomes a pivotal component of trading strategies, helping to ensure stability and profitability in an environment characterized by high volatility and rapid price fluctuations.

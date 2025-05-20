@@ -1,6 +1,9 @@
 ---
-title: "Blackout Period in Finance: Rules and Examples (Algo Trading)"
-description: "Learn about blackout periods in finance rules and examples, their impact on trading, regulatory compliance, and how algorithmic trading adapts during these times."
+category: quant_concept
+description: Learn about blackout periods in finance rules and examples, their impact
+  on trading, regulatory compliance, and how algorithmic trading adapts during these
+  times.
+title: 'Blackout Period in Finance: Rules and Examples (Algo Trading)'
 ---
 
 A blackout period in a financial context refers to a specific timeframe during which certain activities or processes are restricted, typically to prevent conflicts of interest or ensure compliance with regulatory standards. These periods are crucial in scenarios such as trading prior to the release of significant company information, ensuring that no party can exploit non-public information for personal gain. The importance of blackout periods in finance and trading lies in their ability to uphold market integrity and prevent unethical practices like insider trading.

@@ -1,6 +1,8 @@
 ---
-title: "Comparison of Ledger Nano S Plus and X (Algo Trading)"
-description: "Compare Ledger Nano S Plus and Ledger Nano X to find the best security, usability, and price features for cryptocurrency storage and algo trading needs."
+category: quant_concept
+description: Compare Ledger Nano S Plus and Ledger Nano X to find the best security,
+  usability, and price features for cryptocurrency storage and algo trading needs.
+title: Comparison of Ledger Nano S Plus and X (Algo Trading)
 ---
 
 The increasing popularity of cryptocurrencies has revolutionized the financial landscape, prompting a significant demand for secure and efficient storage solutions. As digital assets continue to gain traction, ensuring their safety becomes paramount for investors and traders alike. Ledger, a prominent name in the crypto hardware wallet industry, has addressed this need by providing robust, secure solutions for cryptocurrency storage. Two of their flagship models, the Ledger Nano S Plus and Ledger Nano X, have stood out for their advanced security features and user-friendly designs.

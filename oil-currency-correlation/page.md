@@ -1,6 +1,9 @@
 ---
-title: "Oil-Currency Correlation (Algo Trading)"
-description: "Explore the intricate correlation between oil prices and currency values. Understand how global oil fluctuations impact forex markets and enhance trading strategies."
+category: quant_concept
+description: Explore the intricate correlation between oil prices and currency values.
+  Understand how global oil fluctuations impact forex markets and enhance trading
+  strategies.
+title: Oil-Currency Correlation (Algo Trading)
 ---
 
 The fascinating interconnection between oil prices and currency values is a subject of great interest within the financial markets. As oil is a globally traded commodity predominantly priced in U.S. dollars, fluctuations in oil prices directly influence currency valuations. This interconnectedness becomes a crucial consideration for financial market participants who seek to understand the underlying mechanics driving these shifts. Recognizing and analyzing the correlation between oil prices and currency values can offer traders and investors strategic advantages by enhancing their ability to predict market dynamics and make informed decisions.

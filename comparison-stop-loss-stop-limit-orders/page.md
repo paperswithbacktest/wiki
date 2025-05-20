@@ -1,6 +1,13 @@
 ---
-title: "Comparison of Stop-Loss and Stop-Limit Orders (Algo Trading)"
-description: "Discover the differences and strategic benefits of stop-loss and stop-limit orders in algorithmic trading. These essential tools help traders manage risk and improve execution precision by automating trade controls. Learn how stop-limit orders ensure price accuracy and stop-loss orders safeguard against excessive losses in volatile markets. Enhance your trading portfolio by understanding and applying these order types effectively, facilitating better risk management and informed decision-making in dynamic financial environments."
+category: trading_strategy
+description: Discover the differences and strategic benefits of stop-loss and stop-limit
+  orders in algorithmic trading. These essential tools help traders manage risk and
+  improve execution precision by automating trade controls. Learn how stop-limit orders
+  ensure price accuracy and stop-loss orders safeguard against excessive losses in
+  volatile markets. Enhance your trading portfolio by understanding and applying these
+  order types effectively, facilitating better risk management and informed decision-making
+  in dynamic financial environments.
+title: Comparison of Stop-Loss and Stop-Limit Orders (Algo Trading)
 ---
 
 In today's fast-paced financial markets, developing a robust trading strategy is essential for achieving success. Among the myriad of strategies available, stop-limit and stop-loss orders have emerged as indispensable tools for both traders and investors. These orders play a pivotal role in algorithmic trading, providing a mechanism to manage risk and execute trades with greater precision.

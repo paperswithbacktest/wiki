@@ -1,6 +1,12 @@
 ---
-title: "Moving Average Convergence Divergence (Algo Trading)"
-description: "Learn how the Moving Average Convergence Divergence (MACD) indicator is used in algorithmic trading to assess momentum shifts and trend strength. This article explores MACD's components and shows how automating strategies with Python can optimize trading models. Discover how traders leverage MACD to enhance decision-making, identify market opportunities, and improve performance by integrating it with other tools for a robust strategy."
+category: trading_strategy
+description: Learn how the Moving Average Convergence Divergence (MACD) indicator
+  is used in algorithmic trading to assess momentum shifts and trend strength. This
+  article explores MACD's components and shows how automating strategies with Python
+  can optimize trading models. Discover how traders leverage MACD to enhance decision-making,
+  identify market opportunities, and improve performance by integrating it with other
+  tools for a robust strategy.
+title: Moving Average Convergence Divergence (Algo Trading)
 ---
 
 The Moving Average Convergence Divergence (MACD) is a widely-utilized tool in technical analysis that aids traders in discerning potential trading opportunities by examining the relationship between two moving averages of an asset's price. This article scrutinizes the various aspects of the MACD indicator, including its fundamental components and its application within the domain of algorithmic trading. MACD's utility extends beyond just identifying momentum shifts, offering a reliable method for evaluating trend strength and generating buy and sell signals. Understanding its mechanics and integration into algorithmic trading strategies can significantly assist traders in achieving more effective and timely decision-making.

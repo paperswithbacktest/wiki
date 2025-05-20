@@ -1,6 +1,8 @@
 ---
-title: "Non-Stationary Processes (Algo Trading)"
-description: "Explore non-stationary processes in algorithmic trading and learn how transforming them into stationary ones improves market predictions and trading strategies."
+category: quant_concept
+description: Explore non-stationary processes in algorithmic trading and learn how
+  transforming them into stationary ones improves market predictions and trading strategies.
+title: Non-Stationary Processes (Algo Trading)
 ---
 
 In the world of finance, understanding and analyzing time series data is crucial for decision-making. Time series analysis involves exploring datasets to identify patterns and trends over time. This allows financial analysts and traders to make informed predictions and decisions about future market movements, asset prices, and economic conditions. Effective time series analysis can lead to improved strategies and increased profitability in trading and investment.

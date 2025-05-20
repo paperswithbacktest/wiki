@@ -1,6 +1,9 @@
 ---
-title: "Comparison of Goodwill and Intangible Assets (Algo Trading)"
-description: "Discover the key differences between goodwill and intangible assets in algo trading and learn how these assets impact market value assessment and trading strategies."
+category: quant_concept
+description: Discover the key differences between goodwill and intangible assets in
+  algo trading and learn how these assets impact market value assessment and trading
+  strategies.
+title: Comparison of Goodwill and Intangible Assets (Algo Trading)
 ---
 
 In a financial context, goodwill and intangible assets occupy a significant place on a company's balance sheet, representing non-physical yet valuable components of a business's worth. Goodwill typically arises during mergers and acquisitions when a company acquires another for more than the fair market value of its net tangible assets. This excess payment reflects benefits that are not separately identifiable, such as brand reputation, customer loyalty, and strategic advantages. Other intangible assets, such as patents, trademarks, and copyrights, derive value from legal rights or proprietary knowledge, contributing to the competitive edge and future income potential of a business.

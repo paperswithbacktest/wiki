@@ -1,6 +1,9 @@
 ---
-title: "Correlation Between Price-to-Book Ratio and Return on Equity (Algo Trading)"
-description: "Discover the relationship between Price-to-Book ratio and Return on Equity in algorithmic trading Uncover how these metrics drive investment decisions and profitability"
+category: quant_concept
+description: Discover the relationship between Price-to-Book ratio and Return on Equity
+  in algorithmic trading Uncover how these metrics drive investment decisions and
+  profitability
+title: Correlation Between Price-to-Book Ratio and Return on Equity (Algo Trading)
 ---
 
 Understanding financial metrics is crucial for investors and traders, particularly in algorithmic trading where data-driven decision-making dominates. Two fundamental metrics often employed are the Price-to-Book (P/B) ratio and Return on Equity (ROE). The P/B ratio aids in assessing a company's market value compared to its book value, helping investors discern growth expectations or undervaluation. Meanwhile, ROE offers insight into a company's profitability by measuring how effectively it generates income from its shareholders' equity.

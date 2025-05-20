@@ -1,6 +1,8 @@
 ---
-title: "Instant History Bias: Definition, Mechanism, and Examples (Algo Trading)"
-description: "Explore the mechanisms and effects of instant history bias in algorithmic trading Learn how cognitive distortions impact trading models and investor expectations"
+category: quant_concept
+description: Explore the mechanisms and effects of instant history bias in algorithmic
+  trading Learn how cognitive distortions impact trading models and investor expectations
+title: 'Instant History Bias: Definition, Mechanism, and Examples (Algo Trading)'
 ---
 
 Algorithmic trading stands as a pivotal element in contemporary investment strategies, driven by the need for precision and rapid execution in financial markets. This trading method leverages computational algorithms to execute orders with the goal of optimizing overall market performance. By minimizing human intervention, algorithmic trading can efficiently process vast sets of data and respond to market conditions at speeds unattainable by manual trading techniques.

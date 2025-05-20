@@ -1,6 +1,8 @@
 ---
-title: "Nasdaq-100 Index Overview (Algo Trading)"
-description: "Explore the NASDAQ-100 Index a key benchmark of 100 top non-financial tech-driven companies shaping innovation and growth in the U.S. and globally."
+category: dataset
+description: Explore the NASDAQ-100 Index a key benchmark of 100 top non-financial
+  tech-driven companies shaping innovation and growth in the U.S. and globally.
+title: Nasdaq-100 Index Overview (Algo Trading)
 ---
 
 The NASDAQ-100 Index is a pivotal component of the United States stock market, serving as a benchmark for the technology industry and other leading non-financial sectors. Established in January 1985 by the NASDAQ stock exchange, the index comprises 100 of the largest non-financial companies listed on NASDAQ, encapsulating industries such as technology, telecommunications, and biotechnology. These sectors are collectively key players in charting the direction of technological advancement and innovation.

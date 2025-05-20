@@ -1,6 +1,8 @@
 ---
-title: "Lower of Cost or Market Method (Algo Trading)"
-description: "Explore the foundational Lower of Cost or Market (LCM) method in inventory valuation and its impact on algorithmic trading strategies within financial reporting."
+category: quant_concept
+description: Explore the foundational Lower of Cost or Market (LCM) method in inventory
+  valuation and its impact on algorithmic trading strategies within financial reporting.
+title: Lower of Cost or Market Method (Algo Trading)
 ---
 
 In the rapidly evolving world of finance and technology, certain principles and methodologies remain fundamental to the conduct of business and strategy formation. Despite the rapid advancements and complexities introduced by modern innovations, foundational elements like inventory valuation and cost accounting persist as crucial components of financial management. Inventory valuation, for example, forms the backbone of accurate financial reporting, allowing companies to represent their asset values and manage cash flows effectively.

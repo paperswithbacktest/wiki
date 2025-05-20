@@ -1,6 +1,9 @@
 ---
-title: "Polish Zloty: History and Considerations (Algo Trading)"
-description: "Explore the history of the Polish Zloty its evolution and its impact on Poland's economy with insights into algorithmic trading opportunities in global markets."
+category: quant_concept
+description: Explore the history of the Polish Zloty its evolution and its impact
+  on Poland's economy with insights into algorithmic trading opportunities in global
+  markets.
+title: 'Polish Zloty: History and Considerations (Algo Trading)'
 ---
 
 The Polish Zloty (PLN) serves as the national currency of Poland, represented by the symbol zł. Renowned for its historic significance, the Zloty continuously influences Poland's economic landscape. From its inception as a gold coin in the Middle Ages to its current status as a free-floating currency, the Zloty has adapted through various economic and political changes. The currency's evolution underscores Poland's financial resilience and adaptability.

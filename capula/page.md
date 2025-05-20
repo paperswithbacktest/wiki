@@ -1,6 +1,8 @@
 ---
-title: "Capula (Algo Trading)"
-description: "Explore Capula Investment Management's cutting-edge algorithmic trading strategies and innovative financial techniques that shape modern investment practices."
+category: trading_strategy
+description: Explore Capula Investment Management's cutting-edge algorithmic trading
+  strategies and innovative financial techniques that shape modern investment practices.
+title: Capula (Algo Trading)
 ---
 
 In the fast-paced world of finance, algorithmic trading has emerged as a cornerstone of modern investment strategies. This dynamic and innovative approach utilizes advanced mathematical models and high-speed computing to execute trades, aiming to capitalize on market inefficiencies with precision and efficiency. As a leader in this domain, Capula Investment Management LLP stands out for its commitment to leveraging state-of-the-art technology and strategic acumen.
@@ -99,4 +101,3 @@ For foundational concepts, David Aronson’s “Evidence-Based Technical Analysi
 Stefan Jansen’s “Machine Learning for Algorithmic Trading” provides practical strategies and coding insights. The book offers examples in Python, demonstrating algorithm implementation for tasks like signal generation and portfolio optimization.
 
 Ernest P. Chan's “Quantitative Trading” outlines steps for building effective algorithmic trading businesses. It investigates into execution strategies, risk management, and the application of quantitative models to generate alpha in trading operations.
-

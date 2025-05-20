@@ -1,6 +1,9 @@
 ---
-title: "Pareidolia and Its Impact on Stock Market Trading (Algo Trading)"
-description: "Explore pareidolia's influence on stock market trading and how it affects decision-making. Understand its role in pattern recognition and its impact on algo trading."
+category: quant_concept
+description: Explore pareidolia's influence on stock market trading and how it affects
+  decision-making. Understand its role in pattern recognition and its impact on algo
+  trading.
+title: Pareidolia and Its Impact on Stock Market Trading (Algo Trading)
 ---
 
 The stock market is a complex and unpredictable environment where traders are perpetually searching for patterns or indicators that might suggest impending moves. This quest for patterns is deeply rooted in human nature, often described by the term pareidolia—a psychological phenomenon where individuals perceive recognizable patterns, such as faces or objects, in random stimuli. Pareidolia's influence extends beyond simple visual experiences; it plays a significant role in various aspects of daily life, including financial decision-making.

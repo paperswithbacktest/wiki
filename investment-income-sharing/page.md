@@ -1,6 +1,8 @@
 ---
-title: "Investment Income Sharing (Algo Trading)"
-description: "Explore the convergence of financial agreements, investment income sharing, and algo trading to optimize returns and manage risks in modern finance."
+category: trading_strategy
+description: Explore the convergence of financial agreements, investment income sharing,
+  and algo trading to optimize returns and manage risks in modern finance.
+title: Investment Income Sharing (Algo Trading)
 ---
 
 The financial landscape is undergoing a significant transformation, offering both new prospects and challenges for investors. This article focuses on four critical components shaping modern finance: financial agreements, investment income sharing, algorithmic trading, and the convergence of these concepts. The financial world is more interconnected and dynamic than ever, and understanding these elements is essential for investors aiming to optimize returns while managing risk.

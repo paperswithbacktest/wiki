@@ -1,6 +1,8 @@
 ---
-title: "Hedging with Derivatives (Algo Trading)"
-description: "Hedging with derivatives in algorithmic trading is a key risk management strategy using options, futures, and swaps to protect against financial market volatility."
+category: quant_concept
+description: Hedging with derivatives in algorithmic trading is a key risk management
+  strategy using options, futures, and swaps to protect against financial market volatility.
+title: Hedging with Derivatives (Algo Trading)
 ---
 
 Hedging with derivatives plays a crucial role in the financial sector, where it serves as an essential risk management strategy. This technique is widely applied by traders, investors, and companies to mitigate financial risks. Algorithmic trading, which employs computer algorithms to execute trades, integrates derivative instruments to enhance hedging practices. This article examines how these derivatives, including options, futures, and swaps, are employed within the framework of algorithmic trading to manage risk.

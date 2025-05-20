@@ -1,7 +1,8 @@
 ---
-title: Understanding Generalized Linear Models in Machine Learning
+category: quant_concept
 description: Generalized Linear Models provide flexible extensions of linear regression
   to model diverse data using appropriate link functions Discover more inside
+title: Understanding Generalized Linear Models in Machine Learning
 ---
 
 ![Image](images/1.jpeg)

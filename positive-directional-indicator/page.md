@@ -1,6 +1,8 @@
 ---
-title: "Positive Directional Indicator (Algo Trading)"
-description: "Explore the Positive Directional Indicator in algo trading to gauge trend strength and direction Boost your strategy in stocks forex and commodities"
+category: trading_strategy
+description: Explore the Positive Directional Indicator in algo trading to gauge trend
+  strength and direction Boost your strategy in stocks forex and commodities
+title: Positive Directional Indicator (Algo Trading)
 ---
 
 Technical analysis is a fundamental aspect of trading, providing traders with tools to interpret market data and make informed decisions. In algorithmic trading, where speed and precision are crucial, the Positive Directional Indicator (+DI) serves as an important part of this toolkit. As a component of the Directional Movement System developed by J. Welles Wilder, Jr., the +DI helps traders assess the strength and direction of market trends.

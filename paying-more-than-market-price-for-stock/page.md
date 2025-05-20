@@ -1,6 +1,8 @@
 ---
-title: "Understanding Paying More Than Market Price for a Stock (Algo Trading)"
-description: "Explore why investors might pay more than the market price for a stock in the context of algorithmic trading and its impact on liquidity and volatility."
+category: trading_strategy
+description: Explore why investors might pay more than the market price for a stock
+  in the context of algorithmic trading and its impact on liquidity and volatility.
+title: Understanding Paying More Than Market Price for a Stock (Algo Trading)
 ---
 
 In recent years, the stock market has undergone transformative changes primarily fuelled by the advent and proliferation of algorithmic trading. This approach, which leverages computer algorithms to automate the process of buying and selling stocks, has fundamentally altered how trades are executed and managed. As the financial industry invests more heavily in technology, the reliance on sophisticated algorithms continues to grow, providing new dimensions in trading that enhance both efficiency and precision.

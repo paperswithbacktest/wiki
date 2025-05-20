@@ -1,6 +1,8 @@
 ---
-title: "Falling Three Methods: Overview and Mechanism (Algo Trading)"
-description: "Explore the falling three methods pattern a key tool in technical analysis that helps predict bearish trend continuations especially in algorithmic trading."
+category: trading_strategy
+description: Explore the falling three methods pattern a key tool in technical analysis
+  that helps predict bearish trend continuations especially in algorithmic trading.
+title: 'Falling Three Methods: Overview and Mechanism (Algo Trading)'
 ---
 
 Technical analysis is a fundamental aspect of financial markets that provides traders with the tools necessary to make informed decisions. Among the various techniques within this analytical approach, candlestick patterns are pivotal in delivering visual insights into potential future price movements. These patterns represent the psychology of market participants, capturing shifts in sentiment and highlighting possibilities of trend continuation or reversal. A notable pattern in this context is the 'falling three methods,' which assists traders in recognizing continuation trends in a bearish market scenario.

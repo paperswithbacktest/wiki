@@ -1,6 +1,12 @@
 ---
-title: "Leasehold Improvements in Accounting (Algo Trading)"
-description: "Discover the essential aspects of leasehold improvements in accounting within the context of algo trading. This comprehensive guide examines how leasehold modifications impact financial reporting and align with the needs of automated trading systems. Learn about accounting standards, tax considerations, and practical examples vital for modern businesses aiming to optimize leased spaces and enhance operational efficiency through tailored improvements."
+category: quant_concept
+description: Discover the essential aspects of leasehold improvements in accounting
+  within the context of algo trading. This comprehensive guide examines how leasehold
+  modifications impact financial reporting and align with the needs of automated trading
+  systems. Learn about accounting standards, tax considerations, and practical examples
+  vital for modern businesses aiming to optimize leased spaces and enhance operational
+  efficiency through tailored improvements.
+title: Leasehold Improvements in Accounting (Algo Trading)
 ---
 
 Understanding the key aspects of leasehold improvements and accounting, particularly in scenarios involving automated trading systems, is crucial for modern businesses. Leasehold improvements, which are modifications made to a leased property to accommodate the specific needs of the tenant, are of significant interest in the financial landscape due to their impact on both operational efficiency and compliance with accounting standards.

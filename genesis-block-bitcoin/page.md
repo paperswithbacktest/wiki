@@ -1,6 +1,12 @@
 ---
-title: "Genesis Block in Bitcoin (Algo Trading)"
-description: "Explore the foundational significance of the Genesis Block in Bitcoin's blockchain and its profound impact on decentralization and algorithmic trading. Understand how this cornerstone of digital currency technology has influenced the development of secure and efficient trading strategies. Learn about the origins of the Genesis Block and its enduring legacy in shaping the cryptocurrency ecosystem and future innovations in financial technology."
+category: quant_concept
+description: Explore the foundational significance of the Genesis Block in Bitcoin's
+  blockchain and its profound impact on decentralization and algorithmic trading.
+  Understand how this cornerstone of digital currency technology has influenced the
+  development of secure and efficient trading strategies. Learn about the origins
+  of the Genesis Block and its enduring legacy in shaping the cryptocurrency ecosystem
+  and future innovations in financial technology.
+title: Genesis Block in Bitcoin (Algo Trading)
 ---
 
 In the world of cryptocurrency, the term 'Genesis Block' carries significant weight, especially when examining Bitcoin and blockchain technology. The Genesis Block, often referred to as Block 0, serves as the cornerstone of the Bitcoin network, marking the beginning of a revolutionary approach to digital transactions. Its creation laid the groundwork for the entire blockchain infrastructure and introduced the concept of decentralized finance, which has since evolved into various forms, including algorithmic trading.

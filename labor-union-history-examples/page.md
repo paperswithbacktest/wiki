@@ -1,6 +1,9 @@
 ---
-title: "Labor Union: History and Examples (Algo Trading)"
-description: "Explore the pivotal role of labor unions in securing workers' rights and their adaptation amidst technological advancements like algorithmic trading in modern times."
+category: quant_concept
+description: Explore the pivotal role of labor unions in securing workers' rights
+  and their adaptation amidst technological advancements like algorithmic trading
+  in modern times.
+title: 'Labor Union: History and Examples (Algo Trading)'
 ---
 
 The labor movement has been instrumental in the development of workers' rights and economic policies worldwide. Labor unions are central to this effort, advocating for equitable wages, safe working conditions, and reasonable working hours. Originating during the industrial revolution, these organizations have helped shape the fabric of labor laws and safeguards we see today. Their influence has ensured the establishment of a workforce that is protected and fairly compensated.

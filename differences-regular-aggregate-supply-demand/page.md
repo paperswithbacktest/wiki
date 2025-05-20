@@ -1,6 +1,8 @@
 ---
-title: "Differences Between Regular and Aggregate Supply and Demand (Algo Trading)"
-description: "Explore the distinctions and interactions between regular and aggregate supply and demand in economics and algorithmic trading for a strategic market advantage."
+category: quant_concept
+description: Explore the distinctions and interactions between regular and aggregate
+  supply and demand in economics and algorithmic trading for a strategic market advantage.
+title: Differences Between Regular and Aggregate Supply and Demand (Algo Trading)
 ---
 
 In the complex world of economics and trading, understanding core concepts like supply and demand, aggregate supply, economic theories, and algorithmic trading is crucial. This article explores these interconnected components, providing insights into their interactions and implications for modern markets. The dynamic interplay between supply and demand sets the fundamental framework of market economics. It dictates how goods and services are allocated and at what prices they are exchanged. This relationship forms the backbone of economic analysis, impacting decisions from policy making to personal investments.
@@ -180,4 +182,3 @@ Mankiw, N.G. *Principles of Economics.* This textbook offers a comprehensive int
 Carlin, B.P., Gelfand, A.E., & Smith, A.F. *Hierarchical Bayesian Analysis of Change Point Problems.* This work discusses advanced statistical techniques, particularly focusing on Bayesian analysis. It is particularly relevant for those interested in the quantitative aspects of economics, providing a framework for understanding how structural shifts and changes in data patterns can be identified and analyzed. This resource is crucial for understanding the application of statistical models to economic data, contributing to better forecasting and decision-making in trading and economic planning.
 
 These texts collectively offer a broad and insightful view of economic theory, supply and demand dynamics, and the application of statistical methods in economic analysis, serving both novices and experienced practitioners looking to deepen their understanding of complex economic systems.
-

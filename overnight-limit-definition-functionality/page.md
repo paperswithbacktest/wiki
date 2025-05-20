@@ -1,6 +1,8 @@
 ---
-title: "Overnight Limit: Definition and Functionality (Algo Trading)"
-description: "Explore the concept of banking overnight limits, vital for risk management, financial stability, and their integration into algorithmic trading for market efficiency."
+category: quant_concept
+description: Explore the concept of banking overnight limits, vital for risk management,
+  financial stability, and their integration into algorithmic trading for market efficiency.
+title: 'Overnight Limit: Definition and Functionality (Algo Trading)'
 ---
 
 Understanding the financial parameters that govern banking and trading is essential for effective participation in the market. The mechanisms through which banks and trading entities operate are intricately tied to specific regulations and limits, one of which is the 'banking overnight limit.' This limit represents a crucial control point for daily operations, risk management, and the overall integrity of the financial ecosystem.

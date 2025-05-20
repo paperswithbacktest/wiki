@@ -1,6 +1,9 @@
 ---
-title: "Fundamental Analysis for Financial Traders (Algo Trading)"
-description: "Explore the essentials of fundamental analysis and algorithmic trading for financial markets Discover trading strategies that guide informed investment decisions"
+category: trading_strategy
+description: Explore the essentials of fundamental analysis and algorithmic trading
+  for financial markets Discover trading strategies that guide informed investment
+  decisions
+title: Fundamental Analysis for Financial Traders (Algo Trading)
 ---
 
 Fundamental analysis, trading strategies, and algorithmic trading form the backbone of financial market operations. These components are pivotal in guiding traders and investors towards making informed decisions. Fundamental analysis involves evaluating a company's financial health, which provides an understanding of its intrinsic value. This process aids investors in identifying undervalued stocks, allowing for more strategic asset allocation. Key indicators within fundamental analysis, such as earnings reports, cash flow statements, and industry trends, offer critical insights into a company’s future performance.

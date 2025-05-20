@@ -1,6 +1,8 @@
 ---
-title: "Regulatory arbitrage (Algo Trading)"
-description: "Explore the dynamics of regulatory arbitrage and algorithmic trading and their impact on modern financial markets while balancing innovation with regulations."
+category: quant_concept
+description: Explore the dynamics of regulatory arbitrage and algorithmic trading
+  and their impact on modern financial markets while balancing innovation with regulations.
+title: Regulatory arbitrage (Algo Trading)
 ---
 
 Regulatory arbitrage and algorithmic trading have become integral components of the contemporary financial market landscape. Algorithmic trading leverages computer algorithms to execute trades at speeds and volumes unattainable by human traders. These algorithms analyze market data in real-time, allowing for rapid decision-making and precise trade execution, thus offering significant advantages in terms of market liquidity and price discovery.

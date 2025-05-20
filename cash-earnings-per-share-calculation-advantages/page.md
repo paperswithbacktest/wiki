@@ -1,6 +1,8 @@
 ---
-title: "Cash Earnings Per Share: Calculation and Advantages (Algo Trading)"
-description: "Discover the importance of Cash Earnings Per Share in assessing a company's operational efficiency and financial health, crucial for informed investing decisions."
+category: quant_concept
+description: Discover the importance of Cash Earnings Per Share in assessing a company's
+  operational efficiency and financial health, crucial for informed investing decisions.
+title: 'Cash Earnings Per Share: Calculation and Advantages (Algo Trading)'
 ---
 
 The investing world is marked by numerous metrics and tools aimed at optimizing financial performance. These tools aid investors and financial analysts in interpreting the vast amounts of data that drive stock markets, thereby facilitating more informed decision-making. One such metric, Cash Earnings Per Share (Cash EPS), serves as a pivotal gauge for a company’s financial health. Unlike traditional metrics that may distort a company’s financial picture with non-cash related items, Cash EPS focuses on a company’s operational efficiency by measuring the cash flow generated per share.

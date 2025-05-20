@@ -1,6 +1,8 @@
 ---
-title: "Cuban Peso: Overview, History, and Related Currencies (Algo Trading)"
-description: "Explore the Cuban Peso's history and its role in Cuba's economy amidst evolving global trading landscapes and the impact of algorithmic trading."
+category: quant_concept
+description: Explore the Cuban Peso's history and its role in Cuba's economy amidst
+  evolving global trading landscapes and the impact of algorithmic trading.
+title: 'Cuban Peso: Overview, History, and Related Currencies (Algo Trading)'
 ---
 
 Understanding different currencies and their histories is crucial for grasping the complexities of global economics. Each currency symbolizes a nation's economy, societal values, and political climate, serving as a vital tool for trade and economic stability. Among these currencies, the Cuban Peso (CUP) holds particular significance as the official currency of Cuba. It underpins the country's economic transactions and contributes to the broader financial framework that affects everyday life in Cuba.

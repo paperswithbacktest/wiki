@@ -1,6 +1,15 @@
 ---
-title: "Piotroski F-Score Strategy Explained (Algo Trading)"
-description: The Piotroski F-Score Strategy Explained offers a comprehensive insight into leveraging the Piotroski F-Score for algorithmic trading, ideal for evaluating company health and identifying promising investment opportunities. This scoring system simplifies complex financial data into a 0 to 9 scale by analyzing profitability, leverage, and operational efficiency. The article discusses the strategic application of the F-Score in trading, its risk management benefits, and the validation through backtesting to ensure reliable investment decisions. It highlights how this tool aids in developing robust trading strategies, optimizing portfolio returns while managing risks.
+category: trading_strategy
+description: The Piotroski F-Score Strategy Explained offers a comprehensive insight
+  into leveraging the Piotroski F-Score for algorithmic trading, ideal for evaluating
+  company health and identifying promising investment opportunities. This scoring
+  system simplifies complex financial data into a 0 to 9 scale by analyzing profitability,
+  leverage, and operational efficiency. The article discusses the strategic application
+  of the F-Score in trading, its risk management benefits, and the validation through
+  backtesting to ensure reliable investment decisions. It highlights how this tool
+  aids in developing robust trading strategies, optimizing portfolio returns while
+  managing risks.
+title: Piotroski F-Score Strategy Explained (Algo Trading)
 ---
 
 The Piotroski F-Score is a widely recognized financial analysis tool that plays a pivotal role in algorithmic trading, providing traders with a method to evaluate company health and uncover promising investment opportunities. Created by Professor Joseph Piotroski, this scoring system is grounded in a set of fundamental financial criteria that collectively paint a picture of a company's financial well-being. The F-Score is particularly beneficial as it distills complex financial statements into a simple score ranging from 0 to 9, making it accessible for both novice and experienced traders.

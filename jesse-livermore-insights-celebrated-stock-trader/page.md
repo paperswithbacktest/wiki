@@ -1,6 +1,8 @@
 ---
-title: "Jesse Livermore: Insights from a Celebrated Stock Trader (Algo Trading)"
-description: "Explore the timeless trading strategies of Jesse Livermore a pioneer whose insights into market dynamics remain invaluable for today's algorithmic traders."
+category: trading_strategy
+description: Explore the timeless trading strategies of Jesse Livermore a pioneer
+  whose insights into market dynamics remain invaluable for today's algorithmic traders.
+title: 'Jesse Livermore: Insights from a Celebrated Stock Trader (Algo Trading)'
 ---
 
 In the world of stock trading, legendary figures often provide insights that transcend time and market conditions. Jesse Livermore, a trader from the early 20th century, is one such figure whose strategies and lessons continue to resonate with traders today. Livermore's achievements and failures offer a comprehensive study of market psychology, risk management, and strategic execution. His keen understanding of price movements and market dynamics is especially relevant for contemporary traders operating in the complex landscape of algorithmic trading. 

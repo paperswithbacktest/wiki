@@ -1,6 +1,8 @@
 ---
-title: "Peer Perform: Analysis, Benefits, and Challenges (Algo Trading)"
-description: "Explore the synergy of peer evaluations and algorithmic trading to boost organizational performance. Learn how data-driven insights enhance employee assessments."
+category: quant_concept
+description: Explore the synergy of peer evaluations and algorithmic trading to boost
+  organizational performance. Learn how data-driven insights enhance employee assessments.
+title: 'Peer Perform: Analysis, Benefits, and Challenges (Algo Trading)'
 ---
 
 In today's fast-paced business environment, organizations are continually seeking effective tools and methodologies to enhance performance and productivity. As technology becomes an integral part of operations across industries, a significant area of focus is employee evaluation and development. Modern employee assessment has evolved beyond traditional top-down reviews, with peer evaluation and performance reviews becoming essential components that provide nuanced insights into employee capabilities. Unlike conventional methods, these approaches capture a comprehensive view of an individual's performance by incorporating feedback from colleagues who interact with them daily. This shift facilitates a more inclusive evaluation process that can identify strengths, areas for improvement, and behavioral aspects that might be overlooked by managerial reviews alone.

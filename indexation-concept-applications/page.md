@@ -1,6 +1,8 @@
 ---
-title: "Indexation: Concept and Applications (Algo Trading)"
-description: "Explore the role of indexation in finance and algorithmic trading Gain insights into how it stabilizes economic metrics and enhances investment strategies"
+category: quant_concept
+description: Explore the role of indexation in finance and algorithmic trading Gain
+  insights into how it stabilizes economic metrics and enhances investment strategies
+title: 'Indexation: Concept and Applications (Algo Trading)'
 ---
 
 In finance and economics, indexation plays a crucial role in ensuring stability and fairness across various financial metrics. This systematic adjustment mechanism allows financial values to be modified based on changes in predefined indices, effectively safeguarding against the erosive effects of inflation and other economic shifts. By linking adjustments to indices like the Consumer Price Index (CPI) or the Producer Price Index (PPI), indexation helps maintain the real value of wages, prices, and other economic variables over time.

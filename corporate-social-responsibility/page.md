@@ -1,6 +1,9 @@
 ---
-title: "Corporate Social Responsibility (Algo Trading)"
-description: "Explore how Corporate Social Responsibility and Business Ethics intersect with Algo Trading to ensure sustainable, responsible investment strategies and market integrity."
+category: quant_concept
+description: Explore how Corporate Social Responsibility and Business Ethics intersect
+  with Algo Trading to ensure sustainable, responsible investment strategies and market
+  integrity.
+title: Corporate Social Responsibility (Algo Trading)
 ---
 
 In an era where business operations and ethical considerations are increasingly intertwined, Corporate Social Responsibility (CSR) and Business Ethics have become integral to strategic corporate management. As companies face growing pressure from consumers, investors, and regulatory bodies to act responsibly, these concepts form the foundation for long-term sustainable business practices.

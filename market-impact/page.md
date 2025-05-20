@@ -1,6 +1,15 @@
 ---
-title: "Market impact (Algo Trading)"
-description: Algorithmic trading has revolutionized financial markets by using advanced models and analytics to execute trades at unprecedented speeds and frequencies. A critical aspect of this is understanding market impact, which refers to the effect a trade has on an asset's price. For large-scale investors, managing market impact is essential since their trades can significantly influence market prices, impacting profitability. Effective strategies to mitigate these effects include splitting large orders and leveraging algorithmic systems to minimize visibility and price changes. Traders must consider market liquidity and associated impact costs to optimize their strategies and ensure efficient trading execution.
+category: quant_concept
+description: Algorithmic trading has revolutionized financial markets by using advanced
+  models and analytics to execute trades at unprecedented speeds and frequencies.
+  A critical aspect of this is understanding market impact, which refers to the effect
+  a trade has on an asset's price. For large-scale investors, managing market impact
+  is essential since their trades can significantly influence market prices, impacting
+  profitability. Effective strategies to mitigate these effects include splitting
+  large orders and leveraging algorithmic systems to minimize visibility and price
+  changes. Traders must consider market liquidity and associated impact costs to optimize
+  their strategies and ensure efficient trading execution.
+title: Market impact (Algo Trading)
 ---
 
 Algorithmic trading has transformed financial markets by employing computers and algorithms to execute trading strategies at speeds and frequencies beyond human capability. This method of trading leverages mathematical models and statistical analysis to determine the optimum timing, price, and quantity for trading assets. The primary goal is to maximize returns, minimize costs, and manage risk efficiently.

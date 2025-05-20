@@ -1,6 +1,11 @@
 ---
-title: "Current Ratio: Formula and Examples (Algo Trading)"
-description: "Discover how the current ratio formula offers key financial insights and aids in making informed investment choices. Explore its role in assessing liquidity, guiding algorithmic trading, and evaluating a company's financial health within the context of industry standards. Understanding these financial metrics can enhance trading strategies and provide a competitive edge in dynamic markets."
+category: quant_concept
+description: Discover how the current ratio formula offers key financial insights
+  and aids in making informed investment choices. Explore its role in assessing liquidity,
+  guiding algorithmic trading, and evaluating a company's financial health within
+  the context of industry standards. Understanding these financial metrics can enhance
+  trading strategies and provide a competitive edge in dynamic markets.
+title: 'Current Ratio: Formula and Examples (Algo Trading)'
 ---
 
 In the world of finance and investments, understanding and utilizing accounting ratios is crucial for making informed decisions. These ratios, derived from financial statements, serve as essential tools in evaluating a company's financial health and guiding investment choices. Among these, the current ratio stands out due to its role in assessing a company's liquidity position. By comparing current assets to current liabilities, the current ratio provides insights into a company's ability to meet short-term obligations, a critical factor for investors when evaluating financial stability.

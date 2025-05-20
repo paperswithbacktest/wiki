@@ -1,6 +1,10 @@
 ---
-title: "Dow Jones (Algo Trading)"
-description: Explore the transformative impact of algorithmic trading on the Dow Jones Industrial Average a key U.S. stock market benchmark Discover how sophisticated trading algorithms enhance market efficiency liquidity and decision-making speed while addressing the challenges and risks associated with this digital trading revolution
+category: quant_concept
+description: Explore the transformative impact of algorithmic trading on the Dow Jones
+  Industrial Average a key U.S. stock market benchmark Discover how sophisticated
+  trading algorithms enhance market efficiency liquidity and decision-making speed
+  while addressing the challenges and risks associated with this digital trading revolution
+title: Dow Jones (Algo Trading)
 ---
 
 In the rapidly evolving world of finance, algorithmic trading has become a cornerstone of global markets. This approach leverages sophisticated software and complex mathematical models to execute trades at speeds and volumes unattainable by human traders. It has transformed trading floors globally, significantly impacting how financial markets operate. 

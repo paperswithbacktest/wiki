@@ -1,6 +1,9 @@
 ---
-title: "Dalian Commodity Exchange: Overview and History (Algo Trading)"
-description: "Discover the Dalian Commodity Exchange's role in China's market evolution and the impact of algorithmic trading on efficiency and precision in commodities trading."
+category: quant_concept
+description: Discover the Dalian Commodity Exchange's role in China's market evolution
+  and the impact of algorithmic trading on efficiency and precision in commodities
+  trading.
+title: 'Dalian Commodity Exchange: Overview and History (Algo Trading)'
 ---
 
 Commodities trading is a fundamental component of financial markets worldwide, enabling the buying and selling of raw materials and primary products. In China, the Dalian Commodity Exchange (DCE) has emerged as a pivotal institution within the country's commodities market landscape. Established in 1993, the DCE serves as a major platform for trading futures and options contracts, particularly for key sectors such as agriculture, metals, and chemicals. 

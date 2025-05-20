@@ -1,6 +1,8 @@
 ---
-title: "Foreign Exchange Swap: Mechanism and Types (Algo Trading)"
-description: "Explore the essential role of foreign exchange swaps in managing currency exposure and enhancing global market liquidity with algorithmic trading insights."
+category: quant_concept
+description: Explore the essential role of foreign exchange swaps in managing currency
+  exposure and enhancing global market liquidity with algorithmic trading insights.
+title: 'Foreign Exchange Swap: Mechanism and Types (Algo Trading)'
 ---
 
 Foreign exchange swaps and currency swaps are pivotal financial instruments in the global markets, predominantly used for managing currency exposure and facilitating international transactions. A foreign exchange (FX) swap is a transaction that simultaneously involves the exchange of a specified amount of one currency for another with an agreement to reverse the transaction at a predetermined date in the future. Currency swaps, on the other hand, entail an agreement between two parties to exchange principal and interest payments in different currencies over a specified period.

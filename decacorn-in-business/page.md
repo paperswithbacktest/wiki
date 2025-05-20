@@ -1,6 +1,8 @@
 ---
-title: "Decacorn in Business (Algo Trading)"
-description: "Explore the journey from unicorns to decacorns and the role of algo trading in startups driving innovation, immense valuations, and shaping industry standards."
+category: quant_concept
+description: Explore the journey from unicorns to decacorns and the role of algo trading
+  in startups driving innovation, immense valuations, and shaping industry standards.
+title: Decacorn in Business (Algo Trading)
 ---
 
 In the ever-evolving landscape of startups, the terms 'unicorn' and 'decacorn' have emerged as benchmarks of extraordinary success and valuation. Originating in the venture capital industry, a 'unicorn' is a privately held startup valued at over $1 billion. This term was popularized by venture capitalist Aileen Lee in 2013 to represent the rarity of such successful startups [1]. As the startup ecosystem evolved, the concept of 'decacorns' emerged to describe companies valued over $10 billion, reflecting even more significant achievement and impact.

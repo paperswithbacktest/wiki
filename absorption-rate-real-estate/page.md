@@ -1,6 +1,8 @@
 ---
-title: "Absorption Rate in Real Estate (Algo Trading)"
-description: "Discover how absorption rate, a key real estate metric, integrates with algorithmic trading to enhance market strategies and investment decisions."
+category: quant_concept
+description: Discover how absorption rate, a key real estate metric, integrates with
+  algorithmic trading to enhance market strategies and investment decisions.
+title: Absorption Rate in Real Estate (Algo Trading)
 ---
 
 In the rapidly evolving real estate market, understanding key metrics such as the absorption rate is crucial for stakeholders aiming to make informed decisions. The absorption rate, a metric traditionally used in real estate, has found new significance through its integration into algorithmic trading systems. This article explores this integration and its implications for both industries. 

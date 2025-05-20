@@ -1,6 +1,9 @@
 ---
-title: "Impact of Climate Change on Businesses (Algo Trading)"
-description: "Explore the dynamic impact of climate change on businesses, focusing on sustainability initiatives and the innovative role of algorithmic trading in climate finance."
+category: quant_concept
+description: Explore the dynamic impact of climate change on businesses, focusing
+  on sustainability initiatives and the innovative role of algorithmic trading in
+  climate finance.
+title: Impact of Climate Change on Businesses (Algo Trading)
 ---
 
 Climate change is an undeniable reality that has begun to profoundly affect multiple aspects of life, significantly altering how businesses conduct their operations. As extreme weather events become more frequent and climate patterns evolve, businesses are forced to reconsider their strategies to remain resilient and competitive. One of the primary ways businesses are responding to these challenges is through corporate sustainability initiatives. These initiatives are designed to reduce the environmental footprint of business activities while simultaneously seeking to enhance operational efficiency and profitability.

@@ -1,6 +1,9 @@
 ---
-title: "EDGX Exchange (Algo Trading)"
-description: "Explore the pivotal role of algorithmic trading at the EDGX Exchange enhancing trading efficiency and liquidity through advanced technology and predictive strategies."
+category: quant_concept
+description: Explore the pivotal role of algorithmic trading at the EDGX Exchange
+  enhancing trading efficiency and liquidity through advanced technology and predictive
+  strategies.
+title: EDGX Exchange (Algo Trading)
 ---
 
 In today's fast-paced financial markets, technology is pivotal in enabling and optimizing trading activities. The advent of algorithmic trading, commonly referred to as algo trading, marks a significant advancement in modern trading practices. Utilizing sophisticated computer algorithms, this method automates trading processes, enhancing speed and accuracy in executing trades across various stock exchanges. Among these platforms, the EDGX Exchange stands out as a prominent venue facilitating algorithmic trading, offering robust infrastructure and connectivity to market participants.

@@ -1,6 +1,8 @@
 ---
-title: "Illusion of Control Bias in Investment Returns (Algo Trading)"
-description: "Explore the illusion of control bias in investments and its impact on decision-making Discover strategies to mitigate this bias for better trading outcomes"
+category: quant_concept
+description: Explore the illusion of control bias in investments and its impact on
+  decision-making Discover strategies to mitigate this bias for better trading outcomes
+title: Illusion of Control Bias in Investment Returns (Algo Trading)
 ---
 
 Investing is a dynamic field fraught with uncertainties and complexities, where decisions are often influenced as much by psychological factors as they are by hard data. Understanding cognitive biases, therefore, becomes a critical component of making informed investment decisions. Among the multitude of cognitive biases that can impact investors, the illusion of control is especially significant. This bias involves an overestimation of one's ability to control or influence outcomes that are, in reality, uncertain or driven by market forces beyond individual influence.

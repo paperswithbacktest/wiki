@@ -1,6 +1,8 @@
 ---
-title: "Cost of Goods Sold: Calculation Methods (Algo Trading)"
-description: "Explore COGS in algo trading, understanding its calculation and accounting methods. Enhance business strategies by linking financial metrics with automation."
+category: quant_concept
+description: Explore COGS in algo trading, understanding its calculation and accounting
+  methods. Enhance business strategies by linking financial metrics with automation.
+title: 'Cost of Goods Sold: Calculation Methods (Algo Trading)'
 ---
 
 In an era driven by data and automation, understanding the intricacies of financial metrics such as Cost of Goods Sold (COGS) is crucial for businesses striving to maintain competitive advantage and financial accuracy. COGS represents the direct costs associated with the production of goods sold by a company. This article will cover the calculation of COGS, various inventory accounting methods, and their importance in business operations, including algorithmic trading. By comprehending these financial principles, enterprises can refine decision-making processes and strategic planning.

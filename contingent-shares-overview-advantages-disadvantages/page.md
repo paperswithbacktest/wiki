@@ -1,6 +1,8 @@
 ---
-title: "Contingent Shares: Overview, Advantages, and Disadvantages (Algo Trading)"
-description: "Explore the advantages and disadvantages of contingent shares and algorithmic trading in stock investment Learn how these strategies impact modern finance"
+category: quant_concept
+description: Explore the advantages and disadvantages of contingent shares and algorithmic
+  trading in stock investment Learn how these strategies impact modern finance
+title: 'Contingent Shares: Overview, Advantages, and Disadvantages (Algo Trading)'
 ---
 
 Investing in stocks requires a comprehensive understanding of the various share structures and trading strategies that exist, each presenting its own set of benefits and disadvantages. One such financial instrument, contingent shares, emerges as a pivotal component, especially relevant in scenarios like mergers and acquisitions. These shares are conditional on the achievement of certain targets, acting as both opportunities and potential risks for investors. 

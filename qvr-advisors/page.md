@@ -1,6 +1,8 @@
 ---
-title: "QVR Advisors (Algo Trading)"
-description: "Discover how QVR Advisors leads in algorithmic trading with data-driven strategies and advanced algorithms that optimize market trading efficiency and accuracy."
+category: quant_concept
+description: Discover how QVR Advisors leads in algorithmic trading with data-driven
+  strategies and advanced algorithms that optimize market trading efficiency and accuracy.
+title: QVR Advisors (Algo Trading)
 ---
 
 QVR Advisors stands at the forefront of algorithmic trading, establishing itself as a leading firm in this rapidly evolving sector. Algorithmic trading, which involves using computer algorithms to execute trades at speeds and frequencies beyond human capability, has seen a significant surge in importance within the financial industry. This rise is largely attributed to the need for increased efficiency, accuracy, and the ability to process large volumes of data in real-time, which human traders simply cannot match. 

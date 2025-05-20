@@ -1,6 +1,8 @@
 ---
-title: "Long-Term Capital Management: History and Impact (Algo Trading)"
-description: "Explore the rise and fall of Long-Term Capital Management a hedge fund known for its algorithmic trading strategies and impact on financial risk management."
+category: trading_strategy
+description: Explore the rise and fall of Long-Term Capital Management a hedge fund
+  known for its algorithmic trading strategies and impact on financial risk management.
+title: 'Long-Term Capital Management: History and Impact (Algo Trading)'
 ---
 
 Hedge funds are private investment funds that engage in a diverse range of strategies to earn active returns for their investors. They play a significant role in the financial markets by leveraging pooled capital to invest in a variety of assets, including equities, bonds, commodities, and derivatives. Unlike traditional investment vehicles, hedge funds often pursue aggressive strategies, such as short selling and leveraging, with the aim of generating high returns. They cater primarily to high-net-worth individuals and institutional investors due to the inherent risks and regulatory stipulations.

@@ -1,6 +1,15 @@
 ---
-title: "Central Limit Theorem: Overview and Characteristics (Algo Trading)"
-description: "Explore the significance of the Central Limit Theorem (CLT) in statistics and its applications in algorithmic trading. Understand how the CLT, a key concept in probability theory, aids in making statistical inferences about population parameters using sample data. Discover how this theorem helps traders model returns, assess risks, and develop robust trading strategies by approximating distributions with normal distributions. The article investigates into the mathematical principles of the CLT, the role of probability in statistical analysis, and the practical challenges in algorithmic trading, offering insights into future advancements in this dynamic field."
+category: quant_concept
+description: Explore the significance of the Central Limit Theorem (CLT) in statistics
+  and its applications in algorithmic trading. Understand how the CLT, a key concept
+  in probability theory, aids in making statistical inferences about population parameters
+  using sample data. Discover how this theorem helps traders model returns, assess
+  risks, and develop robust trading strategies by approximating distributions with
+  normal distributions. The article investigates into the mathematical principles
+  of the CLT, the role of probability in statistical analysis, and the practical challenges
+  in algorithmic trading, offering insights into future advancements in this dynamic
+  field.
+title: 'Central Limit Theorem: Overview and Characteristics (Algo Trading)'
 ---
 
 The Central Limit Theorem (CLT) is a fundamental principle in statistics that asserts that the distribution of sample means approximates a normal distribution, regardless of the shape of the original population distribution, given that the sample size is sufficiently large. Mathematically, if $X_1, X_2, \ldots, X_n$ are independent and identically distributed random variables with mean $\mu$ and finite variance $\sigma^2$, then the standardized sum $\frac{\sum_{i=1}^{n} X_i - n\mu}{\sqrt{n\sigma^2}}$ approaches a standard normal distribution as $n$ approaches infinity. This theorem is critical because it enables statisticians to make inferences about population parameters using sample data, which is especially useful when direct measurement of the entire population is impractical.

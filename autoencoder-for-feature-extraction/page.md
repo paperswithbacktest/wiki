@@ -1,6 +1,9 @@
 ---
-title: "Autoencoder for feature extraction (Algo Trading)"
-description: "Optimize trading strategies using autoencoders to extract features from complex financial data enabling accurate predictions and risk assessments in algorithmic trading."
+category: quant_concept
+description: Optimize trading strategies using autoencoders to extract features from
+  complex financial data enabling accurate predictions and risk assessments in algorithmic
+  trading.
+title: Autoencoder for feature extraction (Algo Trading)
 ---
 
 Machine learning has become an integral component of algorithmic trading, offering sophisticated techniques for processing and interpreting vast arrays of financial data. One of the critical challenges in this domain is the extraction and utilization of informative features to drive predictive models. Autoencoders, a type of neural network architecture, have emerged as valuable tools in this context due to their ability to efficiently perform nonlinear dimensionality reduction and manifold learning. These capabilities enable the extraction of essential features from complex datasets, providing deeper insights into the underlying factors that affect market movements.

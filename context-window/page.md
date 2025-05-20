@@ -1,7 +1,8 @@
 ---
-title: Understanding Context Windows in Natural Language Processing
+category: quant_concept
 description: Context Window controls how much data a model processes at once impacting
   prediction accuracy and resource use and costs Discover more inside
+title: Understanding Context Windows in Natural Language Processing
 ---
 
 ![Image](images/1.jpeg)

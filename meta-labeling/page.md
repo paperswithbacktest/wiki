@@ -1,6 +1,14 @@
 ---
-title: "Meta-labeling (Algo Trading)"
-description: Explore the transformative concept of meta-labeling in algorithmic trading which enhances predictive accuracy by building a secondary machine learning model to evaluate primary model outputs. Discover its mechanics through real-world applications and understand the advantages including improved trade precision and risk management. Delve into how meta-labeling helps traders in optimizing strategies by focusing on high-confidence signals while considering potential challenges such as overfitting and complexity. This comprehensive guide provides valuable insights into how meta-labeling is reshaping modern trading strategies.
+category: quant_concept
+description: Explore the transformative concept of meta-labeling in algorithmic trading
+  which enhances predictive accuracy by building a secondary machine learning model
+  to evaluate primary model outputs. Discover its mechanics through real-world applications
+  and understand the advantages including improved trade precision and risk management.
+  Delve into how meta-labeling helps traders in optimizing strategies by focusing
+  on high-confidence signals while considering potential challenges such as overfitting
+  and complexity. This comprehensive guide provides valuable insights into how meta-labeling
+  is reshaping modern trading strategies.
+title: Meta-labeling (Algo Trading)
 ---
 
 The landscape of algorithmic trading has been fundamentally reshaped by the adoption of machine learning methodologies. Amid these advancements, the concept of 'meta-labeling', attributed to Marcos Lopez de Prado, has gained prominence. Meta-labeling introduces a sophisticated layer to machine learning models, offering added depth to traditional trading approaches. This SEO article specifically targets the exploration of meta-labeling within algorithmic trading, focusing on its mechanics, advantages, and constraints. By examining its practical applications and the ongoing discussions it has sparked, we aim to provide a comprehensive perspective on how meta-labeling influences trading strategies today.

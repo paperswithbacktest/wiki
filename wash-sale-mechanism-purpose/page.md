@@ -1,6 +1,13 @@
 ---
-title: "Wash Sale: Mechanism and Purpose (Algo Trading)"
-description: "This page investigates into the wash sale rules vital for optimizing tax strategies in both traditional and algorithmic trading. Discover how these IRS regulations prevent tax deduction on losses from repurchased securities within a 30-day window and their effects on investment strategies. Learn how algorithmic trading further complicates compliance and explore methods to integrate wash sale awareness into trading algorithms. Enhance your understanding through real-world examples and strategic insights for effective tax planning and trading decisions."
+category: quant_concept
+description: This page investigates into the wash sale rules vital for optimizing
+  tax strategies in both traditional and algorithmic trading. Discover how these IRS
+  regulations prevent tax deduction on losses from repurchased securities within a
+  30-day window and their effects on investment strategies. Learn how algorithmic
+  trading further complicates compliance and explore methods to integrate wash sale
+  awareness into trading algorithms. Enhance your understanding through real-world
+  examples and strategic insights for effective tax planning and trading decisions.
+title: 'Wash Sale: Mechanism and Purpose (Algo Trading)'
 ---
 
 Investment strategies have evolved significantly over the years, influenced by market dynamics, technological advancements, and regulatory frameworks. Among these, tax considerations have consistently played a crucial role in shaping the decisions of investors. An essential component of tax strategies involves understanding the wash sale rules, a set of regulations established by the Internal Revenue Service (IRS) to prevent taxpayers from claiming artificial losses on the sale of securities.

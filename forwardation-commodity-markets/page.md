@@ -1,6 +1,8 @@
 ---
-title: "Forwardation in Commodity Markets (Algo Trading)"
-description: "Explore the impact of forwardation and algorithmic trading in commodity markets Learn how these strategies optimize trading and hedge against volatility"
+category: quant_concept
+description: Explore the impact of forwardation and algorithmic trading in commodity
+  markets Learn how these strategies optimize trading and hedge against volatility
+title: Forwardation in Commodity Markets (Algo Trading)
 ---
 
 The commodity market is an essential component of global trade, providing investors with avenues to diversify their portfolios and mitigate risks associated with market volatility. Within this dynamic market, forwardation and algorithmic trading have emerged as foundational elements in contemporary trading strategies. Forwardation, often referred to as contango, is a situation where the futures price of a commodity is higher than its current spot price. This occurs due to the costs associated with holding onto commodities over time, such as storage and insurance, resulting in an upward-sloping forward curve that significantly impacts futures contract pricing.

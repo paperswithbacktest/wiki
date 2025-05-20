@@ -1,6 +1,8 @@
 ---
-title: "Endorsers: Roles and Practices (Algo Trading)"
-description: "Explore how marketing endorsers bridge algorithmic trading technologies with users enhancing market reach through strategic engagement and impactful branding."
+category: quant_concept
+description: Explore how marketing endorsers bridge algorithmic trading technologies
+  with users enhancing market reach through strategic engagement and impactful branding.
+title: 'Endorsers: Roles and Practices (Algo Trading)'
 ---
 
 Algorithmic trading and marketing endorsers represent two distinct yet interconnected areas within the financial markets. The rapid advancements in technology have ushered in a new era where algorithmic trading is not only a domain for large institutions but has also become accessible to individual traders. This access enables them to benefit from automated trading strategies driven by complex algorithms and sophisticated data analysis. Algorithmic trading relies on the use of computer programs to follow a defined set of instructions (an algorithm) to place a trade, aiming for as high a profit as possible at speeds and frequencies that a human trader cannot match. These systems can analyze multiple markets and execute trades at a speed and frequency that are impractical for human traders to duplicate.

@@ -1,6 +1,9 @@
 ---
-title: "Convertible Currency: Definition and Types (Algo Trading)"
-description: "Explore the significance of convertible currencies in global finance and their role in algorithmic trading to enhance liquidity and efficiency in international markets."
+category: quant_concept
+description: Explore the significance of convertible currencies in global finance
+  and their role in algorithmic trading to enhance liquidity and efficiency in international
+  markets.
+title: 'Convertible Currency: Definition and Types (Algo Trading)'
 ---
 
 This article aims to provide a comprehensive overview of various currency types, with a particular focus on convertible currencies and their implications in international finance. Convertible currencies are of great significance in financial markets due to their ability to be traded freely on the global foreign exchange market with minimal restrictions. These currencies play a crucial role in facilitating smooth international trade transactions and providing a reliable store of value, which is essential for maintaining liquidity and stability in the global economy.

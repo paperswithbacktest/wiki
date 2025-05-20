@@ -1,6 +1,9 @@
 ---
-title: "Cross-Currency Settlement Risk and Its Mechanisms (Algo Trading)"
-description: "Explore cross-currency settlement risk and mechanisms in global finance focusing on algorithmic trading's role in risk mitigation through efficient trade execution."
+category: quant_concept
+description: Explore cross-currency settlement risk and mechanisms in global finance
+  focusing on algorithmic trading's role in risk mitigation through efficient trade
+  execution.
+title: Cross-Currency Settlement Risk and Its Mechanisms (Algo Trading)
 ---
 
 In the complex landscape of global finance, cross-currency transactions are integral to facilitating international trade and investment. Multinational corporations and financial institutions frequently engage in these transactions to manage their operations across diverse currencies. This article examines the mechanisms that underpin cross-currency financial settlements, with a focus on the inherent risks and the role of algorithmic trading in mitigating these challenges.

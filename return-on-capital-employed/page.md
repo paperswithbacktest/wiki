@@ -1,6 +1,13 @@
 ---
-title: "Return on Capital Employed (Algo Trading)"
-description: "Discover how Return on Capital Employed combines with algorithmic trading to enhance investment returns. Explore capital efficiency and its critical role in maximizing profits in today’s complex markets. Learn how ROCE measures a company’s ability to generate profits from its capital base and why it stands out as a robust metric for strategic financial decision-making. Understand the dynamics of ROCE across various industries and how algorithmic tools can optimize portfolio performance, offering a sophisticated approach to achieving superior financial outcomes."
+category: trading_strategy
+description: Discover how Return on Capital Employed combines with algorithmic trading
+  to enhance investment returns. Explore capital efficiency and its critical role
+  in maximizing profits in today’s complex markets. Learn how ROCE measures a company’s
+  ability to generate profits from its capital base and why it stands out as a robust
+  metric for strategic financial decision-making. Understand the dynamics of ROCE
+  across various industries and how algorithmic tools can optimize portfolio performance,
+  offering a sophisticated approach to achieving superior financial outcomes.
+title: Return on Capital Employed (Algo Trading)
 ---
 
 In today's fast-paced financial landscape, investors and traders are consistently seeking the best strategies to maximize their returns. The modern marketplace demands an intelligent approach to investing, one that balances efficiency and precision. Two crucial elements emerge in this quest: capital efficiency and algorithmic trading. Capital efficiency refers to the optimal leveraging of funds to generate the highest possible returns. It underscores the importance of making strategic financial decisions to ensure that every dollar employed in investment is working towards the generation of profits.

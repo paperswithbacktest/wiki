@@ -1,6 +1,8 @@
 ---
-title: "Consequences of Stockbroker Bankruptcy (Algo Trading)"
-description: "Learn how a stockbroker's bankruptcy can impact algorithmic trading and discover strategies to mitigate financial risks in today's fast-paced trading environment."
+category: quant_concept
+description: Learn how a stockbroker's bankruptcy can impact algorithmic trading and
+  discover strategies to mitigate financial risks in today's fast-paced trading environment.
+title: Consequences of Stockbroker Bankruptcy (Algo Trading)
 ---
 
 In the rapidly evolving world of finance, technology has profoundly transformed traditional trading methodologies. One of the most significant advancements in this domain is algorithmic trading, also known as algo trading. This innovative approach leverages computer algorithms to execute trades at speeds and efficiencies unattainable by human traders. By automating trading decisions based on pre-set criteria, algo trading enables market participants to reduce transaction costs and quickly capitalize on market fluctuations. Major financial institutions and individual traders alike have embraced this technology to enhance their trading strategies and outcomes.

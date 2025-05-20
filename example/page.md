@@ -1,7 +1,8 @@
 ---
-title: Understanding Machine Learning for Business Operations
+category: quant_concept
 description: Machine Learning helps businesses analyze customer data predict buying
   patterns and refine models for accurate recommendations Discover more inside
+title: Understanding Machine Learning for Business Operations
 ---
 
 ![Image](images/1.png)

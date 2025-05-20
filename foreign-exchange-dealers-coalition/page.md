@@ -1,6 +1,9 @@
 ---
-title: "Foreign Exchange Dealers Coalition (Algo Trading)"
-description: "Discover the impact of the Foreign Exchange Dealers Coalition on the forex industry and the transformative role of algorithmic trading in modernizing market practices."
+category: quant_concept
+description: Discover the impact of the Foreign Exchange Dealers Coalition on the
+  forex industry and the transformative role of algorithmic trading in modernizing
+  market practices.
+title: Foreign Exchange Dealers Coalition (Algo Trading)
 ---
 
 The Foreign Exchange Dealers Coalition (FXDC) emerged as a significant entity in the forex market during its brief existence from 2007 to 2010. Established by the nine largest U.S. foreign exchange dealers, the coalition aimed to influence the regulatory landscape of the forex industry, an imperative step given the rapid evolution and expansion of this global market. As the forex market plays a crucial role in international trade and economic stability, ensuring that its regulatory framework remains robust yet adaptable is essential. The FXDC's formation was a strategic move to pool resources and expertise, advocating for fair and balanced regulations while promoting innovation and sustainability within the industry. This article aims to provide a comprehensive exploration of the coalition's objectives, the impact it had on the forex industry's regulation, and the transformative role algorithmic trading has played in modernizing forex practices. By understanding the FXDC's contributions and the progression of algorithmic trading, readers can grasp the foundational shifts that have shaped today's forex market landscape.

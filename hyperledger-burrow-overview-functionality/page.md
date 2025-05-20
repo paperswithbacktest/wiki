@@ -1,6 +1,8 @@
 ---
-title: "Hyperledger Burrow: Overview and Functionality (Algo Trading)"
-description: "Explore how Hyperledger Burrow enhances algorithmic trading with blockchain integration offering transparency security and efficiency in trade execution."
+category: quant_concept
+description: Explore how Hyperledger Burrow enhances algorithmic trading with blockchain
+  integration offering transparency security and efficiency in trade execution.
+title: 'Hyperledger Burrow: Overview and Functionality (Algo Trading)'
 ---
 
 The intersection of blockchain technology and financial trading is an area of growing interest and importance, as both fields undergo rapid evolution and adoption. Blockchain technology, with its decentralized and immutable ledger system, provides unparalleled transparency and security in digital transactions, making it an attractive innovation for multiple industries, particularly finance. One compelling project in this space is Hyperledger Burrow, a modular blockchain client that highlights the integration of blockchain in executing smart contracts. These smart contracts are self-executing agreements with the terms of the contract directly written into code, offering the ability to automate and streamline complex processes with efficiency and accuracy.

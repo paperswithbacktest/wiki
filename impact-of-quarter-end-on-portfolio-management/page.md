@@ -1,6 +1,9 @@
 ---
-title: "Impact of Quarter-End on Portfolio Management (Algo Trading)"
-description: "Quarter-end impacts portfolio management by providing a strategic period for assessing investments. Algorithmic trading exploits this data-rich time to optimize outcomes."
+category: trading_strategy
+description: Quarter-end impacts portfolio management by providing a strategic period
+  for assessing investments. Algorithmic trading exploits this data-rich time to optimize
+  outcomes.
+title: Impact of Quarter-End on Portfolio Management (Algo Trading)
 ---
 
 Quarter-end portfolio management represents a critical focus area for both individual and institutional investors, providing a structured opportunity for assessment and adjustment of investment strategies. The conclusion of a financial quarter is a period dense with financial disclosures, as companies release quarterly earnings reports that significantly influence market sentiment and investor decisions. These reports offer a detailed insight into a company's performance over the preceding three months, allowing investors to evaluate progress, realign strategies, and rebalance portfolios based on updated data and performance targets.
@@ -269,4 +272,3 @@ data['positions'] = data['signal'].diff()
 ```
 
 **Further Learning Resources**: The [Financial Industry Regulatory Authority (FINRA)](https://www.finra.org/) provides guidelines and educational materials on regulatory practices affecting end-of-quarter trading activities. Additionally, resources such as the CFA Institute's publications offer insights into risk management and investment strategy adjustments necessary during these critical financial periods.
-

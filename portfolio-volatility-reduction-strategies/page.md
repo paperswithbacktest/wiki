@@ -1,6 +1,8 @@
 ---
-title: "Portfolio Volatility Reduction Strategies (Algo Trading)"
-description: "Explore effective strategies to manage portfolio volatility using algorithmic trading Learn how algorithms help minimize risk and enhance trading efficiency"
+category: trading_strategy
+description: Explore effective strategies to manage portfolio volatility using algorithmic
+  trading Learn how algorithms help minimize risk and enhance trading efficiency
+title: Portfolio Volatility Reduction Strategies (Algo Trading)
 ---
 
 Investment volatility is a key concern for investors navigating the complex financial markets. It represents the degree of variation in the price of a financial instrument over time and is often seen as a proxy for risk. Managing volatility risk is essential in ensuring the achievement of long-term investment goals. If not properly managed, high volatility can lead to unpredictable and significant losses, potentially derailing even the most well-structured investment plans. 

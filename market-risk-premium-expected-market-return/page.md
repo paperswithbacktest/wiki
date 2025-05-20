@@ -1,6 +1,9 @@
 ---
-title: "Market Risk Premium and Expected Market Return (Algo Trading)"
-description: "Explore the essential roles of market risk premium and expected market return in algorithmic trading to optimize strategies and manage financial risks effectively."
+category: quant_concept
+description: Explore the essential roles of market risk premium and expected market
+  return in algorithmic trading to optimize strategies and manage financial risks
+  effectively.
+title: Market Risk Premium and Expected Market Return (Algo Trading)
 ---
 
 In the world of finance, understanding the expected market return and market risk premium is crucial, especially when engaging in algorithmic trading. These concepts are foundational for investors seeking to evaluate potential investment opportunities and manage risk effectively. The expected market return refers to the profit or loss an investor anticipates from an investment relative to a benchmark index, considering historical performance data. It acts as a guide to project future market behavior, although it remains speculative and subject to various market dynamics.

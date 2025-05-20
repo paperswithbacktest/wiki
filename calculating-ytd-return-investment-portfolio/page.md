@@ -1,6 +1,9 @@
 ---
-title: "Calculating Year-to-Date Return on Investment Portfolio (Algo Trading)"
-description: "Explore calculating year-to-date ROI on investment portfolios, learn how algorithmic trading enhances performance, and master techniques for optimal outcomes."
+category: trading_strategy
+description: Explore calculating year-to-date ROI on investment portfolios, learn
+  how algorithmic trading enhances performance, and master techniques for optimal
+  outcomes.
+title: Calculating Year-to-Date Return on Investment Portfolio (Algo Trading)
 ---
 
 In the world of finance, understanding how to measure and optimize investment portfolio returns is crucial. This article examines year-to-date (YTD) return calculations, their financial implications, and the role of algorithmic trading in enhancing portfolio performance. YTD returns provide investors with insights into the performance of their investments from the beginning of the calendar year to the current date. This metric is vital in evaluating how an investment stacks up against market benchmarks and informs decision-making processes.

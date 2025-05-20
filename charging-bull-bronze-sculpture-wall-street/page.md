@@ -1,6 +1,9 @@
 ---
-title: "Charging Bull: Bronze Sculpture on Wall Street (Algo Trading)"
-description: "Explore the Charging Bull sculpture on Wall Street embodying financial optimism and perseverance amidst a world influenced by technology and algorithmic trading."
+category: quant_concept
+description: Explore the Charging Bull sculpture on Wall Street embodying financial
+  optimism and perseverance amidst a world influenced by technology and algorithmic
+  trading.
+title: 'Charging Bull: Bronze Sculpture on Wall Street (Algo Trading)'
 ---
 
 The Charging Bull, also known as the Wall Street Bull, stands as a prominent bronze sculpture situated in the heart of New York City's Financial District. Crafted by artist Arturo Di Modica, this iconic piece transcends its status as mere art, embodying the aggressive spirit and enduring optimism associated with Wall Street. The Bull's powerful symbolism aligns closely with financial markets, particularly bull markets, which characterize periods of strong economic growth and investor confidence. 

@@ -1,6 +1,8 @@
 ---
-title: "TriOptima (Financial Services) (Algo Trading)"
-description: "TriOptima leads in post-trade risk management for OTC derivatives, enabling firms to navigate regulatory requirements and enhance capital efficiency."
+category: quant_concept
+description: TriOptima leads in post-trade risk management for OTC derivatives, enabling
+  firms to navigate regulatory requirements and enhance capital efficiency.
+title: TriOptima (Financial Services) (Algo Trading)
 ---
 
 Financial risk management is an essential element for institutions engaged in intricate transactions within the financial sector. It involves identifying, assessing, and controlling threats to an organization's capital and earnings. The complexity of this task is amplified by the vast array of transactions and financial instruments entities deal with daily. Among these instruments, derivatives stand out for their significant role in contemporary finance. Derivatives are financial contracts whose value is derived from underlying assets like stocks, bonds, and commodities. They offer substantial tools for risk mitigation by allowing institutions to hedge against potential losses in asset portfolios.

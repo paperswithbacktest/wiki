@@ -1,6 +1,9 @@
 ---
-title: "Impact of Balance of Trade on GDP (Algo Trading)"
-description: "Explore how the balance of trade influences GDP and its significance for algorithmic trading providing essential insights for traders and economists alike."
+category: quant_concept
+description: Explore how the balance of trade influences GDP and its significance
+  for algorithmic trading providing essential insights for traders and economists
+  alike.
+title: Impact of Balance of Trade on GDP (Algo Trading)
 ---
 
 The intricate relationship between a nation's economic performance and its trading activities is crucial in shaping global economics. This relationship is underscored by indices such as Gross Domestic Product (GDP) and the balance of trade, both of which serve as key indicators in assessing a country's economic health and its position in the global market. Understanding these economic parameters is essential not only for policymakers and economists but also for investors engaged in algorithmic trading, where rapid analysis of economic data can offer competitive advantages.

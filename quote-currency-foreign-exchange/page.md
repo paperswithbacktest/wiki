@@ -1,6 +1,9 @@
 ---
-title: "Quote Currency in Foreign Exchange (Algo Trading)"
-description: "Explore the crucial role of quote currency in forex trading and how algorithmic trading enhances market efficiency. Discover the dynamics of currency pairs and their impact on trading strategies in the ever-evolving realm of global finance."
+category: quant_concept
+description: Explore the crucial role of quote currency in forex trading and how algorithmic
+  trading enhances market efficiency. Discover the dynamics of currency pairs and
+  their impact on trading strategies in the ever-evolving realm of global finance.
+title: Quote Currency in Foreign Exchange (Algo Trading)
 ---
 
 The world of finance is a complex and multifaceted domain, with the foreign exchange (forex) market being one of its most significant components. The forex market is renowned as the largest and most actively traded financial arena, operating 24 hours a day and involving a vast array of participants, from central banks to individual retail investors. A fundamental aspect of forex trading is understanding currency pairs, which consist of two currencies: the base currency and the quote currency. The quote currency, also known as the counter currency, is crucial in these pairs as it indicates how much of this currency is required to purchase one unit of the base currency.

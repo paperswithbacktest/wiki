@@ -1,6 +1,8 @@
 ---
-title: "Secured Bonds in Fixed Income: Overview and Examples (Algo Trading)"
-description: "Discover the transformative role of algorithmic trading in secured bonds within fixed income Learn about bond types and how they impact market dynamics "
+category: quant_concept
+description: 'Discover the transformative role of algorithmic trading in secured bonds
+  within fixed income Learn about bond types and how they impact market dynamics '
+title: 'Secured Bonds in Fixed Income: Overview and Examples (Algo Trading)'
 ---
 
 Fixed-income investments are an essential component of financial markets, providing investors with stable returns derived predominantly from interest payments. These investments help balance portfolios by mitigating risk through a predictable income stream. A quintessential example of fixed-income securities is bonds, which are typically perceived as safer investment avenues compared to equities due to their structured payment schedules and defined maturities.

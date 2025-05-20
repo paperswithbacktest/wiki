@@ -1,6 +1,9 @@
 ---
-title: "European Terms: Definition and Examples (Algo Trading)"
-description: "Explore the intricacies of European terms and algorithmic trading to enhance your understanding of forex markets and optimize trading strategies with expert insights."
+category: quant_concept
+description: Explore the intricacies of European terms and algorithmic trading to
+  enhance your understanding of forex markets and optimize trading strategies with
+  expert insights.
+title: 'European Terms: Definition and Examples (Algo Trading)'
 ---
 
 In the rapidly evolving world of finance, understanding terminology is crucial for effective trading and investment decisions. The landscape of financial markets, especially in foreign exchange (forex) and algorithmic trading, is complex and highly technical. Navigating this environment requires clarity and a firm grasp of specialized concepts, particularly in relation to European foreign exchange rates and the mechanisms of algo trading.

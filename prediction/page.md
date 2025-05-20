@@ -1,10 +1,9 @@
 ---
-title: Prediction in Machine Learning Explained With Key Techniques
+category: quant_concept
 description: Machine learning prediction demystifies concepts, algorithms, evaluation
   and advanced techniques so you can apply reliable forecasting Discover more inside
+title: Prediction in Machine Learning Explained With Key Techniques
 ---
-
-
 
 ## Table of Contents
 

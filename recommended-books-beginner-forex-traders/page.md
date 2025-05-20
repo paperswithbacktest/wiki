@@ -1,6 +1,11 @@
 ---
-title: "Recommended Books for Beginner Forex Traders (Algo Trading)"
-description: "Discover essential resources for beginner forex traders with a focus on algorithmic trading. This guide explores key books and trading strategies, providing foundational market knowledge and insights into leveraging technology for better trading outcomes. Perfect for novices and those interested in advancing their trading skills."
+category: trading_strategy
+description: Discover essential resources for beginner forex traders with a focus
+  on algorithmic trading. This guide explores key books and trading strategies, providing
+  foundational market knowledge and insights into leveraging technology for better
+  trading outcomes. Perfect for novices and those interested in advancing their trading
+  skills.
+title: Recommended Books for Beginner Forex Traders (Algo Trading)
 ---
 
 In today's fast-paced financial world, trading has become an essential skill for investors seeking to maximize their returns. With numerous financial markets available for trading, forex trading, in particular, stands out due to its significant potential for profitability and accessibility to individual investors. The forex market operates 24 hours a day, enabling traders to engage in buying and selling foreign currencies globally. Its high liquidity and leverage options make it an attractive choice for those looking to capitalize on currency price fluctuations.

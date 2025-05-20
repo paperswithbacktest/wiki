@@ -1,6 +1,8 @@
 ---
-title: "Berry Ratio: Analysis and Applications (Algo Trading)"
-description: "Explore the Berry Ratio's evolving role in financial analysis and algorithmic trading, enhancing decision-making by evaluating profitability through precise metrics."
+category: quant_concept
+description: Explore the Berry Ratio's evolving role in financial analysis and algorithmic
+  trading, enhancing decision-making by evaluating profitability through precise metrics.
+title: 'Berry Ratio: Analysis and Applications (Algo Trading)'
 ---
 
 The world of financial analysis is evolving continuously, driven by the desire to fine-tune methodologies and metrics that capture an entity's profitability and operational performance. Among the metrics garnering increasing attention is the Berry Ratio. This financial ratio, rooted in the complexities of transfer pricing, evaluates a company's gross profit against its operating expenses, thereby offering insights into its value-adding capabilities. Recent developments in financial analysis have expanded the Berry Ratio's use beyond its original context, notably finding applications in algorithmic trading, a sector that relies heavily on precise metrics to inform decision-making processes.

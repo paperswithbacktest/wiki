@@ -1,6 +1,8 @@
 ---
-title: "Perseroan Terbatas: Overview and Types (Algo Trading)"
-description: "Explore the types and benefits of Perseroan Terbatas structures in Indonesia for algorithmic trading firms ensuring legal compliance and market efficiency."
+category: quant_concept
+description: Explore the types and benefits of Perseroan Terbatas structures in Indonesia
+  for algorithmic trading firms ensuring legal compliance and market efficiency.
+title: 'Perseroan Terbatas: Overview and Types (Algo Trading)'
 ---
 
 Algorithmic trading, also known as algo trading, represents a significant advancement in financial markets. It involves the use of sophisticated algorithms to automate the trading process, allowing trades to be executed at speeds and volumes that far exceed human capabilities. This method is gaining traction for its ability to implement complex trading strategies with precision and efficiency. The integration of technology and finance in this way is revolutionizing how trades are conducted across global markets.

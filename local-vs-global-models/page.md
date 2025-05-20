@@ -1,6 +1,8 @@
 ---
-title: "Local vs. Global Models (Algo Trading)"
-description: "Explore the differences between local and global models in algorithmic trading Discover how each model can optimize your trading strategies and decisions"
+category: trading_strategy
+description: Explore the differences between local and global models in algorithmic
+  trading Discover how each model can optimize your trading strategies and decisions
+title: Local vs. Global Models (Algo Trading)
 ---
 
 Algorithmic trading, commonly referred to as algo trading, is the process of using computer algorithms to perform trading tasks. These tasks range from deciding what stocks to buy or sell to determining the precise timing and execution of trades. By relying on sophisticated algorithms, market participants can execute trades at speeds and frequencies that human traders cannot match, thus gaining a competitive edge. One central decision facing practitioners of algo trading is the choice between utilizing local models or global models. This decision impacts not only the design and execution of trading strategies but also determines the dataset that algorithms will prioritize.

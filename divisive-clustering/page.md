@@ -1,7 +1,8 @@
 ---
-title: Divisive Clustering Explained for Hierarchical Machine Learning
+category: quant_concept
 description: Divisive clustering uncovers hierarchical data patterns using dendrogram
   analysis and silhouette scoring to determine optimal splits Discover more inside
+title: Divisive Clustering Explained for Hierarchical Machine Learning
 ---
 
 ![Image](images/1.png)

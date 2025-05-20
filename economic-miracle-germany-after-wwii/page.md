@@ -1,6 +1,9 @@
 ---
-title: "Economic Miracle in Germany After World War II (Algo Trading)"
-description: "Discover the pivotal strategies and technological innovations behind Germany's post-WWII economic miracle and its ongoing evolution with algorithmic trading."
+category: quant_concept
+description: Discover the pivotal strategies and technological innovations behind
+  Germany's post-WWII economic miracle and its ongoing evolution with algorithmic
+  trading.
+title: Economic Miracle in Germany After World War II (Algo Trading)
 ---
 
 The post-World War II period marked a pivotal era of economic transformation for Germany. Emerging from the profound devastation caused by the war, Germany's rapid recovery and subsequent growth have often been termed the 'German economic miracle', or Wirtschaftswunder. This phenomenon was characterized by a series of strategic economic initiatives that propelled the nation from the brink of collapse to becoming one of the world’s leading economies.

@@ -1,6 +1,8 @@
 ---
-title: "Capital Appreciation: Concepts and Types (Algo Trading)"
-description: "Explore the essentials of capital appreciation and algorithmic trading in investment growth Learn how these concepts shape strategies for informed decisions"
+category: quant_concept
+description: Explore the essentials of capital appreciation and algorithmic trading
+  in investment growth Learn how these concepts shape strategies for informed decisions
+title: 'Capital Appreciation: Concepts and Types (Algo Trading)'
 ---
 
 In the complex world of finance, grasping concepts such as investment growth, capital appreciation, and algorithmic trading is essential for making informed investment decisions. Each of these elements plays a significant role in shaping investor strategies and can have a profound effect on investment outcomes.

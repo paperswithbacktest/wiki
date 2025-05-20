@@ -1,6 +1,8 @@
 ---
-title: "Identifying Financial Distress Through Financial Ratios (Algo Trading)"
-description: "Explore how financial ratios help identify financial distress in companies. Learn to leverage these tools with algorithmic trading to enhance investment strategies."
+category: quant_concept
+description: Explore how financial ratios help identify financial distress in companies.
+  Learn to leverage these tools with algorithmic trading to enhance investment strategies.
+title: Identifying Financial Distress Through Financial Ratios (Algo Trading)
 ---
 
 Financial ratios are fundamental tools utilized to assess the financial health of companies. By providing quantifiable metrics from financial statements, these ratios allow analysts and investors to decode a company’s financial stability, profitability, and operational efficiency. Ratios such as liquidity, profitability, solvency, and cash flow offer snapshots of various aspects of a company's economic performance, empowering stakeholders to make informed decisions and identify potential signs of financial distress early.

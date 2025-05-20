@@ -1,6 +1,8 @@
 ---
-title: "Statutory Liability (Algo Trading)"
-description: "Explore statutory liability in algorithmic trading with insights on legal challenges and regulatory oversight to ensure compliance and risk management."
+category: quant_concept
+description: Explore statutory liability in algorithmic trading with insights on legal
+  challenges and regulatory oversight to ensure compliance and risk management.
+title: Statutory Liability (Algo Trading)
 ---
 
 Algorithmic trading, often referred to as algo trading, represents a transformative innovation in financial markets. It facilitates the execution of trades with unprecedented speed and precision, primarily through the use of complex algorithms and automated systems. This efficiency allows traders to capitalize on market opportunities within fractions of a second, something manual trading cannot achieve.

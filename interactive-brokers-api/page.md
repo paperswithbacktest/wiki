@@ -1,9 +1,11 @@
 ---
-title: "Interactive Brokers API: The Ultimate Guide"
-description: Discover the power of Interactive Brokers APIs for trading automation and data access. Learn about the Client Portal RESTful API, TWS API, and FIX protocol in this comprehensive guide. Get started with account creation, software downloads, and IDE setup.
+category: dataset
+description: Discover the power of Interactive Brokers APIs for trading automation
+  and data access. Learn about the Client Portal RESTful API, TWS API, and FIX protocol
+  in this comprehensive guide. Get started with account creation, software downloads,
+  and IDE setup.
+title: 'Interactive Brokers API: The Ultimate Guide'
 ---
-
-
 
 Application Programming Interfaces (APIs) stand as powerful tools that bridge the gap between software applications, enabling them to communicate, share data, and function in a synchronized manner. Essentially, APIs act as messengers, taking a request from one system and ensuring the other system receives and acts upon it. They play a pivotal role in modern trading by automating trades, fetching real-time market data, and executing complex trading strategies.
 

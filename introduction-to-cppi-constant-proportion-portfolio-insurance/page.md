@@ -1,6 +1,13 @@
 ---
-title: "Introduction to CPPI Methodology"
-description: Discover the fundamentals of Constant Proportion Portfolio Insurance (CPPI) methodology, a strategy that balances protection and growth by dynamically adjusting asset allocations. This approach safeguards portfolio value with a predefined floor while optimizing exposure to risky assets. Explore the mechanics of CPPI, its applications, and variations like Maximum Drawdown and Cap Extensions for enhanced risk management. Learn how CPPI adapts to market conditions, offering a stable investment framework with the potential for capital preservation and growth.
+category: trading_strategy
+description: Discover the fundamentals of Constant Proportion Portfolio Insurance
+  (CPPI) methodology, a strategy that balances protection and growth by dynamically
+  adjusting asset allocations. This approach safeguards portfolio value with a predefined
+  floor while optimizing exposure to risky assets. Explore the mechanics of CPPI,
+  its applications, and variations like Maximum Drawdown and Cap Extensions for enhanced
+  risk management. Learn how CPPI adapts to market conditions, offering a stable investment
+  framework with the potential for capital preservation and growth.
+title: Introduction to CPPI Methodology
 ---
 
 Constant Proportion Portfolio Insurance (CPPI) is a strategic approach frequently employed in algorithmic trading aimed at harmonizing the dual objectives of safeguarding portfolio value against downside risks while capturing growth potential in upward-moving markets. This investment strategy manages the delicate balance between risk and safety by actively adjusting the composition of a portfolio across safe and risky assets.

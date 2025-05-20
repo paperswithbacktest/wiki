@@ -1,6 +1,14 @@
 ---
-title: "App Usage Alternative Data (Algo Trading)"
-description: Explore the impact of app usage alternative data in algorithmic trading, offering traders innovative insights into consumer behavior and market trends. This advanced data can enhance market predictions and strategy precision, providing a competitive edge. By analyzing real-time app interactions, investors can anticipate shifts before traditional indicators reveal them, improving decision-making. Uncover the potential of app usage data in transforming trading strategies and the challenges it poses, as technology continues to shape the future of financial analysis. Discover key data providers delivering essential insights for informed trading strategies.
+category: dataset
+description: Explore the impact of app usage alternative data in algorithmic trading,
+  offering traders innovative insights into consumer behavior and market trends. This
+  advanced data can enhance market predictions and strategy precision, providing a
+  competitive edge. By analyzing real-time app interactions, investors can anticipate
+  shifts before traditional indicators reveal them, improving decision-making. Uncover
+  the potential of app usage data in transforming trading strategies and the challenges
+  it poses, as technology continues to shape the future of financial analysis. Discover
+  key data providers delivering essential insights for informed trading strategies.
+title: App Usage Alternative Data (Algo Trading)
 ---
 
 In the fast-paced world of algorithmic trading, gaining a competitive edge is paramount. Traders are continuously on the lookout for innovative approaches to enhance the precision and profitability of their strategies. Traditionally, financial reports and economic indicators have served as the primary sources of information driving trading decisions. However, as technology advances and markets become more intricate, these conventional data sources are increasingly complemented by alternative data.

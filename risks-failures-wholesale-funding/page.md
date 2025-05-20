@@ -1,6 +1,9 @@
 ---
-title: "Risks and Failures of Wholesale Funding (Algo Trading)"
-description: "Explore the risks and failures associated with wholesale funding and algorithmic trading in banking Uncover key insights into financial risk management strategies"
+category: trading_strategy
+description: Explore the risks and failures associated with wholesale funding and
+  algorithmic trading in banking Uncover key insights into financial risk management
+  strategies
+title: Risks and Failures of Wholesale Funding (Algo Trading)
 ---
 
 Financial risk management is a fundamental aspect of banking, particularly in the context of wholesale funding and algorithmic trading. These elements have become integral to modern banking operations, offering both opportunities and challenges to financial institutions.

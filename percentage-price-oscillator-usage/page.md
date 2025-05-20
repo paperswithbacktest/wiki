@@ -1,6 +1,9 @@
 ---
-title: "Percentage Price Oscillator Usage (Algo Trading)"
-description: "Explore the dynamic role of the Percentage Price Oscillator in algorithmic trading Learn how to use this momentum indicator for strategic market insights and decisions"
+category: trading_strategy
+description: Explore the dynamic role of the Percentage Price Oscillator in algorithmic
+  trading Learn how to use this momentum indicator for strategic market insights and
+  decisions
+title: Percentage Price Oscillator Usage (Algo Trading)
 ---
 
 The field of technical analysis encompasses a variety of indicators and tools used by traders to predict market movements and make informed trading decisions. Among these tools, the Percentage Price Oscillator (PPO) stands out as a momentum indicator that traders use to gauge price trends and make strategic decisions. 

@@ -1,6 +1,9 @@
 ---
-title: "Currency Exchange Overview and Locations (Algo Trading)"
-description: "Discover the complexities of currency exchange and the growing role of algorithmic trading in the forex market Learn strategies to enhance international transactions"
+category: quant_concept
+description: Discover the complexities of currency exchange and the growing role of
+  algorithmic trading in the forex market Learn strategies to enhance international
+  transactions
+title: Currency Exchange Overview and Locations (Algo Trading)
 ---
 
 The foreign exchange market, commonly known as Forex or FX, is a formidable component of the global financial landscape. With a daily turnover surpassing $6 trillion, it stands as one of the most dynamic and largest financial markets globally. The market's volatility and volume underscore the significance of understanding key elements such as foreign exchange, currency conversion, and algorithmic trading for both individuals and businesses engaged in international transactions. 

@@ -1,6 +1,13 @@
 ---
-title: "Inside Day Trading Strategy Explained (Algo Trading)"
-description: Learn about inside day trading strategies in the context of algo trading and how these patterns can signify market consolidation and potential breakouts. This article explains the significance of inside day patterns, their comparison with outside days, and methods to leverage them for profitable trading strategies using algorithmic tools. Gain insights into analyzing historical data to predict market movements and effectively incorporate these techniques into your trading practices for optimized outcomes.
+category: trading_strategy
+description: Learn about inside day trading strategies in the context of algo trading
+  and how these patterns can signify market consolidation and potential breakouts.
+  This article explains the significance of inside day patterns, their comparison
+  with outside days, and methods to leverage them for profitable trading strategies
+  using algorithmic tools. Gain insights into analyzing historical data to predict
+  market movements and effectively incorporate these techniques into your trading
+  practices for optimized outcomes.
+title: Inside Day Trading Strategy Explained (Algo Trading)
 ---
 
 Inside day patterns are a frequent occurrence in financial markets, especially in algorithmic trading, where traders seek to exploit even the smallest market fluctuations. In trading terminology, an inside day pattern is characterized by a day's trading range that is entirely within the previous day's range. This subtle market movement can serve as an indicator of market indecision and often precedes significant market shifts. Algorithmic traders, who employ computer programs to execute trades at optimal speed and efficiency, are keenly interested in such patterns as potential precursors of profitable market moves.

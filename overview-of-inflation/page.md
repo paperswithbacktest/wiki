@@ -1,6 +1,9 @@
 ---
-title: "Overview of Inflation (Algo Trading)"
-description: "Explore the intricate link between inflation and algorithmic trading Understand how economic trends influence market dynamics and strategic financial planning"
+category: quant_concept
+description: Explore the intricate link between inflation and algorithmic trading
+  Understand how economic trends influence market dynamics and strategic financial
+  planning
+title: Overview of Inflation (Algo Trading)
 ---
 
 In today's rapidly evolving financial landscape, understanding the interplay between economic concepts such as inflation, price increases, and algorithmic trading is crucial. These elements are not isolated phenomena but are interconnected, influencing the dynamics of financial markets and dictating economic strategies worldwide. As inflation reflects the sustained rise in the overall price level of goods and services, it inherently affects purchasing power, consumer behavior, and ultimately, economic decisions both at the macro and microeconomic levels.
@@ -167,4 +170,3 @@ As financial markets continue to evolve, integrating advanced technologies with 
    - **The Federal Reserve Economic Data (FRED)**: A comprehensive database that provides access to key economic data, including inflation rates, GDP, and other significant indicators used by traders and policymakers to make informed decisions.
 
 These resources collectively offer valuable knowledge for understanding the complex relationships between economic factors and algorithmic trading strategies, providing a strong foundation for further study and application in real-world scenarios.
-

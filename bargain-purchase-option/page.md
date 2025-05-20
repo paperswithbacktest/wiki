@@ -1,6 +1,9 @@
 ---
-title: "Bargain Purchase Option (Algo Trading)"
-description: "Explore bargain purchase options in lease agreements and their role in algorithmic trading Discover how these strategies enhance decision-making and asset acquisition"
+category: quant_concept
+description: Explore bargain purchase options in lease agreements and their role in
+  algorithmic trading Discover how these strategies enhance decision-making and asset
+  acquisition
+title: Bargain Purchase Option (Algo Trading)
 ---
 
 In the ever-evolving financial landscape, understanding key concepts like financial contracts and lease agreements is crucial. This article explores the intricate world of financial contracts, focusing on bargain purchase options within lease agreements and their connection with algorithmic trading.

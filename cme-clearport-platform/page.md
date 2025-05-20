@@ -1,6 +1,9 @@
 ---
-title: "CME ClearPort Platform (Algo Trading)"
-description: "CME Group ClearPort enhances futures trading by offering a centralized clearing mechanism for OTC transactions, boosting security and optimizing trade execution."
+category: quant_concept
+description: CME Group ClearPort enhances futures trading by offering a centralized
+  clearing mechanism for OTC transactions, boosting security and optimizing trade
+  execution.
+title: CME ClearPort Platform (Algo Trading)
 ---
 
 In the ever-evolving world of finance, futures trading stands as a pivotal component of market activities, allowing participants to hedge against market volatility and speculate on price movements. CME Group ClearPort, a leading platform in this domain, acts as a critical hub for managing and clearing over-the-counter (OTC) transactions. It offers comprehensive services for mitigating counterparty credit risks, thereby enhancing the security and reliability of trades.

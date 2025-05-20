@@ -1,6 +1,12 @@
 ---
-title: "Options Trading Guide (Algo Trading)"
-description: "Discover the essentials of options trading and the impact of algorithmic tools in this comprehensive guide. Explore versatile strategies for profitable trading in varying market conditions using options to manage risk and maximize returns. Learn how algorithmic trading enhances precision and efficiency in options trading, opening new avenues for traders to optimize their strategies and achieve improved outcomes."
+category: trading_strategy
+description: Discover the essentials of options trading and the impact of algorithmic
+  tools in this comprehensive guide. Explore versatile strategies for profitable trading
+  in varying market conditions using options to manage risk and maximize returns.
+  Learn how algorithmic trading enhances precision and efficiency in options trading,
+  opening new avenues for traders to optimize their strategies and achieve improved
+  outcomes.
+title: Options Trading Guide (Algo Trading)
 ---
 
 Financial derivatives, particularly options, play an essential role in contemporary trading strategies by offering opportunities for profit generation and risk management. Options trading is distinct due to its ability to provide strategies that can be applied in various market conditions, whether the market is rising or falling. This versatility enables traders to not only pursue substantial gains but also to protect against potential losses. 

@@ -1,7 +1,8 @@
 ---
-title: Video Sampling Techniques for Effective Machine Learning Training
+category: quant_concept
 description: Video sampling optimizes model training by selecting key frames and applying
   temporal jittering to boost accuracy and efficiency Discover more inside.
+title: Video Sampling Techniques for Effective Machine Learning Training
 ---
 
 ![Image](images/1.png)

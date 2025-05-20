@@ -1,6 +1,14 @@
 ---
-title: "Data curators (Algo Trading)"
-description: Explore the critical role of data curators in the dynamic field of algorithmic trading where precise data management is essential for executing successful trades. This article investigates into how data curators gather clean and organize vast datasets ensuring integrity and accessibility. We also examine the impact of machine learning on enhancing data curation practices and improving trading decisions through advanced anomaly detection techniques. Learn about the tools and techniques employed by data curators to maintain high-quality data and explore the future challenges within the evolving landscape of algotrading.
+category: dataset
+description: Explore the critical role of data curators in the dynamic field of algorithmic
+  trading where precise data management is essential for executing successful trades.
+  This article investigates into how data curators gather clean and organize vast
+  datasets ensuring integrity and accessibility. We also examine the impact of machine
+  learning on enhancing data curation practices and improving trading decisions through
+  advanced anomaly detection techniques. Learn about the tools and techniques employed
+  by data curators to maintain high-quality data and explore the future challenges
+  within the evolving landscape of algotrading.
+title: Data curators (Algo Trading)
 ---
 
 Algorithmic trading, also known as algotrading, represents a paradigm shift in financial markets, transforming how trades are executed and strategies are formulated. At its core, algorithmic trading relies heavily on data—data that is both voluminous and complex. The sheer amount of information flowing through financial markets is staggering, encompassing tick-by-tick price movements, economic indicators, market sentiment, and more. Such data is indispensable for developing and executing algorithms that aim to capitalize on market inefficiencies and trends. The significance of data has grown exponentially with the advancement of technology and computational power, enabling traders to employ complex algorithms that demand high-quality, real-time data.

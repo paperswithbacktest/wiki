@@ -1,6 +1,8 @@
 ---
-title: "Immediate or Cancel Order (Algo Trading)"
-description: "Explore the impact of algorithmic trading on stock orders and finance Understand market order types and algo trading's role in optimizing executions"
+category: trading_strategy
+description: Explore the impact of algorithmic trading on stock orders and finance
+  Understand market order types and algo trading's role in optimizing executions
+title: Immediate or Cancel Order (Algo Trading)
 ---
 
 Understanding the complexities of stock orders and finance is essential for anyone looking to engage seriously with trading. Stock orders serve as fundamental instructions in financial markets, dictating the buying or selling of securities. They are the building blocks upon which trading strategies are structured, with types such as market orders, limit orders, and stop orders each offering distinct strategic advantages. 

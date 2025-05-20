@@ -1,6 +1,8 @@
 ---
-title: "Option Schedule: Overview and Functionality with Example (Algo Trading)"
-description: "Explore vesting schedules and option schedules crucial for stock-based compensation, and learn how algorithmic trading can enhance financial strategies."
+category: quant_concept
+description: Explore vesting schedules and option schedules crucial for stock-based
+  compensation, and learn how algorithmic trading can enhance financial strategies.
+title: 'Option Schedule: Overview and Functionality with Example (Algo Trading)'
 ---
 
 Understanding complex financial terms such as vesting schedules and options is crucial for modern investors and employees who receive stock-based compensation. These concepts are pivotal in evaluating and maximizing the benefits derived from stock options, a common form of employee compensation designed to incentivize and retain talent within a company. 

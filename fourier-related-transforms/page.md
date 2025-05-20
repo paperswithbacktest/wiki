@@ -1,7 +1,8 @@
 ---
-title: Fourier Transforms in Machine Learning Applications
+category: quant_concept
 description: Fourier transforms and related methods enhance machine learning by improving
   feature extraction noise reduction and model performance Discover more inside
+title: Fourier Transforms in Machine Learning Applications
 ---
 
 ![Image](images/1.gif)

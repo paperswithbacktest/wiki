@@ -1,6 +1,13 @@
 ---
-title: "Basics of Statistical Mean Reversion Testing (Algo Trading)"
-description: Discover the fundamentals of statistical mean reversion testing in algorithmic trading. Learn how traders use computer algorithms to automate trading decisions and exploit mean-reverting strategies in volatile markets. Understand the principles and mathematical models underlying mean reversion and explore practical implementation techniques to enhance trading performance. This guide is perfect for traders, investors, and tech enthusiasts interested in modern trading strategies and their real-world applications in financial markets.
+category: trading_strategy
+description: Discover the fundamentals of statistical mean reversion testing in algorithmic
+  trading. Learn how traders use computer algorithms to automate trading decisions
+  and exploit mean-reverting strategies in volatile markets. Understand the principles
+  and mathematical models underlying mean reversion and explore practical implementation
+  techniques to enhance trading performance. This guide is perfect for traders, investors,
+  and tech enthusiasts interested in modern trading strategies and their real-world
+  applications in financial markets.
+title: Basics of Statistical Mean Reversion Testing (Algo Trading)
 ---
 
 Algorithmic trading refers to the use of computer algorithms to automate trading decisions in financial markets. By utilizing mathematical models and complex algorithms, traders can execute orders at high speeds and with precision, minimizing human intervention and the potential for errors. This automation has become increasingly significant in financial markets, as it enhances liquidity, reduces transaction costs, and allows for the execution of sophisticated trading strategies that were previously infeasible.

@@ -1,6 +1,11 @@
 ---
-title: "Commitments of Traders Explained (Algo Trading)"
-description: Explore the impact of the Commitments of Traders report on algorithmic trading. Uncover how this vital tool enhances trading strategies by providing insights into market dynamics and sentiments. Discover the significance of trader positioning data in forecasting trends and optimizing trades, offering a competitive edge in today's data-driven trading environments.
+category: quant_concept
+description: Explore the impact of the Commitments of Traders report on algorithmic
+  trading. Uncover how this vital tool enhances trading strategies by providing insights
+  into market dynamics and sentiments. Discover the significance of trader positioning
+  data in forecasting trends and optimizing trades, offering a competitive edge in
+  today's data-driven trading environments.
+title: Commitments of Traders Explained (Algo Trading)
 ---
 
 The world of trading has undergone substantial transformation with the integration of technology, notably marked by the rise of algorithmic trading. Amidst these advancements, the Commitments of Traders (COT) report stands out as a crucial tool, maintaining its relevance across both traditional and algorithmic trading paradigms. This report, published weekly by the Commodity Futures Trading Commission (CFTC), serves as a vital source of information, providing traders with invaluable insights into market sentiment by detailing the positions held by various market participants.

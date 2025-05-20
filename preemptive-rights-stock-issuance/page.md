@@ -1,6 +1,8 @@
 ---
-title: "Preemptive Rights in Stock Issuance (Algo Trading)"
-description: "Explore the dynamics of preemptive rights in stock issuance and understand how they protect shareholders from dilution while leveraging algorithmic trading."
+category: quant_concept
+description: Explore the dynamics of preemptive rights in stock issuance and understand
+  how they protect shareholders from dilution while leveraging algorithmic trading.
+title: Preemptive Rights in Stock Issuance (Algo Trading)
 ---
 
 In stock trading, preemptive rights serve as a protective mechanism for shareholders during new stock issuances. These rights are fundamentally designed to allow existing shareholders the opportunity to purchase additional shares before they are offered to the public. This ensures that shareholders can maintain their proportional ownership within a company, protecting their investments from dilution when new stock is issued.

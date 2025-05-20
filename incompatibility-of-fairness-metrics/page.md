@@ -1,7 +1,8 @@
 ---
-title: Balancing Fairness Metrics In Machine Learning Models
+category: quant_concept
 description: Fairness Metrics guide balancing demographic parity equalized odds and
   predictive parity for fairer machine learning outcomes Discover more inside
+title: Balancing Fairness Metrics In Machine Learning Models
 ---
 
 ![Image](images/1.png)

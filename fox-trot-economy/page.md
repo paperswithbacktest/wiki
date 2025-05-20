@@ -1,6 +1,8 @@
 ---
-title: "Fox-Trot Economy (Algo Trading)"
-description: "Discover the dynamics of the fox-trot economy, a pattern of alternating rapid and slow growth cycles, and its impact on algorithmic trading strategies."
+category: quant_concept
+description: Discover the dynamics of the fox-trot economy, a pattern of alternating
+  rapid and slow growth cycles, and its impact on algorithmic trading strategies.
+title: Fox-Trot Economy (Algo Trading)
 ---
 
 In today's fast-paced financial world, understanding unique economic patterns is crucial for investors and economists alike. One such pattern is the 'fox-trot economy,' a concept that likens economic cycles to the rhythm of dance movements. Just as the fox-trot dance involves varied steps and tempo changes, the fox-trot economy is characterized by alternating periods of rapid and slow expansion. This dynamic pattern can have significant implications for market strategies and economic policy.

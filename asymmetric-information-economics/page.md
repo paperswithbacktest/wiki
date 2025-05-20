@@ -1,6 +1,10 @@
 ---
-title: "Asymmetric Information in Economics (Algo Trading)"
-description: "Explore the influence of asymmetric information on economic dynamics and its implications in algorithmic trading. Discover how information imbalances can impact market efficiency and trading strategies, and learn about the potential challenges and opportunities they create within financial markets."
+category: quant_concept
+description: Explore the influence of asymmetric information on economic dynamics
+  and its implications in algorithmic trading. Discover how information imbalances
+  can impact market efficiency and trading strategies, and learn about the potential
+  challenges and opportunities they create within financial markets.
+title: Asymmetric Information in Economics (Algo Trading)
 ---
 
 The world of economics is vast, yet within it, asymmetric information plays a critical role in shaping market dynamics. Information asymmetry occurs when one party in a transaction possesses more or superior information than the other, potentially leading to advantageous scenarios. This disparity can manifest in various forms and is a common occurrence in numerous economic transactions, influencing market efficiency and behavior. 

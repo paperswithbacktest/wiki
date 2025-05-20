@@ -1,6 +1,8 @@
 ---
-title: "Agricultural Exchange-Traded Funds Overview (Algo Trading)"
-description: "Explore agricultural ETFs and algorithmic trading to diversify investments in agriculture. Learn about ETF types, benefits, risks, and trading strategies."
+category: dataset
+description: Explore agricultural ETFs and algorithmic trading to diversify investments
+  in agriculture. Learn about ETF types, benefits, risks, and trading strategies.
+title: Agricultural Exchange-Traded Funds Overview (Algo Trading)
 ---
 
 In investments, exchange-traded funds (ETFs) have emerged as a popular choice for diversifying portfolios. They offer investors an opportunity to access various markets and sectors without needing to select individual stocks or assets. Among the diverse ETF categories available, agricultural ETFs stand out due to their unique focus on the agricultural sector, which plays a vital role in the global economy. This focus allows investors to tap into a sector characterized by essential goods and sustainable growth.

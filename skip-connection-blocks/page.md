@@ -1,7 +1,8 @@
 ---
-title: Understanding Skip Connection Blocks for Deep Learning
+category: quant_concept
 description: Skip connection blocks enable deep neural networks to train by preventing
   vanishing gradients and improving feature flow across layers Discover more inside
+title: Understanding Skip Connection Blocks for Deep Learning
 ---
 
 ![Image](images/1.jpeg)

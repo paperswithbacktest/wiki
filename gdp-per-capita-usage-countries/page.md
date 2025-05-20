@@ -1,6 +1,9 @@
 ---
-title: "GDP Per Capita and Its Usage Across Countries (Algo Trading)"
-description: "Discover the impact of GDP per capita on global trading and economic strategies Examine how this vital metric shapes investor decisions and economic policies"
+category: quant_concept
+description: Discover the impact of GDP per capita on global trading and economic
+  strategies Examine how this vital metric shapes investor decisions and economic
+  policies
+title: GDP Per Capita and Its Usage Across Countries (Algo Trading)
 ---
 
 Understanding the nuances of economic indicators is crucial for investors, policymakers, and businesses navigating the ever-evolving global economy. Among these indicators, Gross Domestic Product (GDP) per capita stands out as a key metric for gauging a country's economic health and providing insight into the standard of living. GDP per capita is calculated by dividing the total GDP of a country by its population, offering a per-person average that reflects economic productivity and prosperity. This metric is indispensable for comparative economic analyses between nations, highlighting disparities and identifying potential areas for improvement.

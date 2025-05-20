@@ -1,6 +1,9 @@
 ---
-title: "Pooled Internal Rate of Return: Explanation, Formula, and Limitations (Algo Trading)"
-description: "Explore the significance of the Pooled Internal Rate of Return in investment analysis. Learn about its calculation and application in optimizing trading strategies."
+category: quant_concept
+description: Explore the significance of the Pooled Internal Rate of Return in investment
+  analysis. Learn about its calculation and application in optimizing trading strategies.
+title: 'Pooled Internal Rate of Return: Explanation, Formula, and Limitations (Algo
+  Trading)'
 ---
 
 In today's fast-paced investment environment, accurately understanding and measuring returns is crucial for investors. One important metric for evaluating the performance of investments is the Pooled Internal Rate of Return (PIRR). PIRR functions as an aggregated measure of the internal rate of return for a portfolio composed of varied investments. Unlike traditional internal rate of return (IRR), which typically examines individual projects, PIRR offers a comprehensive overview by taking into account the combined cash flows of several projects or investments. This approach helps in providing a more holistic picture of a portfolio's overall performance.

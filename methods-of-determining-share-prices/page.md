@@ -1,6 +1,9 @@
 ---
-title: "Methods of Determining Share Prices (Algo Trading)"
-description: "Explore the mechanisms behind share price determination and the role of algorithmic trading in the stock market. Learn key strategies and their impacts on trade efficiency."
+category: quant_concept
+description: Explore the mechanisms behind share price determination and the role
+  of algorithmic trading in the stock market. Learn key strategies and their impacts
+  on trade efficiency.
+title: Methods of Determining Share Prices (Algo Trading)
 ---
 
 The stock market is a dynamic arena where trading is influenced by multiple factors including share pricing, financial markets, and algorithmic trading. This article examines the integral elements of the stock market, focusing on the mechanisms behind share price determination and the growing influence of algorithmic trading. Understanding share pricing dynamics is crucial for investors seeking to navigate the complexities of financial markets. Key factors involved in share pricing include Initial Public Offering (IPO) processes, supply and demand dynamics, and the impact of market news. IPOs are pivotal events where a company's shares are offered to the public for the first time, with investment banks playing a significant role in setting the initial prices through a rigorous evaluation of projected performance and net present value.

@@ -1,6 +1,8 @@
 ---
-title: "Components and Examples of an Auditor's Report (Algo Trading)"
-description: "Explore the fundamental components and examples of an auditor's report in algorithmic trading ensuring transparency compliance and optimized trading strategies."
+category: quant_concept
+description: Explore the fundamental components and examples of an auditor's report
+  in algorithmic trading ensuring transparency compliance and optimized trading strategies.
+title: Components and Examples of an Auditor's Report (Algo Trading)
 ---
 
 Auditing plays a pivotal role in assuring transparency and accountability within various sectors, particularly in financial and operational activities. Its significance has increased with the technological advancements in today's digital age, chiefly affecting areas such as algorithmic trading. Algorithmic trading involves the use of computer algorithms to execute large volumes of trades at high speed, and it requires rigorous audit mechanisms to ensure accuracy and compliance.

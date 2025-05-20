@@ -1,6 +1,8 @@
 ---
-title: "Iron Condor Strategy (Algo Trading)"
-description: "Explore the Iron Condor strategy for options trading, focusing on achieving consistent, risk-managed returns through algorithmic trading in low-volatility markets."
+category: trading_strategy
+description: Explore the Iron Condor strategy for options trading, focusing on achieving
+  consistent, risk-managed returns through algorithmic trading in low-volatility markets.
+title: Iron Condor Strategy (Algo Trading)
 ---
 
 Options trading is a sophisticated endeavor, allowing traders to customize their strategies to align with market expectations. Among the myriad strategies available, the Iron Condor strategy stands out as an effective tool for those seeking consistent returns with limited risk. This options strategy is particularly appealing due to its ability to generate income in range-bound markets, where volatility is low and price movements are relatively stable.

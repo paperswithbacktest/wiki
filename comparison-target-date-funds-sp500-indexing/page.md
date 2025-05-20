@@ -1,6 +1,8 @@
 ---
-title: "Comparison of Target-Date Funds and S&P 500 Indexing (Algo Trading)"
-description: "Explore the benefits and differences of target-date funds, S&P 500 indexing, and algorithmic trading to find the best investment strategy for your goals."
+category: trading_strategy
+description: Explore the benefits and differences of target-date funds, S&P 500 indexing,
+  and algorithmic trading to find the best investment strategy for your goals.
+title: Comparison of Target-Date Funds and S&P 500 Indexing (Algo Trading)
 ---
 
 Investing presents a complex landscape filled with an array of strategies and products, some of the most popular being target-date funds, S&P 500 indexing, and algorithmic trading. Understanding these options is crucial, as each comes with its own set of features and benefits tailored to different investment goals and risk appetites. Target-date funds are designed to cater to individuals planning for retirement, adjusting their asset allocation progressively as a specified target date nears. This gradual shift towards a more conservative investment stance offers convenience for those seeking a hands-off investment approach.

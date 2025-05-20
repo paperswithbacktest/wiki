@@ -1,6 +1,8 @@
 ---
-title: "Tape Reading: Historical Use and Modern Applications (Algo Trading)"
-description: "Explore the evolution of tape reading from physical ticker tapes to modern algorithmic trading techniques and its impact on market analysis today."
+category: trading_strategy
+description: Explore the evolution of tape reading from physical ticker tapes to modern
+  algorithmic trading techniques and its impact on market analysis today.
+title: 'Tape Reading: Historical Use and Modern Applications (Algo Trading)'
 ---
 
 In the fast-paced world of trading, understanding market dynamics is crucial for success. Market dynamics encompass the intricate movements and behaviors of market participants, which are often driven by a complex interplay of economic indicators, investor sentiment, and technological advancements. Mastering these elements is vital for traders seeking to gain a competitive edge.

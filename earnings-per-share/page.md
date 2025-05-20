@@ -1,6 +1,14 @@
 ---
-title: "Earnings per Share (Algo Trading)"
-description: "Earnings Per Share serves as a crucial metric for evaluating company performance in financial trading offering insight into a firm's profitability on a per-share basis. This article explores how EPS is used in both financial analysis and algo trading, providing investors with a tool for assessing financial health and integrating into automated strategies to optimize trading decisions. By leveraging EPS data, traders can enhance their strategies, potentially leading to better trading outcomes in the competitive landscape. Understanding EPS helps investors and algorithmic traders capitalize on financial opportunities effectively."
+category: quant_concept
+description: Earnings Per Share serves as a crucial metric for evaluating company
+  performance in financial trading offering insight into a firm's profitability on
+  a per-share basis. This article explores how EPS is used in both financial analysis
+  and algo trading, providing investors with a tool for assessing financial health
+  and integrating into automated strategies to optimize trading decisions. By leveraging
+  EPS data, traders can enhance their strategies, potentially leading to better trading
+  outcomes in the competitive landscape. Understanding EPS helps investors and algorithmic
+  traders capitalize on financial opportunities effectively.
+title: Earnings per Share (Algo Trading)
 ---
 
 Earnings Per Share (EPS) serves as a pivotal metric in the assessment of company performance within the evolving sphere of financial trading. As a measure of the profitability associated with each outstanding share of a company’s stock, EPS offers a lens through which investors can evaluate a firm's financial health. This article illuminates the significant role EPS plays in both financial analysis and algorithmic trading, known as algo trading. In financial analysis, EPS provides insight into a company's profitability, which investors and analysts use to compare companies within the same industry. Meanwhile, in algorithmic trading, EPS is utilized within automated strategies to inform and refine trading strategies, identifying stocks with potential for growth and adjusting trading positions based on earnings announcements.

@@ -1,7 +1,8 @@
 ---
-title: Robust Training Techniques for Reliable Machine Learning Models
+category: quant_concept
 description: Robust Training boosts model resilience with noisy and varied data distributions
   to maintain performance in real-world scenarios Discover more inside
+title: Robust Training Techniques for Reliable Machine Learning Models
 ---
 
 ![Image](images/1.jpeg)

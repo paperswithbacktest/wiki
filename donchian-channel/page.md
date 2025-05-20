@@ -1,6 +1,14 @@
 ---
-title: "Donchian Channel Explained (Algo Trading)"
-description: The Donchian Channel strategy is essential in algorithmic trading, offering valuable insights for traders by identifying market trends and potential breakout points. Developed by Richard Donchian, these channels use three lines to analyze price movements over a set period, typically 20 days. They provide clear entry and exit criteria, integrating seamlessly into automated strategies. Traders benefit from its adaptability across various asset classes, enhancing trend-following and mean-reversion strategies. Overall, Donchian Channels are a crucial tool for effectively capturing market signals, ensuring their ongoing relevance in modern trading environments.
+category: trading_strategy
+description: The Donchian Channel strategy is essential in algorithmic trading, offering
+  valuable insights for traders by identifying market trends and potential breakout
+  points. Developed by Richard Donchian, these channels use three lines to analyze
+  price movements over a set period, typically 20 days. They provide clear entry and
+  exit criteria, integrating seamlessly into automated strategies. Traders benefit
+  from its adaptability across various asset classes, enhancing trend-following and
+  mean-reversion strategies. Overall, Donchian Channels are a crucial tool for effectively
+  capturing market signals, ensuring their ongoing relevance in modern trading environments.
+title: Donchian Channel Explained (Algo Trading)
 ---
 
 The Donchian Channel strategy stands as a formidable tool in the sphere of algorithmic trading. Developed by Richard Donchian, a pioneer in systematic trading, this technical indicator aids traders in pinpointing market trends and identifying potential breakout points. Comprised of three lines—the upper band, the lower band, and occasionally a middle band—Donchian Channels are calculated based on the highest high and lowest low of a selected period, usually set at 20 days. This framework is pivotal for both identifying breakouts and signaling potential trend reversals within the market.

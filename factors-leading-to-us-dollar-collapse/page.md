@@ -1,6 +1,9 @@
 ---
-title: "Factors Leading to a U.S. Dollar Collapse (Algo Trading)"
-description: "Explore factors influencing a potential U.S. dollar collapse, including economic policies, geopolitical dynamics, and the role of algorithmic trading in risk management."
+category: trading_strategy
+description: Explore factors influencing a potential U.S. dollar collapse, including
+  economic policies, geopolitical dynamics, and the role of algorithmic trading in
+  risk management.
+title: Factors Leading to a U.S. Dollar Collapse (Algo Trading)
 ---
 
 The U.S. dollar has long been viewed as the cornerstone of global finance, holding a pivotal role as the primary reserve currency. This dominant position is supported by the economic might of the United States, extensive financial markets, and the broad acceptance of the dollar in international trade and finance. Despite its robust standing, the U.S. dollar is not immune to the risks that could trigger a potential collapse.

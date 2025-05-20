@@ -1,6 +1,9 @@
 ---
-title: "Green Shoots: Concept and Influence by Ben Bernanke (Algo Trading)"
-description: "Explore the concept of 'green shoots' in economic recovery introduced by Ben Bernanke and its influence on investor sentiment and algorithmic trading strategies."
+category: quant_concept
+description: Explore the concept of 'green shoots' in economic recovery introduced
+  by Ben Bernanke and its influence on investor sentiment and algorithmic trading
+  strategies.
+title: 'Green Shoots: Concept and Influence by Ben Bernanke (Algo Trading)'
 ---
 
 Economic recovery is a topic of great interest, particularly in the aftermath of financial disruptions that impact economies worldwide. The resilience of economies to bounce back from such downturns is vital for sustainable growth and stability. Among the lexicon of economic recovery, the term 'green shoots' holds significant importance. First gaining traction during economic downturns, 'green shoots' became a widely discussed concept as it symbolizes the initial signs of potential recovery.

@@ -1,6 +1,9 @@
 ---
-title: "Power Centers: Meaning, Function, and Types (Algo Trading)"
-description: "Explore the significance and dual role of power centers in retail and energy trading markets, highlighting their impact on consumers, traders, and market efficiencies."
+category: quant_concept
+description: Explore the significance and dual role of power centers in retail and
+  energy trading markets, highlighting their impact on consumers, traders, and market
+  efficiencies.
+title: 'Power Centers: Meaning, Function, and Types (Algo Trading)'
 ---
 
 In the modern financial and retail landscape, the concept of a power center is pivotal. This term embodies two distinct but equally influential entities: large outdoor shopping complexes and advanced trading hubs in energy markets. As dynamic retail destinations, power centers encompass expansive shopping areas typically featuring big-box stores, various retailers, and dining establishments, all designed to cater to motorists and enhance the consumer experience.

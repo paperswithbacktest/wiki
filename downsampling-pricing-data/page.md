@@ -1,6 +1,14 @@
 ---
-title: "Downsampling Pricing Data (Algo Trading)"
-description: Explore the crucial role of downsampling in algorithmic trading, optimizing strategies by reducing data frequency for better focus on significant market movements. Understand the transformation of transaction-level data into aggregated forms such as OHLCV bars, essential for tailoring strategies to varying market conditions. Learn about the benefits and challenges associated with data downsampling, including reduced complexity and potential loss of detail. Discover various techniques like standard time bars, tick bars, volume bars, and dollar bars, each offering unique insights.
+category: dataset
+description: Explore the crucial role of downsampling in algorithmic trading, optimizing
+  strategies by reducing data frequency for better focus on significant market movements.
+  Understand the transformation of transaction-level data into aggregated forms such
+  as OHLCV bars, essential for tailoring strategies to varying market conditions.
+  Learn about the benefits and challenges associated with data downsampling, including
+  reduced complexity and potential loss of detail. Discover various techniques like
+  standard time bars, tick bars, volume bars, and dollar bars, each offering unique
+  insights.
+title: Downsampling Pricing Data (Algo Trading)
 ---
 
 In algorithmic trading, downsampling pricing data plays a critical role in optimizing strategies and enhancing performance. Downsampling involves reducing the frequency of data to create manageable datasets without losing crucial insights. In high-frequency trading environments, where data is generated in ultra-fast streams, downsampling enables traders and algorithms to focus more effectively on significant market movements, filtering out extraneous noise.

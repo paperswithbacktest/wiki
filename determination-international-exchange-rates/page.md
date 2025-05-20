@@ -1,6 +1,8 @@
 ---
-title: "Determination of International Exchange Rates (Algo Trading)"
-description: "Explore the pivotal role of exchange rates in global trade with a focus on algorithmic trading in Forex Learn how currencies are valued and traded worldwide"
+category: quant_concept
+description: Explore the pivotal role of exchange rates in global trade with a focus
+  on algorithmic trading in Forex Learn how currencies are valued and traded worldwide
+title: Determination of International Exchange Rates (Algo Trading)
 ---
 
 In today's interconnected global economy, exchange rates play a pivotal role in influencing the flow of goods, services, and capital across countries. As businesses expand beyond national borders and engage in international trade, the value of currencies becomes a critical factor in determining the competitiveness of nations' exports and imports. The foreign exchange market, commonly referred to as Forex, is the largest and most liquid financial market in the world, where these currency exchanges occur. Trillions of dollars are traded daily, leading to constant fluctuations in currency values as market participants, including banks, corporations, and individual traders, engage in buying and selling activities.

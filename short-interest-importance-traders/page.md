@@ -1,6 +1,12 @@
 ---
-title: "Short Interest and Its Importance to Traders (Algo Trading)"
-description: "Discover how short interest and algorithmic trading transform market strategies by providing unique insights and opportunities for traders. Learn how short interest reveals market sentiment, indicating potential stock price movements and how algorithmic trading enhances execution speed and precision. Explore the integration of these strategies to optimize trading performance and harness market trends with unprecedented efficiency."
+category: trading_strategy
+description: Discover how short interest and algorithmic trading transform market
+  strategies by providing unique insights and opportunities for traders. Learn how
+  short interest reveals market sentiment, indicating potential stock price movements
+  and how algorithmic trading enhances execution speed and precision. Explore the
+  integration of these strategies to optimize trading performance and harness market
+  trends with unprecedented efficiency.
+title: Short Interest and Its Importance to Traders (Algo Trading)
 ---
 
 Understanding the intricate world of financial markets is key to developing effective trading strategies. As traders navigate these dynamic environments, they often employ various approaches to capitalize on market movements. Two powerful concepts that stand out in this arena are short interest trading and algorithmic (algo) trading. These strategies have individually offered traders unique advantages, yet their integration presents exciting new opportunities for optimizing trading performance.

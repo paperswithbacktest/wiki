@@ -1,6 +1,8 @@
 ---
-title: "Richest Middle Class by Country (Algo Trading)"
-description: "Discover how middle class wealth distribution intersects with algorithmic trading highlighting impacts on economic growth and wealth disparities globally."
+category: dataset
+description: Discover how middle class wealth distribution intersects with algorithmic
+  trading highlighting impacts on economic growth and wealth disparities globally.
+title: Richest Middle Class by Country (Algo Trading)
 ---
 
 Understanding middle class wealth and income distribution is vital for grasping the socio-economic dynamics shaping modern economies. The middle class is often considered the backbone of economic growth and stability, as it drives consumption, innovation, and investment. Economic health is closely tied to the financial well-being of the middle class, influencing everything from consumer spending patterns to housing markets and educational attainment. As such, analyzing fluctuations and trends within this group can offer valuable insights into a nation's economic trajectory and inform policymakers aiming to enhance economic resilience and social equity.

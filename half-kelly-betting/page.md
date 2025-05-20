@@ -1,6 +1,14 @@
 ---
-title: "Half-Kelly betting (Algo Trading)"
-description: Half-Kelly betting is a fractional strategy in algorithmic trading that adjusts the aggressive Kelly Criterion to manage risk and volatility. By betting half of the optimal size calculated by the Kelly formula, traders aim to reduce potential drawdowns and enhance portfolio stability. This method balances the desire for growth with the need for capital preservation, offering a more conservative approach suited to those cautious of volatile market conditions. Understanding half-Kelly betting provides valuable insights for traders prioritizing risk management over maximum returns in their trading strategies.
+category: trading_strategy
+description: Half-Kelly betting is a fractional strategy in algorithmic trading that
+  adjusts the aggressive Kelly Criterion to manage risk and volatility. By betting
+  half of the optimal size calculated by the Kelly formula, traders aim to reduce
+  potential drawdowns and enhance portfolio stability. This method balances the desire
+  for growth with the need for capital preservation, offering a more conservative
+  approach suited to those cautious of volatile market conditions. Understanding half-Kelly
+  betting provides valuable insights for traders prioritizing risk management over
+  maximum returns in their trading strategies.
+title: Half-Kelly betting (Algo Trading)
 ---
 
 In algorithmic trading, effective strategies to maximize returns while simultaneously managing risk are crucial for traders seeking to enhance portfolio performance. One prominent method that has gained recognition is the Kelly Criterion, a mathematical formula designed to calculate optimal bet sizes based on expected returns and risk. Despite its theoretical promise, applying the full Kelly Criterion can expose traders to substantial short-term volatility, which may not align with their risk tolerance.

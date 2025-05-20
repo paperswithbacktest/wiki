@@ -1,6 +1,9 @@
 ---
-title: "Importance of WACC for Investors (Algo Trading)"
-description: "Understanding WACC is crucial for investors in algorithmic trading as it helps evaluate investment potential and optimize financial strategies ensuring robust decision-making."
+category: quant_concept
+description: Understanding WACC is crucial for investors in algorithmic trading as
+  it helps evaluate investment potential and optimize financial strategies ensuring
+  robust decision-making.
+title: Importance of WACC for Investors (Algo Trading)
 ---
 
 In today's financial landscape, understanding the Weighted Average Cost of Capital (WACC) is crucial for corporate finance, investment, and algorithmic trading. WACC is a pivotal financial metric that blends the costs of a firm's debt and equity to provide a comprehensive picture of its cost of capital. By serving as a critical benchmark, WACC aids in evaluating potential investments, mergers, and financial strategies. It essentially represents the minimum return a company must earn on its asset base to satisfy its creditors, owners, and other providers of capital.
@@ -232,4 +235,3 @@ A comprehensive grasp of WACC's components and its estimation method is essentia
 9. **Luenberger, D. G. (1997). Investment Science.** Known for its analytical approach, this book provides a thorough examination of investment principles, including the use of WACC in evaluating project viability and corporate finance decisions.
 
 10. **Damodaran Online (http://pages.stern.nyu.edu/~adamodar/).** The website hosted by Aswath Damodaran, a renowned finance professor, provides an extensive range of resources and datasets useful for understanding and calculating WACC, as well as other financial metrics.
-

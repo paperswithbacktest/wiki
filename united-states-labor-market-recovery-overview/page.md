@@ -1,6 +1,8 @@
 ---
-title: "United States Labor Market Recovery Overview (Algo Trading)"
-description: "Explore the U.S. labor market's rapid recovery from COVID-19 disruptions, highlighting resilience, sector impacts, algorithmic insights, and demographic trends."
+category: dataset
+description: Explore the U.S. labor market's rapid recovery from COVID-19 disruptions,
+  highlighting resilience, sector impacts, algorithmic insights, and demographic trends.
+title: United States Labor Market Recovery Overview (Algo Trading)
 ---
 
 The economic recovery of the U.S. labor market has been a focal point of analysis following the unprecedented global disruption caused by the COVID-19 pandemic. The pandemic triggered a severe contraction in economic activity worldwide, leading to widespread job losses and significant changes in labor markets across the globe. In the United States, the pandemic-induced recession initially led to a sharp decline in employment as businesses shuttered and economic uncertainty soared. However, as vaccine distribution expanded and economic reopening commenced, the U.S. labor market demonstrated a notably rapid recovery compared to previous recessions.

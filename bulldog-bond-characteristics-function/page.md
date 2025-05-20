@@ -1,6 +1,8 @@
 ---
-title: "Bulldog Bond: Characteristics and Function (Algo Trading)"
-description: "Discover Bulldog Bonds issued in the UK by foreign corporations and the role of algorithmic trading in optimizing bond market efficiency and liquidity."
+category: quant_concept
+description: Discover Bulldog Bonds issued in the UK by foreign corporations and the
+  role of algorithmic trading in optimizing bond market efficiency and liquidity.
+title: 'Bulldog Bond: Characteristics and Function (Algo Trading)'
 ---
 
 Bond markets play a fundamental role in ensuring economic stability, serving as a cornerstone for investors seeking a reliable income stream through fixed income securities, such as bonds. These markets facilitate capital allocation, enabling governments and corporations to raise funds for various activities, thereby supporting economic growth. In recent years, the landscape of bond markets has been significantly reshaped by technological advancements, particularly through the integration of algorithmic trading. This shift has introduced new efficiencies and complexities, altering traditional trading dynamics and offering potential new opportunities for both issuers and investors.

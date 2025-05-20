@@ -1,6 +1,8 @@
 ---
-title: "Jasdaq: Japan's Automated Securities Trading System (Algo Trading)"
-description: "Explore the role of Jasdaq in Japan's stock market, a platform vital for SMEs, and how algorithmic trading is reshaping market efficiency."
+category: quant_concept
+description: Explore the role of Jasdaq in Japan's stock market, a platform vital
+  for SMEs, and how algorithmic trading is reshaping market efficiency.
+title: 'Jasdaq: Japan''s Automated Securities Trading System (Algo Trading)'
 ---
 
 The Japanese stock market holds a prominent position in the world's financial landscape, characterized by its significant market capitalization and diverse array of listed companies. It is a vital component of Asia's financial ecosystem, acting as a barometer for the region's economic health and offering investors exposure to global and domestic industries ranging from consumer electronics to automotive manufacturing. Within this market, several exchanges play pivotal roles, with the Tokyo Stock Exchange (TSE) being the largest and most well-known. However, Jasdaq also represents a crucial element, particularly for small and mid-sized enterprises (SMEs).

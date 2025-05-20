@@ -1,6 +1,8 @@
 ---
-title: "Stop Hunting in Trading (Algo Trading)"
-description: "Discover the intricacies of stop hunting in algo trading and learn how this strategy impacts market dynamics and trading outcomes in financial markets."
+category: trading_strategy
+description: Discover the intricacies of stop hunting in algo trading and learn how
+  this strategy impacts market dynamics and trading outcomes in financial markets.
+title: Stop Hunting in Trading (Algo Trading)
 ---
 
 Financial markets are structured platforms where assets such as stocks, bonds, currencies, and commodities are traded. These markets play a crucial role in allocating resources and facilitating economic growth by providing a mechanism for price determination and liquidity. The significance of trading strategies lies in their ability to guide the decision-making process for buying and selling assets within these markets, ultimately affecting profitability. 

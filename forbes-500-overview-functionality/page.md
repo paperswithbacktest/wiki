@@ -1,6 +1,8 @@
 ---
-title: "Forbes 500: Overview and Functionality (Algo Trading)"
-description: "Explore how Forbes 500 companies leverage algorithmic trading to enhance investment strategies with speed and efficiency, reducing human emotion in decision-making."
+category: quant_concept
+description: Explore how Forbes 500 companies leverage algorithmic trading to enhance
+  investment strategies with speed and efficiency, reducing human emotion in decision-making.
+title: 'Forbes 500: Overview and Functionality (Algo Trading)'
 ---
 
 Algorithmic trading represents a transformative intersection between finance and technology, offering an approach to investment that is both complex and increasingly accessible. At its core, algorithmic trading utilizes computer programs that follow pre-designed instructions to execute financial trades autonomously. This method has gained traction not only due to its ability to enhance trading speed and efficiency but also because it significantly reduces the influence of human emotion in trading decisions, potentially leading to more consistent outcomes.

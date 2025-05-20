@@ -1,6 +1,8 @@
 ---
-title: "Paper Trading: Concepts and Techniques (Algo Trading)"
-description: "Explore paper trading and algorithmic techniques to practice stock trading risk-free. Learn to refine strategies and build confidence before live trading."
+category: trading_strategy
+description: Explore paper trading and algorithmic techniques to practice stock trading
+  risk-free. Learn to refine strategies and build confidence before live trading.
+title: 'Paper Trading: Concepts and Techniques (Algo Trading)'
 ---
 
 In stock trading, practice is essential before venturing into live trading. Stock trading is inherently risky, and the potential for financial loss is significant, especially for beginners. To mitigate these risks, paper trading and trading simulations provide a safe and invaluable platform for individuals to familiarize themselves with the stock market's intricacies without jeopardizing real capital.

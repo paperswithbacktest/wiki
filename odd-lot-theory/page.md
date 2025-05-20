@@ -1,6 +1,8 @@
 ---
-title: "Odd Lot Theory (Algo Trading)"
-description: "Explore the Odd Lot Theory's role in stock trading and its use in algorithmic strategies Discover how retail investor behaviors can signal market trends"
+category: quant_concept
+description: Explore the Odd Lot Theory's role in stock trading and its use in algorithmic
+  strategies Discover how retail investor behaviors can signal market trends
+title: Odd Lot Theory (Algo Trading)
 ---
 
 The stock market presents a multifaceted arena where traders employ a myriad of strategies and theories to enhance their trading edge. Among these theories is the Odd Lot Theory, which has captivated traders and analysts for several decades. This theory, rooted in the behaviors of small, individual investors, provides a unique lens through which trading activities are interpreted.

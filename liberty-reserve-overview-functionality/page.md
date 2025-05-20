@@ -1,6 +1,9 @@
 ---
-title: "Liberty Reserve: Overview and Functionality (Algo Trading)"
-description: "Explore Liberty Reserve's impact on digital currency and algorithmic trading by examining its secure transactions, anonymity, regulatory challenges, and ultimate shutdown."
+category: quant_concept
+description: Explore Liberty Reserve's impact on digital currency and algorithmic
+  trading by examining its secure transactions, anonymity, regulatory challenges,
+  and ultimate shutdown.
+title: 'Liberty Reserve: Overview and Functionality (Algo Trading)'
 ---
 
 The digital revolution has significantly altered the landscape of financial transactions, giving rise to the prevalence of online payment systems and digital currencies. Liberty Reserve, once a prominent entity in the digital currency sphere, provided a distinctive platform that enabled secure transactions through its proprietary currency. This article aims to examine the historical context, influence, and eventual decline of Liberty Reserve, alongside its wider repercussions on the digital currency ecosystem and algorithmic trading.

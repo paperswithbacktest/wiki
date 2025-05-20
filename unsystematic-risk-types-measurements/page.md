@@ -1,6 +1,9 @@
 ---
-title: "Unsystematic Risk: Types and Measurements (Algo Trading)"
-description: "Explore the intricacies of managing unsystematic risk in algorithmic trading by understanding its types and effective mitigation strategies for stable portfolios."
+category: quant_concept
+description: Explore the intricacies of managing unsystematic risk in algorithmic
+  trading by understanding its types and effective mitigation strategies for stable
+  portfolios.
+title: 'Unsystematic Risk: Types and Measurements (Algo Trading)'
 ---
 
 Unsystematic risk, also known as diversifiable or specific risk, is the variability in returns or outcomes attributable to the operations, decisions, and market presence of individual companies. Unlike systematic risk, which affects the entire market or various segments of it, unsystematic risk is localized and can be effectively mitigated through strategic management and diversification. This type of risk arises from factors such as the company's management decisions, operational inefficiencies, financial practices, product recalls, or changes in consumer preferences.

@@ -1,6 +1,13 @@
 ---
-title: "Paper trading (Algo Trading)"
-description: Paper trading in algorithmic trading allows users to simulate buying and selling securities without financial risk, refining strategies in a virtual environment. It benefits traders of all levels, offering a risk-free way to build confidence and adapt strategies for live markets. The article explores the importance of paper trading, offering insights into its practical benefits, limitations, and its critical role in assisting traders to transition from simulated environments to real-world trading scenarios effectively.
+category: trading_strategy
+description: Paper trading in algorithmic trading allows users to simulate buying
+  and selling securities without financial risk, refining strategies in a virtual
+  environment. It benefits traders of all levels, offering a risk-free way to build
+  confidence and adapt strategies for live markets. The article explores the importance
+  of paper trading, offering insights into its practical benefits, limitations, and
+  its critical role in assisting traders to transition from simulated environments
+  to real-world trading scenarios effectively.
+title: Paper trading (Algo Trading)
 ---
 
 Paper trading is a fundamental aspect of algorithmic trading that enables traders to simulate the buying and selling of securities without incurring any financial risk. By replicating the trading environment and utilizing virtual funds, individuals can refine their strategies and build confidence before entering live markets. This practice is particularly beneficial for beginners, as it offers a platform to understand trading mechanics without the pressure of financial loss. The significance of paper trading extends to experienced traders as well, providing them with a safe space to test and optimize strategies in changing market conditions.

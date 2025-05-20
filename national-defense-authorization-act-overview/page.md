@@ -1,6 +1,9 @@
 ---
-title: "National Defense Authorization Act Overview (Algo Trading)"
-description: "Explore how the National Defense Authorization Act impacts US defense policy and spending, highlighting the role of algorithmic trading in modern defense strategy."
+category: quant_concept
+description: Explore how the National Defense Authorization Act impacts US defense
+  policy and spending, highlighting the role of algorithmic trading in modern defense
+  strategy.
+title: National Defense Authorization Act Overview (Algo Trading)
 ---
 
 The National Defense Authorization Act (NDAA) is an annual legislative milestone that significantly impacts United States defense policy, outlining the budget and expenditures of the Department of Defense (DoD). By setting the financial and strategic framework for the nation's defense initiatives, the NDAA serves as a guiding document that dictates how resources are allocated and spent across various military operations and programs. The intricacies of this legislation carry substantial weight for the defense sector, as it not only influences immediate military spending but also shapes long-term strategic planning and priorities.

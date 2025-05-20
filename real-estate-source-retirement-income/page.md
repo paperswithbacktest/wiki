@@ -1,6 +1,8 @@
 ---
-title: "Real Estate as a Source of Retirement Income (Algo Trading)"
-description: "Explore how real estate investments combined with algorithmic trading can bolster retirement income by providing consistent cash flow and maximizing returns."
+category: trading_strategy
+description: Explore how real estate investments combined with algorithmic trading
+  can bolster retirement income by providing consistent cash flow and maximizing returns.
+title: Real Estate as a Source of Retirement Income (Algo Trading)
 ---
 
 In the quest for a secure and wealthy retirement, diversification of income streams is paramount. Relying solely on traditional financial instruments like pensions or annuities may not suffice in the ever-evolving economic landscape. Thus, exploring diverse investment opportunities becomes crucial.

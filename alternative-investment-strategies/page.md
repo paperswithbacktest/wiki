@@ -1,6 +1,9 @@
 ---
-title: "Alternative Investment Strategies (Algo Trading)"
-description: "Explore alternative investment strategies like algorithmic trading for diversification and enhanced returns Discover insights into optimizing your investment portfolio"
+category: trading_strategy
+description: Explore alternative investment strategies like algorithmic trading for
+  diversification and enhanced returns Discover insights into optimizing your investment
+  portfolio
+title: Alternative Investment Strategies (Algo Trading)
 ---
 
 The landscape of investing has evolved significantly, moving beyond conventional assets like stocks and bonds. With an increasing appetite for diversification and enhanced returns, investors are gradually turning to alternatives. The rise in popularity of alternative assets and algorithmic trading reflects this shift, presenting investors with a broader array of options for portfolio expansion. Alternative assets include investments such as real estate, commodities, hedge funds, private equity, and unique collectibles, offering potential risk mitigation due to their typically lower correlation with traditional financial markets.

@@ -1,6 +1,8 @@
 ---
-title: "Comparison of Ford and General Motors (Algo Trading)"
-description: "Explore the dynamics of General Motors and Ford in the automotive industry and the impact of algorithmic trading on their stock performance and strategic positioning."
+category: trading_strategy
+description: Explore the dynamics of General Motors and Ford in the automotive industry
+  and the impact of algorithmic trading on their stock performance and strategic positioning.
+title: Comparison of Ford and General Motors (Algo Trading)
 ---
 
 The automotive industry holds a pivotal role in the global economy, exemplifying both economic might and innovation. Dominating this landscape are two formidable entities, General Motors (GM) and Ford, whose vast legacies have been carved through their substantial presence in the U.S. market. These industry titans consistently adapt to shifting consumer preferences and technological advancements, maintaining relevance in a competitive arena.

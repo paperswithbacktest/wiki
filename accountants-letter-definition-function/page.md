@@ -1,6 +1,8 @@
 ---
-title: "Accountant's Letter: Definition and Function (Algo Trading)"
-description: "Discover the crucial role of the accountant's letter in financial reports, especially in algorithmic trading, ensuring transparency, accuracy, and compliance."
+category: quant_concept
+description: Discover the crucial role of the accountant's letter in financial reports,
+  especially in algorithmic trading, ensuring transparency, accuracy, and compliance.
+title: 'Accountant''s Letter: Definition and Function (Algo Trading)'
 ---
 
 In the world of business and finance, effective communication is crucial for maintaining transparency and trust. Among the many tools of communication is the accountant's letter, a key document in financial reports. This document, often prepared by an independent auditor, serves as an authoritative source providing assurance about the financial health and reporting accuracy of a business entity. It is integral to financial communications, offering insights into the company's adherence to standards such as Generally Accepted Accounting Principles (GAAP).
@@ -111,5 +113,4 @@ Moreover, the role of accountant's letters extends beyond merely validating fina
 
 [8]: Lopez de Prado, M. (2018). ["Advances in Financial Machine Learning."](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089) Wiley.
 
-[9]: Chan, E. (2009). ["Quantitative Trading: How to Build Your Own Algorithmic Trading Business."](https://github.com/ftvision/quant_trading_echan_book) Wiley Trading. 
-
+[9]: Chan, E. (2009). ["Quantitative Trading: How to Build Your Own Algorithmic Trading Business."](https://github.com/ftvision/quant_trading_echan_book) Wiley Trading.

@@ -1,6 +1,8 @@
 ---
-title: "Return on Net Assets (Algo Trading)"
-description: "Explore how Return on Net Assets (RONA) enhances algorithmic trading by optimizing asset utilization. Understand RONA's calculation for smarter investment."
+category: quant_concept
+description: Explore how Return on Net Assets (RONA) enhances algorithmic trading
+  by optimizing asset utilization. Understand RONA's calculation for smarter investment.
+title: Return on Net Assets (Algo Trading)
 ---
 
 In today's financial landscape, understanding key metrics is crucial for informed investment and business decisions. Among these metrics, Return on Net Assets (RONA) stands out as a significant indicator, particularly when applied to algorithmic trading. RONA measures a company's efficiency in utilizing its net assets to generate profits, making it a vital tool for assessing operational performance.

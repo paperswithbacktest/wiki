@@ -1,6 +1,8 @@
 ---
-title: "Comparison of Quick Ratio and Current Ratio (Algo Trading)"
-description: "Explore the quick and current ratios in algo trading to assess a company's liquidity and make informed investment decisions based on financial health insights."
+category: quant_concept
+description: Explore the quick and current ratios in algo trading to assess a company's
+  liquidity and make informed investment decisions based on financial health insights.
+title: Comparison of Quick Ratio and Current Ratio (Algo Trading)
 ---
 
 Financial analysis is a critical component of investing and trading, helping investors evaluate the financial health and performance of companies. Among the numerous tools employed in this analysis, the quick ratio and the current ratio stand out as essential metrics for assessing a company's liquidity, or its ability to meet short-term obligations. Understanding a company's liquidity is crucial, as it directly influences decisions regarding investment and risk management.

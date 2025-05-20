@@ -1,6 +1,9 @@
 ---
-title: "Foreign Direct Investment: Types and Examples (Algo Trading)"
-description: "Explore the transformative impact of Foreign Direct Investment and algorithmic trading on the global financial landscape enhancing market efficiency and economic growth."
+category: quant_concept
+description: Explore the transformative impact of Foreign Direct Investment and algorithmic
+  trading on the global financial landscape enhancing market efficiency and economic
+  growth.
+title: 'Foreign Direct Investment: Types and Examples (Algo Trading)'
 ---
 
 In the contemporary global economy, investment strategies are diverse and multifaceted. This article explores Foreign Direct Investment (FDI) and algorithmic trading, two pivotal methodologies reshaping financial landscapes. FDI involves acquiring or creating a lasting interest in enterprises functioning beyond national borders, serving as a crucial channel for integration in global markets by fostering strong cross-border economic linkages. On the other hand, algorithmic trading leverages cutting-edge technology, utilizing computer algorithms to execute high-speed trading decisions with precision, thus enhancing efficiency and accuracy in financial markets.

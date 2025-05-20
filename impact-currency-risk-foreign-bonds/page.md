@@ -1,6 +1,8 @@
 ---
-title: "Impact of Currency Risk on Foreign Bonds (Algo Trading)"
-description: "Explore how currency risk impacts foreign bond investments and how algorithmic trading strategies can help manage and mitigate these risks effectively."
+category: trading_strategy
+description: Explore how currency risk impacts foreign bond investments and how algorithmic
+  trading strategies can help manage and mitigate these risks effectively.
+title: Impact of Currency Risk on Foreign Bonds (Algo Trading)
 ---
 
 Investment in foreign bonds appeals to many investors seeking to diversify their portfolios and achieve higher returns. The attractive yields offered by foreign bonds can be instrumental in enhancing portfolio returns, leveraging interest rate differentials across countries. Moreover, foreign bonds provide diversification benefits by including exposure to different economic environments and market conditions, potentially reducing overall portfolio risk.

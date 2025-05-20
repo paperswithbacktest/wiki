@@ -1,6 +1,12 @@
 ---
-title: "Random Walk Theory (Algo Trading)"
-description: "Explore the significance of Random Walk Theory in finance and its influence on algorithmic trading. Understand how this theory posits that stock prices follow an unpredictable path, which impacts market efficiency and investment strategies. Discover how algorithmic trading leverages this randomness to enhance decision-making and potentially improve trading performance, while emphasizing the importance of disciplined, data-driven approaches in navigating market dynamics."
+category: quant_concept
+description: Explore the significance of Random Walk Theory in finance and its influence
+  on algorithmic trading. Understand how this theory posits that stock prices follow
+  an unpredictable path, which impacts market efficiency and investment strategies.
+  Discover how algorithmic trading leverages this randomness to enhance decision-making
+  and potentially improve trading performance, while emphasizing the importance of
+  disciplined, data-driven approaches in navigating market dynamics.
+title: Random Walk Theory (Algo Trading)
 ---
 
 In financial markets, theories and algorithms are pivotal in shaping investment strategies and guiding decision-making. The Random Walk Theory stands out as a significant concept in finance. It suggests that stock market prices follow an unpredictable trajectory, making future movements essentially random and independent of past behavior. The theory’s implications for finance are profound, influencing how market efficiency and trading strategies are perceived and developed.

@@ -1,6 +1,14 @@
 ---
-title: "Deribit API Guide (Algo Trading)"
-description: Explore the powerful Deribit API guide for algorithmic trading in cryptocurrency derivatives. Learn how to utilize the platform's robust REST and WebSocket APIs for accessing real-time market data and executing automated trading strategies efficiently. Gain insights into setting up Deribit's API, generating API keys, and building strategies with practical examples, ensuring success in the dynamic world of crypto trading. Discover the key features and benefits of Deribit, including market data access and comprehensive account management, to enhance your trading performance with algorithmic precision.
+category: dataset
+description: Explore the powerful Deribit API guide for algorithmic trading in cryptocurrency
+  derivatives. Learn how to utilize the platform's robust REST and WebSocket APIs
+  for accessing real-time market data and executing automated trading strategies efficiently.
+  Gain insights into setting up Deribit's API, generating API keys, and building strategies
+  with practical examples, ensuring success in the dynamic world of crypto trading.
+  Discover the key features and benefits of Deribit, including market data access
+  and comprehensive account management, to enhance your trading performance with algorithmic
+  precision.
+title: Deribit API Guide (Algo Trading)
 ---
 
 Algorithmic trading, also known as automated trading, involves using computer algorithms to execute trades based on predefined criteria. This approach has become a significant component of modern finance due to its ability to process complex calculations and execute high-speed trading strategies that humans would struggle to match manually. By leveraging technology, market participants can capitalize on fleeting opportunities, maintain consistency in trade executions, and ensure decisions are made without emotional bias.

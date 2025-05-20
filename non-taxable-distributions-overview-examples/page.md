@@ -1,6 +1,8 @@
 ---
-title: "Non-Taxable Distributions: Overview and Examples (Algo Trading)"
-description: "Discover the benefits of non-taxable distributions in algorithmic trading to optimize your financial strategies minimize tax burdens and enhance net returns."
+category: quant_concept
+description: Discover the benefits of non-taxable distributions in algorithmic trading
+  to optimize your financial strategies minimize tax burdens and enhance net returns.
+title: 'Non-Taxable Distributions: Overview and Examples (Algo Trading)'
 ---
 
 In the intricate world of finance, understanding non-taxable distributions is crucial for investors and corporations alike. Non-taxable distributions represent a form of tax-free income that can significantly impact an individual’s or corporation's financial strategy. These distributions are recognized for their potential to alter tax obligations, thereby influencing the financial health of stakeholders involved.

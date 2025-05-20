@@ -1,6 +1,8 @@
 ---
-title: "Valuation of Private Company Shares (Algo Trading)"
-description: "Explore the complexities of valuing private company shares with algorithmic trading Learn about financial performance growth potential and management insights"
+category: quant_concept
+description: Explore the complexities of valuing private company shares with algorithmic
+  trading Learn about financial performance growth potential and management insights
+title: Valuation of Private Company Shares (Algo Trading)
 ---
 
 Understanding the valuation of private company shares is essential for investors and business owners seeking to make informed decisions. Private companies differ from their public counterparts by lacking a transparent pricing mechanism, which adds layers of complexity to the valuation process. In public markets, share prices are readily available due to active trading on stock exchanges, providing a clear indicator of a company's value. In contrast, private companies do not have such a pricing mechanism, making it challenging to determine the fair market value of their shares.

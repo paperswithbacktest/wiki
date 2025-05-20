@@ -1,6 +1,12 @@
 ---
-title: "Domestic Corporation vs. Foreign Corporation (Algo Trading)"
-description: "Explore the key differences between domestic and foreign corporations in the context of algorithmic trading. Discover how local and international corporations navigate distinct legal frameworks and taxation landscapes. Understand how technological advancements like AI are transforming trading strategies and enhancing competitiveness for both domestic and foreign entities. Equip your business with insights on aligning corporate structures with tech innovations to drive growth in the global economy."
+category: quant_concept
+description: Explore the key differences between domestic and foreign corporations
+  in the context of algorithmic trading. Discover how local and international corporations
+  navigate distinct legal frameworks and taxation landscapes. Understand how technological
+  advancements like AI are transforming trading strategies and enhancing competitiveness
+  for both domestic and foreign entities. Equip your business with insights on aligning
+  corporate structures with tech innovations to drive growth in the global economy.
+title: Domestic Corporation vs. Foreign Corporation (Algo Trading)
 ---
 
 In today's global economy, investors and entrepreneurs face a complex landscape where understanding the various types of corporations is essential for decision-making and strategic planning. Corporations are foundational to economic structures, influencing taxation policies, legal liabilities, and the overall operational framework of businesses. This article focuses on the distinct categories of domestic and foreign corporations, examining their unique characteristics and the implications these classifications have on business activities.

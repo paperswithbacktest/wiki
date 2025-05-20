@@ -1,6 +1,8 @@
 ---
-title: "Benefits of a Market Economy (Algo Trading)"
-description: "Explore the benefits of a market economy in driving efficiency, innovation, and choice. Discover how algorithmic trading enhances market dynamics and liquidity."
+category: quant_concept
+description: Explore the benefits of a market economy in driving efficiency, innovation,
+  and choice. Discover how algorithmic trading enhances market dynamics and liquidity.
+title: Benefits of a Market Economy (Algo Trading)
 ---
 
 A market economy is an economic system in which the production, distribution, and pricing of goods and services are primarily determined by the forces of supply and demand. This system plays a pivotal role in global economics as it allows for the efficient allocation of resources and fosters economic growth through competitive practices and innovation. Unlike command economies, where central authorities make production decisions, market economies rely on decentralized decision-making with minimal government interference. This characteristic usually leads to a more dynamic and efficient economic environment. 

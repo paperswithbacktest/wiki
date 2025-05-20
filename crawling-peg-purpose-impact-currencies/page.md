@@ -1,6 +1,8 @@
 ---
-title: "Crawling Peg: Purpose and Impact on Currencies (Algo Trading)"
-description: "Explore the impact and nuances of crawling peg systems on currency stability and global trade dynamics, along with the role of algorithmic trading."
+category: quant_concept
+description: Explore the impact and nuances of crawling peg systems on currency stability
+  and global trade dynamics, along with the role of algorithmic trading.
+title: 'Crawling Peg: Purpose and Impact on Currencies (Algo Trading)'
 ---
 
 In today's global economy, exchange rate policies are crucial for maintaining currency valuation and stability. These policies dictate how a nation manages its currency in relation to others, consequently impacting international trade, investment decisions, and economic stability. Exchange rate policies encompass various mechanisms that countries employ to stabilize their currencies and mitigate excessive volatility, which can disrupt economic balance. 
@@ -189,4 +191,3 @@ These dynamics highlight the complexity and potential trade-offs nations face in
 7. Dumas, B., and Niso Smith, W. A. (1995). "Dynamic Strategic Interactions: Policy Coordination and the Role of Exchange Rate Target Setting under Uncertainty." *International Economic Review*, 36(4), pp. 873-900. This paper evaluates the strategic interactions between nations in managing exchange rates, highlighting the complexities of coordination under uncertain financial landscapes.
 
 These references provide a foundational basis for understanding the mechanisms, advantages, and limitations of crawling pegs and algorithmic trading, while offering insights into historical and practical applications of pegged exchange rate systems.
-

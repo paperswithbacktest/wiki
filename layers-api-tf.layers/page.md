@@ -1,7 +1,8 @@
 ---
-title: Simplifying Neural Network Development With TensorFlow Layers API
+category: quant_concept
 description: TensorFlow Layers API streamlines neural network model building with
   high-level layer classes and built-in regularization. Discover more inside.
+title: Simplifying Neural Network Development With TensorFlow Layers API
 ---
 
 ![Image](images/1.png)

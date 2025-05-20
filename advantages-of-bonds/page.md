@@ -1,6 +1,8 @@
 ---
-title: "Advantages of Bonds (Algo Trading)"
-description: "Discover the advantages of bonds and how algorithmic trading enhances their benefits for a diversified portfolio boosting stability and optimizing returns."
+category: quant_concept
+description: Discover the advantages of bonds and how algorithmic trading enhances
+  their benefits for a diversified portfolio boosting stability and optimizing returns.
+title: Advantages of Bonds (Algo Trading)
 ---
 
 Investment in bonds is often overshadowed by the more glamorous stock market, yet bonds offer critical benefits that make them a necessary component of a diversified portfolio. Bonds, as fixed-income securities, have historically provided investors with a dependable stream of income and stability, contrasting with the volatility frequently associated with stock investments. This stability stems from the predictable nature of interest payments and the assurance of principal repayment upon maturity. As such, bonds serve not only as a conservative investment option but also as a hedge against stock market fluctuations.

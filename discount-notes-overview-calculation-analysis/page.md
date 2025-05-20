@@ -1,6 +1,8 @@
 ---
-title: "Discount Notes: Overview, Calculation, and Analysis (Algo Trading)"
-description: "Explore the synergy between discount notes and algorithmic trading to enhance investment strategies with low-risk options and high-speed market executions."
+category: quant_concept
+description: Explore the synergy between discount notes and algorithmic trading to
+  enhance investment strategies with low-risk options and high-speed market executions.
+title: 'Discount Notes: Overview, Calculation, and Analysis (Algo Trading)'
 ---
 
 Investment strategies have witnessed substantial transformation with the advent of innovative financial instruments and sophisticated trading technologies. Two components integral to contemporary financial markets are discount notes and algorithmic trading, each offering unique advantages that cater to different investor needs and objectives.

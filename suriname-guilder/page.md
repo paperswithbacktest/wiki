@@ -1,6 +1,8 @@
 ---
-title: "Suriname Guilder (Algo Trading)"
-description: "Explore the Suriname Guilder's history, the impact of algorithmic trading on its economy, and how it shapes Suriname's future financial landscape."
+category: quant_concept
+description: Explore the Suriname Guilder's history, the impact of algorithmic trading
+  on its economy, and how it shapes Suriname's future financial landscape.
+title: Suriname Guilder (Algo Trading)
 ---
 
 The Suriname Guilder (SRG) was a pivotal element of Suriname's economy, reflecting its colonial history and the economic progress and challenges encountered by the nation. As the primary currency until 2004, the SRG was intrinsic to economic transactions within the country and with international trade partners. Suriname, located on the northeastern coast of South America, has a financial landscape historically characterized by its rich natural resources, such as bauxite, gold, and oil. However, the country's economy faces significant challenges, including volatility in global commodity prices and inflation, which have historically impacted financial stability and the efficacy of its monetary policies.

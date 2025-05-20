@@ -1,6 +1,9 @@
 ---
-title: "Electronics Industry (Algo Trading)"
-description: "Explore the convergence of electronics and manufacturing technology driving advancements in algorithmic trading. Discover how this synergy enhances financial markets."
+category: quant_concept
+description: Explore the convergence of electronics and manufacturing technology driving
+  advancements in algorithmic trading. Discover how this synergy enhances financial
+  markets.
+title: Electronics Industry (Algo Trading)
 ---
 
 The intersection of manufacturing technology and electronics has catalyzed significant advancements across numerous sectors. This confluence has not only propelled technological growth but also revolutionized industries such as finance through algorithmic trading. Algorithmic trading, often referred to as algo trading, utilizes sophisticated computer algorithms to execute orders at speeds and efficiencies unmatched by human traders. It relies heavily on precise, rapid, and automated decision-making processes supported by robust electronics and computer systems.

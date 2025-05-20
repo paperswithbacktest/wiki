@@ -1,6 +1,9 @@
 ---
-title: "Comparison of Market Capitalization and Market Value (Algo Trading)"
-description: "Explore the crucial differences between market capitalization and market value in finance Learn how algorithmic trading reshapes investment strategies and market dynamics"
+category: quant_concept
+description: Explore the crucial differences between market capitalization and market
+  value in finance Learn how algorithmic trading reshapes investment strategies and
+  market dynamics
+title: Comparison of Market Capitalization and Market Value (Algo Trading)
 ---
 
 In the world of finance, investors must grasp the importance of evaluating various metrics and trading mechanisms to make informed decisions. Among these metrics, market capitalization and market value stand out as crucial indicators of a company's size and perceived value. Market capitalization, often referred to as market cap, is calculated by multiplying the total number of a company's outstanding shares by the current price per share. This straightforward measure provides a snapshot of a company’s relative size compared to its peers. 

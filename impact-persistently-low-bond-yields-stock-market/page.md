@@ -1,6 +1,8 @@
 ---
-title: "Impact of Persistently Low Bond Yields on Stock Market (Algo Trading)"
-description: "Explore the impact of low bond yields on stock markets and algorithmic trading Learn how these elements shape market dynamics and investment strategies"
+category: quant_concept
+description: Explore the impact of low bond yields on stock markets and algorithmic
+  trading Learn how these elements shape market dynamics and investment strategies
+title: Impact of Persistently Low Bond Yields on Stock Market (Algo Trading)
 ---
 
 In recent years, the financial landscape has witnessed considerable change, shaped by the interplay of stock market dynamics, bond yields, and advancements in algorithmic trading. The intricate relationships among these factors are pivotal for investors and financial analysts seeking to understand market behaviors and make astute investment decisions.
@@ -111,4 +113,4 @@ For those interested in exploring the latest advancements in algorithmic trading
 
 [6]: ["Investopedia"](https://www.investopedia.com/), a comprehensive resource for financial education and market analysis.
 
-[7]: [U.S. Securities and Exchange Commission (SEC)](https://www.sec.gov/search-filings), providing guidelines and information on market regulations. 
+[7]: [U.S. Securities and Exchange Commission (SEC)](https://www.sec.gov/search-filings), providing guidelines and information on market regulations.

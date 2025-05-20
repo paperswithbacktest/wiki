@@ -1,6 +1,8 @@
 ---
-title: "Currency Certificate Overview and Functionality (Algo Trading)"
-description: "Discover the role of currency certificates in hedging foreign exchange risks and the impact of algorithmic trading in optimizing financial strategies."
+category: quant_concept
+description: Discover the role of currency certificates in hedging foreign exchange
+  risks and the impact of algorithmic trading in optimizing financial strategies.
+title: Currency Certificate Overview and Functionality (Algo Trading)
 ---
 
 The financial landscape is continuously evolving, influenced by advancements in technology, globalization, and regulatory changes. Financial instruments, which include stocks, bonds, and derivatives, have expanded in complexity and variety. They serve as essential tools for organizations and investors, facilitating capital raising, risk management, and wealth creation. 

@@ -1,6 +1,9 @@
 ---
-title: "Plunge Protection Team (Algo Trading)"
-description: "Explore the role of the Plunge Protection Team in stabilizing US markets amidst volatility focusing on advisory measures and implications for algorithmic trading."
+category: quant_concept
+description: Explore the role of the Plunge Protection Team in stabilizing US markets
+  amidst volatility focusing on advisory measures and implications for algorithmic
+  trading.
+title: Plunge Protection Team (Algo Trading)
 ---
 
 The world of financial markets is characterized by its complexity and unpredictability, with events unfolding that can lead to significant economic turbulence. In efforts to navigate such volatility and bolster market stability, a group known as the Plunge Protection Team (PPT) has become a pivotal yet discreet feature of the U.S. financial landscape. Officially designated as the Working Group on Financial Markets, the PPT was established in 1988 following the severe market turbulence witnessed in the previous year’s Black Monday crash—the largest single-day percentage decline in stock market history at that time.

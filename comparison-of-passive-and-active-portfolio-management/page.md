@@ -1,6 +1,9 @@
 ---
-title: "Comparison of Passive and Active Portfolio Management (Algo Trading)"
-description: "Explore the distinct strategies in active and passive portfolio management including the role of algorithmic trading to enhance investment outcomes and risk management."
+category: trading_strategy
+description: Explore the distinct strategies in active and passive portfolio management
+  including the role of algorithmic trading to enhance investment outcomes and risk
+  management.
+title: Comparison of Passive and Active Portfolio Management (Algo Trading)
 ---
 
 Portfolio management plays a pivotal role in investing, involving the selection and oversight of a range of investments to achieve specific financial goals. This process is essentially divided into two main categories: active and passive management. Each management style brings its own unique strategies and advantages to the table. Active management is characterized by a hands-on approach, where decisions are made to outperform a benchmark, while passive management follows a more static strategy, typically tracking a market index to match its performance.
@@ -152,4 +155,3 @@ Ultimately, investors must consider their unique financial situations, consult w
 [7]: Farrell, J. L. Jr. (1997). ["Portfolio Management: Theory and Application."](https://archive.org/details/portfoliomanagem0000farr) McGraw-Hill.
 
 [8]: Bogle, J. C. (2017). ["The Little Book of Common Sense Investing: The Only Way to Guarantee Your Fair Share of Stock Market Returns."](https://www.amazon.com/Little-Book-Common-Sense-Investing/dp/1119404509) Wiley.
-

@@ -1,6 +1,8 @@
 ---
-title: "Helicopter Money: Economic Examples and Types (Algo Trading)"
-description: "Explore the impact of helicopter money and its role in modern economic policy including its interaction with algorithmic trading in today's financial markets."
+category: quant_concept
+description: Explore the impact of helicopter money and its role in modern economic
+  policy including its interaction with algorithmic trading in today's financial markets.
+title: 'Helicopter Money: Economic Examples and Types (Algo Trading)'
 ---
 
 Helicopter money, which originated as a theoretical construct, has progressively emerged as a feasible monetary policy tool used to address economic challenges in contemporary settings. First proposed by economist Milton Friedman in 1969, the concept envisages distributing money directly to the public—akin to dropping it from a helicopter—to inject liquidity into the economy and stimulate consumer spending. This approach bypasses traditional banking mechanisms, providing a streamlined method to bolster economic activity.
@@ -114,4 +116,3 @@ Aronson, D. R. (2006). *Evidence-Based Technical Analysis: Applying the Scientif
 Jansen, S. (2020). *Machine Learning for Algorithmic Trading: Predictive Models to Ticker Data and Order Handling Strategies.* Packt Publishing. Jansen discusses advanced predictive models in trading, with potential applications in responding to monetary policy shifts.
 
 Chan, E. P. (2008). *Quantitative Trading: How to Build Your Own Algorithmic Trading Business.* Wiley Trading. This comprehensive guide on constructing algorithmic trading systems underscores the need for adaptability in volatile markets affected by policies like helicopter money.
-

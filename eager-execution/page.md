@@ -1,7 +1,8 @@
 ---
-title: Understanding Eager Execution in TensorFlow Machine Learning
+category: quant_concept
 description: Eager Execution delivers immediate TensorFlow operation results for clearer
   step by step debugging and faster learning for developers Discover more inside.
+title: Understanding Eager Execution in TensorFlow Machine Learning
 ---
 
 ![Image](images/1.png)

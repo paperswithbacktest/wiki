@@ -1,6 +1,8 @@
 ---
-title: "Methods for Valuing Real Estate Rental Properties (Algo Trading)"
-description: "Explore the intersection of real estate valuation techniques and algorithmic trading to make informed investment decisions and maximize returns in property markets."
+category: quant_concept
+description: Explore the intersection of real estate valuation techniques and algorithmic
+  trading to make informed investment decisions and maximize returns in property markets.
+title: Methods for Valuing Real Estate Rental Properties (Algo Trading)
 ---
 
 The real estate sector is one of the foundational pillars of economic development and individual wealth-building. It has traditionally been influenced by aspects such as property valuation, rental income, and more recently, the increasing utilization of algorithmic trading. Understanding the methods of assessing a property's worth is essential for investors aiming to identify and exploit profitable investment opportunities. 

@@ -1,6 +1,9 @@
 ---
-title: "Moving Average Envelopes in Trading (Algo Trading)"
-description: "Optimize trading strategies using moving average envelopes to identify market trends and signals. Enhance algo trading decisions with this powerful analysis tool."
+category: trading_strategy
+description: Optimize trading strategies using moving average envelopes to identify
+  market trends and signals. Enhance algo trading decisions with this powerful analysis
+  tool.
+title: Moving Average Envelopes in Trading (Algo Trading)
 ---
 
 Moving average envelopes are a technical analysis indicator used in trading to identify potential buy and sell signals. They consist of a moving average line, which is typically calculated over a specific period, and two additional lines or 'envelopes' set at a certain percentage above and below this moving average. The envelopes create a channel, allowing traders to visualize levels where price might be considered overbought or oversold. These tools help traders to gauge the volatility of an asset and make informed decisions about timing their trades.

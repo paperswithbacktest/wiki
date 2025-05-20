@@ -1,6 +1,8 @@
 ---
-title: "CHIPS and Science Act of 2022 (Algo Trading)"
-description: "Explore the transformative impact of the CHIPS and Science Act of 2022 on algorithmic trading. Delve into how this major legislation reshapes US tech."
+category: quant_concept
+description: Explore the transformative impact of the CHIPS and Science Act of 2022
+  on algorithmic trading. Delve into how this major legislation reshapes US tech.
+title: CHIPS and Science Act of 2022 (Algo Trading)
 ---
 
 The CHIPS and Science Act of 2022 is a pivotal legislative move in the United States, designed to revitalize the semiconductor industry and enhance scientific research. Signed into law by President Joe Biden, this act marks a significant commitment, with a hefty investment of $250 billion aimed at re-establishing the United States as a dominant force in global chip manufacturing while also addressing critical supply chain vulnerabilities that have become prominent in recent years. As semiconductor technology forms the backbone of numerous technological advancements, the act not only concentrates on chipmaking but also broadens its scope to encompass a wider range of scientific and technological initiatives. 

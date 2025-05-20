@@ -1,6 +1,9 @@
 ---
-title: "SEC Form 10: Overview, Uses, and Filing Process (Algo Trading)"
-description: "Explore SEC Form 10's role in financial transparency and its impact on algorithmic trading. Understand filing processes and how disclosures shape market strategies."
+category: quant_concept
+description: Explore SEC Form 10's role in financial transparency and its impact on
+  algorithmic trading. Understand filing processes and how disclosures shape market
+  strategies.
+title: 'SEC Form 10: Overview, Uses, and Filing Process (Algo Trading)'
 ---
 
 The SEC Form 10 is a critical document within the United States' financial regulatory framework, serving as a fundamental tool for ensuring transparency and trust in the public markets. Its primary purpose is to register securities with the U.S. Securities and Exchange Commission (SEC) following the Securities Exchange Act of 1934. Public companies employ Form 10 for official filings to provide comprehensive details about their financial condition, management, and business operations. This ensures that investors have access to relevant, timely, and accurate information for making informed investment decisions.

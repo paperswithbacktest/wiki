@@ -1,6 +1,8 @@
 ---
-title: "Impact of the 2008 Financial Crisis on the Banking Sector (Algo Trading)"
-description: "Explore how the 2008 Financial Crisis reshaped the banking sector and spurred the rise of algorithmic trading amidst significant market disruption."
+category: quant_concept
+description: Explore how the 2008 Financial Crisis reshaped the banking sector and
+  spurred the rise of algorithmic trading amidst significant market disruption.
+title: Impact of the 2008 Financial Crisis on the Banking Sector (Algo Trading)
 ---
 
 The 2008 Financial Crisis stands as a pivotal moment in recent economic history, sending shockwaves throughout the global economy and fundamentally altering financial landscapes. Sparked by the unraveling of a housing bubble in the United States, this crisis revealed vulnerabilities within the financial system, prompting a cascading effect that influenced economies worldwide. Banks, at the heart of the finance sector, faced unprecedented challenges, from massive write-downs due to toxic assets to a significant erosion of consumer confidence and interbank lending.

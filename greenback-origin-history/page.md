@@ -1,6 +1,9 @@
 ---
-title: "Greenback: Origin and History (Algo Trading)"
-description: "Explore the origin and evolution of the U.S. dollar, its pivotal role in global economics, and the transformative impact of algorithmic trading in forex markets."
+category: quant_concept
+description: Explore the origin and evolution of the U.S. dollar, its pivotal role
+  in global economics, and the transformative impact of algorithmic trading in forex
+  markets.
+title: 'Greenback: Origin and History (Algo Trading)'
 ---
 
 The U.S. dollar, commonly referred to as the greenback, holds a significant place in global finance due to its historical journey from a fledgling currency to a cornerstone of international trade. Originating during the American Civil War, the greenback was initially introduced as a means to finance the war effort without depleting gold reserves. Over time, it transformed into a robust currency, earning its role as the world's primary reserve currency.

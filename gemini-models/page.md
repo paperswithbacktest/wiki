@@ -1,7 +1,8 @@
 ---
-title: Understanding Google Gemini Models in Machine Learning
+category: quant_concept
 description: Google Gemini Models offer versatile AI handling text understanding image
   recognition and content generation with contextual accuracy Discover more inside
+title: Understanding Google Gemini Models in Machine Learning
 ---
 
 ![Image](images/1.jpeg)

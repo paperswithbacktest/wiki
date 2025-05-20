@@ -1,6 +1,8 @@
 ---
-title: "Cross-market arbitrage (Algo Trading)"
-description: "Explore the intricacies of cross-market arbitrage leveraging algorithmic trading to exploit price differences across markets with speed and precision."
+category: trading_strategy
+description: Explore the intricacies of cross-market arbitrage leveraging algorithmic
+  trading to exploit price differences across markets with speed and precision.
+title: Cross-market arbitrage (Algo Trading)
 ---
 
 Cross-market arbitrage is a sophisticated trading strategy aimed at exploiting price discrepancies of identical or similar financial instruments across multiple markets. This strategy fundamentally relies on the law of one price, which posits that in the absence of trade restrictions and transaction costs, the same asset should trade at the same price across all markets. The concept is grounded in efficient market theories where discrepancies arise due to temporary inefficiencies, variations in liquidity, or differences in information dissemination.

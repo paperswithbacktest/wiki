@@ -1,6 +1,9 @@
 ---
-title: "Most Active Trading Explained (Algo Trading)"
-description: "Discover the intricacies of active and algorithmic trading to optimize your investment strategies and maximize returns in the dynamic world of financial markets."
+category: quant_concept
+description: Discover the intricacies of active and algorithmic trading to optimize
+  your investment strategies and maximize returns in the dynamic world of financial
+  markets.
+title: Most Active Trading Explained (Algo Trading)
 ---
 
 Understanding the terminology in trading is crucial for both beginner and experienced traders as it forms the foundation of making informed investment decisions. This guide provides definitions and examples of various trading types and strategies, shedding light on the complexities and nuances of the financial markets. Two prominent strategies are active trading and algorithmic trading, each offering distinct approaches to maximizing returns and minimizing risks.

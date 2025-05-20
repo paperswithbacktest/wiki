@@ -1,7 +1,8 @@
 ---
-title: Understanding Video Model Blocks For Advanced Video Analysis
+category: quant_concept
 description: Video Model Blocks break down complex spatial and temporal video data
   for accurate action recognition and real-time processing Discover more inside
+title: Understanding Video Model Blocks For Advanced Video Analysis
 ---
 
 ![Image](images/1.png)

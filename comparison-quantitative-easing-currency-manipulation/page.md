@@ -1,6 +1,9 @@
 ---
-title: "Comparison of Quantitative Easing and Currency Manipulation (Algo Trading)"
-description: "Explore the dynamics of economic policies, quantitative easing, and currency manipulation in modern finance and understand their impact on global markets and trade."
+category: quant_concept
+description: Explore the dynamics of economic policies, quantitative easing, and currency
+  manipulation in modern finance and understand their impact on global markets and
+  trade.
+title: Comparison of Quantitative Easing and Currency Manipulation (Algo Trading)
 ---
 
 Understanding the interplay between economic policy, currency manipulation, and quantitative easing is crucial for grasping the dynamics of modern financial systems. These components serve as foundational elements that influence global markets. Economic policies dictate the framework within which currencies operate, defining interest rates, inflation targets, and fiscal regulations. Such policies inherently affect currency values as they dictate investor confidence and capital flow, which are critical determinants in exchange rate fluctuations.

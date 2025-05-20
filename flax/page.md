@@ -1,7 +1,8 @@
 ---
-title: Comprehensive Guide to Flax Machine Learning Library
+category: quant_concept
 description: Flax streamlines AI model development with JAX powered GPU and TPU support
   intuitive modules and training tools to boost productivity Discover more inside
+title: Comprehensive Guide to Flax Machine Learning Library
 ---
 
 ![Image](images/1.png)

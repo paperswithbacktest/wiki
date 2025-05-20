@@ -1,6 +1,12 @@
 ---
-title: "Comparison of Nordic and United States Economic Systems (Algo Trading)"
-description: "Explore the differences and similarities between Nordic and U.S. economic models and the impact of algorithmic trading on their economies. Understand how the Nordic model blends capitalism with social welfare, while the U.S. model emphasizes economic freedom. Assess the role of technology in shaping these economies and analyze economic philosophies and their implications for wealth distribution and national economic landscapes."
+category: quant_concept
+description: Explore the differences and similarities between Nordic and U.S. economic
+  models and the impact of algorithmic trading on their economies. Understand how
+  the Nordic model blends capitalism with social welfare, while the U.S. model emphasizes
+  economic freedom. Assess the role of technology in shaping these economies and analyze
+  economic philosophies and their implications for wealth distribution and national
+  economic landscapes.
+title: Comparison of Nordic and United States Economic Systems (Algo Trading)
 ---
 
 The concept of economic models provides diverse methodologies for the management and functioning of national economies, each with its unique set of principles and implications. Two prominent examples are the Nordic model and the U.S. economic system, which represent contrasting approaches to economic governance. The Nordic model is often characterized by a blend of capitalism with extensive social welfare systems, whereas the U.S. model leans towards a predominantly capitalist framework with a focus on economic freedom and minimal state intervention.

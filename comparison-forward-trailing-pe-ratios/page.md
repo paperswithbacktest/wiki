@@ -1,6 +1,8 @@
 ---
-title: "Comparison of Forward P/E and Trailing P/E Ratios (Algo Trading)"
-description: "Explore key differences between forward and trailing P/E ratios and their role in algorithmic trading to optimize investment strategies and maximize returns."
+category: quant_concept
+description: Explore key differences between forward and trailing P/E ratios and their
+  role in algorithmic trading to optimize investment strategies and maximize returns.
+title: Comparison of Forward P/E and Trailing P/E Ratios (Algo Trading)
 ---
 
 Understanding financial ratios is crucial for investors aiming to assess the value and performance of a company. These ratios provide valuable insights into various aspects of a company's financial health, allowing investors to make well-informed decisions. Among the myriad of financial ratios available, the price-to-earnings (P/E) ratio stands out as a significant metric. It offers a straightforward method to evaluate whether a stock is over or undervalued in comparison to its earnings. This article focuses on the differences between two specific types of P/E ratios: the forward P/E and trailing P/E ratios, and their relevance in algorithmic trading. 

@@ -1,6 +1,9 @@
 ---
-title: "Financial Institutions and Prudential Policy (Algo Trading)"
-description: "Explore the dynamic world of financial institutions and algorithmic trading, understanding the crucial role of prudential policy in maintaining market integrity and stability."
+category: quant_concept
+description: Explore the dynamic world of financial institutions and algorithmic trading,
+  understanding the crucial role of prudential policy in maintaining market integrity
+  and stability.
+title: Financial Institutions and Prudential Policy (Algo Trading)
 ---
 
 The financial sector is in a state of perpetual transformation, with technological innovations continually reshaping its landscape. Among these innovations, algorithmic trading stands out as a significant development, utilizing computer algorithms to automate trading processes. This has increased the pace and efficiency of trading, leading to more dynamic financial markets. However, these advancements also bring about challenges that necessitate careful regulation to ensure stability and integrity within the financial system.

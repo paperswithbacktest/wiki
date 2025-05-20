@@ -1,6 +1,8 @@
 ---
-title: "Capital Improvement Overview (Algo Trading)"
-description: "Explore how capital improvements and algorithmic trading intersect to create innovative investment strategies in real estate for optimal financial outcomes."
+category: trading_strategy
+description: Explore how capital improvements and algorithmic trading intersect to
+  create innovative investment strategies in real estate for optimal financial outcomes.
+title: Capital Improvement Overview (Algo Trading)
 ---
 
 In the ever-evolving world of finance and technology, the combination of property enhancement, real estate investment, capital improvement, and algorithmic trading is creating new opportunities and strategies. Each of these domains influences modern investment approaches in unique ways, and understanding their interplay is crucial for optimizing outcomes.

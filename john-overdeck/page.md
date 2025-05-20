@@ -1,6 +1,14 @@
 ---
-title: "John Overdeck (Algo Trading)"
-description: John Overdeck is a leading American billionaire and philanthropist known for his significant impact on algorithmic trading. As the co-founder of Two Sigma Investments, Overdeck has revolutionized hedge fund strategies by integrating advanced technologies like AI and machine learning, enabling data-driven investment decisions. Under his leadership, Two Sigma excels in quantitative investing, leveraging large datasets for precise analysis and innovative trading models. Beyond finance, Overdeck is dedicated to philanthropy, notably in education through the Overdeck Family Foundation, supporting STEM initiatives nationwide.
+category: quant_concept
+description: John Overdeck is a leading American billionaire and philanthropist known
+  for his significant impact on algorithmic trading. As the co-founder of Two Sigma
+  Investments, Overdeck has revolutionized hedge fund strategies by integrating advanced
+  technologies like AI and machine learning, enabling data-driven investment decisions.
+  Under his leadership, Two Sigma excels in quantitative investing, leveraging large
+  datasets for precise analysis and innovative trading models. Beyond finance, Overdeck
+  is dedicated to philanthropy, notably in education through the Overdeck Family Foundation,
+  supporting STEM initiatives nationwide.
+title: John Overdeck (Algo Trading)
 ---
 
 John Overdeck is a prominent American billionaire and philanthropist recognized for his transformative contributions to the field of algorithmic trading. As the co-founder of Two Sigma Investments, Overdeck has been instrumental in reshaping hedge fund strategies by seamlessly integrating advanced technologies such as artificial intelligence (AI) and machine learning (ML). These technologies have allowed Two Sigma to leverage vast datasets, enabling more informed and efficient investment decisions.

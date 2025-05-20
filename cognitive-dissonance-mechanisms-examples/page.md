@@ -1,6 +1,8 @@
 ---
-title: "Cognitive Dissonance: Mechanisms and Examples (Algo Trading)"
-description: "Explore the role of cognitive dissonance in algorithmic trading Learn how this psychological phenomenon impacts decision-making and trading strategies."
+category: quant_concept
+description: Explore the role of cognitive dissonance in algorithmic trading Learn
+  how this psychological phenomenon impacts decision-making and trading strategies.
+title: 'Cognitive Dissonance: Mechanisms and Examples (Algo Trading)'
 ---
 
 The intersection of psychology and trading presents a fascinating landscape where human emotions, cognitive processes, and economic models converge. At the heart of this interaction is cognitive dissonance, a psychological phenomenon that plays a crucial role in decision-making, particularly in algorithmic trading. Cognitive dissonance arises when an individual holds two or more contradictory beliefs, causing mental discomfort and often prompting the person to alter one of the beliefs to reduce the dissonance and restore psychological harmony. In trading, this can significantly impact decision-making, as traders may find themselves rationalizing poor decisions or clinging to failed strategies to alleviate the discomfort of dissonance.

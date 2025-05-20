@@ -1,6 +1,9 @@
 ---
-title: "Absolute Rate Overview (Algo Trading)"
-description: "Explore the importance of financial metrics in algorithmic trading with a focus on absolute rate calculations for effective interest rate swaps and strategic decisions."
+category: quant_concept
+description: Explore the importance of financial metrics in algorithmic trading with
+  a focus on absolute rate calculations for effective interest rate swaps and strategic
+  decisions.
+title: Absolute Rate Overview (Algo Trading)
 ---
 
 In the world of finance, particularly within algorithmic trading, understanding and accurately calculating financial metrics is crucial for evaluating the performance of trading strategies. Algorithmic trading involves using computer programs to execute financial transactions based on pre-defined criteria, often centering on complex mathematical models and large datasets. Such trading strategies require robust evaluation metrics to ensure they perform optimally under varying market conditions.

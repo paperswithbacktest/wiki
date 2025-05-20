@@ -1,6 +1,9 @@
 ---
-title: "Impact of Slowcession on Economic Growth (Algo Trading)"
-description: "Explore the impact of slowcession on economic growth and algorithmic trading Learn how sluggish economic conditions challenge market practices and influence policies"
+category: quant_concept
+description: Explore the impact of slowcession on economic growth and algorithmic
+  trading Learn how sluggish economic conditions challenge market practices and influence
+  policies
+title: Impact of Slowcession on Economic Growth (Algo Trading)
 ---
 
 In today's rapidly changing economic landscape, the term "slowcession" has emerged as a descriptor for distinctive economic states. As economies around the world become increasingly interconnected and complex, understanding new terms like slowcession is crucial for both economists and participants in financial markets. This article will examine the concept of slowcession, a period of sluggish economic growth that skates perilously close to recession territory. 

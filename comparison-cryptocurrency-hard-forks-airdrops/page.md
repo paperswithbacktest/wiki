@@ -1,6 +1,8 @@
 ---
-title: "Comparison of Cryptocurrency Hard Forks and Airdrops (Algo Trading)"
-description: "Explore airdrops, hard forks, and algorithmic trading in cryptocurrency Learn how these concepts shape the market dynamics and influence investment strategies"
+category: quant_concept
+description: Explore airdrops, hard forks, and algorithmic trading in cryptocurrency
+  Learn how these concepts shape the market dynamics and influence investment strategies
+title: Comparison of Cryptocurrency Hard Forks and Airdrops (Algo Trading)
 ---
 
 Cryptocurrency represents a rapidly advancing field attracting significant attention from investors and technology enthusiasts globally. The exploration of digital currencies goes beyond mere investment opportunities; it encompasses understanding intricate mechanisms such as airdrops, hard forks, and algorithmic trading, each of which plays an increasingly vital role in shaping the cryptocurrency ecosystem. These concepts have garnered substantial interest due to their transformative impact on the dynamics of digital currency markets, offering both challenges and opportunities.

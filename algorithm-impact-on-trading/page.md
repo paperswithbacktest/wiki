@@ -1,6 +1,9 @@
 ---
-title: "Algorithm and Its Impact on Trading (Algo Trading)"
-description: "Explore the transformative impact of algorithmic trading in financial markets highlighting its benefits in trade precision seamless execution and cost efficiency."
+category: quant_concept
+description: Explore the transformative impact of algorithmic trading in financial
+  markets highlighting its benefits in trade precision seamless execution and cost
+  efficiency.
+title: Algorithm and Its Impact on Trading (Algo Trading)
 ---
 
 Algorithmic trading, often referred to as algo trading, plays a crucial role in the contemporary financial ecosystem by enabling the execution of trades at speeds far surpassing human capabilities. This method employs complex algorithms and computer programs designed to follow specific instructions for trading, like timing, price, or volume, which ensures precision and efficiency in transactions. The advent of high-frequency trading, a subset of algorithmic trading, has transformed the dynamics of financial markets by facilitating transactions within fractions of a second.

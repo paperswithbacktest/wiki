@@ -1,6 +1,8 @@
 ---
-title: "European Option Types and Comparison with American Options (Algo Trading)"
-description: "Explore key differences between European and American options in algo trading. Learn about exercise policies, pricing models, and strategic applications."
+category: quant_concept
+description: Explore key differences between European and American options in algo
+  trading. Learn about exercise policies, pricing models, and strategic applications.
+title: European Option Types and Comparison with American Options (Algo Trading)
 ---
 
 Options trading constitutes a vital component of financial markets, offering investors sophisticated avenues to hedge risks or capitalize on market movements. In essence, an option is a financial derivative that grants the buyer the right, but not the obligation, to buy or sell an underlying asset at a predetermined price (known as the strike price) before or at a specific date. This flexibility allows for various strategic applications across different market conditions.

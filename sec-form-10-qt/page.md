@@ -1,6 +1,8 @@
 ---
-title: "SEC Form 10-QT (Algo Trading)"
-description: "Explore SEC Form 10-QT and its role in financial reporting for non-standard periods, while understanding the impact of algo trading on market transparency."
+category: quant_concept
+description: Explore SEC Form 10-QT and its role in financial reporting for non-standard
+  periods, while understanding the impact of algo trading on market transparency.
+title: SEC Form 10-QT (Algo Trading)
 ---
 
 In the world of finance, transparency and compliance are critical for maintaining investor trust, and the U.S. Securities and Exchange Commission (SEC) plays a pivotal role in this process. The SEC is responsible for enforcing federal securities laws, regulating the securities industry, and ensuring that markets operate fairly and efficiently. One of the tools utilized by the SEC to achieve these objectives is the implementation of various reporting forms, such as SEC Form 10-QT.

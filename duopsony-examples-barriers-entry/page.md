@@ -1,6 +1,8 @@
 ---
-title: "Duopsony: Definition, Examples, and Barriers to Entry (Algo Trading)"
-description: "Explore the concept of duopsony its barriers to entry and its implications for algorithmic trading Discover how two dominant buyers affect market dynamics"
+category: quant_concept
+description: Explore the concept of duopsony its barriers to entry and its implications
+  for algorithmic trading Discover how two dominant buyers affect market dynamics
+title: 'Duopsony: Definition, Examples, and Barriers to Entry (Algo Trading)'
 ---
 
 In today's rapidly evolving financial landscape, market structures significantly shape competitive dynamics across various industries. One particularly noteworthy market structure is the duopsony, characterized by a situation where two dominant buyers exert considerable control over a market. This unique scenario can lead to significant impacts on pricing, supply chain dynamics, and overall market equilibrium. 

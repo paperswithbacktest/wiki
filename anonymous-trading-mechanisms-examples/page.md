@@ -1,6 +1,9 @@
 ---
-title: "Anonymous Trading: Mechanisms and Examples (Algo Trading)"
-description: "Explore mechanisms of anonymous trading and examples in algo trading Discover how technology-driven systems provide speed anonymity and efficiency in financial markets"
+category: quant_concept
+description: Explore mechanisms of anonymous trading and examples in algo trading
+  Discover how technology-driven systems provide speed anonymity and efficiency in
+  financial markets
+title: 'Anonymous Trading: Mechanisms and Examples (Algo Trading)'
 ---
 
 In the modern financial landscape, trading has evolved beyond traditional methods, embracing technologies that offer speed and anonymity. This shift has been fueled by significant technological advancements, leading to more complex and efficient trading systems. The integration of these technologies into financial markets has facilitated the rise of anonymous trading and algorithmic trading, two powerful mechanisms that are reshaping the way trades are executed and markets are understood.

@@ -1,6 +1,9 @@
 ---
-title: "Impact of Capital Stock Increase on Companies (Algo Trading)"
-description: "Explore how capital stock increases reshape company finance and influence algo trading. Gain insights on shareholder impacts, market dynamics, and strategic growth."
+category: quant_concept
+description: Explore how capital stock increases reshape company finance and influence
+  algo trading. Gain insights on shareholder impacts, market dynamics, and strategic
+  growth.
+title: Impact of Capital Stock Increase on Companies (Algo Trading)
 ---
 
 The financial landscape is continually evolving with capital stock playing a pivotal role in company finance. Capital stock represents a corporation's total shares issued, encompassing common and preferred shares, and acts as a fundamental metric reflecting a company’s equity structure and financial potential. As businesses navigate this evolving terrain, they increasingly rely on innovative methods like algorithmic trading to influence the stock market and their financial performance. Algorithmic trading, which utilizes computer algorithms to execute trades at speeds and volumes far surpassing human capability, has become a transformative force in modern finance. This method allows for enhanced efficiency and precision in trading, yet it also raises challenges related to market volatility and regulatory oversight.

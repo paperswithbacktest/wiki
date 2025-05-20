@@ -1,6 +1,8 @@
 ---
-title: "Net Zero Asset Managers Initiative (Algo Trading)"
-description: "Explore the convergence of net-zero asset management and algo trading in driving sustainable investment strategies for climate action by 2050."
+category: trading_strategy
+description: Explore the convergence of net-zero asset management and algo trading
+  in driving sustainable investment strategies for climate action by 2050.
+title: Net Zero Asset Managers Initiative (Algo Trading)
 ---
 
 Climate change poses a significant threat to the planet, prompting a proactive response from asset managers who are increasingly seeking sustainable investment pathways. As part of their response, the Net Zero Asset Managers Initiative has emerged as a global consortium committed to achieving net-zero greenhouse gas emissions by 2050. This initiative has become a central figure in aligning financial investment strategies with urgent climate goals.

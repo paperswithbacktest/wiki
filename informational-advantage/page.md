@@ -1,6 +1,9 @@
 ---
-title: "Informational advantage (Algo Trading)"
-description: "Explore how the rise of algorithmic trading reshapes financial markets by leveraging informational advantage to enhance speed efficiency and decision-making precision."
+category: quant_concept
+description: Explore how the rise of algorithmic trading reshapes financial markets
+  by leveraging informational advantage to enhance speed efficiency and decision-making
+  precision.
+title: Informational advantage (Algo Trading)
 ---
 
 The surge of algorithmic trading (algo trading) has revolutionized the financial markets, offering unparalleled speed, efficiency, and reduced human error in trading operations. This transformation is driven by the application of sophisticated algorithms that execute trades at a pace and precision far beyond the capabilities of human traders. A pivotal element in the success of algorithmic trading is the informational advantage it provides, rooted in superior data access, real-time processing capabilities, and advanced analytical methodologies.

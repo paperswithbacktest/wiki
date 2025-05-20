@@ -1,6 +1,9 @@
 ---
-title: "Income Strategies for Regular Portfolio Earnings (Algo Trading)"
-description: "Discover effective income strategies for portfolio earnings with algo trading. Learn how diversification and technology enhance returns for financial growth and stability."
+category: trading_strategy
+description: Discover effective income strategies for portfolio earnings with algo
+  trading. Learn how diversification and technology enhance returns for financial
+  growth and stability.
+title: Income Strategies for Regular Portfolio Earnings (Algo Trading)
 ---
 
 In today's fast-paced financial world, generating income through investments has become a primary aim for many individuals and institutions. As the complexity and interconnectivity of global markets continue to evolve, understanding key financial concepts such as portfolio earnings, investment income, and income strategies becomes increasingly crucial for achieving financial growth and stability.

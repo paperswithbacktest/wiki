@@ -1,7 +1,8 @@
 ---
-title: Understanding Graphs in Machine Learning Concepts and Techniques
+category: quant_concept
 description: Graphs in machine learning reveal data relationships from social networks
   to traffic systems and guide graph neural network applications Discover more
+title: Understanding Graphs in Machine Learning Concepts and Techniques
 ---
 
 ![Image](images/1.png)

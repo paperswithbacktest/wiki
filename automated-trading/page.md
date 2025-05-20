@@ -1,6 +1,14 @@
 ---
-title: "Automated Trading (Algo Trading)"
-description: "Explore the world of algorithmic trading and discover how computer algorithms are transforming the trading landscape by automating trading decisions. This page investigates into the core concepts and benefits of automated trading systems, highlighting their ability to execute trades with increased speed and precision. Understand the advantages of algorithmic trading, such as enhanced efficiency, scalability, and the potential for backtesting strategies, while also considering the challenges like system failures and technology investments. Gain valuable insights to optimize your trading strategies in various financial markets effectively."
+category: trading_strategy
+description: Explore the world of algorithmic trading and discover how computer algorithms
+  are transforming the trading landscape by automating trading decisions. This page
+  investigates into the core concepts and benefits of automated trading systems, highlighting
+  their ability to execute trades with increased speed and precision. Understand the
+  advantages of algorithmic trading, such as enhanced efficiency, scalability, and
+  the potential for backtesting strategies, while also considering the challenges
+  like system failures and technology investments. Gain valuable insights to optimize
+  your trading strategies in various financial markets effectively.
+title: Automated Trading (Algo Trading)
 ---
 
 Algorithmic trading, often referred to as algo trading, is a sophisticated trading strategy that utilizes computer algorithms to automate trading decisions. These algorithms, crafted with complex mathematical models, are designed to analyze market data efficiently and execute trades at a speed and precision unattainable by human traders alone. In recent years, algo trading has gained significant popularity, driven by the need for quicker transaction execution and enhanced accuracy in trading decisions across various financial markets.

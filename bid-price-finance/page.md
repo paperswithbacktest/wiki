@@ -1,6 +1,12 @@
 ---
-title: "Bid Price in Finance (Algo Trading)"
-description: "Discover how algorithmic trading is transforming finance by analyzing key concepts like bid price, the highest offer a buyer makes for a security. By understanding bid price dynamics, traders can enhance trade strategies, crucial to succeed in fast-paced markets. Explore the role of algorithms in executing rapid, precise trades, eliminating emotional biases, and adapting to market changes, which potentially offers a competitive edge in today's financial landscape."
+category: quant_concept
+description: Discover how algorithmic trading is transforming finance by analyzing
+  key concepts like bid price, the highest offer a buyer makes for a security. By
+  understanding bid price dynamics, traders can enhance trade strategies, crucial
+  to succeed in fast-paced markets. Explore the role of algorithms in executing rapid,
+  precise trades, eliminating emotional biases, and adapting to market changes, which
+  potentially offers a competitive edge in today's financial landscape.
+title: Bid Price in Finance (Algo Trading)
 ---
 
 Algorithmic trading has brought about a significant transformation in the finance sector, markedly altering traditional market operations. By employing computer algorithms to rapidly execute trades, it provides unprecedented access to market dynamics, reshaping how transactions are conducted. This article will focus on key concepts such as bid price and the mechanics of algorithmic trading, crucial for those engaged in financial markets.

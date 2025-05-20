@@ -1,6 +1,13 @@
 ---
-title: "Runner in Exchange Floor Trading (Algo Trading)"
-description: "Explore the evolution of trading as algorithmic trading revolutionizes market processes while maintaining the significance of traditional floor trading. Understand how runners play crucial roles in stock exchanges, bridging human interaction with technological advancements to ensure seamless trading operations. This transformation fosters a balanced ecosystem integrating diverse strategies and enhancing market stability in leading exchanges like the NYSE. Discover the future of trading and the enduring value of combining human intuition with algorithmic precision."
+category: quant_concept
+description: Explore the evolution of trading as algorithmic trading revolutionizes
+  market processes while maintaining the significance of traditional floor trading.
+  Understand how runners play crucial roles in stock exchanges, bridging human interaction
+  with technological advancements to ensure seamless trading operations. This transformation
+  fosters a balanced ecosystem integrating diverse strategies and enhancing market
+  stability in leading exchanges like the NYSE. Discover the future of trading and
+  the enduring value of combining human intuition with algorithmic precision.
+title: Runner in Exchange Floor Trading (Algo Trading)
 ---
 
 The landscape of trading has undergone a profound transformation, largely driven by technological advancements that have introduced innovative methodologies such as algorithmic trading. This evolution has reshaped how stock exchanges function globally, with algorithmic trading, or "algo trading," becoming a centerpiece of modern financial markets. Algo trading refers to the use of complex algorithms to execute trading orders, often employing mathematical models and leveraging historical data to predict market trends and decisions with a level of speed and precision unattainable by human traders alone.

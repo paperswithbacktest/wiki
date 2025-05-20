@@ -1,6 +1,8 @@
 ---
-title: "Remeasurement: Definition, Types, and Examples (Algo Trading)"
-description: "Remeasurement is crucial for businesses trading in multiple currencies, ensuring accurate financial reporting and aiding algorithmic trading strategy effectiveness."
+category: quant_concept
+description: Remeasurement is crucial for businesses trading in multiple currencies,
+  ensuring accurate financial reporting and aiding algorithmic trading strategy effectiveness.
+title: 'Remeasurement: Definition, Types, and Examples (Algo Trading)'
 ---
 
 In today's rapidly evolving financial landscape, remeasurement has become a pivotal process for businesses operating across multiple currencies. As globalization intensifies, companies increasingly engage in international transactions that require the handling of various currencies, each subject to frequent fluctuations in value. Remeasurement addresses the need for accurate financial reporting, enabling companies to present their financial statements precisely despite these fluctuations. This ensures transparency and compliance with international accounting standards such as International Financial Reporting Standards (IFRS) and Generally Accepted Accounting Principles (GAAP).

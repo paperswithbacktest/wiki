@@ -1,6 +1,9 @@
 ---
-title: "Marginal Propensity to Invest (Algo Trading)"
-description: "Explore how the Marginal Propensity to Invest (MPI) informs investment decisions in modern finance with algorithmic trading advancements shaping economic strategies."
+category: quant_concept
+description: Explore how the Marginal Propensity to Invest (MPI) informs investment
+  decisions in modern finance with algorithmic trading advancements shaping economic
+  strategies.
+title: Marginal Propensity to Invest (Algo Trading)
 ---
 
 In the intricate tapestry of economics and finance, theories and concepts play a pivotal role in explaining and predicting investment and spending behaviors. Among these conceptual frameworks is the Marginal Propensity to Invest (MPI), an essential component in understanding how investments respond to changes in income. Rooted deeply in economic theory, MPI provides insights into the mechanisms that drive investment decisions, impacting both microeconomic and macroeconomic landscapes.

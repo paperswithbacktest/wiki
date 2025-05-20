@@ -1,6 +1,9 @@
 ---
-title: "Kicker: Functionality and Types (Algo Trading)"
-description: "Explore the functionality and types of kickers in finance and trading, from equity and real estate incentives to candlestick patterns signaling market reversals."
+category: quant_concept
+description: Explore the functionality and types of kickers in finance and trading,
+  from equity and real estate incentives to candlestick patterns signaling market
+  reversals.
+title: 'Kicker: Functionality and Types (Algo Trading)'
 ---
 
 In the world of financial trading, understanding various patterns and strategies can significantly enhance an investor's ability to make informed decisions. One intriguing concept that traders encounter is the 'kicker'. The term 'kicker' can refer to different elements within both lending and trading contexts, making it a versatile concept.

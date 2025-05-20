@@ -1,6 +1,8 @@
 ---
-title: "Net Loss: Calculation and Examples (Algo Trading)"
-description: "Discover the essential role of net loss calculation in algorithmic trading and learn how to optimize performance by managing risks and improving strategies."
+category: quant_concept
+description: Discover the essential role of net loss calculation in algorithmic trading
+  and learn how to optimize performance by managing risks and improving strategies.
+title: 'Net Loss: Calculation and Examples (Algo Trading)'
 ---
 
 In the fast-paced world of algorithmic trading, understanding financial outcomes is crucial for success. In this environment, net loss emerges as a pivotal concept in accounting and financial analysis. It is fundamental for assessing trading performance, as it directly impacts decision-making processes and the strategic orientation of traders and financial analysts.

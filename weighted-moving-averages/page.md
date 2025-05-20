@@ -1,6 +1,8 @@
 ---
-title: "Weighted Moving Averages (Algo Trading)"
-description: "Explore the intricacies of weighted moving averages in algo trading Discover their role in technical analysis and how they enhance trading strategies"
+category: trading_strategy
+description: Explore the intricacies of weighted moving averages in algo trading Discover
+  their role in technical analysis and how they enhance trading strategies
+title: Weighted Moving Averages (Algo Trading)
 ---
 
 Technical analysis is a methodology for evaluating and forecasting the direction of financial markets through the analysis of statistical data derived from market activity, such as price and volume. This analysis focuses on identifying patterns and trends rather than valuing assets inherently. Technical analysts believe that historical price movements and market data can provide significant insights into future performance. By leveraging this information, traders aim to make informed decisions to optimize their trading strategies and manage risk.

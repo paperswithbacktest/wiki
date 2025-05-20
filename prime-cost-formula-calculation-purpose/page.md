@@ -1,6 +1,10 @@
 ---
-title: "Prime Cost: Formula, Calculation, and Purpose (Algo Trading)"
-description: "Explore how prime cost calculations bridge accounting and algorithmic trading to optimize business operations in financial sectors. Learn to manage direct and indirect costs for competitive advantage. Discover the formula and calculation methods that enhance profitability in production and trading."
+category: quant_concept
+description: Explore how prime cost calculations bridge accounting and algorithmic
+  trading to optimize business operations in financial sectors. Learn to manage direct
+  and indirect costs for competitive advantage. Discover the formula and calculation
+  methods that enhance profitability in production and trading.
+title: 'Prime Cost: Formula, Calculation, and Purpose (Algo Trading)'
 ---
 
 In the ever-evolving world of finance, the intersection of prime cost calculations in accounting and algorithmic trading is gaining prominence. Both of these concepts are essential for optimizing business operations across manufacturing and financial sectors. Understanding and managing the intricacies of direct and indirect costs, prime cost calculations, and the often-overlooked expenses in algorithmic trading are increasingly seen as vital to obtaining a competitive edge in these industries.

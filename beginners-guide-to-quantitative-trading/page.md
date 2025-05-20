@@ -1,6 +1,14 @@
 ---
-title: "Beginner’s Guide to Quantitative Trading (Algo Trading)"
-description: Explore the world of quantitative trading, a key component of algorithmic trading that utilizes mathematical models and statistical analysis to automate trading strategies. This guide investigates into the benefits and challenges of quantitative trading, its technological foundations, and its future potential with advancements in AI and machine learning. Gain insight into model development, strategy execution, risk management, and the reduction of human biases, solidifying quantitative trading’s role in modern financial markets. Discover how these methods transform data into actionable insights, enhancing precision and efficiency in trading executions.
+category: quant_concept
+description: Explore the world of quantitative trading, a key component of algorithmic
+  trading that utilizes mathematical models and statistical analysis to automate trading
+  strategies. This guide investigates into the benefits and challenges of quantitative
+  trading, its technological foundations, and its future potential with advancements
+  in AI and machine learning. Gain insight into model development, strategy execution,
+  risk management, and the reduction of human biases, solidifying quantitative trading’s
+  role in modern financial markets. Discover how these methods transform data into
+  actionable insights, enhancing precision and efficiency in trading executions.
+title: Beginner’s Guide to Quantitative Trading (Algo Trading)
 ---
 
 Quantitative trading, an essential segment within algorithmic trading, utilizes mathematical models, statistical analysis, and algorithmic techniques to identify and capitalize on market inefficiencies. By automating trading decisions and executions, quantitative trading enables strategies to be implemented with a speed and frequency unattainable by human traders. This automation relies on the ability to process vast amounts of data quickly, often involving complex computations and algorithmic processes. 

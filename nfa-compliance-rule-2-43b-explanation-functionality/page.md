@@ -1,6 +1,8 @@
 ---
-title: "NFA Compliance Rule 2-43b: Explanation and Functionality (Algo Trading)"
-description: "Discover how NFA Compliance Rule 2-43b impacts forex trading and algorithmic strategies Learn about hedging restrictions FIFO requirements and trader adaptations"
+category: quant_concept
+description: Discover how NFA Compliance Rule 2-43b impacts forex trading and algorithmic
+  strategies Learn about hedging restrictions FIFO requirements and trader adaptations
+title: 'NFA Compliance Rule 2-43b: Explanation and Functionality (Algo Trading)'
 ---
 
 Forex trading is a complex and highly regulated discipline that requires adherence to various compliance rules. Among these, the NFA Compliance Rule 2-43b stands out as a pivotal regulation affecting forex dealer members and retail foreign exchange dealers. Implemented by the National Futures Association (NFA) in 2009, Rule 2-43b mandates significant changes in how forex trading is conducted, directly impacting both forex traders and dealers.

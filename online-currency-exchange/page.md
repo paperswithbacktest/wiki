@@ -1,6 +1,9 @@
 ---
-title: "Online Currency Exchange (Algo Trading)"
-description: "Explore the transformative power of online currency exchange and trading platforms Learn how digital currencies and algorithmic trading redefine financial markets"
+category: trading_strategy
+description: Explore the transformative power of online currency exchange and trading
+  platforms Learn how digital currencies and algorithmic trading redefine financial
+  markets
+title: Online Currency Exchange (Algo Trading)
 ---
 
 The emergence of online platforms has fundamentally transformed the landscape of financial markets, particularly in currency exchange and trading. Online systems have simplified access to financial markets, enabling individuals from various backgrounds and expertise levels to participate. These platforms are pivotal in currency exchange, online trading, digital currencies, and algorithmic trading.

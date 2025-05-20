@@ -1,6 +1,9 @@
 ---
-title: "Cash-And-Carry Arbitrage (Algo Trading)"
-description: "Explore the intricacies of cash-and-carry arbitrage in algo trading, a strategy exploiting price inefficiencies between spot and futures markets for profit."
+category: trading_strategy
+description: Explore the intricacies of cash-and-carry arbitrage in algo trading,
+  a strategy exploiting price inefficiencies between spot and futures markets for
+  profit.
+title: Cash-And-Carry Arbitrage (Algo Trading)
 ---
 
 Cash-and-carry arbitrage is a popular financial strategy utilized in trading and investment markets. This technique exploits price discrepancies that arise between the cash (spot) market and futures markets, enabling traders to capitalize on these differences for potential profit. Essentially, it involves taking simultaneous long and short positions in two different markets to generate a risk-free return.

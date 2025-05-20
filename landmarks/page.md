@@ -1,7 +1,8 @@
 ---
-title: Understanding Landmark Detection in Machine Learning Applications
+category: quant_concept
 description: Landmark detection in machine learning streamlines data processing by
   highlighting key features for accurate image and pose analysis Discover more inside.
+title: Understanding Landmark Detection in Machine Learning Applications
 ---
 
 ![Image](images/1.png)

@@ -1,6 +1,8 @@
 ---
-title: "Effective Indicators Combined with Bollinger Bands (Algo Trading)"
-description: "Enhance your algorithmic trading with effective indicators combined with Bollinger Bands to measure market volatility and identify optimal trading opportunities."
+category: trading_strategy
+description: Enhance your algorithmic trading with effective indicators combined with
+  Bollinger Bands to measure market volatility and identify optimal trading opportunities.
+title: Effective Indicators Combined with Bollinger Bands (Algo Trading)
 ---
 
 Technical analysis is a cornerstone of trading strategies, offering investors tools for predicting future market movements by analyzing past price data and market trends. Among the myriad techniques available, trading indicators stand out as a crucial component, assisting traders in making informed decisions. Bollinger Bands represent one of the most significant trading indicators in technical analysis. Developed by John Bollinger in the 1980s, these bands are used to measure market volatility and identify relative price levels. They consist of a middle band, usually a 20-day simple moving average, and two outer bands, which are standard deviations away from the middle band. The formula for the upper band is:

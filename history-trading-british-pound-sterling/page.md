@@ -1,6 +1,9 @@
 ---
-title: "History and Trading of the British Pound Sterling (Algo Trading)"
-description: "Explore the history and modern trading dynamics of the British Pound Sterling in forex markets Discover how algorithmic trading is reshaping currency trades"
+category: trading_strategy
+description: Explore the history and modern trading dynamics of the British Pound
+  Sterling in forex markets Discover how algorithmic trading is reshaping currency
+  trades
+title: History and Trading of the British Pound Sterling (Algo Trading)
 ---
 
 The global currency trading market, also known as the foreign exchange (forex or FX) market, stands as the largest and most liquid financial market worldwide. It facilitates the exchange of currencies, enabling international trade, investment, and finance across borders. Operating 24 hours a day during weekdays, the forex market boasts a daily trading volume exceeding $6 trillion, underscoring its paramount role in the global economy. 

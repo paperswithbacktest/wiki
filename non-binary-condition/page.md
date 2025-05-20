@@ -1,7 +1,8 @@
 ---
-title: Non-Binary Classification Strategies in Machine Learning
+category: quant_concept
 description: Non-Binary Classification enables models to predict multiple categories
   using softmax neural networks and class balancing techniques Discover more inside
+title: Non-Binary Classification Strategies in Machine Learning
 ---
 
 ![Image](images/1.png)

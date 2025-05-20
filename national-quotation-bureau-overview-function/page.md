@@ -1,6 +1,8 @@
 ---
-title: "National Quotation Bureau: Overview and Function (Algo Trading)"
-description: "Explore the crucial role of the National Quotation Bureau in the OTC market and learn how algorithmic trading is transforming investment opportunities."
+category: quant_concept
+description: Explore the crucial role of the National Quotation Bureau in the OTC
+  market and learn how algorithmic trading is transforming investment opportunities.
+title: 'National Quotation Bureau: Overview and Function (Algo Trading)'
 ---
 
 The Over-the-Counter (OTC) market is an integral component of the global financial system, providing a venue for the trading of stocks, bonds, and other securities outside the confines of traditional stock exchanges. This decentralized marketplace offers a significant degree of flexibility and accessibility, attracting a diverse range of participants, from retail investors to institutional traders. Unlike the structured environments of major exchanges such as the New York Stock Exchange (NYSE) or NASDAQ, the OTC market operates through networks of dealers who negotiate directly with one another.

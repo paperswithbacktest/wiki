@@ -1,6 +1,8 @@
 ---
-title: "Acquiring Shiba Inu (SHIB) Cryptocurrency (Algo Trading)"
-description: "Learn to acquire Shiba Inu (SHIB) cryptocurrency using algorithmic trading to boost your investment strategy. Explore its potential and inherent risks."
+category: trading_strategy
+description: Learn to acquire Shiba Inu (SHIB) cryptocurrency using algorithmic trading
+  to boost your investment strategy. Explore its potential and inherent risks.
+title: Acquiring Shiba Inu (SHIB) Cryptocurrency (Algo Trading)
 ---
 
 Shiba Inu (SHIB) is a prominent meme cryptocurrency, frequently compared to Dogecoin, that has captured the attention of a worldwide audience. Originating in 2020, Shiba Inu quickly attracted a dedicated investor base and achieved a substantial market capitalization. This rapid growth has been facilitated by the expansion of its blockchain ecosystem, which now includes projects such as Shibarium and the Shiba Metaverse. These developments have significantly heightened interest and engagement with SHIB.

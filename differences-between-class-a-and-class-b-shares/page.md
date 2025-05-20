@@ -1,6 +1,12 @@
 ---
-title: "Differences Between Class A and Class B Shares (Algo Trading)"
-description: "Explore the distinctions between Class A and Class B shares within algorithmic trading to understand their impact on investment strategies. This article investigates into how these share classes affect trading by leveraging algorithmic strategies, offering insights into voting power, accessibility, and convertibility. Learn how these differences influence market behavior, governance, and investment decisions, providing traders with critical knowledge to navigate the stock market effectively."
+category: quant_concept
+description: Explore the distinctions between Class A and Class B shares within algorithmic
+  trading to understand their impact on investment strategies. This article investigates
+  into how these share classes affect trading by leveraging algorithmic strategies,
+  offering insights into voting power, accessibility, and convertibility. Learn how
+  these differences influence market behavior, governance, and investment decisions,
+  providing traders with critical knowledge to navigate the stock market effectively.
+title: Differences Between Class A and Class B Shares (Algo Trading)
 ---
 
 The world of stock trading is intricate, with numerous types of shares available for investors. Among these, Class A and Class B shares represent two prevalent categories that can significantly influence investment strategies. This article aims to explore the distinctions between these classes and assess their impact within the domain of algorithmic trading. Algorithmic trading, characterized by the use of advanced mathematical models and high-speed computer systems, can capitalize on such distinctions to optimize trading strategies. Understanding the nuances of share classes is crucial for traders leveraging algorithms to enhance returns and manage risks efficiently.

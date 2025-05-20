@@ -1,6 +1,8 @@
 ---
-title: "Limit Order Book (Algo Trading)"
-description: "Discover the intricacies of limit order books and algorithmic trading Learn how these elements optimize trading efficiency and strategy in modern markets"
+category: quant_concept
+description: Discover the intricacies of limit order books and algorithmic trading
+  Learn how these elements optimize trading efficiency and strategy in modern markets
+title: Limit Order Book (Algo Trading)
 ---
 
 In the evolving world of trading, understanding key components such as order books, limit orders, and algorithmic trading is crucial. These elements form the backbone of modern financial markets, enhancing the precision and efficiency of trading operations. Order books are essential tools that provide a comprehensive picture of buy and sell orders for a specific security, enabling traders to assess market sentiment and liquidity. Limit orders, meanwhile, allow traders to specify the maximum or minimum price at which they are willing to buy or sell a security, offering control over trading outcomes and protection against unfavorable market conditions.

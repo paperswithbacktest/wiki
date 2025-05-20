@@ -1,6 +1,8 @@
 ---
-title: "Calculation of Net Tangible Assets (Algo Trading)"
-description: "Discover the importance of net tangible assets in financial metrics and algorithmic trading to better assess company value and optimize investment strategies."
+category: quant_concept
+description: Discover the importance of net tangible assets in financial metrics and
+  algorithmic trading to better assess company value and optimize investment strategies.
+title: Calculation of Net Tangible Assets (Algo Trading)
 ---
 
 In the complex world of financial metrics and investment analysis, understanding the true value of a company is paramount. Investors, analysts, and financial managers continually seek methods to accurately determine a company’s worth and optimize investment strategies. This article explores the intersection of financial metrics, asset calculations, net tangible assets, and algorithmic trading. Each of these components plays a significant role in assessing a company’s financial health and potential for growth.

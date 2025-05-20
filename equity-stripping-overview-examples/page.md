@@ -1,6 +1,9 @@
 ---
-title: "Equity Stripping: Overview and Examples (Algo Trading)"
-description: "Explore equity stripping as a strategic tool in asset protection and its synergy with algorithmic trading to boost investment efficiency and safeguard assets."
+category: trading_strategy
+description: Explore equity stripping as a strategic tool in asset protection and
+  its synergy with algorithmic trading to boost investment efficiency and safeguard
+  assets.
+title: 'Equity Stripping: Overview and Examples (Algo Trading)'
 ---
 
 In finance, protecting assets while maximizing returns is crucial. Equity stripping emerges as a notable strategy in this context, serving both as an asset protection technique and a financial tool. This approach involves strategically reducing the equity in an asset, thereby diminishing its attractiveness to potential creditors. By doing so, it shields the asset from adversarial claims and repurposes its value for further financial ventures.

@@ -1,6 +1,12 @@
 ---
-title: "Analysis of Robinhood Platform (Algo Trading)"
-description: "Explore the transformative impact of Robinhood on algorithmic trading within the fintech landscape. Understand how Robinhood's commission-free model and user-friendly app are democratizing trading, shaping the future of financial markets, and enabling greater access to algorithmic trading strategies. Discover insights into Robinhood's role in breaking down traditional barriers, attracting new retail investors, and influencing the evolution of trading technology."
+category: quant_concept
+description: Explore the transformative impact of Robinhood on algorithmic trading
+  within the fintech landscape. Understand how Robinhood's commission-free model and
+  user-friendly app are democratizing trading, shaping the future of financial markets,
+  and enabling greater access to algorithmic trading strategies. Discover insights
+  into Robinhood's role in breaking down traditional barriers, attracting new retail
+  investors, and influencing the evolution of trading technology.
+title: Analysis of Robinhood Platform (Algo Trading)
 ---
 
 Financial technology, commonly known as fintech, represents a transformative force in the investment landscape. It encompasses a wide range of technological innovations designed to enhance and automate financial services. Over the past decade, fintech platforms have dramatically altered how individuals and institutions engage with the financial markets, making investing more accessible, streamlined, and efficient. With the proliferation of mobile trading apps and platforms, the ways in which people invest have become more democratized, breaking down traditional barriers to entry.

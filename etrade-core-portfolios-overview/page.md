@@ -1,6 +1,8 @@
 ---
-title: "E*TRADE Core Portfolios Overview (Algo Trading)"
-description: "Discover E*TRADE Core Portfolios a robo-advisory service offering algorithmic trading insights tailored to your investment goals and strategies effectively."
+category: trading_strategy
+description: Discover E*TRADE Core Portfolios a robo-advisory service offering algorithmic
+  trading insights tailored to your investment goals and strategies effectively.
+title: E*TRADE Core Portfolios Overview (Algo Trading)
 ---
 
 E*TRADE, a prominent name in the world of online brokerage, was acquired by Morgan Stanley in 2020, marking a significant milestone in its evolution. Among its offerings, E*TRADE provides various investment solutions, including Core Portfolios, its premier robo-advisory service. This service caters to the increasing demand for automated, digital wealth management, leveraging algorithmic trading to deliver personalized investment experiences.

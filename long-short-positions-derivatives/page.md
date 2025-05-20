@@ -1,6 +1,8 @@
 ---
-title: "Long and Short Positions in Derivatives (Algo Trading)"
-description: "Explore long and short positions in derivatives to understand how algorithmic trading enhances strategy and precision for traders and investors alike."
+category: quant_concept
+description: Explore long and short positions in derivatives to understand how algorithmic
+  trading enhances strategy and precision for traders and investors alike.
+title: Long and Short Positions in Derivatives (Algo Trading)
 ---
 
 In finance, understanding foundational concepts like long and short positions is crucial for traders and investors. Long positions involve purchasing assets with the expectation of future appreciation, while short positions anticipate declines in asset value, allowing for profit through selling high and buying back at lower prices. These strategies serve as essential building blocks in the financial toolkit, enabling participants to leverage market movements effectively.
@@ -129,4 +131,3 @@ Aronson, D. R. (2007). 'Evidence-Based Technical Analysis: Applying the Scientif
 Jansen, S. (2020). 'Machine Learning for Algorithmic Trading.' This resource explores the implementation of machine learning techniques in algorithmic trading, focusing on practical applications and case studies that demonstrate the use of data-driven approaches to enhance trading performance.
 
 Chan, E. P. (2008). 'Quantitative Trading: How to Build Your Own Algorithmic Trading Business.' Chan provides a comprehensive guide to the establishment of an algorithmic trading business, covering essential concepts like risk management, trading psychology, and the integration of long and short positions into comprehensive trading strategies.
-

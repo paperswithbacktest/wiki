@@ -1,6 +1,8 @@
 ---
-title: "Par Value Stock and No-Par Value Stock Differences (Algo Trading)"
-description: "Explore the differences between par value and no-par value stocks and their implications for algorithmic trading in today's fast-paced financial markets."
+category: quant_concept
+description: Explore the differences between par value and no-par value stocks and
+  their implications for algorithmic trading in today's fast-paced financial markets.
+title: Par Value Stock and No-Par Value Stock Differences (Algo Trading)
 ---
 
 Understanding the different types of stock and the processes involved in trading is essential for investors. A fundamental distinction among stocks is whether they possess a par value or not. Par value stock is assigned an arbitrary value by the issuing company, which historically served as a nominal face value. Conversely, no-par value stocks are issued without a predetermined minimum value, offering a flexibility that some modern companies find advantageous. The issuance of par value stock, with its accompanying legal and financial implications, continues to hold relevance, reflecting an evolution from historical practices where it provided a baseline value and an aspect of shareholder credibility.

@@ -1,6 +1,9 @@
 ---
-title: "Quarter Over Quarter Growth Analysis (Algo Trading)"
-description: "Optimize your algorithmic trading strategies with Quarter Over Quarter growth analysis for real-time insights into financial performance and emerging market trends."
+category: quant_concept
+description: Optimize your algorithmic trading strategies with Quarter Over Quarter
+  growth analysis for real-time insights into financial performance and emerging market
+  trends.
+title: Quarter Over Quarter Growth Analysis (Algo Trading)
 ---
 
 Quarter Over Quarter (Q/Q) growth is a critical metric in business analytics, representing the rate at which a company's financial performance changes from one fiscal quarter to the next. This metric is essential for businesses seeking to quickly gauge their short-term performance, offering a snapshot that can reveal emerging trends and shifts in the company's operations. By calculating the percentage increase or decrease in key financial figures such as revenue, net profit, and expenses between consecutive quarters, businesses can assess their immediate financial health and operational efficiency.

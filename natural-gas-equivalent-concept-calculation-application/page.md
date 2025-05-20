@@ -1,6 +1,9 @@
 ---
-title: "Natural Gas Equivalent: Concept, Calculation, Application (Algo Trading)"
-description: "Explore the natural gas equivalent concept in energy trading and its role in algo trading Enhance decision-making with energy conversion and algorithm strategies"
+category: quant_concept
+description: Explore the natural gas equivalent concept in energy trading and its
+  role in algo trading Enhance decision-making with energy conversion and algorithm
+  strategies
+title: 'Natural Gas Equivalent: Concept, Calculation, Application (Algo Trading)'
 ---
 
 The energy sector is a cornerstone of global economies, directly affecting financial markets through its capacity to drive industrial growth and innovation. Within this sector, natural gas stands out as a significant energy source, accounting for a substantial share of global energy consumption. Its utility stretches beyond merely fueling industries; natural gas plays a critical role in fostering trading opportunities across the globe due to its wide availability and relative cleanliness compared to other fossil fuels.

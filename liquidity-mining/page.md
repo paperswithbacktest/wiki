@@ -1,6 +1,8 @@
 ---
-title: "liquidity mining (Algo Trading)"
-description: "Explore the integration of liquidity mining and algorithmic trading in DeFi to boost efficiency and profitability through automated and strategic participation."
+category: quant_concept
+description: Explore the integration of liquidity mining and algorithmic trading in
+  DeFi to boost efficiency and profitability through automated and strategic participation.
+title: liquidity mining (Algo Trading)
 ---
 
 Liquidity mining is a decentralized finance (DeFi) mechanism where users provide liquidity to a trading platform's liquidity pool in exchange for incentives, typically in the form of additional cryptocurrency tokens. This process allows decentralized exchanges (DEXs) to facilitate trades without needing a central order book, driven instead by the liquidity supplied by users and governed by automated market makers (AMMs). In recent years, liquidity mining has gained substantial traction within the sphere of algorithmic trading, where automated trading strategies execute transactions based on a set of programmed instructions or mathematical models.

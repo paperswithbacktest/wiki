@@ -1,6 +1,14 @@
 ---
-title: "Elder-Ray Indicator Explained (Algo Trading)"
-description: Discover the Elder Ray Indicator, a powerful tool introduced by Alexander Elder in 1989, designed to analyze bullish and bearish pressures in financial markets. This indicator combines a 13-day EMA with Bull and Bear Power elements, helping traders pinpoint entry and exit opportunities by understanding market dynamics. Ideal for algorithmic trading, it aids in forming reliable strategies while recognizing its limitations and the need for supplementary analysis tools. Explore its workings, applications, and the importance of backtesting in trading algorithms for optimized results.
+category: trading_strategy
+description: Discover the Elder Ray Indicator, a powerful tool introduced by Alexander
+  Elder in 1989, designed to analyze bullish and bearish pressures in financial markets.
+  This indicator combines a 13-day EMA with Bull and Bear Power elements, helping
+  traders pinpoint entry and exit opportunities by understanding market dynamics.
+  Ideal for algorithmic trading, it aids in forming reliable strategies while recognizing
+  its limitations and the need for supplementary analysis tools. Explore its workings,
+  applications, and the importance of backtesting in trading algorithms for optimized
+  results.
+title: Elder-Ray Indicator Explained (Algo Trading)
 ---
 
 The Elder Ray Indicator, conceptualized by Alexander Elder in 1989, operates as a tool to assess the prevailing bullish and bearish pressures within financial markets. The name 'Elder Ray' metaphorically mirrors the capabilities of an X-ray, which pierces through surfaces to reveal hidden structures, mirroring the indicator's function of peering through the complexities of price movements to expose underlying market dynamics. This technical indicator integrates a 13-day exponential moving average (EMA) with Bull Power and Bear Power components, providing traders with insights into when bulls or bears are gaining influence over the market.

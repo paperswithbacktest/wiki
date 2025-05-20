@@ -1,6 +1,9 @@
 ---
-title: "Reserves-to-Production Ratio (Algo Trading)"
-description: "Explore the significance of the Reserves-to-Production Ratio in the energy sector and its role in enhancing algorithmic trading strategies for better market insights."
+category: quant_concept
+description: Explore the significance of the Reserves-to-Production Ratio in the energy
+  sector and its role in enhancing algorithmic trading strategies for better market
+  insights.
+title: Reserves-to-Production Ratio (Algo Trading)
 ---
 
 The energy sector remains a cornerstone of the global economy, with metrics such as the Reserves-to-Production (R/P) Ratio playing a crucial role in resource planning and management. At the heart of this sector's stability and sustainability is the R/P Ratio, a pivotal tool that helps predict how long current reserves of a particular resource can sustain ongoing production levels. As the global community faces the challenges of finite natural resources and escalating consumption, a thorough understanding of the R/P Ratio becomes vital for making informed decisions regarding energy security and strategic reserve utilization.

@@ -1,6 +1,9 @@
 ---
-title: "Latency Sensitivity in Trading (Algo Trading)"
-description: "Explore latency sensitivity in algo trading where swift execution can make or break strategies. Learn how low latency impacts performance and reduces risks."
+category: quant_concept
+description: Explore latency sensitivity in algo trading where swift execution can
+  make or break strategies. Learn how low latency impacts performance and reduces
+  risks.
+title: Latency Sensitivity in Trading (Algo Trading)
 ---
 
 In the competitive world of algorithmic trading, latency has emerged as a key factor that can make or break a trading strategy. As markets become increasingly reliant on technology, the speed at which trading decisions are executed becomes crucial. In algorithmic trading, decisions often need to be made within milliseconds. This necessitates the deployment of low-latency trading systems to ensure efficiency and profitability.

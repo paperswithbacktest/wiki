@@ -1,6 +1,14 @@
 ---
-title: "Internet Alternative Data (Algo Trading)"
-description: Explore the revolutionary impact of internet-based alternative data in algorithmic trading to gain a competitive edge. This emerging trend leverages unconventional sources like social media, satellite imagery, and web traffic to offer unique market insights not available through traditional datasets. As traders seek new ways to anticipate market movements and optimize strategies, alternative data provides a broader view of market realities, driving informed decisions in the dynamic world of financial markets. Discover how these innovative data types are transforming trading strategies and enhancing predictive capabilities.
+category: dataset
+description: Explore the revolutionary impact of internet-based alternative data in
+  algorithmic trading to gain a competitive edge. This emerging trend leverages unconventional
+  sources like social media, satellite imagery, and web traffic to offer unique market
+  insights not available through traditional datasets. As traders seek new ways to
+  anticipate market movements and optimize strategies, alternative data provides a
+  broader view of market realities, driving informed decisions in the dynamic world
+  of financial markets. Discover how these innovative data types are transforming
+  trading strategies and enhancing predictive capabilities.
+title: Internet Alternative Data (Algo Trading)
 ---
 
 The integration of alternative data in algorithmic trading has transformed the landscape of financial markets. As the quest for gaining a competitive edge intensifies, traders are increasingly turning to unconventional data sources. Unlike traditional data sources, which are extensively available and quickly priced into markets, alternative data offers insights that are not readily apparent. Examples of traditional data include historical price movements, financial statements, and economic reports. On the other hand, alternative data encompasses information from diverse sources such as social media content, satellite imagery, credit card transactions, and sensor data. 

@@ -1,6 +1,8 @@
 ---
-title: "Adjusting Journal Entry: Purpose, Types, and Example (Algo Trading)"
-description: "Explore the essential role of adjusting journal entries in accurate financial reporting and accounting. Learn about their types, impact on algo trading, and more."
+category: quant_concept
+description: Explore the essential role of adjusting journal entries in accurate financial
+  reporting and accounting. Learn about their types, impact on algo trading, and more.
+title: 'Adjusting Journal Entry: Purpose, Types, and Example (Algo Trading)'
 ---
 
 Adjusting journal entries play an indispensable role in financial reporting and accounting by ensuring the accuracy and integrity of financial records. They are fundamental in aligning financial data with the timing of transactions, thereby bridging the gap between cash and accrual accounting methods. Adjusting entries allow businesses to more precisely reflect their financial position and performance by including revenues and expenses that have occurred but have not yet been recorded. This ensures that financial statements present a true and fair view of the company’s economic activities during a specific period.

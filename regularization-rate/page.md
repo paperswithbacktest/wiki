@@ -1,10 +1,9 @@
 ---
-title: Understanding Regularization Rate in Machine Learning Models
+category: quant_concept
 description: Regularization rate controls model complexity to prevent overfitting
   while maintaining accuracy in machine learning models. Discover more inside.
+title: Understanding Regularization Rate in Machine Learning Models
 ---
-
-
 
 ## Table of Contents
 

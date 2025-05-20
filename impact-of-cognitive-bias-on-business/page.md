@@ -1,6 +1,8 @@
 ---
-title: "Impact of Cognitive Bias on Business (Algo Trading)"
-description: "Explore how cognitive biases affect business decisions and algorithmic trading. Discover ways to mitigate these biases for improved strategic outcomes."
+category: quant_concept
+description: Explore how cognitive biases affect business decisions and algorithmic
+  trading. Discover ways to mitigate these biases for improved strategic outcomes.
+title: Impact of Cognitive Bias on Business (Algo Trading)
 ---
 
 In the rapidly evolving world of business and finance, decision-making processes are crucial for success. One of the most significant influences on these processes is cognitive biases, which are systematic patterns of deviation from norm or rationality in judgment. These biases are inherently linked to human psychology and arise due to the brain's need to simplify information processing. This simplification often leads to errors in perception, interpretation, and evaluation of information, consequently affecting decision quality.

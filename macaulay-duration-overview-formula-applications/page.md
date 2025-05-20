@@ -1,6 +1,9 @@
 ---
-title: "Macaulay Duration: Overview, Formula, and Applications (Algo Trading)"
-description: "Explore Macaulay Duration a vital metric in bond trading that measures interest rate sensitivity and aids algorithmic trading by refining risk management strategies."
+category: quant_concept
+description: Explore Macaulay Duration a vital metric in bond trading that measures
+  interest rate sensitivity and aids algorithmic trading by refining risk management
+  strategies.
+title: 'Macaulay Duration: Overview, Formula, and Applications (Algo Trading)'
 ---
 
 Bond trading, a vital component of the global financial markets, leverages a set of financial metrics pivotal for assessing bond performance and value. These metrics are instrumental in guiding investment strategies and managing portfolios. Among these, bond duration stands out as a critical measure, providing insights into the sensitivity of bond prices to interest rate fluctuations. The Macaulay Duration, named after economist Frederick Macaulay, is one of the key metrics used to calculate the weighted average time before a bondholder receives the bond's cash flows. 

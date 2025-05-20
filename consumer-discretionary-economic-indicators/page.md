@@ -1,6 +1,9 @@
 ---
-title: "Consumer Discretionary in Economic Indicators (Algo Trading)"
-description: "Unlock the complexities of economic indicators consumer discretionary spending and algorithmic trading to enhance your investment strategy in the financial market."
+category: trading_strategy
+description: Unlock the complexities of economic indicators consumer discretionary
+  spending and algorithmic trading to enhance your investment strategy in the financial
+  market.
+title: Consumer Discretionary in Economic Indicators (Algo Trading)
 ---
 
 In today's dynamic financial landscape, understanding key economic indicators is crucial for informed investing. Investors and traders continually seek to decipher the intricate connections between economic metrics, consumer discretionary spending, and algorithmic trading. These elements, although distinct, interact in significant ways that impact market movements and shape investment strategies.

@@ -1,6 +1,8 @@
 ---
-title: "Positive Outcomes in Negative Basis Trades (Algo Trading)"
-description: "Explore how algorithmic trading enhances negative basis trades by exploiting pricing differences between bonds and their derivatives for optimized returns."
+category: trading_strategy
+description: Explore how algorithmic trading enhances negative basis trades by exploiting
+  pricing differences between bonds and their derivatives for optimized returns.
+title: Positive Outcomes in Negative Basis Trades (Algo Trading)
 ---
 
 The financial markets are intricate systems characterized by their dynamic nature and a variety of instruments, including stocks, bonds, commodities, and derivatives. Understanding these markets necessitates a grasp of their complexity, ranging from micro-level trade execution to macro-level economic influences. Financial markets serve as platforms for reallocating resources and managing risks, driven by countless transactions and strategies that underpin global economic activity.

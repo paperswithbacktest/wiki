@@ -1,6 +1,8 @@
 ---
-title: "Forex Trading Arbitrage Strategy (Algo Trading)"
-description: "Discover how forex trading arbitrage strategies and algorithmic trading can optimize profits by exploiting price discrepancies among currency pairs."
+category: trading_strategy
+description: Discover how forex trading arbitrage strategies and algorithmic trading
+  can optimize profits by exploiting price discrepancies among currency pairs.
+title: Forex Trading Arbitrage Strategy (Algo Trading)
 ---
 
 The currency markets, also known as forex (foreign exchange) markets, are pivotal components of the global economy. They facilitate international trade and investment by allowing businesses to convert and transact in different currencies. With a daily trading volume exceeding $6 trillion, the forex market is the largest financial market in the world, influencing economic dynamics universally and contributing to currency value determination.

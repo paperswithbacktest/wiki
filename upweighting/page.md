@@ -1,8 +1,9 @@
 ---
-title: Upweighting in Machine Learning Models for Improved Training
+category: quant_concept
 description: Upweighting in machine learning improves model focus on critical or underrepresented
   samples by adjusting loss function weights for better performance Discover more
   inside.
+title: Upweighting in Machine Learning Models for Improved Training
 ---
 
 ![Image](images/1.png)

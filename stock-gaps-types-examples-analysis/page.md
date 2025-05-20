@@ -1,6 +1,8 @@
 ---
-title: "Stock Gaps and Their Types with Examples and Analysis (Algo Trading)"
-description: "Explore stock gaps types with examples and analysis for algorithmic trading. Learn about common breakaway runaway and exhaustion gaps in dynamic markets."
+category: quant_concept
+description: Explore stock gaps types with examples and analysis for algorithmic trading.
+  Learn about common breakaway runaway and exhaustion gaps in dynamic markets.
+title: Stock Gaps and Their Types with Examples and Analysis (Algo Trading)
 ---
 
 The stock market is a dynamic entity where price movements can offer valuable insights for traders and investors. One such phenomenon that traders often examine is 'gaps' in stock charts. A gap occurs when the price of a security opens significantly higher or lower than its previous closing price, leaving a visible space on the chart. These gaps can arise due to various reasons, including after-hours news releases, earnings reports, or other market-moving events that influence investor sentiment.

@@ -1,6 +1,9 @@
 ---
-title: "Underwriting Spread: Overview and Examples (Algo Trading)"
-description: "Explore the role of algorithmic trading in modern finance focusing on underwriting spreads This guide examines its impact on trading strategies and market dynamics"
+category: quant_concept
+description: Explore the role of algorithmic trading in modern finance focusing on
+  underwriting spreads This guide examines its impact on trading strategies and market
+  dynamics
+title: 'Underwriting Spread: Overview and Examples (Algo Trading)'
 ---
 
 The financial landscape is continuously evolving, with one of the most notable shifts being the increasing influence of algorithmic trading. This sophisticated trading approach uses complex algorithms to automate and optimize trading decisions, executing trades at speeds and efficiencies far superior to traditional methods. Algorithmic trading has transformed trading strategies and market making by enabling traders to leverage vast amounts of data and execute trades within milliseconds, a feat unimaginable in previous decades. This shift has led to more liquid markets, tighter spreads, and a reduction in transaction costs.

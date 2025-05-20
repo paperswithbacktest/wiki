@@ -1,6 +1,9 @@
 ---
-title: "Currency Trading Platforms: Overview, Examples, Advantages, and Disadvantages (Algo Trading)"
-description: "Explore the dynamics of currency trading platforms and algorithmic trading in Forex Learn the advantages and challenges of these technologies in the market"
+category: trading_strategy
+description: Explore the dynamics of currency trading platforms and algorithmic trading
+  in Forex Learn the advantages and challenges of these technologies in the market
+title: 'Currency Trading Platforms: Overview, Examples, Advantages, and Disadvantages
+  (Algo Trading)'
 ---
 
 Currency trading, often referred to as Forex or foreign exchange trading, has emerged as a significant investment avenue in the ever-evolving financial landscape. This form of trading involves the exchange of currencies with the primary objective of profiting from fluctuations in exchange rates. Forex trading is conducted in the largest financial market globally, where trillions of dollars are exchanged daily across various financial centers.

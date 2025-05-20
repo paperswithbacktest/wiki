@@ -1,6 +1,8 @@
 ---
-title: "Internal Rate of Return: Formula and Examples (Algo Trading)"
-description: "Explore the fundamentals of Internal Rate of Return (IRR) in investment analysis Learn IRR calculation and its role in algorithmic trading decision-making"
+category: quant_concept
+description: Explore the fundamentals of Internal Rate of Return (IRR) in investment
+  analysis Learn IRR calculation and its role in algorithmic trading decision-making
+title: 'Internal Rate of Return: Formula and Examples (Algo Trading)'
 ---
 
 In the competitive world of investment, understanding financial metrics is crucial for success. Among the various financial metrics, the internal rate of return (IRR) stands out as a fundamental tool in investment analysis. IRR is often used to evaluate the profitability potential of investments by estimating the rate of growth a project is expected to generate. As it provides a singular metric to assess the desirability of investments, it becomes a pivotal aspect in deciding which ventures merit allocation of resources.
@@ -234,4 +236,3 @@ For those interested in gaining a deeper understanding of the internal rate of r
 6. **Python Programming for Finance** - For those interested in applying IRR calculations programmatically, resources that teach Python for financial analysis can be exceptionally beneficial. Websites like towardsdatascience.com and Coursera offer courses on Python that include financial programming and computational techniques for calculating IRR.
 
 By exploring these resources, individuals can enhance their understanding of IRR, leading to more informed investment strategies and financial decisions.
-

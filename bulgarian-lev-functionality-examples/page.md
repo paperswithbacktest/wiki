@@ -1,6 +1,8 @@
 ---
-title: "Bulgarian Lev: Functionality and Examples (Algo Trading)"
-description: "Explore how the Bulgarian Lev stabilizes Bulgaria's economy and how algorithmic trading strategies enhance currency trading, merging tradition with technology."
+category: quant_concept
+description: Explore how the Bulgarian Lev stabilizes Bulgaria's economy and how algorithmic
+  trading strategies enhance currency trading, merging tradition with technology.
+title: 'Bulgarian Lev: Functionality and Examples (Algo Trading)'
 ---
 
 The Bulgarian Lev (BGN) serves as the official currency of Bulgaria, a nation that has been a pivotal member of the European Union since its accession in 2007. This currency plays an indispensable role in endorsing Bulgaria's financial stability and enabling economic strategies on a global scale. The structured nature of the BGN, pegged at a fixed rate to the euro, helps stabilize exchange rates and allows Bulgaria to maintain a robust monetary policy.

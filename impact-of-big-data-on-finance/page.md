@@ -1,6 +1,9 @@
 ---
-title: "Impact of Big Data on Finance (Algo Trading)"
-description: "Explore how big data analytics and algorithmic trading revolutionize finance by enhancing decision-making processes optimizing outcomes and mitigating risks."
+category: quant_concept
+description: Explore how big data analytics and algorithmic trading revolutionize
+  finance by enhancing decision-making processes optimizing outcomes and mitigating
+  risks.
+title: Impact of Big Data on Finance (Algo Trading)
 ---
 
 The advent of technology in the financial sector has revolutionized how data is used to make strategic investment decisions. With the proliferation of digital information, financial institutions now harness vast amounts of data to derive actionable insights. Data analytics and algorithmic trading are at the forefront of this transformation, leveraging big data to optimize financial outcomes. By analyzing extensive datasets, financial entities gain a comprehensive understanding of market dynamics, allowing for more informed decision-making.

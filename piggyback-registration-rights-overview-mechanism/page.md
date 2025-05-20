@@ -1,6 +1,8 @@
 ---
-title: "Piggyback Registration Rights: Overview and Mechanism (Algo Trading)"
-description: "Explore the importance of piggyback registration rights in investment securities and algorithmic trading for portfolio liquidity optimization."
+category: quant_concept
+description: Explore the importance of piggyback registration rights in investment
+  securities and algorithmic trading for portfolio liquidity optimization.
+title: 'Piggyback Registration Rights: Overview and Mechanism (Algo Trading)'
 ---
 
 In today's financial landscape, understanding the complexity of investment securities is crucial. The diverse nature of financial assets, such as stocks, bonds, and derivatives, requires investors to be well-versed in various strategic tools and legal rights that can enhance their investment opportunities. This article specifically explores piggyback registration rights, focusing on their role within the broader context of investment securities and their integration with algorithmic trading strategies.

@@ -1,6 +1,8 @@
 ---
-title: "Gold-Silver Ratio Trading (Algo Trading)"
-description: "Explore gold-silver ratio strategies in algo trading to optimize your portfolio Gain insights into using this key metric with advanced computational techniques"
+category: trading_strategy
+description: Explore gold-silver ratio strategies in algo trading to optimize your
+  portfolio Gain insights into using this key metric with advanced computational techniques
+title: Gold-Silver Ratio Trading (Algo Trading)
 ---
 
 The commodity investment market presents a multitude of opportunities, particularly in precious metals trading. Gold and silver are esteemed assets and have been revered as stores of value throughout history. Their intrinsic financial stability makes them appealing choices for diversifying investment portfolios. In modern financial markets, the gold-silver ratio has become a pivotal metric for investors seeking portfolio equilibrium. This ratio, representing the quantity of silver needed to purchase one ounce of gold, provides insights into relative value and market positioning.

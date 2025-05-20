@@ -1,6 +1,8 @@
 ---
-title: "Mini-Tender Offers: Overview and Examples (Algo Trading)"
-description: "Explore the intricacies of mini-tender offers and algorithmic trading in modern finance. Understand their strategies, benefits, risks, and investor impact."
+category: trading_strategy
+description: Explore the intricacies of mini-tender offers and algorithmic trading
+  in modern finance. Understand their strategies, benefits, risks, and investor impact.
+title: 'Mini-Tender Offers: Overview and Examples (Algo Trading)'
 ---
 
 Investment strategies have evolved significantly over time, adapting to changes in technology and financial market dynamics. Among contemporary strategies, mini-tenders, tender offers, and algorithmic trading represent distinct approaches that can significantly influence investment outcomes. These tactics, although diverse in nature, share interconnections which are shaping the modern investment landscape.
@@ -197,4 +199,3 @@ A prevailing theme across these investment strategies is the critical importance
 
 10. **"Deep Learning and Neural Networks for Trading" - Video Series by QuantInsti**  
     This series introduces the application of AI and machine learning in trading, predicting future trends and innovations in market behavior and technology.
-

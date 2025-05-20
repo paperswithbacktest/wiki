@@ -1,6 +1,9 @@
 ---
-title: "Impact of Federal Funds Rate Increases on Gold (Algo Trading)"
-description: "Explore the complex relationship between Federal Funds Rate hikes and gold prices, considering the roles of monetary policy, algorithmic trading, and investor sentiment."
+category: trading_strategy
+description: Explore the complex relationship between Federal Funds Rate hikes and
+  gold prices, considering the roles of monetary policy, algorithmic trading, and
+  investor sentiment.
+title: Impact of Federal Funds Rate Increases on Gold (Algo Trading)
 ---
 
 Interest rate hikes and their impact on gold prices have been debated for many years, largely due to the complex interplay between monetary policy and market dynamics. The Federal Funds Rate, set by the Federal Reserve, is a critical tool used to control inflation and stabilize the economy by influencing short-term interest rates. This rate affects borrowing costs, consumer spending, and business investments, ultimately impacting various asset classes, including gold.

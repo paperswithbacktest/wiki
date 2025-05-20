@@ -1,6 +1,8 @@
 ---
-title: "Man-Year: Concept, Overview and Calculation (Algo Trading)"
-description: "Discover the role of man-years in work measurement and how it advances project management and algorithmic trading for increased efficiency and success."
+category: quant_concept
+description: Discover the role of man-years in work measurement and how it advances
+  project management and algorithmic trading for increased efficiency and success.
+title: 'Man-Year: Concept, Overview and Calculation (Algo Trading)'
 ---
 
 In the modern landscape of project management and trading, understanding complex metrics and systems is critical. As organizations strive for efficiency and competitive advantage, embracing robust measurement and management techniques is essential. This article explores the convergence of work measurement through the concept of man-years, effective project management strategies, and the rapidly advancing domain of algorithmic trading.

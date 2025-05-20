@@ -1,6 +1,9 @@
 ---
-title: "Seasoned Issues: Meaning and Benefits (Algo Trading)"
-description: "Explore the meaning, benefits, and operational dynamics of seasoned issues in algo trading. Discover how companies leverage these offerings for growth and strategy."
+category: quant_concept
+description: Explore the meaning, benefits, and operational dynamics of seasoned issues
+  in algo trading. Discover how companies leverage these offerings for growth and
+  strategy.
+title: 'Seasoned Issues: Meaning and Benefits (Algo Trading)'
 ---
 
 A seasoned issue, also referred to as a seasoned equity offering or follow-on public offering (FPO), involves a company with already publicly traded stock issuing additional securities in the secondary market. This process is distinct from an Initial Public Offering (IPO) where a company's stock is offered to the public for the first time. The seasoned issue provides a mechanism for companies to raise additional capital, allowing them to undertake various strategic initiatives like funding new projects, expanding operations, or restructuring existing debt.

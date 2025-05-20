@@ -1,6 +1,8 @@
 ---
-title: "Warehouse Receipts Overview (Algo Trading)"
-description: "Explore how warehouse receipts and algorithmic trading synergize to optimize supply chain logistics, enhancing transparency, efficiency, and decision-making."
+category: quant_concept
+description: Explore how warehouse receipts and algorithmic trading synergize to optimize
+  supply chain logistics, enhancing transparency, efficiency, and decision-making.
+title: Warehouse Receipts Overview (Algo Trading)
 ---
 
 Warehouse receipts are integral to supply chain management, functioning as a foundational element in the domains of logistics and trading. They represent formal documents issued by warehouse operators, acknowledging the receipt and storage of goods. These documents play a key role in maintaining and enhancing the transparency and efficiency of supply chain operations. By detailing the quantity, quality, and condition of stored goods, warehouse receipts allow for the seamless transfer of ownership without necessitating the physical movement of commodities. This aspect significantly optimizes the logistical flow and reduces transactional complexities.

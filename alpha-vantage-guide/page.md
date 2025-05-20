@@ -1,6 +1,12 @@
 ---
-title: "Alpha Vantage Guide (Algo Trading)"
-description: Discover how Alpha Vantage empowers algorithmic trading with its reliable financial data and user-friendly API solutions. This guide explores how traders and developers can leverage Alpha Vantage for real-time insights, technical indicators, and global market coverage to enhance trading strategies. Accessible features and cost-effective services make it a top choice for both novice and seasoned traders in navigating complex financial markets.
+category: dataset
+description: Discover how Alpha Vantage empowers algorithmic trading with its reliable
+  financial data and user-friendly API solutions. This guide explores how traders
+  and developers can leverage Alpha Vantage for real-time insights, technical indicators,
+  and global market coverage to enhance trading strategies. Accessible features and
+  cost-effective services make it a top choice for both novice and seasoned traders
+  in navigating complex financial markets.
+title: Alpha Vantage Guide (Algo Trading)
 ---
 
 In the fast-paced world of algorithmic trading, having access to reliable and comprehensive financial data is crucial for making informed trading decisions. The rapid evolution of trading technologies demands platforms that provide not just sheer volumes of data but also actionable insights. Alpha Vantage has emerged as a popular choice among developers and traders seeking an efficient platform to derive such insights. With its user-friendly interface and robust API offerings, Alpha Vantage caters to a diverse range of financial market participants, from individual traders to institutional investors.

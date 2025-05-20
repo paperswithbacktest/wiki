@@ -1,6 +1,8 @@
 ---
-title: "Price Creep: Mechanism and Examples (Algo Trading)"
-description: "Explore how inflation, economic trends, and algorithmic trading interconnect, influencing price creep in modern markets. Optimize strategies to manage risks."
+category: quant_concept
+description: Explore how inflation, economic trends, and algorithmic trading interconnect,
+  influencing price creep in modern markets. Optimize strategies to manage risks.
+title: 'Price Creep: Mechanism and Examples (Algo Trading)'
 ---
 
 Inflation, economic trends, price creep, and algorithmic trading are increasingly interconnected influences shaping the modern financial landscape. Understanding these dynamics is essential for investors and traders aiming to optimize their strategies and manage risks effectively. Inflation, representing the rate at which the general level of prices for goods and services rises, directly impacts purchasing power and can significantly alter financial markets. For instance, as inflation rates rise, central banks may adjust interest rates, affecting asset prices and currency valuations.

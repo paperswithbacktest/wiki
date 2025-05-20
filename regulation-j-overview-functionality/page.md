@@ -1,6 +1,8 @@
 ---
-title: "Regulation J: Overview and Functionality (Algo Trading)"
-description: "Explore the critical role of Regulation J in payment processing ensuring security and consistency for banks in handling checks and electronic funds transfers."
+category: quant_concept
+description: Explore the critical role of Regulation J in payment processing ensuring
+  security and consistency for banks in handling checks and electronic funds transfers.
+title: 'Regulation J: Overview and Functionality (Algo Trading)'
 ---
 
 This article explores the intricate world of banking regulations and payment processing related to Regulation J. Regulation J is a critical component of the financial structure governed by the Federal Reserve System, which plays a fundamental role in how depository institutions handle payments. By defining and regulating processes for check collections, balance settlements, and the flow of funds, Regulation J ensures consistency and security within the banking sector.

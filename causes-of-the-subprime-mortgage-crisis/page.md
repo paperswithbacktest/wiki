@@ -1,6 +1,9 @@
 ---
-title: "Causes of the Subprime Mortgage Crisis (Algo Trading)"
-description: "Explore the causes behind the subprime mortgage crisis linked to risky lending practices and financial innovations with global repercussions and lessons learned."
+category: quant_concept
+description: Explore the causes behind the subprime mortgage crisis linked to risky
+  lending practices and financial innovations with global repercussions and lessons
+  learned.
+title: Causes of the Subprime Mortgage Crisis (Algo Trading)
 ---
 
 The mortgage crisis, subprime crisis, and financial crisis are terms frequently associated with periods of significant economic instability that have have far-reaching repercussions on global economies and financial markets. These crises are intricately linked by common elements such as risky borrowing practices, financial innovations, and the propagation of systemic risks that transcended national boundaries. Understanding the interactions between these crises is essential for deciphering past economic failures and preparing for future uncertainties.

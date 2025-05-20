@@ -1,6 +1,9 @@
 ---
-title: "Bundesbank: Structure and Function (Algo Trading)"
-description: "Explore the interplay between Germany's Bundesbank monetary policies and algorithmic trading's rise highlighting impacts on market liquidity and economic stability."
+category: quant_concept
+description: Explore the interplay between Germany's Bundesbank monetary policies
+  and algorithmic trading's rise highlighting impacts on market liquidity and economic
+  stability.
+title: 'Bundesbank: Structure and Function (Algo Trading)'
 ---
 
 The Deutsche Bundesbank, as Germany's central bank, holds significant authority and influence within the European Union, particularly within the Eurosystem. The Eurosystem, which encompasses the European Central Bank (ECB) and the national central banks of the euro area member states, aims to maintain price stability and ensure economic growth across the region. Within this framework, the Bundesbank plays a vital operational role, contributing to decision-making processes through the ECB's Governing Council and executing monetary policies to stabilize both the German and broader eurozone economies.

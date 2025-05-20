@@ -1,6 +1,9 @@
 ---
-title: "ISM Non-Manufacturing Index: Overview and Categories (Algo Trading)"
-description: "Explore the ISM Non-Manufacturing Index's significance in understanding service sector health and its role in algorithmic trading for informed economic decisions."
+category: dataset
+description: Explore the ISM Non-Manufacturing Index's significance in understanding
+  service sector health and its role in algorithmic trading for informed economic
+  decisions.
+title: 'ISM Non-Manufacturing Index: Overview and Categories (Algo Trading)'
 ---
 
 The ISM Non-Manufacturing Index, also known as the ISM Services PMI, is a pivotal economic indicator that provides insights into the economic health of the service sector, encompassing various industries such as finance, healthcare, and retail. This index is crucial for understanding macroeconomic trends, as the service sector is a significant contributor to GDP and employment in modern economies.

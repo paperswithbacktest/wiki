@@ -1,6 +1,8 @@
 ---
-title: "Examples of Write-Ups in Accounting (Algo Trading)"
-description: "Discover how write-ups and algorithmic trading enhance asset management through financial adjustments and data analysis to reflect true market values."
+category: quant_concept
+description: Discover how write-ups and algorithmic trading enhance asset management
+  through financial adjustments and data analysis to reflect true market values.
+title: Examples of Write-Ups in Accounting (Algo Trading)
 ---
 
 In finance and accounting, write-ups and write-downs are essential for asset management and financial reporting. These terms refer to adjusting the book value of an asset to better reflect its current market value. A write-up increases the book value when it's lower than the fair market value, while a write-down decreases it when the market value has declined.

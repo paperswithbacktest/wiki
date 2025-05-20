@@ -1,6 +1,9 @@
 ---
-title: "Curve Steepener Trade: Examples and Strategies (Algo Trading)"
-description: "Discover Curve Steepener Trading Strategies in algorithmic trading to profit from interest rate changes by leveraging short-term and long-term Treasury bond yield spreads."
+category: trading_strategy
+description: Discover Curve Steepener Trading Strategies in algorithmic trading to
+  profit from interest rate changes by leveraging short-term and long-term Treasury
+  bond yield spreads.
+title: 'Curve Steepener Trade: Examples and Strategies (Algo Trading)'
 ---
 
 The Curve Steepener Trading Strategy is increasingly gaining traction among financial market participants seeking to capitalize on fluctuations in interest rates. This strategy involves leveraging the differential between short-term and long-term Treasury bond yields, primarily by focusing on the widening yield spread. The yield curve, which graphs interest rates of bonds with equal credit quality across various maturities, can steepen, flatten, or invert. A steepening curve, characterizing higher long-term rates relative to short-term ones, presents significant opportunities for financial traders and investors.

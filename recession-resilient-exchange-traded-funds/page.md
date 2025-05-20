@@ -1,6 +1,9 @@
 ---
-title: "Recession-Resilient Exchange-Traded Funds (Algo Trading)"
-description: "Explore recession-resilient ETFs that leverage algorithmic trading for optimal performance during downturns. Harness economic resilience and strategic advantages."
+category: trading_strategy
+description: Explore recession-resilient ETFs that leverage algorithmic trading for
+  optimal performance during downturns. Harness economic resilience and strategic
+  advantages.
+title: Recession-Resilient Exchange-Traded Funds (Algo Trading)
 ---
 
 Exchange-Traded Funds (ETFs) have become increasingly popular as investment vehicles over the past decade, providing investors with diversification, liquidity, and cost-effectiveness. These investment funds, traded on stock exchanges, have transformed how investors approach the financial markets by enabling them to acquire broad exposure to various asset classes, including stocks, bonds, commodities, and other investment types.

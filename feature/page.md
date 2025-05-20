@@ -1,7 +1,8 @@
 ---
-title: Feature Engineering Strategies for Effective Machine Learning
+category: quant_concept
 description: Feature engineering transforms data into inputs for machine learning
   by selecting and creating features that boost model accuracy Discover more inside
+title: Feature Engineering Strategies for Effective Machine Learning
 ---
 
 ![Image](images/1.png)

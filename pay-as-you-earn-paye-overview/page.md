@@ -1,6 +1,9 @@
 ---
-title: "Pay As You Earn (PAYE) Overview (Algo Trading)"
-description: "Discover the essential workings of Pay As You Earn (PAYE) its impact on income tax and student loans and explore how algorithmic trading influences PAYE's role in finance."
+category: quant_concept
+description: Discover the essential workings of Pay As You Earn (PAYE) its impact
+  on income tax and student loans and explore how algorithmic trading influences PAYE's
+  role in finance.
+title: Pay As You Earn (PAYE) Overview (Algo Trading)
 ---
 
 Pay As You Earn (PAYE) is a cornerstone in the landscape of income tax systems worldwide, playing a vital role in the efficient collection and management of taxes. For both employees and employers, understanding the dynamics of PAYE is essential for navigating the complexities of income tax compliance and personal financial management. PAYE typically requires employers to withhold income tax from their employees' wages or salaries, a method designed to streamline tax collection by ensuring taxes are paid regularly throughout the year rather than in a lump sum at the end of it.

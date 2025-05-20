@@ -1,6 +1,8 @@
 ---
-title: "Impact of Financial Leverage on Earnings Per Share (Algo Trading)"
-description: "Explore the impact of financial leverage on earnings per share and its significance for algorithmic trading strategies in analyzing market fluctuations."
+category: quant_concept
+description: Explore the impact of financial leverage on earnings per share and its
+  significance for algorithmic trading strategies in analyzing market fluctuations.
+title: Impact of Financial Leverage on Earnings Per Share (Algo Trading)
 ---
 
 The global financial market is a complex entity where various factors interplay to influence the performance of companies and, subsequently, the investments in these companies. Among these critical elements, the degree of financial leverage (DFL) and its impact on earnings per share (EPS) stand out as pivotal considerations for investors and analysts alike. This article examines the intricate relationships between DFL, EPS, financial leverage, and algorithmic trading, offering valuable insights for investors seeking to optimize returns while managing risk.

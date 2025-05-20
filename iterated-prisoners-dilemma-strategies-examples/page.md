@@ -1,6 +1,9 @@
 ---
-title: "Iterated Prisoner's Dilemma Strategies and Examples (Algo Trading)"
-description: "Explore the application of iterated prisoner's dilemma strategies in algorithmic trading to enhance decision-making, manage risk, and improve financial returns."
+category: trading_strategy
+description: Explore the application of iterated prisoner's dilemma strategies in
+  algorithmic trading to enhance decision-making, manage risk, and improve financial
+  returns.
+title: Iterated Prisoner's Dilemma Strategies and Examples (Algo Trading)
 ---
 
 The iterated prisoner's dilemma (IPD) has captivated economists and strategists as a powerful analytical tool for studying complex human behaviors such as cooperation and competition. As a classic example of game theory, IPD extends the well-known prisoner's dilemma to multiple rounds, providing a framework to observe how entities adjust their strategies based on prior interactions. In this context, game theory offers valuable insights into strategic decision-making where outcomes hinge on the actions of multiple participants.

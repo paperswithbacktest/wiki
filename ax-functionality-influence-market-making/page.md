@@ -1,6 +1,8 @@
 ---
-title: "Ax: Functionality and Influence in Market Making (Algo Trading)"
-description: "Explore the roles of market making and algorithmic trading in financial markets and understand their impact on efficiency, liquidity, and market dynamics."
+category: quant_concept
+description: Explore the roles of market making and algorithmic trading in financial
+  markets and understand their impact on efficiency, liquidity, and market dynamics.
+title: 'Ax: Functionality and Influence in Market Making (Algo Trading)'
 ---
 
 Financial markets are complex ecosystems where various components interact to determine the value and exchange of securities. Among these, market making and algorithmic trading hold pivotal roles. These are integral to the functionality and efficiency of markets, affecting how trades are executed and how liquidity is provided.

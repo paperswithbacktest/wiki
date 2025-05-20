@@ -1,6 +1,8 @@
 ---
-title: "Locating CUSIP Numbers for Stocks (Algo Trading)"
-description: "Discover the strategic role of CUSIP numbers in enhancing algorithmic trading, boosting efficiency in investment strategies, and ensuring regulatory compliance."
+category: dataset
+description: Discover the strategic role of CUSIP numbers in enhancing algorithmic
+  trading, boosting efficiency in investment strategies, and ensuring regulatory compliance.
+title: Locating CUSIP Numbers for Stocks (Algo Trading)
 ---
 
 In the fast-paced world of finance, the accurate and efficient identification of securities is fundamental to executing successful trading and investment strategies. Among the myriad identification systems, the CUSIP, or the Committee on Uniform Securities Identification Procedures, code emerges as a pivotal tool in streamlining the trading process. This nine-character alphanumeric code is instrumental in uniquely identifying financial securities, which includes stocks, bonds, and mutual funds, thereby fostering a uniform approach to the trading and recording of securities.

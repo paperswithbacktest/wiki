@@ -1,6 +1,8 @@
 ---
-title: "Role of Swap Markets in Finance (Algo Trading)"
-description: "Explore the complexities of swap markets in finance and discover how algorithmic trading is transforming risk management and speculative strategies."
+category: quant_concept
+description: Explore the complexities of swap markets in finance and discover how
+  algorithmic trading is transforming risk management and speculative strategies.
+title: Role of Swap Markets in Finance (Algo Trading)
 ---
 
 Understanding financial markets is essential for leveraging opportunities such as those presented by the swap market. As a prominent yet complex component of these markets, the swap market often eludes complete understanding by casual participants. Derivative in nature, swap agreements provide a platform for exchanging cash flows between parties based on specific financial parameters. 

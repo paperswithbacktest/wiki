@@ -1,6 +1,8 @@
 ---
-title: "Employment in the Coal Industry (Algo Trading)"
-description: "Explore the dynamic changes in coal industry employment driven by technology and global energy shifts highlighting the impact of automation and algo trading."
+category: quant_concept
+description: Explore the dynamic changes in coal industry employment driven by technology
+  and global energy shifts highlighting the impact of automation and algo trading.
+title: Employment in the Coal Industry (Algo Trading)
 ---
 
 The coal mining industry has historically been integral to energy production and employment, particularly in countries like the United States, China, and Australia. It has powered industrial revolutions, facilitated economic growth, and provided livelihoods to millions. However, its economic and political significance has seen fluctuations, shaped by evolving energy demands and global market dynamics. In recent years, this industry faces a paradigm shift influenced by growing environmental concerns and technological advancements. The transition towards renewable energy sources such as solar, wind, and natural gas presents a formidable challenge, compelling the coal sector to adapt or diminish.

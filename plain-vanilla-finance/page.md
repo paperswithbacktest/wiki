@@ -1,6 +1,8 @@
 ---
-title: "Plain Vanilla in Finance (Algo Trading)"
-description: "Discover the essence of plain vanilla financial products and the impact of algorithmic trading in finance Explore how simplicity meets advanced technology"
+category: quant_concept
+description: Discover the essence of plain vanilla financial products and the impact
+  of algorithmic trading in finance Explore how simplicity meets advanced technology
+title: Plain Vanilla in Finance (Algo Trading)
 ---
 
 In the fast-paced world of finance, understanding complex jargon can often be a challenge for both newcomers and seasoned investors. This article aims to clarify some of the key financial terms, centering on 'plain vanilla' products and algorithmic trading. 'Plain vanilla' in finance refers to the most basic version of financial instruments such as options, bonds, and swaps, characterized by their simplicity and lack of complex features. These instruments are typically associated with lower risk and greater transparency, making them appealing to many investors. By comparing 'plain vanilla' products with more intricate financial instruments, we will explore their importance and utility in the broader financial landscape.

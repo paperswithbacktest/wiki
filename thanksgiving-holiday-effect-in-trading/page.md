@@ -1,6 +1,13 @@
 ---
-title: "Thanksgiving Holiday Effect in Trading Explained (Algo Trading)"
-description: Explore the seasonal anomaly known as the Thanksgiving effect in trading, where stocks typically show a positive trend around the holiday. This article investigates into how algorithmic trading can leverage historical data and backtested strategies to capitalize on this trend. By optimizing trade timing and execution, traders can potentially enhance their portfolios during this period. Discover refined strategies and insights to navigate the market dynamics associated with Thanksgiving, maximizing trading opportunities efficiently.
+category: trading_strategy
+description: Explore the seasonal anomaly known as the Thanksgiving effect in trading,
+  where stocks typically show a positive trend around the holiday. This article investigates
+  into how algorithmic trading can leverage historical data and backtested strategies
+  to capitalize on this trend. By optimizing trade timing and execution, traders can
+  potentially enhance their portfolios during this period. Discover refined strategies
+  and insights to navigate the market dynamics associated with Thanksgiving, maximizing
+  trading opportunities efficiently.
+title: Thanksgiving Holiday Effect in Trading Explained (Algo Trading)
 ---
 
 As Thanksgiving approaches, market participants often turn their attention to the potential impact of this holiday on stock market performance. The Thanksgiving effect refers to a seasonal anomaly observed in financial markets, where stocks tend to exhibit a positive trend during the days surrounding Thanksgiving. This period, characterized by a mix of optimism and holiday sentiment, has historically presented opportunities for traders to enhance their portfolios.

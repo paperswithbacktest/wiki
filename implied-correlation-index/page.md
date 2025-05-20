@@ -1,6 +1,8 @@
 ---
-title: "Implied Correlation Index (Algo Trading)"
-description: "Explore how implied correlation indices enhance algorithmic trading by revealing index volatility relationships. Optimize strategies and seize market opportunities."
+category: quant_concept
+description: Explore how implied correlation indices enhance algorithmic trading by
+  revealing index volatility relationships. Optimize strategies and seize market opportunities.
+title: Implied Correlation Index (Algo Trading)
 ---
 
 The evolving landscape of financial markets has witnessed significant advancements in the use of algorithmic trading, transforming the traditional trading paradigms into highly efficient and precise mechanisms. Among the many facets of algorithmic trading is the analysis of financial markets index implied correlations, a critical component that offers deep insights into market dynamics and trading opportunities. Implied correlation indices serve as vital tools for traders, providing an assessment of how individual stock volatilities relate to the overall index volatility. This understanding is particularly crucial for those looking to implement dispersion and delta-one strategies.

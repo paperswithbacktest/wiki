@@ -1,6 +1,9 @@
 ---
-title: "Dow Jones Sustainability World Index Methodology (Algo Trading)"
-description: "Explore the methodology of the Dow Jones Sustainability World Index and its relevance for algorithmic trading strategies focusing on ESG criteria and market impact."
+category: quant_concept
+description: Explore the methodology of the Dow Jones Sustainability World Index and
+  its relevance for algorithmic trading strategies focusing on ESG criteria and market
+  impact.
+title: Dow Jones Sustainability World Index Methodology (Algo Trading)
 ---
 
 Sustainability has increasingly become a focal point within investment strategies, driven by growing awareness of environmental, social, and governance (ESG) issues among investors. This paradigm shift underscores the importance of incorporating sustainable practices into investment decisions, prompting the development of specialized indices like the Dow Jones Sustainability World Index (DJSI World). Launched in 1999, the DJSI World serves as a benchmark for evaluating the sustainability performance of leading global companies. It reflects a growing commitment to integrating ESG factors into financial markets, aligning investment portfolios with long-term sustainability goals.

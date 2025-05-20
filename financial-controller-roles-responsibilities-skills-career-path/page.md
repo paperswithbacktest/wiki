@@ -1,6 +1,9 @@
 ---
-title: "Financial Controller: Roles, Responsibilities, Skills, and Career Path (Algo Trading)"
-description: "Explore the pivotal role of a financial controller in algorithmic trading focusing on responsibilities, skills, and career paths in this dynamic finance sector."
+category: quant_concept
+description: Explore the pivotal role of a financial controller in algorithmic trading
+  focusing on responsibilities, skills, and career paths in this dynamic finance sector.
+title: 'Financial Controller: Roles, Responsibilities, Skills, and Career Path (Algo
+  Trading)'
 ---
 
 In the fast-evolving world of finance, the role of a financial controller is pivotal for company success. Financial controllers are vital in providing accurate financial reporting and strategic oversight, which are crucial for both regulatory compliance and informed decision-making. This article explores the key responsibilities of a financial controller, particularly in relation to algorithmic trading—a field characterized by the use of pre-programmed trading instructions to execute trades at high speed and volume.

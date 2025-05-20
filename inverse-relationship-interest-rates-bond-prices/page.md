@@ -1,6 +1,8 @@
 ---
-title: "Inverse Relationship Between Interest Rates and Bond Prices (Algo Trading)"
-description: "Discover how interest rates and bond prices are inversely related, impacting investment strategies. Learn how algorithmic trading exploits these market dynamics."
+category: quant_concept
+description: Discover how interest rates and bond prices are inversely related, impacting
+  investment strategies. Learn how algorithmic trading exploits these market dynamics.
+title: Inverse Relationship Between Interest Rates and Bond Prices (Algo Trading)
 ---
 
 Bond prices represent the market value of the debt securities issued by entities such as governments, municipalities, or corporations for the purpose of raising capital. These prices are inherently sensitive to the dynamics of interest rates, an essential component of financial markets. The relationship between bond prices and interest rates is fundamentally inverse. When interest rates rise, existing bond prices generally fall, and conversely, when interest rates decrease, bond prices tend to increase. This inverse relationship is primarily due to the fixed coupon payments of bonds; as new bonds are issued at prevailing higher interest rates, older bonds with lower rates become less attractive, causing their market value to drop.

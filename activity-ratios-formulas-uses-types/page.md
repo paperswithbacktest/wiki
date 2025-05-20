@@ -1,6 +1,9 @@
 ---
-title: "Activity Ratios: Formulas, Uses, and Types (Algo Trading)"
-description: "Explore the use of activity ratios in financial analysis and algorithmic trading to assess business efficiency and optimize trading strategies for better outcomes."
+category: quant_concept
+description: Explore the use of activity ratios in financial analysis and algorithmic
+  trading to assess business efficiency and optimize trading strategies for better
+  outcomes.
+title: 'Activity Ratios: Formulas, Uses, and Types (Algo Trading)'
 ---
 
 In the financial world, assessing the performance and efficiency of businesses through various metrics is crucial for investors, managers, and stakeholders. Among these metrics, activity ratios stand out as key indicators of how well a company utilizes its resources to generate revenue. These ratios help in evaluating a company's operational effectiveness and its ability to manage assets efficiently. By examining activity ratios, such as inventory turnover and accounts receivable turnover, businesses can understand their fiscal health and operational performance.

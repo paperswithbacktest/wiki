@@ -1,6 +1,8 @@
 ---
-title: "SEC Form 24F-2NT (Algo Trading)"
-description: "Explore the vital role of SEC Form 24F-2NT in enabling mutual funds and investment firms to legally sell additional securities while maintaining SEC compliance."
+category: quant_concept
+description: Explore the vital role of SEC Form 24F-2NT in enabling mutual funds and
+  investment firms to legally sell additional securities while maintaining SEC compliance.
+title: SEC Form 24F-2NT (Algo Trading)
 ---
 
 In the complex domain of financial investments, maintaining compliance with regulatory bodies is as critical as executing strategic decisions. Investment companies frequently engage with the Securities and Exchange Commission (SEC) through a variety of procedural filings. Among these, SEC Form 24F-2NT stands out as an essential instrument for mutual funds and other investment companies. It provides a mechanism to ensure legal compliance when selling shares exceeding the quantity initially registered with the SEC.

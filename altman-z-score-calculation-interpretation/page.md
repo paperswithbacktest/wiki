@@ -1,6 +1,8 @@
 ---
-title: "Altman Z-Score: Calculation and Interpretation (Algo Trading)"
-description: "Explore the calculation and interpretation of the Altman Z-Score a key tool in assessing company financial health and guiding algorithmic trading strategies."
+category: quant_concept
+description: Explore the calculation and interpretation of the Altman Z-Score a key
+  tool in assessing company financial health and guiding algorithmic trading strategies.
+title: 'Altman Z-Score: Calculation and Interpretation (Algo Trading)'
 ---
 
 The financial health of a company is a fundamental concern for a wide array of stakeholders, including investors, creditors, and management teams. Understanding and evaluating this health is paramount as it can significantly influence investment decisions, credit assessments, and strategic planning. One of the pivotal facets of assessing financial health is predicting the likelihood of bankruptcy, a scenario with profound implications for all associated parties.

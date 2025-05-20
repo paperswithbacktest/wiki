@@ -1,6 +1,8 @@
 ---
-title: "Composite Index of Leading Indicators (Algo Trading)"
-description: "Explore the intricate world of finance with insights into economic forecasting, leading indicators, indexes, and algorithmic trading to guide informed decisions."
+category: quant_concept
+description: Explore the intricate world of finance with insights into economic forecasting,
+  leading indicators, indexes, and algorithmic trading to guide informed decisions.
+title: Composite Index of Leading Indicators (Algo Trading)
 ---
 
 In the fast-paced world of finance, understanding economic movements and trends can significantly impact investors and policymakers. Economic forecasting, economic indicators, leading indexes, and algorithmic trading form a complex yet cohesive framework that shapes our comprehension of the economy and influences trading strategies.
@@ -164,4 +166,3 @@ Investopedia offers a thorough exploration of Economic Indicators, breaking down
 The International Monetary Fund (IMF) provides an insightful publication titled "Forecasting Recessions: Challenges and Approaches," which examines the intricacies of predicting economic downturns. This resource is essential for understanding the challenges of economic forecasting and the methodologies that can be applied in different economic environments. The publication is available on the [IMF](https://www.imf.org/) website.
 
 Books on Algorithmic Trading and Economic Analysis offer in-depth knowledge on integrating economic indicators into trading strategies and understanding market algorithms. Titles such as "Algorithmic Trading: Winning Strategies and Their Rationale" and "Econometrics for Financial Applications" provide readers with the frameworks and analytical skills necessary for effective algorithmic trading. These [books](/wiki/algo-trading-books) are available through major publishers and online retailers like Amazon and Wiley.
-

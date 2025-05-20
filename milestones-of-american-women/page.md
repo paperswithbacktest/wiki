@@ -1,6 +1,8 @@
 ---
-title: "Milestones of American Women (Algo Trading)"
-description: "Discover the pivotal achievements of American women in algorithmic trading and how their innovation and leadership have transformed the finance industry."
+category: quant_concept
+description: Discover the pivotal achievements of American women in algorithmic trading
+  and how their innovation and leadership have transformed the finance industry.
+title: Milestones of American Women (Algo Trading)
 ---
 
 Algorithmic trading, often referred to as algo trading, represents a transformative shift in the financial sector, leveraging technology to enhance the speed, efficiency, and accuracy of trading operations. This sophisticated practice employs computer algorithms to execute trades based on pre-set criteria, often analyzing vast datasets and executing trades at speeds beyond human capability. As the financial markets have evolved, so has the need for innovative solutions, propelling algorithmic trading to the forefront of modern finance.

@@ -1,6 +1,9 @@
 ---
-title: "Index Divisor: Function and Example (Algo Trading)"
-description: "This page explores the concept of stock market indices focusing on index divisors and their importance in algorithmic trading ensuring market integrity over time."
+category: quant_concept
+description: This page explores the concept of stock market indices focusing on index
+  divisors and their importance in algorithmic trading ensuring market integrity over
+  time.
+title: 'Index Divisor: Function and Example (Algo Trading)'
 ---
 
 The stock market is a multifaceted ecosystem comprised of numerous moving parts, all of which require intricate understanding for effective navigation. One fundamental component of this system is the stock market index. Stock market indices serve as benchmarks representing the performance of specific market sectors or the market as a whole. These indices offer a snapshot of market trends, providing investors with essential insights into economic performance.

@@ -1,6 +1,8 @@
 ---
-title: "Pooled Funds: Examples, Benefits, and Drawbacks (Algo Trading)"
-description: "Explore pooled funds and algorithmic trading with real-world examples, analyzing their benefits and drawbacks to help you make informed investment decisions."
+category: trading_strategy
+description: Explore pooled funds and algorithmic trading with real-world examples,
+  analyzing their benefits and drawbacks to help you make informed investment decisions.
+title: 'Pooled Funds: Examples, Benefits, and Drawbacks (Algo Trading)'
 ---
 
 Investment strategies in finance continue to evolve, reflecting the myriad complexities and opportunities present in today's markets. Two prominent strategies that have emerged are pooled funds and algorithmic trading, each offering distinct pathways for investors seeking growth and diversification. This article aims to explore these strategies, providing real-world examples and a comprehensive analysis of their inherent advantages and disadvantages. Understanding these investment approaches is crucial for individuals striving to make informed decisions that align with their financial objectives and risk appetites.

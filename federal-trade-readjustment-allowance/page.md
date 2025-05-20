@@ -1,6 +1,9 @@
 ---
-title: "Federal Trade Readjustment Allowance (Algo Trading)"
-description: "The Federal Trade Readjustment Allowance provides crucial support to workers affected by foreign trade offering financial aid and retraining for new career paths."
+category: quant_concept
+description: The Federal Trade Readjustment Allowance provides crucial support to
+  workers affected by foreign trade offering financial aid and retraining for new
+  career paths.
+title: Federal Trade Readjustment Allowance (Algo Trading)
 ---
 
 In today's fast-paced global economy, workers frequently encounter challenges heightened by the complexities of international trade dynamics. The Federal Trade Readjustment Allowance (TRA) plays a vital role in providing financial support to those adversely affected by foreign imports. As international trade continues to evolve, this helps reduce the economic strain on workers displaced due to increased global competition.

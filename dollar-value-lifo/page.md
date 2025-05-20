@@ -1,6 +1,8 @@
 ---
-title: "Dollar-Value LIFO (Algo Trading)"
-description: "Explore the synergy between Dollar-Value LIFO inventory valuation and algorithmic trading Understand its impact on financial reporting and trading strategies."
+category: quant_concept
+description: Explore the synergy between Dollar-Value LIFO inventory valuation and
+  algorithmic trading Understand its impact on financial reporting and trading strategies.
+title: Dollar-Value LIFO (Algo Trading)
 ---
 
 The LIFO (Last-In, First-Out) method is an established accounting strategy utilized for inventory valuation, gaining popularity due to its specific applicability in inflationary settings. Among its various forms, the Dollar-Value LIFO method is recognized as a more refined approach, designed to address the challenges of cost fluctuations and inventory categorization, which are prevalent in modern financial landscapes. This method assigns a dollar value to inventory pools rather than individual physical units, allowing for more streamlined financial analysis and reporting.

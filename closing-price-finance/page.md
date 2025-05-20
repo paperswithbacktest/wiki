@@ -1,6 +1,8 @@
 ---
-title: "Closing Price in Finance (Algo Trading)"
-description: "Explore the critical role of closing prices in algo trading as they guide strategies and optimize financial decisions in today's dynamic stock market landscape."
+category: quant_concept
+description: Explore the critical role of closing prices in algo trading as they guide
+  strategies and optimize financial decisions in today's dynamic stock market landscape.
+title: Closing Price in Finance (Algo Trading)
 ---
 
 Understanding the stock market requires a grasp of various financial concepts. One of the critical concepts is the closing price, which represents the last price a stock trades at during market hours. This price holds significant importance as it acts as a reference point for the next day's trading activity, providing investors and traders with a benchmark to gauge market sentiment and make informed decisions. Algo trading, or algorithmic trading, employs computer programs to execute trades based on pre-defined criteria, effectively revolutionizing the way trading is conducted in modern markets. The use of algorithms allows for the efficient handling of large volumes of transactions and minimizes human error.

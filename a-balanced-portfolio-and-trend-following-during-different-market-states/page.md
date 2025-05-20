@@ -1,6 +1,13 @@
 ---
-title: "A Balanced Portfolio and Trend-Following During Different Market States"
-description: Explore how balanced portfolios and trend-following strategies perform across diverse market states including rising interest rates and high inflation. This article evaluates their response to economic factors that influence financial markets, supporting informed investment decisions. Gain insights from historical data analysis on the adaptability of balanced strategies and the dynamic nature of trend-following, ensuring robust investment approaches amidst changing economic landscapes.
+category: trading_strategy
+description: Explore how balanced portfolios and trend-following strategies perform
+  across diverse market states including rising interest rates and high inflation.
+  This article evaluates their response to economic factors that influence financial
+  markets, supporting informed investment decisions. Gain insights from historical
+  data analysis on the adaptability of balanced strategies and the dynamic nature
+  of trend-following, ensuring robust investment approaches amidst changing economic
+  landscapes.
+title: A Balanced Portfolio and Trend-Following During Different Market States
 ---
 
 This article investigates the behavior of balanced portfolios and trend-following strategies across various market conditions, with a primary focus on understanding their performance under scenarios such as rising interest rates, high inflation, and different market cycles. Balanced portfolios, often considered the cornerstone of conservative investment strategies, aim to provide stability and growth by diversifying across a variety of asset classes. Meanwhile, trend-following strategies leverage momentum in market trends, offering a dynamic approach that adapts to changing market conditions. 

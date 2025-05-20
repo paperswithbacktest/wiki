@@ -1,6 +1,8 @@
 ---
-title: "Iron Butterfly Option Strategy: Overview and Application (Algo Trading)"
-description: "Discover the intricacies of the Iron Butterfly options strategy to manage risks and maximize profits in range-bound markets with algorithmic trading tools."
+category: trading_strategy
+description: Discover the intricacies of the Iron Butterfly options strategy to manage
+  risks and maximize profits in range-bound markets with algorithmic trading tools.
+title: 'Iron Butterfly Option Strategy: Overview and Application (Algo Trading)'
 ---
 
 In the world of options trading, numerous strategies are available to help traders maximize profits while managing risks effectively. Among these, the Iron Butterfly strategy stands out due to its potential to generate profits within a range-bound market and its inherent complexity. Characterized by its unique structure involving both call and put options, the Iron Butterfly strategy can be a powerful tool for seasoned traders. 

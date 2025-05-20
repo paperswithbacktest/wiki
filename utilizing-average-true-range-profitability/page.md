@@ -1,6 +1,9 @@
 ---
-title: "Utilizing Average True Range for Profitability (Algo Trading)"
-description: "Explore how the Average True Range (ATR) enhances trading strategies, improving profitability through volatility insights. Optimize trade setups and risk management."
+category: trading_strategy
+description: Explore how the Average True Range (ATR) enhances trading strategies,
+  improving profitability through volatility insights. Optimize trade setups and risk
+  management.
+title: Utilizing Average True Range for Profitability (Algo Trading)
 ---
 
 The Average True Range (ATR) is a volatility indicator that has gained substantial popularity among traders for its ability to assess market dynamics. Developed by J. Welles Wilder, the ATR was introduced in his 1978 book, "New Concepts in Technical Trading Systems." Initially designed for commodities markets, the ATR is now an integral tool in various financial markets, including stocks, forex, and futures. The ATR's versatility extends to automated trading and algorithmic strategies, where it is employed to optimize trading systems.

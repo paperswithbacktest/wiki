@@ -1,6 +1,14 @@
 ---
-title: "Comparison of Capitalist and Socialist Economies (Algo Trading)"
-description: "Explore the key differences between capitalist and socialist economies in the context of algorithmic trading. This article provides insights into how private ownership and market dynamics fuel growth in capitalist systems, contrasting with the government oversight and equity-focused approach of socialist economic frameworks. Understand how algo trading, a modern financial innovation, integrates within these distinct economic systems to drive efficiency and meet global market demands. Gain a comprehensive understanding of the economic, social, and technological impacts of these paradigms and their approaches to resource management and financial strategies."
+category: quant_concept
+description: Explore the key differences between capitalist and socialist economies
+  in the context of algorithmic trading. This article provides insights into how private
+  ownership and market dynamics fuel growth in capitalist systems, contrasting with
+  the government oversight and equity-focused approach of socialist economic frameworks.
+  Understand how algo trading, a modern financial innovation, integrates within these
+  distinct economic systems to drive efficiency and meet global market demands. Gain
+  a comprehensive understanding of the economic, social, and technological impacts
+  of these paradigms and their approaches to resource management and financial strategies.
+title: Comparison of Capitalist and Socialist Economies (Algo Trading)
 ---
 
 Economic systems fundamentally influence how societies manage resources and establish mechanisms for the production, distribution, and consumption of goods and services. The two principal economic paradigms are capitalism and socialism, each distinguished by its own organizational principles and operational methodologies. Capitalism is characterized by private ownership and market-driven decision-making, where supply and demand dictate market activities. In contrast, socialism advocates for government oversight and equitable distribution of resources, aiming to ensure the fulfillment of societal needs.

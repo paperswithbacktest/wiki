@@ -1,6 +1,9 @@
 ---
-title: "real-time execution monitoring (Algo Trading)"
-description: "Enhance algorithmic trading success with real-time execution monitoring ensuring optimal trade performance and risk management. Discover key strategies and benefits."
+category: trading_strategy
+description: Enhance algorithmic trading success with real-time execution monitoring
+  ensuring optimal trade performance and risk management. Discover key strategies
+  and benefits.
+title: real-time execution monitoring (Algo Trading)
 ---
 
 Algorithmic trading has revolutionized financial markets by enabling the execution of trades with unprecedented speed and efficiency. This approach leverages complex algorithms and vast datasets to make trading decisions on behalf of traders or financial institutions. The core objective is to optimize trade execution, seeking the best possible prices while minimizing transaction costs and execution risks. 

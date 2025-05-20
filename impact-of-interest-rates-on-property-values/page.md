@@ -1,6 +1,9 @@
 ---
-title: "Impact of Interest Rates on Property Values (Algo Trading)"
-description: "Explore how interest rates, property values, and algorithmic trading shape real estate markets. Understand their intersection and the impact on property valuations."
+category: quant_concept
+description: Explore how interest rates, property values, and algorithmic trading
+  shape real estate markets. Understand their intersection and the impact on property
+  valuations.
+title: Impact of Interest Rates on Property Values (Algo Trading)
 ---
 
 The real estate market is inherently dynamic, characterized by frequent shifts that are precipitated by a variety of economic factors. Among these, interest rates, property values, and the burgeoning practice of algorithmic trading stand out as pivotal forces in shaping the contemporary real estate landscape. Understanding how these dynamics interact is crucial for stakeholders aiming to navigate the sector effectively.

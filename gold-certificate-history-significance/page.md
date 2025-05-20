@@ -1,6 +1,9 @@
 ---
-title: "Gold Certificate: History and Significance (Algo Trading)"
-description: "Explore the history and significance of gold certificates in global finance from currency substitutes to investment tools connecting the past with modern algo trading."
+category: quant_concept
+description: Explore the history and significance of gold certificates in global finance
+  from currency substitutes to investment tools connecting the past with modern algo
+  trading.
+title: 'Gold Certificate: History and Significance (Algo Trading)'
 ---
 
 Gold certificates represent a fascinating chapter in the story of global finance, acting both as a medium for gold ownership and as a currency substitute. Originally conceived as a way to simplify transactions during the gold standard era, these certificates enabled economic participants to exchange value linked to a tangible asset—gold—without the cumbersome process of moving physical bullion. As legal tender in the late 19th and early 20th centuries, gold certificates held the same face value as currency notes, providing ease and security in trade.

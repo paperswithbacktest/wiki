@@ -1,6 +1,8 @@
 ---
-title: "Methods of Shorting Ether (Algo Trading)"
-description: "Explore effective methods of shorting Ether in algorithmic trading with strategies and tools to capitalize on Ethereum's price movements and market volatility."
+category: trading_strategy
+description: Explore effective methods of shorting Ether in algorithmic trading with
+  strategies and tools to capitalize on Ethereum's price movements and market volatility.
+title: Methods of Shorting Ether (Algo Trading)
 ---
 
 Ethereum is a decentralized platform that enables developers to build and deploy applications using smart contracts, self-executing contracts with the terms directly written into code. Launched in 2015 by Vitalik Buterin and other co-founders, Ethereum introduced a distinctive feature in the cryptocurrency ecosystem by allowing for programmable transactions and decentralized applications (DApps). Its flexibility in managing decentralized finance (DeFi), non-fungible tokens (NFTs), and countless other innovations has made Ethereum a significant player in the cryptocurrency market.

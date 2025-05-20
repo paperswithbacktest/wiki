@@ -1,6 +1,9 @@
 ---
-title: "Nominal Quotation in Finance (Algo Trading)"
-description: "Explore how nominal quotations in finance provide essential hypothetical price points for traders to develop strategies and navigate the complexities of algorithmic trading."
+category: quant_concept
+description: Explore how nominal quotations in finance provide essential hypothetical
+  price points for traders to develop strategies and navigate the complexities of
+  algorithmic trading.
+title: Nominal Quotation in Finance (Algo Trading)
 ---
 
 In today's dynamic financial markets, a thorough understanding of quotations and trading mechanisms is crucial for investors and traders. Quotations in the finance sector play a pivotal role in determining the pricing of securities, influencing trading decisions and strategies. The concept of 'nominal quotation' is one such financial term that merits attention. It provides a hypothetical price at which a security might trade, offering traders and investors a benchmark or reference point for evaluating potential investments or trades.

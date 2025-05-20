@@ -1,7 +1,8 @@
 ---
-title: Image Super-Resolution Explained Using Machine Learning Models
+category: quant_concept
 description: Image Super-Resolution uses deep learning to enhance low-resolution images
   for diagnostics media restoration and security analysis. Discover more inside.
+title: Image Super-Resolution Explained Using Machine Learning Models
 ---
 
 ![Image](images/1.jpeg)

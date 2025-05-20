@@ -1,6 +1,14 @@
 ---
-title: "Pine Script TradingView Guide (Algo Trading)"
-description: Discover how Pine Script from TradingView enables both novice and experienced traders to develop custom indicators and automate trading strategies. This guide explores Pine Script's user-friendly capabilities, allowing for strategy optimization and seamless integration with TradingView's charting tools. Gain insights into algorithmic trading, backtesting on historical data, and real-time data manipulation, while accessing robust community support and comprehensive resources. Unlock trading potential with Pine Script's simple syntax, even without extensive programming knowledge, to enhance your approach to automated trading and technical analysis.
+category: trading_strategy
+description: Discover how Pine Script from TradingView enables both novice and experienced
+  traders to develop custom indicators and automate trading strategies. This guide
+  explores Pine Script's user-friendly capabilities, allowing for strategy optimization
+  and seamless integration with TradingView's charting tools. Gain insights into algorithmic
+  trading, backtesting on historical data, and real-time data manipulation, while
+  accessing robust community support and comprehensive resources. Unlock trading potential
+  with Pine Script's simple syntax, even without extensive programming knowledge,
+  to enhance your approach to automated trading and technical analysis.
+title: Pine Script TradingView Guide (Algo Trading)
 ---
 
 Algorithmic trading represents a significant transformation in the financial markets, characterized by the use of computer algorithms to automate trading decisions and execute orders. This technology has seen an exponential rise in demand due to its ability to process vast amounts of data at high speeds, thereby improving trading efficiency and enabling high-frequency trading. Algorithmic trading minimizes human error, reduces transaction costs, and operates around the clock, offering significant advantages over traditional manual trading methods.

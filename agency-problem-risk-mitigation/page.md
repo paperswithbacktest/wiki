@@ -1,6 +1,8 @@
 ---
-title: "Agency Problem and Risk Mitigation (Algo Trading)"
-description: "Explore the intersection of agency problems corporate governance and algorithmic trading. Learn how risk mitigation strategies optimize financial outcomes."
+category: quant_concept
+description: Explore the intersection of agency problems corporate governance and
+  algorithmic trading. Learn how risk mitigation strategies optimize financial outcomes.
+title: Agency Problem and Risk Mitigation (Algo Trading)
 ---
 
 In contemporary financial markets, the interconnected themes of the agency problem, corporate governance, risk mitigation, and algorithmic trading play critical roles in shaping corporate strategies and financial outcomes. The agency problem, rooted in agency theory, emerges from conflicts between principals—such as shareholders or owners—and agents, like executives or managers, tasked with running companies. This discord often arises when the interests of agents deviate from those of principals, potentially leading to suboptimal decision-making and financial outcomes.

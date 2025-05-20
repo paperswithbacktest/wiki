@@ -1,6 +1,8 @@
 ---
-title: "Closely Held Shares: Definition and Examples (Algo Trading)"
-description: "Explore the intricacies of closely held shares and algorithmic trading Understand how these elements shape private companies and modern financial markets"
+category: quant_concept
+description: Explore the intricacies of closely held shares and algorithmic trading
+  Understand how these elements shape private companies and modern financial markets
+title: 'Closely Held Shares: Definition and Examples (Algo Trading)'
 ---
 
 Stock ownership is a fundamental component of financial markets, influencing both individual and institutional investors. It represents an ownership stake in a company and entitles the shareholder to a portion of the firm's profits and, often, voting rights in corporate decisions. In contrast to public companies whose stocks are widely traded on exchanges, private companies frequently navigate the intricacies of closely held shares. Closely held shares are typically concentrated within a small group of investors, providing stability and control but limiting the ease of trading compared to publicly traded stocks.

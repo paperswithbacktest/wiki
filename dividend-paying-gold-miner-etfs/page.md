@@ -1,6 +1,8 @@
 ---
-title: "Dividend-Paying Gold Miner ETFs (Algo Trading)"
-description: "Discover the investment potential of dividend-paying Gold Miner ETFs with insights into algorithmic trading enhanced strategies and market diversification."
+category: trading_strategy
+description: Discover the investment potential of dividend-paying Gold Miner ETFs
+  with insights into algorithmic trading enhanced strategies and market diversification.
+title: Dividend-Paying Gold Miner ETFs (Algo Trading)
 ---
 
 In recent years, gold has garnered attention as a favored investment choice, particularly during periods of economic uncertainty. This preference is largely due to its reputation as a stable asset. Investors often turn to gold when financial markets exhibit volatility, seeking it as a hedge against inflation and currency devaluation. 

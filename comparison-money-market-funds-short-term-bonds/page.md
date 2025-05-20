@@ -1,6 +1,14 @@
 ---
-title: "Comparison of Money Market Funds and Short-Term Bonds (Algo Trading)"
-description: "Explore the key differences and similarities between money market funds and short-term bonds, two popular investment options for those seeking safe and low-risk portfolios. Discover how money market funds offer high liquidity and stable value, making them ideal for quick fund access, while short-term bonds provide the opportunity for higher returns due to longer maturity periods. Each option carries unique benefits, including reduced sensitivity to interest rate changes and potential tax advantages. Algorithmic trading also enhances strategies for optimizing returns within these investments, providing a robust framework for effective portfolio management."
+category: quant_concept
+description: Explore the key differences and similarities between money market funds
+  and short-term bonds, two popular investment options for those seeking safe and
+  low-risk portfolios. Discover how money market funds offer high liquidity and stable
+  value, making them ideal for quick fund access, while short-term bonds provide the
+  opportunity for higher returns due to longer maturity periods. Each option carries
+  unique benefits, including reduced sensitivity to interest rate changes and potential
+  tax advantages. Algorithmic trading also enhances strategies for optimizing returns
+  within these investments, providing a robust framework for effective portfolio management.
+title: Comparison of Money Market Funds and Short-Term Bonds (Algo Trading)
 ---
 
 In the world of investing, both money market funds and short-term bonds are integral components of a diversified portfolio, particularly appealing to individuals aiming for relatively safe investments with minimized risk exposure. Money market funds are a type of mutual fund that typically invests in short-term, high-quality debt instruments, offering high liquidity and stable net asset value (NAV). These attributes make them an attractive choice for those looking for quick access to their funds without risking substantial losses. However, the trade-off for this low-risk profile is generally lower returns when compared to other investment options.

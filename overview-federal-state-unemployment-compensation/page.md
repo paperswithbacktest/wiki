@@ -1,6 +1,9 @@
 ---
-title: "Overview of Federal and State Unemployment Compensation (Algo Trading)"
-description: "Navigate federal and state unemployment benefits systems for financial support during job transitions while understanding algorithmic trading's impact on modern markets."
+category: quant_concept
+description: Navigate federal and state unemployment benefits systems for financial
+  support during job transitions while understanding algorithmic trading's impact
+  on modern markets.
+title: Overview of Federal and State Unemployment Compensation (Algo Trading)
 ---
 
 The intricate relationship between federal and state employment benefits programs plays a critical role in supporting individuals during times of unemployment. These programs are essential in ensuring that individuals who lose their jobs, through no fault of their own, receive financial assistance as they transition to new employment opportunities. By understanding the interaction between federal-state program employment benefits and unemployment compensation, individuals can effectively navigate these systems to secure necessary support during challenging periods.

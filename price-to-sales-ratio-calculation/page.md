@@ -1,6 +1,9 @@
 ---
-title: "Price-to-Sales Ratio and Calculation (Algo Trading)"
-description: "Explore the Price-to-Sales ratio—a key financial metric used to evaluate a company's valuation relative to its revenue. Learn its importance in finance and algo trading."
+category: quant_concept
+description: Explore the Price-to-Sales ratio—a key financial metric used to evaluate
+  a company's valuation relative to its revenue. Learn its importance in finance and
+  algo trading.
+title: Price-to-Sales Ratio and Calculation (Algo Trading)
 ---
 
 In finance, mastering key financial ratios is essential for making informed investment decisions. Among these ratios, the Price-to-Sales (P/S) ratio stands out as a fundamental metric used to evaluate a company's value relative to its revenue. The P/S ratio provides critical insights by comparing a company's stock price with its sales, offering investors and analysts a perspective on market valuation that is particularly useful for companies not yet achieving profitability.

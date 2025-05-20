@@ -1,6 +1,9 @@
 ---
-title: "Partial Differential Equation (Algo Trading)"
-description: "Explore the role of partial differential equations in algorithmic trading. These equations help model market dynamics, aiding in strategy development and risk assessment."
+category: quant_concept
+description: Explore the role of partial differential equations in algorithmic trading.
+  These equations help model market dynamics, aiding in strategy development and risk
+  assessment.
+title: Partial Differential Equation (Algo Trading)
 ---
 
 Partial differential equations (PDEs) are integral to modern financial markets, serving as the mathematical backbone in algorithmic trading. They allow traders to develop and evaluate robust mathematical models essential for crafting effective trading strategies and assessing risks associated with market activities. By applying PDEs, traders can analyze how various financial elements interact within the trading environment, leading to informed decision-making processes.
@@ -185,4 +188,3 @@ The successful application of PDEs in algorithmic trading is indicative of poten
 [7]: Duffy, D. J. (2006). ["Finite Difference Methods in Financial Engineering: A Partial Differential Equation Approach."](https://onlinelibrary.wiley.com/doi/book/10.1002/9781118673447) Wiley.
 
 [8]: Lewis, A. L. (2000). ["Option Valuation under Stochastic Volatility: With Mathematica Code."](https://www.researchgate.net/publication/23721444_Option_Valuation_Under_Stochastic_Volatility) Finance Press.
-

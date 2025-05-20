@@ -1,6 +1,11 @@
 ---
-title: "Martin Luther King Jr. Day Holiday Effect in Trading Explained (Algo Trading)"
-description: Explore the trading effects of Martin Luther King Jr. Day on algorithmic strategies with insights into market closures and necessary trading system adaptations. Understand how this US holiday impacts stock exchange operations and the adjustments required for algorithmic models due to the absence of trading activities, helping traders optimize their strategies for the holiday period.
+category: trading_strategy
+description: Explore the trading effects of Martin Luther King Jr. Day on algorithmic
+  strategies with insights into market closures and necessary trading system adaptations.
+  Understand how this US holiday impacts stock exchange operations and the adjustments
+  required for algorithmic models due to the absence of trading activities, helping
+  traders optimize their strategies for the holiday period.
+title: Martin Luther King Jr. Day Holiday Effect in Trading Explained (Algo Trading)
 ---
 
 Martin Luther King Jr. Day (MLK Day) is a federally recognized holiday in the United States, observed annually on the third Monday of January. This day celebrates the life and achievements of Dr. Martin Luther King Jr., a pivotal leader in the American civil rights movement known for his firm commitment to using nonviolent means to end racial segregation. Dr. King’s efforts were instrumental in promoting racial equality and justice through landmark events, such as the 1963 March on Washington, where he delivered his famous "I Have a Dream" speech, which remains a profound symbol of the struggle for civil rights (King Institute, Stanford University).

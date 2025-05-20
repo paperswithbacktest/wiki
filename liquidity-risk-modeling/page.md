@@ -1,6 +1,9 @@
 ---
-title: "liquidity risk modeling (Algo Trading)"
-description: "Liquidity risk modeling in algorithmic trading enhances trade execution by quantifying and managing liquidity impacts using advanced techniques and machine learning."
+category: quant_concept
+description: Liquidity risk modeling in algorithmic trading enhances trade execution
+  by quantifying and managing liquidity impacts using advanced techniques and machine
+  learning.
+title: liquidity risk modeling (Algo Trading)
 ---
 
 Liquidity risk modeling plays a vital role in algorithmic trading, as it helps in comprehending and managing the challenges posed by market liquidity. By quantifying the difficulty of executing trades without significantly impacting asset prices, this approach aids traders in maintaining profitability and minimizing transaction costs. This article examines the significance of liquidity risk modeling in algorithmic trading, focusing on its essential methodologies and the role of machine learning algorithms in modern financial systems.

@@ -1,6 +1,8 @@
 ---
-title: "Constructing a Growth-Oriented Dividend Portfolio (Algo Trading)"
-description: "Explore the fusion of dividend investing and algorithmic trading to enhance portfolio growth. Learn how tech innovations boost stability and precision in investment."
+category: trading_strategy
+description: Explore the fusion of dividend investing and algorithmic trading to enhance
+  portfolio growth. Learn how tech innovations boost stability and precision in investment.
+title: Constructing a Growth-Oriented Dividend Portfolio (Algo Trading)
 ---
 
 Investment strategies have significantly evolved as a result of technological advancements in recent years. Historically, investors relied on fundamental analysis and personal expertise to make decisions. However, the introduction of innovative technologies has transformed how portfolios are managed today.
@@ -186,4 +188,3 @@ Ultimately, personal financial goals should guide the tailoring of investment st
    A professional tool offering comprehensive data and analytics for market research, enabling investors to explore dividend trends, perform investment calculations, and backtest algorithmic trading strategies.
 
 By exploring these resources, investors can gain a deeper understanding of dividend growth, algorithmic trading, and financial strategies essential for optimizing portfolio performance.
-

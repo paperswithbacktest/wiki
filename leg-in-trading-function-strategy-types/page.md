@@ -1,6 +1,8 @@
 ---
-title: "Leg in Trading: Function and Strategy Types (Algo Trading)"
-description: "Discover the transformative impact of algorithmic trading and trading legs on financial markets Enhance your strategies with precision and efficiency."
+category: trading_strategy
+description: Discover the transformative impact of algorithmic trading and trading
+  legs on financial markets Enhance your strategies with precision and efficiency.
+title: 'Leg in Trading: Function and Strategy Types (Algo Trading)'
 ---
 
 The fusion of algorithmic trading and trading legs has brought revolutionary changes to the financial markets, dramatically improving the speed and efficiency of trade executions. Algorithmic trading, or algo trading, involves using pre-programmed algorithms to automate trade execution, which enables traders to process vast amounts of data and execute trades at speeds impossible for humans to achieve. On the other hand, trading legs are the individual components of a strategy that involve multiple parts, often seen in futures and derivatives markets. 

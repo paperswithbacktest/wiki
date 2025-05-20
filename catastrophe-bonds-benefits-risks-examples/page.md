@@ -1,6 +1,9 @@
 ---
-title: "Catastrophe Bonds: Benefits, Risks, and Examples (Algo Trading)"
-description: "Explore the benefits and risks of catastrophe bonds and insurance-linked securities, plus insights into their integration with algorithmic trading for risk management."
+category: quant_concept
+description: Explore the benefits and risks of catastrophe bonds and insurance-linked
+  securities, plus insights into their integration with algorithmic trading for risk
+  management.
+title: 'Catastrophe Bonds: Benefits, Risks, and Examples (Algo Trading)'
 ---
 
 Understanding the way financial markets work involves recognizing various instruments designed to mitigate risk and enhance returns. Among these, catastrophe bonds, insurance-linked securities, and algorithmic trading are crucial components, each serving distinct purposes in managing financial risks.

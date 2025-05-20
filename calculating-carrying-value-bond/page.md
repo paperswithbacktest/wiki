@@ -1,6 +1,8 @@
 ---
-title: "Calculating the Carrying Value of a Bond (Algo Trading)"
-description: "Explore the methodologies of bond valuation including carrying value to enhance investment strategies in algo trading and understand financial fundamentals."
+category: quant_concept
+description: Explore the methodologies of bond valuation including carrying value
+  to enhance investment strategies in algo trading and understand financial fundamentals.
+title: Calculating the Carrying Value of a Bond (Algo Trading)
 ---
 
 Understanding the carrying value of a bond and the methodologies involved in bond valuation are essential components of financial analysis and decision-making. The carrying value, often referred to as book value, represents the adjusted face value of a bond after accounting for any premium or discount that has not yet been amortized. This metric is significant for businesses as it appears on financial statements, reflecting the exact liability owed to bondholders and providing a clearer picture of a company's financial standing.

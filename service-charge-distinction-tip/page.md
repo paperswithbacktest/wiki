@@ -1,6 +1,9 @@
 ---
-title: "Service Charge and Its Distinction from a Tip (Algo Trading)"
-description: "Explore the nuances between service charges and tips in sectors like hospitality and banking, and understand their impact on algorithmic trading and financial transactions."
+category: quant_concept
+description: Explore the nuances between service charges and tips in sectors like
+  hospitality and banking, and understand their impact on algorithmic trading and
+  financial transactions.
+title: Service Charge and Its Distinction from a Tip (Algo Trading)
 ---
 
 The modern financial landscape encompasses a wide array of charges and fees that individuals and investors routinely encounter. These charges are not merely incidental costs, but integral components that can significantly influence financial decisions and outcomes. They vary across different sectors, from hospitality to banking and travel, each with its own set of rules and implications. Service charges, which are often imposed for rendered services, and tips, typically voluntary and tied to personal service experiences, exemplify these financial nuances.

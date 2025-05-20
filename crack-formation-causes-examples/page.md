@@ -1,6 +1,8 @@
 ---
-title: "Crack Formation: Causes and Examples (Algo Trading)"
-description: "Explore the intricate world of algorithmic trading and its challenges with crack formation. Understand causes, examples, and strategies for robust solutions."
+category: quant_concept
+description: Explore the intricate world of algorithmic trading and its challenges
+  with crack formation. Understand causes, examples, and strategies for robust solutions.
+title: 'Crack Formation: Causes and Examples (Algo Trading)'
 ---
 
 Algorithmic trading, commonly known as algo trading, has revolutionized financial markets by enabling rapid and precise execution of trades through automation. This approach leverages computer programs to follow a defined set of instructions, allowing traders to harness the power of complex algorithms to make trading decisions at speeds and frequencies beyond human capability. The efficiency gains provided by algo trading have led to its widespread adoption across global markets, enhancing liquidity and contributing to narrower spreads.
@@ -200,4 +202,3 @@ As financial markets become increasingly complex and interdependent, staying ada
 
 5. **Chan, E. P., Quantitative Trading: How to Build Your Own Algorithmic Trading Business**  
    This book is a foundational guide to establishing an algorithmic trading operation. It provides insights into strategy development and the implementation of systems capable of adapting to structural breaks, ensuring sustained profitability in volatile markets.
-

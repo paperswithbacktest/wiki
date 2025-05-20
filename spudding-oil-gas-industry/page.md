@@ -1,6 +1,9 @@
 ---
-title: "Spudding in the Oil and Gas Industry (Algo Trading)"
-description: "Discover the vital role of spudding in the oil industry and its impact on algorithmic trading Learn how spud dates enhance investment strategies and market insight"
+category: quant_concept
+description: Discover the vital role of spudding in the oil industry and its impact
+  on algorithmic trading Learn how spud dates enhance investment strategies and market
+  insight
+title: Spudding in the Oil and Gas Industry (Algo Trading)
 ---
 
 The oil and gas industry serves as a cornerstone of the global economy, providing essential resources for energy production and consumption worldwide. It remains integral to various sectors, including transportation, manufacturing, and residential heating, functioning as a backbone for modern civilization. Spudding represents a critical first step in this intricate industry, marking the inauguration of drilling operations that will ultimately supply oil and gas to meet global demands.

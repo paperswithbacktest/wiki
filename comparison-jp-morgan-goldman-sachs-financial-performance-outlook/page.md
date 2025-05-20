@@ -1,6 +1,9 @@
 ---
-title: "Comparison of JP Morgan and Goldman Sachs: Financial Performance and Future Prospects (Algo Trading)"
-description: "Compare JP Morgan and Goldman Sachs on financial performance and algorithmic trading insights Discover how these banks shape future strategies in global markets"
+category: trading_strategy
+description: Compare JP Morgan and Goldman Sachs on financial performance and algorithmic
+  trading insights Discover how these banks shape future strategies in global markets
+title: 'Comparison of JP Morgan and Goldman Sachs: Financial Performance and Future
+  Prospects (Algo Trading)'
 ---
 
 JP Morgan Chase and Goldman Sachs are globally recognized as two of the most prominent investment banks. These financial institutions play pivotal roles in the global economy by providing a wide spectrum of services, including investment banking, asset management, and securities services. Their influence extends across various markets, often setting the pace for economic trends and financial innovations.

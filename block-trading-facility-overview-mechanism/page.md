@@ -1,6 +1,8 @@
 ---
-title: "Block Trading Facility: Overview and Mechanism (Algo Trading)"
-description: "Explore the principles of block trading and algorithmic trading in this comprehensive guide. Learn how these mechanisms influence modern financial markets."
+category: quant_concept
+description: Explore the principles of block trading and algorithmic trading in this
+  comprehensive guide. Learn how these mechanisms influence modern financial markets.
+title: 'Block Trading Facility: Overview and Mechanism (Algo Trading)'
 ---
 
 Block trading refers to the purchase or sale of large volumes of securities, typically conducted by institutional investors, hedge funds, or large-scale traders. These trades are often executed off-exchange or in dark pools to minimize market impact and maintain price stability. The significance of block trading lies in its ability to facilitate substantial transactions without causing significant fluctuations in the market. This is critical in maintaining liquidity and ensuring that the trades do not adversely affect the market’s equilibrium.

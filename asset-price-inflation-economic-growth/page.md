@@ -1,6 +1,9 @@
 ---
-title: "Asset Price Inflation and Economic Growth (Algo Trading)"
-description: "Explore the interplay between asset price inflation, economic growth, and algorithmic trading to understand their impact on market stability and investor behavior."
+category: quant_concept
+description: Explore the interplay between asset price inflation, economic growth,
+  and algorithmic trading to understand their impact on market stability and investor
+  behavior.
+title: Asset Price Inflation and Economic Growth (Algo Trading)
 ---
 
 The global financial landscape is characterized by an intricate web of factors that significantly influence its dynamics. Among these, asset price inflation, economic growth, and the rise of algorithmic trading stand out as pivotal elements. Asset price inflation refers to the increase in the value of assets such as stocks, bonds, and real estate, often leading to financial bubbles and volatility within markets. Understanding how these inflated asset prices impact overall economic indicators and investor behavior is crucial for maintaining stability.

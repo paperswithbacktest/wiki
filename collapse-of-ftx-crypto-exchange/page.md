@@ -1,6 +1,11 @@
 ---
-title: "Collapse of FTX Crypto Exchange (Algo Trading)"
-description: "Explore the dramatic rise and fall of FTX Crypto Exchange. Discover how FTX's innovative trading features and rapid growth marked a new era in crypto trading before its unexpected collapse exposed critical vulnerabilities. Learn about the impact on market confidence, regulatory scrutiny, and the lessons learned in the world of digital assets and algorithmic trading."
+category: quant_concept
+description: Explore the dramatic rise and fall of FTX Crypto Exchange. Discover how
+  FTX's innovative trading features and rapid growth marked a new era in crypto trading
+  before its unexpected collapse exposed critical vulnerabilities. Learn about the
+  impact on market confidence, regulatory scrutiny, and the lessons learned in the
+  world of digital assets and algorithmic trading.
+title: Collapse of FTX Crypto Exchange (Algo Trading)
 ---
 
 The cryptocurrency exchange landscape has evolved significantly since the advent of Bitcoin in 2009. With cryptocurrencies gaining mainstream attention, numerous platforms have emerged to facilitate the trading of digital assets. These exchanges range from major global platforms like Binance and Coinbase to smaller, regionally-focused entities. They function as the intermediary between buyers and sellers, offering a secure environment for transactions in various cryptocurrencies. Among these, FTX stood out as a prominent player, known for its innovative approach and rapid growth.

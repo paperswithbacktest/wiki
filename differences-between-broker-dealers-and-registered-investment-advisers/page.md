@@ -1,6 +1,15 @@
 ---
-title: "Differences Between Broker-Dealers and Registered Investment Advisers (Algo Trading)"
-description: "Explore the evolving financial services landscape, focusing on the distinctions between broker-dealers and Registered Investment Advisors (RIAs) amid the rise of algorithmic trading. Learn about the roles, regulatory frameworks, and service offerings that differentiate these entities, emphasizing the fiduciary responsibility of RIAs and the suitability standard of broker-dealers. Understanding these differences empowers investors to navigate modern financial markets effectively, leveraging the unique expertise and advantages each player provides to optimize investment strategies and enhance outcomes."
+category: quant_concept
+description: Explore the evolving financial services landscape, focusing on the distinctions
+  between broker-dealers and Registered Investment Advisors (RIAs) amid the rise of
+  algorithmic trading. Learn about the roles, regulatory frameworks, and service offerings
+  that differentiate these entities, emphasizing the fiduciary responsibility of RIAs
+  and the suitability standard of broker-dealers. Understanding these differences
+  empowers investors to navigate modern financial markets effectively, leveraging
+  the unique expertise and advantages each player provides to optimize investment
+  strategies and enhance outcomes.
+title: Differences Between Broker-Dealers and Registered Investment Advisers (Algo
+  Trading)
 ---
 
 The landscape of financial services is undergoing a significant transformation driven by technological advancements and evolving regulatory frameworks. At the heart of this transformation are key entities such as Registered Investment Advisors (RIAs), financial advisors, broker-dealers, and algorithmic trading (algo trading) platforms. Each plays a distinct role in the financial ecosystem, offering unique services and expertise to cater to the diverse needs of investors.

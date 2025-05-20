@@ -1,6 +1,9 @@
 ---
-title: "Dollar Duration: Overview, Formula, and Limitations (Algo Trading)"
-description: "Understanding dollar duration is crucial for managing bond interest rate risks in algorithmic trading. Learn its role in assessing and optimizing fixed income portfolios."
+category: quant_concept
+description: Understanding dollar duration is crucial for managing bond interest rate
+  risks in algorithmic trading. Learn its role in assessing and optimizing fixed income
+  portfolios.
+title: 'Dollar Duration: Overview, Formula, and Limitations (Algo Trading)'
 ---
 
 Fixed income investments are integral to diversified portfolios, providing stable returns and a reduced risk profile when compared to equities. These investments, commonly known as bonds, are debt instruments where investors receive periodic interest payments and expect their principal to be returned at maturity. They are favored for their ability to generate predictable cash flows and offer a hedge against market volatility, making them particularly appealing for risk-averse investors.
@@ -154,4 +157,3 @@ As technology continues to evolve, so too must the skills and strategies of thos
 - Investopedia articles on duration, bond valuation, and algorithmic trading techniques offer accessible explanations of key concepts for both novice and experienced investors. They include practical information on calculating bond duration, assessing bond value, and employing algorithmic trading strategies effectively.
 
 - Academic journals and online resources provide further insights into recent innovations in fixed income markets and emerging quantitative strategies. Researchers and scholars frequently publish updated studies on topics such as algorithmic trading, interest rate modeling, and advancements in financial technology, serving as valuable resources for continuous learning in this field.
-

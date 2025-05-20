@@ -1,6 +1,8 @@
 ---
-title: "Analysis of Mutual Fund Annual Returns (Algo Trading)"
-description: "Explore the key aspects of mutual fund returns and algorithmic trading and understand how these factors influence investment strategies and portfolio performance."
+category: trading_strategy
+description: Explore the key aspects of mutual fund returns and algorithmic trading
+  and understand how these factors influence investment strategies and portfolio performance.
+title: Analysis of Mutual Fund Annual Returns (Algo Trading)
 ---
 
 Mutual fund investment, performance measurement, and algorithmic trading represent key intersections in modern finance. Mutual funds, which pool resources from multiple investors to purchase a diversified portfolio of securities, play a significant role in many investment portfolios. They offer exposure to various assets, including stocks, bonds, and other securities, and are managed by professional investment managers who aim to achieve specific investment goals, such as capital appreciation or income generation.

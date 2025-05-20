@@ -1,6 +1,9 @@
 ---
-title: "Day-Count Convention and Common Types (Algo Trading)"
-description: "Explore the critical role of day-count conventions and interest calculations in financial markets and algorithmic trading to enhance investment precision and returns."
+category: quant_concept
+description: Explore the critical role of day-count conventions and interest calculations
+  in financial markets and algorithmic trading to enhance investment precision and
+  returns.
+title: Day-Count Convention and Common Types (Algo Trading)
 ---
 
 In the world of financial markets, accurate calculations are paramount. Among the essential components are interest calculations and day-count conventions, which play pivotal roles in determining the value and returns of financial instruments. Day-count conventions are systems used to calculate interest on bonds and other financial instruments. They define the number of days used in the calculation of interest for a specific period, ultimately influencing the precision of financial agreements and returns.

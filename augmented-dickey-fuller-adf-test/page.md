@@ -1,6 +1,11 @@
 ---
-title: "Augmented Dickey-Fuller (ADF) test (Algo Trading)"
-description: Explore the significance of the Augmented Dickey-Fuller test in algorithmic trading to ensure time series stationarity crucial for accurate predictive models. This page investigates into the ADF test's role in refining trading strategies like pairs trading by verifying asset co-integration and enhancing signal reliability using practical approaches in Excel and Python to optimize trading performance.
+category: quant_concept
+description: Explore the significance of the Augmented Dickey-Fuller test in algorithmic
+  trading to ensure time series stationarity crucial for accurate predictive models.
+  This page investigates into the ADF test's role in refining trading strategies like
+  pairs trading by verifying asset co-integration and enhancing signal reliability
+  using practical approaches in Excel and Python to optimize trading performance.
+title: Augmented Dickey-Fuller (ADF) test (Algo Trading)
 ---
 
 Algorithmic trading represents a significant advancement in financial market operations, overshadowing traditional trading methodologies through the employment of sophisticated statistical and mathematical models. The essence of algorithmic trading lies in its ability to make swift and rational transactions based on quantitative data, thereby removing human emotion and error from the equation. At the heart of these operations often lie statistical methods that enable the identification, prediction, and exploitation of market inefficiencies.

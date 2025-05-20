@@ -1,6 +1,8 @@
 ---
-title: "Fragmentation of Trading Venues (Algo Trading)"
-description: "Explore the complexities of market fragmentation and algorithmic trading Gain insights on navigating multiple trading platforms with efficiency and precision"
+category: quant_concept
+description: Explore the complexities of market fragmentation and algorithmic trading
+  Gain insights on navigating multiple trading platforms with efficiency and precision
+title: Fragmentation of Trading Venues (Algo Trading)
 ---
 
 In the rapidly evolving world of finance, algorithmic trading has emerged as a cornerstone of modern market operations, characterized by its unparalleled efficiency and speed. Algorithmic trading, often synonymous with automated trading, involves the utilization of computer programs to execute a significant volume of trades, reducing human intervention and allowing for high-frequency trading. This approach thrives on the ability to rapidly process and analyze vast datasets, enabling traders to capitalize on even the smallest market inefficiencies with precision and speed.

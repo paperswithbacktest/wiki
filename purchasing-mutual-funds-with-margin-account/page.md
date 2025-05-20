@@ -1,6 +1,9 @@
 ---
-title: "Purchasing Mutual Funds with a Margin Account (Algo Trading)"
-description: "Explore strategies for purchasing mutual funds with margin accounts using algorithmic trading techniques. Amplify returns while understanding associated risks and leveraging market opportunities."
+category: trading_strategy
+description: Explore strategies for purchasing mutual funds with margin accounts using
+  algorithmic trading techniques. Amplify returns while understanding associated risks
+  and leveraging market opportunities.
+title: Purchasing Mutual Funds with a Margin Account (Algo Trading)
 ---
 
 Investment strategies have evolved significantly to keep pace with the dynamic nature of the financial landscape. As markets become more complex and diversified, investors seek sophisticated methods to enhance their portfolio performance while managing risks effectively. Three pivotal components in today's investment portfolios—mutual funds, margin accounts, and algorithmic trading—stand out as essential tools for achieving these objectives.

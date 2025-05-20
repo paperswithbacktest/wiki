@@ -1,6 +1,8 @@
 ---
-title: "Floor Trader: Role and Requirements (Algo Trading)"
-description: "Explore the evolving role of floor traders in the digital era of algorithmic trading emphasizing the skills required to thrive in today's tech-driven markets."
+category: quant_concept
+description: Explore the evolving role of floor traders in the digital era of algorithmic
+  trading emphasizing the skills required to thrive in today's tech-driven markets.
+title: 'Floor Trader: Role and Requirements (Algo Trading)'
 ---
 
 The financial trading landscape has undergone significant changes with the integration of technology, fundamentally altering how trades are executed and how traders operate within markets. Initially dominated by traditional floor traders, who physically managed trades in bustling exchange pits, the trading industry has shifted towards electronic platforms and algorithmic strategies. This shift has transformed both the speed and efficiency of trading, rendering the roles and skill sets in this sector increasingly diverse and technologically oriented.

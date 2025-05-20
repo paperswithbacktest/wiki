@@ -1,6 +1,9 @@
 ---
-title: "Composite Index of Lagging Indicators (Algo Trading)"
-description: "Explore the significance of the Composite Index of Lagging Indicators in economic analysis and algorithmic trading validating past trends and guiding informed strategies."
+category: quant_concept
+description: Explore the significance of the Composite Index of Lagging Indicators
+  in economic analysis and algorithmic trading validating past trends and guiding
+  informed strategies.
+title: Composite Index of Lagging Indicators (Algo Trading)
 ---
 
 Economic indicators are fundamental tools in economic analysis, offering critical insights that guide fiscal policy decisions and shape investment strategies. These indicators are divided into three categories: leading, lagging, and coincident indicators. Each type provides a distinct perspective on economic activity. Leading indicators are predictive, offering a glimpse into future economic movements, while coincident indicators provide a real-time snapshot of economic health. Lagging indicators, on the other hand, confirm trends that have already begun, offering retrospective validation of economic shifts.

@@ -1,6 +1,8 @@
 ---
-title: "Registration Process and SEC Regulations (Algo Trading)"
-description: "Explore the registration process and SEC regulations influencing algorithmic trading to understand the impact on financial markets and risk mitigation strategies."
+category: quant_concept
+description: Explore the registration process and SEC regulations influencing algorithmic
+  trading to understand the impact on financial markets and risk mitigation strategies.
+title: Registration Process and SEC Regulations (Algo Trading)
 ---
 
 In recent years, securities trading has undergone a significant transformation with the advent of algorithmic trading strategies. These strategies, prominently featuring high frequency trading (HFT), have introduced new dynamics to financial markets by enabling the rapid execution of trades. High frequency trading strategies leverage sophisticated algorithms to trade at speeds that are impossible for humans, often executing thousands of transactions per second. This rapid execution can lead to substantial financial gains by exploiting minute price variations; however, it also introduces considerable risks to the markets. The increased speed and volume of trades associated with algorithmic strategies contribute to market volatility and, at times, systemic risks, as evidenced by events such as the 'Flash Crash' of 2010.

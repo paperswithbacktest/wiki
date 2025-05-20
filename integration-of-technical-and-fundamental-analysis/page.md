@@ -1,6 +1,8 @@
 ---
-title: "Integration of Technical and Fundamental Analysis (Algo Trading)"
-description: "Discover how integrating technical and fundamental analysis with algorithmic trading can enhance your trading strategies and lead to better financial outcomes"
+category: trading_strategy
+description: Discover how integrating technical and fundamental analysis with algorithmic
+  trading can enhance your trading strategies and lead to better financial outcomes
+title: Integration of Technical and Fundamental Analysis (Algo Trading)
 ---
 
 The world of stock market trading presents various analytical approaches that traders use to make informed decisions. To navigate the complexities of financial markets, traders employ multiple methods to analyze and predict market behavior effectively. Among the most prominent methods are fundamental analysis, technical analysis, and algorithmic trading. Each of these approaches offers distinct advantages and has particular strategies tailored to different types of trades. When combined, these methods can provide a deeper understanding and potentially more accurate assessments of market trends and stock performance.
@@ -139,4 +141,4 @@ In an ever-evolving market landscape, continuous learning and the ability to ada
 
 [4]: ["Machine Learning for Algorithmic Trading"](https://github.com/stefan-jansen/machine-learning-for-trading) by Stefan Jansen  
 
-[5]: ["Quantitative Trading: How to Build Your Own Algorithmic Trading Business"](https://www.amazon.com/Quantitative-Trading-Build-Algorithmic-Business/dp/1119800064) by Ernest P. Chan  
+[5]: ["Quantitative Trading: How to Build Your Own Algorithmic Trading Business"](https://www.amazon.com/Quantitative-Trading-Build-Algorithmic-Business/dp/1119800064) by Ernest P. Chan

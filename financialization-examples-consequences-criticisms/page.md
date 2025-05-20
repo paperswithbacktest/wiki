@@ -1,6 +1,13 @@
 ---
-title: "Financialization: Examples, Consequences, and Criticisms (Algo Trading)"
-description: "Explore the intricate world of financialization and algorithmic trading to understand their significant economic impacts and the criticisms they face. This article investigates into how financialization shapes the global economy through increased financial sector influence, while algorithmic trading accelerates market activities. Discover the benefits and risks of this convergence, including market efficiency, economic inequality, and systemic instability, providing valuable insights into modern financial practices and their effect on global economic dynamics."
+category: quant_concept
+description: Explore the intricate world of financialization and algorithmic trading
+  to understand their significant economic impacts and the criticisms they face. This
+  article investigates into how financialization shapes the global economy through
+  increased financial sector influence, while algorithmic trading accelerates market
+  activities. Discover the benefits and risks of this convergence, including market
+  efficiency, economic inequality, and systemic instability, providing valuable insights
+  into modern financial practices and their effect on global economic dynamics.
+title: 'Financialization: Examples, Consequences, and Criticisms (Algo Trading)'
 ---
 
 The convergence of financialization, economic impact, and algorithmic trading represents a complex and multifaceted arena in the global economy. Financialization signifies the domination of the financial sector in the economy, intertwining deeply with all other economic sectors. It involves the growing influence of financial motives, financial markets, financial actors, and financial institutions in the operation of domestic and international economies. This transformative process is marked by an enhanced presence of financial instruments and services, reshaping industrial capitalism into a form more heavily reliant on financial mechanisms.

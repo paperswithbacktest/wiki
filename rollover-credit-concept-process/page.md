@@ -1,6 +1,8 @@
 ---
-title: "Rollover Credit Concept and Process (Algo Trading)"
-description: "Explore how the rollover credit concept enhances algo trading in forex by optimizing strategies through interest rate differentials for improved profitability."
+category: quant_concept
+description: Explore how the rollover credit concept enhances algo trading in forex
+  by optimizing strategies through interest rate differentials for improved profitability.
+title: Rollover Credit Concept and Process (Algo Trading)
 ---
 
 In recent years, the intersection of finance and technology has revolutionized the landscape of trading. The shift towards algorithmic trading, commonly known as algo trading, has introduced a paradigm where transactions are executed with unprecedented efficiency and precision. This evolution has been driven by advancements in computing power, the proliferation of data, and sophisticated mathematical models, enabling traders to capitalize on market opportunities that would be difficult to discern manually.

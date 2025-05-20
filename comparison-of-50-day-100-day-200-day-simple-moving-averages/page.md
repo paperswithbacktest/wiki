@@ -1,6 +1,8 @@
 ---
-title: "Comparison of 50-Day, 100-Day, and 200-Day Simple Moving Averages (Algo Trading)"
-description: "Explore how 50-day, 100-day, and 200-day simple moving averages in algo trading help identify market trends and enhance decision-making with varying sensitivities."
+category: trading_strategy
+description: Explore how 50-day, 100-day, and 200-day simple moving averages in algo
+  trading help identify market trends and enhance decision-making with varying sensitivities.
+title: Comparison of 50-Day, 100-Day, and 200-Day Simple Moving Averages (Algo Trading)
 ---
 
 Technical analysis serves as a pivotal tool in the arsenal of traders, providing a methodical approach for evaluating securities and identifying potential trading opportunities based on statistical trends derived from trading activity, such as price movement and volume. Historically rooted in analyzing market data, technical analysis helps traders predict future price movements by focusing on past price patterns and trends rather than intrinsic values.

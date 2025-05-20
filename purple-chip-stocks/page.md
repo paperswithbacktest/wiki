@@ -1,6 +1,8 @@
 ---
-title: "Purple Chip Stocks (Algo Trading)"
-description: "Discover the potential of purple chip stocks in algorithmic trading Dive into the stability and robust earnings of purple chips plus tech-driven market advantages"
+category: trading_strategy
+description: Discover the potential of purple chip stocks in algorithmic trading Dive
+  into the stability and robust earnings of purple chips plus tech-driven market advantages
+title: Purple Chip Stocks (Algo Trading)
 ---
 
 In the fast-paced world of investing, finding the right stocks can be challenging. Amidst fluctuating market conditions and an ever-growing selection of investment opportunities, making informed decisions is crucial for success. Purple chip stocks represent a class of equities that offer a balance between risk and reward, catering to serious investors who value stability and gradual growth. These stocks, akin to blue chip stocks but with distinct characteristics, stand out for their strong long-term earnings potential coupled with substantial market capitalizations.

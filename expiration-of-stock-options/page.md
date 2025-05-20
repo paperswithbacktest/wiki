@@ -1,6 +1,9 @@
 ---
-title: "Expiration of Stock Options (Algo Trading)"
-description: "Explore the intricacies of options expiration and its impact on algo trading strategies uncover key insights into effective trading opportunities and market dynamics."
+category: quant_concept
+description: Explore the intricacies of options expiration and its impact on algo
+  trading strategies uncover key insights into effective trading opportunities and
+  market dynamics.
+title: Expiration of Stock Options (Algo Trading)
 ---
 
 Understanding options expiration is crucial for both traders and investors engaged in financial markets. Options expiration holds significant influence over trading strategies and market dynamics, as it marks the point when option contracts either need to be exercised or allowed to expire. This article examines the various complexities associated with options expiration, highlighting its importance in stock options and the spheres of algorithmic trading.

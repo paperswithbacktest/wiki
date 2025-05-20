@@ -1,6 +1,8 @@
 ---
-title: "Algorithmic Trading: Functionality, Advantages, and Disadvantages (Algo Trading)"
-description: "Explore the essential features, benefits, and drawbacks of algorithmic trading which uses computer algorithms to execute trades swiftly in financial markets."
+category: quant_concept
+description: Explore the essential features, benefits, and drawbacks of algorithmic
+  trading which uses computer algorithms to execute trades swiftly in financial markets.
+title: 'Algorithmic Trading: Functionality, Advantages, and Disadvantages (Algo Trading)'
 ---
 
 Algorithmic trading, commonly referred to as 'algo trading', employs sophisticated computer algorithms to automate transactions in financial markets. This practice has dramatically changed how trading is conducted, enabling traders to handle multiple transactions with remarkable speed and precision. By leveraging high-speed data analysis and trade execution, algo trading can execute thousands of trades per second, a feat unattainable by traditional trading methods.

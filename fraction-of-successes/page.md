@@ -1,7 +1,8 @@
 ---
-title: Understanding the Fraction of Successes in Machine Learning Models
+category: quant_concept
 description: Fraction of Successes measures how often a model predicts correctly and
   highlights its strengths and limitations across scenarios Discover more inside
+title: Understanding the Fraction of Successes in Machine Learning Models
 ---
 
 ![Image](images/1.jpeg)

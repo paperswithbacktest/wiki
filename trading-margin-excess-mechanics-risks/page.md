@@ -1,6 +1,8 @@
 ---
-title: "Trading Margin Excess: Definition, Mechanics, and Risks (Algo Trading)"
-description: "Explore trading margin excess, its mechanics, and associated risks in margin and algorithmic trading Get insights on managing financial exposures wisely"
+category: quant_concept
+description: Explore trading margin excess, its mechanics, and associated risks in
+  margin and algorithmic trading Get insights on managing financial exposures wisely
+title: 'Trading Margin Excess: Definition, Mechanics, and Risks (Algo Trading)'
 ---
 
 In this article, we explore the complex landscape of financial risks associated with trading on margin, excess margin accounts, and algorithmic trading. Trading on margin involves borrowing funds from a broker to buy securities, allowing investors to increase their market exposure beyond their initial capital. While this method can amplify potential gains, it also significantly increases the risk of substantial losses. It is crucial for traders to understand the mechanics of margin trading, including the concepts of leverage, required margin, and maintenance margin.

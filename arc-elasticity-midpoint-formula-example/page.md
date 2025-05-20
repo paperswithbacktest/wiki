@@ -1,6 +1,9 @@
 ---
-title: "Arc Elasticity: Midpoint Formula and Example (Algo Trading)"
-description: "Explore arc elasticity and the midpoint formula to understand demand response to price shifts, crucial for strategic pricing and algorithmic trading insights."
+category: quant_concept
+description: Explore arc elasticity and the midpoint formula to understand demand
+  response to price shifts, crucial for strategic pricing and algorithmic trading
+  insights.
+title: 'Arc Elasticity: Midpoint Formula and Example (Algo Trading)'
 ---
 
 In today's dynamic economic environment, understanding the relationship between price changes and demand is crucial for businesses and economists. The concept of elasticity in economics serves as a key tool for analyzing how the quantity demanded of a good responds to changes in its price. Among the different types of elasticity, arc elasticity stands out as particularly useful because it deals with changes over a range of prices, rather than at a single point.

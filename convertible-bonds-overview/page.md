@@ -1,6 +1,8 @@
 ---
-title: "Convertible Bonds Overview (Algo Trading)"
-description: "Explore the world of convertible bonds and algorithmic trading Discover how these hybrid securities balance debt and equity for adaptable investment strategies"
+category: quant_concept
+description: Explore the world of convertible bonds and algorithmic trading Discover
+  how these hybrid securities balance debt and equity for adaptable investment strategies
+title: Convertible Bonds Overview (Algo Trading)
 ---
 
 Convertible bonds are distinctive financial instruments that merge the characteristics of debt and equity, offering investors a hybrid security with multiple strategic advantages. These bonds, issued by corporations, grant investors the option to convert their bonds into a predetermined number of the issuer's common stock, allowing them to benefit from the fixed-income aspect of bonds while also participating in the potential capital gains of equities.

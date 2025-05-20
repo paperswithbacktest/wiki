@@ -1,6 +1,8 @@
 ---
-title: "AQR's Strategy Against Beta (Algo Trading)"
-description: "Explore AQR's 'Bet Against Beta' strategy leveraging quantitative finance to improve portfolio risk management by targeting stocks with varying beta values."
+category: trading_strategy
+description: Explore AQR's 'Bet Against Beta' strategy leveraging quantitative finance
+  to improve portfolio risk management by targeting stocks with varying beta values.
+title: AQR's Strategy Against Beta (Algo Trading)
 ---
 
 AQR Capital Management stands out as a leading hedge fund, well-regarded for deploying quantitative strategies in investment management. One of their widely recognized methodologies is the 'Bet Against Beta' strategy, which emphasizes exploiting market inefficiencies through quantitative analysis. This particular strategy focuses on optimizing returns by targeting stocks with varying beta values, thereby challenging traditional assumptions held by the Capital Asset Pricing Model (CAPM).

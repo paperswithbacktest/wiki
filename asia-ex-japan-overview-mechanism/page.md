@@ -1,6 +1,8 @@
 ---
-title: "Asia Ex-Japan: Overview and Mechanism (Algo Trading)"
-description: "Discover the rapidly growing Asia Ex-Japan region and how algorithmic trading is transforming investment strategies in these dynamic emerging markets."
+category: quant_concept
+description: Discover the rapidly growing Asia Ex-Japan region and how algorithmic
+  trading is transforming investment strategies in these dynamic emerging markets.
+title: 'Asia Ex-Japan: Overview and Mechanism (Algo Trading)'
 ---
 
 The Asia Ex-Japan (AxJ) region has emerged as a major focal point for investors targeting high-growth emerging markets. Comprising countries such as China, India, South Korea, and the ASEAN nations, the region excludes Japan, which is classified as a developed economy. This geographic and economic delineation allows the spotlight to shine on nations with burgeoning industries and growth trajectories that are distinct from those of Japan's matured market landscape.

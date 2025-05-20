@@ -1,6 +1,8 @@
 ---
-title: "Investment in Natural Resources (Algo Trading)"
-description: "Explore investment strategies in natural resources and algorithmic trading offering insights into maximizing returns and navigating modern financial markets."
+category: trading_strategy
+description: Explore investment strategies in natural resources and algorithmic trading
+  offering insights into maximizing returns and navigating modern financial markets.
+title: Investment in Natural Resources (Algo Trading)
 ---
 
 In the intricate web of global finance, investing in natural resources and algorithmic trading stand out as pivotal components that can shape investment strategies. As the demand for natural resources continues to surge in tandem with technological advancements in trading, investors have a plethora of opportunities to explore.

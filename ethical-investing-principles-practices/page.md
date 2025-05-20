@@ -1,6 +1,9 @@
 ---
-title: "Ethical Investing: Principles and Practices (Algo Trading)"
-description: "Explore how ethical investing and algorithmic trading intersect to shape sustainable finance with ESG principles guiding investment decisions for positive impact."
+category: trading_strategy
+description: Explore how ethical investing and algorithmic trading intersect to shape
+  sustainable finance with ESG principles guiding investment decisions for positive
+  impact.
+title: 'Ethical Investing: Principles and Practices (Algo Trading)'
 ---
 
 Sustainable investment and ethical investing are rapidly taking center stage in the financial sector, significantly reshaping how investors approach decision-making. Increasingly, individuals and institutions are scrutinizing the broader societal and environmental implications of their financial choices. This trend reflects a growing recognition of the importance of aligning investment activities with personal and collective values, and the broader impact on the planet and society.

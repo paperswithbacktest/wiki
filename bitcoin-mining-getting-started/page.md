@@ -1,6 +1,14 @@
 ---
-title: "Bitcoin Mining and Getting Started (Algo Trading)"
-description: "Discover the essentials of Bitcoin mining and algorithmic trading with this beginner's guide. Uncover the intricacies of Bitcoin's network security and transaction validation while exploring the landscape of cryptocurrency trading using automated strategies. Understand how to harness mining and algo trading to optimize profitability, and learn about the technological advances from CPUs to ASICs that have shaped Bitcoin's evolution. Perfect for new investors and tech enthusiasts, this article provides the foundational knowledge needed to navigate the dynamic world of digital currencies."
+category: quant_concept
+description: Discover the essentials of Bitcoin mining and algorithmic trading with
+  this beginner's guide. Uncover the intricacies of Bitcoin's network security and
+  transaction validation while exploring the landscape of cryptocurrency trading using
+  automated strategies. Understand how to harness mining and algo trading to optimize
+  profitability, and learn about the technological advances from CPUs to ASICs that
+  have shaped Bitcoin's evolution. Perfect for new investors and tech enthusiasts,
+  this article provides the foundational knowledge needed to navigate the dynamic
+  world of digital currencies.
+title: Bitcoin Mining and Getting Started (Algo Trading)
 ---
 
 In recent years, Bitcoin mining and cryptocurrency algorithmic trading have gained immense traction in the financial and technological sectors. As digital currencies continue to shape the global economy, understanding these complex systems has become increasingly critical for investors and technology enthusiasts alike. This article serves as a comprehensive guide designed for beginners eager to explore the multifaceted world of cryptocurrencies.

@@ -1,6 +1,9 @@
 ---
-title: "Triple Top: Definition, Functionality, and Illustrations (Algo Trading)"
-description: "Learn how the Triple Top chart pattern indicates potential trend reversals in trading, its formation, implications, and strategies to capitalize on market shifts."
+category: quant_concept
+description: Learn how the Triple Top chart pattern indicates potential trend reversals
+  in trading, its formation, implications, and strategies to capitalize on market
+  shifts.
+title: 'Triple Top: Definition, Functionality, and Illustrations (Algo Trading)'
 ---
 
 Chart patterns are fundamental tools in technical analysis and algorithmic trading, providing traders with visual representations that help predict potential market movements. Among these patterns, the Triple Top is particularly important due to its role in signaling potential reversals in an ongoing uptrend. A Triple Top pattern occurs when the price reaches a resistance level three times without breaking through, suggesting that the upward momentum may be exhausted and a downward trend could follow.

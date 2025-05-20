@@ -1,6 +1,9 @@
 ---
-title: "Energy Drink Industry (Algo Trading)"
-description: "Explore the dynamic energy drink industry where market growth aligns with consumer trends toward health-conscious alternatives and innovative marketing strategies."
+category: dataset
+description: Explore the dynamic energy drink industry where market growth aligns
+  with consumer trends toward health-conscious alternatives and innovative marketing
+  strategies.
+title: Energy Drink Industry (Algo Trading)
 ---
 
 The energy drink market has carved a notable niche within the broader beverage industry, propelled by an ever-evolving consumer landscape and innovative marketing tactics. According to a report by Grand View Research, the global energy drink market size was valued at USD 61.23 billion in 2021 and is expected to grow at a compound annual growth rate (CAGR) of 7.2% from 2022 to 2030. This growth underlines the market's significance as a dynamic segment contributing to the beverage industry's expansion [1].

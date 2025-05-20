@@ -1,6 +1,8 @@
 ---
-title: "Government Intervention in Market Economies (Algo Trading)"
-description: "Explore how government intervention impacts market economies through policies like monetary and fiscal measures, balancing market forces with oversight."
+category: quant_concept
+description: Explore how government intervention impacts market economies through
+  policies like monetary and fiscal measures, balancing market forces with oversight.
+title: Government Intervention in Market Economies (Algo Trading)
 ---
 
 Market economies, characterized by the free exchange of goods and services via competitive markets, stand at the core of economic structures worldwide. These systems emphasize minimal government intervention, allowing market forces to determine the allocation of resources. However, achieving a balanced and functional market economy often demands a nuanced blend of market freedom and strategic government intervention. This delicate equilibrium is essential for fostering economic resilience, ensuring stability, and encouraging innovation.

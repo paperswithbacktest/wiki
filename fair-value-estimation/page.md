@@ -1,6 +1,9 @@
 ---
-title: "Fair value estimation (Algo Trading)"
-description: "Explore the importance of fair value estimation in algorithmic trading to capitalize on market opportunities and mispriced assets, optimizing trading strategies for profitability."
+category: quant_concept
+description: Explore the importance of fair value estimation in algorithmic trading
+  to capitalize on market opportunities and mispriced assets, optimizing trading strategies
+  for profitability.
+title: Fair value estimation (Algo Trading)
 ---
 
 In the constantly evolving world of finance, determining the fair value of assets has become crucial for making informed decisions. The fair value of an asset represents an estimate of its true worth based on current market conditions, independent of the asset's current trading price. Mastering this concept can significantly influence investment outcomes.
@@ -120,4 +123,3 @@ Aronson, D. Evidence-Based Technical Analysis. Aronson's book critiques traditio
 Jansen, S. Machine Learning for Algorithmic Trading. Jansen's guide covers the practical application of machine learning in developing algorithmic trading strategies. It includes examples and code that demonstrate the integration of valuation methods into automated trading algorithms, offering traders tools to refine their systems with machine learning enhancements.
 
 Chan, E. P. Quantitative Trading: How to Build Your Own Algorithmic Trading Business. Chan provides a detailed roadmap for establishing a [quantitative trading](/wiki/quantitative-trading) business, focusing on the design and implementation of trading algorithms. It covers the essential elements of integrating valuation techniques into algorithmic models, emphasizing strategy formulation and risk management.
-

@@ -1,7 +1,8 @@
 ---
-title: Mastering Feature Set Selection in Machine Learning Models
+category: quant_concept
 description: Feature set selection and engineering boost model accuracy by focusing
   on key variables and reducing complexity for efficient training Discover more inside
+title: Mastering Feature Set Selection in Machine Learning Models
 ---
 
 ![Image](images/1.png)

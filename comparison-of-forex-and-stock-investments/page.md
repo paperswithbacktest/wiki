@@ -1,6 +1,9 @@
 ---
-title: "Comparison of Forex and Stock Investments (Algo Trading)"
-description: "Explore the differences between forex and stock investments, understand algorithmic trading, and learn how these strategies impact financial decision-making today."
+category: trading_strategy
+description: Explore the differences between forex and stock investments, understand
+  algorithmic trading, and learn how these strategies impact financial decision-making
+  today.
+title: Comparison of Forex and Stock Investments (Algo Trading)
 ---
 
 In today's fast-paced financial world, investors have a plethora of options ranging from stocks to forex trading, and increasingly complex algorithms to aid them in making informed decisions. As the global economy continues to expand, financial markets become more intricate, offering various avenues for growth and wealth accumulation. Understanding these dynamics is crucial for anyone looking to make a mark in the investment landscape.

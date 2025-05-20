@@ -1,7 +1,8 @@
 ---
-title: Understanding Bucketing in Machine Learning Data Preprocessing
+category: dataset
 description: Bucketing in machine learning groups continuous data into bins to reduce
   noise handle outliers and improve model accuracy Discover more inside
+title: Understanding Bucketing in Machine Learning Data Preprocessing
 ---
 
 ![Image](images/1.png)

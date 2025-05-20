@@ -1,7 +1,8 @@
 ---
-title: Keypoint Detection Techniques for Computer Vision Applications
+category: quant_concept
 description: Keypoint detection enables accurate object recognition tracking and image
   alignment in varied conditions with deep learning models Discover more inside
+title: Keypoint Detection Techniques for Computer Vision Applications
 ---
 
 ![Image](images/1.png)

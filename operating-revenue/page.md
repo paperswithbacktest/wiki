@@ -1,6 +1,12 @@
 ---
-title: "Operating Revenue (Algo Trading)"
-description: "Explore how companies leverage automated and algorithmic solutions in business finance to optimize operating revenue. Discover the role of algo trading in enhancing decision-making, streamlining operations, and maximizing profitability in financial markets through advanced algorithms and real-time data processing. Understanding these key elements is crucial for navigating modern financial ecosystems and achieving sustained business success."
+category: quant_concept
+description: Explore how companies leverage automated and algorithmic solutions in
+  business finance to optimize operating revenue. Discover the role of algo trading
+  in enhancing decision-making, streamlining operations, and maximizing profitability
+  in financial markets through advanced algorithms and real-time data processing.
+  Understanding these key elements is crucial for navigating modern financial ecosystems
+  and achieving sustained business success.
+title: Operating Revenue (Algo Trading)
 ---
 
 The evolving landscape of business finance has seen a significant shift towards automated and algorithmic solutions. This transformation is characterized by a growing dependence on technology to streamline operations, enhance decision-making, and optimize revenue streams. As companies increasingly leverage these innovations, operating revenue remains a crucial key performance indicator. It reflects the effectiveness of a company's core business functions by measuring the income generated from primary business activities, providing a clear picture of operational success and financial health.

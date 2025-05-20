@@ -1,6 +1,9 @@
 ---
-title: "Domestic Box Office Receipt Futures Contracts (Algo Trading)"
-description: "Explore how box office futures contracts and algorithmic trading are revolutionizing film finance, blending traditional models with modern financial technologies."
+category: trading_strategy
+description: Explore how box office futures contracts and algorithmic trading are
+  revolutionizing film finance, blending traditional models with modern financial
+  technologies.
+title: Domestic Box Office Receipt Futures Contracts (Algo Trading)
 ---
 
 In recent years, the landscape of film finance has been significantly transformed by the advent of innovative financial instruments, notably box office futures contracts. These contracts represent a modern approach to speculating on the financial success of movies. As a reflection of this evolving dynamic, this article seeks to examine the intersection where traditional film financing meets cutting-edge financial technologies, specifically focusing on the roles of box office futures and algorithmic trading.

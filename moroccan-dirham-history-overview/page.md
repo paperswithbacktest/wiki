@@ -1,6 +1,9 @@
 ---
-title: "Moroccan Dirham: History and Overview (Algo Trading)"
-description: "Explore the historical and economic significance of the Moroccan Dirham and its role in algo trading Learn how the MAD impacts tourism investment and forex markets"
+category: quant_concept
+description: Explore the historical and economic significance of the Moroccan Dirham
+  and its role in algo trading Learn how the MAD impacts tourism investment and forex
+  markets
+title: 'Moroccan Dirham: History and Overview (Algo Trading)'
 ---
 
 The Moroccan Dirham (MAD) is not only the official currency of Morocco, but also a crucial element of the country's economic identity and dynamics. Understanding its various facets is essential for those engaged in tourism, investment, and forex trading. This article provides a comprehensive exploration of the MAD, discussing its historical background, its current usage in daily financial activities, and the strategies deployed in trading it within the global forex markets. 

@@ -1,6 +1,9 @@
 ---
-title: "Economic Impact of Deflation (Algo Trading)"
-description: "Explore the profound economic impact of deflation and its implications for algorithmic trading Learn how deflation influences market dynamics and economic policies"
+category: quant_concept
+description: Explore the profound economic impact of deflation and its implications
+  for algorithmic trading Learn how deflation influences market dynamics and economic
+  policies
+title: Economic Impact of Deflation (Algo Trading)
 ---
 
 Deflation, defined as the general decrease in the price level of goods and services, represents a significant economic phenomenon. Opposite to inflation, deflation increases the real value of money over time, allowing consumers to purchase more with the same amount. The significance of deflation lies in its potential effects on economic growth, debt, and investment. When prices fall, consumer and business expectations adjust, often leading to decreased spending and a slowdown in economic growth. Historical occurrences of deflation, such as during the Great Depression, demonstrate its far-reaching impact on economic stability and policy decisions.

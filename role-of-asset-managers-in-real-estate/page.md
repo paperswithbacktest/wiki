@@ -1,6 +1,8 @@
 ---
-title: "Role of Asset Managers in Real Estate (Algo Trading)"
-description: "Explore how asset managers optimize real estate investments through strategic planning and algorithmic trading to maximize returns and navigate market complexities."
+category: quant_concept
+description: Explore how asset managers optimize real estate investments through strategic
+  planning and algorithmic trading to maximize returns and navigate market complexities.
+title: Role of Asset Managers in Real Estate (Algo Trading)
 ---
 
 The investment real estate market has long been a vital component of wealth accumulation strategies for individuals and institutions alike. Its stability, potential for capital appreciation, and capability to generate regular income have made real estate a preferred investment vehicle. This sector includes various types of properties—residential, commercial, industrial, and land—that cater to different investment goals and risk profiles. Each of these real estate types offers distinct advantages and challenges, underscoring the complexity and depth of the investment landscape.

@@ -1,6 +1,15 @@
 ---
-title: "Money and risk management (Algo Trading)"
-description: Improve your algorithmic trading performance with effective money and risk management strategies designed to optimize profitability and control potential losses. Learn about key techniques such as position sizing, leverage, and capital allocation. Understand essential risk management practices including stop-loss orders, volatility-based sizing, and diversification to safeguard against market volatility and unforeseen events. Explore the importance of quality data and robust trading platforms in enhancing trade execution efficiency. Discover how to develop and refine your trading algorithms for sustainable financial growth and long-term success in a dynamic market environment.
+category: trading_strategy
+description: Improve your algorithmic trading performance with effective money and
+  risk management strategies designed to optimize profitability and control potential
+  losses. Learn about key techniques such as position sizing, leverage, and capital
+  allocation. Understand essential risk management practices including stop-loss orders,
+  volatility-based sizing, and diversification to safeguard against market volatility
+  and unforeseen events. Explore the importance of quality data and robust trading
+  platforms in enhancing trade execution efficiency. Discover how to develop and refine
+  your trading algorithms for sustainable financial growth and long-term success in
+  a dynamic market environment.
+title: Money and risk management (Algo Trading)
 ---
 
 In today’s financial markets, algorithmic trading is significantly altering the landscape by automating trading strategies for greater speed and efficiency. This transformation is not just about executing trades at a faster pace but involves a fundamental shift in how money and risk are managed to balance profitability with risk control. Understanding the intricacies of these areas is crucial for optimizing algorithms to achieve not only greater profits but also effective management of potential losses.

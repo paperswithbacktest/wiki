@@ -1,6 +1,9 @@
 ---
-title: "Housing and Economic Recovery Act of 2008: Overview and History (Algo Trading)"
-description: "Explore the impacts of the Housing and Economic Recovery Act of 2008 and the rise of algorithmic trading as forces driving economic stabilization and market efficiency."
+category: quant_concept
+description: Explore the impacts of the Housing and Economic Recovery Act of 2008
+  and the rise of algorithmic trading as forces driving economic stabilization and
+  market efficiency.
+title: 'Housing and Economic Recovery Act of 2008: Overview and History (Algo Trading)'
 ---
 
 The global economy has encountered various challenges over the last few decades, with the subprime mortgage crisis of 2008 standing out as a major economic event. This crisis, triggered by high-risk mortgage lending practices in the United States, led to widespread financial turmoil, affecting global markets and economies. In response to these significant disruptions, the Housing and Economic Recovery Act (HERA) was enacted in 2008. HERA's primary aim was to revitalize the housing sector and, consequently, stabilize the broader economy by implementing measures to assist subprime borrowers and mortgage lenders.

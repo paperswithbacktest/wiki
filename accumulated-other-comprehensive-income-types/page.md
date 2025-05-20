@@ -1,6 +1,9 @@
 ---
-title: "Accumulated Other Comprehensive Income and Types (Algo Trading)"
-description: "Explore the significance of Accumulated Other Comprehensive Income in financial statements and its impact on algorithmic trading strategies for informed decisions."
+category: quant_concept
+description: Explore the significance of Accumulated Other Comprehensive Income in
+  financial statements and its impact on algorithmic trading strategies for informed
+  decisions.
+title: Accumulated Other Comprehensive Income and Types (Algo Trading)
 ---
 
 Financial statements are essential tools for businesses and investors, providing a detailed account of a company's financial performance and stability. These documents encompass key components such as the balance sheet, income statement, and cash flow statement, each of which plays a crucial role in depicting the financial health and operational efficiency of a business. Among the various elements highlighted in financial statements, comprehensive income stands out as a significant indicator of a company’s economic performance over a period. Unlike net income, comprehensive income includes all changes in equity from non-owner sources, offering a broader perspective on financial outcomes.

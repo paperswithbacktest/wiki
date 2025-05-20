@@ -1,6 +1,9 @@
 ---
-title: "Big Mac Index: Overview, Insights, and Examples (Algo Trading)"
-description: "Explore the Big Mac Index to understand currency valuation and purchasing power parity through the global pricing of McDonald's iconic burger. Discover insights and examples."
+category: quant_concept
+description: Explore the Big Mac Index to understand currency valuation and purchasing
+  power parity through the global pricing of McDonald's iconic burger. Discover insights
+  and examples.
+title: 'Big Mac Index: Overview, Insights, and Examples (Algo Trading)'
 ---
 
 The Big Mac Index, a concept first introduced by The Economist in 1986, has become an intriguing tool in economic and financial landscapes, offering insights into currency valuation and purchasing power parity (PPP) through the global pricing of McDonald's Big Mac burger. By utilizing a consistent and universally available product, the index helps simplify the comparison of exchange rates and purchasing power across countries. Serving as an informal measure, the Big Mac Index captures the essence of PPP by assessing whether currencies are trading at levels that reflect the cost of goods in various nations.

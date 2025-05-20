@@ -1,6 +1,8 @@
 ---
-title: "Lesotho Loti: Overview and Functionality (Algo Trading)"
-description: "Explore the Lesotho Loti currency in the context of its peg to the South African Rand and its impact on economic growth and algorithmic trading opportunities."
+category: dataset
+description: Explore the Lesotho Loti currency in the context of its peg to the South
+  African Rand and its impact on economic growth and algorithmic trading opportunities.
+title: 'Lesotho Loti: Overview and Functionality (Algo Trading)'
 ---
 
 Lesotho, officially known as the Kingdom of Lesotho, is a small, landlocked nation encircled by South Africa. It is a country known for its mountainous terrain and a unique cultural heritage deeply intertwined with the region's history. The economy of Lesotho is heavily dependent on agriculture, manufacturing, and worker remittances, with textiles and water being crucial export products. Despite these economic activities, Lesotho faces challenges, including high poverty and unemployment rates.
@@ -104,4 +106,3 @@ Looking forward, Lesotho’s economic trajectory and the future of the Loti are 
 [5]: Central Bank of Lesotho. ["Monetary Policy."](https://www.centralbank.org.ls/index.php/monetary-policy)
 
 [6]: Jansen, S. ["Machine Learning for Algorithmic Trading"](https://github.com/stefan-jansen/machine-learning-for-trading)
-

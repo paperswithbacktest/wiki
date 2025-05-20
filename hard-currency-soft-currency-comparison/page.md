@@ -1,6 +1,8 @@
 ---
-title: "Hard Currency and Soft Currency Comparison (Algo Trading)"
-description: "Explore the differences between hard and soft currencies in algorithmic trading. Understand their economic impact and how they influence global market strategies."
+category: quant_concept
+description: Explore the differences between hard and soft currencies in algorithmic
+  trading. Understand their economic impact and how they influence global market strategies.
+title: Hard Currency and Soft Currency Comparison (Algo Trading)
 ---
 
 In a rapidly globalizing world, grasping the intricacies of currency dynamics is vital for both individuals and businesses. Different currencies play essential roles in international trade, investment, and financial strategy. They are not just units of exchange but also indicators of a nation's economic and political health. Generally, currencies can be categorized into two primary types: hard and soft, each with unique characteristics and substantial implications for the global economy.

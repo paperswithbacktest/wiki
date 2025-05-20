@@ -1,6 +1,8 @@
 ---
-title: "Actuarial Gains and Losses (Algo Trading)"
-description: "Explore the interplay between actuarial gains and losses and algorithmic trading in this in-depth article that addresses modern finance dynamics and reporting."
+category: quant_concept
+description: Explore the interplay between actuarial gains and losses and algorithmic
+  trading in this in-depth article that addresses modern finance dynamics and reporting.
+title: Actuarial Gains and Losses (Algo Trading)
 ---
 
 This article provides a comprehensive overview of actuarial gains and losses, financial reporting, and their relevance to algorithmic trading. Actuarial gains and losses arise from differences between anticipated and actual outcomes, largely affecting entities managing pension plans and long-term fiscal commitments. As organizations grapple with these discrepancies, understanding actuarial concepts becomes crucial for businesses. Such insights facilitate accurate valuation and alignment with financial objectives and obligations.

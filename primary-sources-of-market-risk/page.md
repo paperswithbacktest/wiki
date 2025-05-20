@@ -1,6 +1,9 @@
 ---
-title: "Primary Sources of Market Risk (Algo Trading)"
-description: "Explore the complexities of market and financial risks in algo trading and learn strategies to mitigate economic uncertainties impacting today's financial landscape."
+category: quant_concept
+description: Explore the complexities of market and financial risks in algo trading
+  and learn strategies to mitigate economic uncertainties impacting today's financial
+  landscape.
+title: Primary Sources of Market Risk (Algo Trading)
 ---
 
 In finance, market risk, financial risk, and economic uncertainties present inevitable challenges that businesses and investors must navigate. With the rise of algorithmic trading, managing these risks efficiently has become more crucial. Algorithmic trading leverages technology to automate trading strategies, offering a systematic approach that can mitigate risk exposure and enhance decision-making.

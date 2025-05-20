@@ -1,6 +1,9 @@
 ---
-title: "Negative Butterfly: Definition and Mechanism (Algo Trading)"
-description: "Discover the negative butterfly bond trading strategy, its impact on managing interest rate risks, and the role of algorithmic trading in optimizing returns."
+category: quant_concept
+description: Discover the negative butterfly bond trading strategy, its impact on
+  managing interest rate risks, and the role of algorithmic trading in optimizing
+  returns.
+title: 'Negative Butterfly: Definition and Mechanism (Algo Trading)'
 ---
 
 In the complex world of finance, derivatives stand as pivotal instruments offering strategic opportunities for investors aiming to manage risk and enhance returns. Derivatives, such as options, futures, and swaps, are financial contracts whose value is derived from underlying entities like assets, interest rates, or market indices. They play a significant role in financial markets, enabling investors to hedge against potential risks or to speculate on future price movements, thus serving as fundamental tools in modern risk management strategies.

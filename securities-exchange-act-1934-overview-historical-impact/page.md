@@ -1,6 +1,8 @@
 ---
-title: "Securities Exchange Act of 1934: Overview and Historical Impact (Algo Trading)"
-description: "Explore how the Securities Exchange Act of 1934 shaped US financial markets by regulating trading, establishing the SEC, and impacting algorithmic trading."
+category: quant_concept
+description: Explore how the Securities Exchange Act of 1934 shaped US financial markets
+  by regulating trading, establishing the SEC, and impacting algorithmic trading.
+title: 'Securities Exchange Act of 1934: Overview and Historical Impact (Algo Trading)'
 ---
 
 The Securities Exchange Act of 1934 represents a pivotal legislative effort in the history of United States financial regulation. Enacted in response to the devastating stock market crash of 1929 and the ensuing Great Depression, it was crafted to bring stability and transparency to the financial markets. Its primary objective is to regulate secondary trading of securities, including stocks and bonds, thereby maintaining market integrity and investor confidence.

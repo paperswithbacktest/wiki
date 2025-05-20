@@ -1,6 +1,8 @@
 ---
-title: "B-Share: Definition, Mechanism, and Fee Structure (Algo Trading)"
-description: "Discover how B-Share mutual fund fee structures integrate with algorithmic trading to optimize investment outcomes and minimize costs effectively."
+category: quant_concept
+description: Discover how B-Share mutual fund fee structures integrate with algorithmic
+  trading to optimize investment outcomes and minimize costs effectively.
+title: 'B-Share: Definition, Mechanism, and Fee Structure (Algo Trading)'
 ---
 
 In today's rapidly evolving financial landscape, investment strategies are increasingly incorporating technology-driven approaches. Among such strategies is algorithmic trading, which leverages computer algorithms to make trading decisions. Algorithmic trading has revolutionized the way investments are managed by utilizing high-speed, high-frequency data processing capabilities to execute trades with precision and speed that are beyond human capability. This technological advancement is reshaping the financial markets, providing both opportunities and challenges for investors.

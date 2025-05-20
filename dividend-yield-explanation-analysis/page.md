@@ -1,6 +1,9 @@
 ---
-title: "Dividend Yield: Explanation and Analysis (Algo Trading)"
-description: "Explore the complexities of dividend yield and algorithmic trading in this comprehensive guide. Learn how to optimize your investment strategy for maximum returns."
+category: quant_concept
+description: Explore the complexities of dividend yield and algorithmic trading in
+  this comprehensive guide. Learn how to optimize your investment strategy for maximum
+  returns.
+title: 'Dividend Yield: Explanation and Analysis (Algo Trading)'
 ---
 
 The complexity of today's stock market requires investors to adopt sophisticated strategies that encompass various aspects of financial analysis and trading methods. This article examines three pivotal components that are becoming increasingly significant—investment strategies, dividend yield, and algorithmic trading. Investment strategies are the blueprint for achieving financial objectives, tailored to individual risk preferences and market conditions. They serve as the foundation for making informed decisions that can lead to sustained financial growth.

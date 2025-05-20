@@ -1,6 +1,9 @@
 ---
-title: "Overview of General Equilibrium Theory (Algo Trading)"
-description: "Explore how General Equilibrium Theory influences modern algorithmic trading by analyzing interconnected markets resource allocation and economic equilibrium models."
+category: quant_concept
+description: Explore how General Equilibrium Theory influences modern algorithmic
+  trading by analyzing interconnected markets resource allocation and economic equilibrium
+  models.
+title: Overview of General Equilibrium Theory (Algo Trading)
 ---
 
 In the modern economy, equilibrium analysis through general equilibrium economic theory offers comprehensive insights into how interconnected markets function. This analytical framework is crucial for understanding the complex interactions among various economic agents, such as households and firms, which operate across multiple markets. General Equilibrium Theory (GET) provides a structured approach to assess how resources are allocated in an economy, allowing economists to identify conditions under which markets reach equilibrium prices and quantities simultaneously.

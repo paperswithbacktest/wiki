@@ -1,6 +1,9 @@
 ---
-title: "Hyperledger Sawtooth: Overview and Functionality (Algo Trading)"
-description: "Transform your trading with Hyperledger Sawtooth, a versatile framework enhancing blockchain's security and efficiency in algorithmic markets. Discover its impact today."
+category: quant_concept
+description: Transform your trading with Hyperledger Sawtooth, a versatile framework
+  enhancing blockchain's security and efficiency in algorithmic markets. Discover
+  its impact today.
+title: 'Hyperledger Sawtooth: Overview and Functionality (Algo Trading)'
 ---
 
 The integration of blockchain technology into finance has fundamentally transformed the landscape of transaction execution, particularly in the domain of algorithmic trading. By utilizing blockchain, transactions can be conducted in a more secure, transparent, and efficient manner compared to traditional methods. One of the platforms enabling this transformation is Hyperledger Sawtooth, a modular and versatile framework designed to support distributed ledger applications.
@@ -104,4 +107,3 @@ In conclusion, the adaptability and strength of Hyperledger Sawtooth in algorith
 [6]: "Algorithmic Trading: Overview, History, and Types." [Investopedia](https://www.investopedia.com/top-cd-rates-today-dec-30-2024-last-chance-to-grab-5-50-for-6-months-8767573)
 
 [7]: "Proof of Elapsed Time (PoET): A Blockchain Consensus Protocol." [Intel](https://umatechnology.org/windows-11-supported-processors-cpu-list-for-intel-and-amd/)
-

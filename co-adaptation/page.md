@@ -1,7 +1,8 @@
 ---
-title: Understanding Co-Adaptation in Machine Learning Neural Networks
+category: quant_concept
 description: Co-Adaptation can limit model generalization in ML. Dropout breaks co-dependencies,
   builds feature diversity and boosts robustness. Discover more inside
+title: Understanding Co-Adaptation in Machine Learning Neural Networks
 ---
 
 ![Image](images/1.gif)

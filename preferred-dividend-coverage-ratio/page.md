@@ -1,6 +1,8 @@
 ---
-title: "Preferred Dividend Coverage Ratio (Algo Trading)"
-description: "Enhance your investment strategies with insights into the Preferred Dividend Coverage Ratio and algorithmic trading to optimize portfolio performance."
+category: quant_concept
+description: Enhance your investment strategies with insights into the Preferred Dividend
+  Coverage Ratio and algorithmic trading to optimize portfolio performance.
+title: Preferred Dividend Coverage Ratio (Algo Trading)
 ---
 
 In today's volatile financial markets, understanding critical financial metrics becomes imperative for investors seeking to navigate the complexities of modern investment landscapes. Among the myriad of financial metrics available, the Preferred Dividend Coverage Ratio stands out as a vital tool for assessing a company's capability to fulfill its dividend commitments to preferred shareholders. This ratio provides a measure of financial stability by examining the extent to which a company's net income can cover its preferred dividend obligations.

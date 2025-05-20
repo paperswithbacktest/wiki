@@ -1,6 +1,9 @@
 ---
-title: "Average Price-to-Earnings Ratio in Retail Sector (Algo Trading)"
-description: "Explore the impact of price-to-earnings ratios and algorithmic trading in the retail sector, offering investors insights into stock valuation and optimal strategies."
+category: quant_concept
+description: Explore the impact of price-to-earnings ratios and algorithmic trading
+  in the retail sector, offering investors insights into stock valuation and optimal
+  strategies.
+title: Average Price-to-Earnings Ratio in Retail Sector (Algo Trading)
 ---
 
 In this article, we examine the financial intricacies of the retail sector, specifically focusing on two pivotal aspects: price-to-earnings (P/E) ratios and algorithmic trading. The retail sector, a vital component of the global economy, frequently relies on P/E ratios to assess its financial health. These ratios are instrumental in evaluating the value of retail companies and their stocks, offering insights into market expectations and valuation relative to earnings.

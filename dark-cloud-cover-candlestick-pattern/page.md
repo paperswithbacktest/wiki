@@ -1,6 +1,11 @@
 ---
-title: "Dark Cloud Cover Candlestick Pattern Explained (Algo Trading)"
-description: Explore the Dark Cloud Cover candlestick pattern, a key bearish reversal signal in algorithmic trading. Learn how this pattern indicates a shift from an uptrend to a downtrend, boosting trading strategies by identifying market reversals. Understand its formation, implications, and significance in trading systems for informed decision-making.
+category: trading_strategy
+description: Explore the Dark Cloud Cover candlestick pattern, a key bearish reversal
+  signal in algorithmic trading. Learn how this pattern indicates a shift from an
+  uptrend to a downtrend, boosting trading strategies by identifying market reversals.
+  Understand its formation, implications, and significance in trading systems for
+  informed decision-making.
+title: Dark Cloud Cover Candlestick Pattern Explained (Algo Trading)
 ---
 
 Candlestick patterns serve as a pivotal tool for traders, offering a graphical representation of market sentiment and potential price movements. These charts encapsulate the open, high, low, and close prices of a given security for a specific timeframe, providing traders with critical insights into market trends and reversals. Among the myriad of patterns, the Dark Cloud Cover stands out as a significant bearish reversal signal, particularly relevant in algorithmic trading.

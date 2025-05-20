@@ -1,6 +1,9 @@
 ---
-title: "Go-Shop Period and Its Criticisms (Algo Trading)"
-description: "Explore the go-shop period and its role in mergers and acquisitions, alongside the impact of algorithmic trading on corporate transactions and market dynamics."
+category: quant_concept
+description: Explore the go-shop period and its role in mergers and acquisitions,
+  alongside the impact of algorithmic trading on corporate transactions and market
+  dynamics.
+title: Go-Shop Period and Its Criticisms (Algo Trading)
 ---
 
 Mergers and acquisitions (M&A) are pivotal strategies that corporations employ to spur growth and restructure their operations. These transactions not only facilitate market expansion but also enable diversification of products or services and the realization of financial synergy. At the core of M&A activities lies a complex web of strategic considerations, legal frameworks, and financial assessments, making the understanding of such transactions crucial for stakeholders involved.

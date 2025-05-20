@@ -1,6 +1,9 @@
 ---
-title: "Fannie Mae: Function and Operations (Algo Trading)"
-description: "Explore the pivotal role Fannie Mae plays in mortgage finance and the impact of algorithmic trading on mortgage-backed securities in the evolving housing market."
+category: quant_concept
+description: Explore the pivotal role Fannie Mae plays in mortgage finance and the
+  impact of algorithmic trading on mortgage-backed securities in the evolving housing
+  market.
+title: 'Fannie Mae: Function and Operations (Algo Trading)'
 ---
 
 The housing market is a multifaceted ecosystem where numerous factors converge to influence its dynamics. Among these, mortgage finance stands out as a crucial element, with institutions such as Fannie Mae playing a significant role. Established in 1938, Fannie Mae was created to bolster the housing sector by ensuring liquidity for lenders and enabling a stable flow of mortgage finance. By purchasing and guaranteeing mortgages in the secondary market, Fannie Mae reduces risks for banks, thus encouraging broader lending practices. This strategy not only facilitates homeownership but also supports low- and moderate-income borrowers, making mortgage finance more accessible and equitable.

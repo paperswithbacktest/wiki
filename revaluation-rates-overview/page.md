@@ -1,6 +1,8 @@
 ---
-title: "Revaluation Rates Overview (Algo Trading)"
-description: "Explore how currency revaluation impacts global finance and algorithmic trading. Learn strategies to navigate market changes and optimize investment decisions."
+category: quant_concept
+description: Explore how currency revaluation impacts global finance and algorithmic
+  trading. Learn strategies to navigate market changes and optimize investment decisions.
+title: Revaluation Rates Overview (Algo Trading)
 ---
 
 In the ever-evolving world of global finance, currency revaluation plays a pivotal role in shaping economic landscapes and informing investment decisions. Currency revaluation refers to the process by which a country's monetary authority formally adjusts the value of its currency relative to other currencies. This adjustment can significantly impact a country's economic health, influencing factors such as inflation, trade balance, and capital flows.

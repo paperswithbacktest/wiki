@@ -1,6 +1,8 @@
 ---
-title: "Marginal Analysis in Business and Economics (Algo Trading)"
-description: "Discover how marginal analysis aids decision-making in economics and algo trading by evaluating cost benefits, optimizing strategies, and enhancing efficiency."
+category: quant_concept
+description: Discover how marginal analysis aids decision-making in economics and
+  algo trading by evaluating cost benefits, optimizing strategies, and enhancing efficiency.
+title: Marginal Analysis in Business and Economics (Algo Trading)
 ---
 
 Economic frameworks are essential for analyzing the intricate relationships between market dynamics and business decision-making processes. They provide the foundation for understanding how businesses interact with markets and how they adapt to changes in economic conditions. Microeconomics is a fundamental branch of economics that focuses on the behaviors of individuals and firms within these market structures. It explores how these entities make decisions about resource allocation, production, and consumption, effectively dissecting the mechanisms of supply and demand that dictate pricing.

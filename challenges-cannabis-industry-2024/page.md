@@ -1,6 +1,8 @@
 ---
-title: "Challenges Facing the Cannabis Industry in 2024 (Algo Trading)"
-description: "Explore the challenges facing the cannabis industry in 2024 including algorithmic trading solutions and regulatory constraints, essential to sector growth."
+category: quant_concept
+description: Explore the challenges facing the cannabis industry in 2024 including
+  algorithmic trading solutions and regulatory constraints, essential to sector growth.
+title: Challenges Facing the Cannabis Industry in 2024 (Algo Trading)
 ---
 
 The cannabis industry is experiencing a transformative phase as of 2024, buoyed by the momentum of expanding legalization across various regions and a notable surge in investor interest. This sector's rapid growth trajectory is primarily driven by evolving legislative landscapes, reflecting a broader acceptance of cannabis use for both medicinal and recreational purposes. The burgeoning market offers considerable economic potential; nevertheless, it is accompanied by a complex set of challenges that necessitate strategic and innovative solutions.

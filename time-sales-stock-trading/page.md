@@ -1,6 +1,9 @@
 ---
-title: "Time and Sales in Stock Trading (Algo Trading)"
-description: "Explore the integration of time and sales data with algorithmic trading to enhance your stock market strategies Gain insights to improve trading decisions efficiently"
+category: quant_concept
+description: Explore the integration of time and sales data with algorithmic trading
+  to enhance your stock market strategies Gain insights to improve trading decisions
+  efficiently
+title: Time and Sales in Stock Trading (Algo Trading)
 ---
 
 The stock market operates as a highly intricate and ever-evolving ecosystem where traders continuously seek methods to achieve a competitive advantage. A vital technique in their arsenal is "reading the tape," which entails analyzing detailed price and volume data. Tape reading has been a core practice in stock trading for decades, offering insights into market sentiment and helping traders make informed decisions.

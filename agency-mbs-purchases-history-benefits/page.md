@@ -1,6 +1,8 @@
 ---
-title: "Agency MBS Purchases: History and Benefits (Algo Trading)"
-description: "Explore the advantages of algorithmic trading in agency mortgage-backed securities and discover how it enhances investor returns and diversifies portfolios."
+category: quant_concept
+description: Explore the advantages of algorithmic trading in agency mortgage-backed
+  securities and discover how it enhances investor returns and diversifies portfolios.
+title: 'Agency MBS Purchases: History and Benefits (Algo Trading)'
 ---
 
 Mortgage-backed securities (MBS) have had a significant impact on the financial landscape by allowing investors to earn returns derived from mortgage repayments. These financial instruments are pools of home loans that have been securitized, providing a stream of payments to investors based on the underlying mortgage interest and principal repayments. Among the different types of MBS, agency mortgage-backed securities stand out. These are issued by government-sponsored entities such as Fannie Mae, Freddie Mac, and Ginnie Mae, and are backed by the implicit or explicit guarantee of the U.S. government, which reduces credit risk for investors.

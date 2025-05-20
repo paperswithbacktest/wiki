@@ -1,6 +1,8 @@
 ---
-title: "Explicit Cost: Examples and Mechanism (Algo Trading)"
-description: "Explore the complexities of explicit costs in algorithmic trading. Learn to identify, manage, and optimize these tangible expenses for enhanced profitability."
+category: quant_concept
+description: Explore the complexities of explicit costs in algorithmic trading. Learn
+  to identify, manage, and optimize these tangible expenses for enhanced profitability.
+title: 'Explicit Cost: Examples and Mechanism (Algo Trading)'
 ---
 
 Cost accounting is a fundamental aspect of modern business operations that enables companies to effectively capture and analyze the costs involved in producing goods and services. This discipline is critical across various industries, from manufacturing, where costs can include raw materials and labor, to algorithmic trading, which involves specific costs associated with technology and data processing. Understanding and managing explicit costs, which are direct, tangible expenses such as wages, lease payments, and utilities, is crucial for optimizing operations and enhancing profitability.
@@ -152,4 +154,3 @@ Further, case studies such as those on Lean Accounting implementations at Toyota
 Additionally, personal development in understanding cost accounting methods is vital to enriching analytical skills and strategic business acumen. Engaging with professional courses and certifications, such as those offered by the Chartered Institute of Management Accountants (CIMA) or the Institute of Management Accountants (IMA), can provide deeper insights into cost structures and enhance one’s capability to make informed and strategic decisions. Further, online platforms like Coursera and LinkedIn Learning offer courses tailored to contemporary cost accounting challenges and methodologies, helping professionals stay updated with industry standards and innovations. 
 
 These resources collectively support the enhancement of one's understanding of cost accounting and how such knowledge can be applied strategically within a business to optimize explicit costs and improve overall financial performance.
-

@@ -1,6 +1,8 @@
 ---
-title: "Silver Thursday Impact and Mechanism (Algo Trading)"
-description: "Explore the impact and mechanisms of the 1980 Silver Thursday event and its lessons for algorithmic trading highlighting market risks and the need for regulation."
+category: quant_concept
+description: Explore the impact and mechanisms of the 1980 Silver Thursday event and
+  its lessons for algorithmic trading highlighting market risks and the need for regulation.
+title: Silver Thursday Impact and Mechanism (Algo Trading)
 ---
 
 The financial markets are arenas of both opportunity and risk, where understanding historical events plays a critical role in grasping their complexity. Silver Thursday in 1980 stands as a vivid example of the volatility and speculative risks inherent in commodities markets. On this day, the market experienced a dramatic crash in silver prices, which was largely attributed to attempts by the Hunt brothers to manipulate the market for financial gain.

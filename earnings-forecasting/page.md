@@ -1,6 +1,9 @@
 ---
-title: "Earnings Forecasting (Algo Trading)"
-description: "Earnings forecasting is crucial in algorithmic trading for predicting company profitability using data-driven models enhancing investment strategies and decision-making."
+category: trading_strategy
+description: Earnings forecasting is crucial in algorithmic trading for predicting
+  company profitability using data-driven models enhancing investment strategies and
+  decision-making.
+title: Earnings Forecasting (Algo Trading)
 ---
 
 Earnings forecasting is a pivotal element of financial analysis and investment strategies, particularly in algorithmic trading. This practice involves predicting a company's future profitability by employing an array of data-driven models and methodologies. Accurate earnings forecasts are crucial, as they significantly influence investment decisions and market behaviors, ultimately guiding traders and investors in optimal resource allocation.

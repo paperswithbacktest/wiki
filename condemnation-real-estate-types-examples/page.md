@@ -1,6 +1,9 @@
 ---
-title: "Condemnation in Real Estate: Types and Examples (Algo Trading)"
-description: "Explore how condemnation in real estate and algorithmic trading merge to impact property investments offering insights into legal processes and trading strategies."
+category: quant_concept
+description: Explore how condemnation in real estate and algorithmic trading merge
+  to impact property investments offering insights into legal processes and trading
+  strategies.
+title: 'Condemnation in Real Estate: Types and Examples (Algo Trading)'
 ---
 
 The intersection of real estate, condemnation, and algorithmic trading presents a unique vantage point into the evolving world of property and finance. These components, while distinct in their fundamental nature, intertwine to shape contemporary approaches to property investment and management.

@@ -1,6 +1,8 @@
 ---
-title: "Best Execution Rule: Overview and Requirements (Algo Trading)"
-description: "Discover the key aspects of best execution rule in algo trading and its crucial role in maintaining trading compliance and financial regulations."
+category: quant_concept
+description: Discover the key aspects of best execution rule in algo trading and its
+  crucial role in maintaining trading compliance and financial regulations.
+title: 'Best Execution Rule: Overview and Requirements (Algo Trading)'
 ---
 
 Algorithmic trading, often referred to as algo trading, involves the use of computer programs and algorithms to execute trades in financial markets at speeds unattainable by human traders. This method leverages historical and real-time data to make trading decisions, often with the aim of maximizing returns and minimizing risk. Its significance in financial markets lies in its ability to increase market efficiency, improve liquidity, and reduce transaction costs. By automating the trading process, algorithmic trading allows for a high frequency of trades, which can lead to more accurate pricing of securities and reduced bid-ask spreads.

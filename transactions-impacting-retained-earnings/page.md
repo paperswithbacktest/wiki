@@ -1,6 +1,9 @@
 ---
-title: "Transactions Impacting Retained Earnings (Algo Trading)"
-description: "Discover how financial transactions, retained earnings, and algorithmic trading converge to shape modern finance strategies and impact company growth and investor value."
+category: quant_concept
+description: Discover how financial transactions, retained earnings, and algorithmic
+  trading converge to shape modern finance strategies and impact company growth and
+  investor value.
+title: Transactions Impacting Retained Earnings (Algo Trading)
 ---
 
 In the rapidly evolving world of finance, understanding the interplay between financial transactions, retained earnings, and algorithmic trading is crucial. As financial markets become increasingly complex, these elements serve as the foundational pillars that drive modern financial systems and strategies. Financial transactions, which encompass everything from depositing money into a bank to executing multi-billion-dollar deals, are fundamental to the economy's functioning. They enable the transfer of assets and resources within an economy, impacting everything from individual savings to global economic policies.

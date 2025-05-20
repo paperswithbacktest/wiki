@@ -1,6 +1,9 @@
 ---
-title: "Introduction to Commodity Funds (Algo Trading)"
-description: "Explore the integration of commodity funds and algorithmic trading to enhance investment strategies with diversification and precision in volatile financial markets."
+category: trading_strategy
+description: Explore the integration of commodity funds and algorithmic trading to
+  enhance investment strategies with diversification and precision in volatile financial
+  markets.
+title: Introduction to Commodity Funds (Algo Trading)
 ---
 
 In financial markets, investors continually seek innovative paths to maximize returns while effectively managing risks. Commodity funds and algorithmic trading represent two pivotal components that are increasingly shaping modern investment strategies. 

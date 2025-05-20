@@ -1,6 +1,8 @@
 ---
-title: "Calculating the Price-to-Earnings Ratio (Algo Trading)"
-description: "Discover the significance of the Price-to-Earnings ratio in algorithmic trading and learn how it aids in strategic stock valuations and investment decisions."
+category: quant_concept
+description: Discover the significance of the Price-to-Earnings ratio in algorithmic
+  trading and learn how it aids in strategic stock valuations and investment decisions.
+title: Calculating the Price-to-Earnings Ratio (Algo Trading)
 ---
 
 The Price-to-Earnings (P/E) ratio is a foundational metric in financial analysis and investment, primarily used to evaluate the valuation of stocks. It is calculated by dividing the market price per share of a stock by its earnings per share (EPS). This ratio provides investors with a quick assessment of what the market is willing to pay for a company's earnings, offering insights into its valuation relative to its peers or historical performance. 
@@ -205,4 +207,3 @@ Lopez de Prado, M. (2018). *Advances in Financial Machine Learning*. Focused on 
 The CFA Institute offers comprehensive resources on financial analysis and valuation ratios. These materials are invaluable for professionals seeking authoritative guidance on employing the P/E ratio and other financial metrics in investment decisions.
 
 Investopedia provides detailed articles on P/E ratios and their role in stock evaluation. As a widely used educational platform, it offers accessible explanations and examples of how P/E ratios can be applied in various investment scenarios.
-

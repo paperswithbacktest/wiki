@@ -1,6 +1,8 @@
 ---
-title: "Flight to Liquidity (Algo Trading)"
-description: "Explore liquidity's crucial role in algo trading and investments Discover how these elements empower investors to navigate evolving financial markets efficiently"
+category: quant_concept
+description: Explore liquidity's crucial role in algo trading and investments Discover
+  how these elements empower investors to navigate evolving financial markets efficiently
+title: Flight to Liquidity (Algo Trading)
 ---
 
 In today's rapidly evolving financial landscape, understanding the interplay between liquidity, investments, and algorithmic trading is increasingly crucial. Liquidity, the ease with which assets can be converted into cash, plays a pivotal role in the functioning of financial markets. It supports efficient market operations by reducing transaction costs and enabling quick execution of trades. This feature is vital for both traditional and modern investors who aim to maximize returns and mitigate risks in an unpredictable market environment.

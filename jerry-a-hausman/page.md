@@ -1,6 +1,9 @@
 ---
-title: "Jerry A. Hausman (Algo Trading)"
-description: "Explore Jerry A Hausman's groundbreaking contributions to econometrics and algorithmic trading where economic theory meets computational efficiency for market insights."
+category: quant_concept
+description: Explore Jerry A Hausman's groundbreaking contributions to econometrics
+  and algorithmic trading where economic theory meets computational efficiency for
+  market insights.
+title: Jerry A. Hausman (Algo Trading)
 ---
 
 The intersection of econometrics and algorithmic trading marks a transformative period in financial markets, where the precision of economic theory meets the efficiency of computational algorithms. At the forefront of this evolution is Jerry Hausman, a distinguished economist whose pioneering work in econometrics has significantly influenced contemporary financial practices. Hausman is renowned for developing innovative statistical techniques that have become integral to econometric analysis, particularly in constructing robust trading algorithms.

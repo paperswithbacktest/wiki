@@ -1,6 +1,9 @@
 ---
-title: "Environmental Impact of NFTs (Algo Trading)"
-description: "Explore the environmental impact of NFTs driven by algorithmic trading aiming to enhance sustainability by reducing energy consumption and optimizing market efficiency."
+category: quant_concept
+description: Explore the environmental impact of NFTs driven by algorithmic trading
+  aiming to enhance sustainability by reducing energy consumption and optimizing market
+  efficiency.
+title: Environmental Impact of NFTs (Algo Trading)
 ---
 
 In recent years, the rapid advancement of blockchain technology and the escalating urgency of environmental sustainability have converged to form a significant area of discussion and innovation. At the forefront of this dialogue are Non-Fungible Tokens (NFTs), digital assets representing ownership of unique items, ranging from digital art to virtual real estate, on blockchain platforms. NFTs have garnered significant attention for their innovative approach to ownership and transaction transparency. However, their environmental implications, particularly the carbon footprint associated with their creation and exchange, have raised concerns among environmentalists and technology advocates. 

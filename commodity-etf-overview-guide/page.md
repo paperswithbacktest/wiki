@@ -1,6 +1,8 @@
 ---
-title: "Commodity ETF: Overview and Guide (Algo Trading)"
-description: "Discover the essentials of Commodity ETFs and algorithmic trading to maximize investment strategies with insight into market dynamics and trading efficiencies."
+category: quant_concept
+description: Discover the essentials of Commodity ETFs and algorithmic trading to
+  maximize investment strategies with insight into market dynamics and trading efficiencies.
+title: 'Commodity ETF: Overview and Guide (Algo Trading)'
 ---
 
 Commodity Exchange-Traded Funds (ETFs) have emerged as a pivotal component of investment portfolios, providing an accessible pathway for retail and institutional investors to gain exposure to various commodities without the need to directly trade futures or physical commodities. These ETFs are designed to track the performance of underlying commodity indexes or a basket of commodities, which can include precious metals like gold and silver, energy resources like oil and natural gas, and agricultural products like wheat and corn. The role of commodity ETFs in investment portfolios is multifaceted, offering opportunities for diversification, inflation hedging, and managing systemic risks because of their often low correlation with traditional equity and bond markets [1].

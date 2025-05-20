@@ -1,6 +1,9 @@
 ---
-title: "SEC Form N-2: Overview and Components (Algo Trading)"
-description: "Discover the importance of SEC Form N-2 in closed-end funds' regulatory compliance and its impact on algorithmic trading strategies in the US financial market."
+category: quant_concept
+description: Discover the importance of SEC Form N-2 in closed-end funds' regulatory
+  compliance and its impact on algorithmic trading strategies in the US financial
+  market.
+title: 'SEC Form N-2: Overview and Components (Algo Trading)'
 ---
 
 SEC Form N-2 is a vital regulatory filing for closed-end investment funds operating within the United States, playing a key role in their compliance with the Investment Company Act of 1940. This form acts as a registration statement that closed-end funds submit to the U.S. Securities and Exchange Commission (SEC), facilitating transparency and safeguarding the interests of investors. By providing detailed insights into the investment objectives, strategies, and financial health of these funds, SEC Form N-2 serves as an essential information source for potential investors. 

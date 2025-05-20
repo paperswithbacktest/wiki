@@ -1,6 +1,8 @@
 ---
-title: "Comparison of Yield and Total Return (Algo Trading)"
-description: "Explore the intersection of yield and total return in investment strategies with a focus on algorithmic trading Discover how technology shapes modern finance"
+category: quant_concept
+description: Explore the intersection of yield and total return in investment strategies
+  with a focus on algorithmic trading Discover how technology shapes modern finance
+title: Comparison of Yield and Total Return (Algo Trading)
 ---
 
 In the investment world, yield, total return, and overall investment strategy are crucial concepts for evaluating financial performance. Yield refers to the income generated from an investment, typically expressed as a percentage of the investment’s cost or current value. This encompasses dividend yield, commonly associated with equities, and bond yield, integral in fixed-income securities. Total return is a comprehensive measure that includes capital gains and income generated over a specific period, capturing the overall financial performance of an investment or portfolio. Understanding these concepts is vital because they form the basis for comparing and assessing investment opportunities.

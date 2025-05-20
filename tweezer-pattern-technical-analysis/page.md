@@ -1,6 +1,8 @@
 ---
-title: "Tweezer Pattern in Technical Analysis (Algo Trading)"
-description: "Discover the power of tweezer patterns in technical analysis Learn how these candlestick formations predict market reversals and aid algo trading strategies"
+category: trading_strategy
+description: Discover the power of tweezer patterns in technical analysis Learn how
+  these candlestick formations predict market reversals and aid algo trading strategies
+title: Tweezer Pattern in Technical Analysis (Algo Trading)
 ---
 
 In the world of technical analysis, candlestick patterns are fundamental tools that traders use to predict market movements. These patterns offer visual cues about the psychological dynamics between buyers and sellers and are integral to identifying potential market reversals and continuations. Among the various candlestick formations, the tweezer pattern holds a prominent position due to its predictive power and distinctive appearance.

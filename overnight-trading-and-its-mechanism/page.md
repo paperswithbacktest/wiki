@@ -1,6 +1,9 @@
 ---
-title: "Overnight Trading and Its Mechanism (Algo Trading)"
-description: "Explore the intricacies of stock market overnight trading Discover its benefits risks and the role of algorithmic trading within this after-hours financial landscape"
+category: trading_strategy
+description: Explore the intricacies of stock market overnight trading Discover its
+  benefits risks and the role of algorithmic trading within this after-hours financial
+  landscape
+title: Overnight Trading and Its Mechanism (Algo Trading)
 ---
 
 Overnight trading in the stock market refers to the buying and selling of securities outside the standard trading hours, typically after the market has closed for the day and before it opens the next day. This type of trading allows investors to respond to global events and market news that occur beyond the confines of regular market hours, providing opportunities to buy or sell securities based on information that may influence price movements. 

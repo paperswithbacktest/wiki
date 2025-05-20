@@ -1,7 +1,8 @@
 ---
-title: Key Concepts of Generator Models in Machine Learning
+category: quant_concept
 description: Generator models in machine learning use neural networks to turn random
   noise into realistic images text music and molecules Discover more inside
+title: Key Concepts of Generator Models in Machine Learning
 ---
 
 ![Image](images/1.jpeg)

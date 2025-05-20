@@ -1,6 +1,8 @@
 ---
-title: "Carriage Paid To (CPT) (Algo Trading)"
-description: "CPT Incoterms play a vital role in international trade by clarifying cost and risk responsibilities between sellers and buyers, aiding efficient transactions."
+category: quant_concept
+description: CPT Incoterms play a vital role in international trade by clarifying
+  cost and risk responsibilities between sellers and buyers, aiding efficient transactions.
+title: Carriage Paid To (CPT) (Algo Trading)
 ---
 
 In international trade, understanding standardized shipping terms is crucial for ensuring seamless and efficient transactions between parties across different countries. Among these terms, the CPT (Carriage Paid To) Incoterms hold significant importance. Carriage Paid To is one of the terms developed by the International Chamber of Commerce (ICC) to provide clarity in trade by defining the responsibilities and risks associated with the transportation of goods.

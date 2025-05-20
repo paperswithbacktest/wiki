@@ -1,6 +1,9 @@
 ---
-title: "Examples of Companies with High Capital Expenditures (Algo Trading)"
-description: "Discover how high capital expenditure (CapEx) leaders like Alphabet and Amazon leverage investments in technology and infrastructure to maintain industry dominance."
+category: quant_concept
+description: Discover how high capital expenditure (CapEx) leaders like Alphabet and
+  Amazon leverage investments in technology and infrastructure to maintain industry
+  dominance.
+title: Examples of Companies with High Capital Expenditures (Algo Trading)
 ---
 
 Capital expenditure (CapEx) is a fundamental concept in corporate finance, referring to the funds used by a company to acquire, upgrade, and maintain physical assets such as property, industrial buildings, or equipment. This type of expenditure is crucial for a company's growth and maintaining competitiveness, serving as a driving force for innovation and expansion across various industries.

@@ -1,6 +1,8 @@
 ---
-title: "European Central Bank Overview (Algo Trading)"
-description: "Explore the intersection of ECB monetary policy and algorithmic trading, examining how changes in interest rates affect trading strategies and market conditions."
+category: quant_concept
+description: Explore the intersection of ECB monetary policy and algorithmic trading,
+  examining how changes in interest rates affect trading strategies and market conditions.
+title: European Central Bank Overview (Algo Trading)
 ---
 
 The European Central Bank (ECB) plays a pivotal role in the euro area by managing monetary policy to maintain price stability and safeguard the euro. Established as a central bank for the 19 European Union member states that use the euro, the ECB's primary objective is to ensure stable prices, which is crucial for economic growth and stability. It achieves this goal through various monetary policy tools, including setting interest rates, conducting open market operations, and implementing asset purchase programs.

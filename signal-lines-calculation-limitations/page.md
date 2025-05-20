@@ -1,6 +1,9 @@
 ---
-title: "Signal Lines: Calculation and Limitations (Algo Trading)"
-description: "Explore the pivotal role of signal lines in algorithmic trading highlighting their impact on strategic decision-making and market trend analysis for enhanced trade execution."
+category: quant_concept
+description: Explore the pivotal role of signal lines in algorithmic trading highlighting
+  their impact on strategic decision-making and market trend analysis for enhanced
+  trade execution.
+title: 'Signal Lines: Calculation and Limitations (Algo Trading)'
 ---
 
 Algorithmic trading has revolutionized the financial trading industry by utilizing complex computational algorithms to execute trades at optimal times, thus maximizing efficiency and profitability. Central to this technological advancement are signal lines, which play a vital role in assisting traders to determine the most opportune moments to buy or sell assets. Signal lines are mathematical representations that help in the interpretation of market movements by smoothing out price data, hence allowing traders to focus on significant trends and reversals rather than short-term market noise.

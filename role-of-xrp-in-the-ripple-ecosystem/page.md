@@ -1,6 +1,9 @@
 ---
-title: "Role of XRP in the Ripple Ecosystem (Algo Trading)"
-description: "Discover how XRP facilitates cross-border transactions in the Ripple ecosystem and explore its integration in algorithmic trading for better speed and efficiency."
+category: quant_concept
+description: Discover how XRP facilitates cross-border transactions in the Ripple
+  ecosystem and explore its integration in algorithmic trading for better speed and
+  efficiency.
+title: Role of XRP in the Ripple Ecosystem (Algo Trading)
 ---
 
 XRP is the native cryptocurrency of the Ripple network, a digital payment protocol renowned for its role in facilitating real-time cross-border financial transactions. As one of the major players in the digital asset space, XRP provides a bridge between different fiat currencies, enabling instantaneous transfers and settlements. Its integration into numerous financial institutions worldwide showcases its significance and underscores its potential to revolutionize traditional banking systems.

@@ -1,6 +1,13 @@
 ---
-title: "Portfolio Optimization Methods (Algo Trading)"
-description: Explore the key methods of portfolio optimization in algorithmic trading, focusing on techniques like Mean-Variance Optimization, Risk Parity, and Minimum Variance. Discover how these strategies enhance investment returns while managing risk, leveraging advanced algorithmic tools and machine learning to adapt to dynamic market conditions. Understand the unique benefits of each methodology, from balancing risk and return to ensuring stability across market cycles, all aimed at achieving optimal asset allocation for improved portfolio performance.
+category: trading_strategy
+description: Explore the key methods of portfolio optimization in algorithmic trading,
+  focusing on techniques like Mean-Variance Optimization, Risk Parity, and Minimum
+  Variance. Discover how these strategies enhance investment returns while managing
+  risk, leveraging advanced algorithmic tools and machine learning to adapt to dynamic
+  market conditions. Understand the unique benefits of each methodology, from balancing
+  risk and return to ensuring stability across market cycles, all aimed at achieving
+  optimal asset allocation for improved portfolio performance.
+title: Portfolio Optimization Methods (Algo Trading)
 ---
 
 Portfolio optimization is a crucial aspect of algorithmic trading, aimed at enhancing returns while managing risk. At its core, portfolio optimization involves the strategic allocation of capital across various assets to maximize returns while minimizing risk. With the rapid advancement of technology, traders now have access to sophisticated algorithmic methods that empower them to optimize their investment portfolios more effectively.

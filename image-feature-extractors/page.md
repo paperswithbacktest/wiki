@@ -1,7 +1,8 @@
 ---
-title: Advanced Convolution Techniques for Image Feature Extraction
+category: quant_concept
 description: Image feature extraction employs advanced convolution methods to effectively
   optimize neural network performance and efficiency. Discover more inside.
+title: Advanced Convolution Techniques for Image Feature Extraction
 ---
 
 ![Image](images/1.png)

@@ -1,6 +1,9 @@
 ---
-title: "Cost Per Gross Addition (Algo Trading)"
-description: "Discover how Cost Per Gross Addition (CPGA) and algorithmic trading can enhance marketing strategies by optimizing customer acquisition costs and driving profitability."
+category: quant_concept
+description: Discover how Cost Per Gross Addition (CPGA) and algorithmic trading can
+  enhance marketing strategies by optimizing customer acquisition costs and driving
+  profitability.
+title: Cost Per Gross Addition (Algo Trading)
 ---
 
 The digital economy has significantly reshaped the marketing and trading sectors, introducing sophisticated algorithms and automated systems that have changed how businesses operate. In this fast-paced environment, understanding key performance metrics such as Cost Per Gross Addition (CPGA) is vital for marketers and financial analysts. CPGA provides insights into the efficiency of customer acquisition strategies and helps in evaluating the financial impact of marketing campaigns.

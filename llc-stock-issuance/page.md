@@ -1,6 +1,9 @@
 ---
-title: "LLC and Stock Issuance (Algo Trading)"
-description: "Explore LLCs and their unique ownership strategies alongside the rise of algorithmic trading Learn how these elements interconnect and impact modern business spaces"
+category: quant_concept
+description: Explore LLCs and their unique ownership strategies alongside the rise
+  of algorithmic trading Learn how these elements interconnect and impact modern business
+  spaces
+title: LLC and Stock Issuance (Algo Trading)
 ---
 
 In today's fast-evolving business landscape, understanding the nuances of different business structures is crucial. Among the myriad of organizational forms, the Limited Liability Company (LLC) stands out due to its distinctive blend of flexibility and legal protection. Unlike corporations, LLCs do not issue stock, setting them apart in terms of ownership and capital-raising strategies. While corporations are able to raise capital by issuing shares to the public or private investors, an LLC's ownership is defined through membership interests, offering a unique arrangement that influences its operational and financial dynamics.

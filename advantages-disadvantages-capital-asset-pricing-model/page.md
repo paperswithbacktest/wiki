@@ -1,6 +1,8 @@
 ---
-title: "Advantages and Disadvantages of the Capital Asset Pricing Model (Algo Trading)"
-description: "Explore the pros and cons of the Capital Asset Pricing Model in algorithmic trading Understand how CAPM impacts portfolio management and automation strategies"
+category: quant_concept
+description: Explore the pros and cons of the Capital Asset Pricing Model in algorithmic
+  trading Understand how CAPM impacts portfolio management and automation strategies
+title: Advantages and Disadvantages of the Capital Asset Pricing Model (Algo Trading)
 ---
 
 The Capital Asset Pricing Model (CAPM) is a cornerstone of modern financial theory, providing a systematic approach to assessing the relationship between the expected return of an investment and its risk. It is expressed through a simple yet powerful formula: 

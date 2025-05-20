@@ -1,6 +1,8 @@
 ---
-title: "Call Option Pricing and Mechanism (Algo Trading)"
-description: "Explore key concepts of option pricing in algo trading. Learn about derivatives, Black-Scholes model, and how algorithmic trading optimizes investment strategies."
+category: quant_concept
+description: Explore key concepts of option pricing in algo trading. Learn about derivatives,
+  Black-Scholes model, and how algorithmic trading optimizes investment strategies.
+title: Call Option Pricing and Mechanism (Algo Trading)
 ---
 
 Financial derivatives are instrumental components in modern finance, offering sophisticated tools for risk management and speculation. These financial instruments derive their value from underlying assets such as stocks, bonds, commodities, currencies, interest rates, and market indices. Among the various types of derivatives, options are particularly significant. An option is a contract granting the holder the right, but not the obligation, to buy or sell an underlying asset at a predetermined price within a specified timeframe.

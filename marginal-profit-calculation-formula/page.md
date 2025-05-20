@@ -1,6 +1,9 @@
 ---
-title: "Marginal Profit and Calculation Formula (Algo Trading)"
-description: "Explore the concept of marginal profit in trading with insights on its calculation and application in algorithmic trading for optimal decision-making and profitability."
+category: quant_concept
+description: Explore the concept of marginal profit in trading with insights on its
+  calculation and application in algorithmic trading for optimal decision-making and
+  profitability.
+title: Marginal Profit and Calculation Formula (Algo Trading)
 ---
 
 In economic analysis and trading, understanding marginal profit can offer significant insights for businesses and traders alike. Marginal profit, defined as the additional profit earned from producing or selling one more unit of a product or service, serves as a critical metric for evaluating profitability. This article seeks to explore the multifaceted concept of marginal profit, focusing on its calculation, importance, and application in economic formulas and algorithmic trading.

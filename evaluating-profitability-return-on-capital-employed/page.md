@@ -1,6 +1,8 @@
 ---
-title: "Evaluating Profitability Using Return on Capital Employed (Algo Trading)"
-description: "Explore the importance of Return on Capital Employed (ROCE) in financial analysis and algorithmic trading to enhance investment profitability and strategy."
+category: quant_concept
+description: Explore the importance of Return on Capital Employed (ROCE) in financial
+  analysis and algorithmic trading to enhance investment profitability and strategy.
+title: Evaluating Profitability Using Return on Capital Employed (Algo Trading)
 ---
 
 In financial analysis and trading, understanding key metrics such as Return on Capital Employed (ROCE) is vital. ROCE offers a deep insight into a company's efficiency in employing its capital to generate profits, making it an essential tool for investors and financial analysts. At its core, ROCE is a financial ratio that measures a company’s profitability in relation to its total capital employed. This metric is instrumental in determining how well a firm is generating returns from its capital, which is crucial for shareholders and investors looking for growth potential and sustainability.

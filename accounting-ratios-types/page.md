@@ -1,6 +1,8 @@
 ---
-title: "Accounting Ratios and Their Types (Algo Trading)"
-description: "Explore how accounting ratios like profitability and liquidity are vital in both traditional financial analysis and modern algorithmic trading strategies."
+category: quant_concept
+description: Explore how accounting ratios like profitability and liquidity are vital
+  in both traditional financial analysis and modern algorithmic trading strategies.
+title: Accounting Ratios and Their Types (Algo Trading)
 ---
 
 In the finance world, accounting ratios are indispensable tools for analyzing financial statements. They serve as metrics that provide a snapshot of a company's financial health by offering insights into profitability, liquidity, efficiency, and solvency. This article emphasizes the significance of accounting ratios, categorizing them, and illustrating their applications in both traditional financial analysis and modern algorithmic trading.

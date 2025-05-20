@@ -1,6 +1,13 @@
 ---
-title: "Concentration Ratio (Algo Trading)"
-description: "Explore the complex relationship between market concentration, competition, and algorithmic trading in today's financial markets. Discover how algorithmic trading enhances market efficiency but also introduces regulatory challenges due to its impact on competition and pricing. Delve into theories of market concentration using metrics like CR4 and CR8, and understand the implications for regulatory approaches to ensure fair trading practices in the face of potential algorithmic collusion and price manipulation."
+category: quant_concept
+description: Explore the complex relationship between market concentration, competition,
+  and algorithmic trading in today's financial markets. Discover how algorithmic trading
+  enhances market efficiency but also introduces regulatory challenges due to its
+  impact on competition and pricing. Delve into theories of market concentration using
+  metrics like CR4 and CR8, and understand the implications for regulatory approaches
+  to ensure fair trading practices in the face of potential algorithmic collusion
+  and price manipulation.
+title: Concentration Ratio (Algo Trading)
 ---
 
 In today's rapidly evolving financial landscape, understanding the interplay between market concentration, competition, and algorithmic trading is crucial. Algorithmic trading has revolutionized how markets operate, raising questions about competition dynamics. By employing automated systems for executing trades based on pre-defined criteria, algorithmic trading has enhanced trade efficiency and speed. However, it has also introduced complexities in how financial markets must be analyzed and regulated.

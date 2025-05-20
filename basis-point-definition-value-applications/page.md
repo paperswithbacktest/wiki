@@ -1,6 +1,13 @@
 ---
-title: "Basis Point: Definition, Value, and Applications (Algo Trading)"
-description: "Discover the intricacies of basis points, interest rates, and algorithmic trading in financial markets. Understand how basis points offer precision in expressing small changes in metrics, and explore the pivotal role of interest rates in shaping investment strategies. Learn about algorithmic trading's impact on trading efficiency and accuracy, enhancing market participation. Gain insights into these critical concepts and their applications for informed decision-making in economic strategies and investments."
+category: quant_concept
+description: Discover the intricacies of basis points, interest rates, and algorithmic
+  trading in financial markets. Understand how basis points offer precision in expressing
+  small changes in metrics, and explore the pivotal role of interest rates in shaping
+  investment strategies. Learn about algorithmic trading's impact on trading efficiency
+  and accuracy, enhancing market participation. Gain insights into these critical
+  concepts and their applications for informed decision-making in economic strategies
+  and investments.
+title: 'Basis Point: Definition, Value, and Applications (Algo Trading)'
 ---
 
 Understanding financial terminology is essential for effective investment management. An important term within this context is the basis point, often abbreviated as "bps." Basis points provide a standardized method to express minute changes in financial instruments, equating to 0.01% or 0.0001 in decimal form. They are indispensable in financial analyses, particularly in elucidating small variations in interest rates, bond yields, and fund costs, thus eliminating ambiguities associated with percentage terms.

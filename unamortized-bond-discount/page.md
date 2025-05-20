@@ -1,6 +1,8 @@
 ---
-title: "Unamortized Bond Discount (Algo Trading)"
-description: "Explore the unamortized bond discount and its role in algorithmic trading to optimize investment strategies in modern financial markets for enhanced returns."
+category: quant_concept
+description: Explore the unamortized bond discount and its role in algorithmic trading
+  to optimize investment strategies in modern financial markets for enhanced returns.
+title: Unamortized Bond Discount (Algo Trading)
 ---
 
 Bonds are crucial instruments in the financial market, serving as a key component of many investment portfolios. They are essentially debt securities issued by entities such as corporations, municipalities, or governments to raise capital. When bonds are sold at a price lower than their face value, they are issued at a discount. This difference between the bond’s par value and its sale price, known as an unamortized bond discount, plays a significant role in determining the bond’s financial attributes and investment potential over its term. Understanding the dynamics of this discount can provide investors with essential insights into bond valuation and accounting practices.

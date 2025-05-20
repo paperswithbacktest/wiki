@@ -1,6 +1,9 @@
 ---
-title: "Market Price and Determination (Algo Trading)"
-description: "Explore how market prices are determined and the role of algorithmic trading in finance Learn about pricing strategies and technologies shaping modern markets"
+category: quant_concept
+description: Explore how market prices are determined and the role of algorithmic
+  trading in finance Learn about pricing strategies and technologies shaping modern
+  markets
+title: Market Price and Determination (Algo Trading)
 ---
 
 In the fast-paced world of finance and commerce, successfully navigating market price determination and implementing effective pricing strategies are critical for achieving business success. These processes are influenced by a multitude of factors, including supply and demand dynamics, economic theories, technology, and market sentiment. Understanding these concepts is crucial not only for professionals within the finance sector, who are directly engaged in market activities, but also for anyone involved in business operations, as pricing directly impacts a firm's profitability.

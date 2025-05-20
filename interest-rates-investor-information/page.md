@@ -1,6 +1,8 @@
 ---
-title: "Interest Rates: Essential Information for Investors (Algo Trading)"
-description: "Explore how interest rates, financial data, and algorithmic trading intersect to shape investor strategies and market trends. Discover essential insights now."
+category: quant_concept
+description: Explore how interest rates, financial data, and algorithmic trading intersect
+  to shape investor strategies and market trends. Discover essential insights now.
+title: 'Interest Rates: Essential Information for Investors (Algo Trading)'
 ---
 
 In financial markets, a comprehensive understanding of the intersection of investors' financial information, interest rates, and algorithmic trading (algo trading) is essential for crafting effective trading strategies. These three components shape the market environment, influencing investor behavior and market trends in profound ways. Interest rates, as pivotal economic indicators, play a crucial role in influencing investment decisions and market sentiment. Central banks manipulate these rates to manage economic growth, directly impacting stock prices, bond valuations, and overall investment dynamics. 

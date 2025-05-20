@@ -1,6 +1,14 @@
 ---
-title: "Octave (Algo Trading)"
-description: Explore the advantages of using Octave for algorithmic trading. Octave is a powerful open-source programming language, offering robust numerical computation capabilities akin to MATLAB without the high costs. Perfect for traders who need to handle large datasets and execute complex mathematical operations, Octave supports efficient development of trading algorithms. This article details how Octave enhances trading strategies by enabling rapid prototyping, data analysis, and simulation, potentially boosting efficiency and profitability in today's fast-paced financial markets.
+category: quant_concept
+description: Explore the advantages of using Octave for algorithmic trading. Octave
+  is a powerful open-source programming language, offering robust numerical computation
+  capabilities akin to MATLAB without the high costs. Perfect for traders who need
+  to handle large datasets and execute complex mathematical operations, Octave supports
+  efficient development of trading algorithms. This article details how Octave enhances
+  trading strategies by enabling rapid prototyping, data analysis, and simulation,
+  potentially boosting efficiency and profitability in today's fast-paced financial
+  markets.
+title: Octave (Algo Trading)
 ---
 
 In the fast-paced world of financial markets, algorithmic trading emerges as a pivotal instrument that enables traders to harness technological advancements in their trading strategies. Algorithmic trading refers to the use of computer algorithms to automatically make trading decisions, submit orders, and manage portfolios, largely eliminating human emotion and error from the trading process. This approach has gained prominence over the years due to its ability to process complex calculations, analyze significant datasets, and execute trades at speeds and frequencies that are impossible for human traders.

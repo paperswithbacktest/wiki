@@ -1,6 +1,8 @@
 ---
-title: "Major Oil Producers in Latin America (Algo Trading)"
-description: "Explore major oil producers like Brazil and Mexico in Latin America, and discover the impact of algorithmic trading on the region's dynamic energy markets."
+category: trading_strategy
+description: Explore major oil producers like Brazil and Mexico in Latin America,
+  and discover the impact of algorithmic trading on the region's dynamic energy markets.
+title: Major Oil Producers in Latin America (Algo Trading)
 ---
 
 This article explores the intersection of oil production in Latin America, algorithmic trading, and the region’s energy markets. Latin America's oil production landscape is pivotal, primarily due to major oil-producing countries such as Brazil, Mexico, and Argentina. These nations play a significant role in the global energy supply chain, with Brazil and Mexico, in particular, being recognized for their substantial contributions through deep-water oil fields and state-owned enterprises like Petrobras and Pemex. 

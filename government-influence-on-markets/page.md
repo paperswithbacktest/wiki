@@ -1,6 +1,9 @@
 ---
-title: "Government Influence on Markets (Algo Trading)"
-description: "Explore how government regulation economic policy and market influences impact algorithmic trading in financial markets Learn how these factors shape global systems"
+category: quant_concept
+description: Explore how government regulation economic policy and market influences
+  impact algorithmic trading in financial markets Learn how these factors shape global
+  systems
+title: Government Influence on Markets (Algo Trading)
 ---
 
 In the rapidly evolving financial landscape, the interplay between market influences, economic policy, government regulation, and algorithmic trading holds tremendous significance. These elements collectively shape the dynamics of global financial systems, requiring attention from various stakeholders, including government policymakers, financial institutions, and private investors.

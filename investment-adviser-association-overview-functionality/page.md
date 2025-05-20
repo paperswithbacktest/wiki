@@ -1,6 +1,9 @@
 ---
-title: "Investment Adviser Association: Overview and Functionality (Algo Trading)"
-description: "Explore the role of the Investment Adviser Association in the evolving sphere of algorithmic trading as it shapes investment advice with technology and ethics."
+category: quant_concept
+description: Explore the role of the Investment Adviser Association in the evolving
+  sphere of algorithmic trading as it shapes investment advice with technology and
+  ethics.
+title: 'Investment Adviser Association: Overview and Functionality (Algo Trading)'
 ---
 
 The world of finance is experiencing a fundamental transformation, driven by cutting-edge technological advancements. Central to this transformation is automated trading, often referred to as algorithmic trading, a practice that utilizes sophisticated algorithms and data analytics to execute trades with speed and precision. This method is revolutionizing the manner in which investment strategies are developed and implemented.

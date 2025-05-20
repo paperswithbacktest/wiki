@@ -1,6 +1,8 @@
 ---
-title: "Financial Engineering and Its Applications (Algo Trading)"
-description: "Explore the intricacies of financial engineering and algorithmic trading. Learn how they optimize wealth, minimize risks, and shape modern financial markets."
+category: quant_concept
+description: Explore the intricacies of financial engineering and algorithmic trading.
+  Learn how they optimize wealth, minimize risks, and shape modern financial markets.
+title: Financial Engineering and Its Applications (Algo Trading)
 ---
 
 The intricate world of finance heavily relies on various instruments and advanced techniques for optimizing investment returns and mitigating risks. Central to this domain are financial risk management and engineering, which play crucial roles in protecting and growing wealth. These disciplines utilize quantitative methods and financial theories to forecast market trends, measure potential losses, and develop strategies to safeguard investments against volatility.

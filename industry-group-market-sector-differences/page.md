@@ -1,6 +1,9 @@
 ---
-title: "Industry Group and Market Sector Differences (Algo Trading)"
-description: "Explore how industry groups and market sectors shape algorithmic trading in global markets. Understand GICS's role in classifying sectors for strategic trading decisions."
+category: quant_concept
+description: Explore how industry groups and market sectors shape algorithmic trading
+  in global markets. Understand GICS's role in classifying sectors for strategic trading
+  decisions.
+title: Industry Group and Market Sector Differences (Algo Trading)
 ---
 
 The landscape of financial markets is continuously evolving, characterized by rapid technological advancements and shifting economic paradigms. Algorithmic trading, a significant byproduct of this evolution, has gained prominence, fundamentally transforming how trades are executed in global markets. At the heart of this transformation lies the crucial understanding of industry groups and market sectors, which serve as the backbone for analyzing and navigating the intricate market terrain.
@@ -195,4 +198,3 @@ Bergstra, J., Bardenet, R., Bengio, Y., & Kégl, B. (2011). "Algorithms for Hype
 3. Aronson, David. Evidence-Based Technical Analysis.
 4. Jansen, Stefan. Machine Learning for Algorithmic Trading.
 5. Chan, Ernest P. Quantitative Trading.
-

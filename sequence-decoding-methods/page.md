@@ -1,7 +1,8 @@
 ---
-title: Mastering Sequence Decoding in Machine Learning Applications
+category: quant_concept
 description: Sequence decoding improves accuracy and naturalness using beam search
   discriminative adversarial and vulnerability constrained methods Discover more inside
+title: Mastering Sequence Decoding in Machine Learning Applications
 ---
 
 ![Image](images/1.png)

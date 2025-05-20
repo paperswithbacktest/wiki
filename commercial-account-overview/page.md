@@ -1,6 +1,9 @@
 ---
-title: "Commercial Account Overview (Algo Trading)"
-description: "Discover how commercial accounts and algorithmic trading optimize business banking for efficiency and strategic growth Learn about tailored services and cash flow management"
+category: quant_concept
+description: Discover how commercial accounts and algorithmic trading optimize business
+  banking for efficiency and strategic growth Learn about tailored services and cash
+  flow management
+title: Commercial Account Overview (Algo Trading)
 ---
 
 In today's fast-paced financial environment, businesses must comprehend the complexities of commercial banking account management to thrive. Business banking accounts are essential tools for managing financial operations, supporting scalability, and ensuring profitability. These accounts provide tailored services that differ significantly from personal banking, addressing unique business needs such as cash flow optimization, cost reduction, and financial risk management.

@@ -1,6 +1,9 @@
 ---
-title: "Jane Street (Algo Trading)"
-description: "Explore Jane Street's innovative algorithmic trading strategies that leverage quantitative research and technology for success across global financial markets."
+category: quant_concept
+description: Explore Jane Street's innovative algorithmic trading strategies that
+  leverage quantitative research and technology for success across global financial
+  markets.
+title: Jane Street (Algo Trading)
 ---
 
 Jane Street is a prominent proprietary trading firm that has made a significant impact in the world of financial markets. Known for its sophisticated algorithmic trading strategies, Jane Street operates across a diverse range of asset classes, including equities, bonds, and commodities. At its core, the firm leverages advanced quantitative techniques and cutting-edge technology to make informed trading decisions and maintain a competitive edge.

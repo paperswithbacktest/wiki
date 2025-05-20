@@ -1,6 +1,8 @@
 ---
-title: "Feasibility of Socialism in the United States (Algo Trading)"
-description: "Explore the intersection of socialism and algo trading in the U.S. examining how redistributive policies could impact advanced financial technologies and strategies."
+category: quant_concept
+description: Explore the intersection of socialism and algo trading in the U.S. examining
+  how redistributive policies could impact advanced financial technologies and strategies.
+title: Feasibility of Socialism in the United States (Algo Trading)
 ---
 
 Political systems are structures that govern a country's social, economic, and political activities, shaping the policies that affect daily life. These systems define how power and resources are distributed and managed within a nation. They determine who makes decisions, how decisions are made, and how individuals and groups interact with each other and the state. Political systems range from democracies to authoritarian regimes, each with varying degrees of public involvement and state control. 

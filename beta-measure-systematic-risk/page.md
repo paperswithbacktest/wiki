@@ -1,6 +1,8 @@
 ---
-title: "Beta as a Measure of Systematic Risk (Algo Trading)"
-description: "Explore the role of beta in measuring systematic risk for strategic trading decisions Learn how algorithmic trading leverages beta to optimize investment strategies"
+category: quant_concept
+description: Explore the role of beta in measuring systematic risk for strategic trading
+  decisions Learn how algorithmic trading leverages beta to optimize investment strategies
+title: Beta as a Measure of Systematic Risk (Algo Trading)
 ---
 
 In the intricate world of financial markets, effective risk management and strategic trading decisions are paramount. Financial metrics, such as beta, play a crucial role in understanding and managing systematic risk. Beta represents a statistical measure of a stock's volatility in relation to the overall market, providing insight into how individual securities respond to market-wide movements. Understanding this metric allows traders and investors to assess potential risks and rewards, making it an integral part of informed financial planning. 

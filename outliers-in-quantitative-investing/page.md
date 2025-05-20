@@ -1,6 +1,14 @@
 ---
-title: "Outliers in quantitative investing (Algo Trading)"
-description: Discover the impact of outliers in quantitative investing and algorithmic trading where mathematical models and algorithms guide trading decisions. Outliers are data points that deviate significantly from norms and can be caused by market anomalies or significant events. Understanding and managing these outliers is crucial as they can mislead trading algorithms causing errors in predictions and decisions if not properly accounted for. Learn the importance of robust outlier detection strategies in maintaining the accuracy and effectiveness of trading systems to prevent overfitting and financial losses.
+category: quant_concept
+description: Discover the impact of outliers in quantitative investing and algorithmic
+  trading where mathematical models and algorithms guide trading decisions. Outliers
+  are data points that deviate significantly from norms and can be caused by market
+  anomalies or significant events. Understanding and managing these outliers is crucial
+  as they can mislead trading algorithms causing errors in predictions and decisions
+  if not properly accounted for. Learn the importance of robust outlier detection
+  strategies in maintaining the accuracy and effectiveness of trading systems to prevent
+  overfitting and financial losses.
+title: Outliers in quantitative investing (Algo Trading)
 ---
 
 Quantitative investing and algorithmic trading represent a systematic and rules-based approach to financial markets, where decisions are driven by mathematical models and computational algorithms. Quantitative investing relies on analyzing vast datasets to identify investment opportunities, frequently employing statistical methods and machine learning to predict future market movements. Algorithmic trading, a subset of quantitative investing, involves executing trades automatically based on these complex computer algorithms. These algorithms can react to market conditions with speed and precision surpassing human capabilities, enabling investors to capitalize on fleeting opportunities.

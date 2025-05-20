@@ -1,6 +1,8 @@
 ---
-title: "Advantages and Disadvantages of Indexes (Algo Trading)"
-description: "Explore the pros and cons of indexes and algo trading to understand their impact on financial strategies. Discover how these tools influence market decisions."
+category: trading_strategy
+description: Explore the pros and cons of indexes and algo trading to understand their
+  impact on financial strategies. Discover how these tools influence market decisions.
+title: Advantages and Disadvantages of Indexes (Algo Trading)
 ---
 
 In recent years, algorithmic trading, commonly referred to as algo trading, has significantly transformed the landscape of financial markets. This innovative trading method utilizes complex computer algorithms to transact large volumes at speeds and frequencies beyond human capability. Algo trading is characterized by its rapid execution, where trades are driven by pre-defined criteria that analyze vast amounts of market data in real time.

@@ -1,6 +1,8 @@
 ---
-title: "Hot Hand: Concept, Mechanism, and Evidence (Algo Trading)"
-description: "Explore the captivating 'Hot Hand' phenomenon in trading and sports examining cognitive biases and statistical analyses to understand streaks and investment impacts."
+category: quant_concept
+description: Explore the captivating 'Hot Hand' phenomenon in trading and sports examining
+  cognitive biases and statistical analyses to understand streaks and investment impacts.
+title: 'Hot Hand: Concept, Mechanism, and Evidence (Algo Trading)'
 ---
 
 The 'Hot Hand' phenomenon is an intriguing concept that permeates various domains, prominently sports and trading. It refers to the cognitive bias where a person experiencing a successful streak is perceived as having an increased likelihood of continuing that success. Originating from the belief that people can experience periods of extreme performance beyond statistical expectation, the 'Hot Hand' has captivated the interest of psychologists, statisticians, and investors alike.

@@ -1,6 +1,9 @@
 ---
-title: "Stagflation: Causes and Impacts (Algo Trading)"
-description: "Discover how stagflation challenges traditional economic theories and explore the role of algorithmic trading in navigating the complexities of high inflation and stagnation."
+category: quant_concept
+description: Discover how stagflation challenges traditional economic theories and
+  explore the role of algorithmic trading in navigating the complexities of high inflation
+  and stagnation.
+title: 'Stagflation: Causes and Impacts (Algo Trading)'
 ---
 
 In recent years, the global economy has faced numerous challenges characterized by inflation, economic stagnation, and the emergence of automated trading systems. Among these challenges is stagflation, a perplexing situation where stagnation and inflation coexist, rendering traditional economic policies less effective. Stagflation, unlike typical economic phases, defies conventional theories such as the Phillips Curve, which suggests an inverse relationship between inflation and unemployment. This simultaneous occurrence of high inflation and unemployment complicates policy responses, making it a unique economic conundrum.
@@ -209,4 +212,3 @@ In conclusion, the fusion of algorithmic trading with traditional economic strat
 4. **Studies and Reports:**
    - International Monetary Fund. (2021). *World Economic Outlook Reports*. These reports provide analyses of current economic conditions, including sections on inflation and global economic challenges.
    - Bank of International Settlements. (2020). "The Evolution of Algorithmic Trading in Global Markets." This report assesses the growing role of algorithmic trading across diverse financial marketplaces.
-

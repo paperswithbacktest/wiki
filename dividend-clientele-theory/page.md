@@ -1,6 +1,9 @@
 ---
-title: "Dividend Clientele Theory (Algo Trading)"
-description: "Explore the dynamic interplay of dividend clientele theory, finance theory, investment strategies, and algorithmic trading to enhance trading efficiency and returns."
+category: quant_concept
+description: Explore the dynamic interplay of dividend clientele theory, finance theory,
+  investment strategies, and algorithmic trading to enhance trading efficiency and
+  returns.
+title: Dividend Clientele Theory (Algo Trading)
 ---
 
 In today's dynamic financial landscape, investors and traders are continually exploring innovative strategies to maximize returns. This pursuit has led to the exploration of concepts such as investment strategy, finance theory, dividend clientele, and algorithmic trading. Each of these elements plays a crucial role in shaping how capital is allocated and how market participants engage with financial instruments.

@@ -1,6 +1,8 @@
 ---
-title: "Samoan Tala (Algo Trading)"
-description: "Explore the significance of the Samoan Tala as a symbol of national identity and economic sovereignty, and discover its role in modern algorithmic trading."
+category: dataset
+description: Explore the significance of the Samoan Tala as a symbol of national identity
+  and economic sovereignty, and discover its role in modern algorithmic trading.
+title: Samoan Tala (Algo Trading)
 ---
 
 The Samoan Tala (WST) serves as the official currency of the Independent State of Samoa, a nation known for its rich cultural heritage and a resilient economy largely based on agriculture, tourism, and remittances. Established in 1967 to replace the New Zealand pound, the Tala represents not just a monetary unit but a symbol of national identity and economic sovereignty. Its introduction marked a significant step in Samoa's post-independence journey, empowering the country to exercise greater control over its monetary policy and economic planning.

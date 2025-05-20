@@ -1,6 +1,8 @@
 ---
-title: "Modified Dietz Method in Investment (Algo Trading)"
-description: "Explore the Modified Dietz method in investment performance measurement for accurate return calculations amid frequent cash flows in algorithmic trading."
+category: quant_concept
+description: Explore the Modified Dietz method in investment performance measurement
+  for accurate return calculations amid frequent cash flows in algorithmic trading.
+title: Modified Dietz Method in Investment (Algo Trading)
 ---
 
 In investment performance measurement, the Modified Dietz method is recognized for its precision and reliability. This technique offers a solution to the challenges of accurately calculating returns for portfolios subject to frequent and irregular cash flows. As the financial markets become increasingly complex, the demand for meticulous methods of performance analysis grows, making the Modified Dietz method indispensable.

@@ -1,6 +1,11 @@
 ---
-title: "Slippage (Algo Trading)"
-description: Discover how slippage affects algorithmic trading strategies and financial outcomes. Learn about the factors contributing to slippage, such as market volatility and execution speed, and explore tactics to minimize its financial impact. Understand how algorithmic trading leverages real-time data and backtesting to manage slippage and optimize trade execution, enhancing overall trading effectiveness.
+category: quant_concept
+description: Discover how slippage affects algorithmic trading strategies and financial
+  outcomes. Learn about the factors contributing to slippage, such as market volatility
+  and execution speed, and explore tactics to minimize its financial impact. Understand
+  how algorithmic trading leverages real-time data and backtesting to manage slippage
+  and optimize trade execution, enhancing overall trading effectiveness.
+title: Slippage (Algo Trading)
 ---
 
 Slippage is an essential concept in algorithmic trading, yet it often confounds new traders who may not fully grasp its impact on financial outcomes. At its core, slippage refers to the discrepancy between the expected cost of a transaction and the actual amount paid once it is executed. This difference can occur due to various factors such as market volatility and order execution speed, leading to potentially higher costs than initially anticipated.
@@ -123,4 +128,3 @@ These resources offer theoretical foundations and practical approaches to effect
 [1]: ["Dynamic Hedging: Managing Vanilla and Exotic Options"](https://www.amazon.com/Dynamic-Hedging-Managing-Vanilla-Options/dp/0471152803) by Nassim Nicolas Taleb
 
 [2]: ["Forecasting Volatility in the Financial Markets"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=331800) by John L. Knight and Stephen Satchell
-

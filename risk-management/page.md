@@ -1,6 +1,14 @@
 ---
-title: "Risk management (Algo Trading)"
-description: Explore algorithmic trading's transformative impact on financial markets alongside inherent risks and critical risk management strategies. Algorithmic trading automates trade execution for speed and precision while increasing market liquidity and reducing costs. However, risks such as system failures and market volatility require robust management strategies to maintain market stability. This discussion covers risk management tactics including stress testing, diversification, and compliance to mitigate disruptive impacts, ensuring the safe integration of algorithmic methods in trading environments.
+category: quant_concept
+description: Explore algorithmic trading's transformative impact on financial markets
+  alongside inherent risks and critical risk management strategies. Algorithmic trading
+  automates trade execution for speed and precision while increasing market liquidity
+  and reducing costs. However, risks such as system failures and market volatility
+  require robust management strategies to maintain market stability. This discussion
+  covers risk management tactics including stress testing, diversification, and compliance
+  to mitigate disruptive impacts, ensuring the safe integration of algorithmic methods
+  in trading environments.
+title: Risk management (Algo Trading)
 ---
 
 Algorithmic trading has significantly reshaped the landscape of financial markets, leveraging advanced technology and high-speed data processing to automate the trading process. This approach utilizes computer algorithms to execute trades instantly based on predefined instructions, which can include timing, price, or quantity of orders, without human intervention. By automating processes, algorithmic trading aides in executing orders with greater precision, speed, and efficiency than traditional manual trading methods. It allows market participants to capitalize on market conditions quickly, contributing to increased market liquidity and reduced transaction costs.

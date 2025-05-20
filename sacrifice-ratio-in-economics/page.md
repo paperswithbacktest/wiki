@@ -1,6 +1,9 @@
 ---
-title: "Sacrifice Ratio in Economics (Algo Trading)"
-description: "Explore the intricate dynamics of the sacrifice ratio in economics and how it measures the cost of reducing inflation amidst algorithmic trading impacts on market behavior."
+category: quant_concept
+description: Explore the intricate dynamics of the sacrifice ratio in economics and
+  how it measures the cost of reducing inflation amidst algorithmic trading impacts
+  on market behavior.
+title: Sacrifice Ratio in Economics (Algo Trading)
 ---
 
 In today's fast-paced economic environment, understanding the interplay between economic policies and market dynamics is crucial. The sacrifice ratio is a key concept that serves this purpose by quantifying the economic cost of reducing inflation. It measures how much output is lost or unemployment rises for every percentage point decrease in inflation. This concept is vital for those involved in the formulation of economic policies, as it highlights the trade-offs between achieving price stability and maintaining economic growth.

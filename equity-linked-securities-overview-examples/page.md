@@ -1,6 +1,8 @@
 ---
-title: "Equity-Linked Securities: Overview and Examples (Algo Trading)"
-description: "Discover the potential of equity-linked securities in the evolving financial landscape by exploring their benefits, risks, and role in algorithmic trading strategies."
+category: trading_strategy
+description: Discover the potential of equity-linked securities in the evolving financial
+  landscape by exploring their benefits, risks, and role in algorithmic trading strategies.
+title: 'Equity-Linked Securities: Overview and Examples (Algo Trading)'
 ---
 
 In an evolving financial landscape, investors are presented with diverse opportunities to maximize returns. One such opportunity is through equity-linked securities (ELKS), innovative financial instruments that combine the characteristics of both equity and fixed-income assets. By providing exposure to equity markets while simultaneously offering a fixed-income component, ELKS present a unique investment strategy that aligns with a wide range of risk appetites and return expectations.

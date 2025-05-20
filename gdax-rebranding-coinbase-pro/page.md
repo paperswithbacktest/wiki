@@ -1,6 +1,8 @@
 ---
-title: "GDAX and Its Rebranding to Coinbase Pro (Algo Trading)"
-description: "Explore the transition from GDAX to Coinbase Pro and its impact on algorithmic trading. Learn about enhanced features that cater to professional traders."
+category: dataset
+description: Explore the transition from GDAX to Coinbase Pro and its impact on algorithmic
+  trading. Learn about enhanced features that cater to professional traders.
+title: GDAX and Its Rebranding to Coinbase Pro (Algo Trading)
 ---
 
 Global Digital Asset Exchange, commonly known as GDAX, was a prominent platform in the cryptocurrency ecosystem. It was designed to cater to professional traders by offering an exchange where users could trade Bitcoin and other popular cryptocurrencies. As part of Coinbase, one of the largest digital currency exchanges globally, GDAX played a critical role in broadening access to crypto assets by providing a reliable and secure trading experience. Its significance was underscored by its ability to support large volume transactions, a feature crucial for market liquidity and stability.

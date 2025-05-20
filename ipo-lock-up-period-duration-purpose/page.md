@@ -1,6 +1,9 @@
 ---
-title: "IPO Lock-Up Period Duration and Purpose (Algo Trading)"
-description: "Explore the importance of IPO lock-up periods and the influence of algorithmic trading in financial markets Understand how these factors impact market stability and pricing dynamics"
+category: quant_concept
+description: Explore the importance of IPO lock-up periods and the influence of algorithmic
+  trading in financial markets Understand how these factors impact market stability
+  and pricing dynamics
+title: IPO Lock-Up Period Duration and Purpose (Algo Trading)
 ---
 
 The world of finance is ever-evolving, and one significant milestone for any private company is going public through an initial public offering (IPO). An IPO is a transformative event that enables a company to raise capital by offering its shares to the public for the first time. This process not only provides the company with access to substantial funds but also enhances its visibility and credibility in the marketplace. Going public can elevate a company's profile, attracting more investors, increasing its customer base, and offering opportunities for expansion and growth.

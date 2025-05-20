@@ -1,6 +1,9 @@
 ---
-title: "Equal Weight Investment Strategies and Performance (Algo Trading)"
-description: "Explore the benefits of equal weight investment strategies where each asset holds equal importance in a portfolio, enhancing diversification and potential returns."
+category: trading_strategy
+description: Explore the benefits of equal weight investment strategies where each
+  asset holds equal importance in a portfolio, enhancing diversification and potential
+  returns.
+title: Equal Weight Investment Strategies and Performance (Algo Trading)
 ---
 
 Equal weight investing is a strategy in which each asset within a portfolio or index is assigned the same level of importance, irrespective of the company's size or market capitalization. This approach contrasts with the more common market-cap-weighted strategy, where larger companies have a greater influence on portfolio performance.

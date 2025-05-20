@@ -1,6 +1,9 @@
 ---
-title: "Index of Economic Freedom (Algo Trading)"
-description: "Explore the synergy of the Economic Freedom Index and algorithmic trading in global markets and learn their influence on economic analysis and investment strategies."
+category: quant_concept
+description: Explore the synergy of the Economic Freedom Index and algorithmic trading
+  in global markets and learn their influence on economic analysis and investment
+  strategies.
+title: Index of Economic Freedom (Algo Trading)
 ---
 
 Economic concepts are integral to understanding the health and liberty of markets worldwide. As global economies become more interconnected and complex, the need for robust economic analysis has never been more critical. In recent years, the development of new indices and trading technologies has significantly enhanced this analytical process.

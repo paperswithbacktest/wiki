@@ -1,6 +1,9 @@
 ---
-title: "Floaters and Fixed Income Bonds: Meaning, Considerations, and Types (Algo Trading)"
-description: "Explore the fundamentals of floaters and fixed income bonds including their types, benefits, risks, and the impact of algorithmic trading on bond markets."
+category: quant_concept
+description: Explore the fundamentals of floaters and fixed income bonds including
+  their types, benefits, risks, and the impact of algorithmic trading on bond markets.
+title: 'Floaters and Fixed Income Bonds: Meaning, Considerations, and Types (Algo
+  Trading)'
 ---
 
 Bonds and fixed income investments constitute a significant segment of the global financial markets, appealing to those seeking stability and predictable returns. These instruments serve as debt obligations where issuers, such as corporations or governments, promise to pay bondholders periodic interest (known as coupon payments) and return the principal at maturity. The array of bond types available, including floaters and fixed rate bonds, caters to varied investment needs and risk appetites. Floaters, also known as floating rate notes (FRNs), offer interest payments that adjust according to benchmark rates, providing a hedge against inflation and interest rate hikes. In contrast, fixed rate bonds deliver consistent returns, appealing to investors prioritizing predictability and stability.

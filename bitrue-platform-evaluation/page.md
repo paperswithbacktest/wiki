@@ -1,6 +1,9 @@
 ---
-title: "Bitrue Platform Evaluation (Algo Trading)"
-description: "Discover a comprehensive review of Bitrue's crypto exchange platform. Explore features including algo trading and competitive fees to enhance your trading strategies."
+category: trading_strategy
+description: Discover a comprehensive review of Bitrue's crypto exchange platform.
+  Explore features including algo trading and competitive fees to enhance your trading
+  strategies.
+title: Bitrue Platform Evaluation (Algo Trading)
 ---
 
 In this article, we will review the Bitrue cryptocurrency exchange, focusing on its platform features, including algo trading. Bitrue has established itself as a versatile exchange platform since its inception, catering to a broad spectrum of cryptocurrency traders. We will examine various aspects of Bitrue, highlighting both its strengths and areas that may require improvement when compared to other exchanges. Key features such as algorithmic trading, competitively structured fees, and robust security measures will be explored, providing a comprehensive understanding of the platform.

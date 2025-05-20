@@ -1,6 +1,8 @@
 ---
-title: "Book-to-Bill Ratio: Calculation and Example (Algo Trading)"
-description: "Explore how the book-to-bill ratio informs business and trading decisions It provides insights into order performance and enhances algorithmic trading strategies"
+category: quant_concept
+description: Explore how the book-to-bill ratio informs business and trading decisions
+  It provides insights into order performance and enhances algorithmic trading strategies
+title: 'Book-to-Bill Ratio: Calculation and Example (Algo Trading)'
 ---
 
 Understanding financial metrics is crucial for any business aiming to achieve sustainable growth. One metric that stands out in providing insights into a company's performance and potential is the book-to-bill ratio. This metric is vital in assessing a company's order performance and future prospects, offering a snapshot of the demand and supply balance over a given period.

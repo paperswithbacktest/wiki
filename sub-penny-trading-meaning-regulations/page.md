@@ -1,6 +1,15 @@
 ---
-title: "Sub-Penny Trading: Meaning and Regulations (Algo Trading)"
-description: "Discover the intricate world of financial markets with our insight into sub-penny trading and the regulations surrounding it. Delve into how trading in increments smaller than a penny has transformed market dynamics and liquidity while posing challenges concerning complexity and fairness. Explore algorithmic trading and its significant impact on market efficiency and volatility. This article offers a comprehensive overview of the interplay between trading regulations and modern market practices, essential for navigating today's financial landscape. Perfect for investors, regulators, and policymakers, this guide anticipates future developments shaped by rapid technological advancements."
+category: quant_concept
+description: Discover the intricate world of financial markets with our insight into
+  sub-penny trading and the regulations surrounding it. Delve into how trading in
+  increments smaller than a penny has transformed market dynamics and liquidity while
+  posing challenges concerning complexity and fairness. Explore algorithmic trading
+  and its significant impact on market efficiency and volatility. This article offers
+  a comprehensive overview of the interplay between trading regulations and modern
+  market practices, essential for navigating today's financial landscape. Perfect
+  for investors, regulators, and policymakers, this guide anticipates future developments
+  shaped by rapid technological advancements.
+title: 'Sub-Penny Trading: Meaning and Regulations (Algo Trading)'
 ---
 
 Financial markets are vital components of the global economy, facilitating the exchange of financial instruments and enabling capital allocation across various sectors. They encompass a range of venues, including stock exchanges, bond markets, and derivatives markets, where participants buy and sell securities. The significance of financial markets lies in their ability to channel funds from savers to borrowers, support economic growth, and provide liquidity and price discovery mechanisms. Participants in these markets include individual investors, financial institutions, corporations, and governments, each playing a crucial role in the economy's overall health and stability.

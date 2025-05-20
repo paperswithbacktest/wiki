@@ -1,7 +1,8 @@
 ---
-title: Applying Machine Learning for Effective Leadership Inference
+category: quant_concept
 description: Leadership inference uses machine learning to predict leadership traits
   from communication and performance data to guide talent growth Discover more inside
+title: Applying Machine Learning for Effective Leadership Inference
 ---
 
 ![Image](images/1.png)

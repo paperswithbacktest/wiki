@@ -1,6 +1,9 @@
 ---
-title: "Toxic Assets: Meaning and Mechanisms (Algo Trading)"
-description: "Explore the dynamics of toxic assets, asset valuation, financial crises, and algorithmic trading to understand their impacts on modern financial markets and investment strategies."
+category: quant_concept
+description: Explore the dynamics of toxic assets, asset valuation, financial crises,
+  and algorithmic trading to understand their impacts on modern financial markets
+  and investment strategies.
+title: 'Toxic Assets: Meaning and Mechanisms (Algo Trading)'
 ---
 
 The financial landscape is dynamic and multifaceted, exerting a substantial influence on the broader economy. Within this sphere, asset valuation, toxic assets, and financial crises form a complex web of interconnections that significantly impact financial markets. Algorithmic trading has become increasingly prevalent, reshaping traditional market dynamics through its reliance on automation and complex algorithms for executing trades at unprecedented speeds.

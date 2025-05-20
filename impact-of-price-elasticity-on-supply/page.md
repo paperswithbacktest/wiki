@@ -1,6 +1,8 @@
 ---
-title: "Impact of Price Elasticity on Supply (Algo Trading)"
-description: "Explore how price elasticity impacts algorithmic trading strategies by improving market predictions and optimizing trading decisions using economic theories."
+category: quant_concept
+description: Explore how price elasticity impacts algorithmic trading strategies by
+  improving market predictions and optimizing trading decisions using economic theories.
+title: Impact of Price Elasticity on Supply (Algo Trading)
 ---
 
 Price elasticity of supply and demand is a fundamental concept in economics, representing the responsiveness of the quantity supplied or demanded to changes in price. This concept holds particular significance in modern algorithmic trading, where it is used to predict market dynamics and optimize trading strategies. Algorithmic trading, or algo trading, relies on automated systems that execute trades based on pre-defined criteria, and integrating economic theories such as price elasticity into these systems allows for more refined market analysis and decision-making.

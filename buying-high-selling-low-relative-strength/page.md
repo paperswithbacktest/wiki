@@ -1,6 +1,9 @@
 ---
-title: "Buying High and Selling Low Using Relative Strength (Algo Trading)"
-description: "Explore the integration of Relative Strength strategy in stock market algorithmic trading to maximize returns by identifying stocks outperforming market indices."
+category: trading_strategy
+description: Explore the integration of Relative Strength strategy in stock market
+  algorithmic trading to maximize returns by identifying stocks outperforming market
+  indices.
+title: Buying High and Selling Low Using Relative Strength (Algo Trading)
 ---
 
 The Relative Strength (RS) strategy is an integral tool in investment analysis, widely accepted by astute investors aiming to enhance their stock market returns. This article aims to explore the ways in which RS can be seamlessly integrated into stock market algorithmic trading, presenting numerous opportunities for maximizing returns. Understanding the RS strategy is not merely beneficial but essential for both individual investors and large-scale fund managers by providing valuable insights into stock performance relative to the broader market.

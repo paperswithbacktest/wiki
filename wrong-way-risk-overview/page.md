@@ -1,6 +1,8 @@
 ---
-title: "Wrong Way Risk Overview (Algo Trading)"
-description: "Explore the complexities of wrong way risk in algorithmic trading and its impact on financial vulnerability Understand how to mitigate these risks effectively"
+category: quant_concept
+description: Explore the complexities of wrong way risk in algorithmic trading and
+  its impact on financial vulnerability Understand how to mitigate these risks effectively
+title: Wrong Way Risk Overview (Algo Trading)
 ---
 
 In the intricate landscape of finance, understanding the complexities of financial risks is essential for both financial institutions and investors. Financial risks can manifest in various forms, including wrong way risk, counterparty risk, and a broader spectrum of financial hazards. These risks are particularly pronounced in the domain of algorithmic trading, where rapid technological advancements have transformed the speed and complexity of transactions.

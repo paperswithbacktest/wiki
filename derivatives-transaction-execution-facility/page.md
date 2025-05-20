@@ -1,6 +1,9 @@
 ---
-title: "Derivatives Transaction Execution Facility (Algo Trading)"
-description: "Enhance your understanding of derivatives and algorithmic trading Discover how these financial instruments drive modern markets optimize trade execution and manage risks."
+category: quant_concept
+description: Enhance your understanding of derivatives and algorithmic trading Discover
+  how these financial instruments drive modern markets optimize trade execution and
+  manage risks.
+title: Derivatives Transaction Execution Facility (Algo Trading)
 ---
 
 Finance transaction execution is a critical component of financial markets, involving the completion and settling of financial transactions. Its importance lies in ensuring the smooth operation of markets, maintaining investor confidence, and facilitating the transfer of assets and funds between parties. Effective execution can lead to better pricing outcomes, reduced transaction costs, and minimized counterparty risk. 

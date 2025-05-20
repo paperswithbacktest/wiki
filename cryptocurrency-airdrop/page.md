@@ -1,6 +1,8 @@
 ---
-title: "Cryptocurrency Airdrop (Algo Trading)"
-description: "Explore the dynamic world of cryptocurrency with insights on airdrops, blockchain, and algo trading Learn to navigate and succeed in this evolving ecosystem"
+category: trading_strategy
+description: Explore the dynamic world of cryptocurrency with insights on airdrops,
+  blockchain, and algo trading Learn to navigate and succeed in this evolving ecosystem
+title: Cryptocurrency Airdrop (Algo Trading)
 ---
 
 The cryptocurrency market represents a vibrant and swiftly transforming sector, constantly introducing novel concepts and opportunities that entice both traders and investors. Among the most significant components within this digital finance landscape are airdrops, blockchain technology, and algorithmic trading. Each of these elements plays a pivotal role in defining the current and future dynamics of cryptocurrency investments.

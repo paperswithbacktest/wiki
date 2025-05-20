@@ -1,7 +1,8 @@
 ---
-title: Implementing Fairness Constraints in Machine Learning Models
+category: quant_concept
 description: Fairness constraints guide models to reduce bias and ensure equitable
   outcomes across groups in hiring and lending decisions Discover more inside
+title: Implementing Fairness Constraints in Machine Learning Models
 ---
 
 ![Image](images/1.jpeg)

@@ -1,6 +1,9 @@
 ---
-title: "Productivity and Measurement (Algo Trading)"
-description: "Discover how algorithmic trading revolutionizes finance with precision measurement and efficiency enhancing productivity and market stability in modern trading."
+category: quant_concept
+description: Discover how algorithmic trading revolutionizes finance with precision
+  measurement and efficiency enhancing productivity and market stability in modern
+  trading.
+title: Productivity and Measurement (Algo Trading)
 ---
 
 In the fast-paced world of finance, algorithmic trading has become a transformative force, reshaping markets by introducing unprecedented levels of measurement, efficiency, and productivity. Algorithmic trading involves the use of computer programs to execute trades at speeds and frequencies that human traders could never match. These algorithms are designed to follow specific rules and criteria, ranging from simple time-based orders to complex mathematical models that predict and react to market conditions.
@@ -144,4 +147,3 @@ In conclusion, the synergy of efficiency and productivity, fueled by incessant t
 12. Brogaard, J., Hendershott, T., & Riordan, R. (2014). *High-Frequency Trading and Price Discovery*. Review of Financial Studies, 27(8), 2267-2306. An exploration of the role of high-frequency trading in price discovery, contributing to the understanding of trading efficiency.
 
 These resources offer a robust foundation for understanding the metrics and technologies driving efficiency in algorithmic trading.
-

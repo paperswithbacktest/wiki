@@ -1,6 +1,8 @@
 ---
-title: "High-Yield Bond Investing Fundamentals (Algo Trading)"
-description: "Explore the fundamentals of high-yield bond investing with insights into algorithmic trading strategies that can enhance portfolio returns and manage risks."
+category: trading_strategy
+description: Explore the fundamentals of high-yield bond investing with insights into
+  algorithmic trading strategies that can enhance portfolio returns and manage risks.
+title: High-Yield Bond Investing Fundamentals (Algo Trading)
 ---
 
 High yield bonds, commonly referred to as junk bonds, present investors with the potential for increased returns compared to traditional investment-grade bonds. These bonds are typically issued by companies that possess lower credit ratings, which often results in a perception of higher risk associated with them. Despite their risky nature, the allure of higher yields draws investors who are willing to accept the potential risks in exchange for the opportunity of greater financial gain.

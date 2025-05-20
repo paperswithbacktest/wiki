@@ -1,6 +1,8 @@
 ---
-title: "Basis Quote: Overview and Functionality with Example (Algo Trading)"
-description: "Explore algorithmic trading's role in financial markets focusing on basis quotes for futures pricing strategies. Enhance trading proficiency with key insights."
+category: quant_concept
+description: Explore algorithmic trading's role in financial markets focusing on basis
+  quotes for futures pricing strategies. Enhance trading proficiency with key insights.
+title: 'Basis Quote: Overview and Functionality with Example (Algo Trading)'
 ---
 
 This article explores the complex world of financial markets with a focus on essential terminology and practical examples, particularly algorithmic trading. Financial markets are dynamic, constantly influencing global economies and individual financial well-being. By comprehending key concepts, traders and investors are better equipped to navigate this ever-changing landscape. Among these concepts, basis quotes serve as a fundamental element in futures trading, providing a comparative framework for pricing futures contracts relative to their underlying assets. This helps traders assess cost-effectiveness and strategize effectively.

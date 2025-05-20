@@ -1,6 +1,8 @@
 ---
-title: "Long-Term Outlook for Metals and Mining Sector (Algo Trading)"
-description: "Explore the long-term growth of the metals and mining sector with a focus on algorithmic trading's impact on market efficiency, liquidity, and future trends."
+category: quant_concept
+description: Explore the long-term growth of the metals and mining sector with a focus
+  on algorithmic trading's impact on market efficiency, liquidity, and future trends.
+title: Long-Term Outlook for Metals and Mining Sector (Algo Trading)
 ---
 
 The metals and mining industry is a cornerstone of the global economy, serving as a pivotal supplier of raw materials essential for numerous sectors, including construction, automotive, electronics, and energy. The extraction and processing of metals such as iron, copper, gold, and aluminum are foundational to infrastructure development and technological advancement.

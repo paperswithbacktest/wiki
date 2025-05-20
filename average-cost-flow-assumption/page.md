@@ -1,6 +1,8 @@
 ---
-title: "Average Cost Flow Assumption (Algo Trading)"
-description: "Explore the benefits of average cost flow assumption in inventory valuation for better financial stability in algorithmic trading and strategic decision-making."
+category: quant_concept
+description: Explore the benefits of average cost flow assumption in inventory valuation
+  for better financial stability in algorithmic trading and strategic decision-making.
+title: Average Cost Flow Assumption (Algo Trading)
 ---
 
 Inventory management is a critical component in accounting that significantly impacts a company's financial decision-making. Effective inventory management determines the accuracy of financial reporting, affects cash flow, and influences strategic business decisions. The methods used to value inventory, such as average cost flow assumptions, can affect the financial health and performance indicators of a business.

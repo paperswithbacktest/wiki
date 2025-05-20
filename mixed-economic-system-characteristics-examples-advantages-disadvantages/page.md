@@ -1,6 +1,9 @@
 ---
-title: "Mixed Economic System: Characteristics, Examples, Advantages, and Disadvantages (Algo Trading)"
-description: "Explore the characteristics and benefits of mixed economic systems and algorithmic trading discover their impact on market efficiency and economic development."
+category: quant_concept
+description: Explore the characteristics and benefits of mixed economic systems and
+  algorithmic trading discover their impact on market efficiency and economic development.
+title: 'Mixed Economic System: Characteristics, Examples, Advantages, and Disadvantages
+  (Algo Trading)'
 ---
 
 Understanding the intricacies of different economic systems and trading methodologies is crucial for individuals engaged in economics and finance. Among these, the mixed economic system and algorithmic trading stand out as particularly noteworthy subjects. The mixed economic system integrates features from capitalism and socialism, facilitating a unique blend of market freedom and government oversight that aims to optimize both efficiency and equity within an economy. On the other hand, algorithmic trading, a technologically-driven approach to executing trades using computer programs based on defined criteria, has revolutionized the financial markets by enhancing the speed and precision of trading operations.

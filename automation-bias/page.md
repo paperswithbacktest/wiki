@@ -1,7 +1,8 @@
 ---
-title: Understanding Automation Bias in Machine Learning Systems
+category: quant_concept
 description: Automation bias in machine learning across industries can lead to critical
   errors Use human oversight with checks to validate results Discover more inside
+title: Understanding Automation Bias in Machine Learning Systems
 ---
 
 ![Image](images/1.png)

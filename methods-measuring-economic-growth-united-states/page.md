@@ -1,6 +1,9 @@
 ---
-title: "Methods of Measuring Economic Growth in the United States (Algo Trading)"
-description: "Explore the methods of measuring economic growth in the United States focusing on GDP. Understand how algorithmic trading and modern financial practices impact economic assessment."
+category: quant_concept
+description: Explore the methods of measuring economic growth in the United States
+  focusing on GDP. Understand how algorithmic trading and modern financial practices
+  impact economic assessment.
+title: Methods of Measuring Economic Growth in the United States (Algo Trading)
 ---
 
 The concept of measuring economic growth has long been a critical component of governmental policy in the United States, with Gross Domestic Product (GDP) serving as the primary metric. GDP quantifies the total monetary value of all final goods and services produced over a specific time period within a nation, providing a snapshot of economic health. Formulaically, GDP can be expressed as:
@@ -138,4 +141,3 @@ The interplay between government policies and algorithmic trading highlights the
 9. National Academy of Sciences. "Measuring Economic Growth and Productivity: Foundations, K-12 Education, and Beyond." This report examines current practices in measuring economic growth and recommends ways to enhance these measures for future needs: [National Academies Press](https://www.nap.edu/catalog/10623).
 
 These resources offer foundational and advanced insights into economic measurement, government interventions, and the evolving nature of financial markets, providing a well-rounded basis for further exploration.
-

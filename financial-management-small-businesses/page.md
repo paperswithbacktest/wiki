@@ -1,6 +1,11 @@
 ---
-title: "Financial Management for Small Businesses (Algo Trading)"
-description: "Discover effective financial management strategies essential for small business success, from robust accounting systems to innovative algorithmic trading. Learn how to optimize resources, make informed decisions, and improve investment strategies to build a strong financial foundation and competitive edge in today's fast-paced market."
+category: quant_concept
+description: Discover effective financial management strategies essential for small
+  business success, from robust accounting systems to innovative algorithmic trading.
+  Learn how to optimize resources, make informed decisions, and improve investment
+  strategies to build a strong financial foundation and competitive edge in today's
+  fast-paced market.
+title: Financial Management for Small Businesses (Algo Trading)
 ---
 
 In today's fast-paced business environment, effective financial management is crucial for the success of small businesses. Small business accounting, financial management, and business finance form a triad that supports the sustainability and growth of these enterprises. Accounting serves as the backbone by enabling accurate tracking of expenses, revenues, and financial health. Without a robust accounting system, businesses can falter due to mismanaged resources and lack of insightful financial data.

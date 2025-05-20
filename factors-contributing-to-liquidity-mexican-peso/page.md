@@ -1,6 +1,9 @@
 ---
-title: "Factors Contributing to the Liquidity of the Mexican Peso (Algo Trading)"
-description: "Discover the key factors enhancing the liquidity of the Mexican Peso with insights into global forex trends and the impact of algo trading on MXN's dynamic market presence."
+category: quant_concept
+description: Discover the key factors enhancing the liquidity of the Mexican Peso
+  with insights into global forex trends and the impact of algo trading on MXN's dynamic
+  market presence.
+title: Factors Contributing to the Liquidity of the Mexican Peso (Algo Trading)
 ---
 
 The financial markets offer a diverse range of opportunities for both individual and institutional investors. Among these opportunities, the Mexican Peso (MXN) stands out due to its significant liquidity and the pivotal role it plays in the global foreign exchange market. As one of the most actively traded emerging market currencies, the Peso's liquidity is a key factor that attracts traders and investors worldwide.

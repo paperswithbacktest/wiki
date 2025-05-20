@@ -1,6 +1,9 @@
 ---
-title: "Short Squeeze: Causes and Examples (Algo Trading)"
-description: "Explore the dynamics of short squeezes and the role of algorithmic trading in modern markets Uncover causes examples and strategies related to this volatile phenomenon"
+category: trading_strategy
+description: Explore the dynamics of short squeezes and the role of algorithmic trading
+  in modern markets Uncover causes examples and strategies related to this volatile
+  phenomenon
+title: 'Short Squeeze: Causes and Examples (Algo Trading)'
 ---
 
 In the world of stock market investing, strategies continuously evolve to adapt to market dynamics. A phenomenon that has garnered the attention of both traditional and modern investors is the short squeeze. A short squeeze occurs when a heavily shorted stock quickly increases in price, forcing short sellers to buy the stock to cover their positions, thereby pushing the price even higher. This creates a feedback loop of buying activity, leading to rapid price escalations and significant market volatility.

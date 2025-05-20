@@ -1,6 +1,9 @@
 ---
-title: "Preventing Delisting from Nasdaq (Algo Trading)"
-description: "Explore Nasdaq's delisting prevention with a focus on compliance and algorithmic trading. Learn strategies to maintain listing and navigate market dynamics effectively."
+category: trading_strategy
+description: Explore Nasdaq's delisting prevention with a focus on compliance and
+  algorithmic trading. Learn strategies to maintain listing and navigate market dynamics
+  effectively.
+title: Preventing Delisting from Nasdaq (Algo Trading)
 ---
 
 In recent years, financial markets have witnessed significant shifts, notably in stock delisting trends, Nasdaq compliance, and the surge of algorithmic trading. These elements have reshaped market dynamics and investor strategies, reflecting broader changes in the global economic landscape.

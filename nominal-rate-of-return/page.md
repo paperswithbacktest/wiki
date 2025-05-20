@@ -1,6 +1,9 @@
 ---
-title: "Nominal Rate of Return (Algo Trading)"
-description: "Explore the significance of nominal rate of return in investment strategies alongside algorithmic trading. Learn how these concepts influence profitability and decision-making."
+category: quant_concept
+description: Explore the significance of nominal rate of return in investment strategies
+  alongside algorithmic trading. Learn how these concepts influence profitability
+  and decision-making.
+title: Nominal Rate of Return (Algo Trading)
 ---
 
 In the world of investing, understanding different rates of return is crucial for making informed decisions. This article explores the concepts of nominal rate, investment rate of return, and the emerging field of algorithmic trading. Our aim is to provide insights on how these elements interact and influence investment strategies. We will define these financial terms, explain how to calculate them, and discuss their implications for investors. By understanding these concepts, investors can optimize their strategies and potentially increase returns.

@@ -1,6 +1,9 @@
 ---
-title: "Middle-Income Countries: Characteristics and Importance (Algo Trading)"
-description: "Explore the role of Middle-Income Countries in global economy and how algorithmic trading influences their growth and stability. Learn about MICs’ challenges and opportunities."
+category: quant_concept
+description: Explore the role of Middle-Income Countries in global economy and how
+  algorithmic trading influences their growth and stability. Learn about MICs’ challenges
+  and opportunities.
+title: 'Middle-Income Countries: Characteristics and Importance (Algo Trading)'
 ---
 
 Middle-Income Countries (MICs) are integral contributors to the global economy, recognized for their significant economic and demographic presence. According to the World Bank classification, these nations have a Gross National Income (GNI) per capita ranging from $1,136 to $13,845. This diverse group includes countries from different regions, each exhibiting unique economic challenges and opportunities due to varying sizes and developmental needs.

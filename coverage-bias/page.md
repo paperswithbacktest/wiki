@@ -1,7 +1,8 @@
 ---
-title: Addressing Coverage Bias in Machine Learning for Fair Models
+category: quant_concept
 description: Coverage bias skews machine learning fairness and accuracy by leaving
   out key data Use strategies to fill gaps for equitable AI Discover more inside.
+title: Addressing Coverage Bias in Machine Learning for Fair Models
 ---
 
 ![Image](images/1.jpeg)

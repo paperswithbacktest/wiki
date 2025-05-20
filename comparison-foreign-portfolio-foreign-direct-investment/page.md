@@ -1,6 +1,9 @@
 ---
-title: "Comparison of Foreign Portfolio and Foreign Direct Investment (Algo Trading)"
-description: "Explore the key differences between Foreign Portfolio Investment and Foreign Direct Investment and discover how algorithmic trading influences these strategies."
+category: quant_concept
+description: Explore the key differences between Foreign Portfolio Investment and
+  Foreign Direct Investment and discover how algorithmic trading influences these
+  strategies.
+title: Comparison of Foreign Portfolio and Foreign Direct Investment (Algo Trading)
 ---
 
 Foreign Portfolio Investment (FPI) and Foreign Direct Investment (FDI) are pivotal components of international finance, fundamentally shaping the economic landscape across the globe. FPI involves the purchase of financial assets such as stocks and bonds in a foreign country, allowing investors to participate in international markets without exerting control over the companies. In contrast, FDI entails investment in physical assets or ownership stakes in businesses operating in foreign countries, providing the investor with significant influence or control over the company's operations.

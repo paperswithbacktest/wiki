@@ -1,7 +1,8 @@
 ---
-title: Understanding Math Formula Detection Models and Applications
+category: quant_concept
 description: Math Formula Detection Models help educators and researchers automate
   formula recognition from text to speed grading and analysis Discover more inside
+title: Understanding Math Formula Detection Models and Applications
 ---
 
 ![Image](images/1.png)

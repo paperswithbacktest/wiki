@@ -1,6 +1,9 @@
 ---
-title: "Legacy Asset: Overview and Examples (Algo Trading)"
-description: "Discover how legacy assets are managed in financial markets alongside the transformative role of algorithmic trading in enhancing modern asset management strategies."
+category: quant_concept
+description: Discover how legacy assets are managed in financial markets alongside
+  the transformative role of algorithmic trading in enhancing modern asset management
+  strategies.
+title: 'Legacy Asset: Overview and Examples (Algo Trading)'
 ---
 
 Financial asset management is a pivotal aspect of ensuring the optimal value and performance of various asset classes within the financial markets. At its core, it involves strategic planning and systematic management of investments such as stocks, bonds, and other securities to achieve specific financial goals. The accurate and efficient management of these financial assets is crucial not only for individual investors but also for large institutional investors whose activities influence global market dynamics.

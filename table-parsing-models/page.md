@@ -1,7 +1,8 @@
 ---
-title: Machine Learning Table Parsing with Cycle-CenterNet Method
+category: quant_concept
 description: Table parsing in machine learning converts complex table data into structured
   formats with Cycle-CenterNet precision and error checks Discover more inside
+title: Machine Learning Table Parsing with Cycle-CenterNet Method
 ---
 
 ![Image](images/1.png)

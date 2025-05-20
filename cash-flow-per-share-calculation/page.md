@@ -1,6 +1,8 @@
 ---
-title: "Cash Flow Per Share Calculation (Algo Trading)"
-description: "Discover the power of Cash Flow Per Share CFPS for analyzing a company's financial health and enhancing algorithmic trading strategies with authentic insights."
+category: quant_concept
+description: Discover the power of Cash Flow Per Share CFPS for analyzing a company's
+  financial health and enhancing algorithmic trading strategies with authentic insights.
+title: Cash Flow Per Share Calculation (Algo Trading)
 ---
 
 In today's fast-paced financial world, investors are continually on the lookout for reliable metrics that can offer clear insights for investment analysis and decision-making. Among these metrics, Cash Flow Per Share (CFPS) emerges as a pivotal indicator for evaluating a company's financial health. 

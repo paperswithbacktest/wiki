@@ -1,6 +1,9 @@
 ---
-title: "Macroprudential Analysis: Overview and Methodology (Algo Trading)"
-description: "Explore macroprudential analysis, risk management, and financial stability in modern financial systems, examining their impact on systemic risk control and algorithmic trading."
+category: quant_concept
+description: Explore macroprudential analysis, risk management, and financial stability
+  in modern financial systems, examining their impact on systemic risk control and
+  algorithmic trading.
+title: 'Macroprudential Analysis: Overview and Methodology (Algo Trading)'
 ---
 
 The global financial landscape is undergoing a significant transformation, driven by rapid technological advancements, the forces of globalization, and the ever-increasing complexity of markets. These elements are reshaping how financial activities are conducted, posing both opportunities and challenges. Integral to maintaining the health of these financial systems are macroprudential analysis, risk management, and financial stability. Each component plays a crucial role in ensuring that financial institutions remain robust, resilient, and capable of withstanding various economic shocks.

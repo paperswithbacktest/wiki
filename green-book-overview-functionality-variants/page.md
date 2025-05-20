@@ -1,6 +1,8 @@
 ---
-title: "Green Book: Overview, Functionality, and Variants (Algo Trading)"
-description: "Explore how algorithmic trading integrates Green Book insights to optimize strategies using economic forecasts and policy guidelines for enhanced market decision-making."
+category: quant_concept
+description: Explore how algorithmic trading integrates Green Book insights to optimize
+  strategies using economic forecasts and policy guidelines for enhanced market decision-making.
+title: 'Green Book: Overview, Functionality, and Variants (Algo Trading)'
 ---
 
 In the fast-evolving landscape of finance, algorithmic trading, often referred to as 'algo trading,' is becoming an indispensable tool for traders. This method leverages computer programs and algorithms to execute trades at speeds and frequencies beyond the capability of human traders. Algo trading's core advantage lies in its ability to analyze vast amounts of market data at high speed, thereby facilitating optimal decision-making processes in trading.

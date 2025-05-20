@@ -1,6 +1,8 @@
 ---
-title: "Chasing Nickels Around Dollar Bills (Algo Trading)"
-description: "Explore the intersection of financial idioms and algorithmic trading to enhance financial literacy and strategy with timeless wisdom and modern precision."
+category: quant_concept
+description: Explore the intersection of financial idioms and algorithmic trading
+  to enhance financial literacy and strategy with timeless wisdom and modern precision.
+title: Chasing Nickels Around Dollar Bills (Algo Trading)
 ---
 
 In the world of personal finance and investment, language plays a crucial role in shaping our understanding. Just like in any other field, finance comes with its own set of idioms, which not only add color to conversations but also offer timeless wisdom. These idioms serve as guiding beacons, encapsulating centuries of experience and advice in just a few words. Whether you're an individual managing your finances or a seasoned investor navigating complex markets, these phrases can offer insights and inform your strategies.

@@ -1,6 +1,8 @@
 ---
-title: "Corporate Actions and Their Implications (Algo Trading)"
-description: "Explore the impact of corporate actions and algorithmic trading on financial markets. Learn how decisions like dividends and mergers affect investor strategies."
+category: quant_concept
+description: Explore the impact of corporate actions and algorithmic trading on financial
+  markets. Learn how decisions like dividends and mergers affect investor strategies.
+title: Corporate Actions and Their Implications (Algo Trading)
 ---
 
 The financial market is a dynamic ecosystem shaped by various factors, among which corporate actions and algorithmic trading play significant roles. Corporate actions refer to strategic decisions made by a company that impact its financial structure and the interests of its shareholders. These actions, such as dividends and mergers, hold the power to significantly alter stock prices, thereby affecting investor portfolios. For instance, the announcement of a dividend may boost a stock's attractiveness, leading to increased demand and potentially higher stock prices. Similarly, mergers and acquisitions can create synergies that enhance shareholder value, often reflected in upward stock price movements.

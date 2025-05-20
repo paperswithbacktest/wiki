@@ -1,6 +1,8 @@
 ---
-title: "Proprietary Trading Firms: Overview and Comparisons (Algo Trading)"
-description: "Discover the benefits of proprietary and algorithmic trading for modern financial markets and learn how these strategies enhance liquidity and market efficiency."
+category: trading_strategy
+description: Discover the benefits of proprietary and algorithmic trading for modern
+  financial markets and learn how these strategies enhance liquidity and market efficiency.
+title: 'Proprietary Trading Firms: Overview and Comparisons (Algo Trading)'
 ---
 
 In the ever-evolving landscape of financial markets, trading firms have increasingly adopted sophisticated strategies to stay competitive and maximize their returns. Two such strategies, proprietary trading and algorithmic trading, have established themselves as key components in modern trading operations. Proprietary trading involves firms trading securities, currencies, or other financial instruments using their own capital in order to generate profit. By leveraging their own resources, proprietary trading desks aim to execute trades swiftly and exploit market inefficiencies for substantial returns.

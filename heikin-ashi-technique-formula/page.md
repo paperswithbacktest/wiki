@@ -1,6 +1,9 @@
 ---
-title: "Heikin-Ashi Technique and Formula (Algo Trading)"
-description: "Discover the Heikin-Ashi technique for algorithmic trading Learn how this method smooths price data enabling clearer trend identification and enhanced strategy formulation"
+category: trading_strategy
+description: Discover the Heikin-Ashi technique for algorithmic trading Learn how
+  this method smooths price data enabling clearer trend identification and enhanced
+  strategy formulation
+title: Heikin-Ashi Technique and Formula (Algo Trading)
 ---
 
 The world of trading is extensive and diverse, featuring a multitude of strategies and tools that traders employ to navigate the complexities of financial markets. Among these, technical analysis stands out as a fundamental approach for evaluating securities through the study of past market data, primarily price and volume. One technique within this domain that has been gaining traction is the Heikin-Ashi method. This approach is particularly favored for its capability to filter out market noise, making trend identification more straightforward and reliable.

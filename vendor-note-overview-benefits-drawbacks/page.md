@@ -1,6 +1,8 @@
 ---
-title: "Vendor Note: Overview, Benefits, and Drawbacks (Algo Trading)"
-description: "Explore the benefits and drawbacks of using vendor notes in algorithmic trading. Discover how they offer financial flexibility and enhance trading strategies."
+category: quant_concept
+description: Explore the benefits and drawbacks of using vendor notes in algorithmic
+  trading. Discover how they offer financial flexibility and enhance trading strategies.
+title: 'Vendor Note: Overview, Benefits, and Drawbacks (Algo Trading)'
 ---
 
 In today's dynamic financial landscape, businesses are continuously seeking innovative approaches to financing. One such approach that has been gaining prominence is the strategic use of seller financing and vendor notes. Seller financing involves the seller of an asset, typically real estate or a business, lending a portion of the purchase price to the buyer. This method allows transactions to occur even when traditional financing is inaccessible or impractical. Complementing this, vendor notes are debt instruments issued by the seller to the buyer, often used in business acquisitions to facilitate smooth transactions.

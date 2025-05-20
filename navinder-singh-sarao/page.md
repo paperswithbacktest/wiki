@@ -1,7 +1,8 @@
 ---
-title: "Navinder Singh Sarao (Algo Trading)"
-description: "Discover the story of Navinder Singh Sarao key figure in the 2010 Flash Crash uncovering the impact of algorithmic trading and market manipulation.
-"
+category: quant_concept
+description: 'Discover the story of Navinder Singh Sarao key figure in the 2010 Flash
+  Crash uncovering the impact of algorithmic trading and market manipulation. '
+title: Navinder Singh Sarao (Algo Trading)
 ---
 
 In May 2010, the financial markets experienced a dramatic event that caught the attention of traders, regulators, and the general public worldwide. Within the span of just five minutes, the Dow Jones Industrial Average (DJIA) plunged approximately 600 points — an incident that has since been termed the "Flash Crash." This unprecedented drop and subsequent rapid recovery underscored significant vulnerabilities in the modern, electronically-driven trading environment. At the heart of this event was Navinder Singh Sarao, a trader based in London, whose actions were later identified as pivotal to the market turmoil.

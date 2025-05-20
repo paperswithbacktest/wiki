@@ -1,6 +1,9 @@
 ---
-title: "Investing in ESG Strategies 2024 (Algo Trading)"
-description: "Discover how integrating ESG strategies with algorithmic trading is transforming financial portfolios in 2024 aligning profitability with sustainability-focused objectives."
+category: trading_strategy
+description: Discover how integrating ESG strategies with algorithmic trading is transforming
+  financial portfolios in 2024 aligning profitability with sustainability-focused
+  objectives.
+title: Investing in ESG Strategies 2024 (Algo Trading)
 ---
 
 The intersection of sustainable investment, Environmental, Social, and Governance (ESG) investing, and algorithmic trading is reshaping the landscape of modern finance. In 2024, these converging trends are gaining prominence as investors increasingly seek to harmonize their financial objectives with sustainable values. This blend presents a new paradigm where profitability aligns with environmental responsibility and social accountability.

@@ -1,6 +1,9 @@
 ---
-title: "Data-Driven Trading Signals (Algo Trading)"
-description: "Discover how data-driven trading signals enhance algorithmic trading, optimizing strategies for speed and accuracy in financial markets through systematic insights."
+category: trading_strategy
+description: Discover how data-driven trading signals enhance algorithmic trading,
+  optimizing strategies for speed and accuracy in financial markets through systematic
+  insights.
+title: Data-Driven Trading Signals (Algo Trading)
 ---
 
 Algorithmic trading, also known as 'algo trading', employs computer algorithms to execute trading strategies based on pre-defined rules. This method involves the use of data-driven trading signals to optimize the buying and selling of financial assets, enabling quicker and more efficient decision-making processes. In recent years, algorithmic trading has gained prominence as financial markets have embraced technological advancements, offering traders a competitive advantage through enhanced precision and speed.

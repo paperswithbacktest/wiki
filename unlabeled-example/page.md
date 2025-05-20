@@ -1,7 +1,8 @@
 ---
-title: Understanding Unlabeled Data in Machine Learning Workflows
+category: quant_concept
 description: Unlabeled data empowers machine learning to uncover patterns and reduce
   labeling costs with unsupervised and semi-supervised methods Discover more inside
+title: Understanding Unlabeled Data in Machine Learning Workflows
 ---
 
 ![Image](images/1.png)

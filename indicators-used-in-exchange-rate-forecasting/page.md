@@ -1,6 +1,9 @@
 ---
-title: "Indicators Used in Exchange Rate Forecasting (Algo Trading)"
-description: "Discover key economic indicators and advanced methods like algorithmic trading and machine learning used in exchange rate forecasting to optimize forex trading."
+category: trading_strategy
+description: Discover key economic indicators and advanced methods like algorithmic
+  trading and machine learning used in exchange rate forecasting to optimize forex
+  trading.
+title: Indicators Used in Exchange Rate Forecasting (Algo Trading)
 ---
 
 The foreign exchange market, commonly known as forex, stands as the largest financial market in the world, boasting a staggering daily turnover exceeding $6.6 trillion. This vast market reflects the exchange of currencies between nations, facilitating international trade, investments, and economic interactions globally. As such, forex is pivotal for individuals, firms, and governments, serving as a barometer for economic stability and growth.
@@ -119,4 +122,3 @@ Looking forward, continued advancements in artificial intelligence and data inte
 - Hull, J. C. (2018). Options, Futures, and Other Derivatives provides a comprehensive overview of derivative instruments, exploring how these financial products are used in trading and risk management, including strategies involving currency futures and options to hedge exchange rate risk.
 
 - Murphy, J. J. (1999). Technical Analysis of the Financial Markets: A Comprehensive Guide offers an extensive review of technical analysis principles and tools used to evaluate financial markets. This guide serves as a foundation for learners interested in using chart patterns and technical indicators for forecasting exchange rate trends, incorporating methodologies widely adopted by traders in the forex market.
-

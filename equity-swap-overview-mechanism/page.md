@@ -1,6 +1,8 @@
 ---
-title: "Equity Swap: Overview and Mechanism (Algo Trading)"
-description: "Discover how equity swaps and algorithmic trading revolutionize investment strategies, offering market exposure and risk management without direct asset ownership."
+category: quant_concept
+description: Discover how equity swaps and algorithmic trading revolutionize investment
+  strategies, offering market exposure and risk management without direct asset ownership.
+title: 'Equity Swap: Overview and Mechanism (Algo Trading)'
 ---
 
 Financial derivatives have fundamentally changed modern investment strategies, offering investors a suite of instruments to manage risk and improve returns. These financial contracts, which derive their value from underlying assets such as equities, commodities, or interest rates, provide flexibility and precision in portfolio management. Among the variety of derivatives available, equity swaps have gained significant traction in sophisticated investment portfolios. An equity swap allows institutions and investors to exchange cash flows based on the performance of equity indices or individual stocks, providing exposure to market movements without direct ownership of the underlying securities.

@@ -1,6 +1,8 @@
 ---
-title: "Global Stock Exchanges (Algo Trading)"
-description: "Explore the intricate roles of stock exchanges in global finance and the impact of algorithmic trading on market dynamics, transparency, and liquidity."
+category: quant_concept
+description: Explore the intricate roles of stock exchanges in global finance and
+  the impact of algorithmic trading on market dynamics, transparency, and liquidity.
+title: Global Stock Exchanges (Algo Trading)
 ---
 
 Stock exchanges are pivotal institutions in global finance, serving as venues where securities such as stocks and bonds are bought and sold. They provide a structured environment for the trading of financial instruments, thus ensuring transparency, liquidity, and price discovery in financial markets. Notable stock exchanges, like the New York Stock Exchange (NYSE) and the Tokyo Stock Exchange (TSE), are integral to maintaining the flow of capital, which fosters economic development and growth. Historically, stock exchanges have evolved from physical trading floors to electronic platforms, reflecting advancements in technology and communication.

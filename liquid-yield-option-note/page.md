@@ -1,6 +1,9 @@
 ---
-title: "Liquid Yield Option Note (Algo Trading)"
-description: "Explore the benefits of Liquid Yield Option Notes (LYONs), convertible zero-coupon bonds offering growth opportunities for investors through algo trading strategies."
+category: quant_concept
+description: Explore the benefits of Liquid Yield Option Notes (LYONs), convertible
+  zero-coupon bonds offering growth opportunities for investors through algo trading
+  strategies.
+title: Liquid Yield Option Note (Algo Trading)
 ---
 
 In the ever-evolving world of finance, financial instruments continuously adapt and transform to meet the increasing demands of both investors and issuers. This dynamic environment has given birth to a variety of innovative tools designed to maximize potential returns while managing risks. One such instrument is the Liquid Yield Option Note (LYON), introduced by Merrill Lynch in the mid-1980s. LYONs are distinct in that they are zero-coupon convertible bonds, offering predetermined conversion capabilities, which blend the advantages of both debt and equity instruments.

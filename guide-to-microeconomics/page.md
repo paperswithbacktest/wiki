@@ -1,6 +1,8 @@
 ---
-title: "Guide to Microeconomics (Algo Trading)"
-description: "Explore the synergy between microeconomics consumer behavior and algorithmic trading in modern finance Learn how these fields enhance strategies for market innovation"
+category: quant_concept
+description: Explore the synergy between microeconomics consumer behavior and algorithmic
+  trading in modern finance Learn how these fields enhance strategies for market innovation
+title: Guide to Microeconomics (Algo Trading)
 ---
 
 In the rapidly-evolving world of finance and economics, understanding consumer behavior has become crucial for implementing successful strategies. The discipline of microeconomics is essential in this context as it analyzes how individuals and firms make decisions regarding resource allocation and consumption. This foundational knowledge helps in deciphering the intricacies of supply and demand dynamics at the individual and firm level.

@@ -1,6 +1,8 @@
 ---
-title: "Greater Fool Theory in Investing (Algo Trading)"
-description: "Delve into how the Greater Fool Theory impacts investment strategies, especially in algo trading, by balancing market momentum with risk management."
+category: trading_strategy
+description: Delve into how the Greater Fool Theory impacts investment strategies,
+  especially in algo trading, by balancing market momentum with risk management.
+title: Greater Fool Theory in Investing (Algo Trading)
 ---
 
 Understanding different investment strategies is crucial for successfully navigating financial markets. One such strategy, often debated and discussed, is the Greater Fool Theory. The Greater Fool Theory posits that buying overvalued securities can be profitable as long as a "greater fool" is willing to purchase them at a higher price. This theory challenges the conventional focus on intrinsic value and is more aligned with market momentum, which has significant implications for investment decisions.

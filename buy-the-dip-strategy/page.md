@@ -1,9 +1,12 @@
 ---
-title: "Buy the dip strategy"
-description: Discover the "Buy the Dip" strategy, a popular trading and investment approach based on purchasing assets after a price decline, expecting a rebound. Understand its historical significance, mechanics, and analysis techniques. Learn how it differs from dollar-cost averaging and suitability for different investor profiles.
+category: trading_strategy
+description: Discover the "Buy the Dip" strategy, a popular trading and investment
+  approach based on purchasing assets after a price decline, expecting a rebound.
+  Understand its historical significance, mechanics, and analysis techniques. Learn
+  how it differs from dollar-cost averaging and suitability for different investor
+  profiles.
+title: Buy the dip strategy
 ---
-
-
 
 "Buy the Dip" is a popular trading and investment strategy based on the idea of purchasing assets after a decline in their price, under the expectation that a rebound is imminent. This approach is predicated on the belief that the drop in price is temporary and not indicative of a long-term downward trend. The strategy is widely used by individual investors and traders who seek to capitalize on what they perceive as temporary market irrationality or overreactions to news or events.
 

@@ -1,6 +1,12 @@
 ---
-title: "Alligator Spread in Trading (Algo Trading)"
-description: "Explore the intricate alligator spread options trading strategy characterized by its complexity and unique cost structure that can consume potential profits. Discover how algorithmic trading enhances this technique by optimizing execution and managing volatility. Understand the benefits and challenges of alligator spreads with practical examples and strategic insights to effectively navigate complex market landscapes and potentially maximize returns."
+category: trading_strategy
+description: Explore the intricate alligator spread options trading strategy characterized
+  by its complexity and unique cost structure that can consume potential profits.
+  Discover how algorithmic trading enhances this technique by optimizing execution
+  and managing volatility. Understand the benefits and challenges of alligator spreads
+  with practical examples and strategic insights to effectively navigate complex market
+  landscapes and potentially maximize returns.
+title: Alligator Spread in Trading (Algo Trading)
 ---
 
 Options trading is characterized by an array of strategies, each catering to different market conditions and trader preferences. One such strategy that stands out for its complexity and intrigue is the alligator spread. Named metaphorically for its propensity to have potential profits "eaten up" by fees much like an alligator's voracious appetite, this strategy requires a nuanced understanding of the cost structures and positioning within the options market.

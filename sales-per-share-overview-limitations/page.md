@@ -1,6 +1,9 @@
 ---
-title: "Sales Per Share: Overview and Limitations (Algo Trading)"
-description: "Explore how Sales Per Share impacts trading strategies with algorithmic systems. Learn its significance and limitations in assessing a company's revenue efficiency."
+category: quant_concept
+description: Explore how Sales Per Share impacts trading strategies with algorithmic
+  systems. Learn its significance and limitations in assessing a company's revenue
+  efficiency.
+title: 'Sales Per Share: Overview and Limitations (Algo Trading)'
 ---
 
 Investing and trading have undergone significant transformations with the integration of financial metrics and algorithmic trading. As technology advances, the methods by which investors evaluate the performance of companies have become increasingly sophisticated. Among the plethora of financial metrics available, Sales Per Share (SPS) emerges as a pivotal indicator, providing insights into a company's effectiveness in generating revenue relative to its share count. This metric enables investors to assess a company's operational efficiency by indicating how much sales revenue is attributed to each share of stock.

@@ -1,6 +1,9 @@
 ---
-title: "Importance of Trailing Twelve Months in Finance (Algo Trading)"
-description: "Explore the significance of the Trailing Twelve Months in finance and algorithmic trading for improved financial analysis predictability and strategic decisions."
+category: quant_concept
+description: Explore the significance of the Trailing Twelve Months in finance and
+  algorithmic trading for improved financial analysis predictability and strategic
+  decisions.
+title: Importance of Trailing Twelve Months in Finance (Algo Trading)
 ---
 
 The financial landscape is continuously adapting to advancements in technology and methodologies that aim to enhance investment strategies. Investors and analysts seek tools that offer more comprehensive insights into the financial health and performance of companies to make informed decisions. One such essential tool is the Trailing Twelve Months (TTM) financial analysis. TTM provides a detailed view of a company's financial performance over the last twelve months by collating data from the most recent four quarters. This approach allows for a current and more relevant assessment than traditional fiscal year reports.

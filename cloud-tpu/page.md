@@ -1,7 +1,8 @@
 ---
-title: Comprehensive Cloud TPU Guide for Accelerating Machine Learning
+category: quant_concept
 description: Cloud TPU solutions accelerate machine learning training with TensorFlow
   and dedicated hardware for faster performance Discover more inside
+title: Comprehensive Cloud TPU Guide for Accelerating Machine Learning
 ---
 
 ![Image](images/1.png)

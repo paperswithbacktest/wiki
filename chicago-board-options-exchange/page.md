@@ -1,6 +1,8 @@
 ---
-title: "Chicago Board Options Exchange (Algo Trading)"
-description: "Explore CBOE's role in modern trading with insights into its algorithmic strategies that enhance efficiency and innovation in financial markets."
+category: quant_concept
+description: Explore CBOE's role in modern trading with insights into its algorithmic
+  strategies that enhance efficiency and innovation in financial markets.
+title: Chicago Board Options Exchange (Algo Trading)
 ---
 
 The Chicago Board Options Exchange (CBOE), established in 1973, stands as a pioneering entity in the field of options trading, marking a significant milestone as the first U.S. exchange to offer standardized, listed options. This innovation laid the groundwork for transforming options trading into a structured and accessible component of the financial markets. Over the decades, the CBOE has evolved into Cboe Global Markets, reflecting its expansion beyond traditional options trading into a diversified leader in the derivatives trading domain. Through strategic acquisitions and technological advancements, Cboe Global Markets has maintained its stature in both American and global financial markets, continually adapting to the evolving landscape of financial trading.

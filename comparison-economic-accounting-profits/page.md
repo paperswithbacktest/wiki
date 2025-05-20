@@ -1,6 +1,8 @@
 ---
-title: "Comparison of Economic and Accounting Profits (Algo Trading)"
-description: "Understand economic vs accounting profits in algo trading Discover differences in profit measurement calculation and impact on business strategy and decisions"
+category: quant_concept
+description: Understand economic vs accounting profits in algo trading Discover differences
+  in profit measurement calculation and impact on business strategy and decisions
+title: Comparison of Economic and Accounting Profits (Algo Trading)
 ---
 
 Profit is a critical financial metric used to evaluate the financial health of a business. It reflects a firm's ability to generate income relative to its expenses, directly influencing strategic decisions and stakeholder confidence. However, profit can be measured in multiple ways, primarily through economic profit and accounting profit. Each of these profit metrics provides unique insights into a company's performance, shaped by the types of costs considered in their calculations.

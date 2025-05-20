@@ -1,6 +1,8 @@
 ---
-title: "Comparison of Market Weight and Equal Weight S&P 500 ETFs (Algo Trading)"
-description: "Explore the pros and cons of market weight and equal weight S&P 500 ETFs in algorithmic trading Discover performance, risks and choose the right strategy."
+category: trading_strategy
+description: Explore the pros and cons of market weight and equal weight S&P 500 ETFs
+  in algorithmic trading Discover performance, risks and choose the right strategy.
+title: Comparison of Market Weight and Equal Weight S&P 500 ETFs (Algo Trading)
 ---
 
 The S&P 500, officially known as the Standard & Poor's 500 Index, is a cornerstone of global financial markets. Comprising 500 of the largest publicly traded companies in the United States, it is a key indicator of the American equity market's performance. The index is market-capitalization weighted, meaning larger companies hold more influence over the index's movements. Its pervasive use by investors, analysts, and economists stems from its reputation as a barometer for the U.S. economy due to its broad representation across various sectors.

@@ -1,6 +1,8 @@
 ---
-title: "Covariance in Portfolio Theory (Algo Trading)"
-description: "Explore the crucial role of covariance in portfolio theory and its application in algorithmic trading to enhance investment strategies and manage risk effectively."
+category: quant_concept
+description: Explore the crucial role of covariance in portfolio theory and its application
+  in algorithmic trading to enhance investment strategies and manage risk effectively.
+title: Covariance in Portfolio Theory (Algo Trading)
 ---
 
 In the ever-evolving world of finance, the integration of traditional investment theories with modern technological advancements is crucial for maintaining a competitive edge. One of the most significant blends of these elements is the combination of Portfolio Theory and Algorithmic Trading. This article investigates into the role of covariance within finance portfolio theory and its leverage through algorithmic trading to enhance investment strategies.

@@ -1,6 +1,9 @@
 ---
-title: "Continuation Patterns in Technical Analysis (Algo Trading)"
-description: "Explore the importance of continuation patterns in technical analysis for algorithmic trading unveiling their role in predicting and optimizing market trends."
+category: trading_strategy
+description: Explore the importance of continuation patterns in technical analysis
+  for algorithmic trading unveiling their role in predicting and optimizing market
+  trends.
+title: Continuation Patterns in Technical Analysis (Algo Trading)
 ---
 
 Traders in financial markets are perpetually on the lookout for strategies to predict price movements and harness trends. One effective approach is technical analysis, which involves studying historical price data to forecast future trends. Among the tools available in technical analysis, continuation patterns notably indicate the likelihood of a trend's persistence.

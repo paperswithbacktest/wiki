@@ -1,6 +1,8 @@
 ---
-title: "News-Based Trading Strategies (Algo Trading)"
-description: "Explore how algorithmic trading enhances news-based trading strategies with speed, precision, and reduced emotional bias to navigate volatile market events."
+category: trading_strategy
+description: Explore how algorithmic trading enhances news-based trading strategies
+  with speed, precision, and reduced emotional bias to navigate volatile market events.
+title: News-Based Trading Strategies (Algo Trading)
 ---
 
 The financial markets have transformed significantly with the integration of algorithmic trading, fundamentally altering how traders interact with and react to market events. Algorithmic trading, commonly referred to as algo-trading, involves the use of computer algorithms to automate trading processes, allowing for rapid execution of trades based on pre-set criteria. This technological advancement has especially impacted news trading, which requires timely decisions based on market-moving events reported by media outlets.

@@ -1,6 +1,9 @@
 ---
-title: "Positive Correlations in Economics (Algo Trading)"
-description: "Explore positive correlations in economic variables and their role in algorithmic trading allowing traders to anticipate market trends and optimize strategies effectively."
+category: quant_concept
+description: Explore positive correlations in economic variables and their role in
+  algorithmic trading allowing traders to anticipate market trends and optimize strategies
+  effectively.
+title: Positive Correlations in Economics (Algo Trading)
 ---
 
 In the ever-evolving landscape of global finance, understanding economic relationships is crucial for effective decision-making. These relationships form the backbone of financial theories and practices, influencing how markets are analyzed and how investment decisions are crafted. Among the myriad connections within this economic tapestry, the study of positive correlations stands out as a key concept. Positive correlations occur when two variables move in the same direction and are fundamental in predicting market behaviors and trends.

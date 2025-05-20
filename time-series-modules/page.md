@@ -1,7 +1,8 @@
 ---
-title: Understanding Time Series Modules in Machine Learning
+category: quant_concept
 description: Time series modules help you model trends seasonal effects and autocorrelation
   for accurate forecasting and real time deployment Discover more inside
+title: Understanding Time Series Modules in Machine Learning
 ---
 
 ![Image](images/1.jpeg)

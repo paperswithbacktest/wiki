@@ -1,6 +1,11 @@
 ---
-title: "Options Trading on Webull (Algo Trading)"
-description: "Explore options trading on Webull, a versatile platform ideal for investors seeking flexibility and strategic control. Webull's user-friendly interface, combined with the power of algorithmic trading, enhances decision-making and efficiency. Discover comprehensive tools, commission-free trades, and extended hours to optimize your trading strategy and financial outcomes on this dynamic platform."
+category: quant_concept
+description: Explore options trading on Webull, a versatile platform ideal for investors
+  seeking flexibility and strategic control. Webull's user-friendly interface, combined
+  with the power of algorithmic trading, enhances decision-making and efficiency.
+  Discover comprehensive tools, commission-free trades, and extended hours to optimize
+  your trading strategy and financial outcomes on this dynamic platform.
+title: Options Trading on Webull (Algo Trading)
 ---
 
 In today's fast-paced financial world, options trading stands out as a vital tool for investors who desire both flexibility and strategic control over their portfolios. Unlike traditional securities, options provide the investor with the right, but not the obligation, to buy or sell an underlying asset at a predetermined price within a specific time frame. This unique feature allows traders to hedge against potential losses and capitalize on stock price movements, thereby enhancing the potential for profit.

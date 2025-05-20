@@ -1,6 +1,13 @@
 ---
-title: "Fixed income arbitrage (Algo Trading)"
-description: Discover the intricacies of fixed-income arbitrage, a market-neutral strategy that profits from pricing inefficiencies in fixed-income securities. Learn how traders utilize algorithmic trading to identify and exploit discrepancies, improving market accuracy and liquidity. Explore the role of fixed-income securities in financial markets, understand the mechanics of arbitrage, and delve into popular strategies like swap spread and yield curve arbitrage that help optimize returns in complex financial landscapes.
+category: trading_strategy
+description: Discover the intricacies of fixed-income arbitrage, a market-neutral
+  strategy that profits from pricing inefficiencies in fixed-income securities. Learn
+  how traders utilize algorithmic trading to identify and exploit discrepancies, improving
+  market accuracy and liquidity. Explore the role of fixed-income securities in financial
+  markets, understand the mechanics of arbitrage, and delve into popular strategies
+  like swap spread and yield curve arbitrage that help optimize returns in complex
+  financial landscapes.
+title: Fixed income arbitrage (Algo Trading)
 ---
 
 Fixed-income arbitrage is a sophisticated investment strategy that traders use to capitalize on discrepancies in interest rates across various fixed-income securities. At its core, this approach is market-neutral, meaning it seeks to make a profit regardless of broad market movements by exploiting inefficiencies within specific markets.

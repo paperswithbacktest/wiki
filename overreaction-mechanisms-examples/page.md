@@ -1,6 +1,9 @@
 ---
-title: "Overreaction: Mechanisms and Examples (Algo Trading)"
-description: "Explore the mechanisms and examples of overreaction in algorithmic trading, examining how cognitive biases like fear and greed influence market dynamics and trade strategies."
+category: quant_concept
+description: Explore the mechanisms and examples of overreaction in algorithmic trading,
+  examining how cognitive biases like fear and greed influence market dynamics and
+  trade strategies.
+title: 'Overreaction: Mechanisms and Examples (Algo Trading)'
 ---
 
 In recent years, the integration of psychology and finance has developed into a comprehensive study within the field of behavioral finance. This interdisciplinary approach seeks to understand and explain the emotional and cognitive factors that influence market decisions. Behavioral finance challenges the traditional notion of markets operating efficiently based solely on rational evaluations, instead highlighting the significant impact of psychological responses on financial markets.

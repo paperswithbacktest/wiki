@@ -1,6 +1,9 @@
 ---
-title: "Indenture in Finance (Algo Trading)"
-description: "Indentures in finance are crucial for formalizing debt agreements with clear terms, safeguarding all parties involved, and supporting stability in financial markets."
+category: quant_concept
+description: Indentures in finance are crucial for formalizing debt agreements with
+  clear terms, safeguarding all parties involved, and supporting stability in financial
+  markets.
+title: Indenture in Finance (Algo Trading)
 ---
 
 In the world of finance, indentures play a critical role in formalizing debt agreements between parties. An indenture is essentially a detailed contract that outlines the obligations and rights of the involved parties, primarily the borrower and lender. These agreements are fundamental in defining the terms of the debt issuance, including essential details such as repayment schedules, interest rates, and maturity dates. The structure and enforceability of indentures help to ensure that the interests of all parties are protected, thus stabilizing various financial markets.

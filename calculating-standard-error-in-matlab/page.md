@@ -1,6 +1,8 @@
 ---
-title: "Calculating Standard Error in MATLAB (Algo Trading)"
-description: "Learn to calculate standard error in MATLAB for refining algorithmic trading strategies Enhance trading accuracy through robust statistical analysis"
+category: quant_concept
+description: Learn to calculate standard error in MATLAB for refining algorithmic
+  trading strategies Enhance trading accuracy through robust statistical analysis
+title: Calculating Standard Error in MATLAB (Algo Trading)
 ---
 
 Algorithmic trading has significantly revolutionized the financial markets by integrating technology and statistical models to automate trade execution. This sophisticated approach allows traders to operate at speeds and accuracies unattainable by human intervention alone. An essential component of developing and refining algorithmic trading strategies is the accurate interpretation of statistical data, which can be effectively managed using MATLAB. Known for its robust capabilities in mathematical computations and data analysis, MATLAB stands as a valuable tool for traders looking to gain a competitive edge.

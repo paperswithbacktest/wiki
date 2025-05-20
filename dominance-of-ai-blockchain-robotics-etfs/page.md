@@ -1,6 +1,8 @@
 ---
-title: "Dominance of AI, Blockchain, and Robotics ETFs (Algo Trading)"
-description: "Explore the exciting world of AI, Blockchain, and Robotics ETFs as they transform investment strategies through algorithmic trading and cutting-edge technology."
+category: trading_strategy
+description: Explore the exciting world of AI, Blockchain, and Robotics ETFs as they
+  transform investment strategies through algorithmic trading and cutting-edge technology.
+title: Dominance of AI, Blockchain, and Robotics ETFs (Algo Trading)
 ---
 
 In the evolving world of investment, Exchange Traded Funds (ETFs) have gained substantial popularity among individuals seeking to diversify their portfolios. These financial instruments allow investors to access a broad range of asset classes while maintaining flexibility and ease of trading. Among the diverse array of ETFs available, those focusing on Robotics, Blockchain, and Artificial Intelligence (AI) stand out due to their emphasis on cutting-edge technologies that are reshaping various industries.

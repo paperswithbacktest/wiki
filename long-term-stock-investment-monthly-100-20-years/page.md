@@ -1,6 +1,9 @@
 ---
-title: "Long-Term Stock Investment: Monthly $100 for 20 Years (Algo Trading)"
-description: "Explore the synergy of long-term stock investment, monthly contributions, and algorithmic trading to maximize returns while minimizing risks over a 20-year horizon."
+category: trading_strategy
+description: Explore the synergy of long-term stock investment, monthly contributions,
+  and algorithmic trading to maximize returns while minimizing risks over a 20-year
+  horizon.
+title: 'Long-Term Stock Investment: Monthly $100 for 20 Years (Algo Trading)'
 ---
 
 The stock market provides a diverse array of opportunities for investors aiming to grow their wealth through strategic financial decisions. A common and effective approach within this financial landscape is long-term investment. By focusing on an extended time horizon, typically 20 years or more, long-term investment strategies aim to offer superior returns while mitigating risks associated with market volatility. Historical data underscores the efficacy of this approach, indicating that long-term investments often yield higher returns compared to traditional savings accounts or bonds.

@@ -1,6 +1,9 @@
 ---
-title: "Completed Contract Method in Accounting (Algo Trading)"
-description: "Explore the Completed Contract Method in accounting a revenue recognition approach vital for industries with project-based contracts like construction and software development."
+category: quant_concept
+description: Explore the Completed Contract Method in accounting a revenue recognition
+  approach vital for industries with project-based contracts like construction and
+  software development.
+title: Completed Contract Method in Accounting (Algo Trading)
 ---
 
 In accounting and finance, revenue recognition methods play a crucial role in shaping a company's financial statements and determining tax liabilities. Among these methods, the Completed Contract Method (CCM) stands out as a unique accounting approach predominantly employed in industries that operate on project-based contracts, such as construction and software development. The CCM is especially useful when project outcomes are uncertain or timelines unpredictable, as it defers the recognition of revenue and expenses until the completion of a contract.

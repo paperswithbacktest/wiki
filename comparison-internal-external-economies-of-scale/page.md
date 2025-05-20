@@ -1,6 +1,9 @@
 ---
-title: "Comparison of Internal and External Economies of Scale (Algo Trading)"
-description: "Understand the role of internal and external economies of scale in algorithmic trading and how they influence strategies and market performance in this evolving field."
+category: quant_concept
+description: Understand the role of internal and external economies of scale in algorithmic
+  trading and how they influence strategies and market performance in this evolving
+  field.
+title: Comparison of Internal and External Economies of Scale (Algo Trading)
 ---
 
 Understanding economies of scale is pivotal in both economics and business management. At its core, economies of scale refer to the cost advantages that enterprises obtain due to their scale of operation, with cost per unit of output generally decreasing with increasing scale. These advantages are crucial as firms endeavor to enhance efficiency, thereby enabling them to lower costs and bolster output. The concept bifurcates into internal and external economies of scale, each playing an essential role in how firms strategically position themselves in the competitive market landscape.

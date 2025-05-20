@@ -1,6 +1,9 @@
 ---
-title: "Clientele Effect Theory and Examples (Algo Trading)"
-description: "Explore how investor behavior and the clientele effect shape financial markets influencing algorithmic trading strategies through segmentation and market dynamics."
+category: quant_concept
+description: Explore how investor behavior and the clientele effect shape financial
+  markets influencing algorithmic trading strategies through segmentation and market
+  dynamics.
+title: Clientele Effect Theory and Examples (Algo Trading)
 ---
 
 Investor behavior and the clientele effect play a pivotal role in shaping financial markets. Investor behavior encompasses the patterns and strategies employed by various investors, who can be broadly categorized into retail and institutional types. Retail investors typically include individual investors who may have diverse investment goals and risk appetites. In contrast, institutional investors such as pension funds, mutual funds, and insurance companies often possess significant capital and employ sophisticated investment strategies.

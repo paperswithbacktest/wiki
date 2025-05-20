@@ -1,6 +1,9 @@
 ---
-title: "Antitrust Laws (Algo Trading)"
-description: "Explore how antitrust laws address the challenges of monopoly behavior and competitive practices in the rapidly advancing world of algorithmic trading and pricing."
+category: quant_concept
+description: Explore how antitrust laws address the challenges of monopoly behavior
+  and competitive practices in the rapidly advancing world of algorithmic trading
+  and pricing.
+title: Antitrust Laws (Algo Trading)
 ---
 
 In today's fast-evolving digital landscape, technology is deeply intertwined with market dynamics, often resulting in powerful players dominating entire industries as monopolies. This dominance brings antitrust and competition laws into critical focus, especially in sectors that are increasingly influenced by advancements in automated trading and algorithmic pricing.

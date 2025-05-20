@@ -1,6 +1,8 @@
 ---
-title: "Recommended Stocks for Beginner Swing Traders (Algo Trading)"
-description: "Discover essential tips for beginner swing traders with a focus on recommended stocks and algorithmic tools to streamline decision-making processes."
+category: trading_strategy
+description: Discover essential tips for beginner swing traders with a focus on recommended
+  stocks and algorithmic tools to streamline decision-making processes.
+title: Recommended Stocks for Beginner Swing Traders (Algo Trading)
 ---
 
 Swing trading offers a distinctive blend of short-term and medium-term trading strategies that cater to both novice and experienced investors. This approach involves holding positions for several days to weeks, capitalizing on expected market uptrends or downtrends. For beginners who are eager to engage in stock trading, swing trading offers a balanced introduction, providing exposure to market dynamics with a relatively lower risk profile compared to day trading. 

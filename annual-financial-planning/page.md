@@ -1,6 +1,8 @@
 ---
-title: "Annual Financial Planning (Algo Trading)"
-description: "Discover the keys to effective financial planning with this insightful guide on personal finance, annual plans, and algorithmic trading integration."
+category: trading_strategy
+description: Discover the keys to effective financial planning with this insightful
+  guide on personal finance, annual plans, and algorithmic trading integration.
+title: Annual Financial Planning (Algo Trading)
 ---
 
 Understanding personal finance is a fundamental aspect of maintaining and enhancing financial growth and security. Personal finance includes a wide range of activities such as budgeting, saving, investing, insurance, and managing debt, all of which contribute to an individual's financial well-being. To effectively manage these areas, developing an annual financial plan is crucial. This plan serves as a roadmap, helping prioritize financial goals and outline strategies to achieve them. By focusing on an annual plan, individuals can assess their current financial situation, make necessary adjustments, and plan for future milestones.

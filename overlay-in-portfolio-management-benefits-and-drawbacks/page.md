@@ -1,6 +1,8 @@
 ---
-title: "Overlay in Portfolio Management: Benefits and Drawbacks (Algo Trading)"
-description: "Explore how overlay strategies in portfolio management can be enhanced with algorithmic trading for improved risk management, performance, and cost efficiency."
+category: trading_strategy
+description: Explore how overlay strategies in portfolio management can be enhanced
+  with algorithmic trading for improved risk management, performance, and cost efficiency.
+title: 'Overlay in Portfolio Management: Benefits and Drawbacks (Algo Trading)'
 ---
 
 Overlay strategies in portfolio management refer to techniques that are layered on top of existing investment strategies to achieve specific financial objectives such as risk mitigation, performance enhancement, or cost reduction. These strategies do not involve directly altering the underlying investments but rather add an additional layer of management. For instance, currency overlay strategies might manage foreign exchange risk within a globally diversified portfolio without affecting the core asset allocation.

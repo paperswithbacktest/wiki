@@ -1,6 +1,8 @@
 ---
-title: "Financial CHOICE Act Overview (Algo Trading)"
-description: "The Financial CHOICE Act aimed to streamline financial regulations post-Dodd-Frank affecting areas like algorithmic trading while balancing oversight and innovation."
+category: quant_concept
+description: The Financial CHOICE Act aimed to streamline financial regulations post-Dodd-Frank
+  affecting areas like algorithmic trading while balancing oversight and innovation.
+title: Financial CHOICE Act Overview (Algo Trading)
 ---
 
 The financial landscape has experienced marked transformation in recent years, with the Financial CHOICE Act representing a significant legislative initiative within this domain. Initially introduced as a proposal to amend the existing regulatory framework established by the Dodd-Frank Wall Street Reform and Consumer Protection Act, the Financial CHOICE Act aimed to recalibrate the balance between regulation and innovation within the financial sector. Understanding this Act is crucial for grasping the trajectory of financial reforms post-Dodd-Frank.

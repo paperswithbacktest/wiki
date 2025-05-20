@@ -1,7 +1,8 @@
 ---
-title: Arbitrary Object Detector in Machine Learning Explained
+category: quant_concept
 description: Arbitrary Object Detector models apply CNNs to identify and draw boxes
   around any object in images with efficient accuracy and speed. Discover more inside.
+title: Arbitrary Object Detector in Machine Learning Explained
 ---
 
 ![Image](images/1.png)

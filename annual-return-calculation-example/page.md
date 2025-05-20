@@ -1,6 +1,14 @@
 ---
-title: "Annual Return: Explanation and Calculation Example (Algo Trading)"
-description: "Discover the fundamentals of annual returns and how algorithmic trading enhances investment strategies in this comprehensive guide. Learn to calculate investment performance with simple annual return and CAGR formulas, gaining insights into aligning your portfolio with financial goals. Explore how algorithmic trading leverages technology to optimize returns by exploiting market opportunities. Unlock strategic know-how to navigate modern financial markets and enhance your investment performance with a deep dive into the intersection of finance, investment metrics, and advanced trading technologies."
+category: quant_concept
+description: Discover the fundamentals of annual returns and how algorithmic trading
+  enhances investment strategies in this comprehensive guide. Learn to calculate investment
+  performance with simple annual return and CAGR formulas, gaining insights into aligning
+  your portfolio with financial goals. Explore how algorithmic trading leverages technology
+  to optimize returns by exploiting market opportunities. Unlock strategic know-how
+  to navigate modern financial markets and enhance your investment performance with
+  a deep dive into the intersection of finance, investment metrics, and advanced trading
+  technologies.
+title: 'Annual Return: Explanation and Calculation Example (Algo Trading)'
 ---
 
 In today’s rapidly evolving financial landscape, understanding the return on investment (ROI) is crucial for investors seeking to maximize profits. ROI serves as a fundamental metric for assessing the profitability of investments, and it becomes particularly significant as investment technologies advance. The emergence of algorithmic trading has offered investors a sophisticated approach to potentially achieving high annual returns by automating the trading process and exploiting market opportunities with precision.

@@ -1,6 +1,9 @@
 ---
-title: "Securities Act of 1933: Overview and Impact (Algo Trading)"
-description: "Explore the impact of the Securities Act of 1933 on modern financial practices, including algorithmic trading, emphasizing transparency and investor protection."
+category: quant_concept
+description: Explore the impact of the Securities Act of 1933 on modern financial
+  practices, including algorithmic trading, emphasizing transparency and investor
+  protection.
+title: 'Securities Act of 1933: Overview and Impact (Algo Trading)'
 ---
 
 The interplay between investment law and financial regulation is essential for maintaining fair and transparent financial markets. An integral component of this complex framework is the Securities Act of 1933. Enacted in the wake of the 1929 stock market crash, this Act established the groundwork for modern securities regulation in the United States, mandating the registration and disclosure of significant information by companies seeking to sell securities publicly.

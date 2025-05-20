@@ -1,6 +1,8 @@
 ---
-title: "Risks Associated with Algorithmic High-Frequency Trading (Algo Trading)"
-description: "Explore the complexities of algorithmic and high-frequency trading in financial markets Understand the systemic risks and volatility challenges they present"
+category: quant_concept
+description: Explore the complexities of algorithmic and high-frequency trading in
+  financial markets Understand the systemic risks and volatility challenges they present
+title: Risks Associated with Algorithmic High-Frequency Trading (Algo Trading)
 ---
 
 Algorithmic trading and high-frequency trading (HFT) have transformed the landscape of financial markets over recent decades, becoming influential mechanisms for executing trades with speed and precision. These technologically driven methods utilize advanced computer algorithms capable of processing vast quantities of data to execute trades in fractions of a second. The primary allure of algorithmic and HFT lies in their ability to enhance trading efficiency, reduce transaction costs, and capitalize on fleeting market opportunities that human traders might miss.

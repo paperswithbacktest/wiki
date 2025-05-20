@@ -1,6 +1,9 @@
 ---
-title: "Mathematical Skills for Studying Microeconomics (Algo Trading)"
-description: "Build a strong foundation in mathematics and economics for successful microeconomics and algorithmic trading Explore essential math skills and economic theories needed "
+category: quant_concept
+description: 'Build a strong foundation in mathematics and economics for successful
+  microeconomics and algorithmic trading Explore essential math skills and economic
+  theories needed '
+title: Mathematical Skills for Studying Microeconomics (Algo Trading)
 ---
 
 In today's rapidly evolving financial markets, possessing a robust foundation in mathematics and economics is vital for achieving success in fields such as microeconomics and algorithmic trading. These disciplines offer the analytical tools and theoretical frameworks necessary to navigate and interpret complex market trends, ultimately enhancing one's decision-making capabilities.

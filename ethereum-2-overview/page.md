@@ -1,6 +1,9 @@
 ---
-title: "Ethereum 2.0 Overview (Algo Trading)"
-description: "Explore how Ethereum 2.0's shift from PoW to PoS impacts algorithmic trading strategies, enhancing blockchain scalability and efficiency in the crypto market."
+category: quant_concept
+description: Explore how Ethereum 2.0's shift from PoW to PoS impacts algorithmic
+  trading strategies, enhancing blockchain scalability and efficiency in the crypto
+  market.
+title: Ethereum 2.0 Overview (Algo Trading)
 ---
 
 Ethereum is a pivotal player in the digital currency landscape, second only to Bitcoin in terms of market capitalization. Unlike Bitcoin, which primarily serves as a digital currency, Ethereum offers a more versatile platform that supports decentralized applications (dApps) through its programmable smart contracts. Introduced in 2015 by Vitalik Buterin and others, Ethereum has greatly expanded the potential of blockchain technology by enabling a variety of Web3 services. Its native cryptocurrency, Ether (ETH), fuels the network's activities, from transactions to smart contract executions, making Ethereum a cornerstone of the decentralized finance (DeFi) movement.

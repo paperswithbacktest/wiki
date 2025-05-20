@@ -1,6 +1,8 @@
 ---
-title: "Factor Market (Algo Trading)"
-description: "Explore the vital role of factor markets and algorithmic trading in economics Learn how these elements shape resource allocation and trading efficiencies"
+category: quant_concept
+description: Explore the vital role of factor markets and algorithmic trading in economics
+  Learn how these elements shape resource allocation and trading efficiencies
+title: Factor Market (Algo Trading)
 ---
 
 In economics, understanding the various market types and their examples is crucial for grasping the overall economic landscape. Markets represent the arenas where buyers and sellers meet to exchange goods, services, and resources, all of which orchestrate the flow of economic activity. Different markets are characterized by their specific structures, participants, and interactions, each contributing uniquely to the economic ecosystem.

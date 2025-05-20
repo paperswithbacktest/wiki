@@ -1,6 +1,9 @@
 ---
-title: "Pitfalls of Relative Valuation (Algo Trading)"
-description: "Explore the risks of relative valuation in algorithmic trading Understand how comparing financial assets can impact investment strategies and decisions in dynamic markets"
+category: trading_strategy
+description: Explore the risks of relative valuation in algorithmic trading Understand
+  how comparing financial assets can impact investment strategies and decisions in
+  dynamic markets
+title: Pitfalls of Relative Valuation (Algo Trading)
 ---
 
 In the ever-evolving world of finance, understanding investment strategies and the associated risks is paramount. Financial markets are increasingly complex, and investors require robust methods to navigate this environment effectively. Two critical methodologies have emerged as instrumental in enhancing financial analysis and investment decisions: relative valuation in investment analysis and algorithmic trading.

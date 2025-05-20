@@ -1,7 +1,8 @@
 ---
-title: Mastering Model Parallelism for Large Scale Machine Learning
+category: quant_concept
 description: Model parallelism lets you split and train large machine learning models
   across GPUs while improving training speed and memory usage. Discover more inside.
+title: Mastering Model Parallelism for Large Scale Machine Learning
 ---
 
 ![Image](images/1.png)

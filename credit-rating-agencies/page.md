@@ -1,6 +1,9 @@
 ---
-title: "Credit Rating Agencies (Algo Trading)"
-description: "Explore the critical roles of credit rating agencies and algorithmic trading in financial markets, highlighting their impact on investment strategies and regulatory frameworks."
+category: quant_concept
+description: Explore the critical roles of credit rating agencies and algorithmic
+  trading in financial markets, highlighting their impact on investment strategies
+  and regulatory frameworks.
+title: Credit Rating Agencies (Algo Trading)
 ---
 
 Financial services, particularly those involving investments and trading, operate on a foundation rich with metrics and ratings designed to assess risks and returns. At the heart of this framework, credit rating agencies provide vital evaluations of creditworthiness, which are essential tools for both investors and regulators making informed decisions. These agencies assign ratings that encapsulate an entity's ability to meet its financial commitments, thus guiding investment choices by encapsulating complex risk assessments into comprehensible grades.

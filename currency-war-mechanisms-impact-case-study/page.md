@@ -1,6 +1,9 @@
 ---
-title: "Currency War: Mechanisms and Impact with Case Study (Algo Trading)"
-description: "Explore the complexities of currency wars influencing global finance, trade, and algorithmic trading, and understand their economic impacts and strategic responses."
+category: quant_concept
+description: Explore the complexities of currency wars influencing global finance,
+  trade, and algorithmic trading, and understand their economic impacts and strategic
+  responses.
+title: 'Currency War: Mechanisms and Impact with Case Study (Algo Trading)'
 ---
 
 In the intricate world of international finance, 'currency war' is a term used to describe competitive devaluations between countries aiming to boost their economic standing. Countries engage in currency devaluations as part of their economic strategies to gain a competitive edge over others. By lowering the value of their currency, nations make their exports cheaper and more attractive on international markets, potentially driving economic growth. However, these strategies often have a profound impact on global economic stability, trade, and financial strategies.
@@ -107,5 +110,4 @@ Looking forward, the formulation of future policies must reflect the insights ga
 
 [7]: International Monetary Fund. (2011). ["Assessing Reserve Adequacy."](https://www.imf.org/external/np/pp/eng/2011/021411b.pdf) 
 
-[8]: Taleb, N. N. (2010). ["The Black Swan: The Impact of the Highly Improbable."](https://www.jstor.org/stable/23045073) Random House Trade Paperbacks. 
-
+[8]: Taleb, N. N. (2010). ["The Black Swan: The Impact of the Highly Improbable."](https://www.jstor.org/stable/23045073) Random House Trade Paperbacks.

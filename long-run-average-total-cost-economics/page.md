@@ -1,6 +1,8 @@
 ---
-title: "Long-Run Average Total Cost in Economics (Algo Trading)"
-description: "Explore the role of long-run average total cost in algorithmic trading to understand cost efficiency and resource optimization for sustainable market advantage."
+category: quant_concept
+description: Explore the role of long-run average total cost in algorithmic trading
+  to understand cost efficiency and resource optimization for sustainable market advantage.
+title: Long-Run Average Total Cost in Economics (Algo Trading)
 ---
 
 The concept of long-run average total cost (LRATC) is an essential aspect of economic analysis, particularly within industrial organization and business operations. LRATC refers to the per-unit cost incurred by a firm when all inputs are variable, which contrasts with the short-run period where at least one factor of production is fixed. The analysis of LRATC allows economists and business analysts to understand how firms can optimize resource use and achieve efficiencies over time. This concept is pivotal in determining the scale at which a firm should operate to minimize costs and maximize profitability, helping to outline the benefits of economies of scale.

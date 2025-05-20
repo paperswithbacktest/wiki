@@ -1,6 +1,8 @@
 ---
-title: "Investment Farm (Algo Trading)"
-description: "Discover the benefits of diversifying your portfolio with investment farming and algorithmic trading in agriculture. Learn strategies for stable growth."
+category: trading_strategy
+description: Discover the benefits of diversifying your portfolio with investment
+  farming and algorithmic trading in agriculture. Learn strategies for stable growth.
+title: Investment Farm (Algo Trading)
 ---
 
 In today's evolving financial landscape, diversification is key to building a resilient investment portfolio. Traditional investment vehicles, such as stocks and bonds, often experience volatility driven by market dynamics and economic uncertainties. To mitigate these vulnerabilities, investors are increasingly turning to alternative strategies that offer appealing opportunities for stability and growth. This article brings into focus two such investment paths: agricultural investment through investment farming and the sophisticated world of algorithmic trading.
@@ -141,5 +143,4 @@ The key to success in these innovative financial sectors lies in risk management
 
 [7]: White, T. A., & Thomé, K. M. (2020). ["Agricultural Commodity Market Integration in the Americas: Anticipation and Impacts of Energy Markets."](https://www.nature.com/articles/s41598-024-81905-x) Food Policy.
 
-[8]: ["Agricultural Policy Monitoring and Evaluation 2021"] (https://www.oecd.org/en/publications/agricultural-policy-monitoring-and-evaluation-2021_2d810e01-en.html) by OECD 
-
+[8]: ["Agricultural Policy Monitoring and Evaluation 2021"] (https://www.oecd.org/en/publications/agricultural-policy-monitoring-and-evaluation-2021_2d810e01-en.html) by OECD

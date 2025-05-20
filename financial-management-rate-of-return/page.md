@@ -1,6 +1,9 @@
 ---
-title: "Financial Management Rate of Return (Algo Trading)"
-description: "Discover how the Financial Management Rate of Return (FMRR) enhances real estate investment analysis by considering cash flow durations and associated risks."
+category: quant_concept
+description: Discover how the Financial Management Rate of Return (FMRR) enhances
+  real estate investment analysis by considering cash flow durations and associated
+  risks.
+title: Financial Management Rate of Return (Algo Trading)
 ---
 
 The financial management rate of return (FMRR) is a sophisticated metric employed to evaluate the performance of real estate investments. Unlike traditional methods such as the Internal Rate of Return (IRR), FMRR accounts for the complexities of investment duration and the risks inherent in cash flow variations over time. This makes FMRR particularly useful for analyzing Real Estate Investment Trusts (REITs), where investments often come with varied cash flows and timelines.

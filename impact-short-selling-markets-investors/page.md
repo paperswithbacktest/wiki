@@ -1,6 +1,8 @@
 ---
-title: "Impact of Short Selling on Markets and Investors (Algo Trading)"
-description: "Explore the impact of short selling and algorithmic trading on markets Learn how these strategies influence price discovery liquidity and investor decisions"
+category: quant_concept
+description: Explore the impact of short selling and algorithmic trading on markets
+  Learn how these strategies influence price discovery liquidity and investor decisions
+title: Impact of Short Selling on Markets and Investors (Algo Trading)
 ---
 
 Financial markets represent a multifaceted ecosystem characterized by a wide array of strategies and tools that profoundly influence both individual investors and the broader market landscape. These markets operate as vital mechanisms for economic growth, allowing for the allocation of resources and the valuation of businesses. The performance and behaviors within these markets, however, are heavily influenced by the strategies employed by participating investors.

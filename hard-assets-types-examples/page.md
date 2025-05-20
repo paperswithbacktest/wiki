@@ -1,6 +1,8 @@
 ---
-title: "Hard Assets: Types and Examples (Algo Trading)"
-description: "Explore the significance of hard assets such as real estate and commodities in investment portfolios and how algorithmic trading enhances asset management."
+category: quant_concept
+description: Explore the significance of hard assets such as real estate and commodities
+  in investment portfolios and how algorithmic trading enhances asset management.
+title: 'Hard Assets: Types and Examples (Algo Trading)'
 ---
 
 In today's dynamic financial landscape, where markets are often characterized by volatility and complexity, a fundamental understanding of assets becomes an indispensable tool for investors. Assets, representing resources that hold economic value, are foundational to any financial strategy. This piece aims to examine the various types of assets available to investors, with a specific emphasis on hard assets and their significance in contemporary finance.

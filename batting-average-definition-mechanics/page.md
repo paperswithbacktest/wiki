@@ -1,6 +1,9 @@
 ---
-title: "Batting Average: Definition and Mechanics (Algo Trading)"
-description: "Explore the intersection of baseball statistics and algorithmic trading to discover how data-driven methods like batting averages can enhance decision-making strategies."
+category: quant_concept
+description: Explore the intersection of baseball statistics and algorithmic trading
+  to discover how data-driven methods like batting averages can enhance decision-making
+  strategies.
+title: 'Batting Average: Definition and Mechanics (Algo Trading)'
 ---
 
 The intersection of baseball statistics and algorithmic trading offers intriguing insights into how data-driven methods enhance decision-making in both fields. Baseball, a sport deeply rooted in statistical analysis, utilizes a range of metrics to measure a player's performance, with one of the most fundamental being the batting average. This metric, calculated as the number of hits divided by at-bats, serves as a basic indicator of a player's effectiveness at the plate.

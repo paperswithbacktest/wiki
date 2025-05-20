@@ -1,6 +1,8 @@
 ---
-title: "Benefits of Plain Vanilla Bonds (Algo Trading)"
-description: "Explore the benefits of plain vanilla bonds and their role in secure investing. Learn how algorithmic trading optimizes bond portfolios for better returns."
+category: quant_concept
+description: Explore the benefits of plain vanilla bonds and their role in secure
+  investing. Learn how algorithmic trading optimizes bond portfolios for better returns.
+title: Benefits of Plain Vanilla Bonds (Algo Trading)
 ---
 
 Plain vanilla bonds represent the most straightforward form of fixed-income securities in the investment landscape. These conventional bonds are characterized by their simplicity, with a fixed coupon rate and a defined maturity date, allowing investors to anticipate cash flows with clarity. Unlike more complex financial instruments, plain vanilla bonds do not include attributes such as adjustable interest rates, embedded options, or conversion features that could create uncertainties or unexpected changes in value.

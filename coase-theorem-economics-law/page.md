@@ -1,6 +1,8 @@
 ---
-title: "Coase Theorem in Economics and Law (Algo Trading)"
-description: "Explore the influence of the Coase Theorem on law, economics, and algo trading Learn how transaction costs shape market dynamics and efficiency."
+category: quant_concept
+description: Explore the influence of the Coase Theorem on law, economics, and algo
+  trading Learn how transaction costs shape market dynamics and efficiency.
+title: Coase Theorem in Economics and Law (Algo Trading)
 ---
 
 In the intricate world of economics and law, the Coase Theorem stands out as a pivotal principle. Introduced by Ronald Coase, this theorem emphasizes the influence of property rights and transaction costs on economic outcomes. The essence of the theorem lies in the assertion that if property rights are well-defined and transaction costs are negligible, parties can negotiate solutions to resource allocation problems in a manner that maximizes overall economic efficiency, irrespective of the initial distribution of these rights. 

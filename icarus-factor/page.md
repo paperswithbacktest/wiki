@@ -1,6 +1,8 @@
 ---
-title: "Icarus Factor (Algo Trading)"
-description: "Explore the intersection of algorithmic trading and psychology with the Icarus Factor. Discover how ambition and biases impact trading strategies and decision-making."
+category: trading_strategy
+description: Explore the intersection of algorithmic trading and psychology with the
+  Icarus Factor. Discover how ambition and biases impact trading strategies and decision-making.
+title: Icarus Factor (Algo Trading)
 ---
 
 In the convergence of literature, psychology, and algorithmic trading, the Icarus Factor serves as a poignant metaphor for ambition and its risks. The term, derived from the Greek myth of Icarus, symbolizes the dangers of overambition and hubris. In the myth, Icarus, despite warnings, flew too close to the sun, causing his wings to melt and leading to his fall. This narrative resonates strongly in modern business ventures, where unchecked ambition can similarly lead to downfall.

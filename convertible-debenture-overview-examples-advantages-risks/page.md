@@ -1,6 +1,8 @@
 ---
-title: "Convertible Debenture: Overview, Examples, Advantages, and Risks (Algo Trading)"
-description: "Discover the benefits and risks of convertible debentures and algorithmic trading Get insights into these financial instruments for informed investing decisions"
+category: quant_concept
+description: Discover the benefits and risks of convertible debentures and algorithmic
+  trading Get insights into these financial instruments for informed investing decisions
+title: 'Convertible Debenture: Overview, Examples, Advantages, and Risks (Algo Trading)'
 ---
 
 Investing in financial instruments inevitably involves various risks that can significantly impact an investor's portfolio. Understanding these risks is essential for making informed decisions and mitigating potential losses. This article explores two specific types of investing risks: those associated with convertible debentures and algorithmic trading. These are complex financial instruments, each presenting unique challenges and opportunities for investors.

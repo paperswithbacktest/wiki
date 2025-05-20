@@ -1,6 +1,8 @@
 ---
-title: "Double No-Touch Option (Algo Trading)"
-description: "Explore double no-touch options in algorithmic trading, focusing on their unique payoff, low volatility advantage, and how algorithms enhance trading efficiency."
+category: quant_concept
+description: Explore double no-touch options in algorithmic trading, focusing on their
+  unique payoff, low volatility advantage, and how algorithms enhance trading efficiency.
+title: Double No-Touch Option (Algo Trading)
 ---
 
 Financial derivatives, like options and futures, are indispensable instruments in modern trading. They serve multiple purposes, allowing investors to either speculate on future price movements or hedge against potential losses related to underlying assets. These instruments derive their value from underlying entities such as stocks, currencies, or commodities, making them versatile tools in a trader's arsenal.

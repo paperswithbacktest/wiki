@@ -1,6 +1,9 @@
 ---
-title: "Forex Account Overview and Functionality (Algo Trading)"
-description: "Explore the synergy between forex trading and algorithmic trading Learn how technology-driven strategies optimize forex participation and enhance trading efficiency"
+category: quant_concept
+description: Explore the synergy between forex trading and algorithmic trading Learn
+  how technology-driven strategies optimize forex participation and enhance trading
+  efficiency
+title: Forex Account Overview and Functionality (Algo Trading)
 ---
 
 Forex trading, or foreign exchange trading, involves the buying and selling of currencies in the global financial market. As the largest and most liquid financial market, the forex market plays a crucial role in the international economy by facilitating cross-border exchange and investment, affecting global trade and finance. The daily turnover in this market exceeds $6 trillion, involving a diverse group of participants, including governments, central banks, financial institutions, corporations, and individual traders.

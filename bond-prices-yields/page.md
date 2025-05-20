@@ -1,6 +1,8 @@
 ---
-title: "Bond Prices and Yields (Algo Trading)"
-description: "Explore bond prices and yields essential for navigating the financial market with algorithmic trading shaping modern investment strategies enhancing efficiency."
+category: quant_concept
+description: Explore bond prices and yields essential for navigating the financial
+  market with algorithmic trading shaping modern investment strategies enhancing efficiency.
+title: Bond Prices and Yields (Algo Trading)
 ---
 
 Bonds are a foundational component of the global investment landscape, offering a wide array of opportunities for diversification and income generation. As fixed-income securities, bonds are essentially loans made by investors to entities such as governments or corporations, which use the capital for various projects or operations. In return, bondholders receive periodic interest payments, known as coupons, along with the repayment of the bond's principal upon maturity.

@@ -1,9 +1,14 @@
 ---
-title: "Global Macro Strategy (Algo Trading)"
-description: Algorithmic trading, which leverages mathematical models and advanced computer algorithms, is revolutionizing how global macro strategies are implemented. This article explores the intersection of these two powerful approaches—using fast, precise algo trading to exploit opportunities identified by broader global economic trends. From moving averages and momentum indicators to real-world examples, we deep dive into how this hybrid approach enhances trading across markets like stocks, bonds, currencies, and commodities.
+category: trading_strategy
+description: Algorithmic trading, which leverages mathematical models and advanced
+  computer algorithms, is revolutionizing how global macro strategies are implemented.
+  This article explores the intersection of these two powerful approaches—using fast,
+  precise algo trading to exploit opportunities identified by broader global economic
+  trends. From moving averages and momentum indicators to real-world examples, we
+  deep dive into how this hybrid approach enhances trading across markets like stocks,
+  bonds, currencies, and commodities.
+title: Global Macro Strategy (Algo Trading)
 ---
-
-
 
 Algorithmic trading uses mathematical models and computer algorithms to execute trades much faster and more accurately than humans. It's designed to quickly take advantage of short-lived market opportunities. Global macro strategies, on the other hand, focus on opportunities created by global economic changes. They invest in different markets like stocks, bonds, currencies, and commodities.
 

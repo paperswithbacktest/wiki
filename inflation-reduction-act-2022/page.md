@@ -1,6 +1,8 @@
 ---
-title: "Inflation Reduction Act, 2022 (Algo Trading)"
-description: "Explore how the Inflation Reduction Act of 2022 impacts algorithmic trading with a focus on fiscal policy changes, market volatility, and trading strategies."
+category: quant_concept
+description: Explore how the Inflation Reduction Act of 2022 impacts algorithmic trading
+  with a focus on fiscal policy changes, market volatility, and trading strategies.
+title: Inflation Reduction Act, 2022 (Algo Trading)
 ---
 
 The Inflation Reduction Act of 2022 represents a pivotal legislative initiative aimed at addressing critical economic challenges facing the United States. Enacted by President Joe Biden on August 16, 2022, this Act introduces foundational changes spanning energy, healthcare, and tax policy sectors. Its principal objectives are to reduce the federal deficit and mitigate inflationary pressures that have been of significant concern to policymakers and economic stakeholders alike.

@@ -1,6 +1,8 @@
 ---
-title: "SEC Suspended Trading: Reasons and Examples (Algo Trading)"
-description: "Explore the reasons behind SEC trading halts and suspensions, examining their impact on market integrity and investor protection, especially in algo trading."
+category: quant_concept
+description: Explore the reasons behind SEC trading halts and suspensions, examining
+  their impact on market integrity and investor protection, especially in algo trading.
+title: 'SEC Suspended Trading: Reasons and Examples (Algo Trading)'
 ---
 
 In the fast-paced world of trading, market participants depend on the seamless flow of data to make informed decisions. The continuous availability of market information is crucial, enabling traders to respond swiftly to price movements and news announcements. However, there are instances when trading is paused or halted, particularly during interventions by regulatory bodies such as the U.S. Securities and Exchange Commission (SEC).

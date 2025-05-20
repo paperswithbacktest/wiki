@@ -1,6 +1,9 @@
 ---
-title: "Application of the Howey Test to Cryptocurrencies (Algo Trading)"
-description: "Discover how the Howey Test applies to cryptocurrencies and its crucial role in determining digital asset classification impacting algorithmic trading and regulation."
+category: quant_concept
+description: Discover how the Howey Test applies to cryptocurrencies and its crucial
+  role in determining digital asset classification impacting algorithmic trading and
+  regulation.
+title: Application of the Howey Test to Cryptocurrencies (Algo Trading)
 ---
 
 The cryptocurrency industry has witnessed rapid growth, leading to heightened attention from regulatory bodies worldwide. At the core of cryptocurrency regulation is the Howey Test, a legal criterion employed to determine whether a particular crypto asset should be classified as a security under U.S. law. Originating from a 1946 Supreme Court decision, this test evaluates an asset based on four primary criteria: an investment of money, an expectation of profits, a common enterprise, and reliance on the efforts of others.

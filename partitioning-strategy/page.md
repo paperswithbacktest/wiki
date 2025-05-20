@@ -1,7 +1,8 @@
 ---
-title: Data Partitioning Strategies for Reliable Machine Learning
+category: dataset
 description: Data partitioning strategies help machine learning models generalize
   by preventing overfitting and boosting evaluation accuracy. Discover more inside.
+title: Data Partitioning Strategies for Reliable Machine Learning
 ---
 
 ![Image](images/1.png)

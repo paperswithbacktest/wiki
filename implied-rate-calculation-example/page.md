@@ -1,6 +1,9 @@
 ---
-title: "Implied Rate Calculation and Example (Algo Trading)"
-description: "Explore the essential role of implied rate calculations in algorithmic trading revealing interest rates that align present asset values with future values for strategic insights."
+category: quant_concept
+description: Explore the essential role of implied rate calculations in algorithmic
+  trading revealing interest rates that align present asset values with future values
+  for strategic insights.
+title: Implied Rate Calculation and Example (Algo Trading)
 ---
 
 The concept of implied rates serves as a fundamental aspect of modern financial analysis, playing a crucial role in algorithmic trading and investment strategy. Implied rates represent the interest rate that equates the present value of an asset with its future value. This inferred interest rate is essential for making informed financial decisions, providing a computational bridge between current and anticipated market conditions.

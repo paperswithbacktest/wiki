@@ -1,6 +1,9 @@
 ---
-title: "Market Capitalization and Its Impact on Investors (Algo Trading)"
-description: "Explore how market capitalization and algorithmic trading impact investment strategies. Optimize portfolios by integrating these powerful techniques for better returns."
+category: quant_concept
+description: Explore how market capitalization and algorithmic trading impact investment
+  strategies. Optimize portfolios by integrating these powerful techniques for better
+  returns.
+title: Market Capitalization and Its Impact on Investors (Algo Trading)
 ---
 
 In the rapidly evolving landscape of the stock market, understanding the complex interplay of factors such as market capitalization and algorithmic trading is essential for modern investors. Market capitalization, commonly referred to as market cap, provides a snapshot of a company's size and potential influence in the market. By multiplying the current stock price by the total number of outstanding shares, investors gain insights into a company's market value, which assists in making informed decisions about potential investment risk and growth opportunities.

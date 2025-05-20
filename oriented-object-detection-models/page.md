@@ -1,7 +1,8 @@
 ---
-title: Oriented Object Detection and Applications in Aerial Imaging
+category: quant_concept
 description: Oriented object detection improves accuracy by pinpointing object locations
   and rotation angles in images for aerial analytics Discover more inside
+title: Oriented Object Detection and Applications in Aerial Imaging
 ---
 
 ![Image](images/1.jpeg)

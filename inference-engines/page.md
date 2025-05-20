@@ -1,7 +1,8 @@
 ---
-title: Machine Learning Inference Engines Optimized for Mobile Devices
+category: quant_concept
 description: Inference engine optimization for mobile uses model compression quantization
   and hardware acceleration to deliver fast results Discover more inside
+title: Machine Learning Inference Engines Optimized for Mobile Devices
 ---
 
 ![Image](images/1.jpeg)

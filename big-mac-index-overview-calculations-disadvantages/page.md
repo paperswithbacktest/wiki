@@ -1,6 +1,8 @@
 ---
-title: "Big Mac Index: Overview, Calculations, and Disadvantages (Algo Trading)"
-description: "Explore the Big Mac Index to understand purchasing power parity and currency valuation. Learn its impact on trading strategies and unveil its inherent limitations."
+category: quant_concept
+description: Explore the Big Mac Index to understand purchasing power parity and currency
+  valuation. Learn its impact on trading strategies and unveil its inherent limitations.
+title: 'Big Mac Index: Overview, Calculations, and Disadvantages (Algo Trading)'
 ---
 
 The global financial landscape is richly intricate, with currency valuations playing a pivotal role in shaping economic outcomes. These valuations influence the decisions of traders, investors, and policymakers alike. Among the tools used to gauge currency valuation is the Big Mac Index, a novel concept introduced by The Economist in 1986. This index serves as an informal gauge of purchasing power parity (PPP), using the cost of a Big Mac hamburger as a standard measure across various currencies. 

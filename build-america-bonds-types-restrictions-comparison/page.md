@@ -1,6 +1,10 @@
 ---
-title: "Build America Bonds: Types, Restrictions, and Comparison with Other Bonds (Algo Trading)"
-description: "Explore the significance of Build America Bonds (BABs) including their types restrictions and comparison with other bonds in the context of algorithmic trading strategies."
+category: quant_concept
+description: Explore the significance of Build America Bonds (BABs) including their
+  types restrictions and comparison with other bonds in the context of algorithmic
+  trading strategies.
+title: 'Build America Bonds: Types, Restrictions, and Comparison with Other Bonds
+  (Algo Trading)'
 ---
 
 Bonds are pivotal financial instruments in investment, facilitating the mobilization of capital for various entities, from governments to corporations. Of particular interest is the Build America Bonds (BABs) program, a novel type of municipal bond structure. These bonds, introduced through the American Recovery and Reinvestment Act of 2009, played a crucial role during a period marked by economic uncertainty. Designed primarily to spur economic activity post the 2008 financial crisis, BABs distinguished themselves by offering federal tax incentives, either as credits or subsidies, thereby reducing borrowing costs for local governments and helping finance critical infrastructure projects.

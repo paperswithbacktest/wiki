@@ -1,6 +1,10 @@
 ---
-title: "Ghanaian Cedi: Significance, Functionality, and Influencing Factors (Algo Trading)"
-description: "Explore the dynamic world of algorithmic trading with a focus on the Ghanaian Cedi Discover economic factors affecting GHS and optimize your trading strategies"
+category: quant_concept
+description: Explore the dynamic world of algorithmic trading with a focus on the
+  Ghanaian Cedi Discover economic factors affecting GHS and optimize your trading
+  strategies
+title: 'Ghanaian Cedi: Significance, Functionality, and Influencing Factors (Algo
+  Trading)'
 ---
 
 Automated trading, commonly known as algorithmic trading or algo trading, is a method of executing trades using pre-programmed strategies designed to leverage computational power for making swift investment decisions. The essence of algorithmic trading lies in its ability to parse through vast quantities of data, capitalize on market inefficiencies, and execute transactions at speeds impossible for human traders. Given these attributes, it becomes evident how algorithmic strategies can provide a significant edge in volatile and intricate financial markets.

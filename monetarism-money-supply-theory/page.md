@@ -1,6 +1,11 @@
 ---
-title: "Monetarism and Money Supply Theory (Algo Trading)"
-description: "Discover the intricate relationship between monetarism and algorithmic trading, where economic theory meets cutting-edge technology. This article investigates into how these concepts shape financial markets and influence economic policy. Explore the effects of money supply control and technological advances on modern economic landscapes, gaining insights into factors driving financial markets today."
+category: quant_concept
+description: Discover the intricate relationship between monetarism and algorithmic
+  trading, where economic theory meets cutting-edge technology. This article investigates
+  into how these concepts shape financial markets and influence economic policy. Explore
+  the effects of money supply control and technological advances on modern economic
+  landscapes, gaining insights into factors driving financial markets today.
+title: Monetarism and Money Supply Theory (Algo Trading)
 ---
 
 The interplay between economic theories and modern financial practices can significantly shape financial markets and economic policies. Monetarism, a prominent economic theory, focuses on the control of the money supply as a means to influence economic stability and growth. It posits that variations in the money supply have far-reaching impacts on national economies, directly affecting inflation rates and economic output. This theoretical framework continues to be pivotal in formulating central bank policies around the world, with many monetary authorities designing strategies based on the principles of monetarism to foster stable economic growth and prevent hyperinflation.

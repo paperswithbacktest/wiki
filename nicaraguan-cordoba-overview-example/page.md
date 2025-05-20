@@ -1,6 +1,8 @@
 ---
-title: "Nicaraguan Córdoba: Overview and Example (Algo Trading)"
-description: "Explore the Nicaraguan Córdoba's role in forex and algorithmic trading to unlock unique investment opportunities and strategies in the global market."
+category: trading_strategy
+description: Explore the Nicaraguan Córdoba's role in forex and algorithmic trading
+  to unlock unique investment opportunities and strategies in the global market.
+title: 'Nicaraguan Córdoba: Overview and Example (Algo Trading)'
 ---
 
 The Nicaraguan Córdoba (NIO) is the official currency of Nicaragua, playing a pivotal role in the country's economic landscape. As traders and investors worldwide seek diverse currency options, the Córdoba's presence in forex markets presents unique opportunities despite its relatively modest global standing. This article examines the Córdoba's characteristics, historical evolution, and trading strategies, with a particular emphasis on its role in both traditional forex trading and modern algorithmic trading.

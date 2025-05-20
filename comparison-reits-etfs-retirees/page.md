@@ -1,6 +1,8 @@
 ---
-title: "Comparison of REITs and ETFs for Retirees (Algo Trading)"
-description: "Explore the benefits and challenges of REITs, ETFs, and algorithmic trading for retirees, helping you make informed investment decisions for financial stability."
+category: trading_strategy
+description: Explore the benefits and challenges of REITs, ETFs, and algorithmic trading
+  for retirees, helping you make informed investment decisions for financial stability.
+title: Comparison of REITs and ETFs for Retirees (Algo Trading)
 ---
 
 In the ever-evolving landscape of retirement planning, making the right investment choices is crucial for securing financial stability in your golden years. The choices you make today will significantly influence your financial health in retirement, given the uncertainty of future market conditions and longevity of life post-retirement. Balancing returns with risks is an essential part of this strategy.

@@ -1,6 +1,8 @@
 ---
-title: "ICAP (Global Professional Services Provider) (Algo Trading)"
-description: "Discover the evolution of ICAP into NEX Group, focusing on electronic and algorithmic trading innovations shaping the financial services landscape globally."
+category: quant_concept
+description: Discover the evolution of ICAP into NEX Group, focusing on electronic
+  and algorithmic trading innovations shaping the financial services landscape globally.
+title: ICAP (Global Professional Services Provider) (Algo Trading)
 ---
 
 The financial services sector is continuously undergoing transformation, and algorithmic trading has emerged as a crucial component of this change. This article examines the impact and role of ICAP, a prominent financial services brokerage, in algorithmic trading. Historically, ICAP was the largest interdealer broker worldwide, playing a significant role in facilitating over-the-counter (OTC) trading across a diverse spectrum of financial instruments. These include interest rate swaps, exotic options, and foreign exchange, which underpin the global financial infrastructure.

@@ -1,6 +1,12 @@
 ---
-title: "Multilateral Trading Facilities (Algo Trading)"
-description: "Explore the dynamic intersection of multilateral trading facilities and algorithmic trading as they redefine market access and trading efficiency. Discover how these innovative platforms foster competition, transparency, and speed, allowing increased opportunities across diverse asset classes. Leverage insights on the benefits and challenges of modern trading to optimize your strategies in an evolving financial landscape."
+category: quant_concept
+description: Explore the dynamic intersection of multilateral trading facilities and
+  algorithmic trading as they redefine market access and trading efficiency. Discover
+  how these innovative platforms foster competition, transparency, and speed, allowing
+  increased opportunities across diverse asset classes. Leverage insights on the benefits
+  and challenges of modern trading to optimize your strategies in an evolving financial
+  landscape.
+title: Multilateral Trading Facilities (Algo Trading)
 ---
 
 The financial markets have undergone significant transformation over the years, providing traders with a multitude of opportunities across diverse platforms. With the advent of advanced technology and the globalization of financial markets, new trading modalities have emerged, presenting both opportunities and challenges to market participants. This article examines the interplay between financial markets trading facilities, multilateral trading, and algorithmic trading, highlighting how these elements collaborate to enhance trading efficiency and accessibility.

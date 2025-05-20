@@ -1,6 +1,8 @@
 ---
-title: "Peak and Trough Analysis (Algo Trading)"
-description: "Peak-and-trough analysis is essential in algorithmic trading for detecting market trends aiding in more accurate trading decisions by identifying price patterns."
+category: trading_strategy
+description: Peak-and-trough analysis is essential in algorithmic trading for detecting
+  market trends aiding in more accurate trading decisions by identifying price patterns.
+title: Peak and Trough Analysis (Algo Trading)
 ---
 
 Peak-and-trough analysis is a fundamental tool in financial markets, used to identify and anticipate market trends and movements. This method looks at price movements and distinguishes between peaks (high points) and troughs (low points). By examining the succession of these peaks and troughs over time, traders and analysts can infer whether a market is trending upward, downward, or moving sideways in a range-bound market.

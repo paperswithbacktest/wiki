@@ -1,6 +1,11 @@
 ---
-title: "Kraken API Guide (Algo Trading)"
-description: Discover the comprehensive Kraken API Guide for algorithmic trading, designed to help traders and developers harness advanced tools for optimized trading strategies in cryptocurrency markets. Learn how to leverage Kraken's robust API to enhance performance and capitalize on market opportunities, all within a secure and compliant trading environment.
+category: dataset
+description: Discover the comprehensive Kraken API Guide for algorithmic trading,
+  designed to help traders and developers harness advanced tools for optimized trading
+  strategies in cryptocurrency markets. Learn how to leverage Kraken's robust API
+  to enhance performance and capitalize on market opportunities, all within a secure
+  and compliant trading environment.
+title: Kraken API Guide (Algo Trading)
 ---
 
 Algorithmic trading has become a fundamental component of modern financial markets, characterized by the use of computer algorithms to execute orders swiftly and efficiently. This method leverages the computational power and precision of algorithms to outperform manual trading, navigating complex markets with high-frequency strategies. As cryptocurrency markets have gained prominence, the application of algorithmic trading in this domain has also seen significant growth, driven by the market's volatility and opportunities for profit.

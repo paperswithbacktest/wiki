@@ -1,6 +1,8 @@
 ---
-title: "Strategic Asset Allocation (Algo Trading)"
-description: "Explore strategic asset allocation and algorithmic trading to optimize portfolio performance. Learn how AI enhances investment strategies and risk management."
+category: trading_strategy
+description: Explore strategic asset allocation and algorithmic trading to optimize
+  portfolio performance. Learn how AI enhances investment strategies and risk management.
+title: Strategic Asset Allocation (Algo Trading)
 ---
 
 In today's rapidly evolving financial markets, the complexity of portfolio management and the necessity for informed investment strategies have become more crucial than ever before. Investors and asset managers are continuously seeking methods to enhance returns while effectively managing risk, leading to the development of sophisticated tools and strategies. Asset allocation and algorithmic trading stand out as two pivotal components employed to optimize portfolio performance and achieve financial goals.

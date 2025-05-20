@@ -1,6 +1,14 @@
 ---
-title: "Bid-Ask Spread Overview (Algo Trading)"
-description: "This page provides an essential overview of the bid-ask spread within financial markets and its significant role in algorithmic trading. It explains how the bid-ask spread, which is the price difference between what buyers are willing to pay and what sellers accept, impacts market liquidity and trading efficiency. The article explores how algorithmic trading leverages advanced algorithms to optimize this spread, enhancing trading precision and market operations. By delving into the nuances of bid-ask spreads and the influence of tech innovations, traders can strategically navigate modern trading environments for better trading performance."
+category: quant_concept
+description: This page provides an essential overview of the bid-ask spread within
+  financial markets and its significant role in algorithmic trading. It explains how
+  the bid-ask spread, which is the price difference between what buyers are willing
+  to pay and what sellers accept, impacts market liquidity and trading efficiency.
+  The article explores how algorithmic trading leverages advanced algorithms to optimize
+  this spread, enhancing trading precision and market operations. By delving into
+  the nuances of bid-ask spreads and the influence of tech innovations, traders can
+  strategically navigate modern trading environments for better trading performance.
+title: Bid-Ask Spread Overview (Algo Trading)
 ---
 
 Financial markets operate as intricate ecosystems where a myriad of factors converge to shape trading dynamics. Within these markets, the bid-ask spread is a critical component, representing the difference in price between the highest amount a buyer is willing to pay (the bid) and the lowest figure a seller is prepared to accept (the ask). This spread is significant as it directly influences market liquidity, an essential attribute for both retail and institutional traders. A narrow bid-ask spread typically indicates a liquid market, where assets can be bought or sold with minimal price impact, whereas a wider spread often suggests lower liquidity and higher transaction costs.

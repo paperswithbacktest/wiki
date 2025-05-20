@@ -1,6 +1,9 @@
 ---
-title: "Investor Roles and Types (Algo Trading)"
-description: "Explore the different types of investors and their roles in financial markets with a focus on how algorithmic trading is transforming investment strategies today."
+category: quant_concept
+description: Explore the different types of investors and their roles in financial
+  markets with a focus on how algorithmic trading is transforming investment strategies
+  today.
+title: Investor Roles and Types (Algo Trading)
 ---
 
 Understanding the dynamics of investing is crucial for anyone looking to maximize returns and secure financial independence. Investors today face a complex landscape shaped by evolving financial markets, technological advancements, and diverse investment opportunities. Identifying and leveraging the right investment strategies is paramount to achieving financial goals.

@@ -1,6 +1,11 @@
 ---
-title: "Rental Property Depreciation Calculation (Algo Trading)"
-description: "Learn how rental property depreciation can effectively reduce taxable income and enhance investment strategies. Discover the significance of depreciation in real estate, its tax benefits, and explore how it synergizes with algorithmic trading methods. Understand key concepts and calculations, including MACRS, to maximize financial efficiency and improve long-term investment profitability."
+category: quant_concept
+description: Learn how rental property depreciation can effectively reduce taxable
+  income and enhance investment strategies. Discover the significance of depreciation
+  in real estate, its tax benefits, and explore how it synergizes with algorithmic
+  trading methods. Understand key concepts and calculations, including MACRS, to maximize
+  financial efficiency and improve long-term investment profitability.
+title: Rental Property Depreciation Calculation (Algo Trading)
 ---
 
 Rental property depreciation is a strategic tool that enables owners to reduce their taxable income, thereby enhancing the financial viability and long-term success of their investments. By allowing property owners to deduct the depreciation of the property over time, this non-cash tax deduction acknowledges the gradual decrease in property value due to factors such as wear and tear. Understanding the intricacies of depreciation and how it applies to rental properties is essential for optimizing a real estate investment strategy.

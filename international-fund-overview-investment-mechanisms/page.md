@@ -1,6 +1,9 @@
 ---
-title: "International Fund: Overview and Investment Mechanisms (Algo Trading)"
-description: "Explore the evolving landscape of international funds and investment mechanisms including mutual funds and algorithmic trading for optimal portfolio management."
+category: trading_strategy
+description: Explore the evolving landscape of international funds and investment
+  mechanisms including mutual funds and algorithmic trading for optimal portfolio
+  management.
+title: 'International Fund: Overview and Investment Mechanisms (Algo Trading)'
 ---
 
 The financial landscape is evolving at an unprecedented pace, largely driven by technological advancements and innovative investment strategies. Three key pillars have emerged as fundamental components of modern portfolio management: mutual funds, investment strategies, and algorithmic trading. Each plays a distinct role in enhancing investment outcomes, offering unique advantages and posing specific challenges.

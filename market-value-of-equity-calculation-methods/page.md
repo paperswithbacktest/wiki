@@ -1,6 +1,8 @@
 ---
-title: "Market Value of Equity and Calculation Methods (Algo Trading)"
-description: "Explore how market value of equity and algorithmic trading impact modern investment strategies, providing insights into equity valuation and financial metrics."
+category: quant_concept
+description: Explore how market value of equity and algorithmic trading impact modern
+  investment strategies, providing insights into equity valuation and financial metrics.
+title: Market Value of Equity and Calculation Methods (Algo Trading)
 ---
 
 In the ever-evolving world of finance, the importance of understanding the fundamental aspects of equity valuation, financial metrics, and market value cannot be overstated. These elements play a crucial role in assessing a company's financial health, determining its market position, and ultimately influencing investment decisions. Equity valuation provides a framework for investors to assess company worth by examining metrics like market capitalization, enterprise value, and book value.

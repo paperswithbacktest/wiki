@@ -1,6 +1,9 @@
 ---
-title: "Futures Commission Merchant: Role and Registration (Algo Trading)"
-description: "Explore the evolving role of Futures Commission Merchants in algorithmic trading Learn how they drive innovation, ensure compliance, and safeguard market integrity"
+category: quant_concept
+description: Explore the evolving role of Futures Commission Merchants in algorithmic
+  trading Learn how they drive innovation, ensure compliance, and safeguard market
+  integrity
+title: 'Futures Commission Merchant: Role and Registration (Algo Trading)'
 ---
 
 In today’s financial landscape, the convergence of technology and financial regulation is reshaping the dynamics of global markets. Futures Commission Merchants (FCMs) are pivotal entities within this transformation, serving as key intermediaries in the financial trading ecosystem. These organizations not only ensure compliance with stringent regulatory frameworks but also drive innovation in the highly competitive futures market.

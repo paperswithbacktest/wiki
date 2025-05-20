@@ -1,6 +1,9 @@
 ---
-title: "Capitalized Interest (Algo Trading)"
-description: "Explore the intricate world of finance, focusing on capitalized interest and algorithmic trading, and learn their impact on financial planning and asset management."
+category: quant_concept
+description: Explore the intricate world of finance, focusing on capitalized interest
+  and algorithmic trading, and learn their impact on financial planning and asset
+  management.
+title: Capitalized Interest (Algo Trading)
 ---
 
 The finance world is intricate, presenting a tapestry of concepts and strategies that intersect in numerous ways. At its core, financial planning and accounting incorporate sophisticated elements such as capitalized interest and amortization. These components are essential for accurately reflecting a company’s financial health and strategic direction on financial statements. Capitalized interest allows firms to include the interest on borrowed funds for long-term assets as part of the asset's recorded value, rather than expensing it immediately. This approach aligns with accounting standards like GAAP (Generally Accepted Accounting Principles), which emphasize matching costs with the revenues they generate. Understanding such concepts is vital for proper financial statement management and the long-term maintenance of asset value on balance sheets. 
@@ -184,4 +187,3 @@ To deepen understanding of the financial concepts discussed, the following resou
 6. **IRS Publications on Interest Deduction and Amortization** - For U.S. taxation specifics, the Internal Revenue Service provides guidelines and publications that clarify interest deduction rules and the amortization of loans. Their official website is valuable for accountants and finance professionals navigating tax implications: [IRS Website](https://www.irs.gov).
 
 By exploring these resources, readers can develop a profound understanding of these complex financial topics and apply this knowledge effectively in their professional pursuits.
-

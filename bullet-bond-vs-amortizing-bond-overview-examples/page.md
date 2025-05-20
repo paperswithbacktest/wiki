@@ -1,6 +1,8 @@
 ---
-title: "Bullet Bond Versus Amortizing Bond: Overview and Examples (Algo Trading)"
-description: "Explore the differences between bullet and amortizing bonds and learn how algorithmic trading influences bond investments for balanced portfolios."
+category: quant_concept
+description: Explore the differences between bullet and amortizing bonds and learn
+  how algorithmic trading influences bond investments for balanced portfolios.
+title: 'Bullet Bond Versus Amortizing Bond: Overview and Examples (Algo Trading)'
 ---
 
 Bond investments play a crucial role in diversifying portfolios and ensuring steady income for investors. These financial instruments are essential for both individual and institutional portfolios as they offer varying levels of risk and return to suit different investment strategies. Bonds essentially represent a loan made by an investor to a borrower, typically corporate or governmental entities, with a predetermined interest rate and maturity date.

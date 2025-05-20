@@ -1,9 +1,13 @@
 ---
-title: "Day Trading Options (Algo Trading)"
-description: "Learn about day trading options in the context of algo trading. Discover how options offer unique opportunities for significant returns through leverage and the risks involved. Understand the basics of options, including calls, puts, and the role of Greeks like Delta, Theta, Vega, and Gamma. Unveil the importance of volatility in option pricing and its two types: Implied Volatility and Historical Volatility."
+category: trading_strategy
+description: 'Learn about day trading options in the context of algo trading. Discover
+  how options offer unique opportunities for significant returns through leverage
+  and the risks involved. Understand the basics of options, including calls, puts,
+  and the role of Greeks like Delta, Theta, Vega, and Gamma. Unveil the importance
+  of volatility in option pricing and its two types: Implied Volatility and Historical
+  Volatility.'
+title: Day Trading Options (Algo Trading)
 ---
-
-
 
 Day trading involves executing trades within a single trading day, ensuring positions are closed before the market shuts. Within this realm, the options market offers unique opportunities. Unlike traditional stocks or bonds, options are financial derivatives, granting traders the right, but not the obligation, to buy or sell an underlying asset at a predetermined price before a specific date. The allure of options stems from their ability to harness significant returns through leverage, even with minimal price movements in the underlying asset.
 

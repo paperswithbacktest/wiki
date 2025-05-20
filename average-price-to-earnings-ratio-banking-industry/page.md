@@ -1,6 +1,8 @@
 ---
-title: "Average Price-to-Earnings Ratio in the Banking Industry (Algo Trading)"
-description: "Explore the banking sector's average P/E ratios in the context of algorithmic trading enhancing informed investment decisions through financial insights."
+category: quant_concept
+description: Explore the banking sector's average P/E ratios in the context of algorithmic
+  trading enhancing informed investment decisions through financial insights.
+title: Average Price-to-Earnings Ratio in the Banking Industry (Algo Trading)
 ---
 
 The banking sector is a cornerstone of the global economy, serving a multitude of pivotal roles including the management of financial services, facilitation of investments, and comprehensive risk management. Central to understanding and evaluating the sector's performance and financial health is the use of financial metrics, with the price-to-earnings (P/E) ratio standing out as a quintessential indicator. The P/E ratio, calculated as the market price per share divided by the earnings per share, offers an immediate sense of how a company's earnings are valued by the market. This metric aids investors in making informed decisions about the relative value of a company's stock, particularly within the banking sector.

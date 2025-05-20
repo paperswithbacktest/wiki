@@ -1,6 +1,9 @@
 ---
-title: "Dividend Discount Model: Formula, Variations, and Limitations (Algo Trading)"
-description: "Explore the Dividend Discount Model to determine a stock's value based on future dividends Learn its formula variations and limitations in algorithmic trading"
+category: quant_concept
+description: Explore the Dividend Discount Model to determine a stock's value based
+  on future dividends Learn its formula variations and limitations in algorithmic
+  trading
+title: 'Dividend Discount Model: Formula, Variations, and Limitations (Algo Trading)'
 ---
 
 In today's rapidly evolving financial landscape, understanding investment valuation models is crucial for making informed decisions. These models aid investors in evaluating the intrinsic worth of securities, thereby facilitating better investment choices. One such model is the Dividend Discount Model (DDM), designed to determine the fair value of a stock based on anticipated dividend payments. This financial model is particularly useful for investors focused on dividend-paying stocks, as it considers the present value of future cash inflows from dividends.

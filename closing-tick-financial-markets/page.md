@@ -1,6 +1,9 @@
 ---
-title: "Closing Tick in Financial Markets (Algo Trading)"
-description: "Explore the importance of closing ticks in financial markets and their role in algorithmic trading Learn how traders utilize these indicators for strategic analysis"
+category: quant_concept
+description: Explore the importance of closing ticks in financial markets and their
+  role in algorithmic trading Learn how traders utilize these indicators for strategic
+  analysis
+title: Closing Tick in Financial Markets (Algo Trading)
 ---
 
 In financial markets, the closing tick represents the final price movement recorded for a security during a trading session. This movement is critical as it indicates the market sentiment at the close of a trading day. It serves as a barometer for market participants, reflecting the buyer-seller balance in the final minutes of trading. Understanding the significance of the closing tick is crucial for traders who rely on these indicators to make informed buy or sell decisions and gauge overall market directions.

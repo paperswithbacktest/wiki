@@ -1,6 +1,9 @@
 ---
-title: "Australian Bureau of Statistics: Overview and Functionality (Algo Trading)"
-description: "Discover how the Australian Bureau of Statistics provides essential data for financial markets enabling the development of effective algorithmic trading strategies."
+category: dataset
+description: Discover how the Australian Bureau of Statistics provides essential data
+  for financial markets enabling the development of effective algorithmic trading
+  strategies.
+title: 'Australian Bureau of Statistics: Overview and Functionality (Algo Trading)'
 ---
 
 In an era dominated by data-driven decision-making, the Australian Bureau of Statistics (ABS) stands as a pivotal authority in providing crucial data that underpins financial analysis and trading strategies. In the financial markets, obtaining accurate and timely data is of utmost importance, especially for the development of automated trading algorithms which rely on reliable statistics to execute trades efficiently and capitalize on market opportunities.

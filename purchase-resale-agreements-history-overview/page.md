@@ -1,6 +1,9 @@
 ---
-title: "Purchase and Resale Agreements: History and Overview (Algo Trading)"
-description: "Explore the influence of Purchase and Resale Agreements in algorithmic trading Discover how these financial tools impact market liquidity and risk management strategies"
+category: quant_concept
+description: Explore the influence of Purchase and Resale Agreements in algorithmic
+  trading Discover how these financial tools impact market liquidity and risk management
+  strategies
+title: 'Purchase and Resale Agreements: History and Overview (Algo Trading)'
 ---
 
 In the modern financial world, agreements such as Purchase and Resale Agreements (PRAs) and resale agreements significantly influence market dynamics. These agreements are essential financial tools that facilitate liquidity management and risk mitigation, affecting everything from central banking operations to the intricacies of algorithmic trading. By enabling parties to engage in secure, short-term borrowing and lending arrangements, these agreements help stabilize financial systems during periods of stress or when market liquidity needs a boost.

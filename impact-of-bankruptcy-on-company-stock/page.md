@@ -1,6 +1,8 @@
 ---
-title: "Impact of Bankruptcy on Company Stock (Algo Trading)"
-description: "Discover the intricate relationship between bankruptcy and company stock performance in algorithmic trading delving into market dynamics and investor strategies."
+category: trading_strategy
+description: Discover the intricate relationship between bankruptcy and company stock
+  performance in algorithmic trading delving into market dynamics and investor strategies.
+title: Impact of Bankruptcy on Company Stock (Algo Trading)
 ---
 
 In the complex world of financial markets, understanding the interplay between bankruptcy, company stock performance, and algorithmic trading is crucial. Bankruptcy signifies a company's legal declaration of its inability to meet its financial obligations, which has a profound impact on its stock value. This scenario becomes even more intriguing with the involvement of algorithmic trading, which automates trading processes and can rapidly amplify market reactions.

@@ -1,6 +1,8 @@
 ---
-title: "Calculating Stock Adjusted Closing Price (Algo Trading)"
-description: "Discover how adjusted closing prices in stock trading offer a true historical view by accounting for dividends and splits crucial for algorithms and trading strategies."
+category: quant_concept
+description: Discover how adjusted closing prices in stock trading offer a true historical
+  view by accounting for dividends and splits crucial for algorithms and trading strategies.
+title: Calculating Stock Adjusted Closing Price (Algo Trading)
 ---
 
 Understanding the nuances of stock prices is crucial for investors and traders in making informed decisions. A key aspect that often requires attention is the adjusted closing price. This metric provides a more accurate representation of a stock's historical performance by accounting for corporate actions such as dividends, stock splits, and other financial maneuvers. Unlike the raw closing price, the adjusted closing price reflects the actual value of a stock, factoring in the changes that might affect its price continuity.

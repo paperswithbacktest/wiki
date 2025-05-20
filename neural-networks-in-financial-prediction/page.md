@@ -1,6 +1,8 @@
 ---
-title: "Neural networks in financial prediction (Algo Trading)"
-description: "Explore how neural networks are transforming algorithmic trading by offering intricate pattern recognition and improved predictive accuracy for financial markets."
+category: quant_concept
+description: Explore how neural networks are transforming algorithmic trading by offering
+  intricate pattern recognition and improved predictive accuracy for financial markets.
+title: Neural networks in financial prediction (Algo Trading)
 ---
 
 In recent years, neural networks have emerged as a significant innovation in the field of financial prediction, particularly within the scope of algorithmic trading. As financial markets grow increasingly complex, these advanced AI techniques provide traders with a reliable method to gain a competitive edge. The essence of neural networks lies in their ability to learn and adapt from vast datasets, enabling traders to identify intricate patterns and make informed decisions.

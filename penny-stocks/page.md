@@ -1,6 +1,8 @@
 ---
-title: "Penny Stocks (Algo Trading)"
-description: "Explore the intersection of penny stocks and algorithmic trading to uncover high-risk, high-reward investment opportunities in the dynamic stock market arena."
+category: trading_strategy
+description: Explore the intersection of penny stocks and algorithmic trading to uncover
+  high-risk, high-reward investment opportunities in the dynamic stock market arena.
+title: Penny Stocks (Algo Trading)
 ---
 
 In finance, stock investment remains a cornerstone for wealth building due to its potential for high returns on investment. Stocks, which represent ownership in a company, allow investors to partake in the financial success of these enterprises. Recently, penny stocks have emerged as a high-risk, high-reward opportunity within this landscape. These low-priced shares of smaller companies are enticing to investors seeking substantial growth, albeit with significant volatility and risk.

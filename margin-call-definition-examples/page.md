@@ -1,6 +1,13 @@
 ---
-title: "Margin Call: Definition and Examples (Algo Trading)"
-description: "Discover the intricacies of margin calls and algorithmic trading in modern investment finance. Learn how margin calls, triggered when account equity falls below brokerage requirements, ensure investors maintain enough equity to cover their positions. Explore how algorithmic trading leverages data and algorithms to execute high-speed trades, adjusting strategies to prevent margin calls and optimize performance. This page investigates into these essential concepts, offering insights into risk management strategies that are crucial for succeeding in competitive financial markets."
+category: quant_concept
+description: Discover the intricacies of margin calls and algorithmic trading in modern
+  investment finance. Learn how margin calls, triggered when account equity falls
+  below brokerage requirements, ensure investors maintain enough equity to cover their
+  positions. Explore how algorithmic trading leverages data and algorithms to execute
+  high-speed trades, adjusting strategies to prevent margin calls and optimize performance.
+  This page investigates into these essential concepts, offering insights into risk
+  management strategies that are crucial for succeeding in competitive financial markets.
+title: 'Margin Call: Definition and Examples (Algo Trading)'
 ---
 
 In investment finance, margin calls and algorithmic trading play a significant role, influencing trading strategies and risk management processes. A margin call occurs when a trading account's equity falls below the required maintenance level set by the brokerage, necessitating additional funds or securities to cover potential losses. This mechanism ensures that investors have enough equity to cover their positions, minimizing the risk to both broker and investor.

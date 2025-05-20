@@ -1,6 +1,9 @@
 ---
-title: "Alphabet Stock Overview (Algo Trading)"
-description: "Explore Alphabet Inc.'s stock performance fueled by AI innovations and algorithmic trading strategies for insights into its investment potential and market influence."
+category: dataset
+description: Explore Alphabet Inc.'s stock performance fueled by AI innovations and
+  algorithmic trading strategies for insights into its investment potential and market
+  influence.
+title: Alphabet Stock Overview (Algo Trading)
 ---
 
 Alphabet Inc., the parent company of Google, is recognized as a formidable entity in the sphere of stock investments. Known for its technological advancements and market influence, Alphabet's prominence extends beyond its core business of internet services to encompass a broad spectrum of innovative technologies, notably in artificial intelligence (AI). With a stronghold on online advertising, Alphabet generates substantial revenue, which is instrumental in driving its stock performance. In recent years, the enterprise has embraced a diversified business strategy, investing heavily in AI technologies, cloud computing, and various other high-tech sectors. This strategic diversification underpins its resilient financial performance and assures investors of its commitment to pioneering new growth avenues.

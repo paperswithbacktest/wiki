@@ -1,6 +1,8 @@
 ---
-title: "Analysis of Google's Financial Statement (Algo Trading)"
-description: "Discover how Google's financial analysis enhances algorithmic trading, as balance sheet metrics provide insights essential for optimizing trade strategies."
+category: quant_concept
+description: Discover how Google's financial analysis enhances algorithmic trading,
+  as balance sheet metrics provide insights essential for optimizing trade strategies.
+title: Analysis of Google's Financial Statement (Algo Trading)
 ---
 
 The intersection of balance sheet analysis, Google's financial performance, and algorithmic trading is essential for understanding the modern financial landscape. Through comprehensive examination of Google's balance sheet, insights into its financial health are garnered, enabling the identification of strengths and areas for improvement. This financial data not only reflects Google's capability to manage assets and liabilities effectively but also serves as a crucial element in algorithmic trading strategies that leverage such information for informed decision-making.

@@ -1,6 +1,8 @@
 ---
-title: "Risk Comparison Between Buying and Selling Options (Algo Trading)"
-description: "Explore the complexities of options trading with a focus on risk management and algorithmic trading's role in optimizing strategies for better outcomes."
+category: quant_concept
+description: Explore the complexities of options trading with a focus on risk management
+  and algorithmic trading's role in optimizing strategies for better outcomes.
+title: Risk Comparison Between Buying and Selling Options (Algo Trading)
 ---
 
 In the world of finance, derivatives such as options provide investors with unique opportunities to diversify portfolios, hedge risks, and enhance returns. Options are financial instruments that give the holder the right, but not the obligation, to buy or sell an underlying asset at a specified price before a certain date. This flexibility makes options trading a powerful tool, but it also comes with a set of challenges centered around effective risk management.

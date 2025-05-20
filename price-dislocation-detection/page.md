@@ -1,6 +1,9 @@
 ---
-title: "Price Dislocation Detection (Algo Trading)"
-description: "Discover how algorithmic trading leverages advanced algorithms to detect price dislocation in financial markets enabling traders to capitalize on mispriced assets."
+category: trading_strategy
+description: Discover how algorithmic trading leverages advanced algorithms to detect
+  price dislocation in financial markets enabling traders to capitalize on mispriced
+  assets.
+title: Price Dislocation Detection (Algo Trading)
 ---
 
 Algorithmic trading, the use of computer algorithms to automate trading processes, has become a cornerstone of modern financial markets. Leveraging computational power, these algorithms can analyze vast amounts of data at speeds unattainable by human traders, making it possible to execute orders with exceptional precision and timing. This transformation has significantly influenced how markets operate, contributing to increased liquidity, narrower spreads, and enhanced market efficiency.

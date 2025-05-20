@@ -1,6 +1,9 @@
 ---
-title: "Fiat Currency: Function, Examples, Advantages, and Disadvantages (Algo Trading)"
-description: "Explore the function and impact of fiat currency and algorithmic trading on global monetary systems their benefits challenges and implications for economic stability."
+category: quant_concept
+description: Explore the function and impact of fiat currency and algorithmic trading
+  on global monetary systems their benefits challenges and implications for economic
+  stability.
+title: 'Fiat Currency: Function, Examples, Advantages, and Disadvantages (Algo Trading)'
 ---
 
 The global monetary system has undergone significant transformations over centuries, transitioning from barter systems to a complex web of digital transactions. This evolution reflects the ongoing development and adaptation of economic structures to meet the needs of societies worldwide. Central to this system are various types of currencies, among which fiat currencies are predominant. Fiat currency is government-issued money that is not backed by a physical commodity like gold or silver; instead, it derives its value from the trust and acceptance by the public and the issuing government's decree. Unlike commodity-based currencies, fiat money gives governments more control over the economy due to their ability to print money as needed.

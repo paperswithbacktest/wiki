@@ -1,6 +1,12 @@
 ---
-title: "Economic Effects of Donald Trump's Presidency (Algo Trading)"
-description: "Explore the economic impacts of Donald Trump's presidency on the U.S. economy, particularly focusing on algorithmic trading. Analyze how his policies on trade, tax reforms, and deregulation affected the financial markets, leading to volatility and changes in trading strategies. Understand the intricate relationship between Trump's economic decisions and algorithmic trading in this comprehensive article."
+category: quant_concept
+description: Explore the economic impacts of Donald Trump's presidency on the U.S.
+  economy, particularly focusing on algorithmic trading. Analyze how his policies
+  on trade, tax reforms, and deregulation affected the financial markets, leading
+  to volatility and changes in trading strategies. Understand the intricate relationship
+  between Trump's economic decisions and algorithmic trading in this comprehensive
+  article.
+title: Economic Effects of Donald Trump's Presidency (Algo Trading)
 ---
 
 This article examines the economic implications of Donald Trump's presidency on the United States economy, with a particular emphasis on algorithmic trading. Throughout Trump's tenure from January 2017 to January 2021, a range of economic policies significantly impacted the national and global markets. By focusing on both achievements and controversies, this article provides a detailed analysis of how Trump's economic strategies shaped the business and trading environment.

@@ -1,6 +1,9 @@
 ---
-title: "Consumer Theory: Concepts, Goals, and Illustrations (Algo Trading)"
-description: "Explore how consumer theory and behavior influence algorithmic trading, offering insights into market mechanisms, enhancing algorithm efficiency, and trader strategies."
+category: quant_concept
+description: Explore how consumer theory and behavior influence algorithmic trading,
+  offering insights into market mechanisms, enhancing algorithm efficiency, and trader
+  strategies.
+title: 'Consumer Theory: Concepts, Goals, and Illustrations (Algo Trading)'
 ---
 
 In today's rapidly evolving financial landscape, a nuanced understanding of consumer behavior and economic principles is essential. This comprehension becomes even more significant when intertwined with technological advancements such as algorithmic trading, often abbreviated as algo trading. The integration of these disciplines is reshaping the financial industry, offering new insights into market mechanisms and trader dynamics.

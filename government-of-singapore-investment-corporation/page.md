@@ -1,6 +1,8 @@
 ---
-title: "Government of Singapore Investment Corporation (Algo Trading)"
-description: "Discover how the Government of Singapore Investment Corporation leverages algorithmic trading to optimize investment efficiency and secure financial stability."
+category: trading_strategy
+description: Discover how the Government of Singapore Investment Corporation leverages
+  algorithmic trading to optimize investment efficiency and secure financial stability.
+title: Government of Singapore Investment Corporation (Algo Trading)
 ---
 
 The Government of Singapore Investment Corporation (GIC) stands as a significant pillar in managing Singapore's foreign reserves, recognized as one of the world's largest sovereign wealth funds. Established in 1981, GIC has achieved remarkable growth, boasting assets under management (AUM) that surpassed $770 billion as of June 2023. This sovereign wealth fund is dedicated to ensuring Singapore's long-term financial security through prudent and innovative investment strategies.

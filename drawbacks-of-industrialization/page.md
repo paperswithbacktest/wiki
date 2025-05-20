@@ -1,6 +1,9 @@
 ---
-title: "Drawbacks of Industrialization (Algo Trading)"
-description: "Explore the benefits and challenges of industrialization and algorithmic trading on society including economic development labor conditions market volatility and regulatory needs."
+category: quant_concept
+description: Explore the benefits and challenges of industrialization and algorithmic
+  trading on society including economic development labor conditions market volatility
+  and regulatory needs.
+title: Drawbacks of Industrialization (Algo Trading)
 ---
 
 Economic development, industrialization, and the introduction of algorithmic trading have significantly reshaped societies over the past few centuries. Each of these elements has played a pivotal role in transforming economic landscapes and societal structures, contributing to both advancements and challenges.
@@ -104,4 +107,3 @@ Glaeser, E. (2012). 'Triumph of the City.' Penguin Books. Glaeser's work examine
 Polanyi, K. (1944). 'The Great Transformation.' Beacon Press. In this influential text, Polanyi explores the development of modern market economies within the context of historical and social changes. His analysis of the economic and societal shifts during and after the Industrial Revolution offers insights into contemporary economic development and the tensions between market forces and social needs.
 
 Harvey, D. (2009). 'Social Justice and the City.' University of Georgia Press. Harvey investigates the intersection of urban environments and social justice, addressing issues such as resource distribution, socio-economic inequality, and environmental concerns. His work underscores the importance of equitable policy-making in the context of rapid urban and industrial growth.
-

@@ -1,6 +1,8 @@
 ---
-title: "Bull and Bear Ratio in Market Sentiment (Algo Trading)"
-description: "Explore how the Bull Bear Ratio, a key market sentiment indicator, influences trading strategies and decision-making in algo trading for optimized investments."
+category: quant_concept
+description: Explore how the Bull Bear Ratio, a key market sentiment indicator, influences
+  trading strategies and decision-making in algo trading for optimized investments.
+title: Bull and Bear Ratio in Market Sentiment (Algo Trading)
 ---
 
 Understanding market sentiment has become increasingly vital in today's dynamic financial environment, where rapid changes can significantly impact investment outcomes. As investors navigate the complexities of global markets, tools that provide insight into the collective mood of market participants are essential. This article examines the Bull Bear Ratio—a key market sentiment indicator that assesses whether traders and investors are optimistic (bullish) or pessimistic (bearish) about market conditions.

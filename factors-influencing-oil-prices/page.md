@@ -1,6 +1,13 @@
 ---
-title: "Factors Influencing Oil Prices (Algo Trading)"
-description: "Explore the intricate dynamics influencing global oil prices and their economic impact in this comprehensive guide. Understand the roles of geopolitical factors, market participants, and algorithmic trading in shaping oil price trends. Discover how supply-demand balance, economic principles, and strategic industry actions contribute to price volatility and market predictability challenges. Gain insights into commodity cycles, investment risks, and the evolving landscape of energy markets to better navigate the complexities of oil pricing."
+category: quant_concept
+description: Explore the intricate dynamics influencing global oil prices and their
+  economic impact in this comprehensive guide. Understand the roles of geopolitical
+  factors, market participants, and algorithmic trading in shaping oil price trends.
+  Discover how supply-demand balance, economic principles, and strategic industry
+  actions contribute to price volatility and market predictability challenges. Gain
+  insights into commodity cycles, investment risks, and the evolving landscape of
+  energy markets to better navigate the complexities of oil pricing.
+title: Factors Influencing Oil Prices (Algo Trading)
 ---
 
 Oil prices serve as a crucial determinant in the landscape of global energy economics. The fluctuation of oil prices significantly affects market dynamics, with direct implications for global economic stability, inflation rates, and governmental policy decisions. This volatility stems from a myriad of factors, such as geopolitical tensions, natural disasters, supply chain disruptions, and evolving market demands. These factors not only cause immediate fluctuations but also set long-term trends in pricing.

@@ -1,6 +1,8 @@
 ---
-title: "Sectoral Bargaining: Overview, Mechanisms, and Debate (Algo Trading)"
-description: "Explore the dynamics of sectoral bargaining and algorithmic trading and their impact on labor negotiations and financial markets in this insightful overview."
+category: quant_concept
+description: Explore the dynamics of sectoral bargaining and algorithmic trading and
+  their impact on labor negotiations and financial markets in this insightful overview.
+title: 'Sectoral Bargaining: Overview, Mechanisms, and Debate (Algo Trading)'
 ---
 
 In recent years, the dynamics of labor relations and trading have undergone significant transformations, marked by the emergence of sectoral bargaining and algorithmic trading as dominant trends. These advancements are reshaping conventional practices in labor negotiations and financial markets, prompting a reassessment of established methods and strategies.

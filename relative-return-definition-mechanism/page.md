@@ -1,6 +1,8 @@
 ---
-title: "Relative Return: Definition and Mechanism (Algo Trading)"
-description: "Explore relative return in algorithmic trading to assess investment performance relative to benchmarks. Understand key financial metrics for informed decision-making."
+category: quant_concept
+description: Explore relative return in algorithmic trading to assess investment performance
+  relative to benchmarks. Understand key financial metrics for informed decision-making.
+title: 'Relative Return: Definition and Mechanism (Algo Trading)'
 ---
 
 In financial markets, evaluating investment performance is crucial for informed decision-making. Investors strive to maximize returns while managing risks, and assessing these returns relative to established benchmarks is fundamental in determining the effectiveness of their strategies. A benchmark serves as a standard against which the performance of an investment can be measured, often representing a market index or a composite of various assets. By comparing investment returns to these benchmarks, investors can gauge not only absolute performance but also how well their strategies perform in a competitive context.

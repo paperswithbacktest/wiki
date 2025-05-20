@@ -1,6 +1,8 @@
 ---
-title: "Differences Between Income Statement and Balance Sheet (Algo Trading)"
-description: "Explore the importance of income statements and balance sheets in algorithmic trading to enhance decisions using crucial financial data for trading strategies."
+category: quant_concept
+description: Explore the importance of income statements and balance sheets in algorithmic
+  trading to enhance decisions using crucial financial data for trading strategies.
+title: Differences Between Income Statement and Balance Sheet (Algo Trading)
 ---
 
 In the ever-evolving world of finance, understanding financial statements is crucial for making informed decisions. This article will explore the significance of balance sheets and income statements, particularly in the context of algorithmic trading. Financial statements, including balance sheets and income statements, form the backbone of business analysis by offering a detailed view into a company’s financial health. These documents provide essential data that traders and investors use to evaluate an organization's performance and make strategic decisions. 

@@ -1,6 +1,9 @@
 ---
-title: "Adjusted Gross Margin: Overview and Calculation (Algo Trading)"
-description: "Explore how adjusted gross margin refines algo trading by incorporating inventory costs for deeper profitability insights ensuring informed and strategic decision-making."
+category: quant_concept
+description: Explore how adjusted gross margin refines algo trading by incorporating
+  inventory costs for deeper profitability insights ensuring informed and strategic
+  decision-making.
+title: 'Adjusted Gross Margin: Overview and Calculation (Algo Trading)'
 ---
 
 Algorithmic trading, commonly referred to as algo trading, has revolutionized the landscape of financial markets by enabling the automation of trading strategies. This approach leverages computational power to execute trades at speeds and frequencies that are impossible for human traders. The sophistication of these algorithms allows them to analyze vast datasets and respond to market conditions in milliseconds, enhancing both the speed and efficiency of trading operations.

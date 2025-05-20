@@ -1,6 +1,8 @@
 ---
-title: "SEC Form 10-KT (Algo Trading)"
-description: "Explore the essentials of SEC Form 10-KT a vital report for companies changing fiscal year-end offering insights for investors and algo trading strategies."
+category: quant_concept
+description: Explore the essentials of SEC Form 10-KT a vital report for companies
+  changing fiscal year-end offering insights for investors and algo trading strategies.
+title: SEC Form 10-KT (Algo Trading)
 ---
 
 In finance and corporate governance, companies and investors rely heavily on various reports for decision-making and compliance purposes. One such critical document is the SEC Form 10-KT, especially relevant for entities undergoing fiscal transitions. The SEC Form 10-KT is integral to financial reporting as it provides a detailed account of a company’s financial operations during a transition period when it shifts its fiscal year-end. This report is not only a compliance tool but also an essential document for investors and analysts to understand the financial health and strategic directions of a company.

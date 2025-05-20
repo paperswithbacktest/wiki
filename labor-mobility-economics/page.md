@@ -1,6 +1,8 @@
 ---
-title: "Labor Mobility Economics (Algo Trading)"
-description: "Explore how labor mobility and migration shape economic growth and productivity, highlighting their impact on algorithmic trading in the finance sector."
+category: quant_concept
+description: Explore how labor mobility and migration shape economic growth and productivity,
+  highlighting their impact on algorithmic trading in the finance sector.
+title: Labor Mobility Economics (Algo Trading)
 ---
 
 The dynamics of workforce migration and labor mobility are pivotal in shaping today's global economy. As markets continuously evolve, labor mobility—defined as the ability of workers to move both within and between economies—has emerged as a fundamental component of economic growth and productivity. This movement of labor forces is crucial not only for businesses seeking to adapt to changing market conditions but also for economies looking to enhance their competitive edge.

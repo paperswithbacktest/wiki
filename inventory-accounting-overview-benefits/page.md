@@ -1,6 +1,8 @@
 ---
-title: "Inventory Accounting: Overview and Benefits (Algo Trading)"
-description: "Explore how inventory accounting integrates with algorithmic trading to improve financial decision-making and performance. Discover benefits and challenges."
+category: quant_concept
+description: Explore how inventory accounting integrates with algorithmic trading
+  to improve financial decision-making and performance. Discover benefits and challenges.
+title: 'Inventory Accounting: Overview and Benefits (Algo Trading)'
 ---
 
 Accounting, inventory management, and algorithmic trading are significant elements within business operations and financial markets that play crucial roles in ensuring efficient and profitable processes. This article explores the integration of inventory management and accounting principles with algorithmic trading, an approach that has increasingly characterized the contemporary financial landscape.

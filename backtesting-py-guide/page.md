@@ -1,6 +1,13 @@
 ---
-title: "Backtesting.py Guide (Algo Trading)"
-description: Discover how backtesting enhances algorithmic trading by using historical data to assess trading strategies before real-world application. Learn about Python's role in streamlining this process with its user-friendly syntax and powerful libraries for data manipulation and visualization. This guide covers the essentials of backtesting, the advantages of Python, strategy development steps, and transitioning from simulation to live trading, offering insights into maximizing trading success while minimizing risk.
+category: trading_strategy
+description: Discover how backtesting enhances algorithmic trading by using historical
+  data to assess trading strategies before real-world application. Learn about Python's
+  role in streamlining this process with its user-friendly syntax and powerful libraries
+  for data manipulation and visualization. This guide covers the essentials of backtesting,
+  the advantages of Python, strategy development steps, and transitioning from simulation
+  to live trading, offering insights into maximizing trading success while minimizing
+  risk.
+title: Backtesting.py Guide (Algo Trading)
 ---
 
 Backtesting is a crucial component of algorithmic trading, allowing traders to evaluate the viability and effectiveness of a trading strategy using historical data before deploying it in real market conditions. This process serves as a simulation where past data is used to test if a specific strategy would have been successful, providing traders with insights into potential future performance. Its primary purpose is to reduce risks and increase the probability of trading success by identifying and fine-tuning strategies prior to their live application.

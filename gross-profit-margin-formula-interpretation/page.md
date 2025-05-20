@@ -1,6 +1,9 @@
 ---
-title: "Gross Profit Margin Formula and Interpretation (Algo Trading)"
-description: "Explore the significance of gross profit margin in financial analysis and algorithmic trading learn how this metric influences profitability and trading strategies"
+category: quant_concept
+description: Explore the significance of gross profit margin in financial analysis
+  and algorithmic trading learn how this metric influences profitability and trading
+  strategies
+title: Gross Profit Margin Formula and Interpretation (Algo Trading)
 ---
 
 Understanding the financial health of a business is crucial for any investor or trader. Financial metrics serve as fundamental tools for evaluating a company's economic stability and potential for growth. Among these metrics, the gross profit margin stands out as a key indicator of a company's profitability. This metric reveals the proportion of revenue that remains after accounting for the cost of goods sold (COGS), providing insights into a company's efficiency in managing production costs and its pricing strategy.

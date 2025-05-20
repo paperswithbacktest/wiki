@@ -1,6 +1,8 @@
 ---
-title: "Poisson jumps (Algo Trading)"
-description: "Explore Poisson jumps in algorithmic trading to model abrupt market movements manage risk and enhance strategies revealing deeper financial market insights."
+category: quant_concept
+description: Explore Poisson jumps in algorithmic trading to model abrupt market movements
+  manage risk and enhance strategies revealing deeper financial market insights.
+title: Poisson jumps (Algo Trading)
 ---
 
 The Poisson jump process is a crucial concept in algorithmic trading, offering an enhanced model for forecasting abrupt market movements effectively. This process allows traders to account for sudden, discrete changes in asset prices that are not captured by traditional continuous models. Poisson jump processes are integral to modeling random market events, such as price jumps and order arrivals, providing insights into the complexities of financial markets. This article will explore Poisson jumps and their significance in improving trading strategies, risk management, and overall market analysis.

@@ -1,7 +1,8 @@
 ---
-title: Static Inference Techniques for Efficient Machine Learning
+category: quant_concept
 description: Static inference improves model efficiency by predicting resource needs
   before training to optimize pipelines and reduce compute costs Discover more inside.
+title: Static Inference Techniques for Efficient Machine Learning
 ---
 
 ![Image](images/1.jpeg)

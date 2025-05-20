@@ -1,6 +1,9 @@
 ---
-title: "Importance of Productivity in Economics (Algo Trading)"
-description: "Explore how productivity fuels economic efficiency and algorithmic trading's role in economic growth Technology in finance reshapes resource allocation and market dynamics"
+category: quant_concept
+description: Explore how productivity fuels economic efficiency and algorithmic trading's
+  role in economic growth Technology in finance reshapes resource allocation and market
+  dynamics
+title: Importance of Productivity in Economics (Algo Trading)
 ---
 
 Economic efficiency is a fundamental concept in modern economies, signifying the optimal allocation and utilization of resources to maximize output and meet the needs of society. It plays a crucial role in enhancing an economy's overall performance, leading to increased wealth and improved living standards. Economic efficiency is often measured by the balance achieved between inputs and outputs, ensuring that resources are not wasted and that the maximum possible satisfaction is derived from available goods and services.

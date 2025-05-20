@@ -1,6 +1,8 @@
 ---
-title: "Special Purchase and Resale Agreement (Algo Trading)"
-description: "Explore the intricate dynamics of Special Purchase and Resale Agreements and algorithmic trading to understand their impact on market liquidity and policy."
+category: quant_concept
+description: Explore the intricate dynamics of Special Purchase and Resale Agreements
+  and algorithmic trading to understand their impact on market liquidity and policy.
+title: Special Purchase and Resale Agreement (Algo Trading)
 ---
 
 The financial markets are in a constant state of transformation, driven by the need to enhance trading strategies through innovative mechanisms and advanced technologies. This article examines the complex dynamics of financial agreements and resale transactions, particularly focusing on Special Purchase and Resale Agreements (SPRAs) and algorithmic trading.

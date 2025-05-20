@@ -1,6 +1,13 @@
 ---
-title: "Position in Context (Algo Trading)"
-description: "Discover the transformative impact of algorithmic trading on modern financial markets by exploring foundational concepts and essential terminologies. Learn how algo trading, with its advanced computer algorithms, enables traders to capitalize on fleeting market opportunities with speed and efficiency. This article guides you through the fundamental aspects of algo trading, equipping traders with the necessary knowledge to enhance their competitive edge in the ever-evolving trading landscape."
+category: quant_concept
+description: Discover the transformative impact of algorithmic trading on modern financial
+  markets by exploring foundational concepts and essential terminologies. Learn how
+  algo trading, with its advanced computer algorithms, enables traders to capitalize
+  on fleeting market opportunities with speed and efficiency. This article guides
+  you through the fundamental aspects of algo trading, equipping traders with the
+  necessary knowledge to enhance their competitive edge in the ever-evolving trading
+  landscape.
+title: Position in Context (Algo Trading)
 ---
 
 Algorithmic trading, commonly referred to as algo trading, has significantly reshaped the modern trading landscape. By employing sophisticated computer algorithms to execute trades with remarkable speed and efficiency, traders are equipped with an advanced toolset to adeptly maneuver through complex markets. This integration of technology has revolutionized traditional practices, enabling market participants to perform transactions at a velocity and volume that manual trading cannot achieve.

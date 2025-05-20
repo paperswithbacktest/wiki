@@ -1,6 +1,8 @@
 ---
-title: "Limit-on-Open Order (Algo Trading)"
-description: "Master Limit-on-Open orders with our comprehensive guide covering their strategic role in algorithmic trading. Learn mechanics, strategies, and benefits."
+category: quant_concept
+description: Master Limit-on-Open orders with our comprehensive guide covering their
+  strategic role in algorithmic trading. Learn mechanics, strategies, and benefits.
+title: Limit-on-Open Order (Algo Trading)
 ---
 
 In the ever-evolving world of stock market trading, the ability to understand and utilize different types of market orders is essential for both novice and experienced traders. Among these, the Limit-on-Open (LOO) order stands out as a strategic tool designed to execute trades at the market's opening price under specified conditions. This conditional order type provides traders the advantage of setting price limits on their trades that only activate when the market opens, offering greater control over their trading activities during this crucial time.

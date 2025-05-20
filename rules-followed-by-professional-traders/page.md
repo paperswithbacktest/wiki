@@ -1,6 +1,14 @@
 ---
-title: "Rules Followed by Professional Traders (Algo Trading)"
-description: "Discover the essential rules followed by professional traders in the fast-paced world of financial markets. This article explores how algorithmic trading, with its ability to process vast data rapidly, enhances decision-making and market performance. Learn how these traders use sophisticated algorithms and a disciplined approach to navigate complexities and mitigate risks. Understand the critical importance of trading rules in fostering consistency and adaptability in ever-changing market conditions. Gain insights into how traders leverage technology to optimize strategies and achieve long-term success in the modern financial landscape."
+category: trading_strategy
+description: Discover the essential rules followed by professional traders in the
+  fast-paced world of financial markets. This article explores how algorithmic trading,
+  with its ability to process vast data rapidly, enhances decision-making and market
+  performance. Learn how these traders use sophisticated algorithms and a disciplined
+  approach to navigate complexities and mitigate risks. Understand the critical importance
+  of trading rules in fostering consistency and adaptability in ever-changing market
+  conditions. Gain insights into how traders leverage technology to optimize strategies
+  and achieve long-term success in the modern financial landscape.
+title: Rules Followed by Professional Traders (Algo Trading)
 ---
 
 In the fast-paced world of financial markets, professional traders are the key players driving market movements. These traders rely on well-defined trading rules and strategies to make informed decisions amidst the complexities and volatilities inherent in financial trading. A central development in the pursuit of greater efficiency and competitiveness is algorithmic trading, also known as algo trading. This technique leverages automated systems to execute trades based on pre-determined criteria, allowing traders to achieve a competitive edge through speed and accuracy.

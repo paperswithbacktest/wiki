@@ -1,7 +1,8 @@
 ---
-title: Understanding Output Functions in Machine Learning Models
+category: quant_concept
 description: Output functions in machine learning define how models convert data into
   predictions and impact accuracy Explore Softmax Sparsemax and more Discover inside
+title: Understanding Output Functions in Machine Learning Models
 ---
 
 ![Image](images/1.png)

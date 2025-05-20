@@ -1,6 +1,8 @@
 ---
-title: "Average Daily Trading Volume and Its Applications (Algo Trading)"
-description: "Explore the impact of trading volume in algorithmic trading Discover how average daily trading volume informs strategic decisions and boosts market efficiency"
+category: quant_concept
+description: Explore the impact of trading volume in algorithmic trading Discover
+  how average daily trading volume informs strategic decisions and boosts market efficiency
+title: Average Daily Trading Volume and Its Applications (Algo Trading)
 ---
 
 Understanding the key financial metrics in trading is essential for both novice and experienced investors. Trading volume, one of these critical metrics, provides a measure of the total quantity of shares or contracts traded for a specific security. It reflects market activity and indicates the level of interest in a stock, often serving as a signal for potential price movements. In recent years, the advent of algorithmic trading has transformed how traders and investors engage with financial markets. By automating trading processes, algorithms can analyze vast datasets and execute trades at speeds unmatched by human capability. This technological leap has significantly altered the landscape of trading, offering both opportunities and challenges.

@@ -1,6 +1,8 @@
 ---
-title: "CrowdStreet Analysis 2024 (Algo Trading)"
-description: "Explore CrowdStreet's 2024 performance analysis and the rise of algorithmic trading in real estate Discover updated strategies and tech-driven insights"
+category: trading_strategy
+description: Explore CrowdStreet's 2024 performance analysis and the rise of algorithmic
+  trading in real estate Discover updated strategies and tech-driven insights
+title: CrowdStreet Analysis 2024 (Algo Trading)
 ---
 
 CrowdStreet, founded in 2014, stands as a prominent platform dedicated to democratizing access to commercial real estate investments. By connecting investors directly with project sponsors, CrowdStreet eliminates traditional intermediaries, offering individual investors opportunities to participate in large-scale real estate deals. This model not only provides potential financial returns but also enhances transparency and control over investment decisions.

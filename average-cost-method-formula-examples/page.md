@@ -1,6 +1,8 @@
 ---
-title: "Average Cost Method and Formula with Examples (Algo Trading)"
-description: "Explore the advantages of the Average Cost Method in inventory management and its impact on financial statements with real-world examples in algo trading."
+category: quant_concept
+description: Explore the advantages of the Average Cost Method in inventory management
+  and its impact on financial statements with real-world examples in algo trading.
+title: Average Cost Method and Formula with Examples (Algo Trading)
 ---
 
 In finance and accounting, inventory valuation is crucial in determining corporate profitability and operational efficiency. Accurately valuing inventory influences financial statements, affecting both the income statement and the balance sheet. Companies utilize inventory valuation methods like First-In, First-Out (FIFO), Last-In, First-Out (LIFO), and the Average Cost Method to ascertain cost of goods sold (COGS) and ending inventory values. Each method has distinct implications for financial reporting and tax obligations.

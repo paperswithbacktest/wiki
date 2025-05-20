@@ -1,6 +1,8 @@
 ---
-title: "Demand-Side Economics and Policy Examples (Algo Trading)"
-description: "Explore the synergy between demand-side economics and algorithmic trading in this in-depth analysis of fiscal policies and market dynamics in a global economy."
+category: quant_concept
+description: Explore the synergy between demand-side economics and algorithmic trading
+  in this in-depth analysis of fiscal policies and market dynamics in a global economy.
+title: Demand-Side Economics and Policy Examples (Algo Trading)
 ---
 
 In an increasingly complex global economy, understanding the various levers of fiscal and monetary policy is crucial for both policymakers and investors. These tools allow for the management of economic growth, inflation, and employment, which are essential for maintaining economic stability. Fiscal policy, which involves government spending and taxation, directly influences the level of aggregate demand in an economy. Through mechanisms such as fiscal stimulus, governments aim to encourage economic activity, especially during downturns. Conversely, monetary policy, primarily managed by central banks, involves controlling the money supply and interest rates to achieve macroeconomic objectives like controlling inflation.

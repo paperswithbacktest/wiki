@@ -1,6 +1,8 @@
 ---
-title: "Florin Court Capital (Algo Trading)"
-description: "Florin Court Capital excels in algorithmic trading using innovative strategies and advanced technologies to enhance efficiency and impact in the financial markets."
+category: quant_concept
+description: Florin Court Capital excels in algorithmic trading using innovative strategies
+  and advanced technologies to enhance efficiency and impact in the financial markets.
+title: Florin Court Capital (Algo Trading)
 ---
 
 Florin Court Capital is a prominent entity in the field of algorithmic trading, recognized for its innovative approaches and strategic methodologies. Established to revolutionize traditional trading paradigms, the firm operates at the cutting edge of financial technology, leveraging sophisticated algorithms to navigate the complexities of modern markets. Algorithmic trading, a method employing complex algorithms and systems for executing trades, has become integral to today's financial landscape. It allows for rapid decision-making and execution, minimizing human error and exploiting market inefficiencies. This modernization is crucial in an era where milliseconds can significantly impact trading outcomes.

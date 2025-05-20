@@ -1,6 +1,8 @@
 ---
-title: "Adverse Selection and The Lemons Problem (Algo Trading)"
-description: "Explore the effects of adverse selection and the lemons problem in algo trading where information asymmetry distorts market efficiency and challenges fairness."
+category: quant_concept
+description: Explore the effects of adverse selection and the lemons problem in algo
+  trading where information asymmetry distorts market efficiency and challenges fairness.
+title: Adverse Selection and The Lemons Problem (Algo Trading)
 ---
 
 The world of finance and economics frequently contends with intricate concepts that significantly influence the behavior and efficiency of markets. Central among these are the 'lemons problem', 'adverse selection', and 'information asymmetry'. These concepts, originally developed to explain distortions in traditional markets, now have profound implications for the increasingly complex field of algorithmic trading.

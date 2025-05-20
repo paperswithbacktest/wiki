@@ -1,6 +1,8 @@
 ---
-title: "Gross Profit and Calculation Method (Algo Trading)"
-description: "Discover how gross profit calculation is crucial for algorithmic trading strategies. Enhance profitability with precise metrics and automated trading tools."
+category: quant_concept
+description: Discover how gross profit calculation is crucial for algorithmic trading
+  strategies. Enhance profitability with precise metrics and automated trading tools.
+title: Gross Profit and Calculation Method (Algo Trading)
 ---
 
 In today's fast-paced financial markets, calculating profit accurately is essential for success. One of the key metrics for understanding a company's financial position is gross profit, which serves as a primary indicator of financial health. Gross profit is the difference between a company's revenue and its cost of goods sold (COGS), and is a crucial element for investors and traders when making informed investment decisions. It provides insights into how efficiently a company is utilizing its resources to generate profits.

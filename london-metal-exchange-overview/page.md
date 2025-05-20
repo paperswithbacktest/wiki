@@ -1,6 +1,8 @@
 ---
-title: "London Metal Exchange Overview (Algo Trading)"
-description: "Discover the pivotal role of the London Metal Exchange in global metal markets exploring its diverse trading methods and the impact of algorithmic trading."
+category: quant_concept
+description: Discover the pivotal role of the London Metal Exchange in global metal
+  markets exploring its diverse trading methods and the impact of algorithmic trading.
+title: London Metal Exchange Overview (Algo Trading)
 ---
 
 The London Metal Exchange (LME) is an integral part of the global commodities market, specializing in the trading of base and precious metals. Established in 1877, it provides a structured environment for the trading of complex financial instruments such as futures, options, and other derivatives. As a pivotal institution in the metals market, LME sets the benchmark for metal prices worldwide, influencing industries ranging from manufacturing to technology.

@@ -1,6 +1,8 @@
 ---
-title: "Malawian Kwacha: Significance and Economic History (Algo Trading)"
-description: "Discover the economic history and significance of the Malawian Kwacha from its inception to its role in modern algo trading and financial markets."
+category: dataset
+description: Discover the economic history and significance of the Malawian Kwacha
+  from its inception to its role in modern algo trading and financial markets.
+title: 'Malawian Kwacha: Significance and Economic History (Algo Trading)'
 ---
 
 The Malawian Kwacha (MWK) serves as the official currency of Malawi, having been introduced in 1971 to replace the Malawian pound. This transition marked a significant move toward economic autonomy following the nation's independence. As the cornerstone of Malawi's monetary identity, the Kwacha is crucial to understanding the country's broader economic architecture, including its exchange rate behaviors, trade relations, and monetary policies.

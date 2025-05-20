@@ -1,7 +1,8 @@
 ---
-title: Comprehensive Guide to Sentence Embeddings in Machine Learning
+category: quant_concept
 description: Sentence embeddings convert text into vectors for diverse NLP tasks while
   exploring SBERT SimCSE and novel embedding techniques Discover more inside
+title: Comprehensive Guide to Sentence Embeddings in Machine Learning
 ---
 
 ![Image](images/1.png)

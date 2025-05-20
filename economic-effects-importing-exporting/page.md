@@ -1,6 +1,9 @@
 ---
-title: "Economic Effects of Importing and Exporting (Algo Trading)"
-description: "Explore the economic effects of global trade and algorithmic trading analyzing their impact on GDP employment and market dynamics shaping international trade policies."
+category: quant_concept
+description: Explore the economic effects of global trade and algorithmic trading
+  analyzing their impact on GDP employment and market dynamics shaping international
+  trade policies.
+title: Economic Effects of Importing and Exporting (Algo Trading)
 ---
 
 Exporting and importing are fundamental aspects of international trade. Exporting refers to the practice of selling goods and services produced in one country to buyers in another. It plays a critical role in enhancing a nation's economic growth by contributing to its Gross Domestic Product (GDP), generating employment, and increasing foreign exchange reserves. Importing, conversely, involves purchasing goods and services from abroad to meet domestic demand, foster consumer choice, and stimulate competitive market dynamics.

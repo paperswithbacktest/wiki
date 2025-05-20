@@ -1,6 +1,8 @@
 ---
-title: "Price Action in Financial Markets (Algo Trading)"
-description: "Explore the dynamic world of financial markets with insights into price action and algorithmic trading to enhance strategy and decision-making processes."
+category: quant_concept
+description: Explore the dynamic world of financial markets with insights into price
+  action and algorithmic trading to enhance strategy and decision-making processes.
+title: Price Action in Financial Markets (Algo Trading)
 ---
 
 Understanding the complex dynamics of financial markets requires a multifaceted approach, integrating various strategies and technologies. Price action trading and algorithmic trading are two methodologies that have gained prominence in recent years, each offering unique advantages. Price action trading focuses on interpreting raw market data to predict future price movements by analyzing historical price changes and market psychology. This methodology leverages graphical representations such as candlestick charts to identify patterns and key support and resistance levels.

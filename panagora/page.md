@@ -1,6 +1,8 @@
 ---
-title: "PanAgora (Algo Trading)"
-description: "Explore PanAgora's innovative approach to algorithmic trading where cutting-edge technology meets quantitative research for impactful trading strategies."
+category: quant_concept
+description: Explore PanAgora's innovative approach to algorithmic trading where cutting-edge
+  technology meets quantitative research for impactful trading strategies.
+title: PanAgora (Algo Trading)
 ---
 
 Algorithmic trading refers to the use of computer algorithms to automate trading decisions and execute orders in financial markets. This approach relies on pre-defined rules and mathematical models to analyze data and identify opportunities, allowing for rapid and precise trading actions. Its importance has grown significantly, underpinned by the promise of improving market efficiency and liquidity, minimizing trading costs, and leveraging speed in executing trades that human traders cannot match.

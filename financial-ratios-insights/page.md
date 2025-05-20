@@ -1,6 +1,9 @@
 ---
-title: "Financial Ratios and Their Insights (Algo Trading)"
-description: "Explore how financial ratios and algorithmic trading enhance investment strategies, offering insights into company performance, risk assessment, and profitable trading."
+category: quant_concept
+description: Explore how financial ratios and algorithmic trading enhance investment
+  strategies, offering insights into company performance, risk assessment, and profitable
+  trading.
+title: Financial Ratios and Their Insights (Algo Trading)
 ---
 
 In today's fast-paced financial world, the ability to analyze complex data efficiently plays a crucial role in making informed investment decisions. With the vast amounts of information generated every second, investors must be adept at deciphering and utilizing these data to gain competitive advantages. Financial insights, ratios, investment analysis, and algorithmic trading form the cornerstone of this analytical approach.

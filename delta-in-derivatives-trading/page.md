@@ -1,6 +1,9 @@
 ---
-title: "Delta in Derivatives Trading (Algo Trading)"
-description: "Explore delta derivatives trading and algo trading in this insightful article which covers key strategies concepts and tech advancements within financial markets."
+category: quant_concept
+description: Explore delta derivatives trading and algo trading in this insightful
+  article which covers key strategies concepts and tech advancements within financial
+  markets.
+title: Delta in Derivatives Trading (Algo Trading)
 ---
 
 The world of financial trading is complex, comprising a wide array of tools and strategies that cater to the diverse needs of market participants. Investors and traders have at their disposal a variety of instruments that range from basic stocks and bonds to more sophisticated products such as derivatives. This article focuses specifically on the aspects of delta derivatives trading, financial derivatives, and algorithmic (algo) trading, areas that have gained prominence due to their potential for profit and risk management.

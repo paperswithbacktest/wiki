@@ -1,6 +1,9 @@
 ---
-title: "Pharmaceutical Industry Handbook (Algo Trading)"
-description: "Explore the intersection of pharmaceutical innovation and algorithmic trading and discover how AI is transforming market dynamics and enhancing industry growth."
+category: dataset
+description: Explore the intersection of pharmaceutical innovation and algorithmic
+  trading and discover how AI is transforming market dynamics and enhancing industry
+  growth.
+title: Pharmaceutical Industry Handbook (Algo Trading)
 ---
 
 The pharmaceutical industry is one of the most dynamic and rapidly growing sectors globally, wielding a significant impact on both the economy and healthcare systems. As of 2020, the industry's contribution to global health was underscored by pharmaceutical sales exceeding $1.2 trillion, marking it as a major economic powerhouse. Traditionally associated with the development, production, and marketing of medications, the pharmaceutical sector is pivotal in improving public health outcomes and advancing medical knowledge through continuous innovation.

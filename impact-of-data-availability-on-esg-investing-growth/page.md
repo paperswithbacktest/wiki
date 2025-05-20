@@ -1,6 +1,9 @@
 ---
-title: "Impact of Data Availability on ESG Investing Growth (Algo Trading)"
-description: "ESG investing is transforming with data availability enhancing responsible investment decisions as investors integrate ethics with profitability in algo trading strategies."
+category: dataset
+description: ESG investing is transforming with data availability enhancing responsible
+  investment decisions as investors integrate ethics with profitability in algo trading
+  strategies.
+title: Impact of Data Availability on ESG Investing Growth (Algo Trading)
 ---
 
 ESG (Environmental, Social, and Governance) investing has experienced a notable rise in prominence in recent years. This shift can be largely attributed to the increasing availability and significance of ESG data, which empowers investors to make choices that are not only financially informed but also ethically and sustainably conscious. ESG investing is characterized by incorporating considerations of environmental impact, social influence, and governance standards into investment decision-making.

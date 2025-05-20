@@ -1,6 +1,9 @@
 ---
-title: "Complementary Currency: Overview and Examples (Algo Trading)"
-description: "Explore how complementary currencies like Local Exchange Systems redefine economic transactions by enhancing local trade, financial resilience, and community cohesion."
+category: quant_concept
+description: Explore how complementary currencies like Local Exchange Systems redefine
+  economic transactions by enhancing local trade, financial resilience, and community
+  cohesion.
+title: 'Complementary Currency: Overview and Examples (Algo Trading)'
 ---
 
 Alternative currencies have emerged as influential players in the contemporary economy, reshaping traditional financial norms and presenting new paradigms for economic transactions. These currencies are directly influenced by the challenges posed by global financial instability, which has driven communities and innovators to seek more resilient and decentralized financial systems. Alternative currencies refer to forms of money and exchange systems that operate outside conventional national currencies; they include entities such as Local Exchange Systems (LES) and complementary currencies.

@@ -1,6 +1,8 @@
 ---
-title: "Active Management in Investment (Algo Trading)"
-description: "Active management in investment involves strategic asset decisions to surpass benchmarks using market research and analysis Learn the benefits and challenges"
+category: trading_strategy
+description: Active management in investment involves strategic asset decisions to
+  surpass benchmarks using market research and analysis Learn the benefits and challenges
+title: Active Management in Investment (Algo Trading)
 ---
 
 Active management is a strategic investment approach where professionals make deliberate decisions on buying, selling, or holding securities with the objective of outperforming a benchmark index, such as the S&P 500. This management style contrasts with passive management, where the goal is to replicate the performance of a specific index with minimal trading. An active management strategy is grounded in extensive market research, analysis, and forecasting, aiming to capitalize on market inefficiencies and emerging investment opportunities.

@@ -1,6 +1,9 @@
 ---
-title: "Analysis of Retail Stocks (Algo Trading)"
-description: "Explore how algorithmic trading enhances retail stock investments by analyzing market trends and optimizing decision-making for improved outcomes and profitability."
+category: trading_strategy
+description: Explore how algorithmic trading enhances retail stock investments by
+  analyzing market trends and optimizing decision-making for improved outcomes and
+  profitability.
+title: Analysis of Retail Stocks (Algo Trading)
 ---
 
 Investment in retail stocks has attracted significant interest due to their potential for steady growth and resilience against economic fluctuations. These stocks encompass companies within the retail sector, including multinational corporations, local shops, and online stores. The appeal of retail stocks lies in their ability to consistently generate consumer interest and revenue, often reflecting broader economic and consumer spending trends.

@@ -1,7 +1,8 @@
 ---
-title: Efficient Transformer Attention Patterns for Long Sequences
+category: quant_concept
 description: Transformer attention patterns streamline long sequence processing with
   strided sliding window dilated global and neighborhood methods Discover more inside
+title: Efficient Transformer Attention Patterns for Long Sequences
 ---
 
 ![Image](images/1.png)

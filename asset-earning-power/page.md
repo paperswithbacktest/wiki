@@ -1,6 +1,9 @@
 ---
-title: "Asset Earning Power (Algo Trading)"
-description: "Discover how Asset Earning Power enhances algorithmic trading strategies by offering insights into asset utilization, helping investors make informed investment decisions."
+category: quant_concept
+description: Discover how Asset Earning Power enhances algorithmic trading strategies
+  by offering insights into asset utilization, helping investors make informed investment
+  decisions.
+title: Asset Earning Power (Algo Trading)
 ---
 
 Asset Earning Power (AEP) is a pivotal financial metric that quantifies a company's ability to generate earnings from its assets. It reflects the efficiency with which a company's assets are used to produce revenue, playing a crucial role in assessing financial performance. AEP matters because it provides insight into how well a company is converting its asset base into earnings, a fundamental factor in evaluating corporate strength and potential for growth.

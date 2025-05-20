@@ -1,6 +1,8 @@
 ---
-title: "order books (LOB) (Algo Trading)"
-description: "Explore the transformative role of Limit Order Books in algorithmic trading enhancing trade execution and strategy through real-time market data insights."
+category: quant_concept
+description: Explore the transformative role of Limit Order Books in algorithmic trading
+  enhancing trade execution and strategy through real-time market data insights.
+title: order books (LOB) (Algo Trading)
 ---
 
 The financial markets have significantly transformed with the introduction of algorithmic trading, fundamentally altering the landscape of trading. At the center of this transformation is the Limit Order Book (LOB), a critical component that serves as a real-time electronic ledger of all outstanding buy and sell orders within a market. The LOB is indispensable for price discovery, offering a transparent mechanism through which traders can gauge the supply and demand dynamics of an asset.

@@ -1,6 +1,12 @@
 ---
-title: "Data Aggregator Alternative Data (Algo Trading)"
-description: Discover how alternative data is transforming algorithmic trading by offering insights beyond traditional financial datasets. Explore the rise of data aggregators as key players in sourcing and processing diverse information streams like social media sentiments and satellite imagery. Understand the advantages and potential challenges of integrating alternative data into trading strategies to maintain a competitive edge.
+category: dataset
+description: Discover how alternative data is transforming algorithmic trading by
+  offering insights beyond traditional financial datasets. Explore the rise of data
+  aggregators as key players in sourcing and processing diverse information streams
+  like social media sentiments and satellite imagery. Understand the advantages and
+  potential challenges of integrating alternative data into trading strategies to
+  maintain a competitive edge.
+title: Data Aggregator Alternative Data (Algo Trading)
 ---
 
 Algorithmic trading has revolutionized the financial markets by automating trading decisions and executing orders at speeds and frequencies that are impossible for human traders. These sophisticated trading strategies rely heavily on data to make informed decisions, and while traditional financial data such as stock prices, trading volumes, and economic indicators have long been a staple, traders are increasingly looking beyond to gain a competitive edge. This quest for innovation has led to the rise of alternative data as a vital asset in the toolbox of algorithmic trading. 

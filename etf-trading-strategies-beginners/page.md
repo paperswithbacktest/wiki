@@ -1,6 +1,9 @@
 ---
-title: "ETF Trading Strategies for Beginners (Algo Trading)"
-description: "Explore beginner-friendly ETF trading strategies to efficiently diversify your portfolio Enhance returns with algorithmic trading insights while minimizing risks"
+category: trading_strategy
+description: Explore beginner-friendly ETF trading strategies to efficiently diversify
+  your portfolio Enhance returns with algorithmic trading insights while minimizing
+  risks
+title: ETF Trading Strategies for Beginners (Algo Trading)
 ---
 
 Exchange-traded funds (ETFs) have significantly reshaped the investment landscape over the past few decades. With more investors seeking cost-effective and flexible options for portfolio diversification, ETFs have become increasingly popular. These investment vehicles allow both novice and seasoned investors alike to access a range of asset classes, including stocks, bonds, and commodities, through a single purchase on a stock exchange.

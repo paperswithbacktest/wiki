@@ -1,6 +1,9 @@
 ---
-title: "Currency Overlay (Algo Trading)"
-description: "Explore the intricacies of currency overlay an investment strategy designed to manage FX risks in portfolios enhance returns and optimize performance using algorithmic trading."
+category: trading_strategy
+description: Explore the intricacies of currency overlay an investment strategy designed
+  to manage FX risks in portfolios enhance returns and optimize performance using
+  algorithmic trading.
+title: Currency Overlay (Algo Trading)
 ---
 
 Currency overlay is a specialized investment strategy employed to manage the risks associated with foreign exchange (FX) exposure in international portfolios. Given the inherent volatility in currency markets, currency overlay plays a pivotal role in protecting assets from adverse currency movements while also seeking opportunities to enhance returns. In the context of foreign exchange, currency overlay involves hedging certain positions to mitigate risk, or taking leveraged positions to capitalize on potential market movements, thereby optimizing the performance of an investment portfolio against currency fluctuations.

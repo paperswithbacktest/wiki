@@ -1,6 +1,9 @@
 ---
-title: "Industrial Organization (Algo Trading)"
-description: "Explore the intersection of industrial organization and algorithmic trading to understand market dynamics shaping trading strategies and economic policies in today's financial world."
+category: quant_concept
+description: Explore the intersection of industrial organization and algorithmic trading
+  to understand market dynamics shaping trading strategies and economic policies in
+  today's financial world.
+title: Industrial Organization (Algo Trading)
 ---
 
 In today's interconnected financial landscape, understanding the dynamics of market structures and economic studies is crucial for informed decision-making. As we navigate complex financial environments, the interplay between industrial organization and algorithmic trading becomes increasingly significant. These elements collectively influence financial markets, impacting everything from trading strategies to economic policies.

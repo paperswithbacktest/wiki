@@ -1,6 +1,8 @@
 ---
-title: "Hart-Scott-Rodino Antitrust Improvements Act of 1976 (Algo Trading)"
-description: "Explore the Hart-Scott-Rodino Act's impact on algorithmic trading detailing its role in premerger notifications and maintaining market competitiveness."
+category: quant_concept
+description: Explore the Hart-Scott-Rodino Act's impact on algorithmic trading detailing
+  its role in premerger notifications and maintaining market competitiveness.
+title: Hart-Scott-Rodino Antitrust Improvements Act of 1976 (Algo Trading)
 ---
 
 Understanding antitrust legislation, such as the Hart-Scott-Rodino Act of 1976, is essential in the field of corporate law and finance. It holds particular significance when considering its impact on algorithmic trading, an area characterized by rapid data-driven decision-making. This article examines the role of the Hart-Scott-Rodino (HSR) Act in regulating mergers and acquisitions, focusing on its premerger notification requirements that affect large corporate transactions.

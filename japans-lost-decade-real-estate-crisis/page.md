@@ -1,6 +1,8 @@
 ---
-title: "Japan's Lost Decade: Insights from the Real Estate Crisis (Algo Trading)"
-description: "Explore Japan's Lost Decade and its economic impacts revealing insights into algorithmic trading's rise amidst challenges from one of history's severe downturns"
+category: quant_concept
+description: Explore Japan's Lost Decade and its economic impacts revealing insights
+  into algorithmic trading's rise amidst challenges from one of history's severe downturns
+title: 'Japan''s Lost Decade: Insights from the Real Estate Crisis (Algo Trading)'
 ---
 
 The term 'Lost Decade' is used to describe Japan's extended period of economic stagnation that began in the 1990s. This era was characterized by negligible GDP growth, persistent deflation, and a noticeable lack of economic dynamism. The origins of this economic stagnation can be traced back to the bursting of a significant financial bubble in the early 1990s. During the previous decade, Japan experienced rapid economic growth, primarily driven by robust export activities and significant capital investments in the stock and real estate markets.

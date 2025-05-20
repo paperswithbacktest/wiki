@@ -1,6 +1,9 @@
 ---
-title: "Comparison of Global Corporate Tax Rates (Algo Trading)"
-description: "Explore how global corporate tax rates influence algorithmic trading strategies in an interconnected economy and why businesses must adapt to evolving tax laws."
+category: quant_concept
+description: Explore how global corporate tax rates influence algorithmic trading
+  strategies in an interconnected economy and why businesses must adapt to evolving
+  tax laws.
+title: Comparison of Global Corporate Tax Rates (Algo Trading)
 ---
 
 In today's globalized economy, understanding corporate tax rates is crucial for businesses operating internationally. Corporate taxes, which are a primary source of revenue for governments, can significantly impact a company's financial standing and strategic planning. The way these taxes are structured influences corporate decisions on location, investment, and even business model adaptations. 

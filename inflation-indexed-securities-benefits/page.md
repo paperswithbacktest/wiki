@@ -1,6 +1,8 @@
 ---
-title: "Inflation-Indexed Securities and Their Benefits (Algo Trading)"
-description: "Explore the advantages of inflation-indexed securities and algorithmic trading Discover how these tools protect against inflation and enhance trading efficiency"
+category: trading_strategy
+description: Explore the advantages of inflation-indexed securities and algorithmic
+  trading Discover how these tools protect against inflation and enhance trading efficiency
+title: Inflation-Indexed Securities and Their Benefits (Algo Trading)
 ---
 
 In the contemporary financial landscape, understanding the intricacies of modern investment strategies is essential for investors aiming to effectively manage and grow their portfolios. Two significant facets contributing to this evolving framework are inflation-indexed securities and algorithmic trading, each offering unique benefits and addressing distinct financial challenges.

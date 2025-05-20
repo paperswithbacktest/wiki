@@ -1,6 +1,9 @@
 ---
-title: "Items Purchasable with Cryptocurrency (Algo Trading)"
-description: "Explore how cryptocurrencies revolutionize transactions with their decentralized nature and algorithmic trading. Discover the benefits and challenges of using digital currencies."
+category: quant_concept
+description: Explore how cryptocurrencies revolutionize transactions with their decentralized
+  nature and algorithmic trading. Discover the benefits and challenges of using digital
+  currencies.
+title: Items Purchasable with Cryptocurrency (Algo Trading)
 ---
 
 Cryptocurrency has fundamentally transformed our perception of money and transactions in the digital age. As blockchain technology underpins these digital currencies, cryptocurrencies have catalyzed a shift from traditional fiat systems, offering a decentralized and pervasive alternative. Gone are the days when digital money was relegated to niche forums and speculative ventures. Today, cryptocurrencies are emerging as mainstream financial instruments enabling a diverse range of applications from everyday purchases to complex investment strategies.

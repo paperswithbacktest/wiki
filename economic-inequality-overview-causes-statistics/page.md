@@ -1,6 +1,9 @@
 ---
-title: "Economic Inequality: Overview, Causes, and Statistics (Algo Trading)"
-description: "Explore how economic inequality intertwines with algorithmic trading highlighting its role in widening wealth gaps despite offering market efficiency benefits."
+category: quant_concept
+description: Explore how economic inequality intertwines with algorithmic trading
+  highlighting its role in widening wealth gaps despite offering market efficiency
+  benefits.
+title: 'Economic Inequality: Overview, Causes, and Statistics (Algo Trading)'
 ---
 
 Economic inequality, wealth gaps, and income disparity have emerged as significant global challenges, affecting nations irrespective of their level of development. The economic landscape has been altering, with technological advancements playing a crucial role. Among such advancements, algorithmic trading, or algo trading, has recently garnered attention for its potential impact on economic inequality. Algo trading involves using computer algorithms to automatically make trading decisions based on a predefined set of rules, often executed at speeds impossible for human traders to match.

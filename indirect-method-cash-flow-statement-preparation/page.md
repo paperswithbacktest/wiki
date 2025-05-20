@@ -1,6 +1,8 @@
 ---
-title: "Indirect Method in Cash Flow Statement Preparation (Algo Trading)"
-description: "Explore the indirect method of cash flow statement preparation and its pivotal role in enhancing algorithmic trading strategies for better financial insights."
+category: quant_concept
+description: Explore the indirect method of cash flow statement preparation and its
+  pivotal role in enhancing algorithmic trading strategies for better financial insights.
+title: Indirect Method in Cash Flow Statement Preparation (Algo Trading)
 ---
 
 This article explores the intersection of financial reporting and algorithmic trading, focusing on the indirect method of preparing cash flow statements. The indirect method is a popular accounting approach used by businesses to convert net income into cash flow by adjusting for non-cash items and changes in balance sheet accounts. This method involves amendments for non-cash transactions such as depreciation and amortization, as well as alterations in working capital accounts like accounts receivable and payable. Understanding these cash flow statements is critical for investors and stakeholders who are attempting to gain insights into a company's liquidity and financial health. 

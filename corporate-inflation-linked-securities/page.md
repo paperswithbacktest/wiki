@@ -1,6 +1,9 @@
 ---
-title: "Corporate Inflation-Linked Securities (Algo Trading)"
-description: "Explore the world of corporate bonds, inflation-linked securities, and algorithmic trading to understand how these financial tools influence investment decisions."
+category: quant_concept
+description: Explore the world of corporate bonds, inflation-linked securities, and
+  algorithmic trading to understand how these financial tools influence investment
+  decisions.
+title: Corporate Inflation-Linked Securities (Algo Trading)
 ---
 
 In today's dynamic financial landscape, understanding various financial instruments is crucial for investors and corporations alike. As the market evolves, traditional and modern instruments have become essential in maintaining a balanced and diversified portfolio. This article examines pivotal financial instruments such as corporate bonds, inflation-linked securities, and the increasingly prevalent algorithmic trading practices in financial markets.

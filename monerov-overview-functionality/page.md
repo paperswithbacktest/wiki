@@ -1,6 +1,8 @@
 ---
-title: "MoneroV: Overview and Functionality (Algo Trading)"
-description: "Discover MoneroV a cryptocurrency enhancing privacy and scalability in trades Learn about its features differences from Monero and impact on trading strategies"
+category: quant_concept
+description: Discover MoneroV a cryptocurrency enhancing privacy and scalability in
+  trades Learn about its features differences from Monero and impact on trading strategies
+title: 'MoneroV: Overview and Functionality (Algo Trading)'
 ---
 
 MoneroV (XMV) is an emerging cryptocurrency designed to enhance privacy and scalability in digital transactions. Its creation stems from the evolution and split from the well-known Monero network, with the intent to address certain limitations while maintaining robust privacy features. MoneroV's significance lies in its commitment to privacy, decentralization, and improved features that cater to the growing demand for secure and private financial transactions.

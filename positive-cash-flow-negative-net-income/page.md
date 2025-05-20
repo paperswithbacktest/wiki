@@ -1,6 +1,9 @@
 ---
-title: "Positive Cash Flow with Negative Net Income (Algo Trading)"
-description: "Explore the impact of cash flow and net income on algorithmic trading strategies, enhancing decision-making and optimizing trading performance in financial markets."
+category: quant_concept
+description: Explore the impact of cash flow and net income on algorithmic trading
+  strategies, enhancing decision-making and optimizing trading performance in financial
+  markets.
+title: Positive Cash Flow with Negative Net Income (Algo Trading)
 ---
 
 In today's fast-paced financial markets, understanding the complexities of financial analysis is essential for both investors and traders seeking success. Central to this analysis are cash flow and net income, two key financial metrics that offer vital insights into a company's financial health. Cash flow measures the net amount of cash and cash equivalents moving into and out of a company over a specific period, highlighting its liquidity position. In contrast, net income represents the profit remaining after all expenses, including taxes and interest, have been subtracted from total revenue, illustrating the company's profitability.

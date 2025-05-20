@@ -1,6 +1,9 @@
 ---
-title: "Primary Commodities Used in the Electronics Industry (Algo Trading)"
-description: "Explore how commodities like silicon, copper, and lithium drive electronics manufacturing and how algorithmic trading revolutionizes their procurement for cost-effective innovation."
+category: dataset
+description: Explore how commodities like silicon, copper, and lithium drive electronics
+  manufacturing and how algorithmic trading revolutionizes their procurement for cost-effective
+  innovation.
+title: Primary Commodities Used in the Electronics Industry (Algo Trading)
 ---
 
 Commodities are foundational to the electronics industry, serving as the essential raw materials for a wide array of electronic components and devices. Items such as silicon, copper, gold, lithium, and rare earth elements form the backbone of this sector. Silicon, fundamental to the creation of semiconductors, is a crucial component of processors and integrated circuits. Copper is vital for manufacturing electrical wiring and printed circuit boards due to its excellent conductivity. Gold, with its outstanding corrosion resistance, is routinely used in high-quality connectors and contacts. Lithium powers the rechargeable batteries that drive portable electronics, while rare earth elements, although used in small quantities, are indispensable for producing strong magnets, phosphors, and catalysts crucial for smartphones, displays, and green technologies.

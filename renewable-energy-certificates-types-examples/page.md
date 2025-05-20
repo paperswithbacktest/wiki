@@ -1,6 +1,8 @@
 ---
-title: "Renewable Energy Certificates: Types and Examples (Algo Trading)"
-description: "Explore the integration of Renewable Energy Certificates with algorithmic trading to understand their impact on clean energy markets and sustainable practices."
+category: trading_strategy
+description: Explore the integration of Renewable Energy Certificates with algorithmic
+  trading to understand their impact on clean energy markets and sustainable practices.
+title: 'Renewable Energy Certificates: Types and Examples (Algo Trading)'
 ---
 
 Renewable energy continues to gain traction in the global market as nations and corporations strive to reduce their carbon footprints and implement sustainable practices. The transition towards cleaner energy sources is vital to mitigating climate change and fostering environmental sustainability. However, the incorporation of renewable energy into traditional markets requires innovative solutions to address challenges such as intermittency and efficient trading mechanisms.

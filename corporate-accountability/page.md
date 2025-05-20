@@ -1,6 +1,9 @@
 ---
-title: "Corporate Accountability (Algo Trading)"
-description: "Explore the intersection of ethics governance and algorithmic trading in the corporate world emphasizing accountability, transparency, and stakeholder trust."
+category: quant_concept
+description: Explore the intersection of ethics governance and algorithmic trading
+  in the corporate world emphasizing accountability, transparency, and stakeholder
+  trust.
+title: Corporate Accountability (Algo Trading)
 ---
 
 In today's rapidly evolving business environment, the convergence of ethics, corporate governance, accountability, and algorithmic trading plays a crucial role in shaping sustainable success. As corporations increasingly adopt sophisticated technologies to improve competitiveness, the ethical dimensions of digital activities are subjected to rigorous examination. This scrutiny is driven by the recognition that technological advancements have profound implications for corporate responsibility.

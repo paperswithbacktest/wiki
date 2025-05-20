@@ -1,6 +1,8 @@
 ---
-title: "SEC Form N-1A: Purpose, Functionality, and Contents (Algo Trading)"
-description: "Explore how SEC Form N-1A guides mutual funds in the era of algorithmic trading highlighting its role in compliance and innovation for investor protection."
+category: quant_concept
+description: Explore how SEC Form N-1A guides mutual funds in the era of algorithmic
+  trading highlighting its role in compliance and innovation for investor protection.
+title: 'SEC Form N-1A: Purpose, Functionality, and Contents (Algo Trading)'
 ---
 
 The intersection of regulatory compliance and modern trading strategies has become a focal point in the financial industry, particularly with the rise of technological innovation. SEC Form N-1A plays a pivotal role in this landscape, serving as a regulatory framework for mutual funds and open-end management companies, including exchange-traded funds (ETFs). Investment firms interested in establishing open-end funds must navigate the complexities of Form N-1A, which governs critical aspects of fund registration and compliance in the United States.

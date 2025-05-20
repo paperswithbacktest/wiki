@@ -1,6 +1,8 @@
 ---
-title: "Volume Zone Oscillator Interpretation (Algo Trading)"
-description: "Optimize your trading strategy with the Volume Zone Oscillator a proven tool in stock and algorithmic trading for accurate market predictions based on volume."
+category: trading_strategy
+description: Optimize your trading strategy with the Volume Zone Oscillator a proven
+  tool in stock and algorithmic trading for accurate market predictions based on volume.
+title: Volume Zone Oscillator Interpretation (Algo Trading)
 ---
 
 The Technical Analysis Volume Zone Oscillator (VZO) is an influential analytical tool deployed in both stock trading and algorithmic trading, acclaimed for its capacity to generate insights based on volume dynamics. Developed by Walid Khalil and subsequently refined with contributions from David Steckler, the VZO distinguishes itself by focusing on volume changes as predictive signals for assessing market movements. This tool categorizes volume into positive and negative segments according to price fluctuations, thereby enabling traders to anticipate trends and potential reversals with greater accuracy.

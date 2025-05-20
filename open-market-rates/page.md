@@ -1,6 +1,8 @@
 ---
-title: "Open Market Rates (Algo Trading)"
-description: "Explore the intricate dynamics between economic policies, interest rates, open market operations, and algorithmic trading to optimize modern market strategies."
+category: trading_strategy
+description: Explore the intricate dynamics between economic policies, interest rates,
+  open market operations, and algorithmic trading to optimize modern market strategies.
+title: Open Market Rates (Algo Trading)
 ---
 
 The interconnected nature of economic policy, interest rates, open market operations, and algorithmic trading significantly impacts modern financial markets. These components form a complex landscape that shapes the environment in which traders operate. Understanding their roles and interactions is essential for developing effective trading strategies and optimizing market participation.

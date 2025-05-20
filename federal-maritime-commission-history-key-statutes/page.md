@@ -1,6 +1,8 @@
 ---
-title: "Federal Maritime Commission: History and Key Statutes (Algo Trading)"
-description: "Explore the history and role of the Federal Maritime Commission in regulating ocean shipping ensuring fairness in international trade and promoting competition."
+category: quant_concept
+description: Explore the history and role of the Federal Maritime Commission in regulating
+  ocean shipping ensuring fairness in international trade and promoting competition.
+title: 'Federal Maritime Commission: History and Key Statutes (Algo Trading)'
 ---
 
 The maritime industry is a cornerstone of global trade and economic vitality, facilitating the movement of goods across the world's oceans. This expansive network is governed by a complex framework of regulations designed to ensure smooth and efficient operations. At the forefront of these regulatory efforts is the Federal Maritime Commission (FMC), a pivotal agency committed to upholding fairness and reliability in ocean transportation. The FMC's role is crucial in safeguarding the interests of U.S. businesses and consumers by promoting a competitive ocean transportation supply system.

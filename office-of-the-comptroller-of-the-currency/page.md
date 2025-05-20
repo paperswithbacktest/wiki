@@ -1,6 +1,9 @@
 ---
-title: "Office of the Comptroller of the Currency (Algo Trading)"
-description: "Explore how the Office of the Comptroller of the Currency and other U.S. regulatory bodies manage financial stability and market integrity in algorithmic trading."
+category: quant_concept
+description: Explore how the Office of the Comptroller of the Currency and other U.S.
+  regulatory bodies manage financial stability and market integrity in algorithmic
+  trading.
+title: Office of the Comptroller of the Currency (Algo Trading)
 ---
 
 Algorithmic trading has become a fundamental component of the modern financial ecosystem, shaping the way financial markets operate. It involves the use of computer algorithms to execute trades at speeds and volumes far surpassing traditional human capabilities. The primary functionalities of algorithmic trading include high-speed execution, which allows traders to capitalize on fleeting market opportunities, and high-volume automated trades, which enable handling large transactions efficiently without causing significant market disruptions.

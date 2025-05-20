@@ -1,6 +1,9 @@
 ---
-title: "Instantaneous impact (Algo Trading)"
-description: "Explore how instantaneous impact affects algorithmic trading strategies and market dynamics Understand its role in optimizing trade execution and minimizing costs"
+category: quant_concept
+description: Explore how instantaneous impact affects algorithmic trading strategies
+  and market dynamics Understand its role in optimizing trade execution and minimizing
+  costs
+title: Instantaneous impact (Algo Trading)
 ---
 
 Algorithmic trading, commonly referred to as algo trading, has revolutionized trade execution in financial markets. This approach leverages computer programs alongside sophisticated mathematical models to drive trading decisions, ensuring high efficiency and speed. Algo trading allows for the execution of complex strategies that would be difficult, if not impossible, to manage manually, thus providing significant advantages in terms of execution timing and cost efficiency.

@@ -1,6 +1,8 @@
 ---
-title: "Stock Trader: Types and Comparison with Stock Broker (Algo Trading)"
-description: "Explore various stock trading types and compare them with brokerage roles in our detailed guide Discover insights on algorithmic trading's market influence"
+category: trading_strategy
+description: Explore various stock trading types and compare them with brokerage roles
+  in our detailed guide Discover insights on algorithmic trading's market influence
+title: 'Stock Trader: Types and Comparison with Stock Broker (Algo Trading)'
 ---
 
 Trading, a cornerstone of financial markets, encompasses a wide array of strategies and participants. The accessibility of stock trading provides both individuals and institutions the opportunity to engage with the market through activities like buying and selling shares of companies. Furthermore, the evolution of technology has ushered in advanced methodologies like algorithmic trading, which leverages computer programs to execute trades at speeds impossible for human traders.

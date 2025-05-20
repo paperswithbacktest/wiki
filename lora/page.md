@@ -1,7 +1,8 @@
 ---
-title: Understanding LoRA Low-Rank Adaptation In Machine Learning
+category: quant_concept
 description: LoRA enables fast fine-tuning of large models by adding small trainable
   matrices to existing weights saving time and resources. Discover more inside.
+title: Understanding LoRA Low-Rank Adaptation In Machine Learning
 ---
 
 ![Image](images/1.png)

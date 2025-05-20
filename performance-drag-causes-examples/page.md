@@ -1,6 +1,9 @@
 ---
-title: "Performance Drag: Causes and Examples (Algo Trading)"
-description: "Explore how performance drag affects algo trading returns and discover strategies to optimize trading efficiency by mitigating common costs and execution delays."
+category: trading_strategy
+description: Explore how performance drag affects algo trading returns and discover
+  strategies to optimize trading efficiency by mitigating common costs and execution
+  delays.
+title: 'Performance Drag: Causes and Examples (Algo Trading)'
 ---
 
 In the fast-paced world of trading, algorithmic trading, also known as algo trading, has carved out a significant niche. This method leverages computer algorithms to execute trades at speeds and frequencies unreachable by human traders, resulting in heightened efficiency and swiftness. Algo trading employs strategies that can analyze vast amounts of data and execute decisions within fractions of a second, giving traders a substantial edge in the financial markets.

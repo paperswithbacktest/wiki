@@ -1,6 +1,9 @@
 ---
-title: "Correlation in Modern Portfolio Theory (Algo Trading)"
-description: "Explore how Modern Portfolio Theory correlation and algorithmic trading optimize investment strategies for analysts managers and investors seeking deeper insights"
+category: quant_concept
+description: Explore how Modern Portfolio Theory correlation and algorithmic trading
+  optimize investment strategies for analysts managers and investors seeking deeper
+  insights
+title: Correlation in Modern Portfolio Theory (Algo Trading)
 ---
 
 This article aims to elucidate the interconnected roles of Modern Portfolio Theory (MPT), correlation, and algorithmic trading in contemporary investment strategies. The target audience includes financial analysts, portfolio managers, and investors looking to deepen their understanding of these foundational concepts and their applications in optimizing investment portfolios.

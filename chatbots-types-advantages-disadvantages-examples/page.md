@@ -1,6 +1,8 @@
 ---
-title: "Chatbots: Types, Advantages, Disadvantages, and Examples (Algo Trading)"
-description: "Explore the impact of AI in trading with insights into chatbots, their pros and cons, and examples. Discover how AI reshapes communication and finance."
+category: quant_concept
+description: Explore the impact of AI in trading with insights into chatbots, their
+  pros and cons, and examples. Discover how AI reshapes communication and finance.
+title: 'Chatbots: Types, Advantages, Disadvantages, and Examples (Algo Trading)'
 ---
 
 The integration of Artificial Intelligence (AI) across diverse sectors has significantly transformed operational frameworks, paving the way for enhanced efficiency and innovation. AI technologies, especially virtual assistants, chatbots, and algorithmic trading systems, have emerged as key players in this technological revolution.

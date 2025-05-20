@@ -1,6 +1,9 @@
 ---
-title: "Zero Interest-Rate Policy: Mechanism and Objectives (Algo Trading)"
-description: "Explore how Zero Interest Rate Policy influences algorithmic trading strategies amid economic changes Discover how AI impacts trading models in this context"
+category: quant_concept
+description: Explore how Zero Interest Rate Policy influences algorithmic trading
+  strategies amid economic changes Discover how AI impacts trading models in this
+  context
+title: 'Zero Interest-Rate Policy: Mechanism and Objectives (Algo Trading)'
 ---
 
 Zero Interest Rate Policy (ZIRP) represents a strategic approach in monetary policy where a central bank sets nominal interest rates at or near zero percent. This strategy is typically employed during periods of economic stagnation or deflationary pressures, aiming to encourage borrowing, stimulate economic activity, and avert deflation. The significance of ZIRP in modern economic systems lies in its potential to reshape spending, saving, and investment behaviors by altering the cost of credit, impacting overall economic growth and stability.

@@ -1,7 +1,8 @@
 ---
-title: Understanding Pooling Operations in Convolutional Neural Networks
+category: quant_concept
 description: Pooling operations reduce spatial dimensions and improve CNN performance
   by focusing on essential features across layers Discover more inside.
+title: Understanding Pooling Operations in Convolutional Neural Networks
 ---
 
 ![Image](images/1.png)

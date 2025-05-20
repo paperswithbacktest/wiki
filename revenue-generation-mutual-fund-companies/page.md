@@ -1,6 +1,8 @@
 ---
-title: "Revenue Generation by Mutual Fund Companies (Algo Trading)"
-description: "Explore revenue generation by mutual fund companies through management and performance fees while leveraging algorithmic trading for optimized returns."
+category: quant_concept
+description: Explore revenue generation by mutual fund companies through management
+  and performance fees while leveraging algorithmic trading for optimized returns.
+title: Revenue Generation by Mutual Fund Companies (Algo Trading)
 ---
 
 Mutual funds are investment vehicles that pool capital from multiple investors to invest in a diversified portfolio of stocks, bonds, or other securities. Managed by professional fund managers, these funds offer individual investors the advantage of diversification, professional management, and economies of scale, making them a cornerstone of many investment strategies. A primary role of mutual funds is to provide investors with an avenue to achieve their financial goals through both capital appreciation and income generation.

@@ -1,6 +1,8 @@
 ---
-title: "SEC Form 424B2: Purpose and Functionality (Algo Trading)"
-description: "Learn the purpose and functionality of SEC Form 424B2 in securities offerings and algorithmic trading highlighting its role in transparency and market dynamics."
+category: quant_concept
+description: Learn the purpose and functionality of SEC Form 424B2 in securities offerings
+  and algorithmic trading highlighting its role in transparency and market dynamics.
+title: 'SEC Form 424B2: Purpose and Functionality (Algo Trading)'
 ---
 
 The financial sector is continuously adapting to new market dynamics and regulatory changes, one of which is the evolution of securities offerings. In this evolving landscape, SEC Form 424B2 serves as a critical instrument within the regulatory framework for companies undertaking a primary offering of securities on a delayed basis. This form provides a detailed prospectus that includes vital information on the price, distribution method, and other specifics of the new securities, which is crucial for maintaining transparency and ensuring that investors can make informed decisions.

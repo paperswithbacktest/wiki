@@ -1,6 +1,8 @@
 ---
-title: "Pyramiding in Investing (Algo Trading)"
-description: "Explore the potential of pyramiding in algorithmic trading with strategies that maximize profits using accrued gains while minimizing risks and human biases."
+category: trading_strategy
+description: Explore the potential of pyramiding in algorithmic trading with strategies
+  that maximize profits using accrued gains while minimizing risks and human biases.
+title: Pyramiding in Investing (Algo Trading)
 ---
 
 In the ever-evolving landscape of trading, strategies that effectively maximize profit while minimizing risk remain crucial for traders seeking competitive advantage. Among these strategies, pyramiding stands out as a method that leverages accrued profits to increase trading positions, offering a dynamic approach to capitalizing on market trends. This strategy strategically utilizes unrealized gains from existing investments to scale up positions, potentially amplifying returns without a substantial initial capital increase.

@@ -1,7 +1,8 @@
 ---
-title: Understanding TensorFlow Metrics API for Model Evaluation
+category: quant_concept
 description: TensorFlow Metrics API lets you track and analyze model performance with
   built in and custom metrics in real time and optimize models Discover more inside
+title: Understanding TensorFlow Metrics API for Model Evaluation
 ---
 
 ![Image](images/1.jpeg)

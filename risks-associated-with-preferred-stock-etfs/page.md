@@ -1,6 +1,9 @@
 ---
-title: "Risks Associated with Preferred Stock ETFs (Algo Trading)"
-description: "Explore the risks of Preferred Stock ETFs and algo trading Learn about associated challenges and strategies to navigate this dynamic financial landscape effectively"
+category: trading_strategy
+description: Explore the risks of Preferred Stock ETFs and algo trading Learn about
+  associated challenges and strategies to navigate this dynamic financial landscape
+  effectively
+title: Risks Associated with Preferred Stock ETFs (Algo Trading)
 ---
 
 Investment vehicles such as Exchange-Traded Funds (ETFs), preferred stock, and algorithmic trading have become significant in the modern financial landscape. These instruments provide new avenues for growth and diversification but also introduce novel challenges and risks. As these investment vehicles gain traction, understanding their complexities is more crucial than ever for making informed decisions.

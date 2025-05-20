@@ -1,6 +1,8 @@
 ---
-title: "Options Strategies During Economic Downturns (Algo Trading)"
-description: "Navigate economic downturns with strategic options and algorithmic trading to mitigate risks, maximize returns, and enhance financial resilience and growth."
+category: trading_strategy
+description: Navigate economic downturns with strategic options and algorithmic trading
+  to mitigate risks, maximize returns, and enhance financial resilience and growth.
+title: Options Strategies During Economic Downturns (Algo Trading)
 ---
 
 Economic downturns are periods characterized by declining economic activity, typically identified by falling GDP, rising unemployment, and decreased consumer spending. These downturns can have profound effects on financial markets, often leading to heightened volatility, reduced asset prices, and diminished investor confidence. Recognizing the potential for financial instability during such times underscores the importance of robust strategic financial planning.

@@ -1,6 +1,9 @@
 ---
-title: "Contract Market: Overview and Historical Context (Algo Trading)"
-description: "Explore the evolution of contract markets and algorithmic trading, from manual methods to high-frequency trading, shaping efficiency and financial markets globally."
+category: quant_concept
+description: Explore the evolution of contract markets and algorithmic trading, from
+  manual methods to high-frequency trading, shaping efficiency and financial markets
+  globally.
+title: 'Contract Market: Overview and Historical Context (Algo Trading)'
 ---
 
 Financial markets have experienced profound changes over the years, transitioning from traditional manual methods of trading to the sophisticated realm of algorithmic trading. This transformation has been driven by a series of key developments throughout market history that have fundamentally altered how trading is conducted worldwide.

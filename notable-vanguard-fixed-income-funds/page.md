@@ -1,6 +1,9 @@
 ---
-title: "Notable Vanguard Fixed-Income Funds (Algo Trading)"
-description: "Explore notable Vanguard fixed-income funds with a focus on algorithmic trading for optimized investments Discover diversified portfolios and steady income options"
+category: trading_strategy
+description: Explore notable Vanguard fixed-income funds with a focus on algorithmic
+  trading for optimized investments Discover diversified portfolios and steady income
+  options
+title: Notable Vanguard Fixed-Income Funds (Algo Trading)
 ---
 
 The investment landscape today presents a wide array of options catering to both novice and seasoned investors seeking to diversify their portfolios and enhance their financial returns. Among the plethora of available investment choices, Vanguard funds stand out due to their reputation for reliability and their cost-effective structure, particularly in the fixed-income investment sector. Vanguard's approach is characterized by offering a breadth of diversified portfolio options, allowing investors access to robust opportunities for steady income generation and capital preservation at minimal expense ratios.

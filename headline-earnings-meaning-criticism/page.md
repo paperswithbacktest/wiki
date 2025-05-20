@@ -1,6 +1,9 @@
 ---
-title: "Headline Earnings: Meaning and Criticism (Algo Trading)"
-description: "Explore the significance of headline earnings in financial reporting and algorithmic trading as they focus on core profitability by excluding non-recurring items."
+category: quant_concept
+description: Explore the significance of headline earnings in financial reporting
+  and algorithmic trading as they focus on core profitability by excluding non-recurring
+  items.
+title: 'Headline Earnings: Meaning and Criticism (Algo Trading)'
 ---
 
 In an era marked by intricate financial reporting standards, investors and analysts alike seek transparent metrics to accurately gauge a company's genuine financial health. Amidst these complexities, headline earnings have emerged as a crucial metric in financial analysis, providing a distinct perspective on a company's core operational profitability. Unlike traditional earnings measures that incorporate a wide array of financial activities, headline earnings focus solely on the income derived from a company’s core business operations, excluding the noise of extraordinary or non-recurring items. 

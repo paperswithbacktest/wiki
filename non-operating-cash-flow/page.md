@@ -1,6 +1,8 @@
 ---
-title: "Non-Operating Cash Flow (Algo Trading)"
-description: "Explore the critical role of non-operating cash flow in financial analysis and algorithmic trading to enhance your trading strategies and investment decisions."
+category: quant_concept
+description: Explore the critical role of non-operating cash flow in financial analysis
+  and algorithmic trading to enhance your trading strategies and investment decisions.
+title: Non-Operating Cash Flow (Algo Trading)
 ---
 
 Understanding non-operating cash flow is essential in the fast-paced field of finance, particularly for algorithmic traders seeking a comprehensive analysis. Non-operating cash flow pertains to cash inflows and outflows that do not originate from a company's core business activities. These typically arise from investing and financing actions, such as sales of assets, investment income, or capital raised through debt and equity. Distinct from operating cash flow, which covers day-to-day business transactions, non-operating cash flow captures strategic financial decisions that impact a company's long-term fiscal health.

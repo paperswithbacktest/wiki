@@ -1,6 +1,9 @@
 ---
-title: "Address Commission: Overview and Functionality (Algo Trading)"
-description: "Explore the impact of algorithmic trading on commission structures in modern financial markets highlighting innovations and regulatory adaptations driving market evolution."
+category: quant_concept
+description: Explore the impact of algorithmic trading on commission structures in
+  modern financial markets highlighting innovations and regulatory adaptations driving
+  market evolution.
+title: 'Address Commission: Overview and Functionality (Algo Trading)'
 ---
 
 The financial landscape has undergone profound changes in recent years, largely driven by the advent of algorithmic trading and its interaction with commission structures within trading operations. Algorithmic trading, which utilizes computer programs to execute trades at speeds and efficiencies unattainable by human traders, has been a significant force in reshaping how markets operate. This transformation is not solely technological; it also involves the intricate dynamics of commission structures that facilitate, regulate, and sometimes challenge these trading innovations.

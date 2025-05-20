@@ -1,6 +1,8 @@
 ---
-title: "Buyers-Sellers Balance: Concept, Mechanism, and Imbalances (Algo Trading)"
-description: "Explore the critical role of buyer-seller balance in financial markets and how algorithmic trading leverages imbalances to optimize trading strategies."
+category: quant_concept
+description: Explore the critical role of buyer-seller balance in financial markets
+  and how algorithmic trading leverages imbalances to optimize trading strategies.
+title: 'Buyers-Sellers Balance: Concept, Mechanism, and Imbalances (Algo Trading)'
 ---
 
 Understanding the balance between buyers and sellers in a market is crucial for traders and investors. This balance is fundamental to the efficient functioning of financial markets, where the price of an asset is determined by the forces of supply and demand. A state of equilibrium is achieved when the quantity of a commodity that buyers wish to purchase matches the quantity that sellers wish to sell at a given price level. The interaction between buyers and sellers contributes to the determination of market prices and ensures the allocation of resources.

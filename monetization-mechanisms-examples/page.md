@@ -1,6 +1,9 @@
 ---
-title: "Monetization: Definition, Mechanisms, and Examples (Algo Trading)"
-description: "Explore how businesses leverage algorithmic trading to optimize revenue models and monetize assets effectively, enhancing profitability with advanced financial technology."
+category: quant_concept
+description: Explore how businesses leverage algorithmic trading to optimize revenue
+  models and monetize assets effectively, enhancing profitability with advanced financial
+  technology.
+title: 'Monetization: Definition, Mechanisms, and Examples (Algo Trading)'
 ---
 
 In the ever-evolving landscape of business and finance, the strategies companies employ to boost revenues are critical. Among these strategies, the utilization of advanced technology and financial intelligence, like algorithmic trading, is making significant waves. Algorithmic trading, often referred to as 'algo trading,' leverages computer algorithms to automatically execute trades based on predefined criteria. This technology allows for the processing of large volumes of data at speeds unattainable for human traders, thereby reducing human error and eliminating emotional biases.

@@ -1,6 +1,9 @@
 ---
-title: "Dynamic Gap Analysis (Algo Trading)"
-description: "Explore how gap analysis and dynamic gap analysis enhance algorithmic trading by identifying discrepancies optimizing strategies and managing risks in real-time."
+category: trading_strategy
+description: Explore how gap analysis and dynamic gap analysis enhance algorithmic
+  trading by identifying discrepancies optimizing strategies and managing risks in
+  real-time.
+title: Dynamic Gap Analysis (Algo Trading)
 ---
 
 In the world of trading, utilizing the right analytical tools can significantly influence the outcomes, delineating success from failure. Among these tools, gap analysis and dynamic gap analysis stand out for their crucial roles in identifying discrepancies and spotting opportunities. Gap analysis is a strategic method used to evaluate the difference between current and desired performance levels, enabling traders to fine-tune their strategies for optimal results. In contrast, dynamic gap analysis involves a more nuanced approach by assessing performance variations over time, particularly in the context of fluctuating market conditions and interest rate changes.

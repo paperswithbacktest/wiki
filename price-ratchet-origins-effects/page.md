@@ -1,6 +1,8 @@
 ---
-title: "Price Ratchet: Origins and Effects (Algo Trading)"
-description: "Explore the origins and effects of the price ratchet phenomenon and algorithmic trading in finance and economics. Understand their lasting market implications."
+category: quant_concept
+description: Explore the origins and effects of the price ratchet phenomenon and algorithmic
+  trading in finance and economics. Understand their lasting market implications.
+title: 'Price Ratchet: Origins and Effects (Algo Trading)'
 ---
 
 The world of finance and economics encompasses a variety of phenomena that significantly influence market behavior. Key among these are concepts like price stability, the price ratchet effect, and algorithmic trading. Understanding these concepts provides a comprehensive view of their impact on the economic landscape.

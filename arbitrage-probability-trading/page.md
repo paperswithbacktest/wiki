@@ -1,6 +1,8 @@
 ---
-title: "Arbitrage and Probability in Trading (Algo Trading)"
-description: "Explore the dynamic world of arbitrage and probability in algo trading Discover strategies to capitalize on market inefficiencies and maximize profits"
+category: quant_concept
+description: Explore the dynamic world of arbitrage and probability in algo trading
+  Discover strategies to capitalize on market inefficiencies and maximize profits
+title: Arbitrage and Probability in Trading (Algo Trading)
 ---
 
 In recent years, arbitrage trading has emerged as a focal point in financial markets, capturing the interest of both institutional and retail investors. Arbitrage involves capitalizing on the price differences of the same asset across multiple markets or securities, effectively purchasing the asset where it is undervalued and selling it where it is overvalued. This practice is grounded in the assumption that market inefficiencies prevent prices from instantly reflecting an asset's true value across different platforms.

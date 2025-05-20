@@ -1,6 +1,8 @@
 ---
-title: "Multi-Currency Note Facility Explained (Algo Trading)"
-description: "Discover the synergy between multi-currency note facilities and algorithmic trading to optimize multinational financial operations and mitigate currency risks."
+category: quant_concept
+description: Discover the synergy between multi-currency note facilities and algorithmic
+  trading to optimize multinational financial operations and mitigate currency risks.
+title: Multi-Currency Note Facility Explained (Algo Trading)
 ---
 
 Multicurrency financial instruments play a crucial role in the global financial system by providing businesses and investors the flexibility to operate across different currency zones. These instruments are essential in managing foreign exchange risk, optimizing global funding strategies, and enhancing liquidity management. One prominent form of multicurrency financial instruments is multi-currency note facilities. These facilities allow organizations to access credit across various currencies, thereby facilitating international trade and investment.

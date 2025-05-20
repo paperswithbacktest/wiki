@@ -1,6 +1,9 @@
 ---
-title: "Position-Delta Neutral Trading Strategies (Algo Trading)"
-description: "Explore delta neutral trading strategies in algo trading and learn how to minimize market risk while leveraging volatility with automated portfolio management tools."
+category: trading_strategy
+description: Explore delta neutral trading strategies in algo trading and learn how
+  to minimize market risk while leveraging volatility with automated portfolio management
+  tools.
+title: Position-Delta Neutral Trading Strategies (Algo Trading)
 ---
 
 Delta neutral trading is an advanced strategy utilized by traders to minimize exposure to the price movements of an underlying asset. This technique focuses on balancing the delta, a key metric in options trading that measures the sensitivity of an option's price to changes in the price of the underlying asset. Achieving delta neutrality involves structuring a portfolio of financial instruments so that the overall delta is zero or close to zero, thereby insuring the trader against adverse movements in the market price of the underlying asset.

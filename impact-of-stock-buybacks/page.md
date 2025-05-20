@@ -1,6 +1,9 @@
 ---
-title: "Impact of Stock Buybacks (Algo Trading)"
-description: "Explore the impact of stock buybacks corporate finance strategies and algorithmic trading on modern investments Learn how these elements shape financial outcomes"
+category: trading_strategy
+description: Explore the impact of stock buybacks corporate finance strategies and
+  algorithmic trading on modern investments Learn how these elements shape financial
+  outcomes
+title: Impact of Stock Buybacks (Algo Trading)
 ---
 
 In today's dynamic financial landscape, three key components—stock buybacks, corporate finance strategies, and algorithmic trading—are increasingly influencing investing. A thorough understanding of these elements can significantly enhance both individual and organizational investment strategies by optimizing resource allocation and improving financial outcomes.

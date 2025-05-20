@@ -1,6 +1,9 @@
 ---
-title: "Monopsony: Causes, Objections, and Examples (Algo Trading)"
-description: "Explore the effects of monopsony on market dynamics and algorithmic trading intersect. Understand causes objections examples and implications for investors and regulators."
+category: quant_concept
+description: Explore the effects of monopsony on market dynamics and algorithmic trading
+  intersect. Understand causes objections examples and implications for investors
+  and regulators.
+title: 'Monopsony: Causes, Objections, and Examples (Algo Trading)'
 ---
 
 Monopsony, a term originating in economic theory, refers to a market situation where a single buyer substantially controls the market as the major purchaser of goods or services. This control allows the monopsonist to dictate terms to suppliers, potentially leading to lower prices for inputs but also possibly to a reduction in the supply of goods. The significance of monopsony lies in its profound impact on market dynamics, pricing, and the allocation of resources. Unlike monopoly, which involves a single seller, monopsony focuses on the buyer's power, demonstrating how market power can affect both supply and demand sides of the market.

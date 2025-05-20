@@ -1,6 +1,8 @@
 ---
-title: "Biothermal Energy: Overview and Applications (Algo Trading)"
-description: "Explore biothermal energy and its synergy with algorithmic trading in the energy sector Discover how this integration enhances efficiency and sustainability"
+category: quant_concept
+description: Explore biothermal energy and its synergy with algorithmic trading in
+  the energy sector Discover how this integration enhances efficiency and sustainability
+title: 'Biothermal Energy: Overview and Applications (Algo Trading)'
 ---
 
 Renewable energy has become a cornerstone in addressing global energy demands while mitigating environmental impacts. The transition from fossil fuels to sustainable energy sources is critical in reducing greenhouse gas emissions and combating climate change. As countries strive to meet ambitious climate goals, the integration of various forms of renewable energy, from solar and wind to emerging technologies like biothermal energy, is increasingly important.

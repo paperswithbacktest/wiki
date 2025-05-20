@@ -1,6 +1,8 @@
 ---
-title: "Federal Insurance Contributions Act: Overview and Participation (Algo Trading)"
-description: "Explore how the Federal Insurance Contributions Act impacts algorithmic trading and understand its role in investment strategies and financial planning."
+category: quant_concept
+description: Explore how the Federal Insurance Contributions Act impacts algorithmic
+  trading and understand its role in investment strategies and financial planning.
+title: 'Federal Insurance Contributions Act: Overview and Participation (Algo Trading)'
 ---
 
 This article explores the relationship between the Federal Insurance Contributions Act (FICA) and algorithmic trading. FICA is a tax mechanism integral to funding essential social programs like Social Security and Medicare. Algorithmic trading, characterized by automated processes in financial markets, has gained immense popularity due to its efficiency and speed. Understanding FICA's influence on financial planning and investment strategies is crucial for individuals seeking to optimize their personal finances. 

@@ -1,6 +1,8 @@
 ---
-title: "Economically Disadvantaged U.S. Presidents (Algo Trading)"
-description: "Explore the financial challenges faced by some of the poorest U.S. presidents and how their economic journeys reflect the broader national economic conditions."
+category: quant_concept
+description: Explore the financial challenges faced by some of the poorest U.S. presidents
+  and how their economic journeys reflect the broader national economic conditions.
+title: Economically Disadvantaged U.S. Presidents (Algo Trading)
 ---
 
 The financial status of U.S. presidents has often reflected the broader economic conditions of their respective eras. While some presidents entered the White House with considerable wealth, others faced notable financial hardships both before and during their presidencies. This article seeks to explore these economic disparities by examining some of the poorest individuals to have held the highest office in the United States and how their financial journeys have mirrored or diverged from national trends.

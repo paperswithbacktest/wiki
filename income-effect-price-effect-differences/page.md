@@ -1,6 +1,9 @@
 ---
-title: "Income Effect and Price Effect: Differences (Algo Trading)"
-description: "Explore the differences between income effect and price effect in the context of algorithmic trading. Learn how these economic concepts influence trading strategies."
+category: quant_concept
+description: Explore the differences between income effect and price effect in the
+  context of algorithmic trading. Learn how these economic concepts influence trading
+  strategies.
+title: 'Income Effect and Price Effect: Differences (Algo Trading)'
 ---
 
 In the rapidly evolving world of finance, the understanding of economic concepts such as the income effect and price effect is crucial. These concepts are pivotal, particularly in the context of algorithmic trading, which utilizes complex mathematical models to automate trading strategies. Algorithmic trading involves using algorithms to make investment decisions, execute trades, and manage risk, frequently leveraging advances in technology and real-time data to gain competitive advantages in the market. Such strategies can significantly benefit from applying foundational economic theories to predict market reactions and optimize performance.

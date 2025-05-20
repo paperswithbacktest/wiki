@@ -1,6 +1,8 @@
 ---
-title: "Credit Checking: Overview and Process (Algo Trading)"
-description: "Explore the synergy between financial assessments, credit reports, and algo trading to enhance decision-making and gain a strategic edge in complex markets."
+category: quant_concept
+description: Explore the synergy between financial assessments, credit reports, and
+  algo trading to enhance decision-making and gain a strategic edge in complex markets.
+title: 'Credit Checking: Overview and Process (Algo Trading)'
 ---
 
 In the rapidly evolving financial landscape, understanding the interplay between financial assessments, credit reports, credit checks, and algorithmic (algo) trading is crucial for making informed decisions. Financial assessments provide a fundamental insight into an individual's or a company's financial health. These assessments typically involve analyzing various metrics and indicators such as liquidity and solvency ratios, which help determine financial stability and performance potential. This foundational insight is essential for making strategic decisions in lending, investing, and overall financial management.
@@ -271,4 +273,3 @@ Books, articles, and online resources provide a deep understanding of financial 
    While not specific to financial data, GDPR impacts how personal data, including credit information, is handled within financial systems.
 
 These resources offer a foundational understanding and are vital for anyone interested in the intricate workings of financial assessments, credit analysis, and algorithmic trading, ensuring informed engagement with the financial markets.
-

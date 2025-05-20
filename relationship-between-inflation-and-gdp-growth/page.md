@@ -1,6 +1,9 @@
 ---
-title: "Relationship Between Inflation and GDP Growth (Algo Trading)"
-description: "Explore the critical role of inflation and GDP growth in economic stability and market behavior, and how algorithmic trading uses these indicators for strategic decisions."
+category: quant_concept
+description: Explore the critical role of inflation and GDP growth in economic stability
+  and market behavior, and how algorithmic trading uses these indicators for strategic
+  decisions.
+title: Relationship Between Inflation and GDP Growth (Algo Trading)
 ---
 
 In today's dynamic financial landscape, the intricate interplay between inflation and GDP growth serves as a fundamental pillar in understanding economic stability and market behavior. These economic indicators are not only reflective of a nation's economic health but also influence investment strategies within financial markets, where algorithmic trading has become increasingly prominent.

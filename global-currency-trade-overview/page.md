@@ -1,6 +1,8 @@
 ---
-title: "Global Currency Trade Overview (Algo Trading)"
-description: "Explore the transformation of global currency trading through algorithmic systems that drive efficiency and sophistication, reshaping financial market dynamics."
+category: trading_strategy
+description: Explore the transformation of global currency trading through algorithmic
+  systems that drive efficiency and sophistication, reshaping financial market dynamics.
+title: Global Currency Trade Overview (Algo Trading)
 ---
 
 The global financial market has undergone significant transformations over the past few decades, with the currency exchange market positioned at the forefront of these changes. As a pivotal component of international finance, the currency exchange market facilitates the seamless trade of currencies across borders, contributing to global economic interconnectivity. The integration of algorithmic trading represents a major shift in currency trading strategies and market dynamics, introducing efficiency and sophistication to trading processes.

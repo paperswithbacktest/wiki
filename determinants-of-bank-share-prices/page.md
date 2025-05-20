@@ -1,6 +1,9 @@
 ---
-title: "Determinants of Bank Share Prices (Algo Trading)"
-description: "Explore key factors influencing bank share prices including growth potential banking risks and algorithmic trading impacts offering insights for informed investment choices."
+category: trading_strategy
+description: Explore key factors influencing bank share prices including growth potential
+  banking risks and algorithmic trading impacts offering insights for informed investment
+  choices.
+title: Determinants of Bank Share Prices (Algo Trading)
 ---
 
 The banking sector plays a crucial role in the financial markets, acting as a central intermediary in the flow of capital and risk management. Understanding the dynamics that affect bank share prices is essential for investors, analysts, and policymakers as these prices reflect the underlying health and prospects of financial institutions and the broader economy. A myriad of financial determinants and stock drivers come into play when valuing bank shares, offering insights into their performance and potential.

@@ -1,6 +1,8 @@
 ---
-title: "Arab Petroleum Exporting Countries Organization (Algo Trading)"
-description: "Discover how OAPEC influences global oil markets and explores the rise of algorithmic trading, enhancing trade efficiency in the volatile oil industry."
+category: dataset
+description: Discover how OAPEC influences global oil markets and explores the rise
+  of algorithmic trading, enhancing trade efficiency in the volatile oil industry.
+title: Arab Petroleum Exporting Countries Organization (Algo Trading)
 ---
 
 The Organization of Arab Petroleum Exporting Countries (OAPEC) plays a crucial role in global oil markets and trade. Established in 1968, the organization aims to foster cooperation among Arab oil-producing nations. Since its inception, OAPEC has significantly influenced the Arab oil and gas industry, aligning its strategies with global market trends to ensure that the interests of its member countries are effectively represented on the world stage.

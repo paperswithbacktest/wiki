@@ -1,6 +1,9 @@
 ---
-title: "Activity-Based Budgeting: Overview, Mechanics, and Example (Algo Trading)"
-description: "Discover how Activity-Based Budgeting enhances financial management by focusing on activities that incur costs. Align resources with strategic objectives effectively."
+category: quant_concept
+description: Discover how Activity-Based Budgeting enhances financial management by
+  focusing on activities that incur costs. Align resources with strategic objectives
+  effectively.
+title: 'Activity-Based Budgeting: Overview, Mechanics, and Example (Algo Trading)'
 ---
 
 In today's dynamic financial landscape, organizations are constantly seeking strategies to improve cost efficiency and align resource allocation with strategic objectives. One methodology that has gained prominence is Activity-Based Budgeting (ABB). ABB is a budgeting technique that emphasizes the importance of budgeting based on activities that incur costs, rather than relying solely on historical data. Traditional budgeting methods often focus on adjusting past budgets, mainly accounting for expected inflation and growth. In contrast, ABB provides a comprehensive approach by focusing on understanding and analyzing the activities that contribute to costs.

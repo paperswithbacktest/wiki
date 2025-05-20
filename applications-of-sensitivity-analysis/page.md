@@ -1,6 +1,9 @@
 ---
-title: "Applications of Sensitivity Analysis (Algo Trading)"
-description: "Explore the importance of sensitivity analysis in algorithmic trading to optimize strategies and enhance robustness against market fluctuations and unforeseen events."
+category: trading_strategy
+description: Explore the importance of sensitivity analysis in algorithmic trading
+  to optimize strategies and enhance robustness against market fluctuations and unforeseen
+  events.
+title: Applications of Sensitivity Analysis (Algo Trading)
 ---
 
 In the rapidly evolving field of quantitative finance, the integration of quantitative research techniques with algorithmic trading represents a crucial advancement. Algorithmic trading, which uses computer algorithms to automatically execute trading strategies, benefits immensely from the precision and systematization offered by quantitative research. Within this framework, sensitivity analysis has emerged as a vital tool for enhancing trading strategies. 
@@ -138,4 +141,3 @@ Aronson, D. (2007). Evidence-Based Technical Analysis: Applying the Scientific M
 Jansen, S. (2020). Machine Learning for Algorithmic Trading. This book explores machine learning applications specific to algorithmic trading, providing practical examples and strategies to implement data-driven trading systems.
 
 Chan, E. P. (2008). Quantitative Trading: How to Build Your Own Algorithmic Trading Business. Chan outlines the process of establishing an algorithmic trading business, covering various quantitative strategies and the importance of [backtesting](/wiki/backtesting) and sensitivity analysis in strategy development.
-

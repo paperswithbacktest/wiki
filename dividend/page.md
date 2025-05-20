@@ -1,6 +1,13 @@
 ---
-title: "Dividend (Algo Trading)"
-description: "Explore the benefits of dividend investing as a key strategy for wealth generation including regular income and potential growth through capital appreciation. Learn about the role of dividends in signaling a company's financial health and how algorithmic trading is revolutionizing dividend strategies by optimizing trade timing and execution. Discover how dividends enhance portfolio diversification and stability by mitigating market volatility, and gain insights into the significance of ex-dividend dates in maximizing returns."
+category: quant_concept
+description: Explore the benefits of dividend investing as a key strategy for wealth
+  generation including regular income and potential growth through capital appreciation.
+  Learn about the role of dividends in signaling a company's financial health and
+  how algorithmic trading is revolutionizing dividend strategies by optimizing trade
+  timing and execution. Discover how dividends enhance portfolio diversification and
+  stability by mitigating market volatility, and gain insights into the significance
+  of ex-dividend dates in maximizing returns.
+title: Dividend (Algo Trading)
 ---
 
 Dividend investment income is a vital component of a comprehensive wealth generation strategy, offering investors the dual benefits of regular income and potential capital appreciation. At its core, dividend investing involves purchasing shares of companies that return a portion of their profits to shareholders in the form of dividends. This concept is foundational to understanding how stocks can generate returns, as dividends provide a tangible mechanism for converting corporate profits into shareholder income.

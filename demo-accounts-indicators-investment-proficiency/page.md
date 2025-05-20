@@ -1,6 +1,9 @@
 ---
-title: "Demo Accounts as Indicators of Investment Proficiency (Algo Trading)"
-description: "Explore investment proficiency using demo accounts and algorithmic trading strategies to hone skills risk-free optimize trading speed and achieve better market outcomes."
+category: quant_concept
+description: Explore investment proficiency using demo accounts and algorithmic trading
+  strategies to hone skills risk-free optimize trading speed and achieve better market
+  outcomes.
+title: Demo Accounts as Indicators of Investment Proficiency (Algo Trading)
 ---
 
 Investing is a cornerstone of financial literacy. It necessitates a comprehensive skill set that combines both traditional knowledge and modern technological tools. This article explores the foundational elements of becoming an adept investor, focusing particularly on enhancing investing skills, utilizing demo accounts, and leveraging algorithmic trading.

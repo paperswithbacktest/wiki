@@ -1,6 +1,8 @@
 ---
-title: "Mirror Trading: Overview, Benefits, and Challenges (Algo Trading)"
-description: "Mirror trading lets investors replicate seasoned traders' strategies in forex, offering exposure to expert decisions while reducing emotional trade biases."
+category: trading_strategy
+description: Mirror trading lets investors replicate seasoned traders' strategies
+  in forex, offering exposure to expert decisions while reducing emotional trade biases.
+title: 'Mirror Trading: Overview, Benefits, and Challenges (Algo Trading)'
 ---
 
 The modern investment landscape has evolved to offer a diverse array of strategies tailored to suit the varying needs and preferences of investors. One strategy that has gained substantial traction in recent years is mirror trading. By leveraging automated trading systems, mirror trading enables investors to replicate the trades of seasoned and successful traders, predominantly within the foreign exchange (forex) markets. This innovative approach provides both novice and experienced investors a pathway to tap into advanced trading strategies without the need for hands-on management of their portfolios.

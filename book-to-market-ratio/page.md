@@ -1,6 +1,8 @@
 ---
-title: "Book-to-Market Ratio (Algo Trading)"
-description: "Explore the significance of the book-to-market ratio in algorithmic trading to assess stock valuation by comparing a company's book and market values."
+category: quant_concept
+description: Explore the significance of the book-to-market ratio in algorithmic trading
+  to assess stock valuation by comparing a company's book and market values.
+title: Book-to-Market Ratio (Algo Trading)
 ---
 
 In financial analysis, the book-to-market ratio is a key indicator for assessing company value. It serves as a tool in investment strategies, especially within algorithmic trading environments. By charting the relationship between a company's book value and its market value, this metric offers a simple yet effective method for evaluating stock valuation.

@@ -1,6 +1,8 @@
 ---
-title: "Clayton Antitrust Act: History, Amendments, and Significance (Algo Trading)"
-description: "Explore the history, amendments, and significance of the Clayton Antitrust Act in regulating anti-competitive practices and its impact on algorithmic trading."
+category: quant_concept
+description: Explore the history, amendments, and significance of the Clayton Antitrust
+  Act in regulating anti-competitive practices and its impact on algorithmic trading.
+title: 'Clayton Antitrust Act: History, Amendments, and Significance (Algo Trading)'
 ---
 
 The Clayton Antitrust Act, enacted in 1914, stands as a significant advancement in U.S. antitrust law. This legislation was introduced with the intent to promote fairness in industrial practices and to enhance competition within markets. Its primary purpose was to address and mitigate anti-competitive behaviors that earlier laws, such as the Sherman Act of 1890, had not adequately managed. Recognizing the gaps and limitations in existing regulatory frameworks, the Clayton Act sought to clarify and extend the provisions of its predecessors.

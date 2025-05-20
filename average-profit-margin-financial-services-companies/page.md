@@ -1,6 +1,8 @@
 ---
-title: "Average Profit Margin Range for Financial Services Companies (Algo Trading)"
-description: "Explore average profit margins in financial services with a focus on algorithmic trading Understand how tech and market dynamics affect profitability"
+category: quant_concept
+description: Explore average profit margins in financial services with a focus on
+  algorithmic trading Understand how tech and market dynamics affect profitability
+title: Average Profit Margin Range for Financial Services Companies (Algo Trading)
 ---
 
 The financial services industry is a cornerstone of the global economy, substantially affecting market dynamics and individual financial stability. This sector comprises various segments such as banking, insurance, asset management, and trading, each playing a vital role in the effective allocation of resources. Within this expansive field, profit margins stand as a crucial metric for assessing the financial health and operational efficiency of businesses.

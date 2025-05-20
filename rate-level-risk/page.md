@@ -1,6 +1,8 @@
 ---
-title: "Rate Level Risk (Algo Trading)"
-description: "Explore the complexities of risk management in algo trading focusing on rate and interest rate risks that affect today's dynamic financial markets."
+category: trading_strategy
+description: Explore the complexities of risk management in algo trading focusing
+  on rate and interest rate risks that affect today's dynamic financial markets.
+title: Rate Level Risk (Algo Trading)
 ---
 
 In the ever-evolving financial markets, understanding risk management is crucial for effective trading and investment strategies. The modern financial landscape is characterized by a variety of risks that investors and institutions must navigate to protect and grow their assets. Central to these risks are financial risk, rate risk, interest rate risk, and algorithmic trading, each playing a significant role in the dynamics of today's markets.

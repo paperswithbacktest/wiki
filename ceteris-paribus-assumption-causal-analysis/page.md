@@ -1,6 +1,8 @@
 ---
-title: "Ceteris Paribus Assumption in Causal Analysis (Algo Trading)"
-description: "Understanding ceteris paribus in algorithmic trading is crucial for isolating causal effects between market variables leading to better trading strategies."
+category: quant_concept
+description: Understanding ceteris paribus in algorithmic trading is crucial for isolating
+  causal effects between market variables leading to better trading strategies.
+title: Ceteris Paribus Assumption in Causal Analysis (Algo Trading)
 ---
 
 In the intriguing world of algorithmic trading, understanding the causality between variables is pivotal for success. Algorithmic trading involves the use of computer algorithms to automate trading decisions, analyzing vast amounts of data to determine the best times and ways to buy or sell financial instruments. In such a complex field, identifying and understanding the causal effects between various market variables can significantly enhance trading strategies and improve financial outcomes.

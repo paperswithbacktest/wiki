@@ -1,6 +1,9 @@
 ---
-title: "Quanto Swap: Overview and Requirements (Algo Trading)"
-description: "Explore the intricacies of quanto swaps, advanced financial derivatives that facilitate currency risk management and access to foreign interest rates in global markets."
+category: quant_concept
+description: Explore the intricacies of quanto swaps, advanced financial derivatives
+  that facilitate currency risk management and access to foreign interest rates in
+  global markets.
+title: 'Quanto Swap: Overview and Requirements (Algo Trading)'
 ---
 
 In the world of financial derivatives, quanto swaps play a crucial role by enabling investors to manage currency risk while gaining exposure to foreign interest rates or assets. These sophisticated instruments allow parties to engage in cash-settled, cross-currency interest rate swaps, where the interest payments are exchanged in different currencies but settled in a single currency. This mechanism allows investors to lock in fixed exchange rates and mitigate the potential losses associated with currency fluctuations.

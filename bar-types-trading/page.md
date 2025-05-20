@@ -1,6 +1,14 @@
 ---
-title: "Bar Types in Trading (Algo Trading)"
-description: Explore the critical role of trading bars in algorithmic trading with this comprehensive guide. Understand the various types of trading bars including time bars, tick bars, volume bars, dollar bars, and imbalance bars. Discover how each type influences strategy formulation and execution in algo trading, offering distinct advantages and challenges. Learn how trading bars integrate into automated systems to enhance technical analysis and improve trading performance, providing a competitive edge in today's fast-paced financial markets. Perfect for traders seeking to refine their strategies and gain deeper insights into market trends.
+category: quant_concept
+description: Explore the critical role of trading bars in algorithmic trading with
+  this comprehensive guide. Understand the various types of trading bars including
+  time bars, tick bars, volume bars, dollar bars, and imbalance bars. Discover how
+  each type influences strategy formulation and execution in algo trading, offering
+  distinct advantages and challenges. Learn how trading bars integrate into automated
+  systems to enhance technical analysis and improve trading performance, providing
+  a competitive edge in today's fast-paced financial markets. Perfect for traders
+  seeking to refine their strategies and gain deeper insights into market trends.
+title: Bar Types in Trading (Algo Trading)
 ---
 
 Algorithmic trading, often referred to as algo trading, is a transformative approach that has reshaped financial markets by leveraging sophisticated algorithms to automate trading processes. This advanced methodology enables traders to execute orders and strategies at speeds and frequencies impossible for human traders. A fundamental component of this automated trading landscape is the use of trading bars. Trading bars can profoundly affect how trading strategies are formulated and executed, making them a crucial aspect of algorithmic trading systems.

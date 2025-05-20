@@ -1,6 +1,9 @@
 ---
-title: "Commercial Paper (Algo Trading)"
-description: "Discover the role of commercial paper and algorithmic trading in money markets offering short-term financing tools for corporations and strategic benefits for traders."
+category: quant_concept
+description: Discover the role of commercial paper and algorithmic trading in money
+  markets offering short-term financing tools for corporations and strategic benefits
+  for traders.
+title: Commercial Paper (Algo Trading)
 ---
 
 Commercial paper serves as a crucial component within money market instruments, offering short-term financing solutions for corporations. These unsecured debt instruments are typically utilized by companies to manage working capital requirements, such as payroll, accounts payable, and inventories. Due to its cost-effectiveness compared to traditional bank loans, particularly for large corporations, commercial paper often becomes a preferred route for raising capital with maturities ranging from a few days up to 270 days.

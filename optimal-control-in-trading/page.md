@@ -1,6 +1,9 @@
 ---
-title: "Optimal Control in Trading (Algo Trading)"
-description: "Discover the synergy between algorithmic trading and optimal control in financial markets Learn how complex algorithms enhance trade execution and risk management"
+category: trading_strategy
+description: Discover the synergy between algorithmic trading and optimal control
+  in financial markets Learn how complex algorithms enhance trade execution and risk
+  management
+title: Optimal Control in Trading (Algo Trading)
 ---
 
 Algorithmic trading represents a significant evolution in financial markets, utilizing complex algorithms to implement trading strategies at speeds and frequencies that are impossible for human traders. This approach automates the decision-making process, enabling the execution of transactions based on a set of programmed instructions that consider variables such as price and timing. The deployment of sophisticated algorithms transforms traditional trading by offering increased precision and efficiency. 

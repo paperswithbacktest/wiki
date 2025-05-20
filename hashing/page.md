@@ -1,7 +1,8 @@
 ---
-title: Efficient Hashing Techniques for Scalable Machine Learning
+category: quant_concept
 description: Hashing in machine learning converts high dimensional data into compact
   feature vectors that speed processing and cut memory use Discover more inside
+title: Efficient Hashing Techniques for Scalable Machine Learning
 ---
 
 ![Image](images/1.jpeg)

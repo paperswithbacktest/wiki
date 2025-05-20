@@ -1,6 +1,8 @@
 ---
-title: "Comparison of Book Value and Salvage Value (Algo Trading)"
-description: "Explore the significance of book value and salvage value in finance Understand their roles in asset management valuation and algorithmic trading strategies"
+category: quant_concept
+description: Explore the significance of book value and salvage value in finance Understand
+  their roles in asset management valuation and algorithmic trading strategies
+title: Comparison of Book Value and Salvage Value (Algo Trading)
 ---
 
 In finance, understanding key financial metrics is essential for both seasoned investors and newcomers. With the advancement of analytical tools and technologies, investors are required to be well-versed in financial terminology to effectively evaluate market opportunities and mitigate risks. Among the multitude of financial metrics, book value and salvage value stand out for their significant roles in providing insights into asset management and company valuation.

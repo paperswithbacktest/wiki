@@ -1,7 +1,8 @@
 ---
-title: Instruction Tuning for Accurate Task Execution in ML Models
+category: quant_concept
 description: Instruction Tuning enhances model accuracy by teaching machine learning
   to follow specific instructions for reliable task performance Discover more inside.
+title: Instruction Tuning for Accurate Task Execution in ML Models
 ---
 
 ![Image](images/1.png)

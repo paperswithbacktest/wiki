@@ -1,6 +1,9 @@
 ---
-title: "Devaluation and Its Mechanisms (Algo Trading)"
-description: "Explore the impact of economic policy on financial markets with a focus on currency devaluation and algorithmic trading Discover their roles in today's economy"
+category: quant_concept
+description: Explore the impact of economic policy on financial markets with a focus
+  on currency devaluation and algorithmic trading Discover their roles in today's
+  economy
+title: Devaluation and Its Mechanisms (Algo Trading)
 ---
 
 In today's globalized economy, economic policy stands as a critical element influencing various financial markets and instruments. Economic policy encompasses a range of government measures that impact a nation's economic direction, including fiscal policies, monetary controls, and trade regulations. One noteworthy aspect of economic policy is the devaluation of currency, a strategic tool employed by governments to recalibrate their economic standing. Currency devaluation involves lowering the value of a country's currency relative to others. By making exports cheaper and thus more attractive to foreign buyers, devaluation can stimulate domestic economic growth, although it also carries risks such as inflation and reduced consumer purchasing power.

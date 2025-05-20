@@ -1,6 +1,9 @@
 ---
-title: "execution slippage (Algo Trading)"
-description: "Execution slippage in algorithmic trading affects profitability by causing differences between expected and actual trade prices; management and strategy are key."
+category: quant_concept
+description: Execution slippage in algorithmic trading affects profitability by causing
+  differences between expected and actual trade prices; management and strategy are
+  key.
+title: execution slippage (Algo Trading)
 ---
 
 Execution slippage in algorithmic trading significantly influences financial outcomes, impacting the profitability and effectiveness of trading strategies. Slippage occurs when the price at which a trade is executed differs from the expected execution price. This discrepancy, often unexpected, can either increase or decrease anticipated profits but generally poses a potential cost for traders. 
@@ -209,4 +212,3 @@ These resources equip traders with the knowledge and tools necessary to understa
 7. Carol, Osler, and Paul, Sophie. “Why Do Orders Get Executed at Inferior Prices? Information, Limits, and the NBBO.” *Journal of Financial and Quantitative Analysis*, vol. 42, no. 2, 2011, pp. 475-496. This paper investigates the reasons behind execution at unfavorable prices, offering context to slippage challenges.
 
 8. Engle, Robert F., and Lange, Joe. “Measuring, Forecasting, and Explaining Time Varying Liquidity in the Stock Market.” *Journal of Financial Economics*, vol. 65, no. 1, 2002, pp. 3-40. This article provides forecasting techniques that can help traders anticipate liquidity changes, addressing one component of slippage.
-

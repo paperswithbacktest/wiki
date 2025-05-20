@@ -1,6 +1,9 @@
 ---
-title: "Ex-Coupon in Finance (Algo Trading)"
-description: "Explore the intricacies of ex-coupon trading in the bond markets and its impact on investment strategies within algorithmic finance, optimizing portfolio returns."
+category: quant_concept
+description: Explore the intricacies of ex-coupon trading in the bond markets and
+  its impact on investment strategies within algorithmic finance, optimizing portfolio
+  returns.
+title: Ex-Coupon in Finance (Algo Trading)
 ---
 
 Bonds are a cornerstone of financial markets, often viewed as a stable investment option, particularly amidst market volatility. As the financial landscape continually evolves, algorithmic trading has emerged as a significant force, reshaping how bonds are traded. With this shift, understanding specific trading practices like ex-coupon trading becomes more crucial than ever for investors seeking to navigate the complexities of modern finance.

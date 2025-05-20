@@ -1,6 +1,8 @@
 ---
-title: "Current Account Deficit: Structural and Cyclical Causes (Algo Trading)"
-description: "Explore the cyclical and structural causes of a current account deficit and the role of algorithmic trading in influencing global trade balances."
+category: quant_concept
+description: Explore the cyclical and structural causes of a current account deficit
+  and the role of algorithmic trading in influencing global trade balances.
+title: 'Current Account Deficit: Structural and Cyclical Causes (Algo Trading)'
 ---
 
 The concept of a current account deficit is a pivotal indicator for evaluating a nation's economic health and its trade interactions with the global economy. A current account deficit occurs when a country imports more goods and services than it exports, impacting the balance of payments. Understanding the dynamics of a current account deficit involves dissecting both cyclical and structural causes. Cyclical causes may include temporary economic fluctuations such as business cycles, while structural causes often point to long-term economic issues like insufficient domestic production capacity or lack of competitiveness in international markets.

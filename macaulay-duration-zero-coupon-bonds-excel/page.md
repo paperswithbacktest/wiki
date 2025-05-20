@@ -1,6 +1,9 @@
 ---
-title: "Macaulay Duration of Zero-Coupon Bonds in Excel (Algo Trading)"
-description: "Explore how to calculate Macaulay Duration for zero-coupon bonds in Excel to enhance your algorithmic trading strategies by understanding bond sensitivity to interest rates."
+category: quant_concept
+description: Explore how to calculate Macaulay Duration for zero-coupon bonds in Excel
+  to enhance your algorithmic trading strategies by understanding bond sensitivity
+  to interest rates.
+title: Macaulay Duration of Zero-Coupon Bonds in Excel (Algo Trading)
 ---
 
 In the world of bond investment, understanding duration is essential for assessing bond sensitivity to interest rate changes. Duration measures the risk associated with interest rate fluctuations and helps investors make informed decisions. Macaulay Duration, named after economist Frederick Macaulay, is a fundamental measure for this task. It represents the weighted average time to receive a bond's cash flows, providing a crucial indicator of how a bond's price might shift when interest rates change.

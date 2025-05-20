@@ -1,6 +1,9 @@
 ---
-title: "Investment Ideas: Overview, Mechanisms, and Types (Algo Trading)"
-description: "Explore investment strategies and types to optimize financial outcomes with algorithmic trading Learn how to build robust portfolios balancing risk and return"
+category: quant_concept
+description: Explore investment strategies and types to optimize financial outcomes
+  with algorithmic trading Learn how to build robust portfolios balancing risk and
+  return
+title: 'Investment Ideas: Overview, Mechanisms, and Types (Algo Trading)'
 ---
 
 Investments are fundamental components of both personal and corporate finance, serving as tools to grow wealth and achieve financial objectives. For individuals, investments provide avenues to accumulate funds for future needs, such as education, retirement, or major purchases. Corporations, on the other hand, utilize investments to enhance capital, explore new ventures, and improve competitiveness. The primary goal of any investment is to generate favorable returns while managing associated risks.

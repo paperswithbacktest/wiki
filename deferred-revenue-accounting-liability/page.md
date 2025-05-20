@@ -1,6 +1,9 @@
 ---
-title: "Deferred Revenue in Accounting and Its Classification as a Liability (Algo Trading)"
-description: "Discover the role of deferred revenue in accounting, its classification as a liability, and its impact on algorithmic trading. Empower your financial strategies."
+category: quant_concept
+description: Discover the role of deferred revenue in accounting, its classification
+  as a liability, and its impact on algorithmic trading. Empower your financial strategies.
+title: Deferred Revenue in Accounting and Its Classification as a Liability (Algo
+  Trading)
 ---
 
 The world of finance and accounting is filled with complex terms and concepts that are crucial for businesses and investors to understand. Accounting liability, deferred revenue, unearned income, and algorithmic trading are among these essential concepts. Each plays a critical role in financial decision-making and strategic planning, directly impacting a company's ability to manage resources effectively.
@@ -183,4 +186,4 @@ We hope the insights shared in this article are useful for navigating these comp
 
 [7]: ["The Basics of Algorithmic Trading: Concepts and Examples"](https://www.investopedia.com/articles/active-trading/101014/basics-algorithmic-trading-concepts-and-examples.asp) by Investopedia. 
 
-[8]: ["Principles of Corporate Finance"](https://www.mheducation.com/highered/product/Principles-of-Corporate-Finance-Brealey.html) by Richard A. Brealey, Stewart C. Myers, and Franklin Allen. 
+[8]: ["Principles of Corporate Finance"](https://www.mheducation.com/highered/product/Principles-of-Corporate-Finance-Brealey.html) by Richard A. Brealey, Stewart C. Myers, and Franklin Allen.

@@ -1,6 +1,9 @@
 ---
-title: "Consumer Financial Protection Act: Overview and Functionality (Algo Trading)"
-description: "Explore the intersection of financial legislation and algorithmic trading with insights into regulatory bodies like the CFPB protecting consumers amidst tech advancements."
+category: quant_concept
+description: Explore the intersection of financial legislation and algorithmic trading
+  with insights into regulatory bodies like the CFPB protecting consumers amidst tech
+  advancements.
+title: 'Consumer Financial Protection Act: Overview and Functionality (Algo Trading)'
 ---
 
 Financial legislation plays a crucial role in safeguarding consumer rights within the financial services sector. Government regulations and oversight mechanisms are essential in ensuring that financial entities operate with transparency and fairness, effectively protecting consumers from malpractice and financial fraud. Central to these protective frameworks is the Consumer Financial Protection Bureau (CFPB), which serves as a primary regulatory body overseeing financial services in the United States. Established under the Dodd-Frank Wall Street Reform and Consumer Protection Act of 2010, the CFPB is designed to enforce consumer protection laws and promote fair practices across financial markets.

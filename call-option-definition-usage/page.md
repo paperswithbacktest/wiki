@@ -1,6 +1,9 @@
 ---
-title: "Call Option: Definition and Usage (Algo Trading)"
-description: "Explore the dynamic world of call options and algorithmic trading. Learn how these financial tools enhance investment strategies and risk management in today's markets."
+category: quant_concept
+description: Explore the dynamic world of call options and algorithmic trading. Learn
+  how these financial tools enhance investment strategies and risk management in today's
+  markets.
+title: 'Call Option: Definition and Usage (Algo Trading)'
 ---
 
 Financial derivatives are financial instruments whose value is derived from underlying assets, such as stocks, bonds, commodities, or market indices. Among these derivatives, call options are widely utilized in financial markets. A call option is a contract that gives the holder the right, but not the obligation, to purchase an underlying asset at a predetermined price, known as the strike price, before or on a specified expiration date. This financial tool enables investors to benefit from the appreciation of an asset without owning it outright, providing leverage for potentially greater returns.

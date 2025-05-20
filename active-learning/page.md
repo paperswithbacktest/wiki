@@ -1,8 +1,10 @@
 ---
-title: "Active Learning in Algorithmic Trading"
-description: "Discover how active learning enhances algorithmic trading by optimizing model efficiency and adaptability, crucial for navigating dynamic financial markets effectively."
+category: quant_concept
+description: Discover how active learning enhances algorithmic trading by optimizing
+  model efficiency and adaptability, crucial for navigating dynamic financial markets
+  effectively.
+title: Active Learning in Algorithmic Trading
 ---
-
 
 ![Image](images/1.jpeg)
 

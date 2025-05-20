@@ -1,6 +1,8 @@
 ---
-title: "Comparative Importance of Demand and Supply in Economics (Algo Trading)"
-description: "Explore how supply and demand economics shape algorithmic trading strategies by impacting asset prices and trader decisions in a competitive market landscape."
+category: trading_strategy
+description: Explore how supply and demand economics shape algorithmic trading strategies
+  by impacting asset prices and trader decisions in a competitive market landscape.
+title: Comparative Importance of Demand and Supply in Economics (Algo Trading)
 ---
 
 In the evolving landscape of financial markets, supply and demand economics is fundamental in shaping trading strategies. This principle, which dictates the price movement of assets, is critical for understanding market behavior. Supply represents the availability of an asset, while demand indicates the market's interest in acquiring it. These dynamics create price fluctuations, influencing trader decisions and strategies.

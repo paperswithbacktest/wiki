@@ -1,6 +1,9 @@
 ---
-title: "Qualified Special Representative Agreement (Algo Trading)"
-description: "Explore the synergy between Qualified Special Representative Agreements and algorithmic trading focusing on their role in enhancing market operations and contract fulfillment."
+category: quant_concept
+description: Explore the synergy between Qualified Special Representative Agreements
+  and algorithmic trading focusing on their role in enhancing market operations and
+  contract fulfillment.
+title: Qualified Special Representative Agreement (Algo Trading)
 ---
 
 A Qualified Special Representative (QSR) Agreement represents a critical contractual framework widely utilized across various industries to facilitate the role of a designated party responsible for ensuring that contractual obligations are met. These agreements are particularly significant in complex transactions where a high degree of specialization is required to interpret and execute specific clauses within the contract. The QSR is designated to safeguard the interests of all parties involved by providing expert oversight and management of contractual terms.

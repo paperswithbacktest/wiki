@@ -1,6 +1,9 @@
 ---
-title: "Bond Risk Measurement Using Duration and Convexity (Algo Trading)"
-description: "Explore the essentials of bond risk management, focusing on duration and convexity, to optimize algorithmic trading strategies for improved portfolio performance."
+category: quant_concept
+description: Explore the essentials of bond risk management, focusing on duration
+  and convexity, to optimize algorithmic trading strategies for improved portfolio
+  performance.
+title: Bond Risk Measurement Using Duration and Convexity (Algo Trading)
 ---
 
 In financial markets, bond trading is a specialized field that requires a solid grasp of key risk metrics. These metrics, including bond risk, duration, convexity, and algorithmic trading, are vital for developing successful fixed-income investment strategies. This article examines the intricacies of bond risk management, highlighting the critical role of duration and convexity in optimizing trading algorithms. 

@@ -1,10 +1,9 @@
 ---
-title: Understanding Q-Learning in Reinforcement Learning Systems
+category: quant_concept
 description: Q-Learning explains how agents use Q-tables and update rules to learn
   optimal actions through exploration and exploitation Discover more inside
+title: Understanding Q-Learning in Reinforcement Learning Systems
 ---
-
-
 
 ## Table of Contents
 

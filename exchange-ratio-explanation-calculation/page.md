@@ -1,6 +1,8 @@
 ---
-title: "Exchange Ratio: Explanation and Calculation (Algo Trading)"
-description: "Discover the critical role of exchange ratios in M&A transactions and learn how algorithmic trading enhances their calculation for shareholder value optimization."
+category: quant_concept
+description: Discover the critical role of exchange ratios in M&A transactions and
+  learn how algorithmic trading enhances their calculation for shareholder value optimization.
+title: 'Exchange Ratio: Explanation and Calculation (Algo Trading)'
 ---
 
 Mergers and acquisitions (M&A) are prominent activities in the financial landscape, representing significant changes in business ownership and control across various industries. These transactions are pivotal for companies aiming to enhance market share, achieve synergies, or gain competitive advantages. M&A deals can transform industry dynamics, reshape companies, and create substantial shareholder value, making them a focal point for investors, analysts, and corporate strategists globally.

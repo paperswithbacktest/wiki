@@ -1,6 +1,9 @@
 ---
-title: "Operating Income in Financial Accounting (Algo Trading)"
-description: "Understand the critical role of operating income in financial accounting and algorithmic trading Explore how profitability, financial metrics, and automated strategies intersect"
+category: quant_concept
+description: Understand the critical role of operating income in financial accounting
+  and algorithmic trading Explore how profitability, financial metrics, and automated
+  strategies intersect
+title: Operating Income in Financial Accounting (Algo Trading)
 ---
 
 In the contemporary financial landscape, comprehending the interplay between profitability, operating income, financial accounting, and algorithmic trading is essential for businesses and traders. These elements are interconnected and collectively contribute to decision-making processes and the overall financial picture of an organization. 

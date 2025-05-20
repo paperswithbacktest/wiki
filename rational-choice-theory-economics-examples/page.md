@@ -1,6 +1,8 @@
 ---
-title: "Rational Choice Theory in Economics with Examples (Algo Trading)"
-description: "Explore how rational choice theory applies in economics and its real-world influence on algo trading for traders, offering insights into market dynamics."
+category: quant_concept
+description: Explore how rational choice theory applies in economics and its real-world
+  influence on algo trading for traders, offering insights into market dynamics.
+title: Rational Choice Theory in Economics with Examples (Algo Trading)
 ---
 
 Understanding economic behavior is integral to predicting market trends and making informed decisions. This process often involves assessing a wide range of factors that govern the choices made by individuals and organizations. One such framework is rational choice theory, which suggests that individuals make decisions by comparing the costs and benefits to maximize their utility. This theory provides valuable insights into decision-making processes within economics by assuming that people act in their best interest when faced with constraints.

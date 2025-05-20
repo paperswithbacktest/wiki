@@ -1,6 +1,12 @@
 ---
-title: "The Evolution of Trading: From Barter to Algo Trading (Algo Trading)"
-description: Discover the transformation of trading from the barter system to the advanced realm of algorithmic trading. This page explores how historical trade inefficiencies have been addressed through modern computational techniques, enhancing speed and precision in financial transactions. Learn about the significance of visual tools in simplifying complex data and the critical role of visual literacy in navigating today's trading environments.
+category: quant_concept
+description: Discover the transformation of trading from the barter system to the
+  advanced realm of algorithmic trading. This page explores how historical trade inefficiencies
+  have been addressed through modern computational techniques, enhancing speed and
+  precision in financial transactions. Learn about the significance of visual tools
+  in simplifying complex data and the critical role of visual literacy in navigating
+  today's trading environments.
+title: 'The Evolution of Trading: From Barter to Algo Trading (Algo Trading)'
 ---
 
 The intersection of traditional trading systems and modern-day algorithmic trading presents an intriguing study of evolution within financial markets. At the core of this transformation lies the historical context of the barter system, the earliest form of trade where goods and services were exchanged directly without a standardized monetary medium. In this archaic system, value was determined through mutual agreements, demanding a "double coincidence of wants"—the challenge of ensuring that two parties each had something the other wanted. This inefficiency, which often hindered trade, underscores the advancements made in contemporary trading practices that strive to eliminate such barriers.

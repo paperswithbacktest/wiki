@@ -1,6 +1,8 @@
 ---
-title: "Bond Discount and Premium Bond Comparison (Algo Trading)"
-description: "Explore the differences between premium and discount bonds in this in-depth analysis, highlighting their pricing mechanisms and impact on investment strategies."
+category: quant_concept
+description: Explore the differences between premium and discount bonds in this in-depth
+  analysis, highlighting their pricing mechanisms and impact on investment strategies.
+title: Bond Discount and Premium Bond Comparison (Algo Trading)
 ---
 
 This article explores the intricacies of bond types, focusing on premium bonds, discount bonds, and their pricing mechanisms. Bonds are fixed-income investment instruments that represent a loan made by an investor to a borrower, typically corporate or governmental. Investors in bonds receive periodic interest payments, known as coupons, and expect the return of the bond's face value at maturity.

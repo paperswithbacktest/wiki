@@ -1,6 +1,10 @@
 ---
-title: "Bitcoin Returns and Volatility Predicted by Bitcoin Exchange Reserves"
-description: Explore how Bitcoin exchange reserves can predict returns and volatility, offering valuable insights for traders and algorithmic systems. This analysis reveals correlations between reserve fluctuations and market dynamics, enhancing trading strategies and risk management through refined data interpretation.
+category: quant_concept
+description: Explore how Bitcoin exchange reserves can predict returns and volatility,
+  offering valuable insights for traders and algorithmic systems. This analysis reveals
+  correlations between reserve fluctuations and market dynamics, enhancing trading
+  strategies and risk management through refined data interpretation.
+title: Bitcoin Returns and Volatility Predicted by Bitcoin Exchange Reserves
 ---
 
 The rise of cryptocurrencies, particularly Bitcoin, has fundamentally reshaped financial markets on a global scale. Bitcoin, the first and most well-known cryptocurrency, has captured the interest of investors, financial institutions, and researchers alike, due to its decentralized nature and potential to function outside traditional financial systems. As its popularity continues to soar, understanding and predicting Bitcoin's returns and volatility has become a focal point for academic and professional research. 

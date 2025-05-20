@@ -1,6 +1,12 @@
 ---
-title: "Anti-Dilution Provision (Algo Trading)"
-description: "Explore the essential concept of anti-dilution provisions in equity investments and their importance in protecting shareholders from the adverse effects of stock dilution. Understand how these mechanisms work to preserve investor value, especially in algorithmic trading, where precise data and strategy are crucial. Learn about the different types of anti-dilution provisions and their role in maintaining stable investment strategies."
+category: quant_concept
+description: Explore the essential concept of anti-dilution provisions in equity investments
+  and their importance in protecting shareholders from the adverse effects of stock
+  dilution. Understand how these mechanisms work to preserve investor value, especially
+  in algorithmic trading, where precise data and strategy are crucial. Learn about
+  the different types of anti-dilution provisions and their role in maintaining stable
+  investment strategies.
+title: Anti-Dilution Provision (Algo Trading)
 ---
 
 The world of investment is marked by its inherent risks and complexities, particularly when it involves equity and stock dilution. Stock dilution occurs when a company issues new shares, reducing the ownership proportion of existing shareholders. This can have significant consequences for investors, such as reduced earnings per share and a diminished voting power.

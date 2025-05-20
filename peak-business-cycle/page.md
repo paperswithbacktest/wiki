@@ -1,6 +1,9 @@
 ---
-title: "Peak of Business Cycle (Algo Trading)"
-description: "Explore how economic indicators and algorithmic trading intersect within business cycles particularly at economic peaks Optimize trading strategies with data insights"
+category: quant_concept
+description: Explore how economic indicators and algorithmic trading intersect within
+  business cycles particularly at economic peaks Optimize trading strategies with
+  data insights
+title: Peak of Business Cycle (Algo Trading)
 ---
 
 Economic indicators, business cycles, and algorithmic trading are profoundly interconnected elements within the financial landscape, reshaping how market participants perceive and react to market dynamics. Economic indicators, such as GDP growth rates, unemployment statistics, and consumer confidence indices, provide critical insights into the health and trajectory of an economy. These indicators are instrumental in identifying the different phases of business cycles, which consist of expansion, peak, contraction, and trough. Understanding these phases, particularly the economic peaks where growth transitions toward a downturn, is pivotal for investors, policymakers, and traders. Peaks often herald significant shifts in market conditions, characterized by maximum GDP, rising inflation, and potential slowdowns in employment growth.

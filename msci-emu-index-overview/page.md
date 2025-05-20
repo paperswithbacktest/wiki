@@ -1,6 +1,9 @@
 ---
-title: "MSCI EMU Index Overview (Algo Trading)"
-description: "Explore the benefits of the MSCI EMU Index for investors in eurozone markets, covering its diversified exposure, ETF options, and algorithmic trading insights."
+category: dataset
+description: Explore the benefits of the MSCI EMU Index for investors in eurozone
+  markets, covering its diversified exposure, ETF options, and algorithmic trading
+  insights.
+title: MSCI EMU Index Overview (Algo Trading)
 ---
 
 The MSCI EMU Index is a pivotal tool for investors targeting the eurozone equity market. It encompasses mid- and large-cap companies from 10 developed markets within the European Economic and Monetary Union (EMU). This inclusion offers a comprehensive scope of diverse economic activities present in the region, providing investors with substantial representative exposure to the eurozone.

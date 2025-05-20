@@ -1,6 +1,9 @@
 ---
-title: "One-Sided Market: Overview and Implications (Algo Trading)"
-description: "Explore the impact of algorithmic trading on market dynamics and one-sided markets Discover how speed precision and economic changes influence trading strategies and liquidity"
+category: quant_concept
+description: Explore the impact of algorithmic trading on market dynamics and one-sided
+  markets Discover how speed precision and economic changes influence trading strategies
+  and liquidity
+title: 'One-Sided Market: Overview and Implications (Algo Trading)'
 ---
 
 The financial markets have undergone remarkable transformations driven by technological advancements, particularly in recent decades. Among these advancements, algorithmic trading has emerged as a pivotal force, reshaping market dynamics and influencing economic outcomes. This approach leverages sophisticated algorithms to execute trades with speed and precision, enabling traders to capitalize on even the slightest market movements. The rise of algorithmic trading has led to significant changes in market structures, including shifts in liquidity patterns, volatility, and the nature of trading strategies employed by market participants.

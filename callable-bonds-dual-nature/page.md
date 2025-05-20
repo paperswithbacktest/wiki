@@ -1,6 +1,11 @@
 ---
-title: "Callable Bonds and Their Dual Nature (Algo Trading)"
-description: "Explore the dual nature of callable bonds and algorithmic trading in modern finance. Learn how callable bonds offer higher yields with intrinsic risks tied to interest rates, and how algorithmic trading uses advanced software to enhance speed and accuracy in executing trades. Leverage these strategies for optimized portfolio performance and managed risks in diverse financial markets."
+category: quant_concept
+description: Explore the dual nature of callable bonds and algorithmic trading in
+  modern finance. Learn how callable bonds offer higher yields with intrinsic risks
+  tied to interest rates, and how algorithmic trading uses advanced software to enhance
+  speed and accuracy in executing trades. Leverage these strategies for optimized
+  portfolio performance and managed risks in diverse financial markets.
+title: Callable Bonds and Their Dual Nature (Algo Trading)
 ---
 
 In today's complex financial landscape, investors constantly search for diversified strategies to optimize their portfolios. In response to this demand, a variety of investment strategies have emerged, which focus on financial instruments that offer unique advantages and characteristics. This article shines a light on two such instruments: callable bonds and algorithmic trading.

@@ -1,6 +1,8 @@
 ---
-title: "Role of Blockchain in Protecting the Global Economy (Algo Trading)"
-description: "Explore how blockchain technology safeguards the global economy by enhancing transparency and efficiency in financial transactions and algorithmic trading."
+category: quant_concept
+description: Explore how blockchain technology safeguards the global economy by enhancing
+  transparency and efficiency in financial transactions and algorithmic trading.
+title: Role of Blockchain in Protecting the Global Economy (Algo Trading)
 ---
 
 The rise of blockchain technology has introduced a new dynamic to the global economy, fundamentally altering how financial protection and efficiency can be achieved. This emerging technology presents an innovative approach to managing financial transactions, data integrity, and transparency, all of which are crucial for a secure economic environment. 

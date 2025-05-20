@@ -1,6 +1,10 @@
 ---
-title: "Reinforcement Learning (Algo Trading)"
-description: Discover the intersection of Reinforcement Learning and Algo Trading, where an agent makes decisions based on rewards or penalties in the financial market. Understand its components, applications, advantages, and challenges. Dive deeper into this adaptive machine learning paradigm for advanced trading strategies.
+category: quant_concept
+description: Discover the intersection of Reinforcement Learning and Algo Trading,
+  where an agent makes decisions based on rewards or penalties in the financial market.
+  Understand its components, applications, advantages, and challenges. Dive deeper
+  into this adaptive machine learning paradigm for advanced trading strategies.
+title: Reinforcement Learning (Algo Trading)
 ---
 
 Algorithmic trading has revolutionized financial markets by utilizing advanced mathematical models and computational power to execute trades at speeds and frequencies unattainable by human traders. By automating trade processes based on predefined criteria, it minimizes human intervention and emotional bias, leading to more efficient market operations. This technique, pivotal in today’s trading landscape, allows for seamless handling of complex trading strategies and large order volumes, contributing significantly to liquidity and market depth.

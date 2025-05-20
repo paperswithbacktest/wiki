@@ -1,6 +1,12 @@
 ---
-title: "Net Neutrality: Policies and Controversy (Algo Trading)"
-description: "Explore the intricate web of internet policy and net neutrality, delving into the contentious debates and policies shaping digital access and telecommunications. Understand the pivotal role of algorithmic trading in modern networks, and how fair internet practices safeguard both innovation and accessibility. Discover insights on balancing regulatory frameworks with technological advancements to foster a competitive, open digital ecosystem."
+category: quant_concept
+description: Explore the intricate web of internet policy and net neutrality, delving
+  into the contentious debates and policies shaping digital access and telecommunications.
+  Understand the pivotal role of algorithmic trading in modern networks, and how fair
+  internet practices safeguard both innovation and accessibility. Discover insights
+  on balancing regulatory frameworks with technological advancements to foster a competitive,
+  open digital ecosystem.
+title: 'Net Neutrality: Policies and Controversy (Algo Trading)'
 ---
 
 The digital landscape is continually undergoing transformation, propelled by evolving policies that are crucial in determining how data is transmitted and accessed. Central to this transformation are the policies that govern the intersection of internet policy, telecommunications, net neutrality, and algorithmic trading. These areas operate within a delicate web of influence and interaction, each playing a vital role in shaping the overall experience and functionality of the internet.

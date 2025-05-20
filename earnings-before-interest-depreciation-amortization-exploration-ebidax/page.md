@@ -1,6 +1,9 @@
 ---
-title: "Earnings Before Interest, Depreciation, Amortization, and Exploration (EBIDAX) (Algo Trading)"
-description: "Discover the impact of EBIDAX on algorithmic trading and its role in refining financial insights in the oil and gas sector beyond traditional GAAP measures."
+category: quant_concept
+description: Discover the impact of EBIDAX on algorithmic trading and its role in
+  refining financial insights in the oil and gas sector beyond traditional GAAP measures.
+title: Earnings Before Interest, Depreciation, Amortization, and Exploration (EBIDAX)
+  (Algo Trading)
 ---
 
 In the ever-evolving world of finance, non-GAAP measures have gained significant attention for providing insights beyond traditional accounting standards. These financial metrics, diverging from generally accepted accounting principles (GAAP), allow companies to tailor disclosures and offer a clearer view of their operational performance. Non-GAAP measures are particularly valuable in sectors where standard accounting practices may not adequately capture the nuanced financial picture.

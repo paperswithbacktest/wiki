@@ -1,6 +1,8 @@
 ---
-title: "Oil Initially In Place and Its Significance (Algo Trading)"
-description: "Discover the significance of Oil Initially in Place (OIIP) in the oil and gas industry and the innovative role of algorithmic trading in oil reserve investments."
+category: quant_concept
+description: Discover the significance of Oil Initially in Place (OIIP) in the oil
+  and gas industry and the innovative role of algorithmic trading in oil reserve investments.
+title: Oil Initially In Place and Its Significance (Algo Trading)
 ---
 
 The concept of Oil Initially in Place (OIIP) constitutes an essential metric within the oil and gas industry, serving as a foundational tool for estimating the total volume of crude oil contained in a reservoir prior to any extraction activities. This metric provides vital insights which permit both investors and oil companies to accurately evaluate the potential size and economic feasibility of oil fields. A comprehensive understanding of OIIP enables stakeholders to make informed decisions regarding field development, effectively guiding investments and operational strategies.

@@ -1,6 +1,8 @@
 ---
-title: "Hikkake Pattern Overview and Examples (Algo Trading)"
-description: "Discover the Hikkake pattern a unique trading formation signaling market reversals or trends Learn to identify and leverage it for algorithmic trading success"
+category: trading_strategy
+description: Discover the Hikkake pattern a unique trading formation signaling market
+  reversals or trends Learn to identify and leverage it for algorithmic trading success
+title: Hikkake Pattern Overview and Examples (Algo Trading)
 ---
 
 In the world of technical analysis, various patterns help traders make informed decisions. The Hikkake pattern is one such formation known for its potential to indicate short-term market reversals or continuation trends. Although technical analysis encompasses numerous patterns like head-and-shoulders, triangles, and flags, the Hikkake pattern distinguishes itself due to its unique structure and predictive capability.

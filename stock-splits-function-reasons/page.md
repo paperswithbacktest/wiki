@@ -1,6 +1,8 @@
 ---
-title: "Stock Splits: Function and Reasons (Algo Trading)"
-description: "Explore how stock splits and algorithmic trading can enhance your investment strategy by increasing market access liquidity and optimizing trading opportunities."
+category: quant_concept
+description: Explore how stock splits and algorithmic trading can enhance your investment
+  strategy by increasing market access liquidity and optimizing trading opportunities.
+title: 'Stock Splits: Function and Reasons (Algo Trading)'
 ---
 
 Understanding the intricacies of the stock market is essential for investors aiming to maximize their portfolio's value and strategic positioning. In this article, we will explore the concept of stock splits, a financial maneuver frequently used by companies to enhance liquidity and attract smaller investors. Stock splits involve increasing the number of a company’s shares while maintaining the same market capitalization, effectively reducing the share price without altering the company’s inherent value. This makes the stock more accessible to a broader range of investors, potentially leading to increased demand and liquidity.

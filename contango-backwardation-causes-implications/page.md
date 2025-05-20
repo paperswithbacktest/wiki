@@ -1,6 +1,12 @@
 ---
-title: "Contango and Backwardation: Causes and Implications (Algo Trading)"
-description: "Explore the complexities of contango and backwardation in futures markets with insights into their causes and implications for algorithmic trading. Understand how these market conditions influence pricing structures and trading strategies, offering unique opportunities and challenges for traders. Learn about futures contracts and the mechanics driving contango and backwardation, and discover effective trading strategies to navigate these dynamics for potential profit maximization."
+category: quant_concept
+description: Explore the complexities of contango and backwardation in futures markets
+  with insights into their causes and implications for algorithmic trading. Understand
+  how these market conditions influence pricing structures and trading strategies,
+  offering unique opportunities and challenges for traders. Learn about futures contracts
+  and the mechanics driving contango and backwardation, and discover effective trading
+  strategies to navigate these dynamics for potential profit maximization.
+title: 'Contango and Backwardation: Causes and Implications (Algo Trading)'
 ---
 
 The modern financial landscape is characterized by its complexity and constant evolution, prominently observed in the futures markets. Futures markets serve as a critical component of global finance, enabling investors to hedge risk and speculate on the price movements of a variety of underlying assets, including commodities, currencies, and financial indices. Within these markets, the concepts of contango and backwardation play pivotal roles in influencing pricing structures and trading strategies.

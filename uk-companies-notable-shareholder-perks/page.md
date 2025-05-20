@@ -1,6 +1,8 @@
 ---
-title: "List of UK Companies with Notable Shareholder Perks (Algo Trading)"
-description: "Discover notable UK companies offering shareholder perks and explore how algorithmic trading is transforming investment strategies for optimal returns."
+category: trading_strategy
+description: Discover notable UK companies offering shareholder perks and explore
+  how algorithmic trading is transforming investment strategies for optimal returns.
+title: List of UK Companies with Notable Shareholder Perks (Algo Trading)
 ---
 
 Investors are consistently on the lookout for ways to enhance their returns by leveraging various advantages offered by companies. Shareholder perks are an effective way for businesses to attract and retain investors, encompassing benefits such as discounts, exclusive access, and other privileges beyond the typical dividends or capital gains. In the United Kingdom, numerous companies provide enticing shareholder perks, creating a symbiotic relationship between the business and its shareholders.

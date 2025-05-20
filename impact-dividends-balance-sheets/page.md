@@ -1,6 +1,8 @@
 ---
-title: "Impact of Dividends on Balance Sheets (Algo Trading)"
-description: "Explore the impact of dividends on balance sheets and algorithmic trading. Learn how dividend payments reflect financial health and influence trading decisions."
+category: quant_concept
+description: Explore the impact of dividends on balance sheets and algorithmic trading.
+  Learn how dividend payments reflect financial health and influence trading decisions.
+title: Impact of Dividends on Balance Sheets (Algo Trading)
 ---
 
 Dividends hold significant importance in the financial landscape, serving as a critical motivational factor for investors. They represent a portion of a company's earnings distributed to shareholders and are a direct reflection of a company's profitability and financial health. These distributions can either take the form of cash payments or additional shares, thus directly impacting an investor's return on investment. In financial statements, dividends are indicative of a company's financial strategy, signaling stability, maturity, and shareholder value commitment.

@@ -1,6 +1,8 @@
 ---
-title: "Evaluation of CoinPayments Wallet (Algo Trading)"
-description: "Explore CoinPayments Wallet for seamless crypto transactions. Discover its integration with algo trading, low fees, and robust security features."
+category: trading_strategy
+description: Explore CoinPayments Wallet for seamless crypto transactions. Discover
+  its integration with algo trading, low fees, and robust security features.
+title: Evaluation of CoinPayments Wallet (Algo Trading)
 ---
 
 Cryptocurrency continues to transform the financial landscape, with CoinPayments playing a critical role by providing digital payment solutions through a versatile crypto wallet. In this article, we will examine the CoinPayments digital payment cryptocurrency wallet, its integration with algorithmic trading, and the significant potential it holds for both individual and business users.

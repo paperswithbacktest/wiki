@@ -1,6 +1,9 @@
 ---
-title: "Hyperledger Iroha: Overview and Functionality (Algo Trading)"
-description: "Explore how Hyperledger Iroha revolutionizes algorithmic trading with its user-friendly blockchain, enhancing efficiency, transparency, and security in trading systems."
+category: quant_concept
+description: Explore how Hyperledger Iroha revolutionizes algorithmic trading with
+  its user-friendly blockchain, enhancing efficiency, transparency, and security in
+  trading systems.
+title: 'Hyperledger Iroha: Overview and Functionality (Algo Trading)'
 ---
 
 Distributed ledger technology and blockchain have significantly transformed the way transactions are processed and recorded. Their key feature lies in creating an immutable, transparent, and decentralized system that enhances trust and security across various industries. Hyperledger Iroha, a notable project within the Hyperledger umbrella hosted by The Linux Foundation, exemplifies these transformations by providing a user-friendly blockchain framework known for its simplicity and ease of integration. This makes it particularly versatile and appealing to a wide range of sectors that seek to leverage blockchain technology.

@@ -1,6 +1,9 @@
 ---
-title: "Capped Fund: Overview and Examples (Algo Trading)"
-description: "Explore the integration of capped funds and algorithmic trading to optimize your investment strategy Enhance returns and manage risk using modern financial techniques"
+category: trading_strategy
+description: Explore the integration of capped funds and algorithmic trading to optimize
+  your investment strategy Enhance returns and manage risk using modern financial
+  techniques
+title: 'Capped Fund: Overview and Examples (Algo Trading)'
 ---
 
 In the ever-evolving world of finance, investors are constantly on the lookout for innovative strategies that maximize returns while effectively managing risk. Capped funds, algorithmic trading, and investment finance have emerged as key concepts that resonate among astute investors eager to capitalize on modern approaches to market participation. These methodologies highlight the intersection of advanced financial strategies and cutting-edge technology, offering new avenues for achieving investment success.

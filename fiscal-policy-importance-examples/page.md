@@ -1,6 +1,8 @@
 ---
-title: "Fiscal Policy: Definition, Importance, and Examples (Algo Trading)"
-description: "Explore the impact of government spending and fiscal policy on national economic health, and how algorithmic trading reshapes market dynamics."
+category: quant_concept
+description: Explore the impact of government spending and fiscal policy on national
+  economic health, and how algorithmic trading reshapes market dynamics.
+title: 'Fiscal Policy: Definition, Importance, and Examples (Algo Trading)'
 ---
 
 The interplay between government spending, fiscal policy, and economic policy forms the backbone of a nation's economic health. These elements collectively influence and shape economic outcomes, providing insights into larger economic cycles. Government spending, often seen as a tool for stimulating economic growth, plays a critical role in funding essential services such as infrastructure, healthcare, and education. This spending influences employment levels and, subsequently, consumer spending, which, in turn, can affect the overall economic growth of a nation.

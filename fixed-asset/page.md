@@ -1,6 +1,8 @@
 ---
-title: "Fixed Asset (Algo Trading)"
-description: "Explore the synergy of fixed assets and algorithmic trading in contemporary finance Learn to navigate this dynamic landscape for optimal investment strategies"
+category: quant_concept
+description: Explore the synergy of fixed assets and algorithmic trading in contemporary
+  finance Learn to navigate this dynamic landscape for optimal investment strategies
+title: Fixed Asset (Algo Trading)
 ---
 
 In today's rapidly evolving financial landscape, understanding the various types of assets and trading strategies is crucial for informed investment decisions. Fixed assets, tangible assets, capital assets, and algorithmic trading are key components that collectively shape modern asset management and investment strategies. Fixed assets generally refer to long-term resources, including property, plant, and equipment, that are essential for generating revenue over time. Tangible assets, a subset of fixed assets, include physical items like machinery, buildings, and vehicles, which are key operational components due to their intrinsic value.
@@ -128,4 +130,3 @@ Engle, R., & Russell, J. R. (2010). *Analysis of High-Frequency Data.* Review of
 Papageorgiou, G., & Haas, R. (2015). *Machine Learning in Asset Management.* Springer. This book discusses the integration of machine learning techniques into asset management, highlighting the advancements and applications of AI in managing financial resources.
 
 Narang, R. K. (2009). *Inside the Black Box: The Simple Truth About Quantitative Trading.* Wiley. Narang offers an in-depth look at [quantitative trading](/wiki/quantitative-trading) strategies, explaining how these techniques are implemented and the potential they hold for traders looking to optimize their performance in the financial markets.
-

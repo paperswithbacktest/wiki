@@ -1,6 +1,9 @@
 ---
-title: "Members Exchange (MEMX) Overview (Algo Trading)"
-description: "Discover how Members Exchange (MEMX) offers a simplified, cost-efficient trading platform that supports algorithmic trading with advanced technology and transparency."
+category: quant_concept
+description: Discover how Members Exchange (MEMX) offers a simplified, cost-efficient
+  trading platform that supports algorithmic trading with advanced technology and
+  transparency.
+title: Members Exchange (MEMX) Overview (Algo Trading)
 ---
 
 The Members Exchange (MEMX) represents a noteworthy development in the U.S. stock exchange environment, having commenced its trading operations in 2020. Established by a consortium of financial institutions, MEMX aims to inject more competition, transparency, and efficiency into a marketplace traditionally controlled by the New York Stock Exchange (NYSE) and Nasdaq. These founding firms include industry leaders such as Bank of America, Citadel Securities, Fidelity Investments, Morgan Stanley, and others, bringing together a coalition with considerable influence and market experience.

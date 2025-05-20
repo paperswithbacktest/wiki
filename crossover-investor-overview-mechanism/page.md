@@ -1,6 +1,9 @@
 ---
-title: "Crossover Investor: Overview and Mechanism (Algo Trading)"
-description: "Discover how crossover investor strategies and algorithmic trading are reshaping financial markets by bridging public and private investments and optimizing trades."
+category: trading_strategy
+description: Discover how crossover investor strategies and algorithmic trading are
+  reshaping financial markets by bridging public and private investments and optimizing
+  trades.
+title: 'Crossover Investor: Overview and Mechanism (Algo Trading)'
 ---
 
 The landscape of financial markets has experienced significant transformation due to crossover investor strategies and algorithmic trading. Crossover investors are distinct in their ability to bridge public and private markets, seeking high returns by investing strategically across various stages of a company’s lifecycle. This multifaceted approach allows them to access opportunities that are not available to traditional investors, offering a competitive edge in both high-growth and established sectors.

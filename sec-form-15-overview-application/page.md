@@ -1,6 +1,8 @@
 ---
-title: "SEC Form 15 Overview and Application (Algo Trading)"
-description: "Discover the importance of SEC Form 15 for algorithmic trading companies seeking deregistration to reduce regulatory burdens and enhance strategic flexibility."
+category: quant_concept
+description: Discover the importance of SEC Form 15 for algorithmic trading companies
+  seeking deregistration to reduce regulatory burdens and enhance strategic flexibility.
+title: SEC Form 15 Overview and Application (Algo Trading)
 ---
 
 Deregistration with the U.S. Securities and Exchange Commission (SEC) through the use of Form 15 represents a notable transition for public companies seeking to revert to private status. For firms engaged in algorithmic trading, such a move carries particular significance given the delicate balance between regulatory burden and operational agility. This introduction explores the relevance, benefits, and implications of this process for algorithmic trading companies.

@@ -1,6 +1,8 @@
 ---
-title: "Covered Interest Rate Parity (Algo Trading)"
-description: "Explore the intersection of financial calculations forex markets interest rate parity and algorithmic trading Learn how these concepts enhance trading strategies"
+category: quant_concept
+description: Explore the intersection of financial calculations forex markets interest
+  rate parity and algorithmic trading Learn how these concepts enhance trading strategies
+title: Covered Interest Rate Parity (Algo Trading)
 ---
 
 Financial calculations are fundamental tools that enable market participants to evaluate investment opportunities, assess risks, and make decisions efficiently. These calculations encompass a wide range of activities, from determining present and future values to assessing risks and returns of financial products. In foreign exchange (forex) markets, where currencies are traded, precise financial calculations are crucial for conversion rates, hedging strategies, and risk management.

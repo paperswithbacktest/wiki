@@ -1,6 +1,9 @@
 ---
-title: "Convertible Bond Arbitrage (Algo Trading)"
-description: "Explore the sophisticated world of convertible bond arbitrage a market-neutral strategy blending debt and equity to exploit pricing inefficiencies for consistent returns."
+category: trading_strategy
+description: Explore the sophisticated world of convertible bond arbitrage a market-neutral
+  strategy blending debt and equity to exploit pricing inefficiencies for consistent
+  returns.
+title: Convertible Bond Arbitrage (Algo Trading)
 ---
 
 In finance, arbitrage strategies are essential for capitalizing on market inefficiencies, offering investors the potential for profit with minimal risk. Convertible bond arbitrage stands out as a sophisticated strategy blending the characteristics of equity and debt markets. This dual nature stems from convertible bonds themselves, which combine the fixed income aspect of bonds with an embedded option to convert into equity. Consequently, this strategy offers unique opportunities to hedge funds and experienced investors seeking to exploit pricing inefficiencies between convertible bonds and their underlying stocks.

@@ -1,6 +1,9 @@
 ---
-title: "Reinvesting in REIT Dividends (Algo Trading)"
-description: "Explore the strategic benefits of reinvesting REIT dividends through algorithmic trading to optimize income and growth in your real estate investment portfolio."
+category: trading_strategy
+description: Explore the strategic benefits of reinvesting REIT dividends through
+  algorithmic trading to optimize income and growth in your real estate investment
+  portfolio.
+title: Reinvesting in REIT Dividends (Algo Trading)
 ---
 
 Real Estate Investment Trusts (REITs) play an influential role in modern investment portfolios, offering a pathway for individuals to invest in large-scale, income-producing real estate. Established through legislative acts in various countries, such as the Real Estate Investment Trust Act of 1960 in the United States, REITs allow investors to pool resources to acquire a diversified portfolio of commercial properties, ranging from office buildings to shopping centers and healthcare facilities.

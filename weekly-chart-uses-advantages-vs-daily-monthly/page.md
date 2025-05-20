@@ -1,6 +1,10 @@
 ---
-title: "Weekly Chart: Uses, Advantages, and Comparison with Daily and Monthly Charts (Algo Trading)"
-description: "Explore the uses and advantages of weekly charts in algo trading. They offer a balanced view by filtering daily noise and highlighting long-term trends effectively."
+category: trading_strategy
+description: Explore the uses and advantages of weekly charts in algo trading. They
+  offer a balanced view by filtering daily noise and highlighting long-term trends
+  effectively.
+title: 'Weekly Chart: Uses, Advantages, and Comparison with Daily and Monthly Charts
+  (Algo Trading)'
 ---
 
 In today's fast-paced trading environment, understanding and utilizing different chart types is essential for successful trading. The ability to accurately interpret market data is pivotal for decision-making, and chart types like daily, weekly, and monthly charts play a critical role in this process. Among these, weekly charts stand out as a powerful tool used by traders and investors to gauge asset movements over time. They provide a balance between the granularity of daily charts and the broad overview of monthly charts.

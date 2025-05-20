@@ -1,6 +1,8 @@
 ---
-title: "G7 and G20 Bonds: Functionality and Development (Algo Trading)"
-description: "Explore the functionality and development of G7 and G20 bonds in algorithmic trading This page investigates into their economic impact and investment dynamics"
+category: quant_concept
+description: Explore the functionality and development of G7 and G20 bonds in algorithmic
+  trading This page investigates into their economic impact and investment dynamics
+title: 'G7 and G20 Bonds: Functionality and Development (Algo Trading)'
 ---
 
 In today's interconnected global economy, the Group of Seven (G7) and Group of Twenty (G20) are key players in influencing international finance and economic policy. These groups facilitate cooperation among the world's largest economies, addressing global financial challenges and ensuring economic stability. The G7, consisting of the United States, United Kingdom, Canada, Japan, Italy, France, and Germany, is predominantly focused on addressing issues related to advanced economies. The member countries frequently coordinate their policies to maintain financial stability and promote growth.

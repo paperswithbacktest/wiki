@@ -1,6 +1,8 @@
 ---
-title: "Emotional Influences on Financial Markets (Algo Trading)"
-description: "Explore how fear and greed impact financial markets and learn how algorithmic trading seeks to manage these emotional influences for better decision-making."
+category: quant_concept
+description: Explore how fear and greed impact financial markets and learn how algorithmic
+  trading seeks to manage these emotional influences for better decision-making.
+title: Emotional Influences on Financial Markets (Algo Trading)
 ---
 
 Financial markets operate on a complex tapestry of factors, yet emotions, particularly fear and greed, often emerge as dominant drivers of trader behavior. These emotions have the power to induce significant fluctuations in market dynamics, leading to phenomena such as asset bubbles during times of excessive optimism (greed) or sharp sell-offs when panic (fear) prevails. Understanding how these emotions shape decision-making processes is vital not only for individual investors but also for algorithmic traders seeking to optimize performance and reduce the risk of irrational outcomes.

@@ -1,6 +1,9 @@
 ---
-title: "Pass-Through Rate: Mechanism and Examples (Algo Trading)"
-description: "Explore the key role of pass-through rates in algorithmic trading with mortgage-backed securities understanding their impact on investor returns in changing economic landscapes."
+category: quant_concept
+description: Explore the key role of pass-through rates in algorithmic trading with
+  mortgage-backed securities understanding their impact on investor returns in changing
+  economic landscapes.
+title: 'Pass-Through Rate: Mechanism and Examples (Algo Trading)'
 ---
 
 Financial mechanisms are integral components of the global economy, shaping the flow of capital and enhancing market efficiency. Among these mechanisms, pass-through rates play a pivotal role in determining the net interest return to investors in securitized assets such as mortgage-backed securities (MBS). These financial instruments package home loans into securities sold to investors, fundamentally altering the dynamics of mortgage lending by providing liquidity and stability.
@@ -156,4 +159,3 @@ For those interested in expanding their understanding of pass-through rates and 
 These readings are complemented by academic journals and papers available through platforms such as JSTOR and the SSRN, which provide peer-reviewed articles on the latest developments in finance, risk management, and algorithmic trading. Additionally, online courses on platforms like Coursera or edX offer structured learning paths to deepen your understanding of financial mechanisms and data-driven investment strategies.
 
 By engaging with these resources, investors and financial professionals can enhance their knowledge and improve their approach to leveraging pass-through rates and algorithmic trading for optimized investment outcomes.
-

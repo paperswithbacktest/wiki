@@ -1,6 +1,8 @@
 ---
-title: "Equation of Exchange and Formulas (Algo Trading)"
-description: "Explore the intersection of economic theory and algorithmic trading analyze the equation of exchange and discover insights for crafting effective trading strategies"
+category: quant_concept
+description: Explore the intersection of economic theory and algorithmic trading analyze
+  the equation of exchange and discover insights for crafting effective trading strategies
+title: Equation of Exchange and Formulas (Algo Trading)
 ---
 
 The intersection of economic theory and practical trading strategies often centers on foundational concepts like the equation of exchange. This article explores how economic formulas, monetary theory, and algorithmic trading integrate to provide insights into market dynamics. By exploring the equation of exchange, we connect the monetary supply with price levels and velocity of money, facilitating a deeper understanding of these critical components. This understanding equips traders and economists to better assess market conditions and develop informed strategies.

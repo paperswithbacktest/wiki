@@ -1,6 +1,9 @@
 ---
-title: "Peer-to-Peer Network Services (Algo Trading)"
-description: "Discover the advantages and challenges of peer-to-peer network services and algorithmic trading in decentralized finance with innovative examples of P2P technology."
+category: quant_concept
+description: Discover the advantages and challenges of peer-to-peer network services
+  and algorithmic trading in decentralized finance with innovative examples of P2P
+  technology.
+title: Peer-to-Peer Network Services (Algo Trading)
 ---
 
 Peer-to-peer (P2P) networks represent a revolutionary shift in how transactions and services are conducted in the digital age. Unlike traditional centralized systems, where intermediaries such as banks, hosting providers, or service platforms mediate the interactions between users, P2P networks facilitate direct interaction, thereby eliminating the need for middlemen. This decentralization is made possible through network architecture that allows each participant, or node, to act simultaneously as a client and server, contributing resources and services directly to others.

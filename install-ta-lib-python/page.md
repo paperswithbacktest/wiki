@@ -1,6 +1,14 @@
 ---
-title: "Installing TA-Lib in Python (Algo Trading)"
-description: Discover the essentials of installing TA-Lib in Python, a powerful library used for technical analysis in algorithmic trading. Learn how to seamlessly integrate TA-Lib's extensive collection of technical indicators into your trading strategies. This guide covers installation steps for Windows, MacOS, and Linux, helping you unlock the potential of systematic trading. Optimize your approach with minimal coding effort and enhance your ability to develop, test, and deploy sophisticated trading algorithms. Perfect for both novice and professional traders aiming to enhance trading accuracy and efficiency.
+category: dataset
+description: Discover the essentials of installing TA-Lib in Python, a powerful library
+  used for technical analysis in algorithmic trading. Learn how to seamlessly integrate
+  TA-Lib's extensive collection of technical indicators into your trading strategies.
+  This guide covers installation steps for Windows, MacOS, and Linux, helping you
+  unlock the potential of systematic trading. Optimize your approach with minimal
+  coding effort and enhance your ability to develop, test, and deploy sophisticated
+  trading algorithms. Perfect for both novice and professional traders aiming to enhance
+  trading accuracy and efficiency.
+title: Installing TA-Lib in Python (Algo Trading)
 ---
 
 Algorithmic trading continues to revolutionize the financial markets, offering a systematic and calculated approach to executing trades. Among the various tools that algorithmic traders use to gain a competitive edge is the TA-Lib library. TA-Lib, short for Technical Analysis Library, is a robust and widely adopted tool used to analyze financial market data through technical indicators.

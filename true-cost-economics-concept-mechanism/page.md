@@ -1,6 +1,9 @@
 ---
-title: "True Cost Economics: Concept and Mechanism (Algo Trading)"
-description: "Explore true cost economics and its integration with algorithmic trading to address environmental and social impacts in modern financial markets for sustainable growth."
+category: quant_concept
+description: Explore true cost economics and its integration with algorithmic trading
+  to address environmental and social impacts in modern financial markets for sustainable
+  growth.
+title: 'True Cost Economics: Concept and Mechanism (Algo Trading)'
 ---
 
 In today's rapidly evolving financial landscape, sustainability is increasingly at the forefront of economic discussions. As global awareness of environmental challenges and social equity grows, there is a pressing need to reassess traditional economic paradigms that often overlook the broader impacts of production and consumption. True cost economics offers a compelling framework to understand and internalize the hidden costs associated with these activities. This approach emphasizes accounting for externalities—particularly those that negatively affect the environment and public well-being—that are typically excluded from conventional pricing mechanisms. 

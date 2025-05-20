@@ -1,6 +1,8 @@
 ---
-title: "Measuring the Total Stock Market (Algo Trading)"
-description: "Explore the complexities of the stock market through algo trading insights Learn how market indexes like S&P 500 and DJIA help measure market performance"
+category: quant_concept
+description: Explore the complexities of the stock market through algo trading insights
+  Learn how market indexes like S&P 500 and DJIA help measure market performance
+title: Measuring the Total Stock Market (Algo Trading)
 ---
 
 The stock market is a complex entity, integral to the global economy, consisting of a network where participants can buy and sell shares of companies. Its intricate nature is characterized by fluctuations in stock prices influenced by various economic, political, and company-specific factors. Investors strive to decode this complexity to achieve financial gains and optimize their portfolios. A critical aspect of this endeavor is understanding and measuring the total stock market. By assessing the market's performance, investors can gauge economic health, identify trends, and make informed decisions.

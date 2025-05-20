@@ -1,6 +1,8 @@
 ---
-title: "Midstream Stage in the Oil and Gas Industry (Algo Trading)"
-description: "Explore the impact of algorithmic trading in the midstream oil and gas industry highlighting enhanced efficiency and innovation amid changing market dynamics."
+category: quant_concept
+description: Explore the impact of algorithmic trading in the midstream oil and gas
+  industry highlighting enhanced efficiency and innovation amid changing market dynamics.
+title: Midstream Stage in the Oil and Gas Industry (Algo Trading)
 ---
 
 The energy sector, particularly the oil and gas industries, plays a crucial role in fueling the global economy. These sectors are foundational to a myriad of industries by providing the primary source of energy that powers transportation, industrial activities, and residential needs. Historically, oil and gas have been characterized by complex operations that encompass exploration, production, transportation, and refining processes. Each of these stages involves intricate logistical and technical challenges, requiring advanced technology and expertise.

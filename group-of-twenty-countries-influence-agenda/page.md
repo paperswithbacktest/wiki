@@ -1,6 +1,9 @@
 ---
-title: "Group of Twenty: Member Countries, Influence, and Agenda (Algo Trading)"
-description: "Explore how the G20's influential policies impact algorithmic trading and contribute to global economic stability while navigating modern financial market challenges."
+category: quant_concept
+description: Explore how the G20's influential policies impact algorithmic trading
+  and contribute to global economic stability while navigating modern financial market
+  challenges.
+title: 'Group of Twenty: Member Countries, Influence, and Agenda (Algo Trading)'
 ---
 
 The Group of Twenty, commonly known as the G20, is an influential international forum comprising the governments and central bank governors from 19 countries alongside the European Union. This assembly represents the largest economies worldwide, encompassing both developed and emerging markets. The primary mission of the G20 is to identify and address major global economic challenges, forging pathways to stability and sustainable growth.

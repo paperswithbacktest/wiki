@@ -1,6 +1,8 @@
 ---
-title: "Major Donors to the Clinton Campaign (Algo Trading)"
-description: "Explore the key donors behind Hillary Clinton's 2016 campaign and the innovative use of algorithmic trading in political fundraising strategies."
+category: dataset
+description: Explore the key donors behind Hillary Clinton's 2016 campaign and the
+  innovative use of algorithmic trading in political fundraising strategies.
+title: Major Donors to the Clinton Campaign (Algo Trading)
 ---
 
 Financial contributions are a cornerstone of political campaigns, significantly shaping the trajectory and dynamics of the political landscape. The 2016 Hillary Clinton presidential campaign stands as a notable example of this phenomenon, demonstrating the critical role of extensive fundraising operations. During this campaign, a sophisticated network of donors and super PACs contributed to the financial machinery that powered the campaign, showcasing the interplay of wealth and politics in the electoral process.

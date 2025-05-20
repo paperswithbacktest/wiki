@@ -1,6 +1,8 @@
 ---
-title: "Electronic Payments Network: Overview and Operation (Algo Trading)"
-description: "Discover how the Electronic Payments Network enhances algorithmic trading with efficient and secure transactions crucial for the fast-paced financial industry."
+category: quant_concept
+description: Discover how the Electronic Payments Network enhances algorithmic trading
+  with efficient and secure transactions crucial for the fast-paced financial industry.
+title: 'Electronic Payments Network: Overview and Operation (Algo Trading)'
 ---
 
 In the modern financial landscape, the Electronic Payments Network (EPN) is instrumental in facilitating seamless electronic fund transfers. As a critical component of the Automated Clearing House (ACH) system, EPN plays a vital role in enabling efficient, reliable, and secure transactions between financial institutions. This framework supports a wide array of financial transactions, helping businesses and individuals move money swiftly and securely.

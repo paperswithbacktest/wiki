@@ -1,6 +1,8 @@
 ---
-title: "International Currency Markets (Algo Trading)"
-description: "Explore the international currency markets and the transformative impact of algorithmic trading in forex Learn about market dynamics and trading strategies"
+category: quant_concept
+description: Explore the international currency markets and the transformative impact
+  of algorithmic trading in forex Learn about market dynamics and trading strategies
+title: International Currency Markets (Algo Trading)
 ---
 
 The global foreign exchange (forex) market operates as a vast, decentralized network where a multitude of currencies are traded continuously. With a daily trading volume surpassing $5 trillion, it stands as the largest financial market worldwide, far exceeding the stock market in terms of size and liquidity. This extensive market functions without a centralized exchange, relying on a complex global network of banks, financial institutions, corporations, governments, and individual traders. 

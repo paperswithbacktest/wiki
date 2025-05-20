@@ -1,6 +1,9 @@
 ---
-title: "Wall of Worry: Definition and Mechanism (Algo Trading)"
-description: "Explore how emotions and psychology influence market behavior through the 'Wall of Worry' concept while discovering algorithmic trading strategies to mitigate biases."
+category: quant_concept
+description: Explore how emotions and psychology influence market behavior through
+  the 'Wall of Worry' concept while discovering algorithmic trading strategies to
+  mitigate biases.
+title: 'Wall of Worry: Definition and Mechanism (Algo Trading)'
 ---
 
 Understanding the factors that drive the stock market extends beyond mere analysis of financial statements and metrics. Emotions significantly influence investor behavior and market dynamics. Such emotional influences are encapsulated in terms like "Wall of Worry" and "market emotions," highlighting the interaction between psychology and market behavior.

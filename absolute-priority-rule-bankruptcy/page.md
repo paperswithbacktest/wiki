@@ -1,6 +1,8 @@
 ---
-title: "Absolute Priority Rule in Bankruptcy (Algo Trading)"
-description: "Explore the absolute priority rule in bankruptcy and its impact on algorithmic trading of distressed assets, emphasizing creditor hierarchy and investment strategies."
+category: quant_concept
+description: Explore the absolute priority rule in bankruptcy and its impact on algorithmic
+  trading of distressed assets, emphasizing creditor hierarchy and investment strategies.
+title: Absolute Priority Rule in Bankruptcy (Algo Trading)
 ---
 
 Bankruptcy is a structured legal process that provides individuals or entities, unable to meet their financial obligations, with an opportunity to seek relief from debts. This mechanism aims to balance the interests of debtors seeking a fresh start with those of creditors attempting to recoup their loans. Central to the resolution of bankruptcy cases is the 'absolute priority rule.' This principle establishes a clear sequence for distributing payments to creditors and stakeholders, ensuring a systematic approach in settling financial obligations during bankruptcy proceedings.

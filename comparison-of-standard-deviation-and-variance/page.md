@@ -1,6 +1,10 @@
 ---
-title: "Comparison of Standard Deviation and Variance (Algo Trading)"
-description: "Explore the key differences and significance of standard deviation and variance in algorithmic trading. Learn how these statistical measures help traders quantify risk, assess market volatility, and optimize trading strategies for better decision-making in financial markets."
+category: quant_concept
+description: Explore the key differences and significance of standard deviation and
+  variance in algorithmic trading. Learn how these statistical measures help traders
+  quantify risk, assess market volatility, and optimize trading strategies for better
+  decision-making in financial markets.
+title: Comparison of Standard Deviation and Variance (Algo Trading)
 ---
 
 In finance, particularly in algorithmic trading, statistical analysis serves as a critical tool for traders making informed decisions. It provides a quantitative basis for understanding market dynamics, evaluating risks, and optimizing financial strategies. Among the core statistical measurements employed in this field are standard deviation and variance. These metrics play a pivotal role in quantifying risk and volatility, both of which are essential for developing robust trading strategies.

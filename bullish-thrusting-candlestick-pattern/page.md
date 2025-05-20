@@ -1,6 +1,13 @@
 ---
-title: "Bullish Thrusting Candlestick Pattern Explained (Algo Trading)"
-description: Explore the Bullish Thrusting candlestick pattern in algorithmic trading where it acts as a key indicator for the continuation of an uptrend. This comprehensive guide covers its formation identification and application in trading strategies offering insights into market psychology and the pattern's role in enhancing algorithmic trading decisions. Learn effective risk management tactics and performance evaluation techniques to harness the potential of this pattern for profitable trades in dynamic markets.
+category: trading_strategy
+description: Explore the Bullish Thrusting candlestick pattern in algorithmic trading
+  where it acts as a key indicator for the continuation of an uptrend. This comprehensive
+  guide covers its formation identification and application in trading strategies
+  offering insights into market psychology and the pattern's role in enhancing algorithmic
+  trading decisions. Learn effective risk management tactics and performance evaluation
+  techniques to harness the potential of this pattern for profitable trades in dynamic
+  markets.
+title: Bullish Thrusting Candlestick Pattern Explained (Algo Trading)
 ---
 
 Algorithmic trading has become a cornerstone of modern financial markets, relying extensively on technical analysis and pattern recognition to execute trades with precision and speed. Within this domain, patterns like the Bullish Thrusting pattern play a crucial role in forming strategic trading decisions. This pattern, recognized for its potential to signal the continuation of an uptrend, is highly regarded by traders and automated systems alike.

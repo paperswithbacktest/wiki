@@ -1,6 +1,9 @@
 ---
-title: "Lost Share Certificate and Stock Ownership (Algo Trading)"
-description: "Explore the vital role of stock ownership and documentation, highlighting the impact of algorithmic trading on markets and addressing challenges with lost share certificates."
+category: quant_concept
+description: Explore the vital role of stock ownership and documentation, highlighting
+  the impact of algorithmic trading on markets and addressing challenges with lost
+  share certificates.
+title: Lost Share Certificate and Stock Ownership (Algo Trading)
 ---
 
 Stock ownership represents a foundational element of financial markets, signifying an individual's or institution's stake in a company. This ownership is typically evidenced through share documentation, which historically has been in the form of physical share certificates. Share certificates serve as legal evidence of ownership, conferring rights such as voting power and dividends to the shareholder. These documents are crucial for affirming stock ownership and ensuring the rightful exercise of associated privileges.

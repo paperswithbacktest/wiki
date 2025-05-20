@@ -1,6 +1,8 @@
 ---
-title: "Overhang: Concepts, Mechanisms, and Calculations (Algo Trading)"
-description: "Explore the concepts and calculations behind overhang in algorithmic trading Understand its impact on trading dynamics and risk management strategies"
+category: quant_concept
+description: Explore the concepts and calculations behind overhang in algorithmic
+  trading Understand its impact on trading dynamics and risk management strategies
+title: 'Overhang: Concepts, Mechanisms, and Calculations (Algo Trading)'
 ---
 
 Algorithmic trading has become a pivotal component of modern financial markets, chiefly due to its ability to execute trades with remarkable speed and precision. This type of trading relies on complex algorithms to make decisions based on market data, enabling traders to capitalize on minute price movements within fractions of a second. However, a key aspect of understanding and optimizing algorithmic trading lies in comprehending the various calculation mechanisms that form its foundation. Notably, the concept of "overhang" plays a significant role in these mechanisms.

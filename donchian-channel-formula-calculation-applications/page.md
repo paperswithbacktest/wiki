@@ -1,6 +1,8 @@
 ---
-title: "Donchian Channel: Formula, Calculation, and Applications (Algo Trading)"
-description: "Discover the power of Donchian Channels in trading. Learn their formula, calculation, and applications to identify trends and breakout opportunities."
+category: trading_strategy
+description: Discover the power of Donchian Channels in trading. Learn their formula,
+  calculation, and applications to identify trends and breakout opportunities.
+title: 'Donchian Channel: Formula, Calculation, and Applications (Algo Trading)'
 ---
 
 The world of trading is always evolving, with traders constantly seeking tools and strategies to gain an edge in the financial markets. Among the plethora of trading indicators available today, Donchian Channels have emerged as a significant tool for many traders, particularly in technical analysis and algorithmic trading. Donchian Channels, named after Richard Donchian, are instrumental in identifying trends and volatility, making them invaluable for traders looking to spot potential breakout opportunities.

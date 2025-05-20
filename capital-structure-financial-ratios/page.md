@@ -1,6 +1,9 @@
 ---
-title: "Capital Structure Financial Ratios (Algo Trading)"
-description: "Explore how financial ratios are crucial for assessing a company's financial health, with a focus on capital structure and their role in enhancing algorithmic trading strategies."
+category: quant_concept
+description: Explore how financial ratios are crucial for assessing a company's financial
+  health, with a focus on capital structure and their role in enhancing algorithmic
+  trading strategies.
+title: Capital Structure Financial Ratios (Algo Trading)
 ---
 
 In finance, understanding and utilizing financial ratios are crucial for analyzing a company's financial health. Financial ratios are quantitative tools derived from a company’s financial statements, offering insights into aspects such as profitability, liquidity, efficiency, and leverage. They serve as benchmarks, allowing investors and analysts to compare performance across companies and industries over time. These ratios not only reflect a company's historical and current performance but also provide essential metrics for shaping investment strategies and forecasting future financial conditions.

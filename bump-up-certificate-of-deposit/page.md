@@ -1,6 +1,8 @@
 ---
-title: "Bump-Up Certificate of Deposit (Algo Trading)"
-description: "Explore the benefits of Bump-Up Certificates of Deposit CDs and how algorithmic trading can enhance returns by adapting to changing interest rates effectively."
+category: quant_concept
+description: Explore the benefits of Bump-Up Certificates of Deposit CDs and how algorithmic
+  trading can enhance returns by adapting to changing interest rates effectively.
+title: Bump-Up Certificate of Deposit (Algo Trading)
 ---
 
 In today's ever-evolving financial landscape, investors are continuously on the lookout for flexible and advantageous savings products. One such innovative investment vehicle is the Bump-Up Certificate of Deposit (CD). These financial instruments offer a unique advantage by allowing investors to capitalize on rising interest rates without the need to renegotiate the entire CD agreement, providing a blend of security and adaptability.

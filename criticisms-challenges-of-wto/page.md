@@ -1,6 +1,8 @@
 ---
-title: "Criticisms and Challenges of the WTO (Algo Trading)"
-description: "Explore the criticisms of the World Trade Organization and the impact of algorithmic trading on market fairness and equity in today's globalized economy."
+category: quant_concept
+description: Explore the criticisms of the World Trade Organization and the impact
+  of algorithmic trading on market fairness and equity in today's globalized economy.
+title: Criticisms and Challenges of the WTO (Algo Trading)
 ---
 
 Globalization, trade, and financial markets are undergoing increased scrutiny as their complexities become more evident. In recent years, these interconnected domains have faced mounting criticism for facilitating economic disparities on a global scale. Organizations such as the World Trade Organization (WTO) are frequently identified as contributors to inequality in international trade dynamics. Established in 1995 with the goal of supervising and liberalizing global trade, the WTO has been criticized for its perceived favoritism towards developed nations at the expense of less affluent economies. This has sparked debates about the fairness and equity of the global economic framework.

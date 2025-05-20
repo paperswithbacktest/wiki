@@ -1,6 +1,9 @@
 ---
-title: "Impact of Security Meeting Its Strike Price (Algo Trading)"
-description: "Discover how algorithmic trading impacts options trading by influencing strike prices and optimizing strategies for improved pricing efficiency and trading decisions."
+category: quant_concept
+description: Discover how algorithmic trading impacts options trading by influencing
+  strike prices and optimizing strategies for improved pricing efficiency and trading
+  decisions.
+title: Impact of Security Meeting Its Strike Price (Algo Trading)
 ---
 
 Options trading stands as a fundamental aspect of financial markets, offering a structured approach to gaining flexibility and profit potential via derivatives. Options are contracts granting the right, but not the obligation, to buy or sell an underlying asset at a predetermined price, known as the strike price, before or on a specific expiration date. These instruments provide significant versatility, allowing traders to tailor strategies that can leverage market conditions to their advantage.

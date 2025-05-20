@@ -1,6 +1,9 @@
 ---
-title: "Liquidity Risk (Algo Trading)"
-description: "Explore the complexities of liquidity risk in algorithmic trading and its impact on market dynamics. Learn how to manage these risks for optimal trading outcomes."
+category: quant_concept
+description: Explore the complexities of liquidity risk in algorithmic trading and
+  its impact on market dynamics. Learn how to manage these risks for optimal trading
+  outcomes.
+title: Liquidity Risk (Algo Trading)
 ---
 
 Financial risk refers to the possibility of losing financial resources and is integral to understanding and navigating modern financial markets. This overarching term encompasses various risks, including market risk, credit risk, and liquidity risk, each contributing to the uncertainty that market participants face in their trading and investment activities. Financial risk is pivotal in shaping the behavior of market participants and is a crucial consideration for ensuring stability and profitability in financial markets.
@@ -126,4 +129,3 @@ As we look forward, the anticipated evolution of regulatory frameworks will play
 [6]: Jansen, S. (2020). ["Machine Learning for Algorithmic Trading: Predictive Models to Extract Signals from Market and Alternative Data for Systematic Trading Strategies with Python."](https://github.com/stefan-jansen/machine-learning-for-trading) Packt Publishing.
 
 [7]: Bangia, A., Diebold, F. X., Schuermann, T., & Stroughair, J. D. (1999). ["Liquidity Risk, Technical Report."](http://www.ssc.upenn.edu/~fdiebold/papers/paper25/bds.pdf) The Wharton School, University of Pennsylvania.
-

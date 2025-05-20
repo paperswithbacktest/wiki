@@ -1,6 +1,8 @@
 ---
-title: "Assumptions in Economic Models (Algo Trading)"
-description: "Explore the role of assumptions in economic models and theories within algorithmic trading. Learn how they simplify complex systems to predict market behaviors."
+category: quant_concept
+description: Explore the role of assumptions in economic models and theories within
+  algorithmic trading. Learn how they simplify complex systems to predict market behaviors.
+title: Assumptions in Economic Models (Algo Trading)
 ---
 
 The interplay between economist assumptions, economic theories, and economic models is foundational for understanding and predicting financial market behaviors, particularly in fields like algorithmic trading. Assumptions serve as the bedrock for economic modeling and theory formulation, allowing economists to simplify complex real-world systems and focus on key variables that affect economic outcomes. These assumptions are crucial as they enable the abstraction of complex market behaviors into understandable models that can generate useful predictions. 

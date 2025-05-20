@@ -1,6 +1,8 @@
 ---
-title: "Gambler's Fallacy Explained with Examples (Algo Trading)"
-description: "Learn about the Gambler's Fallacy and its impact on trading decisions. Discover how understanding probability can help improve your trading strategies."
+category: quant_concept
+description: Learn about the Gambler's Fallacy and its impact on trading decisions.
+  Discover how understanding probability can help improve your trading strategies.
+title: Gambler's Fallacy Explained with Examples (Algo Trading)
 ---
 
 Understanding probability is a fundamental aspect of decision-making across a wide range of fields, from finance to science. It enables individuals to make informed choices by assessing the likelihood of various outcomes. However, misconceptions about probability can lead to cognitive biases, which can skew judgment and reasoning. One such bias is the Gambler's Fallacy. This cognitive bias involves the mistaken belief that if an occurrence happens more frequently than usual during a certain period, it will happen less frequently in the future, or vice versa. This erroneous thinking can be particularly damaging in fields such as trading and investments, where decisions are closely tied to probabilistic analysis. 

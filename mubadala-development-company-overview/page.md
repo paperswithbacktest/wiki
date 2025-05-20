@@ -1,6 +1,8 @@
 ---
-title: "Mubadala Development Company Overview (Algo Trading)"
-description: "Explore Mubadala Investment Company's strategic expansion into algorithmic trading as it integrates advanced technologies and diversifies its global portfolio."
+category: quant_concept
+description: Explore Mubadala Investment Company's strategic expansion into algorithmic
+  trading as it integrates advanced technologies and diversifies its global portfolio.
+title: Mubadala Development Company Overview (Algo Trading)
 ---
 
 Mubadala Development Company, established in Abu Dhabi, is a prominent player in the global financial landscape. Originally founded to facilitate Abu Dhabi's economic diversification, it has evolved into the Mubadala Investment Company, expanding its investment strategies across a wide range of sectors. This transformation signifies a strategic shift towards becoming one of the world’s leading sovereign wealth funds, managing an extensive portfolio that spans various industries and geographies.

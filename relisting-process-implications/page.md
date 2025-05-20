@@ -1,6 +1,8 @@
 ---
-title: "Relisting Process and Implications (Algo Trading)"
-description: "Explore the intricate dynamics of algorithmic trading, focusing on the stock market relisting process. Learn how algos manage risks for better trade decisions."
+category: quant_concept
+description: Explore the intricate dynamics of algorithmic trading, focusing on the
+  stock market relisting process. Learn how algos manage risks for better trade decisions.
+title: Relisting Process and Implications (Algo Trading)
 ---
 
 Algorithmic trading, often referred to as algo trading, has revolutionized the financial markets by integrating automation, precision, and high-speed capabilities into trading activities. At its core, this approach utilizes mathematical models and computer algorithms to execute trading orders at speeds and frequencies unattainable by human traders. This technological advancement is crucial in today's trading environment, where milliseconds can determine the success or failure of a trade.

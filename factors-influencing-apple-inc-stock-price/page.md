@@ -1,6 +1,9 @@
 ---
-title: "Factors Influencing Apple Inc. Stock Price (Algo Trading)"
-description: "Explore the factors shaping Apple Inc.'s stock price including product launches algorithmic trading and macroeconomic indicators to enhance investment strategies."
+category: trading_strategy
+description: Explore the factors shaping Apple Inc.'s stock price including product
+  launches algorithmic trading and macroeconomic indicators to enhance investment
+  strategies.
+title: Factors Influencing Apple Inc. Stock Price (Algo Trading)
 ---
 
 Apple Inc. stands as a paragon in the global technology sector, consistently capturing the attention of investors, analysts, and the general public. As one of the most valuable companies worldwide, the performance of Apple’s stock is a subject of constant scrutiny. This interest is largely attributed to Apple's significant influence on financial markets and its role as an indicator of broader economic trends.

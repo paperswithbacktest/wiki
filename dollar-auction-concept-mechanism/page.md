@@ -1,6 +1,8 @@
 ---
-title: "Dollar Auction: Concept and Mechanism (Algo Trading)"
-description: "Explore the paradoxical Dollar Auction game in game theory, revealing how rational decisions can turn irrational. Discover its implications for algo trading."
+category: quant_concept
+description: Explore the paradoxical Dollar Auction game in game theory, revealing
+  how rational decisions can turn irrational. Discover its implications for algo trading.
+title: 'Dollar Auction: Concept and Mechanism (Algo Trading)'
 ---
 
 The Dollar Auction game, conceived by economist Martin Shubik, represents a key concept within game theory, challenging the conventional perceptions of rational choice theory. This game serves as an intriguing demonstration of how rational decision-making processes can paradoxically result in irrational outcomes. At its core, the Dollar Auction involves a bidding competition where two or more participants vie for a dollar bill, with the twist that both the highest bidder and the second-highest bidder must pay their bids, regardless of who wins the dollar. This unique setup exemplifies the irrational escalation of bids, often surpassing the dollar's face value, as players strive to avoid losses rather than optimize gains.

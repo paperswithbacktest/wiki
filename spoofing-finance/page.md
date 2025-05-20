@@ -1,6 +1,9 @@
 ---
-title: "Spoofing (finance) (Algo Trading)"
-description: "Explore the controversial practice of spoofing in finance, revealing how deceptive trading tactics can manipulate market prices and impact stability globally."
+category: quant_concept
+description: Explore the controversial practice of spoofing in finance, revealing
+  how deceptive trading tactics can manipulate market prices and impact stability
+  globally.
+title: Spoofing (finance) (Algo Trading)
 ---
 
 Spoofing is a controversial practice in algorithmic trading characterized by the placement of deceptive orders aimed at manipulating market prices. These orders are entered with the intent to cancel them before execution, creating a misleading impression of demand or supply. Traders who engage in spoofing exploit this artificial market activity to influence asset prices advantageously, often resulting in transient price movements they can profit from. Spoofing is deemed illegal in numerous jurisdictions, including the United States, where it is explicitly prohibited under the Dodd-Frank Act. The legislation empowers regulatory bodies such as the Commodity Futures Trading Commission (CFTC) and the Securities and Exchange Commission (SEC) to monitor and penalize such activities, highlighting its recognized detrimental impact on financial markets.

@@ -1,6 +1,12 @@
 ---
-title: "MACD Histogram Explained (Algo Trading)"
-description: Understand the MACD histogram strategy for algorithmic trading, a key tool for identifying market momentum and reversals. Learn how the strategy interprets histogram divergence between MACD and signal lines to predict price changes. Discover how traders use this strategy for ETFs, optimizing returns by adjusting thresholds and observation periods to fit market conditions, ultimately enhancing trading decisions with data-driven insights.
+category: trading_strategy
+description: Understand the MACD histogram strategy for algorithmic trading, a key
+  tool for identifying market momentum and reversals. Learn how the strategy interprets
+  histogram divergence between MACD and signal lines to predict price changes. Discover
+  how traders use this strategy for ETFs, optimizing returns by adjusting thresholds
+  and observation periods to fit market conditions, ultimately enhancing trading decisions
+  with data-driven insights.
+title: MACD Histogram Explained (Algo Trading)
 ---
 
 The Moving Average Convergence Divergence (MACD) histogram strategy has emerged as a significant tool in algorithmic trading, specifically for identifying momentum shifts and potential market reversals. This strategy leverages the statistical relationship between the MACD line and the signal line, as depicted by the histogram. By observing these differences, traders can make educated guesses about upcoming price movements.

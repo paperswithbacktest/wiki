@@ -1,6 +1,9 @@
 ---
-title: "Defense Production Act: Overview and COVID-19 Applications (Algo Trading)"
-description: "Explore the pivotal role of the Defense Production Act during COVID-19 and its impact on algorithmic trading and the defense sector, highlighting crisis response."
+category: quant_concept
+description: Explore the pivotal role of the Defense Production Act during COVID-19
+  and its impact on algorithmic trading and the defense sector, highlighting crisis
+  response.
+title: 'Defense Production Act: Overview and COVID-19 Applications (Algo Trading)'
 ---
 
 The COVID-19 pandemic has triggered profound disruptions across global economies and healthcare infrastructures, necessitating swift and decisive action from governments worldwide. In response, several countries have mobilized resources and enacted policies to manage the crisis. In the United States, the Defense Production Act (DPA) has played an instrumental role in addressing the complex challenges posed by the pandemic. Originally enacted in 1950, the DPA grants the President authority to direct private industry to prioritize the production of goods deemed essential for national defense, a mandate that has been repurposed to confront the threats introduced by COVID-19.

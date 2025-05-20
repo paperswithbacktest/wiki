@@ -1,7 +1,8 @@
 ---
-title: Network Shrinking Techniques for Efficient Machine Learning
+category: quant_concept
 description: Network shrinking optimizes neural models by pruning and quantization
   to boost speed and reduce memory use for low power devices Discover more inside.
+title: Network Shrinking Techniques for Efficient Machine Learning
 ---
 
 ![Image](images/1.png)

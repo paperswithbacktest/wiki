@@ -1,6 +1,12 @@
 ---
-title: "Top Countries for Digital Nomads (Algo Trading)"
-description: "Explore the best countries for digital nomads, emphasizing those ideal for algorithmic traders. Factors such as internet connectivity, cost of living, and community support are considered to help individuals make informed decisions on where to live and work remotely. Discover how digital nomad visas and favorable conditions in certain countries create an attractive environment for remote work and trading activities, fostering both personal growth and professional productivity."
+category: quant_concept
+description: Explore the best countries for digital nomads, emphasizing those ideal
+  for algorithmic traders. Factors such as internet connectivity, cost of living,
+  and community support are considered to help individuals make informed decisions
+  on where to live and work remotely. Discover how digital nomad visas and favorable
+  conditions in certain countries create an attractive environment for remote work
+  and trading activities, fostering both personal growth and professional productivity.
+title: Top Countries for Digital Nomads (Algo Trading)
 ---
 
 The rise of digital nomadism and remote work has significantly altered traditional paradigms of employment. Enabled by advances in technology, particularly in communication and collaboration tools, individuals now have the flexibility to work from any location globally. This shift has encouraged a lifestyle where professionals, commonly referred to as digital nomads, blend work and travel, choosing to base themselves in diverse locations around the world while maintaining their professional responsibilities.

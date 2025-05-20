@@ -1,6 +1,8 @@
 ---
-title: "Discretionary Investment Management: Benefits and Risks (Algo Trading)"
-description: "Explore the benefits and risks of discretionary investment management and algorithmic trading in modern portfolios to enhance your financial strategies."
+category: trading_strategy
+description: Explore the benefits and risks of discretionary investment management
+  and algorithmic trading in modern portfolios to enhance your financial strategies.
+title: 'Discretionary Investment Management: Benefits and Risks (Algo Trading)'
 ---
 
 Investment management has undergone profound transformations as technological advancements and evolving market dynamics continue to reshape the landscape. Historically, investment management relied heavily on human judgment and manual processes, but the integration of technology has introduced new methodologies that reshape how investors engage with financial markets. This article examines crucial aspects of discretionary investment management, the inherent risks in investing, and the growing influence of algorithmic trading in modern portfolios.

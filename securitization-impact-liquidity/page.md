@@ -1,6 +1,8 @@
 ---
-title: "Securitization and Its Impact on Liquidity (Algo Trading)"
-description: "Discover how securitization and algorithmic trading enhance liquidity and market efficiency driving financial innovation in today's dynamic trading environment."
+category: quant_concept
+description: Discover how securitization and algorithmic trading enhance liquidity
+  and market efficiency driving financial innovation in today's dynamic trading environment.
+title: Securitization and Its Impact on Liquidity (Algo Trading)
 ---
 
 In today's financial landscape, liquidity, securitization, and algorithmic trading (algo trading) stand as pivotal components shaping market dynamics. Liquidity refers to the ease with which assets can be bought or sold in the market without causing significant price changes. High liquidity is crucial for the smooth operation of financial markets, as it ensures quick and efficient execution of trades, providing stability and confidence among market participants.

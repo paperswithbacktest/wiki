@@ -1,6 +1,9 @@
 ---
-title: "Comparison of Accrued Expenses and Accounts Payable (Algo Trading)"
-description: "Explore the intricacies of financial liabilities, accrued expenses, and accounts payable. Understand their roles in cash flow management and insights for algo trading."
+category: quant_concept
+description: Explore the intricacies of financial liabilities, accrued expenses, and
+  accounts payable. Understand their roles in cash flow management and insights for
+  algo trading.
+title: Comparison of Accrued Expenses and Accounts Payable (Algo Trading)
 ---
 
 In finance, mastering key concepts such as financial liabilities, accrued expenses, and accounts payable is essential. These financial components form the backbone of a company's management, influencing vital aspects such as cash flow and net income. A robust understanding of these elements aids in effectively navigating the complexities of financial obligations and ensuring fiscal health.

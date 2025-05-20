@@ -1,6 +1,8 @@
 ---
-title: "Detachable Warrants: Overview and Mechanism (Algo Trading)"
-description: "Explore the unique investment opportunities offered by detachable warrants and the precision of algorithmic trading in modern financial markets."
+category: quant_concept
+description: Explore the unique investment opportunities offered by detachable warrants
+  and the precision of algorithmic trading in modern financial markets.
+title: 'Detachable Warrants: Overview and Mechanism (Algo Trading)'
 ---
 
 The modern financial market is filled with a myriad of complex instruments and strategies designed to optimize investment returns. Among these concepts, detachable warrants offer unique investment opportunities, while algorithmic trading promises precision and speed. This article explores the mechanisms behind financial instruments like detachable warrants and algorithmic trading, providing a deep dive into their roles and potential in today's investment landscape.

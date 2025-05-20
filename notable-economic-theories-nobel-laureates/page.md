@@ -1,6 +1,8 @@
 ---
-title: "Notable Economic Theories by Nobel Laureates (Algo Trading)"
-description: "Explore how Nobel Prize-winning economic theories integrate with algorithmic trading to enhance financial systems by improving efficiency, precision, and decision-making."
+category: quant_concept
+description: Explore how Nobel Prize-winning economic theories integrate with algorithmic
+  trading to enhance financial systems by improving efficiency, precision, and decision-making.
+title: Notable Economic Theories by Nobel Laureates (Algo Trading)
 ---
 
 The Nobel Prize in Economics is a prestigious recognition awarded to individuals whose contributions have significantly influenced economic thought and practice worldwide. These honored economists expand our understanding of complex market dynamics and enrich the theoretical frameworks upon which modern financial practices are built. By dissecting economic phenomena and offering new insights, these theories lay the groundwork for innovations across financial systems, enhancing our ability to interpret market behavior and optimize decision-making processes.

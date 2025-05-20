@@ -1,6 +1,8 @@
 ---
-title: "Forex Trading Techniques (Algo Trading)"
-description: "Explore key forex trading techniques and algorithmic strategies to enhance your market proficiency, manage risk, and navigate the forex landscape effectively."
+category: trading_strategy
+description: Explore key forex trading techniques and algorithmic strategies to enhance
+  your market proficiency, manage risk, and navigate the forex landscape effectively.
+title: Forex Trading Techniques (Algo Trading)
 ---
 
 Forex trading, short for foreign exchange trading, involves the buying and selling of currencies on a global market. As the largest and most liquid market in the world, the forex market operates 24 hours a day, with a trading volume that exceeds $6 trillion daily. This extensive trading volume affirms forex trading's pivotal role in the global financial system, influencing economic stability and growth across nations. Central banks, corporations, and individual traders participate in this market for various reasons, including hedging against currency risk, conducting international trade, and seeking profit through speculation.

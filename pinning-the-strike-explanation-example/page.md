@@ -1,6 +1,8 @@
 ---
-title: "Pinning the Strike: Explanation and Example (Algo Trading)"
-description: "Explore the dynamics of 'pinning the strike' in options trading and understand its link with market forces like labor strikes and algorithmic trading strategies."
+category: quant_concept
+description: Explore the dynamics of 'pinning the strike' in options trading and understand
+  its link with market forces like labor strikes and algorithmic trading strategies.
+title: 'Pinning the Strike: Explanation and Example (Algo Trading)'
 ---
 
 In the ever-evolving world of finance, understanding the interplay between various market forces is key to making informed trading decisions. Within this sphere, the concept of 'pinning the strike' emerges as a significant phenomenon affecting options trading. This situation occurs when the price of a security gravitates towards the strike price of heavily traded options as they near expiration. Such a scenario is influenced by market dynamics and can lead traders to adjust their positions accordingly.

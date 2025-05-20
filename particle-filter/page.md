@@ -1,6 +1,8 @@
 ---
-title: "Particle filter (Algo Trading)"
-description: "Explore how particle filters enhance algorithmic trading strategies by predicting rapid price changes in high-frequency trading for improved decision-making."
+category: quant_concept
+description: Explore how particle filters enhance algorithmic trading strategies by
+  predicting rapid price changes in high-frequency trading for improved decision-making.
+title: Particle filter (Algo Trading)
 ---
 
 Algorithmic trading continues to evolve as financial markets become increasingly complex, demanding innovative solutions for effective management and decision-making. One such innovative technique is the particle filter, commonly referred to as Sequential Monte Carlo methods. This advanced statistical approach is gaining traction as a valuable tool in high-frequency trading (HFT) and quantitative finance sectors.

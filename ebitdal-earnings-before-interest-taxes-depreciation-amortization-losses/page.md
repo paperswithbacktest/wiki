@@ -1,6 +1,9 @@
 ---
-title: "EBITDAL: Earnings Before Interest, Taxes, Depreciation, Amortization, and Losses (Algo Trading)"
-description: "Learn about EBITDAL Earnings Before Interest Taxes Depreciation Amortization and Losses and how this metric influences algorithmic trading strategies effectively."
+category: quant_concept
+description: Learn about EBITDAL Earnings Before Interest Taxes Depreciation Amortization
+  and Losses and how this metric influences algorithmic trading strategies effectively.
+title: 'EBITDAL: Earnings Before Interest, Taxes, Depreciation, Amortization, and
+  Losses (Algo Trading)'
 ---
 
 Financial metrics are critical tools used by businesses, investors, and analysts to evaluate a company's financial health and operational efficiency. They offer insights into various aspects of a business's performance, including its profitability, liquidity, and financial stability, providing stakeholders with the necessary data to make informed decisions.

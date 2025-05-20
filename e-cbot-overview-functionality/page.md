@@ -1,6 +1,8 @@
 ---
-title: "E-CBOT: Overview and Functionality (Algo Trading)"
-description: "Explore e-CBOT's influence on electronic futures trading and how algorithmic trading reshapes market operations through speed, efficiency, and wider access."
+category: quant_concept
+description: Explore e-CBOT's influence on electronic futures trading and how algorithmic
+  trading reshapes market operations through speed, efficiency, and wider access.
+title: 'E-CBOT: Overview and Functionality (Algo Trading)'
 ---
 
 The world of trading is continuously advancing, with one of the most noteworthy evolutions being the transition to electronic trading platforms. This innovation has significantly altered how trades are executed, offering efficiency, speed, and broader accessibility to the financial markets. Among these platforms, the electronic Chicago Board of Trade (e-CBOT) stands out as a pivotal development, particularly in the futures market. The e-CBOT served as a bridge between traditional trading methods and modern, technologically driven approaches, influencing how traders engage with commodity futures and financial derivatives.

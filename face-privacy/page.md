@@ -1,7 +1,8 @@
 ---
-title: Protecting Face Privacy with Machine Learning Tools and Methods
+category: quant_concept
 description: Face privacy risks increase with cameras and recognition technology yet
   Fawkes and PrivacyNet mask images to block tracking Discover more inside
+title: Protecting Face Privacy with Machine Learning Tools and Methods
 ---
 
 ![Image](images/1.jpeg)

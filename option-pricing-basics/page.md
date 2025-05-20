@@ -1,6 +1,13 @@
 ---
-title: "Option Pricing Basics (Algo Trading)"
-description: "Explore the fundamentals of option pricing and algorithmic trading in financial markets. Learn about key models like Black-Scholes and binomial pricing that calculate the fair value of options using factors like asset price and volatility. Discover how algorithmic trading enhances efficiency and precision by automating data analysis and trade execution. Understand the synergy between these technologies that helps traders navigate market complexities and optimize strategies in real-time, leading to greater transparency and decisions based on data-driven insights."
+category: quant_concept
+description: Explore the fundamentals of option pricing and algorithmic trading in
+  financial markets. Learn about key models like Black-Scholes and binomial pricing
+  that calculate the fair value of options using factors like asset price and volatility.
+  Discover how algorithmic trading enhances efficiency and precision by automating
+  data analysis and trade execution. Understand the synergy between these technologies
+  that helps traders navigate market complexities and optimize strategies in real-time,
+  leading to greater transparency and decisions based on data-driven insights.
+title: Option Pricing Basics (Algo Trading)
 ---
 
 The financial markets have consistently adapted to technological advancements, with the pricing of options and algorithmic trading emerging as crucial components of contemporary trading strategies. Options pricing models and algorithmic trading have transformed the approach to trading, making it more data-driven and precise. The evolution of these elements has introduced significant efficiencies, enabling traders to make informed decisions and execute trades with precision.

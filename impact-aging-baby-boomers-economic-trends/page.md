@@ -1,6 +1,8 @@
 ---
-title: "Impact of Aging Baby Boomers on Economic Trends (Algo Trading)"
-description: "Explore how aging Baby Boomers and algorithmic trading reshape economic trends impacting labor markets social security liquidity and financial market stability."
+category: quant_concept
+description: Explore how aging Baby Boomers and algorithmic trading reshape economic
+  trends impacting labor markets social security liquidity and financial market stability.
+title: Impact of Aging Baby Boomers on Economic Trends (Algo Trading)
 ---
 
 In recent decades, the global economy has faced a variety of significant challenges, with the aging population being a prominent concern. The Baby Boomer generation, defined as those born between 1946 and 1964, is reaching retirement age, which has profound implications on economic activities. This demographic shift affects labor markets, social security systems, and overall economic growth patterns as older populations begin to outnumber the working-age demographic. These changes necessitate adaptations in policy and economic strategies to sustain economic stability and growth.

@@ -1,6 +1,8 @@
 ---
-title: "Misconceptions About Exchange-Traded Funds (Algo Trading)"
-description: "Uncover the truths behind ETFs and algorithmic trading with this insightful article that demystifies common myths, helping investors make informed decisions."
+category: quant_concept
+description: Uncover the truths behind ETFs and algorithmic trading with this insightful
+  article that demystifies common myths, helping investors make informed decisions.
+title: Misconceptions About Exchange-Traded Funds (Algo Trading)
 ---
 
 Investing offers a broad range of opportunities, yet it's often clouded by misunderstandings and myths. Two prominent investment options, Exchange-Traded Funds (ETFs) and algorithmic trading, frequently become subjects of such misconceptions. ETFs are often regarded as transparent investment vehicles with lower fees, yet many investors misunderstand their nature and fee structure. This confusion can lead to misconceived views about their passive or active management and the diversity of their offerings beyond simple index tracking.

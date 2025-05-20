@@ -1,6 +1,8 @@
 ---
-title: "Downside Deviation: Uses and Calculation Example (Algo Trading)"
-description: "Discover how downside deviation enhances risk management in algorithmic trading by focusing on minimizing losses. Learn its uses and calculation method."
+category: quant_concept
+description: Discover how downside deviation enhances risk management in algorithmic
+  trading by focusing on minimizing losses. Learn its uses and calculation method.
+title: 'Downside Deviation: Uses and Calculation Example (Algo Trading)'
 ---
 
 The world of investing is filled with complexities and risks, making it crucial for investors to understand and manage these risks to make informed decisions. The financial markets, characterized by constant fluctuations and uncertainties, present numerous challenges that demand a thorough analysis of potential outcomes. Financial metrics are indispensable tools that help investors assess these risks and evaluate investment opportunities more effectively. Among these metrics, downside deviation stands out as a significant measure of potential losses, offering a clear view of an investment's risk profile.

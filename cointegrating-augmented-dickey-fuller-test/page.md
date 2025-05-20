@@ -1,6 +1,15 @@
 ---
-title: "Cointegrating augmented Dickey-Fuller test (Algo Trading)"
-description: Explore the Cointegrating Augmented Dickey-Fuller Test, a crucial tool in algorithmic trading for identifying cointegrated pairs and executing pairs trading strategies. CADF enhances trading strategies by detecting mean-reverting relationships in time series data, allowing for effective market-neutral strategies. Learn how this test aids in optimizing hedge ratios and implementing predictive trading algorithms, leveraging historical data analysis and statistical modeling to forecast asset pair movements and exploit market inefficiencies for improved trading performance. Discover the integration of CADF in algorithmic trading systems for enhanced precision and reduced market noise exposure.
+category: trading_strategy
+description: Explore the Cointegrating Augmented Dickey-Fuller Test, a crucial tool
+  in algorithmic trading for identifying cointegrated pairs and executing pairs trading
+  strategies. CADF enhances trading strategies by detecting mean-reverting relationships
+  in time series data, allowing for effective market-neutral strategies. Learn how
+  this test aids in optimizing hedge ratios and implementing predictive trading algorithms,
+  leveraging historical data analysis and statistical modeling to forecast asset pair
+  movements and exploit market inefficiencies for improved trading performance. Discover
+  the integration of CADF in algorithmic trading systems for enhanced precision and
+  reduced market noise exposure.
+title: Cointegrating augmented Dickey-Fuller test (Algo Trading)
 ---
 
 The rapid evolution of financial markets has birthed advanced algorithmic trading strategies, instrumental in capitalizing on short-term market inefficiencies and automated execution. A prominent technique within this domain is the Cointegrating Augmented Dickey-Fuller (CADF) Test, which has gained considerable attention, particularly for its application in pairs trading. Pairs trading is a market-neutral strategy that seeks to exploit relative pricing inefficiencies between two correlated securities by taking simultaneous long and short positions. This approach is reliant on identifying pairs of assets that maintain a stable, mean-reverting relationship over time.

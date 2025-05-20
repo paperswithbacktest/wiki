@@ -1,6 +1,8 @@
 ---
-title: "Sovereign Bond Yield and Functionality (Algo Trading)"
-description: "Explore the functionality and impact of sovereign bond yields and algorithmic trading Learn how these elements shape investment strategies and economic trends"
+category: quant_concept
+description: Explore the functionality and impact of sovereign bond yields and algorithmic
+  trading Learn how these elements shape investment strategies and economic trends
+title: Sovereign Bond Yield and Functionality (Algo Trading)
 ---
 
 Government bonds are debt securities issued by a government to support government spending and obligations. They are one of the most prominent instruments in the financial system due to their essential role in funding government activities such as infrastructure development, social programs, and other public expenditures. As a result, they are considered a low-risk investment vehicle, often used as a benchmark for assessing the risk and return of other investments.

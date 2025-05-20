@@ -1,6 +1,9 @@
 ---
-title: "Binomial Distribution: Formula, Analysis, and Example (Algo Trading)"
-description: "Explore the binomial distribution's role in algorithmic trading with insights on formula application analysis and examples to optimize financial strategies and decisions."
+category: quant_concept
+description: Explore the binomial distribution's role in algorithmic trading with
+  insights on formula application analysis and examples to optimize financial strategies
+  and decisions.
+title: 'Binomial Distribution: Formula, Analysis, and Example (Algo Trading)'
 ---
 
 In today's finance-driven world, understanding statistical models is essential for making informed decisions. Among these models, the binomial distribution plays a significant role, particularly in its applications in statistical analysis and algorithmic trading. As a key concept in probability theory, the binomial distribution provides the foundations for predicting and evaluating the outcomes of various binary events.

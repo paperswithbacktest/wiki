@@ -1,6 +1,8 @@
 ---
-title: "Hawkes processes (Algo Trading)"
-description: "Explore the Hawkes process in algorithmic trading to capture temporal clustering of events and enhance trading strategies with a strategic market edge."
+category: quant_concept
+description: Explore the Hawkes process in algorithmic trading to capture temporal
+  clustering of events and enhance trading strategies with a strategic market edge.
+title: Hawkes processes (Algo Trading)
 ---
 
 In today's dynamic landscape of algorithmic trading, mathematical models play a pivotal role in aiding traders to make informed decisions. Among these models, the Hawkes process has emerged as an essential tool due to its self-exciting properties. This process provides a sophisticated approach to capturing and analyzing the correlations between discrete financial events, allowing for a deeper understanding of market dynamics.

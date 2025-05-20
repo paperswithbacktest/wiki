@@ -1,6 +1,9 @@
 ---
-title: "Arithmetic Mean: Overview, Limitations, and Alternatives (Algo Trading)"
-description: "Explore the role of the arithmetic mean in financial analysis and its limitations due to outliers. Discover alternative metrics like geometric and harmonic means."
+category: quant_concept
+description: Explore the role of the arithmetic mean in financial analysis and its
+  limitations due to outliers. Discover alternative metrics like geometric and harmonic
+  means.
+title: 'Arithmetic Mean: Overview, Limitations, and Alternatives (Algo Trading)'
 ---
 
 In financial analysis and algorithmic trading, the arithmetic mean is frequently employed as a basic tool for analyzing trends and making informed decisions. Its straightforward calculation involves summing a series of numbers and dividing by the quantity. While this simplicity can be advantageous, it is crucial to recognize its limitations and consider alternative approaches.

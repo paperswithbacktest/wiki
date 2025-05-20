@@ -1,6 +1,9 @@
 ---
-title: "Mission Investors Exchange: Overview and Membership Process (Algo Trading)"
-description: "Explore the transformative role of Mission Investors Exchange in impact investing. Discover membership types and the alignment of financial goals with social values."
+category: quant_concept
+description: Explore the transformative role of Mission Investors Exchange in impact
+  investing. Discover membership types and the alignment of financial goals with social
+  values.
+title: 'Mission Investors Exchange: Overview and Membership Process (Algo Trading)'
 ---
 
 The investment landscape is undergoing a profound transformation as more investors prioritize social impact and sustainability alongside traditional financial returns. This paradigm shift is driven by a growing recognition that investment decisions can have significant social and environmental consequences and that aligning financial strategies with ethical values is both a moral imperative and a driver of long-term success. Mission Investors Exchange (MIE) is at the forefront of this movement, serving as a pivotal platform for organizations committed to impact investing. By promoting best practices and facilitating knowledge sharing among its members, MIE fosters an investment environment where social good and financial health are not mutually exclusive but rather complementary objectives.

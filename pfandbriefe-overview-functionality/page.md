@@ -1,6 +1,9 @@
 ---
-title: "Pfandbriefe: Overview and Functionality (Algo Trading)"
-description: "Explore the dynamics of Pfandbriefe trading in Germany's fixed-income market leveraging algorithmic trading for improved liquidity speed and accuracy while managing risks."
+category: quant_concept
+description: Explore the dynamics of Pfandbriefe trading in Germany's fixed-income
+  market leveraging algorithmic trading for improved liquidity speed and accuracy
+  while managing risks.
+title: 'Pfandbriefe: Overview and Functionality (Algo Trading)'
 ---
 
 Pfandbriefe bonds are a fundamental component of the German fixed-income market, renowned for their secure nature and robust backing by real estate or public sector loans. These covered bonds serve as essential instruments for both institutional and private investors, offering a reliable investment avenue within the secondary market. Pfandbriefe play a crucial role by enhancing market liquidity, allowing participants to efficiently buy and sell securities, thereby creating diverse investment opportunities.

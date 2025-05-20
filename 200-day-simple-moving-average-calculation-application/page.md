@@ -1,6 +1,8 @@
 ---
-title: "200-Day Simple Moving Average: Calculation and Application (Algo Trading)"
-description: "Discover how the 200-day Simple Moving Average aids in identifying market trends and enhances algo trading strategies by filtering short-term volatility."
+category: trading_strategy
+description: Discover how the 200-day Simple Moving Average aids in identifying market
+  trends and enhances algo trading strategies by filtering short-term volatility.
+title: '200-Day Simple Moving Average: Calculation and Application (Algo Trading)'
 ---
 
 The world of trading is bustling with various tools and strategies. Among them, the 200-day Simple Moving Average (SMA) stands out as a fundamental tool for technical analysts. This moving average helps traders and investors identify market trends by smoothing out price fluctuations, offering a clearer picture of the market's direction. The 200-day SMA is specifically valued for its ability to filter out short-term market volatility, providing a stable reference point to assess an asset's long-term trajectory.

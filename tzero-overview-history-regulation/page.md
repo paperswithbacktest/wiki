@@ -1,6 +1,8 @@
 ---
-title: "tZero: Overview, Historical Context, and Regulatory Aspects (Algo Trading)"
-description: "Discover how tZero leverages blockchain and algorithmic trading to revolutionize financial markets enhancing transparency, efficiency, and regulatory compliance."
+category: quant_concept
+description: Discover how tZero leverages blockchain and algorithmic trading to revolutionize
+  financial markets enhancing transparency, efficiency, and regulatory compliance.
+title: 'tZero: Overview, Historical Context, and Regulatory Aspects (Algo Trading)'
 ---
 
 In recent years, financial technology has fundamentally transformed the landscape of financial markets, reshaping how we engage with money, investments, and global economic systems. At the forefront of this transformation is tZero, a pioneering entity in blockchain technology, which has introduced groundbreaking advancements within financial markets. By merging blockchain with financial technology, tZero is leading efforts to enhance trading platforms, significantly boosting transparency and operational efficiency.

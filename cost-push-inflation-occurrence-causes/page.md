@@ -1,6 +1,9 @@
 ---
-title: "Cost-Push Inflation: Occurrence and Causes (Algo Trading)"
-description: "Explore the effects of cost-push inflation and its impact on economic and trading strategies Learn how increased production costs affect price levels and algorithmic trading"
+category: quant_concept
+description: Explore the effects of cost-push inflation and its impact on economic
+  and trading strategies Learn how increased production costs affect price levels
+  and algorithmic trading
+title: 'Cost-Push Inflation: Occurrence and Causes (Algo Trading)'
 ---
 
 Cost-push inflation is a critical concept in the study of economics, representing one of the primary ways in which overall price levels rise in an economy. Unlike demand-pull inflation, which occurs when the demand for goods and services exceeds supply, leading to price increases, cost-push inflation arises when the costs of production inputs rise, driving up prices independently of demand. This type of inflation is often triggered by an increase in the cost of labor, raw materials, or other factors of production. For example, a sudden spike in oil prices can increase transportation and production costs across various industries, leading to a general rise in prices—a typical instance of cost-push inflation.

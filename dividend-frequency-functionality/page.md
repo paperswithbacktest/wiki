@@ -1,6 +1,8 @@
 ---
-title: "Dividend Frequency and Functionality (Algo Trading)"
-description: "Explore how dividend frequencies and algorithmic trading enhance investment strategies by optimizing income and managing risks for improved financial performance."
+category: quant_concept
+description: Explore how dividend frequencies and algorithmic trading enhance investment
+  strategies by optimizing income and managing risks for improved financial performance.
+title: Dividend Frequency and Functionality (Algo Trading)
 ---
 
 Dividend payments represent a crucial component of many investment strategies, offering investors a source of regular income and potentially enhancing portfolio stability. Dividends, paid by companies to their shareholders, can take various forms, including cash or stock dividends. These distributions serve as a testament to a company's profitability and financial health, thereby influencing an investor's decision to purchase or retain shares. A consistent dividend policy may signal stability and a company's strength, making dividend-paying stocks attractive to many investors.
@@ -208,4 +210,3 @@ For those interested in deepening their knowledge, exploring advanced literature
    - **QuantConnect**: An open-source algorithmic trading platform providing data libraries and learning resources for trading strategies, including dividend capture.
 
 These resources will provide readers with comprehensive insights and tools to enhance their knowledge and strategies in dividend investing and algorithmic trading.
-

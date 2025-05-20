@@ -1,6 +1,8 @@
 ---
-title: "Omani Rial (Algo Trading)"
-description: "Explore the algorithmic trading of the Omani Rial focusing on strategies to leverage its stability and high value in forex markets for optimal efficiency."
+category: dataset
+description: Explore the algorithmic trading of the Omani Rial focusing on strategies
+  to leverage its stability and high value in forex markets for optimal efficiency.
+title: Omani Rial (Algo Trading)
 ---
 
 The Omani Rial (OMR) serves as the official currency of Oman and is managed by the Central Bank of Oman. It is renowned as one of the strongest currencies worldwide, attributed to its high value and consistent stability. This financial stability is a critical factor for traders who are increasingly turning to algorithmic trading techniques in today’s digital trading environments. Algorithmic trading has become a fundamental tool, particularly within the highly liquid and dynamic forex markets.

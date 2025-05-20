@@ -1,6 +1,8 @@
 ---
-title: "Effects of Oil Prices on the U.S. Economy (Algo Trading)"
-description: "Explore the intricate effects of oil price fluctuations on the U.S. economy and the role of algorithmic trading in shaping energy markets and economic policies."
+category: quant_concept
+description: Explore the intricate effects of oil price fluctuations on the U.S. economy
+  and the role of algorithmic trading in shaping energy markets and economic policies.
+title: Effects of Oil Prices on the U.S. Economy (Algo Trading)
 ---
 
 The relationship between oil prices and the U.S. economy is both intricate and multifaceted, involving a myriad of factors that influence the economic landscape. Over the decades, oil prices have experienced significant fluctuations, driven by a variety of causes including geopolitical tensions, shifts in supply and demand, and advancements in technology. These dynamics contribute to a complex web of interactions that can have profound effects on the U.S. economy.

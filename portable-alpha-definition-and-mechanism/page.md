@@ -1,6 +1,12 @@
 ---
-title: "Portable Alpha: Definition and Mechanism (Algo Trading)"
-description: "Discover the strategic innovation of portable alpha in investment strategies and explore how separating active returns from market exposure can enhance diversification and potential returns. Learn about the transformative role of algorithmic trading in executing these sophisticated strategies, improving trade efficiency, and risk management to create robust investments that navigate today's complex financial markets effectively."
+category: quant_concept
+description: Discover the strategic innovation of portable alpha in investment strategies
+  and explore how separating active returns from market exposure can enhance diversification
+  and potential returns. Learn about the transformative role of algorithmic trading
+  in executing these sophisticated strategies, improving trade efficiency, and risk
+  management to create robust investments that navigate today's complex financial
+  markets effectively.
+title: 'Portable Alpha: Definition and Mechanism (Algo Trading)'
 ---
 
 Investment strategies are essential frameworks that guide investors in selecting securities that align with their financial goals while managing associated risks. These strategies are rooted in the fundamental understanding that financial markets are inherently uncertain, posing both opportunities and threats. Effective risk management is, therefore, crucial as it helps in safeguarding investments against adverse market movements and ensures that the potential for returns aligns with the investor's risk appetite.

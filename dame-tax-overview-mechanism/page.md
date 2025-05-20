@@ -1,6 +1,8 @@
 ---
-title: "DAME Tax Overview and Mechanism (Algo Trading)"
-description: "Explore how the proposed DAME tax impacts cryptocurrency miners and algorithmic trading. Understand fiscal policy's role in shaping the digital finance landscape."
+category: quant_concept
+description: Explore how the proposed DAME tax impacts cryptocurrency miners and algorithmic
+  trading. Understand fiscal policy's role in shaping the digital finance landscape.
+title: DAME Tax Overview and Mechanism (Algo Trading)
 ---
 
 Fiscal policy is a vital tool used by governments to regulate economic conditions through strategic adjustments in spending and taxation. It can stabilize business cycles by either stimulating economic growth or curbing inflation, depending on the needs of the economy. One notable example of fiscal policy in recent times is the DAME tax, a unique fiscal measure proposed by the Biden administration in 2023. The objective of this proposal was to impose a 30% tax on the electricity used by cryptocurrency miners. This initiative aimed to address the environmental costs associated with cryptocurrency mining, particularly Bitcoin mining, which predominantly utilizes the energy-intensive proof-of-work process. 

@@ -1,6 +1,12 @@
 ---
-title: "Leading Solar Energy Producing Countries (Algo Trading)"
-description: "Explore the dynamic solar energy landscape featuring leading global producers and innovations like algorithmic trading. Discover how countries like China the EU and the US excel in solar energy production while companies such as NextEra Energy First Solar and Enphase Energy drive industry growth through technological advancements. Gain insights into how algorithmic trading enhances market efficiency and supports a sustainable energy future."
+category: dataset
+description: Explore the dynamic solar energy landscape featuring leading global producers
+  and innovations like algorithmic trading. Discover how countries like China the
+  EU and the US excel in solar energy production while companies such as NextEra Energy
+  First Solar and Enphase Energy drive industry growth through technological advancements.
+  Gain insights into how algorithmic trading enhances market efficiency and supports
+  a sustainable energy future.
+title: Leading Solar Energy Producing Countries (Algo Trading)
 ---
 
 In a rapidly changing energy landscape, renewable energy has emerged as a pivotal component of global sustainability efforts. This shift is driven by the urgent need to address climate change, reduce greenhouse gas emissions, and ensure energy security. Among the various renewable sources, solar energy stands out as a leading force due to its abundant and inexhaustible nature. Technological advancements over the past few decades have significantly increased the efficiency and decreased the cost of solar panels, making solar energy an economically viable option.

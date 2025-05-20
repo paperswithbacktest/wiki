@@ -1,6 +1,9 @@
 ---
-title: "Irish Pound: History and Comparison to the Euro (Algo Trading)"
-description: "Explore Ireland's currency history from the Irish pound to the euro and discover how algorithmic trading influences modern forex strategies and currency stability."
+category: quant_concept
+description: Explore Ireland's currency history from the Irish pound to the euro and
+  discover how algorithmic trading influences modern forex strategies and currency
+  stability.
+title: 'Irish Pound: History and Comparison to the Euro (Algo Trading)'
 ---
 
 The evolution of currency in Ireland reflects the nation's progression through pivotal economic and political transitions. From the establishment of the Irish pound following independence in 1927 to its eventual replacement by the euro, each phase of currency development underscores significant shifts in Ireland's economic landscape. These changes not only highlight the country's adaptation to European economic standards but also demonstrate the broader implications of currency management and stability on national and regional prosperity.
@@ -94,4 +97,3 @@ Furthermore, the adaptability evident in historical currency transitions like Ir
 [4]: Diwan, I., & Galindo-Arjoon, M. (2009). ["The Economic Impact of the Euro"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1163774) Review of World Economics.
 
 [5]: ["High-Frequency Trading: A Practical Guide to Algorithmic Strategies and Trading Systems"](https://www.ahmetbeyefendi.com/wp-content/uploads/2020/07/High-Frequency-Trading-Irene-Aldridge.pdf) by Irene Aldridge.
-

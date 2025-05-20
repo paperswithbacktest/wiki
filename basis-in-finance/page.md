@@ -1,6 +1,8 @@
 ---
-title: "Basis in Finance (Algo Trading)"
-description: "Understand core financial terms and concepts crucial for navigating algorithmic trading and modern financial markets Enhance investment strategies with key insights"
+category: quant_concept
+description: Understand core financial terms and concepts crucial for navigating algorithmic
+  trading and modern financial markets Enhance investment strategies with key insights
+title: Basis in Finance (Algo Trading)
 ---
 
 In the bustling world of finance, understanding key terms and concepts is essential for both seasoned traders and novices alike. The financial markets are rapidly evolving, with the rise of algorithmic trading and the emergence of complex financial instruments creating new opportunities and challenges. Navigating these markets effectively requires a comprehensive grasp of fundamental financial terms and concepts that underpin these systems.

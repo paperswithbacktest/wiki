@@ -1,6 +1,8 @@
 ---
-title: "Abnormal Return: Causes and Examples (Algo Trading)"
-description: "Explore abnormal returns in financial markets and algorithmic trading Understand causes calculations and strategies to leverage these returns effectively"
+category: trading_strategy
+description: Explore abnormal returns in financial markets and algorithmic trading
+  Understand causes calculations and strategies to leverage these returns effectively
+title: 'Abnormal Return: Causes and Examples (Algo Trading)'
 ---
 
 Financial markets are pivotal institutions in modern economies, serving as hubs for the trading of financial instruments such as stocks, bonds, commodities, and derivatives. These markets enable investors and corporations to manage risks, allocate resources, and facilitate capital accumulation, thereby influencing economic growth and stability. They offer platforms where securities are issued and traded, helping channel savings into investments and providing liquidity and transparency necessary for efficient price discovery.

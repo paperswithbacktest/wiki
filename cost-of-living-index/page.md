@@ -1,6 +1,12 @@
 ---
-title: "Cost of Living Index (Algo Trading)"
-description: "Explore the vital interplay between cost of living, economic indexes, and algorithmic trading. Understand how living costs impact personal finance and business strategies, and discover how economic indicators like the Consumer Price Index inform market trends and trading strategies. This page provides insights into navigating complex economic landscapes for informed decision-making and investment planning."
+category: dataset
+description: Explore the vital interplay between cost of living, economic indexes,
+  and algorithmic trading. Understand how living costs impact personal finance and
+  business strategies, and discover how economic indicators like the Consumer Price
+  Index inform market trends and trading strategies. This page provides insights into
+  navigating complex economic landscapes for informed decision-making and investment
+  planning.
+title: Cost of Living Index (Algo Trading)
 ---
 
 The cost of living is a critical factor in economic decision-making, influencing both personal finance and business strategies. It refers to the amount of money needed to maintain a certain standard of living, factoring in essential expenses such as housing, food, taxes, and healthcare. Understanding the cost of living is vital for individuals as it affects budgeting, savings, and investment decisions, while businesses must consider it when setting wages and prices.

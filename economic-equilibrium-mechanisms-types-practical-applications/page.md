@@ -1,6 +1,14 @@
 ---
-title: "Economic Equilibrium: Mechanisms and Types in Practical Applications (Algo Trading)"
-description: "Discover the intricate mechanisms and types of economic equilibrium vital for algo trading applications. Explore how supply and demand reach balance in both micro and macroeconomic contexts, and understand the significance of market and Nash equilibrium in setting true market prices. Learn how algorithmic trading harnesses these concepts to execute strategies that optimize returns while enhancing market liquidity. Uncover insights into how traders and investors utilize equilibrium to navigate financial markets, aligning transactions with economic stability and efficiency."
+category: quant_concept
+description: Discover the intricate mechanisms and types of economic equilibrium vital
+  for algo trading applications. Explore how supply and demand reach balance in both
+  micro and macroeconomic contexts, and understand the significance of market and
+  Nash equilibrium in setting true market prices. Learn how algorithmic trading harnesses
+  these concepts to execute strategies that optimize returns while enhancing market
+  liquidity. Uncover insights into how traders and investors utilize equilibrium to
+  navigate financial markets, aligning transactions with economic stability and efficiency.
+title: 'Economic Equilibrium: Mechanisms and Types in Practical Applications (Algo
+  Trading)'
 ---
 
 Economic equilibrium is a central concept in economics, applying to both microeconomic and macroeconomic perspectives where market forces such as supply and demand attain balance. This balance is essential for understanding how transactions occur efficiently without any excess surplus or shortage. In microeconomics, equilibrium is seen in the context of individual markets for goods and services, whereas, in macroeconomics, it represents the economy-wide balance at the aggregate level.

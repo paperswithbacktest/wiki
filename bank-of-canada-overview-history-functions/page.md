@@ -1,6 +1,8 @@
 ---
-title: "Bank of Canada: Overview, Historical Background, and Functions (Algo Trading)"
-description: "Discover the pivotal role of the Bank of Canada established in 1934 in managing monetary policy controlling inflation and fostering economic stability."
+category: quant_concept
+description: Discover the pivotal role of the Bank of Canada established in 1934 in
+  managing monetary policy controlling inflation and fostering economic stability.
+title: 'Bank of Canada: Overview, Historical Background, and Functions (Algo Trading)'
 ---
 
 The Bank of Canada (BOC), established in 1934, serves as the nation's central bank and is a pivotal institution within the Canadian financial system. As the central bank, the BOC is tasked with managing monetary policy, issuing the national currency, and conducting financial operations on behalf of the government. Its primary objective is to promote the economic and financial welfare of Canada. The BOC operates under the mandate to control inflation, contribute to financial stability, and foster a sustainable economic environment.

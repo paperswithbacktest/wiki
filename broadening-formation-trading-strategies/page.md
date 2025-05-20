@@ -1,6 +1,9 @@
 ---
-title: "Broadening Formation and Trading Strategies (Algo Trading)"
-description: "Explore broadening formations in algo trading to capitalize on market volatility. Learn chart patterns, identify opportunities, and apply advanced trading strategies effectively."
+category: trading_strategy
+description: Explore broadening formations in algo trading to capitalize on market
+  volatility. Learn chart patterns, identify opportunities, and apply advanced trading
+  strategies effectively.
+title: Broadening Formation and Trading Strategies (Algo Trading)
 ---
 
 Technical analysis plays a fundamental role in trading by providing traders with tools to interpret market movements and uncover potential trading opportunities. Among the various patterns that traders analyze, the broadening formation emerges as a particularly intriguing one. This chart pattern is marked by increasing price volatility, characterized by diverging trend lines and reflecting a market in a state of indecision. As such, it offers significant insights into future price movements, though it is often accompanied by heightened risk due to the volatility it represents.

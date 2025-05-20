@@ -1,6 +1,9 @@
 ---
-title: "Return on Capital Employed: Ratio, Interpretation, Example (Algo Trading)"
-description: "Understand the synergy between Return on Capital Employed and algorithmic trading to maximize investment returns. Explore capital efficiency and advanced trading strategies."
+category: quant_concept
+description: Understand the synergy between Return on Capital Employed and algorithmic
+  trading to maximize investment returns. Explore capital efficiency and advanced
+  trading strategies.
+title: 'Return on Capital Employed: Ratio, Interpretation, Example (Algo Trading)'
 ---
 
 In the modern financial landscape, the pursuit of optimal investment strategies is paramount. Investors and financial analysts continually seek tools and methodologies to maximize returns while minimizing risks. Two essential components stand out in this endeavor: capital efficiency and algorithmic trading. These elements have reshaped how financial markets operate and how investments are assessed for profitability.
@@ -165,4 +168,3 @@ Kearns, M., & Nevmyvaka, Y. "Machine Learning for Market Microstructure and High
 Banerjee, S., Gryglewicz, S., & Luca, G. D. "Return on Capital, Risk, and Expected Returns" discusses the nuanced relationship between capital returns, associated risks, and investors' expected benefit. This scholarly work offers insights into balancing return on capital with risk management to optimize investment strategies.
 
 Explore more resources to deepen the understanding of ROCE and algorithmic trading, which are crucial for maximizing investment performance and making informed financial decisions. Further readings can expand knowledge on the practical application of these concepts and foster a comprehensive strategy for investments in varying market conditions.
-

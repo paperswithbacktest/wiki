@@ -1,6 +1,9 @@
 ---
-title: "Dividend-Adjusted Return (Algo Trading)"
-description: "Explore the significance of dividend-adjusted returns, a crucial metric that evaluates investment performance by including both capital appreciation and dividends."
+category: quant_concept
+description: Explore the significance of dividend-adjusted returns, a crucial metric
+  that evaluates investment performance by including both capital appreciation and
+  dividends.
+title: Dividend-Adjusted Return (Algo Trading)
 ---
 
 In the complex world of investment strategies, understanding the full spectrum of investment returns is crucial for both individual and institutional investors. A critical component often overlooked by investors is the role of dividends in calculating investment returns. Dividends represent a portion of a company's earnings distributed to shareholders, serving as an important source of income, particularly for those seeking steady cash flow.

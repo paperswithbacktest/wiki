@@ -1,6 +1,8 @@
 ---
-title: "Accounting Earnings Overview (Algo Trading)"
-description: "Explore the intersection of financial reporting, performance accounting, and algorithmic trading to optimize strategies and gain a competitive edge."
+category: quant_concept
+description: Explore the intersection of financial reporting, performance accounting,
+  and algorithmic trading to optimize strategies and gain a competitive edge.
+title: Accounting Earnings Overview (Algo Trading)
 ---
 
 The integration of financial reporting, performance accounting, and algorithmic trading represents a transformative shift in financial markets. This convergence enhances the ability of traders and institutions to make data-driven decisions quickly and effectively. With the proliferation of big data and advancements in computational capabilities, the intersection of these domains has become pivotal.
@@ -185,4 +187,3 @@ Johnson, B. "Algorithmic Trading and DMA: An Introduction to Direct Access Tradi
 Penman, S. H. "Financial Statement Analysis and Security Valuation." Penman's work connects financial reporting with security valuation, providing methodologies for analyzing financial statements. This resource is invaluable for professionals seeking to assess financial health and predict future performance based on reported data.
 
 López de Prado, M. "Advances in Financial Machine Learning." This book is a detailed guide on the application of machine learning to financial markets. López de Prado discusses the enhancements machine learning brings to algorithmic trading strategies, offering methods to integrate complex algorithms with accounting data for more informed trading systems.
-

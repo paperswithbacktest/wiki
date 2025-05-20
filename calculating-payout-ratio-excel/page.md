@@ -1,6 +1,9 @@
 ---
-title: "Calculating Payout Ratio in Excel (Algo Trading)"
-description: "Learn how to calculate the payout ratio in Excel for better financial analysis and explore its application in algorithmic trading practices with this tutorial."
+category: quant_concept
+description: Learn how to calculate the payout ratio in Excel for better financial
+  analysis and explore its application in algorithmic trading practices with this
+  tutorial.
+title: Calculating Payout Ratio in Excel (Algo Trading)
 ---
 
 Microsoft Excel is a pivotal application in the domain of financial analysis, offering a comprehensive array of tools for analyzing, visualizing, and managing vast amounts of financial data. As a versatile platform, Excel is indispensable for professionals seeking to perform detailed financial calculations, analyze investment opportunities, and evaluate company performance. Its popular use is attributable to its accessibility, functionality, and flexibility, which allow users to tailor spreadsheet functions to specific financial tasks.

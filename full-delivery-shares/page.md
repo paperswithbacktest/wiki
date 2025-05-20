@@ -1,6 +1,8 @@
 ---
-title: "Full Delivery Shares (Algo Trading)"
-description: "Explore the dynamics of full delivery shares in algorithmic trading focusing on challenges and opportunities within niche markets like Taiwan for informed investing."
+category: quant_concept
+description: Explore the dynamics of full delivery shares in algorithmic trading focusing
+  on challenges and opportunities within niche markets like Taiwan for informed investing.
+title: Full Delivery Shares (Algo Trading)
 ---
 
 In today's complex financial landscape, the integration of technology in trading has significantly transformed the stock market. Algorithmic trading, often referred to as algo trading, employs computer programs to automatically execute trades based on pre-defined criteria. This approach offers enhanced speed and efficiency, allowing traders to capitalize on market opportunities that may only exist for fleeting moments. [1]

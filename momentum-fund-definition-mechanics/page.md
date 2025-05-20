@@ -1,6 +1,8 @@
 ---
-title: "Momentum Fund: Definition and Mechanics (Algo Trading)"
-description: "Explore the dynamic world of momentum funds and algorithmic trading where upward market trends and automated strategies combine to optimize investment returns."
+category: trading_strategy
+description: Explore the dynamic world of momentum funds and algorithmic trading where
+  upward market trends and automated strategies combine to optimize investment returns.
+title: 'Momentum Fund: Definition and Mechanics (Algo Trading)'
 ---
 
 Investment strategies have evolved significantly over the years, leading to innovative approaches like momentum funds and algorithmic trading. These two elements have become integral in maximizing returns and managing risks in dynamic market environments. Momentum funds focus on companies demonstrating upward trends in their financial metrics, allowing investors to seize opportunities as prices move favorably. This strategy is based on the principle that assets exhibiting strong past performance will likely continue on a positive trajectory.

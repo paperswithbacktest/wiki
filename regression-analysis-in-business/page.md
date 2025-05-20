@@ -1,6 +1,9 @@
 ---
-title: "Regression Analysis in Business (Algo Trading)"
-description: "Discover how regression analysis empowers businesses in data-driven decision-making and algorithmic trading by modeling complex relationships and predicting market trends."
+category: quant_concept
+description: Discover how regression analysis empowers businesses in data-driven decision-making
+  and algorithmic trading by modeling complex relationships and predicting market
+  trends.
+title: Regression Analysis in Business (Algo Trading)
 ---
 
 Statistical methods have become indispensable in today's data-driven business environment, offering essential tools for analyzing complex data and informing strategic decisions. Among these methods, regression analysis stands out as a powerful technique for forecasting and modeling relationships between variables. This method involves understanding how the typical value of the dependent variable changes when any one of the independent variables is varied, while the other independent variables remain fixed.
@@ -181,4 +184,3 @@ In conclusion, as the landscape of technology evolves, so does the potential for
 - Aronson, D. 'Evidence-Based Technical Analysis'. Aronson's work emphasizes the importance of using data-driven methodologies for technical analysis. The text explores the implementation of statistical tools like regression analysis to substantiate trading strategies.
 
 - Chan, E. P. 'Quantitative Trading: How to Build Your Own Algorithmic Trading Business'. Chan's book is an essential resource for traders interested in creating algorithmic trading strategies. It covers the practical application of quantitative techniques, such as regression models, to develop and deploy trading algorithms.
-

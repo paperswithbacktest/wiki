@@ -1,6 +1,8 @@
 ---
-title: "Forward Pricing and Its Mechanism (Algo Trading)"
-description: "Explore how forward pricing and algorithmic trading enhance financial markets by optimizing valuation processes and improving trade execution efficiency."
+category: quant_concept
+description: Explore how forward pricing and algorithmic trading enhance financial
+  markets by optimizing valuation processes and improving trade execution efficiency.
+title: Forward Pricing and Its Mechanism (Algo Trading)
 ---
 
 Financial markets are intricate systems where efficiency hinges on the precision and reliability of pricing mechanisms. At the heart of these systems lies a vast array of financial instruments, including stocks, bonds, commodities, and derivatives, each requiring accurate valuation to facilitate fair trading. Central to this valuation process is the concept of price discovery, a mechanism by which market prices for these instruments are determined based on supply and demand.

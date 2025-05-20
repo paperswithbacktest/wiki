@@ -1,6 +1,13 @@
 ---
-title: "Position Trading Strategy Explained (Algo Trading)"
-description: Explore the world of position trading strategies within algorithmic trading. Learn how traders hold financial securities for extended periods to capitalize on long-term market trends, using automated systems to reduce emotional bias and handle trades efficiently. Discover various strategies, their benefits, challenges, and the role of fundamental and technical analysis in enhancing decision-making. Understand how backtested approaches offer insights into maximizing market gains and capturing enduring trends in financial markets.
+category: trading_strategy
+description: Explore the world of position trading strategies within algorithmic trading.
+  Learn how traders hold financial securities for extended periods to capitalize on
+  long-term market trends, using automated systems to reduce emotional bias and handle
+  trades efficiently. Discover various strategies, their benefits, challenges, and
+  the role of fundamental and technical analysis in enhancing decision-making. Understand
+  how backtested approaches offer insights into maximizing market gains and capturing
+  enduring trends in financial markets.
+title: Position Trading Strategy Explained (Algo Trading)
 ---
 
 Position trading is an investment strategy that involves holding financial securities for longer periods, ranging from weeks to several months, with the primary objective of capitalizing on significant market movements. This approach contrasts with short-term trading methods that seek to exploit smaller, more immediate price fluctuations. Position trading relies on the identification and analysis of long-term market trends and patterns.

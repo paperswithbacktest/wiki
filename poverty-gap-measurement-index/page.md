@@ -1,6 +1,13 @@
 ---
-title: "Poverty Gap: Measurement and Index (Algo Trading)"
-description: "This article investigates into measuring poverty through indices like the poverty gap and explores the intersection of financial technology such as algorithmic trading with poverty alleviation efforts. It discusses how poverty metrics help devise economic policies and examines the potential of digital finance to enhance economic inclusivity. By analyzing these domains, the article sheds light on innovative strategies to address economic disparities, providing insights for policymakers and social researchers."
+category: quant_concept
+description: This article investigates into measuring poverty through indices like
+  the poverty gap and explores the intersection of financial technology such as algorithmic
+  trading with poverty alleviation efforts. It discusses how poverty metrics help
+  devise economic policies and examines the potential of digital finance to enhance
+  economic inclusivity. By analyzing these domains, the article sheds light on innovative
+  strategies to address economic disparities, providing insights for policymakers
+  and social researchers.
+title: 'Poverty Gap: Measurement and Index (Algo Trading)'
 ---
 
 Understanding poverty is crucial for developing effective economic policies and promoting social equity. Poverty is a multifaceted issue that requires accurate measurement to devise strategies for its alleviation. Various metrics exist to encapsulate the different dimensions of poverty, such as the poverty index, which quantifies the proportion of the population living below a predetermined poverty line, and the poverty gap, which measures the average shortfall of the incomes of the poor relative to the poverty line. These metrics provide a clearer picture of economic deprivation and help tailor policies to effectively combat poverty.

@@ -1,6 +1,9 @@
 ---
-title: "Trillion-Dollar Coin: Concept and Applications (Algo Trading)"
-description: "Explore the trillion-dollar coin concept its role in addressing debt ceiling issues and potential impacts on economic strategy and algorithmic trading systems."
+category: quant_concept
+description: Explore the trillion-dollar coin concept its role in addressing debt
+  ceiling issues and potential impacts on economic strategy and algorithmic trading
+  systems.
+title: 'Trillion-Dollar Coin: Concept and Applications (Algo Trading)'
 ---
 
 The trillion-dollar coin concept emerged as an innovative, albeit controversial, solution to address national debt issues without breaching the statutory debt ceiling set by the United States government. This idea gained prominence during the debt ceiling crises, notably around the 2011 negotiations, when policymakers sought alternative methods to avoid a potential default on government obligations. The coin would allow the U.S. Treasury to mint a high-denomination platinum coin, which would then be deposited at the Federal Reserve, effectively creating a significant financial asset that could be used to fund government operations without increasing debt through traditional borrowing mechanisms.

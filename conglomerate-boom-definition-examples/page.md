@@ -1,6 +1,8 @@
 ---
-title: "Conglomerate Boom: Definition and Examples (Algo Trading)"
-description: "Explore the dynamism of the mid-20th century conglomerate boom and its influence on modern corporate strategies including the role of algorithmic trading."
+category: quant_concept
+description: Explore the dynamism of the mid-20th century conglomerate boom and its
+  influence on modern corporate strategies including the role of algorithmic trading.
+title: 'Conglomerate Boom: Definition and Examples (Algo Trading)'
 ---
 
 The corporate world has witnessed a multitude of growth strategies over the years, with the conglomerate boom standing out as a particularly notable phenomenon. Emerging prominently in the mid-20th century, the conglomerate boom involved the rapid expansion of large corporations acquiring diverse, unrelated businesses. This period was shaped by economic conditions such as low interest rates and favorable market environments that encouraged expansion through diversification. Legislative changes, such as the Celler-Kefauver Act, further propelled companies to diversify, seeking financial synergies and risk mitigation by entering disparate sectors.
@@ -96,4 +98,3 @@ Incorporating these lessons, businesses can better position themselves for futur
 [5]: O’Hara, M. (1995). ["Market Microstructure Theory."](https://www.amazon.com/Market-Microstructure-Theory-Maureen-OHara/dp/0631207619) Wiley-Blackwell.
 
 [6]: Seth, A., & Reitzig, M. (2003). "Corporate Acquisitions: The Effect of Misleading Financial Statements on the Formation and Growth of Conglomerates." Strategic Management Journal, 24(4), 367-389.
-

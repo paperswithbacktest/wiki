@@ -1,6 +1,12 @@
 ---
-title: "Common Behavioral Biases and Strategies for Avoidance (Algo Trading)"
-description: "Learn about common behavioral biases in trading and strategies for their avoidance, focusing on how these biases impact algorithmic trading systems. Understand the psychological tendencies like overconfidence and loss aversion, their effect on decision-making, and the importance of mitigating these biases to enhance financial strategies. Explore methods to create more robust algorithms by acknowledging biases and employing rigorous development and validation procedures."
+category: trading_strategy
+description: Learn about common behavioral biases in trading and strategies for their
+  avoidance, focusing on how these biases impact algorithmic trading systems. Understand
+  the psychological tendencies like overconfidence and loss aversion, their effect
+  on decision-making, and the importance of mitigating these biases to enhance financial
+  strategies. Explore methods to create more robust algorithms by acknowledging biases
+  and employing rigorous development and validation procedures.
+title: Common Behavioral Biases and Strategies for Avoidance (Algo Trading)
 ---
 
 The evolution of trading methods over the years has dramatically reshaped the financial landscape, enhancing operational efficiency, increasing trade volumes, and reducing transaction costs. However, this evolution has also highlighted inherent human tendencies, notably through the persistence of behavioral biases mirrored in algorithmic systems. Behavioral biases are psychological tendencies that skew traders' judgment, often leading to irrational decisions detrimental to financial outcomes. These biases, deeply ingrained in human cognition, manifest when traders overreact to market stimuli, misinterpret risk, or exhibit undue optimism or pessimism about their investments. 
@@ -186,4 +192,3 @@ Ernest P. Chan's 'Quantitative Trading: How to Build Your Own Algorithmic Tradin
 Kahneman, D., & Tversky, A., in 'Prospect Theory: An Analysis of Decision under Risk,' provide a foundational understanding of behavioral economics. Their work explains how intrinsic human biases like loss aversion influence financial decision-making and can inadvertently be programmed into trading algorithms.
 
 Menkhoff, L., in 'The Use of Technical Analysis by Fund Managers: International Evidence,' Journal of Banking & Finance, examines the prevalence and effectiveness of technical analysis among fund managers, providing empirical evidence on the impact of biases within professional trading environments.
-

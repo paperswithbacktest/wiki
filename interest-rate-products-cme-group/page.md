@@ -1,6 +1,8 @@
 ---
-title: "Interest Rate Products of CME Group (Algo Trading)"
-description: "Explore CME Group's wide array of interest rate products and discover how algorithmic trading is reshaping their trade dynamics in global markets."
+category: quant_concept
+description: Explore CME Group's wide array of interest rate products and discover
+  how algorithmic trading is reshaping their trade dynamics in global markets.
+title: Interest Rate Products of CME Group (Algo Trading)
 ---
 
 Financial markets represent a complex system characterized by intricate interactions among various instruments. Within this ecosystem, interest rate derivatives play a pivotal role. These instruments allow investors to hedge against fluctuations in interest rates, thereby managing risk and optimizing investment strategies. CME Group, a prominent global exchange, stands out as a key player in this domain. It offers an extensive range of interest rate products tailored to meet the diverse needs of market participants with varying risk profiles.

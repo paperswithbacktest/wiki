@@ -1,6 +1,8 @@
 ---
-title: "Prime Credit: Meaning and Operation (Algo Trading)"
-description: "Explore the critical concepts of prime credit, credit ratings, and algorithmic trading. Understand how they shape financial literacy and decision-making effectively."
+category: quant_concept
+description: Explore the critical concepts of prime credit, credit ratings, and algorithmic
+  trading. Understand how they shape financial literacy and decision-making effectively.
+title: 'Prime Credit: Meaning and Operation (Algo Trading)'
 ---
 
 In the world of finance, understanding key concepts such as credit rating, prime credit, financial terms, and algorithmic (algo) trading is crucial. Each of these components plays a vital role in shaping the financial landscape. From determining the creditworthiness of borrowers to enabling efficient financial transactions through automated trading, these concepts are integral to modern financial systems. Credit ratings, for instance, provide insights into the likelihood of a borrower defaulting on their obligations, influencing interest rates and investment decisions. Similarly, prime credit signifies a level of creditworthiness that affords consumers access to better financial products, impacting both individual financial health and broader economic stability.

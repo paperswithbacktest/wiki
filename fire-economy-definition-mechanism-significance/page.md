@@ -1,6 +1,8 @@
 ---
-title: "Fire Economy: Definition, Mechanism, and Significance (Algo Trading)"
-description: "Discover the intricate world of the FIRE economy and algorithmic trading Learn how these components shape global financial markets and drive economic growth"
+category: quant_concept
+description: Discover the intricate world of the FIRE economy and algorithmic trading
+  Learn how these components shape global financial markets and drive economic growth
+title: 'Fire Economy: Definition, Mechanism, and Significance (Algo Trading)'
 ---
 
 The modern financial ecosystem is an intricate web of interrelated sectors and cutting-edge technologies that collectively shape global economies. This complex system significantly influences economic stability and growth across nations. As traditional boundaries between financial sectors blur due to technological advancements, understanding the various components of this ecosystem becomes increasingly vital.

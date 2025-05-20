@@ -1,6 +1,8 @@
 ---
-title: "Loan Credit Default Swap Index (Algo Trading)"
-description: "Explore the Loan Credit Default Swap Index's role in managing credit risk with insights into algorithmic trading. Essential for informed financial decisions."
+category: quant_concept
+description: Explore the Loan Credit Default Swap Index's role in managing credit
+  risk with insights into algorithmic trading. Essential for informed financial decisions.
+title: Loan Credit Default Swap Index (Algo Trading)
 ---
 
 The Loan Credit Default Swap Index (Markit LCDX) represents a crucial component of the credit derivatives market, offering insights and tools vital for institutional investors and financial professionals. This index, composed of loan-only credit default swaps, enables participants to hedge against credit risks associated with syndicated loans. Understanding the LCDX's framework and its impact on financial markets is essential for navigating the complexities of modern investment strategies.

@@ -1,6 +1,8 @@
 ---
-title: "deep learning for trading strategies (Algo Trading)"
-description: "Explore how deep learning revolutionizes trading strategies by leveraging neural networks to enhance algorithmic trading, offering advanced data analysis."
+category: trading_strategy
+description: Explore how deep learning revolutionizes trading strategies by leveraging
+  neural networks to enhance algorithmic trading, offering advanced data analysis.
+title: deep learning for trading strategies (Algo Trading)
 ---
 
 Deep learning in the context of trading strategies represents a revolutionary shift in how we approach algorithmic trading. By leveraging advanced neural networks, traders and financial analysts can devise strategies that were previously unimaginable. This article explores the role of deep learning in developing sophisticated trading strategies and how it improves algorithmic trading (Algo Trading).

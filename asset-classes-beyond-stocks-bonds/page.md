@@ -1,6 +1,9 @@
 ---
-title: "Asset Classes: Beyond Stocks and Bonds (Algo Trading)"
-description: "Explore the evolving world of asset classes beyond traditional stocks and bonds through algorithmic trading strategies for portfolio diversification and risk management."
+category: quant_concept
+description: Explore the evolving world of asset classes beyond traditional stocks
+  and bonds through algorithmic trading strategies for portfolio diversification and
+  risk management.
+title: 'Asset Classes: Beyond Stocks and Bonds (Algo Trading)'
 ---
 
 The modern investment landscape presents a multifaceted environment characterized by a diverse range of asset classes and trading methodologies. These complexities are shaped by the intricate dynamics of the financial markets and the continuous evolution of investment strategies. At the core of this landscape are bonds and stocks, which form the foundational pillars of most investment portfolios. Bonds, as fixed-income securities, are typically associated with lower risk and provide steady income through interest payments. Conversely, stocks represent equity ownership in companies and, although they offer the potential for higher returns, they are generally accompanied by higher levels of volatility.

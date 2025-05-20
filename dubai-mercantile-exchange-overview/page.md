@@ -1,6 +1,8 @@
 ---
-title: "Dubai Mercantile Exchange Overview (Algo Trading)"
-description: "Explore the impact of algorithmic trading on the Dubai Mercantile Exchange's energy futures market and discover how DME fosters global market efficiency."
+category: quant_concept
+description: Explore the impact of algorithmic trading on the Dubai Mercantile Exchange's
+  energy futures market and discover how DME fosters global market efficiency.
+title: Dubai Mercantile Exchange Overview (Algo Trading)
 ---
 
 The Dubai Mercantile Exchange (DME), established in 2007, stands as a pivotal institution for energy futures trading in the Middle East, focusing primarily on the Oman Crude Oil Futures contract. As an essential conduit for energy commodities, DME facilitates price discovery and transparency, cementing Dubai's role as a strategic financial hub globally. This marketplace is uniquely positioned, benefiting from Dubai's robust infrastructure, strategic location, and favorable regulatory environment, which together foster a reliable trading platform for global investors and stakeholders.

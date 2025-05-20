@@ -1,6 +1,8 @@
 ---
-title: "Average Return: Concepts and Calculations (Algo Trading)"
-description: "Explore key concepts of average returns in algo trading and learn calculations to optimize investment performance and improve decision-making in dynamic markets."
+category: quant_concept
+description: Explore key concepts of average returns in algo trading and learn calculations
+  to optimize investment performance and improve decision-making in dynamic markets.
+title: 'Average Return: Concepts and Calculations (Algo Trading)'
 ---
 
 Understanding investment returns is crucial for any investor looking to maximize their profits. In the domain of investment, returns are the primary measure of success and effectiveness. This understanding becomes increasingly significant in algorithmic trading, where the precision of financial calculations often dictates the consistency and reliability of returns.

@@ -1,6 +1,8 @@
 ---
-title: "Cronos (CRO): Cryptocurrency Overview and Use Cases (Algo Trading)"
-description: "Explore Cronos CRO cryptocurrency and its use cases in algorithmic trading learn about its role in DeFi NFTs the metaverse and market dynamics"
+category: quant_concept
+description: Explore Cronos CRO cryptocurrency and its use cases in algorithmic trading
+  learn about its role in DeFi NFTs the metaverse and market dynamics
+title: 'Cronos (CRO): Cryptocurrency Overview and Use Cases (Algo Trading)'
 ---
 
 Blockchain technology has fundamentally transformed various industries, offering myriad possibilities for innovation and reshaping traditional processes. This transformation is particularly evident with the emergence of blockchain networks like Cronos. Cronos is a pioneering platform that facilitates decentralized finance (DeFi), non-fungible tokens (NFTs), and the burgeoning metaverse. 

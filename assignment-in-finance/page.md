@@ -1,6 +1,8 @@
 ---
-title: "Assignment in Finance (Algo Trading)"
-description: "Discover how assignments in finance apply to algorithmic trading to enhance strategies and automate processes effectively, optimizing trading outcomes."
+category: quant_concept
+description: Discover how assignments in finance apply to algorithmic trading to enhance
+  strategies and automate processes effectively, optimizing trading outcomes.
+title: Assignment in Finance (Algo Trading)
 ---
 
 Algorithmic trading, commonly referred to as algo trading, employs computer algorithms to execute trades based on predefined criteria. This method provides traders with significant advantages over manual trading practices, such as enhanced speed, improved accuracy, and the capability to process vast datasets efficiently. The automation involved in algorithmic trading minimizes the potential pitfalls of human errors and emotional biases, making it an indispensable tool for modern financial markets.

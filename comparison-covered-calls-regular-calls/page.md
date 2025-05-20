@@ -1,6 +1,8 @@
 ---
-title: "Comparison of Covered Calls and Regular Calls (Algo Trading)"
-description: "Explore the differences between covered and regular calls in options trading and discover how algo trading can optimize these strategies for better outcomes."
+category: trading_strategy
+description: Explore the differences between covered and regular calls in options
+  trading and discover how algo trading can optimize these strategies for better outcomes.
+title: Comparison of Covered Calls and Regular Calls (Algo Trading)
 ---
 
 Options trading presents a complex landscape, often challenging for newcomers due to its variety of strategies and sophisticated mechanisms. Understanding fundamental differences between strategies such as covered calls and regular calls is essential for traders aspiring to successful engagements in this financial domain. Covered calls can act as income-generating strategies, with traders selling call options on stocks they own, while regular calls offer a speculative approach to profit from potential stock price increases.

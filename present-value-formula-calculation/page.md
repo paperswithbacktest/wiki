@@ -1,6 +1,8 @@
 ---
-title: "Present Value: Formula and Calculation (Algo Trading)"
-description: "Discover how the present value formula is crucial in algorithmic trading for making informed investment decisions by understanding future cash flow valuations."
+category: quant_concept
+description: Discover how the present value formula is crucial in algorithmic trading
+  for making informed investment decisions by understanding future cash flow valuations.
+title: 'Present Value: Formula and Calculation (Algo Trading)'
 ---
 
 The investment landscape has seen a significant evolution with technological advancements, fostering the emergence of algorithmic trading and sophisticated financial models. Central to navigating this landscape is the comprehension of financial formulas, particularly the present value (PV), which is indispensable for investors, traders, and financial analysts. 

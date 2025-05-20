@@ -1,6 +1,9 @@
 ---
-title: "Debt Ratio in Finance (Algo Trading)"
-description: "Explore the connection between debt ratios and algorithmic trading, focusing on financial leverage metrics essential for risk assessment and strategic trading decisions in modern finance."
+category: quant_concept
+description: Explore the connection between debt ratios and algorithmic trading, focusing
+  on financial leverage metrics essential for risk assessment and strategic trading
+  decisions in modern finance.
+title: Debt Ratio in Finance (Algo Trading)
 ---
 
 The debt ratio is a financial metric that measures a company's financial leverage. It is calculated by dividing a company's total debt by its total assets. This ratio provides insights into the proportion of a company’s assets that are financed through debt, which is crucial for assessing financial health. A high debt ratio indicates a significant portion of a company’s assets are financed by debt, potentially implying higher financial risk, while a low ratio suggests more conservative financing with greater reliance on equity.

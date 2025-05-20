@@ -1,6 +1,9 @@
 ---
-title: "Return Over Maximum Drawdown (Algo Trading)"
-description: "Explore the value of Return Over Maximum Drawdown as a key metric in algorithmic trading that assesses performance by balancing potential returns against historical drawdowns."
+category: trading_strategy
+description: Explore the value of Return Over Maximum Drawdown as a key metric in
+  algorithmic trading that assesses performance by balancing potential returns against
+  historical drawdowns.
+title: Return Over Maximum Drawdown (Algo Trading)
 ---
 
 The financial world is filled with metrics that help investors gauge performance and risk. These metrics provide investors with critical insights needed to make informed decisions. Among these, Return Over Maximum Drawdown (RoMaD) stands out as a valuable tool in risk management, especially prevalent in algorithmic trading. RoMaD combines the concept of potential returns with the reality of historical drawdowns, offering a more comprehensive view of investment performance than traditional metrics like the Sharpe or Sortino ratios.

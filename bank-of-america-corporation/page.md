@@ -1,6 +1,8 @@
 ---
-title: "Bank of America Corporation (Algo Trading)"
-description: "Bank of America is front-lining algorithmic trading in the banking sector to enhance speed and decision-making driving industry innovation and efficiency."
+category: quant_concept
+description: Bank of America is front-lining algorithmic trading in the banking sector
+  to enhance speed and decision-making driving industry innovation and efficiency.
+title: Bank of America Corporation (Algo Trading)
 ---
 
 The landscape of the banking industry is undergoing a significant transformation, driven by rapid technological advancements that are reshaping how financial institutions operate worldwide. The integration of cutting-edge technologies is not only enhancing operational efficiency but also revolutionizing strategic decision-making processes across the sector. Among these evolutionary trends, algorithmic trading stands out as a pivotal development with the potential to redefine trading operations.

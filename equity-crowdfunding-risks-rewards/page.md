@@ -1,6 +1,8 @@
 ---
-title: "Equity Crowdfunding: Risks and Rewards (Algo Trading)"
-description: "Explore the synergy of equity crowdfunding and algorithmic trading uncovering their unique risks and rewards for informed and strategic investment decisions."
+category: trading_strategy
+description: Explore the synergy of equity crowdfunding and algorithmic trading uncovering
+  their unique risks and rewards for informed and strategic investment decisions.
+title: 'Equity Crowdfunding: Risks and Rewards (Algo Trading)'
 ---
 
 In recent years, equity crowdfunding and algorithmic trading have emerged as significant forces reshaping the investment landscape. These innovative investment avenues offer the promise of high returns, attracting a diverse array of investors seeking to capitalize on new market opportunities. As technology continues to advance, these methods have become increasingly accessible and popular.

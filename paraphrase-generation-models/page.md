@@ -1,7 +1,8 @@
 ---
-title: Understanding Paraphrase Generation in Machine Learning
+category: quant_concept
 description: Paraphrase generation uses neural networks and transformers to rewrite
   text while preserving meaning and boosting data diversity Discover more inside.
+title: Understanding Paraphrase Generation in Machine Learning
 ---
 
 ![Image](images/1.png)

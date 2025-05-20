@@ -1,6 +1,14 @@
 ---
-title: "Block trade (Algo Trading)"
-description: Block trades are large-scale financial transactions executed by institutional investors in private negotiations to prevent market disruption. These trades, often involving at least 10,000 shares or $200,000 in value, offer privacy, price stability, and strategic planning advantages. Typically conducted off-market through brokerage networks, block trades safeguard market integrity and provide favorable terms for buyers and sellers. Despite their benefits, they pose risks such as market movement and adverse selection, demanding sophisticated negotiation and risk management by broker-dealers.
+category: quant_concept
+description: Block trades are large-scale financial transactions executed by institutional
+  investors in private negotiations to prevent market disruption. These trades, often
+  involving at least 10,000 shares or $200,000 in value, offer privacy, price stability,
+  and strategic planning advantages. Typically conducted off-market through brokerage
+  networks, block trades safeguard market integrity and provide favorable terms for
+  buyers and sellers. Despite their benefits, they pose risks such as market movement
+  and adverse selection, demanding sophisticated negotiation and risk management by
+  broker-dealers.
+title: Block trade (Algo Trading)
 ---
 
 A block trade is a large transaction in the financial markets involving a significant number of securities. Typically executed by institutional investors, such deals are substantially larger than ordinary market trades. The precise size qualifying as a block trade can vary by exchange but generally includes minimum thresholds. In equities, for instance, a block trade might encompass 10,000 shares or have a market value exceeding $200,000. This distinction sets block trades apart as transactions that not only involve large volumes but also necessitate privacy and strategic negotiation.

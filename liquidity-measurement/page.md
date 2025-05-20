@@ -1,6 +1,8 @@
 ---
-title: "Liquidity and Measurement (Algo Trading)"
-description: "Explore liquidity, financial measurement, and algorithmic trading. Understand their roles in enabling efficient, informed, and innovative financial market operations."
+category: quant_concept
+description: Explore liquidity, financial measurement, and algorithmic trading. Understand
+  their roles in enabling efficient, informed, and innovative financial market operations.
+title: Liquidity and Measurement (Algo Trading)
 ---
 
 In modern finance, liquidity, financial measurement, and algorithmic trading serve as foundational components necessary for efficient market operations. Liquidity refers to the ability with which an asset can be swiftly converted into cash with minimal impact on its price – a crucial feature enabling seamless buying and selling in financial markets. It ensures that transactions can occur smoothly, maintaining stable prices and reducing the costs arising from wide bid-ask spreads. 

@@ -1,6 +1,9 @@
 ---
-title: "Determining Option Strike Prices (Algo Trading)"
-description: "Discover how algorithmic trading enhances option pricing and strike price determination, crucial for effective risk management and strategic trading in financial markets."
+category: quant_concept
+description: Discover how algorithmic trading enhances option pricing and strike price
+  determination, crucial for effective risk management and strategic trading in financial
+  markets.
+title: Determining Option Strike Prices (Algo Trading)
 ---
 
 In the financial markets, derivatives such as options are essential tools for managing risks and capitalizing on potential future price movements of underlying assets. Options, a popular category of derivatives, provide the holder with the right, but not the obligation, to buy or sell an asset at a predetermined price within a specified timeframe. This flexibility makes options a preferred choice for both hedging and speculation.

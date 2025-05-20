@@ -1,6 +1,8 @@
 ---
-title: "Net Institutional Sales: Overview and Mechanism (Algo Trading)"
-description: "Explore how Net Institutional Sales impacts institutional trading by revealing investor sentiment and market trends in the evolving financial landscape."
+category: quant_concept
+description: Explore how Net Institutional Sales impacts institutional trading by
+  revealing investor sentiment and market trends in the evolving financial landscape.
+title: 'Net Institutional Sales: Overview and Mechanism (Algo Trading)'
 ---
 
 The financial world is complex, but understanding certain key elements can significantly enhance investment strategies. Net Institutional Sales (NIS) is one such element that plays a crucial role in the landscape of institutional trading and investment. Defined as the net sales of a company's shares by large institutional investors—such as pension funds and hedge funds—NIS provides valuable insights into the actions and sentiment of these influential market participants.

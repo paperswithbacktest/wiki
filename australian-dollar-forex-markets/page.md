@@ -1,6 +1,9 @@
 ---
-title: "Australian Dollar: Overview and Role in Forex Markets (Algo Trading)"
-description: "Explore the role of the Australian Dollar in Forex markets with a focus on algorithmic trading. Understand how the AUD's ties to commodities influence trading strategies."
+category: trading_strategy
+description: Explore the role of the Australian Dollar in Forex markets with a focus
+  on algorithmic trading. Understand how the AUD's ties to commodities influence trading
+  strategies.
+title: 'Australian Dollar: Overview and Role in Forex Markets (Algo Trading)'
 ---
 
 In today’s fast-paced financial environment, algorithmic trading has significantly transformed the Forex landscape by enabling traders to execute complex trading strategies with high precision and efficiency. This approach utilizes computer algorithms to analyze forex market conditions and execute trades, thus minimizing human error and emotional bias. Algorithmic trading empowers traders to capitalize on minute market movements, often unseen by human traders, leveraging these to optimize trading outcomes.

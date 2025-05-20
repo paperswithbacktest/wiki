@@ -1,9 +1,10 @@
 ---
-title: "How can alternative data be integrated into quantitative trading?"
-description: "Discover how alternative data, such as social media sentiment and satellite imagery, can be effectively integrated into quantitative trading models. Learn the steps from data understanding to backtesting and risk management for optimal results."
+category: quant_concept
+description: Discover how alternative data, such as social media sentiment and satellite
+  imagery, can be effectively integrated into quantitative trading models. Learn the
+  steps from data understanding to backtesting and risk management for optimal results.
+title: How can alternative data be integrated into quantitative trading?
 ---
-
-
 
 The financial industry is undergoing a transformative shift as firms increasingly utilize non-traditional data sources, commonly known as alternative data, to gain competitive advantages. This shift is being driven by the limitations of traditional financial data, which often fails to capture the full spectrum of factors influencing market dynamics. Alternative data encompasses a wide array of information, such as social media sentiment, credit card transactions, satellite imagery, and Internet of Things (IoT) sensor data. These sources provide powerful, unique insights that can reveal patterns and trends not visible through conventional data sets.
 

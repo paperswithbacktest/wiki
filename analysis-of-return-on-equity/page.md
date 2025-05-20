@@ -1,6 +1,8 @@
 ---
-title: "Analysis of Return on Equity (Algo Trading)"
-description: "Explore how Return on Equity (ROE) integrates with algorithmic trading strategies to boost investment outcomes by identifying high-performing stocks."
+category: trading_strategy
+description: Explore how Return on Equity (ROE) integrates with algorithmic trading
+  strategies to boost investment outcomes by identifying high-performing stocks.
+title: Analysis of Return on Equity (Algo Trading)
 ---
 
 The financial market is an ever-evolving environment where a multitude of metrics and analytical techniques significantly influence investment choices. One such vital metric is the Return on Equity (ROE), which serves as an indicator of a company's ability to generate profit relative to its shareholders' equity. ROE is calculated using the formula:

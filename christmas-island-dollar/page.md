@@ -1,6 +1,9 @@
 ---
-title: "Christmas Island Dollar (Algo Trading)"
-description: "Explore the evolution of Christmas Island's monetary system and the rise of algorithmic trading with the Australian Dollar uncovering opportunities and strategies in forex markets."
+category: trading_strategy
+description: Explore the evolution of Christmas Island's monetary system and the rise
+  of algorithmic trading with the Australian Dollar uncovering opportunities and strategies
+  in forex markets.
+title: Christmas Island Dollar (Algo Trading)
 ---
 
 Algorithmic trading has transformed financial markets, leveraging computational power to execute trades with speed and precision that surpass human capabilities. This shift is particularly significant for smaller regions like Christmas Island, which, despite its remote location and small population, is influenced by global financial integration. Historically, Christmas Island had its own currency, the Christmas Island Dollar, which played a crucial role in its local economy. However, the transition to the Australian Dollar, through a process known as dollarization, has markedly changed its financial landscape.

@@ -1,6 +1,8 @@
 ---
-title: "Required Rate of Return (Algo Trading)"
-description: "Explore the intersection of investment returns and algorithmic trading Discover methods to enhance portfolio performance using advanced trading technologies"
+category: quant_concept
+description: Explore the intersection of investment returns and algorithmic trading
+  Discover methods to enhance portfolio performance using advanced trading technologies
+title: Required Rate of Return (Algo Trading)
 ---
 
 Investment rate of return is a central metric in finance, quantifying the profitability and efficiency of an investment over time. Its calculation can be executed through methods such as the simple return method, the compounded annual growth rate (CAGR), or the internal rate of return (IRR). These calculations provide investors with essential insights into their portfolio's performance, enabling timely and informed adjustments to strategies.

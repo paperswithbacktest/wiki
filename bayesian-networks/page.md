@@ -1,6 +1,8 @@
 ---
-title: "Bayesian Networks (Algo Trading)"
-description: "Explore how Bayesian networks enhance algorithmic trading by modeling market behaviors and updating predictions amid uncertainty for refined decision-making."
+category: quant_concept
+description: Explore how Bayesian networks enhance algorithmic trading by modeling
+  market behaviors and updating predictions amid uncertainty for refined decision-making.
+title: Bayesian Networks (Algo Trading)
 ---
 
 Bayesian networks are a sophisticated form of statistical model designed to depict a set of variables and their conditional dependencies through a structure known as a directed acyclic graph (DAG). In this framework, each node corresponds to a variable, while the edges illustrate the direct dependencies among them. This graphical representation allows for a streamlined approach in managing intricate relationships, making Bayesian networks particularly well-suited for environments characterized by uncertainty and complex interdependencies.

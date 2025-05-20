@@ -1,6 +1,8 @@
 ---
-title: "Multiple Share Classes and Super Voting Shares (Algo Trading)"
-description: "Explore how super-voting shares and algorithmic trading shape corporate governance, offering insights into modern financial strategies and market dynamics."
+category: quant_concept
+description: Explore how super-voting shares and algorithmic trading shape corporate
+  governance, offering insights into modern financial strategies and market dynamics.
+title: Multiple Share Classes and Super Voting Shares (Algo Trading)
 ---
 
 The landscape of corporate governance and trading is undergoing significant transformation, largely influenced by the changing practices in share structures. Among these, super-voting shares have emerged as pivotal elements, granting certain shareholders heightened influence over corporate decision-making processes. This heightened control is often concentrated in the hands of company founders or a select group, thus altering traditional power dynamics within corporations. For example, companies such as Alphabet Inc. employ a dual-class share structure, whereby Class B shares provide 10 votes per share, allowing founders to maintain significant control even with a minority ownership stake. 
@@ -119,4 +121,3 @@ Shleifer, A., & Vishny, R. W. (1997). "A Survey of Corporate Governance." This c
 Malkiel, B. G. (1999). "A Random Walk Down Wall Street." Although primarily a guide to investment strategies and efficient market hypothesis, this book offers relevant insights into market dynamics influenced by investor behavior and decision-making processes. It aids in grasping how various share structures might affect investor perceptions and stock valuations.
 
 Gompers, P. A., Ishii, J. L., & Metrick, A. (2003). "Corporate Governance and Equity Prices." The article investigates the relationship between corporate governance practices and equity prices, using empirical data to demonstrate how governance quality impacts stock performance. This research is crucial for analyzing how different share classes, including those with super-voting rights, impact market valuation and investor returns.
-

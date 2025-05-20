@@ -1,6 +1,8 @@
 ---
-title: "Non-Cash Charge in Accounting (Algo Trading)"
-description: "Explore non-cash charges in finance and accounting, including their impact on financial reporting and algorithmic trading in modern corporate strategies."
+category: quant_concept
+description: Explore non-cash charges in finance and accounting, including their impact
+  on financial reporting and algorithmic trading in modern corporate strategies.
+title: Non-Cash Charge in Accounting (Algo Trading)
 ---
 
 In the intricate world of finance and accounting, the interplay of various concepts and methodologies directly impacts corporate strategies and investment decisions. Among these, non-cash charges, financial reporting, and algorithmic trading stand out as critical components. Non-cash charges, which include expenses like depreciation and stock-based compensation, do not involve actual cash outflow at the time they are recorded but significantly affect a company’s financial statements. These charges are vital in aligning expenses with related income over time, thereby providing an accurate representation of a company's economic activities.

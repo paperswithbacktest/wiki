@@ -1,6 +1,8 @@
 ---
-title: "liquidity premium estimation (Algo Trading)"
-description: "Explore the estimation of liquidity risk premium in algorithmic trading and its impact on strategies, emphasizing the importance of managing liquidity risk."
+category: quant_concept
+description: Explore the estimation of liquidity risk premium in algorithmic trading
+  and its impact on strategies, emphasizing the importance of managing liquidity risk.
+title: liquidity premium estimation (Algo Trading)
 ---
 
 Financial markets play a pivotal role in the global economy by serving as platforms for investment and risk management. They allow individuals, corporations, and governments to allocate resources efficiently, facilitating capital formation and economic growth. Over recent decades, the landscape of financial markets has been transformed by the rise of algorithmic trading, a method of executing trades using pre-programmed instructions or algorithms. This approach leverages high-frequency trading (HFT), which allows for extremely rapid execution of orders, capitalizing on speed and the exploitation of market inefficiencies. 
@@ -183,4 +185,3 @@ A comprehensive understanding of liquidity risk and algorithmic trading can be g
    - Websites and platforms like SSRN and JSTOR offer access to a wide range of research publications related to liquidity and algorithmic trading.
 
 By consulting these resources, readers can gain a deeper understanding of the complexity of liquidity premiums and their significant impact on trading strategies within financial markets.
-

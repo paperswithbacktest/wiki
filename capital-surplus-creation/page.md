@@ -1,6 +1,9 @@
 ---
-title: "Capital Surplus and Its Creation (Algo Trading)"
-description: "Discover the world of corporate finance with insights into company equity, capital surplus, and the impact of algorithmic trading on financial stability and growth."
+category: quant_concept
+description: Discover the world of corporate finance with insights into company equity,
+  capital surplus, and the impact of algorithmic trading on financial stability and
+  growth.
+title: Capital Surplus and Its Creation (Algo Trading)
 ---
 
 In the intricate world of corporate finance, understanding specific financial terms such as company equity, capital surplus, and their implications is essential. Company equity, often represented by stock ownership, defines a firm's capital structure and allows firms to raise capital without accruing debt. It serves as a pivotal resource for business operations and growth while promising potential dividends and capital gains to investors, albeit with higher risks than debt instruments.

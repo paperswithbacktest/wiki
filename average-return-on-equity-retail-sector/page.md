@@ -1,6 +1,9 @@
 ---
-title: "Average Return on Equity in the Retail Sector (Algo Trading)"
-description: "Explore how algorithmic trading enhances investment strategies in the retail sector by analyzing the impact of Return on Equity. Discover insights into average ROE variations."
+category: quant_concept
+description: Explore how algorithmic trading enhances investment strategies in the
+  retail sector by analyzing the impact of Return on Equity. Discover insights into
+  average ROE variations.
+title: Average Return on Equity in the Retail Sector (Algo Trading)
 ---
 
 The retail sector is a multifaceted industry that encompasses a wide range of segments, including automotive, grocery, online retail, apparel, and specialty stores. Each segment has its unique attributes and challenges, contributing to the sector's dynamic nature. A critical metric for assessing the financial performance of companies within this sector is Return on Equity (ROE). ROE is calculated as:

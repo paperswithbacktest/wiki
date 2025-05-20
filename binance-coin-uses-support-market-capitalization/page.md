@@ -1,6 +1,8 @@
 ---
-title: "Binance Coin: Uses, Support, and Market Capitalization (Algo Trading)"
-description: "Explore Binance Coin's uses in algorithmic trading, its market capitalization, and its support within the Binance ecosystem for optimized crypto strategies."
+category: quant_concept
+description: Explore Binance Coin's uses in algorithmic trading, its market capitalization,
+  and its support within the Binance ecosystem for optimized crypto strategies.
+title: 'Binance Coin: Uses, Support, and Market Capitalization (Algo Trading)'
 ---
 
 Cryptocurrency represents a significant innovation in the modern financial world, characterized by its decentralized and cryptographic nature. Originating with Bitcoin in 2009, cryptocurrencies have expanded into a multifaceted ecosystem worth trillions of dollars. This burgeoning market not only influences financial transactions but also affects economic policies and global trade. A crucial component within this ecosystem is Binance Coin (BNB), a cryptocurrency created by Binance, currently one of the world's largest cryptocurrency exchanges. BNB plays a vital role by enabling transactions within the Binance platform, offering trading fee discounts, and even serving as a medium for payments and financial services beyond Binance’s confines.

@@ -1,6 +1,9 @@
 ---
-title: "Multiplier Effect: Formula and Example (Algo Trading)"
-description: "Explore the multiplier effect in economic theory and its role in algorithmic trading Learn how spending increases amplify economic output and impact trading strategies"
+category: quant_concept
+description: Explore the multiplier effect in economic theory and its role in algorithmic
+  trading Learn how spending increases amplify economic output and impact trading
+  strategies
+title: 'Multiplier Effect: Formula and Example (Algo Trading)'
 ---
 
 In today's interconnected financial markets, a comprehensive understanding of economic concepts is crucial for both investors and traders. Central to economic theory is the economic multiplier—an influential concept capable of amplifying financial movements throughout an economy. This article examines the intricacies of the economic formula, concentrating specifically on the multiplier effect, and evaluates its relevance within the ever-evolving domain of algorithmic trading.

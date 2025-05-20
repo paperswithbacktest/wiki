@@ -1,6 +1,9 @@
 ---
-title: "Open-End Management Company (Algo Trading)"
-description: "Explore the transformative impact of algorithmic trading in open-end management funds, offering access to diversified, expertly-managed portfolios for investors."
+category: trading_strategy
+description: Explore the transformative impact of algorithmic trading in open-end
+  management funds, offering access to diversified, expertly-managed portfolios for
+  investors.
+title: Open-End Management Company (Algo Trading)
 ---
 
 Investment in funds, whether through mutual funds or managed by open-end management companies, remains a popular choice for investors aiming to achieve diversification and gain from professional management. These vehicles allow individuals to pool resources with other investors, providing access to a diversified portfolio of assets that might otherwise be inaccessible due to cost constraints or expertise limitations. 

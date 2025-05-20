@@ -1,6 +1,9 @@
 ---
-title: "Market efficiency hypothesis (Algo Trading)"
-description: "Explore the Efficient Market Hypothesis in the context of algorithmic trading where rapid data processing enhances market efficiency while raising volatility concerns."
+category: quant_concept
+description: Explore the Efficient Market Hypothesis in the context of algorithmic
+  trading where rapid data processing enhances market efficiency while raising volatility
+  concerns.
+title: Market efficiency hypothesis (Algo Trading)
 ---
 
 The Efficient Market Hypothesis (EMH) posits that asset prices accurately incorporate all available information, suggesting that it is exceptionally challenging for investors to consistently achieve returns surpassing the market average without assuming additional risk. This hypothesis is essential for understanding financial markets, as it implies that any opportunity for excess profits through market inefficiencies is promptly eradicated by informed investors acting on new information.

@@ -1,6 +1,8 @@
 ---
-title: "Uneconomic Growth: Definition and Mechanisms (Algo Trading)"
-description: "Explore how uneconomic growth challenges GDP-focused metrics by highlighting sustainability in economic planning and the evolving role of algorithmic trading."
+category: quant_concept
+description: Explore how uneconomic growth challenges GDP-focused metrics by highlighting
+  sustainability in economic planning and the evolving role of algorithmic trading.
+title: 'Uneconomic Growth: Definition and Mechanisms (Algo Trading)'
 ---
 
 In recent years, significant changes have emerged in the approaches to economic growth and investment strategies, reflecting the evolving priorities of a global economy increasingly attuned to sustainability. These shifts are marked by a growing recognition of the limitations of traditional economic metrics, such as Gross Domestic Product (GDP), which often fail to account for the environmental and social costs of growth. The concept of uneconomic growth has gained traction, highlighting scenarios where economic expansion leads to deteriorating quality of life due to negative externalities.

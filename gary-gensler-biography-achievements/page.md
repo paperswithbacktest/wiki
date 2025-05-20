@@ -1,6 +1,9 @@
 ---
-title: "Gary Gensler: Biography and Achievements (Algo Trading)"
-description: "Explore the biography and achievements of Gary Gensler a key figure in financial market regulation focusing on his impact in algorithmic trading and the SEC."
+category: quant_concept
+description: Explore the biography and achievements of Gary Gensler a key figure in
+  financial market regulation focusing on his impact in algorithmic trading and the
+  SEC.
+title: 'Gary Gensler: Biography and Achievements (Algo Trading)'
 ---
 
 Gary Gensler is a prominent figure in the financial world, currently serving as the Chair of the U.S. Securities and Exchange Commission (SEC). His extensive career has had significant implications for algorithmic trading and financial market regulation. This article explores Gary Gensler's biography with an emphasis on his career achievements and influence in algorithmic trading. As an advocate for transparency and regulation in financial markets, Gensler's role is pivotal in shaping modern trading practices, ensuring fairness and protecting investors.

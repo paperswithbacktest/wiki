@@ -1,6 +1,9 @@
 ---
-title: "Pareto Improvement: Overview and Critique (Algo Trading)"
-description: "Explore the vital intersection of Pareto improvement and algorithmic trading in today's financial markets Learn how economic theories drive efficiency and optimal performance"
+category: quant_concept
+description: Explore the vital intersection of Pareto improvement and algorithmic
+  trading in today's financial markets Learn how economic theories drive efficiency
+  and optimal performance
+title: 'Pareto Improvement: Overview and Critique (Algo Trading)'
 ---
 
 In the rapidly evolving financial markets, the concepts of efficiency, Pareto improvement, and algorithmic trading are becoming increasingly interconnected. Understanding these connections is essential for traders, economists, and financial professionals aiming for optimal market performance. This article provides an in-depth exploration of these economic theories and their implications in the context of modern trading practices.

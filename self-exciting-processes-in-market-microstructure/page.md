@@ -1,6 +1,9 @@
 ---
-title: "Self-exciting processes in market microstructure (Algo Trading)"
-description: "Explore the application of self-exciting processes, or Hawkes processes, in high-frequency trading to understand market microstructure and predict price movements."
+category: quant_concept
+description: Explore the application of self-exciting processes, or Hawkes processes,
+  in high-frequency trading to understand market microstructure and predict price
+  movements.
+title: Self-exciting processes in market microstructure (Algo Trading)
 ---
 
 Self-exciting processes, often referred to as Hawkes processes, play a significant role in understanding market microstructure, particularly in the context of high-frequency trading. These processes are a type of point process where the occurrence of an event increases the probability of subsequent events occurring in a short timeframe. This characteristic makes them advantageous for modeling the temporal clustering of trades, a common phenomenon in financial markets.

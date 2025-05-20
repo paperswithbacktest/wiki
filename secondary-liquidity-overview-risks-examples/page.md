@@ -1,6 +1,8 @@
 ---
-title: "Secondary Liquidity: Overview, Associated Risks, and Examples (Algo Trading)"
-description: "Explore secondary liquidity in financial markets its risks and opportunities especially through algorithmic trading to optimize strategies and enhance decision-making."
+category: quant_concept
+description: Explore secondary liquidity in financial markets its risks and opportunities
+  especially through algorithmic trading to optimize strategies and enhance decision-making.
+title: 'Secondary Liquidity: Overview, Associated Risks, and Examples (Algo Trading)'
 ---
 
 In the modern financial landscape, liquidity and associated risks are central to effective market participation. Liquidity refers to the ease with which an asset can be converted into cash without significantly affecting its price. In financial markets, liquidity is essential as it facilitates smoother transactions, reduces costs, and enhances market efficiency. A market with high liquidity allows traders and investors to buy or sell assets quickly and at predictable prices, thus minimizing the impact of price volatility.

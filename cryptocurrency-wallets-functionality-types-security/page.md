@@ -1,6 +1,8 @@
 ---
-title: "Cryptocurrency Wallets: Functionality, Types, and Security (Algo Trading)"
-description: "Explore cryptocurrency security and various wallet types to protect digital assets. Gain insights on algorithmic trading to enhance crypto investment strategies."
+category: quant_concept
+description: Explore cryptocurrency security and various wallet types to protect digital
+  assets. Gain insights on algorithmic trading to enhance crypto investment strategies.
+title: 'Cryptocurrency Wallets: Functionality, Types, and Security (Algo Trading)'
 ---
 
 The rapid evolution of the cryptocurrency market has attracted investors worldwide, making cryptocurrency a significant aspect of modern investment portfolios. As digital currencies gain popularity, ensuring the security of these investments has become of paramount importance. Crypto security involves protecting digital assets from theft and fraud, safeguarding both the holdings and personal information of investors.

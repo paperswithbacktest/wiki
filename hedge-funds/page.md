@@ -1,6 +1,8 @@
 ---
-title: "Hedge Funds (Algo Trading)"
-description: "Explore the impact of algorithmic trading on asset management and investment finance Discover how modern technology is reshaping financial strategies"
+category: quant_concept
+description: Explore the impact of algorithmic trading on asset management and investment
+  finance Discover how modern technology is reshaping financial strategies
+title: Hedge Funds (Algo Trading)
 ---
 
 Asset management and investment finance are pivotal in the modern financial landscape, providing a broad spectrum of opportunities for wealth growth and management. These disciplines encompass the management of a variety of asset classes, including equities, bonds, and derivatives, tailored to meet specific investment goals and risk appetites. Financial institutions and professional asset managers employ rigorous market analyses and strategic planning to optimize returns for their clients, ensuring that their portfolios are well-diversified and risk-managed.

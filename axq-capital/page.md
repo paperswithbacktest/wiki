@@ -1,6 +1,8 @@
 ---
-title: "AXQ Capital (Algo Trading)"
-description: "AXQ Capital excels in algorithmic trading by integrating scientific methods and data-driven strategies to consistently outperform in financial markets."
+category: trading_strategy
+description: AXQ Capital excels in algorithmic trading by integrating scientific methods
+  and data-driven strategies to consistently outperform in financial markets.
+title: AXQ Capital (Algo Trading)
 ---
 
 AXQ Capital has established itself as a significant entity in algorithmic trading. The firm is renowned for its strategic and systematic methodologies to achieve consistent outperformance, often referred to as "alpha" in financial markets. Founded with the objective of integrating scientific methods into trading, AXQ Capital distinguishes itself in the competitive sphere of quantitative investment. By employing sophisticated technological solutions and data-driven strategies, the firm aims to maintain its edge over competitors.

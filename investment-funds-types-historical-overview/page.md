@@ -1,6 +1,8 @@
 ---
-title: "Investment Funds: Types and Historical Overview (Algo Trading)"
-description: "Explore the history and types of investment funds like mutual funds, ETFs, and hedge funds, and how algorithmic trading has transformed fund management."
+category: quant_concept
+description: Explore the history and types of investment funds like mutual funds,
+  ETFs, and hedge funds, and how algorithmic trading has transformed fund management.
+title: 'Investment Funds: Types and Historical Overview (Algo Trading)'
 ---
 
 Investment funds, including mutual funds, hedge funds, and exchange-traded funds (ETFs), are pooled investment vehicles that enable individual and institutional investors to participate in a diversified portfolio of assets. By aggregating capital from multiple investors, these funds can access a broader range of investment opportunities, manage risk through diversification, and provide professional management. Investment funds play a pivotal role in financial markets by facilitating capital allocation, promoting market efficiency, and contributing to economic growth.

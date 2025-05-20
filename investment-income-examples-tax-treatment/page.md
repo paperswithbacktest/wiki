@@ -1,6 +1,8 @@
 ---
-title: "Investment Income: Examples and Tax Treatment (Algo Trading)"
-description: "Explore the complexities of investment income and its tax implications. Learn how algo trading impacts earnings and strategies to maximize returns effectively."
+category: quant_concept
+description: Explore the complexities of investment income and its tax implications.
+  Learn how algo trading impacts earnings and strategies to maximize returns effectively.
+title: 'Investment Income: Examples and Tax Treatment (Algo Trading)'
 ---
 
 Understanding the different forms of income is crucial for effective financial planning and strategic tax management. Investment income, in particular, plays a pivotal role in shaping an individual’s or institution’s fiscal landscape. It encompasses gains from assets such as stocks, bonds, and real estate, and is subject to a unique set of tax rules that distinguish it from regular income. This article provides an analysis of various types of investment income, focusing on how they are taxed differently.

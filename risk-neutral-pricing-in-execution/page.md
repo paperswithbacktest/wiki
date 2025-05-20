@@ -1,6 +1,8 @@
 ---
-title: "Risk-Neutral Pricing in Execution (Algo Trading)"
-description: "Explore risk-neutral pricing in algorithmic trading, a crucial concept for valuing assets without risk premiums. Enhance trading strategies with this approach."
+category: quant_concept
+description: Explore risk-neutral pricing in algorithmic trading, a crucial concept
+  for valuing assets without risk premiums. Enhance trading strategies with this approach.
+title: Risk-Neutral Pricing in Execution (Algo Trading)
 ---
 
 Risk-neutral pricing is a fundamental concept in financial mathematics, particularly pivotal in algorithmic trading. It offers a mechanism for assessing and pricing financial instruments, chiefly derivatives, under the premise that investors are indifferent to risk. This paradigm shift allows for the valuation of assets as if investors demanded no risk premiums, simplifying complex market behaviors into more predictable models.

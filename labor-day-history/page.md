@@ -1,6 +1,11 @@
 ---
-title: "Labor Day History (Algo Trading)"
-description: "Explore the connection between Labor Day and algorithmic trading in this insightful article. Discover how this national holiday impacts financial markets by analyzing trading patterns and strategies during Labor Day. Uncover whether algorithmic strategies can be leveraged to capitalize on unique market behaviors around this holiday, considering the multifaceted challenges traders face during federal holidays."
+category: quant_concept
+description: Explore the connection between Labor Day and algorithmic trading in this
+  insightful article. Discover how this national holiday impacts financial markets
+  by analyzing trading patterns and strategies during Labor Day. Uncover whether algorithmic
+  strategies can be leveraged to capitalize on unique market behaviors around this
+  holiday, considering the multifaceted challenges traders face during federal holidays.
+title: Labor Day History (Algo Trading)
 ---
 
 Labor Day, celebrated on the first Monday of September, is a significant holiday in the United States, marking the achievements and contributions of American workers. It originated in the late 19th century during the labor movement as a response to challenging working conditions and as a campaign for better labor standards. Over the years, Labor Day has evolved into a cultural phenomenon, often symbolizing the end of summer, with numerous public events, parades, and gatherings taking place across the country.

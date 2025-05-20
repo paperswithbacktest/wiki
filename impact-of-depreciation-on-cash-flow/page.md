@@ -1,6 +1,9 @@
 ---
-title: "Impact of Depreciation on Cash Flow (Algo Trading)"
-description: "Explore the intricate relationship between cash flow depreciation and algorithmic trading to understand modern financial strategies for improved business decisions."
+category: quant_concept
+description: Explore the intricate relationship between cash flow depreciation and
+  algorithmic trading to understand modern financial strategies for improved business
+  decisions.
+title: Impact of Depreciation on Cash Flow (Algo Trading)
 ---
 
 Financial analysis is a critical tool used by businesses and investors to make informed decisions. It involves examining financial data to understand an entity's performance and develop strategies for improving profitability and sustainability. Among the various components of financial analysis, cash flow analysis plays a crucial role. Cash flow refers to the movement of money into and out of a business, and it is a key indicator of a company's financial health. Unlike profit, which is an accounting concept reflecting revenue minus expenses, cash flow provides a real-time snapshot of liquidity and operational efficiency, crucial for meeting short-term obligations and investing in growth opportunities.

@@ -1,6 +1,8 @@
 ---
-title: "Risk Curve: Explanation and Considerations (Algo Trading)"
-description: "Explore effective risk management in algorithmic trading Learn about risk assessment the risk curve and strategies for optimizing trading outcomes"
+category: quant_concept
+description: Explore effective risk management in algorithmic trading Learn about
+  risk assessment the risk curve and strategies for optimizing trading outcomes
+title: 'Risk Curve: Explanation and Considerations (Algo Trading)'
 ---
 
 Algorithmic trading, commonly referred to as 'algo trading,' has brought transformative changes to the financial markets. By leveraging complex mathematical models and automated systems, algo trading facilitates the rapid execution of trades, significantly reducing the need for human intervention. This method offers several advantages, such as increased execution speed and precision, as well as the ability to process vast volumes of data in real-time. However, it also introduces a new dimension of challenges, primarily concerning risk management.

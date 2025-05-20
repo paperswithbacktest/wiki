@@ -1,6 +1,8 @@
 ---
-title: "Krugerrand Gold Coins (Algo Trading)"
-description: "Explore the fusion of tradition and technology with Krugerrand gold coins and algorithmic trading. Discover how they shape modern investment strategies."
+category: quant_concept
+description: Explore the fusion of tradition and technology with Krugerrand gold coins
+  and algorithmic trading. Discover how they shape modern investment strategies.
+title: Krugerrand Gold Coins (Algo Trading)
 ---
 
 Gold has captivated human civilizations for millennia, valued not just for its intrinsic beauty but for its enduring economic relevance. As an investment asset, gold is often seen as a store of value and a hedge against inflation and currency fluctuations. Investors across the globe turn to gold during times of economic uncertainty, benefiting from its historical stability and liquidity. Its appeal is bolstered by its universal acceptance and the perceived security it offers in protecting wealth.

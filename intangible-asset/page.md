@@ -1,6 +1,8 @@
 ---
-title: "Intangible Asset (Algo Trading)"
-description: "Explore the role of intangible assets like intellectual property in algorithmic trading Discover how these non-physical resources enhance market strategies"
+category: quant_concept
+description: Explore the role of intangible assets like intellectual property in algorithmic
+  trading Discover how these non-physical resources enhance market strategies
+title: Intangible Asset (Algo Trading)
 ---
 
 In recent years, intangible assets, intellectual property, and other non-physical assets have become central to the strategies of modern businesses, influencing corporate value and competitive advantage. These intangible assets encompass a range of elements, including patents, trademarks, copyrights, and proprietary software, which collectively form a substantial portion of a company’s balance sheet and strategic arsenal. Unlike tangible assets, intangible assets do not have physical presence, yet their impact on business performance and innovation-driven growth is profound.

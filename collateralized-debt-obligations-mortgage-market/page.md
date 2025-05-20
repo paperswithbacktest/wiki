@@ -1,6 +1,8 @@
 ---
-title: "Collateralized Debt Obligations and the Mortgage Market (Algo Trading)"
-description: "Explore the interplay between collateralized debt obligations and the mortgage market in the context of algorithmic trading revealing their economic impacts."
+category: quant_concept
+description: Explore the interplay between collateralized debt obligations and the
+  mortgage market in the context of algorithmic trading revealing their economic impacts.
+title: Collateralized Debt Obligations and the Mortgage Market (Algo Trading)
 ---
 
 This article explores the intricacies of the mortgage market, financial instruments, collateralized debt obligations (CDOs), and algorithmic trading (algo trading), providing a comprehensive understanding of their roles and interactions within the current economic framework. The mortgage market is integral to the global economy, facilitating home ownership and acting as a significant driver of economic activity. Its dynamics, shaped by various lending practices and borrowing entities, form the foundation for numerous financial products and systems.

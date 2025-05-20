@@ -1,7 +1,8 @@
 ---
-title: Understanding Conditional Models in Machine Learning
+category: quant_concept
 description: Conditional models elevate predictions by applying data criteria in decision
   trees spam filters and generative systems Discover more inside
+title: Understanding Conditional Models in Machine Learning
 ---
 
 ![Image](images/1.png)

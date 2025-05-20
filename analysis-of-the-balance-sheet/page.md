@@ -1,6 +1,13 @@
 ---
-title: "Analysis of the Balance Sheet (Algo Trading)"
-description: "Explore how balance sheet accounting, financial analysis, and algorithmic trading intertwine to optimize financial performance in today's dynamic market. Mastering these components enhances understanding of a company's financial position and potential growth. By integrating balance sheet insights into algorithmic trading strategies, investors can execute informed trades based on key financial metrics. As fintech evolves, leveraging these elements becomes essential for gaining a competitive edge and achieving financial success."
+category: quant_concept
+description: Explore how balance sheet accounting, financial analysis, and algorithmic
+  trading intertwine to optimize financial performance in today's dynamic market.
+  Mastering these components enhances understanding of a company's financial position
+  and potential growth. By integrating balance sheet insights into algorithmic trading
+  strategies, investors can execute informed trades based on key financial metrics.
+  As fintech evolves, leveraging these elements becomes essential for gaining a competitive
+  edge and achieving financial success.
+title: Analysis of the Balance Sheet (Algo Trading)
 ---
 
 In the ever-evolving world of finance, understanding how balance sheet accounting, financial analysis, and algorithmic trading intersect is crucial for investors and professionals alike. These components are integral to assessing and optimizing financial performance in today's data-driven landscape.

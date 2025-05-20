@@ -1,6 +1,9 @@
 ---
-title: "Fallen Angel Bonds and Rising Star Bonds: Risks and Opportunities (Algo Trading)"
-description: "Explore the intricacies of rising star and fallen angel bonds in the high-yield market, uncovering risks and opportunities through algorithmic trading insights."
+category: quant_concept
+description: Explore the intricacies of rising star and fallen angel bonds in the
+  high-yield market, uncovering risks and opportunities through algorithmic trading
+  insights.
+title: 'Fallen Angel Bonds and Rising Star Bonds: Risks and Opportunities (Algo Trading)'
 ---
 
 High-yield bonds, commonly known as junk bonds, are fixed-income securities that offer higher yields than investment-grade bonds due to their lower credit ratings and higher risk of default. Within this category, two intriguing subtypes stand out: rising star and fallen angel bonds. Rising star bonds are those that start with lower credit ratings and subsequently achieve investment-grade status as the issuing company's financial health improves. Factors contributing to this upgrade can include enhanced business performance, better financial management, or favorable economic conditions.

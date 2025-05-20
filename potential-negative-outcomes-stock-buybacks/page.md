@@ -1,6 +1,8 @@
 ---
-title: "Potential Negative Outcomes of Stock Buybacks (Algo Trading)"
-description: "Explore the potential negative outcomes of stock buybacks and algorithmic trading impacting market stability and corporate health in this insightful article."
+category: quant_concept
+description: Explore the potential negative outcomes of stock buybacks and algorithmic
+  trading impacting market stability and corporate health in this insightful article.
+title: Potential Negative Outcomes of Stock Buybacks (Algo Trading)
 ---
 
 Corporate finance strategies are pivotal in shaping the financial health and competitive stance of modern businesses. Among these, stock buybacks and algorithmic trading have gained significant traction due to their potential to enhance shareholder value and optimize market operations. Stock buybacks refer to a company repurchasing its shares from the marketplace, thereby reducing the number of outstanding shares. This practice is often employed to boost stock prices and improve financial ratios, such as earnings per share (EPS). On the other hand, algorithmic trading leverages computer algorithms to execute trades at speeds and volumes that outmatch human traders, optimizing market efficiency and liquidity.

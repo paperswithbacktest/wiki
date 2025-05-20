@@ -1,6 +1,8 @@
 ---
-title: "Economic Value: Meaning, Examples, and Estimation Methods (Algo Trading)"
-description: "Discover the crucial role of economic value and how it influences resource allocation and pricing in markets with insights into algorithmic trading strategies."
+category: quant_concept
+description: Discover the crucial role of economic value and how it influences resource
+  allocation and pricing in markets with insights into algorithmic trading strategies.
+title: 'Economic Value: Meaning, Examples, and Estimation Methods (Algo Trading)'
 ---
 
 Economic value is a fundamental concept in economics that plays a crucial role in the allocation of resources within markets and influences the broader economy. At its core, economic value represents the worth that individuals assign to goods and services, which, in turn, informs how pricing strategies are formulated and resources are distributed. The subjective nature of economic value means it can vary significantly between individuals, as it is shaped by personal preferences, needs, and perceptions of utility.

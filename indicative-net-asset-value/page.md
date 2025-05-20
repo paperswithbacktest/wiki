@@ -1,6 +1,8 @@
 ---
-title: "Indicative Net Asset Value (iNAV) (Algo Trading)"
-description: "Discover the importance of Indicative Net Asset Value (iNAV) in ETF trading for real-time investment insights and strategy optimization with algo trading."
+category: quant_concept
+description: Discover the importance of Indicative Net Asset Value (iNAV) in ETF trading
+  for real-time investment insights and strategy optimization with algo trading.
+title: Indicative Net Asset Value (iNAV) (Algo Trading)
 ---
 
 The financial landscape is undergoing significant transformation, with new metrics like the Indicative Net Asset Value (iNAV) becoming increasingly vital, particularly within ETF trading. iNAV offers a near real-time estimate of an ETF's value, setting itself apart from the traditional net asset value (NAV) which is calculated only at the close of trading each day. This distinction is crucial, as iNAV enables investors to receive timely insights into the worth of their investments throughout the trading day.

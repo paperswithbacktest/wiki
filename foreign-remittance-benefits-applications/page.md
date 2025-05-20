@@ -1,6 +1,8 @@
 ---
-title: "Foreign Remittance: Benefits and Applications (Algo Trading)"
-description: "Explore how foreign remittance, money transfer apps, and algorithmic trading combine to modernize finance, enhance accessibility, and boost global economies."
+category: quant_concept
+description: Explore how foreign remittance, money transfer apps, and algorithmic
+  trading combine to modernize finance, enhance accessibility, and boost global economies.
+title: 'Foreign Remittance: Benefits and Applications (Algo Trading)'
 ---
 
 The convergence of remittances, money transfer apps, and algorithmic trading marks a pivotal shift in the financial sector, influencing both macroeconomic landscapes and individual livelihoods. Remittances, which are funds transferred by migrants to their home countries, play a critical role in global economic dynamics, particularly for developing nations. In 2022, global remittances exceeded $700 billion, highlighting their significance in sustaining economies by bolstering GDPs, especially in countries like India and the Philippines. These financial inflows are vital for meeting basic needs, enhancing economic stability, and providing emergency financial support in times of crisis.

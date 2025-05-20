@@ -1,6 +1,9 @@
 ---
-title: "Comparison of Chaikin Money Flow and Money Flow Index (Algo Trading)"
-description: "Explore the key differences between Chaikin Money Flow and Money Flow Index in trading. These indicators empower analysts with unique insights into market dynamics."
+category: trading_strategy
+description: Explore the key differences between Chaikin Money Flow and Money Flow
+  Index in trading. These indicators empower analysts with unique insights into market
+  dynamics.
+title: Comparison of Chaikin Money Flow and Money Flow Index (Algo Trading)
 ---
 
 The world of trading has long captivated both analysts and investors, with the subtle dance of market forces guiding their decisions. The sheer diversity of financial instruments available today necessitates the employment of various analytical tools that yield meaningful insights. These tools often assist traders in securing an edge in the highly competitive financial markets. Among the myriad tools available, nothing captivates quite like the Money Flow Index (MFI) and Chaikin Money Flow (CMF).

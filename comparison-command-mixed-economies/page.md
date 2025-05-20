@@ -1,6 +1,9 @@
 ---
-title: "Comparison of Command and Mixed Economies (Algo Trading)"
-description: "Explore the differences between command and mixed economies and their effects on algorithmic trading. Understand resource management and market dynamics in both systems."
+category: quant_concept
+description: Explore the differences between command and mixed economies and their
+  effects on algorithmic trading. Understand resource management and market dynamics
+  in both systems.
+title: Comparison of Command and Mixed Economies (Algo Trading)
 ---
 
 In the complex landscape of global economics, understanding different economic systems is crucial for comprehending how nations organize their resources. These systems, fundamentally defined by the roles of government and the private sector, dictate how resources are distributed, which in turn influences economic stability, growth, and innovation. This article explores the contrasting economic systems of command and mixed economies and their impact on modern financial mechanisms like algorithmic trading. By examining how these systems manage resources, influence market dynamics, and respond to technological advancements, we gain insights into the broader economic environment.
@@ -92,4 +95,3 @@ Marcos Lopez de Prado's "Advances in Financial Machine Learning" serves as a com
 Stefan Jansen's "Machine Learning for Algorithmic Trading" focuses on applying Python-based machine learning techniques to develop and optimize trading algorithms. His work includes numerous code examples and practical implementations, shedding light on feature extraction, model evaluation, and the integration of machine learning methods in trading systems.
 
 These resources collectively offer a thorough understanding of how advanced computational techniques can revolutionize trading strategies, particularly in mixed and market-oriented economies, where algorithmic trading is most prevalent.
-

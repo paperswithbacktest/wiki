@@ -1,6 +1,8 @@
 ---
-title: "Investment in Hedge Funds (Algo Trading)"
-description: "Explore how hedge funds leverage algorithmic trading to enhance investment strategies and manage portfolios effectively in a dynamic financial landscape."
+category: quant_concept
+description: Explore how hedge funds leverage algorithmic trading to enhance investment
+  strategies and manage portfolios effectively in a dynamic financial landscape.
+title: Investment in Hedge Funds (Algo Trading)
 ---
 
 Investment hedge funds are private investment entities designed to generate high returns by utilizing sophisticated financial strategies. These funds differ significantly from traditional investment vehicles like mutual funds, primarily in their ability to deploy flexible strategies such as leverage, derivatives, and short selling. One of the most critical components of modern hedge funds is algorithmic trading, a process that employs complex mathematical models and algorithms to make and execute trading decisions with minimal human intervention. 

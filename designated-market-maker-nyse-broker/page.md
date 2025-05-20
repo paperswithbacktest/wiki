@@ -1,6 +1,8 @@
 ---
-title: "Designated Market Maker: Role at NYSE and Comparison to Brokers (Algo Trading)"
-description: "Explore the vital roles of Designated Market Makers and brokers at NYSE. Learn how they ensure market efficiency and stability through algorithmic trading."
+category: quant_concept
+description: Explore the vital roles of Designated Market Makers and brokers at NYSE.
+  Learn how they ensure market efficiency and stability through algorithmic trading.
+title: 'Designated Market Maker: Role at NYSE and Comparison to Brokers (Algo Trading)'
 ---
 
 The financial sector is witnessing a significant transformation driven by technological advancements, particularly through algorithmic trading. This form of trading, which relies on complex algorithms to automate and expedite trading decisions, has become a linchpin in modern financial markets. Among the key participants shaping this evolving landscape are the Designated Market Makers (DMMs) on the New York Stock Exchange (NYSE). DMMs, formerly known as specialists, are tasked with maintaining order, efficiency, and stability in the market. They play a crucial role by providing liquidity and ensuring fair trading conditions. 

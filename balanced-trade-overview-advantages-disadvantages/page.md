@@ -1,6 +1,8 @@
 ---
-title: "Balanced Trade: Overview, Advantages, and Disadvantages (Algo Trading)"
-description: "Explore the fundamentals of balanced trade and algorithmic trading highlighting their benefits and drawbacks in shaping global economic stability and trade efficiency."
+category: quant_concept
+description: Explore the fundamentals of balanced trade and algorithmic trading highlighting
+  their benefits and drawbacks in shaping global economic stability and trade efficiency.
+title: 'Balanced Trade: Overview, Advantages, and Disadvantages (Algo Trading)'
 ---
 
 In the modern trading landscape, various approaches have been developed to address the complexities of international commerce and investment strategies. Balanced trade and algorithmic trading (algo trading) offer distinct methodologies that contribute differently to the global economy.

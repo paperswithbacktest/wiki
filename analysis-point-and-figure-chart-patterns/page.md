@@ -1,6 +1,9 @@
 ---
-title: "Analysis of Point-and-Figure Chart Patterns (Algo Trading)"
-description: "Explore the power of point-and-figure charts in algo trading Discover how P&F chart patterns enhance technical analysis with clear insights into market trends"
+category: trading_strategy
+description: Explore the power of point-and-figure charts in algo trading Discover
+  how P&F chart patterns enhance technical analysis with clear insights into market
+  trends
+title: Analysis of Point-and-Figure Chart Patterns (Algo Trading)
 ---
 
 Technical analysis is pivotal in empowering traders to scrutinize and capitalize on market opportunities by leveraging various analytical tools and techniques. Central to this analytical framework are chart patterns and point-and-figure (P&F) charts, which provide unique insights into price movements and market sentiment. Chart patterns, the graphical representations of price movements over time, assist traders in forecasting future price directions by identifying historical trends and potential breakout points. These patterns, ranging from head and shoulders to double tops and triangles, form the backbone of technical analysis, offering visual cues of market psychology.

@@ -1,6 +1,8 @@
 ---
-title: "General Depreciation System: Overview and Functionality (Algo Trading)"
-description: "Explore the General Depreciation System (GDS) a key element in financial planning that impacts tax savings and asset valuation, especially in algo trading."
+category: quant_concept
+description: Explore the General Depreciation System (GDS) a key element in financial
+  planning that impacts tax savings and asset valuation, especially in algo trading.
+title: 'General Depreciation System: Overview and Functionality (Algo Trading)'
 ---
 
 The General Depreciation System (GDS) serves as a crucial element in financial planning, especially in determining depreciation for tax purposes within the United States. Established under the Modified Accelerated Cost Recovery System (MACRS), GDS is the predominant method utilized for asset depreciation, providing an accelerated schedule meant to front-load deductions in the early years of an asset's life. This accelerated depreciation can play a significant role in reducing short-term taxable income and improving cash flow, critical aspects for businesses striving for efficient tax management.

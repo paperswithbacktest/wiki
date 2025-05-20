@@ -1,6 +1,8 @@
 ---
-title: "ProShares UltraPro Short QQQ ETF (SQQQ) (Algo Trading)"
-description: "Discover ProShares UltraPro Short QQQ ETF SQQQ focusing on 3x leveraged inverse trading and algorithmic strategies ideal for short-term market downturns."
+category: trading_strategy
+description: Discover ProShares UltraPro Short QQQ ETF SQQQ focusing on 3x leveraged
+  inverse trading and algorithmic strategies ideal for short-term market downturns.
+title: ProShares UltraPro Short QQQ ETF (SQQQ) (Algo Trading)
 ---
 
 Exchange-Traded Funds (ETFs) such as ProShares' SQQQ have emerged as significant tools in the trading and investment landscape, catering to diverse strategies like hedging and speculative trading. SQQQ is specifically structured as a 3x leveraged inverse ETF, designed to deliver triple the opposite of the daily performance of the Nasdaq-100 Index. This characteristic makes SQQQ particularly appealing for traders looking to capitalize on anticipated declines in the market.

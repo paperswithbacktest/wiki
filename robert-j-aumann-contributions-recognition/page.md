@@ -1,6 +1,9 @@
 ---
-title: "Robert J. Aumann: Contributions and Recognition (Algo Trading)"
-description: "Discover Robert J. Aumann's groundbreaking contributions to game theory and their impact on algorithmic trading enhancing strategic decision-making and market analysis."
+category: quant_concept
+description: Discover Robert J. Aumann's groundbreaking contributions to game theory
+  and their impact on algorithmic trading enhancing strategic decision-making and
+  market analysis.
+title: 'Robert J. Aumann: Contributions and Recognition (Algo Trading)'
 ---
 
 Robert J. Aumann, a distinguished Israeli-American mathematician, is widely recognized for his profound contributions to the field of game theory. His pioneering work has significantly advanced the understanding of complex issues involving conflict and cooperation. In 2005, Aumann was honored with the Nobel Prize in Economic Sciences, sharing the accolade with fellow esteemed economist Thomas C. Schelling. Their combined efforts have provided critical insights into how game-theory analysis can illuminate the strategic intricacies of human interactions.

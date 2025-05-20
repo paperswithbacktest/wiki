@@ -1,6 +1,8 @@
 ---
-title: "Prospects of Hyperinflation (Algo Trading)"
-description: "Explore the looming threat of hyperinflation and discover how algorithmic trading enhances economic forecasting to navigate today's complex financial landscape."
+category: quant_concept
+description: Explore the looming threat of hyperinflation and discover how algorithmic
+  trading enhances economic forecasting to navigate today's complex financial landscape.
+title: Prospects of Hyperinflation (Algo Trading)
 ---
 
 The global economic landscape is characterized by its dynamic nature, continuously shaped by various factors including geopolitical events, technological advancements, and shifting consumer behaviors. At the core of understanding this complex ecosystem are economic indicators like inflation and hyperinflation, which serve as barometers for economic health and stability. Inflation refers to the rate at which the general level of prices for goods and services increases, subsequently eroding purchasing power. When this rate spirals out of control, exceeding 1,000% per year, it transcends into hyperinflation, often resulting in dire economic consequences.

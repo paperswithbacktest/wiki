@@ -1,6 +1,8 @@
 ---
-title: "Comparison of Leveraged Biotech ETFs: BIB and LABU (Algo Trading)"
-description: "Compare BIB and LABU to understand leveraged biotech ETFs Their different strategies offer unique opportunities and risks in the dynamic biotechnology sector"
+category: trading_strategy
+description: Compare BIB and LABU to understand leveraged biotech ETFs Their different
+  strategies offer unique opportunities and risks in the dynamic biotechnology sector
+title: 'Comparison of Leveraged Biotech ETFs: BIB and LABU (Algo Trading)'
 ---
 
 The biotechnology sector is undergoing rapid transformation, driven largely by advancements in pharmaceuticals, genetic engineering, and novel therapies. This evolution presents significant opportunities for investors aiming to capitalize on the sector's potential growth. Among the investment vehicles available, exchange-traded funds (ETFs) have gained prominence due to their ability to provide diversified exposure to specific industries, such as biotechnology, without the need for selecting individual stocks. 

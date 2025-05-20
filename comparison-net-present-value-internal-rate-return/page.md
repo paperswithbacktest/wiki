@@ -1,6 +1,8 @@
 ---
-title: "Comparison of Net Present Value and Internal Rate of Return (Algo Trading)"
-description: "Compare NPV and IRR to evaluate investment opportunities and algorithmic trading strategies effectively. Learn their benefits and limitations in finance."
+category: quant_concept
+description: Compare NPV and IRR to evaluate investment opportunities and algorithmic
+  trading strategies effectively. Learn their benefits and limitations in finance.
+title: Comparison of Net Present Value and Internal Rate of Return (Algo Trading)
 ---
 
 In finance and investment analysis, evaluating potential opportunities is foundational to making informed decisions. Among the most prominent evaluation techniques are Net Present Value (NPV) and Internal Rate of Return (IRR), both of which hold critical importance in assessing investment potential. NPV and IRR are widely recognized for their ability to measure the profitability and efficiency of investments, aiding stakeholders in determining the most financially viable projects.

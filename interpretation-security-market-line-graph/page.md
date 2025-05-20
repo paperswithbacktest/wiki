@@ -1,6 +1,8 @@
 ---
-title: "Interpretation of a Security Market Line Graph (Algo Trading)"
-description: "Explore the Security Market Line in algorithmic trading to understand risk-return dynamics, using CAPM for informed investment decisions and better outcomes."
+category: quant_concept
+description: Explore the Security Market Line in algorithmic trading to understand
+  risk-return dynamics, using CAPM for informed investment decisions and better outcomes.
+title: Interpretation of a Security Market Line Graph (Algo Trading)
 ---
 
 The concept of the Security Market Line (SML) is pivotal in understanding investment analysis and decision-making within the financial markets. Serving as a foundational element in the Capital Asset Pricing Model (CAPM), the SML visually represents the relationship between risk and expected return for securities. In its essence, the SML provides a benchmark for evaluating the performance of individual investments against market expectations, offering investors an invaluable tool to assess risk-adjusted returns.

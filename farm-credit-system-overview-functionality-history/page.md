@@ -1,6 +1,9 @@
 ---
-title: "Farm Credit System: Overview, Functionality, and History (Algo Trading)"
-description: "Discover how the Farm Credit System supports the agricultural sector, providing crucial financial services and adapting to modern challenges in agricultural finance."
+category: quant_concept
+description: Discover how the Farm Credit System supports the agricultural sector,
+  providing crucial financial services and adapting to modern challenges in agricultural
+  finance.
+title: 'Farm Credit System: Overview, Functionality, and History (Algo Trading)'
 ---
 
 The Farm Credit System (FCS) is a cornerstone in the financial scaffolding that supports the agricultural sector, providing essential services that underlie the industry's economic viability. This article provides a comprehensive examination of the FCS by investigating its historical development, operational mechanisms, and contributions to agricultural finance. As we investigate the evolution of the FCS, we acknowledge its adaptation to the dynamic financial landscape, where factors such as technological innovations and algorithmic trading are reshaping traditional paradigms.

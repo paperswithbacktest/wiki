@@ -1,6 +1,8 @@
 ---
-title: "platformization in financial trading (Algo Trading)"
-description: "Explore the shift towards platformization in financial trading focusing on algorithmic trading's impact on efficiency, scalability, and market accessibility."
+category: quant_concept
+description: Explore the shift towards platformization in financial trading focusing
+  on algorithmic trading's impact on efficiency, scalability, and market accessibility.
+title: platformization in financial trading (Algo Trading)
 ---
 
 The financial trading landscape is undergoing a significant transformation as technology continues to advance, with a notable shift towards platformization in trading, particularly in algorithmic trading, often referred to as algo trading. This shift entails the development of cohesive frameworks that enhance accessibility, scalability, and integration for both traders and technology providers. Platformization is fundamentally changing how trading is conducted by enabling more efficient and effective trading processes.

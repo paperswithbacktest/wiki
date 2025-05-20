@@ -1,6 +1,9 @@
 ---
-title: "Friends and Family Shares Overview and Benefits (Algo Trading)"
-description: "Explore the benefits of investing in friends and family shares, equity investments, and algo trading to enhance financial growth and optimize investment strategies."
+category: trading_strategy
+description: Explore the benefits of investing in friends and family shares, equity
+  investments, and algo trading to enhance financial growth and optimize investment
+  strategies.
+title: Friends and Family Shares Overview and Benefits (Algo Trading)
 ---
 
 Navigating the world of investments can often feel overwhelming. However, understanding the benefits of various investment strategies, particularly equity investments, shares offered to friends and family, and algo trading, can open pathways to financial growth. This article aims to break down these concepts and explore their advantages in the modern investment landscape.

@@ -1,6 +1,8 @@
 ---
-title: "Extendable Swap: Definition and Functionality (Algo Trading)"
-description: "Explore the concept of extendable swaps in algo trading Learn how these derivatives offer flexibility and strategic benefits in volatile financial markets"
+category: quant_concept
+description: Explore the concept of extendable swaps in algo trading Learn how these
+  derivatives offer flexibility and strategic benefits in volatile financial markets
+title: 'Extendable Swap: Definition and Functionality (Algo Trading)'
 ---
 
 In the financial world, derivatives serve as powerful tools for managing risk and enhancing returns. These complex instruments derive their value from underlying assets, including stocks, bonds, and commodities, providing traders with versatile means to strategize in various market conditions. Among the array of derivatives, extendable swaps have emerged as a specialized form, recognized for their flexibility in adapting to shifting market dynamics.

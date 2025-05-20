@@ -1,6 +1,8 @@
 ---
-title: "At the Money in Options Trading (Algo Trading)"
-description: "Explore the synergy between at the money options and algorithmic trading to enhance strategies and risk management in options trading environments."
+category: quant_concept
+description: Explore the synergy between at the money options and algorithmic trading
+  to enhance strategies and risk management in options trading environments.
+title: At the Money in Options Trading (Algo Trading)
 ---
 
 Options trading is a financial activity that involves buying and selling contracts that give the holder the right, but not the obligation, to buy or sell an underlying asset at a predetermined price before or at a specific expiration date. Among these options, "at the money" (ATM) options play a crucial role due to their unique characteristics. An option is considered at the money when the price of the underlying asset is equal to the option's strike price. ATM options are significant in the financial markets as they are highly sensitive to changes in the underlying asset's price, which makes them an attractive tool for traders aiming to capitalize on short-term price movements.

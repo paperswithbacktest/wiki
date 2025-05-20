@@ -1,6 +1,9 @@
 ---
-title: "Investment Risk Levels: Low-Risk and High-Risk (Algo Trading)"
-description: "Explore investment risk levels with insights into low-risk and high-risk options, from stable bonds to volatile stocks and cryptocurrencies, and risk management strategies."
+category: quant_concept
+description: Explore investment risk levels with insights into low-risk and high-risk
+  options, from stable bonds to volatile stocks and cryptocurrencies, and risk management
+  strategies.
+title: 'Investment Risk Levels: Low-Risk and High-Risk (Algo Trading)'
 ---
 
 Investing involves making decisions that balance risk and reward. The financial landscape is shaped by a spectrum of investment risks, each carrying its own set of implications for investors. Understanding these risks aids in making informed choices that align with one's financial objectives and risk tolerance. Investment risks can range from the relatively stable but low-yield options, such as government bonds and high-quality corporate bonds, to the more volatile yet potentially lucrative avenues like stocks and cryptocurrencies.

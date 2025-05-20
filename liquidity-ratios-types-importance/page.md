@@ -1,6 +1,9 @@
 ---
-title: "Liquidity Ratios: Types and Importance (Algo Trading)"
-description: "Explore the significance of liquidity ratios in financial analysis and algorithmic trading. Learn how these metrics enhance investment strategies and assess company health."
+category: quant_concept
+description: Explore the significance of liquidity ratios in financial analysis and
+  algorithmic trading. Learn how these metrics enhance investment strategies and assess
+  company health.
+title: 'Liquidity Ratios: Types and Importance (Algo Trading)'
 ---
 
 In the world of finance, liquidity ratios and algorithmic trading are central to comprehending and enhancing financial performance. Financial metrics, such as liquidity ratios, offer crucial insights into a company's capacity to meet its short-term obligations using available assets. These metrics form the foundation for assessing a business's financial robustness and are indispensable tools in financial analysis. By evaluating liquidity ratios, analysts and investors gain a clearer picture of a firm’s health, which aids in making sound investment decisions.

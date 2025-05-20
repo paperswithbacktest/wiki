@@ -1,6 +1,8 @@
 ---
-title: "Difference Between Gross Sales and Taxable Sales (Algo Trading)"
-description: "Understand the difference between gross and taxable sales and their impact on businesses navigating taxes and algorithmic trading to optimize financial outcomes."
+category: quant_concept
+description: Understand the difference between gross and taxable sales and their impact
+  on businesses navigating taxes and algorithmic trading to optimize financial outcomes.
+title: Difference Between Gross Sales and Taxable Sales (Algo Trading)
 ---
 
 Understanding the concepts of taxable sales, sales tax, and gross sales is foundational for businesses aiming to achieve accurate financial reporting and compliance with tax regulations. Taxable sales refer to the portion of sales subject to sales tax, a levy imposed by a government on the sale of goods and services. This is distinct from gross sales, which represent the total unadjusted sales revenue a company generates before any deductions, such as returns, allowances, or discounts. Gross sales serve as a critical metric, reflecting a company's ability to generate revenue and providing a baseline for tracking business performance.

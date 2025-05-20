@@ -1,6 +1,10 @@
 ---
-title: "Production Possibility Frontier: Purpose and Applications in Economics (Algo Trading)"
-description: "Explore how the Production Possibility Frontier enhances algorithmic trading by optimizing decisions through economic theories like trade-offs and resource efficiency."
+category: quant_concept
+description: Explore how the Production Possibility Frontier enhances algorithmic
+  trading by optimizing decisions through economic theories like trade-offs and resource
+  efficiency.
+title: 'Production Possibility Frontier: Purpose and Applications in Economics (Algo
+  Trading)'
 ---
 
 In today's interconnected economic landscape, comprehending complex concepts such as the Production Possibility Frontier (PPF) and their application in diverse fields like algorithmic trading is essential. The PPF is a foundational tool in economics that illustrates the trade-offs and opportunity costs inherent in production decisions, providing a graphical representation of the maximum feasible combinations of two goods that an economy can produce with limited resources.

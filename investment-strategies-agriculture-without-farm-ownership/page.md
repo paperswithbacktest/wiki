@@ -1,6 +1,9 @@
 ---
-title: "Investment Strategies in Agriculture Without Farm Ownership (Algo Trading)"
-description: "Discover investment strategies in agriculture without owning a farm by exploring innovative options like algorithmic trading, REITs, agricultural stocks, and ETFs."
+category: trading_strategy
+description: Discover investment strategies in agriculture without owning a farm by
+  exploring innovative options like algorithmic trading, REITs, agricultural stocks,
+  and ETFs.
+title: Investment Strategies in Agriculture Without Farm Ownership (Algo Trading)
 ---
 
 Investing in agriculture can be a strategic move even for individuals who do not own a farm. The agricultural sector is a vital component of the global economy, providing essential commodities that sustain human life. As the world population continues to grow, the demand for food remains constant, making agriculture investments often considered recession-proof. This is primarily because food is a basic necessity, leading to continuous and relatively stable demand for agricultural products, regardless of economic cycles.

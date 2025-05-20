@@ -1,6 +1,8 @@
 ---
-title: "VWAP/TWAP strategies (Algo Trading)"
-description: "Explore VWAP and TWAP in algo trading for efficient order execution, minimizing market impact, and optimizing large trades in diverse trading scenarios."
+category: trading_strategy
+description: Explore VWAP and TWAP in algo trading for efficient order execution,
+  minimizing market impact, and optimizing large trades in diverse trading scenarios.
+title: VWAP/TWAP strategies (Algo Trading)
 ---
 
 Algorithmic trading has fundamentally transformed financial markets by introducing advanced methods for trade execution. Among the most prominent techniques within algorithmic trading are the Volume Weighted Average Price (VWAP) and Time Weighted Average Price (TWAP) algorithms. These algorithms are critical for institutional traders and hedge funds because they minimize the market impact often associated with large orders and enhance trade execution efficiency.

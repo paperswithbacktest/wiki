@@ -1,6 +1,8 @@
 ---
-title: "Mutual Funds in India (Algo Trading)"
-description: "Explore how mutual funds and algorithmic trading shape financial planning in India offering diversification professional management and efficient execution."
+category: trading_strategy
+description: Explore how mutual funds and algorithmic trading shape financial planning
+  in India offering diversification professional management and efficient execution.
+title: Mutual Funds in India (Algo Trading)
 ---
 
 Financial planning and investment play a pivotal role in wealth building, particularly in a rapidly growing economy like India. With an increasing number of individuals seeking to secure their financial future, wise investment strategies become paramount. Two such strategies that have gained significant traction in the Indian financial markets are mutual funds and algorithmic trading.

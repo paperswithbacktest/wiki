@@ -1,6 +1,8 @@
 ---
-title: "History of the Tel Aviv Stock Exchange (Algo Trading)"
-description: "Explore the rich history of the Tel Aviv Stock Exchange from its origins to its role in global finance focusing on innovations and algorithmic trading."
+category: quant_concept
+description: Explore the rich history of the Tel Aviv Stock Exchange from its origins
+  to its role in global finance focusing on innovations and algorithmic trading.
+title: History of the Tel Aviv Stock Exchange (Algo Trading)
 ---
 
 The Tel Aviv Stock Exchange (TASE) is a pivotal institution in Israel's financial ecosystem, serving as the country's sole public market for securities including stocks, bonds, derivatives, and more. As a central component of Israel's capital markets, TASE not only facilitates the trading and valuation of securities, but it also serves a critical role in providing liquidity and capital to Israeli businesses and the government. This functionality positions TASE as a crucial infrastructure for economic growth and financial stability within the nation.

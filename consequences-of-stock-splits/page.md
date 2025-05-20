@@ -1,6 +1,8 @@
 ---
-title: "Consequences of Stock Splits (Algo Trading)"
-description: "Explore the intricate effects of stock splits on shareholder value and algorithmic trading to understand market dynamics and optimize investment strategies."
+category: quant_concept
+description: Explore the intricate effects of stock splits on shareholder value and
+  algorithmic trading to understand market dynamics and optimize investment strategies.
+title: Consequences of Stock Splits (Algo Trading)
 ---
 
 A stock split is a corporate action wherein a company divides its existing shares into multiple new shares to enhance the stock's liquidity. The total value of the shares remains unchanged when viewed collectively, as the action does not fundamentally alter the company's market capitalization. For example, in a 2-for-1 stock split, a shareholder with one share worth $100 pre-split will hold two shares, each worth $50 post-split. Companies engage in stock splits primarily to make shares more affordable and attractive to a broader base of investors, potentially boosting market activity by allowing retail investors easier access.

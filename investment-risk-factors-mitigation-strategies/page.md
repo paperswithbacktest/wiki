@@ -1,6 +1,9 @@
 ---
-title: "Investment Risk Factors and Mitigation Strategies (Algo Trading)"
-description: "Learn how to identify and manage investment risks such as market, credit, and liquidity risks, while exploring algo trading and effective risk mitigation strategies."
+category: trading_strategy
+description: Learn how to identify and manage investment risks such as market, credit,
+  and liquidity risks, while exploring algo trading and effective risk mitigation
+  strategies.
+title: Investment Risk Factors and Mitigation Strategies (Algo Trading)
 ---
 
 In today's fast-paced financial markets, investors strive for innovative strategies to maximize returns while minimizing risks. Financial strategies are essential for ensuring that portfolios remain both profitable and resilient in unpredictable market conditions. 

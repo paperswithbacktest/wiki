@@ -1,9 +1,11 @@
 ---
-title: "Transformer (Algo Trading)"
-description: Discover how the Transformer architecture, with its self-attention mechanism, revolutionizes natural language processing and offers significant potential for algorithmic trading. Learn about sentiment analysis, market prediction, and challenges in implementing Transformer-based models. Explore resources for further study.
+category: quant_concept
+description: Discover how the Transformer architecture, with its self-attention mechanism,
+  revolutionizes natural language processing and offers significant potential for
+  algorithmic trading. Learn about sentiment analysis, market prediction, and challenges
+  in implementing Transformer-based models. Explore resources for further study.
+title: Transformer (Algo Trading)
 ---
-
-
 
 Algorithmic trading has transformed the landscape of financial markets by enabling the automatic execution of trading strategies based on pre-defined programs and algorithms. This approach leverages computational power to analyze financial data and execute trades at speeds and frequencies that would be impossible for a human trader. Given that financial markets operate on information precision and timing, algorithmic trading is crucial for optimizing trading decisions and enhancing market liquidity. Its significance continues to grow as firms and individual traders alike seek to minimize latency and maximize profits.
 

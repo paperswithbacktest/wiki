@@ -1,6 +1,9 @@
 ---
-title: "Factors Influencing Labor Productivity (Algo Trading)"
-description: "Explore factors influencing labor productivity in algorithmic trading Understand how tech investments and workforce training impact economic growth and competitiveness"
+category: quant_concept
+description: Explore factors influencing labor productivity in algorithmic trading
+  Understand how tech investments and workforce training impact economic growth and
+  competitiveness
+title: Factors Influencing Labor Productivity (Algo Trading)
 ---
 
 In today's fast-paced economic environment, understanding and enhancing productivity is crucial for maintaining and improving economic stability and growth. Labor productivity serves as a fundamental metric by which the efficiency of labor input in producing goods and services is measured. This metric is not only an indicator of economic health but also a driver of competitiveness among businesses and nations alike.
@@ -141,4 +144,3 @@ Sustained productivity growth is essential for achieving long-term economic succ
 - Autor, D. H., et al. (1998). Computing Inequality: Have Computers Changed the Labor Market? This study investigates the effects of computerization on labor markets, addressing issues of inequality and shifts in labor demand due to technological advancements.
 
 - Angrist, J. D., & Pischke, J-S. (2008). *Mostly Harmless Econometrics*. This text serves as a resource for understanding econometric techniques with practical applications in analyzing productivity data, providing tools for assessing causal relationships in economic research.
-

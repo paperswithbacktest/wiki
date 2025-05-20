@@ -1,6 +1,8 @@
 ---
-title: "SEC Form F-7 (Algo Trading)"
-description: "SEC Form F-7 simplifies cross-border securities offerings for Canadian issuers in the U.S. via the MJDS enhancing access to U.S. capital markets."
+category: quant_concept
+description: SEC Form F-7 simplifies cross-border securities offerings for Canadian
+  issuers in the U.S. via the MJDS enhancing access to U.S. capital markets.
+title: SEC Form F-7 (Algo Trading)
 ---
 
 Cross-border securities offerings between Canada and the United States represent a significant aspect of the financial relationship between the two countries. These offerings allow Canadian entities to access the U.S. capital markets, providing them with opportunities to tap into a larger pool of investors and potentially achieve better pricing and liquidity for their securities.

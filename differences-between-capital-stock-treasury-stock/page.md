@@ -1,6 +1,9 @@
 ---
-title: "Differences Between Capital Stock and Treasury Stock (Algo Trading)"
-description: "Explore the essential differences between capital stock and treasury stock and how they impact investment strategies and company financials in algorithmic trading."
+category: quant_concept
+description: Explore the essential differences between capital stock and treasury
+  stock and how they impact investment strategies and company financials in algorithmic
+  trading.
+title: Differences Between Capital Stock and Treasury Stock (Algo Trading)
 ---
 
 In the fast-evolving world of finance, acquiring a comprehensive understanding of various types of stocks and trading methodologies is crucial for investors aiming to maximize their investment returns. Stocks can be broadly categorized into capital stock and treasury stock, each having distinct characteristics and implications for investors and companies alike. Capital stock encompasses the total shares that a company is authorized to issue, which includes both common and preferred shares as specified in the corporate charter. On the other hand, treasury stock consists of shares that the company holds in its treasury, typically acquired through buybacks.

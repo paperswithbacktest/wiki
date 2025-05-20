@@ -1,6 +1,8 @@
 ---
-title: "Financial Institutions Reform, Recovery, and Enforcement Act (Algo Trading)"
-description: "Explore the complex relationship between algorithmic trading and regulatory frameworks like FIRREA that shape modern financial markets and ensure stability."
+category: quant_concept
+description: Explore the complex relationship between algorithmic trading and regulatory
+  frameworks like FIRREA that shape modern financial markets and ensure stability.
+title: Financial Institutions Reform, Recovery, and Enforcement Act (Algo Trading)
 ---
 
 The financial sector continuously finds itself balancing innovation and regulation, a dynamic particularly pronounced with the introduction of algorithmic trading (ALGO) and significant regulatory frameworks such as the Financial Institutions Reform, Recovery, and Enforcement Act (FIRREA). Over recent decades, the financial market landscape has transformed dramatically, shaped by these pivotal developments.

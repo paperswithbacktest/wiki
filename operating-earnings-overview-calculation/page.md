@@ -1,6 +1,8 @@
 ---
-title: "Operating Earnings: Overview and Calculation (Algo Trading)"
-description: "Explore how operating earnings serve as a vital indicator of a company's financial health and their significance in algorithmic trading strategies."
+category: quant_concept
+description: Explore how operating earnings serve as a vital indicator of a company's
+  financial health and their significance in algorithmic trading strategies.
+title: 'Operating Earnings: Overview and Calculation (Algo Trading)'
 ---
 
 In the ever-evolving world of finance, earnings metrics are central to assessing a company's financial health. Among these metrics, operating earnings, often known as operating income, are particularly significant. This figure reflects the profit generated from a company's core business operations, excluding non-operational gains and expenses such as interest and taxes. Understanding operating earnings allows investors to focus on the company's operational efficiency and profitability, independent of its capital structure and tax strategies.

@@ -1,6 +1,9 @@
 ---
-title: "Restricted Cash on Balance Sheets (Algo Trading)"
-description: "Explore the significance of restricted cash in balance sheets and its impact on algorithmic trading strategies. Understand how this accounts for liquidity and investment decisions."
+category: quant_concept
+description: Explore the significance of restricted cash in balance sheets and its
+  impact on algorithmic trading strategies. Understand how this accounts for liquidity
+  and investment decisions.
+title: Restricted Cash on Balance Sheets (Algo Trading)
 ---
 
 In this rapidly evolving financial landscape, understanding the nuances of accounting principles is essential for businesses and investors alike. Among the myriad of financial topics, two stand out for their significance in contemporary finance: restricted cash and algorithmic trading. Restricted cash refers to funds designated for a specific purpose and not available for general business operations, affecting how businesses report liquidity on their balance sheets. Meanwhile, algorithmic trading utilizes computer algorithms to automate trading strategies, relying on precise financial data to optimize trades.

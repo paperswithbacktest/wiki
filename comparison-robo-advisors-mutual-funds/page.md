@@ -1,6 +1,8 @@
 ---
-title: "Comparison of Robo-Advisors and Mutual Funds (Algo Trading)"
-description: "Explore the benefits and features of robo-advisors and mutual funds in this detailed comparison to help you make informed investment decisions."
+category: trading_strategy
+description: Explore the benefits and features of robo-advisors and mutual funds in
+  this detailed comparison to help you make informed investment decisions.
+title: Comparison of Robo-Advisors and Mutual Funds (Algo Trading)
 ---
 
 The investment landscape has undergone significant transformation with the integration of technology, reshaping how individuals and institutions approach financial growth and wealth management. This evolution has introduced new investment methodologies such as robo-advisors, mutual funds, and algorithmic trading, each harnessing technology to enhance decision-making and operational efficiency.
@@ -177,4 +179,4 @@ Investors are encouraged to reflect on their personal goals and risk tolerance t
 
 [7]: P. Boyle, M. Broadie, & P. Glasserman (1997). ["Monte Carlo Methods for Security Pricing"](https://www.sciencedirect.com/science/article/pii/S0165188997000286). Journal of Economic Literature. 
 
-[8]: Malkiel, B. G. (1999). ["A Random Walk Down Wall Street"](https://drive.google.com/file/d/0B156xe8jOD8kZFRXelRaOU5lbTA/view?usp=drive_web&resourcekey=0-SRPgQ7d2YSs-2nUpMVf06Q). W.W. Norton & Company. 
+[8]: Malkiel, B. G. (1999). ["A Random Walk Down Wall Street"](https://drive.google.com/file/d/0B156xe8jOD8kZFRXelRaOU5lbTA/view?usp=drive_web&resourcekey=0-SRPgQ7d2YSs-2nUpMVf06Q). W.W. Norton & Company.

@@ -1,6 +1,9 @@
 ---
-title: "Direct Market Access: Uses and Benefits (Algo Trading)"
-description: "Explore the transformative impact of Direct Market Access in algorithmic trading and discover how it enables faster, efficient, and cost-effective trading execution."
+category: quant_concept
+description: Explore the transformative impact of Direct Market Access in algorithmic
+  trading and discover how it enables faster, efficient, and cost-effective trading
+  execution.
+title: 'Direct Market Access: Uses and Benefits (Algo Trading)'
 ---
 
 Stock trading has undergone significant transformations over the centuries, evolving from early face-to-face exchanges to electronic markets that operate at breakneck speeds. Initially, traders conducted business through open outcry methods on trading floors. Over time, the integration of telecommunication and computing technology made markets more accessible and efficient. The transition to electronic trading platforms not only democratized access to stock markets but also significantly reduced transaction costs and increased the speed of trading and settlement processes.

@@ -1,6 +1,8 @@
 ---
-title: "Comparison of Market Capitalization and Equity (Algo Trading)"
-description: "Explore the critical role of market capitalization, equity, and algorithmic trading in shaping investment strategies for effective market navigation."
+category: quant_concept
+description: Explore the critical role of market capitalization, equity, and algorithmic
+  trading in shaping investment strategies for effective market navigation.
+title: Comparison of Market Capitalization and Equity (Algo Trading)
 ---
 
 In the modern financial landscape, comprehending key financial metrics and trading technologies is essential for investors and traders aiming to navigate the complexities of the market effectively. This article highlights the importance of understanding market capitalization, equity, and algorithmic trading, emphasizing their collective impact on shaping investment strategies.
@@ -136,4 +138,3 @@ Further exploration of the topics covered can be found in various financial anal
 - **Books on Financial Metrics and Algorithmic Trading**: Publications such as "Algorithmic Trading: Winning Strategies and Their Rationale" by Ernest P. Chan, and "The Intelligent Investor" by Benjamin Graham provide in-depth insights into the use of quantitative models and traditional investing methodologies. These books equip investors with the principles needed to optimize their investment strategies, incorporating both fundamental financial analysis and advanced trading technologies.
 
 Utilizing these resources helps investors build robust knowledge bases, enabling them to navigate the complexities of modern financial markets with confidence.
-

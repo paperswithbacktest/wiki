@@ -1,6 +1,9 @@
 ---
-title: "Sales Tax Rates by U.S. State (Algo Trading)"
-description: "Explore the complexities of U.S. state tax rates and their impact on businesses and consumers. Learn how they intersect with algorithmic trading and economic decisions."
+category: dataset
+description: Explore the complexities of U.S. state tax rates and their impact on
+  businesses and consumers. Learn how they intersect with algorithmic trading and
+  economic decisions.
+title: Sales Tax Rates by U.S. State (Algo Trading)
 ---
 
 Understanding state tax rates in the United States is crucial for individuals, businesses, and policymakers alike. These tax rates, a combination of income, sales, property, and other state-imposed levies, significantly influence economic behavior by affecting disposable income, consumption patterns, and business investment decisions. Notably, sales tax constitutes a significant component of state revenue. This consumption tax, levied on the sale of goods and services, varies widely not just in rates but in application from one state to another, and plays a vital role in funding state and local government activities.

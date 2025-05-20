@@ -1,6 +1,9 @@
 ---
-title: "Incentive Stock Options (Algo Trading)"
-description: "Explore the benefits of incentive stock options combined with algorithmic trading strategies for enhancing employee compensation while optimizing tax and financial outcomes."
+category: quant_concept
+description: Explore the benefits of incentive stock options combined with algorithmic
+  trading strategies for enhancing employee compensation while optimizing tax and
+  financial outcomes.
+title: Incentive Stock Options (Algo Trading)
 ---
 
 Incentive Stock Options (ISOs) represent a key element in modern employee compensation packages, offering substantial benefits that go beyond mere stock ownership. For both employees and employers, a comprehensive understanding of ISOs is essential. Employees receive the right to purchase company stock at a predetermined price, often lower than the market value, providing an opportunity for financial gain should the company's stock appreciate. Employers, on the other hand, leverage ISOs to attract and retain key talent by aligning employee and company interests through stock ownership.

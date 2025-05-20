@@ -1,7 +1,8 @@
 ---
-title: Einsum Notation Guide for Simplifying Tensor Operations
+category: quant_concept
 description: Einsum notation provides a concise way to express tensor operations in
   machine learning, enhancing code clarity and performance. Discover more inside.
+title: Einsum Notation Guide for Simplifying Tensor Operations
 ---
 
 ![Image](images/1.png)

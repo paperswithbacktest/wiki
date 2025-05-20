@@ -1,6 +1,9 @@
 ---
-title: "Henry Hub: Overview, Location, Ownership, and Connections (Algo Trading)"
-description: "Explore the pivotal role of Henry Hub in the U.S. natural gas market and the impact of algorithmic trading on optimizing trading strategies and financial gains."
+category: dataset
+description: Explore the pivotal role of Henry Hub in the U.S. natural gas market
+  and the impact of algorithmic trading on optimizing trading strategies and financial
+  gains.
+title: 'Henry Hub: Overview, Location, Ownership, and Connections (Algo Trading)'
 ---
 
 The natural gas energy market is a crucial component of the global energy landscape, providing a significant source of energy that fuels electricity generation, heating, and industrial processes worldwide. As nations seek to transition towards cleaner energy solutions, natural gas stands out due to its relatively lower carbon emissions compared to other fossil fuels, thereby playing a pivotal role in achieving global energy goals.

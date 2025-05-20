@@ -1,6 +1,13 @@
 ---
-title: "Dual Momentum Trading Strategy Explained (Algo Trading)"
-description: Discover the dual momentum trading strategy that combines absolute and relative momentum to enhance investment decisions within algorithmic trading. Learn how this innovative approach, pioneered by Gary Antonacci, leverages the momentum effect for potentially higher returns while managing risks. This article investigates into strategy applications, implementation in automated systems, and offers a comprehensive analysis of dual momentum's advantages over conventional strategies in today's dynamic market landscape.
+category: trading_strategy
+description: Discover the dual momentum trading strategy that combines absolute and
+  relative momentum to enhance investment decisions within algorithmic trading. Learn
+  how this innovative approach, pioneered by Gary Antonacci, leverages the momentum
+  effect for potentially higher returns while managing risks. This article investigates
+  into strategy applications, implementation in automated systems, and offers a comprehensive
+  analysis of dual momentum's advantages over conventional strategies in today's dynamic
+  market landscape.
+title: Dual Momentum Trading Strategy Explained (Algo Trading)
 ---
 
 Algorithmic trading has become a pervasive force in modern financial markets, driven by the need to process large amounts of data and execute trades at speeds beyond human capabilities. As traders continuously seek innovative approaches to outperform the market, one strategy that has garnered attention is the dual momentum strategy. This approach, developed by Gary Antonacci, incorporates both absolute momentum and relative momentum to inform trading decisions, setting it apart from traditional momentum strategies.

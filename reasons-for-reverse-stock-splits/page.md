@@ -1,6 +1,8 @@
 ---
-title: "Reasons for Reverse Stock Splits (Algo Trading)"
-description: "Discover how reverse stock splits impact algorithmic trading and investor strategies Learn how these corporate actions affect stock prices and market perceptions"
+category: quant_concept
+description: Discover how reverse stock splits impact algorithmic trading and investor
+  strategies Learn how these corporate actions affect stock prices and market perceptions
+title: Reasons for Reverse Stock Splits (Algo Trading)
 ---
 
 The convergence of financial management, strategic corporate actions, and algorithmic trading has created a dynamic landscape for investors seeking to optimize their investment strategies. Among the various corporate actions, reverse stock splits serve as a critical mechanism with significant implications for both corporate strategy and investor perception. By consolidating existing shares into fewer units while increasing the price per share, reverse stock splits aim to meet listing requirements, enhance the appeal of stocks, or signal financial restructuring efforts.

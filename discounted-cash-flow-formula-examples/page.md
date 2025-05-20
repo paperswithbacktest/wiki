@@ -1,6 +1,14 @@
 ---
-title: "Discounted Cash Flow: Formula and Examples (Algo Trading)"
-description: "Explore the fundamentals of Discounted Cash Flow (DCF) analysis and its application in investment valuation. DCF is a method that assesses the present value of expected future cash flows, vital for making informed financial decisions. By understanding this technique, investors can evaluate potential profitability and align strategies with long-term goals. This article also highlights DCF's role in algorithmic trading, offering insights into enhancing automated investment strategies. Learn the methodology, formulas, and practical examples to gain a strategic edge in finance and resource allocation."
+category: quant_concept
+description: Explore the fundamentals of Discounted Cash Flow (DCF) analysis and its
+  application in investment valuation. DCF is a method that assesses the present value
+  of expected future cash flows, vital for making informed financial decisions. By
+  understanding this technique, investors can evaluate potential profitability and
+  align strategies with long-term goals. This article also highlights DCF's role in
+  algorithmic trading, offering insights into enhancing automated investment strategies.
+  Learn the methodology, formulas, and practical examples to gain a strategic edge
+  in finance and resource allocation.
+title: 'Discounted Cash Flow: Formula and Examples (Algo Trading)'
 ---
 
 Understanding the value of an investment is crucial in making informed financial decisions. Discounted Cash Flow (DCF) analysis is a powerful tool used for this purpose. DCF analysis is a valuation method that estimates the value of an investment based on its expected future cash flows. By using DCF, investors can determine the present value of these cash flows, taking into account factors such as time and risk.

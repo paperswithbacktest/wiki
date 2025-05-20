@@ -1,6 +1,9 @@
 ---
-title: "Comparison of Commodity Spot and Futures Prices (Algo Trading)"
-description: "Explore the dynamics between commodity spot and futures prices influenced by algo trading. Understand market trends, risk management, and price discovery strategies."
+category: quant_concept
+description: Explore the dynamics between commodity spot and futures prices influenced
+  by algo trading. Understand market trends, risk management, and price discovery
+  strategies.
+title: Comparison of Commodity Spot and Futures Prices (Algo Trading)
 ---
 
 Commodity markets serve as fundamental pillars of global trade, encompassing a wide range of raw materials and primary agricultural products that are traded internationally. These markets are integral to the world economy as they provide mechanisms for price discovery, risk management, and hedging. Commodities like crude oil, gold, and wheat not only satisfy basic human needs but also support various industries and national economies. Their prices can influence inflation rates, economic policymaking, and international trade balances.

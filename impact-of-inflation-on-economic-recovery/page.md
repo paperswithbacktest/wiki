@@ -1,6 +1,8 @@
 ---
-title: "Impact of Inflation on Economic Recovery (Algo Trading)"
-description: "Explore how inflation impacts economic recovery and the strategic role of algorithmic trading in managing inflationary challenges while fostering growth."
+category: quant_concept
+description: Explore how inflation impacts economic recovery and the strategic role
+  of algorithmic trading in managing inflationary challenges while fostering growth.
+title: Impact of Inflation on Economic Recovery (Algo Trading)
 ---
 
 The global economy is in a constant state of flux, shaped by pivotal themes such as economic recovery, inflation, and technological advancements. These elements are crucial in understanding the complex and interconnected nature of modern economics.

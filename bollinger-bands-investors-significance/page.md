@@ -1,6 +1,9 @@
 ---
-title: "Bollinger Bands and Their Significance for Investors (Algo Trading)"
-description: "Discover how Bollinger Bands help investors identify market conditions in algorithmic trading Enhance your technical analysis with this guide to strategic integration"
+category: trading_strategy
+description: Discover how Bollinger Bands help investors identify market conditions
+  in algorithmic trading Enhance your technical analysis with this guide to strategic
+  integration
+title: Bollinger Bands and Their Significance for Investors (Algo Trading)
 ---
 
 Bollinger Bands are a widely used technical analysis tool developed by John Bollinger in the 1980s. They are designed to help investors identify potential overbought or oversold market conditions, which are key elements in developing trading strategies and making informed trading decisions. This article examines how Bollinger Bands can be effectively integrated into technical analysis and algorithmic trading strategies.

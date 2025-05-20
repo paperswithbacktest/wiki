@@ -1,6 +1,9 @@
 ---
-title: "One-Year Constant Maturity Treasury (Algo Trading)"
-description: "Discover how One-Year Constant Maturity Treasury notes and algorithmic trading influence investment strategies enhancing portfolio management and financial success."
+category: trading_strategy
+description: Discover how One-Year Constant Maturity Treasury notes and algorithmic
+  trading influence investment strategies enhancing portfolio management and financial
+  success.
+title: One-Year Constant Maturity Treasury (Algo Trading)
 ---
 
 In the rapidly evolving financial landscape, understanding the interplay between various financial instruments is crucial for effective investment strategies. Treasury notes, government bonds, and algorithmic trading stand as pivotal components in financial markets. These elements are integral to both traditional and modern investment techniques, influencing how investors approach portfolio management and asset allocation.

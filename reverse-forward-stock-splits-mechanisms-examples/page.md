@@ -1,6 +1,13 @@
 ---
-title: "Reverse and Forward Stock Splits: Mechanisms and Examples (Algo Trading)"
-description: "Explore the detailed mechanisms and real-world implications of reverse and forward stock splits. This informative article provides insight into how these corporate actions affect stock value, market perception, and investor strategies. Understand the objectives and impacts of different stock split types and how they interplay with algorithmic trading to influence market dynamics and liquidity. Equip yourself with the essential knowledge to navigate and capitalize on the opportunities presented by stock splits in the modern financial landscape."
+category: quant_concept
+description: Explore the detailed mechanisms and real-world implications of reverse
+  and forward stock splits. This informative article provides insight into how these
+  corporate actions affect stock value, market perception, and investor strategies.
+  Understand the objectives and impacts of different stock split types and how they
+  interplay with algorithmic trading to influence market dynamics and liquidity. Equip
+  yourself with the essential knowledge to navigate and capitalize on the opportunities
+  presented by stock splits in the modern financial landscape.
+title: 'Reverse and Forward Stock Splits: Mechanisms and Examples (Algo Trading)'
 ---
 
 Stock splits are crucial corporate actions that significantly impact stock value and investor perception. By altering the number of shares outstanding while maintaining the market capitalization, stock splits can influence a company's accessibility to investors and its liquidity in the market. This article explores two primary types of stock splits: forward stock splits, which increase the total number of shares and are usually employed to make shares more affordable to a broader range of investors, and reverse stock splits, which consolidate shares to raise the stock price and meet listing requirements or improve market perceptions.

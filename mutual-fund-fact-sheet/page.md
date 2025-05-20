@@ -1,6 +1,9 @@
 ---
-title: "Mutual Fund Fact Sheet (Algo Trading)"
-description: "Explore the benefits of mutual funds and algorithmic trading through this comprehensive guide to mutual fund fact sheets and modern trading systems for investors."
+category: quant_concept
+description: Explore the benefits of mutual funds and algorithmic trading through
+  this comprehensive guide to mutual fund fact sheets and modern trading systems for
+  investors.
+title: Mutual Fund Fact Sheet (Algo Trading)
 ---
 
 Investment markets offer a complex network of opportunities and challenges, where navigating the myriad of products can often be overwhelming. Among the multitude of available financial instruments, mutual funds and algorithmic trading have gained significant traction among investors due to their distinct benefits and strategies. Mutual funds are widely recognized for their ability to manage risk while providing diversification through a pooled fund structure. They enable investors to access a broad range of securities, thereby minimizing individual stock risk and enhancing portfolio stability.

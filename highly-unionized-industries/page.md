@@ -1,6 +1,9 @@
 ---
-title: "List of Highly Unionized Industries (Algo Trading)"
-description: "Discover how technological advancements like algorithmic trading are reshaping unionized industries and presenting both challenges and opportunities for labor unions."
+category: quant_concept
+description: Discover how technological advancements like algorithmic trading are
+  reshaping unionized industries and presenting both challenges and opportunities
+  for labor unions.
+title: List of Highly Unionized Industries (Algo Trading)
 ---
 
 The current landscape of unionized industries is increasingly influenced by technological advancements, which both challenge and provide new opportunities for labor unions. Historically, labor unions have been instrumental in advocating for workers' rights, often through campaigns for fair wages, improved working conditions, and benefits. These efforts have significantly shaped the labor environment over the past century and continue to be relevant in contemporary settings.

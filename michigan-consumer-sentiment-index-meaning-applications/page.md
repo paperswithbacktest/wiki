@@ -1,6 +1,8 @@
 ---
-title: "Michigan Consumer Sentiment Index: Meaning and Applications (Algo Trading)"
-description: "Explore how the Michigan Consumer Sentiment Index influences algorithmic trading strategies and informs investment decisions by reflecting economic trends."
+category: quant_concept
+description: Explore how the Michigan Consumer Sentiment Index influences algorithmic
+  trading strategies and informs investment decisions by reflecting economic trends.
+title: 'Michigan Consumer Sentiment Index: Meaning and Applications (Algo Trading)'
 ---
 
 In the world of financial markets, both consumer sentiment and algorithmic trading play pivotal roles in shaping investment strategies. Consumer sentiment can greatly influence economic activity, as it reflects the confidence individuals have in their financial well-being and the broader economic landscape. The Michigan Consumer Sentiment Index (MCSI) offers valuable insights into consumer confidence in the United States, which in turn impacts economic indicators such as consumer spending—a significant component of the U.S. Gross Domestic Product (GDP).

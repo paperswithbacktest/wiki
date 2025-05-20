@@ -1,6 +1,9 @@
 ---
-title: "Killer Application: Definition and Impact (Algo Trading)"
-description: "Explore the impact of killer applications in trading technology and how algorithmic trading has transformed market dynamics by optimizing operations and efficiency."
+category: quant_concept
+description: Explore the impact of killer applications in trading technology and how
+  algorithmic trading has transformed market dynamics by optimizing operations and
+  efficiency.
+title: 'Killer Application: Definition and Impact (Algo Trading)'
 ---
 
 The rapid evolution of technology has profoundly impacted various industries, with trading being among the most affected sectors. Historically, trading commenced on bustling open outcry floors, where communication relied on visual and verbal signals. These floors were synonymous with human-driven decision-making and direct market interactions. However, technological advancements have instigated numerous transformations, culminating in the advent of algorithm-driven trading decisions. The trading industry has been reshaped through these innovations, significantly altering how financial transactions are conducted.

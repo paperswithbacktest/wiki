@@ -1,7 +1,8 @@
 ---
-title: Understanding Mean Squared Error in Machine Learning Models
+category: quant_concept
 description: Mean Squared Error measures prediction accuracy by averaging squared
   errors to penalize large mistakes and guide model optimization Discover more inside
+title: Understanding Mean Squared Error in Machine Learning Models
 ---
 
 ![Image](images/1.jpeg)

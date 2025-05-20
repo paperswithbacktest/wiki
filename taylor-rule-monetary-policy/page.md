@@ -1,6 +1,8 @@
 ---
-title: "Taylor Rule in Monetary Policy (Algo Trading)"
-description: "Explore the Taylor Rule's role in monetary policy and algorithmic trading. Learn how this economic tool aids in interest rate adjustments and economic stability."
+category: quant_concept
+description: Explore the Taylor Rule's role in monetary policy and algorithmic trading.
+  Learn how this economic tool aids in interest rate adjustments and economic stability.
+title: Taylor Rule in Monetary Policy (Algo Trading)
 ---
 
 The Taylor Rule is a fundamental formula in economic policymaking, playing a crucial role in the guidance of monetary policy. Developed by economist John Taylor, it offers a methodical framework that allows central banks like the Federal Reserve to adjust interest rates in response to shifts in inflation and economic growth. By providing a structured formula, the Taylor Rule assists central banks in maintaining equilibrium, thus ensuring economic stability.

@@ -1,6 +1,9 @@
 ---
-title: "Target-Risk Fund (Algo Trading)"
-description: "Explore the innovative strategies of target-risk funds and algorithmic trading to optimize your investment portfolio by balancing risk management and market opportunities."
+category: trading_strategy
+description: Explore the innovative strategies of target-risk funds and algorithmic
+  trading to optimize your investment portfolio by balancing risk management and market
+  opportunities.
+title: Target-Risk Fund (Algo Trading)
 ---
 
 In modern investment landscapes, comprehending the nuances of target-risk funds and algorithmic trading has become essential for investors aiming to optimize their portfolios. These strategies represent distinct, yet potentially complementary, approaches to managing risk and achieving financial goals. By effectively aligning investment choices with individual risk profiles, investors can better navigate market volatilities.

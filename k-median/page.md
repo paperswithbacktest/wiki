@@ -1,7 +1,8 @@
 ---
-title: Understanding K-Median Clustering in Machine Learning
+category: quant_concept
 description: K-Median clustering uses median-based centers to minimize distance and
   resist outliers for robust grouping in logistics analytics Discover more inside
+title: Understanding K-Median Clustering in Machine Learning
 ---
 
 ![Image](images/1.png)

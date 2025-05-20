@@ -1,6 +1,8 @@
 ---
-title: "Safe Assets: Meaning and Functionality (Algo Trading)"
-description: "Explore how safe assets and algorithmic trading contribute to financial stability and growth in investment portfolios by mitigating risk and enhancing returns."
+category: quant_concept
+description: Explore how safe assets and algorithmic trading contribute to financial
+  stability and growth in investment portfolios by mitigating risk and enhancing returns.
+title: 'Safe Assets: Meaning and Functionality (Algo Trading)'
 ---
 
 In today's dynamic financial landscape, investors constantly seek strategies that offer both stability and growth in their investment portfolios. Financial stability is a primary concern, driving individuals and institutions alike towards assets and methods that can secure their capital against volatility in the markets. Two pivotal concepts in achieving financial security and optimizing investment returns are safe assets and algorithmic trading (also referred to as algo trading).

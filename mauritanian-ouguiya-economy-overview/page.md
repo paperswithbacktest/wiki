@@ -1,6 +1,8 @@
 ---
-title: "Mauritanian Ouguiya and Economy Overview (Algo Trading)"
-description: "Explore how Mauritania's resource-based economy impacts the Mauritanian Ouguiya and discover the role of algorithmic trading in the evolving forex market."
+category: dataset
+description: Explore how Mauritania's resource-based economy impacts the Mauritanian
+  Ouguiya and discover the role of algorithmic trading in the evolving forex market.
+title: Mauritanian Ouguiya and Economy Overview (Algo Trading)
 ---
 
 Mauritania, located in Northwestern Africa, relies heavily on its natural resources, with sectors like agriculture, fishing, and mining forming the backbone of its economy. This economic foundation is closely tied to the Mauritanian Ouguiya (MRO), the country’s national currency. The economy's performance directly influences the MRO’s value, affecting its stability and appeal to investors.

@@ -1,7 +1,8 @@
 ---
-title: Essential N-Gram Models and Applications in Machine Learning
+category: quant_concept
 description: N-Gram models break text into sequences to improve machine learning predictions
   for translation classification and sentiment analysis Discover more inside
+title: Essential N-Gram Models and Applications in Machine Learning
 ---
 
 ![Image](images/1.png)

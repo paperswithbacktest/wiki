@@ -1,6 +1,14 @@
 ---
-title: "Arbitrage: Concepts and Examples (Algo Trading)"
-description: "Explore the transformative world of arbitrage and algorithmic trading where advanced technologies are revolutionizing investment strategies in financial markets. Learn how arbitrage exploits price discrepancies of the same asset across different markets for profit and how algorithmic trading uses computer algorithms for rapid trading decisions. This article investigates into essential concepts and strategies highlighting their advantages and risks offering insights into efficient market practices. Discover the role of arbitrageurs in market efficiency and the innovative strategies within algorithmic trading driving modern investment frameworks."
+category: quant_concept
+description: Explore the transformative world of arbitrage and algorithmic trading
+  where advanced technologies are revolutionizing investment strategies in financial
+  markets. Learn how arbitrage exploits price discrepancies of the same asset across
+  different markets for profit and how algorithmic trading uses computer algorithms
+  for rapid trading decisions. This article investigates into essential concepts and
+  strategies highlighting their advantages and risks offering insights into efficient
+  market practices. Discover the role of arbitrageurs in market efficiency and the
+  innovative strategies within algorithmic trading driving modern investment frameworks.
+title: 'Arbitrage: Concepts and Examples (Algo Trading)'
 ---
 
 Investment strategies in financial markets have undergone significant transformation with the advent of advanced technologies. Among these innovations, arbitrage and algorithmic trading have emerged as crucial components of contemporary investment approaches. Arbitrage exploits price discrepancies of the same asset across different markets, allowing investors to profit from the instantaneous buying and selling of securities. On the other hand, algorithmic trading, often called algo trading, involves the use of computer algorithms to automate trading decisions, enabling transactions at speeds and frequencies far beyond human capability.

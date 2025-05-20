@@ -1,6 +1,8 @@
 ---
-title: "Kijun Line in Technical Analysis (Algo Trading)"
-description: "Explore the vital role of the Kijun Line in technical analysis and algo trading. Learn how it helps forecast market trends and make informed trading decisions."
+category: quant_concept
+description: Explore the vital role of the Kijun Line in technical analysis and algo
+  trading. Learn how it helps forecast market trends and make informed trading decisions.
+title: Kijun Line in Technical Analysis (Algo Trading)
 ---
 
 The world of trading is vast, encompassing a wide array of tools and strategies aimed at deciphering market behaviors and movements. Among these, technical analysis plays a pivotal role in assessing past market data to predict future price directions. A vital component of this analysis is the Kijun Line, which constitutes a significant part of the Ichimoku Cloud indicator. The Ichimoku Cloud, developed by journalist Goichi Hosoda, is a comprehensive system that provides traders with a rich visualization of market trends, momentum, and potential support and resistance levels. 

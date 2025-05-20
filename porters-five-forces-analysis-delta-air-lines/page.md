@@ -1,6 +1,9 @@
 ---
-title: "Porter's Five Forces Analysis of Delta Air Lines (Algo Trading)"
-description: "Explore Delta Air Lines' strategic use of Porter's Five Forces in combating competition and optimizing operations through innovative technologies like algorithmic trading."
+category: quant_concept
+description: Explore Delta Air Lines' strategic use of Porter's Five Forces in combating
+  competition and optimizing operations through innovative technologies like algorithmic
+  trading.
+title: Porter's Five Forces Analysis of Delta Air Lines (Algo Trading)
 ---
 
 The airline industry is a highly competitive and dynamic sector characterized by significant external and internal forces that directly impact profitability and operational efficiency. This environment challenges companies to continuously adapt and innovate to maintain viability and success. One effective analytical framework for assessing this competitive landscape is Porter's Five Forces, developed by Michael E. Porter. This model provides valuable insights by examining five critical forces that shape industry dynamics: industry rivalry, the threat of new entrants, the threat of substitutes, and the bargaining power held by buyers and suppliers. By understanding these forces, companies can identify both potential threats and opportunities, allowing them to strategically position themselves for sustainable growth.

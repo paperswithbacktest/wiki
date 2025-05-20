@@ -1,6 +1,9 @@
 ---
-title: "Andrew's Pitchfork Indicator (Algo Trading)"
-description: "Explore the Andrews Pitchfork indicator to enhance your trading strategy by identifying trends and reversals with its unique three-line system for better market insights."
+category: trading_strategy
+description: Explore the Andrews Pitchfork indicator to enhance your trading strategy
+  by identifying trends and reversals with its unique three-line system for better
+  market insights.
+title: Andrew's Pitchfork Indicator (Algo Trading)
 ---
 
 In the world of technical analysis, the Andrews Pitchfork is a unique tool that assists traders in identifying trends and potential reversal points. Developed by Alan Andrews, this indicator uses three parallel trend lines to form a pitchfork shape on price charts. The central line, or median line, is pivotal in predicting price movements, while the lines above and below it act as resistance and support levels, respectively. This method enables traders to foresee market trends and make informed decisions about their entry and exit strategies.

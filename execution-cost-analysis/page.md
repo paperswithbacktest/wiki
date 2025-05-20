@@ -1,6 +1,9 @@
 ---
-title: "Execution cost analysis (Algo Trading)"
-description: "Explore algorithmic trading by understanding execution costs that impact profitability Discover strategies to optimize explicit and implicit cost management in trading"
+category: quant_concept
+description: Explore algorithmic trading by understanding execution costs that impact
+  profitability Discover strategies to optimize explicit and implicit cost management
+  in trading
+title: Execution cost analysis (Algo Trading)
 ---
 
 Algorithmic trading has revolutionized the financial markets by enabling trades to be executed at lightning speed, fundamentally transforming the landscape of modern trading. At its core, algorithmic trading relies on pre-set instructions derived from mathematical models and statistical analysis, allowing traders to execute large volumes of trades with minimal human intervention. This rapid pace of trade execution, coupled with the ability to process vast quantities of data, has not only enhanced efficiency but also opened new avenues for profit generation in financial markets.

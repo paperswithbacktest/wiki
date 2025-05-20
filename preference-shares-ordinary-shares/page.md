@@ -1,6 +1,9 @@
 ---
-title: "Preference Shares and Ordinary Shares (Algo Trading)"
-description: "Explore the key differences between ordinary and preference shares and how they fit diverse investment strategies while considering algorithmic trading advancements."
+category: quant_concept
+description: Explore the key differences between ordinary and preference shares and
+  how they fit diverse investment strategies while considering algorithmic trading
+  advancements.
+title: Preference Shares and Ordinary Shares (Algo Trading)
 ---
 
 Understanding the different types of stocks is crucial for investors looking to diversify their portfolios. Ordinary shares and preference shares are two primary types of equity investments that serve different purposes and appeal to varying investor needs. Ordinary shares, often referred to as common shares, represent a basic form of ownership in a company, providing shareholders with the possibility of dividends and a voting stake in corporate decisions. On the other hand, preference shares offer a fixed dividend and a higher claim on assets in the event of liquidation but usually do not confer voting rights.

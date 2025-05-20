@@ -1,7 +1,8 @@
 ---
-title: Exploring Recurrent Neural Networks Architecture and Applications
+category: quant_concept
 description: Recurrent Neural Networks process sequential data one step at a time
   using memory loops to capture context and improve predictions. Discover more inside.
+title: Exploring Recurrent Neural Networks Architecture and Applications
 ---
 
 ![Image](images/1.webp)

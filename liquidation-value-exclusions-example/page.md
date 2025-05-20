@@ -1,6 +1,8 @@
 ---
-title: "Liquidation Value Exclusions and Example (Algo Trading)"
-description: "Explore the intersection of liquidation value asset valuation and algorithmic trading in financial markets Learn how these concepts impact investors and stakeholders"
+category: quant_concept
+description: Explore the intersection of liquidation value asset valuation and algorithmic
+  trading in financial markets Learn how these concepts impact investors and stakeholders
+title: Liquidation Value Exclusions and Example (Algo Trading)
 ---
 
 Understanding financial terminologies related to business valuations is crucial for making informed decisions. In this context, concepts like liquidation value and asset valuation are vital in assessing a company's financial health, especially during volatile markets. Liquidation value refers to the net worth of a company's physical assets if it were to cease operations and sell its assets promptly, excluding intangibles. Meanwhile, asset valuation encompasses various methods to estimate asset worth under different conditions.

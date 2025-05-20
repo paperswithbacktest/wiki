@@ -1,6 +1,9 @@
 ---
-title: "Long Inverse Floating Exempt Receipt (Algo Trading)"
-description: "Explore how Long Inverse Floating Exempt Receipts and algorithmic trading combine to create innovative investment strategies that optimize returns and manage risk."
+category: trading_strategy
+description: Explore how Long Inverse Floating Exempt Receipts and algorithmic trading
+  combine to create innovative investment strategies that optimize returns and manage
+  risk.
+title: Long Inverse Floating Exempt Receipt (Algo Trading)
 ---
 
 In the rapidly evolving world of finance, investment strategies and tools have become increasingly sophisticated, adapting to the dynamic nature of global markets. Among the significant developments in this landscape are financial instruments such as the Long Inverse Floating Exempt Receipt (LIFER) and algorithmic trading systems. Both have reshaped traditional investment paradigms by offering innovative ways to optimize returns and manage risks.

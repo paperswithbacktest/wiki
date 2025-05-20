@@ -1,7 +1,8 @@
 ---
-title: Document Summary Evaluation Techniques and Metrics
+category: quant_concept
 description: Document summary evaluation measures how machine summaries capture key
   ideas using metrics like ROUGE BLANC and human feedback. Discover more inside.
+title: Document Summary Evaluation Techniques and Metrics
 ---
 
 ![Image](images/1.png)

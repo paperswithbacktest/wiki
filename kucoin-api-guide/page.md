@@ -1,6 +1,13 @@
 ---
-title: "KuCoin API Guide (Algo Trading)"
-description: Explore the KuCoin API Guide to enhance your algorithmic trading strategies. Discover how this comprehensive API can automate trades, access real-time market data, and manage accounts, optimizing speed and efficiency for novice and experienced traders alike. KuCoin has established itself as a leading cryptocurrency exchange since 2017, known for its wide range of digital assets, competitive fees, and robust security features. Learn how to leverage the KuCoin API for advanced trading opportunities and maximize profitability while minimizing human error.
+category: dataset
+description: Explore the KuCoin API Guide to enhance your algorithmic trading strategies.
+  Discover how this comprehensive API can automate trades, access real-time market
+  data, and manage accounts, optimizing speed and efficiency for novice and experienced
+  traders alike. KuCoin has established itself as a leading cryptocurrency exchange
+  since 2017, known for its wide range of digital assets, competitive fees, and robust
+  security features. Learn how to leverage the KuCoin API for advanced trading opportunities
+  and maximize profitability while minimizing human error.
+title: KuCoin API Guide (Algo Trading)
 ---
 
 Algorithmic trading, a method that employs algorithms to automate trading processes, has become increasingly important in modern financial markets. Its usage involves using pre-defined criteria for placing trades and can process transactions at speeds and frequencies that are impossible for manual trading. This automation not only optimizes the execution of trades but also diminishes the impact of human emotions on trading decisions, leading to increased efficiency and reduced costs.

@@ -1,6 +1,8 @@
 ---
-title: "Rent Guarantee Insurance Overview (Algo Trading)"
-description: "Discover effective strategies for landlords to secure rental income and protect their investments with rent guarantee insurance and algorithmic trading."
+category: quant_concept
+description: Discover effective strategies for landlords to secure rental income and
+  protect their investments with rent guarantee insurance and algorithmic trading.
+title: Rent Guarantee Insurance Overview (Algo Trading)
 ---
 
 Landlords have the responsibility to manage and maintain rental properties, ensuring they are habitable, safe, and compliant with local regulations. They must handle tenant relations, including screening potential tenants and addressing their concerns in a timely manner. A critical component of these responsibilities is securing rental income, which is essential for covering mortgage payments, property taxes, maintenance costs, and generating profit. Irregular or missed rent payments can destabilize financial planning, potentially leading to significant economic strain.

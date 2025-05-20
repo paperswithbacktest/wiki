@@ -1,6 +1,8 @@
 ---
-title: "Dash to Trash: Meaning, Factors, and Examples (Algo Trading)"
-description: "Explore the meaning of dash to trash in algo trading as investors target low-quality stocks in bullish markets Learn about the factors and market effects"
+category: trading_strategy
+description: Explore the meaning of dash to trash in algo trading as investors target
+  low-quality stocks in bullish markets Learn about the factors and market effects
+title: 'Dash to Trash: Meaning, Factors, and Examples (Algo Trading)'
 ---
 
 In the complex world of finance, investment strategies are constantly evolving to respond to market dynamics and technological advancements. A recent trend gaining traction is the phenomenon known as "dash to trash," particularly within the sphere of algorithmic trading. This term refers to the rush among investors to acquire low-quality stocks—often characterized by poor fundamentals—during bullish market trends. Such behavior is speculative in nature and is driven by the potential for rapid gains as these stocks are pushed to prices exceeding their intrinsic value.

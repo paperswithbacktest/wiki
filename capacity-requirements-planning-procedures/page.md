@@ -1,6 +1,9 @@
 ---
-title: "Capacity Requirements Planning and Procedures (Algo Trading)"
-description: "Optimize production with Capacity Requirements Planning CRP by aligning resources with demand. Enhance efficiency using algorithmic trading techniques in CRP."
+category: quant_concept
+description: Optimize production with Capacity Requirements Planning CRP by aligning
+  resources with demand. Enhance efficiency using algorithmic trading techniques in
+  CRP.
+title: Capacity Requirements Planning and Procedures (Algo Trading)
 ---
 
 In today's dynamic business environment, balancing production capacity with demand is crucial for success. Capacity planning, especially through Capacity Requirements Planning (CRP), plays a pivotal role in ensuring that businesses can meet production goals efficiently. CRP assesses whether existing resources, including labor and machinery, can accommodate planned production levels. This process is essential for identifying potential bottlenecks and adjusting schedules to ensure smooth operations.

@@ -1,10 +1,9 @@
 ---
-title: Understanding Perplexity in Language Model Evaluation
+category: quant_concept
 description: Perplexity helps you measure how well language models predict text by
   quantifying model surprise through entropy based metrics Discover more inside
+title: Understanding Perplexity in Language Model Evaluation
 ---
-
-
 
 ## Table of Contents
 

@@ -1,10 +1,9 @@
 ---
-title: Implementing Effective Replay Buffers for Reinforcement Learning
+category: quant_concept
 description: Replay Buffer in reinforcement learning stores past experiences and breaks
   data correlations to stabilize deep Q learning training. Discover more inside.
+title: Implementing Effective Replay Buffers for Reinforcement Learning
 ---
-
-
 
 ## Table of Contents
 

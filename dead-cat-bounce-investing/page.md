@@ -1,6 +1,8 @@
 ---
-title: "Dead Cat Bounce in Investing (Algo Trading)"
-description: "Explore the concept of dead cat bounce in investing and uncover how algorithmic trading impacts modern market strategies and investor decisions."
+category: quant_concept
+description: Explore the concept of dead cat bounce in investing and uncover how algorithmic
+  trading impacts modern market strategies and investor decisions.
+title: Dead Cat Bounce in Investing (Algo Trading)
 ---
 
 In the ever-evolving world of finance, understanding market trends is crucial for investors seeking to maximize returns and minimize risks. One of the intriguing phenomena in the market is the "dead cat bounce," a term used to describe a temporary recovery in the price of a declining asset. This phenomenon often misleads investors into perceiving a short-term market revival, only for the prices to plunge once again. Recognizing and interpreting these misleading signals is pivotal to effective investing.

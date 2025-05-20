@@ -1,6 +1,8 @@
 ---
-title: "Comparison of Relative Strength Index and Stochastic Oscillator (Algo Trading)"
-description: "Compare the RSI and Stochastic Oscillator to optimize your trading strategy. Learn their differences and how they enhance algorithmic trading decisions."
+category: trading_strategy
+description: Compare the RSI and Stochastic Oscillator to optimize your trading strategy.
+  Learn their differences and how they enhance algorithmic trading decisions.
+title: Comparison of Relative Strength Index and Stochastic Oscillator (Algo Trading)
 ---
 
 Technical analysis tools are essential components in trading, providing traders with a systematic approach to evaluating securities and predicting future price movements. These tools encompass various techniques, including momentum indicators, which are pivotal in assessing the speed and direction of price changes. Momentum indicators are crucial in determining the strength of market trends, thereby aiding traders in making informed decisions.

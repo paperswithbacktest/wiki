@@ -1,6 +1,8 @@
 ---
-title: "Asset Ledger: Overview and Functionality (Algo Trading)"
-description: "Explore the role of asset ledgers in modern financial technology and algorithmic trading to improve asset management and trading efficiency with transparency."
+category: quant_concept
+description: Explore the role of asset ledgers in modern financial technology and
+  algorithmic trading to improve asset management and trading efficiency with transparency.
+title: 'Asset Ledger: Overview and Functionality (Algo Trading)'
 ---
 
 The swift advancement of financial technology is fundamentally altering the ways in which assets are managed and traded. At the core of this transformation are asset ledgers, essential tools for maintaining financial records with precision and clarity. Asset ledgers ensure that each transaction is accurately recorded, fostering an environment of transparency and accountability. Meanwhile, algorithmic trading has become a formidable force in financial markets, utilizing sophisticated algorithms to develop and implement optimal trading strategies with impressive speed and precision.

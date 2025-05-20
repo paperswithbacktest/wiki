@@ -1,6 +1,8 @@
 ---
-title: "Dividend Per Share and Its Implications for Investors (Algo Trading)"
-description: "Discover how Dividend Per Share (DPS) impacts investment strategies and learn its integration in algorithmic trading to enhance decision-making and returns."
+category: quant_concept
+description: Discover how Dividend Per Share (DPS) impacts investment strategies and
+  learn its integration in algorithmic trading to enhance decision-making and returns.
+title: Dividend Per Share and Its Implications for Investors (Algo Trading)
 ---
 
 Financial analysis is essential for investors who wish to make informed decisions in the stock market. Two key metrics often evaluated during this process are Dividend Per Share (DPS) and Earnings Per Share (EPS). DPS measures the dividend amount paid to shareholders on a per-share basis, reflecting the company's profitability and its commitment to returning value to shareholders. EPS, on the other hand, provides insight into a company's profitability by indicating how much money it earns for each outstanding share of common stock.
@@ -140,4 +142,3 @@ Research papers exploring the impact of algorithmic trading in financial markets
 Books on dividend investing offer comprehensive strategies on building portfolios that focus on companies with consistent dividend payments. These resources delve into identifying firms with sustainable dividend policies and understanding their underlying financial metrics, including DPS.
 
 Additionally, literature on algorithmic trading strategies explores the integration of financial metrics into automated trading systems. These [books](/wiki/algo-trading-books) often include coding examples, primarily in Python, demonstrating how to implement algorithms for analyzing stock performance metrics like DPS and executing trades accordingly. Readers can enhance their technical and analytical skills to effectively employ algorithms in portfolio management, optimizing returns while managing risks.
-

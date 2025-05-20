@@ -1,6 +1,8 @@
 ---
-title: "Adjunct Account: Overview and Functionality (Algo Trading)"
-description: "Explore the essential role of adjunct accounts in enhancing financial transparency and decision-making in algorithmic trading and corporate finance strategies."
+category: quant_concept
+description: Explore the essential role of adjunct accounts in enhancing financial
+  transparency and decision-making in algorithmic trading and corporate finance strategies.
+title: 'Adjunct Account: Overview and Functionality (Algo Trading)'
 ---
 
 In finance, understanding various accounting concepts is crucial for effective management and financial reporting. Among these concepts, adjunct accounts hold a significant place. These accounts serve as tools for increasing the valuation of liability accounts, thereby providing a more clarified view of a company's financial position. By adjusting the book value of liabilities, adjunct accounts facilitate a more accurate representation of a company’s financial health and obligations.

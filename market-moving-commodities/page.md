@@ -1,6 +1,8 @@
 ---
-title: "Market-Moving Commodities (Algo Trading)"
-description: "Explore how commodities like energy products and metals shape global markets through algorithmic trading Learn about market dynamics and trading strategies"
+category: quant_concept
+description: Explore how commodities like energy products and metals shape global
+  markets through algorithmic trading Learn about market dynamics and trading strategies
+title: Market-Moving Commodities (Algo Trading)
 ---
 
 Commodities are fundamental components of the global financial markets, encompassing diverse categories such as energy products (e.g., oil and natural gas), metals (e.g., gold, silver), and agricultural goods (e.g., wheat, soybeans). These tangible goods are traded on various exchanges worldwide and act as essential drivers of economic activities, influencing both local and international markets. Traders and investors often turn to commodities not only for their intrinsic economic value but also for their potential to affect and be affected by broader market trends and geopolitical events.

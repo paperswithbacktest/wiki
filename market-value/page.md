@@ -1,6 +1,12 @@
 ---
-title: "Market Value (Algo Trading)"
-description: "Explore the transformative impact of market value and algorithmic trading in modern finance. Understand how these concepts redefine asset valuation, enhance trading efficiency, and influence investment strategies. Delve into the roles of automation in trading, the interplay of market dynamics, and the importance of regulatory frameworks in ensuring transparency and stability in global markets. Discover the synergy between technology and economics shaping today's financial landscape."
+category: quant_concept
+description: Explore the transformative impact of market value and algorithmic trading
+  in modern finance. Understand how these concepts redefine asset valuation, enhance
+  trading efficiency, and influence investment strategies. Delve into the roles of
+  automation in trading, the interplay of market dynamics, and the importance of regulatory
+  frameworks in ensuring transparency and stability in global markets. Discover the
+  synergy between technology and economics shaping today's financial landscape.
+title: Market Value (Algo Trading)
 ---
 
 The world of finance has experienced notable changes, especially in the valuation and trading of assets. Key concepts in valuation economics, including market value and the emergence of algorithmic trading, have played crucial roles in transforming modern financial markets. Market value serves as a benchmark for determining an asset's current worth based on prevailing market conditions and sentiments. Unlike book value, which relies on historical financial data, market value reflects perceptions shaped by the dynamics of supply and demand.

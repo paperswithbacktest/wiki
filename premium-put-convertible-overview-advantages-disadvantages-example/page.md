@@ -1,6 +1,9 @@
 ---
-title: "Premium Put Convertible: Overview, Advantages and Disadvantages, Example (Algo Trading)"
-description: "Discover the potential of premium put convertibles as a flexible investment tool, balancing debt and equity for growth and income amid market volatility."
+category: trading_strategy
+description: Discover the potential of premium put convertibles as a flexible investment
+  tool, balancing debt and equity for growth and income amid market volatility.
+title: 'Premium Put Convertible: Overview, Advantages and Disadvantages, Example (Algo
+  Trading)'
 ---
 
 Convertible securities are a dynamic financial instrument, offering a hybrid investment option that blends features of both debt and equity. Predominantly, they take the form of convertible bonds, which can be converted into a predetermined number of shares of the issuing company. This dual nature provides investors with the potential for steady income from the bond's interest payments and the opportunity for capital appreciation through equity conversion.

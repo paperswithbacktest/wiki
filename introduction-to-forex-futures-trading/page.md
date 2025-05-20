@@ -1,6 +1,8 @@
 ---
-title: "Introduction to Forex Futures Trading (Algo Trading)"
-description: "Discover the convergence of forex futures and algorithmic trading for improved risk management and profitability in forex markets with cutting-edge strategies."
+category: trading_strategy
+description: Discover the convergence of forex futures and algorithmic trading for
+  improved risk management and profitability in forex markets with cutting-edge strategies.
+title: Introduction to Forex Futures Trading (Algo Trading)
 ---
 
 Futures trading in the currency markets, commonly referred to as forex futures trading, has garnered substantial attention due to the massive liquidity and immense trading volume characteristic of the foreign exchange market. Forex futures are intricate financial derivatives that offer traders the capability to hedge against, or speculate on, the potential future price movements of currency pairs. These instruments are crucial for managing foreign exchange risk and are standardized contracts that obligate the exchange of a particular currency amount at a predetermined future date and price. 

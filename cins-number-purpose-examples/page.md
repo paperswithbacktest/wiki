@@ -1,6 +1,9 @@
 ---
-title: "CINS Number: Purpose and Examples (Algo Trading)"
-description: "Explore the significance of CINS numbers in financial identification and algorithmic trading Discover how this global system enhances precision and market efficiency"
+category: quant_concept
+description: Explore the significance of CINS numbers in financial identification
+  and algorithmic trading Discover how this global system enhances precision and market
+  efficiency
+title: 'CINS Number: Purpose and Examples (Algo Trading)'
 ---
 
 In the ever-evolving world of finance, understanding the nuances of securities and their identification systems is crucial. Securities identification is a cornerstone of efficient market operations, providing a means to distinguish each security uniquely and accurately. Corporate securities are typically identified using specific codes that serve as a universal language for investors and financial institutions. Among these codes, the CINS number stands out as an important tool for identifying international securities.

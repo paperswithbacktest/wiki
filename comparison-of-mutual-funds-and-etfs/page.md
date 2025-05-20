@@ -1,6 +1,12 @@
 ---
-title: "Comparison of Mutual Funds and ETFs (Algo Trading)"
-description: "Explore the key differences between mutual funds and ETFs, highlighting their unique benefits in investment strategies. Learn how these vehicles differ in management style, cost structures, and tax implications, especially when combined with algorithmic trading. Dive into the intricacies of real-time pricing and trading flexibility to make better-informed financial decisions for a diversified portfolio tailored to modern financial markets."
+category: trading_strategy
+description: Explore the key differences between mutual funds and ETFs, highlighting
+  their unique benefits in investment strategies. Learn how these vehicles differ
+  in management style, cost structures, and tax implications, especially when combined
+  with algorithmic trading. Dive into the intricacies of real-time pricing and trading
+  flexibility to make better-informed financial decisions for a diversified portfolio
+  tailored to modern financial markets.
+title: Comparison of Mutual Funds and ETFs (Algo Trading)
 ---
 
 In today's rapidly evolving financial landscape, investors are presented with a vast array of choices to grow and manage their wealth. Two prominent investment vehicles that have gained significant attention are Exchange-Traded Funds (ETFs) and mutual funds. These funds cater to different investment strategies and offer unique benefits and challenges that investors need to assess in pursuit of their financial goals. Alongside these, the advent of algorithmic trading has introduced a new dimension to investment management, characterized by speed and efficiency in executing trades.

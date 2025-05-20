@@ -1,7 +1,8 @@
 ---
-title: Understanding Reading Order Detection Models in Document Analysis
+category: quant_concept
 description: Reading order detection models guarantee coherent OCR output by mimicking
   human reading flow in documents to improve accuracy. Discover more inside.
+title: Understanding Reading Order Detection Models in Document Analysis
 ---
 
 ![Image](images/1.png)

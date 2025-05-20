@@ -1,6 +1,9 @@
 ---
-title: "Cost of Debt and Formula Overview (Algo Trading)"
-description: "Discover how understanding the cost of debt and its formula enhances financial strategies in the evolving world of algorithmic trading, optimizing investments and risk management."
+category: quant_concept
+description: Discover how understanding the cost of debt and its formula enhances
+  financial strategies in the evolving world of algorithmic trading, optimizing investments
+  and risk management.
+title: Cost of Debt and Formula Overview (Algo Trading)
 ---
 
 The financial landscape has evolved into a multidimensional arena, integrating various concepts that govern both traditional and modern financial practices. Among these are the cost of debt and algorithmic trading, two seemingly distinct domains that, when understood comprehensively, can significantly impact financial strategies. As globalization and technological advancements continue to reshape economies, the need for a well-rounded grasp of fundamental financial principles becomes imperative for effective decision-making and financial management.

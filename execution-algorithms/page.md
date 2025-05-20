@@ -1,6 +1,8 @@
 ---
-title: "Execution Algorithms (Algo Trading)"
-description: "Explore the world of execution algorithms in algorithmic trading, which streamline order processing to optimize trading costs and minimize market impact."
+category: trading_strategy
+description: Explore the world of execution algorithms in algorithmic trading, which
+  streamline order processing to optimize trading costs and minimize market impact.
+title: Execution Algorithms (Algo Trading)
 ---
 
 Algorithmic trading, commonly referred to as algo trading, has significantly reshaped the landscape of financial markets over the past few decades, establishing itself as a dominant trading strategy. It is estimated that more than 80% of U.S. stock trades are now algorithmic, highlighting their critical role in current trading dynamics. This upward trend is projected to continue, with the global algorithmic trading market expected to reach $18 billion by 2025.

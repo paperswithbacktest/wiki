@@ -1,6 +1,9 @@
 ---
-title: "Introduction to Growth Investing (Algo Trading)"
-description: "Explore the synergy of growth investing and algorithmic trading in stock market strategies Learn how these approaches can enhance portfolio resilience and returns"
+category: trading_strategy
+description: Explore the synergy of growth investing and algorithmic trading in stock
+  market strategies Learn how these approaches can enhance portfolio resilience and
+  returns
+title: Introduction to Growth Investing (Algo Trading)
 ---
 
 Investment strategies in the stock market have undergone remarkable transformations, driven largely by technological advancements. Traditional investment approaches have been supplemented, and at times transformed, by cutting-edge technologies that offer significant potential to enhance investment outcomes. Among these strategies, growth investing and algorithmic trading have emerged as prominent methods utilized by investors seeking to maximize their returns.

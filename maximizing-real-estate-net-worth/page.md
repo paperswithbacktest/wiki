@@ -1,6 +1,8 @@
 ---
-title: "Maximizing Real Estate Net Worth (Algo Trading)"
-description: "Explore how integrating real estate investment with algorithmic trading can enhance financial portfolios by combining tangible assets and tech-driven strategies."
+category: trading_strategy
+description: Explore how integrating real estate investment with algorithmic trading
+  can enhance financial portfolios by combining tangible assets and tech-driven strategies.
+title: Maximizing Real Estate Net Worth (Algo Trading)
 ---
 
 In today's rapidly evolving financial landscape, diversification of investment portfolios is crucial for long-term success and stability. As traditional investment avenues face unprecedented challenges due to economic volatility, investors are increasingly adopting innovative strategies to diversify and strengthen their portfolios. Among these, real estate investment and algorithmic trading have emerged as popular choices that offer distinct opportunities for increasing one's net worth.

@@ -1,6 +1,8 @@
 ---
-title: "Trendline in Investing: Definition and Usage (Algo Trading)"
-description: "Explore how trendlines enhance algorithmic trading by identifying market trends, aiding in strategic decisions, and offering insights for optimal trade execution."
+category: quant_concept
+description: Explore how trendlines enhance algorithmic trading by identifying market
+  trends, aiding in strategic decisions, and offering insights for optimal trade execution.
+title: 'Trendline in Investing: Definition and Usage (Algo Trading)'
 ---
 
 Investing trendlines are graphical representations of price movements in financial markets, constructed by connecting a series of data points, typically price highs or lows. These lines help traders and analysts discern the underlying direction of the market—whether upward, downward, or sideways—and are fundamental tools in technical analysis. Trendlines are significant as they aid in identifying market trends and potential reversal points, offering insights for strategic financial decisions. They are simple yet powerful, providing a visual indication of market sentiment and trajectory, which can be crucial for timing trades and managing risk.

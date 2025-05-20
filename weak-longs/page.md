@@ -1,6 +1,8 @@
 ---
-title: "Weak Longs (Algo Trading)"
-description: "Discover how weak longs and algo trading shape stock market dynamics impacting volatility and trading strategies. Learn to navigate these elements effectively."
+category: quant_concept
+description: Discover how weak longs and algo trading shape stock market dynamics
+  impacting volatility and trading strategies. Learn to navigate these elements effectively.
+title: Weak Longs (Algo Trading)
 ---
 
 The stock market operates as a sophisticated and ever-evolving sphere where concepts such as 'weak longs' and 'algo trading' frequently surface. For both new and seasoned investors, grasping the intricacies of these terms is essential to maneuver effectively within this fluctuating environment. This article aims to elucidate these concepts, detailing their significance and how they interact within contemporary stock market investing strategies.

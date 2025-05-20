@@ -1,6 +1,8 @@
 ---
-title: "Fourth World: Concept and History (Algo Trading)"
-description: "Explore the intersection of Fourth World indigenous communities and the rise of algorithmic trading Impacting global development and economic integration"
+category: quant_concept
+description: Explore the intersection of Fourth World indigenous communities and the
+  rise of algorithmic trading Impacting global development and economic integration
+title: 'Fourth World: Concept and History (Algo Trading)'
 ---
 
 In the rapidly evolving landscape of global development, two seemingly disparate topics have become central to discussions: the role of indigenous peoples and the concept of the "Fourth World", alongside modern financial advancements such as algorithmic trading (algo trading). On one hand, indigenous communities, often referred to within the Fourth World context, represent the most economically marginalized and culturally distinct groups across the globe. These communities are characterized by their deep-rooted cultural ties and historical continuity with pre-colonial societies. While they enrich global diversity, they also highlight significant challenges regarding their integration into modern economic systems.

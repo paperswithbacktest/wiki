@@ -1,6 +1,9 @@
 ---
-title: "Influence of Inflation on Bilateral Exchange Rates (Algo Trading)"
-description: "Explore how inflation impacts bilateral exchange rates in algorithmic trading Discover how algo trading adapts to economic changes with insights on inflation dynamics"
+category: trading_strategy
+description: Explore how inflation impacts bilateral exchange rates in algorithmic
+  trading Discover how algo trading adapts to economic changes with insights on inflation
+  dynamics
+title: Influence of Inflation on Bilateral Exchange Rates (Algo Trading)
 ---
 
 Algorithmic trading, often referred to as algo trading, represents a modern approach to trading in financial markets, where computer algorithms are used to automate the decision-making process. This automation allows for the rapid execution of trades, leveraging speed and accuracy that are unattainable by human traders. These algorithms are designed to take into account a myriad of market variables and external economic factors, thereby enabling more efficient and informed trading strategies.

@@ -1,6 +1,8 @@
 ---
-title: "Free Cash Flow to Sales Ratio (Algo Trading)"
-description: "Discover how the Free Cash Flow-to-Sales ratio enhances algorithmic trading by evaluating a company's cash generation efficiency crucial for informed decisions."
+category: quant_concept
+description: Discover how the Free Cash Flow-to-Sales ratio enhances algorithmic trading
+  by evaluating a company's cash generation efficiency crucial for informed decisions.
+title: Free Cash Flow to Sales Ratio (Algo Trading)
 ---
 
 Algorithmic trading depends on quantitative data and financial metrics to make informed trading decisions, optimizing speed and reducing human error. Among the metrics serving as vital tools in financial analysis and algorithmic trading is the Free Cash Flow-to-Sales (FCFS) ratio. This metric is instrumental for evaluating a company’s financial health by analyzing its ability to generate cash from sales operations. This focus on cash generation provides a more reliable measure of financial performance compared to traditional earnings metrics, such as net profits, which can sometimes be volatile and subject to various accounting adjustments.

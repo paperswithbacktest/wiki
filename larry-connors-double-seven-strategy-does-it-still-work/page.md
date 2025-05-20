@@ -1,6 +1,13 @@
 ---
-title: "Larry Connors Double Seven Strategy: Does It Still Work? (Algo Trading)"
-description: Explore the effectiveness of the Larry Connors Double Seven strategy in algorithmic trading renowned for its straightforward and mean-reversion principle. This article investigates into its foundational mechanics, trading rules, historical performance, and potential integration into trading systems. Discover how its reliance on simple moving averages and price actions can aid in capturing short-term market reversals without complex computational methods while offering impressive reliability as evidenced by high historical win ratios and favorable trading metrics.
+category: trading_strategy
+description: Explore the effectiveness of the Larry Connors Double Seven strategy
+  in algorithmic trading renowned for its straightforward and mean-reversion principle.
+  This article investigates into its foundational mechanics, trading rules, historical
+  performance, and potential integration into trading systems. Discover how its reliance
+  on simple moving averages and price actions can aid in capturing short-term market
+  reversals without complex computational methods while offering impressive reliability
+  as evidenced by high historical win ratios and favorable trading metrics.
+title: 'Larry Connors Double Seven Strategy: Does It Still Work? (Algo Trading)'
 ---
 
 Algorithmic trading, or algo trading, is a method of executing trades using automated and pre-programmed trading instructions. These instructions account for variables such as time, price, and volume. By leveraging advanced computational power, algo trading aims to capitalize on market opportunities at speeds and frequencies that are impossible for human traders.

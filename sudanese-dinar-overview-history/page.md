@@ -1,6 +1,8 @@
 ---
-title: "Sudanese Dinar: Overview and Historical Context (Algo Trading)"
-description: "Dive into the historical significance and economic impact of the Sudanese Dinar and explore the role of algorithmic trading in understanding currency dynamics."
+category: quant_concept
+description: Dive into the historical significance and economic impact of the Sudanese
+  Dinar and explore the role of algorithmic trading in understanding currency dynamics.
+title: 'Sudanese Dinar: Overview and Historical Context (Algo Trading)'
 ---
 
 The Sudanese Dinar (SDD), once the official currency of Sudan, offers a captivating narrative of economic transition and reform. This article investigates the history of the Sudanese Dinar, its transition phases, and the economic impact it left behind. Additionally, we explore the implications of algorithmic trading in the context of Sudanese currency, providing a modern perspective on how historical data can enlighten current trading strategies.

@@ -1,6 +1,8 @@
 ---
-title: "Impact of Fiat Currency Crises on Cryptocurrency Adoption (Algo Trading)"
-description: "Explore how fiat currency crises in nations like Venezuela and Iran fuel cryptocurrency adoption and how algo trading aids in navigating crypto volatility."
+category: quant_concept
+description: Explore how fiat currency crises in nations like Venezuela and Iran fuel
+  cryptocurrency adoption and how algo trading aids in navigating crypto volatility.
+title: Impact of Fiat Currency Crises on Cryptocurrency Adoption (Algo Trading)
 ---
 
 Fiat currency crises are increasingly prevalent in today's global economy, manifesting starkly in countries like Venezuela and Iran. These crises typically arise from factors such as hyperinflation, misguided economic policies, and external sanctions, leading to severe economic instability and a significant devaluation of national currencies. As a result, affected populations face diminished purchasing power and economic growth stagnation, creating an urgent need for alternative financial solutions.

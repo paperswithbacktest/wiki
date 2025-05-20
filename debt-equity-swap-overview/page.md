@@ -1,6 +1,8 @@
 ---
-title: "Debt-Equity Swap Overview (Algo Trading)"
-description: "Debt-equity swaps help companies restructure finances by converting debt into equity improving liquidity and strategic growth in complex market conditions."
+category: quant_concept
+description: Debt-equity swaps help companies restructure finances by converting debt
+  into equity improving liquidity and strategic growth in complex market conditions.
+title: Debt-Equity Swap Overview (Algo Trading)
 ---
 
 Debt-equity swaps are integral components of corporate finance, offering companies a tool to restructure their balance sheets and address financial challenges. By converting debt into equity, this mechanism allows companies to reduce their debt burden, enhancing their liquidity and improving leverage ratios. Such financial restructuring is crucial in volatile economic landscapes where companies must adapt swiftly to changing market conditions to ensure survival and growth.

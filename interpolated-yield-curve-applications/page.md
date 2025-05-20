@@ -1,6 +1,8 @@
 ---
-title: "Interpolated Yield Curve and Its Applications (Algo Trading)"
-description: "Explore the significance of interpolated yield curves in algorithmic trading Learn how they provide insights into market conditions and aid in risk management"
+category: quant_concept
+description: Explore the significance of interpolated yield curves in algorithmic
+  trading Learn how they provide insights into market conditions and aid in risk management
+title: Interpolated Yield Curve and Its Applications (Algo Trading)
 ---
 
 Yield curves are a fundamental tool in financial markets, representing the relationship between interest rates and the maturities of debt securities, typically government bonds. They are important because they help investors understand the potential return on investment over different time horizons, offering insights into economic expectations. Yield curves can take several forms—normal, inverted, or flat—each indicative of varying economic conditions, such as growth or recession, which significantly influence investment decisions and monetary policy.

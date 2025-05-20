@@ -1,6 +1,14 @@
 ---
-title: "Implementation shortfall (Algo Trading)"
-description: Explore how implementation shortfall, or slippage, impacts algorithmic trading efficiency and costs. This critical metric measures the difference between expected and actual trade execution prices, affected by factors like market volatility and liquidity. Understand how managing this shortfall through optimized trading strategies can enhance performance and profitability by reducing costs associated with order execution, such as commissions and taxes. Learn about the components and importance of decision price, and discover methods to minimize these discrepancies for improved trade outcomes in dynamic markets.
+category: quant_concept
+description: Explore how implementation shortfall, or slippage, impacts algorithmic
+  trading efficiency and costs. This critical metric measures the difference between
+  expected and actual trade execution prices, affected by factors like market volatility
+  and liquidity. Understand how managing this shortfall through optimized trading
+  strategies can enhance performance and profitability by reducing costs associated
+  with order execution, such as commissions and taxes. Learn about the components
+  and importance of decision price, and discover methods to minimize these discrepancies
+  for improved trade outcomes in dynamic markets.
+title: Implementation shortfall (Algo Trading)
 ---
 
 In financial markets, algorithmic trading serves as a cornerstone for executing large orders efficiently. This practice leverages advanced algorithms to automate trading processes, allowing traders to navigate the complexities of financial markets with precision and speed. Central to this efficiency is the concept of implementation shortfall.

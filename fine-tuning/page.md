@@ -1,7 +1,8 @@
 ---
-title: Fine-Tuning Machine Learning Models for Specialized Tasks
+category: quant_concept
 description: Fine-Tuning in machine learning refines pre-trained models on specialized
   data to improve task-specific accuracy and efficiency Discover more inside.
+title: Fine-Tuning Machine Learning Models for Specialized Tasks
 ---
 
 ![Image](images/1.webp)

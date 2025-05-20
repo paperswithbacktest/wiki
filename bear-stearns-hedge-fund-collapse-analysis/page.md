@@ -1,6 +1,8 @@
 ---
-title: "Bear Stearns Hedge Fund Collapse Analysis (Algo Trading)"
-description: "Gain insights into the factors behind Bear Stearns' hedge fund collapse amid the 2008 financial crisis exploring risky strategies and regulatory lessons."
+category: trading_strategy
+description: Gain insights into the factors behind Bear Stearns' hedge fund collapse
+  amid the 2008 financial crisis exploring risky strategies and regulatory lessons.
+title: Bear Stearns Hedge Fund Collapse Analysis (Algo Trading)
 ---
 
 The 2008 financial crisis marked a pivotal era in modern financial history, underscoring systemic vulnerabilities within global markets. A key event that epitomized this crisis was the collapse of Bear Stearns, a Wall Street giant and influential player in the investment banking sector. The downfall of Bear Stearns was precipitated by the failure of two hedge funds managed by the firm, which served as an early warning signal of the larger financial turmoil that would soon unfold. These hedge funds, heavily invested in mortgage-backed securities, were emblematic of the high-risk investment strategies that became prevalent during this period. 

@@ -1,6 +1,13 @@
 ---
-title: "Harmonized Index of Consumer Prices: Overview and Functionality (Algo Trading)"
-description: "Discover the functionality and significance of the Harmonized Index of Consumer Prices HICP used in the European Union for measuring inflation The HICP facilitates cross-country inflation comparisons providing vital data for policymakers including the European Central Bank ECB It impacts algorithmic trading by informing investment strategies and market predictions based on inflation trends Understanding HICP is essential for navigating EU economic conditions and leveraging related market opportunities"
+category: dataset
+description: Discover the functionality and significance of the Harmonized Index of
+  Consumer Prices HICP used in the European Union for measuring inflation The HICP
+  facilitates cross-country inflation comparisons providing vital data for policymakers
+  including the European Central Bank ECB It impacts algorithmic trading by informing
+  investment strategies and market predictions based on inflation trends Understanding
+  HICP is essential for navigating EU economic conditions and leveraging related market
+  opportunities
+title: 'Harmonized Index of Consumer Prices: Overview and Functionality (Algo Trading)'
 ---
 
 Understanding how inflation is measured is crucial for both economists and investors due to its profound influence on the economy. Inflation directly impacts purchasing power, which refers to the quantity of goods and services that can be bought with a unit of currency. This, in turn, affects individual and corporate investment decisions, as well as broader economic policy-making. Central banks, for instance, may adjust interest rates to curb inflation or stimulate economic activity.

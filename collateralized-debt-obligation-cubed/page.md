@@ -1,6 +1,8 @@
 ---
-title: "Collateralized Debt Obligation Cubed (Algo Trading)"
-description: "Explore the complex world of CDO-Cubed and algorithmic trading Learn about this derivative of derivatives and its role in modern financial markets"
+category: quant_concept
+description: Explore the complex world of CDO-Cubed and algorithmic trading Learn
+  about this derivative of derivatives and its role in modern financial markets
+title: Collateralized Debt Obligation Cubed (Algo Trading)
 ---
 
 The world of finance is filled with complex products designed to manage risk and maximize returns. One of these advanced products is the collateralized debt obligation cubed (CDO-Cubed), often described as 'derivatives on steroids.' These financial instruments represent a higher degree of derivation and complexity, linking them tightly to both the derivational process of financial products and the burgeoning influence of technology in modern trading. 

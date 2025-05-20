@@ -1,6 +1,14 @@
 ---
-title: "Economic Production in Command Economies (Algo Trading)"
-description: "Explore the intricacies of command economies and their reliance on central planning as opposed to market forces. Delve into how these systems aim to align economic production with broader socio-political objectives and examine the impact of modern technologies like algorithmic trading in refining economic forecasting. Understand how these theoretical advantages often clash with practical challenges such as inefficiency, lack of innovation, and consumer dissatisfaction. This article offers a comprehensive look at the dynamics of command economies, their pros and cons, and their capacity to evolve in the face of modern technological advancements."
+category: quant_concept
+description: Explore the intricacies of command economies and their reliance on central
+  planning as opposed to market forces. Delve into how these systems aim to align
+  economic production with broader socio-political objectives and examine the impact
+  of modern technologies like algorithmic trading in refining economic forecasting.
+  Understand how these theoretical advantages often clash with practical challenges
+  such as inefficiency, lack of innovation, and consumer dissatisfaction. This article
+  offers a comprehensive look at the dynamics of command economies, their pros and
+  cons, and their capacity to evolve in the face of modern technological advancements.
+title: Economic Production in Command Economies (Algo Trading)
 ---
 
 Command economies present a fascinating case within global economic systems, distinctively characterized by their reliance on central planning. Unlike market economies, where the forces of supply and demand dictate the production and distribution of goods and services, command economies operate under the directive of government or central authorities. This unique approach is designed to address specific socio-economic challenges by aligning economic production with broader political and social objectives.

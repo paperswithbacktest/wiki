@@ -1,6 +1,9 @@
 ---
-title: "Reconstitution: Process and Impact on Investors (Algo Trading)"
-description: "Explore the impact of index reconstitution and algorithmic trading on investment strategies Discover how these factors shape investor decisions and portfolio alignment"
+category: trading_strategy
+description: Explore the impact of index reconstitution and algorithmic trading on
+  investment strategies Discover how these factors shape investor decisions and portfolio
+  alignment
+title: 'Reconstitution: Process and Impact on Investors (Algo Trading)'
 ---
 
 In recent years, the landscape of investing has evolved significantly, driven by the rapid advancement of technology and innovative methodologies. Central to this transformation is the increasing use of algorithmic trading, a sophisticated technique that employs computer algorithms to execute trades at speeds and frequencies that are impossible for a human trader. Algorithmic trading has revolutionized the market by enabling the quick analysis of large datasets, real-time execution of trades, and minimizing the impact of market fluctuations on investment strategies.

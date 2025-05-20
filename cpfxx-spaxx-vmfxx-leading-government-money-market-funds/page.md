@@ -1,6 +1,8 @@
 ---
-title: "CPFXX, SPAXX, and VMFXX: Leading Government Money Market Funds (Algo Trading)"
-description: "Discover how CPFXX, SPAXX, and VMFXX lead government money market funds by providing stability and liquidity with algorithmic trading efficiency."
+category: trading_strategy
+description: Discover how CPFXX, SPAXX, and VMFXX lead government money market funds
+  by providing stability and liquidity with algorithmic trading efficiency.
+title: 'CPFXX, SPAXX, and VMFXX: Leading Government Money Market Funds (Algo Trading)'
 ---
 
 Government money market funds, such as CPFXX, VMFXX, and SPAXX, represent a crucial component of conservative investment strategies. These funds primarily invest in short-term, high-quality debt securities issued by the U.S. government, including Treasury bills, repurchase agreements, and other government-backed instruments. The primary appeal for conservative investors lies in their inherent stability and liquidity, providing a secure place to park capital while earning a modest return. 

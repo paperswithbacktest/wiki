@@ -1,6 +1,9 @@
 ---
-title: "Exposure in Various Contexts (Algo Trading)"
-description: "Discover how to manage exposure in algorithmic trading with effective risk management strategies. Learn about exposure metrics, risk assessment, and real-time risk management techniques to optimize trading success and protect investments."
+category: quant_concept
+description: Discover how to manage exposure in algorithmic trading with effective
+  risk management strategies. Learn about exposure metrics, risk assessment, and real-time
+  risk management techniques to optimize trading success and protect investments.
+title: Exposure in Various Contexts (Algo Trading)
 ---
 
 In the fast-paced world of algorithmic trading, managing risk in real-time is crucial for success. By implementing effective risk management strategies, traders can mitigate exposure to potential losses and maximize profits. Exposure in trading refers to the total market value of positions, or the total potential risk at any given point. For instance, if a trader has a portfolio value of $1,000,000 and has invested $400,000 in a particular stock, their exposure to that stock is 40%. This metric is instrumental in assessing the risk that a trader is currently taking.

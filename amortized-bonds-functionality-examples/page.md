@@ -1,6 +1,8 @@
 ---
-title: "Amortized Bonds: Functionality and Examples (Algo Trading)"
-description: "Explore the functionality and benefits of amortized bonds in algo trading Discover how structured repayments aid in financial planning and portfolio management."
+category: quant_concept
+description: Explore the functionality and benefits of amortized bonds in algo trading
+  Discover how structured repayments aid in financial planning and portfolio management.
+title: 'Amortized Bonds: Functionality and Examples (Algo Trading)'
 ---
 
 In finance, understanding bonds and how they are amortized is vital for investors and traders. Bonds represent a critical component of the global financial system, offering a mechanism for raising capital and managing debt. Amortization of these bonds refers to the gradual repayment of their principal amount over the bond's life, along with scheduled interest payments. This structured repayment process offers advantages for both issuers and investors, ensuring predictable cash flows and reducing the risk of default associated with large, lump-sum payments at maturity.

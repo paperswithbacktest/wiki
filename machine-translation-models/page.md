@@ -1,7 +1,8 @@
 ---
-title: Exploring Machine Translation Models From Seq2Seq to Transformers
+category: quant_concept
 description: Machine translation uses Seq2Seq attention and transformer models to
   boost multilingual accuracy and reliability across languages Discover more inside
+title: Exploring Machine Translation Models From Seq2Seq to Transformers
 ---
 
 ![Image](images/1.png)

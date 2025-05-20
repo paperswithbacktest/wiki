@@ -1,6 +1,8 @@
 ---
-title: "Comparison of Hurdle Rate and Internal Rate of Return (Algo Trading)"
-description: "Discover the differences between hurdle rate and IRR in algorithmic trading and how they optimize investment strategies for enhanced financial outcomes"
+category: quant_concept
+description: Discover the differences between hurdle rate and IRR in algorithmic trading
+  and how they optimize investment strategies for enhanced financial outcomes
+title: Comparison of Hurdle Rate and Internal Rate of Return (Algo Trading)
 ---
 
 The world of investing and trading often relies on a variety of complex financial metrics and tools. Among these, the Internal Rate of Return (IRR) and the hurdle rate are particularly significant for assessing investment opportunities. IRR is a vital measure that helps investors evaluate the potential profitability of an investment by estimating the annual growth rate it can generate. On the other hand, the hurdle rate, or Minimum Acceptable Rate of Return (MARR), serves as a benchmark that investment projects must surpass to justify their undertaking. 

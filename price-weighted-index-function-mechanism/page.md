@@ -1,6 +1,8 @@
 ---
-title: "Price-Weighted Index: Function and Mechanism (Algo Trading)"
-description: "Discover how price-weighted indices function and their impact on algorithmic trading with insights into market trends and strategic trading execution."
+category: quant_concept
+description: Discover how price-weighted indices function and their impact on algorithmic
+  trading with insights into market trends and strategic trading execution.
+title: 'Price-Weighted Index: Function and Mechanism (Algo Trading)'
 ---
 
 Understanding stock market indices is essential for investors and traders in the vast landscape of financial markets. Among the various types of indices, price-weighted indices hold particular significance. A price-weighted index assigns weights to stocks based on their price per share, which means stocks with higher prices exert more influence on the index value. This article examines the nature of price-weighted indices, their role within financial indices, and how they intersect with the growing field of algorithmic trading.

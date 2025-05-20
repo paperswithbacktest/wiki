@@ -1,6 +1,8 @@
 ---
-title: "Recurring Revenue Types and Considerations (Algo Trading)"
-description: "Explore the synergy between subscription models, recurring revenue streams, and algorithmic trading for sustainable business growth and financial stability."
+category: quant_concept
+description: Explore the synergy between subscription models, recurring revenue streams,
+  and algorithmic trading for sustainable business growth and financial stability.
+title: Recurring Revenue Types and Considerations (Algo Trading)
 ---
 
 The landscape of business revenue models is undergoing significant transformation, with the subscription economy and recurring revenue models leading the charge. Subscription-based models allow businesses to generate consistent monthly or annual income by offering ongoing access to products or services. This shift from traditional sales frameworks to models that emphasize continuous customer relationships reflects a deeper understanding of consumer preferences for flexibility and convenience.

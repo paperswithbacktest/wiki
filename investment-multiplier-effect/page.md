@@ -1,6 +1,8 @@
 ---
-title: "Investment Multiplier Effect (Algo Trading)"
-description: "Explore the dynamics between Keynesian investment multiplier and algorithmic trading to understand their impact on modern financial systems and market strategies."
+category: quant_concept
+description: Explore the dynamics between Keynesian investment multiplier and algorithmic
+  trading to understand their impact on modern financial systems and market strategies.
+title: Investment Multiplier Effect (Algo Trading)
 ---
 
 The intersection of investment economics and algorithmic trading introduces a compelling narrative of multiplier effects within financial systems. In this article, we examine how economic theories like the investment multiplier apply to modern finance. The investment multiplier, a fundamental concept within Keynesian economics, reflects how an initial change in spending can lead to a more than proportional change in aggregate income and expenditure. This classical insight gains new relevance when viewed alongside algorithmic trading strategies that drive today's financial markets. Exploring the implications of these concepts, especially when analyzed through the lens of algorithmic trading, provides insightful perspectives for investors and economists alike.
@@ -135,4 +137,3 @@ Incorporating these insights, professionals in the financial sector can enhance 
 - Haldane, A. G. (2011). "The Race to Zero." Bank of England. A discussion on the effects of algorithmic trading speed on financial stability and market integrity, reflecting broader economic patterns. Available at: https://www.bankofengland.co.uk/speech/2011/the-race-to-zero.
 
 - Lopez de Prado, M. (2018). "Advances in Financial Machine Learning." Wiley. This book introduces machine learning applications in trading strategies, offering insights into the evolving landscape of algorithmic trading. Available at: https://www.wiley.com/en-us/Advances+in+Financial+Machine+Learning-p-9781119482086.
-

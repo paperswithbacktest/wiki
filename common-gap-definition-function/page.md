@@ -1,6 +1,8 @@
 ---
-title: "Common Gap: Definition and Function (Algo Trading)"
-description: "Explore how common gaps in algo trading are leveraged for strategic advantage by automating decisions optimizing cost efficiency and minimizing human errors."
+category: quant_concept
+description: Explore how common gaps in algo trading are leveraged for strategic advantage
+  by automating decisions optimizing cost efficiency and minimizing human errors.
+title: 'Common Gap: Definition and Function (Algo Trading)'
 ---
 
 Algorithmic trading refers to the use of computer algorithms to automate and optimize trading decisions in financial markets. By employing mathematical models and leveraging computing power, algorithmic trading enables traders and institutions to execute orders at speeds and frequencies that are impossible to achieve manually. This form of trading has gained significant prominence in modern financial markets due to its ability to increase efficiency, reduce transaction costs, and minimize human errors. With the advent of high-frequency trading (HFT), algorithmic trading now constitutes a large percentage of total market transactions.

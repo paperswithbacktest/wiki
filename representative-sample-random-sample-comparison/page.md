@@ -1,6 +1,8 @@
 ---
-title: "Representative Sample and Random Sample Comparison (Algo Trading)"
-description: "Explore the essential role of sampling methods in algorithmic trading with a focus on random and representative samples to enhance trading strategies."
+category: quant_concept
+description: Explore the essential role of sampling methods in algorithmic trading
+  with a focus on random and representative samples to enhance trading strategies.
+title: Representative Sample and Random Sample Comparison (Algo Trading)
 ---
 
 Sampling methods play a crucial role in data analysis and algorithmic trading, acting as the foundation for drawing valid inferences and developing effective trading strategies. In the context of data analysis, sampling techniques are utilized to select a subset of data from a larger population, allowing analysts to conduct studies and make predictions without the need to examine every single data point. This approach not only saves time and resources but also enables the handling of vast datasets that are often unmanageable in their entirety.

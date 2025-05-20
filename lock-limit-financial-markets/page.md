@@ -1,6 +1,9 @@
 ---
-title: "Lock Limit In Financial Markets (Algo Trading)"
-description: "Explore the critical roles of lock limits and algorithmic trading in financial markets ensuring stability and efficiency by balancing risk with growth opportunities."
+category: quant_concept
+description: Explore the critical roles of lock limits and algorithmic trading in
+  financial markets ensuring stability and efficiency by balancing risk with growth
+  opportunities.
+title: Lock Limit In Financial Markets (Algo Trading)
 ---
 
 The financial markets are an intricate web of trading activities, governance, and risk management, constantly influenced by numerous external and internal factors. These markets operate on principles designed to balance growth opportunities with potential risks. In this intricate environment, trading restrictions and algorithmic trading algorithms play pivotal roles in shaping market dynamics. 

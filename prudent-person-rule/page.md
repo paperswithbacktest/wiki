@@ -1,6 +1,8 @@
 ---
-title: "Prudent Person Rule (Algo Trading)"
-description: "Explore the integration of the Prudent Person Rule with modern algorithmic trading and fiduciary duties to manage investments prudently in today's market."
+category: quant_concept
+description: Explore the integration of the Prudent Person Rule with modern algorithmic
+  trading and fiduciary duties to manage investments prudently in today's market.
+title: Prudent Person Rule (Algo Trading)
 ---
 
 Understanding the interplay between fiduciary duty and investment standards is crucial in asset management. As financial markets evolve, fiduciaries must navigate a complex landscape to protect and grow asset value for their clients. Central to this responsibility is the Prudent Person Rule, a principle mandating that investments should be conducted with care, skill, and caution. This rule serves as a benchmark, ensuring that fiduciaries make decisions similarly to how a prudent person would manage their own investments. Its application spans across different components of asset management, from pension funds to individual investment portfolios, reinforcing the emphasis on preserving capital and making rational decisions.

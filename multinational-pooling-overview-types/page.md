@@ -1,6 +1,8 @@
 ---
-title: "Multinational Pooling: Overview and Types (Algo Trading)"
-description: "Discover the integration of multinational pooling and algorithmic trading to optimize risk management and financial strategies for global corporations."
+category: quant_concept
+description: Discover the integration of multinational pooling and algorithmic trading
+  to optimize risk management and financial strategies for global corporations.
+title: 'Multinational Pooling: Overview and Types (Algo Trading)'
 ---
 
 In an increasingly globalized world, companies are seeking effective ways to manage risks and optimize their financial performance. Two methodologies, insurance pooling and algorithmic trading, have emerged as key strategies for multinational corporations. This article explores the multifaceted benefits of insurance pooling, particularly multinational pooling, and how algorithmic trading plays a pivotal role in supporting global operations.

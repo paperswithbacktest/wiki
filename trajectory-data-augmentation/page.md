@@ -1,8 +1,9 @@
 ---
-title: Enhancing Trajectory Data with Simulation Based Augmentation
+category: dataset
 description: Trajectory data augmentation boosts model accuracy and flexibility by
   generating realistic simulated paths for diverse movement patterns Discover more
   inside.
+title: Enhancing Trajectory Data with Simulation Based Augmentation
 ---
 
 ![Image](images/1.jpeg)

@@ -1,6 +1,8 @@
 ---
-title: "Impact Of Low Interest Rates On Bond Demand (Algo Trading)"
-description: "Explore the impact of low interest rates on bond demand, and learn how algorithmic trading shapes the bond market, enhancing investment strategies."
+category: quant_concept
+description: Explore the impact of low interest rates on bond demand, and learn how
+  algorithmic trading shapes the bond market, enhancing investment strategies.
+title: Impact Of Low Interest Rates On Bond Demand (Algo Trading)
 ---
 
 In financial markets, understanding the interplay between bond demand, interest rates, and algorithmic trading is crucial for investors and traders. Bonds serve as essential components within investment portfolios, with their demand largely swayed by prevailing interest rates. These rates are often dictated by macroeconomic factors, including inflation and government monetary policies. As interest rates fluctuate, they inversely affect bond prices, creating a key consideration for investors seeking optimal returns while managing risk.

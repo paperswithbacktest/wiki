@@ -1,6 +1,9 @@
 ---
-title: "Monetary Policy: Mechanisms of Central Bank Money Supply Adjustment (Algo Trading)"
-description: "Explore how central bank monetary policies and algorithmic trading shape financial markets influencing economic growth interest rates and liquidity dynamics."
+category: quant_concept
+description: Explore how central bank monetary policies and algorithmic trading shape
+  financial markets influencing economic growth interest rates and liquidity dynamics.
+title: 'Monetary Policy: Mechanisms of Central Bank Money Supply Adjustment (Algo
+  Trading)'
 ---
 
 The financial landscape is undergoing a transformative journey marked by rapid technological advancements and evolving economic policies. At the core of these changes are central banks, whose monetary policies and control over money supply play a pivotal role in shaping the economic environment. Central banks influence economic stability by setting interest rates, regulating liquidity, and implementing various monetary policy tools, all integral to maintaining economic health and fostering growth.
@@ -181,4 +184,3 @@ Ultimately, the dynamic between monetary policy and algorithmic trading necessit
 10. Shleifer, A., & Vishny, R. W. (1997). "The Limits of Arbitrage." The Journal of Finance, 52(1), 35-55. This article discusses constraints faced by arbitrageurs in financial markets, relevant for understanding risks in algorithmic strategies.
 
 These resources provide a comprehensive foundation for understanding the intricate relationships between central bank policies and algorithmic trading in the context of modern financial markets.
-

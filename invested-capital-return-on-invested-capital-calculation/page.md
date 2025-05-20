@@ -1,6 +1,9 @@
 ---
-title: "Invested Capital and Return on Invested Capital Calculation (Algo Trading)"
-description: "Explore how algorithmic trading enhances investment efficiency with a focus on ROIC and ROI. Learn strategies to maximize returns and capitalize on algo trading advantages."
+category: quant_concept
+description: Explore how algorithmic trading enhances investment efficiency with a
+  focus on ROIC and ROI. Learn strategies to maximize returns and capitalize on algo
+  trading advantages.
+title: Invested Capital and Return on Invested Capital Calculation (Algo Trading)
 ---
 
 In modern financial markets, the metrics of return on investment (ROI) and return on invested capital (ROIC) are essential for evaluating the performance of investments and gauging their efficiency and profitability. These metrics provide investors and companies with insights into how well their investments are performing in relation to the capital at their disposal and the returns generated.

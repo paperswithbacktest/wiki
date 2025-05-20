@@ -1,6 +1,8 @@
 ---
-title: "MBA Purchase Index: Significance and Mechanism (Algo Trading)"
-description: "Explore how the MBA Purchase Index and algorithmic trading intersect to enhance real estate investment strategies, providing insights into market dynamics."
+category: dataset
+description: Explore how the MBA Purchase Index and algorithmic trading intersect
+  to enhance real estate investment strategies, providing insights into market dynamics.
+title: 'MBA Purchase Index: Significance and Mechanism (Algo Trading)'
 ---
 
 The real estate market plays a crucial role in the global economy, influencing everything from individual wealth to national economic stability. Its significance is underscored by its vast market size and its impact on industries such as construction, banking, and insurance. Real estate is not only a valuable asset but also a key driver of economic growth through its contributions to employment and GDP.

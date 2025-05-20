@@ -1,6 +1,8 @@
 ---
-title: "Broker Booth Support System: History and Overview (Algo Trading)"
-description: "Explore the transformation of stock trading technology through the history of the Broker Booth Support System and its influence on algorithmic trading."
+category: quant_concept
+description: Explore the transformation of stock trading technology through the history
+  of the Broker Booth Support System and its influence on algorithmic trading.
+title: 'Broker Booth Support System: History and Overview (Algo Trading)'
 ---
 
 Understanding stock trading technology is crucial for both novice and seasoned investors. The integration of technology in finance has transformed trade execution methods, providing enhanced speed, accuracy, and reliability. One notable technological advancement is the Broker Booth Support System (BBSS), which brought significant change to traditional floor trading mechanisms. The BBSS aimed to improve the efficiency of trade processes by automating several tasks previously conducted manually, thus revolutionizing operations on trading floors.

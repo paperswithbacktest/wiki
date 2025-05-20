@@ -1,6 +1,8 @@
 ---
-title: "Auction Market in Trading (Algo Trading)"
-description: "Explore the transformation of financial markets through auction and algorithmic trading, understanding the dynamics and implications of these efficient methodologies."
+category: quant_concept
+description: Explore the transformation of financial markets through auction and algorithmic
+  trading, understanding the dynamics and implications of these efficient methodologies.
+title: Auction Market in Trading (Algo Trading)
 ---
 
 The financial markets have undergone a significant transformation with the advent and evolution of diverse trading methodologies. Auction market trading and algorithmic trading are two primary approaches that have notably influenced modern markets. Auction market trading, exemplified by systems like the New York Stock Exchange (NYSE), relies on competitive bidding processes to match buyers and sellers, facilitating the determination of price through a transparent mechanism. On the other hand, algorithmic trading employs sophisticated computer algorithms to execute trades at high speeds, offering efficiency and precision that surpass human capabilities.

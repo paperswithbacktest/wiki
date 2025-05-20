@@ -1,6 +1,9 @@
 ---
-title: "Buyer's Option and Its Mechanisms (Algo Trading)"
-description: "Explore the dynamics of buyer's options and algorithmic trading Learn how these strategies enhance investment decisions and optimize trading in volatile markets"
+category: quant_concept
+description: Explore the dynamics of buyer's options and algorithmic trading Learn
+  how these strategies enhance investment decisions and optimize trading in volatile
+  markets
+title: Buyer's Option and Its Mechanisms (Algo Trading)
 ---
 
 Understanding investment strategies in financial markets can be a challenging endeavor due to the dynamic and complex nature of global economies and trading systems. Among the myriad strategies available, buyer's options and algorithmic trading have emerged as significant components that modern investors and traders increasingly utilize.

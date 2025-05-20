@@ -1,6 +1,11 @@
 ---
-title: "Bond Trading (Algo Trading)"
-description: "Explore the transformative impact of technology and algorithmic trading on bond markets. Discover how sophisticated algorithms enhance trading efficiency, transparency, and market access for both institutional and retail investors. Learn about the evolving landscape driven by regulatory changes and technological innovations, and gain insights into future trends shaping the bond trading industry."
+category: trading_strategy
+description: Explore the transformative impact of technology and algorithmic trading
+  on bond markets. Discover how sophisticated algorithms enhance trading efficiency,
+  transparency, and market access for both institutional and retail investors. Learn
+  about the evolving landscape driven by regulatory changes and technological innovations,
+  and gain insights into future trends shaping the bond trading industry.
+title: Bond Trading (Algo Trading)
 ---
 
 The landscape of bond trading has undergone a remarkable transformation due to the integration of technology and algorithmic platforms, introducing fresh opportunities and challenges to financial markets. In recent years, these technological advancements have significantly altered how bond trading is conducted, impacting both institutional and retail investors. The adoption of algorithmic trading has been central to this transformation, providing increased speed and efficiency while enhancing market accessibility.

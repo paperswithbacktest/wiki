@@ -1,6 +1,8 @@
 ---
-title: "David Ricardo: Contributions and Legacy (Algo Trading)"
-description: "Explore David Ricardo's comparative advantage theory and its impact on international trade and algorithmic trading strategies in today's economy."
+category: quant_concept
+description: Explore David Ricardo's comparative advantage theory and its impact on
+  international trade and algorithmic trading strategies in today's economy.
+title: 'David Ricardo: Contributions and Legacy (Algo Trading)'
 ---
 
 The concept of comparative advantage, as introduced by David Ricardo, is an essential cornerstone of international trade economics. Comparative advantage explains how countries benefit from specializing in the production of goods for which they have a lower opportunity cost, thereby fostering an efficient allocation of resources on a global scale. Ricardo's theories laid the groundwork for understanding how nations can optimize trade relationships and enhance economic growth through specialization, contrasting with earlier notions focused primarily on absolute advantages.

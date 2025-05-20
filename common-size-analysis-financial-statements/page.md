@@ -1,6 +1,9 @@
 ---
-title: "Common-Size Analysis of Financial Statements (Algo Trading)"
-description: "Explore the essential role of common-size analysis in financial statements for algo trading to enhance decision-making and trading strategies through data-driven insights."
+category: quant_concept
+description: Explore the essential role of common-size analysis in financial statements
+  for algo trading to enhance decision-making and trading strategies through data-driven
+  insights.
+title: Common-Size Analysis of Financial Statements (Algo Trading)
 ---
 
 Financial statements are fundamental tools in understanding a company's financial health and performance. They provide a structured representation of a company's financial position and the outcomes of its operations, crucial for decision-making by management, investors, and regulatory bodies. The primary types of financial statements include the balance sheet, income statement, and cash flow statement. Each offers insights into various aspects of a company's operations—assets and liabilities for the balance sheet, revenue and expenses for the income statement, and cash-related activities for the cash flow statement.

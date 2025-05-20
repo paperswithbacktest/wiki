@@ -1,6 +1,9 @@
 ---
-title: "Trading with Alternative Data (Algo Trading)"
-description: "Unlock trading potential with alternative data in algo trading Gain deeper market insights and an edge by incorporating non-traditional data sources like social media "
+category: trading_strategy
+description: 'Unlock trading potential with alternative data in algo trading Gain
+  deeper market insights and an edge by incorporating non-traditional data sources
+  like social media '
+title: Trading with Alternative Data (Algo Trading)
 ---
 
 The world of trading has evolved significantly over recent decades, with algorithmic trading spearheading advancements in efficient market transactions. A cornerstone in this revolution is the integration of alternative data, which provides traders with a competitive edge and deeper market insights. By utilizing alternative data, traders can unlock new dimensions of market dynamics, shifting from reliance solely on traditional data sources to a more comprehensive approach that enhances predictive accuracy and response times.

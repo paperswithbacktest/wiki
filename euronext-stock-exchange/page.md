@@ -1,6 +1,8 @@
 ---
-title: "Euronext Stock Exchange (Algo Trading)"
-description: "Explore top European trading platforms for algorithmic trading powered by Euronext. Discover key features and insights to optimize your trading strategy."
+category: quant_concept
+description: Explore top European trading platforms for algorithmic trading powered
+  by Euronext. Discover key features and insights to optimize your trading strategy.
+title: Euronext Stock Exchange (Algo Trading)
 ---
 
 In today's fast-paced financial markets, trading platforms are essential for facilitating stock trading and investment opportunities. The advent of algorithmic trading has revolutionized the trading landscape, enabling traders to execute orders with speed and precision that was previously unimaginable. This technological advancement is particularly evident in the European financial market, where algo trading has become a cornerstone of modern trading practices.

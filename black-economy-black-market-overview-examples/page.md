@@ -1,6 +1,8 @@
 ---
-title: "Black Economy and Black Market: Overview and Examples (Algo Trading)"
-description: "Explore the black market and informal economy as they circumvent regulations through evolving methods including algorithmic trading and technology advancements."
+category: quant_concept
+description: Explore the black market and informal economy as they circumvent regulations
+  through evolving methods including algorithmic trading and technology advancements.
+title: 'Black Economy and Black Market: Overview and Examples (Algo Trading)'
 ---
 
 In today's interconnected economy, the terms black market, black economy, and informal economy are often used interchangeably. Each represents a realm of economic activity that operates beyond the reach of government regulation and oversight. These sectors thrive where government restrictions and high taxation create incentives for individuals and businesses to seek alternative avenues for transactions and employment. 

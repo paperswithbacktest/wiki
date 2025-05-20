@@ -1,6 +1,8 @@
 ---
-title: "Curb Trading: Mechanisms and Historical Background (Algo Trading)"
-description: "Explore the evolution of stock trading from informal curbside transactions to sophisticated algorithmic systems and their impact on today's markets."
+category: quant_concept
+description: Explore the evolution of stock trading from informal curbside transactions
+  to sophisticated algorithmic systems and their impact on today's markets.
+title: 'Curb Trading: Mechanisms and Historical Background (Algo Trading)'
 ---
 
 The stock market is a dynamic entity that has undergone substantial evolution from its origins to present-day technology-driven platforms. Initially characterized by informal curb trading practices, markets have transitioned to sophisticated algorithmic systems that define modern trading environments. 

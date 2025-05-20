@@ -1,6 +1,8 @@
 ---
-title: "Forward Price: Calculation and Example (Algo Trading)"
-description: "Explore forward price calculation in algorithmic trading through examples and key components including spot price risk-free rate and carrying costs"
+category: quant_concept
+description: Explore forward price calculation in algorithmic trading through examples
+  and key components including spot price risk-free rate and carrying costs
+title: 'Forward Price: Calculation and Example (Algo Trading)'
 ---
 
 Forward pricing is a fundamental concept in financial markets, serving as a mechanism to set a predetermined delivery price for an underlying asset. This process is essential in facilitating various trading and hedging activities. By enabling market participants to secure a future price, forward pricing aids in minimizing market risk associated with fluctuations in asset prices. This assured pricing mechanism allows traders and investors to stabilize their financial planning, manage risks efficiently, and anticipate future costs accurately.
@@ -178,4 +180,4 @@ As financial markets continue to evolve, the significance of forward price calcu
 
 [5]: Neftci, S. N. (2000). ["An Introduction to the Mathematics of Financial Derivatives."](https://archive.org/details/introductiontoma0000neft) Academic Press.
 
-[6]: ["Financial Derivatives and Risk Management."](https://www.investopedia.com/ask/answers/052615/how-can-derivatives-be-used-risk-management.asp) (2020). Springer Nature Switzerland AG. 
+[6]: ["Financial Derivatives and Risk Management."](https://www.investopedia.com/ask/answers/052615/how-can-derivatives-be-used-risk-management.asp) (2020). Springer Nature Switzerland AG.

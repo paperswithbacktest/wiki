@@ -1,6 +1,14 @@
 ---
-title: "Expanding window method (Algo Trading)"
-description: Discover the expanding window method in algorithmic trading and learn how it provides a dynamic approach to analyzing time series data by continuously incorporating new information. This technique helps traders detect trends and make informed decisions by offering a comprehensive view of long-term market movements. Unlike rolling windows, expanding windows accumulate data over time, enabling improved decision-making and strategy adaptation. Explore the benefits of using expanding windows in trading, compare them with rolling windows, and understand their implementation using Python and Pandas for enhanced analytical capabilities.
+category: quant_concept
+description: Discover the expanding window method in algorithmic trading and learn
+  how it provides a dynamic approach to analyzing time series data by continuously
+  incorporating new information. This technique helps traders detect trends and make
+  informed decisions by offering a comprehensive view of long-term market movements.
+  Unlike rolling windows, expanding windows accumulate data over time, enabling improved
+  decision-making and strategy adaptation. Explore the benefits of using expanding
+  windows in trading, compare them with rolling windows, and understand their implementation
+  using Python and Pandas for enhanced analytical capabilities.
+title: Expanding window method (Algo Trading)
 ---
 
 In algorithmic trading, utilizing efficient data analysis methods is crucial for success. As traders and analysts strive to navigate complex financial markets, the implementation of sophisticated strategies and techniques becomes essential. Among these, the expanding window method stands out as a powerful tool for gaining insights and making informed decisions. Unlike traditional static approaches, this method offers a dynamic way of handling time series data by progressively incorporating new information as it becomes available. This continuous growth of the dataset allows for the detection of trends and patterns over time, helping traders anticipate market movements and adjust their strategies accordingly.

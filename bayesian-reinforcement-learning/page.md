@@ -1,7 +1,8 @@
 ---
-title: Understanding Bayesian Reinforcement Learning and Its Benefits
+category: quant_concept
 description: Bayesian Reinforcement Learning improves decision making by updating
   belief states with Bayes rule to adapt and explore smarter Discover more inside
+title: Understanding Bayesian Reinforcement Learning and Its Benefits
 ---
 
 ![Image](images/1.png)

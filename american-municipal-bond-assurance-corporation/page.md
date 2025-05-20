@@ -1,6 +1,8 @@
 ---
-title: "American Municipal Bond Assurance Corporation (Algo Trading)"
-description: "Discover how AMBAC plays a crucial role in municipal finance by providing bond insurance while navigating the evolving landscape of algorithmic trading."
+category: quant_concept
+description: Discover how AMBAC plays a crucial role in municipal finance by providing
+  bond insurance while navigating the evolving landscape of algorithmic trading.
+title: American Municipal Bond Assurance Corporation (Algo Trading)
 ---
 
 In today's complex financial landscape, municipal finance intersects with bond insurance and algorithmic trading, presenting both opportunities and challenges. This article explores the integral role of AMBAC in municipal finance, highlighting the importance of municipal bond insurance and the emerging trends in algorithmic trading within this context.

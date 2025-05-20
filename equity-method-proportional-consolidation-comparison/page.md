@@ -1,6 +1,8 @@
 ---
-title: "Equity Method and Proportional Consolidation Comparison (Algo Trading)"
-description: "Explore how proportional consolidation and the equity method impact financial reporting and the growing influence of algorithmic trading on market operations."
+category: quant_concept
+description: Explore how proportional consolidation and the equity method impact financial
+  reporting and the growing influence of algorithmic trading on market operations.
+title: Equity Method and Proportional Consolidation Comparison (Algo Trading)
 ---
 
 In today's complex financial landscape, understanding different accounting methods is crucial for investors and companies. As financial markets become increasingly sophisticated, the need for precise and insightful accounting practices is more vital than ever. This article explores the concepts of proportional consolidation and the equity method, two fundamental accounting approaches used in reporting investments in joint ventures. These methods have significant implications on how a company's financial position and performance are reported, thus playing a critical role in both accounting and financial reporting.

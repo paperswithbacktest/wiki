@@ -1,6 +1,8 @@
 ---
-title: "Asset and Liability Management Examples (Algo Trading)"
-description: "Explore asset and liability management with examples of algorithmic trading techniques to optimize financial strategies reduce risks and ensure market efficiency."
+category: quant_concept
+description: Explore asset and liability management with examples of algorithmic trading
+  techniques to optimize financial strategies reduce risks and ensure market efficiency.
+title: Asset and Liability Management Examples (Algo Trading)
 ---
 
 In the rapidly evolving world of finance, the effective management of assets and liabilities is crucial for maintaining financial stability. As the financial landscape becomes increasingly complex, the interconnected roles of liability management, asset management, and algorithmic trading emerge as fundamental components in shaping financial strategies. Grasping these concepts is essential for investors, financial institutions, and individuals aiming to navigate the intricacies of financial markets.

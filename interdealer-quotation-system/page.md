@@ -1,6 +1,8 @@
 ---
-title: "Interdealer Quotation System (Algo Trading)"
-description: "Explore the Interdealer Quotation System IQS for enhanced market transparency and efficiency, optimizing algorithmic trading and informed investment strategies."
+category: quant_concept
+description: Explore the Interdealer Quotation System IQS for enhanced market transparency
+  and efficiency, optimizing algorithmic trading and informed investment strategies.
+title: Interdealer Quotation System (Algo Trading)
 ---
 
 In today's fast-paced financial markets, effective access to information is crucial for investors. One of the systems that has revolutionized the trading landscape is the Interdealer Quotation System (IQS). The IQS serves as a pivotal tool, bridging the gap between traders and comprehensive market data necessary for informed decision-making. The system's integration capabilities enhance transparency, liquidity, and efficiency across various financial markets.

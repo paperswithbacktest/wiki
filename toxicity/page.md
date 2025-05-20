@@ -1,7 +1,8 @@
 ---
-title: Toxicity Detection and Mitigation in Machine Learning Models
+category: quant_concept
 description: Toxicity in machine learning models can perpetuate harmful biases developers
   can measure and mitigate toxic outputs to ensure safer AI Discover more inside
+title: Toxicity Detection and Mitigation in Machine Learning Models
 ---
 
 ![Image](images/1.png)

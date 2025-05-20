@@ -1,6 +1,9 @@
 ---
-title: "Roll Yield: Understanding Positive and Negative Outcomes (Algo Trading)"
-description: "Discover the crucial role of roll yield in futures trading and how it impacts algorithmic trading strategies Explore positive and negative outcomes for traders"
+category: quant_concept
+description: Discover the crucial role of roll yield in futures trading and how it
+  impacts algorithmic trading strategies Explore positive and negative outcomes for
+  traders
+title: 'Roll Yield: Understanding Positive and Negative Outcomes (Algo Trading)'
 ---
 
 In the highly dynamic world of trading, especially in the context of futures trading, roll yield stands out as a pivotal component that can significantly influence the profitability of various investment strategies. Roll yield is the outcome of profits or losses incurred when rolling futures contracts over successive delivery months before they expire. Investors typically roll their contracts to avoid taking physical delivery of the asset, which can either result in a positive or negative roll yield, largely dictated by prevailing market conditions.

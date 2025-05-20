@@ -1,6 +1,8 @@
 ---
-title: "Consumer Price Index for Urban Wage Earners and Clerical Workers (Algo Trading)"
-description: "Discover how the Consumer Price Index for Urban Wage Earners and Clerical Workers (CPI-W) integrates with algorithmic trading to refine financial strategies."
+category: dataset
+description: Discover how the Consumer Price Index for Urban Wage Earners and Clerical
+  Workers (CPI-W) integrates with algorithmic trading to refine financial strategies.
+title: Consumer Price Index for Urban Wage Earners and Clerical Workers (Algo Trading)
 ---
 
 The world of finance is constantly changing and adapting, as new strategies and tools continue to emerge. A significant development in recent years is algorithmic trading, or algo trading. This method uses sophisticated algorithms and computer systems to execute trades at high speeds and with precision. In this article, we examine the intersection of CPI-W (Consumer Price Index for Urban Wage Earners and Clerical Workers) and algorithmic trading. We aim to understand how these two elements can influence each other and how they might be utilized effectively.

@@ -1,6 +1,9 @@
 ---
-title: "Key Considerations in Balance Sheet Analysis (Algo Trading)"
-description: "Explore balance sheet analysis crucial for algorithmic trading Discover key financial ratios and insights into assets liabilities and equity to enhance trading strategies"
+category: quant_concept
+description: Explore balance sheet analysis crucial for algorithmic trading Discover
+  key financial ratios and insights into assets liabilities and equity to enhance
+  trading strategies
+title: Key Considerations in Balance Sheet Analysis (Algo Trading)
 ---
 
 Financial statement analysis is a crucial element in evaluating a company's stability and performance, particularly for algo traders who rely on data-driven insights to inform their strategies. A key component, the balance sheet, provides a comprehensive snapshot of a company's financial status by detailing its assets, liabilities, and shareholders' equity at a specific point in time. This information is indispensable for traders looking to gauge a company's financial health and its capability to fulfill obligations and seize growth opportunities.

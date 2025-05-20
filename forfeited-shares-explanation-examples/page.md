@@ -1,6 +1,9 @@
 ---
-title: "Forfeited Shares: Explanation and Examples (Algo Trading)"
-description: "Explore the key aspects of forfeited shares and stock cancellation in trading Discover how these concepts affect market dynamics and the role of algorithmic trading in managing them"
+category: quant_concept
+description: Explore the key aspects of forfeited shares and stock cancellation in
+  trading Discover how these concepts affect market dynamics and the role of algorithmic
+  trading in managing them
+title: 'Forfeited Shares: Explanation and Examples (Algo Trading)'
 ---
 
 In the world of investing and trading, the concepts of share forfeiture, forfeited shares, and stock cancellation are pivotal yet often overlooked. These financial mechanisms can significantly influence the dynamics between investors and publicly-traded companies. Share forfeiture occurs when shareholders fail to meet purchase commitments, leading to a retraction of their ownership rights, which can be reissued to new investors. Stock cancellation, on the other hand, involves a company's decision to annul shares, typically as part of a strategic restructuring or corporate action. 

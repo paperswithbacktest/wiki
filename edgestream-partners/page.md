@@ -1,6 +1,9 @@
 ---
-title: "Edgestream Partners (Algo Trading)"
-description: "Edgestream Partners excels in algorithmic trading, leveraging advanced AI and machine learning to optimize strategies, enhance market efficiency, and minimize risks."
+category: quant_concept
+description: Edgestream Partners excels in algorithmic trading, leveraging advanced
+  AI and machine learning to optimize strategies, enhance market efficiency, and minimize
+  risks.
+title: Edgestream Partners (Algo Trading)
 ---
 
 Edgestream Partners is recognized as a leading entity within the algorithmic trading industry, a sector that has transformed the landscape of financial markets globally. As the digitization of trading activities continues to advance, algorithmic trading has emerged as an indispensable component of modern finance. It leverages the power of quantitative models and computational algorithms, allowing for the execution of trades at speeds and volumes unimaginable in traditional trading practices. This type of trading enhances market efficiency, reduces transaction costs, and mitigates human errors, which collectively contribute to more stable and liquid markets.

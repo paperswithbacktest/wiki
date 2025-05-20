@@ -1,7 +1,8 @@
 ---
-title: Understanding Epsilon Greedy Policy in Reinforcement Learning
+category: quant_concept
 description: Epsilon Greedy Policy balances exploration and exploitation in reinforcement
   learning to boost reward performance over time Discover more inside
+title: Understanding Epsilon Greedy Policy in Reinforcement Learning
 ---
 
 ![Image](images/1.png)

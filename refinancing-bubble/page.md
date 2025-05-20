@@ -1,6 +1,9 @@
 ---
-title: "Refinancing Bubble (Algo Trading)"
-description: "Explore the interconnectedness of refinancing, economic bubbles, and algorithmic trading in real estate Discover strategies to navigate volatile market dynamics effectively"
+category: quant_concept
+description: Explore the interconnectedness of refinancing, economic bubbles, and
+  algorithmic trading in real estate Discover strategies to navigate volatile market
+  dynamics effectively
+title: Refinancing Bubble (Algo Trading)
 ---
 
 The fields of real estate, economic bubbles, and algorithmic trading have become increasingly intertwined, reflecting the complexities and rapid evolution of today's financial landscape. With the real estate market frequently experiencing significant fluctuations, understanding the interconnectedness of these domains is essential for investors and stakeholders striving to make informed decisions.

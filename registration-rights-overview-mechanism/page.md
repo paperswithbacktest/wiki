@@ -1,6 +1,8 @@
 ---
-title: "Registration Rights: Overview and Mechanism (Algo Trading)"
-description: "Explore the crucial role of registration rights and the impact of algorithmic trading in securities investment to understand market dynamics and investment strategies."
+category: quant_concept
+description: Explore the crucial role of registration rights and the impact of algorithmic
+  trading in securities investment to understand market dynamics and investment strategies.
+title: 'Registration Rights: Overview and Mechanism (Algo Trading)'
 ---
 
 Securities investment is a fundamental aspect of the global financial system, involving the allocation of capital into various financial instruments such as stocks, bonds, and derivatives. This process is aimed at generating returns through capital appreciation, dividends, or interest income. Central to understanding securities investment are two critical components: registration rights and algorithmic trading, both of which have significant influences on the dynamics of the industry.

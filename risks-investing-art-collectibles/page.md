@@ -1,6 +1,8 @@
 ---
-title: "Risks Associated with Investing in Art and Collectibles (Algo Trading)"
-description: "Explore the unique risks and potential rewards of investing in art collectibles and algorithmic trading to diversify your portfolio while navigating market challenges."
+category: trading_strategy
+description: Explore the unique risks and potential rewards of investing in art collectibles
+  and algorithmic trading to diversify your portfolio while navigating market challenges.
+title: Risks Associated with Investing in Art and Collectibles (Algo Trading)
 ---
 
 Investing in collectibles, art, and algorithmic trading presents unique opportunities and challenges for investors looking to diversify their portfolios beyond traditional assets like stocks, bonds, and real estate. These alternative investment avenues are often attractive due to their potential for high returns and their ability to enhance portfolio diversification. However, they come with a distinct set of risks and considerations that require careful navigation.

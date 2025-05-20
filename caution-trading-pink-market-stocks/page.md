@@ -1,6 +1,8 @@
 ---
-title: "Caution in Trading Pink Market Stocks (Algo Trading)"
-description: "Approach Pink Market stocks with care as this OTC market has less regulatory oversight. Algo trading offers opportunities but also amplifies risks."
+category: trading_strategy
+description: Approach Pink Market stocks with care as this OTC market has less regulatory
+  oversight. Algo trading offers opportunities but also amplifies risks.
+title: Caution in Trading Pink Market Stocks (Algo Trading)
 ---
 
 Stock trading has long been a cornerstone of financial markets, offering investors the opportunity to buy and sell equities in pursuit of generating returns. Traditionally carried out on major exchanges, stock trading has expanded significantly with advancements in technology and increased accessibility, leading to a surge in investor participation. The advent of online trading platforms and mobile apps has democratized access to stock markets, allowing both seasoned and novice investors to engage with ease. This increased participation is reflected in the rise of retail trading volumes and diversification of trading strategies being employed.

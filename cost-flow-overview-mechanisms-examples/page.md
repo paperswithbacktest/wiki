@@ -1,6 +1,8 @@
 ---
-title: "Cost Flow: Overview, Mechanisms, and Examples (Algo Trading)"
-description: "Discover the fundamental role of cost flow in algorithmic trading and how it interlinks financial analysis and cost accounting to optimize trading strategies."
+category: quant_concept
+description: Discover the fundamental role of cost flow in algorithmic trading and
+  how it interlinks financial analysis and cost accounting to optimize trading strategies.
+title: 'Cost Flow: Overview, Mechanisms, and Examples (Algo Trading)'
 ---
 
 Cost flow, financial analysis, cost accounting, and algorithmic trading serve as fundamental pillars in today's intricate financial ecosystem. Understanding these concepts' interconnectedness is essential for businesses aiming to thrive in a competitive marketplace. Cost flow refers to the path costs take as they traverse through different stages within a company, a process that is pivotal in industries like manufacturing. It involves tracing costs from raw materials to work in progress, then to finished goods inventory, and finally to the cost of goods sold [^1^]. Financial analysis leverages cost flow data to evaluate a company’s financial health, enabling informed decision-making and strategy formulation.

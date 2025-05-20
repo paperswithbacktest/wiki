@@ -1,6 +1,13 @@
 ---
-title: "Scilab (Algo Trading)"
-description: Explore the advantages of using Scilab for algorithmic trading and see how this open-source tool offers robust numerical computation capabilities essential for developing efficient trading strategies. With its cost-effective nature and rich features like data visualization and integration with other programming languages, Scilab is ideal for financial modeling and quantitative analysis. Discover how traders and analysts can leverage Scilab's flexibility and functionality to craft sophisticated models and gain a competitive edge in the fast-paced world of algorithmic trading.
+category: quant_concept
+description: Explore the advantages of using Scilab for algorithmic trading and see
+  how this open-source tool offers robust numerical computation capabilities essential
+  for developing efficient trading strategies. With its cost-effective nature and
+  rich features like data visualization and integration with other programming languages,
+  Scilab is ideal for financial modeling and quantitative analysis. Discover how traders
+  and analysts can leverage Scilab's flexibility and functionality to craft sophisticated
+  models and gain a competitive edge in the fast-paced world of algorithmic trading.
+title: Scilab (Algo Trading)
 ---
 
 Algorithmic trading represents a significant progression in the automation of financial markets, leveraging the power of computerized systems to execute trading strategies at speeds and frequencies that are beyond human capabilities. This approach often involves statistical analysis, quantitative models, and technical indicators to determine the optimal timing and placement of trades. The components of algorithmic trading include signal generation, which identifies opportunities; risk management, which ensures trades conform to defined limits; and execution, which involves the actual buying or selling of securities on the market.

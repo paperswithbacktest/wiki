@@ -1,6 +1,8 @@
 ---
-title: "National Diamond Theory (Algo Trading)"
-description: "Explore the synergy between Michael Porter's National Diamond Model and algorithmic trading to enhance global business competitiveness in evolving markets."
+category: quant_concept
+description: Explore the synergy between Michael Porter's National Diamond Model and
+  algorithmic trading to enhance global business competitiveness in evolving markets.
+title: National Diamond Theory (Algo Trading)
 ---
 
 Economic theory has long served as the backbone of business strategies, guiding decision-making processes and shaping competitive landscapes. Understanding how these theories can be integrated into modern business practices is essential for any organization aiming to thrive in today's fast-paced global market. At this intersection, we find two pivotal concepts: Michael Porter's National Diamond Model and algorithmic trading.

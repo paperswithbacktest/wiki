@@ -1,6 +1,8 @@
 ---
-title: "Comparison of Options and Futures (Algo Trading)"
-description: "Explore the world of options, futures, and algo trading to enhance your investment strategies manage risk, and tap into speculative opportunities."
+category: quant_concept
+description: Explore the world of options, futures, and algo trading to enhance your
+  investment strategies manage risk, and tap into speculative opportunities.
+title: Comparison of Options and Futures (Algo Trading)
 ---
 
 Financial derivatives play a crucial role in the global financial markets by offering tools for managing risk, enhancing investment strategies, and creating opportunities for speculative trades. These complex instruments are integral to a wide array of financial activities, influencing both the price discovery process and market liquidity.

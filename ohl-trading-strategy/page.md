@@ -1,6 +1,12 @@
 ---
-title: "OHL Trading Strategy Explained (Algo Trading)"
-description: Discover the Open High Low (OHL) trading strategy in algorithmic trading, focusing on the relationship between the day's open, high, and low prices to identify trading opportunities. Understand how this technique, derived from OHLC data, can provide insights into market trends and enhance intraday trading decisions. Explore the significance of market data points and their role in developing effective trading strategies for improved outcomes.
+category: trading_strategy
+description: Discover the Open High Low (OHL) trading strategy in algorithmic trading,
+  focusing on the relationship between the day's open, high, and low prices to identify
+  trading opportunities. Understand how this technique, derived from OHLC data, can
+  provide insights into market trends and enhance intraday trading decisions. Explore
+  the significance of market data points and their role in developing effective trading
+  strategies for improved outcomes.
+title: OHL Trading Strategy Explained (Algo Trading)
 ---
 
 In algorithmic trading, understanding market movements is crucial for making informed decisions. Traders and investors rely on various tools and methods to interpret market trends and price behaviors. One of the commonly used techniques in intraday trading is the Open High Low Close (OHLC) formula. This method is vital for predicting market trends and making trading decisions based on price movements throughout the trading session.

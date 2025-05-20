@@ -1,6 +1,8 @@
 ---
-title: "First In, Still Here (FISH): Definition and Function (Algo Trading)"
-description: "Explore the First In, Still Here (FISH) accounting concept and its impact on inventory management, automated trading, and strategies to overcome inefficiencies."
+category: quant_concept
+description: Explore the First In, Still Here (FISH) accounting concept and its impact
+  on inventory management, automated trading, and strategies to overcome inefficiencies.
+title: 'First In, Still Here (FISH): Definition and Function (Algo Trading)'
 ---
 
 The financial world is perpetually evolving, introducing new strategies and terminologies to enhance efficiency and competitiveness. One such emerging concept within accounting and inventory management systems is the 'First In, Still Here' (FISH) method. The FISH method offers a unique perspective on inventory handling, contrasting with more traditional accounting practices such as First In, First Out (FIFO) and Last In, First Out (LIFO).

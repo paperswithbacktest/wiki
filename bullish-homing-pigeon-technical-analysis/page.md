@@ -1,6 +1,9 @@
 ---
-title: "Bullish Homing Pigeon in Technical Analysis (Algo Trading)"
-description: "Understand the bullish homing pigeon candlestick pattern as a signal for potential bullish reversals, crucial for algorithmic trading and enhancing predictive models."
+category: trading_strategy
+description: Understand the bullish homing pigeon candlestick pattern as a signal
+  for potential bullish reversals, crucial for algorithmic trading and enhancing predictive
+  models.
+title: Bullish Homing Pigeon in Technical Analysis (Algo Trading)
 ---
 
 Candlestick patterns are a cornerstone of technical analysis, serving as a tool for traders to interpret market behavior by visualizing price movements over specified time frames. Originating from 18th century Japan for predicting rice prices, these patterns have become pivotal in modern trading strategies. They offer insights into potential future market movements by illustrating opening, closing, high, and low prices of financial instruments.

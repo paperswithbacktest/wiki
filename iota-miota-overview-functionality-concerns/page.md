@@ -1,6 +1,10 @@
 ---
-title: "IOTA (MIOTA): Overview, Functionality, and Concerns (Algo Trading)"
-description: "Discover how IOTA, utilizing the innovative Tangle network, revolutionizes IoT with zero transaction fees and scalability. This article explores IOTA's unique framework, its integration with algo trading, and the potential impact on financial markets."
+category: quant_concept
+description: Discover how IOTA, utilizing the innovative Tangle network, revolutionizes
+  IoT with zero transaction fees and scalability. This article explores IOTA's unique
+  framework, its integration with algo trading, and the potential impact on financial
+  markets.
+title: 'IOTA (MIOTA): Overview, Functionality, and Concerns (Algo Trading)'
 ---
 
 Blockchain technology has had a profound impact on various industries by providing secure, transparent, and decentralized infrastructures. A notable innovation within this field is IOTA, which is tailored to serve as a foundational framework for the Internet of Things (IoT). IOTA distinguishes itself through its use of the Tangle, a distinct form of distributed ledger technology. Unlike conventional blockchain structures, the Tangle offers high scalability and zero transaction fees, facilitating seamless machine-to-machine communications. This makes IOTA a pivotal player in advancing IoT capabilities.

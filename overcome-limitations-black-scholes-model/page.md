@@ -1,6 +1,8 @@
 ---
-title: "Methods to Overcome Limitations of Black-Scholes Model (Algo Trading)"
-description: "Explore methods to enhance the Black-Scholes Model in algo trading by overcoming its limitations for improved option pricing and risk management strategies."
+category: quant_concept
+description: Explore methods to enhance the Black-Scholes Model in algo trading by
+  overcoming its limitations for improved option pricing and risk management strategies.
+title: Methods to Overcome Limitations of Black-Scholes Model (Algo Trading)
 ---
 
 In the world of financial derivatives, the Black-Scholes Model stands out as a cornerstone for options pricing. Developed to provide a systematic approach to determine the fair value of options, this model has significantly influenced both theoretical finance and practical trading strategies. The core principle of the Black-Scholes Model is its method to calculate options prices using market variables such as current stock prices, strike prices, risk-free interest rates, the time to expiration, and volatility. It assumes that markets are efficient and that asset prices follow a lognormal distribution, enabling a risk-neutral valuation method that simplifies the complex dynamics of options pricing into a manageable formula.
@@ -223,4 +225,3 @@ Hull, J. C. (2017). "Options, Futures, and Other Derivatives." Pearson Education
 Wilmott, P. (2006). "Paul Wilmott Introduces Quantitative Finance." John Wiley & Sons. This book provides an accessible introduction to quantitative finance, including detailed discussions on the Black-Scholes Model and its applications in trading strategies.
 
 Gatheral, J. (2006). "The Volatility Surface: A Practitioner’s Guide." Wiley Finance. This practitioner’s guide examines the volatility surface, exploring deviations from Black-Scholes assumptions such as volatility skew, and introduces alternative models for more accurate pricing and risk assessment.
-

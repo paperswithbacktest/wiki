@@ -1,7 +1,8 @@
 ---
-title: Comprehensive Guide to Clustering in Machine Learning
+category: quant_concept
 description: Clustering in machine learning groups data into clusters using k-means
   hierarchical DBSCAN to reveal data patterns and insights Discover more inside
+title: Comprehensive Guide to Clustering in Machine Learning
 ---
 
 ![Image](images/1.png)

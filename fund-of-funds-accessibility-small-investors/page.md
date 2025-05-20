@@ -1,6 +1,9 @@
 ---
-title: "Fund of Funds: Accessibility for Small Investors (Algo Trading)"
-description: "Explore how funds of funds and algorithmic trading open up high-level investment strategies to small investors seeking diversification and access to pro management."
+category: trading_strategy
+description: Explore how funds of funds and algorithmic trading open up high-level
+  investment strategies to small investors seeking diversification and access to pro
+  management.
+title: 'Fund of Funds: Accessibility for Small Investors (Algo Trading)'
 ---
 
 The integration of technology has significantly transformed the world of investing. In particular, this transformation has sparked discussions about investment accessibility, a topic of increasing importance as more individuals, especially those with limited capital, seek to diversify their portfolios. Technological advancements are not only reshaping investment landscapes but also democratizing access to diverse investment opportunities previously reserved for institutional investors or wealthy individuals.

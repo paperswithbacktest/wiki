@@ -1,6 +1,9 @@
 ---
-title: "Economic Espionage: Overview and Critiques (Algo Trading)"
-description: "Explore the complexities of economic espionage and algorithmic trading vulnerabilities in today's competitive global markets Understanding these threats is crucial for safeguarding corporate integrity"
+category: quant_concept
+description: Explore the complexities of economic espionage and algorithmic trading
+  vulnerabilities in today's competitive global markets Understanding these threats
+  is crucial for safeguarding corporate integrity
+title: 'Economic Espionage: Overview and Critiques (Algo Trading)'
 ---
 
 In today's hyper-competitive global marketplace, the protection of corporate information has acquired unprecedented importance. Businesses are increasingly under threat from economic espionage, industrial spying, and corporate theft, which are not just isolated acts of wrongdoing but represent systematic attempts to gain unfair advantage. These acts have become sophisticated, leveraging technology to exploit vulnerabilities within organizations.

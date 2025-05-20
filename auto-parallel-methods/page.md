@@ -1,7 +1,8 @@
 ---
-title: Auto Parallel Methods for Scalable Machine Learning Training
+category: quant_concept
 description: Auto Parallel Methods automate machine learning training across GPUs
   and TPUs to speed up model scaling and resource utilization Discover more inside
+title: Auto Parallel Methods for Scalable Machine Learning Training
 ---
 
 ![Image](images/1.png)

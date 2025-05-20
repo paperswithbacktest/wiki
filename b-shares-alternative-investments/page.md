@@ -1,6 +1,9 @@
 ---
-title: "B-Shares and Alternative Investments (Algo Trading)"
-description: "Explore B-shares, alternative investments, and algorithmic trading to enhance portfolio diversification, access Chinese markets, and optimize trading efficiency."
+category: trading_strategy
+description: Explore B-shares, alternative investments, and algorithmic trading to
+  enhance portfolio diversification, access Chinese markets, and optimize trading
+  efficiency.
+title: B-Shares and Alternative Investments (Algo Trading)
 ---
 
 In the ever-evolving world of finance, investors continue to seek innovative ways to diversify their portfolios. As traditional investment avenues such as stocks and bonds often experience fluctuations tied to global economic patterns, alternative investments offer a compelling option for portfolio diversification. Among these alternatives are B-shares, a class of shares particularly relevant to foreign investors eyeing the burgeoning Chinese market. B-shares provide a gateway to participate in the growth of Chinese companies without the limitations imposed on ordinary shares.

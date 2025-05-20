@@ -1,6 +1,8 @@
 ---
-title: "Closing Price Vs. Last Traded Price (Algo Trading)"
-description: "Explore the significance of closing and last traded prices in stock trading and how they are used in algorithmic trading strategies to enhance market decisions."
+category: quant_concept
+description: Explore the significance of closing and last traded prices in stock trading
+  and how they are used in algorithmic trading strategies to enhance market decisions.
+title: Closing Price Vs. Last Traded Price (Algo Trading)
 ---
 
 In stock trading, the closing price refers to the last price at which a stock is traded during a regular trading session. It acts as a critical benchmark for market participants, serving as a reference point for evaluating the stock's daily performance. This price is determined at the end of the trading day and is publicly reported, often influencing investor sentiment and subsequent trading decisions. The last traded price, on the other hand, is the price at which the most recent transaction occurred for a specific security during a trading session. Unlike the closing price, it constantly updates throughout the trading day, providing a real-time snapshot of the stock's market value.

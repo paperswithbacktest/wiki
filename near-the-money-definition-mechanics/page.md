@@ -1,6 +1,9 @@
 ---
-title: "Near the Money: Definition and Mechanics (Algo Trading)"
-description: "Explore the synergy between algorithmic and options trading focusing on near-the-money options. Enhance trading strategies, manage risks, and maximize profits."
+category: quant_concept
+description: Explore the synergy between algorithmic and options trading focusing
+  on near-the-money options. Enhance trading strategies, manage risks, and maximize
+  profits.
+title: 'Near the Money: Definition and Mechanics (Algo Trading)'
 ---
 
 Options trading and algorithmic trading have become indispensable in contemporary financial markets, where rapid changes and volatility present both significant opportunities and risks. Options trading allows investors to secure rights to buy or sell underlying assets at predetermined prices, offering versatility in strategy and a spectrum of potential outcomes. Among the various options strategies, the 'near the money' concept plays a pivotal role. This term describes options whose strike prices are close to the current market prices of their underlying security, providing a strategic advantage due to their high responsiveness to market movements, which can maximize leverage for a relatively low capital outlay.

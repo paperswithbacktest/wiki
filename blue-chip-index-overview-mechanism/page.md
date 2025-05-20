@@ -1,6 +1,8 @@
 ---
-title: "Blue-Chip Index: Overview and Mechanism (Algo Trading)"
-description: "Explore the essentials of blue-chip index investments and the influential role of algorithmic trading in today's markets for stable financial growth."
+category: quant_concept
+description: Explore the essentials of blue-chip index investments and the influential
+  role of algorithmic trading in today's markets for stable financial growth.
+title: 'Blue-Chip Index: Overview and Mechanism (Algo Trading)'
 ---
 
 In investing, understanding the intricacies involved in Blue-Chip Index investments is crucial for ensuring stable and reliable returns. Blue-chip stocks, known for their established reputation and consistent performance, are often equated with reliability and steady growth, which makes them an attractive option for investors. These stocks are typically from well-established companies with strong financial performance, making them less volatile than other types of stocks.

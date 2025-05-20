@@ -1,6 +1,9 @@
 ---
-title: "Activity Cost Pool: Overview and Examples (Algo Trading)"
-description: "Explore the synergy between cost accounting and algorithmic trading with activity cost pools Learn how to enhance strategies optimize processes and boost profitability"
+category: quant_concept
+description: Explore the synergy between cost accounting and algorithmic trading with
+  activity cost pools Learn how to enhance strategies optimize processes and boost
+  profitability
+title: 'Activity Cost Pool: Overview and Examples (Algo Trading)'
 ---
 
 Business finance, cost accounting, and algorithmic trading represent a triad of interconnected disciplines that play pivotal roles in today’s dynamic economic landscapes. Each field contributes uniquely to the efficiency and profitability of enterprises, yet they are deeply interrelated through the fundamental concept of understanding and managing costs. At the heart of this interconnection lies the principle of accurately mapping out cost structures, particularly through the use of activity cost pools. 
@@ -202,4 +205,3 @@ By embracing these practices, companies are better positioned for sustained prof
    - Platforms like Coursera and edX offer numerous courses focusing on cost accounting, finance, and algorithmic trading. These courses can provide both foundational knowledge and advanced insights from industry experts and academia.
 
 These resources should provide a comprehensive starting point for readers interested in expanding their understanding of cost accounting and algorithmic trading, catering to both theoretical and practical applications.
-

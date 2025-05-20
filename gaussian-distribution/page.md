@@ -1,6 +1,9 @@
 ---
-title: "Gaussian Distribution in Finance (Algo Trading)"
-description: Explore the role of Gaussian distribution in algorithmic trading, a key element for modeling financial data. Understand its benefits and limitations in predicting market trends and managing risk for informed trading decisions.
+category: quant_concept
+description: Explore the role of Gaussian distribution in algorithmic trading, a key
+  element for modeling financial data. Understand its benefits and limitations in
+  predicting market trends and managing risk for informed trading decisions.
+title: Gaussian Distribution in Finance (Algo Trading)
 ---
 
 Algorithmic trading has transformed financial markets by automating trading decisions and executing orders based on predefined criteria. At the heart of many algorithmic trading systems is the Gaussian distribution, a fundamental statistical concept also known as the normal distribution. This distribution is crucial due to its properties, such as the bell-shaped curve, which simplifies the modeling of financial data and market behaviors. The Gaussian distribution's formula is prominently used in these algorithms to model asset price movements and to gauge market volatility accurately.

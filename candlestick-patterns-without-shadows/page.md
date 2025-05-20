@@ -1,6 +1,8 @@
 ---
-title: "Candlestick Patterns Without Shadows (Algo Trading)"
-description: "Explore the intersection of candlestick patterns and algorithmic trading to enhance strategy precision Discover how pattern recognition optimizes trade execution"
+category: trading_strategy
+description: Explore the intersection of candlestick patterns and algorithmic trading
+  to enhance strategy precision Discover how pattern recognition optimizes trade execution
+title: Candlestick Patterns Without Shadows (Algo Trading)
 ---
 
 In financial markets, traders constantly seek tools that facilitate informed decision-making. Among these tools, candlestick patterns have been a staple in technical analysis, providing a visual representation of market sentiment. Originating in Japan, these patterns consist of individual candlesticks on price charts, each representing the open, high, low, and close prices over a specific time period. The interpretation of these patterns offers insights into potential market movements and investor psychology.

@@ -1,6 +1,14 @@
 ---
-title: "Equilibrium Quantity and Price Relationship (Algo Trading)"
-description: "Explore the intricate relationship between equilibrium quantity and price in the context of algorithmic trading. Understand how economic equilibrium—where supply meets demand—stabilizes market prices and sets the stage for efficient market operations. Learn how algorithmic trading, with its rapid execution capabilities, transforms traditional price discovery processes, offering benefits like enhanced liquidity but also posing challenges such as increased market volatility. This comprehensive guide is essential for traders and investors seeking to navigate the complexities of modern markets by aligning economic fundamentals with technological advancements."
+category: quant_concept
+description: Explore the intricate relationship between equilibrium quantity and price
+  in the context of algorithmic trading. Understand how economic equilibrium—where
+  supply meets demand—stabilizes market prices and sets the stage for efficient market
+  operations. Learn how algorithmic trading, with its rapid execution capabilities,
+  transforms traditional price discovery processes, offering benefits like enhanced
+  liquidity but also posing challenges such as increased market volatility. This comprehensive
+  guide is essential for traders and investors seeking to navigate the complexities
+  of modern markets by aligning economic fundamentals with technological advancements.
+title: Equilibrium Quantity and Price Relationship (Algo Trading)
 ---
 
 In the rapidly evolving financial landscape, comprehension of key economic principles is essential for traders and investors. Central to this understanding is the relationship between price, economic equilibrium, and equilibrium quantity—concepts that lie at the heart of how markets operate efficiently. Economic equilibrium occurs when market supply and demand balance, leading to a stable price and quantity of goods being bought and sold. The intersection where supply equals demand results in the equilibrium quantity, a situation where there is neither excess supply nor demand.

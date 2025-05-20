@@ -1,6 +1,8 @@
 ---
-title: "Poverty: Causes and Measurement (Algo Trading)"
-description: "Explore the complexities of poverty its causes and measurement methods. Discover how algorithmic trading insights could inform strategies for poverty alleviation."
+category: quant_concept
+description: Explore the complexities of poverty its causes and measurement methods.
+  Discover how algorithmic trading insights could inform strategies for poverty alleviation.
+title: 'Poverty: Causes and Measurement (Algo Trading)'
 ---
 
 Poverty is a complex and multifaceted issue that affects millions of people worldwide. It manifests in various forms, including material deprivation, social exclusion, and a lack of access to basic services. The causes of poverty are diverse, with factors ranging from limited access to education and healthcare to systemic economic disparities and social discrimination. This article explores the intricacies of poverty, examining both individual and collective dimensions, and how poverty is measured through various socioeconomic indicators.

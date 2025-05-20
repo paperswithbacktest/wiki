@@ -1,6 +1,9 @@
 ---
-title: "Dual-listed company (Algo Trading)"
-description: "Explore the intricate relationship between dual-listed companies and algorithmic trading to uncover strategic advantages in global markets. Discover insights into their roles."
+category: quant_concept
+description: Explore the intricate relationship between dual-listed companies and
+  algorithmic trading to uncover strategic advantages in global markets. Discover
+  insights into their roles.
+title: Dual-listed company (Algo Trading)
 ---
 
 Understanding dual-listed companies is essential for comprehending the dynamics of modern financial markets, especially in the context of algorithmic trading. A dual-listing arrangement involves a company being listed on two or more stock exchanges, which enhances its visibility, liquidity, and appeal among a broader investor base. This setup allows companies to tap into multiple capital markets while maintaining distinct legal and operational entities in different regions. The ability to access larger pools of capital and attract diverse investors is vital for global enterprises seeking strategic growth opportunities.

@@ -1,7 +1,8 @@
 ---
-title: Understanding Embedding Spaces in Machine Learning Models
+category: quant_concept
 description: Embedding spaces map data into numerical vectors that place similar items
   close together improving NLP recommendation and vision tasks Discover more inside
+title: Understanding Embedding Spaces in Machine Learning Models
 ---
 
 ![Image](images/1.png)

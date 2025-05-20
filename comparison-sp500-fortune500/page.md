@@ -1,6 +1,8 @@
 ---
-title: "Comparison of S&P 500 and Fortune 500 (Algo Trading)"
-description: "Explore the distinctions between Fortune 500 and S&P 500 indices and their connection to algorithmic trading in shaping modern financial markets."
+category: quant_concept
+description: Explore the distinctions between Fortune 500 and S&P 500 indices and
+  their connection to algorithmic trading in shaping modern financial markets.
+title: Comparison of S&P 500 and Fortune 500 (Algo Trading)
 ---
 
 In the world of finance and investment, understanding the distinctions between major indices like the Fortune 500 and the S&P 500, alongside the impact of technological advancements such as algorithmic trading, is crucial. The Fortune 500 and the S&P 500 represent two distinct measures of corporate influence and market performance. The Fortune 500, compiled annually by Fortune magazine, ranks the top 500 U.S. companies based on total revenue, offering insights into the largest corporations across different sectors. On the other hand, the S&P 500 includes 500 publicly traded U.S. companies, ranked by market capitalization, providing a barometer for the U.S. stock market and economy.

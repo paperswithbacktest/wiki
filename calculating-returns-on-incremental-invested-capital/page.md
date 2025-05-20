@@ -1,6 +1,8 @@
 ---
-title: "Calculating Returns on Incremental Invested Capital (Algo Trading)"
-description: "Discover how to calculate Return on Incremental Invested Capital in algo trading. Learn how this metric enhances investment efficiency and trading strategies."
+category: trading_strategy
+description: Discover how to calculate Return on Incremental Invested Capital in algo
+  trading. Learn how this metric enhances investment efficiency and trading strategies.
+title: Calculating Returns on Incremental Invested Capital (Algo Trading)
 ---
 
 In today's complex financial landscape, understanding key investment metrics is crucial for both individual investors and large institutions. These metrics serve as essential tools for assessing the performance and potential of investments, helping stakeholders make informed decisions. Among these metrics, Incremental Invested Capital (IIC) is gaining recognition for its role in evaluating the efficiency with which capital is deployed and the returns it generates.

@@ -1,6 +1,8 @@
 ---
-title: "multi-agent trading systems (Algo Trading)"
-description: "Explore multi-agent trading systems and how they leverage AI to optimize algorithmic trading strategies achieving superior results through role specialization."
+category: trading_strategy
+description: Explore multi-agent trading systems and how they leverage AI to optimize
+  algorithmic trading strategies achieving superior results through role specialization.
+title: multi-agent trading systems (Algo Trading)
 ---
 
 Automated trading systems have become a fundamental part of modern financial markets, streamlining and optimizing the process of executing trades with unprecedented precision and speed. These systems utilize complex algorithms and data analysis tools to make trading decisions, often employing vast datasets and market signals to optimize performance. Within this landscape, multi-agent trading systems represent an innovative approach, harnessing the power of artificial intelligence to enhance trading strategies and deliver superior results.

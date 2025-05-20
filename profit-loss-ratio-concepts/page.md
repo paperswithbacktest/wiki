@@ -1,6 +1,9 @@
 ---
-title: "Profit and Loss Ratio Concepts (Algo Trading)"
-description: "Explore the crucial role of the profit-loss ratio in algorithmic trading and investment analysis, guiding traders in maximizing returns and managing risk effectively."
+category: quant_concept
+description: Explore the crucial role of the profit-loss ratio in algorithmic trading
+  and investment analysis, guiding traders in maximizing returns and managing risk
+  effectively.
+title: Profit and Loss Ratio Concepts (Algo Trading)
 ---
 
 In the fast-paced world of financial markets, traders and investors continually seek ways to optimize their strategies and enhance performance. An essential component of this process is the analysis of financial metrics, with the profit-loss ratio serving as a key parameter in evaluating the effectiveness of trades. As market participants endeavor to maximize returns while controlling risk, understanding this ratio has become paramount.

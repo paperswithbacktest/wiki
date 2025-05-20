@@ -1,6 +1,9 @@
 ---
-title: "Clean Surplus Accounting and Income Statement Adjustments (Algo Trading)"
-description: "Explore how clean surplus accounting and income statement adjustments enhance financial transparency and improve algorithmic trading accuracy in financial markets."
+category: quant_concept
+description: Explore how clean surplus accounting and income statement adjustments
+  enhance financial transparency and improve algorithmic trading accuracy in financial
+  markets.
+title: Clean Surplus Accounting and Income Statement Adjustments (Algo Trading)
 ---
 
 In the ever-evolving world of finance, understanding the nuances of financial reporting and accounting is critical for stakeholders to make informed decisions. This requires a thorough grasp of how clean surplus accounting and income statement adjustments contribute to an accurate depiction of a company's financial performance. Clean surplus accounting, for instance, contrasts traditional accounting by emphasizing the importance of net income without incorporating unusual gains or losses. Such a focus ensures that deviations in income not typically expected do not overshadow the genuine profitability metrics of a business.

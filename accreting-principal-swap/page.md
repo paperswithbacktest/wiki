@@ -1,6 +1,8 @@
 ---
-title: "Accreting Principal Swap (Algo Trading)"
-description: "Explore the role of interest rate and accreting swaps in algorithmic trading for risk management and investment optimization in modern financial markets."
+category: quant_concept
+description: Explore the role of interest rate and accreting swaps in algorithmic
+  trading for risk management and investment optimization in modern financial markets.
+title: Accreting Principal Swap (Algo Trading)
 ---
 
 Financial derivatives are pivotal instruments in today's financial landscape, providing essential tools for risk management and the optimization of investment strategies. This article examines interest rate swaps, accreting swaps, and their integration into algorithmic trading systems, highlighting their significance and applications.
@@ -122,4 +124,3 @@ Understanding interest rate swaps is crucial for effective risk management, espe
 - **The Handbook of Fixed Income Securities by Frank J. Fabozzi**: As a cornerstone text for understanding fixed income markets, this handbook covers a wide range of topics, including the role of interest rate swaps in managing bond portfolios. It provides detailed discussions on the mechanics, pricing, and strategic uses of fixed income derivatives.
 
 - **Machine Learning for Algorithmic Trading by Stefan Jansen**: Stefan Jansen's book focuses on the application of machine learning techniques to develop and improve algorithmic trading strategies. It explains how data science can be used to forecast market trends and make informed decisions about interest rate swaps, providing practical Python examples and frameworks for implementing these strategies.
-

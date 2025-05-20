@@ -1,6 +1,9 @@
 ---
-title: "Margaret Thatcher: Political Biography (Algo Trading)"
-description: "Explore Margaret Thatcher's transformative economic policies and their impact on modern algorithmic trading highlighting her enduring legacy in global finance."
+category: quant_concept
+description: Explore Margaret Thatcher's transformative economic policies and their
+  impact on modern algorithmic trading highlighting her enduring legacy in global
+  finance.
+title: 'Margaret Thatcher: Political Biography (Algo Trading)'
 ---
 
 Margaret Thatcher, often dubbed the 'Iron Lady', was an influential and resilient figure in British politics. Her tenure as the Conservative Leader and Prime Minister of the United Kingdom marked an era of transformative economic policies that resonated well beyond the shores of Britain, leaving a lasting imprint on the global economic framework. Central to Thatcher’s governance was a commitment to neoliberal ideologies, which prioritized deregulation and a reduced role for the state in economic matters—a philosophy frequently associated with enhancing market efficiency and innovation.

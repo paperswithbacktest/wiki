@@ -1,7 +1,8 @@
 ---
-title: 2D Parallel Distributed Methods in Machine Learning
+category: quant_concept
 description: 2D Parallel Distributed Methods speed model training by distributing
   data and tasks across processors for faster results Discover more inside
+title: 2D Parallel Distributed Methods in Machine Learning
 ---
 
 ![Image](images/1.png)

@@ -1,6 +1,9 @@
 ---
-title: "International Maritime Organization (Algo Trading)"
-description: "Explore the International Maritime Organization's role in regulating global shipping and how algorithmic trading influences maritime operations, enhancing efficiency and sustainability."
+category: quant_concept
+description: Explore the International Maritime Organization's role in regulating
+  global shipping and how algorithmic trading influences maritime operations, enhancing
+  efficiency and sustainability.
+title: International Maritime Organization (Algo Trading)
 ---
 
 The global shipping industry is a cornerstone of international trade, transporting approximately 90% of the world's goods across vast oceanic expanses. This extensive network is integral to global economic growth and stability. Central to this intricate system is the International Maritime Organization (IMO), a specialized agency of the United Nations. The IMO's role is pivotal in establishing and maintaining a comprehensive regulatory framework that ensures maritime safety, environmental protection, and operational efficiency. Its strategic regulations and conventions guide shipping operations globally, fostering a uniform standard that mitigates risks associated with maritime activities.

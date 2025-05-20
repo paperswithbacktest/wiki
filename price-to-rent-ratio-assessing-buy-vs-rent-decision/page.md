@@ -1,6 +1,9 @@
 ---
-title: "Price-to-Rent Ratio: Assessing Buy vs. Rent Decision (Algo Trading)"
-description: "Explore how the Price-to-Rent Ratio and algorithmic trading insights can guide housing market decisions balancing buying vs renting options for optimal value."
+category: quant_concept
+description: Explore how the Price-to-Rent Ratio and algorithmic trading insights
+  can guide housing market decisions balancing buying vs renting options for optimal
+  value.
+title: 'Price-to-Rent Ratio: Assessing Buy vs. Rent Decision (Algo Trading)'
 ---
 
 Understanding the housing market is critical for both renters and buyers, as it affects financial planning and lifestyle choices. One fundamental metric that aids in assessing the housing market is the Price-to-Rent Ratio. This ratio serves as an economic indicator to determine whether purchasing property or continuing to rent is more financially viable in a given area. It is calculated by dividing the median price of homes by the median annual rent. A lower Price-to-Rent Ratio suggests that buying a home might be more economical, whereas a higher ratio might indicate that renting is a more cost-effective option.

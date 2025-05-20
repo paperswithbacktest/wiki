@@ -1,6 +1,8 @@
 ---
-title: "History of London's Emergence as a Global Financial Centre (Algo Trading)"
-description: "Explore the rich history of London's evolution as a global financial hub and its role in algorithmic trading shaping modern finance through technology."
+category: quant_concept
+description: Explore the rich history of London's evolution as a global financial
+  hub and its role in algorithmic trading shaping modern finance through technology.
+title: History of London's Emergence as a Global Financial Centre (Algo Trading)
 ---
 
 Global financial centers are pivotal to the structure and functioning of the world economy. These centers, such as New York, Tokyo, Hong Kong, and London, operate as crucial hubs for international trade, finance, and economic policy. They act as magnets for capital, talent, and ideas, offering extensive financial services, including banking, asset management, and insurance. The significance of these centers extends beyond national borders, influencing global economic trends, market dynamics, and regulatory standards. Their role is accentuated in times of economic turmoil, where their stability and robustness provide a cushion to the global financial system.

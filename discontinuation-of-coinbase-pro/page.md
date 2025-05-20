@@ -1,6 +1,14 @@
 ---
-title: "Discontinuation of Coinbase Pro (Algo Trading)"
-description: "Explore the impact of discontinuing Coinbase Pro on algorithmic trading in the cryptocurrency market. This page investigates into the roles and interplay between Coinbase, Coinbase Pro, and algo trading, highlighting how these factors collectively enhance trading efforts. Discover how automation and API integration facilitate advanced trading tactics while providing insights into the evolving landscape of digital finance. Uncover algorithmic strategies reshaping crypto investments and understand the significance of secure, user-friendly exchanges in this detailed overview tailored for sophisticated traders."
+category: dataset
+description: Explore the impact of discontinuing Coinbase Pro on algorithmic trading
+  in the cryptocurrency market. This page investigates into the roles and interplay
+  between Coinbase, Coinbase Pro, and algo trading, highlighting how these factors
+  collectively enhance trading efforts. Discover how automation and API integration
+  facilitate advanced trading tactics while providing insights into the evolving landscape
+  of digital finance. Uncover algorithmic strategies reshaping crypto investments
+  and understand the significance of secure, user-friendly exchanges in this detailed
+  overview tailored for sophisticated traders.
+title: Discontinuation of Coinbase Pro (Algo Trading)
 ---
 
 Cryptocurrency, an innovative blend of finance and technology, has dramatically transformed transaction methodologies across the globe. Among the key enablers of this transformation is Coinbase, a leading cryptocurrency exchange. Since its establishment, Coinbase has furnished users with a secure, user-friendly platform to buy, sell, and manage a myriad of cryptocurrencies. Complementing Coinbase is Coinbase Pro, an advanced iteration tailored to meet the sophisticated demands of professional traders. This platform boasts features like real-time order books and advanced charting tools, designed to facilitate more informed trading decisions.

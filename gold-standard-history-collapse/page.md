@@ -1,6 +1,11 @@
 ---
-title: "Gold Standard: History and Collapse (Algo Trading)"
-description: "Explore the journey of the gold standard, a system where currencies were tied to gold, from its rise as a stabilizing force in the 19th century to its fall during the 20th century due to its inflexibility during economic crises. Understand how this transition led to the emergence of fiat currencies and the rise of algorithmic trading, shaping the complex financial landscapes we navigate today."
+category: quant_concept
+description: Explore the journey of the gold standard, a system where currencies were
+  tied to gold, from its rise as a stabilizing force in the 19th century to its fall
+  during the 20th century due to its inflexibility during economic crises. Understand
+  how this transition led to the emergence of fiat currencies and the rise of algorithmic
+  trading, shaping the complex financial landscapes we navigate today.
+title: 'Gold Standard: History and Collapse (Algo Trading)'
 ---
 
 The gold standard represents a monetary framework wherein a country's currency maintains its value by being directly linked to a specific quantity of gold. This peg to gold ensures that the currency holds intrinsic value, arguably providing a safeguard against rampant inflation and currency depreciation. Historically, different civilizations have relied on gold as a symbol of wealth and stability, from the use of gold coins in ancient civilizations to its adoption as a universal benchmark for trade and economic stability in the modern era.
@@ -82,4 +87,3 @@ Comprehending the contrasts and connections between historical monetary systems 
 [7]: Lewis, M. (1999). ["Moneyball: The Art of Winning an Unfair Game"](https://www.amazon.com/Moneyball-Art-Winning-Unfair-Game/dp/0393324818) explores decision-making and data analysis, applicable to financial market strategies.
 
 [8]: ["The Great Depression: An International Disaster of Perverse Economic Policies,"](https://www.jstor.org/stable/1060826) by Thomas E. Hall and J. David Ferguson.
-

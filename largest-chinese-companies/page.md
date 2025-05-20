@@ -1,6 +1,8 @@
 ---
-title: "List of Largest Chinese Companies (Algo Trading)"
-description: "Explore China's largest companies and their influence on global markets Discover how key sectors and algorithmic trading drive their growth and innovation"
+category: dataset
+description: Explore China's largest companies and their influence on global markets
+  Discover how key sectors and algorithmic trading drive their growth and innovation
+title: List of Largest Chinese Companies (Algo Trading)
 ---
 
 China's economic transformation over the past few decades is one of the most compelling narratives in modern economic history. From a largely agrarian society in the mid-20th century, China has emerged as the world's second-largest economy, becoming a pivotal player in global trade and industry. The country's rapid urbanization and industrialization have been complemented by significant reforms in both domestic policy and international economic strategy, allowing it to integrate effectively into the global economy. These changes have been instrumental in transforming China into a global economic powerhouse, with substantial influence on international markets.

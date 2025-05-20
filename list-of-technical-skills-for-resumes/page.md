@@ -1,6 +1,9 @@
 ---
-title: "List of Technical Skills for Resumes (Algo Trading)"
-description: "Enhance your algo trading resume with essential technical skills like programming, quantitative analysis, and data interpretation to stand out in the field."
+category: quant_concept
+description: Enhance your algo trading resume with essential technical skills like
+  programming, quantitative analysis, and data interpretation to stand out in the
+  field.
+title: List of Technical Skills for Resumes (Algo Trading)
 ---
 
 In today's competitive job market, possessing the right technical skills is crucial, especially in high-tech fields like algorithmic trading. As financial markets increasingly adopt technology-driven strategies, the demand for professionals adept in both finance and technology continues to grow. Algorithmic trading, which involves the use of computer algorithms to execute trading orders at speeds and frequencies that human traders cannot achieve, requires a unique blend of skills that combine elements of programming, quantitative analysis, and data interpretation.

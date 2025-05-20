@@ -1,6 +1,14 @@
 ---
-title: "Bull Put Spread Options Strategy (Algo Trading)"
-description: "This page provides an in-depth look at the Bull Put Spread options trading strategy, ideal for investors with a moderately bullish market outlook. It investigates into how algorithmic trading enhances this strategy by optimizing strike prices and managing positions effectively. Learn about creating spreads with limited risk and profit potential through the selling and buying of put options. The article also covers profit and loss scenarios and illustrates how traders can benefit from bullish conditions while navigating market complexities with a well-defined risk profile."
+category: trading_strategy
+description: This page provides an in-depth look at the Bull Put Spread options trading
+  strategy, ideal for investors with a moderately bullish market outlook. It investigates
+  into how algorithmic trading enhances this strategy by optimizing strike prices
+  and managing positions effectively. Learn about creating spreads with limited risk
+  and profit potential through the selling and buying of put options. The article
+  also covers profit and loss scenarios and illustrates how traders can benefit from
+  bullish conditions while navigating market complexities with a well-defined risk
+  profile.
+title: Bull Put Spread Options Strategy (Algo Trading)
 ---
 
 Options trading attracts many investors due to its potential for significant gains and strategic flexibility. One popular options strategy within this domain is the Bull Put Spread. This strategy caters to those with a moderately bullish outlook on the market, offering a balanced approach between risk and reward. As this article will examine, the Bull Put Spread strategy involves the strategic use of put options to create a spread with limited risk and profit potential, making it an attractive choice for traders.

@@ -1,6 +1,9 @@
 ---
-title: "Organizational Economics (Algo Trading)"
-description: "Explore how organizational economics and economic theory enhance business strategies, focusing on their pivotal role in algorithmic trading and competitive advantage."
+category: quant_concept
+description: Explore how organizational economics and economic theory enhance business
+  strategies, focusing on their pivotal role in algorithmic trading and competitive
+  advantage.
+title: Organizational Economics (Algo Trading)
 ---
 
 Business management, organizational economics, and economic theory are dynamically interconnected fields that significantly influence practical applications such as algorithmic trading. These disciplines offer a comprehensive framework for understanding how businesses can strategically navigate market complexities. They shape business strategies by providing insights into firm behavior, market operations, and decision-making processes, which are crucial in today's rapidly evolving economic landscape.

@@ -1,6 +1,8 @@
 ---
-title: "Free Credit Balance in Financial Accounts (Algo Trading)"
-description: "Explore the role of free credit balances in financial accounts for algorithmic trading offering insights to enhance investor strategies and market operations understanding."
+category: quant_concept
+description: Explore the role of free credit balances in financial accounts for algorithmic
+  trading offering insights to enhance investor strategies and market operations understanding.
+title: Free Credit Balance in Financial Accounts (Algo Trading)
 ---
 
 In today's dynamic financial landscape, understanding various investment tools and their regulation is crucial for both new and seasoned investors. As markets continue to evolve, having a firm grasp of how different instruments function and are governed provides a critical edge in decision-making processes.

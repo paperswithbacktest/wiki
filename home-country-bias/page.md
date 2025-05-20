@@ -1,6 +1,8 @@
 ---
-title: "Home Country Bias (Algo Trading)"
-description: "Explore how algorithmic trading can mitigate financial biases like home country bias, leading to diversified portfolios and improved investment outcomes."
+category: quant_concept
+description: Explore how algorithmic trading can mitigate financial biases like home
+  country bias, leading to diversified portfolios and improved investment outcomes.
+title: Home Country Bias (Algo Trading)
 ---
 
 In the ever-evolving landscape of financial markets, the interplay of financial behavior, biases, and technology is becoming increasingly crucial for investors striving to optimize their decisions. Investment practices are profoundly shaped by a host of psychological biases and irrational tendencies, which can impair judgment and lead to suboptimal financial outcomes. This article focuses on specific biases, namely home country bias and various forms of investment bias, while examining the ways in which algorithmic trading offers potential solutions to mitigate these challenges. 

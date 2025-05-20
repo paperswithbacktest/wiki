@@ -1,6 +1,13 @@
 ---
-title: "Opening a Forex Trading Account (Algo Trading)"
-description: "Discover how to open a forex trading account and explore the basics of algorithmic trading to enhance your trading experience. This guide explains the essential steps for setting up an account, understanding key concepts like currency pairs, pip values, leverage, and order types. Learn how algo trading can streamline processes, improve efficiency, and reduce emotional biases, equipping you with the necessary knowledge for successful forex trading. Whether you're a beginner or an experienced trader, our comprehensive overview will help maximize your trading potential."
+category: trading_strategy
+description: Discover how to open a forex trading account and explore the basics of
+  algorithmic trading to enhance your trading experience. This guide explains the
+  essential steps for setting up an account, understanding key concepts like currency
+  pairs, pip values, leverage, and order types. Learn how algo trading can streamline
+  processes, improve efficiency, and reduce emotional biases, equipping you with the
+  necessary knowledge for successful forex trading. Whether you're a beginner or an
+  experienced trader, our comprehensive overview will help maximize your trading potential.
+title: Opening a Forex Trading Account (Algo Trading)
 ---
 
 Forex trading represents one of the largest and most liquid financial markets globally, engaging currency traders from novices to seasoned experts. This expansive domain offers a plethora of opportunities due to its inherently volatile nature and the 24/5 trading schedule that accommodates participants from different time zones. Successfully engaging in this market begins with setting up a forex trading account, a fundamental step that provides access to buying and selling various world currencies.

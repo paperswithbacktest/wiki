@@ -1,6 +1,8 @@
 ---
-title: "Innovative Methods in ESG Scoring (Algo Trading)"
-description: "Explore how innovative methods in algorithmic trading integrate ESG metrics to redefine sustainable investment strategies, balancing profit with ethical values."
+category: quant_concept
+description: Explore how innovative methods in algorithmic trading integrate ESG metrics
+  to redefine sustainable investment strategies, balancing profit with ethical values.
+title: Innovative Methods in ESG Scoring (Algo Trading)
 ---
 
 The world of investing is increasingly guided by sustainability considerations, with ESG (Environmental, Social, and Governance) metrics at the forefront of this transformation. ESG metrics offer insights into a company's environmental impact, commitment to social responsibilities, and governance practices. These metrics have become critical in evaluating a company's overall performance and potential for long-term value creation. Beyond traditional financial analysis, ESG considerations allow investors to assess the ethical and sustainable dynamics that could influence business success.

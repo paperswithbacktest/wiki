@@ -1,7 +1,8 @@
 ---
-title: Understanding Machine Learning Encoders and Their Applications
+category: quant_concept
 description: Machine learning encoders convert raw data into compact representations
   to boost model efficiency in NLP image tasks and compression Discover more inside.
+title: Understanding Machine Learning Encoders and Their Applications
 ---
 
 ![Image](images/1.jpeg)

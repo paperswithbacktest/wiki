@@ -1,6 +1,8 @@
 ---
-title: "Largest Banks in China (Algo Trading)"
-description: "Explore China's largest banks like ICBC and CCB as they leverage cutting-edge algorithmic trading, enhancing their global dominance and market strategies."
+category: dataset
+description: Explore China's largest banks like ICBC and CCB as they leverage cutting-edge
+  algorithmic trading, enhancing their global dominance and market strategies.
+title: Largest Banks in China (Algo Trading)
 ---
 
 The global banking industry operates as a cornerstone of the modern economy, facilitating financial transactions, investment, and economic growth. Amidst this expansive sector, the Chinese banking industry has emerged as a significant force, reflecting China's rapid economic ascent and integration into the global financial system. China's banking landscape is characterized by a blend of state-owned giants and a growing number of private institutions, which together hold substantial sway within the domestic and international markets.

@@ -1,6 +1,8 @@
 ---
-title: "Platinum Exchange-Traded Funds (Algo Trading)"
-description: "Explore the world of Platinum Exchange-Traded Funds combined with algorithmic trading for a cutting-edge investment strategy that enhances portfolio diversity."
+category: trading_strategy
+description: Explore the world of Platinum Exchange-Traded Funds combined with algorithmic
+  trading for a cutting-edge investment strategy that enhances portfolio diversity.
+title: Platinum Exchange-Traded Funds (Algo Trading)
 ---
 
 Platinum exchange-traded funds (ETFs) have witnessed a surge in popularity, mirroring the broader growth of ETFs in financial markets. An exchange-traded fund (ETF) is an investment vehicle that pools investor capital to purchase a diversified portfolio of assets, such as stocks, commodities, or bonds. ETFs are traded on major stock exchanges, much like individual stocks, providing investors with liquidity, flexibility, and ease of access to various market sectors.

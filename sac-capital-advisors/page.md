@@ -1,6 +1,13 @@
 ---
-title: "SAC Capital Advisors (Algo Trading)"
-description: SAC Capital Advisors, founded by Steven A. Cohen in 1992, became a prominent hedge fund recognized for innovative strategies and technology-driven trading. Despite its success and substantial market influence through algorithmic trading, the firm faced significant legal challenges, notably insider trading allegations. These issues led to substantial financial penalties and the transformation into Point72 Asset Management. The SAC Capital saga highlights the need for ethical compliance and regulatory vigilance within the hedge fund industry.
+category: trading_strategy
+description: SAC Capital Advisors, founded by Steven A. Cohen in 1992, became a prominent
+  hedge fund recognized for innovative strategies and technology-driven trading. Despite
+  its success and substantial market influence through algorithmic trading, the firm
+  faced significant legal challenges, notably insider trading allegations. These issues
+  led to substantial financial penalties and the transformation into Point72 Asset
+  Management. The SAC Capital saga highlights the need for ethical compliance and
+  regulatory vigilance within the hedge fund industry.
+title: SAC Capital Advisors (Algo Trading)
 ---
 
 SAC Capital Advisors, founded in 1992 by Steven A. Cohen, emerged as a formidable entity in the hedge fund industry, known for its aggressive trading tactics and delivering outsized returns to its investors. The firm quickly rose to prominence, underpinned by its reputation for implementing innovative investment strategies and maximizing the use of cutting-edge technology. At its peak, SAC Capital managed assets worth billions of dollars and was recognized for generating annualized returns often exceeding industry standards.

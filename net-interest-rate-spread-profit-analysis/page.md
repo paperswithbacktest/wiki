@@ -1,6 +1,9 @@
 ---
-title: "Net Interest Rate Spread in Profit Analysis (Algo Trading)"
-description: "Discover how net interest rate spread and profit analysis enhance profitability in algo trading Explore their impact on strategic decision-making and financial success"
+category: trading_strategy
+description: Discover how net interest rate spread and profit analysis enhance profitability
+  in algo trading Explore their impact on strategic decision-making and financial
+  success
+title: Net Interest Rate Spread in Profit Analysis (Algo Trading)
 ---
 
 Financial metrics are quantitative measures used to assess the performance, stability, and overall health of financial products, services, or entire organizations. These metrics are crucial for stakeholders, including investors, analysts, and management, to make informed decisions. They encompass a wide range of indicators, such as profitability ratios, liquidity ratios, efficiency ratios, and leverage ratios, each offering insights into specific financial aspects of a business.

@@ -1,6 +1,9 @@
 ---
-title: "Heston Model: Concepts and Applications (Algo Trading)"
-description: "Explore the Heston Model a pivotal tool in financial derivatives for algorithmic trading. Learn its significance in volatility modeling and practical applications."
+category: quant_concept
+description: Explore the Heston Model a pivotal tool in financial derivatives for
+  algorithmic trading. Learn its significance in volatility modeling and practical
+  applications.
+title: 'Heston Model: Concepts and Applications (Algo Trading)'
 ---
 
 The financial derivatives market is a multifaceted domain that includes a variety of sophisticated instruments such as options, swaps, and futures. Understanding the behavior of these financial products is contingent upon accurate volatility modeling, which is critical for pricing and risk management. Volatility reflects the degree of variation in the price of a financial instrument over time, making its prediction and management pivotal for investors and traders.

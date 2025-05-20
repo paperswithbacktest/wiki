@@ -1,6 +1,8 @@
 ---
-title: "Balyasny Asset Management (Algo Trading)"
-description: "Explore how Balyasny Asset Management leverages cutting-edge algorithmic trading to enhance investment strategies ensuring precision and uncorrelated returns."
+category: quant_concept
+description: Explore how Balyasny Asset Management leverages cutting-edge algorithmic
+  trading to enhance investment strategies ensuring precision and uncorrelated returns.
+title: Balyasny Asset Management (Algo Trading)
 ---
 
 Balyasny Asset Management (BAM) is a distinguished name in investment management, renowned for its innovative approach and strong performance history. Since its inception in 2001, BAM has continually pushed the boundaries of finance by employing cutting-edge technology and maintaining a dynamic investment philosophy. The firm has made a name for itself by integrating technology with traditional investment strategies, enhancing their operational efficiency and adaptability to market changes.

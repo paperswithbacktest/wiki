@@ -1,6 +1,8 @@
 ---
-title: "Overview of Bittrex Exchange (Algo Trading)"
-description: "Explore Bittrex Exchange's vast cryptocurrency selection and advanced trading tools designed for both beginners and pros seeking algorithmic trading opportunities."
+category: dataset
+description: Explore Bittrex Exchange's vast cryptocurrency selection and advanced
+  trading tools designed for both beginners and pros seeking algorithmic trading opportunities.
+title: Overview of Bittrex Exchange (Algo Trading)
 ---
 
 Cryptocurrency trading has seen exponential growth in recent years, with more individuals and institutions seeking to leverage digital assets for financial gain. As this sector expands, the importance of reliable exchanges becomes crucial to ensure secure, efficient, and cost-effective trading experiences. Bittrex stands out as a prominent entity within the cryptocurrency exchange landscape, appreciated for its diverse selection of cryptocurrencies and competitive trading fees.

@@ -1,6 +1,9 @@
 ---
-title: "Magnificent Seven Stocks: Overview and Analysis (Algo Trading)"
-description: "Explore the intricate dynamics of the Magnificent Seven stocks, leaders in tech innovation and market influence, with insights into algo trading strategies and future prospects."
+category: trading_strategy
+description: Explore the intricate dynamics of the Magnificent Seven stocks, leaders
+  in tech innovation and market influence, with insights into algo trading strategies
+  and future prospects.
+title: 'Magnificent Seven Stocks: Overview and Analysis (Algo Trading)'
 ---
 
 The Magnificent Seven stocks comprise seven leading entities within the technology sector that have garnered significant attention from investors worldwide. This group includes notable companies with substantial influence on global financial markets, making them focal points for investment strategies and technology-driven discussions.

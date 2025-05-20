@@ -1,6 +1,8 @@
 ---
-title: "Event-Driven Investing Strategies (Algo Trading)"
-description: "Explore event-driven investing and algorithmic trading strategies to capitalize on market inefficiencies and enhance returns through technological precision."
+category: trading_strategy
+description: Explore event-driven investing and algorithmic trading strategies to
+  capitalize on market inefficiencies and enhance returns through technological precision.
+title: Event-Driven Investing Strategies (Algo Trading)
 ---
 
 In the dynamic landscape of financial markets, investors and traders are constantly seeking effective strategies to capitalize on market inefficiencies. Amidst a myriad of approaches, event-driven investing and algorithmic trading have emerged as prominent methods, each offering unique pathways to enhance returns. Event-driven investing focuses on opportunities created by specific corporate events, such as mergers, acquisitions, and restructurings, that can lead to temporary mispricing of assets. This strategy requires a deep understanding of the corporate landscape and the ability to anticipate market reactions to such events.

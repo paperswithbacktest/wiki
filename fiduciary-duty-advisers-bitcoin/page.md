@@ -1,6 +1,9 @@
 ---
-title: "Fiduciary Duty of Advisers Regarding Bitcoin (Algo Trading)"
-description: "Discover how financial advisers navigate fiduciary duties in Bitcoin algo trading adapting to cryptocurrency's volatility and regulatory changes for client benefit."
+category: trading_strategy
+description: Discover how financial advisers navigate fiduciary duties in Bitcoin
+  algo trading adapting to cryptocurrency's volatility and regulatory changes for
+  client benefit.
+title: Fiduciary Duty of Advisers Regarding Bitcoin (Algo Trading)
 ---
 
 The evolving financial landscape is transforming the way investors approach asset allocation, with Bitcoin, a pioneering digital currency, gaining a foothold in mainstream investment portfolios. Over the years, Bitcoin has surged from a nascent concept to a viable asset class, compelling financial advisers to expand their scope beyond traditional investments such as stocks and bonds. As this digital innovation infiltrates standard financial practices, advisers are tasked with the complex challenge of integrating Bitcoin and other cryptocurrencies within their fiduciary responsibilities.

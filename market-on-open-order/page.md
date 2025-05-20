@@ -1,6 +1,8 @@
 ---
-title: "Market-On-Open Order (Algo Trading)"
-description: "Explore the benefits, risks, and strategic integration of Market-On-Open orders in stock trading to enhance decision-making and optimize order execution."
+category: trading_strategy
+description: Explore the benefits, risks, and strategic integration of Market-On-Open
+  orders in stock trading to enhance decision-making and optimize order execution.
+title: Market-On-Open Order (Algo Trading)
 ---
 
 In the world of stock trading, there are various types of orders that cater to different trading strategies and goals. One such order type is the Market-On-Open (MOO) order, a fascinating choice for traders aiming to execute transactions precisely at the market's opening price. This article aims to explore the key elements of MOO orders, including their benefits, risks, and integration into algorithmic trading strategies, providing traders with the knowledge to make informed decisions in the rapidly changing environment of stock trading.

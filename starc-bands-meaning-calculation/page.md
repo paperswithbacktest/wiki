@@ -1,6 +1,8 @@
 ---
-title: "STARC Bands: Meaning and Calculation (Algo Trading)"
-description: "Explore the significance of STARC Bands in algorithmic trading. Learn how they help identify buy and sell opportunities and optimize trading strategies."
+category: quant_concept
+description: Explore the significance of STARC Bands in algorithmic trading. Learn
+  how they help identify buy and sell opportunities and optimize trading strategies.
+title: 'STARC Bands: Meaning and Calculation (Algo Trading)'
 ---
 
 The world of trading is intricate and multifaceted, encompassing a wide array of strategies and tools aimed at optimizing the investment process. Among these tools, STARC Bands hold a prominent position as a technical analysis indicator that aids traders in pinpointing potential buy and sell opportunities. Developed to function effectively in various market conditions, STARC Bands offer insights into market volatility and potential trend reversals, making them a valuable component in a trader's analytical toolkit.

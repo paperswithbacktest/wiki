@@ -1,6 +1,8 @@
 ---
-title: "SEC Form 424B1 (Algo Trading)"
-description: "Gain insights into securities offerings with SEC Form 424B1 essential for algorithmic traders seeking comprehensive updates and strategic data integration."
+category: quant_concept
+description: Gain insights into securities offerings with SEC Form 424B1 essential
+  for algorithmic traders seeking comprehensive updates and strategic data integration.
+title: SEC Form 424B1 (Algo Trading)
 ---
 
 Investing is often seen as a challenging endeavor, not merely because of market volatility, but due to the intricate regulatory environment designed to safeguard investors and maintain financial transparency. At the core of this regulatory framework lies an array of documents and forms mandated by bodies like the U.S. Securities and Exchange Commission (SEC). These filings play a critical role in informing stakeholders and facilitating equitable market practices. Among these, SEC Form 424B1 has established itself as a key document in the domain of securities offerings, especially significant for individuals engaged in algorithmic trading.

@@ -1,6 +1,8 @@
 ---
-title: "Life Income Fund: Withdrawal Process and Overview (Algo Trading)"
-description: "Explore how Life Income Funds (LIFs) can enhance retirement income in Canada through strategic withdrawals and algorithmic trading to optimize returns."
+category: quant_concept
+description: Explore how Life Income Funds (LIFs) can enhance retirement income in
+  Canada through strategic withdrawals and algorithmic trading to optimize returns.
+title: 'Life Income Fund: Withdrawal Process and Overview (Algo Trading)'
 ---
 
 In the landscape of Canadian retirement planning, the Life Income Fund (LIF) emerges as an essential financial instrument, transforming locked-in pension funds into a steady stream of retirement income. The LIF is governed by a set of federal and provincial regulations ensuring retirees have a reliable income throughout their later years. However, the intersection of modern technologies and traditional financial planning provides unique opportunities to optimize the management of these funds.

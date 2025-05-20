@@ -1,7 +1,8 @@
 ---
-title: Understanding Activation Functions in Neural Networks
+category: quant_concept
 description: Activation functions enable neural networks to learn complex patterns
   by introducing nonlinearity and improving training efficiency Discover more inside.
+title: Understanding Activation Functions in Neural Networks
 ---
 
 ![Image](images/1.png)

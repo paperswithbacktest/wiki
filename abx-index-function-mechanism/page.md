@@ -1,6 +1,8 @@
 ---
-title: "ABX Index: Function and Mechanism (Algo Trading)"
-description: "Explore the synergy between the ABX Index, a key MBS market indicator, and algorithmic trading, highlighting their roles in modern investment strategies."
+category: quant_concept
+description: Explore the synergy between the ABX Index, a key MBS market indicator,
+  and algorithmic trading, highlighting their roles in modern investment strategies.
+title: 'ABX Index: Function and Mechanism (Algo Trading)'
 ---
 
 The article focuses on the intricate landscape of investment finance, specifically examining the interplay between traditional financial indicators and modern trading methodologies. Central to this exploration is the ABX Index, a key financial indicator within the mortgage-backed securities (MBS) market. Launched in January 2006 by Markit, now part of IHS Markit, the ABX Index offers a benchmark for the valuation and risk assessment of subprime mortgage-backed securities. This index allows investors to gauge the pricing and perceived risk associated with these securities, serving as an essential tool during periods of financial instability, such as the 2007–2008 financial crisis.

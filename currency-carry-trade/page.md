@@ -1,6 +1,11 @@
 ---
-title: "Currency Carry Trade (Algo Trading)"
-description: "Explore the intricacies of Forex trading with a focus on the currency carry trade and algorithmic trading strategies. This article investigates into how these approaches can profit from interest rate differentials and exploit market inefficiencies. Understand the dynamics of the Forex market to enhance your trading success with informed decision-making."
+category: trading_strategy
+description: Explore the intricacies of Forex trading with a focus on the currency
+  carry trade and algorithmic trading strategies. This article investigates into how
+  these approaches can profit from interest rate differentials and exploit market
+  inefficiencies. Understand the dynamics of the Forex market to enhance your trading
+  success with informed decision-making.
+title: Currency Carry Trade (Algo Trading)
 ---
 
 The foreign exchange market, commonly referred to as Forex, represents one of the most profitable yet intricate avenues for investors worldwide. As the largest financial market, Forex operates 24 hours a day, five days a week, offering unparalleled liquidity and opportunities for profit due to continuous fluctuations in currency values. Within this dynamic environment, traders deploy a myriad of strategies to maximize their returns, two of the most notable being the carry trade and algorithmic trading.

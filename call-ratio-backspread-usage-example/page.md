@@ -1,6 +1,8 @@
 ---
-title: "Call Ratio Backspread: Usage and Example (Algo Trading)"
-description: "Explore the call ratio backspread options strategy for bullish markets Learn how algorithmic trading can optimize this approach for unlimited profit potential"
+category: trading_strategy
+description: Explore the call ratio backspread options strategy for bullish markets
+  Learn how algorithmic trading can optimize this approach for unlimited profit potential
+title: 'Call Ratio Backspread: Usage and Example (Algo Trading)'
 ---
 
 Options trading is an essential tool for investors aiming to diversify their investment portfolios and achieve substantial growth. The intricacies of options allow for a variety of strategies to be employed, catering to different market outlooks and risk preferences. One such strategy is the 'call ratio backspread,' which is devised for investors with a bullish sentiment, expecting a significant upward movement in the price of an underlying asset.

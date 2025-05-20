@@ -1,7 +1,8 @@
 ---
-title: Understanding K-Fold Cross Validation in Machine Learning
+category: quant_concept
 description: K-Fold Cross Validation provides performance estimates by averaging multiple
   data splits reducing bias and boosting model reliability Discover more inside
+title: Understanding K-Fold Cross Validation in Machine Learning
 ---
 
 ![Image](images/1.jpeg)

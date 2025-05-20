@@ -1,6 +1,9 @@
 ---
-title: "Comparison of Buy-and-Hold and Constant-Mix Strategies in Portfolio Management (Algo Trading)"
-description: "Explore how buy-and-hold and constant-mix strategies impact portfolio management in algo trading Discover their unique benefits and potential drawbacks"
+category: trading_strategy
+description: Explore how buy-and-hold and constant-mix strategies impact portfolio
+  management in algo trading Discover their unique benefits and potential drawbacks
+title: Comparison of Buy-and-Hold and Constant-Mix Strategies in Portfolio Management
+  (Algo Trading)
 ---
 
 Investing strategies are fundamental to managing a successful portfolio, enabling investors to navigate financial markets effectively and achieve their long-term objectives. A comprehensive grasp of different approaches can assist in tailoring strategies that align with individual or institutional financial goals.

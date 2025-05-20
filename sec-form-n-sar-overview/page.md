@@ -1,6 +1,9 @@
 ---
-title: "SEC Form N-SAR Overview (Algo Trading)"
-description: "Explore the evolution of SEC financial reporting from Form N-SAR to Form N-CEN and its impact on modern practices like algorithmic trading and regulatory compliance."
+category: dataset
+description: Explore the evolution of SEC financial reporting from Form N-SAR to Form
+  N-CEN and its impact on modern practices like algorithmic trading and regulatory
+  compliance.
+title: SEC Form N-SAR Overview (Algo Trading)
 ---
 
 The world of financial reporting and compliance is a landscape characterized by its complexity and constant evolution. Central to this landscape are various regulatory filings mandated by the U.S. Securities and Exchange Commission (SEC), designed to ensure transparency and protect investors. Among these was Form N-SAR, a document that played a significant role in the reporting obligations of registered investment management companies. Although now obsolete, Form N-SAR was pivotal in collecting important financial information such as share sales and portfolio turnover rates.

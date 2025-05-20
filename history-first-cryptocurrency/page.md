@@ -1,6 +1,8 @@
 ---
-title: "History of the First Cryptocurrency (Algo Trading)"
-description: "Explore the history of Bitcoin the first cryptocurrency and its impact on algorithmic trading Discover Bitcoin's origin decentralization and market growth"
+category: quant_concept
+description: Explore the history of Bitcoin the first cryptocurrency and its impact
+  on algorithmic trading Discover Bitcoin's origin decentralization and market growth
+title: History of the First Cryptocurrency (Algo Trading)
 ---
 
 Cryptocurrency, a digital or virtual form of currency that relies on cryptographic techniques for security, has become a significant part of the modern financial landscape. Its decentralized nature, free from the control of governments or financial institutions, offers a transformative approach to how transactions are conducted and assets are stored. This innovation stems largely from the advent of Bitcoin, the first successful cryptocurrency, which emerged to address some of the long-standing issues in traditional finance, such as transaction inefficiency and the centralization of control.

@@ -1,6 +1,9 @@
 ---
-title: "Placement Ratio (Algo Trading)"
-description: "Explore how strategic financial analysis, placement ratio, and algorithmic trading can enhance investment strategies and navigate dynamic financial markets effectively."
+category: trading_strategy
+description: Explore how strategic financial analysis, placement ratio, and algorithmic
+  trading can enhance investment strategies and navigate dynamic financial markets
+  effectively.
+title: Placement Ratio (Algo Trading)
 ---
 
 In the ever-evolving landscape of financial markets, having a robust investment strategy is crucial. This article focuses on the integration of strategic financial analysis, placement ratio, and algorithmic trading, providing insights into how these elements can enhance investment outcomes. 

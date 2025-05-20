@@ -1,7 +1,8 @@
 ---
-title: Advanced Exploration Strategies in Reinforcement Learning
+category: quant_concept
 description: Exploration in machine learning improves performance by balancing discovery
   and exploitation with counterfactual exploration and gSDE Discover more inside
+title: Advanced Exploration Strategies in Reinforcement Learning
 ---
 
 ![Image](images/1.png)

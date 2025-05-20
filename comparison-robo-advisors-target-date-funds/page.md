@@ -1,6 +1,9 @@
 ---
-title: "Comparison of Robo-Advisors and Target Date Funds (Algo Trading)"
-description: "Explore the benefits and differences between robo-advisors and target date funds as modern investment solutions suited for various financial goals and risk levels."
+category: trading_strategy
+description: Explore the benefits and differences between robo-advisors and target
+  date funds as modern investment solutions suited for various financial goals and
+  risk levels.
+title: Comparison of Robo-Advisors and Target Date Funds (Algo Trading)
 ---
 
 Investment strategies have undergone a substantial transformation over the years, largely driven by technological advancements. In the past, investment choices were often limited to traditional avenues such as stocks, bonds, and mutual funds, requiring manual management and significant time commitment. However, the landscape of investing has dramatically changed with the introduction of technology-driven options, providing investors with a broader range of opportunities tailored to various needs and preferences.

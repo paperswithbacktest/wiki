@@ -1,6 +1,9 @@
 ---
-title: "Comprehensive Income and Other Comprehensive Income (Algo Trading)"
-description: "Explore comprehensive income's role in financial reporting and algorithmic trading. Understand how it reveals a company's full financial health with unrealized gains."
+category: quant_concept
+description: Explore comprehensive income's role in financial reporting and algorithmic
+  trading. Understand how it reveals a company's full financial health with unrealized
+  gains.
+title: Comprehensive Income and Other Comprehensive Income (Algo Trading)
 ---
 
 In the world of financial reporting and algorithmic trading, comprehensive income holds significant importance. Comprehensive income encompasses the total change in a company's equity due to transactions and events from non-owner sources, offering a full picture of the company's financial performance over a given period. This differs from net income, which only accounts for revenues and expenses directly related to normal operations. By including elements such as unrealized gains or losses on investments, foreign currency translation adjustments, and changes in pension liabilities, comprehensive income provides a broader view of financial health.

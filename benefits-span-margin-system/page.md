@@ -1,6 +1,9 @@
 ---
-title: "Benefits of SPAN Margin System (Algo Trading)"
-description: "Explore the benefits of the SPAN margin system in algorithmic trading Discover how it enhances risk management and optimizes capital efficiency in dynamic markets"
+category: quant_concept
+description: Explore the benefits of the SPAN margin system in algorithmic trading
+  Discover how it enhances risk management and optimizes capital efficiency in dynamic
+  markets
+title: Benefits of SPAN Margin System (Algo Trading)
 ---
 
 In the fast-paced world of trading, effectively managing risk and optimizing trading strategies are critical components for achieving success. SPAN margin trading, recognized as a reliable and efficient margin system within the trading community, significantly contributes to financial risk management and enhances algorithmic trading. 

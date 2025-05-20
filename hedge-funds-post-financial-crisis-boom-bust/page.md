@@ -1,6 +1,8 @@
 ---
-title: "Hedge Funds Post-Financial Crisis: Boom and Bust (Algo Trading)"
-description: "Explore hedge funds' roles post-financial crisis in cycles of boom and bust and how algorithmic trading strategies impact modern financial markets."
+category: quant_concept
+description: Explore hedge funds' roles post-financial crisis in cycles of boom and
+  bust and how algorithmic trading strategies impact modern financial markets.
+title: 'Hedge Funds Post-Financial Crisis: Boom and Bust (Algo Trading)'
 ---
 
 The global economy's ebb and flow can be likened to cycles of economic boom and bust, phenomena that are rooted in complex, multi-faceted systems. These cycles are marked by periods of economic expansion and contraction that have profound effects on financial markets. During a boom, economies experience robust growth, high employment rates, and increased consumer confidence, as reflected in key indicators such as Gross Domestic Product (GDP) and employment statistics. Conversely, a bust often ushers in a recession, characterized by shrinking economic activity, rising unemployment, and possible deflationary pressures.

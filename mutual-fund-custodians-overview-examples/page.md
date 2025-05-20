@@ -1,6 +1,8 @@
 ---
-title: "Mutual Fund Custodians: Overview and Examples (Algo Trading)"
-description: "Explore the critical roles of fund custodians and mutual funds in finance, and how algorithmic trading and investment management enhance modern financial markets."
+category: quant_concept
+description: Explore the critical roles of fund custodians and mutual funds in finance,
+  and how algorithmic trading and investment management enhance modern financial markets.
+title: 'Mutual Fund Custodians: Overview and Examples (Algo Trading)'
 ---
 
 Fund custodians, mutual funds, investment management, and algorithmic trading constitute the core pillars of today's financial industry. Each element plays a pivotal role in the complex ecosystem that defines modern finance, contributing to the security, diversification, and efficiency of financial operations and investments.

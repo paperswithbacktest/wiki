@@ -1,6 +1,14 @@
 ---
-title: "Leda Braga: A Quantitative Trading Pioneer (Algo Trading)"
-description: Discover the legacy of Leda Braga, a trailblazer in algorithmic trading. Renowned for her innovative approach and strategic leadership, Braga has made significant strides in the industry, first building her expertise at J.P. Morgan and then making her mark at BlueCrest Capital Management. As the founder and CEO of Systematica Investments, she continues to lead with a focus on quantitative analysis and systematic strategies, minimizing emotional biases in trading. Learn how Braga's data-driven philosophy has influenced the financial landscape and set new standards in trading practices.
+category: quant_concept
+description: Discover the legacy of Leda Braga, a trailblazer in algorithmic trading.
+  Renowned for her innovative approach and strategic leadership, Braga has made significant
+  strides in the industry, first building her expertise at J.P. Morgan and then making
+  her mark at BlueCrest Capital Management. As the founder and CEO of Systematica
+  Investments, she continues to lead with a focus on quantitative analysis and systematic
+  strategies, minimizing emotional biases in trading. Learn how Braga's data-driven
+  philosophy has influenced the financial landscape and set new standards in trading
+  practices.
+title: 'Leda Braga: A Quantitative Trading Pioneer (Algo Trading)'
 ---
 
 In the fast-evolving world of finance, algorithmic trading, or 'algo trading,' has become a pivotal component, marking a significant shift from traditional methods. This transformation has been driven by advances in technology and the increasing complexity of financial markets, where speed and efficiency are paramount. Algorithmic trading leverages computer programs to execute trades at speeds and frequencies that are impossible for human traders, optimizing decisions through mathematical models and statistical analysis.
@@ -76,4 +84,3 @@ As algorithmic trading continuously evolves with technological advancements and 
 [7]: Tsay, Ruey S. (2010). ["Analysis of Financial Time Series,"](https://onlinelibrary.wiley.com/doi/book/10.1002/9780470644560) Wiley.
 
 [8]: Pardo, Robert. (2008). ["The Evaluation and Optimization of Trading Strategies,"](https://onlinelibrary.wiley.com/doi/book/10.1002/9781119196969) Wiley.
-

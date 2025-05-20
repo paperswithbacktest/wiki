@@ -1,6 +1,9 @@
 ---
-title: "Fund of Funds: Overview and Functionality (Algo Trading)"
-description: "Explore the synergy between Fund of Funds and algorithmic trading to enhance diversification and optimize trade execution, aiming for improved returns and reduced risk."
+category: trading_strategy
+description: Explore the synergy between Fund of Funds and algorithmic trading to
+  enhance diversification and optimize trade execution, aiming for improved returns
+  and reduced risk.
+title: 'Fund of Funds: Overview and Functionality (Algo Trading)'
 ---
 
 In today's rapidly evolving financial markets, investors are constantly on the lookout for strategies that maximize returns while minimizing risk. One such strategy is the 'Fund of Funds' (FOF), a type of investment vehicle that pools capital into a diversified collection of other investment funds. By investing in various funds, FOFs offer investors the benefit of diversification, thereby spreading risk across multiple asset classes and reducing the impact of any single investment's poor performance. This strategy also provides access to funds managed by seasoned professionals with diverse approaches and specialties.

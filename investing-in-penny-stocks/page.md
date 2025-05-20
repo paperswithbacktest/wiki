@@ -1,6 +1,11 @@
 ---
-title: "Investing in Penny Stocks (Algo Trading)"
-description: "Explore the synergy between investing in penny stocks and utilizing algorithmic trading. Discover how algo trading strategies enhance opportunities in the volatile penny stock market by optimizing trade execution and eliminating emotional biases. Understand the risks, technical indicators, and potential returns involved in this high-risk, high-reward domain for informed investment decisions."
+category: trading_strategy
+description: Explore the synergy between investing in penny stocks and utilizing algorithmic
+  trading. Discover how algo trading strategies enhance opportunities in the volatile
+  penny stock market by optimizing trade execution and eliminating emotional biases.
+  Understand the risks, technical indicators, and potential returns involved in this
+  high-risk, high-reward domain for informed investment decisions.
+title: Investing in Penny Stocks (Algo Trading)
 ---
 
 Penny stocks have long captivated investors with their tantalizing promise of rapid gains. These stocks, typically trading for less than $5 per share, serve as a compelling option for retail investors eager to embrace high-risk investments. The potential for significant returns within a short timeframe is the key allure, tapping into the investor's desire for swift financial growth.

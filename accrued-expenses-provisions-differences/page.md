@@ -1,6 +1,9 @@
 ---
-title: "Accrued Expenses and Provisions: Differences (Algo Trading)"
-description: "Explore the distinctions between accrued expenses and provisions in algo trading Learn key financial concepts to enhance trading strategies and financial management"
+category: quant_concept
+description: Explore the distinctions between accrued expenses and provisions in algo
+  trading Learn key financial concepts to enhance trading strategies and financial
+  management
+title: 'Accrued Expenses and Provisions: Differences (Algo Trading)'
 ---
 
 The financial sector represents a dynamic and intricate environment where understanding financial fundamentals is vital for both survival and success. Firms and individuals must skillfully manage their finances to maintain a competitive edge. A central aspect of financial management encompasses the areas of financial accounting, accrued expenses, provisions, and algorithmic trading—each playing a critical role in the ecosystem of finance.

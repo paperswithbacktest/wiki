@@ -1,6 +1,9 @@
 ---
-title: "National Payment Systems: Clearing and Settlement (Algo Trading)"
-description: "Explore how national payment systems and algorithmic trading enhance financial transactions by ensuring efficiency, security, and integration in global markets."
+category: quant_concept
+description: Explore how national payment systems and algorithmic trading enhance
+  financial transactions by ensuring efficiency, security, and integration in global
+  markets.
+title: 'National Payment Systems: Clearing and Settlement (Algo Trading)'
 ---
 
 The digital age has brought about a transformative impact on the financial sector, particularly in the development and enhancement of national payment systems. These systems form the backbone of financial transactions, serving as the infrastructure that supports the efficient exchange of funds across global markets. As the financial world becomes increasingly interconnected, the importance of streamlined, resilient, and secure payment systems cannot be overstated. 

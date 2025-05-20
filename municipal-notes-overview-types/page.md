@@ -1,6 +1,9 @@
 ---
-title: "Municipal Notes: Overview and Types (Algo Trading)"
-description: "Explore the intersection of municipal notes, bonds, and algorithmic trading in public finance. Learn how these elements transform investment strategies and market efficiency."
+category: quant_concept
+description: Explore the intersection of municipal notes, bonds, and algorithmic trading
+  in public finance. Learn how these elements transform investment strategies and
+  market efficiency.
+title: 'Municipal Notes: Overview and Types (Algo Trading)'
 ---
 
 Municipal bonds, colloquially known as 'munis', offer an attractive opportunity for investors primarily due to their tax-exempt status and typically lower risk of default compared to other investment avenues. These financial instruments are pivotal in supporting public finance, serving as crucial mechanisms for raising capital necessary for infrastructure and public service projects such as schools, highways, and water systems. Municipal notes, which represent short-term debt securities issued by local and state governments, complement municipal bonds by providing immediate funds for capital projects or bridging temporary financing needs.

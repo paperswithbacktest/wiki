@@ -1,6 +1,8 @@
 ---
-title: "Sell Signal: Meaning and Function (Algo Trading)"
-description: "Explore the role of sell signals in algo trading. Learn how these indicators guide investors on when to exit positions and enhance trading strategies."
+category: trading_strategy
+description: Explore the role of sell signals in algo trading. Learn how these indicators
+  guide investors on when to exit positions and enhance trading strategies.
+title: 'Sell Signal: Meaning and Function (Algo Trading)'
 ---
 
 In the fast-paced world of investment, determining the optimal times to enter and exit the market is pivotal to achieving success. Sell signals, which alert investors when to exit their positions, play a crucial role in this decision-making process. Simultaneously, algorithmic trading has emerged as a transformative tool, enabling the automation and execution of trading strategies with unprecedented efficiency and precision. 

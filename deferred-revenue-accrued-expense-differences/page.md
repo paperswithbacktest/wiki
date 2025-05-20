@@ -1,6 +1,9 @@
 ---
-title: "Deferred Revenue and Accrued Expense: Differences (Algo Trading)"
-description: "Explore the key differences between accrued expenses and deferred revenue in financial accounting, and discover how these concepts impact algorithmic trading strategies and financial reporting."
+category: quant_concept
+description: Explore the key differences between accrued expenses and deferred revenue
+  in financial accounting, and discover how these concepts impact algorithmic trading
+  strategies and financial reporting.
+title: 'Deferred Revenue and Accrued Expense: Differences (Algo Trading)'
 ---
 
 Financial accounting is essential for providing crucial information that aids decision-making processes across businesses and by finance professionals. The concepts of accrued expenses and deferred revenue are fundamental to understanding the intricacies of financial statements. Accrued expenses are incurred but not yet paid, while deferred revenue refers to payments received before delivering goods or services. These concepts present notable complexities because they require careful judgment to ensure transactions are recorded in the appropriate accounting periods, impacting the accuracy of a company's financial health representation.

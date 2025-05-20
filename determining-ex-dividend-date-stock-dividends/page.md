@@ -1,6 +1,8 @@
 ---
-title: "Determining the Ex-Dividend Date for Stock Dividends (Algo Trading)"
-description: "Learn how to calculate the ex-dividend date and enhance your stock investment strategy using algorithmic trading insights for optimized dividend capture."
+category: quant_concept
+description: Learn how to calculate the ex-dividend date and enhance your stock investment
+  strategy using algorithmic trading insights for optimized dividend capture.
+title: Determining the Ex-Dividend Date for Stock Dividends (Algo Trading)
 ---
 
 In the world of investing, dividends emerge as a reliable source of passive income, often attracting investors who seek regular earnings from their investments. Dividends represent a portion of a company's earnings distributed to shareholders, typically in the form of cash or additional shares. For investors aiming to optimize their income streams, understanding the nuances of stock dividends becomes essential. By grasping how dividends function and influence investment returns, investors can make informed decisions that align with their financial goals.

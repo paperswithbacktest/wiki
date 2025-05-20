@@ -1,6 +1,9 @@
 ---
-title: "Common Misconceptions About Cryptocurrencies (Algo Trading)"
-description: "Discover the truths behind crypto algo trading and debunk common myths. Learn about the potential, limitations, and realistic expectations of this advanced trading method."
+category: quant_concept
+description: Discover the truths behind crypto algo trading and debunk common myths.
+  Learn about the potential, limitations, and realistic expectations of this advanced
+  trading method.
+title: Common Misconceptions About Cryptocurrencies (Algo Trading)
 ---
 
 Cryptocurrency algorithmic trading (algo trading) has emerged as a transformative method in the evolving world of finance, allowing traders to maximize potential returns by using technology to their advantage. Unlike manual trading, which relies on a trader's instincts and interpretations, algo trading deploys automated platforms and algorithms to make split-second decisions based on predefined sets of rules and real-time data analysis. This technological shift has positioned algo trading as an integral part of modern financial markets, offering the promise of enhanced efficiency and execution speed.

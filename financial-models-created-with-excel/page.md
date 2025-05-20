@@ -1,6 +1,9 @@
 ---
-title: "Financial Models Created with Excel (Algo Trading)"
-description: "Explore how Excel drives financial modeling and algorithmic trading with its flexible, powerful tools. Discover strategies, model creation, and platform integration."
+category: trading_strategy
+description: Explore how Excel drives financial modeling and algorithmic trading with
+  its flexible, powerful tools. Discover strategies, model creation, and platform
+  integration.
+title: Financial Models Created with Excel (Algo Trading)
 ---
 
 Excel spreadsheets are integral tools in the field of finance, serving as the backbone for a multitude of tasks related to financial modeling and algorithmic trading. Excel's widespread adoption is largely due to its unparalleled flexibility and computational power, making it an essential tool for both individual analysts and large financial institutions.

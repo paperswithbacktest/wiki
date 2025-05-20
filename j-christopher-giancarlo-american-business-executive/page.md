@@ -1,6 +1,9 @@
 ---
-title: "J. Christopher Giancarlo: American Business Executive (Algo Trading)"
-description: "Explore the evolving landscape where regulation, blockchain, and algorithmic trading intersect. Discover how these elements reshape financial markets and prompt vital discussions."
+category: quant_concept
+description: Explore the evolving landscape where regulation, blockchain, and algorithmic
+  trading intersect. Discover how these elements reshape financial markets and prompt
+  vital discussions.
+title: 'J. Christopher Giancarlo: American Business Executive (Algo Trading)'
 ---
 
 In recent years, the intersection of regulation, finance, blockchain, and algorithmic trading has garnered significant attention from industry professionals and regulatory bodies. These elements interact to create a dynamic landscape filled with both opportunities and challenges. The convergence of these technologies and regulatory frameworks is not only reshaping financial markets but also prompting critical discussions about the balance between innovation and oversight.

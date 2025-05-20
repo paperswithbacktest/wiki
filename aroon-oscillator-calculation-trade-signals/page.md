@@ -1,6 +1,8 @@
 ---
-title: "Aroon Oscillator Calculation and Trade Signals (Algo Trading)"
-description: "Unlock the potential of the Aroon Oscillator by understanding its calculation and trade signals. Elevate your algo trading game through this essential guide."
+category: trading_strategy
+description: Unlock the potential of the Aroon Oscillator by understanding its calculation
+  and trade signals. Elevate your algo trading game through this essential guide.
+title: Aroon Oscillator Calculation and Trade Signals (Algo Trading)
 ---
 
 The Aroon Oscillator is a significant tool within technical analysis, enabling traders to gain insights into market trends. Developed by Tushar Chande, this trend-following indicator assesses the strength of a trend and its potential for continuation. Its primary objective is to identify new and emerging trends, which is essential for making informed trading decisions. 

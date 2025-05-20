@@ -1,9 +1,14 @@
 ---
-title: "WTI brent spread"
-description: The WTI-Brent Spread represents the price difference between West Texas Intermediate (WTI) and Brent crude oils, serving as a key financial indicator in the global oil market. Influenced by factors such as geopolitical risks, transportation costs, and regional supply-demand dynamics, this spread helps traders gauge market conditions, predict price movements, and identify arbitrage opportunities. Understanding the WTI-Brent Spread is essential for anyone engaged in oil trading, as it directly impacts futures, options pricing, and investor sentiment across the energy sector.
+category: quant_concept
+description: The WTI-Brent Spread represents the price difference between West Texas
+  Intermediate (WTI) and Brent crude oils, serving as a key financial indicator in
+  the global oil market. Influenced by factors such as geopolitical risks, transportation
+  costs, and regional supply-demand dynamics, this spread helps traders gauge market
+  conditions, predict price movements, and identify arbitrage opportunities. Understanding
+  the WTI-Brent Spread is essential for anyone engaged in oil trading, as it directly
+  impacts futures, options pricing, and investor sentiment across the energy sector.
+title: WTI brent spread
 ---
-
-
 
 The WTI-Brent Spread represents the price difference between West Texas Intermediate (WTI) crude oil and Brent crude oil. This spread is a critical financial indicator for traders and analysts because it reflects regional variations in oil supply and demand, differences in transportation costs, and geopolitical factors that affect oil pricing. The volatility of this spread can lead to significant trading opportunities as it affects decisions in the energy sector, influences investor sentiment in commodity markets, and impacts global economic indicators.
 

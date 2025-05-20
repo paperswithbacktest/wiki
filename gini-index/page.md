@@ -1,6 +1,12 @@
 ---
-title: "Gini Index (Algo Trading)"
-description: "Explore the fundamentals of the Gini Index in algorithmic trading: a critical metric used in decision tree models to enhance trading strategies by minimizing misclassification and improving prediction accuracy within financial markets. Understand how decision trees utilize the Gini Index for optimal data partitioning, leading to more reliable buy and sell signals, and discover its significance in refining complex financial predictions through machine learning applications."
+category: quant_concept
+description: 'Explore the fundamentals of the Gini Index in algorithmic trading: a
+  critical metric used in decision tree models to enhance trading strategies by minimizing
+  misclassification and improving prediction accuracy within financial markets. Understand
+  how decision trees utilize the Gini Index for optimal data partitioning, leading
+  to more reliable buy and sell signals, and discover its significance in refining
+  complex financial predictions through machine learning applications.'
+title: Gini Index (Algo Trading)
 ---
 
 Algorithmic trading has revolutionized financial markets by automating the process of buying and selling assets based on pre-set criteria. This has led to the widespread adoption of machine learning techniques to craft more advanced and precise trading strategies. Among these techniques, decision trees have become a favored tool due to their notable simplicity and interpretability. Unlike other complex methods, decision trees bifurcate the data into distinct subsets that are easier to analyze, making them effective for trading strategies where clarity and transparency are paramount.

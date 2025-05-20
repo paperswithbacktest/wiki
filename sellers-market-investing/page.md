@@ -1,6 +1,9 @@
 ---
-title: "Seller's Market in Investing (Algo Trading)"
-description: "Explore effective strategies for investing in a seller's market and discover the role of algorithmic trading in optimizing portfolio decisions in dynamic financial environments."
+category: quant_concept
+description: Explore effective strategies for investing in a seller's market and discover
+  the role of algorithmic trading in optimizing portfolio decisions in dynamic financial
+  environments.
+title: Seller's Market in Investing (Algo Trading)
 ---
 
 In finance, understanding the nuances of different market conditions is crucial for investors. The investment landscape is constantly evolving, presenting both opportunities and challenges that require strategic navigation. Among these, the seller's market presents a unique set of dynamics where demand exceeds supply, often enabling sellers to set higher prices due to limited alternatives for buyers. This environment necessitates a thorough understanding of market behavior to devise effective investment strategies.

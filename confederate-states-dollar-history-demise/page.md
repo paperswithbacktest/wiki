@@ -1,6 +1,9 @@
 ---
-title: "Confederate States Dollar: History and Demise (Algo Trading)"
-description: "Explore the fascinating history of the Confederate States Dollar its economic challenges during the Civil War and its lasting impact on modern financial practices"
+category: quant_concept
+description: Explore the fascinating history of the Confederate States Dollar its
+  economic challenges during the Civil War and its lasting impact on modern financial
+  practices
+title: 'Confederate States Dollar: History and Demise (Algo Trading)'
 ---
 
 The Confederate dollar, also known as the Confederate States Dollar (CSD), was the official currency used by the Confederate States of America during the Civil War, spanning from 1861 to 1865. This currency emerged from a time of considerable upheaval and serves as a pivotal example of the complexities involved in wartime economics and the consequences of unbacked monetary systems.

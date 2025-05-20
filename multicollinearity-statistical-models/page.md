@@ -1,6 +1,9 @@
 ---
-title: "Multicollinearity in Statistical Models (Algo Trading)"
-description: "Explore the critical role of regression analysis in algorithmic trading and address multicollinearity issues to improve model accuracy and enhance strategy development."
+category: quant_concept
+description: Explore the critical role of regression analysis in algorithmic trading
+  and address multicollinearity issues to improve model accuracy and enhance strategy
+  development.
+title: Multicollinearity in Statistical Models (Algo Trading)
 ---
 
 In today's fast-paced financial markets, algorithmic trading has emerged as a dominant force, underpinned by the rapid processing of vast amounts of data and the application of sophisticated statistical models. Among these models, regression analysis plays a crucial role by enabling traders to discern patterns within historical data, making informed decisions on future market movements. 
@@ -141,4 +144,3 @@ The ongoing convergence of statistical analysis and technology is reshaping the 
 [7]: Montgomery, D. C., Peck, E. A., & Vining, G. G. (2012). ["Introduction to Linear Regression Analysis"](https://books.google.com/books/about/Introduction_to_Linear_Regression_Analys.html?id=tCIgEAAAQBAJ). Wiley. 
 
 [8]: ["The Econometrics of Financial Markets"](https://archive.org/details/econometricsoffi0000camp) by John Y. Campbell, Andrew W. Lo, A. Craig MacKinlay
-

@@ -1,7 +1,8 @@
 ---
-title: Fundamentals of Language Models in Machine Learning
+category: quant_concept
 description: Language models enable text autocomplete translation and chatbots by
   learning word patterns from data to generate humanlike language. Discover more inside.
+title: Fundamentals of Language Models in Machine Learning
 ---
 
 ![Image](images/1.png)

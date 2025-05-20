@@ -1,6 +1,9 @@
 ---
-title: "History of Options Contracts (Algo Trading)"
-description: "Explore the fascinating history of options contracts in algorithmic trading from their ancient Greek roots to modern tech-driven strategies shaping today's markets."
+category: quant_concept
+description: Explore the fascinating history of options contracts in algorithmic trading
+  from their ancient Greek roots to modern tech-driven strategies shaping today's
+  markets.
+title: History of Options Contracts (Algo Trading)
 ---
 
 Options contracts are fundamental to the functioning of financial markets, offering investors a valuable tool for hedging, speculation, and income generation. These contracts provide the right, but not the obligation, to buy or sell an asset at a predetermined price before a specified expiration date. This flexibility allows market participants to manage risk and leverage market movements to achieve their financial goals. The importance of options derives from their ability to create strategies that can profit from changes in the underlying asset's price, implied volatility, or time decay, making them a versatile instrument in finance.

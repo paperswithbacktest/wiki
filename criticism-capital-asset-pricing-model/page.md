@@ -1,6 +1,9 @@
 ---
-title: "Criticism of the Capital Asset Pricing Model (Algo Trading)"
-description: "Explore criticisms of the Capital Asset Pricing Model in the context of algorithmic trading Discover why CAPM's assumptions may fall short in modern financial markets"
+category: quant_concept
+description: Explore criticisms of the Capital Asset Pricing Model in the context
+  of algorithmic trading Discover why CAPM's assumptions may fall short in modern
+  financial markets
+title: Criticism of the Capital Asset Pricing Model (Algo Trading)
 ---
 
 The Capital Asset Pricing Model (CAPM) has long been established as a pivotal framework in financial theory, introduced to equip investors with a method to calculate the expected return on an investment by correlating it with its inherent risk relative to a risk-free asset. The essence of CAPM is its proposition that the expected return on an asset is linearly related to its beta, which measures its sensitivity to movements in the overall market. Mathematically, this is expressed as:

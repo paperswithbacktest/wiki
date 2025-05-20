@@ -1,6 +1,9 @@
 ---
-title: "International Securities Association for Institutional Trade Communication (Algo Trading)"
-description: "Discover how ISITC shapes efficient global financial markets through robust communication standards and the evolution of algorithmic trading technologies."
+category: quant_concept
+description: Discover how ISITC shapes efficient global financial markets through
+  robust communication standards and the evolution of algorithmic trading technologies.
+title: International Securities Association for Institutional Trade Communication
+  (Algo Trading)
 ---
 
 The global financial landscape is undergoing significant transformation as advanced technologies, notably algorithmic trading, become integral to market operations. Algorithmic trading leverages complex mathematical models and high-powered computing to execute trades at speeds and efficiencies that are unattainable by human traders. This technological advancement has not only increased the volume of trades conducted on financial markets but has also enhanced the precision and timing of these trades, ultimately contributing to more liquid and efficient markets.

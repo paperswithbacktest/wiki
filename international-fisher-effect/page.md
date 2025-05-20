@@ -1,6 +1,8 @@
 ---
-title: "International Fisher Effect (Algo Trading)"
-description: "Explore how the International Fisher Effect theory, merged with algorithmic trading, enhances currency market strategies by predicting exchange rate shifts."
+category: quant_concept
+description: Explore how the International Fisher Effect theory, merged with algorithmic
+  trading, enhances currency market strategies by predicting exchange rate shifts.
+title: International Fisher Effect (Algo Trading)
 ---
 
 Exchange rates, the relative value of one currency against another, play a crucial role in global trade by influencing the price of goods and services across borders. They impact the competitiveness of nations, determine trade flows, and affect inflation and economic policy decisions. Various factors influence exchange rates, including economic performance, interest rates, inflation, and geopolitical events. In this context, governments and businesses keenly monitor exchange rate movements to make strategic decisions.

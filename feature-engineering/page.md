@@ -1,7 +1,8 @@
 ---
-title: Feature Engineering Strategies to Improve Machine Learning Models
+category: quant_concept
 description: Feature engineering turns raw data into meaningful features using encoding
   scaling and interaction terms to boost model accuracy. Discover more inside.
+title: Feature Engineering Strategies to Improve Machine Learning Models
 ---
 
 ![Image](images/1.png)

@@ -1,6 +1,9 @@
 ---
-title: "Monetary Conditions Index: Overview and Calculation (Algo Trading)"
-description: "Explore the Monetary Conditions Index MCI a crucial economic measure that assesses monetary policy effects using interest and exchange rates for algorithmic trading."
+category: quant_concept
+description: Explore the Monetary Conditions Index MCI a crucial economic measure
+  that assesses monetary policy effects using interest and exchange rates for algorithmic
+  trading.
+title: 'Monetary Conditions Index: Overview and Calculation (Algo Trading)'
 ---
 
 The Monetary Conditions Index (MCI) is a critical economic indicator designed to evaluate the influence of monetary policy on an economy. Originally crafted by the Bank of Canada, the MCI assists central banks in determining the relative ease or tightness of monetary conditions by utilizing a blend of interest rates and exchange rates. This combination helps provide a clearer picture of how monetary policies affect economic parameters such as consumption, investment, and trade. As monetary policy decisions often have profound effects on both domestic and international economic environments, understanding the MCI has become essential.

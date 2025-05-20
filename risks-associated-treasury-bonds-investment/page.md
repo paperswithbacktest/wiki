@@ -1,6 +1,8 @@
 ---
-title: "Risks Associated with Treasury Bonds Investment (Algo Trading)"
-description: "Explore the risks of investing in treasury bonds including interest rate and inflation risks and learn how algorithmic trading can aid in risk management."
+category: trading_strategy
+description: Explore the risks of investing in treasury bonds including interest rate
+  and inflation risks and learn how algorithmic trading can aid in risk management.
+title: Risks Associated with Treasury Bonds Investment (Algo Trading)
 ---
 
 The investment landscape is vast and complex, offering a myriad of opportunities and challenges. Within this extensive array of options, treasury bonds have earned a reputation as a cornerstone for conservative investors. These long-term debt securities issued by the U.S. government are often lauded for their perceived safety. The government's steadfast commitment to repaying both principal and interest makes treasury bonds particularly appealing to those seeking stability in their investment portfolios.

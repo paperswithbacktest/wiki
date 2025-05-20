@@ -1,6 +1,9 @@
 ---
-title: "Index-Linked Bonds: Mechanisms and Examples (Algo Trading)"
-description: "Discover the mechanisms and advantages of inflation-linked bonds including Treasury Inflation-Protected Securities which safeguard investment value against inflation."
+category: quant_concept
+description: Discover the mechanisms and advantages of inflation-linked bonds including
+  Treasury Inflation-Protected Securities which safeguard investment value against
+  inflation.
+title: 'Index-Linked Bonds: Mechanisms and Examples (Algo Trading)'
 ---
 
 Inflation is a pervasive economic phenomenon that can significantly diminish the purchasing power of investments. As prices rise, the real value of money declines, which can erode the returns on investment portfolios if not properly managed. For investors seeking to protect their portfolios against this erosion, inflation-linked bonds, also known as index-linked bonds, present a viable solution. These bonds are designed to adjust their principal and interest payments in line with inflation indices, thereby preserving the real value of returns. This contrasts with traditional bonds, which offer fixed nominal returns and may lose purchasing power during inflationary periods.

@@ -1,6 +1,9 @@
 ---
-title: "Major Shareholders of Primerica, Inc. (Algo Trading)"
-description: "Explore how algorithmic trading impacts major shareholders of Primerica Inc., a leading financial services company specializing in products for middle-income households."
+category: dataset
+description: Explore how algorithmic trading impacts major shareholders of Primerica
+  Inc., a leading financial services company specializing in products for middle-income
+  households.
+title: Major Shareholders of Primerica, Inc. (Algo Trading)
 ---
 
 Primerica, Inc., established in 1977, is a notable financial services company specializing in providing financial products aimed at middle-income households in North America. Headquartered in Duluth, Georgia, the company originally emerged from a segment of the American Can Company and has evolved significantly over the decades. Primerica's business model primarily revolves around offering term life insurance, mutual funds, and other financial investment products aimed at aiding clients in meeting their long-term financial goals. Over the years, the firm's unique multilevel marketing approach has attracted a substantial network of independent sales representatives, contributing to its expansive growth and market reach.

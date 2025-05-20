@@ -1,6 +1,9 @@
 ---
-title: "Asteroid Impact Event (Algo Trading)"
-description: "Explore the intriguing connection between asteroid impacts and financial markets, revealing how these cosmic events influence algorithmic trading and market dynamics."
+category: quant_concept
+description: Explore the intriguing connection between asteroid impacts and financial
+  markets, revealing how these cosmic events influence algorithmic trading and market
+  dynamics.
+title: Asteroid Impact Event (Algo Trading)
 ---
 
 The universe is a vast expanse filled with celestial bodies and mysteries waiting to be uncovered. Among the many phenomena encompassing our universe, asteroid impact events emerge as a focal point of interest due to their profound implications on both space science and financial markets. These impact events involve collisions between celestial objects, such as asteroids, and terrestrial planets, including Earth, where they can lead to significant consequences ranging from environmental changes to market fluctuations.

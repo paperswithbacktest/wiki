@@ -1,6 +1,9 @@
 ---
-title: "Valuing Options Using the Binomial Model (Algo Trading)"
-description: "Explore the binomial option pricing model for valuing options, key in algo trading strategies. Learn how this model aids risk management and speculative trading."
+category: quant_concept
+description: Explore the binomial option pricing model for valuing options, key in
+  algo trading strategies. Learn how this model aids risk management and speculative
+  trading.
+title: Valuing Options Using the Binomial Model (Algo Trading)
 ---
 
 Financial derivatives, particularly options, are quintessential instruments in modern trading, offering distinctive advantages in terms of risk management and speculative potential. An option provides traders with the right, but not the obligation, to buy or sell an asset at a predetermined price, known as the strike price, on or before a specified expiration date. This flexibility allows market participants to hedge against potential losses or to speculate on future price movements of the underlying asset.

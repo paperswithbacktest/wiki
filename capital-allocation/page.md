@@ -1,6 +1,15 @@
 ---
-title: "Capital allocation (Algo Trading)"
-description: In the dynamic realm of algorithmic trading, effective capital allocation is crucial for managing risk and maximizing returns. This guide explores various capital allocation techniques that balance risk-reward, ensuring efficient use of resources. By examining methods like volatility scaling and risk parity, traders can tailor strategies to align with specific goals. Advanced techniques like the Kelly Criterion enhance capital efficiency, empowering traders to make informed decisions for sustainable performance. A strategic capital allocation plan not only amplifies potential profits but also protects against adverse market impacts, driving long-term success.
+category: trading_strategy
+description: In the dynamic realm of algorithmic trading, effective capital allocation
+  is crucial for managing risk and maximizing returns. This guide explores various
+  capital allocation techniques that balance risk-reward, ensuring efficient use of
+  resources. By examining methods like volatility scaling and risk parity, traders
+  can tailor strategies to align with specific goals. Advanced techniques like the
+  Kelly Criterion enhance capital efficiency, empowering traders to make informed
+  decisions for sustainable performance. A strategic capital allocation plan not only
+  amplifies potential profits but also protects against adverse market impacts, driving
+  long-term success.
+title: Capital allocation (Algo Trading)
 ---
 
 In the fast-evolving world of algorithmic trading, capital allocation stands as a cornerstone for success. In algorithmic trading, the process of allocating capital effectively is crucial for managing risk and maximizing returns. A well-thought-out capital allocation strategy can be the deciding factor between a thriving trading program and one that fails to meet its objectives. Capital allocation in algo trading involves distributing financial resources across various strategies, asset classes, or trading signals, with the aim of optimizing the risk-reward profile of the overall portfolio.

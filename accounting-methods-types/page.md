@@ -1,6 +1,8 @@
 ---
-title: "Accounting Methods and Types (Algo Trading)"
-description: "Explore how different accounting methods integrate with algorithmic trading to ensure accurate financial reporting enhance trading strategies and ensure compliance."
+category: quant_concept
+description: Explore how different accounting methods integrate with algorithmic trading
+  to ensure accurate financial reporting enhance trading strategies and ensure compliance.
+title: Accounting Methods and Types (Algo Trading)
 ---
 
 In the era of fast-paced financial markets, the intersection of accounting methods and algorithmic trading holds vital relevance. As algorithmic trading continues to revolutionize financial transactions by executing trades with unprecedented speed and efficiency, it is crucial to understand the integration of different accounting methods within this context. This integration not only ensures accurate financial reporting but also aids in making informed strategic decisions.

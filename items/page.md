@@ -1,7 +1,8 @@
 ---
-title: Machine Learning for Item Analysis and Demand Prediction
+category: quant_concept
 description: Machine Learning for item analysis delivers accurate demand forecasts
   and personalized recommendations with data preprocessing Discover more inside
+title: Machine Learning for Item Analysis and Demand Prediction
 ---
 
 ![Image](images/1.png)

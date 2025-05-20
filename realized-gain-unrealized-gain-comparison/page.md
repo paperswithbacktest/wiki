@@ -1,6 +1,8 @@
 ---
-title: "Realized Gain and Unrealized Gain Comparison (Algo Trading)"
-description: "Compare realized and unrealized gains to understand their impact on investments and tax implications, and explore the efficiency of algorithmic trading strategies."
+category: quant_concept
+description: Compare realized and unrealized gains to understand their impact on investments
+  and tax implications, and explore the efficiency of algorithmic trading strategies.
+title: Realized Gain and Unrealized Gain Comparison (Algo Trading)
 ---
 
 The financial markets are characterized by a high degree of complexity, making it imperative for investors to grasp critical concepts such as unrealized gains, realized gains, and algorithmic trading. A comprehensive understanding of these concepts is not only foundational for constructing robust investment strategies but also crucial for effective portfolio management and tax planning.
@@ -142,4 +144,3 @@ For those interested in expanding their understanding of algorithmic trading, un
     - The use of Python in developing trading algorithms is well-documented in online courses and tutorials. For instance, learning resources from sites like Coursera or Udemy can offer practical coding exercises and projects to start creating algorithms.
 
 By examining these resources, investors and traders can gain comprehensive insights into the nuances of financial markets and the strategic use of data-driven trading techniques. Whether for academic, professional, or personal growth, these readings and platforms present valuable information for optimizing investment decisions.
-

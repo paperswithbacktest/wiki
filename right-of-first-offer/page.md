@@ -1,6 +1,8 @@
 ---
-title: "Right of First Offer (Algo Trading)"
-description: "Discover how Right of First Offer (ROFO) clauses enhance algorithmic trading strategies by securing preferential terms and optimizing asset transactions."
+category: quant_concept
+description: Discover how Right of First Offer (ROFO) clauses enhance algorithmic
+  trading strategies by securing preferential terms and optimizing asset transactions.
+title: Right of First Offer (Algo Trading)
 ---
 
 Offer Agreements and the Right of First Offer (ROFO) are critical components in a variety of business transactions, providing mechanisms through which parties can secure preferential terms and maintain strategic advantages. ROFO offers buyers the opportunity to be the first to express interest in an asset or a stake, necessitating the seller to present the offer to the buyer before other potential purchasers. This contractual clause is particularly advantageous in market sectors where collaboration and competition are intricately linked. 

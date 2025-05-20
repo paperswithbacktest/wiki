@@ -1,6 +1,12 @@
 ---
-title: "Gross Margin Explained (Algo Trading)"
-description: "Discover the importance of gross margin analysis in optimizing algorithmic trading strategies to enhance profitability and efficiency. Learn how key financial metrics like gross margin play a critical role in assessing the cost efficiency of trading tactics, ensuring long-term success in the dynamic world of algo trading. Uncover the significance of understanding and adapting to market conditions through strategic financial assessment and robust trading performance evaluation."
+category: quant_concept
+description: Discover the importance of gross margin analysis in optimizing algorithmic
+  trading strategies to enhance profitability and efficiency. Learn how key financial
+  metrics like gross margin play a critical role in assessing the cost efficiency
+  of trading tactics, ensuring long-term success in the dynamic world of algo trading.
+  Uncover the significance of understanding and adapting to market conditions through
+  strategic financial assessment and robust trading performance evaluation.
+title: Gross Margin Explained (Algo Trading)
 ---
 
 Algorithmic trading, or algo trading, is revolutionizing the trading landscape by employing complex algorithms to execute trades at speeds and frequencies that a human trader cannot achieve. This technological advancement is reshaping market dynamics by providing new opportunities and efficiencies for traders and investors alike. A fundamental aspect of optimizing these advanced trading strategies is understanding financial metrics, such as gross margin, which are crucial for evaluating profitability.

@@ -1,6 +1,8 @@
 ---
-title: "Upside Gap Two Crows: Analysis and Limitations (Algo Trading)"
-description: "Analyze the Upside Gap Two Crows pattern for algorithmic trading strategies Learn its significance limitations and how it can forecast market reversals efficiently"
+category: trading_strategy
+description: Analyze the Upside Gap Two Crows pattern for algorithmic trading strategies
+  Learn its significance limitations and how it can forecast market reversals efficiently
+title: 'Upside Gap Two Crows: Analysis and Limitations (Algo Trading)'
 ---
 
 The world of trading is vast and complex, with technical analysis playing a pivotal role in helping traders make informed decisions. This form of analysis utilizes historical price data and statistical trends to forecast potential market movements, offering traders a structured approach to understanding price actions.

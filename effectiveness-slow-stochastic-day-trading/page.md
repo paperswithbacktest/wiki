@@ -1,6 +1,8 @@
 ---
-title: "Effectiveness of Slow Stochastic in Day Trading (Algo Trading)"
-description: "Explore how the slow stochastic oscillator enhances day trading and algorithmic strategies by identifying potential market reversals and optimizing trade decisions."
+category: trading_strategy
+description: Explore how the slow stochastic oscillator enhances day trading and algorithmic
+  strategies by identifying potential market reversals and optimizing trade decisions.
+title: Effectiveness of Slow Stochastic in Day Trading (Algo Trading)
 ---
 
 Trading strategies are essential frameworks employed by traders to make informed decisions in financial markets. Among various approaches, day trading and algorithmic trading are two prevalent forms that involve rapid buying and selling of assets within the same trading day and the use of automated systems, respectively. Central to these strategies is the application of technical indicators, which provide critical insights into market trends and potential price movements, thereby assisting traders in minimizing risks and maximizing returns.

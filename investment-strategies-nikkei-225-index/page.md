@@ -1,6 +1,11 @@
 ---
-title: "Investment Strategies for the Nikkei 225 Index (Algo Trading)"
-description: "Explore effective investment strategies and algorithmic trading opportunities for the Nikkei 225 Index to gain substantial exposure to the Japanese market. This guide investigates into the automated precision of algorithmic trading and various methods like momentum trading and arbitrage, offering insights into Japan's dynamic economy and how to optimize trading outcomes."
+category: trading_strategy
+description: Explore effective investment strategies and algorithmic trading opportunities
+  for the Nikkei 225 Index to gain substantial exposure to the Japanese market. This
+  guide investigates into the automated precision of algorithmic trading and various
+  methods like momentum trading and arbitrage, offering insights into Japan's dynamic
+  economy and how to optimize trading outcomes.
+title: Investment Strategies for the Nikkei 225 Index (Algo Trading)
 ---
 
 The Nikkei 225 is a prominent stock market index that serves as a crucial benchmark for the Tokyo Stock Exchange. It comprises the largest blue-chip companies in Japan, including industry giants such as Sony, Toyota, and Canon. This index offers a comprehensive view of Japan's diverse and dynamic economy.

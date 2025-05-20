@@ -1,6 +1,9 @@
 ---
-title: "Dividend Reinvestment Plans and Earnings Compounding (Algo Trading)"
-description: "Explore how Dividend Reinvestment Plans and algorithmic trading can enhance investment returns through compounding providing insights for maximizing wealth growth."
+category: trading_strategy
+description: Explore how Dividend Reinvestment Plans and algorithmic trading can enhance
+  investment returns through compounding providing insights for maximizing wealth
+  growth.
+title: Dividend Reinvestment Plans and Earnings Compounding (Algo Trading)
 ---
 
 Dividend Reinvestment Plans (DRIPs) represent a significant tool for investors seeking to maximize their earnings through the power of compounding. At their core, DRIPs allow investors to automatically reinvest cash dividends paid by a company into additional shares of the same company, essentially snowballing their investment without the need for manual intervention. This continuous reinvestment process not only increases the number of shares an investor owns but also fortifies the potential for compounded growth over time.

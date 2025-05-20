@@ -1,6 +1,11 @@
 ---
-title: "Introduction to Forex Trading for Beginners (Algo Trading)"
-description: "Discover the essentials of forex trading in this beginner's guide that explores the dynamic world of currency exchange and introduces the benefits of algorithmic trading. Learn key concepts like currency pairs and pips, alongside manual and automated trading strategies, to enhance your trading skills and make informed investment decisions in the global forex market."
+category: quant_concept
+description: Discover the essentials of forex trading in this beginner's guide that
+  explores the dynamic world of currency exchange and introduces the benefits of algorithmic
+  trading. Learn key concepts like currency pairs and pips, alongside manual and automated
+  trading strategies, to enhance your trading skills and make informed investment
+  decisions in the global forex market.
+title: Introduction to Forex Trading for Beginners (Algo Trading)
 ---
 
 The evolving landscape of trading has opened new avenues for investors, among which forex trading stands out due to its dynamic nature. The forex market, characterized by its high liquidity and continuous operation, offers a unique opportunity for individuals to trade currencies globally. This beginner's guide aims to unravel the complexities of forex trading and introduce the concepts of algorithmic trading, a method increasingly adopted by traders seeking efficiency and precision.

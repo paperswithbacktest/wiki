@@ -1,7 +1,8 @@
 ---
-title: Advancements in Stereo Depth Estimation for Machine Learning
+category: quant_concept
 description: Stereo depth estimation enables precise 3D scene reconstruction and real-world
   model comparisons for autonomous vehicles and robotics Discover more inside
+title: Advancements in Stereo Depth Estimation for Machine Learning
 ---
 
 ![Image](images/1.png)

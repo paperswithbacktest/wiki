@@ -1,6 +1,14 @@
 ---
-title: "Economic Deficits: Types, Risks, and Benefits (Algo Trading)"
-description: "Explore the multifaceted nature of economic deficits and their impact on global markets with a focus on algorithmic trading strategies. Understand the various types of deficits including budget, trade, and current account deficits, and their implications on fiscal policies and economic stability. This article provides insights into the risks and benefits of deficits in governmental, corporate, and individual contexts, highlighting how they shape economic policies and market dynamics. Discover the role of algorithmic trading in leveraging these economic conditions to enhance market strategies."
+category: quant_concept
+description: Explore the multifaceted nature of economic deficits and their impact
+  on global markets with a focus on algorithmic trading strategies. Understand the
+  various types of deficits including budget, trade, and current account deficits,
+  and their implications on fiscal policies and economic stability. This article provides
+  insights into the risks and benefits of deficits in governmental, corporate, and
+  individual contexts, highlighting how they shape economic policies and market dynamics.
+  Discover the role of algorithmic trading in leveraging these economic conditions
+  to enhance market strategies.
+title: 'Economic Deficits: Types, Risks, and Benefits (Algo Trading)'
 ---
 
 In today's interconnected global economy, deficits are a frequent and multifaceted occurrence, often representing the gap between expenditures and revenues. These imbalances are pivotal in understanding the broader economic landscape and are evident in both governmental and corporate environments. Governments may incur budget deficits when expenditures on public services and social programs surpass revenues collected from taxes and other sources. Similarly, corporations might experience deficits when operational expenses exceed income, prompting strategic financial adjustments.

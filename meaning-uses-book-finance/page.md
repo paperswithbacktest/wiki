@@ -1,6 +1,9 @@
 ---
-title: "Meaning and Uses of 'Book' in Finance (Algo Trading)"
-description: "Uncover the meaning of 'book' in finance and explore its practical uses in algo trading. Learn key financial terms, their applications, and essential reads for enthusiasts."
+category: quant_concept
+description: Uncover the meaning of 'book' in finance and explore its practical uses
+  in algo trading. Learn key financial terms, their applications, and essential reads
+  for enthusiasts.
+title: Meaning and Uses of 'Book' in Finance (Algo Trading)
 ---
 
 A comprehensive understanding of finance terminology is crucial for navigating the complex world of finance, investment, and trading. This intricate domain involves a wide array of concepts, tools, and practices that form the foundation of financial literacy. Whether you're an individual investor or a part of a larger institutional setting, grasping key financial terms can dramatically improve your ability to make informed decisions, assess risks, and identify opportunities.

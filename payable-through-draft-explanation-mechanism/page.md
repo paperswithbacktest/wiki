@@ -1,6 +1,8 @@
 ---
-title: "Payable-Through-Draft: Explanation and Mechanism (Algo Trading)"
-description: "Learn about Payable-Through-Drafts and their role in simplifying banking and algorithmic trading transactions with enhanced security and efficiency."
+category: quant_concept
+description: Learn about Payable-Through-Drafts and their role in simplifying banking
+  and algorithmic trading transactions with enhanced security and efficiency.
+title: 'Payable-Through-Draft: Explanation and Mechanism (Algo Trading)'
 ---
 
 A Payable-Through-Draft (PTD) represents an instrument used within the banking sector to facilitate transactions between businesses and individuals through a draft that is payable through a bank. This mechanism has become significant in modern banking practices due to its ability to streamline payment processes, enhancing efficiency and security in financial transactions. PTDs are utilized by corporations to settle accounts in a secure manner, without relying solely on electronic banking systems or traditional checks.

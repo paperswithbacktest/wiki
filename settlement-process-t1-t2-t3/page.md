@@ -1,6 +1,8 @@
 ---
-title: "Settlement Process: T+1, T+2, and T+3 (Algo Trading)"
-description: "Explore the pivotal role of T+1, T+2, and T+3 settlement cycles in financial markets, impacting liquidity and risk in traditional and algorithmic trading."
+category: quant_concept
+description: Explore the pivotal role of T+1, T+2, and T+3 settlement cycles in financial
+  markets, impacting liquidity and risk in traditional and algorithmic trading.
+title: 'Settlement Process: T+1, T+2, and T+3 (Algo Trading)'
 ---
 
 The settlement process plays a pivotal role in financial markets by facilitating the orderly transfer of securities from sellers to buyers. Settlement defines the moment when transactions are finalized, and ownership is officially transferred, which may differ from the actual date the transaction was executed. This distinction between execution and settlement dates is crucial as it impacts various operational and strategic elements within the financial system, including the liquidity management and risk allocation of trading entities.

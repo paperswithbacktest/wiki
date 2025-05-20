@@ -1,6 +1,8 @@
 ---
-title: "Overview of Penny Stocks (Algo Trading)"
-description: "Explore the high-risk high-reward world of penny stocks and algo trading featuring insights on market dynamics strategy integration and investor tips."
+category: quant_concept
+description: Explore the high-risk high-reward world of penny stocks and algo trading
+  featuring insights on market dynamics strategy integration and investor tips.
+title: Overview of Penny Stocks (Algo Trading)
 ---
 
 In recent years, the stock market has captured the burgeoning interest of individual investors, particularly in the fields of penny stocks and algorithmic trading. Penny stocks are characterized by their low market price and significant volatility, offering both a high-risk and potentially high-reward investment landscape. These stocks typically belong to smaller companies and are often traded over-the-counter (OTC), which means they do not usually trade on major exchanges like the New York Stock Exchange or NASDAQ. This lack of regulation in OTC markets adds another layer of complexity and risk to the investment process.

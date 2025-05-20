@@ -1,6 +1,8 @@
 ---
-title: "Flash Trading: Mechanism and Legality (Algo Trading)"
-description: "Explore the mechanisms and legal debates of flash and high-frequency trading, including their impact on market efficiency, fairness, and regulatory concerns."
+category: quant_concept
+description: Explore the mechanisms and legal debates of flash and high-frequency
+  trading, including their impact on market efficiency, fairness, and regulatory concerns.
+title: 'Flash Trading: Mechanism and Legality (Algo Trading)'
 ---
 
 Flash trading and high-frequency trading (HFT) have fundamentally altered the dynamics of financial markets. Characterized by exceptionally rapid execution speeds and sophisticated algorithms, these trading strategies enable traders to execute transactions in fractions of a second, a capability that traditional trading methods cannot match. This technological advancement has significantly increased the volume of trades in global markets, altering liquidity patterns and price discovery processes.

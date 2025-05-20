@@ -1,6 +1,8 @@
 ---
-title: "NASDAQ Global Market Composite Overview and Tiers (Algo Trading)"
-description: "Explore NASDAQ's dynamic tiers and Global Market Composite in algorithmic trading Learn how this structure shapes investment strategies globally"
+category: quant_concept
+description: Explore NASDAQ's dynamic tiers and Global Market Composite in algorithmic
+  trading Learn how this structure shapes investment strategies globally
+title: NASDAQ Global Market Composite Overview and Tiers (Algo Trading)
 ---
 
 The global financial markets are in a state of perpetual transformation, driven by technological advances, regulatory changes, and shifting investor preferences. At the center of this dynamic ecosystem is NASDAQ, recognized as one of the largest and most influential stock exchanges globally. Founded in 1971, NASDAQ has grown exponentially, providing a crucial platform for investors and companies aiming to engage with contemporary market trends and innovations.

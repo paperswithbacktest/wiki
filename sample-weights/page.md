@@ -1,6 +1,12 @@
 ---
-title: "Sample weights (Algo Trading)"
-description: Discover the significance of sample weights in algorithmic trading to enhance model precision and adaptability. Learn how traders leverage these weights to prioritize data, refine predictions, and manage risk in dynamic financial markets. Explore techniques for applying sample weights, including time-decay weighting, to improve trading outcomes by focusing on the most relevant data while maintaining model robustness.
+category: trading_strategy
+description: Discover the significance of sample weights in algorithmic trading to
+  enhance model precision and adaptability. Learn how traders leverage these weights
+  to prioritize data, refine predictions, and manage risk in dynamic financial markets.
+  Explore techniques for applying sample weights, including time-decay weighting,
+  to improve trading outcomes by focusing on the most relevant data while maintaining
+  model robustness.
+title: Sample weights (Algo Trading)
 ---
 
 In algorithmic trading, the integration of machine learning and statistical methods to refine trading decisions is gaining traction among traders and financial analysts. These advanced technologies enable the development of sophisticated algorithms that can process vast amounts of data and extract meaningful insights, which are crucial for informed decision-making in dynamic markets. 

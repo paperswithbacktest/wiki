@@ -1,6 +1,9 @@
 ---
-title: "Investment in Sports Trading Cards (Algo Trading)"
-description: "Explore the growing investment potential in sports trading cards influenced by nostalgia, cultural significance, and algo trading strategies for optimizing returns."
+category: trading_strategy
+description: Explore the growing investment potential in sports trading cards influenced
+  by nostalgia, cultural significance, and algo trading strategies for optimizing
+  returns.
+title: Investment in Sports Trading Cards (Algo Trading)
 ---
 
 The trading card industry has experienced a remarkable resurgence in recent years, with sports cards at the forefront of this revival. This renewed interest can be attributed to a combination of nostalgia, cultural significance, and significant investment potential that sports cards possess. Initially a child's pastime, sports card collecting has transformed into a lucrative investment option, attracting enthusiasts and investors alike.

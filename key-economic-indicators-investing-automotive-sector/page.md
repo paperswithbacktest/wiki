@@ -1,6 +1,9 @@
 ---
-title: "Key Economic Indicators for Investing in the Automotive Sector (Algo Trading)"
-description: "Explore key economic indicators impacting automotive investments including auto sales data and interest rates to optimize your investment strategies with algo trading."
+category: trading_strategy
+description: Explore key economic indicators impacting automotive investments including
+  auto sales data and interest rates to optimize your investment strategies with algo
+  trading.
+title: Key Economic Indicators for Investing in the Automotive Sector (Algo Trading)
 ---
 
 The automotive sector significantly influences the global economy, contributing trillions of dollars each year and playing a vital role in industrial production, employment, and technological advancement. As a cyclical industry, the performance of the automotive sector can be heavily impacted by various macroeconomic factors. Investors in this sector must therefore be equipped with a comprehensive understanding of the economic indicators that signal both opportunities and risks.
@@ -185,4 +188,3 @@ For those interested in financial ratios and algorithmic trading, several [books
 Industry reports, such as those published by the International Organization of Motor Vehicle Manufacturers (OICA) or McKinsey & Company, provide detailed analyses of global automotive market trends. These reports explore the economic impact of automobile manufacturing on economies and how external factors such as regulatory changes and technological advancements shape the sector's future. These materials are invaluable for investors seeking to understand the broader economic landscape impacting the automotive market. 
 
 Integrating these resources will equip investors and analysts with the necessary tools to navigate the dynamic automotive investment landscape, bridging traditional analysis with innovative trading strategies.
-

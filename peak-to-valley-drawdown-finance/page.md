@@ -1,6 +1,8 @@
 ---
-title: "Peak-to-Valley Drawdown in Finance (Algo Trading)"
-description: "Explore peak-to-valley drawdown in algorithmic trading to understand its impact on risk management and investment strategy optimization."
+category: quant_concept
+description: Explore peak-to-valley drawdown in algorithmic trading to understand
+  its impact on risk management and investment strategy optimization.
+title: Peak-to-Valley Drawdown in Finance (Algo Trading)
 ---
 
 The world of finance and investing is an intricate landscape where managing risks and maximizing returns are paramount. In recent years, algorithmic trading has revolutionized how financial transactions are executed. It relies heavily on data-driven decisions, enabling rapid trade execution and minimizing human errors. However, despite these advancements, algorithmic trading also brings inherent risks that traders must navigate.

@@ -1,10 +1,9 @@
 ---
-title: Understanding Proxy Labels In Machine Learning Models
+category: quant_concept
 description: Proxy labels in machine learning help train models when real labels are
   unavailable using related data for quicker insights Discover more inside
+title: Understanding Proxy Labels In Machine Learning Models
 ---
-
-
 
 ## Table of Contents
 

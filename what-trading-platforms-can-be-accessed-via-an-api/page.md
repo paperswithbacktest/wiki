@@ -1,6 +1,11 @@
 ---
-title: "What trading platforms can be accessed via an API?"
-description: "Discover popular trading platforms that offer APIs, enabling custom tools, strategy automation, and system integration. Learn about MetaTrader 4 & 5, Interactive Brokers, Alpaca, QuantConnect, TD Ameritrade, E*TRADE, Binance, Coinbase Pro, and their features. Remember to read API documentation carefully before use, and monitor updates for functionality changes."
+category: quant_concept
+description: Discover popular trading platforms that offer APIs, enabling custom tools,
+  strategy automation, and system integration. Learn about MetaTrader 4 & 5, Interactive
+  Brokers, Alpaca, QuantConnect, TD Ameritrade, E*TRADE, Binance, Coinbase Pro, and
+  their features. Remember to read API documentation carefully before use, and monitor
+  updates for functionality changes.
+title: What trading platforms can be accessed via an API?
 ---
 
 In the age of digital trading, efficient and seamless access to trading platforms is key to successful financial transactions. The ability to swiftly execute trades, analyze real-time data, and integrate complex algorithms can significantly impact a trader's success. One of the most efficient ways to connect to trading platforms is through APIs (Application Programming Interfaces). 

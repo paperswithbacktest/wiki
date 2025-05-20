@@ -1,6 +1,8 @@
 ---
-title: "Variable Cost: Overview and Calculation (Algo Trading)"
-description: "Understand and calculate variable costs in algorithmic trading. Learn how brokerage fees, slippage, and transaction costs impact profitability and strategy."
+category: quant_concept
+description: Understand and calculate variable costs in algorithmic trading. Learn
+  how brokerage fees, slippage, and transaction costs impact profitability and strategy.
+title: 'Variable Cost: Overview and Calculation (Algo Trading)'
 ---
 
 In algorithmic trading, controlling costs is essential to achieve desirable profitability levels. Costs in trading are broadly classified into fixed and variable categories, with variable costs being particularly significant due to their direct relationship with trading activity. These costs fluctuate with the number of trades executed, and thus, they have a profound impact on the financial outcomes of various trading strategies.
@@ -165,4 +167,3 @@ To maintain a competitive edge in financial markets, traders must have a compreh
 - Kissell, R. (2013). *The Science of Algorithmic Trading and Portfolio Management*. This book covers advanced strategies in algorithmic trading, specifically addressing the calculation and management of variable costs. It highlights the significance of efficient transaction processing and the application of quantitative techniques to optimize trading performance.
 
 - Almgren, R., & Chriss, N. (2000). *Optimal Execution of Portfolio Transactions*. This research discusses models of optimal trade execution, emphasizing the reduction of trading costs. It introduces mathematical frameworks that traders can use to minimize slippage and impact costs, crucial for maintaining a competitive edge in financial markets.
-

@@ -1,6 +1,14 @@
 ---
-title: "Order Flow Trading Strategy (Algo Trading)"
-description: Explore the compelling world of order flow trading strategy within algorithmic trading by delving into how traders analyze buy and sell orders to predict market movements. Gain insights into the advantages of understanding market sentiment and liquidity dynamics over traditional analysis techniques. Discover essential tools like footprint charts and the VWAP indicator used for enhanced trading accuracy. Learn about backtesting strategies informed by order flow data to optimize performance and decision-making. This comprehensive guide equips traders with the knowledge to leverage order flow for superior trading outcomes.
+category: trading_strategy
+description: Explore the compelling world of order flow trading strategy within algorithmic
+  trading by delving into how traders analyze buy and sell orders to predict market
+  movements. Gain insights into the advantages of understanding market sentiment and
+  liquidity dynamics over traditional analysis techniques. Discover essential tools
+  like footprint charts and the VWAP indicator used for enhanced trading accuracy.
+  Learn about backtesting strategies informed by order flow data to optimize performance
+  and decision-making. This comprehensive guide equips traders with the knowledge
+  to leverage order flow for superior trading outcomes.
+title: Order Flow Trading Strategy (Algo Trading)
 ---
 
 Order flow trading has become an essential technique in algorithmic trading, offering profound insights that surpass traditional technical analysis. This approach focuses on the sequence and size of trades executed in the market, which provides a real-time glimpse into the supply and demand dynamics that dictate price movements. By analyzing the flow of buy and sell orders, traders can predict short-term market movements more accurately, enhancing their overall trading strategies.

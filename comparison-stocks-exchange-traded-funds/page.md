@@ -1,6 +1,8 @@
 ---
-title: "Comparison of Stocks and Exchange-Traded Funds (Algo Trading)"
-description: "Discover the key differences between stocks, ETFs, and algorithmic trading and how they can optimize your investment strategy for better financial outcomes."
+category: trading_strategy
+description: Discover the key differences between stocks, ETFs, and algorithmic trading
+  and how they can optimize your investment strategy for better financial outcomes.
+title: Comparison of Stocks and Exchange-Traded Funds (Algo Trading)
 ---
 
 In the modern investment landscape, individuals are presented with a myriad of opportunities to grow their wealth. Among these options, stocks, exchange-traded funds (ETFs), and algorithmic trading tools have gained significant prominence. The contemporary investor is not only equipped with traditional methods of investing but is also exposed to advanced technological tools that can significantly impact investment decisions and outcomes.

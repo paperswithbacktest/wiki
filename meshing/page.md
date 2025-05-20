@@ -1,7 +1,8 @@
 ---
-title: Meshing Techniques for 3D Reconstruction in Machine Learning
+category: quant_concept
 description: Meshing in machine learning transforms raw point clouds into structured
   3D models for improved accuracy and efficiency. Discover more inside.
+title: Meshing Techniques for 3D Reconstruction in Machine Learning
 ---
 
 ![Image](images/1.png)

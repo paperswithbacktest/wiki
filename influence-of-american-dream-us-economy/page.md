@@ -1,6 +1,8 @@
 ---
-title: "Influence of the American Dream on the U.S. Economy (Algo Trading)"
-description: "Explore how the American Dream shapes the U.S. economy by fueling innovation and growth through immigration, entrepreneurship, and emerging tech like algo trading."
+category: quant_concept
+description: Explore how the American Dream shapes the U.S. economy by fueling innovation
+  and growth through immigration, entrepreneurship, and emerging tech like algo trading.
+title: Influence of the American Dream on the U.S. Economy (Algo Trading)
 ---
 
 The U.S. economy has long been intertwined with the concept of the American Dream, a vision that has driven countless individuals to seek prosperity and success. This enduring ethos, characterized by the belief that anyone, regardless of their background, can achieve economic success through hard work and determination, plays a significant role in shaping the nation's economic landscape. The ideals embodied in the American Dream have historically fostered an environment conducive to growth, innovation, and opportunity.

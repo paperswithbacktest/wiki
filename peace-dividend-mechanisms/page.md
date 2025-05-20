@@ -1,6 +1,9 @@
 ---
-title: "Peace Dividend and Its Mechanisms (Algo Trading)"
-description: "Explore how peace dividends influence economic growth by reallocating defense spending to social welfare and infrastructure. Discover insights into fiscal strategies."
+category: quant_concept
+description: Explore how peace dividends influence economic growth by reallocating
+  defense spending to social welfare and infrastructure. Discover insights into fiscal
+  strategies.
+title: Peace Dividend and Its Mechanisms (Algo Trading)
 ---
 
 The concept of a peace dividend emerges from the notion that reduced military expenditure following conflicts can allow for the reallocation of financial resources toward fostering economic growth and enhancing social welfare. This transition aims to take advantage of the fiscal space created by decreasing defense budgets, channeling these resources into domestic priorities such as education, healthcare, and infrastructure development.

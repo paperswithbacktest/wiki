@@ -1,6 +1,9 @@
 ---
-title: "Revenue Ton Mile (Algo Trading)"
-description: "Discover how Revenue Ton Mile and algorithmic trading can streamline logistics operations enhance profitability and optimize supply chain efficiency in today's market."
+category: quant_concept
+description: Discover how Revenue Ton Mile and algorithmic trading can streamline
+  logistics operations enhance profitability and optimize supply chain efficiency
+  in today's market.
+title: Revenue Ton Mile (Algo Trading)
 ---
 
 The modern logistics landscape is increasingly competitive, with businesses striving to optimize supply chains to meet growing demand and maintain their market position. Critical components such as Revenue Ton Mile (RTM) and logistic costs are at the forefront of efficient operations, providing insights into economic performance and profitability. By integrating data-driven strategies, including algorithmic trading, logistics operations can be streamlined, thereby maximizing both profit and efficiency.

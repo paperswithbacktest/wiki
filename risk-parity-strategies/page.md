@@ -1,6 +1,8 @@
 ---
-title: "Risk Parity Strategies (Algo Trading)"
-description: "Explore risk parity strategies and their synergy with algorithmic trading to optimize portfolio diversification and stability through balanced risk allocation."
+category: trading_strategy
+description: Explore risk parity strategies and their synergy with algorithmic trading
+  to optimize portfolio diversification and stability through balanced risk allocation.
+title: Risk Parity Strategies (Algo Trading)
 ---
 
 Risk parity strategies have become pivotal in modern portfolio management, particularly through their synergy with algorithmic trading. These strategies emphasize balancing risk across diverse asset classes rather than focusing on capital allocation. The primary aim is to allocate risk equally, thereby promoting diversification and reducing concentration risk. This approach contrasts with traditional models like the capital asset pricing model (CAPM) and modern portfolio theory (MPT), which may emphasize capital allocation based on expected returns or market capitalization.

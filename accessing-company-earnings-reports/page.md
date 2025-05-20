@@ -1,6 +1,9 @@
 ---
-title: "Accessing Company Earnings Reports (Algo Trading)"
-description: "Explore how algorithmic trading and company financial reports converge to enhance investment strategies Unlock opportunities for improved returns and risk management"
+category: dataset
+description: Explore how algorithmic trading and company financial reports converge
+  to enhance investment strategies Unlock opportunities for improved returns and risk
+  management
+title: Accessing Company Earnings Reports (Algo Trading)
 ---
 
 The landscape of modern investing is evolving rapidly, driven by technological advancements and increased access to abundant data. These changes are reshaping how investors approach the financial markets, making it imperative for them to adapt by leveraging new tools and insights. At the core of informed investment strategies lies the understanding of financial statements and earnings reports, which provide essential insights into a company's financial health and performance.

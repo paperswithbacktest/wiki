@@ -1,6 +1,8 @@
 ---
-title: "International Depository Receipt: Overview and Applications (Algo Trading)"
-description: "Explore International Depository Receipts and their synergy with algorithmic trading to enhance cross-border investments and optimize global financial strategies."
+category: quant_concept
+description: Explore International Depository Receipts and their synergy with algorithmic
+  trading to enhance cross-border investments and optimize global financial strategies.
+title: 'International Depository Receipt: Overview and Applications (Algo Trading)'
 ---
 
 The global financial market provides a variety of instruments to facilitate seamless cross-border trading and investment. Among these, International Depository Receipts (IDRs) and algorithmic trading stand out due to their significant influence in enabling streamlined foreign stock investments. IDRs serve as a vital financial tool, allowing investors to hold shares of international companies through a domestic exchange, thereby simplifying the process of engaging with global markets. This simplification is not only a boon for investors but also for companies seeking to expand their investor base and access capital markets beyond their home territory.

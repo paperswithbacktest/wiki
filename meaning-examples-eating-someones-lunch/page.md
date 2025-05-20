@@ -1,6 +1,8 @@
 ---
-title: "Meaning and Examples of 'Eating Someone's Lunch' (Algo Trading)"
-description: "Discover the meaning of "eating someone's lunch" in algorithmic trading and learn how businesses use advanced strategies to gain a competitive edge."
+category: trading_strategy
+description: Discover the meaning of "eating someone's lunch" in algorithmic trading
+  and learn how businesses use advanced strategies to gain a competitive edge.
+title: Meaning and Examples of 'Eating Someone's Lunch' (Algo Trading)
 ---
 
 In the age of digital innovation, businesses engage in intense competition to secure their place in the market. This competition is primarily assessed through market share, a critical metric that indicates a company's share of total sales or revenue within its industry. Increasing market share is often synonymous with a company's success in outperforming its rivals, making it an essential focus for strategic planning.

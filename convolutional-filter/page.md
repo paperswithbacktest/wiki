@@ -1,7 +1,8 @@
 ---
-title: Understanding Convolutional Filters for Image Feature Extraction
+category: quant_concept
 description: Convolutional filters help neural networks extract image features by
   detecting edges textures and patterns for robust classification Discover more inside
+title: Understanding Convolutional Filters for Image Feature Extraction
 ---
 
 ![Image](images/1.png)

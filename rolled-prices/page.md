@@ -1,6 +1,12 @@
 ---
-title: "Rolled prices (Algo Trading)"
-description: Explore the essential role of rolled prices in algorithmic trading with our comprehensive article. Discover how rolling over futures contracts helps maintain strategy continuity and boosts trading efficiency. Learn about the sophisticated algorithms behind seamless transitions in rolled prices, minimizing costs and enhancing decision-making processes. Understand how these strategies are pivotal for leveraging automated systems in today's dynamic financial markets.
+category: quant_concept
+description: Explore the essential role of rolled prices in algorithmic trading with
+  our comprehensive article. Discover how rolling over futures contracts helps maintain
+  strategy continuity and boosts trading efficiency. Learn about the sophisticated
+  algorithms behind seamless transitions in rolled prices, minimizing costs and enhancing
+  decision-making processes. Understand how these strategies are pivotal for leveraging
+  automated systems in today's dynamic financial markets.
+title: Rolled prices (Algo Trading)
 ---
 
 Understanding the nuances of rolling prices is crucial for both strategists and traders engaged in algorithmic trading. This article explores the concept of rolled prices within algo trading, aiming to provide insights into their significance and application. Algorithmic trading is notable for its speed and precision, allowing traders to engage with markets in a highly automated fashion. By examining the mechanics of rolled prices, traders can improve trading efficiency and enhance the development of their strategies.

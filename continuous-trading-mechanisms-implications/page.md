@@ -1,6 +1,8 @@
 ---
-title: "Continuous Trading: Mechanisms and Implications (Algo Trading)"
-description: "Explore the dynamics of continuous trading and algo trading mechanisms revolutionizing financial markets with real-time order execution and enhanced efficiency."
+category: quant_concept
+description: Explore the dynamics of continuous trading and algo trading mechanisms
+  revolutionizing financial markets with real-time order execution and enhanced efficiency.
+title: 'Continuous Trading: Mechanisms and Implications (Algo Trading)'
 ---
 
 The modern financial markets are undergoing a transformative shift, increasingly characterized by advanced trading mechanisms that enhance efficiency and speed. At the forefront of this evolution are continuous trading and algorithmic trading (algo trading), which have fundamentally changed how securities are bought and sold. Continuous trading enables the seamless execution of orders throughout the trading day, as opposed to batch processing, which occurs at discrete intervals. This method is crucial for maintaining liquidity and market efficiency, allowing instantaneous matching of buy and sell orders.

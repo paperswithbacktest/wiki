@@ -1,6 +1,8 @@
 ---
-title: "Anti-Diversion Clause (Algo Trading)"
-description: "Explore the significance of anti-diversion clauses in algorithmic trading and trade compliance to prevent unauthorized redirection and enhance legal adherence."
+category: quant_concept
+description: Explore the significance of anti-diversion clauses in algorithmic trading
+  and trade compliance to prevent unauthorized redirection and enhance legal adherence.
+title: Anti-Diversion Clause (Algo Trading)
 ---
 
 In today's interconnected global economy, trade compliance and algorithmic trading have become integral components of international business operations. Trade compliance refers to the adherence to laws and regulations governing international trade, ensuring that businesses conduct their activities within the legal frameworks established by various nations. This is essential for avoiding fines, penalties, and disruptions to trade that can arise from non-compliance. 

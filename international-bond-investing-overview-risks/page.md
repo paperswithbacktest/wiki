@@ -1,6 +1,9 @@
 ---
-title: "International Bond Investing: Overview and Risks (Algo Trading)"
-description: "Explore international bond investing and understand the risks involved. Learn how algorithmic trading aids in managing complexities for optimal investment strategies."
+category: trading_strategy
+description: Explore international bond investing and understand the risks involved.
+  Learn how algorithmic trading aids in managing complexities for optimal investment
+  strategies.
+title: 'International Bond Investing: Overview and Risks (Algo Trading)'
 ---
 
 The world of international bonds offers a diverse and potentially rewarding investment landscape. As debt securities issued by foreign governments or corporations, international bonds provide investors with opportunities to diversify their portfolios and access different economies. This access to foreign markets allows investors to tap into varied economic growth cycles and interest rate environments, potentially enhancing returns and reducing portfolio risk through geographical diversification.

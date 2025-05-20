@@ -1,6 +1,8 @@
 ---
-title: "Limit Up: Definition and Functionality with Examples (Algo Trading)"
-description: "Discover the functionality and benefits of the "limit up" trading mechanism Essential for stabilizing markets and vital for effective algorithmic trading strategies"
+category: quant_concept
+description: Discover the functionality and benefits of the "limit up" trading mechanism
+  Essential for stabilizing markets and vital for effective algorithmic trading strategies
+title: 'Limit Up: Definition and Functionality with Examples (Algo Trading)'
 ---
 
 The financial markets, characterized by their inherent dynamism and unpredictability, often experience significant volatility. This volatility can lead to chaotic market movements, necessitating mechanisms to stabilize prices and maintain order. One such mechanism is the "limit up" trading rule. The limit up mechanism is designed to set a maximum allowable price increase for a specific security during a trading session. When the price of a security reaches this predetermined limit, trading on that asset may be temporarily halted. This pause prevents panic buying and provides market participants with the opportunity to assess the situation more rationally.

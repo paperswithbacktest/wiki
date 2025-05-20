@@ -1,6 +1,13 @@
 ---
-title: "On-Balance Volume (Algo Trading)"
-description: "Optimize your trading strategies by using On-Balance Volume (OBV) to gain insights into market trends and volume movements. This essential tool in algorithmic trading offers early signals of price changes by analyzing volume data providing traders with actionable insights. Enhance your decision-making process with OBV for precise entry and exit points and improve your investment outcomes in dynamic financial markets. Learn how to integrate OBV into your technical analysis toolkit for more nuanced and informed investment decisions."
+category: trading_strategy
+description: Optimize your trading strategies by using On-Balance Volume (OBV) to
+  gain insights into market trends and volume movements. This essential tool in algorithmic
+  trading offers early signals of price changes by analyzing volume data providing
+  traders with actionable insights. Enhance your decision-making process with OBV
+  for precise entry and exit points and improve your investment outcomes in dynamic
+  financial markets. Learn how to integrate OBV into your technical analysis toolkit
+  for more nuanced and informed investment decisions.
+title: On-Balance Volume (Algo Trading)
 ---
 
 In today's dynamic financial markets, making informed investment decisions has become paramount for traders seeking to optimize their portfolios. Among the various tools available for technical analysis, On-Balance Volume (OBV) stands out as a significant indicator capable of providing actionable insights into stock price trends. By analyzing volume changes in relation to price, OBV helps traders gauge the momentum behind price movements, offering a nuanced perspective that complements other analytical methods.

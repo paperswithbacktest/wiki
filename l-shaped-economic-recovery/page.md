@@ -1,6 +1,8 @@
 ---
-title: "L-Shaped Economic Recovery (Algo Trading)"
-description: "Explore the impact of L-shaped economic recoveries with insights into policy formulation and strategic interventions highlighted by algorithmic trading."
+category: quant_concept
+description: Explore the impact of L-shaped economic recoveries with insights into
+  policy formulation and strategic interventions highlighted by algorithmic trading.
+title: L-Shaped Economic Recovery (Algo Trading)
 ---
 
 The global economy is characterized by various types of recessions and recoveries, each distinguished by specific traits and durations. Among these, the L-shaped recovery poses significant challenges, being marked by a sharp economic decline followed by an extended period of stagnation. This pattern signals prolonged economic woes, with slow or negligible growth and sustained high unemployment rates. L-shaped recoveries differ notably from other recovery shapes such as V-shaped or U-shaped, where economies tend to rebound more swiftly.

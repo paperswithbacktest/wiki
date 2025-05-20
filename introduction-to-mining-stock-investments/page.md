@@ -1,6 +1,9 @@
 ---
-title: "Introduction to Mining Stock Investments (Algo Trading)"
-description: "Explore mining stock investments and algorithmic trading strategies. Gain insights into stock market dynamics and tips for optimizing your investment portfolio."
+category: trading_strategy
+description: Explore mining stock investments and algorithmic trading strategies.
+  Gain insights into stock market dynamics and tips for optimizing your investment
+  portfolio.
+title: Introduction to Mining Stock Investments (Algo Trading)
 ---
 
 The world of investment presents a myriad of opportunities and complexities, attracting diverse participants ranging from individual investors to large financial institutions. Central to this diverse landscape are mining stocks and algorithmic trading, two distinct yet significant areas within market investment. Mining stocks offer investors entry points into the mining sector, an industry crucial for the extraction of mineral resources necessary for global economic activities. This sector encompasses a wide range of companies, from major multinational enterprises to junior exploration companies, each presenting unique investment characteristics and risk profiles.

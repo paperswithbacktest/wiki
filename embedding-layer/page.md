@@ -1,7 +1,8 @@
 ---
-title: Understanding Embedding Layers in Machine Learning Models
+category: quant_concept
 description: Embedding layers turn categorical data into dense vectors that capture
   semantic relationships and enhance neural network performance Discover more inside
+title: Understanding Embedding Layers in Machine Learning Models
 ---
 
 ![Image](images/1.png)

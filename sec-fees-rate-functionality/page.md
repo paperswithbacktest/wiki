@@ -1,6 +1,8 @@
 ---
-title: "SEC Fees: Rate and Functionality (Algo Trading)"
-description: "Discover how SEC transaction fees influence algorithmic trading strategies and profitability with insights on rate adjustments and fee management for traders."
+category: quant_concept
+description: Discover how SEC transaction fees influence algorithmic trading strategies
+  and profitability with insights on rate adjustments and fee management for traders.
+title: 'SEC Fees: Rate and Functionality (Algo Trading)'
 ---
 
 Transaction fees are a critical component of financial markets, influencing the dynamics of trading and investment decisions. These fees affect market liquidity, trading volumes, and ultimately, the returns of investment strategies. For investors engaging in algorithmic trading, understanding transaction costs, including those mandated by regulatory bodies like the Securities and Exchange Commission (SEC), is essential. Algorithmic trading, characterized by high-frequency and large-volume trades, is particularly sensitive to transaction costs. Even slight variations in fee structures can significantly impact the profitability of trading strategies. 

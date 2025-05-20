@@ -1,6 +1,9 @@
 ---
-title: "Real Estate Wholesaling: Overview, Process, and Strategies (Algo Trading)"
-description: "Discover real estate wholesaling strategies and processes for fast-paced investment opportunities. Learn about the benefits of algo trading and property investment."
+category: trading_strategy
+description: Discover real estate wholesaling strategies and processes for fast-paced
+  investment opportunities. Learn about the benefits of algo trading and property
+  investment.
+title: 'Real Estate Wholesaling: Overview, Process, and Strategies (Algo Trading)'
 ---
 
 Real estate investment is a dynamic field with numerous strategies available for investors. In this article, we will explore three prominent strategies: real estate wholesaling, property investment, and algorithmic (algo) trading. Each of these strategies offers unique advantages and challenges, making them suitable for different types of investors. Understanding these strategies can help investors make informed decisions tailored to their financial goals. Let's examine how these strategies work and what makes them appealing in the real estate market. 

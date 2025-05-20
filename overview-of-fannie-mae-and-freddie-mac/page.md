@@ -1,6 +1,8 @@
 ---
-title: "Overview of Fannie Mae and Freddie Mac (Algo Trading)"
-description: "Explore how Fannie Mae and Freddie Mac are embracing algorithmic trading to revolutionize mortgage finance enhancing liquidity, efficiency, and risk management."
+category: quant_concept
+description: Explore how Fannie Mae and Freddie Mac are embracing algorithmic trading
+  to revolutionize mortgage finance enhancing liquidity, efficiency, and risk management.
+title: Overview of Fannie Mae and Freddie Mac (Algo Trading)
 ---
 
 The landscape of mortgage finance has evolved significantly with the advent of advanced technologies. Over the decades, Fannie Mae and Freddie Mac have become pillars of the U.S. housing market by ensuring liquidity and stability. These government-sponsored enterprises (GSEs) achieve this by purchasing and guaranteeing mortgages, thus enabling lenders to offer more accessible and varied lending options to homebuyers. This ecosystem provides a steady flow of capital, which is crucial for a resilient housing finance market.

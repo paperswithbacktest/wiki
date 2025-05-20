@@ -1,6 +1,8 @@
 ---
-title: "Prospectus: Examples, Uses, and Interpretation (Algo Trading)"
-description: "Unlock the potential of prospectus insights and algorithmic trading in the financial markets Learn to interpret key financial documents for smarter investments"
+category: quant_concept
+description: Unlock the potential of prospectus insights and algorithmic trading in
+  the financial markets Learn to interpret key financial documents for smarter investments
+title: 'Prospectus: Examples, Uses, and Interpretation (Algo Trading)'
 ---
 
 The rapidly evolving world of finance is characterized by its dynamic interplay between various critical components, notably prospectus investments, financial documents, and algorithmic trading. Grasping these elements is indispensable for anyone involved in the financial markets. At the heart of investment decisions lies the prospectus—a fundamental legal document that provides comprehensive details about an investment offering. This transparency is vital for potential investors in assessing offerings ranging from mutual funds to stocks and bonds.

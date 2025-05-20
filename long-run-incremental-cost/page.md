@@ -1,6 +1,9 @@
 ---
-title: "Long Run Incremental Cost (Algo Trading)"
-description: "Explore the integration of Long Run Incremental Cost methodologies in telecom and algo trading, optimizing cost strategies and decision-making in evolving markets."
+category: quant_concept
+description: Explore the integration of Long Run Incremental Cost methodologies in
+  telecom and algo trading, optimizing cost strategies and decision-making in evolving
+  markets.
+title: Long Run Incremental Cost (Algo Trading)
 ---
 
 The telecommunications industry is undergoing rapid transformation driven by technological advancements and evolving consumer demands. As a result, the methodologies used to quantify and manage costs have also progressed to address the complex nature of modern telecommunication services. One of the essential tools for understanding these cost structures is the Long Run Incremental Cost (LRIC) methodology. LRIC provides a forward-looking perspective on cost analysis, allowing companies to predict and plan for incremental cost changes over an extended period. This approach helps in capturing the effects of varying factors, such as changes in raw material costs, rent, and maintenance expenses, thereby facilitating strategic decision-making.

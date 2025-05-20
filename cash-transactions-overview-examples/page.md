@@ -1,6 +1,8 @@
 ---
-title: "Cash Transactions: Overview and Examples (Algo Trading)"
-description: "Explore the essentials of cash transactions and algorithmic trading to enhance your understanding of modern investment strategies for better decision-making."
+category: quant_concept
+description: Explore the essentials of cash transactions and algorithmic trading to
+  enhance your understanding of modern investment strategies for better decision-making.
+title: 'Cash Transactions: Overview and Examples (Algo Trading)'
 ---
 
 In today’s rapidly evolving financial markets, comprehending the intricate details of various financial dealings is essential for individuals and organizations aiming to maintain a competitive edge. This article investigates into the fundamental aspects of cash transactions and the intriguing world of algorithmic trading, two pivotal components that significantly influence modern investment strategies.
@@ -92,4 +94,3 @@ The potential of cash transactions and algorithmic trading is vast. For those po
 - **Investopedia on cash transactions and algorithmic trading.** Investopedia is a valuable source for understanding fundamental and advanced financial concepts, including cash transactions and algorithmic trading. It provides accessible explanations and real-world examples, helping readers grasp how these financial elements function and their implications for modern trading and investment practices.
 
 - **Additional readings in financial literature and strategy applications.** Exploring a breadth of literature, this category includes a variety of studies and resources that expand one's understanding of strategic financial planning and the application of both traditional and modern trading methods. These readings offer a blend of theoretical insights and practical strategies, enabling investors and organizations to achieve greater financial outcomes.
-

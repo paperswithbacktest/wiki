@@ -1,6 +1,8 @@
 ---
-title: "PEGY Ratio: Price/Earnings to Growth and Dividend Yield (Algo Trading)"
-description: "Explore the benefits of using the PEGY ratio in algorithmic trading for a nuanced stock evaluation by balancing growth potential and income generation."
+category: trading_strategy
+description: Explore the benefits of using the PEGY ratio in algorithmic trading for
+  a nuanced stock evaluation by balancing growth potential and income generation.
+title: 'PEGY Ratio: Price/Earnings to Growth and Dividend Yield (Algo Trading)'
 ---
 
 Financial ratios are critical tools in stock valuation, offering investors insights into a company's financial performance and potential for future growth. These ratios provide a quantitative basis for comparing different companies, assessing their market positions, and making informed investment decisions. Among these various metrics, the PEGY ratio stands out as a particularly significant indicator for evaluating stocks, combining aspects of growth and income. 

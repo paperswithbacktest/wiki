@@ -1,6 +1,8 @@
 ---
-title: "Form 1099-DIV: Filing Dividends and Distributions (Algo Trading)"
-description: "Learn about Form 1099-DIV for filing dividends and distributions in algorithmic trading Understand its importance for accurate tax reporting and optimizing returns"
+category: quant_concept
+description: Learn about Form 1099-DIV for filing dividends and distributions in algorithmic
+  trading Understand its importance for accurate tax reporting and optimizing returns
+title: 'Form 1099-DIV: Filing Dividends and Distributions (Algo Trading)'
 ---
 
 Dividends are an integral component of the returns shareholders receive from their investments. Understanding how dividends are taxed, particularly through the lens of Form 1099-DIV, is crucial for investors. For those engaged in algorithmic trading, where dividend income can vary considerably due to high-frequency trades, this understanding becomes even more significant. 

@@ -1,6 +1,9 @@
 ---
-title: "Principles of Timeless Investing Strategies (Algo Trading)"
-description: "Explore timeless investing strategies by understanding core financial principles like diversification and risk management, and embrace the efficiency of algorithmic trading."
+category: trading_strategy
+description: Explore timeless investing strategies by understanding core financial
+  principles like diversification and risk management, and embrace the efficiency
+  of algorithmic trading.
+title: Principles of Timeless Investing Strategies (Algo Trading)
 ---
 
 In the modern financial landscape, investing has evolved beyond traditional methods, incorporating sophisticated strategies and advanced technologies. Investors now have a diverse array of tools and techniques at their disposal, enabling them to make more informed and effective investment decisions. The integration of financial principles with technological advances has transformed how individuals and institutions approach investing.

@@ -1,6 +1,9 @@
 ---
-title: "Exploratory Wells: Overview, Mechanisms, and Case Studies (Algo Trading)"
-description: "Explore how exploratory wells and algorithmic trading are reshaping the oil industry. Learn the mechanisms, case studies, and advantages for a profitable future."
+category: quant_concept
+description: Explore how exploratory wells and algorithmic trading are reshaping the
+  oil industry. Learn the mechanisms, case studies, and advantages for a profitable
+  future.
+title: 'Exploratory Wells: Overview, Mechanisms, and Case Studies (Algo Trading)'
 ---
 
 The oil and gas industry is a complex and crucial component of the global economy, segmented into three primary sectors: upstream, midstream, and downstream. Each phase of this industry plays a significant role in the final delivery of petroleum products to the market. This article primarily focuses on upstream operations, which encompass the exploration and extraction of hydrocarbons. In this context, exploratory wells are critical as they are drilled to discover new hydrocarbon reserves. These activities form the foundation of oil and gas exploration, as they help determine the presence and volume of recoverable resources.
@@ -94,4 +97,3 @@ Aronson, D. 'Evidence-Based Technical Analysis.' This text emphasizes the import
 Jansen, S. 'Machine Learning for Algorithmic Trading.' This book serves as a significant resource for understanding the application of machine learning techniques in algorithmic trading, detailing methods that can optimize trading performance and risk management.
 
 Chan, E. P. 'Quantitative Trading: How to Build Your Own Algorithmic Trading Business.' This publication offers valuable guidance on establishing algorithmic trading systems, including relevant strategies and frameworks that can be adapted for trading oil futures and managing market volatility effectively.
-

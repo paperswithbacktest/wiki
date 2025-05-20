@@ -1,6 +1,12 @@
 ---
-title: "Advance-Decline Indicator Explained (Algo Trading)"
-description: Discover the intricacies of the Advance-Decline Indicator and its vital role in algorithmic trading. This guide explores how the AD line can enhance trading strategies by offering insights into market breadth, confirming trends, and identifying potential reversals. Unlock the potential of this powerful indicator to improve the precision and effectiveness of your algo trading endeavors with expert insights and practical applications.
+category: quant_concept
+description: Discover the intricacies of the Advance-Decline Indicator and its vital
+  role in algorithmic trading. This guide explores how the AD line can enhance trading
+  strategies by offering insights into market breadth, confirming trends, and identifying
+  potential reversals. Unlock the potential of this powerful indicator to improve
+  the precision and effectiveness of your algo trading endeavors with expert insights
+  and practical applications.
+title: Advance-Decline Indicator Explained (Algo Trading)
 ---
 
 Algorithmic trading, commonly known as algo trading, refers to the use of computer algorithms to automate trading decisions in financial markets. It has become a dominant force, accounting for a significant portion of trading volume worldwide. The growing significance of algorithmic trading can be attributed to its ability to execute trades at high speeds and volumes, exploit market inefficiencies, and reduce human error. By automating the decision-making process, algorithmic trading enables traders to capitalize on fleeting opportunities that are often invisible to the human eye.

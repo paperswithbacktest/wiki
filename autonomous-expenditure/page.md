@@ -1,6 +1,9 @@
 ---
-title: "Autonomous Expenditure (Algo Trading)"
-description: "Explore the interplay of fiscal policy autonomous expenditure and algorithmic trading in economic management Their integration enhances market efficiency and stability"
+category: quant_concept
+description: Explore the interplay of fiscal policy autonomous expenditure and algorithmic
+  trading in economic management Their integration enhances market efficiency and
+  stability
+title: Autonomous Expenditure (Algo Trading)
 ---
 
 Fiscal policy, autonomous expenditure, and algorithmic trading are pivotal components of economic management, each influencing distinct aspects of economies worldwide. The integration of these elements is essential for optimizing economic performance and enhancing market efficiency. 

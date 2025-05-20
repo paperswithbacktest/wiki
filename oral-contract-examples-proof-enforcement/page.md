@@ -1,6 +1,9 @@
 ---
-title: "Oral Contract: Examples, Proof, and Enforcement (Algo Trading)"
-description: "Explore the significance of oral contracts in algo trading understand their enforceability and ensure seamless operations with crucial principles of contract law."
+category: quant_concept
+description: Explore the significance of oral contracts in algo trading understand
+  their enforceability and ensure seamless operations with crucial principles of contract
+  law.
+title: 'Oral Contract: Examples, Proof, and Enforcement (Algo Trading)'
 ---
 
 Oral agreements, often underestimated due to their informal nature, are an integral part of contract law with significant implications across various sectors, including finance and trading. This article examines how such agreements, despite their lack of written documentation, can possess legal force and be binding if they meet specific criteria. In industries like algo trading, where decisions and transactions are executed rapidly and frequently, understanding the foundational principles of oral contracts is crucial for ensuring operational integrity and minimizing legal risks.

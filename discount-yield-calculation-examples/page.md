@@ -1,6 +1,8 @@
 ---
-title: "Discount Yield: Calculation and Examples (Algo Trading)"
-description: "Explore the importance of discount yield in finance its calculation methods and its role in making informed algorithmic trading decisions for short-term investments"
+category: quant_concept
+description: Explore the importance of discount yield in finance its calculation methods
+  and its role in making informed algorithmic trading decisions for short-term investments
+title: 'Discount Yield: Calculation and Examples (Algo Trading)'
 ---
 
 In finance, understanding the concept of yield is critical for evaluating investment returns. Yield measures the earnings generated and realized on an investment over a specific period, typically expressed as an annualized percentage. Among the various types of yields, discount yield is particularly significant for assessing the profitability of debt instruments sold below face value. These instruments often include Treasury bills and zero-coupon bonds, which do not pay periodic interest but are instead purchased at a discount to their face value and mature at full face value. 

@@ -1,9 +1,9 @@
 ---
-title: "Martino Grasselli (Algo Trading)"
-description: "Discover the remarkable career of Martino Grasselli a leader in quantitative finance and algorithmic trading combining academic excellence with industry innovation."
+category: quant_concept
+description: Discover the remarkable career of Martino Grasselli a leader in quantitative
+  finance and algorithmic trading combining academic excellence with industry innovation.
+title: Martino Grasselli (Algo Trading)
 ---
-
-
 
 ## Table of Contents
 

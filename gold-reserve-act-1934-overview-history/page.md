@@ -1,6 +1,8 @@
 ---
-title: "Gold Reserve Act of 1934: Overview and Historical Context (Algo Trading)"
-description: "Explore the historical significance of the Gold Reserve Act of 1934 and its lasting impact on U.S. monetary policy alongside the rise of algorithmic trading."
+category: quant_concept
+description: Explore the historical significance of the Gold Reserve Act of 1934 and
+  its lasting impact on U.S. monetary policy alongside the rise of algorithmic trading.
+title: 'Gold Reserve Act of 1934: Overview and Historical Context (Algo Trading)'
 ---
 
 The Gold Standard has long been a fundamental element of U.S. monetary policy, shaping the nation's economic framework over the decades. This system, wherein a country's currency value is directly linked to gold, has played a crucial role in maintaining economic stability and confidence. However, the economic landscape underwent significant changes in 1934 during the Great Depression, a period marked by economic hardship and deflationary pressures. In response, the U.S. government enacted the Gold Reserve Act, a pivotal legislation aimed at stabilizing the flailing economy. This act represented a major shift in monetary policy by mandating the transfer of gold holdings to the U.S. Treasury, effectively altering the way the U.S. approached the gold standard.

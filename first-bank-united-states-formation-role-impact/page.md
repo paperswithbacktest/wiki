@@ -1,6 +1,8 @@
 ---
-title: "First Bank of the United States: Formation, Role, and Impact (Algo Trading)"
-description: "Discover how the First Bank of the United States, founded by Alexander Hamilton, influenced early American finance and modern trading practices."
+category: quant_concept
+description: Discover how the First Bank of the United States, founded by Alexander
+  Hamilton, influenced early American finance and modern trading practices.
+title: 'First Bank of the United States: Formation, Role, and Impact (Algo Trading)'
 ---
 
 The First Bank of the United States holds a critical place in early American history as a foundation for economic stability in the post-Revolutionary War period. Conceptualized by Alexander Hamilton, the nation's first Secretary of the Treasury, the bank aimed to address the chaotic financial landscape following independence from British rule. Granted a 20-year charter in 1791, the First Bank served both public and private interests, marking a significant development in the U.S. financial system.

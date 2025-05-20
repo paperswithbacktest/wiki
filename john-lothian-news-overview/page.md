@@ -1,6 +1,8 @@
 ---
-title: "John Lothian News Overview (Algo Trading)"
-description: "Explore John Lothian News for insights on commodities and algorithmic trading offering in-depth analysis and keeping financial professionals informed."
+category: dataset
+description: Explore John Lothian News for insights on commodities and algorithmic
+  trading offering in-depth analysis and keeping financial professionals informed.
+title: John Lothian News Overview (Algo Trading)
 ---
 
 John Lothian News (JLN) is a notable entity in the financial publishing sector, primarily recognized for its emphasis on the commodity and derivative markets. Since its establishment in 2011 as a division of John J. Lothian & Company, JLN has distinguished itself by offering a diverse range of financial newsletters and educational initiatives. These resources are designed to keep market participants well-informed and actively engaged with current market dynamics. The publication's commitment to delivering timely and insightful content has made it a respected source for professionals seeking knowledge in this complex industry.

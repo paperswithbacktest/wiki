@@ -1,6 +1,8 @@
 ---
-title: "Reasons for the United Kingdom's Non-Adoption of the Euro (Algo Trading)"
-description: "Explore why the UK maintains the Pound in a post-Brexit world where algo trading impacts Euro and GBP dynamics offering unique trader insights."
+category: quant_concept
+description: Explore why the UK maintains the Pound in a post-Brexit world where algo
+  trading impacts Euro and GBP dynamics offering unique trader insights.
+title: Reasons for the United Kingdom's Non-Adoption of the Euro (Algo Trading)
 ---
 
 The dynamic world of finance continuously shapes global economies, with currency trading playing a pivotal role in this landscape. Currency markets are vital as they facilitate international trade, investments, and economic stability. Among the numerous currencies traded, the Euro (EUR) and the British Pound Sterling (GBP) hold significant importance due to their economies' sizes and their historical and economic ties. 

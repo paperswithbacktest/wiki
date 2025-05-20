@@ -1,6 +1,9 @@
 ---
-title: "Average Inventory: Calculation Formula and Examples (Algo Trading)"
-description: "Explore the significance of average inventory in trading and business management. Learn calculation methods, management techniques, and their impact on algorithmic trading."
+category: quant_concept
+description: Explore the significance of average inventory in trading and business
+  management. Learn calculation methods, management techniques, and their impact on
+  algorithmic trading.
+title: 'Average Inventory: Calculation Formula and Examples (Algo Trading)'
 ---
 
 In the competitive world of trading and business management, effective inventory management plays a crucial role in optimizing financial health and market strategies. Whether managing stocks in a retail environment or handling securities in algorithmic trading, the principles of inventory management ensure that the right assets are available at the right time, minimizing costs and maximizing profitability.

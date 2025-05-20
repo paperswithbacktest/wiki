@@ -1,6 +1,8 @@
 ---
-title: "Mid-Cap Fund Overview and Examples (Algo Trading)"
-description: "Discover the strategic advantages of mid-cap funds and the role of algorithmic trading in optimizing investments offering a balanced growth and stability profile."
+category: dataset
+description: Discover the strategic advantages of mid-cap funds and the role of algorithmic
+  trading in optimizing investments offering a balanced growth and stability profile.
+title: Mid-Cap Fund Overview and Examples (Algo Trading)
 ---
 
 Investment funds play a crucial role in the financial market by pooling resources from multiple investors to purchase a diversified portfolio of assets. This collective investment approach provides individual investors access to a broader range of securities, managed by professional portfolio managers, thereby allowing for more diversified and potentially less risky investment opportunities compared to individual stock picking. These funds vary in structure, including equity funds, bond funds, and mixed-asset funds, each with specific investment goals and risk profiles.

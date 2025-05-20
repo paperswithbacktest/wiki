@@ -1,6 +1,9 @@
 ---
-title: "Investment Return Calculation (Algo Trading)"
-description: "Understanding ROI in algorithmic trading can boost investment strategy effectiveness. Learn to calculate ROI for high-volume trading to maximize returns efficiently."
+category: quant_concept
+description: Understanding ROI in algorithmic trading can boost investment strategy
+  effectiveness. Learn to calculate ROI for high-volume trading to maximize returns
+  efficiently.
+title: Investment Return Calculation (Algo Trading)
 ---
 
 Investments aim to generate returns, and a thorough understanding of these returns is essential for both individual and institutional investors. This article focuses on calculating Return on Investment (ROI) and the specifics of investment returns, particularly linked to algorithmic trading. Algorithmic trading, often referred to as algo trading, involves using automated systems to execute trades based on a set of predefined criteria. This method has gained significant popularity in financial markets due to its efficiency and the ability to handle high volumes of trades swiftly.

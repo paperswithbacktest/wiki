@@ -1,6 +1,9 @@
 ---
-title: "Debt Signaling: Mechanism and Example (Algo Trading)"
-description: "Explore how debt signaling in algo trading impacts financial markets by decoding company debt actions for insights into financial stability and growth potential."
+category: quant_concept
+description: Explore how debt signaling in algo trading impacts financial markets
+  by decoding company debt actions for insights into financial stability and growth
+  potential.
+title: 'Debt Signaling: Mechanism and Example (Algo Trading)'
 ---
 
 The landscape of modern finance is vast and complex, requiring stakeholders to interpret various signals and indicators for informed decision-making. Economic indicators, financial signals, and debt signaling are fundamental elements that guide investment strategies and shape market dynamics. Economic indicators, such as Gross Domestic Product (GDP), unemployment rates, inflation, and interest rates, reflect the economic performance of a country or region, providing crucial insights for investors and policymakers [1]. Financial signals, including earnings reports, dividend announcements, and debt-related news, offer cues about a company's financial health and future prospects, influencing investor behavior and market trends [2].

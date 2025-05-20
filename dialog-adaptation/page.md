@@ -1,7 +1,8 @@
 ---
-title: Enhancing Conversational AI With Dialog Adaptation Framework
+category: quant_concept
 description: Dialog Adaptation adjusts AI conversations to user preferences for more
   natural dialogue and engagement Discover more inside
+title: Enhancing Conversational AI With Dialog Adaptation Framework
 ---
 
 ![Image](images/1.png)

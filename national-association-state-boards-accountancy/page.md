@@ -1,6 +1,9 @@
 ---
-title: "National Association of State Boards of Accountancy (Algo Trading)"
-description: "Explore the evolving role of NASBA in regulating accountancy amid the rise of algorithmic trading Discover how state boards uphold standards in a tech-driven era"
+category: quant_concept
+description: Explore the evolving role of NASBA in regulating accountancy amid the
+  rise of algorithmic trading Discover how state boards uphold standards in a tech-driven
+  era
+title: National Association of State Boards of Accountancy (Algo Trading)
 ---
 
 The financial landscape is undergoing significant transformations, primarily driven by the integration of technology into trading and accountancy. Algorithmic trading, which employs advanced software to make trading decisions with unprecedented speed and efficiency, represents one of these transformative innovations. Consequently, the role of regulatory bodies such as the State Boards of Accountancy and the National Association of State Boards of Accountancy (NASBA) has become increasingly important.

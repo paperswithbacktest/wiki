@@ -1,6 +1,10 @@
 ---
-title: "CLIP (Contrastive Language–Image Pretraining) (Algo Trading)"
-description: Discover how OpenAI's CLIP model, a groundbreaking AI technology, can revolutionize algo trading by bridging the gap between images and text in complex financial reports. Learn about CLIP's capabilities and potential applications in quantitative finance while addressing current limitations and suggestions for improvement.
+category: quant_concept
+description: Discover how OpenAI's CLIP model, a groundbreaking AI technology, can
+  revolutionize algo trading by bridging the gap between images and text in complex
+  financial reports. Learn about CLIP's capabilities and potential applications in
+  quantitative finance while addressing current limitations and suggestions for improvement.
+title: CLIP (Contrastive Language–Image Pretraining) (Algo Trading)
 ---
 
 Algorithmic trading, often referred to as algo trading, is the use of computer systems and sophisticated algorithms to execute a large number of trades at the pace and frequency that humans are incapable of matching. These systems, which can be tailored to follow complex investment strategies, are essential in modern financial markets. By eliminating human emotions and biases, algo trading aims for consistency and efficiency, which are crucial in a fast-paced trading environment.

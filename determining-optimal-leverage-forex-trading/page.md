@@ -1,6 +1,11 @@
 ---
-title: "Determining Optimal Leverage in Forex Trading (Algo Trading)"
-description: "Discover the key concepts of leverage and algorithmic trading in forex markets. This comprehensive guide explores how traders can amplify returns, manage risks, and effectively utilize automated systems for increased trading precision. Learn about the benefits and drawbacks of leveraging borrowed capital and the strategic implementation of algorithmic trading to enhance your forex strategies."
+category: trading_strategy
+description: Discover the key concepts of leverage and algorithmic trading in forex
+  markets. This comprehensive guide explores how traders can amplify returns, manage
+  risks, and effectively utilize automated systems for increased trading precision.
+  Learn about the benefits and drawbacks of leveraging borrowed capital and the strategic
+  implementation of algorithmic trading to enhance your forex strategies.
+title: Determining Optimal Leverage in Forex Trading (Algo Trading)
 ---
 
 Forex trading, or foreign exchange trading, is the process of buying and selling currencies on a global decentralized market. It stands as one of the largest financial markets in the world, with a daily trading volume exceeding $6 trillion [1][2]. This high liquidity and 24-hour operation make forex trading attractive to a wide range of participants, including banks, corporations, and individual investors. The market plays a critical role in facilitating international trade and investment, allowing businesses to convert currencies for global operations and individuals to earn profits through speculative trading.

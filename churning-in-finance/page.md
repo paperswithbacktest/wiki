@@ -1,6 +1,9 @@
 ---
-title: "Churning in Finance (Algo Trading)"
-description: "Explore the dynamics of investment strategies and algorithmic trading while unraveling the ethical implications of churning in finance, ensuring optimal investor returns."
+category: quant_concept
+description: Explore the dynamics of investment strategies and algorithmic trading
+  while unraveling the ethical implications of churning in finance, ensuring optimal
+  investor returns.
+title: Churning in Finance (Algo Trading)
 ---
 
 Investment strategies have evolved over the years, incorporating advanced techniques like algorithmic trading. These strategies are designed to optimize portfolio management and enhance investor returns through the effective allocation of assets. By leveraging statistical models and computational power, investors can execute trades with precision, speed, and minimal human intervention.

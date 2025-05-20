@@ -1,6 +1,8 @@
 ---
-title: "Options Disclosure Document: Overview and Requirements (Algo Trading)"
-description: "Explore the essentials of algorithmic trading including financial requirements, investment documentation, and options disclosure to enhance trading strategies."
+category: quant_concept
+description: Explore the essentials of algorithmic trading including financial requirements,
+  investment documentation, and options disclosure to enhance trading strategies.
+title: 'Options Disclosure Document: Overview and Requirements (Algo Trading)'
 ---
 
 The financial trading sector is experiencing significant transformations driven by technological advancements and evolving regulatory landscapes. One of the most noteworthy innovations in this field is algorithmic trading, which now commands a substantial share of trading volumes globally. Algorithmic trading utilizes complex mathematical models and high-speed computing to execute trades across various financial markets, offering advantages such as increased trading speed and precision, reduced transaction costs, and the elimination of human emotional biases. 

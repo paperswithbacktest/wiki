@@ -1,6 +1,9 @@
 ---
-title: "Dollar Volume Liquidity: Overview and Examples (Algo Trading)"
-description: "Explore dollar volume liquidity crucial for investors in algorithmic trading. Understand its role in market stability and decision-making amid evolving liquidity dynamics."
+category: quant_concept
+description: Explore dollar volume liquidity crucial for investors in algorithmic
+  trading. Understand its role in market stability and decision-making amid evolving
+  liquidity dynamics.
+title: 'Dollar Volume Liquidity: Overview and Examples (Algo Trading)'
 ---
 
 In today's fast-paced financial markets, liquidity serves as a cornerstone of efficient trading and market stability. This article explores the multifaceted nature of liquidity, with particular emphasis on dollar volume liquidity, financial liquidity, and market liquidity, especially in the context of algorithmic trading. Liquidity is crucial for both investors and institutions, profoundly influencing financial planning and strategic decision-making. 

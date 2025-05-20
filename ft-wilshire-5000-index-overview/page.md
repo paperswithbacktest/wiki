@@ -1,6 +1,8 @@
 ---
-title: "FT Wilshire 5000 Index Overview (Algo Trading)"
-description: "Explore the FT Wilshire 5000 Index to gain insights into US stock market trends. This total market index aids in algorithmic trading and investment analysis."
+category: dataset
+description: Explore the FT Wilshire 5000 Index to gain insights into US stock market
+  trends. This total market index aids in algorithmic trading and investment analysis.
+title: FT Wilshire 5000 Index Overview (Algo Trading)
 ---
 
 In the ever-evolving landscape of financial markets, stock market indices are essential tools that shape investment strategies by providing a snapshot of market performance. These indices serve as benchmarks, helping investors understand market trends and make informed decisions. Among these is the FT Wilshire 5000 Index (FTW5000), a comprehensive index recognized for its expansive coverage of the U.S. investible market. Often referred to as the "total market index," the FTW5000 seeks to capture the entirety of public companies headquartered in the United States, making it one of the broadest indices in terms of market scope.

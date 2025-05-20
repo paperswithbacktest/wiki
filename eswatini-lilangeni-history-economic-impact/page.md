@@ -1,6 +1,8 @@
 ---
-title: "Eswatini Lilangeni: History and Economic Impact (Algo Trading)"
-description: "Explore the history and economic impact of the Eswatini Lilangeni in the context of algo trading and its strategic 1:1 peg to the South African Rand."
+category: quant_concept
+description: Explore the history and economic impact of the Eswatini Lilangeni in
+  the context of algo trading and its strategic 1:1 peg to the South African Rand.
+title: 'Eswatini Lilangeni: History and Economic Impact (Algo Trading)'
 ---
 
 The Kingdom of Eswatini, historically known as Swaziland, is a small, landlocked nation in Southern Africa celebrated for its rich cultural heritage and evolving economic strategies. A cornerstone of Eswatini's economy is its national currency, the Eswatini Lilangeni (SZL), which is closely linked to the South African Rand (ZAR) through a 1:1 pegged exchange rate. This fixed exchange rate arrangement plays a vital role in stabilizing the country's economy, facilitating seamless trade relations with South Africa, its major trading partner.

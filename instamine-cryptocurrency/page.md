@@ -1,6 +1,8 @@
 ---
-title: "Instamine in Cryptocurrency (Algo Trading)"
-description: "Explore the dynamics of instamine in cryptocurrency, its impact on market fairness, the role of algo trading, and how these shape the digital economy."
+category: quant_concept
+description: Explore the dynamics of instamine in cryptocurrency, its impact on market
+  fairness, the role of algo trading, and how these shape the digital economy.
+title: Instamine in Cryptocurrency (Algo Trading)
 ---
 
 Blockchain technology, a revolutionary advancement in the digital era, serves as a decentralized digital ledger that records transactions across multiple computers. This ensures security, transparency, and immutability, offering various applications that extend beyond cryptocurrencies to include supply chain management, healthcare, and smart contracts. The unique proposition of blockchain lies in its ability to ensure trust in a trustless environment, making it indispensable to industries seeking to enhance transparency and reduce fraud.

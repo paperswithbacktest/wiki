@@ -1,7 +1,8 @@
 ---
-title: Understanding GAN Discriminators and Their Key Variations
+category: quant_concept
 description: GAN Discriminators distinguish real from fake data to refine image details
   and drive generators toward lifelike outputs Discover more inside
+title: Understanding GAN Discriminators and Their Key Variations
 ---
 
 ![Image](images/1.jpeg)

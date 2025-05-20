@@ -1,6 +1,14 @@
 ---
-title: "Bond Valuation: Calculations, Formula, and Example (Algo Trading)"
-description: "Discover the fundamentals of bond valuation and learn how to calculate a bond's fair market value through its present value and expected future cash flows. Explore practical applications in investment decision-making, portfolio management, and algorithmic trading strategies. This comprehensive guide covers key concepts like yield to maturity, coupon rate, and current bond prices to help investors make informed decisions aligned with their financial objectives. Whether you're a seasoned investor or new to bonds, enhance your understanding of this essential financial analysis tool."
+category: quant_concept
+description: Discover the fundamentals of bond valuation and learn how to calculate
+  a bond's fair market value through its present value and expected future cash flows.
+  Explore practical applications in investment decision-making, portfolio management,
+  and algorithmic trading strategies. This comprehensive guide covers key concepts
+  like yield to maturity, coupon rate, and current bond prices to help investors make
+  informed decisions aligned with their financial objectives. Whether you're a seasoned
+  investor or new to bonds, enhance your understanding of this essential financial
+  analysis tool.
+title: 'Bond Valuation: Calculations, Formula, and Example (Algo Trading)'
 ---
 
 Bond valuation is a critical component for investors and financial analysts aiming to make informed decisions regarding the buying and selling of bonds. This process hinges on determining the bond's intrinsic value by calculating the present value of its anticipated future payments. These payments typically consist of periodic coupon payments and the redemption of the bond's face value at maturity.

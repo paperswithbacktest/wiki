@@ -1,7 +1,8 @@
 ---
-title: Managing Dimensions and High-Dimensional Data in Machine Learning
+category: quant_concept
 description: Dimensions in machine learning determine feature complexity and impact
   model accuracy through dimensionality reduction techniques. Discover more inside.
+title: Managing Dimensions and High-Dimensional Data in Machine Learning
 ---
 
 ![Image](images/1.png)

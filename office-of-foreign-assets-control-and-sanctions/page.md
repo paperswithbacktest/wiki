@@ -1,6 +1,8 @@
 ---
-title: "Office Of Foreign Assets Control And Sanctions (Algo Trading)"
-description: "Understand the impact of OFAC sanctions on algorithmic trading in global finance. Navigate regulatory challenges for compliance and maximize market opportunities."
+category: quant_concept
+description: Understand the impact of OFAC sanctions on algorithmic trading in global
+  finance. Navigate regulatory challenges for compliance and maximize market opportunities.
+title: Office Of Foreign Assets Control And Sanctions (Algo Trading)
 ---
 
 In today's globalized economy, the convergence of financial regulations, foreign policy, and technological innovation is increasingly significant. The Office of Foreign Assets Control (OFAC) serves as a central figure in this dynamic landscape by enforcing U.S. sanctions that have substantial effects on foreign assets and algorithmic trading. Understanding the role of OFAC is essential for financial professionals and investors engaged in automated trading and global market operations.

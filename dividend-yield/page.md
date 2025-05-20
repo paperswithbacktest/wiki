@@ -1,6 +1,8 @@
 ---
-title: "Dividend yield (Algo Trading)"
-description: "Explore the synergy of dividend yield and algorithmic trading to optimize investment strategies Boost returns by blending steady income with tech-driven trades."
+category: quant_concept
+description: Explore the synergy of dividend yield and algorithmic trading to optimize
+  investment strategies Boost returns by blending steady income with tech-driven trades.
+title: Dividend yield (Algo Trading)
 ---
 
 The dynamic world of stock market trading presents a spectrum of opportunities and challenges, particularly when interacting with the nuances of dividend yield and the technological prowess of algorithmic trading. Dividend yield remains a pivotal metric for investors who prioritize consistent income streams, indicating the ratio of a company's annual dividends relative to its stock price. For income-focused investors, understanding and leveraging this metric is essential, as it directly influences the returns purely from dividends—an alluring feature in the pursuit of stable and predictable financial gains. 

@@ -1,6 +1,8 @@
 ---
-title: "Qualified Domestic Institutional Investor (Algo Trading)"
-description: "Explore how domestic investors are leveraging Qualified Domestic Institutional Investor programs and algorithmic trading to diversify portfolios globally."
+category: quant_concept
+description: Explore how domestic investors are leveraging Qualified Domestic Institutional
+  Investor programs and algorithmic trading to diversify portfolios globally.
+title: Qualified Domestic Institutional Investor (Algo Trading)
 ---
 
 In today’s rapidly evolving financial landscape, domestic investors are increasingly looking for opportunities to diversify their portfolios beyond national borders. Globalization and technological advancements have fundamentally transformed investment paradigms, prompting investors to reconsider the traditional boundaries of domestic investing. The rising interest in international markets is driven largely by the pursuit of diversification, which helps mitigate risks associated with economic fluctuations and geopolitical tensions inherent within any single market.

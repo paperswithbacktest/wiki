@@ -1,6 +1,13 @@
 ---
-title: "Industrial Revenue Bonds: Function and Mechanism (Algo Trading)"
-description: "This article explores the interaction between industrial revenue bonds and algorithmic trading in the modern economic landscape. Industrial revenue bonds provide municipalities with a means to finance projects that boost infrastructure and job creation while offering tax-exempt benefits to investors. Algorithmic trading has revolutionized investment management by enhancing efficiency and providing data-driven insights. Together, these tools facilitate sustainable economic development and empower municipal finance managers to optimize portfolio returns and liquidity management."
+category: quant_concept
+description: This article explores the interaction between industrial revenue bonds
+  and algorithmic trading in the modern economic landscape. Industrial revenue bonds
+  provide municipalities with a means to finance projects that boost infrastructure
+  and job creation while offering tax-exempt benefits to investors. Algorithmic trading
+  has revolutionized investment management by enhancing efficiency and providing data-driven
+  insights. Together, these tools facilitate sustainable economic development and
+  empower municipal finance managers to optimize portfolio returns and liquidity management.
+title: 'Industrial Revenue Bonds: Function and Mechanism (Algo Trading)'
 ---
 
 The modern economic environment is characterized by a multifaceted interaction of elements that collectively shape growth and development across different sectors. Central to this environment are financial instruments like industrial revenue bonds (IRBs) and algorithmic trading, which play significant roles in municipal finance and investment management, respectively.

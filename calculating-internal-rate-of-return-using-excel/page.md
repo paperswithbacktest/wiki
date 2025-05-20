@@ -1,6 +1,8 @@
 ---
-title: "Calculating Internal Rate of Return Using Excel (Algo Trading)"
-description: "Learn how to calculate Internal Rate of Return (IRR) in Excel for evaluating investment profitability understand financial functions and improve decision-making."
+category: quant_concept
+description: Learn how to calculate Internal Rate of Return (IRR) in Excel for evaluating
+  investment profitability understand financial functions and improve decision-making.
+title: Calculating Internal Rate of Return Using Excel (Algo Trading)
 ---
 
 Excel is widely recognized as a powerful tool for financial analysis, providing a range of functionalities that assist analysts and financial professionals in making informed decisions. Central to Excel’s utility in financial analysis is its suite of financial functions, allowing users to perform complex calculations with relative ease. Among these functions, the Internal Rate of Return (IRR) stands out due to its critical role in evaluating investment opportunities.

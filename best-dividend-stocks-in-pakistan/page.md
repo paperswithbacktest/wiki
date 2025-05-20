@@ -1,6 +1,15 @@
 ---
-title: "Best Dividend Stocks in Pakistan (Algo Trading)"
-description: Discover the best dividend stocks in Pakistan and learn how algorithmic trading is influencing investment strategies. This guide explores top-performing sectors like utilities, finance, and energy, highlighting companies renowned for their robust dividend yields. Understand the essential metrics such as dividend yield and payout ratio that inform sound investments in dividend stocks. Uncover how algorithmic trading can enhance portfolio management by leveraging data-driven strategies for potentially maximizing returns. Whether you're a seasoned investor or new to dividend investing in Pakistan, this resource equips you with insights to make informed financial decisions.
+category: trading_strategy
+description: Discover the best dividend stocks in Pakistan and learn how algorithmic
+  trading is influencing investment strategies. This guide explores top-performing
+  sectors like utilities, finance, and energy, highlighting companies renowned for
+  their robust dividend yields. Understand the essential metrics such as dividend
+  yield and payout ratio that inform sound investments in dividend stocks. Uncover
+  how algorithmic trading can enhance portfolio management by leveraging data-driven
+  strategies for potentially maximizing returns. Whether you're a seasoned investor
+  or new to dividend investing in Pakistan, this resource equips you with insights
+  to make informed financial decisions.
+title: Best Dividend Stocks in Pakistan (Algo Trading)
 ---
 
 The financial markets in Pakistan present a plethora of opportunities for investors, and dividend stocks stand out as a particularly attractive option for those seeking regular income from their investments. Dividend stocks are shares in companies that distribute a portion of their profits to shareholders in the form of dividends. This type of investment not only offers income but also the potential for capital appreciation, making it a dual-benefit investment strategy.

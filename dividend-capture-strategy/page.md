@@ -1,6 +1,8 @@
 ---
-title: "Dividend Capture Strategy (Algo Trading)"
-description: "Explore dividend capture strategy and algorithmic trading to optimize income and growth from stocks Discover the synergy of these strategies for investors"
+category: trading_strategy
+description: Explore dividend capture strategy and algorithmic trading to optimize
+  income and growth from stocks Discover the synergy of these strategies for investors
+title: Dividend Capture Strategy (Algo Trading)
 ---
 
 In the world of investing, strategies abound to maximize returns while managing risks. One such approach is the focus on stock dividends, which are often considered a reliable source of income for many investors. Stock dividends involve regular payments made by companies to their shareholders, usually derived from the company's profits. These dividends can be paid in cash or additional shares, thereby contributing to the investor's total return.

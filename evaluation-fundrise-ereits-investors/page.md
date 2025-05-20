@@ -1,6 +1,8 @@
 ---
-title: "Evaluation of Fundrise eREITs for Investors (Algo Trading)"
-description: "Explore the potential of Fundrise eREITs with algo trading for diverse real estate investments. Discover benefits, risks, and insights for informed decisions."
+category: trading_strategy
+description: Explore the potential of Fundrise eREITs with algo trading for diverse
+  real estate investments. Discover benefits, risks, and insights for informed decisions.
+title: Evaluation of Fundrise eREITs for Investors (Algo Trading)
 ---
 
 In the modern financial landscape, alternative investment options have become increasingly appealing to investors who seek to diversify their portfolios beyond traditional stocks and bonds. One such innovative approach involves electronic Real Estate Investment Trusts (eREITs), a digital adaptation of traditional real estate investment trusts. Fundrise, a prominent player in this domain, has introduced eREITs as a technology-driven method for investing in real estate, offering a novel approach that has gained the attention of both novice and seasoned investors.

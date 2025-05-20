@@ -1,6 +1,9 @@
 ---
-title: "Council of Economic Advisers: Role and History (Algo Trading)"
-description: "Explore the crucial role of the Council of Economic Advisers in U.S. economic policy and its impact on algorithmic trading strategies to optimize market performance."
+category: quant_concept
+description: Explore the crucial role of the Council of Economic Advisers in U.S.
+  economic policy and its impact on algorithmic trading strategies to optimize market
+  performance.
+title: 'Council of Economic Advisers: Role and History (Algo Trading)'
 ---
 
 In today's fast-paced financial markets, algorithmic trading constitutes a critical component, relying on algorithms to execute pre-programmed trading instructions based on a multitude of variables, including timing, price, and quantity. The role of government economic policies in guiding algorithmic trading mechanisms is substantial, as these policies can alter economic landscapes and market dynamics. Understanding the function of government policies, particularly through the activities of the Council of Economic Advisers (CEA), is crucial for grasping the implications of policy decisions on trading trends.

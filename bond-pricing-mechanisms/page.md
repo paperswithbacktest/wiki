@@ -1,6 +1,8 @@
 ---
-title: "Bond Pricing Mechanisms (Algo Trading)"
-description: "Explore bond pricing mechanisms influenced by algorithmic trading which uses complex models for trade efficiency and improved investment outcomes."
+category: quant_concept
+description: Explore bond pricing mechanisms influenced by algorithmic trading which
+  uses complex models for trade efficiency and improved investment outcomes.
+title: Bond Pricing Mechanisms (Algo Trading)
 ---
 
 Financial instruments are vital components of the global financial ecosystem, forming the backbone of investment strategies for individuals, corporations, and governments alike. These instruments, which include equities, bonds, and derivatives, serve various purposes such as raising capital, hedging risks, and facilitating transfers of financial risks. Among these, bonds stand out as a fundamental tool in investing due to their relatively stable nature and predictable income streams, offering a haven for risk-averse investors seeking to preserve capital while generating steady returns.

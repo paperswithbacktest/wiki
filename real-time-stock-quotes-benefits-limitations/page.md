@@ -1,6 +1,9 @@
 ---
-title: "Real-Time Stock Quotes: Benefits and Limitations (Algo Trading)"
-description: "Explore the benefits and limitations of real-time stock quotes in algo trading Discover how they transform trading strategies to navigate today's dynamic markets effectively​"
+category: dataset
+description: Explore the benefits and limitations of real-time stock quotes in algo
+  trading Discover how they transform trading strategies to navigate today's dynamic
+  markets effectively​
+title: 'Real-Time Stock Quotes: Benefits and Limitations (Algo Trading)'
 ---
 
 The digital transformation has drastically reshaped the financial markets, providing traders with unparalleled access to market data and advanced trading tools. Modern trading is deeply intertwined with financial data, real-time stock market quotes, and algorithmic trading, which collectively redefine how market engagement occurs. 

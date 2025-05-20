@@ -1,6 +1,8 @@
 ---
-title: "Comparison of Public and Private Blockchains: Challenges and Gaps (Algo Trading)"
-description: "Explore public vs private blockchains in algo trading, assessing their distinct benefits and challenges for transparency, security, efficiency, and scalability."
+category: quant_concept
+description: Explore public vs private blockchains in algo trading, assessing their
+  distinct benefits and challenges for transparency, security, efficiency, and scalability.
+title: 'Comparison of Public and Private Blockchains: Challenges and Gaps (Algo Trading)'
 ---
 
 Blockchain technology has emerged as a transformative force across various industries, fundamentally altering how businesses operate and interact. At its core, blockchain is a decentralized digital ledger that facilitates secure, transparent, and tamper-proof transactions. This technology is particularly significant in contexts where trust, transparency, and immutability are paramount. However, businesses leveraging blockchain must often choose between public and private blockchains, each offering distinct advantages and challenges.

@@ -1,6 +1,9 @@
 ---
-title: "Style Drift in Investment Management (Algo Trading)"
-description: "Explore style drift and algorithmic trading in investment management. Learn how to handle deviations from investment goals and optimize trades to enhance portfolio performance."
+category: trading_strategy
+description: Explore style drift and algorithmic trading in investment management.
+  Learn how to handle deviations from investment goals and optimize trades to enhance
+  portfolio performance.
+title: Style Drift in Investment Management (Algo Trading)
 ---
 
 Investment management is a vital service that aids clients in wealth accumulation through strategic portfolio allocation. This process involves selecting a mix of asset classes—such as equities, bonds, and real estate—to maximize returns while managing risk. A fundamental component of investment management is due diligence, a thorough evaluation process to ensure investment strategies align with a client's specific financial goals and risk tolerance. This rigorous scrutiny mitigates potential risks and identifies growth opportunities by analyzing factors like market conditions and asset performance.

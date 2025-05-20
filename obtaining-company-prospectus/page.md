@@ -1,6 +1,9 @@
 ---
-title: "Obtaining a Company's Prospectus (Algo Trading)"
-description: "Discover how algorithmic trading and a company's prospectus are key to informed investing Gain insights to optimize your strategies in today's financial markets"
+category: dataset
+description: Discover how algorithmic trading and a company's prospectus are key to
+  informed investing Gain insights to optimize your strategies in today's financial
+  markets
+title: Obtaining a Company's Prospectus (Algo Trading)
 ---
 
 In today's rapidly evolving financial landscape, investors are constantly seeking tools to gain a competitive edge. Successfully navigating this complex environment requires a solid understanding of the core documents that underpin informed financial decisions. Investment documents, financial disclosures, and company prospectuses play a critical role in this process, providing essential data that investors rely on to make sound investment choices. These documents reveal valuable insights into the characteristics and potential risks associated with various investments, forming a foundation upon which strategic decisions are built.

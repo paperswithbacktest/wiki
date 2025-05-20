@@ -1,7 +1,8 @@
 ---
-title: 'Device Machine Learning: Enhancing Privacy and Performance'
+category: quant_concept
 description: Device machine learning enables faster, private data processing on gadgets
   by keeping data local for improved reliability Discover more inside
+title: 'Device Machine Learning: Enhancing Privacy and Performance'
 ---
 
 ![Image](images/1.jpeg)

@@ -1,6 +1,9 @@
 ---
-title: "Quote in Trading and Investing (Algo Trading)"
-description: "Explore the dynamic interplay between investing quotes and algorithmic trading in financial markets Discover how real-time quote data enhances trading efficiency."
+category: quant_concept
+description: Explore the dynamic interplay between investing quotes and algorithmic
+  trading in financial markets Discover how real-time quote data enhances trading
+  efficiency.
+title: Quote in Trading and Investing (Algo Trading)
 ---
 
 Investing, quotes, and algorithmic trading form a complex yet cohesive network that drives modern financial markets. In recent years, the emergence of trading algorithms has dramatically transformed the dynamics of these markets. These algorithms have not only increased trading speed and efficiency but have also minimized human errors and emotional biases. The surge in algorithmic trading signifies a shift towards more automated and data-driven decision-making processes, underscoring their significance in today's trading environment.

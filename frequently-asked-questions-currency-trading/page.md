@@ -1,6 +1,8 @@
 ---
-title: "Frequently Asked Questions About Currency Trading (Algo Trading)"
-description: "Discover the essentials of Forex trading and algorithmic strategies their benefits and risks. Enhance your understanding of this dynamic trading environment."
+category: quant_concept
+description: Discover the essentials of Forex trading and algorithmic strategies their
+  benefits and risks. Enhance your understanding of this dynamic trading environment.
+title: Frequently Asked Questions About Currency Trading (Algo Trading)
 ---
 
 Foreign exchange trading, commonly known as Forex trading, is the process of exchanging one currency for another on a global scale. This decentralized marketplace is renowned for its immense size and liquidity, with a daily trading volume exceeding $6 trillion, dwarfing other financial markets. Participants range from large financial institutions and corporations to individual traders, all seeking to profit from fluctuations in currency exchange rates.

@@ -1,7 +1,8 @@
 ---
-title: L0 Regularization In Machine Learning For Sparse Models
+category: quant_concept
 description: L0 Regularization penalizes nonzero coefficients to achieve direct feature
   selection and build simpler models that resist overfitting Discover more inside.
+title: L0 Regularization In Machine Learning For Sparse Models
 ---
 
 ![Image](images/1.jpeg)

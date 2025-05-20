@@ -1,6 +1,9 @@
 ---
-title: "Gross Lease: Overview, Types, Advantages, and Disadvantages (Algo Trading)"
-description: "Explore the benefits and drawbacks of gross leases in commercial real estate Discover how these lease agreements influence financial outcomes and cost allocation."
+category: quant_concept
+description: Explore the benefits and drawbacks of gross leases in commercial real
+  estate Discover how these lease agreements influence financial outcomes and cost
+  allocation.
+title: 'Gross Lease: Overview, Types, Advantages, and Disadvantages (Algo Trading)'
 ---
 
 Understanding commercial lease types is crucial for both investors and tenants in the real estate market, as these agreements dictate the allocation of costs and responsibilities that can significantly impact financial outcomes. This article explores a range of lease types, including gross leases and modified gross leases, which each present unique advantages and disadvantages that must be considered by businesses when entering into a leasing agreement.

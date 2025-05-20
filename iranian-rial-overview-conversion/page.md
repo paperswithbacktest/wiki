@@ -1,6 +1,9 @@
 ---
-title: "Iranian Rial: Overview and Conversion (Algo Trading)"
-description: "Explore the Iranian Rial's volatility and algorithmic trading strategies in this comprehensive guide to currency conversion and trading opportunities with IRR."
+category: dataset
+description: Explore the Iranian Rial's volatility and algorithmic trading strategies
+  in this comprehensive guide to currency conversion and trading opportunities with
+  IRR.
+title: 'Iranian Rial: Overview and Conversion (Algo Trading)'
 ---
 
 The Iranian Rial (IRR), represented by the ISO code IRR, serves as the official national currency of Iran. The Rial, introduced in the early 20th century, has a storied past and has undergone significant changes, particularly in response to shifting political and economic landscapes. The inherent volatility of the IRR, primarily driven by geopolitical tensions and economic sanctions, presents both challenges and opportunities for traders globally.

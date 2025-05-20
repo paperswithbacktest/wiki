@@ -1,6 +1,9 @@
 ---
-title: "Examples of Fiscal Policy Stimulating Economic Growth (Algo Trading)"
-description: "Explore how fiscal policy stimulates economic growth and the role of algorithmic trading in modern markets. Ideal for policymakers and investors seeking insights."
+category: quant_concept
+description: Explore how fiscal policy stimulates economic growth and the role of
+  algorithmic trading in modern markets. Ideal for policymakers and investors seeking
+  insights.
+title: Examples of Fiscal Policy Stimulating Economic Growth (Algo Trading)
 ---
 
 In today's dynamic economic landscape, the intricate relationship between economic activity, fiscal policy, and economic growth is pivotal. Economic activity, characterized by production, consumption, and exchange of goods and services, forms the backbone of economies. Fiscal policy, involving government decisions on taxation and spending, fundamentally influences these activities by regulating aggregate demand and stabilizing the economy. Amidst this environment, the introduction of algorithmic trading has added a layer of complexity, reshaping how markets function.

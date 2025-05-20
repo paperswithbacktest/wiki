@@ -1,10 +1,9 @@
 ---
-title: Ensuring Predictive Rate Parity in Machine Learning Models
+category: quant_concept
 description: Predictive Rate Parity ensures your machine learning models predict fairly
   across all groups by balancing accuracy and fairness Discover more inside.
+title: Ensuring Predictive Rate Parity in Machine Learning Models
 ---
-
-
 
 ## Table of Contents
 

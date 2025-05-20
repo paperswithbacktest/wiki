@@ -1,6 +1,8 @@
 ---
-title: "Understanding Negative Correlation (Algo Trading)"
-description: "Explore the critical role of negative correlation in algorithmic trading to devise strategies for optimizing risk and return with real-world examples."
+category: quant_concept
+description: Explore the critical role of negative correlation in algorithmic trading
+  to devise strategies for optimizing risk and return with real-world examples.
+title: Understanding Negative Correlation (Algo Trading)
 ---
 
 Negative correlation is an essential concept in both statistics and finance, reflecting an inverse relationship between two variables wherein one variable's increase leads to the other's decrease. This mathematical relationship can provide powerful insights, especially within the domain of algorithmic trading. In algorithmic trading, trading decisions are driven by computer algorithms based on predefined rules or models, and understanding negative correlation is crucial for developing strategies that optimize risk and return.
@@ -157,4 +159,3 @@ Continuous learning and adaptation are vital to maintaining the efficacy of trad
    This article discusses different types of correlation measures and their applications in quantitative finance, emphasizing the need for careful interpretation and understanding of statistical dependencies.
 
 These references encompass a blend of theoretical expositions and practical implementations, offering valuable insights into statistical analysis and algorithmic trading. They serve as resources for further exploration into the strategic use of negative correlations in finance, enhancing both academic and practical understanding.
-

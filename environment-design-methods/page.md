@@ -1,7 +1,8 @@
 ---
-title: Machine Learning Environment Design With PAIR Method
+category: quant_concept
 description: Machine learning environment design with PAIR enhances model adaptability
   through regret-driven challenges for robust learning Discover more inside
+title: Machine Learning Environment Design With PAIR Method
 ---
 
 ![Image](images/1.png)

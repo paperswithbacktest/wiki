@@ -1,6 +1,9 @@
 ---
-title: "Micro Accounts in Forex Trading (Algo Trading)"
-description: "Discover forex trading through micro accounts and algo trading Micro accounts offer low-risk entry for beginners while algo trading enhances efficiency and reduces human error"
+category: trading_strategy
+description: Discover forex trading through micro accounts and algo trading Micro
+  accounts offer low-risk entry for beginners while algo trading enhances efficiency
+  and reduces human error
+title: Micro Accounts in Forex Trading (Algo Trading)
 ---
 
 Currency trading, often referred to as forex trading, involves the buying and selling of currencies within the foreign exchange market. This market is the largest in the world, facilitating trillions of dollars in daily transactions as it operates continuously across different time zones. Forex trading primarily revolves around currency pairs, such as EUR/USD or USD/JPY, allowing market participants to speculate on the relative value changes between two currencies. The factors influencing currency prices include economic indicators, geopolitical events, and market sentiment.

@@ -1,6 +1,9 @@
 ---
-title: "Automated Trade Surveillance (Algo Trading)"
-description: "Explore the intersection of AI and automated trade surveillance to revolutionize trading monitoring, ensuring market integrity and investor protection in evolving markets."
+category: quant_concept
+description: Explore the intersection of AI and automated trade surveillance to revolutionize
+  trading monitoring, ensuring market integrity and investor protection in evolving
+  markets.
+title: Automated Trade Surveillance (Algo Trading)
 ---
 
 In today's financial markets, algorithmic trading has become a dominant force. This approach leverages sophisticated computer algorithms to execute trades at remarkable speeds and volumes, fundamentally transforming how trading occurs. However, the rapid ascent of algorithmic trading brings new challenges, primarily related to market integrity and the safeguarding of investor interests. The landscape now necessitates advanced systems and methodologies to monitor and manage trading activities effectively.

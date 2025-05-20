@@ -1,6 +1,8 @@
 ---
-title: "Probabilities of Achieving a Successful Trade (Algo Trading)"
-description: "Explore the role of probability in algo trading to enhance trade success and manage risks effectively using technology-driven strategies."
+category: trading_strategy
+description: Explore the role of probability in algo trading to enhance trade success
+  and manage risks effectively using technology-driven strategies.
+title: Probabilities of Achieving a Successful Trade (Algo Trading)
 ---
 
 Understanding the probability of a successful trade is crucial for any trader. Trading in financial markets involves inherent uncertainties, and quantifying these uncertainties using probability allows traders to make informed decisions. Probability enables traders to assess the potential outcomes of their trades, helping them to manage risk and plan their strategies effectively.

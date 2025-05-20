@@ -1,6 +1,8 @@
 ---
-title: "Portfolio Stock Allocation Guidelines (Algo Trading)"
-description: "Explore effective stock allocation strategies in portfolio management with a focus on traditional rules modern integration and algorithmic trading insights."
+category: trading_strategy
+description: Explore effective stock allocation strategies in portfolio management
+  with a focus on traditional rules modern integration and algorithmic trading insights.
+title: Portfolio Stock Allocation Guidelines (Algo Trading)
 ---
 
 Understanding the nuances of stock allocation is crucial for successful portfolio management. Stock allocation, the distribution of investments across various asset classes, helps investors achieve an optimal balance between risk and return, aligning with their financial goals. By effectively managing stock allocation, investors can navigate market volatility and enhance portfolio performance.

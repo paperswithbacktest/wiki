@@ -1,6 +1,8 @@
 ---
-title: "Agio: Meaning, Mechanism, and Impact on Bond Values (Algo Trading)"
-description: "Explore the meaning of agio and its impact on bond values in this comprehensive guide to bond trading and valuation with algorithmic trading insights."
+category: quant_concept
+description: Explore the meaning of agio and its impact on bond values in this comprehensive
+  guide to bond trading and valuation with algorithmic trading insights.
+title: 'Agio: Meaning, Mechanism, and Impact on Bond Values (Algo Trading)'
 ---
 
 In recent years, the intersection of finance and technology has significantly reshaped the landscape of bond trading and valuation. A critical element in this transformation is the concept of agio, which represents the premium of a bond's market value over its intrinsic value. Agio serves as an important indicator in bond trading, reflecting investor confidence and perceived stability or risk associated with a bond issuer.

@@ -1,6 +1,9 @@
 ---
-title: "Recoverable Reserves: Meaning, Mechanism, and Examples (Algo Trading)"
-description: "Explore how the synergy between oil and gas recoverable reserves and algorithmic trading reshapes energy markets boosting efficiency and strategic resource management."
+category: quant_concept
+description: Explore how the synergy between oil and gas recoverable reserves and
+  algorithmic trading reshapes energy markets boosting efficiency and strategic resource
+  management.
+title: 'Recoverable Reserves: Meaning, Mechanism, and Examples (Algo Trading)'
 ---
 
 The intersection of the oil and gas industry with algorithmic trading presents new opportunities and challenges for market participants. As global demand for energy continues to surge, the efficient management of resources like oil and gas recoverable reserves becomes increasingly crucial. These reserves, which represent the quantity of hydrocarbon resources that can feasibly be extracted using current technology and under prevailing economic conditions, form the cornerstone of energy valuation and economic planning. Their accurate assessment is vital for both national economies and private energy firms.
@@ -107,4 +110,3 @@ Yergin, D. (2011). *The Quest: Energy, Security, and the Remaking of the Modern 
 U.S. Energy Information Administration (EIA) Reports: The EIA provides detailed reports and analyses on energy market trends, including data on oil and gas production, consumption, pricing, and recoverable reserves. These reports are crucial for understanding the economic and technological factors influencing energy industries.
 
 The Markets in Financial Instruments Directive II (MiFID II): MiFID II is a legislative framework established by the European Union to regulate financial markets and improve their transparency. It sets out requirements for algorithmic trading practices, aiming to ensure market integrity and protect investors. This directive is particularly relevant for stakeholders engaging in the energy sector through algorithmic trading.
-

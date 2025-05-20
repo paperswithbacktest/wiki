@@ -1,6 +1,9 @@
 ---
-title: "Panic Buying: Psychology and Implications (Algo Trading)"
-description: "Explore the psychological triggers and market impact of panic buying, and understand how algorithmic trading can amplify this consumer behavior during crises."
+category: quant_concept
+description: Explore the psychological triggers and market impact of panic buying,
+  and understand how algorithmic trading can amplify this consumer behavior during
+  crises.
+title: 'Panic Buying: Psychology and Implications (Algo Trading)'
 ---
 
 Panic buying has become a significant phenomenon in the ever-changing field of consumer behavior, especially during times of crisis. This article investigates the psychological factors driving panic buying, its effects on consumer behavior, and the role of algorithmic trading in exacerbating these behaviors. The interconnected nature of panic buying and market dynamics provides valuable insights for both consumers and market participants. Navigating today's complex market environment requires a comprehensive understanding of these elements. By examining various studies and expert opinions, we aim to unpack the psychology that fuels panic buying and its implications for economic and investment strategies.

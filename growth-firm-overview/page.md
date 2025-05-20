@@ -1,6 +1,9 @@
 ---
-title: "Growth Firm Overview (Algo Trading)"
-description: "Explore algorithmic trading firms blending tech with business strategies to outperform traditional methods. Learn about their growth, innovation, and market impact."
+category: quant_concept
+description: Explore algorithmic trading firms blending tech with business strategies
+  to outperform traditional methods. Learn about their growth, innovation, and market
+  impact.
+title: Growth Firm Overview (Algo Trading)
 ---
 
 In finance, algorithmic trading firms epitomize the fusion of state-of-the-art technology with meticulously planned business strategies. These firms have become a focal point in the trading industry due to their ability to scale operations efficiently while maintaining an edge over traditional trading methodologies. Algorithmic trading, or algo-trading, utilizes computer algorithms to execute trades at velocities that surpass human capability, creating significant competitive advantages.

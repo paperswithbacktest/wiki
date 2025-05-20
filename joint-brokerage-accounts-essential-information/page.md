@@ -1,6 +1,9 @@
 ---
-title: "Joint Brokerage Accounts: Essential Information (Algo Trading)"
-description: "Discover the benefits of joint brokerage accounts in pooling resources for shared financial goals while leveraging algorithmic trading to enhance investment strategies."
+category: quant_concept
+description: Discover the benefits of joint brokerage accounts in pooling resources
+  for shared financial goals while leveraging algorithmic trading to enhance investment
+  strategies.
+title: 'Joint Brokerage Accounts: Essential Information (Algo Trading)'
 ---
 
 In today's rapidly evolving financial landscape, investors are constantly seeking new methods to manage and grow their wealth efficiently. Among the various avenues for investing, joint brokerage accounts have gained popularity, especially for individuals aiming to pool resources and work towards shared financial goals. These accounts offer several advantages, such as the ability to combine financial resources, share investment responsibilities, and diversify investment portfolios, making them an attractive option for families and business partners.

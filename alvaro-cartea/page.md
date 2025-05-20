@@ -1,9 +1,10 @@
 ---
-title: "Álvaro Cartea (Algo Trading)"
-description: "Explore the illustrious career of Álvaro Cartea in quantitative finance algorithmic trading and academia showcasing his pioneering work at institutions like Oxford."
+category: quant_concept
+description: Explore the illustrious career of Álvaro Cartea in quantitative finance
+  algorithmic trading and academia showcasing his pioneering work at institutions
+  like Oxford.
+title: Álvaro Cartea (Algo Trading)
 ---
-
-
 
 ## Table of Contents
 

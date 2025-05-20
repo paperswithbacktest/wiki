@@ -1,6 +1,8 @@
 ---
-title: "Impact of Government Subsidies on Industries (Algo Trading)"
-description: "Explore how government subsidies impact industries and the role of algorithmic trading in reshaping markets driving economic growth and stability."
+category: trading_strategy
+description: Explore how government subsidies impact industries and the role of algorithmic
+  trading in reshaping markets driving economic growth and stability.
+title: Impact of Government Subsidies on Industries (Algo Trading)
 ---
 
 The global economy is a complex web of interactions between various sectors. It involves the production, distribution, and consumption of goods and services across national borders, influenced by factors such as government policies, technological advancements, and consumer behaviors. A critical component of this intricate system is the synergy between government subsidies and industry support. These subsidies, offered by governments, are financial aids meant to empower specific sectors considered vital for economic growth and stability. They can take various forms, such as tax reliefs, direct monetary transfers, or reimbursements, and they aim to bolster industries susceptible to external market pressures. 

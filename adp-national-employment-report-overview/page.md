@@ -1,6 +1,9 @@
 ---
-title: "ADP National Employment Report Overview (Algo Trading)"
-description: "Explore how ADP National Employment Report shapes algorithmic trading strategies by providing insights into private-sector job trends and influencing market dynamics."
+category: dataset
+description: Explore how ADP National Employment Report shapes algorithmic trading
+  strategies by providing insights into private-sector job trends and influencing
+  market dynamics.
+title: ADP National Employment Report Overview (Algo Trading)
 ---
 
 Employment data plays a crucial role in economic analysis and decision-making. It offers insights into the health and trajectory of an economy by detailing job growth, unemployment rates, and wage trends. Policymakers, businesses, and investors closely monitor employment data to make informed decisions regarding fiscal policies, strategic growth, and investment opportunities. Such data reflects the economic activities across different sectors and regions, acting as a critical indicator for macroeconomic stability.

@@ -1,6 +1,8 @@
 ---
-title: "Bullish Engulfing Pattern (Algo Trading)"
-description: "Explore the Bullish Engulfing Pattern for algo trading Learn how to identify this reversal signal and enhance trading strategies with algorithmic frameworks"
+category: trading_strategy
+description: Explore the Bullish Engulfing Pattern for algo trading Learn how to identify
+  this reversal signal and enhance trading strategies with algorithmic frameworks
+title: Bullish Engulfing Pattern (Algo Trading)
 ---
 
 Technical analysis is a pivotal aspect of trading that involves evaluating financial markets and assets using historical price and volume data. It largely depends on chart patterns and statistical indicators to forecast future price movements. This approach allows traders to make informed decisions based on market sentiment rather than relying solely on company fundamentals or economic factors.

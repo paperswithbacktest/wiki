@@ -1,6 +1,11 @@
 ---
-title: "Implementation shortfall statistics (Algo Trading)"
-description: Explore the role of Implementation Shortfall in algorithmic trading as we delve into minimizing trade execution costs with the Almgren-Chriss framework. Uncover how this essential metric evaluates trade efficiency by accounting for market impacts and timing delays and learn about optimal execution strategies to enhance trading outcomes in dynamic markets.
+category: quant_concept
+description: Explore the role of Implementation Shortfall in algorithmic trading as
+  we delve into minimizing trade execution costs with the Almgren-Chriss framework.
+  Uncover how this essential metric evaluates trade efficiency by accounting for market
+  impacts and timing delays and learn about optimal execution strategies to enhance
+  trading outcomes in dynamic markets.
+title: Implementation shortfall statistics (Algo Trading)
 ---
 
 In the fast-paced world of algorithmic trading, understanding and minimizing costs related to trade execution is paramount. As financial markets evolve with rapid technological advancements, traders are continually seeking strategies that enhance execution efficiency. One key concept that stands out in this regard is Implementation Shortfall (IS). IS quantifies the difference between the decision price of a trade and the ultimate execution price, effectively measuring the cost of not executing a trade immediately at its initial decision price. This concept is pivotal in evaluating the efficiency of a trade execution strategy by accounting for slippage, which includes both delay costs and market impact costs.

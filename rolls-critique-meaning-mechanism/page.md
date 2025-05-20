@@ -1,6 +1,9 @@
 ---
-title: "Roll's Critique: Meaning and Mechanism (Algo Trading)"
-description: "Explore the intricacies of Roll's Critique and the Efficient Market Hypothesis in financial markets. Understand their impact on CAPM, market efficiency, and algorithmic trading."
+category: quant_concept
+description: Explore the intricacies of Roll's Critique and the Efficient Market Hypothesis
+  in financial markets. Understand their impact on CAPM, market efficiency, and algorithmic
+  trading.
+title: 'Roll''s Critique: Meaning and Mechanism (Algo Trading)'
 ---
 
 The world of finance often grapples with complex theories that attempt to explain market behaviors and efficiency. Among these are Roll's Critique and the Efficient Market Hypothesis (EMH), two influential concepts that offer different perspectives on financial market operations. Roll's Critique, introduced by Richard Roll, emphasizes the limitations associated with empirical tests of the Capital Asset Pricing Model (CAPM), particularly questioning the observability of true market portfolios. According to this critique, a true market portfolio includes all investable assets, making it inherently unobservable and challenging the testability of the CAPM due to this abstraction.

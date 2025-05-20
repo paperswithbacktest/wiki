@@ -1,6 +1,8 @@
 ---
-title: "Not-Held Orders: Types, Benefits, and Limitations (Algo Trading)"
-description: "Explore the types benefits and limitations of not-held orders in algorithmic trading Analyze how these strategic orders impact market efficiency and trade execution."
+category: quant_concept
+description: Explore the types benefits and limitations of not-held orders in algorithmic
+  trading Analyze how these strategic orders impact market efficiency and trade execution.
+title: 'Not-Held Orders: Types, Benefits, and Limitations (Algo Trading)'
 ---
 
 Financial markets play a crucial role in the global economy by facilitating capital formation, liquidity, and risk management. They enable corporations to raise funds for expansion, governments to finance public projects, and individuals to save and invest for the future. The efficient functioning of these markets is integral to economic growth and stability. Different financial instruments, including equities, bonds, currencies, derivatives, and commodities, are traded within these markets, providing a broad spectrum of opportunities for various types of investors and institutions (Mankiw, 2011).

@@ -1,6 +1,9 @@
 ---
-title: "Macroeconomic Stabilization Fund (FEM) (Algo Trading)"
-description: "Explore the Macroeconomic Stabilization Fund's role in Venezuela, and the impacts of algorithmic trading on economic policies, offering insights into stabilization strategies."
+category: quant_concept
+description: Explore the Macroeconomic Stabilization Fund's role in Venezuela, and
+  the impacts of algorithmic trading on economic policies, offering insights into
+  stabilization strategies.
+title: Macroeconomic Stabilization Fund (FEM) (Algo Trading)
 ---
 
 Economic policy serves as a critical tool for governments to influence a nation's economic growth, stabilize markets, and maintain fiscal balance. At the heart of such policies is macroeconomic stabilization, which aims to reduce economic volatility, ensuring steady growth, and safeguarding national wealth. Within this context, the Macroeconomic Stabilization Fund (FEM) emerges as a pivotal mechanism, specifically designed to stabilize Venezuela's economy, which has frequently been affected by the volatility of global oil prices.

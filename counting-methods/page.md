@@ -1,7 +1,8 @@
 ---
-title: Counting Methods in Machine Learning for Accurate Predictions
+category: quant_concept
 description: Counting methods in machine learning use EBC KNN and IOU based verification
   to boost prediction accuracy and reliability Discover more inside.
+title: Counting Methods in Machine Learning for Accurate Predictions
 ---
 
 ![Image](images/1.png)

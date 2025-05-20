@@ -1,6 +1,8 @@
 ---
-title: "Definitive Securities and Their Functionality (Algo Trading)"
-description: "Explore the critical role of definitive securities and algorithmic trading in modern finance as they shape investment strategies and enhance market efficiency."
+category: quant_concept
+description: Explore the critical role of definitive securities and algorithmic trading
+  in modern finance as they shape investment strategies and enhance market efficiency.
+title: Definitive Securities and Their Functionality (Algo Trading)
 ---
 
 In the rapidly evolving world of finance, securities hold a pivotal position within investment portfolios and trading strategies. These instruments serve as foundational elements in financial markets, facilitating the flow of capital and enabling investors to manage risks effectively. Securities, whether they manifest as traditional paper-based certificates or modern digital entries, are indispensable for various market participants, including individual investors, institutions, and governments.

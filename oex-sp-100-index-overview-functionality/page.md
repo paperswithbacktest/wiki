@@ -1,6 +1,8 @@
 ---
-title: "OEX S&P 100 Index: Overview and Functionality (Algo Trading)"
-description: "Explore algorithmic trading with the OEX S&P 100 Index to enhance market participation and optimize trading strategies through speed and precision."
+category: quant_concept
+description: Explore algorithmic trading with the OEX S&P 100 Index to enhance market
+  participation and optimize trading strategies through speed and precision.
+title: 'OEX S&P 100 Index: Overview and Functionality (Algo Trading)'
 ---
 
 Algorithmic trading has significantly reshaped the way investors participate in financial markets, leveraging technology to improve the speed, accuracy, and efficiency of financial transactions. This transformative approach employs advanced computational techniques and data analytics to execute trades that were traditionally managed manually, allowing traders to respond to market movements in milliseconds.

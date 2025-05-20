@@ -1,7 +1,8 @@
 ---
-title: Understanding Data Distributions in Machine Learning
+category: quant_concept
 description: Data distributions show how machine learning data spreads guiding algorithm
   selection data transformation and model evaluation. Discover more inside
+title: Understanding Data Distributions in Machine Learning
 ---
 
 ![Image](images/1.png)

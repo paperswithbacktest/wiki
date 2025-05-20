@@ -1,6 +1,9 @@
 ---
-title: "Comparison of Accrual and Cash Basis Accounting (Algo Trading)"
-description: "Explore the differences between cash and accrual accounting methods for algo trading. Learn which accounting strategy best suits your financial planning needs."
+category: quant_concept
+description: Explore the differences between cash and accrual accounting methods for
+  algo trading. Learn which accounting strategy best suits your financial planning
+  needs.
+title: Comparison of Accrual and Cash Basis Accounting (Algo Trading)
 ---
 
 Understanding the various methods of recording financial transactions is key for businesses and investors. Financial accounting methods provide frameworks to capture, record, and report a company's financial activities effectively, which can ultimately influence decision-making, business strategy, and regulatory compliance.

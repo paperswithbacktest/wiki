@@ -1,6 +1,12 @@
 ---
-title: "Companies Utilizing Blockchain for Transforming Travel (Algo Trading)"
-description: "Discover how blockchain technology is transforming the travel industry by enhancing customer experiences, improving security, and optimizing processes. Learn about companies pioneering blockchain innovations in travel, including smart contracts and digital identity management, and explore the intersection with algorithmic trading, overcoming adoption challenges, and leveraging new possibilities for a seamless travel ecosystem."
+category: quant_concept
+description: Discover how blockchain technology is transforming the travel industry
+  by enhancing customer experiences, improving security, and optimizing processes.
+  Learn about companies pioneering blockchain innovations in travel, including smart
+  contracts and digital identity management, and explore the intersection with algorithmic
+  trading, overcoming adoption challenges, and leveraging new possibilities for a
+  seamless travel ecosystem.
+title: Companies Utilizing Blockchain for Transforming Travel (Algo Trading)
 ---
 
 Blockchain technology is revolutionizing various industries with its innovative solutions. In the travel industry, companies are leveraging blockchain to enhance customer experience, improve security, and optimize processes. The travel industry has traditionally been fragmented, with flights, accommodations, and other services often operating in silos. This fragmentation leads to inefficiencies, higher costs, and inconsistent customer experiences.

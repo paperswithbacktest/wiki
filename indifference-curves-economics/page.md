@@ -1,6 +1,8 @@
 ---
-title: "Indifference Curves in Economics (Algo Trading)"
-description: "Explore how indifference curves in consumer theory can enhance algorithmic trading strategies by optimizing portfolio selections and risk management."
+category: quant_concept
+description: Explore how indifference curves in consumer theory can enhance algorithmic
+  trading strategies by optimizing portfolio selections and risk management.
+title: Indifference Curves in Economics (Algo Trading)
 ---
 
 Consumer theory serves as a central pillar in understanding economic behaviors, providing insights into how individuals and households make decisions to allocate their limited resources among various goods and services. Fundamentally, this theory revolves around the notion of utility, which represents the satisfaction consumers derive from consumption. Central to consumer theory is the concept of budget constraints, which limit the combinations of goods and services that a consumer can afford, given their income and the prices of these goods.

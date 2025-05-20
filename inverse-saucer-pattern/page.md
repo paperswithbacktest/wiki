@@ -1,6 +1,9 @@
 ---
-title: "Inverse Saucer Pattern (Algo Trading)"
-description: "Explore the inverse saucer pattern in algorithmic trading to identify potential market reversals. Understand its characteristics for improved trading strategies."
+category: trading_strategy
+description: Explore the inverse saucer pattern in algorithmic trading to identify
+  potential market reversals. Understand its characteristics for improved trading
+  strategies.
+title: Inverse Saucer Pattern (Algo Trading)
 ---
 
 Technical analysis is an essential tool for traders, providing insights into market trends and potential price movements through chart patterns. Chart patterns serve as visual representations of price movements and help traders identify market behaviors, aiding in making informed trading decisions. Among various patterns analyzed by traders, the inverse saucer, also known as a rounding top, stands out due to its distinct characteristics and implications.

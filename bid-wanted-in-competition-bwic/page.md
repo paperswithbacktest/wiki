@@ -1,6 +1,14 @@
 ---
-title: "Bid wanted in competition (BWIC) (Algo Trading)"
-description: Explore the dynamic intersection of Bid Wanted in Competition and algorithmic trading in the financial markets. Discover how BWIC processes enhance competitive pricing and transparency for institutional investors, particularly in trading less liquid assets. Learn about the pivotal role of algorithms in modernizing BWIC transactions, improving speed, efficiency, and accuracy, while maintaining privacy and aiding in effective price discovery. Delve into how technological advancements like machine learning, blockchain, and NLP are reshaping trading strategies, optimizing returns, and streamlining processes for a more efficient marketplace.
+category: quant_concept
+description: Explore the dynamic intersection of Bid Wanted in Competition and algorithmic
+  trading in the financial markets. Discover how BWIC processes enhance competitive
+  pricing and transparency for institutional investors, particularly in trading less
+  liquid assets. Learn about the pivotal role of algorithms in modernizing BWIC transactions,
+  improving speed, efficiency, and accuracy, while maintaining privacy and aiding
+  in effective price discovery. Delve into how technological advancements like machine
+  learning, blockchain, and NLP are reshaping trading strategies, optimizing returns,
+  and streamlining processes for a more efficient marketplace.
+title: Bid wanted in competition (BWIC) (Algo Trading)
 ---
 
 Bid Wanted in Competition (BWIC) represents a formalized process where institutional investors request bids on a package of securities from multiple dealers. This mechanism is pivotal in the financial markets, particularly for institutional investors, as it enables them to obtain competitive pricing and enhances market transparency. BWICs are primarily utilized in trading less liquid assets, such as bonds and certain currencies, where market prices are not always readily apparent. They serve as an essential tool for price discovery, allowing investors to gauge the current market value of assets more accurately.

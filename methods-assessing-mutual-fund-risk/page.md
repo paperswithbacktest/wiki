@@ -1,6 +1,9 @@
 ---
-title: "Methods for Assessing Mutual Fund Risk (Algo Trading)"
-description: "Explore methods to assess mutual fund risks with algorithmic trading to optimize returns and minimize losses through advanced financial analysis and prediction tools."
+category: trading_strategy
+description: Explore methods to assess mutual fund risks with algorithmic trading
+  to optimize returns and minimize losses through advanced financial analysis and
+  prediction tools.
+title: Methods for Assessing Mutual Fund Risk (Algo Trading)
 ---
 
 Evaluating risk in mutual fund investments is crucial for investors looking to optimize returns while minimizing potential losses. Mutual funds, which pool resources from multiple investors to invest in a diversified portfolio of assets, inherently carry various risks. These include market volatility, credit risks, and liquidity concerns. Assessing these risks allows investors to make informed decisions, aligning their portfolios with their risk tolerance and investment goals.

@@ -1,6 +1,8 @@
 ---
-title: "Ethereum Difficulty Bomb and Mining Challenges (Algo Trading)"
-description: "Explore Ethereum's Difficulty Bomb and its impact on mining and algorithmic trading. Learn how Ethereum's shift to Proof-of-Stake affects market dynamics."
+category: quant_concept
+description: Explore Ethereum's Difficulty Bomb and its impact on mining and algorithmic
+  trading. Learn how Ethereum's shift to Proof-of-Stake affects market dynamics.
+title: Ethereum Difficulty Bomb and Mining Challenges (Algo Trading)
 ---
 
 Ethereum is a decentralized, open-source blockchain platform that has become a pivotal component of the cryptocurrency ecosystem since its inception in 2015. Unlike Bitcoin, which primarily functions as a digital currency, Ethereum extends its blockchain capabilities to enable decentralized applications (DApps) through smart contracts. These programmable contracts are essential for automating and executing agreements without intermediaries, revolutionizing various industries, including finance, supply chain, and more.

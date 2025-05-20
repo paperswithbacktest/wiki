@@ -1,6 +1,8 @@
 ---
-title: "Record Date and Its Importance with Example (Algo Trading)"
-description: "Discover the importance of record dates in dividend investing and algorithmic trading Learn how they impact shareholder eligibility and trading strategies"
+category: quant_concept
+description: Discover the importance of record dates in dividend investing and algorithmic
+  trading Learn how they impact shareholder eligibility and trading strategies
+title: Record Date and Its Importance with Example (Algo Trading)
 ---
 
 The financial world is intricate, consisting of various elements crucial for informed investment decisions. Among these, understanding the concept of record dates holds particular importance. Record dates are essential in the financial market landscape, especially considering their significance in dividend investing and algorithmic trading strategies.

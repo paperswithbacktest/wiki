@@ -1,6 +1,8 @@
 ---
-title: "Fully Subscribed: Concept and Mechanism with Example (Algo Trading)"
-description: "Discover how fully subscribed IPOs work and the role of algorithmic trading in maximizing efficiency and demand. Learn key strategies and insights today."
+category: quant_concept
+description: Discover how fully subscribed IPOs work and the role of algorithmic trading
+  in maximizing efficiency and demand. Learn key strategies and insights today.
+title: 'Fully Subscribed: Concept and Mechanism with Example (Algo Trading)'
 ---
 
 In the ever-evolving world of finance, the constant emergence of innovative concepts and technology-driven processes is reshaping the landscape of trading and investment strategies. Recent developments have shown the potential of converging financial subscriptions within Initial Public Offerings (IPOs) with the capabilities of algorithmic trading to achieve fully subscribed offerings. As companies strive to facilitate efficient trading and attract investment, blending these two concepts stands out as a significant advancement.

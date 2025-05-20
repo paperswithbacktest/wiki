@@ -1,6 +1,14 @@
 ---
-title: "List of African stock exchanges (Algo Trading)"
-description: Discover how algorithmic trading is transforming African stock exchanges, enhancing efficiency, transparency, and liquidity across key markets like Johannesburg, Egypt, Nigeria, Casablanca, and Nairobi. As African economies evolve, the adoption of sophisticated trading technologies positions these exchanges as competitive players on the global stage, attracting both local and international investors. Explore how organizations like the African Securities Exchanges Association are driving collaboration and technological integration, fostering economic development and investment opportunities continent-wide.
+category: dataset
+description: Discover how algorithmic trading is transforming African stock exchanges,
+  enhancing efficiency, transparency, and liquidity across key markets like Johannesburg,
+  Egypt, Nigeria, Casablanca, and Nairobi. As African economies evolve, the adoption
+  of sophisticated trading technologies positions these exchanges as competitive players
+  on the global stage, attracting both local and international investors. Explore
+  how organizations like the African Securities Exchanges Association are driving
+  collaboration and technological integration, fostering economic development and
+  investment opportunities continent-wide.
+title: List of African stock exchanges (Algo Trading)
 ---
 
 Algorithmic trading is rapidly gaining traction in Africa, reshaping the landscape of financial markets on the continent. The increasingly digital nature of trading reflects a significant paradigm shift, where traditional stock exchanges are embedding modern technological advancements to enhance efficiency, transparency, and accessibility. The African continent, rich in diversity and emerging markets, stands at a pivotal juncture where stock exchanges play a crucial role in facilitating market activities and economic development.

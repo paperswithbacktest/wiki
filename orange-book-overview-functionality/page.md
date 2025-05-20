@@ -1,6 +1,9 @@
 ---
-title: "Orange Book Overview and Functionality (Algo Trading)"
-description: "Explore the critical role of FDA's Orange Book in the pharmaceutical and financial sectors learn how drug approvals impact markets and guide investment strategies."
+category: dataset
+description: Explore the critical role of FDA's Orange Book in the pharmaceutical
+  and financial sectors learn how drug approvals impact markets and guide investment
+  strategies.
+title: Orange Book Overview and Functionality (Algo Trading)
 ---
 
 The intersection of pharmaceuticals and finance presents a fascinating area of study, primarily driven by the complex and impactful process of drug approval, which significantly influences financial markets. One crucial component in this process is the FDA's Orange Book, formally known as the "Approved Drug Products with Therapeutic Equivalence Evaluations." This publication serves as an essential resource, listing drugs approved by the Food and Drug Administration (FDA) based on their safety and efficacy. The Orange Book holds importance not only in the healthcare sector, by guiding prescribers on therapeutic equivalence, but also in the financial world where it provides crucial data for investment decisions and market analysis.

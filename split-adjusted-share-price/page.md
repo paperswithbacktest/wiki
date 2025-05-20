@@ -1,6 +1,8 @@
 ---
-title: "Split-Adjusted Share Price (Algo Trading)"
-description: "Explore the intricacies of stock splits and share price adjustments in algorithmic trading ensuring accurate data for informed investment decisions."
+category: quant_concept
+description: Explore the intricacies of stock splits and share price adjustments in
+  algorithmic trading ensuring accurate data for informed investment decisions.
+title: Split-Adjusted Share Price (Algo Trading)
 ---
 
 Understanding the dynamics of stock splits, share price adjustments, and investment terms is crucial for any investor. A stock split is a corporate action whereby a company divides its existing shares into multiple new shares, increasing the number of shares outstanding while reducing the share price proportionally. This action is typically aimed at enhancing the stock's liquidity and making it more accessible to a broader array of investors. While a stock split does not inherently alter the market capitalization of a company, it can have significant psychological effects on investors and influence their trading behaviors.

@@ -1,6 +1,8 @@
 ---
-title: "Collectible Car Investment: Strategies and Considerations (Algo Trading)"
-description: "Discover strategies for investing in collectible cars including pitfalls and innovative methods like algorithmic trading to balance your financial portfolio."
+category: trading_strategy
+description: Discover strategies for investing in collectible cars including pitfalls
+  and innovative methods like algorithmic trading to balance your financial portfolio.
+title: 'Collectible Car Investment: Strategies and Considerations (Algo Trading)'
 ---
 
 Classic cars captivate enthusiasts and investors alike, offering more than just nostalgia; they hold the promise of financial returns that can rival or even surpass traditional investments. The charm of owning a piece of automotive history, combined with the potential for future appreciation, has cemented car collecting as a serious investment avenue. Beyond the joy of restoration and ownership, classic cars can transform into valuable assets, attracting a diverse group of investors seeking to balance their portfolios with tangible commodities.

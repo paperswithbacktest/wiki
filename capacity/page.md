@@ -1,6 +1,12 @@
 ---
-title: "Capacity (Algo Trading)"
-description: Explore the concept of capacity in algorithmic trading and learn how it influences the potential of trading strategies in handling large volumes while maintaining performance. Understand the key factors that affect capacity, such as market liquidity, execution speed, strategy complexity, asset volatility, and transaction costs. Discover strategies for maximizing capacity to optimize efficiency and enhance profitability, ensuring your algo trading strategies thrive in dynamic market environments.
+category: quant_concept
+description: Explore the concept of capacity in algorithmic trading and learn how
+  it influences the potential of trading strategies in handling large volumes while
+  maintaining performance. Understand the key factors that affect capacity, such as
+  market liquidity, execution speed, strategy complexity, asset volatility, and transaction
+  costs. Discover strategies for maximizing capacity to optimize efficiency and enhance
+  profitability, ensuring your algo trading strategies thrive in dynamic market environments.
+title: Capacity (Algo Trading)
 ---
 
 Algorithmic trading, commonly termed algo trading, employs sophisticated computer programs to conduct trades based on predefined strategies. This technological advancement has significantly transformed financial markets, enabling high-speed trading and mitigating emotional biases that often taint human decision-making. At the heart of algorithmic trading lies a crucial consideration: capacity. Capacity refers to a strategy's ability to manage larger trading volumes while maintaining optimal performance levels.

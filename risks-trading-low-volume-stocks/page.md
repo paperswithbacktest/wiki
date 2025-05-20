@@ -1,6 +1,8 @@
 ---
-title: "Risks of Trading Low-Volume Stocks (Algo Trading)"
-description: "Explore the unique risks tied to trading low-volume stocks in algorithmic trading including liquidity issues, price volatility, and strategic mitigation techniques."
+category: trading_strategy
+description: Explore the unique risks tied to trading low-volume stocks in algorithmic
+  trading including liquidity issues, price volatility, and strategic mitigation techniques.
+title: Risks of Trading Low-Volume Stocks (Algo Trading)
 ---
 
 The financial markets present a myriad of opportunities for both investors and traders, with stocks being one of the most noteworthy assets due to their potential for significant returns. However, among the diverse stock trading options available, low-volume stocks are distinctive, offering both complex challenges and promising opportunities. Low-volume stocks typically trade fewer than 10,000 shares daily, leading to unique market dynamics that can significantly impact trading strategies.

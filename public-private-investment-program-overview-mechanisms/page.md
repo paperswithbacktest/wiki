@@ -1,6 +1,9 @@
 ---
-title: "Public-Private Investment Program: Overview and Mechanisms (Algo Trading)"
-description: "Explore the Public-Private Investment Program and algorithmic trading the synergy that stabilizes financial markets by addressing risks and enhancing opportunities."
+category: trading_strategy
+description: Explore the Public-Private Investment Program and algorithmic trading
+  the synergy that stabilizes financial markets by addressing risks and enhancing
+  opportunities.
+title: 'Public-Private Investment Program: Overview and Mechanisms (Algo Trading)'
 ---
 
 Investment strategies in volatile markets require a combination of adaptive approaches to mitigate risk and capitalize on opportunities. One such strategy is the Public-Private Investment Program (PPIP), which emerged as a vital solution during financial crises, particularly during the 2007-2008 meltdown. This program, designed by the U.S. Treasury Department, aimed to stabilize financial markets by removing toxic assets from the balance sheets of financial institutions, thereby restoring market liquidity and confidence.

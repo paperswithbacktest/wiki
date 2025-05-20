@@ -1,6 +1,8 @@
 ---
-title: "Key Features of a Capitalist System (Algo Trading)"
-description: "Explore the synergy between capitalism and algorithmic trading shaping modern financial markets. Discover how tech-driven strategies optimize market efficiency."
+category: quant_concept
+description: Explore the synergy between capitalism and algorithmic trading shaping
+  modern financial markets. Discover how tech-driven strategies optimize market efficiency.
+title: Key Features of a Capitalist System (Algo Trading)
 ---
 
 The global economic landscape is shaped by a variety of economic systems, among which capitalism and market economies are notably prominent. Capitalism fundamentally hinges on the principles of private ownership, where individuals and corporations own and control property and resources. It thrives on the profit motive, urging entities to maximize revenue through production and commerce. Market competition further fuels this drive, as businesses seek to innovate and enhance efficiency to outpace competitors. These mechanisms collectively contribute to economic prosperity, fostering environments where economic growth and wealth accumulation are paramount.

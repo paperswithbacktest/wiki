@@ -1,6 +1,12 @@
 ---
-title: "Capitalization of Costs (Algo Trading)"
-description: "Explore the critical roles of accounting costs and capitalization in algorithmic trading. Understand how accurate financial reporting and effective cost management can influence trading success and firm stability in this fast-paced industry. Learn about the impact of development, data acquisition, and compliance costs, alongside the benefits of capitalizing expenditures for improved financial analysis and strategic decision-making."
+category: quant_concept
+description: Explore the critical roles of accounting costs and capitalization in
+  algorithmic trading. Understand how accurate financial reporting and effective cost
+  management can influence trading success and firm stability in this fast-paced industry.
+  Learn about the impact of development, data acquisition, and compliance costs, alongside
+  the benefits of capitalizing expenditures for improved financial analysis and strategic
+  decision-making.
+title: Capitalization of Costs (Algo Trading)
 ---
 
 The fast-paced world of algorithmic trading demands a comprehensive understanding of financial accounting principles to maintain competitive advantage and ensure regulatory compliance. Algorithmic trading involves utilizing computer programs to execute trading strategies at speeds and frequencies impossible for human traders. As these algorithms operate in milliseconds, any inaccuracies in financial reporting can have far-reaching consequences.

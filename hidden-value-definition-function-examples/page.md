@@ -1,6 +1,9 @@
 ---
-title: "Hidden Value: Definition, Function, and Examples (Algo Trading)"
-description: "Unlock hidden value in financial markets using investment value analysis and algorithmic trading Dive into strategies to identify undervalued assets for better returns"
+category: quant_concept
+description: Unlock hidden value in financial markets using investment value analysis
+  and algorithmic trading Dive into strategies to identify undervalued assets for
+  better returns
+title: 'Hidden Value: Definition, Function, and Examples (Algo Trading)'
 ---
 
 In the fast-evolving financial markets, investors are constantly on the lookout for unique opportunities to gain an edge. One such opportunity is the concept of hidden value, which often remains unnoticed by the mainstream investment community. Hidden value can be seen as undervalued or overlooked aspects of a financial asset or security, which may eventually yield significant returns once recognized by the market. This article aims to explore the intersection of investment value analysis and algorithmic trading, focusing on how investors can uncover hidden value within their portfolios.

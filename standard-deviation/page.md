@@ -1,6 +1,11 @@
 ---
-title: "Standard Deviation in Finance (Algo Trading)"
-description: Understand the vital role of standard deviation in financial analysis and algorithmic trading. This essential statistical measure indicates market volatility, helping traders assess risk and forecast price movements. Learn how Python and its libraries like NumPy and Pandas can compute standard deviation, aiding in developing strategies using tools like Bollinger Bands for more informed trading decisions.
+category: quant_concept
+description: Understand the vital role of standard deviation in financial analysis
+  and algorithmic trading. This essential statistical measure indicates market volatility,
+  helping traders assess risk and forecast price movements. Learn how Python and its
+  libraries like NumPy and Pandas can compute standard deviation, aiding in developing
+  strategies using tools like Bollinger Bands for more informed trading decisions.
+title: Standard Deviation in Finance (Algo Trading)
 ---
 
 Standard deviation is a fundamental statistical measure widely employed in quantitative finance, and its application is particularly prominent in algorithmic trading. As a measure of volatility, it provides traders with insights into the degree of variation or dispersion in a set of financial data points, such as prices or returns. In trading, understanding and quantifying volatility is crucial because it directly correlates with market uncertainty and risk. High volatility often indicates a higher risk, but it may also suggest greater potential for profit due to more significant price fluctuations.

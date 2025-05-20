@@ -1,6 +1,9 @@
 ---
-title: "Commodities as a Portfolio Hedge (Algo Trading)"
-description: "Explore how commodities, alongside algorithmic trading, can hedge portfolios against inflation, offering diversification and strategic advantages in uncertain markets."
+category: trading_strategy
+description: Explore how commodities, alongside algorithmic trading, can hedge portfolios
+  against inflation, offering diversification and strategic advantages in uncertain
+  markets.
+title: Commodities as a Portfolio Hedge (Algo Trading)
 ---
 
 In an ever-evolving financial market, investors continuously seek strategies that offer both risk management and return optimization. Integrating a commodities portfolio hedge with a robust investment strategy and leveraging algorithmic trading forms an intricate framework for navigating these dynamic markets. Commodities, which include both hard resources such as gold and oil, as well as soft goods like wheat, have unique properties that make them essential components in diversified investment portfolios.

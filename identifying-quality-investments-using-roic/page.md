@@ -1,6 +1,8 @@
 ---
-title: "Identifying Quality Investments Using Return on Invested Capital (Algo Trading)"
-description: "Discover how Return on Invested Capital (ROIC) enhances algorithmic trading with insights into selecting quality investments based on capital efficiency."
+category: trading_strategy
+description: Discover how Return on Invested Capital (ROIC) enhances algorithmic trading
+  with insights into selecting quality investments based on capital efficiency.
+title: Identifying Quality Investments Using Return on Invested Capital (Algo Trading)
 ---
 
 Return on Invested Capital (ROIC) is a fundamental financial metric that assesses a company's ability to efficiently allocate its capital towards generating profitable returns. This metric is crucial for investors and traders, particularly those engaged in algorithmic trading strategies that depend on precise financial indicators. By examining ROIC, individuals can gain valuable insights into a company's operational effectiveness and profitability, making it an essential tool for informed decision-making.
@@ -191,4 +193,3 @@ Morningstar's "Measuring Economic Moats: Identifying Companies with a Competitiv
 "Principles for Navigating Big Debt Crises" by Ray Dalio examines the impacts of debt on economies and businesses. Dalio's principles provide context for understanding how companies can effectively manage and allocate capital in times of financial distress, with ROIC serving as a benchmark for assessing resilience.
 
 "The Little Book of Valuation: How to Value a Company, Pick a Stock and Profit" by Aswath Damodaran acts as a guide for evaluating companies and making informed stock picks. It includes discussions on ROIC, offering insights into how investors can integrate this metric into their valuation assessments and investment decisions.
-

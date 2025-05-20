@@ -1,6 +1,9 @@
 ---
-title: "TIPS Spread: Definition, Mechanism, and Importance (Algo Trading)"
-description: "Discover the intricacies of TIPS spreads and their role in predicting inflation in financial markets Learn how treasury yields and algorithmic trading impact investments"
+category: quant_concept
+description: Discover the intricacies of TIPS spreads and their role in predicting
+  inflation in financial markets Learn how treasury yields and algorithmic trading
+  impact investments
+title: 'TIPS Spread: Definition, Mechanism, and Importance (Algo Trading)'
 ---
 
 The financial markets are a labyrinth of complexity, characterized by various elements that together shape investor sentiment and reflect the broader economic conditions. Among these, TIPS spreads, treasury yields, and algorithmic trading stand out as influential forces in today’s investment landscape.

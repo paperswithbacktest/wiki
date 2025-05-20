@@ -1,6 +1,9 @@
 ---
-title: "Understanding the Phrase 'Beat the Market' (Algo Trading)"
-description: "Unlock insights on beating the market through innovative algorithmic trading, exploring strategies to surpass standard benchmarks with precision and speed."
+category: quant_concept
+description: Unlock insights on beating the market through innovative algorithmic
+  trading, exploring strategies to surpass standard benchmarks with precision and
+  speed.
+title: Understanding the Phrase 'Beat the Market' (Algo Trading)
 ---
 
 'Beating the market' is a term that epitomizes success in the investing world. It refers to the ability of an investor or investment strategy to achieve returns that exceed a market benchmark like the S&P 500. This benchmark serves as a standard for measuring market performance, so surpassing it is often viewed as an indicator of superior investment skills or strategies.

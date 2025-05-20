@@ -1,7 +1,8 @@
 ---
-title: Effective Oversampling Techniques for Imbalanced Machine Learning
+category: trading_strategy
 description: Oversampling in machine learning balances imbalanced data by creating
   synthetic minority examples to boost model accuracy and fairness Discover more inside
+title: Effective Oversampling Techniques for Imbalanced Machine Learning
 ---
 
 ![Image](images/1.png)

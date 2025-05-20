@@ -1,6 +1,8 @@
 ---
-title: "Natural Unemployment Rate (Algo Trading)"
-description: "Discover how the natural unemployment rate influences algorithmic trading strategies. Explore key insights into unemployment economics and its market impact."
+category: quant_concept
+description: Discover how the natural unemployment rate influences algorithmic trading
+  strategies. Explore key insights into unemployment economics and its market impact.
+title: Natural Unemployment Rate (Algo Trading)
 ---
 
 In today's dynamic economic landscape, comprehending the interaction between economic indicators and trading strategies is essential. This article explores the nuances of unemployment economics, emphasizing the natural rate of unemployment and its influence on algorithmic trading. Understanding how unemployment rates, especially their natural levels, affect financial markets provides crucial insights for traders using algorithmic strategies.

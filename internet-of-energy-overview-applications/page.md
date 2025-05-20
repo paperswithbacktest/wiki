@@ -1,6 +1,8 @@
 ---
-title: "Internet of Energy: Overview and Applications (Algo Trading)"
-description: "Explore the Internet of Energy and its applications in algorithmic trading to enhance energy efficiency, optimize distribution, and support a sustainable future."
+category: quant_concept
+description: Explore the Internet of Energy and its applications in algorithmic trading
+  to enhance energy efficiency, optimize distribution, and support a sustainable future.
+title: 'Internet of Energy: Overview and Applications (Algo Trading)'
 ---
 
 The energy sector is undergoing a profound transformation spurred by the advent of the Internet of Energy (IoE). The IoE encompasses the integration of advanced technologies and intelligent systems within energy infrastructures, aiming to improve efficiency and promote sustainability. This evolution is critical as it marks a transition towards cleaner and more efficient energy production methods, which prioritize the reduction of waste and the optimal utilization of resources.

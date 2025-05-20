@@ -1,6 +1,8 @@
 ---
-title: "Ethereum: Overview and Functionality (Algo Trading)"
-description: "Explore Ethereum's impact on algorithmic trading as it combines blockchain technology with smart contracts to enhance security, efficiency, and innovation."
+category: quant_concept
+description: Explore Ethereum's impact on algorithmic trading as it combines blockchain
+  technology with smart contracts to enhance security, efficiency, and innovation.
+title: 'Ethereum: Overview and Functionality (Algo Trading)'
 ---
 
 Ethereum is a pioneering decentralized platform that has significantly reshaped the landscape of digital finance and technology. As a leading force in the cryptocurrency domain, Ethereum goes beyond being just a digital currency; it is an open-source, blockchain-based platform that enables the creation and execution of smart contracts without downtime, fraud, or interference from third parties.

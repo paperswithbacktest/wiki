@@ -1,6 +1,12 @@
 ---
-title: "Free Rider Problem: Causes and Solutions (Algo Trading)"
-description: "Explore the free rider problem in economic theory and its impact on various fields, including automated trading strategies. Delve into the challenges of maintaining public goods due to their non-excludability and non-rivalrous nature, which often results in market failures. Understand how the free rider problem leads to inefficiencies in resource allocation, particularly in financial markets, and discover strategies to promote collective welfare and market efficiency."
+category: quant_concept
+description: Explore the free rider problem in economic theory and its impact on various
+  fields, including automated trading strategies. Delve into the challenges of maintaining
+  public goods due to their non-excludability and non-rivalrous nature, which often
+  results in market failures. Understand how the free rider problem leads to inefficiencies
+  in resource allocation, particularly in financial markets, and discover strategies
+  to promote collective welfare and market efficiency.
+title: 'Free Rider Problem: Causes and Solutions (Algo Trading)'
 ---
 
 The free rider problem is a fundamental concept in economic theory, particularly concerning public goods. Public goods are characterized by their non-excludability and non-rivalrous consumption, meaning individuals can benefit without directly contributing to their provision. This can lead to challenges in maintaining and distributing these resources effectively. The free rider problem impacts various domains, including automated trading strategies, economic policies, and broader resource management.

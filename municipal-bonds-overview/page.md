@@ -1,6 +1,12 @@
 ---
-title: "Municipal Bonds Overview (Algo Trading)"
-description: "Explore the world of municipal bonds in this comprehensive guide covering their role in public finance investment benefits like tax-exempt interest and the shift towards algorithmic trading. Understand the distinct types of municipal bonds from general obligation to revenue bonds and the associated risks and advantages of investing in them. Get insights into how algorithmic trading is enhancing market efficiency and how investors can optimize portfolios amidst evolving technologies."
+category: quant_concept
+description: Explore the world of municipal bonds in this comprehensive guide covering
+  their role in public finance investment benefits like tax-exempt interest and the
+  shift towards algorithmic trading. Understand the distinct types of municipal bonds
+  from general obligation to revenue bonds and the associated risks and advantages
+  of investing in them. Get insights into how algorithmic trading is enhancing market
+  efficiency and how investors can optimize portfolios amidst evolving technologies.
+title: Municipal Bonds Overview (Algo Trading)
 ---
 
 Municipal bonds, commonly referred to as 'munis', are a form of debt security issued by a variety of government entities, including states, municipalities, or counties. These bonds provide a vital mechanism for local governments to raise funds necessary for substantial public projects, which span the construction of schools, the development of highways, and the enhancement of utility systems. The issuance of municipal bonds serves not only as a tool for public finance but also as a vehicle to bridge the gap between government infrastructure needs and available budgetary resources.

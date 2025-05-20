@@ -1,6 +1,8 @@
 ---
-title: "Comparison of Barter and Currency Systems (Algo Trading)"
-description: "Explore the evolution of trade from barter to currency and algorithmic trading Discover how these systems have shaped modern economic practices and efficiencies"
+category: quant_concept
+description: Explore the evolution of trade from barter to currency and algorithmic
+  trading Discover how these systems have shaped modern economic practices and efficiencies
+title: Comparison of Barter and Currency Systems (Algo Trading)
 ---
 
 Economic systems have been pivotal in the development of trade and finance, significantly impacting how societies manage the exchange of goods and services. Historically, these systems have transitioned from the straightforward direct exchanges of the barter system to more complex structures involving currency and, more recently, sophisticated algorithmic trading. Each stage in this progression has brought about unique transformations and efficiencies in how marketplaces operate.

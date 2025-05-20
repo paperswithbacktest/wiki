@@ -1,6 +1,9 @@
 ---
-title: "Global Single Currency (Algo Trading)"
-description: "Explore the potential of a global currency in reshaping economic stability and cross-border transactions while examining the role of algorithmic trading in its feasibility."
+category: quant_concept
+description: Explore the potential of a global currency in reshaping economic stability
+  and cross-border transactions while examining the role of algorithmic trading in
+  its feasibility.
+title: Global Single Currency (Algo Trading)
 ---
 
 In a world that is increasingly interconnected through trade and technology, the concept of a single global currency is garnering rigorous discussion. A global currency, functioning across all borders, could transform international economics by significantly simplifying transactions and promoting economic stability. Such an innovation could remove the complexities of currency exchange rates, reduce transaction costs, and enhance predictability in cross-border economic activities. 

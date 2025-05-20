@@ -1,6 +1,12 @@
 ---
-title: "Secondary Market: Functionality and Pricing (Algo Trading)"
-description: "Discover insights into the secondary market and algorithmic trading as components of financial markets. This page covers the processes behind trading existing securities, examines the role of pricing in market operations, and explores the significant impact of algorithmic trading on efficiency and cost reduction. Learn about the types of financial markets and understand how they facilitate resource allocation and economic growth."
+category: quant_concept
+description: Discover insights into the secondary market and algorithmic trading as
+  components of financial markets. This page covers the processes behind trading existing
+  securities, examines the role of pricing in market operations, and explores the
+  significant impact of algorithmic trading on efficiency and cost reduction. Learn
+  about the types of financial markets and understand how they facilitate resource
+  allocation and economic growth.
+title: 'Secondary Market: Functionality and Pricing (Algo Trading)'
 ---
 
 Financial markets are complexes of systems and mechanisms wherein financial instruments, such as stocks, bonds, currencies, and derivatives, are created, traded, and regulated. They play a pivotal role in the allocation of economic resources and the facilitation of global trade and investment, thus significantly impacting the global economy. By acting as a conduit between savers and borrowers, financial markets enhance capital formation, which is essential for the economic growth and development of countries.

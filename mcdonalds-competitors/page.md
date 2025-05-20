@@ -1,6 +1,8 @@
 ---
-title: "McDonald's Competitors (Algo Trading)"
-description: "Explore how McDonald's and its top competitors utilize algorithmic trading to navigate the dynamic fast-food industry and adapt to market changes."
+category: dataset
+description: Explore how McDonald's and its top competitors utilize algorithmic trading
+  to navigate the dynamic fast-food industry and adapt to market changes.
+title: McDonald's Competitors (Algo Trading)
 ---
 
 The fast-food industry is a dynamic and highly competitive market, with major players like McDonald's at the forefront. Founded in 1940, McDonald's has set the benchmark for efficiency and scale, making it a household name globally. This sector's appeal can largely be attributed to its ability to evolve with changing consumer preferences and technological advancements. In recent years, technology has not only transformed operational aspects but also the ways investors and analysts assess these businesses. One significant technological development is algorithmic trading, which automates investment decisions through advanced algorithms that analyze vast datasets.

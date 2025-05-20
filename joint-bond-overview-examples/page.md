@@ -1,6 +1,9 @@
 ---
-title: "Joint Bond: Overview and Examples (Algo Trading)"
-description: "Explore the dynamics of joint bonds and algorithmic trading in modern finance Learn about bond mechanics, efficiency enhancements, and strategic investment insights"
+category: quant_concept
+description: Explore the dynamics of joint bonds and algorithmic trading in modern
+  finance Learn about bond mechanics, efficiency enhancements, and strategic investment
+  insights
+title: 'Joint Bond: Overview and Examples (Algo Trading)'
 ---
 
 In today's financial landscape, understanding the mechanics of bonds and their trading strategies is crucial for investors and institutions alike. Bonds, which act as debt securities, have long been fundamental components in investment portfolios, serving as a means for governments and corporations to raise capital. However, as financial markets evolve, so too do the complexities and strategies surrounding bond investments. This article explores core concepts including joint bonds, bond mechanics, and algorithmic trading, which are reshaping the bond market.

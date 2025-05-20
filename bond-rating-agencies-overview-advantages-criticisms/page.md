@@ -1,6 +1,9 @@
 ---
-title: "Bond Rating Agencies: Overview, Advantages, and Criticisms (Algo Trading)"
-description: "Discover how bond rating agencies impact investment strategies through credit assessments and algorithmic trading insights contributing to market stability and efficiency."
+category: quant_concept
+description: Discover how bond rating agencies impact investment strategies through
+  credit assessments and algorithmic trading insights contributing to market stability
+  and efficiency.
+title: 'Bond Rating Agencies: Overview, Advantages, and Criticisms (Algo Trading)'
 ---
 
 The financial markets represent a complex ecosystem where credit agencies, financial ratings, and bond ratings play integral roles in shaping investment landscapes. These entities and metrics are pivotal in facilitating informed investment decisions by evaluating and communicating the risk and creditworthiness associated with debt securities. This article examines how these critical elements interact with and influence algorithmic trading, an increasingly dominant fixture in modern financial markets.

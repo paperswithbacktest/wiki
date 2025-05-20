@@ -1,6 +1,8 @@
 ---
-title: "Money Market Funds: Types, Advantages, and Risks (Algo Trading)"
-description: "Explore the advantages and risks of money market funds and algorithmic trading. Learn how to balance liquidity and risk for optimal investment strategies."
+category: quant_concept
+description: Explore the advantages and risks of money market funds and algorithmic
+  trading. Learn how to balance liquidity and risk for optimal investment strategies.
+title: 'Money Market Funds: Types, Advantages, and Risks (Algo Trading)'
 ---
 
 Money market funds and algorithmic trading are pivotal components of contemporary financial landscapes. Money market funds, often described as mutual funds, invest in short-term, high-quality debt instruments such as Treasury bills, certificates of deposit (CDs), and other cash equivalents. They offer high liquidity and are generally considered low-risk investments, making them suitable for investors seeking stability and quick access to cash. Algorithmic trading, on the other hand, involves using computer algorithms to execute trades at speeds and frequencies that would be impossible for a human trader. Its primary aim is to minimize human error, optimize trade executions, and leverage market opportunities.

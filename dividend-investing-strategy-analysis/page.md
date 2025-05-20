@@ -1,6 +1,8 @@
 ---
-title: "Dividend Investing Strategy Analysis (Algo Trading)"
-description: "Explore the synergy between dividend investing and algorithmic trading to form a robust strategy that combines steady income with dynamic market opportunities."
+category: trading_strategy
+description: Explore the synergy between dividend investing and algorithmic trading
+  to form a robust strategy that combines steady income with dynamic market opportunities.
+title: Dividend Investing Strategy Analysis (Algo Trading)
 ---
 
 In today’s diversified investment world, it is crucial for investors to choose strategies that align with their long-term objectives and risk tolerance. Among these strategies, dividend investing has become increasingly popular due to its potential to provide steady income. This approach involves purchasing shares in companies that regularly distribute a portion of their earnings to shareholders in the form of dividends. Such companies often exhibit strong financial health and stability, attributes that tend to reassure investors during periods of market volatility.

@@ -1,6 +1,9 @@
 ---
-title: "Risk in Investing: Measurement and Management (Algo Trading)"
-description: "Explore essential risk measurement and management strategies in algo trading to enhance investment success and navigate fast-paced market environments effectively."
+category: quant_concept
+description: Explore essential risk measurement and management strategies in algo
+  trading to enhance investment success and navigate fast-paced market environments
+  effectively.
+title: 'Risk in Investing: Measurement and Management (Algo Trading)'
 ---
 
 Risk management and measurement are fundamental components of investment strategy, especially in algorithmic trading. In an environment where financial markets operate at unprecedented speeds, it is essential for investors and traders to understand and manage risks effectively to achieve sustainable success. This article investigates the principles of investment risk and risk measurement, emphasizing their significance in risk management for algorithmic trading. 

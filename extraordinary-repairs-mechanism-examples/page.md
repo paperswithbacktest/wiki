@@ -1,6 +1,9 @@
 ---
-title: "Extraordinary Repairs: Definition, Mechanism, and Examples (Algo Trading)"
-description: "Explore the importance of extraordinary repairs, asset maintenance, and capital improvements in the context of algorithmic trading to enhance financial efficiency and asset management."
+category: quant_concept
+description: Explore the importance of extraordinary repairs, asset maintenance, and
+  capital improvements in the context of algorithmic trading to enhance financial
+  efficiency and asset management.
+title: 'Extraordinary Repairs: Definition, Mechanism, and Examples (Algo Trading)'
 ---
 
 In today's dynamic financial landscape, factors such as asset maintenance, capital improvements, and algorithmic trading are vital in enhancing financial efficiency. These components are key to managing assets effectively and ensuring that investments yield maximum returns. This article will examine the concepts of extraordinary repairs, asset maintenance, and capital improvements, and explore their interaction with algorithmic trading.

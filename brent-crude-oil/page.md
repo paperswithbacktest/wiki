@@ -1,6 +1,11 @@
 ---
-title: "Brent Crude Oil (Algo Trading)"
-description: "Explore the intricacies of Brent Crude Oil, a key benchmark in the oil market, influenced by the rise of algorithmic trading. This article investigates into its properties, significance as a market index, and the transformative role of technology in modern trading. Essential insights for navigating the complexities of global crude oil markets."
+category: dataset
+description: Explore the intricacies of Brent Crude Oil, a key benchmark in the oil
+  market, influenced by the rise of algorithmic trading. This article investigates
+  into its properties, significance as a market index, and the transformative role
+  of technology in modern trading. Essential insights for navigating the complexities
+  of global crude oil markets.
+title: Brent Crude Oil (Algo Trading)
 ---
 
 Brent Crude Oil is a principal benchmark heavily utilized by traders and speculators within the global oil market. Known for its lightness and low sulfur content, or "sweetness," Brent Crude is a favored option for refining into valuable end products like diesel and gasoline. Extracted from the North Sea, it plays a crucial role in setting prices for two-thirds of the world's internationally traded crude oil supplies, alongside other major benchmarks like West Texas Intermediate (WTI) and Dubai/Oman.

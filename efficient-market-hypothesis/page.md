@@ -1,6 +1,9 @@
 ---
-title: "Efficient Market Hypothesis (Algo Trading)"
-description: "Explore how algorithmic trading impacts the Efficient Market Hypothesis EMH assessing its effect on market efficiency and challenging traditional financial theories."
+category: quant_concept
+description: Explore how algorithmic trading impacts the Efficient Market Hypothesis
+  EMH assessing its effect on market efficiency and challenging traditional financial
+  theories.
+title: Efficient Market Hypothesis (Algo Trading)
 ---
 
 The Efficient Market Hypothesis (EMH) is a pivotal concept in financial economics, positing that at any particular time, asset prices fully incorporate all available information. This hypothesis was introduced by Eugene Fama in the 1970s and has since garnered substantial research interest and debate within academic and professional circles. At its core, the EMH is grounded in the notion of market efficiency, which suggests that it is infeasible to consistently achieve returns that exceed the average market returns when adjusted for risk. Essentially, under EMH, the likelihood of outperforming the market through expert stock selection or market timing is nullified because asset prices are always reflective of available data.

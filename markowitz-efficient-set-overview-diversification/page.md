@@ -1,6 +1,8 @@
 ---
-title: "Markowitz Efficient Set: Overview and Diversification (Algo Trading)"
-description: "Explore the Markowitz Efficient Set to understand optimal portfolio diversification and balance risk and return, essential for strategic algo trading."
+category: quant_concept
+description: Explore the Markowitz Efficient Set to understand optimal portfolio diversification
+  and balance risk and return, essential for strategic algo trading.
+title: 'Markowitz Efficient Set: Overview and Diversification (Algo Trading)'
 ---
 
 The Markowitz Efficient Set, a concept originating from the groundbreaking work of Harry Markowitz, represents a cornerstone of modern portfolio theory. Introduced in his seminal 1952 paper, Markowitz's efficient set or efficient frontier provides a systematic approach to portfolio diversification by illustrating the optimal trade-offs between risk and return. The model demonstrates how rational investors can construct portfolios to achieve a desired level of return with the minimum possible risk, a balance that is crucial in effective investment strategy formulation. 

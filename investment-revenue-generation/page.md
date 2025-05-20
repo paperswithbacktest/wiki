@@ -1,6 +1,9 @@
 ---
-title: "Investment Revenue Generation (Algo Trading)"
-description: "Discover the potential of algorithmic trading to enhance investment revenue. Explore benefits, strategies, and key factors essential for successful algo trading profitability."
+category: trading_strategy
+description: Discover the potential of algorithmic trading to enhance investment revenue.
+  Explore benefits, strategies, and key factors essential for successful algo trading
+  profitability.
+title: Investment Revenue Generation (Algo Trading)
 ---
 
 Algorithmic trading, commonly referred to as algo trading, has emerged as a pivotal innovation in financial markets, significantly enhancing the speed and precision of trade executions. This form of trading employs computer algorithms to execute orders by following pre-defined criteria, thereby eliminating the emotional biases often present in human decision-making processes. The rapid advancement of technology and access to real-time data have further accelerated its adoption, reshaping traditional trading methodologies.

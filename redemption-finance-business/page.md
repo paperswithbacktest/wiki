@@ -1,6 +1,8 @@
 ---
-title: "Redemption in Finance and Business (Algo Trading)"
-description: "Discover the role of redemption in finance and how algo trading is revolutionizing modern financial markets with precision and speed for investors."
+category: quant_concept
+description: Discover the role of redemption in finance and how algo trading is revolutionizing
+  modern financial markets with precision and speed for investors.
+title: Redemption in Finance and Business (Algo Trading)
 ---
 
 In today's dynamic financial world, the integration of advanced technology in trading has profoundly transformed traditional practices. Algorithmic trading, often referred to as algo trading, stands at the forefront of this transformation, offering increased efficiency and precision. By leveraging complex algorithms and powerful computing capabilities, algo trading enables the execution of trades at speeds and frequencies unattainable by human traders. 

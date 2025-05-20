@@ -1,6 +1,8 @@
 ---
-title: "Cost of Equity: Calculation and Examples (Algo Trading)"
-description: "Explore the cost of equity as a key financial metric essential for companies and investors to assess investment decisions using models like CAPM and DDM."
+category: quant_concept
+description: Explore the cost of equity as a key financial metric essential for companies
+  and investors to assess investment decisions using models like CAPM and DDM.
+title: 'Cost of Equity: Calculation and Examples (Algo Trading)'
 ---
 
 In this article, we explore the cost of equity, a vital financial metric for both companies and investors. The cost of equity represents the return that a company must earn to justify an investment decision, and it reflects the expected return required by investors to invest in a company's stock. Calculating the cost of equity involves various models and formulas, each offering unique insights into the financial health of a company and the potential returns for investors. As the financial sector continues to advance with automation and algorithmic trading, the significance of understanding the cost of equity becomes pivotal in crafting informed investment strategies.

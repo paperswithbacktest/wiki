@@ -1,6 +1,8 @@
 ---
-title: "Activist Hedge Funds and Profitability (Algo Trading)"
-description: "Explore how activist hedge funds and algorithmic trading are reshaping finance with innovative strategies that maximize profitability and shareholder value."
+category: trading_strategy
+description: Explore how activist hedge funds and algorithmic trading are reshaping
+  finance with innovative strategies that maximize profitability and shareholder value.
+title: Activist Hedge Funds and Profitability (Algo Trading)
 ---
 
 The world of finance is experiencing significant transformation, with hedge funds and algorithmic trading leading this evolution. Hedge funds, specifically activist hedge funds, have adopted unique investment strategies to maximize profitability by engaging directly with company managements to unlock shareholder value. This direct engagement includes a range of tactics like proxy battles and strategic investments, which have been redefined by technological advancements over time.

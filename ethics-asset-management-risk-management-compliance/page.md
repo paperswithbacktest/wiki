@@ -1,6 +1,9 @@
 ---
-title: "Ethics in Asset Management: Risk Management and Compliance (Algo Trading)"
-description: "Explore the integral role of risk management, ethics, compliance, and algorithmic trading in modern asset management to ensure ethical practices and market resilience."
+category: quant_concept
+description: Explore the integral role of risk management, ethics, compliance, and
+  algorithmic trading in modern asset management to ensure ethical practices and market
+  resilience.
+title: 'Ethics in Asset Management: Risk Management and Compliance (Algo Trading)'
 ---
 
 Risk management, ethics, compliance, and algorithmic trading are pivotal components in modern asset management, serving as the foundational cornerstones for safeguarding investments, ensuring adherence to regulatory standards, and maintaining ethical trading practices. The integration of these crucial elements has become increasingly significant since the 2008 financial crisis, which highlighted the vulnerabilities within financial systems due to inadequate oversight and risk management practices. Consequently, these components have not only become integral to sound asset management but also vital to the promotion and establishment of robust financial systems that are resilient to market disruptions.

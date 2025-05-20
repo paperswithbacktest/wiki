@@ -1,6 +1,9 @@
 ---
-title: "Range in Trading: Examples and Implications (Algo Trading)"
-description: "Explore how trading range analysis and algorithmic trading can enhance trading strategies by identifying market equilibrium phases and anticipating price movements."
+category: trading_strategy
+description: Explore how trading range analysis and algorithmic trading can enhance
+  trading strategies by identifying market equilibrium phases and anticipating price
+  movements.
+title: 'Range in Trading: Examples and Implications (Algo Trading)'
 ---
 
 Financial markets are vital components of the global economy, offering platforms for the buying and selling of assets like stocks, bonds, commodities, and currencies. These markets facilitate capital raising, risk management, and hedge against various economic scenarios, thereby sustaining economic growth and wealth creation. A trading range in financial markets signifies a period where the price of a financial instrument moves within a confined boundary, denoted by a consistent high and low. This phenomenon often reflects phases of market equilibrium, indicating stability or investor indecision. Identifying trading ranges is crucial for traders, as it helps in anticipating potential price movements and strategizing accordingly.

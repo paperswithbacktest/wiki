@@ -1,6 +1,9 @@
 ---
-title: "Barbell Strategy in Investing (Algo Trading)"
-description: "Explore the Barbell Strategy in investing which combines high-risk and low-risk assets to balance potential returns and risk mitigation in algorithmic trading."
+category: trading_strategy
+description: Explore the Barbell Strategy in investing which combines high-risk and
+  low-risk assets to balance potential returns and risk mitigation in algorithmic
+  trading.
+title: Barbell Strategy in Investing (Algo Trading)
 ---
 
 Understanding investment strategies is essential for investors aiming to optimize their portfolios and achieve their financial objectives. Among such strategies, the Barbell Strategy stands out as a distinctive approach that harmonizes the potential for high returns with the mitigation of risk. This method involves a calculated distribution of investments that eschews middle-risk assets in favor of both high-risk and low-risk securities, thereby establishing a balanced portfolio with diversified risk exposure.

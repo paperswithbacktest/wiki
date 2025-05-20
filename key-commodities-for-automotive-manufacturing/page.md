@@ -1,6 +1,8 @@
 ---
-title: "Key Commodities for Automotive Manufacturing (Algo Trading)"
-description: "Explore how essential commodities like steel and aluminum drive automotive manufacturing and understand the impact of algorithmic trading on commodity markets."
+category: quant_concept
+description: Explore how essential commodities like steel and aluminum drive automotive
+  manufacturing and understand the impact of algorithmic trading on commodity markets.
+title: Key Commodities for Automotive Manufacturing (Algo Trading)
 ---
 
 The automotive industry is fundamentally dependent on a spectrum of commodities that serve as essential input materials for vehicle production. These materials form the backbone of car manufacturing, dictating the design, durability, and efficiency of the vehicles. This exploration focuses on understanding how these commodities, including metals like steel and aluminum, as well as advanced plastics and glass, are integral to automotive manufacturing processes.

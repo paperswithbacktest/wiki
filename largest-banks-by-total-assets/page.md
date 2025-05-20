@@ -1,6 +1,12 @@
 ---
-title: "Largest Banks by Total Assets (Algo Trading)"
-description: "Explore the evolution of the global banking industry as major banks leverage algorithmic trading to enhance financial strategies and asset management. Discover how leading institutions with substantial assets like JPMorgan Chase and ICBC use advanced algorithms for precision, efficiency, and risk mitigation. This article reveals the synergy between algo trading and asset management in shaping modern banking strategies."
+category: quant_concept
+description: Explore the evolution of the global banking industry as major banks leverage
+  algorithmic trading to enhance financial strategies and asset management. Discover
+  how leading institutions with substantial assets like JPMorgan Chase and ICBC use
+  advanced algorithms for precision, efficiency, and risk mitigation. This article
+  reveals the synergy between algo trading and asset management in shaping modern
+  banking strategies.
+title: Largest Banks by Total Assets (Algo Trading)
 ---
 
 In recent years, the global banking industry has experienced substantial changes, largely driven by technological advancements. Among these advancements, algorithmic trading has come to the forefront as a significant factor shaping the financial strategies of the world's largest banks. Algorithmic trading, commonly known as algo trading, refers to the use of computer algorithms to automate trading decisions and execute orders based on predetermined conditions. This technology utilizes sophisticated mathematical models and rapid data analysis to predict market trends, optimize trading strategies, and execute trades with precision and speed.

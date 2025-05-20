@@ -1,6 +1,8 @@
 ---
-title: "CREST: Function and Applications in Stock Trading (Algo Trading)"
-description: "Explore how CREST and algorithmic trading are revolutionizing stock markets in the UK and Ireland by improving efficiency, liquidity, and transaction speed."
+category: quant_concept
+description: Explore how CREST and algorithmic trading are revolutionizing stock markets
+  in the UK and Ireland by improving efficiency, liquidity, and transaction speed.
+title: 'CREST: Function and Applications in Stock Trading (Algo Trading)'
 ---
 
 The landscape of stock trading has been continuously evolving, driven by technological advancements and complex trading systems. Recently, the Certificateless Registry for Electronic Share Transfer (CREST) and algorithmic trading have emerged as pivotal forces reshaping modern financial markets. These innovations have significantly transformed the United Kingdom and Irish stock markets by enhancing efficiency and streamlining trading processes.

@@ -1,6 +1,9 @@
 ---
-title: "Section 1202 Of The Internal Revenue Code And Small Business Tax Benefits (Algo Trading)"
-description: "Explore the intersection of IRC Section 1202 small business tax benefits, and algo trading Discover strategies to optimize tax outcomes and investment returns"
+category: quant_concept
+description: Explore the intersection of IRC Section 1202 small business tax benefits,
+  and algo trading Discover strategies to optimize tax outcomes and investment returns
+title: Section 1202 Of The Internal Revenue Code And Small Business Tax Benefits (Algo
+  Trading)
 ---
 
 The Internal Revenue Code (IRC) Section 1202, also known as the Qualified Small Business Stock (QSBS) provision, is a significant element in U.S. tax law designed to incentivize investment in small businesses. By offering substantial tax benefits to investors, Section 1202 aims to encourage economic growth and innovation. Primarily, it allows non-corporate taxpayers to exclude a major portion, or sometimes all, of the gain realized from the sale of QSBS, provided certain conditions are met. This incentive plays a crucial role in bolstering small businesses, which are often considered the backbone of the U.S. economy due to their role in job creation and innovation.

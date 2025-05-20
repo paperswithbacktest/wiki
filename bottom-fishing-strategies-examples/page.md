@@ -1,6 +1,9 @@
 ---
-title: "Bottom Fishing Strategies and Examples (Algo Trading)"
-description: "Discover how bottom fishing strategies in stock trading utilize algorithmic tools to identify undervalued stocks poised for recovery and optimize investment returns."
+category: trading_strategy
+description: Discover how bottom fishing strategies in stock trading utilize algorithmic
+  tools to identify undervalued stocks poised for recovery and optimize investment
+  returns.
+title: Bottom Fishing Strategies and Examples (Algo Trading)
 ---
 
 The stock market represents a labyrinth of opportunities and challenges, making it an intimidating environment for both new and seasoned investors. One strategy that holds particular allure is 'bottom fishing,' a method through which investors attempt to identify and capitalize on stocks that are undervalued and positioned for recovery. This approach inherently involves careful scrutiny of market signals, seeking those securities whose prices have declined temporarily, often due to adverse market conditions rather than reflecting the underlying financial health of the company.

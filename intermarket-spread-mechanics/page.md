@@ -1,6 +1,9 @@
 ---
-title: "Intermarket Spread Mechanics (Algo Trading)"
-description: "Explore intermarket spread trading with algo trading to capitalize on market inefficiencies by offsetting positions in correlated markets for reduced risk."
+category: trading_strategy
+description: Explore intermarket spread trading with algo trading to capitalize on
+  market inefficiencies by offsetting positions in correlated markets for reduced
+  risk.
+title: Intermarket Spread Mechanics (Algo Trading)
 ---
 
 In the fast-paced world of financial trading, strategies such as intermarket spread trading have gained traction among seasoned traders looking to exploit market inefficiencies. Intermarket spread trading involves taking simultaneous long and short positions in different but related markets, thereby offering the opportunity to profit from relative price movements rather than absolute market directions. One of the core advantages of this approach is its ability to reduce risk compared to more straightforward directional trading by offsetting market exposure and thereby adding a layer of diversification.

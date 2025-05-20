@@ -1,6 +1,8 @@
 ---
-title: "Risk-Adjusted Discount Rate Guide (Algo Trading)"
-description: "Understand how risk-adjusted discount rates like CAPM help evaluate investments in algorithmic trading by factoring in volatility to determine true value."
+category: quant_concept
+description: Understand how risk-adjusted discount rates like CAPM help evaluate investments
+  in algorithmic trading by factoring in volatility to determine true value.
+title: Risk-Adjusted Discount Rate Guide (Algo Trading)
 ---
 
 The concept of risk-adjusted discount rates is integral to investment finance and algorithmic trading. These rates are sophisticated tools that help investors evaluate the true economic value of investments by factoring in the inherent risk associated with future cash flows. Traditionally, discount rates are used to convert future cash flows into their present value, facilitating comparison and valuation. However, not all investments carry the same level of risk. This is where risk-adjusted discount rates become crucial, as they modify the discount rate to reflect the risk profile of specific investments or projects.

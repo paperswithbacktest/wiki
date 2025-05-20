@@ -1,6 +1,8 @@
 ---
-title: "Independence of Central Banks (Algo Trading)"
-description: "Explore the dynamic between central banks and algorithmic trading focusing on the independence vital for monetary policy and its influence on global economies."
+category: quant_concept
+description: Explore the dynamic between central banks and algorithmic trading focusing
+  on the independence vital for monetary policy and its influence on global economies.
+title: Independence of Central Banks (Algo Trading)
 ---
 
 In the contemporary world of finance, the interplay between central banking, monetary policy, and algorithmic trading is crucial. Central banks, such as the Federal Reserve in the United States, play a pivotal role in managing economic stability. They achieve this by formulating and implementing monetary policy, which involves controlling interest rates and regulating the money supply to influence economic growth and inflation rates. This responsibility is vital in promoting a stable financial environment that supports sustainable economic expansion.

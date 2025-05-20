@@ -1,6 +1,9 @@
 ---
-title: "Mr. Market: 75th Anniversary, Key Lessons, and Warren Buffett's Insights (Algo Trading)"
-description: "Discover how Warren Buffett's timeless investment lessons apply to algorithmic trading in this exploration of traditional wisdom and modern technology."
+category: quant_concept
+description: Discover how Warren Buffett's timeless investment lessons apply to algorithmic
+  trading in this exploration of traditional wisdom and modern technology.
+title: 'Mr. Market: 75th Anniversary, Key Lessons, and Warren Buffett''s Insights
+  (Algo Trading)'
 ---
 
 Warren Buffett, often regarded as one of the most successful investors of all time, is renowned for his exceptional ability to identify value in the stock market and hold investments for the long term. His investment firm, Berkshire Hathaway, has consistently delivered outstanding returns, establishing Buffett as a paragon of prudent investment practices. Buffett's approach is deeply influenced by his mentor, Benjamin Graham, who introduced the concept of "Mr. Market" to illustrate the often irrational nature of the stock market. Mr. Market is a metaphorical figure embodying market volatility and investor sentiment, presenting opportunities for astute investors to make informed decisions based on rational analysis rather than emotional response.

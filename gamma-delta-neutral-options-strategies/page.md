@@ -1,6 +1,8 @@
 ---
-title: "Gamma-Delta Neutral Options Strategies (Algo Trading)"
-description: "Explore gamma-delta neutral options strategies for risk management in algorithmic trading. Learn to balance gamma, delta, and theta for stable profits."
+category: trading_strategy
+description: Explore gamma-delta neutral options strategies for risk management in
+  algorithmic trading. Learn to balance gamma, delta, and theta for stable profits.
+title: Gamma-Delta Neutral Options Strategies (Algo Trading)
 ---
 
 Options trading encompasses a diverse range of strategies designed to accommodate varying risk tolerance levels and profit objectives. At the core of these strategies are neutral approaches that strive to reduce the sensitivity of a position to price movements, thereby stabilizing its value. These strategies appeal to traders who prefer to manage risk rather than chase high returns in volatile market conditions.

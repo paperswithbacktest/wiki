@@ -1,6 +1,9 @@
 ---
-title: "Financial Responsibility Law (Algo Trading)"
-description: "Explore the impact of financial responsibility laws on algorithmic trading, focusing on insurance requirements, risk management, and legal compliance in evolving markets."
+category: quant_concept
+description: Explore the impact of financial responsibility laws on algorithmic trading,
+  focusing on insurance requirements, risk management, and legal compliance in evolving
+  markets.
+title: Financial Responsibility Law (Algo Trading)
 ---
 
 In today's interconnected world, the convergence of finance, technology, and law is increasingly pertinent. This synergy is particularly evident with the advent of algorithmic trading, which has reshaped financial markets by integrating advanced computational techniques and automated processes. As trading becomes more reliant on algorithms, understanding financial responsibility and prevailing insurance requirements becomes crucial to ensure the stability and integrity of these markets.

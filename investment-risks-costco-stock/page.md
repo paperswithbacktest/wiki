@@ -1,6 +1,8 @@
 ---
-title: "Investment Risks Associated with Costco Stock (Algo Trading)"
-description: "Explore potential risks and opportunities of investing in Costco stock including market volatility and the impact of algorithmic trading strategies."
+category: trading_strategy
+description: Explore potential risks and opportunities of investing in Costco stock
+  including market volatility and the impact of algorithmic trading strategies.
+title: Investment Risks Associated with Costco Stock (Algo Trading)
 ---
 
 Investing in the stock market presents a unique combination of opportunities and risks that every investor must navigate. The potential for significant financial gain is available, yet it is accompanied by various risk factors that can affect investment outcomes. Understanding these risks is paramount for investors who aim to make informed decisions and optimize their investment strategies.

@@ -1,6 +1,13 @@
 ---
-title: "AmiBroker Review (Algo Trading)"
-description: Explore how Amibroker empowers algorithmic traders with its comprehensive range of charting and analysis tools. This review highlights Amibroker's standout features like robust backtesting, customizable trading systems, and user-friendly interface, making it an indispensable resource for optimizing strategies and enhancing market performance. Discover the benefits of using Amibroker, including its cost-effective licensing model and the flexibility of Amibroker Formula Language, helping you to tailor strategies and improve decision-making in a dynamic trading environment.
+category: trading_strategy
+description: Explore how Amibroker empowers algorithmic traders with its comprehensive
+  range of charting and analysis tools. This review highlights Amibroker's standout
+  features like robust backtesting, customizable trading systems, and user-friendly
+  interface, making it an indispensable resource for optimizing strategies and enhancing
+  market performance. Discover the benefits of using Amibroker, including its cost-effective
+  licensing model and the flexibility of Amibroker Formula Language, helping you to
+  tailor strategies and improve decision-making in a dynamic trading environment.
+title: AmiBroker Review (Algo Trading)
 ---
 
 Algorithmic trading refers to the use of computational algorithms to automate trading processes, optimizing speed and volume of transactions beyond human capability. It typically involves establishing rules for trade entries, exits, and risk management, relying on historical data analysis and quantitative models to make informed decisions. The intricacy of these algorithms varies, ranging from simple moving averages to complex machine learning models. Over recent years, algorithmic trading has surged in popularity due to its capacity to execute trades at lightning speed, minimize costs, and reduce human errors. This has attracted institutional investors and individual traders alike, transforming it into a cornerstone of modern financial markets.

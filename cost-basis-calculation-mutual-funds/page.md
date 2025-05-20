@@ -1,6 +1,8 @@
 ---
-title: "Cost Basis Calculation for Mutual Funds Over Time (Algo Trading)"
-description: "Discover how algorithmic trading enhances mutual fund cost basis calculation for tax efficiency and optimized investment strategies. Maximize financial outcomes."
+category: quant_concept
+description: Discover how algorithmic trading enhances mutual fund cost basis calculation
+  for tax efficiency and optimized investment strategies. Maximize financial outcomes.
+title: Cost Basis Calculation for Mutual Funds Over Time (Algo Trading)
 ---
 
 Cost basis calculation is a fundamental concept for any long-term investor dealing with mutual funds, particularly those involved in algorithmic trading. This calculation is crucial because it determines the original value of an asset for tax purposes, affecting the gains or losses when the asset is sold. Consequently, a precise calculation can significantly influence tax liabilities and, as a result, the overall performance of an investment portfolio.

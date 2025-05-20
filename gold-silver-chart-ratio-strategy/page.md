@@ -1,6 +1,11 @@
 ---
-title: "Gold-Silver Ratio Trading Strategy Explained (Algo Trading)"
-description: Discover the dynamics of the gold-silver ratio and its impact on algorithmic trading. Learn how this ratio serves as a key indicator, helping traders identify lucrative opportunities between gold and silver, with its historical context and fluctuations shaped by economic and geopolitical factors. Optimize your trading strategy using the gold-silver ratio for insightful market analysis.
+category: trading_strategy
+description: Discover the dynamics of the gold-silver ratio and its impact on algorithmic
+  trading. Learn how this ratio serves as a key indicator, helping traders identify
+  lucrative opportunities between gold and silver, with its historical context and
+  fluctuations shaped by economic and geopolitical factors. Optimize your trading
+  strategy using the gold-silver ratio for insightful market analysis.
+title: Gold-Silver Ratio Trading Strategy Explained (Algo Trading)
 ---
 
 The gold-silver ratio is a prominent metric in the field of trading, offering a quantitative assessment of the relative value between gold and silver. Mathematically defined as the quotient of the current price of gold divided by that of silver, this ratio indicates how many ounces of silver are necessary to purchase one ounce of gold. Traders closely monitor this ratio as it provides insights into market sentiment and potential trading opportunities.

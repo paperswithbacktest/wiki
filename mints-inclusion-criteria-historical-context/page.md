@@ -1,6 +1,9 @@
 ---
-title: "MINTs: Inclusion Criteria and Historical Context (Algo Trading)"
-description: "Explore the inclusion criteria and historical context of the MINT countries for algorithmic trading insights. Learn about their economic potential and growth opportunities."
+category: quant_concept
+description: Explore the inclusion criteria and historical context of the MINT countries
+  for algorithmic trading insights. Learn about their economic potential and growth
+  opportunities.
+title: 'MINTs: Inclusion Criteria and Historical Context (Algo Trading)'
 ---
 
 The MINT countries—Mexico, Indonesia, Nigeria, and Turkey—stand as emerging pillars in the global economy, offering significant opportunities for growth and development. These nations have exhibited certain shared characteristics that signal their potential to impact global markets significantly. By analyzing the criteria that led to their identification as MINT countries and examining their unique historical economic trajectories, investors can garner important insights.

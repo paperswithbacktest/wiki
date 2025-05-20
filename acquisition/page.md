@@ -1,6 +1,13 @@
 ---
-title: "Acquisition (Algo Trading)"
-description: "Explore the interplay between corporate acquisitions, business acquisitions, and algorithmic trading in the modern financial landscape. Learn how companies utilize acquisitions to enhance market share, capabilities, and technological infrastructure, boosting algo trading efficiency. Understand the strategic significance of these mechanisms in driving growth, managing risks, and optimizing resources. Discover how these strategies contribute to sustaining long-term competitive advantages in today's dynamic market environment."
+category: quant_concept
+description: Explore the interplay between corporate acquisitions, business acquisitions,
+  and algorithmic trading in the modern financial landscape. Learn how companies utilize
+  acquisitions to enhance market share, capabilities, and technological infrastructure,
+  boosting algo trading efficiency. Understand the strategic significance of these
+  mechanisms in driving growth, managing risks, and optimizing resources. Discover
+  how these strategies contribute to sustaining long-term competitive advantages in
+  today's dynamic market environment.
+title: Acquisition (Algo Trading)
 ---
 
 In today’s rapidly evolving business landscape, corporate acquisitions, business acquisitions, and algorithmic trading, commonly known as algo trading, have become essential strategies. These mechanisms are crucial in driving growth, increasing efficiency, and gaining a competitive edge. Corporate acquisitions typically involve one company purchasing another in entirety, allowing for expansion in terms of market share, capabilities, or competitive positioning. Business acquisitions, as a subset of corporate acquisitions, focus on acquiring specific business units or assets, strategically chosen to complement or enhance existing operations.

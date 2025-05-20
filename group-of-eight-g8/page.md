@@ -1,6 +1,8 @@
 ---
-title: "Group of Eight (G8) (Algo Trading)"
-description: "Explore the intricate dynamics of the G8 and the transformative impact of algorithmic trading on global financial markets and policies."
+category: quant_concept
+description: Explore the intricate dynamics of the G8 and the transformative impact
+  of algorithmic trading on global financial markets and policies.
+title: Group of Eight (G8) (Algo Trading)
 ---
 
 The Group of Eight (G8) was formed as a consortium of the world’s leading industrialized nations, primarily to foster economic growth, stabilize financial systems, and address critical global challenges through cooperation and dialogue. Comprised initially of the United States, United Kingdom, Canada, Germany, Japan, Italy, France, and Russia, the G8 represented a significant portion of the global economy and wielded considerable influence in international economic policies. Central to its mission was the promotion of open markets and economic sustainability, which necessitated diplomatic engagement among member states to synchronize policies and initiatives that address global economic and monetary issues.

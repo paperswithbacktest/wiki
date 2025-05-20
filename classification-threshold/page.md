@@ -1,7 +1,8 @@
 ---
-title: Adjusting Classification Thresholds in Machine Learning Models
+category: quant_concept
 description: Classification threshold helps balance precision and recall in machine
   learning by customizing decision cutoffs to your application Discover more inside.
+title: Adjusting Classification Thresholds in Machine Learning Models
 ---
 
 ![Image](images/1.png)

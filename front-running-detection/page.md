@@ -1,6 +1,8 @@
 ---
-title: "Front-running detection (Algo Trading)"
-description: "Discover the threats of front-running in algorithmic trading and explore the technological and regulatory measures designed to safeguard market integrity."
+category: quant_concept
+description: Discover the threats of front-running in algorithmic trading and explore
+  the technological and regulatory measures designed to safeguard market integrity.
+title: Front-running detection (Algo Trading)
 ---
 
 Front-running in algorithmic trading represents a pressing concern for maintaining the integrity of financial markets. This unethical practice involves traders using non-public information or pending orders to gain an unfair advantage. By exploiting insider information or leveraging pending customer orders, traders can engage in transactions that benefit them at the expense of other market participants. This practice not only erodes investor trust but also distorts market prices and competitive transparency.

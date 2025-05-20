@@ -1,6 +1,9 @@
 ---
-title: "Cash Settlement: Overview and Advantages (Algo Trading)"
-description: "Explore the advantages of cash settlements in trading futures and options focusing on streamlined processes and enhanced liquidity facilitated by algorithmic trading."
+category: quant_concept
+description: Explore the advantages of cash settlements in trading futures and options
+  focusing on streamlined processes and enhanced liquidity facilitated by algorithmic
+  trading.
+title: 'Cash Settlement: Overview and Advantages (Algo Trading)'
 ---
 
 The financial world encompasses a diverse array of methods for settling investments and trades, each offering distinct advantages and potential drawbacks. Among these, cash settlements stand out as a prevalent method, especially in trading futures and options. This approach involves settling transactions in cash rather than exchanging the underlying asset, making it a vital component of modern financial markets.

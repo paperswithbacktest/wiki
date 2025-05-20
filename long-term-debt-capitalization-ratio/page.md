@@ -1,6 +1,8 @@
 ---
-title: "Long-Term Debt to Capitalization Ratio (Algo Trading)"
-description: "Explore how understanding debt to capitalization ratios enhances algorithmic trading strategies by improving risk management and optimizing investment outcomes."
+category: quant_concept
+description: Explore how understanding debt to capitalization ratios enhances algorithmic
+  trading strategies by improving risk management and optimizing investment outcomes.
+title: Long-Term Debt to Capitalization Ratio (Algo Trading)
 ---
 
 In the rapidly evolving financial landscape, understanding key metrics is crucial for investors and analysts. This article explores essential financial calculations, specifically focusing on the debt ratio and capitalization, and their relevance in algorithmic trading. Debt ratio is a significant indicator, measuring the proportion of a company's assets that are financed by debt, offering insights into its leverage levels. Capitalization, which involves the assessment of the extent to which a firm uses debt versus equity in its capital structure, is equally vital. These metrics are essential for evaluating a company's financial health and stability.

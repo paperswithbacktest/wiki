@@ -1,6 +1,9 @@
 ---
-title: "Benefits of Bond Portfolios (Algo Trading)"
-description: "Enhance your bond portfolio's stability and returns using algorithmic trading. Explore the benefits of automated trading in optimizing bond investments and managing risks."
+category: trading_strategy
+description: Enhance your bond portfolio's stability and returns using algorithmic
+  trading. Explore the benefits of automated trading in optimizing bond investments
+  and managing risks.
+title: Benefits of Bond Portfolios (Algo Trading)
 ---
 
 In the evolving landscape of investment, bond portfolios remain a cornerstone for investors seeking stability and steady income. Bonds are fixed-income instruments that provide a regular interest payout, making them a preferred choice for risk-averse investors aiming to preserve capital while generating predictable returns. Historically, bond investments have been regarded as safer compared to stocks due to their lower volatility and reliable income-generating ability. 

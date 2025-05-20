@@ -1,7 +1,8 @@
 ---
-title: L2 Regularization in Machine Learning to Prevent Overfitting
+category: quant_concept
 description: L2 regularization adds a penalty on model weights to reduce overfitting
   and boost reliability on unseen data and tune lambda Discover more inside
+title: L2 Regularization in Machine Learning to Prevent Overfitting
 ---
 
 ![Image](images/1.png)

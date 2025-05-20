@@ -1,7 +1,8 @@
 ---
-title: Guide to Hyperparameter Tuning for Machine Learning Models
+category: trading_strategy
 description: Hyperparameter tuning optimizes machine learning models through grid
   search random search and Bayesian methods to boost performance Discover more inside
+title: Guide to Hyperparameter Tuning for Machine Learning Models
 ---
 
 ![Image](images/1.png)

@@ -1,6 +1,9 @@
 ---
-title: "Strategies for Reducing Cyclical Unemployment by Policymakers (Algo Trading)"
-description: "Explore strategies to reduce cyclical unemployment amid economic downturns and the impact of algorithmic trading on markets guiding policymakers in adapting to new challenges."
+category: quant_concept
+description: Explore strategies to reduce cyclical unemployment amid economic downturns
+  and the impact of algorithmic trading on markets guiding policymakers in adapting
+  to new challenges.
+title: Strategies for Reducing Cyclical Unemployment by Policymakers (Algo Trading)
 ---
 
 Cyclical unemployment and algorithmic trading represent two prominent phenomena in today's socioeconomic landscape, each significantly affecting the labor market and economic stability. Cyclical unemployment, a concept deeply rooted in macroeconomic theory, is characterized by job loss resulting from economic downturns and reductions in aggregate demand. During periods of recession, businesses experience declining sales, leading to cost-cutting measures such as workforce reductions. This type of unemployment is distinct from structural or frictional unemployment, as it is directly connected to the ups and downs of economic cycles. The global financial crisis of 2007-2009 serves as a poignant example of how cyclical unemployment can surge during economic contractions, echoing its broad impact on the workforce.

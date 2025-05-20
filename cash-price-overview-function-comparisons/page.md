@@ -1,6 +1,8 @@
 ---
-title: "Cash Price: Overview, Function, and Comparisons (Algo Trading)"
-description: "Explore the role of cash price or spot price in algorithmic trading Learn how advanced models impact trading strategies and financial decisions"
+category: quant_concept
+description: Explore the role of cash price or spot price in algorithmic trading Learn
+  how advanced models impact trading strategies and financial decisions
+title: 'Cash Price: Overview, Function, and Comparisons (Algo Trading)'
 ---
 
 The financial landscape has witnessed a significant shift due to technological advancements, dramatically altering the utilization of pricing models. These models are essential tools for determining the value of assets in financial and commodity markets. With the advent of sophisticated algorithmic trading systems, understanding the nuances of these models has become crucial for market participants. The precision and speed offered by advanced technology allow for the application of complex models that integrate large datasets for more accurate predictions.

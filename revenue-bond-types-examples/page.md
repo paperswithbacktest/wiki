@@ -1,6 +1,9 @@
 ---
-title: "Revenue Bond Types and Examples (Algo Trading)"
-description: "Explore the types and features of revenue bonds utilized in financing projects, and discover the role of algorithmic trading in optimizing bond market transactions."
+category: quant_concept
+description: Explore the types and features of revenue bonds utilized in financing
+  projects, and discover the role of algorithmic trading in optimizing bond market
+  transactions.
+title: Revenue Bond Types and Examples (Algo Trading)
 ---
 
 Bonds are essential financial instruments widely used by governments, municipalities, and corporations to raise capital. They are fixed income securities that represent a loan made by an investor to a borrower. As part of this loan agreement, the borrower promises to pay the interest at specified intervals and to return the principal amount upon maturity. The significance of bonds in the investment landscape is profound. Investors often turn to bonds for predictable income streams and portfolio diversification, as they tend to be less risky compared to equities. Bonds also serve as a barometer for economic health and are integral in the determination of interest rates across markets.

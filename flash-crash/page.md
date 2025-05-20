@@ -1,6 +1,8 @@
 ---
-title: "Flash Crash (Algo Trading)"
-description: "Explore the impact of algorithmic trading on financial markets. Discover how flash crashes happen, their consequences, and efforts to mitigate risks."
+category: quant_concept
+description: Explore the impact of algorithmic trading on financial markets. Discover
+  how flash crashes happen, their consequences, and efforts to mitigate risks.
+title: Flash Crash (Algo Trading)
 ---
 
 Algorithmic trading has significantly transformed the landscape of global finance by enhancing the speed and efficiency of market transactions. This sophisticated approach leverages advanced algorithms to execute trades at velocities unattainable by human traders. While the advantages of this method are clear, it has also brought about new challenges, notably the phenomenon known as flash crashes. These are sudden, severe market declines that occur within extremely short time frames, often shaking investor confidence and disrupting financial markets.
@@ -102,4 +104,3 @@ Kirilenko, A., Kyle, A. S., Samadi, M., & Tuzun, T. (2017). "The Flash Crash: Hi
 Gsell, M. (2009). "Assessing the Impact of Algorithmic Trading on Markets: A Simulation Approach." Doctoral Thesis, University of Hohenheim. Gsell's dissertation employs simulation techniques to study the effects of algorithmic trading on market dynamics, highlighting potential benefits and pitfalls of these strategies under different market conditions.
 
 Aldridge, I. (2013). "High-Frequency Trading: A Practical Guide to Algorithmic Strategies and Trading Systems." Wiley. Aldridge's book serves as a comprehensive resource on high-frequency trading, detailing various algorithmic strategies and the technological infrastructure behind these systems. It also covers risk management considerations essential for minimizing adverse market impacts.
-

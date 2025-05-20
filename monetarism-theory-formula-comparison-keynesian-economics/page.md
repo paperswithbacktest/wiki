@@ -1,6 +1,9 @@
 ---
-title: "Monetarism: Theory, Formula, and Comparison with Keynesian Economics (Algo Trading)"
-description: "Explore the intersection of Keynesian Economics and Monetarism with algorithmic trading Discover their impact on modern financial strategies and market dynamics"
+category: quant_concept
+description: Explore the intersection of Keynesian Economics and Monetarism with algorithmic
+  trading Discover their impact on modern financial strategies and market dynamics
+title: 'Monetarism: Theory, Formula, and Comparison with Keynesian Economics (Algo
+  Trading)'
 ---
 
 Economic theories are pivotal in guiding the development of macroeconomic policies and financial strategies. This article aims to provide an insightful exploration of the intersections between Keynesian Economics, Monetarism, and the evolving domain of algorithmic trading. It is essential to understand these theories' core principles, differences, and shared aspects, as they remain significantly relevant in contemporary financial markets.

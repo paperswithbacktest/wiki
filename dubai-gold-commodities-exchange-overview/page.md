@@ -1,6 +1,8 @@
 ---
-title: "Dubai Gold & Commodities Exchange Overview (Algo Trading)"
-description: "Explore algo trading on the Dubai Gold and Commodities Exchange and discover its innovative trading strategies and diverse futures and options."
+category: quant_concept
+description: Explore algo trading on the Dubai Gold and Commodities Exchange and discover
+  its innovative trading strategies and diverse futures and options.
+title: Dubai Gold & Commodities Exchange Overview (Algo Trading)
 ---
 
 The Dubai Gold and Commodities Exchange (DGCX) is a premier commodities exchange in the Middle East, renowned for its innovative approach and the diverse range of products it offers in futures and options trading. Established in 2005 and headquartered in Dubai, the DGCX is a wholly owned subsidiary of the Dubai Multi Commodities Centre (DMCC), an entity conceived to elevate Dubai's status as a prominent global financial hub. The creation of DGCX marked a strategic move to enhance the region's financial market infrastructure by providing a comprehensive platform that supports futures trading across multiple asset classes. 

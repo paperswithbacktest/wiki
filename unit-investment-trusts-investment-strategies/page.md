@@ -1,6 +1,14 @@
 ---
-title: "Unit Investment Trusts and Investment Strategies (Algo Trading)"
-description: "Explore the dynamic world of Unit Investment Trusts (UITs) and algorithmic trading strategies in this comprehensive guide. Discover how UITs, with their fixed portfolios, provide predictability and diversification, while algorithmic trading enhances investment strategies through speed and precision. Learn about the integration of these two methods to potentially boost returns and manage risk effectively. Delve into the benefits and risks, technological tools, and future trends that shape these innovative financial strategies. This article guides investors through the essential aspects and opportunities of combining UITs with algorithmic trading."
+category: trading_strategy
+description: Explore the dynamic world of Unit Investment Trusts (UITs) and algorithmic
+  trading strategies in this comprehensive guide. Discover how UITs, with their fixed
+  portfolios, provide predictability and diversification, while algorithmic trading
+  enhances investment strategies through speed and precision. Learn about the integration
+  of these two methods to potentially boost returns and manage risk effectively. Delve
+  into the benefits and risks, technological tools, and future trends that shape these
+  innovative financial strategies. This article guides investors through the essential
+  aspects and opportunities of combining UITs with algorithmic trading.
+title: Unit Investment Trusts and Investment Strategies (Algo Trading)
 ---
 
 Unit Investment Trusts (UITs) are professionally managed, fixed portfolios of stocks, bonds, or other securities that maintain a static composition for a specified term. Unlike mutual funds or exchange-traded funds (ETFs), UITs are not actively managed; their portfolios remain unchanged throughout their predetermined life span. This unique characteristic provides investors with predictability and transparency, making UITs a distinct choice for diversification and professional management within investment portfolios.

@@ -1,6 +1,8 @@
 ---
-title: "Jain Global (Algo Trading)"
-description: "Discover Jain Global a leader in algorithmic trading providing cutting-edge technologies to enhance trading precision and efficiency for all market participants."
+category: trading_strategy
+description: Discover Jain Global a leader in algorithmic trading providing cutting-edge
+  technologies to enhance trading precision and efficiency for all market participants.
+title: Jain Global (Algo Trading)
 ---
 
 Algorithmic trading has witnessed a surge in popularity in recent years, transforming the landscape of financial markets. This innovative approach leverages computer algorithms to execute trading strategies with precision and efficiency, significantly reducing the reliance on human intervention. As market volatility and trading volumes increase, algorithmic trading offers a systematic method for traders to capture opportunities and manage risks.

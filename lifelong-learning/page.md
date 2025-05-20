@@ -1,7 +1,8 @@
 ---
-title: Implementing Lifelong Learning in Machine Learning Systems
+category: quant_concept
 description: Lifelong learning lets AI systems adapt and improve continuously by balancing
   retention and new data management for stable performance Discover more inside
+title: Implementing Lifelong Learning in Machine Learning Systems
 ---
 
 ![Image](images/1.png)

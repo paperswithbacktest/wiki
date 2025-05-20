@@ -1,6 +1,9 @@
 ---
-title: "Daniel Kahneman: Education, Achievements, and Legacy (Algo Trading)"
-description: "Discover Daniel Kahneman's revolutionary contributions to psychology and economics that have transformed understanding of decision-making and impacted algorithmic trading."
+category: quant_concept
+description: Discover Daniel Kahneman's revolutionary contributions to psychology
+  and economics that have transformed understanding of decision-making and impacted
+  algorithmic trading.
+title: 'Daniel Kahneman: Education, Achievements, and Legacy (Algo Trading)'
 ---
 
 Daniel Kahneman is widely acknowledged as a pivotal figure in psychology and economics. A Nobel Laureate, his pioneering research has fundamentally altered our comprehension of human judgment and decision-making, particularly within economic contexts. Kahneman's contributions extend beyond traditional disciplines, bridging psychology and economics to shed light on how individuals and markets behave under uncertainty. Through his innovative work, he has illuminated the cognitive processes influencing decision-making, highlighting the departure from pure rationality in human behavior. This article examines Kahneman's legacy, tracing his key achievements, educational journey, and the far-reaching impact of his theories on domains such as algorithmic trading.

@@ -1,6 +1,9 @@
 ---
-title: "Largest State-Owned Oil Companies (Algo Trading)"
-description: "Explore the synergy between state-owned oil companies and algorithmic trading. Discover how technology optimizes trading efficiency and shapes the energy sector's future."
+category: quant_concept
+description: Explore the synergy between state-owned oil companies and algorithmic
+  trading. Discover how technology optimizes trading efficiency and shapes the energy
+  sector's future.
+title: Largest State-Owned Oil Companies (Algo Trading)
 ---
 
 The energy industry is a cornerstone of the global economy, with oil companies serving as some of its most influential players. These companies, particularly those under state ownership, such as Saudi Aramco and Rosneft, have a profound impact on market dynamics, influencing oil prices, production rates, and energy security. State ownership introduces unique challenges and advantages, shaping trading practices and policies in significant ways.

@@ -1,6 +1,11 @@
 ---
-title: "Impact of Crude Oil Inventories on the Petroleum Economy (Algo Trading)"
-description: "Discover the intricate relationship between crude oil inventories and the petroleum economy, focusing on algorithmic trading's influence. Learn how inventory levels impact market equilibrium, affecting prices and investment strategies, and explore how advanced trading technologies provide insights, offering both challenges and opportunities for stakeholders navigating the complex oil market landscape."
+category: trading_strategy
+description: Discover the intricate relationship between crude oil inventories and
+  the petroleum economy, focusing on algorithmic trading's influence. Learn how inventory
+  levels impact market equilibrium, affecting prices and investment strategies, and
+  explore how advanced trading technologies provide insights, offering both challenges
+  and opportunities for stakeholders navigating the complex oil market landscape.
+title: Impact of Crude Oil Inventories on the Petroleum Economy (Algo Trading)
 ---
 
 The global oil market plays a pivotal role in the world economy, influencing everything from fuel prices to geopolitical relations. As one of the most traded commodities, oil is integral to various sectors, from transportation to manufacturing, making it critical to economic stability and growth. The price and availability of oil are subject to a myriad of factors, including geopolitical tensions, production levels, and market perceptions, which together create a dynamic and often volatile market landscape.

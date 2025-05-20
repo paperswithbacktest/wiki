@@ -1,6 +1,8 @@
 ---
-title: "Debt-To-Capital Ratio Reduction Strategies (Algo Trading)"
-description: "Explore effective strategies to reduce the debt-to-capital ratio using algorithmic trading and financial management to enhance business growth and stability."
+category: trading_strategy
+description: Explore effective strategies to reduce the debt-to-capital ratio using
+  algorithmic trading and financial management to enhance business growth and stability.
+title: Debt-To-Capital Ratio Reduction Strategies (Algo Trading)
 ---
 
 In today’s dynamic financial landscape, businesses continuously seek strategies to optimize their financial health and maximize shareholder value. To achieve these objectives, they rely on a combination of capital management, debt reduction, and algorithmic trading. These elements are not isolated; they form an interconnected framework that underpins corporate financial strategies. 

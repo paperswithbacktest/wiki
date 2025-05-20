@@ -1,6 +1,8 @@
 ---
-title: "Bonferroni Correction Usage (Algo Trading)"
-description: "Discover how the Bonferroni correction enhances algorithmic trading by minimizing false positives in multiple tests, ensuring robust statistical accuracy."
+category: quant_concept
+description: Discover how the Bonferroni correction enhances algorithmic trading by
+  minimizing false positives in multiple tests, ensuring robust statistical accuracy.
+title: Bonferroni Correction Usage (Algo Trading)
 ---
 
 In data-driven finance, achieving statistical accuracy is crucial, especially for algorithmic trading. Algorithmic trading refers to using computer algorithms to automate stock trading decisions, aiming for efficiency and rapid responses to market changes. A significant challenge within this domain is the multiple comparisons problem. This occurs when multiple statistical tests are conducted on the same dataset, thereby increasing the likelihood of false positives, or Type I errors, where results appear significant but are actually due to chance.

@@ -1,6 +1,8 @@
 ---
-title: "Basis Risk: Definition, Types, Formula, and Examples (Algo Trading)"
-description: "Explore basis risk in algorithmic trading with insights into its types, examples, and management strategies to enhance risk efficiency and minimize losses."
+category: quant_concept
+description: Explore basis risk in algorithmic trading with insights into its types,
+  examples, and management strategies to enhance risk efficiency and minimize losses.
+title: 'Basis Risk: Definition, Types, Formula, and Examples (Algo Trading)'
 ---
 
 In financial risk management and algorithmic trading, recognizing different risk types is essential for developing robust strategies. Basis risk, a significant financial risk, arises from mismatches between the prices of financial instruments used in hedging. This article focuses on basis risk, examining its implications, measurement, and mitigation strategies within algorithmic trading. Conceptualizing basis risk in this context is vital for optimizing trading strategies and minimizing potential financial losses.

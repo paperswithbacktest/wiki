@@ -1,6 +1,14 @@
 ---
-title: "Exchange Rates: Mechanics and Causes of Fluctuation (Algo Trading)"
-description: "Explore the dynamics of exchange rates and currency fluctuations in the global economy. Understand how economic indicators, geopolitical factors, and market sentiment impact international trade and investments. Discover the role of algorithmic trading in the forex market, offering advanced tools for risk management and trading efficiency. This comprehensive guide examines the causes of currency fluctuations, exchange rate types, and future trends shaping currency interactions. Ideal for businesses and investors seeking to navigate the complexities of global finance and leverage technological advancements in forex trading."
+category: quant_concept
+description: Explore the dynamics of exchange rates and currency fluctuations in the
+  global economy. Understand how economic indicators, geopolitical factors, and market
+  sentiment impact international trade and investments. Discover the role of algorithmic
+  trading in the forex market, offering advanced tools for risk management and trading
+  efficiency. This comprehensive guide examines the causes of currency fluctuations,
+  exchange rate types, and future trends shaping currency interactions. Ideal for
+  businesses and investors seeking to navigate the complexities of global finance
+  and leverage technological advancements in forex trading.
+title: 'Exchange Rates: Mechanics and Causes of Fluctuation (Algo Trading)'
 ---
 
 Exchange rates and currency fluctuations are integral elements of the global economy with impactful consequences on trade, tourism, and investments. These fluctuations are driven by a complex interplay of factors, including economic indicators such as interest and inflation rates, geopolitical developments, and market sentiment. Exchange rates essentially represent the relative value of one currency against another and can either be free-floating or pegged to another currency or a basket of currencies. The foreign exchange (forex) market, where these currencies are traded, is the largest and most liquid financial market in the world, with daily trading volumes exceeding $6 trillion as of 2021[^1^].

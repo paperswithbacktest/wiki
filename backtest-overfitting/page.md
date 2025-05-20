@@ -1,6 +1,11 @@
 ---
-title: "Backtest overfitting (Algo Trading)"
-description: Explore the challenges of overfitting in algorithmic trading, where complex models excel on historical data but fail in live markets due to noise capture. This article discusses identifying overfitting signs, understanding its causes, and implementing strategies to create robust trading algorithms that remain effective across diverse market conditions.
+category: trading_strategy
+description: Explore the challenges of overfitting in algorithmic trading, where complex
+  models excel on historical data but fail in live markets due to noise capture. This
+  article discusses identifying overfitting signs, understanding its causes, and implementing
+  strategies to create robust trading algorithms that remain effective across diverse
+  market conditions.
+title: Backtest overfitting (Algo Trading)
 ---
 
 Algorithmic trading has significantly transformed financial markets by automating the trading process, allowing market participants to execute large volumes of trades with unparalleled precision and speed. This technological advancement leverages mathematical models and high-frequency trading techniques to make instantaneous decisions across various financial instruments. However, a critical challenge faced by algorithmic trading systems is overfitting. Overfitting occurs when trading models excel on historical data but falter in real-time market conditions, often due to excessive complexity which causes the model to capture random noise rather than genuine market patterns.

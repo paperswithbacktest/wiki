@@ -1,6 +1,14 @@
 ---
-title: "Debenture: Types and Features (Algo Trading)"
-description: "Explore the world of debentures as distinct debt instruments utilized by corporations and governments for funding without physical collateral. This page investigates into the fundamental characteristics and variations of debentures, highlighting their strategic advantages in investment portfolios. Discover how algorithmic trading enhances the management of debentures, providing opportunities for precision in financial strategies. Understand the features and types of debentures like convertible, non-convertible, secured, and unsecured, and learn how these instruments can complement advanced trading techniques for a stable financial approach."
+category: quant_concept
+description: Explore the world of debentures as distinct debt instruments utilized
+  by corporations and governments for funding without physical collateral. This page
+  investigates into the fundamental characteristics and variations of debentures,
+  highlighting their strategic advantages in investment portfolios. Discover how algorithmic
+  trading enhances the management of debentures, providing opportunities for precision
+  in financial strategies. Understand the features and types of debentures like convertible,
+  non-convertible, secured, and unsecured, and learn how these instruments can complement
+  advanced trading techniques for a stable financial approach.
+title: 'Debenture: Types and Features (Algo Trading)'
 ---
 
 Debentures are a distinct category of debt instruments extensively utilized by both corporations and governments as a means to secure funding. Unlike traditional bonds, debentures do not require backing by physical assets or collateral; instead, they depend on the creditworthiness and reputation of the issuer. This reliance on issuer reliability marks a key differentiator in financial instruments. As such, debentures hold a significant place in the strategy of financial management, offering unique opportunities and challenges in portfolio diversification.

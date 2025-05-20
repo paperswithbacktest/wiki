@@ -1,6 +1,8 @@
 ---
-title: "Two-Dollar Broker: Definition and Function (Algo Trading)"
-description: "Explore the evolution of trading from two-dollar brokers to modern algo trading Learn about trading platforms and how technology optimizes trading efficiency"
+category: quant_concept
+description: Explore the evolution of trading from two-dollar brokers to modern algo
+  trading Learn about trading platforms and how technology optimizes trading efficiency
+title: 'Two-Dollar Broker: Definition and Function (Algo Trading)'
 ---
 
 The world of trading has experienced a remarkable transformation with technological advancements, introducing innovative methods such as algorithmic trading and online brokerage services. These developments have revolutionized how individuals and institutions engage with financial markets, providing faster and more efficient trading processes. Amidst these changes, the historical concept of the two-dollar broker stands as a testament to the traditional practices once prevalent in trading environments.

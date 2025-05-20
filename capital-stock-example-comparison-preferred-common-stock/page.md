@@ -1,6 +1,10 @@
 ---
-title: "Capital Stock: Example and Comparison of Preferred and Common Stock (Algo Trading)"
-description: "Explore the differences between common and preferred stock and learn how algorithmic trading can enhance your investment strategy in this informative guide."
+category: quant_concept
+description: Explore the differences between common and preferred stock and learn
+  how algorithmic trading can enhance your investment strategy in this informative
+  guide.
+title: 'Capital Stock: Example and Comparison of Preferred and Common Stock (Algo
+  Trading)'
 ---
 
 Understanding the basics of capital stock, common stock, preferred stock, and algorithmic trading is crucial for both investors and financial analysts. These financial instruments and tactics play vital roles in developing effective investment strategies and understanding market dynamics.

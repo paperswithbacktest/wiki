@@ -1,6 +1,8 @@
 ---
-title: "Microeconomic Pricing Model (Algo Trading)"
-description: "Learn about the role of microeconomic pricing models in algorithmic trading and how they influence trading strategies and market efficiency."
+category: quant_concept
+description: Learn about the role of microeconomic pricing models in algorithmic trading
+  and how they influence trading strategies and market efficiency.
+title: Microeconomic Pricing Model (Algo Trading)
 ---
 
 In today's fast-paced financial world, algorithmic trading has emerged as a critical tool for investors and traders. At the heart of algorithmic trading lies a complex interplay of microeconomic theories and pricing models. These models form the foundation upon which trading strategies are built, providing the necessary insights to navigate the intricacies of financial markets.

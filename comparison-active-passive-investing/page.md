@@ -1,6 +1,8 @@
 ---
-title: "Comparison of Active and Passive Investing (Algo Trading)"
-description: "Explore the distinctions between active investing passive investing and algorithmic trading strategies to determine the best fit for your financial goals."
+category: trading_strategy
+description: Explore the distinctions between active investing passive investing and
+  algorithmic trading strategies to determine the best fit for your financial goals.
+title: Comparison of Active and Passive Investing (Algo Trading)
 ---
 
 Investing strategies have historically been categorized into passive, active, and, more recently, algorithmic trading. Each approach offers distinct methodologies and advantages, empowering investors to navigate the financial markets strategically. Passive investing, for instance, emphasizes a long-term, buy-and-hold strategy, often utilizing index funds or exchange-traded funds (ETFs) that mirror market indices. This strategy is appealing due to its typically lower fees and reduced risk profile, attracting investors who prioritize stability and simplicity.

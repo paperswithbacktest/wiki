@@ -1,6 +1,10 @@
 ---
-title: "Limit Up/Limit Down Mechanism (Algo Trading)"
-description: "Understand the intricacies of the limit up and limit down mechanisms in algorithmic trading designed to maintain stability during price swings by enforcing boundaries on trading assets within a session crucial for traders navigating high-frequency environments where rapid decisions can impact strategies and outcomes significantly"
+category: quant_concept
+description: Understand the intricacies of the limit up and limit down mechanisms
+  in algorithmic trading designed to maintain stability during price swings by enforcing
+  boundaries on trading assets within a session crucial for traders navigating high-frequency
+  environments where rapid decisions can impact strategies and outcomes significantly
+title: Limit Up/Limit Down Mechanism (Algo Trading)
 ---
 
 The trading world is constantly evolving, with a variety of mechanisms in place to ensure order amidst volatility. One such mechanism is the use of limit up and limit down rules, which are crucial for controlling price swings in financial markets. These tools are designed to prevent excessive volatility by setting predefined price boundaries on a trading asset within a single trading session. This article explores these mechanisms and their significance, particularly in the context of algorithmic trading, where the speed and volume of trades can exacerbate market movements. 

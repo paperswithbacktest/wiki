@@ -1,6 +1,9 @@
 ---
-title: "Non-Traded Business Development Companies (Algo Trading)"
-description: "Explore the benefits and challenges of investing in non-traded BDCs and the transformative role of algorithmic trading in optimizing returns and managing risks."
+category: quant_concept
+description: Explore the benefits and challenges of investing in non-traded BDCs and
+  the transformative role of algorithmic trading in optimizing returns and managing
+  risks.
+title: Non-Traded Business Development Companies (Algo Trading)
 ---
 
 Investment opportunities have undergone significant transformations, with business development companies (BDCs) playing a crucial role in this evolution. Among these, non-traded BDCs have surfaced as a noteworthy investment vehicle, offering unique opportunities distinct from their publicly traded counterparts. This article aims to unravel the complexities of non-traded BDCs, highlighting their significance, inherent challenges, and the nascent but growing role of algorithmic trading within this sector.

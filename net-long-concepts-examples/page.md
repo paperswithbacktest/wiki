@@ -1,6 +1,9 @@
 ---
-title: "Net Long: Concepts and Examples (Algo Trading)"
-description: "Explore net long positions and algorithmic trading in financial markets Discover how these strategies optimize returns with data-driven decisions and market insights"
+category: quant_concept
+description: Explore net long positions and algorithmic trading in financial markets
+  Discover how these strategies optimize returns with data-driven decisions and market
+  insights
+title: 'Net Long: Concepts and Examples (Algo Trading)'
 ---
 
 The financial markets have undergone significant transformations, driven by technological advancements that have introduced sophisticated methods like algorithmic trading and strategic approaches such as net long positions. These developments have redefined the way investors and traders engage with the markets, making it essential to understand their dynamics and implications.

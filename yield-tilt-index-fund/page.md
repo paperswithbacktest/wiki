@@ -1,6 +1,8 @@
 ---
-title: "Yield Tilt Index Fund (Algo Trading)"
-description: "Explore how yield tilt index funds and algorithmic trading can enhance investment strategies by focusing on high-yield securities and data-driven decisions."
+category: trading_strategy
+description: Explore how yield tilt index funds and algorithmic trading can enhance
+  investment strategies by focusing on high-yield securities and data-driven decisions.
+title: Yield Tilt Index Fund (Algo Trading)
 ---
 
 This article explores the intersection of a yield tilt index fund investment strategy with algorithmic trading, two dynamic components that significantly enhance modern investment practices. A yield tilt index fund is an investment vehicle that seeks to replicate a traditional index while placing additional weight on higher-yielding securities. This strategic tilting aims to enhance returns by capturing potential income from dividends or interest payments, offering a unique blend of passive and active investment strategies. Yield tilt index funds play an important role in financial markets by providing investors with a systematic approach to capturing yield differentials.

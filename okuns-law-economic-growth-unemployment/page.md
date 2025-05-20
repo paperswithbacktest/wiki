@@ -1,6 +1,8 @@
 ---
-title: "Okun's Law: Relationship Between Economic Growth and Unemployment (Algo Trading)"
-description: "Discover how Okun's Law illustrates the link between economic growth and unemployment Explore its impact on algorithmic trading and economic policies"
+category: quant_concept
+description: Discover how Okun's Law illustrates the link between economic growth
+  and unemployment Explore its impact on algorithmic trading and economic policies
+title: 'Okun''s Law: Relationship Between Economic Growth and Unemployment (Algo Trading)'
 ---
 
 Unemployment refers to the condition in which individuals who are capable and willing to work cannot find suitable employment. It is a critical measure of economic activity and is typically segmented into different types, including cyclical, structural, and frictional unemployment. Cyclical unemployment is directly related to the fluctuations in economic activity such as recessions and booms. Structural unemployment occurs when there is a mismatch between the skills of the unemployed and the skills needed for available jobs. Frictional unemployment refers to the short-term natural flux of workers transitioning between jobs or entering the workforce.

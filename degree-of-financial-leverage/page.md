@@ -1,6 +1,8 @@
 ---
-title: "Degree of Financial Leverage (Algo Trading)"
-description: "Explore how the Degree of Financial Leverage (DFL) impacts algorithmic trading strategies Enhance your trading models by understanding DFL's role in finance"
+category: quant_concept
+description: Explore how the Degree of Financial Leverage (DFL) impacts algorithmic
+  trading strategies Enhance your trading models by understanding DFL's role in finance
+title: Degree of Financial Leverage (Algo Trading)
 ---
 
 Financial leverage is a critical concept in finance, symbolizing a strategy where a business uses borrowed capital to increase its potential return on investment. The essence of financial leverage lies in its ability to amplify the effects of changes in the income and expenses of a company. By employing financial leverage, companies can optimize their capital structures, thereby enhancing the value for shareholders. It plays a pivotal role in strategic financial decision-making, guiding firms in their pursuit of optimal performance and growth.

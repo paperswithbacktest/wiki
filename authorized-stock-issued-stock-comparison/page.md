@@ -1,6 +1,9 @@
 ---
-title: "Authorized Stock and Issued Stock Comparison (Algo Trading)"
-description: "Understand the difference between authorized and issued stock to make informed investment decisions. Learn their impact on trading, dilution, and market strategies."
+category: quant_concept
+description: Understand the difference between authorized and issued stock to make
+  informed investment decisions. Learn their impact on trading, dilution, and market
+  strategies.
+title: Authorized Stock and Issued Stock Comparison (Algo Trading)
 ---
 
 In the world of corporate finance and stock trading, understanding various stock terms is essential for both investors and business owners. Grasping the differences between issued stock and authorized stock is crucial for navigating financial statements and evaluating a company's potential for growth and investor returns. Authorized stock represents the maximum number of shares a company can issue as specified in its corporate charter, providing flexibility for future capital-raising activities. In contrast, issued stock is the actual number of shares distributed to shareholders, encompassing both public and insider holdings. These distinctions influence company decisions regarding stock dilution and control, affecting investor strategies and perceptions of a company’s value.

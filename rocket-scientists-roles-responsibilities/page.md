@@ -1,6 +1,9 @@
 ---
-title: "Rocket Scientists: Roles and Responsibilities (Algo Trading)"
-description: "Explore the evolving role of rocket scientists in finance and aerospace engineering highlighting their shared skills in solving complex problems through advanced mathematical models."
+category: quant_concept
+description: Explore the evolving role of rocket scientists in finance and aerospace
+  engineering highlighting their shared skills in solving complex problems through
+  advanced mathematical models.
+title: 'Rocket Scientists: Roles and Responsibilities (Algo Trading)'
 ---
 
 The term "rocket scientist" has undergone a significant evolution from its original meaning, which referred primarily to experts in aerospace engineering, responsible for designing and building spacecraft, missiles, and other vehicles capable of operating in outer space. Today, the moniker extends to other fields, most notably finance, where it is informally used to describe quantitative analysts, or "quants," whose primary role involves leveraging mathematical models to make informed trading decisions and manage financial risks.

@@ -1,6 +1,8 @@
 ---
-title: "Comparison of Single-Step and Multiple-Step Income Statements (Algo Trading)"
-description: "Explore how single-step and multiple-step income statements impact algorithmic trading. Learn which format enhances decision-making and trading strategy outcomes."
+category: quant_concept
+description: Explore how single-step and multiple-step income statements impact algorithmic
+  trading. Learn which format enhances decision-making and trading strategy outcomes.
+title: Comparison of Single-Step and Multiple-Step Income Statements (Algo Trading)
 ---
 
 In trading, understanding financial statements is crucial for making informed decisions. This article explores the role of multiple-step and single-step income statements in the context of algorithmic trading. Income statements are essential financial documents that provide insights into a company's performance over a specific period. They summarize various financial components, including revenue, expenses, gains, and losses, thereby forming a foundational basis for investment analysis.

@@ -1,6 +1,8 @@
 ---
-title: "Risk-Free Asset Types (Algo Trading)"
-description: "Discover risk-free asset types in algo trading for safe investing. Learn how government bonds and savings accounts help preserve capital with minimal risk."
+category: quant_concept
+description: Discover risk-free asset types in algo trading for safe investing. Learn
+  how government bonds and savings accounts help preserve capital with minimal risk.
+title: Risk-Free Asset Types (Algo Trading)
 ---
 
 In the world of investing, establishing a balance between risk and return is a pivotal consideration for investors. This equilibrium often dictates the overall strategy employed to maximize financial gain while minimizing exposure to potential losses. Some investors are inclined to accept higher risks in pursuit of substantial returns, under the assumption that elevated risk can lead to significant rewards. Conversely, others gravitate towards safer, more stable investments, especially when a low-risk tolerance or a shorter time horizon is involved. Safe investments play a critical role in preserving capital and providing steady, albeit lower, returns with minimal risk.

@@ -1,6 +1,8 @@
 ---
-title: "Vegan ETF and VEGN Fund Mechanisms (Algo Trading)"
-description: "Explore the intersection of sustainable investing vegan ETFs and algorithmic trading with insights on the VEGN Fund's ethical approach and financial strategies."
+category: trading_strategy
+description: Explore the intersection of sustainable investing vegan ETFs and algorithmic
+  trading with insights on the VEGN Fund's ethical approach and financial strategies.
+title: Vegan ETF and VEGN Fund Mechanisms (Algo Trading)
 ---
 
 Sustainable investing, also known as socially responsible investing (SRI), has garnered significant attention in recent years as investors increasingly prioritize environmental, social, and governance (ESG) criteria in their decision-making process. This form of investing seeks to generate financial returns while also contributing positively to society and the environment. The growing awareness of issues such as climate change, resource scarcity, and social inequality has spurred both institutional and individual investors to consider the long-term impacts of their investments. As a result, sustainable investment strategies are rapidly evolving and expanding their influence on the financial market.

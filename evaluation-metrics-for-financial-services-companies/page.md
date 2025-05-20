@@ -1,6 +1,9 @@
 ---
-title: "Evaluation Metrics for Financial Services Companies (Algo Trading)"
-description: "Explore essential evaluation metrics for algorithmic trading in financial services. Gain insights into measuring performance and enhancing investment strategies for better returns."
+category: trading_strategy
+description: Explore essential evaluation metrics for algorithmic trading in financial
+  services. Gain insights into measuring performance and enhancing investment strategies
+  for better returns.
+title: Evaluation Metrics for Financial Services Companies (Algo Trading)
 ---
 
 In an era characterized by rapid technological advancements, algorithmic trading has emerged as a pivotal element of the financial services sector. Algorithmic trading, which involves using computers programmed to follow a defined set of instructions for placing trades, often at speeds and frequencies that are beyond human capabilities, is revolutionizing market interaction. Understanding the performance metrics associated with financial services, particularly in the context of algorithmic trading, can significantly enhance decision-making processes and improve investment outcomes.

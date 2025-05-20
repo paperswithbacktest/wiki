@@ -1,6 +1,8 @@
 ---
-title: "Investor Protection Act Overview (Algo Trading)"
-description: "Explore the Investor Protection Act's role in moderating algorithmic trading, balancing tech innovation, and ensuring market integrity and investor safety."
+category: quant_concept
+description: Explore the Investor Protection Act's role in moderating algorithmic
+  trading, balancing tech innovation, and ensuring market integrity and investor safety.
+title: Investor Protection Act Overview (Algo Trading)
 ---
 
 The financial landscape is rapidly evolving, shaped by technological advancements and regulatory changes. Central to this transformation are investor protection, securities law, and financial regulation, each playing an essential role in ensuring market integrity and stability. As markets grow more complex, safeguarding investors from potential risks becomes increasingly crucial. The introduction of algorithmic trading, or algo trading, exemplifies this complexity by providing both unparalleled opportunities for efficiency and substantial risks that require vigilant oversight.

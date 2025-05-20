@@ -1,6 +1,9 @@
 ---
-title: "Declining Industries: Overview and Examples (Algo Trading)"
-description: "Explore declining industries and their characteristics, causes, and impacts. Discover how algorithmic trading can uncover investment opportunities amidst industry downturns."
+category: quant_concept
+description: Explore declining industries and their characteristics, causes, and impacts.
+  Discover how algorithmic trading can uncover investment opportunities amidst industry
+  downturns.
+title: 'Declining Industries: Overview and Examples (Algo Trading)'
 ---
 
 Declining industries refer to sectors that experience a steady decrease in their relevance, profitability, or growth within the economy. Such industries often witness a drop in consumer demand and a reduction in market share, which may be due to various factors including technological advancements, changes in consumer preferences, or shifts in regulatory environments. Understanding the dynamics of declining industries is crucial for gauging economic trends, as these sectors can significantly impact employment, government revenue, and overall economic health. Furthermore, recognizing the signs of industry decline allows businesses and policymakers to devise strategies aimed at mitigating negative effects and harnessing potential opportunities for innovation and adaptation.

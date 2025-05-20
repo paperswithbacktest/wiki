@@ -1,6 +1,9 @@
 ---
-title: "Investment Strategies for REITs (Algo Trading)"
-description: "Explore investment strategies combining Real Estate Investment Trusts and algorithmic trading to optimize portfolio performance and enhance real estate investment returns."
+category: trading_strategy
+description: Explore investment strategies combining Real Estate Investment Trusts
+  and algorithmic trading to optimize portfolio performance and enhance real estate
+  investment returns.
+title: Investment Strategies for REITs (Algo Trading)
 ---
 
 Real estate investment offers multiple pathways for investors to generate income and build wealth, making it a cornerstone of diversified financial portfolios. One avenue attracting the interest of both novice and seasoned investors is Real Estate Investment Trusts (REITs). These investment vehicles enable individuals to gain exposure to the real estate sector without the need for direct property ownership. In essence, REITs are companies that own or finance income-producing real estate in a range of sectors, providing a way to partake in the real estate market with greater liquidity and less capital compared to traditional property investments.

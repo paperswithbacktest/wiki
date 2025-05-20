@@ -1,6 +1,13 @@
 ---
-title: "Solana (SOL): Overview and Functionality (Algo Trading)"
-description: "Discover the innovative world of Solana and its native cryptocurrency, SOL, renowned for exceptional transaction speeds and low fees that benefit efficient algorithmic trading. Explore how Solana's scalable blockchain technology enhances trading strategies by processing thousands of transactions per second, minimizing latency, and maximizing profitability. Uncover how these advancements position Solana as a leading platform in the digital currency market, offering lucrative opportunities for traders engaged in high-speed algorithmic trading."
+category: quant_concept
+description: Discover the innovative world of Solana and its native cryptocurrency,
+  SOL, renowned for exceptional transaction speeds and low fees that benefit efficient
+  algorithmic trading. Explore how Solana's scalable blockchain technology enhances
+  trading strategies by processing thousands of transactions per second, minimizing
+  latency, and maximizing profitability. Uncover how these advancements position Solana
+  as a leading platform in the digital currency market, offering lucrative opportunities
+  for traders engaged in high-speed algorithmic trading.
+title: 'Solana (SOL): Overview and Functionality (Algo Trading)'
 ---
 
 Cryptocurrencies have seen unprecedented growth and have become a cornerstone of modern financial markets. Among the myriad of blockchain platforms, Solana has distinguished itself through its remarkable scalability and performance. Solana's blockchain technology, along with its native cryptocurrency, SOL, is celebrated for offering rapid transaction speeds and low fees, factors that are essential for efficient and profitable trading. 

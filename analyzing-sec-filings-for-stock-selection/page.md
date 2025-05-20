@@ -1,6 +1,8 @@
 ---
-title: "Analyzing SEC Filings for Stock Selection (Algo Trading)"
-description: "Unlock the power of analyzing SEC filings for informed stock selection and algorithmic trading Discover tools and strategies for modern investors"
+category: trading_strategy
+description: Unlock the power of analyzing SEC filings for informed stock selection
+  and algorithmic trading Discover tools and strategies for modern investors
+title: Analyzing SEC Filings for Stock Selection (Algo Trading)
 ---
 
 In today's digital age, technology has transformed financial markets by providing investors with unparalleled access to information and tools. Previously, such resources were exclusive to large institutions, but now individual investors can leverage them to enhance their decision-making processes. The proliferation of online platforms and analytical tools has democratized access to crucial financial data and techniques, empowering a new generation of investors to analyze stocks, interpret SEC filings, and engage in algorithmic trading effectively.

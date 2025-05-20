@@ -1,6 +1,9 @@
 ---
-title: "Circumstances for Redeeming a Callable Bond (Algo Trading)"
-description: "Explore how algorithmic trading enhances decision-making in managing callable bonds. Learn about issuer rights, bond redemption, and strategies for optimal investments."
+category: quant_concept
+description: Explore how algorithmic trading enhances decision-making in managing
+  callable bonds. Learn about issuer rights, bond redemption, and strategies for optimal
+  investments.
+title: Circumstances for Redeeming a Callable Bond (Algo Trading)
 ---
 
 Callable bonds are a unique class of fixed-income securities where the issuer retains the right to redeem the bond before its maturity date. This redemption usually occurs at a predetermined price, known as the call price. Issuers typically choose to call bonds when interest rates decline, enabling them to refinance their debt at a lower cost. This article examines the fundamental characteristics of callable bonds, the rights issuers hold, and the complexities of bond redemption.

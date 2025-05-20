@@ -1,6 +1,8 @@
 ---
-title: "Pay and Collect: Meaning and Mechanism (Algo Trading)"
-description: "Explore the meaning and mechanism of pay and collect in algo trading and understand how technology transforms transactions and financial operations."
+category: quant_concept
+description: Explore the meaning and mechanism of pay and collect in algo trading
+  and understand how technology transforms transactions and financial operations.
+title: 'Pay and Collect: Meaning and Mechanism (Algo Trading)'
 ---
 
 In today's rapidly evolving financial world, technology is reshaping the landscape of transactions and trading. This influence extends to various facets of finance, including financial transactions, payment systems, collection processes, and algorithmic trading, all of which are intricately linked. These components work in concert to define the operational framework of modern finance, and understanding their interplay is crucial for comprehending the broader financial ecosystem.

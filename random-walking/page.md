@@ -1,6 +1,10 @@
 ---
-title: "Random walking (Algo Trading)"
-description: Explore the incorporation of Random Walk Theory in algorithmic trading and its implications for market predictability and strategy development. Understand how traders leverage randomness, challenges in market forecasting, and opportunities for designing robust trading algorithms amidst inherent market unpredictability.
+category: quant_concept
+description: Explore the incorporation of Random Walk Theory in algorithmic trading
+  and its implications for market predictability and strategy development. Understand
+  how traders leverage randomness, challenges in market forecasting, and opportunities
+  for designing robust trading algorithms amidst inherent market unpredictability.
+title: Random walking (Algo Trading)
 ---
 
 Algorithmic trading refers to the use of computer programs and algorithms to execute trading orders at the speed and frequency that is impossible for human traders. This approach has become increasingly significant in modern financial markets for several reasons, including the ability to process vast amounts of market data rapidly, execute high-frequency trades, and exploit momentary market inefficiencies. Algorithmic trading has contributed to the evolution of market dynamics, offering benefits such as improved liquidity, reduced transaction costs, and minimized human errors.

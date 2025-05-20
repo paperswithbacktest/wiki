@@ -1,6 +1,8 @@
 ---
-title: "Double Barrier Options: Explanation and Types (Algo Trading)"
-description: "Explore the fascinating world of double barrier options in algo trading Discover their unique features and potential in advanced trading strategies."
+category: quant_concept
+description: Explore the fascinating world of double barrier options in algo trading
+  Discover their unique features and potential in advanced trading strategies.
+title: 'Double Barrier Options: Explanation and Types (Algo Trading)'
 ---
 
 In the world of finance, derivatives are essential tools for creating flexible and personalized investment strategies. Options, a popular type of financial derivative, grant investors the right, but not the obligation, to buy or sell an underlying asset at a predetermined price. Among the different types of options, double barrier options stand out as a captivating category within exotic options. These financial instruments are unique due to their dual trigger points, referred to as barriers, which dictate their activation or deactivation.

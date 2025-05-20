@@ -1,6 +1,8 @@
 ---
-title: "Case-Shiller Housing Index Overview (Algo Trading)"
-description: "Explore the Case-Shiller Index to gain insights into U.S. housing price trends. Learn how this essential tool aids economic analysis and algorithmic trading."
+category: dataset
+description: Explore the Case-Shiller Index to gain insights into U.S. housing price
+  trends. Learn how this essential tool aids economic analysis and algorithmic trading.
+title: Case-Shiller Housing Index Overview (Algo Trading)
 ---
 
 The U.S. housing market is a pivotal component of the nation's economic landscape, reflecting broader economic trends and serving as an essential barometer for economic health. Changes in home prices are intricately linked to critical economic aspects such as consumer spending, inflation, and monetary policy. To assess these changes, one of the most reliable and respected tools is the Case-Shiller Index. Formally known as the S&P CoreLogic Case-Shiller U.S. National Home Price NSA Index, it offers a comprehensive measure of fluctuations in the value of single-family homes across the United States.

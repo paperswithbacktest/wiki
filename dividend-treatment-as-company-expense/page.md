@@ -1,6 +1,8 @@
 ---
-title: "Dividend Treatment as a Company Expense (Algo Trading)"
-description: "Explore the relationship between dividends, company expenses, financial accounting, and algorithmic trading to enhance financial strategies and market positioning."
+category: quant_concept
+description: Explore the relationship between dividends, company expenses, financial
+  accounting, and algorithmic trading to enhance financial strategies and market positioning.
+title: Dividend Treatment as a Company Expense (Algo Trading)
 ---
 
 In the ever-evolving world of finance, the interplay between dividends, company expenses, financial accounting, and algorithmic trading is vital for navigating the modern market landscape. Understanding these components is essential for companies striving to achieve financial health and strategic market positioning.

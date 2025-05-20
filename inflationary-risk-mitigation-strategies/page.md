@@ -1,6 +1,8 @@
 ---
-title: "Inflationary Risk and Mitigation Strategies (Algo Trading)"
-description: "Explore inflation risk and mitigation with algorithmic trading to preserve investment value by using data-driven strategies that protect against rising inflation."
+category: trading_strategy
+description: Explore inflation risk and mitigation with algorithmic trading to preserve
+  investment value by using data-driven strategies that protect against rising inflation.
+title: Inflationary Risk and Mitigation Strategies (Algo Trading)
 ---
 
 In today's economic landscape, understanding and mitigating inflationary risk is critical for investors aiming to preserve the real value of their investments. Inflation represents a sustained increase in the price level of goods and services, which can substantially erode purchasing power. For investors, this erosion translates into a significant impact, particularly on fixed income assets like bonds, whose returns remain static and do not automatically adjust to rising inflation levels. This makes it imperative for investors to employ strategies to shield their investments from inflation's adverse effects.

@@ -1,7 +1,8 @@
 ---
-title: Comprehensive Guide to Linear Regression in Machine Learning
+category: quant_concept
 description: Linear regression shows you how to fit an optimal line, verify assumptions
   and boost model accuracy with validation and regularization Discover more inside
+title: Comprehensive Guide to Linear Regression in Machine Learning
 ---
 
 ![Image](images/1.png)

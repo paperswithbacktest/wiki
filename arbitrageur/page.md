@@ -1,6 +1,8 @@
 ---
-title: "Arbitrageur (Algo Trading)"
-description: "Explore the world of arbitrage and algorithmic trading focusing on strategies that capitalize on market price differences while maintaining efficiency."
+category: trading_strategy
+description: Explore the world of arbitrage and algorithmic trading focusing on strategies
+  that capitalize on market price differences while maintaining efficiency.
+title: Arbitrageur (Algo Trading)
 ---
 
 Arbitrage is a crucial financial strategy that capitalizes on the price differences of identical assets across different markets. This strategy enables investors, known as arbitrageurs, to play a pivotal role in maintaining market efficiency. By purchasing an asset at a lower price in one market and simultaneously selling it at a higher price in another, arbitrageurs help ensure that prices align across various trading platforms, thereby promoting equilibrium in the financial ecosystem.

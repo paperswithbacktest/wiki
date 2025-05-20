@@ -1,6 +1,9 @@
 ---
-title: "Shout Option (Algo Trading)"
-description: "Experience the strategic flexibility of shout options in algorithmic trading This unique financial tool allows investors to lock in profits at designated intervals while still capitalizing on future market gains"
+category: quant_concept
+description: Experience the strategic flexibility of shout options in algorithmic
+  trading This unique financial tool allows investors to lock in profits at designated
+  intervals while still capitalizing on future market gains
+title: Shout Option (Algo Trading)
 ---
 
 Shout options are a distinctive category of exotic options within the financial markets, offering a unique method for investors to secure profits at chosen intervals while maintaining the potential for further gains. This capability is achieved through a mechanism that permits the holder to "shout," effectively locking in profits at one or more points before the expiration of the contract. Unlike standard options, which provide fixed conditions for exercise and expiry, shout options introduce a dynamic element where profit-taking can be strategically timed according to market conditions.

@@ -1,6 +1,8 @@
 ---
-title: "Covenant Not to Sue (Algo Trading)"
-description: "Explore the importance of covenants not to sue in algorithmic trading as a strategic legal tool for risk management and fostering smooth business operations."
+category: quant_concept
+description: Explore the importance of covenants not to sue in algorithmic trading
+  as a strategic legal tool for risk management and fostering smooth business operations.
+title: Covenant Not to Sue (Algo Trading)
 ---
 
 In the rapidly evolving world of finance and trading, legal agreements are pivotal in establishing clear frameworks for relationships and risk management. Among these, the covenant not to sue is a vital component, particularly in contract law and the dynamic field of automated or algorithmic trading. This contractual agreement serves as a proactive legal tool to prevent litigation, fostering an environment conducive to smoother business operations and strategic partnerships.

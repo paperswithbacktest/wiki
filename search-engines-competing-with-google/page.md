@@ -1,6 +1,8 @@
 ---
-title: "Search Engines Competing With Google (Algo Trading)"
-description: "Explore how search engines like Bing, Yahoo, DuckDuckGo, and Ecosia compete with Google, impacting algorithmic trading and promoting privacy and sustainability."
+category: dataset
+description: Explore how search engines like Bing, Yahoo, DuckDuckGo, and Ecosia compete
+  with Google, impacting algorithmic trading and promoting privacy and sustainability.
+title: Search Engines Competing With Google (Algo Trading)
 ---
 
 The internet is dominated by search engines, which serve as the primary tool for navigating vast repositories of online information. These platforms impact the way billions of users access, discover, and interact with data every day. Among all search engines, Google stands at the forefront, commanding a lion's share of the market with its powerful algorithms, vast indexing capabilities, and seamless integration with other Google services. This dominance allows Google to exert considerable influence over digital search habits and online content visibility.

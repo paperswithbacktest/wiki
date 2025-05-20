@@ -1,6 +1,9 @@
 ---
-title: "Accrued Interest Adjustment (Algo Trading)"
-description: "Explore the significance of accrued interest and adjustments in finance and algorithmic trading. Learn how these concepts affect investments and trading strategies."
+category: quant_concept
+description: Explore the significance of accrued interest and adjustments in finance
+  and algorithmic trading. Learn how these concepts affect investments and trading
+  strategies.
+title: Accrued Interest Adjustment (Algo Trading)
 ---
 
 The financial world is full of complex terms and intricate concepts, often posing a challenge to both novice and seasoned participants. This article aims to provide clarity on pivotal financial concepts such as accrued interest and interest adjustment, highlighting their significance in both traditional finance and the rapidly evolving landscape of algorithmic trading. Understanding these concepts is essential for anyone aspiring to make informed financial decisions and optimize their trading strategies. 

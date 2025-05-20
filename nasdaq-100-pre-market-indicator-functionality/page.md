@@ -1,6 +1,9 @@
 ---
-title: "Nasdaq-100 Pre-Market Indicator Functionality (Algo Trading)"
-description: "Explore the strategic advantages of the Nasdaq-100 Pre-Market Indicator in algorithmic trading, offering early insights into market trends for informed decision-making."
+category: trading_strategy
+description: Explore the strategic advantages of the Nasdaq-100 Pre-Market Indicator
+  in algorithmic trading, offering early insights into market trends for informed
+  decision-making.
+title: Nasdaq-100 Pre-Market Indicator Functionality (Algo Trading)
 ---
 
 The stock market represents a constantly evolving landscape where traders and investors continuously seek tools that enhance their comprehension of market dynamics, particularly in advance of the official market opening. A significant tool in this context is the Nasdaq-100 Pre-Market Indicator (PMI), which offers valuable insights into potential market movements outside of standard trading hours. The PMI is designed to provide anticipatory insights, allowing traders to better prepare for the day's trading opportunities.

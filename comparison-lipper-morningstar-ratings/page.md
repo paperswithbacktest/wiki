@@ -1,6 +1,9 @@
 ---
-title: "Comparison of Lipper Ratings and Morningstar Ratings (Algo Trading)"
-description: "Explore the key differences between Lipper and Morningstar Ratings in algo trading. Understand how each system impacts investment decisions with detailed analysis."
+category: quant_concept
+description: Explore the key differences between Lipper and Morningstar Ratings in
+  algo trading. Understand how each system impacts investment decisions with detailed
+  analysis.
+title: Comparison of Lipper Ratings and Morningstar Ratings (Algo Trading)
 ---
 
 In the ever-evolving landscape of investment, ratings play a pivotal role in guiding investors. These ratings serve as essential tools for understanding and evaluating the performance and potential of various investment funds. This article explores the different facets of prominent investment rating systems such as Lipper and Morningstar, among others. These systems provide a comprehensive framework for assessing mutual funds and other investment vehicles, offering insights into areas such as consistency of return, risk, and expense management.

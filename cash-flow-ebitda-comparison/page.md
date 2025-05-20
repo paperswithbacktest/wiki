@@ -1,6 +1,12 @@
 ---
-title: "Cash Flow and EBITDA Comparison (Algo Trading)"
-description: "Explore the essential financial metrics of EBITDA and cash flow in the context of algorithmic trading. Understand how these metrics inform investment strategies and enhance risk management by providing a realistic view of a company's financial health. Gain insights into how integrating traditional financial analysis with advanced trading algorithms can optimize performance and navigate the complexities of modern financial markets."
+category: quant_concept
+description: Explore the essential financial metrics of EBITDA and cash flow in the
+  context of algorithmic trading. Understand how these metrics inform investment strategies
+  and enhance risk management by providing a realistic view of a company's financial
+  health. Gain insights into how integrating traditional financial analysis with advanced
+  trading algorithms can optimize performance and navigate the complexities of modern
+  financial markets.
+title: Cash Flow and EBITDA Comparison (Algo Trading)
 ---
 
 In the rapidly evolving world of finance, understanding key terms and concepts is crucial for investors, analysts, and business leaders alike. The financial ecosystem is characterized by its dynamic nature, where metrics such as Earnings Before Interest, Taxes, Depreciation, and Amortization (EBITDA) and cash flow play essential roles in determining a company's financial health and operational efficiency. These metrics serve as foundational tools for evaluating the profitability and liquidity of a business, thereby guiding strategic decision-making processes.

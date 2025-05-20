@@ -1,6 +1,9 @@
 ---
-title: "Bitcoin Gold: Distribution, Security, and Transparency (Algo Trading)"
-description: "Explore Bitcoin Gold and its role in cryptocurrency with insights on distribution, security, transparency, and considerations in algorithmic trading strategies."
+category: quant_concept
+description: Explore Bitcoin Gold and its role in cryptocurrency with insights on
+  distribution, security, transparency, and considerations in algorithmic trading
+  strategies.
+title: 'Bitcoin Gold: Distribution, Security, and Transparency (Algo Trading)'
 ---
 
 Bitcoin Gold (BTG) emerges as a notable player within the expansive cryptocurrency domain, distinguished primarily as a significant fork from the original Bitcoin blockchain. Forking refers to the process in which a blockchain splits into two separate paths, either as a result of adding a new feature or to address existing issues. Bitcoin Gold was designed with a concentrated focus on mitigating the centralization concerns that have increasingly characterized Bitcoin mining. Centralization in Bitcoin mining arises when a significant amount of mining power converges in the hands of a few large entities, often equipped with specialized and expensive hardware known as Application Specific Integrated Circuits (ASICs).

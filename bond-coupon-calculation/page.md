@@ -1,6 +1,8 @@
 ---
-title: "Bond Coupon Calculation (Algo Trading)"
-description: "Discover how bond coupons impact investment returns and algorithmic trading. Learn to calculate bond coupons and optimize trading strategies efficiently."
+category: quant_concept
+description: Discover how bond coupons impact investment returns and algorithmic trading.
+  Learn to calculate bond coupons and optimize trading strategies efficiently.
+title: Bond Coupon Calculation (Algo Trading)
 ---
 
 Bonds are debt securities issued by entities such as governments, municipalities, and corporations to raise capital. They serve a fundamental role in financial markets by providing a stable investment avenue and facilitating capital allocation across various sectors of the economy. Investors in bonds lend money to the issuer for a defined period at a variable or fixed interest rate. Upon maturity, the bondholder receives the principal amount back, along with periodic interest payments known as coupons.

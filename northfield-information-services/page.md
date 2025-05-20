@@ -1,6 +1,15 @@
 ---
-title: "Northfield Information Services (Algo Trading)"
-description: Discover how Northfield Information Services leads the way in algorithmic trading by offering cutting-edge analytical tools and risk management solutions for the financial industry. Founded in 1985, Northfield is recognized for its commitment to innovation, providing sophisticated models that turn vast data into actionable insights for optimized trading strategies. Their signature "Risk Systems That Read®" platform ensures stability amidst market changes. Through strategic collaborations and a dedication to professional education, Northfield empowers traders and financial analysts worldwide to excel in the fast-paced trading environment, making them a trusted partner for refining strategies and improving outcomes.
+category: quant_concept
+description: Discover how Northfield Information Services leads the way in algorithmic
+  trading by offering cutting-edge analytical tools and risk management solutions
+  for the financial industry. Founded in 1985, Northfield is recognized for its commitment
+  to innovation, providing sophisticated models that turn vast data into actionable
+  insights for optimized trading strategies. Their signature "Risk Systems That Read®"
+  platform ensures stability amidst market changes. Through strategic collaborations
+  and a dedication to professional education, Northfield empowers traders and financial
+  analysts worldwide to excel in the fast-paced trading environment, making them a
+  trusted partner for refining strategies and improving outcomes.
+title: Northfield Information Services (Algo Trading)
 ---
 
 In the rapidly evolving world of finance, algorithmic trading has become synonymous with speed and efficiency. As technology continues to advance, the need for sophisticated tools and insights is more critical than ever. One company that is at the forefront of this technological evolution is Northfield Information Services. Founded in 1985, Northfield has established itself as a leader in providing cutting-edge tools and analytics that significantly enhance the performance and reliability of trading strategies. By leveraging state-of-the-art risk management systems and forming strategic partnerships, Northfield Information Services plays a crucial role in supporting the capabilities of investors on a global scale.

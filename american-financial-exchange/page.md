@@ -1,6 +1,8 @@
 ---
-title: "American Financial Exchange (Algo Trading)"
-description: "Explore how the American Financial Exchange utilizes algorithmic trading to enhance transparency and efficiency in U.S. financial markets with Ameribor."
+category: quant_concept
+description: Explore how the American Financial Exchange utilizes algorithmic trading
+  to enhance transparency and efficiency in U.S. financial markets with Ameribor.
+title: American Financial Exchange (Algo Trading)
 ---
 
 In today's financial landscape, algorithmic trading has fundamentally transformed market operations, particularly in the U.S. financial sector. This development has significantly shifted the dynamics of trading by utilizing advanced computer algorithms to execute trades at speeds and frequencies that are impossible for human traders. The American Financial Exchange (AFX), established in 2015, has played a crucial role in this transformation by providing novel solutions for interbank lending and borrowing.

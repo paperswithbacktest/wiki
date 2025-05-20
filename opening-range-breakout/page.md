@@ -1,6 +1,15 @@
 ---
-title: "Opening Range Breakout Strategy (Algo Trading)"
-description: The Opening Range Breakout (ORB) strategy is a widely used approach in algorithmic trading that takes advantage of market volatility in the early hours of trading. Known for identifying profitable opportunities through price movement analysis as markets open, the ORB strategy is rooted in principles from the 1960s and has evolved to include modern technological tools. This article provides a comprehensive guide on the ORB strategy, discussing its workings, historical background, and applicability to different markets like stocks and forex. By incorporating advancements in trading technology, such as algorithmic systems and backtesting, traders can improve strategy execution and risk management within the ORB framework.
+category: trading_strategy
+description: The Opening Range Breakout (ORB) strategy is a widely used approach in
+  algorithmic trading that takes advantage of market volatility in the early hours
+  of trading. Known for identifying profitable opportunities through price movement
+  analysis as markets open, the ORB strategy is rooted in principles from the 1960s
+  and has evolved to include modern technological tools. This article provides a comprehensive
+  guide on the ORB strategy, discussing its workings, historical background, and applicability
+  to different markets like stocks and forex. By incorporating advancements in trading
+  technology, such as algorithmic systems and backtesting, traders can improve strategy
+  execution and risk management within the ORB framework.
+title: Opening Range Breakout Strategy (Algo Trading)
 ---
 
 The Opening Range Breakout (ORB) strategy is a prominent technique in algorithmic trading that leverages market volatility during the initial trading hours. This strategy is highly regarded for its potential to identify profitable trading opportunities by analyzing price movements as markets open. This article aims to unravel the complexities of the ORB strategy, shedding light on its mechanics and guiding traders on effective implementation.

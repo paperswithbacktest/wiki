@@ -1,6 +1,8 @@
 ---
-title: "Guaranteed Income Bond (Algo Trading)"
-description: "Explore Guaranteed Income Bonds and their role in stable investment portfolios. Learn how algotrading enhances GIB investments for predictable, reliable returns."
+category: quant_concept
+description: Explore Guaranteed Income Bonds and their role in stable investment portfolios.
+  Learn how algotrading enhances GIB investments for predictable, reliable returns.
+title: Guaranteed Income Bond (Algo Trading)
 ---
 
 The investment landscape is vast and diverse, offering numerous options that vary in terms of risk and reward. For individuals seeking stability and a predictable income stream, a Guaranteed Income Bond (GIB) presents a compelling investment opportunity. GIBs are gaining popularity among investors who prioritize security rather than pursuing potentially higher returns associated with riskier investments such as stocks or mutual funds.

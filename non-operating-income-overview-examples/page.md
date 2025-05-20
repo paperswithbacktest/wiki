@@ -1,6 +1,8 @@
 ---
-title: "Non-Operating Income: Overview and Examples (Algo Trading)"
-description: "Learn about non-operating income and its role in financial analysis with examples in algorithmic trading strategies for informed investment decisions."
+category: quant_concept
+description: Learn about non-operating income and its role in financial analysis with
+  examples in algorithmic trading strategies for informed investment decisions.
+title: 'Non-Operating Income: Overview and Examples (Algo Trading)'
 ---
 
 Understanding non-operating income is essential for comprehensive financial analysis as it provides insights into parts of a company’s financial activities that are not directly related to its core business operations. Non-operating income encompasses revenues and gains that arise from sources other than the primary activities of a business, such as investment dividends, asset sales, and foreign exchange gains. Distinguishing between operating and non-operating income is crucial for accurate financial assessment, helping stakeholders evaluate the true performance of a company's operational activities separately from supplementary sources of income.

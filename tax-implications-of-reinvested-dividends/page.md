@@ -1,6 +1,8 @@
 ---
-title: "Tax Implications of Reinvested Dividends (Algo Trading)"
-description: "Explore dividend taxation and reinvestment strategies in algo trading. Learn how to optimize your portfolio with insights into qualified vs ordinary dividends."
+category: trading_strategy
+description: Explore dividend taxation and reinvestment strategies in algo trading.
+  Learn how to optimize your portfolio with insights into qualified vs ordinary dividends.
+title: Tax Implications of Reinvested Dividends (Algo Trading)
 ---
 
 Understanding the complexities of dividends, tax implications, and reinvestment strategies is critical for investors looking to maximize their returns. Dividends, as distributions of a company's earnings to its shareholders, can serve as a steady source of income for investors. However, the taxation of these dividends and the decision of whether or not to reinvest them can significantly influence an investor’s overall financial strategy and outcomes.

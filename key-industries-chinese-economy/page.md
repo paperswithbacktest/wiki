@@ -1,6 +1,8 @@
 ---
-title: "Key Industries of the Chinese Economy (Algo Trading)"
-description: "Explore China's economic transformation with algorithmic trading at its core enhancing financial markets and driving efficiency across key industries."
+category: quant_concept
+description: Explore China's economic transformation with algorithmic trading at its
+  core enhancing financial markets and driving efficiency across key industries.
+title: Key Industries of the Chinese Economy (Algo Trading)
 ---
 
 China's economic growth over recent decades has been one of the most significant developments in the global economy. From its roots as an agriculture-centric society, China has transformed into a sprawling industrial and technological powerhouse. Central to this transformation is the increasingly critical role played by algorithmic trading within its financial markets. Algorithmic trading, which utilizes complex mathematical models and high-speed systems to execute trades, is acting as a crucial catalyst for economic progress in China. This technology has reshaped not only financial markets but also the broader economic landscape, driving efficiency and fostering rapid market growth.

@@ -1,7 +1,8 @@
 ---
-title: Understanding Causal Language Models in Machine Learning
+category: quant_concept
 description: Causal Language Models generate coherent text by predicting words one
   at a time using past context and efficient architectures Discover more inside.
+title: Understanding Causal Language Models in Machine Learning
 ---
 
 ![Image](images/1.png)

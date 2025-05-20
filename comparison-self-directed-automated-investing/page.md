@@ -1,6 +1,8 @@
 ---
-title: "Comparison of Self-Directed and Automated Investing (Algo Trading)"
-description: "Explore the evolving landscape of investing with insights on self-directed investing vs automated trading Learn strategies to optimize your financial decisions"
+category: trading_strategy
+description: Explore the evolving landscape of investing with insights on self-directed
+  investing vs automated trading Learn strategies to optimize your financial decisions
+title: Comparison of Self-Directed and Automated Investing (Algo Trading)
 ---
 
 The financial landscape of investing has undergone significant transformation due to advancements in technology. This evolution has introduced innovative strategies that are reshaping how both individual and institutional investors approach the management of their portfolios. Automated investing, self-directed investing, and algorithmic trading have emerged as pivotal strategies in this new era, each bringing distinct methodologies and advantages to the forefront.

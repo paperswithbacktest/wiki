@@ -1,6 +1,8 @@
 ---
-title: "Close Period: Significance and Mechanism (Algo Trading)"
-description: "Discover the significance of close periods in algorithmic trading Explore how these regulatory restrictions impact trading strategies and market integrity"
+category: quant_concept
+description: Discover the significance of close periods in algorithmic trading Explore
+  how these regulatory restrictions impact trading strategies and market integrity
+title: 'Close Period: Significance and Mechanism (Algo Trading)'
 ---
 
 The rise of financial markets over the past few decades has brought about intricate systems that encompass various types of trading, with algorithmic trading standing out as a significant advancement. Algorithmic trading, characterized by the use of computer algorithms to execute trades at high speeds and with minimal human intervention, has revolutionized the dynamics of modern markets. A substantial portion of trades on major stock exchanges is now conducted through algorithmic strategies, influencing market liquidity, volatility, and efficiency.

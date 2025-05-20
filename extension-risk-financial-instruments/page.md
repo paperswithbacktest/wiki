@@ -1,6 +1,8 @@
 ---
-title: "Extension Risk in Financial Instruments (Algo Trading)"
-description: "Explore extension risk in bond markets and its implications on returns amid changing conditions. Learn how algo trading impacts these risks in finance."
+category: quant_concept
+description: Explore extension risk in bond markets and its implications on returns
+  amid changing conditions. Learn how algo trading impacts these risks in finance.
+title: Extension Risk in Financial Instruments (Algo Trading)
 ---
 
 In the complex world of finance, understanding the nuances of risk is crucial for investors. Bond markets, as a fundamental component of global finance, present unique challenges and opportunities. Among the various risks that investors must navigate, extension risk is a significant concern. This particular risk surfaces when borrowers decide to extend their loan durations in response to changing market conditions, impacting the expected cash flows and returns of investors, especially those engaged in structured credit products like mortgage-backed securities.

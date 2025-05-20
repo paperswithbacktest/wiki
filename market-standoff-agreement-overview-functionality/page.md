@@ -1,6 +1,8 @@
 ---
-title: "Market Standoff Agreement: Overview and Functionality (Algo Trading)"
-description: "Explore market standoff agreements and algo trading in finance Discover how these key elements stabilize IPOs and enhance trading efficiency and liquidity"
+category: quant_concept
+description: Explore market standoff agreements and algo trading in finance Discover
+  how these key elements stabilize IPOs and enhance trading efficiency and liquidity
+title: 'Market Standoff Agreement: Overview and Functionality (Algo Trading)'
 ---
 
 The world of financial markets is vast and complex, with numerous instruments and agreements in place to facilitate trading and investment. Among these are investment agreements, market standoff agreements, and the increasingly popular algorithmic trading, popularly known as algo trading. These elements are crucial in shaping the dynamics of modern finance, influencing how capital flows and risks are managed.

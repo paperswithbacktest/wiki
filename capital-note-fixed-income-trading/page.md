@@ -1,6 +1,8 @@
 ---
-title: "Capital Note: Function and Role in Fixed Income Trading (Algo Trading)"
-description: "Explore the function and role of capital notes in fixed income trading and how algorithmic strategies transform this complex market for investors and traders."
+category: quant_concept
+description: Explore the function and role of capital notes in fixed income trading
+  and how algorithmic strategies transform this complex market for investors and traders.
+title: 'Capital Note: Function and Role in Fixed Income Trading (Algo Trading)'
 ---
 
 The financial world is vast and complex, encompassing an array of markets and securities that demand a sophisticated understanding to navigate effectively. Within this extensive landscape, fixed income trading stands out for its unique characteristics and the specific challenges it presents to traders and investors. Fixed income trading focuses on debt securities—primarily bonds—that provide returns through regular interest payments, known as coupon payments. These securities are integral to the portfolios of both individual and institutional investors due to their potential for providing steady income and diversifying investment risk.

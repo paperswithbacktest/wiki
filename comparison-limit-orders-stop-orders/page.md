@@ -1,6 +1,10 @@
 ---
-title: "Comparison of Limit Orders and Stop Orders (Algo Trading)"
-description: "Explore the critical distinctions between limit orders and stop orders in algorithmic trading to optimize your financial strategies. Gain insights on stop-loss mechanisms to minimize losses and utilize limit orders for precise control over trade execution, enhancing your trading effectiveness with automated solutions."
+category: quant_concept
+description: Explore the critical distinctions between limit orders and stop orders
+  in algorithmic trading to optimize your financial strategies. Gain insights on stop-loss
+  mechanisms to minimize losses and utilize limit orders for precise control over
+  trade execution, enhancing your trading effectiveness with automated solutions.
+title: Comparison of Limit Orders and Stop Orders (Algo Trading)
 ---
 
 In the world of financial trading, understanding the different types of order types and strategies is crucial for optimizing your trading outcomes. Properly managing how trades are executed can significantly impact financial success. Among the various methods that traders employ, stop orders, limit orders, and algorithmic trading stand out as essential tools in the trader's toolkit.

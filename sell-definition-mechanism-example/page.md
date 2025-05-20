@@ -1,6 +1,8 @@
 ---
-title: "Sell: Definition, Mechanism, and Example (Algo Trading)"
-description: "Explore how algorithmic trading optimizes trade speed and efficiency, its selling process' intricacies, and strategies for capitalizing on market opportunities."
+category: quant_concept
+description: Explore how algorithmic trading optimizes trade speed and efficiency,
+  its selling process' intricacies, and strategies for capitalizing on market opportunities.
+title: 'Sell: Definition, Mechanism, and Example (Algo Trading)'
 ---
 
 In financial markets, algorithmic trading has emerged as a pivotal tool for traders. This approach to trading employs computer algorithms to execute trades at speeds and frequencies that far surpass human capabilities. By leveraging pre-programmed instructions and comprehensive data analysis, algorithmic trading optimizes trading speed and efficiency. Moreover, it drastically reduces the likelihood of human errors that can occur due to emotional decision-making, ensuring that trades are executed based on data-driven strategies.

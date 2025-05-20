@@ -1,6 +1,9 @@
 ---
-title: "Interactive Data Corporation (Algo Trading)"
-description: "Explore how Interactive Data Corporation enhances trading operations with advanced data analytics and algorithmic tools to empower informed and rapid decision-making."
+category: dataset
+description: Explore how Interactive Data Corporation enhances trading operations
+  with advanced data analytics and algorithmic tools to empower informed and rapid
+  decision-making.
+title: Interactive Data Corporation (Algo Trading)
 ---
 
 In today's corporate technology landscape, data analytics and algorithmic trading have become paramount. These technological advancements facilitate the transformation of corporate environments, particularly in the trading sector. Data analytics encompasses the processes of examining large datasets to uncover hidden patterns, correlations, and insights. Through optimizing operations and enhancing decision-making, businesses are enabled to maintain a competitive edge.

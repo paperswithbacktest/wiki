@@ -1,6 +1,9 @@
 ---
-title: "Current Market Value: Overview and Functionality (Algo Trading)"
-description: "Explore how Current Market Value (CMV) and algorithmic trading synergize to optimize investment strategies by providing real-time asset valuation insights crucial for informed market decisions."
+category: quant_concept
+description: Explore how Current Market Value (CMV) and algorithmic trading synergize
+  to optimize investment strategies by providing real-time asset valuation insights
+  crucial for informed market decisions.
+title: 'Current Market Value: Overview and Functionality (Algo Trading)'
 ---
 
 The concept of Current Market Value (CMV) is crucial in financial markets as it indicates the present resale value of a financial instrument or asset. By providing an accurate representation of an asset's worth at any given time, CMV serves as a vital tool for investors and traders. This understanding allows for the assessment of whether the market is valuing an asset correctly compared to its intrinsic value. Thus, mastery of CMV is integral for making informed trading and investment decisions, helping market participants to strategize effectively.

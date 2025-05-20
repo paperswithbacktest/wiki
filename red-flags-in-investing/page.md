@@ -1,6 +1,9 @@
 ---
-title: "Red Flags in Investing (Algo Trading)"
-description: "Navigate the complexities of algorithmic trading with insights on identifying financial red flags Perform due diligence to leverage its benefits while mitigating risks"
+category: trading_strategy
+description: Navigate the complexities of algorithmic trading with insights on identifying
+  financial red flags Perform due diligence to leverage its benefits while mitigating
+  risks
+title: Red Flags in Investing (Algo Trading)
 ---
 
 Algorithmic trading has revolutionized financial markets by offering an efficient approach to trading that minimizes human involvement. Through the use of sophisticated algorithms and high-speed computing, investors can now react almost instantaneously to market changes, creating opportunities that were largely inaccessible with traditional trading methods. This technological advancement enables market participants to execute orders with precision and at lightning speed, trading across different markets and asset classes with ease.

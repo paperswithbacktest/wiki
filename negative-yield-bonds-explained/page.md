@@ -1,6 +1,9 @@
 ---
-title: "Negative Yield Bonds Explained (Algo Trading)"
-description: "Discover the dynamics of negative yield bonds and algorithmic trading in today's financial markets, exploring their implications for investors and economic trends."
+category: quant_concept
+description: Discover the dynamics of negative yield bonds and algorithmic trading
+  in today's financial markets, exploring their implications for investors and economic
+  trends.
+title: Negative Yield Bonds Explained (Algo Trading)
 ---
 
 Financial markets are intricate systems involving a wide array of instruments, including stocks, bonds, and derivatives. These instruments facilitate the transfer of capital and risk, influencing the global economy. In recent years, one notable topic that has emerged within the bond market is the phenomenon of negative yield bonds. These bonds are peculiar because they offer a return that is less than the initial investment by the bondholder, challenging traditional investment logic.

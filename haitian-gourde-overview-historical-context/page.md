@@ -1,6 +1,9 @@
 ---
-title: "Haitian Gourde: Overview and Historical Context (Algo Trading)"
-description: "Explore the historical backdrop and economic dynamics of the Haitian Gourde HTG in Forex markets Discover algorithmic trading strategies for potential gains"
+category: quant_concept
+description: Explore the historical backdrop and economic dynamics of the Haitian
+  Gourde HTG in Forex markets Discover algorithmic trading strategies for potential
+  gains
+title: 'Haitian Gourde: Overview and Historical Context (Algo Trading)'
 ---
 
 The Haitian Gourde (HTG) serves as the official currency of Haiti, a country characterized by its intricate historical and economic landscape. Understanding the HTG's historical evolution and its present economic environment is crucial for currency traders and those interested in leveraging algorithmic trading strategies. Given the Gourde's introduction in 1813 and its subsequent reforms, the currency's trajectory has been significantly influenced by Haiti’s tumultuous political backdrop, periods of colonization, and quest for independence. These historical dynamics have played a pivotal role in shaping the currency's stability and value.

@@ -1,6 +1,12 @@
 ---
-title: "Capitalization Rate and Formula (Algo Trading)"
-description: "Explore the essential role of capitalization rates in real estate investment and the innovative impact of algorithmic trading. Understand how the cap rate, a key metric for assessing potential property returns, integrates with data-driven methodologies to enhance investment strategies. This comprehensive analysis highlights the balance between traditional metrics and advanced technologies, offering insights into optimizing returns and navigating the evolving real estate landscape."
+category: quant_concept
+description: Explore the essential role of capitalization rates in real estate investment
+  and the innovative impact of algorithmic trading. Understand how the cap rate, a
+  key metric for assessing potential property returns, integrates with data-driven
+  methodologies to enhance investment strategies. This comprehensive analysis highlights
+  the balance between traditional metrics and advanced technologies, offering insights
+  into optimizing returns and navigating the evolving real estate landscape.
+title: Capitalization Rate and Formula (Algo Trading)
 ---
 
 Real estate investment remains a widely embraced strategy for wealth generation, with the capitalization rate, or cap rate, playing a crucial role in evaluating potential returns on investment properties. The cap rate, calculated by dividing the net operating income of a property by its current market value, furnishes investors with an essential metric for assessing and comparing investment opportunities. Despite its prominence, it is important to note that the cap rate is one among various indicators that can assist investors in making informed decisions about property investments.

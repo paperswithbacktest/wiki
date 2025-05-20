@@ -1,6 +1,8 @@
 ---
-title: "Disparity Index: Interpretation and Calculation (Algo Trading)"
-description: "Explore the Disparity Index in algorithmic trading. Learn how this indicator enhances strategies by analyzing market trends and timing trade entries and exits."
+category: quant_concept
+description: Explore the Disparity Index in algorithmic trading. Learn how this indicator
+  enhances strategies by analyzing market trends and timing trade entries and exits.
+title: 'Disparity Index: Interpretation and Calculation (Algo Trading)'
 ---
 
 Financial markets are complex systems where success often hinges on the ability to analyze vast amounts of data and make informed trading decisions. One of the essential tools in crafting successful trading strategies is the use of technical indicators. Technical indicators are quantitative tools used to evaluate market trends and predict future price movements by analyzing statistical trends gathered from trading activity, such as price movement and volume. These indicators play a critical role in financial analysis by providing traders with insights into market behavior, thus assisting them in making data-driven decisions.

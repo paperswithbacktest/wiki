@@ -1,6 +1,8 @@
 ---
-title: "Displaced Moving Average in Trading (Algo Trading)"
-description: "Explore the Displaced Moving Average in algo trading to enhance strategies by offering advanced signals and timely insights for market analysis and decision-making."
+category: trading_strategy
+description: Explore the Displaced Moving Average in algo trading to enhance strategies
+  by offering advanced signals and timely insights for market analysis and decision-making.
+title: Displaced Moving Average in Trading (Algo Trading)
 ---
 
 The Displaced Moving Average (DMA) is a sophisticated tool used by traders to enhance their trading strategies. To understand its utility, it’s crucial to first grasp the concept of moving averages and their role in trend analysis. Moving averages are statistical calculations used to analyze data points by creating averages of different subsets of the complete dataset. They serve as smoothing mechanisms for price data, clearing out short-term fluctuations and highlighting long-term trends. The two most commonly used moving averages in trading are the Simple Moving Average (SMA) and the Exponential Moving Average (EMA).

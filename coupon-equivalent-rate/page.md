@@ -1,6 +1,9 @@
 ---
-title: "Coupon Equivalent Rate (Algo Trading)"
-description: "Explore the dynamics of bond yields, coupon equivalent rate, and algorithmic trading to enhance investment strategies and maximize potential returns in the bond market."
+category: quant_concept
+description: Explore the dynamics of bond yields, coupon equivalent rate, and algorithmic
+  trading to enhance investment strategies and maximize potential returns in the bond
+  market.
+title: Coupon Equivalent Rate (Algo Trading)
 ---
 
 Understanding the complex interplay between various financial metrics and trading strategies is crucial for investors. At the core of these considerations lies the bond market, a fundamental component of the global financial system. This market provides a platform for the issuance, buying, and selling of debt securities, serving as a critical channel through which governments and corporations raise funds to finance their operations and projects. Investors within this domain are particularly concerned with maximizing potential returns while managing risk—a task that requires a keen understanding of several key financial concepts.
@@ -203,4 +206,3 @@ In conclusion, the interplay between bond yields, coupon rates, and algorithmic 
 10. Fabozzi, Frank J., ed. "Fixed Income Analysis." CFA Institute Investment Series, John Wiley & Sons, 2015. This textbook provides in-depth coverage of fixed income markets, including quantitative tools used in the analysis and evaluation of bonds. 
 
 These references provide a deep insight into bond markets, algorithmic trading, and financial indicators, equipping readers with the knowledge to understand and evaluate various financial metrics and strategies effectively.
-

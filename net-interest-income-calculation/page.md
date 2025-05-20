@@ -1,6 +1,8 @@
 ---
-title: "Net Interest Income: Definition and Calculation (Algo Trading)"
-description: "Discover how net interest income impacts bank profitability and the role of algorithmic trading in shaping interest calculations and profits in banking."
+category: quant_concept
+description: Discover how net interest income impacts bank profitability and the role
+  of algorithmic trading in shaping interest calculations and profits in banking.
+title: 'Net Interest Income: Definition and Calculation (Algo Trading)'
 ---
 
 In banking, net interest income (NII) is essential in determining a bank's profitability. NII is the difference between the revenue generated from a bank's interest-bearing assets, such as loans and securities, and the expenses associated with its interest-bearing liabilities, like customer deposits. This measure directly affects the financial health and profit margins of banks, making it a focal point for stakeholders and analysts.

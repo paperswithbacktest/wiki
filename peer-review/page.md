@@ -1,6 +1,8 @@
 ---
-title: "Peer Review (Algo Trading)"
-description: "Peer review is vital in algorithmic trading academia enhancing credibility and innovation by validating research through expert evaluations in a complex landscape."
+category: quant_concept
+description: Peer review is vital in algorithmic trading academia enhancing credibility
+  and innovation by validating research through expert evaluations in a complex landscape.
+title: Peer Review (Algo Trading)
 ---
 
 Academic publishing, peer review, scholarly evaluation, and algorithmic trading form a complex and interconnected landscape. At the heart of this intersection is the peer review process, which serves as a critical mechanism for validating scholarly work. Peer review is integral to ensuring that published research meets rigorous academic standards, thereby establishing a foundation of trust and credibility [1]. By scrutinizing research methodologies, data, and conclusions, peer review acts as a gatekeeper, facilitating the dissemination of robust and impactful financial theories, which are essential for the evolution of algorithmic trading.

@@ -1,6 +1,9 @@
 ---
-title: "Fair Trade Investing: Overview and Mechanisms (Algo Trading)"
-description: "Explore fair trade investing and algorithmic trading to align financial goals with ethical principles promoting transparency and sustainability with profitable returns."
+category: trading_strategy
+description: Explore fair trade investing and algorithmic trading to align financial
+  goals with ethical principles promoting transparency and sustainability with profitable
+  returns.
+title: 'Fair Trade Investing: Overview and Mechanisms (Algo Trading)'
 ---
 
 Sustainable finance and ethical investing have gained significant traction as investors increasingly aim to align their financial activities with their personal values. This trend reflects the growing awareness and demand for investment strategies that not only yield financial returns but also prioritize environmental stewardship, social responsibility, and sound governance. This article investigates the intersection of sustainable finance, ethical investing, fair trade practices, and algorithmic trading, providing a comprehensive understanding of how these concepts can coalesce to foster a more equitable and sustainable financial ecosystem.

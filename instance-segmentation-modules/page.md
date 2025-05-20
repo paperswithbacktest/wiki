@@ -1,7 +1,8 @@
 ---
-title: Comprehensive Guide to Instance Segmentation in Machine Learning
+category: quant_concept
 description: Instance segmentation outlines each object in images with modules like
   PointRend and PolarMask for accurate boundaries in applications Discover more inside
+title: Comprehensive Guide to Instance Segmentation in Machine Learning
 ---
 
 ![Image](images/1.png)
@@ -96,4 +97,4 @@ To make this work smoothly, the instance segmentation module needs to be able to
 
 [6]: Blanco, J., & Ribeiro, A. (2010). ["Overview of State-of-the-Art in Object Detection/Recognition."](https://ieeexplore.ieee.org/document/10581202) Institute of Robotics and Industrial Informatics, UPC-CIRS. 
 
-[7]: Chen, L. C., Papandreou, G., Kokkinos, I., Murphy, K., & Yuille, A. L. (2016). ["DeepLab: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs."](https://ieeexplore.ieee.org/document/7913730) IEEE Transactions on Pattern Analysis and Machine Intelligence. 
+[7]: Chen, L. C., Papandreou, G., Kokkinos, I., Murphy, K., & Yuille, A. L. (2016). ["DeepLab: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs."](https://ieeexplore.ieee.org/document/7913730) IEEE Transactions on Pattern Analysis and Machine Intelligence.

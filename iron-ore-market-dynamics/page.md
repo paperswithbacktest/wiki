@@ -1,6 +1,8 @@
 ---
-title: "Iron Ore Market Dynamics (Algo Trading)"
-description: "Discover the complexities of the global iron ore market. Understand price dynamics, key players, and the growing impact of algorithmic trading strategies."
+category: quant_concept
+description: Discover the complexities of the global iron ore market. Understand price
+  dynamics, key players, and the growing impact of algorithmic trading strategies.
+title: Iron Ore Market Dynamics (Algo Trading)
 ---
 
 The global iron ore mining industry is integral to the production of steel, a cornerstone material in modern infrastructure and manufacturing. Steel's ubiquity in construction, transportation, and a myriad of industrial applications underscores the significance of iron ore as a fundamental economic resource. Iron ore's status as one of the most traded commodities highlights the importance of comprehending its market dynamics for stakeholders ranging from governments to corporations and individual investors.

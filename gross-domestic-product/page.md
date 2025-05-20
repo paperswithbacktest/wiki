@@ -1,6 +1,11 @@
 ---
-title: "Gross Domestic Product (Algo Trading)"
-description: "Explore the significance of Gross Domestic Product (GDP) in algorithmic trading and understand its role as a vital economic indicator. Learn how GDP data is used to inform trading strategies by analyzing economic trends and predicting market movements. This synthesis of GDP analysis with advanced techniques enhances decision-making and optimizes trading outcomes in financial markets."
+category: quant_concept
+description: Explore the significance of Gross Domestic Product (GDP) in algorithmic
+  trading and understand its role as a vital economic indicator. Learn how GDP data
+  is used to inform trading strategies by analyzing economic trends and predicting
+  market movements. This synthesis of GDP analysis with advanced techniques enhances
+  decision-making and optimizes trading outcomes in financial markets.
+title: Gross Domestic Product (Algo Trading)
 ---
 
 Economic indicators are essential tools for analyzing the health and forecasting future trends of an economy. These indicators include various statistics that reflect economic performance and guide policymakers, investors, and businesses in their decision-making processes. Among these indicators, the Gross Domestic Product (GDP) holds a paramount position. GDP represents the total market value of all final goods and services produced within a country in a specific time period and serves as a comprehensive measure of economic activity and health. It provides valuable insights into the size and growth rate of an economy, making it indispensable for assessing economic performance.

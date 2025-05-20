@@ -1,7 +1,8 @@
 ---
-title: Techniques for Handling Imbalanced Datasets in Machine Learning
+category: dataset
 description: Imbalanced datasets bias models toward majority classes but methods like
   oversampling class weights and ensembles boost fairness and accuracy Discover more
+title: Techniques for Handling Imbalanced Datasets in Machine Learning
 ---
 
 ![Image](images/1.png)

@@ -1,7 +1,8 @@
 ---
-title: Streamline Transformer Development With Flaxformer Library
+category: quant_concept
 description: Flaxformer simplifies transformer model development in Flax with modular
   components and tools to speed up training and fine tuning Discover more inside
+title: Streamline Transformer Development With Flaxformer Library
 ---
 
 ![Image](images/1.png)

@@ -1,7 +1,8 @@
 ---
-title: Essential Guide to Feature Specs in Machine Learning
+category: quant_concept
 description: Feature Spec defines how to process raw data into machine learning features
   ensuring consistent preparation and improved accuracy Discover more inside
+title: Essential Guide to Feature Specs in Machine Learning
 ---
 
 ![Image](images/1.png)

@@ -1,6 +1,8 @@
 ---
-title: "Effective Use of Trading Indicators (Algo Trading)"
-description: "Explore effective use of trading indicators in algo trading Learn how technical analysis enhances strategies offers market insights and optimizes execution"
+category: trading_strategy
+description: Explore effective use of trading indicators in algo trading Learn how
+  technical analysis enhances strategies offers market insights and optimizes execution
+title: Effective Use of Trading Indicators (Algo Trading)
 ---
 
 Over the years, the landscape of financial markets has transformed extensively, driven by technological advancements. Traders now leverage sophisticated tools to derive more informed and effective trading decisions. This article will investigate the significance of trading indicators and technical analysis within the scope of algorithmic trading. These components are crucial in refining trading strategies and optimizing execution by providing insights into market trends and potential price movements.

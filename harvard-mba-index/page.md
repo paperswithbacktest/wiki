@@ -1,6 +1,8 @@
 ---
-title: "Harvard MBA Index (Algo Trading)"
-description: "Discover how the Harvard MBA Indicator uses graduates' career choices to predict stock market trends, providing a unique contrarian tool for investors."
+category: quant_concept
+description: Discover how the Harvard MBA Indicator uses graduates' career choices
+  to predict stock market trends, providing a unique contrarian tool for investors.
+title: Harvard MBA Index (Algo Trading)
 ---
 
 The stock market is influenced by a diverse array of indicators, each providing unique insights derived from various economic, financial, and sentiment analyses. Among these, the Harvard MBA Indicator stands out as an unconventional yet intriguing tool. Developed by Roy Soifer, a Harvard Business School alumnus, this indicator gauges market conditions based on the career choices of Harvard MBA graduates, particularly those entering market-sensitive sectors like investment banking. It suggests that when a significant percentage of graduates opt for careers in finance, ranging above 30%, it signals an overheated market, leading to a contrarian recommendation to sell. Conversely, a smaller percentage, below 10%, implies a market ripe for investment, suggesting a buy signal. 

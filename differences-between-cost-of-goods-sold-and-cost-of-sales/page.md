@@ -1,6 +1,8 @@
 ---
-title: "Differences Between Cost of Goods Sold and Cost of Sales (Algo Trading)"
-description: "Understand the key differences between Cost of Goods Sold and cost of sales in algo trading to optimize financial performance and make informed decisions."
+category: quant_concept
+description: Understand the key differences between Cost of Goods Sold and cost of
+  sales in algo trading to optimize financial performance and make informed decisions.
+title: Differences Between Cost of Goods Sold and Cost of Sales (Algo Trading)
 ---
 
 In the rapidly evolving world of finance and business, understanding the concepts of Cost of Goods Sold (COGS), cost of sales, and algorithmic trading is crucial for optimizing profitability and efficiency. These terms play a significant role in financial accounting, influencing how businesses and investors make strategic decisions.

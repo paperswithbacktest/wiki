@@ -1,6 +1,14 @@
 ---
-title: "An Introduction to Quantitative Finance (Algo Trading)"
-description: Explore the transformative world of quantitative finance and algorithmic trading, where mathematical models and data analysis drive decisions in modern markets. Quantitative finance utilizes large datasets and statistical techniques to predict market trends, aiding in investment and risk management. Algorithmic trading uses algorithms for fast, automated trade execution, enhancing precision and high-frequency trading. This synergy enhances liquidity and market efficiency, offering abundant career opportunities for those skilled in this dynamic field. Understanding these principles is essential for success in today's financial landscape.
+category: quant_concept
+description: Explore the transformative world of quantitative finance and algorithmic
+  trading, where mathematical models and data analysis drive decisions in modern markets.
+  Quantitative finance utilizes large datasets and statistical techniques to predict
+  market trends, aiding in investment and risk management. Algorithmic trading uses
+  algorithms for fast, automated trade execution, enhancing precision and high-frequency
+  trading. This synergy enhances liquidity and market efficiency, offering abundant
+  career opportunities for those skilled in this dynamic field. Understanding these
+  principles is essential for success in today's financial landscape.
+title: An Introduction to Quantitative Finance (Algo Trading)
 ---
 
 Quantitative finance and algorithmic trading represent two pivotal components of modern financial markets, fundamentally transforming how trading activities are conducted. These disciplines integrate mathematical models with data analysis to facilitate informed decision-making and enhance trading efficiency. Quantitative finance involves leveraging large datasets and statistical techniques to evaluate and predict financial market trends, optimizing investment decisions and risk management strategies. The role of professionals, often termed quants, is vital as they employ advanced mathematical modeling to price securities accurately and manage financial risks effectively.

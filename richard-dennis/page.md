@@ -1,6 +1,14 @@
 ---
-title: "Richard Dennis: The Turtle Trader (Algo Trading)"
-description: Explore the influential legacy of Richard Dennis, a pioneer in trend-following and systematic trading strategies. Known for the remarkable Turtle Trader experiment, Dennis demonstrated the teachability of successful trading through structured education. His work laid the foundation for modern algorithmic trading, emphasizing disciplined, rule-based approaches and sound risk management principles. Delve into Dennis's transformative impact on the trading world, from turning a small loan into vast wealth to mentoring a new generation of traders. Discover the key principles of Turtle Trading and their relevance in today's automated trading systems.
+category: trading_strategy
+description: Explore the influential legacy of Richard Dennis, a pioneer in trend-following
+  and systematic trading strategies. Known for the remarkable Turtle Trader experiment,
+  Dennis demonstrated the teachability of successful trading through structured education.
+  His work laid the foundation for modern algorithmic trading, emphasizing disciplined,
+  rule-based approaches and sound risk management principles. Delve into Dennis's
+  transformative impact on the trading world, from turning a small loan into vast
+  wealth to mentoring a new generation of traders. Discover the key principles of
+  Turtle Trading and their relevance in today's automated trading systems.
+title: 'Richard Dennis: The Turtle Trader (Algo Trading)'
 ---
 
 Richard Dennis, often hailed as a legendary trader, has left an indelible mark on the world of trading through his innovative trend-following strategies and the groundbreaking Turtle Trader experiment. His methodologies, characterized by systematic and rule-based approaches, have significantly influenced algorithmic trading, which relies on the use of algorithms and automated systems to execute trades. This article aims to explore Richard Dennis’s pivotal role in the evolution of trading by examining his contributions to systematic trading methodologies and their intersection with modern algorithmic trading. Central to Dennis's legacy is the Turtle Trading strategy, a trend-following system designed to capitalize on sustained market movements. This method underscores the importance of disciplined trading, where decisions are not swayed by emotion but guided by predefined rules. Such principles find their relevance in today's algorithmic trading strategies, which automate processes based on programmed criteria.

@@ -1,6 +1,8 @@
 ---
-title: "Comparison of Bank Guarantees and Bonds (Algo Trading)"
-description: "Explore the key differences between bank guarantees and bonds in finance and algorithmic trading to manage risks, enhance liquidity, and boost profitability."
+category: quant_concept
+description: Explore the key differences between bank guarantees and bonds in finance
+  and algorithmic trading to manage risks, enhance liquidity, and boost profitability.
+title: Comparison of Bank Guarantees and Bonds (Algo Trading)
 ---
 
 In the world of finance, various instruments and strategies are essential for managing risk, enhancing liquidity, and driving profitability. These tools include financial instruments like bonds and bank guarantees, as well as innovative trading methodologies such as algorithmic trading. 

@@ -1,6 +1,9 @@
 ---
-title: "Management Fee and Expense Ratio Differences (Algo Trading)"
-description: "Understand the differences between management fees and expense ratios in investment funds Learn how these costs impact returns and algorithmic trading strategies"
+category: quant_concept
+description: Understand the differences between management fees and expense ratios
+  in investment funds Learn how these costs impact returns and algorithmic trading
+  strategies
+title: Management Fee and Expense Ratio Differences (Algo Trading)
 ---
 
 Investment funds serve as a potent avenue for asset growth by pooling resources to invest in a diversified portfolio. These funds are meticulously managed to potentially offer returns that exceed those available through individual investments. However, they inherently come with associated costs that investors must understand to make informed financial decisions.

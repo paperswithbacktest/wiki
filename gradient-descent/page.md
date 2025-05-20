@@ -1,7 +1,8 @@
 ---
-title: Understanding Gradient Descent in Machine Learning Optimization
+category: quant_concept
 description: Gradient Descent guides machine learning models to reduce error step
   by step with momentum and adaptive learning rates Discover more inside.
+title: Understanding Gradient Descent in Machine Learning Optimization
 ---
 
 ![Image](images/1.png)

@@ -1,6 +1,8 @@
 ---
-title: "Legal Status of Bitcoin by Country (Algo Trading)"
-description: "Discover the varying legal status of Bitcoin worldwide and explore how regulations affect cryptocurrency adoption and algorithmic trading in global markets."
+category: dataset
+description: Discover the varying legal status of Bitcoin worldwide and explore how
+  regulations affect cryptocurrency adoption and algorithmic trading in global markets.
+title: Legal Status of Bitcoin by Country (Algo Trading)
 ---
 
 Bitcoin, introduced in 2009 by an anonymous entity known as Satoshi Nakamoto, has evolved from a niche digital currency to a significant player in the financial world. As the first and most well-known cryptocurrency, Bitcoin has paved the way for a plethora of digital currencies, collectively known as cryptocurrencies, which have garnered increasing interest from investors, financial institutions, and regulators globally. The growing interest is primarily due to cryptocurrency's potential to revolutionize traditional financial systems, offering decentralized, borderless, and secure transactions.

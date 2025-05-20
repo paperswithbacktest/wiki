@@ -1,6 +1,8 @@
 ---
-title: "Dollar-Cost Averaging for Wealth Accumulation (Algo Trading)"
-description: "Explore dollar-cost averaging (DCA) with algorithmic trading to enhance wealth accumulation while minimizing market risks and optimizing investment efficiency."
+category: trading_strategy
+description: Explore dollar-cost averaging (DCA) with algorithmic trading to enhance
+  wealth accumulation while minimizing market risks and optimizing investment efficiency.
+title: Dollar-Cost Averaging for Wealth Accumulation (Algo Trading)
 ---
 
 Dollar-cost averaging (DCA) is an investment strategy that involves allocating a fixed amount of capital at regular intervals into a particular asset or set of assets, regardless of the asset's price. This systematic approach lower the average cost per share over time as it allows investors to purchase more shares when prices are low and fewer shares when prices are high. Such a strategy is particularly important for building wealth as it minimizes the impact of market volatility. Over extended periods, consistent investment can lead to substantial growth, capitalizing on the concept of compounding returns.

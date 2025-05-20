@@ -1,7 +1,8 @@
 ---
-title: Image Generation Models and Diffusion Techniques Explained
+category: quant_concept
 description: Image generation models learn from data to create new visuals using GANs
   diffusion guidance and blending techniques that boost realism Discover more inside
+title: Image Generation Models and Diffusion Techniques Explained
 ---
 
 ![Image](images/1.jpeg)

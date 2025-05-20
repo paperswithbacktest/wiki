@@ -1,6 +1,8 @@
 ---
-title: "MyEtherWallet Review (Algo Trading)"
-description: "MyEtherWallet is a popular open-source non-custodial interface for managing Ethereum and ERC-20 tokens offering enhanced security and algorithmic trading integration."
+category: dataset
+description: MyEtherWallet is a popular open-source non-custodial interface for managing
+  Ethereum and ERC-20 tokens offering enhanced security and algorithmic trading integration.
+title: MyEtherWallet Review (Algo Trading)
 ---
 
 The rapid proliferation of cryptocurrency has significantly transformed the landscape of digital finance, with wallets playing an increasingly pivotal role. Cryptocurrency wallets enable users to store, send, and receive digital currencies, providing crucial infrastructure for engaging with blockchain networks. As more individuals and institutions participate in cryptocurrency markets, the demand for user-friendly and secure wallet solutions has surged. This environment has led to the development of a variety of wallets, each tailored to specific user needs and preferences, from novice users to experienced traders.

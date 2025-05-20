@@ -1,6 +1,14 @@
 ---
-title: "MACD and RSI Strategy (Algo Trading)"
-description: "The MACD and RSI strategy is a renowned trading method that combines two crucial technical indicators: Moving Average Convergence Divergence and Relative Strength Index. This strategy is ideal for momentum-based analysis, helping traders interpret market trends and identify buy and sell signals. MACD analyzes the difference between two moving averages to detect trend convergence and divergence, while RSI measures price movement speed to identify overbought or oversold conditions. Utilizing both indicators enhances trade accuracy by reducing false signals. Incorporating this strategy in algorithmic trading enables systematic and efficient trading decisions."
+category: trading_strategy
+description: 'The MACD and RSI strategy is a renowned trading method that combines
+  two crucial technical indicators: Moving Average Convergence Divergence and Relative
+  Strength Index. This strategy is ideal for momentum-based analysis, helping traders
+  interpret market trends and identify buy and sell signals. MACD analyzes the difference
+  between two moving averages to detect trend convergence and divergence, while RSI
+  measures price movement speed to identify overbought or oversold conditions. Utilizing
+  both indicators enhances trade accuracy by reducing false signals. Incorporating
+  this strategy in algorithmic trading enables systematic and efficient trading decisions.'
+title: MACD and RSI Strategy (Algo Trading)
 ---
 
 The MACD and RSI strategy is a well-regarded trading method that integrates two pivotal technical indicators: Moving Average Convergence Divergence (MACD) and Relative Strength Index (RSI). These indicators are renowned for their momentum-based analysis capabilities, providing traders with insights into market trends and identifying potential buy and sell signals. The MACD is utilized to analyze the differences between two exponential moving averages (EMAs), typically a 12-day EMA and a 26-day EMA. It is characterized by three components: the MACD line, the signal line, and the histogram, all of which aid in detecting convergence and divergence in market trends.

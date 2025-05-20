@@ -1,6 +1,9 @@
 ---
-title: "Investment Analyst: Roles, Education, Career Paths (Algo Trading)"
-description: "Explore key roles in financial analysis, investment analysis, and algorithmic trading. Discover career paths, education needs, and skills in the evolving finance sector."
+category: quant_concept
+description: Explore key roles in financial analysis, investment analysis, and algorithmic
+  trading. Discover career paths, education needs, and skills in the evolving finance
+  sector.
+title: 'Investment Analyst: Roles, Education, Career Paths (Algo Trading)'
 ---
 
 The finance sector plays a pivotal role in the modern economy by serving as the backbone for economic growth and development. It encompasses a broad range of activities, including banking, investing, insurance, and trading, which collectively facilitate the efficient allocation of resources, manage risk, and promote stability. Financial markets enable individuals, businesses, and governments to raise capital, invest savings, and hedge against uncertainties. This dynamic sector influences global economic trends and impacts the daily lives of millions.

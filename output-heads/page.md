@@ -1,7 +1,8 @@
 ---
-title: Understanding Dynamic Keypoint Heads in Machine Learning
+category: quant_concept
 description: Dynamic Keypoint Head adapts neural networks for precise pose and keypoint
   estimation across varied poses and occlusions Discover more inside.
+title: Understanding Dynamic Keypoint Heads in Machine Learning
 ---
 
 ![Image](images/1.jpeg)

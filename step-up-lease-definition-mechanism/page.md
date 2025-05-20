@@ -1,6 +1,9 @@
 ---
-title: "Step-Up Lease: Definition and Mechanism (Algo Trading)"
-description: "Explore the intricacies of step-up leases and algorithmic trading in commercial real estate to enhance investment strategies and forecast market trends efficiently."
+category: quant_concept
+description: Explore the intricacies of step-up leases and algorithmic trading in
+  commercial real estate to enhance investment strategies and forecast market trends
+  efficiently.
+title: 'Step-Up Lease: Definition and Mechanism (Algo Trading)'
 ---
 
 In the commercial real estate sector, grasping the complexities of lease structures, such as step-up leases, is essential for both investors and tenants. These leases play a significant role in long-term commercial property agreements, presenting both challenges and opportunities. Step-up leases involve predetermined rent increases over the duration of the lease, designed to protect landlords against inflation and market fluctuations. Investors and tenants must understand these financial mechanisms to predict cash flows and manage strategic financial planning effectively.

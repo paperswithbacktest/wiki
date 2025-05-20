@@ -1,6 +1,9 @@
 ---
-title: "Confirmation Bias: Types and Impact (Algo Trading)"
-description: "Explore how confirmation bias impacts algorithmic trading where human psychology and algorithm design intersect affecting trading efficacy and investment outcomes."
+category: quant_concept
+description: Explore how confirmation bias impacts algorithmic trading where human
+  psychology and algorithm design intersect affecting trading efficacy and investment
+  outcomes.
+title: 'Confirmation Bias: Types and Impact (Algo Trading)'
 ---
 
 The integration of cognitive psychology with financial markets has significantly advanced our understanding of investment behavior, revealing the intricate ways in which human psychology influences trading decisions. Cognitive biases, such as confirmation bias, are particularly influential in shaping trading behaviors by causing systematic deviations from rational decision-making.

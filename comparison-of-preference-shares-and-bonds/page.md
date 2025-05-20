@@ -1,6 +1,9 @@
 ---
-title: "Comparison of Preference Shares and Bonds (Algo Trading)"
-description: "Explore the strategic roles and intricate dynamics of bonds, preference shares, and algorithmic trading to enhance your investment decisions and diversify portfolios."
+category: quant_concept
+description: Explore the strategic roles and intricate dynamics of bonds, preference
+  shares, and algorithmic trading to enhance your investment decisions and diversify
+  portfolios.
+title: Comparison of Preference Shares and Bonds (Algo Trading)
 ---
 
 In the ever-evolving financial landscape, understanding the diverse investment instruments available is crucial. This article explores bonds, preference shares, and algorithmic trading to provide insights into their dynamics, benefits, and strategic importance. Bonds, known for their fixed income nature, represent loans made by investors to borrowers, offering regular interest payments and a specified maturity date for principal repayment. Preference shares, or preferred stocks, offer equity ownership with fixed dividends prioritizing them over common stock dividends. Algorithmic trading, meanwhile, utilizes advanced mathematical models and software to execute trades with speed and precision, enhancing investment strategies.

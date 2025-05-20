@@ -1,6 +1,8 @@
 ---
-title: "Market Weakness in Technical Analysis (Algo Trading)"
-description: "Discover how to identify and capitalize on market weakness using technical analysis and algo trading techniques for informed and strategic decision-making."
+category: trading_strategy
+description: Discover how to identify and capitalize on market weakness using technical
+  analysis and algo trading techniques for informed and strategic decision-making.
+title: Market Weakness in Technical Analysis (Algo Trading)
 ---
 
 The financial markets, by their nature, present a landscape filled with both opportunities and challenges. These dynamic environments are under constant influence from various factors, making them unpredictable yet promising for traders and investors aiming for profit. Understanding market weakness becomes a crucial element in the navigation of these financial waters, serving as a gateway to identifying and mitigating potential risks while capitalizing on viable opportunities.

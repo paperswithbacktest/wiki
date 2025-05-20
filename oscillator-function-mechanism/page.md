@@ -1,6 +1,8 @@
 ---
-title: "Oscillator: Function and Mechanism (Algo Trading)"
-description: "Discover how oscillators in algorithmic trading offer crucial insights to enhance trade execution and strategy development using technical indicators."
+category: quant_concept
+description: Discover how oscillators in algorithmic trading offer crucial insights
+  to enhance trade execution and strategy development using technical indicators.
+title: 'Oscillator: Function and Mechanism (Algo Trading)'
 ---
 
 Algorithmic trading has brought significant transformation to financial markets by utilizing sophisticated algorithms that automate trade execution. A pivotal component of this approach is the generation of signals through technical indicators, with oscillators playing a particularly crucial role. Oscillators, originating from electronic systems, have become invaluable tools within trading strategies due to their ability to provide dynamic insights into market conditions.

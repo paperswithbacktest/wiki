@@ -1,6 +1,9 @@
 ---
-title: "Major Revenue Sources of Johnson & Johnson (Algo Trading)"
-description: "Explore Johnson & Johnson's major revenue sources from Pharmaceuticals, Medical Devices, and Consumer Products as the company harnesses algorithmic trading for growth."
+category: dataset
+description: Explore Johnson & Johnson's major revenue sources from Pharmaceuticals,
+  Medical Devices, and Consumer Products as the company harnesses algorithmic trading
+  for growth.
+title: Major Revenue Sources of Johnson & Johnson (Algo Trading)
 ---
 
 Johnson & Johnson (J&J) has a history stretching over 135 years, during which it has solidified its position as a global leader in healthcare. Established in 1886, the company has developed a comprehensive operational framework comprising three primary segments: Pharmaceuticals, Medical Devices, and Consumer Products. Through these divisions, J&J consistently generates significant revenue, profoundly influencing the landscape of health and wellness across the world.

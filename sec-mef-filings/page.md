@@ -1,6 +1,9 @@
 ---
-title: "SEC MEF Filings (Algo Trading)"
-description: "Explore the significance of SEC MEF filings and algorithmic trading in financial markets Understand how regulatory frameworks impact market transparency and investor protection"
+category: quant_concept
+description: Explore the significance of SEC MEF filings and algorithmic trading in
+  financial markets Understand how regulatory frameworks impact market transparency
+  and investor protection
+title: SEC MEF Filings (Algo Trading)
 ---
 
 Understanding financial regulation is crucial for various stakeholders, including investors, companies, and finance professionals. As a leading authority in the financial markets, the Securities and Exchange Commission (SEC) plays a pivotal role in the oversight and regulation of securities markets. Founded with the primary aim of protecting investors and maintaining fair, orderly, and efficient markets, the SEC enforces regulations that ensure transparency and trust.

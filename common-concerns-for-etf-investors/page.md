@@ -1,6 +1,8 @@
 ---
-title: "Common Concerns for ETF Investors (Algo Trading)"
-description: "Explore the intersection of ETFs and algorithmic trading uncovering benefits like liquidity and risks like market instability to navigate investments efficiently."
+category: trading_strategy
+description: Explore the intersection of ETFs and algorithmic trading uncovering benefits
+  like liquidity and risks like market instability to navigate investments efficiently.
+title: Common Concerns for ETF Investors (Algo Trading)
 ---
 
 Exchange-traded funds (ETFs) have emerged as a sought-after investment vehicle, appealing to both individual and institutional investors due to their inherent ability to offer diversified exposure across various sectors and indices. As they trade on stock exchanges much like individual stocks, ETFs combine the flexibility of stock trading with the diversified nature of mutual funds, making them a versatile option in an investor's portfolio.

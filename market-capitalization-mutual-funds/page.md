@@ -1,6 +1,9 @@
 ---
-title: "Market Capitalization Mutual Funds (Algo Trading)"
-description: "Explore the intersection of market cap funds and algorithmic trading within mutual funds to optimize investment strategies enhance diversification and improve efficiency."
+category: trading_strategy
+description: Explore the intersection of market cap funds and algorithmic trading
+  within mutual funds to optimize investment strategies enhance diversification and
+  improve efficiency.
+title: Market Capitalization Mutual Funds (Algo Trading)
 ---
 
 The financial landscape is continuously evolving, driven by rapid advancements in technology and the adoption of innovative investment methodologies. Among the transformative trends shaping this dynamic environment are the diversification and accessibility enabled by mutual funds, the strategic precision offered by market cap funds, and the enhanced efficiency provided by algorithmic trading.

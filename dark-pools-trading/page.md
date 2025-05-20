@@ -1,6 +1,11 @@
 ---
-title: "Dark Pools Trading Explained (Algo Trading)"
-description: Explore the dynamics of dark pools and their role in algorithmic trading as these private exchanges enable large trades with minimal market impact attracting institutional investors while raising transparency concerns. Understand the balance between advantages like improved price execution and challenges such as data opacity in the evolving landscape of financial markets.
+category: quant_concept
+description: Explore the dynamics of dark pools and their role in algorithmic trading
+  as these private exchanges enable large trades with minimal market impact attracting
+  institutional investors while raising transparency concerns. Understand the balance
+  between advantages like improved price execution and challenges such as data opacity
+  in the evolving landscape of financial markets.
+title: Dark Pools Trading Explained (Algo Trading)
 ---
 
 In the complex landscape of financial markets, dark pools have emerged as significant players. These private exchanges, hidden from public scrutiny, offer institutional investors a way to execute large trades without tipping off the broader market. The allure of dark pools lies in their ability to maintain confidentiality and minimize market impact. This makes them particularly attractive to institutional traders, whose large orders could otherwise lead to significant price movements on public exchanges.

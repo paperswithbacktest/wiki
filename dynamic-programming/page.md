@@ -1,6 +1,9 @@
 ---
-title: "Dynamic programming (Algo Trading)"
-description: "Improve algorithmic trading with dynamic programming by optimizing strategies updating decisions using past data and managing resources effectively for better outcomes."
+category: quant_concept
+description: Improve algorithmic trading with dynamic programming by optimizing strategies
+  updating decisions using past data and managing resources effectively for better
+  outcomes.
+title: Dynamic programming (Algo Trading)
 ---
 
 Dynamic programming (DP) is a mathematical optimization technique that is well-suited for algorithmic trading. It offers a systematic approach to solving complex problems by breaking them down into simpler subproblems, thereby improving efficiency and accuracy. In algorithmic trading, where rapid and precise decision-making is crucial, DP provides a structured framework for developing strategies that assist in predicting market trends, optimizing resource allocation, and enhancing trading outcomes.

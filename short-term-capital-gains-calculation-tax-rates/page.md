@@ -1,6 +1,8 @@
 ---
-title: "Short-Term Capital Gains: Calculation and Tax Rates (Algo Trading)"
-description: "Learn about the taxation of short-term capital gains from algo trading including calculation methods and strategies to optimize investment returns."
+category: quant_concept
+description: Learn about the taxation of short-term capital gains from algo trading
+  including calculation methods and strategies to optimize investment returns.
+title: 'Short-Term Capital Gains: Calculation and Tax Rates (Algo Trading)'
 ---
 
 Capital gains tax is an integral part of the investment landscape, influencing decision-making and strategic planning for both individual investors and institutional participants. Capital gains are the profits realized from the sale of assets such as stocks, bonds, or real estate when the selling price exceeds the purchase price. These gains are categorized into two types: short-term and long-term, based on the holding period of the asset sold.

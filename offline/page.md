@@ -1,7 +1,8 @@
 ---
-title: Offline Machine Learning Techniques And Practical Applications
+category: quant_concept
 description: Offline machine learning trains models on fixed datasets for reliable
   predictions periodic retraining ensures up to date results discover more inside
+title: Offline Machine Learning Techniques And Practical Applications
 ---
 
 ![Image](images/1.png)

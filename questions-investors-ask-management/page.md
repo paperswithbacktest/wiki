@@ -1,6 +1,9 @@
 ---
-title: "Questions Investors Ask Management (Algo Trading)"
-description: "Explore how investor relations, strategic management, and algorithmic trading interplay to shape investment decisions and market perceptions in modern finance."
+category: quant_concept
+description: Explore how investor relations, strategic management, and algorithmic
+  trading interplay to shape investment decisions and market perceptions in modern
+  finance.
+title: Questions Investors Ask Management (Algo Trading)
 ---
 
 Investor relations is a strategic management responsibility that integrates finance, communication, marketing, and securities law compliance to enable effective two-way communication between a company, the financial community, and other constituents. This is vital for publicly traded companies as it maintains robust relationships with investors, impacting market perception and, consequently, the company's valuation. Effective investor relations cultivate investor confidence, potentially leading to increased investment and lower capital costs.

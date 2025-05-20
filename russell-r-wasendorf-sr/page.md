@@ -1,6 +1,9 @@
 ---
-title: "Russell R. Wasendorf Sr. (Algo Trading)"
-description: "Explore the intricacies of financial scandals, investment fraud, and algorithmic trading through notable cases. Learn from past events to protect market integrity."
+category: quant_concept
+description: Explore the intricacies of financial scandals, investment fraud, and
+  algorithmic trading through notable cases. Learn from past events to protect market
+  integrity.
+title: Russell R. Wasendorf Sr. (Algo Trading)
 ---
 
 In the complex world of finance, certain terms like business scandals, investment fraud, Ponzi schemes, and algorithmic trading often surface, leaving a trail of intrigue and, sometimes, financial ruin. These terms encapsulate a spectrum of unethical practices and technological challenges that continue to shape the dynamics of modern financial markets.

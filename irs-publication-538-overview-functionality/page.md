@@ -1,6 +1,9 @@
 ---
-title: "IRS Publication 538: Overview and Functionality (Algo Trading)"
-description: "Explore IRS Publication 538 to understand essential tax guidelines and accounting methods for algorithmic traders aiming for tax compliance and accurate financial reporting."
+category: quant_concept
+description: Explore IRS Publication 538 to understand essential tax guidelines and
+  accounting methods for algorithmic traders aiming for tax compliance and accurate
+  financial reporting.
+title: 'IRS Publication 538: Overview and Functionality (Algo Trading)'
 ---
 
 In today's fast-paced financial environment, algorithmic trading has become increasingly prevalent, capturing the attention of traders, investors, and regulators such as the IRS. Algorithmic trading involves using computer algorithms to execute trades at high speeds and volumes, which can complicate tax reporting and compliance. Consequently, understanding the relevant tax regulations is crucial for traders operating in this space.

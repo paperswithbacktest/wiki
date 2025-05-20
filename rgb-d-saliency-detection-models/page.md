@@ -1,7 +1,8 @@
 ---
-title: UCNet RGB-D Saliency Detection Architecture And Applications
+category: quant_concept
 description: RGB-D saliency detection with UCNet enhances image focus by integrating
   color and depth data for precise maps in real time Discover more inside.
+title: UCNet RGB-D Saliency Detection Architecture And Applications
 ---
 
 ![Image](images/1.png)

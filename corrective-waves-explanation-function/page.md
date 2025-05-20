@@ -1,6 +1,9 @@
 ---
-title: "Corrective Waves: Explanation and Function (Algo Trading)"
-description: "Explore how corrective waves in wave theory aid traders in anticipating market corrections and reversals Learn about their role in enhancing algorithmic trading strategies"
+category: quant_concept
+description: Explore how corrective waves in wave theory aid traders in anticipating
+  market corrections and reversals Learn about their role in enhancing algorithmic
+  trading strategies
+title: 'Corrective Waves: Explanation and Function (Algo Trading)'
 ---
 
 Understanding the intricate world of financial markets requires an exploration of various theories and analytical approaches. Among these, wave theory stands out as a significant framework for predicting market trends and movements. Wave theory, notably associated with Elliott Wave Theory, suggests that financial markets move in predictable waves or patterns. These patterns consist of impulse waves, which follow the direction of the main trend, and corrective waves, which indicate temporary reversals or market corrections. Recognizing and interpreting these waves can provide insights into future market behaviors.

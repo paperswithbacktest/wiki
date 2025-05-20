@@ -1,6 +1,9 @@
 ---
-title: "Ancillary Revenue: Overview and Examples (Algo Trading)"
-description: "Explore how ancillary revenue and algorithmic trading are reshaping business income strategies Learn through examples how these concepts can drive sustainable growth"
+category: quant_concept
+description: Explore how ancillary revenue and algorithmic trading are reshaping business
+  income strategies Learn through examples how these concepts can drive sustainable
+  growth
+title: 'Ancillary Revenue: Overview and Examples (Algo Trading)'
 ---
 
 In the constantly evolving world of finance, understanding the expansive array of revenue streams is crucial for businesses seeking sustainable growth. Traditional sources of income remain essential; however, the incorporation of modern strategies like algorithmic trading is becoming increasingly important. Ancillary revenue and algorithmic trading are distinct yet interconnected financial streams that play a critical role in redefining corporate revenue structures.

@@ -1,6 +1,9 @@
 ---
-title: "Genuine Progress Indicator Compared to GDP (Algo Trading)"
-description: "Discover how the Genuine Progress Indicator (GPI) contrasts with GDP by integrating environmental and social metrics, and its impact on algorithmic trading strategies."
+category: quant_concept
+description: Discover how the Genuine Progress Indicator (GPI) contrasts with GDP
+  by integrating environmental and social metrics, and its impact on algorithmic trading
+  strategies.
+title: Genuine Progress Indicator Compared to GDP (Algo Trading)
 ---
 
 In today's global economy, traditional metrics like Gross Domestic Product (GDP) have been the standard for assessing economic growth. GDP serves as a comprehensive measure of a country's economic activity, reflecting the market value of all finished goods and services produced within a specific time frame. However, its focus on economic transactions often overlooks critical aspects of societal welfare, such as income distribution, environmental sustainability, and social well-being. This leads to criticisms that GDP may not accurately represent the true prosperity of a nation's citizens.

@@ -1,6 +1,9 @@
 ---
-title: "Do Not Reduce: Overview and Functionality (Algo Trading)"
-description: "Explore the significance of Do Not Reduce orders in algorithmic trading to maintain strategic price levels amid dividend announcements for effective trade management."
+category: quant_concept
+description: Explore the significance of Do Not Reduce orders in algorithmic trading
+  to maintain strategic price levels amid dividend announcements for effective trade
+  management.
+title: 'Do Not Reduce: Overview and Functionality (Algo Trading)'
 ---
 
 In algorithmic trading, the nuances of order management can significantly impact trade outcomes. A key feature that often goes underappreciated by novice traders is the Do Not Reduce (DNR) order, particularly when dealing in dividend-paying securities. The DNR order is designed to maintain the specified price of a pending order even when the underlying security announces a dividend, which would typically result in a price reduction. This characteristic helps in preserving the integrity of the original trading strategy, thus providing an advantage in trading scenarios where price stability is critical.

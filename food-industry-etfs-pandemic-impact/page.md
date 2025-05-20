@@ -1,6 +1,8 @@
 ---
-title: "Food Industry ETFs and Their Pandemic Impact (Algo Trading)"
-description: "Explore the pandemic's impact on Food Industry ETFs, highlighting shifts in consumer behavior, supply chain disruptions, and the role of algorithmic trading."
+category: trading_strategy
+description: Explore the pandemic's impact on Food Industry ETFs, highlighting shifts
+  in consumer behavior, supply chain disruptions, and the role of algorithmic trading.
+title: Food Industry ETFs and Their Pandemic Impact (Algo Trading)
 ---
 
 The COVID-19 pandemic has brought about significant changes across various industries, with the food industry being notably affected. This article seeks to explore the complex relationship between the changes induced by the pandemic within the food industry and their impact on Food Industry Exchange-Traded Funds (ETFs). Food Industry ETFs represent a diverse and compelling segment of the investment market, primarily due to their exposure to companies encompassing restaurants, grocery stores, and food manufacturers. 

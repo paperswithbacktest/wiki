@@ -1,6 +1,8 @@
 ---
-title: "SEC Form N-30B-2 (Algo Trading)"
-description: "Ensure compliance in algorithmic trading with SEC Form N-30B-2 Discover how this essential filing enhances transparency and protects investor interests."
+category: quant_concept
+description: Ensure compliance in algorithmic trading with SEC Form N-30B-2 Discover
+  how this essential filing enhances transparency and protects investor interests.
+title: SEC Form N-30B-2 (Algo Trading)
 ---
 
 In the rapidly evolving landscape of financial markets, compliance and transparency have become paramount. The complexity and pace of current financial activities, driven by technology and digital communication, necessitate robust regulatory frameworks to ensure fairness and protect investor interests. Within this regulatory framework, Form N-30B-2 emerges as a pivotal tool for mutual fund companies. This form, mandated by the Securities and Exchange Commission (SEC), acts as a mechanism to monitor and enforce adherence to established financial regulations, particularly those concerning investor communications and disclosures.

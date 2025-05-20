@@ -1,6 +1,8 @@
 ---
-title: "Investment Potential of High-Yield Bonds (Algo Trading)"
-description: "Explore the investment potential of high-yield bonds combined with algorithmic trading strategies to navigate risks and maximize returns in dynamic markets."
+category: trading_strategy
+description: Explore the investment potential of high-yield bonds combined with algorithmic
+  trading strategies to navigate risks and maximize returns in dynamic markets.
+title: Investment Potential of High-Yield Bonds (Algo Trading)
 ---
 
 In recent years, the financial investment landscape has seen significant evolution, particularly with the advent and intersection of high-yield bonds, often termed 'junk bonds', and algorithmic trading. High-yield bonds have become a focal point for investors willing to embrace increased risk for the prospect of higher returns. These bonds, issued by companies with lower credit ratings, offer elevated yields to compensate for their inherent default risk. This dynamic presents an attractive opportunity for investors ready to navigate the volatility and uncertainty associated with these financial instruments.

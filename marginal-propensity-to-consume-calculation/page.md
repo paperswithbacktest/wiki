@@ -1,6 +1,8 @@
 ---
-title: "Marginal Propensity to Consume Calculation (Algo Trading)"
-description: "Explore the integration of Marginal Propensity to Consume in algorithmic trading discover its economic impact on consumer behavior and market trends analysis."
+category: quant_concept
+description: Explore the integration of Marginal Propensity to Consume in algorithmic
+  trading discover its economic impact on consumer behavior and market trends analysis.
+title: Marginal Propensity to Consume Calculation (Algo Trading)
 ---
 
 In today's fast-paced financial world, understanding economic concepts is crucial for effective decision-making. A deep comprehension of these concepts not only aids in navigating the complexities of economic systems but also strengthens the ability to predict and respond to market changes effectively. One key concept that plays a significant role in economic analysis and trading strategies is the Marginal Propensity to Consume (MPC). This concept is central to the study of consumer behavior, providing insight into how income variations influence spending habits.

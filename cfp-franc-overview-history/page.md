@@ -1,6 +1,8 @@
 ---
-title: "CFP Franc: Overview and History (Algo Trading)"
-description: "Discover the significance of the CFP Franc in finance and its role in algorithmic trading. Explore strategies to effectively engage with XPF currency."
+category: quant_concept
+description: Discover the significance of the CFP Franc in finance and its role in
+  algorithmic trading. Explore strategies to effectively engage with XPF currency.
+title: 'CFP Franc: Overview and History (Algo Trading)'
 ---
 
 The XPF currency, also known as the French Pacific Franc or CFP Franc, is integral to the financial systems of French Polynesia, New Caledonia, and Wallis and Futuna. Introduced in 1945, the CFP Franc was established to shield these territories from the adverse effects of the devaluation of the French Franc post-World War II. This ensured their economic stability and protected their purchasing power in a tumultuous global economic climate.

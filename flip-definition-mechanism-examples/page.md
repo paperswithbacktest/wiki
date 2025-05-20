@@ -1,6 +1,9 @@
 ---
-title: "Flip: Definition, Mechanism, and Examples (Algo Trading)"
-description: "Explore the mechanics and implications of mechanism flips in algorithmic trading. Learn how these unexpected changes in trading behavior affect strategy and risk management."
+category: quant_concept
+description: Explore the mechanics and implications of mechanism flips in algorithmic
+  trading. Learn how these unexpected changes in trading behavior affect strategy
+  and risk management.
+title: 'Flip: Definition, Mechanism, and Examples (Algo Trading)'
 ---
 
 Algorithmic trading, often referred to as algo trading, involves using computer algorithms to automate the process of buying and selling financial instruments. This approach has gained significant traction in modern financial markets due to its ability to process vast amounts of data at high speed, execute orders with precision, and operate without the biases and emotional influences inherent in human traders. As markets become increasingly complex and interdependent, the role of algorithmic trading becomes even more crucial in maintaining efficiency and competitiveness.

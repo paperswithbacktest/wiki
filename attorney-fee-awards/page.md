@@ -1,6 +1,8 @@
 ---
-title: "Attorney Fee Awards (Algo Trading)"
-description: "Understand attorney fees, legal costs, and fee awards in the context of algorithmic trading. Find insights on cost structures and legal implications."
+category: quant_concept
+description: Understand attorney fees, legal costs, and fee awards in the context
+  of algorithmic trading. Find insights on cost structures and legal implications.
+title: Attorney Fee Awards (Algo Trading)
 ---
 
 In the complex world of law and finance, understanding the nuances of legal costs, attorney fees, and fee awards becomes crucial, especially for individuals and businesses involved in litigation. Legal disputes often entail significant financial implications, and knowledge of how these costs are determined and the circumstances under which they might be shifted is vital. This article explores the various facets of attorney fees, legal costs, and fee awards. It places a special focus on algorithmic trading, a rapidly expanding field that poses unique legal challenges.

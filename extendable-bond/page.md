@@ -1,6 +1,9 @@
 ---
-title: "Extendable Bond (Algo Trading)"
-description: "Explore the dynamic world of extendable bonds and algorithmic trading Discover how these financial innovations shape today's bond investment strategies and trends"
+category: quant_concept
+description: Explore the dynamic world of extendable bonds and algorithmic trading
+  Discover how these financial innovations shape today's bond investment strategies
+  and trends
+title: Extendable Bond (Algo Trading)
 ---
 
 Investment bonds represent a fundamental component of financial markets, serving as pivotal instruments for both institutional and individual investors. These securities are a cornerstone of bond finance, offering avenues for capital preservation, income generation, and risk management. The breadth of investment bonds spans from traditional government and corporate bonds to innovative instruments like extendable bonds. The latter have gained traction in modern portfolios due to their unique feature: the embedded option to extend the bond's maturity, providing investors with flexibility in varying interest rate environments.

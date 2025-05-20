@@ -1,6 +1,9 @@
 ---
-title: "Net Exports: Overview, Examples, and Calculation (Algo Trading)"
-description: "Explore net exports with this comprehensive guide covering their impact on trade balance and GDP The role of algorithmic trading in economic indicators is also discussed"
+category: quant_concept
+description: Explore net exports with this comprehensive guide covering their impact
+  on trade balance and GDP The role of algorithmic trading in economic indicators
+  is also discussed
+title: 'Net Exports: Overview, Examples, and Calculation (Algo Trading)'
 ---
 
 The global economy is intricately connected through the exchange of goods and services. Understanding the trade balance is crucial in this complex system. Trade balance is defined as the difference between a country's exports and imports. This figure is a significant indicator of a country's economic health, impacting its Gross Domestic Product (GDP) and providing insight into the nation's competitiveness in the global market.

@@ -1,6 +1,8 @@
 ---
-title: "Accumulated Earnings and Profits Vs. Retained Earnings (Algo Trading)"
-description: "Explore the distinctions between accumulated earnings and retained earnings in algo trading Understanding these financial metrics enhances trading strategies"
+category: quant_concept
+description: Explore the distinctions between accumulated earnings and retained earnings
+  in algo trading Understanding these financial metrics enhances trading strategies
+title: Accumulated Earnings and Profits Vs. Retained Earnings (Algo Trading)
 ---
 
 In the increasingly complex world of finance and business, understanding key financial concepts such as accumulated earnings, retained earnings, and profits is crucial. These metrics provide insight into a company's financial health and inform various trading strategies, including algorithmic trading. Accumulated earnings represent a company’s capacity to earn and reinvest over time, serving as a broad measure of operational success. Retained earnings highlight the portion of net profits that are reinvested in the company rather than distributed as dividends, indicating a strategic focus on growth.

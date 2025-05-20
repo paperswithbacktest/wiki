@@ -1,6 +1,8 @@
 ---
-title: "History of Income Inequality in the United States (Algo Trading)"
-description: "Explore the historical roots of income inequality in the US shaped by socio-economic policies and technological advancements like algorithmic trading."
+category: quant_concept
+description: Explore the historical roots of income inequality in the US shaped by
+  socio-economic policies and technological advancements like algorithmic trading.
+title: History of Income Inequality in the United States (Algo Trading)
 ---
 
 Income inequality in the United States has become an increasingly pressing issue, with economic disparity growing significantly over the past few decades. This widening gap in wealth and income distribution is not a new phenomenon; rather, it has deep historical roots that are intricately tied to socio-economic policies and technological advancements. The history of income inequality in the U.S. can be traced back to pivotal moments and decisions, including those involving early industrial practices and significant socio-economic policies.

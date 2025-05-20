@@ -1,6 +1,8 @@
 ---
-title: "Downsizing: Impact and Case Studies (Algo Trading)"
-description: "Explore the impacts of corporate downsizing and algorithmic trading on businesses Learn how these strategies drive efficiency and require innovative adaptation"
+category: trading_strategy
+description: Explore the impacts of corporate downsizing and algorithmic trading on
+  businesses Learn how these strategies drive efficiency and require innovative adaptation
+title: 'Downsizing: Impact and Case Studies (Algo Trading)'
 ---
 
 In today's fast-paced corporate environment, companies frequently undergo a myriad of changes to retain and enhance their competitive positions. One notable adaptation strategy includes downsizing, which involves the reduction of a company's workforce to decrease costs and improve operational efficiency. This strategy is often implemented during economic downturns or as part of broader restructuring efforts aimed at navigating shifting market landscapes. Simultaneously, organizational change, which encompasses modifications in company structure, strategies, and operations, is deployed to bolster competitiveness, accelerate growth, or meet evolving market demands.

@@ -1,6 +1,12 @@
 ---
-title: "Maximum likelihood estimator (Algo Trading)"
-description: Explore how Maximum Likelihood Estimation (MLE) enhances algorithmic trading by optimizing trade strategies and refining predictive models. Crucial for parameter estimation, MLE aids traders in accurately modeling market behavior, leveraging Python’s comprehensive libraries for statistical analysis. Unlock MLE’s potential to improve strategy performance and adaptability, allowing traders to effectively respond to financial market dynamics.
+category: quant_concept
+description: Explore how Maximum Likelihood Estimation (MLE) enhances algorithmic
+  trading by optimizing trade strategies and refining predictive models. Crucial for
+  parameter estimation, MLE aids traders in accurately modeling market behavior, leveraging
+  Python’s comprehensive libraries for statistical analysis. Unlock MLE’s potential
+  to improve strategy performance and adaptability, allowing traders to effectively
+  respond to financial market dynamics.
+title: Maximum likelihood estimator (Algo Trading)
 ---
 
 Algorithmic trading, commonly referred to as algo trading, leverages mathematical models and sophisticated software to automate the process of executing trades in financial markets. This approach allows traders to make decisions and place orders with unprecedented speed and accuracy. A key component of refining these algorithmic models is parameter estimation, which ensures that the models work optimally under varying market conditions.

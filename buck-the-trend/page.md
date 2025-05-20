@@ -1,6 +1,8 @@
 ---
-title: "Buck the Trend (Algo Trading)"
-description: "Explore trend reversals in algorithmic trading to identify profitable opportunities by challenging conventional strategies and leveraging technical insights."
+category: trading_strategy
+description: Explore trend reversals in algorithmic trading to identify profitable
+  opportunities by challenging conventional strategies and leveraging technical insights.
+title: Buck the Trend (Algo Trading)
 ---
 
 In the ever-evolving world of trading, understanding and leveraging trend reversals can be a game-changer for investors. Trend reversals, which signify a shift in the direction of a market's price trend, offer substantial opportunities for traders willing to identify and act on these pivotal moments. The concept of 'bucking the trend' in algorithmic trading refers to capitalizing on securities that move contrary to the prevailing market direction. This approach not only challenges conventional trading strategies but also offers the potential for enhanced returns.

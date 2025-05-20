@@ -1,6 +1,9 @@
 ---
-title: "International Money Market (Algo Trading)"
-description: "Explore the transformative impact of algorithmic trading in the forex market Discover how automation enhances efficiency and strategy development in currency trading"
+category: trading_strategy
+description: Explore the transformative impact of algorithmic trading in the forex
+  market Discover how automation enhances efficiency and strategy development in currency
+  trading
+title: International Money Market (Algo Trading)
 ---
 
 Foreign exchange (forex) trading is a significant component of global finance, characterized by its vast scale and dynamic nature. With an estimated daily trading volume exceeding $6 trillion, the forex market is the largest financial market worldwide, attracting diverse participants ranging from central banks to individual investors. The fundamental objective of forex trading is the exchange of currencies, a necessity for international trade and investment.

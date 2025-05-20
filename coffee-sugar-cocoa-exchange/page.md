@@ -1,6 +1,9 @@
 ---
-title: "Coffee, Sugar and Cocoa Exchange (Algo Trading)"
-description: "Explore the evolution of the Coffee Sugar and Cocoa Exchange into ICE Futures US highlighting the impact of algorithmic trading on modern commodities markets."
+category: trading_strategy
+description: Explore the evolution of the Coffee Sugar and Cocoa Exchange into ICE
+  Futures US highlighting the impact of algorithmic trading on modern commodities
+  markets.
+title: Coffee, Sugar and Cocoa Exchange (Algo Trading)
 ---
 
 Commodities trading represents a cornerstone of global financial markets, enabling the exchange of raw materials and primary agricultural products. Among these commodities, coffee stands out due to its substantial economic impact and its status as one of the most traded agricultural commodities worldwide. The dynamic nature of the coffee market reflects broader trends and shifts in the commodities sector, making it an essential area of study for traders and economists alike.

@@ -1,6 +1,8 @@
 ---
-title: "Manual Trading: Overview and Mechanics (Algo Trading)"
-description: "Discover the dynamics between manual and algorithmic trading Learn how each strategy's unique characteristics can influence trading decisions and opportunities"
+category: trading_strategy
+description: Discover the dynamics between manual and algorithmic trading Learn how
+  each strategy's unique characteristics can influence trading decisions and opportunities
+title: 'Manual Trading: Overview and Mechanics (Algo Trading)'
 ---
 
 In today's trading landscape, the roles of manual and automated strategies continue to be integral to market dynamics. Both approaches offer distinct characteristics and opportunities, shaping how traders engage with the financial markets. Understanding the strengths and weaknesses of each can significantly enhance a trader's ability to make informed decisions.

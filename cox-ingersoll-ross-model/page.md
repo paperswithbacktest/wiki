@@ -1,6 +1,9 @@
 ---
-title: "Cox-Ingersoll-Ross model (Algo Trading)"
-description: "Explore the CIR model for interest rate dynamics in algorithmic trading Learn how it captures realistic rate paths and aids in derivative pricing and risk management"
+category: quant_concept
+description: Explore the CIR model for interest rate dynamics in algorithmic trading
+  Learn how it captures realistic rate paths and aids in derivative pricing and risk
+  management
+title: Cox-Ingersoll-Ross model (Algo Trading)
 ---
 
 The Cox-Ingersoll-Ross (CIR) model, devised in 1985 by John C. Cox, Jonathan E. Ingersoll, and Stephen A. Ross, stands as a pivotal mathematical finance model employed to capture the dynamics of interest rate movements. Positioned as a one-factor model, the CIR model emphasizes short-term interest rate variations, largely influenced by market risk factors. This model serves as an extension of the Vasicek model, differentiating itself by utilizing a stochastic differential equation that circumvents the possibility of negative interest rates, a constraint indispensable for depicting realistic interest rate scenarios.

@@ -1,6 +1,8 @@
 ---
-title: "Economic Order Quantity: Meaning and Importance (Algo Trading)"
-description: "Explore the significance of Economic Order Quantity in inventory management and its integration with algorithmic trading for optimal supply chain efficiency."
+category: quant_concept
+description: Explore the significance of Economic Order Quantity in inventory management
+  and its integration with algorithmic trading for optimal supply chain efficiency.
+title: 'Economic Order Quantity: Meaning and Importance (Algo Trading)'
 ---
 
 Inventory management plays a crucial role in the efficiency and effectiveness of modern business operations. It involves managing stock levels to ensure that products are available to meet customer demands while minimizing costs. Effective inventory management is instrumental in optimizing supply chain strategies, leading to smoother operations, reduced overheads, and improved customer satisfaction. This interconnectedness between inventory management and the supply chain emphasizes the importance of a well-coordinated approach to address the dynamic needs of today's businesses.

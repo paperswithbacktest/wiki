@@ -1,6 +1,10 @@
 ---
-title: "Dividend Entitlement for Long Call Option Holders on Stock Record Date (Algo Trading)"
-description: "Discover the interplay between dividends, long call options, and algo trading. Unlock strategies to optimize trading and maximize returns on dividend payouts."
+category: quant_concept
+description: Discover the interplay between dividends, long call options, and algo
+  trading. Unlock strategies to optimize trading and maximize returns on dividend
+  payouts.
+title: Dividend Entitlement for Long Call Option Holders on Stock Record Date (Algo
+  Trading)
 ---
 
 In the world of finance, dividends, stock record dates, long call options, and algorithmic trading are key elements that can significantly enhance an investor's strategic approach. Dividends, which are distributions of a corporation's earnings to its shareholders, play a crucial role in determining stock valuation and influence investment strategies. To benefit from dividends, investors need to comprehend the timing and eligibility rules, primarily dictated by the stock record date. The ex-dividend date, which precedes the record date, is the deadline by which investors must own shares to qualify for dividends.

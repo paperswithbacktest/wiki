@@ -1,6 +1,8 @@
 ---
-title: "Imbalance-based trading signals (Algo Trading)"
-description: "Discover the nuances of imbalance-based trading signals in algo trading their role in predicting market shifts and optimizing strategies for better profitability."
+category: trading_strategy
+description: Discover the nuances of imbalance-based trading signals in algo trading
+  their role in predicting market shifts and optimizing strategies for better profitability.
+title: Imbalance-based trading signals (Algo Trading)
 ---
 
 In the world of finance, algorithmic trading plays a crucial role, emphasizing the need for speed and precision in trading decisions. Algorithmic trading involves the use of computer systems to execute trading orders at speeds and frequencies that are impossible for human traders. Among its several approaches, imbalance-based trading signals are gaining attention, highlighting their unique methodology within this domain.

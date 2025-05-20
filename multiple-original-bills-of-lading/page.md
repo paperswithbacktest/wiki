@@ -1,6 +1,9 @@
 ---
-title: "Multiple Original Bills of Lading (Algo Trading)"
-description: "Explore the importance of bills of lading in global shipping and the growing impact of algorithmic trading on logistics and finance in this detailed guide."
+category: quant_concept
+description: Explore the importance of bills of lading in global shipping and the
+  growing impact of algorithmic trading on logistics and finance in this detailed
+  guide.
+title: Multiple Original Bills of Lading (Algo Trading)
 ---
 
 The globalization of trade has significantly increased the complexity of shipping and logistics. This intricate environment is managed through essential documents and techniques, among which the bill of lading and algorithmic trading hold paramount importance. The bill of lading, a cornerstone of the shipping industry, serves as a pivotal tool for facilitating the movement of goods across borders. It acts as a legal document between the shipper and carrier, outlining the specifics of the shipment, thus ensuring the safe and efficient transport of goods. The various types include straight, shipper’s order, clean, and onboard bills of lading, each designed to suit specific transportation needs and security conditions.

@@ -1,6 +1,8 @@
 ---
-title: "Predictive Analytics: Model Types and Applications (Algo Trading)"
-description: "Explore the role of predictive analytics in algorithmic trading, highlighting various model types like regression, time series, decision trees and neural networks."
+category: quant_concept
+description: Explore the role of predictive analytics in algorithmic trading, highlighting
+  various model types like regression, time series, decision trees and neural networks.
+title: 'Predictive Analytics: Model Types and Applications (Algo Trading)'
 ---
 
 Predictive analytics is a branch of advanced analytics that involves using historical data, statistical algorithms, and machine learning techniques to make predictions about future events. It is a powerful tool in data-driven decision-making processes, providing insights that can drive strategic actions. In the context of modern industries, predictive analytics is crucial for gaining a competitive edge by anticipating trends, understanding consumer behavior, and optimizing operations.

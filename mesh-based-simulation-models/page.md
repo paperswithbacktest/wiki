@@ -1,7 +1,8 @@
 ---
-title: Understanding Mesh-Based Simulation Models With MeshGraphNet
+category: quant_concept
 description: Mesh-based simulation models effectively represent complex systems through
   nodes and edges using MeshGraphNet in machine learning Discover more inside
+title: Understanding Mesh-Based Simulation Models With MeshGraphNet
 ---
 
 ![Image](images/1.png)

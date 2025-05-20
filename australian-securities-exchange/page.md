@@ -1,6 +1,9 @@
 ---
-title: "Australian Securities Exchange (Algo Trading)"
-description: "Discover how algorithmic trading transforms the Australian Securities Exchange with increased efficiency liquidity and reduced costs in the financial markets."
+category: quant_concept
+description: Discover how algorithmic trading transforms the Australian Securities
+  Exchange with increased efficiency liquidity and reduced costs in the financial
+  markets.
+title: Australian Securities Exchange (Algo Trading)
 ---
 
 The Australian Securities Exchange (ASX) serves as a cornerstone in Australia's financial markets, functioning as the primary stock exchange where a diverse range of financial securities such as shares and derivatives are traded. Structured as an integrated exchange, the ASX offers product listings encompassing equities, exchange-traded funds (ETFs), and derivatives, providing crucial infrastructure for both issuers and investors.

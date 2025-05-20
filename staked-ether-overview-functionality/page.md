@@ -1,6 +1,8 @@
 ---
-title: "Staked Ether: Overview and Functionality (Algo Trading)"
-description: "Explore the role of staked Ether and algorithmic trading in Ethereum's PoS mechanism Learn about liquid staking with stETH and its impact on DeFi strategies"
+category: quant_concept
+description: Explore the role of staked Ether and algorithmic trading in Ethereum's
+  PoS mechanism Learn about liquid staking with stETH and its impact on DeFi strategies
+title: 'Staked Ether: Overview and Functionality (Algo Trading)'
 ---
 
 Ethereum is a decentralized blockchain platform that facilitates the creation and execution of smart contracts and decentralized applications (dApps). Launched in 2015, it has quickly become a pivotal component in the world of digital finance due to its versatility and active developer community. Ethereum's native cryptocurrency, Ether (ETH), is used for transaction fees and as a staking asset.

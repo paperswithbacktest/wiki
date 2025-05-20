@@ -1,6 +1,8 @@
 ---
-title: "Comparison of S&P 500 and Russell 2000 Indexes (Algo Trading)"
-description: "Explore the differences between the S&P 500 and Russell 2000 indexes in algorithmic trading and learn how they influence strategy and market performance."
+category: trading_strategy
+description: Explore the differences between the S&P 500 and Russell 2000 indexes
+  in algorithmic trading and learn how they influence strategy and market performance.
+title: Comparison of S&P 500 and Russell 2000 Indexes (Algo Trading)
 ---
 
 The financial landscape has witnessed a transformative shift with the integration of digital trading platforms and algorithmic trading. This evolution has significantly impacted how traders interact with market data and execute trades. Among the notable stock indexes influencing algorithmic trading are the Russell 2000 and the S&P 500, both of which offer traders key data points for strategizing and decision-making.

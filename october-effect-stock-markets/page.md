@@ -1,6 +1,8 @@
 ---
-title: "October Effect in Stock Markets (Algo Trading)"
-description: "Discover the October effect in stock markets where historical fears of volatility clash with modern algorithmic trading insights for a balanced view."
+category: trading_strategy
+description: Discover the October effect in stock markets where historical fears of
+  volatility clash with modern algorithmic trading insights for a balanced view.
+title: October Effect in Stock Markets (Algo Trading)
 ---
 
 The October effect is a phenomenon that garners considerable attention within financial circles, characterized by a perception of heightened volatility and potential downturns in the stock market during the month of October. Historically, this reputation is linked to notable market crashes, such as the infamous crash of 1929 and Black Monday in 1987. Both events have indelibly marked the financial psyche, leading to a widespread anticipation of turbulence during this period. This article will explore the historical context of these market perceptions, evaluate recent trends, and examine how algorithmic trading may navigate or even redefine these longstanding beliefs.

@@ -1,6 +1,9 @@
 ---
-title: "Digital Ruble: Functionality, History, and Objectives (Algo Trading)"
-description: "Explore the digital ruble's role in Russia's economy as a central bank digital currency CBDC. Learn how it impacts transactions, inclusion, and financial systems."
+category: quant_concept
+description: Explore the digital ruble's role in Russia's economy as a central bank
+  digital currency CBDC. Learn how it impacts transactions, inclusion, and financial
+  systems.
+title: 'Digital Ruble: Functionality, History, and Objectives (Algo Trading)'
 ---
 
 The advent of Central Bank Digital Currencies (CBDCs) marks a significant evolution in the global financial landscape, driven by advances in digital technology and changing consumer demands. CBDCs represent a digital form of central bank money that is designed to exist alongside physical currency, offering potentially enhanced security, efficiency, and accessibility in transactions. Their growing popularity is evident, with numerous central banks worldwide actively researching or piloting their own digital currencies to enhance payment systems and monetary policy implementation.

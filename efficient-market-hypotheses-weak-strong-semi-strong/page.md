@@ -1,6 +1,8 @@
 ---
-title: "Efficient Market Hypotheses: Weak, Strong, and Semi-Strong Forms (Algo Trading)"
-description: "Explore how the Efficient Market Hypothesis impacts algorithmic trading by examining weak strong and semi-strong forms and the role of market efficiency."
+category: quant_concept
+description: Explore how the Efficient Market Hypothesis impacts algorithmic trading
+  by examining weak strong and semi-strong forms and the role of market efficiency.
+title: 'Efficient Market Hypotheses: Weak, Strong, and Semi-Strong Forms (Algo Trading)'
 ---
 
 The Efficient Market Hypothesis (EMH) is a cornerstone of financial theory, positing that financial markets are adept at extracting and assimilating information. This hypothesis suggests that it is futile to consistently achieve higher-than-average returns through strategies like stock picking or market timing because stock prices already incorporate and reflect all available information. As such, the implications of EMH extend to the efficacy of both technical and fundamental analysis.

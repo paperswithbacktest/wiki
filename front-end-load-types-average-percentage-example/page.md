@@ -1,6 +1,8 @@
 ---
-title: "Front-End Load: Types, Average Percentage, and Example (Algo Trading)"
-description: "Explore the impact of front-end load fees in mutual funds, covering types, average costs, and how algorithmic trading can enhance investment strategies."
+category: quant_concept
+description: Explore the impact of front-end load fees in mutual funds, covering types,
+  average costs, and how algorithmic trading can enhance investment strategies.
+title: 'Front-End Load: Types, Average Percentage, and Example (Algo Trading)'
 ---
 
 Mutual funds have become a cornerstone in the global investment landscape, providing individual and institutional investors with a diversified portfolio managed by professional fund managers. These funds pool money from multiple investors to purchase a variety of securities, including stocks, bonds, and other assets, making them accessible to a wide range of investors regardless of their investment expertise or resources. The significance of mutual funds lies in their ability to offer risk diversification, potential for higher returns, and professional management, often at a lower cost compared to investing individually in a multitude of financial instruments.

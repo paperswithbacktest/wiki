@@ -1,7 +1,8 @@
 ---
-title: Convolutional Neural Network Architecture and Key Applications
+category: quant_concept
 description: Convolutional Neural Network architectures leverage convolution pooling
   activation layers to extract image features for vision tasks Discover more inside
+title: Convolutional Neural Network Architecture and Key Applications
 ---
 
 ![Image](images/1.jpeg)

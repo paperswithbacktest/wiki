@@ -1,6 +1,9 @@
 ---
-title: "Decred: Overview, Mechanisms, and Objectives (Algo Trading)"
-description: "Explore Decred's hybrid consensus mechanism and community-driven governance in the cryptocurrency landscape Discover algo trading opportunities within the Decred network"
+category: quant_concept
+description: Explore Decred's hybrid consensus mechanism and community-driven governance
+  in the cryptocurrency landscape Discover algo trading opportunities within the Decred
+  network
+title: 'Decred: Overview, Mechanisms, and Objectives (Algo Trading)'
 ---
 
 In the ever-evolving landscape of cryptocurrencies, Decred (DCR) has carved out a distinct position by implementing a hybrid consensus mechanism that combines elements of Proof-of-Work (PoW) and Proof-of-Stake (PoS). This unique approach emphasizes governance and community involvement, setting Decred apart from many other cryptocurrencies. By incorporating both PoW and PoS, Decred not only ensures enhanced security through its dual-consensus system but also promotes a democratic decision-making process that empowers its community members. This characteristic makes it a pioneer in amending blockchain governance issues, aiming to mitigate centralized control and improve transparency.

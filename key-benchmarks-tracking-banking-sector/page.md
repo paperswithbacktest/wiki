@@ -1,6 +1,9 @@
 ---
-title: "Key Benchmarks Tracking the Banking Sector (Algo Trading)"
-description: "Explore the dynamic interaction between banking benchmarks, financial indices, and algo trading in the financial sector. Understand their impact on investment strategies."
+category: quant_concept
+description: Explore the dynamic interaction between banking benchmarks, financial
+  indices, and algo trading in the financial sector. Understand their impact on investment
+  strategies.
+title: Key Benchmarks Tracking the Banking Sector (Algo Trading)
 ---
 
 The banking sector plays an essential role in the global financial market, serving as a bridge between depositors and borrowers, while also facilitating payment systems, investment avenues, and risk management. Its influence and susceptibility to various economic factors make it a crucial component in understanding the broader financial landscape. Tracking financial indices that are closely related to the banking sector can provide invaluable insights into the sector's performance and overall health. These indices serve as benchmarks for evaluating the economic conditions affecting the sector, as well as guiding investment and policy decisions.

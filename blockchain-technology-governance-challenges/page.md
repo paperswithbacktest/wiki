@@ -1,6 +1,9 @@
 ---
-title: "Blockchain Technology and Governance Challenges (Algo Trading)"
-description: "Explore the complexities of blockchain and algorithmic trading including governance and scalability issues that impact their transformative potential in finance."
+category: quant_concept
+description: Explore the complexities of blockchain and algorithmic trading including
+  governance and scalability issues that impact their transformative potential in
+  finance.
+title: Blockchain Technology and Governance Challenges (Algo Trading)
 ---
 
 In the ever-evolving landscape of technology and finance, blockchain technology and algorithmic trading are two areas that are gaining significant attention due to their transformative potential. Blockchain technology, renowned for its decentralized and secure nature, facilitates transparent, immutable transactions across a distributed network. Meanwhile, algorithmic trading automates complex trading decisions by leveraging sophisticated algorithms and software, enabling market operations at speeds and scales beyond human capability.

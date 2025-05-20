@@ -1,6 +1,9 @@
 ---
-title: "Investment Benefits of Tangible Assets (Algo Trading)"
-description: "Discover how tangible assets like real estate and machinery enhance investment portfolios through stability and income benefits Learn about algorithmic trading's role"
+category: quant_concept
+description: Discover how tangible assets like real estate and machinery enhance investment
+  portfolios through stability and income benefits Learn about algorithmic trading's
+  role
+title: Investment Benefits of Tangible Assets (Algo Trading)
 ---
 
 In the rapidly evolving world of finance, understanding different asset types and investment strategies is crucial for making informed decisions. Tangible assets, such as real estate, machinery, and inventory, play a significant role in an investment portfolio due to their physical presence and intrinsic value. These assets are particularly attractive to risk-averse investors because of their stability and income-generating capabilities. In contrast, intangible assets, including stocks, bonds, and intellectual property, derive their value from non-physical entities and are often subject to market volatility.

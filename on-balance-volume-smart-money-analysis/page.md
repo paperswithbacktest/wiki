@@ -1,6 +1,8 @@
 ---
-title: "On-Balance Volume and Smart Money Analysis (Algo Trading)"
-description: "Discover how On-Balance Volume (OBV) enhances smart money analysis in algorithmic trading Learn to anticipate market trends and refine trading strategies"
+category: trading_strategy
+description: Discover how On-Balance Volume (OBV) enhances smart money analysis in
+  algorithmic trading Learn to anticipate market trends and refine trading strategies
+title: On-Balance Volume and Smart Money Analysis (Algo Trading)
 ---
 
 Technical analysis has long been a cornerstone of financial markets, aiding traders and investors in making informed decisions. Within this domain, specific tools and indicators have gained prominence due to their effectiveness in predicting market movements. Among these, On-Balance Volume (OBV) is particularly noteworthy for its ability to integrate momentum and volume flow to provide a clearer picture of potential market trends.

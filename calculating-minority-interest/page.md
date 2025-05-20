@@ -1,6 +1,9 @@
 ---
-title: "Calculating Minority Interest (Algo Trading)"
-description: "Explore the significance of minority interest in financial accounting and algorithmic trading Learn how these calculations optimize strategies within today's dynamic market landscape"
+category: quant_concept
+description: Explore the significance of minority interest in financial accounting
+  and algorithmic trading Learn how these calculations optimize strategies within
+  today's dynamic market landscape
+title: Calculating Minority Interest (Algo Trading)
 ---
 
 In today's rapidly evolving financial landscape, the complexities of accounting, minority interest, and financial calculations have become increasingly significant for both investors and financial professionals. With technological advancements continuously reshaping the investment sector, especially through algorithmic trading, understanding these concepts is crucial to making informed investment decisions and optimizing trading strategies.

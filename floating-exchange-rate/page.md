@@ -1,6 +1,11 @@
 ---
-title: "Floating Exchange Rate (Algo Trading)"
-description: "Explore the dynamics of floating exchange rates and the transformative role of algorithmic trading in the forex market. Understand how these elements contribute to currency valuation amid global economic shifts, offering traders and policymakers vital insights into managing risk and making informed decisions in the world's largest financial marketplace."
+category: quant_concept
+description: Explore the dynamics of floating exchange rates and the transformative
+  role of algorithmic trading in the forex market. Understand how these elements contribute
+  to currency valuation amid global economic shifts, offering traders and policymakers
+  vital insights into managing risk and making informed decisions in the world's largest
+  financial marketplace.
+title: Floating Exchange Rate (Algo Trading)
 ---
 
 The foreign exchange market, commonly known as forex, plays a pivotal role in determining currency prices worldwide. As the largest and most liquid financial marketplace, it serves as the backbone of global trade and finance, reflecting continuous economic shifts and geopolitical events. Understanding currency valuation within this vast market is crucial for traders seeking to make informed decisions and effectively manage risk.

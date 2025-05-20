@@ -1,6 +1,8 @@
 ---
-title: "Book Value Per Share in Banking Assessment (Algo Trading)"
-description: "Explore how Book Value and BVPS enhance algorithmic trading strategies by offering a blend of traditional financial analysis and modern trading techniques."
+category: quant_concept
+description: Explore how Book Value and BVPS enhance algorithmic trading strategies
+  by offering a blend of traditional financial analysis and modern trading techniques.
+title: Book Value Per Share in Banking Assessment (Algo Trading)
 ---
 
 In today's fast-paced financial markets, understanding key financial metrics is essential for evaluating company performance and assessing investment potential. Among these metrics, Book Value and Book Value per Share (BVPS) are particularly significant as they offer insights into a company's intrinsic worth, independent of market fluctuations. Book Value is calculated by subtracting total liabilities from total assets, providing a measure of the net asset value of a company. Mathematically, it is expressed as:
@@ -130,4 +132,3 @@ Practitioners interested in expanding their application of these concepts can ex
 For those looking to implement these ideas into trading software or [backtesting](/wiki/backtesting) platforms, practical guides and tutorials, often using Python, are invaluable. Resources like QuantConnect and the open-source [backtrader](/wiki/backtrader) framework provide hands-on experience in coding algorithms that incorporate fundamental financial metrics.
 
 By engaging with these texts, articles, and resources, readers can deepen their understanding of how Book Value and BVPS can be effectively melded with algorithmic trading strategies to achieve a more robust investment approach.
-

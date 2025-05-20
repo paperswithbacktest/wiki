@@ -1,6 +1,8 @@
 ---
-title: "Fundamental Elements of Stock Valuation (Algo Trading)"
-description: "Explore essential stock valuation methods and algorithmic trading strategies to make informed investment decisions in today's complex financial markets."
+category: quant_concept
+description: Explore essential stock valuation methods and algorithmic trading strategies
+  to make informed investment decisions in today's complex financial markets.
+title: Fundamental Elements of Stock Valuation (Algo Trading)
 ---
 
 In today's fast-paced financial world, understanding stock valuation and investment fundamentals is critical. Navigating the complexities of the financial markets requires a solid grounding in financial analysis, which serves as a foundation for making informed investment decisions. This article offers a comprehensive guide to essential concepts in financial analysis, emphasizing both traditional and algorithmic trading strategies.

@@ -1,6 +1,8 @@
 ---
-title: "Central Bank of Iraq: Structure and Functioning (Algo Trading)"
-description: "Explore the structure and role of the Central Bank of Iraq in stabilizing the economy while adapting international banking standards to foster financial growth."
+category: quant_concept
+description: Explore the structure and role of the Central Bank of Iraq in stabilizing
+  the economy while adapting international banking standards to foster financial growth.
+title: 'Central Bank of Iraq: Structure and Functioning (Algo Trading)'
 ---
 
 The Central Bank of Iraq (CBI) is a cornerstone in the Iraqi economy and banking system. Established in 2004, following the political changes that occurred after the fall of Saddam Hussein's regime, the CBI has been integral to the country's efforts to manage its monetary policy and ensure financial stability. By controlling inflation, stabilizing the exchange rate, and formulating an effective monetary framework, the bank plays a critical role in guiding Iraq through economic challenges and transitions.

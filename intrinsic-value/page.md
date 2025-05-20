@@ -1,6 +1,13 @@
 ---
-title: "Intrinsic Value (Algo Trading)"
-description: "Explore how intrinsic value valuation and algorithmic trading are transforming modern investment strategies. Discover the fundamentals of intrinsic value, enabling investors to assess an asset's true worth beyond market prices. Delve into algorithmic trading, where advanced algorithms optimize trade execution, reducing human error. Gain insights on integrating these tools for strategic investment decisions and efficient market navigation. Ideal for both novice and seasoned investors aiming to optimize financial strategies in dynamic markets."
+category: quant_concept
+description: Explore how intrinsic value valuation and algorithmic trading are transforming
+  modern investment strategies. Discover the fundamentals of intrinsic value, enabling
+  investors to assess an asset's true worth beyond market prices. Delve into algorithmic
+  trading, where advanced algorithms optimize trade execution, reducing human error.
+  Gain insights on integrating these tools for strategic investment decisions and
+  efficient market navigation. Ideal for both novice and seasoned investors aiming
+  to optimize financial strategies in dynamic markets.
+title: Intrinsic Value (Algo Trading)
 ---
 
 In the contemporary financial landscape, investors and traders are integrating advanced analytical tools and methodologies to enhance their decision-making processes. This article investigates two fundamental concepts in investment analysis: intrinsic value valuation and algorithmic trading. These tools are pivotal for gaining a competitive edge in the market.

@@ -1,10 +1,9 @@
 ---
-title: Understanding Queue Data Structures in Machine Learning
+category: quant_concept
 description: Queue data structures streamline machine learning workflows by organizing
   real time data streams and boosting training efficiency Discover more inside.
+title: Understanding Queue Data Structures in Machine Learning
 ---
-
-
 
 ## Table of Contents
 

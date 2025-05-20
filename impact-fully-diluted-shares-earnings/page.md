@@ -1,6 +1,8 @@
 ---
-title: "Impact of Fully Diluted Shares on Earnings (Algo Trading)"
-description: "Explore how fully diluted shares impact earnings and algorithmic trading. Discover the significance of calculating diluted EPS for informed financial decisions."
+category: quant_concept
+description: Explore how fully diluted shares impact earnings and algorithmic trading.
+  Discover the significance of calculating diluted EPS for informed financial decisions.
+title: Impact of Fully Diluted Shares on Earnings (Algo Trading)
 ---
 
 In today's fast-paced financial markets, understanding key metrics such as fully diluted shares and their impact on earnings is crucial for traders and investors. This importance stems from how these metrics influence perceptions of a company's value and profitability. Fully diluted shares account for all potential future conversions of convertible securities, offering a conservative view of the company’s share structure and earnings per share (EPS) under maximum dilution. Therefore, evaluating this metric allows for a more precise analysis of a company's financial health.
@@ -108,4 +110,3 @@ Jenkins, R. A., & Hamilton, F. (2003). "Insider Trading and the Effects of Share
 Fishman, M. J., & Hagerty, K. M. (1996). "Earnings, Dilution, and Per Share Measures: Understanding the Incentives." The Accounting Review, 71(1), 43-68. The authors focus on the strategic considerations underlying companies' financial disclosures, specifically how earnings and per-share measures are impacted by potential dilution.
 
 Johnson, B. "Algorithmic Trading and DMA: An Introduction to Direct Access Trading Strategies." This book serves as a comprehensive guide to algorithmic trading, including the technical and strategic foundations necessary for leveraging direct market access and refining trading algorithms to respond effectively to dilution and other market events.
-

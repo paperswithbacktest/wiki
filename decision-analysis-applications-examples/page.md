@@ -1,6 +1,9 @@
 ---
-title: "Decision Analysis: Applications and Examples (Algo Trading)"
-description: "Explore how decision analysis enhances algorithmic trading by optimizing decision-making through quantitative and qualitative insights for improved market strategies."
+category: quant_concept
+description: Explore how decision analysis enhances algorithmic trading by optimizing
+  decision-making through quantitative and qualitative insights for improved market
+  strategies.
+title: 'Decision Analysis: Applications and Examples (Algo Trading)'
 ---
 
 In today's fast-paced financial markets, decision-making processes are pivotal to successful trading and investment strategies. Algorithmic trading, a technology-driven trading approach, leverages automated systems to execute trades at speeds and frequencies that human traders can't match. As these systems become increasingly sophisticated, the integration of decision analysis—a structured methodology for making complex decisions—has become essential for traders aiming to optimize their outcomes.

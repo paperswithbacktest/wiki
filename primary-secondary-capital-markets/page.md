@@ -1,6 +1,8 @@
 ---
-title: "Primary and Secondary Capital Markets (Algo Trading)"
-description: "Explore the dynamics of primary and secondary capital markets in algo trading learn how they facilitate capital flow trading efficiency and market liquidity."
+category: quant_concept
+description: Explore the dynamics of primary and secondary capital markets in algo
+  trading learn how they facilitate capital flow trading efficiency and market liquidity.
+title: Primary and Secondary Capital Markets (Algo Trading)
 ---
 
 The financial world is multifaceted, abuzz with varied platforms, instruments, and participants. Among these, the capital markets stand out for their pivotal role in economic growth. At the core of capital markets are the primary and secondary markets, which serve as the bedrock of financial exchanges. These markets are essential for facilitating the flow of capital, creating investment opportunities, and ensuring efficient trading processes.
@@ -159,4 +161,3 @@ A comprehensive understanding of the dynamics between primary and secondary mark
 
 - **Does Algorithmic Trading Improve Liquidity? The Review of Financial Studies by Hendershott, T., Jones, C. M., & Menkveld, A. J.**  
   This paper investigates the impact of algorithmic trading on market liquidity, using empirical data to assess whether the rise of automation in trading leads to more liquid markets. The findings underscore the significance of algorithmic trading in enhancing market conditions, making it a pivotal study for understanding contemporary market dynamics.
-

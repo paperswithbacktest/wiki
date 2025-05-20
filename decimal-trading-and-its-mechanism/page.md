@@ -1,6 +1,9 @@
 ---
-title: "Decimal Trading and Its Mechanism (Algo Trading)"
-description: "Explore how the integration of decimal trading and algorithmic trading revolutionizes the financial markets improving efficiency precision and lowering trading costs."
+category: quant_concept
+description: Explore how the integration of decimal trading and algorithmic trading
+  revolutionizes the financial markets improving efficiency precision and lowering
+  trading costs.
+title: Decimal Trading and Its Mechanism (Algo Trading)
 ---
 
 The integration of decimal trading and algorithmic trading has transformed the trading landscape, setting a new standard for efficiency and precision. Decimal trading, a system where stock prices are quoted in decimal format rather than fractions, was fully implemented in U.S. stock exchanges by 2001. This change simplified trading by providing a more straightforward and transparent view of market prices, allowing for tighter bid-ask spreads and more granular pricing. Meanwhile, algorithmic trading uses computer programs to automate and optimize trading decisions, leveraging the ability to process vast volumes of data at speeds unattainable by human traders. These algorithms facilitate various strategies, from trend-following and statistical arbitrage to high-frequency trading, capitalizing on the opportunities brought about by decimalization.

@@ -1,6 +1,8 @@
 ---
-title: "Negotiated Sale: Overview, Mechanism, Advantages and Disadvantages (Algo Trading)"
-description: "Explore the advantages and disadvantages of negotiated sales and algorithmic trading to enhance your trading strategy with informed insights and methodologies."
+category: quant_concept
+description: Explore the advantages and disadvantages of negotiated sales and algorithmic
+  trading to enhance your trading strategy with informed insights and methodologies.
+title: 'Negotiated Sale: Overview, Mechanism, Advantages and Disadvantages (Algo Trading)'
 ---
 
 In the world of trading and investments, various processes and methodologies can significantly enhance decision-making and success. Two key areas often highlighted are negotiated sales and algorithmic trading, each presenting unique advantages and challenges. This article explores the pros and cons of these two distinct approaches to trading and aims to provide insights into their methodologies. We will examine how these processes operate, assess their benefits, and discuss their associated challenges. By understanding these aspects, investors can make informed choices suited to their trading strategies.

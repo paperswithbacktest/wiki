@@ -1,6 +1,8 @@
 ---
-title: "Denationalization: Overview and Examples (Algo Trading)"
-description: "Explore how denationalization and technology, including algorithmic trading, shape economic and legal landscapes in today's interconnected geopolitical world."
+category: quant_concept
+description: Explore how denationalization and technology, including algorithmic trading,
+  shape economic and legal landscapes in today's interconnected geopolitical world.
+title: 'Denationalization: Overview and Examples (Algo Trading)'
 ---
 
 Nationality is a cornerstone of human identity and plays a vital role in defining the legal status of individuals within the global framework. It delineates the affiliation between a person and a state, establishing a set of inherent rights and responsibilities. This legal construct is not merely a formal relationship but is intrinsically tied to one's cultural and personal identity. Despite its significance, nationality is not immutable. The processes of denationalization, citizenship removal, and nationality loss are critical legal mechanisms that can profoundly reshape an individual's rights and existence.

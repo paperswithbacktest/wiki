@@ -1,6 +1,8 @@
 ---
-title: "Hard Landing in Economics (Algo Trading)"
-description: "Explore the complexities of economic hard landings and algorithmic trading's impact on downturns Learn how these forces shape modern economies and navigate challenges"
+category: quant_concept
+description: Explore the complexities of economic hard landings and algorithmic trading's
+  impact on downturns Learn how these forces shape modern economies and navigate challenges
+title: Hard Landing in Economics (Algo Trading)
 ---
 
 The complexities of the global economy often lead to cycles of growth and contraction, phenomena that have been studied extensively across various disciplines. Economic systems are dynamic and comprised of numerous moving parts including policies, market behaviors, and external shocks. These systems are inherently cyclical, experiencing phases of expansion and contraction. This cyclical nature gives rise to periods of economic prosperity and, conversely, to periods of recession and downturn.

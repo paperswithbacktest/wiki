@@ -1,6 +1,8 @@
 ---
-title: "Differences Between Direct Costs and Variable Costs (Algo Trading)"
-description: "Explore the detailed differences between variable costs and direct costs in algo trading and learn how understanding these can optimize financial decision-making."
+category: quant_concept
+description: Explore the detailed differences between variable costs and direct costs
+  in algo trading and learn how understanding these can optimize financial decision-making.
+title: Differences Between Direct Costs and Variable Costs (Algo Trading)
 ---
 
 In today's dynamic financial landscape, understanding costs is crucial for businesses aiming to optimize their operations and enhance profitability. With the increasingly complex nature of modern markets, effective cost management becomes essential for maintaining a competitive edge. This article provides an in-depth exploration of the intricacies involved in managing variable and direct costs through the principles of cost accounting, particularly focusing on their applications in algorithmic trading.
@@ -123,4 +125,3 @@ Drury, C. (2018). *Management and Cost Accounting*. Cengage Learning.
 De Prado, M. L. (2018). *Advances in Financial Machine Learning*. Wiley.
 
 Chan, E. (2009). *Quantitative Trading: How to Build Your Own Algorithmic Trading Business*. Wiley.
-

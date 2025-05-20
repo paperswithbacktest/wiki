@@ -1,6 +1,8 @@
 ---
-title: "Canadian Dollar in Forex Trading (Algo Trading)"
-description: "Explore the impact of economic factors on the Canadian dollar and the role of algorithmic trading in the forex market to enhance trading strategies."
+category: quant_concept
+description: Explore the impact of economic factors on the Canadian dollar and the
+  role of algorithmic trading in the forex market to enhance trading strategies.
+title: Canadian Dollar in Forex Trading (Algo Trading)
 ---
 
 Forex trading is a global activity where various currencies vie for prominence. Among these currencies, the Canadian dollar (CAD) stands out because of its distinct economic and geopolitical attributes. Known colloquially as the 'Loonie', the CAD holds a significant position in the global forex market, influenced heavily by Canada's economic performance. Factors such as gross domestic product (GDP), trade balances, and inflation rates play a crucial role in determining the value of the CAD. Additionally, the close economic ties between Canada and the United States mean that the economic policies and performance of the U.S. can have considerable effects on the CAD.

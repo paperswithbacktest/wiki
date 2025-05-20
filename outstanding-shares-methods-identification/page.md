@@ -1,6 +1,9 @@
 ---
-title: "Outstanding Shares and Methods of Identification (Algo Trading)"
-description: "Explore the essential concepts of outstanding shares and algorithmic trading Learn how stock identification impacts trading strategies and enhances decision-making in today's market"
+category: quant_concept
+description: Explore the essential concepts of outstanding shares and algorithmic
+  trading Learn how stock identification impacts trading strategies and enhances decision-making
+  in today's market
+title: Outstanding Shares and Methods of Identification (Algo Trading)
 ---
 
 Understanding the stock market constitutes a fundamental aspect for both investors and traders due to its dynamic nature and potential to impact economic stability and growth. One vital element in stock trading and investment is the ability to identify different shares and comprehend their availability, often referred to as 'shares outstanding'. This involves recognizing the total number of shares currently held by all shareholders, including restricted shares held by insiders and shares available to the public. This metric is crucial for assessing aspects such as company valuation, liquidity, and ownership structure.

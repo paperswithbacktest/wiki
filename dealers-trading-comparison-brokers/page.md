@@ -1,6 +1,8 @@
 ---
-title: "Dealers in Trading and Their Comparison to Brokers (Algo Trading)"
-description: "Explore the dynamic relationships between brokers and dealers in algorithmic trading Discover their roles in enhancing market liquidity and efficiency"
+category: quant_concept
+description: Explore the dynamic relationships between brokers and dealers in algorithmic
+  trading Discover their roles in enhancing market liquidity and efficiency
+title: Dealers in Trading and Their Comparison to Brokers (Algo Trading)
 ---
 
 The financial trading world is a dynamic ecosystem that constantly evolves with technology. This evolution has given rise to a sophisticated network where trading brokers, dealers, and algorithmic trading play pivotal roles. Brokers act as intermediaries, facilitating trades for clients, while dealers often trade for their own accounts, contributing to market making. Together, they shape market operations by providing liquidity and ensuring market efficiency.

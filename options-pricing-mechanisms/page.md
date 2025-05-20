@@ -1,6 +1,8 @@
 ---
-title: "Options Pricing Mechanisms (Algo Trading)"
-description: "Explore options pricing mechanisms in algo trading including the Black-Scholes, Binomial, and Trinomial models. Understand their role in optimizing portfolios."
+category: quant_concept
+description: Explore options pricing mechanisms in algo trading including the Black-Scholes,
+  Binomial, and Trinomial models. Understand their role in optimizing portfolios.
+title: Options Pricing Mechanisms (Algo Trading)
 ---
 
 Options pricing is a critical element of financial derivatives trading, serving as an indispensable tool for both traders and financial analysts. Correctly assessing options pricing is essential for making sound investment decisions, hedging risks, and optimizing portfolios. This process involves evaluating the fair market value of options contracts, which are financial instruments that grant buyers the right, but not the obligation, to buy or sell an underlying asset at a predetermined price within a set timeframe.

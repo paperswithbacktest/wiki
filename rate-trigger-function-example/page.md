@@ -1,6 +1,9 @@
 ---
-title: "Rate Trigger: Function and Example (Algo Trading)"
-description: "Discover the role of interest rate triggers in algorithmic trading and their impact on market dynamics Learn how these components shape modern trading strategies"
+category: quant_concept
+description: Discover the role of interest rate triggers in algorithmic trading and
+  their impact on market dynamics Learn how these components shape modern trading
+  strategies
+title: 'Rate Trigger: Function and Example (Algo Trading)'
 ---
 
 The intersection of finance, economics, and technology has fundamentally altered trading as we know it. At the core of these transformations are financial instruments, interest rate triggers, and algorithmic trading—each playing a pivotal role in reshaping the operations of modern markets. Understanding the dynamics and interplay of these components is essential for investors and traders who wish to successfully navigate contemporary financial landscapes.

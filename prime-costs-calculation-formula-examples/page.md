@@ -1,6 +1,8 @@
 ---
-title: "Prime Costs: Calculation, Formula, and Examples (Algo Trading)"
-description: "Understand prime costs in finance and manufacturing to enhance profitability. Learn their role in algorithmic trading for effective cost management and strategy."
+category: quant_concept
+description: Understand prime costs in finance and manufacturing to enhance profitability.
+  Learn their role in algorithmic trading for effective cost management and strategy.
+title: 'Prime Costs: Calculation, Formula, and Examples (Algo Trading)'
 ---
 
 Understanding costs is vital for optimizing operations and enhancing profitability in both finance and manufacturing sectors. This article focuses on the concept of prime costs, crucial in cost accounting and their significant role in algorithmic trading. Prime costs typically include expenditures directly linked to the production processes, primarily raw materials and direct labor. Businesses rely on accurate calculations of these costs to ensure that products are priced competitively, covering both direct and indirect expenses.
@@ -186,4 +188,3 @@ Adopting integrated approaches not only aids in precise cost calculation but als
    - `zipline` is another open-source Python library useful for algorithmic trading simulations which includes modules for cost management.
 
 These resources provide a starting point for those interested in expanding their understanding of cost accounting and algorithmic trading, covering both theoretical foundations and practical applications.
-

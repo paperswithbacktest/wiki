@@ -1,6 +1,9 @@
 ---
-title: "Analysis of Variance (Algo Trading)"
-description: "Explore how Analysis of Variance (ANOVA) in algorithmic trading helps optimize strategies by dissecting variance in datasets to enhance decision-making and manage risks."
+category: quant_concept
+description: Explore how Analysis of Variance (ANOVA) in algorithmic trading helps
+  optimize strategies by dissecting variance in datasets to enhance decision-making
+  and manage risks.
+title: Analysis of Variance (Algo Trading)
 ---
 
 Algorithmic trading has revolutionized financial markets by employing automated strategies to execute trades at speeds and frequencies not possible for human traders. Statistical tools are integral to developing and refining these strategies, allowing traders to optimize performance and manage risks effectively. Among various statistical methods, Analysis of Variance (ANOVA) holds a prominent position due to its ability to dissect variance within datasets, thereby offering valuable insights that enhance trading decisions.

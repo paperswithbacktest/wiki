@@ -1,6 +1,9 @@
 ---
-title: "Debt Collectors: Permissible and Prohibited Actions (Algo Trading)"
-description: "Explore the legal boundaries of debt collection practices and understand consumer rights as technology reshapes the industry with compliance and fairness at its core."
+category: quant_concept
+description: Explore the legal boundaries of debt collection practices and understand
+  consumer rights as technology reshapes the industry with compliance and fairness
+  at its core.
+title: 'Debt Collectors: Permissible and Prohibited Actions (Algo Trading)'
 ---
 
 Debt collection plays a pivotal role in the financial system by enabling creditors to recover the funds owed to them. This process ensures liquidity within financial markets and aids in maintaining financial stability. However, for many consumers, encounters with debt collectors can be distressing, often exacerbated by aggressive collection practices. Understanding the regulations that govern debt collection is crucial for both consumers and collectors, as it helps to protect consumer rights while ensuring that legitimate collection efforts can proceed within legal boundaries.

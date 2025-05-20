@@ -1,6 +1,15 @@
 ---
-title: "Uncovered interest arbitrage (Algo Trading)"
-description: Uncovered interest arbitrage is a speculative financial strategy leveraging interest rate differences between countries without currency hedging, aiming to profit from exchange rate movements. Unlike its covered counterpart, this method involves full exposure to currency risk, where borrowed funds in low-interest currencies are invested in high-interest ones. The strategy, therefore, hinges on favorable currency fluctuations to maintain profitability despite inherent risks. Algorithmic trading plays a crucial role by swiftly identifying these fleeting opportunities, enhancing precision and minimizing errors, while allowing traders to efficiently exploit global interest rate discrepancies.
+category: trading_strategy
+description: Uncovered interest arbitrage is a speculative financial strategy leveraging
+  interest rate differences between countries without currency hedging, aiming to
+  profit from exchange rate movements. Unlike its covered counterpart, this method
+  involves full exposure to currency risk, where borrowed funds in low-interest currencies
+  are invested in high-interest ones. The strategy, therefore, hinges on favorable
+  currency fluctuations to maintain profitability despite inherent risks. Algorithmic
+  trading plays a crucial role by swiftly identifying these fleeting opportunities,
+  enhancing precision and minimizing errors, while allowing traders to efficiently
+  exploit global interest rate discrepancies.
+title: Uncovered interest arbitrage (Algo Trading)
 ---
 
 Uncovered interest arbitrage is a financial strategy that leverages the interest rate differentials between two countries to generate potential profits by capitalizing on currency fluctuations. At its core, this strategy involves borrowing in a currency with a lower interest rate and investing in another currency that offers a higher interest rate, with the expectation that exchange rate movements will enhance returns. Unlike covered interest arbitrage, where the foreign exchange risk is mitigated through forward contracts or other hedging instruments, uncovered interest arbitrage carries full exposure to currency risk. This lack of hedging makes it inherently more speculative, as the investor is betting that any depreciation of the invested currency will not offset the interest rate advantage.

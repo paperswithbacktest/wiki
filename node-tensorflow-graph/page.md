@@ -1,7 +1,8 @@
 ---
-title: Understanding TensorFlow Nodes in Computational Graphs
+category: quant_concept
 description: TensorFlow nodes define operations and variables within a computational
   graph to optimize model performance on CPUs and GPUs Discover more inside.
+title: Understanding TensorFlow Nodes in Computational Graphs
 ---
 
 ![Image](images/1.png)

@@ -1,6 +1,8 @@
 ---
-title: "Strategies for Utilizing Economic Recession Opportunities (Algo Trading)"
-description: "Explore strategic opportunities during economic recessions through algorithmic trading Gain insights on how to mitigate risks and enhance investment outcomes"
+category: trading_strategy
+description: Explore strategic opportunities during economic recessions through algorithmic
+  trading Gain insights on how to mitigate risks and enhance investment outcomes
+title: Strategies for Utilizing Economic Recession Opportunities (Algo Trading)
 ---
 
 Economic recessions, characterized by a decline in economic activity across the economy lasting more than a few months, are an intrinsic part of the financial cycle. Typically marked by decreasing GDP, falling incomes, rising unemployment rates, and dwindling investment spending, recessions can significantly shake financial markets, creating an environment of heightened volatility and uncertainty. This turbulence often leads investors to seek strategies to mitigate potential losses and capitalize on emerging opportunities.

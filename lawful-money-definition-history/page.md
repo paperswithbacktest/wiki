@@ -1,6 +1,8 @@
 ---
-title: "Lawful Money: Definition and History (Algo Trading)"
-description: "Discover the evolution of currency from barter to digital forms and how lawful money and algorithmic trading shape global financial systems today."
+category: quant_concept
+description: Discover the evolution of currency from barter to digital forms and how
+  lawful money and algorithmic trading shape global financial systems today.
+title: 'Lawful Money: Definition and History (Algo Trading)'
 ---
 
 Money and monetary systems form the backbone of the modern economy, acting as instruments of exchange, units of account, and stores of value. These systems facilitate the functioning of global trade by providing a standardized medium through which goods and services are exchanged. The evolution of money from simple bartering to complex digital currencies underscores its central role in economic development and globalization. 
@@ -233,4 +235,3 @@ Encouragement for continual exploration into these areas cannot be overstated. A
    - [Stack Exchange's Quantitative Finance](https://quant.stackexchange.com) is a forum discussing trading algorithms, quantitative finance, and related coding practices.
 
 These resources provide foundational and advanced knowledge on currency history, lawful money, and algorithmic trading, essential for anyone seeking a profound understanding of these crucial financial aspects.
-

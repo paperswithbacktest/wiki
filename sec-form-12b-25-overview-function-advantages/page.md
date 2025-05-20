@@ -1,6 +1,8 @@
 ---
-title: "SEC Form 12b-25: Overview, Function, and Advantages (Algo Trading)"
-description: "Discover how SEC Form 12b-25 aids companies with late financial filings and impacts algo trading, including strategies to handle delays and market dynamics."
+category: quant_concept
+description: Discover how SEC Form 12b-25 aids companies with late financial filings
+  and impacts algo trading, including strategies to handle delays and market dynamics.
+title: 'SEC Form 12b-25: Overview, Function, and Advantages (Algo Trading)'
 ---
 
 The complexities surrounding financial disclosures pose significant challenges for publicly traded companies, especially in adhering to filing deadlines. These deadlines are crucial in maintaining transparency, as they ensure that investors receive timely and accurate information about a company's financial health. One major aspect of this process is the requirement for companies to file the 10-K form with the U.S. Securities and Exchange Commission (SEC). This annual report provides a comprehensive overview of a company's financial performance, and meeting the deadline is critical for sustaining investor confidence and market stability.

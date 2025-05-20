@@ -1,6 +1,8 @@
 ---
-title: "Impact of Additional Equity Financing on Existing Shareholders (Algo Trading)"
-description: "Explore the impact of additional equity financing on existing shareholders and the interplay with algorithmic trading in modern financial markets."
+category: quant_concept
+description: Explore the impact of additional equity financing on existing shareholders
+  and the interplay with algorithmic trading in modern financial markets.
+title: Impact of Additional Equity Financing on Existing Shareholders (Algo Trading)
 ---
 
 Capital raising is a fundamental aspect of financial markets that enables companies to generate the financial resources necessary for growth, expansion, and operations. This process is of paramount importance for both businesses and their shareholders. For businesses, securing capital is essential to invest in new projects, enter new markets, or boost working capital. For shareholders, effective capital raising can lead to increased company value, enhanced liquidity, and potentially higher returns on their investments.

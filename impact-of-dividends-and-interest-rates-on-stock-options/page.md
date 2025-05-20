@@ -1,6 +1,8 @@
 ---
-title: "Impact of Dividends and Interest Rates on Stock Options (Algo Trading)"
-description: "Explore how dividends and interest rates impact stock options and algorithmic trading with a focus on maximizing returns through strategic investments."
+category: quant_concept
+description: Explore how dividends and interest rates impact stock options and algorithmic
+  trading with a focus on maximizing returns through strategic investments.
+title: Impact of Dividends and Interest Rates on Stock Options (Algo Trading)
 ---
 
 The world of finance is complex, with numerous instruments and strategies available for investors looking to maximize their returns. Within this intricate ecosystem, four key elements stand out for their potential to significantly influence investment portfolios: dividend-paying stocks, stock options, interest rates, and algorithmic trading. These components can play distinct roles individually, but their interplay can also unveil opportunities for sophisticated investment strategies.

@@ -1,6 +1,8 @@
 ---
-title: "SEC Form PRRN14A (Algo Trading)"
-description: "Discover the significance of SEC Form PRRN14A in corporate governance and its impact on algorithmic trading to stay informed and proactive in market strategies."
+category: quant_concept
+description: Discover the significance of SEC Form PRRN14A in corporate governance
+  and its impact on algorithmic trading to stay informed and proactive in market strategies.
+title: SEC Form PRRN14A (Algo Trading)
 ---
 
 The field of finance encompasses an extensive range of instruments and documents that uphold governance and ensure transparency. Among these, the SEC Form PRRN14A holds significant importance, particularly in the governance of shareholder meetings. This form is essential for facilitating shareholder engagement, offering a platform for non-management to express their perspectives during proxy contests. Understanding forms like the PRRN14A is indispensable for shareholders and investors, especially within the sphere of shareholder activism. These forms equip stakeholders with the knowledge required to influence corporate governance issues, such as board elections and strategic management decisions.

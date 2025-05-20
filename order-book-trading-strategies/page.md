@@ -1,9 +1,12 @@
 ---
-title: "Order book trading strategies"
-description: Master the art of order book analysis for advanced trading strategies. Understand bid and ask prices, market spread, depth, and more to gain insights on market sentiment, liquidity, and price movements. Use order books effectively for trade execution, strategy formulation, anticipating breakouts or reversals, and managing risk.
+category: trading_strategy
+description: Master the art of order book analysis for advanced trading strategies.
+  Understand bid and ask prices, market spread, depth, and more to gain insights on
+  market sentiment, liquidity, and price movements. Use order books effectively for
+  trade execution, strategy formulation, anticipating breakouts or reversals, and
+  managing risk.
+title: Order book trading strategies
 ---
-
-
 
 An order book is a fundamental component in the world of trading, serving as a real-time, continuously updated ledger of buy and sell orders for an asset. These orders, placed by market participants, create a detailed map of trading activity, showcasing both the depth and range of market interest at various price levels. The order book is not just a tool for recording transactions; it acts as the heartbeat of market dynamics, revealing the interplay between supply and demand in vivid detail.
 

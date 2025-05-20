@@ -1,7 +1,8 @@
 ---
-title: Machine Learning Model Evaluation Metrics and Best Practices
+category: quant_concept
 description: Machine learning model evaluation uses metrics like accuracy precision
   recall and cross validation to ensure models generalize. Discover more inside
+title: Machine Learning Model Evaluation Metrics and Best Practices
 ---
 
 ![Image](images/1.png)

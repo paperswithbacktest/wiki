@@ -1,6 +1,9 @@
 ---
-title: "Comparison of Return on Equity and Return on Assets (Algo Trading)"
-description: "Explore the differences between Return on Equity (ROE) and Return on Assets (ROA) in algorithmic trading for insights into company performance and investment strategies."
+category: quant_concept
+description: Explore the differences between Return on Equity (ROE) and Return on
+  Assets (ROA) in algorithmic trading for insights into company performance and investment
+  strategies.
+title: Comparison of Return on Equity and Return on Assets (Algo Trading)
 ---
 
 Financial metrics such as Return on Equity (ROE) and Return on Assets (ROA) are crucial for evaluating company performance. These metrics offer insights into how effectively a company is generating profits relative to certain financial baselines. ROE measures a company’s profitability by evaluating how much profit it generates with the money shareholders have invested. On the other hand, ROA provides an understanding of how efficiently a company is deploying its total assets to generate earnings. Both metrics are essential indicators used by investors to assess a company's operational efficiency and financial health.

@@ -1,6 +1,8 @@
 ---
-title: "Calculating Beta for Private Companies (Algo Trading)"
-description: "Learn how to calculate beta for private companies in algorithmic trading using industry averages and earnings beta to assess risk without public stock data."
+category: quant_concept
+description: Learn how to calculate beta for private companies in algorithmic trading
+  using industry averages and earnings beta to assess risk without public stock data.
+title: Calculating Beta for Private Companies (Algo Trading)
 ---
 
 Beta is a critical metric in finance, serving as a cornerstone in assessing the risk and volatility of financial portfolios. It measures the sensitivity of a security's returns to those of the broader market, playing an integral role in the Capital Asset Pricing Model (CAPM). Through beta, investors and analysts address how market movements can affect individual asset returns, and thus, make informed decisions regarding portfolio risk management.
@@ -227,4 +229,3 @@ A comprehensive understanding of beta calculation and its applications is essent
    - Financial and trading blogs often feature case studies and real-world applications of beta in portfolio management, providing practical insights beyond academic theory.
 
 These resources collectively enhance one's ability to understand and apply beta in various financial contexts, equipping both novices and experts with the tools necessary for effective financial decision-making.
-

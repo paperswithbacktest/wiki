@@ -1,6 +1,9 @@
 ---
-title: "Cash on Delivery (Algo Trading)"
-description: "Explore the intricate dynamics between cash on delivery and algorithmic trading Learn how traditional payment methods impact modern trading strategies and liquidity"
+category: quant_concept
+description: Explore the intricate dynamics between cash on delivery and algorithmic
+  trading Learn how traditional payment methods impact modern trading strategies and
+  liquidity
+title: Cash on Delivery (Algo Trading)
 ---
 
 Cash on Delivery (COD) is a traditional payment method wherein payment for goods is made at the time of delivery, rather than in advance. This payment approach bears significant relevance in contemporary transactions, particularly in regions where online payment infrastructures might not be as robust or where consumers exhibit preferences towards paying upon receiving goods to ensure quality assurance. COD has remained a cornerstone in sectors such as e-commerce, enabling businesses to build trust with consumers who may be hesitant to commit payment before product inspection.

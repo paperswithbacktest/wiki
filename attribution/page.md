@@ -1,6 +1,14 @@
 ---
-title: "Attribution (Algo Trading)"
-description: Explore the critical role of attribution in algorithmic trading systems and understand how it enhances decision-making processes by providing transparency and understanding of model predictions. Learn about various attribution methods that improve trust in trading models, enabling traders to interpret and refine their algorithms effectively for optimized results in fast-paced financial markets. Discover how advanced techniques and traditional methods unravel complex model interactions and quantify feature impact on trading decisions, ensuring alignment with strategy and regulatory compliance.
+category: quant_concept
+description: Explore the critical role of attribution in algorithmic trading systems
+  and understand how it enhances decision-making processes by providing transparency
+  and understanding of model predictions. Learn about various attribution methods
+  that improve trust in trading models, enabling traders to interpret and refine their
+  algorithms effectively for optimized results in fast-paced financial markets. Discover
+  how advanced techniques and traditional methods unravel complex model interactions
+  and quantify feature impact on trading decisions, ensuring alignment with strategy
+  and regulatory compliance.
+title: Attribution (Algo Trading)
 ---
 
 Algorithmic trading employs sophisticated computer algorithms to automate and optimize trading decisions, a task that far surpasses the capabilities of human traders in terms of speed and frequency. These algorithms execute trades and manage portfolios by processing vast amounts of financial data in real-time, operating in milliseconds—a significant advantage in today's fast-paced financial markets. Despite the inherent strengths of algorithmic trading, its effectiveness and precision can be further optimized by embedding robust methodologies for interpreting model outputs, particularly in discerning the influence of various input features on the final predictions.

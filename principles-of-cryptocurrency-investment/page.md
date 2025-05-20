@@ -1,6 +1,8 @@
 ---
-title: "Principles of Cryptocurrency Investment (Algo Trading)"
-description: "Explore the principles of cryptocurrency investment and algorithmic trading strategies to maximize returns in a 24/7 market while managing risks effectively."
+category: trading_strategy
+description: Explore the principles of cryptocurrency investment and algorithmic trading
+  strategies to maximize returns in a 24/7 market while managing risks effectively.
+title: Principles of Cryptocurrency Investment (Algo Trading)
 ---
 
 In recent years, cryptocurrency has become a dynamic and lucrative investment option, attracting both individual and institutional investors. Unlike traditional financial markets, cryptocurrency markets operate 24/7, offering continuous trading opportunities. This round-the-clock activity, coupled with significant price fluctuations, creates a unique environment where investors can pursue substantial returns, albeit with heightened risk. 

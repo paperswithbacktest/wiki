@@ -1,6 +1,8 @@
 ---
-title: "Protective Stop: Overview and Functionality (Algo Trading)"
-description: "Protective stop strategies in algo trading are vital for managing risk leveraging stop-loss orders to minimize losses and protect profits amid market fluctuations."
+category: trading_strategy
+description: Protective stop strategies in algo trading are vital for managing risk
+  leveraging stop-loss orders to minimize losses and protect profits amid market fluctuations.
+title: 'Protective Stop: Overview and Functionality (Algo Trading)'
 ---
 
 Algorithmic trading, commonly known as algo trading, has revolutionized the financial markets by enabling execution of orders at speeds and frequencies unattainable by human traders. This technology-driven approach leverages complex algorithms to make data-driven trading decisions, capitalizing on market inefficiencies to yield substantial profits. However, the rapid pace and automated nature of algo trading highlight the potential for significant financial risks, necessitating robust risk management frameworks.

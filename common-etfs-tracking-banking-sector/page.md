@@ -1,6 +1,9 @@
 ---
-title: "Common ETFs Tracking the Banking Sector (Algo Trading)"
-description: "Explore the interplay of ETFs and algorithmic trading within the banking sector, unlocking insights into modern investment strategies and potential financial growth."
+category: dataset
+description: Explore the interplay of ETFs and algorithmic trading within the banking
+  sector, unlocking insights into modern investment strategies and potential financial
+  growth.
+title: Common ETFs Tracking the Banking Sector (Algo Trading)
 ---
 
 The banking sector has long been a cornerstone of the global investment landscape, providing crucial financial services such as lending, asset management, and wealth advisory. Institutions within this sector facilitate capital flows and foster economic growth by channeling funds from savers to borrowers, thereby influencing investment strategies and outcomes across economies. As financial markets evolve, banks continue to play a pivotal role, adapting to new trends and technologies that redefine how investments are managed and executed.

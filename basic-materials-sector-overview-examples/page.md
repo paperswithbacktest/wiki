@@ -1,6 +1,9 @@
 ---
-title: "Basic Materials Sector: Overview and Examples (Algo Trading)"
-description: "Explore the potential of algo trading in the basic materials sector unlocking investment opportunities in metals, chemicals, and forestry products for optimal returns."
+category: trading_strategy
+description: Explore the potential of algo trading in the basic materials sector unlocking
+  investment opportunities in metals, chemicals, and forestry products for optimal
+  returns.
+title: 'Basic Materials Sector: Overview and Examples (Algo Trading)'
 ---
 
 In the world of investing, sector-specific strategies offer a nuanced approach to capitalizing on market opportunities. One such sector is the basic materials industry, which plays a crucial role in fueling the global economy. The sector comprises companies involved in the extraction and processing of raw materials such as metals, chemicals, and forestry products. With its intrinsic links to various industrial activities, this sector is vital for economic growth and development.

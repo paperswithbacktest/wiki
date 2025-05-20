@@ -1,6 +1,9 @@
 ---
-title: "Gifting Bonds (Algo Trading)"
-description: "Explore how gifting bonds combines stability and educational value, enhanced by algorithmic trading for increased market efficiency, turning bonds into meaningful financial gifts."
+category: trading_strategy
+description: Explore how gifting bonds combines stability and educational value, enhanced
+  by algorithmic trading for increased market efficiency, turning bonds into meaningful
+  financial gifts.
+title: Gifting Bonds (Algo Trading)
 ---
 
 Bonds, as an integral component of the financial ecosystem, offer a stability that is often overlooked in favor of more volatile asset classes. Their inherent characteristics, such as predictable income streams and capital preservation, make them a reliable choice for a variety of investment needs, including gift-giving. Gifting bonds can signify a significant financial gesture, providing not only a potential for long-term appreciation but also introducing the recipient to fundamental investing principles.

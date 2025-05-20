@@ -1,6 +1,8 @@
 ---
-title: "Overconfidence Bias and Its Impact on Investment Returns (Algo Trading)"
-description: "Discover how overconfidence bias affects investment returns and learn to mitigate its impact with insights from behavioral finance and algo trading strategies."
+category: quant_concept
+description: Discover how overconfidence bias affects investment returns and learn
+  to mitigate its impact with insights from behavioral finance and algo trading strategies.
+title: Overconfidence Bias and Its Impact on Investment Returns (Algo Trading)
 ---
 
 Behavioral finance is a field that combines insights from psychology and finance to better understand why investors often make irrational decisions. Unlike traditional financial theories that assume markets are efficient and participants act rationally, behavioral finance recognizes that cognitive biases and emotional factors frequently influence investor behavior, leading to anomalies in market prices and investment outcomes.

@@ -1,6 +1,13 @@
 ---
-title: "Aave (Algo Trading)"
-description: "Explore the innovative world of decentralized finance with Aave, a leading DeFi platform that revolutionizes crypto lending and borrowing. Harnessing blockchain technology and smart contracts, Aave offers features like Flash Loans for instant, unsecured borrowing and overcollateralized loans for safeguarding lenders. Simultaneously, the rise of algorithmic trading enhances trading efficiency and precision, merging seamlessly with Aave's capabilities. Discover how Aave plays a pivotal role in optimizing investment strategies and maximizing yields in the evolving DeFi landscape."
+category: trading_strategy
+description: Explore the innovative world of decentralized finance with Aave, a leading
+  DeFi platform that revolutionizes crypto lending and borrowing. Harnessing blockchain
+  technology and smart contracts, Aave offers features like Flash Loans for instant,
+  unsecured borrowing and overcollateralized loans for safeguarding lenders. Simultaneously,
+  the rise of algorithmic trading enhances trading efficiency and precision, merging
+  seamlessly with Aave's capabilities. Discover how Aave plays a pivotal role in optimizing
+  investment strategies and maximizing yields in the evolving DeFi landscape.
+title: Aave (Algo Trading)
 ---
 
 Decentralized Finance (DeFi) is reshaping traditional financial structures by utilizing blockchain technology to create open and permissionless financial systems. This transformation offers new investment avenues that are not only innovative but also accessible to a broader audience. DeFi platforms operate without intermediaries, reducing costs and friction in financial transactions. One of the prominent players in this burgeoning space is Aave, a decentralized platform known for its novel crypto lending and borrowing services. Aave leverages smart contracts to automate and manage these transactions transparently and securely, thereby eliminating the need for traditional financial intermediaries.

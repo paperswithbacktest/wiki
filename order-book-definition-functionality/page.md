@@ -1,6 +1,8 @@
 ---
-title: "Order Book: Definition and Functionality (Algo Trading)"
-description: "Discover how order book and algorithmic trading optimize market strategies enhancing precision and speed in financial markets for competitive trading advantage."
+category: quant_concept
+description: Discover how order book and algorithmic trading optimize market strategies
+  enhancing precision and speed in financial markets for competitive trading advantage.
+title: 'Order Book: Definition and Functionality (Algo Trading)'
 ---
 
 Financial markets operate as intricate ecosystems governed by the dynamics of supply and demand. At the core of these markets are mechanisms that facilitate the buying and selling of financial assets, where participants engage in transactions influenced by various factors, including economic indicators, geopolitical events, and market sentiment. Within this multifaceted landscape, order book trading and algorithmic trading emerge as pivotal elements.

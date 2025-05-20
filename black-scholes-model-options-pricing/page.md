@@ -1,6 +1,8 @@
 ---
-title: "Black-Scholes Model and Options Pricing (Algo Trading)"
-description: "Explore the fundamentals of options pricing with the Black-Scholes Model a key component in algorithmic trading and financial derivatives valuation."
+category: quant_concept
+description: Explore the fundamentals of options pricing with the Black-Scholes Model
+  a key component in algorithmic trading and financial derivatives valuation.
+title: Black-Scholes Model and Options Pricing (Algo Trading)
 ---
 
 Options trading presents a range of complex strategies and models, with the Black-Scholes Model standing out as a fundamental concept for pricing financial derivatives. The Black-Scholes Model provides a mathematical and theoretical framework essential for understanding options pricing. Introduced in the early 1970s by Fischer Black, Myron Scholes, and Robert Merton, this model has since become an integral part of financial markets, offering traders a standardized approach to assess options' value.

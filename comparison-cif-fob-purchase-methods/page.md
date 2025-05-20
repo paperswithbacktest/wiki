@@ -1,6 +1,9 @@
 ---
-title: "Comparison of CIF and FOB Purchase Methods (Algo Trading)"
-description: "Discover how CIF vs FOB terms impact responsibilities, costs, and risks in global trade and algorithmic trading strategies for optimized operations and profits."
+category: quant_concept
+description: Discover how CIF vs FOB terms impact responsibilities, costs, and risks
+  in global trade and algorithmic trading strategies for optimized operations and
+  profits.
+title: Comparison of CIF and FOB Purchase Methods (Algo Trading)
 ---
 
 In international trade, shipping terms such as Cost, Insurance, and Freight (CIF) and Free on Board (FOB) play a pivotal role in defining the responsibilities and liabilities of buyers and sellers. These terms, standardized by the International Chamber of Commerce under Incoterms, outline the transport obligations and risk transfer, thus directly impacting cost management and risk assessment in global commerce.

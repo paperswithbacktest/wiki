@@ -1,6 +1,15 @@
 ---
-title: "Listing Requirements and Criteria for Stock Exchanges (Algo Trading)"
-description: "Explore the intricate world of stock exchange listing criteria and algorithmic trading in this comprehensive guide. Discover how listing requirements, financial metrics, governance standards, and liquidity measures ensure market integrity and investor protection. Learn how major exchanges like NYSE and Nasdaq maintain robust market structures with unique listing standards. Delve into the impact of algorithmic trading on market dynamics, gaining insights into execution speed, efficiency, and technical considerations. This article offers essential knowledge for navigating stock market operations, enabling informed investment decisions and successful company listings."
+category: quant_concept
+description: Explore the intricate world of stock exchange listing criteria and algorithmic
+  trading in this comprehensive guide. Discover how listing requirements, financial
+  metrics, governance standards, and liquidity measures ensure market integrity and
+  investor protection. Learn how major exchanges like NYSE and Nasdaq maintain robust
+  market structures with unique listing standards. Delve into the impact of algorithmic
+  trading on market dynamics, gaining insights into execution speed, efficiency, and
+  technical considerations. This article offers essential knowledge for navigating
+  stock market operations, enabling informed investment decisions and successful company
+  listings.
+title: Listing Requirements and Criteria for Stock Exchanges (Algo Trading)
 ---
 
 Understanding the complexities of stock market operations is crucial for investors and companies alike. Stock markets are dynamic ecosystems where companies, investors, and regulators interact under a set of defined rules and standards that ensure orderly trading and market integrity. Central to this is the concept of stock exchange listing criteria and the rapidly evolving role of algorithmic trading.

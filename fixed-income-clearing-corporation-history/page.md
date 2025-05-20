@@ -1,6 +1,9 @@
 ---
-title: "Fixed Income Clearing Corporation History (Algo Trading)"
-description: "Explore the evolution of the Fixed Income Clearing Corporation since 2003, highlighting its pivotal role in optimizing clearing and settlement for fixed-income securities."
+category: quant_concept
+description: Explore the evolution of the Fixed Income Clearing Corporation since
+  2003, highlighting its pivotal role in optimizing clearing and settlement for fixed-income
+  securities.
+title: Fixed Income Clearing Corporation History (Algo Trading)
 ---
 
 The Fixed Income Clearing Corporation (FICC) plays a crucial role in the finance industry, particularly in the clearing and settlement of fixed-income securities. Established in 2003 as a subsidiary of the Depository Trust & Clearing Corporation (DTCC), FICC was formed by the merger of the Government Securities Clearing Corporation and the Mortgage-Backed Security Clearing Corporation. This merger aimed to streamline operations and enhance efficiency in securities clearing.

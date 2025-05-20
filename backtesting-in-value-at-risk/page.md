@@ -1,6 +1,8 @@
 ---
-title: "Backtesting in Value at Risk (Algo Trading)"
-description: "Explore the essentials of Value at Risk in algorithmic trading including backtesting processes and methodologies to enhance robust risk management strategies."
+category: trading_strategy
+description: Explore the essentials of Value at Risk in algorithmic trading including
+  backtesting processes and methodologies to enhance robust risk management strategies.
+title: Backtesting in Value at Risk (Algo Trading)
 ---
 
 In finance, understanding the potential risks associated with investment portfolios is essential for both institutional and individual investors. One of the most prominent tools for assessing these risks is Value at Risk (VaR), a statistical measure that estimates the maximum potential loss in value of a portfolio over a specified time frame, given a certain level of confidence. Typically expressed at confidence levels such as 95% or 99%, VaR provides a quantifiable metric to gauge financial risks under normal market conditions.

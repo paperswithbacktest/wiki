@@ -1,6 +1,8 @@
 ---
-title: "Methods of Purchasing Gold (Algo Trading)"
-description: "Explore diverse methods of purchasing gold from traditional physical ownership to modern algorithmic trading to optimize your investment strategy."
+category: trading_strategy
+description: Explore diverse methods of purchasing gold from traditional physical
+  ownership to modern algorithmic trading to optimize your investment strategy.
+title: Methods of Purchasing Gold (Algo Trading)
 ---
 
 Gold has long been considered a safe haven for investors seeking stability and security. Throughout history, gold has maintained its appeal during times of economic and political uncertainty, often seen as a reliable store of value. Unlike fiat currencies, gold's supply cannot be artificially increased, which contributes to its enduring value.

@@ -1,6 +1,9 @@
 ---
-title: "Maturity by Maturity Bidding (Algo Trading)"
-description: "Explore the growing relevance of maturity bidding in investment strategies and algorithmic trading Discover how these tools optimize financial outcomes for investors"
+category: trading_strategy
+description: Explore the growing relevance of maturity bidding in investment strategies
+  and algorithmic trading Discover how these tools optimize financial outcomes for
+  investors
+title: Maturity by Maturity Bidding (Algo Trading)
 ---
 
 In the rapidly evolving world of finance, the intersection of maturity bidding, investment strategies, and algorithmic trading is becoming increasingly important. This article seeks to explore how these concepts intertwine to create sophisticated investment strategies that can optimize financial outcomes. By analyzing the fundamentals of maturity bidding, we aim to highlight its potential as a flexible bond auction mechanism that allows investors to select specific maturities, enhancing their investment strategies. 

@@ -1,6 +1,8 @@
 ---
-title: "National Securities Markets Improvement Act Overview (Algo Trading)"
-description: "Explore the interplay of financial markets, securities regulation, NSMIA, and algorithmic trading. Learn how regulations ensure market efficiency and integrity."
+category: quant_concept
+description: Explore the interplay of financial markets, securities regulation, NSMIA,
+  and algorithmic trading. Learn how regulations ensure market efficiency and integrity.
+title: National Securities Markets Improvement Act Overview (Algo Trading)
 ---
 
 This article provides a comprehensive examination of the complex interplay between financial markets, securities regulation, the National Securities Markets Improvement Act (NSMIA), and algorithmic trading. It strives to clarify the regulatory frameworks that govern these areas, elucidating their impact on the contemporary trading environment. Understanding the synergy between these components is vital for investors, regulators, and industry stakeholders, as it involves navigating intricate regulations while maintaining market efficiency and integrity.
@@ -154,4 +156,4 @@ Continued dialogue is essential among regulators, industry stakeholders, and dev
 
 [6]: Hendershott, T., Jones, C. M., & Menkveld, A. J. (2011). ["Does Algorithmic Trading Improve Liquidity?"](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1540-6261.2010.01624.x) The Review of Financial Studies, 24(8), 2341-2377.
 
-[7]: Securities and Exchange Commission. (2020). ["SEC Rule 15c3-5 Risk Management Controls for Brokers or Dealers with Market Access."](https://www.sec.gov/files/rules/final/2010/34-63241.pdf) 
+[7]: Securities and Exchange Commission. (2020). ["SEC Rule 15c3-5 Risk Management Controls for Brokers or Dealers with Market Access."](https://www.sec.gov/files/rules/final/2010/34-63241.pdf)

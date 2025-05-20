@@ -1,6 +1,8 @@
 ---
-title: "Emerging Market Fund: Overview and Types (Algo Trading)"
-description: "Explore an overview of emerging market funds and types including mutual funds ETFs and more Discover how algo trading shapes strategies in high-growth economies"
+category: quant_concept
+description: Explore an overview of emerging market funds and types including mutual
+  funds ETFs and more Discover how algo trading shapes strategies in high-growth economies
+title: 'Emerging Market Fund: Overview and Types (Algo Trading)'
 ---
 
 The global investment landscape is undergoing constant transformation, with emerging market funds playing a pivotal role in delivering promising opportunities for investors. Emerging markets are characterized by rapid economic expansion, increased consumer spending, and industrial growth, attracting substantial interest from those seeking higher returns. These economies offer fertile ground for investment, differentiating them remarkably from their developed counterparts.

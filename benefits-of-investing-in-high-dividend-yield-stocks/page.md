@@ -1,6 +1,9 @@
 ---
-title: "Benefits of Investing in High-Dividend Yield Stocks (Algo Trading)"
-description: "Discover the benefits of investing in high-dividend yield stocks and explore strategies to enhance returns with algorithmic trading in today's market landscape."
+category: trading_strategy
+description: Discover the benefits of investing in high-dividend yield stocks and
+  explore strategies to enhance returns with algorithmic trading in today's market
+  landscape.
+title: Benefits of Investing in High-Dividend Yield Stocks (Algo Trading)
 ---
 
 Dividend investing serves as a reliable strategy for generating income while allowing participation in stock market growth. High-dividend stocks are particularly attractive to a diverse range of investors, from retirees who seek steady income streams to algorithmic traders aiming for profit optimization. 

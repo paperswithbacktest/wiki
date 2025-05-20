@@ -1,6 +1,13 @@
 ---
-title: "2010 flash crash (Algo Trading)"
-description: The 2010 Flash Crash was a turning point in finance, revealing the risks and intricacies of modern trading systems. On May 6, 2010, the Dow Jones plummeted nearly 1,000 points in minutes, spotlighting the impact of high-frequency and algorithmic trading. These automated systems, while offering speed and efficiency, can also heighten market volatility. Our article investigates into the causes, effects, and regulatory responses to the crash, highlighting the delicate balance needed between technological advancement and market stability.
+category: quant_concept
+description: The 2010 Flash Crash was a turning point in finance, revealing the risks
+  and intricacies of modern trading systems. On May 6, 2010, the Dow Jones plummeted
+  nearly 1,000 points in minutes, spotlighting the impact of high-frequency and algorithmic
+  trading. These automated systems, while offering speed and efficiency, can also
+  heighten market volatility. Our article investigates into the causes, effects, and
+  regulatory responses to the crash, highlighting the delicate balance needed between
+  technological advancement and market stability.
+title: 2010 flash crash (Algo Trading)
 ---
 
 The 2010 Flash Crash stands as a pivotal moment in financial history, emphasizing the vulnerabilities and complexities of modern stock markets. On May 6, 2010, the U.S. financial markets experienced a rapid and severe downturn, with the Dow Jones Industrial Average plunging nearly 1,000 points within minutes before recovering most of the losses by the market close. This unprecedented event highlighted the potential ramifications of high-frequency trading (HFT) and algorithmic trading systems that have come to dominate global financial markets.

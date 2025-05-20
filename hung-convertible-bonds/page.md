@@ -1,6 +1,9 @@
 ---
-title: "Hung Convertible Bonds (Algo Trading)"
-description: "Explore the potential of hung convertible bonds in algorithmic trading Discover how these unique financial instruments can offer opportunities amid market challenges"
+category: quant_concept
+description: Explore the potential of hung convertible bonds in algorithmic trading
+  Discover how these unique financial instruments can offer opportunities amid market
+  challenges
+title: Hung Convertible Bonds (Algo Trading)
 ---
 
 Convertible bonds are versatile financial instruments that effectively meld the attributes of bonds and stocks. These hybrid securities offer a distinctive combination of the fixed income feature of bonds, through regular interest payments, and the potential for capital gains associated with stocks, due to their inherent convertibility feature. This dual characteristic makes convertible bonds an attractive option for investors seeking both stability and growth in their investment portfolios.
@@ -169,4 +172,3 @@ In conclusion, convertible bonds, particularly hung convertibles, offer a realm 
 - Lhabitant, F. S. (2002). "Hedge Funds: Myths and Limits." This book discusses various hedge fund strategies, myths associated with hedge fund operations, and the limitations faced by these investment vehicles. It offers a broader context on how hedge funds, including those utilizing convertible arbitrage strategies, fit into the financial landscape.
 
 These references provide a foundational understanding of convertible bonds, convertible arbitrage, and the broader [hedge fund](/wiki/hedge-fund-trading-strategies) strategies, aiding in a comprehensive analysis of the market dynamics and investment opportunities associated with hung convertibles.
-

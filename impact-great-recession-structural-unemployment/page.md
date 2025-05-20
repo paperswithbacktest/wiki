@@ -1,6 +1,8 @@
 ---
-title: "Impact of the Great Recession on Structural Unemployment (Algo Trading)"
-description: "Explore the impact of the Great Recession on structural unemployment and the rise of algorithmic trading in shaping post-recession economic trends."
+category: quant_concept
+description: Explore the impact of the Great Recession on structural unemployment
+  and the rise of algorithmic trading in shaping post-recession economic trends.
+title: Impact of the Great Recession on Structural Unemployment (Algo Trading)
 ---
 
 The onset of the Great Recession marked a pivotal moment in global economic history, characterized by a severe contraction in economic activity and a sharp rise in unemployment rates. Triggered by the collapse of major financial institutions in 2008, the recession impacted economies worldwide, leading to widespread job losses and financial instability. Amid this period, structural unemployment—defined as a mismatch between the skills of the labor force and the demands of the labor market—emerged as a profound and enduring challenge.

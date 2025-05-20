@@ -1,6 +1,9 @@
 ---
-title: "Flash Services Purchasing Managers' Index (Algo Trading)"
-description: "The Flash Services PMI offers early insights into the service sector's health, influencing market strategies and economic forecasts for investors and traders alike."
+category: dataset
+description: The Flash Services PMI offers early insights into the service sector's
+  health, influencing market strategies and economic forecasts for investors and traders
+  alike.
+title: Flash Services Purchasing Managers' Index (Algo Trading)
 ---
 
 The Purchasing Managers' Index (PMI) serves as a crucial economic indicator, providing insights into the economic health of both the manufacturing and service sectors of a country. It reflects purchasing managers' activity, which often correlates with overall economic activity. Among the various PMI indices, the Flash Services PMI offers an advance glimpse into the health of the service sector. This preliminary estimate provides early signals about the economy, allowing investors and policymakers to make informed decisions and adjust strategies accordingly.

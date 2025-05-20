@@ -1,7 +1,8 @@
 ---
-title: Understanding Decision Boundaries in Machine Learning Models
+category: quant_concept
 description: Decision boundary in machine learning shows how models draw lines or
   curves to separate data into classes accurately with examples Discover more inside.
+title: Understanding Decision Boundaries in Machine Learning Models
 ---
 
 ![Image](images/1.png)

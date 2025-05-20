@@ -1,6 +1,9 @@
 ---
-title: "Exchange Rate Risk: Causes and Management (Algo Trading)"
-description: "Explore the complexities of exchange rate risk and currency risks in forex trading Discover traditional and algorithmic trading strategies for effective risk management"
+category: trading_strategy
+description: Explore the complexities of exchange rate risk and currency risks in
+  forex trading Discover traditional and algorithmic trading strategies for effective
+  risk management
+title: 'Exchange Rate Risk: Causes and Management (Algo Trading)'
 ---
 
 The foreign exchange market, commonly referred to as forex, is a vast global arena for trading various national currencies. It operates around the clock due to its integration with major financial centers worldwide, making it one of the most liquid and dynamic markets in existence. This continuous operation results in intrinsic volatility, where exchange rates can be influenced by numerous factors such as economic indicators, geopolitical events, and shifts in market sentiment.

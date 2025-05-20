@@ -1,6 +1,8 @@
 ---
-title: "Calculating Convexity in Excel (Algo Trading)"
-description: "Learn to calculate bond convexity in Excel and understand its importance in managing interest rate risk and optimizing algorithmic trading strategies."
+category: quant_concept
+description: Learn to calculate bond convexity in Excel and understand its importance
+  in managing interest rate risk and optimizing algorithmic trading strategies.
+title: Calculating Convexity in Excel (Algo Trading)
 ---
 
 Convexity in financial markets is a critical concept, particularly in the bond market, where it quantifies the sensitivity of the duration of a bond to changes in interest rates. Convexity provides a more accurate measure of interest rate risk than duration alone, as it accounts for the non-linear relationship between bond prices and interest rates. While duration assumes a linear response to interest rate changes, convexity captures the curvature, thus allowing investors and analysts a better understanding of potential bond price fluctuations in different interest rate scenarios. This understanding is essential for developing strategies to manage interest rate risk and optimize portfolio performance.

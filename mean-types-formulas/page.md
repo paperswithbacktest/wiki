@@ -1,6 +1,9 @@
 ---
-title: "Mean: Types and Formulas (Algo Trading)"
-description: "Explore how different types of mean such as arithmetic geometric and harmonic are vital in algorithmic trading strategies for more informed financial decisions."
+category: quant_concept
+description: Explore how different types of mean such as arithmetic geometric and
+  harmonic are vital in algorithmic trading strategies for more informed financial
+  decisions.
+title: 'Mean: Types and Formulas (Algo Trading)'
 ---
 
 In financial markets, various mathematical concepts play a critical role in trading strategies. Among these, the concept of 'mean' stands out as essential for understanding and developing different trading mechanisms, particularly in the domain of algorithmic trading. Means provide a foundational basis for analyzing market data, guiding traders in making informed decisions by revealing trends, patterns, and potential anomalies in stock prices and other financial instruments.

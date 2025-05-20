@@ -1,6 +1,9 @@
 ---
-title: "Safe Haven in Investing (Algo Trading)"
-description: "Explore the interplay between safe haven investments and algorithmic trading to enhance portfolio stability and returns during market volatility while minimizing risk."
+category: trading_strategy
+description: Explore the interplay between safe haven investments and algorithmic
+  trading to enhance portfolio stability and returns during market volatility while
+  minimizing risk.
+title: Safe Haven in Investing (Algo Trading)
 ---
 
 Algorithmic trading has significantly impacted investment practices in financial markets by leveraging complex mathematical models and automated systems to enhance trading decisions. These strategies, which employ vast amounts of data and compute power, allow trades to be executed at optimal times and conditions, minimizing human interference. Algorithims offer precision and speed, addressing both high-frequency trading and long-term investment goals.

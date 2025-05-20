@@ -1,6 +1,8 @@
 ---
-title: "Dual-Purpose Fund (Algo Trading)"
-description: "Discover the synergy of dual-purpose funds and algorithmic trading to enhance investment strategies for balanced growth and income in evolving markets."
+category: trading_strategy
+description: Discover the synergy of dual-purpose funds and algorithmic trading to
+  enhance investment strategies for balanced growth and income in evolving markets.
+title: Dual-Purpose Fund (Algo Trading)
 ---
 
 In the ever-evolving financial landscape, investors continually seek strategies that maximize returns while minimizing risks. This quest has led to the increased popularity of dual-purpose funds and algorithmic trading, both of which offer unique advantages distinguished by their specific mechanisms and potential benefits. Dual-purpose funds, a type of closed-end mutual fund, simultaneously address the needs of growth-oriented and income-focused investors by issuing both common and preferred shares. This hybrid structure enables investors to choose an investment type that aligns with their financial goals, whether they prioritize capital appreciation or stable dividend income.

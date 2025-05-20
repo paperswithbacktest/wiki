@@ -1,6 +1,9 @@
 ---
-title: "Open Market Economic System (Algo Trading)"
-description: "Explore how open market economies, central bank operations, and algorithmic trading shape modern finance by driving efficiency, innovation, and economic growth globally."
+category: quant_concept
+description: Explore how open market economies, central bank operations, and algorithmic
+  trading shape modern finance by driving efficiency, innovation, and economic growth
+  globally.
+title: Open Market Economic System (Algo Trading)
 ---
 
 In a rapidly evolving global economy, acquiring a comprehensive understanding of key components such as economic systems, market operations, and algorithmic trading is essential for investors, policymakers, and businesses. As each element plays a significant role in shaping the financial landscape, their interconnectedness influences major themes like capital flow, wealth distribution, and trading efficiency on a global scale.

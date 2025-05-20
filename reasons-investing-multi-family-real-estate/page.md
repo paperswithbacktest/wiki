@@ -1,6 +1,8 @@
 ---
-title: "Reasons for Investing in Multi-Family Real Estate (Algo Trading)"
-description: "Explore the lucrative opportunities of investing in multi-family real estate using algorithmic trading to boost your investment strategy and returns."
+category: trading_strategy
+description: Explore the lucrative opportunities of investing in multi-family real
+  estate using algorithmic trading to boost your investment strategy and returns.
+title: Reasons for Investing in Multi-Family Real Estate (Algo Trading)
 ---
 
 Real estate investment presents a diverse array of opportunities, with multi-family properties standing out as particularly lucrative. This article examines the benefits of investing in multi-family real estate, demonstrating how algorithmic trading can align with, and even enhance, an effective investment strategy. Multi-family properties distinguish themselves by offering unique advantages compared to other real estate investments, such as single-family homes.

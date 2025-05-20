@@ -1,6 +1,8 @@
 ---
-title: "After-Tax Real Rate of Return and Calculation Method (Algo Trading)"
-description: "Discover how after-tax real rate of return impacts investment profitability in algorithmic trading by accounting for inflation and taxes. Optimize gains efficiently."
+category: quant_concept
+description: Discover how after-tax real rate of return impacts investment profitability
+  in algorithmic trading by accounting for inflation and taxes. Optimize gains efficiently.
+title: After-Tax Real Rate of Return and Calculation Method (Algo Trading)
 ---
 
 The concept of real rate of return is pivotal for investors aiming to genuinely understand the profitability of their investments. At its core, the real rate of return takes into account the erosion of purchasing power due to inflation and the immediate cost imposed by taxes. This adjustment provides a clearer picture of how much an investment truly grows over time, contrasting with the nominal rate of return, which merely reflects raw gains or losses without these crucial deductions.

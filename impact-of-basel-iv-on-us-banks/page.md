@@ -1,6 +1,8 @@
 ---
-title: "Impact of Basel IV on U.S. Banks (Algo Trading)"
-description: "Explore how Basel IV reshapes risk management for U.S. banks and impacts algorithmic trading strategies promoting stability in the financial sector."
+category: quant_concept
+description: Explore how Basel IV reshapes risk management for U.S. banks and impacts
+  algorithmic trading strategies promoting stability in the financial sector.
+title: Impact of Basel IV on U.S. Banks (Algo Trading)
 ---
 
 Understanding banking regulations and their implications is essential for grasping the financial landscape in which U.S. banks operate. Basel IV emerges as a pivotal progression in global banking standards, poised to reshape how banks assess financial risk. This set of regulations aims to enhance the robustness of the financial system by refining the methodologies used to calculate risk-weighted assets (RWAs), thereby promoting stability and consistency across international banking operations.

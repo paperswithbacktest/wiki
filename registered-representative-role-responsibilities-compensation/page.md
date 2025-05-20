@@ -1,6 +1,9 @@
 ---
-title: "Registered Representative: Role, Responsibilities, Compensation (Algo Trading)"
-description: "Explore the responsibilities, qualifications, and impact of Registered Representatives, Financial Advisors, and Algo Traders in today's dynamic financial sector."
+category: quant_concept
+description: Explore the responsibilities, qualifications, and impact of Registered
+  Representatives, Financial Advisors, and Algo Traders in today's dynamic financial
+  sector.
+title: 'Registered Representative: Role, Responsibilities, Compensation (Algo Trading)'
 ---
 
 In the fast-paced world of finance, the roles of Registered Representatives, Financial Advisors, and Algorithmic Traders are pivotal in shaping market trends and financial landscapes. This article aims to provide a comprehensive overview of these positions, illuminating their responsibilities, the skills required, and the interplay between them. Understanding these roles is crucial for individuals aiming to enter or progress in the finance industry.

@@ -1,6 +1,9 @@
 ---
-title: "Saint Helena Pound (Algo Trading)"
-description: "Explore the role of the Saint Helena Pound in algorithmic trading Learn how its stable GBP peg offers unique opportunities for low-risk strategies in niche markets"
+category: quant_concept
+description: Explore the role of the Saint Helena Pound in algorithmic trading Learn
+  how its stable GBP peg offers unique opportunities for low-risk strategies in niche
+  markets
+title: Saint Helena Pound (Algo Trading)
 ---
 
 The Saint Helena Pound (SHP) is the official currency used in the British Overseas Territories of Saint Helena, Ascension Island, and Tristan da Cunha. Recognized for its unique economic position, the SHP maintains a fixed exchange rate, being pegged at a 1:1 value with the British Pound Sterling (GBP). This direct peg to the GBP allows the SHP to harness the stability of a major global currency while serving the economic needs of these remote territories.

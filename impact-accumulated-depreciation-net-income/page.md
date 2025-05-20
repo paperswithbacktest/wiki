@@ -1,6 +1,9 @@
 ---
-title: "Impact of Accumulated Depreciation on Net Income (Algo Trading)"
-description: "Explore how accumulated depreciation and net income impact financial reporting and algorithmic trading. Gain insights on aligning accounting and trading strategies."
+category: quant_concept
+description: Explore how accumulated depreciation and net income impact financial
+  reporting and algorithmic trading. Gain insights on aligning accounting and trading
+  strategies.
+title: Impact of Accumulated Depreciation on Net Income (Algo Trading)
 ---
 
 In the intricate world of financial accounting, understanding key concepts such as accumulated depreciation and net income is crucial for investors and business managers alike. These concepts form the foundation of interpreting a company’s financial health and operational efficiency. This article aims to bridge the gap between traditional financial accounting principles and modern algorithmic trading strategies, providing insights into how these two domains interact to influence business operations and investment decisions.

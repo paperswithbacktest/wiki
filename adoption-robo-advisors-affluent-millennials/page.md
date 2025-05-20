@@ -1,6 +1,8 @@
 ---
-title: "Adoption of Robo-Advisors Among Affluent Millennials (Algo Trading)"
-description: "Explore how affluent millennials are transforming investment strategies with the rise of robo-advisors and algo trading integrating fintech innovation."
+category: quant_concept
+description: Explore how affluent millennials are transforming investment strategies
+  with the rise of robo-advisors and algo trading integrating fintech innovation.
+title: Adoption of Robo-Advisors Among Affluent Millennials (Algo Trading)
 ---
 
 The rapid evolution of financial technology, often referred to as fintech, has significantly transformed the investment landscape, particularly among affluent millennials. This demographic, which has grown up alongside the internet and digital technologies, has shown a natural inclination towards innovative and efficient financial management tools, such as robo-advisors and algorithmic trading platforms. These digital solutions are not only reshaping how investments are managed but are also influencing the broader financial services industry.

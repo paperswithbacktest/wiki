@@ -1,6 +1,8 @@
 ---
-title: "Fiduciary Duty: Examples and Types (Algo Trading)"
-description: "Explore fiduciary duty's importance in algorithmic trading with examples and types to ensure ethical financial practices and safeguard investor interests."
+category: quant_concept
+description: Explore fiduciary duty's importance in algorithmic trading with examples
+  and types to ensure ethical financial practices and safeguard investor interests.
+title: 'Fiduciary Duty: Examples and Types (Algo Trading)'
 ---
 
 The concept of fiduciary duty is critically important in sectors such as finance and legal settings. This duty represents the moral and legal obligation of one party to act in the best interest of another. Fiduciary duty encompasses various responsibilities including care, loyalty, good faith, confidentiality, prudence, and disclosure. These responsibilities ensure the trust and integrity of relationships that hinge on the well-being of one party being overseen by another. Financial advisors, lawyers, and corporate directors typically undertake fiduciary duties, whereby they are charged with protecting the interests of their clients, shareholders, or stakeholders.
@@ -117,4 +119,4 @@ As fiduciaries integrate technology into their operations, continuous oversight 
 
 [4]: ["Machine Learning for Algorithmic Trading"](https://github.com/stefan-jansen/machine-learning-for-trading) by Stefan Jansen  
 
-[5]: ["Quantitative Trading: How to Build Your Own Algorithmic Trading Business"](https://www.amazon.com/Quantitative-Trading-Build-Algorithmic-Business/dp/1119800064) by Ernest P. Chan  
+[5]: ["Quantitative Trading: How to Build Your Own Algorithmic Trading Business"](https://www.amazon.com/Quantitative-Trading-Build-Algorithmic-Business/dp/1119800064) by Ernest P. Chan

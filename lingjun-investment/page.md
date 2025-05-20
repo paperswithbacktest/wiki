@@ -1,6 +1,15 @@
 ---
-title: "Lingjun Investment (Algo Trading)"
-description: Lingjun Investment is a leading hedge fund management firm based in Beijing, specializing in algorithmic trading using advanced mathematical models to drive trading decisions. As one of China's largest quantitative funds, Lingjun leverages cutting-edge technology to optimize trading speed and efficiency, making it a significant player in the financial markets. Founded in 2014, the firm manages assets worth USD 8.3 billion, propelled by a commitment to innovative quantitative finance strategies. Despite facing regulatory challenges, Lingjun remains dedicated to enhancing its trading algorithms and ensuring market stability, while maintaining investor trust and regulatory compliance.
+category: quant_concept
+description: Lingjun Investment is a leading hedge fund management firm based in Beijing,
+  specializing in algorithmic trading using advanced mathematical models to drive
+  trading decisions. As one of China's largest quantitative funds, Lingjun leverages
+  cutting-edge technology to optimize trading speed and efficiency, making it a significant
+  player in the financial markets. Founded in 2014, the firm manages assets worth
+  USD 8.3 billion, propelled by a commitment to innovative quantitative finance strategies.
+  Despite facing regulatory challenges, Lingjun remains dedicated to enhancing its
+  trading algorithms and ensuring market stability, while maintaining investor trust
+  and regulatory compliance.
+title: Lingjun Investment (Algo Trading)
 ---
 
 Lingjun Investment is a prominent hedge fund management firm based in Beijing, China, which plays a significant role in the financial landscape. It has carved out a niche specializing in algorithmic trading, utilizing advanced mathematical models to make informed trading decisions. This approach has propelled Lingjun to be recognized as one of the largest quantitative funds in China.

@@ -1,6 +1,8 @@
 ---
-title: "Perpetual Subordinated Loan: Overview, Advantages, and Risks (Algo Trading)"
-description: "Explore perpetual subordinated loans and algo trading Discover how these complex financial instruments affect risk management and investment strategies"
+category: quant_concept
+description: Explore perpetual subordinated loans and algo trading Discover how these
+  complex financial instruments affect risk management and investment strategies
+title: 'Perpetual Subordinated Loan: Overview, Advantages, and Risks (Algo Trading)'
 ---
 
 In today's financial landscape, understanding the interconnectedness of financial instruments is crucial for investors and institutions alike. The amalgamation of perpetual loans, subordinated debt, and algorithmic trading represents a complex financial framework imbued with inherent risks and opportunities. This article explores these intricacies, focusing on how they influence risk management strategies within investment portfolios.

@@ -1,7 +1,8 @@
 ---
-title: Meta Learning Techniques and Applications for Quick Adaptation
+category: quant_concept
 description: Meta learning transforms AI models to adapt quickly with minimal data
   exploring techniques like MAML MeRL and meta augmentation Discover more inside.
+title: Meta Learning Techniques and Applications for Quick Adaptation
 ---
 
 ![Image](images/1.jpeg)

@@ -1,8 +1,9 @@
 ---
-title: Advanced Image Representations for Machine Learning Models
+category: quant_concept
 description: Image representations convert images into numeric formats that boost
   model performance and preserve key features for accurate analysis Discover more
   inside
+title: Advanced Image Representations for Machine Learning Models
 ---
 
 ![Image](images/1.jpeg)

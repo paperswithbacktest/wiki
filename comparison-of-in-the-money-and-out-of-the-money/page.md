@@ -1,6 +1,8 @@
 ---
-title: "Comparison of In the Money and Out of the Money (Algo Trading)"
-description: "Explore the essentials of options trading by understanding 'in the money' vs 'out of the money' concepts enhance your strategy with algorithmic trading insights."
+category: quant_concept
+description: Explore the essentials of options trading by understanding 'in the money'
+  vs 'out of the money' concepts enhance your strategy with algorithmic trading insights.
+title: Comparison of In the Money and Out of the Money (Algo Trading)
 ---
 
 Options trading plays a critical role in financial markets by offering investors and traders the ability to hedge portfolios, manage risk, and potentially capitalize on market movements without needing to own the underlying asset. At a fundamental level, an option is a financial derivative that provides the buyer with the right, but not the obligation, to buy or sell an underlying asset at a predetermined price, known as the strike price, on or before a specified expiration date.

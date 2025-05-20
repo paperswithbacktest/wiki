@@ -1,6 +1,9 @@
 ---
-title: "Cross Margining: Mechanism and Implications (Algo Trading)"
-description: "Explore how cross margining and algorithmic trading serve as essential risk management tools in today's financial markets to optimize liquidity and financial flexibility."
+category: quant_concept
+description: Explore how cross margining and algorithmic trading serve as essential
+  risk management tools in today's financial markets to optimize liquidity and financial
+  flexibility.
+title: 'Cross Margining: Mechanism and Implications (Algo Trading)'
 ---
 
 The evolution of financial markets over the past few decades has underscored the importance of risk management as a crucial component of modern trading strategies. The dynamic nature of these markets, characterized by rapid fluctuations and unpredictability, necessitates that traders employ sophisticated tools to navigate the inherent risks. Among these tools, cross margining and algorithmic trading have emerged as pivotal methods for managing risk effectively.

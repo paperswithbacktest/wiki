@@ -1,6 +1,8 @@
 ---
-title: "Internal Rate of Return Calculation Formula (Algo Trading)"
-description: "Discover how to calculate and utilize Internal Rate of Return (IRR) to gauge investment profitability in the fast-paced world of algorithmic trading."
+category: quant_concept
+description: Discover how to calculate and utilize Internal Rate of Return (IRR) to
+  gauge investment profitability in the fast-paced world of algorithmic trading.
+title: Internal Rate of Return Calculation Formula (Algo Trading)
 ---
 
 In the fast-paced world of finance, evaluating the profitability of investments is critical for making informed decisions. Among the many tools available to investors, the Internal Rate of Return (IRR) stands out as a key metric utilized to assess the expected rate of growth for investments. Essentially, IRR is the discount rate that equates the net present value (NPV) of all cash flows from a particular investment to zero, providing investors with an insight into the efficiency and potential profitability of the investment. This measure simplifies complex evaluations into a comprehensible percentage, offering a common ground for comparing diverse investment opportunities.
@@ -217,4 +219,3 @@ print(f"The IRR for the given cash flows is: {irr_value:.2%}")
 ```
 
 By consulting these resources, individuals can gain a deeper understanding of IRR, its strengths, and its limitations, facilitating more informed and sophisticated financial decision-making.
-

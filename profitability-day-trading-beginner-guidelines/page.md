@@ -1,6 +1,13 @@
 ---
-title: "Profitability of Day Trading and Beginner Guidelines (Algo Trading)"
-description: "Explore the potential profitability of day trading and algorithmic trading while understanding their associated risks and complexities in this beginner's guide. Gain insights into various trading strategies tools and risk management techniques essential for navigating the financial markets effectively. Whether you're interested in capturing short-term market movements through day trading or leveraging high-speed algorithmic executions, this article provides the foundational knowledge to embark on a successful trading journey."
+category: trading_strategy
+description: Explore the potential profitability of day trading and algorithmic trading
+  while understanding their associated risks and complexities in this beginner's guide.
+  Gain insights into various trading strategies tools and risk management techniques
+  essential for navigating the financial markets effectively. Whether you're interested
+  in capturing short-term market movements through day trading or leveraging high-speed
+  algorithmic executions, this article provides the foundational knowledge to embark
+  on a successful trading journey.
+title: Profitability of Day Trading and Beginner Guidelines (Algo Trading)
 ---
 
 Day trading and algorithmic trading are two prominent strategies in the financial markets, known for their potential to generate significant profits, yet each carries a distinct set of risks and complexities. Day trading is characterized by the buying and selling of financial instruments within a single trading day, aiming to capture short-term market movements. Algorithmic trading, often referred to as algo trading, utilizes computer algorithms to execute trades based on predefined criteria, often leveraging speed and data processing capabilities beyond human capacity.

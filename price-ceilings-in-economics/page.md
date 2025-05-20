@@ -1,6 +1,15 @@
 ---
-title: "Price Ceilings in Economics (Algo Trading)"
-description: "Explore the dynamic interaction between price ceilings, market regulation, and algorithmic trading in economics. This insightful discussion highlights how government interventions aim to safeguard consumer interests by capping prices, while also addressing potential market distortions. Delve into the complex role of technology in modern trading environments and consider the necessity of evolving economic frameworks to maintain market balance amidst technological advancements. Understand the challenges and consequences of implementing price ceilings, including shortages and quality changes, and discover how these factors influence the ongoing debate on regulation and innovation."
+category: quant_concept
+description: Explore the dynamic interaction between price ceilings, market regulation,
+  and algorithmic trading in economics. This insightful discussion highlights how
+  government interventions aim to safeguard consumer interests by capping prices,
+  while also addressing potential market distortions. Delve into the complex role
+  of technology in modern trading environments and consider the necessity of evolving
+  economic frameworks to maintain market balance amidst technological advancements.
+  Understand the challenges and consequences of implementing price ceilings, including
+  shortages and quality changes, and discover how these factors influence the ongoing
+  debate on regulation and innovation.
+title: Price Ceilings in Economics (Algo Trading)
 ---
 
 In today's rapidly evolving economic landscape, the interplay between price ceilings, market regulation, and the emerging prevalence of algorithmic trading presents a multifaceted dynamic. Price ceilings, as a form of government intervention, are intended to prevent prices of essential goods and services from reaching levels that are prohibitively expensive for average consumers. This regulation is crucial as it seeks to balance affordability with access, often being implemented during periods of economic distress to stabilize markets.
@@ -183,4 +192,3 @@ Overall, while algorithmic trading can enhance market efficiency by providing li
 [8]: Knight, Frank H. (1951). "The Economic Organization." Harper & Row.
 
 [9]: Golub, A. (2020). "The Physics of Markets: A Complete Modeling and Forecasting Guide." Academic Press.
-

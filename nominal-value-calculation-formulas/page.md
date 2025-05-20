@@ -1,6 +1,9 @@
 ---
-title: "Nominal Value and Calculation Formulas (Algo Trading)"
-description: "Explore the importance of distinguishing between nominal and real values in algorithmic trading and financial markets understand their impact on market assessments and strategy optimization."
+category: quant_concept
+description: Explore the importance of distinguishing between nominal and real values
+  in algorithmic trading and financial markets understand their impact on market assessments
+  and strategy optimization.
+title: Nominal Value and Calculation Formulas (Algo Trading)
 ---
 
 In the evolving financial markets, understanding nominal and real values is crucial, particularly in the domain of algorithmic trading. Nominal values, often regarded as face values, provide a foundational metric in financial assessments, representing the stated worth of securities like bonds and stocks without adjusting for market conditions or inflation. This concept serves as an initial benchmark for determining dividends, interest payments, and market performance metrics. Nominal values are integral in setting the base for financial contracts and valuations, thereby playing a pivotal role in financial decision-making processes.
@@ -185,4 +188,3 @@ Staying informed about these concepts assists in navigating dynamic financial ma
 7. *TradingView Community Scripts*. A vast repository of community-contributed scripts allowing traders to implement and backtest strategies considering nominal and real values. Available at: [www.tradingview.com](https://www.tradingview.com/scripts/).
 
 These resources offer a blend of theoretical knowledge and practical insights into nominal and real value metrics, essential for traders, investors, and financial analysts seeking to optimize their strategies with a comprehensive understanding of economic conditions.
-

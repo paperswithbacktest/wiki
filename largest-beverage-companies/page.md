@@ -1,6 +1,9 @@
 ---
-title: "List of Largest Beverage Companies (Algo Trading)"
-description: "Explore the dynamic world of top beverage companies as they navigate the evolving industry landscape driven by algorithmic trading and innovative market strategies."
+category: dataset
+description: Explore the dynamic world of top beverage companies as they navigate
+  the evolving industry landscape driven by algorithmic trading and innovative market
+  strategies.
+title: List of Largest Beverage Companies (Algo Trading)
 ---
 
 The beverage industry is a dynamic and expansive sector that encompasses a diverse range of products, from alcoholic drinks such as craft beers and wines to non-alcoholic beverages like globally recognized soft drinks, fruit juices, and bottled water. This industry plays a crucial role in the global economy, contributing substantial revenue and generating employment across various regions. Key players within this industry, such as Coca-Cola, PepsiCo, and Anheuser-Busch InBev, have established themselves as dominant forces due to their extensive product portfolios and significant market penetration.

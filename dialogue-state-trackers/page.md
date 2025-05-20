@@ -1,7 +1,8 @@
 ---
-title: Understanding Dialogue State Trackers And FastSGT In AI
+category: quant_concept
 description: Dialogue State Tracker uses semantic graphs and machine learning to maintain
   real-time context and improve conversational AI accuracy Discover more inside
+title: Understanding Dialogue State Trackers And FastSGT In AI
 ---
 
 ![Image](images/1.png)

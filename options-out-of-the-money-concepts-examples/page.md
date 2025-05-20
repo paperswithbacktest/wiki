@@ -1,6 +1,8 @@
 ---
-title: "Options: Out of the Money Concepts and Examples (Algo Trading)"
-description: "Explore algorithms and strategies for Out of the Money options trading to leverage market dynamics in financial portfolios and enhance investment returns."
+category: quant_concept
+description: Explore algorithms and strategies for Out of the Money options trading
+  to leverage market dynamics in financial portfolios and enhance investment returns.
+title: 'Options: Out of the Money Concepts and Examples (Algo Trading)'
 ---
 
 In the intricate world of financial markets, options trading plays a crucial role due to its strategic flexibility and potential to leverage investments. These financial instruments allow investors to manage risk, speculate on price movements, and enhance portfolio returns. A key aspect of options trading is understanding the concept of "Out of the Money" (OTM) options, which is critical, especially when integrated with algorithmic trading strategies.
@@ -230,4 +232,3 @@ Lopez de Prado, M. "Advances in Financial Machine Learning." This book provides 
 Chan, E. "Quantitative Trading: How to Build Your Own Algorithmic Trading Business." Chan offers practical advice on constructing and deploying algorithmic trading strategies. The book guides readers through the process of developing trading algorithms, backtesting strategies, and managing a trading business. It provides real-world examples and includes programming insights, making it an essential resource for aspiring quantitative traders interested in building their own algorithmic infrastructure.
 
 Das, S.R. "Derivatives: Principles and Practice." This text investigates into the principles and applications of derivative instruments across various financial markets. It explains the theoretical underpinnings of derivatives, including options, and discusses their practical applications in hedging, speculation, and risk management. Das’s work is crucial for gaining a holistic understanding of the derivative markets and the role of various derivative instruments.
-

@@ -1,6 +1,8 @@
 ---
-title: "Cardboard Box Index (Algo Trading)"
-description: "Discover how the Cardboard Box Index serves as a unique economic indicator, providing insights into manufacturing activity and aiding algorithmic trading strategies."
+category: quant_concept
+description: Discover how the Cardboard Box Index serves as a unique economic indicator,
+  providing insights into manufacturing activity and aiding algorithmic trading strategies.
+title: Cardboard Box Index (Algo Trading)
 ---
 
 The global economy's complexity and ever-changing nature make it essential to employ various indicators for predicting trends and evaluating performance. Economic indicators serve as indispensable tools for investors, analysts, and policymakers, enabling them to assess the health of economies and make informed decisions. These indicators encompass a range of data points, such as GDP growth rates, unemployment figures, and consumer confidence indices, each offering a unique glimpse into the economic landscape.

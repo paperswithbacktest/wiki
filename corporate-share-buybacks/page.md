@@ -1,6 +1,8 @@
 ---
-title: "Corporate Share Buybacks (Algo Trading)"
-description: "Explore the role of corporate share buybacks in financial strategy and their impact on stock value through algorithmic trading for optimal execution."
+category: quant_concept
+description: Explore the role of corporate share buybacks in financial strategy and
+  their impact on stock value through algorithmic trading for optimal execution.
+title: Corporate Share Buybacks (Algo Trading)
 ---
 
 Share buybacks, also known as stock repurchases, play a crucial role in corporate finance by influencing a company's capital structure, stock valuation, and investor relations. In essence, share buybacks occur when a company repurchases its own shares from the stock market, effectively reducing the number of outstanding shares. This action often leads to an increase in earnings per share (EPS), as the same amount of profit is distributed among fewer shares. This can enhance the perceived value of the stock and potentially lead to an upward adjustment in its market price.
@@ -288,4 +290,3 @@ Further reading on algorithmic trading and stock buybacks can be enhanced by exp
 - Narang, Rishi K. "Inside the Black Box: A Simple Guide to Quantitative and High-Frequency Trading." Wiley, 2009. An accessible introduction to quantitative trading systems, illustrating concepts that enhance buyback implementation through technology.
 
 These references and further reading materials lay a scholarly foundation for understanding the multifaceted dimensions of stock buybacks and the integration of algorithmic trading strategies in corporate finance.
-

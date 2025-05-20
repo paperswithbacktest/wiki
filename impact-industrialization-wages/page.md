@@ -1,6 +1,9 @@
 ---
-title: "Impact of Industrialization on Wages (Algo Trading)"
-description: "Explore the historical and modern impacts of industrialization on wages and economic dynamics through the lens of technological advancements like algorithmic trading."
+category: quant_concept
+description: Explore the historical and modern impacts of industrialization on wages
+  and economic dynamics through the lens of technological advancements like algorithmic
+  trading.
+title: Impact of Industrialization on Wages (Algo Trading)
 ---
 
 The interplay between wages, industrialization, and economic impact has consistently captured the attention of economists and historians. This is due to the profound effects that shifts from agrarian societies to industrial economies have had on societal structures, particularly in terms of wage patterns. Historically, societies rooted in agriculture experienced stagnant economic growth, primarily due to limited productivity advancements and the constraints of Malthusian principles, where population growth often consumed surplus resources without substantial technological intervention. 

@@ -1,6 +1,8 @@
 ---
-title: "Exchange-Traded Funds and Derivatives Classification (Algo Trading)"
-description: "Explore the transformative impact of ETFs derivatives and algorithmic trading on investment strategies enhancing returns and optimizing risk management."
+category: quant_concept
+description: Explore the transformative impact of ETFs derivatives and algorithmic
+  trading on investment strategies enhancing returns and optimizing risk management.
+title: Exchange-Traded Funds and Derivatives Classification (Algo Trading)
 ---
 
 Investment strategies have undergone significant transformations over the years, influenced by the integration of modern financial instruments such as exchange-traded funds (ETFs), derivatives, and algorithmic trading. These elements, acting individually and collectively, have redefined portfolio management, allowing investors to optimize returns while managing risks more effectively.

@@ -1,6 +1,8 @@
 ---
-title: "History of Labor Unions in the United States (Algo Trading)"
-description: "Explore the rich history of labor unions in the U.S. from their emergence in the industrial revolution to their adaptation to modern technological challenges."
+category: quant_concept
+description: Explore the rich history of labor unions in the U.S. from their emergence
+  in the industrial revolution to their adaptation to modern technological challenges.
+title: History of Labor Unions in the United States (Algo Trading)
 ---
 
 The history of labor unions in the United States is a rich tapestry of struggles and triumphs. Labor unions emerged during the industrial revolution, a period marked by rapid industrialization and significant economic change. As factories proliferated, so did working conditions that were often harsh and unregulated, prompting workers to band together to seek improvements in wages, hours, and safety standards. Labor unions have since played a crucial role in advancing workers' rights and shaping labor legislation, championing landmark laws that have defined the labor landscape in the United States.

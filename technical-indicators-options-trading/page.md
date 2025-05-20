@@ -1,6 +1,9 @@
 ---
-title: "Technical Indicators in Options Trading (Algo Trading)"
-description: "Explore how technical indicators enhance options trading by predicting market trends. Learn how tools like RSI and Bollinger Bands aid in making informed decisions."
+category: trading_strategy
+description: Explore how technical indicators enhance options trading by predicting
+  market trends. Learn how tools like RSI and Bollinger Bands aid in making informed
+  decisions.
+title: Technical Indicators in Options Trading (Algo Trading)
 ---
 
 Options trading offers investors a strategic avenue to capitalize on market movements while efficiently managing risk, often requiring a smaller capital outlay compared to traditional stock trading. This approach enables traders to engage in both hedging and speculative strategies without necessarily acquiring the underlying asset. A key component in options trading is the use of technical indicators. These indicators analyze historical market data to anticipate future price movements, thus providing traders with tools to make data-driven decisions.

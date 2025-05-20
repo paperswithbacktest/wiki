@@ -1,6 +1,8 @@
 ---
-title: "Overview of Corporate Bonds Prospectus (Algo Trading)"
-description: "Explore how corporate bond prospectuses and algorithmic trading synergize to form strategic investment approaches in today's dynamic financial landscape."
+category: quant_concept
+description: Explore how corporate bond prospectuses and algorithmic trading synergize
+  to form strategic investment approaches in today's dynamic financial landscape.
+title: Overview of Corporate Bonds Prospectus (Algo Trading)
 ---
 
 In the ever-evolving landscape of global finance, understanding key documents and strategies such as bonds prospectuses and algorithmic trading is crucial. A bond prospectus is a detailed document that lays the foundation for understanding an investment offering by providing essential information, such as interest rates, maturity dates, and issuer credibility. This is especially significant in the corporate bond market, where investors rely on such documents to make informed decisions, align investments with risk tolerance, and achieve financial objectives.

@@ -1,6 +1,9 @@
 ---
-title: "Intertemporal Equilibrium: Concepts and Mechanisms (Algo Trading)"
-description: "Explore intertemporal equilibrium, a pivotal economic concept used in algorithmic trading, explaining how it informs decisions over time and impacts market strategies."
+category: quant_concept
+description: Explore intertemporal equilibrium, a pivotal economic concept used in
+  algorithmic trading, explaining how it informs decisions over time and impacts market
+  strategies.
+title: 'Intertemporal Equilibrium: Concepts and Mechanisms (Algo Trading)'
 ---
 
 Intertemporal equilibrium is a critical concept in economic theories, referring to a state where economic agents' plans and expectations about future consumption and production are perfectly aligned over time. This equilibrium is established when agents' decisions in the present are consistent with their future expectations, allowing for optimal resource allocation and maximum utility. Understanding intertemporal equilibrium is pivotal because it forms the basis for evaluating economic stability and efficiency across different time horizons.

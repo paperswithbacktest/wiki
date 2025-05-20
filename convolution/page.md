@@ -1,7 +1,8 @@
 ---
-title: Understanding Convolution in Convolutional Neural Networks
+category: quant_concept
 description: Convolution in convolutional neural networks applies sliding filters
   to extract image features efficiently with stride and padding Discover more inside
+title: Understanding Convolution in Convolutional Neural Networks
 ---
 
 ![Image](images/1.jpeg)

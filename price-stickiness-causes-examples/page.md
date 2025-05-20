@@ -1,6 +1,9 @@
 ---
-title: "Price Stickiness: Causes and Examples (Algo Trading)"
-description: "Explore the concept of price stickiness and its implications in economic theory and algorithmic trading Discover how resistance to price changes affects markets."
+category: quant_concept
+description: Explore the concept of price stickiness and its implications in economic
+  theory and algorithmic trading Discover how resistance to price changes affects
+  markets.
+title: 'Price Stickiness: Causes and Examples (Algo Trading)'
 ---
 
 Price stickiness is a critical concept within economic theory that sheds light on the complexities of market dynamics. At its core, price stickiness describes the tendency of market prices to remain unchanged or adjust slowly despite shifts in economic conditions. This phenomenon can be observed in various markets where prices do not immediately reflect changes in supply and demand, interest rates, or other economic variables.

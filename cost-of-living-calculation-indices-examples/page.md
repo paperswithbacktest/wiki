@@ -1,6 +1,14 @@
 ---
-title: "Cost of Living: Calculation, Indices, and Examples (Algo Trading)"
-description: "Explore the significance of the cost of living index and its impact on personal finance and strategic decisions for businesses. Learn how this essential economic metric, which quantifies living expenses to sustain a certain lifestyle, influences budgeting, relocation, and compensation. Discover its intricate relationship with algorithmic trading, revealing how fluctuations in economic indices shape market trends and trading strategies. This article provides valuable insights into navigating modern finance, helping individuals and investors refine strategies and adapt to economic shifts for better financial planning and market alignment."
+category: quant_concept
+description: Explore the significance of the cost of living index and its impact on
+  personal finance and strategic decisions for businesses. Learn how this essential
+  economic metric, which quantifies living expenses to sustain a certain lifestyle,
+  influences budgeting, relocation, and compensation. Discover its intricate relationship
+  with algorithmic trading, revealing how fluctuations in economic indices shape market
+  trends and trading strategies. This article provides valuable insights into navigating
+  modern finance, helping individuals and investors refine strategies and adapt to
+  economic shifts for better financial planning and market alignment.
+title: 'Cost of Living: Calculation, Indices, and Examples (Algo Trading)'
 ---
 
 The cost of living index stands as a fundamental economic metric, crucial for both individuals and businesses in assessing the affordability and standard of living. This index quantifies the necessary expenses to sustain a specific lifestyle, thereby significantly influencing decisions related to budgeting, relocation, and compensation packaging. Economists and policymakers utilize it as a vital tool to gauge inflation and make informed adjustments to economic policies.

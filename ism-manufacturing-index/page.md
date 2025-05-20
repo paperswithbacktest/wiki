@@ -1,6 +1,9 @@
 ---
-title: "ISM Manufacturing Index (Algo Trading)"
-description: "Explore the significance of the ISM Manufacturing Index in algorithmic trading with insights into manufacturing trends and economic health that drive data-driven decisions."
+category: quant_concept
+description: Explore the significance of the ISM Manufacturing Index in algorithmic
+  trading with insights into manufacturing trends and economic health that drive data-driven
+  decisions.
+title: ISM Manufacturing Index (Algo Trading)
 ---
 
 The world of manufacturing holds a pivotal role in the global economy, serving as a cornerstone for a myriad of sectors, ranging from production to international trade. As economic landscapes continually shift, understanding the metrics and indices that evaluate manufacturing activity becomes essential for assessing economic health and making informed decisions. Among the plethora of economic indicators, the ISM Manufacturing Index stands out as a crucial gauge of manufacturing activity levels in the United States.

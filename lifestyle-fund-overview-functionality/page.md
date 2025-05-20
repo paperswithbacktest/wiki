@@ -1,6 +1,9 @@
 ---
-title: "Lifestyle Fund: Overview And Functionality (Algo Trading)"
-description: "Discover how lifestyle funds and algorithmic trading revolutionize financial planning. Explore tailored strategies that align with risk profiles and enhance portfolio management."
+category: trading_strategy
+description: Discover how lifestyle funds and algorithmic trading revolutionize financial
+  planning. Explore tailored strategies that align with risk profiles and enhance
+  portfolio management.
+title: 'Lifestyle Fund: Overview And Functionality (Algo Trading)'
 ---
 
 In today's fast-paced financial world, investment strategies have evolved to address the diverse needs of investors. Traditional approaches—such as buying and holding stocks—are no longer the only options available. Instead, a strategic approach is essential, often involving sophisticated techniques like lifestyle funds and algorithmic trading.

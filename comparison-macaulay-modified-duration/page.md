@@ -1,6 +1,8 @@
 ---
-title: "Comparison of Macaulay and Modified Duration (Algo Trading)"
-description: "Explore the Macaulay and Modified Duration metrics essential for assessing bond interest rate risk and their transformative role in algorithmic trading strategies."
+category: quant_concept
+description: Explore the Macaulay and Modified Duration metrics essential for assessing
+  bond interest rate risk and their transformative role in algorithmic trading strategies.
+title: Comparison of Macaulay and Modified Duration (Algo Trading)
 ---
 
 Bond investments are a fundamental component of financial portfolios, contributing to both stability and growth. A comprehensive understanding of bond investments is imperative for investors aiming to manage risk and optimize returns. Central to this understanding is the concept of bond duration, particularly Macaulay and Modified durations, which are vital metrics for assessing interest rate risk.

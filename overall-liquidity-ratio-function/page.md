@@ -1,6 +1,8 @@
 ---
-title: "Overall Liquidity Ratio and Its Function (Algo Trading)"
-description: "Discover the essential role of liquidity ratios in financial health and algo trading. Learn how businesses analyze these metrics to navigate market challenges."
+category: quant_concept
+description: Discover the essential role of liquidity ratios in financial health and
+  algo trading. Learn how businesses analyze these metrics to navigate market challenges.
+title: Overall Liquidity Ratio and Its Function (Algo Trading)
 ---
 
 Understanding key financial metrics is crucial for businesses aiming to evaluate their financial health and operational efficiency. Among these metrics, liquidity ratios play a significant role, as they provide insight into a company's ability to meet its short-term obligations. These ratios, including the current ratio, quick ratio, and cash ratio, assess the liquidity of a company by comparing its current assets against its current liabilities. This allows businesses to gauge their capacity to cover imminent debts and to maintain a healthy cash flow.

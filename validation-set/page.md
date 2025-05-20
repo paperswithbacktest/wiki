@@ -1,7 +1,8 @@
 ---
-title: Understanding Validation Sets in Machine Learning Model Training
+category: quant_concept
 description: Validation set helps you fine-tune machine learning models by preventing
   overfitting and guiding hyperparameter selection Discover more inside.
+title: Understanding Validation Sets in Machine Learning Model Training
 ---
 
 ![Image](images/1.png)

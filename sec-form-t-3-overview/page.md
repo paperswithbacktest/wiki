@@ -1,6 +1,9 @@
 ---
-title: "SEC Form T-3 Overview (Algo Trading)"
-description: "Explore SEC Form T-3's critical role in public debt issuance providing transparency and regulatory compliance insights crucial for companies and traders alike."
+category: quant_concept
+description: Explore SEC Form T-3's critical role in public debt issuance providing
+  transparency and regulatory compliance insights crucial for companies and traders
+  alike.
+title: SEC Form T-3 Overview (Algo Trading)
 ---
 
 Understanding SEC Form T-3 is crucial for companies planning to offer debt securities to the public. This form acts as a pivotal component in the process of a registration statement filed with the Securities and Exchange Commission (SEC). It is specifically intended to qualify indentures as indispensable elements in the issuance of public debt securities. Ensuring compliance with regulatory frameworks such as the Trust Indenture Act of 1939, SEC Form T-3 aids in safeguarding the interests of bondholders by stipulating essential protective measures.

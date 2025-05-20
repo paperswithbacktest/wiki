@@ -1,6 +1,8 @@
 ---
-title: "Volcker Rule: Overview, Purpose, and Criticism (Algo Trading)"
-description: "Explore the Volcker Rule's impact on banking and algorithmic trading uncovering its role in financial reform and its implications on market stability."
+category: quant_concept
+description: Explore the Volcker Rule's impact on banking and algorithmic trading
+  uncovering its role in financial reform and its implications on market stability.
+title: 'Volcker Rule: Overview, Purpose, and Criticism (Algo Trading)'
 ---
 
 The financial sector is continually influenced by regulatory measures, one of which is the Volcker Rule. This rule was introduced as part of the Dodd-Frank Wall Street Reform and Consumer Protection Act, a legislative response designed to prevent the types of excessive risk-taking that contributed to the financial crisis of 2008. The 2008 crisis highlighted significant vulnerabilities in the financial system, including banks' engagement in speculative trading activities that did not directly benefit their customers. In response, the Volcker Rule was conceived to impose stricter regulations on these practices.

@@ -1,6 +1,9 @@
 ---
-title: "Earnings Power Value Calculations (Algo Trading)"
-description: "Explore how Earnings Power Value (EPV) provides a conservative assessment of a stock's intrinsic value using current earnings empowering better investment decisions."
+category: quant_concept
+description: Explore how Earnings Power Value (EPV) provides a conservative assessment
+  of a stock's intrinsic value using current earnings empowering better investment
+  decisions.
+title: Earnings Power Value Calculations (Algo Trading)
 ---
 
 In the world of finance and investment, determining the intrinsic value of a stock is crucial for informed decision-making. Investors and analysts aim to assess whether a stock is overvalued or undervalued based on its inherent worth, independent of market conditions. One popular valuation method that aids in this assessment is the Earnings Power Value (EPV). EPV leverages a company's current earnings to provide a conservative estimate of its value, differentiating itself from methodologies that factor in future growth projections.

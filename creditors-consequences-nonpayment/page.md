@@ -1,6 +1,8 @@
 ---
-title: "Creditors and Consequences of Nonpayment (Algo Trading)"
-description: "Explore the dynamics of nonpayment in algo trading and its impact on creditors. Understand risk management and strategies to mitigate financial challenges."
+category: quant_concept
+description: Explore the dynamics of nonpayment in algo trading and its impact on
+  creditors. Understand risk management and strategies to mitigate financial challenges.
+title: Creditors and Consequences of Nonpayment (Algo Trading)
 ---
 
 The financial world is a complex network comprising various participants, including borrowers who seek funds, creditors who provide them, and investors who allocate capital to generate returns. These entities interact within a dynamic ecosystem where the flow of capital is essential for economic stability and growth. At the core of this intricate web lies the issue of debt and its potential mishandling, particularly when obligations are not met, known as nonpayment. 
@@ -165,4 +167,3 @@ In conclusion, the interplay between debt nonpayment and algorithmic trading und
 9. Ait-Sahalia, Y., & Lo, A. W. (2000). "Nonparametric Risk Management and Implied Risk Aversion". *Journal of Econometrics, 94*(1), 9–51. This research discusses risk management methodologies, including their application in algorithmic trading systems.
 
 10. Tsay, R. S. (2010). *Analysis of Financial Time Series*. Hoboken: Wiley. This book focuses on statistical methods and time series analysis, crucial for developing algorithmic trading models and strategies.
-

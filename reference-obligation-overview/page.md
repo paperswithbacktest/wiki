@@ -1,6 +1,9 @@
 ---
-title: "Reference Obligation Overview (Algo Trading)"
-description: "Explore the essential role of reference obligations in credit derivatives and learn how algorithmic trading aids in managing these complex financial tools for optimal risk management."
+category: quant_concept
+description: Explore the essential role of reference obligations in credit derivatives
+  and learn how algorithmic trading aids in managing these complex financial tools
+  for optimal risk management.
+title: Reference Obligation Overview (Algo Trading)
 ---
 
 Credit derivatives are important financial instruments that enable investors to manage credit risk without the necessity of owning the underlying assets. This characteristic makes credit derivatives versatile tools for both speculation and risk management. At the heart of these instruments is the concept of the reference obligation, a specific debt instrument upon which credit derivative contracts are based. 

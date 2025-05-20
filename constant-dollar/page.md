@@ -1,6 +1,9 @@
 ---
-title: "Constant Dollar (Algo Trading)"
-description: "Discover how constant dollar measures enhance algorithmic trading by providing accurate economic insights. Learn about inflation adjustment and market strategies."
+category: quant_concept
+description: Discover how constant dollar measures enhance algorithmic trading by
+  providing accurate economic insights. Learn about inflation adjustment and market
+  strategies.
+title: Constant Dollar (Algo Trading)
 ---
 
 In today's dynamic economic landscape, understanding the real value of economic indicators requires adjusting for inflation. Inflation distorts the nominal value of money, complicating the comparison of financial performance across different time periods. Inflation-adjusted values, also known as constant dollar measures, provide a more accurate reflection of financial data by accounting for changes in purchasing power. This methodological adjustment allows economists, policymakers, and investors to gain a clearer and more meaningful picture of economic performance over time.

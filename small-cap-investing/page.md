@@ -1,6 +1,8 @@
 ---
-title: "Small Cap Investing (Algo Trading)"
-description: "Explore the synergy of small-cap stock investing and algo trading. Understand the potential for high returns with inherent risks and learn strategic approaches."
+category: quant_concept
+description: Explore the synergy of small-cap stock investing and algo trading. Understand
+  the potential for high returns with inherent risks and learn strategic approaches.
+title: Small Cap Investing (Algo Trading)
 ---
 
 In the fast-evolving world of financial markets, small-cap stocks and algorithmic trading have emerged as two intriguing concepts for investors. Small-cap stocks, typically defined by having a market capitalization between $300 million and $2 billion, present opportunities for potentially high growth. This potential is balanced by increased risks, as these stocks tend to exhibit greater volatility than their large-cap counterparts. Investors are often attracted to small-cap stocks due to their capacity for significant returns as companies undergo early-stage growth. However, this attraction necessitates a well-honed understanding of associated risks, such as lower liquidity and less extensive coverage by financial analysts.
@@ -205,4 +207,3 @@ Lopez de Prado explores the intersection of machine learning and finance, provid
 Aronson approaches technical analysis with a rigorous scientific framework, emphasizing statistical validation of trading strategies. His evidence-based methodology is pivotal for traders employing algorithmic systems, particularly in volatile small-cap markets, where empirical validation can mitigate risks associated with speculative trades.
 
 These readings provide a robust foundation for understanding and applying concepts of small-cap stock investing and algorithmic trading, enhancing investors' capacity to navigate complex financial landscapes.
-

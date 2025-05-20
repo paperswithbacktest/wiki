@@ -1,6 +1,9 @@
 ---
-title: "Overview of the Australian Securities and Investments Commission (Algo Trading)"
-description: "Explore ASIC's role in regulating algorithmic trading in Australia focusing on fostering fairness and transparency while ensuring market integrity through proactive strategies."
+category: quant_concept
+description: Explore ASIC's role in regulating algorithmic trading in Australia focusing
+  on fostering fairness and transparency while ensuring market integrity through proactive
+  strategies.
+title: Overview of the Australian Securities and Investments Commission (Algo Trading)
 ---
 
 The Australian Securities and Investments Commission (ASIC) is a cornerstone of the financial regulatory framework in Australia, tasked with maintaining order and transparency across the country's financial markets and services. This regulatory body is responsible for ensuring that practices within Australia's financial system are fair, transparent, and efficient. One of the key areas where ASIC has become increasingly vigilant is the domain of algorithmic trading, which has emerged as a dynamic force in modern financial markets due to rapid technological advancements.

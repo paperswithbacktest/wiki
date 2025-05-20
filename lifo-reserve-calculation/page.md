@@ -1,6 +1,8 @@
 ---
-title: "LIFO Reserve and Calculation (Algo Trading)"
-description: "Explore the impact of LIFO reserves on inventory valuation and algorithmic trading techniques to optimize financial strategies in today's market."
+category: quant_concept
+description: Explore the impact of LIFO reserves on inventory valuation and algorithmic
+  trading techniques to optimize financial strategies in today's market.
+title: LIFO Reserve and Calculation (Algo Trading)
 ---
 
 In today's intricate financial landscape, it's essential for businesses and investors to employ precise strategies for resource management. Financial calculations serve as a critical foundation in decision-making processes, especially within the areas of inventory accounting and trading. By grasping the intricacies of these aspects, organizations can enhance their financial strategies and improve their competitiveness in the market.

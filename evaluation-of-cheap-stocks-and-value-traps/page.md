@@ -1,6 +1,8 @@
 ---
-title: "Evaluation of Cheap Stocks and Value Traps (Algo Trading)"
-description: "Explore cheap stocks and avoid value traps with our guide on investment strategies and algorithmic trading insights to enhance decision-making and returns."
+category: trading_strategy
+description: Explore cheap stocks and avoid value traps with our guide on investment
+  strategies and algorithmic trading insights to enhance decision-making and returns.
+title: Evaluation of Cheap Stocks and Value Traps (Algo Trading)
 ---
 
 Navigating the stock market can be both an exciting and daunting task, especially when searching for investment opportunities in cheap stocks. The appeal of acquiring shares at a low cost can lure investors with the promise of significant returns and the potential for substantial financial gains. However, this allure of low-priced stocks often masks hidden pitfalls, known as value traps, which can significantly impact investment outcomes.

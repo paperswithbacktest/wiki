@@ -1,6 +1,9 @@
 ---
-title: "Average Qualitative Opinion (Algo Trading)"
-description: "Discover the Average Qualitative Opinion (AQO) a novel tool in algorithmic trading that blends qualitative insights with quantitative data for enhanced trading decisions."
+category: quant_concept
+description: Discover the Average Qualitative Opinion (AQO) a novel tool in algorithmic
+  trading that blends qualitative insights with quantitative data for enhanced trading
+  decisions.
+title: Average Qualitative Opinion (Algo Trading)
 ---
 
 The world of algorithmic trading has witnessed substantial progress, driven by technological advancements and innovative methodologies. One such development is the Average Qualitative Opinion (AQO), a novel tool designed to blend qualitative assessments with quantitative data, enhancing trading decisions. Unlike traditional quantitative analysis, which often relies on numerical data and statistical models, AQO provides a distinct perspective by synthesizing the opinions of multiple analysts concerning a specific security. This collective viewpoint generates a consensus rating that can inform trading strategies, offering traders an aggregated assessment of market sentiment.

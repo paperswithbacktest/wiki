@@ -1,6 +1,13 @@
 ---
-title: "Comparison of Merrill Guided Investing and E*TRADE Core Portfolios (Algo Trading)"
-description: "Discover the key distinctions between Merrill Guided Investing and E*TRADE Core Portfolios with this comprehensive comparison, aimed at helping investors make informed decisions. Explore how each platform utilizes advanced algorithmic trading to offer personalized investment strategies and efficient portfolio management. Delve into the unique features and services they provide, tailored to meet diverse investor needs, and understand how these platforms can optimize financial outcomes through technology-driven solutions."
+category: trading_strategy
+description: Discover the key distinctions between Merrill Guided Investing and E*TRADE
+  Core Portfolios with this comprehensive comparison, aimed at helping investors make
+  informed decisions. Explore how each platform utilizes advanced algorithmic trading
+  to offer personalized investment strategies and efficient portfolio management.
+  Delve into the unique features and services they provide, tailored to meet diverse
+  investor needs, and understand how these platforms can optimize financial outcomes
+  through technology-driven solutions.
+title: Comparison of Merrill Guided Investing and E*TRADE Core Portfolios (Algo Trading)
 ---
 
 Modern investment platforms have transformed the way individuals manage and grow their wealth, especially with the evolution of technology that has made investments more accessible and efficient. A significant advancement in this field is the rise of algorithmic trading, which utilizes computer algorithms to automatically execute trading decisions based on predefined criteria. This method enhances trading efficiency by minimizing human error and reaction times while optimizing investment strategies through data analysis.

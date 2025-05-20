@@ -1,6 +1,9 @@
 ---
-title: "Russell Investments Overview (Algo Trading)"
-description: "Discover how Russell Investments leverages algorithmic trading and AI to transform financial management, enhance decision-making, and optimize investment outcomes."
+category: trading_strategy
+description: Discover how Russell Investments leverages algorithmic trading and AI
+  to transform financial management, enhance decision-making, and optimize investment
+  outcomes.
+title: Russell Investments Overview (Algo Trading)
 ---
 
 The investment landscape is undergoing a significant transformation as technology and artificial intelligence (AI) become integral to financial management. This transformation is being driven by the need for faster, more accurate decision-making processes within the industry, allowing for the optimization of trading strategies and investment portfolios. One key player in this evolving landscape is Russell Investments, known for its extensive range of services and proficiency in algorithmic trading technologies. 

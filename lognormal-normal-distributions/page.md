@@ -1,6 +1,8 @@
 ---
-title: "Lognormal and Normal Distributions (Algo Trading)"
-description: "Explore the significance of normal and lognormal distributions in finance and algo trading to model risks returns and asset prices for informed decision-making."
+category: quant_concept
+description: Explore the significance of normal and lognormal distributions in finance
+  and algo trading to model risks returns and asset prices for informed decision-making.
+title: Lognormal and Normal Distributions (Algo Trading)
 ---
 
 Understanding statistical frameworks is essential for making informed decisions in investing and finance. Among these frameworks, the normal and lognormal distributions are particularly important for modeling and predicting financial outcomes. The normal distribution, often represented as a bell curve, is a fundamental concept in probability theory that helps assess risk and expected returns. It is frequently used to model market returns and individual security performance due to its symmetric nature centered around a mean value. 

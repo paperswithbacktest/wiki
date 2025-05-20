@@ -1,6 +1,8 @@
 ---
-title: "Asian Century: Overview and Criticism (Algo Trading)"
-description: "Explore the Asian Century's potential in global politics and economy examining its economic growth, technological impacts and the criticism it faces."
+category: quant_concept
+description: Explore the Asian Century's potential in global politics and economy
+  examining its economic growth, technological impacts and the criticism it faces.
+title: 'Asian Century: Overview and Criticism (Algo Trading)'
 ---
 
 The 21st century has often been referred to as the Asian Century, a term reflecting the anticipated economic and political prominence of Asian countries like China and India in global affairs. This narrative stems from the region's impressive economic growth, burgeoning populations, and technological advancements over recent decades. The concept suggests a shift from Western-dominated norms toward greater international influence emanating from Asia.

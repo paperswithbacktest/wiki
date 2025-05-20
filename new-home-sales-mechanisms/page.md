@@ -1,6 +1,9 @@
 ---
-title: "New Home Sales and Their Mechanisms (Algo Trading)"
-description: "Explore the impact of new home sales and algorithmic trading on real estate investments Discover how these dynamics shape market trends and investment strategies"
+category: quant_concept
+description: Explore the impact of new home sales and algorithmic trading on real
+  estate investments Discover how these dynamics shape market trends and investment
+  strategies
+title: New Home Sales and Their Mechanisms (Algo Trading)
 ---
 
 The convergence of the real estate housing market, new home sales, and algorithmic trading marks a pivotal development in contemporary investment landscapes. These elements form a complex interplay that is increasingly shaping the future of real estate investments. Currently, the housing market is a critical driver of economic activity and individual wealth accumulation. Its dynamics are influenced by a myriad of factors, including economic indicators like interest rates, employment levels, and household incomes. 

@@ -1,6 +1,8 @@
 ---
-title: "Machine Learning in Finance (Algo Trading)"
-description: "Explore how algorithmic trading and machine learning are transforming finance by enhancing trading efficiency, optimizing strategies, and improving decision-making."
+category: quant_concept
+description: Explore how algorithmic trading and machine learning are transforming
+  finance by enhancing trading efficiency, optimizing strategies, and improving decision-making.
+title: Machine Learning in Finance (Algo Trading)
 ---
 
 Algorithmic trading has become a cornerstone in modern finance, revolutionizing how trades are executed in various markets. It refers to using computer algorithms to automate trading, reducing human intervention and allowing for rapid, precise execution of trades based on pre-determined criteria. This automation has significantly enhanced trading efficiency and liquidity, leading to tighter spreads and more stable pricing. Algorithmic trading stands out in its ability to process vast amounts of data with speed and accuracy, optimizing the execution of trades.

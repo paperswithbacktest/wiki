@@ -1,6 +1,13 @@
 ---
-title: "Betting frequency (Algo Trading)"
-description: Explore the concept of betting frequency in algorithmic trading, where trade execution speed and volume are crucial. High-frequency trading, driven by advanced algorithms, aims to capitalize on tiny price differences, enriching market liquidity but posing technological and market volatility challenges. Understand how different frequencies impact trading strategies and market efficiency, and how advancements in AI and machine learning could revolutionize these strategies for better precision and outcome optimization.
+category: trading_strategy
+description: Explore the concept of betting frequency in algorithmic trading, where
+  trade execution speed and volume are crucial. High-frequency trading, driven by
+  advanced algorithms, aims to capitalize on tiny price differences, enriching market
+  liquidity but posing technological and market volatility challenges. Understand
+  how different frequencies impact trading strategies and market efficiency, and how
+  advancements in AI and machine learning could revolutionize these strategies for
+  better precision and outcome optimization.
+title: Betting frequency (Algo Trading)
 ---
 
 Algorithmic trading, often referred to as algo-trading, incorporates the use of computer algorithms to execute trading decisions at speeds and frequencies beyond human capacity. Central to this approach is the concept of betting frequency, which pertains to how often trades are executed within a given timeframe. Betting frequency depends on various factors, including the strategy employed, market conditions, and available technological infrastructure. A comprehensive understanding of betting frequency is crucial, as it influences market liquidity and the effectiveness of trading strategies.

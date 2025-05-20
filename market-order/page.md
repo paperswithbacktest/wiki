@@ -1,6 +1,13 @@
 ---
-title: "Market Order (Algo Trading)"
-description: "Discover how market orders and algorithmic trading are revolutionizing stock trading by harnessing advanced technology for rapid, efficient transactions. Learn how market orders ensure quick trade execution at the best available price and how algorithms automate trading decisions for high-frequency opportunities. This comprehensive guide explores both beginner insights and strategies to optimize trading efficiency and market interaction, highlighting the crucial interplay between speed, precision, and technology in today's dynamic financial markets."
+category: quant_concept
+description: Discover how market orders and algorithmic trading are revolutionizing
+  stock trading by harnessing advanced technology for rapid, efficient transactions.
+  Learn how market orders ensure quick trade execution at the best available price
+  and how algorithms automate trading decisions for high-frequency opportunities.
+  This comprehensive guide explores both beginner insights and strategies to optimize
+  trading efficiency and market interaction, highlighting the crucial interplay between
+  speed, precision, and technology in today's dynamic financial markets.
+title: Market Order (Algo Trading)
 ---
 
 Stock trading has undergone significant transformation over the decades, moving from the bustling environment of traditional floor trading to the sophisticated digital platforms prevalent today. This evolution has been marked by the integration of advanced technological tools and strategies that have redefined how traders engage with the financial markets. At the heart of this change are concepts such as market orders and algorithmic trading (often referred to as algo trading), which have considerably altered the landscape for both individual and institutional investors.

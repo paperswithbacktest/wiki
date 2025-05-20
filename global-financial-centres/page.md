@@ -1,6 +1,8 @@
 ---
-title: "Global Financial Centres (Algo Trading)"
-description: "Explore the crucial role of global financial centres like New York, London, and Tokyo in shaping finance with insights into the rise of algorithmic trading."
+category: quant_concept
+description: Explore the crucial role of global financial centres like New York, London,
+  and Tokyo in shaping finance with insights into the rise of algorithmic trading.
+title: Global Financial Centres (Algo Trading)
 ---
 
 In today's interconnected world, financial centres are central to shaping global finance. These cities, such as New York, London, and Tokyo, are not just geographical locales but pivotal arenas where banking, investment, and economic transactions converge. Financial centres facilitate the flow of capital across borders, acting as nodes in a complex global network that sustains economies and drives innovation.

@@ -1,6 +1,8 @@
 ---
-title: "Dominant Strategy vs. Nash Equilibrium in Game Theory (Algo Trading)"
-description: "Explore how dominant strategy and Nash equilibrium in game theory enhance algorithmic trading strategies by predicting market behavior and optimizing decisions."
+category: quant_concept
+description: Explore how dominant strategy and Nash equilibrium in game theory enhance
+  algorithmic trading strategies by predicting market behavior and optimizing decisions.
+title: Dominant Strategy vs. Nash Equilibrium in Game Theory (Algo Trading)
 ---
 
 Game theory, a mathematical framework for analyzing competitive situations where the outcomes depend on the actions of multiple agents, plays a crucial role in financial markets. In the context of algorithmic trading, it provides valuable insights into market dynamics, enabling traders and developers to devise strategies that anticipate and respond effectively to the behavior of other market participants. The application of game theory in financial markets is particularly prominent in the construction of trading algorithms, where understanding strategic interactions can lead to a significant competitive advantage.

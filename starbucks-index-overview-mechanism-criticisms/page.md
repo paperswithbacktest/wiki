@@ -1,6 +1,8 @@
 ---
-title: "Starbucks Index: Overview, Mechanism, and Criticisms (Algo Trading)"
-description: "Explore how the Starbucks Index provides a unique economic perspective on currency valuation through latte price comparisons, aiding insights in algo trading."
+category: quant_concept
+description: Explore how the Starbucks Index provides a unique economic perspective
+  on currency valuation through latte price comparisons, aiding insights in algo trading.
+title: 'Starbucks Index: Overview, Mechanism, and Criticisms (Algo Trading)'
 ---
 
 The Starbucks Index, akin to the more renowned Big Mac Index, serves as an informal economic indicator by comparing the cost of a standardized commodity—an espresso-based drink, namely, a tall latte—across various countries. Much like its culinary counterpart, this index seeks to provide a quick snapshot of currency valuation through the lens of Purchasing Power Parity (PPP). Essentially, PPP is an economic theory that suggests that in the absence of transaction costs and economic barriers, identical goods should have the same price when expressed in a common currency. By applying this concept, the Starbucks Index enables comparisons of how much a similar product costs in different locales, offering insights into the relative value or imbalance of currencies.

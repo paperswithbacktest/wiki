@@ -1,6 +1,8 @@
 ---
-title: "Open Positions in Trading: Meaning and Risk (Algo Trading)"
-description: "Explore the risks of open positions in trading and how algorithmic strategies mitigate them. Learn about evolving markets and modern risk management techniques."
+category: trading_strategy
+description: Explore the risks of open positions in trading and how algorithmic strategies
+  mitigate them. Learn about evolving markets and modern risk management techniques.
+title: 'Open Positions in Trading: Meaning and Risk (Algo Trading)'
 ---
 
 In the world of finance, the shift towards digitization has revolutionized trading practices, leading to significant advancements. Notably, algorithmic trading, commonly known as algo trading, has significantly altered the operation of financial markets. This method leverages computer algorithms to carry out trades based on predetermined criteria, ensuring speed and precision in executing transactions. Such automation reduces human errors and enhances the capacity to manage large volumes of trades efficiently—an essential aspect in today's fast-paced markets.

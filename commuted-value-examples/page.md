@@ -1,6 +1,8 @@
 ---
-title: "Commuted Value and Examples (Algo Trading)"
-description: "Master the essentials of retirement benefits, pension commuted value, and algorithmic trading for strategic financial planning and retirement security."
+category: quant_concept
+description: Master the essentials of retirement benefits, pension commuted value,
+  and algorithmic trading for strategic financial planning and retirement security.
+title: Commuted Value and Examples (Algo Trading)
 ---
 
 In a rapidly evolving financial landscape, gaining a comprehensive understanding of retirement benefits, pension commuted value, and algorithmic trading is crucial for developing a competitive financial strategy. These concepts collectively play a significant role in modern financial planning, impacting investment decisions, retirement security, and wealth management.

@@ -1,6 +1,8 @@
 ---
-title: "Meeting of the Minds in Contract Law (Algo Trading)"
-description: "Explore the complexity of the "meeting of the minds" in contract law with a focus on its significance in algorithmic trading and evolving legal challenges."
+category: quant_concept
+description: Explore the complexity of the "meeting of the minds" in contract law
+  with a focus on its significance in algorithmic trading and evolving legal challenges.
+title: Meeting of the Minds in Contract Law (Algo Trading)
 ---
 
 The concept of a "meeting of the minds" is pivotal in contract law, serving as the foundation for validating and enforcing agreements. This legal principle refers to the mutual understanding and agreement on the essential terms and conditions of a contract by all parties involved. Without this mutual assent, a contract may be deemed invalid or unenforceable, as it implies the parties did not have a shared intent at the time of agreement. Thus, establishing a meeting of the minds is crucial to ensuring that contracts are not only formally agreed upon but also substantively fair and clear to all involved.

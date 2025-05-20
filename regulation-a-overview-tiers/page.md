@@ -1,6 +1,9 @@
 ---
-title: "Regulation A: Overview and Tiers (Algo Trading)"
-description: "Explore the synergy between Regulation A offerings and algorithmic trading Understainding Tier 1 and Tier 2's implications offers a roadmap for dynamic investment strategies"
+category: quant_concept
+description: Explore the synergy between Regulation A offerings and algorithmic trading
+  Understainding Tier 1 and Tier 2's implications offers a roadmap for dynamic investment
+  strategies
+title: 'Regulation A: Overview and Tiers (Algo Trading)'
 ---
 
 The world of investing is vast and complex, offering a multitude of options for both individual and institutional investors. Among these options, Regulation A stands out as an interesting framework for companies aiming to raise capital through securities offerings without undergoing the complete rigors of SEC registration. Regulation A, commonly referred to as "Reg A," originated from the Securities Act of 1933, which provides certain exemptions from registration. This regulatory pathway is particularly appealing for small to medium-sized enterprises, as it allows them flexibility in accessing public capital markets while avoiding some of the more stringent requirements traditionally associated with SEC registration.

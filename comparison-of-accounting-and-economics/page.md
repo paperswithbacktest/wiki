@@ -1,6 +1,8 @@
 ---
-title: "Comparison of Accounting and Economics (Algo Trading)"
-description: "Discover the interplay between accounting, economics, and algorithmic trading in finance, exploring their roles, technology's impact, and career opportunities."
+category: quant_concept
+description: Discover the interplay between accounting, economics, and algorithmic
+  trading in finance, exploring their roles, technology's impact, and career opportunities.
+title: Comparison of Accounting and Economics (Algo Trading)
 ---
 
 Accounting, economics, and algorithmic trading are three pivotal fields in the modern financial landscape, each playing a significant role in shaping the way businesses and markets operate. Accounting is the systematic process of recording, analyzing, and reporting financial transactions within a business. It is fundamental in facilitating informed decision-making by providing transparency and accountability. Economics, on the other hand, is a social science that studies the production, distribution, and consumption of goods and services. It helps in understanding how individuals, businesses, and governments allocate resources, influencing policy formulation and business strategies. Algorithmic trading involves the use of computers to execute trading orders based on pre-defined strategies, often at speeds far surpassing human capability. This practice has revolutionized financial markets by increasing efficiency and liquidity while impacting market dynamics.

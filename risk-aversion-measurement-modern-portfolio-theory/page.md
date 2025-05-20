@@ -1,6 +1,9 @@
 ---
-title: "Risk Aversion Measurement in Modern Portfolio Theory (Algo Trading)"
-description: "Explore how risk aversion shapes investment strategies through Modern Portfolio Theory and algorithmic trading, optimizing portfolios for risk and return balance."
+category: quant_concept
+description: Explore how risk aversion shapes investment strategies through Modern
+  Portfolio Theory and algorithmic trading, optimizing portfolios for risk and return
+  balance.
+title: Risk Aversion Measurement in Modern Portfolio Theory (Algo Trading)
 ---
 
 Investment risk is a vital component of financial decision-making, influencing the strategies that investors employ to build robust portfolios. At the core of investment strategy lies the necessity to balance anticipated returns with the risks involved. This balancing act is essential because investment outcomes are inherently uncertain, and understanding these uncertainties helps investors make informed choices.

@@ -1,6 +1,9 @@
 ---
-title: "Series I Bonds: Rates, Risks, and Tax Implications (Algo Trading)"
-description: "Explore the benefits and risks of Series I Bonds as a low-risk investment option with inflation protection, and discover how they impact portfolio management and algorithmic trading strategies."
+category: quant_concept
+description: Explore the benefits and risks of Series I Bonds as a low-risk investment
+  option with inflation protection, and discover how they impact portfolio management
+  and algorithmic trading strategies.
+title: 'Series I Bonds: Rates, Risks, and Tax Implications (Algo Trading)'
 ---
 
 Series I Bonds, issued by the U.S. Treasury, provide investors with a low-risk investment option featuring protection against inflation. These bonds are distinctive in their structure, as they combine a fixed interest rate with a variable rate that adjusts according to inflation. This dual-rate mechanism ensures that the returns on these bonds adapt to economic fluctuations, particularly changes in inflation. 

@@ -1,6 +1,8 @@
 ---
-title: "Choke Price: Concept, Mechanism, and Influences (Algo Trading)"
-description: "Explore the concept of choke price in algo trading analyzing its economic implications and influence on market dynamics and pricing strategies."
+category: quant_concept
+description: Explore the concept of choke price in algo trading analyzing its economic
+  implications and influence on market dynamics and pricing strategies.
+title: 'Choke Price: Concept, Mechanism, and Influences (Algo Trading)'
 ---
 
 Economic theory serves as a crucial framework for comprehending market mechanisms by providing structured ways to analyze how markets operate, how prices are set, and how resources are allocated. It encompasses a wide range of principles that describe the interactions between individuals, businesses, and governments within the economy, explaining phenomena such as supply and demand, market equilibrium, and price elasticity.

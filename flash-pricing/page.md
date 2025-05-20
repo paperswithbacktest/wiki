@@ -1,6 +1,8 @@
 ---
-title: "Flash Pricing (Algo Trading)"
-description: "Optimize your business's revenue with flash and dynamic pricing backed by algorithmic trading. Stay competitive with real-time, data-driven strategies."
+category: trading_strategy
+description: Optimize your business's revenue with flash and dynamic pricing backed
+  by algorithmic trading. Stay competitive with real-time, data-driven strategies.
+title: Flash Pricing (Algo Trading)
 ---
 
 In today's fast-paced digital economy, pricing strategies have evolved to become more dynamic and sophisticated, increasingly supported by technologies such as machine learning and algorithmic trading. These strategies are critical for businesses seeking to optimize revenue and stay competitive. Flash pricing, real-time pricing, dynamic pricing, and algorithmic trading are interconnected methodologies that play significant roles in transforming the way markets operate.

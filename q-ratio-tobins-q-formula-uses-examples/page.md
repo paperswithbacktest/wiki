@@ -1,6 +1,8 @@
 ---
-title: "Q Ratio and Tobin's Q: Formula, Uses, and Examples (Algo Trading)"
-description: "Explore how the Q Ratio and Tobin's Q can enhance algo trading strategies by providing insights into market valuations and identifying investment opportunities."
+category: quant_concept
+description: Explore how the Q Ratio and Tobin's Q can enhance algo trading strategies
+  by providing insights into market valuations and identifying investment opportunities.
+title: 'Q Ratio and Tobin''s Q: Formula, Uses, and Examples (Algo Trading)'
 ---
 
 Financial metrics play a crucial role in investment analysis by providing quantitative assessments that inform decision-making regarding asset valuation, risk management, and strategic allocation. Among these metrics, the Q Ratio and Tobin's Q offer significant insights into market valuations. These metrics are instrumental in determining whether a market or asset is overvalued or undervalued, thus guiding investors towards strategic opportunities.

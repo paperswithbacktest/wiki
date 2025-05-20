@@ -1,6 +1,8 @@
 ---
-title: "Essential Economic Concepts for Consumers (Algo Trading)"
-description: "Discover the impact of financial literacy, consumer economics, and algo trading on modern finance to make informed decisions in a complex economic landscape."
+category: quant_concept
+description: Discover the impact of financial literacy, consumer economics, and algo
+  trading on modern finance to make informed decisions in a complex economic landscape.
+title: Essential Economic Concepts for Consumers (Algo Trading)
 ---
 
 In today's fast-paced economic landscape, understanding financial literacy is essential for making informed decisions that underpin personal and collective financial health. Financial literacy equips individuals with the knowledge and skills necessary to effectively manage resources, make sound investment decisions, and navigate complex financial environments. As technological advancements rapidly progress, the intricacies of financial systems necessitate a well-rounded comprehension of core economic principles.

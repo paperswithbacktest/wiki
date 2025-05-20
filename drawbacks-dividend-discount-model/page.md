@@ -1,6 +1,8 @@
 ---
-title: "Drawbacks of the Dividend Discount Model (Algo Trading)"
-description: "Discover the limitations of the Dividend Discount Model in algorithmic trading, exploring its assumptions and challenges for precise stock valuation."
+category: quant_concept
+description: Discover the limitations of the Dividend Discount Model in algorithmic
+  trading, exploring its assumptions and challenges for precise stock valuation.
+title: Drawbacks of the Dividend Discount Model (Algo Trading)
 ---
 
 The Dividend Discount Model (DDM) is a fundamental financial tool for valuing dividend-paying stocks by calculating the present value of predicted future dividends. The essence of the DDM lies in the concept of the time value of money, which asserts that a dollar received today is worth more than a dollar received tomorrow due to its potential earning capacity. By modeling dividends as cash inflows, investors can derive a stock's intrinsic value, offering a structured approach to stock valuation.

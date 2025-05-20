@@ -1,6 +1,9 @@
 ---
-title: "Albatross Labs (Algo Trading)"
-description: "Albatross Labs excels in cryptocurrency algo trading using cutting-edge technology and innovative strategies creating high-speed automated systems for optimal execution."
+category: trading_strategy
+description: Albatross Labs excels in cryptocurrency algo trading using cutting-edge
+  technology and innovative strategies creating high-speed automated systems for optimal
+  execution.
+title: Albatross Labs (Algo Trading)
 ---
 
 Algorithmic trading, commonly referred to as algo trading, has significantly transformed financial markets by enabling the execution of high-speed and data-driven strategies with remarkable precision across diverse asset classes. This evolution has been particularly pronounced in the sphere of crypto futures and options trading, where fast-paced decision-making and execution are paramount. Albatross Labs emerges as a noteworthy player in this arena, recognized for its innovative methodologies and its significant impact on how algorithmic strategies are deployed in the crypto market.

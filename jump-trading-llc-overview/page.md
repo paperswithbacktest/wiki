@@ -1,6 +1,8 @@
 ---
-title: "Jump Trading LLC Overview (Algo Trading)"
-description: "Explore how Jump Trading LLC leverages algorithmic and high-frequency trading to thrive in financial markets with cutting-edge technology and innovation."
+category: quant_concept
+description: Explore how Jump Trading LLC leverages algorithmic and high-frequency
+  trading to thrive in financial markets with cutting-edge technology and innovation.
+title: Jump Trading LLC Overview (Algo Trading)
 ---
 
 In today's fast-paced financial markets, proprietary trading firms like Jump Trading have become pivotal players, pushing the boundaries of technology and innovation. These firms have transformed the landscape of trading by leveraging state-of-the-art technologies and strategies to gain a competitive edge. Jump Trading, in particular, has emerged as a significant force within this sphere, primarily through its focus on algorithmic and high-frequency trading.

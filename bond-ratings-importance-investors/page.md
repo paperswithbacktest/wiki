@@ -1,6 +1,9 @@
 ---
-title: "Bond Ratings and Their Importance to Investors (Algo Trading)"
-description: "Explore the significance of bond ratings and their impact on investors. Learn about investment analysis, bond creditworthiness, and algorithmic trading strategies."
+category: quant_concept
+description: Explore the significance of bond ratings and their impact on investors.
+  Learn about investment analysis, bond creditworthiness, and algorithmic trading
+  strategies.
+title: Bond Ratings and Their Importance to Investors (Algo Trading)
 ---
 
 Investing in the financial markets is a sophisticated endeavor that demands a thorough understanding of diverse instruments and strategic approaches. This article aims to equip investors with a comprehensive understanding of key components such as investment analysis, bond ratings, and algorithmic trading, which are imperative in crafting successful investment strategies. 

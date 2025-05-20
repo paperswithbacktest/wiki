@@ -1,7 +1,8 @@
 ---
-title: Handling Categorical Data in Machine Learning Models
+category: quant_concept
 description: Categorical data in machine learning boosts model accuracy by using encoding
   methods like one-hot, label and target encoding. Discover more inside.
+title: Handling Categorical Data in Machine Learning Models
 ---
 
 ![Image](images/1.png)

@@ -1,6 +1,13 @@
 ---
-title: "Investment Checklist Explained (Algo Trading)"
-description: Discover the essential components of an investment checklist for successful algorithmic trading. Learn how these checklists enhance decision-making by systematically organizing each trading strategy element. Gain insights into defining your trading strategy choosing financial instruments and selecting reliable software and platforms to execute efficient trades. This thorough guide highlights the importance of structured checklists in minimizing errors maximizing returns and maintaining disciplined trading practices in the fast-paced world of algo trading.
+category: trading_strategy
+description: Discover the essential components of an investment checklist for successful
+  algorithmic trading. Learn how these checklists enhance decision-making by systematically
+  organizing each trading strategy element. Gain insights into defining your trading
+  strategy choosing financial instruments and selecting reliable software and platforms
+  to execute efficient trades. This thorough guide highlights the importance of structured
+  checklists in minimizing errors maximizing returns and maintaining disciplined trading
+  practices in the fast-paced world of algo trading.
+title: Investment Checklist Explained (Algo Trading)
 ---
 
 Algorithmic trading, commonly referred to as algo trading, has revolutionized the financial markets by enabling high-speed, high-frequency trades. Its growing popularity largely stems from the systematic and emotion-free nature of trading that algorithms offer, which enhances the accuracy and speed of executing trades. Unlike traditional trading, where human emotions and biases can lead to impulsive decisions, algorithmic trading relies on pre-defined rules and algorithms, thus ensuring a more objective approach to investing.

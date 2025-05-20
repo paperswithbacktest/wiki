@@ -1,7 +1,8 @@
 ---
-title: "Analysis of Mutual Fund Naming Conventions (Algo Trading)"
-description: "Explore how mutual fund naming influences investor decisions while delving into key financial terminologies and the rise of algorithmic trading's impact.
-"
+category: quant_concept
+description: 'Explore how mutual fund naming influences investor decisions while delving
+  into key financial terminologies and the rise of algorithmic trading''s impact. '
+title: Analysis of Mutual Fund Naming Conventions (Algo Trading)
 ---
 
 The financial landscape is undergoing significant transformation driven by technological advancements and the emergence of innovative investment strategies. Among the game-changing elements shaping this new era are mutual funds, diverse investment terminologies, and the application of algorithmic trading—all of which play pivotal roles in portfolio management.

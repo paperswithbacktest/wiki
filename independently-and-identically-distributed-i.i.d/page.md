@@ -1,7 +1,8 @@
 ---
-title: Independent and Identically Distributed in Machine Learning
+category: quant_concept
 description: Independent and Identically Distributed data helps your model learn true
   patterns and perform well on new data with reliable results Discover more inside
+title: Independent and Identically Distributed in Machine Learning
 ---
 
 ![Image](images/1.png)

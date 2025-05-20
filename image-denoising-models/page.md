@@ -1,7 +1,8 @@
 ---
-title: Comprehensive Guide to Image Denoising Methods and Applications
+category: quant_concept
 description: Image denoising combines advanced techniques like PCA Noise2Fast and
   DU-GAN to remove noise while preserving details and clarity Discover more inside
+title: Comprehensive Guide to Image Denoising Methods and Applications
 ---
 
 ![Image](images/1.png)

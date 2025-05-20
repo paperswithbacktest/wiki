@@ -1,6 +1,8 @@
 ---
-title: "Speculative Capital and Its Mechanisms (Algo Trading)"
-description: "Understand the dynamic world of speculative capital and algorithmic trading Learn about risk management and AI advancements in financial strategies for investors"
+category: trading_strategy
+description: Understand the dynamic world of speculative capital and algorithmic trading
+  Learn about risk management and AI advancements in financial strategies for investors
+title: Speculative Capital and Its Mechanisms (Algo Trading)
 ---
 
 The dynamic world of financial markets encapsulates various investment strategies, with speculation and algorithmic trading being prominent features. Speculative capital, characterized by its focus on high-risk, high-reward investments, plays a significant role in shaping these strategies. This allocation of funds is often accompanied by volatility, providing investors both the opportunity for substantial gains and the risk of considerable losses.

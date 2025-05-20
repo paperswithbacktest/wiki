@@ -1,6 +1,9 @@
 ---
-title: "Bottom-Up Investing and Top-Down Approaches (Algo Trading)"
-description: "Explore top-down and bottom-up investing alongside algorithmic trading understand their strategies and benefits and learn how to make informed investment decisions."
+category: trading_strategy
+description: Explore top-down and bottom-up investing alongside algorithmic trading
+  understand their strategies and benefits and learn how to make informed investment
+  decisions.
+title: Bottom-Up Investing and Top-Down Approaches (Algo Trading)
 ---
 
 Investors employ a myriad of strategies to evaluate and select investment opportunities, each catering to different perspectives and financial goals. Among these, top-down investing, bottom-up investing, and algorithmic trading are particularly noteworthy. Each strategy boasts distinct methodologies and offers unique insights into the financial markets. Understanding their nuances can significantly aid investors in making informed decisions.

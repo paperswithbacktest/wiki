@@ -1,6 +1,8 @@
 ---
-title: "Comparison of Solvency and Liquidity Ratios (Algo Trading)"
-description: "Discover key liquidity and solvency ratios essential for assessing a company's financial health and optimize investments with algorithmic trading strategies."
+category: quant_concept
+description: Discover key liquidity and solvency ratios essential for assessing a
+  company's financial health and optimize investments with algorithmic trading strategies.
+title: Comparison of Solvency and Liquidity Ratios (Algo Trading)
 ---
 
 Understanding the financial health of a company is crucial for investors, analysts, and other stakeholders. Reliable evaluation metrics are indispensable in making informed decisions about investing or engaging with a particular business entity. Among these metrics, liquidity and solvency ratios stand out as fundamental components of financial analysis. Liquidity ratios measure a company's capability to meet its short-term liabilities with its most liquid assets, whereas solvency ratios gauge the ability to sustain long-term operations and obligations. Together, these ratios provide a comprehensive view of a company's financial robustness.

@@ -1,6 +1,8 @@
 ---
-title: "Notable Economics Books of 2024 (Algo Trading)"
-description: "Explore the best economics books of 2024 focusing on algorithmic trading highlighting the latest insights and strategies for modern financial markets."
+category: quant_concept
+description: Explore the best economics books of 2024 focusing on algorithmic trading
+  highlighting the latest insights and strategies for modern financial markets.
+title: Notable Economics Books of 2024 (Algo Trading)
 ---
 
 The landscape of economics is experiencing a profound transformation, marked by a growing fascination with algorithmic trading. This method of trading, which leverages complex algorithms to make high-frequency, data-driven decisions, is reshaping the boundaries of financial markets and creating a surge of interest across the discipline. As technology continues to advance, understanding the economic implications and strategies behind algorithmic trading becomes increasingly pertinent for practitioners and scholars alike.

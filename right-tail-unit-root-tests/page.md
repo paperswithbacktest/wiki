@@ -1,6 +1,10 @@
 ---
-title: "Right-tail unit-root tests (Algo Trading)"
-description: Explore the importance of right-tail unit-root tests in algorithmic trading to detect non-stationary and explosive behaviors in financial data crucial for anticipating asset bubbles and market trends-enhancing trading strategies and risk management in complex markets.
+category: quant_concept
+description: Explore the importance of right-tail unit-root tests in algorithmic trading
+  to detect non-stationary and explosive behaviors in financial data crucial for anticipating
+  asset bubbles and market trends-enhancing trading strategies and risk management
+  in complex markets.
+title: Right-tail unit-root tests (Algo Trading)
 ---
 
 In algorithmic trading, data analysis and statistical testing play a crucial role in formulating strategies and managing risks. Among the myriad tools available to traders, unit-root tests are pivotal for understanding the time-series properties of financial datasets. These tests help determine whether a time series is stationary, meaning its statistical properties like mean and variance are constant over time, or whether it has a unit root, indicating non-stationary behavior. This distinction is critical in financial markets where assets often exhibit trends, cycles, and other non-stationary behaviors.

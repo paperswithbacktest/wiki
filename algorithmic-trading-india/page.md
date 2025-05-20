@@ -1,6 +1,15 @@
 ---
-title: "Algorithmic Trading in India (Algo Trading)"
-description: Algorithmic trading, or algo trading, is a growing trend in India that leverages technology to execute trades automatically based on preset criteria. Governed by the Securities and Exchange Board of India, this method is transforming trading by offering efficient, rapid execution with minimal human input. Both retail and institutional traders are navigating this space within a regulatory framework designed to ensure transparency and fairness. This environment provides retail traders access to sophisticated strategies while allowing institutions to enhance efficiency and reduce costs. The article explores algo trading's legal standing, SEBI regulations, and its implications for Indian traders.
+category: trading_strategy
+description: Algorithmic trading, or algo trading, is a growing trend in India that
+  leverages technology to execute trades automatically based on preset criteria. Governed
+  by the Securities and Exchange Board of India, this method is transforming trading
+  by offering efficient, rapid execution with minimal human input. Both retail and
+  institutional traders are navigating this space within a regulatory framework designed
+  to ensure transparency and fairness. This environment provides retail traders access
+  to sophisticated strategies while allowing institutions to enhance efficiency and
+  reduce costs. The article explores algo trading's legal standing, SEBI regulations,
+  and its implications for Indian traders.
+title: Algorithmic Trading in India (Algo Trading)
 ---
 
 Algorithmic trading, commonly referred to as algo trading, has emerged as a significant trend in India, capitalizing on technological advancements in financial markets. This trading strategy employs computer algorithms to automatically execute trades based on predetermined criteria. These criteria can include timing, price, quantity, or any mathematical model, allowing for efficient and rapid execution of large orders with minimal human intervention. 

@@ -1,6 +1,9 @@
 ---
-title: "Evolution of U.S. Financial Regulations: From Glass-Steagall to Dodd-Frank (Algo Trading)"
-description: "Explore the evolution of U.S. financial regulations from Glass-Steagall to Dodd-Frank and how they impact algorithmic trading and market stability."
+category: quant_concept
+description: Explore the evolution of U.S. financial regulations from Glass-Steagall
+  to Dodd-Frank and how they impact algorithmic trading and market stability.
+title: 'Evolution of U.S. Financial Regulations: From Glass-Steagall to Dodd-Frank
+  (Algo Trading)'
 ---
 
 Financial regulations serve as the backbone for stable and secure financial markets, essential for safeguarding both the broader economy and individual consumers. These legal frameworks are designed to prevent market failures, protect consumer interests, and ensure transparency and accountability within the financial system. Among the numerous regulations that have shaped the financial landscape, the Dodd-Frank Act and the Glass-Steagall Act stand out for their significant impact and enduring relevance.

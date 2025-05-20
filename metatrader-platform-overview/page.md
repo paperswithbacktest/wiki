@@ -1,6 +1,14 @@
 ---
-title: "MetaTrader Platform Overview (Algo Trading)"
-description: "Discover the transformative capabilities of the MetaTrader platform, a leading choice in algorithmic trading for its advanced tools and robust automated trading support. Ideal for both novice and experienced traders, MetaTrader offers sophisticated charting, comprehensive market analysis, and the powerful MQL5 programming language to refine trading strategies and gain a competitive edge. Elevate your trading experience with its user-friendly interface and the flexibility to create tailored algorithms for enhanced performance and consistency across forex, indices, and commodities markets."
+category: quant_concept
+description: Discover the transformative capabilities of the MetaTrader platform,
+  a leading choice in algorithmic trading for its advanced tools and robust automated
+  trading support. Ideal for both novice and experienced traders, MetaTrader offers
+  sophisticated charting, comprehensive market analysis, and the powerful MQL5 programming
+  language to refine trading strategies and gain a competitive edge. Elevate your
+  trading experience with its user-friendly interface and the flexibility to create
+  tailored algorithms for enhanced performance and consistency across forex, indices,
+  and commodities markets.
+title: MetaTrader Platform Overview (Algo Trading)
 ---
 
 In the rapidly evolving world of financial trading, algorithmic trading has emerged as a transformative force. This technique leverages computer programs to execute a large number of trades at speeds and frequencies that are impossible for human traders. Key among the platforms facilitating this innovation is MetaTrader, well-regarded for its extensive functionality and robustness in supporting algorithmic trading.

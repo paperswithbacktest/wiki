@@ -1,6 +1,9 @@
 ---
-title: "Complexities of Cash Flow Accounting Using the Direct Method (Algo Trading)"
-description: "Explore the complexities of cash flow accounting using the direct method in algorithmic trading for improved transparency in financial operations and liquidity management."
+category: quant_concept
+description: Explore the complexities of cash flow accounting using the direct method
+  in algorithmic trading for improved transparency in financial operations and liquidity
+  management.
+title: Complexities of Cash Flow Accounting Using the Direct Method (Algo Trading)
 ---
 
 Understanding the financial complexities in the contemporary business world is essential, especially when it comes to accounting and cash flow management. The cash flow statement is a cornerstone of financial reporting, providing invaluable insights into the activities that generate and utilize cash within a business. Unlike other financial statements, such as the income statement and balance sheet, the cash flow statement offers a transparent view of a company's liquidity position. 

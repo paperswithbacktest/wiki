@@ -1,6 +1,9 @@
 ---
-title: "Historical Cost Principle and Function (Algo Trading)"
-description: "Explore the integration of historical cost accounting in algorithmic trading Discover how cost principles ensure transparency efficiency and mitigate risks in trading strategies"
+category: quant_concept
+description: Explore the integration of historical cost accounting in algorithmic
+  trading Discover how cost principles ensure transparency efficiency and mitigate
+  risks in trading strategies
+title: Historical Cost Principle and Function (Algo Trading)
 ---
 
 Historical cost accounting is a fundamental concept in the field of accounting, centered around the cost principle. This principle mandates that assets be recorded at their original purchase cost, without adjustment for market fluctuations over time. This method prioritizes objectivity and reliability in financial reporting, as historical costs provide a definitive value backed by transactional evidence. Understanding the cost principle is crucial in financial trading as it ensures that the financial statements reflect consistent and verifiable asset values, aiding in sound decision-making and risk assessment.

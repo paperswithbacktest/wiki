@@ -1,6 +1,9 @@
 ---
-title: "Cetip - Centralized Electronic Trade System (Algo Trading)"
-description: "Explore the dynamics of Brazil's financial market through Cetip and B3. Discover how centralized electronic systems and algo trading enhance efficiency and security."
+category: quant_concept
+description: Explore the dynamics of Brazil's financial market through Cetip and B3.
+  Discover how centralized electronic systems and algo trading enhance efficiency
+  and security.
+title: Cetip - Centralized Electronic Trade System (Algo Trading)
 ---
 
 The Brazilian financial market is recognized for its dynamism and complexity, standing out as a central component in Latin America's economic structure. Centralized electronic trade and securities settlement play crucial roles in enhancing transaction efficiency and security, thereby supporting the integrity of the market. This article aims to examine the development and significance of these systems in Brazil, with a focus on crucial entities such as Cetip and B3, alongside the influence of algorithmic trading.

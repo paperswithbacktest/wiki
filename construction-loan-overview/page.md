@@ -1,6 +1,9 @@
 ---
-title: "Construction Loan Overview (Algo Trading)"
-description: "Explore the intricacies of construction loans and the potential impact of algorithmic trading on this field to enhance financial efficiency in project planning."
+category: quant_concept
+description: Explore the intricacies of construction loans and the potential impact
+  of algorithmic trading on this field to enhance financial efficiency in project
+  planning.
+title: Construction Loan Overview (Algo Trading)
 ---
 
 In construction, securing the right type of financing is crucial for successful project completion. The construction industry often requires substantial capital, and understanding the nuances of construction loans and home building financing can be pivotal. Construction projects range in scale from modest family homes to expansive commercial developments, each presenting unique financial challenges and opportunities. 

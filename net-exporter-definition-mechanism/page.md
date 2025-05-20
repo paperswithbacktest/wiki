@@ -1,6 +1,8 @@
 ---
-title: "Net Exporter: Definition and Mechanism (Algo Trading)"
-description: "Explore the concepts of net exporters and algo trading in international trade Learn how these dynamics shape global markets and economic strategies"
+category: quant_concept
+description: Explore the concepts of net exporters and algo trading in international
+  trade Learn how these dynamics shape global markets and economic strategies
+title: 'Net Exporter: Definition and Mechanism (Algo Trading)'
 ---
 
 In today's interconnected global economy, understanding key economic concepts is crucial for analyzing and navigating international trade. As countries increasingly engage in cross-border transactions, the complexities of economic activity demand a comprehensive grasp of certain terminologies. Among these, 'net exporter,' 'international trade,' and 'algo trading' stand out for their significance and implications.

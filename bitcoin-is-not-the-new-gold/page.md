@@ -1,6 +1,12 @@
 ---
-title: "Bitcoin Is Not the New Gold"
-description: Explore why Bitcoin, despite its digital scarcity and decentralization, does not fulfill the role of 'new gold' in trading strategies. Delve into its significant volatility and inconsistent market correlations, questioning its reliability as a hedge compared to gold's historical stability during economic downturns. Uncover the implications for investors considering Bitcoin within algorithmic trading and portfolio diversification.
+category: quant_concept
+description: Explore why Bitcoin, despite its digital scarcity and decentralization,
+  does not fulfill the role of 'new gold' in trading strategies. Delve into its significant
+  volatility and inconsistent market correlations, questioning its reliability as
+  a hedge compared to gold's historical stability during economic downturns. Uncover
+  the implications for investors considering Bitcoin within algorithmic trading and
+  portfolio diversification.
+title: Bitcoin Is Not the New Gold
 ---
 
 The emergence of Bitcoin and other cryptocurrencies has prompted considerable discussion regarding their potential roles within investment portfolios, particularly in the sphere of algorithmic trading. At the heart of these discussions lies a provocative question: can Bitcoin indeed function as the 'new gold' in trading strategies by virtue of its distinct characteristics? Proponents often cite its digital scarcity and decentralization as parallels to gold’s traditional status as a store of value and hedge against economic instability.

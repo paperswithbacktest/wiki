@@ -1,6 +1,12 @@
 ---
-title: "Lipstick Effect as an Economic Indicator (Algo Trading)"
-description: "Explore how the Lipstick Effect acts as an unconventional economic indicator in times of financial uncertainty where consumers favor small luxury purchases like premium lipstick over larger expenses. This article examines the psychological underpinnings and historical context of the phenomenon while considering its potential integration into algorithmic trading strategies to enhance market analysis and economic forecasting amidst economic downturns."
+category: quant_concept
+description: Explore how the Lipstick Effect acts as an unconventional economic indicator
+  in times of financial uncertainty where consumers favor small luxury purchases like
+  premium lipstick over larger expenses. This article examines the psychological underpinnings
+  and historical context of the phenomenon while considering its potential integration
+  into algorithmic trading strategies to enhance market analysis and economic forecasting
+  amidst economic downturns.
+title: Lipstick Effect as an Economic Indicator (Algo Trading)
 ---
 
 Consumer behavior plays a pivotal role in shaping economic trends and influencing market dynamics. Changes in purchasing patterns, driven by a range of psychological and socio-economic factors, can serve as critical indicators of broader economic health. These behaviors are particularly evident in times of economic uncertainty when spending habits can shift dramatically. One notable phenomenon that underscores this relationship is the "Lipstick Effect." This concept suggests that during economic downturns, consumers may forego larger luxury purchases in favor of smaller indulgences, such as premium lipstick, which still offer a sense of personal luxury and escapism. This behavior is believed to reflect an inherent human tendency to seek affordable ways to maintain normalcy and comfort amidst financial uncertainty.

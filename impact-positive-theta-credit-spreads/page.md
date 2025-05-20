@@ -1,6 +1,9 @@
 ---
-title: "Impact of Positive Theta on Credit Spreads (Algo Trading)"
-description: "Explore how positive theta benefits credit spreads in options trading Discover strategies for leveraging algorithmic trading to optimize returns and manage risk effectively"
+category: trading_strategy
+description: Explore how positive theta benefits credit spreads in options trading
+  Discover strategies for leveraging algorithmic trading to optimize returns and manage
+  risk effectively
+title: Impact of Positive Theta on Credit Spreads (Algo Trading)
 ---
 
 Options trading in financial markets incorporates a variety of strategies that traders employ to take advantage of price movements and the passage of time. Among these strategies, credit spreads stand out for their ability to potentially generate profits through time decay—an inherent characteristic of options. Credit spreads involve the simultaneous writing of a high-premium option and purchasing a lower-premium option within the same asset class or underlying asset. The goal is to profit from the difference between the sold and bought premiums, making accurate trade execution essential.

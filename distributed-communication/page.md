@@ -1,7 +1,8 @@
 ---
-title: Enhancing Distributed Communication in Machine Learning Systems
+category: quant_concept
 description: Distributed communication speeds large scale machine learning by optimizing
   data exchange, boosting reliability, and scaling training Discover more inside
+title: Enhancing Distributed Communication in Machine Learning Systems
 ---
 
 ![Image](images/1.png)

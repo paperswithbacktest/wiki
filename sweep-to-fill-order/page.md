@@ -1,6 +1,8 @@
 ---
-title: "Sweep-To-Fill Order (Algo Trading)"
-description: "Explore the role of sweep-to-fill orders in algorithmic trading to improve execution efficiency and minimize market impact in a fragmented liquidity landscape."
+category: trading_strategy
+description: Explore the role of sweep-to-fill orders in algorithmic trading to improve
+  execution efficiency and minimize market impact in a fragmented liquidity landscape.
+title: Sweep-To-Fill Order (Algo Trading)
 ---
 
 The financial markets have experienced significant transformation over the past few decades, largely driven by technological advancements and the increasing complexities of trading mechanisms. With the advent of high-speed computing and sophisticated software algorithms, trading has transcended traditional methods, leading to more efficient and innovative approaches. Among these advancements, the concept of 'sweep-to-fill' trading orders has gained notable attention within the sphere of algorithmic trading.

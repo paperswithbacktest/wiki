@@ -1,6 +1,8 @@
 ---
-title: "Trade In Value Added: Concept and Mechanism (Algo Trading)"
-description: "Explore how Trade in Value Added enhances understanding of global trade and benefits algorithmic trading by accurately depicting value creation across borders."
+category: quant_concept
+description: Explore how Trade in Value Added enhances understanding of global trade
+  and benefits algorithmic trading by accurately depicting value creation across borders.
+title: 'Trade In Value Added: Concept and Mechanism (Algo Trading)'
 ---
 
 The landscape of global trade is undergoing a rapid transformation propelled by technological innovations and intricate economic interactions. As international supply chains become more interconnected, understanding the nuances of trade patterns is increasingly vital. Trade in Value Added (TiVA) represents a groundbreaking statistical approach that sheds light on the value-added components in the global trade network. This method departs from traditional trade statistics by focusing on the value derived from each stage of production across borders, rather than merely tracking the gross exports and imports.

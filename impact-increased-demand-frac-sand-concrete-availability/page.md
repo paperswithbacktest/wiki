@@ -1,6 +1,8 @@
 ---
-title: "Impact of Increased Demand on Frac Sand and Concrete Availability (Algo Trading)"
-description: "Explore the rising demand's impact on frac sand and concrete availability, highlighting scarcity issues and the role of algo trading in navigating market dynamics."
+category: quant_concept
+description: Explore the rising demand's impact on frac sand and concrete availability,
+  highlighting scarcity issues and the role of algo trading in navigating market dynamics.
+title: Impact of Increased Demand on Frac Sand and Concrete Availability (Algo Trading)
 ---
 
 Sand is often an overlooked commodity, despite being the second most exploited natural resource after water. Its subtle ubiquity masks its critical role in numerous industries ranging from construction to energy production. Sand is integral to making concrete, a fundamental material for infrastructure development, and frac sand, essential for hydraulic fracturing in the oil and natural gas sectors. This soaring demand has brought attention to a potential crisis of resource scarcity, as the extraction of specific types of sand outpaces their natural replenishment. 

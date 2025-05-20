@@ -1,6 +1,8 @@
 ---
-title: "Post-Trade Processing Overview (Algo Trading)"
-description: "Explore the essential role of post-trade processing in algorithmic trading with a focus on clearing and settlement, ensuring accurate and efficient trade execution."
+category: quant_concept
+description: Explore the essential role of post-trade processing in algorithmic trading
+  with a focus on clearing and settlement, ensuring accurate and efficient trade execution.
+title: Post-Trade Processing Overview (Algo Trading)
 ---
 
 The financial markets are complex ecosystems where transactions are executed at lightning speed. However, the activities that occur once a transaction is completed are equally critical to the integrity and reliability of the trading system. Post-trade processing ensures that trades are faithfully executed, involving intricate processes such as clearing and settlement. These processes are fundamental to confirming trade details, managing counterparty risk, and ultimately transferring ownership of securities.

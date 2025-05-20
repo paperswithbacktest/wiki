@@ -1,6 +1,8 @@
 ---
-title: "Hyperledger Explorer Overview and Functionality (Algo Trading)"
-description: "Discover how Hyperledger Explorer empowers algorithmic trading with blockchain technology managing data transparently to enhance decision-making in finance."
+category: quant_concept
+description: Discover how Hyperledger Explorer empowers algorithmic trading with blockchain
+  technology managing data transparently to enhance decision-making in finance.
+title: Hyperledger Explorer Overview and Functionality (Algo Trading)
 ---
 
 The integration of blockchain technology with algorithmic trading is revolutionizing the financial landscape, offering both new opportunities and complexities. At the core of this transformation are distributed ledger technologies, such as those developed under the Hyperledger umbrella. Hyperledger is crucial in advancing blockchain applications, providing foundational tools that enable robust, secure, and transparent transaction systems. Tools like Hyperledger Explorer play a significant role in this ecosystem, enabling users to gain insights into blockchain networks and make informed decisions by visualizing activities and monitoring real-time data streams.

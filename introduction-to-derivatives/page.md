@@ -1,9 +1,17 @@
 ---
-title: "Introduction to Derivatives (Algo Trading)"
-description: "Explore the dynamic world of financial instruments and deepen your understanding of derivatives and algorithmic trading. This comprehensive guide introduces the essentials of stocks, bonds, and complex derivatives, highlighting their role in risk management, speculation, and hedging. Discover how algorithmic trading revolutionizes market operations with high-speed automated trades. Perfect for beginners keen to enhance their investment strategies and grasp modern financial technologies, this article emphasizes the significance of mastering these sophisticated tools in shaping a robust financial portfolio."
+category: quant_concept
+description: Explore the dynamic world of financial instruments and deepen your understanding
+  of derivatives and algorithmic trading. This comprehensive guide introduces the
+  essentials of stocks, bonds, and complex derivatives, highlighting their role in
+  risk management, speculation, and hedging. Discover how algorithmic trading revolutionizes
+  market operations with high-speed automated trades. Perfect for beginners keen to
+  enhance their investment strategies and grasp modern financial technologies, this
+  article emphasizes the significance of mastering these sophisticated tools in shaping
+  a robust financial portfolio.
+title: Introduction to Derivatives (Algo Trading)
 ---
 
- to Financial Instruments
+to Financial Instruments
 
 Financial instruments are essential components in the world of finance, representing a broad range of investments that can be exchanged in financial markets. They function as the vehicles through which capital is arranged, allocated, and utilized within the economy. At their core, financial instruments serve as a means for transferring risk, generating returns, and accessing capital.
 

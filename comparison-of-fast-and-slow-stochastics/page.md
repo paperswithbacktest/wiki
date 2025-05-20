@@ -1,6 +1,8 @@
 ---
-title: "Comparison of Fast and Slow Stochastics (Algo Trading)"
-description: "Explore the effectiveness of fast vs slow stochastic oscillators in algo trading with insights on using these tools for momentum and signal optimization."
+category: trading_strategy
+description: Explore the effectiveness of fast vs slow stochastic oscillators in algo
+  trading with insights on using these tools for momentum and signal optimization.
+title: Comparison of Fast and Slow Stochastics (Algo Trading)
 ---
 
 Technical analysis in trading encompasses a diverse set of tools and strategies designed to predict future price movements by analyzing historical market data. Among these analytical instruments, stochastic oscillators are particularly renowned for their ability to identify momentum within price trends. Created in the late 1950s, stochastic oscillators have become integral to traders seeking to understand potential turning points in the market.

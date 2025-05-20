@@ -1,6 +1,8 @@
 ---
-title: "Brazilian Mercantile and Futures Exchange (Algo Trading)"
-description: "Explore BM&F Bovespa's pivotal role in Latin America's financial markets with advanced algorithmic trading, diverse futures contracts, and robust infrastructure."
+category: quant_concept
+description: Explore BM&F Bovespa's pivotal role in Latin America's financial markets
+  with advanced algorithmic trading, diverse futures contracts, and robust infrastructure.
+title: Brazilian Mercantile and Futures Exchange (Algo Trading)
 ---
 
 BM&F Bovespa, established through the merger of the São Paulo Stock Exchange (Bovespa) and the Brazilian Mercantile & Futures Exchange (BM&F) in 2008, stands as a key financial hub in Latin America. It plays a crucial role in the development and integration of financial markets in the region, offering a diverse array of products and services that cater to both local and international investors.

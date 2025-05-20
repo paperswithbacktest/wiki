@@ -1,6 +1,9 @@
 ---
-title: "Trade Reporting and Compliance Engine (TRACE) (Algo Trading)"
-description: "Explore how TRACE revolutionizes trade reporting in algorithmic trading by enhancing transparency, data access, and regulatory compliance within financial markets."
+category: dataset
+description: Explore how TRACE revolutionizes trade reporting in algorithmic trading
+  by enhancing transparency, data access, and regulatory compliance within financial
+  markets.
+title: Trade Reporting and Compliance Engine (TRACE) (Algo Trading)
 ---
 
 The financial markets have evolved into highly complex ecosystems, necessitating a robust framework of regulatory requirements to ensure fairness and transparency. Among these requirements, trade reporting stands out as a critical element of financial compliance. It is vital for both traditional and algorithmic trading, serving as a cornerstone for accurate market assessment and regulatory oversight.

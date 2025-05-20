@@ -1,6 +1,9 @@
 ---
-title: "Real Rate of Return (Algo Trading)"
-description: "Discover the impact of inflation on your investments with insights on real rate of return and how algorithmic trading helps optimize inflation-adjusted gains."
+category: quant_concept
+description: Discover the impact of inflation on your investments with insights on
+  real rate of return and how algorithmic trading helps optimize inflation-adjusted
+  gains.
+title: Real Rate of Return (Algo Trading)
 ---
 
 Understanding the real rate of return is crucial for investors aiming to measure the true profitability of their investments. It is a key metric that considers inflation, which can erode purchasing power over time. Inflation-adjusted returns provide a more accurate reflection of investment performance than nominal returns, which do not account for inflation's effect on money's value.

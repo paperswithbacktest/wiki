@@ -1,6 +1,10 @@
 ---
-title: "Recall (Algo Trading)"
-description: Discover how recall, a key metric from machine learning, is utilized in algorithmic trading to enhance strategy performance. Explore its significance in identifying profitable trade opportunities and ensuring robust trading systems while balancing recall with precision to maximize returns and minimize risks.
+category: quant_concept
+description: Discover how recall, a key metric from machine learning, is utilized
+  in algorithmic trading to enhance strategy performance. Explore its significance
+  in identifying profitable trade opportunities and ensuring robust trading systems
+  while balancing recall with precision to maximize returns and minimize risks.
+title: Recall (Algo Trading)
 ---
 
 Algorithmic trading has revolutionized the financial markets by providing traders with sophisticated strategies and tools to optimize their trading performance. A significant metric in algorithmic trading is 'recall,' a concept that originates from machine learning. Recall aids in evaluating the effectiveness of algorithmic strategies by measuring how well these strategies identify and act on profitable trading opportunities.

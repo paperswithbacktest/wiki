@@ -1,6 +1,9 @@
 ---
-title: "History and Theory of Socialism (Algo Trading)"
-description: "Explore the history and theory of socialism and its intersection with algorithmic trading highlighting how socialist principles may influence modern financial practices."
+category: quant_concept
+description: Explore the history and theory of socialism and its intersection with
+  algorithmic trading highlighting how socialist principles may influence modern financial
+  practices.
+title: History and Theory of Socialism (Algo Trading)
 ---
 
 Socialism is a political and economic ideology that advocates for the ownership and regulation of the means of production by the community as a whole. The core principles of socialism include the pursuit of social equality, the distribution of wealth according to need, and the eradication of unjust social hierarchies, aiming to create a society where economic resources are distributed more equitably among the population. This ideology opposes capitalist systems, where private individuals or corporations own and control production means, often leading to significant disparities in wealth and power.

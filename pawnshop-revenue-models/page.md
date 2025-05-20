@@ -1,6 +1,9 @@
 ---
-title: "Pawnshop Revenue Models (Algo Trading)"
-description: "Discover the revenue potential of loan services, pawnshops, and algorithmic trading. Learn how these models drive growth and profit in the evolving finance sector."
+category: trading_strategy
+description: Discover the revenue potential of loan services, pawnshops, and algorithmic
+  trading. Learn how these models drive growth and profit in the evolving finance
+  sector.
+title: Pawnshop Revenue Models (Algo Trading)
 ---
 
 Understanding various revenue models in the financial industry is essential for businesses aiming to maximize their profitability. This article examines the unique revenue-generating models of loan services, pawnshop businesses, and algorithmic trading, which collectively represent key avenues for financial growth and diversification.

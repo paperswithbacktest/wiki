@@ -1,6 +1,9 @@
 ---
-title: "Asian Financial Crisis: Causes, Responses, and Lessons (Algo Trading)"
-description: "Explore the Asian Financial Crisis of 1997 its causes economic responses and the evolution of algorithmic trading to gain insights into modern financial markets."
+category: quant_concept
+description: Explore the Asian Financial Crisis of 1997 its causes economic responses
+  and the evolution of algorithmic trading to gain insights into modern financial
+  markets.
+title: 'Asian Financial Crisis: Causes, Responses, and Lessons (Algo Trading)'
 ---
 
 The Asian Financial Crisis marked a significant turning point in global economic history, demonstrating the volatility and interconnectedness of financial markets. Occurring in July 1997, the crisis initially erupted in Thailand with the dramatic collapse of the Thai baht, setting off a chain reaction across Southeast Asia. This period of financial turmoil had profound implications, not only for the affected countries but also for the entire global economy, highlighting the fragility of rapidly expanding markets.

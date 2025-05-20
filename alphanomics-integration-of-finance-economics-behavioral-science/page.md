@@ -1,6 +1,9 @@
 ---
-title: "Alphanomics: Integration of Finance, Economics, and Behavioral Science (Algo Trading)"
-description: "Discover Alphanomics where finance meets behavioral science and algorithmic trading to exploit market inefficiencies and enhance investment strategies."
+category: quant_concept
+description: Discover Alphanomics where finance meets behavioral science and algorithmic
+  trading to exploit market inefficiencies and enhance investment strategies.
+title: 'Alphanomics: Integration of Finance, Economics, and Behavioral Science (Algo
+  Trading)'
 ---
 
 Alphanomics, a term that has started gaining traction in financial circles, refers to the intersection of alpha generation methodologies with economic principles, primarily focusing on enhancing investment strategies and portfolio management. In finance, "alpha" is a measure of an investment's performance relative to a market index or benchmark. Alphanomics seeks to go beyond traditional quantitative strategies by incorporating insights from behavioral science and advanced algorithmic trading techniques to better capture market inefficiencies and generate superior returns.

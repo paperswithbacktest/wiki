@@ -1,6 +1,8 @@
 ---
-title: "Payback Period Calculation Using Excel (Algo Trading)"
-description: "Discover how to calculate the payback period using Excel for algorithmic trading strategies with precision and speed enhancing your investment analysis."
+category: quant_concept
+description: Discover how to calculate the payback period using Excel for algorithmic
+  trading strategies with precision and speed enhancing your investment analysis.
+title: Payback Period Calculation Using Excel (Algo Trading)
 ---
 
 In the evolving landscape of investment opportunities, making informed decisions is crucial for success and sustainability. Among the various metrics utilized in investment analysis, the payback period is a vital concept, offering investors a clear snapshot of how long it will take to recover their initial investment. This article focuses on leveraging Excel for calculating the payback period, particularly within algorithmic trading strategies, where speed and precision are essential.

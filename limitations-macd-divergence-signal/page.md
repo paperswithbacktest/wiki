@@ -1,6 +1,9 @@
 ---
-title: "Limitations of MACD Divergence as a Signal (Algo Trading)"
-description: "Explore the limitations of using MACD divergence as a trading signal in algorithmic strategies. Understand its effectiveness and potential pitfalls in algo trading."
+category: trading_strategy
+description: Explore the limitations of using MACD divergence as a trading signal
+  in algorithmic strategies. Understand its effectiveness and potential pitfalls in
+  algo trading.
+title: Limitations of MACD Divergence as a Signal (Algo Trading)
 ---
 
 In today's fast-paced financial markets, traders consistently seek tools and techniques that can provide them with a competitive advantage. One such tool that has gained popularity in technical analysis is the Moving Average Convergence Divergence (MACD). This momentum oscillator is particularly valued for its ability to indicate potential shifts in the strength, direction, momentum, and duration of a trend, making it a favored instrument among traders.

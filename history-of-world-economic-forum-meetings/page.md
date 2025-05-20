@@ -1,6 +1,8 @@
 ---
-title: "History of the World Economic Forum Meetings (Algo Trading)"
-description: "Explore the impactful history of the World Economic Forum's annual meetings, focusing on global economic and social issues and algorithmic trading debates."
+category: quant_concept
+description: Explore the impactful history of the World Economic Forum's annual meetings,
+  focusing on global economic and social issues and algorithmic trading debates.
+title: History of the World Economic Forum Meetings (Algo Trading)
 ---
 
 The World Economic Forum (WEF) stands out as a preeminent platform for the discourse of global economic and social issues. Established in 1971, the WEF is synonymous with its renowned annual meeting held in Davos, Switzerland. These gatherings serve as a nexus for influential leaders and decision-makers globally, driving them to converge for pivotal discussions on worldwide matters.

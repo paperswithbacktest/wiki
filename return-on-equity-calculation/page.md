@@ -1,6 +1,13 @@
 ---
-title: "Return on Equity Calculation (Algo Trading)"
-description: "Learn about Return on Equity (ROE), a critical metric in financial analysis used to assess a company's efficiency in generating profits from its shareholders' equity. This article provides insights into calculating and interpreting ROE, its relevance in industry comparisons, and its application in algorithmic trading. Understanding ROE can aid investors and traders in identifying high-performing stocks and developing robust investment strategies while highlighting the importance of comprehensive financial analysis."
+category: quant_concept
+description: Learn about Return on Equity (ROE), a critical metric in financial analysis
+  used to assess a company's efficiency in generating profits from its shareholders'
+  equity. This article provides insights into calculating and interpreting ROE, its
+  relevance in industry comparisons, and its application in algorithmic trading. Understanding
+  ROE can aid investors and traders in identifying high-performing stocks and developing
+  robust investment strategies while highlighting the importance of comprehensive
+  financial analysis.
+title: Return on Equity Calculation (Algo Trading)
 ---
 
 Return on Equity (ROE) is a pivotal metric in financial analysis used to measure a company's ability to generate profits from its shareholders' equity. It serves as an indicator of financial performance, reflecting how efficiently management is utilizing the equity capital provided by shareholders. The computation of ROE is expressed through the formula: 

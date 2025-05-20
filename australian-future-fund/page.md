@@ -1,6 +1,8 @@
 ---
-title: "Australian Future Fund (Algo Trading)"
-description: "Explore the Australian Future Fund's use of algorithmic trading to enhance investment performance and financial security for the nation through strategic management."
+category: trading_strategy
+description: Explore the Australian Future Fund's use of algorithmic trading to enhance
+  investment performance and financial security for the nation through strategic management.
+title: Australian Future Fund (Algo Trading)
 ---
 
 The Australian Future Fund (AFF), established in 2006, is a sovereign wealth fund with the primary objective of enhancing the long-term financial security of the nation. As one of Australia's most significant financial undertakings, the AFF was designed to support Australia's future by managing investments that address unfunded superannuation liabilities. Through strategic deployment of capital, the fund has evolved into a critical pillar of Australia's financial infrastructure.

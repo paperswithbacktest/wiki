@@ -1,6 +1,13 @@
 ---
-title: "FTX API Guide (Algo Trading)"
-description: The FTX API Guide highlights the extensive benefits and functionalities of using the FTX API for algorithmic trading in cryptocurrency markets. Traders can access market data, execute trades, and manage accounts programmatically. Key features include automated trading, diverse instruments, scalability, real-time data, and custom strategy development. This makes the API ideal for both novice and experienced traders looking to optimize their strategies, leverage rapid market changes, and maintain competitiveness in fast-paced crypto trading environments.
+category: dataset
+description: The FTX API Guide highlights the extensive benefits and functionalities
+  of using the FTX API for algorithmic trading in cryptocurrency markets. Traders
+  can access market data, execute trades, and manage accounts programmatically. Key
+  features include automated trading, diverse instruments, scalability, real-time
+  data, and custom strategy development. This makes the API ideal for both novice
+  and experienced traders looking to optimize their strategies, leverage rapid market
+  changes, and maintain competitiveness in fast-paced crypto trading environments.
+title: FTX API Guide (Algo Trading)
 ---
 
 Algorithmic trading has revolutionized the financial markets by enabling traders to execute orders with remarkable speed and precision. This technological advancement allows strategies that are impossible to achieve manually, enhancing the decision-making process and overall trading outcomes. In the context of cryptocurrency markets, where price volatility and rapid changes are prevalent, algorithmic trading offers substantial advantages.

@@ -1,6 +1,9 @@
 ---
-title: "Ethereum Shanghai Upgrade (Algo Trading)"
-description: "Explore the potential impact of Ethereum's Shanghai Upgrade on algorithmic trading with insights into enhanced transaction speeds, reduced fees, and improved scalability."
+category: quant_concept
+description: Explore the potential impact of Ethereum's Shanghai Upgrade on algorithmic
+  trading with insights into enhanced transaction speeds, reduced fees, and improved
+  scalability.
+title: Ethereum Shanghai Upgrade (Algo Trading)
 ---
 
 The world of cryptocurrency is ever-evolving, with Ethereum consistently at the forefront of innovation. Ethereum, known for its robust smart contract functionality and decentralized application (DApp) ecosystem, continues to lead changes in the blockchain landscape. One of the most significant updates that has captured the attention of developers and traders alike is the forthcoming Ethereum blockchain's Shanghai Upgrade. This upgrade is poised to bring about substantial transformations in Ethereum's operational framework, potentially impacting users and traders on a global scale.

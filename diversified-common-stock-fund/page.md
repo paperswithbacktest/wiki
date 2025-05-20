@@ -1,6 +1,9 @@
 ---
-title: "Diversified Common Stock Fund (Algo Trading)"
-description: "Explore diversified common stock funds and algorithmic trading strategies for optimizing investment portfolios to achieve balanced risk-return in today's markets."
+category: trading_strategy
+description: Explore diversified common stock funds and algorithmic trading strategies
+  for optimizing investment portfolios to achieve balanced risk-return in today's
+  markets.
+title: Diversified Common Stock Fund (Algo Trading)
 ---
 
 In recent years, the landscape of investment strategies has undergone a transformative shift with the advent of algorithmic trading. This development has introduced new dimensions to the diversification of investment portfolios, offering more nuanced ways to optimize returns while minimizing risks. Algorithmic trading enables investors to deploy complex algorithms to automate trading decisions, providing access to diverse asset classes and strategies that were previously difficult to manage manually.

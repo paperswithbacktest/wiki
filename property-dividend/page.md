@@ -1,6 +1,8 @@
 ---
-title: "Property Dividend (Algo Trading)"
-description: "Discover the benefits of property dividends and how algorithmic trading can enhance investment strategies by optimizing returns and managing resources efficiently."
+category: quant_concept
+description: Discover the benefits of property dividends and how algorithmic trading
+  can enhance investment strategies by optimizing returns and managing resources efficiently.
+title: Property Dividend (Algo Trading)
 ---
 
 Understanding how dividends work is crucial for investors seeking steady income from their investments. Dividends are a key component of an investment strategy, offering shareholders a return on their investment in the form of periodic payouts. These payouts come in various forms, each with unique features and benefits that can align with different corporate and investor objectives. Common forms include cash, stock, and property dividends. Each type serves distinct strategic purposes, influencing both corporate decision-making and investment approaches.

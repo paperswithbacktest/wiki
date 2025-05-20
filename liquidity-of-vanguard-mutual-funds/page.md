@@ -1,6 +1,9 @@
 ---
-title: "Liquidity of Vanguard Mutual Funds (Algo Trading)"
-description: "Explore how liquidity in Vanguard mutual funds and algorithmic trading impacts investment decisions and portfolio management strategies, enhancing financial flexibility."
+category: quant_concept
+description: Explore how liquidity in Vanguard mutual funds and algorithmic trading
+  impacts investment decisions and portfolio management strategies, enhancing financial
+  flexibility.
+title: Liquidity of Vanguard Mutual Funds (Algo Trading)
 ---
 
 Investment choices are vast and varied, but one aspect that remains crucial across all types is the liquidity of the investment. Liquidity refers to the ease with which an asset can be converted into cash without affecting its market price. This concept becomes particularly significant when considering investment vehicles such as mutual funds, including those offered by Vanguard, and the rapidly evolving domain of algorithmic trading. Understanding liquidity is fundamental for investors aiming to maximize returns and minimize risks.

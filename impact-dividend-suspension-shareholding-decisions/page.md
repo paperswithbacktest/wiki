@@ -1,6 +1,9 @@
 ---
-title: "Impact of Dividend Suspension on Shareholding Decisions (Algo Trading)"
-description: "Explore how dividend suspension affects shareholding decisions and gain insights into the role of algorithmic trading in shaping investment strategies for optimized returns."
+category: trading_strategy
+description: Explore how dividend suspension affects shareholding decisions and gain
+  insights into the role of algorithmic trading in shaping investment strategies for
+  optimized returns.
+title: Impact of Dividend Suspension on Shareholding Decisions (Algo Trading)
 ---
 
 The investment world consistently undergoes transformation driven by the advent of innovative strategies and technological advancements. A detailed examination of dividend suspension, shareholding decisions, and algorithmic trading reveals unique insights that are pivotal for constructing a comprehensive investment strategy. Each of these components plays a distinct role and, when effectively integrated, can offer optimized returns.

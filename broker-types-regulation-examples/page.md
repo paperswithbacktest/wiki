@@ -1,6 +1,12 @@
 ---
-title: "Broker: Types, Regulation, and Examples (Algo Trading)"
-description: "Explore the dynamic world of brokers in financial and real estate markets, focusing on their roles, types, and the regulations governing their operations. Discover how brokers facilitate transactions and the impact of algorithmic trading on market efficiency. Learn about brokerage regulation, emphasizing the roles of FINRA and the SEC, and understand vital regulatory measures like the suitability rule and KYC procedures designed to protect investors."
+category: quant_concept
+description: Explore the dynamic world of brokers in financial and real estate markets,
+  focusing on their roles, types, and the regulations governing their operations.
+  Discover how brokers facilitate transactions and the impact of algorithmic trading
+  on market efficiency. Learn about brokerage regulation, emphasizing the roles of
+  FINRA and the SEC, and understand vital regulatory measures like the suitability
+  rule and KYC procedures designed to protect investors.
+title: 'Broker: Types, Regulation, and Examples (Algo Trading)'
 ---
 
 The financial markets are undergoing rapid evolution, driven by technological advancements and a growing pool of investment opportunities. The landscape is more complex and interconnected than ever, with various financial instruments and platforms transforming how trades are executed and managed. Central to this transformation are brokers, who act as vital links between investors and securities exchanges, facilitating the buying and selling of financial assets.

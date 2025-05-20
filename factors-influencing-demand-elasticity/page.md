@@ -1,6 +1,8 @@
 ---
-title: "Factors Influencing Demand Elasticity (Algo Trading)"
-description: "Explore how demand elasticity and algorithmic trading shape market strategies and pricing decisions for traders and businesses in a dynamic economic landscape."
+category: quant_concept
+description: Explore how demand elasticity and algorithmic trading shape market strategies
+  and pricing decisions for traders and businesses in a dynamic economic landscape.
+title: Factors Influencing Demand Elasticity (Algo Trading)
 ---
 
 Understanding the dynamics of demand elasticity is crucial for businesses and traders looking to optimize their strategies. Demand elasticity refers to the responsiveness of the quantity demanded of a good or service to changes in its price. This concept is fundamental in economic theory as it helps predict how variations in price influence consumer behavior and, consequently, market demand. Consider a basic formula for measuring demand elasticity: 

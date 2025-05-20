@@ -1,6 +1,9 @@
 ---
-title: "Active Return and Its Mechanism (Algo Trading)"
-description: "Explore the dynamics of active return in algorithmic trading and its role in outperforming benchmarks for successful investment strategies in today's markets."
+category: quant_concept
+description: Explore the dynamics of active return in algorithmic trading and its
+  role in outperforming benchmarks for successful investment strategies in today's
+  markets.
+title: Active Return and Its Mechanism (Algo Trading)
 ---
 
 In the world of finance, understanding investment performance is key to successful trading. A crucial metric in this domain is active return. Active return is defined as the percentage by which an investment’s actual performance exceeds or falls short of a benchmark index, such as the S&P 500. It serves as a critical measure of the efficacy of active fund management, illustrating whether a manager's financial strategies are successful in surpassing market averages. This is particularly important when compared to passive investment strategies, which aim to replicate market performance rather than exceed it.

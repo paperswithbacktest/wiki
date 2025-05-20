@@ -1,6 +1,9 @@
 ---
-title: "Selecting a Trading Coach (Algo Trading)"
-description: "Unlock success in trading with expert coaches and mentorship Personal guidance and cutting-edge algo trading strategies boost skills and profitability in dynamic markets"
+category: trading_strategy
+description: Unlock success in trading with expert coaches and mentorship Personal
+  guidance and cutting-edge algo trading strategies boost skills and profitability
+  in dynamic markets
+title: Selecting a Trading Coach (Algo Trading)
 ---
 
 Understanding the landscape of trading can be daunting for many investors. As financial markets evolve, traders must adapt to an increasingly complex environment characterized by rapid technological advancements and ever-changing market conditions. To thrive in this environment, effective trading approaches such as mentorship, investment training, and algorithmic trading are essential.

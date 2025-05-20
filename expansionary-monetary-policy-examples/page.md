@@ -1,6 +1,14 @@
 ---
-title: "Expansionary Monetary Policy Examples (Algo Trading)"
-description: "Explore the intricate relationship between expansionary monetary policy and algorithmic trading and how these components shape the modern economic landscape. Learn how central banks use monetary policy to stimulate growth through interest rate adjustments and government spending while understanding algorithmic trading’s impact on market efficiency and dynamics. This page provides crucial insights into these economic strategies' synergy and their role in financial stability and economic growth, essential for navigating today’s global markets. Discover real-world applications and case studies that illustrate these concepts' practical implications."
+category: quant_concept
+description: Explore the intricate relationship between expansionary monetary policy
+  and algorithmic trading and how these components shape the modern economic landscape.
+  Learn how central banks use monetary policy to stimulate growth through interest
+  rate adjustments and government spending while understanding algorithmic trading’s
+  impact on market efficiency and dynamics. This page provides crucial insights into
+  these economic strategies' synergy and their role in financial stability and economic
+  growth, essential for navigating today’s global markets. Discover real-world applications
+  and case studies that illustrate these concepts' practical implications.
+title: Expansionary Monetary Policy Examples (Algo Trading)
 ---
 
 The modern economic landscape is increasingly defined by the interplay of complex economic strategies, with expansionary monetary policy and algorithmic trading playing pivotal roles. These elements are fundamental in understanding how economies can achieve expansion, how monetary policy is crafted, and how algorithmic trading shapes and interacts with these strategies within financial markets.

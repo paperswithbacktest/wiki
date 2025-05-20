@@ -1,6 +1,9 @@
 ---
-title: "Controlling Interest: Definition, Benefits, and Examples (Algo Trading)"
-description: "Explore the definition and benefits of controlling interest in corporate governance, its impact on strategic decisions, and its interplay with algorithmic trading."
+category: quant_concept
+description: Explore the definition and benefits of controlling interest in corporate
+  governance, its impact on strategic decisions, and its interplay with algorithmic
+  trading.
+title: 'Controlling Interest: Definition, Benefits, and Examples (Algo Trading)'
 ---
 
 In today's fast-paced business landscape, comprehending key concepts such as business ownership, corporate control, and controlling interest is essential. These components form the backbone of major strategic decisions within corporations, influencing various aspects from shareholder dynamics to operational strategies. Business ownership signifies holding equity in a company, granting owners rights to a proportion of profits and an integral voice in corporate governance. Corporate control, on the other hand, transcends mere ownership by encompassing the authority to guide or influence a company's strategic trajectory.

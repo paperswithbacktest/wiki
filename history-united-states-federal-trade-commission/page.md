@@ -1,6 +1,8 @@
 ---
-title: "History of the United States Federal Trade Commission (Algo Trading)"
-description: "Explore the role of the FTC in regulating algorithmic trading and ensuring competitive practices in financial markets while safeguarding consumer interests."
+category: quant_concept
+description: Explore the role of the FTC in regulating algorithmic trading and ensuring
+  competitive practices in financial markets while safeguarding consumer interests.
+title: History of the United States Federal Trade Commission (Algo Trading)
 ---
 
 The Federal Trade Commission (FTC) is a pillar of U.S. economic regulation, tasked with enforcing laws designed to prevent anticompetitive practices and safeguard consumer interests. Established as an independent agency, the FTC plays a fundamental role in maintaining the integrity of various market sectors, working to ensure that practices within these sectors do not harm competition or consumer welfare. 

@@ -1,6 +1,8 @@
 ---
-title: "SPURs: Definition and Benefits (Algo Trading)"
-description: "Explore the definition and benefits of Standard & Poor’s Underlying Ratings SPURs in algo trading, enhancing transparency and creditworthiness assessment."
+category: quant_concept
+description: Explore the definition and benefits of Standard & Poor’s Underlying Ratings
+  SPURs in algo trading, enhancing transparency and creditworthiness assessment.
+title: 'SPURs: Definition and Benefits (Algo Trading)'
 ---
 
 In today's financial markets, transparency and trust are paramount. Standard & Poor's (S&P) Underlying Ratings (SPURs) have become an essential tool in assessing the creditworthiness of municipal bonds and other public sector securities. Developed by the renowned credit rating agency, these ratings provide an unbiased assessment of the intrinsic credit quality of issuers without taking external enhancements into consideration, such as insurance or guarantees.

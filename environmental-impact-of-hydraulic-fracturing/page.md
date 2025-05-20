@@ -1,6 +1,8 @@
 ---
-title: "Environmental Impact of Hydraulic Fracturing (Algo Trading)"
-description: "Explore the environmental impacts of fracking and the operational dynamics of algo trading while uncovering their intersection in modern economic landscapes."
+category: quant_concept
+description: Explore the environmental impacts of fracking and the operational dynamics
+  of algo trading while uncovering their intersection in modern economic landscapes.
+title: Environmental Impact of Hydraulic Fracturing (Algo Trading)
 ---
 
 In recent years, both hydraulic fracturing (commonly known as fracking) and algorithmic trading (or algo trading) have emerged as significant technological developments influencing the energy and financial sectors, respectively. These advancements have played a critical role in shaping modern economies by introducing new opportunities and challenges.
@@ -112,4 +114,3 @@ The path toward a sustainable future relies on advancements in both cleaner frac
 - Scanlon, B. R., Reedy, R. C., & Nicot, J.-P. (2014). Will Water Scarcity in Semiarid Regions Limit Hydraulic Fracturing of Shale Plays? Environmental Research Letters, 9(12), 124011. doi:10.1088/1748-9326/9/12/124011. This paper discusses the potential for water scarcity to impede hydraulic fracturing operations in semiarid climates, examining the balance between energy extraction and water resource management.
 
 - Aldridge, I. (2013). High-Frequency Trading: A Practical Guide to Algorithmic Strategies and Trading Systems. Wiley Trading Series. ISBN: 978-1118343500. This book provides an in-depth analysis of algorithmic trading strategies and their effects on financial markets, offering insights into the implications of high-speed trading systems, including potential market disruptions like flash crashes.
-

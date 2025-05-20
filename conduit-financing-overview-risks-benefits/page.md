@@ -1,6 +1,9 @@
 ---
-title: "Conduit Financing: Overview, Risks, and Benefits (Algo Trading)"
-description: "Explore conduit financing and algorithmic trading, their benefits, and risks, providing insights for informed investment decisions amid evolving financial landscapes."
+category: quant_concept
+description: Explore conduit financing and algorithmic trading, their benefits, and
+  risks, providing insights for informed investment decisions amid evolving financial
+  landscapes.
+title: 'Conduit Financing: Overview, Risks, and Benefits (Algo Trading)'
 ---
 
 This article explores the themes of conduit financing and algorithmic trading, two significant concepts reshaping the modern financial landscape. Understanding both their risks and benefits can provide valuable insights for investors looking to make informed decisions.

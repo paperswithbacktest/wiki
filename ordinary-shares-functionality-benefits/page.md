@@ -1,6 +1,8 @@
 ---
-title: "Ordinary Shares: Functionality and Benefits (Algo Trading)"
-description: "Discover the benefits of ordinary shares, key shareholder rights, and the impact of algorithmic trading on the modern financial markets for smarter investing"
+category: quant_concept
+description: Discover the benefits of ordinary shares, key shareholder rights, and
+  the impact of algorithmic trading on the modern financial markets for smarter investing
+title: 'Ordinary Shares: Functionality and Benefits (Algo Trading)'
 ---
 
 The financial landscape presents numerous investment possibilities, among which ordinary shares are a significant choice for many investors. Ordinary shares, also known as common stock, represent equity ownership in a company and are fundamental to the stock market's structure. This article aims to explore the benefits of holding ordinary shares, the various rights afforded to shareholders, and the impact of algorithmic trading on today's financial markets. 

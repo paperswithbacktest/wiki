@@ -1,6 +1,8 @@
 ---
-title: "Oil Sands (Algo Trading)"
-description: "Explore the impact of oil sands on the global energy market and how algorithmic trading enhances its economic viability while addressing environmental concerns."
+category: trading_strategy
+description: Explore the impact of oil sands on the global energy market and how algorithmic
+  trading enhances its economic viability while addressing environmental concerns.
+title: Oil Sands (Algo Trading)
 ---
 
 The oil sands industry is a pivotal component of the global energy market, significantly contributing to crude oil production. As traditional light crude oil sources decline, oil sands—comprising sand, clay, and water enriched with viscous bitumen—offer an alternative avenue for meeting global energy demand. This complex mixture demands specialized extraction techniques, placing the industry at the intersection of innovation and economic strategy.

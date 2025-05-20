@@ -1,6 +1,13 @@
 ---
-title: "Shorting in quantitative investing (Algo Trading)"
-description: Explore the intricacies of shorting in quantitative investing and algorithmic trading as a strategy to benefit from declining prices. Learn how short selling leverages advanced algorithms for market-neutral positions and enhancing liquidity. Understand the mechanics strategic applications and risks of shorting in diverse financial markets including stocks and options. Discover how quantitative strategies utilize shorting for hedging and arbitrage along with insights on implementation in algorithmic trading systems.
+category: quant_concept
+description: Explore the intricacies of shorting in quantitative investing and algorithmic
+  trading as a strategy to benefit from declining prices. Learn how short selling
+  leverages advanced algorithms for market-neutral positions and enhancing liquidity.
+  Understand the mechanics strategic applications and risks of shorting in diverse
+  financial markets including stocks and options. Discover how quantitative strategies
+  utilize shorting for hedging and arbitrage along with insights on implementation
+  in algorithmic trading systems.
+title: Shorting in quantitative investing (Algo Trading)
 ---
 
 In quantitative investing and algorithmic trading, shorting is a fundamental concept. Shorting, or short selling, involves the sale of securities not currently owned, with the intention of purchasing them later at a reduced price. The process typically includes borrowing the securities, selling them in the open market, and eventually buying them back, ideally at a lower cost, to return to the lender. This method allows traders to benefit from declining prices, making it a valuable strategy during market downturns.

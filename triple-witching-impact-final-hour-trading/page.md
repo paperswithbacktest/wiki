@@ -1,6 +1,9 @@
 ---
-title: "Triple Witching and Its Impact on Final Hour Trading (Algo Trading)"
-description: "Understand triple witching's role in escalating market volatility and influencing final hour trading. Explore algorithmic strategies to navigate this quarterly event."
+category: quant_concept
+description: Understand triple witching's role in escalating market volatility and
+  influencing final hour trading. Explore algorithmic strategies to navigate this
+  quarterly event.
+title: Triple Witching and Its Impact on Final Hour Trading (Algo Trading)
 ---
 
 Triple witching is a phenomenon in the stock market that occurs when the expiration of stock options, stock index futures, and stock index option contracts coincide on a single trading day. This event takes place quarterly on the third Friday of March, June, September, and December. Triple witching is significant due to its tendency to cause substantial changes in trading volumes and market volatility. As traders prepare to close or roll over their positions to the next expiration date, the market can experience substantial fluctuations in price, leading to increased activity and volatility. 

@@ -1,6 +1,9 @@
 ---
-title: "Personal Income and Disposable Income Differences (Algo Trading)"
-description: "Explore the critical differences between personal and disposable income to better understand their impact on financial stability decision-making and algo trading strategies."
+category: quant_concept
+description: Explore the critical differences between personal and disposable income
+  to better understand their impact on financial stability decision-making and algo
+  trading strategies.
+title: Personal Income and Disposable Income Differences (Algo Trading)
 ---
 
 Understanding the dynamics of personal and disposable income is crucial for comprehending financial stability and decision-making in households. Personal income encompasses the total earnings received by individuals from all sources, such as wages, investments, and other forms of compensation. It serves as a fundamental indicator of earning capacity and overall economic health. On the other hand, disposable income refers to the amount of money individuals or households have available for spending and saving after taxes have been deducted, thereby offering a more accurate picture of financial autonomy and the capacity to meet living expenses.

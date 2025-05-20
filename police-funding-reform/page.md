@@ -1,6 +1,9 @@
 ---
-title: "Police Funding Reform (Algo Trading)"
-description: "Explore the multifaceted intersection of law enforcement funding police reform and algorithmic trading with insights into resource optimization and fair policing strategies."
+category: quant_concept
+description: Explore the multifaceted intersection of law enforcement funding police
+  reform and algorithmic trading with insights into resource optimization and fair
+  policing strategies.
+title: Police Funding Reform (Algo Trading)
 ---
 
 The intersection of law enforcement funding, police reform, and algorithmic trading is a multifaceted issue that has garnered significant attention from policymakers, community leaders, and technologists. Historically, law enforcement funding has been a foundational element in shaping police operations and their ability to maintain public safety. This funding emerges from local, state, and federal sources, each contributing to a complex landscape that influences priorities and capabilities. While decisions regarding budget allocations directly impact department functionalities, such as operations, training, and equipment, they often spark debates over the balance between enhancing public safety and investing in community-based programs.

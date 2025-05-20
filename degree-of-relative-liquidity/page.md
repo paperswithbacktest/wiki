@@ -1,6 +1,9 @@
 ---
-title: "Degree of Relative Liquidity (Algo Trading)"
-description: "Explore the dynamic role of liquidity in algorithmic trading and its impact on market efficiency and stability through essential financial metrics and strategies."
+category: quant_concept
+description: Explore the dynamic role of liquidity in algorithmic trading and its
+  impact on market efficiency and stability through essential financial metrics and
+  strategies.
+title: Degree of Relative Liquidity (Algo Trading)
 ---
 
 The financial industry is experiencing rapid transformation due to technological advancements, with significant focus on algorithmic trading and its associated financial metrics, such as liquidity. Understanding financial metrics is vital for assessing a company’s operational efficiency, financial health, and profitability. Among these metrics, liquidity stands out due to its vital role in finance and algorithmic trading.

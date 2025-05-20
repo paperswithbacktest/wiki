@@ -1,6 +1,9 @@
 ---
-title: "Impact of Money Supply on Inflation (Algo Trading)"
-description: "Explore how money supply influences inflation and its impact on algorithmic trading strategies Understand economic trends and enhance trading opportunities with insights into modern finance dynamics"
+category: quant_concept
+description: Explore how money supply influences inflation and its impact on algorithmic
+  trading strategies Understand economic trends and enhance trading opportunities
+  with insights into modern finance dynamics
+title: Impact of Money Supply on Inflation (Algo Trading)
 ---
 
 The interplay between inflation, money supply, economic impact, and algorithmic trading is a complex but crucial topic in modern finance. Inflation, the rate at which the general level of prices for goods and services rises, erodes purchasing power and is often driven by changes in the money supply. The money supply encompasses the total amount of monetary assets available in an economy at a specific time, which central banks influence through monetary policy tools such as interest rates and open market operations.

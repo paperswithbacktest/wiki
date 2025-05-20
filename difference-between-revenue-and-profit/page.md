@@ -1,6 +1,8 @@
 ---
-title: "Difference Between Revenue and Profit (Algo Trading)"
-description: "Explore the key differences between revenue and profit in the context of algorithmic trading to understand financial metrics that drive business success."
+category: quant_concept
+description: Explore the key differences between revenue and profit in the context
+  of algorithmic trading to understand financial metrics that drive business success.
+title: Difference Between Revenue and Profit (Algo Trading)
 ---
 
 In the fast-paced world of finance, comprehending key metrics such as revenue, financial metrics, profit, and algorithmic trading is essential for achieving business success. Revenue, as the total income generated from business operations, serves as a fundamental indicator of a company’s market performance. It provides insights into a firm’s market position, sales volume, and overall business health. Conversely, profit, which is the surplus remaining after deducting operating expenses from revenue, indicates the company’s ability to manage costs and operate efficiently. These metrics are pivotal in gauging a company's financial well-being and strategic potential.

@@ -1,6 +1,14 @@
 ---
-title: "Algorithmic Trading vs. Discretionary Trading (Algo Trading)"
-description: Explore the distinct approaches of discretionary and algorithmic trading in this insightful article. Discretionary trading relies on human judgment and intuition for decision-making, offering flexibility in response to market conditions. In contrast, algorithmic trading leverages automated systems and predefined criteria for fast, data-driven decisions. As technology evolves, the potential synergy between these methodologies emerges, blending human insight with computational power. Discover how traders can effectively combine these strategies to enhance trading performance by addressing their unique advantages and challenges.
+category: quant_concept
+description: Explore the distinct approaches of discretionary and algorithmic trading
+  in this insightful article. Discretionary trading relies on human judgment and intuition
+  for decision-making, offering flexibility in response to market conditions. In contrast,
+  algorithmic trading leverages automated systems and predefined criteria for fast,
+  data-driven decisions. As technology evolves, the potential synergy between these
+  methodologies emerges, blending human insight with computational power. Discover
+  how traders can effectively combine these strategies to enhance trading performance
+  by addressing their unique advantages and challenges.
+title: Algorithmic Trading vs. Discretionary Trading (Algo Trading)
 ---
 
 Discretionary trading and algorithmic trading represent two contrasting methodologies in trading. Discretionary trading is driven by human judgment, where traders use personal insights and market analysis to make decisions. In contrast, algorithmic trading, or algo trading, executes trades based on predefined criteria using computer algorithms, relying heavily on speed and data analysis.

@@ -1,6 +1,8 @@
 ---
-title: "Qualified Foreign Institutional Investor Regulations (Algo Trading)"
-description: "Explore the role of the Qualified Foreign Institutional Investor program in enabling algorithmic trading within China's stock markets enhancing foreign investment."
+category: quant_concept
+description: Explore the role of the Qualified Foreign Institutional Investor program
+  in enabling algorithmic trading within China's stock markets enhancing foreign investment.
+title: Qualified Foreign Institutional Investor Regulations (Algo Trading)
 ---
 
 The Qualified Foreign Institutional Investor (QFII) program serves as a gateway for international investors seeking to access China's fertile stock exchanges. Introduced in 2002, the QFII initiative was crafted to permit foreign investment in a market traditionally safeguarded by stringent capital controls, thus fostering international participation in China's burgeoning economy. This article aims to elucidate the key components of the QFII program, the financial regulations shaping foreign investments, and the influence of algorithmic trading on investment strategies. 

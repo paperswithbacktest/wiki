@@ -1,6 +1,12 @@
 ---
-title: "Parabolic SAR (Algo Trading)"
-description: Discover how the Parabolic SAR, a technical indicator developed by J. Welles Wilder Jr., enhances algorithmic trading strategies. This comprehensive guide explores its functionality in identifying potential market reversals and optimizing trade entry and exit points. Learn about constructing the Parabolic SAR, its application, and combining it with other indicators for increased accuracy. Enhance your trading algorithm with this powerful tool to improve profitability in trending markets.
+category: trading_strategy
+description: Discover how the Parabolic SAR, a technical indicator developed by J.
+  Welles Wilder Jr., enhances algorithmic trading strategies. This comprehensive guide
+  explores its functionality in identifying potential market reversals and optimizing
+  trade entry and exit points. Learn about constructing the Parabolic SAR, its application,
+  and combining it with other indicators for increased accuracy. Enhance your trading
+  algorithm with this powerful tool to improve profitability in trending markets.
+title: Parabolic SAR (Algo Trading)
 ---
 
 In algorithmic trading, technical indicators are essential tools that assist traders in making informed decisions. Among these indicators, the Parabolic SAR stands out as a robust method developed by J. Welles Wilder Jr. It is designed to help identify potential reversals in market price direction. The Parabolic SAR, often used in conjunction with other indicators, provides traders with critical signals that guide entry and exit decisions in trading strategies. This article will discuss the Parabolic SAR, outline its construction, and explore its application within algorithmic trading systems. Understanding how to use the Parabolic SAR effectively can significantly enhance a trader's ability to optimize their trading operations and improve profitability.

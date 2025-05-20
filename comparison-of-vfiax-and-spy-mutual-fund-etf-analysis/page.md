@@ -1,6 +1,8 @@
 ---
-title: "Comparison of VFIAX and SPY: Mutual Fund and ETF Analysis (Algo Trading)"
-description: "Explore the investment strategies of VFIAX mutual fund and SPY ETF in algorithmic trading Compare their features liquidity cost efficiency and tax implications"
+category: trading_strategy
+description: Explore the investment strategies of VFIAX mutual fund and SPY ETF in
+  algorithmic trading Compare their features liquidity cost efficiency and tax implications
+title: 'Comparison of VFIAX and SPY: Mutual Fund and ETF Analysis (Algo Trading)'
 ---
 
 In today's investment landscape, making informed decisions often involves choosing between mutual funds and exchange-traded funds (ETFs). Two standout options in this category are the VFIAX mutual fund and the SPY ETF, both of which aim to replicate the performance of the S&P 500 index. As vehicles for investing in the U.S. stock market, each offers unique attributes that can influence an investor's portfolio strategy.

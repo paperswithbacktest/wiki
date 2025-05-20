@@ -1,6 +1,8 @@
 ---
-title: "Leading 3D Printing Companies (Algo Trading)"
-description: "Discover how leading 3D printing companies like Stratasys and 3D Systems are revolutionizing industries with advanced technologies and algorithmic trading."
+category: quant_concept
+description: Discover how leading 3D printing companies like Stratasys and 3D Systems
+  are revolutionizing industries with advanced technologies and algorithmic trading.
+title: Leading 3D Printing Companies (Algo Trading)
 ---
 
 3D printing, also known as additive manufacturing, is reshaping industries worldwide by providing innovative solutions that transform traditional manufacturing processes. This technology involves creating three-dimensional objects from digital files, enabling greater flexibility, customization, and efficiency in production. The rapid growth of the 3D printing market has fueled the rise of numerous companies and technological advancements, positioning 3D printing as a pivotal force in modern manufacturing.

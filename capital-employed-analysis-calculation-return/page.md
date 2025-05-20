@@ -1,6 +1,11 @@
 ---
-title: "Capital Employed: Analysis, Calculation, and Return Assessment (Algo Trading)"
-description: "Discover the fundamentals of capital employed, a vital metric in assessing a company's financial health, and learn how it integrates with ROI to enhance investment strategies. Explore its components, calculations, and role in financial analysis and algorithmic trading to develop informed and strategic decisions in the ever-evolving financial landscape."
+category: quant_concept
+description: Discover the fundamentals of capital employed, a vital metric in assessing
+  a company's financial health, and learn how it integrates with ROI to enhance investment
+  strategies. Explore its components, calculations, and role in financial analysis
+  and algorithmic trading to develop informed and strategic decisions in the ever-evolving
+  financial landscape.
+title: 'Capital Employed: Analysis, Calculation, and Return Assessment (Algo Trading)'
 ---
 
 Capital employed represents the total amount of capital utilized for acquiring profits and is a key indicator of a company's financial health. It encompasses equity and debt used in business operations, giving investors insight into how efficiently a company uses its resources. Evaluating capital employed helps investors and analysts assess returns relative to the resources expended, aiding in informed investment decisions. In the investment landscape, understanding capital employed is vital as it directly correlates with business growth and financial sustainability.

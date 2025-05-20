@@ -1,6 +1,10 @@
 ---
-title: "Put Option (Algo Trading)"
-description: "Explore the strategic potential of put options in algorithmic trading to profit from declining asset prices or hedge against market downturns. Learn how algorithmic trading enhances options trading with systematic execution for precise, swift responses to market changes, combining human strategy with advanced technology."
+category: quant_concept
+description: Explore the strategic potential of put options in algorithmic trading
+  to profit from declining asset prices or hedge against market downturns. Learn how
+  algorithmic trading enhances options trading with systematic execution for precise,
+  swift responses to market changes, combining human strategy with advanced technology.
+title: Put Option (Algo Trading)
 ---
 
 Understanding financial derivatives is essential for today's traders, with options trading being a pivotal part of this financial landscape. Options are complex instruments that, when used effectively, can provide significant opportunities and mitigate risks within volatile markets. Among the various types of options, put options offer unique strategic possibilities, allowing traders to profit from declining asset prices or hedge against potential downturns.

@@ -1,6 +1,13 @@
 ---
-title: "Why Study for a Mathematical Finance PhD? (Algo Trading)"
-description: Explore the advantages of pursuing a PhD in mathematical finance with a focus on algorithmic trading. Understand how this advanced degree provides the theoretical knowledge and analytical skills to develop sophisticated financial models and trading algorithms. Discover the vital role of mathematical finance in enhancing trading efficiency and risk management. Learn why experts in algorithmic trading are in high demand as financial markets evolve, offering intellectually and financially rewarding career opportunities.
+category: quant_concept
+description: Explore the advantages of pursuing a PhD in mathematical finance with
+  a focus on algorithmic trading. Understand how this advanced degree provides the
+  theoretical knowledge and analytical skills to develop sophisticated financial models
+  and trading algorithms. Discover the vital role of mathematical finance in enhancing
+  trading efficiency and risk management. Learn why experts in algorithmic trading
+  are in high demand as financial markets evolve, offering intellectually and financially
+  rewarding career opportunities.
+title: Why Study for a Mathematical Finance PhD? (Algo Trading)
 ---
 
 Mathematical finance and algorithmic trading represent two intertwined facets of modern financial markets, facilitated by advancements in technology and quantitative analysis. Mathematical finance involves the application of mathematical techniques to solve problems in finance, emphasizing the use of models to evaluate financial instruments and manage financial risk. Fundamental concepts such as stochastic calculus and quantitative modeling are vital tools used to analyze and predict market behaviors, enabling the assessment of derivatives pricing, interest rates, and risk management. In contrast, algorithmic trading is the process of using computer algorithms to automate trading strategies. This approach leverages mathematical models and computational power to execute trades at speeds and frequencies unattainable by human traders, profoundly impacting market efficiency and liquidity.

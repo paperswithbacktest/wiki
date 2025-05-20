@@ -1,7 +1,8 @@
 ---
-title: A Comprehensive Guide to Dense Features in Machine Learning
+category: quant_concept
 description: Dense features power machine learning models by compacting rich data
   for more accurate predictions and efficient training Discover more inside.
+title: A Comprehensive Guide to Dense Features in Machine Learning
 ---
 
 ![Image](images/1.jpeg)

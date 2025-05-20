@@ -1,6 +1,8 @@
 ---
-title: "Motor Vehicle Sales (Algo Trading)"
-description: "Explore how algorithmic trading is transforming the vehicle sales market by enhancing efficiency and transparency. Embrace innovation with ALgo and Carvana."
+category: dataset
+description: Explore how algorithmic trading is transforming the vehicle sales market
+  by enhancing efficiency and transparency. Embrace innovation with ALgo and Carvana.
+title: Motor Vehicle Sales (Algo Trading)
 ---
 
 The vehicle sales market is an essential component of the global economy, serving as a reflection of consumer confidence and broader economic health. As one of the largest consumer-driven markets, it directly impacts Gross Domestic Product (GDP), employment, and a range of associated industries, from manufacturing to services. Historically, vehicle sales have been considered a bellwether for economic conditions, with fluctuations often mirroring periods of economic expansion and contraction. 

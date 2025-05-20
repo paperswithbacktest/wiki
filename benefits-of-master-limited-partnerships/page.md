@@ -1,6 +1,9 @@
 ---
-title: "Benefits of Master Limited Partnerships (Algo Trading)"
-description: "Explore the benefits of Master Limited Partnerships MLPs in algo trading. Discover their tax efficiency high yields and diversification potential in energy sectors."
+category: quant_concept
+description: Explore the benefits of Master Limited Partnerships MLPs in algo trading.
+  Discover their tax efficiency high yields and diversification potential in energy
+  sectors.
+title: Benefits of Master Limited Partnerships (Algo Trading)
 ---
 
 Master Limited Partnerships (MLPs) are sophisticated investment entities that provide a unique combination of tax efficiency and market accessibility. Originating from the intersection of partnership tax attributes and the liquidity of public markets, MLPs allow investors to participate in sectors traditionally associated with high capital expenses and stable cash flows. Predominantly operating within the natural resources, energy, and real estate industries, MLPs manage assets such as pipelines, storage facilities, and real estate assets that generate consistent revenue streams. One of the defining features of MLPs is their tax structure. Unlike conventional corporations subject to corporate tax, MLPs are pass-through entities, meaning they do not pay federal income taxes at the corporate level. Instead, the income is directly allocated to unitholders, who then pay tax at their individual rates. This approach helps maximize the return on investments by mitigating the issue of double taxation, which commonly affects corporate dividends.

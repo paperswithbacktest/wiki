@@ -1,6 +1,8 @@
 ---
-title: "Analysis of Book Value (Algo Trading)"
-description: "Explore the integration of book value analysis with algorithmic trading to enhance investment strategies by assessing stock valuation through P/B ratios."
+category: trading_strategy
+description: Explore the integration of book value analysis with algorithmic trading
+  to enhance investment strategies by assessing stock valuation through P/B ratios.
+title: Analysis of Book Value (Algo Trading)
 ---
 
 In today's rapidly changing financial environment, the incorporation of traditional financial metrics with cutting-edge algorithmic trading strategies has become essential for both individual and institutional investors. This article examines the synergy between accounting book value, financial analysis, and algorithmic trading strategies, providing a comprehensive understanding of how these elements can be integrated to enhance investment strategies. 
@@ -150,4 +152,3 @@ Chan, E. (2009). *Quantitative Trading: How to Build Your Own Algorithmic Tradin
 De Prado, M. L. (2018). *Advances in Financial Machine Learning.* Wiley. Marcos López de Prado explores the intersection of finance and machine learning, providing insights into how advanced algorithms can incorporate fundamental metrics, such as book value, to identify trading opportunities and improve decision-making processes.
 
 Aronson, D. R. (2007). *Evidence-Based Technical Analysis: Applying the Scientific Method and Statistical Inference to Trading Signals.* Wiley. David Aronson offers a critical examination of technical analysis, emphasizing the use of scientific methods to confirm trading signals. Although primarily technical, this work underscores the importance of integrating foundational financial metrics like book value to validate and enhance trading strategies.
-

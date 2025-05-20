@@ -1,6 +1,9 @@
 ---
-title: "Impact of Self-Driving Cars on the Automotive Industry (Algo Trading)"
-description: "Discover how self-driving cars are reshaping the automotive industry and finance through AI-driven innovations and new business models. Explore the future of mobility."
+category: quant_concept
+description: Discover how self-driving cars are reshaping the automotive industry
+  and finance through AI-driven innovations and new business models. Explore the future
+  of mobility.
+title: Impact of Self-Driving Cars on the Automotive Industry (Algo Trading)
 ---
 
 Autonomous vehicles and self-driving cars have captivated human imagination with their promise of transforming transportation into a seamless and efficient experience. These groundbreaking technologies are poised to significantly alter the landscape of the automotive industry, while also making waves in diverse sectors such as finance, particularly in algorithmic trading.

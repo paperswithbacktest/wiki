@@ -1,6 +1,12 @@
 ---
-title: "Consumer Sentiment: Measurement and Importance (Algo Trading)"
-description: "Explore the importance of consumer sentiment as a key economic indicator in understanding financial markets and algorithmic trading. This article investigates into how sentiment analysis influences market trends and investment strategies, highlighting its role in economic growth predictions and decision-making for financial market participants. Discover the integration of consumer sentiment data into trading algorithms to predict and capitalize on market shifts effectively."
+category: quant_concept
+description: Explore the importance of consumer sentiment as a key economic indicator
+  in understanding financial markets and algorithmic trading. This article investigates
+  into how sentiment analysis influences market trends and investment strategies,
+  highlighting its role in economic growth predictions and decision-making for financial
+  market participants. Discover the integration of consumer sentiment data into trading
+  algorithms to predict and capitalize on market shifts effectively.
+title: 'Consumer Sentiment: Measurement and Importance (Algo Trading)'
 ---
 
 The interplay between economic indicators, consumer sentiment, and market analysis is fundamental to the functioning of modern financial systems. Economic indicators serve as essential metrics for assessing economic health, encompassing a range of data points such as consumer sentiment, inflation rates, and GDP. Among these, consumer sentiment acts as a vital measure of the general public's confidence in the economic environment. This sentiment reflects optimism or pessimism regarding personal financial situations and the wider economic landscape.

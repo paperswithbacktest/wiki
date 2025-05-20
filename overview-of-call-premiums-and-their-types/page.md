@@ -1,6 +1,8 @@
 ---
-title: "Overview of Call Premiums and Their Types (Algo Trading)"
-description: "Explore the intricacies of call premiums in bond finance and algorithmic trading Understand how these components impact investment strategies and bond pricing."
+category: quant_concept
+description: Explore the intricacies of call premiums in bond finance and algorithmic
+  trading Understand how these components impact investment strategies and bond pricing.
+title: Overview of Call Premiums and Their Types (Algo Trading)
 ---
 
 This article provides a comprehensive understanding of call premiums within the scope of bond finance, investment terms, and algorithmic trading. Call premiums refer to additional amounts paid to bondholders by issuers when bonds are redeemed before their maturity dates. These premiums are a critical component in the pricing and yield calculation of callable bonds, adding complexity to investment strategies. For instance, the call premium is typically calculated as the difference between the bond's call price and its face value, compensating bondholders for the potential loss of interest income they would have earned if the bond had not been called early.

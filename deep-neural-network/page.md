@@ -1,7 +1,8 @@
 ---
-title: Fundamentals of Deep Neural Network Architecture and Training
+category: quant_concept
 description: Deep neural network fundamentals cover layer architecture training methods
   and optimization for AI applications explained clearly Discover more inside
+title: Fundamentals of Deep Neural Network Architecture and Training
 ---
 
 ![Image](images/1.png)

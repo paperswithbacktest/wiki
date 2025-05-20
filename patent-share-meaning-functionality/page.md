@@ -1,6 +1,9 @@
 ---
-title: "Patent Share: Meaning and Functionality (Algo Trading)"
-description: "Explore the role of patents in algorithmic trading and their impact on innovation and IP protection within the fintech sector, fostering economic growth and security."
+category: quant_concept
+description: Explore the role of patents in algorithmic trading and their impact on
+  innovation and IP protection within the fintech sector, fostering economic growth
+  and security.
+title: 'Patent Share: Meaning and Functionality (Algo Trading)'
 ---
 
 In today's digital age, intellectual property (IP) plays a crucial role in fostering innovation and creativity across various industries. IP encompasses creations of the mind, which include inventions, designs, artistic works, and symbols that businesses and individuals produce. The patent system is one of the most critical mechanisms for protecting IP rights, offering inventors and companies the exclusive rights to their creations for a specified period. This exclusivity acts as an incentive for further innovation by ensuring that inventors can potentially reap financial benefits without the immediate threat of competition copying their work. 

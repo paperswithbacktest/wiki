@@ -1,6 +1,13 @@
 ---
-title: "Government Securities: T-Bills and T-Bonds (Algo Trading)"
-description: "Explore the fundamental role of government securities like Treasury bills and bonds in financing and portfolio management. Discover how these low-risk investments ensure stability, with T-Bills offering liquidity and T-Bonds providing long-term income. Uncover the impact of algorithmic trading on government securities, enhancing trading efficiency and precision. Understand how these secure investments diversify portfolios and support robust economic management, making them essential for investor financial well-being and government fiscal strategy."
+category: quant_concept
+description: Explore the fundamental role of government securities like Treasury bills
+  and bonds in financing and portfolio management. Discover how these low-risk investments
+  ensure stability, with T-Bills offering liquidity and T-Bonds providing long-term
+  income. Uncover the impact of algorithmic trading on government securities, enhancing
+  trading efficiency and precision. Understand how these secure investments diversify
+  portfolios and support robust economic management, making them essential for investor
+  financial well-being and government fiscal strategy.
+title: 'Government Securities: T-Bills and T-Bonds (Algo Trading)'
 ---
 
 Government securities, including Treasury bills and Treasury bonds, serve as fundamental investment instruments that play pivotal roles in both government financing and investor portfolio management. These securities are financial assets issued by sovereign governments to raise capital for various governmental operations and essential infrastructural projects. They are distinguished by their low-risk nature due to the government's commitment to repay the principal amount upon maturity, thereby making them attractive investment options for individuals and institutional investors seeking stability and security in their financial portfolios.

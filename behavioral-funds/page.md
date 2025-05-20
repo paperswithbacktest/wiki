@@ -1,6 +1,8 @@
 ---
-title: "Behavioral Funds (Algo Trading)"
-description: "Explore innovative investment strategies like behavioral funds and algorithmic trading that leverage human behavior insights and automation for optimal returns."
+category: trading_strategy
+description: Explore innovative investment strategies like behavioral funds and algorithmic
+  trading that leverage human behavior insights and automation for optimal returns.
+title: Behavioral Funds (Algo Trading)
 ---
 
 In today's rapidly evolving financial landscape, investors are constantly seeking effective ways to maximize their returns while mitigating risks. This quest for optimal investment strategies has given rise to innovative approaches, such as behavioral funds and algorithmic trading.

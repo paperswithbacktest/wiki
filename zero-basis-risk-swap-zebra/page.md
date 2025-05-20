@@ -1,6 +1,8 @@
 ---
-title: "Zero Basis Risk Swap (ZEBRA) (Algo Trading)"
-description: "Discover the benefits of Zero Basis Risk Swaps (ZEBRA) in managing interest rate risks with precision Explore applications in finance and algorithmic trading"
+category: quant_concept
+description: Discover the benefits of Zero Basis Risk Swaps (ZEBRA) in managing interest
+  rate risks with precision Explore applications in finance and algorithmic trading
+title: Zero Basis Risk Swap (ZEBRA) (Algo Trading)
 ---
 
 In today's rapidly evolving financial landscape, effective risk management is crucial for both institutions and investors. Companies and financial entities continually seek innovative solutions to manage risks associated with interest rate fluctuations, currency exchanges, and other financial uncertainties. One such innovative financial instrument that has gained attention is the Zero Basis Risk Swap (ZEBRA). 

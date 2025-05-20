@@ -1,6 +1,8 @@
 ---
-title: "CNN Effect and Its Economic Impact (Algo Trading)"
-description: "Explore how the CNN Effect influences economic markets and impacts algorithmic trading by shaping investor perceptions and driving market dynamics."
+category: quant_concept
+description: Explore how the CNN Effect influences economic markets and impacts algorithmic
+  trading by shaping investor perceptions and driving market dynamics.
+title: CNN Effect and Its Economic Impact (Algo Trading)
 ---
 
 In the rapidly evolving world of global finance and media, understanding the interplay between media impact, economic responses, and modern trading techniques is crucial. The modern financial landscape is deeply intertwined with the ever-present influence of media, reflecting the speed at which information can alter perceptions and actions in economic markets.

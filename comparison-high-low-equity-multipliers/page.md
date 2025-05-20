@@ -1,6 +1,9 @@
 ---
-title: "Comparison of High and Low Equity Multipliers (Algo Trading)"
-description: "Explore the intricate balance of high and low equity multipliers in algo trading Discover their impact on financial health leverage and strategic investment choices"
+category: quant_concept
+description: Explore the intricate balance of high and low equity multipliers in algo
+  trading Discover their impact on financial health leverage and strategic investment
+  choices
+title: Comparison of High and Low Equity Multipliers (Algo Trading)
 ---
 
 The financial landscape is increasingly complex, with key concepts such as equity multiplier, financial leverage, capital structure, and algorithmic trading playing pivotal roles in modern finance. The equity multiplier is a critical financial leverage ratio that reflects how a company funds its assets through equity and is instrumental in assessing financial health and risk exposure. Financial leverage, through the use of debt, can significantly alter a company's risk and return profile, providing a tool for strategic corporate decision-making.
@@ -179,4 +182,3 @@ Mastering financial metrics like the equity multiplier and leveraging them along
 9. Cochrane, J. H. (2011). *Presidential Address: Discount Rates*. The Journal of Finance, 66(4), 1047-1108. Cochrane’s analysis of discount rates can enhance comprehension of how financial leverage affects investment evaluations.
 
 10. Bodie, Z., Kane, A., & Marcus, A. J. (2013). *Investments*. McGraw-Hill Education. This textbook is a cornerstone for grasping the fundamentals of investing, including the strategic incorporation of algorithmic techniques in financial markets.
-

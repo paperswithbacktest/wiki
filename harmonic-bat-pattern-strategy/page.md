@@ -1,6 +1,11 @@
 ---
-title: "Harmonic Bat Pattern Trading Strategy (Algo Trading)"
-description: Master the harmonic Bat pattern trading strategy for a competitive edge in algorithmic trading. Learn how this pattern's structured Fibonacci ratios predict price reversals, allowing precise and profitable trade executions. Gain insights on programming systems to automatically detect and exploit Bat patterns, optimizing your trading potential.
+category: trading_strategy
+description: Master the harmonic Bat pattern trading strategy for a competitive edge
+  in algorithmic trading. Learn how this pattern's structured Fibonacci ratios predict
+  price reversals, allowing precise and profitable trade executions. Gain insights
+  on programming systems to automatically detect and exploit Bat patterns, optimizing
+  your trading potential.
+title: Harmonic Bat Pattern Trading Strategy (Algo Trading)
 ---
 
 The Bat pattern is a critical component of harmonic trading that offers traders a structured method to forecast potential price reversals in the financial markets. Conceived by Scott M. Carney, the Bat pattern is characterized by four distinct price swings and five pivotal points, namely X, A, B, C, and D. This pattern is particularly valued for its ability to identify precise reversal zones, providing an opportunity for traders to capitalize on anticipated market movements.

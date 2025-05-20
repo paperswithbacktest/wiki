@@ -1,6 +1,9 @@
 ---
-title: "Interest Payments by Mutual Funds (Algo Trading)"
-description: "Discover how interest payments, mutual funds, and algorithmic trading interplay to optimize modern portfolios, offering income stability and investment efficiency."
+category: quant_concept
+description: Discover how interest payments, mutual funds, and algorithmic trading
+  interplay to optimize modern portfolios, offering income stability and investment
+  efficiency.
+title: Interest Payments by Mutual Funds (Algo Trading)
 ---
 
 The article examines the convergence of interest payments, mutual funds, investment income, and algorithmic trading—four pivotal components in modern financial portfolios. This section seeks to provide investors with a robust framework to comprehend how these financial instruments and strategies interact and contribute to portfolio management.

@@ -1,6 +1,8 @@
 ---
-title: "Goodwill Impairment Testing (Algo Trading)"
-description: "Explore the intersection of financial accounting and algo trading with insights into goodwill impairment testing to enhance trading strategies and decision-making."
+category: quant_concept
+description: Explore the intersection of financial accounting and algo trading with
+  insights into goodwill impairment testing to enhance trading strategies and decision-making.
+title: Goodwill Impairment Testing (Algo Trading)
 ---
 
 In the increasingly complex world of finance, accounting principles and automated trading solutions are converging in ways that present both challenges and opportunities. Central to this intersection is the concept of goodwill impairment testing. Goodwill, an intangible asset that often emerges during company acquisitions, requires rigorous evaluation to maintain the integrity of financial statements. Its impairment occurs when there is a significant downturn in value, necessitating a write-down to reflect its true value on the balance sheet.

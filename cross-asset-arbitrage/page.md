@@ -1,6 +1,9 @@
 ---
-title: "Cross-Asset Arbitrage (Algo Trading)"
-description: "Explore the world of cross-asset arbitrage a complex trading strategy using algorithmic methods to exploit price discrepancies across asset classes like stocks and bonds."
+category: trading_strategy
+description: Explore the world of cross-asset arbitrage a complex trading strategy
+  using algorithmic methods to exploit price discrepancies across asset classes like
+  stocks and bonds.
+title: Cross-Asset Arbitrage (Algo Trading)
 ---
 
 Cross-asset arbitrage is a sophisticated algorithmic trading strategy designed to exploit price discrepancies between related asset classes for profit generation. In contrast to traditional arbitrage, which concentrates on a single asset traded across different markets, cross-asset arbitrage involves multiple interrelated financial instruments, such as stocks, bonds, commodities, and currencies. The strategy capitalizes on complex price relationships that exist across these diverse markets, allowing traders to execute positions that capitalize on these variances. This multifaceted approach requires a nuanced understanding of how different asset classes interact and are correlated, thus allowing for the identification of profitable trading opportunities.

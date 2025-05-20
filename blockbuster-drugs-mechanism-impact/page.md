@@ -1,6 +1,9 @@
 ---
-title: "Blockbuster Drugs: Mechanism and Impact (Algo Trading)"
-description: "Blockbuster drugs dominate the pharmaceutical market by surpassing $1 billion in sales annually. Explore their mechanism, market influence, and algorithmic trading impact."
+category: quant_concept
+description: Blockbuster drugs dominate the pharmaceutical market by surpassing $1
+  billion in sales annually. Explore their mechanism, market influence, and algorithmic
+  trading impact.
+title: 'Blockbuster Drugs: Mechanism and Impact (Algo Trading)'
 ---
 
 In the ever-evolving landscape of pharmaceuticals, blockbuster drugs stand as titans. Known for generating over $1 billion in annual sales, these drugs shape the fortunes of pharmaceutical companies, often determining their financial health and market standing. They commonly address prevalent health conditions, and their success not only highlights therapeutic breakthroughs but also reflects substantial research, development, and marketing investments by pharmaceutical companies.

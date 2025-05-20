@@ -1,6 +1,8 @@
 ---
-title: "Dividend Yield Strategies During Economic Downturns (Algo Trading)"
-description: "Discover how to protect your investments during economic downturns using a blend of dividend yield strategies and algorithmic trading for optimal resilience."
+category: trading_strategy
+description: Discover how to protect your investments during economic downturns using
+  a blend of dividend yield strategies and algorithmic trading for optimal resilience.
+title: Dividend Yield Strategies During Economic Downturns (Algo Trading)
 ---
 
 In the current economic climate, characterized by persistent uncertainties and market fluctuations, investors are increasingly concerned with safeguarding their portfolios against downturns. To navigate these challenging times, it is essential to employ investment strategies that focus on both securing stable returns and capitalizing on opportunities for growth. One such approach involves the dual strategy of emphasizing dividend yield and leveraging algorithmic trading.

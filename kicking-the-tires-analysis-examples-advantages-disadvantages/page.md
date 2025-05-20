@@ -1,6 +1,10 @@
 ---
-title: "Kicking the Tires: Analysis, Examples, Advantages and Disadvantages (Algo Trading)"
-description: "Explore the pros and cons of algo trading through analysis and examples Learn how technology transforms trading with automated strategies and minimal human intervention"
+category: trading_strategy
+description: Explore the pros and cons of algo trading through analysis and examples
+  Learn how technology transforms trading with automated strategies and minimal human
+  intervention
+title: 'Kicking the Tires: Analysis, Examples, Advantages and Disadvantages (Algo
+  Trading)'
 ---
 
 The landscape of financial markets has been continuously evolving with the advent of technology, and algorithmic trading, or algo trading, stands at the forefront of this transformation. By leveraging advanced mathematical models and computer programs, algo trading allows for the execution of trades with minimal human intervention, ultimately redefining the speed and efficiency with which trading occurs.

@@ -1,10 +1,9 @@
 ---
-title: Understanding Q-Function in Reinforcement Learning Algorithms
+category: quant_concept
 description: Q-Function in reinforcement learning calculates expected rewards for
   actions and powers policy optimization with Q-learning and DQN Discover more inside
+title: Understanding Q-Function in Reinforcement Learning Algorithms
 ---
-
-
 
 ## Table of Contents
 

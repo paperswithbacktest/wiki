@@ -1,7 +1,8 @@
 ---
-title: Comprehensive Guide to Bidirectional Recurrent Neural Networks
+category: quant_concept
 description: Bidirectional recurrent neural networks provide context for improved
   sequence prediction in language and time series tasks Discover more inside
+title: Comprehensive Guide to Bidirectional Recurrent Neural Networks
 ---
 
 ![Image](images/1.png)

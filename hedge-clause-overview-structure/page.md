@@ -1,6 +1,9 @@
 ---
-title: "Hedge Clause: Overview and Structure (Algo Trading)"
-description: "Explore hedge clauses in algorithmic trading with insights into their role in risk management and legal compliance in financial contracts to ensure market stability."
+category: quant_concept
+description: Explore hedge clauses in algorithmic trading with insights into their
+  role in risk management and legal compliance in financial contracts to ensure market
+  stability.
+title: 'Hedge Clause: Overview and Structure (Algo Trading)'
 ---
 
 The financial industry is marked by intricate terminologies and concepts that form the backbone of its legal security and operational flow. One such concept of considerable importance within financial contracts is that of hedge clauses, especially relevant in the context of algorithmic trading. These clauses play a crucial role in delineating the boundaries of risk and liability, thereby facilitating smoother transactions in an environment characterized by volatility and rapid market movements.

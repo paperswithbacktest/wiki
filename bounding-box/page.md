@@ -1,7 +1,8 @@
 ---
-title: Comprehensive Guide to Bounding Boxes in Object Detection
+category: quant_concept
 description: Bounding Boxes are essential for precise object detection in images from
   annotation methods to regression and suppression techniques Discover more inside.
+title: Comprehensive Guide to Bounding Boxes in Object Detection
 ---
 
 ![Image](images/1.jpeg)

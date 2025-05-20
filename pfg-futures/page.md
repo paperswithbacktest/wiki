@@ -1,6 +1,12 @@
 ---
-title: "PFG Futures (Algo Trading)"
-description: Discover the power of algorithmic trading with PFG Futures where advanced technology meets strategic execution. Boost your trading efficiency and precision in the fast-paced futures market with cutting-edge platforms and real-time data integration, ideal for seasoned traders seeking competitive edge and superior performance. Leverage our customizable trading environment to refine and deploy strategies that minimize errors and maximize returns. Embrace the future of trading with PFG Futures.
+category: trading_strategy
+description: Discover the power of algorithmic trading with PFG Futures where advanced
+  technology meets strategic execution. Boost your trading efficiency and precision
+  in the fast-paced futures market with cutting-edge platforms and real-time data
+  integration, ideal for seasoned traders seeking competitive edge and superior performance.
+  Leverage our customizable trading environment to refine and deploy strategies that
+  minimize errors and maximize returns. Embrace the future of trading with PFG Futures.
+title: PFG Futures (Algo Trading)
 ---
 
 Algorithmic trading, commonly referred to as algo trading, involves the use of computer algorithms to execute trading orders with minimal human intervention, based on predefined rules and strategies. This method is particularly advantageous in futures trading, where speed and precision are paramount. By leveraging computational power, traders can conduct trades at high speed and volume, something that is nearly impossible through manual trading.

@@ -1,6 +1,9 @@
 ---
-title: "Commodity Research Bureau Index and Weightings (Algo Trading)"
-description: "Explore the Commodity Research Bureau Index its components and impact on algo trading Discover how CRBI aids in risk management and strategic investment decisions"
+category: dataset
+description: Explore the Commodity Research Bureau Index its components and impact
+  on algo trading Discover how CRBI aids in risk management and strategic investment
+  decisions
+title: Commodity Research Bureau Index and Weightings (Algo Trading)
 ---
 
 The Commodity Research Bureau Index (CRBI) stands as a crucial indicator for global commodity markets, reflecting vital changes and trends in these dynamic sectors. Comprised of 19 distinct commodities, the CRB Index is meticulously structured to provide a comprehensive snapshot of price fluctuations across a diverse range of markets. This carefully curated composition enables investors, analysts, and traders to gauge broad market movements, offering a macroeconomic perspective essential for informed decision-making.

@@ -1,6 +1,8 @@
 ---
-title: "Binomial options pricing model (Algo Trading)"
-description: "Explore the Binomial Option Pricing Model, a key tool in algorithmic trading, for accurately valuing options by simulating potential asset price paths."
+category: quant_concept
+description: Explore the Binomial Option Pricing Model, a key tool in algorithmic
+  trading, for accurately valuing options by simulating potential asset price paths.
+title: Binomial options pricing model (Algo Trading)
 ---
 
 The world of finance is intricate and multi-faceted, involving a range of complex instruments that are designed to manage risk and enhance returns. Among these financial instruments, options play a critical role. As a key financial derivative, options grant the holder the right, but not the obligation, to buy or sell an underlying asset, such as stocks or commodities. This unique feature of options allows market participants to leverage them for various purposes, including risk management and speculative activities.

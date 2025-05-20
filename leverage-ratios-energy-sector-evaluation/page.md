@@ -1,6 +1,8 @@
 ---
-title: "Leverage Ratios in Energy Sector Evaluation (Algo Trading)"
-description: "Explore leverage ratios to assess financial health in the energy sector and enhance algorithmic trading strategies Gain insights into key risk metrics"
+category: trading_strategy
+description: Explore leverage ratios to assess financial health in the energy sector
+  and enhance algorithmic trading strategies Gain insights into key risk metrics
+title: Leverage Ratios in Energy Sector Evaluation (Algo Trading)
 ---
 
 The energy sector stands as a cornerstone of global economics, primarily because of its critical role in powering industries, households, and transportation across the globe. The capital-intensive nature of the energy industry means that firms operate on substantial financial frameworks often characterized by high leverage. Understanding the financial health of these energy companies is essential, as their operations typically involve significant debt obligations relative to their equity, which can impact their financial stability and investment potential.

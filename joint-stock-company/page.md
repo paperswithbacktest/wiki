@@ -1,6 +1,9 @@
 ---
-title: "Joint-Stock Company (Algo Trading)"
-description: "Explore how joint-stock companies have evolved from historic trade facilitators to modern corporations utilizing algorithmic trading improving market efficiency and global impact."
+category: quant_concept
+description: Explore how joint-stock companies have evolved from historic trade facilitators
+  to modern corporations utilizing algorithmic trading improving market efficiency
+  and global impact.
+title: Joint-Stock Company (Algo Trading)
 ---
 
 Joint-stock companies have profoundly shaped economic history since their inception in the late Middle Ages. Emerging as a mechanism for pooling capital and sharing risk, these companies facilitated large-scale ventures that were previously unattainable. The creation of joint-stock companies marked a critical evolution from partnerships and sole proprietorships, providing a framework for collective investment and shared ownership that proved essential for pioneering enterprises.

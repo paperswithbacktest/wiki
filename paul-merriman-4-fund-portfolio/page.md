@@ -1,6 +1,14 @@
 ---
-title: "Paul Merriman 4-Fund Portfolio Explained (Algo Trading)"
-description: Explore the Paul Merriman 4 Fund Portfolio, a simple yet effective investment strategy leveraging the power of algorithmic trading for maximizing returns. This widely recognized portfolio combines equal allocations in four asset classes including S&P 500, Large Cap Value, Small Cap Blend, and Small Cap Value to optimize diversification and capitalize on various risk premiums. Discover how merging this traditional, sophisticated portfolio with cutting-edge algorithmic trading can offer robust, risk-adjusted investment opportunities for both novice and seasoned investors seeking long-term financial growth.
+category: trading_strategy
+description: Explore the Paul Merriman 4 Fund Portfolio, a simple yet effective investment
+  strategy leveraging the power of algorithmic trading for maximizing returns. This
+  widely recognized portfolio combines equal allocations in four asset classes including
+  S&P 500, Large Cap Value, Small Cap Blend, and Small Cap Value to optimize diversification
+  and capitalize on various risk premiums. Discover how merging this traditional,
+  sophisticated portfolio with cutting-edge algorithmic trading can offer robust,
+  risk-adjusted investment opportunities for both novice and seasoned investors seeking
+  long-term financial growth.
+title: Paul Merriman 4-Fund Portfolio Explained (Algo Trading)
 ---
 
 The Paul Merriman 4 Fund Portfolio is renowned for its unique, straightforward structure that appeals to both novice and experienced investors. It comprises equally-weighted allocations among four diverse asset classes—S&P 500, Large Cap Value, Small Cap Blend, and Small Cap Value—each selected to capitalize on varying risk premiums and enhance diversification. The 4 Fund Portfolio is strategically designed to exploit size and value factors, which historically have been associated with achieving superior investment returns. As a "lazy portfolio," its focus is on minimal intervention and a long-term holding strategy, making it accessible to a broad range of investors who seek simplicity without sacrificing performance.

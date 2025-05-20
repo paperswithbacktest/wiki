@@ -1,7 +1,8 @@
 ---
-title: Understanding Multi-Head Self-Attention in Machine Learning
+category: quant_concept
 description: Multi-Head Self-Attention improves data understanding by using multiple
   attention heads to capture diverse patterns and relationships Discover more inside
+title: Understanding Multi-Head Self-Attention in Machine Learning
 ---
 
 ![Image](images/1.webp)

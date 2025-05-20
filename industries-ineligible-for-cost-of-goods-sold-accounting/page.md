@@ -1,6 +1,9 @@
 ---
-title: "Industries Ineligible for Cost of Goods Sold Accounting (Algo Trading)"
-description: "Explore why algorithmic trading and similar sectors are ineligible for Cost of Goods Sold accounting due to their unique cost structures focused on intangible assets and services."
+category: quant_concept
+description: Explore why algorithmic trading and similar sectors are ineligible for
+  Cost of Goods Sold accounting due to their unique cost structures focused on intangible
+  assets and services.
+title: Industries Ineligible for Cost of Goods Sold Accounting (Algo Trading)
 ---
 
 Cost of Goods Sold (COGS) is a fundamental component in accounting that represents the direct costs attributable to the production of goods sold by a company. These costs typically include expenses related to raw materials, direct labor, and manufacturing overhead, all of which are integral in determining the gross profit of a business. The formula for calculating COGS is often expressed as:

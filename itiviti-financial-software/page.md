@@ -1,6 +1,8 @@
 ---
-title: "Itiviti Financial Software (Algo Trading)"
-description: "Discover Itiviti's cutting-edge trading software, optimizing algorithmic trading, risk management, and connectivity, empowering financial institutions globally."
+category: quant_concept
+description: Discover Itiviti's cutting-edge trading software, optimizing algorithmic
+  trading, risk management, and connectivity, empowering financial institutions globally.
+title: Itiviti Financial Software (Algo Trading)
 ---
 
 In the world of financial technology, Itiviti emerges as a prominent provider of trading software solutions. The company specializes in trading execution, risk management, and connectivity, establishing itself as a pivotal player in enabling algorithmic trading across global capital markets. Algorithmic trading, or algo trading, involves the use of complex algorithms to execute trades at speeds and frequencies beyond human capacity. Itiviti's platforms are precisely designed to accommodate these sophisticated strategies, enhancing liquidity and minimizing human error in trading processes.

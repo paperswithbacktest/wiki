@@ -1,6 +1,14 @@
 ---
-title: "Diluted Earnings Per Share (Algo Trading)"
-description: "Explore the importance of Diluted Earnings Per Share (Diluted EPS) in financial analysis and algorithmic trading. This comprehensive guide covers how Diluted EPS evaluates company profitability by factoring in convertible securities like stock options and warrants. Learn to differentiate between basic EPS and Diluted EPS, understand their calculations, and leverage these insights for better-informed investment and trading strategies. Discover how Diluted EPS offers a conservative estimate of earnings, providing a worst-case scenario for potential share dilution and enhancing decision-making for investors and traders."
+category: quant_concept
+description: Explore the importance of Diluted Earnings Per Share (Diluted EPS) in
+  financial analysis and algorithmic trading. This comprehensive guide covers how
+  Diluted EPS evaluates company profitability by factoring in convertible securities
+  like stock options and warrants. Learn to differentiate between basic EPS and Diluted
+  EPS, understand their calculations, and leverage these insights for better-informed
+  investment and trading strategies. Discover how Diluted EPS offers a conservative
+  estimate of earnings, providing a worst-case scenario for potential share dilution
+  and enhancing decision-making for investors and traders.
+title: Diluted Earnings Per Share (Algo Trading)
 ---
 
 In today's fast-paced financial markets, the ability to interpret and leverage key financial indicators is critical for investors and traders. One such important metric is Diluted Earnings Per Share (Diluted EPS), which plays a pivotal role in assessing a company's profitability potential, especially when convertible securities are involved. Diluted EPS provides a more nuanced view of earnings by considering the impact of convertible securities such as stock options, warrants, and convertible bonds on the ownership structure of a company.

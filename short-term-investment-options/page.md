@@ -1,6 +1,14 @@
 ---
-title: "Short-Term Investment Options (Algo Trading)"
-description: "Explore short-term investment options and algorithmic trading strategies to enhance financial planning. Discover how these investments offer liquidity and capital preservation while algo trading maximizes trading efficiency and potential returns. Learn about the benefits and challenges of short-term investment vehicles like money market accounts, treasury bills, and certificates of deposit, and how they differ from long-term strategies. This guide provides insights into utilizing these financial tools to achieve tailored financial goals including capital growth, liquidity management, and risk reduction."
+category: trading_strategy
+description: Explore short-term investment options and algorithmic trading strategies
+  to enhance financial planning. Discover how these investments offer liquidity and
+  capital preservation while algo trading maximizes trading efficiency and potential
+  returns. Learn about the benefits and challenges of short-term investment vehicles
+  like money market accounts, treasury bills, and certificates of deposit, and how
+  they differ from long-term strategies. This guide provides insights into utilizing
+  these financial tools to achieve tailored financial goals including capital growth,
+  liquidity management, and risk reduction.
+title: Short-Term Investment Options (Algo Trading)
 ---
 
 Financial planning is a crucial component in achieving both personal and corporate financial goals. It involves the strategic allocation of resources to maximize returns, minimize risks, and meet specific financial objectives. Short-term investments and algorithmic trading represent two vital strategies in financial planning. Short-term investments generally refer to investment vehicles that are typically held for one year or less. These investments are characterized by their liquidity and ability to quickly convert to cash, making them useful for addressing immediate or near-term financial needs.

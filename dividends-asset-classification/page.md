@@ -1,6 +1,8 @@
 ---
-title: "Dividends and Asset Classification (Algo Trading)"
-description: "Understand the vital role of dividends and financial asset classification in today's finance landscape and how algorithmic trading reshapes investment strategies."
+category: quant_concept
+description: Understand the vital role of dividends and financial asset classification
+  in today's finance landscape and how algorithmic trading reshapes investment strategies.
+title: Dividends and Asset Classification (Algo Trading)
 ---
 
 In the ever-evolving world of finance, understanding the classification of financial assets and the role of dividends is crucial. The financial landscape is increasingly complex, with investors and financial professionals constantly seeking ways to optimize returns and manage risks. At the heart of this complexity lie dividends, financial assets, and the transformative power of technology, notably algorithmic trading.

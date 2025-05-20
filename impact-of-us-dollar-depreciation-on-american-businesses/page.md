@@ -1,6 +1,9 @@
 ---
-title: "Impact of U.S. Dollar Depreciation on American Businesses (Algo Trading)"
-description: "Explore how US dollar depreciation impacts American businesses particularly those in global trade Learn about algorithmic trading as a strategic response to currency fluctuations"
+category: quant_concept
+description: Explore how US dollar depreciation impacts American businesses particularly
+  those in global trade Learn about algorithmic trading as a strategic response to
+  currency fluctuations
+title: Impact of U.S. Dollar Depreciation on American Businesses (Algo Trading)
 ---
 
 In today's interconnected global economy, the US dollar is the cornerstone of international finance as a primary reserve currency. Its stability and widespread acceptance make it a bedrock for global commerce. However, when the value of the US dollar depreciates, it can create significant challenges for American businesses, particularly those involved in international trade. Dollar depreciation refers to a decline in the dollar's value relative to other currencies and can be driven by factors such as inflation, variations in interest rates, and shifts in national fiscal policy.

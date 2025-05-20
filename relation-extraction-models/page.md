@@ -1,7 +1,8 @@
 ---
-title: Relation Extraction Models and Applications in Machine Learning
+category: quant_concept
 description: Relation Extraction turns unstructured text into structured data by detecting
   relationships with models such as HEGCN and CubeRE Discover more inside
+title: Relation Extraction Models and Applications in Machine Learning
 ---
 
 ![Image](images/1.png)

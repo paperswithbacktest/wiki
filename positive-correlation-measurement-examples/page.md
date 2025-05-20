@@ -1,6 +1,12 @@
 ---
-title: "Positive Correlation: Measurement and Examples (Algo Trading)"
-description: "Explore the essential role of positive correlation in algorithmic trading and its impact on strategies and risk management. This article investigates into statistical measurements like the Pearson correlation coefficient to illustrate market behaviors, offering insights into positive and negative correlations with real-world examples. Learn how understanding correlation enables more informed decision-making, enhances trading strategies, and optimizes financial outcomes."
+category: quant_concept
+description: Explore the essential role of positive correlation in algorithmic trading
+  and its impact on strategies and risk management. This article investigates into
+  statistical measurements like the Pearson correlation coefficient to illustrate
+  market behaviors, offering insights into positive and negative correlations with
+  real-world examples. Learn how understanding correlation enables more informed decision-making,
+  enhances trading strategies, and optimizes financial outcomes.
+title: 'Positive Correlation: Measurement and Examples (Algo Trading)'
 ---
 
 Correlation is a fundamental statistical concept that quantifies the degree to which two variables move in relation to each other. It plays a pivotal role across various fields, including finance, economics, psychology, and more. At its core, correlation is a measure of dependency, signifying whether and how strongly pairs of variables are related. The two main types of correlation are positive and negative correlation. Positive correlation occurs when an increase in one variable tends to be associated with an increase in another, while negative correlation implies that as one variable increases, the other tends to decrease.

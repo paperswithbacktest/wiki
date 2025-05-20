@@ -1,6 +1,8 @@
 ---
-title: "Allocation Rate in Automated Investment Analysis (Algo Trading)"
-description: "Explore automated investing's impact on allocation rates and algorithmic trading Learn how these tools optimize portfolio management for cost-effective returns"
+category: trading_strategy
+description: Explore automated investing's impact on allocation rates and algorithmic
+  trading Learn how these tools optimize portfolio management for cost-effective returns
+title: Allocation Rate in Automated Investment Analysis (Algo Trading)
 ---
 
 In the changing landscape of investing, automation and advanced algorithms are fundamentally altering traditional methodologies. As technology progresses, there is a noteworthy convergence between allocation rates, automated investment, and algorithmic trading. These components are integral to modernizing investment strategies and enhancing decision-making processes.

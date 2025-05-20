@@ -1,6 +1,8 @@
 ---
-title: "Inclusion of Dividends in the S&P 500 Index (Algo Trading)"
-description: "Enhance your investment strategy by integrating algorithmic trading with dividend stocks in the S&P 500 Index for optimized returns and portfolio performance."
+category: trading_strategy
+description: Enhance your investment strategy by integrating algorithmic trading with
+  dividend stocks in the S&P 500 Index for optimized returns and portfolio performance.
+title: Inclusion of Dividends in the S&P 500 Index (Algo Trading)
 ---
 
 In the rapidly evolving world of finance, investors are continually seeking innovative strategies to maximize their returns. One strategy that has gained significant attention is algorithmic trading, particularly when applied to dividend stock indices like the S&P 500. Dividend stocks represent shares in companies that consistently pay dividends to shareholders, offering both a source of regular income and potential for capital appreciation. The S&P 500 index, a market-capitalization-weighted index, consists of 500 of the largest publicly traded companies in the United States and is widely regarded as a benchmark for the overall stock market. 

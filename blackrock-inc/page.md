@@ -1,6 +1,8 @@
 ---
-title: "BlackRock Inc. (Algo Trading)"
-description: "Explore BlackRock Inc.'s leadership in asset management and algorithmic trading with Aladdin leveraging technology to drive investment efficiency and innovation."
+category: quant_concept
+description: Explore BlackRock Inc.'s leadership in asset management and algorithmic
+  trading with Aladdin leveraging technology to drive investment efficiency and innovation.
+title: BlackRock Inc. (Algo Trading)
 ---
 
 BlackRock Inc. is recognized as the world's largest asset management firm, commanding significant influence and resources within global financial markets. Established in 1988, BlackRock has evolved into a pivotal institution within the investment management sector. As of 2023, the firm manages assets worth over $10 trillion, making it a central figure in both institutional and retail investing landscapes. BlackRock offers a diverse range of investment solutions, including mutual funds, ETFs, and tailored investment strategies for institutions and individuals alike.
@@ -129,4 +131,3 @@ Finally, technology remains a cornerstone for shaping the investment landscape, 
 [4]: Ricketts, C. (2021). ["Inside Aladdin: How BlackRock's man in charge of 'the matrix' of finance wields his power to help save the world."](https://en.wikipedia.org/wiki/Pete_Ricketts) Insider.
 
 [5]: ["Advancing Financial Machine Learning"](https://github.com/doda/fincl) by Marcos Lopez de Prado.
-

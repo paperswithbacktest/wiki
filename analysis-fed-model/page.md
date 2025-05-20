@@ -1,6 +1,9 @@
 ---
-title: "Analysis of the Fed Model (Algo Trading)"
-description: "Explore the fusion of financial analysis and algorithmic trading with the Fed Model Learn its role in comparing stock yields to bond yields for investment insight"
+category: trading_strategy
+description: Explore the fusion of financial analysis and algorithmic trading with
+  the Fed Model Learn its role in comparing stock yields to bond yields for investment
+  insight
+title: Analysis of the Fed Model (Algo Trading)
 ---
 
 In recent years, the increased fusion of financial analysis with algorithmic trading has captured significant interest among investors. As markets become more complex and data-driven, the integration of traditional valuation models with advanced trading algorithms is paramount. Within this evolving landscape, the Fed Model has emerged as an essential tool for investment evaluation. This model provides a framework for comparing the earnings yield of stocks, represented by the S&P 500 Index, against the yield on 10-year Treasury bonds. By balancing these metrics, investors can gauge whether stock prices accurately reflect their risk-reward potential compared to fixed-income securities.

@@ -1,6 +1,13 @@
 ---
-title: "Deleveraging (Algo Trading)"
-description: Explore the interaction between deleveraging and algorithmic trading on this page. Delve into how deleveraging, a method of reducing leverage to minimize risk during volatile market conditions, affects algorithmic trading strategies. Understand the crucial role of risk management and the ways in which these automated systems adapt to maintain stability and profitability. Gain insights into the implications of market changes on trading algorithms and discover strategies to effectively manage risk in dynamic financial environments.
+category: quant_concept
+description: Explore the interaction between deleveraging and algorithmic trading
+  on this page. Delve into how deleveraging, a method of reducing leverage to minimize
+  risk during volatile market conditions, affects algorithmic trading strategies.
+  Understand the crucial role of risk management and the ways in which these automated
+  systems adapt to maintain stability and profitability. Gain insights into the implications
+  of market changes on trading algorithms and discover strategies to effectively manage
+  risk in dynamic financial environments.
+title: Deleveraging (Algo Trading)
 ---
 
 Algorithmic trading, commonly referred to as algo trading, involves the use of automated and pre-programmed systems to execute trades in the financial markets. These systems utilize complex mathematical models and algorithms to make decisions concerning the timing, price, and quantity of orders. The significance of algorithmic trading lies in its ability to execute trades at speeds and volumes unimaginable by human traders, thus enhancing market liquidity and reducing transaction costs. Algo trading minimizes human emotions in decision-making, leading to more disciplined trading behavior.

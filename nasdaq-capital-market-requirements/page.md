@@ -1,6 +1,8 @@
 ---
-title: "Nasdaq Capital Market Requirements (Algo Trading)"
-description: "Explore the dual themes of Nasdaq Capital Market requirements and algorithmic trading's role in trading efficiency liquidity and market dynamics."
+category: dataset
+description: Explore the dual themes of Nasdaq Capital Market requirements and algorithmic
+  trading's role in trading efficiency liquidity and market dynamics.
+title: Nasdaq Capital Market Requirements (Algo Trading)
 ---
 
 The Nasdaq Capital Market (Nasdaq-CM) is a significant segment within the broader Nasdaq Stock Market framework, tailored primarily to accommodate smaller companies aiming to become publicly traded entities. Its key role stems from providing these companies with the opportunity to access capital and achieve growth while ensuring they adhere to regulatory and listing requirements. Nasdaq-CM's importance is underscored by the fact that it serves as a platform for companies with potentially lower market capitalizations and financial metrics, while still offering them visibility and credibility among investors.

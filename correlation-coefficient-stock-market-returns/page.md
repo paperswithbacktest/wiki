@@ -1,6 +1,9 @@
 ---
-title: "Correlation Coefficient and Stock Market Returns (Algo Trading)"
-description: "Explore the relationship between correlation coefficients and stock market returns in algorithmic trading to enhance investment strategies and optimize portfolio performance."
+category: quant_concept
+description: Explore the relationship between correlation coefficients and stock market
+  returns in algorithmic trading to enhance investment strategies and optimize portfolio
+  performance.
+title: Correlation Coefficient and Stock Market Returns (Algo Trading)
 ---
 
 Understanding the dynamics of the stock market is crucial for investors seeking to optimize their returns. In this era of quantitative finance, algorithms have become pivotal in predicting stock market trends, leveraging statistical tools to enhance decision-making processes. One such tool is the correlation coefficient, a measure that quantifies the degree to which two securities move in relation to each other. This statistical measure is foundational in financial analysis, particularly in assessing asset relationships and portfolio diversification.

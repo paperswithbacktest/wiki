@@ -1,6 +1,8 @@
 ---
-title: "Comparison of Real Estate and Stock Investments (Algo Trading)"
-description: "Explore the benefits and challenges of real estate, stock market, and algorithmic trading investments to help you make informed financial decisions."
+category: trading_strategy
+description: Explore the benefits and challenges of real estate, stock market, and
+  algorithmic trading investments to help you make informed financial decisions.
+title: Comparison of Real Estate and Stock Investments (Algo Trading)
 ---
 
 The investment landscape presents a multitude of options, each with its unique set of opportunities and challenges. Diversification stands as a cornerstone of prudent investing, designed to mitigate risk by spreading capital across various asset classes. This practice aims to balance the potential for returns with the investor's risk tolerance, crucial in navigating the uncertainties of financial markets.

@@ -1,6 +1,8 @@
 ---
-title: "Major Deflationary Periods in United States History (Algo Trading)"
-description: "Discover key historical deflationary periods in U.S. history and their economic impacts Learn how these insights can enhance algorithmic trading strategies"
+category: quant_concept
+description: Discover key historical deflationary periods in U.S. history and their
+  economic impacts Learn how these insights can enhance algorithmic trading strategies
+title: Major Deflationary Periods in United States History (Algo Trading)
 ---
 
 Deflation is a fundamental economic phenomenon that has significantly influenced various historical periods in the United States. Defined as the opposite of inflation, deflation entails a decrease in the general price level of goods and services. It reflects a contraction in consumer demand or an expansion in production capacity, both of which can lead to a sustained decline in prices. Various sectors may experience these changes, influencing overall economic activity.

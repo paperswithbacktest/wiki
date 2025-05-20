@@ -1,6 +1,8 @@
 ---
-title: "Reserve Bank of Australia: Overview and History (Algo Trading)"
-description: "Discover the Reserve Bank of Australia's role in shaping economic policies and examine the rise of algorithmic trading that influences global financial systems."
+category: quant_concept
+description: Discover the Reserve Bank of Australia's role in shaping economic policies
+  and examine the rise of algorithmic trading that influences global financial systems.
+title: 'Reserve Bank of Australia: Overview and History (Algo Trading)'
 ---
 
 The Reserve Bank of Australia (RBA) acts as Australia's central bank, playing a pivotal role in shaping the nation's monetary policy framework. It is integral to ensuring economic stability and prosperity. From its establishment in the mid-20th century, the RBA has evolved as an authoritative entity that manages the country's monetary policy, oversees financial stability, and aids in economic growth. Examining its historical development and functions enables one to understand its extensive influence on Australia's economy and international financial markets.

@@ -1,6 +1,14 @@
 ---
-title: "Trading Bias Explained (Algo Trading)"
-description: Understanding and addressing trading bias is essential for success in algorithmic trading. These biases, often driven by emotional interference, can lead to irrational decision-making and impact financial results. The article explores common trading biases such as overconfidence and loss aversion, their effects on trading performance, and strategies to mitigate them. By minimizing these biases through a quantitative approach, traders can enhance their decision-making process, ensuring a more disciplined and objective trading strategy that optimizes performance and profit potential.
+category: quant_concept
+description: Understanding and addressing trading bias is essential for success in
+  algorithmic trading. These biases, often driven by emotional interference, can lead
+  to irrational decision-making and impact financial results. The article explores
+  common trading biases such as overconfidence and loss aversion, their effects on
+  trading performance, and strategies to mitigate them. By minimizing these biases
+  through a quantitative approach, traders can enhance their decision-making process,
+  ensuring a more disciplined and objective trading strategy that optimizes performance
+  and profit potential.
+title: Trading Bias Explained (Algo Trading)
 ---
 
 Understanding trading bias is crucial in algorithmic trading, as these behavioral mistakes can significantly impact decision-making processes. Trading biases often occur when emotions influence judgments, leading to irrational decisions that can adversely affect financial outcomes. In algorithmic trading, where precision and logic are paramount, allowing emotions to interfere can result in suboptimal performance.

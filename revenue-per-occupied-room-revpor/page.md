@@ -1,6 +1,8 @@
 ---
-title: "Revenue Per Occupied Room (RevPOR) (Algo Trading)"
-description: "Master hotel revenue management with a focus on RevPOR to optimize guest spending and ancillary revenues using data-driven strategies for maximum profitability."
+category: quant_concept
+description: Master hotel revenue management with a focus on RevPOR to optimize guest
+  spending and ancillary revenues using data-driven strategies for maximum profitability.
+title: Revenue Per Occupied Room (RevPOR) (Algo Trading)
 ---
 
 In an ever-evolving hospitality landscape, understanding and leveraging effective revenue management strategies are crucial for maximizing profitability. Hoteliers today face the challenge of optimizing a complex mix of revenue streams to stay competitive. This article examines pivotal hotel revenue metrics, with a particular focus on the often overlooked Revenue Per Occupied Room (RevPOR). RevPOR is a vital metric that provides insights into guest spending behavior and evaluates the effectiveness of various ancillary services offered by hotels. Unlike other metrics, such as Revenue Per Available Room (RevPAR), which provides a broad view of overall room revenue, RevPOR allows hoteliers to micro-analyze guest spending and enhance ancillary revenues.

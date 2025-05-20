@@ -1,6 +1,9 @@
 ---
-title: "AQR Capital Management (Algo Trading)"
-description: "Explore AQR Capital Management's pioneering role in algorithmic trading using data-driven strategies to optimize portfolio management and achieve consistent returns."
+category: quant_concept
+description: Explore AQR Capital Management's pioneering role in algorithmic trading
+  using data-driven strategies to optimize portfolio management and achieve consistent
+  returns.
+title: AQR Capital Management (Algo Trading)
 ---
 
 Algorithmic trading has revolutionized the financial industry by enabling trading decisions to be executed at unprecedented speeds and frequencies. This technological advancement has not only increased the efficiency of transactions but also transformed investment strategies across the globe. AQR Capital Management stands at the forefront of this transformation, leveraging its unique synergy between academic research and practical financial applications to maintain a competitive edge.

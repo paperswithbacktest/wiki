@@ -1,6 +1,8 @@
 ---
-title: "Quasi-Public Corporations: Overview and Functioning (Algo Trading)"
-description: "Discover the dynamics of quasi-public corporations blending public mandates with private efficiencies in global economies highlighting their role in algo trading."
+category: quant_concept
+description: Discover the dynamics of quasi-public corporations blending public mandates
+  with private efficiencies in global economies highlighting their role in algo trading.
+title: 'Quasi-Public Corporations: Overview and Functioning (Algo Trading)'
 ---
 
 The landscape of modern economic structures is continuously evolving, marked by a growing interconnection between public mandates and private capabilities. This evolving framework is significantly influenced by public-private partnerships and quasi-public corporations, which are pivotal in shaping global economies. These hybrid structures combine the strengths of both sectors to address complex economic and societal needs.

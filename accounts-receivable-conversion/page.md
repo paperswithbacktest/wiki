@@ -1,6 +1,9 @@
 ---
-title: "Accounts Receivable Conversion (Algo Trading)"
-description: "Explore Accounts Receivable Conversion and algorithmic trading synergies to enhance cash flow and trading strategies. Optimize financial operations with ARC and data-driven insights."
+category: quant_concept
+description: Explore Accounts Receivable Conversion and algorithmic trading synergies
+  to enhance cash flow and trading strategies. Optimize financial operations with
+  ARC and data-driven insights.
+title: Accounts Receivable Conversion (Algo Trading)
 ---
 
 Payment processing is a fundamental aspect of the modern financial ecosystem, facilitating the movement of funds across different entities. An optimized accounts receivable (AR) system is crucial for ensuring that businesses maintain healthy cash flow and operational efficiency. Accounts Receivable Conversion (ARC) is a process that has become instrumental in this regard. ARC enables businesses to convert paper checks into electronic payments using the Automated Clearing House (ACH) network, thereby streamlining the collection and processing of checks. This technological shift not only expedites transactions but also reduces costs associated with manual processing and improves the overall financial management for organizations.

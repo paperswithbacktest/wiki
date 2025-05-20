@@ -1,6 +1,9 @@
 ---
-title: "Intermediate and Medium-Term Debt (Algo Trading)"
-description: "Explore the intricacies of medium-term debt and algorithmic trading's role in optimizing financial strategies. Enhance debt portfolio management with tech-driven solutions."
+category: quant_concept
+description: Explore the intricacies of medium-term debt and algorithmic trading's
+  role in optimizing financial strategies. Enhance debt portfolio management with
+  tech-driven solutions.
+title: Intermediate and Medium-Term Debt (Algo Trading)
 ---
 
 In the intricate world of finance, debt management is a crucial aspect that influences both personal and corporate financial stability. Medium-term debt, characterized by maturities ranging from two to ten years, distinguishes itself from short-term and long-term debts by offering a middle ground in terms of interest rates and risk exposure. Understanding and managing these debts effectively is vital for ensuring financial health and sustainability.

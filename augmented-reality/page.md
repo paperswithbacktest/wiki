@@ -1,7 +1,8 @@
 ---
-title: Enhancing Augmented Reality With Machine Learning Techniques
+category: quant_concept
 description: Augmented Reality powered by machine learning delivers real time object
   recognition mapping and immersive personalization Discover more inside.
+title: Enhancing Augmented Reality With Machine Learning Techniques
 ---
 
 ![Image](images/1.jpeg)

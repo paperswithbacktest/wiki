@@ -1,6 +1,8 @@
 ---
-title: "Micropayments in Fintech: Definition and Mechanisms (Algo Trading)"
-description: "Explore the dynamics of micropayments in fintech, where digital platforms enable small transactions efficiently, impacting content, IoT, and in-app purchases."
+category: quant_concept
+description: Explore the dynamics of micropayments in fintech, where digital platforms
+  enable small transactions efficiently, impacting content, IoT, and in-app purchases.
+title: 'Micropayments in Fintech: Definition and Mechanisms (Algo Trading)'
 ---
 
 The financial industry is undergoing substantial transformations as innovative technologies reshape its landscape. The emergence of fintech, short for financial technology, has played a pivotal role in these changes by introducing new ways to enhance financial services for businesses and consumers. These advancements have facilitated more efficient, transparent, and accessible financial operations.

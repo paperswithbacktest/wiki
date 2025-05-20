@@ -1,6 +1,9 @@
 ---
-title: "Investment in Green Technology (Algo Trading)"
-description: "Explore how sustainable investing and green technology, combined with algorithmic trading, are transforming finance to support both economic returns and environmental goals."
+category: trading_strategy
+description: Explore how sustainable investing and green technology, combined with
+  algorithmic trading, are transforming finance to support both economic returns and
+  environmental goals.
+title: Investment in Green Technology (Algo Trading)
 ---
 
 Sustainable investing and green technology are rapidly shaping the future of finance, as they represent a transformative approach to addressing both economic and environmental challenges. As investors become increasingly eco-conscious, there is a noticeable shift towards integrating environmental, social, and governance (ESG) criteria into investment decisions. This shift is propelled by the recognition that sustainable practices can lead to long-term financial stability and resilience against climate risks.

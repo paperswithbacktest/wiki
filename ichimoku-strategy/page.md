@@ -1,6 +1,14 @@
 ---
-title: "Ichimoku Strategy (Algo Trading)"
-description: Discover the significance of the Ichimoku Cloud strategy in algorithmic trading with this comprehensive guide. Learn how this versatile technical indicator, developed in Japan, offers a multidimensional analysis of market conditions by incorporating trends, support and resistance levels, and momentum. Explore the five key components of the Ichimoku Cloud and understand their role in trend identification and potential price movements. This article provides insights on effectively implementing the Ichimoku strategy using Python to enhance trading performance, while discussing the best time frames and risk management practices for its application.
+category: trading_strategy
+description: Discover the significance of the Ichimoku Cloud strategy in algorithmic
+  trading with this comprehensive guide. Learn how this versatile technical indicator,
+  developed in Japan, offers a multidimensional analysis of market conditions by incorporating
+  trends, support and resistance levels, and momentum. Explore the five key components
+  of the Ichimoku Cloud and understand their role in trend identification and potential
+  price movements. This article provides insights on effectively implementing the
+  Ichimoku strategy using Python to enhance trading performance, while discussing
+  the best time frames and risk management practices for its application.
+title: Ichimoku Strategy (Algo Trading)
 ---
 
 In algorithmic trading, technical indicators are indispensable for crafting effective trading strategies. Among these indicators, the Ichimoku Cloud stands out for its ability to provide a comprehensive analysis of market conditions, including trends, support and resistance levels, and momentum. This article focuses on the Ichimoku Cloud trading strategy and its significance in algorithmic trading. We will explore the components that constitute the Ichimoku Cloud, evaluate its effectiveness, and demonstrate the process of implementing this strategy using Python.

@@ -1,6 +1,9 @@
 ---
-title: "Major Stock Exchanges of the Caribbean (Algo Trading)"
-description: "Discover the vibrant financial markets of the Caribbean with thriving stock exchanges in countries like Jamaica and Barbados offering diverse investment opportunities."
+category: dataset
+description: Discover the vibrant financial markets of the Caribbean with thriving
+  stock exchanges in countries like Jamaica and Barbados offering diverse investment
+  opportunities.
+title: Major Stock Exchanges of the Caribbean (Algo Trading)
 ---
 
 The Caribbean, widely recognized for its stunning beaches and vibrant tourism sector, is also home to a growing network of financial markets. These markets, anchored by various regional stock exchanges, are gaining prominence and attracting attention from global investors. While the region's appeal has traditionally revolved around its natural beauty and cultural richness, its financial landscape is becoming an area of significant economic potential.

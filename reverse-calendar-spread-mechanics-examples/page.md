@@ -1,6 +1,9 @@
 ---
-title: "Reverse Calendar Spread: Mechanics and Examples (Algo Trading)"
-description: "Explore the mechanics of a reverse calendar spread strategy in algorithmic trading designed to profit from market volatility by using options with differing expirations."
+category: trading_strategy
+description: Explore the mechanics of a reverse calendar spread strategy in algorithmic
+  trading designed to profit from market volatility by using options with differing
+  expirations.
+title: 'Reverse Calendar Spread: Mechanics and Examples (Algo Trading)'
 ---
 
 Options trading offers numerous strategies for investors to capitalize on market movements. Among these, the reverse calendar spread stands out as a sophisticated approach designed for those aiming to profit from volatility. This financial strategy involves the simultaneous buying and selling of options on the same underlying asset, with the unique twist of differing expiration dates. Unlike the traditional calendar spread, which benefits from time decay working in favor of the option seller, the reverse calendar spread exploits significant market movements in either direction before the near-term option expires.

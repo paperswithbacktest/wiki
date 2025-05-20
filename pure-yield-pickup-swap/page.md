@@ -1,6 +1,9 @@
 ---
-title: "Pure Yield Pickup Swap (Algo Trading)"
-description: "Discover how interest rate swaps, yield pickup strategies, and algorithmic trading synergize to enhance fixed income portfolios for optimal returns and risk management."
+category: trading_strategy
+description: Discover how interest rate swaps, yield pickup strategies, and algorithmic
+  trading synergize to enhance fixed income portfolios for optimal returns and risk
+  management.
+title: Pure Yield Pickup Swap (Algo Trading)
 ---
 
 The world of fixed income investing offers a myriad of strategies designed to optimize returns and manage risks. Among these, interest rate swaps, yield pickup strategies, and algorithmic trading stand out as potent tools for enhancing fixed income portfolios. Understanding the synergy between these elements plays a crucial role in crafting advanced investment strategies. 

@@ -1,6 +1,9 @@
 ---
-title: "Botswana Pula: History and Forex Market (Algo Trading)"
-description: "Explore the Botswana Pula as a stable and intriguing investment in forex markets. Discover how algorithmic trading enhances opportunities and manages risks effectively."
+category: dataset
+description: Explore the Botswana Pula as a stable and intriguing investment in forex
+  markets. Discover how algorithmic trading enhances opportunities and manages risks
+  effectively.
+title: 'Botswana Pula: History and Forex Market (Algo Trading)'
 ---
 
 Forex trading and algorithmic trading have revolutionized the financial markets, offering traders sophisticated tools to analyze and execute trades. In this rapidly evolving environment, the Botswana Pula (BWP) emerges as a unique investment opportunity. The BWP is not only a symbol of Botswana's economic stability but also an intriguing subject for traders looking to diversify their forex portfolios.

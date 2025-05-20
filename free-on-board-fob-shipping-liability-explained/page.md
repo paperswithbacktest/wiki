@@ -1,6 +1,9 @@
 ---
-title: "Free on Board (FOB): Shipping Liability Explained (Algo Trading)"
-description: "Explore the critical role of Free on Board (FOB) terms in international trade Understand how FOB affects shipping liability and impacts algorithmic trading decisions"
+category: quant_concept
+description: Explore the critical role of Free on Board (FOB) terms in international
+  trade Understand how FOB affects shipping liability and impacts algorithmic trading
+  decisions
+title: 'Free on Board (FOB): Shipping Liability Explained (Algo Trading)'
 ---
 
 Free on Board (FOB) is a fundamental term in international trade that has significant implications beyond the simple mechanics of shipping. Understanding FOB is essential as it establishes the point at which the responsibility and ownership of goods transfer from the seller to the buyer. This seemingly straightforward term carries with it complex considerations related to legal liability, insurance, and financial responsibilities that can significantly impact trade transactions.

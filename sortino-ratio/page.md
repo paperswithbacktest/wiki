@@ -1,6 +1,12 @@
 ---
-title: "Sortino Ratio Explained (Algo Trading)"
-description: Explore the importance of the Sortino Ratio in algorithmic trading and its focus on downside risk adjustment for optimal investment performance Track how this metric surpasses traditional measures by isolating negative volatility providing traders with a refined view of risk management and strategy assessment Learn how to calculate and interpret a strong Sortino Ratio for enhanced insights in complex trading environments
+category: quant_concept
+description: Explore the importance of the Sortino Ratio in algorithmic trading and
+  its focus on downside risk adjustment for optimal investment performance Track how
+  this metric surpasses traditional measures by isolating negative volatility providing
+  traders with a refined view of risk management and strategy assessment Learn how
+  to calculate and interpret a strong Sortino Ratio for enhanced insights in complex
+  trading environments
+title: Sortino Ratio Explained (Algo Trading)
 ---
 
 Algorithmic trading, a fusion of finance and technology, depends on carefully crafted strategies and performance metrics to achieve optimal results. Central among these metrics is the Sortino Ratio, a pivotal tool for traders and analysts assessing risk-adjusted returns with a focus on downside risk. Traditional measures, such as the Sharpe Ratio, consider both upside and downside volatility, which can obscure the true risk associated with an investment strategy. In contrast, the Sortino Ratio evaluates only downside volatility, providing a more accurate measure of an investment's performance related to potential declines. Understanding the Sortino Ratio's role in algorithmic trading equips investors to make decisions with greater insight into handling risks specific to market downturns or negative asset performance.

@@ -1,6 +1,9 @@
 ---
-title: "Company Listing Process and Examples (Algo Trading)"
-description: "Discover the intricacies of company listing on stock exchanges and the impact of algorithmic trading Explore essential listing criteria and trading strategies for success"
+category: quant_concept
+description: Discover the intricacies of company listing on stock exchanges and the
+  impact of algorithmic trading Explore essential listing criteria and trading strategies
+  for success
+title: Company Listing Process and Examples (Algo Trading)
 ---
 
 In the complex and dynamic world of finance, understanding the intricacies of company listing on stock exchanges and the role of algorithmic trading is essential for investors and businesses. Stock exchanges serve as pivotal platforms where companies can raise capital by offering shares to the public, thus contributing to the broader economic growth. A public listing process involves stringent criteria and regulations to ensure that companies have the necessary financial stability and governance structures, fostering investor confidence and market integrity.

@@ -1,6 +1,8 @@
 ---
+category: dataset
+description: High-quality data across equities, forex, crypto, and futures is essential
+  for building and testing quantitative strategies.
 title: Best Sources of Historical Market Data for Backtesting in 2025
-description: High-quality data across equities, forex, crypto, and futures is essential for building and testing quantitative strategies. 
 ---
 
 ![Untitled](images/best-historial-market-data-sources.png)

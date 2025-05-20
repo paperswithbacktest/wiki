@@ -1,6 +1,8 @@
 ---
-title: "Net Lease Types: Single, Double, Triple (Algo Trading)"
-description: "Explore single, double, and triple net leases in real estate, along with algorithmic trading's impact on investment strategies, efficiency, and risk management."
+category: quant_concept
+description: Explore single, double, and triple net leases in real estate, along with
+  algorithmic trading's impact on investment strategies, efficiency, and risk management.
+title: 'Net Lease Types: Single, Double, Triple (Algo Trading)'
 ---
 
 This article explores the concepts of net lease, single net lease, triple net lease, and algorithmic trading, highlighting their roles, differences, and significance in investment strategies. Net leases have become popular in the commercial real estate sector primarily because they shift various property-related expenses from landlords to tenants. This transfer often includes insurance, maintenance, and property taxes, making net leases an appealing choice for property owners seeking predictable income streams and reduced operational responsibilities. 

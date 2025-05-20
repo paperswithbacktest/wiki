@@ -1,6 +1,8 @@
 ---
-title: "Paris Stock Exchange: Overview and CAC 40 Index (Algo Trading)"
-description: "Euronext Paris, formerly the Paris Stock Exchange, plays a critical role in global finance with the CAC 40 Index and the impact of algorithmic trading."
+category: quant_concept
+description: Euronext Paris, formerly the Paris Stock Exchange, plays a critical role
+  in global finance with the CAC 40 Index and the impact of algorithmic trading.
+title: 'Paris Stock Exchange: Overview and CAC 40 Index (Algo Trading)'
 ---
 
 The Paris Stock Exchange, now operating under the name Euronext Paris, holds a considerable position in the global financial market. Its prominence is primarily attributed to the CAC 40 Index, which represents the 40 largest companies on the exchange by market capitalization. These companies span diverse sectors such as luxury goods, energy, and finance, reflecting the broader French economy. The operational breadth and historical significance of the Paris Stock Exchange make it a crucial component of European financial networks, having evolved from its 18th-century origins into a modern trading platform integrated into the broader Euronext pan-European exchange.
@@ -149,4 +151,4 @@ These measures are pivotal to maintaining a fair and orderly trading environment
 
 [6]: Autorité des marchés financiers (AMF). ["Algorithmic Trading & Direct Market Access."](https://www.amf-france.org/en) AMF Official Website. 
 
-[7]: Fama, E. F., & French, K. R. (1993). ["Common Risk Factors in the Returns on Stocks and Bonds."](https://www.sciencedirect.com/science/article/pii/0304405X93900235) Journal of Financial Economics, 33(1), 3-56. 
+[7]: Fama, E. F., & French, K. R. (1993). ["Common Risk Factors in the Returns on Stocks and Bonds."](https://www.sciencedirect.com/science/article/pii/0304405X93900235) Journal of Financial Economics, 33(1), 3-56.

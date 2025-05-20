@@ -1,7 +1,8 @@
 ---
-title: Batch Normalization Techniques for Faster Neural Network Training
+category: quant_concept
 description: Batch normalization standardizes layer inputs to reduce covariate shift
   and improve stability during neural network training. Discover more inside.
+title: Batch Normalization Techniques for Faster Neural Network Training
 ---
 
 ![Image](images/1.png)

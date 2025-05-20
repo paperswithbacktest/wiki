@@ -1,6 +1,8 @@
 ---
-title: "Net Tangible Assets (Algo Trading)"
-description: "Discover the significance of Net Tangible Assets in evaluating a company's financial health. Explore its role in investment strategy and algorithmic trading."
+category: quant_concept
+description: Discover the significance of Net Tangible Assets in evaluating a company's
+  financial health. Explore its role in investment strategy and algorithmic trading.
+title: Net Tangible Assets (Algo Trading)
 ---
 
 Understanding the financial health of a company can be challenging for investors and analysts. While headline figures like revenue and profit are essential, deeper metrics such as Net Tangible Assets (NTA) provide more nuanced insights. NTA plays a pivotal role in evaluating a company's value beyond surface-level numbers, focusing on the concrete and verifiable assets that form the backbone of any organization.

@@ -1,6 +1,9 @@
 ---
-title: "New Deal: Significance, Overview, History (Algo Trading)"
-description: "Explore the significance and history of the New Deal its impact on economic stability and the evolution of financial systems toward modern practices like algorithmic trading."
+category: quant_concept
+description: Explore the significance and history of the New Deal its impact on economic
+  stability and the evolution of financial systems toward modern practices like algorithmic
+  trading.
+title: 'New Deal: Significance, Overview, History (Algo Trading)'
 ---
 
 The New Deal was a transformative series of political and economic reforms initiated by President Franklin D. Roosevelt in response to the catastrophic effects of the Great Depression. Spanning from 1933 to 1939, these reforms aimed to stabilize a faltering U.S. economy, provide jobs, and implement a more robust financial system. The New Deal's multifaceted approach consisted of relief for the unemployed and poor, recovery of the economy to normal levels, and reform of the financial system to prevent a repeated economic downturn. 

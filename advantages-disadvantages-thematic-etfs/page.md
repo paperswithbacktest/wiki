@@ -1,6 +1,8 @@
 ---
-title: "Advantages and Disadvantages of Thematic ETFs (Algo Trading)"
-description: "Explore the risks and advantages of thematic ETFs, investment funds focusing on market trends, enhanced by algorithmic trading for precision and opportunity."
+category: trading_strategy
+description: Explore the risks and advantages of thematic ETFs, investment funds focusing
+  on market trends, enhanced by algorithmic trading for precision and opportunity.
+title: Advantages and Disadvantages of Thematic ETFs (Algo Trading)
 ---
 
 Thematic ETFs, or exchange-traded funds, are investment vehicles designed to capture specific themes, trends, or sectors within the market. They aim to align with future economic or societal shifts by selecting companies and assets that are expected to benefit from these trends. Thematic investing, thus, involves creating a portfolio that emphasizes a particular theme rather than focusing solely on traditional financial metrics like market capitalization or industry sectors. This strategy allows investors to target growth areas they believe will outperform in the long run.

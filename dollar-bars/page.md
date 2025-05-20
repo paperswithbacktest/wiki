@@ -1,6 +1,14 @@
 ---
-title: "Dollar bars (Algo Trading)"
-description: Explore the nuanced approach of dollar bars in algorithmic trading, designed to segment market data by the monetary value of transactions instead of mere time, ticks, or volume. This dynamic method provides a clearer reflection of market activity by maintaining a consistent view of economic value exchanged. Dollar bars adjust for asset value fluctuations, enhancing sensitivity to market shifts and allowing traders to develop more targeted strategies. By focusing on the financial weight of trades, dollar bars grant a comprehensive understanding of global market dynamics, promoting optimal decision-making for traders.
+category: quant_concept
+description: Explore the nuanced approach of dollar bars in algorithmic trading, designed
+  to segment market data by the monetary value of transactions instead of mere time,
+  ticks, or volume. This dynamic method provides a clearer reflection of market activity
+  by maintaining a consistent view of economic value exchanged. Dollar bars adjust
+  for asset value fluctuations, enhancing sensitivity to market shifts and allowing
+  traders to develop more targeted strategies. By focusing on the financial weight
+  of trades, dollar bars grant a comprehensive understanding of global market dynamics,
+  promoting optimal decision-making for traders.
+title: Dollar bars (Algo Trading)
 ---
 
 Algorithmic trading, commonly known as algo trading, is the process of using computer algorithms to execute trading orders. These algorithms determine various trade parameters such as timing, price, or volume, and are designed to operate at a speed and frequency that is impossible for a human trader. With the rise of technology and data availability, algo trading has become a significant aspect of modern finance, accounting for a substantial share of trades in global markets. Its significance lies in its ability to enhance trading efficiency, reduce transaction costs, and utilize complex strategies that exploit market inefficiencies at minimal latency.

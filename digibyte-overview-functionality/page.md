@@ -1,6 +1,12 @@
 ---
-title: "Digibyte: Overview and Functionality (Algo Trading)"
-description: "Explore the DigiByte blockchain platform, renowned for its scalability and security, and how it differentiates itself in the cryptocurrency market. Understand the impact of algorithmic trading and its role in enhancing trading efficiency. Discover the innovations DigiByte brings through its unique features, including a multi-algorithmic mining process and dynamic security measures, emphasizing its commitment to decentralization."
+category: quant_concept
+description: Explore the DigiByte blockchain platform, renowned for its scalability
+  and security, and how it differentiates itself in the cryptocurrency market. Understand
+  the impact of algorithmic trading and its role in enhancing trading efficiency.
+  Discover the innovations DigiByte brings through its unique features, including
+  a multi-algorithmic mining process and dynamic security measures, emphasizing its
+  commitment to decentralization.
+title: 'Digibyte: Overview and Functionality (Algo Trading)'
 ---
 
 Blockchain technology has fundamentally transformed the way we perceive and engage with currencies and transactions. By introducing innovations such as cryptocurrencies and decentralized applications, blockchain has redefined traditional financial systems and opened up new possibilities for digital interactions. A significant participant in this rapidly evolving landscape is DigiByte, a blockchain platform designed to offer high scalability and security. Launched in 2014, DigiByte has established itself as a noteworthy contender in the blockchain ecosystem by providing a decentralized and secure environment conducive to fast transaction processing.

@@ -1,6 +1,9 @@
 ---
-title: "Impact of Interest Rates on Forex Trading (Algo Trading)"
-description: "Explore the impact of interest rates on Forex trading with insights into how algorithmic trading transforms strategies. Learn to navigate currency market shifts."
+category: trading_strategy
+description: Explore the impact of interest rates on Forex trading with insights into
+  how algorithmic trading transforms strategies. Learn to navigate currency market
+  shifts.
+title: Impact of Interest Rates on Forex Trading (Algo Trading)
 ---
 
 The currency market, commonly referred to as the foreign exchange (Forex) market, stands as the largest financial market globally, with an average daily trading volume exceeding $6 trillion as of 2019. Unlike traditional stock markets, Forex operates continuously over a 24-hour period, five days a week, facilitating the exchange of currency pairs between governments, financial institutions, corporations, and individual traders. This accessibility allows for constant speculation on fluctuations in exchange rates driven by a myriad of economic and political factors.

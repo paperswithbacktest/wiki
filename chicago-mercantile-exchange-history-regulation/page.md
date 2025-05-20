@@ -1,6 +1,8 @@
 ---
-title: "Chicago Mercantile Exchange: History and Regulation (Algo Trading)"
-description: "Explore the evolution and regulation of the Chicago Mercantile Exchange a key player in global financial markets and a leader in algorithmic trading."
+category: quant_concept
+description: Explore the evolution and regulation of the Chicago Mercantile Exchange
+  a key player in global financial markets and a leader in algorithmic trading.
+title: 'Chicago Mercantile Exchange: History and Regulation (Algo Trading)'
 ---
 
 The Chicago Mercantile Exchange (CME) stands as a cornerstone in the global financial landscape, fundamentally shaping the trading of futures and options across a wide variety of sectors. From agriculture to energy and financial instruments, the CME provides a robust platform for participants to hedge, speculate, and invest. Its evolution parallels significant advancements in financial regulation and technology, making it a vital institution for traders and investors eager to navigate today's complex markets.

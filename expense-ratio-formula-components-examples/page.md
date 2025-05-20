@@ -1,6 +1,9 @@
 ---
-title: "Expense Ratio: Formula, Components, and Examples (Algo Trading)"
-description: "Explore the critical role of expense ratios in investment funds, including mutual funds, ETFs, and hedge funds Discover how they affect overall fund performance and investor returns"
+category: quant_concept
+description: Explore the critical role of expense ratios in investment funds, including
+  mutual funds, ETFs, and hedge funds Discover how they affect overall fund performance
+  and investor returns
+title: 'Expense Ratio: Formula, Components, and Examples (Algo Trading)'
 ---
 
 Investment funds are pooled investment vehicles, managed professionally, which allow individual and institutional investors to collectively invest in a diversified portfolio of securities. These funds play a critical role in the financial market by providing liquidity, enabling capital formation, and offering a platform for investors to participate in a broad array of investment opportunities. The major types of investment funds include mutual funds, exchange-traded funds (ETFs), and hedge funds, each serving unique investment objectives and risk profiles.

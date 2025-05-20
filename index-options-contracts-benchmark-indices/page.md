@@ -1,6 +1,8 @@
 ---
-title: "Index Options: Contracts Based on Benchmark Indices (Algo Trading)"
-description: "Explore the dynamic world of index options and benchmark indices to manage risk and speculate on market moves in the evolving landscape of algorithmic trading."
+category: quant_concept
+description: Explore the dynamic world of index options and benchmark indices to manage
+  risk and speculate on market moves in the evolving landscape of algorithmic trading.
+title: 'Index Options: Contracts Based on Benchmark Indices (Algo Trading)'
 ---
 
 In the evolving world of finance, investment instruments have been developed to address varying investor needs. Among these, index options have become prominent as a distinctive derivative product. These options enable investors to trade the movements of substantial market indices, such as the S&P 500, without directly acquiring individual stocks.

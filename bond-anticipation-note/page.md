@@ -1,6 +1,9 @@
 ---
-title: "Bond Anticipation Note (Algo Trading)"
-description: "Explore the strategic use of Bond Anticipation Notes and algorithmic trading's impact on municipal finance Learn how BANs and advanced trading enhance investments"
+category: quant_concept
+description: Explore the strategic use of Bond Anticipation Notes and algorithmic
+  trading's impact on municipal finance Learn how BANs and advanced trading enhance
+  investments
+title: Bond Anticipation Note (Algo Trading)
 ---
 
 Understanding the intricacies of municipal finance and the role of bond anticipation notes (BANs) is crucial for investors and municipalities alike. As temporary financial instruments, BANs provide municipalities with the necessary funds to initiate infrastructure and public service projects prior to obtaining long-term financing. These notes bridge the gap between project commencement and the eventual issuance of municipal bonds, facilitating immediate access to capital which is pivotal for timely project execution.

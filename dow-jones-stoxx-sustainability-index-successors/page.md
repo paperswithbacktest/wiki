@@ -1,6 +1,9 @@
 ---
-title: "Dow Jones STOXX Sustainability Index and Its Successors (Algo Trading)"
-description: "Explore the evolution of the Dow Jones STOXX Sustainability Index as it integrates ESG criteria with algorithmic trading to promote sustainable investment strategies."
+category: trading_strategy
+description: Explore the evolution of the Dow Jones STOXX Sustainability Index as
+  it integrates ESG criteria with algorithmic trading to promote sustainable investment
+  strategies.
+title: Dow Jones STOXX Sustainability Index and Its Successors (Algo Trading)
 ---
 
 The financial markets have long been influenced by various indices that provide investors with benchmarks for performance and strategic investment decisions. These indices serve as critical tools for measuring market conditions, assessing economic trends, and guiding investment strategies. Among these, the Dow Jones STOXX Financial Indices have garnered attention for their specific emphasis on sustainability and corporate responsibility. This focus reflects a growing trend within finance to incorporate ESG (Environmental, Social, and Governance) factors, which are becoming increasingly significant to investors committed to sustainable development.

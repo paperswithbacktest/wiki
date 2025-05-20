@@ -1,6 +1,8 @@
 ---
-title: "Net Income After Taxes (Algo Trading)"
-description: "Discover the connection between taxes, net income, and algorithmic trading to optimize financial strategies and make informed decisions in complex markets."
+category: quant_concept
+description: Discover the connection between taxes, net income, and algorithmic trading
+  to optimize financial strategies and make informed decisions in complex markets.
+title: Net Income After Taxes (Algo Trading)
 ---
 
 In the evolving landscape of finance, understanding the intersection of taxes, financial calculations, net income, and algorithmic trading is crucial. As financial markets become increasingly complex, the interconnectedness of these elements is evident, influencing decision-making processes at various levels. This article aims to explore these topics, providing insight into how they interconnect and their impact on financial decision-making.

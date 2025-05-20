@@ -1,6 +1,8 @@
 ---
-title: "Outcome Bias and Its Mechanisms (Algo Trading)"
-description: "Explore outcome bias in algorithmic trading and how cognitive biases affect decision-making processes impacting trading strategies and decisions."
+category: quant_concept
+description: Explore outcome bias in algorithmic trading and how cognitive biases
+  affect decision-making processes impacting trading strategies and decisions.
+title: Outcome Bias and Its Mechanisms (Algo Trading)
 ---
 
 Financial trading is a dynamic and intricate field where decisions are heavily influenced by cognitive and outcome biases. These biases significantly shape the behavior and decision-making processes of both traders and investors. Cognitive biases are systematic deviations from rationality, leading individuals to misinterpret information and make decisions based on flawed logic. Outcome bias, a subset of cognitive biases, involves evaluating a decision based on its outcome rather than the quality of the decision-making process itself. 

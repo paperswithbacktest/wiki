@@ -1,6 +1,12 @@
 ---
-title: "Comparison of T. Rowe Price and Vanguard (Algo Trading)"
-description: "Explore the strategies of renowned investment firms Vanguard and T. Rowe Price, focusing on their integration of algorithmic trading. Understand how Vanguard's passive approach with low-cost index funds contrasts with T. Rowe Price's active management and research-driven strategies. Delve into the impact of technology in enhancing investment decisions and compare their offerings to align financial goals with innovative trading solutions."
+category: trading_strategy
+description: Explore the strategies of renowned investment firms Vanguard and T. Rowe
+  Price, focusing on their integration of algorithmic trading. Understand how Vanguard's
+  passive approach with low-cost index funds contrasts with T. Rowe Price's active
+  management and research-driven strategies. Delve into the impact of technology in
+  enhancing investment decisions and compare their offerings to align financial goals
+  with innovative trading solutions.
+title: Comparison of T. Rowe Price and Vanguard (Algo Trading)
 ---
 
 Investment options abound for individuals seeking portfolio diversification and growth, ranging from traditional stock and bond investments to more complex derivatives and managed funds. Each option carries its own risk profile and potential for returns, making the selection of an appropriate strategy crucial for long-term financial success. In this article, we focus on two prominent investment firms, Vanguard and T. Rowe Price, and explore the emergent role of algorithmic trading within the investing landscape. 

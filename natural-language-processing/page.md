@@ -1,7 +1,8 @@
 ---
-title: Natural Language Processing Fundamentals and Applications
+category: quant_concept
 description: Natural Language Processing equips computers to understand human language
   using tokenization semantic analysis and machine learning Discover more inside.
+title: Natural Language Processing Fundamentals and Applications
 ---
 
 ![Image](images/1.jpeg)

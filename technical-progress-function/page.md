@@ -1,6 +1,9 @@
 ---
-title: "Technical Progress Function (Algo Trading)"
-description: "Explore the impact of technological progress on economic growth with a focus on the technical progress function and algorithmic trading's role in financial markets."
+category: quant_concept
+description: Explore the impact of technological progress on economic growth with
+  a focus on the technical progress function and algorithmic trading's role in financial
+  markets.
+title: Technical Progress Function (Algo Trading)
 ---
 
 The relationship between technological progress and economic growth is fundamental to modern economic theory. Technological advancements are key drivers of productivity enhancements, leading to increased economic output and growth. One way to understand this relationship is through the technical progress function (TPF) and production functions. The TPF measures how technological improvements contribute to economic output by differentiating between embodied and disembodied technical progress. Embodied progress involves new technologies incorporated into capital goods, while disembodied progress refers to advancements that enhance productivity without new equipment.

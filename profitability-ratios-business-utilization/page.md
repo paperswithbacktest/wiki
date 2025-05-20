@@ -1,6 +1,9 @@
 ---
-title: "Profitability Ratios and Their Utilization in Business (Algo Trading)"
-description: "Explore profitability ratios and their role in business analysis and algorithmic trading, enabling investors and analysts to optimize trading strategies effectively."
+category: trading_strategy
+description: Explore profitability ratios and their role in business analysis and
+  algorithmic trading, enabling investors and analysts to optimize trading strategies
+  effectively.
+title: Profitability Ratios and Their Utilization in Business (Algo Trading)
 ---
 
 Profitability ratios and financial metrics are vital instruments in both business analysis and algorithmic trading. These tools are crucial for evaluating the financial health of a business, helping investors and analysts determine how efficiently a company generates profit relative to its revenue, assets, and equity. For instance, a higher return on assets (ROA) indicates that a company is more efficient at managing its assets to produce earnings.

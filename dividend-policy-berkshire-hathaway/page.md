@@ -1,6 +1,8 @@
 ---
-title: "Dividend Policy of Berkshire Hathaway (Algo Trading)"
-description: "Explore Berkshire Hathaway's unique no-dividend policy under Warren Buffett and its impact, alongside the rise of algorithmic trading in modern financial markets."
+category: quant_concept
+description: Explore Berkshire Hathaway's unique no-dividend policy under Warren Buffett
+  and its impact, alongside the rise of algorithmic trading in modern financial markets.
+title: Dividend Policy of Berkshire Hathaway (Algo Trading)
 ---
 
 Berkshire Hathaway Inc. stands as a titan in the investment world, renowned for its enormous market capitalization and diverse portfolio. Under the leadership of Warren Buffett, a legendary investor and its CEO since 1965, the company has become synonymous with long-term value investing. Buffett, often referred to as the "Oracle of Omaha," has built Berkshire Hathaway into a conglomerate with subsidiaries operating in a wide range of industries, from insurance and utilities to manufacturing and retail.

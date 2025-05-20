@@ -1,6 +1,8 @@
 ---
-title: "Anti-Dumping Duty: Definition, Mechanism, and Examples (Algo Trading)"
-description: "Explore anti-dumping duties their role in international trade policies alongside algorithmic trading insights highlighting impacts on global market dynamics."
+category: quant_concept
+description: Explore anti-dumping duties their role in international trade policies
+  alongside algorithmic trading insights highlighting impacts on global market dynamics.
+title: 'Anti-Dumping Duty: Definition, Mechanism, and Examples (Algo Trading)'
 ---
 
 International trade policies significantly influence the global economy's functionality and development. These policies are a collection of regulations and agreements that shape how countries interact economically across borders. At the core, trade policies strive to encourage economic growth by optimizing exports and imports while safeguarding domestic industries against the adverse effects of international competition. 

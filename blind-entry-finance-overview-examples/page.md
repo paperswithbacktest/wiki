@@ -1,6 +1,9 @@
 ---
-title: "Blind Entry in Finance: Overview and Examples (Algo Trading)"
-description: "Explore how blind entry strategy in algorithmic trading is revolutionizing finance by minimizing human bias using predefined parameters for rapid, efficient trades."
+category: trading_strategy
+description: Explore how blind entry strategy in algorithmic trading is revolutionizing
+  finance by minimizing human bias using predefined parameters for rapid, efficient
+  trades.
+title: 'Blind Entry in Finance: Overview and Examples (Algo Trading)'
 ---
 
 In the rapidly evolving world of finance, trading strategies have significantly progressed, primarily driven by technological advancements. The nexus of algorithmic trading and finance has birthed innovative strategies like the blind entry finance trading strategy. This strategy exemplifies the role of algorithm-driven methods in revolutionizing trading practices.

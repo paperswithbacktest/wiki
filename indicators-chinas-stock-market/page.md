@@ -1,6 +1,8 @@
 ---
-title: "Indicators of China's Stock Market (Algo Trading)"
-description: "Explore China's dynamic stock market, its key economic indicators, and the impact of algorithmic trading on market opportunities and challenges."
+category: trading_strategy
+description: Explore China's dynamic stock market, its key economic indicators, and
+  the impact of algorithmic trading on market opportunities and challenges.
+title: Indicators of China's Stock Market (Algo Trading)
 ---
 
 Financial markets are fundamental components of the global economy, functioning as platforms where financial instruments such as stocks, bonds, and derivatives are traded. They facilitate the efficient allocation of resources, contribute to economic stability, and influence economic growth by determining the cost of capital. 

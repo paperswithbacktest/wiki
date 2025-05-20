@@ -1,6 +1,8 @@
 ---
-title: "Mini-Perm Loans and Their Uses Compared to Construction Loans (Algo Trading)"
-description: "Explore the differences between mini-perm and construction loans in real estate financing, and discover how algorithmic trading enhances financial strategies."
+category: quant_concept
+description: Explore the differences between mini-perm and construction loans in real
+  estate financing, and discover how algorithmic trading enhances financial strategies.
+title: Mini-Perm Loans and Their Uses Compared to Construction Loans (Algo Trading)
 ---
 
 The financing landscape within the real estate and construction sectors is experiencing a marked increase in significance as these industries continue to expand and evolve. This growth is fueled by the demand for innovative financial solutions tailored to address the complexities of modern project development. Two key financial instruments that play a pivotal role in this domain are mini-perm loans and construction loans. These loan types serve different stages of real estate projects and offer unique benefits and challenges to investors and developers.

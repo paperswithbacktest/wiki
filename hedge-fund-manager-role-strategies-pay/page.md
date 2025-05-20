@@ -1,6 +1,8 @@
 ---
-title: "Hedge Fund Manager: Role, Strategies, and Pay (Algo Trading)"
-description: "Explore the role of hedge fund managers, their investment strategies, and compensation models in the dynamic world of algo trading and modern finance."
+category: trading_strategy
+description: Explore the role of hedge fund managers, their investment strategies,
+  and compensation models in the dynamic world of algo trading and modern finance.
+title: 'Hedge Fund Manager: Role, Strategies, and Pay (Algo Trading)'
 ---
 
 Investment strategies, compensation, hedge fund managers, and algorithmic trading are cornerstone concepts within the financial domain that collectively shape the landscape of modern investing. Investment strategies refer to the methodologies and techniques employed to allocate and manage investment portfolios with the purpose of achieving specific financial goals. These strategies can range from passive investing—aimed at mimicking market indices—to more active approaches that involve buying and selling decisions based on comprehensive market analysis.

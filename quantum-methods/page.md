@@ -1,7 +1,8 @@
 ---
-title: Exploring Quantum Machine Learning Methods and Their Applications
+category: quant_concept
 description: Quantum methods in machine learning accelerate data processing and uncover
   nonlinear patterns with quantum computing techniques. Discover more inside.
+title: Exploring Quantum Machine Learning Methods and Their Applications
 ---
 
 ![Image](images/1.png)

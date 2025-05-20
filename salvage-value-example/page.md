@@ -1,6 +1,9 @@
 ---
-title: "Salvage Value: Explanation and Example (Algo Trading)"
-description: "Explore the significance of salvage value in financial accounting and algorithmic trading Discover how accurate estimation impacts asset management and trading strategies"
+category: quant_concept
+description: Explore the significance of salvage value in financial accounting and
+  algorithmic trading Discover how accurate estimation impacts asset management and
+  trading strategies
+title: 'Salvage Value: Explanation and Example (Algo Trading)'
 ---
 
 The interplay between financial accounting and algorithmic trading has increasingly captured the attention of industry experts and academics alike. As financial markets evolve with technological advancements, the integration of algorithmic trading strategies with robust financial accounting principles becomes crucial. Central to these discussions are concepts such as residual value and salvage value, which are integral to asset management and valuation. These financial terms not only affect corporate financial health but also shape the development of algorithmic trading models.

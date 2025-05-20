@@ -1,6 +1,8 @@
 ---
-title: "Market Regimes (Algo Trading)"
-description: "Explore how recognizing market regimes impacts algorithmic trading strategies enhancing success by adapting to bull, bear, efficient, and chaotic market phases."
+category: trading_strategy
+description: Explore how recognizing market regimes impacts algorithmic trading strategies
+  enhancing success by adapting to bull, bear, efficient, and chaotic market phases.
+title: Market Regimes (Algo Trading)
 ---
 
 Market regimes are crucial frameworks in trading and investing, encapsulating distinct periods that are defined by specific patterns in price behavior, volatility, and relationships between various asset classes. They are not static, but dynamically shift in response to economic conditions, investor sentiment, and global events. Understanding these regimes is pivotal for traders as it allows for the adaptation of strategies in accordance with current market conditions. This strategic adaptation can lead to the maximization of opportunities and the minimization of risks, enhancing overall trading success.
@@ -202,4 +204,3 @@ Ultimately, the key to sustained success in trading lies in the continuous adapt
 [6]: Tsay, R. S. (2005). ["Analysis of Financial Time Series (Wiley Series in Probability and Statistics)."](https://onlinelibrary.wiley.com/doi/book/10.1002/9780470644560) 
 
 [7]: Hsu, J. (2006). ["Cap-Weighted Portfolios are Sub-Optimal Portfolios."](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=647001) Journal of Investment Management, 4(3), 52-63.
-

@@ -1,6 +1,8 @@
 ---
-title: "Depository Trust and Clearing Corporation (Algo Trading)"
-description: "Explore the crucial role of clearing houses like DTCC in the era of algorithmic trading ensuring efficient trade execution and settlement while managing risks."
+category: quant_concept
+description: Explore the crucial role of clearing houses like DTCC in the era of algorithmic
+  trading ensuring efficient trade execution and settlement while managing risks.
+title: Depository Trust and Clearing Corporation (Algo Trading)
 ---
 
 The intersection of financial services with clearing houses and algorithmic trading marks a significant evolution in the trading landscape that has shaped modern financial markets. Clearing houses play an essential role in trade execution, settlement, and risk management, ensuring the integrity and stability of the markets they serve. Their function as both intermediaries and guarantors effectively mitigates counterparty risk, thereby fostering confidence among market participants.

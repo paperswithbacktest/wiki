@@ -1,6 +1,8 @@
 ---
-title: "Investment Vehicles and Types (Algo Trading)"
-description: "Explore investment vehicles from stocks and bonds to algorithmic trading Learn how these instruments can diversify your portfolio and optimize returns"
+category: quant_concept
+description: Explore investment vehicles from stocks and bonds to algorithmic trading
+  Learn how these instruments can diversify your portfolio and optimize returns
+title: Investment Vehicles and Types (Algo Trading)
 ---
 
 Understanding the diverse world of investment vehicles and financial instruments is crucial for both novice and seasoned investors. Investment vehicles refer to any product used by investors to gain positive returns and manage risks. These products range from traditional options like stocks and bonds, which have been the cornerstones of investment portfolios, to more innovative opportunities such as algorithmic trading, which leverages technological advancements to optimize trading decisions. In today's rapidly evolving financial landscape, a comprehensive understanding of these investment vehicles is paramount for constructing a robust and diversified investment strategy.

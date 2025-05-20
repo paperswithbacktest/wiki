@@ -1,6 +1,9 @@
 ---
-title: "Corporate Charter: Purpose and Legal Requirements (Algo Trading)"
-description: "Explore the critical relationship between corporate charters, governance, and legal requirements for algorithmic trading to optimize compliance and minimize risk."
+category: quant_concept
+description: Explore the critical relationship between corporate charters, governance,
+  and legal requirements for algorithmic trading to optimize compliance and minimize
+  risk.
+title: 'Corporate Charter: Purpose and Legal Requirements (Algo Trading)'
 ---
 
 Corporate governance and algorithmic trading are two critical and interconnected components of today's corporate and financial arenas. Corporate governance establishes the framework through which organizations are directed and controlled. Central to this framework is the corporate charter, also known as the articles of incorporation, which serves as the fundamental legal document defining a corporation's structure, purpose, and governance modalities. This document is crucial as it legally recognizes the corporation, delineating its operational scope and insulating its founders from personal liability concerning business undertakings.

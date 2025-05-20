@@ -1,6 +1,9 @@
 ---
-title: "Forex Market Sentiment Indicators (Algo Trading)"
-description: "Explore the significance of market sentiment indicators in forex trading Learn how integrating sentiment analysis enhances algorithmic trading strategies in the forex market"
+category: trading_strategy
+description: Explore the significance of market sentiment indicators in forex trading
+  Learn how integrating sentiment analysis enhances algorithmic trading strategies
+  in the forex market
+title: Forex Market Sentiment Indicators (Algo Trading)
 ---
 
 Market sentiment refers to the overall attitude of investors and traders towards a particular financial market or asset. It is an aggregate measure of market participants' emotional and psychological outlook, which influences their trading activities. In the forex market, where currencies are traded on a global scale, understanding market sentiment is crucial as it impacts currency values and exchange rates significantly. Investors' perceptions of economic indicators, geopolitical events, and central bank policies can lead to substantial moves in currency prices, making sentiment a vital aspect of foreign exchange trading.

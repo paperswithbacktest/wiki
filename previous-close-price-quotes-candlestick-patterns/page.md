@@ -1,6 +1,8 @@
 ---
-title: "Previous Close: Price Quotes and Candlestick Patterns (Algo Trading)"
-description: "Explore algorithmic trading with insights on candlestick patterns, price quotes, and previous close metrics to craft successful trading strategies."
+category: trading_strategy
+description: Explore algorithmic trading with insights on candlestick patterns, price
+  quotes, and previous close metrics to craft successful trading strategies.
+title: 'Previous Close: Price Quotes and Candlestick Patterns (Algo Trading)'
 ---
 
 The world of trading is vast and complex, characterized by a diverse array of strategies and tools designed to help traders make informed decisions. At the core of these tools are candlestick patterns, price quotes, and the concept of the previous close, which hold particular importance in the context of algorithmic trading. Candlestick patterns offer a historical price perspective, providing insights into potential market movements by visually representing market sentiment over a specific period. These patterns, like the Hammer and Bullish Engulfing, serve as indicators of market trends and potential reversals, offering traders cues for action.

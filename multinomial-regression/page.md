@@ -1,7 +1,8 @@
 ---
-title: Multinomial Regression Explained Key Concepts And Applications
+category: quant_concept
 description: Multinomial Regression guides you through data prep model fitting and
   evaluation for reliable categorical predictions Discover more inside.
+title: Multinomial Regression Explained Key Concepts And Applications
 ---
 
 ![Image](images/1.jpeg)

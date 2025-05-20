@@ -1,6 +1,9 @@
 ---
-title: "Five Against Bond Spread: Concept and Function (Algo Trading)"
-description: "Explore the concept of Five Against Bond Spread in algorithmic trading. Learn how bond spreads, financial strategies, and automation optimize investment decisions."
+category: quant_concept
+description: Explore the concept of Five Against Bond Spread in algorithmic trading.
+  Learn how bond spreads, financial strategies, and automation optimize investment
+  decisions.
+title: 'Five Against Bond Spread: Concept and Function (Algo Trading)'
 ---
 
 In the rapidly evolving world of finance, strategic investment practices are becoming increasingly essential for optimal portfolio growth. As financial markets grow more complex, investors are focusing on integrating advanced elements like investment bond spreads, financial strategies, and algorithmic trading to navigate and leverage the dynamic environment effectively. 

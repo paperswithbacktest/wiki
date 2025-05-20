@@ -1,6 +1,12 @@
 ---
-title: "Dividend Irrelevance Theory (Algo Trading)"
-description: "Explore the Dividend Irrelevance Theory and the role of algorithmic trading in modern finance as it transforms investment strategies and trading efficiency. Understand how Dividend Irrelevance challenges traditional views on dividends and market value, while algorithmic trading enhances market liquidity and efficiency. Discover insights into effective portfolio management using technology and classic theories to optimize decision-making in dynamic markets."
+category: quant_concept
+description: Explore the Dividend Irrelevance Theory and the role of algorithmic trading
+  in modern finance as it transforms investment strategies and trading efficiency.
+  Understand how Dividend Irrelevance challenges traditional views on dividends and
+  market value, while algorithmic trading enhances market liquidity and efficiency.
+  Discover insights into effective portfolio management using technology and classic
+  theories to optimize decision-making in dynamic markets.
+title: Dividend Irrelevance Theory (Algo Trading)
 ---
 
 The financial landscape is continuously evolving, driven by theories, strategies, and technological innovations that reshape how investors approach asset management and trading. Among these developments, the Dividend Irrelevance Theory and the emergence of algorithmic trading represent significant paradigms. The Dividend Irrelevance Theory, introduced by economists Merton Miller and Franco Modigliani in 1961, challenges the traditional perception of dividends in determining a company's market value. According to this theory, under certain conditions, a firm's dividend policy does not influence its intrinsic value or the wealth of its shareholders. Instead, the focus is placed on a company's ability to generate earnings and manage risk, provided that markets are perfect and investors operate rationally and are indifferent between dividends and capital gains.

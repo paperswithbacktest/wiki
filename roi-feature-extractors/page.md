@@ -1,8 +1,9 @@
 ---
-title: Advanced RoI Feature Extraction Techniques For Object Detection
+category: quant_concept
 description: RoI Feature Extraction enhances object detection with advanced pooling
   and alignment methods like RoIPool RoIAlign and Deformable variants Discover more
   inside.
+title: Advanced RoI Feature Extraction Techniques For Object Detection
 ---
 
 ![Image](images/1.jpeg)

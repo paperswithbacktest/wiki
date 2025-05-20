@@ -1,6 +1,8 @@
 ---
-title: "AAA Credit Rating: Criteria and Bond Types (Algo Trading)"
-description: "Explore the significance of AAA credit ratings in bond investments, understand various bond types, and learn how algorithmic trading is reshaping the market."
+category: quant_concept
+description: Explore the significance of AAA credit ratings in bond investments, understand
+  various bond types, and learn how algorithmic trading is reshaping the market.
+title: 'AAA Credit Rating: Criteria and Bond Types (Algo Trading)'
 ---
 
 In today's financial landscape, investors are increasingly required to understand a range of complex financial instruments and methodologies, including credit ratings, the diverse types of bonds available, and the integration of algorithmic trading. Credit ratings act as a crucial tool for evaluating the creditworthiness of bond issuers and play a pivotal role in investment decision-making. Among these, the AAA credit rating signifies the highest level of creditworthiness and security, providing investors with insights into the default risk associated with various bonds.

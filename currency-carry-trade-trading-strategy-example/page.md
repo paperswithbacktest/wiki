@@ -1,6 +1,13 @@
 ---
-title: "Currency Carry Trade: Trading Strategy and Example (Algo Trading)"
-description: "Explore the currency carry trade strategy and its integration with algorithmic trading in the forex market to maximize investment returns. Understand the mechanics of the carry trade, which involves exploiting interest rate differentials, and how algorithmic trading enhances this by providing speed and precision. Delve into essential risk management practices and learn how advancements in AI and machine learning are revolutionizing algo trading for optimized results. Equip yourself with insights on designing effective algorithms and managing volatility in the dynamic forex environment."
+category: trading_strategy
+description: Explore the currency carry trade strategy and its integration with algorithmic
+  trading in the forex market to maximize investment returns. Understand the mechanics
+  of the carry trade, which involves exploiting interest rate differentials, and how
+  algorithmic trading enhances this by providing speed and precision. Delve into essential
+  risk management practices and learn how advancements in AI and machine learning
+  are revolutionizing algo trading for optimized results. Equip yourself with insights
+  on designing effective algorithms and managing volatility in the dynamic forex environment.
+title: 'Currency Carry Trade: Trading Strategy and Example (Algo Trading)'
 ---
 
 The foreign exchange market, commonly referred to as forex, is a dynamic and intricate global trading platform where currencies are exchanged. Currency trading is driven by various economic, political, and market factors, making it one of the most traded and liquid financial markets in the world. Among the diverse strategies employed by forex traders, the carry trade strategy is prominent due to its potential for delivering consistent returns. This strategy involves borrowing in a currency with a lower interest rate and investing in another currency with a higher interest rate, allowing traders to profit from the differential.

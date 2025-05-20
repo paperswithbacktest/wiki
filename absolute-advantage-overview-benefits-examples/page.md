@@ -1,6 +1,9 @@
 ---
-title: "Absolute Advantage: Overview, Benefits, and Examples (Algo Trading)"
-description: "Discover how absolute advantage impacts international trade, enabling more efficient production and exchange of goods, enhanced by modern algorithmic trading insights."
+category: quant_concept
+description: Discover how absolute advantage impacts international trade, enabling
+  more efficient production and exchange of goods, enhanced by modern algorithmic
+  trading insights.
+title: 'Absolute Advantage: Overview, Benefits, and Examples (Algo Trading)'
 ---
 
 Absolute advantage is a central economic concept introduced by the Scottish economist Adam Smith in the 18th century. It refers to the ability of a country, company, or individual to produce a good or service more efficiently than others, using fewer resources. This principle is foundational in understanding international trade dynamics as it provides the rationale for specialization, where entities focus on producing goods where they have an absolute advantage. 

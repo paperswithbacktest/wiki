@@ -1,6 +1,8 @@
 ---
-title: "Kazakhstan Tenge Overview (Algo Trading)"
-description: "Discover the essentials of Kazakhstan's Tenge and algorithmic trading in forex. Learn the Tenge's role, algo trading benefits, and future trends in forex."
+category: quant_concept
+description: Discover the essentials of Kazakhstan's Tenge and algorithmic trading
+  in forex. Learn the Tenge's role, algo trading benefits, and future trends in forex.
+title: Kazakhstan Tenge Overview (Algo Trading)
 ---
 
 Currency trading, also known as foreign exchange or forex trading, is the act of buying and selling currencies in a decentralized global market. It holds a paramount position in the global economy, given that it facilitates international trade, investment, and economic exchanges. With a daily trading volume exceeding $6 trillion, the forex market is the largest and most liquid financial market worldwide. It allows businesses to operate across borders, governments to manage economic strategies, and investors to speculate and profit from the dynamic nature of currency value fluctuations.

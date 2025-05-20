@@ -1,6 +1,9 @@
 ---
-title: "Baltic Dry Index Significance and Impact (Algo Trading)"
-description: "Explore the Baltic Dry Index's significance in economic analysis and algorithmic trading highlighting its role in freight rate assessment and market strategy optimization."
+category: quant_concept
+description: Explore the Baltic Dry Index's significance in economic analysis and
+  algorithmic trading highlighting its role in freight rate assessment and market
+  strategy optimization.
+title: Baltic Dry Index Significance and Impact (Algo Trading)
 ---
 
 The Baltic Dry Index (BDI) is a critical economic indicator widely recognized within the shipping industry for its ability to quantify the cost of transporting raw materials across global maritime routes. By reflecting changes in freight rates for dry bulk cargo, the BDI provides a real-time snapshot of shipping market dynamics. Its relevance is particularly pronounced in today's era of globalization, where rapid shifts in trade patterns demand precise and timely insights to navigate complex supply chains.

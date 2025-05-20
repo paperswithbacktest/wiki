@@ -1,6 +1,9 @@
 ---
-title: "International ETFs: Functionality and Overview (Algo Trading)"
-description: "Explore how international ETFs offer investors global diversification and efficiency by leveraging algorithmic trading innovations to optimize asset exposure and returns."
+category: quant_concept
+description: Explore how international ETFs offer investors global diversification
+  and efficiency by leveraging algorithmic trading innovations to optimize asset exposure
+  and returns.
+title: 'International ETFs: Functionality and Overview (Algo Trading)'
 ---
 
 Exchange-Traded Funds (ETFs) have emerged as a prominent tool in the financial markets, offering remarkable versatility and accessibility to a wide range of investors. These instruments are designed to mimic the performance of a specific index, commodity, or a basket of assets, providing a simplified means for individuals to access diversified investment opportunities. Unlike traditional mutual funds, ETFs are traded on stock exchanges throughout the day, similar to individual stocks, which affords investors the flexibility to engage with these securities in real-time.

@@ -1,6 +1,8 @@
 ---
-title: "Shares and Their Comparison to Stocks (Algo Trading)"
-description: "Explore how shares and their synergy with algorithmic trading can enhance investment strategies and democratize access to sophisticated stock market opportunities."
+category: quant_concept
+description: Explore how shares and their synergy with algorithmic trading can enhance
+  investment strategies and democratize access to sophisticated stock market opportunities.
+title: Shares and Their Comparison to Stocks (Algo Trading)
 ---
 
 In today's fast-paced financial landscape, investing in stocks has become more accessible than ever. Technological advancements have transformed traditional stock trading, particularly through the rise of algorithmic trading. Algorithmic trading utilizes advanced algorithms and vast data sets to execute trades with precision, minimizing human error. This article focuses on the integration of individual stock investments with the cutting-edge world of algorithmic trading.

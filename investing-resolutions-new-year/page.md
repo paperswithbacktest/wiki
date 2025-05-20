@@ -1,6 +1,8 @@
 ---
-title: "Investing Resolutions for the New Year (Algo Trading)"
-description: "Embark on the New Year with smart investing resolutions like exploring algorithmic trading to enhance your financial strategy and build long-term wealth."
+category: trading_strategy
+description: Embark on the New Year with smart investing resolutions like exploring
+  algorithmic trading to enhance your financial strategy and build long-term wealth.
+title: Investing Resolutions for the New Year (Algo Trading)
 ---
 
 As the New Year approaches, many investors set new financial resolutions to enhance their financial health and investment strategies. Financial planning and investing are pivotal for building long-term wealth, especially in a swift-changing economic landscape marked by unpredictable market fluctuations and evolving financial instruments. The adoption of technology in financial markets has offered new opportunities and methodologies for investors to meet their financial goals more effectively. Among these innovations, algorithmic trading has gained prominence as a focal point for investors aiming to amplify their returns through technology-driven strategies.

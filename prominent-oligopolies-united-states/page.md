@@ -1,6 +1,8 @@
 ---
-title: "Prominent Oligopolies in the United States (Algo Trading)"
-description: "Explore the influence of U.S. oligopolies in algorithmic trading where dominant firms leverage technology to shape financial markets and trading strategies."
+category: quant_concept
+description: Explore the influence of U.S. oligopolies in algorithmic trading where
+  dominant firms leverage technology to shape financial markets and trading strategies.
+title: Prominent Oligopolies in the United States (Algo Trading)
 ---
 
 The U.S. financial market is a constantly evolving environment influenced by multiple factors, with oligopolies being a significant force. These market structures, characterized by the dominance of a small number of firms, have a profound influence, particularly in the area of algorithmic trading. As technology continues to advance at a rapid pace, algorithmic trading has emerged as a pivotal component, transforming how trading activities are executed and managed on financial exchanges. 

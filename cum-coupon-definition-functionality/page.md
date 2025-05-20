@@ -1,6 +1,8 @@
 ---
-title: "Cum Coupon: Definition and Functionality (Algo Trading)"
-description: "Explore the nuances of cum coupon bonds and algorithmic trading, essential for maximizing returns in bond investments and navigating global financial markets."
+category: quant_concept
+description: Explore the nuances of cum coupon bonds and algorithmic trading, essential
+  for maximizing returns in bond investments and navigating global financial markets.
+title: 'Cum Coupon: Definition and Functionality (Algo Trading)'
 ---
 
 In the fast-paced world of financial markets, being well-versed in bond investments and algorithmic trading is crucial for constructing a diversified investment portfolio. Bonds, as a staple of financial markets, offer varying investment opportunities through their coupon structures—specifically, the distinction between cum coupon and ex-coupon bonds. A cum coupon bond includes the accrued interest in its price, making it an attractive option for investors looking to maximize returns by purchasing the bond before the coupon payment is made. This characteristic significantly affects bond pricing and informs trading strategies across different markets.

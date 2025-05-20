@@ -1,6 +1,8 @@
 ---
-title: "Information-Theoretic Trading Strategies (Algo Trading)"
-description: "Explore cutting-edge algorithmic trading with information-theoretic strategies focusing on mastering market data insights to optimize performance and decision-making."
+category: trading_strategy
+description: Explore cutting-edge algorithmic trading with information-theoretic strategies
+  focusing on mastering market data insights to optimize performance and decision-making.
+title: Information-Theoretic Trading Strategies (Algo Trading)
 ---
 
 In today's rapidly evolving financial markets, trading strategies have become increasingly sophisticated, driven by advancements in technology and data analytics. One such innovative approach leverages information-theoretic principles within algorithmic trading to enhance the decision-making process. Information theory, originally developed by Claude Shannon, provides a mathematical framework for quantifying information. By applying its concepts, traders can quantify and optimize the use of information embedded in market data, potentially improving trading performance.

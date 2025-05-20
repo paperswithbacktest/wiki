@@ -1,6 +1,8 @@
 ---
-title: "Efficiency Ratio in Finance (Algo Trading)"
-description: "Explore the efficiency ratio as a key financial metric in banking and algorithmic trading Learn how it measures operational efficiency and boosts performance"
+category: quant_concept
+description: Explore the efficiency ratio as a key financial metric in banking and
+  algorithmic trading Learn how it measures operational efficiency and boosts performance
+title: Efficiency Ratio in Finance (Algo Trading)
 ---
 
 In the modern financial landscape, understanding key performance metrics is crucial for assessing the performance of banks and the efficiency of algorithmic trading strategies. As the financial industry continues to evolve with technological advancements and increasing competition, the ability to gauge operational efficiency and strategic effectiveness is more important than ever. Among the various tools used to measure performance, the efficiency ratio stands out as a significant metric in both banking and algorithmic trading.

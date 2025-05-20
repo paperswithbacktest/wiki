@@ -1,6 +1,9 @@
 ---
-title: "Regulation T Requirements and Example (Algo Trading)"
-description: "Explore Regulation T's key aspects and its impact on algorithmic trading Learn how it shapes margin trading guidelines and why compliance is crucial for traders"
+category: quant_concept
+description: Explore Regulation T's key aspects and its impact on algorithmic trading
+  Learn how it shapes margin trading guidelines and why compliance is crucial for
+  traders
+title: Regulation T Requirements and Example (Algo Trading)
 ---
 
 Regulation T, commonly known as Reg T, is a significant regulatory framework established by the Federal Reserve Board that governs the extension of credit by broker-dealers for purchasing securities. This regulation is a cornerstone of margin trading, as it stipulates the conditions under which credit can be extended to investors, ensuring a balance between facilitating investment and maintaining market stability.

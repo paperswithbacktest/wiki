@@ -1,6 +1,8 @@
 ---
-title: "Optimal Liquidity Seeking Strategies (Algo Trading)"
-description: "Discover optimal liquidity seeking strategies in algorithmic trading to execute large orders efficiently with minimal market impact using advanced algorithms."
+category: trading_strategy
+description: Discover optimal liquidity seeking strategies in algorithmic trading
+  to execute large orders efficiently with minimal market impact using advanced algorithms.
+title: Optimal Liquidity Seeking Strategies (Algo Trading)
 ---
 
 The landscape of algorithmic trading is undergoing continuous transformation, driven by technological innovations and evolving market dynamics. Among the various strategies employed by traders, liquidity seeking strategies have gained considerable recognition for their ability to execute large orders with minimal market impact. These strategies are specifically designed to access hidden liquidity within the market, often harnessing complex algorithms to navigate vast and fragmented trading venues. The primary objective is to optimize execution quality by reducing the cost associated with market impact and effectively reaching deep liquidity pools.

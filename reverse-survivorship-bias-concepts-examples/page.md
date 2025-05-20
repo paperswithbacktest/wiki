@@ -1,6 +1,9 @@
 ---
-title: "Reverse Survivorship Bias: Concepts and Examples (Algo Trading)"
-description: "Discover the intricacies of reverse survivorship bias in algorithmic trading Understand how this overlooked bias affects decision-making and strategy refinement"
+category: quant_concept
+description: Discover the intricacies of reverse survivorship bias in algorithmic
+  trading Understand how this overlooked bias affects decision-making and strategy
+  refinement
+title: 'Reverse Survivorship Bias: Concepts and Examples (Algo Trading)'
 ---
 
 In the complex world of algorithmic trading, understanding the nuances of statistical biases is crucial for success. One such bias, often overlooked, is reverse survivorship bias, which can significantly impact data analysis and decision-making in trading strategies. While survivorship bias tends to favor the analysis of successful entities, thereby potentially overstating performance metrics, reverse survivorship bias can do the opposite. It involves emphasizing underperforming entities remaining in a dataset, while more successful ones are excluded, leading to misleading outcomes that can negatively skew analytical results in trading contexts.

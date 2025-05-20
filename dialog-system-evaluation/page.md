@@ -1,7 +1,8 @@
 ---
-title: Dialog System Evaluation Metrics and Methods for Performance
+category: quant_concept
 description: Dialog system evaluation uses metrics like accuracy response time BLEU
   and user satisfaction to highlight improvements Discover more inside.
+title: Dialog System Evaluation Metrics and Methods for Performance
 ---
 
 ![Image](images/1.png)

@@ -1,6 +1,12 @@
 ---
-title: "Fractal Indicator: Overview, Signals, and Trading Application (Algo Trading)"
-description: "Discover the power of the fractal indicator in enhancing trading strategies by identifying potential market reversals. This mathematical tool highlights pivot points in price movements, offering valuable insights for traders. Learn how fractals function, their calculation and interpretation, and the advantages they bring when integrated into algorithmic systems. Strengthen your analysis by combining the fractal indicator with other methodologies for a comprehensive view of market dynamics."
+category: trading_strategy
+description: Discover the power of the fractal indicator in enhancing trading strategies
+  by identifying potential market reversals. This mathematical tool highlights pivot
+  points in price movements, offering valuable insights for traders. Learn how fractals
+  function, their calculation and interpretation, and the advantages they bring when
+  integrated into algorithmic systems. Strengthen your analysis by combining the fractal
+  indicator with other methodologies for a comprehensive view of market dynamics.
+title: 'Fractal Indicator: Overview, Signals, and Trading Application (Algo Trading)'
 ---
 
 The financial markets are often perceived as complex and unpredictable. Traders continually seek innovative methods to decipher these markets, utilizing various technical tools to identify patterns and signals that can guide their trading strategies. One such tool is the fractal indicator, which is based on the mathematical concept of self-similarity. This concept involves patterns repeating at different scales, a phenomenon visible in nature, such as in the structure of snowflakes or coastlines, and is now applied in analyzing market charts.

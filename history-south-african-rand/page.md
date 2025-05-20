@@ -1,6 +1,14 @@
 ---
-title: "History of the South African Rand (Algo Trading)"
-description: "Explore the intricate history of the South African Rand, from its introduction in 1961 as a replacement for the South African pound to its current role in the global forex market. Learn how economic and political changes, including the end of apartheid, have influenced its value. Delve into the impact of global factors such as commodity prices and geopolitical risks, and discover how algorithmic trading leverages the rand's volatility. Understand the South African Reserve Bank's role in maintaining price stability and how its monetary policies affect the rand's position within international markets."
+category: quant_concept
+description: Explore the intricate history of the South African Rand, from its introduction
+  in 1961 as a replacement for the South African pound to its current role in the
+  global forex market. Learn how economic and political changes, including the end
+  of apartheid, have influenced its value. Delve into the impact of global factors
+  such as commodity prices and geopolitical risks, and discover how algorithmic trading
+  leverages the rand's volatility. Understand the South African Reserve Bank's role
+  in maintaining price stability and how its monetary policies affect the rand's position
+  within international markets.
+title: History of the South African Rand (Algo Trading)
 ---
 
 The South African Rand (ZAR) stands as a testament to the complex intersection of economic policies and political changes within South Africa. Since its introduction in 1961, the rand has been a focal point for understanding South Africa's financial landscape and its interaction with the global economy. Originating from a transition phase where it replaced the South African pound, the ZAR was initially pegged to the US dollar, providing a measure of stability amidst the uncertain economic conditions leading up to the establishment of the Republic of South Africa.

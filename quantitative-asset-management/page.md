@@ -1,6 +1,8 @@
 ---
-title: "Quantitative Asset Management (Algo Trading)"
-description: "Explore Quantitative Asset Management and Algo Trading, discover data-driven strategies, advanced tools, and key insights for optimizing financial outcomes."
+category: quant_concept
+description: Explore Quantitative Asset Management and Algo Trading, discover data-driven
+  strategies, advanced tools, and key insights for optimizing financial outcomes.
+title: Quantitative Asset Management (Algo Trading)
 ---
 
 Quantitative Asset Management, often synonymous with Algo Trading, represents a growing segment of financial trading that leverages mathematical models and algorithms to make data-driven trading decisions. This approach blends cutting-edge technology with established financial theories, aiming to optimize trading outcomes. By systematically analyzing vast amounts of data, quantitative strategies seek to identify patterns and inefficiencies in the market, offering an alternative to traditional investment methods that primarily rely on discretionary judgments.

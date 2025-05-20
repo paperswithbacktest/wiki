@@ -1,6 +1,9 @@
 ---
-title: "Cycle Billing: Overview and Evaluation (Algo Trading)"
-description: "Cycle billing optimizes cash flow and workload by distributing billing tasks across periods. It's crucial for managing finances in industries like utilities and subscriptions."
+category: quant_concept
+description: Cycle billing optimizes cash flow and workload by distributing billing
+  tasks across periods. It's crucial for managing finances in industries like utilities
+  and subscriptions.
+title: 'Cycle Billing: Overview and Evaluation (Algo Trading)'
 ---
 
 Billing systems are integral to the financial infrastructure of businesses, acting as the backbone for managing revenue, customer relationships, and operational efficiency. They help ensure that transactions are accurately recorded, tracked, and accounted for, which is essential for maintaining financial health and ensuring compliance with legal and regulatory standards. The core function of a billing system is to generate invoices for services or products provided, thereby initiating the process of revenue collection. This highlights their pivotal role in the broader context of business finance.

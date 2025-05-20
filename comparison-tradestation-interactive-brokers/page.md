@@ -1,6 +1,10 @@
 ---
-title: "Comparison of Tradestation and Interactive Brokers (Algo Trading)"
-description: "Explore the strengths of TradeStation and Interactive Brokers in algorithmic trading through a detailed comparison, focusing on features, pricing, user experience, and security. Understand how each platform caters to different trading styles and find the right fit for your trading needs and objectives."
+category: trading_strategy
+description: Explore the strengths of TradeStation and Interactive Brokers in algorithmic
+  trading through a detailed comparison, focusing on features, pricing, user experience,
+  and security. Understand how each platform caters to different trading styles and
+  find the right fit for your trading needs and objectives.
+title: Comparison of Tradestation and Interactive Brokers (Algo Trading)
 ---
 
 Online brokerage platforms have revolutionized the way traders and investors access the financial markets, providing them with the tools and resources necessary to make informed decisions. These platforms serve as intermediaries, facilitating trades in various asset classes such as stocks, options, futures, and forex. The proliferation of online brokerages has democratized trading by lowering entry barriers, eliminating the need for traditional brokers, and offering a wide range of services tailored to different trading strategies and goals.

@@ -1,6 +1,8 @@
 ---
-title: "Order Flow Predictability (Algo Trading)"
-description: "Explore order flow predictability in algorithmic trading to gain market insights, improve decision-making, and enhance trade execution and risk management."
+category: quant_concept
+description: Explore order flow predictability in algorithmic trading to gain market
+  insights, improve decision-making, and enhance trade execution and risk management.
+title: Order Flow Predictability (Algo Trading)
 ---
 
 Order flow predictability is a core concept within algorithmic trading, aimed at accurately forecasting the direction and scale of buy or sell orders in financial markets. Understanding order flow provides traders with a crucial advantage, allowing for more informed decision-making, increased profitability, and reduced risks. At the heart of order flow analysis is the ability to interpret the stream of buy and sell orders that courses through markets, reflecting the intentions and strategies of market participants.

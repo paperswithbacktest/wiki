@@ -1,7 +1,8 @@
 ---
-title: Understanding Fuzzy Logic Systems for Real World Applications
+category: quant_concept
 description: Fuzzy Logic enhances system control by handling uncertainty through membership
   functions and real-time decision making. Discover more inside.
+title: Understanding Fuzzy Logic Systems for Real World Applications
 ---
 
 ![Image](images/1.png)

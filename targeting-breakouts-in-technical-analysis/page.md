@@ -1,6 +1,9 @@
 ---
-title: "Targeting Breakouts in Technical Analysis (Algo Trading)"
-description: "Discover how breakout strategies in technical analysis and algorithmic trading can enhance your trading approach by identifying and capitalizing on key market trends."
+category: trading_strategy
+description: Discover how breakout strategies in technical analysis and algorithmic
+  trading can enhance your trading approach by identifying and capitalizing on key
+  market trends.
+title: Targeting Breakouts in Technical Analysis (Algo Trading)
 ---
 
 In the fast-paced world of financial markets, traders and investors are in a constant pursuit of innovative strategies to enhance their returns. Among these strategies, breakout strategies have gained notable attention for their ability to capitalize on significant price movements, guided by the principles of technical analysis. These strategies focus on recognizing moments when a security's price crosses key support or resistance levels, potentially signaling the start of a new trend.

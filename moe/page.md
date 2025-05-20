@@ -1,7 +1,8 @@
 ---
-title: Understanding Mixture of Experts Models in Machine Learning
+category: quant_concept
 description: Mixture of Experts models combine specialized networks with a gating
   network to boost prediction accuracy and adapt to complex data Discover more inside
+title: Understanding Mixture of Experts Models in Machine Learning
 ---
 
 ![Image](images/1.png)

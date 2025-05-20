@@ -1,6 +1,8 @@
 ---
-title: "SEC Form CB (Algo Trading)"
-description: "Explore the pivotal role of SEC Form CB in regulating cross-border tender offers and rights offerings while navigating algorithmic trading complexities."
+category: quant_concept
+description: Explore the pivotal role of SEC Form CB in regulating cross-border tender
+  offers and rights offerings while navigating algorithmic trading complexities.
+title: SEC Form CB (Algo Trading)
 ---
 
 In finance and investments, cross-border transactions have become increasingly common. This globalization of financial activities presents both opportunities and challenges, particularly in navigating the complex web of regulations that govern these transactions. The role of regulatory bodies like the U.S. Securities and Exchange Commission (SEC) is crucial in ensuring that cross-border deals are conducted with transparency and fairness. Central to this regulatory framework is SEC Form CB, a specific form that is required for certain exempt cross-border tender offers and rights offerings.

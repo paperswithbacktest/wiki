@@ -1,6 +1,9 @@
 ---
-title: "Cumulative Return and Calculation (Algo Trading)"
-description: "Understanding and accurately calculating cumulative returns is key for investors and algorithmic traders to assess asset performance and optimize trading strategies effectively."
+category: quant_concept
+description: Understanding and accurately calculating cumulative returns is key for
+  investors and algorithmic traders to assess asset performance and optimize trading
+  strategies effectively.
+title: Cumulative Return and Calculation (Algo Trading)
 ---
 
 In the rapidly evolving world of finance, understanding and calculating cumulative returns is essential for investors who want to assess the performance of their assets over time. Cumulative returns offer a snapshot of how much an investment has grown or shrunk, expressed as a percentage. This measure is crucial for investors as it provides a straightforward way to evaluate the overall performance of an investment, incorporating both capital gains and income from dividends or interest.

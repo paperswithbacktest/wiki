@@ -1,6 +1,9 @@
 ---
-title: "Royal Bank of Scotland (Algo Trading)"
-description: "Explore the evolution of banking and finance in Scotland with the rise of algorithmic trading led by the Royal Bank of Scotland. Discover its impact and implications."
+category: trading_strategy
+description: Explore the evolution of banking and finance in Scotland with the rise
+  of algorithmic trading led by the Royal Bank of Scotland. Discover its impact and
+  implications.
+title: Royal Bank of Scotland (Algo Trading)
 ---
 
 Banking finance in Scotland has evolved significantly over the years, with a notable shift towards technological integration in its operations. One of the most profound changes in recent times has been the advent and rise of algorithmic trading. This method of trading uses complex algorithms to make high-speed, data-driven market transactions, thus playing a crucial role in modern financial ecosystems.

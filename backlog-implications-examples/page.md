@@ -1,6 +1,8 @@
 ---
-title: "Backlog: Implications and Examples (Algo Trading)"
-description: "Explore the impact of backlogs in algorithmic trading and discover strategies to manage them effectively for improved trading performance and system resilience."
+category: trading_strategy
+description: Explore the impact of backlogs in algorithmic trading and discover strategies
+  to manage them effectively for improved trading performance and system resilience.
+title: 'Backlog: Implications and Examples (Algo Trading)'
 ---
 
 Algorithmic trading, often referred to as algo trading, has fundamentally altered the landscape of financial trading by utilizing sophisticated computer programs to execute trades based on pre-determined criteria autonomously. This advancement has introduced unprecedented speed and precision to trading activities, enabling traders to capitalize on market opportunities swiftly and efficiently. However, the adoption of algorithmic trading is not without its challenges, one of which is managing potential bottlenecks, commonly known as backlogs.

@@ -1,6 +1,8 @@
 ---
-title: "Cash-Or-Nothing Call Options: Overview and Examples (Algo Trading)"
-description: "Explore the simplicity of Cash-or-Nothing call options in digital trading where payouts are predetermined making risk management straightforward for traders."
+category: quant_concept
+description: Explore the simplicity of Cash-or-Nothing call options in digital trading
+  where payouts are predetermined making risk management straightforward for traders.
+title: 'Cash-Or-Nothing Call Options: Overview and Examples (Algo Trading)'
 ---
 
 Cash-or-Nothing options are a significant aspect of digital options trading, offering traders a direct and uncomplicated financial instrument. These options provide a binary outcome: a trader receives a fixed amount of cash if the option expires "in the money" (where the underlying asset's price is above a predetermined strike price, in the case of a call option), or the trader receives nothing if this condition is not met. This distinctive payout structure simplifies the decision-making process, making Cash-or-Nothing options particularly appealing to those who prefer well-defined risk-reward scenarios.

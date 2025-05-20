@@ -1,6 +1,8 @@
 ---
-title: "Money on the Sidelines: Concept and Mechanism (Algo Trading)"
-description: "Discover how money on the sidelines impacts market dynamics and the role of algorithmic trading in shaping investment strategies and market behavior."
+category: quant_concept
+description: Discover how money on the sidelines impacts market dynamics and the role
+  of algorithmic trading in shaping investment strategies and market behavior.
+title: 'Money on the Sidelines: Concept and Mechanism (Algo Trading)'
 ---
 
 The concept of "money on the sidelines" refers to the funds that investors hold in cash or cash-equivalent securities, such as savings accounts and certificates of deposit (CDs), rather than deploying them into more volatile investment options like stocks or bonds. This unallocated capital plays a significant role in the financial markets, as its potential movement can signal shifts in investment trends and economic sentiment. During periods of economic uncertainty, investors might choose to increase their cash holdings, opting for safety over higher returns, which contributes to the volume of money on the sidelines.

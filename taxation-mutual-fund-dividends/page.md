@@ -1,6 +1,9 @@
 ---
-title: "Taxation of Mutual Fund Dividends (Algo Trading)"
-description: "Explore the complexities of mutual fund dividend taxation, with insights into ordinary, qualified, and capital gains distributions. Enhance returns by understanding tax impacts."
+category: quant_concept
+description: Explore the complexities of mutual fund dividend taxation, with insights
+  into ordinary, qualified, and capital gains distributions. Enhance returns by understanding
+  tax impacts.
+title: Taxation of Mutual Fund Dividends (Algo Trading)
 ---
 
 Investing in mutual funds offers a straightforward and diversified approach to generating dividend income, appealing to both novice and seasoned investors. Mutual funds pool resources from numerous investors to purchase a varied portfolio of stocks, bonds, or other securities, allowing individuals to access a range of investments without requiring comprehensive market knowledge or substantial capital. A key component of deriving benefits from mutual funds is understanding the tax implications attached to the dividends they generate. Different types of dividends—ordinary, qualified, and capital gains distributions—are subject to a variety of tax treatments, which can significantly impact an investor's net returns.

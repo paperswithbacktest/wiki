@@ -1,6 +1,9 @@
 ---
-title: "DAX Index and Its Constituent Companies (Algo Trading)"
-description: "Explore the synergy between the DAX Index and algorithmic trading tactics. Gain insights into enhancing trading performance through advanced strategies on this dynamic German market benchmark."
+category: dataset
+description: Explore the synergy between the DAX Index and algorithmic trading tactics.
+  Gain insights into enhancing trading performance through advanced strategies on
+  this dynamic German market benchmark.
+title: DAX Index and Its Constituent Companies (Algo Trading)
 ---
 
 The DAX, formally known as the Deutscher Aktienindex, is a significant benchmark in the German stock market landscape, encapsulating 40 of the most formidable companies listed on the Frankfurt Stock Exchange. These companies are pivotal not only to Germany's economic vitality but also to broader European financial health, as they collectively represent key sectors such as technology, automotive, and pharmaceuticals. Therefore, the performance of the DAX serves as a critical barometer for investors globally, reflecting underlying trends and shifts in Germany's corporate and economic milieu.

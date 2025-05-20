@@ -1,6 +1,9 @@
 ---
-title: "Liberian Dollar (Algo Trading)"
-description: "Explore the critical role of the Liberian Dollar in Liberia's economy its history application in financial markets and impact on economic policies and trading."
+category: dataset
+description: Explore the critical role of the Liberian Dollar in Liberia's economy
+  its history application in financial markets and impact on economic policies and
+  trading.
+title: Liberian Dollar (Algo Trading)
 ---
 
 This article explores the role of the Liberian Dollar (LRD) in Liberia's economy. As the primary currency of the nation, the LRD plays a vital role in daily transactions, economic policies, and the broader financial landscape. Understanding its history, current value, and application in financial markets is essential for a comprehensive grasp of Liberia's economic picture.

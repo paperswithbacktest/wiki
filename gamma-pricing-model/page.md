@@ -1,6 +1,8 @@
 ---
-title: "Gamma Pricing Model (Algo Trading)"
-description: "Explore the gamma pricing model's role in algorithmic trading to enhance risk management and option pricing accuracy in volatile financial markets."
+category: quant_concept
+description: Explore the gamma pricing model's role in algorithmic trading to enhance
+  risk management and option pricing accuracy in volatile financial markets.
+title: Gamma Pricing Model (Algo Trading)
 ---
 
 Algorithmic trading in the financial markets has gained significant traction over recent years, bringing precision and efficiency to trading strategies. This form of trading employs complex algorithms that can analyze and execute orders at speeds and frequencies impossible for a human trader. As a result, algorithmic trading can capitalize on minute market inefficiencies and adapt quickly to market changes, which is crucial in a highly dynamic trading environment.

@@ -1,7 +1,8 @@
 ---
-title: Advancing Human Object Interaction Detection With VSGNet
+category: quant_concept
 description: Human Object Interaction Detector uses AI vision to interpret how people
   interact with objects VSGNet enhances detection accuracy Discover more inside
+title: Advancing Human Object Interaction Detection With VSGNet
 ---
 
 ![Image](images/1.jpeg)

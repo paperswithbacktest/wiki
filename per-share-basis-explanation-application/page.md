@@ -1,6 +1,9 @@
 ---
-title: "Per Share Basis: Explanation and Application (Algo Trading)"
-description: "Explore the critical role of per-share financial metrics in investment analysis and algorithmic trading. Understand how EPS, cash flow, and more guide data-driven decisions."
+category: quant_concept
+description: Explore the critical role of per-share financial metrics in investment
+  analysis and algorithmic trading. Understand how EPS, cash flow, and more guide
+  data-driven decisions.
+title: 'Per Share Basis: Explanation and Application (Algo Trading)'
 ---
 
 In the rapidly evolving world of finance, understanding investment metrics on a per-share basis is crucial for investors and traders alike. These metrics offer a lens through which the financial health and performance of a company can be assessed, providing a normalized view that is essential for accurate valuation and comparison. This article explores key financial metrics per share, their importance in financial analysis, and their application in algorithmic trading. 

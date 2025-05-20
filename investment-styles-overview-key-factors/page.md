@@ -1,6 +1,9 @@
 ---
-title: "Investment Styles: Overview and Key Factors (Algo Trading)"
-description: "Explore the transformative impact of algorithmic trading on investment strategies. Discover how technology enhances precision and personalizes financial plans."
+category: trading_strategy
+description: Explore the transformative impact of algorithmic trading on investment
+  strategies. Discover how technology enhances precision and personalizes financial
+  plans.
+title: 'Investment Styles: Overview and Key Factors (Algo Trading)'
 ---
 
 Investment strategies have undergone significant transformations with the advent of sophisticated technologies. Traditional methods have been supplemented by data-driven approaches, and the introduction of algorithms has brought automation and precision to financial planning. The fusion of technology and finance not only enhances decision-making but also allows for personalized and adaptive investment strategies that cater to individual needs and goals.

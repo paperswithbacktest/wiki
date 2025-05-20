@@ -1,6 +1,13 @@
 ---
-title: "What Percentage of Day Traders Fail? (Algo Trading)"
-description: Discover the realities of day trading success rates, especially for those using algorithmic trading. This article explores the complexity and challenges associated with algo trading, highlighting the low percentage of traders who consistently profit. Learn about the risks, necessary technology investments, and market unpredictability that impact profitability, while gaining insights from global case studies and research findings. Optimize your strategies and make informed decisions in the competitive world of algorithmic trading.
+category: quant_concept
+description: Discover the realities of day trading success rates, especially for those
+  using algorithmic trading. This article explores the complexity and challenges associated
+  with algo trading, highlighting the low percentage of traders who consistently profit.
+  Learn about the risks, necessary technology investments, and market unpredictability
+  that impact profitability, while gaining insights from global case studies and research
+  findings. Optimize your strategies and make informed decisions in the competitive
+  world of algorithmic trading.
+title: What Percentage of Day Traders Fail? (Algo Trading)
 ---
 
 Day trading, often showcased as a pathway to rapid financial gain, presents a more intricate reality than what is commonly perceived. The sphere of day trading is characterized by its high-risk environment and swift decision-making processes. This article intends to demystify the success rates associated with day traders, placing particular emphasis on those who engage in algorithmic trading.

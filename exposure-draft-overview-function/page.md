@@ -1,6 +1,8 @@
 ---
-title: "Exposure Draft: Overview and Function (Algo Trading)"
-description: "Algorithmic trading advancements demand standards for fairness and stability. Explore exposure drafts' role in shaping transparent, efficient trading regulations."
+category: quant_concept
+description: Algorithmic trading advancements demand standards for fairness and stability.
+  Explore exposure drafts' role in shaping transparent, efficient trading regulations.
+title: 'Exposure Draft: Overview and Function (Algo Trading)'
 ---
 
 Algorithmic trading, a critical facet of modern financial markets, involves the use of computer algorithms to automate trading decisions. This technological advancement has reshaped how trading occurs, offering speed, efficiency, and the ability to process complex data for optimized trading strategies. To ensure that these benefits do not compromise the market's integrity, standard setting becomes essential. Standard setting in algorithmic trading refers to the development and implementation of rules and guidelines to govern trading practices, ensuring fairness, transparency, and stability in financial markets. 

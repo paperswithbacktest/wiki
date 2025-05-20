@@ -1,6 +1,9 @@
 ---
-title: "Issuance of Federal Bonds (Algo Trading)"
-description: "Explore the intricate world of federal bonds issuance and the transformative impact of algorithmic trading Learn how these factors influence financial markets today"
+category: quant_concept
+description: Explore the intricate world of federal bonds issuance and the transformative
+  impact of algorithmic trading Learn how these factors influence financial markets
+  today
+title: Issuance of Federal Bonds (Algo Trading)
 ---
 
 Federal bonds and government securities are pivotal components of the global financial system, serving as fundamental instruments for government financing and providing a safe investment option for individuals and institutional investors alike. These securities not only help governments raise capital for public projects and manage national debt but also play a crucial role in maintaining economic stability and liquidity within the financial markets.

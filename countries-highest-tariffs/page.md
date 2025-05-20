@@ -1,6 +1,9 @@
 ---
-title: "Countries With the Highest Tariffs (Algo Trading)"
-description: "Explore the impact of tariffs and trade policies on global markets and algorithmic trading Discover how these economic measures shape commerce in a digital era"
+category: quant_concept
+description: Explore the impact of tariffs and trade policies on global markets and
+  algorithmic trading Discover how these economic measures shape commerce in a digital
+  era
+title: Countries With the Highest Tariffs (Algo Trading)
 ---
 
 In an increasingly globalized economy, understanding the intricacies of economic measures, tariffs, and trade policy is essential. As nations become more interconnected, the global economy is shaped by diverse and complex factors such as tariffs, trade agreements, and strategic fiscal policies. These elements are not only central to international commerce but also significantly impact national economies and individual businesses. 

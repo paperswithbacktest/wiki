@@ -1,7 +1,8 @@
 ---
-title: State Representation and Management in Machine Learning
+category: quant_concept
 description: State management in machine learning ensures models capture context over
   time enabling better predictions across diverse tasks Discover more inside.
+title: State Representation and Management in Machine Learning
 ---
 
 ![Image](images/1.png)

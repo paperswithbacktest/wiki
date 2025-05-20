@@ -1,6 +1,9 @@
 ---
-title: "tick size impact (Algo Trading)"
-description: "Explore how tick size influences algorithmic trading, market liquidity, and volatility. Understanding its impact helps in optimizing trading strategies and execution."
+category: quant_concept
+description: Explore how tick size influences algorithmic trading, market liquidity,
+  and volatility. Understanding its impact helps in optimizing trading strategies
+  and execution.
+title: tick size impact (Algo Trading)
 ---
 
 Tick size is a critical concept in financial markets, representing the minimum price movement of a trading instrument. This parameter is essential in influencing various market dynamics and trading strategies. Tick size not only affects liquidity, volatility, and price discovery but also plays a significant role in optimizing algorithmic trading systems. In financial markets, accurate knowledge of tick size helps traders and algorithms execute trades more efficiently, minimizing costs and maximizing potential returns.

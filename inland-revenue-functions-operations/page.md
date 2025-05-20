@@ -1,6 +1,9 @@
 ---
-title: "Inland Revenue: Functions and Operations (Algo Trading)"
-description: "Explore the evolution of Inland Revenue and HMRC in adapting tax systems to modern financial technologies like algorithmic trading for enhanced economic stability."
+category: quant_concept
+description: Explore the evolution of Inland Revenue and HMRC in adapting tax systems
+  to modern financial technologies like algorithmic trading for enhanced economic
+  stability.
+title: 'Inland Revenue: Functions and Operations (Algo Trading)'
 ---
 
 In an increasingly globalized economy, efficient tax administration is crucial for government revenue management. Tax systems must adapt to ensure adequate funding for public services and infrastructure, and they play a pivotal role in economic stability. The history of tax administration in the UK can be traced back to the establishment of the Inland Revenue in 1849, which marked a significant development in the systematic collection of taxes. This department was responsible for administering direct taxes, such as income tax and various tax credits. It laid the groundwork for modern tax systems and strategies, demonstrating the evolution of governmental approaches towards efficient tax collection.

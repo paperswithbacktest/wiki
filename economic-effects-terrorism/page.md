@@ -1,6 +1,10 @@
 ---
-title: "Economic Effects of Terrorism (Algo Trading)"
-description: "Explore the economic impacts of terrorism on global markets with a focus on algorithmic trading which magnifies market reactions. Understand how these high-speed trading systems contribute to market volatility in the wake of geopolitical turmoil and the strategies needed to enhance market stability."
+category: quant_concept
+description: Explore the economic impacts of terrorism on global markets with a focus
+  on algorithmic trading which magnifies market reactions. Understand how these high-speed
+  trading systems contribute to market volatility in the wake of geopolitical turmoil
+  and the strategies needed to enhance market stability.
+title: Economic Effects of Terrorism (Algo Trading)
 ---
 
 In today's rapidly evolving global landscape, economic systems face a multitude of challenges that significantly affect their stability and growth. These challenges arise from diverse sources, including technological advances, geopolitical shifts, and unexpected incidents like terrorism. Terrorism, in particular, exerts a profound dual impact on global markets, affecting both the direct economic activities and the indirect psychological perceptions that drive these markets. The unpredictability associated with terrorist actions can cause abrupt disruptions in trade, investment flows, and economic confidence, leading to potential volatility in financial markets worldwide.

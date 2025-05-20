@@ -1,6 +1,9 @@
 ---
-title: "Implied Repo Rate (Algo Trading)"
-description: "Explore the pivotal role of securities lending and the implied repo rate in algo trading. Discover how algorithmic techniques enhance market efficiency and profitability."
+category: quant_concept
+description: Explore the pivotal role of securities lending and the implied repo rate
+  in algo trading. Discover how algorithmic techniques enhance market efficiency and
+  profitability.
+title: Implied Repo Rate (Algo Trading)
 ---
 
 Securities lending is a pivotal financial transaction where securities are temporarily transferred from one party to another. This transaction is fundamental in financial markets because it enhances liquidity, which is crucial for efficient market functioning. By facilitating the availability of securities, it supports various trading and investment strategies, such as short selling and hedging. These strategies are integral to market participants looking to optimize returns and manage risks.

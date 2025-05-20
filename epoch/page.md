@@ -1,7 +1,8 @@
 ---
-title: Optimizing Epochs for Effective Machine Learning Training
+category: quant_concept
 description: Epochs control model learning balance to prevent underfitting or overfitting
   with validation and early stopping for better accuracy Discover more inside
+title: Optimizing Epochs for Effective Machine Learning Training
 ---
 
 ![Image](images/1.png)

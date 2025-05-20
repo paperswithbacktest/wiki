@@ -1,6 +1,9 @@
 ---
-title: "Decentralized Blockchain-Based Internet (Algo Trading)"
-description: "Explore how decentralized blockchain technology and algo trading merge to revolutionize internet control and financial transactions fostering security and autonomy."
+category: quant_concept
+description: Explore how decentralized blockchain technology and algo trading merge
+  to revolutionize internet control and financial transactions fostering security
+  and autonomy.
+title: Decentralized Blockchain-Based Internet (Algo Trading)
 ---
 
 In the ever-evolving landscape of the internet and financial markets, decentralization and blockchain technology are set to redefine the future. The internet, as it exists today, is largely dominated by a few major corporations that exert significant control over user data and interactions. A decentralized internet seeks to dismantle this monopoly, offering an open and user-controlled experience. This new paradigm aims to minimize the influence of intermediaries and provide enhanced privacy and autonomy to users. Blockchain technology plays a pivotal role in this transformation by enabling secure, peer-to-peer connections and data exchanges without the need for centralized control.

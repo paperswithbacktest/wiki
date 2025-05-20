@@ -1,7 +1,8 @@
 ---
-title: Understanding the Target Variable in Machine Learning Models
+category: quant_concept
 description: Target variable in machine learning guides model predictions by defining
   clear outcomes assess performance refine features Discover more inside.
+title: Understanding the Target Variable in Machine Learning Models
 ---
 
 ![Image](images/1.png)

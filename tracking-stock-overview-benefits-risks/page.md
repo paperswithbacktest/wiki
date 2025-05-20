@@ -1,6 +1,8 @@
 ---
-title: "Tracking Stock: Overview, Benefits, and Risks (Algo Trading)"
-description: "Explore tracking stocks and algorithmic trading in finance covering benefits, risks, and strategies for optimizing portfolios and enhancing investment returns."
+category: trading_strategy
+description: Explore tracking stocks and algorithmic trading in finance covering benefits,
+  risks, and strategies for optimizing portfolios and enhancing investment returns.
+title: 'Tracking Stock: Overview, Benefits, and Risks (Algo Trading)'
 ---
 
 In the world of finance, technology has dramatically transformed how investors approach the stock market, with algorithmic trading at the forefront of this change. Algorithmic trading, which utilizes computer algorithms to execute trades, has revolutionized market dynamics by improving efficiency, accuracy, and speed. These technological advancements have provided investors with new tools to navigate the complexities of the financial markets, allowing for strategies that were once impossible or impractical to implement manually.

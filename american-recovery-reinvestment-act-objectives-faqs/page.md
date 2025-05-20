@@ -1,6 +1,8 @@
 ---
-title: "American Recovery and Reinvestment Act: Objectives and FAQs (Algo Trading)"
-description: "Explore the objectives and components of the American Recovery and Reinvestment Act of 2009 and its impact on economic recovery and algorithmic trading."
+category: quant_concept
+description: Explore the objectives and components of the American Recovery and Reinvestment
+  Act of 2009 and its impact on economic recovery and algorithmic trading.
+title: 'American Recovery and Reinvestment Act: Objectives and FAQs (Algo Trading)'
 ---
 
 The American Recovery and Reinvestment Act (ARRA) of 2009, a pivotal legislative move in U.S. history, was enacted to counteract the severe economic downturn of the Great Recession. This period of recession, marked by significant declines in consumer spending and industrial production, called for decisive action to restore economic stability. The ARRA sought to inject a substantial fiscal stimulus into the economy, aimed primarily at revitalizing economic activity and curbing the spike in unemployment rates.

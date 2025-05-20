@@ -1,6 +1,8 @@
 ---
-title: "Bottom-Up and Top-Down Investing (Algo Trading)"
-description: "Explore the distinct advantages of top-down and bottom-up investing strategies alongside the precision of algorithmic trading to optimize investment returns."
+category: trading_strategy
+description: Explore the distinct advantages of top-down and bottom-up investing strategies
+  alongside the precision of algorithmic trading to optimize investment returns.
+title: Bottom-Up and Top-Down Investing (Algo Trading)
 ---
 
 Investing strategies have evolved to help investors optimize returns while minimizing associated risks. Among these, top-down and bottom-up investing represent two fundamental approaches catering to a variety of investment styles and objectives. Top-down investing begins with a macro perspective, emphasizing global economic indicators and overarching trends to identify viable sectors for investment. Conversely, bottom-up investing hones in on the granular details of individual companies, employing thorough analysis of financial health, management acumen, and market positioning to uncover potentially undervalued stocks.

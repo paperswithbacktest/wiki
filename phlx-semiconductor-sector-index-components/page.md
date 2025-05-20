@@ -1,6 +1,9 @@
 ---
-title: "PHLX Semiconductor Sector Index Components (Algo Trading)"
-description: "Explore the PHLX Semiconductor Sector Index Components and discover key insights into the semiconductor industry and its dynamics affecting algorithmic trading."
+category: dataset
+description: Explore the PHLX Semiconductor Sector Index Components and discover key
+  insights into the semiconductor industry and its dynamics affecting algorithmic
+  trading.
+title: PHLX Semiconductor Sector Index Components (Algo Trading)
 ---
 
 The SOX Index, formally known as the Philadelphia Semiconductor Index, is a crucial barometer for the semiconductor sector, encompassing 30 leading semiconductor companies. This index is pivotal for gauging the overall health and trends within a sector that is fundamental to modern technology, powering everything from smartphones to complex data centers. Given its composition of prominent semiconductor firms, the SOX Index stands as a vital tool for investors seeking insights into technological advancements and market dynamics associated with semiconductors.

@@ -1,6 +1,8 @@
 ---
-title: "Financial Information Exchange (FIX) Protocol and Users (Algo Trading)"
-description: "Unlock the power of the FIX protocol in algorithmic trading by enhancing trade efficiency through standardized, low-latency communication essential for success."
+category: quant_concept
+description: Unlock the power of the FIX protocol in algorithmic trading by enhancing
+  trade efficiency through standardized, low-latency communication essential for success.
+title: Financial Information Exchange (FIX) Protocol and Users (Algo Trading)
 ---
 
 Understanding the intricacies of financial trading technology is crucial for both seasoned investors and newcomers. As the financial markets increasingly rely on technology-driven solutions, the Financial Information eXchange (FIX) protocol stands at the forefront of electronic trading communication. The FIX protocol plays a pivotal role in modernizing and streamlining trading activities by standardizing the method through which financial information is exchanged between market participants. Its influence extends across various aspects of trading technology, financial exchanges, and algorithmic trading.

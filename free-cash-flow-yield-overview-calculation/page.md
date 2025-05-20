@@ -1,6 +1,9 @@
 ---
-title: "Free Cash Flow Yield: Overview and Calculation (Algo Trading)"
-description: "Discover the significance of free cash flow yield in investment insights. Learn how it guides evaluating company profitability and enhances algorithmic trading strategies."
+category: quant_concept
+description: Discover the significance of free cash flow yield in investment insights.
+  Learn how it guides evaluating company profitability and enhances algorithmic trading
+  strategies.
+title: 'Free Cash Flow Yield: Overview and Calculation (Algo Trading)'
 ---
 
 Free cash flow yield is a critical financial metric that measures the return a company generates in relation to its free cash flow. It is defined as the free cash flow per share divided by the market price per share, often expressed as a percentage. Mathematically, it can be represented as:

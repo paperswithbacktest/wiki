@@ -1,6 +1,9 @@
 ---
-title: "Lessons From the 2008 Global Financial Crisis (Algo Trading)"
-description: "Explore the critical lessons from the 2008 financial crisis delving into economic strategies, policy reforms, and the role of algorithmic trading in shaping today’s markets."
+category: quant_concept
+description: Explore the critical lessons from the 2008 financial crisis delving into
+  economic strategies, policy reforms, and the role of algorithmic trading in shaping
+  today’s markets.
+title: Lessons From the 2008 Global Financial Crisis (Algo Trading)
 ---
 
 In 2008, the global economy was shaken by a financial crisis of unprecedented scale, the most severe since the Great Depression of the 1930s. The crisis had a profound impact on all financial markets, sparking widespread economic turmoil. The collapse began with the bursting of the U.S. housing bubble, a crisis that quickly expanded into a global financial disaster. The ripple effects were catastrophic, leading to the failure of key financial institutions, a massive plummet in consumer wealth, and a subsequent downturn in economic activity worldwide.

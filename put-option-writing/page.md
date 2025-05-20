@@ -1,6 +1,8 @@
 ---
-title: "Put Option Writing (Algo Trading)"
-description: "Explore put option writing in algorithmic trading examining how selling put options can generate income and manage risk with automated trading strategies."
+category: trading_strategy
+description: Explore put option writing in algorithmic trading examining how selling
+  put options can generate income and manage risk with automated trading strategies.
+title: Put Option Writing (Algo Trading)
 ---
 
 Understanding financial derivatives is crucial for both seasoned and novice traders, as these instruments offer a broad range of strategies for managing risk and generating income. Among financial derivatives, put options play a pivotal role in options trading, providing investors with unique opportunities to profit from expected market downturns. Specifically, a put option grants the holder the right, but not the obligation, to sell an underlying asset at a specified price before a certain expiration date. This property makes put options inherently valuable in bearish market conditions, where traders can benefit from declining asset prices.
@@ -222,4 +224,3 @@ For more information, consider the following resources:
 - "Options, Futures, and Other Derivatives" by John C. Hull for an in-depth exploration of derivatives and the Black-Scholes model.
 - "Algorithmic Trading: Winning Strategies and Their Rationale" by Ernie Chan, which offers practical insights into the development and application of trading algorithms.
 - Academic journals such as the "Journal of Financial Economics" and "Quantitative Finance" regularly publish studies and reviews relevant to algorithmic trading and derivatives pricing.
-

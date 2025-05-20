@@ -1,11 +1,10 @@
 ---
-title: Implementing Pure Functions for Reliable Machine Learning
+category: quant_concept
 description: Pure functions ensure predictable results and modular code in machine
   learning models offering easier testing debugging and scalability Discover more
   inside
+title: Implementing Pure Functions for Reliable Machine Learning
 ---
-
-
 
 ## Table of Contents
 

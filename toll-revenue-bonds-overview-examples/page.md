@@ -1,6 +1,8 @@
 ---
-title: "Toll Revenue Bonds: Overview and Examples (Algo Trading)"
-description: "Explore toll revenue bonds as essential tools for funding infrastructure, offering insights into their role and the transformative impact of algorithmic trading."
+category: quant_concept
+description: Explore toll revenue bonds as essential tools for funding infrastructure,
+  offering insights into their role and the transformative impact of algorithmic trading.
+title: 'Toll Revenue Bonds: Overview and Examples (Algo Trading)'
 ---
 
 In the evolving landscape of finance, bonds remain a fundamental component, serving as critical instruments for funding various projects. As municipalities and governments worldwide face increasing demands for infrastructure development, funding mechanisms such as toll revenue bonds have become essential. These bonds are issued to finance vital public projects such as highways, bridges, and tunnels, providing a stream of revenue from collected tolls which is used to repay bondholders.

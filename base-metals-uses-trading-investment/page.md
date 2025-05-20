@@ -1,6 +1,8 @@
 ---
-title: "Base Metals: Uses, Trading, and Investment (Algo Trading)"
-description: "Explore the essentials of base metal investment trading and algo strategies Learn their critical industrial role and uncover potential in economic growth"
+category: trading_strategy
+description: Explore the essentials of base metal investment trading and algo strategies
+  Learn their critical industrial role and uncover potential in economic growth
+title: 'Base Metals: Uses, Trading, and Investment (Algo Trading)'
 ---
 
 Investing in base metals is a strategic move for many investors due to their essential role in industrial applications and infrastructure development. Base metals, including copper, aluminum, and nickel, are critical due to their wide-ranging uses across various sectors such as construction, manufacturing, and energy production. Unlike precious metals, which are rare and primarily serve as investment hedges or jewelry, base metals are more abundant and cheaper, yet they hold substantial economic importance. Their widespread use makes them vital indicators of economic health, often reflecting cyclical trends in industrial output and consumer demand.
@@ -131,4 +133,3 @@ Looking forward, the ongoing evolution of algorithmic trading will likely contin
 [6]: Kaufman, P. J. (2013). ["Trading Systems and Methods"](https://onlinelibrary.wiley.com/doi/book/10.1002/9781119202561). Wiley.
 
 [7]: Fabozzi, F. J., Focardi, S. M., & Jonas, C. (2014). ["The Basics of Algorithmic Trading."](https://www.semanticscholar.org/paper/Quantitative-Equity-Investing%3A-Techniques-and-Fabozzi-Focardi/1c49a2a53919f7e65cb96f16691b8ff726fd3cd7) CFA Institute.
-

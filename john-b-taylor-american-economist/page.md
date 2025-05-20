@@ -1,6 +1,8 @@
 ---
-title: "John B. Taylor: American Economist (Algo Trading)"
-description: "Explore the impact of John B. Taylor's economic theories on algorithmic trading Learn how the Taylor Rule guides trading strategies and stabilizes markets"
+category: quant_concept
+description: Explore the impact of John B. Taylor's economic theories on algorithmic
+  trading Learn how the Taylor Rule guides trading strategies and stabilizes markets
+title: 'John B. Taylor: American Economist (Algo Trading)'
 ---
 
 John B. Taylor has made an indelible mark in the field of economics through his substantial contributions, most notably the development of the Taylor Rule. Introduced in 1993, the Taylor Rule provides a systematic method for central banks to determine the appropriate level of short-term interest rates, considering deviations in inflation from its target and the economic output gap. This rule has become a fundamental framework for policymakers worldwide, helping them navigate the complex dynamics of macroeconomic management.

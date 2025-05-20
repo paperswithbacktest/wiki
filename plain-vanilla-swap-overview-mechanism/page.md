@@ -1,6 +1,8 @@
 ---
-title: "Plain Vanilla Swap: Overview and Mechanism (Algo Trading)"
-description: "Explore the essentials of plain vanilla swaps and algorithmic trading Mechanisms in these financial tools provide risk management and improve market strategies"
+category: quant_concept
+description: Explore the essentials of plain vanilla swaps and algorithmic trading
+  Mechanisms in these financial tools provide risk management and improve market strategies
+title: 'Plain Vanilla Swap: Overview and Mechanism (Algo Trading)'
 ---
 
 Financial derivatives are complex financial instruments that play a crucial role in the global market by allowing participants to manage risk and enhance returns. This article focuses on three key components of financial derivatives: plain vanilla swaps, swap contracts, and algorithmic trading.

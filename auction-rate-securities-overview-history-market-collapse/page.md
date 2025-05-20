@@ -1,6 +1,9 @@
 ---
-title: "Auction Rate Securities: Overview, History, and Market Collapse (Algo Trading)"
-description: "Explore the rise and fall of auction rate securities with insights into their market collapse in 2008 and the impact of algorithmic trading on financial stability."
+category: quant_concept
+description: Explore the rise and fall of auction rate securities with insights into
+  their market collapse in 2008 and the impact of algorithmic trading on financial
+  stability.
+title: 'Auction Rate Securities: Overview, History, and Market Collapse (Algo Trading)'
 ---
 
 This article explores the intriguing financial saga of auction rate securities (ARS), their market collapse, and the role of algorithmic trading. ARS are a unique class of variable-rate debt instruments, distinguished by the Dutch auction method used to reset their interest rates periodically. This mechanism, which initially promised the benefits of both long-term yield and short-term liquidity, led to their widespread adoption in the early 2000s, especially by municipal and corporate issuers looking for efficient capital-raising solutions. However, the facade of a high-grade, liquid investment was shattered during the financial crisis in 2008 when major financial players, including Citigroup and UBS AG, ceased their roles as last-resort bidders in these auctions. This withdrawal triggered a series of auction failures, leaving investors with illiquid securities and highlighting the systemic vulnerabilities inherent to ARS.

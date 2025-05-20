@@ -1,6 +1,9 @@
 ---
-title: "Global Reporting Initiative: Standards and Importance (Algo Trading)"
-description: "Discover the importance of GRI standards in algorithmic trading to enhance transparency and integrate sustainability, crucial for business operations and stakeholder trust."
+category: quant_concept
+description: Discover the importance of GRI standards in algorithmic trading to enhance
+  transparency and integrate sustainability, crucial for business operations and stakeholder
+  trust.
+title: 'Global Reporting Initiative: Standards and Importance (Algo Trading)'
 ---
 
 The intersection of corporate sustainability and algorithmic trading underscores the increasing necessity for standards like the Global Reporting Initiative (GRI) to facilitate transparent reporting. In recent years, there has been a significant shift towards integrating sustainability into various business operations, with algorithmic trading being no exception. The application of GRI standards has become increasingly relevant as companies strive to communicate their environmental, social, and economic impacts effectively. By doing so, they not only improve internal management but also cater to the growing demand for transparency from stakeholders and investors alike.

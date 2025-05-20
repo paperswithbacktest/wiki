@@ -1,6 +1,8 @@
 ---
-title: "Pips in Currency Trading (Algo Trading)"
-description: "Explore the essential role of pips in currency trading and how algorithmic strategies enhance profitability and precision in the forex market."
+category: quant_concept
+description: Explore the essential role of pips in currency trading and how algorithmic
+  strategies enhance profitability and precision in the forex market.
+title: Pips in Currency Trading (Algo Trading)
 ---
 
 In the complex world of forex trading, understanding the intricacies of pips is fundamental for any trader aiming for success. Pips, or "percentage in point," act as the basic unit of measurement in the foreign exchange market, representing the smallest possible price movement between currency pairs. Mastery of pips allows traders to accurately assess and manage their trades, potentially transforming minimal price shifts into substantial profits or losses.

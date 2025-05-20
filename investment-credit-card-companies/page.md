@@ -1,6 +1,8 @@
 ---
-title: "Investment in Credit Card Companies (Algo Trading)"
-description: "Explore the evolving roles of investment credit card companies and algorithmic trading in the financial sector enhanced by technology and data analytics."
+category: trading_strategy
+description: Explore the evolving roles of investment credit card companies and algorithmic
+  trading in the financial sector enhanced by technology and data analytics.
+title: Investment in Credit Card Companies (Algo Trading)
 ---
 
 The financial sector is undergoing a profound transformation, with technology playing a pivotal role in reshaping its landscape. At the forefront of this technological evolution are investment credit card companies and algorithmic trading firms, both of which are harnessing advanced technologies to enhance profitability, streamline operations, and improve customer experiences.
@@ -92,4 +94,3 @@ Understanding the complex interplay between these sectors is essential for navig
 [4]: Fabozzi, F. J., Focardi, S. M., Kolm, P. N., & Pettersson, L. (2010). ["Robust Portfolio Optimization and Management"](https://onlinelibrary.wiley.com/doi/book/10.1002/9781119202172). Wiley Finance Series.
 
 [5]: Patel, N. R., & Brooks, C. (2011). ["Evaluating the Role of Credit Card Companies in the Financial Sector"](https://www.semanticscholar.org/paper/Exploring-Research-Methodology%3A-Review-Article-Patel-Patel/88848e60f6063fbe61e3487c1d9681650e33703e). The Journal of Finance.
-

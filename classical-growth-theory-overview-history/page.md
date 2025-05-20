@@ -1,6 +1,8 @@
 ---
-title: "Classical Growth Theory: Overview and Historical Context (Algo Trading)"
-description: "Explore Classical Growth Theory's historical context and its modern relevance in algo trading with insights from economists like Adam Smith and David Ricardo."
+category: quant_concept
+description: Explore Classical Growth Theory's historical context and its modern relevance
+  in algo trading with insights from economists like Adam Smith and David Ricardo.
+title: 'Classical Growth Theory: Overview and Historical Context (Algo Trading)'
 ---
 
 Economic theories serve as essential frameworks for comprehending the complex processes through which economies grow and evolve. Among various economic theories, Classical Growth Theory holds a prominent place, particularly because of its significant role during the transformative period of the Industrial Revolution. This theory, pioneered by influential economists such as Adam Smith and David Ricardo, provides insights into the mechanisms of economic growth, emphasizing critical factors like capital accumulation, specialization, and trade.

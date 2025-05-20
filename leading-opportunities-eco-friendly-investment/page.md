@@ -1,6 +1,8 @@
 ---
-title: "Leading Opportunities in Eco-Friendly Investment (Algo Trading)"
-description: "Explore eco-friendly investment opportunities through algorithmic trading that blend financial goals with sustainability, supporting a healthier planet."
+category: trading_strategy
+description: Explore eco-friendly investment opportunities through algorithmic trading
+  that blend financial goals with sustainability, supporting a healthier planet.
+title: Leading Opportunities in Eco-Friendly Investment (Algo Trading)
 ---
 
 In recent years, the intersection of finance and environmental sustainability has gained significant traction. As global awareness about climate change and environmental degradation increases, investors are increasingly motivated to align their financial goals with environmental responsibility. This growing trend underscores the importance of sustainable finance, which offers a promising avenue for reconciling economic growth with the principles of environmental stewardship.

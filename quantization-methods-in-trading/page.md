@@ -1,6 +1,8 @@
 ---
-title: "quantization methods in trading (Algo Trading)"
-description: "Discover the power of quantization methods in algorithmic trading to optimize data processing and enhance model performance, driving competitive advantage."
+category: quant_concept
+description: Discover the power of quantization methods in algorithmic trading to
+  optimize data processing and enhance model performance, driving competitive advantage.
+title: quantization methods in trading (Algo Trading)
 ---
 
 In the world of algorithmic trading, the efficiency and accuracy of models hinge significantly on the data representations employed. One technique that has proven increasingly valuable in this domain is quantization. Borrowed from the field of signal processing, quantization has emerged as a key player in enhancing the performance of trading algorithms. By converting continuous data into discrete values, quantization simplifies complex datasets, thereby facilitating faster computation and analysis.

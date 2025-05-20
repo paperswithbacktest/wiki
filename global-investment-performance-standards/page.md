@@ -1,6 +1,9 @@
 ---
-title: "Global Investment Performance Standards (Algo Trading)"
-description: "Explore the intersection of global investment standards and algorithmic trading shaping modern finance and driving transparency and efficiency in market practices."
+category: quant_concept
+description: Explore the intersection of global investment standards and algorithmic
+  trading shaping modern finance and driving transparency and efficiency in market
+  practices.
+title: Global Investment Performance Standards (Algo Trading)
 ---
 
 The current financial landscape is undergoing rapid advancements, primarily driven by the integration of cutting-edge technology in investment management. This transformation has made global performance finance guidelines and investment standards increasingly critical for ensuring consistency and transparency. These guidelines offer frameworks guaranteeing fair representation and disclosure of investment performance, establishing a level playing field for asset managers globally. The Global Investment Performance Standards (GIPS) are a prominent example, providing a foundation of integrity in performance data and comparisons among investment firms worldwide.

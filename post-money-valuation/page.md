@@ -1,6 +1,9 @@
 ---
-title: "Post-Money Valuation (Algo Trading)"
-description: "Explore the dynamic realm of investment startups as they employ innovative valuation techniques and algorithmic trading to maximize returns and navigate today's complex financial landscapes."
+category: quant_concept
+description: Explore the dynamic realm of investment startups as they employ innovative
+  valuation techniques and algorithmic trading to maximize returns and navigate today's
+  complex financial landscapes.
+title: Post-Money Valuation (Algo Trading)
 ---
 
 The intersection of investment startups, valuation methods, and algorithmic trading signifies a dynamic and rapidly evolving segment within the financial industry. These elements collectively contribute to reshaping the strategies that startups employ to attract investment and maximize returns. Investment startups, often at the forefront of innovation, adopt advanced valuation techniques to appraise their market potential and appeal to investors. These valuation methods are crucial, as they not only provide a fiscal snapshot of the startup's worth but also guide investors through complex and often volatile financial landscapes.

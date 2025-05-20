@@ -1,6 +1,9 @@
 ---
-title: "Customer Type Indicator Codes (Algo Trading)"
-description: "Explore the significance of Customer Type Indicator codes in algorithmic trading and their impact on market transparency efficiency and trading strategy optimization in futures exchanges."
+category: quant_concept
+description: Explore the significance of Customer Type Indicator codes in algorithmic
+  trading and their impact on market transparency efficiency and trading strategy
+  optimization in futures exchanges.
+title: Customer Type Indicator Codes (Algo Trading)
 ---
 
 In the rapidly evolving world of finance, understanding the intricacies of customer classification and the role of customer indicators is crucial. These elements form the backbone of efficient trade execution within futures exchanges, playing a significant role in maintaining market integrity and competitiveness. At the core of these processes lie Customer Type Indicator (CTI) codes, which are integral in distinguishing the different types of market participants and tracking trade flows. This article examines the relationship between CTI codes and algorithmic trading, elucidating their combined impact on financial markets.

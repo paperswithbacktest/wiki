@@ -1,6 +1,8 @@
 ---
-title: "Business Turnover and Its Importance (Algo Trading)"
-description: "Explore the importance of business turnover in assessing operational efficiency and strategic decision-making in algorithmic trading with expert insights."
+category: quant_concept
+description: Explore the importance of business turnover in assessing operational
+  efficiency and strategic decision-making in algorithmic trading with expert insights.
+title: Business Turnover and Its Importance (Algo Trading)
 ---
 
 In business, understanding various financial metrics such as turnover is crucial for assessing a company's operational efficiency. Turnover is a versatile metric that provides insights into how effectively a company manages its operational resources. It is significant not only for financial assessment but also for strategic decision-making, influencing everything from company revenues to investment portfolios and algorithmic trading strategies. 

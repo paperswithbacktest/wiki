@@ -1,6 +1,13 @@
 ---
-title: "Pump and Dump in Cryptocurrencies"
-description: Explore the intricacies of pump and dump schemes in the volatile cryptocurrency market. Learn how these schemes operate by artificially inflating digital asset prices through misleading information, leading to investor losses upon sell-offs. Discover the role of algorithmic trading in executing and predicting these schemes, alongside the ethical and regulatory challenges faced in largely unregulated crypto exchanges. Understand the psychology behind participants' attraction despite risks, driven by thrill and overconfidence biases, in a market ripe for manipulation.
+category: trading_strategy
+description: Explore the intricacies of pump and dump schemes in the volatile cryptocurrency
+  market. Learn how these schemes operate by artificially inflating digital asset
+  prices through misleading information, leading to investor losses upon sell-offs.
+  Discover the role of algorithmic trading in executing and predicting these schemes,
+  alongside the ethical and regulatory challenges faced in largely unregulated crypto
+  exchanges. Understand the psychology behind participants' attraction despite risks,
+  driven by thrill and overconfidence biases, in a market ripe for manipulation.
+title: Pump and Dump in Cryptocurrencies
 ---
 
 The cryptocurrency market, marked by its significant volatility and frequent price swings, has emerged as a fertile ground for various trading schemes. Among these, the 'pump and dump' scheme stands out as one of the most notorious. Originally associated with traditional stock markets, this deceptive practice has increasingly migrated to the cryptocurrency domain. In essence, a pump and dump scheme involves artificially inflating the price of a cryptocurrency through the dissemination of false or misleading information, prompting a rush of investment and subsequent price surge, before orchestrating a sell-off that leaves unsuspecting investors at a loss.

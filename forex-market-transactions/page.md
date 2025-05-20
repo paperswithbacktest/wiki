@@ -1,6 +1,13 @@
 ---
-title: "Forex Market Transactions (Algo Trading)"
-description: "Explore the dynamic world of forex trading where algo trading is revolutionizing currency transactions. Discover how algorithmic strategies enhance trading efficiency by automating and optimizing decisions, enabling rapid execution of orders with precision and logic. Learn about the essential mechanics of forex market transactions, including currency pairs, leverage, and the impact of macroeconomic factors. Understand the basics of algorithmic trading and its role in minimizing emotional biases, offering traders a strategic edge in navigating the forex market's complexity and volatility."
+category: trading_strategy
+description: Explore the dynamic world of forex trading where algo trading is revolutionizing
+  currency transactions. Discover how algorithmic strategies enhance trading efficiency
+  by automating and optimizing decisions, enabling rapid execution of orders with
+  precision and logic. Learn about the essential mechanics of forex market transactions,
+  including currency pairs, leverage, and the impact of macroeconomic factors. Understand
+  the basics of algorithmic trading and its role in minimizing emotional biases, offering
+  traders a strategic edge in navigating the forex market's complexity and volatility.
+title: Forex Market Transactions (Algo Trading)
 ---
 
 The world of currency trading in the forex market has evolved significantly over the years. As a decentralized global market, forex facilitates the trading of currencies and operates 24 hours a day, five days a week, providing unparalleled opportunities for traders around the world. One of the most pivotal developments in this domain is the advent of algorithmic trading, commonly referred to as algo trading, which has revolutionized the way transactions are executed in the forex market. 

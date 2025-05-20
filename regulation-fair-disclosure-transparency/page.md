@@ -1,6 +1,8 @@
 ---
-title: "Regulation Fair Disclosure and Transparency (Algo Trading)"
-description: "Explore Regulation Fair Disclosure's impact on algorithmic trading emphasizing transparency and equal access to information to ensure fair market practices."
+category: quant_concept
+description: Explore Regulation Fair Disclosure's impact on algorithmic trading emphasizing
+  transparency and equal access to information to ensure fair market practices.
+title: Regulation Fair Disclosure and Transparency (Algo Trading)
 ---
 
 Regulation Fair Disclosure (Reg FD) is a pivotal rule established by the U.S. Securities and Exchange Commission (SEC) aimed at eliminating selective disclosure by publicly traded companies. Implemented in October 2000, this regulation fundamentally altered how companies share information, mandating that any release of material nonpublic information to certain securities market professionals and shareholders must be made available to the public simultaneously or promptly if the disclosure was unintentional. The primary objective of Reg FD is to foster an environment of transparency and equal access to information, thus promoting investor confidence in the fairness of the securities markets.

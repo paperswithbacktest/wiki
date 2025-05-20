@@ -1,6 +1,8 @@
 ---
-title: "Tangible Common Equity: Concepts, Calculation, and Importance (Algo Trading)"
-description: "Explore the concepts, calculations, and importance of Tangible Common Equity in algorithmic trading. Learn how TCE aids in precise financial decision-making."
+category: quant_concept
+description: Explore the concepts, calculations, and importance of Tangible Common
+  Equity in algorithmic trading. Learn how TCE aids in precise financial decision-making.
+title: 'Tangible Common Equity: Concepts, Calculation, and Importance (Algo Trading)'
 ---
 
 In today's finance sector, having a comprehensive grasp of key financial metrics is crucial for developing effective trading strategies. This article focuses on the calculation of Shareholders' Equity, the importance of Tangible Common Equity (TCE), and how these metrics are applied in algorithmic trading systems.

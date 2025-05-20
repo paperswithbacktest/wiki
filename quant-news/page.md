@@ -1,6 +1,12 @@
 ---
-title: "Quant New (Algo Trading)"
-description: Explore the role of quantitative news analysis in algorithmic trading and its transformative impact on financial markets. Discover how advanced technologies like natural language processing and machine learning convert textual data into actionable trading insights. Learn about the processes, benefits, and future developments of quant news in trading strategies, allowing traders to make informed decisions and gain a competitive edge in fast-paced environments.
+category: trading_strategy
+description: Explore the role of quantitative news analysis in algorithmic trading
+  and its transformative impact on financial markets. Discover how advanced technologies
+  like natural language processing and machine learning convert textual data into
+  actionable trading insights. Learn about the processes, benefits, and future developments
+  of quant news in trading strategies, allowing traders to make informed decisions
+  and gain a competitive edge in fast-paced environments.
+title: Quant New (Algo Trading)
 ---
 
 In recent years, quantitative news analysis has become a pivotal component of algorithmic trading. This emerging trend capitalizes on the ability to process and analyze vast amounts of textual data, allowing for the formulation of trading decisions with minimal human intervention. As financial markets become increasingly complex and fast-paced, the need for timely and accurate data-driven insights has never been more critical.

@@ -1,6 +1,8 @@
 ---
-title: "Influence of the Veil of Ignorance on Fairness Principles (Algo Trading)"
-description: "Explore how John Rawls' Veil of Ignorance can guide fair algorithmic trading systems, ensuring ethical design and equitable market practices."
+category: quant_concept
+description: Explore how John Rawls' Veil of Ignorance can guide fair algorithmic
+  trading systems, ensuring ethical design and equitable market practices.
+title: Influence of the Veil of Ignorance on Fairness Principles (Algo Trading)
 ---
 
 The intersection of philosophical theories and practical applications has the potential to deliver innovative solutions to contemporary challenges, particularly in algorithmic trading. One notable philosophical theory is John Rawls' Veil of Ignorance, a component of his larger theory of Justice as Fairness. This concept proposes that societal rules should be designed as if the decision-makers are stripped of any knowledge about their personal circumstances, such as social status, wealth, or natural abilities. This lack of personal information ensures fairness and impartiality, setting the stage for a more just society.

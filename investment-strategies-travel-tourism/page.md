@@ -1,6 +1,9 @@
 ---
-title: "Investment Strategies in Travel and Tourism (Algo Trading)"
-description: "Explore how algorithmic trading is revolutionizing investment tourism in the bustling travel sector Learn key strategies for maximizing returns in volatile markets"
+category: trading_strategy
+description: Explore how algorithmic trading is revolutionizing investment tourism
+  in the bustling travel sector Learn key strategies for maximizing returns in volatile
+  markets
+title: Investment Strategies in Travel and Tourism (Algo Trading)
 ---
 
 Investment tourism has witnessed a significant surge in recent years as investors increasingly recognize the lucrative opportunities within the travel and tourism sectors. This growth is driven by the sector's resilience and potential for high returns. Travel and tourism encompass a wide array of industries, from accommodation and transportation to entertainment and digital services, making it an attractive avenue for investment. 

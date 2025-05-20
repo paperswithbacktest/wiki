@@ -1,6 +1,9 @@
 ---
-title: "Accounting Currency and Its Mechanism (Algo Trading)"
-description: "Explore how currency mechanism accounting, financial accounting, and algorithmic trading intersect to shape modern financial practices and optimize global business competitiveness."
+category: quant_concept
+description: Explore how currency mechanism accounting, financial accounting, and
+  algorithmic trading intersect to shape modern financial practices and optimize global
+  business competitiveness.
+title: Accounting Currency and Its Mechanism (Algo Trading)
 ---
 
 The financial ecosystem is continuously evolving, influenced by globalization, technological advancements, and sophisticated financial strategies. These factors collectively dictate the manner in which businesses manage finances, conduct transactions, and compete on the global stage. This article explores the intricate relationship between currency mechanism accounting, financial accounting, and algorithmic trading, with a focus on how these elements intertwine to shape modern financial practices. 

@@ -1,6 +1,9 @@
 ---
-title: "Quote Currency (Algo Trading)"
-description: "Discover the essentials of quote currencies and algorithmic trading in Forex to enhance your trading success by mastering market dynamics and technology-driven strategies."
+category: quant_concept
+description: Discover the essentials of quote currencies and algorithmic trading in
+  Forex to enhance your trading success by mastering market dynamics and technology-driven
+  strategies.
+title: Quote Currency (Algo Trading)
 ---
 
 In the fast-paced world of foreign exchange (Forex) trading, the use of quote currencies and algorithmic trading is crucial for success. Quote currencies play a vital role as they are paired with base currencies to establish the exchange rate, determining how much of the quote currency is required to obtain a single unit of the base currency. Mastering the dynamics of quote currencies can give traders an edge in predicting market movements, as fluctuations in these currencies can significantly impact trade profitability.

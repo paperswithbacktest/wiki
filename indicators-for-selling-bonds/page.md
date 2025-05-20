@@ -1,6 +1,8 @@
 ---
-title: "Indicators for Selling Bonds (Algo Trading)"
-description: "Explore the integration of bond investments and algorithmic trading to uncover unique opportunities for portfolio enhancement through informed decision-making."
+category: trading_strategy
+description: Explore the integration of bond investments and algorithmic trading to
+  uncover unique opportunities for portfolio enhancement through informed decision-making.
+title: Indicators for Selling Bonds (Algo Trading)
 ---
 
 Investing in bonds has consistently been regarded as a stable and reliable option by many investors, primarily due to their fixed income and lower risk compared to stocks. Bonds represent loans made to entities such as governments and corporations, which promise to return the principal amount along with regular interest payments over time. This structured return format offers a sense of predictability and security for investors seeking steady income streams, thereby making bonds an attractive investment choice.

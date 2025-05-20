@@ -1,6 +1,9 @@
 ---
-title: "Risk Financing and Financial Health Indicators (Algo Trading)"
-description: "Explore the essential elements of financial health indicators and risk financing in algo trading Discover how they optimize strategies for stability and growth"
+category: quant_concept
+description: Explore the essential elements of financial health indicators and risk
+  financing in algo trading Discover how they optimize strategies for stability and
+  growth
+title: Risk Financing and Financial Health Indicators (Algo Trading)
 ---
 
 In today's rapidly evolving financial markets, understanding financial health and risk management is paramount for investors and businesses. Financial health, a critical metric, reflects the stability and potential growth trajectory of an individual or organization by encompassing a range of financial indicators such as earnings per share (EPS) and net asset value (NAV). These indicators help stakeholders appraise an entity's financial robustness and guide investment decisions and risk management strategies. 

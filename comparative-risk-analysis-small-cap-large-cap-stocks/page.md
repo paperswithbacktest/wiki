@@ -1,6 +1,8 @@
 ---
-title: "Comparative Risk Analysis of Small Cap and Large Cap Stocks (Algo Trading)"
-description: "Discover the risks and rewards of investing in small-cap versus large-cap stocks and explore the impact of algorithmic trading in the volatile stock market."
+category: trading_strategy
+description: Discover the risks and rewards of investing in small-cap versus large-cap
+  stocks and explore the impact of algorithmic trading in the volatile stock market.
+title: Comparative Risk Analysis of Small Cap and Large Cap Stocks (Algo Trading)
 ---
 
 Understanding investment risks is crucial for any investor looking to gain a foothold in the stock market. The stock market, with its inherent volatility, presents a myriad of investment options, each with distinct risk profiles and potential rewards. This article explores the risks associated with investing in small-cap stocks, large-cap stocks, and the role of algorithmic trading. Each category of investment offers unique advantages and challenges, reflecting differences in market capitalization, growth potential, and stability.

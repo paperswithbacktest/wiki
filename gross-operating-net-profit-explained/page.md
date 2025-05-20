@@ -1,6 +1,8 @@
 ---
-title: "Gross, Operating, and Net Profit Explained (Algo Trading)"
-description: "Discover the differences between gross, operating, and net profit and how they influence algorithmic trading strategies to maximize trading success."
+category: quant_concept
+description: Discover the differences between gross, operating, and net profit and
+  how they influence algorithmic trading strategies to maximize trading success.
+title: Gross, Operating, and Net Profit Explained (Algo Trading)
 ---
 
 In the world of finance, understanding the various types of profit is crucial for successful business operations and investments. Profits serve as fundamental indicators of financial performance and are essential for making informed decisions in both traditional and modern trading environments. This article will explore the differences between operating profit, net profit, and gross profit, and their relevance in the context of algorithmic trading, often referred to as algo trading.

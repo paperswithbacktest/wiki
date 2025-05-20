@@ -1,6 +1,9 @@
 ---
-title: "Amortization in the Balance Sheet (Algo Trading)"
-description: "Explore how balance sheet amortization and financial accounting principles integrate with algorithmic trading to impact financial decision-making and strategy development."
+category: quant_concept
+description: Explore how balance sheet amortization and financial accounting principles
+  integrate with algorithmic trading to impact financial decision-making and strategy
+  development.
+title: Amortization in the Balance Sheet (Algo Trading)
 ---
 
 In the ever-evolving world of finance, understanding key concepts such as balance sheet amortization and its role in financial accounting is essential. Balance sheet amortization refers to the systematic reduction of a financial liability or asset over a predetermined period, effectively managing cash flow and providing an accurate depiction of a company's financial health. It plays a crucial role in ensuring that financial statements reflect an entity's true economic position, helping stakeholders make informed decisions.

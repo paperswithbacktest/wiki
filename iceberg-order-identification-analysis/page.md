@@ -1,6 +1,9 @@
 ---
-title: "Iceberg Order Identification and Analysis (Algo Trading)"
-description: "Optimize your algorithmic trading strategy by understanding and identifying iceberg orders. Learn how to discreetly execute large trades while minimizing market impact."
+category: quant_concept
+description: Optimize your algorithmic trading strategy by understanding and identifying
+  iceberg orders. Learn how to discreetly execute large trades while minimizing market
+  impact.
+title: Iceberg Order Identification and Analysis (Algo Trading)
 ---
 
 In algorithmic trading, understanding different order types can provide strategic advantages for traders seeking to optimize their strategies and execution quality. Among these order types, iceberg orders stand out as a hidden form, enabling traders to execute large trades discreetly without causing significant market disruption. Institutional investors often use iceberg orders to maintain discretion and minimize the market impact of their transactions.

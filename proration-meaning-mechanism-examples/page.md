@@ -1,6 +1,9 @@
 ---
-title: "Proration: Meaning and Mechanism with Examples (Algo Trading)"
-description: "Explore the significance of proration in algorithmic trading Learn how proration ensures fair distribution during corporate actions and enhances trading strategies"
+category: quant_concept
+description: Explore the significance of proration in algorithmic trading Learn how
+  proration ensures fair distribution during corporate actions and enhances trading
+  strategies
+title: 'Proration: Meaning and Mechanism with Examples (Algo Trading)'
 ---
 
 In today's rapidly evolving financial landscape, understanding key financial concepts is crucial for traders and investors. This article focuses on the significance of proration calculations in algorithmic trading, commonly known as algo trading. Proration refers to the proportional distribution of financial amounts, which is essential during various corporate actions such as mergers, acquisitions, and stock distributions. It ensures that all shareholders receive a fair and equitable distribution when the available resources are insufficient. By maintaining fairness, proration prevents favoritism among shareholders, which is critical in preserving market integrity.
@@ -167,4 +170,3 @@ For those wishing to extend their understanding of financial algorithms and pror
 7. **Proration and Corporate Finance** - Consider searching for journal articles that explore proration within the context of corporate finance and its implications for shareholder rights and equitable resource allocation. Journals such as *The Journal of Finance* or *The Journal of Portfolio Management* are good starting points.
 
 For further understanding and the most current developments, leveraging online databases such as JSTOR, IEEE Xplore, and Google Scholar can provide access to recent papers and studies in these fields. Additionally, financial blogs and forums like Quantocracy and Elite Trader house discussions and insights shared by professionals and enthusiasts alike. These platforms can offer both practical knowledge and someone else's perspective on financial algorithms and proration methods.
-

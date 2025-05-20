@@ -1,6 +1,8 @@
 ---
-title: "Properties, Types, and Uses of Money (Algo Trading)"
-description: "Discover the key properties and types of money and explore its vital roles in economies alongside the transformative impact of algorithmic trading."
+category: quant_concept
+description: Discover the key properties and types of money and explore its vital
+  roles in economies alongside the transformative impact of algorithmic trading.
+title: Properties, Types, and Uses of Money (Algo Trading)
 ---
 
 Money is a foundational element within the financial ecosystem, serving not just as a tool for transactions but also as a measure of value and a store of wealth. By facilitating trade, money effectively lubricates the wheels of an economy, influencing both macroeconomic stability and individual financial decisions. The properties of money—such as fungibility, durability, portability, recognizability, and stability—collectively enhance its utility in economic exchanges. These traits ensure that money remains universally accepted and reliable over time, thus underlining its pivotal role in economic growth and stability.

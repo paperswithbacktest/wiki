@@ -1,6 +1,8 @@
 ---
-title: "Algorithmic Execution Strategies (Algo Trading)"
-description: "Explore algorithmic execution strategies in trading that optimize performance using advanced algorithms for efficient market entry and risk mitigation."
+category: trading_strategy
+description: Explore algorithmic execution strategies in trading that optimize performance
+  using advanced algorithms for efficient market entry and risk mitigation.
+title: Algorithmic Execution Strategies (Algo Trading)
 ---
 
 Algorithmic trading, often referred to as algo trading, is a method of executing trades utilizing automated and pre-programmed trading instructions to account for variables such as time, price, and volume. These computer-based systems are designed to optimize trading performance by leveraging complex algorithms, which can identify orders to execute in the most efficient manner. Algo trading encapsulates a range of strategies from simple executions to sophisticated high-frequency trading models.

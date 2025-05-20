@@ -1,6 +1,8 @@
 ---
-title: "Operating Costs: Formula, Types, and Examples (Algo Trading)"
-description: "Explore the essential aspects of operating costs in algorithmic trading including transaction fees market impact and opportunity costs to maximize profitability."
+category: quant_concept
+description: Explore the essential aspects of operating costs in algorithmic trading
+  including transaction fees market impact and opportunity costs to maximize profitability.
+title: 'Operating Costs: Formula, Types, and Examples (Algo Trading)'
 ---
 
 The digital era has fundamentally transformed how financial markets operate, introducing automated and algorithmic trading strategies that play a crucial role in decision-making processes. These technologies rely on sophisticated algorithms to execute trades at speeds and frequencies that are beyond human capabilities. As algorithmic trading becomes more prevalent, understanding the underlying costs associated with these strategies is essential for businesses and individual traders aiming to maximize profitability.
@@ -182,4 +184,3 @@ In conclusion, a strategic focus on cost management, coupled with the integratio
 9. **"Financial Modeling and Valuation: A Practical Guide to Investment Banking and Private Equity" by Paul Pignataro** - This book provides foundational knowledge in financial modeling, essential for cost analysis and optimization in trading contexts.
 
 These readings offer valuable perspectives and strategies for those interested in understanding and managing the operating costs associated with algorithmic trading.
-

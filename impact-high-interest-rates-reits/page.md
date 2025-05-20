@@ -1,6 +1,8 @@
 ---
-title: "Impact of High Interest Rates on REITs (Algo Trading)"
-description: "Explore the impact of high interest rates on REITs and algo trading Discover how these factors shape investment strategies and uncover potential market opportunities"
+category: trading_strategy
+description: Explore the impact of high interest rates on REITs and algo trading Discover
+  how these factors shape investment strategies and uncover potential market opportunities
+title: Impact of High Interest Rates on REITs (Algo Trading)
 ---
 
 In recent years, the investment landscape has been significantly reshaped by the interplay of fluctuating interest rates, advancements in trading technologies, and the emergence of new financial instruments. A key challenge for today's investors is optimizing portfolios in the face of high interest rates, which, while presenting hurdles, simultaneously offer intriguing opportunities for enhancing financial returns. This article examines the complex relationships between high interest rates, Real Estate Investment Trusts (REITs), and algorithmic trading.

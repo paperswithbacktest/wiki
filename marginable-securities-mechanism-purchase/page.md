@@ -1,6 +1,9 @@
 ---
-title: "Marginable Securities: Mechanism and Purchase (Algo Trading)"
-description: "Explore how marginable securities and algorithmic trading revolutionize investment strategies by amplifying returns and optimizing efficiency in modern finance."
+category: quant_concept
+description: Explore how marginable securities and algorithmic trading revolutionize
+  investment strategies by amplifying returns and optimizing efficiency in modern
+  finance.
+title: 'Marginable Securities: Mechanism and Purchase (Algo Trading)'
 ---
 
 In the modern financial world, the amalgamation of marginable securities and algorithmic trading has significantly transformed stock purchasing investments. Marginable securities serve as a foundation for enabling investors to enhance their purchasing power through the use of borrowed funds, which is facilitated by financial market regulations. This type of security, integral to informed trading, allows investors to effectively leverage their investments and potentially amplify returns. It requires a thorough understanding of the underlying assets and regulatory frameworks, such as the Federal Reserve's Regulations T and U, which govern the use of margin accounts.

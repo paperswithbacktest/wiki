@@ -1,6 +1,9 @@
 ---
-title: "Comparison of S&P 500 and Russell 2000 ETFs (Algo Trading)"
-description: "Explore investment strategies combining S&P 500 and Russell 2000 ETFs with algo trading for diversified portfolios enhancing performance and managing risks."
+category: trading_strategy
+description: Explore investment strategies combining S&P 500 and Russell 2000 ETFs
+  with algo trading for diversified portfolios enhancing performance and managing
+  risks.
+title: Comparison of S&P 500 and Russell 2000 ETFs (Algo Trading)
 ---
 
 Exchange-Traded Funds (ETFs) have emerged as a prominent investment vehicle, increasingly favored by investors for their versatility and efficiency. Unlike mutual funds, ETFs trade on stock exchanges, providing investors with the flexibility to buy and sell shares throughout the trading day at market-determined prices. This liquidity, combined with the ability to track diverse asset classes, has fueled their popularity and played a crucial role in modern portfolio management.

@@ -1,6 +1,9 @@
 ---
-title: "High-Yield Bond Spread in Investment (Algo Trading)"
-description: "Explore the intricacies of high-yield bond spreads in investment highlighting risk assessments, market trends, and the efficiency gains of algorithmic trading strategies."
+category: quant_concept
+description: Explore the intricacies of high-yield bond spreads in investment highlighting
+  risk assessments, market trends, and the efficiency gains of algorithmic trading
+  strategies.
+title: High-Yield Bond Spread in Investment (Algo Trading)
 ---
 
 High-yield bonds, commonly referred to as junk bonds, hold a distinct position in the investment landscape due to their unique risk and return characteristics. Unlike investment-grade bonds, which are issued by entities with high credit ratings, high-yield bonds are typically issued by companies or entities with lower credit ratings, indicating a higher risk of default. This increased risk is compensated by offering higher yields to investors, making them an attractive option for those seeking higher returns despite the associated risks.

@@ -1,6 +1,8 @@
 ---
-title: "Flat Bond (Algo Trading)"
-description: "Discover the essentials of flat bond pricing and the impact of algorithmic trading on fixed-income securities for informed investment strategies."
+category: trading_strategy
+description: Discover the essentials of flat bond pricing and the impact of algorithmic
+  trading on fixed-income securities for informed investment strategies.
+title: Flat Bond (Algo Trading)
 ---
 
 The domain of fixed-income securities is characterized by a wide array of instruments, with bonds being a fundamental component. Bonds serve as a vital mechanism for governments and corporations to raise capital by borrowing from investors. For participants in these markets, a firm grasp on the nuances of bond types, pricing mechanisms, and trading strategies is indispensable. This knowledge aids both individual and institutional investors in making informed decisions and optimizing their portfolios.

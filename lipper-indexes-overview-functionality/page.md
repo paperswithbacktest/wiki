@@ -1,6 +1,9 @@
 ---
-title: "Lipper Indexes: Overview and Functionality (Algo Trading)"
-description: "Discover how Lipper Indexes enhance algo trading by providing reliable benchmarks that optimize strategies maximize returns and reduce human error in financial markets."
+category: dataset
+description: Discover how Lipper Indexes enhance algo trading by providing reliable
+  benchmarks that optimize strategies maximize returns and reduce human error in financial
+  markets.
+title: 'Lipper Indexes: Overview and Functionality (Algo Trading)'
 ---
 
 Investment analytics are fundamental to the financial sector, providing essential insights and tools that empower investors to make informed decisions. At the heart of these analytics are financial benchmarks, such as Lipper Indexes, which are critical for tracking the performance of managed fund strategies across various asset classes. Lipper Indexes serve as valuable references, enabling investors and fund managers to evaluate and compare mutual fund performance effectively.

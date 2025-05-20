@@ -1,6 +1,9 @@
 ---
-title: "Comparison of Vanguard Total Stock Market Index Fund and Vanguard 500 Index Fund (Algo Trading)"
-description: "Explore the comparison of Vanguard Total Stock Market and Vanguard 500 Index Funds with insights on integrating these with algorithmic trading strategies."
+category: trading_strategy
+description: Explore the comparison of Vanguard Total Stock Market and Vanguard 500
+  Index Funds with insights on integrating these with algorithmic trading strategies.
+title: Comparison of Vanguard Total Stock Market Index Fund and Vanguard 500 Index
+  Fund (Algo Trading)
 ---
 
 Investment in index funds has grown notably among investors seeking diversified and cost-effective exposure to the stock market. Index funds, which passively track a specific market index, provide a straightforward strategy for achieving stable returns over time. Vanguard stands as a significant influence in this domain, largely due to its flagship products, the Vanguard 500 Index Fund and the Vanguard Total Stock Market Index Fund. These funds offer investors a way to gain exposure to a wide array of stocks, encompassing both large U.S. corporations and a broader range of smaller companies.

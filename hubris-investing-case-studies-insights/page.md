@@ -1,6 +1,8 @@
 ---
-title: "Hubris in Investing: Case Studies and Key Insights (Algo Trading)"
-description: "Explore hubris in investing and its influence on decision making especially in algorithmic trading Uncover psychological impacts and common investor mistakes"
+category: quant_concept
+description: Explore hubris in investing and its influence on decision making especially
+  in algorithmic trading Uncover psychological impacts and common investor mistakes
+title: 'Hubris in Investing: Case Studies and Key Insights (Algo Trading)'
 ---
 
 Understanding the psychology of investing is crucial for both novice and experienced investors. Psychological elements significantly influence decision-making processes, often leading to investment mistakes that can have substantial financial repercussions. Among these psychological factors, overconfidence, known as hubris, stands out as a prevalent issue. Hubris refers to an inflated sense of one's abilities and performance, often leading investors to overestimate their competence and make imprudent decisions. This overconfidence can cause investors to ignore potential risks and overcommit to certain investment strategies, culminating in suboptimal outcomes.

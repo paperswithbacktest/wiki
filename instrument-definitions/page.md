@@ -1,6 +1,11 @@
 ---
-title: "Instrument Definitions (Algo Trading)"
-description: Explore the intricacies of algorithmic trading and its dependence on various financial instruments like stocks, options, futures, ETFs, and currencies. Discover how a deep understanding of these instruments and real-time data can optimize trading strategies for efficiency and risk management in the fast-paced financial markets.
+category: quant_concept
+description: Explore the intricacies of algorithmic trading and its dependence on
+  various financial instruments like stocks, options, futures, ETFs, and currencies.
+  Discover how a deep understanding of these instruments and real-time data can optimize
+  trading strategies for efficiency and risk management in the fast-paced financial
+  markets.
+title: Instrument Definitions (Algo Trading)
 ---
 
 In the evolving landscape of financial markets, algorithmic trading has emerged as a transformative force. This methodology relies on computer programs to execute trades in financial instruments at speeds and frequencies beyond the reach of human traders. The effectiveness of algorithmic trading is closely tied to the understanding and utilization of various instruments integrated within these automated systems.

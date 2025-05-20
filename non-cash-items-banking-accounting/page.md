@@ -1,6 +1,8 @@
 ---
-title: "Non-Cash Items in Banking and Accounting (Algo Trading)"
-description: "Explore how non-cash items in banking and accounting influence financial decision-making and leverage algorithmic trading for enhanced business operations."
+category: quant_concept
+description: Explore how non-cash items in banking and accounting influence financial
+  decision-making and leverage algorithmic trading for enhanced business operations.
+title: Non-Cash Items in Banking and Accounting (Algo Trading)
 ---
 
 In the world of finance and accounting, understanding diverse concepts is crucial for making informed decisions. This article focuses on four essential areas: accounting, banking, non-cash items, and algorithmic trading. These topics are not only foundational to business operations but also interrelated in ways that significantly influence decision-making processes.

@@ -1,6 +1,14 @@
 ---
-title: "Small-Cap Effect Strategy Explained (Algo Trading)"
-description: Explore the dynamics of the small-cap effect as it applies to algorithmic trading in this comprehensive guide. Learn how small-cap stocks, known for their high growth potential and volatility, present unique opportunities and challenges for traders using algorithms. Understand the strategies employed to leverage the pricing inefficiencies of small-caps and the significant risks of volatility and liquidity constraints. Discover how algorithmic systems can be optimized for trading small-cap stocks to enhance returns while managing potential downsides. Stay ahead in the rapidly evolving world of algo trading by mastering the small-cap effect.
+category: trading_strategy
+description: Explore the dynamics of the small-cap effect as it applies to algorithmic
+  trading in this comprehensive guide. Learn how small-cap stocks, known for their
+  high growth potential and volatility, present unique opportunities and challenges
+  for traders using algorithms. Understand the strategies employed to leverage the
+  pricing inefficiencies of small-caps and the significant risks of volatility and
+  liquidity constraints. Discover how algorithmic systems can be optimized for trading
+  small-cap stocks to enhance returns while managing potential downsides. Stay ahead
+  in the rapidly evolving world of algo trading by mastering the small-cap effect.
+title: Small-Cap Effect Strategy Explained (Algo Trading)
 ---
 
 Algorithmic trading, a cornerstone of modern financial markets, utilizes computer algorithms to execute trading strategies at high speed and volume. This approach has transformed trading by reducing human error, optimizing transactional precision, and allowing for the rapid analysis of vast amounts of market data. Among the numerous phenomena that traders consider in algorithmic trading, the small-cap effect provides a compelling opportunity with distinct characteristics worth understanding.
@@ -142,4 +150,3 @@ Furthermore, maintaining robust algorithmic systems entails not only adapting to
 
 - **Chan, E. P. (2009). 'Quantitative Trading: How to Build Your Own Algorithmic Trading Business.'**  
   Explains the necessities of creating algorithmic trading strategies, including risk management and execution, relevant to overcoming the challenges posed by the liquidity constraints and volatility of small-cap stocks.
-

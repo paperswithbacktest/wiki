@@ -1,6 +1,8 @@
 ---
-title: "Contingent Convertibles in European Finance (Algo Trading)"
-description: "Explore the significance of Contingent Convertibles in European finance and the role of algorithmic trading in enhancing market dynamics for banks and investors."
+category: quant_concept
+description: Explore the significance of Contingent Convertibles in European finance
+  and the role of algorithmic trading in enhancing market dynamics for banks and investors.
+title: Contingent Convertibles in European Finance (Algo Trading)
 ---
 
 In the dynamic financial ecosystem of Europe, Contingent Convertibles (CoCos) have emerged as essential tools for banks seeking to enhance their capital structures. Introduced in response to the 2008 financial crisis, CoCos combine both debt and equity features, making them a complex and influential financial instrument. They act as a buffer for banks, enabling them to convert debt to equity under certain financial conditions, thereby absorbing losses before a bank's capital levels reach critically low thresholds.

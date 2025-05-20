@@ -1,6 +1,8 @@
 ---
-title: "Tax Advantages of Preferred Shares for Companies (Algo Trading)"
-description: "Explore the tax benefits of preferred shares and the transformative role of algorithmic trading in corporate finance to optimize portfolio strategies."
+category: trading_strategy
+description: Explore the tax benefits of preferred shares and the transformative role
+  of algorithmic trading in corporate finance to optimize portfolio strategies.
+title: Tax Advantages of Preferred Shares for Companies (Algo Trading)
 ---
 
 Understanding different investment options and strategies is essential for both corporate and individual investors in today's rapidly changing financial markets. Among the key topics in corporate finance, preferred shares and algorithmic trading stand out. Preferred shares are known for their unique combination of equity and debt characteristics. They give investors priority in dividend payments and liquidation events, offering a potential steady income. On the other hand, algorithmic trading is reshaping how trades are executed by utilizing automated systems that rely on computer algorithms, enabling faster and more efficient transactions.

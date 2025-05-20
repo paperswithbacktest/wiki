@@ -1,6 +1,9 @@
 ---
-title: "Differences Between Patterns and Trends (Algo Trading)"
-description: "Explore the distinction between patterns and trends in algorithmic trading. Learn how these elements guide strategic decisions to optimize and automate trade executions."
+category: trading_strategy
+description: Explore the distinction between patterns and trends in algorithmic trading.
+  Learn how these elements guide strategic decisions to optimize and automate trade
+  executions.
+title: Differences Between Patterns and Trends (Algo Trading)
 ---
 
 Algorithmic trading, commonly known as algo trading, relies on sophisticated computer programs to execute trades according to specific, pre-defined parameters. This technological approach is redefining financial markets by enhancing the precision and efficiency of trade executions.

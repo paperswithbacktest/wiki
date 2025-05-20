@@ -1,6 +1,8 @@
 ---
-title: "Causes of Recession (Algo Trading)"
-description: "Discover how algo trading and economic forces intersect during recessions exploring the causes of downturns and the impact on market stability."
+category: quant_concept
+description: Discover how algo trading and economic forces intersect during recessions
+  exploring the causes of downturns and the impact on market stability.
+title: Causes of Recession (Algo Trading)
 ---
 
 Economic fluctuations, encompassing periods of expansion and contraction, are inherent characteristics of market economies. A recession is typically identified by a significant decline in economic activity across the economy lasting more than a few months, visible in GDP, real income, employment, industrial production, and wholesale-retail sales. These downturns reflect complex interplays of various economic forces and have varied impacts across sectors and populations.
@@ -185,4 +187,3 @@ As computing power and AI continue to evolve, the potential for algorithmic trad
 8. **General Economic Theory** - For a broader perspective on economic theory and its application to financial crises, "Economics" by Paul Samuelson and William Nordhaus is a well-regarded classic.
 
 These references serve as a foundational base for understanding economic downturns, financial crises, and the evolving role of algorithmic trading.
-

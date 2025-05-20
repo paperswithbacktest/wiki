@@ -1,6 +1,8 @@
 ---
-title: "Return on Equity: Calculation and Interpretation (Algo Trading)"
-description: "Understand Return on Equity insights its calculation and role in algorithmic trading to evaluate investment potential enhance strategies and generate profit."
+category: quant_concept
+description: Understand Return on Equity insights its calculation and role in algorithmic
+  trading to evaluate investment potential enhance strategies and generate profit.
+title: 'Return on Equity: Calculation and Interpretation (Algo Trading)'
 ---
 
 The financial domain is a complex environment where metrics and ratios are indispensable for informed decision-making. Among these metrics, Return on Equity (ROE) stands out as a critical indicator used by investors and analysts to evaluate a company's financial performance. ROE measures a firm's ability to generate profit from its shareholders' equity, providing insights into how effectively management is utilizing the capital invested by shareholders.

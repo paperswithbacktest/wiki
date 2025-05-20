@@ -1,6 +1,8 @@
 ---
-title: "Free Financial Management Tools (Algo Trading)"
-description: "Explore a range of free financial management tools including budgeting apps and algorithmic trading solutions to optimize your personal finances and investments."
+category: trading_strategy
+description: Explore a range of free financial management tools including budgeting
+  apps and algorithmic trading solutions to optimize your personal finances and investments.
+title: Free Financial Management Tools (Algo Trading)
 ---
 
 In the digital age, efficiently managing personal finances is essential for maintaining financial well-being and achieving long-term financial goals. This article examines a variety of financial tools available today, which include budgeting apps, money management platforms, and algorithmic trading solutions. These tools are designed to provide individuals with greater control over their personal finances and to enhance their investment strategies.

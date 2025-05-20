@@ -1,6 +1,9 @@
 ---
-title: "Common Misconceptions About Dividend Stocks (Algo Trading)"
-description: "Explore common misconceptions about dividend stocks and algorithmic trading to improve your investment strategy, optimize returns, and avoid pitfalls in the stock market."
+category: quant_concept
+description: Explore common misconceptions about dividend stocks and algorithmic trading
+  to improve your investment strategy, optimize returns, and avoid pitfalls in the
+  stock market.
+title: Common Misconceptions About Dividend Stocks (Algo Trading)
 ---
 
 The stock market offers a plethora of investment opportunities, with dividend stocks being one of the more favored strategies among investors. Dividend stocks are appealing due to their potential to provide a steady income stream, particularly for those looking to generate passive income. However, despite their widespread popularity, several myths and misconceptions cloud investors' understanding of dividend stocks, stock market investing, and algorithmic trading. These misunderstandings can lead to misguided investment decisions and suboptimal returns.

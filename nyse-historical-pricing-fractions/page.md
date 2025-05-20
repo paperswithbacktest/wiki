@@ -1,6 +1,8 @@
 ---
-title: "NYSE Historical Pricing in Fractions (Algo Trading)"
-description: "Explore the historical shift from fractions to decimal pricing on the NYSE and its impact on algorithmic trading and market efficiency."
+category: quant_concept
+description: Explore the historical shift from fractions to decimal pricing on the
+  NYSE and its impact on algorithmic trading and market efficiency.
+title: NYSE Historical Pricing in Fractions (Algo Trading)
 ---
 
 The evolution of stock pricing on the New York Stock Exchange (NYSE) is a reflection of the broader changes that have shaped the financial landscape over the centuries. Historically, the NYSE utilized a system of quoting prices in fractions, a practice with roots tracing back to the systems used in the Spanish trading markets, specifically the use of gold doubloons. This fractional system, often quoted in one-sixteenths, was deeply ingrained in trading culture but was also seen as cumbersome and inefficient, especially with increasing volumes of stocks trading hands.

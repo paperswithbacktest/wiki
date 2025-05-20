@@ -1,6 +1,9 @@
 ---
-title: "Solomon Islands Dollar (Algo Trading)"
-description: "Explore the Solomon Islands Dollar its significance in trade and the benefits of algo trading in forex markets for SBD-based strategies and investment insights."
+category: dataset
+description: Explore the Solomon Islands Dollar its significance in trade and the
+  benefits of algo trading in forex markets for SBD-based strategies and investment
+  insights.
+title: Solomon Islands Dollar (Algo Trading)
 ---
 
 The Solomon Islands Dollar (SBD) serves as the official currency of the Solomon Islands, a nation that stands as a unique player in both regional and global economic arenas. As an integral part of the country's financial framework, the SBD influences economic activities ranging from local trade to international transactions. The currency's historical trajectory, since its adoption in 1977, highlights its evolution and adaptation to various economic phases, underscoring its significance in shaping the economic landscape of the Solomon Islands.

@@ -1,6 +1,9 @@
 ---
-title: "Frederic Bastiat: Education and Works (Algo Trading)"
-description: "Explore the fusion of Frederic Bastiat's economic theories with modern algorithmic trading to understand how historical insights shape today's financial strategies."
+category: quant_concept
+description: Explore the fusion of Frederic Bastiat's economic theories with modern
+  algorithmic trading to understand how historical insights shape today's financial
+  strategies.
+title: 'Frederic Bastiat: Education and Works (Algo Trading)'
 ---
 
 The intersection of historical economic thought and modern trading strategies serves as a fascinating convergence of timeless principles and cutting-edge technologies. Central to this discussion is Frederic Bastiat, a 19th-century French economist whose ideas continue to resonate today. Bastiat's eloquent advocacy for free markets and his critique of protectionism have shaped economic discourse, positioning him as a seminal figure in the development of classical economic thought.

@@ -1,6 +1,8 @@
 ---
-title: "Deferred Charge (Algo Trading)"
-description: "Explore the critical role of deferred charges in accounting and algorithmic trading for better cash flow management and financial strategy optimization."
+category: quant_concept
+description: Explore the critical role of deferred charges in accounting and algorithmic
+  trading for better cash flow management and financial strategy optimization.
+title: Deferred Charge (Algo Trading)
 ---
 
 Deferred charges, often overshadowed by more immediate financial concepts, are critical in the expansive domains of accounting, finance, and algorithmic trading. These prepayments categorized as assets fundamentally support the financial architecture of organizations by spreading costs over time, which ameliorates cash flow management and aligns expenses with revenue. In automated trading systems, where precise and timely financial data is indispensable, the role of deferred charges cannot be overstated.

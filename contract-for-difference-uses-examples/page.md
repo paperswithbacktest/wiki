@@ -1,6 +1,9 @@
 ---
-title: "Contract for Difference: Uses and Examples (Algo Trading)"
-description: "Explore the powerful synergy between Contract for Difference (CFD) trading and algorithmic techniques Learn how algo trading can optimize CFD strategies and outcomes"
+category: trading_strategy
+description: Explore the powerful synergy between Contract for Difference (CFD) trading
+  and algorithmic techniques Learn how algo trading can optimize CFD strategies and
+  outcomes
+title: 'Contract for Difference: Uses and Examples (Algo Trading)'
 ---
 
 Contract for Difference (CFD) trading is a sophisticated financial instrument that allows traders to speculate on the price movements of various assets without owning them. This derivative product provides unique opportunities for investors to benefit from both rising and falling markets. CFDs are versatile, finding application across a wide array of financial markets, including stocks, commodities, indices, and recently, cryptocurrencies. By enabling investors to use leverage, CFDs amplify potential profits, but also carry the risk of significant losses, thus requiring comprehensive risk management strategies.

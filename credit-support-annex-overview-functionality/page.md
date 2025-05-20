@@ -1,6 +1,8 @@
 ---
-title: "Credit Support Annex: Overview and Functionality (Algo Trading)"
-description: "Learn about the Credit Support Annex in algorithmic trading Discover how CSAs mitigate credit risk and ensure stability in high-speed financial transactions"
+category: quant_concept
+description: Learn about the Credit Support Annex in algorithmic trading Discover
+  how CSAs mitigate credit risk and ensure stability in high-speed financial transactions
+title: 'Credit Support Annex: Overview and Functionality (Algo Trading)'
 ---
 
 Financial agreements play a crucial role in the functioning of global financial markets, with the Credit Support Annex (CSA) holding significant importance in trading. A CSA is a legal document used within derivatives transactions, particularly over-the-counter (OTC) derivatives, to mitigate credit risk between counterparties. It facilitates the provision and management of collateral, ensuring that parties are protected against potential defaults. This framework enhances market stability by outlining the terms under which collateral is posted or received, directly impacting trading activities and risk management strategies.

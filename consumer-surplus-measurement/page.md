@@ -1,6 +1,8 @@
 ---
-title: "Consumer Surplus and Its Measurement (Algo Trading)"
-description: "Explore consumer surplus in the context of algorithmic trading and its impact on market dynamics and consumer welfare. Understand its measurement and implications."
+category: quant_concept
+description: Explore consumer surplus in the context of algorithmic trading and its
+  impact on market dynamics and consumer welfare. Understand its measurement and implications.
+title: Consumer Surplus and Its Measurement (Algo Trading)
 ---
 
 In today's fast-paced economic landscape, understanding consumer surplus is crucial for evaluating market efficiency and consumer satisfaction. Consumer surplus is an essential concept in microeconomics, reflecting the benefits consumers receive when they pay less for a product than they are willing to. By representing the difference between the total amount consumers would be willing to pay for a good or service and the amount they actually pay, consumer surplus serves as a key indicator of consumer welfare and market efficiency.

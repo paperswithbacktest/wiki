@@ -1,6 +1,8 @@
 ---
-title: "Bermuda Options: Overview, Examples, Pros and Cons (Algo Trading)"
-description: "Explore Bermuda options and their unique exercise flexibility which blends American and European features for strategic trading, hedging, and algorithmic efficiency."
+category: quant_concept
+description: Explore Bermuda options and their unique exercise flexibility which blends
+  American and European features for strategic trading, hedging, and algorithmic efficiency.
+title: 'Bermuda Options: Overview, Examples, Pros and Cons (Algo Trading)'
 ---
 
 Financial derivatives are essential components of modern financial markets, serving as tools for investors to manage risks and engage in strategic asset positioning. These instruments derive their value from underlying assets, such as stocks, bonds, commodities, or currencies, and are utilized for hedging risks, speculating on future price movements, or arbitrage opportunities. Among the diverse range of financial derivatives, one notable type is the Bermuda option. This derivative combines aspects of American and European options, offering exercise flexibility on specified dates before expiration.

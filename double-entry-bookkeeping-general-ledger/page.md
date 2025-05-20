@@ -1,6 +1,8 @@
 ---
-title: "Double-Entry Bookkeeping in the General Ledger (Algo Trading)"
-description: "Discover the essentials of double-entry bookkeeping and the general ledger's role in financial management and explore their integration with algorithmic trading."
+category: quant_concept
+description: Discover the essentials of double-entry bookkeeping and the general ledger's
+  role in financial management and explore their integration with algorithmic trading.
+title: Double-Entry Bookkeeping in the General Ledger (Algo Trading)
 ---
 
 In the rapidly evolving financial landscape, understanding key accounting methods is essential for effective financial management. As financial markets and business operations become increasingly complex, robust accounting practices stand as the backbone of accurate financial decision-making. This article explores the intricacies of double-entry bookkeeping, the role of the general ledger, and examines how these foundational accounting principles intersect with the cutting-edge world of algorithmic trading.
@@ -138,4 +140,3 @@ Luca Pacioli's work, "Summa de Arithmetica," is noted for documenting the earlie
 For those interested in algorithmic trading and modern financial systems, several [books](/wiki/algo-trading-books) offer insights into the strategies and technological advancements shaping this field. "Quantitative Trading" provides a detailed overview of data-driven trading strategies, while "Machine Learning for Algorithmic Trading" explores how [machine learning](/wiki/machine-learning) techniques can be applied to develop advanced trading algorithms. These resources are invaluable for practitioners seeking to integrate algorithmic trading with financial record-keeping systems to enhance decision-making and operational efficiency.
 
 Together, these references offer a rich repository of knowledge that supports the integration of traditional accounting practices with the innovative strategies employed in algorithmic trading, providing a holistic view of modern financial management.
-

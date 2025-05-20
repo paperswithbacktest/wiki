@@ -1,6 +1,8 @@
 ---
-title: "Jack Sandner: Prominent Figure in Futures Trading (Algo Trading)"
-description: "Explore the influential role of Jack Sandner in shaping futures trading at the Chicago Mercantile Exchange and the evolution towards algorithmic trading."
+category: quant_concept
+description: Explore the influential role of Jack Sandner in shaping futures trading
+  at the Chicago Mercantile Exchange and the evolution towards algorithmic trading.
+title: 'Jack Sandner: Prominent Figure in Futures Trading (Algo Trading)'
 ---
 
 Futures trading plays a crucial role in the financial markets, offering a mechanism for price discovery, risk management, and speculation. Central to this domain is the Chicago Mercantile Exchange (CME), one of the most significant financial exchanges globally. Established as a non-profit corporation in 1898 under the name Chicago Butter and Egg Board, CME has steadily evolved into a powerhouse for futures and options trading. It provides diverse financial instruments, including commodity futures, interest rate futures, and stock index futures, catering to traders and institutions worldwide.

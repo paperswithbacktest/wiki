@@ -1,6 +1,9 @@
 ---
-title: "Sentiment Analysis for Trading (Algo Trading)"
-description: "Explore the integration of sentiment analysis in algorithmic trading to enhance prediction accuracy by combining emotional insights with traditional data models."
+category: trading_strategy
+description: Explore the integration of sentiment analysis in algorithmic trading
+  to enhance prediction accuracy by combining emotional insights with traditional
+  data models.
+title: Sentiment Analysis for Trading (Algo Trading)
 ---
 
 Algorithmic trading has significantly transformed financial markets, primarily by enhancing the speed and efficiency of transactions. With the proliferation of electronic trading platforms, the reliance on complex algorithms for executing trades based on pre-defined criteria has surged. These systems can process vast amounts of data in real-time, identifying opportunities and executing trades faster than human traders.

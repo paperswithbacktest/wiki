@@ -1,7 +1,8 @@
 ---
-title: Comprehensive Guide to Holdout Data in Machine Learning
+category: quant_concept
 description: Holdout data reserves unseen samples for testing to assess model performance
   and prevent overfitting through split strategies Discover more inside
+title: Comprehensive Guide to Holdout Data in Machine Learning
 ---
 
 ![Image](images/1.jpeg)

@@ -1,6 +1,9 @@
 ---
-title: "Possible Reserves: Definition and Examples (Algo Trading)"
-description: "Explore the integration of reserve classification, resource estimation, and algorithmic trading in the energy sector to optimize operations and inform investment strategies."
+category: quant_concept
+description: Explore the integration of reserve classification, resource estimation,
+  and algorithmic trading in the energy sector to optimize operations and inform investment
+  strategies.
+title: 'Possible Reserves: Definition and Examples (Algo Trading)'
 ---
 
 The energy sector is a multifaceted ecosystem critical to the functioning of global economies, comprising varied activities and processes that ensure the availability and efficient use of energy commodities. Central to this ecosystem is the careful management of energy resources, which necessitates accurate reserve classification, resource estimation, and the deployment of algorithmic trading strategies. These components are indispensable not only for optimizing operational efficiencies but also for informing strategic investment decisions.

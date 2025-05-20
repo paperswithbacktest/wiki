@@ -1,6 +1,8 @@
 ---
-title: "Overview of Decentralized Dark Pool Trading Platforms (Algo Trading)"
-description: "Discover the transformative world of decentralized dark pool trading platforms using blockchain and algorithmic trading for secure, anonymous transactions."
+category: quant_concept
+description: Discover the transformative world of decentralized dark pool trading
+  platforms using blockchain and algorithmic trading for secure, anonymous transactions.
+title: Overview of Decentralized Dark Pool Trading Platforms (Algo Trading)
 ---
 
 The cryptocurrency trading landscape has witnessed substantial growth, driven by technological advancements and increasing adoption. Among its most notable developments are the advent of dark pool platforms, decentralized trading, and algorithmic trading. These innovations have been designed to cater to the diverse and complex needs of modern traders, ranging from individual investors to large institutional entities.

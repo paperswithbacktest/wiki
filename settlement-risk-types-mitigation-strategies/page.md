@@ -1,6 +1,9 @@
 ---
-title: "Settlement Risk: Types and Mitigation Strategies (Algo Trading)"
-description: "Explore types and strategies for mitigating settlement risk in algorithmic trading Discover methods to safeguard financial transactions and enhance market stability"
+category: quant_concept
+description: Explore types and strategies for mitigating settlement risk in algorithmic
+  trading Discover methods to safeguard financial transactions and enhance market
+  stability
+title: 'Settlement Risk: Types and Mitigation Strategies (Algo Trading)'
 ---
 
 In the fast-evolving world of financial trading, settlement risk has emerged as a critical concern that traders and financial institutions must navigate. Settlement risk involves the possibility that a counterparty might fail to deliver on the terms of a contract at the agreed time, leading to potential financial losses. This risk is particularly pronounced in transactions involving multiple parties and complex financial instruments, where default by one party can disrupt the entire chain of transactions.

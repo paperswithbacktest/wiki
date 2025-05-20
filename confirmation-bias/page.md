@@ -1,7 +1,8 @@
 ---
-title: Understanding Confirmation Bias in Machine Learning Models
+category: quant_concept
 description: Confirmation bias in machine learning skews models by reinforcing assumptions
   and causing overfitting. Discover detection and mitigation tactics inside.
+title: Understanding Confirmation Bias in Machine Learning Models
 ---
 
 ![Image](images/1.jpeg)

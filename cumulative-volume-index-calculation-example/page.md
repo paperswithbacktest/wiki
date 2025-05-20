@@ -1,6 +1,8 @@
 ---
-title: "Cumulative Volume Index: Calculation and Example (Algo Trading)"
-description: "Learn how to calculate and apply the Cumulative Volume Index in algorithmic trading. Explore its role in predicting market trends and improving trade strategies."
+category: quant_concept
+description: Learn how to calculate and apply the Cumulative Volume Index in algorithmic
+  trading. Explore its role in predicting market trends and improving trade strategies.
+title: 'Cumulative Volume Index: Calculation and Example (Algo Trading)'
 ---
 
 Financial indicators are essential tools in algorithmic trading, providing quantitative data that guides traders' decisions and helps predict market movements. These indicators, derived from historical price and volume data, facilitate automated trading strategies by offering insights into trends, volatility, and potential price shifts. Algorithmic trading, which relies heavily on these indicators, has become a cornerstone of modern financial markets due to its efficiency and ability to capitalize on fleeting opportunities.
@@ -222,4 +224,3 @@ Incorporating these resources can provide a deeper understanding of CVI and enha
 [7]: Official Pandas Documentation, ["Pandas Documentation"](https://pandas.pydata.org/docs/).
 
 [8]: Berk, J., & DeMarzo, P. ["Corporate Finance"](https://www.pearson.com/en-us/subject-catalog/p/corporate-finance/P200000005829/9780135635926). Pearson.
-

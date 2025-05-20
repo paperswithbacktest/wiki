@@ -1,6 +1,8 @@
 ---
-title: "List of Major Central Banks (Algo Trading)"
-description: "Explore the dynamic relationship between major central banks and algorithmic trading in global finance and discover how they influence economic stability."
+category: quant_concept
+description: Explore the dynamic relationship between major central banks and algorithmic
+  trading in global finance and discover how they influence economic stability.
+title: List of Major Central Banks (Algo Trading)
 ---
 
 In the ever-evolving landscape of global finance, central banks are essential in shaping monetary policy and ensuring economic stability. These institutions, such as the U.S. Federal Reserve and the European Central Bank, exert significant influence over international financial systems through mechanisms such as interest rate adjustments and financial stability measures. The actions of central banks impact global markets, particularly through their role in currency management and as lenders of last resort during financial crises.

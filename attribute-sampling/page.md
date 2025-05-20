@@ -1,7 +1,8 @@
 ---
-title: Attribute Sampling in Machine Learning for Efficient Models
+category: quant_concept
 description: Attribute sampling refines machine learning by selecting vital features
   to cut complexity and improve accuracy to prevent overfitting. Discover more
+title: Attribute Sampling in Machine Learning for Efficient Models
 ---
 
 ![Image](images/1.png)

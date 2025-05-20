@@ -1,6 +1,15 @@
 ---
-title: "Time period in backtesting (Algo Trading)"
-description: This page discusses the significance of selecting the right time period for backtesting in algorithmic trading. It emphasizes the crucial role that backtesting plays in evaluating trading strategies using historical data to simulate and assess their potential profitability and risks. The description highlights the importance of choosing a period that reflects diverse market conditions such as bull and bear markets to ensure strategy robustness. By balancing long-term historical data with recent market trends traders can improve the accuracy of their backtests and make informed decisions. The description also outlines factors influencing backtesting period selection including the strategy type average holding period and data quality.
+category: trading_strategy
+description: This page discusses the significance of selecting the right time period
+  for backtesting in algorithmic trading. It emphasizes the crucial role that backtesting
+  plays in evaluating trading strategies using historical data to simulate and assess
+  their potential profitability and risks. The description highlights the importance
+  of choosing a period that reflects diverse market conditions such as bull and bear
+  markets to ensure strategy robustness. By balancing long-term historical data with
+  recent market trends traders can improve the accuracy of their backtests and make
+  informed decisions. The description also outlines factors influencing backtesting
+  period selection including the strategy type average holding period and data quality.
+title: Time period in backtesting (Algo Trading)
 ---
 
 Backtesting is an essential process in algorithmic trading, where traders rely on historical data to simulate their trading strategies. This simulation allows traders to evaluate how their strategies would have performed under various market conditions. By applying trading algorithms to historical price data, traders can ascertain the potential effectiveness and profitability of their strategies before risking real capital.

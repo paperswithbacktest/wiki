@@ -1,6 +1,13 @@
 ---
-title: "Mathematical Economics: Applications and Criticisms (Algo Trading)"
-description: "Explore the synergy between economic modeling, mathematical economics, economic theory, and algorithmic trading crucial for modern economic analysis and financial market decisions. Understand how mathematical tools transform theories into testable models, providing insights into market dynamics and policy decisions. Discover how algorithmic trading leverages these models to optimize returns and manage risks, highlighting the significance of these integrated disciplines for strategic planning and economic forecasting."
+category: quant_concept
+description: Explore the synergy between economic modeling, mathematical economics,
+  economic theory, and algorithmic trading crucial for modern economic analysis and
+  financial market decisions. Understand how mathematical tools transform theories
+  into testable models, providing insights into market dynamics and policy decisions.
+  Discover how algorithmic trading leverages these models to optimize returns and
+  manage risks, highlighting the significance of these integrated disciplines for
+  strategic planning and economic forecasting.
+title: 'Mathematical Economics: Applications and Criticisms (Algo Trading)'
 ---
 
 This article explores the intersection of economic modeling, mathematical economics, economic theory, and algorithmic trading, all of which represent critical areas in modern economic analysis and decision-making processes. Economic modeling serves as a fundamental tool by creating representations of economic processes to analyze and forecast behaviors within an economy. Through these models, economists can simulate various economic scenarios, testing hypotheses and deriving insights that inform policy decisions and business strategies.

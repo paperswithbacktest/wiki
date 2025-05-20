@@ -1,7 +1,8 @@
 ---
-title: Understanding Auto-Regressive Models for Time Series Analysis
+category: quant_concept
 description: Auto-Regressive model comprehensive guide covers forecasting basics parameter
   estimation validation and machine learning integration Discover more inside
+title: Understanding Auto-Regressive Models for Time Series Analysis
 ---
 
 ![Image](images/1.png)

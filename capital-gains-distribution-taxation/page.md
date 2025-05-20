@@ -1,6 +1,9 @@
 ---
-title: "Capital Gains Distribution and Taxation (Algo Trading)"
-description: "Explore capital gains distribution and taxation in algorithmic trading Learn how strategic planning can optimize tax efficiency and enhance investment returns"
+category: quant_concept
+description: Explore capital gains distribution and taxation in algorithmic trading
+  Learn how strategic planning can optimize tax efficiency and enhance investment
+  returns
+title: Capital Gains Distribution and Taxation (Algo Trading)
 ---
 
 In the world of investing, understanding the nuances of taxation is imperative. One key aspect of this is the capital gains tax, which is imposed on the profit earned from the sale of assets such as stocks, bonds, or real estate. This tax can play a significant role in determining the overall returns from an investment portfolio. The rate at which this tax is applied depends on the duration for which the asset was held, with different treatments for short-term and long-term gains. As a result, careful tax planning is essential to optimize net investment gains after taxes.

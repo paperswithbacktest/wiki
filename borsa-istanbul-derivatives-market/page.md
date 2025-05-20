@@ -1,6 +1,9 @@
 ---
-title: "Borsa Istanbul Derivatives Market (Algo Trading)"
-description: "Explore algorithmic trading's impact on Borsa Istanbul's derivatives market. Discover VIOP's evolution, market structure, and future prospects in Turkey's finance landscape."
+category: dataset
+description: Explore algorithmic trading's impact on Borsa Istanbul's derivatives
+  market. Discover VIOP's evolution, market structure, and future prospects in Turkey's
+  finance landscape.
+title: Borsa Istanbul Derivatives Market (Algo Trading)
 ---
 
 Borsa Istanbul (BIST) holds a pivotal position in both regional and global financial markets, serving as the primary exchange for trading equities, derivatives, debt instruments, and more in Turkey. It emerged as a unified and diversified marketplace following the merger of the Istanbul Stock Exchange (ISE), the Istanbul Gold Exchange (IGE), and the Turkish Derivatives Exchange (TurkDEX), creating a comprehensive platform for financial instruments. Borsa Istanbul's significance is underscored by its strategic location, linking Europe and Asia, which facilitates a dynamic flow of international capital and investment.

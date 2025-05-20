@@ -1,6 +1,9 @@
 ---
-title: "Reconstruction Finance Corporation: Overview and Functionality (Algo Trading)"
-description: "Explore the impact of the Reconstruction Finance Corporation on the US economy during the Great Depression and its influence on modern financial policies like algorithmic trading."
+category: quant_concept
+description: Explore the impact of the Reconstruction Finance Corporation on the US
+  economy during the Great Depression and its influence on modern financial policies
+  like algorithmic trading.
+title: 'Reconstruction Finance Corporation: Overview and Functionality (Algo Trading)'
 ---
 
 The Reconstruction Finance Corporation (RFC) was a pivotal entity in the United States during the early 20th century, particularly known for its role in stabilizing the economy during the Great Depression. Established in 1932, the RFC provided essential financial support to banks, railroads, mortgage associations, and other businesses during a period of extreme financial distress. Its creation marked a significant shift in federal policy, emphasizing governmental intervention in economic stabilization. The RFC's actions underscored the importance of a lender of last resort, providing a model for future government-led financial assistance programs.

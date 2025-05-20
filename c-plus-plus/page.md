@@ -1,6 +1,14 @@
 ---
-title: "C++ (Algo Trading)"
-description: Explore the world of algorithmic trading, where finance meets technology, automating trading with advanced C++ algorithms known for their speed and efficiency. C++ stands out for its high performance and resource management, crucial for high-frequency trading. Discover how C++'s extensive ecosystem, including libraries like Boost and QuantLib, supports complex trading models and strategies. This article investigates into C++'s role in algo trading, offering insights for both newcomers and seasoned traders, highlighting its advantages in developing robust, efficient trading systems for improved profitability and reduced errors.
+category: trading_strategy
+description: Explore the world of algorithmic trading, where finance meets technology,
+  automating trading with advanced C++ algorithms known for their speed and efficiency.
+  C++ stands out for its high performance and resource management, crucial for high-frequency
+  trading. Discover how C++'s extensive ecosystem, including libraries like Boost
+  and QuantLib, supports complex trading models and strategies. This article investigates
+  into C++'s role in algo trading, offering insights for both newcomers and seasoned
+  traders, highlighting its advantages in developing robust, efficient trading systems
+  for improved profitability and reduced errors.
+title: C++ (Algo Trading)
 ---
 
 Algorithmic trading, commonly referred to as algo trading, is the intersection of finance and technology that automates trading processes through sophisticated computer algorithms. Over recent years, the practice has become crucial in financial markets, where speed, efficiency, and accuracy in executing trades can significantly impact profitability. Through algorithmic trading, intricate trading strategies are translated into code, allowing for the automation of buying and selling decisions based on predetermined criteria, thereby eliminating human intervention and reducing the potential for errors associated with manual trading.

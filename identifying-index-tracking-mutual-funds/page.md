@@ -1,6 +1,9 @@
 ---
-title: "Identifying Index-Tracking Mutual Funds (Algo Trading)"
-description: "Explore how index-tracking mutual funds and algorithmic trading can enhance investment portfolios by balancing traditional diversification with modern efficiency strategies."
+category: trading_strategy
+description: Explore how index-tracking mutual funds and algorithmic trading can enhance
+  investment portfolios by balancing traditional diversification with modern efficiency
+  strategies.
+title: Identifying Index-Tracking Mutual Funds (Algo Trading)
 ---
 
 Investment strategies encompass a wide range of options, each providing unique benefits and challenges to investors. Among these strategies, mutual funds and index funds stand out as traditional investment vehicles. Mutual funds pool capital from multiple investors to purchase a diversified portfolio of securities, which is professionally managed to achieve specific objectives. This diversification is beneficial in mitigating individual security risk and enhancing the possibility of stable returns over time.
@@ -161,4 +164,3 @@ The landscape of investment is undeniably dynamic, necessitating continuous educ
    - *MiFID II: A New Paradigm for European Financial Markets* by Matthias Lehmann offers insights into European regulatory measures impacting algorithmic trading.
 
 These resources offer extensive knowledge for those looking to expand their understanding of mutual funds, index funds, and algorithmic trading.
-

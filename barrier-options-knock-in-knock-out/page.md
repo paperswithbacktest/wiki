@@ -1,6 +1,9 @@
 ---
-title: "Barrier Options: Knock-In and Knock-Out (Algo Trading)"
-description: "Explore barrier options in algo trading with knock-in and knock-out types offering unique risk management and profit opportunities through market-triggered features."
+category: quant_concept
+description: Explore barrier options in algo trading with knock-in and knock-out types
+  offering unique risk management and profit opportunities through market-triggered
+  features.
+title: 'Barrier Options: Knock-In and Knock-Out (Algo Trading)'
 ---
 
 The world of options trading encompasses a diverse array of strategies and instruments, each offering unique possibilities for risk management and profit maximization. Among these financial instruments, barrier options stand out for their distinct features and complexities. These options, which include the varieties known as knock-in and knock-out options, present traders with a unique set of tools for optimizing their financial strategies.

@@ -1,9 +1,11 @@
 ---
-title: "Citadel (Algo Trading)"
-description: "Discover Citadel's prowess in algorithmic trading where high-speed, data-driven strategies enhance market efficiency through advanced technology and innovation."
+category: quant_concept
+description: Discover Citadel's prowess in algorithmic trading where high-speed, data-driven
+  strategies enhance market efficiency through advanced technology and innovation.
+title: Citadel (Algo Trading)
 ---
 
- to Citadel and Algorithmic Trading
+to Citadel and Algorithmic Trading
 
 Citadel stands as a significant entity in the financial sector, particularly renowned for its advanced algorithmic trading strategies. Algorithmic trading, also referred to as algo trading, involves the employment of high-powered computer programs and algorithms to execute trades at rapid speeds and significant volumes. This method is a staple in modern trading ecosystems, effectively minimizing human involvement and potential error, thereby increasing efficiency in execution.
 

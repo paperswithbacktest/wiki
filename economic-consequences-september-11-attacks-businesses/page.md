@@ -1,6 +1,9 @@
 ---
-title: "Economic Consequences of the September 11 Attacks on Businesses (Algo Trading)"
-description: "Analyze the profound economic impact of the September 11 attacks on global markets and industries emphasizing the influence of algorithmic trading on post-crisis financial strategies."
+category: quant_concept
+description: Analyze the profound economic impact of the September 11 attacks on global
+  markets and industries emphasizing the influence of algorithmic trading on post-crisis
+  financial strategies.
+title: Economic Consequences of the September 11 Attacks on Businesses (Algo Trading)
 ---
 
 The September 11, 2001, attacks not only resulted in a tragic loss of life but also profoundly impacted the global economy. This event caused widespread panic and uncertainty across financial markets worldwide, leading to significant and immediate economic repercussions. The extended closure of the New York Stock Exchange and ensuing market volatility underscored the profound effect of these attacks on financial systems. 

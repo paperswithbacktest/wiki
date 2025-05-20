@@ -1,6 +1,8 @@
 ---
-title: "Portfolio Variance: Formula and Calculation Example (Algo Trading)"
-description: "Explore portfolio variance and its vital role in assessing investment risk Learn calculation techniques to optimize strategies in algorithmic trading"
+category: quant_concept
+description: Explore portfolio variance and its vital role in assessing investment
+  risk Learn calculation techniques to optimize strategies in algorithmic trading
+title: 'Portfolio Variance: Formula and Calculation Example (Algo Trading)'
 ---
 
 In today's rapidly changing financial markets, understanding and managing investment risk is more crucial than ever. Investors are faced with an array of choices and challenges, making it essential to quantify and manage the risk associated with their portfolio choices effectively. One of the primary methods for assessing this risk is through portfolio variance, a statistical measure that plays a significant role in financial analysis.

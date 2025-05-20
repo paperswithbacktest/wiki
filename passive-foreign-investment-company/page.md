@@ -1,6 +1,9 @@
 ---
-title: "Passive Foreign Investment Company (Algo Trading)"
-description: "Explore the complexities of Passive Foreign Investment Companies (PFICs) in algo trading, from intricate IRS regulations to effective tax strategies and compliance."
+category: quant_concept
+description: Explore the complexities of Passive Foreign Investment Companies (PFICs)
+  in algo trading, from intricate IRS regulations to effective tax strategies and
+  compliance.
+title: Passive Foreign Investment Company (Algo Trading)
 ---
 
 In today's globalized economy, U.S. investors are increasingly seeking to capitalize on foreign markets, drawn by the potential for diversification and higher returns. As these investors venture into international waters, understanding the tax implications inherent in foreign investments becomes paramount. One area of significant concern involves Passive Foreign Investment Companies (PFICs), which pose intricate tax challenges due to their unique structure and treatment by the Internal Revenue Service (IRS).

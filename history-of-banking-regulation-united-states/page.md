@@ -1,6 +1,12 @@
 ---
-title: "History of Banking Regulation in the United States (Algo Trading)"
-description: "Explore the evolution of banking regulation in the United States and its impact on the financial sector, highlighting key developments from early centralization efforts to the challenges of modern technologies like algorithmic trading. Discover how regulatory frameworks have adapted through periods of regulation and deregulation to ensure market integrity and systemic stability, while balancing innovation with financial practices shaped by historical and contemporary influences."
+category: quant_concept
+description: Explore the evolution of banking regulation in the United States and
+  its impact on the financial sector, highlighting key developments from early centralization
+  efforts to the challenges of modern technologies like algorithmic trading. Discover
+  how regulatory frameworks have adapted through periods of regulation and deregulation
+  to ensure market integrity and systemic stability, while balancing innovation with
+  financial practices shaped by historical and contemporary influences.
+title: History of Banking Regulation in the United States (Algo Trading)
 ---
 
 This article explores the history and evolution of banking regulation in the United States, illustrating its significant influence on the financial sector. The U.S. banking system, characterized by its complexity and adaptability, has undergone numerous transformations, driven by historical regulatory efforts and contemporary financial practices. One of the pivotal factors shaping the current landscape is the emergence of modern technologies, particularly algorithmic trading. This development has introduced new dynamics into financial markets, necessitating updates and revisions to existing regulatory frameworks.

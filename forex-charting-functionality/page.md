@@ -1,6 +1,8 @@
 ---
-title: "Forex Charting and Functionality (Algo Trading)"
-description: "Explore forex trading with insights into charting and technical analysis Learn about algorithmic trading tools to enhance decision-making and trading success"
+category: quant_concept
+description: Explore forex trading with insights into charting and technical analysis
+  Learn about algorithmic trading tools to enhance decision-making and trading success
+title: Forex Charting and Functionality (Algo Trading)
 ---
 
 Forex trading, the exchange of currencies in the foreign exchange market, is a dynamic and complex discipline where technical analysis is crucial for making informed trading decisions. Technical analysis employs historical price data and market patterns to anticipate future price movements, providing traders with valuable insights into potential market trends. This article examines various components of forex charting and technical analysis, highlighting the importance of algorithmic trading.

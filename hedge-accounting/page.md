@@ -1,6 +1,10 @@
 ---
-title: "Hedge Accounting (Algo Trading)"
-description: "Discover the critical synergy between hedge accounting and algorithmic trading in today's financial landscape. Learn how these elements enhance financial reporting, risk management, and trading strategies. Gain insights into effective integration for sustainable growth and resilience in an evolving market."
+category: quant_concept
+description: Discover the critical synergy between hedge accounting and algorithmic
+  trading in today's financial landscape. Learn how these elements enhance financial
+  reporting, risk management, and trading strategies. Gain insights into effective
+  integration for sustainable growth and resilience in an evolving market.
+title: Hedge Accounting (Algo Trading)
 ---
 
 The financial landscape is characterized by constant evolution, driven by complexity and innovation. This dynamic environment necessitates that financial organizations adeptly navigate crucial components such as financial reporting, risk management, hedge accounting, and algorithmic trading. Understanding these interconnected elements is vital for operating effectively in today's financial ecosystem.

@@ -1,6 +1,8 @@
 ---
-title: "Secular vs. Cyclical Markets: Overview and Examples (Algo Trading)"
-description: "Explore the dynamics of secular and cyclical markets and learn how algorithmic trading influences these trends for informed investment decisions."
+category: quant_concept
+description: Explore the dynamics of secular and cyclical markets and learn how algorithmic
+  trading influences these trends for informed investment decisions.
+title: 'Secular vs. Cyclical Markets: Overview and Examples (Algo Trading)'
 ---
 
 The world of financial markets is diverse and complex, with dynamics often encapsulated in terms like 'secular' and 'cyclical' markets. Grasping these concepts is vital for investors, regardless of experience level, to effectively navigate trends and make sound financial decisions. This article provides an exploration of the concepts of secular and cyclical markets, alongside market trends and the emergence of algorithmic trading. 

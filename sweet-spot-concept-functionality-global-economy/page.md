@@ -1,6 +1,8 @@
 ---
-title: "Sweet Spot: Concept, Functionality, and Impact on Global Economy (Algo Trading)"
-description: "Explore the "sweet spot" in global finance and understand how algorithmic trading seeks economic balance maximizing market efficiency while minimizing risks."
+category: quant_concept
+description: Explore the "sweet spot" in global finance and understand how algorithmic
+  trading seeks economic balance maximizing market efficiency while minimizing risks.
+title: 'Sweet Spot: Concept, Functionality, and Impact on Global Economy (Algo Trading)'
 ---
 
 In today's interconnected financial world, the term "sweet spot" has gained prominence in discussions about economic stability and growth. This concept represents a delicate equilibrium where various economic factors coexist in harmony, maximizing benefits while minimizing costs. In this context, algorithmic trading has emerged as a significant force, influencing and being influenced by global financial dynamics.

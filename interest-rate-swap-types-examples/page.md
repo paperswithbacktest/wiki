@@ -1,6 +1,8 @@
 ---
-title: "Interest Rate Swap: Types and Examples (Algo Trading)"
-description: "Explore the types and examples of interest rate swaps, crucial financial derivatives for managing risk and optimizing investment strategies in algo trading."
+category: quant_concept
+description: Explore the types and examples of interest rate swaps, crucial financial
+  derivatives for managing risk and optimizing investment strategies in algo trading.
+title: 'Interest Rate Swap: Types and Examples (Algo Trading)'
 ---
 
 Financial derivatives play a crucial role in managing risk and leveraging investment opportunities in today's dynamic markets. These instruments, whose values are derived from underlying assets, provide a multitude of uses, including risk hedging, speculation, and arbitrage. Among the various types of derivatives available, interest rate swaps have become instrumental for companies as they navigate the complexities of financial exposure to interest rate fluctuations.

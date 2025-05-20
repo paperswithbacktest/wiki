@@ -1,6 +1,9 @@
 ---
-title: "Sucker Rally: Concept, Mechanism, and Example (Algo Trading)"
-description: "Understand the mechanism behind sucker rallies in algorithmic trading Learn how to identify these deceptive market trends and refine investment strategies for optimal portfolio management."
+category: quant_concept
+description: Understand the mechanism behind sucker rallies in algorithmic trading
+  Learn how to identify these deceptive market trends and refine investment strategies
+  for optimal portfolio management.
+title: 'Sucker Rally: Concept, Mechanism, and Example (Algo Trading)'
 ---
 
 In the ever-evolving world of finance, understanding market trends and developing effective strategies to navigate them is crucial for any investor. Market trends, investment strategies, sucker rallies, and algorithmic trading are key concepts that can significantly impact financial decision-making and portfolio optimization.

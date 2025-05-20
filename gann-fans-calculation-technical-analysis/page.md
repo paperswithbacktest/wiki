@@ -1,6 +1,8 @@
 ---
-title: "Gann Fans and Their Calculation in Technical Analysis (Algo Trading)"
-description: "Explore the integration of Gann Fans with algorithmic trading strategies to optimize market predictions and enhance trading precision through advanced techniques."
+category: quant_concept
+description: Explore the integration of Gann Fans with algorithmic trading strategies
+  to optimize market predictions and enhance trading precision through advanced techniques.
+title: Gann Fans and Their Calculation in Technical Analysis (Algo Trading)
 ---
 
 Technical analysis serves as a vital tool in modern financial markets, allowing traders to forecast future price movements by examining historical market data. This discipline employs a variety of techniques and indicators designed to provide insights into market trends and help traders make informed decisions. Among these technical analysis tools, Gann Fans distinguish themselves through their unique geometric and cyclical approach to predicting price fluctuations. Named after their developer, W.D. Gann, these fans use angled lines placed on price charts to determine possible support and resistance levels, ultimately facilitating a deeper understanding of market dynamics.

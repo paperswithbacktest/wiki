@@ -1,6 +1,9 @@
 ---
-title: "Pricing of Non-Deliverable Forwards (Algo Trading)"
-description: "Discover how algorithmic trading revolutionizes non-deliverable forwards (NDFs), enhancing currency risk management in volatile markets through tech-driven strategies."
+category: quant_concept
+description: Discover how algorithmic trading revolutionizes non-deliverable forwards
+  (NDFs), enhancing currency risk management in volatile markets through tech-driven
+  strategies.
+title: Pricing of Non-Deliverable Forwards (Algo Trading)
 ---
 
 The financial derivatives and foreign exchange trading sector has undergone considerable transformation, driven in large part by technological innovations such as algorithmic trading and the introduction of non-deliverable forwards (NDFs). NDFs have emerged as essential tools for managing currency risks, particularly in markets where currencies are not freely convertible. These financial instruments facilitate hedging strategies for companies and financial institutions facing exposure to volatile exchange rates, especially in emerging economies. Throughout this article, we will explore how NDFs are priced, the influence of algorithmic trading, and the implications for global financial markets.

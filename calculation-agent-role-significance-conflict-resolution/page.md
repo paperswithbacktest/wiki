@@ -1,6 +1,9 @@
 ---
-title: "Calculation Agent: Role, Significance, and Conflict Resolution (Algo Trading)"
-description: "Explore the crucial role of calculation agents in algorithmic trading and financial disputes Learn how they ensure accurate transactions and resolve conflicts in derivatives markets"
+category: quant_concept
+description: Explore the crucial role of calculation agents in algorithmic trading
+  and financial disputes Learn how they ensure accurate transactions and resolve conflicts
+  in derivatives markets
+title: 'Calculation Agent: Role, Significance, and Conflict Resolution (Algo Trading)'
 ---
 
 Financial services play a crucial role in resolving financial disputes, vital for maintaining market stability and investor confidence. These services provide mechanisms for navigating the complexities of modern financial markets, where derivatives and algorithmic trading are common. Disputes in financial markets often arise from derivatives trading, where calculation agents play a pivotal role. Calculation agents are responsible for determining the value of derivatives, ensuring accurate financial transactions. They are central to the pricing and valuation of complex financial products, making them integral to dispute resolution in financial agreements.

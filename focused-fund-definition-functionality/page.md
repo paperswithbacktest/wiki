@@ -1,6 +1,9 @@
 ---
-title: "Focused Fund: Definition and Functionality (Algo Trading)"
-description: "Explore the synergy of focused funds and algorithmic trading to boost return potential with targeted strategies and data-driven decisions for optimal performance."
+category: quant_concept
+description: Explore the synergy of focused funds and algorithmic trading to boost
+  return potential with targeted strategies and data-driven decisions for optimal
+  performance.
+title: 'Focused Fund: Definition and Functionality (Algo Trading)'
 ---
 
 In the evolving world of finance, investors and fund managers actively pursue innovative strategies to optimize returns and manage risks effectively. Among these strategies, focused funds and algorithmic trading have gained significant traction for their potential to create efficient, data-driven, and opportunity-focused portfolios. This article provides an overview of these investment strategies within the context of fund management, highlighting their roles in achieving optimal fund performance.

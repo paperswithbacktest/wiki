@@ -1,6 +1,9 @@
 ---
-title: "price impact curves (Algo Trading)"
-description: "Explore how trades impact market prices with price impact curves an essential tool in algorithmic trading Learn to optimize strategies by understanding trade effects"
+category: quant_concept
+description: Explore how trades impact market prices with price impact curves an essential
+  tool in algorithmic trading Learn to optimize strategies by understanding trade
+  effects
+title: price impact curves (Algo Trading)
 ---
 
 Price impact curves are a fundamental concept in algorithmic trading, serving as essential tools for understanding and anticipating how trades influence market prices. At their core, these curves depict the relationship between the size of an executed trade and the resultant movement in an asset's price. By analyzing these curves, traders can predict potential changes in market prices associated with various trade sizes, allowing for more strategic decision-making.

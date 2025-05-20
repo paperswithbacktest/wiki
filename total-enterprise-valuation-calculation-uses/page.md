@@ -1,6 +1,9 @@
 ---
-title: "Total Enterprise Valuation: Calculation and Uses (Algo Trading)"
-description: "Explore how Total Enterprise Value (TEV) enhances trading strategies in algorithmic platforms by offering a detailed business valuation metric beyond market capitalization."
+category: quant_concept
+description: Explore how Total Enterprise Value (TEV) enhances trading strategies
+  in algorithmic platforms by offering a detailed business valuation metric beyond
+  market capitalization.
+title: 'Total Enterprise Valuation: Calculation and Uses (Algo Trading)'
 ---
 
 Understanding the intrinsic value of a business is crucial in today's competitive marketplace. Determining this value accurately helps investors, stakeholders, and analysts make informed decisions about investments, acquisitions, and strategic directions. Business valuation methods offer frameworks to estimate a company's worth, with Total Enterprise Value (TEV) being a notable metric. TEV provides a comprehensive measure by incorporating both equity and debt while subtracting cash and cash equivalents, allowing for a more thorough evaluation than market capitalization alone.

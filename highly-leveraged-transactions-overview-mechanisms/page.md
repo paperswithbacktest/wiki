@@ -1,6 +1,8 @@
 ---
-title: "Highly Leveraged Transactions: Overview and Mechanisms (Algo Trading)"
-description: "Explore how highly leveraged transactions and algorithmic trading shape modern finance Discover their mechanisms interactions and potential advantages"
+category: quant_concept
+description: Explore how highly leveraged transactions and algorithmic trading shape
+  modern finance Discover their mechanisms interactions and potential advantages
+title: 'Highly Leveraged Transactions: Overview and Mechanisms (Algo Trading)'
 ---
 
 The landscape of financial markets has evolved dramatically with the advent of advanced financial instruments and technologies. Today, the integration of highly leveraged transactions (HLTs) and algorithmic trading stands at the forefront of financial innovation. Both elements significantly influence the dynamics of modern finance, each offering distinct advantages and challenges. 

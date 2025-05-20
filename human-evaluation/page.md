@@ -1,7 +1,8 @@
 ---
-title: Human Evaluation Methods and Best Practices for Machine Learning
+category: quant_concept
 description: Human evaluation in machine learning uses expert feedback to catch subtle
   errors and improve model accuracy and reliability Discover more inside
+title: Human Evaluation Methods and Best Practices for Machine Learning
 ---
 
 ![Image](images/1.png)

@@ -1,6 +1,9 @@
 ---
-title: "Geometric Mean in Investment Analysis (Algo Trading)"
-description: "Explore the significance of geometric mean in investment analysis and algo trading It measures true average growth by accounting for compounding effects over time"
+category: quant_concept
+description: Explore the significance of geometric mean in investment analysis and
+  algo trading It measures true average growth by accounting for compounding effects
+  over time
+title: Geometric Mean in Investment Analysis (Algo Trading)
 ---
 
 In the world of investing and trading, the geometric mean is essential in accurately assessing investment performance over time. Unlike the arithmetic mean, which simply averages returns by adding them together and dividing by the number of periods, the geometric mean accounts for the compounding effect, a critical aspect of financial growth. This compounding effect is essential for understanding true investment returns, especially when dealing with multiple periods or fluctuating rates of return.
@@ -205,4 +208,3 @@ For practical applications in algorithmic trading and investment analysis:
 2. Chan, E. (2009). *Quantitative Trading: How to Build Your Own Algorithmic Trading Business*. This guide provides insights into creating and testing algorithmic trading strategies, often implying the use of geometric means for performance assessment.
 
 Additionally, exploring online resources such as financial data analysis libraries in Python (like `pandas` and `numpy`) can be beneficial for implementing geometric mean calculations in real-world scenarios. These tools offer various functions and methods to streamline financial data processing and investment strategy simulation.
-

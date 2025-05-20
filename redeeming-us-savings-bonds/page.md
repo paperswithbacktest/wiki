@@ -1,6 +1,9 @@
 ---
-title: "Redeeming U.S. Savings Bonds (Algo Trading)"
-description: "Navigate the complexities of U.S. savings bonds and algorithmic trading with our comprehensive guide designed to help investors maximize returns in a volatile market."
+category: quant_concept
+description: Navigate the complexities of U.S. savings bonds and algorithmic trading
+  with our comprehensive guide designed to help investors maximize returns in a volatile
+  market.
+title: Redeeming U.S. Savings Bonds (Algo Trading)
 ---
 
 Understanding savings bonds is crucial for investors seeking secure investment options amidst market volatility. U.S. savings bonds, backed by the full faith and credit of the U.S. government, offer a reliable way to invest with minimal risk. This article will guide you through the essentials of U.S. savings bonds, with a particular focus on cash savings bonds. It aims to help you understand their characteristics, benefits, and the process of redeeming them effectively to maximize your returns.

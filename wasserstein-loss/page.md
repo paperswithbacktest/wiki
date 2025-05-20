@@ -1,7 +1,8 @@
 ---
-title: Understanding Wasserstein Loss for Stable GAN Training
+category: quant_concept
 description: Wasserstein Loss enhances GAN training stability by providing a smooth
   convergence path and efficient distribution matching. Discover more inside.
+title: Understanding Wasserstein Loss for Stable GAN Training
 ---
 
 ![Image](images/1.png)

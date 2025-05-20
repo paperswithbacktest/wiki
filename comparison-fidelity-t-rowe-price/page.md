@@ -1,6 +1,12 @@
 ---
-title: "Comparison of Fidelity and T. Rowe Price (Algo Trading)"
-description: "Explore the comparative analysis of algorithmic trading solutions offered by Fidelity Investments and T. Rowe Price to understand their strategies in maximizing trading outcomes. This article investigates into how these leading investment firms utilize advanced technology and data-driven approaches to optimize efficiency and enhance financial performance. Discover insights that can aid in aligning your investment decisions with personal financial goals and risk appetite."
+category: trading_strategy
+description: Explore the comparative analysis of algorithmic trading solutions offered
+  by Fidelity Investments and T. Rowe Price to understand their strategies in maximizing
+  trading outcomes. This article investigates into how these leading investment firms
+  utilize advanced technology and data-driven approaches to optimize efficiency and
+  enhance financial performance. Discover insights that can aid in aligning your investment
+  decisions with personal financial goals and risk appetite.
+title: Comparison of Fidelity and T. Rowe Price (Algo Trading)
 ---
 
 In today's dynamic financial environment, selecting the right investment firm is crucial for maximizing returns and achieving long-term financial goals. The investment landscape is increasingly complex, with a myriad of options and strategies available to investors. Two prominent firms that stand out in this arena are Fidelity Investments and T. Rowe Price. These institutions have a long-standing reputation for providing exceptional investment services and have continually adapted to the evolving market dynamics.

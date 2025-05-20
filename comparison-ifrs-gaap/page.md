@@ -1,6 +1,8 @@
 ---
-title: "Comparison of IFRS and GAAP (Algo Trading)"
-description: "Explore how IFRS and GAAP influence algorithmic trading strategies through different accounting methods affecting transparency accuracy and financial decision-making."
+category: quant_concept
+description: Explore how IFRS and GAAP influence algorithmic trading strategies through
+  different accounting methods affecting transparency accuracy and financial decision-making.
+title: Comparison of IFRS and GAAP (Algo Trading)
 ---
 
 In an era dominated by technological advancement and globalization, understanding the interaction between accounting standards and algorithmic trading is vital. As financial markets become increasingly interconnected, the influence of accounting frameworks like International Financial Reporting Standards (IFRS) and Generally Accepted Accounting Principles (GAAP) on algorithmic trading strategies cannot be overstated. These frameworks, which provide the foundational principles for financial reporting, play a crucial role in determining the accuracy and transparency of the financial data used in high-frequency trading algorithms.
@@ -102,4 +104,3 @@ In conclusion, as the financial world becomes increasingly interconnected and co
 - "Quantitative Trading: How to Build Your Own Algorithmic Trading Business" by Ernie Chan is a valuable read for those interested in building a trading business while factoring in financial reporting standards and regulatory considerations.
 
 These resources provide varied perspectives on how accounting standards and algorithmic trading intersect and evolve, supporting professionals and academics in navigating the complexities of modern financial markets.
-

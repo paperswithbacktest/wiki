@@ -1,6 +1,9 @@
 ---
-title: "Advertising-to-Sales Ratio (Algo Trading)"
-description: "Discover the significance of advertising-to-sales ratio in optimizing marketing spend and explore how algorithmic trading enhances financial strategies for growth."
+category: quant_concept
+description: Discover the significance of advertising-to-sales ratio in optimizing
+  marketing spend and explore how algorithmic trading enhances financial strategies
+  for growth.
+title: Advertising-to-Sales Ratio (Algo Trading)
 ---
 
 In today's digitally driven marketplace, understanding key metrics is essential for businesses seeking to optimize their marketing and advertising efforts. The dynamic nature of global markets demands that organizations continually adapt and refine their strategies to maintain a competitive edge. This article explores crucial marketing metrics with a particular focus on the advertising-sales ratio, a vital measure for understanding the relationship between advertising investments and sales outcomes. This metric allows businesses to assess the efficiency of their advertising spend, which is vital for strategic decision-making and resource allocation.

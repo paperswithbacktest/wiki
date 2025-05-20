@@ -1,6 +1,9 @@
 ---
-title: "Economic Conditions and Indicators (Algo Trading)"
-description: "Explore how economic conditions and indicators inform algorithmic trading strategies Find insights on GDP unemployment inflation and predictive models for trading"
+category: quant_concept
+description: Explore how economic conditions and indicators inform algorithmic trading
+  strategies Find insights on GDP unemployment inflation and predictive models for
+  trading
+title: Economic Conditions and Indicators (Algo Trading)
 ---
 
 In the constantly evolving landscape of global markets, understanding economic conditions is crucial for investors and traders. Economic conditions, characterized by factors such as gross domestic product (GDP), unemployment rates, inflation, and monetary policies, hold significant sway over market movements and investment choices.

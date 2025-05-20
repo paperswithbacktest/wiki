@@ -1,6 +1,11 @@
 ---
-title: "List of Leading Global Natural Gas Companies (Algo Trading)"
-description: "Explore the dynamics of leading global natural gas companies as they balance production, market strategies, and technological advancements like algorithmic trading. Discover how these firms are shaping the future of energy with innovative solutions that enhance market efficiency and sustainability, ensuring their pivotal role in a rapidly evolving sector."
+category: dataset
+description: Explore the dynamics of leading global natural gas companies as they
+  balance production, market strategies, and technological advancements like algorithmic
+  trading. Discover how these firms are shaping the future of energy with innovative
+  solutions that enhance market efficiency and sustainability, ensuring their pivotal
+  role in a rapidly evolving sector.
+title: List of Leading Global Natural Gas Companies (Algo Trading)
 ---
 
 The global energy landscape has undergone dramatic changes in recent decades, with natural gas emerging as a crucial component in the transition towards cleaner energy sources. As a fossil fuel, natural gas offers a lower carbon footprint compared to coal and oil, making it a preferred choice in reducing greenhouse gas emissions. This shift is driven by both environmental considerations and the growing demand for sustainable energy solutions.

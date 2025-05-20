@@ -1,6 +1,9 @@
 ---
-title: "Below Full Employment Equilibrium (Algo Trading)"
-description: "Explore the dynamic intersection of economic equilibrium full employment and algorithmic trading to understand their impact on global markets and growth strategies."
+category: quant_concept
+description: Explore the dynamic intersection of economic equilibrium full employment
+  and algorithmic trading to understand their impact on global markets and growth
+  strategies.
+title: Below Full Employment Equilibrium (Algo Trading)
 ---
 
 In today’s dynamic economic environment, understanding the interplay between economic equilibrium, full employment, macroeconomics, and algorithmic trading is crucial. These concepts are fundamental to assessing how economies operate and understanding the implications of technological innovations on global markets.

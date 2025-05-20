@@ -1,6 +1,9 @@
 ---
-title: "Treasury Offerings: Mechanisms and Constraints (Algo Trading)"
-description: "Explore the dynamics of treasury offerings and algorithmic trading in financial markets Learn how government bonds and trading technologies shape investment strategies"
+category: quant_concept
+description: Explore the dynamics of treasury offerings and algorithmic trading in
+  financial markets Learn how government bonds and trading technologies shape investment
+  strategies
+title: 'Treasury Offerings: Mechanisms and Constraints (Algo Trading)'
 ---
 
 Financial markets are complex systems that play a crucial role in the global economy by facilitating the exchange of financial instruments and commodities. These markets serve as conduits through which capital flows from savers to borrowers, enabling economic growth and development. At the heart of financial markets are various instruments, including equities, derivatives, commodities, and fixed income securities. Among these, government bonds and treasury offerings are particularly noteworthy due to their impact on economic stability and government funding.

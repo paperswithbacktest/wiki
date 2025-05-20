@@ -1,6 +1,9 @@
 ---
-title: "Core Earnings: Definition and Examples (Algo Trading)"
-description: "Explore the significance of core earnings and algorithmic trading in financial analysis, offering investors a clear perspective on profitability and market dynamics."
+category: quant_concept
+description: Explore the significance of core earnings and algorithmic trading in
+  financial analysis, offering investors a clear perspective on profitability and
+  market dynamics.
+title: 'Core Earnings: Definition and Examples (Algo Trading)'
 ---
 
 The financial industry is undergoing a rapid transformation as core earnings and algorithmic trading become crucial elements in financial analysis. Core earnings provide a precise measure of a company's profitability by centering on its primary business activities. By eliminating the distortion caused by nonrecurring items, core earnings enable investors and analysts to make more informed decisions about a company's financial health and future prospects.

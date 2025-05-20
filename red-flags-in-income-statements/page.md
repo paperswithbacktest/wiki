@@ -1,6 +1,8 @@
 ---
-title: "Red Flags in Income Statements (Algo Trading)"
-description: "Explore the critical red flags in income statements that investors should watch for in algorithmic trading contexts to ensure financial health and stability."
+category: trading_strategy
+description: Explore the critical red flags in income statements that investors should
+  watch for in algorithmic trading contexts to ensure financial health and stability.
+title: Red Flags in Income Statements (Algo Trading)
 ---
 
 In finance, understanding the nuances of financial statements is crucial for investors and analysts alike. These documents offer a window into the health and performance of companies, helping stakeholders make informed decisions. In particular, income statements deserve close scrutiny as they can reveal warning signs of financial trouble. This article explores the red flags in income statements that signal potential financial issues, specifically in the context of financial analysis and algorithmic trading. 

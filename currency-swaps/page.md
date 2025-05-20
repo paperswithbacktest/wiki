@@ -1,6 +1,8 @@
 ---
-title: "Currency Swaps (Algo Trading)"
-description: "Explore the pivotal role of currency swaps and algorithmic trading in managing foreign exchange risk and seizing market opportunities with precision."
+category: quant_concept
+description: Explore the pivotal role of currency swaps and algorithmic trading in
+  managing foreign exchange risk and seizing market opportunities with precision.
+title: Currency Swaps (Algo Trading)
 ---
 
 In the complex world of finance, derivatives play a crucial role in risk management and speculative strategies. These instruments are essential tools for investors looking to hedge against various risks or capitalize on market movements. Among the variety of financial derivatives, currency swaps are key instruments used by investors to manage foreign exchange risk. Currency swaps allow parties to exchange cash flows in different currencies, effectively protecting against unfavorable currency fluctuations and enabling access to more favorable interest rates in foreign markets.

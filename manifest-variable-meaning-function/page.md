@@ -1,6 +1,9 @@
 ---
-title: "Manifest Variable: Meaning and Function (Algo Trading)"
-description: "Discover how manifest and latent variables impact algorithmic trading Explore their functions in data-driven strategies for effective trades and market insights"
+category: quant_concept
+description: Discover how manifest and latent variables impact algorithmic trading
+  Explore their functions in data-driven strategies for effective trades and market
+  insights
+title: 'Manifest Variable: Meaning and Function (Algo Trading)'
 ---
 
 In contemporary data analysis, mastering the nuances of different variable types is essential. With the rise of algorithmic trading—a method that uses computer algorithms to automatically execute trades—the understanding of statistical variables has become increasingly significant. Algorithmic trading relies heavily on data-driven decisions, where both manifest and latent variables play pivotal roles in crafting effective trading strategies.

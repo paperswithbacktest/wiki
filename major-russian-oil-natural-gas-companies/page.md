@@ -1,6 +1,8 @@
 ---
-title: "Major Russian Oil and Natural Gas Companies (Algo Trading)"
-description: "Explore Russian oil and gas companies' influence in global energy markets and how algorithmic trading is reshaping their strategic operations amidst sanctions."
+category: dataset
+description: Explore Russian oil and gas companies' influence in global energy markets
+  and how algorithmic trading is reshaping their strategic operations amidst sanctions.
+title: Major Russian Oil and Natural Gas Companies (Algo Trading)
 ---
 
 The global energy sector is a cornerstone of the international economy, underpinning the development and economic growth of nations worldwide. Its evolution has been shaped by a myriad of factors, including geopolitical events, advancements in technology, and shifts in economic paradigms. In recent years, the energy markets have undergone profound transformations, leading to new opportunities and challenges for stakeholders.

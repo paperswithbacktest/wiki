@@ -1,6 +1,8 @@
 ---
-title: "Trading Strategies with Andrews' Pitchfork (Algo Trading)"
-description: "Discover the powerful combination of Andrews' Pitchfork and algorithmic trading to optimize your strategy. Learn about its application, structure, and benefits."
+category: trading_strategy
+description: Discover the powerful combination of Andrews' Pitchfork and algorithmic
+  trading to optimize your strategy. Learn about its application, structure, and benefits.
+title: Trading Strategies with Andrews' Pitchfork (Algo Trading)
 ---
 
 Technical analysis is a pivotal discipline in trading, leveraging historical price and volume data to forecast future market trends. Its significance lies in providing traders with actionable insights to inform their buying and selling decisions. Among the diverse array of tools available for technical analysis, Andrews' Pitchfork is notable for its straightforward application and robust predictive capacity in identifying potential market movements.

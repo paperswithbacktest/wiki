@@ -1,6 +1,8 @@
 ---
-title: "Dow Jones BRIC 50 Index (Algo Trading)"
-description: "Explore the Dow Jones BRIC 50 Index focusing on Brazil India and China as it evolves to become a key benchmark for investors in dynamic emerging markets."
+category: dataset
+description: Explore the Dow Jones BRIC 50 Index focusing on Brazil India and China
+  as it evolves to become a key benchmark for investors in dynamic emerging markets.
+title: Dow Jones BRIC 50 Index (Algo Trading)
 ---
 
 The Dow Jones BRIC 50 Index serves as a crucial benchmark for tracking the performance of some of the largest and most liquid companies across Brazil, India, and China. Initially, this index included companies from Russia, forming the BRIC acronym, but geopolitical factors have since led to Russia's exclusion. The remaining BRIC nations— Brazil, India, and China—remain pivotal due to their substantial contributions to the global economy. Combined, these nations represent a significant proportion of global GDP, possess vast natural resources, a substantial population, and active economic development programs.

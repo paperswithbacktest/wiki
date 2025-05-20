@@ -1,6 +1,13 @@
 ---
-title: "Introduction and Examples of Monte Carlo Strategy Simulation"
-description: Explore the power of Monte Carlo simulations in algorithmic trading as a tool to model outcome probabilities and manage risks through random sampling. Understand how this method transcends historical data limits by generating synthetic scenarios, allowing traders to evaluate trading strategy robustness under uncertain conditions. This page introduces key concepts in Monte Carlo simulations, including strategy analysis and diverse simulation techniques, enhancing decision-making and risk management in trading strategies.
+category: trading_strategy
+description: Explore the power of Monte Carlo simulations in algorithmic trading as
+  a tool to model outcome probabilities and manage risks through random sampling.
+  Understand how this method transcends historical data limits by generating synthetic
+  scenarios, allowing traders to evaluate trading strategy robustness under uncertain
+  conditions. This page introduces key concepts in Monte Carlo simulations, including
+  strategy analysis and diverse simulation techniques, enhancing decision-making and
+  risk management in trading strategies.
+title: Introduction and Examples of Monte Carlo Strategy Simulation
 ---
 
 Monte Carlo simulations are a powerful analytical tool employed in algorithmic trading to model the probability of different outcomes where predictive accuracy is compromised due to the involvement of random variables. This method involves repeated random sampling to create a multitude of scenarios, helping traders gain an understanding of both the potential risks and the rewards associated with their trading strategies. In essence, algorithmic traders use Monte Carlo simulations to identify potential variations in strategy backtests, aiding them in evaluating whether historical performance can reliably forecast future results.

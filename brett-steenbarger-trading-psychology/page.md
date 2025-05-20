@@ -1,6 +1,13 @@
 ---
-title: "Brett Steenbarger Trading Psychology (Algo Trading)"
-description: Explore the critical role of psychology in trading with insights from Brett Steenbarger. This page investigates into the intersection of trading psychology and algorithmic strategies addressing how psychological principles can enhance decision-making and performance. Understand how to break detrimental trading habits cultivate adaptability and leverage psychological awareness to maintain a competitive edge in financial markets. Discover Steenbarger's philosophy on fostering mental resilience and adaptability for improved trading outcomes.
+category: trading_strategy
+description: Explore the critical role of psychology in trading with insights from
+  Brett Steenbarger. This page investigates into the intersection of trading psychology
+  and algorithmic strategies addressing how psychological principles can enhance decision-making
+  and performance. Understand how to break detrimental trading habits cultivate adaptability
+  and leverage psychological awareness to maintain a competitive edge in financial
+  markets. Discover Steenbarger's philosophy on fostering mental resilience and adaptability
+  for improved trading outcomes.
+title: Brett Steenbarger Trading Psychology (Algo Trading)
 ---
 
 The world of trading has undergone a significant transformation with the integration of traditional trading methods and advanced algorithmic strategies. This evolution reflects a shift from manual decision-making to a more systematic, data-driven approach. Within this context, Brett Steenbarger, a leading figure in trading psychology, provides critical insights into the psychological aspects of algorithmic trading. Steenbarger emphasizes the importance of understanding psychological principles to improve trading outcomes by enhancing both performance and the decision-making process.

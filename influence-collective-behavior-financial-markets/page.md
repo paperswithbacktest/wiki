@@ -1,6 +1,9 @@
 ---
-title: "Influence of Collective Behavior on Financial Markets (Algo Trading)"
-description: "Explore the interplay of collective behavior and algorithmic trading in financial markets uncovering how these elements shape market trends and investor decisions."
+category: quant_concept
+description: Explore the interplay of collective behavior and algorithmic trading
+  in financial markets uncovering how these elements shape market trends and investor
+  decisions.
+title: Influence of Collective Behavior on Financial Markets (Algo Trading)
 ---
 
 Financial markets are intricate ecosystems shaped by the collective actions and decisions of numerous traders and investors. These markets function not merely as venues for buying and selling but as dynamic systems where various elements interact to influence overall market trends. One significant aspect of these systems is the interaction between market dynamics, collective behavior, and algorithmic trading, all of which play a critical role in shaping financial outcomes.

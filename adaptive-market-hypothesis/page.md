@@ -1,6 +1,8 @@
 ---
-title: "Adaptive Market Hypothesis (Algo Trading)"
-description: "Discover the Adaptive Market Hypothesis which blends evolution and finance to offer a fresh perspective on market dynamics and inform adaptive trading strategies."
+category: quant_concept
+description: Discover the Adaptive Market Hypothesis which blends evolution and finance
+  to offer a fresh perspective on market dynamics and inform adaptive trading strategies.
+title: Adaptive Market Hypothesis (Algo Trading)
 ---
 
 The Adaptive Market Hypothesis (AMH), introduced by Andrew Lo, provides a novel outlook on the intricacies of financial market behavior. It challenges the traditional Efficient Market Hypothesis (EMH), which argues that asset prices fully reflect all available information, rendering consistent outperformance unattainable (Fama, 1970). In contrast, AMH integrates evolutionary biology concepts and insights from behavioral finance to depict markets as dynamic ecosystems. This approach acknowledges that market participants, much like organisms, evolve and adapt to changing environments—a perspective strikingly absent from the EMH. 

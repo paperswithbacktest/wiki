@@ -1,9 +1,15 @@
 ---
-title: "Brainteasers for Algo Trading"
-description: Brainteasers, often seen as mere mental exercises, play a crucial role in high-frequency trading and market-making. This article explores how these puzzles sharpen analytical and problem-solving skills, crucial for making split-second decisions in fast-paced trading environments. Far beyond interview preparation, brainteasers help traders develop the agility and precision required to navigate complex market dynamics. By embracing these challenges, professionals can enhance their risk assessment, quick calculation abilities, and strategic thinking, gaining a competitive edge in the high-stakes world of finance.
+category: quant_concept
+description: Brainteasers, often seen as mere mental exercises, play a crucial role
+  in high-frequency trading and market-making. This article explores how these puzzles
+  sharpen analytical and problem-solving skills, crucial for making split-second decisions
+  in fast-paced trading environments. Far beyond interview preparation, brainteasers
+  help traders develop the agility and precision required to navigate complex market
+  dynamics. By embracing these challenges, professionals can enhance their risk assessment,
+  quick calculation abilities, and strategic thinking, gaining a competitive edge
+  in the high-stakes world of finance.
+title: Brainteasers for Algo Trading
 ---
-
-
 
 Brainteasers often evoke mixed feelings. Many see them as a mere diversion, an unnecessary mental gymnastics that doesn't add real value to one's skill set. This perspective changes, however, when we consider the competitive world of high-frequency trading and market-making, where brainteasers aren't just a quirky part of job interviews but a daily mental exercise to stay sharp and prepared. This article investigates into the world of brainteasers, not just as a tool for interview preparation, but as a critical exercise in sharpening one's analytical and problem-solving skills, especially in the high-stakes environment of trading and market analysis.
 

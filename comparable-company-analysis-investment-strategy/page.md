@@ -1,6 +1,8 @@
 ---
-title: "Comparable Company Analysis in Investment Strategy (Algo Trading)"
-description: "Explore critical investment strategies using Comparable Company Analysis and algorithmic trading for efficient market participation and asset valuation insights."
+category: trading_strategy
+description: Explore critical investment strategies using Comparable Company Analysis
+  and algorithmic trading for efficient market participation and asset valuation insights.
+title: Comparable Company Analysis in Investment Strategy (Algo Trading)
 ---
 
 In the modern financial landscape, understanding the intrinsic and market value of assets is critical for investment success. This article explores the key concepts of investment strategy, focusing on Comparable Company Analysis (CCA), financial analysis, and how algorithmic trading integrates these insights.
@@ -176,4 +178,3 @@ Chan, E.: Quantitative Trading: How to Build Your Own Algorithmic Trading Busine
 De Prado, M. L.: Advances in Financial Machine Learning explores innovative techniques and methodologies for applying [machine learning](/wiki/machine-learning) to financial markets, including the development of predictive models and automated trading strategies. This work is critical for traders and analysts looking to incorporate advanced data-driven techniques into their analyses and trading operations.
 
 Jansen, S.: Machine Learning for Algorithmic Trading presents an in-depth examination of how machine learning can enhance algorithmic trading. This book covers the practical application of programming languages, notably Python, in collecting and processing market data, developing trading strategies, and optimizing execution. The insights provided are crucial for effectively integrating machine learning with traditional valuation models for enhanced investment performance.
-

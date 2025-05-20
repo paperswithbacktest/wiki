@@ -1,6 +1,9 @@
 ---
-title: "Overview of Oscillators (Algo Trading)"
-description: "Explore the pivotal role of oscillators in electronic systems and algorithmic trading delving into their application in market analysis and automated strategies for optimal trading outcomes."
+category: quant_concept
+description: Explore the pivotal role of oscillators in electronic systems and algorithmic
+  trading delving into their application in market analysis and automated strategies
+  for optimal trading outcomes.
+title: Overview of Oscillators (Algo Trading)
 ---
 
 In today’s fast-paced financial markets, oscillators have become indispensable tools in both electronic systems and algorithmic trading. These devices are integral to the functioning of many electronic systems, where they generate continuous waveforms crucial for timing and signal processing tasks. Oscillators ensure that electronic devices, whether they are computers, radios, or clocks, operate with precision and reliability.

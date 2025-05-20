@@ -1,6 +1,8 @@
 ---
-title: "List of Largest Software Companies (Algo Trading)"
-description: "Explore the dynamics of leading software companies in algorithmic trading driven by innovation from giants like Microsoft and Oracle, shaping tech and finance."
+category: dataset
+description: Explore the dynamics of leading software companies in algorithmic trading
+  driven by innovation from giants like Microsoft and Oracle, shaping tech and finance.
+title: List of Largest Software Companies (Algo Trading)
 ---
 
 The software technology industry represents a fast-paced and continuously evolving sector influenced by constant innovation and advancements in computing power. Over the past few decades, software technology has expanded far beyond traditional applications, penetrating various aspects of both business and personal lives. Within this broad industry, some of the largest companies, such as Microsoft, Oracle, and SAP, have grown to dominate the market. These firms not only provide a wide range of software solutions but have also played a critical role in shaping and transforming the technology landscape itself.

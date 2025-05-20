@@ -1,6 +1,11 @@
 ---
-title: "Consumer Alternative Data (Algo Trading)"
-description: Explore how consumer alternative data transforms algorithmic trading by leveraging insights from social media, geo-location, and transaction data. Discover the advantages of real-time market prediction and comprehensive strategy refinement, highlighting the competitive edge gained by traders through early trend detection and informed investment decisions.
+category: dataset
+description: Explore how consumer alternative data transforms algorithmic trading
+  by leveraging insights from social media, geo-location, and transaction data. Discover
+  the advantages of real-time market prediction and comprehensive strategy refinement,
+  highlighting the competitive edge gained by traders through early trend detection
+  and informed investment decisions.
+title: Consumer Alternative Data (Algo Trading)
 ---
 
 In recent years, algorithmic trading has undergone significant transformation with the integration of consumer alternative data. This shift marks a promising development in the industry, presenting opportunities for refined trading strategies that leverage non-traditional data sources. Consumer alternative data encompasses a variety of information gathered from consumer-related activities, such as social media interactions, geo-location tracking, credit card transactions, and web traffic metrics. These data points provide unique insights into consumer behavior and emerging trends, offering a distinct advantage over traditional financial data sources like economic indicators or stock prices.

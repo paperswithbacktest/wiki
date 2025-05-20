@@ -1,6 +1,9 @@
 ---
-title: "Equity Derivatives (Algo Trading)"
-description: "Explore the synergy of equity derivatives and algorithmic trading to optimize investment strategies by managing risk and exploiting market inefficiencies efficiently."
+category: quant_concept
+description: Explore the synergy of equity derivatives and algorithmic trading to
+  optimize investment strategies by managing risk and exploiting market inefficiencies
+  efficiently.
+title: Equity Derivatives (Algo Trading)
 ---
 
 In an era where technology intertwines with finance, equity derivatives and algorithmic trading serve as pivotal elements in modern investment strategies. Equity derivatives are financial instruments whose value is derived from underlying stocks. They are indispensable for risk management, allowing investors to hedge against potential losses, and also present speculative opportunities. These instruments, such as options and futures, enable investors to participate in market movements without necessitating direct ownership of the securities.
@@ -174,4 +177,3 @@ Narang, R. (2013). *Inside the Black Box: A Simple Guide to Quantitative and Hig
 Aldridge, I. (2009). *High-Frequency Trading: A Practical Guide to Algorithmic Strategies and Trading Systems*. Irene Aldridge's guide provides practical insights into the development and execution of algorithmic trading strategies, focusing on the technical aspects of high-frequency systems.
 
 Engle, R. F., & Russell, J. R. (2012). *Analysis of High Frequency Data with Dynamic Conditional Score Models*. Engle and Russell deliver an analytical approach to understanding high-frequency data, utilizing dynamic conditional score models to interpret financial market behaviors effectively.
-

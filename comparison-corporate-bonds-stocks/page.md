@@ -1,6 +1,8 @@
 ---
-title: "Comparison of Corporate Bonds and Stocks (Algo Trading)"
-description: "Explore the key differences between corporate bonds and stocks in this insightful guide. Learn about their risks, rewards, and role of algorithmic trading."
+category: quant_concept
+description: Explore the key differences between corporate bonds and stocks in this
+  insightful guide. Learn about their risks, rewards, and role of algorithmic trading.
+title: Comparison of Corporate Bonds and Stocks (Algo Trading)
 ---
 
 In the modern financial landscape, understanding the various investment options available is crucial for making informed decisions. Among the many investment vehicles, stocks and corporate bonds stand out as two of the most prominent, each offering unique benefits and risks. Stocks, representing ownership in a corporation, provide shareholders with both voting rights and a potential claim on the company's earnings. This ownership stake can lead to significant returns, driven by market trends, economic factors, and company performance. However, the higher potential returns of stocks come with higher volatility and risk, requiring investors to carefully assess when making investment choices.
@@ -149,4 +151,3 @@ To navigate the complexities of modern financial markets, investors must priorit
 - Online platforms like Coursera and edX offer courses on financial markets and algorithmic trading, providing structured learning through institutions such as the University of Geneva and the New York Institute of Finance.
 
 These resources collectively provide a solid foundation for anyone seeking to expand their understanding of stocks, corporate bonds, and algorithmic trading, and their application in investment strategies.
-

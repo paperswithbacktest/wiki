@@ -1,6 +1,8 @@
 ---
-title: "Comparison of Equity and Mortgage REITs (Algo Trading)"
-description: "Explore how Equity and Mortgage REITs differ in investment strategy and risk plus how algorithmic trading can enhance real estate investment returns."
+category: trading_strategy
+description: Explore how Equity and Mortgage REITs differ in investment strategy and
+  risk plus how algorithmic trading can enhance real estate investment returns.
+title: Comparison of Equity and Mortgage REITs (Algo Trading)
 ---
 
 Real Estate Investment Trusts (REITs) play a pivotal role in the real estate market by enabling investors to access large-scale real estate portfolios while avoiding the complexities associated with direct property ownership. As an investment vehicle, REITs provide a means to gain exposure to real estate assets in a manner akin to stock investing. Investors benefit not only from potential capital appreciation but also from the income derived from rents or mortgage interests. 

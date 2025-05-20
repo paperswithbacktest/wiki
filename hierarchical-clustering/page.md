@@ -1,7 +1,8 @@
 ---
-title: Understanding Hierarchical Clustering in Machine Learning
+category: quant_concept
 description: Hierarchical clustering groups data flexibly without preset cluster counts
   using dendrograms distance metrics and linkage criteria Discover more inside
+title: Understanding Hierarchical Clustering in Machine Learning
 ---
 
 ![Image](images/1.png)

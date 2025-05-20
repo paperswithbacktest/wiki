@@ -1,6 +1,9 @@
 ---
-title: "Technical Indicators for Binary Options (Algo Trading)"
-description: "Enhance your binary options trading with this guide on technical indicators and algo trading Discover strategies for consistent success and reduced emotional bias"
+category: trading_strategy
+description: Enhance your binary options trading with this guide on technical indicators
+  and algo trading Discover strategies for consistent success and reduced emotional
+  bias
+title: Technical Indicators for Binary Options (Algo Trading)
 ---
 
 Binary options trading has gained popularity among traders due to its straightforward, all-or-nothing nature. This form of trading involves predicting the price movement of an asset within a specified timeframe, which results in either a fixed payout or no return at all. The simplicity of binary options makes it accessible to many traders; however, achieving consistent success requires effective strategies.

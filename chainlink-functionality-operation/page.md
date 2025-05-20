@@ -1,6 +1,14 @@
 ---
-title: "Chainlink: Functionality and Operation (Algo Trading)"
-description: "Explore how Chainlink revolutionizes blockchain technology by connecting smart contracts with real-world data, crucial for algorithmic trading. Learn about its decentralized oracle network which ensures secure data transfer, bridging the blockchain with external sources to enable advanced trading strategies. Discover how Chainlink's innovative architecture enhances trading outcomes, reduces risk, and supports complex transactions through hybrid smart contracts while maintaining data accuracy and reliability. Explore the profound impact this has on blockchain applications and the broader financial industry."
+category: quant_concept
+description: Explore how Chainlink revolutionizes blockchain technology by connecting
+  smart contracts with real-world data, crucial for algorithmic trading. Learn about
+  its decentralized oracle network which ensures secure data transfer, bridging the
+  blockchain with external sources to enable advanced trading strategies. Discover
+  how Chainlink's innovative architecture enhances trading outcomes, reduces risk,
+  and supports complex transactions through hybrid smart contracts while maintaining
+  data accuracy and reliability. Explore the profound impact this has on blockchain
+  applications and the broader financial industry.
+title: 'Chainlink: Functionality and Operation (Algo Trading)'
 ---
 
 Chainlink is a decentralized oracle network that significantly impacts the blockchain environment by enabling smart contracts to securely access real-world data. This innovation has overcome a fundamental limitation of blockchain technology — the inability of smart contracts to communicate with resources outside their respective networks. Chainlink facilitates this communication by acting as a bridge, employing a network of nodes, or oracles, to retrieve and feed external data into the blockchain in a decentralized manner.

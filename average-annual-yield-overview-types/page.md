@@ -1,6 +1,9 @@
 ---
-title: "Average Annual Yield: Overview and Types (Algo Trading)"
-description: "Explore the importance of various investment yield types including APY and current yield in both traditional investments and modern algorithmic trading strategies."
+category: quant_concept
+description: Explore the importance of various investment yield types including APY
+  and current yield in both traditional investments and modern algorithmic trading
+  strategies.
+title: 'Average Annual Yield: Overview and Types (Algo Trading)'
 ---
 
 Understanding investment yields is essential for assessing potential returns across different asset classes. The yield of an investment represents the income generated and can be a decisive factor when comparing investment opportunities. In traditional investment strategies, yield analysis provides insights into the effectiveness of resource allocation and potential income streams. Similarly, in modern algorithmic trading, yield is a critical component in formulating strategies that optimize financial returns. 

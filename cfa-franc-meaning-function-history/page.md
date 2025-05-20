@@ -1,6 +1,8 @@
 ---
-title: "CFA Franc: Meaning, Function, and History (Algo Trading)"
-description: "Explore the history, function, and impact of the CFA Franc, a currency linking 14 African countries with the Euro. Discover its role in modern finance."
+category: quant_concept
+description: Explore the history, function, and impact of the CFA Franc, a currency
+  linking 14 African countries with the Euro. Discover its role in modern finance.
+title: 'CFA Franc: Meaning, Function, and History (Algo Trading)'
 ---
 
 The CFA Franc stands as a distinctive currency utilized by 14 African countries, notable for its peg to the Euro. This financial arrangement renders it an intriguing subject for analysis due to its historical roots and structural implications in the financial discourse. Originating in the mid-20th century, the CFA Franc was designed to stabilize economies within the French colonial empire post-World War II. Today, it persists as the currency of choice within the Economic and Monetary Unions of West and Central Africa, specifically, the West African Economic and Monetary Union (WAEMU) and the Central African Economic and Monetary Community (CEMAC).

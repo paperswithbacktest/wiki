@@ -1,6 +1,9 @@
 ---
-title: "Differences Between Buy-Side and Sell-Side Analysts (Algo Trading)"
-description: "Explore the distinct roles of buy-side and sell-side analysts in finance contrasting their objectives methodologies and impacts in the evolving landscape of algorithmic trading."
+category: quant_concept
+description: Explore the distinct roles of buy-side and sell-side analysts in finance
+  contrasting their objectives methodologies and impacts in the evolving landscape
+  of algorithmic trading.
+title: Differences Between Buy-Side and Sell-Side Analysts (Algo Trading)
 ---
 
 The world of finance comprises a multitude of roles and responsibilities that are essential for maintaining market efficiency and achieving investment success. Among these roles, buy-side and sell-side analysts emerge as pivotal figures, each offering crucial insights but from distinct vantage points. Buy-side analysts are primarily engaged with investment institutions like mutual funds, pension funds, hedge funds, and insurance companies. In contrast, sell-side analysts are typically employed by investment banks, brokerage firms, and advisory firms to cater to a wide range of external clients.

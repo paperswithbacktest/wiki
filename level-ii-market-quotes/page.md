@@ -1,6 +1,8 @@
 ---
-title: "Level II Market Quotes (Algo Trading)"
-description: "Gain a competitive edge in algo trading with Level II market quotes offering deep insights into Nasdaq order books and strategic trade execution."
+category: quant_concept
+description: Gain a competitive edge in algo trading with Level II market quotes offering
+  deep insights into Nasdaq order books and strategic trade execution.
+title: Level II Market Quotes (Algo Trading)
 ---
 
 In the ever-evolving world of stock trading, traders are perpetually on the lookout for insights and tools that grant them a strategic edge. The financial markets, characterized by rapid changes and high volatility, demand a nuanced understanding of various trading instruments. Among these, Market Quotes Level II, commonly referred to as Level II, stands out as a crucial component, offering an in-depth view of the order book specific to Nasdaq stocks. 

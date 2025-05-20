@@ -1,7 +1,8 @@
 ---
-title: SPMD Parallel Processing for Scalable Machine Learning
+category: quant_concept
 description: SPMD accelerates machine learning by running the same program across
   multiple processors on split data to speed training and scale Discover more inside.
+title: SPMD Parallel Processing for Scalable Machine Learning
 ---
 
 ![Image](images/1.jpeg)

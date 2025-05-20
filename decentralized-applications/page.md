@@ -1,6 +1,8 @@
 ---
-title: "Decentralized Applications (Algo Trading)"
-description: "Explore how decentralized applications and blockchain revolutionize algorithmic trading enhancing transparency, security, and efficiency in financial markets."
+category: quant_concept
+description: Explore how decentralized applications and blockchain revolutionize algorithmic
+  trading enhancing transparency, security, and efficiency in financial markets.
+title: Decentralized Applications (Algo Trading)
 ---
 
 Blockchain technology is a form of distributed ledger technology that ensures transactions are secure, transparent, and decentralized. At its core, a blockchain is a chain of blocks where each block contains a list of transactions. Each block is securely connected to the previous one using cryptographic principles, which makes the data nearly immutable and tamper-proof. This technology emerged as the backbone of cryptocurrencies like Bitcoin, but its utility has expanded across numerous sectors due to its robustness and potential to streamline processes.

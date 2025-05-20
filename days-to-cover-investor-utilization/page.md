@@ -1,6 +1,8 @@
 ---
-title: "Days to Cover and Investor Utilization (Algo Trading)"
-description: "Discover the importance of short interest and days to cover in trading. Learn how algorithmic trading leverages these metrics to enhance investment strategies."
+category: trading_strategy
+description: Discover the importance of short interest and days to cover in trading.
+  Learn how algorithmic trading leverages these metrics to enhance investment strategies.
+title: Days to Cover and Investor Utilization (Algo Trading)
 ---
 
 In the fast-paced world of investing, traders and investors are continually on the hunt for new strategies to gain a competitive advantage in the financial markets. Among the metrics gaining traction for their potential to signal stock movements are short interest and days to cover. These metrics have become crucial as they offer unique insights into market sentiment and the future behavior of stocks. Short interest refers to the total number of shares that have been sold short but have not yet been closed or covered. High short interest can indicate a bearish sentiment but also the potential for a short squeeze—a rapid increase in a stock's price due to short sellers buying to cover their positions.

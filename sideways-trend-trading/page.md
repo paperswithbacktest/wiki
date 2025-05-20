@@ -1,6 +1,9 @@
 ---
-title: "Sideways Trend in Trading (Algo Trading)"
-description: "Discover strategies for trading sideways markets using algorithmic tools to capitalize on price stability. Learn how to enhance your trading approach with technical insights."
+category: quant_concept
+description: Discover strategies for trading sideways markets using algorithmic tools
+  to capitalize on price stability. Learn how to enhance your trading approach with
+  technical insights.
+title: Sideways Trend in Trading (Algo Trading)
 ---
 
 Financial markets are platforms where financial instruments like stocks, bonds, currencies, and derivatives are traded. These markets are essential as they provide liquidity, price discovery, and a means for risk management. Financial instruments are traded in varying patterns: upward trends, downward trends, and sideways trends. Sideways trends, also known as horizontal trends, occur when the price of a financial instrument moves within a horizontal range due to equilibrium between supply and demand forces. During these periods, the market does not exhibit clear, sustained direction either upwards or downwards.

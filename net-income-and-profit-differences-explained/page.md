@@ -1,6 +1,13 @@
 ---
-title: "Net Income and Profit: Differences Explained (Algo Trading)"
-description: "Explore the critical differences between net income and profit in the context of algorithmic trading in this insightful article. Understand how these financial metrics guide automated trading decisions for maximizing efficiency and profitability. Learn how precise assessment of net income and profit enables effective evaluation of company performance and helps craft optimal trading strategies. Dive into the nuances of these concepts to enhance financial analysis and trading outcomes, particularly within algo trading."
+category: quant_concept
+description: Explore the critical differences between net income and profit in the
+  context of algorithmic trading in this insightful article. Understand how these
+  financial metrics guide automated trading decisions for maximizing efficiency and
+  profitability. Learn how precise assessment of net income and profit enables effective
+  evaluation of company performance and helps craft optimal trading strategies. Dive
+  into the nuances of these concepts to enhance financial analysis and trading outcomes,
+  particularly within algo trading.
+title: 'Net Income and Profit: Differences Explained (Algo Trading)'
 ---
 
 Understanding key financial terms and concepts is essential in finance, especially for making informed trading and investment decisions. Among these terms, 'net income' and 'profit' are pivotal, particularly in algorithmic trading. This article examines these financial metrics and their relevance in algorithmic trading.

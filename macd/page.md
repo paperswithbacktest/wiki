@@ -1,6 +1,13 @@
 ---
-title: "MACD (Algo Trading)"
-description: Explore the intricacies of the MACD (Moving Average Convergence/Divergence) indicator, a vital tool in algo trading. Developed in the late 1970s by Gerald Appel, MACD assists traders in understanding market trends, momentum, and potential trend reversals. By comparing exponential moving averages, it helps identify buying or selling opportunities, making it essential for informed trading decisions. Learn how MACD integrates into algorithmic strategies, minimizes emotional trading, and enhances market navigation.
+category: quant_concept
+description: Explore the intricacies of the MACD (Moving Average Convergence/Divergence)
+  indicator, a vital tool in algo trading. Developed in the late 1970s by Gerald Appel,
+  MACD assists traders in understanding market trends, momentum, and potential trend
+  reversals. By comparing exponential moving averages, it helps identify buying or
+  selling opportunities, making it essential for informed trading decisions. Learn
+  how MACD integrates into algorithmic strategies, minimizes emotional trading, and
+  enhances market navigation.
+title: MACD (Algo Trading)
 ---
 
 Understanding market trends is a fundamental aspect of successful trading, whether in stocks, commodities, or forex. One of the most valued tools by traders is the MACD (Moving Average Convergence/Divergence) indicator. This indicator, originally developed by Gerald Appel in the late 1970s, plays a significant role in deciphering the momentum, strength, and duration of price trends. As a cornerstone in technical analysis, MACD provides insights into the market's underlying dynamics, aiding traders in making well-informed decisions.

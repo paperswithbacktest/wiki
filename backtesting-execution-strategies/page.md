@@ -1,6 +1,9 @@
 ---
-title: "backtesting execution strategies (Algo Trading)"
-description: "Backtesting execution strategies in algorithmic trading enables traders to validate and refine their approaches using historical data, optimizing performance before live trading."
+category: trading_strategy
+description: Backtesting execution strategies in algorithmic trading enables traders
+  to validate and refine their approaches using historical data, optimizing performance
+  before live trading.
+title: backtesting execution strategies (Algo Trading)
 ---
 
 In algorithmic trading, backtesting execution strategies play a critical role in the validation and refinement of trading models. Backtesting involves the simulation of a trading strategy using historical data to assess its potential profitability and risks. By leveraging backtesting, traders can gain insights into how their strategies might have performed under past market conditions, offering a robust framework for informed decision-making prior to live trading.

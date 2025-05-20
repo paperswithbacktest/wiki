@@ -1,6 +1,9 @@
 ---
-title: "Economics of the Galactic Empire in Star Wars (Algo Trading)"
-description: "Explore the sophisticated economic landscape of the Galactic Empire in Star Wars and its parallels to modern economies emphasizing algorithmic trading and trade networks."
+category: quant_concept
+description: Explore the sophisticated economic landscape of the Galactic Empire in
+  Star Wars and its parallels to modern economies emphasizing algorithmic trading
+  and trade networks.
+title: Economics of the Galactic Empire in Star Wars (Algo Trading)
 ---
 
 The 'Star Wars' universe, renowned for its epic tales and diverse characters, also presents a sophisticated economic system that reflects many facets of contemporary global economies. Beyond the iconic lightsabers and space battles, the series introduces an intricate socio-economic landscape within the Galactic Empire. This fictional economic framework organizes a vast array of planets, each participating in an interstellar trade network that shapes the galaxy's fiscal dynamics.

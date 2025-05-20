@@ -1,6 +1,8 @@
 ---
-title: "SEC Form N-CSR: Purpose and Functionality (Algo Trading)"
-description: "Discover the purpose and functionality of SEC Form N-CSR essential for ensuring transparency and compliance in mutual funds and protecting investors."
+category: quant_concept
+description: Discover the purpose and functionality of SEC Form N-CSR essential for
+  ensuring transparency and compliance in mutual funds and protecting investors.
+title: 'SEC Form N-CSR: Purpose and Functionality (Algo Trading)'
 ---
 
 Mutual funds play a pivotal role in investment portfolios by pooling capital from multiple investors to purchase a diverse range of securities. This approach offers individual investors access to a professionally managed portfolio, promoting diversification, risk management, and potential returns. The growing complexity of financial markets, driven by rapid technological advancements and innovations such as algorithmic trading, necessitates strict regulatory compliance to safeguard investors and maintain market integrity.

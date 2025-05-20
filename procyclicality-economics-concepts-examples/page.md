@@ -1,6 +1,8 @@
 ---
-title: "Procyclicality in Economics: Concepts and Examples (Algo Trading)"
-description: "Explore how procyclicality impacts economic cycles and algorithmic trading capitalize on these patterns to enhance trading strategies and financial outcomes."
+category: quant_concept
+description: Explore how procyclicality impacts economic cycles and algorithmic trading
+  capitalize on these patterns to enhance trading strategies and financial outcomes.
+title: 'Procyclicality in Economics: Concepts and Examples (Algo Trading)'
 ---
 
 Economic cycles are fundamental to understanding market behavior and financial stability, as they represent the natural fluctuations in economic activity over time. These cycles are generally characterized by phases of expansion, where economic indicators such as gross domestic product (GDP) and employment rates increase, and phases of contraction, marked by declines in these same indicators. A critical aspect of these cycles is procyclicality, which refers to variables that move in tandem with overall economic conditions. Procyclical variables, such as GDP, asset prices, and credit availability, tend to rise during economic expansions and decrease during contractions, thereby amplifying economic cycles.

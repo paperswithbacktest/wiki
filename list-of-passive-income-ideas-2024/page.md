@@ -1,6 +1,13 @@
 ---
-title: "List of Passive Income Ideas for 2024 (Algo Trading)"
-description: "Discover lucrative passive income ideas for 2024 with a focus on algorithmic trading. This guide explores varied strategies to achieve financial independence through minimal active effort. From real estate to dividend stocks and innovative algo trading platforms, the options cater to diverse risk profiles and capital investments. Dive into the mechanisms, benefits, and risks associated with each avenue to tailor your passive income portfolio effectively and reduce reliance on traditional income sources."
+category: trading_strategy
+description: Discover lucrative passive income ideas for 2024 with a focus on algorithmic
+  trading. This guide explores varied strategies to achieve financial independence
+  through minimal active effort. From real estate to dividend stocks and innovative
+  algo trading platforms, the options cater to diverse risk profiles and capital investments.
+  Dive into the mechanisms, benefits, and risks associated with each avenue to tailor
+  your passive income portfolio effectively and reduce reliance on traditional income
+  sources.
+title: List of Passive Income Ideas for 2024 (Algo Trading)
 ---
 
 The quest for financial independence often leads individuals to explore various money-making avenues. One popular option is generating passive income, which can offer a path to financial stability without constant active effort. Passive income strategies cover a broad range of opportunities, from traditional investments like real estate and dividend-paying stocks to modern solutions such as algorithmic trading. These strategies, each with varying levels of risk tolerance and capital requirements, allow individuals to tailor their approaches based on personal financial goals and risk preferences.

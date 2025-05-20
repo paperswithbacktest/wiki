@@ -1,6 +1,8 @@
 ---
-title: "52-Week Range: Analysis, Use Cases, Investment Strategies (Algo Trading)"
-description: "Explore investment strategies utilizing the 52-week range for enhanced trading decisions and risk management with a focus on algorithmic trading insights."
+category: trading_strategy
+description: Explore investment strategies utilizing the 52-week range for enhanced
+  trading decisions and risk management with a focus on algorithmic trading insights.
+title: '52-Week Range: Analysis, Use Cases, Investment Strategies (Algo Trading)'
 ---
 
 Welcome to our comprehensive guide on investment strategies with a focus on the 52-week range, financial analysis, and algorithmic trading. In today's dynamic financial environment, tools and metrics that offer insights into a security's performance are invaluable. Among these, the 52-week range stands out as it provides an essential snapshot of volatility and potential risk by highlighting the highest and lowest trading prices of a security over the past year.

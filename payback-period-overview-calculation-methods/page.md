@@ -1,6 +1,8 @@
 ---
-title: "Payback Period: Overview and Calculation Methods (Algo Trading)"
-description: "Discover how the payback period metric aids in rapid assessment of investment recovery in algorithmic trading and enhances financial strategy evaluation."
+category: quant_concept
+description: Discover how the payback period metric aids in rapid assessment of investment
+  recovery in algorithmic trading and enhances financial strategy evaluation.
+title: 'Payback Period: Overview and Calculation Methods (Algo Trading)'
 ---
 
 In the world of investing and finance, the payback period represents an essential metric for making informed decisions. It measures the time required to recover the initial investment in a project or venture, thereby offering insight into the risk and viability of financial undertakings. Investors and corporate analysts utilize this metric to quickly evaluate projects and determine their potential for return. It serves as a preliminary screening tool that aids in assessing whether an investment is worth further exploration.

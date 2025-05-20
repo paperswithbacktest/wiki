@@ -1,6 +1,9 @@
 ---
-title: "Extended Trading: Mechanics, Risks, and Timing (Algo Trading)"
-description: "Explore the nuances of extended trading, its timing, risks, and the role of algorithmic strategies crucial for seizing opportunities in today’s evolving markets."
+category: trading_strategy
+description: Explore the nuances of extended trading, its timing, risks, and the role
+  of algorithmic strategies crucial for seizing opportunities in today’s evolving
+  markets.
+title: 'Extended Trading: Mechanics, Risks, and Timing (Algo Trading)'
 ---
 
 In trading, comprehending the subtleties and intricacies of various trading practices is indispensable for achieving success and managing risks effectively. Trading, by nature, involves a multitude of elements that can influence market behavior and trading strategies. In this article, we delve into fundamental aspects that include trading risks, trading hours, extended trading, and algorithmic (algo) trading, each of which plays a pivotal role in shaping modern trading techniques.

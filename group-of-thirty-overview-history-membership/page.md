@@ -1,6 +1,9 @@
 ---
-title: "Group of Thirty: Overview, History, Membership (Algo Trading)"
-description: "Explore the Group of Thirty's global influence in economic policy and algorithmic trading through its history and impactful membership since its 1978 inception."
+category: quant_concept
+description: Explore the Group of Thirty's global influence in economic policy and
+  algorithmic trading through its history and impactful membership since its 1978
+  inception.
+title: 'Group of Thirty: Overview, History, Membership (Algo Trading)'
 ---
 
 The Group of Thirty (G-30) is an esteemed global advisory entity known for its significant contribution to understanding economic and financial matters on a worldwide scale. Comprised of prominent figures in finance, economics, and central banking, the G-30 offers substantial insights into the complexities of the global economic landscape. This article will discuss the G-30's influence, particularly focusing on their role in financial advisory and algorithmic trading. Established in 1978, this organization has been instrumental in shaping discussions and policies concerning vital economic issues, thus impacting the approaches to financial stability and market regulation. By examining the group's origins and mission, we aim to highlight the influence their analyses and reports have had on global economic policies, illustrating the G-30's enduring relevance in addressing contemporary financial challenges.

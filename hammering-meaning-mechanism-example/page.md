@@ -1,6 +1,9 @@
 ---
-title: "Hammering: Meaning, Mechanism, and Example (Algo Trading)"
-description: "Explore the concept and implications of hammering in algorithmic trading where aggressive selling impacts market prices while examining its ethical and legal aspects."
+category: trading_strategy
+description: Explore the concept and implications of hammering in algorithmic trading
+  where aggressive selling impacts market prices while examining its ethical and legal
+  aspects.
+title: 'Hammering: Meaning, Mechanism, and Example (Algo Trading)'
 ---
 
 Algorithmic trading, a method that employs computer algorithms to automate the process of trading in financial markets, has gained prominence over the past few decades. This approach allows traders to execute orders at speeds and frequencies that are beyond the capabilities of human traders. As a result, algorithmic trading has become an integral part of modern financial markets due to its efficiency, speed, and the ability to manage complex trading strategies in real time. Traders use various algorithms to analyze market data, identify trading opportunities, and execute orders to optimize profits.

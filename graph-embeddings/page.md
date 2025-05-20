@@ -1,7 +1,8 @@
 ---
-title: Essential Graph Embeddings Methods For Machine Learning
+category: quant_concept
 description: Graph embeddings convert network nodes and edges into vectors to capture
   structure and boost machine learning applications. Discover more inside.
+title: Essential Graph Embeddings Methods For Machine Learning
 ---
 
 ![Image](images/1.png)

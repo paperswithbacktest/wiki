@@ -1,6 +1,9 @@
 ---
-title: "American Option: Overview, Advantages, and Examples (Algo Trading)"
-description: "Explore the advantages of American options and their execution flexibility. Learn how algorithmic trading enhances strategies, risk management, and pricing techniques."
+category: quant_concept
+description: Explore the advantages of American options and their execution flexibility.
+  Learn how algorithmic trading enhances strategies, risk management, and pricing
+  techniques.
+title: 'American Option: Overview, Advantages, and Examples (Algo Trading)'
 ---
 
 Derivatives trading is fundamental to modern financial markets, providing instruments to manage risk, engage in speculation, and enhance leverage. Among the myriad of financial derivatives, American options stand out due to their unique characteristic of execution flexibility. Unlike European options, which are restricted to being exercised only at expiration, American options allow traders to exercise their contractual rights at any point up to the expiration date. This feature offers a strategic advantage, allowing traders to respond dynamically to market conditions and optimize their trading outcomes.

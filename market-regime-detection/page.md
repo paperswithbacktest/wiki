@@ -1,6 +1,9 @@
 ---
-title: "market regime detection (Algo Trading)"
-description: "Market regime detection is vital for algorithmic trading enabling traders to adapt strategies to market phases using models like Hidden Markov Models for optimal results."
+category: trading_strategy
+description: Market regime detection is vital for algorithmic trading enabling traders
+  to adapt strategies to market phases using models like Hidden Markov Models for
+  optimal results.
+title: market regime detection (Algo Trading)
 ---
 
 Market regime detection plays an essential role in algorithmic trading by enabling traders to recognize distinct phases of market behavior. This capability is crucial for optimizing trading strategies in accordance with various market conditions, such as bullish, bearish, or neutral phases. Traders utilize advanced tools and models to interpret the complexities of market dynamics, with Hidden Markov Models (HMMs) being one of the prominent methods for identifying hidden market states.

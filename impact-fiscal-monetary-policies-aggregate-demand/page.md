@@ -1,6 +1,8 @@
 ---
-title: "Impact of Fiscal and Monetary Policies on Aggregate Demand (Algo Trading)"
-description: "Explore how fiscal and monetary policies shape aggregate demand and influence economic trends through algorithmic trading strategies and insights."
+category: quant_concept
+description: Explore how fiscal and monetary policies shape aggregate demand and influence
+  economic trends through algorithmic trading strategies and insights.
+title: Impact of Fiscal and Monetary Policies on Aggregate Demand (Algo Trading)
 ---
 
 Aggregate demand represents the total demand for goods and services within an economy at a given overall price level and during a specific time period. It reflects consumption expenditure by households, investment by businesses, government spending, and net exports, which collectively determine the economy's overall expenditure. Fiscal policy and monetary policy are the primary tools employed by governments and central banks to manage economic stability and growth. 

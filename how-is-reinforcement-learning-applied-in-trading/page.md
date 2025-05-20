@@ -1,9 +1,12 @@
 ---
-title: "How is reinforcement learning applied in trading?"
-description: "Discover how reinforcement learning is applied in trading to optimize decisions based on financial rewards. Learn about modeling the trading environment, reward strategies, exploration vs exploitation, learning and adjusting, risk management, and limitations. Explore resources for more information on trading strategies, libraries, datasets, and becoming a quant trader."
+category: quant_concept
+description: Discover how reinforcement learning is applied in trading to optimize
+  decisions based on financial rewards. Learn about modeling the trading environment,
+  reward strategies, exploration vs exploitation, learning and adjusting, risk management,
+  and limitations. Explore resources for more information on trading strategies, libraries,
+  datasets, and becoming a quant trader.
+title: How is reinforcement learning applied in trading?
 ---
-
-
 
 Reinforcement learning (RL) is a branch of artificial intelligence (AI) where systems learn to achieve specific goals through trial and error interactions with dynamic environments. RL is characterized by its ability to let an agent optimize actions based on feedback from these interactions, making it highly applicable in diverse domains such as robotics, gaming, healthcare, and autonomous vehicles. Unlike traditional machine learning techniques that require extensive labeled datasets, RL focuses on learning optimal behaviors through the accumulation of rewards, providing a potent framework for decision-making in complex scenarios.
 

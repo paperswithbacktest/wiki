@@ -1,6 +1,8 @@
 ---
-title: "Crypto Regulatory Sandbox and Its Functionality (Algo Trading)"
-description: "Explore the impact of regulatory sandboxes in the crypto market with a focus on innovation and compliance in algorithmic trading for digital currencies."
+category: quant_concept
+description: Explore the impact of regulatory sandboxes in the crypto market with
+  a focus on innovation and compliance in algorithmic trading for digital currencies.
+title: Crypto Regulatory Sandbox and Its Functionality (Algo Trading)
 ---
 
 Cryptocurrency, a digital or virtual form of currency that uses cryptography for security, has seen exponential growth since the introduction of Bitcoin in 2009. As of 2023, thousands of cryptocurrencies are available, with varying functionalities and purposes, ranging from simple transactions to complex smart contracts. This burgeoning marketplace has driven significant innovation and attracted considerable investment. According to CoinMarketCap, the global market capitalization for cryptocurrencies reached over $1 trillion USD in 2023, illustrating the substantial impact of this technology on the global economy.

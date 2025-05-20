@@ -1,6 +1,8 @@
 ---
-title: "Limit-On-Close Order (Algo Trading)"
-description: "Explore Limit-on-Close orders in algorithmic trading Discover how LOCs can optimize price execution at market close and enhance strategy precision."
+category: trading_strategy
+description: Explore Limit-on-Close orders in algorithmic trading Discover how LOCs
+  can optimize price execution at market close and enhance strategy precision.
+title: Limit-On-Close Order (Algo Trading)
 ---
 
 The world of stock trading is vast, populated with various order types and strategies that cater to different trading goals and risk appetites. In this article, we explore key order types such as LOC (Limit-on-Close) and market orders, especially within the context of algorithmic trading. Stock trading involves a range of orders, each offering distinct mechanisms for the execution of trades, influencing factors such as price certainty, execution speed, and risk management.

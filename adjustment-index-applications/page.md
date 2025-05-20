@@ -1,6 +1,8 @@
 ---
-title: "Adjustment Index and Its Applications (Algo Trading)"
-description: "Explore the vital role of the adjustment index in algorithmic trading as it refines economic data, enhancing the accuracy of financial analysis and decision-making."
+category: quant_concept
+description: Explore the vital role of the adjustment index in algorithmic trading
+  as it refines economic data, enhancing the accuracy of financial analysis and decision-making.
+title: Adjustment Index and Its Applications (Algo Trading)
 ---
 
 In the dynamic landscape of modern finance, understanding economic indicators and financial tools is crucial. These elements serve as the foundation upon which informed investment strategies are built. With the advent of algorithmic trading, investors have altered their approach to navigating the trading landscape significantly. This advanced method leverages computer algorithms to process vast amounts of data swiftly and execute trades with precision, thereby revolutionizing traditional trading methods.

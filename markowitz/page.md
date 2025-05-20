@@ -1,6 +1,11 @@
 ---
-title: "Markowitz (Algo Trading)"
-description: Explore the integration of Modern Portfolio Theory (MPT) in algorithmic trading to optimize risk and return. Learn how MPT's diversification principles and the Efficient Frontier concept are enhanced by machine learning, enabling robust, data-driven strategies for dynamic market conditions. Discover the evolution of trading algorithms through the fusion of quantitative measures and predictive analytics.
+category: quant_concept
+description: Explore the integration of Modern Portfolio Theory (MPT) in algorithmic
+  trading to optimize risk and return. Learn how MPT's diversification principles
+  and the Efficient Frontier concept are enhanced by machine learning, enabling robust,
+  data-driven strategies for dynamic market conditions. Discover the evolution of
+  trading algorithms through the fusion of quantitative measures and predictive analytics.
+title: Markowitz (Algo Trading)
 ---
 
 Algorithmic trading refers to the use of computer algorithms to automate the process of trading financial instruments. By employing algorithms, traders can process vast amounts of market data at speeds and efficiencies far beyond human capability. This approach has become increasingly vital as financial markets grow in complexity and volume, allowing for the execution of high-frequency trades and sophisticated strategies that leverage quantitative measures and predictive analytics.

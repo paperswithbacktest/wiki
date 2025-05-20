@@ -1,6 +1,8 @@
 ---
-title: "Ugandan Shilling: Overview, History, and Economy (Algo Trading)"
-description: "Explore Uganda's vibrant economy and the important role of the Ugandan Shilling in trade and investment alongside innovations in algorithmic trading."
+category: quant_concept
+description: Explore Uganda's vibrant economy and the important role of the Ugandan
+  Shilling in trade and investment alongside innovations in algorithmic trading.
+title: 'Ugandan Shilling: Overview, History, and Economy (Algo Trading)'
 ---
 
 Uganda's economy has experienced significant growth over recent years, driven by key sectors such as agriculture, industry, and services. Agriculture remains a cornerstone, employing a large portion of the population and contributing substantially to the Gross Domestic Product (GDP). The Ugandan government has focused on diversifying the economy, promoting industrialization, and investing in infrastructure, all of which have fueled economic expansion. As of recent data, Uganda's GDP growth rate has been robust, with a positive outlook supported by government reforms and increased foreign investment.

@@ -1,6 +1,9 @@
 ---
-title: "Institutional Investor Index (Algo Trading)"
-description: "Explore how institutional investors leverage algorithmic trading for informed investment decisions Gain insights into their impact on market dynamics and efficiency"
+category: dataset
+description: Explore how institutional investors leverage algorithmic trading for
+  informed investment decisions Gain insights into their impact on market dynamics
+  and efficiency
+title: Institutional Investor Index (Algo Trading)
 ---
 
 The financial markets have undergone significant transformation with the advent of technological advancements, establishing a dynamic environment for investors. This evolution has introduced a myriad of sophisticated tools and strategies, facilitating a more nuanced approach to investment. Among the various participants in the financial markets, institutional investors possess substantial stakes and wield considerable influence. These investors, including hedge funds, mutual funds, and pension funds, manage vast pools of capital, which allows them to shape markets through their investment decisions.

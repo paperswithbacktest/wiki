@@ -1,6 +1,11 @@
 ---
-title: "Unrealized Gains and Losses (Algo Trading)"
-description: "Explore the key concepts of unrealized gains and losses and their significance in accounting and algorithmic trading. Understand how these 'paper' profits or losses impact investment strategies, financial statements, and tax considerations, and learn about the complexities introduced by algorithmic trading systems in managing them effectively."
+category: quant_concept
+description: Explore the key concepts of unrealized gains and losses and their significance
+  in accounting and algorithmic trading. Understand how these 'paper' profits or losses
+  impact investment strategies, financial statements, and tax considerations, and
+  learn about the complexities introduced by algorithmic trading systems in managing
+  them effectively.
+title: Unrealized Gains and Losses (Algo Trading)
 ---
 
 Understanding the concepts of unrealized gains and unrealized losses is crucial for investors and financial professionals. These terms often appear in discussions about financial accounting and portfolio management, where they are key elements in assessing an asset's performance without actualizing its value through sale. Unrealized gains occur when the market value of an owned asset increases, while unrealized losses take place when its market value decreases, provided the asset is still held. The distinction between realized and unrealized values is important because these 'paper' profits or losses can influence an investor's decisions on whether to hold, buy more, or sell assets.

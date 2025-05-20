@@ -1,6 +1,8 @@
 ---
-title: "liquidity-provision strategies (Algo Trading)"
-description: "Discover liquidity provision strategies in algo trading enhancing market efficiency by automating order execution and minimizing transaction costs."
+category: trading_strategy
+description: Discover liquidity provision strategies in algo trading enhancing market
+  efficiency by automating order execution and minimizing transaction costs.
+title: liquidity-provision strategies (Algo Trading)
 ---
 
 Liquidity provision strategies are crucial for ensuring smooth operations in financial markets. These strategies are designed to enhance market efficiency and stability by facilitating trade execution and reducing transaction costs. At the core of these strategies is the concept of liquidity, which refers to the ease with which assets can be bought or sold in the market without affecting their price. High liquidity is indicative of a well-functioning market where assets are readily available for trading, resulting in minimized transaction costs and reduced market impact.

@@ -1,6 +1,9 @@
 ---
-title: "Global Research and Development Expenditure by Country (Algo Trading)"
-description: "Explore how global R&D expenditures impact technological advancements in algorithmic trading. Discover which countries lead in investing for innovation and economic growth."
+category: dataset
+description: Explore how global R&D expenditures impact technological advancements
+  in algorithmic trading. Discover which countries lead in investing for innovation
+  and economic growth.
+title: Global Research and Development Expenditure by Country (Algo Trading)
 ---
 
 Research and Development (R&D) spending is essential for driving innovation and economic growth across the globe. Countries that invest significantly in R&D often enjoy technological advancements and competitive advantages in various sectors, including financial trading. This article explores the prioritization of R&D expenditures by different nations and identifies the global leaders in this domain. Specifically, we will examine the influence of substantial R&D spending on technological progress within algorithmic trading, a field increasingly dependent on cutting-edge research to maintain competitiveness.

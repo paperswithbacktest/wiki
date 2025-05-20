@@ -1,6 +1,12 @@
 ---
-title: "Darvas Box Theory and the Insights of Nicolas Darvas (Algo Trading)"
-description: "Explore the world of stock trading through the innovative Darvas Box Theory, developed by Nicolas Darvas. Discover how this self-taught dancer turned trader transformed a $10,000 investment into $2 million using his unique strategy. Learn about the Darvas Box's relevance in today's algorithmic trading environments and how this approach combines technical analysis with fundamental insights for identifying trading opportunities."
+category: trading_strategy
+description: Explore the world of stock trading through the innovative Darvas Box
+  Theory, developed by Nicolas Darvas. Discover how this self-taught dancer turned
+  trader transformed a $10,000 investment into $2 million using his unique strategy.
+  Learn about the Darvas Box's relevance in today's algorithmic trading environments
+  and how this approach combines technical analysis with fundamental insights for
+  identifying trading opportunities.
+title: Darvas Box Theory and the Insights of Nicolas Darvas (Algo Trading)
 ---
 
 The world of stock trading is complex and ever-evolving. Among the numerous theories developed to navigate this financial landscape, the Darvas Box Theory has stood the test of time. Created by Nicolas Darvas, a professional dancer who made a remarkable transition from the dance floor to the trading floor, this theory has captured the interest of many due to its innovative approach to stock trading. Darvas's journey is a testament to how unconventional methods and self-taught strategies can culminate in substantial success in the financial markets.

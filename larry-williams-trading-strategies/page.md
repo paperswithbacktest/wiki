@@ -1,6 +1,12 @@
 ---
-title: "Larry Williams Trading Strategies Explained (Algo Trading)"
-description: Discover how Larry Williams' renowned trading strategies can be seamlessly integrated into algorithmic trading systems. This detailed exploration highlights Williams' innovative methods, providing traders with the tools to automate decision-making and enhance trading precision. Learn about the key indicators such as Williams %R and Ultimate Oscillator and how they can be adapted for improved market analysis in dynamic scenarios, paving the way for disciplined and profitable trade executions.
+category: trading_strategy
+description: Discover how Larry Williams' renowned trading strategies can be seamlessly
+  integrated into algorithmic trading systems. This detailed exploration highlights
+  Williams' innovative methods, providing traders with the tools to automate decision-making
+  and enhance trading precision. Learn about the key indicators such as Williams %R
+  and Ultimate Oscillator and how they can be adapted for improved market analysis
+  in dynamic scenarios, paving the way for disciplined and profitable trade executions.
+title: Larry Williams Trading Strategies Explained (Algo Trading)
 ---
 
 Algorithmic trading, commonly known as algo trading, operates on the foundation of predefined strategies executed using computer programs. These strategies aim to automate the trading process by identifying optimal entry and exit points based on specific market indicators and patterns, thereby minimizing human intervention and emotional biases.

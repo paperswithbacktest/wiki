@@ -1,6 +1,8 @@
 ---
-title: "Basic Mathematical Concepts for Fixed-Coupon Corporate Bonds (Algo Trading)"
-description: "Explore the core concepts of fixed-coupon corporate bonds and discover how algorithmic trading is revolutionizing bond markets with enhanced efficiency."
+category: quant_concept
+description: Explore the core concepts of fixed-coupon corporate bonds and discover
+  how algorithmic trading is revolutionizing bond markets with enhanced efficiency.
+title: Basic Mathematical Concepts for Fixed-Coupon Corporate Bonds (Algo Trading)
 ---
 
 Corporate bonds have established themselves as integral components of diversified investment portfolios, offering fixed-coupon returns that provide investors with predictable income streams. These debt obligations are issued by corporations seeking to raise capital for a variety of purposes, including expansion, operational funding, or refinancing existing debts. By purchasing these bonds, investors effectively lend money to the corporation, receiving interest payments at stipulated intervals, typically semi-annually, until the bond reaches maturity. At that point, the principal amount is returned to the investor.
@@ -167,4 +169,3 @@ In conclusion, while the integration of algorithmic trading into corporate bond 
 - Litterman, R., & Scheinkman, J. (1991). "Common Factors Affecting Bond Returns." The Journal of Fixed Income. This paper explores the various factors that influence bond returns, providing a framework for understanding market behavior and risk assessment in fixed-income investing.
 
 - Guéant, O. (2016). "The Financial Mathematics of Market Liquidity: From Optimal Execution to Market Making." CRC Press. Focused on the mathematical underpinnings of market liquidity, this book highlights algorithms for optimal trading execution and market-making strategies, pertinent to understanding algorithmic trading's role in enhancing bond market efficiencies.
-

@@ -1,6 +1,9 @@
 ---
-title: "Monetary Base Components and Examples (Algo Trading)"
-description: "Explore the evolving dynamics of the monetary base and algorithmic trading uncovering how central banks influence currency supply while algorithms reshape trading paradigms."
+category: quant_concept
+description: Explore the evolving dynamics of the monetary base and algorithmic trading
+  uncovering how central banks influence currency supply while algorithms reshape
+  trading paradigms.
+title: Monetary Base Components and Examples (Algo Trading)
 ---
 
 The financial landscape is constantly evolving, manifesting through the intricate dynamics of currency supply, central bank reserves, the monetary base, and algorithmic trading. Understanding these elements is crucial for comprehending the modern economic system's functionalities. Currency supply represents the total monetary assets circulating in an economy, influencing inflation, interest rates, and purchasing power. Central banks, through reserves, play a pivotal role in stabilizing currencies by managing these monetary assets.

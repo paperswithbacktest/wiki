@@ -1,6 +1,9 @@
 ---
-title: "Discount to Net Asset Value (Algo Trading)"
-description: "Explore the use of algorithmic trading to capitalize on discounts to Net Asset Value. Learn how algorithms identify and exploit trading opportunities for enhanced profits."
+category: quant_concept
+description: Explore the use of algorithmic trading to capitalize on discounts to
+  Net Asset Value. Learn how algorithms identify and exploit trading opportunities
+  for enhanced profits.
+title: Discount to Net Asset Value (Algo Trading)
 ---
 
 The concept of Net Asset Value (NAV) is fundamental in the world of mutual funds and Exchange Traded Funds (ETFs), serving as a baseline for understanding a fund's value. NAV is calculated by taking the total value of a fund's assets, subtracting any liabilities, and then dividing by the number of shares outstanding. This measure provides investors with a snapshot of a fund’s per-share intrinsic value.

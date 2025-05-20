@@ -1,6 +1,8 @@
 ---
-title: "Analysis of Retained Earnings (Algo Trading)"
-description: "Explore the crucial role retained earnings play in modern finance by blending traditional analysis with algorithmic trading to enhance investment decisions."
+category: quant_concept
+description: Explore the crucial role retained earnings play in modern finance by
+  blending traditional analysis with algorithmic trading to enhance investment decisions.
+title: Analysis of Retained Earnings (Algo Trading)
 ---
 
 In the rapidly evolving world of finance, understanding the intersection of business finance, retained earnings, and algorithmic trading is crucial for navigating modern financial landscapes. Retained earnings, the portion of a company's profit that is not distributed as dividends but instead reinvested in the business, serve as a cornerstone for financial analysis. These funds can be instrumental in evaluating a company's financial health and potential for growth, offering invaluable insights into management's strategic decisions and priorities.
@@ -112,4 +114,3 @@ As the world of finance evolves, combining a deep understanding of financial fun
 5. **Machine Learning for Algorithmic Trading by Stefan Jansen**: Stefan Jansen's comprehensive guide offers insights into applying machine learning techniques within algorithmic trading. The book emphasizes the integration of financial fundamentals, like retained earnings, into machine learning algorithms to improve trading strategies. It includes numerous examples and Python code snippets to illustrate the application of these techniques in real-world trading scenarios. 
 
 These resources provide crucial insights and techniques for understanding and applying retained earnings within both traditional financial analyses and modern algorithmic trading frameworks. Each text contributes to a deeper understanding of how financial fundamentals and advanced technological approaches can be intertwined to optimize investment and trading strategies.
-

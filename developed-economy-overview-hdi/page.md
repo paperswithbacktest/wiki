@@ -1,6 +1,8 @@
 ---
-title: "Developed Economy: Overview and Human Development Index (Algo Trading)"
-description: "Explore the links between developed economies, the Human Development Index, and algorithmic trading to understand their impact on global market dynamics."
+category: quant_concept
+description: Explore the links between developed economies, the Human Development
+  Index, and algorithmic trading to understand their impact on global market dynamics.
+title: 'Developed Economy: Overview and Human Development Index (Algo Trading)'
 ---
 
 Economic development is a pivotal concept in understanding how countries evolve and improve the living standards of their populations. It encompasses a multidimensional process that includes increased industrialization, improved healthcare, education, and rising per capita income. Developed economies, such as those of the United States, Germany, and Japan, are characterized by high levels of infrastructure, technological advancements, and robust policy frameworks that support sustained growth and prosperity.
@@ -126,4 +128,3 @@ Given the interdependencies among these elements, financial strategies should in
 - Acemoglu, Daron, and James A. Robinson. "Why Nations Fail: The Origins of Power, Prosperity, and Poverty." Crown Business, 2012. This work investigates into the political and economic factors influencing the success of nations.
 - Piketty, Thomas. "Capital in the Twenty-First Century." Harvard University Press, 2014. Piketty's analysis of wealth concentration and distribution over the past few centuries.
 - UNDP Human Development Reports. Available at: [hdr.undp.org/en/reports](http://hdr.undp.org/en/reports) for the latest insights and in-depth analysis on human development indices and their implications.
-

@@ -1,6 +1,9 @@
 ---
-title: "Interbank Market (Algo Trading)"
-description: "Explore the strategic role of the interbank market in global finance and the transformative impact of algorithmic trading on liquidity management and risk mitigation."
+category: quant_concept
+description: Explore the strategic role of the interbank market in global finance
+  and the transformative impact of algorithmic trading on liquidity management and
+  risk mitigation.
+title: Interbank Market (Algo Trading)
 ---
 
 Banking is the business of receiving deposits, safeguarding funds, and providing loans and credit. It serves as a critical component of the financial system, which consists of institutions, markets, and instruments that facilitate the flow of funds and allocation of capital within an economy. Within this complex web, the interbank market occupies a uniquely strategic position.

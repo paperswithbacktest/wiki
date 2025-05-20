@@ -1,6 +1,9 @@
 ---
-title: "SEC Form 18 (Algo Trading)"
-description: "Discover how SEC Form 18 and algorithmic trading impact U.S. markets Learn about foreign securities disclosure and the SEC's role in regulating trading practices"
+category: quant_concept
+description: Discover how SEC Form 18 and algorithmic trading impact U.S. markets
+  Learn about foreign securities disclosure and the SEC's role in regulating trading
+  practices
+title: SEC Form 18 (Algo Trading)
 ---
 
 In the ever-evolving world of financial regulations, understanding the role of the U.S. Securities and Exchange Commission (SEC) is crucial. As the primary regulatory body overseeing securities markets in the United States, the SEC ensures that investors have access to essential information for making informed decisions while maintaining fair, orderly, and efficient markets. One of the significant tools in the SEC's regulatory arsenal is SEC Form 18, which pertains to foreign governments issuing securities in the U.S. This form is pivotal in ensuring compliance with U.S. securities laws, providing a framework through which foreign issuers disclose necessary information to potential investors.

@@ -1,6 +1,8 @@
 ---
-title: "Multiple Linear Regression (Algo Trading)"
-description: "Explore the power of Multiple Linear Regression in algorithmic trading for enhanced market predictions using multiple variables and Python implementation."
+category: quant_concept
+description: Explore the power of Multiple Linear Regression in algorithmic trading
+  for enhanced market predictions using multiple variables and Python implementation.
+title: Multiple Linear Regression (Algo Trading)
 ---
 
 Algorithmic trading has become increasingly prominent in the finance sector, prized for its ability to enhance trading efficiency through the use of sophisticated quantitative models. Within this domain, Multiple Linear Regression (MLR) stands out as a fundamental analytical tool. MLR enables traders to forecast market trends by evaluating multiple variables concurrently, leading to more nuanced insights into market dynamics.

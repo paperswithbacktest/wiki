@@ -1,6 +1,14 @@
 ---
-title: "Quantitative Analytics (Algo Trading)"
-description: Explore the transformative impact of quantitative analytics on algorithmic trading as they offer a systematic advantage in financial markets. By employing advanced mathematical models and technology, traders analyze large datasets to identify market opportunities and improve trading accuracy. Key strategies include statistical arbitrage, mean reversion, and trend following, necessitating a sound grasp of complex math principles. As technology evolves, the integration of AI and machine learning enhances the efficacy of trading systems, making understanding quantitative analytics essential for success in the dynamic world of trading.
+category: quant_concept
+description: Explore the transformative impact of quantitative analytics on algorithmic
+  trading as they offer a systematic advantage in financial markets. By employing
+  advanced mathematical models and technology, traders analyze large datasets to identify
+  market opportunities and improve trading accuracy. Key strategies include statistical
+  arbitrage, mean reversion, and trend following, necessitating a sound grasp of complex
+  math principles. As technology evolves, the integration of AI and machine learning
+  enhances the efficacy of trading systems, making understanding quantitative analytics
+  essential for success in the dynamic world of trading.
+title: Quantitative Analytics (Algo Trading)
 ---
 
 Quantitative analytics have fundamentally altered the landscape of algorithmic trading, offering traders a systematic advantage in the increasingly complex and competitive world of financial markets. By leveraging cutting-edge technology and sophisticated mathematical models, traders are now able to process vast amounts of data with unprecedented speed and accuracy. This evolution has been instrumental in identifying and capitalizing on market opportunities that were previously inaccessible or overlooked by traditional trading methods.

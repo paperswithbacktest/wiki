@@ -1,6 +1,9 @@
 ---
-title: "Fixed Income Microstructure (Algo Trading)"
-description: "Explore the transformative impact of algorithmic trading in fixed income markets as it enhances efficiency and precision in executing bond trades efficiently and accurately."
+category: quant_concept
+description: Explore the transformative impact of algorithmic trading in fixed income
+  markets as it enhances efficiency and precision in executing bond trades efficiently
+  and accurately.
+title: Fixed Income Microstructure (Algo Trading)
 ---
 
 Fixed income trading is experiencing significant transformation with the implementation of algorithmic trading. This method utilizes automated trading instructions to execute orders with precision and speed, reshaping the landscape of financial markets. Algorithmic trading is particularly impactful in fixed income markets, which include a broad array of securities such as government and corporate bonds. These securities possess distinctive features and market dynamics that necessitate complex trading strategies.

@@ -1,6 +1,8 @@
 ---
-title: "Hedged Tender Offer (Algo Trading)"
-description: "Explore the synergy between algorithmic trading and hedged tender offer strategies to enhance investment efficiency, manage risk, and optimize profits."
+category: trading_strategy
+description: Explore the synergy between algorithmic trading and hedged tender offer
+  strategies to enhance investment efficiency, manage risk, and optimize profits.
+title: Hedged Tender Offer (Algo Trading)
 ---
 
 In finance, innovative strategies like algorithmic trading and hedged tenders are emerging as powerful tools for investors. Algorithmic trading involves the use of automated software to execute trades based on predefined criteria, allowing for greater speed and accuracy. This automation not only reduces human error and emotional interference but also optimizes trading processes by executing trades at the most opportune moments. 

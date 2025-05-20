@@ -1,6 +1,13 @@
 ---
-title: "High-Frequency Trading Jobs (Algo Trading)"
-description: Explore the dynamic world of high-frequency trading jobs where rapid execution and sophisticated algorithms define success in the financial markets. Discover unique career opportunities in this fast-paced industry requiring expertise in trading algorithms and low-latency technologies. Delve into the skills necessary for thriving in HFT, the diverse roles available, and strategies to enhance your candidacy. Whether you’re entering from academia or industry, learn how to navigate the landscape of HFT and make an impactful career choice in this innovative sector.
+category: quant_concept
+description: Explore the dynamic world of high-frequency trading jobs where rapid
+  execution and sophisticated algorithms define success in the financial markets.
+  Discover unique career opportunities in this fast-paced industry requiring expertise
+  in trading algorithms and low-latency technologies. Delve into the skills necessary
+  for thriving in HFT, the diverse roles available, and strategies to enhance your
+  candidacy. Whether you’re entering from academia or industry, learn how to navigate
+  the landscape of HFT and make an impactful career choice in this innovative sector.
+title: High-Frequency Trading Jobs (Algo Trading)
 ---
 
 High-frequency trading (HFT) is a critical component of algorithmic trading, characterized by the execution of numerous trades at exceptionally high speeds. These trades capitalize on minimal price movements, often in milliseconds or even microseconds, enabled by the use of sophisticated algorithms and advanced technology infrastructure. The sector has gained prominence due to its ability to influence market liquidity and price discovery processes.

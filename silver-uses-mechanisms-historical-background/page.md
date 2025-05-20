@@ -1,6 +1,13 @@
 ---
-title: "Silver: Uses, Mechanisms, and Historical Background (Algo Trading)"
-description: "Explore the multifaceted world of silver, a metal celebrated for its unparalleled conductivity and reflective qualities, making it essential in industries such as electronics, solar technology, and medicine. Discover its historical significance as a medium of exchange and investment. Delve into the dynamics of algorithmic trading and how this high-speed technique capitalizes on silver's market volatility, offering insights into future trends and trading strategies. Uncover how technology is transforming the silver market, influencing global trade and economic landscapes."
+category: quant_concept
+description: Explore the multifaceted world of silver, a metal celebrated for its
+  unparalleled conductivity and reflective qualities, making it essential in industries
+  such as electronics, solar technology, and medicine. Discover its historical significance
+  as a medium of exchange and investment. Delve into the dynamics of algorithmic trading
+  and how this high-speed technique capitalizes on silver's market volatility, offering
+  insights into future trends and trading strategies. Uncover how technology is transforming
+  the silver market, influencing global trade and economic landscapes.
+title: 'Silver: Uses, Mechanisms, and Historical Background (Algo Trading)'
 ---
 
 Silver, denoted by the symbol Ag and atomic number 47, is a lustrous white metal known for its conductivity, ductility, and corrosion resistance. Unique among metals, it exhibits the highest electrical conductivity, thermal conductivity, and reflectivity. These properties make silver not only a desirable commodity for ornamentation and currency but also an indispensable material in various industrial applications.

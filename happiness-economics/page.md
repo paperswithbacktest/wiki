@@ -1,6 +1,8 @@
 ---
-title: "Happiness Economics (Algo Trading)"
-description: "Explore the complex relationship between happiness and economics in the context of algorithmic trading focusing on well-being and economic growth balance."
+category: quant_concept
+description: Explore the complex relationship between happiness and economics in the
+  context of algorithmic trading focusing on well-being and economic growth balance.
+title: Happiness Economics (Algo Trading)
 ---
 
 In recent years, an increasing amount of research has dedicated itself to understanding the intricate relationship between subjective well-being and economic variables. Subjective well-being, often defined as an individual's perception of their own happiness and life satisfaction, provides a lens through which the effectiveness and human impact of economic policies can be scrutinized. At the forefront of this investigation, happiness economics emerges as a field that evaluates how economic factors contribute to personal and collective joy, often advocating for measures beyond conventional metrics such as GDP.

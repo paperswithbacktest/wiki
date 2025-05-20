@@ -1,6 +1,8 @@
 ---
-title: "Wahed Invest: The Islamic Robo-Advisor (Algo Trading)"
-description: "Experience seamless, Sharia-compliant investing with Wahed Invest's robo-advisor offering ethical, automated portfolio management tailored to your financial goals."
+category: trading_strategy
+description: Experience seamless, Sharia-compliant investing with Wahed Invest's robo-advisor
+  offering ethical, automated portfolio management tailored to your financial goals.
+title: 'Wahed Invest: The Islamic Robo-Advisor (Algo Trading)'
 ---
 
 In recent years, the landscape of investing has undergone a significant transformation, largely due to the incorporation of technology within financial services. This shift has facilitated the emergence of robo-advisors—digital platforms that provide algorithm-driven financial planning with minimal human intervention. These platforms democratize access to investment management by offering intuitive, automated services that cater to both novice and experienced investors.

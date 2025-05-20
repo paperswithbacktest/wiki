@@ -1,6 +1,14 @@
 ---
-title: "Jim Simons (Algo Trading)"
-description: Discover the remarkable journey of Jim Simons, a trailblazing mathematician and hedge fund magnate who revolutionized both mathematics and finance. From his groundbreaking work in differential geometry and the influential Chern-Simons theory to founding Renaissance Technologies, Simons' innovative use of quantitative strategies has set new benchmarks in algorithmic trading. His impressive career, marked by prolific contributions to academia and the financial industry, highlights the synergy between advanced mathematical theories and practical financial applications, reshaping the landscapes of both fields.
+category: quant_concept
+description: Discover the remarkable journey of Jim Simons, a trailblazing mathematician
+  and hedge fund magnate who revolutionized both mathematics and finance. From his
+  groundbreaking work in differential geometry and the influential Chern-Simons theory
+  to founding Renaissance Technologies, Simons' innovative use of quantitative strategies
+  has set new benchmarks in algorithmic trading. His impressive career, marked by
+  prolific contributions to academia and the financial industry, highlights the synergy
+  between advanced mathematical theories and practical financial applications, reshaping
+  the landscapes of both fields.
+title: Jim Simons (Algo Trading)
 ---
 
 Jim Simons, a distinguished mathematician and hedge fund manager, has made transformative contributions to both mathematics and the financial industry. His career began in academia where he achieved significant breakthroughs in mathematics, notably in the areas of differential geometry and topology. Simons' work, particularly the development of the Chern-Simons theory, has had a profound impact on theoretical physics and mathematics, illustrating his deep analytical prowess and the breadth of his scholarly contributions.

@@ -1,7 +1,8 @@
 ---
-title: IPBI Metric For Accurate Edge Detection In Semantic Segmentation
+category: quant_concept
 description: IPBI metric evaluates boundary accuracy in semantic segmentation by measuring
   edge overlap and union for accurate delineation Discover more inside
+title: IPBI Metric For Accurate Edge Detection In Semantic Segmentation
 ---
 
 ![Image](images/1.png)

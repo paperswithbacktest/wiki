@@ -1,6 +1,8 @@
 ---
-title: "Pegging of the Chinese Yuan (Algo Trading)"
-description: "Explore the Chinese Yuan's currency peg and its impact on global markets and economic stability alongside the role of algorithmic trading in currency management."
+category: trading_strategy
+description: Explore the Chinese Yuan's currency peg and its impact on global markets
+  and economic stability alongside the role of algorithmic trading in currency management.
+title: Pegging of the Chinese Yuan (Algo Trading)
 ---
 
 The Chinese Yuan (CNY) plays a crucial role in the global economy as China's currency underpins the economic activities of the world's second-largest economy. As China has emerged as a key player in international trade, the Yuan has gained prominence as a pivotal currency in global financial markets. The Yuan's significance is further highlighted by China's vast export economy and its substantial influence on worldwide supply chains, making the currency an important factor in global economic stability and growth.

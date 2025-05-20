@@ -1,6 +1,8 @@
 ---
-title: "Deduction of ETF Fees (Algo Trading)"
-description: "Discover how ETF fees impact investment returns and explore algorithmic trading strategies to minimize costs and enhance portfolio profitability."
+category: quant_concept
+description: Discover how ETF fees impact investment returns and explore algorithmic
+  trading strategies to minimize costs and enhance portfolio profitability.
+title: Deduction of ETF Fees (Algo Trading)
 ---
 
 In recent years, Exchange-Traded Funds (ETFs) have gained significant traction among investors seeking a flexible and cost-effective way to diversify their portfolios. An ETF is a type of investment fund that holds a collection of assets, such as stocks or bonds, and trades on stock exchanges much like individual stocks. Their popularity can be attributed to their inherent flexibility, which allows investors to buy and sell shares throughout the trading day at real-time market prices, and their cost-effectiveness, as they often feature lower expense ratios compared to mutual funds.

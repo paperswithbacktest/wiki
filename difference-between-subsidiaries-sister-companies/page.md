@@ -1,6 +1,8 @@
 ---
-title: "Difference Between Subsidiaries and Sister Companies (Algo Trading)"
-description: "Explore the relationships and roles of subsidiaries and sister companies in algorithmic trading to enhance strategies drive innovation and manage risks effectively."
+category: quant_concept
+description: Explore the relationships and roles of subsidiaries and sister companies
+  in algorithmic trading to enhance strategies drive innovation and manage risks effectively.
+title: Difference Between Subsidiaries and Sister Companies (Algo Trading)
 ---
 
 In the ever-evolving landscape of financial markets, understanding the intricate web of corporate structures can offer a competitive edge. The financial industry, marked by its fast-paced and complex nature, requires participants to constantly adapt and innovate. Algorithmic trading (algo trading) has become a revolutionary force in this domain, transforming the manner in which trading operations are conducted. This transformation relies heavily on the data processing capabilities and efficiencies provided by various corporate entities.

@@ -1,6 +1,8 @@
 ---
-title: "Seller-Financed Real Estate Transactions (Algo Trading)"
-description: "Explore the benefits of seller-financed real estate transactions where sellers offer buyer financing directly allowing for faster deals and flexible terms."
+category: quant_concept
+description: Explore the benefits of seller-financed real estate transactions where
+  sellers offer buyer financing directly allowing for faster deals and flexible terms.
+title: Seller-Financed Real Estate Transactions (Algo Trading)
 ---
 
 Seller financing represents a strategic shift in real estate transactions, wherein the seller assumes the role typically filled by financial institutions, acting as the lender to the buyer. This approach introduces a layer of flexibility that is frequently absent in conventional financing models dominated by banks and credit institutions. Particularly in challenging market environments, where traditional mortgage approval may be difficult to secure, seller financing emerges as a valuable alternative for both buyers and sellers.
@@ -120,4 +122,3 @@ In conclusion, while seller financing offers numerous advantages that cater to e
 [5]: Oranburg, S. C. (2018). ["Fintech and the Innovation Trilemma."](https://www.law.georgetown.edu/georgetown-law-journal/wp-content/uploads/sites/26/2019/02/1Fintech-and-the-Innovation-Trilemma.pdf) Hofstra Law Review, 48(3), Article 8.
 
 [6]: Jansen, S. (2018). ["Machine Learning for Algorithmic Trading: Predictive Models to Extract Signals From Market and Alternative Data for Systematic Trading Strategies with Python."](https://www.amazon.com/Machine-Learning-Algorithmic-Trading-alternative/dp/1839217715) Packt Publishing.
-

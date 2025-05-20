@@ -1,6 +1,9 @@
 ---
-title: "Sealed-Bid Auction in Real Estate (Algo Trading)"
-description: "Discover how sealed-bid auctions coupled with algorithmic trading are revolutionizing real estate sales by enhancing decision-making and maximizing asset value."
+category: quant_concept
+description: Discover how sealed-bid auctions coupled with algorithmic trading are
+  revolutionizing real estate sales by enhancing decision-making and maximizing asset
+  value.
+title: Sealed-Bid Auction in Real Estate (Algo Trading)
 ---
 
 The intersection of sealed-bid auctions and algorithmic trading is transforming the landscape of real estate sales. Sealed-bid auctions, a traditional mechanism where bidders submit confidential bids with the highest offer securing the asset, have been a staple in various markets. However, their application in real estate has historically been limited due to inherent complexities and a preference for open auction systems, which offer more transparency. The advent of algorithmic trading, characterized by executing complex mathematical models and strategies, is redefining this landscape, positioning technology as a crucial catalyst for change.

@@ -1,6 +1,12 @@
 ---
-title: "Rule 10b5-1 and SEC Requirements (Algo Trading)"
-description: "Explore how Rule 10b5-1 provides a compliant trading framework for corporate insiders by examining its alignment with SEC regulations. Learn about the specific criteria for creating Rule 10b5-1 plans, the recent amendments for improved transparency, and the rule's implications for insider and algorithmic trading. This article offers a comprehensive understanding of maintaining compliance with insider trading laws and executing legitimate company stock transactions."
+category: quant_concept
+description: Explore how Rule 10b5-1 provides a compliant trading framework for corporate
+  insiders by examining its alignment with SEC regulations. Learn about the specific
+  criteria for creating Rule 10b5-1 plans, the recent amendments for improved transparency,
+  and the rule's implications for insider and algorithmic trading. This article offers
+  a comprehensive understanding of maintaining compliance with insider trading laws
+  and executing legitimate company stock transactions.
+title: Rule 10b5-1 and SEC Requirements (Algo Trading)
 ---
 
 Rule 10b5-1 is a regulatory mechanism established by the Securities and Exchange Commission (SEC) to provide company insiders with a lawful method of trading their company’s stocks, while safeguarding against accusations of insider trading. This regulation is crucial for company executives and insiders within publicly traded companies, as it facilitates a structured approach to trading that mitigates potential legal issues related to material nonpublic information (MNPI).

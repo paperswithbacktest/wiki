@@ -1,6 +1,12 @@
 ---
-title: "Utilizing Currency Correlations for Financial Gains (Algo Trading)"
-description: "Explore the dynamic world of forex trading by delving into the strategic use of currency correlations and algorithmic trading to achieve financial gains. This comprehensive guide covers key forex concepts, market principles, and effective trading strategies to optimize decision-making and manage risks in this high-volume financial market. Embrace technological advancements in trading to stay competitive and enhance trading performance in the ever-evolving forex landscape."
+category: trading_strategy
+description: Explore the dynamic world of forex trading by delving into the strategic
+  use of currency correlations and algorithmic trading to achieve financial gains.
+  This comprehensive guide covers key forex concepts, market principles, and effective
+  trading strategies to optimize decision-making and manage risks in this high-volume
+  financial market. Embrace technological advancements in trading to stay competitive
+  and enhance trading performance in the ever-evolving forex landscape.
+title: Utilizing Currency Correlations for Financial Gains (Algo Trading)
 ---
 
 Forex trading, also known as foreign exchange trading, is a dynamic and highly liquid financial market where currencies are bought and sold. It holds immense significance in the global financial markets due to its role in facilitating international trade, investment, and economic stability. With an average daily trading volume exceeding $6 trillion, the forex market is the largest financial market worldwide, attracting a diverse range of participants, including banks, corporations, governments, and individual traders.
@@ -177,4 +183,3 @@ Innovation and adaptability are key. Traders are encouraged to adopt and explore
 [4]: Chan, E. P. (2009). ["Quantitative Trading: How to Build Your Own Algorithmic Trading Business."](https://github.com/ftvision/quant_trading_echan_book) John Wiley & Sons.
 
 [5]: Bergstra, J., Bardenet, R., Bengio, Y., & Kégl, B. (2011). ["Algorithms for Hyper-Parameter Optimization."](https://dl.acm.org/doi/10.5555/2986459.2986743) Advances in Neural Information Processing Systems 24.
-

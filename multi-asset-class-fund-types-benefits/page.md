@@ -1,6 +1,9 @@
 ---
-title: "Multi-Asset Class: Fund Types and Benefits (Algo Trading)"
-description: "Discover the benefits of multi-asset class investing and how algorithmic trading enhances portfolio management. Learn about fund types for diverse investment goals."
+category: trading_strategy
+description: Discover the benefits of multi-asset class investing and how algorithmic
+  trading enhances portfolio management. Learn about fund types for diverse investment
+  goals.
+title: 'Multi-Asset Class: Fund Types and Benefits (Algo Trading)'
 ---
 
 Understanding investment options is essential for investors aiming to construct and diversify their portfolios effectively. Amid the dynamic financial landscape, choosing the right strategy is crucial to achieving stability and growth. Multi-asset class investing has gained prominence due to its inherent flexibility and potential for risk management.

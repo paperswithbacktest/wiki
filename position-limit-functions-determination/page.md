@@ -1,6 +1,9 @@
 ---
-title: "Position Limit: Functions and Determination (Algo Trading)"
-description: "Explore the complexities of futures trading with a focus on position limits and their role in maintaining market stability within algorithmic trading environments."
+category: quant_concept
+description: Explore the complexities of futures trading with a focus on position
+  limits and their role in maintaining market stability within algorithmic trading
+  environments.
+title: 'Position Limit: Functions and Determination (Algo Trading)'
 ---
 
 In today's dynamic financial markets, futures trading represents a critical component of investment strategies for both individual traders and institutional investors. The futures market is characterized by its complexity, stemming from its reliance on derivatives, necessity for stringent regulation, and the integration of advanced technologies such as algorithmic trading. This environment requires a comprehensive understanding to effectively participate and innovate within the market framework.

@@ -1,6 +1,8 @@
 ---
-title: "Comparison of Value and Growth ETFs (Algo Trading)"
-description: "Compare value and growth ETFs as modern investment strategies that integrate algorithmic trading and diversification to optimize returns and manage risk."
+category: trading_strategy
+description: Compare value and growth ETFs as modern investment strategies that integrate
+  algorithmic trading and diversification to optimize returns and manage risk.
+title: Comparison of Value and Growth ETFs (Algo Trading)
 ---
 
 Modern investment strategies have evolved significantly, adapting to an inclement financial landscape characterized by volatility and diverse opportunities. At the forefront of these strategies is the critical importance of maintaining a diversified investment portfolio. Diversification helps mitigate risk by spreading investments across various financial instruments, industries, and geographic regions. This approach is increasingly pertinent in today's economic climate, where market fluctuations are frequent and unpredictable. 

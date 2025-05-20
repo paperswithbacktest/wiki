@@ -1,6 +1,12 @@
 ---
-title: "Range in Mathematics (Algo Trading)"
-description: "Explore the significance of range in algorithmic trading where it aids in assessing market volatility and enhances decision-making. This page investigates into defining and applying the range, highlighting its role in optimizing trading strategies and managing risks in the financial markets. Learn how traders use range to gauge market conditions and automate strategies through algorithms for improved efficiency and potential returns."
+category: quant_concept
+description: Explore the significance of range in algorithmic trading where it aids
+  in assessing market volatility and enhances decision-making. This page investigates
+  into defining and applying the range, highlighting its role in optimizing trading
+  strategies and managing risks in the financial markets. Learn how traders use range
+  to gauge market conditions and automate strategies through algorithms for improved
+  efficiency and potential returns.
+title: Range in Mathematics (Algo Trading)
 ---
 
 The intricate world of trading is increasingly dependent on mathematical concepts and algorithms to make informed decisions and optimize strategies. One of the essential mathematical concepts is the range, which plays a pivotal role in algorithmic trading. The range, defined as the difference between the maximum and minimum values in a dataset, is crucial for assessing market volatility and thereby influencing trading decisions.

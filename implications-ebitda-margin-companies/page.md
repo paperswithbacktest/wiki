@@ -1,6 +1,9 @@
 ---
-title: "Implications of EBITDA Margin for Companies (Algo Trading)"
-description: "Explore the role of EBITDA margin in companies with a focus on algo trading strategies. Understand calculation, benefits, and integration for better investment decisions."
+category: quant_concept
+description: Explore the role of EBITDA margin in companies with a focus on algo trading
+  strategies. Understand calculation, benefits, and integration for better investment
+  decisions.
+title: Implications of EBITDA Margin for Companies (Algo Trading)
 ---
 
 In today's competitive financial landscape, understanding key financial metrics is crucial for evaluating business performance. EBITDA (Earnings Before Interest, Taxes, Depreciation, and Amortization) stands out as a popular metric used to assess a company's operational efficiency. This metric provides insights into a company's earnings by excluding non-operational expenses, offering a clearer view of its core profitability.

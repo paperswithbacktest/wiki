@@ -1,6 +1,8 @@
 ---
-title: "Difference Between Yuan and Renminbi (Algo Trading)"
-description: "Discover the differences between Yuan and Renminbi along with the role of algorithmic trading in currency markets and its impact on trading strategy."
+category: quant_concept
+description: Discover the differences between Yuan and Renminbi along with the role
+  of algorithmic trading in currency markets and its impact on trading strategy.
+title: Difference Between Yuan and Renminbi (Algo Trading)
 ---
 
 The Renminbi (RMB), colloquially known as the Chinese Yuan (CNY), has steadily risen as a significant player in the international financial market. Its growing importance is reflected in its increasing inclusion in foreign exchange reserves, international trade transactions, and global investment portfolios. The International Monetary Fund (IMF) recognized the currency’s prominence by including it in the Special Drawing Rights (SDR) basket as of October 2016. This development highlights China's economic influence and RMB's role as a stabilizing force in the global economy (IMF, 2016).

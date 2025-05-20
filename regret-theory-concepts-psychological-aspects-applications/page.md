@@ -1,6 +1,9 @@
 ---
-title: "Regret Theory: Concepts, Psychological Aspects, and Applications (Algo Trading)"
-description: "Explore how regret theory in behavioral economics influences decision-making in algorithmic trading by integrating psychological insights and emotional factors for improved outcomes."
+category: quant_concept
+description: Explore how regret theory in behavioral economics influences decision-making
+  in algorithmic trading by integrating psychological insights and emotional factors
+  for improved outcomes.
+title: 'Regret Theory: Concepts, Psychological Aspects, and Applications (Algo Trading)'
 ---
 
 Regret theory is a concept rooted in behavioral economics and psychology that examines how the anticipation of regret can influence decision-making processes. This theory posits that individuals often evaluate their choices based on the potential regret they might experience as a result of those choices. Unlike expected utility theory, which assumes individuals make rational decisions aimed at maximizing expected outcomes, regret theory recognizes the emotional dimensions influencing decisions. People tend to not only weigh the potential outcomes of their choices but also consider how they might feel about these outcomes, particularly in comparison to other options that were available to them.

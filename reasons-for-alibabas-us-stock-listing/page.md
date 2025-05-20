@@ -1,6 +1,9 @@
 ---
-title: "Reasons for Alibaba's U.S. Stock Listing (Algo Trading)"
-description: "Explore Alibaba's reasons for listing on the NYSE including strategic advantages of U.S. regulation market visibility and how algorithmic trading impacts its stock performance."
+category: quant_concept
+description: Explore Alibaba's reasons for listing on the NYSE including strategic
+  advantages of U.S. regulation market visibility and how algorithmic trading impacts
+  its stock performance.
+title: Reasons for Alibaba's U.S. Stock Listing (Algo Trading)
 ---
 
 Alibaba Group Holding Limited, commonly known as Alibaba, is a cornerstone in the global e-commerce and technology ecosystem. Founded in 1999 by Jack Ma, Alibaba has expanded beyond its initial marketplace roots to dominate various sectors, including cloud computing, digital media, and logistics. Its significance in the global market is underscored by its expansive reach, facilitating billions of dollars in transactions annually and connecting millions of businesses and consumers worldwide. Alibaba's innovative approach, particularly in leveraging big data and artificial intelligence, has positioned it as a formidable competitor to Western giants such as Amazon and eBay.

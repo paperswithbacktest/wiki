@@ -1,6 +1,9 @@
 ---
-title: "Premium Bond: Overview, Mechanics, and Yield (Algo Trading)"
-description: "Explore premium bonds, bond yields, and algorithmic trading to optimize your investment strategy. Learn how interest rates and credit ratings impact bond values."
+category: quant_concept
+description: Explore premium bonds, bond yields, and algorithmic trading to optimize
+  your investment strategy. Learn how interest rates and credit ratings impact bond
+  values.
+title: 'Premium Bond: Overview, Mechanics, and Yield (Algo Trading)'
 ---
 
 The world of finance is abundant with varied financial instruments, each offering unique opportunities and potential risks for investors. Among these, premium bonds, bond yields, and algorithmic trading play significant roles in shaping investment strategies and outcomes, particularly within the bond markets.
@@ -252,4 +255,3 @@ In summary, gaining a thorough comprehension of premium bonds, bond yields, and 
 9. **Quantitative Trading: How to Build Your Own Algorithmic Trading Business** by Ernie Chan: This book offers practical advice on setting up algorithmic trading systems, which are increasingly impacting bond markets.
 
 For further exploration, readers are encouraged to engage with these materials to gain a deeper understanding of the intricate dynamics of the bond market, encompassing premium bonds, bond yields, and algorithmic trading.
-

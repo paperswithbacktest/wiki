@@ -1,6 +1,12 @@
 ---
-title: "Terminal Capitalization Rate and Calculation Example (Algo Trading)"
-description: "Discover the key components in real estate valuation focusing on capitalization rates and their significance for investors. Explore how innovations in algorithmic trading enhance cap rate estimations and offer a competitive edge. Understand the distinction between terminal and initial cap rates and their impact on long-term investment strategies. Delve into the calculation and implications of terminal cap rates and the integration of technology in property valuation."
+category: quant_concept
+description: Discover the key components in real estate valuation focusing on capitalization
+  rates and their significance for investors. Explore how innovations in algorithmic
+  trading enhance cap rate estimations and offer a competitive edge. Understand the
+  distinction between terminal and initial cap rates and their impact on long-term
+  investment strategies. Delve into the calculation and implications of terminal cap
+  rates and the integration of technology in property valuation.
+title: Terminal Capitalization Rate and Calculation Example (Algo Trading)
 ---
 
 Understanding real estate valuation is crucial for investors, developers, and other stakeholders in the property market. It forms the basis for making informed financial decisions, assessing risks, and maximizing returns on investment. A key component in this valuation process is the capitalization rate, or cap rate, which measures the expected return on a real estate investment property relative to its purchase price. This is calculated by dividing the property's net operating income (NOI) by its current market value. The cap rate provides a snapshot of a property's potential profitability and helps investors compare different investment opportunities.

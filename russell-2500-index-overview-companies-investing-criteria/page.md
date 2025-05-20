@@ -1,6 +1,9 @@
 ---
-title: "Russell 2500 Index: Overview, Companies, Investing Criteria (Algo Trading)"
-description: "Discover the exciting potential of the Russell 2500 Index, a key U.S. market indicator that highlights dynamic small to mid-cap firms, ideal for innovative investing."
+category: dataset
+description: Discover the exciting potential of the Russell 2500 Index, a key U.S.
+  market indicator that highlights dynamic small to mid-cap firms, ideal for innovative
+  investing.
+title: 'Russell 2500 Index: Overview, Companies, Investing Criteria (Algo Trading)'
 ---
 
 The Russell 2500 Index is an essential component of the U.S. financial market landscape, encapsulating a wide array of smaller firms classified as small to mid-cap companies. Its significance lies in the diverse opportunities it offers investors, opening doors to market segments often characterized by growth potential and innovation. Engaging with this index allows investors to tap into numerous emerging ventures that might not yet be in the spotlight of larger indices. Furthermore, this index presents distinctive investment strategies through the integration of algorithmic trading techniques and nuanced company selection based on market criteria.

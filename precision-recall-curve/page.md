@@ -1,10 +1,9 @@
 ---
-title: Precision-Recall Curve Guide for Imbalanced Classification Models
+category: quant_concept
 description: Precision-Recall Curve shows precision and recall tradeoffs across thresholds
   in imbalanced datasets and guides model evaluation Discover more inside
+title: Precision-Recall Curve Guide for Imbalanced Classification Models
 ---
-
-
 
 ## Table of Contents
 

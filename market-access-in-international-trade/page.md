@@ -1,6 +1,8 @@
 ---
-title: "Market Access in International Trade (Algo Trading)"
-description: "Explore the role of trade policy and market access in international trade and how algo trading is transforming the landscape for businesses worldwide."
+category: quant_concept
+description: Explore the role of trade policy and market access in international trade
+  and how algo trading is transforming the landscape for businesses worldwide.
+title: Market Access in International Trade (Algo Trading)
 ---
 
 In the rapidly evolving global economy, trade policy, market access, and international trade play pivotal roles in shaping the economic landscape. These elements are crucial in determining how countries and businesses engage in the exchange of goods and services across borders. Trade policy, encompassing regulations, tariffs, and agreements, influences the ease and cost of international trade. Market access, on the other hand, refers to the ability of a country or business to enter and compete in a foreign market, often determined by the aforementioned trade policies.

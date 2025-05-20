@@ -1,6 +1,8 @@
 ---
-title: "Determination of Share Price Using the Gordon Growth Model (Algo Trading)"
-description: "Discover how the Gordon Growth Model estimates share prices and intrinsic stock values, providing insights for informed investment strategies in algo trading."
+category: quant_concept
+description: Discover how the Gordon Growth Model estimates share prices and intrinsic
+  stock values, providing insights for informed investment strategies in algo trading.
+title: Determination of Share Price Using the Gordon Growth Model (Algo Trading)
 ---
 
 Understanding the principles of stock valuation is crucial for making informed investment decisions. Investors and financial analysts utilize various valuation techniques to determine the intrinsic value of a company's shares, and among these, the Gordon Growth Model (GGM) is a well-known tool recognized for its simplicity and specific focus on dividends. The GGM derives from the dividend discount model (DDM) and is particularly useful for valuing companies with a history of stable dividend payouts and expected dividend growth.

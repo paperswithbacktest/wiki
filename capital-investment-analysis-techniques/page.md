@@ -1,6 +1,8 @@
 ---
-title: "Capital Investment Analysis and Techniques (Algo Trading)"
-description: "Unlock the complexities of modern investing with insights on capital investment strategies and algorithmic trading techniques to optimize financial returns."
+category: trading_strategy
+description: Unlock the complexities of modern investing with insights on capital
+  investment strategies and algorithmic trading techniques to optimize financial returns.
+title: Capital Investment Analysis and Techniques (Algo Trading)
 ---
 
 In the evolving world of finance, making informed investment decisions is more complex and diverse than ever. The rapid advancement of technology, coupled with a broader range of financial instruments, has significantly transformed the financial landscape. Investors are now presented with a myriad of options, making it imperative to possess a comprehensive understanding of available tools and strategies to optimize portfolio performance.

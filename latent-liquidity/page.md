@@ -1,6 +1,9 @@
 ---
-title: "Latent Liquidity (Algo Trading)"
-description: "Explore the intricacies of latent liquidity in high-frequency trading leveraging algorithmic strategies for swift execution and competitive edge within financial markets."
+category: quant_concept
+description: Explore the intricacies of latent liquidity in high-frequency trading
+  leveraging algorithmic strategies for swift execution and competitive edge within
+  financial markets.
+title: Latent Liquidity (Algo Trading)
 ---
 
 Algorithmic trading has significantly transformed the landscape of financial markets by utilizing advanced computational and mathematical models to make informed trading decisions. In particular, liquidity-taking strategies have emerged as vital components within the sphere of high-frequency trading (HFT). These strategies rely on the execution of market orders designed to seize available liquidity, doing so with remarkable speed and precision. As a consequence, they have become integral tools for traders seeking to capitalize on fleeting opportunities in the market.
@@ -258,4 +261,3 @@ As algorithmic trading systems become more advanced, the ability to adapt to cha
 3. **Alpaca**: A commission-free trading platform with API access for building and testing algorithmic trading strategies. Alpaca provides both real-time and historical data, ideal for implementing liquidity-taking strategies.
 
 By exploring these resources, traders and researchers can enhance their understanding of algorithmic trading and liquidity strategies, equipping themselves with the knowledge to develop and refine their trading systems.
-

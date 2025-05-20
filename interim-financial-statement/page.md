@@ -1,6 +1,8 @@
 ---
-title: "Interim Financial Statement (Algo Trading)"
-description: "Explore the essentials of financial reporting, interim statements, and algorithmic trading to make informed decisions in a dynamic financial landscape."
+category: quant_concept
+description: Explore the essentials of financial reporting, interim statements, and
+  algorithmic trading to make informed decisions in a dynamic financial landscape.
+title: Interim Financial Statement (Algo Trading)
 ---
 
 The world of finance is vast and intricate, often characterized by a multitude of complex concepts and processes that underpin financial markets and corporate operations. In this article, we explore key financial terms and practices that form the backbone of financial analysis and decision-making: financial reporting, financial statements, interim statements, and algorithmic trading. Mastering these concepts is critical for investors, analysts, and business professionals, as they serve as the foundation for assessing financial health and market behavior.

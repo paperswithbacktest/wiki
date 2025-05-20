@@ -1,6 +1,14 @@
 ---
-title: "IG Platform Review 2024 (Algo Trading)"
-description: "Explore the comprehensive review of IG Group Holdings plc for 2024: a leading online brokerage firm renowned for its innovative trading solutions and global presence. Established in 1974, IG pioneered financial spread betting and has since grown to offer a multifaceted trading platform. With over 360,000 active users across 19 countries, IG provides a secure and regulated trading environment with access to diverse markets including forex, stocks, commodities, and cryptocurrencies. Learn about IG’s intuitive platform, regulatory compliance, security measures, and versatile financial products in this detailed evaluation."
+category: trading_strategy
+description: 'Explore the comprehensive review of IG Group Holdings plc for 2024:
+  a leading online brokerage firm renowned for its innovative trading solutions and
+  global presence. Established in 1974, IG pioneered financial spread betting and
+  has since grown to offer a multifaceted trading platform. With over 360,000 active
+  users across 19 countries, IG provides a secure and regulated trading environment
+  with access to diverse markets including forex, stocks, commodities, and cryptocurrencies.
+  Learn about IG’s intuitive platform, regulatory compliance, security measures, and
+  versatile financial products in this detailed evaluation.'
+title: IG Platform Review 2024 (Algo Trading)
 ---
 
 IG Group Holdings plc is recognized as a prominent online brokerage firm, distinguished for its innovative trading solutions and a strong global presence. Established in 1974 by Stuart Wheeler in the United Kingdom, IG initially emerged as an innovative financial entity, pioneering the concept of financial spread betting. This novel approach allowed retail investors to speculate on various financial markets, including indices, commodities, and currencies, without the need to purchase the underlying assets directly.

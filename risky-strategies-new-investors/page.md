@@ -1,6 +1,9 @@
 ---
-title: "Risky Strategies for New Investors (Algo Trading)"
-description: "Understand risky strategies and key concepts for new investors in algorithmic trading. Gain insights into diversification and risk management to enhance your investment journey."
+category: trading_strategy
+description: Understand risky strategies and key concepts for new investors in algorithmic
+  trading. Gain insights into diversification and risk management to enhance your
+  investment journey.
+title: Risky Strategies for New Investors (Algo Trading)
 ---
 
 Investing, a pivotal component of financial planning, can be particularly challenging for beginners who are often overwhelmed by the intricacies of the financial world. With markets continuously evolving and presenting new opportunities and challenges, understanding the foundational elements of investing has become increasingly important. As new investors embark on their financial journey, it is essential for them to comprehend fundamental financial strategies, recognize various investment risks, and consider the role of algorithmic trading in enhancing their investment process.

@@ -1,6 +1,13 @@
 ---
-title: "Random Forest Algorithm in Python (Algo Trading)"
-description: Explore the power of the random forest algorithm in Python for algorithmic trading, known for its ability to handle large data sets and capture intricate stock market patterns. Learn how this ensemble learning technique can enhance trading strategies by providing more accurate predictions through a forest of decision trees, minimizing overfitting and improving reliability in dynamic financial markets. This guide offers insights into implementing random forests to develop sophisticated algorithmic trading solutions, leveraging Python's scikit-learn for practical execution.
+category: trading_strategy
+description: Explore the power of the random forest algorithm in Python for algorithmic
+  trading, known for its ability to handle large data sets and capture intricate stock
+  market patterns. Learn how this ensemble learning technique can enhance trading
+  strategies by providing more accurate predictions through a forest of decision trees,
+  minimizing overfitting and improving reliability in dynamic financial markets. This
+  guide offers insights into implementing random forests to develop sophisticated
+  algorithmic trading solutions, leveraging Python's scikit-learn for practical execution.
+title: Random Forest Algorithm in Python (Algo Trading)
 ---
 
 In algorithmic trading, predicting stock prices accurately is pivotal for traders and analysts. Algorithmic trading, which involves the use of automated strategies to trade stocks, relies heavily on the ability to make precise forecasts. Various algorithms are utilized in this process to maximize profitability and manage risks. Among these, the random forest algorithm has emerged as a particularly robust and effective tool for enhancing trading strategies through ensemble learning.

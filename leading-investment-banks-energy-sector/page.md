@@ -1,6 +1,9 @@
 ---
-title: "Leading Investment Banks in the Energy Sector (Algo Trading)"
-description: "Explore how leading investment banks like Citigroup and JPMorgan leverage algorithmic trading and innovative strategies to navigate the evolving energy sector landscape."
+category: trading_strategy
+description: Explore how leading investment banks like Citigroup and JPMorgan leverage
+  algorithmic trading and innovative strategies to navigate the evolving energy sector
+  landscape.
+title: Leading Investment Banks in the Energy Sector (Algo Trading)
 ---
 
 The energy sector stands as a prominent area for investment banks, providing vast opportunities for financial growth. This dynamic industry experiences continual fluctuations in commodity prices, coupled with increasing demands for a transition to sustainable energy sources. Investment banks are crucial players in managing these changes, offering expertise and financial strategies that guide energy companies through the volatile landscape.

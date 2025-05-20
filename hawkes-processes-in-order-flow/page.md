@@ -1,6 +1,8 @@
 ---
-title: "Hawkes processes in order flow (Algo Trading)"
-description: "Explore the essential role of Hawkes processes in algorithmic trading for predicting market movements with precision, using their self-exciting properties."
+category: quant_concept
+description: Explore the essential role of Hawkes processes in algorithmic trading
+  for predicting market movements with precision, using their self-exciting properties.
+title: Hawkes processes in order flow (Algo Trading)
 ---
 
 In the fast-evolving world of algorithmic trading, the integration of mathematical models and processes has become indispensable for predicting financial market movements with precision and speed. The Hawkes process, a sophisticated stochastic model named after the statistician Alan G. Hawkes, plays a pivotal role in this landscape due to its unique self-exciting properties. Unlike traditional models, the Hawkes process accounts for the likelihood that the occurrence of an event may trigger or increase the probability of future events. This characteristic makes it especially useful in modeling financial events such as trades and market movements, where the occurrence of one trade can influence the likelihood of subsequent trades. Originally developed in the 1970s for analyzing earthquake aftershocks, the Hawkes process has found diverse applications across finance, insurance, neuroscience, and other domains.

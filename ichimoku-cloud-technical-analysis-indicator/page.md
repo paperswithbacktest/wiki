@@ -1,6 +1,8 @@
 ---
-title: "Ichimoku Cloud as a Technical Analysis Indicator (Algo Trading)"
-description: "The Ichimoku Cloud is a comprehensive technical indicator that aids traders in visualizing support resistance momentum and trends for informed trading decisions."
+category: trading_strategy
+description: The Ichimoku Cloud is a comprehensive technical indicator that aids traders
+  in visualizing support resistance momentum and trends for informed trading decisions.
+title: Ichimoku Cloud as a Technical Analysis Indicator (Algo Trading)
 ---
 
 The Ichimoku Cloud is a well-regarded technical analysis tool widely used in trading to assess market behavior. Developed by Japanese journalist Goichi Hosoda in the late 1960s, it is designed to enhance the visualization of important trading elements: support and resistance levels, momentum, and trend direction. Unlike traditional indicators that might focus on singular aspects of the market, the Ichimoku Cloud provides a multi-dimensional perspective, offering traders a holistic view of potential market movements.

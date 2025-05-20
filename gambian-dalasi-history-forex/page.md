@@ -1,6 +1,8 @@
 ---
-title: "Gambian Dalasi: History and Role in Forex (Algo Trading)"
-description: "Explore the role of the Gambian Dalasi in Forex and algorithmic trading Discover its impact and opportunities for traders in emerging markets"
+category: dataset
+description: Explore the role of the Gambian Dalasi in Forex and algorithmic trading
+  Discover its impact and opportunities for traders in emerging markets
+title: 'Gambian Dalasi: History and Role in Forex (Algo Trading)'
 ---
 
 The Gambian Dalasi serves as the official currency of The Gambia, playing a crucial role in the country's financial system. Since its introduction in 1971 to replace the Gambian pound, the dalasi has been at the forefront of The Gambia's economic narrative and has consequently become a subject of interest in Forex and algorithmic trading. Understanding its historical performance is vital for Forex traders looking to explore opportunities and mitigate risks associated with emerging market currencies.

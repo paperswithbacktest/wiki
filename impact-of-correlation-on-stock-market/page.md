@@ -1,6 +1,8 @@
 ---
-title: "Impact of Correlation on Stock Market (Algo Trading)"
-description: "Explore how correlation impacts algorithmic trading in the stock market with advanced strategies to maximize profits and manage risks effectively."
+category: quant_concept
+description: Explore how correlation impacts algorithmic trading in the stock market
+  with advanced strategies to maximize profits and manage risks effectively.
+title: Impact of Correlation on Stock Market (Algo Trading)
 ---
 
 The integration of financial analysis, correlation, and algorithmic trading has revolutionized how investors approach the stock market. Traditionally, stock market investments relied heavily on human intuition and rudimentary analysis. However, advancements in technology have paved the way for more sophisticated trading methods that utilize advanced algorithms and statistical measures. These tools allow traders to make informed decisions by analyzing market trends and predicting potential outcomes with greater accuracy. 

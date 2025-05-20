@@ -1,6 +1,8 @@
 ---
-title: "Security Market Indicator Series: Overview and Functionality (Algo Trading)"
-description: "Explore the role of Security Market Indicator Series and technical tools in algorithmic trading to enhance strategies and leverage data-driven insights effectively."
+category: quant_concept
+description: Explore the role of Security Market Indicator Series and technical tools
+  in algorithmic trading to enhance strategies and leverage data-driven insights effectively.
+title: 'Security Market Indicator Series: Overview and Functionality (Algo Trading)'
 ---
 
 The rapidly evolving financial markets have significantly transformed with the advent of algorithmic trading. As technology continues to advance, traders are increasingly relying on data-driven techniques such as market analysis, security market indicators, financial indicators, and algorithmic trading to optimize their investment strategies. Algorithmic trading allows market participants to execute orders at speeds and frequencies that would be impossible for a human trader. This shift is largely driven by the advantages that automated trading strategies offer, such as increased accuracy, reduced emotional biases, and the ability to process vast amounts of data in real-time.

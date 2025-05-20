@@ -1,6 +1,8 @@
 ---
-title: "In The Pink: Slang in Investing (Algo Trading)"
-description: "Explore key investing slang in algorithmic trading including 'in the pink' a term for robust financial performance to enhance your market understanding."
+category: quant_concept
+description: Explore key investing slang in algorithmic trading including 'in the
+  pink' a term for robust financial performance to enhance your market understanding.
+title: 'In The Pink: Slang in Investing (Algo Trading)'
 ---
 
 In the fast-paced world of finance, the landscape is continually evolving, and so is the language that comes with it. As financial markets become increasingly complex, the use of specific terminology—often referred to as investing slang—has become critical for those navigating these waters. Understanding this language is crucial. It not only helps in grasping the nuances of financial conversations but also aids in making informed decisions in a sector where timing and precision are paramount.

@@ -1,6 +1,8 @@
 ---
-title: "Down-and-In Option (Algo Trading)"
-description: "Explore down-and-in options, a key barrier option for optimized trading strategies in algorithmic trading Learn how they provide cost-effective risk management"
+category: quant_concept
+description: Explore down-and-in options, a key barrier option for optimized trading
+  strategies in algorithmic trading Learn how they provide cost-effective risk management
+title: Down-and-In Option (Algo Trading)
 ---
 
 Financial derivatives serve as essential tools in contemporary finance, enabling investors to either hedge against potential losses or engage in strategic speculation. Among these derivatives, barrier options stand out due to their distinct characteristics that set them apart from standard options. Barrier options are categorized as exotic options because their payoff structures depend on the underlying asset's price reaching certain predetermined levels during the option's life. This dependency introduces a layer of complexity and strategic planning not typically observed with vanilla options. 

@@ -1,6 +1,9 @@
 ---
-title: "Escrowed Shares: Types and Examples (Algo Trading)"
-description: "Explore the vital role of escrowed shares in financial markets including their types and how algorithmic trading enhances their management for transactions like IPOs."
+category: quant_concept
+description: Explore the vital role of escrowed shares in financial markets including
+  their types and how algorithmic trading enhances their management for transactions
+  like IPOs.
+title: 'Escrowed Shares: Types and Examples (Algo Trading)'
 ---
 
 Escrowed shares have gained significant prominence in modern financial markets, serving as vital instruments in the execution of complex transactions such as mergers and acquisitions, employee compensation plans, and initial public offerings (IPOs). These shares help in safeguarding the interests of all parties by ensuring that certain predetermined conditions are met before finalizing crucial financial transactions. As the complexity and scale of financial activities grow, so does the necessity for instruments like escrowed shares that enhance the security and reliability of these processes.

@@ -1,6 +1,9 @@
 ---
-title: "Boulder Hill Capital Management (Algo Trading)"
-description: "Discover Boulder Hill Capital Management's innovative approach to algorithmic trading established in 2021 by industry veterans focused on risk management and growth."
+category: trading_strategy
+description: Discover Boulder Hill Capital Management's innovative approach to algorithmic
+  trading established in 2021 by industry veterans focused on risk management and
+  growth.
+title: Boulder Hill Capital Management (Algo Trading)
 ---
 
 Boulder Hill Capital Management, an innovative hedge fund, operates from its headquarters in New York, NY. Established in 2021 by seasoned industry professionals John Holloway, Brian Naylor, and Paul Fazzino, the firm is distinguished by its specialization in algorithmic trading. The founding vision was to develop a systemic methodology for capitalizing on market dislocations, thereby establishing a new benchmark in the financial services industry.

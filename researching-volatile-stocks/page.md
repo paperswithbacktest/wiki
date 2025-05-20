@@ -1,6 +1,8 @@
 ---
-title: "Researching Volatile Stocks (Algo Trading)"
-description: "Explore the intricate world of volatile stocks through the lens of algorithmic trading and financial analysis to enhance your investment strategies."
+category: trading_strategy
+description: Explore the intricate world of volatile stocks through the lens of algorithmic
+  trading and financial analysis to enhance your investment strategies.
+title: Researching Volatile Stocks (Algo Trading)
 ---
 
 Stock research plays a pivotal role in making informed investment decisions and achieving financial success. Among the myriad aspects of stock research, identifying volatile stocks is of significant importance. Volatile stocks are characterized by substantial price swings over short periods. This volatility can present opportunities for high returns, but it also comes with increased risk. Therefore, understanding which stocks are prone to volatility is crucial for investors and traders who seek to capitalize on short-term market movements.

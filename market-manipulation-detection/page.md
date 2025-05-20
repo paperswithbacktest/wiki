@@ -1,6 +1,9 @@
 ---
-title: "Market Manipulation Detection (Algo Trading)"
-description: "Discover how algorithmic trading can lead to market manipulation and learn about the advanced detection techniques used to maintain financial market integrity."
+category: trading_strategy
+description: Discover how algorithmic trading can lead to market manipulation and
+  learn about the advanced detection techniques used to maintain financial market
+  integrity.
+title: Market Manipulation Detection (Algo Trading)
 ---
 
 Algorithmic trading has revolutionized the financial markets by providing unparalleled efficiency and precision in executing trades. This technological advancement enables traders to capitalize on microsecond opportunities that were previously unattainable in manual trading. However, the same tools that offer such precision also introduce opportunities for market manipulation, posing significant risks to market fairness and transparency.

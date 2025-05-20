@@ -1,7 +1,8 @@
 ---
-title: Enhancing Machine Learning with Graph Data Augmentation
+category: quant_concept
 description: Graph data augmentation enriches training by altering nodes edges and
   features to boost model robustness and accuracy on new graphs Discover more inside
+title: Enhancing Machine Learning with Graph Data Augmentation
 ---
 
 ![Image](images/1.png)

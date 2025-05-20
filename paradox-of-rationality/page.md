@@ -1,6 +1,8 @@
 ---
-title: "Paradox of Rationality (Algo Trading)"
-description: "Explore the paradox of rationality in algorithmic trading where irrational decisions may outperform rational models and enhance trading strategies."
+category: quant_concept
+description: Explore the paradox of rationality in algorithmic trading where irrational
+  decisions may outperform rational models and enhance trading strategies.
+title: Paradox of Rationality (Algo Trading)
 ---
 
 Algorithmic trading operates on the premise that decisions are made through a methodical and rational approach, where data and quantitative models generate trades. However, the paradox of rationality complicates this notion by suggesting that choices which may initially appear irrational can sometimes lead to superior outcomes. This paradox arises in complex systems where strict adherence to rational models might not accommodate unforeseen variables or behaviors influencing the markets.

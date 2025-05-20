@@ -1,6 +1,8 @@
 ---
-title: "Capping: Meaning, Mechanism, and Example (Algo Trading)"
-description: "Explore the intricacies of capping in algorithmic trading a strategy to influence market prices safeguarding investments and addressing regulatory challenges."
+category: quant_concept
+description: Explore the intricacies of capping in algorithmic trading a strategy
+  to influence market prices safeguarding investments and addressing regulatory challenges.
+title: 'Capping: Meaning, Mechanism, and Example (Algo Trading)'
 ---
 
 Capping is a key concept within the domain of algorithmic trading, notable for its strategic potential and the regulatory challenges it presents. In the fast-paced environment of financial markets, algorithmic trading, which utilizes intricate algorithms to execute orders based on pre-defined strategies, often leverages capping to manage price movements of securities and derivatives. At its core, capping involves manipulating the supply of an asset to influence its market price, typically through automated trading strategies implemented by algorithms. This article aims to provide a comprehensive understanding of the mechanisms underpinning capping in algorithmic trading, and to evaluate its repercussions on market dynamics.

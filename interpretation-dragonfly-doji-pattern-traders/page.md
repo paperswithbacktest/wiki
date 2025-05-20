@@ -1,6 +1,9 @@
 ---
-title: "Interpretation of the Dragonfly Doji Pattern by Traders (Algo Trading)"
-description: "Explore the significance of the Dragonfly Doji candlestick pattern in algorithmic trading Learn how this unique pattern signals market reversals and boosts trading strategies"
+category: trading_strategy
+description: Explore the significance of the Dragonfly Doji candlestick pattern in
+  algorithmic trading Learn how this unique pattern signals market reversals and boosts
+  trading strategies
+title: Interpretation of the Dragonfly Doji Pattern by Traders (Algo Trading)
 ---
 
 Candlestick patterns, a pivotal tool in technical analysis, have been employed by traders for centuries to predict future price movements based on historical data. Originating in Japan in the 18th century, these patterns provide visual insights into market psychology, capturing the intricate dance between bullish and bearish forces within a specific timeframe. Among the myriad of candlestick patterns, the Dragonfly Doji stands out for its unique structure and market implications.

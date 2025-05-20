@@ -1,6 +1,9 @@
 ---
-title: "Higher Yields of Commercial Bills Compared to T-Bills (Algo Trading)"
-description: "Explore how algorithmic trading maximizes yields of commercial bills over T-bills by leveraging strategies that blend technology with traditional finance insights."
+category: quant_concept
+description: Explore how algorithmic trading maximizes yields of commercial bills
+  over T-bills by leveraging strategies that blend technology with traditional finance
+  insights.
+title: Higher Yields of Commercial Bills Compared to T-Bills (Algo Trading)
 ---
 
 Treasury Bills (T-bills) and commercial bills are critical investment instruments that play significant roles in both governmental and corporate finance. T-bills, short-term government securities with maturities ranging from a few days to one year, are used by governments as a tool for raising funds to cover various fiscal deficits or refinance maturing obligations. They are characterized by their high liquidity, minimal risk, and tax advantages, such as exemption from local and state taxes in certain regions. On the other hand, commercial bills are short-term instruments issued by companies to finance their operations and meet short-term obligations. These bills generally offer higher yields compared to T-bills, owing to their inherent credit risk. Investors are compensated for this additional risk with potentially higher returns.

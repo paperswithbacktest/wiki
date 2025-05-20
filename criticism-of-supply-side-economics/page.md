@@ -1,6 +1,8 @@
 ---
-title: "Criticism of Supply-Side Economics (Algo Trading)"
-description: "Explore the criticisms of supply-side economics in the context of algorithmic trading and its impact on modern economic policies and fiscal debates."
+category: quant_concept
+description: Explore the criticisms of supply-side economics in the context of algorithmic
+  trading and its impact on modern economic policies and fiscal debates.
+title: Criticism of Supply-Side Economics (Algo Trading)
 ---
 
 Supply-side economics is a theory that focuses on increasing the supply of goods and services as a key driver of economic growth. Its central tenet is that policies aimed at reducing barriers, such as taxes and regulations, will stimulate production and investment, leading to job creation and, ultimately, a more robust economy. This approach is rooted in the belief that creating incentives for producers and investors will result in a "trickle-down" effect that benefits the broader population.

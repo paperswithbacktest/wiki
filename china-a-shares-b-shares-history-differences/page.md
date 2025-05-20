@@ -1,6 +1,8 @@
 ---
-title: "China A-Shares and B-Shares: History and Differences (Algo Trading)"
-description: "Explore the history and differences between China's A-Shares and B-Shares, and how algorithmic trading transforms investment strategies in these markets."
+category: quant_concept
+description: Explore the history and differences between China's A-Shares and B-Shares,
+  and how algorithmic trading transforms investment strategies in these markets.
+title: 'China A-Shares and B-Shares: History and Differences (Algo Trading)'
 ---
 
 The Chinese stock market stands as a complex and intriguing environment, characterized by its dual-class share system comprising A-Shares and B-Shares. This distinctive structure creates a diversified set of investment opportunities and challenges. A-Shares denote stocks of mainland Chinese companies that are traded in the local currency (yuan) on the Shanghai and Shenzhen Stock Exchanges, primarily accessible to domestic investors. Conversely, B-Shares are priced in foreign currencies and offer a more accessible avenue for international investors, despite being traded on the same exchanges.

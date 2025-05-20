@@ -1,7 +1,8 @@
 ---
-title: Matplotlib Visualization Techniques For Machine Learning
+category: quant_concept
 description: Matplotlib simplifies machine learning data visualization with line plots
   scatter plots histograms heatmaps and custom styling Discover more inside.
+title: Matplotlib Visualization Techniques For Machine Learning
 ---
 
 ![Image](images/1.png)

@@ -1,6 +1,12 @@
 ---
-title: "Golden Cross in Trading Explained (Algo Trading)"
-description: "Discover the significance of the Golden Cross in algorithmic trading: a bullish signal formed when a short-term moving average crosses above a long-term moving average. This article explores the technical indicator's role in identifying bullish trends its applications in trading algorithms and how it can enhance decision-making processes for improved trading outcomes. Learn to integrate the Golden Cross into trading strategies backed by historical success and practical insights."
+category: trading_strategy
+description: 'Discover the significance of the Golden Cross in algorithmic trading:
+  a bullish signal formed when a short-term moving average crosses above a long-term
+  moving average. This article explores the technical indicator''s role in identifying
+  bullish trends its applications in trading algorithms and how it can enhance decision-making
+  processes for improved trading outcomes. Learn to integrate the Golden Cross into
+  trading strategies backed by historical success and practical insights.'
+title: Golden Cross in Trading Explained (Algo Trading)
 ---
 
 In algorithmic trading, technical indicators play a crucial role in identifying optimal entry and exit points in financial markets. Among these indicators, the 'Golden Cross' stands out as a term widely recognized by traders and analysts. The Golden Cross occurs when a short-term moving average, such as the 50-day simple moving average (SMA), crosses above a long-term moving average, like the 200-day SMA. This crossing is perceived as a bullish signal, indicating the possible onset of a strong upward market trend.

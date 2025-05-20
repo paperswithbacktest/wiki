@@ -1,6 +1,8 @@
 ---
-title: "Bandwagon Effect and Crowd Behavior (Algo Trading)"
-description: "Explore the bandwagon effect's influence on algorithmic trading and crowd behavior. Discover how herd mentality impacts markets, strategies, and decisions."
+category: quant_concept
+description: Explore the bandwagon effect's influence on algorithmic trading and crowd
+  behavior. Discover how herd mentality impacts markets, strategies, and decisions.
+title: Bandwagon Effect and Crowd Behavior (Algo Trading)
 ---
 
 This article explores the intersection of social psychology and algorithmic trading, focusing on how the bandwagon effect influences both domains. The bandwagon effect, a phenomenon where individuals adopt beliefs or behaviors because they perceive others have adopted them, plays a significant role in shaping social dynamics and financial markets. In social contexts, this effect can drive trends and opinions, while in financial markets, it can lead to speculative bubbles and crashes. Understanding these crowd behaviors is crucial for investors and traders aiming to make informed decisions amid market fluctuations.

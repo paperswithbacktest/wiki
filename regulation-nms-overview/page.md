@@ -1,6 +1,8 @@
 ---
-title: "Regulation NMS Overview (Algo Trading)"
-description: "Explore the key components of Regulation NMS which aims to ensure fair pricing and transparency in US equity markets amidst algorithmic trading advancements."
+category: quant_concept
+description: Explore the key components of Regulation NMS which aims to ensure fair
+  pricing and transparency in US equity markets amidst algorithmic trading advancements.
+title: Regulation NMS Overview (Algo Trading)
 ---
 
 The financial markets have significantly evolved with the emergence of complex securities and advancements in trading technologies. Central to the oversight of these market transformations is Regulation NMS (National Market System), introduced by the U.S. Securities and Exchange Commission (SEC) in 2005. This regulation was designed to address the challenges and opportunities presented by modern trading environments, ensuring that the U.S. equity markets operate with fairness, transparency, and efficiency.

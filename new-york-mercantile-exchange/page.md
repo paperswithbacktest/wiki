@@ -1,6 +1,8 @@
 ---
-title: "New York Mercantile Exchange (Algo Trading)"
-description: "Explore the impact of algorithmic trading at NYMEX that enhances commodity trading efficiency by automating speed and price discovery in dynamic markets."
+category: quant_concept
+description: Explore the impact of algorithmic trading at NYMEX that enhances commodity
+  trading efficiency by automating speed and price discovery in dynamic markets.
+title: New York Mercantile Exchange (Algo Trading)
 ---
 
 The evolution of commodities trading has been profound, largely driven by advancements in technology and the proliferation of sophisticated financial platforms. Central to this transformation is the New York Mercantile Exchange (NYMEX), established as a key player in the exchange of physical commodity futures. NYMEX facilitates the trading of various commodities, including energy products, metals, and more, contributing to efficient price discovery and risk management for market participants. 
@@ -143,4 +145,3 @@ In conclusion, algorithmic trading represents a dynamic force in NYMEX commodity
 4. **Reports and Publications from Market Institutions:**
    - CME Group's publication on "Futures & Options Trading on NYMEX." It provides a detailed guide on the trading mechanisms and market structure of NYMEX.
    - Reports from the U.S. Commodity Futures Trading Commission (CFTC) on the regulation of algorithmic trading practices, offering insights into compliance and regulatory challenges.
-

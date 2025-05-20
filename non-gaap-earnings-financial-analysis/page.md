@@ -1,6 +1,9 @@
 ---
-title: "Non-GAAP Earnings and Their Role in Financial Analysis (Algo Trading)"
-description: "Explore the pivotal role of Non-GAAP earnings in financial analysis and algorithmic trading. Understand how these metrics impact investment decisions with transparency and precision."
+category: quant_concept
+description: Explore the pivotal role of Non-GAAP earnings in financial analysis and
+  algorithmic trading. Understand how these metrics impact investment decisions with
+  transparency and precision.
+title: Non-GAAP Earnings and Their Role in Financial Analysis (Algo Trading)
 ---
 
 In today's fast-paced financial markets, understanding earnings reports is essential for investors, analysts, and algorithmic traders. Earnings reports serve as a fundamental basis for evaluating a company's financial health and future potential. Among these, Non-GAAP earnings have gained prominence, providing an alternative view of a company's performance by excluding irregular items like restructuring costs or stock-based compensation. This approach can illuminate the core operational health of a business, which is especially valuable in volatile markets where one-off events can cloud true performance metrics.

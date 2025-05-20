@@ -1,6 +1,9 @@
 ---
-title: "Emirates Investment Authority: Overview and Operations (Algo Trading)"
-description: "Explore the Emirates Investment Authority's role as the UAE's federal wealth fund using algorithmic trading to enhance investment strategies and economic stability."
+category: quant_concept
+description: Explore the Emirates Investment Authority's role as the UAE's federal
+  wealth fund using algorithmic trading to enhance investment strategies and economic
+  stability.
+title: 'Emirates Investment Authority: Overview and Operations (Algo Trading)'
 ---
 
 The Emirates Investment Authority (EIA) is a prominent entity in the financial landscape of the United Arab Emirates, functioning as the nation's sole federal sovereign wealth fund. Established to consolidate and manage the financial assets of the UAE government, EIA plays a pivotal role in fostering the economic stability and growth of the country. By strategically investing across diverse asset classes and geographies, EIA aims to support the long-term economic diversification and sustainability of the UAE.

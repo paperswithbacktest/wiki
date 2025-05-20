@@ -1,6 +1,9 @@
 ---
-title: "Regulations Impacting The Automotive Industry (Algo Trading)"
-description: "Discover how regulations shape the global automotive industry safeguarding safety, sustainability, and fair sales while algorithmic trading revolutionizes market dynamics."
+category: quant_concept
+description: Discover how regulations shape the global automotive industry safeguarding
+  safety, sustainability, and fair sales while algorithmic trading revolutionizes
+  market dynamics.
+title: Regulations Impacting The Automotive Industry (Algo Trading)
 ---
 
 The automotive industry is one of the most heavily regulated sectors globally, with a complex framework of vehicle laws and automotive regulations that dictate the design, safety, environmental impact, and sales practices of automobiles. These regulations are crucial for ensuring consumer protection and fostering environmental sustainability. In recent years, the industry has also seen the emergence of algorithmic trading as a significant factor, influencing market dynamics and operational strategies.

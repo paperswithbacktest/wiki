@@ -1,6 +1,9 @@
 ---
-title: "Cash and Cash Equivalents: Types and Examples (Algo Trading)"
-description: "Discover the essentials of cash and cash equivalents in the financial market Learn how these assets along with algorithmic trading influence investment outcomes"
+category: quant_concept
+description: Discover the essentials of cash and cash equivalents in the financial
+  market Learn how these assets along with algorithmic trading influence investment
+  outcomes
+title: 'Cash and Cash Equivalents: Types and Examples (Algo Trading)'
 ---
 
 In an ever-evolving financial landscape, understanding the various components of the financial market is crucial for both seasoned investors and newcomers. The financial market is a complex network that comprises numerous elements, each playing a pivotal role in shaping investment outcomes. Key components include financial assets, liquidity, cash equivalents, and algorithmic trading, each contributing uniquely to the market dynamics.

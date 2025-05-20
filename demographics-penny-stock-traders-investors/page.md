@@ -1,6 +1,8 @@
 ---
-title: "Demographics Of Penny Stock Traders And Investors (Algo Trading)"
-description: "Explore the intersection of penny stocks and algorithmic trading, understanding their dynamics and risk factors, with tips to optimize investment strategies."
+category: trading_strategy
+description: Explore the intersection of penny stocks and algorithmic trading, understanding
+  their dynamics and risk factors, with tips to optimize investment strategies.
+title: Demographics Of Penny Stock Traders And Investors (Algo Trading)
 ---
 
 Penny stocks and algorithmic trading represent dynamic and high-risk components of modern investing. Penny stocks are typically traded for less than $5 per share and are not listed on major stock exchanges. They are characterized by their high volatility and potential for rapid gains, attracting investors seeking quick profits. However, these stocks come with significant risks, including susceptibility to market manipulation and limited financial disclosures. Consequently, they are often considered speculative investments.

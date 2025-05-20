@@ -1,6 +1,8 @@
 ---
-title: "Correlation Between U.S. Stock Prices and U.S. Dollar Value (Algo Trading)"
-description: "Explore the correlation between U.S. stock prices and the U.S. dollar value and its impact on algorithmic trading, investment strategies, and risk management."
+category: quant_concept
+description: Explore the correlation between U.S. stock prices and the U.S. dollar
+  value and its impact on algorithmic trading, investment strategies, and risk management.
+title: Correlation Between U.S. Stock Prices and U.S. Dollar Value (Algo Trading)
 ---
 
 In the world of finance, understanding the interplay between stock prices and currency values holds significant importance. Stock prices and currency exchange rates are critical components of the investment landscape, influencing each other through complex economic mechanisms. Movements in U.S. stock prices often show a correlation with fluctuations in the value of the U.S. dollar, thereby affecting investor strategies and decision-making processes.

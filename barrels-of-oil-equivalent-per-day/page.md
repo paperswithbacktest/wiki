@@ -1,6 +1,8 @@
 ---
-title: "Barrels of Oil Equivalent Per Day (Algo Trading)"
-description: "Explore the role of Barrels of Oil Equivalent Per Day in energy trading and algorithmic systems Learn how BOE/D enhances efficiency in resource management"
+category: quant_concept
+description: Explore the role of Barrels of Oil Equivalent Per Day in energy trading
+  and algorithmic systems Learn how BOE/D enhances efficiency in resource management
+title: Barrels of Oil Equivalent Per Day (Algo Trading)
 ---
 
 The energy industry serves as a cornerstone of the global economy by ensuring the meticulous management and availability of critical resources. Its broad spectrum encompasses oil, natural gas, coal, renewables like solar and wind, and emerging technologies such as hydrogen energy. Navigating this landscape requires standardized metrics to effectively quantify and communicate energy production. One of the pivotal metrics in this sphere is Barrels of Oil Equivalent Per Day (BOE/D). BOE/D provides a means to equate the energy output of different energy sources, particularly oil and natural gas, into a single, standardized measure. This allows for more coherent reporting and comparison across various types of energy production outputs.

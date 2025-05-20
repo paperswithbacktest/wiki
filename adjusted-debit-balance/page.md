@@ -1,6 +1,9 @@
 ---
-title: "Adjusted Debit Balance (Algo Trading)"
-description: "Balance, as it directly influences their capacity for executing trades. By understanding and managing their adjusted debit balances, traders can optimize strategies and maintain effective risk control within algorithmic trading environments."
+category: quant_concept
+description: Balance, as it directly influences their capacity for executing trades.
+  By understanding and managing their adjusted debit balances, traders can optimize
+  strategies and maintain effective risk control within algorithmic trading environments.
+title: Adjusted Debit Balance (Algo Trading)
 ---
 
 In today's financial landscape, understanding complex financial concepts is essential for both traditional investors and those engaged in algorithmic trading. The dynamically evolving nature of the financial markets requires individuals to grasp the intricacies of accounting and finance, particularly when managing investments in margin accounts. This article focuses on the concept of the adjusted debit balance, a pivotal term in financial accounting with significant implications for managing finances within margin accounts and for crafting effective algorithmic trading strategies.

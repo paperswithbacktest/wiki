@@ -1,6 +1,9 @@
 ---
-title: "History of Corporations in the United States (Algo Trading)"
-description: "Discover the evolution of American corporations from the late 18th century to modern algorithmic trading highlighting technological advancements and economic impact."
+category: quant_concept
+description: Discover the evolution of American corporations from the late 18th century
+  to modern algorithmic trading highlighting technological advancements and economic
+  impact.
+title: History of Corporations in the United States (Algo Trading)
 ---
 
 The story of American business is one of innovation, transformation, and influence. U.S. corporations have played a significant role in the global economy, driving technological advancements and setting trends on the world stage. Corporate history in the United States dates back to the late 18th century when economic growth and technological accomplishments began shaping the structure and operations of these enterprises. Over the years, U.S. corporations have been pivotal in promoting industrialization, enhancing productivity, and fostering technological progress. Their evolution has been significantly intertwined with major economic and technological developments.

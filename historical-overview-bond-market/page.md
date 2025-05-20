@@ -1,6 +1,8 @@
 ---
-title: "Historical Overview of the Bond Market (Algo Trading)"
-description: "Dive into the historical evolution of the bond market and discover how algorithmic trading is reshaping its future for investors seeking insights."
+category: quant_concept
+description: Dive into the historical evolution of the bond market and discover how
+  algorithmic trading is reshaping its future for investors seeking insights.
+title: Historical Overview of the Bond Market (Algo Trading)
 ---
 
 The bond market is a cornerstone of the global financial system, holding significant sway over economic stability and serving as a major platform for investment. Its function is to provide a mechanism for governments, municipalities, and corporations to raise capital through the issuance of bonds, which are essentially debt securities. Investors in bonds earn interest over time, making this market an attractive option for those seeking steady income and lower volatility compared to equities.

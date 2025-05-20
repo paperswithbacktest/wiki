@@ -1,6 +1,9 @@
 ---
-title: "Monte Carlo Simulation Using Geometric Brownian Motion (Algo Trading)"
-description: "Explore Monte Carlo simulations using Geometric Brownian Motion to enhance algorithmic trading strategies by predicting asset price movements and managing risks effectively."
+category: quant_concept
+description: Explore Monte Carlo simulations using Geometric Brownian Motion to enhance
+  algorithmic trading strategies by predicting asset price movements and managing
+  risks effectively.
+title: Monte Carlo Simulation Using Geometric Brownian Motion (Algo Trading)
 ---
 
 In the world of finance, predicting the movement of asset prices is crucial for traders and investors. Price forecasting enables market participants to make informed decisions regarding buying, selling, or holding financial assets, impacting portfolio optimization and risk management strategies. Among the numerous models developed for such predictions, Geometric Brownian Motion (GBM) stands out as a popular choice for simulating the evolution of stock prices and other financial assets over time. GBM models the random nature of asset prices, incorporating both a deterministic trend and stochastic volatility, thus capturing the inherent uncertainties in financial markets.

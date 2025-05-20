@@ -1,6 +1,8 @@
 ---
-title: "Mortgage-Backed Revenue Bond (Algo Trading)"
-description: "Discover the intricacies of mortgage-backed and revenue bonds and explore how algorithmic trading is reshaping bond markets for savvy investors."
+category: quant_concept
+description: Discover the intricacies of mortgage-backed and revenue bonds and explore
+  how algorithmic trading is reshaping bond markets for savvy investors.
+title: Mortgage-Backed Revenue Bond (Algo Trading)
 ---
 
 In the complex world of finance, bond investments are a cornerstone for both individual and institutional investors. Bonds offer a range of opportunities and are essential for diversifying investment portfolios. This article focuses on mortgage-backed bonds, revenue bonds, and the transformative role of algorithmic trading in bond markets. Mortgage-backed bonds are debt securities supported by pools of mortgage loans, providing liquidity and promoting social benefits such as affordable housing. Revenue bonds, on the other hand, are distinct municipal bonds used to fund revenue-generating projects. Understanding the operational mechanics, advantages, and associated risks of these bonds is imperative.

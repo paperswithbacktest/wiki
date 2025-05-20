@@ -1,6 +1,8 @@
 ---
-title: "Foreign Bonds: Risks and Examples (Algo Trading)"
-description: "Explore foreign bonds in the global financial market and discover risks and opportunities like currency volatility and algorithmic trading optimizations."
+category: quant_concept
+description: Explore foreign bonds in the global financial market and discover risks
+  and opportunities like currency volatility and algorithmic trading optimizations.
+title: 'Foreign Bonds: Risks and Examples (Algo Trading)'
 ---
 
 In today's global financial market, investors are consistently seeking ways to diversify and hedge against various risks. Within the fixed-income market, foreign bonds stand out as a noteworthy option, offering both opportunities and challenges. These bonds, issued by international entities in a domestic market and denominated in the local currency, serve a dual purpose: they provide issuers access to foreign capital while offering investors a chance to enhance their portfolios through diversification and potentially higher yields.

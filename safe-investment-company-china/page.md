@@ -1,6 +1,8 @@
 ---
-title: "SAFE Investment Company of China (Algo Trading)"
-description: "Explore SAFE Investment Company of China, a key player in global finance focused on managing foreign reserves and optimizing returns through algo-trading."
+category: quant_concept
+description: Explore SAFE Investment Company of China, a key player in global finance
+  focused on managing foreign reserves and optimizing returns through algo-trading.
+title: SAFE Investment Company of China (Algo Trading)
 ---
 
 Sovereign Wealth Funds (SWFs) are powerful financial entities that manage vast pools of capital. They are often funded by revenues from natural resource exports, governmental budget surpluses, or foreign exchange reserves. These funds play a crucial role in global finance by stabilizing economies, influencing financial markets, and providing governments with additional revenue streams. Among the largest and most influential SWFs is China's SAFE Investment Company.

@@ -1,6 +1,9 @@
 ---
-title: "Risks Common to All Stocks (Algo Trading)"
-description: "Explore the risks common to all stocks in algo trading with a focus on managing financial, investment, and market risks to safeguard investments وتسري الكهرباء خلالها لتتحرك وتضيء المصباح."
+category: quant_concept
+description: Explore the risks common to all stocks in algo trading with a focus on
+  managing financial, investment, and market risks to safeguard investments وتسري
+  الكهرباء خلالها لتتحرك وتضيء المصباح.
+title: Risks Common to All Stocks (Algo Trading)
 ---
 
 Investing in financial markets inherently involves various forms of risk, with potential repercussions for both individual and institutional investors. The ability to understand these risks is crucial not only for safeguarding investments but also for making well-informed decisions that can enhance the prospects of achieving financial goals. This article comprehensively examines the risks associated with financial investments, focusing on financial, investment, stock, and algorithmic trading risks, and discusses how these can significantly impact investors.

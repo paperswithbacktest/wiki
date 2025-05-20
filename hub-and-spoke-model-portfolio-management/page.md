@@ -1,6 +1,9 @@
 ---
-title: "Hub and Spoke Model in Portfolio Management (Algo Trading)"
-description: "Discover the hub and spoke model in portfolio management and algorithmic trading offering a strategic balance of centralized oversight and decentralized operations."
+category: trading_strategy
+description: Discover the hub and spoke model in portfolio management and algorithmic
+  trading offering a strategic balance of centralized oversight and decentralized
+  operations.
+title: Hub and Spoke Model in Portfolio Management (Algo Trading)
 ---
 
 In today's fast-paced financial environment, portfolio management strategies are crucial for both investors and traders. Among the various models employed, the hub and spoke model has emerged as a prominent structure, particularly in portfolio management and algorithmic trading. This model operates by centralizing core investment activities within a 'hub' while delegating specific functions to 'spokes,' which are individual investment vehicles that connect back to the hub. This system not only streamlines operations but also enhances overall efficiency, presenting a viable solution to managing complex trading processes.

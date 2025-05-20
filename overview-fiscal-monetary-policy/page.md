@@ -1,6 +1,9 @@
 ---
-title: "Overview of Fiscal and Monetary Policy (Algo Trading)"
-description: "Explore the dynamic interaction of fiscal and monetary policy as key economic management tools, alongside algorithmic trading's tech-based financial impacts."
+category: quant_concept
+description: Explore the dynamic interaction of fiscal and monetary policy as key
+  economic management tools, alongside algorithmic trading's tech-based financial
+  impacts.
+title: Overview of Fiscal and Monetary Policy (Algo Trading)
 ---
 
 Economic strategies encompass a range of policies and tools used by governments and financial institutions to achieve stability and growth. This article explores three core components of economic management: fiscal policy, monetary policy, and algorithmic trading. These elements are fundamental to shaping the economic landscape and play a significant role in the strategies employed by both public and private entities.

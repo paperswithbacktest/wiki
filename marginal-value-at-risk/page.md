@@ -1,6 +1,8 @@
 ---
-title: "Marginal Value at Risk (Algo Trading)"
-description: "Discover the significance of Marginal Value at Risk in algorithmic trading and enhance your risk management strategies with this essential metric."
+category: quant_concept
+description: Discover the significance of Marginal Value at Risk in algorithmic trading
+  and enhance your risk management strategies with this essential metric.
+title: Marginal Value at Risk (Algo Trading)
 ---
 
 In the evolving world of financial markets, risk management is a crucial component for ensuring the stability and profitability of investments. As markets become increasingly volatile and complex, the ability to quantify and manage risk effectively is more important than ever. Algorithmic trading has emerged as a powerful tool to optimize trading strategies and maximize returns through the use of advanced computational techniques and data analysis. This form of trading leverages algorithms to make high-speed, data-driven decisions, thereby capitalizing on fleeting market opportunities that might be missed by traditional means.

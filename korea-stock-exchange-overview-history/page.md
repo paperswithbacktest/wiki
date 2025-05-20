@@ -1,6 +1,8 @@
 ---
-title: "Korea Stock Exchange: Overview and History (Algo Trading)"
-description: "Explore the Korea Stock Exchange (KRX), its history, structure, and role in algorithmic trading, integral to South Korea's dynamic financial markets."
+category: quant_concept
+description: Explore the Korea Stock Exchange (KRX), its history, structure, and role
+  in algorithmic trading, integral to South Korea's dynamic financial markets.
+title: 'Korea Stock Exchange: Overview and History (Algo Trading)'
 ---
 
 The Korea Stock Exchange (KRX) is a pivotal institution in South Korea's financial landscape, serving as the central platform for trading securities. This article aims to provide an in-depth exploration of the KRX by tracing its historical development, examining its structure, and highlighting its role in facilitating market operations. Additionally, it will discuss algorithmic trading, a significant advancement in modern financial markets that leverages technology to execute trades at speeds and frequencies beyond human capacity.

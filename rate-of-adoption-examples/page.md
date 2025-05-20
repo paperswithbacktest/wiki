@@ -1,6 +1,9 @@
 ---
-title: "Rate of Adoption and Examples (Algo Trading)"
-description: "Explore the dynamics of technology adoption, focusing on algorithmic trading, to understand how factors like compatibility and ease influence market integration."
+category: quant_concept
+description: Explore the dynamics of technology adoption, focusing on algorithmic
+  trading, to understand how factors like compatibility and ease influence market
+  integration.
+title: Rate of Adoption and Examples (Algo Trading)
 ---
 
 The dynamics of technology adoption play a critical role in the successful diffusion of innovations within the market. This process determines the extent and speed at which new technologies become integral components of business operations and daily life. One such innovation that has seen notable implications is algorithmic trading, commonly known as algo trading. This sophisticated form of trading uses automated and pre-programmed trading instructions to account for variables such as timing, price, and volume, representing a significant advancement in the investment landscape.

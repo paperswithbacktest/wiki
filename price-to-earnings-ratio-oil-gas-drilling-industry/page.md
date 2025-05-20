@@ -1,6 +1,9 @@
 ---
-title: "Price-to-Earnings Ratio in the Oil and Gas Drilling Industry (Algo Trading)"
-description: "Explore how the price-to-earnings ratio and algorithmic trading improve investment strategies in the volatile oil and gas drilling industry for optimal returns."
+category: trading_strategy
+description: Explore how the price-to-earnings ratio and algorithmic trading improve
+  investment strategies in the volatile oil and gas drilling industry for optimal
+  returns.
+title: Price-to-Earnings Ratio in the Oil and Gas Drilling Industry (Algo Trading)
 ---
 
 The oil and gas industry plays a pivotal role in the global economy, supplying essential energy resources that power industries and households worldwide. This sector not only drives economic growth but also presents numerous investment opportunities, attributed to its profitability and inherent complexity. Investors are often drawn to the potential high returns in the oil and gas industry, but they must navigate the significant challenges and volatility it presents.

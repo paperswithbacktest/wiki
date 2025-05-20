@@ -1,6 +1,14 @@
 ---
-title: "Oslo Stock Exchange: Overview and History (Algo Trading)"
-description: "The Oslo Stock Exchange is a vital financial hub in Norway, established in 1819, offering trading in equities, derivatives, and bonds. It has evolved significantly over time, adopting electronic and algorithmic trading systems to enhance efficiency and liquidity. The 2019 acquisition by Euronext integrated OSE into a broader European network, boosting its global presence and attracting international investment while maintaining its autonomy to support the local economy. Its diverse market offerings cater to a wide spectrum of investors and firms, solidifying its role in the Nordic and global financial sectors."
+category: quant_concept
+description: The Oslo Stock Exchange is a vital financial hub in Norway, established
+  in 1819, offering trading in equities, derivatives, and bonds. It has evolved significantly
+  over time, adopting electronic and algorithmic trading systems to enhance efficiency
+  and liquidity. The 2019 acquisition by Euronext integrated OSE into a broader European
+  network, boosting its global presence and attracting international investment while
+  maintaining its autonomy to support the local economy. Its diverse market offerings
+  cater to a wide spectrum of investors and firms, solidifying its role in the Nordic
+  and global financial sectors.
+title: 'Oslo Stock Exchange: Overview and History (Algo Trading)'
 ---
 
 The Oslo Stock Exchange (OSE) holds a prominent position within Norway's financial ecosystem, acting as a crucial hub for trading a wide array of securities, including equities, derivatives, and fixed income instruments. Established in 1819, OSE has played a significant role in shaping the nation's economic narrative, evolving from a modest marketplace into a central player in the Nordic financial market. Over the years, OSE has expanded its offerings and embraced technological advances, establishing itself as an essential platform for both local and international investors seeking diverse investment opportunities.

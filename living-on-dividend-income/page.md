@@ -1,6 +1,9 @@
 ---
-title: "Living on Dividend Income (Algo Trading)"
-description: "Integrate dividend investing with algorithmic trading to maximize passive income through automated strategies. Enhance returns and reduce oversight while achieving financial goals."
+category: trading_strategy
+description: Integrate dividend investing with algorithmic trading to maximize passive
+  income through automated strategies. Enhance returns and reduce oversight while
+  achieving financial goals.
+title: Living on Dividend Income (Algo Trading)
 ---
 
 Dividends have been a long-established pillar of investment income, providing investors with a steady stream of passive income over the years. These regular profit distributions, made by companies to their shareholders, can take the form of cash payments or additional stock. Recognized for their reliability, dividends play a crucial role in wealth accumulation and financial planning, offering a consistent return that can weather market volatility.
@@ -190,4 +193,3 @@ Adopting this innovative strategy holds the potential to elevate sustainable inc
    - QuantLib (quantlib.org): A library for quantitative finance in C++, which includes tools for modeling, trading, and risk management.
 
 These resources provide a comprehensive foundation for investors and developers aiming to integrate dividends with algorithmic trading, fostering both theoretical comprehension and practical application.
-

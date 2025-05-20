@@ -1,6 +1,8 @@
 ---
-title: "Impact of Stock Splits on Options (Algo Trading)"
-description: "Explore how stock splits impact options in algorithmic trading. Understand the interplay between splits, derivatives, and algo trading in today's market."
+category: quant_concept
+description: Explore how stock splits impact options in algorithmic trading. Understand
+  the interplay between splits, derivatives, and algo trading in today's market.
+title: Impact of Stock Splits on Options (Algo Trading)
 ---
 
 The financial world is a dynamic and multifaceted domain, integrating various elements that drive investment strategies and market behaviors. Among these elements, stock splits, financial derivatives, options trading, and algorithmic trading play pivotal roles in shaping market dynamics. Each component is vital in its own right; yet, their interconnections offer profound insights into the complex fabric of financial markets.

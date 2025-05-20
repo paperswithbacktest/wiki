@@ -1,6 +1,9 @@
 ---
-title: "Global Antiterrorism Expenditure by Country (Algo Trading)"
-description: "Explore global antiterrorism spending trends and their impact on national defense budgets Examine fiscal priorities national security strategies and economic stability"
+category: dataset
+description: Explore global antiterrorism spending trends and their impact on national
+  defense budgets Examine fiscal priorities national security strategies and economic
+  stability
+title: Global Antiterrorism Expenditure by Country (Algo Trading)
 ---
 
 The global security environment has undergone significant transformations, driving nations to enhance their measures against terrorism. These changes are reflected in the increasing allocations within national defense budgets dedicated to antiterrorism efforts. For many countries, such spending is not merely an ancillary component but a crucial aspect of their defense strategies, aimed at safeguarding both national and international stability.

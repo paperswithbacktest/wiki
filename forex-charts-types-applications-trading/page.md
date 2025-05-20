@@ -1,6 +1,15 @@
 ---
-title: "Forex Charts: Types and Applications in Trading (Algo Trading)"
-description: "Explore the vital role of different Forex charts and their application in trading, focusing on how they integrate with algorithmic platforms to enhance decision-making in the fast-paced Forex market. Discover how line, bar, and candlestick charts provide unique insights into currency trends, aiding traders in technical analysis and strategy optimization. This article investigates into the significance of chart types in algorithmic trading, offering a foundation for improved trading efficiency and adaptability in a dynamic environment. Learn how these tools assist in making informed decisions by visualizing past price movements and predicting future trends."
+category: trading_strategy
+description: Explore the vital role of different Forex charts and their application
+  in trading, focusing on how they integrate with algorithmic platforms to enhance
+  decision-making in the fast-paced Forex market. Discover how line, bar, and candlestick
+  charts provide unique insights into currency trends, aiding traders in technical
+  analysis and strategy optimization. This article investigates into the significance
+  of chart types in algorithmic trading, offering a foundation for improved trading
+  efficiency and adaptability in a dynamic environment. Learn how these tools assist
+  in making informed decisions by visualizing past price movements and predicting
+  future trends.
+title: 'Forex Charts: Types and Applications in Trading (Algo Trading)'
 ---
 
 In the fast-paced world of Forex trading, charts and algorithmic strategies play a crucial role. In this article, we will explore different chart types, their applications in Forex trading, and their integration with algorithmic trading platforms. Charts and algorithms are indispensable tools that enable traders to make more informed decisions and automate their trading processes. 

@@ -1,6 +1,9 @@
 ---
-title: "Hash Functions and Cryptocurrency Mining (Algo Trading)"
-description: "Explore the vital role of hash functions in cryptocurrency mining and their impact on algorithmic trading Learn how these technologies drive the crypto ecosystem"
+category: quant_concept
+description: Explore the vital role of hash functions in cryptocurrency mining and
+  their impact on algorithmic trading Learn how these technologies drive the crypto
+  ecosystem
+title: Hash Functions and Cryptocurrency Mining (Algo Trading)
 ---
 
 Cryptocurrency mining is a fundamental component of the blockchain ecosystem. It involves the process of validating and recording transactions on a blockchain network, which is critical for maintaining the integrity and security of the overall system. Through mining, new cryptocurrency coins are also minted, incentivizing individuals and organizations to contribute computational resources to this process.

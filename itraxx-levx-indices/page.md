@@ -1,6 +1,8 @@
 ---
-title: "ITraxx LevX Indices (Algo Trading)"
-description: "Discover how the iTraxx LevX indexes and algorithmic trading enhance credit risk management and trading strategies in European credit markets."
+category: quant_concept
+description: Discover how the iTraxx LevX indexes and algorithmic trading enhance
+  credit risk management and trading strategies in European credit markets.
+title: ITraxx LevX Indices (Algo Trading)
 ---
 
 Credit derivatives are a pivotal component of the global financial market, allowing investors to manage and transfer credit risk associated with various debt obligations. Among these financial instruments, the iTraxx LevX Indexes serve as essential tools for evaluating credit default risks specifically within Europe. These indexes provide a standardized method to gauge the creditworthiness of European firms by tracking a diversified basket of leveraged loan credit default swaps (CDS).

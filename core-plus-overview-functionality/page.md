@@ -1,6 +1,9 @@
 ---
-title: "Core Plus: Overview and Functionality (Algo Trading)"
-description: "Explore how algorithmic trading enhances core plus investment strategies by optimizing trade execution with precision and speed for better returns and risk management."
+category: trading_strategy
+description: Explore how algorithmic trading enhances core plus investment strategies
+  by optimizing trade execution with precision and speed for better returns and risk
+  management.
+title: 'Core Plus: Overview and Functionality (Algo Trading)'
 ---
 
 A core plus investment strategy represents a comprehensive approach in financial management that combines traditional core investments with additional, more diversified assets to enhance potential returns. Central to this strategy is the maintenance of core holdings such as large-cap equities or investment-grade bonds, while integrating a portion of the portfolio into higher-risk assets like high-yield bonds, real estate, or emerging markets. This diversification aims to improve overall risk-adjusted returns, providing a steady income stream while also capturing opportunities for capital growth [1].
@@ -269,4 +272,3 @@ In conclusion, the synergy between core plus investment strategies and algorithm
    - Link: Available through Harriman House and various booksellers.
 
 These resources form a comprehensive foundation for understanding, implementing, and optimizing core plus investment strategies and algorithmic trading. Academic papers and [books](/wiki/algo-trading-books) listed here are highly recommended for professionals seeking in-depth knowledge in these fields.
-

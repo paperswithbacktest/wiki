@@ -1,6 +1,8 @@
 ---
-title: "Convexity Adjustment in Bond Pricing (Algo Trading)"
-description: "Explore bond pricing with a focus on convexity adjustment, a crucial element in algorithmic trading that enhances price accuracy amid interest rate shifts."
+category: quant_concept
+description: Explore bond pricing with a focus on convexity adjustment, a crucial
+  element in algorithmic trading that enhances price accuracy amid interest rate shifts.
+title: Convexity Adjustment in Bond Pricing (Algo Trading)
 ---
 
 Bond trading is a cornerstone of financial markets, encompassing the buying and selling of debt securities primarily issued by corporations and governments. At its core, bond trading relies on fundamental principles such as bond pricing, convexity adjustment, and increasingly sophisticated algorithmic trading strategies to navigate the complexities of financial markets. Understanding these elemental concepts is critical for investors and financial professionals seeking to execute informed trading decisions amidst dynamic market conditions.

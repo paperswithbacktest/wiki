@@ -1,6 +1,9 @@
 ---
-title: "Reasons for Issuing Preferred Shares Over Common Shares (Algo Trading)"
-description: "Explore the strategic benefits of issuing preferred shares over common shares in corporate finance with insights into algorithmic trading for optimal investment decisions."
+category: quant_concept
+description: Explore the strategic benefits of issuing preferred shares over common
+  shares in corporate finance with insights into algorithmic trading for optimal investment
+  decisions.
+title: Reasons for Issuing Preferred Shares Over Common Shares (Algo Trading)
 ---
 
 In corporate finance, comprehending the distinctions between various equity investments, such as preferred shares and common shares, is essential for investors and finance professionals. Preferred shares provide a fixed dividend and priority over common shares in asset liquidation, making them a more secure investment choice for those seeking steady income and reduced risk. In contrast, common shares offer voting rights and the potential for capital appreciation, albeit with higher risk due to their subordinate claim in liquidation scenarios.

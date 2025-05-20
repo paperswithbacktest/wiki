@@ -1,6 +1,8 @@
 ---
-title: "COMEX: History and Metals Traded (Algo Trading)"
-description: "Dive into the history of COMEX, a pivotal metals trading hub, and explore how algorithmic trading reshapes strategies within this influential market."
+category: quant_concept
+description: Dive into the history of COMEX, a pivotal metals trading hub, and explore
+  how algorithmic trading reshapes strategies within this influential market.
+title: 'COMEX: History and Metals Traded (Algo Trading)'
 ---
 
 The COMEX commodities market is an integral component of global trade, primarily through its specialization in the trading of crucial metals like gold, silver, copper, and aluminum. As a central hub for metals trading, COMEX plays a key role in setting benchmark prices that influence economic activity across the world. Traders, investors, and industry professionals seeking to engage with the metals market must comprehend the mechanisms and significance of COMEX to effectively navigate this domain.

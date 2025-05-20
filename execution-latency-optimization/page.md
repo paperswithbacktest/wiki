@@ -1,6 +1,8 @@
 ---
-title: "Execution Latency Optimization (Algo Trading)"
-description: "Optimize execution latency in algorithmic trading to improve trade efficiency and competitiveness by minimizing network hardware and software delays."
+category: quant_concept
+description: Optimize execution latency in algorithmic trading to improve trade efficiency
+  and competitiveness by minimizing network hardware and software delays.
+title: Execution Latency Optimization (Algo Trading)
 ---
 
 Algorithmic trading, often referred to as algo trading, leverages computer programs to execute financial transactions at speeds and frequencies impractical for human traders. This form of trading is characterized by its ability to process vast amounts of data and execute trades autonomously and efficiently. In this fast-paced domain, the optimization of execution latency is key to gaining a competitive edge.

@@ -1,6 +1,8 @@
 ---
-title: "Investment Trends and Mechanisms (Algo Trading)"
-description: "Explore the latest trends and mechanisms in investing with insights into algorithmic trading and the financial fads shaping the market for better decision-making."
+category: quant_concept
+description: Explore the latest trends and mechanisms in investing with insights into
+  algorithmic trading and the financial fads shaping the market for better decision-making.
+title: Investment Trends and Mechanisms (Algo Trading)
 ---
 
 In the ever-evolving financial landscape, keeping an eye on investing fads, financial mechanisms, and investment trends can be crucial to making informed decisions. Investors constantly face an array of options, driven by both emerging technologies and shifting market sentiments. As the financial ecosystem becomes increasingly complex, understanding the dynamics of these elements can markedly enhance one's investment acumen.

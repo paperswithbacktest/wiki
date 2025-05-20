@@ -1,6 +1,9 @@
 ---
-title: "Franchised Monopoly: Definition, Criticism, and Examples (Algo Trading)"
-description: "Explore the concept of franchised monopolies including their definition criticism and real-life examples from industries like tech and utilities to understand their impact."
+category: quant_concept
+description: Explore the concept of franchised monopolies including their definition
+  criticism and real-life examples from industries like tech and utilities to understand
+  their impact.
+title: 'Franchised Monopoly: Definition, Criticism, and Examples (Algo Trading)'
 ---
 
 Monopolies have been a focal point of debate in economics and business, often polarizing opinions due to their significant impact on markets and consumer choices. In simple terms, a monopoly arises when a single entity gains exclusive control over a particular market or industry, leading to a substantial reduction in competition. This concentrated power often results in the monopolistic entity having the ability to dictate prices, product availability, and innovation pace, thus influencing the broader economy significantly.

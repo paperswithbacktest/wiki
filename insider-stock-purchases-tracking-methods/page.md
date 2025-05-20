@@ -1,6 +1,12 @@
 ---
-title: "Insider Stock Purchases: Tracking Methods (Algo Trading)"
-description: "Explore the dynamic world of financial strategies with insights into insider stock purchases, stock market investing, and algorithmic trading. This guide breaks down key approaches to enhance your investment portfolio by interpreting insider buying patterns, employing diverse stock market strategies, and leveraging algorithmic trading for efficient, bias-free decisions. Equip yourself with comprehensive knowledge to maximize returns and manage risks in today's market landscape."
+category: trading_strategy
+description: Explore the dynamic world of financial strategies with insights into
+  insider stock purchases, stock market investing, and algorithmic trading. This guide
+  breaks down key approaches to enhance your investment portfolio by interpreting
+  insider buying patterns, employing diverse stock market strategies, and leveraging
+  algorithmic trading for efficient, bias-free decisions. Equip yourself with comprehensive
+  knowledge to maximize returns and manage risks in today's market landscape.
+title: 'Insider Stock Purchases: Tracking Methods (Algo Trading)'
 ---
 
 In today's dynamic financial landscape, investors are constantly seeking strategies to maximize returns and minimize risks. This pursuit requires a keen understanding of various investment methodologies and how they can synergize to create robust portfolio management strategies. This article focuses on three interrelated investment approaches: insider buying, stock market investing, and algorithmic trading. Each of these strategies offers unique insights and potential advantages that investors can leverage.
@@ -113,5 +119,4 @@ Looking ahead, emerging trends in investment strategies are poised to increasing
 
 [6]: Graham, B. (2006). ["The Intelligent Investor: The Definitive Book on Value Investing. A Book of Practical Counsel"](https://www.amazon.com/Intelligent-Investor-Definitive-Investing-Essentials/dp/0060555661) by Benjamin Graham
 
-[7]: SEC. ["Insider Trading"](https://www.sec.gov/investment/insider-trading-arrangements-and-related-disclosures). U.S. Securities and Exchange Commission. 
-
+[7]: SEC. ["Insider Trading"](https://www.sec.gov/investment/insider-trading-arrangements-and-related-disclosures). U.S. Securities and Exchange Commission.

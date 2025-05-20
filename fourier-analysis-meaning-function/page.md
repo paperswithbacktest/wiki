@@ -1,6 +1,9 @@
 ---
-title: "Fourier Analysis: Meaning and Function (Algo Trading)"
-description: "Explore how Fourier analysis unveils patterns in complex signals for algorithmic trading, optimizing strategies by transforming time-domain signals into frequency insights."
+category: quant_concept
+description: Explore how Fourier analysis unveils patterns in complex signals for
+  algorithmic trading, optimizing strategies by transforming time-domain signals into
+  frequency insights.
+title: 'Fourier Analysis: Meaning and Function (Algo Trading)'
 ---
 
 Fourier analysis is a powerful mathematical tool that decomposes complex signals into simpler sinusoidal components. This process, named after the French mathematician Jean-Baptiste Joseph Fourier, provides essential insights into signal characteristics, revealing patterns that are not immediately apparent. The fundamental principles of Fourier analysis—such as Fourier series and the Fourier transform—enable the transformation of signals from the time domain to the frequency domain, thus offering a clearer perspective on the signal's behavior.

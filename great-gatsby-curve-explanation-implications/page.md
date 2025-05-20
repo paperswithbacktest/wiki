@@ -1,6 +1,8 @@
 ---
-title: "Great Gatsby Curve: Explanation and Implications (Algo Trading)"
-description: "Explore the Great Gatsby Curve and learn its implications on income inequality and intergenerational mobility while assessing the role of algorithmic trading."
+category: quant_concept
+description: Explore the Great Gatsby Curve and learn its implications on income inequality
+  and intergenerational mobility while assessing the role of algorithmic trading.
+title: 'Great Gatsby Curve: Explanation and Implications (Algo Trading)'
 ---
 
 In today's economic discussions, inequality continues to be a topic of significant debate. One way to examine this issue is through the Great Gatsby Curve, which illustrates the relationship between income inequality and intergenerational mobility across different countries. The curve is named after F. Scott Fitzgerald's novel, capturing the idea that wealth and social status may inhibit upward mobility. The Great Gatsby Curve implies that higher levels of income inequality within a country are associated with lower levels of intergenerational mobility, suggesting that children in highly unequal societies have a tougher time achieving different economic statuses than their parents. This relationship raises pertinent questions about the societal and economic structures that underpin such dynamics.

@@ -1,6 +1,8 @@
 ---
-title: "Selecting Algorithmic Trading Software (Algo Trading)"
-description: "Explore the transformative power of algorithmic trading software Analyze market trends optimize execution and maximize returns in modern finance."
+category: trading_strategy
+description: Explore the transformative power of algorithmic trading software Analyze
+  market trends optimize execution and maximize returns in modern finance.
+title: Selecting Algorithmic Trading Software (Algo Trading)
 ---
 
 The rise of financial algorithms has transformed the landscape of modern finance, significantly influencing how asset trading is conducted. At the heart of this transformation is algorithmic trading, defined as the use of computer programs and algorithms to execute trades based on predefined criteria. This form of trading allows for the rapid and efficient execution of complex trading strategies, which is crucial in the fast-paced financial markets.

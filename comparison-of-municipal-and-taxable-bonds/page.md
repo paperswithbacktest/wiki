@@ -1,6 +1,8 @@
 ---
-title: "Comparison of Municipal and Taxable Bonds (Algo Trading)"
-description: "Discover the differences between municipal and taxable bonds plus the impact of algo trading in modern bond investments to optimize your investment strategy"
+category: trading_strategy
+description: Discover the differences between municipal and taxable bonds plus the
+  impact of algo trading in modern bond investments to optimize your investment strategy
+title: Comparison of Municipal and Taxable Bonds (Algo Trading)
 ---
 
 In this digital age, investors are continuously searching for diverse investment avenues to maximize their returns. Among the myriad of financial instruments available, bonds have emerged as a popular choice for both individual and institutional investors. Bonds offer a range of options that cater to different risk appetites and financial objectives, making them versatile tools for portfolio diversification and risk management. 

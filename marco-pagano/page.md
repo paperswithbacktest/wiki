@@ -1,9 +1,10 @@
 ---
-title: "Marco Pagano (Algo Trading)"
-description: "Explore the academic journey of Marco Pagano, an economist with expertise in finance, market microstructure, and corporate finance. Discover his contributions and roles."
+category: quant_concept
+description: Explore the academic journey of Marco Pagano, an economist with expertise
+  in finance, market microstructure, and corporate finance. Discover his contributions
+  and roles.
+title: Marco Pagano (Algo Trading)
 ---
-
-
 
 ## Table of Contents
 

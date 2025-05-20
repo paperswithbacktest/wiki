@@ -1,6 +1,9 @@
 ---
-title: "Difference Between Revenue and Income (Algo Trading)"
-description: "Understand the crucial difference between revenue and income in algo trading to gain a competitive edge in finance with insights into market strategy and profitability."
+category: quant_concept
+description: Understand the crucial difference between revenue and income in algo
+  trading to gain a competitive edge in finance with insights into market strategy
+  and profitability.
+title: Difference Between Revenue and Income (Algo Trading)
 ---
 
 In the fast-evolving world of finance, understanding key financial terms such as revenue and income is crucial for both individuals and businesses. As the landscape of finance becomes increasingly dominated by technology, especially with the growth of algorithmic trading, possessing a firm grasp of these concepts becomes indispensable. Revenue, typically known as the 'top line', represents the total amount of money generated from sales, serving as an initial measure of a company’s commercial activity. In contrast, income, often referred to as net income or 'bottom line', represents the actual profit after all expenses, taxes, and deductions have been accounted for. 

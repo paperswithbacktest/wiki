@@ -1,6 +1,9 @@
 ---
-title: "Analysis of Cash Flow from Financing Activities (Algo Trading)"
-description: "Explore how cash flow analysis enhances algorithmic trading by providing insights into financial statements and improving investment strategies for better decision-making."
+category: quant_concept
+description: Explore how cash flow analysis enhances algorithmic trading by providing
+  insights into financial statements and improving investment strategies for better
+  decision-making.
+title: Analysis of Cash Flow from Financing Activities (Algo Trading)
 ---
 
 Understanding financial statements, especially the cash flow statement, is critical for individuals involved in finance and investing. The cash flow statement provides essential insights into the financial condition and performance of a company by detailing the movement of cash within an organization over a specific period. This movement is broken down into three main areas: operating activities, investing activities, and financing activities. Such information is crucial as it allows investors, analysts, and business managers to evaluate how well a company can generate cash to cover its expenses, fund its operations, and engage in growth initiatives.

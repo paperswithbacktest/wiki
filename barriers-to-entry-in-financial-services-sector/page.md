@@ -1,6 +1,9 @@
 ---
-title: "Barriers to Entry in the Financial Services Sector (Algo Trading)"
-description: "Entering the algorithmic trading sector in financial services requires overcoming significant barriers like high capital requirements, technological demands, and regulatory compliance."
+category: quant_concept
+description: Entering the algorithmic trading sector in financial services requires
+  overcoming significant barriers like high capital requirements, technological demands,
+  and regulatory compliance.
+title: Barriers to Entry in the Financial Services Sector (Algo Trading)
 ---
 
 The financial services sector is a crucial driver of global economic activity, serving as the backbone for transactions, investments, and overall financial stability. This vast and dynamic industry offers a multitude of services ranging from savings and loans to asset management and trading. Among these, algorithmic trading stands out as a sophisticated niche that leverages advanced technologies for executing trades at speeds and frequencies impossible for humans. While this presents lucrative opportunities, it also introduces a series of barriers to entry for new participants.

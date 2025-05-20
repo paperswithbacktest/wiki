@@ -1,6 +1,8 @@
 ---
-title: "Article 50: Mechanism and Examples (Algo Trading)"
-description: "Explore the intricacies of Article 50 and its role in Brexit while examining how algorithmic trading manages market uncertainties and impacts financial markets."
+category: quant_concept
+description: Explore the intricacies of Article 50 and its role in Brexit while examining
+  how algorithmic trading manages market uncertainties and impacts financial markets.
+title: 'Article 50: Mechanism and Examples (Algo Trading)'
 ---
 
 The UK's decision to leave the European Union, a move commonly referred to as Brexit, represents a transformative moment in European history. This decision was predicated on the invocation of Article 50 of the EU's Lisbon Treaty, a formal mechanism by which any member state can initiate its withdrawal from the European Union. Article 50 not only set the legal foundation for such a withdrawal but also established the framework within which the UK and the EU would negotiate new terms over a two-year period.

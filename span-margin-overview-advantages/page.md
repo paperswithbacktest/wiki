@@ -1,6 +1,8 @@
 ---
-title: "SPAN Margin Overview and Advantages (Algo Trading)"
-description: "Understand SPAN Margin and its advantages for risk management in algorithmic trading ensuring traders maintain capital for potential losses executing strategies."
+category: quant_concept
+description: Understand SPAN Margin and its advantages for risk management in algorithmic
+  trading ensuring traders maintain capital for potential losses executing strategies.
+title: SPAN Margin Overview and Advantages (Algo Trading)
 ---
 
 The world of finance comprises a vast network of interconnected components that shape investment management. Understanding margin requirements is among these critical components, particularly their implications for risk management in algorithmic trading. Margins are pivotal in ensuring that traders and investors maintain sufficient capital to cover potential losses from their positions. This becomes even more significant in the fast-paced landscape of algorithmic trading, where trades are executed based on predefined programmable strategies, frequently at a pace far exceeding human capabilities. 

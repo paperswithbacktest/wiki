@@ -1,6 +1,8 @@
 ---
-title: "Lord Abbett (Algo Trading)"
-description: "Explore how Lord Abbett leverages algorithmic trading to optimize investment strategies and trade execution while enhancing value for clients through technology."
+category: trading_strategy
+description: Explore how Lord Abbett leverages algorithmic trading to optimize investment
+  strategies and trade execution while enhancing value for clients through technology.
+title: Lord Abbett (Algo Trading)
 ---
 
 Lord Abbett, founded in 1929, is a respected name in the investment management space, known for its commitment to delivering superior long-term investment performance and client service. As a privately held firm, it offers a diverse array of investment strategies, managing assets across equities, fixed income, and multi-asset solutions. With a history exceeding 90 years, Lord Abbett has established itself as a stalwart in financial services, driven by principles of quality, transparency, and innovation.

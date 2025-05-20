@@ -1,6 +1,9 @@
 ---
-title: "Key Balance Sheet Metrics (Algo Trading)"
-description: "Enhance your trading strategies by combining balance sheet analysis with algorithmic trading. Discover how financial metrics can optimize decision-making in the market."
+category: trading_strategy
+description: Enhance your trading strategies by combining balance sheet analysis with
+  algorithmic trading. Discover how financial metrics can optimize decision-making
+  in the market.
+title: Key Balance Sheet Metrics (Algo Trading)
 ---
 
 In the ever-evolving world of finance and technology, the intersection of balance sheet analysis and algorithmic trading is becoming increasingly significant. As financial markets grow more complex and interconnected, traders and investors are seeking comprehensive strategies that combine traditional financial analysis with modern technological advancements. This article outlines how understanding balance sheet financial metrics can enhance algorithmic trading strategies, which rely heavily on data-driven decision-making processes.

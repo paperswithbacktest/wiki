@@ -1,6 +1,9 @@
 ---
-title: "Down Round: Overview and Alternatives (Algo Trading)"
-description: "Explore the dynamics of venture capital down rounds and their impact on algorithmic trading strategies Discover how these events influence market conditions and investor sentiment."
+category: trading_strategy
+description: Explore the dynamics of venture capital down rounds and their impact
+  on algorithmic trading strategies Discover how these events influence market conditions
+  and investor sentiment.
+title: 'Down Round: Overview and Alternatives (Algo Trading)'
 ---
 
 Venture capital down rounds are a significant phenomenon impacting today's financial markets, with far-reaching implications for startups, investors, and trading strategies. A down round occurs when a company raises capital at a valuation lower than in previous funding rounds. This reflects a decline in the company’s perceived value and can signal challenges such as unmet milestones or unfavorable market conditions. In recent years, the frequency of down rounds has increased, influenced by a volatile economic environment and intensified competition.

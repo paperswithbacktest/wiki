@@ -1,6 +1,9 @@
 ---
-title: "History of Paper Money in the United States (Algo Trading)"
-description: "Discover the intertwined history of U.S. paper money and algorithmic trading from colonial innovations to modern economic transformations and digital currencies."
+category: quant_concept
+description: Discover the intertwined history of U.S. paper money and algorithmic
+  trading from colonial innovations to modern economic transformations and digital
+  currencies.
+title: History of Paper Money in the United States (Algo Trading)
 ---
 
 The evolution of U.S. paper currency is a tale intertwined with American history, embedded with stories of innovation, necessity, and artistry. From its early beginnings, U.S. paper currency has mirrored the nation’s economic and political challenges, adapting to meet the changing needs of a growing country. This article will explore the rich history of U.S. banknotes, from their inception to modern incarnations, and how algorithmic trading intersects with the future of currency.

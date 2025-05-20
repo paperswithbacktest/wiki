@@ -1,6 +1,9 @@
 ---
-title: "Goldman Sachs (Algo Trading)"
-description: "Explore the innovative edge of Goldman Sachs in algorithmic trading and investment banking Discover how this financial leader integrates AI to enhance market precision"
+category: quant_concept
+description: Explore the innovative edge of Goldman Sachs in algorithmic trading and
+  investment banking Discover how this financial leader integrates AI to enhance market
+  precision
+title: Goldman Sachs (Algo Trading)
 ---
 
 Goldman Sachs, established in 1869, stands as a premier global financial services firm, renowned for its expertise in investment banking, securities, and asset management. Through its long-standing history, Goldman Sachs has played a crucial role in shaping the financial services industry, particularly in investment banking and the innovative sphere of algorithmic trading. This article examines Goldman Sachs' deep impact on the financial services domain, emphasizing its pioneering efforts in these areas.

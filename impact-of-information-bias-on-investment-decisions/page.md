@@ -1,6 +1,8 @@
 ---
-title: "Impact of Information Bias on Investment Decisions (Algo Trading)"
-description: "Explore how information bias skews investment decisions in algo trading Learn strategies to mitigate its effects for more rational trading outcomes"
+category: quant_concept
+description: Explore how information bias skews investment decisions in algo trading
+  Learn strategies to mitigate its effects for more rational trading outcomes
+title: Impact of Information Bias on Investment Decisions (Algo Trading)
 ---
 
 Investing in today's financial markets involves maneuvering through an intricate maze of information and inherent biases. Cognitive biases, in particular, information biases, have a profound influence on investment decisions, often resulting in less than optimal financial outcomes. These biases skew perception, leading to decisions based on distorted or incomplete information, which can affect portfolio performance and risk management.

@@ -1,6 +1,8 @@
 ---
-title: "Investor Shares: Types, Fees, and Commissions (Algo Trading)"
-description: "Explore investor shares and the impact of fees and commissions on returns. Learn about algorithmic trading advantages and risks to enhance your financial strategy."
+category: quant_concept
+description: Explore investor shares and the impact of fees and commissions on returns.
+  Learn about algorithmic trading advantages and risks to enhance your financial strategy.
+title: 'Investor Shares: Types, Fees, and Commissions (Algo Trading)'
 ---
 
 In the evolving world of investing, understanding the intricate details of fees and commissions is crucial. Investors face various charges that differ based on the class of shares they invest in and the trading strategies they employ. These costs can significantly impact investment returns, making it essential to grasp how they are calculated and applied.

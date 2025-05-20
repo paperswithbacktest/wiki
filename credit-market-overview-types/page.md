@@ -1,6 +1,8 @@
 ---
-title: "Credit Market Overview and Types (Algo Trading)"
-description: "Explore key aspects of the credit market and algorithmic trading Discover how debt instruments enable capital flow and efficiencies in the financial ecosystem"
+category: quant_concept
+description: Explore key aspects of the credit market and algorithmic trading Discover
+  how debt instruments enable capital flow and efficiencies in the financial ecosystem
+title: Credit Market Overview and Types (Algo Trading)
 ---
 
 The credit market is a fundamental component of the global financial system, serving as a platform where individuals, corporations, and governments can access funds through the issuance and trading of debt instruments. These instruments, which include bonds, loans, and other credit facilities, enable entities to borrow money from investors whose primary return is in the form of interest payments. The credit market is crucial for the functioning of modern economies, as it facilitates capital flow, provides liquidity, and supports economic growth by enabling investment and consumption.

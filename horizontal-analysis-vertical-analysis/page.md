@@ -1,6 +1,8 @@
 ---
-title: "Horizontal Analysis and Vertical Analysis (Algo Trading)"
-description: "Discover the importance of horizontal and vertical analysis in algo trading. Learn how these financial statement analysis techniques enhance trading strategies."
+category: quant_concept
+description: Discover the importance of horizontal and vertical analysis in algo trading.
+  Learn how these financial statement analysis techniques enhance trading strategies.
+title: Horizontal Analysis and Vertical Analysis (Algo Trading)
 ---
 
 Financial analysis plays a critical role in evaluating a company's financial health, especially in today’s highly dynamic market environment. By scrutinizing financial statements, analysts can discern patterns, assess past performance, and forecast future prospects. As markets evolve rapidly, competent financial analysis is indispensable for investors, stakeholders, and policymakers looking to make informed decisions.

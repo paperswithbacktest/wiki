@@ -1,6 +1,13 @@
 ---
-title: "Portfolio Investment and Asset Classes (Algo Trading)"
-description: "Explore the essential role of diverse asset classes and algorithmic trading in building resilient financial portfolios. This page investigates into traditional investments like stocks and bonds alongside modern assets such as cryptocurrencies. Learn how algorithmic trading enhances market efficiency by automating strategic trade executions. Gain insights into various investment strategies, their impact on risk management, and the importance of diversification in maximizing returns in today's dynamic financial environment."
+category: trading_strategy
+description: Explore the essential role of diverse asset classes and algorithmic trading
+  in building resilient financial portfolios. This page investigates into traditional
+  investments like stocks and bonds alongside modern assets such as cryptocurrencies.
+  Learn how algorithmic trading enhances market efficiency by automating strategic
+  trade executions. Gain insights into various investment strategies, their impact
+  on risk management, and the importance of diversification in maximizing returns
+  in today's dynamic financial environment.
+title: Portfolio Investment and Asset Classes (Algo Trading)
 ---
 
 Investing in diverse asset classes is crucial for constructing a resilient financial portfolio. The investment landscape today offers a wide spectrum of options, ranging from traditional assets like stocks and bonds to modern, innovative alternatives such as cryptocurrencies. Traditional equities provide ownership stakes in companies with potential for capital appreciation, while fixed-income securities like bonds offer predictable returns and lower risk. In contrast, cryptocurrencies represent a novel class of digital assets characterized by high volatility but also significant growth potential.

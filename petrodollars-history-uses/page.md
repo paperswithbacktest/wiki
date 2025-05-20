@@ -1,6 +1,8 @@
 ---
-title: "Petrodollars: History and Uses (Algo Trading)"
-description: "Explore the intricate relationship between petrodollars, currency markets, and algorithmic trading in shaping global economic policies and financial stability."
+category: quant_concept
+description: Explore the intricate relationship between petrodollars, currency markets,
+  and algorithmic trading in shaping global economic policies and financial stability.
+title: 'Petrodollars: History and Uses (Algo Trading)'
 ---
 
 The petrodollar system represents a pivotal mechanism in the global economy, significantly influencing international trade and financial dynamics. At its core, the term "petrodollar" refers to US dollars earned by countries through the sale of oil, which are typically traded on global markets using USD as the primary currency. This system has entrenched the US dollar's status as the world's foremost reserve currency, ensuring its dominance in international financial transactions and securing demand for the currency due to the necessity of its use in global oil trade.

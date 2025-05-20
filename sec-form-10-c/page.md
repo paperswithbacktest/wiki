@@ -1,6 +1,8 @@
 ---
-title: "SEC Form 10-C (Algo Trading)"
-description: "Explore the historical impact of SEC Form 10-C on corporate disclosures and its lasting influence on transparency and accountability in algorithmic trading."
+category: quant_concept
+description: Explore the historical impact of SEC Form 10-C on corporate disclosures
+  and its lasting influence on transparency and accountability in algorithmic trading.
+title: SEC Form 10-C (Algo Trading)
 ---
 
 The increasing complexity of the securities market and evolving financial regulations have necessitated numerous forms and protocols to ensure transparency and accountability. Among these, SEC Form 10-C played a pivotal role for companies whose securities traded on NASDAQ. Though it has since been discontinued, understanding its past usage reveals significant aspects of corporate disclosures. Form 10-C was initially designed to inform the Securities and Exchange Commission (SEC) about major corporate actions, such as substantial changes in the number of outstanding shares or alterations in a company’s name. These disclosures were vital for maintaining market integrity, allowing investors and market analysts to make informed decisions based on accurate and timely information.

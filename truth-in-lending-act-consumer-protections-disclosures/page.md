@@ -1,6 +1,8 @@
 ---
-title: "Truth in Lending Act: Consumer Protections and Disclosures (Algo Trading)"
-description: "Explore the Truth in Lending Act's impact on consumer protection in algorithmic trading by ensuring transparent financial disclosures in credit transactions."
+category: quant_concept
+description: Explore the Truth in Lending Act's impact on consumer protection in algorithmic
+  trading by ensuring transparent financial disclosures in credit transactions.
+title: 'Truth in Lending Act: Consumer Protections and Disclosures (Algo Trading)'
 ---
 
 The Truth in Lending Act (TILA), enacted in 1968, is a pivotal piece of legislation designed to safeguard consumers in their financial interactions with lenders. TILA's primary function is to mandate the clear and concise disclosure of terms and conditions pertinent to consumer credit transactions. This statutory requirement aims to empower consumers by providing them with a transparent understanding of the financial commitments they undertake, thereby fostering informed decision-making.

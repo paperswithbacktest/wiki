@@ -1,6 +1,14 @@
 ---
-title: "Expiry Trading Strategies Explained (Algo Trading)"
-description: Discover efficient strategies for options expiry day trading within algorithmic trading. Explore the dynamics of increased market volatility and trading volumes, and learn how to harness these conditions to enhance trading efficiency and profit potential. This guide investigates into systematic strategies like Short Straddle and Short Strangle, along with risk management techniques, emphasizing the benefits of algorithmic trading on expiry days where speed, precision, and backtesting play crucial roles. Uncover the essential knowledge needed to capitalize on options expiration dynamics effectively.
+category: trading_strategy
+description: Discover efficient strategies for options expiry day trading within algorithmic
+  trading. Explore the dynamics of increased market volatility and trading volumes,
+  and learn how to harness these conditions to enhance trading efficiency and profit
+  potential. This guide investigates into systematic strategies like Short Straddle
+  and Short Strangle, along with risk management techniques, emphasizing the benefits
+  of algorithmic trading on expiry days where speed, precision, and backtesting play
+  crucial roles. Uncover the essential knowledge needed to capitalize on options expiration
+  dynamics effectively.
+title: Expiry Trading Strategies Explained (Algo Trading)
 ---
 
 Options expiry day plays a crucial role in shaping trading strategies, especially within algorithmic trading. As this day draws near, traders often encounter a marked increase in both market volatility and trading volumes. These dynamic conditions present both challenges and opportunities. An expiry day option strategy specifically aims to harness these market dynamics to enhance trading efficiency and improve the potential for profit. This article will explore the mechanisms and strategies involved in options trading on expiry days, with a focus on how these strategies can be systematically applied within algorithmic trading frameworks.

@@ -1,6 +1,9 @@
 ---
-title: "Comparison of Market and Specific Risk (Algo Trading)"
-description: "Explore the contrast between market and specific risks in algorithmic trading Understand their impact on strategies and manage them effectively for better trade outcomes"
+category: quant_concept
+description: Explore the contrast between market and specific risks in algorithmic
+  trading Understand their impact on strategies and manage them effectively for better
+  trade outcomes
+title: Comparison of Market and Specific Risk (Algo Trading)
 ---
 
 Understanding the various types of risks is essential for traders, particularly within algorithmic trading, which relies heavily on technology and speed. Market risk, also known as systematic risk, affects the entire financial market and is influenced by macroeconomic factors such as interest rates, inflation, and economic cycles. This risk is unavoidable but can be managed through diversification and hedging strategies.

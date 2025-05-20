@@ -1,6 +1,8 @@
 ---
-title: "Revenue Passenger Mile (Algo Trading)"
-description: "Explore how Revenue Passenger Mile (RPM) and algorithmic trading transform airline industry efficiency by optimizing operations and enhancing investment strategies."
+category: quant_concept
+description: Explore how Revenue Passenger Mile (RPM) and algorithmic trading transform
+  airline industry efficiency by optimizing operations and enhancing investment strategies.
+title: Revenue Passenger Mile (Algo Trading)
 ---
 
 In the airline industry, key performance metrics are crucial for assessing efficiency and profitability. One such metric is the Revenue Passenger Mile (RPM), which serves as a vital indicator of the industry's health. RPM is defined as the total number of miles traveled by paying passengers and is calculated by multiplying the number of revenue-paying passengers by the distance they travel. This measurement provides insights into passenger traffic volume, market demand, and operational efficiency.

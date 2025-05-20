@@ -1,6 +1,8 @@
 ---
-title: "Impact of Price Inelasticity on Consumer Demand (Algo Trading)"
-description: "Explore how price inelasticity affects consumer demand and its impact on economic strategies and algorithmic trading in today's financial markets."
+category: quant_concept
+description: Explore how price inelasticity affects consumer demand and its impact
+  on economic strategies and algorithmic trading in today's financial markets.
+title: Impact of Price Inelasticity on Consumer Demand (Algo Trading)
 ---
 
 In today's financial markets, understanding the nuances of consumer demand, economic impacts, and algorithmic trading is critical. This article explores the relationship between price inelasticity of consumer demand, its economic impact, and how these factors can be leveraged in algorithmic trading.

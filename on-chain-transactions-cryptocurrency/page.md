@@ -1,6 +1,8 @@
 ---
-title: "On-Chain Transactions in Cryptocurrency (Algo Trading)"
-description: "Explore how on-chain transactions and algorithmic trading redefine cryptocurrency dynamics with blockchain security and automated strategies for optimal trading."
+category: quant_concept
+description: Explore how on-chain transactions and algorithmic trading redefine cryptocurrency
+  dynamics with blockchain security and automated strategies for optimal trading.
+title: On-Chain Transactions in Cryptocurrency (Algo Trading)
 ---
 
 The digital transformation of financial markets has been significantly shaped by the advent of blockchain technology and cryptocurrencies, ushering in a new era of decentralized financial systems. Blockchain, a distributed ledger technology, underpins cryptocurrencies by providing a secure, transparent means of recording transactions, free from the control of any single authority. Cryptocurrencies, digital assets based on this technology, have facilitated the rise of a global, borderless financial ecosystem.

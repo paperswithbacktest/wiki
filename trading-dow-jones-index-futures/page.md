@@ -1,6 +1,8 @@
 ---
-title: "Trading Dow Jones Index Futures (Algo Trading)"
-description: "Explore the dynamics of trading Dow Jones Index futures and harness the power of algorithmic trading strategies for efficient and competitive market engagement."
+category: trading_strategy
+description: Explore the dynamics of trading Dow Jones Index futures and harness the
+  power of algorithmic trading strategies for efficient and competitive market engagement.
+title: Trading Dow Jones Index Futures (Algo Trading)
 ---
 
 Futures trading is a sophisticated financial mechanism that involves contracts obligating the exchange of an asset at a predetermined future date and price. One crucial facet of this market is trading futures on indices such as the Dow Jones Industrial Average (DJIA). DJIA futures provide investors with a unique opportunity to speculate on the direction of one of the world's most renowned stock market indices. The Dow Jones serves as a significant benchmark of the American stock market's health, often reflecting broader economic trends due to its incorporation of 30 large, publicly-owned companies based in the United States. These companies span diverse sectors, making the index a balanced indicator of market performance.

@@ -1,6 +1,8 @@
 ---
-title: "trade scheduling (Algo Trading)"
-description: "Optimize large order execution with trade scheduling in algorithmic trading to minimize market impact and lower costs using strategic, time-segmented trades."
+category: trading_strategy
+description: Optimize large order execution with trade scheduling in algorithmic trading
+  to minimize market impact and lower costs using strategic, time-segmented trades.
+title: trade scheduling (Algo Trading)
 ---
 
 Trade scheduling in algorithmic trading is a fundamental mechanism designed to handle the execution of large orders efficiently by segmenting them into smaller, more manageable trades over a designated timeframe. This approach boosts trading efficiency and efficacy by minimizing market impact and lowering execution costs. Algorithmic trading, or algo trading, has transformed the financial industry by using computer algorithms to automate trading decisions, leading to faster and more precise transactions.

@@ -1,6 +1,9 @@
 ---
-title: "Investment Strategies During Increasing Interest Rates (Algo Trading)"
-description: "Optimize your investment strategy with insights into algorithmic trading and interest rate fluctuations. Enhance decision-making and risk management in evolving markets."
+category: trading_strategy
+description: Optimize your investment strategy with insights into algorithmic trading
+  and interest rate fluctuations. Enhance decision-making and risk management in evolving
+  markets.
+title: Investment Strategies During Increasing Interest Rates (Algo Trading)
 ---
 
 The landscape of investing has significantly evolved with the advancements in algorithmic trading, fluctuations in interest rates, and the development of intricate financial strategies. These components are increasingly vital for modern investors who aim to optimize their portfolios.

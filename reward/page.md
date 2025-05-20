@@ -1,7 +1,8 @@
 ---
-title: Understanding Reward Functions in Reinforcement Learning
+category: quant_concept
 description: Reward Function in reinforcement learning guides agents to choose optimal
   actions with feedback on immediate and delayed rewards Discover more inside
+title: Understanding Reward Functions in Reinforcement Learning
 ---
 
 ![Image](images/1.png)

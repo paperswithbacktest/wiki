@@ -1,6 +1,8 @@
 ---
-title: "Crapo Bill Overview and Criticism (Algo Trading)"
-description: "Explore the impact of the Crapo Bill's reforms on financial markets and algorithmic trading strategies. Understand criticisms and economic implications."
+category: quant_concept
+description: Explore the impact of the Crapo Bill's reforms on financial markets and
+  algorithmic trading strategies. Understand criticisms and economic implications.
+title: Crapo Bill Overview and Criticism (Algo Trading)
 ---
 
 The Crapo Bill represents a significant legislative effort aimed at reforming the financial sector. Officially enacted as the Economic Growth, Regulatory Relief, and Consumer Protection Act in 2018, it was introduced by Senator Mike Crapo with the primary objective of adjusting the regulatory framework established by the Dodd-Frank Wall Street Reform and Consumer Protection Act. This bill has been both supported and criticized for altering the delicate balance of financial oversight aimed at preventing systemic risks and promoting growth. 

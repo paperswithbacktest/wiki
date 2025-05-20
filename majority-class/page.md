@@ -1,7 +1,8 @@
 ---
-title: Majority Class in Machine Learning and Balancing Strategies
+category: quant_concept
 description: Majority class imbalance can skew model performance and bias results
   use identification and balancing techniques to improve fairness Discover more inside.
+title: Majority Class in Machine Learning and Balancing Strategies
 ---
 
 ![Image](images/1.png)

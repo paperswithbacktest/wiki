@@ -1,6 +1,8 @@
 ---
-title: "Economic Forecasting and Indicators (Algo Trading)"
-description: "Explore the application of economic forecasting and indicators in algorithmic trading. Learn how GDP, inflation, and unemployment data drive predictive models."
+category: trading_strategy
+description: Explore the application of economic forecasting and indicators in algorithmic
+  trading. Learn how GDP, inflation, and unemployment data drive predictive models.
+title: Economic Forecasting and Indicators (Algo Trading)
 ---
 
 Economic forecasting is a crucial process involving the prediction of future economic conditions through the analysis of key economic indicators. These indicators, such as GDP growth, inflation rates, and unemployment figures, provide valuable insights that are fundamental to various economic decisions. This article examines how these indicators are applied in algorithmic trading, where predictive models and real-time data are utilized to inform trading strategies.

@@ -1,6 +1,8 @@
 ---
-title: "Value in Business and Finance (Algo Trading)"
-description: "Discover how algorithmic trading enhances value in finance through speed, precision, and advanced strategies, empowering investors to maximize returns."
+category: trading_strategy
+description: Discover how algorithmic trading enhances value in finance through speed,
+  precision, and advanced strategies, empowering investors to maximize returns.
+title: Value in Business and Finance (Algo Trading)
 ---
 
 In today's fast-paced financial markets, algorithmic trading plays a pivotal role in shaping successful trading strategies. By leveraging complex algorithms, traders are able to execute trades with remarkable speed and precision. This technological advancement not only optimizes trading efficiency but also profoundly impacts the broader financial landscape.

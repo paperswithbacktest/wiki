@@ -1,6 +1,10 @@
 ---
-title: "Impact of Kamala Harris's Economic Plan (Algo Trading)"
-description: "Explore how Kamala Harris's economic plan impacts algorithmic trading and the broader US economy. Analyze its influence on financial strategies, economic growth, and policy outcomes, understanding its potential to foster equitable growth and address income disparities."
+category: quant_concept
+description: Explore how Kamala Harris's economic plan impacts algorithmic trading
+  and the broader US economy. Analyze its influence on financial strategies, economic
+  growth, and policy outcomes, understanding its potential to foster equitable growth
+  and address income disparities.
+title: Impact of Kamala Harris's Economic Plan (Algo Trading)
 ---
 
 The economic landscape of the United States is continually evolving, shaped by influential leaders and their policy initiatives. Kamala Harris, as Vice President, stands at the forefront of this transformation, with her economic plan drawing considerable attention and analysis. Her approach is seen as pivotal in determining the future trajectory of the nation's economy.

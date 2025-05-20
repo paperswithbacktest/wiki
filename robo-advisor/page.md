@@ -1,6 +1,9 @@
 ---
-title: "Robo-Advisor (Algo Trading)"
-description: "Explore the rise of robo-advisors and algorithmic trading in finance, showcasing their efficiency and accessibility while highlighting potential risks and benefits."
+category: trading_strategy
+description: Explore the rise of robo-advisors and algorithmic trading in finance,
+  showcasing their efficiency and accessibility while highlighting potential risks
+  and benefits.
+title: Robo-Advisor (Algo Trading)
 ---
 
 Automation is fundamentally transforming the financial services industry, significantly enhancing accessibility and affordability of investment guidance to a broader audience. Central to this transformation are robo-advisors and algorithmic trading platforms, which are reshaping wealth management and personal finance. These automated solutions are becoming increasingly popular due to their efficiency and ability to provide personalized investment strategies with minimal human intervention.

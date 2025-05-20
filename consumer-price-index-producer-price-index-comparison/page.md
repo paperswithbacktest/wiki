@@ -1,6 +1,11 @@
 ---
-title: "Consumer Price Index and Producer Price Index Comparison (Algo Trading)"
-description: "Explore how integrating Consumer Price Index (CPI) and Producer Price Index (PPI) data into algorithmic trading strategies can enhance financial decision-making. Understand these indices' roles in gauging inflation and their impact on economic health, with insights into how CPI and PPI fluctuations influence market dynamics and inform strategic trading approaches."
+category: quant_concept
+description: Explore how integrating Consumer Price Index (CPI) and Producer Price
+  Index (PPI) data into algorithmic trading strategies can enhance financial decision-making.
+  Understand these indices' roles in gauging inflation and their impact on economic
+  health, with insights into how CPI and PPI fluctuations influence market dynamics
+  and inform strategic trading approaches.
+title: Consumer Price Index and Producer Price Index Comparison (Algo Trading)
 ---
 
 The Consumer Price Index (CPI) and the Producer Price Index (PPI) are pivotal metrics in assessing the economic health of a nation. The CPI measures the average change over time in the prices paid by urban consumers for a market basket of consumer goods and services. It serves as a crucial indicator of inflation, reflecting the cost of living and purchasing power within an economy. In contrast, the PPI measures the average change in selling prices received by domestic producers for their output. It provides insights into the supply-side price changes, often serving as a precursor to consumer price shifts since it captures price changes at an earlier stage in the production and distribution cycle.

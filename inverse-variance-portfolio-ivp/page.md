@@ -1,6 +1,13 @@
 ---
-title: "Inverse-Variance Portfolio (IVP) (Algo Trading)"
-description: Explore the Inverse-Variance Portfolio strategy that enhances returns by minimizing risk through diversified asset allocation in algorithmic trading. This approach leverages the low-volatility anomaly by allocating weights inversely proportional to asset variances. Discover how IVP compares with other optimization techniques like Hierarchical Risk Parity and Markowitz, highlighting its simplicity and efficiency in modern trading. Learn about its implementation using Python and gain insights into creating robust portfolios in dynamic market conditions.
+category: trading_strategy
+description: Explore the Inverse-Variance Portfolio strategy that enhances returns
+  by minimizing risk through diversified asset allocation in algorithmic trading.
+  This approach leverages the low-volatility anomaly by allocating weights inversely
+  proportional to asset variances. Discover how IVP compares with other optimization
+  techniques like Hierarchical Risk Parity and Markowitz, highlighting its simplicity
+  and efficiency in modern trading. Learn about its implementation using Python and
+  gain insights into creating robust portfolios in dynamic market conditions.
+title: Inverse-Variance Portfolio (IVP) (Algo Trading)
 ---
 
 In quantitative finance, portfolio optimization is vital for enhancing returns while managing risk. The Inverse-Variance Portfolio (IVP) is an approach widely used in algorithmic trading for creating diversified portfolios. By allocating weights inversely proportional to the variance of asset returns, IVP seeks to maximize diversification and minimize volatility. This method is based on the low-volatility anomaly, which suggests that low-volatility assets tend to produce superior risk-adjusted returns compared to their high-volatility counterparts.

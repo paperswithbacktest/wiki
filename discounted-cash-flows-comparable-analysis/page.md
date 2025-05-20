@@ -1,6 +1,8 @@
 ---
-title: "Discounted Cash Flows and Comparable Analysis (Algo Trading)"
-description: "Explore financial valuation with DCF and CCA methods along with algorithmic trading strategies to enhance investment decisions and navigate market complexities."
+category: quant_concept
+description: Explore financial valuation with DCF and CCA methods along with algorithmic
+  trading strategies to enhance investment decisions and navigate market complexities.
+title: Discounted Cash Flows and Comparable Analysis (Algo Trading)
 ---
 
 Valuation methods are fundamental tools for financial analysts, providing a structured approach to determining a company's worth. Among the many techniques available, Discounted Cash Flows (DCF), Comparable Company Analysis (CCA), and algorithmic trading have emerged as pivotal components of the investment landscape. Each method offers unique strengths and weaknesses, enabling a tailored assessment to guide investment decisions.

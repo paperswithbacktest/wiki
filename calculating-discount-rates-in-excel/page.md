@@ -1,6 +1,12 @@
 ---
-title: "Calculating Discount Rates in Excel (Algo Trading)"
-description: "Learn how to effectively calculate discount rates using Excel in algorithmic trading and financial analysis. Explore essential concepts such as net present value and internal rate of return, while leveraging Excel’s powerful functionalities to enhance trading strategies and financial models. Optimize investment decisions by understanding and applying the appropriate discount rates tailored for algorithmic trading environments."
+category: quant_concept
+description: Learn how to effectively calculate discount rates using Excel in algorithmic
+  trading and financial analysis. Explore essential concepts such as net present value
+  and internal rate of return, while leveraging Excel’s powerful functionalities to
+  enhance trading strategies and financial models. Optimize investment decisions by
+  understanding and applying the appropriate discount rates tailored for algorithmic
+  trading environments.
+title: Calculating Discount Rates in Excel (Algo Trading)
 ---
 
 In modern trading, financial calculations are crucial as they underpin decision-making processes and risk management strategies. With the complex and dynamic nature of financial markets, precise calculations are necessary to assess the value of investments, forecast future trends, and develop strategic advantages. These calculations are essential for the evaluation of profitability and risk, ultimately guiding traders and investors in optimizing their portfolios.

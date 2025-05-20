@@ -1,6 +1,8 @@
 ---
-title: "Plus Tick: Mechanism and Regulations (Algo Trading)"
-description: "Explore the intricate world of algorithmic trading and the plus tick rule Discover their significance and the evolving regulations ensuring market stability"
+category: quant_concept
+description: Explore the intricate world of algorithmic trading and the plus tick
+  rule Discover their significance and the evolving regulations ensuring market stability
+title: 'Plus Tick: Mechanism and Regulations (Algo Trading)'
 ---
 
 In the fast-evolving world of financial markets, trading regulations are pivotal in ensuring stability and fairness. These regulations encompass a comprehensive framework that governs the operations and behaviors within markets, particularly focusing on stock trading, the plus tick rule, and algorithmic trading. As stock trading forms the backbone of capital markets, specific regulations aim to protect investors and maintain market integrity. The plus tick rule, although historically linked to short-selling limitations, continues to bear significance through its evolved forms, promoting orderly market conditions.

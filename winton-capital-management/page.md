@@ -1,6 +1,8 @@
 ---
-title: "Winton Capital Management (Algo Trading)"
-description: "Explore Winton Capital Management's innovative approach to algorithmic trading leveraging data analysis and technology to revolutionize investment strategies."
+category: trading_strategy
+description: Explore Winton Capital Management's innovative approach to algorithmic
+  trading leveraging data analysis and technology to revolutionize investment strategies.
+title: Winton Capital Management (Algo Trading)
 ---
 
 Winton Capital Management is a prominent quantitative investment management firm founded by David Harding in 1997. The firm has established itself as a significant player in the financial world by leveraging sophisticated data analysis techniques and algorithms to drive investment decisions. Through a focus on scientific research, Winton has fundamentally transformed investment strategies, highlighting its influence on global financial markets.

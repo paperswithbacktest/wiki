@@ -1,6 +1,9 @@
 ---
-title: "Factors Influencing Higher Yields in Preferred vs. Common Stocks (Algo Trading)"
-description: "Explore how algorithmic trading enhances yield comparisons in preferred and common stocks, offering unique advantages to optimize portfolio decisions and align financial goals."
+category: quant_concept
+description: Explore how algorithmic trading enhances yield comparisons in preferred
+  and common stocks, offering unique advantages to optimize portfolio decisions and
+  align financial goals.
+title: Factors Influencing Higher Yields in Preferred vs. Common Stocks (Algo Trading)
 ---
 
 The world of stock investing offers diverse opportunities for investors, yet it is fraught with challenges that can be daunting. Two prominent forms of stock that investors often encounter are preferred and common stocks, each offering unique benefits and risks. Preferred stocks provide a more stable income due to their fixed dividends and priority over common stock in dividend payments and during liquidation events. Common stocks, on the other hand, offer the potential for capital appreciation and typically include voting rights that allow investors some influence over corporate governance.

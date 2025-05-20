@@ -1,6 +1,8 @@
 ---
-title: "Rule 48 in Financial Markets (Algo Trading)"
-description: "Explore Rule 48, a NYSE mechanism for managing market volatility, alongside the impact of algorithmic trading on financial markets and stock exchanges."
+category: trading_strategy
+description: Explore Rule 48, a NYSE mechanism for managing market volatility, alongside
+  the impact of algorithmic trading on financial markets and stock exchanges.
+title: Rule 48 in Financial Markets (Algo Trading)
 ---
 
 The financial markets are integral to the global economy, serving as conduits for the exchange of assets including stocks, bonds, currencies, and derivatives. These platforms empower economic growth by enabling capital acquisition, risk distribution, and facilitation of international trade. Within this intricate ecosystem, stock exchanges hold a pivotal role, providing venues for buying and selling public company shares. Notably, the New York Stock Exchange (NYSE) is a leading institution in establishing liquidity and determining transparent securities pricing.

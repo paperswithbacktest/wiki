@@ -1,6 +1,9 @@
 ---
-title: "Accumulated Depreciation (Algo Trading)"
-description: "Discover how accounting asset valuation and depreciation impact algorithmic trading strategies by integrating financial data with trading algorithms for optimal results."
+category: quant_concept
+description: Discover how accounting asset valuation and depreciation impact algorithmic
+  trading strategies by integrating financial data with trading algorithms for optimal
+  results.
+title: Accumulated Depreciation (Algo Trading)
 ---
 
 In the modern financial landscape, the convergence of accounting principles and algorithmic trading is reshaping how market participants approach investment strategies. Accounting asset value and depreciation are two pivotal concepts traditionally rooted in financial reporting, influencing not just balance sheets but also the dynamic world of algorithmic trading. The increasing complexity of financial markets and the advances in computational technology have underscored the importance of integrating financial data with trading algorithms, necessitating a robust understanding of these accounting principles.
@@ -157,4 +160,3 @@ This convergence between accounting and technology is an opportunity for market 
    - "The Accounting Review" publishes relevant research findings that elucidate the nuances of accounting principles and their implications for financial decision-making and strategy formulation. 
 
 These resources provide a foundational understanding and more advanced knowledge for those interested in accounting, asset valuation, and the technical aspects of algorithmic trading.
-

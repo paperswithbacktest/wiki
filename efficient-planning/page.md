@@ -1,7 +1,8 @@
 ---
-title: Prioritized Sweeping for Efficient Reinforcement Learning
+category: quant_concept
 description: Prioritized Sweeping optimizes reinforcement learning by focusing updates
   on high impact states to cut training time and resource use. Discover more inside.
+title: Prioritized Sweeping for Efficient Reinforcement Learning
 ---
 
 ![Image](images/1.jpeg)

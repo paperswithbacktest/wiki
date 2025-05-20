@@ -1,6 +1,9 @@
 ---
-title: "Registered Bond: Definition and Function (Algo Trading)"
-description: "Explore the definition and function of registered bonds in financial markets and how algorithmic trading influences bond trading efficiency and risk management."
+category: quant_concept
+description: Explore the definition and function of registered bonds in financial
+  markets and how algorithmic trading influences bond trading efficiency and risk
+  management.
+title: 'Registered Bond: Definition and Function (Algo Trading)'
 ---
 
 Financial securities represent a broad category of financial instruments that hold value and can be traded between parties in financial markets. These securities can be categorized into equity securities, like stocks, and debt securities, such as bonds. Bonds, as a form of financial security, play a critical role in investment portfolios due to their relatively stable and predictable income streams. They are essentially loans made by an investor to a borrower, typically a corporation or government entity, which pays periodic interest and returns the principal at maturity. Bonds help diversify investment portfolios, mitigating risk by providing a counterbalance to more volatile equity investments.

@@ -1,6 +1,8 @@
 ---
-title: "Quarter-on-Quarter Analysis and Calculation (Algo Trading)"
-description: "Explore how Quarter-on-Quarter analysis enhances algo trading by offering insights into short-term financial trends and seasonal fluctuations in market performance."
+category: quant_concept
+description: Explore how Quarter-on-Quarter analysis enhances algo trading by offering
+  insights into short-term financial trends and seasonal fluctuations in market performance.
+title: Quarter-on-Quarter Analysis and Calculation (Algo Trading)
 ---
 
 In today's fast-paced financial markets, understanding the nuances of financial calculations and analyses is crucial. Quarter-on-Quarter (QoQ) analysis stands out as a vital method for assessing short-term shifts in a company's financial performance. Unlike Year-over-Year (YoY) comparisons that focus on annual changes, QoQ analysis measures consecutive quarters, offering a more granular view of recent performance trends. This is especially useful for detecting seasonal influences and recent business cycle changes which are key to making informed investment decisions.

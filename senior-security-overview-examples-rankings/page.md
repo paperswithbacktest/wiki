@@ -1,6 +1,8 @@
 ---
-title: "Senior Security: Overview, Examples, and Rankings (Algo Trading)"
-description: "Explore senior securities a safer investment option in algo trading due to their priority in repayment. Learn their importance rankings and impact on strategies."
+category: quant_concept
+description: Explore senior securities a safer investment option in algo trading due
+  to their priority in repayment. Learn their importance rankings and impact on strategies.
+title: 'Senior Security: Overview, Examples, and Rankings (Algo Trading)'
 ---
 
 The world of finance is complex, featuring a multitude of instruments that cater to varying levels of risk and return preferences. Senior securities are one such class of financial instruments, occupying a distinct position in the hierarchy of claims against a company's assets or earnings. These securities are crucial components in the financial ecosystem due to their priority in repayment, which provides a relatively safer investment avenue in comparison to their junior counterparts.

@@ -1,6 +1,9 @@
 ---
-title: "Deferred Month (Algo Trading)"
-description: "Explore the role of deferred month contracts in algorithmic trading to manage risk and enhance strategies using long-term financial planning and market analysis."
+category: quant_concept
+description: Explore the role of deferred month contracts in algorithmic trading to
+  manage risk and enhance strategies using long-term financial planning and market
+  analysis.
+title: Deferred Month (Algo Trading)
 ---
 
 In this article, we explore important themes surrounding deferred month contracts in algorithmic trading, highlighting key financial concepts crucial for traders. Deferred month futures contracts, often referred to as "deferred months," represent agreements with expiration dates set significantly in the future compared to contracts known as "front month" contracts, which are nearing expiration. 

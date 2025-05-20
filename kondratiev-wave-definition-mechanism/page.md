@@ -1,6 +1,9 @@
 ---
-title: "Kondratiev Wave: Definition and Mechanism (Algo Trading)"
-description: "Explore Kondratiev Waves to understand long-term economic cycles and their impact on algo trading Gain insights into strategic investment informed by macroeconomic trends"
+category: quant_concept
+description: Explore Kondratiev Waves to understand long-term economic cycles and
+  their impact on algo trading Gain insights into strategic investment informed by
+  macroeconomic trends
+title: 'Kondratiev Wave: Definition and Mechanism (Algo Trading)'
 ---
 
 Kondratiev Waves, named after the Russian economist Nikolai Kondratiev, represent long-term economic cycles that span approximately 40 to 60 years. These waves describe the highs and lows of global economic growth and are characterized by alternating periods of strong growth followed by stagnation or recession. The concept is pivotal in understanding the deeper, more predictable rhythms influencing economic trends beyond the short-term fluctuations that typically garner attention.

@@ -1,6 +1,9 @@
 ---
-title: "OneChicago Exchange (Algo Trading)"
-description: "Explore the impact of algorithmic trading on financial markets, featuring OneChicago's use of advanced tech in single-stock futures for efficient, high-speed trades."
+category: quant_concept
+description: Explore the impact of algorithmic trading on financial markets, featuring
+  OneChicago's use of advanced tech in single-stock futures for efficient, high-speed
+  trades.
+title: OneChicago Exchange (Algo Trading)
 ---
 
 Algorithmic trading, commonly known as algo trading, has fundamentally transformed financial markets by enabling automated trade execution at exceptional speeds using sophisticated computer algorithms. These algorithms are designed to analyze multiple market variables and execute trades based on predetermined criteria such as price, timing, and volume. The implementation of algorithmic trading strategies reduces transaction costs, minimizes latency, and enhances the precision of trade execution, thereby increasing the overall market efficiency. 

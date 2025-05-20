@@ -1,6 +1,9 @@
 ---
-title: "Flexible Fund: Definition and Operation (Algo Trading)"
-description: "Explore how flexible fund management combined with algorithmic trading is revolutionizing investment strategies by leveraging adaptability and precision for enhanced returns."
+category: quant_concept
+description: Explore how flexible fund management combined with algorithmic trading
+  is revolutionizing investment strategies by leveraging adaptability and precision
+  for enhanced returns.
+title: 'Flexible Fund: Definition and Operation (Algo Trading)'
 ---
 
 In the rapidly evolving landscape of finance, the convergence of flexible fund management and algorithmic trading is reshaping investment strategies. Flexible fund management provides portfolio managers with the ability to allocate investments dynamically across a broad range of asset classes, without the constraints often associated with traditional funds, which tend to adhere to specific investment styles or categories. This adaptability allows for more responsive investing in changing market conditions.

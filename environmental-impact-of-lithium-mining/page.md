@@ -1,6 +1,9 @@
 ---
-title: "Environmental Impact of Lithium Mining (Algo Trading)"
-description: "Explore the environmental impact of lithium mining and how algorithmic trading can identify sustainable ventures. Discover the balance between green tech and mining challenges."
+category: quant_concept
+description: Explore the environmental impact of lithium mining and how algorithmic
+  trading can identify sustainable ventures. Discover the balance between green tech
+  and mining challenges.
+title: Environmental Impact of Lithium Mining (Algo Trading)
 ---
 
 The intersection of sustainability and lithium mining's environmental impact has become increasingly complex as the global demand for lithium intensifies. Lithium, a critical component in rechargeable batteries, is key to advancing green technologies such as electric vehicles (EVs) and renewable energy storage systems. However, the extraction and processing of lithium present significant environmental challenges, including substantial CO2 emissions and extensive water usage, raising critical questions about the reconciliation of lithium mining with broader sustainability goals.

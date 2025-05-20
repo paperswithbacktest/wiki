@@ -1,6 +1,14 @@
 ---
-title: "HFT with Sklearn and Python (Algo Trading)"
-description: Explore the integration of Python and scikit-learn in high-frequency trading (HFT) for developing sophisticated trading algorithms. Learn how these tools enhance trading strategies through predictive models, utilizing market data to identify opportunities within the fast-paced financial markets. This comprehensive guide covers building HFT systems, including data feeds, signal generation, and risk management, with step-by-step examples for implementing sklearn in trading models. Leverage the power of machine learning to improve trading efficiency and decision-making in the competitive HFT environment.
+category: trading_strategy
+description: Explore the integration of Python and scikit-learn in high-frequency
+  trading (HFT) for developing sophisticated trading algorithms. Learn how these tools
+  enhance trading strategies through predictive models, utilizing market data to identify
+  opportunities within the fast-paced financial markets. This comprehensive guide
+  covers building HFT systems, including data feeds, signal generation, and risk management,
+  with step-by-step examples for implementing sklearn in trading models. Leverage
+  the power of machine learning to improve trading efficiency and decision-making
+  in the competitive HFT environment.
+title: HFT with Sklearn and Python (Algo Trading)
 ---
 
 High-frequency trading (HFT) has become an integral component of modern financial markets, driving significant changes in how trading is conducted. HFT utilizes sophisticated technological tools and computer algorithms to execute a large number of orders within fractions of a second. This rapid trading capability enables firms to capitalize on even the smallest price discrepancies that exist within the market, thus enhancing liquidity and tightening bid-ask spreads.

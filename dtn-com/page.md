@@ -1,6 +1,14 @@
 ---
-title: "DTN.com (Algo Trading)"
-description: DTN.com offers essential solutions for algorithmic traders through its IQFeed service, providing reliable real-time and historical market data across multiple asset classes. The service is noted for its robust data infrastructure, minimal latency, and broad compatibility with popular trading platforms, making it an ideal choice for developing and optimizing trading strategies. With comprehensive data coverage and advanced technical tools, IQFeed empowers traders to execute informed decisions swiftly, enhancing strategy efficacy and adaptability in diverse market environments.
+category: dataset
+description: DTN.com offers essential solutions for algorithmic traders through its
+  IQFeed service, providing reliable real-time and historical market data across multiple
+  asset classes. The service is noted for its robust data infrastructure, minimal
+  latency, and broad compatibility with popular trading platforms, making it an ideal
+  choice for developing and optimizing trading strategies. With comprehensive data
+  coverage and advanced technical tools, IQFeed empowers traders to execute informed
+  decisions swiftly, enhancing strategy efficacy and adaptability in diverse market
+  environments.
+title: DTN.com (Algo Trading)
 ---
 
 In the fast-paced world of algorithmic trading, having access to reliable and comprehensive market data is essential for making informed decisions. Accurate data streams can mean the difference between a successful strategy and a lost opportunity. DTN.com, through its IQFeed service, is a well-regarded provider delivering real-time and historical data solutions specifically designed for traders and financial analysts. Such data is pivotal in developing and optimizing trading algorithms, which can process vast amounts of information far quicker than human capabilities.

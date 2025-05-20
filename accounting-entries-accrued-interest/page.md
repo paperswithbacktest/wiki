@@ -1,6 +1,9 @@
 ---
-title: "Accounting Entries for Accrued Interest (Algo Trading)"
-description: "Enhance your algorithmic trading strategy by mastering accounting entries for accrued interest Learn how automation ensures precise financial tracking and reporting"
+category: quant_concept
+description: Enhance your algorithmic trading strategy by mastering accounting entries
+  for accrued interest Learn how automation ensures precise financial tracking and
+  reporting
+title: Accounting Entries for Accrued Interest (Algo Trading)
 ---
 
 Financial accounting is a vital aspect of any trading strategy, particularly in algorithmic trading, where precision and accuracy play crucial roles. As the speed and volume of transactions increase, understanding and accurately managing financial elements becomes imperative. One such critical financial concept is accrued interest, which refers to the interest that has accumulated on a financial instrument since the last payment period but has not yet been paid.

@@ -1,6 +1,8 @@
 ---
-title: "Absolute Breadth Index: Overview and Application (Algo Trading)"
-description: "Discover how the Absolute Breadth Index is used to gauge market volatility without predicting direction vital for algorithmic trading and market strategy."
+category: quant_concept
+description: Discover how the Absolute Breadth Index is used to gauge market volatility
+  without predicting direction vital for algorithmic trading and market strategy.
+title: 'Absolute Breadth Index: Overview and Application (Algo Trading)'
 ---
 
 The Absolute Breadth Index (ABI) is a critical tool for investors seeking to understand market volatility. It offers a unique perspective by focusing on the breadth of market movements rather than predicting market direction, a characteristic that has earned it the nickname "the going nowhere indicator." Unlike typical financial indicators, which aim to forecast future price movements or trends, the ABI is designed to highlight the extent of market activity in terms of the number of advancing and declining stocks.

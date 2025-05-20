@@ -1,6 +1,9 @@
 ---
-title: "Overview of Coinbase Wallet (Algo Trading)"
-description: "Discover the versatility of Coinbase Wallet for managing digital currencies with secure storage and explore the benefits of algorithmic trading for optimized investments."
+category: dataset
+description: Discover the versatility of Coinbase Wallet for managing digital currencies
+  with secure storage and explore the benefits of algorithmic trading for optimized
+  investments.
+title: Overview of Coinbase Wallet (Algo Trading)
 ---
 
 In today's digital age, cryptocurrency is reshaping how we think about finance and investments. The rise of digital currencies has revolutionized traditional financial systems, leading to new opportunities and challenges for investors. With this burgeoning interest, understanding where and how to securely store these assets has become paramount. Digital currencies, unlike traditional currencies, require specialized storage solutions to protect them against hacking, theft, and loss. 

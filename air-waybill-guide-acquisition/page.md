@@ -1,6 +1,9 @@
 ---
-title: "Air Waybill Guide and Acquisition (Algo Trading)"
-description: "Explore how Air Waybill and algorithmic trading intersect to revolutionize freight transport, enhancing efficiency, reducing costs, and improving logistics processes."
+category: dataset
+description: Explore how Air Waybill and algorithmic trading intersect to revolutionize
+  freight transport, enhancing efficiency, reducing costs, and improving logistics
+  processes.
+title: Air Waybill Guide and Acquisition (Algo Trading)
 ---
 
 The rapid evolution of freight transportation has led to the adoption of advanced tools and methodologies such as Air Waybill (AWB) shipping documentation. An AWB is a critical document that serves as a contract between the shipper and the carrier. This document specifies the shipper's and consignee's details, a description of the goods, and any special handling requirements. As the logistics and freight industry evolves, so does the need for efficient documentation and tracking systems to ensure seamless operations.

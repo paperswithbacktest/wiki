@@ -1,7 +1,8 @@
 ---
-title: Advances in Face Detection with TinaFace and CNN Models
+category: quant_concept
 description: Face detection models use CNNs and datasets like WIDER FACE to locate
   faces in varied conditions with speed and precision Discover more inside
+title: Advances in Face Detection with TinaFace and CNN Models
 ---
 
 ![Image](images/1.jpeg)

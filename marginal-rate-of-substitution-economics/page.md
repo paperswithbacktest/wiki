@@ -1,6 +1,8 @@
 ---
-title: "Marginal Rate of Substitution in Economics (Algo Trading)"
-description: "Explore the intersection of Marginal Rate of Substitution and algorithmic trading See how consumer choice theory impacts trading strategies and market dynamics​."
+category: quant_concept
+description: Explore the intersection of Marginal Rate of Substitution and algorithmic
+  trading See how consumer choice theory impacts trading strategies and market dynamics​.
+title: Marginal Rate of Substitution in Economics (Algo Trading)
 ---
 
 In economics and trading, understanding consumer behavior and market operations is fundamental. One of the key concepts in consumer choice theory is the Marginal Rate of Substitution (MRS), which examines how consumers prioritize and choose between different goods while maintaining consistent satisfaction levels. Simultaneously, algorithmic trading is reshaping financial markets, automating decision-making processes and facilitating more efficient trading practices.

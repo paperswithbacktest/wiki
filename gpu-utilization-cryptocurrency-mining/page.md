@@ -1,6 +1,9 @@
 ---
-title: "GPU Utilization in Cryptocurrency Mining (Algo Trading)"
-description: "Explore how GPU utilization boosts cryptocurrency mining efficiency and enhances algorithmic trading strategies offering insights into the crypto economy's backbone."
+category: quant_concept
+description: Explore how GPU utilization boosts cryptocurrency mining efficiency and
+  enhances algorithmic trading strategies offering insights into the crypto economy's
+  backbone.
+title: GPU Utilization in Cryptocurrency Mining (Algo Trading)
 ---
 
 In recent years, cryptocurrency mining has surged in popularity as a method to generate income. Cryptocurrency mining, particularly GPU-based mining, has emerged as a critical component of the crypto economy. It not only facilitates the infrastructure for validating transactions but also enables miners to earn digital currency rewards. This activity is deeply intertwined with GPU mining hardware, essential for efficiently solving complex cryptographic puzzles that form the backbone of blockchain networks.

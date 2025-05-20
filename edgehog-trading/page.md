@@ -1,6 +1,8 @@
 ---
-title: "Edgehog Trading (Algo Trading)"
-description: "Discover Edgehog Trading a leader in algorithmic trading using advanced technology and analytics to offer faster and more efficient financial market solutions."
+category: trading_strategy
+description: Discover Edgehog Trading a leader in algorithmic trading using advanced
+  technology and analytics to offer faster and more efficient financial market solutions.
+title: Edgehog Trading (Algo Trading)
 ---
 
 Edgehog Trading represents a pioneering force in the field of algorithmic trading, leveraging cutting-edge technology to provide distinct advantages in the financial sector. Algorithmic trading, the process of using computer algorithms to execute trades at rapid speeds and increased efficiency, has gained substantial prominence in modern financial markets. This approach allows traders to capitalize on market opportunities with precision and speed that are unattainable through manual trading methods. 

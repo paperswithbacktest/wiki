@@ -1,6 +1,12 @@
 ---
-title: "Madrid Stock Exchange Computer Assisted Trading System (Algo Trading)"
-description: "Explore the evolution of trading at the Madrid Stock Exchange through the introduction of the Madrid Stock Exchange Computer Assisted Trading System (MSE CATS). Learn how this system revolutionized trading by automating processes reducing human error and increasing market transparency. Discover how MSE CATS set the foundation for modern trading systems by streamlining operations and matching buy and sell orders electronically to enhance efficiency and competitiveness in the stock market."
+category: quant_concept
+description: Explore the evolution of trading at the Madrid Stock Exchange through
+  the introduction of the Madrid Stock Exchange Computer Assisted Trading System (MSE
+  CATS). Learn how this system revolutionized trading by automating processes reducing
+  human error and increasing market transparency. Discover how MSE CATS set the foundation
+  for modern trading systems by streamlining operations and matching buy and sell
+  orders electronically to enhance efficiency and competitiveness in the stock market.
+title: Madrid Stock Exchange Computer Assisted Trading System (Algo Trading)
 ---
 
 The advent of technology has profoundly transformed the trading landscape across global stock exchanges. At the forefront of this transformation was the introduction of Computer Assisted Trading Systems (CATS) in the late 20th century. These systems revolutionized the trading process by automating and streamlining operations, thereby increasing efficiency and reducing human error. One notable early adopter of this technology was the Madrid Stock Exchange (Bolsa de Madrid), which implemented the Madrid Stock Exchange Computer Assisted Trading System (MSE CATS). This platform marked a significant shift towards automated trading by allowing electronic matching of buy and sell orders, facilitating continuous trading and enhancing market transparency.

@@ -1,6 +1,8 @@
 ---
-title: "Kyle’s model (Algo Trading)"
-description: "Explore Kyle's Lambda in trading for better market predictions and cost-effective strategies. Gain a competitive edge by understanding trade impacts."
+category: quant_concept
+description: Explore Kyle's Lambda in trading for better market predictions and cost-effective
+  strategies. Gain a competitive edge by understanding trade impacts.
+title: Kyle’s model (Algo Trading)
 ---
 
 In algorithmic trading, the adoption of innovative strategies like Kyle's Lambda can lead to enhanced trading success. Named after economist Albert S. Kyle, Kyle's Lambda is a crucial metric used to quantify the market impact of sizable trades. By calculating the relationship between order sizes and resulting price changes, it provides insights into how large trades will influence market prices. Understanding this relationship enables traders to make more cost-effective decisions by anticipating the potential costs associated with market impact.

@@ -1,6 +1,9 @@
 ---
-title: "Order book reconstruction (Algo Trading)"
-description: "Order book reconstruction is vital in algorithmic trading providing insights into market depth and dynamics aiding traders in strategy optimization and informed decisions."
+category: quant_concept
+description: Order book reconstruction is vital in algorithmic trading providing insights
+  into market depth and dynamics aiding traders in strategy optimization and informed
+  decisions.
+title: Order book reconstruction (Algo Trading)
 ---
 
 Order book reconstruction is a pivotal process within algorithmic trading, dedicated to recreating the market's depth from granular order-level data. This reconstruction is essential for understanding the market's configuration at any specific moment. By accurately piecing together this data, traders gain a more insightful view of market dynamics, a factor that significantly enriches trading strategies and aids in informed decision-making.

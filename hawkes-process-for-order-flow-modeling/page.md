@@ -1,6 +1,9 @@
 ---
-title: "Hawkes Process for Order Flow Modeling (Algo Trading)"
-description: "Explore how the Hawkes process revolutionizes algorithmic trading with its ability to model market event sequences predicting trade clusters and price dynamics effectively."
+category: quant_concept
+description: Explore how the Hawkes process revolutionizes algorithmic trading with
+  its ability to model market event sequences predicting trade clusters and price
+  dynamics effectively.
+title: Hawkes Process for Order Flow Modeling (Algo Trading)
 ---
 
 In the rapidly changing world of algorithmic trading, mathematical models have become crucial for predicting market behavior with high precision. Among these models, the Hawkes process stands out due to its self-exciting nature, making it particularly effective for modeling market events. Originally used for analyzing seismic activity, this stochastic process is now vital in financial markets for understanding trade sequences and price changes.

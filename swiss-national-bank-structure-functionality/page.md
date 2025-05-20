@@ -1,6 +1,8 @@
 ---
-title: "Swiss National Bank: Structure and Functionality (Algo Trading)"
-description: "Explore the Swiss National Bank's pivotal role in monetary policy and its complex interaction with algorithmic trading affecting global economic stability."
+category: quant_concept
+description: Explore the Swiss National Bank's pivotal role in monetary policy and
+  its complex interaction with algorithmic trading affecting global economic stability.
+title: 'Swiss National Bank: Structure and Functionality (Algo Trading)'
 ---
 
 Central banking and monetary policy are integral to both national and international financial landscapes. They provide the framework for economic stability, influencing a wide range of economic activities from inflation rates to employment levels. In particular, the Swiss National Bank (SNB) serves an important function within this framework. Founded in 1906, the SNB is the central bank of Switzerland, and it plays a crucial role not only in the Swiss economy but also on the global financial stage due to the prominence of the Swiss franc as a stable currency often perceived as a safe haven.

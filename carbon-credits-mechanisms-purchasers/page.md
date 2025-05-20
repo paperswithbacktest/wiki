@@ -1,6 +1,12 @@
 ---
-title: "Carbon Credits: Mechanisms and Purchasers (Algo Trading)"
-description: "Explore the intricate mechanisms of carbon credits and trading, key elements in the fight against climate change. Understand how emission reduction efforts combined with cap-and-trade systems incentivize companies to adopt cleaner technologies. Discover the innovative role of algorithmic trading in carbon markets improving liquidity and efficiency, ultimately guiding sustainable practices in the global economy."
+category: quant_concept
+description: Explore the intricate mechanisms of carbon credits and trading, key elements
+  in the fight against climate change. Understand how emission reduction efforts combined
+  with cap-and-trade systems incentivize companies to adopt cleaner technologies.
+  Discover the innovative role of algorithmic trading in carbon markets improving
+  liquidity and efficiency, ultimately guiding sustainable practices in the global
+  economy.
+title: 'Carbon Credits: Mechanisms and Purchasers (Algo Trading)'
 ---
 
 Emission reduction, carbon credits, and carbon trading are pivotal components in the global effort to mitigate climate change. Emission reduction refers to efforts to decrease the output of greenhouse gases (GHGs), primarily carbon dioxide (CO2), which are a significant driver of global warming. To achieve substantial emission reductions, various initiatives, technologies, and regulatory frameworks are employed across different sectors of the economy.

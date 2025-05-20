@@ -1,6 +1,8 @@
 ---
-title: "History of Monopolies in the United States (Algo Trading)"
-description: "Explore the evolution of monopolies and antitrust laws in the US from the industrial era to modern algorithmic trading challenges in this insightful article."
+category: quant_concept
+description: Explore the evolution of monopolies and antitrust laws in the US from
+  the industrial era to modern algorithmic trading challenges in this insightful article.
+title: History of Monopolies in the United States (Algo Trading)
 ---
 
 Antitrust laws are a cornerstone of economic policy, designed to prevent large businesses from stifling competition and exploiting their market power. Originating as a response to the monopolistic tendencies observed in the late 19th and early 20th centuries, these laws aim to foster a competitive market environment, which is essential for innovation, consumer choice, and fair pricing. Central to these laws is the prevention of monopolies—market conditions where one firm dominates, potentially leading to higher prices, reduced quality, and hindered innovation.

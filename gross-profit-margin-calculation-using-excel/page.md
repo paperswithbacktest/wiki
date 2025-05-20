@@ -1,6 +1,9 @@
 ---
-title: "Gross Profit Margin Calculation Using Excel (Algo Trading)"
-description: "Master gross profit margin calculations in Excel to enhance financial analysis for algorithmic trading Improve decisions with precise cost management insights"
+category: quant_concept
+description: Master gross profit margin calculations in Excel to enhance financial
+  analysis for algorithmic trading Improve decisions with precise cost management
+  insights
+title: Gross Profit Margin Calculation Using Excel (Algo Trading)
 ---
 
 In the rapidly evolving financial landscape, understanding metrics such as gross profit margin is vital for effective financial analysis and decision-making. Gross profit margin is a crucial metric that provides insights into a company's financial health by measuring the percentage of revenue remaining after accounting for the cost of goods sold (COGS). It essentially indicates how efficiently a company is managing its production costs in relation to its revenue, offering a lens into potential areas for improving profitability.

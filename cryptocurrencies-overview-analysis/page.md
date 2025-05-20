@@ -1,6 +1,8 @@
 ---
-title: "Cryptocurrencies: Overview and Analysis (Algo Trading)"
-description: "Discover the impact of cryptocurrencies and blockchain technology on financial markets Explore algorithmic trading and digital investments opportunities"
+category: quant_concept
+description: Discover the impact of cryptocurrencies and blockchain technology on
+  financial markets Explore algorithmic trading and digital investments opportunities
+title: 'Cryptocurrencies: Overview and Analysis (Algo Trading)'
 ---
 
 The rise of cryptocurrencies and blockchain technology has revolutionized the financial landscape, ushering in a new era of digital investments. These digital assets have redefined traditional concepts of currency and ownership, enabling peer-to-peer transactions without the need for intermediaries such as banks. Central to this revolution is Bitcoin, the first and most well-known cryptocurrency, which initiated an exploration into decentralized finance. Yet, the crypto world is not limited to Bitcoin alone. Innovations like Ethereum have introduced programmable smart contracts, expanding potential applications beyond simple monetary transactions.

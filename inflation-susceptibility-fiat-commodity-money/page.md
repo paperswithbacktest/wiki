@@ -1,6 +1,12 @@
 ---
-title: "Inflation Susceptibility of Fiat and Commodity Money (Algo Trading)"
-description: "Explore the effects of inflation on fiat and commodity money, and discover the role of algorithmic trading in modern financial markets. Understand how inflation diminishes currency purchasing power and learn the differences between commodity money with intrinsic value and fiat money backed by government trust. Discover how supply demand impacts inflation and the intertwined relationship between inflation, economic stability, and trading strategies."
+category: quant_concept
+description: Explore the effects of inflation on fiat and commodity money, and discover
+  the role of algorithmic trading in modern financial markets. Understand how inflation
+  diminishes currency purchasing power and learn the differences between commodity
+  money with intrinsic value and fiat money backed by government trust. Discover how
+  supply demand impacts inflation and the intertwined relationship between inflation,
+  economic stability, and trading strategies.
+title: Inflation Susceptibility of Fiat and Commodity Money (Algo Trading)
 ---
 
 Inflation is a key economic concept that refers to the sustained increase in the general price level of goods and services in an economy over a period of time. As prices rise, the purchasing power of currency decreases, meaning that a unit of currency buys fewer goods and services than before. Inflation is usually expressed as an annual percentage rate, and central banks monitor it closely because it affects everything from interest rates to wage negotiations and retirement savings. Its impacts on the economy are profound, affecting various aspects of everyday life and economic stability.

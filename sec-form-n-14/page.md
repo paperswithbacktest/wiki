@@ -1,6 +1,9 @@
 ---
-title: "SEC Form N-14 (Algo Trading)"
-description: "Explore the synergy between SEC Form N-14 and algorithmic trading to understand how investment companies navigate regulatory compliance and leverage advanced trading technologies."
+category: quant_concept
+description: Explore the synergy between SEC Form N-14 and algorithmic trading to
+  understand how investment companies navigate regulatory compliance and leverage
+  advanced trading technologies.
+title: SEC Form N-14 (Algo Trading)
 ---
 
 Understanding complex financial instruments and regulatory filings is crucial for investors seeking to navigate the intricate landscape of financial markets. Investment companies, pivotal players in these markets, are required to adhere to stringent regulatory guidelines set forth by the U.S. Securities and Exchange Commission (SEC). These guidelines necessitate the use of various forms of financial reporting, with SEC Form N-14 being a significant instrument. This document is indispensable for investment companies, particularly in contexts involving mergers, acquisitions, and exchanges of securities. It ensures transparency and protects investors by mandating the disclosure of vital information regarding financial transactions.

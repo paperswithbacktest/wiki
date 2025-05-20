@@ -1,6 +1,13 @@
 ---
-title: "Multi Strategy Management for Your Portfolio"
-description: Explore the benefits of multi-strategy management in algorithmic trading to enhance portfolio resilience and improve returns. By integrating diverse quantitative strategies, traders can achieve strategic diversification and robust risk management. Understand how to capitalize on market inefficiencies while mitigating risks through effective tools like Quantpedia's Pro platform. This approach enables superior risk-adjusted performance and adaptability, ensuring balanced and resilient portfolio outcomes in complex financial markets.
+category: trading_strategy
+description: Explore the benefits of multi-strategy management in algorithmic trading
+  to enhance portfolio resilience and improve returns. By integrating diverse quantitative
+  strategies, traders can achieve strategic diversification and robust risk management.
+  Understand how to capitalize on market inefficiencies while mitigating risks through
+  effective tools like Quantpedia's Pro platform. This approach enables superior risk-adjusted
+  performance and adaptability, ensuring balanced and resilient portfolio outcomes
+  in complex financial markets.
+title: Multi Strategy Management for Your Portfolio
 ---
 
 Algorithmic trading has revolutionized the way financial markets operate by utilizing sophisticated algorithms to execute trading strategies at high speeds and volumes. As the landscape of financial markets becomes more complex, managing a portfolio that incorporates multiple strategies has gained significant importance. This approach, known as multi-strategy management, involves the integration of various quantitative investment strategies to achieve diversification and mitigate risk.

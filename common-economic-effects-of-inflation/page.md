@@ -1,6 +1,9 @@
 ---
-title: "Common Economic Effects of Inflation (Algo Trading)"
-description: "Explore the influence of inflation on economic health and its impact on consumer behavior, business operations, and algorithmic trading strategies in financial markets."
+category: quant_concept
+description: Explore the influence of inflation on economic health and its impact
+  on consumer behavior, business operations, and algorithmic trading strategies in
+  financial markets.
+title: Common Economic Effects of Inflation (Algo Trading)
 ---
 
 Inflation serves as a fundamental economic indicator, signifying the general rise in prices of goods and services over a specific period. This phenomenon diminishes purchasing power, making it an essential parameter for gauging economic health. As inflation impacts the cost of living, investment values, and the overall economic environment, its influence extends to various facets of the economy, including consumer behavior, business operations, and financial markets.

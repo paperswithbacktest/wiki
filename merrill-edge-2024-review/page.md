@@ -1,6 +1,9 @@
 ---
-title: "Merrill Edge 2024 Review (Algo Trading)"
-description: "Explore Merrill Edge's 2024 review focusing on algo trading with no account minimums and $0 commissions on stocks and ETFs offering user-friendly tools and investment options."
+category: trading_strategy
+description: Explore Merrill Edge's 2024 review focusing on algo trading with no account
+  minimums and $0 commissions on stocks and ETFs offering user-friendly tools and
+  investment options.
+title: Merrill Edge 2024 Review (Algo Trading)
 ---
 
 Merrill Edge is an investment platform owned by Bank of America that provides a seamless brokerage experience. Since its launch in 2010, Merrill Edge has offered a combination of self-directed trading and advised investing services, enabling a wide variety of investment strategies for different clients. It distinguishes itself by imposing no account minimums and offering $0 commissions on stock and exchange-traded fund (ETF) trades, thereby making the platform appealing and accessible to a broad range of investors, from beginners to more seasoned market participants.

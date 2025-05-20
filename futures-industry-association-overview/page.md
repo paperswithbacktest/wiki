@@ -1,6 +1,9 @@
 ---
-title: "Futures Industry Association Overview (Algo Trading)"
-description: "Discover how the Futures Industry Association shapes algorithmic trading in futures markets enhancing market efficiency and supporting innovation through global collaboration."
+category: quant_concept
+description: Discover how the Futures Industry Association shapes algorithmic trading
+  in futures markets enhancing market efficiency and supporting innovation through
+  global collaboration.
+title: Futures Industry Association Overview (Algo Trading)
 ---
 
 The rise of algorithmic trading has significantly transformed the financial markets, with profound impacts observed particularly in the futures industry. Algorithmic trading refers to the use of complex algorithms to execute trades at speeds and frequencies that are impossible for human traders. This method leverages computational technology to analyze market data, execute orders, and manage trading risk. As a result, the efficiency and liquidity of markets have been enhanced, benefiting traders and investors alike.

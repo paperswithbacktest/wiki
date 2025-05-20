@@ -1,6 +1,8 @@
 ---
-title: "Largest Mutual Fund Owners of Amazon (Algo Trading)"
-description: "Discover how mutual funds leverage Amazon's market influence and algorithmic trading to optimize investments, reduce costs, and enhance portfolio growth."
+category: dataset
+description: Discover how mutual funds leverage Amazon's market influence and algorithmic
+  trading to optimize investments, reduce costs, and enhance portfolio growth.
+title: Largest Mutual Fund Owners of Amazon (Algo Trading)
 ---
 
 Amazon has emerged as a global retail powerhouse, transforming its stock into a highly attractive commodity for investors. Its evolution from a modest online bookstore into a multifaceted conglomerate with diverse interests—from e-commerce and cloud computing to artificial intelligence and digital streaming—has amplified its market appeal and established it as a leading force in the stock market. This extensive reach has solidified Amazon's status as a staple in modern investment portfolios, often featuring prominently in mutual funds.

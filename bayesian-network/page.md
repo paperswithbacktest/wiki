@@ -1,6 +1,8 @@
 ---
-title: "Bayesian Network (Algo Trading)"
-description: "Bayesian Networks enhance algorithmic trading by modeling probabilistic relationships among market variables improving predictions and decision-making."
+category: quant_concept
+description: Bayesian Networks enhance algorithmic trading by modeling probabilistic
+  relationships among market variables improving predictions and decision-making.
+title: Bayesian Network (Algo Trading)
 ---
 
 Bayesian Networks serve as an indispensable tool in algorithmic trading, providing a sophisticated framework for modeling the probabilistic interrelationships between various market variables. These networks allow traders to systematically account for uncertainty and variability in market data, ultimately enhancing trading strategies and decision-making processes. By leveraging the principles of Bayesian inference, these graphical models enable the continuous adjustment of probability estimates in response to new data, facilitating more accurate predictions and informed trading decisions.

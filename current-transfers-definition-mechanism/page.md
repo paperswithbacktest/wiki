@@ -1,6 +1,9 @@
 ---
-title: "Current Transfers: Definition and Mechanism (Algo Trading)"
-description: "Explore the essential role of current transfers in global economics, fiscal policy, and algorithmic trading. Understand their impact on economic stability and growth."
+category: quant_concept
+description: Explore the essential role of current transfers in global economics,
+  fiscal policy, and algorithmic trading. Understand their impact on economic stability
+  and growth.
+title: 'Current Transfers: Definition and Mechanism (Algo Trading)'
 ---
 
 Economic transfers are fundamental components of financial systems worldwide, influencing fiscal policy, current accounts, and modern trading strategies. These transfers involve the allocation of economic value between entities without a quid pro quo exchange, thereby possessing significant implications for the balance of payments of nations. By focusing on current transfers—non-reciprocal transactions affecting the current account—these processes hold the key to understanding global economic dynamics.

@@ -1,6 +1,8 @@
 ---
-title: "Benefits of Bond Swapping (Algo Trading)"
-description: "Discover the financial advantages of bond swapping and algorithmic trading Explore strategies to enhance yield reduce tax liabilities and optimize portfolios"
+category: trading_strategy
+description: Discover the financial advantages of bond swapping and algorithmic trading
+  Explore strategies to enhance yield reduce tax liabilities and optimize portfolios
+title: Benefits of Bond Swapping (Algo Trading)
 ---
 
 Investment strategies have developed to encompass various methods and tools aiming to augment financial returns. Among these strategies are bond swapping and algorithmic trading, each offering distinct advantages within finance.

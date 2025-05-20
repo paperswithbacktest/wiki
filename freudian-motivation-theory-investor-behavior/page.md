@@ -1,6 +1,9 @@
 ---
-title: "Freudian Motivation Theory and Its Influence on Investor Behavior (Algo Trading)"
-description: "Explore how Freudian Motivation Theory influences investor behavior in algo trading by examining unconscious drives and their impact on decision-making strategies."
+category: quant_concept
+description: Explore how Freudian Motivation Theory influences investor behavior in
+  algo trading by examining unconscious drives and their impact on decision-making
+  strategies.
+title: Freudian Motivation Theory and Its Influence on Investor Behavior (Algo Trading)
 ---
 
 The world of investing is a complex landscape influenced by a multitude of theoretical frameworks that aim to elucidate the underlying behaviors of investors. Among these frameworks, Freudian Motivation Theory and general motivation theory offer distinctive lenses through which to view investor behavior. These concepts have grown increasingly relevant in the context of algorithmic trading, where understanding both unconscious and conscious motivations can significantly impact trading strategies.

@@ -1,6 +1,11 @@
 ---
-title: "Calculation of Combined Ratio (Algo Trading)"
-description: "Explore the intersection of insurance analysis and financial markets by understanding the combined ratio and its role in algorithmic trading. Learn how this critical metric helps gauge insurance profitability and how algorithmic strategies enhance investment decisions using data-driven insights. This article guides investors and insurance companies in navigating complex financial landscapes effectively."
+category: quant_concept
+description: Explore the intersection of insurance analysis and financial markets
+  by understanding the combined ratio and its role in algorithmic trading. Learn how
+  this critical metric helps gauge insurance profitability and how algorithmic strategies
+  enhance investment decisions using data-driven insights. This article guides investors
+  and insurance companies in navigating complex financial landscapes effectively.
+title: Calculation of Combined Ratio (Algo Trading)
 ---
 
 In recent years, the convergence of insurance analysis and financial markets has gained substantial importance. This intersection is primarily due to the need for comprehensive risk management and efficient capital allocation in increasingly complex economic environments. A critical metric in this landscape is the combined ratio, which insurance companies use to gauge their profitability. The combined ratio is defined mathematically as:

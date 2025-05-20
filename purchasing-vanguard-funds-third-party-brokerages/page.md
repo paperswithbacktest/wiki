@@ -1,6 +1,8 @@
 ---
-title: "Purchasing Vanguard Funds Through Third-Party Brokerages (Algo Trading)"
-description: "Explore how to purchase Vanguard funds through third-party brokerages with insights into algorithmic trading for optimizing investment strategies efficiently."
+category: trading_strategy
+description: Explore how to purchase Vanguard funds through third-party brokerages
+  with insights into algorithmic trading for optimizing investment strategies efficiently.
+title: Purchasing Vanguard Funds Through Third-Party Brokerages (Algo Trading)
 ---
 
 Vanguard funds have become a significant force within the investment landscape due to their pioneering approach to offering low-cost index funds. The Vanguard Group, established in 1975 by John C. Bogle, radically transformed the investment industry by advocating for a long-term, low-cost investment strategy that prioritizes investor interests. With a philosophy rooted in the efficient market hypothesis, Vanguard asserted that over the long term, few actively managed funds outperform broad market indices. This led to the introduction of the first index mutual fund available to individual investors, a novelty at that time. Since then, Vanguard has expanded its offerings to include a wide array of financial products, such as mutual funds, exchange-traded funds (ETFs), and other investment assets, collectively managing trillions of dollars globally.

@@ -1,6 +1,8 @@
 ---
-title: "Key Money and Its Practical Applications (Algo Trading)"
-description: "Explore the interplay of key money and algorithmic trading in real estate, highlighting their roles in leasing practices and innovative investment strategies."
+category: quant_concept
+description: Explore the interplay of key money and algorithmic trading in real estate,
+  highlighting their roles in leasing practices and innovative investment strategies.
+title: Key Money and Its Practical Applications (Algo Trading)
 ---
 
 In the complex world of real estate, several practices set the tone for successful relationships between landlords, tenants, and traders. Among these, the concept of key money emerges as a significant element influencing leasing practices. Key money, typically an upfront payment from tenants to landlords, operates as both a facilitative tool in securing property rights and a potential financial barrier in high-demand markets. This payment can affect negotiations and valuation, altering the dynamics of the leasing process.

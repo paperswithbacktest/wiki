@@ -1,6 +1,9 @@
 ---
-title: "Market Indicators of Volatility (Algo Trading)"
-description: "Explore market indicators reflecting volatility crucial for algorithmic trading. Understand economic influences, assess risks, and seize opportunities amid market dynamics."
+category: quant_concept
+description: Explore market indicators reflecting volatility crucial for algorithmic
+  trading. Understand economic influences, assess risks, and seize opportunities amid
+  market dynamics.
+title: Market Indicators of Volatility (Algo Trading)
 ---
 
 The financial markets are constantly influenced by various indicators that reflect economic and market conditions. Investors and traders seek to navigate these markets by analyzing factors that affect price movements and volatility. Volatility, often perceived as a measure of risk, is a key element in understanding market dynamics. It signifies the extent of fluctuations in the price of assets and can be influenced by numerous factors, such as economic data releases, geopolitical events, and changes in market sentiment.

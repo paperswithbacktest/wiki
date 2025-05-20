@@ -1,6 +1,9 @@
 ---
-title: "Lumen (Algo Trading)"
-description: "Discover the fascinating link between lumen measurement in lighting and algorithmic trading Learn how these fields leverage data for optimal outcomes and innovation"
+category: quant_concept
+description: Discover the fascinating link between lumen measurement in lighting and
+  algorithmic trading Learn how these fields leverage data for optimal outcomes and
+  innovation
+title: Lumen (Algo Trading)
 ---
 
 In today's fast-paced and technologically driven world, the role of light and its quantification has expanded beyond their conventional applications. This article examines the intriguing intersection between lumen measurement in lighting systems and algorithmic trading within financial markets. Just as lumens serve as a critical metric for assessing lighting effectiveness, the metaphorical application of light measurement principles in algorithmic trading aims to illuminate pathways that influence both decision-making and profitability.

@@ -1,6 +1,9 @@
 ---
-title: "Legality of Short Selling by Country (Algo Trading)"
-description: "Explore the legal landscape of short selling and algorithmic trading across countries Learn about regulations aimed at maintaining market stability and fairness"
+category: quant_concept
+description: Explore the legal landscape of short selling and algorithmic trading
+  across countries Learn about regulations aimed at maintaining market stability and
+  fairness
+title: Legality of Short Selling by Country (Algo Trading)
 ---
 
 The stock market serves as a complex ecosystem where numerous financial activities transpire, catering to a broad spectrum of trading and investment strategies. This intricate environment accommodates a variety of mechanisms utilized by investors and traders, with short selling and algorithmic trading being particularly significant due to their considerable impact and associated controversies. Short selling involves selling borrowed securities with the aim of buying them back at a lower price, while algorithmic trading uses sophisticated computer programs to execute trades at high speed based on predefined criteria. Both methods have profoundly influenced market dynamics, prompting intense scrutiny and debate.

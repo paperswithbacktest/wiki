@@ -1,6 +1,9 @@
 ---
-title: "Call Away: Meaning and Mechanism (Algo Trading)"
-description: "Understanding the call away mechanism is crucial in options trading and callable bonds as it impacts market dynamics and investment strategies in algorithmic trading."
+category: quant_concept
+description: Understanding the call away mechanism is crucial in options trading and
+  callable bonds as it impacts market dynamics and investment strategies in algorithmic
+  trading.
+title: 'Call Away: Meaning and Mechanism (Algo Trading)'
 ---
 
 In the world of finance, understanding the "call away mechanism" and "call away" is essential for grasping the fundamentals of options trading and the functioning of various financial contracts. These terms primarily relate to the processes involved when options or certain securities—like callable bonds—are exercised or redeemed under specific conditions.

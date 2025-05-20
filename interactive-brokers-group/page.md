@@ -1,6 +1,9 @@
 ---
-title: "Interactive Brokers Group (Algo Trading)"
-description: "Explore the influence of algorithmic trading on modern investing with Interactive Brokers. Learn how these platforms enhance trading efficiency and empower investors."
+category: trading_strategy
+description: Explore the influence of algorithmic trading on modern investing with
+  Interactive Brokers. Learn how these platforms enhance trading efficiency and empower
+  investors.
+title: Interactive Brokers Group (Algo Trading)
 ---
 
 The digital revolution in finance has ushered in significant advancements in the way individuals and institutions engage with financial markets. Among the most influential developments is the rise of online brokerage trading platforms, which have democratized access to financial markets, traditionally a domain reserved for large financial firms and professional traders. These platforms facilitate trading in a wide range of financial instruments, including stocks, options, futures, and forex, providing retail investors with the tools and analytics necessary to make informed investment decisions.

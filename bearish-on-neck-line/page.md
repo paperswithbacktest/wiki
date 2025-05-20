@@ -1,6 +1,12 @@
 ---
-title: "Bearish On-Neck Line Pattern Explained (Algo Trading)"
-description: Explore the Bearish On-Neck Line Pattern used in algorithmic trading, a unique candlestick formation valuable in technical analysis. This guide explains its structure, role in signaling potential downtrend continuations, and strategies to integrate it into automated trading systems. By understanding its formation and trader sentiment implications, enhance your market forecasting and decision-making skills in bearish market conditions.
+category: trading_strategy
+description: Explore the Bearish On-Neck Line Pattern used in algorithmic trading,
+  a unique candlestick formation valuable in technical analysis. This guide explains
+  its structure, role in signaling potential downtrend continuations, and strategies
+  to integrate it into automated trading systems. By understanding its formation and
+  trader sentiment implications, enhance your market forecasting and decision-making
+  skills in bearish market conditions.
+title: Bearish On-Neck Line Pattern Explained (Algo Trading)
 ---
 
 Candlestick patterns have long been a vital tool for traders seeking insights into market dynamics. Serving as visual representations of price movements, these patterns help interpret market sentiments over specific time periods. In algorithmic trading, where data-driven techniques are applied to execute trades, understanding candlestick patterns can enhance decision-making and strategy development. 

@@ -1,6 +1,9 @@
 ---
-title: "Weighted Average of Outstanding Shares (Algo Trading)"
-description: "Explore the significance of calculating the weighted average of outstanding shares in financial analysis and algorithmic trading to enhance decision-making and strategy."
+category: quant_concept
+description: Explore the significance of calculating the weighted average of outstanding
+  shares in financial analysis and algorithmic trading to enhance decision-making
+  and strategy.
+title: Weighted Average of Outstanding Shares (Algo Trading)
 ---
 
 Understanding financial calculations is crucial for investors and companies, particularly regarding outstanding shares and weighted average shares. These concepts provide insight into a company's financial health and are indispensable for evaluating its market position and performance. Outstanding shares denote the total shares a company has issued and are held by various stakeholders, including institutional investors and insiders. This figure influences shareholder equity and the distribution of dividends.

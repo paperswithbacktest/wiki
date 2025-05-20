@@ -1,7 +1,8 @@
 ---
-title: Board Game Modeling In Machine Learning With AlphaZero And MuZero
+category: quant_concept
 description: Board game modeling in machine learning explains how AI uses reinforcement
   learning and MCTS to master games from Chess to Go Discover more inside
+title: Board Game Modeling In Machine Learning With AlphaZero And MuZero
 ---
 
 ![Image](images/1.png)

@@ -1,6 +1,8 @@
 ---
-title: "Comparison of Landlords and REITs: Advantages and Disadvantages (Algo Trading)"
-description: "Discover the pros and cons of direct real estate investment, REITs, and algorithmic trading. Navigate real estate opportunities to optimize your portfolio."
+category: trading_strategy
+description: Discover the pros and cons of direct real estate investment, REITs, and
+  algorithmic trading. Navigate real estate opportunities to optimize your portfolio.
+title: 'Comparison of Landlords and REITs: Advantages and Disadvantages (Algo Trading)'
 ---
 
 The real estate investment landscape offers a myriad of opportunities, each characterized by distinct advantages and challenges. In making strategic decisions, investors frequently encounter three primary avenues: direct real estate investment, Real Estate Investment Trusts (REITs), and algorithmic trading. Each of these strategies presents unique characteristics that can optimize investment returns when comprehensively understood and appropriately leveraged.

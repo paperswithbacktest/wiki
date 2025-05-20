@@ -1,6 +1,9 @@
 ---
-title: "Comparison of Shale Oil and Conventional Oil (Algo Trading)"
-description: "Explore the economic, operational, and environmental differences between shale and conventional oil, and how algo trading reshapes the global oil market landscape."
+category: quant_concept
+description: Explore the economic, operational, and environmental differences between
+  shale and conventional oil, and how algo trading reshapes the global oil market
+  landscape.
+title: Comparison of Shale Oil and Conventional Oil (Algo Trading)
 ---
 
 This article examines the distinct characteristics and economic implications of shale oil compared to conventional oil, highlighting their respective roles within the global energy landscape. Shale oil has risen to prominence primarily due to advancements in hydraulic fracturing technology, also known as fracking. This method has significantly altered the dynamics of oil production, allowing previously inaccessible reserves to be tapped. As a result, the understanding of these differences in oil types is crucial for investors, ensuring informed and strategic decision-making in the commodities market.

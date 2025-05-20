@@ -1,6 +1,8 @@
 ---
-title: "Accounting Principles and Their Implementation in GAAP and IFRS (Algo Trading)"
-description: "Explore the intersection of accounting standards GAAP and IFRS with algorithmic trading in financial markets focusing on transparency and integration challenges."
+category: quant_concept
+description: Explore the intersection of accounting standards GAAP and IFRS with algorithmic
+  trading in financial markets focusing on transparency and integration challenges.
+title: Accounting Principles and Their Implementation in GAAP and IFRS (Algo Trading)
 ---
 
 In the complex world of financial markets, accounting principles are fundamental for ensuring transparency and fairness. These principles, mainly structured around Generally Accepted Accounting Principles (GAAP) and International Financial Reporting Standards (IFRS), guide how financial data is documented and reported. As technology reshapes the economic landscape, the field of algorithmic trading has emerged, fundamentally altering how transactions are conducted. This development has made it imperative to comprehend how accounting standards interact with algorithmic trading systems to maintain the precision and reliability of financial reports.

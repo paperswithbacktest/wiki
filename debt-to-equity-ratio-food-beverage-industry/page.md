@@ -1,6 +1,9 @@
 ---
-title: "Debt-to-Equity Ratio in the Food and Beverage Industry (Algo Trading)"
-description: "Explore the crucial role of the debt-to-equity ratio in assessing financial health and algorithmic trading strategies within the volatile food and beverage industry."
+category: quant_concept
+description: Explore the crucial role of the debt-to-equity ratio in assessing financial
+  health and algorithmic trading strategies within the volatile food and beverage
+  industry.
+title: Debt-to-Equity Ratio in the Food and Beverage Industry (Algo Trading)
 ---
 
 The financial health of a company is a key consideration for stakeholders, particularly in the food and beverage industry, which is known for its volatility due to changing consumer preferences, regulatory shifts, and supply chain challenges. Evaluating this financial health necessitates using various financial metrics, one of the most critical being the debt-to-equity ratio (D/E ratio). This ratio provides insight into a company's financial leverage by comparing its total liabilities to its shareholder equity. 

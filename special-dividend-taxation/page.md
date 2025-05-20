@@ -1,6 +1,9 @@
 ---
-title: "Special Dividend: Definition and Taxation (Algo Trading)"
-description: "Explore special dividends taxation and algorithmic trading strategies to enhance investment income. Learn to optimize your portfolio and navigate tax laws."
+category: quant_concept
+description: Explore special dividends taxation and algorithmic trading strategies
+  to enhance investment income. Learn to optimize your portfolio and navigate tax
+  laws.
+title: 'Special Dividend: Definition and Taxation (Algo Trading)'
 ---
 
 In today's dynamic financial landscape, understanding the nuances of investment income, particularly dividends, is essential for optimizing financial strategies. Dividends represent a significant portion of investment returns and are payouts from corporate profits to shareholders. They come in various forms and have distinct tax implications that can substantially impact an investor's after-tax income. 
@@ -156,4 +159,3 @@ In conclusion, leveraging a comprehensive understanding of dividend taxation and
    - For recent trends in algorithmic trading, the "Automated Trader" magazine publishes insights and forecasts regarding the future of trading technology. Their articles can be accessed at [automatedtrader.net](http://www.automatedtrader.net).
 
 Readers are encouraged to explore these resources to broaden their understanding of investment income, taxation intricacies, and the strategic implementation of algorithmic trading.
-

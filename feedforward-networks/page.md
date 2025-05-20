@@ -1,7 +1,8 @@
 ---
-title: Comprehensive Guide to Feedforward Neural Network Architecture
+category: quant_concept
 description: Feedforward Neural Network architecture basics and modules come alive
   with activation functions adapters and optimization techniques Discover more inside
+title: Comprehensive Guide to Feedforward Neural Network Architecture
 ---
 
 ![Image](images/1.jpeg)

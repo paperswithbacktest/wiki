@@ -1,6 +1,8 @@
 ---
-title: "Dotcom Bubble (Algo Trading)"
-description: "Discover how the dotcom bubble, internet boom, and algorithmic trading transformed markets uncovering key lessons in technology-driven financial evolution."
+category: quant_concept
+description: Discover how the dotcom bubble, internet boom, and algorithmic trading
+  transformed markets uncovering key lessons in technology-driven financial evolution.
+title: Dotcom Bubble (Algo Trading)
 ---
 
 The landscapes of technology, finance, and investing have undergone significant transformations over the past few decades. These fields have become increasingly intertwined due to the confluence of rapid technological advancements, speculative investment behavior, and modern trading mechanisms. This intersection has given rise to notable historical events, such as the dotcom bubble, the internet boom, and the emergence of algorithmic trading, which have each left a lasting impact on markets worldwide.

@@ -1,6 +1,9 @@
 ---
-title: "Kanban System (Algo Trading)"
-description: "Discover how Kanban and Lean principles optimize algorithmic trading by enhancing workflow management improving efficiency and minimizing operational risks."
+category: quant_concept
+description: Discover how Kanban and Lean principles optimize algorithmic trading
+  by enhancing workflow management improving efficiency and minimizing operational
+  risks.
+title: Kanban System (Algo Trading)
 ---
 
 Kanban, Lean Manufacturing, and Workflow Management are engineering methodologies that have proven instrumental in enhancing operational efficiency and optimizing processes across various industries. Their application in the sphere of algorithmic trading offers an innovative approach to managing the intricate workflows within this fast-paced and highly competitive domain.

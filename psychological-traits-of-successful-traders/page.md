@@ -1,6 +1,9 @@
 ---
-title: "Psychological Traits of Successful Traders (Algo Trading)"
-description: "Explore the psychological traits that empower successful traders in algorithmic trading. Learn how discipline emotional control and resilience contribute to better market outcomes."
+category: quant_concept
+description: Explore the psychological traits that empower successful traders in algorithmic
+  trading. Learn how discipline emotional control and resilience contribute to better
+  market outcomes.
+title: Psychological Traits of Successful Traders (Algo Trading)
 ---
 
 The world of trading goes beyond the simple interpretation of numbers and charts; it is profoundly affected by the psychological makeup of the traders involved. Achieving success in trading requires more than just technical skill; it demands mental fortitude and acute psychological awareness. By understanding the psychological traits that distinguish successful traders, aspiring traders can potentially transform their approach and outcome in the marketplace.

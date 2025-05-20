@@ -1,6 +1,12 @@
 ---
-title: "Dividend and Interest Payments by Mutual Funds (Algo Trading)"
-description: "Explore the intricacies of dividends and interest payments, mutual funds, and algorithmic trading within modern investment strategies. Understand how these financial components interact to optimize wealth, manage risks, and achieve long-term financial goals in a evolving market landscape. Discover how to diversify income through dividends and interest, harness the benefits of mutual funds, and leverage the precision of algorithmic trading for enhanced portfolio management."
+category: trading_strategy
+description: Explore the intricacies of dividends and interest payments, mutual funds,
+  and algorithmic trading within modern investment strategies. Understand how these
+  financial components interact to optimize wealth, manage risks, and achieve long-term
+  financial goals in a evolving market landscape. Discover how to diversify income
+  through dividends and interest, harness the benefits of mutual funds, and leverage
+  the precision of algorithmic trading for enhanced portfolio management.
+title: Dividend and Interest Payments by Mutual Funds (Algo Trading)
 ---
 
 Investing is a crucial part of personal and institutional financial strategies, aiming to enhance wealth and achieve financial goals over the long term. A diversified investment strategy is vital as it helps balance risks and potentially improve returns by spreading investments across various asset classes and financial instruments. Among the myriad of investment options, dividends, interest payments, mutual funds, and algorithmic trading play significant roles, each offering unique advantages and challenges.

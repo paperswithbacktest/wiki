@@ -1,6 +1,9 @@
 ---
-title: "Impact of Secondary Offerings on Company Share Price (Algo Trading)"
-description: "Understand how secondary offerings influence stock prices and investor sentiment, and explore how algorithmic trading adapts to market changes during these events."
+category: quant_concept
+description: Understand how secondary offerings influence stock prices and investor
+  sentiment, and explore how algorithmic trading adapts to market changes during these
+  events.
+title: Impact of Secondary Offerings on Company Share Price (Algo Trading)
 ---
 
 In finance and investment, grasping key concepts such as secondary offerings and their impact on stock prices is essential for investors and market analysts alike. Secondary offerings represent a significant phase in a company's lifecycle, involving the issuance of additional shares after an initial public offering (IPO). Understanding these financial instruments is crucial, as they often signal a strategic effort by the company to raise capital for growth, pay down debt, or finance new ventures.

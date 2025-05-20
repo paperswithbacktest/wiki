@@ -1,6 +1,8 @@
 ---
-title: "Generally Accepted Auditing Standards vs GAAP (Algo Trading)"
-description: "Explore how GAAS and GAAP standards provide a reliable framework crucial for accurate financial reporting and effective algorithmic trading strategies."
+category: quant_concept
+description: Explore how GAAS and GAAP standards provide a reliable framework crucial
+  for accurate financial reporting and effective algorithmic trading strategies.
+title: Generally Accepted Auditing Standards vs GAAP (Algo Trading)
 ---
 
 Understanding the essential auditing and accounting standards is crucial for investors, businesses, and financial professionals. Generally Accepted Auditing Standards (GAAS) and Generally Accepted Accounting Principles (GAAP) are integral to ensuring both accuracy and transparency in financial reporting. GAAS provides a framework for conducting audits, ensuring that financial statements are scrutinized under reliable protocols. Simultaneously, GAAP lays out the principles and guidelines that govern the preparation of financial statements, ensuring consistency and comparability.

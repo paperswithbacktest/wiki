@@ -1,6 +1,8 @@
 ---
-title: "Natural Language Processing (NLP) for trading (Algo Trading)"
-description: "Enhance your trading strategies with NLP by turning unstructured financial news, reports, and social media data into actionable insights for algorithmic trading."
+category: quant_concept
+description: Enhance your trading strategies with NLP by turning unstructured financial
+  news, reports, and social media data into actionable insights for algorithmic trading.
+title: Natural Language Processing (NLP) for trading (Algo Trading)
 ---
 
 Natural Language Processing (NLP) has emerged as a pivotal technology in various domains, significantly enhancing capabilities in algorithmic trading. Algorithmic trading, also known as algo trading, relies on high-frequency and quantitative decision-making powered by computers. Traditionally, trading strategies have evolved from manual analysis and decision-making to utilizing complex mathematical models and algorithms for executing trades at speed and scale beyond human capacity. This evolution has been driven by the integration of advanced technologies, enabling traders to analyze and act on vast quantities of data swiftly and accurately.

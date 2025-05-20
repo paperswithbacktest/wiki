@@ -1,6 +1,9 @@
 ---
-title: "Quick Liquidity Ratio: Overview and Examples (Algo Trading)"
-description: "Explore the quick liquidity ratio's role in financial analysis and algo trading, highlighting the ability to assess short-term obligations using liquid assets."
+category: quant_concept
+description: Explore the quick liquidity ratio's role in financial analysis and algo
+  trading, highlighting the ability to assess short-term obligations using liquid
+  assets.
+title: 'Quick Liquidity Ratio: Overview and Examples (Algo Trading)'
 ---
 
 Liquidity ratios are critical instruments in financial analysis, offering a detailed understanding of a company's capacity to fulfill its short-term obligations. These ratios assess liquidity by examining the relationship between a company's liquid assets and its current liabilities, thus providing a snapshot of financial health. Among these, the quick liquidity ratio, also known as the acid-test ratio, stands out as a particularly stringent measure. This ratio evaluates a company's ability to cover its current liabilities using its most liquid assets, excluding inventories. Such exclusion ensures that the ratio reflects a more conservative view of liquidity, since inventory might not be as readily convertible to cash compared to other assets like cash and marketable securities. 

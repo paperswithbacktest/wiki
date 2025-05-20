@@ -1,6 +1,9 @@
 ---
-title: "Crack Spread and Trading Techniques (Algo Trading)"
-description: "Explore crack spreads and algorithmic trading techniques to optimize trading strategies and maximize profits in the commodities market. Gain insights today!"
+category: trading_strategy
+description: Explore crack spreads and algorithmic trading techniques to optimize
+  trading strategies and maximize profits in the commodities market. Gain insights
+  today!
+title: Crack Spread and Trading Techniques (Algo Trading)
 ---
 
 A crack spread is the differential between the price of crude oil and the prices of its refined products, such as gasoline and distillate fuel oils. This spread is a vital indicator in the commodities market because it reflects the gross processing margin and profitability of refining crude oil into these products. Traders, investors, and refinery operators closely monitor crack spreads to assess refining margins, forecast economic conditions, and guide their trading decisions.

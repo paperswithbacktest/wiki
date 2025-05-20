@@ -1,6 +1,10 @@
 ---
-title: "After-Hours Trading Overview (Algo Trading)"
-description: "Discover the world of after-hours trading where you can engage in stock transactions outside traditional hours optimize your strategy with insights into its benefits and risks and explore the role algorithmic trading plays in this unique market environment"
+category: quant_concept
+description: Discover the world of after-hours trading where you can engage in stock
+  transactions outside traditional hours optimize your strategy with insights into
+  its benefits and risks and explore the role algorithmic trading plays in this unique
+  market environment
+title: After-Hours Trading Overview (Algo Trading)
 ---
 
 Trading in the stock market isn't confined to the conventional hours of 9:30 AM to 4:00 PM (ET). Beyond these boundaries lies after-hours trading, a segment of the market where investors and traders can engage in buying and selling activities outside the standard trading window. This extended trading period allows market participants to immediately react to announcements, news, and global events that might impact stock prices when traditional markets are closed. As the global financial landscape becomes increasingly connected, the ability to trade during after-hours sessions offers a strategic advantage not only to institutional investors but also to retail traders who wish to capitalize on overnight developments.

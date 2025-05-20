@@ -1,6 +1,8 @@
 ---
-title: "Insider Trading Sanctions Act of 1984 (Algo Trading)"
-description: "Explore how the Insider Trading Sanctions Act of 1984 transformed regulations to deter illegal trading enhancing market integrity amid technological evolution."
+category: quant_concept
+description: Explore how the Insider Trading Sanctions Act of 1984 transformed regulations
+  to deter illegal trading enhancing market integrity amid technological evolution.
+title: Insider Trading Sanctions Act of 1984 (Algo Trading)
 ---
 
 In the evolving landscape of financial trading, regulations are pivotal in ensuring market integrity and protecting investor interests. As trading technologies continue to advance, regulatory frameworks must also adapt to address new challenges and opportunities. One of the most significant regulatory measures introduced to combat illegal trading activities was the Insider Trading Sanctions Act of 1984. This Act was designed to curb insider trading by empowering the Securities and Exchange Commission (SEC) to impose substantial civil penalties on violators, thereby increasing the risk associated with illicit trading activities.

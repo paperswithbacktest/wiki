@@ -1,6 +1,8 @@
 ---
-title: "Subscription Agreement: Components and Regulations (Algo Trading)"
-description: "Explore the critical role of Subscription Agreements in algorithmic trading and discover how these legal contracts ensure compliance and secure investor rights."
+category: quant_concept
+description: Explore the critical role of Subscription Agreements in algorithmic trading
+  and discover how these legal contracts ensure compliance and secure investor rights.
+title: 'Subscription Agreement: Components and Regulations (Algo Trading)'
 ---
 
 In the fast-paced world of algorithmic trading, understanding the legal frameworks and contractual obligations is crucial for both traders and investors. Algorithmic trading relies heavily on precision, automation, and effective strategies. Similarly, the associated legal agreements must be equally precise and well-structured to ensure smooth operations. A Subscription Agreement is one of the key documents that investors encounter when dealing with private placements and limited partnerships. These agreements are more than just formalities; they define the terms of investment, ensuring that both investors and the entities they invest in have a clear understanding of their rights and obligations.

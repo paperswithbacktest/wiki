@@ -1,6 +1,9 @@
 ---
-title: "Investment Suitability of Treasury Bonds for Retirement (Algo Trading)"
-description: "Explore Treasury bonds and algorithmic trading for retirement investing to achieve a secure, diversified portfolio with stable income and enhanced growth potential."
+category: trading_strategy
+description: Explore Treasury bonds and algorithmic trading for retirement investing
+  to achieve a secure, diversified portfolio with stable income and enhanced growth
+  potential.
+title: Investment Suitability of Treasury Bonds for Retirement (Algo Trading)
 ---
 
 Retirement planning plays a critical role in ensuring long-term financial security, making it imperative to make well-informed investment decisions. This article aims to shed light on two pivotal components of retirement investment financial planning: Treasury bonds and algorithmic trading. By gaining a thorough understanding of these options, investors can develop a balanced and diversified investment portfolio that aligns with their retirement goals.
@@ -170,4 +173,4 @@ Incorporating both Treasury bonds and algorithmic trading into retirement financ
 
 [5]: Biais, B., Foucault, T., & Moinas, S. (2015). ["Equilibrium Fast Trading"](https://www.sciencedirect.com/science/article/pii/S0304405X15000288) Journal of Finance.  
 
-[6]: ["Evidence-Based Technical Analysis: Applying the Scientific Method and Statistical Inference to Trading Signals"](https://www.amazon.com/Evidence-Based-Technical-Analysis-Scientific-Statistical/dp/0470008741) by David Aronson  
+[6]: ["Evidence-Based Technical Analysis: Applying the Scientific Method and Statistical Inference to Trading Signals"](https://www.amazon.com/Evidence-Based-Technical-Analysis-Scientific-Statistical/dp/0470008741) by David Aronson

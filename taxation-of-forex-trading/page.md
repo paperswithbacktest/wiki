@@ -1,6 +1,14 @@
 ---
-title: "Taxation of Forex Trading (Algo Trading)"
-description: "Discover essential insights into the taxation of forex trading including the impact on profits, record-keeping requirements, and the role of algorithmic trading systems. Understand how different IRS sections affect tax obligations and explore the distinctions between ordinary income and capital gains taxes. This guide provides traders with the knowledge to ensure compliance and optimize financial returns, whether trading full-time or as a side venture. Proper categorization of trades, diligent record-keeping, and expert advice can significantly influence traders' net outcomes."
+category: quant_concept
+description: Discover essential insights into the taxation of forex trading including
+  the impact on profits, record-keeping requirements, and the role of algorithmic
+  trading systems. Understand how different IRS sections affect tax obligations and
+  explore the distinctions between ordinary income and capital gains taxes. This guide
+  provides traders with the knowledge to ensure compliance and optimize financial
+  returns, whether trading full-time or as a side venture. Proper categorization of
+  trades, diligent record-keeping, and expert advice can significantly influence traders'
+  net outcomes.
+title: Taxation of Forex Trading (Algo Trading)
 ---
 
 Forex trading has become an increasingly popular investment choice due to its potential for quick gains and flexibility. The foreign exchange market, being the largest and most liquid market in the world, offers traders the opportunity to buy, sell, exchange, and speculate on currency pairs. However, like any type of trading, understanding the taxation involved is crucial for traders. Taxation in forex trading can significantly affect net profits, making it essential for traders to grasp how their transactions are taxed.

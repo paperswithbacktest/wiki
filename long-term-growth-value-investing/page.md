@@ -1,6 +1,9 @@
 ---
-title: "Long-Term Growth and Value Investing (Algo Trading)"
-description: "Explore long-term growth and value investing through the lens of algorithmic trading. Enhance your investment strategy with data-driven insights for sustained success."
+category: trading_strategy
+description: Explore long-term growth and value investing through the lens of algorithmic
+  trading. Enhance your investment strategy with data-driven insights for sustained
+  success.
+title: Long-Term Growth and Value Investing (Algo Trading)
 ---
 
 Value investing is a fundamental strategy aimed at identifying and investing in stocks perceived to be undervalued by the market. This approach has been significant in achieving long-term growth, driven by the belief that the market will eventually recognize and correct the undervaluation. Traditionally, value investors rely on detailed analyses of financial statements, considering metrics like the price-to-earnings (P/E) ratio and dividend yield to assess a stock's intrinsic value. This long-standing methodology is grounded in the philosophy that, despite market volatility, the intrinsic value of a well-chosen investment will appreciate over time, thereby offering substantial returns to patient investors.
@@ -227,4 +230,3 @@ In conclusion, blending value investing with algorithmic trading provides a comp
    - National Association of Investors Corporation (NAIC): Offers resources and support for investment clubs and individual investors. [NAIC](https://www.betterinvesting.org)  
 
 These resources provide a comprehensive foundation for those interested in deepening their understanding of value investing and algorithmic trading.
-

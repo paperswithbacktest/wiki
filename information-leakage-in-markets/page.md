@@ -1,6 +1,8 @@
 ---
-title: "Information Leakage in Markets (Algo Trading)"
-description: "Explore the challenges of information leakage in algorithmic trading and its impact on trade execution and strategy effectiveness in financial markets."
+category: quant_concept
+description: Explore the challenges of information leakage in algorithmic trading
+  and its impact on trade execution and strategy effectiveness in financial markets.
+title: Information Leakage in Markets (Algo Trading)
 ---
 
 Algorithmic trading stands at the cutting edge of today's financial markets, facilitating both rapid and complex executions of trades. As an intersection between finance and technology, algorithmic trading utilizes computer algorithms to determine trading strategies, manage risk, and execute trades with high efficiency and speed. This methodology, however, is not without its challenges. One of the most significant issues is information leakage, a phenomenon where sensitive trading information is inadvertently disclosed to competitors. This can lead to compromised trading strategies and diminished trade outcomes. 
@@ -116,4 +118,3 @@ Easley, D., López de Prado, M. M., & O'Hara, M. (2012). 'Flow Toxicity and Liqu
 Kearns, M., Nevmyvaka, Y., & Schapire, R. E. (2012). 'Machine Learning for Market Microstructure and High-Frequency Trading.' This publication addresses the application of machine learning techniques to trading problems, focusing on microstructure and HFT scenarios. It highlights the role of machine learning in enhancing trade decision-making processes and managing risks, including those posed by information leakage.
 
 Johnson, B. (2010). 'Algorithmic Trading & DMA: An Introduction to Direct Access Trading Strategies.' This introductory text covers key concepts in algorithmic trading and direct market access (DMA). It discusses the development and implementation of trading strategies and technologies that help safeguard against issues like information leakage through optimized trade execution and order management.
-

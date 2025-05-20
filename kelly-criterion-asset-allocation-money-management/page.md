@@ -1,6 +1,9 @@
 ---
-title: "Kelly Criterion in Asset Allocation and Money Management (Algo Trading)"
-description: "Optimize your trading strategy with the Kelly Criterion learn how this mathematical formula can enhance asset allocation and risk management in algorithmic trading."
+category: trading_strategy
+description: Optimize your trading strategy with the Kelly Criterion learn how this
+  mathematical formula can enhance asset allocation and risk management in algorithmic
+  trading.
+title: Kelly Criterion in Asset Allocation and Money Management (Algo Trading)
 ---
 
 Asset allocation and money management are essential components of an effective trading strategy, more so in the context of algorithmic trading where decisions are made based on quantitative data and mathematical models. Effective management of these elements can significantly impact the efficiency and profitability of trading systems. The Kelly Criterion is a mathematical formula that provides a structured approach to these challenges by optimizing the allocation of assets and effectively managing risk. 

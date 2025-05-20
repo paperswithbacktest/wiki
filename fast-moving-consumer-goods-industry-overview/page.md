@@ -1,6 +1,8 @@
 ---
-title: "Fast-Moving Consumer Goods Industry Overview (Algo Trading)"
-description: "Explore how the FMCG industry integrates algorithmic trading to enhance efficiency. Learn about market dynamics and technological advancements driving profitability."
+category: quant_concept
+description: Explore how the FMCG industry integrates algorithmic trading to enhance
+  efficiency. Learn about market dynamics and technological advancements driving profitability.
+title: Fast-Moving Consumer Goods Industry Overview (Algo Trading)
 ---
 
 The Fast-Moving Consumer Goods (FMCG) industry plays a pivotal role in the global economy, accounting for a substantial portion of consumer spending worldwide. This sector includes essentials such as food, beverages, toiletries, and other household items that are quickly consumed and require frequent repurchase. The essence of the FMCG market lies in its ability to achieve high inventory turnover while maintaining low-profit margins per unit. This characteristic necessitates a strategic approach to operations, marketing, and supply chain management to drive profitability.

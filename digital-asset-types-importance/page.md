@@ -1,6 +1,8 @@
 ---
-title: "Digital Asset: Types and Importance (Algo Trading)"
-description: "Explore the significance of digital assets in algo trading Every asset type from cryptocurrencies to NFTs plays a vital role in evolving financial landscapes"
+category: quant_concept
+description: Explore the significance of digital assets in algo trading Every asset
+  type from cryptocurrencies to NFTs plays a vital role in evolving financial landscapes
+title: 'Digital Asset: Types and Importance (Algo Trading)'
 ---
 
 Digital assets represent a fundamental shift in how value and ownership are conceptualized and utilized in the modern digital economy. Unlike physical assets such as real estate or commodities, digital assets are intangible and exist primarily in digital form. They include a wide range of items such as cryptocurrencies, tokens, digital files, and more, each playing a pivotal role in today's financial landscape.

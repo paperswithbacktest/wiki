@@ -1,6 +1,8 @@
 ---
-title: "Industrial Production Index: Measurement of Output (Algo Trading)"
-description: "The Industrial Production Index is a vital tool for assessing economic performance and guiding policy decisions while influencing algorithmic trading strategies."
+category: quant_concept
+description: The Industrial Production Index is a vital tool for assessing economic
+  performance and guiding policy decisions while influencing algorithmic trading strategies.
+title: 'Industrial Production Index: Measurement of Output (Algo Trading)'
 ---
 
 The industrial sector is integral to the economic growth and stability of a nation, serving as a backbone for the production of goods and services. At the core of understanding industrial output is the Industrial Production Index (IPI), a vital economic indicator that quantifies real output across the manufacturing, mining, and utilities sectors. Unlike agricultural and construction activities, which are excluded, the IPI provides a focused measure on sectors critical for gauging industrial strength.

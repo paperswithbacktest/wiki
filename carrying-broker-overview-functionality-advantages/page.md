@@ -1,6 +1,15 @@
 ---
-title: "Carrying Broker: Overview, Functionality, and Advantages (Algo Trading)"
-description: "Discover the essential role of carrying brokers in modern financial markets. These brokers alleviate the burden of back-office functions for introducing brokers by handling tasks such as regulatory compliance, documentation, and risk monitoring. Their expertise and economies of scale enable cost-effective operations while allowing introducing brokers to focus on customer relationships and growth. This model proves particularly beneficial in algorithmic trading, where speed and efficiency are crucial. By streamlining operational logistics, carrying brokers provide pivotal support, enhancing trading strategies and ensuring compliance in an ever-evolving financial landscape."
+category: quant_concept
+description: Discover the essential role of carrying brokers in modern financial markets.
+  These brokers alleviate the burden of back-office functions for introducing brokers
+  by handling tasks such as regulatory compliance, documentation, and risk monitoring.
+  Their expertise and economies of scale enable cost-effective operations while allowing
+  introducing brokers to focus on customer relationships and growth. This model proves
+  particularly beneficial in algorithmic trading, where speed and efficiency are crucial.
+  By streamlining operational logistics, carrying brokers provide pivotal support,
+  enhancing trading strategies and ensuring compliance in an ever-evolving financial
+  landscape.
+title: 'Carrying Broker: Overview, Functionality, and Advantages (Algo Trading)'
 ---
 
 In today's fast-paced financial markets, brokerage services are crucial in facilitating trading activities. Within these services, carrying brokers hold an important role by executing a variety of back-office functions for other brokerage firms. These functions include regulatory compliance, client documentation management, and credit risk monitoring among others. By assuming these responsibilities, carrying brokers allow brokerage firms, often termed introducing brokers, to concentrate more on activities that directly generate value, such as customer acquisition and service enhancement.

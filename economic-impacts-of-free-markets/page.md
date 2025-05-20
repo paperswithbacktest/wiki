@@ -1,6 +1,8 @@
 ---
-title: "Economic Impacts of Free Markets (Algo Trading)"
-description: "Explore the economic impacts of free markets and algorithmic trading highlighting their roles in resource allocation innovation and global economic stability."
+category: quant_concept
+description: Explore the economic impacts of free markets and algorithmic trading
+  highlighting their roles in resource allocation innovation and global economic stability.
+title: Economic Impacts of Free Markets (Algo Trading)
 ---
 
 Free markets represent an economic system where prices for goods and services are determined by open competition in a self-regulated framework, devoid of excessive government intervention. Their fundamental role in global economies is underscored by their ability to allocate resources efficiently, stimulate innovation, and provide consumers with a diverse range of choices. The invisible hand, a concept introduced by economist Adam Smith, illustrates how self-interested actions of individuals can lead to positive economic outcomes when guided by competitive market forces.

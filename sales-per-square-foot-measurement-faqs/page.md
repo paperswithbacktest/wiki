@@ -1,6 +1,8 @@
 ---
-title: "Sales per Square Foot: Measurement and FAQs (Algo Trading)"
-description: "Discover how sales per square foot and algorithmic trading enhance retail success. Learn key retail metrics and their impact on decision-making for profitability."
+category: quant_concept
+description: Discover how sales per square foot and algorithmic trading enhance retail
+  success. Learn key retail metrics and their impact on decision-making for profitability.
+title: 'Sales per Square Foot: Measurement and FAQs (Algo Trading)'
 ---
 
 The retail industry has undergone a substantial transformation, driven significantly by advancements in technology. This evolution has reshaped business landscapes, influencing how retailers engage with customers and how operations are conducted. In this dynamic environment, comprehending sales performance and conducting thorough sales analysis are pivotal for retail success. Retail metrics, the quantitative measures reflecting various aspects of business operations, have emerged as essential tools for retailers to gauge their performance, understand customer behaviors, and refine business strategies.

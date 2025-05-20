@@ -1,7 +1,8 @@
 ---
-title: Optimizing Continuous Features for Accurate Model Predictions
+category: quant_concept
 description: Continuous features drive nuanced machine learning predictions by capturing
   subtle data variations and empowering robust models. Discover more inside
+title: Optimizing Continuous Features for Accurate Model Predictions
 ---
 
 ![Image](images/1.jpeg)

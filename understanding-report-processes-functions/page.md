@@ -1,6 +1,9 @@
 ---
-title: "Understanding Report Processes and Functions (Algo Trading)"
-description: "Explore the essential roles of report management and functions in algorithmic trading. Understand the challenges and benefits of real-time reporting for enhanced decision-making."
+category: quant_concept
+description: Explore the essential roles of report management and functions in algorithmic
+  trading. Understand the challenges and benefits of real-time reporting for enhanced
+  decision-making.
+title: Understanding Report Processes and Functions (Algo Trading)
 ---
 
 Algorithmic trading, commonly referred to as algo trading, employs computer algorithms to execute trades in financial markets based on predetermined criteria. This technology-driven approach to trading has become predominant in modern finance due to its ability to provide increased speed and accuracy in executing trades, which can be a significant advantage in today’s fast-paced market environment. Algorithmic trading allows for the analysis and execution of trades at a speed and volume that would be impossible for a human trader.

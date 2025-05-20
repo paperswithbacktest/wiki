@@ -1,6 +1,8 @@
 ---
-title: "Proven Reserves: Definition and Function (Algo Trading)"
-description: "Explore proven reserves and algorithmic trading's role in shaping energy markets. Learn how these elements enhance economic stability and market prediction."
+category: quant_concept
+description: Explore proven reserves and algorithmic trading's role in shaping energy
+  markets. Learn how these elements enhance economic stability and market prediction.
+title: 'Proven Reserves: Definition and Function (Algo Trading)'
 ---
 
 The dynamic intersection of resource estimation, energy reserves, and algorithmic trading is revolutionizing the global energy landscape. These critical components are reshaping how energy resources are quantified, managed, and traded, ensuring economic stability and enhancing market prediction capabilities.

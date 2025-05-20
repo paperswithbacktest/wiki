@@ -1,6 +1,9 @@
 ---
-title: "Compliance Audit (Algo Trading)"
-description: "Explore the critical role of compliance audits in algorithmic trading ensuring adherence to regulations and maintaining integrity in fast-paced financial markets."
+category: quant_concept
+description: Explore the critical role of compliance audits in algorithmic trading
+  ensuring adherence to regulations and maintaining integrity in fast-paced financial
+  markets.
+title: Compliance Audit (Algo Trading)
 ---
 
 In today's financial markets, algorithmic trading has firmly established itself as a fundamental component of the trading ecosystem. This method of trading employs sophisticated algorithms and electronic platforms to execute trades at speeds and volumes unachievable by human traders. With its ability to process vast amounts of data and execute trades in milliseconds, algorithmic trading offers significant competitive advantages that have led to its widespread adoption across various sectors, including stocks, currencies, and commodities. 

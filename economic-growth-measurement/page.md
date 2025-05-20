@@ -1,6 +1,8 @@
 ---
-title: "Economic Growth and Measurement (Algo Trading)"
-description: "Explore the synergy between economic indicators and algorithmic trading to understand economic growth. Learn how GDP and algo trading impact financial decisions."
+category: quant_concept
+description: Explore the synergy between economic indicators and algorithmic trading
+  to understand economic growth. Learn how GDP and algo trading impact financial decisions.
+title: Economic Growth and Measurement (Algo Trading)
 ---
 
 In today's dynamic financial ecosystem, a robust understanding of the intersection between economic growth, economic indicators, and algorithmic trading is crucial for investors, policymakers, and financial analysts. Economic indicators, such as the Gross Domestic Product (GDP), are fundamental to financial analysis. These indicators provide essential insights into the health and trajectory of an economy, serving as important benchmarks for evaluating economic performance and potential shifts in the economic landscape.

@@ -1,6 +1,9 @@
 ---
-title: "Google as a Public Utility (Algo Trading)"
-description: "Explore Google's potential classification as a public utility and its impact on internet access and algorithmic trading Proponents emphasize fair access and regulation."
+category: quant_concept
+description: Explore Google's potential classification as a public utility and its
+  impact on internet access and algorithmic trading Proponents emphasize fair access
+  and regulation.
+title: Google as a Public Utility (Algo Trading)
 ---
 
 In the rapidly evolving digital era, internet services have become fundamental to both personal lives and commercial activities. This transformation has been propelled by advancements in technology and the proliferation of internet access, enabling a new wave of innovation and connectivity. At the forefront of this digital landscape stands Google, a pivotal technology company whose search engine, advertising solutions, and various online services have become ubiquitous across the globe. Google's influence and reach in the internet space have led to continuous scrutiny regarding its business practices, drawing attention from regulators, scholars, and the public alike.

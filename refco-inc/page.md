@@ -1,6 +1,8 @@
 ---
-title: "Refco Inc. (Algo Trading)"
-description: "Discover the impact of the Refco scandal on global finance and its role in advancing algorithmic trading for improved transparency and risk management."
+category: quant_concept
+description: Discover the impact of the Refco scandal on global finance and its role
+  in advancing algorithmic trading for improved transparency and risk management.
+title: Refco Inc. (Algo Trading)
 ---
 
 The Refco scandal of 2005 was a pivotal event that profoundly affected the global financial services and commodity brokerage industry. It revealed vulnerabilities in the market's structure, emphasizing the critical need for transparency and robust regulatory oversight. This scandal unfolded when it became public that Refco, a firm once considered a titan in commodities and futures brokerage, was embroiled in fraudulent financial activities. These activities were primarily attributed to a culture of concealment and substandard governance, which ultimately precipitated the company's collapse. The exposure of these deceptive practices demonstrated the fragility inherent in poorly overseen financial markets and highlighted the severe repercussions such misconduct can have on investor confidence.

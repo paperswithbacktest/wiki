@@ -1,7 +1,8 @@
 ---
-title: Constituency Parsing in Natural Language Processing Explained
+category: quant_concept
 description: Constituency parsing breaks sentences into hierarchical parse trees using
   algorithms and neural models to boost language understanding Discover more inside
+title: Constituency Parsing in Natural Language Processing Explained
 ---
 
 ![Image](images/1.png)

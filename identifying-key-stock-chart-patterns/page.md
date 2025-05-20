@@ -1,6 +1,9 @@
 ---
-title: "Identifying Key Stock Chart Patterns (Algo Trading)"
-description: "Explore key stock chart patterns crucial for technical analysis in algo trading. Learn about pattern recognition, predictive price movements, and trading strategies."
+category: trading_strategy
+description: Explore key stock chart patterns crucial for technical analysis in algo
+  trading. Learn about pattern recognition, predictive price movements, and trading
+  strategies.
+title: Identifying Key Stock Chart Patterns (Algo Trading)
 ---
 
 Trading strategies play a crucial role in the financial markets by providing systematic approaches to buying and selling securities. They are essential for market participants ranging from individual retail investors to institutional traders. These strategies are formulated based on various analyses and methodologies to maximize returns and minimize risk.

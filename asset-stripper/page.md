@@ -1,6 +1,9 @@
 ---
-title: "Asset Stripper (Algo Trading)"
-description: "Explore the intriguing relationship between asset stripping and algorithmic trading as these controversial techniques combine to maximize financial strategies and outcomes."
+category: trading_strategy
+description: Explore the intriguing relationship between asset stripping and algorithmic
+  trading as these controversial techniques combine to maximize financial strategies
+  and outcomes.
+title: Asset Stripper (Algo Trading)
 ---
 
 In the complex world of finance, various strategies are employed to extract value, manage risks, and optimize profits. Among these, asset stripping and algorithmic trading stand out as sophisticated yet controversial practices. Asset stripping involves the acquisition of a company essentially to sell off its valuable components rather than operating it as a whole. This method often highlights the underlying worth of individual assets such as real estate, patents, or equipment, providing immediate financial rewards. However, these gains come with potential downsides, particularly concerning the impacts on employees and the sustainability of the business.

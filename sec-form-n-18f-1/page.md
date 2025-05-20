@@ -1,6 +1,8 @@
 ---
-title: "SEC Form N-18f-1 (Algo Trading)"
-description: "Explore SEC Form N-18f-1's role in mutual funds' cash flow management and the rise of algorithmic trading influencing modern investment strategies."
+category: quant_concept
+description: Explore SEC Form N-18f-1's role in mutual funds' cash flow management
+  and the rise of algorithmic trading influencing modern investment strategies.
+title: SEC Form N-18f-1 (Algo Trading)
 ---
 
 Navigating the world of investments can be complex, especially when it involves mutual funds, SEC regulations, and the latest trends like algorithmic trading. The financial landscape is continuously evolving, driven by technological advancements and regulatory changes aimed at safeguarding investors and maintaining market integrity. Mutual funds, as collective investment schemes, provide an accessible and professionally managed option for individual investors, helping them diversify their portfolios. However, managing these funds requires adherence to strict regulations enforced by the Securities and Exchange Commission (SEC), which plays a critical role in overseeing the market.

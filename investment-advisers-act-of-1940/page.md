@@ -1,6 +1,8 @@
 ---
-title: "Investment Advisers Act of 1940 (Algo Trading)"
-description: "Explore the impact of the Investment Advisers Act of 1940 on algorithmic trading and learn about fiduciary duties and regulations for financial advisors."
+category: quant_concept
+description: Explore the impact of the Investment Advisers Act of 1940 on algorithmic
+  trading and learn about fiduciary duties and regulations for financial advisors.
+title: Investment Advisers Act of 1940 (Algo Trading)
 ---
 
 The Investment Advisers Act of 1940 is a cornerstone of financial regulation in the United States, fundamentally shaping the landscape of investment advice and protection. Originating as part of a broader legislative response to the market failures observed during the late 1920s and 1930s, the Act was developed to establish a standardized regulatory framework. Its primary objective was to protect investors and maintain fair and transparent markets.

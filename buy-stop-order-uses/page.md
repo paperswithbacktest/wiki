@@ -1,6 +1,8 @@
 ---
-title: "Buy Stop Order and Its Uses (Algo Trading)"
-description: "Discover the essentials of buy stop orders in algo trading to enhance portfolio management. Learn how these tools help mitigate risks and capture growth."
+category: trading_strategy
+description: Discover the essentials of buy stop orders in algo trading to enhance
+  portfolio management. Learn how these tools help mitigate risks and capture growth.
+title: Buy Stop Order and Its Uses (Algo Trading)
 ---
 
 The world of investment is diverse, presenting traders and investors a multitude of strategies tailored to enhance portfolio growth. Among these options, stock trading stands as a cornerstone, attracting both novices eager to learn and seasoned traders aiming to optimize returns. Mastering various trading strategies becomes essential for anyone seeking to maximize profits while minimizing inherent risks.

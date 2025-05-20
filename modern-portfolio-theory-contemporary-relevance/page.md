@@ -1,6 +1,9 @@
 ---
-title: "Modern Portfolio Theory: Contemporary Relevance (Algo Trading)"
-description: "Explore Modern Portfolio Theory and its synergy with algorithmic trading in today's investment strategies Learn how these concepts drive data-driven financial innovation"
+category: quant_concept
+description: Explore Modern Portfolio Theory and its synergy with algorithmic trading
+  in today's investment strategies Learn how these concepts drive data-driven financial
+  innovation
+title: 'Modern Portfolio Theory: Contemporary Relevance (Algo Trading)'
 ---
 
 The landscape of investment strategies in the 21st century is characterized by rapid technological advancements and an increasing emphasis on data-driven decision-making. In this dynamic environment, investors must navigate complex markets and adapt to new tools and methodologies. Two pivotal concepts have emerged as cornerstones in contemporary financial planning: Modern Portfolio Theory (MPT) and algorithmic trading. Understanding these concepts and their interplay is essential for effective investment strategy development.

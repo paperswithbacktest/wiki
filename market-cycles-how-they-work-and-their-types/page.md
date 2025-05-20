@@ -1,6 +1,9 @@
 ---
-title: "Market Cycles: How They Work and Their Types (Algo Trading)"
-description: "Unlock insights into market cycles and improve trading strategies by understanding the phases of expansion and contraction Explore how algorithmic trading optimizes this knowledge"
+category: quant_concept
+description: Unlock insights into market cycles and improve trading strategies by
+  understanding the phases of expansion and contraction Explore how algorithmic trading
+  optimizes this knowledge
+title: 'Market Cycles: How They Work and Their Types (Algo Trading)'
 ---
 
 Understanding the dynamics of business, economic, and market cycles is crucial for both investors and traders. These cycles represent the natural fluctuations experienced within economies and financial markets, characterized by phases of expansion and contraction. Recognizing these patterns is not only vital for making informed investment decisions but also for the development of strategic trading approaches. This article explores the definitions and workings of these cycles, including how they influence market trends and strategies.

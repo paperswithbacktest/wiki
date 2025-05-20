@@ -1,6 +1,9 @@
 ---
-title: "Becoming a Sophisticated Investor (Algo Trading)"
-description: "Optimize your investment strategies with insights into financial literacy and algorithmic trading Learn how sophisticated investors leverage tech to enhance portfolio performance"
+category: trading_strategy
+description: Optimize your investment strategies with insights into financial literacy
+  and algorithmic trading Learn how sophisticated investors leverage tech to enhance
+  portfolio performance
+title: Becoming a Sophisticated Investor (Algo Trading)
 ---
 
 In today's complex financial markets, investors are seeking innovative strategies to optimize their portfolios. This article discusses investment strategies for sophisticated investors, focusing on financial literacy and the role of algorithmic trading (algo trading) in achieving financial goals.

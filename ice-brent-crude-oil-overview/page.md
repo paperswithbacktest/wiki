@@ -1,6 +1,8 @@
 ---
-title: "ICE Brent Crude Oil Overview (Algo Trading)"
-description: "Explore the significance of ICE Brent Crude Oil in energy markets and the role of algorithmic trading in optimizing strategies and risk management."
+category: quant_concept
+description: Explore the significance of ICE Brent Crude Oil in energy markets and
+  the role of algorithmic trading in optimizing strategies and risk management.
+title: ICE Brent Crude Oil Overview (Algo Trading)
 ---
 
 Brent Crude Oil, often regarded as a benchmark in the oil industry, plays a pivotal role in global energy markets due to its significance as a major pricing reference for crude oil. Originating from the North Sea, Brent Crude is distinguished by its light and sweet characteristics, making it highly sought after for refining into products like gasoline and diesel. Its importance as a benchmark is further underscored by its widespread use in creating pricing models and economic forecasts related to the energy sector.

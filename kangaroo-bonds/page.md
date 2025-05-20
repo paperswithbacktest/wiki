@@ -1,6 +1,9 @@
 ---
-title: "Kangaroo Bonds (Algo Trading)"
-description: "Explore the growing significance of Kangaroo bonds in global financial markets and the impact of algorithmic trading on bond transactions for diverse investment opportunities."
+category: quant_concept
+description: Explore the growing significance of Kangaroo bonds in global financial
+  markets and the impact of algorithmic trading on bond transactions for diverse investment
+  opportunities.
+title: Kangaroo Bonds (Algo Trading)
 ---
 
 Foreign debt and Australian bonds, particularly Kangaroo bonds, have become increasingly significant in global financial markets due to their unique characteristics and rising demand. These bonds, issued by non-Australian entities in the Australian dollar-market, have garnered attention for their role in diversifying investment portfolios and providing competitive yields. As the global financial landscape evolves, understanding the nuances of Kangaroo bonds is essential for investors, policymakers, and financial professionals striving to optimize their strategies and enhance market engagement.

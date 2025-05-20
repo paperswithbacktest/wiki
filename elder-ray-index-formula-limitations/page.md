@@ -1,6 +1,8 @@
 ---
-title: "Elder-Ray Index: Formula and Limitations (Algo Trading)"
-description: "Explore the Elder-Ray Index a technical analysis tool by Dr. Alexander Elder crucial for algorithmic traders assessing market dynamics and improving strategies."
+category: trading_strategy
+description: Explore the Elder-Ray Index a technical analysis tool by Dr. Alexander
+  Elder crucial for algorithmic traders assessing market dynamics and improving strategies.
+title: 'Elder-Ray Index: Formula and Limitations (Algo Trading)'
 ---
 
 The Elder-Ray Index is a notable tool in the field of technical analysis, designed by Dr. Alexander Elder to assess the balance of power between buyers and sellers in the financial markets. This indicator plays a crucial role in evaluating market strength and direction, positioning itself as an essential resource for traders and analysts. As part of the broader category of stock market indicators, the Elder-Ray Index contributes significantly to interpreting market conditions and devising trading strategies.

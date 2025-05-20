@@ -1,6 +1,8 @@
 ---
-title: "Tax Advantages of Municipal Bonds (Algo Trading)"
-description: "Discover the tax benefits and investment potential of municipal bonds in the era of algorithmic trading. Learn how munis can diversify portfolios."
+category: quant_concept
+description: Discover the tax benefits and investment potential of municipal bonds
+  in the era of algorithmic trading. Learn how munis can diversify portfolios.
+title: Tax Advantages of Municipal Bonds (Algo Trading)
 ---
 
 Municipal bonds, or 'munis', are a class of fixed-income securities that present a compelling investment opportunity, particularly due to their tax-exempt status. These financial instruments are issued by various governmental entities, including states, municipalities, counties, and other local entities, to raise capital for public projects. Such projects often involve the construction and maintenance of critical infrastructure, such as schools, roads, and water systems, which are essential for community development and well-being.

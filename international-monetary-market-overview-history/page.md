@@ -1,6 +1,9 @@
 ---
-title: "International Monetary Market: Overview and History (Algo Trading)"
-description: "Explore the development of the International Monetary Market and algorithmic trading's impact on global markets while navigating monetary policies and historical trends."
+category: quant_concept
+description: Explore the development of the International Monetary Market and algorithmic
+  trading's impact on global markets while navigating monetary policies and historical
+  trends.
+title: 'International Monetary Market: Overview and History (Algo Trading)'
 ---
 
 The evolution of financial markets has been profoundly shaped by an array of factors, including monetary policies, international market dynamics, and technological innovations such as algorithmic trading. Understanding the interplay among these factors provides valuable insights into the complexities of today's financial landscape.

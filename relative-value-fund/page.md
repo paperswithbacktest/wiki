@@ -1,6 +1,9 @@
 ---
-title: "Relative Value Fund (Algo Trading)"
-description: "Discover how relative value funds utilize strategies to exploit pricing discrepancies between financial instruments aiming for consistent returns and market neutrality."
+category: trading_strategy
+description: Discover how relative value funds utilize strategies to exploit pricing
+  discrepancies between financial instruments aiming for consistent returns and market
+  neutrality.
+title: Relative Value Fund (Algo Trading)
 ---
 
 Relative value funds have garnered significant attention among investors seeking to capitalize on market inefficiencies. These funds utilize strategies that focus on identifying and exploiting pricing discrepancies between related financial instruments. Often deployed by hedge funds, relative value strategies are designed to achieve consistent returns irrespective of overall market direction. As hedge funds aim to deliver alpha—returns in excess of a benchmark index—relative value strategies are instrumental in achieving those objectives.

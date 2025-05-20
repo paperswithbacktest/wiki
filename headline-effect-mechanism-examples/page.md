@@ -1,6 +1,8 @@
 ---
-title: "Headline Effect: Mechanism and Examples (Algo Trading)"
-description: "Explore the impact of the headline effect in algorithmic trading where media-driven emotional responses can sway investor decisions and market trends significantly."
+category: quant_concept
+description: Explore the impact of the headline effect in algorithmic trading where
+  media-driven emotional responses can sway investor decisions and market trends significantly.
+title: 'Headline Effect: Mechanism and Examples (Algo Trading)'
 ---
 
 The influence of media on human decision-making is profound and pervasive, often driven by sensational headlines designed to attract attention and elicit emotional responses. This phenomenon, known as the 'headline effect,' plays a critical role in shaping consumer behavior and investor decisions. Whether the headlines are positive or negative, they hold the power to sway public opinion and market trends significantly.

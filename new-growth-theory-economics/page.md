@@ -1,6 +1,13 @@
 ---
-title: "New Growth Theory in Economics (Algo Trading)"
-description: "Explore the intersection of economic growth and algorithmic trading in finance, focusing on New Growth Theory's emphasis on technology, innovation, and human capital as drivers of development. Discover how algorithmic trading enhances market efficiency, reduces transaction costs, and increases liquidity, thereby contributing to economic expansion. This article investigates into the implications of integrating economic theory with advanced trading methodologies, highlighting the role of technological advancements in financial market evolution and economic progress."
+category: quant_concept
+description: Explore the intersection of economic growth and algorithmic trading in
+  finance, focusing on New Growth Theory's emphasis on technology, innovation, and
+  human capital as drivers of development. Discover how algorithmic trading enhances
+  market efficiency, reduces transaction costs, and increases liquidity, thereby contributing
+  to economic expansion. This article investigates into the implications of integrating
+  economic theory with advanced trading methodologies, highlighting the role of technological
+  advancements in financial market evolution and economic progress.
+title: New Growth Theory in Economics (Algo Trading)
 ---
 
 Economic growth is a fundamental driver of improved living standards and societal advancement. It is the increase in a country's productive capacity, reflected by a rise in its Gross Domestic Product (GDP), and it influences a nation's wealth, employment, and economic resilience. Economic growth enables governments to provide better services, enhances technological progress, and improves the quality of life for individuals.

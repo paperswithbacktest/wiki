@@ -1,6 +1,9 @@
 ---
-title: "European Economic Area Agreement: Overview and Functionality (Algo Trading)"
-description: "Discover the European Economic Area (EEA) Agreement's role in economic integration and its significant impact on algorithmic trading and market dynamics in Europe."
+category: quant_concept
+description: Discover the European Economic Area (EEA) Agreement's role in economic
+  integration and its significant impact on algorithmic trading and market dynamics
+  in Europe.
+title: 'European Economic Area Agreement: Overview and Functionality (Algo Trading)'
 ---
 
 The European Economic Area (EEA) Agreement represents a pivotal treaty in Europe, designed to foster economic integration among its member states. Established to create a seamless internal market, the EEA Agreement brings together European Union (EU) member countries and three non-EU nations—Iceland, Liechtenstein, and Norway—into a cohesive economic entity. This consolidation facilitates the free movement of goods, services, capital, and people, forming a vital part of Europe's economic structure.

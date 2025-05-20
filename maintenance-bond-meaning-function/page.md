@@ -1,6 +1,8 @@
 ---
-title: "Maintenance Bond: Meaning and Function (Algo Trading)"
-description: "Discover how maintenance bonds in construction projects provide essential financial security ensuring contractors address any post-completion defects."
+category: quant_concept
+description: Discover how maintenance bonds in construction projects provide essential
+  financial security ensuring contractors address any post-completion defects.
+title: 'Maintenance Bond: Meaning and Function (Algo Trading)'
 ---
 
 Maintenance bonds are a crucial component in the construction and engineering industries, ensuring the longevity and integrity of projects after their completion. These bonds act as financial assurances, guaranteeing that contractors remain accountable for addressing any defects or failures that may arise in the original construction. Such assurances are pivotal in safeguarding the interests of project owners, providing them with a sense of security that their investments are protected against unforeseen issues. 

@@ -1,6 +1,8 @@
 ---
-title: "Companion Tranches: Definition and Function (Algo Trading)"
-description: "Companion tranches are crucial in managing prepayment risk in CMOs. Learn how they function in structured finance and how algorithmic trading optimizes investments."
+category: quant_concept
+description: Companion tranches are crucial in managing prepayment risk in CMOs. Learn
+  how they function in structured finance and how algorithmic trading optimizes investments.
+title: 'Companion Tranches: Definition and Function (Algo Trading)'
 ---
 
 The world of structured finance is both complex and diverse, comprising a wide range of financial instruments and investment strategies tailored to meet varying investor needs. A key instrument within this framework is the collateralized mortgage obligation (CMO). CMOs are sophisticated securities that pool together mortgages and separate them into tranches or segments. These tranches are crafted to satisfy different investor risk preferences and return expectations, thereby allowing market participants to customize their exposure.

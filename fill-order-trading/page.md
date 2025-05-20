@@ -1,6 +1,12 @@
 ---
-title: "Fill Order in Trading (Algo Trading)"
-description: "Explore the intricacies of order fill in trading and the impact of algorithmic trading on financial markets. This article investigates into execution mechanisms, market liquidity, and how technology has transformed trading practices. Understand the advantages and challenges of algo trading, including reduced transaction costs and potential risks. Gain a foundational understanding of these strategies and their effects on market dynamics, perfect for both beginners and seasoned traders."
+category: quant_concept
+description: Explore the intricacies of order fill in trading and the impact of algorithmic
+  trading on financial markets. This article investigates into execution mechanisms,
+  market liquidity, and how technology has transformed trading practices. Understand
+  the advantages and challenges of algo trading, including reduced transaction costs
+  and potential risks. Gain a foundational understanding of these strategies and their
+  effects on market dynamics, perfect for both beginners and seasoned traders.
+title: Fill Order in Trading (Algo Trading)
 ---
 
 Understanding contemporary financial markets necessitates a thorough grasp of trading execution mechanisms, with 'order fill' being a pivotal element. Order fill represents the process of completing a buy or sell order on trading platforms, influenced by market liquidity and conditions. With the advent of technology, algorithmic trading, or algo trading, has significantly transformed trading practices by employing computer algorithms to execute trades under optimal conditions. This automation has enabled traders to execute orders with precision, speed, and efficiency, minimizing human intervention and emotional biases.

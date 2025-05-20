@@ -1,6 +1,9 @@
 ---
-title: "Comparison of Smart Beta Mutual Funds and Smart Beta ETFs (Algo Trading)"
-description: "Discover the differences between Smart Beta Mutual Funds and Smart Beta ETFs focusing on strategy nuances and algorithmic trading for better investment insights."
+category: trading_strategy
+description: Discover the differences between Smart Beta Mutual Funds and Smart Beta
+  ETFs focusing on strategy nuances and algorithmic trading for better investment
+  insights.
+title: Comparison of Smart Beta Mutual Funds and Smart Beta ETFs (Algo Trading)
 ---
 
 Investment strategies have undergone a profound transformation, driven by technological advancements that have redefined the financial landscape. Among the foremost innovations in modern finance are Exchange-Traded Funds (ETFs), Smart Beta strategies, and algorithmic trading. Each of these components plays a crucial role in enhancing portfolio diversification and optimizing risk management.

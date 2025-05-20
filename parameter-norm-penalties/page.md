@@ -1,7 +1,8 @@
 ---
-title: Understanding Parameter Norm Penalties for Machine Learning
+category: quant_concept
 description: Parameter norm penalties help avoid overfitting by enforcing L1 and L2
   regularization so models generalize better with stable training Discover more inside
+title: Understanding Parameter Norm Penalties for Machine Learning
 ---
 
 ![Image](images/1.jpeg)

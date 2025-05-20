@@ -1,6 +1,8 @@
 ---
-title: "Catalyst in Finance (Algo Trading)"
-description: "Discover how algo trading acts as a catalyst in finance, enhancing market efficiency through technological advancements and reshaping global markets."
+category: quant_concept
+description: Discover how algo trading acts as a catalyst in finance, enhancing market
+  efficiency through technological advancements and reshaping global markets.
+title: Catalyst in Finance (Algo Trading)
 ---
 
 Financial markets have been undergoing significant transformations, driven largely by technological advancements that continually reshape their dynamics. Among these innovations, algorithmic trading, commonly known as algo trading, has become a pivotal element influencing trade execution and market operations. Algo trading employs complex algorithms and computers to automate and optimize trading decisions, leading to enhanced market efficiency and innovation.

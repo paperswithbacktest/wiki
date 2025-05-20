@@ -1,7 +1,8 @@
 ---
-title: Understanding Layout Annotation Models for Document Analysis
+category: quant_concept
 description: Layout Annotation Models use neural networks to map and label document
   layouts for faster digitization and precise data extraction Discover more inside
+title: Understanding Layout Annotation Models for Document Analysis
 ---
 
 ![Image](images/1.png)

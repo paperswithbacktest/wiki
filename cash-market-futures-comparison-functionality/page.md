@@ -1,6 +1,9 @@
 ---
-title: "Cash Market and Futures: Comparison and Functionality (Algo Trading)"
-description: "Understand the differences and functionalities between cash and futures markets, and how algorithmic trading revolutionizes trading efficiency in these arenas."
+category: quant_concept
+description: Understand the differences and functionalities between cash and futures
+  markets, and how algorithmic trading revolutionizes trading efficiency in these
+  arenas.
+title: 'Cash Market and Futures: Comparison and Functionality (Algo Trading)'
 ---
 
 The financial markets serve as intricate systems that facilitate the trading and exchange of a multitude of financial instruments. Central to these markets are two primary types: the cash market, also known as the spot market, and the futures market. In cash markets, transactions involving commodities, currencies, or securities are settled promptly, with payment and delivery occurring almost immediately. This immediate execution is crucial for real-time trading, providing a venue for investors and traders to engage in swift market activity.

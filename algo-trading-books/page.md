@@ -1,9 +1,11 @@
 ---
-title: "The Definitive Collection of Algo Trading Books"
-description: Discover the best books on Algorithmic Trading, covering market microstructure basics, statistics and econometrics, technical analysis, machine learning, and real-world strategy implementation. From beginners to advanced traders, find invaluable insights into the world of algo trading with our curated list.
+category: quant_concept
+description: Discover the best books on Algorithmic Trading, covering market microstructure
+  basics, statistics and econometrics, technical analysis, machine learning, and real-world
+  strategy implementation. From beginners to advanced traders, find invaluable insights
+  into the world of algo trading with our curated list.
+title: The Definitive Collection of Algo Trading Books
 ---
-
-
 
 Algorithmic trading, often termed "algo trading," has undergone a remarkable evolution since its nascent stages in the 1970s. Born from the merger of advanced mathematical models and rapid computational power, this form of trading initially provided financial institutions a faster and more efficient method to execute large volumes of orders. By the 21st century, algorithmic trading had expanded its footprint, becoming an integral component of the global financial markets. Today, it's estimated that over 80% of the trades executed in major stock exchanges are driven by algorithms.
 

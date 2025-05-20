@@ -1,6 +1,8 @@
 ---
-title: "Open-Ended Fund: Overview and Analysis (Algo Trading)"
-description: "Explore the flexibility and benefits of open-ended funds, including liquidity and professional management, plus the impact of algorithmic trading on fund performance."
+category: quant_concept
+description: Explore the flexibility and benefits of open-ended funds, including liquidity
+  and professional management, plus the impact of algorithmic trading on fund performance.
+title: 'Open-Ended Fund: Overview and Analysis (Algo Trading)'
 ---
 
 Investing in funds offers investors a streamlined approach to achieve portfolio diversification, providing exposure to a range of asset classes and markets without directly purchasing individual securities. Among the different types of funds available, open-ended funds are particularly notable for their inherent flexibility and accessibility. These funds are structured to continually issue new shares to investors and redeem them as needed, allowing for a dynamic adjustment of the fund's size according to investor demand. This characteristic not only facilitates easier entry and exit for investors but also ensures the fund's investment strategy aligns with current market conditions.

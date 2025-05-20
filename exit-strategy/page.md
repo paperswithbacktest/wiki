@@ -1,9 +1,15 @@
 ---
-title: "Exit strategy for stocks"
-description: Learn about exit strategies in stock trading - predetermined plans for selling securities or liquidating investments. Understand how to personalize an effective exit strategy based on individual goals, risk tolerance, trading style, market knowledge, and capital size. Explore key components such as profit targets, stop-loss orders, risk-to-reward ratio, technical indicators, trailing stops, time-based criteria, volume considerations, psychological preparation, flexibility, and regular review. Discover common stop loss strategies for successful risk management in stock trading.
+category: trading_strategy
+description: Learn about exit strategies in stock trading - predetermined plans for
+  selling securities or liquidating investments. Understand how to personalize an
+  effective exit strategy based on individual goals, risk tolerance, trading style,
+  market knowledge, and capital size. Explore key components such as profit targets,
+  stop-loss orders, risk-to-reward ratio, technical indicators, trailing stops, time-based
+  criteria, volume considerations, psychological preparation, flexibility, and regular
+  review. Discover common stop loss strategies for successful risk management in stock
+  trading.
+title: Exit strategy for stocks
 ---
-
-
 
 An exit strategy in stock trading is a predetermined plan for selling a security or liquidating an investment. It dictates when and under what conditions a trader will exit a position, ideally to maximize profit or minimize loss. Exit strategies are vital in trading as they remove emotional decision-making and increase discipline. By having a clear exit strategy, a trader can avoid common pitfalls like holding onto a losing position for too long or selling a profitable one too early. It involves setting specific criteria for closing out trades, which can be based on a variety of factors including profit targets, stop-loss orders, time-based exits, or changes in market conditions. The importance of an exit strategy cannot be overstated. It not only helps in protecting gains but also in reducing the risk of significant losses. An effective exit strategy requires careful planning and consideration of one's financial goals, risk tolerance, and market analysis. It's a fundamental component of a successful trading plan and is as important as the strategy used to enter a trade.
 

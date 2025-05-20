@@ -1,6 +1,8 @@
 ---
-title: "Klinger Oscillator: Overview and Calculations (Algo Trading)"
-description: "Explore the Klinger Oscillator developed by Stephen Klinger in 1977 to enhance your trading strategy by analyzing long-term money flow and short-term fluctuations."
+category: quant_concept
+description: Explore the Klinger Oscillator developed by Stephen Klinger in 1977 to
+  enhance your trading strategy by analyzing long-term money flow and short-term fluctuations.
+title: 'Klinger Oscillator: Overview and Calculations (Algo Trading)'
 ---
 
 Understanding market dynamics is crucial for successful trading, and technical indicators play a vital role in this process. Technical indicators are mathematical calculations based on historical price, volume, or open interest information, helping traders predict future price movements. One such indicator is the Klinger Oscillator, developed by Stephen Klinger in 1977. This article explores the Klinger Oscillator, a technical indicator utilized in financial and algorithmic trading to provide insights into market trends and price movements.

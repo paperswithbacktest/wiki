@@ -1,6 +1,8 @@
 ---
-title: "Origins of Supply and Demand Law (Algo Trading)"
-description: "Explore how the fundamental law of supply and demand shapes algorithmic trading strategies by predicting market dynamics and optimizing investment outcomes."
+category: quant_concept
+description: Explore how the fundamental law of supply and demand shapes algorithmic
+  trading strategies by predicting market dynamics and optimizing investment outcomes.
+title: Origins of Supply and Demand Law (Algo Trading)
 ---
 
 Supply and demand are fundamental principles within the field of economics, forming the backbone of market interactions and price determination. Supply refers to the quantity of a good or service that is available for sale at a given price, while demand represents the quantity that consumers are willing and able to purchase at that price. These concepts are vital in understanding how markets function and in predicting consumer behavior. The equilibrium point, where supply equals demand, is crucial as it determines the market price and quantity of goods exchanged.

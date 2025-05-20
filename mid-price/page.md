@@ -1,6 +1,14 @@
 ---
-title: "Mid price (Algo Trading)"
-description: Algorithmic trading revolutionizes financial markets by automating trade execution with minimal human intervention. A key concept in this domain is the mid-price, which averages the bid and ask prices to assess a fair asset value. This metric is essential for crafting, back-testing, and executing cost-effective trading strategies, enabling traders to refine algorithms for greater accuracy and profitability. Understanding mid-price and its nuances, such as rounding conventions and market fluidity, is crucial. In dynamic environments, mid-price serves as a stable reference point, aiding in effective risk management and optimizing trades within algorithmic systems.
+category: quant_concept
+description: Algorithmic trading revolutionizes financial markets by automating trade
+  execution with minimal human intervention. A key concept in this domain is the mid-price,
+  which averages the bid and ask prices to assess a fair asset value. This metric
+  is essential for crafting, back-testing, and executing cost-effective trading strategies,
+  enabling traders to refine algorithms for greater accuracy and profitability. Understanding
+  mid-price and its nuances, such as rounding conventions and market fluidity, is
+  crucial. In dynamic environments, mid-price serves as a stable reference point,
+  aiding in effective risk management and optimizing trades within algorithmic systems.
+title: Mid price (Algo Trading)
 ---
 
 Algorithmic trading has brought a transformative change to financial markets by enabling traders to execute orders at optimal prices with minimal human intervention. Through sophisticated algorithms, traders can capitalize on speed, efficiency, and data analysis that manual trading can't match. At the heart of effective algorithmic trading lies the concept of the mid-price. This metric, which represents the average of the bid and ask prices, is crucial in determining what can be considered the fair value of a stock or commodity at any given time. 

@@ -1,6 +1,9 @@
 ---
-title: "Retail Industry ETFs: Overview and Functionality (Algo Trading)"
-description: "Explore Retail Industry ETFs and their role in global markets Combining insights from the retail sector and algorithmic trading for innovative investment strategies"
+category: quant_concept
+description: Explore Retail Industry ETFs and their role in global markets Combining
+  insights from the retail sector and algorithmic trading for innovative investment
+  strategies
+title: 'Retail Industry ETFs: Overview and Functionality (Algo Trading)'
 ---
 
 The retail industry is a fundamental component of the global economy, serving as a bridge between producers and consumers. It encompasses a wide array of businesses, from small local shops to large multinational corporations, that sell goods and services directly to consumers. Retail not only drives consumer spending, which is a significant contributor to Gross Domestic Product (GDP) in many countries, but it also fosters employment, innovation, and economic growth. The evolving landscape of retail, driven by factors such as digital transformation and changing consumer preferences, continues to shape economic trends worldwide.

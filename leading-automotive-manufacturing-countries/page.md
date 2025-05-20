@@ -1,6 +1,9 @@
 ---
-title: "Leading Automotive Manufacturing Countries (Algo Trading)"
-description: "Explore how leading automotive manufacturing countries like China, the US, Japan, and Germany shape global car production and embrace algorithmic trading innovations."
+category: dataset
+description: Explore how leading automotive manufacturing countries like China, the
+  US, Japan, and Germany shape global car production and embrace algorithmic trading
+  innovations.
+title: Leading Automotive Manufacturing Countries (Algo Trading)
 ---
 
 The global automotive industry stands as a pivotal pillar in the global economic framework, deeply influencing technological innovation and shaping consumer preferences across diverse markets. The industry is characterized by a dynamic landscape, where key players such as China, the United States, Japan, and Germany dominate car production. These nations are not only major producers of automobiles but also leaders in setting technological and regulatory standards that ripple through global markets.

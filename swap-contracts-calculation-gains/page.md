@@ -1,6 +1,9 @@
 ---
-title: "Swap Contracts and Calculation of Gains (Algo Trading)"
-description: "Explore swap contracts and gain calculations in algorithmic trading. Learn how swaps manage risk and how tech innovations enhance their financial market role."
+category: quant_concept
+description: Explore swap contracts and gain calculations in algorithmic trading.
+  Learn how swaps manage risk and how tech innovations enhance their financial market
+  role.
+title: Swap Contracts and Calculation of Gains (Algo Trading)
 ---
 
 In the modern financial landscape, complex financial instruments have enabled more sophisticated trading strategies, opening avenues for financial gains through various derivative contracts. Among these, swap contracts have emerged as instrumental tools for risk management and speculation. A swap contract is essentially a derivative instrument where two parties agree to exchange financial liabilities or cash flows based on pre-determined criteria. These contracts are pivotal in the hedging of risks and provide opportunities for speculating on changes in underlying financial metrics like interest rates or currency exchange rates.

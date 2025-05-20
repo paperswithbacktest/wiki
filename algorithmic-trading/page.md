@@ -1,9 +1,13 @@
 ---
-title: "Algorithmic Trading: A Comprehensive Guide"
-description: "A comprehensive guide to Algorithmic Trading: Leveraging computer programs for efficient and profitable financial transactions. Algo trading uses predefined rules derived from historical data to automate buying and selling of financial instruments, accounting for 70% of U.S equity trades as of 2019. Our platform, Papers With Backtest, offers a vast database of algorithmic strategies across different asset classes: Equities, Cryptocurrencies, Commodities, Currencies, Bonds, and Options."
+category: trading_strategy
+description: 'A comprehensive guide to Algorithmic Trading: Leveraging computer programs
+  for efficient and profitable financial transactions. Algo trading uses predefined
+  rules derived from historical data to automate buying and selling of financial instruments,
+  accounting for 70% of U.S equity trades as of 2019. Our platform, Papers With Backtest,
+  offers a vast database of algorithmic strategies across different asset classes:
+  Equities, Cryptocurrencies, Commodities, Currencies, Bonds, and Options.'
+title: 'Algorithmic Trading: A Comprehensive Guide'
 ---
-
-
 
 Algorithmic trading, often known as "algo trading," leverages computer programs to automate the process of buying and selling financial instruments, primarily in stock exchanges. Based on a predefined set of rules derived from historical data, these algorithms help traders execute orders at optimal speeds and frequencies, making the process more efficient and often more profitable than manual trading.
 

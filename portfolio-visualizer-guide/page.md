@@ -1,6 +1,12 @@
 ---
-title: "Portfolio Visualizer Guide (Algo Trading)"
-description: Explore the transformative potential of portfolio visualizers in algorithmic trading. Understand their role in optimizing investment strategies through data visualization and risk assessment. This guide examines how these tools contribute to effective decision-making and improve trading accuracy by integrating with automated systems. Discover methods to select suitable visualizers for trading needs and overcome integration challenges in modern investment approaches.
+category: trading_strategy
+description: Explore the transformative potential of portfolio visualizers in algorithmic
+  trading. Understand their role in optimizing investment strategies through data
+  visualization and risk assessment. This guide examines how these tools contribute
+  to effective decision-making and improve trading accuracy by integrating with automated
+  systems. Discover methods to select suitable visualizers for trading needs and overcome
+  integration challenges in modern investment approaches.
+title: Portfolio Visualizer Guide (Algo Trading)
 ---
 
 A portfolio visualizer is a sophisticated analytical tool designed to aid investors in the assessment and optimization of their investment portfolios. By leveraging a range of financial metrics and data visualization techniques, these tools allow users to understand complex investment scenarios and make informed decisions. Portfolio visualizers are valuable for assessing risk, evaluating past performance, and understanding the effect of asset allocation on portfolio outcomes.

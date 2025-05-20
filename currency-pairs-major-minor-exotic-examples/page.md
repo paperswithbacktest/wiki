@@ -1,6 +1,8 @@
 ---
-title: "Currency Pairs: Major, Minor, and Exotic Examples (Algo Trading)"
-description: "Explore the world of currency pairs in forex trading The importance of major minor and exotic pairs is highlighted along with algo trading advantages"
+category: quant_concept
+description: Explore the world of currency pairs in forex trading The importance of
+  major minor and exotic pairs is highlighted along with algo trading advantages
+title: 'Currency Pairs: Major, Minor, and Exotic Examples (Algo Trading)'
 ---
 
 Forex trading, a global marketplace for exchanging national currencies, involves the trading of currency pairs. The essence of forex trading lies in the value exchange between two currencies. While major currency pairs like EUR/USD and USD/JPY dominate the market due to their liquidity and stability, exotic currency pairs provide distinctive trading opportunities that can be enticing for seasoned traders. These exotic pairs typically involve one major currency and another from a developing or emerging market, offering a blend of higher volatility and potentially larger spreads.

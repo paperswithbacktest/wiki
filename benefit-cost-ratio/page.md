@@ -1,6 +1,8 @@
 ---
-title: "Benefit-Cost Ratio (Algo Trading)"
-description: "Explore how the Benefit-Cost Ratio enhances decision-making in algorithmic trading by evaluating trade viability, optimizing strategies, and maximizing profitability."
+category: quant_concept
+description: Explore how the Benefit-Cost Ratio enhances decision-making in algorithmic
+  trading by evaluating trade viability, optimizing strategies, and maximizing profitability.
+title: Benefit-Cost Ratio (Algo Trading)
 ---
 
 The Benefit-Cost Ratio (BCR) is a fundamental metric employed in cost-benefit analysis to evaluate the relative value of a project or investment. The calculation of BCR involves dividing the total expected benefits of a project by its total expected costs. A BCR greater than 1.0 signifies that the benefits outweigh the costs, indicating the project's potential viability. This straightforward metric aids decision-makers by providing a clear picture of whether the anticipated gains justify the incurred expenses.

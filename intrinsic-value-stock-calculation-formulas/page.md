@@ -1,6 +1,8 @@
 ---
-title: "Intrinsic Value of Stock: Explanation and Calculation Formulas (Algo Trading)"
-description: "Explore intrinsic stock value calculations and algorithmic trading strategies to assess a company's true worth and enhance investment decision-making."
+category: quant_concept
+description: Explore intrinsic stock value calculations and algorithmic trading strategies
+  to assess a company's true worth and enhance investment decision-making.
+title: 'Intrinsic Value of Stock: Explanation and Calculation Formulas (Algo Trading)'
 ---
 
 Understanding the intrinsic value of a stock is a critical aspect of investment decision-making. It serves as a benchmark for investors to determine a stock's real worth, irrespective of the market's short-term fluctuations. This intrinsic value is calculated through a series of financial models and formulas that offer deeper insights into the company's fundamental value. These calculations assess the present and future prospects of a company's fiscal health, thus aiding investors in making informed decisions. Intrinsic value calculation formulas, such as the Discounted Cash Flow (DCF) model and the Dividend Discount Model (DDM), provide investors with a comprehensive view of a stock's actual value beyond its current market price and volatility.

@@ -1,6 +1,9 @@
 ---
-title: "Compliance Department: Role and Responsibilities (Algo Trading)"
-description: "Explore the vital role and responsibilities of compliance departments in algorithmic trading, focusing on adherence to regulations and safeguarding market integrity."
+category: quant_concept
+description: Explore the vital role and responsibilities of compliance departments
+  in algorithmic trading, focusing on adherence to regulations and safeguarding market
+  integrity.
+title: 'Compliance Department: Role and Responsibilities (Algo Trading)'
 ---
 
 The fast-paced evolution of financial markets has brought algorithmic trading to the forefront, significantly transforming traditional trading practices. This form of trading, which leverages sophisticated algorithms to execute orders at speeds and frequencies that human traders cannot match, offers both opportunities and challenges within the financial sector. At its core, algorithmic trading relies on pre-defined criteria and quantitative analysis, executing trades at a rapid pace across markets.
@@ -108,4 +111,3 @@ Staying well-informed and proactive about compliance is vital for financial inst
 [7]: Gola, C., & Roselli, A. (Eds.). (2017). ["The UK Financial System: Theory and Practice"](https://books.google.com/books/about/The_UK_Banking_System_and_its_Regulatory.html?id=KLKADAAAQBAJ). Palgrave Macmillan.
 
 [8]: Basu, S. (2023). ["Algorithmic Trading and DMA: An introduction to direct access trading strategies"](https://www.semanticscholar.org/paper/Algorithmic-trading-%26-DMA-%3A-an-introduction-to-Johnson/aa5de1ab883d5e23b6651faa7c1807586d688e4b). Springer.
-

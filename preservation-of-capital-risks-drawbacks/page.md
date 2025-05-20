@@ -1,6 +1,8 @@
 ---
-title: "Preservation of Capital: Risks and Drawbacks (Algo Trading)"
-description: "Discover the importance of capital preservation in algorithmic trading Learn about balancing growth with risk management to protect your investments effectively"
+category: trading_strategy
+description: Discover the importance of capital preservation in algorithmic trading
+  Learn about balancing growth with risk management to protect your investments effectively
+title: 'Preservation of Capital: Risks and Drawbacks (Algo Trading)'
 ---
 
 In the rapidly evolving world of finance, balancing growth with protection is a critical priority for investors. Capital preservation emerges as a key strategy in this context, aimed at safeguarding an investor's principal investment amidst volatile market conditions. This approach is particularly important for risk-averse individuals or those approaching retirement, where the primary goal is to maintain the original capital invested.

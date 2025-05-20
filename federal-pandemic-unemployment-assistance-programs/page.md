@@ -1,6 +1,9 @@
 ---
-title: "Federal Pandemic Unemployment Assistance Programs (Algo Trading)"
-description: "Explore how federal unemployment programs and algorithmic trading provided financial resilience during the pandemic facilitating income support and investment opportunities."
+category: quant_concept
+description: Explore how federal unemployment programs and algorithmic trading provided
+  financial resilience during the pandemic facilitating income support and investment
+  opportunities.
+title: Federal Pandemic Unemployment Assistance Programs (Algo Trading)
 ---
 
 The COVID-19 pandemic initiated an unprecedented global economic crisis, disrupting supply chains, consumer behavior, and employment patterns. This seismic event led to substantial job losses globally, as businesses shuttered or significantly curtailed operations to curb the virus's spread. In the United States alone, tens of millions of workers faced layoffs or reduced hours, creating an urgent need for intervention to prevent further economic collapse.

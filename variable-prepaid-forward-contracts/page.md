@@ -1,6 +1,8 @@
 ---
-title: "Variable Prepaid Forward Contracts (Algo Trading)"
-description: "Explore variable prepaid forward contracts and their application in algorithmic trading. Learn how these tools optimize investments, defer taxes, and enhance liquidity."
+category: quant_concept
+description: Explore variable prepaid forward contracts and their application in algorithmic
+  trading. Learn how these tools optimize investments, defer taxes, and enhance liquidity.
+title: Variable Prepaid Forward Contracts (Algo Trading)
 ---
 
 This article explores the intricate world of financial instruments, with a particular focus on prepaid forward contracts and variable contracts, and their transformative application within algorithmic trading. These financial instruments are essential for managing investments efficiently while optimizing tax liabilities. Prepaid forward contracts, for example, allow investors to lock in future stock sale prices, effectively deferring capital gains taxes while securing liquidity. Similarly, variable contracts offer flexibility and strategic advantages, catering to the nuanced financial planning needs of investors.

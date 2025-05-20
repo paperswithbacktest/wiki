@@ -1,6 +1,8 @@
 ---
-title: "Accumulation Bond Overview (Algo Trading)"
-description: "Explore the intricacies of accumulation bonds and their role in algorithmic trading Discover their benefits and drawbacks and how they suit long-term investors"
+category: quant_concept
+description: Explore the intricacies of accumulation bonds and their role in algorithmic
+  trading Discover their benefits and drawbacks and how they suit long-term investors
+title: Accumulation Bond Overview (Algo Trading)
 ---
 
 Bonds have long been a staple in the world of investing, offering a relatively safe and predictable way to grow wealth. These fixed-income instruments provide investors with regular interest payments and the return of principal at maturity, thereby reducing risk compared to equity investments. Among the various types of bonds, the accumulation bond stands out as a unique option for investors. Also known as zero-coupon bonds, accumulation bonds are purchased at a discount compared to their face value and do not distribute periodic interest payments. Instead, they accumulate value internally until they mature, providing the entire interest and principal in one lump sum at the end. This structure appeals to investors with a long-term horizon seeking substantial returns through the power of compounding.

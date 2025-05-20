@@ -1,6 +1,8 @@
 ---
-title: "Advantages of Investing in Large-Cap Stocks (Algo Trading)"
-description: "Discover the benefits of investing in large-cap stocks with algo trading which include stability, reliable dividends, liquidity, and informed decision-making."
+category: trading_strategy
+description: Discover the benefits of investing in large-cap stocks with algo trading
+  which include stability, reliable dividends, liquidity, and informed decision-making.
+title: Advantages of Investing in Large-Cap Stocks (Algo Trading)
 ---
 
 Investing in the stock market presents a wide array of opportunities, with large-cap stocks standing out due to their well-recognized stability and reliability. These stocks typically pertain to companies with a market capitalization of $10 billion or more, representing established and financially sound firms. This article will explore the numerous advantages associated with large-cap stocks, focusing on their stability and potential for steady dividend payouts. These attributes make them an appealing choice for conservative and income-seeking investors, as the robust business models of large-cap companies often enable them to sustain operations even during economic downturns.

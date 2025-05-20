@@ -1,6 +1,8 @@
 ---
-title: "Markov Processes (Algo Trading)"
-description: "Explore how Markov Processes enhance algorithmic trading by predicting market movements using mathematical models that transition probabilistically."
+category: quant_concept
+description: Explore how Markov Processes enhance algorithmic trading by predicting
+  market movements using mathematical models that transition probabilistically.
+title: Markov Processes (Algo Trading)
 ---
 
 Markov Processes are fundamental mathematical models used to describe systems that transition from one state to another, with the probability of each state being dependent only on the current state and not on the sequence of events that preceded it. This property is known as the Markov property. Markov Processes are pivotal in diverse fields and have gained particular significance in the domain of algorithmic trading, where they help model and predict market movements for formulating trading strategies.

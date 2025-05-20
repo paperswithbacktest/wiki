@@ -1,6 +1,8 @@
 ---
-title: "Echo Bubbles: Significance and Mechanism (Algo Trading)"
-description: "Explore the dynamics of echo bubbles in financial markets focusing on their formation and impact alongside the role of algorithmic trading in bubble dynamics."
+category: quant_concept
+description: Explore the dynamics of echo bubbles in financial markets focusing on
+  their formation and impact alongside the role of algorithmic trading in bubble dynamics.
+title: 'Echo Bubbles: Significance and Mechanism (Algo Trading)'
 ---
 
 The concept of economic bubbles is a complex subject in financial markets, where asset prices rise rapidly and reach unsustainable levels before sharply declining. This phenomenon captures the interest of investors and policymakers alike due to its potential impact on financial stability. Economic bubbles are not merely historical anomalies; they are recurrent events with significant implications.

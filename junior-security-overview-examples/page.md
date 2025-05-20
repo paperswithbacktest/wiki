@@ -1,6 +1,9 @@
 ---
-title: "Junior Security: Overview and Examples (Algo Trading)"
-description: "Explore junior security concepts within cybersecurity and algorithmic trading to understand foundational defenses against cyber threats, ensuring robust data protection."
+category: quant_concept
+description: Explore junior security concepts within cybersecurity and algorithmic
+  trading to understand foundational defenses against cyber threats, ensuring robust
+  data protection.
+title: 'Junior Security: Overview and Examples (Algo Trading)'
 ---
 
 In the digital age, cybersecurity is integral to the protection of sensitive data and systems from unauthorized access and malicious attacks. As technology advances, understanding fundamental security concepts becomes increasingly important, especially for individuals aspiring to enter the cybersecurity field. Junior security concepts, though often considered basic, form the foundational knowledge necessary for building effective security measures. Recognizing the role of these concepts is crucial for identifying potential vulnerabilities and implementing defensive strategies.

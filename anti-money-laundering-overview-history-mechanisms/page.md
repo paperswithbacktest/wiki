@@ -1,6 +1,9 @@
 ---
-title: "Anti-Money Laundering: Overview, History, and Mechanisms (Algo Trading)"
-description: "Explore the evolution of Anti-Money Laundering regulations in the context of algorithmic trading and discover how advanced technologies are safeguarding financial markets."
+category: quant_concept
+description: Explore the evolution of Anti-Money Laundering regulations in the context
+  of algorithmic trading and discover how advanced technologies are safeguarding financial
+  markets.
+title: 'Anti-Money Laundering: Overview, History, and Mechanisms (Algo Trading)'
 ---
 
 The financial industry has witnessed transformative changes with the rise of algorithmic trading, a method of executing financial transactions through automated, pre-programmed trading instructions. This innovation not only increases market efficiency and liquidity but also presents new challenges, particularly concerning money laundering activities. As financial markets become more complex and interconnected through technology, they increasingly serve as targets for money laundering schemes aimed at integrating illegally obtained funds into the legitimate economy.

@@ -1,6 +1,8 @@
 ---
-title: "Czech Koruna: Overview, Historical Perspective, and Economic Role (Algo Trading)"
-description: "Explore the Czech Koruna's evolution, its economic impact, and its role in algorithmic trading. Understand its significance in Central Europe."
+category: quant_concept
+description: Explore the Czech Koruna's evolution, its economic impact, and its role
+  in algorithmic trading. Understand its significance in Central Europe.
+title: 'Czech Koruna: Overview, Historical Perspective, and Economic Role (Algo Trading)'
 ---
 
 In this article, we explore the evolution of the Czech Koruna, its role in the Czech economy, and its relationship with algorithmic trading. The Czech monetary history is marked by notable transitions and adaptations, illustrating the nation's economic resilience. The Czech Koruna, introduced in 1993 after the peaceful dissolution of Czechoslovakia, has become an emblem of national identity and economic stability. Despite facing challenges such as initial devaluation and fluctuating exchange rates, the Koruna has established itself as a robust currency.

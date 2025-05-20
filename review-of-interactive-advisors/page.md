@@ -1,6 +1,9 @@
 ---
-title: "Review of Interactive Advisors (Algo Trading)"
-description: "Review Interactive Advisors' automated investing platform to explore its range of portfolios and innovative features like tax-loss harvesting and socially responsible investing."
+category: trading_strategy
+description: Review Interactive Advisors' automated investing platform to explore
+  its range of portfolios and innovative features like tax-loss harvesting and socially
+  responsible investing.
+title: Review of Interactive Advisors (Algo Trading)
 ---
 
 Automated investing platforms have gained considerable traction in recent years, reshaping how individuals approach wealth management and investment strategies. These platforms offer an array of sophisticated tools enabling investors, both novice and seasoned, to diversify their portfolios without the need for in-depth market knowledge or constant monitoring. The allure lies in their ability to provide a hands-off, efficient investment experience powered by cutting-edge technology.

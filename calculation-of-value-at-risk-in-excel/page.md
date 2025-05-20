@@ -1,6 +1,13 @@
 ---
-title: "Calculation of Value at Risk in Excel (Algo Trading)"
-description: "Learn how to calculate Value at Risk (VaR) in Excel for algorithmic trading and risk management with this comprehensive guide. Understand the fundamentals of VaR, its significance in quantifying potential portfolio losses, and the practical steps for using Excel functions to perform these calculations. Discover how incorporating VaR can enhance your trading strategies and ensure adherence to predefined risk parameters. This page provides essential insights and methods to manage financial risk effectively using widely accessible tools."
+category: quant_concept
+description: Learn how to calculate Value at Risk (VaR) in Excel for algorithmic trading
+  and risk management with this comprehensive guide. Understand the fundamentals of
+  VaR, its significance in quantifying potential portfolio losses, and the practical
+  steps for using Excel functions to perform these calculations. Discover how incorporating
+  VaR can enhance your trading strategies and ensure adherence to predefined risk
+  parameters. This page provides essential insights and methods to manage financial
+  risk effectively using widely accessible tools.
+title: Calculation of Value at Risk in Excel (Algo Trading)
 ---
 
 Value at Risk (VaR) is a vital metric in financial risk management, widely employed to quantify the potential losses within a trading portfolio over a specified timeframe. This metric is integral for risk assessment as it allows investors and financial institutions to understand the risk of loss inherent in their portfolios and make informed decisions regarding their investments.
@@ -258,4 +265,3 @@ In summary, VaR continues to be a cornerstone in financial risk management and a
 9. Online Courses and Lectures: Platforms like Coursera, edX, and Khan Academy offer courses on financial risk management and quantitative finance, including modules on VaR to build foundational knowledge or expand expertise.
 
 These resources will provide a well-rounded understanding of Value at Risk and its application in financial risk management and algorithmic trading.
-

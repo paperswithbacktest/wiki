@@ -1,6 +1,9 @@
 ---
-title: "Pre-Market and After-Hours Trading in Stock Markets (Algo Trading)"
-description: "Explore the dynamics of pre-market and after-hours trading in stocks Discover the role of algorithmic strategies in navigating these extended trading periods effectively"
+category: trading_strategy
+description: Explore the dynamics of pre-market and after-hours trading in stocks
+  Discover the role of algorithmic strategies in navigating these extended trading
+  periods effectively
+title: Pre-Market and After-Hours Trading in Stock Markets (Algo Trading)
 ---
 
 The stock market traditionally operates within specific hours, standardized as the regular trading session from 9:30 AM to 4:00 PM Eastern Time for major exchanges like the New York Stock Exchange (NYSE) and NASDAQ. However, trading activity is not confined to these hours alone. After-hours and pre-market trading sessions extend the possibilities for market participation beyond conventional timings. These extended hours allow for additional trading opportunities that can influence stock prices and investor decisions.

@@ -1,6 +1,8 @@
 ---
-title: "SEC Form U-5S Overview (Algo Trading)"
-description: "Discover the history and significance of SEC Form U-5S in utility regulation and algorithmic trading despite its obsolescence post-2005 repeal."
+category: quant_concept
+description: Discover the history and significance of SEC Form U-5S in utility regulation
+  and algorithmic trading despite its obsolescence post-2005 repeal.
+title: SEC Form U-5S Overview (Algo Trading)
 ---
 
 The landscape of securities regulation is multi-faceted, particularly when it involves utility filings and algorithmic trading. Within this complex ecosystem, understanding key forms such as the SEC Form U-5S is crucial for stakeholders in both the finance and energy sectors. This document historically served as a pivotal compliance tool, offering detailed insights into the operational and financial status of registered public utility holding companies. The regulatory environment is continually evolving, and staying informed about these changes is vital for companies to ensure compliance and for investors to make informed decisions. 

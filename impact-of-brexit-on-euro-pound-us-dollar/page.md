@@ -1,6 +1,8 @@
 ---
-title: "Impact of Brexit on the Euro, Pound, and US Dollar (Algo Trading)"
-description: "Explore how Brexit impacts the Euro Pound and US Dollar in forex markets Discover how algorithmic trading helps navigate these currency fluctuations effectively"
+category: trading_strategy
+description: Explore how Brexit impacts the Euro Pound and US Dollar in forex markets
+  Discover how algorithmic trading helps navigate these currency fluctuations effectively
+title: Impact of Brexit on the Euro, Pound, and US Dollar (Algo Trading)
 ---
 
 Currency trading, a dynamic component of global financial markets, is inherently sensitive to political events that alter economic landscapes. A prominent example is Brexit, the United Kingdom's decision to leave the European Union, which has induced significant shifts in exchange rates involving the US Dollar (USD), the British Pound (GBP), and the Euro (EUR).

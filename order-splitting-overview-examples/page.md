@@ -1,6 +1,9 @@
 ---
-title: "Order Splitting: Overview and Examples (Algo Trading)"
-description: "Explore algorithmic trading strategies like VWAP, TWAP, and Implementation Shortfall that optimize order execution by minimizing market impact and enhancing efficiency."
+category: trading_strategy
+description: Explore algorithmic trading strategies like VWAP, TWAP, and Implementation
+  Shortfall that optimize order execution by minimizing market impact and enhancing
+  efficiency.
+title: 'Order Splitting: Overview and Examples (Algo Trading)'
 ---
 
 In modern financial markets, the complexity and volume of trades necessitate advanced strategies for executing large orders. These strategies aim to achieve optimal outcomes through a synergistic relationship between investment strategies, trade execution, order splitting, and algorithmic trading. As financial markets have evolved, the traditional manual approach to trading has been largely replaced by algorithmic trading, which now dominates the landscape. This transition has enabled more efficient handling of trades, paving the way for innovations that address the intricacies of executing substantial market transactions.

@@ -1,6 +1,15 @@
 ---
-title: "In-Sample vs. Out-Of-Sample Analysis of Trading Strategies"
-description: "Explore the essential roles of in-sample and out-of-sample analyses in algorithmic trading for developing and enhancing trading strategies. Understand their significance in ensuring trading models are robust and reliable in both historical and live market conditions. Discover the differences between these methods: in-sample analysis focuses on optimizing strategies with historical data potentially risking overfitting while out-of-sample analysis validates model performance against unseen data protecting against curve fitting and ensuring adaptability to new market scenarios. Anomalies and their persistence post-publication are also discussed highlighting their impact on strategy development."
+category: trading_strategy
+description: 'Explore the essential roles of in-sample and out-of-sample analyses
+  in algorithmic trading for developing and enhancing trading strategies. Understand
+  their significance in ensuring trading models are robust and reliable in both historical
+  and live market conditions. Discover the differences between these methods: in-sample
+  analysis focuses on optimizing strategies with historical data potentially risking
+  overfitting while out-of-sample analysis validates model performance against unseen
+  data protecting against curve fitting and ensuring adaptability to new market scenarios.
+  Anomalies and their persistence post-publication are also discussed highlighting
+  their impact on strategy development.'
+title: In-Sample vs. Out-Of-Sample Analysis of Trading Strategies
 ---
 
 In-sample and out-of-sample analyses are crucial components of algorithmic trading, particularly when evaluating and enhancing trading strategies. These analyses are essential for developing robust and reliable trading models, ensuring they perform well not just historically, but also in live, unforeseen market conditions. The primary goal of this article is to provide a comprehensive understanding of these methods by delineating their differences and their significance in the strategy development process.

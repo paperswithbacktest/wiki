@@ -1,6 +1,12 @@
 ---
-title: "Historical Market Data with Python API (Algo Trading)"
-description: Explore the strategies for leveraging historical market data using Python for algo trading. Discover how platforms like Sensex and Yahoo Finance provide crucial data for executing algorithmic trades. Learn how traders utilize these resources to design effective trading strategies and understand the role of computer algorithms in optimizing trade execution and managing portfolios efficiently. Unlock the potential of technology to enhance your trading performance in global markets.
+category: dataset
+description: Explore the strategies for leveraging historical market data using Python
+  for algo trading. Discover how platforms like Sensex and Yahoo Finance provide crucial
+  data for executing algorithmic trades. Learn how traders utilize these resources
+  to design effective trading strategies and understand the role of computer algorithms
+  in optimizing trade execution and managing portfolios efficiently. Unlock the potential
+  of technology to enhance your trading performance in global markets.
+title: Historical Market Data with Python API (Algo Trading)
 ---
 
 The world of financial trading has seen significant advancements with the evolution of technology. Among these, algorithmic trading, often termed algo trading, emerges as a revolutionary method, reshaping how trades are executed across global markets. Algorithmic trading involves using computer algorithms to automatically make trading decisions, perform trades, and manage portfolios, based on predefined criteria. Its rise has coincided with the growth of trading platforms and data sources, providing both opportunities and challenges for traders.

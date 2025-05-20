@@ -1,9 +1,9 @@
 ---
-title: Robinhood Vs Webull Comprehensive Trading Platform Comparison
+category: trading_strategy
 description: Robinhood vs Webull comparison covers interfaces fees tools and advanced
   trading features so you can pick the right platform Discover more inside
+title: Robinhood Vs Webull Comprehensive Trading Platform Comparison
 ---
-
 
 ![Image](images/1.jpeg)
 

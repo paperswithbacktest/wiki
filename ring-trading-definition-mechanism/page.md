@@ -1,6 +1,8 @@
 ---
-title: "Ring Trading: Definition and Mechanism (Algo Trading)"
-description: "Explore the evolution of financial trading with a focus on ring trading's open outcry system and algorithmic trading's efficiency through digital platforms."
+category: quant_concept
+description: Explore the evolution of financial trading with a focus on ring trading's
+  open outcry system and algorithmic trading's efficiency through digital platforms.
+title: 'Ring Trading: Definition and Mechanism (Algo Trading)'
 ---
 
 Financial markets have evolved dramatically with technological advancements, leading to substantial changes in how trades are conducted and markets are structured. Historically, trading involved direct human interaction in physical spaces, but the rise of digital technology has revolutionized these traditional methods. Ring trading and algorithmic trading (algo trading) are two critical mechanisms that reflect this transformation, each having a distinct impact on modern trading environments.

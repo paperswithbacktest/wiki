@@ -1,6 +1,11 @@
 ---
-title: "Identifying Forex Scams (Algo Trading)"
-description: "Discover how to protect yourself from forex scams in algorithmic trading by exploring common fraudulent tactics, understanding the misuse of trading technology, and learning to identify reliable trading systems. Gain insights on how to navigate the forex market securely and responsibly to safeguard your investments and make informed decisions."
+category: trading_strategy
+description: Discover how to protect yourself from forex scams in algorithmic trading
+  by exploring common fraudulent tactics, understanding the misuse of trading technology,
+  and learning to identify reliable trading systems. Gain insights on how to navigate
+  the forex market securely and responsibly to safeguard your investments and make
+  informed decisions.
+title: Identifying Forex Scams (Algo Trading)
 ---
 
 The foreign exchange (forex) market represents the largest and most liquid financial market globally, with an estimated daily trading volume exceeding $6 trillion as of 2023. This vast and dynamic landscape attracts traders worldwide due to its potential for high returns and 24-hour accessibility. However, this allure also creates a fertile environment for scams, primarily due to its partially unregulated nature in many jurisdictions. Fraudsters exploit this lack of oversight, particularly in the rapidly evolving sectors such as algorithmic trading, where the misuse of technology can result in substantial losses for unsuspecting traders.

@@ -1,6 +1,8 @@
 ---
-title: "Automatic Exercise: Concept, Mechanism, and Examples (Algo Trading)"
-description: "Explore the role of automatic exercise in options trading enhancing efficiency by ensuring in-the-money options are exercised without manual input optimizing profits."
+category: quant_concept
+description: Explore the role of automatic exercise in options trading enhancing efficiency
+  by ensuring in-the-money options are exercised without manual input optimizing profits.
+title: 'Automatic Exercise: Concept, Mechanism, and Examples (Algo Trading)'
 ---
 
 In today's fast-paced financial markets, automation plays a crucial role in optimizing trading strategies and managing portfolios. Automation has led to the development of sophisticated tools that streamline processes and enhance efficiency, ensuring that traders and investors can respond swiftly to market dynamics. One such automated mechanism is the automatic exercise of options, a vital feature for option traders.

@@ -1,6 +1,9 @@
 ---
-title: "Interlocking Directorates: Meaning and Function (Algo Trading)"
-description: "Explore the intricate role of interlocking directorates and algorithmic trading in corporate governance. Understand their impact on market behavior and regulatory challenges."
+category: quant_concept
+description: Explore the intricate role of interlocking directorates and algorithmic
+  trading in corporate governance. Understand their impact on market behavior and
+  regulatory challenges.
+title: 'Interlocking Directorates: Meaning and Function (Algo Trading)'
 ---
 
 In a rapidly evolving corporate landscape, the dynamics of board governance and interlocking directorates play a crucial role in shaping corporate governance and market behavior. As businesses expand and markets globalize, the intricate networks formed by individuals serving on multiple boards become increasingly influential. This web of relationships, known as interlocking directorates, affects how companies strategize and respond to regulatory and competitive pressures.

@@ -1,6 +1,8 @@
 ---
-title: "Functions of Central Banks (Algo Trading)"
-description: "Explore how central banks, financial regulation, and algorithmic trading shape global markets. Understand their interplay influencing stability and growth."
+category: quant_concept
+description: Explore how central banks, financial regulation, and algorithmic trading
+  shape global markets. Understand their interplay influencing stability and growth.
+title: Functions of Central Banks (Algo Trading)
 ---
 
 The modern financial system is a complex network where financial regulation, central banks, monetary policy, and algorithmic trading converge to shape global markets. Each of these components plays a vital role in maintaining the stability, efficiency, and integrity of financial markets.

@@ -1,6 +1,8 @@
 ---
-title: "Airport Revenue Bonds (Algo Trading)"
-description: "Explore the role of airport revenue bonds in financing aviation infrastructure projects and how algorithmic trading enhances market efficiency and investor strategies."
+category: trading_strategy
+description: Explore the role of airport revenue bonds in financing aviation infrastructure
+  projects and how algorithmic trading enhances market efficiency and investor strategies.
+title: Airport Revenue Bonds (Algo Trading)
 ---
 
 The expansion and modernization of the aviation industry heavily depend on robust infrastructure. Airports, as essential nodes in transportation networks, provide not only logistical support but also serve as significant centers of economic activity, generating jobs and driving regional development. Consequently, securing adequate funding for the maintenance and expansion of airport facilities is imperative.

@@ -1,6 +1,9 @@
 ---
-title: "White Candlestick: Function and Explanation (Algo Trading)"
-description: "Explore the significance of white candlesticks in algorithmic trading as they signal bullish trends indicating increased buyer confidence and potential price rises."
+category: trading_strategy
+description: Explore the significance of white candlesticks in algorithmic trading
+  as they signal bullish trends indicating increased buyer confidence and potential
+  price rises.
+title: 'White Candlestick: Function and Explanation (Algo Trading)'
 ---
 
 Candlestick patterns are pivotal in financial analysis and algorithmic trading due to their ability to provide nuanced insights into price action. These patterns, originating from Japanese rice markets, have become a staple in trading strategies, enabling traders to interpret market sentiment effectively. Among these, white candlesticks are particularly significant as they often signal bullish trends in financial markets. A white candlestick indicates that the closing price of an asset was higher than its opening price over a given time frame. This pattern suggests a predominance of buying pressure, reflecting investor confidence and potentially indicating upward price movement.

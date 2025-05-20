@@ -1,6 +1,8 @@
 ---
-title: "Major Risks Facing International Businesses (Algo Trading)"
-description: "Explore the major risks international businesses face, from currency fluctuations to algorithmic trading, and learn strategies to mitigate these challenges."
+category: quant_concept
+description: Explore the major risks international businesses face, from currency
+  fluctuations to algorithmic trading, and learn strategies to mitigate these challenges.
+title: Major Risks Facing International Businesses (Algo Trading)
 ---
 
 In today's interconnected world, international business offers substantial opportunities for growth and expansion. However, this global landscape is also replete with myriad risks that demand careful navigation. Companies engaging in cross-border trade encounter a series of significant challenges that can have profound implications on their operations and profitability. These challenges are increasingly complex due to the dynamic nature of international markets and the interplay of various global factors.

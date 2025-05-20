@@ -1,9 +1,12 @@
 ---
-title: "Discounting Terminal Value (Algo Trading)"
-description: "Discover the role of terminal value in algo trading to estimate long-term asset worth and enhance the accuracy of algorithmic models for better investment strategies."
+category: quant_concept
+description: Discover the role of terminal value in algo trading to estimate long-term
+  asset worth and enhance the accuracy of algorithmic models for better investment
+  strategies.
+title: Discounting Terminal Value (Algo Trading)
 ---
 
- to Discounting Terminal Value in Algo Trading
+to Discounting Terminal Value in Algo Trading
 
 Terminal value is a pivotal concept within discounted cash flow (DCF) analysis, serving as an estimation of an asset or business's value at the end of a forecast period when future cash flows are expected to stabilize. This estimation allows investors and financial analysts to gauge the future economic potential of a business or asset beyond the explicit forecast period, encapsulating the notion that a business is a going concern beyond the years immediately visible in financial statements.
 

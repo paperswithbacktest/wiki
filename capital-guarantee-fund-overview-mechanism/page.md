@@ -1,6 +1,9 @@
 ---
-title: "Capital Guarantee Fund: Overview and Mechanism (Algo Trading)"
-description: "Explore the benefits of capital guarantee funds and algorithmic trading that enhance investment security and returns by merging traditional finance with innovative technology."
+category: quant_concept
+description: Explore the benefits of capital guarantee funds and algorithmic trading
+  that enhance investment security and returns by merging traditional finance with
+  innovative technology.
+title: 'Capital Guarantee Fund: Overview and Mechanism (Algo Trading)'
 ---
 
 In today's dynamic financial landscape, a wide array of investment products presents unique opportunities for individuals and institutions alike. These products are essential for addressing various financial goals, such as capital growth, income generation, and capital preservation. As markets become increasingly unpredictable, ensuring the security of investments remains a primary concern for investors. This concern drives the demand for financial products and strategies that offer protection against potential losses.

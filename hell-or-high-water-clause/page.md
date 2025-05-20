@@ -1,6 +1,8 @@
 ---
-title: "Hell or High Water Clause (Algo Trading)"
-description: "Explore the intricacies of financial agreements and contract law in algorithmic trading Understanding key legal terms is crucial for navigating modern finance."
+category: quant_concept
+description: Explore the intricacies of financial agreements and contract law in algorithmic
+  trading Understanding key legal terms is crucial for navigating modern finance.
+title: Hell or High Water Clause (Algo Trading)
 ---
 
 In today's dynamic financial environment, understanding complex financial agreements and contracts is of paramount importance for both businesses and individual investors. As the landscape of finance continues to evolve with technological advancements, the intricacies of contract law play a pivotal role in safeguarding interests and ensuring smooth transactions. This article investigates into the key legal terminologies utilized in contract law, with a particular emphasis on their implications in financial agreements and the burgeoning field of algorithmic trading.

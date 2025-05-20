@@ -1,6 +1,9 @@
 ---
-title: "Blockholders and Activist Shareholders (Algo Trading)"
-description: "Explore the complex interactions between blockholders, activist shareholders, and algorithmic trading. Discover their impact on corporate governance and market dynamics."
+category: quant_concept
+description: Explore the complex interactions between blockholders, activist shareholders,
+  and algorithmic trading. Discover their impact on corporate governance and market
+  dynamics.
+title: Blockholders and Activist Shareholders (Algo Trading)
 ---
 
 The intersection between blockholder corporate governance, activist shareholders, and algorithmic trading (algo trading) represents a complex dynamic that shapes the contemporary financial landscape. Blockholders, often institutional investors with significant equity stakes in a corporation, play a pivotal role in corporate governance by exercising considerable influence over company decisions. Their power largely stems from their substantial shareholdings, allowing them to exert control through voting rights and engagement with management.

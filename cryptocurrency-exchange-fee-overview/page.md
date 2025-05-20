@@ -1,6 +1,11 @@
 ---
-title: "Cryptocurrency Exchange Fee Overview (Algo Trading)"
-description: "Explore the intricacies of cryptocurrency exchange fees to boost your trading profitability. Understand the varying trading fees, deposit, and withdrawal charges, alongside network costs that impact both manual and algorithmic trading strategies. Learn to navigate maker and taker fees, manage transaction costs, and enhance your trading tactics in the competitive cryptocurrency market."
+category: trading_strategy
+description: Explore the intricacies of cryptocurrency exchange fees to boost your
+  trading profitability. Understand the varying trading fees, deposit, and withdrawal
+  charges, alongside network costs that impact both manual and algorithmic trading
+  strategies. Learn to navigate maker and taker fees, manage transaction costs, and
+  enhance your trading tactics in the competitive cryptocurrency market.
+title: Cryptocurrency Exchange Fee Overview (Algo Trading)
 ---
 
 Cryptocurrency trading is a complex landscape where various costs, most notably exchange fees, can significantly impact profitability. These fees, which include trading fees, deposit and withdrawal charges, and network costs, present both challenges and opportunities for traders seeking to optimize their returns. Understanding how to navigate these costs is crucial for both manual and algorithmic traders aiming to enhance their trading strategies.

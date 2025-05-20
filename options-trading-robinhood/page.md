@@ -1,6 +1,9 @@
 ---
-title: "Options Trading on Robinhood (Algo Trading)"
-description: "Explore options trading on Robinhood including algorithmic strategies and its impact. Learn how technology enables wider access and the challenges novice traders face."
+category: trading_strategy
+description: Explore options trading on Robinhood including algorithmic strategies
+  and its impact. Learn how technology enables wider access and the challenges novice
+  traders face.
+title: Options Trading on Robinhood (Algo Trading)
 ---
 
 Options trading has transformed significantly with the proliferation of technology, making it more accessible than ever before. Platforms like Robinhood have played a crucial role in bringing options trading to the broader public. Traditionally, options trading was primarily accessible to institutional investors or those who had the means to engage in complex financial strategies. However, with technological advancements and the emergence of user-friendly apps, individual investors can now participate in options trading without substantial barriers.

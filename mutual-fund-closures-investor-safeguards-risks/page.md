@@ -1,6 +1,8 @@
 ---
-title: "Mutual Fund Closures: Investor Safeguards or Risks (Algo Trading)"
-description: "Explore the impact of mutual fund closures on investments and discover how algorithmic trading and investment protection funds safeguard investor interests."
+category: quant_concept
+description: Explore the impact of mutual fund closures on investments and discover
+  how algorithmic trading and investment protection funds safeguard investor interests.
+title: 'Mutual Fund Closures: Investor Safeguards or Risks (Algo Trading)'
 ---
 
 The financial landscape is undergoing a significant transformation, primarily driven by advancements in technology and the development of innovative investment strategies. Among the most influential elements reshaping this landscape are mutual funds, investment protection funds, and algorithmic trading. These components are not only pivotal in enhancing investment opportunities but are also crucial in maintaining market stability and protecting investor interests.

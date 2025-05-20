@@ -1,7 +1,8 @@
 ---
-title: Generalized Additive Models For Flexible Data Modeling
+category: quant_concept
 description: Generalized Additive Models deliver flexible non linear insights into
   complex data relationships and guide decision making with ease Discover more inside
+title: Generalized Additive Models For Flexible Data Modeling
 ---
 
 ![Image](images/1.png)

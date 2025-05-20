@@ -1,6 +1,8 @@
 ---
-title: "Response Lag and Its Mechanisms (Algo Trading)"
-description: "Explore the complexities of response lag in algorithmic trading, how it impacts strategy execution, and discover cutting-edge solutions to minimize latency."
+category: quant_concept
+description: Explore the complexities of response lag in algorithmic trading, how
+  it impacts strategy execution, and discover cutting-edge solutions to minimize latency.
+title: Response Lag and Its Mechanisms (Algo Trading)
 ---
 
 Algorithmic trading has dramatically transformed financial markets by enabling trades to be executed at speeds and efficiencies far beyond human capabilities. Leveraging sophisticated algorithms and computer systems, this form of trading capitalizes on market opportunities that are often fleeting, requiring exceptionally rapid actions. Despite its advantages, algorithmic trading encounters a critical challenge known as latency, or response lag, which is the delay between initiating a trade order and its actual execution in the market.

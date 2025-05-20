@@ -1,6 +1,15 @@
 ---
-title: "Comparison of Value and Growth Stocks (Algo Trading)"
-description: "Explore the distinctions between value and growth stocks with this in-depth comparison, highlighting how algorithmic trading can optimize these strategies for enhanced investment performance. Learn how value investing targets undervalued, strong-fundamentals companies and growth investing focuses on companies with high growth potential. Discover how algorithmic trading technology leverages data to improve decision-making and efficiency, offering a modern approach to portfolio management. This article provides valuable insights for investors seeking to refine their strategies and optimize financial outcomes by integrating traditional investing methods with cutting-edge technology."
+category: trading_strategy
+description: Explore the distinctions between value and growth stocks with this in-depth
+  comparison, highlighting how algorithmic trading can optimize these strategies for
+  enhanced investment performance. Learn how value investing targets undervalued,
+  strong-fundamentals companies and growth investing focuses on companies with high
+  growth potential. Discover how algorithmic trading technology leverages data to
+  improve decision-making and efficiency, offering a modern approach to portfolio
+  management. This article provides valuable insights for investors seeking to refine
+  their strategies and optimize financial outcomes by integrating traditional investing
+  methods with cutting-edge technology.
+title: Comparison of Value and Growth Stocks (Algo Trading)
 ---
 
 The world of investing offers a myriad of strategies and options, each tailored to different risk appetites and financial goals. Among these strategies, value investing and growth investing stand out as two prominent approaches that investors often consider. Value investing focuses on identifying stocks that are undervalued by the market, encompassing companies with strong fundamentals trading at prices lower than their intrinsic value. On the other hand, growth investing targets companies expected to grow at an above-average rate compared to the overall market, often characterized by innovative products and market expansion.

@@ -1,6 +1,8 @@
 ---
-title: "Financial Institutions Regulatory Act (Algo Trading)"
-description: "Explore the impact of the Financial Institutions Regulatory Act on algorithmic trading and banking law Learn how regulation balances innovation and market stability"
+category: quant_concept
+description: Explore the impact of the Financial Institutions Regulatory Act on algorithmic
+  trading and banking law Learn how regulation balances innovation and market stability
+title: Financial Institutions Regulatory Act (Algo Trading)
 ---
 
 The world of finance has experienced a profound transformation with the integration of technology into its operations. A notable aspect of this transformation is algorithmic trading, a method that automates the trading process via sophisticated computer algorithms. Algorithmic trading is increasingly redefining how trades are executed by minimizing human intervention, enhancing speed, and increasing efficiency in financial markets.

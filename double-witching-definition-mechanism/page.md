@@ -1,6 +1,8 @@
 ---
-title: "Double Witching: Definition and Mechanism (Algo Trading)"
-description: "Explore the impact of double witching in stocks and the role of algorithmic trading in navigating increased volatility and optimizing trade strategies."
+category: quant_concept
+description: Explore the impact of double witching in stocks and the role of algorithmic
+  trading in navigating increased volatility and optimizing trade strategies.
+title: 'Double Witching: Definition and Mechanism (Algo Trading)'
 ---
 
 Double witching in the stock market refers to the simultaneous expiration of two types of derivative contracts—stock options and stock index futures—occurring typically on the third Friday of a month. This phenomenon can create significant volatility in the stock market due to the large volume of trades executed as investors and traders attempt to unwind or roll over their positions. Historically, double witching has been known to lead to increased trading activity as market participants adjust their portfolios to account for the expiry of these contracts.

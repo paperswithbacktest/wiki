@@ -1,6 +1,8 @@
 ---
-title: "League Table: Definition, Function, and Illustration (Algo Trading)"
-description: "Discover the importance of ranking systems in finance and sports, focusing on league tables and algorithmic trading to enhance performance analysis."
+category: quant_concept
+description: Discover the importance of ranking systems in finance and sports, focusing
+  on league tables and algorithmic trading to enhance performance analysis.
+title: 'League Table: Definition, Function, and Illustration (Algo Trading)'
 ---
 
 Ranking systems are pivotal in a variety of fields, notably finance and sports, where they serve as vital tools for performance measurement and decision-making. In finance, these systems help in assessing investment opportunities, analyzing market trends, and facilitating effective portfolio management. Similarly, in sports, rankings influence league standings, guide team strategies, and offer insights into competitive dynamics. 

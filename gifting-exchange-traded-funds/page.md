@@ -1,6 +1,9 @@
 ---
-title: "Gifting Exchange-Traded Funds (Algo Trading)"
-description: "Gifting exchange-traded funds combines strategic investment with educational value allowing recipients to engage in financial markets boost diversification and foster growth."
+category: trading_strategy
+description: Gifting exchange-traded funds combines strategic investment with educational
+  value allowing recipients to engage in financial markets boost diversification and
+  foster growth.
+title: Gifting Exchange-Traded Funds (Algo Trading)
 ---
 
 In today's increasingly complex financial landscape, understanding how to manage and grow one's wealth has become paramount. Financial literacy is not just an optional skill, but a critical competence for navigating economic uncertainties and planning for the future. Among the various tools available to aid in wealth management and accumulation, exchange-traded funds (ETFs) offer a compelling option that combines growth potential with strategic flexibility. Gifting ETFs represents a thoughtful approach to investing in someone's financial future, providing opportunities for lasting value and diversification.

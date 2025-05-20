@@ -1,6 +1,8 @@
 ---
-title: "Absorption Costing: Benefits and Drawbacks (Algo Trading)"
-description: "Learn about absorption costing's role in management accounting and its implications in algorithmic trading Optimize resource allocation and ensure compliance."
+category: quant_concept
+description: Learn about absorption costing's role in management accounting and its
+  implications in algorithmic trading Optimize resource allocation and ensure compliance.
+title: 'Absorption Costing: Benefits and Drawbacks (Algo Trading)'
 ---
 
 In today's fast-paced financial environment, understanding management and cost accounting is crucial for efficient business operations. These fields are vital as they provide internal stakeholders with the financial insights necessary for informed decision-making. Absorption costing, a fundamental concept in cost accounting, plays a critical role in financial reporting by allocating all manufacturing costs, including fixed and variable expenses, to the production of goods. This comprehensive allocation is essential for external financial statements, adhering to accounting standards such as the Generally Accepted Accounting Principles (GAAP).
@@ -123,4 +125,3 @@ Drury, C. (2018). *Management and Cost Accounting*. Drury's work offers a compre
 De Prado, M. L. (2018). *Advances in Financial Machine Learning*. This book explores the intersection of finance and [machine learning](/wiki/machine-learning), providing techniques and models that improve trading strategies. It is essential for those interested in applying algorithmic trading techniques to enhance financial performance.
 
 Chan, E. (2009). *Quantitative Trading: How to Build Your Own Algorithmic Trading Business*. Chan outlines the essentials of developing algorithmic trading strategies, from concept to execution. The book includes insights into trading algorithms and risk management, making it a critical resource for traders aiming to implement algorithmic systems in financial markets.
-

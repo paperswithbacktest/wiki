@@ -1,6 +1,9 @@
 ---
-title: "Off-Balance-Sheet Entities (Algo Trading)"
-description: "Explore the synergy and challenges of off-balance-sheet entities and algorithmic trading in modern finance. Understand their impact on strategies and transparency."
+category: quant_concept
+description: Explore the synergy and challenges of off-balance-sheet entities and
+  algorithmic trading in modern finance. Understand their impact on strategies and
+  transparency.
+title: Off-Balance-Sheet Entities (Algo Trading)
 ---
 
 In the rapidly evolving financial landscape, off-balance-sheet (OBS) and algorithmic trading practices have gained prominence due to their potential for financial optimization and risk management. These mechanisms, while distinct, intersect significantly in modern finance, impacting decision-making processes and corporate strategies. OBS entities consist of financial items not directly listed on a company's balance sheet, offering both flexibility and the risk of reduced transparency. They can include special-purpose vehicles, derivatives, and various leasing arrangements, all designed to enhance financial appearances and strategic maneuverability.

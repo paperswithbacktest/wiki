@@ -1,9 +1,10 @@
 ---
-title: "Jim Gatheral (Algo Trading)"
-description: "Discover Jim Gatheral's influential journey from UK education to leadership in finance and academia Learn about his impact on quantitative finance and algorithmic trading"
+category: quant_concept
+description: Discover Jim Gatheral's influential journey from UK education to leadership
+  in finance and academia Learn about his impact on quantitative finance and algorithmic
+  trading
+title: Jim Gatheral (Algo Trading)
 ---
-
-
 
 ## Table of Contents
 

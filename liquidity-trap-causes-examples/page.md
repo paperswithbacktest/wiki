@@ -1,6 +1,8 @@
 ---
-title: "Liquidity Trap: Causes and Examples (Algo Trading)"
-description: "Explore the causes and examples of liquidity traps in economic theory. Learn how monetary policy and algorithmic trading adapt to challenge stagnant economies."
+category: quant_concept
+description: Explore the causes and examples of liquidity traps in economic theory.
+  Learn how monetary policy and algorithmic trading adapt to challenge stagnant economies.
+title: 'Liquidity Trap: Causes and Examples (Algo Trading)'
 ---
 
 Liquidity traps, monetary policy, economic theory, and algorithmic trading are interconnected economic and financial concepts that significantly influence the global market. Understanding their interplay is essential for comprehending the broader dynamics of modern economies.

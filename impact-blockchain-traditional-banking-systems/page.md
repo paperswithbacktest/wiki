@@ -1,6 +1,8 @@
 ---
-title: "Impact of Blockchain on Traditional Banking Systems (Algo Trading)"
-description: "Explore how blockchain and algorithmic trading are transforming traditional banking by enhancing efficiency, security, and innovation in financial services."
+category: quant_concept
+description: Explore how blockchain and algorithmic trading are transforming traditional
+  banking by enhancing efficiency, security, and innovation in financial services.
+title: Impact of Blockchain on Traditional Banking Systems (Algo Trading)
 ---
 
 The convergence of financial technology (FinTech), blockchain, traditional banking, and algorithmic trading is reshaping the financial industry landscape. This integration heralds a transformation marked by increased efficiency, enhanced security, and innovation in service delivery.

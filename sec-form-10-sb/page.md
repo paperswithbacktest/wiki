@@ -1,6 +1,8 @@
 ---
-title: "SEC Form 10-SB (Algo Trading)"
-description: "Explore the historical impact of SEC Form 10-SB on small business securities registration and its role in modern algorithmic trading strategies."
+category: quant_concept
+description: Explore the historical impact of SEC Form 10-SB on small business securities
+  registration and its role in modern algorithmic trading strategies.
+title: SEC Form 10-SB (Algo Trading)
 ---
 
 SEC Form 10-SB was designed as a crucial instrument for small businesses seeking to enter the public trading environment by registering their securities under the U.S. Securities and Exchange Commission (SEC). This form significantly facilitated the process for companies with smaller financial clout to gain access to public markets, enhancing their ability to raise capital for expansion and growth. By providing a streamlined path for these businesses, Form 10-SB played a pivotal role in making the financial disclosures of small enterprises transparent and accessible, thereby fostering investor confidence and market participation.

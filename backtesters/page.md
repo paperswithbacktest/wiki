@@ -1,6 +1,11 @@
 ---
-title: "Backtesters (Algo Trading)"
-description: Explore the transformative impact of algorithmic trading through backtesting, a vital process that simulates trading strategies with historical market data to evaluate potential performance. Discover how backtesters provide crucial insights, optimize strategies, and reduce financial risk, making them indispensable tools for traders aiming for sustainable profitability in dynamic markets.
+category: trading_strategy
+description: Explore the transformative impact of algorithmic trading through backtesting,
+  a vital process that simulates trading strategies with historical market data to
+  evaluate potential performance. Discover how backtesters provide crucial insights,
+  optimize strategies, and reduce financial risk, making them indispensable tools
+  for traders aiming for sustainable profitability in dynamic markets.
+title: Backtesters (Algo Trading)
 ---
 
 Algorithmic trading, commonly referred to as algo trading, has significantly transformed the trading industry by allowing traders to execute strategies using computational algorithms. This method leverages powerful computing capabilities to identify and exploit market opportunities with speed and precision that far surpass human capabilities. However, the effectiveness of these algorithmic strategies hinges critically on the process known as backtesting.

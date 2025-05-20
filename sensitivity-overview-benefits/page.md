@@ -1,6 +1,9 @@
 ---
-title: "Sensitivity: Overview and Benefits (Algo Trading)"
-description: "Explore the significance of sensitivity analysis in algorithmic trading It enhances strategy robustness by evaluating parameter impact optimizing performance under market fluctuations"
+category: quant_concept
+description: Explore the significance of sensitivity analysis in algorithmic trading
+  It enhances strategy robustness by evaluating parameter impact optimizing performance
+  under market fluctuations
+title: 'Sensitivity: Overview and Benefits (Algo Trading)'
 ---
 
 Algorithmic trading, commonly known as algo trading, utilizes computer algorithms to implement trading strategies with unparalleled speed and accuracy. By employing mathematical models and sophisticated computing techniques, these algorithms analyze data, make decisions, and execute trades in fractions of a second. This approach contrasts traditional trading methods where decisions may rely heavily on human intuition and slower execution times.

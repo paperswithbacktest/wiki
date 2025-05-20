@@ -1,6 +1,8 @@
 ---
-title: "Unlimited Tax Bond (Algo Trading)"
-description: "Explore the synergy of unlimited tax bonds municipal bonds and algorithmic trading to maximize tax-optimized returns and enhance investment strategies."
+category: trading_strategy
+description: Explore the synergy of unlimited tax bonds municipal bonds and algorithmic
+  trading to maximize tax-optimized returns and enhance investment strategies.
+title: Unlimited Tax Bond (Algo Trading)
 ---
 
 Bonds have historically been fundamental to financial markets, offering a reliable source of income for investors. Within the diverse range of bonds, municipal bonds, often referred to as "munis," achieve distinction due to their characteristic tax-exempt status. This exemption from federal income taxes, and sometimes state and local taxes, renders them particularly appealing to investors in higher tax brackets who prioritize tax efficiency in their portfolios. 
@@ -159,4 +161,3 @@ Fabozzi, F. J., & Pollack, A. (2012). "Municipal Bond Markets and the Municipal 
 Poterba, J. M., & Reuben, K. S. (1995). "The Effect of State Fiscal Conditions on the Pricing of State Bond Risk". This research examines how state fiscal conditions impact the risk pricing of state bonds. It provides empirical evidence and theoretical insights into the dynamics between fiscal policies and bond market pricing, highlighting considerations for municipal bond investors.
 
 "Quantitative Trading: How to Build Your Own Algorithmic Trading Business" by Ernest P. Chan. This book is a practical guide to establishing an algorithmic trading business, covering all aspects from strategy design to implementation. It includes examples and case studies relevant to bond markets, illustrating how algorithmic trading can be applied effectively to optimize investment decisions and enhance portfolio performance.
-

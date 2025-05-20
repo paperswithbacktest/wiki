@@ -1,6 +1,9 @@
 ---
-title: "Calculating Forward Rates Using Excel (Algo Trading)"
-description: "Master forward rate calculations in Excel, essential for predicting future interest rates in finance. Enhance trading strategies by leveraging Excel's powerful tools."
+category: quant_concept
+description: Master forward rate calculations in Excel, essential for predicting future
+  interest rates in finance. Enhance trading strategies by leveraging Excel's powerful
+  tools.
+title: Calculating Forward Rates Using Excel (Algo Trading)
 ---
 
 Forward rates play a crucial role in financial markets by providing insights into expected future interest rates. They represent the interest rate agreed upon today for a loan that will commence at a future date. This concept is central to understanding the dynamics of interest rate markets and is especially relevant when dealing with interest rate derivatives and fixed-income securities.

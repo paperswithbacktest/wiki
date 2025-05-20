@@ -1,6 +1,8 @@
 ---
-title: "Contract Size: Examples, Advantages and Disadvantages (Algo Trading)"
-description: "Explore the role of contract sizes in algorithmic trading examining examples like S&P 500 E-mini futures. Learn their advantages and drawbacks in trading."
+category: quant_concept
+description: Explore the role of contract sizes in algorithmic trading examining examples
+  like S&P 500 E-mini futures. Learn their advantages and drawbacks in trading.
+title: 'Contract Size: Examples, Advantages and Disadvantages (Algo Trading)'
 ---
 
 In the ever-evolving landscape of trading, understanding the intricacies of contract sizes is crucial, especially in algorithmic trading. Contract size refers to the deliverable quantity of a financial instrument underlying a futures or options contract. It plays a pivotal role in defining the scale and scope of trading activities because it directly influences trading strategies and risk management.

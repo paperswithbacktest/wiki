@@ -1,6 +1,9 @@
 ---
-title: "Top Performing S&P 500 Stocks Over the Last 30 Years (Algo Trading)"
-description: "Explore the strategies and metrics that have distinguished top-performing stocks in the S&P 500 over the past 30 years with insights into total return and volatility to optimize your investment approach using algorithmic trading techniques."
+category: trading_strategy
+description: Explore the strategies and metrics that have distinguished top-performing
+  stocks in the S&P 500 over the past 30 years with insights into total return and
+  volatility to optimize your investment approach using algorithmic trading techniques.
+title: Top Performing S&P 500 Stocks Over the Last 30 Years (Algo Trading)
 ---
 
 The stock market serves as a fundamental component of global economics, acting as a dynamic platform where securities trading facilitates the allocation of capital. It plays a critical role in economic health by providing companies with access to capital and allowing investors to participate in corporate profits. This interaction not only supports corporate growth but also influences job creation and economic expansion. Among the various indices that track stock market performance, the S&P 500 stands out as a pivotal benchmark. Comprising 500 of the largest publicly traded companies in the United States, the S&P 500 offers a comprehensive snapshot of market trends and serves as a gauge for the performance of the broader U.S. economy. It is widely recognized for its diverse representation across multiple industry sectors, which provides a balanced reflection of the market.

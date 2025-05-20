@@ -1,6 +1,8 @@
 ---
-title: "Price-To-Book Ratio in Company Evaluation (Algo Trading)"
-description: "Optimize your investment strategy with insights into Price-To-Book ratio and algorithmic trading for smarter, efficient company evaluation and market participation."
+category: trading_strategy
+description: Optimize your investment strategy with insights into Price-To-Book ratio
+  and algorithmic trading for smarter, efficient company evaluation and market participation.
+title: Price-To-Book Ratio in Company Evaluation (Algo Trading)
 ---
 
 Understanding company valuation and financial analysis is crucial for investors aiming to optimize their investment strategies. Among the various tools available, the Price-To-Book (P/B) ratio stands out for its ability to evaluate a company's market value relative to its book value. This metric offers a window into how much investors are willing to pay for each dollar of a company's net assets, thereby helping in assessing whether a stock is undervalued or overvalued.

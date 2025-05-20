@@ -1,6 +1,8 @@
 ---
-title: "Comparison of Perpetual and Periodic Inventory Systems (Algo Trading)"
-description: "Explore the key differences between periodic and perpetual inventory systems, essential for optimizing inventory management and boosting trading strategies."
+category: quant_concept
+description: Explore the key differences between periodic and perpetual inventory
+  systems, essential for optimizing inventory management and boosting trading strategies.
+title: Comparison of Perpetual and Periodic Inventory Systems (Algo Trading)
 ---
 
 Inventory management is a fundamental component for businesses engaged in the handling of tangible goods, regardless of their size. Effective management of inventory is vital not only for operational efficiency but also for positive financial outcomes. Two primary systems are utilized for inventory management: periodic and perpetual. Each system has distinct characteristics and applications, which makes understanding them essential for businesses aiming to optimize their inventory processes.

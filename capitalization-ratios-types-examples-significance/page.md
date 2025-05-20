@@ -1,6 +1,9 @@
 ---
-title: "Capitalization Ratios: Types, Examples, and Significance (Algo Trading)"
-description: "Discover the significance of capitalization ratios in algorithmic trading Learn how these financial metrics evaluate leverage and guide strategic investment decisions"
+category: quant_concept
+description: Discover the significance of capitalization ratios in algorithmic trading
+  Learn how these financial metrics evaluate leverage and guide strategic investment
+  decisions
+title: 'Capitalization Ratios: Types, Examples, and Significance (Algo Trading)'
 ---
 
 The financial landscape has undergone significant transformation with the integration of data-driven insights and advanced technology. In this dynamic environment, financial metrics have emerged as indispensable tools for evaluating the financial health and risk profile of investments. Among these metrics, capitalization ratios hold particular significance, as they gauge the proportion of debt in a company's capital structure, providing crucial insights into financial leverage and stability.
@@ -166,4 +169,3 @@ As the financial landscape continues to evolve rapidly, being informed and adapt
 [6]: "Algorithmic and High-Frequency Trading" by Álvaro Cartea, Sebastian Jaimungal, and José Penalva - a comprehensive source on the theoretical and practical aspects of algorithmic trading.
 
 [7]: "Quantitative Finance for Dummies" by Steve Bell - offers insights into the financial concepts and metrics relevant to algorithmic trading strategies.
-

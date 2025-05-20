@@ -1,6 +1,8 @@
 ---
-title: "Straight Bond: Overview and Example (Algo Trading)"
-description: "Discover the fundamentals of straight bonds and explore how algorithmic trading enhances investment strategies for predictable returns and market agility."
+category: quant_concept
+description: Discover the fundamentals of straight bonds and explore how algorithmic
+  trading enhances investment strategies for predictable returns and market agility.
+title: 'Straight Bond: Overview and Example (Algo Trading)'
 ---
 
 The modern financial market offers a plethora of investment options, with bonds serving as a fundamental component for any diversified portfolio. Among these, straight bonds stand out as a straightforward debt investment, prominent for their simplicity and predictability. Straight bonds offer a fixed interest rate, providing investors with a steady income stream and a defined return of principal upon maturity. This characteristic makes them attractive to conservative investors who value stability and are wary of complex financial instruments.

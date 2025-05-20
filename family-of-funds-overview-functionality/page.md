@@ -1,6 +1,9 @@
 ---
-title: "Family of Funds: Overview and Functionality (Algo Trading)"
-description: "Explore how investment and mutual funds democratize portfolio management and how algorithmic trading enhances market efficiency and liquidity in financial markets."
+category: quant_concept
+description: Explore how investment and mutual funds democratize portfolio management
+  and how algorithmic trading enhances market efficiency and liquidity in financial
+  markets.
+title: 'Family of Funds: Overview and Functionality (Algo Trading)'
 ---
 
 Financial management plays a crucial role in promoting sustainable economic growth and maintaining individual financial health. Within this broad domain, investment funds, mutual funds, and algorithmic trading emerge as significant components, each holding distinct yet interconnected roles.

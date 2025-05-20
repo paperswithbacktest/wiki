@@ -1,6 +1,8 @@
 ---
-title: "Global Economic Challenges of an Aging Population (Algo Trading)"
-description: "Explore global economic challenges posed by aging populations and algorithmic trading Learn strategies to navigate demographic shifts and technological advancements"
+category: quant_concept
+description: Explore global economic challenges posed by aging populations and algorithmic
+  trading Learn strategies to navigate demographic shifts and technological advancements
+title: Global Economic Challenges of an Aging Population (Algo Trading)
 ---
 
 The global economy today is navigating a confluence of significant challenges. Two of the most pressing are the demographic trend of aging populations and the swift advancement of algorithmic trading systems. These dynamics are not only reshaping economic forecasts but also influencing the strategic decisions of policymakers, investors, and businesses globally.

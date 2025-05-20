@@ -1,6 +1,9 @@
 ---
-title: "Precious Metals: Investment Strategies and Examples (Algo Trading)"
-description: "Explore diverse precious metal investment strategies with insights into physical assets, ETFs, mining stocks, and algorithmic trading to optimize portfolio growth."
+category: trading_strategy
+description: Explore diverse precious metal investment strategies with insights into
+  physical assets, ETFs, mining stocks, and algorithmic trading to optimize portfolio
+  growth.
+title: 'Precious Metals: Investment Strategies and Examples (Algo Trading)'
 ---
 
 Precious metals, including gold, silver, platinum, and palladium, have held intrinsic value throughout human history due to their rarity, beauty, and unique properties. These metals were originally utilized as currency and continue to embody financial stability and wealth. Equally important is their growing role in modern industries, such as electronics, automotive, and jewelry. 

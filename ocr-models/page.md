@@ -1,7 +1,8 @@
 ---
-title: 'Understanding OCR Technology: TrOCR Versus PP-OCR Explained'
+category: quant_concept
 description: OCR technology explained from image preprocessing to TrOCR and PP-OCR
   model comparisons with accuracy insights and language support Discover more inside
+title: 'Understanding OCR Technology: TrOCR Versus PP-OCR Explained'
 ---
 
 ![Image](images/1.png)

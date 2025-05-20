@@ -1,6 +1,9 @@
 ---
-title: "Parity Price in Investing (Algo Trading)"
-description: "Learn about parity price, financial formulas, and algorithmic trading to enhance your investment strategy. Discover how these concepts optimize portfolio decisions."
+category: quant_concept
+description: Learn about parity price, financial formulas, and algorithmic trading
+  to enhance your investment strategy. Discover how these concepts optimize portfolio
+  decisions.
+title: Parity Price in Investing (Algo Trading)
 ---
 
 Understanding key financial concepts such as parity price, financial formulas, and algorithmic trading is pivotal for investors aiming to optimize their portfolios. These concepts form the basis of informed decision-making in modern investing, providing a framework through which market participants can evaluate opportunities and risks accurately.

@@ -1,6 +1,9 @@
 ---
-title: "Regulatory Asset and Its Functionality (Algo Trading)"
-description: "Discover how regulatory assets optimize financial planning and stability in algorithmic trading Learn their significant role in utility accounting and financial innovation"
+category: quant_concept
+description: Discover how regulatory assets optimize financial planning and stability
+  in algorithmic trading Learn their significant role in utility accounting and financial
+  innovation
+title: Regulatory Asset and Its Functionality (Algo Trading)
 ---
 
 The financial landscape is witnessing tremendous change, significantly driven by advancements in technology. Critical components of this evolving scenario include financial regulation, regulatory assets, utility accounting, and algorithmic trading. Financial regulation forms the backbone of a secure and transparent financial ecosystem, establishing rules and laws that oversee financial markets and institutions. It ensures the integrity, stability, and protection of consumers in the financial system.

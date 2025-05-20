@@ -1,6 +1,10 @@
 ---
-title: "History of Bitcoin's Price (Algo Trading)"
-description: "Explore Bitcoin's price history and its interplay with algorithmic trading, highlighting key milestones and market factors. Delve into how past price data can inform trading strategies and future trends, emphasizing technological advances and regulatory impacts on Bitcoin trading and investment."
+category: quant_concept
+description: Explore Bitcoin's price history and its interplay with algorithmic trading,
+  highlighting key milestones and market factors. Delve into how past price data can
+  inform trading strategies and future trends, emphasizing technological advances
+  and regulatory impacts on Bitcoin trading and investment.
+title: History of Bitcoin's Price (Algo Trading)
 ---
 
 Bitcoin, often termed as the first decentralized digital currency, emerged as a groundbreaking financial asset upon its inception by the pseudonymous Satoshi Nakamoto in 2009. Utilizing a peer-to-peer network and a distributed ledger technology known as blockchain, Bitcoin ensures transparency, security, and the elimination of intermediaries in financial transactions. Its significance in the cryptocurrency market is profound, acting as a pioneer that has paved the way for thousands of subsequent cryptocurrencies. As the most widely recognized and adopted digital currency, Bitcoin serves as a benchmark or reference point for gauging the cryptocurrency market's health and trends.

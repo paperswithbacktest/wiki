@@ -1,6 +1,8 @@
 ---
-title: "Negative Price-to-Earnings Ratio in Stocks (Algo Trading)"
-description: "Explore the implications of negative P/E ratios in stocks their role in algorithmic trading and how they may signal investment opportunities or risks."
+category: quant_concept
+description: Explore the implications of negative P/E ratios in stocks their role
+  in algorithmic trading and how they may signal investment opportunities or risks.
+title: Negative Price-to-Earnings Ratio in Stocks (Algo Trading)
 ---
 
 The stock market is a complex and dynamic environment, where various indicators help investors analyze potential investments. One such critical metric is the price-to-earnings (P/E) ratio, a financial indicator commonly used to assess a stock's market value relative to its earnings. The P/E ratio is calculated using the formula:

@@ -1,6 +1,12 @@
 ---
-title: "Future of the Cannabis Industry in the United States (Algo Trading)"
-description: "Explore how the legalization of marijuana is reshaping the cannabis industry in the U.S., influenced by both state policies and advanced algorithmic trading. Discover the market's expansion driven by AI, real-time data, and strategic trading, offering investment insights and transforming economic viability. Analyze the impact of evolving regulatory frameworks and public acceptance on this burgeoning sector, presenting a fertile ground for innovation and potential economic growth."
+category: trading_strategy
+description: Explore how the legalization of marijuana is reshaping the cannabis industry
+  in the U.S., influenced by both state policies and advanced algorithmic trading.
+  Discover the market's expansion driven by AI, real-time data, and strategic trading,
+  offering investment insights and transforming economic viability. Analyze the impact
+  of evolving regulatory frameworks and public acceptance on this burgeoning sector,
+  presenting a fertile ground for innovation and potential economic growth.
+title: Future of the Cannabis Industry in the United States (Algo Trading)
 ---
 
 The legalization of marijuana in various parts of the United States represents a significant shift in legislation that is profoundly influencing the cannabis industry. With an increasing number of states permitting marijuana for medical and recreational purposes, the cannabis market is experiencing unprecedented growth and innovation. This transformation is attracting entrepreneurial ventures and established businesses alike, eager to capitalize on new opportunities within the industry.

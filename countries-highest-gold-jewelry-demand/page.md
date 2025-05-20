@@ -1,6 +1,9 @@
 ---
-title: "Countries with the Highest Gold Jewelry Demand (Algo Trading)"
-description: "Explore the top countries for gold jewelry demand and how algorithmic trading is shaping the market. Understand the cultural and economic factors driving this trend."
+category: dataset
+description: Explore the top countries for gold jewelry demand and how algorithmic
+  trading is shaping the market. Understand the cultural and economic factors driving
+  this trend.
+title: Countries with the Highest Gold Jewelry Demand (Algo Trading)
 ---
 
 The global demand for gold jewelry has always been substantial, driven by a combination of cultural, economic, and social factors. Countries like India, China, and the United States consistently rank at the top of gold jewelry consumption due to their unique cultural contexts and economic conditions. In many societies, gold jewelry holds a profound cultural significance, often associated with traditional rituals, festive occasions, and familial wealth transfer, making it more than just an ornament.

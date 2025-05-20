@@ -1,6 +1,9 @@
 ---
-title: "Industries Impacted by Technological Disruption (Algo Trading)"
-description: "Explore how technological advancements like AI are transforming algorithmic trading by enhancing efficiency, enabling real-time data analysis, and reshaping market dynamics."
+category: quant_concept
+description: Explore how technological advancements like AI are transforming algorithmic
+  trading by enhancing efficiency, enabling real-time data analysis, and reshaping
+  market dynamics.
+title: Industries Impacted by Technological Disruption (Algo Trading)
 ---
 
 In the rapidly evolving landscape of technology, changes are occurring at an unprecedented pace, resulting in substantial disruptions across various industries. These transformations hinge on the advent of innovative technologies that redefine existing frameworks and create new paradigms for operation and competition. Among the sectors facing significant upheaval is algorithmic trading, which is experiencing a remarkable transformation driven by cutting-edge artificial intelligence (AI) technologies.

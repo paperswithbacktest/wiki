@@ -1,6 +1,13 @@
 ---
-title: "Cross-validation (CV) (Algo Trading)"
-description: Cross-validation in algorithmic trading enhances model accuracy by providing reliable performance metrics. It addresses overfitting and considers financial data's unique challenges like non-stationarity and temporal dependence. Techniques such as embargoing and purging maintain data integrity, preventing leakage and ensuring models accurately predict unseen data. These robust validation methods improve trading strategies and adapt to evolving financial market conditions, fostering the development of dependable models.
+category: quant_concept
+description: Cross-validation in algorithmic trading enhances model accuracy by providing
+  reliable performance metrics. It addresses overfitting and considers financial data's
+  unique challenges like non-stationarity and temporal dependence. Techniques such
+  as embargoing and purging maintain data integrity, preventing leakage and ensuring
+  models accurately predict unseen data. These robust validation methods improve trading
+  strategies and adapt to evolving financial market conditions, fostering the development
+  of dependable models.
+title: Cross-validation (CV) (Algo Trading)
 ---
 
 Cross-validation (CV) is a prominent technique in machine learning (ML) and finance, primarily used for validating models to ensure their effectiveness across different datasets. This methodology involves partitioning the data into subsets, where distinct sets are utilized for training and validation purposes. This partitioning process aims to provide a comprehensive estimate of a model's performance, reducing the likelihood of models that perform well only on specific datasets, but not universally. Such models that excel only on the data they were trained on but fail to generalize to new, unseen data are typically overfitting the data. CV serves as a critical tool in detecting overfitting by evaluating the model's predictive power on unseen datasets.

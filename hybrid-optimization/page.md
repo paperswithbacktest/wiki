@@ -1,7 +1,8 @@
 ---
-title: Hybrid Optimization Techniques for Robust Machine Learning Models
+category: quant_concept
 description: Hybrid optimization combines global and local search to boost machine
   learning models with faster convergence and robustness Discover more inside
+title: Hybrid Optimization Techniques for Robust Machine Learning Models
 ---
 
 ![Image](images/1.png)

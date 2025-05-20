@@ -1,6 +1,8 @@
 ---
-title: "Hashgraph Consensus: Overview and Mechanism (Algo Trading)"
-description: "Explore how Hashgraph consensus and distributed ledger technologies revolutionize algo trading with enhanced speed transparency and security in financial ecosystems."
+category: quant_concept
+description: Explore how Hashgraph consensus and distributed ledger technologies revolutionize
+  algo trading with enhanced speed transparency and security in financial ecosystems.
+title: 'Hashgraph Consensus: Overview and Mechanism (Algo Trading)'
 ---
 
 Emerging technologies are transforming the finance and blockchain sectors, creating new opportunities and paradigms. A key component of this transformation is the development of consensus algorithms, which are essential for maintaining the integrity and security of distributed systems. These algorithms enable multiple parties to reach a common agreement on data, ensuring that all copies of a shared digital ledger match throughout network participants. Prominent examples include the Proof of Work (PoW) and Proof of Stake (PoS) methodologies. These mechanisms form the backbone of distributed ledger technology (DLT), which underpins cryptocurrencies and various blockchain applications.

@@ -1,6 +1,10 @@
 ---
-title: "Exchange-Traded Funds for Contrarian Investments During Turkish Economic Crisis (Algo Trading)"
-description: "Explore contrarian investing with Turkey ETFs during economic crises highlighting algorithmic trading's role in maximizing potential returns amidst market volatility."
+category: trading_strategy
+description: Explore contrarian investing with Turkey ETFs during economic crises
+  highlighting algorithmic trading's role in maximizing potential returns amidst market
+  volatility.
+title: Exchange-Traded Funds for Contrarian Investments During Turkish Economic Crisis
+  (Algo Trading)
 ---
 
 The world of investing is broad and diverse, bringing forth various strategies and tools that cater to different investor preferences. Among these strategies, contrarian investing stands out as it involves taking positions contrary to prevailing market trends. This approach requires a keen eye for market dynamics and potential reversals, allowing investors to capitalize on underestimated opportunities.

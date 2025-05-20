@@ -1,6 +1,8 @@
 ---
-title: "Profiting from the Bollinger Squeeze (Algo Trading)"
-description: "Learn to profit from market volatility using the Bollinger Squeeze in algo trading Understand how this strategy predicts breakouts for optimal trades"
+category: trading_strategy
+description: Learn to profit from market volatility using the Bollinger Squeeze in
+  algo trading Understand how this strategy predicts breakouts for optimal trades
+title: Profiting from the Bollinger Squeeze (Algo Trading)
 ---
 
 Bollinger Bands, a concept introduced by John Bollinger, have become integral to the practice of technical analysis in financial markets. This methodology involves three lines plotted on a chart: a simple moving average (SMA) and two standard deviation bands—one above and one below the SMA. The distance between these bands varies with market volatility; they expand during periods of high volatility and contract during periods of low volatility.

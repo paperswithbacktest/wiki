@@ -1,6 +1,8 @@
 ---
-title: "Comparison of S&P 500 and Russell 1000 (Algo Trading)"
-description: "Explore the differences between the S&P 500 and Russell 1000 indices and the role algorithmic trading plays in optimizing investment strategies."
+category: trading_strategy
+description: Explore the differences between the S&P 500 and Russell 1000 indices
+  and the role algorithmic trading plays in optimizing investment strategies.
+title: Comparison of S&P 500 and Russell 1000 (Algo Trading)
 ---
 
 The stock market is a multifaceted system with various indices that provide crucial insights into overall market performance. Among these, two prominent indices, the Russell 1000 and the S&P 500, serve as vital benchmarks within U.S. financial markets. The Russell 1000 index encompasses the top 1,000 U.S. companies by market capitalization and delivers a broad view of large-cap equities, while the S&P 500 represents 500 of the largest companies, portraying a focused picture of large-cap stock stability and economic health.

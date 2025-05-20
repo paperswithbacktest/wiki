@@ -1,6 +1,14 @@
 ---
-title: "Stock Dividend Distribution Timing and Process (Algo Trading)"
-description: "Explore the strategic advantages of investing in stock dividend distributions, where regular payouts enhance your portfolio by capitalizing on company profits. Learn about key dates in dividend transactions and how algorithmic trading optimizes investment approaches through predictive models. This guide provides insights into understanding dividend payment processes, types of dividends, their impact on stock prices, and strategies to leverage these for financial growth. Whether you are a novice or seasoned investor, mastering these concepts is essential for informed decision-making in dividend investments."
+category: quant_concept
+description: Explore the strategic advantages of investing in stock dividend distributions,
+  where regular payouts enhance your portfolio by capitalizing on company profits.
+  Learn about key dates in dividend transactions and how algorithmic trading optimizes
+  investment approaches through predictive models. This guide provides insights into
+  understanding dividend payment processes, types of dividends, their impact on stock
+  prices, and strategies to leverage these for financial growth. Whether you are a
+  novice or seasoned investor, mastering these concepts is essential for informed
+  decision-making in dividend investments.
+title: Stock Dividend Distribution Timing and Process (Algo Trading)
 ---
 
 Dividend payment investments represent a strategic approach to enhancing your investment portfolio by allowing investors to capitalize on a company's profits through regular payouts. These dividends, often expressed as a percentage of the stock price, are distributed either as cash payments or additional shares, thereby offering potential for both income and growth. Many companies, particularly those with a steady cash flow and solid financial performance, opt to reward their shareholders periodically through dividends, signifying financial health and stability.

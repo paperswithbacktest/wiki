@@ -1,6 +1,8 @@
 ---
-title: "Store of Value: Characteristics and Examples (Algo Trading)"
-description: "Explore the characteristics and examples of store of value assets including precious metals real estate and cryptocurrencies in algorithmic trading strategies"
+category: quant_concept
+description: Explore the characteristics and examples of store of value assets including
+  precious metals real estate and cryptocurrencies in algorithmic trading strategies
+title: 'Store of Value: Characteristics and Examples (Algo Trading)'
 ---
 
 In the evolving world of finance, understanding the multifaceted nature of financial assets is crucial for both individual investors and institutions. Financial assets serve as instruments for wealth creation and preservation, and their complexity demands a comprehensive approach to managing them effectively. This article discusses the concepts of store of value financial assets, asset management, and algorithmic trading, providing a framework for enhancing investment strategies and optimizing returns.

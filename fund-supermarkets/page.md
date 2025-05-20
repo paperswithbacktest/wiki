@@ -1,6 +1,8 @@
 ---
-title: "Fund Supermarkets (Algo Trading)"
-description: "Explore the synergy between mutual funds, fund supermarkets, and algorithmic trading to optimize your investment strategy and achieve better financial outcomes."
+category: trading_strategy
+description: Explore the synergy between mutual funds, fund supermarkets, and algorithmic
+  trading to optimize your investment strategy and achieve better financial outcomes.
+title: Fund Supermarkets (Algo Trading)
 ---
 
 The financial landscape is evolving rapidly, driven by the rapid advancement of technology and innovative investment methodologies. At the core of these developments are mutual funds, fund supermarkets, and algorithmic trading—key components that constitute the backbone of modern investment strategies. Each of these elements offers distinct benefits and, when combined, can significantly enhance the investment experience.

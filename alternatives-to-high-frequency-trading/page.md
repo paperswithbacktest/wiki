@@ -1,6 +1,9 @@
 ---
-title: "Alternatives to High-Frequency Trading (Algo Trading)"
-description: "Explore various alternatives to high-frequency and algorithmic trading Learn about innovative strategies that capitalize on market inefficiencies with speed and precision"
+category: trading_strategy
+description: Explore various alternatives to high-frequency and algorithmic trading
+  Learn about innovative strategies that capitalize on market inefficiencies with
+  speed and precision
+title: Alternatives to High-Frequency Trading (Algo Trading)
 ---
 
 In the fast-paced world of financial markets, trading strategies have rapidly evolved alongside technological advancements. High-frequency trading (HFT) and algorithmic trading stand out as transformative approaches that have reshaped the landscape of modern trading. These trading methodologies leverage sophisticated algorithms and high-speed data processing to execute a vast number of trades with remarkable speed and precision, often within fractions of a second. 

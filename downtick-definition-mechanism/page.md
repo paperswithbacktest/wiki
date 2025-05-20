@@ -1,6 +1,9 @@
 ---
-title: "Downtick: Definition and Mechanism (Algo Trading)"
-description: "Discover the impact of downticks in stock trading and how algorithmic trading leverages market trends for strategic advantage. Understand key concepts and tools."
+category: quant_concept
+description: Discover the impact of downticks in stock trading and how algorithmic
+  trading leverages market trends for strategic advantage. Understand key concepts
+  and tools.
+title: 'Downtick: Definition and Mechanism (Algo Trading)'
 ---
 
 In the rapidly evolving world of stock trading, understanding market trends is crucial for both individual investors and large financial institutions. As markets fluctuate, identifying patterns and anomalies becomes essential for making informed investment decisions. Algorithmic trading, or algo-trading, has significantly altered the financial landscape by enabling computers to execute trades rapidly based on pre-defined rules. This innovation enhances the ability to process vast amounts of financial data, facilitating faster and often more accurate investment strategies than traditional methods.

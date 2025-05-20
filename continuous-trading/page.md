@@ -1,6 +1,9 @@
 ---
-title: "continuous trading (Algo Trading)"
-description: "Discover how continuous trading and algorithmic trading transform financial markets by enabling instantaneous transactions, enhancing efficiency, and optimizing strategies."
+category: quant_concept
+description: Discover how continuous trading and algorithmic trading transform financial
+  markets by enabling instantaneous transactions, enhancing efficiency, and optimizing
+  strategies.
+title: continuous trading (Algo Trading)
 ---
 
 In the dynamic world of financial markets, efficiency and speed are paramount. Continuous trading, often facilitated by algorithmic trading (commonly referred to as algo trading), has revolutionized how trades are conducted. This article examines the mechanics of continuous trading, emphasizing its significance, the pivotal role of algorithmic trading, and the ways in which both individuals and firms employ these technologies to their advantage.

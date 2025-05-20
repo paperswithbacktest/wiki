@@ -1,6 +1,8 @@
 ---
-title: "Quid (Currency Slang) (Algo Trading)"
-description: "Explore the cultural and financial significance of the currency slang "quid" in British trade and its impact on modern algorithmic trading systems."
+category: quant_concept
+description: Explore the cultural and financial significance of the currency slang
+  "quid" in British trade and its impact on modern algorithmic trading systems.
+title: Quid (Currency Slang) (Algo Trading)
 ---
 
 Slang plays a crucial role in the currency world, especially within the context of the British pound. Language is a powerful tool that reflects cultural identity, and currency slang embodies the everyday transactions and interactions that individuals have with money. Terms like "quid" are deeply embedded in British culture, often used to describe pounds informally and thereby influencing not just spoken language but also written and digital communication. This convergence of culture and finance becomes even more prominent in the context of modern financial systems and trading practices, where understanding such linguistic nuances can prove beneficial.

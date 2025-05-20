@@ -1,6 +1,8 @@
 ---
-title: "Cboe Nasdaq Volatility Index (VXN): Function and Interpretation (Algo Trading)"
-description: "Explore the Cboe Nasdaq Volatility Index VXN and its significance in trading comprehend its function as a key tool for algorithmic trading and risk management."
+category: quant_concept
+description: Explore the Cboe Nasdaq Volatility Index VXN and its significance in
+  trading comprehend its function as a key tool for algorithmic trading and risk management.
+title: 'Cboe Nasdaq Volatility Index (VXN): Function and Interpretation (Algo Trading)'
 ---
 
 In the fast-paced world of financial markets, understanding and managing volatility is crucial for investors and traders. Volatility is a statistical measure of the dispersion of returns for a given security or market index. A higher volatility indicates a larger variation in values and a higher level of risk. This underpins the importance of tools that measure and predict market volatility, allowing market participants to make informed decisions.

@@ -1,6 +1,9 @@
 ---
-title: "Price Zone Oscillator: Functionality and Limitations (Algo Trading)"
-description: "Explore the functionality and limitations of the Price Zone Oscillator in algo trading Discover how it aids in identifying market trends and potential reversals"
+category: quant_concept
+description: Explore the functionality and limitations of the Price Zone Oscillator
+  in algo trading Discover how it aids in identifying market trends and potential
+  reversals
+title: 'Price Zone Oscillator: Functionality and Limitations (Algo Trading)'
 ---
 
 Trading indicators are essential tools in technical analysis, enabling traders to make informed decisions by interpreting market data. One such tool is the Price Zone Oscillator (PZO), which is particularly recognized for its effectiveness in identifying overbought or oversold conditions in the market. This article will provide a detailed examination of the Price Zone Oscillator and its relevance in algorithmic trading, discussing its formula, the insights it offers, and its limitations. Additionally, we will compare the PZO with other technical indicators to offer a broader perspective on its utility.

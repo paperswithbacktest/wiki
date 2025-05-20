@@ -1,6 +1,8 @@
 ---
-title: "Comparison of Share Purchase Rights and Options (Algo Trading)"
-description: "Explore the differences between options and share purchase rights in financial markets Understand their benefits, risks, and roles in algo trading strategies"
+category: quant_concept
+description: Explore the differences between options and share purchase rights in
+  financial markets Understand their benefits, risks, and roles in algo trading strategies
+title: Comparison of Share Purchase Rights and Options (Algo Trading)
 ---
 
 The dynamic world of financial markets offers various instruments for investors and traders. Among these are financial instruments like options, share purchase rights, and the increasingly popular algo trading. Options provide investors with the flexibility to hedge or speculate on price movements without directly owning the underlying asset, offering the right, but not the obligation, to buy or sell at a predetermined price. Share purchase rights, on the other hand, empower existing shareholders to maintain or enhance their ownership at potentially favorable terms, often below current market values. Meanwhile, algorithmic trading leverages technological advancements to execute trades based on complex, predefined strategies, ensuring efficiency and removing human emotion from decision-making.

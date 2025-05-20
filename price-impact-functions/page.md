@@ -1,6 +1,8 @@
 ---
-title: "price impact functions (Algo Trading)"
-description: "Explore the significance of price impact functions in algorithmic trading and how they affect trade execution cost efficiency and market stability."
+category: quant_concept
+description: Explore the significance of price impact functions in algorithmic trading
+  and how they affect trade execution cost efficiency and market stability.
+title: price impact functions (Algo Trading)
 ---
 
 Algorithmic trading has transformed the landscape of financial markets over the past few decades. Initially introduced to streamline and automate investment processes, algo trading now plays a pivotal role in executing large orders with precision and speed. The evolution of this practice can be traced back to the late 20th century, marked by advancements in computer technology and the development of sophisticated quantitative models. As financial markets become more interconnected and complex, understanding market dynamics has become crucial for traders and investors alike. This involves analyzing factors such as liquidity, volatility, and market behavior, all of which influence trading outcomes.

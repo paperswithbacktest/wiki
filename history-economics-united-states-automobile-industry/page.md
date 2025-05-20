@@ -1,6 +1,8 @@
 ---
-title: "History and Economics of the United States Automobile Industry (Algo Trading)"
-description: "Explore the US auto industry's history and economic impact alongside the role of algorithmic trading in optimizing investments within this vital sector."
+category: trading_strategy
+description: Explore the US auto industry's history and economic impact alongside
+  the role of algorithmic trading in optimizing investments within this vital sector.
+title: History and Economics of the United States Automobile Industry (Algo Trading)
 ---
 
 The U.S. auto industry has long stood as a pillar of the American economy, contributing significantly to the nation's GDP and providing employment to millions. Its influence extends beyond manufacturing, affecting related sectors such as transportation and petroleum. As one of the largest industries in the United States, its economic impact is profound, underscoring the importance of understanding and investing in this sector.
@@ -207,4 +209,3 @@ Investors must remain diligent, balancing potential risks with anticipated gains
 13. Yahoo Finance, "Ford Motor Company (F) Stock Price, News, Quote & History," 2023. Available at: https://finance.yahoo.com
 14. Ross, Stephen A., Westerfield, Randolph, and Jordan, Bradford D., "Fundamentals of Corporate Finance," McGraw-Hill Education, 2019. This resource provides foundational knowledge on financial ratios.
 15. DataCamp, "Financial Analysis with Python," 2023. Available at: https://www.datacamp.com
-

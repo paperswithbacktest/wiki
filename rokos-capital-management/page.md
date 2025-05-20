@@ -1,6 +1,8 @@
 ---
-title: "Rokos Capital Management (Algo Trading)"
-description: "Rokos Capital Management excels in hedge fund strategies through algorithmic trading leveraging data-driven decisions efficiency and innovation by Chris Rokos."
+category: trading_strategy
+description: Rokos Capital Management excels in hedge fund strategies through algorithmic
+  trading leveraging data-driven decisions efficiency and innovation by Chris Rokos.
+title: Rokos Capital Management (Algo Trading)
 ---
 
 Rokos Capital Management stands as a formidable entity in the hedge fund industry, recognized for its innovative approach and strategic prowess. Founded by billionaire trader Chris Rokos in 2015, the firm has rapidly ascended to prominence through its deft utilization of algorithmic trading. In modern financial markets, algorithmic trading plays a critical role, transforming investment strategies and ensuring operational efficiency. It involves the use of complex algorithms to drive trading decisions, enhancing the ability to execute high-speed, data-driven transactions with precision and reduced human intervention.

@@ -1,6 +1,8 @@
 ---
-title: "Monetarism and Inflation Control Through Money Supply (Algo Trading)"
-description: "Explore the role of monetarism and algorithmic trading in inflation control and economic stability by examining their impact on financial market dynamics."
+category: quant_concept
+description: Explore the role of monetarism and algorithmic trading in inflation control
+  and economic stability by examining their impact on financial market dynamics.
+title: Monetarism and Inflation Control Through Money Supply (Algo Trading)
 ---
 
 Monetarism has long been a dominant economic theory that emphasizes the control of the money supply as a technique for managing economic stability and growth. Championed by economist Milton Friedman, monetarism posits that variations in the money supply have major influences on national output in the short run and the price level over longer periods. This theory rests heavily on the Quantity Theory of Money, represented by the equation MV = PQ, where M is the money supply, V is the velocity of money, P is the price level, and Q represents the real output or GDP. Monetarists argue for a fixed annual increase in the money supply that aligns with the potential increase in GDP, aiming to control inflation while fostering economic growth.

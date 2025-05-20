@@ -1,6 +1,12 @@
 ---
-title: "Determinants of Market Trends (Algo Trading)"
-description: "Explore the interplay of market and economic trends on global finance and the impact of algorithmic trading in shaping market behavior. Understand key factors like regulations, technology, and events that influence securities prices and economic variables such as GDP and employment. This article offers insights into navigating financial markets and adapting strategies for success in a dynamic environment."
+category: quant_concept
+description: Explore the interplay of market and economic trends on global finance
+  and the impact of algorithmic trading in shaping market behavior. Understand key
+  factors like regulations, technology, and events that influence securities prices
+  and economic variables such as GDP and employment. This article offers insights
+  into navigating financial markets and adapting strategies for success in a dynamic
+  environment.
+title: Determinants of Market Trends (Algo Trading)
 ---
 
 Market trends and economic trends are critical components that shape the landscape of global finance and investment. Market trends refer to the general direction in which securities prices move over time, whether upward, downward, or sideways. They can be influenced by a myriad of factors, including technological advancements, geopolitical events, and investor sentiment. Meanwhile, economic trends encompass the broader movements in the economy, indicated by variables such as GDP growth, inflation rates, and employment levels. Understanding these trends provides investors and policymakers with insights into the health of an economy and future growth prospects.

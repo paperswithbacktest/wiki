@@ -1,6 +1,9 @@
 ---
-title: "Predatory Dumping in International Trade (Algo Trading)"
-description: "Explore the dynamics of predatory dumping in international trade and the role of algorithmic trading in shaping market trends while ensuring economic stability."
+category: quant_concept
+description: Explore the dynamics of predatory dumping in international trade and
+  the role of algorithmic trading in shaping market trends while ensuring economic
+  stability.
+title: Predatory Dumping in International Trade (Algo Trading)
 ---
 
 In the globalized economy, trade practices such as international trade, predatory dumping, and algorithmic trading are integral to the operation and development of markets. International trade has historically facilitated the exchange of goods and services across borders, substantially contributing to economic growth and the establishment of global relationships. Such trade is instrumental in determining market access and influences tariffs alongside the flow of capital and goods. These interactions are mediated by national policies and international agreements, setting the stage for complex economic activities.

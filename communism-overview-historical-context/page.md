@@ -1,6 +1,8 @@
 ---
-title: "Communism: Overview and Historical Context (Algo Trading)"
-description: "Explore the influence of communism and the evolution of algorithmic trading as they shape politics and economics providing new perspectives on global development."
+category: quant_concept
+description: Explore the influence of communism and the evolution of algorithmic trading
+  as they shape politics and economics providing new perspectives on global development.
+title: 'Communism: Overview and Historical Context (Algo Trading)'
 ---
 
 Communism, as a political ideology, has exerted a profound influence on global politics, shaping the landscape of numerous nations and inspiring diverse political movements. Originating in the 19th century, communism was formalized through the works of thinkers like Karl Marx and Friedrich Engels, proposing a radical restructuring of societal and economic frameworks towards common ownership and a classless society. This ideology soon took root in various parts of the world, leading to the establishment of communist regimes that significantly impacted political thought and governance worldwide.

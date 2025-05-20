@@ -1,6 +1,9 @@
 ---
-title: "Topside: Definition, Functionality, and Components (Algo Trading)"
-description: "Explore the critical components and functionality of algorithmic trading systems that drive trading efficiency from data input and processing to trade execution platforms."
+category: quant_concept
+description: Explore the critical components and functionality of algorithmic trading
+  systems that drive trading efficiency from data input and processing to trade execution
+  platforms.
+title: 'Topside: Definition, Functionality, and Components (Algo Trading)'
 ---
 
 Automated trading has significantly transformed the financial markets through the widespread adoption of algorithmic trading, often referred to as algo trading. This development has ushered in an era where technology and finance intersect to drive trading efficiency and precision. Algorithmic trading utilizes advanced computational models to perform trading actions at speeds and frequencies that would be impossible for human traders.

@@ -1,6 +1,8 @@
 ---
-title: "Financial Planner: Roles and Selection (Algo Trading)"
-description: "Explore the role of financial planners in personal finance and algorithmic trading Discover strategies for wealth management and future financial stability"
+category: trading_strategy
+description: Explore the role of financial planners in personal finance and algorithmic
+  trading Discover strategies for wealth management and future financial stability
+title: 'Financial Planner: Roles and Selection (Algo Trading)'
 ---
 
 In the modern world, financial stability and growth are paramount for individuals aiming to secure their futures. A comprehensive approach to personal finance often involves a combination of expert financial advice, strategic planning, and innovative technologies like algorithmic trading. As financial markets and tools become increasingly complex, individuals need to adopt strategies that not only safeguard their current wealth but also set the stage for future prosperity.

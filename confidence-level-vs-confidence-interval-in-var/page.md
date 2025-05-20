@@ -1,6 +1,9 @@
 ---
-title: "Difference Between Confidence Level and Confidence Interval in Value at Risk (Algo Trading)"
-description: "Discover the distinction between confidence levels and confidence intervals in Value at Risk within algorithmic trading, and enhance your risk management strategy."
+category: quant_concept
+description: Discover the distinction between confidence levels and confidence intervals
+  in Value at Risk within algorithmic trading, and enhance your risk management strategy.
+title: Difference Between Confidence Level and Confidence Interval in Value at Risk
+  (Algo Trading)
 ---
 
 In algorithmic trading, risk management holds a crucial position. A foundational aspect of this field is the application of statistical methods to evaluate and mitigate risks. This article explores critical concepts such as confidence level, Value at Risk (VaR), and confidence intervals, emphasizing their importance and functionality in algorithmic trading. 

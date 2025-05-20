@@ -1,6 +1,9 @@
 ---
-title: "Income Participating Security (Algo Trading)"
-description: "Discover how Income Participating Securities (IPS) combine equity and fixed-income benefits to enhance investment returns and manage risk via algorithmic trading."
+category: quant_concept
+description: Discover how Income Participating Securities (IPS) combine equity and
+  fixed-income benefits to enhance investment returns and manage risk via algorithmic
+  trading.
+title: Income Participating Security (Algo Trading)
 ---
 
 The finance and investment landscape has evolved significantly, driven by the introduction of innovative financial products that cater to the diverse needs of investors. The dynamic nature of global markets has fostered the creation and adoption of financial instruments designed to enhance income security and participation in capital growth. Among these, income participating securities (IPS) have gained prominence for their ability to combine the benefits of both equity and fixed-income investments. IPS offer a unique investment opportunity by allowing investors to derive income from dividends and interest payments, creating a balanced approach to investment returns.

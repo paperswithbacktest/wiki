@@ -1,7 +1,8 @@
 ---
-title: Understanding Multi-Modal Machine Learning Methods and Models
+category: quant_concept
 description: Multi-modal machine learning methods merge text images and audio to enhance
   diagnostics self-driving cars and virtual assistants Discover more inside
+title: Understanding Multi-Modal Machine Learning Methods and Models
 ---
 
 ![Image](images/1.webp)

@@ -1,6 +1,8 @@
 ---
-title: "Monopoly: Types, Regulation, and Market Impact (Algo Trading)"
-description: "Explore how monopolies impact market dynamics and regulation while algorithmic trading reshapes competition. Understand economic implications and policy responses."
+category: quant_concept
+description: Explore how monopolies impact market dynamics and regulation while algorithmic
+  trading reshapes competition. Understand economic implications and policy responses.
+title: 'Monopoly: Types, Regulation, and Market Impact (Algo Trading)'
 ---
 
 Monopolies play a pivotal role in economic discussions, frequently fueling debates regarding their influence on market dynamics, economic efficiency, and consumer welfare. These entities arise when a single seller dominates a market, granting them considerable control over pricing and output. This often results in substantial economic implications, including potential inefficiencies and restricted consumer choice.

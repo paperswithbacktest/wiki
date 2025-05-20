@@ -1,6 +1,9 @@
 ---
-title: "Sunk Cost and Sunk Cost Fallacy (Algo Trading)"
-description: "Explore the significance of the sunk cost fallacy in algorithmic trading and its impact on decision-making Learn strategies to mitigate this bias for optimal results"
+category: quant_concept
+description: Explore the significance of the sunk cost fallacy in algorithmic trading
+  and its impact on decision-making Learn strategies to mitigate this bias for optimal
+  results
+title: Sunk Cost and Sunk Cost Fallacy (Algo Trading)
 ---
 
 The sunk cost fallacy represents a pervasive cognitive bias where individuals continue an endeavor once an investment in money, effort, or time has been made, regardless of the current costs outweighing potential benefits. This phenomenon is significantly relevant within behavioral economics, a field examining how psychological factors influence economic decision-making. Behavioral economics seeks to elucidate why rational actors, as predicted by traditional economic theory, frequently deviate from rational choices, opting instead to persist with failing projects or investments due to their previous commitments.

@@ -1,6 +1,9 @@
 ---
-title: "SEC Form 3: Overview and Filing Requirements (Algo Trading)"
-description: "Navigate the complexities of insider trading and SEC Form 3 filing for algo trading, ensuring transparency and compliance to maintain market integrity and trust."
+category: quant_concept
+description: Navigate the complexities of insider trading and SEC Form 3 filing for
+  algo trading, ensuring transparency and compliance to maintain market integrity
+  and trust.
+title: 'SEC Form 3: Overview and Filing Requirements (Algo Trading)'
 ---
 
 Insider trading refers to the buying or selling of securities by individuals with access to non-public, material information about a company. This practice poses significant risks to market integrity as it can provide unfair advantages, disrupt market equilibrium, and lead to a lack of confidence among investors. With the proliferation of algorithmic trading, which involves the use of automated strategies to execute trades at high speed, the importance of regulatory compliance has increased exponentially. The Securities and Exchange Commission (SEC) has implemented several regulations to monitor trading activities and ensure transparency and fairness in the financial markets.

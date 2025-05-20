@@ -1,6 +1,10 @@
 ---
-title: "What are the best alternatives to the Sharpe Ratio?"
-description: "Discover the limitations of the Sharpe Ratio and explore seven alternative risk-adjusted performance measures, including Sortino Ratio, Information Ratio, Treynor Ratio, Omega Ratio, Kestner Ratio, Profit Ratio, and Underwater Drawdown. Enhance your investment analysis with this comprehensive guide."
+category: quant_concept
+description: Discover the limitations of the Sharpe Ratio and explore seven alternative
+  risk-adjusted performance measures, including Sortino Ratio, Information Ratio,
+  Treynor Ratio, Omega Ratio, Kestner Ratio, Profit Ratio, and Underwater Drawdown.
+  Enhance your investment analysis with this comprehensive guide.
+title: What are the best alternatives to the Sharpe Ratio?
 ---
 
 The Sharpe Ratio is a widely utilized financial metric that measures the return on an investment compared to its risk. Defined by William F. Sharpe in 1966, it is calculated by subtracting the risk-free rate of return from the average return of an investment and then dividing the result by the investment’s standard deviation. The formula is expressed as:
@@ -211,4 +215,3 @@ These resources offer additional insights into the evaluation of financial perfo
 [3]: Treynor, J. L. (1965). ["How to Rate Management of Investment Funds."](https://onlinelibrary.wiley.com/doi/10.1002/9781119196679.ch10) Harvard Business Review, 43(1), 63-75.
 
 [4]: Kazemi, H., Schneeweis, T., & Gupta, B. (2003). ["Omega as a Performance Measure."](https://people.duke.edu/~charvey/Teaching/BA453_2005/Schneeweis_Omega_as_a.pdf) Journal of Performance Measurement, 8(1), 16-25.
-

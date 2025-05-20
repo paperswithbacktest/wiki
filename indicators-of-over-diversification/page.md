@@ -1,6 +1,9 @@
 ---
-title: "Indicators of Over-Diversification (Algo Trading)"
-description: "Discover the risks of over-diversification in algorithmic trading and learn strategies for effective portfolio management while maximizing returns and minimizing costs."
+category: trading_strategy
+description: Discover the risks of over-diversification in algorithmic trading and
+  learn strategies for effective portfolio management while maximizing returns and
+  minimizing costs.
+title: Indicators of Over-Diversification (Algo Trading)
 ---
 
 Diversification remains a cornerstone strategy in the management of investment portfolios, primarily aimed at reducing risk and optimizing returns. Ideally, diversification involves spreading investments across various financial instruments, sectors, or markets to mitigate potential losses from any single asset underperforming. This classical approach, rooted in modern portfolio theory, is symbolized by the adage, "Don't put all your eggs in one basket."

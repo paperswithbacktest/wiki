@@ -1,6 +1,8 @@
 ---
-title: "Effects of China's 2015 Yuan Devaluation (Algo Trading)"
-description: "Explore the impact of China's 2015 Yuan devaluation on algorithmic trading, highlighting market volatility, recalibration strategies, and global economic effects."
+category: quant_concept
+description: Explore the impact of China's 2015 Yuan devaluation on algorithmic trading,
+  highlighting market volatility, recalibration strategies, and global economic effects.
+title: Effects of China's 2015 Yuan Devaluation (Algo Trading)
 ---
 
 In August 2015, the People's Bank of China made a strategic move by devaluing the Yuan, an action that sent shockwaves through global financial markets. This decision represented the largest devaluation of the Chinese currency in over two decades, fundamentally altering the landscape of international finance. At its core, the devaluation was intended to bolster China's export competitiveness by making its goods more affordable to international buyers, thus stimulating economic growth in the face of slowing domestic expansion.

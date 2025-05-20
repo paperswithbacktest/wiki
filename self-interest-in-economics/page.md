@@ -1,6 +1,10 @@
 ---
-title: "Self-Interest in Economics (Algo Trading)"
-description: "Explore the role of self-interest in economics and its impact on algorithmic trading. Learn how self-interest drives innovation and efficiency in financial markets, while presenting both opportunities and challenges. Discover insights into the mechanisms of algorithmic trading and its implications for market dynamics and economic growth."
+category: quant_concept
+description: Explore the role of self-interest in economics and its impact on algorithmic
+  trading. Learn how self-interest drives innovation and efficiency in financial markets,
+  while presenting both opportunities and challenges. Discover insights into the mechanisms
+  of algorithmic trading and its implications for market dynamics and economic growth.
+title: Self-Interest in Economics (Algo Trading)
 ---
 
 In the world of economics, self-interest is a pivotal factor influencing decision-making processes. Originating from the work of Adam Smith, this concept underlines actions taken by individuals or entities to further their own economic benefit. As Smith posited in his seminal work "The Wealth of Nations," the pursuit of self-interest, guided by the "Invisible Hand," inadvertently contributes to the collective economic welfare. This principle remains foundational in various economic sectors, particularly in finance and trading.

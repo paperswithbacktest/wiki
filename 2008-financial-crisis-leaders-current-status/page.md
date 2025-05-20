@@ -1,6 +1,8 @@
 ---
-title: "2008 Financial Crisis Leaders: Current Status (Algo Trading)"
-description: "Explore the roles of 2008 financial crisis leaders like Bernanke, Paulson, and Geithner today and the evolution of algorithmic trading post-crisis."
+category: quant_concept
+description: Explore the roles of 2008 financial crisis leaders like Bernanke, Paulson,
+  and Geithner today and the evolution of algorithmic trading post-crisis.
+title: '2008 Financial Crisis Leaders: Current Status (Algo Trading)'
 ---
 
 The 2008 financial crisis stands as a significant turning point in global economic history, profoundly impacting financial markets and institutions worldwide. Originating from the bursting of the housing bubble in the United States, it quickly spiraled into a full-blown international banking crisis following the collapse of Lehman Brothers in September 2008. This event highlighted severe deficiencies in financial regulation and risk management, illuminating the vulnerabilities within complex financial instruments and the interconnectedness of global markets.

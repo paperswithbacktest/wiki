@@ -1,6 +1,8 @@
 ---
-title: "Credit Default Swaps and Credit Events (Algo Trading)"
-description: "Explore the intricacies of credit default swaps (CDS) and credit events, and discover the role of algorithmic trading in modern financial markets."
+category: quant_concept
+description: Explore the intricacies of credit default swaps (CDS) and credit events,
+  and discover the role of algorithmic trading in modern financial markets.
+title: Credit Default Swaps and Credit Events (Algo Trading)
 ---
 
 Financial derivatives have become integral tools in modern financial markets. These financial instruments derive their value from an underlying entity, which could include assets such as stocks, bonds, commodities, currencies, interest rates, or market indices. They provide sophisticated mechanisms for hedging risks and enhancing portfolio strategies, allowing market participants to lock in prices, hedge against potential losses, and stabilize revenue streams.

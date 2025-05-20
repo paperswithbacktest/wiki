@@ -1,6 +1,8 @@
 ---
-title: "Numismatics: Meaning, Qualifications, and Examples (Algo Trading)"
-description: "Explore the enduring allure of numismatics and its intersection with algorithmic trading highlighting their historical and modern financial significance."
+category: quant_concept
+description: Explore the enduring allure of numismatics and its intersection with
+  algorithmic trading highlighting their historical and modern financial significance.
+title: 'Numismatics: Meaning, Qualifications, and Examples (Algo Trading)'
 ---
 
 In a world increasingly driven by technology and digital finance, the fascination with numismatics and coin collecting remains robust. This enduring interest highlights the cultural and historical significance of money even as financial markets undergo profound transformations through algorithmic trading. Algorithmic trading has revolutionized these markets, introducing new paradigms in investment strategies characterized by speed, efficiency, and data-driven analyses.

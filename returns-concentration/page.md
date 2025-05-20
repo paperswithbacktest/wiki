@@ -1,6 +1,12 @@
 ---
-title: "Returns concentration (Algo Trading)"
-description: Discover the essential role of returns concentration in algorithmic trading and how it enhances trading outcomes by focusing on specific strategies or assets with lucrative return potential. This article explores the significant impact of returns concentration on maximizing investment returns, addressing the risks involved, and the crucial performance metrics necessary for evaluating strategy effectiveness in rapidly evolving market conditions.
+category: quant_concept
+description: Discover the essential role of returns concentration in algorithmic trading
+  and how it enhances trading outcomes by focusing on specific strategies or assets
+  with lucrative return potential. This article explores the significant impact of
+  returns concentration on maximizing investment returns, addressing the risks involved,
+  and the crucial performance metrics necessary for evaluating strategy effectiveness
+  in rapidly evolving market conditions.
+title: Returns concentration (Algo Trading)
 ---
 
 Algorithmic trading has become pivotal in transforming financial markets, utilizing intricate algorithms and immense computational capabilities to facilitate trades at unprecedented speeds. This method of trading has revolutionized traditional mechanisms, allowing traders to capitalize on minute market fluctuations within milliseconds. Central to this approach is the concept of returns concentration, which emphasizes the pursuit of strategies that promise maximal returns on investment.

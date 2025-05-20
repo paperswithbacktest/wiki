@@ -1,7 +1,8 @@
 ---
-title: ROC Curve Analysis for Machine Learning Classifier Evaluation
+category: quant_concept
 description: ROC curve shows how to plot true positive vs false positive rates and
   calculate AUC to compare models and choose optimal thresholds Discover more inside
+title: ROC Curve Analysis for Machine Learning Classifier Evaluation
 ---
 
 ![Image](images/1.png)

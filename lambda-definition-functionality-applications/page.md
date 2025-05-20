@@ -1,6 +1,11 @@
 ---
-title: "Lambda: Definition, Functionality, and Applications (Algo Trading)"
-description: "Discover the transformative potential of Lambda technology in algorithmic trading. Learn how this pivotal innovation enhances trading strategies through automated decision-making and real-time data processing. Explore its applications, including seamless integration and event-driven execution, which offer cost efficiency and scalability for traders seeking to optimize their trading operations."
+category: quant_concept
+description: Discover the transformative potential of Lambda technology in algorithmic
+  trading. Learn how this pivotal innovation enhances trading strategies through automated
+  decision-making and real-time data processing. Explore its applications, including
+  seamless integration and event-driven execution, which offer cost efficiency and
+  scalability for traders seeking to optimize their trading operations.
+title: 'Lambda: Definition, Functionality, and Applications (Algo Trading)'
 ---
 
 The evolution of trading has been significantly influenced by technological advancements over the decades. In its earliest forms, trading was conducted face-to-face, with individuals negotiating directly. The advent of telecommunication and computer technologies drastically transformed this landscape, introducing electronic trading systems that facilitated faster and more efficient transactions. Today, trading is predominantly conducted through sophisticated platforms powered by high-speed internet, allowing for instantaneous execution of trades and access to global markets. This technological evolution has paved the way for more complex trading strategies, including algorithmic trading.
@@ -296,4 +301,3 @@ In conclusion, the adoption of Lambda technology in algorithmic trading not only
    A repository of academic papers reviewing the applications and effectiveness of Lambda functions in trading algorithms, providing cutting-edge research findings and experimental insights for traders and developers.
 
 These resources offer a foundational understanding as well as advanced insights into the workings of algorithmic trading and the implementation of Lambda functions, equipping readers with knowledge to explore these technologies further.
-

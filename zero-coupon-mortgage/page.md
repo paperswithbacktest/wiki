@@ -1,6 +1,8 @@
 ---
-title: "Zero-Coupon Mortgage (Algo Trading)"
-description: "Explore zero-coupon mortgages that defer payments until maturity offering potential benefits and risks Understanding them enhances financial decision-making."
+category: quant_concept
+description: Explore zero-coupon mortgages that defer payments until maturity offering
+  potential benefits and risks Understanding them enhances financial decision-making.
+title: Zero-Coupon Mortgage (Algo Trading)
 ---
 
 Real estate finance encompasses a broad range of funding mechanisms, each tailored to meet diverse project and investment needs. Among these numerous financial options is the zero-coupon mortgage—an intriguing type of mortgage loan that defers all payments until maturity, contrasting starkly with traditional payment structures. For both seasoned investors and new entrants in the real estate market, understanding the nuances of zero-coupon mortgages is an essential skill. This article is dedicated to demystifying zero-coupon mortgages, along with unveiling insights into mortgage finance as a whole, and the transformative role of algorithmic trading in contemporary finance.

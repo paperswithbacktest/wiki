@@ -1,6 +1,9 @@
 ---
-title: "Horizontal Line in Technical Analysis (Algo Trading)"
-description: "Explore horizontal line analysis in trading a method focusing on support and resistance levels essential in technical analysis and enhanced by algorithmic trading."
+category: trading_strategy
+description: Explore horizontal line analysis in trading a method focusing on support
+  and resistance levels essential in technical analysis and enhanced by algorithmic
+  trading.
+title: Horizontal Line in Technical Analysis (Algo Trading)
 ---
 
 Technical analysis is a cornerstone in trading, offering traders a methodical approach to evaluating potential market moves. Among the various techniques within this discipline, horizontal line analysis stands out for its simplicity and efficacy. This technique focuses on identifying support and resistance levels, which are horizontal lines on price charts where prices have historically shown a propensity to stop and reverse. The support level acts as a floor that the price struggles to fall below, while resistance serves as a ceiling that price battles to break through.

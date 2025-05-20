@@ -1,6 +1,8 @@
 ---
-title: "SEC Form 17-H: Overview and Functionality (Algo Trading)"
-description: "Discover the importance of SEC Form 17-H in securities regulation and algo trading explaining its role in financial compliance and market stability."
+category: quant_concept
+description: Discover the importance of SEC Form 17-H in securities regulation and
+  algo trading explaining its role in financial compliance and market stability.
+title: 'SEC Form 17-H: Overview and Functionality (Algo Trading)'
 ---
 
 SEC Form 17-H is an essential document entrenched in the regulatory framework governing the securities industry, particularly for broker-dealers. It plays a pivotal role in ensuring financial compliance and upholding the integrity of financial markets. By mandating detailed reporting on the financial and operational practices of broker-dealers, SEC Form 17-H seeks to mitigate systemic risks and ensure these entities operate within a framework of financial prudence and transparency.

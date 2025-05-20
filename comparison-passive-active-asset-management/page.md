@@ -1,6 +1,9 @@
 ---
-title: "Comparison of Passive and Active Asset Management (Algo Trading)"
-description: "Explore the differences between passive and active asset management with insights into algorithmic trading Discover strategies to align with your investment goals"
+category: trading_strategy
+description: Explore the differences between passive and active asset management with
+  insights into algorithmic trading Discover strategies to align with your investment
+  goals
+title: Comparison of Passive and Active Asset Management (Algo Trading)
 ---
 
 Choosing the right investment strategy is essential for achieving financial goals. Two primary investment strategies in asset management are passive and active management. 

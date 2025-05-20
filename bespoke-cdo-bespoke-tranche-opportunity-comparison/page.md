@@ -1,6 +1,9 @@
 ---
-title: "Bespoke CDO and Bespoke Tranche Opportunity Comparison (Algo Trading)"
-description: "Explore the complex world of bespoke CDOs and BTOs, their resurgence in modern financial markets, and the impact of algorithmic trading on investment strategies."
+category: trading_strategy
+description: Explore the complex world of bespoke CDOs and BTOs, their resurgence
+  in modern financial markets, and the impact of algorithmic trading on investment
+  strategies.
+title: Bespoke CDO and Bespoke Tranche Opportunity Comparison (Algo Trading)
 ---
 
 Collateralized Debt Obligations (CDOs) represent a complex, yet significant, segment of financial instruments that have evolved to cater to the needs of sophisticated investors. Among them, bespoke CDOs and bespoke tranche opportunities (BTOs) have emerged as tailored solutions that accommodate the unique investment preferences of select market participants. These instruments allow for specific asset selection and the crafting of risk-return profiles, making them highly relevant in modern trading and investment strategies. 

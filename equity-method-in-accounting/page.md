@@ -1,6 +1,13 @@
 ---
-title: "Equity Method in Accounting (Algo Trading)"
-description: "Explore the vital connection between financial reporting and algorithmic trading in the context of the equity method in accounting. The equity method helps investors report their proportional share of an investee's profits, while algo trading uses computational techniques to enhance market efficiency. This combination allows for transparent financial decision-making and optimized trading strategies, maximizing returns and minimizing risks. Understanding these dynamics is essential for strategic advancements in contemporary financial environments."
+category: quant_concept
+description: Explore the vital connection between financial reporting and algorithmic
+  trading in the context of the equity method in accounting. The equity method helps
+  investors report their proportional share of an investee's profits, while algo trading
+  uses computational techniques to enhance market efficiency. This combination allows
+  for transparent financial decision-making and optimized trading strategies, maximizing
+  returns and minimizing risks. Understanding these dynamics is essential for strategic
+  advancements in contemporary financial environments.
+title: Equity Method in Accounting (Algo Trading)
 ---
 
 The intricate relationship between accounting financial reporting, the equity method, and algorithmic trading is increasingly vital in today's financial landscape. Financial reporting stands as a cornerstone of accounting, ensuring that a company's financial affairs are documented with transparency and accuracy. This process involves the preparation of financial statements that reflect a true and fair view of an organization's financial performance and position, serving as critical tools for stakeholders to make informed decisions.

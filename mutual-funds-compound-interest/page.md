@@ -1,6 +1,8 @@
 ---
-title: "Mutual Funds and Compound Interest (Algo Trading)"
-description: "Explore the synergy between mutual funds, compound interest, and algorithmic trading to boost investment returns and optimize portfolio management efficiently."
+category: trading_strategy
+description: Explore the synergy between mutual funds, compound interest, and algorithmic
+  trading to boost investment returns and optimize portfolio management efficiently.
+title: Mutual Funds and Compound Interest (Algo Trading)
 ---
 
 The fusion of technology with finance has fundamentally transformed the landscape of investing, allowing for the adoption of innovative strategies such as mutual funds, compound interest calculations, and algorithmic trading. These strategies, while distinct in their methodology, can be integratively leveraged to optimize an investor's portfolio.

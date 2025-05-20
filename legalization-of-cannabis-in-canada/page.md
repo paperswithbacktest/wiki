@@ -1,6 +1,9 @@
 ---
-title: "Legalization of Cannabis in Canada (Algo Trading)"
-description: "Explore the impact of cannabis legalization in Canada including economic benefits regulatory measures and the rise of algorithmic trading in volatile cannabis stocks"
+category: quant_concept
+description: Explore the impact of cannabis legalization in Canada including economic
+  benefits regulatory measures and the rise of algorithmic trading in volatile cannabis
+  stocks
+title: Legalization of Cannabis in Canada (Algo Trading)
 ---
 
 Marijuana legalization in Canada represents a significant shift in national policy, officially taking effect on October 17, 2018. The policy change was driven by the federal Cannabis Act, making Canada the first G7 nation to legalize recreational cannabis nationwide. This historical movement aimed at curbing illegal distribution while ensuring consumer safety through stringent regulations. 

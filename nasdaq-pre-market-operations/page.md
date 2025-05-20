@@ -1,6 +1,8 @@
 ---
-title: "Nasdaq Pre-Market Operations (Algo Trading)"
-description: "Discover early trading opportunities and handle risks with Nasdaq's pre-market trading from 4 a.m. ET utilizing advanced algorithmic trading strategies."
+category: trading_strategy
+description: Discover early trading opportunities and handle risks with Nasdaq's pre-market
+  trading from 4 a.m. ET utilizing advanced algorithmic trading strategies.
+title: Nasdaq Pre-Market Operations (Algo Trading)
 ---
 
 Pre-market trading on Nasdaq allows investors to engage in buying and selling securities before the official stock market opening bell at 9:30 a.m. Eastern Time. This early trading window, spanning from 4 a.m. to 9:30 a.m., provides a platform for investors to respond to events and news that may influence stock prices. By participating in pre-market trading, investors can potentially seize early opportunities and mitigate risks that emerge from overnight developments. 

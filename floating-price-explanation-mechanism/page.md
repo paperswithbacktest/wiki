@@ -1,6 +1,9 @@
 ---
-title: "Floating Price: Explanation and Mechanism (Algo Trading)"
-description: "Explore the intricate world of algorithmic trading and floating prices Understanding how dynamic pricing mechanisms shape market strategies and enhance liquidity"
+category: quant_concept
+description: Explore the intricate world of algorithmic trading and floating prices
+  Understanding how dynamic pricing mechanisms shape market strategies and enhance
+  liquidity
+title: 'Floating Price: Explanation and Mechanism (Algo Trading)'
 ---
 
 Financial markets constitute an intricate network where the trading of assets, such as stocks, bonds, and derivatives, occurs. These markets are pivotal to the global economy, facilitating the allocation of resources, risk management, and capital formation. A significant transformation within these markets has been brought about by algorithmic trading, which leverages advanced mathematics and cutting-edge technology to enhance trading efficiency and efficacy.

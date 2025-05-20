@@ -1,6 +1,8 @@
 ---
-title: "Commingling Practices and Implications (Algo Trading)"
-description: "Explore the convergence of asset management, finance commingling, and algorithmic trading and learn how these strategies optimize investment returns efficiently."
+category: trading_strategy
+description: Explore the convergence of asset management, finance commingling, and
+  algorithmic trading and learn how these strategies optimize investment returns efficiently.
+title: Commingling Practices and Implications (Algo Trading)
 ---
 
 In financial services, the integration of asset management, finance commingling, and algorithmic trading has produced innovative methodologies to effectively manage and enhance wealth. The convergence of these elements plays a critical role in shaping modern investment strategies, catering to the increasingly sophisticated needs of investors.

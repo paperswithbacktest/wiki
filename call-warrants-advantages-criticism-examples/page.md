@@ -1,6 +1,8 @@
 ---
-title: "Call Warrants: Advantages, Criticism, and Examples (Algo Trading)"
-description: "Explore the advantages and criticisms of call warrants in algo trading. Learn about their high leverage potential, speculative risks, and investment strategies."
+category: quant_concept
+description: Explore the advantages and criticisms of call warrants in algo trading.
+  Learn about their high leverage potential, speculative risks, and investment strategies.
+title: 'Call Warrants: Advantages, Criticism, and Examples (Algo Trading)'
 ---
 
 The advent of algorithmic trading has significantly transformed various aspects of financial markets, including the trading of warrants. Warrants, a type of financial derivative, grant the holder the right, but not the obligation, to purchase a company's stock at a predetermined price before the expiry date. These instruments offer investors unique leverage, presenting opportunities for substantial returns, particularly in volatile markets. This leverage stems from the ability to control larger amounts of stock with a relatively small initial investment.

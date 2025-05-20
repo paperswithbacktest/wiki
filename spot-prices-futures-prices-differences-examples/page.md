@@ -1,6 +1,13 @@
 ---
-title: "Spot Prices and Futures Prices: Differences and Examples (Algo Trading)"
-description: "Explore the distinctions between spot and futures prices in trading and their impact on strategies like arbitrage. Gain insights into how algorithmic trading leverages these differences for efficient trade execution. Understand key concepts such as contango and backwardation, the roles of hedgers and speculators, and the influence of market dynamics on pricing. Discover how spot prices serve as benchmarks for futures and learn about commonly traded assets in both markets, aiding traders in making informed investment and risk management decisions."
+category: quant_concept
+description: Explore the distinctions between spot and futures prices in trading and
+  their impact on strategies like arbitrage. Gain insights into how algorithmic trading
+  leverages these differences for efficient trade execution. Understand key concepts
+  such as contango and backwardation, the roles of hedgers and speculators, and the
+  influence of market dynamics on pricing. Discover how spot prices serve as benchmarks
+  for futures and learn about commonly traded assets in both markets, aiding traders
+  in making informed investment and risk management decisions.
+title: 'Spot Prices and Futures Prices: Differences and Examples (Algo Trading)'
 ---
 
 Price comparison in trading involves evaluating the prices of financial instruments across different markets or forms, primarily focusing on futures and spot prices. A futures price refers to the agreed-upon price for the future delivery of an asset as determined by a futures contract, whereas the spot price is the current market price at which an asset can be bought or sold for immediate delivery. Understanding the differences between futures prices and spot prices is crucial for traders because these variations can inform hedging strategies, speculation, and risk management.

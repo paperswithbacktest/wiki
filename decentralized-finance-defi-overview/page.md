@@ -1,6 +1,12 @@
 ---
-title: "Decentralized Finance (DeFi) Overview (Algo Trading)"
-description: "Explore the revolutionary impact of blockchain technology, decentralized finance (DeFi), and algorithmic trading on financial markets. Discover how DeFi eliminates intermediaries, democratizing finance with open, transparent systems built on platforms like Ethereum. Algorithmic trading enhances these systems by optimizing strategies, paving the way for a more inclusive, secure, and efficient financial future."
+category: quant_concept
+description: Explore the revolutionary impact of blockchain technology, decentralized
+  finance (DeFi), and algorithmic trading on financial markets. Discover how DeFi
+  eliminates intermediaries, democratizing finance with open, transparent systems
+  built on platforms like Ethereum. Algorithmic trading enhances these systems by
+  optimizing strategies, paving the way for a more inclusive, secure, and efficient
+  financial future.
+title: Decentralized Finance (DeFi) Overview (Algo Trading)
 ---
 
 The financial landscape is undergoing a profound transformation driven by blockchain technology, decentralized finance (DeFi), and algorithmic trading. These innovations are not just buzzwords but pillars supporting the future of financial markets. Understanding them is not merely an academic exercise but a necessity for anyone interested in the trajectory of global finance. Blockchain technology, known for its features of immutability, decentralization, and transparency, lays the foundation for this new era. It supports a range of financial applications that promise increased security and reduced fraud, alongside significant reductions in transaction costs.

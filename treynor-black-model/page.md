@@ -1,6 +1,12 @@
 ---
-title: "Treynor–Black model (Algo Trading)"
-description: Explore the Treynor–Black model's innovative approach to algorithmic trading, enhancing efficiency by integrating passive and active investment strategies. Understand its theoretical and mathematical foundations, and learn how to optimize portfolio performance through precision security selection and market exposure. Discover the model's application, challenges, and potential solutions for real-world trading success.
+category: quant_concept
+description: Explore the Treynor–Black model's innovative approach to algorithmic
+  trading, enhancing efficiency by integrating passive and active investment strategies.
+  Understand its theoretical and mathematical foundations, and learn how to optimize
+  portfolio performance through precision security selection and market exposure.
+  Discover the model's application, challenges, and potential solutions for real-world
+  trading success.
+title: Treynor–Black model (Algo Trading)
 ---
 
 Financial models play a crucial role in the domain of algorithmic trading, serving as decision support systems that enable traders to identify viable trading opportunities by processing vast datasets with speed and precision. These models employ statistical and mathematical techniques to anticipate market behavior, thus driving trading strategies that are both systematic and automated. Given the velocity and volume of modern financial markets, algorithmic trading has become indispensable, providing a level of efficiency that manual trading cannot match.

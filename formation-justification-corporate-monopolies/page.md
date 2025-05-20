@@ -1,6 +1,8 @@
 ---
-title: "Formation and Justification of Corporate Monopolies (Algo Trading)"
-description: "Explore how corporate monopolies form in algo trading, affecting market competition and innovation. Understand their impact on financial markets and regulation."
+category: quant_concept
+description: Explore how corporate monopolies form in algo trading, affecting market
+  competition and innovation. Understand their impact on financial markets and regulation.
+title: Formation and Justification of Corporate Monopolies (Algo Trading)
 ---
 
 A business monopoly is characterized by a single entity's dominance over an entire industry or market sector, effectively exerting significant control over product availability, pricing, and consumer choice. This control leads to market dominance, a scenario where a company holds a dominant position, commanding a considerable share of market revenue and exerting influence over market trends. Market dominance, while not as absolute as a monopoly, occurs when a firm has substantial power to set competitive barriers, regulate supply chains, and dictate terms to consumers.

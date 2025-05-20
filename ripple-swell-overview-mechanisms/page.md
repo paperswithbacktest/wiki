@@ -1,6 +1,9 @@
 ---
-title: "Ripple Swell: Overview and Mechanisms (Algo Trading)"
-description: "Discover Ripple Swell an influential annual event spotlighting blockchain advancements and algorithmic trading in cryptocurrency industries. Join industry leaders in shaping the future of financial technologies."
+category: quant_concept
+description: Discover Ripple Swell an influential annual event spotlighting blockchain
+  advancements and algorithmic trading in cryptocurrency industries. Join industry
+  leaders in shaping the future of financial technologies.
+title: 'Ripple Swell: Overview and Mechanisms (Algo Trading)'
 ---
 
 Ripple Swell is a pivotal annual event in the world of cryptocurrency and blockchain technology, garnering attention as a notable fixture on the crypto calendar. Hosted by Ripple Labs, the conference underscores the company's significant influence on the cryptographic landscape. Ripple Labs, known for its payment protocol and the XRP Ledger, plays a vital role in shaping the conversation around blockchain technology and digital currencies. The Ripple Swell conference stands as Ripple Labs' flagship event, drawing industry leaders, financial experts, and tech innovators from around the globe to discuss the future of financial technologies.

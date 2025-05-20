@@ -1,6 +1,8 @@
 ---
-title: "Comparison of Gross Margin and Contribution Margin (Algo Trading)"
-description: "Explore the role of gross margin and contribution margin in algorithmic trading Discover how these financial metrics optimize strategy efficiency and profitability"
+category: trading_strategy
+description: Explore the role of gross margin and contribution margin in algorithmic
+  trading Discover how these financial metrics optimize strategy efficiency and profitability
+title: Comparison of Gross Margin and Contribution Margin (Algo Trading)
 ---
 
 In today's fast-paced financial markets, algorithmic trading has become an essential component, enabling traders to execute trades with remarkable speed and precision. As this trading paradigm continues to grow in prominence, the understanding and application of key financial metrics such as gross margin and contribution margin become critical in optimizing trading strategies. Gross margin, defined as the proportion of revenue that exceeds the cost of goods sold (COGS), and contribution margin, which measures the difference between sales revenue and variable production costs, serve as vital indicators of a business's efficiency and profitability.

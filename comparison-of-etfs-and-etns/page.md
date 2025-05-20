@@ -1,6 +1,9 @@
 ---
-title: "Comparison of ETFs and ETNs (Algo Trading)"
-description: "Explore the nuances of ETFs and ETNs in algorithmic trading Discover how these investment tools differ in benefits risks and usage for informed financial decisions"
+category: quant_concept
+description: Explore the nuances of ETFs and ETNs in algorithmic trading Discover
+  how these investment tools differ in benefits risks and usage for informed financial
+  decisions
+title: Comparison of ETFs and ETNs (Algo Trading)
 ---
 
 The world of finance is vast and continually evolving, introducing numerous investment opportunities and tools that cater to a wide range of investor needs and preferences. Exchange-Traded Notes (ETNs), Exchange-Traded Funds (ETFs), and algorithmic trading have emerged as essential components of the modern financial landscape. These instruments and technologies offer unique benefits and pose distinct challenges, influencing how investors interact with the market.

@@ -1,6 +1,8 @@
 ---
-title: "Long-Dated Asset Overview and Types (Algo Trading)"
-description: "Dive into the world of long-dated assets and algorithmic trading Learn how they shape investment strategies enhance returns and manage risks effectively"
+category: quant_concept
+description: Dive into the world of long-dated assets and algorithmic trading Learn
+  how they shape investment strategies enhance returns and manage risks effectively
+title: Long-Dated Asset Overview and Types (Algo Trading)
 ---
 
 In the ever-evolving landscape of finance and investment, long-dated assets and algorithmic trading have emerged as pivotal components. Long-dated assets refer to investments with a maturity period extending beyond ten years, such as 30-year government bonds, long-term corporate bonds, and certain types of mortgage-backed securities. These assets are significant for their ability to provide stable, long-term returns and are typically favored by institutional investors like pension funds and insurance companies for their portfolio-stabilizing properties.

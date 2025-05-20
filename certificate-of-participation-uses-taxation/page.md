@@ -1,6 +1,9 @@
 ---
-title: "Certificate of Participation: Uses and Taxation (Algo Trading)"
-description: "Explore the world of Certificates of Participation in finance. Learn about their structure, tax implications, investment strategies, and role in algorithmic trading."
+category: quant_concept
+description: Explore the world of Certificates of Participation in finance. Learn
+  about their structure, tax implications, investment strategies, and role in algorithmic
+  trading.
+title: 'Certificate of Participation: Uses and Taxation (Algo Trading)'
 ---
 
 This article explores the intricate world of finance, examining Certificates of Participation (COPs), taxation implications, investment strategies, and the role of algorithmic trading. Certificates of Participation represent a specialized financial instrument, granting investors a share in lease revenues. Unlike traditional municipal bonds, COPs do not signify ownership of the leased asset but provide a proportionate interest in lease payments made by a government entity. This structure enables municipalities to finance projects without issuing bonds that increase their debt levels, offering a flexible alternative for both issuers and investors.

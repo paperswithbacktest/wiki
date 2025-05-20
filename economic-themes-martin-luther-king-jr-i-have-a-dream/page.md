@@ -1,6 +1,9 @@
 ---
-title: "Economic Themes in Martin Luther King Jr.'s 'I Have a Dream' Speech (Algo Trading)"
-description: "Explore the economic themes in Martin Luther King Jr.'s speeches and their relevance to modern financial practices like algorithmic trading, promoting equity and justice."
+category: quant_concept
+description: Explore the economic themes in Martin Luther King Jr.'s speeches and
+  their relevance to modern financial practices like algorithmic trading, promoting
+  equity and justice.
+title: Economic Themes in Martin Luther King Jr.'s 'I Have a Dream' Speech (Algo Trading)
 ---
 
 The Civil Rights Movement was a pivotal era in American history, marked by a relentless struggle for the legal and social equality of all citizens. Among the luminaries of this transformative period was Martin Luther King Jr., a figure whose speeches continue to resonate, leaving a lasting impact on both historical and contemporary discussions about justice and equity. While his oratory is often remembered for its emphasis on racial equality, King's speeches frequently transcended this topic to address a broader spectrum of social issues, including economic justice. His words on economic fairness and opportunity remain relevant as society navigates modern financial landscapes, where challenges and opportunities are increasingly defined by advanced technologies.

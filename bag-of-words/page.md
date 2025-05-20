@@ -1,6 +1,11 @@
 ---
-title: "Bag of Words in NLP (Algo Trading)"
-description: Explore the simplicity and effectiveness of the Bag of Words model in NLP for algorithmic trading. Discover how this approach transforms text into numerical data, aiding traders in analyzing financial news and social media to make informed decisions. Understand the model's applications, benefits, and limitations in enhancing trading strategies with data-driven metrics.
+category: quant_concept
+description: Explore the simplicity and effectiveness of the Bag of Words model in
+  NLP for algorithmic trading. Discover how this approach transforms text into numerical
+  data, aiding traders in analyzing financial news and social media to make informed
+  decisions. Understand the model's applications, benefits, and limitations in enhancing
+  trading strategies with data-driven metrics.
+title: Bag of Words in NLP (Algo Trading)
 ---
 
 Natural Language Processing (NLP) is an interdisciplinary field that combines elements of computer science, artificial intelligence, and linguistics to enable machines to understand, interpret, and generate human language. This encompasses a wide array of computational techniques to process large volumes of natural language data and derives meaningful insights that can approximate human-like understanding and responses. Among the various models employed in NLP, the Bag of Words (BoW) model stands out for its simplicity and effectiveness in transforming textual data into a numerical format. This transformation is achieved by counting the occurrence of each word within a document, thereby enabling the processing of text in a format that machines can easily analyze.

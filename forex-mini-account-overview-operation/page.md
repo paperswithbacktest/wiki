@@ -1,6 +1,8 @@
 ---
-title: "Forex Mini Account: Overview and Operation (Algo Trading)"
-description: "Explore forex mini accounts to safely enter currency trading with less capital. Learn about algo trading's role in enhancing speed and precision in forex."
+category: trading_strategy
+description: Explore forex mini accounts to safely enter currency trading with less
+  capital. Learn about algo trading's role in enhancing speed and precision in forex.
+title: 'Forex Mini Account: Overview and Operation (Algo Trading)'
 ---
 
 The forex market, recognized as the largest financial market globally, presents unique trading prospects for investors. With trillions of dollars traded daily, this market surpasses the size and liquidity of other financial markets, ensuring constant activity and numerous trading opportunities. Currency trading in the forex environment is characterized by the exchange of one currency for another among global participants, including corporations, governments, and individual traders. This continuous exchange and interaction contribute to the dynamic nature of the forex market.

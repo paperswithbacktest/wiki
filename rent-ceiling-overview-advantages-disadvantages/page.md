@@ -1,6 +1,8 @@
 ---
-title: "Rent Ceiling: Overview, Advantages, and Disadvantages (Algo Trading)"
-description: "Explore the dynamics of rent ceilings and their intersection with algorithmic trading in real estate Learn the benefits and challenges of these regulatory measures"
+category: quant_concept
+description: Explore the dynamics of rent ceilings and their intersection with algorithmic
+  trading in real estate Learn the benefits and challenges of these regulatory measures
+title: 'Rent Ceiling: Overview, Advantages, and Disadvantages (Algo Trading)'
 ---
 
 Rent control and rent ceilings are regulatory measures implemented to stabilize housing markets by capping the amount landlords can charge tenants. These policies aim to provide affordable housing, prevent sudden rent hikes, and reduce tenant displacement, particularly in urban areas with high demand for rental properties. Rent control typically refers to the laws that limit rent increases over time, while a rent ceiling sets a maximum allowable rent. Historically, rent control policies emerged in response to housing shortages and economic hardships, dating back to wartime economies, and have evolved to address modern housing crises in major cities globally. 

@@ -1,6 +1,8 @@
 ---
-title: "Explainable AI in trading (Algo Trading)"
-description: "Explore the role of explainable AI in trading to ensure transparency and trust. Understand its importance in risk management and regulatory compliance."
+category: quant_concept
+description: Explore the role of explainable AI in trading to ensure transparency
+  and trust. Understand its importance in risk management and regulatory compliance.
+title: Explainable AI in trading (Algo Trading)
 ---
 
 In the rapidly evolving world of financial trading, algorithmic trading powered by artificial intelligence (AI) has become a cornerstone. These systems utilize complex models to make trading decisions at speeds and scales beyond human capability. Leveraging AI, trading algorithms can process vast amounts of data swiftly to identify opportunities and execute trades more efficiently than traditional methods. However, alongside these advancements, a significant challenge arises: explainability. Explainability refers to the capacity to understand and interpret the decision-making processes of AI systems, and in the context of trading, this becomes crucial for several reasons.

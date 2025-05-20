@@ -1,6 +1,9 @@
 ---
-title: "Straight-Through Processing and Its Benefits (Algo Trading)"
-description: "Discover the transformative benefits of Straight-Through Processing in algorithmic trading. Enhance transaction speed, reduce errors, and gain a competitive edge."
+category: quant_concept
+description: Discover the transformative benefits of Straight-Through Processing in
+  algorithmic trading. Enhance transaction speed, reduce errors, and gain a competitive
+  edge.
+title: Straight-Through Processing and Its Benefits (Algo Trading)
 ---
 
 Straight-Through Processing (STP) represents a transformative approach in the financial industry, facilitating automated transactions that occur without the need for manual intervention. This methodology significantly advances the way financial operations are conducted, particularly in the realms of payments, securities trading, and algorithmic trading. STP plays a pivotal role in modern financial ecosystems, significantly enhancing the efficiency with which transactions are processed.

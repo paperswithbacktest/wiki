@@ -1,6 +1,9 @@
 ---
-title: "Economic Recovery Process and Indicators (Algo Trading)"
-description: "Explore the dynamics of economic recovery with insights into key indicators like GDP growth and employment rates alongside the role of algorithmic trading in modern markets."
+category: quant_concept
+description: Explore the dynamics of economic recovery with insights into key indicators
+  like GDP growth and employment rates alongside the role of algorithmic trading in
+  modern markets.
+title: Economic Recovery Process and Indicators (Algo Trading)
 ---
 
 Economic recovery has become a central focus as nations worldwide attempt to rebuild their economies following periods of recession. This concept is essential for understanding how economies rebound and stabilize, driven by a range of economic indicators that signal positive change. Key indicators such as GDP growth, employment rates, consumer confidence, and stock market trends provide insights into an economy's health and its trajectory towards recovery.

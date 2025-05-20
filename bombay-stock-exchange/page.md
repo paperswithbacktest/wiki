@@ -1,6 +1,8 @@
 ---
-title: "Bombay Stock Exchange (Algo Trading)"
-description: "Explore the impact of algorithmic trading on the Bombay Stock Exchange BSE the first in Asia and how it reshapes market dynamics with speed and precision"
+category: quant_concept
+description: Explore the impact of algorithmic trading on the Bombay Stock Exchange
+  BSE the first in Asia and how it reshapes market dynamics with speed and precision
+title: Bombay Stock Exchange (Algo Trading)
 ---
 
 The Indian stock market plays a pivotal role in the global economy, characterized by its rapid growth and substantial contribution to the country's GDP. As a leading emerging market, India attracts substantial foreign investment and is closely watched by global investors seeking opportunities in fast-growing economies. Central to this market is the Bombay Stock Exchange (BSE), established in 1875, making it the first stock exchange in Asia. The BSE functions as a cornerstone of the Indian financial market, providing a platform for trading in equities, derivatives, and other financial instruments. Its flagship index, the S&P BSE SENSEX, is a benchmark for the Indian economy and is extensively used by investors to gauge market movements and trends.

@@ -1,6 +1,8 @@
 ---
-title: "Ratio Call Write (Algo Trading)"
-description: "Explore the ratio call write strategy in options trading Learn how algorithmic trading optimizes this high-risk approach to maximize income from premiums"
+category: trading_strategy
+description: Explore the ratio call write strategy in options trading Learn how algorithmic
+  trading optimizes this high-risk approach to maximize income from premiums
+title: Ratio Call Write (Algo Trading)
 ---
 
 Options trading offers a variety of strategies that cater to different market scenarios and investor preferences, aiming to provide flexible opportunities for risk and return. Among these strategies, the ratio call write stands out due to its distinctive approach of selling more call options than shares owned. This technique is essentially designed to capitalize on premiums in stable market conditions where minimal price volatility is anticipated.

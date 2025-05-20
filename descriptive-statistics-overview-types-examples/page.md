@@ -1,6 +1,8 @@
 ---
-title: "Descriptive Statistics: Overview, Types, and Examples (Algo Trading)"
-description: "Explore how descriptive statistics in algorithmic trading help traders understand data, assess risks, and optimize strategies for informed decision-making."
+category: quant_concept
+description: Explore how descriptive statistics in algorithmic trading help traders
+  understand data, assess risks, and optimize strategies for informed decision-making.
+title: 'Descriptive Statistics: Overview, Types, and Examples (Algo Trading)'
 ---
 
 In today's fast-paced financial markets, the ability to make informed, data-driven decisions is critical to achieving success. One of the foremost approaches in this area is algorithmic trading (algo trading), which utilizes advanced quantitative data analysis to exploit market inefficiencies. By leveraging sophisticated algorithms, traders can execute trades at speeds and frequencies that are impossible for human traders, often capitalizing on fleeting opportunities in the market.

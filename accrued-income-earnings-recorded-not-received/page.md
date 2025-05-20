@@ -1,6 +1,8 @@
 ---
-title: "Accrued Income: Earnings Recorded But Not Received (Algo Trading)"
-description: "Explore how accrued income and algo trading affect modern finance. Understand distinctions in income types and the role of algorithms in trading efficiency."
+category: quant_concept
+description: Explore how accrued income and algo trading affect modern finance. Understand
+  distinctions in income types and the role of algorithms in trading efficiency.
+title: 'Accrued Income: Earnings Recorded But Not Received (Algo Trading)'
 ---
 
 Earned income, accrued income, and algorithmic trading are foundational concepts in modern finance and investment. Earned income refers to compensation received for providing services or labor, including salaries, wages, and professional fees. It forms the primary basis of personal income taxation and is a critical component in personal financial planning and macroeconomic analysis. Accrued income, on the other hand, represents earnings recognized in financial records when earned rather than when cash is received. This concept aligns with revenue recognition principles under the accrual accounting method, ensuring a more accurate representation of a firm's financial position by matching income with the expenses incurred to generate it.

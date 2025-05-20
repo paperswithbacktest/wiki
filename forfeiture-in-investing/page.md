@@ -1,6 +1,8 @@
 ---
-title: "Forfeiture in Investing (Algo Trading)"
-description: "Explore the dynamic world of investing with insights on financial forfeiture and algorithmic trading Learn how these elements are transforming finance today"
+category: quant_concept
+description: Explore the dynamic world of investing with insights on financial forfeiture
+  and algorithmic trading Learn how these elements are transforming finance today
+title: Forfeiture in Investing (Algo Trading)
 ---
 
 In the rapidly evolving financial landscape, the integration of technology and finance has ushered in a plethora of sophisticated investing strategies and concepts. This article explores the complex world of investing, emphasizing the significance of forfeiture, key financial terms, and algorithmic trading.

@@ -1,6 +1,9 @@
 ---
-title: "Rig Utilization Rate (Algo Trading)"
-description: "Explore the impact of rig utilization rates and algorithmic trading in the oil and gas industry Discover how these metrics optimize resource allocation and market strategies"
+category: quant_concept
+description: Explore the impact of rig utilization rates and algorithmic trading in
+  the oil and gas industry Discover how these metrics optimize resource allocation
+  and market strategies
+title: Rig Utilization Rate (Algo Trading)
 ---
 
 The oil and gas industry is a multifaceted sector where drilling efficiency and rig utilization are pivotal to ensuring operational success and profitability. This industry is characterized by complex processes where the optimization of resources and the minimization of costs are imperative. Drilling efficiency pertains to the effective use of resources in the extraction process, which directly influences operational costs and overall productivity. Rig utilization, on the other hand, measures the percentage of equipment actively engaged in operations out of the total available, serving as a significant indicator of market demand and resource allocation efficiency.

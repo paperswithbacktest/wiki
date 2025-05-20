@@ -1,6 +1,14 @@
 ---
-title: "Analysis of M1 Finance 2024 (Algo Trading)"
-description: "Explore the 2024 advancements of M1 Finance, a leading investment platform that merges manual investing with sophisticated automation. Known for its innovative use of customizable \"Pies\" and \"Slices,\" M1 Finance offers an intuitive approach to portfolio management tailored to individual goals. This year, the emphasis is on algorithmic trading capabilities, aligning with evolving trends in automation. Discover how M1 Finance's features empower both novice and seasoned investors through dynamic rebalancing, cost-effective solutions, and an adaptable fee model, positioning it as a preferred choice in the fintech landscape."
+category: trading_strategy
+description: Explore the 2024 advancements of M1 Finance, a leading investment platform
+  that merges manual investing with sophisticated automation. Known for its innovative
+  use of customizable "Pies" and "Slices," M1 Finance offers an intuitive approach
+  to portfolio management tailored to individual goals. This year, the emphasis is
+  on algorithmic trading capabilities, aligning with evolving trends in automation.
+  Discover how M1 Finance's features empower both novice and seasoned investors through
+  dynamic rebalancing, cost-effective solutions, and an adaptable fee model, positioning
+  it as a preferred choice in the fintech landscape.
+title: Analysis of M1 Finance 2024 (Algo Trading)
 ---
 
 M1 Finance is a pioneering investment platform that seamlessly integrates manual investing with sophisticated automation tools. Since its launch, it has established a strong foothold in the fintech industry by offering a hybrid approach that combines the flexibility of self-directed investing with the convenience of automated portfolio management. M1 Finance has differentiated itself through its innovative use of customizable "Pies" and "Slices", which allow investors to construct tailored portfolios that suit their individual financial goals. This approach, coupled with dynamic rebalancing capabilities, ensures that investors can maintain optimal asset allocations without the constant need for manual adjustments.

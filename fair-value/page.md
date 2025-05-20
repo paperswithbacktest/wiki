@@ -1,6 +1,11 @@
 ---
-title: "Fair Value (Algo Trading)"
-description: "Explore the essential role of financial valuation and asset pricing in modern finance, highlighting their impact on investment strategies. Understand fair value and its significance in guiding investment decisions. Discover how algorithmic trading integrates these principles for optimized decision-making in the ever-evolving financial landscape."
+category: quant_concept
+description: Explore the essential role of financial valuation and asset pricing in
+  modern finance, highlighting their impact on investment strategies. Understand fair
+  value and its significance in guiding investment decisions. Discover how algorithmic
+  trading integrates these principles for optimized decision-making in the ever-evolving
+  financial landscape.
+title: Fair Value (Algo Trading)
 ---
 
 In the ever-evolving landscape of finance, understanding the complex mechanisms behind asset pricing and valuation is crucial for traders and investors alike. Deciphering financial valuation is not just about knowing the worth of an asset or company; it impacts nearly every facet of investment decisions. This article explores the intertwined concepts of financial valuation, asset pricing, fair value, and algorithmic trading. These elements are foundational to modern market operations and play a pivotal role in determining investment strategies.

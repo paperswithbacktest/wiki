@@ -1,6 +1,14 @@
 ---
-title: "Nicolas Darvas: A Trading Legend (Algo Trading)"
-description: Explore the innovative trading strategy of Nicolas Darvas, a Hungarian-born dancer turned renowned stock trader. The Darvas Box Theory emphasizes systematic approaches centered on price momentum and trading volume, allowing traders to identify trends without extensive financial knowledge. Discover how this legendary method, which turned $25K into over $2M in 18 months, remains relevant in modern algorithmic trading. Learn about Darvas's journey, his influential book, and how today's traders can implement his timeless strategies to navigate the dynamic financial markets effectively.
+category: trading_strategy
+description: Explore the innovative trading strategy of Nicolas Darvas, a Hungarian-born
+  dancer turned renowned stock trader. The Darvas Box Theory emphasizes systematic
+  approaches centered on price momentum and trading volume, allowing traders to identify
+  trends without extensive financial knowledge. Discover how this legendary method,
+  which turned $25K into over $2M in 18 months, remains relevant in modern algorithmic
+  trading. Learn about Darvas's journey, his influential book, and how today's traders
+  can implement his timeless strategies to navigate the dynamic financial markets
+  effectively.
+title: 'Nicolas Darvas: A Trading Legend (Algo Trading)'
 ---
 
 The Darvas strategy in algorithmic trading is a methodology rooted in the innovative techniques developed by Nicolas Darvas, a Hungarian-born professional dancer turned highly successful stock trader. Nicolas Darvas initially embarked on a career in dancing, achieving global recognition. Despite his lack of formal financial education, his curiosity and analytical mindset led him to explore the stock market in the mid-20th century. Darvas's journey from a dancer to a successful trader is both intriguing and inspiring, showcasing his determination to understand and master financial markets on his own terms.

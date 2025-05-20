@@ -1,6 +1,8 @@
 ---
-title: "Adjusted Book Value (Algo Trading)"
-description: "Explore the nuanced relationship between financial valuation, adjusted book value, corporate finance, and algorithmic trading to enhance investment strategies."
+category: quant_concept
+description: Explore the nuanced relationship between financial valuation, adjusted
+  book value, corporate finance, and algorithmic trading to enhance investment strategies.
+title: Adjusted Book Value (Algo Trading)
 ---
 
 In today’s dynamic financial environment, assessing a company's intrinsic value is indispensable for investors aiming to make informed decisions. The complexities of financial valuation are accentuated by the interplay of traditional and modern methodologies, each providing unique insights into a company's financial health and growth potential. This article focuses on the crucial aspects of financial valuation, corporate finance, adjusted book value, and algorithmic trading.

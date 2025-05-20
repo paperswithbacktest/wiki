@@ -1,7 +1,8 @@
 ---
-title: Addressing Out-Group Homogeneity Bias in Machine Learning
+category: quant_concept
 description: Out-Group Homogeneity Bias skews ML models by treating groups as uniform.
   Bolster fairness with balanced data and ongoing monitoring. Discover more inside.
+title: Addressing Out-Group Homogeneity Bias in Machine Learning
 ---
 
 ![Image](images/1.jpeg)

@@ -1,6 +1,8 @@
 ---
-title: "Onerous Contracts and Accounting Rules (Algo Trading)"
-description: "Explore the essentials of accounting rules and their impact on financial strategies focusing on GAAP IFRS onerous contracts and algorithmic trading insights."
+category: quant_concept
+description: Explore the essentials of accounting rules and their impact on financial
+  strategies focusing on GAAP IFRS onerous contracts and algorithmic trading insights.
+title: Onerous Contracts and Accounting Rules (Algo Trading)
 ---
 
 The financial landscape is a multifaceted and dynamic domain characterized by diverse strategies and practices that guide actions and decision-making processes. In an era where global markets are intricately connected and continuously subject to fluctuations, maintaining an understanding of the foundational components of finance is essential. This article focuses on several key elements that are critical in grasping the breadth of modern financial and accounting practices: accounting rules, financial examples, onerous contracts, and algorithmic trading. 

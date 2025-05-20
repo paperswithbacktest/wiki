@@ -1,6 +1,13 @@
 ---
-title: "Bitcoin in a Time of Financial Crisis"
-description: Explore the role of Bitcoin during financial crises as it is positioned as a decentralized digital asset. Understand how its appeal as a 'safe haven' stems from its limited supply and independence from central institutions. Delve into debates on Bitcoin's volatility and its comparison to traditional assets like gold while considering the impact of algorithmic trading on its market behavior. Analyze its complex performance in past financial downturns to assess its potential as a buoyant asset amidst market turbulence.
+category: quant_concept
+description: Explore the role of Bitcoin during financial crises as it is positioned
+  as a decentralized digital asset. Understand how its appeal as a 'safe haven' stems
+  from its limited supply and independence from central institutions. Delve into debates
+  on Bitcoin's volatility and its comparison to traditional assets like gold while
+  considering the impact of algorithmic trading on its market behavior. Analyze its
+  complex performance in past financial downturns to assess its potential as a buoyant
+  asset amidst market turbulence.
+title: Bitcoin in a Time of Financial Crisis
 ---
 
 Bitcoin emerged in 2009 with the publication of a white paper titled "Bitcoin: A Peer-to-Peer Electronic Cash System" by an anonymous entity known as Satoshi Nakamoto. Initially perceived as a digital form of currency, Bitcoin has grown into a significant force in the global financial landscape. Its appeal lies in its decentralized nature, operating without the oversight of central banks or financial institutions. This decentralization provides advantages such as security, transparency, and immunity from government policies, leading to its perception as a potential store of value akin to traditional assets like gold.

@@ -1,6 +1,8 @@
 ---
-title: "Trimmed Mean: Explanation and Applications (Algo Trading)"
-description: "Explore the concept of trimmed mean and its crucial applications in algorithmic trading Discover how trimming outliers improves trading strategy precision and outcomes"
+category: quant_concept
+description: Explore the concept of trimmed mean and its crucial applications in algorithmic
+  trading Discover how trimming outliers improves trading strategy precision and outcomes
+title: 'Trimmed Mean: Explanation and Applications (Algo Trading)'
 ---
 
 Algorithmic trading has transformed the landscape of financial markets by leveraging computational power to analyze vast quantities of data and execute trades at speeds beyond human capability. Central to this process is data analysis, which underpins the development of trading algorithms that are both accurate and effective. Utilizing statistical measures to refine this data analysis is imperative to gaining an advantage in the competitive market environment.

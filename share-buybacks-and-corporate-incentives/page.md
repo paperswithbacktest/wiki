@@ -1,6 +1,8 @@
 ---
-title: "Share Buybacks and Corporate Incentives (Algo Trading)"
-description: "Discover how share buybacks and algorithmic trading influence corporate finance Learn strategies to enhance shareholder value while adapting to market changes"
+category: trading_strategy
+description: Discover how share buybacks and algorithmic trading influence corporate
+  finance Learn strategies to enhance shareholder value while adapting to market changes
+title: Share Buybacks and Corporate Incentives (Algo Trading)
 ---
 
 In today's dynamic financial markets, the strategies employed by corporations and traders are constantly evolving. Companies and investors are continually exploring new avenues to enhance shareholder value and optimize financial performance. One such strategy that has gained significant attention in recent years is share buybacks, also known as stock repurchases.

@@ -1,6 +1,11 @@
 ---
-title: "Foreign Bank Supervision Enhancement Act (Algo Trading)"
-description: "Explore the Foreign Bank Supervision Enhancement Act (FBSEA), a pivotal legislation strengthening U.S. oversight of foreign banks. This comprehensive article investigates into the FBSEA's role in safeguarding financial stability amid the rise of algorithmic trading, highlighting its significance in ensuring regulatory compliance and financial integrity in a rapidly evolving global banking landscape."
+category: quant_concept
+description: Explore the Foreign Bank Supervision Enhancement Act (FBSEA), a pivotal
+  legislation strengthening U.S. oversight of foreign banks. This comprehensive article
+  investigates into the FBSEA's role in safeguarding financial stability amid the
+  rise of algorithmic trading, highlighting its significance in ensuring regulatory
+  compliance and financial integrity in a rapidly evolving global banking landscape.
+title: Foreign Bank Supervision Enhancement Act (Algo Trading)
 ---
 
 The global banking landscape has transformed dramatically, with a growing trend of foreign banks entering the U.S. market. This expansion reflects a broader trend of globalization in banking, driven by the desire to tap into the lucrative American economic sphere. However, this influx brings with it challenges that necessitate robust regulatory oversight to safeguard the financial stability of the United States.

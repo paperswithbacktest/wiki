@@ -1,6 +1,13 @@
 ---
-title: "CUSUM tests (Algo Trading)"
-description: Explore how CUSUM tests enhance algorithmic trading by detecting subtle data shifts crucial for strategy refinement. Known for identifying changes in time series means effectively, CUSUM provides timely insights into market trends. By accumulating deviations from a mean, this technique aids traders in making informed decisions and maintaining competitiveness in dynamic markets. Learn to implement CUSUM in trading algorithms for increased precision and robust, objective signal generation amidst market volatility.
+category: quant_concept
+description: Explore how CUSUM tests enhance algorithmic trading by detecting subtle
+  data shifts crucial for strategy refinement. Known for identifying changes in time
+  series means effectively, CUSUM provides timely insights into market trends. By
+  accumulating deviations from a mean, this technique aids traders in making informed
+  decisions and maintaining competitiveness in dynamic markets. Learn to implement
+  CUSUM in trading algorithms for increased precision and robust, objective signal
+  generation amidst market volatility.
+title: CUSUM tests (Algo Trading)
 ---
 
 In the rapidly evolving world of algorithmic trading, traders and analysts continuously seek robust statistical tools to refine and enhance their strategies. As markets become increasingly complex and dynamic, identifying the subtle shifts in data becomes crucial for maintaining a competitive edge. The Cumulative Sum (CUSUM) Test has emerged as a notable technique in this domain, known for its ability to detect changes in the mean level of time series data effectively. 

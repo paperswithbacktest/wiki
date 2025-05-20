@@ -1,6 +1,8 @@
 ---
-title: "Largest Mining Companies in China (Algo Trading)"
-description: "Explore the impact of China's largest mining companies as they lead global markets and integrate algorithmic trading to optimize efficiency and sustainability."
+category: dataset
+description: Explore the impact of China's largest mining companies as they lead global
+  markets and integrate algorithmic trading to optimize efficiency and sustainability.
+title: Largest Mining Companies in China (Algo Trading)
 ---
 
 Understanding the landscape of the mining industry is crucial, especially when considering the significant players based in China. As a dominant force in the global mining sector, China is home to numerous companies leading the charge in this field. These firms have a substantial economic impact worldwide, influencing various industries and economies. For context, China's role in the global mining industry is underscored by its significant production of essential minerals such as coal, iron ore, copper, and gold. This production capability supports global supply chains and contributes to economic stability.

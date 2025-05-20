@@ -1,6 +1,9 @@
 ---
-title: "Capital Formation and Its Significance (Algo Trading)"
-description: "Explore the impact of investment capital formation and algorithmic trading in driving economic growth and market efficiency Discover their crucial interplay and benefits"
+category: quant_concept
+description: Explore the impact of investment capital formation and algorithmic trading
+  in driving economic growth and market efficiency Discover their crucial interplay
+  and benefits
+title: Capital Formation and Its Significance (Algo Trading)
 ---
 
 Investment capital formation refers to the process of generating and accumulating capital for future investment, contributing significantly to a nation’s economic productivity and growth. This process involves transforming savings into capital assets such as physical machinery, infrastructure, and technology, which in turn fuels productive activities and economic development. Investment capital is a critical factor in enhancing a country's economic capabilities, facilitating technological advancements, boosting employment, and promoting higher output levels.

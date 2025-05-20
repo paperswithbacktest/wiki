@@ -1,6 +1,8 @@
 ---
-title: "Japanese Government Bonds: Overview and Examples (Algo Trading)"
-description: "Explore Japanese Government Bonds JGBs their types and market dynamics Learn how algorithmic trading optimizes investments amidst economic shifts"
+category: quant_concept
+description: Explore Japanese Government Bonds JGBs their types and market dynamics
+  Learn how algorithmic trading optimizes investments amidst economic shifts
+title: 'Japanese Government Bonds: Overview and Examples (Algo Trading)'
 ---
 
 The landscape of financial investments is vast, and within it, bonds play a critical role. Japanese Government Bonds (JGBs), a pivotal part of Japan's financial securities market, stand out among global sovereign debt instruments. As debt securities issued by the Japanese government, JGBs serve not only as a means to finance the nation's expenditures but also as a tool in implementing monetary policy. Their significance is underscored by Japan's position as one of the world's largest economies, rendering these bonds influential in both local and international contexts.

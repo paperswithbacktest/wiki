@@ -1,6 +1,9 @@
 ---
-title: "Gross Exposure in Finance (Algo Trading)"
-description: "Discover the significance of gross exposure in finance and its role in algorithmic trading, crucial for effective risk management and optimizing trading strategies."
+category: quant_concept
+description: Discover the significance of gross exposure in finance and its role in
+  algorithmic trading, crucial for effective risk management and optimizing trading
+  strategies.
+title: Gross Exposure in Finance (Algo Trading)
 ---
 
 In the fast-paced world of financial markets, managing risk is a critical component of successful investing, particularly with the integration of algorithmic trading strategies. Financial risk refers to the potential of losing money due to various factors such as market volatility, geopolitical events, or economic downturns. Gross exposure is a key metric scrutinized by investors to comprehend their total market risk. It represents the aggregate value of both long and short positions within an investment portfolio, providing a comprehensive view of market exposure without considering any offsetting positions. 

@@ -1,6 +1,8 @@
 ---
-title: "Quote Stuffing in Financial Markets (Algo Trading)"
-description: "Explore the controversial world of quote stuffing in financial markets understand how this high-frequency trading tactic impacts market dynamics and participants."
+category: quant_concept
+description: Explore the controversial world of quote stuffing in financial markets
+  understand how this high-frequency trading tactic impacts market dynamics and participants.
+title: Quote Stuffing in Financial Markets (Algo Trading)
 ---
 
 Financial markets serve as platforms where financial instruments, such as stocks, bonds, currencies, and derivatives, are traded. These markets are crucial for the allocation of resources, price setting, providing liquidity, and reducing the cost of transactions. Trading strategies within these markets are critical as they determine how traders make decisions to buy or sell assets to generate profits or mitigate risks. Over time, these strategies have evolved from traditional approaches to more sophisticated, technology-driven models.

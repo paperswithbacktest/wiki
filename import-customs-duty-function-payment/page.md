@@ -1,6 +1,10 @@
 ---
-title: "Import Customs Duty: Function and Payment Responsibility (Algo Trading)"
-description: "Discover the roles of import duty and customs duty in global trade alongside algorithmic trading's impact on the financial markets. Learn how these elements function, their significance in international commerce, and strategic insights for businesses to navigate import regulations and modern trading strategies effectively."
+category: quant_concept
+description: Discover the roles of import duty and customs duty in global trade alongside
+  algorithmic trading's impact on the financial markets. Learn how these elements
+  function, their significance in international commerce, and strategic insights for
+  businesses to navigate import regulations and modern trading strategies effectively.
+title: 'Import Customs Duty: Function and Payment Responsibility (Algo Trading)'
 ---
 
 In an increasingly globalized world, tax-related concepts such as import duty, customs duty, and algorithmic trading (often referred to as algo trading) serve as pivotal components in the landscape of international trade and financial markets. These elements are fundamental to the infrastructure of global commerce, influencing the flow of goods across borders and the operation of financial transactions. Import duty and customs duty refer to taxes imposed on goods when they are transported across international borders. The primary purpose of these duties is to generate government revenue, protect domestic industries, and regulate international trade by balancing imports and exports.

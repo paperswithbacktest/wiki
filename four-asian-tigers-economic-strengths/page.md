@@ -1,6 +1,8 @@
 ---
-title: "Four Asian Tigers: Economic Strengths (Algo Trading)"
-description: "Discover the economic strengths of East Asia's Four Asian Tigers and how algorithmic trading plays a role in maintaining their global financial prominence."
+category: quant_concept
+description: Discover the economic strengths of East Asia's Four Asian Tigers and
+  how algorithmic trading plays a role in maintaining their global financial prominence.
+title: 'Four Asian Tigers: Economic Strengths (Algo Trading)'
 ---
 
 The term "Asian Tigers" refers to the four high-growth economies of East Asia: Hong Kong, Singapore, South Korea, and Taiwan. Since the 1960s, these nations have embarked on a path of rapid industrialization and export-driven economic growth, transforming themselves into some of the world's most dynamic and advanced economies. Each of these economies has developed unique economic strengths, making them resilient and influential players in global markets.

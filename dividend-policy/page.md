@@ -1,6 +1,8 @@
 ---
-title: "Dividend Policy (Algo Trading)"
-description: "Explore how dividend policy can enhance investment strategies and corporate finance by maximizing dividends through algorithmic trading for consistent income."
+category: quant_concept
+description: Explore how dividend policy can enhance investment strategies and corporate
+  finance by maximizing dividends through algorithmic trading for consistent income.
+title: Dividend Policy (Algo Trading)
 ---
 
 Dividend policy serves as a cornerstone in corporate finance, encapsulating a company's strategic decisions regarding the distribution of profits to shareholders. This policy is crucial as it directly influences investor satisfaction and impacts a company’s market perception and financial stability. Divergent dividend policies exist, ranging from stable and constant to residual and hybrid approaches, each reflecting different commitments to returning value to shareholders.

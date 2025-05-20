@@ -1,6 +1,9 @@
 ---
-title: "Fair Practice Rules: Definition, Prohibited Actions, and Penalties (Algo Trading)"
-description: "Explore definition and rules of fair practice in algorithmic trading. Learn about prohibited actions, their impact, and penalties for violations to maintain market integrity."
+category: quant_concept
+description: Explore definition and rules of fair practice in algorithmic trading.
+  Learn about prohibited actions, their impact, and penalties for violations to maintain
+  market integrity.
+title: 'Fair Practice Rules: Definition, Prohibited Actions, and Penalties (Algo Trading)'
 ---
 
 Algorithmic trading, often referred to as algo trading, has revolutionized the financial markets by allowing for the execution of trades at unprecedented speeds and volumes. This method relies on complex algorithms and high-powered computing to make decisions about buying and selling securities in fractions of a second. As a result, it has become a dominant force in the world of trading, capable of maximizing efficiency and enhancing liquidity.

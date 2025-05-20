@@ -1,6 +1,9 @@
 ---
-title: "Comparison of Socially Responsible Investing and Sin Stocks (Algo Trading)"
-description: "Explore the dynamic interplay between socially responsible investing and sin stocks contrasting ethical priorities with financial gains in the evolving world of investing."
+category: trading_strategy
+description: Explore the dynamic interplay between socially responsible investing
+  and sin stocks contrasting ethical priorities with financial gains in the evolving
+  world of investing.
+title: Comparison of Socially Responsible Investing and Sin Stocks (Algo Trading)
 ---
 
 Ethical investing is an increasingly vital consideration for investors aiming to construct portfolios that reflect their personal values and societal concerns. This approach goes beyond the traditional metrics of financial performance, integrating ethical, social, and environmental factors into the decision-making process. Among the various strategies of ethical investing, Socially Responsible Investing (SRI) stands out. SRI involves selecting investments based on criteria that reflect ethical management practices, sound corporate governance, and positive community impact. It seeks to balance competitive financial returns with societal benefits, creating a dual focus on financial gain and social good.

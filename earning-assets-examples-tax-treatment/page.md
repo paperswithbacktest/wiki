@@ -1,6 +1,8 @@
 ---
-title: "Earning Assets: Examples and Tax Treatment (Algo Trading)"
-description: "Explore the complexities of earning assets and their tax treatment, including algorithmic trading. Learn to optimize investment income and ensure compliance."
+category: trading_strategy
+description: Explore the complexities of earning assets and their tax treatment, including
+  algorithmic trading. Learn to optimize investment income and ensure compliance.
+title: 'Earning Assets: Examples and Tax Treatment (Algo Trading)'
 ---
 
 In today's dynamic financial landscape, understanding the nuances of earning assets, investment income, and their tax treatment is crucial for informed financial decision-making. This article explores the intersection of investment strategies, tax obligations, and algorithmic trading. By examining these components, we aim to provide a comprehensive perspective on how they interact, influencing the financial decisions of investors, institutions, and individuals. Mastery of these critical topics is essential for optimizing financial growth while maintaining compliance with regulatory frameworks.

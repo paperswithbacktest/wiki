@@ -1,6 +1,8 @@
 ---
-title: "Clearing Member Trade Agreement (Algo Trading)"
-description: "Discover how Clearing Member Trade Agreements and algo trading are revolutionizing trade efficiency by streamlining processes and reducing costs in modern markets."
+category: quant_concept
+description: Discover how Clearing Member Trade Agreements and algo trading are revolutionizing
+  trade efficiency by streamlining processes and reducing costs in modern markets.
+title: Clearing Member Trade Agreement (Algo Trading)
 ---
 
 The trading landscape has undergone transformative changes with the advent of diverse financial instruments and technological advancements. These developments have not only broadened the scope of trading activities but have also enhanced the ways in which trades are executed and settled. Among the innovations that have surfaced are the Clearing Member Trade Agreement (CMTA) and algorithmic trading, commonly referred to as algo trading. Both have become pivotal in redefining the efficiency and strategies within modern trading.

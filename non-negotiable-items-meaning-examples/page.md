@@ -1,6 +1,13 @@
 ---
-title: "Non-Negotiable Items: Meaning and Examples (Algo Trading)"
-description: "Explore the concept of non-negotiable terms in algorithmic trading, pivotal elements that provide stability and consistency in trading strategies. These immutable components, such as hardcoded rules and fixed market parameters, ensure systematic execution but may also limit adaptability in dynamic markets. Understand how integrating these terms optimizes trading strategies while managing risk in fluctuating environments. Discover examples of non-negotiable aspects and their impact on trading performance, crucial for traders aiming to enhance algorithmic operations within financial markets."
+category: quant_concept
+description: Explore the concept of non-negotiable terms in algorithmic trading, pivotal
+  elements that provide stability and consistency in trading strategies. These immutable
+  components, such as hardcoded rules and fixed market parameters, ensure systematic
+  execution but may also limit adaptability in dynamic markets. Understand how integrating
+  these terms optimizes trading strategies while managing risk in fluctuating environments.
+  Discover examples of non-negotiable aspects and their impact on trading performance,
+  crucial for traders aiming to enhance algorithmic operations within financial markets.
+title: 'Non-Negotiable Items: Meaning and Examples (Algo Trading)'
 ---
 
 Algorithmic trading, often called algo trading, is a method of executing orders through pre-defined, automated strategies using complex mathematical models and computational algorithms. These trading instructions can account for various factors such as timing, price, and volume, ensuring that trades are executed at optimal conditions without the need for continual human oversight. The use of algorithmic trading spans across various financial markets, enhancing speed, efficiency, and accuracy in trading operations.

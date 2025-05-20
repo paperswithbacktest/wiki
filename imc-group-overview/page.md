@@ -1,6 +1,8 @@
 ---
-title: "IMC Group Overview (Algo Trading)"
-description: "IMC Group leverages cutting-edge technology to optimize trading and liquidity provision positioning itself as a leader in global algorithmic trading."
+category: quant_concept
+description: IMC Group leverages cutting-edge technology to optimize trading and liquidity
+  provision positioning itself as a leader in global algorithmic trading.
+title: IMC Group Overview (Algo Trading)
 ---
 
 IMC Group has established itself as a dominant force in the global arena of algorithmic trading. The company has reshaped the traditional market-making process by leveraging cutting-edge technology to optimize trading efficiency and liquidity provision. As a trailblazer in the financial industry, IMC Group integrates advanced algorithms and data-driven strategies to redefine market dynamics.

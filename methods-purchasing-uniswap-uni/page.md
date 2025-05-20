@@ -1,6 +1,9 @@
 ---
-title: "Methods of Purchasing Uniswap (UNI) (Algo Trading)"
-description: "Explore methods of buying Uniswap (UNI) through algorithmic trading to enhance investment strategies using advanced software for optimal pricing and reduced risks."
+category: trading_strategy
+description: Explore methods of buying Uniswap (UNI) through algorithmic trading to
+  enhance investment strategies using advanced software for optimal pricing and reduced
+  risks.
+title: Methods of Purchasing Uniswap (UNI) (Algo Trading)
 ---
 
 Uniswap represents a significant transformation in the operation of decentralized exchanges, utilizing blockchain technology to enable seamless cryptocurrency transactions. As a decentralized exchange (DEX), Uniswap eliminates intermediaries, allowing users to trade directly through smart contracts on the Ethereum blockchain. This innovation provides a more autonomous and transparent method of trading digital assets, contrasting starkly with traditional centralized exchanges that require users to forfeit control over their funds.

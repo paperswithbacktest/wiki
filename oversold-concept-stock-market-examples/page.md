@@ -1,6 +1,8 @@
 ---
-title: "Oversold Concept in Stock Market with Examples (Algo Trading)"
-description: "Explore the nuances of oversold stocks and algo trading to optimize your stock market strategies. Learn about key indicators to identify undervalued opportunities."
+category: quant_concept
+description: Explore the nuances of oversold stocks and algo trading to optimize your
+  stock market strategies. Learn about key indicators to identify undervalued opportunities.
+title: Oversold Concept in Stock Market with Examples (Algo Trading)
 ---
 
 The stock market is a dynamic and complex environment where investors trade equities and other securities to achieve financial goals. It serves as a bellwether for the economy and reflects investor sentiment and macroeconomic trends. Recently, the market has experienced increased volatility due to geopolitical tensions, fluctuating interest rates, and technological advancements that reshape trading practices. Navigating this intricate landscape requires a robust understanding of market mechanics and the formulation of effective investment strategies.

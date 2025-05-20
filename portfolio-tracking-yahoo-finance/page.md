@@ -1,6 +1,8 @@
 ---
-title: "Portfolio Tracking on Yahoo Finance (Algo Trading)"
-description: "Track your portfolio efficiently with Yahoo Finance's integrated platform offering comprehensive tools for portfolio management and algorithmic trading."
+category: dataset
+description: Track your portfolio efficiently with Yahoo Finance's integrated platform
+  offering comprehensive tools for portfolio management and algorithmic trading.
+title: Portfolio Tracking on Yahoo Finance (Algo Trading)
 ---
 
 In the fast-paced world of investing, keeping a keen eye on your portfolio is crucial for mitigating risks and capitalizing on market opportunities. With a multitude of assets and volatile market conditions, investors need reliable tools to manage their portfolios effectively. Yahoo Finance stands out as a comprehensive platform that caters to these needs, providing a suite of services geared towards portfolio tracking, investment management, and algorithmic trading.

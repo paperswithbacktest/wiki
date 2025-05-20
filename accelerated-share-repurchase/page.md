@@ -1,6 +1,8 @@
 ---
-title: "Accelerated Share Repurchase (Algo Trading)"
-description: "Discover the strategy of Accelerated Share Repurchase to boost earnings per share and stock value learn its mechanics benefits and impact on investor confidence."
+category: quant_concept
+description: Discover the strategy of Accelerated Share Repurchase to boost earnings
+  per share and stock value learn its mechanics benefits and impact on investor confidence.
+title: Accelerated Share Repurchase (Algo Trading)
 ---
 
 Accelerated Share Repurchase (ASR) is a tactical financial method employed by companies to rapidly reacquire their shares from the market. This strategic maneuver primarily aims to decrease the number of outstanding shares, thereby enhancing the earnings per share (EPS), and potentially augmenting the market value of the stock. By reducing the share count, the EPS is increased according to the formula:

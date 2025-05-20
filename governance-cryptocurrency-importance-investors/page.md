@@ -1,6 +1,9 @@
 ---
-title: "Governance in Cryptocurrency: Importance for Investors (Algo Trading)"
-description: "Discover why cryptocurrency governance is crucial for investors navigating the blockchain landscape The article highlights how governance impacts market dynamics and algo trading strategies"
+category: quant_concept
+description: Discover why cryptocurrency governance is crucial for investors navigating
+  the blockchain landscape The article highlights how governance impacts market dynamics
+  and algo trading strategies
+title: 'Governance in Cryptocurrency: Importance for Investors (Algo Trading)'
 ---
 
 Cryptocurrency governance plays a pivotal role in the blockchain ecosystem, yet it often remains overlooked by many investors. As the blockchain landscape continues to grow and evolve, understanding the governance mechanisms that underpin these digital assets becomes paramount. This article seeks to shed light on the importance of governance in the cryptocurrency arena and its implications for investors and market dynamics.

@@ -1,6 +1,9 @@
 ---
-title: "Blue-Collar Trader (Algo Trading)"
-description: "Explore how blue-collar traders are reshaping financial markets using algorithmic strategies for diversification and independence in a rapidly evolving economy."
+category: trading_strategy
+description: Explore how blue-collar traders are reshaping financial markets using
+  algorithmic strategies for diversification and independence in a rapidly evolving
+  economy.
+title: Blue-Collar Trader (Algo Trading)
 ---
 
 The financial trading landscape is undergoing significant transformation as new players enter the field, challenging traditional paradigms. Among these emerging groups are blue-collar traders, individuals who engage in trading activities beyond the confines of their regular occupations. Traditionally associated with manual labor and skilled trades, blue-collar workers are stepping into the financial markets, driven by a desire for financial diversification and independence.

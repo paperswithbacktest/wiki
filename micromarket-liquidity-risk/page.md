@@ -1,6 +1,9 @@
 ---
-title: "Micromarket Liquidity Risk (Algo Trading)"
-description: "Explore the complexities of micromarket liquidity risk in algorithmic trading Learn strategies for managing liquidity challenges ensuring market stability and profitability"
+category: quant_concept
+description: Explore the complexities of micromarket liquidity risk in algorithmic
+  trading Learn strategies for managing liquidity challenges ensuring market stability
+  and profitability
+title: Micromarket Liquidity Risk (Algo Trading)
 ---
 
 Financial risk refers to the possibility of losing money on an investment or business venture. It encompasses several components, including credit risk, market risk, operational risk, and liquidity risk. Among these, liquidity risk is particularly crucial as it impacts the ability of firms to meet their short-term obligations without incurring substantial losses. Liquidity risk can be categorized into two types: asset liquidity risk, which is the risk that an asset cannot be sold without causing a significant movement in its price; and funding liquidity risk, which occurs when an entity is unable to meet its financial obligations as they come due.
@@ -230,4 +233,3 @@ In conclusion, managing liquidity risk effectively in the context of algorithmic
    This channel includes tutorials and discussions about coding algorithmic trading strategies, with special attention to liquidity considerations.
 
 By exploring these resources, individuals interested in liquidity risk management and algorithmic trading can enhance their understanding and skills, leveraging the insights and data necessary to navigate the complexities of contemporary financial markets.
-

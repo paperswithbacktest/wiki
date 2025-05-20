@@ -1,6 +1,8 @@
 ---
-title: "Comparison of EPS and Diluted EPS (Algo Trading)"
-description: "Explore the differences between EPS and Diluted EPS in algorithmic trading Discover how these financial metrics impact investment strategies and company valuation"
+category: quant_concept
+description: Explore the differences between EPS and Diluted EPS in algorithmic trading
+  Discover how these financial metrics impact investment strategies and company valuation
+title: Comparison of EPS and Diluted EPS (Algo Trading)
 ---
 
 In today's dynamic financial environment, understanding key financial metrics is crucial for investors and traders. Among these metrics, Earnings Per Share (EPS) and its diluted counterpart serve as fundamental indicators of a company's financial health.
@@ -205,4 +207,3 @@ Understanding and leveraging these financial indicators are critical in today’
 - **P/E Ratio vs. EPS vs. Earnings Yield: What's the Difference?** - An article from Investopedia that contrasts the Price-to-Earnings (P/E) Ratio, EPS, and Earnings Yield, highlighting the nuances between these financial metrics. It offers clarity on how each tool is used to assess company performance and value.
 
 - **Algorithmic Trading: Winning Strategies and Their Rationale** by Ernest P. Chan - This book explores the intersection of financial metrics and algorithmic trading, detailing how measures like Diluted EPS can be integrated into algorithmic strategies. Chan's work provides practical guidance for traders employing quantitative methods to optimize trading outcomes.
-

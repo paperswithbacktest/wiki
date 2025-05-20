@@ -1,6 +1,8 @@
 ---
-title: "Non-Controlling Interest Overview (Algo Trading)"
-description: "Explore the significance of non-controlling interest in finance with insights on its role in algorithmic trading and how it influences financial decision-making."
+category: quant_concept
+description: Explore the significance of non-controlling interest in finance with
+  insights on its role in algorithmic trading and how it influences financial decision-making.
+title: Non-Controlling Interest Overview (Algo Trading)
 ---
 
 In finance, grasping the various forms of company ownership is essential for both investors and businesses. This article focuses on non-controlling interest and minority interest, highlighting their importance in financial strategies, specifically algorithmic trading. Non-controlling interest, often referred to as minority interest, represents shareholders owning less than 50% of a company's shares, and its recognition on balance sheets can significantly influence financial decision-making and transparency.

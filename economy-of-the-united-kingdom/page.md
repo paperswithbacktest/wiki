@@ -1,6 +1,8 @@
 ---
-title: "Economy of the United Kingdom (Algo Trading)"
-description: "Explore the dynamic UK economy and its pioneering role in algorithmic trading Discover how tech advancements impact financial markets and economic resilience"
+category: quant_concept
+description: Explore the dynamic UK economy and its pioneering role in algorithmic
+  trading Discover how tech advancements impact financial markets and economic resilience
+title: Economy of the United Kingdom (Algo Trading)
 ---
 
 The United Kingdom boasts one of the world's most resilient and diverse economies, underpinned by an intricate blend of historical legacy, resourcefulness, and a robust financial services sector. Understanding the British economy is crucial, as it provides insights into global economic dynamics and trends, influencing policies and decisions on an international scale. The UK economy stands as a benchmark for economic stability and innovation, particularly within its financial markets which remain among the most developed and influential globally.

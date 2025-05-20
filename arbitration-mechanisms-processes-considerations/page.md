@@ -1,6 +1,8 @@
 ---
-title: "Arbitration: Mechanisms, Processes, and Considerations (Algo Trading)"
-description: "Explore arbitration and algorithmic trading as they converge to enhance efficiency and fairness in financial markets providing effective dispute resolution."
+category: quant_concept
+description: Explore arbitration and algorithmic trading as they converge to enhance
+  efficiency and fairness in financial markets providing effective dispute resolution.
+title: 'Arbitration: Mechanisms, Processes, and Considerations (Algo Trading)'
 ---
 
 In an interconnected financial and legal world, understanding the mechanisms for resolving disputes and optimizing trading operations is critical. This article examines the roles of legal process arbitration, dispute resolution, and algorithmic trading (algo trading). By evaluating these domains together, their intersections become evident, showcasing how they can collectively enhance efficiency and fairness in financial markets and legal frameworks.

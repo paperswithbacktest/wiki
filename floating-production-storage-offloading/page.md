@@ -1,6 +1,8 @@
 ---
-title: "Floating Production Storage and Offloading (Algo Trading)"
-description: "Discover how Floating Production Storage and Offloading systems optimize oil extraction with marine engineering and algorithmic trading for enhanced efficiency."
+category: dataset
+description: Discover how Floating Production Storage and Offloading systems optimize
+  oil extraction with marine engineering and algorithmic trading for enhanced efficiency.
+title: Floating Production Storage and Offloading (Algo Trading)
 ---
 
 Floating Production Storage and Offloading (FPSO) systems play a critical role in the oil and gas industry by enabling efficient extraction, processing, and storage of hydrocarbons from offshore sites. These floating vessels are typically located at the site of oil extraction and house the infrastructure necessary for the onboard processing and temporary storage of oil, before it is either offloaded onto a tanker or transported via pipelines to refineries. Their adaptability allows them to operate in deep-water fields far from the shore, where traditional fixed-platform rigs may be impractical or uneconomical.

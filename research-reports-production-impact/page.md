@@ -1,6 +1,8 @@
 ---
-title: "Research Reports: Production and Impact (Algo Trading)"
-description: "Explore the impact of research reports in algorithmic trading with insights into market trends and strategies enhancing accuracy and dynamic adjustments."
+category: quant_concept
+description: Explore the impact of research reports in algorithmic trading with insights
+  into market trends and strategies enhancing accuracy and dynamic adjustments.
+title: 'Research Reports: Production and Impact (Algo Trading)'
 ---
 
 Algorithmic trading has fundamentally transformed financial markets by implementing computerized processes that enable rapid, precise, and efficient trade executions. This shift has allowed traders to manage large volumes of transactions at speeds far beyond human capabilities, often executing thousands of trades in fractions of a second. At its core, algorithmic trading relies on advanced mathematical models and software to make trading decisions, minimizing human intervention and exploiting market inefficiencies.

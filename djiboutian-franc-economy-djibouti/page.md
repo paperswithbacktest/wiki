@@ -1,6 +1,8 @@
 ---
-title: "Djiboutian Franc and Economy of Djibouti (Algo Trading)"
-description: "Explore the impact of the Djiboutian Franc on Djibouti's economy and the potential of algorithmic trading to enhance market stability and growth."
+category: dataset
+description: Explore the impact of the Djiboutian Franc on Djibouti's economy and
+  the potential of algorithmic trading to enhance market stability and growth.
+title: Djiboutian Franc and Economy of Djibouti (Algo Trading)
 ---
 
 The Djiboutian Franc (DJF) serves as a fundamental pillar in Djibouti's economic landscape, functioning beyond its primary role as a medium of exchange. As the national currency, it is integral to trade, investment, and the overall financial stability within the country. The DJF's distinctive attributes, such as its pegging to the U.S. dollar, contribute to creating a stable economic environment conducive to both domestic and international commercial activities. This stability reduces the potential risks associated with currency fluctuations, thereby fostering a climate of confidence among investors and traders. 

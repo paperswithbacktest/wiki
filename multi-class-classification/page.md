@@ -1,8 +1,9 @@
 ---
-title: Comprehensive Guide to Multi-Class Classification in Machine Learning
+category: quant_concept
 description: Multi-class classification covers decision trees random forests neural
   networks and evaluation metrics precision recall to boost model performance Discover
   more inside
+title: Comprehensive Guide to Multi-Class Classification in Machine Learning
 ---
 
 ![Image](images/1.jpeg)

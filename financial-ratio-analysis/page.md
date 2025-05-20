@@ -1,6 +1,8 @@
 ---
-title: "Financial Ratio Analysis (Algo Trading)"
-description: "Explore the role of financial ratios in enhancing algo trading strategies by analyzing company performance to automate trading decisions and maximize returns."
+category: quant_concept
+description: Explore the role of financial ratios in enhancing algo trading strategies
+  by analyzing company performance to automate trading decisions and maximize returns.
+title: Financial Ratio Analysis (Algo Trading)
 ---
 
 Understanding financial ratios and their analysis is a pivotal aspect for investors, analysts, and financial managers aiming to gain a comprehensive view of a company's financial condition. Financial ratios are quantitative metrics derived from financial statements such as the balance sheet, income statement, and cash flow statement. These ratios offer insights into various aspects of a company's performance, including operational efficiency, profitability, and overall financial health.

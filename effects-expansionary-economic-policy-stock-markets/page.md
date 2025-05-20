@@ -1,6 +1,8 @@
 ---
-title: "Effects of Expansionary Economic Policy on Stock Markets (Algo Trading)"
-description: "Explore how expansionary economic policies impact stock markets through fiscal and monetary strategies aiming to boost growth, liquidity, and market performance."
+category: quant_concept
+description: Explore how expansionary economic policies impact stock markets through
+  fiscal and monetary strategies aiming to boost growth, liquidity, and market performance.
+title: Effects of Expansionary Economic Policy on Stock Markets (Algo Trading)
 ---
 
 Expansionary economic policies significantly affect the stock market by stimulating economic growth through various government mechanisms. These strategies are primarily implemented during periods of economic downturns to rejuvenate economic activities and foster increased asset valuations. By executing these policies through fiscal and monetary channels, authorities aim to enhance liquidity, reduce unemployment, and boost consumer spending, which collectively contribute to an upward trend in financial market performance.

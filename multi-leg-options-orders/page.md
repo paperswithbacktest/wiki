@@ -1,6 +1,9 @@
 ---
-title: "Multi-Leg Options Orders (Algo Trading)"
-description: "Explore the world of multi-leg options orders and algorithmic trading in derivatives to enhance market strategies optimize efficiency and reduce trading costs."
+category: quant_concept
+description: Explore the world of multi-leg options orders and algorithmic trading
+  in derivatives to enhance market strategies optimize efficiency and reduce trading
+  costs.
+title: Multi-Leg Options Orders (Algo Trading)
 ---
 
 Derivatives are potent financial instruments widely utilized for purposes such as hedging, speculation, and accessing additional assets or markets. These contracts derive their value from underlying assets like stocks, bonds, commodities, or currencies. Among the various types of derivatives, options stand out for their versatility, allowing traders to construct strategies tailored to different market conditions and preferences. With options, traders have the right, not the obligation, to buy or sell assets at predetermined prices before a specified date, offering unique opportunities to capitalize on market movements.

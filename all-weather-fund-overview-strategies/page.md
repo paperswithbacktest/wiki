@@ -1,6 +1,8 @@
 ---
-title: "All Weather Fund: Overview and Strategies (Algo Trading)"
-description: "Discover the All Weather Fund strategy, a diversified approach using algorithmic trading to achieve consistent returns across any economic condition."
+category: trading_strategy
+description: Discover the All Weather Fund strategy, a diversified approach using
+  algorithmic trading to achieve consistent returns across any economic condition.
+title: 'All Weather Fund: Overview and Strategies (Algo Trading)'
 ---
 
 In the complex world of investments, strategies that aim to perform in all economic conditions are highly sought after. The All Weather Fund is one such strategy, designed to deliver consistent returns across different market environments. This investment approach is particularly appealing to those seeking stability amidst market volatility and economic uncertainty. The core idea behind the All Weather Fund is diversification, which involves spreading investments across multiple asset classes, such as stocks, bonds, commodities, and alternative investments. This diversification aims to mitigate risk and reduce the impact of any one asset's poor performance on the overall portfolio.

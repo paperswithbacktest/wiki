@@ -1,6 +1,8 @@
 ---
-title: "Self-financing portfolio (Algo Trading)"
-description: "Discover the power of self-financing portfolios in algo trading to develop capital-efficient strategies without additional funding for optimized market performance."
+category: quant_concept
+description: Discover the power of self-financing portfolios in algo trading to develop
+  capital-efficient strategies without additional funding for optimized market performance.
+title: Self-financing portfolio (Algo Trading)
 ---
 
 Self-financing portfolios are a fundamental concept in financial mathematics and quantitative finance. These portfolios play an essential role in algorithmic trading, enabling the development of trading strategies that function without the need for additional capital. A self-financing portfolio operates on the principle that purchases of new assets are funded through the proceeds of selling existing assets. This ensures that any changes in the portfolio's holdings do not require external cash flows, making it an attractive model for traders seeking to implement efficient and sustainable trading strategies.

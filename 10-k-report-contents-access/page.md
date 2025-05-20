@@ -1,6 +1,9 @@
 ---
-title: "10-K Report: Contents and Access (Algo Trading)"
-description: "Explore the significance of the SEC 10-K report for both traditional and algorithmic trading. Unlock key insights into financial health and strategic advantage."
+category: dataset
+description: Explore the significance of the SEC 10-K report for both traditional
+  and algorithmic trading. Unlock key insights into financial health and strategic
+  advantage.
+title: '10-K Report: Contents and Access (Algo Trading)'
 ---
 
 The world of finance is continually advancing, driven by innovations in technology and the need for companies and investors to remain competitive. Central to understanding a company's financial health and performance is the SEC 10-K filing—a comprehensive, annual report required by the U.S. Securities and Exchange Commission for publicly traded companies. This report provides an in-depth overview of a company's financial landscape, offering key insights into its operations, financial condition, market risks, and strategic direction. Such detailed disclosures are indispensable tools for investors seeking to make well-informed investment decisions.
@@ -110,4 +113,3 @@ The ever-evolving nature of financial markets necessitates a proactive approach 
 [4]: Jordan, J. V., & Tobiner, A. (2010). ["Quantitative Equity Portfolio Management: Modern Techniques and Applications."](https://www.taylorfrancis.com/books/mono/10.1201/9781420010794/quantitative-equity-portfolio-management-edward-qian-eric-sorensen-ronald-hua) McGraw-Hill Education.
 
 [5]: ["Algorithmic Trading: Winning Strategies and Their Rationale"](https://books.google.com/books/about/Algorithmic_Trading.html?id=_-zc3SK2vrYC) by Ernest P. Chan
-

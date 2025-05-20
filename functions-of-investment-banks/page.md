@@ -1,6 +1,9 @@
 ---
-title: "Functions of Investment Banks (Algo Trading)"
-description: "Explore the pivotal functions of investment banks in capital markets and the impact of algorithmic trading on liquidity and cost reduction in financial services."
+category: quant_concept
+description: Explore the pivotal functions of investment banks in capital markets
+  and the impact of algorithmic trading on liquidity and cost reduction in financial
+  services.
+title: Functions of Investment Banks (Algo Trading)
 ---
 
 Financial services form the backbone of the global economy, encompassing a wide variety of activities such as banking, investing, insurance, and the management of assets and securities. These services facilitate the efficient allocation of resources, the transfer of risk, and the provision of credit, which collectively underpin economic growth and development worldwide. Within this broad category, capital markets and investment banking hold particularly significant roles.

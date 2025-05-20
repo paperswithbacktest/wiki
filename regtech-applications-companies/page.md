@@ -1,6 +1,8 @@
 ---
-title: "RegTech Applications and Key Companies (Algo Trading)"
-description: "Explore the role of RegTech in navigating the intricate regulatory landscapes of algorithmic trading using advanced compliance and risk management solutions."
+category: quant_concept
+description: Explore the role of RegTech in navigating the intricate regulatory landscapes
+  of algorithmic trading using advanced compliance and risk management solutions.
+title: RegTech Applications and Key Companies (Algo Trading)
 ---
 
 In the evolving landscape of financial technology, Regulatory Technology, commonly referred to as RegTech, offers a robust solution to the increasing regulatory challenges encountered by the financial industry. As financial markets advance and integrate sophisticated techniques such as algorithmic trading, the demand for efficient compliance mechanisms has become critical. Regulatory compliance encompasses the adherence to laws, regulations, guidelines, and specifications relevant to business operations in the financial sector. RegTech is at the forefront of addressing these needs by employing advanced technologies like machine learning and big data analytics.

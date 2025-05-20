@@ -1,6 +1,8 @@
 ---
-title: "Initial Public Offering: Process and Mechanics (Algo Trading)"
-description: "Explore the IPO process and the role of algorithmic trading in transforming stock market dynamics Learn how public companies and investors navigate these changes"
+category: quant_concept
+description: Explore the IPO process and the role of algorithmic trading in transforming
+  stock market dynamics Learn how public companies and investors navigate these changes
+title: 'Initial Public Offering: Process and Mechanics (Algo Trading)'
 ---
 
 The stock market represents a vital aspect of the global financial ecosystem, serving as a marketplace where private companies can transition into public entities through the process known as an Initial Public Offering (IPO). This transformative process allows companies to offer their shares to the public for the first time, a pivotal event that provides an avenue for raising capital, thus supporting extensive growth and expansion efforts. IPOs stand as a crucial milestone in a company's developmental trajectory, providing not only financial resources but also greater visibility and investor interest.

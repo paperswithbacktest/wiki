@@ -1,6 +1,8 @@
 ---
-title: "Economic Impact of Unemployment (Algo Trading)"
-description: "Explore the interconnected impact of unemployment and algorithmic trading on economic growth and labor markets shaping modern financial dynamics."
+category: quant_concept
+description: Explore the interconnected impact of unemployment and algorithmic trading
+  on economic growth and labor markets shaping modern financial dynamics.
+title: Economic Impact of Unemployment (Algo Trading)
 ---
 
 Unemployment is a critical economic indicator that significantly influences the global economy. It reflects the health of labor markets and has direct implications for economic growth, inflation, and societal well-being. High unemployment not only exerts pressure on governmental resources due to increased welfare spending but also diminishes consumer spending power, thereby stymying economic growth. In contrast, full employment fosters robust economic health, supporting sustainable growth and development.

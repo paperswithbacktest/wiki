@@ -1,6 +1,8 @@
 ---
-title: "Futures Contracts: Types, Mechanics, and Uses in Trading (Algo Trading)"
-description: "Explore the world of futures contracts and algo trading. Discover types, mechanics, and the role of algorithmic methods in trading for optimal strategies."
+category: quant_concept
+description: Explore the world of futures contracts and algo trading. Discover types,
+  mechanics, and the role of algorithmic methods in trading for optimal strategies.
+title: 'Futures Contracts: Types, Mechanics, and Uses in Trading (Algo Trading)'
 ---
 
 In the rapidly evolving world of finance, the use of algorithmic methods for trading futures contracts has gained significant traction. Algorithmic trading, often referred to as algo trading, involves the use of computer programs to automate and execute trades at velocities and volumes that surpass human capabilities. This technology-driven approach facilitates efficiency in trading by minimizing human error and streamlining the execution process.

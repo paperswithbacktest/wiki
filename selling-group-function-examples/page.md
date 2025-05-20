@@ -1,6 +1,8 @@
 ---
-title: "Selling Group: Function and Examples (Algo Trading)"
-description: "Explore the role of algorithmic trading within selling groups in financial markets. Discover how technology enhances efficiency, pricing, and distribution."
+category: quant_concept
+description: Explore the role of algorithmic trading within selling groups in financial
+  markets. Discover how technology enhances efficiency, pricing, and distribution.
+title: 'Selling Group: Function and Examples (Algo Trading)'
 ---
 
 The financial landscape is continually evolving, with technological advancements transforming traditional processes across various sectors. One significant development in this context is the integration of algorithmic trading within financial markets, underwriting, and the dynamics of selling groups. The seamless fusion of these elements has brought about considerable changes in how financial transactions are conducted and managed.
@@ -160,4 +162,3 @@ The future of finance is poised to be integrated further, where continuous innov
 - **Bäumlrich, A. D.**: In "Innovations in Insurance, Risk- and Asset Management," Bäumlrich explores cutting-edge developments in managing financial and insurance risks. These innovations are relevant for both underwriting and selling groups seeking to navigate complex market dynamics through enhanced algorithmic trading and data-driven decision-making.
 
 These references are pivotal for anyone interested in the intersection of algorithmic trading, underwriting, and modern financial market structures. They provide foundational knowledge and advanced insights necessary to understand and leverage the evolving financial technologies.
-

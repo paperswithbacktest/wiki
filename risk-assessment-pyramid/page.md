@@ -1,6 +1,9 @@
 ---
-title: "Risk Assessment and Pyramid (Algo Trading)"
-description: "Explore the importance of risk assessment in algo trading using the risk pyramid to balance investments, ensuring effective risk management and optimizing strategies."
+category: trading_strategy
+description: Explore the importance of risk assessment in algo trading using the risk
+  pyramid to balance investments, ensuring effective risk management and optimizing
+  strategies.
+title: Risk Assessment and Pyramid (Algo Trading)
 ---
 
 Risk assessment and risk management are integral to trading, with a heightened significance in algorithmic trading. In this form of trading, the ability to make rapid decisions without human intervention demands a robust framework to manage associated risks effectively. Algorithmic trading, often abbreviated as 'algo trading', utilizes computer programs to execute trades at speeds and frequencies beyond human capability. Here, having a well-structured approach to risk is imperative.

@@ -1,6 +1,8 @@
 ---
-title: "Mutual Funds Investment in Options and Futures (Algo Trading)"
-description: "Explore mutual funds, futures, options, and algo trading as pivotal tools for strategic investment diversification and maximizing portfolio returns."
+category: quant_concept
+description: Explore mutual funds, futures, options, and algo trading as pivotal tools
+  for strategic investment diversification and maximizing portfolio returns.
+title: Mutual Funds Investment in Options and Futures (Algo Trading)
 ---
 
 The modern financial market offers a wide array of instruments designed to accommodate diverse investment strategies. Among these, futures, mutual funds, options, and algorithmic trading stand out for their distinct roles and potential benefits. Understanding these instruments is essential for investors seeking to diversify their portfolios and enhance returns.

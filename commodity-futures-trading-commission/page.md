@@ -1,6 +1,8 @@
 ---
-title: "Commodity Futures Trading Commission (Algo Trading)"
-description: "Explore how the Commodity Futures Trading Commission regulates the impact of algorithmic trading in the derivatives market to ensure integrity and efficiency."
+category: quant_concept
+description: Explore how the Commodity Futures Trading Commission regulates the impact
+  of algorithmic trading in the derivatives market to ensure integrity and efficiency.
+title: Commodity Futures Trading Commission (Algo Trading)
 ---
 
 The Commodity Futures Trading Commission (CFTC) is an independent agency of the U.S. government, established to regulate and maintain the integrity of the country's derivatives markets. These markets, which include futures contracts and swaps, play a critical role in the U.S. and global economy by allowing participants to hedge risks, discover prices, and allocate resources efficiently.

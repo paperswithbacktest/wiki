@@ -1,6 +1,8 @@
 ---
-title: "Key Insights into Discount Brokers (Algo Trading)"
-description: "Explore the role of discount brokers in modern finance and their integration with algorithmic trading Learn how they provide cost-effective solutions for investors"
+category: quant_concept
+description: Explore the role of discount brokers in modern finance and their integration
+  with algorithmic trading Learn how they provide cost-effective solutions for investors
+title: Key Insights into Discount Brokers (Algo Trading)
 ---
 
 The landscape of financial services has transformed remarkably with the rise of technology, leading to the proliferation of discount brokers, financial services, and algorithmic trading. These components have become integral parts of the contemporary investment world, altering how investors engage with financial markets. This article intends to examine the pivotal role discount brokers play in the current financial environment, their interaction with algorithmic trading, and how they deliver cost-effective solutions to a broad array of investors. 

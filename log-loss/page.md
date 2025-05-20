@@ -1,7 +1,8 @@
 ---
-title: Understanding Log Loss in Machine Learning Classification
+category: quant_concept
 description: Log Loss measures model confidence by penalizing incorrect probability
   estimates to drive more accurate classification outcomes Discover more inside
+title: Understanding Log Loss in Machine Learning Classification
 ---
 
 ![Image](images/1.png)

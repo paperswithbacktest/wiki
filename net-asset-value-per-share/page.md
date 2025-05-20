@@ -1,6 +1,12 @@
 ---
-title: "Net Asset Value Per Share (Algo Trading)"
-description: "Explore the intersection of technology and finance through Net Asset Value Per Share (NAVPS) and algorithmic trading. Learn how NAVPS calculates the value of mutual funds, ETFs, and closed-end funds, while algorithmic trading uses automated processes for efficient trade execution. This page offers insights into investment strategies, emphasizing the importance of these tools in making informed financial decisions in an evolving market landscape."
+category: quant_concept
+description: Explore the intersection of technology and finance through Net Asset
+  Value Per Share (NAVPS) and algorithmic trading. Learn how NAVPS calculates the
+  value of mutual funds, ETFs, and closed-end funds, while algorithmic trading uses
+  automated processes for efficient trade execution. This page offers insights into
+  investment strategies, emphasizing the importance of these tools in making informed
+  financial decisions in an evolving market landscape.
+title: Net Asset Value Per Share (Algo Trading)
 ---
 
 Investment finance has experienced profound transformations with the integration of technological advancements, revolutionizing traditional methodologies and enabling new practices. One key area where technology has made a significant impact is the calculation of Net Asset Value Per Share (NAVPS) and the execution of trades through algorithmic trading.

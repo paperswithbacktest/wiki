@@ -1,6 +1,8 @@
 ---
-title: "Differences Between ESG, SRI, and Impact Funds (Algo Trading)"
-description: "Discover the distinctions between ESG, SRI, and impact funds in algorithmic trading Explore investment strategies prioritizing ethical and sustainable practices"
+category: trading_strategy
+description: Discover the distinctions between ESG, SRI, and impact funds in algorithmic
+  trading Explore investment strategies prioritizing ethical and sustainable practices
+title: Differences Between ESG, SRI, and Impact Funds (Algo Trading)
 ---
 
 The investment landscape has significantly transformed, emphasizing not only financial returns but also the generation of positive social and environmental impacts. This evolution marks a shift towards investment strategies that incorporate ethical and sustainable considerations. At the forefront of this change are Socially Responsible Investments (SRI), Environmental, Social, and Governance (ESG) funds, and impact investing—all of which prioritize ethical standards within their investment frameworks.

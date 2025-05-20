@@ -1,6 +1,13 @@
 ---
-title: "CoinMarketCap API Guide (Algo Trading)"
-description: Discover essential insights on leveraging the Coin Market Cap API for algorithmic trading in the cryptocurrency landscape. The guide explores how traders and developers can integrate real-time and historical market data into trading strategies, enhancing decision-making speed and accuracy. Learn about the API’s features, including its RESTful architecture, support for multiple programming languages, and detailed documentation, which collectively enable effective automation and strategic optimization in this fast-paced market.
+category: dataset
+description: Discover essential insights on leveraging the Coin Market Cap API for
+  algorithmic trading in the cryptocurrency landscape. The guide explores how traders
+  and developers can integrate real-time and historical market data into trading strategies,
+  enhancing decision-making speed and accuracy. Learn about the API’s features, including
+  its RESTful architecture, support for multiple programming languages, and detailed
+  documentation, which collectively enable effective automation and strategic optimization
+  in this fast-paced market.
+title: CoinMarketCap API Guide (Algo Trading)
 ---
 
 In recent years, the cryptocurrency market has experienced rapid evolution, captivating the attention of traders and investors across the globe. This burgeoning interest has highlighted the need for sophisticated trading strategies capable of navigating the volatile and fast-paced nature of digital currencies. At the forefront of these strategies is algorithmic trading, commonly known as algo trading. This approach leverages computers to execute trades based on pre-defined criteria, allowing for quicker response times and minimizing the emotional bias often present in manual trading.

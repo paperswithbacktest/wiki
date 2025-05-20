@@ -1,6 +1,14 @@
 ---
-title: "Coinbase API Guide (Algo Trading)"
-description: Discover how to enhance your algorithmic trading strategies with this comprehensive guide on the Coinbase API. Explore key features and functionalities that enable seamless integration with automated systems for real-time market data, historical pricing, and account management. Learn how to use this powerful tool to optimize trades, reduce errors, and capitalize on market opportunities in the evolving cryptocurrency landscape. Whether you're a seasoned trader or a tech enthusiast, mastering the Coinbase API can empower your trading operations and increase profitability through data-driven decision-making.
+category: dataset
+description: Discover how to enhance your algorithmic trading strategies with this
+  comprehensive guide on the Coinbase API. Explore key features and functionalities
+  that enable seamless integration with automated systems for real-time market data,
+  historical pricing, and account management. Learn how to use this powerful tool
+  to optimize trades, reduce errors, and capitalize on market opportunities in the
+  evolving cryptocurrency landscape. Whether you're a seasoned trader or a tech enthusiast,
+  mastering the Coinbase API can empower your trading operations and increase profitability
+  through data-driven decision-making.
+title: Coinbase API Guide (Algo Trading)
 ---
 
 In the fast-paced world of algorithmic trading, access to reliable and comprehensive data is crucial for optimizing trading performance and increasing profitability. The Coinbase API has emerged as a valuable tool for traders who aim to integrate cryptocurrency trading into their automated systems. This programmable interface allows developers to interact with the Coinbase platform for real-time market data access, historical pricing information, and account management features. As the cryptocurrency market continues to expand and evolve, the ability to harness detailed data through the Coinbase API can provide a significant edge.

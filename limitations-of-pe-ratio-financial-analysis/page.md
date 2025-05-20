@@ -1,6 +1,8 @@
 ---
-title: "Limitations of the P/E Ratio in Financial Analysis (Algo Trading)"
-description: "Explore the limitations of the Price-to-Earnings ratio in financial analysis and how it affects algorithmic trading strategies to enhance investment decisions."
+category: quant_concept
+description: Explore the limitations of the Price-to-Earnings ratio in financial analysis
+  and how it affects algorithmic trading strategies to enhance investment decisions.
+title: Limitations of the P/E Ratio in Financial Analysis (Algo Trading)
 ---
 
 Investing in the stock market requires a strong grasp of various financial metrics and tools, among which the Price-to-Earnings (P/E) ratio stands out as a fundamental indicator. This ratio is pivotal for gauging the valuation and predicting the future profitability of a company. The P/E ratio is calculated by dividing a company's current share price by its earnings per share (EPS), with its formula expressed as:
@@ -161,4 +163,3 @@ Damodaran, A. (2012). *Investment Valuation*. Aswath Damodaran's text is a compr
 Lopez de Prado, M. (2018). *Advances in Financial Machine Learning*. This book explores the application of machine learning techniques to financial markets. It provides insights into how modern algorithms can be developed for trading strategies, highlighting the potential of integrating machine learning methods with traditional financial metrics like the P/E ratio to enhance prediction accuracy and investment performance.
 
 These references collectively offer a robust foundation for understanding financial analysis, valuation, and the integration of modern computational techniques into investment strategies, serving both traditional and algorithmic traders.
-

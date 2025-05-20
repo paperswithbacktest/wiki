@@ -1,6 +1,8 @@
 ---
-title: "Constructing an All-ETF Investment Portfolio (Algo Trading)"
-description: "Learn how to build an all-ETF investment portfolio using algorithmic trading to enhance returns through diversification and efficient market strategies."
+category: trading_strategy
+description: Learn how to build an all-ETF investment portfolio using algorithmic
+  trading to enhance returns through diversification and efficient market strategies.
+title: Constructing an All-ETF Investment Portfolio (Algo Trading)
 ---
 
 Exchange-Traded Funds (ETFs) have emerged as a cornerstone in modern investment strategies, appealing increasingly to both individual investors and institutional finance entities. At their core, ETFs are investment funds that are traded on stock exchanges, akin to stocks. This unique feature distinguishes them from mutual funds, which, unlike ETFs, are priced only once at the end of the trading day. Since their inception in the early 1990s, ETFs have surged in popularity due to their ability to offer diversification, liquidity, and cost-effectiveness, making them a favored choice for a wide range of investors [1]. 

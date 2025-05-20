@@ -1,6 +1,9 @@
 ---
-title: "Narrow Basis in Finance (Algo Trading)"
-description: "Explore the dynamics of narrow basis and algorithmic trading in finance Understand how these strategies offer efficient trading opportunities and a competitive edge"
+category: trading_strategy
+description: Explore the dynamics of narrow basis and algorithmic trading in finance
+  Understand how these strategies offer efficient trading opportunities and a competitive
+  edge
+title: Narrow Basis in Finance (Algo Trading)
 ---
 
 The world of finance is continuously evolving with new methods to trade and invest. Among these emerging strategies, narrow basis trading and algorithmic trading (algo trading) have proven to be particularly impactful. Narrow basis trading focuses on the small difference between the cash price and futures price of commodities, often indicating highly liquid and stable markets. This approach potentially offers traders opportunities for arbitrage, allowing them to benefit from price convergence.

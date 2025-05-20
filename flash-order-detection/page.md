@@ -1,6 +1,9 @@
 ---
-title: "Flash Order Detection (Algo Trading)"
-description: "Explore the intricacies of flash order detection in algorithmic trading, uncovering its critical role, mechanisms, and impact on trading strategies and market dynamics."
+category: quant_concept
+description: Explore the intricacies of flash order detection in algorithmic trading,
+  uncovering its critical role, mechanisms, and impact on trading strategies and market
+  dynamics.
+title: Flash Order Detection (Algo Trading)
 ---
 
 In the fast-evolving landscape of algorithmic trading, flash order detection represents a critical component that can significantly influence trading outcomes. Flash orders, characterized by their brief exposure and rapid execution, provide a fleeting opportunity for traders to gain insights into market intents, influencing the direction, size, and timing of trades. As algorithmic trading systems become increasingly sophisticated, understanding the intricacies of flash order detection becomes essential for traders and institutions aiming to protect their investments and refine their trading strategies.

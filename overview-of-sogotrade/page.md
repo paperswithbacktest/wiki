@@ -1,6 +1,8 @@
 ---
-title: "Overview of SogoTrade (Algo Trading)"
-description: "Discover SogoTrade's online brokerage services, offering competitive pricing, robust support, and advanced algo trading tools for diverse investor needs."
+category: quant_concept
+description: Discover SogoTrade's online brokerage services, offering competitive
+  pricing, robust support, and advanced algo trading tools for diverse investor needs.
+title: Overview of SogoTrade (Algo Trading)
 ---
 
 The online brokerage landscape has undergone significant transformations in recent years, driven largely by advancements in technology and the increasing demand for user-friendly and accessible trading platforms. As financial markets continue to globalize and evolve, the role of online brokerages has become pivotal in providing individual investors with direct access to stocks, options, and other financial instruments. These platforms have democratized trading by lowering barriers to entry and offering sophisticated tools that were once available only to institutional investors. Within this dynamic environment, trading platforms such as SogoTrade have emerged as key players, offering a wide array of services designed to cater to both novice and experienced investors.

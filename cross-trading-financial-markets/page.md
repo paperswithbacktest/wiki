@@ -1,6 +1,9 @@
 ---
-title: "Cross Trading in Financial Markets (Algo Trading)"
-description: "Explore the complexities and efficiencies of cross trading in financial markets without centralized exchanges focusing on benefits, risks, and regulatory aspects."
+category: quant_concept
+description: Explore the complexities and efficiencies of cross trading in financial
+  markets without centralized exchanges focusing on benefits, risks, and regulatory
+  aspects.
+title: Cross Trading in Financial Markets (Algo Trading)
 ---
 
 Cross trading is an intricate practice within financial markets, characterized by the execution of trades between clients of the same asset manager without utilizing a centralized exchange. This method is primarily employed to enhance trading efficiency and reduce transaction costs. Unlike traditional exchanges, where trades might incur significant fees and market impact, cross trading offers a pathway to optimize transactions, particularly for institutional investors handling large portfolios. By not exposing trades to public exchanges, participants can maintain discretion and privacy, thus potentially avoiding adverse market movements arising from large trade disclosures.

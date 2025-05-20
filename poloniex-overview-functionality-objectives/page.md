@@ -1,6 +1,8 @@
 ---
-title: "Poloniex: Overview, Functionality, and Objectives (Algo Trading)"
-description: "Explore Poloniex's role in cryptocurrency trading, focusing on its algorithmic trading support and vast crypto offerings, enhancing speed and efficiency in trading."
+category: quant_concept
+description: Explore Poloniex's role in cryptocurrency trading, focusing on its algorithmic
+  trading support and vast crypto offerings, enhancing speed and efficiency in trading.
+title: 'Poloniex: Overview, Functionality, and Objectives (Algo Trading)'
 ---
 
 Cryptocurrency exchanges have seen a rapid increase in popularity over the past decade, transforming from niche platforms to crucial components of the global financial ecosystem. As digital currencies continue to reshape the financial landscape, exchanges like Poloniex have emerged as prominent venues for trading a wide array of cryptocurrencies. Established in 2014, Poloniex has positioned itself as a leading cryptocurrency exchange platform, offering users a vast selection of trading pairs, robust security measures, and an efficient trading environment.

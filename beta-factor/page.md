@@ -1,6 +1,12 @@
 ---
-title: "Beta Factor (Algo Trading)"
-description: Discover the significance and application of Beta, a key risk measurement in algo trading. Learn how Beta is calculated, its limitations, and its role in assessing asset risk and portfolio performance. Explore popular strategies like "Betting against beta" and their underlying explanations. Maximize returns with a comprehensive understanding of Beta and other metrics. Dive deeper into trading strategies, libraries, datasets, and resources for quantitative trading.
+category: quant_concept
+description: Discover the significance and application of Beta, a key risk measurement
+  in algo trading. Learn how Beta is calculated, its limitations, and its role in
+  assessing asset risk and portfolio performance. Explore popular strategies like
+  "Betting against beta" and their underlying explanations. Maximize returns with
+  a comprehensive understanding of Beta and other metrics. Dive deeper into trading
+  strategies, libraries, datasets, and resources for quantitative trading.
+title: Beta Factor (Algo Trading)
 ---
 
 Understanding the dynamics of the stock market is crucial for successful algorithmic trading. In this context, the beta factor emerges as a fundamental measure, offering insights into a stock's volatility in relation to broader market movements. By quantifying how a particular stock's price changes in response to market fluctuations, beta provides traders with a metric to assess systemic risk, which is crucial for making informed trading decisions.

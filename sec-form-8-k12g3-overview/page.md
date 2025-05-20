@@ -1,6 +1,9 @@
 ---
-title: "SEC Form 8-K12G3 Overview (Algo Trading)"
-description: "Explore the significance of SEC Form 8-K12G3 in notifying new security issuers post-merger and its crucial role in algorithmic trading strategies and market transparency."
+category: quant_concept
+description: Explore the significance of SEC Form 8-K12G3 in notifying new security
+  issuers post-merger and its crucial role in algorithmic trading strategies and market
+  transparency.
+title: SEC Form 8-K12G3 Overview (Algo Trading)
 ---
 
 In the financial world, transparency and timely information are crucial for investors and stakeholders. The SEC Form 8-K12G3 plays a significant role in this process by acting as a notification mechanism for new issuers of registered securities following mergers or acquisitions. This article aims to explore the significance of SEC Form 8-K12G3, its importance, filing implications, and its effects on stakeholders. 

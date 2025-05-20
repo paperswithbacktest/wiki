@@ -1,6 +1,8 @@
 ---
-title: "Sovereign Credit Rating and Agencies (Algo Trading)"
-description: "Explore how sovereign credit ratings impact global finance by shaping perceptions of sovereign debt and influencing algorithmic trading strategies."
+category: quant_concept
+description: Explore how sovereign credit ratings impact global finance by shaping
+  perceptions of sovereign debt and influencing algorithmic trading strategies.
+title: Sovereign Credit Rating and Agencies (Algo Trading)
 ---
 
 The global financial system intricately depends on sovereign credit ratings for shaping the perception of sovereign debt. These ratings, determined by independent agencies, offer a critical assessment of a country’s fiscal health and its ability to meet financial obligations. As such, they play a substantial role in influencing investor confidence and decision-making on international scales. By providing an estimate of a country's creditworthiness, sovereign credit ratings become pivotal in guiding investment flows and managing risks associated with cross-border financing.

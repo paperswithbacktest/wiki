@@ -1,6 +1,8 @@
 ---
-title: "Automatic Execution (Algo Trading)"
-description: "Discover the impact of automated execution and algo trading in modern finance offering rapid and efficient trade execution in equities forex and cryptocurrencies."
+category: trading_strategy
+description: Discover the impact of automated execution and algo trading in modern
+  finance offering rapid and efficient trade execution in equities forex and cryptocurrencies.
+title: Automatic Execution (Algo Trading)
 ---
 
 Automated execution and algorithmic trading, often referred to as algo trading, have profoundly transformed financial markets by enabling more rapid and efficient trade execution. These technological advancements have allowed for the execution of complex trading strategies that far surpass human speed and capacity, thereby increasing market efficiency and liquidity.

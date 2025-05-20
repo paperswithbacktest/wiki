@@ -1,6 +1,9 @@
 ---
-title: "Cliquet Options (Algo Trading)"
-description: "Explore the world of finance with our guide on investment options and algorithmic trading Learn how tech is revolutionizing trading with precision and speed"
+category: quant_concept
+description: Explore the world of finance with our guide on investment options and
+  algorithmic trading Learn how tech is revolutionizing trading with precision and
+  speed
+title: Cliquet Options (Algo Trading)
 ---
 
 Welcome to the comprehensive guide on investment options focusing on finances and algorithmic trading. In today's fast-paced financial markets, leveraging technology in investment strategies has become a game-changer for many investors. Algorithmic trading, also known as algo trading, utilizes computer programs that follow a defined set of instructions to place trades systematically. This approach harnesses the power of complex mathematical models and algorithms, enabling traders to execute orders with precision and speed that far surpass traditional manual trading methods.

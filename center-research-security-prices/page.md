@@ -1,6 +1,9 @@
 ---
-title: "Center for Research in Security Prices (Algo Trading)"
-description: "Explore how the Center for Research in Security Prices (CRSP) transforms financial markets with reliable historical data essential for algo trading and investment analysis."
+category: dataset
+description: Explore how the Center for Research in Security Prices (CRSP) transforms
+  financial markets with reliable historical data essential for algo trading and investment
+  analysis.
+title: Center for Research in Security Prices (Algo Trading)
 ---
 
 The landscape of financial markets has witnessed a profound transformation with the integration of technology and data-driven methodologies. Central to this evolution is the Center for Research in Security Prices (CRSP), a leading provider of comprehensive datasets essential for financial research, market analysis, and the burgeoning field of algorithmic trading. Since its inception, CRSP has been pivotal in supplying historical and timely data, which has, in turn, facilitated the development of sophisticated strategies in both academic and commercial spheres.

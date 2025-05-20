@@ -1,6 +1,9 @@
 ---
-title: "Linder Hypothesis: Concept and Application (Algo Trading)"
-description: "Explore the Linder Hypothesis and its applications in international trade theory and algorithmic trading Discover how economic models and technology shape global markets."
+category: quant_concept
+description: Explore the Linder Hypothesis and its applications in international trade
+  theory and algorithmic trading Discover how economic models and technology shape
+  global markets.
+title: 'Linder Hypothesis: Concept and Application (Algo Trading)'
 ---
 
 The intersection of economic models and modern technologies presents a rich field of exploration, particularly when examining the Linder Hypothesis, International Trade Theory, and algorithmic trading. These concepts offer valuable perspectives on how countries participate in the global trade system and how technological advancements are reshaping financial markets.

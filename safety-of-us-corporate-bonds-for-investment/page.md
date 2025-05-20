@@ -1,6 +1,8 @@
 ---
-title: "Safety of U.S. Corporate Bonds for Investment (Algo Trading)"
-description: "Explore the safety of U.S. corporate bonds as investment options understanding their risks and benefits especially with the evolving role of algorithmic trading."
+category: quant_concept
+description: Explore the safety of U.S. corporate bonds as investment options understanding
+  their risks and benefits especially with the evolving role of algorithmic trading.
+title: Safety of U.S. Corporate Bonds for Investment (Algo Trading)
 ---
 
 The U.S. bond market represents a crucial component of the financial system, serving as a foundation for capital formation and providing diverse investment opportunities. Within this market, corporate bonds occupy a significant position, often regarded as a safer investment avenue compared to equities. This perception is largely attributed to the performance of corporate bonds and the robust regulatory environment governing them in the United States. Corporate bonds are debt securities issued by companies to raise capital, offering fixed or variable interest payments to investors. The interest rates typically exceed those of government bonds, reflecting the additional credit risk investors assume.

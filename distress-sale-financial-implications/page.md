@@ -1,6 +1,9 @@
 ---
-title: "Distress Sale and Its Financial Implications (Algo Trading)"
-description: "Explore the intersection of distress sales and algorithmic trading and their effects on market behavior asset pricing and financial stability in this comprehensive analysis."
+category: quant_concept
+description: Explore the intersection of distress sales and algorithmic trading and
+  their effects on market behavior asset pricing and financial stability in this comprehensive
+  analysis.
+title: Distress Sale and Its Financial Implications (Algo Trading)
 ---
 
 The landscape of global finance has undergone transformative changes due to the convergence of economic challenges and technological advancements. A key development in this evolution is the adoption of algorithmic trading. This approach utilizes complex algorithms and high-frequency data to execute trades at unprecedented speeds, enabling rapid responses to market changes. Such efficiency has made algorithmic trading a cornerstone of modern financial markets.

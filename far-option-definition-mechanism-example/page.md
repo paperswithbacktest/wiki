@@ -1,6 +1,9 @@
 ---
-title: "Far Option: Definition, Mechanism, and Example (Algo Trading)"
-description: "Explore the integration of far options in algorithmic trading to enhance strategy flexibility and optimize returns through calendar spreads and automated systems."
+category: quant_concept
+description: Explore the integration of far options in algorithmic trading to enhance
+  strategy flexibility and optimize returns through calendar spreads and automated
+  systems.
+title: 'Far Option: Definition, Mechanism, and Example (Algo Trading)'
 ---
 
 In modern finance, algorithmic trading and options stand out as influential tools, significantly enhancing investment strategies. Options are financial derivatives that provide holders the right, but not the obligation, to buy or sell an underlying asset at a predetermined price and date. This flexibility allows traders and investors the opportunity to hedge against risks or speculate on market movements without the obligation to fulfill the contract if the market conditions are unfavorable.

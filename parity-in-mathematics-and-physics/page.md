@@ -1,6 +1,10 @@
 ---
-title: "Parity in Mathematics and Physics (Algo Trading)"
-description: "Explore the dynamic intersection of mathematics, physics, and technology in algorithmic trading. This innovative approach leverages advanced scientific principles to enhance trading strategies and model complex market systems, offering unprecedented opportunities for traders in modern financial markets."
+category: quant_concept
+description: Explore the dynamic intersection of mathematics, physics, and technology
+  in algorithmic trading. This innovative approach leverages advanced scientific principles
+  to enhance trading strategies and model complex market systems, offering unprecedented
+  opportunities for traders in modern financial markets.
+title: Parity in Mathematics and Physics (Algo Trading)
 ---
 
 In today's rapidly evolving financial markets, the innovative integration of physics, mathematics, and technology has led to the development of algorithmic trading. This approach utilizes advanced scientific principles to enhance trading strategies and improve market performance. Algorithmic trading, often abbreviated as algo trading, involves the use of computer algorithms to execute trades at speeds and frequencies impossible for human traders, making it an indispensable tool in modern finance.

@@ -1,7 +1,8 @@
 ---
-title: Advanced Object Detection with Anchor Supervision and FreeAnchor
+category: quant_concept
 description: Anchor Supervision uses reliable samples while FreeAnchor automates anchor
   selection to enhance object detection efficiency Discover more inside
+title: Advanced Object Detection with Anchor Supervision and FreeAnchor
 ---
 
 ![Image](images/1.png)

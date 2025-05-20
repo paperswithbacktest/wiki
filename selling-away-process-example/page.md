@@ -1,6 +1,8 @@
 ---
-title: "Selling Away: Process and Example (Algo Trading)"
-description: "Explore the dynamics of selling away in algo trading amidst evolving financial guidelines Understand investment advising and the role of financial regulations"
+category: trading_strategy
+description: Explore the dynamics of selling away in algo trading amidst evolving
+  financial guidelines Understand investment advising and the role of financial regulations
+title: 'Selling Away: Process and Example (Algo Trading)'
 ---
 
 In the ever-evolving world of finance, investment advising, financial regulations, and trading strategies are constantly evolving. The landscape is significantly shaped by the rise of algorithmic trading (algo trading), wherein investment advisors and regulatory bodies strive to keep pace with rapidly advancing technologies. This development necessitates an understanding of complex financial concepts and the formulation of strategies to effectively harness these changes.

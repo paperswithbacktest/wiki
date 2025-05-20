@@ -1,6 +1,8 @@
 ---
-title: "Options Strike Prices: Mechanics and Examples (Algo Trading)"
-description: "Explore the mechanics and examples of options strike prices, their role in options trading, and the influence of algorithmic trading on optimizing strategies."
+category: quant_concept
+description: Explore the mechanics and examples of options strike prices, their role
+  in options trading, and the influence of algorithmic trading on optimizing strategies.
+title: 'Options Strike Prices: Mechanics and Examples (Algo Trading)'
 ---
 
 The financial market is a dynamic environment characterized by an intricate interplay of diverse assets and instruments that significantly influence investment decisions and trading strategies. Within this ecosystem, options and derivatives stand out as pivotal financial instruments. They offer traders the flexibility to design tailored strategies and hedging opportunities that align with their investment goals and risk appetites.

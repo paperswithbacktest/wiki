@@ -1,6 +1,8 @@
 ---
-title: "Order Imbalance: Causes and Trading Strategies (Algo Trading)"
-description: "Explore causes of order imbalance and effective trading strategies in algorithmic trading. Enhance your market understanding to optimize trading decisions."
+category: trading_strategy
+description: Explore causes of order imbalance and effective trading strategies in
+  algorithmic trading. Enhance your market understanding to optimize trading decisions.
+title: 'Order Imbalance: Causes and Trading Strategies (Algo Trading)'
 ---
 
 Market orders are fundamental components in the landscape of trading, representing instructions to buy or sell a financial instrument immediately at the best current price. Unlike limit orders, which specify a price threshold, market orders prioritize the speed of execution over price, making them pivotal in fast-moving markets. This immediacy facilitates liquidity provision, as market orders help bridge the gap between buyers and sellers by executing transactions instantaneously. Traders often opt for market orders when the imperative is to enter or exit the market without delay, even though they might face potential slippage – the difference between the expected price and the executed price.

@@ -1,6 +1,8 @@
 ---
-title: "Global Recessions: Overview and History (Algo Trading)"
-description: "Explore the history and impact of global recessions along with the role of algorithmic trading in financial markets and its influence on market dynamics."
+category: quant_concept
+description: Explore the history and impact of global recessions along with the role
+  of algorithmic trading in financial markets and its influence on market dynamics.
+title: 'Global Recessions: Overview and History (Algo Trading)'
 ---
 
 In an interconnected global economy, periods of economic downturn can have widespread and significant impacts. A global recession is defined as a synchronized decline in economic activity across multiple countries, characterized by significant reductions in global trade and investment, as well as increased unemployment rates. This phenomenon is of particular concern because of the interconnected nature of modern economies, where financial and economic disturbances in one region can quickly spread to others, amplifying the effects of the downturn.

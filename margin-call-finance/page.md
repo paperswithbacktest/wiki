@@ -1,6 +1,12 @@
 ---
-title: "Margin Call in Finance (Algo Trading)"
-description: "Explore the vital roles of margin calls and algorithmic trading in modern financial markets. This article investigates into how these elements impact trading strategies by enhancing decision-making and risk management. Discover how margin calls safeguard broker interests in leveraged trading while algorithmic trading optimizes trade execution and efficiency. Understanding these concepts empowers traders to navigate complex market dynamics and refine their trading outcomes."
+category: quant_concept
+description: Explore the vital roles of margin calls and algorithmic trading in modern
+  financial markets. This article investigates into how these elements impact trading
+  strategies by enhancing decision-making and risk management. Discover how margin
+  calls safeguard broker interests in leveraged trading while algorithmic trading
+  optimizes trade execution and efficiency. Understanding these concepts empowers
+  traders to navigate complex market dynamics and refine their trading outcomes.
+title: Margin Call in Finance (Algo Trading)
 ---
 
 Understanding the interconnected world of financial markets, margin calls, trading, and algorithmic trading is important for both new and experienced traders. These elements form the backbone of modern trading practices, greatly influencing how market participants make decisions, manage risks, and optimize their strategies.

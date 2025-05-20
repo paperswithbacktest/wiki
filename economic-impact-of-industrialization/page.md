@@ -1,6 +1,8 @@
 ---
-title: "Economic Impact of Industrialization (Algo Trading)"
-description: "Explore the transformative economic impact of industrialization and algorithmic trading examining their roles in enhancing efficiency productivity and market dynamics."
+category: quant_concept
+description: Explore the transformative economic impact of industrialization and algorithmic
+  trading examining their roles in enhancing efficiency productivity and market dynamics.
+title: Economic Impact of Industrialization (Algo Trading)
 ---
 
 Industrialization has been a pivotal force in shaping modern economic development, serving as the catalyst for transforming agrarian societies into industrial powerhouses. This shift led to an unprecedented increase in productivity, technological innovation, and overall economic growth. The Industrial Revolution, beginning in the 18th century, marked the onset of this transformation, bringing about advancements in manufacturing processes, transportation, and communication. These changes not only redefined industry structures but also catalyzed urbanization, altering labor markets and shifting economic power dynamics globally.

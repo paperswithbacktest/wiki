@@ -1,6 +1,8 @@
 ---
-title: "Menu Costs: Overview and Examples (Algo Trading)"
-description: "Discover how menu costs affect price adjustments and economic stability. Explore examples in algorithmic trading and their impact on market efficiency."
+category: quant_concept
+description: Discover how menu costs affect price adjustments and economic stability.
+  Explore examples in algorithmic trading and their impact on market efficiency.
+title: 'Menu Costs: Overview and Examples (Algo Trading)'
 ---
 
 Price adjustments are an integral component of both microeconomic and macroeconomic frameworks, influencing factors from consumer spending habits to global trade balances. At their core, price adjustments are the modifications made to the prices of goods and services in response to shifts in supply and demand, production costs, and other economic forces. These alterations can have far-reaching implications, affecting the competitiveness of businesses, the purchasing power of consumers, and the overall economic equilibrium.

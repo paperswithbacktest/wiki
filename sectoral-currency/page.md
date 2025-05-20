@@ -1,6 +1,8 @@
 ---
-title: "Sectoral Currency (Algo Trading)"
-description: "Explore the impact of algorithmic trading on the financial sector, examining its role in global markets, sectoral currencies, and economic innovation."
+category: trading_strategy
+description: Explore the impact of algorithmic trading on the financial sector, examining
+  its role in global markets, sectoral currencies, and economic innovation.
+title: Sectoral Currency (Algo Trading)
 ---
 
 The financial sector is integral to global economic stability, encompassing a range of industries such as banks, investment firms, and insurance companies. These institutions play a crucial role in facilitating economic activities, from enabling transactions and providing credit to managing risks and creating investment opportunities. As economies worldwide continue to evolve, one of the most transformative developments in this sector is the emergence of algorithmic trading. This sophisticated practice uses advanced computer algorithms to automate trading decisions, optimizing the processes and outcomes of trading activities.

@@ -1,6 +1,9 @@
 ---
-title: "Manufactured Payment (Algo Trading)"
-description: "Explore the intricacies of manufactured payments in securities lending and the pivotal role of algorithmic trading in modern finance to enhance market efficiency."
+category: quant_concept
+description: Explore the intricacies of manufactured payments in securities lending
+  and the pivotal role of algorithmic trading in modern finance to enhance market
+  efficiency.
+title: Manufactured Payment (Algo Trading)
 ---
 
 The financial landscape is undergoing a significant transformation driven by rapid technological advances. These innovations empower traders and investors by making markets more efficient, transparent, and accessible. Among the concepts that illustrate this transformation are manufactured payments, financial transactions, and algorithmic trading. Each plays a crucial role in the modern finance ecosystem, shaping the way assets are traded and managed.

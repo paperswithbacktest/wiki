@@ -1,6 +1,8 @@
 ---
-title: "Trading Volume Exceeding Shares Outstanding (Algo Trading)"
-description: "Explore the relationship between trading volume exceeding shares outstanding and algorithmic trading Highlight how these elements interact within financial markets"
+category: trading_strategy
+description: Explore the relationship between trading volume exceeding shares outstanding
+  and algorithmic trading Highlight how these elements interact within financial markets
+title: Trading Volume Exceeding Shares Outstanding (Algo Trading)
 ---
 
 The stock market is a vital component of the global economy, serving as a platform for the buying and selling of securities such as stocks and bonds. It plays a crucial role in the allocation of resources, providing companies with access to capital and allowing investors to own a portion of businesses and potentially earn profits. The stock market's importance is highlighted by its ability to influence investment decisions, impact economic growth, and serve as an indicator of economic health.

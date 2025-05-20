@@ -1,6 +1,9 @@
 ---
-title: "Quantitative Portfolio Management (Algo Trading)"
-description: "Explore the transformative power of quantitative portfolio management and algorithmic trading in modern finance by optimizing investment decisions through data-driven strategies."
+category: trading_strategy
+description: Explore the transformative power of quantitative portfolio management
+  and algorithmic trading in modern finance by optimizing investment decisions through
+  data-driven strategies.
+title: Quantitative Portfolio Management (Algo Trading)
 ---
 
 Quantitative portfolio management and algorithmic trading represent critical advancements in the field of modern finance, fundamentally changing the way investment decisions are made. By leveraging data-driven methods and automation, these strategies allow for more precise and rapid decision-making. Quantitative portfolio management (QPM), specifically, transforms traditional investment strategies by using mathematical models and statistical techniques to allocate assets, manage risks, and evaluate performance objectively. At their core, these models analyze past data to make informed predictions about future market trends, offering investors a structured framework to optimize their portfolios.

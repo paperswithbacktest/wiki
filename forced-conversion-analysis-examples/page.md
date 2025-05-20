@@ -1,6 +1,8 @@
 ---
-title: "Forced Conversion: Analysis and Examples (Algo Trading)"
-description: "Explore the intersections of ethics and control in forced religious conversions and algorithmic trading highlighting their impacts on autonomy and modern society."
+category: quant_concept
+description: Explore the intersections of ethics and control in forced religious conversions
+  and algorithmic trading highlighting their impacts on autonomy and modern society.
+title: 'Forced Conversion: Analysis and Examples (Algo Trading)'
 ---
 
 The intersection of religion, forced conversions, and algorithmic trading might initially appear unrelated, yet examining these topics reveals foundational connections centered on control, ethics, and the impact of technology. Each area plays a significant role in shaping human experience, utilizing mechanisms that influence individual and collective behavior.

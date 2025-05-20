@@ -1,6 +1,14 @@
 ---
-title: "Near Money and Its Economic Role (Algo Trading)"
-description: "Explore the evolving financial ecosystem through the lens of near money, monetary economics, and algorithmic trading. Uncover how non-cash assets like savings accounts and T-bills play a vital role in liquidity management and risk mitigation. Understand financial instruments such as stocks, bonds, and derivatives and their impact on capital formation and market stability. Dive into the world of algorithmic trading and its influence on market efficiency. This comprehensive guide provides essential insights for financial professionals aiming to navigate and succeed in modern markets."
+category: quant_concept
+description: Explore the evolving financial ecosystem through the lens of near money,
+  monetary economics, and algorithmic trading. Uncover how non-cash assets like savings
+  accounts and T-bills play a vital role in liquidity management and risk mitigation.
+  Understand financial instruments such as stocks, bonds, and derivatives and their
+  impact on capital formation and market stability. Dive into the world of algorithmic
+  trading and its influence on market efficiency. This comprehensive guide provides
+  essential insights for financial professionals aiming to navigate and succeed in
+  modern markets.
+title: Near Money and Its Economic Role (Algo Trading)
 ---
 
 The financial landscape is undergoing rapid transformation, driven by the integration of diverse financial instruments and emerging technologies. This progression highlights the importance of understanding the interconnected dynamics of near money, financial instruments, monetary economics, and algorithmic trading. As financial systems become increasingly complex, these elements collectively play a crucial role in shaping strategies and decision-making processes within modern markets.

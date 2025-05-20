@@ -1,6 +1,8 @@
 ---
-title: "Ownership of Dow Jones & Company (Algo Trading)"
-description: "Explore the crucial role of Dow Jones & Company in the evolving financial landscape where media ownership intertwines with algorithmic trading's rapid transformation."
+category: quant_concept
+description: Explore the crucial role of Dow Jones & Company in the evolving financial
+  landscape where media ownership intertwines with algorithmic trading's rapid transformation.
+title: Ownership of Dow Jones & Company (Algo Trading)
 ---
 
 The convergence of media companies and financial firms marks a significant shift, introducing a new dimension to algorithmic trading. This intersection is notably illustrated by Dow Jones & Company, a longstanding pillar in the financial markets, whose influence is now encompassed within the broader narrative of media conglomerates integrating with sophisticated trading technologies. Over the years, media companies have evolved beyond mere observers of financial markets; they now play a crucial role in shaping market dynamics through their control of information dissemination and access to real-time data.

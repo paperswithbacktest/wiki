@@ -1,6 +1,14 @@
 ---
-title: "Agency Bonds: Types and Tax Rules (Algo Trading)"
-description: "Explore the world of agency bonds, a key asset in portfolio management, known for their distinct characteristics and tax advantages. These bonds, issued by government-sponsored enterprises or federal agencies, offer higher yields compared to U.S. Treasury securities and entail specific tax rules. This article investigates into the different types of agency bonds, their yield structure, and their role in algorithmic trading, providing insights vital for crafting effective investment strategies. Perfect for investors seeking stable income with an understanding of associated risks and the impact of tax considerations on potential returns."
+category: quant_concept
+description: Explore the world of agency bonds, a key asset in portfolio management,
+  known for their distinct characteristics and tax advantages. These bonds, issued
+  by government-sponsored enterprises or federal agencies, offer higher yields compared
+  to U.S. Treasury securities and entail specific tax rules. This article investigates
+  into the different types of agency bonds, their yield structure, and their role
+  in algorithmic trading, providing insights vital for crafting effective investment
+  strategies. Perfect for investors seeking stable income with an understanding of
+  associated risks and the impact of tax considerations on potential returns.
+title: 'Agency Bonds: Types and Tax Rules (Algo Trading)'
 ---
 
 In the dynamic landscape of financial markets, the understanding of various bond types plays a crucial role in successful portfolio management and informed investment decisions. Among these, agency bonds stand out as significant instruments. These bonds, distinct from U.S. Treasury securities, are issued by government-sponsored enterprises (GSEs) or federal government agencies. Their unique characteristics, including the potential for higher yields and specific tax advantages, make them an attractive option for a broad range of investors.

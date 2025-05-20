@@ -1,6 +1,13 @@
 ---
-title: "List of Lowest-Cost Vanguard ETFs (Algo Trading)"
-description: "Discover the advantages of investing in Vanguard's low-cost ETFs with insights into algorithmic trading strategies. Explore how these tools can optimize your investments by minimizing expenses and maximizing returns. Vanguard, a pioneer in cost-effective investing, offers a wide range of ETFs that provide diversification and liquidity, empowering investors to achieve better financial outcomes. Uncover the benefits of integrating these elements into your portfolio for long-term growth and financial success."
+category: dataset
+description: Discover the advantages of investing in Vanguard's low-cost ETFs with
+  insights into algorithmic trading strategies. Explore how these tools can optimize
+  your investments by minimizing expenses and maximizing returns. Vanguard, a pioneer
+  in cost-effective investing, offers a wide range of ETFs that provide diversification
+  and liquidity, empowering investors to achieve better financial outcomes. Uncover
+  the benefits of integrating these elements into your portfolio for long-term growth
+  and financial success.
+title: List of Lowest-Cost Vanguard ETFs (Algo Trading)
 ---
 
 Investment serves as a cornerstone in today's financial landscape, providing individuals and institutions with opportunities for wealth building and financial security. Engaging in investment activities, such as buying assets with the expectation of future returns, allows investors to harness the power of compound interest and potential market appreciation, ultimately contributing to long-term financial growth. A prominent vehicle that has gained significant traction among investors in recent decades is the Exchange-Traded Fund (ETF). These investment instruments offer the flexibility and liquidity of stocks while providing exposure to a wide array of asset classes, including equities, bonds, and commodities.

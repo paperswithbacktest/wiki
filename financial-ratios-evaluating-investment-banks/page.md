@@ -1,6 +1,8 @@
 ---
-title: "Financial Ratios for Evaluating Investment Banks (Algo Trading)"
-description: "Explore essential financial ratios like ROA and ROE alongside algorithmic trading insights to evaluate investment banks' efficiency and market positioning."
+category: quant_concept
+description: Explore essential financial ratios like ROA and ROE alongside algorithmic
+  trading insights to evaluate investment banks' efficiency and market positioning.
+title: Financial Ratios for Evaluating Investment Banks (Algo Trading)
 ---
 
 Investment banks hold a significant position in today's financial ecosystem, offering an array of services from managing mergers and acquisitions to underwriting initial public offerings. Their functions are essential for facilitating large-scale financial transactions and providing strategic advisory services. To effectively assess the performance of these institutions and anticipate market trends, financial experts leverage a mix of analytical techniques, prominently featuring financial ratios and algorithmic trading.

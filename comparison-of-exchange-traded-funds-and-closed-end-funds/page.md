@@ -1,6 +1,9 @@
 ---
-title: "Comparison of Exchange-Traded Funds and Closed-End Funds (Algo Trading)"
-description: "Discover the contrasting features of Exchange-Traded Funds (ETFs) and closed-end funds in algo trading Learn how these instruments can enhance your investment strategy"
+category: quant_concept
+description: Discover the contrasting features of Exchange-Traded Funds (ETFs) and
+  closed-end funds in algo trading Learn how these instruments can enhance your investment
+  strategy
+title: Comparison of Exchange-Traded Funds and Closed-End Funds (Algo Trading)
 ---
 
 Investment funds are pivotal components of the modern financial landscape, designed to pool capital from multiple investors to purchase securities collectively. This mechanism offers investors opportunities to diversify their portfolios without directly purchasing individual assets, thereby mitigating risk and potentially enhancing returns. Over the decades, investment funds have evolved significantly, starting as basic mutual funds to now include sophisticated instruments such as Exchange-Traded Funds (ETFs) and closed-end funds, each serving unique functions within the financial ecosystem.

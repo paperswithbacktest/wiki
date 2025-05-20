@@ -1,6 +1,8 @@
 ---
-title: "Shadow Rating: Definition and Operation (Algo Trading)"
-description: "Explore the convergence of shadow rating credit assessment and algorithmic trading as they redefine financial strategies and decision-making in today's markets."
+category: quant_concept
+description: Explore the convergence of shadow rating credit assessment and algorithmic
+  trading as they redefine financial strategies and decision-making in today's markets.
+title: 'Shadow Rating: Definition and Operation (Algo Trading)'
 ---
 
 In the modern financial landscape, the convergence of technology and traditional financial practices is becoming more evident. This evolution is driven by the need for increased precision, efficiency, and the ability to make informed decisions quickly. Within this context, shadow rating, financial evaluation, credit assessment, and algorithmic trading emerge as pivotal components that together redefine financial decision-making and investment strategies.

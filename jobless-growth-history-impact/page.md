@@ -1,6 +1,9 @@
 ---
-title: "Jobless Growth: History and Impact (Algo Trading)"
-description: "Explore the impact of jobless growth and algorithmic trading on economic stability and labor markets Learn how technology and trading strategies shape modern economies"
+category: quant_concept
+description: Explore the impact of jobless growth and algorithmic trading on economic
+  stability and labor markets Learn how technology and trading strategies shape modern
+  economies
+title: 'Jobless Growth: History and Impact (Algo Trading)'
 ---
 
 In this article, we will explore the interconnected realms of economic impact, economic history, jobless growth, and algorithmic trading. These elements form a complex web influencing financial markets, economic policy, and labor markets around the world. Understanding the interplay between economic developments and job creation is crucial, especially as modern economies frequently encounter periods of economic growth that do not result in proportional increases in employment—a scenario known as jobless growth. This pattern can pose significant challenges to economic stability, as it often leads to discrepancies in income distribution, affecting social cohesion and economic inclusivity.

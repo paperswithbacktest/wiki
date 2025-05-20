@@ -1,6 +1,9 @@
 ---
-title: "No Surprises Act and Healthcare Transparency (Algo Trading)"
-description: "Explore how the No Surprises Act enhances healthcare transparency by protecting patients from unexpected medical bills and leveraging technology for accurate billing."
+category: quant_concept
+description: Explore how the No Surprises Act enhances healthcare transparency by
+  protecting patients from unexpected medical bills and leveraging technology for
+  accurate billing.
+title: No Surprises Act and Healthcare Transparency (Algo Trading)
 ---
 
 In today's healthcare landscape, transparency is pivotal in ensuring fair practices and safeguarding consumers. Rising medical costs and complex billing processes often leave patients vulnerable to unforeseen charges, complicating their financial planning and potentially deterring them from seeking necessary medical care. To address these challenges, the No Surprises Act has emerged as a significant legislative effort aimed at increasing transparency and protecting patients from unpredictable medical expenses.

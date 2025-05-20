@@ -1,7 +1,8 @@
 ---
-title: Understanding Lambda Regularization in Machine Learning Models
+category: quant_concept
 description: Lambda regularization balances model complexity by penalizing parameters
   to prevent overfitting and improve generalization Discover more inside.
+title: Understanding Lambda Regularization in Machine Learning Models
 ---
 
 ![Image](images/1.png)

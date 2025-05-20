@@ -1,6 +1,8 @@
 ---
-title: "Impact of Labor Unions on Worker Benefits (Algo Trading)"
-description: "Explore the impact of labor unions on worker benefits and employment rights amidst the rise of algorithmic trading. Understand the challenges and opportunities."
+category: quant_concept
+description: Explore the impact of labor unions on worker benefits and employment
+  rights amidst the rise of algorithmic trading. Understand the challenges and opportunities.
+title: Impact of Labor Unions on Worker Benefits (Algo Trading)
 ---
 
 In the dynamic and ever-evolving world of work, the interactions between worker benefits, employment rights, labor unions, and algorithmic trading are gaining attention. These distinct yet interconnected components significantly influence contemporary employment landscapes. As technology and global markets advance, understanding these elements is crucial for both employees and employers in navigating modern labor markets' challenges and opportunities.

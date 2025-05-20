@@ -1,6 +1,9 @@
 ---
-title: "Institutional Shareholder Services: Overview and History (Algo Trading)"
-description: "Explore the vital roles of Institutional Shareholder Services in corporate governance and algorithmic trading, enhancing investor strategies in today's financial landscape."
+category: quant_concept
+description: Explore the vital roles of Institutional Shareholder Services in corporate
+  governance and algorithmic trading, enhancing investor strategies in today's financial
+  landscape.
+title: 'Institutional Shareholder Services: Overview and History (Algo Trading)'
 ---
 
 This article explores the dynamic intersection of shareholder solutions, corporate governance, and algorithmic trading, highlighting their critical roles in modern financial ecosystems. At the heart of this exploration is the prominent role of Institutional Shareholder Services (ISS), a key player in shaping the landscape for institutional investors. As a proxy advisory service, ISS has a significant influence on how institutional investors execute their voting strategies and engage with corporate governance matters.

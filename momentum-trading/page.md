@@ -1,6 +1,12 @@
 ---
-title: "Momentum Trading (Algo Trading)"
-description: "Discover the intricacies of momentum and algorithmic trading in this comprehensive article. Explore how momentum trading capitalizes on short-term market movements using trend indicators, while algorithmic trading employs technology to automate trades based on data-driven parameters. Learn about the benefits, risks, and integration of these strategies to enhance portfolio management and make informed investment decisions amidst volatile markets."
+category: trading_strategy
+description: Discover the intricacies of momentum and algorithmic trading in this
+  comprehensive article. Explore how momentum trading capitalizes on short-term market
+  movements using trend indicators, while algorithmic trading employs technology to
+  automate trades based on data-driven parameters. Learn about the benefits, risks,
+  and integration of these strategies to enhance portfolio management and make informed
+  investment decisions amidst volatile markets.
+title: Momentum Trading (Algo Trading)
 ---
 
 In the rapidly evolving world of stock market investing, momentum trading and algorithmic trading (algo trading) have emerged as effective strategies. Momentum trading involves buying stocks that exhibit an upward trend and selling them once they lose momentum, harnessing short-term market movements. Algorithmic trading, on the other hand, automates the process of buying and selling through pre-programmed instructions based on various market parameters and data analysis.

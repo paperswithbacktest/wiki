@@ -1,6 +1,15 @@
 ---
-title: "Foreign Portfolio Investment: Benefits and Risks (Algo Trading)"
-description: "Explore the dynamic world of Foreign Portfolio Investment and discover its key benefits and risks. This guide details how FPI serves as a valuable strategy for diversifying investments globally through acquiring financial assets such as stocks and bonds abroad. Understand the passive ownership nature of FPI compared to FDI and learn how algorithmic trading can navigate complex market dynamics. Dive into the advantages of liquidity and diversification while acknowledging associated risks like market volatility and foreign exchange fluctuations. Perfect for investors aiming to enhance their global asset portfolios and capitalize on FPI opportunities effectively."
+category: quant_concept
+description: Explore the dynamic world of Foreign Portfolio Investment and discover
+  its key benefits and risks. This guide details how FPI serves as a valuable strategy
+  for diversifying investments globally through acquiring financial assets such as
+  stocks and bonds abroad. Understand the passive ownership nature of FPI compared
+  to FDI and learn how algorithmic trading can navigate complex market dynamics. Dive
+  into the advantages of liquidity and diversification while acknowledging associated
+  risks like market volatility and foreign exchange fluctuations. Perfect for investors
+  aiming to enhance their global asset portfolios and capitalize on FPI opportunities
+  effectively.
+title: 'Foreign Portfolio Investment: Benefits and Risks (Algo Trading)'
 ---
 
 Foreign Portfolio Investment (FPI) is a pivotal component of international economics and financial markets, contributing to the diversification and potential returns for investors across the globe. FPI involves acquiring financial assets in a country other than the investor's own, such as stocks, bonds, and other securities. This investment strategy enhances portfolio diversification, which can help mitigate risks associated with domestic economic fluctuations.

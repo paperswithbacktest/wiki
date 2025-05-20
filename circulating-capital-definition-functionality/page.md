@@ -1,6 +1,9 @@
 ---
-title: "Circulating Capital: Definition and Functionality (Algo Trading)"
-description: "Explore the role of circulating capital in business finance and discover how algorithmic trading optimizes financial operations for enhanced efficiency and profitability."
+category: quant_concept
+description: Explore the role of circulating capital in business finance and discover
+  how algorithmic trading optimizes financial operations for enhanced efficiency and
+  profitability.
+title: 'Circulating Capital: Definition and Functionality (Algo Trading)'
 ---
 
 In the rapidly evolving business finance landscape, effective management of capital is crucial for sustaining operations and ensuring growth. Capital management is not merely about maintaining a balance between assets and liabilities, but also about leveraging available resources to maximize efficiency and profitability. Key financial concepts such as circulating capital, working capital, and algorithmic trading have transformed the way businesses leverage their financial resources, offering new avenues for optimizing operations and enhancing growth prospects. 
@@ -128,4 +131,3 @@ Jansen, Stefan. *Machine Learning for Algorithmic Trading*. Jansen introduces th
 Chan, Ernest P. *Quantitative Trading: How to Build Your Own Algorithmic Trading Business*. This resource serves as a guide for designing and running an algorithmic trading business. Chan provides actionable insights into the development and execution of algorithmic strategies, risk management, and infrastructure setup, making it invaluable for practitioners looking to establish or refine their trading businesses.
 
 Bergstra et al. *Algorithms for Hyper-Parameter Optimization*. Published in Advances in Neural Information Processing Systems 24, this paper investigates into methods for enhancing the performance of machine learning models through hyper-parameter optimization. It explores various algorithms that can be applied to improve the efficacy of machine learning systems in financial contexts, contributing to more precise and reliable algorithmic trading strategies.
-

@@ -1,6 +1,8 @@
 ---
-title: "Mont Pelerin Society: Overview and History (Algo Trading)"
-description: "Explore how the Mont Pelerin Society's classical liberal ideals shape contemporary practices like algorithmic trading enhancing modern economic policies."
+category: quant_concept
+description: Explore how the Mont Pelerin Society's classical liberal ideals shape
+  contemporary practices like algorithmic trading enhancing modern economic policies.
+title: 'Mont Pelerin Society: Overview and History (Algo Trading)'
 ---
 
 In the world of economics and finance, understanding the evolution of thought and its application to modern practices is crucial. This article explores the connections between historical economic thought as cultivated by the Mont Pelerin Society and contemporary practices such as algorithmic trading. Founded in 1947 by Friedrich Hayek, the Mont Pelerin Society (MPS) emerged in response to concerns over increasing government intervention and collectivist ideologies following World War II. This intellectual collective sought to preserve classical liberal ideals, emphasizing free markets, individual rights, and an open society, which have profoundly influenced modern economic policies and practices.

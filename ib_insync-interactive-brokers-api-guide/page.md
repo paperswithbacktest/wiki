@@ -1,6 +1,14 @@
 ---
-title: "IB Insync (Interactive Brokers API) Guide (Algo Trading)"
-description: Explore the comprehensive guide on leveraging ib_insync, a powerful Python library, for efficient algorithmic trading with Interactive Brokers. Learn how ib_insync's asynchronous functionality enhances trading operations by providing real-time data processing and execution. The article investigates into setting up the library, developing trading algorithms, and best practices, ensuring a seamless integration with IB's platform. Whether you're a hedge fund manager, a developer, or a hobbyist trader, this resource offers valuable insights into maximizing the potential of algo trading using ib_insync.
+category: trading_strategy
+description: Explore the comprehensive guide on leveraging ib_insync, a powerful Python
+  library, for efficient algorithmic trading with Interactive Brokers. Learn how ib_insync's
+  asynchronous functionality enhances trading operations by providing real-time data
+  processing and execution. The article investigates into setting up the library,
+  developing trading algorithms, and best practices, ensuring a seamless integration
+  with IB's platform. Whether you're a hedge fund manager, a developer, or a hobbyist
+  trader, this resource offers valuable insights into maximizing the potential of
+  algo trading using ib_insync.
+title: IB Insync (Interactive Brokers API) Guide (Algo Trading)
 ---
 
 Algorithmic trading, also known as algo trading, refers to the use of computer algorithms to automate trading strategies in financial markets. This approach to trading has become increasingly significant in modern finance due to its ability to process vast amounts of market data quickly and execute trades at speeds unachievable by human traders. Algorithms can efficiently analyze various market variables, detect trends, and perform arbitrage, among other strategies, making them indispensable tools for hedge funds, investment banks, and individual traders.

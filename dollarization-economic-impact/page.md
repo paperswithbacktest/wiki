@@ -1,6 +1,15 @@
 ---
-title: "Dollarization and Its Economic Impact (Algo Trading)"
-description: "Explore the complex dynamics of dollarization and algorithmic trading within the global financial landscape in this in-depth analysis. Understand how adopting the US dollar stabilizes economies facing hyperinflation, while considering the trade-offs of diminished monetary policy control. Simultaneously, discover how algorithmic trading's technological advancements optimize trade processes and influence market behavior. This article investigates into the intersections of these phenomena to reveal their collective influence on financial systems and economic stability, providing valuable insights for traders and policymakers navigating an evolving market environment."
+category: quant_concept
+description: Explore the complex dynamics of dollarization and algorithmic trading
+  within the global financial landscape in this in-depth analysis. Understand how
+  adopting the US dollar stabilizes economies facing hyperinflation, while considering
+  the trade-offs of diminished monetary policy control. Simultaneously, discover how
+  algorithmic trading's technological advancements optimize trade processes and influence
+  market behavior. This article investigates into the intersections of these phenomena
+  to reveal their collective influence on financial systems and economic stability,
+  providing valuable insights for traders and policymakers navigating an evolving
+  market environment.
+title: Dollarization and Its Economic Impact (Algo Trading)
 ---
 
 The global financial landscape is in a state of constant evolution, primarily driven by changes in economic policies and rapid technological advancements. Understanding these dynamics is essential for comprehending the broader implications for both local and global markets. This article focuses on two significant components shaping this landscape: dollarization of financial systems and the role of algorithmic trading. 

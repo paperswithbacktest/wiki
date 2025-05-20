@@ -1,7 +1,8 @@
 ---
-title: Exploring Bigrams for Machine Learning and NLP Tasks
+category: quant_concept
 description: Bigrams enhance NLP systems by capturing word pair context improving
   text classification machine translation and speech recognition Discover more inside.
+title: Exploring Bigrams for Machine Learning and NLP Tasks
 ---
 
 ![Image](images/1.png)

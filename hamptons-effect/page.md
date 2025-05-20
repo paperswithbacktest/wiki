@@ -1,6 +1,8 @@
 ---
-title: "Hamptons Effect (Algo Trading)"
-description: "Discover the Hamptons Effect in financial markets where seasonal travel impacts trading volumes and real estate trends offering strategic investment insights."
+category: quant_concept
+description: Discover the Hamptons Effect in financial markets where seasonal travel
+  impacts trading volumes and real estate trends offering strategic investment insights.
+title: Hamptons Effect (Algo Trading)
 ---
 
 The term 'Hamptons Effect' describes a fascinating phenomenon in financial markets, characterized by specific patterns in trading activity. This effect becomes particularly relevant during late summer when many Wall Street professionals take vacations, often resulting in noticeable shifts in trading volumes. Typically, as these professionals retreat to the Hamptons, a popular summer destination for New York's elite, trading activity can see a temporary dip, followed by a resurgence once they return to their desks.

@@ -1,6 +1,8 @@
 ---
-title: "Conversion Value: Explanation and Application (Algo Trading)"
-description: "Explore how business metrics and conversion value shape digital marketing and algorithmic trading strategies to optimize growth and efficiency."
+category: quant_concept
+description: Explore how business metrics and conversion value shape digital marketing
+  and algorithmic trading strategies to optimize growth and efficiency.
+title: 'Conversion Value: Explanation and Application (Algo Trading)'
 ---
 
 The rise of digital technologies has fundamentally transformed how businesses measure success by introducing new dynamics and complexities to traditional metrics. In this fast-paced digital age, the ability to understand and leverage precise business metrics has become crucial for enhancing digital marketing strategies, conversion value, and algorithmic trading. This article explores the intricate intersection of these metrics, offering insights into their role in driving strategic growth and informed decision-making.

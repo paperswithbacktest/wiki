@@ -1,6 +1,9 @@
 ---
-title: "Sector Rotation in Investing (Algo Trading)"
-description: "Discover how sector rotation and algorithmic trading unite to enhance investment strategies by leveraging economic cycles and advanced technology in financial markets."
+category: trading_strategy
+description: Discover how sector rotation and algorithmic trading unite to enhance
+  investment strategies by leveraging economic cycles and advanced technology in financial
+  markets.
+title: Sector Rotation in Investing (Algo Trading)
 ---
 
 In the ever-evolving world of financial markets, investors are constantly seeking effective strategies to optimize their returns. Among the myriad of approaches available, sector rotation stands out as a timeless investment strategy that leverages different phases of economic cycles to enhance portfolio performance. It involves the strategic shifting of investments across various sectors, based on the anticipation of which sectors will outperform during specific economic phases. By understanding economic indicators and market signals, investors can strategically time their moves to gain an edge.

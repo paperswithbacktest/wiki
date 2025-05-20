@@ -1,6 +1,10 @@
 ---
-title: "Best Swing Trading Indicators on TradingView Explained (Algo Trading)"
-description: Discover the best swing trading indicators on TradingView for algorithmic trading. Learn how to leverage tools like VWAP, RSI, and EMA to enhance precision, manage risk, and optimize trading strategies. Ideal for traders seeking to capitalize on market trends with automation and backtesting capabilities for improved outcomes.
+category: trading_strategy
+description: Discover the best swing trading indicators on TradingView for algorithmic
+  trading. Learn how to leverage tools like VWAP, RSI, and EMA to enhance precision,
+  manage risk, and optimize trading strategies. Ideal for traders seeking to capitalize
+  on market trends with automation and backtesting capabilities for improved outcomes.
+title: Best Swing Trading Indicators on TradingView Explained (Algo Trading)
 ---
 
 Swing trading is a widely adopted strategy that enables traders to exploit short- to medium-term market trends, typically capturing price movements over several days. Unlike day trading, which focuses on minute-to-minute price changes, swing trading seeks to capitalize on more stable market patterns, making it suitable for both individual traders and larger institutions. In the context of algorithmic trading, swing trading achieves enhanced precision and efficiency, as algorithms can process vast amounts of data to identify optimal entry and exit points.

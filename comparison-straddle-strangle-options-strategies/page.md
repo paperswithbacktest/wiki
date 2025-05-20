@@ -1,6 +1,13 @@
 ---
-title: "Comparison of Straddle and Strangle Options Strategies (Algo Trading)"
-description: "Explore the distinctions between straddle and strangle options strategies in derivatives trading and how algorithmic trading enhances their application. Understand the mechanics and benefits of both strategies and how they capitalize on market volatility to maximize potential returns without predicting price direction. This guide investigates into the details of these strategies, their implementation, and the role of algorithmic trading in optimizing entry and exit points, offering traders a comprehensive understanding to leverage price fluctuations effectively."
+category: trading_strategy
+description: Explore the distinctions between straddle and strangle options strategies
+  in derivatives trading and how algorithmic trading enhances their application. Understand
+  the mechanics and benefits of both strategies and how they capitalize on market
+  volatility to maximize potential returns without predicting price direction. This
+  guide investigates into the details of these strategies, their implementation, and
+  the role of algorithmic trading in optimizing entry and exit points, offering traders
+  a comprehensive understanding to leverage price fluctuations effectively.
+title: Comparison of Straddle and Strangle Options Strategies (Algo Trading)
 ---
 
 Derivatives trading offers powerful financial tools that enable traders to hedge risks and speculate on asset price movements. Within this sphere, options are particularly effective, allowing investors to capitalize on volatility. Amongst the myriad of options strategies, straddle and strangle stand out due to their potential to exploit price fluctuations and maximize returns. 

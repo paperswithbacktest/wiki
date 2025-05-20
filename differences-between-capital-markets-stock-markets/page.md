@@ -1,6 +1,8 @@
 ---
-title: "Differences Between Capital Markets and Stock Markets (Algo Trading)"
-description: "Explore the distinctions between stock and capital markets, focusing on their unique roles in finance. Understand how algo trading impacts these systems."
+category: quant_concept
+description: Explore the distinctions between stock and capital markets, focusing
+  on their unique roles in finance. Understand how algo trading impacts these systems.
+title: Differences Between Capital Markets and Stock Markets (Algo Trading)
 ---
 
 In the complex world of finance, various markets facilitate different types of trades, each serving a distinct purpose. Among these markets, the stock market and the broader capital market play pivotal roles. The stock market is a specific marketplace where shares of publicly held companies are issued and traded, providing a platform for businesses to raise capital by offering ownership stakes to investors. Participants, including individual traders, institutional investors, and market makers, interact within this system to benefit from price fluctuations and dividends.

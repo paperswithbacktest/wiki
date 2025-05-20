@@ -1,6 +1,11 @@
 ---
-title: "Net Present Value: Calculation and Significance (Algo Trading)"
-description: "This page provides a comprehensive guide to Net Present Value (NPV), focusing on its calculation and significance in investment planning and algorithmic trading. Explore how NPV offers a detailed analysis of profitability by factoring in the time value of money and the importance of incorporating NPV into algorithmic trading strategies for maximizing returns through data-driven decisions."
+category: quant_concept
+description: This page provides a comprehensive guide to Net Present Value (NPV),
+  focusing on its calculation and significance in investment planning and algorithmic
+  trading. Explore how NPV offers a detailed analysis of profitability by factoring
+  in the time value of money and the importance of incorporating NPV into algorithmic
+  trading strategies for maximizing returns through data-driven decisions.
+title: 'Net Present Value: Calculation and Significance (Algo Trading)'
 ---
 
 Understanding the importance of precise financial calculations is crucial in both investment planning and algorithmic trading. Algorithmic trading, which relies on automated trading strategies driven by quantitative models and sophisticated algorithms, requires a robust analytical framework to assess the viability of investments and trading opportunities. One such analytical tool is the net present value (NPV) calculation. NPV is central to evaluating the profitability of prospective projects and investments by considering the time value of money—a concept that acknowledges a dollar today is worth more than a dollar in the future due to its potential earning capacity. 

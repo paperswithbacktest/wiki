@@ -1,6 +1,8 @@
 ---
-title: "Original Face: Concept, Mechanism, and Benefits (Algo Trading)"
-description: "Explore the mechanics and benefits of algorithmic trading. Discover how automated systems enhance decision-making, analyze data, and improve trading efficiency."
+category: quant_concept
+description: Explore the mechanics and benefits of algorithmic trading. Discover how
+  automated systems enhance decision-making, analyze data, and improve trading efficiency.
+title: 'Original Face: Concept, Mechanism, and Benefits (Algo Trading)'
 ---
 
 Algorithmic trading, often referred to as 'algo trading', leverages sophisticated algorithms to automate the processes of financial trading. This method revolutionizes how trades are executed, enabling rapid decision-making and execution in today's fast-paced financial markets. Investors prioritize rapid and efficient trade execution to maintain a competitive edge. Unlike traditional trading, algorithmic trading utilizes predefined criteria, ensuring that decisions are free from emotional biases and are rooted in quantitative analysis.

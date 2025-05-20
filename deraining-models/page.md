@@ -1,7 +1,8 @@
 ---
-title: Image Deraining Using a Multi-Scale Progressive Fusion Network
+category: quant_concept
 description: Image deraining uses a multi-scale fusion network to remove rain and
   enhance clarity while preserving details and usability. Discover more inside
+title: Image Deraining Using a Multi-Scale Progressive Fusion Network
 ---
 
 ![Image](images/1.png)

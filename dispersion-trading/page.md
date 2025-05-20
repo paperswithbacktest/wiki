@@ -1,9 +1,11 @@
 ---
-title: "Dispersion Trading and Algo Trading"
-description: Delve into the world of Dispersion Trading - a sophisticated volatility arbitrage strategy capitalizing on the discrepancy between implied and realized correlations. Understand its core principles, history, and mechanics, plus explore real-world examples contrasting it with index arbitrage.
+category: trading_strategy
+description: Delve into the world of Dispersion Trading - a sophisticated volatility
+  arbitrage strategy capitalizing on the discrepancy between implied and realized
+  correlations. Understand its core principles, history, and mechanics, plus explore
+  real-world examples contrasting it with index arbitrage.
+title: Dispersion Trading and Algo Trading
 ---
-
-
 
 Dispersion trading, rooted in the intricate dance of correlations among individual stocks and their indices, has steadily garnered attention from institutional investors and sophisticated traders alike. As financial markets evolve, so do the strategies employed to reap profits, and dispersion trading serves as a testament to this dynamism.
 

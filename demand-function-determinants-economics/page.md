@@ -1,6 +1,9 @@
 ---
-title: "Demand Function and Determinants in Economics (Algo Trading)"
-description: "Explore the interplay between demand functions, economic determinants, and algorithmic trading. Learn how these concepts drive market predictions and trading strategies."
+category: quant_concept
+description: Explore the interplay between demand functions, economic determinants,
+  and algorithmic trading. Learn how these concepts drive market predictions and trading
+  strategies.
+title: Demand Function and Determinants in Economics (Algo Trading)
 ---
 
 Understanding the relationship between demand curves, demand functions, and economic determinants is crucial for both economists and traders. Demand curves graphically represent the relationship between the price of a good and the quantity demanded over a specified period, typically exhibiting a downward slope which indicates an inverse relationship between price and demand. Meanwhile, demand functions provide a mathematical framework to express the quantity demanded as influenced by various factors, such as price, income levels, and prices of related goods. Economic determinants, including consumer preferences and income, influence both demand curves and functions by bringing about shifts due to changes in market conditions.

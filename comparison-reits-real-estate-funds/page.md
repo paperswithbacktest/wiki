@@ -1,6 +1,8 @@
 ---
-title: "Comparison of REITs and Real Estate Funds (Algo Trading)"
-description: "Explore the unique dynamics of REITs and real estate funds in the context of algorithmic trading to enhance investment strategies and optimize returns."
+category: trading_strategy
+description: Explore the unique dynamics of REITs and real estate funds in the context
+  of algorithmic trading to enhance investment strategies and optimize returns.
+title: Comparison of REITs and Real Estate Funds (Algo Trading)
 ---
 
 The real estate fund and Real Estate Investment Trust (REIT) market plays a significant role in the global financial ecosystem, offering investors opportunities to diversify portfolios and gain exposure to real estate without directly owning properties. Real estate funds are investment vehicles that pool capital from multiple investors to buy, manage, and develop properties, while REITs offer a similar function through a structured corporation or trust. REITs are distinct for their ability to provide regular income streams to investors, as they are required to pay out at least 90% of their taxable income as dividends. Major types of REITs include equity REITs, which invest in physical properties, mortgage REITs, which deal in real estate loans, and hybrid REITs, which combine both strategies.

@@ -1,7 +1,8 @@
 ---
-title: Explainable CNNs with XGrad-CAM and PolyCAM Methods
+category: quant_concept
 description: XGrad-CAM and PolyCAM generate heatmaps showing how CNNs focus on image
   features in medical diagnosis and autonomous driving Discover more inside
+title: Explainable CNNs with XGrad-CAM and PolyCAM Methods
 ---
 
 ![Image](images/1.jpeg)

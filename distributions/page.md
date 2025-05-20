@@ -1,7 +1,8 @@
 ---
-title: Understanding Gumbel Softmax Distribution in Machine Learning
+category: quant_concept
 description: Gumbel Softmax distribution helps machine learning models make smooth
   categorical decisions with adjustable randomness and temperature. Discover more
+title: Understanding Gumbel Softmax Distribution in Machine Learning
 ---
 
 ![Image](images/1.png)

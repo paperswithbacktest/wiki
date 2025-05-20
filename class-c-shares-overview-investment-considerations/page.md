@@ -1,6 +1,9 @@
 ---
-title: "Class C Shares: Overview and Investment Considerations (Algo Trading)"
-description: "Explore the benefits and drawbacks of investing in Class C shares alongside algorithmic trading strategies to optimize your investment portfolio for flexibility and growth."
+category: trading_strategy
+description: Explore the benefits and drawbacks of investing in Class C shares alongside
+  algorithmic trading strategies to optimize your investment portfolio for flexibility
+  and growth.
+title: 'Class C Shares: Overview and Investment Considerations (Algo Trading)'
 ---
 
 Investing in mutual funds is a widespread strategy adopted by individuals aiming to diversify their portfolios and reduce financial risk exposure. Among the investment avenues available, mutual fund Class C shares present distinct features that necessitate understanding by investors. Unlike Class A or B shares, Class C shares typically do not impose upfront or back-end sales charges, making them particularly appealing to investors seeking flexibility and simplicity in their investment approach.

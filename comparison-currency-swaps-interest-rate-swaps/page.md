@@ -1,6 +1,8 @@
 ---
-title: "Comparison of Currency Swaps and Interest Rate Swaps (Algo Trading)"
-description: "Explore the benefits and risks of currency swaps and interest rate swaps in algorithmic trading Learn how these derivatives manage risks and enhance returns"
+category: quant_concept
+description: Explore the benefits and risks of currency swaps and interest rate swaps
+  in algorithmic trading Learn how these derivatives manage risks and enhance returns
+title: Comparison of Currency Swaps and Interest Rate Swaps (Algo Trading)
 ---
 
 Financial derivatives are powerful tools in the world of finance, offering a range of options for managing risk and enhancing investment returns. These financial instruments derive their value from the performance of underlying assets, indexes, or interest rates, which allows investors to engage in activities such as hedging risk, speculating on price movements, or increasing leverage. Among the various types of financial derivatives, interest rate swaps and currency swaps hold a significant position due to their widespread use and importance in financial markets.

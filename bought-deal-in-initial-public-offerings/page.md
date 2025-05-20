@@ -1,6 +1,8 @@
 ---
-title: "Bought Deal in Initial Public Offerings (Algo Trading)"
-description: "Explore how bought deals and algorithmic trading are transforming IPO processes by ensuring speed and certainty while minimizing financing risks for issuers."
+category: trading_strategy
+description: Explore how bought deals and algorithmic trading are transforming IPO
+  processes by ensuring speed and certainty while minimizing financing risks for issuers.
+title: Bought Deal in Initial Public Offerings (Algo Trading)
 ---
 
 An Initial Public Offering (IPO) represents a pivotal moment in a company's trajectory, facilitating its transition from a private entity to a publicly traded organization. This process not only raises substantial capital but also enhances a company's visibility and credibility in the financial markets. Traditionally, IPOs have involved a complex interplay between the issuing company and investment banks, serving as underwriters. In recent times, the role of bought deals has gained prominence, offering an alternative funding mechanism. In a bought deal, an investment bank buys the entire offering from the issuer and then resells the shares to investors, instantly eliminating financing risk for the issuer. Though this often requires selling shares at a discount, it provides critical speed and certainty in volatile markets.

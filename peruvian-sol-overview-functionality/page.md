@@ -1,6 +1,9 @@
 ---
-title: "Peruvian Sol: Overview and Functionality (Algo Trading)"
-description: "Discover the role of the Peruvian Sol in Peru's economy and explore how algorithmic trading enhances its market engagement through advanced tactics and insights."
+category: dataset
+description: Discover the role of the Peruvian Sol in Peru's economy and explore how
+  algorithmic trading enhances its market engagement through advanced tactics and
+  insights.
+title: 'Peruvian Sol: Overview and Functionality (Algo Trading)'
 ---
 
 The Peruvian Sol (PEN) holds a central role in Peru's economy, embodying the country's journey through economic turbulence and recovery. Established as the Nuevo Sol in 1991, this currency was introduced to combat hyperinflation and subsequently renamed the Sol in 2015, signifying its stability and growth over the years. As an economic indicator, the Sol mirrors the nation's fiscal health, influenced by Peru's robust economic sectors such as mining and agriculture.

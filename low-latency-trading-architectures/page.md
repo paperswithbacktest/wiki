@@ -1,6 +1,8 @@
 ---
-title: "Low latency trading architectures (Algo Trading)"
-description: "Dive into the essentials of low latency trading architectures in algo trading to optimize performance in financial markets with cutting-edge technologies."
+category: quant_concept
+description: Dive into the essentials of low latency trading architectures in algo
+  trading to optimize performance in financial markets with cutting-edge technologies.
+title: Low latency trading architectures (Algo Trading)
 ---
 
 In the fast-paced world of financial trading, achieving low latency can be a decisive factor for success. Low latency in trading, particularly in algorithmic executions, requires carefully crafted strategies that span both hardware and software design. The ability to minimize the time delay between market movements and trade responses is crucial, as even microsecond differences can impact profitability. As such, low latency trading architectures have become pivotal, involving a blend of advanced technologies and innovative approaches to hardware and software integration.

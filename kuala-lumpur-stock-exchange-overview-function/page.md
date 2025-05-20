@@ -1,6 +1,8 @@
 ---
-title: "Kuala Lumpur Stock Exchange: Overview and Function (Algo Trading)"
-description: "Explore the evolution of the Kuala Lumpur Stock Exchange and the impact of algorithmic trading on market dynamics at Bursa Malaysia to enhance trading efficiency."
+category: quant_concept
+description: Explore the evolution of the Kuala Lumpur Stock Exchange and the impact
+  of algorithmic trading on market dynamics at Bursa Malaysia to enhance trading efficiency.
+title: 'Kuala Lumpur Stock Exchange: Overview and Function (Algo Trading)'
 ---
 
 The Kuala Lumpur Stock Exchange (KLSE), rebranded as Bursa Malaysia, serves as a pivotal financial platform in Malaysia, facilitating the trade of a wide array of financial instruments, including equities, derivatives, and exchange-traded funds. This exchange has evolved into a key component of Malaysia's financial infrastructure, playing a crucial role in the economy's capital and financial markets.

@@ -1,6 +1,13 @@
 ---
-title: "Round Trip Transaction Costs and Profitability (Algo Trading)"
-description: "Explore how transaction costs impact profitability in algorithmic trading, emphasizing the significance of round-trip transactions. This article provides insights into understanding and minimizing transaction costs, including commissions, fees, bid-ask spreads, and market impact costs. By optimizing these costs, traders can enhance net profits and maintain the competitiveness of their trading strategies. Discover strategies for refining execution processes and ensuring efficient, profitable trading outcomes in dynamic market environments."
+category: trading_strategy
+description: Explore how transaction costs impact profitability in algorithmic trading,
+  emphasizing the significance of round-trip transactions. This article provides insights
+  into understanding and minimizing transaction costs, including commissions, fees,
+  bid-ask spreads, and market impact costs. By optimizing these costs, traders can
+  enhance net profits and maintain the competitiveness of their trading strategies.
+  Discover strategies for refining execution processes and ensuring efficient, profitable
+  trading outcomes in dynamic market environments.
+title: Round Trip Transaction Costs and Profitability (Algo Trading)
 ---
 
 Algorithmic trading, often referred to as algo trading, is the use of computer systems and software to enter and execute trades automatically based on predetermined criteria. This approach leverages complex algorithms, which evaluate multiple market variables, to facilitate rapid decision-making and execution of trade orders. Over recent decades, algorithmic trading has witnessed substantial growth and transformation, largely driven by advances in computing power, increased availability of real-time data, and the expansion of electronic trading platforms in financial markets.
@@ -165,4 +172,3 @@ In conclusion, mastering the intricacies of round-trip transaction costs is not 
 9. Credit Suisse. *Transaction Cost Analysis in Algorithmic Trading: A Comprehensive Study*. This resource offers a detailed examination of transaction cost analysis in the context of algorithmic trading, presenting various methodologies to enhance cost efficiency.
 
 10. Hasbrouck, J. (2009). *Trading Costs and Returns for U.S. Equities: Estimating Effective Costs from Daily Data*. This study discusses the estimation of trading costs using daily data, highlighting their influence on trading returns and profitability.
-

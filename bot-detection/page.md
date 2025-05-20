@@ -1,7 +1,8 @@
 ---
-title: Advanced Machine Learning Techniques for Bot Detection
+category: quant_concept
 description: Bot detection uses machine learning to spot automated accounts by analyzing
   behavior content and interactions so platforms stay secure Discover more
+title: Advanced Machine Learning Techniques for Bot Detection
 ---
 
 ![Image](images/1.png)

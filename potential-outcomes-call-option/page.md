@@ -1,6 +1,9 @@
 ---
-title: "Potential Outcomes of a Call Option (Algo Trading)"
-description: "Explore the potential outcomes of call options in algorithmic trading. Learn how integrating algos can enhance profit and loss predictions by automating strategies."
+category: quant_concept
+description: Explore the potential outcomes of call options in algorithmic trading.
+  Learn how integrating algos can enhance profit and loss predictions by automating
+  strategies.
+title: Potential Outcomes of a Call Option (Algo Trading)
 ---
 
 Options trading has garnered increasing attention among investors due to its potential for significant returns and strategic risk management capabilities. This form of trading involves contracts that provide the buyer the right, but not the obligation, to buy or sell an asset at a predetermined price on or before a specified date. Investors are increasingly turning to options trading as a means to diversify portfolios and capitalize on market movements.

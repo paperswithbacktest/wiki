@@ -1,6 +1,15 @@
 ---
-title: "Reversal in Finance (Algo Trading)"
-description: "Algorithmic trading in finance utilizes computer algorithms to automate buying and selling decisions in the market. This method leverages complex mathematical models to identify trading opportunities faster and more efficiently than human traders, reducing costs and optimizing execution. A key aspect of algorithmic trading is identifying market trends and reversals, which are changes in the direction of the market that can significantly impact trading strategies. By using financial algorithms and advancements in AI and machine learning, traders can accurately detect and respond to these reversals, gaining a strategic advantage in the fast-paced financial markets."
+category: quant_concept
+description: Algorithmic trading in finance utilizes computer algorithms to automate
+  buying and selling decisions in the market. This method leverages complex mathematical
+  models to identify trading opportunities faster and more efficiently than human
+  traders, reducing costs and optimizing execution. A key aspect of algorithmic trading
+  is identifying market trends and reversals, which are changes in the direction of
+  the market that can significantly impact trading strategies. By using financial
+  algorithms and advancements in AI and machine learning, traders can accurately detect
+  and respond to these reversals, gaining a strategic advantage in the fast-paced
+  financial markets.
+title: Reversal in Finance (Algo Trading)
 ---
 
 Algorithmic trading has revolutionized the financial markets by using computer algorithms to automate trading decisions. This approach involves the use of complex mathematical models and formulas that identify profitable trading opportunities at speeds and frequencies impossible for human traders. The automation provided by algorithmic trading minimizes human intervention, allowing for efficient execution and reduced costs. It's estimated that more than 70% of all trading volume in the United States equity markets is now generated through algorithmic trading.

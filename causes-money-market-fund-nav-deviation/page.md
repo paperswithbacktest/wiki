@@ -1,6 +1,8 @@
 ---
-title: "Causes of Money Market Fund NAV Deviation (Algo Trading)"
-description: "Dive into the causes of money market fund NAV deviations with algorithmic trading. Discover risks, benefits, and historical impacts on fund stability."
+category: quant_concept
+description: Dive into the causes of money market fund NAV deviations with algorithmic
+  trading. Discover risks, benefits, and historical impacts on fund stability.
+title: Causes of Money Market Fund NAV Deviation (Algo Trading)
 ---
 
 Money market funds have long been a cornerstone for investors pursuing safety and liquidity. These funds are managed portfolios that invest in short-term, high-quality instruments such as government securities, certificates of deposit, and commercial paper. The primary objective of money market funds is to maintain a stable net asset value (NAV) of $1, which they achieve by holding highly liquid assets that are considered low-risk. Despite their reputation for stability, specific market events can disrupt this stability, leading to a scenario known as "breaking the buck," where the NAV falls below $1, resulting in losses for investors.

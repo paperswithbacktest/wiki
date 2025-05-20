@@ -1,6 +1,11 @@
 ---
-title: "Gann Fan Trading Strategy Explained (Algo Trading)"
-description: Discover the Gann Fan trading strategy in algorithmic trading where technical analysis meets automation. Learn how this tool helps predict market movements by using angular lines to identify support and resistance levels. Enhance your trading efficiency and decision-making capabilities by integrating Gann Fan into your algorithmic strategies, reducing human error and optimizing performance.
+category: trading_strategy
+description: Discover the Gann Fan trading strategy in algorithmic trading where technical
+  analysis meets automation. Learn how this tool helps predict market movements by
+  using angular lines to identify support and resistance levels. Enhance your trading
+  efficiency and decision-making capabilities by integrating Gann Fan into your algorithmic
+  strategies, reducing human error and optimizing performance.
+title: Gann Fan Trading Strategy Explained (Algo Trading)
 ---
 
 Algorithmic trading, commonly referred to as algo trading, plays a critical role in today's financial markets by using computer programs to execute trades at speeds and frequencies that surpass human capability. These algorithms are designed to follow a specific set of instructions, such as timing, price, or quantity, which can result in benefits like reduced transaction costs and enhanced trading efficiency. Algo trading has become a cornerstone for executing complex trading strategies across different classes of financial instruments, contributing to liquidity and market stability.

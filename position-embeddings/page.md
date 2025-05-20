@@ -1,7 +1,8 @@
 ---
-title: Understanding Position Embeddings in Transformer Models
+category: quant_concept
 description: Position embeddings enable transformer models to capture word order using
   absolute and relative methods including ALiBi and RoPE Discover more inside
+title: Understanding Position Embeddings in Transformer Models
 ---
 
 ![Image](images/1.png)

@@ -1,7 +1,8 @@
 ---
-title: Understanding Bidirectional Language Models and Their Applications
+category: quant_concept
 description: Bidirectional language models analyze context before and after each word
   to boost accuracy in search translation and writing tools Discover more inside.
+title: Understanding Bidirectional Language Models and Their Applications
 ---
 
 ![Image](images/1.png)

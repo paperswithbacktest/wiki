@@ -1,6 +1,8 @@
 ---
-title: "Breakdown: Explanation, Mechanism, and Trading Strategies (Algo Trading)"
-description: "Explore the dynamics of market breakdowns with insights into algorithmic trading strategies technical analysis tools and methods to capitalize on price shifts"
+category: trading_strategy
+description: Explore the dynamics of market breakdowns with insights into algorithmic
+  trading strategies technical analysis tools and methods to capitalize on price shifts
+title: 'Breakdown: Explanation, Mechanism, and Trading Strategies (Algo Trading)'
 ---
 
 In the fast-paced world of trading, the ability to understand and anticipate market movements is vital for achieving success. Market breakdowns, which occur when the price of a security falls below a crucial support level, can lead to significant price declines. Recognizing these breakdowns is essential for traders, as they often signal a shift in market sentiment from bullish to bearish, impacting trading decisions and outcomes.

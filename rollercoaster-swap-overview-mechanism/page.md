@@ -1,6 +1,8 @@
 ---
-title: "Rollercoaster Swap: Overview and Mechanism (Algo Trading)"
-description: "Explore rollercoaster swaps within interest rate trading to manage cyclical financial needs. Learn their structure and role in effective risk management."
+category: quant_concept
+description: Explore rollercoaster swaps within interest rate trading to manage cyclical
+  financial needs. Learn their structure and role in effective risk management.
+title: 'Rollercoaster Swap: Overview and Mechanism (Algo Trading)'
 ---
 
 In finance, derivatives have emerged as powerful tools to manage risk and leverage opportunities. These financial contracts derive their value from underlying assets, offering unique mechanisms for risk management, speculation, and arbitrage. Among the various types of derivatives, interest rate swaps hold a prominent place due to their ability to allow entities to exchange cash flows, thereby managing interest rate exposure effectively.
@@ -124,4 +126,3 @@ Fabozzi, F.J. (2016). *The Handbook of Fixed Income Securities*. A vital resourc
 Hull, J.C. (2018). *Options, Futures, and Other Derivatives*. Hull's text is a staple in understanding derivative markets. It covers the foundational concepts of derivatives, offering explanations and mathematical formulations for various instruments, including interest rate swaps.
 
 Jansen, S. (2020). *Machine Learning for Algorithmic Trading*. Jansen examines the application of machine learning in developing trading algorithms, which can incorporate derivatives like rollercoaster swaps to optimize trading strategies. The book provides practical examples and Python code for implementing machine learning models in trading.
-

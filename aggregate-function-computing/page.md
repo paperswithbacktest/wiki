@@ -1,6 +1,8 @@
 ---
-title: "Aggregate Function in Computing (Algo Trading)"
-description: "Discover how aggregate functions enhance data analysis and algorithmic trading by transforming complex market data into actionable investment insights."
+category: quant_concept
+description: Discover how aggregate functions enhance data analysis and algorithmic
+  trading by transforming complex market data into actionable investment insights.
+title: Aggregate Function in Computing (Algo Trading)
 ---
 
 In today's financial markets, the integration of data analysis and technology-driven decision-making processes is pivotal for achieving successful investment outcomes. This trend reflects a burgeoning reliance on computational tools and techniques that enable traders and investors to interpret complex market data efficiently. The evolution of computer science and statistical methods has brought about sophisticated means of analyzing large datasets, thereby improving the accuracy and reliability of investment strategies.

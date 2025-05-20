@@ -1,6 +1,9 @@
 ---
-title: "Nonbank Financial Institutions Overview (Algo Trading)"
-description: "Explore the expanding influence of nonbank financial institutions and the rise of algorithmic trading in financial systems understanding their impact and future trends."
+category: quant_concept
+description: Explore the expanding influence of nonbank financial institutions and
+  the rise of algorithmic trading in financial systems understanding their impact
+  and future trends.
+title: Nonbank Financial Institutions Overview (Algo Trading)
 ---
 
 Financial systems are crucial for the operation of economies globally, acting as the backbone for transactions, risk management, and resource allocation. Traditionally, banks have been at the heart of these systems, providing essential services such as savings accounts, loans, and payment processing. However, a significant shift has occurred with the emergence and growth of nonbank financial institutions (NBFIs). These entities, which include investment banks, hedge funds, and insurance companies, among others, have expanded their roles and become increasingly influential within the financial ecosystem.

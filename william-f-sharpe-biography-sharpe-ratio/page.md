@@ -1,6 +1,9 @@
 ---
-title: "William F. Sharpe: Biography and the Sharpe Ratio (Algo Trading)"
-description: "Explore William F. Sharpe's biography and groundbreaking contributions to finance, including the CAPM and Sharpe Ratio, crucial for algorithmic trading success."
+category: quant_concept
+description: Explore William F. Sharpe's biography and groundbreaking contributions
+  to finance, including the CAPM and Sharpe Ratio, crucial for algorithmic trading
+  success.
+title: 'William F. Sharpe: Biography and the Sharpe Ratio (Algo Trading)'
 ---
 
 The world of finance and investment is an intricate tapestry of risks and rewards, each aspect deeply connected to the other. Investors constantly seek ways to optimize returns while managing potential risks, a dynamic that has driven the evolution of financial models and metrics. One of the most influential figures in this domain is William F. Sharpe, a Nobel laureate renowned for his profound contributions to financial economics. Sharpe introduced two essential concepts that have become the bedrock of investment analysis: the Capital Asset Pricing Model (CAPM) and the Sharpe Ratio. These tools are pivotal in assessing investment performance and have seen widespread application in various aspects of finance, notably in algorithmic trading.

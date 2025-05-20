@@ -1,6 +1,8 @@
 ---
-title: "Economic Networks: Overview, Advantages, and Drawbacks (Algo Trading)"
-description: "Explore the transformative role of economic networks and algorithmic trading in global finance examining their benefits, challenges, and real-world impacts."
+category: quant_concept
+description: Explore the transformative role of economic networks and algorithmic
+  trading in global finance examining their benefits, challenges, and real-world impacts.
+title: 'Economic Networks: Overview, Advantages, and Drawbacks (Algo Trading)'
 ---
 
 In financial markets, both economic networks and algorithmic trading have become pivotal. These concepts, though distinct, are interconnected and have substantially transformed the way financial transactions are conducted globally.

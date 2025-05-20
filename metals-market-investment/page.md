@@ -1,6 +1,8 @@
 ---
-title: "Metals Market Investment (Algo Trading)"
-description: "Explore the transformative role of algorithmic trading in the metals market enhancing precision and speed in trading decisions for savvy investors."
+category: trading_strategy
+description: Explore the transformative role of algorithmic trading in the metals
+  market enhancing precision and speed in trading decisions for savvy investors.
+title: Metals Market Investment (Algo Trading)
 ---
 
 The commodities investment landscape has undergone significant transformations with the advent of algorithmic trading. This technological advancement has become a pivotal component in modern trading strategies, particularly within the metals market. Algorithmic trading employs sophisticated computational models to automate trading decisions, thereby introducing new dynamics in investment strategies.

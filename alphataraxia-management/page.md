@@ -1,6 +1,8 @@
 ---
-title: "Alphataraxia Management (Algo Trading)"
-description: "Alphataraxia Management leads in algorithmic trading within energy markets prioritizing data-driven strategies to stabilize prices and support renewables."
+category: trading_strategy
+description: Alphataraxia Management leads in algorithmic trading within energy markets
+  prioritizing data-driven strategies to stabilize prices and support renewables.
+title: Alphataraxia Management (Algo Trading)
 ---
 
 Alphataraxia Management stands out as a pioneering firm in the sphere of quantitative algorithmic trading, specifically targeting energy markets. The company employs sophisticated investment strategies to effectively participate in electricity grids, thereby stabilizing energy prices and promoting the adoption of renewable energy sources. This commitment aligns with their broader goal of employing data-centric investment strategies for impactful market engagement.

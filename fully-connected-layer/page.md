@@ -1,7 +1,8 @@
 ---
-title: Understanding Fully Connected Layers in Neural Networks
+category: quant_concept
 description: Fully Connected Layers integrate inputs to learn complex patterns and
   boost prediction accuracy in neural networks with optimized weights. Discover inside.
+title: Understanding Fully Connected Layers in Neural Networks
 ---
 
 ![Image](images/1.jpeg)

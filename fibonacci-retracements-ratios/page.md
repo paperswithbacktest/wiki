@@ -1,6 +1,14 @@
 ---
-title: "Fibonacci Retracements and Ratios (Algo Trading)"
-description: "Explore the fundamentals of Fibonacci retracement and its integration with algorithmic trading in financial markets. Understand how Fibonacci levels predict potential support and resistance areas using ratios like 23.6% and 61.8%. Discover how these mathematical insights can enhance algorithmic trading strategies by automating decisions with precision, efficiency, and consistency, crucial for traders aiming to optimize buy and sell actions across markets like forex, stocks, and commodities. This guide provides a comprehensive overview, from defining key Fibonacci concepts to real-world applications, paving the way for innovative trading strategies."
+category: quant_concept
+description: Explore the fundamentals of Fibonacci retracement and its integration
+  with algorithmic trading in financial markets. Understand how Fibonacci levels predict
+  potential support and resistance areas using ratios like 23.6% and 61.8%. Discover
+  how these mathematical insights can enhance algorithmic trading strategies by automating
+  decisions with precision, efficiency, and consistency, crucial for traders aiming
+  to optimize buy and sell actions across markets like forex, stocks, and commodities.
+  This guide provides a comprehensive overview, from defining key Fibonacci concepts
+  to real-world applications, paving the way for innovative trading strategies.
+title: Fibonacci Retracements and Ratios (Algo Trading)
 ---
 
 Fibonacci retracement is a popular tool in technical analysis used to predict potential areas of support and resistance by utilizing horizontal lines. These lines correspond to the key Fibonacci levels before the price continues in the original direction. The primary Fibonacci levels are derived from the Fibonacci sequence, named after the Italian mathematician Leonardo of Pisa, known as Fibonacci. The sequence itself is a series of numbers where each number is the sum of the two preceding ones, starting from 0 and 1. The ratios used for analysis—23.6%, 38.2%, and 61.8%—are derived from this sequence due to their tendency to reflect support/resistance levels in financial markets.

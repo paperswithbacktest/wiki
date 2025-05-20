@@ -1,6 +1,9 @@
 ---
-title: "Broad-Based Weighted Average: Function and Example (Algo Trading)"
-description: "Explore the significance of broad-based weighted averages in finance and algorithmic trading for investment strategies and shareholder protection against dilution."
+category: quant_concept
+description: Explore the significance of broad-based weighted averages in finance
+  and algorithmic trading for investment strategies and shareholder protection against
+  dilution.
+title: 'Broad-Based Weighted Average: Function and Example (Algo Trading)'
 ---
 
 In finance, understanding the intricacies of weighted averages is crucial for making informed investment decisions. Weighted averages assign a different level of importance to each data point, which allows for a more nuanced analysis than simple averages. This results in more accurate financial insights, particularly useful in scenarios where data points have varying degrees of relevance.

@@ -1,6 +1,9 @@
 ---
-title: "Risks of Investing in Options (Algo Trading)"
-description: "Explore the risks associated with investing in options and algorithmic trading including market, liquidity, and counterparty risk for effective strategy execution."
+category: quant_concept
+description: Explore the risks associated with investing in options and algorithmic
+  trading including market, liquidity, and counterparty risk for effective strategy
+  execution.
+title: Risks of Investing in Options (Algo Trading)
 ---
 
 In finance, investment opportunities are abundant and varied, with options and derivatives playing a significant role. Financial derivatives, such as options, are innovative financial instruments that derive their value from an underlying asset, such as stocks, bonds, commodities, or interest rates. These derivatives offer unique avenues for investors seeking to enhance their portfolio's value through strategic use and can be tailored to suit a range of investment strategies and objectives.

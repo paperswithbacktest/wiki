@@ -1,6 +1,8 @@
 ---
-title: "Arguments for Privatizing Public Goods (Algo Trading)"
-description: "Explore the impact of privatization and algorithmic trading in shaping modern economics with insights on efficiency, market integrity, and societal equity."
+category: quant_concept
+description: Explore the impact of privatization and algorithmic trading in shaping
+  modern economics with insights on efficiency, market integrity, and societal equity.
+title: Arguments for Privatizing Public Goods (Algo Trading)
 ---
 
 Economic policy is a complex and evolving field, often reflecting the interplay between innovative practices and traditional economic structures. Two prominent aspects currently under scrutiny are the privatization of public goods and the use of algorithmic trading in financial markets. This article aims to explore how these phenomena are shaping modern economic landscapes.

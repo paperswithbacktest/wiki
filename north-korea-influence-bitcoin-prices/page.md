@@ -1,6 +1,8 @@
 ---
-title: "North Korea and Its Influence on Bitcoin Prices (Algo Trading)"
-description: "Explore the complex relationship between North Korea and Bitcoin markets focusing on how its strategies impact prices and global economic security considerations."
+category: trading_strategy
+description: Explore the complex relationship between North Korea and Bitcoin markets
+  focusing on how its strategies impact prices and global economic security considerations.
+title: North Korea and Its Influence on Bitcoin Prices (Algo Trading)
 ---
 
 Bitcoin and other cryptocurrencies have introduced a new dynamic to the field of international economics, providing a decentralized alternative to traditional financial systems. This new financial technology plays a significant role in global economics due to its potential for cross-border transactions without centralized oversight. Nations, both large and small, recognize the transformative power of cryptocurrencies, leading to varied adoption strategies that reflect economic, regulatory, and geopolitical considerations.

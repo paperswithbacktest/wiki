@@ -1,6 +1,9 @@
 ---
-title: "Regulation N: Overview and Application (Algo Trading)"
-description: "Explore the key components of Regulation N and its impact on advertising in the financial sector alongside essential regulations for algorithmic trading compliance."
+category: quant_concept
+description: Explore the key components of Regulation N and its impact on advertising
+  in the financial sector alongside essential regulations for algorithmic trading
+  compliance.
+title: 'Regulation N: Overview and Application (Algo Trading)'
 ---
 
 In today's dynamic financial landscape, consumer protection and regulatory compliance are more important than ever. As financial markets continue to evolve rapidly due to technological advancements, ensuring the protection of consumers and maintaining market integrity has become paramount. This article examines the intersection of consumer protection, advertising laws, and algorithmic trading, highlighting the intricate web of regulations that financial institutions must navigate.

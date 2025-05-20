@@ -1,6 +1,9 @@
 ---
-title: "Force Index: Overview and Limitations (Algo Trading)"
-description: "Explore the Force Index a key tool for traders that blends price and volume to gauge market strength learn its calculation benefits and limitations in trading."
+category: quant_concept
+description: Explore the Force Index a key tool for traders that blends price and
+  volume to gauge market strength learn its calculation benefits and limitations in
+  trading.
+title: 'Force Index: Overview and Limitations (Algo Trading)'
 ---
 
 Technical analysis is fundamental to contemporary trading practices, serving as a crucial means for traders to glean insights into market trends and potential inflection points by examining historical price and volume data. Among the diverse array of technical indicators used in this analysis, the Force Index is particularly noteworthy due to its distinctive capability to quantify the strength behind price movements. This indicator was developed by Alexander Elder, a well-respected figure in the field of technical analysis, and it effectively integrates both price and volume data to deliver a comprehensive perspective on the buying and selling pressures present in the market.

@@ -1,6 +1,8 @@
 ---
-title: "Stock Certificate History (Algo Trading)"
-description: "Explore the evolution from physical stock certificates to digital records and the rise of algorithmic trading Learn about modern investment tools and strategies"
+category: quant_concept
+description: Explore the evolution from physical stock certificates to digital records
+  and the rise of algorithmic trading Learn about modern investment tools and strategies
+title: Stock Certificate History (Algo Trading)
 ---
 
 In the ever-evolving world of finance, understanding the transformation of investment tools and strategies is crucial for both established investors and newcomers in the financial markets. Historically, stock certificates served as tangible proof of ownership in companies, symbolizing an investor's stake and rights within the enterprise. These certificates featured essential information including the shareholder’s name, the number of shares owned, and the date of issuance. Over time, technological advancements have transitioned these physical documents into electronic records, significantly streamlining the process of ownership transfer and record-keeping in the stock market. This shift not only increased efficiency but also transformed how investors interact with their portfolios.
@@ -125,4 +127,3 @@ David Aronson's 'Evidence-Based Technical Analysis: Applying the Scientific Meth
 'Machine Learning for Algorithmic Trading' by Stefan Jansen provides practical insights into leveraging machine learning techniques in trading strategies. The book covers a wide range of topics, from data processing and feature selection to implementing ML models for predictive analytics. This resource is invaluable for traders seeking to integrate sophisticated machine learning tools into their investment processes.
 
 Ernest P. Chan's 'Quantitative Trading: How to Build Your Own Algorithmic Trading Business' serves as a practical guide for aspiring quantitative traders. It covers various aspects of setting up and managing an algorithmic trading venture, from strategy development to risk management and performance evaluation. Chan's work is instrumental for those looking to build or refine a [quantitative trading](/wiki/quantitative-trading) business using advanced computational techniques.
-

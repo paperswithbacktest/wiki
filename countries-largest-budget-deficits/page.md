@@ -1,6 +1,8 @@
 ---
-title: "Countries with Largest Budget Deficits (Algo Trading)"
-description: "Discover insights on countries with the largest budget deficits and how algorithmic trading is shaping fiscal strategies in today's global economy."
+category: dataset
+description: Discover insights on countries with the largest budget deficits and how
+  algorithmic trading is shaping fiscal strategies in today's global economy.
+title: Countries with Largest Budget Deficits (Algo Trading)
 ---
 
 In today's interconnected global economy, budget deficits are prevalent among many countries. A budget deficit occurs when a government's expenditures exceed its revenue within a particular fiscal period, necessitating borrowing to cover the shortfall and often leading to an increase in national debt. The persistent occurrence of budget deficits can have significant implications for fiscal stability and influence the global economic landscape. 

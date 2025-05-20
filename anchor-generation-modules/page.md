@@ -1,7 +1,8 @@
 ---
-title: Understanding Anchor Generation Modules in Object Detection
+category: quant_concept
 description: Anchor Generation Modules use guided anchoring and probabilistic assignments
   to improve object detection accuracy and efficiency Discover more inside.
+title: Understanding Anchor Generation Modules in Object Detection
 ---
 
 ![Image](images/1.png)

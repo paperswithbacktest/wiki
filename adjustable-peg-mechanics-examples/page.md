@@ -1,6 +1,9 @@
 ---
-title: "Adjustable Peg: Mechanics and Examples (Algo Trading)"
-description: "Explore adjustable peg exchange rates and their role in algo trading Learn how these systems maintain currency stability while enabling efficient market strategies"
+category: quant_concept
+description: Explore adjustable peg exchange rates and their role in algo trading
+  Learn how these systems maintain currency stability while enabling efficient market
+  strategies
+title: 'Adjustable Peg: Mechanics and Examples (Algo Trading)'
 ---
 
 In the ever-evolving landscape of global finance, exchange rates play a pivotal role in determining economic health and international trade dynamics. Among various exchange rate regimes, the adjustable peg exchange rate system stands out due to its unique blend of fixed and flexible characteristics. This system allows a country's currency value to be pegged to a major foreign currency, such as the US dollar or the euro, while permitting occasional adjustments to address economic disparities or market pressures.

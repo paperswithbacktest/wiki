@@ -1,7 +1,8 @@
 ---
-title: Spreadsheet Formula Prediction Models for Faster Workflows
+category: quant_concept
 description: Spreadsheet Formula Prediction Models speed up data analysis by suggesting
   relevant formulas based on your spreadsheet entries. Discover more inside.
+title: Spreadsheet Formula Prediction Models for Faster Workflows
 ---
 
 ![Image](images/1.png)

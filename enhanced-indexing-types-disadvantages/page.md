@@ -1,6 +1,9 @@
 ---
-title: "Enhanced Indexing: Types and Disadvantages (Algo Trading)"
-description: "Explore the types and disadvantages of enhanced indexing in algorithmic trading Learn about traditional vs enhanced methods and optimize your investment strategy"
+category: trading_strategy
+description: Explore the types and disadvantages of enhanced indexing in algorithmic
+  trading Learn about traditional vs enhanced methods and optimize your investment
+  strategy
+title: 'Enhanced Indexing: Types and Disadvantages (Algo Trading)'
 ---
 
 Indexing in investments involves replicating the performance of a specific market index, such as the S&P 500 or the Dow Jones Industrial Average. This strategy is integral to portfolio management, allowing investors to align their investments with the broader market's performance. Indexing serves as a cornerstone in investment management, providing a framework for varied investment strategies that aim to mimic the market return rather than outperform it. 

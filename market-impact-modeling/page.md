@@ -1,6 +1,8 @@
 ---
-title: "market impact modeling (Algo Trading)"
-description: "Optimize algorithmic trading strategies by mastering market impact modeling Learn how to minimize costs and maximize profits through informed trading decisions"
+category: quant_concept
+description: Optimize algorithmic trading strategies by mastering market impact modeling
+  Learn how to minimize costs and maximize profits through informed trading decisions
+title: market impact modeling (Algo Trading)
 ---
 
 In the fast-paced world of algorithmic trading, understanding the nuances of market impact is crucial for traders looking to optimize their strategies. Market impact refers to the change in a security's price resulting from the execution of a trade, and it plays a pivotal role in trading performance. Large orders can cause adverse price movements, pushing prices up when buying and down when selling, thereby increasing trading costs. For institutional traders handling significant volumes, the ability to manage these costs is paramount.

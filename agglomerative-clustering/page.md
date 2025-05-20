@@ -1,7 +1,8 @@
 ---
-title: Understanding Agglomerative Clustering for Hierarchical Analysis
+category: quant_concept
 description: Agglomerative Clustering builds a dendrogram through hierarchical merging
   to uncover patterns and cluster structure in your data Discover more inside
+title: Understanding Agglomerative Clustering for Hierarchical Analysis
 ---
 
 ![Image](images/1.png)

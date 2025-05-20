@@ -1,6 +1,14 @@
 ---
-title: "Supertrend Indicator Explained (Algo Trading)"
-description: The Supertrend indicator is a vital tool for traders in identifying and responding to market trends effectively. It utilizes the Average True Range and a user-defined multiplier to generate clear buy and sell signals based on market volatility. Its simplicity, coupled with adaptability, makes it popular for both manual and algorithmic trading strategies, allowing for seamless automation of trade executions in line with real-time data. Traders benefit from its straightforward implementation, making it a favored choice for optimizing trading strategies and enhancing decision-making.
+category: trading_strategy
+description: The Supertrend indicator is a vital tool for traders in identifying and
+  responding to market trends effectively. It utilizes the Average True Range and
+  a user-defined multiplier to generate clear buy and sell signals based on market
+  volatility. Its simplicity, coupled with adaptability, makes it popular for both
+  manual and algorithmic trading strategies, allowing for seamless automation of trade
+  executions in line with real-time data. Traders benefit from its straightforward
+  implementation, making it a favored choice for optimizing trading strategies and
+  enhancing decision-making.
+title: Supertrend Indicator Explained (Algo Trading)
 ---
 
 The Supertrend indicator is a widely recognized technical analysis tool used by traders to identify price trends and generate trading signals. It has gained popularity due to its simplicity and effectiveness in providing clear buy and sell signals based on market volatility. Developed by Oliver Seban, the Supertrend indicator primarily relies on the Average True Range (ATR) and a user-defined multiplier to determine the trend direction. This article provides a comprehensive understanding of the Supertrend indicator formula, especially in the context of algorithmic trading.

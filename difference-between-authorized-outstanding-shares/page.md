@@ -1,6 +1,9 @@
 ---
-title: "Difference Between Authorized and Outstanding Shares (Algo Trading)"
-description: "Explore the critical distinctions between authorized and outstanding shares in stock trading for better corporate management strategy and informed investment decisions."
+category: quant_concept
+description: Explore the critical distinctions between authorized and outstanding
+  shares in stock trading for better corporate management strategy and informed investment
+  decisions.
+title: Difference Between Authorized and Outstanding Shares (Algo Trading)
 ---
 
 Understanding stock shares is essential for individuals involved in investing or managing a company. The stock market operates on the principle of buying and selling shares, which represent ownership interests in corporations. These shares are classified into categories such as authorized shares and outstanding shares, each playing a distinct role in the financial management and strategic planning of a company.

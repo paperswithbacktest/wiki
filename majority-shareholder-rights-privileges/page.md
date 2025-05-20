@@ -1,6 +1,9 @@
 ---
-title: "Majority Shareholder: Rights and Privileges (Algo Trading)"
-description: "Explore the dynamic relationship between majority shareholders, corporate governance, and algorithmic trading. Understand their impact on strategic decisions and shareholder rights."
+category: quant_concept
+description: Explore the dynamic relationship between majority shareholders, corporate
+  governance, and algorithmic trading. Understand their impact on strategic decisions
+  and shareholder rights.
+title: 'Majority Shareholder: Rights and Privileges (Algo Trading)'
 ---
 
 This article explores the intricate intersection between corporate governance, shareholder rights, majority shareholders, and algorithmic trading. These elements are pivotal in determining the strategic direction and operational accountability of corporations. As financial markets evolve, the roles and influences within this framework have become increasingly complex and interconnected.

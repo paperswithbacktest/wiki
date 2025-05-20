@@ -1,6 +1,8 @@
 ---
-title: "Data Curation (Algo Trading)"
-description: "Discover how data curation drives algorithmic trading by ensuring high-quality data for fast, precise decision-making with advanced AI and ML techniques."
+category: dataset
+description: Discover how data curation drives algorithmic trading by ensuring high-quality
+  data for fast, precise decision-making with advanced AI and ML techniques.
+title: Data Curation (Algo Trading)
 ---
 
 Algorithmic trading has transformed financial markets by leveraging mathematical models and computational algorithms to execute trades at speeds and frequencies beyond human capabilities. This evolution traces its origins back to the 1970s with Simple Moving Averages (SMA) for market analysis and progresses through to the present day with complex algorithmic systems that incorporate artificial intelligence (AI) and machine learning (ML).
@@ -142,4 +144,3 @@ Effective data curation remains the backbone of successful algorithmic trading o
 10. **Research Papers in Economics (RePEc).** [RePEc Database.](https://repec.org/) Access a comprehensive database of working papers, articles, and software components for in-depth research on economics and finance studies, crucial for developing an algorithmic trading foundation.
 
 These references provide a wealth of information on algorithmic trading and highlight the essential practices and technologies involved in data curation. They are fundamental resources for anyone interested in the intersection of finance, data science, and technology.
-

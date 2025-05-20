@@ -1,7 +1,8 @@
 ---
-title: Domain Adaptation Techniques for Machine Learning Models
+category: quant_concept
 description: Domain Adaptation empowers machine learning models to handle new data
   by aligning features across domains and minimizing retraining Discover more inside.
+title: Domain Adaptation Techniques for Machine Learning Models
 ---
 
 ![Image](images/1.png)

@@ -1,6 +1,9 @@
 ---
-title: "Principal Risk Measures and Their Functions (Algo Trading)"
-description: "Explore principal risk measures instrumental in algorithmic trading to optimize strategies minimize losses and maximize returns through effective risk management techniques."
+category: quant_concept
+description: Explore principal risk measures instrumental in algorithmic trading to
+  optimize strategies minimize losses and maximize returns through effective risk
+  management techniques.
+title: Principal Risk Measures and Their Functions (Algo Trading)
 ---
 
 The world of finance is characterized by volatility and unpredictability, making risk management an essential element in crafting successful investing or trading strategies. This article examines the intersection of financial risk management and algorithmic trading. It focuses on the key risk measures and the strategies that can be employed to enhance algorithmic trading operations.

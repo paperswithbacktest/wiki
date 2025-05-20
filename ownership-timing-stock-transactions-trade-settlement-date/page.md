@@ -1,6 +1,10 @@
 ---
-title: "Ownership Timing in Stock Transactions: Trade Date vs. Settlement Date (Algo Trading)"
-description: "Gain insights into stock trading by understanding trade and settlement dates. Learn their impact on ownership, strategies, and the role of algorithmic trading."
+category: quant_concept
+description: Gain insights into stock trading by understanding trade and settlement
+  dates. Learn their impact on ownership, strategies, and the role of algorithmic
+  trading.
+title: 'Ownership Timing in Stock Transactions: Trade Date vs. Settlement Date (Algo
+  Trading)'
 ---
 
 In the complex world of stock trading, understanding the nuances of trade and settlement dates is crucial. These dates define the timeline within which ownership and financial responsibilities are officially transferred between parties involved in a transaction. A trade date refers to when an order to buy or sell a security is executed, marking the initiation of the transaction. Meanwhile, the settlement date is when the legal transfer of ownership and funds occurs. The period between these two dates can significantly impact an investor's strategy and planning.

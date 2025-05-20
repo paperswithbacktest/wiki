@@ -1,6 +1,8 @@
 ---
-title: "Amazon Effect: Impact on Consumers and Market Statistics (Algo Trading)"
-description: "Explore the Amazon Effect and its transformative impact on consumer behavior and market dynamics, from reshaping expectations to driving growth in ecommerce."
+category: quant_concept
+description: Explore the Amazon Effect and its transformative impact on consumer behavior
+  and market dynamics, from reshaping expectations to driving growth in ecommerce.
+title: 'Amazon Effect: Impact on Consumers and Market Statistics (Algo Trading)'
 ---
 
 The 'Amazon Effect' refers to the significant changes in market dynamics brought about by Amazon's dominance in the ecommerce sector. This phenomenon has profoundly affected traditional retail, altering consumer behavior and even influencing algorithmic trading patterns. As Amazon has grown, it has reshaped consumer expectations regarding convenience, speed, and variety, prompting significant shifts across various economic sectors.

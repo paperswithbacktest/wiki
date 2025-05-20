@@ -1,6 +1,8 @@
 ---
-title: "Significance of Stock Trade Volume (Algo Trading)"
-description: "Learn about the significance of stock trade volume in the stock market and its application in algorithmic trading to improve strategy efficiency and decision-making."
+category: quant_concept
+description: Learn about the significance of stock trade volume in the stock market
+  and its application in algorithmic trading to improve strategy efficiency and decision-making.
+title: Significance of Stock Trade Volume (Algo Trading)
 ---
 
 The stock market is a complex and dynamic environment where numerous factors influence prices and trading decisions. One of the key indicators of market activity is stock or trade volume, which reflects the total number of shares traded over a specific period. Stock volume is often used by traders and investors to gain insights into the liquidity and movement of securities within the market. A comprehensive understanding of stock volume can be crucial in discerning market trends and gauging investor sentiment.

@@ -1,6 +1,8 @@
 ---
-title: "Dear Money: Definition and Function, Real Interest Rate (Algo Trading)"
-description: "Discover how 'real interest rate', 'dear money', economics, and algorithmic trading shape financial markets, impacting borrowing, investments, and trading strategies."
+category: quant_concept
+description: Discover how 'real interest rate', 'dear money', economics, and algorithmic
+  trading shape financial markets, impacting borrowing, investments, and trading strategies.
+title: 'Dear Money: Definition and Function, Real Interest Rate (Algo Trading)'
 ---
 
 In this article, we explore the interconnected terms 'real interest rate', 'dear money', 'economics', and 'algorithmic trading'. Each of these elements plays a critical role in shaping modern financial markets. The real interest rate is a key indicator of economic health, impacting borrowing costs and investment decisions. It is calculated by adjusting the nominal interest rate for inflation, usually represented in the formula:

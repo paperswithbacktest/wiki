@@ -1,6 +1,9 @@
 ---
-title: "Average Propensity to Save (Algo Trading)"
-description: "Discover the significance of the Average Propensity to Save and its role in economic stability and growth through algorithmic trading insights and fiscal policy impacts."
+category: quant_concept
+description: Discover the significance of the Average Propensity to Save and its role
+  in economic stability and growth through algorithmic trading insights and fiscal
+  policy impacts.
+title: Average Propensity to Save (Algo Trading)
 ---
 
 Saving is a crucial component of economic stability and is well-represented by the average propensity to save (APS). This economic term describes the percentage of income saved by households rather than consumed. APS plays a fundamental role in personal finance, economic growth, and investment. It provides insight into how societies allocate resources between present consumption and future investment. By understanding APS, one can gauge the economic health of a society and its tendencies towards saving versus spending.

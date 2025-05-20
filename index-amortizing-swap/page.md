@@ -1,6 +1,9 @@
 ---
-title: "Index Amortizing Swap (Algo Trading)"
-description: "Explore the intricacies of Index Amortizing Swaps (IAS) and algorithmic trading Learn how IAS offers innovative risk management in dynamic interest rate environments"
+category: quant_concept
+description: Explore the intricacies of Index Amortizing Swaps (IAS) and algorithmic
+  trading Learn how IAS offers innovative risk management in dynamic interest rate
+  environments
+title: Index Amortizing Swap (Algo Trading)
 ---
 
 Financial derivatives are complex financial instruments whose values are derived from underlying assets such as stocks, bonds, interest rates, or market indices. These instruments are essential tools for risk management, allowing participants to hedge against price fluctuations, or even speculate for potential financial gains. Among the various types of derivatives, the Index Amortizing Swap (IAS) stands as a sophisticated variant, particularly utilized for its remarkable flexibility in handling interest rate exposures.

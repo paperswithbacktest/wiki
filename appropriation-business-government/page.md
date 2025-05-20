@@ -1,6 +1,11 @@
 ---
-title: "Appropriation in Business and Government (Algo Trading)"
-description: "Explore the intricate connections between business finance, government budgeting, and advanced trading techniques in the modern financial landscape. Learn how strategic resource allocation, public policy decisions, and algorithmic trading influence economic stability and growth. Discover tools for anticipating market trends and making informed decisions in a data-driven financial ecosystem."
+category: quant_concept
+description: Explore the intricate connections between business finance, government
+  budgeting, and advanced trading techniques in the modern financial landscape. Learn
+  how strategic resource allocation, public policy decisions, and algorithmic trading
+  influence economic stability and growth. Discover tools for anticipating market
+  trends and making informed decisions in a data-driven financial ecosystem.
+title: Appropriation in Business and Government (Algo Trading)
 ---
 
 The modern financial landscape is characterized by intricate connections between business finance, government budgeting, and advanced trading techniques. These interwoven elements form the backbone of today's economy, guiding both microeconomic and macroeconomic decisions. The interplay between these areas is crucial for understanding and navigating the complexities of financial markets and economic policies.

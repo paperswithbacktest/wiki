@@ -1,6 +1,9 @@
 ---
-title: "Comparison of Municipal Bonds and Money Market Funds (Algo Trading)"
-description: "Explore the key differences between municipal bonds and money market funds for optimized investment strategies Learn how algorithmic trading enhances these options"
+category: trading_strategy
+description: Explore the key differences between municipal bonds and money market
+  funds for optimized investment strategies Learn how algorithmic trading enhances
+  these options
+title: Comparison of Municipal Bonds and Money Market Funds (Algo Trading)
 ---
 
 Understanding financial instruments is crucial for any investor looking to optimize their portfolio. In an ever-evolving financial landscape, two popular investment vehicles are money market funds and municipal bonds. Each offers a unique set of characteristics, risks, and potential benefits that can complement different investment strategies. 

@@ -1,6 +1,9 @@
 ---
-title: "Barcelona Stock Exchange: Overview and Functionality (Algo Trading)"
-description: "Discover the Barcelona Stock Exchange, Spain's financial hub since 1915, enhancing market liquidity and efficiency with advanced electronic and algorithmic trading."
+category: quant_concept
+description: Discover the Barcelona Stock Exchange, Spain's financial hub since 1915,
+  enhancing market liquidity and efficiency with advanced electronic and algorithmic
+  trading.
+title: 'Barcelona Stock Exchange: Overview and Functionality (Algo Trading)'
 ---
 
 The Barcelona Stock Exchange (BCN), established in 1915, is a cornerstone of Spain's financial landscape. Located in the bustling city of Barcelona, BCN provides a critical platform for the trading of a diverse array of financial products, including equities, derivatives, and fixed income instruments. By offering these varied financial services, BCN plays a key role in facilitating capital flow and liquidity within the Spanish market.

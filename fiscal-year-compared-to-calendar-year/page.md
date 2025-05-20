@@ -1,6 +1,11 @@
 ---
-title: "Fiscal Year Compared to Calendar Year (Algo Trading)"
-description: "Explore the critical differences between fiscal and calendar years in financial planning, particularly in the context of algorithmic trading. Learn how businesses leverage these timeframes to optimize market performance, tax management, and strategic alignment with industry cycles, enhancing efficiency and competitiveness in today's fast-paced financial environment."
+category: quant_concept
+description: Explore the critical differences between fiscal and calendar years in
+  financial planning, particularly in the context of algorithmic trading. Learn how
+  businesses leverage these timeframes to optimize market performance, tax management,
+  and strategic alignment with industry cycles, enhancing efficiency and competitiveness
+  in today's fast-paced financial environment.
+title: Fiscal Year Compared to Calendar Year (Algo Trading)
 ---
 
 In today's fast-paced financial landscape, understanding the nuances of fiscal and calendar years is crucial for effective financial planning. The rise of algorithmic trading has enriched the way businesses plan financially around these timeframes, offering robust solutions to maximize market performance. This article explores the intersection of calendar year, fiscal year, and financial planning within the framework of algorithmic trading.

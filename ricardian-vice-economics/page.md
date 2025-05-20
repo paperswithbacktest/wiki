@@ -1,6 +1,9 @@
 ---
-title: "Ricardian Vice in Economics (Algo Trading)"
-description: "Explore the concept of Ricardian vice in economics and its critique of oversimplified models, especially in the context of algorithmic trading and market complexities."
+category: quant_concept
+description: Explore the concept of Ricardian vice in economics and its critique of
+  oversimplified models, especially in the context of algorithmic trading and market
+  complexities.
+title: Ricardian Vice in Economics (Algo Trading)
 ---
 
 Ricardian vice is a concept in economics that refers to the potential pitfalls of constructing economic models based overly on abstract assumptions rather than reflecting real-world complexities. The term is associated with economist Joseph Schumpeter, who criticized the tendency to oversimplify in the creation of theoretical models that could lead to misleading or incomplete conclusions. This critique stems from the work of David Ricardo, a prominent British political economist in the early 19th century, whose contributions to economic theory, particularly the law of comparative advantage and labor theory of value, have been both influential and subject to scrutiny due to their reliance on simplified assumptions.

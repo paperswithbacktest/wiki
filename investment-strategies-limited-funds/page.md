@@ -1,6 +1,9 @@
 ---
-title: "Investment Strategies for Individuals with Limited Funds (Algo Trading)"
-description: "Explore effective investment strategies for individuals with limited funds focusing on algorithmic trading to optimize returns and build wealth through technology."
+category: trading_strategy
+description: Explore effective investment strategies for individuals with limited
+  funds focusing on algorithmic trading to optimize returns and build wealth through
+  technology.
+title: Investment Strategies for Individuals with Limited Funds (Algo Trading)
 ---
 
 Understanding the current financial landscape is crucial for both seasoned investors and newcomers. This understanding forms the foundation for making informed decisions in a world where financial markets are dynamic and increasingly democratized. One significant development in this landscape is the growing feasibility of investing with a low budget, an opportunity facilitated by innovative financial strategies and technological advancements.

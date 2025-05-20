@@ -1,6 +1,8 @@
 ---
-title: "Price Innovation Adjusted Earnings (Algo Trading)"
-description: "Explore the integration of adjusted earnings with algorithmic trading for better investment decisions by understanding company valuations and market dynamics."
+category: trading_strategy
+description: Explore the integration of adjusted earnings with algorithmic trading
+  for better investment decisions by understanding company valuations and market dynamics.
+title: Price Innovation Adjusted Earnings (Algo Trading)
 ---
 
 In the fast-evolving world of finance, integrating sophisticated metrics into investment strategies has become crucial. This requires an understanding of the interconnectedness between various financial elements, such as adjusted earnings, essential financial metrics, price innovation, and algorithmic trading. These components act as foundational pillars that allow investors to make informed decisions, providing comprehensive insights into a company's value and performance.

@@ -1,6 +1,8 @@
 ---
-title: "Executive Order on Promotion of U.S. Economic Competition (Algo Trading)"
-description: "The executive order promotes fair competition in the U.S. economy, impacting sectors like algo trading while addressing monopolistic practices and market access."
+category: quant_concept
+description: The executive order promotes fair competition in the U.S. economy, impacting
+  sectors like algo trading while addressing monopolistic practices and market access.
+title: Executive Order on Promotion of U.S. Economic Competition (Algo Trading)
 ---
 
 The U.S. economy, one of the world's largest and most intricate systems, is constantly molded by an interplay of governmental policies, market forces, and technological innovations. Among the tools available to U.S. presidents, executive orders are pivotal in directing economic strategy, especially in fostering healthy competition and regulating diverse industries. With the aim of ensuring a fair and balanced marketplace, recent executive orders have targeted issues such as monopolistic practices and corporate consolidation.

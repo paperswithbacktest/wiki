@@ -1,6 +1,9 @@
 ---
-title: "Impact of Dividend Distributions on Additional Paid-In Capital (Algo Trading)"
-description: "Explore the impact of dividend distributions on additional paid-in capital in algo trading. Learn how these elements shape financial strategies and investor decisions."
+category: quant_concept
+description: Explore the impact of dividend distributions on additional paid-in capital
+  in algo trading. Learn how these elements shape financial strategies and investor
+  decisions.
+title: Impact of Dividend Distributions on Additional Paid-In Capital (Algo Trading)
 ---
 
 In the ever-evolving world of corporate finance, understanding key financial concepts is essential for both businesses and investors. The landscape is shaped by a complex interplay of dividend distributions, additional paid-in capital (APIC), corporate finance strategies, and algorithmic trading methodologies. The interactions among these elements influence a company's strategic direction, market performance, and the decisions made by investors. 

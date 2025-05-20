@@ -1,6 +1,9 @@
 ---
-title: "Consent Solicitation (Algo Trading)"
-description: "Explore how consent solicitation, debt restructuring, and algorithmic trading interconnect to enhance financial stability, offering flexibility in navigating complex markets."
+category: quant_concept
+description: Explore how consent solicitation, debt restructuring, and algorithmic
+  trading interconnect to enhance financial stability, offering flexibility in navigating
+  complex markets.
+title: Consent Solicitation (Algo Trading)
 ---
 
 The financial world is intricate, comprising various processes and agreements that facilitate both business operations and investment activities. Among these, consent solicitation and debt restructuring stand out as critical mechanisms that often work together to stabilize situations of financial distress. 

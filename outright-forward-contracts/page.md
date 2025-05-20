@@ -1,6 +1,8 @@
 ---
-title: "Outright Forward Contracts (Algo Trading)"
-description: "Discover how outright forward contracts in forex markets help manage currency risk by locking in future rates and how algorithmic trading boosts efficiency."
+category: quant_concept
+description: Discover how outright forward contracts in forex markets help manage
+  currency risk by locking in future rates and how algorithmic trading boosts efficiency.
+title: Outright Forward Contracts (Algo Trading)
 ---
 
 Foreign exchange forward contracts are fundamental instruments in financial markets used to lock in exchange rates for the purchase or sale of a currency at a future date. These contracts enable businesses and investors to manage foreign currency exposure by mitigating risks associated with fluctuating exchange rates. A typical forward contract specifies the amount of currency to be exchanged, the agreed-upon exchange rate, and the settlement date, which is usually more than two business days in the future.

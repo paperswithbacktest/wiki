@@ -1,6 +1,8 @@
 ---
-title: "2015 Chinese Stock Market Turmoil: Causes and Effects (Algo Trading)"
-description: "Explore the causes and effects of the 2015 Chinese stock market turmoil Learn how algorithmic trading influenced this financial crisis and its global impact"
+category: quant_concept
+description: Explore the causes and effects of the 2015 Chinese stock market turmoil
+  Learn how algorithmic trading influenced this financial crisis and its global impact
+title: '2015 Chinese Stock Market Turmoil: Causes and Effects (Algo Trading)'
 ---
 
 In 2015, the Chinese stock market experienced significant turbulence, culminating in a financial crisis that sent shockwaves through global economies. At the beginning of the year, the market was characterized by rapid growth, fueled by a surge in investor enthusiasm and an optimistic economic outlook. Chinese equities were soaring, with the Shanghai Composite Index peaking in June 2015, reflecting a more than 150% increase from the previous year.

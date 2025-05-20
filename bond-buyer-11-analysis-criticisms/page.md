@@ -1,6 +1,8 @@
 ---
-title: "Bond Buyer 11: Analysis and Criticisms (Algo Trading)"
-description: "Explore the dynamics of the Bond Buyer 11 index and algorithmic trading in the municipal bond market Discover how they shape investment strategies and yields"
+category: quant_concept
+description: Explore the dynamics of the Bond Buyer 11 index and algorithmic trading
+  in the municipal bond market Discover how they shape investment strategies and yields
+title: 'Bond Buyer 11: Analysis and Criticisms (Algo Trading)'
 ---
 
 Municipal bonds, often referred to as 'munis,' represent a significant segment of fixed-income investments, primarily issued by local and state governments to secure funding for public infrastructure projects such as schools, roads, and hospitals. One of the main attractions for investors is their tax-exempt status, which generally exempts interest income from federal income tax, and sometimes state and local taxes if the investor resides in the state of issuance. This tax advantage can lead to a higher effective yield than comparable taxable bonds.

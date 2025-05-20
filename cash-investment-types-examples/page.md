@@ -1,6 +1,8 @@
 ---
-title: "Cash Investment Types and Examples (Algo Trading)"
-description: "Explore cash investment strategies and algorithmic trading methods including benefits and drawbacks with examples to optimize your financial decisions."
+category: trading_strategy
+description: Explore cash investment strategies and algorithmic trading methods including
+  benefits and drawbacks with examples to optimize your financial decisions.
+title: Cash Investment Types and Examples (Algo Trading)
 ---
 
 The financial world is vast and often confusing, full of opportunities for growth as well as pitfalls. Investors are faced with a myriad of choices when it comes to allocating their resources, with cash investments and algorithmic trading representing two distinctly different approaches. Each of these investment strategies offers unique benefits and drawbacks, making it imperative for investors to understand these options thoroughly.
@@ -215,4 +217,3 @@ For those interested in deepening their understanding of the intersection betwee
 Online resources such as **Investopedia** and **Pocketful** provide accessible and regularly updated information on financial concepts and algorithmic trading techniques. These platforms cover a wide range of topics, from basic financial principles to more advanced trading algorithms, offering user-friendly guides, tutorials, and articles to cater to various levels of expertise.
 
 These resources collectively equip investors and traders with the tools and knowledge required to effectively combine cash investments with sophisticated algorithmic trading strategies, enabling strategic growth and optimal financial decision-making.
-

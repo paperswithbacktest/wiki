@@ -1,6 +1,8 @@
 ---
-title: "Gemini Exchange: History and Services (Algo Trading)"
-description: "Explore the robust services of Gemini Exchange known for its secure crypto trading platform emphasizing algo trading features and regulatory compliance."
+category: dataset
+description: Explore the robust services of Gemini Exchange known for its secure crypto
+  trading platform emphasizing algo trading features and regulatory compliance.
+title: 'Gemini Exchange: History and Services (Algo Trading)'
 ---
 
 Gemini Exchange, a recognized entity within the cryptocurrency domain, provides a robust platform designed for trading and financial services. Established in 2014 by the Winklevoss twins, Cameron and Tyler, Gemini has successfully distinguished itself through a rigorous emphasis on security and user-friendly functionalities. As a trusted exchange, Gemini attracts a diverse clientele by ensuring compliance with regulatory standards and integrating advanced security measures, such as cryptographic norms and multi-factor authentication, to safeguard user assets.

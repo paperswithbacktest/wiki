@@ -1,6 +1,8 @@
 ---
-title: "Imperfect Markets: Types and Consequences (Algo Trading)"
-description: "Explore the types and consequences of imperfect markets in algorithmic trading where market inefficiencies challenge the idealized notion of perfect competition."
+category: quant_concept
+description: Explore the types and consequences of imperfect markets in algorithmic
+  trading where market inefficiencies challenge the idealized notion of perfect competition.
+title: 'Imperfect Markets: Types and Consequences (Algo Trading)'
 ---
 
 In economics, the notion of perfect markets is primarily theoretical. These idealized markets are characterized by numerous buyers and sellers, homogeneous products, and perfect information, where no participant can influence prices or market outcomes. However, real-world markets rarely align with these conditions, often operating under imperfect conditions due to various inefficiencies and deviations from the perfect market model.

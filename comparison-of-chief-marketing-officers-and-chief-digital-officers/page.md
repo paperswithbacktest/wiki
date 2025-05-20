@@ -1,6 +1,9 @@
 ---
-title: "Comparison of Chief Marketing Officers and Chief Digital Officers (Algo Trading)"
-description: "Explore the distinct roles of Chief Digital Officers and Chief Marketing Officers in optimizing algorithmic trading through digital innovation and market strategies."
+category: quant_concept
+description: Explore the distinct roles of Chief Digital Officers and Chief Marketing
+  Officers in optimizing algorithmic trading through digital innovation and market
+  strategies.
+title: Comparison of Chief Marketing Officers and Chief Digital Officers (Algo Trading)
 ---
 
 In today's fast-paced digital world, the roles of Chief Digital Officer (CDO) and Chief Marketing Officer (CMO) have become increasingly important within organizations. These roles are crucial in steering businesses through the challenges and opportunities presented by digital technologies and the dynamic market landscape. CDOs are primarily responsible for driving the digital transformation of an organization, ensuring that digital technologies are integrated across all facets of business operations. CMOs, on the other hand, focus on creating and executing marketing strategies that bolster brand awareness and drive customer engagement.

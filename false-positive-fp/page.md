@@ -1,7 +1,8 @@
 ---
-title: Managing False Positives in Machine Learning Models
+category: quant_concept
 description: False Positives in machine learning hurt model accuracy and trust Discover
   how tuning thresholds and using ensembles cuts these errors Discover more inside
+title: Managing False Positives in Machine Learning Models
 ---
 
 ![Image](images/1.png)

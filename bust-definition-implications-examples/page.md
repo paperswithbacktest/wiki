@@ -1,6 +1,8 @@
 ---
-title: "Bust: Definition, Implications, and Examples (Algo Trading)"
-description: "Explore the intricate dynamics between economic downturns and algo trading Learn how these forces shape financial markets and strategic responses during recessions"
+category: quant_concept
+description: Explore the intricate dynamics between economic downturns and algo trading
+  Learn how these forces shape financial markets and strategic responses during recessions
+title: 'Bust: Definition, Implications, and Examples (Algo Trading)'
 ---
 
 Business downturns and economic cycles are inevitable phases of the global economy, characterized by periodic fluctuations in economic activity. These fluctuations often result in recessions, which are defined as significant declines in economic performance across economies lasting more than a few months. Understanding these cycles, particularly recessions, is vital for investors, businesses, and policymakers to navigate financial markets and devise effective strategies for economic resilience. Recessions are typically marked by a decrease in Gross Domestic Product (GDP), rising unemployment, and a slump in consumer spending and investment.

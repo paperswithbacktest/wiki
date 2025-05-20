@@ -1,9 +1,11 @@
 ---
-title: "How to Trade Emini Futures?"
-description: "Discover the history, basics, advantages, and preparation for trading Emini futures—capital-efficient, flexible, accessible derivatives with lower initial capital requirements. Ideal for both novice and experienced traders. Learn how Eminis provide precision in risk management and around-the-clock trading opportunities."
+category: trading_strategy
+description: Discover the history, basics, advantages, and preparation for trading
+  Emini futures—capital-efficient, flexible, accessible derivatives with lower initial
+  capital requirements. Ideal for both novice and experienced traders. Learn how Eminis
+  provide precision in risk management and around-the-clock trading opportunities.
+title: How to Trade Emini Futures?
 ---
-
-
 
 Emini futures, often simply termed as "E-minis", are standardized futures contracts that represent a fraction of the value of a corresponding standard futures contract. These financial instruments have become increasingly popular among traders, both novice and experienced, due to their lower cost and ease of access compared to their standard counterparts. Initially introduced by the Chicago Mercantile Exchange (CME) in 1997, E-minis were developed to cater to individual traders, allowing for electronic trading of the S&P 500 index futures. Since then, their array has expanded to cover several indexes, commodities, and currencies.
 

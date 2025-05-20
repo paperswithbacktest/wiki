@@ -1,6 +1,9 @@
 ---
-title: "Custody-Only Trading: Overview and Challenges (Algo Trading)"
-description: "Explore the contrasting methodologies of custody-only trading and algorithmic trading highlighting their unique advantages and limitations in the evolving financial landscape."
+category: trading_strategy
+description: Explore the contrasting methodologies of custody-only trading and algorithmic
+  trading highlighting their unique advantages and limitations in the evolving financial
+  landscape.
+title: 'Custody-Only Trading: Overview and Challenges (Algo Trading)'
 ---
 
 In recent years, trading strategies have evolved to meet the demands of a rapidly changing financial landscape. With innovations like algorithmic trading, the way trades are conducted has fundamentally shifted, offering unprecedented speed and efficiency in executing transactions. This technological advancement has leveraged sophisticated algorithms capable of processing vast amounts of data in real time, making it possible for traders to react instantaneously to market changes.

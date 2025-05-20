@@ -1,7 +1,8 @@
 ---
-title: "Pure Discount Instruments (Algo Trading)"
-description: "Explore the synergy between pure discount bonds and algorithmic trading to optimize investment returns in today's fast-paced financial markets efficiently.
-"
+category: quant_concept
+description: 'Explore the synergy between pure discount bonds and algorithmic trading
+  to optimize investment returns in today''s fast-paced financial markets efficiently. '
+title: Pure Discount Instruments (Algo Trading)
 ---
 
 Financial instruments are essential tools in the world of investing, representing assets that can be traded. They encompass a broad spectrum, including equities, bonds, derivatives, and other contractual agreements, each designed to facilitate the raising of capital, transfer risk, or manage financial exposure. These instruments play a pivotal role in facilitating investment decisions, enabling investors to diversify portfolios, hedge against risks, and pursue returns based on varying risk appetites and investment strategies.

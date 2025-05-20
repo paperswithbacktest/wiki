@@ -1,6 +1,8 @@
 ---
-title: "Gwei in Cryptocurrency (Algo Trading)"
-description: "Explore the role of Gwei in Ethereum's algorithmic trading. Understand Gwei's impact on transaction costs and learn strategies to optimize trading profits."
+category: quant_concept
+description: Explore the role of Gwei in Ethereum's algorithmic trading. Understand
+  Gwei's impact on transaction costs and learn strategies to optimize trading profits.
+title: Gwei in Cryptocurrency (Algo Trading)
 ---
 
 Ethereum stands as a pioneering platform in the cryptocurrency sector, acting not only as a digital currency but as a robust framework facilitating a wide range of decentralized applications. Launched in 2015 by Vitalik Buterin and other co-founders, Ethereum introduced the world to the concept of smart contracts, allowing developers to create applications that automatically execute terms of agreement. Its native currency, Ether (ETH), serves as both a financial asset and a critical fuel for the network’s operations, setting it apart from other cryptocurrencies like Bitcoin.

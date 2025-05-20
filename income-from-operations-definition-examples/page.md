@@ -1,6 +1,8 @@
 ---
-title: "Income From Operations: Definition and Examples (Algo Trading)"
-description: "Discover the importance of income from operations in financial analysis and algorithmic trading to enhance business strategies and optimize investment decisions."
+category: quant_concept
+description: Discover the importance of income from operations in financial analysis
+  and algorithmic trading to enhance business strategies and optimize investment decisions.
+title: 'Income From Operations: Definition and Examples (Algo Trading)'
 ---
 
 In today's financial ecosystem, a thorough understanding of the interplay between income from operations, financial analysis, and algorithmic trading is crucial for investors and business leaders aiming to optimize their strategies. Income from operations, also known as operating income, offers a clear picture of a company's profitability by focusing solely on core business activities and excluding non-operational income. This specificity allows investors to assess the efficiency of a company's management and operational practices.
@@ -195,4 +197,4 @@ In summary, the alignment of operating income with financial analysis and algori
 
 [6]: Pardo, R. (2008). ["The Evaluation and Optimization of Trading Strategies"](https://onlinelibrary.wiley.com/doi/book/10.1002/9781119196969). Wiley. 
 
-[7]: Nagpal, G. (2015). ["A Guide to Creating A Successful Algorithmic Trading Strategy"](https://www.wiley.com/en-us/A+Guide+to+Creating+A+Successful+Algorithmic+Trading+Strategy-p-9781119224747). Nasdaq. 
+[7]: Nagpal, G. (2015). ["A Guide to Creating A Successful Algorithmic Trading Strategy"](https://www.wiley.com/en-us/A+Guide+to+Creating+A+Successful+Algorithmic+Trading+Strategy-p-9781119224747). Nasdaq.

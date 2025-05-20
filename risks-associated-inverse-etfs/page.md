@@ -1,6 +1,9 @@
 ---
-title: "Risks Associated with Inverse ETFs (Algo Trading)"
-description: "Explore the risks of inverse ETFs in algorithmic trading including their complexity volatility and short-term use. Essential insights for informed investment strategies"
+category: quant_concept
+description: Explore the risks of inverse ETFs in algorithmic trading including their
+  complexity volatility and short-term use. Essential insights for informed investment
+  strategies
+title: Risks Associated with Inverse ETFs (Algo Trading)
 ---
 
 Inverse ETFs, or Inverse Exchange-Traded Funds, are unique financial instruments designed to yield returns opposing a specific index or benchmark. These tools play a significant role in the financial markets, especially during market downturns when investors seek strategies to hedge against declining asset values. Unlike traditional ETFs that track and replicate the performance of an index, inverse ETFs use derivative instruments, such as swaps, futures, and options, to achieve returns that are opposite to the daily performance of a corresponding index.

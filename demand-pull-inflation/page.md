@@ -1,6 +1,9 @@
 ---
-title: "Demand-Pull Inflation (Algo Trading)"
-description: "Explore demand-pull inflation dynamics and its impact on economic trends alongside the role of algorithmic trading in shaping financial environments and market strategies."
+category: quant_concept
+description: Explore demand-pull inflation dynamics and its impact on economic trends
+  alongside the role of algorithmic trading in shaping financial environments and
+  market strategies.
+title: Demand-Pull Inflation (Algo Trading)
 ---
 
 Inflation economics, demand-pull dynamics, and algorithmic trading represent critical components of contemporary economic analysis. Each plays a significant role in shaping the financial environment, influencing investor decisions, and informing policy formulation. Understanding how these elements interact is essential for investors seeking profitable opportunities and policymakers aiming to maintain economic stability.

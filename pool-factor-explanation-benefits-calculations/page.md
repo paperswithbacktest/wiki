@@ -1,6 +1,8 @@
 ---
-title: "Pool Factor: Explanation, Benefits, and Calculations (Algo Trading)"
-description: "Explore pool factors in algorithmic trading to understand how they affect financial calculations and investment strategies. Learn their benefits and implementation."
+category: quant_concept
+description: Explore pool factors in algorithmic trading to understand how they affect
+  financial calculations and investment strategies. Learn their benefits and implementation.
+title: 'Pool Factor: Explanation, Benefits, and Calculations (Algo Trading)'
 ---
 
 Financial calculations are the backbone of the financial markets, shaping the frameworks through which financial decisions are made. This article provides a comprehensive examination of financial calculations and how they intersect with key components of modern finance, including securitization, pool factors, and algorithmic trading. By detailing their definitions, mechanics, and benefits, we aim to clarify their roles and significance.

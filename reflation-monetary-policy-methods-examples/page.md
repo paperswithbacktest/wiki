@@ -1,6 +1,9 @@
 ---
-title: "Reflation as Monetary Policy: Methods and Examples (Algo Trading)"
-description: "Explore how reflationary policies and monetary strategies impact algorithmic trading and financial markets emphasizing the integration of these crucial economic concepts."
+category: quant_concept
+description: Explore how reflationary policies and monetary strategies impact algorithmic
+  trading and financial markets emphasizing the integration of these crucial economic
+  concepts.
+title: 'Reflation as Monetary Policy: Methods and Examples (Algo Trading)'
 ---
 
 In the ever-evolving landscape of economics and finance, understanding the interplay between various economic methods and policies is crucial. The term 'reflation' is an important concept within the sphere of fiscal and monetary policy. It pertains to efforts aimed at stimulating economic activity following a period of slowdown or recession, focusing on expanding economic output and controlling the risk of deflation. These efforts often involve measures such as reducing taxes, lowering interest rates, and increasing the money supply to boost spending and investment, thereby accelerating economic growth.

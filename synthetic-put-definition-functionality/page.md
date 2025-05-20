@@ -1,6 +1,8 @@
 ---
-title: "Synthetic Put: Definition and Functionality (Algo Trading)"
-description: "Discover the power of synthetic puts in options trading Learn how these innovative strategies and algorithmic trading can optimize risk management and performance"
+category: quant_concept
+description: Discover the power of synthetic puts in options trading Learn how these
+  innovative strategies and algorithmic trading can optimize risk management and performance
+title: 'Synthetic Put: Definition and Functionality (Algo Trading)'
 ---
 
 Financial derivatives like options are integral to modern trading strategies, offering traders mechanisms to hedge risks and enhance returns. These instruments allow market participants to operate with flexibility, responding to diverse market conditions without definitively committing capital until necessary. An option provides the right, but not the obligation, to buy or sell an asset, helping traders implement various strategic goals such as risk management, income generation, or pure speculation. Options trading involves constructing complex and innovative strategies to control and manage market exposure, among which synthetic options stand out. These synthetic instruments creatively mimic other financial positions and offer unique pathways to achieve specific trading objectives.

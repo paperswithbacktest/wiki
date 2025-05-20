@@ -1,6 +1,8 @@
 ---
-title: "High Fees in Mutual Funds (Algo Trading)"
-description: "Learn how high fees in mutual funds, including management and 12b-1 fees, impact returns. Discover cost-saving strategies with ETFs and algo trading."
+category: quant_concept
+description: Learn how high fees in mutual funds, including management and 12b-1 fees,
+  impact returns. Discover cost-saving strategies with ETFs and algo trading.
+title: High Fees in Mutual Funds (Algo Trading)
 ---
 
 Investing provides a vast array of opportunities and strategies, each accompanied by its own set of costs and fees. Navigating these financial charges, particularly mutual fund fees and investment costs, is essential for maximizing returns. Comprehending these expenses allows investors to make informed decisions that align with their financial objectives.
@@ -162,4 +164,3 @@ U.S. Securities and Exchange Commission. "Mutual Funds and Exchange-Traded Funds
 Investment Company Institute. "Exchange-Traded Funds: A Guide to Understanding ETFs." This guide simplifies the complexities surrounding exchange-traded funds, emphasizing their cost-effectiveness and role in diversified investment strategies. It is beneficial for both novice and experienced investors.
 
 FINRA. "Algorithmic Trading: Pros and Cons." This publication explores the advantages and challenges of algorithmic trading, highlighting its role in reducing transaction costs and enhancing trade execution. Understanding algorithmic trading is vital for investors seeking to leverage technology in managing their investments efficiently.
-

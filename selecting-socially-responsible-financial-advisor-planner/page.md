@@ -1,6 +1,9 @@
 ---
-title: "Selecting a Socially Responsible Financial Advisor or Planner (Algo Trading)"
-description: "Choose a socially responsible financial advisor skilled in SRI and ethical finance Align investments with your values through expert guidance on ESG and impact strategies"
+category: trading_strategy
+description: Choose a socially responsible financial advisor skilled in SRI and ethical
+  finance Align investments with your values through expert guidance on ESG and impact
+  strategies
+title: Selecting a Socially Responsible Financial Advisor or Planner (Algo Trading)
 ---
 
 The landscape of investing and financial advisory services is undergoing significant transformation, marked by an increasing emphasis on ethical finance and socially responsible investing (SRI). This shift reflects a growing demand from investors to integrate ethical considerations into their financial decision-making processes. As traditional metrics of financial performance are paired with sustainable practices, investors are increasingly interested in how their investments impact the global community and environment.

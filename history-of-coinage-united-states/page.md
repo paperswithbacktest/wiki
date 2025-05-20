@@ -1,6 +1,8 @@
 ---
-title: "History of Coinage in the United States (Algo Trading)"
-description: "Explore the evolution of U.S. coinage and its connection to modern algorithmic trading highlighting the shift from physical currency to advanced trading technologies."
+category: quant_concept
+description: Explore the evolution of U.S. coinage and its connection to modern algorithmic
+  trading highlighting the shift from physical currency to advanced trading technologies.
+title: History of Coinage in the United States (Algo Trading)
 ---
 
 The evolution of financial markets and trading mechanisms has significantly influenced global economies, adapting to new technologies and economic conditions. One crucial aspect of this evolution is currency coinage, which has played a fundamental role in the economic development of the United States. Starting from the late 18th century, the establishment of a standardized currency system helped facilitate trade and economic growth. The Coinage Act of 1792 laid down the foundation for the U.S. Mint, setting the stage for a robust monetary framework based on the use of precious metals like gold, silver, and copper.

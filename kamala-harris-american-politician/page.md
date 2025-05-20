@@ -1,6 +1,8 @@
 ---
-title: "Kamala Harris: American Politician (Algo Trading)"
-description: "Explore Kamala Harris's political journey from her historic achievements to her influence on economic and financial policies including algorithmic trading."
+category: quant_concept
+description: Explore Kamala Harris's political journey from her historic achievements
+  to her influence on economic and financial policies including algorithmic trading.
+title: 'Kamala Harris: American Politician (Algo Trading)'
 ---
 
 Kamala Harris, the 49th Vice President of the United States, has made her mark in American politics through significant historic achievements. Her rise from a San Francisco prosecutor to U.S. Senator and ultimately to Vice President exemplifies a journey of resilience and dedication to public service. Harris's career is notably characterized by her pioneering roles and the diversity she brings to the political landscape, being the first African-American and South Asian-American Vice President. Her ascent in politics has inspired many across the nation by breaking barriers and advocating for justice and equality.

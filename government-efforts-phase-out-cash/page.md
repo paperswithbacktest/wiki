@@ -1,6 +1,9 @@
 ---
-title: "Government Efforts to Phase Out Cash (Algo Trading)"
-description: "Explore the worldwide shift towards a cashless society as governments embrace digital currencies and advanced algorithmic trading in the evolving financial landscape."
+category: quant_concept
+description: Explore the worldwide shift towards a cashless society as governments
+  embrace digital currencies and advanced algorithmic trading in the evolving financial
+  landscape.
+title: Government Efforts to Phase Out Cash (Algo Trading)
 ---
 
 The world is transitioning towards a cashless society, where digital currencies are becoming increasingly prominent. Governments globally are actively formulating policies to integrate these digital currencies into existing financial systems. This process involves addressing critical concerns such as security, transparency, and the overall integrity of financial transactions. Digital currencies, often underpinned by blockchain technology, offer a potential for more secure and efficient transactions, reducing reliance on physical cash and the issues associated with it.

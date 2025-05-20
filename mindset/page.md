@@ -1,9 +1,15 @@
 ---
-title: "Mindset: the Algo Trader's Psychology"
-description: "Discover the power of trading psychology and behavioral finance in your journey towards successful trading. In financial markets, understanding how emotions and biases influence decisions is crucial for navigating the complex labyrinth of trading. This comprehensive guide investigates into mastering a trader's mindset, drawing on research, expert insights, and practical experience. Explore key characteristics like flexibility, adaptability, and patience that distinguish winning traders, as well as how behavioral finance concepts such as loss aversion and confirmation bias impact trading decisions."
+category: quant_concept
+description: Discover the power of trading psychology and behavioral finance in your
+  journey towards successful trading. In financial markets, understanding how emotions
+  and biases influence decisions is crucial for navigating the complex labyrinth of
+  trading. This comprehensive guide investigates into mastering a trader's mindset,
+  drawing on research, expert insights, and practical experience. Explore key characteristics
+  like flexibility, adaptability, and patience that distinguish winning traders, as
+  well as how behavioral finance concepts such as loss aversion and confirmation bias
+  impact trading decisions.
+title: 'Mindset: the Algo Trader''s Psychology'
 ---
-
-
 
 In the fast-paced world of trading, where split-second decisions can mean the difference between profit and loss, one's mindset isn't just an edge—it's essential. At the heart of every successful trader lies a trifecta: psychology, discipline, and strategy. The psychology provides the foundational mindset, guiding how traders process information, manage emotions, and make decisions. Discipline ensures consistency, allowing traders to stick to their strategies even when emotions run high or markets behave erratically. And of course, the strategy gives traders a structured plan, a roadmap to navigate the intricate labyrinth of market variables.
 

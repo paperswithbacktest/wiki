@@ -1,6 +1,9 @@
 ---
-title: "Capitalization of Earnings and Rate Calculation (Algo Trading)"
-description: "Explore the capitalization of earnings method to assess a company's valuation and profitability by understanding future earnings and calculating the capitalization rate."
+category: quant_concept
+description: Explore the capitalization of earnings method to assess a company's valuation
+  and profitability by understanding future earnings and calculating the capitalization
+  rate.
+title: Capitalization of Earnings and Rate Calculation (Algo Trading)
 ---
 
 In finance, understanding the value of a business is crucial for informed decision-making. The capitalization of earnings method is a popular approach used by investors, financial analysts, and entrepreneurs to determine a company's valuation. This method evaluates a company's worth based on its ability to generate future earnings, transforming those anticipated earnings into present value. By focusing on potential profitability, this approach offers a comprehensive perspective on a company's financial health, taking into account both risk and return.

@@ -1,6 +1,8 @@
 ---
-title: "Average Directional Index: Trend Strength Indicator (Algo Trading)"
-description: "Discover how the Average Directional Index can enhance your trading strategy by identifying trend strength and improving decision-making in algorithmic trading."
+category: trading_strategy
+description: Discover how the Average Directional Index can enhance your trading strategy
+  by identifying trend strength and improving decision-making in algorithmic trading.
+title: 'Average Directional Index: Trend Strength Indicator (Algo Trading)'
 ---
 
 Understanding the dynamics of financial markets is crucial for traders, and technical analysis plays a pivotal role in this. By focusing on historical price and volume data, technical analysis aims to forecast future market movements, thus informing better trading decisions. A key component of technical analysis is trend indicators, which help identify the direction and strength of trends within the market. Among these, the Average Directional Index (ADX) stands out as a popular choice for traders seeking to understand market behavior more deeply.

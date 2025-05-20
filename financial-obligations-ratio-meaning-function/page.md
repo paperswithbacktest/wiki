@@ -1,6 +1,9 @@
 ---
-title: "Financial Obligations Ratio: Meaning and Function (Algo Trading)"
-description: "Explore the significance of the Financial Obligations Ratio in managing household debt burdens and its impact on algorithmic trading and financial health analysis."
+category: quant_concept
+description: Explore the significance of the Financial Obligations Ratio in managing
+  household debt burdens and its impact on algorithmic trading and financial health
+  analysis.
+title: 'Financial Obligations Ratio: Meaning and Function (Algo Trading)'
 ---
 
 In the rapidly evolving world of finance, the comprehension of key metrics such as financial ratios is crucial for analysts, investors, and automated trading systems. Financial ratios serve as foundational tools for assessing financial health, quantifying risk, and informing strategic decision-making. Among these, the Financial Obligations Ratio (FOR) stands out as a pivotal metric in analyzing household debt burdens. Produced by the Federal Reserve, FOR measures the proportion of household income committed to debt payments, providing insights into how debt affects disposable income and financial behavior.

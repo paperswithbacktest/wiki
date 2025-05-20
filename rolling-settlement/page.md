@@ -1,6 +1,8 @@
 ---
-title: "Rolling Settlement (Algo Trading)"
-description: "Learn about rolling settlement and its role in modern financial transactions Discover how it streamlines trade processing and enhances liquidity in algo trading"
+category: quant_concept
+description: Learn about rolling settlement and its role in modern financial transactions
+  Discover how it streamlines trade processing and enhances liquidity in algo trading
+title: Rolling Settlement (Algo Trading)
 ---
 
 Financial transactions are the fundamental exchanges of monetary value between entities, serving as the backbone of the trading and investment sectors. These transactions encompass a wide range of activities, including the buying and selling of securities, commodities, and real estate. They enable the efficient allocation of resources, support economic growth, and facilitate the transfer of risk and capital among market participants.

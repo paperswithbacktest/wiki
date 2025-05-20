@@ -1,6 +1,9 @@
 ---
-title: "Flexi-Cap Fund: Definition and Operation (Algo Trading)"
-description: "Explore the dynamic world of flexi-cap funds, offering diversified investment strategies through algorithmic trading for growth and risk management in volatile markets."
+category: quant_concept
+description: Explore the dynamic world of flexi-cap funds, offering diversified investment
+  strategies through algorithmic trading for growth and risk management in volatile
+  markets.
+title: 'Flexi-Cap Fund: Definition and Operation (Algo Trading)'
 ---
 
 Flexi-cap funds have gained prominence among investors due to their ability to offer diversification and adaptability within a single investment vehicle. These funds do not limit their investments to a particular market capitalization and instead allocate resources across large-cap, mid-cap, and small-cap stocks. This characteristic allows for a balanced exposure to different segments of the market, potentially mitigating risk and capitalizing on growth opportunities in various economic conditions.

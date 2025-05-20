@@ -1,6 +1,9 @@
 ---
-title: "10-Year US Treasury Note and Investment Benefits (Algo Trading)"
-description: "Explore the benefits of investing in 10-year U.S. Treasury Notes Their government-backed security, fixed returns, and algorithmic trading potential make them a key asset"
+category: quant_concept
+description: Explore the benefits of investing in 10-year U.S. Treasury Notes Their
+  government-backed security, fixed returns, and algorithmic trading potential make
+  them a key asset
+title: 10-Year US Treasury Note and Investment Benefits (Algo Trading)
 ---
 
 The 10-year U.S. Treasury Note holds a pivotal role in the financial sector, acting as a benchmark for assessing economic stability and influencing the pricing of various financial instruments. As a key component of the fixed-income securities market, these notes, often referred to as "T-notes," represent a promise by the U.S. government to pay back the borrowed amount with interest over a set period, in this case, ten years. Understanding these terms is crucial for investors attempting to navigate the complexities of financial markets.

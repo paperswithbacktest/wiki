@@ -1,6 +1,11 @@
 ---
-title: "Asset Classes (Algo Trading)"
-description: "Explore the diverse landscape of asset classes and the impact of algorithmic trading within financial markets. This article provides insights on maximizing returns and managing risks through strategic asset management. Discover various investment vehicles, including equities, fixed income, and digital assets, to enhance and diversify your portfolio for optimal financial outcomes."
+category: quant_concept
+description: Explore the diverse landscape of asset classes and the impact of algorithmic
+  trading within financial markets. This article provides insights on maximizing returns
+  and managing risks through strategic asset management. Discover various investment
+  vehicles, including equities, fixed income, and digital assets, to enhance and diversify
+  your portfolio for optimal financial outcomes.
+title: Asset Classes (Algo Trading)
 ---
 
 The financial landscape is an intricate and expansive domain, encompassing a wide array of investment strategies and trading techniques. These are meticulously designed to achieve the dual objectives of maximizing returns while minimizing associated risks. As investors navigate this complex environment, a myriad of investment vehicles and strategies come into play, each tailored to meet specific financial goals and risk appetites.

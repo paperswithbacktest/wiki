@@ -1,6 +1,9 @@
 ---
-title: "Coinjoin: Functionality and Privacy Considerations (Algo Trading)"
-description: "Explore CoinJoin's role in enhancing Bitcoin privacy and its integration in algorithmic trading Discover how it obscures transactions while optimizing trading strategies"
+category: quant_concept
+description: Explore CoinJoin's role in enhancing Bitcoin privacy and its integration
+  in algorithmic trading Discover how it obscures transactions while optimizing trading
+  strategies
+title: 'Coinjoin: Functionality and Privacy Considerations (Algo Trading)'
 ---
 
 The world of cryptocurrency is rapidly evolving, and among its many facets, privacy remains a top priority for users. Bitcoin, the most recognized cryptocurrency, is often perceived as a tool for anonymous transactions. However, this perception is misleading due to Bitcoin's transparent blockchain, where each transaction is recorded on a public ledger accessible to everyone. This transparency poses significant privacy challenges, as it allows for the tracing and identification of user activities through analysis of transaction patterns.

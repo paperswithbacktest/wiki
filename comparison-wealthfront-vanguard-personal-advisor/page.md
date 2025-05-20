@@ -1,6 +1,12 @@
 ---
-title: "Comparison of Wealthfront and Vanguard Personal Advisor (Algo Trading)"
-description: "Explore a detailed comparison of Wealthfront and Vanguard Personal Advisor Services, two prestigious investment platforms offering unique methods for wealth management. Discover Wealthfront's automated, tech-driven solutions appealing to modern investors, and Vanguard's blend of digital tools and personalized advice. This article dissects their features, focusing on algorithmic trading, to aid readers in choosing the platform that aligns with their financial goals."
+category: trading_strategy
+description: Explore a detailed comparison of Wealthfront and Vanguard Personal Advisor
+  Services, two prestigious investment platforms offering unique methods for wealth
+  management. Discover Wealthfront's automated, tech-driven solutions appealing to
+  modern investors, and Vanguard's blend of digital tools and personalized advice.
+  This article dissects their features, focusing on algorithmic trading, to aid readers
+  in choosing the platform that aligns with their financial goals.
+title: Comparison of Wealthfront and Vanguard Personal Advisor (Algo Trading)
 ---
 
 In today's financial landscape, investors are presented with a myriad of options to manage their wealth effectively. Among these, Wealthfront and Vanguard Personal Advisor stand out as two prominent platforms, each offering unique approaches to investment management. Wealthfront is renowned for its technology-driven, automated investment solutions, appealing to a new generation of investors who value digital experiences. On the other hand, Vanguard Personal Advisor combines automation with personalized human advice, leveraging its long-standing reputation in low-cost index funds to offer a robust advisory service. 

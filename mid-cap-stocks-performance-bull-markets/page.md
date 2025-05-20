@@ -1,6 +1,8 @@
 ---
-title: "Mid-Cap Stocks Performance in Bull Markets (Algo Trading)"
-description: "Discover how mid-cap stocks perform in bull markets and the role of algorithmic trading in enhancing returns Learn strategies for maximizing market gains"
+category: trading_strategy
+description: Discover how mid-cap stocks perform in bull markets and the role of algorithmic
+  trading in enhancing returns Learn strategies for maximizing market gains
+title: Mid-Cap Stocks Performance in Bull Markets (Algo Trading)
 ---
 
 The stock market is a dynamic and multifaceted entity, encompassing a myriad of stock types, sizes, and categories. This diversity presents both opportunities and challenges for investors. Each category of stock behaves differently under varying market conditions, making it crucial for investors to understand the specific characteristics and potential of the stocks they choose to invest in. Among these categories, mid-cap stocks have become increasingly popular due to their unique advantages. Mid-cap stocks represent companies that have reached a certain level of growth and stability, exhibiting characteristics that balance the potential for substantial returns with more manageable risks compared to their small-cap counterparts.

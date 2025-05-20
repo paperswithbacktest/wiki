@@ -1,6 +1,9 @@
 ---
-title: "Overview of Daedalus Wallet (Algo Trading)"
-description: "Explore the Daedalus Wallet a secure and feature-rich solution for ADA, offering full-node architecture and algorithmic trading insights for optimal crypto management."
+category: quant_concept
+description: Explore the Daedalus Wallet a secure and feature-rich solution for ADA,
+  offering full-node architecture and algorithmic trading insights for optimal crypto
+  management.
+title: Overview of Daedalus Wallet (Algo Trading)
 ---
 
 In cryptocurrency, Cardano has emerged as a significant player with its unique blockchain architecture. As a proof-of-stake blockchain platform, Cardano distinguishes itself by prioritizing security, scalability, and sustainability. Its innovative approach integrates peer-reviewed academic research into its design practices, presenting a robust framework for decentralized applications and financial services. Cardano's native cryptocurrency, ADA, has become a focal point for many investors who seek secure and efficient storage solutions.

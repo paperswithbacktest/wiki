@@ -1,7 +1,8 @@
 ---
-title: Understanding Autoencoding Transformers and Their Variants
+category: quant_concept
 description: Autoencoding Transformers enable models to reconstruct and denoise data
   efficiently across tasks like BERT T5 and RoBERTa Discover more inside.
+title: Understanding Autoencoding Transformers and Their Variants
 ---
 
 ![Image](images/1.png)

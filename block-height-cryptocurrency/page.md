@@ -1,6 +1,8 @@
 ---
-title: "Block Height in Cryptocurrency (Algo Trading)"
-description: "Discover how blockchain's block height impacts cryptocurrency networks and enhances algorithmic trading strategies by improving transaction verification."
+category: quant_concept
+description: Discover how blockchain's block height impacts cryptocurrency networks
+  and enhances algorithmic trading strategies by improving transaction verification.
+title: Block Height in Cryptocurrency (Algo Trading)
 ---
 
 Blockchain technology is revolutionizing how data is stored, verified, and transmitted across various sectors in modern technology. At its core, a blockchain is a decentralized and distributed digital ledger that records transactions across multiple devices, ensuring security, transparency, and immutability. This technology underlies numerous applications, especially in the field of finance and digital assets, forming the foundation upon which cryptocurrencies like Bitcoin and Ethereum operate. A crucial element within each blockchain is the concept of block height, a term that denotes the number of blocks in a chain, counting from the genesis block. Essentially, the block height provides an indication of the progress and size of a blockchain network, serving as a reference point for transactions and enabling a chronological order of events within the blockchain.

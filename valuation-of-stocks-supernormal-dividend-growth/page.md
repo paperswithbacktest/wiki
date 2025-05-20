@@ -1,6 +1,8 @@
 ---
-title: "Valuation of Stocks with Supernormal Dividend Growth (Algo Trading)"
-description: "Explore the intricacies of valuing stocks with supernormal dividend growth and discover how algorithmic trading strategies can optimize investment decisions."
+category: trading_strategy
+description: Explore the intricacies of valuing stocks with supernormal dividend growth
+  and discover how algorithmic trading strategies can optimize investment decisions.
+title: Valuation of Stocks with Supernormal Dividend Growth (Algo Trading)
 ---
 
 Understanding stock valuation is crucial for investors, especially when analyzing stocks with supernormal growth. Supernormal growth refers to a phase where a company's dividends increase at an unusually rapid pace, often driven by factors such as innovative products, significant market expansion, or unique competitive advantages. This phase presents a challenge for traditional valuation models, which typically assume a constant or predictable growth rate in dividends or earnings.

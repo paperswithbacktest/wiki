@@ -1,6 +1,8 @@
 ---
-title: "Risk Assessment of Asset-Backed Commercial Paper (Algo Trading)"
-description: "Dive into the world of asset-backed commercial paper and algorithmic trading to explore key investment risks and strategies for informed financial decisions."
+category: quant_concept
+description: Dive into the world of asset-backed commercial paper and algorithmic
+  trading to explore key investment risks and strategies for informed financial decisions.
+title: Risk Assessment of Asset-Backed Commercial Paper (Algo Trading)
 ---
 
 The modern financial landscape offers a multitude of instruments for investors striving to optimize returns while simultaneously managing risks. Among these, asset-backed commercial paper (ABCP) stands out as a crucial element in the short-term investment market. ABCP is a debt instrument secured by various assets such as receivables, securities, or loans, providing investors with a means to gain exposure to different asset classes while maintaining liquidity.

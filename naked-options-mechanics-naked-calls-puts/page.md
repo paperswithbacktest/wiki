@@ -1,6 +1,8 @@
 ---
-title: "Naked Options: Mechanics of Naked Calls and Puts (Algo Trading)"
-description: "Discover the mechanics of naked calls and puts in options trading Learn how algorithmic strategies can help leverage these high-risk high-reward opportunities"
+category: quant_concept
+description: Discover the mechanics of naked calls and puts in options trading Learn
+  how algorithmic strategies can help leverage these high-risk high-reward opportunities
+title: 'Naked Options: Mechanics of Naked Calls and Puts (Algo Trading)'
 ---
 
 In recent years, the complex strategies within options trading, specifically 'naked puts', 'naked options', and 'naked calls', have gained considerable traction among traders, notably with the surge in algorithmic trading. These terms refer to specific scenarios in options trading where the seller of the option does not hold the underlying asset, presenting both unique opportunities and substantial risks. The absence of an underlying position in these strategies exposes traders to varying potentials for profit and loss, depending on market movements.

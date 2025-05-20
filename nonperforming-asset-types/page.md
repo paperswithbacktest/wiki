@@ -1,6 +1,8 @@
 ---
-title: "Nonperforming Asset Types (Algo Trading)"
-description: "Explore the types of Non-Performing Assets affecting banking profitability and stability. Learn how NPAs are classified and managed to mitigate risks."
+category: quant_concept
+description: Explore the types of Non-Performing Assets affecting banking profitability
+  and stability. Learn how NPAs are classified and managed to mitigate risks.
+title: Nonperforming Asset Types (Algo Trading)
 ---
 
 Non-Performing Assets (NPAs) are a pivotal concern within the banking and finance sectors, significantly influencing both profitability and the stability of financial institutions. An NPA is typically a loan or advance for which the principal or interest payment remains overdue for a specified period, often 90 days, failing to generate expected income. This phenomenon bears crucial implications, directly affecting a bank's balance sheet and its capacity to engage in further lending. NPAs can erode financial health by diminishing income sources, compelling banks to allocate resources for provisioning, and potentially leading to liquidity issues.

@@ -1,6 +1,9 @@
 ---
-title: "Reversal in Trading: Examples and Strategies (Algo Trading)"
-description: "Explore the significance of market reversals in algorithmic trading, learn strategies to spot trend changes, and enhance trading outcomes using advanced tools and techniques."
+category: trading_strategy
+description: Explore the significance of market reversals in algorithmic trading,
+  learn strategies to spot trend changes, and enhance trading outcomes using advanced
+  tools and techniques.
+title: 'Reversal in Trading: Examples and Strategies (Algo Trading)'
 ---
 
 Understanding market reversals holds immense significance in the trading sector as it forms the basis for developing effective trading strategies. A market reversal refers to the point where a market trend changes its direction, either moving upward or downward, marking the culmination of the prevailing trend and the onset of a new one. Identifying these turning points is essential, as they offer potential opportunities for increased profitability and risk management.

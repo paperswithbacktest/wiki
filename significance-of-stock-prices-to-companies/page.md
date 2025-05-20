@@ -1,6 +1,8 @@
 ---
-title: "Significance of Stock Prices to Companies (Algo Trading)"
-description: "Explore the importance of stock prices in corporate finance and algorithmic trading Discover how they impact a company's market value and investor perception"
+category: quant_concept
+description: Explore the importance of stock prices in corporate finance and algorithmic
+  trading Discover how they impact a company's market value and investor perception
+title: Significance of Stock Prices to Companies (Algo Trading)
 ---
 
 The world of finance has experienced significant transformation due to technological advancements, giving rise to new terms and concepts that are pivotal in understanding the current financial environment. As technology reshapes the financial landscape, concepts like stock prices, market value, corporate finance, and algorithmic trading have gained prominence. These elements are vital for comprehending the mechanics of modern financial markets and the processes that contribute to corporate value creation.

@@ -1,6 +1,8 @@
 ---
-title: "Attribution analysis (Algo Trading)"
-description: "Attribution analysis enhances algorithmic trading by revealing drivers of portfolio performance enabling strategy optimization and informed decision-making."
+category: trading_strategy
+description: Attribution analysis enhances algorithmic trading by revealing drivers
+  of portfolio performance enabling strategy optimization and informed decision-making.
+title: Attribution analysis (Algo Trading)
 ---
 
 Attribution analysis plays a significant role in algorithmic trading by helping investors and traders understand the factors driving their trading decisions and portfolio performance. In finance, this analysis systematically assesses investment portfolios, breaking down the excess returns compared to benchmarks into specific components. These components help identify whether returns are due to strategic decisions or random chance.
@@ -148,4 +150,3 @@ To gain a more comprehensive understanding of attribution analysis and its vital
 6. **Online Python Documentation and Tutorials for 'shap' Library** - The official documentation of the 'shap' library in Python offers extensive instructions on how to use SHAP values across different types of models, enhancing algorithmic transparency and trustworthiness.
 
 Incorporating these readings and resources into your study will provide a robust foundation for understanding the intricacies of attribution analysis, improving your ability to refine and interpret complex trading models effectively.
-

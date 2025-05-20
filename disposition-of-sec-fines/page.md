@@ -1,6 +1,8 @@
 ---
-title: "Disposition of SEC Fines (Algo Trading)"
-description: "Explore how the SEC enforces fines in algorithmic trading to uphold market integrity mitigate risks and ensure accountability among market participants."
+category: quant_concept
+description: Explore how the SEC enforces fines in algorithmic trading to uphold market
+  integrity mitigate risks and ensure accountability among market participants.
+title: Disposition of SEC Fines (Algo Trading)
 ---
 
 The world of finance is undergoing a seismic shift with the proliferation of algorithmic trading, which has revolutionized how trades are conducted. Algorithmic trading leverages computer-based algorithms to make trading decisions, resulting in increased speed and efficiency. This technological advancement has reshaped traditional trading, allowing for complex strategies to be executed in milliseconds. Consequently, the markets have seen a remarkable transformation, characterized by high-frequency trading and enhanced liquidity.

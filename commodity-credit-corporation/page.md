@@ -1,6 +1,8 @@
 ---
-title: "Commodity Credit Corporation (Algo Trading)"
-description: "Explore the impact of the Commodity Credit Corporation on agriculture through financial aid and algorithmic trading, fostering market stability and innovation."
+category: quant_concept
+description: Explore the impact of the Commodity Credit Corporation on agriculture
+  through financial aid and algorithmic trading, fostering market stability and innovation.
+title: Commodity Credit Corporation (Algo Trading)
 ---
 
 The global agriculture sector is expansive and complex, characterized by a myriad of entities and programs designed to bolster and stabilize the industry. Among these key players is the Commodity Credit Corporation (CCC), a vital component of the U.S. government connected to the Department of Agriculture (USDA). The CCC is instrumental in ensuring the economic stability and viability of American agriculture by providing farmers with essential financial assistance through various subsidies and support mechanisms. 

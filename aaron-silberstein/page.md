@@ -1,9 +1,10 @@
 ---
-title: "Aaron Silberstein"
-description: "Explore Aaron Silberstein's journey from a math enthusiast in Romania to a renowned academic and quantitative researcher in Chicago. Discover more about his achievements and contributions."
+category: quant_concept
+description: Explore Aaron Silberstein's journey from a math enthusiast in Romania
+  to a renowned academic and quantitative researcher in Chicago. Discover more about
+  his achievements and contributions.
+title: Aaron Silberstein
 ---
-
-
 
 ## Table of Contents
 

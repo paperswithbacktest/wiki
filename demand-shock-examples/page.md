@@ -1,6 +1,9 @@
 ---
-title: "Demand Shock Examples (Algo Trading)"
-description: "Explore the role of algorithmic trading in navigating demand shocks and their impact on market dynamics. Gain insights into economic stability and trading strategies."
+category: quant_concept
+description: Explore the role of algorithmic trading in navigating demand shocks and
+  their impact on market dynamics. Gain insights into economic stability and trading
+  strategies.
+title: Demand Shock Examples (Algo Trading)
 ---
 
 Demand shock is a critical concept in economics that refers to sudden and unexpected changes in the demand for goods and services. Such shocks can have profound impacts on economic stability and the equilibrium of markets. Demand shock's significance lies in its ability to influence key economic variables such as employment, inflation, and overall economic output. When a demand shock occurs, it can lead to rapid fluctuations in market dynamics, affecting both producers and consumers as they navigate through the uncertainty created by such disruptions.

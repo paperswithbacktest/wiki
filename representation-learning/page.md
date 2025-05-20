@@ -1,7 +1,8 @@
 ---
-title: Representation Learning Techniques And Applications In AI
+category: quant_concept
 description: Representation Learning turns raw data into useful features using neural
   networks autoencoders and embeddings for improved AI tasks Discover more inside.
+title: Representation Learning Techniques And Applications In AI
 ---
 
 ![Image](images/1.jpeg)

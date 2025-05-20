@@ -1,6 +1,8 @@
 ---
-title: "Sun Trading Company Overview (Algo Trading)"
-description: "Discover the world of algorithmic trading with Sun Trading LLC based in Chicago. Learn about its diverse asset management and market-making strategies."
+category: quant_concept
+description: Discover the world of algorithmic trading with Sun Trading LLC based
+  in Chicago. Learn about its diverse asset management and market-making strategies.
+title: Sun Trading Company Overview (Algo Trading)
 ---
 
 Sun Trading LLC is a prominent name in algorithmic trading. Established in 2003, it has its headquarters in Chicago, Illinois, one of the major financial hubs in the United States. Over the years, Sun Trading has had a significant impact on financial markets, leveraging cutting-edge technology to make trading more efficient and effective.

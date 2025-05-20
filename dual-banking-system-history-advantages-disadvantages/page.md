@@ -1,6 +1,10 @@
 ---
-title: "Dual Banking System: Overview, History, Advantages, and Disadvantages (Algo Trading)"
-description: "Explore the intricacies of the U.S. dual banking system, its historical roots, current landscape, and implications for algorithmic trading in financial markets."
+category: quant_concept
+description: Explore the intricacies of the U.S. dual banking system, its historical
+  roots, current landscape, and implications for algorithmic trading in financial
+  markets.
+title: 'Dual Banking System: Overview, History, Advantages, and Disadvantages (Algo
+  Trading)'
 ---
 
 The dual banking system in the United States represents a distinctive regulatory framework where both national and state banks operate concurrently. This structure allows financial institutions the choice of being chartered and regulated at different levels of government, significantly enhancing the competitive landscape and diversity within the banking sector. Banks can select between federal and state charters based on strategic priorities, compliance ease, or desired regulatory oversight.

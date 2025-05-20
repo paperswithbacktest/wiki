@@ -1,6 +1,10 @@
 ---
-title: "Evaluation of T. Rowe Price (Algo Trading)"
-description: "Discover how T. Rowe Price leverages algorithmic trading to enhance its investment offerings. This article evaluates the firm's disciplined investment approach, robust asset management, and strategic innovation, providing insights into its methodologies and performance in the financial services industry."
+category: trading_strategy
+description: Discover how T. Rowe Price leverages algorithmic trading to enhance its
+  investment offerings. This article evaluates the firm's disciplined investment approach,
+  robust asset management, and strategic innovation, providing insights into its methodologies
+  and performance in the financial services industry.
+title: Evaluation of T. Rowe Price (Algo Trading)
 ---
 
 Financial services play a crucial role in the modern economy by facilitating transactions, providing credit, and managing risk. They help allocate resources efficiently across sectors and individuals, thereby driving economic growth and stability. These services span a wide array of activities, including banking, investments, insurance, and asset management, each contributing to the financial system's overall health.

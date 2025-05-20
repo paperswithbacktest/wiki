@@ -1,6 +1,8 @@
 ---
-title: "Carrying Charge Market (Algo Trading)"
-description: "Understand the crucial role of carrying charges in algorithmic trading and commodity markets Learn how these costs impact futures pricing and trading strategies"
+category: quant_concept
+description: Understand the crucial role of carrying charges in algorithmic trading
+  and commodity markets Learn how these costs impact futures pricing and trading strategies
+title: Carrying Charge Market (Algo Trading)
 ---
 
 In an era where financial markets are increasingly complex, understanding key concepts such as carrying charges is crucial. Carrying charges, which are the costs associated with holding assets or commodities over a period, are pivotal in both commodity markets and algorithmic trading. These charges encompass various expenses, including interest costs, storage fees, insurance, and opportunity costs, all of which have a direct impact on the pricing of futures contracts and investment returns.
@@ -187,4 +189,3 @@ Hull, J. C.'s "Options, Futures, and Other Derivatives" is an essential resource
 Taleb, N. N.'s "Dynamic Hedging" discusses risk management strategies, focusing on how hedging can mitigate carrying costs and other market risks. Taleb's work is instrumental in understanding the application of derivatives in protecting investments from [volatility](/wiki/volatility-trading-strategies) and unexpected market movements.
 
 de Prado, M. L.'s "Advances in Financial Machine Learning" explores the integration of machine learning techniques in trading. This text is particularly useful for those interested in algorithmic trading, where precise calculations and adaptability to carrying charges are critical components of successful trading algorithms. The book provides methodologies for incorporating machine learning in trading strategies to achieve optimal results.
-

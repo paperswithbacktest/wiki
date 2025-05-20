@@ -1,6 +1,9 @@
 ---
-title: "Consolidated Trading (Algo Trading)"
-description: "Discover the essentials of consolidated trading in algorithmic trading Unify data for market analysis enhance decision-making and trade efficiently with minimal latency"
+category: quant_concept
+description: Discover the essentials of consolidated trading in algorithmic trading
+  Unify data for market analysis enhance decision-making and trade efficiently with
+  minimal latency
+title: Consolidated Trading (Algo Trading)
 ---
 
 Consolidated trading represents a foundational pillar in the landscape of algorithmic trading strategies. It refers to the aggregation, analysis, and utilization of data from diverse sources to execute trades more efficiently and effectively. This approach becomes indispensable in modern algo trading environments due to the sheer volume and velocity of data that needs to be processed. By streamlining data into a cohesive format, traders enhance decision-making, reduce latency, and ultimately optimize their trading algorithms.

@@ -1,6 +1,9 @@
 ---
-title: "GDP Price Deflator and Formula (Algo Trading)"
-description: "Discover the role of the GDP Price Deflator in economic analysis and algorithmic trading learn how this key indicator measures inflation and impacts strategy."
+category: quant_concept
+description: Discover the role of the GDP Price Deflator in economic analysis and
+  algorithmic trading learn how this key indicator measures inflation and impacts
+  strategy.
+title: GDP Price Deflator and Formula (Algo Trading)
 ---
 
 Understanding the complexities of economic indicators is vital for anyone involved in finance or economics. Economic indicators, such as inflation measures, provide critical insights that influence decision-making processes for policymakers, investors, and traders alike. Among these indicators, the GDP Price Deflator stands out as a comprehensive tool for measuring inflation across a broad spectrum of goods and services.

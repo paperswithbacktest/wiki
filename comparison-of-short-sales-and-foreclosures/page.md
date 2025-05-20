@@ -1,6 +1,8 @@
 ---
-title: "Comparison of Short Sales and Foreclosures (Algo Trading)"
-description: "Explore the complexities of real estate short sales foreclosures and algorithmic trading Discover how these elements impact the market and investor strategies"
+category: quant_concept
+description: Explore the complexities of real estate short sales foreclosures and
+  algorithmic trading Discover how these elements impact the market and investor strategies
+title: Comparison of Short Sales and Foreclosures (Algo Trading)
 ---
 
 The real estate market, a pivotal component of any economy, presents a multitude of opportunities and complexities for investors, homeowners, and financial institutions. This dynamic environment is shaped by various factors, including market conditions, government regulations, and emerging technologies. This article will explore three significant concepts that are integral to understanding today's real estate market: real estate short sales, foreclosures, and algorithmic trading.

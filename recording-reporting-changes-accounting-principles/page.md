@@ -1,6 +1,8 @@
 ---
-title: "Recording and Reporting Changes in Accounting Principles (Algo Trading)"
-description: "Discover key accounting practices and the role of algorithmic trading in financial reporting. Explore their impact on transparency and market dynamics."
+category: quant_concept
+description: Discover key accounting practices and the role of algorithmic trading
+  in financial reporting. Explore their impact on transparency and market dynamics.
+title: Recording and Reporting Changes in Accounting Principles (Algo Trading)
 ---
 
 Understanding key accounting practices and emerging technologies is crucial in today’s fast-paced financial environment. This article explores financial reporting, accounting changes, accounting principles, and the role of algorithmic trading, highlighting their interplay and impact on corporate transparency and market dynamics.

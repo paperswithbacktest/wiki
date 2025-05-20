@@ -1,7 +1,8 @@
 ---
-title: Style Transfer Modules in Machine Learning Explained
+category: quant_concept
 description: Style transfer modules show how CNNs blend content and style using loss
   functions and multi-stage networks for unique visuals Discover more inside
+title: Style Transfer Modules in Machine Learning Explained
 ---
 
 ![Image](images/1.jpeg)

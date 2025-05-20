@@ -1,6 +1,9 @@
 ---
-title: "Liquid Market: Benefits and Examples in Trading (Algo Trading)"
-description: "Explore liquid markets in trading to enhance your strategy. Learn about high-volume assets, quick transactions, and the role of algorithms in executing trades."
+category: quant_concept
+description: Explore liquid markets in trading to enhance your strategy. Learn about
+  high-volume assets, quick transactions, and the role of algorithms in executing
+  trades.
+title: 'Liquid Market: Benefits and Examples in Trading (Algo Trading)'
 ---
 
 A liquid market is a fundamental concept in trading that signifies a marketplace where assets can be bought and sold quickly with minimal impact on their prices. The liquidity of a market is often evidenced by high trading volumes, narrow bid-ask spreads, and a significant number of participants actively engaging in transactions. Markets become 'liquid' when there is a steady influx of buyers and sellers, which ensures that trades can be executed rapidly and efficiently. This liquidity is crucial as it enhances market efficiency, facilitating better price discovery and reducing the volatility typically associated with executing substantial trades.

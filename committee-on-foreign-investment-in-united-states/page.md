@@ -1,6 +1,8 @@
 ---
-title: "Committee on Foreign Investment in the United States (CFIUS) (Algo Trading)"
-description: "Explore how CFIUS regulates foreign investments in U.S. algorithmic trading, safeguarding national security while addressing global investment dynamics."
+category: quant_concept
+description: Explore how CFIUS regulates foreign investments in U.S. algorithmic trading,
+  safeguarding national security while addressing global investment dynamics.
+title: Committee on Foreign Investment in the United States (CFIUS) (Algo Trading)
 ---
 
 The intersection of foreign investment and algorithmic trading in the United States presents a complex and evolving landscape. This article will examine how the Committee on Foreign Investment in the United States (CFIUS) monitors and regulates foreign investments, especially those involving advanced technologies such as algorithmic trading. As algorithmic trading becomes more prevalent in global markets, foreign interest in U.S. firms specializing in this field is increasing, thus amplifying the importance of CFIUS's role.

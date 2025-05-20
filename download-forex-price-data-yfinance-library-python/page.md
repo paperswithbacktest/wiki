@@ -1,6 +1,12 @@
 ---
-title: "Downloading Forex Price Data Using yFinance Library in Python (Algo Trading)"
-description: Explore the power of algorithmic trading in forex with Python using the forex-python API. This guide covers integrating real-time and historical exchange rate data into automated trading strategies to enhance efficiency and decision-making. Suitable for both beginners and experienced traders, it details setup, key functionalities, and practical implementations, empowering you to capitalize on dynamic market opportunities with precision and speed through a data-driven approach.
+category: dataset
+description: Explore the power of algorithmic trading in forex with Python using the
+  forex-python API. This guide covers integrating real-time and historical exchange
+  rate data into automated trading strategies to enhance efficiency and decision-making.
+  Suitable for both beginners and experienced traders, it details setup, key functionalities,
+  and practical implementations, empowering you to capitalize on dynamic market opportunities
+  with precision and speed through a data-driven approach.
+title: Downloading Forex Price Data Using yFinance Library in Python (Algo Trading)
 ---
 
 Algorithmic trading, often referred to as algo trading, has firmly established its presence as a transformative force in the forex market. By leveraging technology to automate trading strategies, traders can execute complex algorithms at a pace and accuracy unattainable by manual trading. At the heart of this advancement is the Python programming ecosystem, which has become a cornerstone due to its versatility and the availability of numerous libraries tailored for financial data analysis and trading automation. Among these libraries, the forex-python API stands out as a robust tool that aids traders by offering real-time and historical forex exchange rate data along with functionality to streamline trading operations.

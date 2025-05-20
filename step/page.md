@@ -1,7 +1,8 @@
 ---
-title: Understanding Step Updates in Machine Learning Training
+category: quant_concept
 description: Step learning uses gradient descent to update model parameters in small
   increments to improve performance on diverse tasks Discover more inside
+title: Understanding Step Updates in Machine Learning Training
 ---
 
 ![Image](images/1.webp)

@@ -1,6 +1,9 @@
 ---
-title: "Understanding the Cash Flow Statement (Algo Trading)"
-description: "Explore the crucial role that cash flow statements play in financial analysis and the development of algorithmic trading strategies for enhanced market decisions."
+category: quant_concept
+description: Explore the crucial role that cash flow statements play in financial
+  analysis and the development of algorithmic trading strategies for enhanced market
+  decisions.
+title: Understanding the Cash Flow Statement (Algo Trading)
 ---
 
 In finance, understanding financial statements, cash flow management, and financial analysis is fundamental for traders and investors. As markets become increasingly complex and technology-driven, these elements form the core of strategic decision-making processes. The advent of algorithmic trading has transformed the financial landscape by enabling the execution of trades using automated systems based on predefined models. This approach leverages data and computational algorithms to enhance trading precision and speed.

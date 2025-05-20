@@ -1,7 +1,8 @@
 ---
-title: Understanding the Role of Input Layers in Neural Networks
+category: quant_concept
 description: Input layer in neural networks holds raw data and sets the foundation
   for effective feature processing and accurate predictions Discover more inside
+title: Understanding the Role of Input Layers in Neural Networks
 ---
 
 ![Image](images/1.gif)

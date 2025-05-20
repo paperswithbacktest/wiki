@@ -1,6 +1,9 @@
 ---
-title: "HOLDRs: Overview of Holding Company Depository Receipts (Algo Trading)"
-description: "Discover HOLDRs and how they contributed to diversified investment. Learn about algorithmic trading's role in modern finance and its evolution from fixed structures like HOLDRs."
+category: quant_concept
+description: Discover HOLDRs and how they contributed to diversified investment. Learn
+  about algorithmic trading's role in modern finance and its evolution from fixed
+  structures like HOLDRs.
+title: 'HOLDRs: Overview of Holding Company Depository Receipts (Algo Trading)'
 ---
 
 In the digital age, algorithmic trading has become integral to financial markets by enabling the automation of trading strategies. Algorithmic trading refers to the use of computer algorithms to execute trades, capitalizing on speed and precision unattainable by human traders. This approach allows market participants to process large volumes of data and execute trades based on pre-set criteria, significantly enhancing efficiency and reducing human error.

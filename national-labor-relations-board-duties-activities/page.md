@@ -1,6 +1,12 @@
 ---
-title: "National Labor Relations Board: Duties and Activities (Algo Trading)"
-description: "Explore the critical role of the National Labor Relations Board in safeguarding workers' rights amidst technological advancements like algorithmic trading. This article investigates into how the NLRB navigates labor relations challenges, ensuring fair practices and equitable treatment for the workforce as AI and automation reshape various industries. Discover insights into the evolving responsibilities of this vital agency in maintaining a balanced integration of technology and labor rights."
+category: quant_concept
+description: Explore the critical role of the National Labor Relations Board in safeguarding
+  workers' rights amidst technological advancements like algorithmic trading. This
+  article investigates into how the NLRB navigates labor relations challenges, ensuring
+  fair practices and equitable treatment for the workforce as AI and automation reshape
+  various industries. Discover insights into the evolving responsibilities of this
+  vital agency in maintaining a balanced integration of technology and labor rights.
+title: 'National Labor Relations Board: Duties and Activities (Algo Trading)'
 ---
 
 In today's rapidly evolving labor landscape, the role of the National Labor Relations Board (NLRB) is more crucial than ever. As labor dynamics shift with technological advancements like algorithmic trading, understanding the NLRB's role in protecting workers' rights becomes important. The NLRB, established in 1935 as part of the National Labor Relations Act (NLRA), acts as a federal agency focused on safeguarding employees' rights to organize and engage in collective bargaining, whether through a labor union or independently. Its purpose is to maintain a fair labor environment and resolve disputes that arise between employers, employees, and unions.

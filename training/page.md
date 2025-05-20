@@ -1,7 +1,8 @@
 ---
-title: Effective Machine Learning Training Techniques and Practices
+category: quant_concept
 description: Machine learning training guides you through data prep supervised unsupervised
   and reinforcement methods to boost model accuracy Discover more inside.
+title: Effective Machine Learning Training Techniques and Practices
 ---
 
 ![Image](images/1.jpeg)

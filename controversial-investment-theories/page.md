@@ -1,6 +1,9 @@
 ---
-title: "Controversial Investment Theories (Algo Trading)"
-description: "Explore core financial strategies and investment theories including EMH and MPT alongside the transformative impact of algorithmic trading in optimizing portfolios."
+category: quant_concept
+description: Explore core financial strategies and investment theories including EMH
+  and MPT alongside the transformative impact of algorithmic trading in optimizing
+  portfolios.
+title: Controversial Investment Theories (Algo Trading)
 ---
 
 In the ever-evolving world of finance, successfully navigating the myriad of investment opportunities requires a robust understanding of financial strategies and investing theories. As investors strive to optimize their portfolios, they confront a landscape where both traditional theories and innovative strategies play critical roles. This article explores the core components of investment, highlighting the interplay between financial strategies and theories and their practical applications.

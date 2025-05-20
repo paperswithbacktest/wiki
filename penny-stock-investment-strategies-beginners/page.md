@@ -1,6 +1,8 @@
 ---
-title: "Penny Stock Investment Strategies for Beginners (Algo Trading)"
-description: "Discover effective penny stock strategies for beginners using algorithmic trading to minimize risks and enhance decision-making in volatile markets."
+category: trading_strategy
+description: Discover effective penny stock strategies for beginners using algorithmic
+  trading to minimize risks and enhance decision-making in volatile markets.
+title: Penny Stock Investment Strategies for Beginners (Algo Trading)
 ---
 
 Penny stocks represent an attractive opportunity for beginner investors due to their affordability. Defined as stocks trading at $5 per share or less, they offer a chance to own shares in companies without significant upfront capital. This low entry point, however, is accompanied by considerable risks. Penny stocks often lack liquidity, making it challenging to buy or sell shares without affecting the stock price. Additionally, they exhibit high volatility, meaning their prices can change rapidly and unpredictably. These characteristics necessitate a cautious approach for any investor, especially those new to the market.

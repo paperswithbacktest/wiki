@@ -1,6 +1,8 @@
 ---
-title: "1979 Energy Crisis (Algo Trading)"
-description: "Explore the 1979 energy crisis, its economic impacts, and the role of algorithmic trading in adapting to oil shortages and volatile energy markets."
+category: trading_strategy
+description: Explore the 1979 energy crisis, its economic impacts, and the role of
+  algorithmic trading in adapting to oil shortages and volatile energy markets.
+title: 1979 Energy Crisis (Algo Trading)
 ---
 
 The global energy crisis, with an emphasis on oil shortages, has far-reaching economic impacts that ripple across global markets and industries. Fluctuations in oil supply and pricing can trigger significant economic consequences, affecting everything from consumer behavior to national fiscal policies. As traditional energy resources become increasingly volatile, markets are turning to innovative methods to counteract these challenges, with algorithmic trading (algo trading) playing a pivotal role.

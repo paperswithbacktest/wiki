@@ -1,7 +1,8 @@
 ---
-title: Understanding Pass@K Metric For Evaluating Model Rankings
+category: quant_concept
 description: Pass@K metric measures the chance of finding a relevant result in top
   K rankings Optimize model evaluations with Pass@K Discover more inside
+title: Understanding Pass@K Metric For Evaluating Model Rankings
 ---
 
 ![Image](images/1.png)

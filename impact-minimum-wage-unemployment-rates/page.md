@@ -1,6 +1,8 @@
 ---
-title: "Impact of Minimum Wage on Unemployment Rates (Algo Trading)"
-description: "Explore how minimum wage laws affect unemployment rates and their interplay with algorithmic trading in financial markets to shape economic conditions."
+category: quant_concept
+description: Explore how minimum wage laws affect unemployment rates and their interplay
+  with algorithmic trading in financial markets to shape economic conditions.
+title: Impact of Minimum Wage on Unemployment Rates (Algo Trading)
 ---
 
 The economic landscape is a dynamic and continually evolving entity, shaped by a multitude of factors that interplay in complex ways. Among the myriad forces influencing this landscape, unemployment, economic policy, minimum wage laws, and algorithmic trading stand out as significant elements. Each of these components alone has a profound impact on the economy, but it is their interconnections and the way they affect one another that ultimately define economic conditions.

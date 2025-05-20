@@ -1,6 +1,8 @@
 ---
-title: "Occupational Safety and Health Act Requirements (Algo Trading)"
-description: "Explore the intersection of OSHA and algorithmic trading to understand compliance requirements and workplace safety amidst rapid technological advancements."
+category: quant_concept
+description: Explore the intersection of OSHA and algorithmic trading to understand
+  compliance requirements and workplace safety amidst rapid technological advancements.
+title: Occupational Safety and Health Act Requirements (Algo Trading)
 ---
 
 The Occupational Safety and Health Act (OSHA) is a foundational piece of legislation enacted to ensure safe and healthy working environments across various industries. Originating in 1970, this legislation has continuously evolved to address the emerging challenges posed by modern workplace dynamics. As algorithmic trading becomes increasingly integral to financial markets, the scope of workplace safety is expanding to meet the needs of this data-driven environment. Algorithmic trading, characterized by the rapid execution of trades through complex algorithms, introduces new variables in safety and compliance, prompting a reevaluation of OSHA's application in these settings.

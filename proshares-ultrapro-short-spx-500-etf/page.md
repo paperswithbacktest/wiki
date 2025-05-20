@@ -1,6 +1,8 @@
 ---
-title: "ProShares UltraPro Short S&P 500 ETF (Algo Trading)"
-description: "Discover the ins and outs of the ProShares UltraPro Short S&P 500 ETF with a focus on leverage, risks, and algorithmic trading strategies for investors."
+category: trading_strategy
+description: Discover the ins and outs of the ProShares UltraPro Short S&P 500 ETF
+  with a focus on leverage, risks, and algorithmic trading strategies for investors.
+title: ProShares UltraPro Short S&P 500 ETF (Algo Trading)
 ---
 
 UltraPro ProShares ETF is a financial instrument crafted for investors aiming to exploit the shifts in the S&P 500 index. This exchange-traded fund (ETF) employs leverage to magnify the daily performance of its underlying benchmark, the S&P 500. By targeting three times (3x) the daily return of the index, it offers a vehicle for aggressive investors to potentially amplify their returns. Understanding the complexities of such an investment is crucial, given its inherent risks and the advanced strategies it accommodates.

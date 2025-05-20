@@ -1,6 +1,8 @@
 ---
-title: "Busted Bonds (Algo Trading)"
-description: "Explore the impact of busted bonds and algorithmic trading on bond markets Learn about financial risks innovation and how to navigate this evolving landscape"
+category: trading_strategy
+description: Explore the impact of busted bonds and algorithmic trading on bond markets
+  Learn about financial risks innovation and how to navigate this evolving landscape
+title: Busted Bonds (Algo Trading)
 ---
 
 Bonds are essential instruments in the financial markets, offering returns to investors through periodic interest payments and the eventual repayment of the principal amount at maturity. Traditionally, bonds have served as a stable investment vehicle, providing predictable income over time. However, the bond market has undergone notable changes, particularly with the advent of algorithmic trading platforms. These platforms have introduced new dimensions of efficiency and complexity to bond trading.

@@ -1,6 +1,9 @@
 ---
-title: "Explanation of the Law of Diminishing Marginal Utility (Algo Trading)"
-description: "Discover the intersection of diminishing marginal utility and algorithmic trading Learn how this economic principle enhances modern financial strategies and market analysis"
+category: quant_concept
+description: Discover the intersection of diminishing marginal utility and algorithmic
+  trading Learn how this economic principle enhances modern financial strategies and
+  market analysis
+title: Explanation of the Law of Diminishing Marginal Utility (Algo Trading)
 ---
 
 Diminishing marginal utility is a fundamental principle in economic theory describing how the additional satisfaction gained from consuming an extra unit of a good or service decreases as more units are consumed. Mathematically, it is often expressed as a function of utility, $U(x)$, where $U'(x) > 0$ but $U''(x) < 0$. This implies that while each additional unit consumed adds to total utility, the increase is smaller with each subsequent unit. This law underpins many economic models and consumer behavior analysis, as it influences decision-making and demand curves.

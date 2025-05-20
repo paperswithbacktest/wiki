@@ -1,6 +1,14 @@
 ---
-title: "MarketQA (Quantitative Analytics) (Algo Trading)"
-description: Discover how MarketQA revolutionizes algorithmic trading by providing advanced quantitative analytics solutions that optimize trading strategies. Harness mathematical models, statistical analyses, and computational techniques to uncover market patterns and make data-driven decisions with enhanced efficiency and effectiveness. MarketQA empowers traders and investment firms with cutting-edge tools, improving their ability to navigate complex financial markets and boost trading performance. Explore the future of quantitative trading and the role of technology in transforming the financial industry.
+category: quant_concept
+description: Discover how MarketQA revolutionizes algorithmic trading by providing
+  advanced quantitative analytics solutions that optimize trading strategies. Harness
+  mathematical models, statistical analyses, and computational techniques to uncover
+  market patterns and make data-driven decisions with enhanced efficiency and effectiveness.
+  MarketQA empowers traders and investment firms with cutting-edge tools, improving
+  their ability to navigate complex financial markets and boost trading performance.
+  Explore the future of quantitative trading and the role of technology in transforming
+  the financial industry.
+title: MarketQA (Quantitative Analytics) (Algo Trading)
 ---
 
 Quantitative analytics is integral to the evolution of algorithmic trading. It involves the application of mathematical, statistical, and computational techniques to optimize trading strategies. These methods enable traders to analyze vast amounts of financial data, uncover patterns, and make informed decisions with precision and speed. The role of quantitative analytics is paramount in transforming traditional trading methods, offering enhanced efficiency and effectiveness in executing trades.

@@ -1,6 +1,8 @@
 ---
-title: "Cryptocurrency and Stock Market Price Correlation (Algo Trading)"
-description: "Explore the evolving relationship between stock markets and cryptocurrencies, focusing on the notable price correlation and the role of algorithmic trading."
+category: quant_concept
+description: Explore the evolving relationship between stock markets and cryptocurrencies,
+  focusing on the notable price correlation and the role of algorithmic trading.
+title: Cryptocurrency and Stock Market Price Correlation (Algo Trading)
 ---
 
 The financial landscape is rapidly evolving, with stock markets and cryptocurrencies emerging as pivotal players. In recent years, these two arenas have increasingly intersected, driven by technological advancements and the proliferation of digital assets. Particularly notable is the correlation between stock prices and cryptocurrencies, especially Bitcoin. This correlation has become a significant topic, sparking interest among investors and analysts seeking to understand the dynamics of these markets.

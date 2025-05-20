@@ -1,6 +1,8 @@
 ---
-title: "Cayman Islands Dollar: Overview and History (Algo Trading)"
-description: "Explore the Cayman Islands Dollar's history and role in financial markets. Understand its fixed exchange rate and significance in algorithmic trading strategies."
+category: quant_concept
+description: Explore the Cayman Islands Dollar's history and role in financial markets.
+  Understand its fixed exchange rate and significance in algorithmic trading strategies.
+title: 'Cayman Islands Dollar: Overview and History (Algo Trading)'
 ---
 
 The Cayman Islands is renowned not only for its picturesque beaches and luxurious lifestyle but also for its unique financial and economic landscape. One key component of this landscape is the Cayman Islands Dollar (KYD), serving as the backbone for myriad financial activities within this British Overseas Territory. The KYD's robust structure and its strategic pegging to the U.S. dollar have cemented its role as a reliable medium for both local and international transactions, promoting economic stability and fostering investment opportunities. Established in 1972 as a replacement for the Jamaican dollar, the KYD has transitioned into a crucial currency in global financial markets.

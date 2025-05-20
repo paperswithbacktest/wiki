@@ -1,6 +1,8 @@
 ---
-title: "Basis Price: Definition and Examples (Algo Trading)"
-description: "Discover the importance of basis price in financial markets, its influence on investment decisions, and the role of algorithmic trading in modern finance."
+category: quant_concept
+description: Discover the importance of basis price in financial markets, its influence
+  on investment decisions, and the role of algorithmic trading in modern finance.
+title: 'Basis Price: Definition and Examples (Algo Trading)'
 ---
 
 Understanding financial terminology is crucial in investment management as it forms the backbone of informed decision-making. Terms such as basis price and pricing mechanisms are central to financial language. The basis price is a pivotal concept that reflects the underlying cost of financial instruments, influencing their perceived value in the markets. Pricing mechanisms, on the other hand, determine how these instruments are valued and transacted. They encapsulate various models and systems that ascertain the price of financial products, from options to futures, ensuring market consistency and transparency.

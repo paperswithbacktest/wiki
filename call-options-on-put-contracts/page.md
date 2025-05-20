@@ -1,6 +1,8 @@
 ---
-title: "Call Options on Put Contracts (Algo Trading)"
-description: "Explore the integration of algorithmic trading with financial derivatives like call options and put contracts to enhance trading efficiency and risk management."
+category: quant_concept
+description: Explore the integration of algorithmic trading with financial derivatives
+  like call options and put contracts to enhance trading efficiency and risk management.
+title: Call Options on Put Contracts (Algo Trading)
 ---
 
 Financial derivatives are complex financial instruments that derive their value from underlying assets such as stocks, bonds, commodities, or indices. These contracts play a pivotal role in financial markets by offering mechanisms for risk management, speculation, and arbitrage. Derivatives enable market participants to hedge against potential losses due to price fluctuations, thus promoting market stability and efficiency. Among the most common types of derivatives are options, specifically put contracts and call options, which provide versatile tools for traders to formulate strategies that align with their investment goals and risk appetite.
@@ -195,4 +197,3 @@ Looking forward, the convergence of human strategy with machine precision offers
 13. Brogaard, J., Hendershott, T., & Riordan, R. (2014). "High-Frequency Trading and Price Discovery." *Review of Financial Studies*, 27(8): 2267–2306. This academic article explores how high-frequency trading contributes to price discovery and market efficiency. 
 
 These resources provide a robust foundation for understanding the intricate dynamics of financial derivatives, options trading, and algorithmic trading.
-

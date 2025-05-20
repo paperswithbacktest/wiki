@@ -1,7 +1,8 @@
 ---
-title: Multinomial Classification in Machine Learning Explained
+category: quant_concept
 description: Multinomial classification assigns instances to multiple categories using
   softmax logistic regression trees and neural networks Discover more inside
+title: Multinomial Classification in Machine Learning Explained
 ---
 
 ![Image](images/1.png)

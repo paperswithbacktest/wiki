@@ -1,6 +1,8 @@
 ---
-title: "Differences Between Doji and Spinning Top Candlestick Patterns (Algo Trading)"
-description: "Explore the differences between Doji and Spinning Top candlestick patterns in algo trading and learn how they indicate market indecision and potential reversals."
+category: trading_strategy
+description: Explore the differences between Doji and Spinning Top candlestick patterns
+  in algo trading and learn how they indicate market indecision and potential reversals.
+title: Differences Between Doji and Spinning Top Candlestick Patterns (Algo Trading)
 ---
 
 Candlestick patterns are fundamental analytical tools in financial trading, offering insights into market trends and potential price movements. These patterns, which reflect the price actions of a specific period, are crucial for technical analysts and traders attempting to decipher market dynamics. Among the various candlestick formations, Doji and Spinning Top patterns stand out due to their representation of market indecision—a critical factor in predicting potential market reversals or continuations.

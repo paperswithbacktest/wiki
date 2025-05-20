@@ -1,7 +1,8 @@
 ---
-title: Creating And Managing Golden Datasets For Machine Learning
+category: dataset
 description: Golden Dataset deployment boosts ML model reliability through expert
   curation validation and diverse data for accurate performance. Discover more inside.
+title: Creating And Managing Golden Datasets For Machine Learning
 ---
 
 ![Image](images/1.jpeg)

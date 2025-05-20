@@ -1,6 +1,8 @@
 ---
-title: "Impact of Information Overload on Investors (Algo Trading)"
-description: "Explore how information overload affects investors in algorithmic trading and learn strategies to manage data effectively for better financial decision-making."
+category: quant_concept
+description: Explore how information overload affects investors in algorithmic trading
+  and learn strategies to manage data effectively for better financial decision-making.
+title: Impact of Information Overload on Investors (Algo Trading)
 ---
 
 In today's digital age, investors are facing an unprecedented volume of financial information. This deluge of data stems from numerous sources, including financial news outlets, social media platforms, market reports, and real-time trading updates. While access to a vast array of information can be advantageous, it often results in information overload, where the sheer volume of data exceeds an investor's capacity to process it effectively. This overload can lead to significant challenges, such as confusion, impaired decision-making, and increased susceptibility to cognitive biases.

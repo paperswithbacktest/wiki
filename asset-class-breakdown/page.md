@@ -1,6 +1,8 @@
 ---
-title: "Asset Class Breakdown (Algo Trading)"
-description: "Discover the strategic allocation of asset classes in portfolio management and the transformative role of algorithmic trading for enhancing investment performance."
+category: trading_strategy
+description: Discover the strategic allocation of asset classes in portfolio management
+  and the transformative role of algorithmic trading for enhancing investment performance.
+title: Asset Class Breakdown (Algo Trading)
 ---
 
 Asset classes and their strategic allocation are fundamental to effective portfolio management. A well-constructed investment portfolio considers various asset classes, including equities, fixed income, commodities, cash, real estate, and currencies. Each of these asset classes presents a distinct risk-return profile, with equities typically offering higher potential returns at increased risk compared to more stable bonds. The strategic allocation among these classes allows investors to balance growth prospects with risk tolerance.
@@ -186,4 +188,3 @@ Chan, E. P. (2008). Quantitative Trading: How to Build Your Own Algorithmic Trad
 Jansen, S. (2020). Machine Learning for Algorithmic Trading. This book provides an in-depth look at how machine learning techniques can be applied to develop and refine algorithmic trading strategies. It emphasizes the use of Python for strategy implementation and evaluation, offering practical examples and code snippets.
 
 For further reading and updates on financial markets, exploring resources like Investopedia or financial publications is recommended. These platforms offer a wealth of information covering a range of topics from basic investment strategies to complex trading algorithms, ensuring investors and traders remain informed about current trends and developments in the field.
-

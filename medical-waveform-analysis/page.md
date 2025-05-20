@@ -1,7 +1,8 @@
 ---
-title: Advancing Medical Waveform Analysis with Machine Learning
+category: quant_concept
 description: Medical waveform analysis gets faster and more accurate with machine
   learning detecting anomalies early to improve patient care Discover more inside.
+title: Advancing Medical Waveform Analysis with Machine Learning
 ---
 
 ![Image](images/1.png)

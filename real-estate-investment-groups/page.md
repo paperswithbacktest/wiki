@@ -1,6 +1,8 @@
 ---
-title: "Real Estate Investment Groups (Algo Trading)"
-description: "Explore the potential of Real Estate Investment Groups and algorithmic trading to enhance investment returns and manage risks in real estate portfolios."
+category: trading_strategy
+description: Explore the potential of Real Estate Investment Groups and algorithmic
+  trading to enhance investment returns and manage risks in real estate portfolios.
+title: Real Estate Investment Groups (Algo Trading)
 ---
 
 The world of real estate investment offers a myriad of opportunities for individuals seeking to diversify their portfolios. One such avenue is through Real Estate Investment Groups (REIGs), which have grown in popularity among investors. In the rapidly evolving financial landscape, the integration of algorithmic trading into REIG operations presents a new frontier for maximizing returns and managing risks.

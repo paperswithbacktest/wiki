@@ -1,6 +1,9 @@
 ---
-title: "Impact of Fire Season on the Economy (Algo Trading)"
-description: "Explore the impact of wildfires on global economies and discover how algorithmic trading can aid in managing market fluctuations caused by these natural disasters."
+category: quant_concept
+description: Explore the impact of wildfires on global economies and discover how
+  algorithmic trading can aid in managing market fluctuations caused by these natural
+  disasters.
+title: Impact of Fire Season on the Economy (Algo Trading)
 ---
 
 The increasing frequency and intensity of wildfires have significant repercussions on economies, environmental conditions, and human life. As these destructive events become more prevalent, understanding their multifaceted impact is crucial. In this article, we explore the interplay between fire season, economic repercussions of wildfires, and the growing relevance of algorithmic trading in managing these challenges.

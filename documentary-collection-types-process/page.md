@@ -1,6 +1,9 @@
 ---
-title: "Documentary Collection: Types and Process (Algo Trading)"
-description: "Explore the documentary collection process in trade finance including its types and how algorithmic trading can enhance efficiency and security in cross-border transactions."
+category: quant_concept
+description: Explore the documentary collection process in trade finance including
+  its types and how algorithmic trading can enhance efficiency and security in cross-border
+  transactions.
+title: 'Documentary Collection: Types and Process (Algo Trading)'
 ---
 
 Documentary collection is a vital component in trade finance, facilitating transactions between exporters and importers by offering a secure method for international trade. This approach ensures goods are correctly documented while managing payment in an efficient manner. Unlike other trade finance instruments, documentary collection does not provide a payment guarantee but instead relies on the direct involvement of both parties' banks to handle and process the relevant documents.

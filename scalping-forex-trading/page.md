@@ -1,6 +1,9 @@
 ---
-title: "Scalping in Forex Trading (Algo Trading)"
-description: "Discover the essentials of forex scalping in algo trading focusing on rapid trades and automation to enhance efficiency and profit in this fast-paced strategy."
+category: trading_strategy
+description: Discover the essentials of forex scalping in algo trading focusing on
+  rapid trades and automation to enhance efficiency and profit in this fast-paced
+  strategy.
+title: Scalping in Forex Trading (Algo Trading)
 ---
 
 Forex trading involves the exchange of currency pairs with the primary aim of benefiting from fluctuations in exchange rates. At its core, this practice requires an understanding of the international monetary market and the ability to anticipate the movements of currency values. Among the diverse strategies employed by traders, scalping stands out for its focus on rapid, successive trades. Scalping is characterized by the execution of numerous transactions within very short periods, often just seconds to minutes, to capitalize on minor price variations. This strategy is particularly appealing to those seeking swift profits without holding positions long-term.

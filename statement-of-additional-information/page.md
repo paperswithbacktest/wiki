@@ -1,6 +1,9 @@
 ---
-title: "Statement of Additional Information (Algo Trading)"
-description: "Discover how algorithmic trading and AI revolutionize financial markets Enhance your investment strategies with insights from the Statement of Additional Information"
+category: quant_concept
+description: Discover how algorithmic trading and AI revolutionize financial markets
+  Enhance your investment strategies with insights from the Statement of Additional
+  Information
+title: Statement of Additional Information (Algo Trading)
 ---
 
 Investment strategies and financial management tools have experienced significant evolution due to technological advancements. This transformation is notably evident in the integration of algorithmic trading and AI-driven solutions within modern finance. Algorithmic trading, or algo trading, utilizes computer algorithms for executing trades based on predetermined criteria, allowing for precision and efficiency in financial markets. These algorithms are adept at navigating high-frequency trading environments, where the velocity and volume of trades are crucial to capitalize on fleeting market opportunities.

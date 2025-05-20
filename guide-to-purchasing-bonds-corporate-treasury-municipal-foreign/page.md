@@ -1,6 +1,10 @@
 ---
-title: "Guide to Purchasing Bonds: Corporate, Treasury, Municipal, and Foreign (Algo Trading)"
-description: "Explore strategies for purchasing corporate, treasury, municipal, and foreign bonds within the bond market, focusing on algorithmic trading's impact and benefits."
+category: trading_strategy
+description: Explore strategies for purchasing corporate, treasury, municipal, and
+  foreign bonds within the bond market, focusing on algorithmic trading's impact and
+  benefits.
+title: 'Guide to Purchasing Bonds: Corporate, Treasury, Municipal, and Foreign (Algo
+  Trading)'
 ---
 
 Investing in bonds is a widely recognized strategy for diversifying investment portfolios, offering a balanced approach to managing risk and achieving financial goals. Bonds, as fixed-income securities, provide a steady stream of interest payments and are essential instruments in the global financial system. This article aims to provide a comprehensive exploration of various types of bonds, such as corporate and treasury bonds, while examining the contemporary impact of algorithmic trading within the bond market.

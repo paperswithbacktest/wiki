@@ -1,6 +1,8 @@
 ---
-title: "Financial Ratios for Evaluating Consumer Packaged Goods (Algo Trading)"
-description: "Explore essential financial ratios for assessing the Consumer Packaged Goods industry and learn how algorithmic trading enhances investment strategies."
+category: trading_strategy
+description: Explore essential financial ratios for assessing the Consumer Packaged
+  Goods industry and learn how algorithmic trading enhances investment strategies.
+title: Financial Ratios for Evaluating Consumer Packaged Goods (Algo Trading)
 ---
 
 The Consumer Packaged Goods (CPG) industry stands as a fundamental pillar of the global economy, driven by operations that prioritize high margins and substantial volumes. This sector encapsulates a broad range of everyday items, including beverages, food, household products, and personal care goods, which are consumed frequently and therefore require ongoing production to meet consumer demand. Such characteristics create a dynamic market landscape that necessitates precise financial evaluation tools and techniques.

@@ -1,6 +1,8 @@
 ---
-title: "Capped Options and Their Benefits (Algo Trading)"
-description: "Explore the benefits of capped options in algo trading where capped investment outcomes and algorithmic precision merge to enhance risk management and efficiency."
+category: trading_strategy
+description: Explore the benefits of capped options in algo trading where capped investment
+  outcomes and algorithmic precision merge to enhance risk management and efficiency.
+title: Capped Options and Their Benefits (Algo Trading)
 ---
 
 Financial derivatives are integral components of contemporary investment strategies, serving as versatile tools for both risk management and speculative pursuits. These financial instruments derive their value from an underlying asset, such as stocks, commodities, or indices, allowing investors to hedge against potential losses or to profit from price fluctuations without necessarily owning the underlying asset itself.

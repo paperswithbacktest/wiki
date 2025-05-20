@@ -1,6 +1,12 @@
 ---
-title: "Exchange-Traded Product (Algo Trading)"
-description: "Explore the dynamic world of Exchange-Traded Products and algorithmic trading and discover how they collaborate to enhance modern investment strategies. Uncover the advantages of ETPs like ETFs and ETNs while managing market risks effectively. Learn how algorithmic trading optimizes trading decisions for improved portfolio management and diversified asset class engagement in the fast-evolving financial landscape."
+category: quant_concept
+description: Explore the dynamic world of Exchange-Traded Products and algorithmic
+  trading and discover how they collaborate to enhance modern investment strategies.
+  Uncover the advantages of ETPs like ETFs and ETNs while managing market risks effectively.
+  Learn how algorithmic trading optimizes trading decisions for improved portfolio
+  management and diversified asset class engagement in the fast-evolving financial
+  landscape.
+title: Exchange-Traded Product (Algo Trading)
 ---
 
 Exchange-Traded Products (ETPs) have emerged as significant tools for investors aiming to diversify their portfolios in contemporary financial markets. ETPs are financial instruments that track the performance of assets such as commodities, indices, or other financial products and are traded on exchanges akin to stocks. This functionality provides investors with a convenient and efficient method to engage with a broad spectrum of asset classes while maintaining flexibility in trading.

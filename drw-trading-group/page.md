@@ -1,6 +1,9 @@
 ---
-title: "DRW Trading Group (Algo Trading)"
-description: "Explore DRW Trading Group's innovative approach to algorithmic trading leveraging cutting-edge technology to achieve superior trading outcomes in global markets."
+category: quant_concept
+description: Explore DRW Trading Group's innovative approach to algorithmic trading
+  leveraging cutting-edge technology to achieve superior trading outcomes in global
+  markets.
+title: DRW Trading Group (Algo Trading)
 ---
 
 In the fast-paced world of financial markets, algorithmic trading has emerged as an essential tool for both institutional and individual traders. This powerful practice integrates complex algorithms, allowing market participants to execute trades at unprecedented speeds and volumes, fundamentally reshaping the trading landscape. Algorithmic trading leverages technologies to analyze vast sets of market data, identify patterns, and execute trades with precision, offering a significant advantage in competitive environments.

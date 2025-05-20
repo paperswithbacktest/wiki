@@ -1,6 +1,8 @@
 ---
-title: "Economic Aspects of Sneakers (Algo Trading)"
-description: "Discover how the intersection of sneaker economics and algorithmic trading revolutionizes the sneaker market by optimizing buying, selling, and market dynamics."
+category: quant_concept
+description: Discover how the intersection of sneaker economics and algorithmic trading
+  revolutionizes the sneaker market by optimizing buying, selling, and market dynamics.
+title: Economic Aspects of Sneakers (Algo Trading)
 ---
 
 The sneaker industry has experienced a remarkable transformation from a niche market to a global economic force, signifying its evolution into a multi-billion dollar sector. What was once seen merely as athletic footwear has grown into a cultural and economic phenomenon, with annual revenues in the sneaker market projected to reach $102 billion by 2025 (Statista, 2021). This staggering growth is fueled by a complex interplay of supply, demand, and trading patterns, collectively referred to as sneaker economics. These factors have turned sneakers into coveted assets, influencing consumer behavior, market dynamics, and production strategies.

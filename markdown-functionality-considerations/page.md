@@ -1,6 +1,8 @@
 ---
-title: "Markdown: Functionality and Considerations (Algo Trading)"
-description: "Leverage Markdown for clear and efficient algorithmic trading documentation Enhance readability improve collaboration and maintain seamless strategy execution"
+category: quant_concept
+description: Leverage Markdown for clear and efficient algorithmic trading documentation
+  Enhance readability improve collaboration and maintain seamless strategy execution
+title: 'Markdown: Functionality and Considerations (Algo Trading)'
 ---
 
 In algorithmic trading, effective documentation is essential for success. With the complexity inherent in trading algorithms and the need for precise execution, maintaining clear and structured documentation becomes vital. It not only aids in understanding and reproducing trading strategies but also facilitates communication among team members and supports strategic decision-making.

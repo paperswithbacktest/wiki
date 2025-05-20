@@ -1,6 +1,8 @@
 ---
-title: "Bear Call Spread Explained (Algo Trading)"
-description: "Discover how the bear call spread strategy in options trading can be enhanced through algorithmic trading for optimized risk management and market analysis."
+category: trading_strategy
+description: Discover how the bear call spread strategy in options trading can be
+  enhanced through algorithmic trading for optimized risk management and market analysis.
+title: Bear Call Spread Explained (Algo Trading)
 ---
 
 Options trading is a vital component of modern financial markets, offering a range of strategies that enable investors to capitalize on market movements with flexibility and precision. At its core, options trading involves buying and selling contracts that give traders the right, but not the obligation, to buy or sell an underlying asset at a predetermined price before a specified expiration date. This flexibility allows traders to tailor their market exposure and manage risk more effectively compared to traditional equity trading.

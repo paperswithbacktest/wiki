@@ -1,6 +1,9 @@
 ---
-title: "Monetary Policy and Fiscal Policy: Key Differences (Algo Trading)"
-description: "Explore the distinctions between monetary and fiscal policy and their impacts on algorithmic trading. Understand how these economic strategies interact in a globalized economy."
+category: quant_concept
+description: Explore the distinctions between monetary and fiscal policy and their
+  impacts on algorithmic trading. Understand how these economic strategies interact
+  in a globalized economy.
+title: 'Monetary Policy and Fiscal Policy: Key Differences (Algo Trading)'
 ---
 
 In an increasingly interconnected global economy, understanding the intricacies of economic policies is essential. As national economies become more intertwined, the actions taken in one region can ripple across the globe, affecting trade balances, financial markets, and economic stability. Policymakers deploy a range of strategies to navigate these challenges, integrating economic policy, fiscal policy, monetary policy, and the evolving realm of algorithmic trading.

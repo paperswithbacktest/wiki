@@ -1,6 +1,8 @@
 ---
-title: "Sedar: Electronic Document Analysis and Retrieval System (Algo Trading)"
-description: "Discover how SEDAR supports algorithmic trading by providing fast access to essential financial data ensuring efficiency and transparency in Canadian markets."
+category: dataset
+description: Discover how SEDAR supports algorithmic trading by providing fast access
+  to essential financial data ensuring efficiency and transparency in Canadian markets.
+title: 'Sedar: Electronic Document Analysis and Retrieval System (Algo Trading)'
 ---
 
 The financial world has undergone a profound transformation with the integration of technology in various aspects, one of which is the adoption of the System for Electronic Document Analysis and Retrieval (SEDAR). SEDAR stands as a crucial element within the Canadian financial ecosystem, serving as a comprehensive platform that enables the electronic filing of securities information. Established to ensure transparency and efficiency, SEDAR has become indispensable for managing the extensive volume of financial data that publicly traded companies and investment funds must report.

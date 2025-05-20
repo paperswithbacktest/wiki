@@ -1,6 +1,9 @@
 ---
-title: "Directional Movement Index: Formula, Calculation, and Uses (Algo Trading)"
-description: "Discover how the Directional Movement Index can enhance trend analysis in trading with its indicators DI and ADX Learn how its formula aids algo trading strategies"
+category: quant_concept
+description: Discover how the Directional Movement Index can enhance trend analysis
+  in trading with its indicators DI and ADX Learn how its formula aids algo trading
+  strategies
+title: 'Directional Movement Index: Formula, Calculation, and Uses (Algo Trading)'
 ---
 
 The Directional Movement Index (DMI) is a technical analysis indicator that serves a crucial role in evaluating the strength and direction of price trends within financial markets. Developed by J. Welles Wilder in 1978, the DMI aids traders in discerning the movement direction of an asset’s price, which is essential for making informed trading decisions. The DMI is composed of several key components that work together to assess whether a market is trending or moving sideways, thereby allowing traders to capitalize on potential opportunities.

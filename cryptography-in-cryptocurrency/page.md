@@ -1,6 +1,8 @@
 ---
-title: "Cryptography in Cryptocurrency (Algo Trading)"
-description: "Explore how cryptography, blockchain, and cryptocurrencies create a secure and efficient digital ecosystem, driving innovation in finance and beyond."
+category: quant_concept
+description: Explore how cryptography, blockchain, and cryptocurrencies create a secure
+  and efficient digital ecosystem, driving innovation in finance and beyond.
+title: Cryptography in Cryptocurrency (Algo Trading)
 ---
 
 Cryptography, blockchain, and cryptocurrency are integral components that have significantly reshaped the landscape of the digital world. These interconnected technologies provide the foundational backbone for a new era of secure, decentralized, and transparent transactions. Cryptography ensures the confidentiality and integrity of information, playing a pivotal role in safeguarding data across various digital platforms. As the science of encoding and decoding information, it is essential for maintaining the security protocols that underpin blockchain and cryptocurrency technologies.

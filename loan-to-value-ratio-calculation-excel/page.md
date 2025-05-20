@@ -1,6 +1,8 @@
 ---
-title: "Loan-to-Value Ratio Calculation in Excel (Algo Trading)"
-description: "Discover how to calculate the Loan-to-Value (LTV) ratio in Excel and explore its relevance in assessing lending risks and algorithmic trading strategies."
+category: quant_concept
+description: Discover how to calculate the Loan-to-Value (LTV) ratio in Excel and
+  explore its relevance in assessing lending risks and algorithmic trading strategies.
+title: Loan-to-Value Ratio Calculation in Excel (Algo Trading)
 ---
 
 The financial world is marked by numerous metrics that provide insight into the economic viability of investments and loans. These metrics help quantify the risk and return associated with financial instruments and transactions, providing a structured framework for both borrowers and lenders to make informed decisions. Among these metrics, the Loan-to-Value (LTV) ratio stands out as a pivotal indicator, indicating the proportion of a loan to the appraised value of an asset, commonly used in the real estate industry.

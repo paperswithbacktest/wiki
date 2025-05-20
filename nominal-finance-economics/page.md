@@ -1,6 +1,8 @@
 ---
-title: "Nominal in Finance and Economics (Algo Trading)"
-description: "Unlock the secrets of nominal value and algorithmic trading in finance Discover key economic distinctions and their impact on investment strategies today"
+category: quant_concept
+description: Unlock the secrets of nominal value and algorithmic trading in finance
+  Discover key economic distinctions and their impact on investment strategies today
+title: Nominal in Finance and Economics (Algo Trading)
 ---
 
 In the fast-paced world of finance, understanding key concepts such as nominal value, economics, and algorithmic trading is crucial for informed financial decision-making. These components form the backbone of modern financial ecosystems, influencing strategies, assessments, and outcomes.

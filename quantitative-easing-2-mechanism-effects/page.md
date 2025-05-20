@@ -1,6 +1,9 @@
 ---
-title: "Quantitative Easing 2: Mechanism and Effects (Algo Trading)"
-description: "Explore the impact of Quantitative Easing 2 on the economy and its influence on algorithmic trading strategies during a period marked by increased liquidity and global market shifts."
+category: quant_concept
+description: Explore the impact of Quantitative Easing 2 on the economy and its influence
+  on algorithmic trading strategies during a period marked by increased liquidity
+  and global market shifts.
+title: 'Quantitative Easing 2: Mechanism and Effects (Algo Trading)'
 ---
 
 Quantitative Easing 2 (QE2) represents a pivotal monetary policy initiative undertaken by the Federal Reserve to address the economic challenges faced by the United States in the aftermath of the 2008 financial crisis. This policy was introduced in November 2010, a period marked by sluggish economic recovery, persistent high unemployment rates, and fears of deflationary pressures. The Federal Reserve's goal with QE2 was to stimulate the economy by injecting liquidity into the market through the purchase of $600 billion in long-term U.S. Treasury securities. By increasing the money supply, QE2 aimed to lower long-term interest rates, thereby encouraging borrowing and investment.

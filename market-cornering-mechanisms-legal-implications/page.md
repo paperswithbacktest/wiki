@@ -1,6 +1,9 @@
 ---
-title: "Market Cornering: Definition, Mechanisms, and Legal Implications (Algo Trading)"
-description: "Explore the complexities of market cornering its mechanisms and legal implications in algorithmic trading Discover how these elements impact financial markets"
+category: quant_concept
+description: Explore the complexities of market cornering its mechanisms and legal
+  implications in algorithmic trading Discover how these elements impact financial
+  markets
+title: 'Market Cornering: Definition, Mechanisms, and Legal Implications (Algo Trading)'
 ---
 
 Market cornering, commodity trading, market manipulation, and algorithmic trading are pivotal elements shaping the financial landscape. This article aims to provide a comprehensive understanding of these concepts, exploring their dynamics and the implications they hold for financial markets.

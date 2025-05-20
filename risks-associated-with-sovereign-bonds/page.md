@@ -1,6 +1,8 @@
 ---
-title: "Risks Associated with Sovereign Bonds (Algo Trading)"
-description: "Explore the unique risks of sovereign bonds in algo trading including default currency and political risks Learn how technology reshapes bond markets"
+category: quant_concept
+description: Explore the unique risks of sovereign bonds in algo trading including
+  default currency and political risks Learn how technology reshapes bond markets
+title: Risks Associated with Sovereign Bonds (Algo Trading)
 ---
 
 Sovereign bonds, instruments issued by national governments, serve as a crucial element of the global bond market. These debt securities are primarily utilized to raise funds for various governmental expenditures, ranging from infrastructure development to day-to-day administrative costs. Due to the backing of national governments, sovereign bonds are often perceived as low-risk investments compared to corporate bonds. However, this perceived safety is accompanied by unique risks that investors must evaluate. Default risk, currency risk, and political risk are among the potential threats that can affect the return and stability of these investments. For instance, default risk becomes a concern if a government faces challenges in fulfilling its debt obligations, impacting both domestic and international investors.

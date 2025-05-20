@@ -1,7 +1,8 @@
 ---
-title: Understanding Centroids in Machine Learning Clustering Algorithms
+category: quant_concept
 description: Centroid in machine learning simplifies data grouping by showing how
   k-means and related algorithms find cluster centers step by step Discover more inside.
+title: Understanding Centroids in Machine Learning Clustering Algorithms
 ---
 
 ![Image](images/1.jpeg)

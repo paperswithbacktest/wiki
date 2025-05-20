@@ -1,8 +1,9 @@
 ---
-title: Understanding Natural Language Processing And Its Key Components
+category: quant_concept
 description: Natural Language Processing lets computers interpret text and speech
   using tokenization syntax parsing models and evaluate performance Discover more
   inside
+title: Understanding Natural Language Processing And Its Key Components
 ---
 
 ![Image](images/1.png)

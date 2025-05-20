@@ -1,6 +1,9 @@
 ---
-title: "Fill or Kill Order (Algo Trading)"
-description: "Discover the strategic benefits of Fill or Kill orders in algorithmic trading, crucial for scenarios demanding immediate and complete execution without partial fills."
+category: quant_concept
+description: Discover the strategic benefits of Fill or Kill orders in algorithmic
+  trading, crucial for scenarios demanding immediate and complete execution without
+  partial fills.
+title: Fill or Kill Order (Algo Trading)
 ---
 
 The stock market is a multifaceted arena where precision and timing are paramount, particularly for active traders. A myriad of order types exists to offer varying degrees of control over trade execution, each designed to meet specific strategic needs. Among these, the Fill or Kill (FOK) order stands out as a unique tool that caters to traders who require immediate and complete fulfillment of their trades. The Fill or Kill order is particularly relevant in scenarios where partial execution is not an option and certainty in trade execution is crucial. 

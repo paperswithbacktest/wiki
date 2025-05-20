@@ -1,6 +1,8 @@
 ---
-title: "Capital Asset: Explanation and Example (Algo Trading)"
-description: "Explore the world of capital assets, focusing on algorithmic trading and how it revolutionizes investment strategies. Gain insights for wealth growth."
+category: quant_concept
+description: Explore the world of capital assets, focusing on algorithmic trading
+  and how it revolutionizes investment strategies. Gain insights for wealth growth.
+title: 'Capital Asset: Explanation and Example (Algo Trading)'
 ---
 
 In the ever-evolving landscape of finance, understanding the different types of investment assets is crucial for successful capital asset management. Investment assets serve as the building blocks of wealth accumulation, offering various avenues for income generation and capital growth. These assets range from traditional options like stocks and bonds to innovative financial technologies such as algorithmic trading. Each asset type presents unique characteristics, opportunities, and challenges, playing a pivotal role in shaping an investor's portfolio.

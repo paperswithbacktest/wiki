@@ -1,6 +1,8 @@
 ---
-title: "Invisible Supply (Algo Trading)"
-description: "Explore the roles of invisible supply and algorithmic trading in modern markets Discover how they impact market dynamics efficiency and economic strategies"
+category: quant_concept
+description: Explore the roles of invisible supply and algorithmic trading in modern
+  markets Discover how they impact market dynamics efficiency and economic strategies
+title: Invisible Supply (Algo Trading)
 ---
 
 The concept of invisible supply is integral to understanding modern commodity markets. It refers to the physical stock of a commodity that, while not yet available for immediate delivery, will become available upon the settlement of a futures contract. This notion plays a crucial role in futures markets, where market participants trade contracts based on the future supply and demand of commodities rather than their current availability.

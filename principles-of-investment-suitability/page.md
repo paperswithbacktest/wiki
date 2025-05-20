@@ -1,6 +1,9 @@
 ---
-title: "Principles of Investment Suitability (Algo Trading)"
-description: "Discover the foundations of investment suitability combining systematic principles and algorithmic trading to optimize portfolios and align with financial goals."
+category: trading_strategy
+description: Discover the foundations of investment suitability combining systematic
+  principles and algorithmic trading to optimize portfolios and align with financial
+  goals.
+title: Principles of Investment Suitability (Algo Trading)
 ---
 
 In today's dynamic investment landscape, the integration of systematic investment principles, suitability analysis, and algorithmic trading has become crucial for optimizing investment portfolios. These components collectively enhance an investor's ability to align their investments with personal financial objectives and risk tolerances, leveraging technology to achieve potentially superior returns.

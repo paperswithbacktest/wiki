@@ -1,6 +1,9 @@
 ---
-title: "Cross: Definition, Function, and Varieties (Algo Trading)"
-description: "Explore the definition, function, and varieties of cross-functional algorithmic trading, a key strategy in modern finance that combines diverse methodologies for optimal trading."
+category: quant_concept
+description: Explore the definition, function, and varieties of cross-functional algorithmic
+  trading, a key strategy in modern finance that combines diverse methodologies for
+  optimal trading.
+title: 'Cross: Definition, Function, and Varieties (Algo Trading)'
 ---
 
 Algorithmic trading has undergone substantial transformation over the past decade, propelled by rapid advancements in technology. Traders now leverage sophisticated systems and innovative methodologies to enhance decision-making processes, resulting in faster and more efficient trading operations. One significant development in this domain is cross-functional algorithmic trading. This approach involves blending multiple scientific and technical disciplines to optimize trading strategies, providing a competitive edge in contemporary financial markets.

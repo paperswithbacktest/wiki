@@ -1,6 +1,8 @@
 ---
-title: "JSE Limited: South African Stock Exchange (Algo Trading)"
-description: "Explore the Johannesburg Stock Exchange, Africa's largest exchange offering a wide range of financial products and pioneering algorithmic trading technology."
+category: quant_concept
+description: Explore the Johannesburg Stock Exchange, Africa's largest exchange offering
+  a wide range of financial products and pioneering algorithmic trading technology.
+title: 'JSE Limited: South African Stock Exchange (Algo Trading)'
 ---
 
 The Johannesburg Stock Exchange (JSE) is recognized as the largest stock exchange in Africa, serving as a significant component of the financial markets in both South Africa and the continent as a whole. Established in 1887 during the gold rush era, the JSE has evolved into a sophisticated digital trading hub. This transformation has enabled it to offer a diverse range of financial products, including equities, derivatives, and exchange-traded funds (ETFs), which cater to the various investment needs of both local and international investors. 

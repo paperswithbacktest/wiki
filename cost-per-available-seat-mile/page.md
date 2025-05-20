@@ -1,6 +1,8 @@
 ---
-title: "Cost Per Available Seat Mile (Algo Trading)"
-description: "Explore the significance of Cost per Available Seat Mile (CASM) in aviation efficiency. Learn how algorithmic trading analyzes CASM for better cost control."
+category: quant_concept
+description: Explore the significance of Cost per Available Seat Mile (CASM) in aviation
+  efficiency. Learn how algorithmic trading analyzes CASM for better cost control.
+title: Cost Per Available Seat Mile (Algo Trading)
 ---
 
 In the evolving world of aviation, understanding cost metrics such as Cost per Available Seat Mile (CASM) is crucial for ensuring airline profitability and operational efficiency. CASM is a key indicator that calculates the cost efficiency of an airline by dividing total operating expenses by the available seat miles (ASM). This metric is essential for comparing different airlines’ cost structures and for gaining insights into operational practices. As airlines operate in a competitive environment, managing CASM effectively can offer significant advantages in terms of pricing strategies and market positioning.

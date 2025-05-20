@@ -1,6 +1,8 @@
 ---
-title: "Full Value: Overview, Mechanism, and Limitations (Algo Trading)"
-description: "Explore the mechanisms and limitations of algo trading and understand how traders can maximize the full value in rapidly evolving financial markets."
+category: quant_concept
+description: Explore the mechanisms and limitations of algo trading and understand
+  how traders can maximize the full value in rapidly evolving financial markets.
+title: 'Full Value: Overview, Mechanism, and Limitations (Algo Trading)'
 ---
 
 In the rapidly evolving world of finance, algorithmic trading—commonly known as algo trading—has become a critical tool for traders. This technological advancement involves the use of computer algorithms and programs to automate trading decisions based on predefined criteria, allowing for seamless and efficient market participation. The essence of algo trading lies in its ability to eliminate emotional bias, facilitate unparalleled speed, and ensure consistency in executing trades.

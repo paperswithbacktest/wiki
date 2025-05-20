@@ -1,6 +1,8 @@
 ---
-title: "Difference Between Net Income and Operating Cash Flow (Algo Trading)"
-description: "Discover the difference between net income and operating cash flow key metrics in algorithmic trading that impact financial health and trading strategies."
+category: quant_concept
+description: Discover the difference between net income and operating cash flow key
+  metrics in algorithmic trading that impact financial health and trading strategies.
+title: Difference Between Net Income and Operating Cash Flow (Algo Trading)
 ---
 
 Operating cash flow and net income are fundamental financial metrics that provide key insights into a company's financial health. Operating cash flow (OCF) measures the cash a company generates from its regular business operations, distinct from net income, which represents the total profit after expenses, taxes, and the cost of goods sold have been deducted. While OCF directly relates to a company's liquidity by indicating how well it can sustain its operations through internal funding, net income offers a broad perspective on profitability.
@@ -186,4 +188,3 @@ Penman, S. (2013). "Financial Statement Analysis and Security Valuation." Penman
 Johnson, B. "Algorithmic Trading and DMA: An Introduction to Direct Access Trading Strategies." This resource introduces the basics of direct access trading systems and how they are applied in algorithmic trading. It covers the practical aspects of implementing direct market access for algorithmic strategies, focusing on execution efficiency and market impact.
 
 These readings provide foundational and advanced perspectives on the integration of financial metrics like operating cash flow and net income in algorithmic trading strategies, highlighting both theoretical concepts and practical applications. They offer a robust framework for understanding how these financial metrics can enhance trading decisions in complex market environments.
-

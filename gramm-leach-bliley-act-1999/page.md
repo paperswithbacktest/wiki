@@ -1,6 +1,8 @@
 ---
-title: "Gramm-Leach-Bliley Act of 1999 (Algo Trading)"
-description: "Discover how the Gramm-Leach-Bliley Act of 1999 reshaped financial services and fostered innovations like algorithmic trading by breaking sector barriers."
+category: quant_concept
+description: Discover how the Gramm-Leach-Bliley Act of 1999 reshaped financial services
+  and fostered innovations like algorithmic trading by breaking sector barriers.
+title: Gramm-Leach-Bliley Act of 1999 (Algo Trading)
 ---
 
 The Gramm-Leach-Bliley Act (GLBA) of 1999, also referred to as the Financial Services Modernization Act, signified a significant transition in the regulatory landscape of financial institutions in the United States. This landmark legislation enabled the convergence of different financial services, permitting banks, insurance companies, and securities firms to transcend traditional boundaries and offer a comprehensive suite of services. This legal shift marked the dismantling of specific segments of the Glass-Steagall Act, which had, since 1933, enforced a strict separation between commercial banking and securities operations.

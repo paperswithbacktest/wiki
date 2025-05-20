@@ -1,6 +1,8 @@
 ---
-title: "North American Free Trade Agreement (NAFTA) (Algo Trading)"
-description: "Explore the impact of NAFTA on algorithmic trading in North America enhancing efficiency and market access by removing trade barriers among US Canada and Mexico"
+category: quant_concept
+description: Explore the impact of NAFTA on algorithmic trading in North America enhancing
+  efficiency and market access by removing trade barriers among US Canada and Mexico
+title: North American Free Trade Agreement (NAFTA) (Algo Trading)
 ---
 
 The North American Free Trade Agreement (NAFTA) was a landmark trade agreement formed between the United States, Canada, and Mexico, implemented on January 1, 1994. Its primary objective was to abolish most tariffs on products traded among these three nations, thereby fostering a free trade zone in North America. By removing trade barriers, NAFTA aimed to enhance economic integration, stimulate cross-border investments, and broaden the market reach for businesses within the member countries.

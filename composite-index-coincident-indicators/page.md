@@ -1,6 +1,8 @@
 ---
-title: "Composite Index of Coincident Indicators (Algo Trading)"
-description: "Explore the role of economic indicators like the Composite Index of Coincident Indicators in algorithmic trading for real-time insights and strategic decisions."
+category: quant_concept
+description: Explore the role of economic indicators like the Composite Index of Coincident
+  Indicators in algorithmic trading for real-time insights and strategic decisions.
+title: Composite Index of Coincident Indicators (Algo Trading)
 ---
 
 In the ever-evolving landscape of economic analysis and trading, understanding various economic indicators is paramount. Economic indicators serve as vital signposts for investors, policymakers, and businesses, offering insights into economic health and guiding strategic decisions. These indicators encompass a wide range of statistical measures that collectively provide a comprehensive view of the current and future state of economic affairs. By analyzing these indicators, stakeholders can make informed decisions regarding investments, policy formulation, and business operations.

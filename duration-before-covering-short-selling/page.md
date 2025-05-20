@@ -1,6 +1,8 @@
 ---
-title: "Duration Before Covering in Short Selling (Algo Trading)"
-description: "Explore the intricacies of short selling and algorithmic trading with insights into strategies, risk management, and the impacts on modern financial markets."
+category: trading_strategy
+description: Explore the intricacies of short selling and algorithmic trading with
+  insights into strategies, risk management, and the impacts on modern financial markets.
+title: Duration Before Covering in Short Selling (Algo Trading)
 ---
 
 Short selling and algorithmic trading are pivotal components of contemporary stock market dynamics, offering distinctive opportunities and challenges for investors. Short selling involves selling borrowed shares with the intent to repurchase them at a lower price, thereby profiting from a decline in the stock's value. This approach allows investors to speculate on stock price declines or hedge against market risk, thereby adding a layer of versatility to investment strategies. However, short selling carries significant risks, including the potential for unlimited losses if stock prices rise, necessitating sophisticated risk management.

@@ -1,6 +1,9 @@
 ---
-title: "Distressed Securities: Overview and Examples (Algo Trading)"
-description: "Explore how distressed securities offer unique investment opportunities, with algorithmic trading enhancing strategy execution and optimizing high-risk, high-reward potentials."
+category: trading_strategy
+description: Explore how distressed securities offer unique investment opportunities,
+  with algorithmic trading enhancing strategy execution and optimizing high-risk,
+  high-reward potentials.
+title: 'Distressed Securities: Overview and Examples (Algo Trading)'
 ---
 
 The financial markets offer a diverse range of investment opportunities, with distressed securities presenting a uniquely compelling option. Distressed securities are financial instruments issued by entities facing substantial financial challenges, often trading at marked discounts relative to their original value. These can include debt securities like bonds or loans, as well as equities. The significant markdowns on these assets stem from the issuer's elevated risk of default or bankruptcy, which inherently attracts investors seeking high-yield potential at lower purchase costs.

@@ -1,6 +1,8 @@
 ---
-title: "Investment Strategies in Retail: The Four Rs (Algo Trading)"
-description: "Explore investment strategies in retail and the rise of algorithmic trading. Learn how the Four Rs help retail investors make informed, successful decisions."
+category: trading_strategy
+description: Explore investment strategies in retail and the rise of algorithmic trading.
+  Learn how the Four Rs help retail investors make informed, successful decisions.
+title: 'Investment Strategies in Retail: The Four Rs (Algo Trading)'
 ---
 
 Investing has undergone significant transformations over recent decades, largely due to the rise of algorithmic trading. Historically dominated by institutional investors, algorithmic or 'algo' trading has progressively become accessible to retail investors, changing the dynamics of investment strategies and decision-making. 

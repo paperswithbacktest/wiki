@@ -1,7 +1,8 @@
 ---
-title: Understanding Nonlinear Machine Learning Models and Applications
+category: quant_concept
 description: Nonlinear machine learning models capture complex data patterns beyond
   linear assumptions to improve image recognition and forecasting Discover more inside
+title: Understanding Nonlinear Machine Learning Models and Applications
 ---
 
 ![Image](images/1.png)

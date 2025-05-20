@@ -1,6 +1,8 @@
 ---
-title: "Schedule To: Explanation, Requirements, Examples (Algo Trading)"
-description: "Discover the requirements and schedules for algorithmic trading systems including examples highlighting key process stages for traders and investors."
+category: trading_strategy
+description: Discover the requirements and schedules for algorithmic trading systems
+  including examples highlighting key process stages for traders and investors.
+title: 'Schedule To: Explanation, Requirements, Examples (Algo Trading)'
 ---
 
 Algorithmic trading, also known as automated trading, is the practice of using computer programs to execute trading orders at exceptional speeds based on pre-defined criteria. This technological advancement has revolutionized the trading industry, enabling traders to perform thousands of trades in nanoseconds, thus maximizing efficiency and precision. Traditional trading, reliant on human decision-making, cannot match the speed and accuracy offered by algorithmic trading systems, which are engineered to react instantaneously to market changes.

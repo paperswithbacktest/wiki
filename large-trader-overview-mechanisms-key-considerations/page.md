@@ -1,6 +1,9 @@
 ---
-title: "Large Trader: Overview, Mechanisms, and Key Considerations (Algo Trading)"
-description: "Explore the intricacies of algorithmic trading for large traders in modern financial markets Discover key strategies for optimizing trading efficiency and market impact"
+category: quant_concept
+description: Explore the intricacies of algorithmic trading for large traders in modern
+  financial markets Discover key strategies for optimizing trading efficiency and
+  market impact
+title: 'Large Trader: Overview, Mechanisms, and Key Considerations (Algo Trading)'
 ---
 
 Algorithmic trading has become a cornerstone of modern financial markets, reflecting the digitization and increased sophistication of trading activities. It refers to the use of computer algorithms to automate trading decisions, encompassing vast data analysis and the execution of trades based on pre-determined criteria. This approach is pivotal for ensuring efficiency, speed, and precision in executing trades, outperforming the manual execution of orders by human traders in both speed and accuracy.

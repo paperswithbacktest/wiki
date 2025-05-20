@@ -1,9 +1,14 @@
 ---
-title: "Long term trading strategies"
-description: Long-term trading is a strategy where investments are held for several years, focusing on steady growth rather than quick market fluctuations. This comprehensive guide covers the benefits of long-term trading, such as lower stress, reduced transaction costs, and the power of compounding. It also highlights challenges, including capital tie-up and market volatility. Key strategies like buy-and-hold, value investing, and dividend growth investing are explored, along with risk management techniques and psychological aspects crucial for long-term trading success.
+category: trading_strategy
+description: Long-term trading is a strategy where investments are held for several
+  years, focusing on steady growth rather than quick market fluctuations. This comprehensive
+  guide covers the benefits of long-term trading, such as lower stress, reduced transaction
+  costs, and the power of compounding. It also highlights challenges, including capital
+  tie-up and market volatility. Key strategies like buy-and-hold, value investing,
+  and dividend growth investing are explored, along with risk management techniques
+  and psychological aspects crucial for long-term trading success.
+title: Long term trading strategies
 ---
-
-
 
 Long-term trading stands as a strategic approach in financial markets where investments are held for an extended period, often several years. This method contrasts starkly with short-term trading tactics such as day trading or swing trading. The essence of long-term trading lies in its focus on capturing substantial market moves over months or years, rather than the quick fluctuations exploited in shorter-term strategies.
 

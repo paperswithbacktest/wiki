@@ -1,6 +1,8 @@
 ---
-title: "Economics: Types, Indicators, and Systems (Algo Trading)"
-description: "Explore economic systems, key indicators, and algorithmic trading essential for understanding modern economies. Learn how these elements shape economic practices."
+category: quant_concept
+description: Explore economic systems, key indicators, and algorithmic trading essential
+  for understanding modern economies. Learn how these elements shape economic practices.
+title: 'Economics: Types, Indicators, and Systems (Algo Trading)'
 ---
 
 Economic systems, economic indicators, and algorithmic trading are pivotal components in comprehending and navigating the modern economic landscape. An economic system refers to the organized manner in which a society allocates resources and distributes goods and services across its populace. Predominant systems include capitalism, characterized by private ownership and market-driven decisions; socialism, which emphasizes public ownership and egalitarian distribution; and mixed economies that blend elements of both. These systems fundamentally influence the production, distribution, and consumption dynamics within a society.

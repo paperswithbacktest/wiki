@@ -1,6 +1,9 @@
 ---
-title: "Pricing of Bitcoin Futures (Algo Trading)"
-description: "Explore Bitcoin futures pricing with insights into algorithmic trading's impact on markets Learn how algo trading enhances efficiency in the volatile crypto sector"
+category: quant_concept
+description: Explore Bitcoin futures pricing with insights into algorithmic trading's
+  impact on markets Learn how algo trading enhances efficiency in the volatile crypto
+  sector
+title: Pricing of Bitcoin Futures (Algo Trading)
 ---
 
 Cryptocurrency markets have undergone tremendous transformations, with the advent of futures trading marking a significant milestone. Bitcoin futures contracts, introduced in December 2017, have become instrumental in drawing traditional investors to the cryptocurrency space. By providing a mechanism to trade on the anticipated price of Bitcoin without the necessity of holding the actual cryptocurrency, these futures contracts encourage market participation among a broader range of investors. This type of trading is primarily facilitated through platforms like the Chicago Mercantile Exchange (CME), where contracts are settled in cash, offering a seamless integration for traders familiar with mainstream financial markets.

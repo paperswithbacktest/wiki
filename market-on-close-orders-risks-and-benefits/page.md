@@ -1,6 +1,8 @@
 ---
-title: "Market-on-Close Orders: Risks and Benefits (Algo Trading)"
-description: "Explore the strategic edge of Market-on-Close (MOC) orders in algorithmic trading. Learn how to optimize trades at day's end, harnessing closing price benefits."
+category: trading_strategy
+description: Explore the strategic edge of Market-on-Close (MOC) orders in algorithmic
+  trading. Learn how to optimize trades at day's end, harnessing closing price benefits.
+title: 'Market-on-Close Orders: Risks and Benefits (Algo Trading)'
 ---
 
 In the fast-paced world of stock trading, having a robust investment strategy is crucial for success. Among various approaches, the Market-on-Close (MOC) order stands out as a strategic instrument for traders aiming to execute trades at or near the market's closing price. As a non-limit market order, the MOC order plays a significant role in ensuring trades are executed based on the final available price of the trading day, a time often associated with increased volatility and volume due to the closing of daily positions by institutional investors.

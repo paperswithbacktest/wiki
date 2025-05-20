@@ -1,6 +1,14 @@
 ---
-title: "Enterprise Value Formula and Significance (Algo Trading)"
-description: "Discover the importance of enterprise value (EV) in today's financial markets and its connection to algorithmic trading. EV offers a comprehensive view of a company's worth by considering market capitalization, debt, and cash, providing crucial insights for investors. This article examines the EV formula, its application in financial analysis, and its role in modern trading strategies. Understanding EV assists both traditional and algorithmic traders in making informed investment decisions, optimizing portfolio performance, and evaluating potential mergers and acquisitions."
+category: quant_concept
+description: Discover the importance of enterprise value (EV) in today's financial
+  markets and its connection to algorithmic trading. EV offers a comprehensive view
+  of a company's worth by considering market capitalization, debt, and cash, providing
+  crucial insights for investors. This article examines the EV formula, its application
+  in financial analysis, and its role in modern trading strategies. Understanding
+  EV assists both traditional and algorithmic traders in making informed investment
+  decisions, optimizing portfolio performance, and evaluating potential mergers and
+  acquisitions.
+title: Enterprise Value Formula and Significance (Algo Trading)
 ---
 
 In today's fast-paced financial markets, both enterprise value (EV) and algorithmic trading play crucial roles. With technology driving rapid changes in how trades are executed, achieving a comprehensive understanding of a company's true worth is more critical than ever. Enterprise value serves as a vital metric, providing a multidimensional view of a company's overall valuation. It incorporates factors beyond market capitalization by including debt, as well as subtracting cash and cash equivalents. This broader perspective is essential for investors seeking deeper insights into a company's financial health.

@@ -1,6 +1,9 @@
 ---
-title: "Considerations of Free Stock Trading (Algo Trading)"
-description: "Explore how commission-free stock trading platforms have democratized investing with no transaction costs while highlighting potential hidden fees and revenue models."
+category: trading_strategy
+description: Explore how commission-free stock trading platforms have democratized
+  investing with no transaction costs while highlighting potential hidden fees and
+  revenue models.
+title: Considerations of Free Stock Trading (Algo Trading)
 ---
 
 In recent years, free stock trading platforms have fundamentally transformed how individuals engage in the stock market. The elimination of commission fees has played a crucial role in this transformation, as it has incentivized many people to participate in investing, thereby democratizing access to financial markets. This paradigm shift has lowered the financial barrier that historically dissuaded many potential investors due to high transaction costs.

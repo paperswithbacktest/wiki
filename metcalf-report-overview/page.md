@@ -1,6 +1,9 @@
 ---
-title: "Metcalf Report Overview (Algo Trading)"
-description: "Explore the enduring relevance of the 1976 Metcalf Report in today's algorithmic trading landscape highlighting ongoing regulatory challenges and market implications."
+category: quant_concept
+description: Explore the enduring relevance of the 1976 Metcalf Report in today's
+  algorithmic trading landscape highlighting ongoing regulatory challenges and market
+  implications.
+title: Metcalf Report Overview (Algo Trading)
 ---
 
 The Metcalf Report, released in 1976, profoundly influenced the financial landscape by sparking debates about regulatory practices within the accounting and trading sectors that persist to this day. Through its analysis, the report critically assessed the influence of the 'Big 8' accounting firms, highlighting potential issues of dominance that called for more stringent government intervention and oversight. The findings underscored a need for accountability and transparency that continues to resonate, particularly as these themes intersect with modern trading practices like algorithmic and high-frequency trading (HFT).

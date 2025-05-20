@@ -1,6 +1,8 @@
 ---
-title: "In And Out: Definition and Mechanism (Algo Trading)"
-description: "Explore the 'in and out' trading mechanism in algorithmic trading and learn how it leverages precision and speed to maximize short-term market opportunities."
+category: trading_strategy
+description: Explore the 'in and out' trading mechanism in algorithmic trading and
+  learn how it leverages precision and speed to maximize short-term market opportunities.
+title: 'In And Out: Definition and Mechanism (Algo Trading)'
 ---
 
 In the fast-paced world of trading, understanding various strategies is crucial for maximizing profits. One such strategy is the 'in and out' mechanism in algorithmic trading. This trading approach is designed to capitalize on short-term price movements within financial markets, allowing traders to execute quick buy-and-sell transactions within the same trading session. The precision and speed required for such transactions often rely on algorithmic trading, which uses computer algorithms to automate trade processes and enhance efficiency.

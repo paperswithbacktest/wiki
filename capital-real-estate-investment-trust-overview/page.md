@@ -1,6 +1,8 @@
 ---
-title: "Capital Real Estate Investment Trust Overview (Algo Trading)"
-description: "Discover how algorithmic trading revolutionizes REIT investments by optimizing decision-making and enhancing strategies for income-focused portfolios."
+category: quant_concept
+description: Discover how algorithmic trading revolutionizes REIT investments by optimizing
+  decision-making and enhancing strategies for income-focused portfolios.
+title: Capital Real Estate Investment Trust Overview (Algo Trading)
 ---
 
 Real Estate Investment Trusts (REITs) have become a prominent vehicle for investors aiming to gain exposure to the real estate market without the complexities of direct property ownership. By pooling capital from numerous investors, REITs acquire and manage a portfolio of properties or real estate-related assets, providing an avenue for income generation and portfolio diversification. Their structure, often mandated by law to distribute a significant portion of income as dividends, offers consistent income streams, appealing to income-focused investors.
@@ -179,4 +181,3 @@ In conclusion, the inclusion of REITs in an investment portfolio provides compel
    - "Real Estate Financial Modeling & Valuation" on platforms like *edX* provides key insights into financial metrics and modeling techniques for valuing REITs.
 
 These resources offer a breadth of knowledge for those interested in expanding their understanding of REIT investing and algorithmic trading, catering to a range of expertise levels from beginner to advanced.
-

@@ -1,6 +1,13 @@
 ---
-title: "Average Revenue Per Unit Calculation (Algo Trading)"
-description: "Discover the significance of Average Revenue Per User (ARPU) and its calculation in various industries, particularly algorithmic trading. Learn how ARPU serves as a vital metric in assessing user engagement and profitability helping companies optimize pricing strategies. Explore the evolving role of algorithmic trading in financial markets highlighting its influence on liquidity and cost reduction, and understand the intersection of ARPU with trading platforms to enhance financial health and investor value."
+category: quant_concept
+description: Discover the significance of Average Revenue Per User (ARPU) and its
+  calculation in various industries, particularly algorithmic trading. Learn how ARPU
+  serves as a vital metric in assessing user engagement and profitability helping
+  companies optimize pricing strategies. Explore the evolving role of algorithmic
+  trading in financial markets highlighting its influence on liquidity and cost reduction,
+  and understand the intersection of ARPU with trading platforms to enhance financial
+  health and investor value.
+title: Average Revenue Per Unit Calculation (Algo Trading)
 ---
 
 Average Revenue Per User (ARPU) is a fundamental financial metric that captures the average revenue generated per user or unit. It is widely used across various industries, providing a clear indicator of how much revenue each customer or user contributes to a company within a specific period. ARPU is calculated by dividing the total revenue by the number of users, typically expressed over a monthly or quarterly timeframe. This metric is particularly crucial for subscription-based businesses, telecommunications, internet services, and increasingly in financial services, where user engagement and monetization are key drivers of success.

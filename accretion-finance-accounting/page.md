@@ -1,6 +1,8 @@
 ---
-title: "Accretion in Finance and Accounting (Algo Trading)"
-description: "Explore how accretion enhances financial strategies and algorithmic trading impacts markets by maximizing returns and optimizing investments through automation."
+category: quant_concept
+description: Explore how accretion enhances financial strategies and algorithmic trading
+  impacts markets by maximizing returns and optimizing investments through automation.
+title: Accretion in Finance and Accounting (Algo Trading)
 ---
 
 In today's fast-paced financial markets, advancements in technology have significantly transformed the landscape of trading and finance. This transformation is characterized by the integration of accounting, accretion, finance, and algorithmic trading, all of which play vital roles in shaping modern investment strategies. Accounting serves as the foundation, ensuring the accuracy and transparency of financial information, which is crucial for decision-making processes. Accretion, on the other hand, represents the incremental growth of assets and earnings over time, embodying the principles of compounded interest and value increase in financial instruments such as zero-coupon bonds.

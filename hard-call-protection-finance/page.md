@@ -1,6 +1,8 @@
 ---
-title: "Hard Call Protection in Finance (Algo Trading)"
-description: "Discover how bonds, call protection, and algorithmic trading converge to shape modern finance by exploring their roles in risk mitigation and return optimization."
+category: quant_concept
+description: Discover how bonds, call protection, and algorithmic trading converge
+  to shape modern finance by exploring their roles in risk mitigation and return optimization.
+title: Hard Call Protection in Finance (Algo Trading)
 ---
 
 The financial markets are constantly evolving, driven by advancements in technology and changing economic landscapes. At the forefront of this transformation are bonds, call protection, and algorithmic trading, which together shape much of modern fixed-income investing.

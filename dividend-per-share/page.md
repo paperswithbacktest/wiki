@@ -1,6 +1,13 @@
 ---
-title: "Dividend Per Share (Algo Trading)"
-description: "Explore the significance of Dividend Per Share (DPS) as a key financial metric indicative of a company's profitability and investor commitment. Learn how DPS influences algorithmic trading strategies by evaluating a company's dividend policy and financial health, and discover its integration into various investment analyses such as dividend yield calculations. Through examining real-world examples, this article provides insights into the practical applications of DPS, helping investors shape informed strategies and make confident decisions in the dynamic stock market."
+category: quant_concept
+description: Explore the significance of Dividend Per Share (DPS) as a key financial
+  metric indicative of a company's profitability and investor commitment. Learn how
+  DPS influences algorithmic trading strategies by evaluating a company's dividend
+  policy and financial health, and discover its integration into various investment
+  analyses such as dividend yield calculations. Through examining real-world examples,
+  this article provides insights into the practical applications of DPS, helping investors
+  shape informed strategies and make confident decisions in the dynamic stock market.
+title: Dividend Per Share (Algo Trading)
 ---
 
 Understanding various financial metrics is crucial for making informed decisions in finance and investing. Among these, Dividend Per Share (DPS) holds notable importance as it provides a window into a company's profitability and dedication to its shareholders. DPS represents the amount of dividend a company distributes to each outstanding share of its common stock. This metric not only reflects the company's ability to generate profits but also indicates its commitment to sharing a portion of these earnings with investors.

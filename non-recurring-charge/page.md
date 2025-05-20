@@ -1,6 +1,9 @@
 ---
-title: "Non-Recurring Charge (Algo Trading)"
-description: "Understand the impact of non-recurring charges in algorithmic trading and how they affect financial analysis and strategic decision-making in the financial sector."
+category: quant_concept
+description: Understand the impact of non-recurring charges in algorithmic trading
+  and how they affect financial analysis and strategic decision-making in the financial
+  sector.
+title: Non-Recurring Charge (Algo Trading)
 ---
 
 In the complex world of finance, understanding the intricacies of different accounting terms and financial charges is pivotal, particularly in algorithmic trading. This article examines the concept of non-recurring charges and their significance in the financial world, especially within the framework of automated trading systems. Non-recurring charges, often appearing as one-time expenses on financial statements, can vastly impact financial analysis and decision-making processes. As financial markets increasingly rely on automation, comprehending how these charges are classified and managed becomes essential for maintaining financial accuracy and strategic planning.

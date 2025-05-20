@@ -1,6 +1,8 @@
 ---
-title: "Comparison of US and International Accounting Standards (Algo Trading)"
-description: "Explore the convergence of US GAAP and IFRS with algorithmic trading shaping financial markets, enhancing transparency and efficiency in global finance."
+category: quant_concept
+description: Explore the convergence of US GAAP and IFRS with algorithmic trading
+  shaping financial markets, enhancing transparency and efficiency in global finance.
+title: Comparison of US and International Accounting Standards (Algo Trading)
 ---
 
 The convergence of accounting standards and algorithmic trading signifies a pivotal evolution in contemporary finance. This article aims to examine the interface of United States Generally Accepted Accounting Principles (GAAP), International Financial Reporting Standards (IFRS), and the burgeoning role of algorithmic trading in shaping financial markets. Standardized accounting frameworks have become crucial for enhancing transparency, reliability, and comparability of financial information across borders. Concurrently, algorithmic trading has emerged as a transformative force, augmenting market efficiency and liquidity.

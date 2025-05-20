@@ -1,6 +1,9 @@
 ---
-title: "Options Expiration Cycle Duration (Algo Trading)"
-description: "Explore the dynamics of options expiration cycles in derivatives trading. Discover how algorithmic strategies enhance timing and decision-making for optimized returns."
+category: trading_strategy
+description: Explore the dynamics of options expiration cycles in derivatives trading.
+  Discover how algorithmic strategies enhance timing and decision-making for optimized
+  returns.
+title: Options Expiration Cycle Duration (Algo Trading)
 ---
 
 Financial markets often rely on derivatives to manage risk and improve returns. These contracts derive their value from underlying assets such as stocks, bonds, commodities, or market indices. Derivatives can serve as effective tools for hedging against price volatility or for speculating on future price movements.

@@ -1,6 +1,8 @@
 ---
-title: "Non-Assessable Stock: Meaning, Functionality, and Example (Algo Trading)"
-description: "Explore the concept of non-assessable stock, its benefits, and the role it plays in algorithmic trading while ensuring investor protection from extra liabilities."
+category: quant_concept
+description: Explore the concept of non-assessable stock, its benefits, and the role
+  it plays in algorithmic trading while ensuring investor protection from extra liabilities.
+title: 'Non-Assessable Stock: Meaning, Functionality, and Example (Algo Trading)'
 ---
 
 In today's fast-paced financial markets, gaining a comprehensive understanding of various stock types and their implications is crucial for investors seeking a strategic advantage. Amidst these different stock classifications, non-assessable stocks hold significant importance. They offer distinct benefits and considerations for both investors and corporations. This article examines the concept of non-assessable stocks, highlighting their unique characteristics and the protection they offer to shareholders by eliminating the risk of additional financial liability.

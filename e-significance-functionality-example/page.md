@@ -1,6 +1,8 @@
 ---
-title: "E: Significance, Functionality, and Example (Algo Trading)"
-description: "Discover how Euler's number enhances algorithmic trading models by improving prediction accuracy and trend analysis. Learn its pivotal role in trading strategies."
+category: quant_concept
+description: Discover how Euler's number enhances algorithmic trading models by improving
+  prediction accuracy and trend analysis. Learn its pivotal role in trading strategies.
+title: 'E: Significance, Functionality, and Example (Algo Trading)'
 ---
 
 Euler's number, denoted by 'e', is an irrational and transcendental number roughly equal to 2.71828. It holds a crucial position in mathematics and various applied fields, notably calculus and complex analysis. In recent years, 'e' has also become fundamental in algorithmic trading strategies, where its properties are employed to model and predict financial market behavior.

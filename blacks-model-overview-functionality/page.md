@@ -1,6 +1,8 @@
 ---
-title: "Black's Model: Overview and Functionality (Algo Trading)"
-description: "Discover Black's Model for options pricing on futures ideal for algorithmic trading Enhance your understanding of derivatives and high-frequency strategies"
+category: quant_concept
+description: Discover Black's Model for options pricing on futures ideal for algorithmic
+  trading Enhance your understanding of derivatives and high-frequency strategies
+title: 'Black''s Model: Overview and Functionality (Algo Trading)'
 ---
 
 Financial derivatives are pivotal in the landscape of modern finance, offering essential tools for hedging, speculation, and risk management. As dynamic instruments, they allow market participants to mitigate risk and leverage market movements. Among the spectrum of derivatives-related models aimed at equitable pricing, Black’s Model emerges prominently due to its aptness in valuing options on futures contracts. 

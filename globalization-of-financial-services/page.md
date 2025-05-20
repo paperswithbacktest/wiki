@@ -1,6 +1,8 @@
 ---
-title: "Globalization of Financial Services (Algo Trading)"
-description: "Explore the globalization of financial services and the rise of algorithmic trading Understand how technology and cross-border finance shape modern markets"
+category: quant_concept
+description: Explore the globalization of financial services and the rise of algorithmic
+  trading Understand how technology and cross-border finance shape modern markets
+title: Globalization of Financial Services (Algo Trading)
 ---
 
 The modern financial landscape is characterized by a high degree of interconnectedness, largely due to the forces of globalization. As nations have opened their economies, international finance has surged, enabling markets to integrate and multiply cross-border transactions. This integration began, in earnest, during the latter half of the twentieth century, as regulations eased and technology advanced, allowing capital, goods, and services to flow more freely across borders.

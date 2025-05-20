@@ -1,7 +1,8 @@
 ---
-title: Derived Labels in Machine Learning Explained and Applied
+category: quant_concept
 description: Derived labels transform raw data into meaningful categories to simplify
   model training and boost prediction accuracy. Discover more inside.
+title: Derived Labels in Machine Learning Explained and Applied
 ---
 
 ![Image](images/1.png)

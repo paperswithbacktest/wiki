@@ -1,6 +1,9 @@
 ---
-title: "Nelson Complexity Index (Algo Trading)"
-description: "Explore the Nelson Complexity Index (NCI) a key metric for assessing refinery capabilities and its impact on trading strategies and market dynamics in the oil industry."
+category: quant_concept
+description: Explore the Nelson Complexity Index (NCI) a key metric for assessing
+  refinery capabilities and its impact on trading strategies and market dynamics in
+  the oil industry.
+title: Nelson Complexity Index (Algo Trading)
 ---
 
 The petroleum refining industry is a cornerstone of the global economy, crucial for transforming crude oil into a wide array of valuable products that fuel daily life and industrial activities. Professionals and investors keen on navigating this complex sector must consider several factors, among which the Nelson Complexity Index (NCI) is paramount. Developed in 1960 by Wilbur Nelson, the NCI is an essential metric used to evaluate and compare the operational capacity of refineries, each ranked according to its sophistication and capability to process different crude oil slates. As refineries are assessed based on their NCI, industry players gain insights into their ability to convert heavy crudes into higher-value products like gasoline and kerosene. This evaluation becomes increasingly important as global fuel standards evolve and the demand for energy-efficient, cleaner-burning fuels rises. 

@@ -1,6 +1,9 @@
 ---
-title: "Impact of Gold on Currency Valuation (Algo Trading)"
-description: "Explore the impact of gold on currency valuation and algo trading Uncover how economic factors and algorithmic trading influence gold's role in investment strategies"
+category: trading_strategy
+description: Explore the impact of gold on currency valuation and algo trading Uncover
+  how economic factors and algorithmic trading influence gold's role in investment
+  strategies
+title: Impact of Gold on Currency Valuation (Algo Trading)
 ---
 
 Gold has consistently held a unique position in economies throughout history, transcending its role as a mere commodity to become an integral part of financial systems. Its enduring appeal is rooted in its function as a store of value, a medium of exchange, and a hedge against economic uncertainties. Today, gold's influence extends far beyond traditional boundaries, as modern financial markets integrate sophisticated technologies and trading systems.

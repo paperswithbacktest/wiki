@@ -1,6 +1,8 @@
 ---
-title: "Algorithmic Trading: Concepts and Examples (Algo Trading)"
-description: "Discover algorithmic trading its role in modern finance and how it automates trading for speed and accuracy Learn the strategies and tools used for success"
+category: quant_concept
+description: Discover algorithmic trading its role in modern finance and how it automates
+  trading for speed and accuracy Learn the strategies and tools used for success
+title: 'Algorithmic Trading: Concepts and Examples (Algo Trading)'
 ---
 
 Algorithmic trading, often referred to as algo trading, has become an integral part of the modern financial landscape. It involves the use of computer algorithms to automate trading decisions, aiming to execute orders based on predefined criteria at speeds and frequencies that far surpass the capabilities of human traders. The significance of algorithmic trading has grown substantially due to the convergence of advanced computing power, the proliferation of high-speed internet, and sophisticated mathematical models that can analyze vast datasets in real-time.

@@ -1,6 +1,8 @@
 ---
-title: "Optimal Position Sizing and Risk Mitigation (Algo Trading)"
-description: "Explore optimal position sizing and risk management techniques in algorithmic trading to enhance returns minimize losses and adapt to market dynamics effectively."
+category: trading_strategy
+description: Explore optimal position sizing and risk management techniques in algorithmic
+  trading to enhance returns minimize losses and adapt to market dynamics effectively.
+title: Optimal Position Sizing and Risk Mitigation (Algo Trading)
 ---
 
 In algorithmic trading and investment, position sizing and risk management are crucial for optimizing returns and minimizing losses. Algorithmic trading, which employs computerized systems to execute trading strategies based on mathematical models and statistical analysis, has revolutionized the way investments are managed. In this context, position sizing is the process of determining the amount of capital to allocate to each trade, while risk management focuses on identifying, assessing, and controlling financial risks.

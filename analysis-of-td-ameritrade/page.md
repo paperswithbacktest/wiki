@@ -1,6 +1,8 @@
 ---
-title: "Analysis of TD Ameritrade (Algo Trading)"
-description: "Explore TD Ameritrade's advanced algorithmic trading tools and comprehensive resources that cater to all investors, from novice to seasoned traders."
+category: trading_strategy
+description: Explore TD Ameritrade's advanced algorithmic trading tools and comprehensive
+  resources that cater to all investors, from novice to seasoned traders.
+title: Analysis of TD Ameritrade (Algo Trading)
 ---
 
 TD Ameritrade is a well-regarded brokerage firm known for its extensive platform offerings, appealing to both beginner and experienced investors. Founded in 1975, the company has built a reputation for a wide array of trading options and educational resources. As of its acquisition by Charles Schwab in 2020, TD Ameritrade continues to operate under Schwab's branding, maintaining distinct services with ongoing integration that is anticipated to conclude by late 2024.

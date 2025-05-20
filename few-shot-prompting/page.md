@@ -1,7 +1,8 @@
 ---
-title: Mastering Few-Shot Prompting for Efficient Machine Learning
+category: quant_concept
 description: Few-Shot Prompting lets large language models adapt to new tasks with
   minimal examples reducing data needs and speeding deployment. Discover more inside.
+title: Mastering Few-Shot Prompting for Efficient Machine Learning
 ---
 
 ![Image](images/1.png)

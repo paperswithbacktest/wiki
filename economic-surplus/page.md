@@ -1,6 +1,11 @@
 ---
-title: "Economic Surplus (Algo Trading)"
-description: "Explore how the concept of economic surplus intertwines with algorithmic trading to enhance understanding of market dynamics and optimize financial outcomes. Gain insights into consumer and producer surplus and the implications of surplus management for policymakers traders and businesses. Discover strategies for navigating excess production and financial surpluses within modern economic systems."
+category: quant_concept
+description: Explore how the concept of economic surplus intertwines with algorithmic
+  trading to enhance understanding of market dynamics and optimize financial outcomes.
+  Gain insights into consumer and producer surplus and the implications of surplus
+  management for policymakers traders and businesses. Discover strategies for navigating
+  excess production and financial surpluses within modern economic systems.
+title: Economic Surplus (Algo Trading)
 ---
 
 The concept of surplus is integral to understanding various economic and financial phenomena. Surplus can be broadly defined as the situation where the aggregate supply of a resource or service exceeds its demand, leading to different implications and interpretations across contexts. In economics, surplus manifests in forms such as consumer surplus and producer surplus, both of which offer insights into market transactions and societal welfare.

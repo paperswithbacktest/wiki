@@ -1,6 +1,9 @@
 ---
-title: "Cash-on-Cash Yield: Calculation and Example (Algo Trading)"
-description: "Explore cash-on-cash yield calculations to optimize real estate investments and enhance algorithmic trading strategies. Understand real-world applications and potential insights."
+category: quant_concept
+description: Explore cash-on-cash yield calculations to optimize real estate investments
+  and enhance algorithmic trading strategies. Understand real-world applications and
+  potential insights.
+title: 'Cash-on-Cash Yield: Calculation and Example (Algo Trading)'
 ---
 
 Understanding yield calculations is crucial for investors aiming to maximize their returns. This article explores various yield calculation methods, with a particular focus on cash-on-cash yield in real estate and its relevance in algorithmic trading. In investment terminology, yield refers to the income generated from an investment over a specific period. Calculating yield helps investors assess the profitability of their investment options, enabling informed decision-making for optimizing returns.

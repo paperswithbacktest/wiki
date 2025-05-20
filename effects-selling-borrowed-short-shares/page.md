@@ -1,6 +1,8 @@
 ---
-title: "Effects of Selling Borrowed Short Shares (Algo Trading)"
-description: "Explore the effects of selling borrowed short shares through algorithmic trading. This article discusses potential profit, risks, and integration into portfolios."
+category: trading_strategy
+description: Explore the effects of selling borrowed short shares through algorithmic
+  trading. This article discusses potential profit, risks, and integration into portfolios.
+title: Effects of Selling Borrowed Short Shares (Algo Trading)
 ---
 
 In today's dynamic financial markets, investors are increasingly looking to innovative methods to maximize returns and manage risk. Among these methods, short selling and algorithmic trading have become prominent strategies. These techniques leverage market volatility, providing investors with opportunities to profit even in declining markets or through precise, automated trades. This article explores the intricacies of short selling and algorithmic trading, examining their potential risks and rewards and how they can be effectively integrated into investment portfolios.
@@ -144,4 +146,3 @@ In conclusion, while short selling and algorithmic trading offer promising avenu
 "Machine Learning for Algorithmic Trading" by Stefan Jansen provides an in-depth exploration of how machine learning can optimize trading strategies. This resource explains the integration of machine learning models to capture market inefficiencies and includes Python code examples to facilitate practical implementation. Jansen's work is valuable for traders and data scientists aiming to leverage data-driven decisions in financial markets.
 
 "Short Selling: Strategies, Risks, and Rewards" by Frank J. Fabozzi discusses the technical and psychological aspects of short selling, an essential strategy for profiting in declining markets. It provides a detailed analysis of risk management techniques and the regulatory framework surrounding short selling activities. Fabozzi's book is crucial for investors seeking to understand the risks and rewards associated with short selling in stock markets.
-

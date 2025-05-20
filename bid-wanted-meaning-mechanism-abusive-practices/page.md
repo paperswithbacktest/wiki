@@ -1,6 +1,9 @@
 ---
-title: "Bid Wanted: Meaning, Mechanism, and Abusive Practices (Algo Trading)"
-description: "Explore the mechanics of bid wanted announcements in algo trading along with the potential risks and benefits Understand how these practices impact market dynamics"
+category: quant_concept
+description: Explore the mechanics of bid wanted announcements in algo trading along
+  with the potential risks and benefits Understand how these practices impact market
+  dynamics
+title: 'Bid Wanted: Meaning, Mechanism, and Abusive Practices (Algo Trading)'
 ---
 
 Algorithmic trading has significantly transformed the financial markets by improving trading efficiency and speed. This technological advancement enables traders to execute orders at velocities far surpassing human capabilities, optimizing market liquidity and price discovery. Despite its benefits, algorithmic trading is not devoid of challenges; it frequently intersects with ethical dilemmas and potential market manipulations. In particular, its complexity and speed can obscure transparency, allowing malicious actors to exploit the system for unfair advantages.

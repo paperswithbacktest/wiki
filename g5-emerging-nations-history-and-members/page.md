@@ -1,6 +1,9 @@
 ---
-title: "G5 Emerging Nations: History and Members (Algo Trading)"
-description: "Explore the evolution of the G5 from industrialized democracies to emerging economies Brazil China India Mexico and South Africa and their role in algorithmic trading."
+category: quant_concept
+description: Explore the evolution of the G5 from industrialized democracies to emerging
+  economies Brazil China India Mexico and South Africa and their role in algorithmic
+  trading.
+title: 'G5 Emerging Nations: History and Members (Algo Trading)'
 ---
 
 The concept of global economic groupings has gained prominence over the decades, evolving into crucial elements of international trade and cooperation. Prominent among these are the Group of Five (G5) and BRICS, which have become central in discussions regarding global economic dynamics. Historically, the term G5 referred to the leading economies of France, Japan, the United Kingdom, the United States, and West Germany. This grouping was pivotal during the late 20th century, providing a platform for discussions and policymaking among major industrialized democracies.
@@ -81,4 +84,4 @@ The ongoing transitions within the G5 highlight the importance of staying inform
 
 [4]: ["Quantitative Trading: How to Build Your Own Algorithmic Trading Business"](https://www.amazon.com/Quantitative-Trading-Build-Algorithmic-Business/dp/1119800064) by Ernest P. Chan
 
-[5]: Amorós, J. E., & Cristi, O. (2011). "Longitudinal analysis of entrepreneurship and competitiveness dynamics in Latin American countries: An exploration of cross-country differences." *International Entrepreneurship and Management Journal*, 7(3), 317-342. 
+[5]: Amorós, J. E., & Cristi, O. (2011). "Longitudinal analysis of entrepreneurship and competitiveness dynamics in Latin American countries: An exploration of cross-country differences." *International Entrepreneurship and Management Journal*, 7(3), 317-342.

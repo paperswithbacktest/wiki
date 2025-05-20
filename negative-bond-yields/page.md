@@ -1,6 +1,9 @@
 ---
-title: "Negative Bond Yields (Algo Trading)"
-description: "Explore the complexities of negative bond yields and interest rates, their economic implications, and the role of algorithmic trading in today's financial markets."
+category: quant_concept
+description: Explore the complexities of negative bond yields and interest rates,
+  their economic implications, and the role of algorithmic trading in today's financial
+  markets.
+title: Negative Bond Yields (Algo Trading)
 ---
 
 Negative interest rates and negative bond yields have emerged as significant economic topics, capturing widespread attention amidst uncertain global economic conditions. The concept of negative interest rates, where central banks set rates below zero, marks a departure from traditional monetary policy. Simultaneously, negative bond yields, where investors receive less upon bond maturity than their initial investment, represent a unique shift in investment behavior, often driven by market dynamics and policy strategies.

@@ -1,6 +1,13 @@
 ---
-title: "Money Supply: Types and Economic Effects (Algo Trading)"
-description: "Explore the dynamic relationship between money supply, economic performance, and algorithmic trading. Learn how money supply influences inflation and interest rates, impacting growth and investment. Discover how algorithmic trading algorithms transform financial markets with increased efficiency and reduced human error. This article provides insights into the types of money supply, its economic effects, and the integration of algorithmic trading in modern finance, offering a comprehensive understanding of these crucial financial concepts."
+category: quant_concept
+description: Explore the dynamic relationship between money supply, economic performance,
+  and algorithmic trading. Learn how money supply influences inflation and interest
+  rates, impacting growth and investment. Discover how algorithmic trading algorithms
+  transform financial markets with increased efficiency and reduced human error. This
+  article provides insights into the types of money supply, its economic effects,
+  and the integration of algorithmic trading in modern finance, offering a comprehensive
+  understanding of these crucial financial concepts.
+title: 'Money Supply: Types and Economic Effects (Algo Trading)'
 ---
 
 The interconnection between the economy, money supply, and trading has consistently captured the attention of both economists and traders. Central to this interest is the money supply, a critical factor that influences a nation's economic environment by affecting key variables such as inflation, interest rates, and economic growth. Understanding these elements is crucial because they determine the flow of funds within an economy, influencing everything from consumer spending to investment dynamics. For instance, an increase in the money supply generally lowers interest rates, potentially stimulating economic growth through increased lending and investment activities. Conversely, a reduced money supply can lead to higher interest rates, curbing economic expansion.

@@ -1,6 +1,8 @@
 ---
-title: "Homo Economicus: Concept and Critiques (Algo Trading)"
-description: "Explore Homo Economicus, the rational economic agent model, its impact on economic theory, and critiques highlighting its disconnect from real human behavior."
+category: quant_concept
+description: Explore Homo Economicus, the rational economic agent model, its impact
+  on economic theory, and critiques highlighting its disconnect from real human behavior.
+title: 'Homo Economicus: Concept and Critiques (Algo Trading)'
 ---
 
 In economic theory, Homo Economicus represents the ideal individual who consistently makes rational decisions aimed at maximizing personal utility and profit. This conceptual model, deeply rooted in classical economics, serves as a cornerstone in the development of various economic models and theories. Classical thinkers such as Adam Smith and John Stuart Mill laid the groundwork for this model, envisioning economic agents as entities with unlimited cognitive capacities, perfect information access, and decision-making driven purely by self-interest.

@@ -1,6 +1,8 @@
 ---
-title: "Institute of Petroleum (Algo Trading)"
-description: "Explore the impact of AI on oil and gas trading at the Institute of Petroleum, focusing on algorithmic strategies that enhance efficiency and decision-making."
+category: trading_strategy
+description: Explore the impact of AI on oil and gas trading at the Institute of Petroleum,
+  focusing on algorithmic strategies that enhance efficiency and decision-making.
+title: Institute of Petroleum (Algo Trading)
 ---
 
 The oil and gas industry has long depended on the acumen of seasoned traders and industry experts to make informed trading decisions. These individuals used their experience and insights to navigate the complex and volatile markets inherent to the energy sector. Traditionally, trading strategies were devised based on a combination of fundamental analysis, historical data, and human intuition. However, the landscape of the industry is undergoing a significant transformation with the incorporation of artificial intelligence (AI) technologies.

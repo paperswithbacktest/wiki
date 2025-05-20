@@ -1,6 +1,8 @@
 ---
-title: "Step-Out Trading: Meaning and Mechanism (Algo Trading)"
-description: "Discover the advantages of step-out and algorithmic trading. Learn how large trades are optimized across multiple brokers using automation for better execution."
+category: trading_strategy
+description: Discover the advantages of step-out and algorithmic trading. Learn how
+  large trades are optimized across multiple brokers using automation for better execution.
+title: 'Step-Out Trading: Meaning and Mechanism (Algo Trading)'
 ---
 
 The landscape of financial markets is continually evolving, influenced by rapid technological advancements and the relentless pursuit of efficiency. For traders and investors, understanding these dynamics is not merely advantageous but essential. Among the myriad of strategies employed in financial markets, step-out trading and algorithmic trading stand out for their distinctive approaches and significant impact.

@@ -1,9 +1,9 @@
 ---
-title: "Charles-Albert Lehalle (Algo Trading)"
-description: "Explore the influential career of Charles-Albert Lehalle in algorithmic trading and quantitative finance focusing on market microstructure and data sciences."
+category: quant_concept
+description: Explore the influential career of Charles-Albert Lehalle in algorithmic
+  trading and quantitative finance focusing on market microstructure and data sciences.
+title: Charles-Albert Lehalle (Algo Trading)
 ---
-
-
 
 ## Table of Contents
 

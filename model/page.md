@@ -1,7 +1,8 @@
 ---
-title: Understanding Machine Learning Models and Algorithms
+category: quant_concept
 description: Machine learning models learn from data to predict outcomes using supervised
   and unsupervised learning and cover training evaluation Discover more inside
+title: Understanding Machine Learning Models and Algorithms
 ---
 
 ![Image](images/1.jpeg)

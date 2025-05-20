@@ -1,6 +1,9 @@
 ---
-title: "Economic Efficiency and Measurement Formula (Algo Trading)"
-description: "Discover how economic efficiency and algorithmic trading intertwine in finance by exploring efficiency formula applications and maximizing resources for success."
+category: quant_concept
+description: Discover how economic efficiency and algorithmic trading intertwine in
+  finance by exploring efficiency formula applications and maximizing resources for
+  success.
+title: Economic Efficiency and Measurement Formula (Algo Trading)
 ---
 
 In today's fast-paced financial world, efficiency plays a crucial role across various sectors. As industries strive to remain competitive and responsive to market demands, the ability to utilize resources effectively is paramount. This need for efficiency is particularly significant in the fields of economics and financial trading, where the efficient allocation and use of resources can determine success or failure. 

@@ -1,6 +1,8 @@
 ---
-title: "Inflation and Interest Rates Relationship (Algo Trading)"
-description: "Discover how inflation and interest rates interrelate to shape economic policy and trading strategies Gain insights for algorithmic trading advantage"
+category: quant_concept
+description: Discover how inflation and interest rates interrelate to shape economic
+  policy and trading strategies Gain insights for algorithmic trading advantage
+title: Inflation and Interest Rates Relationship (Algo Trading)
 ---
 
 Inflation and interest rates are integral components of the economic framework, influencing nearly every aspect of economic activity. Inflation refers to the general increase in prices and the associated decline in the purchasing power of money. It affects everything from cost of living to investment decisions, making it a critical factor for both policymakers and traders. 

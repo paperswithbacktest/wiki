@@ -1,6 +1,8 @@
 ---
-title: "Benefits of Investing During Your Twenties (Algo Trading)"
-description: "Investing in your 20s with a focus on algorithmic trading sets up long-term financial success through compounding interest and strategic tech-savvy decisions."
+category: quant_concept
+description: Investing in your 20s with a focus on algorithmic trading sets up long-term
+  financial success through compounding interest and strategic tech-savvy decisions.
+title: Benefits of Investing During Your Twenties (Algo Trading)
 ---
 
 Investing in your 20s is a strategic move to build a strong financial foundation and can be highly beneficial in the long run. One of the primary advantages of starting early is the ability to capitalize on time and the power of compounding interest. Compounding occurs when the earnings on your investments are reinvested, generating additional earnings. Over time, this can lead to exponential growth in the value of your investments. The formula for compound interest is:

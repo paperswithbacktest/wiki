@@ -1,6 +1,8 @@
 ---
-title: "Basis Grade: Overview and Differentials (Algo Trading)"
-description: "Explore the impact of basis grade and finance differentials in algorithmic trading Learn how these factors optimize strategies and enhance trading outcomes"
+category: trading_strategy
+description: Explore the impact of basis grade and finance differentials in algorithmic
+  trading Learn how these factors optimize strategies and enhance trading outcomes
+title: 'Basis Grade: Overview and Differentials (Algo Trading)'
 ---
 
 Algorithmic trading, often referred to as algo trading, represents a transformative advancement in financial market operations. This approach employs sophisticated algorithms to automatically execute trades at speeds significantly faster than human traders can achieve. The adoption of algorithmic trading has ushered in a new era of efficiency and precision in market transactions, allowing participants to capitalize on minor price fluctuations that would otherwise be difficult to exploit manually.

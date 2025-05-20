@@ -1,6 +1,9 @@
 ---
-title: "Key Currency: Meaning and Function (Algo Trading)"
-description: "Discover the interplay between key currencies and algorithmic trading their crucial roles in global finance and how they influence market strategies and stability."
+category: quant_concept
+description: Discover the interplay between key currencies and algorithmic trading
+  their crucial roles in global finance and how they influence market strategies and
+  stability.
+title: 'Key Currency: Meaning and Function (Algo Trading)'
 ---
 
 In international finance, key currencies are vital for stabilizing the global economy. They act as benchmarks, providing a foundation for exchange rates and facilitating international trade. Key currencies are generally issued by countries with strong economic fundamentals, which enhances their acceptance in global transactions. Their stable nature ensures that international trade and finance systems have a reliable platform for operation, thereby reducing uncertainties caused by currency fluctuations.

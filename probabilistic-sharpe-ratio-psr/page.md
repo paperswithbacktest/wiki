@@ -1,6 +1,11 @@
 ---
-title: "Probabilistic Sharpe ratio (PSR) (Algo Trading)"
-description: Explore the advantages of the Probabilistic Sharpe Ratio (PSR) in algorithmic trading to understand how it offers a nuanced approach to risk-adjusted returns by incorporating skewness and kurtosis. Discover why PSR is a robust alternative to the traditional Sharpe Ratio, providing better insights into investment strategies that don't always follow normal distribution patterns.
+category: quant_concept
+description: Explore the advantages of the Probabilistic Sharpe Ratio (PSR) in algorithmic
+  trading to understand how it offers a nuanced approach to risk-adjusted returns
+  by incorporating skewness and kurtosis. Discover why PSR is a robust alternative
+  to the traditional Sharpe Ratio, providing better insights into investment strategies
+  that don't always follow normal distribution patterns.
+title: Probabilistic Sharpe ratio (PSR) (Algo Trading)
 ---
 
 Algorithmic trading, often referred to as algo trading, is at the forefront of transforming financial markets. By leveraging automated algorithms to execute trade orders, it enables rapid decision-making far beyond manual trading capabilities. Central to evaluating the effectiveness of these trading strategies is the use of various performance metrics, among which the Sharpe Ratio stands out due to its widespread recognition. 

@@ -1,6 +1,9 @@
 ---
-title: "Risk Shifting: Concepts and Mechanisms (Algo Trading)"
-description: "Discover the essentials of risk shifting and algorithmic trading in financial markets Understand the mechanisms and implications of transferring and managing risks."
+category: quant_concept
+description: Discover the essentials of risk shifting and algorithmic trading in financial
+  markets Understand the mechanisms and implications of transferring and managing
+  risks.
+title: 'Risk Shifting: Concepts and Mechanisms (Algo Trading)'
 ---
 
 Financial risk is an integral aspect of the global economy, impacting individuals, corporations, and governments alike. It encompasses the potential for financial loss in various activities and decision-making processes. Given its pervasive nature, understanding financial risk and strategies for managing it are crucial in today's complex environment. This knowledge aids in effective decision-making for investments and policy-making, ensuring economic stability and growth.

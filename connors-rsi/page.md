@@ -1,6 +1,15 @@
 ---
-title: "Connors RSI Explained (Algo Trading)"
-description: "Connors RSI Explained provides an in-depth look at a powerful technical indicator tailored for short-term trading scenarios within algorithmic trading. This article investigates into the unique enhancements Connors RSI offers over traditional RSI by integrating three key components: a short-period RSI, Up/Down Streak length, and Rate of Change function. These improvements yield a more dynamic analysis of market momentum and reversals essential for optimizing trading strategies in volatile markets. By exploring its calculation, application, and backtesting, readers will gain valuable insights into leveraging Connors RSI to enhance their trading decision-making processes."
+category: trading_strategy
+description: 'Connors RSI Explained provides an in-depth look at a powerful technical
+  indicator tailored for short-term trading scenarios within algorithmic trading.
+  This article investigates into the unique enhancements Connors RSI offers over traditional
+  RSI by integrating three key components: a short-period RSI, Up/Down Streak length,
+  and Rate of Change function. These improvements yield a more dynamic analysis of
+  market momentum and reversals essential for optimizing trading strategies in volatile
+  markets. By exploring its calculation, application, and backtesting, readers will
+  gain valuable insights into leveraging Connors RSI to enhance their trading decision-making
+  processes.'
+title: Connors RSI Explained (Algo Trading)
 ---
 
 Algorithmic trading, or algo trading, utilizes computer programs to make trading decisions based on pre-determined criteria. This automated approach enables traders to exploit market opportunities with speed and precision unattainable by human execution alone. Central to the success of algorithmic trading are technical indicators—mathematical calculations based on price, volume, or open interest—designed to predict future market movements by analyzing past data. These indicators provide essential signals that guide algorithmic strategies.

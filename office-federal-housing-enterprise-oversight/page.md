@@ -1,6 +1,8 @@
 ---
-title: "Office of Federal Housing Enterprise Oversight (Algo Trading)"
-description: "Explore the impact of algorithmic trading on housing finance and understand OFHEO's regulatory legacy as it transitions to the Federal Housing Finance Agency."
+category: quant_concept
+description: Explore the impact of algorithmic trading on housing finance and understand
+  OFHEO's regulatory legacy as it transitions to the Federal Housing Finance Agency.
+title: Office of Federal Housing Enterprise Oversight (Algo Trading)
 ---
 
 The rapidly evolving landscape of algorithmic trading has increasingly influenced various sectors, including housing finance. Algorithmic trading, which utilizes computer algorithms to automate trading decisions, has reshaped financial markets by enhancing efficiency and liquidity. This article investigates the intersection of the Office of Federal Housing Enterprise Oversight (OFHEO) and algorithmic trading to illustrate how regulatory frameworks and technological advancements interact within the housing finance sector.

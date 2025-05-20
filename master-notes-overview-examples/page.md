@@ -1,6 +1,9 @@
 ---
-title: "Master Notes: Overview and Examples (Algo Trading)"
-description: "Explore the benefits of master notes and algorithmic trading in finance Learn how these instruments enhance diversification risk management and investment returns"
+category: trading_strategy
+description: Explore the benefits of master notes and algorithmic trading in finance
+  Learn how these instruments enhance diversification risk management and investment
+  returns
+title: 'Master Notes: Overview and Examples (Algo Trading)'
 ---
 
 The world of finance offers a vast array of investment opportunities, each characterized by varying levels of risk and return. A keen understanding of financial instruments and their applications is pivotal for investors aiming to maximize returns on their investments. This comprehensive overview explores key investment examples, including master notes and algorithmic trading, which are integral to modern investment strategies.

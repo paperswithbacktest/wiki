@@ -1,6 +1,8 @@
 ---
-title: "Determinants of Home Value (Algo Trading)"
-description: "Explore how technology, location, and market trends drive property value and shape algorithmic trading in real estate to optimize investments."
+category: quant_concept
+description: Explore how technology, location, and market trends drive property value
+  and shape algorithmic trading in real estate to optimize investments.
+title: Determinants of Home Value (Algo Trading)
 ---
 
 The real estate market is a multifaceted and ever-changing domain, profoundly shaped by a myriad of factors that dictate property valuation. Among these, technological advancements have significantly altered traditional paradigms, introducing novel real estate valuation techniques and algorithmic trading mechanisms. These technological innovations are crucial for investors and buyers aiming to navigate the intricacies of today's real estate environment.

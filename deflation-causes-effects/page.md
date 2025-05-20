@@ -1,6 +1,9 @@
 ---
-title: "Deflation: Causes and Effects (Algo Trading)"
-description: "Explore the causes and effects of deflation and how it impacts algo trading strategies Discover how persistent price decreases influence economic stability and trading models"
+category: quant_concept
+description: Explore the causes and effects of deflation and how it impacts algo trading
+  strategies Discover how persistent price decreases influence economic stability
+  and trading models
+title: 'Deflation: Causes and Effects (Algo Trading)'
 ---
 
 Deflation, often referred to as negative inflation, is an economic condition characterized by a persistent decrease in the general price level of goods and services. This phenomenon results in an increase in the real value of money, allowing consumers to purchase more with the same amount of currency. At first glance, deflation may seem advantageous to consumers due to enhanced purchasing power. However, its broader economic implications can be quite detrimental, impacting growth and stability.

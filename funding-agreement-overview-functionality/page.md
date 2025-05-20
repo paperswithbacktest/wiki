@@ -1,6 +1,9 @@
 ---
-title: "Funding Agreement: Overview and Functionality (Algo Trading)"
-description: "Explore the synergy of funding agreements and algorithmic trading in modern investment strategies. Learn how these tools ensure precision, compliance, and efficiency."
+category: quant_concept
+description: Explore the synergy of funding agreements and algorithmic trading in
+  modern investment strategies. Learn how these tools ensure precision, compliance,
+  and efficiency.
+title: 'Funding Agreement: Overview and Functionality (Algo Trading)'
 ---
 
 The world of investment is constantly evolving, with financial contracts, funding agreements, and algorithmic trading emerging as crucial components. This article will explore these elements, focusing on their roles in investment funding agreements and algorithmic trading. Understanding these concepts can empower investors to make informed decisions that align with their risk tolerance and investment goals. Each component plays a distinct role: financial contracts and funding agreements provide the framework necessary to manage investment activities with precision and responsibility, ensuring both compliance and strategic alignment.

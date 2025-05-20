@@ -1,6 +1,9 @@
 ---
-title: "Formation and Growth of Economies (Algo Trading)"
-description: "Explore how economic growth and development intersect with algorithmic trading in shaping global economies. Discover its impact on policies and market dynamics."
+category: quant_concept
+description: Explore how economic growth and development intersect with algorithmic
+  trading in shaping global economies. Discover its impact on policies and market
+  dynamics.
+title: Formation and Growth of Economies (Algo Trading)
 ---
 
 The concept of economic growth and development is integral to understanding the progression of modern societies. As nations and regions evolve, the metrics of economic growth—such as Gross Domestic Product (GDP) increases—serve as indicators of a country's expanding capacity to produce and consume goods and services. However, economic development encompasses a broader spectrum, highlighting improvements in quality of life, education, healthcare, and the equitable distribution of economic gains. Understanding this distinction is essential for creating effective economic policies.

@@ -1,6 +1,8 @@
 ---
-title: "Average Down Strategy (Algo Trading)"
-description: "Explore the average down strategy in algo trading, where investors buy more shares as prices drop, reducing cost per share and potentially boosting returns."
+category: trading_strategy
+description: Explore the average down strategy in algo trading, where investors buy
+  more shares as prices drop, reducing cost per share and potentially boosting returns.
+title: Average Down Strategy (Algo Trading)
 ---
 
 The average down investment strategy involves buying additional shares of a stock as its price declines, thereby reducing the average cost per share in an investor's portfolio. This strategy is considered a value investment approach because it allows investors to acquire more shares at a lower price, positioning them advantageously if the stock's price rebounds in the future. Averaging down is particularly relevant within the broader field of stock market investing, as it provides a counterpoint to strategies that aim to capitalize on rising prices, such as averaging up. 

@@ -1,6 +1,8 @@
 ---
-title: "Gary Gensler: U.S. Securities and Exchange Commission Chairman (Algo Trading)"
-description: "Explore Gary Gensler's influence on algorithmic trading as SEC Chairman focusing on market integrity and transparency while navigating regulatory challenges."
+category: quant_concept
+description: Explore Gary Gensler's influence on algorithmic trading as SEC Chairman
+  focusing on market integrity and transparency while navigating regulatory challenges.
+title: 'Gary Gensler: U.S. Securities and Exchange Commission Chairman (Algo Trading)'
 ---
 
 The U.S. Securities and Exchange Commission (SEC) serves as a foundational regulatory authority governing financial markets in the United States. The influence and direction of the SEC significantly depend on its chairman, who is charged with implementing crucial policy changes to ensure market integrity, transparency, and investor protection. Gary Gensler, appointed as the SEC Chairman in 2021, has quickly become a prominent figure in shaping the landscape of financial market regulation, with a special focus on algorithmic trading.

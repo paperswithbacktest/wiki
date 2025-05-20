@@ -1,6 +1,13 @@
 ---
-title: "Linear Regression Using Excel (Algo Trading)"
-description: "Discover the power of Excel for data analysis and learn how to leverage its statistical functions and linear regression capabilities for algorithmic trading. This article guides you through using Excel to model relationships between variables and create effective trading strategies, enhancing your decision-making in financial markets. With insights into statistical analysis and regression, you'll be equipped with the analytical skills to navigate trading with confidence. Explore practical applications and optimize trading algorithms using data-driven techniques in Excel."
+category: trading_strategy
+description: Discover the power of Excel for data analysis and learn how to leverage
+  its statistical functions and linear regression capabilities for algorithmic trading.
+  This article guides you through using Excel to model relationships between variables
+  and create effective trading strategies, enhancing your decision-making in financial
+  markets. With insights into statistical analysis and regression, you'll be equipped
+  with the analytical skills to navigate trading with confidence. Explore practical
+  applications and optimize trading algorithms using data-driven techniques in Excel.
+title: Linear Regression Using Excel (Algo Trading)
 ---
 
 In today's data-driven world, the ability to analyze data and derive meaningful insights is crucial. Organizations and individuals alike rely on data analytics to inform decisions and drive strategic initiatives. Excel, a powerful tool for data analysis, offers numerous functionalities that cater to diverse analytical needs. Its capabilities extend to statistical analysis, where users can compute descriptive statistics like mean, median, and standard deviation, as well as inferential statistics needed to make predictions and decisions based on data. Moreover, Excel's support for linear regression provides users a straightforward means to model relationships between variables, a fundamental aspect of predictive analytics.

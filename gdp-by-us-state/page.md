@@ -1,6 +1,15 @@
 ---
-title: "GDP by U.S. State (Algo Trading)"
-description: "This page explores the economic impact of GDP distribution by U.S. state and the transformative role of algorithmic trading. Delving into how states like California, Texas, and New York contribute significantly to the national GDP, it highlights the diverse industries driving these economies. Furthermore, it examines how algorithmic trading enhances state economies by optimizing trading efficiency and market dynamics, offering insights into regional economic health and investment opportunities. Through a comprehensive analysis, the page aims to unravel the intricate connections between state GDP, economic strength, and the advancements in trading technology shaping the U.S. economic landscape."
+category: dataset
+description: This page explores the economic impact of GDP distribution by U.S. state
+  and the transformative role of algorithmic trading. Delving into how states like
+  California, Texas, and New York contribute significantly to the national GDP, it
+  highlights the diverse industries driving these economies. Furthermore, it examines
+  how algorithmic trading enhances state economies by optimizing trading efficiency
+  and market dynamics, offering insights into regional economic health and investment
+  opportunities. Through a comprehensive analysis, the page aims to unravel the intricate
+  connections between state GDP, economic strength, and the advancements in trading
+  technology shaping the U.S. economic landscape.
+title: GDP by U.S. State (Algo Trading)
 ---
 
 The United States boasts the largest economy globally, measured by Gross Domestic Product (GDP), a testament to its vast and diverse economic activities. While its landmass and population may not be the largest, the country's GDP, which quantifies the total market value of all finished goods and services produced over a specified period, reflects its economic vitality. This metric is crucial for evaluating economic health at both the national and state levels.

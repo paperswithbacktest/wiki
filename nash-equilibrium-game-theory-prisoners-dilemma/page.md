@@ -1,6 +1,8 @@
 ---
-title: "Nash Equilibrium in Game Theory and the Prisoner's Dilemma (Algo Trading)"
-description: "Explore the connection between the Prisoner's Dilemma Nash Equilibrium and algorithmic trading in game theory to enhance strategic decision-making in finance."
+category: quant_concept
+description: Explore the connection between the Prisoner's Dilemma Nash Equilibrium
+  and algorithmic trading in game theory to enhance strategic decision-making in finance.
+title: Nash Equilibrium in Game Theory and the Prisoner's Dilemma (Algo Trading)
 ---
 
 The Prisoner's Dilemma stands as a paradigmatic illustration in game theory, illustrating how rational individuals might choose not to cooperate, even when collaboration seemingly serves their best collective interest. This perplexity arises from the strategic decision-making processes involved, which are deeply influenced by the Nash Equilibrium. The Nash Equilibrium describes a situation wherein each player, armed with knowledge of other players' strategies, finds no advantage in altering their own. Even when mutual cooperation yields a better outcome, the lack of trust and communication often leads parties to pursue non-cooperative strategies, resulting in less favorable outcomes for all involved.

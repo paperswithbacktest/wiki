@@ -1,6 +1,8 @@
 ---
-title: "Comparison of Level I, Level II, and Level III ADRs (Algo Trading)"
-description: "Explore the differences between Level I II and III ADRs in algo trading to optimize portfolio strategies and achieve financial growth with foreign equities."
+category: quant_concept
+description: Explore the differences between Level I II and III ADRs in algo trading
+  to optimize portfolio strategies and achieve financial growth with foreign equities.
+title: Comparison of Level I, Level II, and Level III ADRs (Algo Trading)
 ---
 
 Understanding the nuances of trading instruments is crucial for any investor or trader aiming to optimize their portfolio and achieve financial growth. Among these instruments, American Depositary Receipts (ADRs) stand out as a popular choice for those looking to invest in foreign companies while sidestepping the complexities of currency exchanges and international trading barriers. ADRs provide a streamlined mechanism for U.S. investors to gain exposure to foreign equities, offering a simplified process for trading international stocks directly on U.S. exchanges.

@@ -1,6 +1,14 @@
 ---
-title: "Inflation and Methods of Control (Algo Trading)"
-description: "Explore the complexities of inflation and its control methods in modern financial contexts. Understand the different types of inflation, including demand-pull, cost-push, and built-in, alongside their economic implications. Discover how monetary and fiscal policies can be strategically crafted to mitigate inflationary pressures, ensuring economic stability and growth. Learn how algorithmic trading offers innovative solutions to predict and adapt to market fluctuations caused by inflation, enhancing investment strategies and financial decision-making in an ever-changing economic landscape."
+category: quant_concept
+description: Explore the complexities of inflation and its control methods in modern
+  financial contexts. Understand the different types of inflation, including demand-pull,
+  cost-push, and built-in, alongside their economic implications. Discover how monetary
+  and fiscal policies can be strategically crafted to mitigate inflationary pressures,
+  ensuring economic stability and growth. Learn how algorithmic trading offers innovative
+  solutions to predict and adapt to market fluctuations caused by inflation, enhancing
+  investment strategies and financial decision-making in an ever-changing economic
+  landscape.
+title: Inflation and Methods of Control (Algo Trading)
 ---
 
 Inflation is a central concern in economics, impacting the purchasing power of money, influencing economic policies, and driving financial market dynamics. As it erodes the value of currency, inflation affects everyone, from individual consumers to major investors, by altering the cost of goods and services over time. For individuals, understanding inflation is key to managing personal finances, from budgeting to investment planning. For investors, inflation is a critical factor in portfolio management and strategy development, as it plays a significant role in determining real returns on investments.

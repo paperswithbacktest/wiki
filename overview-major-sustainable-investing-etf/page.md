@@ -1,6 +1,8 @@
 ---
-title: "Overview of a Major Sustainable Investing ETF (Algo Trading)"
-description: "Explore the dynamics of sustainable investing and how algorithmic trading enhances ESG investment strategies through ETFs and funds focused on sustainability."
+category: trading_strategy
+description: Explore the dynamics of sustainable investing and how algorithmic trading
+  enhances ESG investment strategies through ETFs and funds focused on sustainability.
+title: Overview of a Major Sustainable Investing ETF (Algo Trading)
 ---
 
 Sustainable investing, often referred to as socially responsible investing (SRI), is an investment strategy that seeks to generate both financial return and social/environmental impact. This approach has gained momentum as investors increasingly recognize the importance of integrating ethical considerations into financial decision-making. Sustainable investing is primarily guided by Environmental, Social, and Governance (ESG) criteria, which evaluate companies based on their commitments to sustainability and ethical impacts, alongside traditional financial metrics.
@@ -139,4 +141,4 @@ This list encompasses a range of academic studies, industry reports, and white p
 
 [9]: Drempetic, S., Klein, C., & Zwergel, B. (2019). ["The Influence of Firm Size on the ESG Score: Corporate Sustainability Ratings under Review."](https://www.jstor.org/stable/45386660) Journal of Business Ethics.
 
-[10]: European Investment Bank. (2020). ["The EIB Group Sustainability Report 2019."](https://www.eib.org/en/publications/sustainability-report-2020) 
+[10]: European Investment Bank. (2020). ["The EIB Group Sustainability Report 2019."](https://www.eib.org/en/publications/sustainability-report-2020)

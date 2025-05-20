@@ -1,6 +1,14 @@
 ---
-title: "Comparison of Gross and Net Profit Margins (Algo Trading)"
-description: "Discover the importance of net and gross profit margins in algorithmic trading to boost your trading strategies and financial insights. Understand how these key financial metrics quantify a company's profitability, production efficiency, and operational performance. Learn how algorithmic traders integrate these metrics into their trading algorithms to enhance efficiency and profitability. Whether you're seasoned or new to trading, mastering these concepts can significantly improve your trading performance by enabling informed decision-making in the dynamic financial markets."
+category: quant_concept
+description: Discover the importance of net and gross profit margins in algorithmic
+  trading to boost your trading strategies and financial insights. Understand how
+  these key financial metrics quantify a company's profitability, production efficiency,
+  and operational performance. Learn how algorithmic traders integrate these metrics
+  into their trading algorithms to enhance efficiency and profitability. Whether you're
+  seasoned or new to trading, mastering these concepts can significantly improve your
+  trading performance by enabling informed decision-making in the dynamic financial
+  markets.
+title: Comparison of Gross and Net Profit Margins (Algo Trading)
 ---
 
 In today's fast-paced financial environment, understanding key financial metrics is crucial for success, particularly in algorithmic trading. Central to this comprehension are the net profit margin and gross profit margin, which serve as fundamental metrics for investors and traders alike. The net profit margin, expressed as a percentage, quantifies the portion of revenue that transforms into profit after accounting for all expenses, taxes, and costs. It provides a comprehensive insight into a company's financial health by reflecting its ability to convert sales into actual profit.

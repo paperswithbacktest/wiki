@@ -1,6 +1,8 @@
 ---
-title: "Books by John Bogle, Creator of Index Funds (Algo Trading)"
-description: "Explore the impactful books of John Bogle, the pioneer of index funds, and discover his insights on low-cost investing strategies for long-term success."
+category: quant_concept
+description: Explore the impactful books of John Bogle, the pioneer of index funds,
+  and discover his insights on low-cost investing strategies for long-term success.
+title: Books by John Bogle, Creator of Index Funds (Algo Trading)
 ---
 
 In the ever-evolving world of finance, certain figures leave lasting legacies. One such person is John Bogle, the father of index funds. Bogle's introduction of the first index fund in 1976 marked a pivotal shift in investment paradigms, championing a low-cost, passive investing approach that starkly contrasted with the traditional active management methods. This article explores the essence of index funds, which are designed to replicate the performance of a specific market index, such as the S&P 500, offering diversification, reduced risk, and lower fees compared to actively managed funds.

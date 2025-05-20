@@ -1,6 +1,9 @@
 ---
-title: "Cantor Fitzgerald (Algo Trading)"
-description: "Cantor Fitzgerald excels in financial services, offering advanced algorithmic trading solutions that enhance efficiency, precision, and customization for institutional clients."
+category: quant_concept
+description: Cantor Fitzgerald excels in financial services, offering advanced algorithmic
+  trading solutions that enhance efficiency, precision, and customization for institutional
+  clients.
+title: Cantor Fitzgerald (Algo Trading)
 ---
 
 Cantor Fitzgerald is a notable financial services firm with a distinguished reputation for its innovative methodologies in several financial domains, specifically including algorithmic trading. Founded in 1945, the firm has evolved to become a significant force in the financial sector, consistently integrating advanced trading technologies to enhance its comprehensive suite of financial services. Algorithmic trading, often abbreviated as algo trading, serves as a crucial aspect of Cantor Fitzgerald's offerings. This approach involves the use of computer algorithms to automate trading decisions and execute orders efficiently in financial markets, thereby enhancing trading precision, reducing costs, and speeding up execution times.

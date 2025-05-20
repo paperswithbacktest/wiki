@@ -1,6 +1,9 @@
 ---
-title: "Mongolian Tögrög (Algo Trading)"
-description: "Explore the dynamics of the Mongolian Tögrög and its role in Mongolia's economy alongside the impact and potential challenges of algorithmic trading in forex markets."
+category: quant_concept
+description: Explore the dynamics of the Mongolian Tögrög and its role in Mongolia's
+  economy alongside the impact and potential challenges of algorithmic trading in
+  forex markets.
+title: Mongolian Tögrög (Algo Trading)
 ---
 
 The Mongolian currency, the Tögrög or Tugrug (MNT), plays a significant role in the nation's economy. As the national currency introduced in 1925, the Tögrög replaced the Mongolian dollar and has since undergone numerous transformations to adapt to the economic needs of the country. It is managed by the Bank of Mongolia, which oversees the currency's circulation and stability. The Tögrög remains central to Mongolia's predominantly cash-based economy, with all domestic prices denominated in MNT. 

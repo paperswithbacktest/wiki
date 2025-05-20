@@ -1,6 +1,8 @@
 ---
-title: "Shariah-Compliant Investment Funds (Algo Trading)"
-description: "Discover the transformative impact of algorithmic trading within Shariah-compliant investment funds where technology enhances ethical, profitable investing."
+category: trading_strategy
+description: Discover the transformative impact of algorithmic trading within Shariah-compliant
+  investment funds where technology enhances ethical, profitable investing.
+title: Shariah-Compliant Investment Funds (Algo Trading)
 ---
 
 The rise of Shariah-compliant investment funds is significantly reshaping Islamic finance, offering both unique opportunities and distinct challenges. These funds strictly adhere to Islamic law (Shariah), which interdicts earning interest (riba) and prohibits investments in certain sectors like alcohol, gambling, and pork production. This adherence ensures that investments are not only profitable but also ethically responsible, aligning with broader principles of socially responsible investing.

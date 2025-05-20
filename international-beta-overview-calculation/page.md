@@ -1,6 +1,9 @@
 ---
-title: "International Beta: Overview and Calculation (Algo Trading)"
-description: "Explore the fundamentals of international beta in algorithmic trading, understanding its calculation and role in assessing and managing global investment risks."
+category: quant_concept
+description: Explore the fundamentals of international beta in algorithmic trading,
+  understanding its calculation and role in assessing and managing global investment
+  risks.
+title: 'International Beta: Overview and Calculation (Algo Trading)'
 ---
 
 The world of investment is replete with both opportunities for significant returns and inherent risks that can potentially erode capital. For any investor, understanding these risks and implementing effective risk management strategies are vital steps towards achieving and sustaining financial goals. An essential concept within risk management is 'Beta,' a statistical measure that quantifies the volatility, or systematic risk, of a security or portfolio in relation to the overall market.

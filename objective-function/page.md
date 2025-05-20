@@ -1,7 +1,8 @@
 ---
-title: Understanding Objective Functions in Machine Learning Models
+category: quant_concept
 description: Objective function guides machine learning models to optimal performance
   by defining goals and driving parameter adjustments Discover more inside
+title: Understanding Objective Functions in Machine Learning Models
 ---
 
 ![Image](images/1.jpeg)

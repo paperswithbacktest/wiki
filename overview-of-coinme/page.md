@@ -1,6 +1,9 @@
 ---
-title: "Overview of Coinme (Algo Trading)"
-description: "Coinme simplifies cryptocurrency access through Bitcoin ATMs and partnerships, offering a user-friendly platform for buying, selling, and trading digital currencies efficiently."
+category: trading_strategy
+description: Coinme simplifies cryptocurrency access through Bitcoin ATMs and partnerships,
+  offering a user-friendly platform for buying, selling, and trading digital currencies
+  efficiently.
+title: Overview of Coinme (Algo Trading)
 ---
 
 In the evolving landscape of digital currency, Coinme stands out as a distinctive platform providing accessible gateways into the world of cryptocurrencies. By simplifying the process of buying and selling digital currencies, Coinme addresses a significant barrier faced by everyday consumers: access. As a licensed digital currency exchange and mobile app, Coinme enhances user engagement by facilitating seamless transactions and offering intuitive interfaces, such as Bitcoin ATMs. These ATMs convert familiar locations, such as supermarkets, into crypto access points, ensuring that cryptocurrencies are within reach of the average consumer and eliminating the intimidation factor often associated with digital currencies.

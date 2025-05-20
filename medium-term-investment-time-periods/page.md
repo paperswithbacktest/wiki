@@ -1,6 +1,9 @@
 ---
-title: "Medium-Term Investment Time Periods (Algo Trading)"
-description: "Explore the benefits and challenges of medium-term investments in algorithmic trading defined as strategies with a timeframe of two to ten years for balanced growth."
+category: trading_strategy
+description: Explore the benefits and challenges of medium-term investments in algorithmic
+  trading defined as strategies with a timeframe of two to ten years for balanced
+  growth.
+title: Medium-Term Investment Time Periods (Algo Trading)
 ---
 
 In the world of investing, understanding various time periods and how they can be leveraged through different strategies is crucial. Investment horizons, or the length of time an investor plans to hold an investment, play a significant role in determining the risk and potential returns associated with different assets. The focus of this article is on medium-term investment periods, a strategic timeframe that typically spans from two to ten years. Medium-term investments provide a balance between the relative safety of short-term investments and the higher risk and return potential of long-term holdings.

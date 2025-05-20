@@ -1,7 +1,8 @@
 ---
-title: Understanding Person Search Models in Machine Learning
+category: quant_concept
 description: Person Search Models use detection and re identification to locate and
   identify people in images and videos in real world scenes Discover more inside
+title: Understanding Person Search Models in Machine Learning
 ---
 
 ![Image](images/1.png)

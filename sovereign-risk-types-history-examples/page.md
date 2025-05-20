@@ -1,6 +1,9 @@
 ---
-title: "Sovereign Risk: Types, History, and Examples (Algo Trading)"
-description: "Explore the intersection of sovereign risk and algorithmic trading Discover how investors can use algorithmic strategies to navigate the complexities of global markets"
+category: quant_concept
+description: Explore the intersection of sovereign risk and algorithmic trading Discover
+  how investors can use algorithmic strategies to navigate the complexities of global
+  markets
+title: 'Sovereign Risk: Types, History, and Examples (Algo Trading)'
 ---
 
 The global financial landscape offers myriad opportunities for investors seeking growth through international diversification. Cross-border investments can yield substantial returns, but they also come with a set of inherent challenges, primarily related to sovereign debt and sovereign risk. These risks arise from a nation's potential inability or unwillingness to meet its debt obligations, leading to financial instability that can ripple across global markets.

@@ -1,6 +1,8 @@
 ---
-title: "Real-Time Trade Reporting and Mechanisms (Algo Trading)"
-description: "Explore the synergy between algorithmic trading and real-time trade reporting in modern financial markets emphasizing transparency and market efficiency."
+category: quant_concept
+description: Explore the synergy between algorithmic trading and real-time trade reporting
+  in modern financial markets emphasizing transparency and market efficiency.
+title: Real-Time Trade Reporting and Mechanisms (Algo Trading)
 ---
 
 Financial markets serve as vital components of any economy, acting as platforms where individuals, institutions, and governments can trade financial securities, commodities, and other fungible items of value at determinable prices. These markets exist primarily to facilitate the raising of capital, the transfer of risk, price discovery, and the global movement of financial resources. With their complex structure encompassing various asset classes like stocks, bonds, commodities, and derivatives, financial markets influence both short-term and long-term economic activities.

@@ -1,7 +1,8 @@
 ---
-title: Cumulative Distribution Functions in Machine Learning Explained
+category: quant_concept
 description: Cumulative Distribution Function reveals how data probabilities accumulate
   to guide model predictions with code samples Discover more inside.
+title: Cumulative Distribution Functions in Machine Learning Explained
 ---
 
 ![Image](images/1.png)

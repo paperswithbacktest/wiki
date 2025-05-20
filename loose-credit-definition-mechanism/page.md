@@ -1,6 +1,8 @@
 ---
-title: "Loose Credit: Definition and Mechanism (Algo Trading)"
-description: "Explore the critical interplay between loose credit, financial policy, and algorithmic trading, and their combined influence on modern economic dynamics."
+category: quant_concept
+description: Explore the critical interplay between loose credit, financial policy,
+  and algorithmic trading, and their combined influence on modern economic dynamics.
+title: 'Loose Credit: Definition and Mechanism (Algo Trading)'
 ---
 
 The intersection of financial policy, loose credit conditions, and algorithmic trading is a critical area of study, offering significant insights into the contemporary financial landscape. Understanding how these components interact provides a comprehensive view of their impact on the broader economy. Financial policy, particularly through the instruments of monetary policy, plays a pivotal role in shaping credit conditions. By adjusting interest rates and employing measures such as quantitative easing, central banks can influence economic activity, stimulating or restraining borrowing and spending behaviors.

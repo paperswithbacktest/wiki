@@ -1,6 +1,15 @@
 ---
-title: "ECN Broker (Algo Trading)"
-description: "Explore the dynamic world of forex trading through the lens of ECN brokers and algorithmic trading. ECN brokers bridge the gap between buyers and sellers, offering direct market access with increased transparency and tighter spreads. Their role as facilitators ensures efficient trade executions with minimal conflicts of interest. Algorithmic trading leverages computer algorithms to execute trades swiftly, reducing human error and optimizing speed and accuracy. The synergy between ECN brokers and algo trading creates a powerful trading environment, making it appealing to individuals and institutions seeking to capitalize on forex market opportunities with precision and efficiency."
+category: quant_concept
+description: Explore the dynamic world of forex trading through the lens of ECN brokers
+  and algorithmic trading. ECN brokers bridge the gap between buyers and sellers,
+  offering direct market access with increased transparency and tighter spreads. Their
+  role as facilitators ensures efficient trade executions with minimal conflicts of
+  interest. Algorithmic trading leverages computer algorithms to execute trades swiftly,
+  reducing human error and optimizing speed and accuracy. The synergy between ECN
+  brokers and algo trading creates a powerful trading environment, making it appealing
+  to individuals and institutions seeking to capitalize on forex market opportunities
+  with precision and efficiency.
+title: ECN Broker (Algo Trading)
 ---
 
 An Electronic Communication Network (ECN) in forex trading is a type of computerized system that facilitates the trading of foreign currencies by allowing investors to directly connect with one another. Unlike traditional trading settings where brokers act as intermediaries between market participants, ECNs serve as a bridge between buyers and sellers, automatically matching orders based on given criteria. This system operates on a networked platform, providing an arena for traders to engage with minimal interference or oversight.

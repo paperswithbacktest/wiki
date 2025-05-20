@@ -1,6 +1,9 @@
 ---
-title: "Coupon Stripping: Meaning, Mechanism, and Example (Algo Trading)"
-description: "Discover coupon stripping as a financial technique that separates bond interest and principal into tradable securities Learn its benefits and applications here"
+category: quant_concept
+description: Discover coupon stripping as a financial technique that separates bond
+  interest and principal into tradable securities Learn its benefits and applications
+  here
+title: 'Coupon Stripping: Meaning, Mechanism, and Example (Algo Trading)'
 ---
 
 The financial markets offer a variety of instruments that cater to different investment strategies and goals. Among these instruments, bonds stand out due to their stable income generation and relatively lower risk compared to equities. Bonds are considered one of the fundamental components of investment portfolios because they provide predictable cash flow through interest payments, offering a measure of safety against the volatility typically associated with stocks. 

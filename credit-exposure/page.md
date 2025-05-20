@@ -1,6 +1,9 @@
 ---
-title: "Credit Exposure (Algo Trading)"
-description: "Explore the intricacies of credit risk and financial exposure in banking and discover how algorithmic trading enhances risk management for institutions and investors."
+category: quant_concept
+description: Explore the intricacies of credit risk and financial exposure in banking
+  and discover how algorithmic trading enhances risk management for institutions and
+  investors.
+title: Credit Exposure (Algo Trading)
 ---
 
 In today's rapidly evolving financial landscape, understanding banking credit risk and financial exposure is essential for both financial institutions and investors. These two elements are intertwined, significantly influencing decision-making processes, risk assessment, and strategic financial planning. Credit risk represents the possibility of a loss resulting from a borrower's failure to repay a loan or meet contractual obligations. Monitoring and managing this risk are fundamental to a bank's sustainability and profitability. 

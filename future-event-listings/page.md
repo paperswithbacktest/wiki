@@ -1,6 +1,8 @@
 ---
-title: "Future Event Listings (Algo Trading)"
-description: "Discover how upcoming events impact market dynamics and how algo trading leverages these insights to enhance trading strategies and manage risks effectively."
+category: dataset
+description: Discover how upcoming events impact market dynamics and how algo trading
+  leverages these insights to enhance trading strategies and manage risks effectively.
+title: Future Event Listings (Algo Trading)
 ---
 
 The world of trading constantly adapts as numerous events and occasions impact market dynamics. Critical events such as economic reports, corporate announcements, and geopolitical developments play a significant role in influencing market behavior. In this constantly changing environment, algorithmic trading, commonly referred to as algo trading, offers traders a powerful tool to harness these events and derive trading opportunities.

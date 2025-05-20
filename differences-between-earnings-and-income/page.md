@@ -1,6 +1,8 @@
 ---
-title: "Differences Between Earnings and Income (Algo Trading)"
-description: "Discover how understanding financial concepts like earnings, income, and algorithmic trading can enhance investment strategies and improve trading outcomes."
+category: quant_concept
+description: Discover how understanding financial concepts like earnings, income,
+  and algorithmic trading can enhance investment strategies and improve trading outcomes.
+title: Differences Between Earnings and Income (Algo Trading)
 ---
 
 In the rapidly evolving world of finance, understanding key financial terms is crucial for making informed investment decisions. Financial concepts such as earnings, income, and algorithmic trading play pivotal roles in shaping investment strategies. This article aims to explore these essential financial concepts, highlighting their significance in optimizing financial strategies and improving trading outcomes.

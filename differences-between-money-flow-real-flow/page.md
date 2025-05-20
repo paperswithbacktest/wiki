@@ -1,6 +1,9 @@
 ---
-title: "Differences Between Money Flow and Real Flow (Algo Trading)"
-description: "Explore the intricate relationship between money flow and real flow in algorithmic trading, highlighting their roles in economic exchanges and financial markets."
+category: quant_concept
+description: Explore the intricate relationship between money flow and real flow in
+  algorithmic trading, highlighting their roles in economic exchanges and financial
+  markets.
+title: Differences Between Money Flow and Real Flow (Algo Trading)
 ---
 
 The economic landscape is a complex interplay of various flows, fundamental to understanding how economies operate and remain connected worldwide. These flows primarily include the movement of goods and services—known as real flows—and the movement of money, referred to as money flows. Real flows signify the transfer of tangible goods and services from producers to consumers, which drives the actual economic exchange and production processes. Money flows, however, represent the financial transactions that accompany these exchanges, encompassing payments made by consumers to producers and the subsequent distribution of income among economic agents.

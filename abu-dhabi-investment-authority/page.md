@@ -1,6 +1,9 @@
 ---
-title: "Abu Dhabi Investment Authority (Algo Trading)"
-description: "The Abu Dhabi Investment Authority employs algorithmic trading to optimize investment strategies enhancing precision and efficiency while navigating global markets."
+category: quant_concept
+description: The Abu Dhabi Investment Authority employs algorithmic trading to optimize
+  investment strategies enhancing precision and efficiency while navigating global
+  markets.
+title: Abu Dhabi Investment Authority (Algo Trading)
 ---
 
 The Abu Dhabi Investment Authority (ADIA) holds a pivotal position in global finance as one of the most prominent sovereign wealth funds, managing assets reportedly worth over $700 billion. This substantial capital base enables ADIA to wield significant influence in investment markets worldwide. Central to ADIA's strategy is the incorporation of algorithmic trading, a method that has transformed investment management through enhanced precision and efficiency. Algorithmic trading involves using complex computer algorithms to execute trades based on specific criteria such as time, price, and volume. 

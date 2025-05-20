@@ -1,6 +1,9 @@
 ---
-title: "Negative Volume Index: Overview and Calculations (Algo Trading)"
-description: "Explore the Negative Volume Index (NVI) as a distinctive tool in algorithmic trading offering insights into market dynamics during low-volume days to reveal smarter money trends."
+category: quant_concept
+description: Explore the Negative Volume Index (NVI) as a distinctive tool in algorithmic
+  trading offering insights into market dynamics during low-volume days to reveal
+  smarter money trends.
+title: 'Negative Volume Index: Overview and Calculations (Algo Trading)'
 ---
 
 Financial trading relies heavily on various indicators to aid traders and investors in making informed decisions. One such distinctive tool is the Negative Volume Index (NVI), which focuses specifically on the influence of down volume days on market prices. The NVI is especially relevant in the context of algorithmic trading and comprehensive financial market analysis. 

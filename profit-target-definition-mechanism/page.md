@@ -1,6 +1,9 @@
 ---
-title: "Profit Target: Definition and Mechanism (Algo Trading)"
-description: "Explore the profit target strategy in algorithmic trading which enhances investing precision and discipline by automating predefined exit points for optimal gains."
+category: trading_strategy
+description: Explore the profit target strategy in algorithmic trading which enhances
+  investing precision and discipline by automating predefined exit points for optimal
+  gains.
+title: 'Profit Target: Definition and Mechanism (Algo Trading)'
 ---
 
 Modern investing has transformed significantly, utilizing sophisticated tools and strategies aimed at optimizing profits while minimizing risks. One such innovative approach is profit target investing, a method which involves setting predetermined price levels to exit trades and secure gains. This strategy supports traders in maintaining a disciplined approach to investment, reducing the influence of emotional decision-making which can lead to impulsive actions and heightened risk.

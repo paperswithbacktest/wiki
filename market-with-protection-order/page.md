@@ -1,6 +1,8 @@
 ---
-title: "Market With Protection Order (Algo Trading)"
-description: "Explore the dynamics of protection orders in algorithmic trading. Understand their role in risk management and execution precision for optimal market participation."
+category: quant_concept
+description: Explore the dynamics of protection orders in algorithmic trading. Understand
+  their role in risk management and execution precision for optimal market participation.
+title: Market With Protection Order (Algo Trading)
 ---
 
 The financial trading market is a dynamic and intricate ecosystem, consistently evolving as technological advancements and strategic innovations drive transformation. At the heart of this market's complexity lie trading orders, which are instrumental in executing transactions and navigating the multifaceted landscape of financial instruments. As technology propels the industry forward, algorithmic trading has surged to the forefront, making the comprehension of various order types, particularly protection orders, increasingly critical.

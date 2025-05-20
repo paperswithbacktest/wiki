@@ -1,6 +1,8 @@
 ---
-title: "Native Tokens in Cryptocurrency (Algo Trading)"
-description: "Explore blockchain's role in cryptocurrency and native tokens. Understand how algorithmic trading leverages these components to enhance market efficiency."
+category: quant_concept
+description: Explore blockchain's role in cryptocurrency and native tokens. Understand
+  how algorithmic trading leverages these components to enhance market efficiency.
+title: Native Tokens in Cryptocurrency (Algo Trading)
 ---
 
 Blockchain technology, cryptocurrency, native tokens, and algorithmic trading are four distinct yet interconnected components increasingly shaping modern financial systems and technological landscapes. To begin, blockchain is a decentralized ledger technology that securely records transactions across multiple computers. This technology underpins cryptocurrencies, which are digital or virtual currencies designed to work as a medium of exchange using cryptography to secure transactions. Unlike traditional fiat currencies, cryptocurrencies operate independently of a central bank.

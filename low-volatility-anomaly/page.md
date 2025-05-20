@@ -1,6 +1,14 @@
 ---
-title: "Low-volatility anomaly (Algo Trading)"
-description: Explore the intriguing low-volatility anomaly, where stocks with lower volatility defy traditional financial theories by delivering higher risk-adjusted returns than their high-volatility counterparts. This anomaly questions the Capital Asset Pricing Model's risk-return assumptions and influences modern investment strategies, including algorithmic trading, which capitalizes on these inefficiencies. Discover the historical evidence supporting this phenomenon and understand the market dynamics that make low-volatility investing appealing, offering both challenges and opportunities for investors seeking to enhance returns while managing risk effectively.
+category: quant_concept
+description: Explore the intriguing low-volatility anomaly, where stocks with lower
+  volatility defy traditional financial theories by delivering higher risk-adjusted
+  returns than their high-volatility counterparts. This anomaly questions the Capital
+  Asset Pricing Model's risk-return assumptions and influences modern investment strategies,
+  including algorithmic trading, which capitalizes on these inefficiencies. Discover
+  the historical evidence supporting this phenomenon and understand the market dynamics
+  that make low-volatility investing appealing, offering both challenges and opportunities
+  for investors seeking to enhance returns while managing risk effectively.
+title: Low-volatility anomaly (Algo Trading)
 ---
 
 The low-volatility anomaly refers to the empirical finding that, contrary to the predictions of traditional financial theories such as the Capital Asset Pricing Model (CAPM), stocks or portfolios with lower volatility tend to provide higher risk-adjusted returns than their higher-volatility counterparts. This phenomenon is significant in the fields of investing and finance as it challenges the conventional understanding that higher risk is compensated with higher returns. According to CAPM, the expected return of a security is directly proportional to its beta, a measure of risk relative to the market. The model posits that investors require a risk premium for holding riskier assets, which should lead to higher returns for those assets. However, the low-volatility anomaly turns this idea on its head by suggesting that securities with lower risk (lower volatility) can yield better returns on a risk-adjusted basis, thereby questioning the foundational risk-return trade-off presented by CAPM.

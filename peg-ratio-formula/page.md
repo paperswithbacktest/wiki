@@ -1,6 +1,9 @@
 ---
-title: "PEG Ratio and Its Formula (Algo Trading)"
-description: "Discover how the PEG ratio offers a comprehensive stock valuation by integrating growth forecasts, essential for informed investment and algorithmic trading."
+category: quant_concept
+description: Discover how the PEG ratio offers a comprehensive stock valuation by
+  integrating growth forecasts, essential for informed investment and algorithmic
+  trading.
+title: PEG Ratio and Its Formula (Algo Trading)
 ---
 
 Investment analysis is a domain filled with complexity, where various metrics serve pivotal roles in evaluating stock value. Among these, the Price/Earnings-to-Growth (PEG) ratio stands out as a significant measure. This metric not only incorporates the essential Price-to-Earnings (P/E) ratio but also factors in expected earnings growth, offering a more holistic view of a stock's potential value. Consequently, the PEG ratio emerges as a critical tool for investors seeking to navigate the complexities of the market with greater precision.

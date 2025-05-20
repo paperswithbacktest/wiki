@@ -1,6 +1,9 @@
 ---
-title: "Chilean Peso: History and Exchange Rate (Algo Trading)"
-description: "Explore the fascinating dynamics of the Chilean Peso its history and significance in forex markets along with the role of algorithmic trading in optimizing CLP strategies."
+category: dataset
+description: Explore the fascinating dynamics of the Chilean Peso its history and
+  significance in forex markets along with the role of algorithmic trading in optimizing
+  CLP strategies.
+title: 'Chilean Peso: History and Exchange Rate (Algo Trading)'
 ---
 
 In this article, we will explore the fascinating dynamics of the Chilean Peso (CLP), its historical context, and its importance in the foreign exchange market. The Chilean Peso, abbreviated as CLP, serves as the official currency of Chile and has a significant role not only in its domestic economy but also in international markets. First introduced in the 19th century, the peso has evolved, reflecting the economic transitions Chile has experienced over the centuries. 

@@ -1,6 +1,8 @@
 ---
-title: "CAPE Ratio: Shiller P/E Ratio Overview and Applications (Algo Trading)"
-description: "Explore the CAPE Ratio Shiller P/E Ratio and its applications in algorithmic trading to understand stock market valuations and potential investment strategies."
+category: quant_concept
+description: Explore the CAPE Ratio Shiller P/E Ratio and its applications in algorithmic
+  trading to understand stock market valuations and potential investment strategies.
+title: 'CAPE Ratio: Shiller P/E Ratio Overview and Applications (Algo Trading)'
 ---
 
 The CAPE Ratio, or Cyclically Adjusted Price-to-Earnings Ratio, is also known as the Shiller P/E Ratio. It is a fundamental financial metric widely utilized to gauge whether the stock market is overvalued or undervalued. Unlike traditional price-to-earnings ratios, the CAPE Ratio offers a more nuanced understanding by smoothing out the earnings component over a ten-year timeframe. This approach accounts for economic cycles and adjusts for inflation, making the CAPE Ratio a robust tool for mitigating short-term volatility often witnessed in financial markets.

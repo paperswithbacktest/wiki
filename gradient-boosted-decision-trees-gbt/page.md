@@ -1,7 +1,8 @@
 ---
-title: Understanding Gradient Boosted Trees for Accurate Predictions
+category: quant_concept
 description: Gradient Boosted Trees improve predictive accuracy by combining decision
   trees with gradient descent to correct errors iteratively. Discover more inside
+title: Understanding Gradient Boosted Trees for Accurate Predictions
 ---
 
 ![Image](images/1.png)

@@ -1,6 +1,8 @@
 ---
-title: "Financial Systems: Types and Market Components (Algo Trading)"
-description: "Explore the intricacies of financial systems and market components including algorithmic trading to make informed investment decisions in today's global economy."
+category: quant_concept
+description: Explore the intricacies of financial systems and market components including
+  algorithmic trading to make informed investment decisions in today's global economy.
+title: 'Financial Systems: Types and Market Components (Algo Trading)'
 ---
 
 In today's fast-paced financial landscape, understanding the different types of financial systems, market components, and the role of algorithmic trading is crucial for both new and experienced investors. As global markets become increasingly interconnected, navigating the complex web of financial systems requires a nuanced grasp of the structures and entities that drive economic activity. This article aims to demystify these concepts, providing a comprehensive guide to financial systems and their components while exploring the impact of algorithmic trading on financial markets.

@@ -1,6 +1,8 @@
 ---
-title: "Municipal Inflation-Linked Securities (Algo Trading)"
-description: "Explore the synergy of municipal inflation-linked securities and algorithmic trading to enhance portfolio resilience and optimize trades in uncertain markets."
+category: trading_strategy
+description: Explore the synergy of municipal inflation-linked securities and algorithmic
+  trading to enhance portfolio resilience and optimize trades in uncertain markets.
+title: Municipal Inflation-Linked Securities (Algo Trading)
 ---
 
 The world of finance is continuously evolving, introducing innovative strategies and instruments to meet the demands of modern markets. One of the critical areas of development is the integration of municipal bonds, inflation-linked securities, and algorithmic trading, which is reshaping the landscape of fixed-income investments. These three components, when combined, offer distinct advantages for investors, especially in times of economic uncertainty and inflationary pressures.

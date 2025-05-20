@@ -1,6 +1,8 @@
 ---
-title: "Exchange-Traded Funds in Sector Rotation Strategies (Algo Trading)"
-description: "Explore how sector rotation, ETFs, and algorithmic trading optimize modern investment strategies, enhancing portfolio performance across economic cycles."
+category: trading_strategy
+description: Explore how sector rotation, ETFs, and algorithmic trading optimize modern
+  investment strategies, enhancing portfolio performance across economic cycles.
+title: Exchange-Traded Funds in Sector Rotation Strategies (Algo Trading)
 ---
 
 In the world of investing, staying adaptive and informed is key to maximizing returns. As markets evolve rapidly, investors must employ strategies that help navigate these ongoing fluctuations. Sector rotation, ETFs (Exchange-Traded Funds), and algorithmic trading are three pivotal components of contemporary investment strategies that aid in achieving these objectives.

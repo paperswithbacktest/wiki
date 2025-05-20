@@ -1,6 +1,11 @@
 ---
-title: "Amihud’s lambda (Algo Trading)"
-description: Discover Amihud's Lambda a powerful metric for measuring market illiquidity and its impact on asset prices perfect for enhancing algorithmic trading strategies by managing liquidity risks effectively. Learn to calculate and apply this essential tool to optimize trade execution and ensure more efficient trading in less liquid markets.
+category: quant_concept
+description: Discover Amihud's Lambda a powerful metric for measuring market illiquidity
+  and its impact on asset prices perfect for enhancing algorithmic trading strategies
+  by managing liquidity risks effectively. Learn to calculate and apply this essential
+  tool to optimize trade execution and ensure more efficient trading in less liquid
+  markets.
+title: Amihud’s lambda (Algo Trading)
 ---
 
 Quantifying liquidity and understanding market dynamics are essential components in algorithmic trading. One notable measure that has gained recognition is Amihud’s Lambda. This metric is specifically designed to assess market illiquidity, offering valuable insights into how market orders impact asset prices. By examining the relationship between price changes and trading volume, Amihud's Lambda provides a quantitative basis for evaluating the cost of executing trades in less liquid markets.

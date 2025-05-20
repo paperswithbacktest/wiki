@@ -1,6 +1,8 @@
 ---
-title: "Micro E-Mini Futures as an Emerging Financial Instrument (Algo Trading)"
-description: "Explore Micro E-mini futures and algorithmic trading. Discover how these innovations create accessible investment strategies and transform futures trading."
+category: quant_concept
+description: Explore Micro E-mini futures and algorithmic trading. Discover how these
+  innovations create accessible investment strategies and transform futures trading.
+title: Micro E-Mini Futures as an Emerging Financial Instrument (Algo Trading)
 ---
 
 Futures trading has traditionally been a domain dominated by institutional investors due to the complexity and substantial capital requirements associated with these financial instruments. However, the landscape is undergoing a significant transformation with the introduction of Micro E-mini futures, which are smaller-sized futures contracts that offer a more accessible gateway for retail investors to participate in futures markets. These instruments, introduced by the Chicago Mercantile Exchange (CME) in 2019, are specifically designed to mimic the performance of major stock indexes at a fraction of the cost and size of traditional futures contracts. This democratization of access allows individual investors to manage their portfolios with precision, utilizing sophisticated futures strategies previously reserved for larger market players.

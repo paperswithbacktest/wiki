@@ -1,6 +1,8 @@
 ---
-title: "After-Hours Trading: Mechanisms, Benefits, and Risks (Algo Trading)"
-description: "Discover the mechanics, advantages, and risks of after-hours trading with algorithmic strategies. Learn to navigate this dynamic, high-volatility market."
+category: quant_concept
+description: Discover the mechanics, advantages, and risks of after-hours trading
+  with algorithmic strategies. Learn to navigate this dynamic, high-volatility market.
+title: 'After-Hours Trading: Mechanisms, Benefits, and Risks (Algo Trading)'
 ---
 
 After-hours trading refers to the buying and selling of stocks outside the standard market hours, which typically run from 9:30 AM to 4:00 PM Eastern Time in the United States. In recent years, this practice has gained popularity among investors due to its potential to react promptly to market-moving news released outside traditional trading times. The growing accessibility of trading platforms and technological enhancements, particularly algorithmic trading, have facilitated this expansion.

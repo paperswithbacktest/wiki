@@ -1,6 +1,8 @@
 ---
-title: "Security Market Line Characteristics (Algo Trading)"
-description: "Explore the Security Market Line as part of the CAPM to evaluate asset pricing and risk in algo trading Gain insights into optimal investment strategies"
+category: quant_concept
+description: Explore the Security Market Line as part of the CAPM to evaluate asset
+  pricing and risk in algo trading Gain insights into optimal investment strategies
+title: Security Market Line Characteristics (Algo Trading)
 ---
 
 The financial markets offer an array of models designed to comprehend the intricate relationship between risk and return. Among these models, the Security Market Line (SML) holds a significant place as part of the Capital Asset Pricing Model (CAPM), which fundamentally alters how investors assess securities. The CAPM framework posits that the expected return of a security is determined by its systematic risk, measured by beta ($\beta$), in relation to the market as a whole. The Security Market Line graphically represents this relationship, providing a linear depiction where the risk-free rate intersects with the market risk premium to form a basis for evaluation.

@@ -1,6 +1,9 @@
 ---
-title: "Challenges in Real Estate Development (Algo Trading)"
-description: "Explore the intersection of real estate development and algorithmic trading highlighting their challenges and impacts on investors and market dynamics. Discover how these trends shape economic growth."
+category: quant_concept
+description: Explore the intersection of real estate development and algorithmic trading
+  highlighting their challenges and impacts on investors and market dynamics. Discover
+  how these trends shape economic growth.
+title: Challenges in Real Estate Development (Algo Trading)
 ---
 
 Real estate property development is a crucial component of economic growth, providing necessary infrastructure and housing, while profoundly influencing financial markets. This process involves a series of stages that commence with land acquisition and follow through to the construction and sale or leasing of properties. At its core, real estate development affords numerous benefits, including job creation and improved living standards, making it a significant marker of a country's prosperity.

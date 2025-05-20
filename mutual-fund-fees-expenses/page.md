@@ -1,6 +1,8 @@
 ---
-title: "Mutual Fund Fees and Expenses (Algo Trading)"
-description: "Discover how mutual fund fees and expenses affect your investment returns and explore how algorithmic trading can optimize costs for better performance."
+category: quant_concept
+description: Discover how mutual fund fees and expenses affect your investment returns
+  and explore how algorithmic trading can optimize costs for better performance.
+title: Mutual Fund Fees and Expenses (Algo Trading)
 ---
 
 Understanding mutual fund expenses is paramount for investors aiming to maximize their investment returns. Although mutual funds are a popular choice due to their diversification and professional management, they come with various associated costs that can significantly influence overall investment performance. Investors might inadvertently overlook how fees can erode their portfolio's value over time, highlighting the necessity for a detailed comprehension of these expenses.

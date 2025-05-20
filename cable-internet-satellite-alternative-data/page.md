@@ -1,6 +1,14 @@
 ---
-title: "Cable/Internet/Satellite Alternative Data (Algo Trading)"
-description: Discover how cable internet and satellite data are reshaping algorithmic trading by providing unique insights that traditional datasets may miss. This page explores integrating these alternative data sources into trading strategies, enhancing market intelligence and helping traders anticipate market shifts. By understanding broadband usage, consumer behavior patterns, or global economic activities from an aerial view, traders can optimize their strategies to gain a competitive edge. Learn about the potential of cable internet and satellite data in refining trading methodologies for proactive decision-making.
+category: dataset
+description: Discover how cable internet and satellite data are reshaping algorithmic
+  trading by providing unique insights that traditional datasets may miss. This page
+  explores integrating these alternative data sources into trading strategies, enhancing
+  market intelligence and helping traders anticipate market shifts. By understanding
+  broadband usage, consumer behavior patterns, or global economic activities from
+  an aerial view, traders can optimize their strategies to gain a competitive edge.
+  Learn about the potential of cable internet and satellite data in refining trading
+  methodologies for proactive decision-making.
+title: Cable/Internet/Satellite Alternative Data (Algo Trading)
 ---
 
 Algorithmic trading is under continuous innovation, with traders persistently seeking novel insights to gain a competitive edge. As traditional data sources become increasingly saturated, the financial industry is turning its attention toward alternative data. Cable Internet and satellite data have emerged as prominent alternative data sources, offering invaluable information that traditional datasets may not capture.

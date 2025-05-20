@@ -1,7 +1,8 @@
 ---
-title: Neural Network Backbone Architectures Explained and Compared
+category: quant_concept
 description: Backbone architectures empower neural networks with modern designs that
   improve feature extraction and inference speed. Discover more inside.
+title: Neural Network Backbone Architectures Explained and Compared
 ---
 
 ![Image](images/1.png)

@@ -1,6 +1,12 @@
 ---
-title: "Double Entry in Accounting: Purpose and Application (Algo Trading)"
-description: "Discover the fundamental principles of double-entry accounting and its integral role in effective financial management and algorithmic trading. Learn how the double-entry system ensures precise record-keeping and error detection, contributing to robust financial health and strategic planning. Explore the synergy between modern accounting practices and algo trading to enhance decision-making and foster business growth."
+category: quant_concept
+description: Discover the fundamental principles of double-entry accounting and its
+  integral role in effective financial management and algorithmic trading. Learn how
+  the double-entry system ensures precise record-keeping and error detection, contributing
+  to robust financial health and strategic planning. Explore the synergy between modern
+  accounting practices and algo trading to enhance decision-making and foster business
+  growth.
+title: 'Double Entry in Accounting: Purpose and Application (Algo Trading)'
 ---
 
 Accurate financial management is essential for businesses of every scale. It provides the foundation for maintaining fiscal health, ensuring regulatory compliance, and supporting strategic decision-making. Key components of effective financial management include accounting, bookkeeping, the double-entry system, and algorithmic trading. Each of these elements contributes uniquely to establishing a seamless and scalable financial infrastructure.

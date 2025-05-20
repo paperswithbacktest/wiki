@@ -1,6 +1,8 @@
 ---
-title: "Difference Between Profit Margin and Markup (Algo Trading)"
-description: "Explore the essential differences between profit margin and markup for effective pricing strategies in algorithmic trading to optimize profitability decisions."
+category: quant_concept
+description: Explore the essential differences between profit margin and markup for
+  effective pricing strategies in algorithmic trading to optimize profitability decisions.
+title: Difference Between Profit Margin and Markup (Algo Trading)
 ---
 
 Understanding financial terms is crucial for businesses that aim to optimize their pricing strategies. Fundamental concepts such as profit margin and markup often lead to confusion, even among seasoned professionals. These concepts, while similar, provide distinct insights into the profitability and cost structure of a business, making them essential for informed decision-making in various economic sectors, including trading.

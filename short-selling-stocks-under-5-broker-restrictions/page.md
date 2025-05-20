@@ -1,6 +1,9 @@
 ---
-title: "Short Selling Stocks Under $5: Broker Restrictions and Regulations (Algo Trading)"
-description: "Discover the nuances of short selling stocks under $5, penny stocks, and algorithmic trading Understand broker restrictions and regulations to trade strategically"
+category: trading_strategy
+description: Discover the nuances of short selling stocks under $5, penny stocks,
+  and algorithmic trading Understand broker restrictions and regulations to trade
+  strategically
+title: 'Short Selling Stocks Under $5: Broker Restrictions and Regulations (Algo Trading)'
 ---
 
 Penny stocks, short selling, and algorithmic trading are prominent aspects of the financial markets, each offering distinct opportunities and challenges to traders and investors. These trading strategies are influenced by a variety of broker-imposed restrictions that have a significant impact on their execution. Understanding these restrictions is crucial for investors looking to navigate the complexities of the financial markets effectively.

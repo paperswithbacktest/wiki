@@ -1,6 +1,8 @@
 ---
-title: "Reading and Trading Bond Quotes (Algo Trading)"
-description: "Discover the world of bond trading to understand bond quotes which reveal price and yield insights crucial for informed investment strategies in algo trading."
+category: trading_strategy
+description: Discover the world of bond trading to understand bond quotes which reveal
+  price and yield insights crucial for informed investment strategies in algo trading.
+title: Reading and Trading Bond Quotes (Algo Trading)
 ---
 
 The world of bond trading offers a plethora of opportunities for investors seeking fixed income securities. Bonds represent a fundamental component of the financial world, providing a stable form of income to investors while allowing governments and corporations to raise capital. They are considered less volatile compared to equities, which makes them particularly appealing during periods of economic uncertainty.

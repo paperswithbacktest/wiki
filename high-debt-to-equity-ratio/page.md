@@ -1,6 +1,8 @@
 ---
-title: "High Debt-To-Equity Ratio (Algo Trading)"
-description: "Discover how the high debt-to-equity ratio impacts financial leverage and risk. Learn its role in algorithmic trading and industry-specific considerations."
+category: quant_concept
+description: Discover how the high debt-to-equity ratio impacts financial leverage
+  and risk. Learn its role in algorithmic trading and industry-specific considerations.
+title: High Debt-To-Equity Ratio (Algo Trading)
 ---
 
 The debt-to-equity (D/E) ratio is a fundamental financial metric used to evaluate a company's financial leverage. It is calculated by dividing a company's total liabilities by its shareholder equity:

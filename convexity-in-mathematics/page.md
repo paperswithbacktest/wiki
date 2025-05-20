@@ -1,6 +1,13 @@
 ---
-title: "Convexity in Mathematics (Algo Trading)"
-description: "Explore the essential role of geometry, mathematics, and convexity in algorithmic trading. Understand how these foundational concepts enhance the modeling and execution of trades in financial markets. Discover how convexity aids in risk management by assessing bond price sensitivity to interest rate changes, enabling sophisticated trading strategies and improved decision-making in dynamic environments. Delve into the synergy between geometric visualization and mathematical computations for analyzing market trends and developing predictive algorithms."
+category: quant_concept
+description: Explore the essential role of geometry, mathematics, and convexity in
+  algorithmic trading. Understand how these foundational concepts enhance the modeling
+  and execution of trades in financial markets. Discover how convexity aids in risk
+  management by assessing bond price sensitivity to interest rate changes, enabling
+  sophisticated trading strategies and improved decision-making in dynamic environments.
+  Delve into the synergy between geometric visualization and mathematical computations
+  for analyzing market trends and developing predictive algorithms.
+title: Convexity in Mathematics (Algo Trading)
 ---
 
 Geometry, mathematics, and convexity are foundational elements in the landscape of algorithmic trading, each contributing significantly to the modeling and execution of trades in financial markets. Geometry provides a structural understanding of relationships between different mathematical entities, offering tools for representing and visualizing complex data structures that are crucial in analyzing market trends. Mathematics, more broadly, serves as the backbone for developing models that interpret and predict financial data, allowing for the efficient automation of trading strategies. 

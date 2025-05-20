@@ -1,6 +1,8 @@
 ---
-title: "Common Pitfalls of Moving Averages (Algo Trading)"
-description: "Explore the common pitfalls of moving averages in algorithmic trading Understand the challenges in relying on these indicators for smarter strategy development"
+category: trading_strategy
+description: Explore the common pitfalls of moving averages in algorithmic trading
+  Understand the challenges in relying on these indicators for smarter strategy development
+title: Common Pitfalls of Moving Averages (Algo Trading)
 ---
 
 Technical analysis plays an indispensable role for traders looking to predict price movements in financial markets. Among the myriad of technical indicators available, moving averages stand out for their simplicity and effectiveness in trend identification. Moving averages are used to smooth out price data, helping to reduce noise and present a clearer picture of market direction. However, despite their popularity and ease of use, moving averages can present several financial pitfalls, particularly when incorporated into algorithmic trading strategies.

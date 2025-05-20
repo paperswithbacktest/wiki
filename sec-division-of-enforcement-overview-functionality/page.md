@@ -1,6 +1,11 @@
 ---
-title: "SEC Division of Enforcement Overview and Functionality (Algo Trading)"
-description: "Explore the role of the SEC's Division of Enforcement in ensuring financial compliance and market integrity amid challenges posed by algorithmic trading. Learn how the division adapts its strategies to guard against market manipulation, leveraging advanced data analytics and deepening its regulatory approach to address evolving securities law issues including cryptocurrency and cybersecurity."
+category: quant_concept
+description: Explore the role of the SEC's Division of Enforcement in ensuring financial
+  compliance and market integrity amid challenges posed by algorithmic trading. Learn
+  how the division adapts its strategies to guard against market manipulation, leveraging
+  advanced data analytics and deepening its regulatory approach to address evolving
+  securities law issues including cryptocurrency and cybersecurity.
+title: SEC Division of Enforcement Overview and Functionality (Algo Trading)
 ---
 
 Financial compliance has emerged as a central focus within the financial industry, driven by the evolving complexities of global financial markets. The U.S. Securities and Exchange Commission (SEC) stands at the forefront of this effort, with its Division of Enforcement playing a crucial role. Established to uphold the integrity of financial markets, the SEC oversees compliance with securities laws and strives to protect investors from fraudulent activities.

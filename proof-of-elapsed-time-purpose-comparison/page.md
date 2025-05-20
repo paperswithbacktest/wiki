@@ -1,6 +1,9 @@
 ---
-title: "Proof of Elapsed Time: Purpose and Comparison with Proof of Work (Algo Trading)"
-description: "Explore the advantages of Proof of Elapsed Time over Proof of Work for blockchain consensus highlighting energy efficiency and improved scalability in trading platforms."
+category: quant_concept
+description: Explore the advantages of Proof of Elapsed Time over Proof of Work for
+  blockchain consensus highlighting energy efficiency and improved scalability in
+  trading platforms.
+title: 'Proof of Elapsed Time: Purpose and Comparison with Proof of Work (Algo Trading)'
 ---
 
 Blockchain technology has undergone a significant transformation over the past decade, primarily driven by the need for more efficient and sustainable consensus algorithms. At the heart of any blockchain or cryptocurrency network is the consensus mechanism, a protocol crucial for ensuring that all participants agree on a single state of the network, thereby facilitating secure and transparent transactions. The introduction of Bitcoin in 2009 marked the debut of Proof of Work (PoW) as the original consensus algorithm. While PoW offered robust security, it has increasingly been criticized for its considerable energy consumption and scalability challenges.

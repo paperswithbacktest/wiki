@@ -1,6 +1,11 @@
 ---
-title: "Linear Regression: Assumptions and Limitations (Algo Trading)"
-description: Explore the key assumptions and limitations of using linear regression in algorithmic trading to better understand its applications and shortcomings. Learn about the core principles, potential issues like multicollinearity and autocorrelation, and discover alternative methods to enhance trading strategies for more reliable market predictions.
+category: quant_concept
+description: Explore the key assumptions and limitations of using linear regression
+  in algorithmic trading to better understand its applications and shortcomings. Learn
+  about the core principles, potential issues like multicollinearity and autocorrelation,
+  and discover alternative methods to enhance trading strategies for more reliable
+  market predictions.
+title: 'Linear Regression: Assumptions and Limitations (Algo Trading)'
 ---
 
 Algorithmic trading involves the use of advanced mathematical models and computational techniques to execute trades at speeds and frequencies that are impossible for human traders. This form of trading relies heavily on quantitative models to analyze vast sets of financial data, identify patterns or trends, and make accurate predictions about future market movements. One of the fundamental tools employed in algorithmic trading is linear regression, which is popular due to its simplicity, efficiency, and strong theoretical foundation.

@@ -1,6 +1,8 @@
 ---
-title: "Transaction Risk (Algo Trading)"
-description: "Explore the intricacies of transaction risk in algorithmic trading and discover strategies to manage financial uncertainties effectively in global markets."
+category: quant_concept
+description: Explore the intricacies of transaction risk in algorithmic trading and
+  discover strategies to manage financial uncertainties effectively in global markets.
+title: Transaction Risk (Algo Trading)
 ---
 
 In the rapidly evolving world of finance, understanding risk and effective management strategies is crucial for success. As markets become more technologically driven, the practice of algorithmic trading has gained prominence. Algorithmic trading, often referred to as algo trading, involves using computer algorithms to execute and manage trading orders at speeds and frequencies impossible for human traders. While this offers numerous opportunities for profit and efficiency, it also presents unique challenges, particularly related to financial risks.

@@ -1,6 +1,8 @@
 ---
-title: "Overview of Other Comprehensive Basis of Accounting (Algo Trading)"
-description: "Discover the crucial role of accounting methods in financial reporting and algorithmic trading, exploring OCBOA as a flexible alternative to GAAP."
+category: quant_concept
+description: Discover the crucial role of accounting methods in financial reporting
+  and algorithmic trading, exploring OCBOA as a flexible alternative to GAAP.
+title: Overview of Other Comprehensive Basis of Accounting (Algo Trading)
 ---
 
 The integration of accounting methods with financial reporting and algorithmic trading is increasingly significant in today's rapidly evolving financial landscape. As global markets continue to expand and technology reshapes traditional practices, businesses must adapt to maintain competitiveness, ensure regulatory compliance, and make informed financial decisions. The adoption of advanced accounting methodologies plays a critical role in this adaptation, providing the transparency and accuracy necessary for effective strategic planning and operational efficiency.

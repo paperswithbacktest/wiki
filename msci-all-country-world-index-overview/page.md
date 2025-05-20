@@ -1,6 +1,8 @@
 ---
-title: "MSCI All Country World Index Overview (Algo Trading)"
-description: "Discover the MSCI All Country World Index's pivotal role in global investing as a benchmark for market performance and its integration with algorithmic trading."
+category: dataset
+description: Discover the MSCI All Country World Index's pivotal role in global investing
+  as a benchmark for market performance and its integration with algorithmic trading.
+title: MSCI All Country World Index Overview (Algo Trading)
 ---
 
 Global stock indices play a crucial role in the financial world by providing investors and financial professionals with a comprehensive overview of market performance across different regions and sectors. These indices serve as benchmarks for evaluating investment performances, guiding asset allocation, and offering insights into economic trends. Among the numerous stock indices, the MSCI All Country World Index (ACWI) stands out as a prominent benchmark. Covering both developed and emerging markets, the MSCI ACWI offers a broad representation of global equities, making it an essential tool for investors seeking exposure to international markets. Its widespread recognition and adoption stem from its ability to efficiently gauge the global equity market's health and trends, thereby supporting diversified investment strategies.

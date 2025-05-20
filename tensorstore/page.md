@@ -1,7 +1,8 @@
 ---
-title: Efficient Tensorstore Data Management for Machine Learning
+category: dataset
 description: Tensorstore simplifies handling large multi-dimensional datasets with
   fast chunked storage versioning and ML integration Discover more inside
+title: Efficient Tensorstore Data Management for Machine Learning
 ---
 
 ![Image](images/1.gif)

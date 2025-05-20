@@ -1,6 +1,12 @@
 ---
-title: "Heckscher-Ohlin Model (Algo Trading)"
-description: "Explore the Heckscher-Ohlin model and its impact on international trade, emphasizing how countries export goods utilizing their abundant resources while importing those in scarcity. Understand its integration with algorithmic trading to optimize financial strategies in global markets. Discover how traditional economic theories merge with cutting-edge technology to enhance trade decision-making and foster economic growth."
+category: quant_concept
+description: Explore the Heckscher-Ohlin model and its impact on international trade,
+  emphasizing how countries export goods utilizing their abundant resources while
+  importing those in scarcity. Understand its integration with algorithmic trading
+  to optimize financial strategies in global markets. Discover how traditional economic
+  theories merge with cutting-edge technology to enhance trade decision-making and
+  foster economic growth.
+title: Heckscher-Ohlin Model (Algo Trading)
 ---
 
 The global landscape of trade and finance is shaped by various economic models. Among these, the Heckscher-Ohlin model plays a pivotal role, offering a framework to understand the patterns of international trade. This model, rooted in comparative advantage theory, suggests that countries export goods that utilize their abundant factors of production while importing those that require resources in short supply. This concept shifts the focus from Ricardo's labor-centric comparative advantage to the diverse endowments of labor, capital, and other resources among nations.

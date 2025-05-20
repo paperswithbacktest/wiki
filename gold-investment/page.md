@@ -1,6 +1,9 @@
 ---
-title: "Gold Investment (Algo Trading)"
-description: "Explore gold investment through the lens of algorithmic trading to maximize efficiency. Learn how technological advancements can enhance your precious metals strategy."
+category: trading_strategy
+description: Explore gold investment through the lens of algorithmic trading to maximize
+  efficiency. Learn how technological advancements can enhance your precious metals
+  strategy.
+title: Gold Investment (Algo Trading)
 ---
 
 Investing in gold and other precious metals has consistently attracted investors due to their status as safe-haven assets. Historically, these metals have been perceived as reliable stores of value, offering protection against economic downturns and inflation. Gold, in particular, has been revered for its intrinsic value and ability to preserve wealth over centuries. The stability provided by gold and other precious metals makes them attractive, especially during periods of geopolitical tension and financial instability.

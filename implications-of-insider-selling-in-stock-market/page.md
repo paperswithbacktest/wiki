@@ -1,6 +1,8 @@
 ---
-title: "Implications of Insider Selling in the Stock Market (Algo Trading)"
-description: "Explore the implications of insider selling in the stock market and its effect on investment strategies leveraging financial analysis and algorithmic trading."
+category: trading_strategy
+description: Explore the implications of insider selling in the stock market and its
+  effect on investment strategies leveraging financial analysis and algorithmic trading.
+title: Implications of Insider Selling in the Stock Market (Algo Trading)
 ---
 
 Understanding the intricacies of insider selling in stock markets is crucial for investors seeking to make informed financial decisions. Insider selling refers to corporate insiders, such as executives, directors, and significant shareholders, selling shares of their own company. These transactions, when disclosed, are publicly reported and provide valuable data that can influence investment strategies. 

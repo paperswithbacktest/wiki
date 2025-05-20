@@ -1,6 +1,12 @@
 ---
-title: "Introduction to Portfolio Management (Algo Trading)"
-description: Explore the intricate world of portfolio management in algorithmic trading, where automation and statistical analyses optimize investment returns and balance risk. Learn how pre-programmed instructions and advanced models enhance portfolio efficiency, allowing traders to make data-driven decisions in real-time. Discover the critical components and technologies that drive effective asset allocation and risk management to maximize profits in today’s fast-evolving markets.
+category: trading_strategy
+description: Explore the intricate world of portfolio management in algorithmic trading,
+  where automation and statistical analyses optimize investment returns and balance
+  risk. Learn how pre-programmed instructions and advanced models enhance portfolio
+  efficiency, allowing traders to make data-driven decisions in real-time. Discover
+  the critical components and technologies that drive effective asset allocation and
+  risk management to maximize profits in today’s fast-evolving markets.
+title: Introduction to Portfolio Management (Algo Trading)
 ---
 
 Algorithmic trading, or algo trading, is a sophisticated method of executing financial transactions using pre-programmed instructions that consider various factors such as timing, price, and volume. These algorithms are designed to act as intermediaries between traders and markets, automating processes that traditionally required human intervention and judgment. Within this streamlined trading approach, portfolio management emerges as a critical element, aimed at achieving specific investment objectives through the systematic handling of a collection of financial instruments.

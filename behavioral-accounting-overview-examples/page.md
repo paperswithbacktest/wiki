@@ -1,6 +1,9 @@
 ---
-title: "Behavioral Accounting: Overview and Examples (Algo Trading)"
-description: "Explore the integration of behavioral accounting and algorithmic trading to enhance financial decision-making by merging psychology and advanced trading techniques."
+category: quant_concept
+description: Explore the integration of behavioral accounting and algorithmic trading
+  to enhance financial decision-making by merging psychology and advanced trading
+  techniques.
+title: 'Behavioral Accounting: Overview and Examples (Algo Trading)'
 ---
 
 In the rapidly evolving landscape of finance, accounting, and trading, diverse methodologies and technologies are converging to transform traditional financial practices. The integration of accounting methods, behavioral accounting, and algorithmic trading marks a significant shift in how financial professionals approach decision-making and financial strategies. This confluence of disciplines offers a holistic view of financial dynamics, where understanding the interplay of these elements is key to optimizing financial outcomes.

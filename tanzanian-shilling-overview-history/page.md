@@ -1,6 +1,9 @@
 ---
-title: "Tanzanian Shilling: Overview and History (Algo Trading)"
-description: "Explore the Tanzanian Shilling's history and significance in economic trends and forex markets Learn how algorithmic trading impacts TZS exchange rates and strategies"
+category: quant_concept
+description: Explore the Tanzanian Shilling's history and significance in economic
+  trends and forex markets Learn how algorithmic trading impacts TZS exchange rates
+  and strategies
+title: 'Tanzanian Shilling: Overview and History (Algo Trading)'
 ---
 
 The Tanzanian Shilling (TZS) serves as the official currency of Tanzania and is an essential component of the nation's economic framework. Understanding the TZS's role involves appreciating its history and how exchange rate trends have shaped its current valuation. Currency history provides insight into how economic policies, political events, and market dynamics influence a currency's strength and stability over time. Such an understanding is crucial for individuals and businesses engaged in importing or exporting goods, as well as for those involved in international investments.

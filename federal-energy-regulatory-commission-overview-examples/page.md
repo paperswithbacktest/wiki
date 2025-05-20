@@ -1,6 +1,9 @@
 ---
-title: "Federal Energy Regulatory Commission: Overview and Examples (Algo Trading)"
-description: "Explore how the Federal Energy Regulatory Commission regulates the dynamic energy markets, focusing on the impact and oversight of algorithmic trading in the U.S. energy sector."
+category: quant_concept
+description: Explore how the Federal Energy Regulatory Commission regulates the dynamic
+  energy markets, focusing on the impact and oversight of algorithmic trading in the
+  U.S. energy sector.
+title: 'Federal Energy Regulatory Commission: Overview and Examples (Algo Trading)'
 ---
 
 In recent years, the complexity of energy markets has increased significantly due to the integration of advanced technologies, notably algorithmic trading, which plays a crucial role in managing resources efficiently. Algorithmic trading utilizes complex algorithms to execute trades with speed and precision, responding to supply and demand fluctuations rapidly. This technological shift necessitates rigorous oversight by regulatory bodies to prevent market manipulations and ensure fair trading practices.

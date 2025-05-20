@@ -1,6 +1,9 @@
 ---
-title: "Oprah Effect: Mechanism and Examples (Algo Trading)"
-description: "Explore 'The Oprah Effect' and its impact on consumer behavior, blending celebrity influence with algorithmic trading to shape market dynamics and brand success."
+category: quant_concept
+description: Explore 'The Oprah Effect' and its impact on consumer behavior, blending
+  celebrity influence with algorithmic trading to shape market dynamics and brand
+  success.
+title: 'Oprah Effect: Mechanism and Examples (Algo Trading)'
 ---
 
 Celebrity endorsements stand as a potent marketing tool, utilized by companies across various industries to influence consumer behavior and enhance brand recognition. The power of a celebrity’s persona in altering public perception and driving sales stems from the social and psychological principles of authority, relatability, and aspirational appeal. When a well-known figure endorses a product, it often suggests that the celebrity shares their values and trusts in the product’s efficacy, thereby encouraging consumers to follow suit.

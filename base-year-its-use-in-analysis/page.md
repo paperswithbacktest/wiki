@@ -1,6 +1,9 @@
 ---
-title: "Base Year and Its Use in Analysis (Algo Trading)"
-description: "Explore the significance of economic indicators and base years in financial analysis and their integration in algorithmic trading to enhance decision-making and optimize investment strategies in today's dynamic financial markets."
+category: quant_concept
+description: Explore the significance of economic indicators and base years in financial
+  analysis and their integration in algorithmic trading to enhance decision-making
+  and optimize investment strategies in today's dynamic financial markets.
+title: Base Year and Its Use in Analysis (Algo Trading)
 ---
 
 In today's fast-paced financial landscape, analyzing economic indicators is crucial for investors and traders alike. Economic indicators serve as essential tools in understanding the current status and future direction of economies, influencing decision-making processes in investment and trading. These indicators, which include metrics like Gross Domestic Product (GDP), the Consumer Price Index (CPI), and employment data, offer valuable insights into economic health and potential trends.

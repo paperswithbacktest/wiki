@@ -1,6 +1,14 @@
 ---
-title: "Hiring a Software Developer to Code Up a Trading Strategy (Algo Trading)"
-description: Hiring a software developer for algo trading involves understanding the importance of designing and implementing efficient trading strategies that bridge financial market expertise with technical skills. In this field, developers create high-performance algorithms using programming languages like Python and C++, focusing on rapid data analysis and precision trade execution. The demand for such expertise arises from the evolving complexities of financial markets and the need for competitive edge trading systems. This page explores the responsibilities, skills, technologies, and career opportunities in algo trading development.
+category: trading_strategy
+description: Hiring a software developer for algo trading involves understanding the
+  importance of designing and implementing efficient trading strategies that bridge
+  financial market expertise with technical skills. In this field, developers create
+  high-performance algorithms using programming languages like Python and C++, focusing
+  on rapid data analysis and precision trade execution. The demand for such expertise
+  arises from the evolving complexities of financial markets and the need for competitive
+  edge trading systems. This page explores the responsibilities, skills, technologies,
+  and career opportunities in algo trading development.
+title: Hiring a Software Developer to Code Up a Trading Strategy (Algo Trading)
 ---
 
 Algorithmic trading refers to the use of computers programmed to follow a defined set of instructions for placing trades to generate profits at a speed and frequency impossible for a human trader. These algorithms can operate across various markets and are used by both institutional investors and individual traders. They serve to remove the emotional aspect of trading and to exploit mathematical and statistical methods to identify profit opportunities. This approach has gained prominence due to its ability to manage vast amounts of orders, rapidly analyze data, and execute trades with precision.

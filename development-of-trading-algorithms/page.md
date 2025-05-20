@@ -1,6 +1,9 @@
 ---
-title: "Development of Trading Algorithms (Algo Trading)"
-description: "Learn how automated trading algorithms are crafted and their advantages in volatile markets Enhance your trading with efficient algo strategies and programming skills"
+category: trading_strategy
+description: Learn how automated trading algorithms are crafted and their advantages
+  in volatile markets Enhance your trading with efficient algo strategies and programming
+  skills
+title: Development of Trading Algorithms (Algo Trading)
 ---
 
 Algorithm development for automated trading stands as a crucial component in contemporary financial markets, characterized by the utilization of sophisticated computer-based strategies to execute the buying and selling of financial instruments. Known as algorithmic trading, or algo trading, these systems have revolutionized the trading process by eliminating the need for human intervention and enhancing decision-making efficiency in volatile markets.

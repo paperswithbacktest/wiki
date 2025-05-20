@@ -1,6 +1,15 @@
 ---
-title: "Calendar effect (Algo Trading)"
-description: Discover the intriguing world of calendar effects in algorithmic trading, where predictable patterns in financial markets linked to specific calendar periods are explored. These patterns, such as the January and weekend effects, challenge the efficient-market hypothesis and offer potential insights into market behaviors. By understanding these temporal anomalies, algorithmic trading strategies can be crafted to anticipate market movements, potentially enhancing profits. This article investigates into the causes, debates, and practical applications of calendar effects in trading, providing a comprehensive guide for traders seeking to leverage these patterns for optimized returns.
+category: quant_concept
+description: Discover the intriguing world of calendar effects in algorithmic trading,
+  where predictable patterns in financial markets linked to specific calendar periods
+  are explored. These patterns, such as the January and weekend effects, challenge
+  the efficient-market hypothesis and offer potential insights into market behaviors.
+  By understanding these temporal anomalies, algorithmic trading strategies can be
+  crafted to anticipate market movements, potentially enhancing profits. This article
+  investigates into the causes, debates, and practical applications of calendar effects
+  in trading, providing a comprehensive guide for traders seeking to leverage these
+  patterns for optimized returns.
+title: Calendar effect (Algo Trading)
 ---
 
 Calendar effects refer to patterns or anomalies in financial market returns that are linked to specific calendar periods. These effects suggest that certain days, months, or seasonal periods may yield predictable returns, challenging the notion of a completely efficient market where asset prices fully reflect all available information at any given time. Some well-documented examples include the January effect, where stocks, especially small-cap stocks, tend to outperform in January, and the weekend effect, which observes lower returns on Mondays compared to other weekdays.

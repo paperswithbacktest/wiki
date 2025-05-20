@@ -1,6 +1,9 @@
 ---
-title: "Multi-Agent Reinforcement Learning (Algo Trading)"
-description: "Explore Multi-Agent Reinforcement Learning to enhance algorithmic trading strategies. Learn how autonomous agents collaborate to optimize trading in complex markets."
+category: trading_strategy
+description: Explore Multi-Agent Reinforcement Learning to enhance algorithmic trading
+  strategies. Learn how autonomous agents collaborate to optimize trading in complex
+  markets.
+title: Multi-Agent Reinforcement Learning (Algo Trading)
 ---
 
 Multi-Agent Reinforcement Learning (MARL) is an advanced method within the broader scope of machine learning that focuses on utilizing multiple learning agents to enhance decision-making processes in complex environments, such as algorithmic trading. MARL extends standard reinforcement learning techniques by incorporating multiple agents that interact with each other and the environment, enabling a collaborative approach to optimizing trading strategies.

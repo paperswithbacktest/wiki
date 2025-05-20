@@ -1,6 +1,9 @@
 ---
-title: "Stock Market Close and After-Hours Trading (Algo Trading)"
-description: "Explore the intricacies of after-hours trading and algorithmic strategies that optimize post-market decisions. Learn how technology shapes trading beyond closing hours."
+category: quant_concept
+description: Explore the intricacies of after-hours trading and algorithmic strategies
+  that optimize post-market decisions. Learn how technology shapes trading beyond
+  closing hours.
+title: Stock Market Close and After-Hours Trading (Algo Trading)
 ---
 
 The stock market operates during specific hours, typically from 9:30 a.m. to 4:00 p.m. Eastern Time for major U.S. exchanges. However, trading activities do not necessarily cease when the market closes. After-hours trading, which occurs after the regular market hours, provides investors with the opportunity to continue engaging in buying and selling securities. This extended trading period is crucial for responding to late-breaking news and corporate releases made after traditional market hours. 

@@ -1,6 +1,13 @@
 ---
-title: "Quantamental approach (Algo Trading)"
-description: Explore the quantamental approach, blending quantitative analysis with fundamental insights for optimized investment strategies. This hybrid method combines data-driven precision with qualitative depth, providing a competitive edge in dynamic financial markets. Discover how this powerful fusion aids algorithmic trading, enhances decision-making, and maintains adaptability in fluctuating economic conditions. Ideal for investors seeking superior risk-adjusted returns and strategic advantages through a balanced synthesis of data analytics and company evaluations.
+category: trading_strategy
+description: Explore the quantamental approach, blending quantitative analysis with
+  fundamental insights for optimized investment strategies. This hybrid method combines
+  data-driven precision with qualitative depth, providing a competitive edge in dynamic
+  financial markets. Discover how this powerful fusion aids algorithmic trading, enhances
+  decision-making, and maintains adaptability in fluctuating economic conditions.
+  Ideal for investors seeking superior risk-adjusted returns and strategic advantages
+  through a balanced synthesis of data analytics and company evaluations.
+title: Quantamental approach (Algo Trading)
 ---
 
 The quantamental approach in investing marks a significant evolution in strategy, melding the data-driven precision of quantitative analysis with the nuanced insights of traditional fundamental analysis. This hybrid strategy aims to capitalize on the strengths inherent in both methodologies to optimize investment returns. Quantitative analysis offers the advantage of processing vast amounts of data efficiently, using mathematical models and algorithms to detect patterns and anomalies across financial markets. Such a data-centric approach enables investors to make informed decisions quickly and efficiently, providing a significant advantage in fast-paced trading environments.

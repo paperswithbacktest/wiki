@@ -1,10 +1,9 @@
 ---
-title: Detect and Mitigate Reporting Bias in Machine Learning
+category: quant_concept
 description: Reporting bias in machine learning skews results and fairness. Discover
   how to detect and mitigate bias to build models you can trust. Discover more inside
+title: Detect and Mitigate Reporting Bias in Machine Learning
 ---
-
-
 
 ## Table of Contents
 

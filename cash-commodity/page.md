@@ -1,6 +1,8 @@
 ---
-title: "Cash Commodity (Algo Trading)"
-description: "Explore the integration of algorithmic trading and cash commodity markets, enhancing trade execution, efficiency, and decision-making in dynamic environments."
+category: quant_concept
+description: Explore the integration of algorithmic trading and cash commodity markets,
+  enhancing trade execution, efficiency, and decision-making in dynamic environments.
+title: Cash Commodity (Algo Trading)
 ---
 
 Commodities trading in the cash market involves the physical exchange of tangible assets, such as agricultural products, minerals, metals, and energy resources. This market, also known as the spot market, is characterized by the immediate delivery of goods upon the agreement of a transaction, distinguishing itself from derivatives and futures markets where delivery is deferred. The cash market plays a crucial role in determining benchmark prices for commodities, often influencing futures markets through its immediate pricing mechanism.

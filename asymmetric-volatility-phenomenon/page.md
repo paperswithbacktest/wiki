@@ -1,6 +1,8 @@
 ---
-title: "Asymmetric Volatility Phenomenon (Algo Trading)"
-description: "Discover the Asymmetric Volatility Phenomenon in algorithmic trading Learn how volatility differs in market downturns and its impact on trading strategies."
+category: quant_concept
+description: Discover the Asymmetric Volatility Phenomenon in algorithmic trading
+  Learn how volatility differs in market downturns and its impact on trading strategies.
+title: Asymmetric Volatility Phenomenon (Algo Trading)
 ---
 
 Financial markets serve as the backbone of the global economy, facilitating the exchange of capital among individuals, companies, and governments. They enable entities to raise funds, invest surplus resources, and manage risks. The efficient functioning of these markets is critical for economic growth and development. In recent decades, technological advancements have considerably reshaped financial markets, with algorithmic trading being at the forefront of this transformation.

@@ -1,7 +1,8 @@
 ---
-title: How Machine Learning Powers Cashier-Free Shopping Experiences
+category: quant_concept
 description: Cashier-free shopping uses cameras sensors and machine learning to track
   items speed up checkout and keep your data secure Discover more inside
+title: How Machine Learning Powers Cashier-Free Shopping Experiences
 ---
 
 ![Image](images/1.jpeg)

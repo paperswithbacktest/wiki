@@ -1,6 +1,8 @@
 ---
-title: "Law of Demand in Economics (Algo Trading)"
-description: "Explore the impact of the law of demand on economic theory and algorithmic trading Discover how price changes influence consumer behavior and trading strategies"
+category: quant_concept
+description: Explore the impact of the law of demand on economic theory and algorithmic
+  trading Discover how price changes influence consumer behavior and trading strategies
+title: Law of Demand in Economics (Algo Trading)
 ---
 
 The demand curve and the law of demand are central to economic theory, serving as fundamental concepts that describe how the quantity of a good demanded by consumers varies with its price. The demand curve typically slopes downward, reflecting the inverse relationship dictated by the law of demand: as the price of a good decreases, the quantity demanded generally increases, and conversely, as the price increases, the quantity demanded tends to decrease. This relationship is typically expressed as $Q_d = f(P)$, where $Q_d$ is the quantity demanded and $P$ is the price. The significance of these economic principles lies in their ability to elucidate market dynamics and consumer behavior, offering insights into how individuals and institutions make purchasing decisions based on price changes.

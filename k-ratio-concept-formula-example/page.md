@@ -1,6 +1,9 @@
 ---
-title: "K-Ratio: Concept, Formula, and Example (Algo Trading)"
-description: "Explore the K-Ratio a key metric for algorithmic trading that assesses the consistency of investment returns offering insights beyond traditional performance measures."
+category: quant_concept
+description: Explore the K-Ratio a key metric for algorithmic trading that assesses
+  the consistency of investment returns offering insights beyond traditional performance
+  measures.
+title: 'K-Ratio: Concept, Formula, and Example (Algo Trading)'
 ---
 
 In the fast-paced world of financial markets, algorithmic trading has become a cornerstone, allowing for efficient and automated trade execution. By leveraging complex algorithms and advanced data analytics, traders can execute orders at speeds and frequencies beyond human capability. This evolution has necessitated the development of sophisticated tools to assess the efficacy of trading strategies. Understanding how to measure the performance of these trading strategies is crucial for achieving optimal returns and managing risk effectively.

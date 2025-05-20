@@ -1,6 +1,8 @@
 ---
-title: "Express Warranty: Overview and Examples (Algo Trading)"
-description: "Explore how express warranties provide legal assurance and consumer confidence by guaranteeing product quality and functionality in algorithmic trading and beyond."
+category: quant_concept
+description: Explore how express warranties provide legal assurance and consumer confidence
+  by guaranteeing product quality and functionality in algorithmic trading and beyond.
+title: 'Express Warranty: Overview and Examples (Algo Trading)'
 ---
 
 Warranties are contractual commitments that ensure the performance, quality, or condition of a product or service. They play a crucial role in consumer transactions by providing assurance to buyers about the reliability and functionality of a product they are purchasing. By safeguarding consumer interests, warranties help mitigate the risk of financial loss due to defective or substandard products.

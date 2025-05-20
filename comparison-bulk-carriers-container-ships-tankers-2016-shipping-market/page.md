@@ -1,6 +1,10 @@
 ---
-title: "Comparison of Bulk Carriers, Container Ships, and Tankers in the 2016 Shipping Market (Algo Trading)"
-description: "Explore the 2016 shipping market with a comparative analysis of bulk carriers, container ships, and tankers, highlighting the influence of algorithmic trading."
+category: quant_concept
+description: Explore the 2016 shipping market with a comparative analysis of bulk
+  carriers, container ships, and tankers, highlighting the influence of algorithmic
+  trading.
+title: Comparison of Bulk Carriers, Container Ships, and Tankers in the 2016 Shipping
+  Market (Algo Trading)
 ---
 
 The global shipping industry is vital to international trade, enabling the efficient movement of goods across vast oceans. This industry relies predominantly on three types of vessels: tankers, bulk carriers, and container ships. Each plays a crucial role in facilitating different aspects of maritime transport. 

@@ -1,6 +1,9 @@
 ---
-title: "Causes of Real Estate Bubbles (Algo Trading)"
-description: "Explore the causes behind real estate bubbles and the role of algorithmic trading. Learn how market dynamics and investor behavior contribute to economic volatility."
+category: quant_concept
+description: Explore the causes behind real estate bubbles and the role of algorithmic
+  trading. Learn how market dynamics and investor behavior contribute to economic
+  volatility.
+title: Causes of Real Estate Bubbles (Algo Trading)
 ---
 
 In recent years, economic bubbles have become subjects of intense discussion, particularly in the context of real estate and algorithmic trading. The potential impacts of these bubbles are profound, often resulting in significant economic disruptions. Economists and investors frequently debate these phenomena, examining how they arise, their effects, and the ways investors and policymakers can respond to mitigate their impacts.

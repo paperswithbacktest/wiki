@@ -1,7 +1,8 @@
 ---
-title: Key Principles and Applications of Heuristic Search Algorithms
+category: quant_concept
 description: Heuristic search algorithms guide complex problem solving across A star
   GA MCTS and swarm methods for efficient optimization Discover more inside
+title: Key Principles and Applications of Heuristic Search Algorithms
 ---
 
 ![Image](images/1.jpeg)

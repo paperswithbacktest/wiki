@@ -1,6 +1,8 @@
 ---
-title: "Risk-Return Tradeoff in Investment (Algo Trading)"
-description: "Explore the essential risk-return tradeoff in investment and algorithmic trading with strategies to balance potential rewards and risk levels effectively."
+category: quant_concept
+description: Explore the essential risk-return tradeoff in investment and algorithmic
+  trading with strategies to balance potential rewards and risk levels effectively.
+title: Risk-Return Tradeoff in Investment (Algo Trading)
 ---
 
 The risk-return tradeoff is a foundational concept in investment theory, encapsulating the relationship between the potential reward of an investment and the risk level associated with achieving that reward. In essence, this principle asserts that to achieve higher returns, investors must be willing to accept greater risk. Conversely, investments perceived as safer typically offer lower returns. This tradeoff is essential for investors who aim to balance their desire for high returns with their tolerance for risk, shaping the strategic decisions they make in financial markets. 

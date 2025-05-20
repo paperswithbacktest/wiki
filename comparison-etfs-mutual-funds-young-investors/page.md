@@ -1,6 +1,8 @@
 ---
-title: "Comparison of ETFs and Mutual Funds for Young Investors (Algo Trading)"
-description: "Compare ETFs and mutual funds for young investors exploring investment options. Learn about their benefits, challenges, cost efficiency, and trading flexibility."
+category: trading_strategy
+description: Compare ETFs and mutual funds for young investors exploring investment
+  options. Learn about their benefits, challenges, cost efficiency, and trading flexibility.
+title: Comparison of ETFs and Mutual Funds for Young Investors (Algo Trading)
 ---
 
 In today's fast-paced financial landscape, young investors encounter a wide array of choices to consider when building their portfolios. The emergence of mutual funds, exchange-traded funds (ETFs), and algorithmic trading has created new opportunities for strategic investment planning. These financial instruments collectively play a vital role in shaping investment strategies, offering distinct benefits and challenges that can significantly impact long-term financial goals.

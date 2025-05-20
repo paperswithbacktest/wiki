@@ -1,6 +1,8 @@
 ---
-title: "Hudson River Trading (Algo Trading)"
-description: "Explore Hudson River Trading's impact on financial markets through high-frequency algorithmic trading and innovative technology, enhancing trading efficiency."
+category: quant_concept
+description: Explore Hudson River Trading's impact on financial markets through high-frequency
+  algorithmic trading and innovative technology, enhancing trading efficiency.
+title: Hudson River Trading (Algo Trading)
 ---
 
 Hudson River Trading (HRT) is a prominent player in the field of algorithmic trading, a domain characterized by the use of computer algorithms to perform trading activities at incredible speeds. Based in New York City, HRT operates as a quantitative trading firm, engaging in high-frequency trading (HFT) across multiple markets worldwide. The firm is renowned for its sophisticated algorithms that leverage statistical and mathematical techniques to trade large volumes of securities efficiently.

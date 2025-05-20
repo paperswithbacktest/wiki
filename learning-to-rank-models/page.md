@@ -1,8 +1,9 @@
 ---
-title: Understanding Learning to Rank and DCN-V2 Model Architecture
+category: quant_concept
 description: Learning to Rank with DCN-V2 shows how to model feature interactions
   optimize tuning and improve ranking for search and recommendation Discover more
   inside
+title: Understanding Learning to Rank and DCN-V2 Model Architecture
 ---
 
 ![Image](images/1.png)

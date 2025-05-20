@@ -1,6 +1,9 @@
 ---
-title: "Ergoteles Capital (Algo Trading)"
-description: "Discover Ergoteles Capital's innovative algorithmic trading strategies, leveraging cutting-edge technology for precision and speed in financial markets worldwide."
+category: trading_strategy
+description: Discover Ergoteles Capital's innovative algorithmic trading strategies,
+  leveraging cutting-edge technology for precision and speed in financial markets
+  worldwide.
+title: Ergoteles Capital (Algo Trading)
 ---
 
 Ergoteles Capital is recognized as a leading firm in algorithmic trading, renowned for its innovative strategies and advanced technological infrastructure. The firm's approach to trading leverages cutting-edge technology, enabling it to execute trades with precision and speed, setting it apart in the highly competitive landscape of financial markets. Algorithmic trading, which is central to Ergoteles Capital's operations, involves the use of sophisticated computer algorithms to make trading decisions based on predefined criteria without human intervention. This methodology not only optimizes trading efficiency but also significantly enhances the firm's ability to capitalize on fleeting market opportunities.

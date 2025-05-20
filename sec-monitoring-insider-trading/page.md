@@ -1,6 +1,8 @@
 ---
-title: "Methods Used by the SEC to Monitor Insider Trading (Algo Trading)"
-description: "Discover how the SEC leverages algorithmic tools and data analytics to monitor insider trading and ensure fairness and transparency in financial markets."
+category: quant_concept
+description: Discover how the SEC leverages algorithmic tools and data analytics to
+  monitor insider trading and ensure fairness and transparency in financial markets.
+title: Methods Used by the SEC to Monitor Insider Trading (Algo Trading)
 ---
 
 Insider trading remains one of the most controversial topics in the financial markets. It refers to the buying or selling of a security by individuals who have access to material, nonpublic information about the security, which raises questions about fairness and transparency in financial exchanges. The U.S. Securities and Exchange Commission (SEC) is at the forefront of monitoring and regulating insider trading, deploying an array of tools and strategies to ensure compliance with securities laws. The SEC's enforcement of these laws is critical to maintaining investor trust and the overall integrity of the stock markets.

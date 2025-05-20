@@ -1,7 +1,8 @@
 ---
-title: Inter-Rater Agreement in Machine Learning Data Annotation
+category: quant_concept
 description: Inter-Rater Agreement measures labeling consistency in machine learning
   using Cohens Kappa to enhance data reliability Discover more inside.
+title: Inter-Rater Agreement in Machine Learning Data Annotation
 ---
 
 ![Image](images/1.jpeg)

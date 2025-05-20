@@ -1,6 +1,8 @@
 ---
-title: "Average Effective Maturity (Algo Trading)"
-description: "Explore effective maturity in bond investing and how algorithmic trading enhances strategies like bond ladders. Optimize returns while managing risks efficiently."
+category: quant_concept
+description: Explore effective maturity in bond investing and how algorithmic trading
+  enhances strategies like bond ladders. Optimize returns while managing risks efficiently.
+title: Average Effective Maturity (Algo Trading)
 ---
 
 In investing, understanding the nuances of bonds and their maturity is crucial for implementing effective investment strategies. Bonds serve as a fundamental component of fixed-income securities, providing investors with predictable returns and a degree of stability that can anchor a diversified portfolio. At the heart of bond investing is the concept of maturity, which defines the term over which a bondholder can expect to receive interest payments and eventually have the principal repaid.

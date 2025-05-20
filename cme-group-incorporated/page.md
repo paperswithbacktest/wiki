@@ -1,6 +1,8 @@
 ---
-title: "CME Group Incorporated (Algo Trading)"
-description: "Explore CME Group Inc's role in global derivatives trading with advanced electronic and algorithmic platforms, offering diverse risk management solutions."
+category: quant_concept
+description: Explore CME Group Inc's role in global derivatives trading with advanced
+  electronic and algorithmic platforms, offering diverse risk management solutions.
+title: CME Group Incorporated (Algo Trading)
 ---
 
 CME Group, Inc. stands as a preeminent entity in global derivatives trading. Formed in 2007 through the merger of the Chicago Mercantile Exchange and the Chicago Board of Trade, the organization has fortified its position as a leading financial exchange by offering a comprehensive array of trading platforms that encompass derivatives, futures, and options. The firm's capabilities extend across a broad spectrum of financial products, gaining recognition as a crucial hub for both commodity trading and algorithmic trading.

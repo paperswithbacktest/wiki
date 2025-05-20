@@ -1,6 +1,8 @@
 ---
-title: "Country Fund: Overview, Advantages, Disadvantages, and Examples (Algo Trading)"
-description: "Explore the benefits and risks of country funds and algo trading Gain insights into targeted investing and automation strategies to enhance your portfolio."
+category: trading_strategy
+description: Explore the benefits and risks of country funds and algo trading Gain
+  insights into targeted investing and automation strategies to enhance your portfolio.
+title: 'Country Fund: Overview, Advantages, Disadvantages, and Examples (Algo Trading)'
 ---
 
 In today's rapidly evolving investment landscape, individuals and institutions are presented with a myriad of opportunities to grow their wealth through diverse investment strategies. With the continuing advancements in technology and the increasing interconnectedness brought about by globalization, strategies such as country funds and algorithmic trading have surged in popularity. These modern approaches to investment represent a shift from traditional methods, opening new avenues for potential gains as well as introducing new challenges and risks.

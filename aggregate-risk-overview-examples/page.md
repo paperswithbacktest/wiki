@@ -1,6 +1,8 @@
 ---
-title: "Aggregate Risk: Overview and Examples (Algo Trading)"
-description: "Explore aggregate risk in algorithmic trading including its impact, challenges, and risk management strategies essential for mitigating potential losses."
+category: quant_concept
+description: Explore aggregate risk in algorithmic trading including its impact, challenges,
+  and risk management strategies essential for mitigating potential losses.
+title: 'Aggregate Risk: Overview and Examples (Algo Trading)'
 ---
 
 Algorithmic trading, the use of computer programs to execute trades at speeds and frequencies that are impossible for a human trader, has fundamentally reshaped financial markets. By analyzing large volumes of market data and making trades based on pre-defined criteria, algorithmic trading can enhance market efficiency and liquidity. However, the integration of these sophisticated algorithms into the trading landscape introduces a host of new challenges, among which financial risk management stands out as increasingly vital. 

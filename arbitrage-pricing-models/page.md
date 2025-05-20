@@ -1,6 +1,8 @@
 ---
-title: "Arbitrage pricing models (Algo Trading)"
-description: "Explore arbitrage pricing models in algorithmic trading focusing on Arbitrage Pricing Theory (APT) to capture asset price movements via systematic factors."
+category: quant_concept
+description: Explore arbitrage pricing models in algorithmic trading focusing on Arbitrage
+  Pricing Theory (APT) to capture asset price movements via systematic factors.
+title: Arbitrage pricing models (Algo Trading)
 ---
 
 Arbitrage pricing models are essential in algorithmic trading, offering structured methods to capture and analyze asset price movements based on underlying economic factors. Arbitrage Pricing Theory (APT), initially introduced by Stephen Ross in the 1970s, stands out as a foundational model that explains asset returns through a multi-factor approach. Unlike the Capital Asset Pricing Model (CAPM), which relies on a singular market factor, APT incorporates multiple systematic factors to provide a nuanced understanding of how various economic influences impact asset performance.

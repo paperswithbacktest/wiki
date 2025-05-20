@@ -1,6 +1,9 @@
 ---
-title: "Material Requirements Planning: Functionality and Evaluation (Algo Trading)"
-description: "Explore the dynamic integration of Material Requirements Planning with algorithmic trading to optimize supply chain and inventory management for better efficiency and competitiveness."
+category: quant_concept
+description: Explore the dynamic integration of Material Requirements Planning with
+  algorithmic trading to optimize supply chain and inventory management for better
+  efficiency and competitiveness.
+title: 'Material Requirements Planning: Functionality and Evaluation (Algo Trading)'
 ---
 
 Material Requirements Planning (MRP) is a pivotal component in the efficient management of supply chains. It is fundamentally a software-based system that ensures the timely availability of materials required for production, harmoniously balancing the need to avoid excess inventory. At its core, MRP plays a crucial role in optimizing production schedules and inventory levels, thus directly impacting the overall operational efficiency of a company.

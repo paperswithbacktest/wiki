@@ -1,6 +1,9 @@
 ---
-title: "Jacobs Levy Equity Management (Algo Trading)"
-description: "Jacobs Levy Equity Management revolutionizes equity portfolio management using cutting-edge algorithmic trading strategies, integrating finance theory with advanced technology for superior market returns."
+category: trading_strategy
+description: Jacobs Levy Equity Management revolutionizes equity portfolio management
+  using cutting-edge algorithmic trading strategies, integrating finance theory with
+  advanced technology for superior market returns.
+title: Jacobs Levy Equity Management (Algo Trading)
 ---
 
 In the rapidly evolving world of finance, algorithmic trading has emerged as a formidable force reshaping how financial markets operate. This form of trading leverages computer algorithms to execute trades at speeds and frequencies impossible for human traders, enabling more precise, data-driven decisions. At the forefront of this transformation is Jacobs Levy Equity Management, a firm renowned for its innovative approach to equity portfolio management. Founded by Bruce Jacobs and Kenneth Levy, the firm employs sophisticated algorithms to enhance investment strategies and optimize portfolio performance.

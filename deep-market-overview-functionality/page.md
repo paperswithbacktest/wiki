@@ -1,6 +1,8 @@
 ---
-title: "Deep Market Overview and Functionality (Algo Trading)"
-description: "Explore the complexities of deep market dynamics and discover how algorithmic trading is revolutionizing financial environments with speed and precision."
+category: quant_concept
+description: Explore the complexities of deep market dynamics and discover how algorithmic
+  trading is revolutionizing financial environments with speed and precision.
+title: Deep Market Overview and Functionality (Algo Trading)
 ---
 
 The financial markets are dynamic and complex, offering a myriad of opportunities and challenges for traders and investors alike. These markets encompass various asset classes, including stocks, bonds, commodities, and currencies, each with its own set of factors influencing price movements. Understanding these intricacies is vital for making informed investment decisions and optimizing returns.

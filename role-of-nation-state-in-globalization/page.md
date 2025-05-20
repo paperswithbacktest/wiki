@@ -1,6 +1,9 @@
 ---
-title: "Role of the Nation-State in Globalization (Algo Trading)"
-description: "Explore the dynamic role of nation-states in globalization focusing on algorithmic trading's impact on economy and policy in an increasingly interconnected world."
+category: quant_concept
+description: Explore the dynamic role of nation-states in globalization focusing on
+  algorithmic trading's impact on economy and policy in an increasingly interconnected
+  world.
+title: Role of the Nation-State in Globalization (Algo Trading)
 ---
 
 Globalization has dramatically reshaped the landscape of international relations, fundamentally altering how nation-states interact and operate. In recent decades, the integration of economies and the proliferation of information technology have rendered traditional boundaries increasingly porous. This phenomenon has resulted in a complex web of interdependence that blurs the lines between national interests and international responsibilities.

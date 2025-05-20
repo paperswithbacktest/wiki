@@ -1,6 +1,11 @@
 ---
-title: "Calculating Correlation in Excel (Algo Trading)"
-description: "Discover how to calculate correlation in Excel for algorithmic trading and financial analysis. Explore the importance of correlation as a statistical measure to understand asset relationships in trading. Learn how Excel's tools make correlation analysis accessible, aiding in risk management and portfolio diversification for informed trading decisions."
+category: quant_concept
+description: Discover how to calculate correlation in Excel for algorithmic trading
+  and financial analysis. Explore the importance of correlation as a statistical measure
+  to understand asset relationships in trading. Learn how Excel's tools make correlation
+  analysis accessible, aiding in risk management and portfolio diversification for
+  informed trading decisions.
+title: Calculating Correlation in Excel (Algo Trading)
 ---
 
 Correlation plays a pivotal role in data analysis by providing insights into how two variables move in relation to one another. This statistical measure, ranging from -1 to 1, enables analysts to determine whether variables have a direct, inverse, or no relationship. Understanding this relationship is essential for making informed decisions across various domains, including finance, biology, and social sciences. In data analysis, correlation can reveal hidden patterns and predict potential outcomes, thereby enhancing the decision-making process.
@@ -272,4 +277,3 @@ These resources offer various pathways to deepen understanding and competency in
 [7]: ["How to Create a Correlation Matrix in Excel"](https://www.statology.org/correlation-matrix-excel/) - Got It AI
 
 [8]: ["Structural Change and Correlation in Financial Markets"](https://arxiv.org/pdf/2202.10623.pdf) - Journal of Financial Econometrics
-

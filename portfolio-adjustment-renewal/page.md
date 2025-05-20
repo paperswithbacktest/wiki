@@ -1,6 +1,8 @@
 ---
-title: "Portfolio Adjustment and Renewal (Algo Trading)"
-description: "Discover the synergy of financial planning, investment strategy, portfolio management, and algo trading to optimize financial success in evolving markets."
+category: trading_strategy
+description: Discover the synergy of financial planning, investment strategy, portfolio
+  management, and algo trading to optimize financial success in evolving markets.
+title: Portfolio Adjustment and Renewal (Algo Trading)
 ---
 
 In today's dynamic financial landscape, crafting a robust financial plan is more crucial than ever. The integration of financial planning, investment strategy, portfolio management, and algorithmic trading forms the backbone of this process. These interconnected elements provide individuals with the tools to effectively navigate financial markets and make informed decisions.

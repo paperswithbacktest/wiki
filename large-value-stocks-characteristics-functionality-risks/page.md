@@ -1,6 +1,9 @@
 ---
-title: "Large-Value Stocks: Characteristics, Functionality, and Risks (Algo Trading)"
-description: "Explore the characteristics and risks of large-value stocks in algo trading. Understand their appeal, potential pitfalls, and how algorithmic trading impacts their market dynamics."
+category: trading_strategy
+description: Explore the characteristics and risks of large-value stocks in algo trading.
+  Understand their appeal, potential pitfalls, and how algorithmic trading impacts
+  their market dynamics.
+title: 'Large-Value Stocks: Characteristics, Functionality, and Risks (Algo Trading)'
 ---
 
 The world of stock market investment presents a broad and intricate landscape where myriad strategies compete for investor interest. Within this array, large-value stocks have traditionally attracted those seeking stability and consistent dividend returns. These stocks, often representing companies with robust market capitalizations exceeding $10 billion, are perceived as undervalued based on fundamental analysis. This perceived undervaluation suggests potential future appreciation, making large-value stocks appealing to value investors. However, as with any investment, large-value stocks are not devoid of risk. They can become "value traps," where they seem undervalued but do not experience price appreciation due to underlying issues. Additionally, even prominent stocks are susceptible to market volatility and may suffer from deteriorating financial conditions if the low price is warranted. 

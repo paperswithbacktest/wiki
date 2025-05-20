@@ -1,6 +1,9 @@
 ---
-title: "Impact of Baby Bonds on Intergenerational Wealth Inequality (Algo Trading)"
-description: "Explore the transformative potential of baby bonds in reducing wealth inequality, boosting intergenerational wealth, and impacting economic frameworks like algo trading."
+category: quant_concept
+description: Explore the transformative potential of baby bonds in reducing wealth
+  inequality, boosting intergenerational wealth, and impacting economic frameworks
+  like algo trading.
+title: Impact of Baby Bonds on Intergenerational Wealth Inequality (Algo Trading)
 ---
 
 The gap between the wealthy and the poor has been widening globally, prompting a search for innovative solutions to address this growing disparity. Among these solutions is the concept of baby bonds, a financial instrument aimed at providing every child born into poverty with a publicly funded trust account. This initiative proposes to offer children from low-income families a financial foundation, ultimately fostering greater economic equality.

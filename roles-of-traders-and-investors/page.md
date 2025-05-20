@@ -1,6 +1,9 @@
 ---
-title: "Roles of Traders and Investors (Algo Trading)"
-description: "Explore the roles of traders and investors in algorithmic trading as it transforms financial markets by enhancing liquidity efficiency and strategic decision-making."
+category: quant_concept
+description: Explore the roles of traders and investors in algorithmic trading as
+  it transforms financial markets by enhancing liquidity efficiency and strategic
+  decision-making.
+title: Roles of Traders and Investors (Algo Trading)
 ---
 
 Financial markets represent a sophisticated network that draws the interest of diverse participants, encompassing investors, traders, and various institutions. These markets serve as foundational platforms where financial instruments such as stocks, bonds, and currencies are exchanged, playing a vital role in facilitating economic growth by offering businesses access to essential capital. Since the early 21st century, algorithmic trading has become increasingly prominent, radically altering the traditional methods of executing trades. Utilizing complex algorithms and high-speed computations, algorithmic trading enables market participants to make strategic decisions with improved efficiency and accuracy.

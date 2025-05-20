@@ -1,6 +1,11 @@
 ---
-title: "Quasimodo Trading Strategy (Algo Trading)"
-description: Discover the Quasimodo trading strategy in algorithmic trading. Uncover how this distinctive chart pattern, known for signaling potential trend reversals, offers traders a tactical advantage. Explore its applications in manual and automated trading systems to enhance trading precision and profitability. Learn to differentiate it from other patterns and apply it effectively for strategic market insights.
+category: trading_strategy
+description: Discover the Quasimodo trading strategy in algorithmic trading. Uncover
+  how this distinctive chart pattern, known for signaling potential trend reversals,
+  offers traders a tactical advantage. Explore its applications in manual and automated
+  trading systems to enhance trading precision and profitability. Learn to differentiate
+  it from other patterns and apply it effectively for strategic market insights.
+title: Quasimodo Trading Strategy (Algo Trading)
 ---
 
 In algorithmic trading, understanding chart patterns can provide invaluable insights for anticipating market movements. Algorithmic trading, characterized by the use of computer programs to automate trading strategies, often relies on technical analysis to inform decision-making processes. Among the plethora of patterns that traders employ, the Quasimodo pattern stands out as a unique tool for identifying potential trend reversals. This pattern, also known colloquially as the "Over and Under" or QM pattern, is a lesser-known chart formation that holds great promise for spotting reversals, helping traders capitalize on changes in market direction before they become broadly apparent.

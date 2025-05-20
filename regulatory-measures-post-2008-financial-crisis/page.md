@@ -1,6 +1,8 @@
 ---
-title: "Regulatory Measures Post-2008 Financial Crisis (Algo Trading)"
-description: "Explore the impact of regulatory measures post-2008 crisis on algorithmic trading as governments sought to enhance transparency and market stability."
+category: quant_concept
+description: Explore the impact of regulatory measures post-2008 crisis on algorithmic
+  trading as governments sought to enhance transparency and market stability.
+title: Regulatory Measures Post-2008 Financial Crisis (Algo Trading)
 ---
 
 The 2008 financial crisis marked a significant turning point for the global financial system. This crisis, commonly associated with the collapse of the U.S. housing market, triggered a severe worldwide economic downturn. As housing prices plummeted, the effects rippled through the financial sector, exposing vulnerabilities within major global financial institutions. The crisis brought to light the consequences of high-risk mortgage lending practices and the widespread use of complex financial instruments like mortgage-backed securities.

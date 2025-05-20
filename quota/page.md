@@ -1,6 +1,9 @@
 ---
-title: "Quota (Algo Trading)"
-description: "Understand how allocation quotas manage capital in algorithmic trading ensuring efficient distribution and risk control for optimized trade execution and strategy success."
+category: quant_concept
+description: Understand how allocation quotas manage capital in algorithmic trading
+  ensuring efficient distribution and risk control for optimized trade execution and
+  strategy success.
+title: Quota (Algo Trading)
 ---
 
 Understanding key concepts in algorithmic trading is crucial for developing successful trading strategies. Algorithmic trading leverages the power of computers to execute trades at speeds and frequencies that a human trader cannot achieve. Central to this automated trading process is the efficient management and allocation of capital across trading opportunities. Among these, the concept of "allocation quota" is pivotal.

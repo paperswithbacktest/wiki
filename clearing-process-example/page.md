@@ -1,6 +1,11 @@
 ---
-title: "Clearing Process and Example (Algo Trading)"
-description: "Explore how the clearing process in algorithmic trading ensures accurate trade execution and settlement. Learn about trade matching, confirmation, netting, and risk management crucial for optimizing trading strategies and compliance. Discover the vital role of clearinghouses in reducing counterparty risk and enhancing market stability."
+category: trading_strategy
+description: Explore how the clearing process in algorithmic trading ensures accurate
+  trade execution and settlement. Learn about trade matching, confirmation, netting,
+  and risk management crucial for optimizing trading strategies and compliance. Discover
+  the vital role of clearinghouses in reducing counterparty risk and enhancing market
+  stability.
+title: Clearing Process and Example (Algo Trading)
 ---
 
 Algorithmic trading, often referred to as algo trading, has become an essential component of modern financial markets. This sophisticated trading strategy employs computer algorithms to execute trades based on predefined criteria, enabling traders to perform high-frequency trading with precision and speed. The use of algorithms in trading has grown exponentially due to the advantages it offers, such as reduced transaction costs and the ability to capitalize on market inefficiencies.

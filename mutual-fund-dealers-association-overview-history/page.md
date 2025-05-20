@@ -1,6 +1,9 @@
 ---
-title: "Mutual Fund Dealers Association: Overview and History (Algo Trading)"
-description: "Discover how the Mutual Fund Dealers Association regulates Canada's mutual fund dealers amidst the rise of algorithmic trading ensuring market integrity and investor protection."
+category: quant_concept
+description: Discover how the Mutual Fund Dealers Association regulates Canada's mutual
+  fund dealers amidst the rise of algorithmic trading ensuring market integrity and
+  investor protection.
+title: 'Mutual Fund Dealers Association: Overview and History (Algo Trading)'
 ---
 
 The evolution of financial markets has been significantly influenced by the advent of algorithmic trading, an innovation that has brought about increased efficiency, speed, and precision in executing trades. This transformation has not only affected stock exchanges but has also had profound effects on the mutual funds sector. Mutual funds, which pool money from multiple investors to purchase securities, find themselves at a crossroads as they adapt to the sophisticated landscape introduced by algorithmic strategies.

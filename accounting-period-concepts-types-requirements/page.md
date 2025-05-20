@@ -1,6 +1,8 @@
 ---
-title: "Accounting Period: Concepts, Types, and Requirements (Algo Trading)"
-description: "Explore key concepts of accounting periods and cycles, essential for accurate financial reporting and decision-making in today's complex trading landscape."
+category: quant_concept
+description: Explore key concepts of accounting periods and cycles, essential for
+  accurate financial reporting and decision-making in today's complex trading landscape.
+title: 'Accounting Period: Concepts, Types, and Requirements (Algo Trading)'
 ---
 
 Understanding the fundamentals of financial reporting is critical for businesses aiming to maintain accurate and transparent financial practices. Financial reporting provides a structured framework to present a company’s financial position, performance, and cash flow through standardized financial statements. Central to this process are the concepts of accounting periods, financial reporting, and the accounting cycle, which collectively form the backbone of effective financial management.

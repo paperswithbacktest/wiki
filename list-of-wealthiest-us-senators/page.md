@@ -1,6 +1,14 @@
 ---
-title: "List of Wealthiest U.S. Senators (Algo Trading)"
-description: "Explore the financial landscapes of the wealthiest U.S. Senators in 2024, delving into their financial disclosures, business ventures, and modern investment strategies like algorithmic trading. This article provides insights into how these prominent figures manage and enhance their wealth in the political arena, offering transparency and raising important discussions about the interplay between personal wealth and legislative priorities. Discover how senators leverage their business acumen and investment expertise to navigate their careers in public office, while maintaining substantial financial portfolios."
+category: dataset
+description: Explore the financial landscapes of the wealthiest U.S. Senators in 2024,
+  delving into their financial disclosures, business ventures, and modern investment
+  strategies like algorithmic trading. This article provides insights into how these
+  prominent figures manage and enhance their wealth in the political arena, offering
+  transparency and raising important discussions about the interplay between personal
+  wealth and legislative priorities. Discover how senators leverage their business
+  acumen and investment expertise to navigate their careers in public office, while
+  maintaining substantial financial portfolios.
+title: List of Wealthiest U.S. Senators (Algo Trading)
 ---
 
 The U.S. Senate, a pivotal component of the American legislative system, is often regarded as an enclave of considerable wealth. In 2024, this perception holds as many senators are identified as millionaires, with significant portions of their fortunes established before commencing their political journeys. The concentration of wealth within this legislative body sparks interest and debate, prompting a deeper examination of the financial landscapes inhabited by these elected officials.

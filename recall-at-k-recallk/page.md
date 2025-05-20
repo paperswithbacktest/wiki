@@ -1,10 +1,9 @@
 ---
-title: Understanding Recall@K Metric in Machine Learning Systems
+category: quant_concept
 description: Recall@K measures how many relevant items appear in the top k results
   to evaluate performance in search and recommendation systems Discover more inside
+title: Understanding Recall@K Metric in Machine Learning Systems
 ---
-
-
 
 ## Table of Contents
 

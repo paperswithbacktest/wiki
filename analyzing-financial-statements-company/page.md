@@ -1,6 +1,8 @@
 ---
-title: "Analyzing Financial Statements of a Company (Algo Trading)"
-description: "Explore how financial statements and analysis enhance algorithmic trading strategies by providing insights into a company's financial health and trading opportunities."
+category: quant_concept
+description: Explore how financial statements and analysis enhance algorithmic trading
+  strategies by providing insights into a company's financial health and trading opportunities.
+title: Analyzing Financial Statements of a Company (Algo Trading)
 ---
 
 Understanding and interpreting a company's financial statements is essential for making informed investment decisions in finance. Financial analysis involves a comprehensive review of company financials, including balance sheets, income statements, and cash flow statements, which are key tools for assessing a company's financial health and performance. By providing a snapshot of a company's financial condition, these statements assist investors and analysts in evaluating profitability, liquidity, and solvency.

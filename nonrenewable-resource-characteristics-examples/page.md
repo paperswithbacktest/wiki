@@ -1,6 +1,9 @@
 ---
-title: "Nonrenewable Resource Characteristics and Examples (Algo Trading)"
-description: "Explore the characteristics of nonrenewable resources like fossil fuels and their relationship with algorithmic trading impacting global economies and environmental sustainability."
+category: quant_concept
+description: Explore the characteristics of nonrenewable resources like fossil fuels
+  and their relationship with algorithmic trading impacting global economies and environmental
+  sustainability.
+title: Nonrenewable Resource Characteristics and Examples (Algo Trading)
 ---
 
 Fossil fuels, including coal, oil, and natural gas, are classified as nonrenewable resources due to their limited availability and lengthy formation process. These resources are integral to today's economy, providing a substantial portion of global energy needs. Their significance extends beyond energy production; they are pivotal in the manufacturing of goods, transportation, and electricity generation. However, the exploitation and consumption of fossil fuels carry significant environmental repercussions, notably contributing to climate change and the degradation of ecosystems.

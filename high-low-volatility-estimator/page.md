@@ -1,6 +1,13 @@
 ---
-title: "High-low volatility estimator (Algo Trading)"
-description: Explore the significance of high-low volatility estimators for algorithmic trading and how they provide a more precise evaluation of market dynamics. This method uses the entire price range within a trading period, offering improved insights over traditional volatility measures. Learn about key methodologies like the Parkinson Estimator and their role in accurate risk management and strategy refinement. Discover how understanding both historic and implied volatility can aid in constructing robust trading strategies to navigate current market conditions and future uncertainties.
+category: trading_strategy
+description: Explore the significance of high-low volatility estimators for algorithmic
+  trading and how they provide a more precise evaluation of market dynamics. This
+  method uses the entire price range within a trading period, offering improved insights
+  over traditional volatility measures. Learn about key methodologies like the Parkinson
+  Estimator and their role in accurate risk management and strategy refinement. Discover
+  how understanding both historic and implied volatility can aid in constructing robust
+  trading strategies to navigate current market conditions and future uncertainties.
+title: High-low volatility estimator (Algo Trading)
 ---
 
 Volatility estimation is essential in algorithmic trading because it provides traders with insights into the fluctuations in asset prices. This understanding is critical in developing strategies that are responsive to market changes. The selection of an appropriate volatility estimator can significantly influence trading performance, often determining the line between profitable trades and losses. Algorithmic traders depend on accurate volatility assessments to refine their models, set trading thresholds, and manage risks effectively.

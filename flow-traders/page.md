@@ -1,6 +1,9 @@
 ---
-title: "Flow Traders (Algo Trading)"
-description: "Explore how Flow Traders leverages algorithmic trading to enhance market efficiency and stability. Discover innovative strategies in the evolving financial ecosystem."
+category: quant_concept
+description: Explore how Flow Traders leverages algorithmic trading to enhance market
+  efficiency and stability. Discover innovative strategies in the evolving financial
+  ecosystem.
+title: Flow Traders (Algo Trading)
 ---
 
 Flow Traders is a prominent global liquidity provider known for its expertise in exchange-traded products (ETPs). The company's operations are deeply integrated with advanced technology, particularly algorithmic trading, which forms the backbone of its market activities. Algorithmic trading involves the use of computer programs to execute trades based on a set of predefined conditions, allowing transactions to occur at high speed and volume with minimal human intervention.

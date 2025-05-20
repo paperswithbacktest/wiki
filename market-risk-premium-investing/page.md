@@ -1,6 +1,9 @@
 ---
-title: "Market Risk Premium in Investing (Algo Trading)"
-description: "Explore the significance of the market risk premium in investing and the role of algorithmic trading in maximizing returns while managing investment risks."
+category: quant_concept
+description: Explore the significance of the market risk premium in investing and
+  the role of algorithmic trading in maximizing returns while managing investment
+  risks.
+title: Market Risk Premium in Investing (Algo Trading)
 ---
 
 Investing in financial markets requires a solid grasp of various factors and associated risks, one of which is the market risk premium. This concept is central to modern portfolio theory and plays a significant role in affecting investment returns. The market risk premium represents the additional return that investors demand for choosing to invest in a risky market portfolio over risk-free assets. Understanding this premium is crucial as it provides insight into the level of risk an investor is expected to take and the potential rewards associated with it.

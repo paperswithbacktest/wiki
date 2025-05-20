@@ -1,6 +1,8 @@
 ---
-title: "Transition of Online Brokers from Cost Focus to Execution Quality (Algo Trading)"
-description: "Discover how online brokers are transitioning focus from low-cost trades to superior execution quality driven by the rise of algorithmic trading."
+category: quant_concept
+description: Discover how online brokers are transitioning focus from low-cost trades
+  to superior execution quality driven by the rise of algorithmic trading.
+title: Transition of Online Brokers from Cost Focus to Execution Quality (Algo Trading)
 ---
 
 In today's fast-paced digital trading world, choosing the right online broker is more crucial than ever. Investors have shifted their focus from merely seeking brokers offering low-cost trades to scrutinizing the quality of trade execution. Execution quality is a critical aspect of trading, referring to the efficiency and precision with which trade orders are completed. This change in focus is largely driven by the rise of algorithmic trading, where trades are executed by automated computer algorithms that process market data at incredibly high speeds, fundamentally altering the landscape of trading strategies.

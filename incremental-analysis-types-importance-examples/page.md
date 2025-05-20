@@ -1,6 +1,8 @@
 ---
-title: "Incremental Analysis: Types, Importance, and Examples (Algo Trading)"
-description: "Discover how incremental analysis enhances algorithmic trading by evaluating additional costs and benefits for optimized financial decisions and strategy refinement."
+category: quant_concept
+description: Discover how incremental analysis enhances algorithmic trading by evaluating
+  additional costs and benefits for optimized financial decisions and strategy refinement.
+title: 'Incremental Analysis: Types, Importance, and Examples (Algo Trading)'
 ---
 
 In today's fast-paced business environment, making informed decisions quickly is crucial for success. Businesses need to employ robust analytical tools to evaluate options and optimize their strategies. Incremental analysis and cost-benefit analysis are two pivotal tools used in business decision-making processes. Incremental analysis focuses on determining the financial impact of small changes or decisions by comparing the additional costs and benefits of alternatives. It is particularly useful for decisions involving additional production, special orders, and resource allocation. 

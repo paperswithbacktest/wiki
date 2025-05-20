@@ -1,6 +1,8 @@
 ---
-title: "ETF Wrap: Mechanics, Benefits, and Drawbacks (Algo Trading)"
-description: "Explore the mechanics benefits and drawbacks of investing in ETFs through wrap accounts with algorithmic trading Discover strategies and make informed decisions"
+category: quant_concept
+description: Explore the mechanics benefits and drawbacks of investing in ETFs through
+  wrap accounts with algorithmic trading Discover strategies and make informed decisions
+title: 'ETF Wrap: Mechanics, Benefits, and Drawbacks (Algo Trading)'
 ---
 
 The current investment landscape is characterized by rapid innovation and a multitude of available financial strategies. Investors are increasingly presented with an array of options, ranging from traditional stocks and bonds to more complex instruments like Exchange-Traded Funds (ETFs), wrap accounts, and algorithmic trading. This diverse array of choices underscores the necessity for investors to have a clear understanding of each option’s benefits and limitations.

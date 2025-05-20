@@ -1,6 +1,14 @@
 ---
-title: "London Breakout Strategy Explained (Algo Trading)"
-description: Gain insight into the popular London Breakout Strategy, a straightforward approach in algorithmic trading aimed at capturing early price movements during the London session. This strategy exploits the high volatility and liquidity resulting from the overlap of the London market with Asian and New York markets, offering precise entry and exit points based on breaking key support and resistance levels. Explore the fundamentals, setup, execution, advanced techniques, and critical risk management principles necessary to effectively implement this strategy and capitalize on Forex market opportunities.
+category: trading_strategy
+description: Gain insight into the popular London Breakout Strategy, a straightforward
+  approach in algorithmic trading aimed at capturing early price movements during
+  the London session. This strategy exploits the high volatility and liquidity resulting
+  from the overlap of the London market with Asian and New York markets, offering
+  precise entry and exit points based on breaking key support and resistance levels.
+  Explore the fundamentals, setup, execution, advanced techniques, and critical risk
+  management principles necessary to effectively implement this strategy and capitalize
+  on Forex market opportunities.
+title: London Breakout Strategy Explained (Algo Trading)
 ---
 
 Algorithmic trading, commonly referred to as algo trading, is a rapidly evolving domain in the financial markets. This method employs intricate algorithms to execute trades at speeds and frequencies that are impossible for human traders. The primary goal is to leverage different market conditions and enhance the possibilities of achieving profitable trades. Among the numerous strategies that populate the landscape of algo trading, the London Breakout Strategy stands out. This approach is celebrated by traders across the globe due to its straightforwardness and the potential for generating substantial gains.

@@ -1,6 +1,8 @@
 ---
-title: "Salim Ramji (Investor) (Algo Trading)"
-description: "Discover how investor Salim Ramji revolutionized finance with algorithmic trading at BlackRock and explore his future impact as the new Vanguard CEO."
+category: trading_strategy
+description: Discover how investor Salim Ramji revolutionized finance with algorithmic
+  trading at BlackRock and explore his future impact as the new Vanguard CEO.
+title: Salim Ramji (Investor) (Algo Trading)
 ---
 
 In the rapidly evolving world of finance, few names have made as significant an impact as Salim Ramji. With a career characterized by strategic innovation and leadership, Ramji has become a prominent figure in the investment industry. His tenure at BlackRock, one of the world's largest asset management firms, is noted for its remarkable strides in incorporating advanced investment strategies, particularly algorithmic trading. Through his efforts, BlackRock has pushed the boundaries of traditional financial practices, leveraging technology to enhance trading efficiencies and performance.

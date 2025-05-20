@@ -1,6 +1,9 @@
 ---
-title: "Liquidity Gap: Overview and Examples (Algo Trading)"
-description: "Explore liquidity gaps and algorithmic trading with insights into their influence on financial markets Understand how these concepts impact trading strategies and risk management"
+category: quant_concept
+description: Explore liquidity gaps and algorithmic trading with insights into their
+  influence on financial markets Understand how these concepts impact trading strategies
+  and risk management
+title: 'Liquidity Gap: Overview and Examples (Algo Trading)'
 ---
 
 In the complex world of finance, understanding the intricacies of liquidity gaps and algorithmic trading is essential for investors and finance professionals. Liquidity gaps refer to the disparities between the supply and demand of securities or the mismatch in the maturity dates of securities. Such gaps can lead to significant financial instability and risk, particularly during periods of economic downturn. For instance, during the 2008 financial crisis, liquidity gaps played a crucial role in exacerbating the financial turmoil, as financial institutions struggled to meet their short-term obligations due to the abrupt cessation of market liquidity.

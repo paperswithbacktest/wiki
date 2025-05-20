@@ -1,6 +1,8 @@
 ---
-title: "Liquidity-seeking algorithms (Algo Trading)"
-description: "Discover liquidity-seeking algorithms in algorithmic trading that enhance trade execution. Minimize market impact and costs while optimizing liquidity access."
+category: quant_concept
+description: Discover liquidity-seeking algorithms in algorithmic trading that enhance
+  trade execution. Minimize market impact and costs while optimizing liquidity access.
+title: Liquidity-seeking algorithms (Algo Trading)
 ---
 
 Liquidity-seeking algorithms, an integral component of algorithmic trading, are meticulously designed to navigate financial markets to identify and exploit advantageous liquidity conditions. These algorithms play a pivotal role in facilitating the execution of substantial orders with minimal disruption to the prevailing market price. By intelligently identifying and accessing pockets of liquidity, they enable traders to meet their trading objectives efficiently, balancing both the speed and cost associated with transactions.

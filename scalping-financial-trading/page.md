@@ -1,6 +1,12 @@
 ---
-title: "Scalping in Financial Trading (Algo Trading)"
-description: "Discover the intricacies of scalping in financial trading, a high-frequency strategy aimed at capitalizing on small price movements. This approach, often enhanced by algorithmic trading, offers traders rapid execution and precision. Explore how scalping benefits from algorithmic advancements, allowing for efficient market exploitation and reduced trading risks. Understand the key elements driving success in this dynamic trading style as well as the associated challenges and future prospects."
+category: trading_strategy
+description: Discover the intricacies of scalping in financial trading, a high-frequency
+  strategy aimed at capitalizing on small price movements. This approach, often enhanced
+  by algorithmic trading, offers traders rapid execution and precision. Explore how
+  scalping benefits from algorithmic advancements, allowing for efficient market exploitation
+  and reduced trading risks. Understand the key elements driving success in this dynamic
+  trading style as well as the associated challenges and future prospects.
+title: Scalping in Financial Trading (Algo Trading)
 ---
 
 Financial markets play a crucial role in the global economic structure, providing a platform for the exchange of financial instruments like stocks, bonds, currencies, and derivatives. These markets facilitate the raising of capital, transfer of risk, and international trade, thereby contributing to economic growth and stability. Trading, the act of buying and selling these financial instruments, is significant because it ensures liquidity, helps in price discovery, and offers opportunities for investment and speculation.

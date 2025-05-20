@@ -1,6 +1,8 @@
 ---
-title: "POV (Percentage of Volume) (Algo Trading)"
-description: "Explore the Percentage of Volume algorithm to optimize trades by aligning with market volume fluctuations and minimize impact in algorithmic trading strategies."
+category: trading_strategy
+description: Explore the Percentage of Volume algorithm to optimize trades by aligning
+  with market volume fluctuations and minimize impact in algorithmic trading strategies.
+title: POV (Percentage of Volume) (Algo Trading)
 ---
 
 Algorithmic trading has fundamentally transformed the landscape of financial markets by enabling rapid and precise execution of trades based on pre-defined strategies. This approach leverages sophisticated algorithms to execute orders in a manner that eliminates human error and maximizes efficiency. A prevalent strategy within algorithmic trading is the Percentage of Volume (POV) algorithm. The POV algorithm is designed to execute trades at a set percentage of the market's trading volume, adjusting dynamically to the ebb and flow of market activity. Understanding the intricacies of the POV algorithm is essential for traders aiming to optimize their trading execution strategies while minimizing market impact.

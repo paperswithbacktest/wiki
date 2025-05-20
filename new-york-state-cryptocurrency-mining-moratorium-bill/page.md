@@ -1,6 +1,9 @@
 ---
-title: "New York State Cryptocurrency Mining Moratorium Bill (Algo Trading)"
-description: "Explore New York's legislative response to crypto mining environmental impacts with the Cryptocurrency Mining Moratorium Bill balancing innovation and sustainability."
+category: quant_concept
+description: Explore New York's legislative response to crypto mining environmental
+  impacts with the Cryptocurrency Mining Moratorium Bill balancing innovation and
+  sustainability.
+title: New York State Cryptocurrency Mining Moratorium Bill (Algo Trading)
 ---
 
 Cryptocurrency mining and algorithmic trading have witnessed a surge of interest in New York, driven by the booming cryptocurrency market and the state's vibrant financial ecosystem. New York, with its robust infrastructure and technological expertise, has been a focal point for crypto enthusiasts and investors seeking to capitalize on the digital currency revolution. The appeal of profiting through cryptocurrency, both from mining operations and algorithmic trading strategies, has led to a significant influx of activity within the state.

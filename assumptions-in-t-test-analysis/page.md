@@ -1,6 +1,9 @@
 ---
-title: "Assumptions in T-Test Analysis (Algo Trading)"
-description: "Explore the critical assumptions necessary for the valid application of t-tests in algorithmic trading ensuring robust statistical analysis for strategic decisions."
+category: quant_concept
+description: Explore the critical assumptions necessary for the valid application
+  of t-tests in algorithmic trading ensuring robust statistical analysis for strategic
+  decisions.
+title: Assumptions in T-Test Analysis (Algo Trading)
 ---
 
 Understanding statistical methods is a cornerstone in today’s data-driven sectors like finance and economics, where precise decision-making is paramount. A key statistical tool in this domain is the t-test, which is used to assess whether there are significant differences between the means of two groups. This assessment is critical for identifying meaningful patterns within data and informing strategic decisions.
@@ -173,4 +176,3 @@ Employing advanced computational techniques to complement traditional statistica
 - **Python Libraries and Documentation**: Libraries such as `scipy.stats` provide functions for performing t-tests, allowing users to easily implement these statistical tools in their analyses. The official documentation and communities around these libraries often share valuable use cases and tutorials. 
 
 These resources collectively provide a solid foundation for understanding and applying hypothesis testing and t-tests in finance. They cater to various levels of expertise, from introductory guides to advanced academic texts, ensuring a better grasp of the complexities involved in trading strategy validation.
-

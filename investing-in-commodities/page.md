@@ -1,6 +1,15 @@
 ---
-title: "Investing in Commodities (Algo Trading)"
-description: "Discover the essentials of investing in commodities and how algorithmic trading can enhance your strategy. Explore the dynamics of raw materials markets and investment tactics, including trend following, mean reversion, and spread trading. Learn about the unique opportunities and risks factors such as supply chain disruptions and geopolitical events, affecting commodities like oil, gold, and agricultural products. Enhance your investment portfolio's diversification and resilience by understanding macroeconomic and micro-level analytics. Equip yourself with the knowledge to navigate market complexities and optimize trades using advanced technological tools."
+category: trading_strategy
+description: Discover the essentials of investing in commodities and how algorithmic
+  trading can enhance your strategy. Explore the dynamics of raw materials markets
+  and investment tactics, including trend following, mean reversion, and spread trading.
+  Learn about the unique opportunities and risks factors such as supply chain disruptions
+  and geopolitical events, affecting commodities like oil, gold, and agricultural
+  products. Enhance your investment portfolio's diversification and resilience by
+  understanding macroeconomic and micro-level analytics. Equip yourself with the knowledge
+  to navigate market complexities and optimize trades using advanced technological
+  tools.
+title: Investing in Commodities (Algo Trading)
 ---
 
 Commodities investing stands as a significant component within the financial landscape, offering investors an opportunity to diversify portfolios and serve as a hedge against market fluctuations. This introductory section aims to elucidate the fundamentals and benefits of commodities investing, focusing specifically on strategic investment approaches and the integration of algorithmic trading. By providing insights into how commodities can enhance investment portfolios, new and experienced investors alike can navigate the complexities of this market more effectively.

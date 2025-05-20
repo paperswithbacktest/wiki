@@ -1,6 +1,12 @@
 ---
-title: "Mean decrease accuracy (MDA) feature importance (Algo Trading)"
-description: Discover how Mean Decrease Accuracy (MDA) enhances feature importance assessment in algorithmic trading models. This method evaluates the impact of individual features on model accuracy using permutation techniques, aiding in the creation of accurate, efficient trading strategies. By understanding MDA's methodology and application, traders can optimize model inputs, improve predictions, and gain a competitive edge in dynamic financial markets.
+category: trading_strategy
+description: Discover how Mean Decrease Accuracy (MDA) enhances feature importance
+  assessment in algorithmic trading models. This method evaluates the impact of individual
+  features on model accuracy using permutation techniques, aiding in the creation
+  of accurate, efficient trading strategies. By understanding MDA's methodology and
+  application, traders can optimize model inputs, improve predictions, and gain a
+  competitive edge in dynamic financial markets.
+title: Mean decrease accuracy (MDA) feature importance (Algo Trading)
 ---
 
 In the competitive world of algorithmic trading, machine learning models are increasingly employed to craft sophisticated trading strategies. These models aim to harness the complexities of financial markets and generate reliable predictive insights. A crucial component within these models is feature importance, which assists in identifying the most influential features in predicting outcomes. Determining feature importance is vital because it influences the model's ability to make accurate predictions and efficiently allocate trading resources. 

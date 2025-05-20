@@ -1,6 +1,11 @@
 ---
-title: "Comparison of Berkshire Hathaway Class A and Class B Shares (Algo Trading)"
-description: "Explore the differences between Berkshire Hathaway Class A (BRK.A) and Class B (BRK.B) shares in this comprehensive analysis. Gain insights into historical context, pricing, voting rights, and convertibility while understanding the impact of algorithmic trading on investor decision-making. Ideal for investors looking to align their financial goals with Berkshire Hathaway's unique stock offerings."
+category: trading_strategy
+description: Explore the differences between Berkshire Hathaway Class A (BRK.A) and
+  Class B (BRK.B) shares in this comprehensive analysis. Gain insights into historical
+  context, pricing, voting rights, and convertibility while understanding the impact
+  of algorithmic trading on investor decision-making. Ideal for investors looking
+  to align their financial goals with Berkshire Hathaway's unique stock offerings.
+title: Comparison of Berkshire Hathaway Class A and Class B Shares (Algo Trading)
 ---
 
 Berkshire Hathaway, a renowned multinational conglomerate, is headed by the esteemed investor Warren Buffett. The company offers two primary classes of stock: Class A (BRK.A) and Class B (BRK.B). These shares have long been the subject of robust discussions among investors due to their notable differences, particularly in terms of price and the implications these differences carry.

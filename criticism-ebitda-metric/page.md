@@ -1,6 +1,9 @@
 ---
-title: "Criticism of the EBITDA Metric (Algo Trading)"
-description: "Critically examine the role of EBITDA in algorithmic trading and its limitations, impacting financial health assessments. Optimize trading strategies by understanding its dynamics."
+category: quant_concept
+description: Critically examine the role of EBITDA in algorithmic trading and its
+  limitations, impacting financial health assessments. Optimize trading strategies
+  by understanding its dynamics.
+title: Criticism of the EBITDA Metric (Algo Trading)
 ---
 
 Evaluating financial metrics, such as Earnings Before Interest, Taxes, Depreciation, and Amortization (EBITDA), is essential for assessing the operational performance of businesses. These metrics offer insights into a company's profitability, enabling comparison across firms in similar industries by neutralizing effects of financial structure, taxes, and non-operational accounting decisions. However, the practical application of EBITDA, like any financial metric, has both advocates and critics, primarily due to its exclusion of capital expenditures and changes in working capital which can obscure a business’s true financial health.

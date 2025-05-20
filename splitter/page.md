@@ -1,7 +1,8 @@
 ---
-title: Understanding Decision Tree Splitters in Machine Learning
+category: quant_concept
 description: Machine Learning splitters drive decision trees by dividing data with
   information gain Gini and random splits to improve accuracy. Discover more inside.
+title: Understanding Decision Tree Splitters in Machine Learning
 ---
 
 ![Image](images/1.png)

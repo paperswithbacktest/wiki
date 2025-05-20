@@ -1,6 +1,9 @@
 ---
-title: "Government Business Subsidies (Algo Trading)"
-description: "Explore the intersection of government subsidies, economic aid, business support, and algorithmic trading to understand their impact on modern financial markets."
+category: quant_concept
+description: Explore the intersection of government subsidies, economic aid, business
+  support, and algorithmic trading to understand their impact on modern financial
+  markets.
+title: Government Business Subsidies (Algo Trading)
 ---
 
 The interplay between economic aid, business support, government subsidies, and algorithmic trading is critical for analyzing the contemporary economic terrain. These elements together lay the groundwork for economic stability, foster growth, and increase competitive advantage in the global markets.

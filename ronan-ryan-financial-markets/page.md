@@ -1,6 +1,8 @@
 ---
-title: "Ronan Ryan: Key Figure in Financial Markets (Algo Trading)"
-description: "Explore Ronan Ryan's pivotal role in advocating for fair trading practices, addressing imbalances in high-frequency trading, and enhancing market integrity."
+category: quant_concept
+description: Explore Ronan Ryan's pivotal role in advocating for fair trading practices,
+  addressing imbalances in high-frequency trading, and enhancing market integrity.
+title: 'Ronan Ryan: Key Figure in Financial Markets (Algo Trading)'
 ---
 
 Financial markets have transformed significantly with the advent of technology, particularly through the advent of algorithmic trading. This form of trading automates the trading process using complex algorithms, enabling transactions to be carried out at unprecedented speed and scale. A crucial subset of algorithmic trading, high-frequency trading (HFT), has been a game-changer on stock exchanges globally. It enhances market liquidity by increasing the volume of trades executed within milliseconds. However, this rapid trading approach also raises concerns regarding market integrity, as it can potentially create and exploit unfair advantages.

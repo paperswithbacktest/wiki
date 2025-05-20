@@ -1,7 +1,8 @@
 ---
-title: Enhancing CAD Design with Machine Learning and BRepNet
+category: quant_concept
 description: Machine learning in CAD design speeds model creation and automates optimization
   through pattern analysis for fast, accurate results Discover more inside
+title: Enhancing CAD Design with Machine Learning and BRepNet
 ---
 
 ![Image](images/1.jpeg)

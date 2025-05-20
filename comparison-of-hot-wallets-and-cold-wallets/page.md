@@ -1,6 +1,8 @@
 ---
-title: "Comparison of Hot Wallets and Cold Wallets (Algo Trading)"
-description: "Explore the key differences between hot and cold cryptocurrency wallets for secure and efficient digital asset management in algorithmic trading environments."
+category: quant_concept
+description: Explore the key differences between hot and cold cryptocurrency wallets
+  for secure and efficient digital asset management in algorithmic trading environments.
+title: Comparison of Hot Wallets and Cold Wallets (Algo Trading)
 ---
 
 In the world of cryptocurrency, ensuring both security and convenience is a critical concern for users and institutions alike. As cryptocurrencies become more integral to the global financial landscape, the need for secure and efficient storage solutions becomes increasingly vital. This article investigates the intricacies of cold wallets and hot wallets, which are instrumental in safeguarding digital assets, as well as their implications for the broader digital currency environment.

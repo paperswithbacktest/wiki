@@ -1,6 +1,12 @@
 ---
-title: "Current Account Balance: Formula, Components, and Applications (Algo Trading)"
-description: "Discover the complexities of the current account balance, a key economic indicator reflecting a nation's transactions with the world. This article investigates into its components—trade balance, net primary income, and net secondary income—and their impact on a country's economic health. Explore how this balance influences trading decisions, especially in algorithmic trading, and enhances understanding of global financial markets."
+category: quant_concept
+description: Discover the complexities of the current account balance, a key economic
+  indicator reflecting a nation's transactions with the world. This article investigates
+  into its components—trade balance, net primary income, and net secondary income—and
+  their impact on a country's economic health. Explore how this balance influences
+  trading decisions, especially in algorithmic trading, and enhances understanding
+  of global financial markets.
+title: 'Current Account Balance: Formula, Components, and Applications (Algo Trading)'
 ---
 
 Understanding the intricacies of economic components is crucial for comprehending the broader financial landscape. Among these components, the current account balance serves as a fundamental indicator of a country's economic standing on the global stage. This balance encapsulates a nation's transactions with the world, providing insights into its economic health and performance. It reflects how a country interacts economically with others through trade, income, and transfers.

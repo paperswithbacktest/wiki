@@ -1,6 +1,8 @@
 ---
-title: "Regime-switching models (Algo Trading)"
-description: "Explore how regime-switching models enhance trading strategies by analyzing market conditions, allowing traders to optimize performance and manage risk effectively."
+category: quant_concept
+description: Explore how regime-switching models enhance trading strategies by analyzing
+  market conditions, allowing traders to optimize performance and manage risk effectively.
+title: Regime-switching models (Algo Trading)
 ---
 
 Regime-switching models have emerged as a pivotal tool in quantitative finance, primarily due to their ability to effectively capture the dynamic behavior of financial markets. Financial markets are inherently volatile, often transitioning between various regimes or states such as bullish, bearish, and neutral phases. These transitions are complex and can be influenced by numerous factors including economic data releases, geopolitical events, and market sentiment.

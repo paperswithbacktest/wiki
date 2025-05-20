@@ -1,7 +1,8 @@
 ---
-title: Understanding Concept Drift in Machine Learning Models
+category: quant_concept
 description: Concept drift in machine learning can lower model accuracy unless you
   detect and adapt your models continuously to stay reliable Discover more inside
+title: Understanding Concept Drift in Machine Learning Models
 ---
 
 ![Image](images/1.png)

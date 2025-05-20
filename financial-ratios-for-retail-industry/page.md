@@ -1,6 +1,9 @@
 ---
-title: "Financial Ratios for Retail Industry (Algo Trading)"
-description: "Explore the impact of financial ratios and algorithmic trading on the retail industry, providing insights into company performance for informed investment decisions."
+category: quant_concept
+description: Explore the impact of financial ratios and algorithmic trading on the
+  retail industry, providing insights into company performance for informed investment
+  decisions.
+title: Financial Ratios for Retail Industry (Algo Trading)
 ---
 
 The retail industry is a vital and complex component of the global economy, influencing consumer trends and economic development worldwide. This sector encompasses a wide array of businesses, from small local shops to large multinational corporations, each playing a role in the distribution of goods and services to consumers.

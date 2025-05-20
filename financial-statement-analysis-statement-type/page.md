@@ -1,6 +1,9 @@
 ---
-title: "Financial Statement Analysis by Statement Type (Algo Trading)"
-description: "Explore the crucial link between financial reporting and algorithmic trading to enhance financial literacy and optimize trading strategies for better investment outcomes."
+category: trading_strategy
+description: Explore the crucial link between financial reporting and algorithmic
+  trading to enhance financial literacy and optimize trading strategies for better
+  investment outcomes.
+title: Financial Statement Analysis by Statement Type (Algo Trading)
 ---
 
 Financial reporting and analysis are fundamental to making informed investment decisions, significantly impacting the field of algorithmic trading. The ability to interpret and analyze financial statements is crucial for traders and investors striving for strategic success. Within this article, we examine the critical intersection of financial reporting, statement analysis, and algorithmic trading, emphasizing the importance of these elements in crafting effective trading strategies.

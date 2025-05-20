@@ -1,6 +1,8 @@
 ---
-title: "SEC Form PRE 14C: Function and Process (Algo Trading)"
-description: "Explore the intersection of proxy statements, SEC Form PRE 14C, shareholder communication, and algorithmic trading in corporate governance and financial markets."
+category: quant_concept
+description: Explore the intersection of proxy statements, SEC Form PRE 14C, shareholder
+  communication, and algorithmic trading in corporate governance and financial markets.
+title: 'SEC Form PRE 14C: Function and Process (Algo Trading)'
 ---
 
 The purpose of this article is to elucidate the intricate connections between proxy statements, shareholder communication, SEC Form PRE 14C, and algorithmic trading. Shareholder meetings serve as vital touchpoints in corporate governance, where pivotal decisions regarding corporate leadership, financial policies, and strategic directions are made. At the heart of these meetings lie proxy statements, essential documents that enable shareholders to vote on critical issues without being physically present. These statements not only facilitate informed decision-making but also enhance the participatory nature of corporate democracy, ensuring that all shareholder voices are considered in corporate outcomes.

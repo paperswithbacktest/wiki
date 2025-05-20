@@ -1,6 +1,8 @@
 ---
-title: "Linear Regression of Time and Price (Algo Trading)"
-description: "Explore the synergy between time series analysis, linear regression, and algorithmic trading for effective price prediction in financial markets."
+category: trading_strategy
+description: Explore the synergy between time series analysis, linear regression,
+  and algorithmic trading for effective price prediction in financial markets.
+title: Linear Regression of Time and Price (Algo Trading)
 ---
 
 Time series analysis is a critical tool in financial markets, utilized to understand, forecast, and strategize based on the chronological ordering of data points. This analytical method is fundamental in predicting future price movements, which is pivotal for trading and investment decision-making. Price predictions inform when to buy, hold, or sell assets, aiming to optimize returns and minimize risks in both short-term trades and long-term investments.

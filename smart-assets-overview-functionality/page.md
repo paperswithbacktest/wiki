@@ -1,6 +1,8 @@
 ---
-title: "Smart Assets: Overview and Functionality (Algo Trading)"
-description: "Explore the transformative world of digital assets with blockchain technology smart assets and algorithmic trading revolutionizing modern finance and investment."
+category: quant_concept
+description: Explore the transformative world of digital assets with blockchain technology
+  smart assets and algorithmic trading revolutionizing modern finance and investment.
+title: 'Smart Assets: Overview and Functionality (Algo Trading)'
 ---
 
 Digital assets have emerged as pivotal elements in the modern financial ecosystem, substantially altering how value is perceived and transferred in various sectors. These assets, encompassing cryptocurrencies, tokens, and non-fungible tokens (NFTs), represent a shift from traditional financial instruments like stocks and bonds, providing unique attributes such as programmability and enhanced divisibility. Their rising significance is attributed to the increasing ability to democratize finance, enabling broader access to investment opportunities and fostering global financial inclusion.

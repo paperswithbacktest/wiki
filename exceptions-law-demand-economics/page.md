@@ -1,6 +1,8 @@
 ---
-title: "Exceptions to the Law of Demand in Economics (Algo Trading)"
-description: "Explore the exceptions to the law of demand in economics and their implications in algorithmic trading Understand how demand theory can enhance trading strategies"
+category: quant_concept
+description: Explore the exceptions to the law of demand in economics and their implications
+  in algorithmic trading Understand how demand theory can enhance trading strategies
+title: Exceptions to the Law of Demand in Economics (Algo Trading)
 ---
 
 This article explores the intricate interplay between demand theory, the law of demand, and its exceptions within the context of economics. These concepts are fundamental to understanding how consumers react to price changes, which in turn affect market dynamics and business strategies. The law of demand, a cornerstone of economic theory, illustrates the inverse relationship between the price of a good and the quantity consumers are willing to purchase. However, this relationship is not always straightforward due to various exceptions such as Giffen and Veblen goods.

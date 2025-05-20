@@ -1,6 +1,9 @@
 ---
-title: "500 Shareholder Rule (Algo Trading)"
-description: "Explore the impact of financial regulations, from the 500 shareholder rule to algorithmic trading, and their influence on corporate governance and market dynamics."
+category: quant_concept
+description: Explore the impact of financial regulations, from the 500 shareholder
+  rule to algorithmic trading, and their influence on corporate governance and market
+  dynamics.
+title: 500 Shareholder Rule (Algo Trading)
 ---
 
 The dynamic landscape of financial regulation is continuously evolving, with significant implications for both corporations and shareholders. Over the years, regulatory frameworks have adapted to accommodate shifts in market structures, technological advancements, and changing economic conditions. In this article, we explore the historical and modern facets of financial regulation, focusing on the '500 shareholder rule', the evolution to a 2,000 shareholder threshold, and the impact of algorithmic trading.

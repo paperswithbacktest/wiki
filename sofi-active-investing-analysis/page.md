@@ -1,6 +1,9 @@
 ---
-title: "Analysis of SoFi Active Investing (Algo Trading)"
-description: "Explore SoFi's algorithmic trading solutions designed to democratize investing access. Discover how this innovative platform empowers investors with advanced strategies."
+category: trading_strategy
+description: Explore SoFi's algorithmic trading solutions designed to democratize
+  investing access. Discover how this innovative platform empowers investors with
+  advanced strategies.
+title: Analysis of SoFi Active Investing (Algo Trading)
 ---
 
 In today's fast-paced financial world, investors are constantly seeking innovative tools and platforms to optimize their portfolios and maximize returns. The integration of technology into finance has led to the rise of algorithmic trading, transforming the landscape of investing with its precision and speed. In this context, SoFi has emerged as a leader in personal finance, offering a range of investing solutions that include sophisticated algorithmic trading options.

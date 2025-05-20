@@ -1,6 +1,9 @@
 ---
-title: "Impact of Oil Prices on Venezuela's Economy (Algo Trading)"
-description: "Explore the intricate impact of oil price fluctuations on Venezuela's economy and discover how algorithmic trading offers potential solutions for economic stability."
+category: quant_concept
+description: Explore the intricate impact of oil price fluctuations on Venezuela's
+  economy and discover how algorithmic trading offers potential solutions for economic
+  stability.
+title: Impact of Oil Prices on Venezuela's Economy (Algo Trading)
 ---
 
 Venezuela's economy has long been deeply connected to its substantial oil reserves. As one of the world's largest producers, oil constitutes approximately 95% of the nation's exports and forms around 25% of its Gross Domestic Product (GDP). This heavy reliance on a singular commodity means that fluctuations in oil prices exert a substantial influence on the country's economic health. When oil prices are high, Venezuela often experiences economic booms, characterized by increased government revenue and improved financial stability. However, when prices decline, the country faces significant economic challenges, including budget deficits, inflation, and financial instability.

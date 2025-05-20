@@ -1,6 +1,8 @@
 ---
-title: "Muhammad Yunus: Biography, Achievements, Criticisms (Algo Trading)"
-description: "Explore the life and impact of Muhammad Yunus, the pioneer of microfinance, his achievements with Grameen Bank, and his vision for global poverty alleviation."
+category: quant_concept
+description: Explore the life and impact of Muhammad Yunus, the pioneer of microfinance,
+  his achievements with Grameen Bank, and his vision for global poverty alleviation.
+title: 'Muhammad Yunus: Biography, Achievements, Criticisms (Algo Trading)'
 ---
 
 Microfinance has emerged as a powerful tool for poverty alleviation over the past few decades, offering solutions outside of traditional banking systems. At the heart of this transformative movement is Muhammad Yunus, a Bangladeshi economist and social entrepreneur. Yunus is renowned for founding Grameen Bank, an institution that provides microcredit to the impoverished without requiring collateral. His approach has not only challenged conventional banking methods but has also proved to be a viable means by which even the poorest individuals can improve their economic status.

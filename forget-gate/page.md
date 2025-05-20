@@ -1,7 +1,8 @@
 ---
-title: Understanding the LSTM Forget Gate in Machine Learning
+category: quant_concept
 description: LSTM Forget Gate streamlines neural network memory by actively filtering
   relevant information for precise sequence predictions Discover more inside
+title: Understanding the LSTM Forget Gate in Machine Learning
 ---
 
 ![Image](images/1.jpeg)

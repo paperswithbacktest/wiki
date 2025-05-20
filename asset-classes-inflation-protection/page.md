@@ -1,6 +1,9 @@
 ---
-title: "Asset Classes for Inflation Protection (Algo Trading)"
-description: "Explore strategies for inflation protection and algorithmic trading to ensure portfolio resilience and growth amidst economic uncertainties and market volatility."
+category: trading_strategy
+description: Explore strategies for inflation protection and algorithmic trading to
+  ensure portfolio resilience and growth amidst economic uncertainties and market
+  volatility.
+title: Asset Classes for Inflation Protection (Algo Trading)
 ---
 
 In today's volatile financial landscape, crafting effective investment strategies is crucial for navigating economic uncertainties. These strategies act as a guiding framework for investors, ensuring that their portfolio can withstand varying market conditions and capitalize on growth opportunities. Among the plethora of strategies, inflation protection and algorithmic trading have become pivotal in the investment discourse.

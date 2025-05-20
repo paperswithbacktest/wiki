@@ -1,6 +1,9 @@
 ---
-title: "Bitcoin Classic: Functionality and Implications (Algo Trading)"
-description: "Explore Bitcoin Classic and its role in addressing Bitcoin's scalability issues through increased block size aiding algo trading with enhanced transaction capacity."
+category: quant_concept
+description: Explore Bitcoin Classic and its role in addressing Bitcoin's scalability
+  issues through increased block size aiding algo trading with enhanced transaction
+  capacity.
+title: 'Bitcoin Classic: Functionality and Implications (Algo Trading)'
 ---
 
 Bitcoin Classic emerged as a response to the growing demands of the cryptocurrency ecosystem, aiming to address specific limitations experienced by its predecessor, Bitcoin Core. Introduced as a proposed hard fork, Bitcoin Classic sought to enhance transaction capacity by increasing the block size limit. This change was pivotal in addressing scalability issues, which have been a subject of significant debate within the cryptocurrency community. As a result, Bitcoin Classic played an important role in the ongoing discussions concerning network efficiency and transaction throughput [1].
@@ -109,4 +112,3 @@ There is a continuous need for research and development to leverage Bitcoin Clas
 10. News and analysis: Websites like Coindesk.com and CoinTelegraph offer regular news, analysis, and opinion pieces regarding Bitcoin Classic and broader cryptocurrency trends.
 
 These resources provide a comprehensive view for anyone seeking to understand Bitcoin Classic's position within the broader context of cryptocurrency and blockchain technology.
-

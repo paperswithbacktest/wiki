@@ -1,9 +1,9 @@
 ---
-title: "Réjean Dupuis (Algo Trading)"
-description: "Explore the career of Réjean Dupuis a pioneer in algorithmic trading and quantitative finance Learn about his educational background and industry impact"
+category: quant_concept
+description: Explore the career of Réjean Dupuis a pioneer in algorithmic trading
+  and quantitative finance Learn about his educational background and industry impact
+title: Réjean Dupuis (Algo Trading)
 ---
-
-
 
 ## Table of Contents
 

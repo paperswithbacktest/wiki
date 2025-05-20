@@ -1,6 +1,9 @@
 ---
-title: "Characteristics of ETFs in Short-Term Trading (Algo Trading)"
-description: "Explore the characteristics of ETFs in short-term trading with algorithmic methods Gain insights into how ETFs and algo trading enhance strategy efficiency and execution speed"
+category: trading_strategy
+description: Explore the characteristics of ETFs in short-term trading with algorithmic
+  methods Gain insights into how ETFs and algo trading enhance strategy efficiency
+  and execution speed
+title: Characteristics of ETFs in Short-Term Trading (Algo Trading)
 ---
 
 The world of investment provides numerous strategies, each designed to cater to distinct financial objectives. As financial markets have evolved, short-term trading has emerged as a compelling option for traders aiming to capitalize on quick market movements. Exchange-Traded Funds (ETFs) and algorithmic trading have gained considerable traction in this context due to their flexibility and efficiency.

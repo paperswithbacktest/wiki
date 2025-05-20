@@ -1,7 +1,8 @@
 ---
-title: Rouge-L Metric Explained for Effective NLP Evaluation
+category: quant_concept
 description: Rouge-L evaluates text coherence by measuring longest common subsequence
   to ensure summaries and translations retain key information Discover more inside.
+title: Rouge-L Metric Explained for Effective NLP Evaluation
 ---
 
 ![Image](images/1.webp)

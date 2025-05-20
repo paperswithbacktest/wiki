@@ -1,6 +1,9 @@
 ---
-title: "Public Limited Company Shares (Algo Trading)"
-description: "Explore the dynamics of public limited company shares and the revolution of algorithmic trading in financial markets enhancing trade efficiency and investment strategies."
+category: quant_concept
+description: Explore the dynamics of public limited company shares and the revolution
+  of algorithmic trading in financial markets enhancing trade efficiency and investment
+  strategies.
+title: Public Limited Company Shares (Algo Trading)
 ---
 
 The stock market is a dynamic financial marketplace offering numerous investment opportunities centered primarily on the trading of company shares. These shares represent partial ownership in a company and provide the foundation for investors to participate in corporate profits. As one of the cornerstones of financial systems worldwide, stock markets enable public limited companies (PLCs) to acquire essential capital for expansion and operational activities. PLCs, by issuing shares to the general public, facilitate a broad ownership structure, inclusive of any interested individual or institutional investors willing to invest.

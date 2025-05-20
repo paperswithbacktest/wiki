@@ -1,6 +1,9 @@
 ---
-title: "Dalal Street Overview (Algo Trading)"
-description: "Explore the evolution of algorithmic trading on Dalal Street and its impact on India's stock market This article highlights the BSE's transformative role"
+category: quant_concept
+description: Explore the evolution of algorithmic trading on Dalal Street and its
+  impact on India's stock market This article highlights the BSE's transformative
+  role
+title: Dalal Street Overview (Algo Trading)
 ---
 
 The Indian stock market has achieved considerable recognition on a global scale, reflecting notable strides in technology and increased engagement from a diverse range of market participants. Central to India's financial landscape is the Bombay Stock Exchange (BSE), situated on the iconic Dalal Street in Mumbai. Established in 1875, the BSE is not only Asia's oldest stock exchange but also a pivotal institution driving India’s economic development and integration with global markets.

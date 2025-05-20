@@ -1,6 +1,8 @@
 ---
-title: "Mutual Fund Advisory Programs: Overview and Benefits (Algo Trading)"
-description: "Explore the dynamics of mutual fund advisory programs with a focus on algorithmic trading to boost portfolio performance and align with financial goals."
+category: trading_strategy
+description: Explore the dynamics of mutual fund advisory programs with a focus on
+  algorithmic trading to boost portfolio performance and align with financial goals.
+title: 'Mutual Fund Advisory Programs: Overview and Benefits (Algo Trading)'
 ---
 
 The modern financial landscape is characterized by rapid change driven by new technologies and investment strategies, reshaping how wealth is managed. At the heart of this transformation are mutual funds, which pool resources from investors to diversify investments across various securities, financial planning, which provides personalized strategies for asset management, and algorithmic trading, a technology-driven approach to executing trades.
@@ -187,4 +189,3 @@ Sharpe, William F. "Capital Asset Prices: A Theory of Market Equilibrium Under C
 Elton, Edwin J., and Gruber, Martin J. "Modern Portfolio Theory and Investment Analysis." John Wiley & Sons offers a comprehensive overview of portfolio construction and the balance of risk versus return, focusing on the mathematical foundations of diversification as expressed through the efficient frontier.
 
 Bergstra, J., Bardenet, R., Bengio, Y., & Kégl, B. "Algorithms for Hyper-Parameter Optimization." Advances in Neural Information Processing Systems discusses methods for optimizing hyperparameters in machine learning models, which can be applied to enhance algorithmic trading strategies. Python libraries like `scikit-learn` and frameworks such as `Optuna` can implement these optimization techniques to improve algorithmic trade executions.
-

@@ -1,6 +1,9 @@
 ---
-title: "Anti-Martingale System: Overview and Examples (Algo Trading)"
-description: "Explore the Anti-Martingale System a strategic betting approach that capitalizes on winning streaks and minimizes losses leveraged for both gambling and algorithmic trading."
+category: trading_strategy
+description: Explore the Anti-Martingale System a strategic betting approach that
+  capitalizes on winning streaks and minimizes losses leveraged for both gambling
+  and algorithmic trading.
+title: 'Anti-Martingale System: Overview and Examples (Algo Trading)'
 ---
 
 Gambling and betting have a longstanding allure owing to the prospects of quick wealth and engaging experiences. Over the years, various gambling strategies have been formulated, aiming to strike a balance between maximizing gains and limiting losses. One such strategy is the Anti-Martingale System, which stands out for its distinctive gambling approach.

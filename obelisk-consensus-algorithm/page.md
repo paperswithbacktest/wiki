@@ -1,6 +1,9 @@
 ---
-title: "Obelisk Consensus Algorithm (Algo Trading)"
-description: "Explore the innovative Obelisk consensus algorithm within the Skycoin ecosystem. Discover how it enhances blockchain technology and influences algorithmic trading."
+category: quant_concept
+description: Explore the innovative Obelisk consensus algorithm within the Skycoin
+  ecosystem. Discover how it enhances blockchain technology and influences algorithmic
+  trading.
+title: Obelisk Consensus Algorithm (Algo Trading)
 ---
 
 In the fast-evolving world of cryptocurrency and blockchain, new technologies continuously emerge, focused on enhancing efficiency, security, and sustainability. Among these innovative solutions is the Obelisk consensus algorithm, a cornerstone of the Skycoin blockchain ecosystem. This article presents an in-depth exploration of the Obelisk consensus algorithm, assessing its influence on blockchain technology and its nascent role in algorithmic trading.

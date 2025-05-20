@@ -1,7 +1,8 @@
 ---
-title: Data Parallel Methods For Efficient Distributed Machine Learning
+category: quant_concept
 description: Data parallel methods speed up model training by distributing data across
   processors and optimizing memory and communication Discover more inside.
+title: Data Parallel Methods For Efficient Distributed Machine Learning
 ---
 
 ![Image](images/1.png)

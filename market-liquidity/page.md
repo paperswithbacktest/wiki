@@ -1,6 +1,11 @@
 ---
-title: "Market liquidity (Algo Trading)"
-description: Market liquidity is essential for efficient trading, allowing assets to be quickly bought or sold without significant price changes. It impacts investment strategies, especially in algorithmic trading, which needs high liquidity for optimal performance. This article explores how liquidity affects trading speed, costs, and strategies, offering insights into its role in financial markets.
+category: quant_concept
+description: Market liquidity is essential for efficient trading, allowing assets
+  to be quickly bought or sold without significant price changes. It impacts investment
+  strategies, especially in algorithmic trading, which needs high liquidity for optimal
+  performance. This article explores how liquidity affects trading speed, costs, and
+  strategies, offering insights into its role in financial markets.
+title: Market liquidity (Algo Trading)
 ---
 
 Market liquidity refers to the capacity to swiftly buy or sell an asset without causing a dramatic change in its price. This concept is integral to financial markets as it influences both risk and return for investors. The ability to transact efficiently and without significant price penalties enables investors to manage portfolios more effectively, responding to market opportunities and risks in a timely manner.

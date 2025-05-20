@@ -1,6 +1,9 @@
 ---
-title: "Guide to Understanding Futures Quotes (Algo Trading)"
-description: "Explore how futures quotes are key to informed trading decisions and the benefits of algorithmic trading for precision and efficiency in the futures market."
+category: quant_concept
+description: Explore how futures quotes are key to informed trading decisions and
+  the benefits of algorithmic trading for precision and efficiency in the futures
+  market.
+title: Guide to Understanding Futures Quotes (Algo Trading)
 ---
 
 Futures trading has become a cornerstone of modern investment strategies, offering investors the ability to hedge risk and seek profits in various market conditions. Essentially, a futures contract is a financial agreement between a buyer and a seller to trade an asset at a predetermined price and future date. This aspect of predictability allows traders to manage potential risks associated with price fluctuations of commodities, stocks, and other financial instruments.

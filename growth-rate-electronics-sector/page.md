@@ -1,6 +1,8 @@
 ---
-title: "Growth Rate of the Electronics Sector (Algo Trading)"
-description: "Explore the rapid growth of the electronics sector driven by tech advancements in consumer electronics, semiconductors, and algorithmic trading innovations."
+category: quant_concept
+description: Explore the rapid growth of the electronics sector driven by tech advancements
+  in consumer electronics, semiconductors, and algorithmic trading innovations.
+title: Growth Rate of the Electronics Sector (Algo Trading)
 ---
 
 The integration of technology and finance has catalyzed significant growth across various industries, with the electronics sector standing out as a key contributor. This article examines the factors that influence this expansion, with particular attention to algorithmic trading's impact. As technological advancements drive demand for consumer electronics, semiconductors, and emerging technologies, the electronics industry experiences rapid transformation. 

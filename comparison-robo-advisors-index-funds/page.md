@@ -1,6 +1,8 @@
 ---
-title: "Comparison of Robo-Advisors and Index Funds (Algo Trading)"
-description: "Explore the benefits of index funds and robo-advisors in this comprehensive guide to automated trading solutions. Compare strategies to optimize your investments."
+category: trading_strategy
+description: Explore the benefits of index funds and robo-advisors in this comprehensive
+  guide to automated trading solutions. Compare strategies to optimize your investments.
+title: Comparison of Robo-Advisors and Index Funds (Algo Trading)
 ---
 
 The investment landscape has undergone significant transformation with the integration of advanced technologies. These advancements have expanded the range of options available to investors, among which index funds and robo-advisors are noteworthy for their accessibility and efficiency in helping build diversified portfolios.

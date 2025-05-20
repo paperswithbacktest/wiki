@@ -1,6 +1,8 @@
 ---
-title: "Nassim Taleb’s Strategy Explained (Algo Trading)"
-description: "Explore Nassim Taleb's barbell strategy in algorithmic trading to enhance risk management, maximize returns, and foster antifragility in volatile markets."
+category: trading_strategy
+description: Explore Nassim Taleb's barbell strategy in algorithmic trading to enhance
+  risk management, maximize returns, and foster antifragility in volatile markets.
+title: Nassim Taleb’s Strategy Explained (Algo Trading)
 ---
 
 Nassim Nicholas Taleb is a distinguished figure known for his profound insights into randomness, unpredictability, and the influence of rare events. As a statistician, philosopher, and trader, Taleb has critically examined the limitations of probabilistic models and conventional wisdom in comprehending complex systems. His seminal works, 'The Black Swan' and 'Fooled by Randomness', have brought significant attention to the underestimation of high-impact, low-probability events in financial markets and risk management practices.

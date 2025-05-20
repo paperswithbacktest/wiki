@@ -1,6 +1,12 @@
 ---
-title: "Triangle Chart Patterns in Technical Analysis (Algo Trading)"
-description: "Explore the intricacies of triangle chart patterns in technical analysis and their pivotal role in predicting market movements. Learn how these patterns, formed by converging trendlines, can indicate potential breakouts in ascending, descending, and symmetrical forms. Gain insights into leveraging triangle patterns for both manual and automated trading strategies, enhancing decision-making and efficiency in the financial markets."
+category: trading_strategy
+description: Explore the intricacies of triangle chart patterns in technical analysis
+  and their pivotal role in predicting market movements. Learn how these patterns,
+  formed by converging trendlines, can indicate potential breakouts in ascending,
+  descending, and symmetrical forms. Gain insights into leveraging triangle patterns
+  for both manual and automated trading strategies, enhancing decision-making and
+  efficiency in the financial markets.
+title: Triangle Chart Patterns in Technical Analysis (Algo Trading)
 ---
 
 The world of trading is complex, offering a plethora of strategies and tools for analyzing financial markets. Among these, technical analysis holds a significant place due to its use of historical price data to forecast future movements. Within technical analysis, chart patterns are pivotal, with triangle chart patterns standing out as one of the foundational models employed by traders.

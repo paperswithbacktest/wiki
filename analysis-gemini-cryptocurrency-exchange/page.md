@@ -1,6 +1,9 @@
 ---
-title: "Analysis of Gemini Cryptocurrency Exchange (Algo Trading)"
-description: "Explore the Gemini Cryptocurrency Exchange founded by the Winklevoss twins focusing on security regulatory compliance and diverse trading tools for all levels."
+category: dataset
+description: Explore the Gemini Cryptocurrency Exchange founded by the Winklevoss
+  twins focusing on security regulatory compliance and diverse trading tools for all
+  levels.
+title: Analysis of Gemini Cryptocurrency Exchange (Algo Trading)
 ---
 
 Gemini Trust Company LLC stands as a prominent entity in the cryptocurrency exchange landscape, founded in 2014 by the renowned Winklevoss twins, Tyler and Cameron. The platform distinguishes itself through a steadfast commitment to security and regulatory compliance, attributes that have bolstered its reputation as a trustworthy choice among both novice and seasoned cryptocurrency traders. Gemini's offerings extend beyond a diverse selection of over 150 cryptocurrencies available for trading; it provides a broad suite of tools designed to enhance the trading experience across varying levels of expertise.

@@ -1,6 +1,8 @@
 ---
-title: "Sales Per Employee Ratio (Algo Trading)"
-description: "Explore the essential dynamics of sales performance, financial metrics, employee productivity, and algorithmic trading to enhance your business success."
+category: quant_concept
+description: Explore the essential dynamics of sales performance, financial metrics,
+  employee productivity, and algorithmic trading to enhance your business success.
+title: Sales Per Employee Ratio (Algo Trading)
 ---
 
 In the evolving landscape of business and finance, comprehending the interplay between sales performance, financial metrics, employee productivity, and algorithmic trading is essential. These elements collectively influence a company’s ability to thrive in competitive markets. Sales performance, measured through key metrics, serves as a direct indicator of a company's market position and operational efficiency. Financial metrics, such as the Sharpe Ratio and Compound Annual Growth Rate (CAGR), provide critical insights into a company’s financial health and investment capabilities, reflecting its capacity to balance risk and reward.

@@ -1,7 +1,8 @@
 ---
-title: Understanding Global Context Modules for Enhanced Neural Networks
+category: quant_concept
 description: Global Context Module enables neural networks to blend holistic data
   summaries with local features for sharper predictions Discover more inside
+title: Understanding Global Context Modules for Enhanced Neural Networks
 ---
 
 ![Image](images/1.png)

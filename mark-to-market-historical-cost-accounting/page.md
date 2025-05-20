@@ -1,6 +1,9 @@
 ---
-title: "Mark-to-Market Accounting and Historical Cost Accounting (Algo Trading)"
-description: "Explore the dynamic roles of historical cost and mark-to-market accounting in algorithmic trading uncovering how each method influences financial reporting and decision-making."
+category: quant_concept
+description: Explore the dynamic roles of historical cost and mark-to-market accounting
+  in algorithmic trading uncovering how each method influences financial reporting
+  and decision-making.
+title: Mark-to-Market Accounting and Historical Cost Accounting (Algo Trading)
 ---
 
 In the modern financial landscape, various accounting methods play a critical role in asset valuation, investment decisions, and financial reporting. Historical cost accounting and mark-to-market (MTM) accounting are two pivotal approaches that influence how financial data is interpreted and decisions are made. Historical cost accounting, known for its simplicity and stability over time, records assets at their original purchase price. This method offers consistency in financial reporting by avoiding the frequent fluctuations of market prices.
@@ -142,4 +145,3 @@ Staying informed about these accounting methods and their role alongside advance
 - Chan's 'Quantitative Trading: How to Build Your Own Algorithmic Trading Business' is a practical guide that helps readers understand the key components of developing and running a quantitative trading business. The book covers essential topics such as market microstructure, algorithm backtesting, and risk management, with practical advice on setting up trading strategies using modern technology.
 
 These references offer in-depth analyses and practical tools for integrating financial theories with advanced computing techniques, paving the way for innovations in trading and asset management.
-

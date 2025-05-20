@@ -1,6 +1,9 @@
 ---
-title: "Analysis of Showtime's Series Billions (Algo Trading)"
-description: "Explore Showtime's series Billions through the lens of algorithmic trading highlighting its role in modern finance and how it captivates viewers with dramatic intrigue."
+category: quant_concept
+description: Explore Showtime's series Billions through the lens of algorithmic trading
+  highlighting its role in modern finance and how it captivates viewers with dramatic
+  intrigue.
+title: Analysis of Showtime's Series Billions (Algo Trading)
 ---
 
 Financial dramas have an enduring appeal, captivating audiences with their depictions of the high-stakes world of finance and trading. One such standout is Showtime's series "Billions," which unravels the intricate operations of hedge funds amid power struggles and elaborate financial strategies. The series has garnered a global following for its intense portrayals and layered plotlines, all while weaving complex financial maneuvers into its narrative fabric.
@@ -120,4 +123,3 @@ Narang, R. K. (2013). 'Inside the Black Box: The Simple Truth About Quantitative
 Jansen, S. (2020). 'Machine Learning for Algorithmic Trading: Predictive Models to Extract Signals from Market and Alternative Data for Systematic Trading Strategies with Python.' This resource provides practical approaches to applying machine learning in trading, with in-depth examples and Python code. It is tailored for practitioners interested in developing predictive models using both market and [alternative data](/wiki/best-alternative-data).
 
 Aronson, D. (2007). 'Evidence-Based Technical Analysis: Applying the Scientific Method and Statistical Inference to Trading Signals.' Aronson emphasizes the importance of applying statistical inference and the scientific method to technical analysis. By focusing on evidence-based approaches, this book aims to separate reliable trading signals from noise, thus enhancing the robustness of trading decisions.
-

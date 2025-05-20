@@ -1,7 +1,8 @@
 ---
-title: Enhancing Machine Learning Efficiency with Prioritized Sampling
+category: quant_concept
 description: Prioritized Sampling in machine learning boosts training speed and accuracy
   by focusing on hard examples for targeted data selection Discover more inside
+title: Enhancing Machine Learning Efficiency with Prioritized Sampling
 ---
 
 ![Image](images/1.png)

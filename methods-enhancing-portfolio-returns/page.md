@@ -1,6 +1,9 @@
 ---
-title: "Methods for Enhancing Portfolio Returns (Algo Trading)"
-description: "Uncover effective investment strategies to enhance portfolio returns with algorithmic trading Learn how to combine traditional and modern techniques to maximize gains"
+category: trading_strategy
+description: Uncover effective investment strategies to enhance portfolio returns
+  with algorithmic trading Learn how to combine traditional and modern techniques
+  to maximize gains
+title: Methods for Enhancing Portfolio Returns (Algo Trading)
 ---
 
 Investment strategies play a crucial role in enhancing financial performance and improving portfolio returns. Fundamentally, these strategies encompass a variety of methods employed by investors to maximize their financial gains while minimizing risks. Traditionally, investors have relied on approaches such as equities over bonds, diversification, and active versus passive management to construct robust portfolios. Diversification, for example, involves spreading investments across various asset classes to reduce exposure to any single asset's volatility. Such strategies have served as the backbone of investment practices for decades.

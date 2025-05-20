@@ -1,6 +1,9 @@
 ---
-title: "Recoupling: Definition and Mechanism (Algo Trading)"
-description: "Explore the dynamic interplay between economics and technology in trading through recoupling and algorithmic mechanisms. Enhance investment strategies with this insight."
+category: quant_concept
+description: Explore the dynamic interplay between economics and technology in trading
+  through recoupling and algorithmic mechanisms. Enhance investment strategies with
+  this insight.
+title: 'Recoupling: Definition and Mechanism (Algo Trading)'
 ---
 
 The convergence of economics and technology has led to innovative developments in trading and investment strategies. A prominent example of this integration is algorithmic trading, which employs predefined rules and algorithms to execute trades automatically. This method represents a significant shift in how transactions are conducted in financial markets, as it allows traders to leverage computational power and advanced algorithms to optimize trade execution and enhance decision-making processes. 

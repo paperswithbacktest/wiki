@@ -1,6 +1,9 @@
 ---
-title: "Examples of Debt Instruments (Algo Trading)"
-description: "Explore debt instruments, their role in finance, and how algorithmic trading enhances investment strategies by optimizing returns and managing risks efficiently."
+category: quant_concept
+description: Explore debt instruments, their role in finance, and how algorithmic
+  trading enhances investment strategies by optimizing returns and managing risks
+  efficiently.
+title: Examples of Debt Instruments (Algo Trading)
 ---
 
 Understanding the various instruments available for investment and trading is crucial in finance. This article focuses on financial instruments, particularly debt instruments and debt securities, and explores the role of algorithmic trading in our contemporary financial landscape. These elements aim to enhance liquidity, manage risk, and create diverse investment opportunities, operating in synergy to construct a solid financial ecosystem. Through this exploration, readers will gain insight into how these concepts integrate to shape modern financial markets.

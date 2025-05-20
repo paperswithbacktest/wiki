@@ -1,6 +1,8 @@
 ---
-title: "High-Water Mark in Finance (Algo Trading)"
-description: "Explore the concept of high-water marks in finance and their pivotal role in hedge funds and algorithmic trading ensuring transparent and fair compensation."
+category: quant_concept
+description: Explore the concept of high-water marks in finance and their pivotal
+  role in hedge funds and algorithmic trading ensuring transparent and fair compensation.
+title: High-Water Mark in Finance (Algo Trading)
 ---
 
 Understanding the term 'high-water mark' is crucial for those involved in investment finance and algorithmic trading. The high-water mark concept is integral to the financial domain, particularly in the context of hedge funds and performance-based compensation. Essentially, a high-water mark represents the peak value that an investment account has achieved. It is chiefly used as a reference point to determine compensation for fund managers. Specifically, managers are required to surpass this benchmark to earn performance fees, especially after periods of loss, ensuring that investors are not subjected to fees unless the fund's performance recovers beyond its previous peak.

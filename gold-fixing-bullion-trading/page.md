@@ -1,6 +1,8 @@
 ---
-title: "Gold Fixing and Bullion Trading (Algo Trading)"
-description: "Explore the dynamic world of gold fixing and bullion trading with algorithmic trading Learn how technology reshapes these age-old investment practices"
+category: trading_strategy
+description: Explore the dynamic world of gold fixing and bullion trading with algorithmic
+  trading Learn how technology reshapes these age-old investment practices
+title: Gold Fixing and Bullion Trading (Algo Trading)
 ---
 
 The intersection of gold fixing, bullion trading, and precious metals trading with algorithmic trading is becoming an increasingly significant focus in today's financial markets. As technology progresses, it is reshaping how these centuries-old practices are conducted, positioning themselves not just as commodities but as formidable investment mechanisms.

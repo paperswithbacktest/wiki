@@ -1,6 +1,8 @@
 ---
-title: "Macro Environment in Economics (Algo Trading)"
-description: "Explore how macroeconomic factors like GDP, inflation, and employment shape algorithmic trading strategies for better market predictions and risk management."
+category: quant_concept
+description: Explore how macroeconomic factors like GDP, inflation, and employment
+  shape algorithmic trading strategies for better market predictions and risk management.
+title: Macro Environment in Economics (Algo Trading)
 ---
 
 The intersection of macroeconomic factors and algorithmic trading forms a complex and dynamic relationship that is essential in shaping modern trading strategies. Macroeconomic factors, encompassing elements such as gross domestic product (GDP), inflation rates, employment levels, and fiscal policy, are crucial in providing a comprehensive view of an economy's health and prospects. These indicators serve as foundational data points that guide traders in making informed decisions. Understanding these economic factors is paramount for developing robust trading strategies that aim to optimize returns while managing risk.

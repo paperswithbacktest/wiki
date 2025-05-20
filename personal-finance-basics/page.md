@@ -1,6 +1,9 @@
 ---
-title: "Personal Finance Basics (Algo Trading)"
-description: "Explore personal finance and algorithmic trading to optimize your financial strategy. Learn how budgeting, investing, and tech-driven trading can secure your future."
+category: quant_concept
+description: Explore personal finance and algorithmic trading to optimize your financial
+  strategy. Learn how budgeting, investing, and tech-driven trading can secure your
+  future.
+title: Personal Finance Basics (Algo Trading)
 ---
 
 Personal finance is a crucial aspect of our lives, involving the management of monetary resources to ensure wise spending, saving, and investing. It encompasses various activities, such as budgeting, debt management, and retirement planning, all of which contribute to financial health. Effective financial planning is key to achieving long-term financial stability. It involves setting clear financial goals and creating a structured plan to meet those objectives. Proper money management ensures individuals live within their means while saving for future needs.

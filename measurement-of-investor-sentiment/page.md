@@ -1,6 +1,8 @@
 ---
-title: "Measurement of Investor Sentiment (Algo Trading)"
-description: "Explore the impact of investor sentiment on algorithmic trading and market dynamics Learn how sentiment analysis can enhance trading strategies and decision-making"
+category: quant_concept
+description: Explore the impact of investor sentiment on algorithmic trading and market
+  dynamics Learn how sentiment analysis can enhance trading strategies and decision-making
+title: Measurement of Investor Sentiment (Algo Trading)
 ---
 
 The rapid evolution of technology has significantly transformed financial markets, with notable advancements in algorithmic trading and sentiment analysis. Algorithmic trading, which utilizes automated instructions based on various variables such as time, price, and mathematical models, has revolutionized how trades are executed, enhancing speed and efficiency[1]. Sentiment analysis, a technique that interprets and analyzes opinions, emotions, and attitudes expressed in text, plays a pivotal role in understanding investor behavior and market dynamics. By leveraging natural language processing (NLP) and machine learning, sentiment analysis provides critical insights into investor sentiment, offering a predictive edge in forecast market trends.

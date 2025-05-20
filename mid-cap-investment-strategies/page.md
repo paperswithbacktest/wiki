@@ -1,6 +1,9 @@
 ---
-title: "Mid-Cap Investment Strategies (Algo Trading)"
-description: "Explore mid-cap investment strategies that merge growth potential and stability with algorithmic trading's efficiency. Discover practical insights into optimizing returns."
+category: trading_strategy
+description: Explore mid-cap investment strategies that merge growth potential and
+  stability with algorithmic trading's efficiency. Discover practical insights into
+  optimizing returns.
+title: Mid-Cap Investment Strategies (Algo Trading)
 ---
 
 Investing in the stock market offers a broad array of opportunities to investors looking to maximize returns while managing risk. Among the various types of stocks, mid-cap stocks emerge as an intriguing segment that balances growth potential and stability. These stocks, representing companies with market capitalizations between $2 billion and $10 billion, occupy a strategic position between small-cap stocks, which are known for their high growth potential but greater volatility, and large-cap stocks, renowned for their stability but slower growth.

@@ -1,6 +1,8 @@
 ---
-title: "Differences Between Global and International Funds (Algo Trading)"
-description: "Explore diverse investment options with global and international funds, focusing on unique markets and leveraging algorithmic trading for optimized returns."
+category: trading_strategy
+description: Explore diverse investment options with global and international funds,
+  focusing on unique markets and leveraging algorithmic trading for optimized returns.
+title: Differences Between Global and International Funds (Algo Trading)
 ---
 
 The world of investment offers numerous opportunities, with global and international funds standing out as popular choices for diversification. These funds are designed to provide investors with access to a vast array of markets, enabling them to mitigate risks by spreading their investments across different geographical regions. By investing in various markets, investors can potentially benefit from the diverse economic conditions and growth prospects that different countries offer.

@@ -1,6 +1,11 @@
 ---
-title: "Forex Market Operation Hours (Algo Trading)"
-description: "Explore the dynamics of the 24-hour forex market and the impact of algorithmic trading on currency exchange. Learn about the staggered opening and closing of global exchanges and the major trading sessions in Tokyo, London, and New York that facilitate continuous market participation. Discover how algorithmic trading enhances efficiency and speed in transactions while examining potential risks and benefits."
+category: quant_concept
+description: Explore the dynamics of the 24-hour forex market and the impact of algorithmic
+  trading on currency exchange. Learn about the staggered opening and closing of global
+  exchanges and the major trading sessions in Tokyo, London, and New York that facilitate
+  continuous market participation. Discover how algorithmic trading enhances efficiency
+  and speed in transactions while examining potential risks and benefits.
+title: Forex Market Operation Hours (Algo Trading)
 ---
 
 The forex market, standing as the largest and most liquid financial market in the world, operates continuously from Monday to Friday. This perpetual cycle is made possible through a network of banks, financial institutions, corporations, and individual traders who engage in buying and selling international currencies. The underlying infrastructure of the forex market ensures that transactions are executed swiftly and efficiently, providing participants with a robust platform for currency trading and speculation.

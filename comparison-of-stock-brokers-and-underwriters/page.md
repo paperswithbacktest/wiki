@@ -1,6 +1,9 @@
 ---
-title: "Comparison of Stock Brokers and Underwriters (Algo Trading)"
-description: "Explore the roles of underwriters, stock brokers, and algorithmic trading in financial markets. Understand their unique functions and impact on today's trading landscape."
+category: quant_concept
+description: Explore the roles of underwriters, stock brokers, and algorithmic trading
+  in financial markets. Understand their unique functions and impact on today's trading
+  landscape.
+title: Comparison of Stock Brokers and Underwriters (Algo Trading)
 ---
 
 The financial industry is a complex ecosystem where various roles and functions interact seamlessly to create a dynamic market environment. This article seeks to explore three pivotal roles in the financial sector: underwriters, stock brokers, and algorithmic trading. Each role plays a significant part in shaping the financial markets by fulfilling unique responsibilities and exploiting distinct operational mechanisms. 

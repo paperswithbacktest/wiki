@@ -1,6 +1,11 @@
 ---
-title: "Difference Between Financial Planners and Financial Advisors (Algo Trading)"
-description: "Explore the distinctions and connections between financial planners and advisors as well as the impact of algorithmic trading in this comprehensive guide. Gain insights into how these professionals can help you navigate and optimize your financial strategies. Learn how to maximize financial outcomes through effective management and informed decision-making in today's complex financial landscape."
+category: quant_concept
+description: Explore the distinctions and connections between financial planners and
+  advisors as well as the impact of algorithmic trading in this comprehensive guide.
+  Gain insights into how these professionals can help you navigate and optimize your
+  financial strategies. Learn how to maximize financial outcomes through effective
+  management and informed decision-making in today's complex financial landscape.
+title: Difference Between Financial Planners and Financial Advisors (Algo Trading)
 ---
 
 In today's fast-paced financial world, individuals are increasingly seeking professional guidance to manage their finances effectively. In this complex environment, key roles such as financial advisors, financial planners, and algo traders have become essential for successful navigation and decision-making. Each of these roles contributes uniquely towards helping individuals streamline and enhance their financial positions.

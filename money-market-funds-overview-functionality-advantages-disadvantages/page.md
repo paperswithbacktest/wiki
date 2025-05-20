@@ -1,6 +1,13 @@
 ---
-title: "Money Market Funds: Overview, Functionality, Advantages, and Disadvantages (Algo Trading)"
-description: "Explore an in-depth look at money market funds in the context of modern finance. Understanding how these funds work their benefits and challenges can empower investors to make informed decisions. This comprehensive guide discusses money market funds' role within investment strategies and their relationship with financial instruments and algorithmic trading enhancing the reader's grasp on optimizing portfolios for low risk and high liquidity."
+category: quant_concept
+description: Explore an in-depth look at money market funds in the context of modern
+  finance. Understanding how these funds work their benefits and challenges can empower
+  investors to make informed decisions. This comprehensive guide discusses money market
+  funds' role within investment strategies and their relationship with financial instruments
+  and algorithmic trading enhancing the reader's grasp on optimizing portfolios for
+  low risk and high liquidity.
+title: 'Money Market Funds: Overview, Functionality, Advantages, and Disadvantages
+  (Algo Trading)'
 ---
 
 In the ever-evolving landscape of finance, several foundational components are crucial in shaping modern investment practices. Money market funds, financial instruments, investment strategies, and algorithmic trading are pivotal in this context. Each plays a distinct role in the broader investment ecosystem, providing investors with various tools and approaches to optimize their portfolios.

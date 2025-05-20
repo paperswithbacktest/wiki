@@ -1,6 +1,9 @@
 ---
-title: "Regulation W in Banking (Algo Trading)"
-description: "Explore how Regulation W impacts financial stability and algorithmic trading, shedding light on the intricate dynamics of banking regulations in modern markets."
+category: quant_concept
+description: Explore how Regulation W impacts financial stability and algorithmic
+  trading, shedding light on the intricate dynamics of banking regulations in modern
+  markets.
+title: Regulation W in Banking (Algo Trading)
 ---
 
 In today's complex financial ecosystem, understanding the regulatory landscape is crucial for effective financial management and strategic planning. This article explores the intricate relationship between financial transactions, banking regulations, Regulation W, and algorithmic trading, shedding light on how these elements interact in the modern financial sector.

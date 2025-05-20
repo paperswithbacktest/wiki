@@ -1,6 +1,8 @@
 ---
-title: "Zero Cost Collar (Algo Trading)"
-description: "Explore the zero cost collar strategy in options trading, a cost-neutral approach for protecting investments using algorithmic solutions for optimized execution."
+category: trading_strategy
+description: Explore the zero cost collar strategy in options trading, a cost-neutral
+  approach for protecting investments using algorithmic solutions for optimized execution.
+title: Zero Cost Collar (Algo Trading)
 ---
 
 In the world of options trading, the zero cost collar strategy provides a mechanism for investors to safeguard their portfolios while minimizing expenses. This strategy is notable for its ability to offer downside protection without necessitating an upfront cost, making it appealing to both novice and experienced traders. By strategically buying put options and selling call options, investors set up a cost-neutral position that shields against significant losses and caps potential gains.

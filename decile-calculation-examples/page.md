@@ -1,6 +1,8 @@
 ---
-title: "Decile: Calculation and Examples (Algo Trading)"
-description: "Discover how deciles and algorithmic trading intersect to optimize trading strategies. Learn to calculate deciles and apply them for insightful market analysis."
+category: quant_concept
+description: Discover how deciles and algorithmic trading intersect to optimize trading
+  strategies. Learn to calculate deciles and apply them for insightful market analysis.
+title: 'Decile: Calculation and Examples (Algo Trading)'
 ---
 
 In the rapidly evolving world of trading, the integration of statistical methods and technology is transforming how financial markets operate. Two prominent elements in this transformation are the use of deciles and algorithmic trading. While deciles serve as a statistical tool that segments data into ten equal parts, facilitating a deeper and more structured analysis, algorithmic trading leverages computational algorithms to execute trades automatically based on defined strategies. These strategies are often designed to exploit specific market inefficiencies or conditions.

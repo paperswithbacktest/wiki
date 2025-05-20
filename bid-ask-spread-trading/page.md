@@ -1,6 +1,8 @@
 ---
-title: "Bid-Ask Spread in Trading (Algo Trading)"
-description: "Explore the vital role of bid-ask spread in algorithmic trading Discover how algorithms exploit this spread to optimize trades and enhance market liquidity"
+category: quant_concept
+description: Explore the vital role of bid-ask spread in algorithmic trading Discover
+  how algorithms exploit this spread to optimize trades and enhance market liquidity
+title: Bid-Ask Spread in Trading (Algo Trading)
 ---
 
 In the rapidly evolving landscape of financial markets, the bid-ask spread plays a crucial role in trading activities. This spread, defined as the difference between the price buyers are willing to pay (the bid) and the price sellers are willing to accept (the ask), serves as a key indicator of market liquidity and transaction costs. A narrow bid-ask spread generally signifies high liquidity and lower transaction costs, facilitating seamless trading. Conversely, a wide spread indicates lower liquidity and higher transaction costs, potentially hindering trade execution.

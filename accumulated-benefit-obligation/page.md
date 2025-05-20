@@ -1,6 +1,8 @@
 ---
-title: "Accumulated Benefit Obligation (Algo Trading)"
-description: "Explore the importance of Accumulated Benefit Obligation (ABO) in understanding pension liabilities. Learn how ABO impacts financial planning and pension accounting."
+category: quant_concept
+description: Explore the importance of Accumulated Benefit Obligation (ABO) in understanding
+  pension liabilities. Learn how ABO impacts financial planning and pension accounting.
+title: Accumulated Benefit Obligation (Algo Trading)
 ---
 
 Understanding the intricacies of pension liabilities is crucial for businesses and financial analysts. Pension accounting encompasses a range of measures and methodologies vital for evaluating a company’s financial obligations related to employee retirement benefits. Among these measures, the Accumulated Benefit Obligation (ABO) stands out as a fundamental metric. The ABO represents the present value of pension benefits that employees have earned up to a specific point in time, based on their current salaries. This measure provides insight into a company's existing pension liabilities, without considering future salary increases, reflecting a snapshot of financial commitments that need to be accounted for with precision.

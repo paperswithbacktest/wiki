@@ -1,9 +1,10 @@
 ---
-title: "Aaron Levy"
-description: "Aaron Levy is a theoretical physicist-turned-financial expert with a rich background in mathematics and physics now driving innovative strategies in New York City."
+category: quant_concept
+description: Aaron Levy is a theoretical physicist-turned-financial expert with a
+  rich background in mathematics and physics now driving innovative strategies in
+  New York City.
+title: Aaron Levy
 ---
-
-
 
 ## Table of Contents
 

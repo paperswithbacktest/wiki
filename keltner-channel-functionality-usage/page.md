@@ -1,6 +1,13 @@
 ---
-title: "Keltner Channel: Functionality and Usage (Algo Trading)"
-description: "Explore the powerful functionality of Keltner Channels in algorithmic trading as a volatility-based indicator that adapts to market conditions. Discover how this lesser-known tool provides valuable insights into market trends, identifies potential reversals, and anticipates breakout points. Understand the calculation methods and compare Keltner Channels with other popular indicators to enhance decision-making and trading outcomes. Uncover the benefits of integrating Keltner Channels into your trading strategies for improved results."
+category: trading_strategy
+description: Explore the powerful functionality of Keltner Channels in algorithmic
+  trading as a volatility-based indicator that adapts to market conditions. Discover
+  how this lesser-known tool provides valuable insights into market trends, identifies
+  potential reversals, and anticipates breakout points. Understand the calculation
+  methods and compare Keltner Channels with other popular indicators to enhance decision-making
+  and trading outcomes. Uncover the benefits of integrating Keltner Channels into
+  your trading strategies for improved results.
+title: 'Keltner Channel: Functionality and Usage (Algo Trading)'
 ---
 
 In the world of trading, technical analysis is a fundamental component of numerous trading strategies. Indicators such as moving averages, the Relative Strength Index (RSI), and the Moving Average Convergence Divergence (MACD) are commonly employed by traders to predict price movements and make informed decisions. These tools help traders to evaluate historical price data and identify potential market trends or reversals.

@@ -1,7 +1,8 @@
 ---
-title: Understanding Mean Absolute Error for Reliable Model Evaluation
+category: quant_concept
 description: Mean Absolute Error shows average prediction error in original units
   so teams can evaluate model performance and manage outliers Discover more inside.
+title: Understanding Mean Absolute Error for Reliable Model Evaluation
 ---
 
 ![Image](images/1.png)

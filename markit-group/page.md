@@ -1,6 +1,9 @@
 ---
-title: "Markit Group (Algo Trading)"
-description: "Discover how Markit Group revolutionizes algorithmic trading through high-quality data solutions and analytics, enhancing precision and efficiency in financial markets."
+category: dataset
+description: Discover how Markit Group revolutionizes algorithmic trading through
+  high-quality data solutions and analytics, enhancing precision and efficiency in
+  financial markets.
+title: Markit Group (Algo Trading)
 ---
 
 IHS Markit is a pivotal entity in the financial data industry, renowned for providing comprehensive analytics and solutions that underpin financial decision-making globally. Established through the merging of IHS Inc. and Markit Ltd., IHS Markit has carved a niche in delivering high-quality data services crucial for financial markets. The company's significance lies in its ability to amalgamate a vast array of data with sophisticated analytics, offering insights that drive operational efficiency and strategic market decisions.

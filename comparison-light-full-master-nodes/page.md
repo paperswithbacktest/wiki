@@ -1,6 +1,8 @@
 ---
-title: "Comparison of Light, Full, and Master Nodes (Algo Trading)"
-description: "Explore the roles of light, full, and master nodes in blockchain to understand their significance in transaction validation and their impact on algo trading."
+category: quant_concept
+description: Explore the roles of light, full, and master nodes in blockchain to understand
+  their significance in transaction validation and their impact on algo trading.
+title: Comparison of Light, Full, and Master Nodes (Algo Trading)
 ---
 
 In the field of blockchain and cryptocurrency, nodes are fundamental components that ensure the network's integrity and functionality. A node, in this context, is a device that participates in a blockchain network, contributing to its transaction validation, data storage, and overall security. Understanding the distinctions among light nodes, full nodes, master nodes, and blockchain nodes is crucial for grasping how these networks operate efficiently.

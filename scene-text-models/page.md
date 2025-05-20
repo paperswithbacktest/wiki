@@ -1,7 +1,8 @@
 ---
-title: Scene Text Recognition Techniques Explored with ABCNet and PGNet
+category: quant_concept
 description: Scene text recognition extracts text from images with context based and
   curve aware models refining results for higher accuracy Discover more inside
+title: Scene Text Recognition Techniques Explored with ABCNet and PGNet
 ---
 
 ![Image](images/1.png)

@@ -1,6 +1,9 @@
 ---
-title: "Transition to a Cashless Society (Algo Trading)"
-description: "Explore the shift towards a cashless society driven by digital payments and algorithmic trading. Discover the benefits and challenges of this financial evolution."
+category: quant_concept
+description: Explore the shift towards a cashless society driven by digital payments
+  and algorithmic trading. Discover the benefits and challenges of this financial
+  evolution.
+title: Transition to a Cashless Society (Algo Trading)
 ---
 
 The financial world is experiencing a paradigm shift driven by technological innovations in digital payments and financial technology. This evolution is characterized by a significant movement towards a cashless society, fundamentally altering the manner in which financial transactions are conducted. The increasing abandonment of physical cash in favor of digital payment methods highlights a major transformation in consumer behavior and financial operations. This shift is facilitated by advancements such as mobile wallets, online banking, and contactless payment systems, which offer enhanced convenience, security, and accessibility.

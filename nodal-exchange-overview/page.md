@@ -1,6 +1,9 @@
 ---
-title: "Nodal Exchange Overview (Algo Trading)"
-description: "Explore the pivotal role of Nodal Exchange in North America's commodity markets and how it harnesses algorithmic trading to enhance efficiency and risk management."
+category: quant_concept
+description: Explore the pivotal role of Nodal Exchange in North America's commodity
+  markets and how it harnesses algorithmic trading to enhance efficiency and risk
+  management.
+title: Nodal Exchange Overview (Algo Trading)
 ---
 
 The landscape of commodity trading is undergoing significant transformation, propelled by technological advances and the rise of specialized exchanges. Nodal Exchange stands out as a leading force in North America's commodity markets, positioned at the cutting edge of this evolution. This article will explore the operational dynamics of trading platforms, emphasizing Nodal Exchange's pivotal role and the influence of algorithmic trading on the commodity markets.

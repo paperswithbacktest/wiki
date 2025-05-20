@@ -1,6 +1,8 @@
 ---
-title: "Price Fixing in Business and Economics (Algo Trading)"
-description: "Explore the complexities of price fixing in business economics and its impact on market dynamics with the rise of algorithmic trading and its regulation."
+category: quant_concept
+description: Explore the complexities of price fixing in business economics and its
+  impact on market dynamics with the rise of algorithmic trading and its regulation.
+title: Price Fixing in Business and Economics (Algo Trading)
 ---
 
 Price fixing is a pivotal topic in business economics as it directly influences market dynamics and legality. It occurs when competing businesses agree to set prices at a certain level, rather than allowing them to be determined organically by free-market forces. This manipulation of prices can severely undermine market efficiency, creating an environment where competition is stifled, and consumers are disadvantaged due to artificially inflated prices. 

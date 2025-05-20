@@ -1,6 +1,9 @@
 ---
-title: "KOF Economic Barometer: Overview and History (Algo Trading)"
-description: "Explore the KOF Economic Barometer, a key indicator used for forecasting in Switzerland, and discover how algo trading leverages these metrics for market strategies."
+category: dataset
+description: Explore the KOF Economic Barometer, a key indicator used for forecasting
+  in Switzerland, and discover how algo trading leverages these metrics for market
+  strategies.
+title: 'KOF Economic Barometer: Overview and History (Algo Trading)'
 ---
 
 The global economy is perpetually transforming, influenced by a myriad of factors ranging from geopolitical developments to technological advances. Central to navigating this complex landscape are economic indicators, indispensable tools that guide the decisions of governments, financial institutions, and individual investors. These indicators offer crucial insights into past performances, current conditions, and potential future trends of economies worldwide. By analyzing these metrics, stakeholders can make informed decisions that align with their strategic goals and better anticipate economic shifts.

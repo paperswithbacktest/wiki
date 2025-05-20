@@ -1,7 +1,8 @@
 ---
-title: Exploring Question Answering Model Types, Architecture and Trends
+category: quant_concept
 description: Question Answering Models boost AI by extracting and generating answers
   from text using advanced architectures and datasets. Discover more inside.
+title: Exploring Question Answering Model Types, Architecture and Trends
 ---
 
 ![Image](images/1.png)

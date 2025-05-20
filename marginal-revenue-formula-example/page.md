@@ -1,6 +1,9 @@
 ---
-title: "Marginal Revenue: Formula and Example (Algo Trading)"
-description: "Explore the pivotal role of marginal revenue in business finance and algorithmic trading Learn how these concepts shape pricing strategies and market operations"
+category: quant_concept
+description: Explore the pivotal role of marginal revenue in business finance and
+  algorithmic trading Learn how these concepts shape pricing strategies and market
+  operations
+title: 'Marginal Revenue: Formula and Example (Algo Trading)'
 ---
 
 The intersection of economic concepts, business finance, and technological advancements forms a complex and intricate domain, particularly visible in the rise of algorithmic trading. Within this realm, topics such as marginal revenue are crucial for understanding financial performance and aiding decision-making processes. Marginal revenue, defined as the additional income generated from selling one more unit of a good or service, plays a key role by enabling businesses to align their production and pricing strategies with market dynamics.

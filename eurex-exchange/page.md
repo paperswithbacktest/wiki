@@ -1,6 +1,8 @@
 ---
-title: "Eurex Exchange (Algo Trading)"
-description: "Explore the vital role of Eurex in Europe's futures markets with insights on algorithmic trading its impact on financial derivatives and evolving technologies."
+category: quant_concept
+description: Explore the vital role of Eurex in Europe's futures markets with insights
+  on algorithmic trading its impact on financial derivatives and evolving technologies.
+title: Eurex Exchange (Algo Trading)
 ---
 
 The European futures market plays a pivotal role in the global financial landscape, offering a diverse array of financial derivatives and opportunities for algorithmic trading. Prominent exchanges such as Eurex and Euronext are instrumental in facilitating the vibrant trading of futures and options across Europe. These exchanges provide platforms that support a wide range of financial instruments, making the futures market a crucial component of economic activity and investment strategy in the region.

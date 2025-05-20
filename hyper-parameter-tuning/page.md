@@ -1,6 +1,13 @@
 ---
-title: "Hyper-parameter tuning (Algo Trading)"
-description: Discover the impact of hyper-parameter tuning in algorithmic trading and how it can optimize model performance and profitability. Learn about essential tuning techniques like Grid Search, Random Search, and Bayesian Optimization, and understand the significance of selecting the right hyper-parameters to maximize trading returns while minimizing risks. Explore the challenges and methodologies involved in refining these pivotal components to ensure robust and competitive trading algorithms.
+category: trading_strategy
+description: Discover the impact of hyper-parameter tuning in algorithmic trading
+  and how it can optimize model performance and profitability. Learn about essential
+  tuning techniques like Grid Search, Random Search, and Bayesian Optimization, and
+  understand the significance of selecting the right hyper-parameters to maximize
+  trading returns while minimizing risks. Explore the challenges and methodologies
+  involved in refining these pivotal components to ensure robust and competitive trading
+  algorithms.
+title: Hyper-parameter tuning (Algo Trading)
 ---
 
 Hyper-parameter tuning refers to the process of finding the most appropriate hyper-parameters for a machine learning model to enhance its performance. In the context of algorithmic trading, this process is crucial because the optimal selection of hyper-parameters directly influences the accuracy and profitability of trading algorithms. Hyper-parameters are critical settings that govern the behavior of the learning process and the structure of the model but are not updated during the training. Examples include the learning rate, batch size, and the number of layers in a neural network. 

@@ -1,6 +1,9 @@
 ---
-title: "Calculation of Net Credit Purchases (Algo Trading)"
-description: "Explore how accurate calculation of net credit purchases in accounting enhances algorithmic trading strategies transforming financial agility and market efficiency."
+category: trading_strategy
+description: Explore how accurate calculation of net credit purchases in accounting
+  enhances algorithmic trading strategies transforming financial agility and market
+  efficiency.
+title: Calculation of Net Credit Purchases (Algo Trading)
 ---
 
 In the rapidly evolving landscape of financial markets, understanding the subtle yet critical intersection between accounting practices and trading strategies is essential. Two domains of paramount importance in this regard are the accurate calculation of net credit purchases in accounting and the strategic application of algorithmic trading. These areas, though distinct in their functions, are intertwined and pivotal to the functioning of modern financial operations.

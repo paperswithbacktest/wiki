@@ -1,6 +1,9 @@
 ---
-title: "Price Elasticity in Relation to Supply and Demand (Algo Trading)"
-description: "Explore how price elasticity influences supply and demand in algorithmic trading Enhance your trading strategies by understanding market dynamics and predicting trends"
+category: quant_concept
+description: Explore how price elasticity influences supply and demand in algorithmic
+  trading Enhance your trading strategies by understanding market dynamics and predicting
+  trends
+title: Price Elasticity in Relation to Supply and Demand (Algo Trading)
 ---
 
 In the fast-evolving world of trading, understanding the dynamics of supply and demand is crucial. These dynamics form the backbone of market behavior, influencing everything from asset pricing to trade volumes. Among the intricate web of economic theories that shed light on these dynamics, price elasticity stands out as a fundamental concept, drawing the connection between changes in price and variations in supply and demand.

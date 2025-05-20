@@ -1,6 +1,14 @@
 ---
-title: "FINRA BrokerCheck: Functionality and Significance (Algo Trading)"
-description: "Explore the functionality and significance of FINRA BrokerCheck, a crucial tool for investors evaluating brokers and firms in the financial industry. Understand how BrokerCheck promotes transparency and trust by offering access to professional backgrounds and regulatory records. Additionally, delve into the world of algorithmic trading, its impact on market dynamics, and the regulatory measures by FINRA to maintain market integrity and fairness. Gain insights into the importance of both investor tools and regulatory frameworks in navigating today's complex financial landscape."
+category: quant_concept
+description: Explore the functionality and significance of FINRA BrokerCheck, a crucial
+  tool for investors evaluating brokers and firms in the financial industry. Understand
+  how BrokerCheck promotes transparency and trust by offering access to professional
+  backgrounds and regulatory records. Additionally, delve into the world of algorithmic
+  trading, its impact on market dynamics, and the regulatory measures by FINRA to
+  maintain market integrity and fairness. Gain insights into the importance of both
+  investor tools and regulatory frameworks in navigating today's complex financial
+  landscape.
+title: 'FINRA BrokerCheck: Functionality and Significance (Algo Trading)'
 ---
 
 The financial industry functions as an intricate network where various players, including brokers, firms, and regulatory bodies, work under complex regulations to uphold market integrity and investor trust. Central to this system is the Financial Industry Regulatory Authority (FINRA), a pivotal organization responsible for overseeing broker-dealer activities in the United States. FINRA's mission is to safeguard investors by ensuring that the securities industry operates fairly and honestly.

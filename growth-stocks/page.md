@@ -1,9 +1,12 @@
 ---
-title: "Growth Stocks (Algo Trading)"
-description: Discover the role of growth stocks in algo trading, their definition, main characteristics, and risks. Learn how algorithms can help identify promising growth stocks and optimize trading strategies. With high potential returns come higher risks - understand the nuances to maximize gains while managing risk effectively. Explore resources for further learning in quantitative trading.
+category: trading_strategy
+description: Discover the role of growth stocks in algo trading, their definition,
+  main characteristics, and risks. Learn how algorithms can help identify promising
+  growth stocks and optimize trading strategies. With high potential returns come
+  higher risks - understand the nuances to maximize gains while managing risk effectively.
+  Explore resources for further learning in quantitative trading.
+title: Growth Stocks (Algo Trading)
 ---
-
-
 
 Algorithmic trading, commonly known as algo trading, represents a substantial evolution in how trades are executed in modern financial markets. It involves the use of computer programs to automate trading decisions with speed and precision that surpasses traditional trading methods. By leveraging mathematical models and algorithms, traders can process vast quantities of data and execute orders at optimal moments, thus gaining a competitive advantage. This method of trading is celebrated for its efficiency and ability to handle large-volume trades swiftly, which is particularly vital in today’s fast-paced financial environment.
 

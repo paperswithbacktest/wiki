@@ -1,6 +1,8 @@
 ---
-title: "Identifying Market Trends (Algo Trading)"
-description: "Explore how identifying market trends and leveraging economic indicators can enhance trading strategies and risk management in algorithmic trading."
+category: trading_strategy
+description: Explore how identifying market trends and leveraging economic indicators
+  can enhance trading strategies and risk management in algorithmic trading.
+title: Identifying Market Trends (Algo Trading)
 ---
 
 Market trends are a fundamental aspect of financial markets, representing the general direction in which market prices are moving over a certain period. These trends are driven by a complex interplay of various factors, including investor sentiment, global economic shifts, and macroeconomic data. Recognizing these trends is crucial for both investors and traders as they influence investment strategies, risk management, and portfolio diversification.

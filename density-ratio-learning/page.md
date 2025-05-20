@@ -1,7 +1,8 @@
 ---
-title: Understanding Density Ratio Learning in Machine Learning
+category: quant_concept
 description: Density Ratio Learning lets you compare probability distributions without
   full estimation to spot anomalies and adapt models. Discover more inside.
+title: Understanding Density Ratio Learning in Machine Learning
 ---
 
 ![Image](images/1.png)

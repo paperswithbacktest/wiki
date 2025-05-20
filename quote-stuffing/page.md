@@ -1,6 +1,9 @@
 ---
-title: "Quote stuffing (Algo Trading)"
-description: "Quote stuffing in algorithmic trading misleads markets by flooding them with rapid orders, creating artificial congestion and offering advantages to high-frequency traders."
+category: quant_concept
+description: Quote stuffing in algorithmic trading misleads markets by flooding them
+  with rapid orders, creating artificial congestion and offering advantages to high-frequency
+  traders.
+title: Quote stuffing (Algo Trading)
 ---
 
 Quote stuffing is a controversial tactic employed within algorithmic trading, particularly in high-frequency trading (HFT). This practice involves the rapid placement of a large number of orders, which are then quickly canceled. Such actions create artificial congestion and distortions in market data. The primary objective of quote stuffing is to gain a competitive edge over slower market participants by exploiting discrepancies in market speed and latency. 

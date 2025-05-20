@@ -1,6 +1,9 @@
 ---
-title: "Mechanism of Eurobonds (Algo Trading)"
-description: "Discover how Eurobonds and algorithmic trading are transforming global finance by enhancing market liquidity, accessibility, and efficiency for investors and issuers."
+category: quant_concept
+description: Discover how Eurobonds and algorithmic trading are transforming global
+  finance by enhancing market liquidity, accessibility, and efficiency for investors
+  and issuers.
+title: Mechanism of Eurobonds (Algo Trading)
 ---
 
 The global landscape of finance is a complex and interconnected network, with bonds playing an essential role in facilitating economic activity across borders. Bonds, as debt instruments, enable governments and corporations to finance projects by borrowing from investors. Among the different types of bonds, Eurobonds represent a unique category that serves as a crucial instrument for cross-border investments and capital raising. Eurobonds are international bonds that are issued in a currency not native to the issuer's country, allowing issuers to access a broader pool of global investors.

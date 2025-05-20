@@ -1,6 +1,9 @@
 ---
-title: "Impact of Quantitative Easing on Stock Markets (Algo Trading)"
-description: "Explore how quantitative easing impacts stock markets and algorithmic trading driving liquidity and asset prices in financial markets affected by central bank policies."
+category: quant_concept
+description: Explore how quantitative easing impacts stock markets and algorithmic
+  trading driving liquidity and asset prices in financial markets affected by central
+  bank policies.
+title: Impact of Quantitative Easing on Stock Markets (Algo Trading)
 ---
 
 The interplay between stock markets, economic policy, quantitative easing (QE), and algorithmic trading forms a complex web that significantly influences the global financial landscape. Understanding these concepts is crucial for investors, as they collectively shape both short-term market movements and long-term economic trends. Stock markets serve as a barometer of economic health, reflecting investors' collective sentiment and expectations about future economic conditions. Economic policies, particularly those enacted by central banks, aim to stabilize or stimulate economies, affecting financial markets in the process.

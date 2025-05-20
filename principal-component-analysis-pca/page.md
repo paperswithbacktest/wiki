@@ -1,6 +1,11 @@
 ---
-title: "Principal component analysis (PCA) (Algo Trading)"
-description: Explore the significance of Principal Component Analysis (PCA) in algorithmic trading as a crucial technique for simplifying complex datasets and enhancing trading strategies. Learn how PCA reduces data dimensionality, identifies key market factors, and optimizes portfolios to aid in risk management and decision-making, while understanding its limitations and practical applications within this field.
+category: quant_concept
+description: Explore the significance of Principal Component Analysis (PCA) in algorithmic
+  trading as a crucial technique for simplifying complex datasets and enhancing trading
+  strategies. Learn how PCA reduces data dimensionality, identifies key market factors,
+  and optimizes portfolios to aid in risk management and decision-making, while understanding
+  its limitations and practical applications within this field.
+title: Principal component analysis (PCA) (Algo Trading)
 ---
 
 In the fast-evolving world of algorithmic trading, leveraging the power of data analytics is crucial for gaining a competitive edge. As financial markets become increasingly complex, traders and quantitative analysts seek tools to distill vast amounts of data into actionable insights. Principal Component Analysis (PCA) serves as a powerful technique that simplifies high-dimensional data, making it easier to interpret and act upon. By reducing the dimensionality of datasets, PCA helps identify the underlying factors that influence asset price movements, thereby providing clearer signals among the noise.

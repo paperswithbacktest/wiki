@@ -1,6 +1,9 @@
 ---
-title: "Impact of Microeconomics on Apartment Renting (Algo Trading)"
-description: "Discover how microeconomics impacts apartment renting decisions through the lens of financial strategies and algorithmic trading innovations for optimized outcomes."
+category: quant_concept
+description: Discover how microeconomics impacts apartment renting decisions through
+  the lens of financial strategies and algorithmic trading innovations for optimized
+  outcomes.
+title: Impact of Microeconomics on Apartment Renting (Algo Trading)
 ---
 
 The world of financial decisions is multifaceted, extending far beyond traditional investments and impacting various aspects of daily life. It integrates economic theories with everyday choices, influencing our understanding of modern economic landscapes. This article examines the relationship between apartment renting, microeconomic theories, financial decisions, and algorithmic trading, illustrating how these elements collectively shape the fabric of contemporary economic systems.

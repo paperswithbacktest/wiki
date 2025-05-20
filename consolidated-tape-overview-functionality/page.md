@@ -1,6 +1,8 @@
 ---
-title: "Consolidated Tape Overview and Functionality (Algo Trading)"
-description: "Explore how the consolidated tape revolutionizes algorithmic trading with real-time data for enhanced market transparency and informed decision-making."
+category: quant_concept
+description: Explore how the consolidated tape revolutionizes algorithmic trading
+  with real-time data for enhanced market transparency and informed decision-making.
+title: Consolidated Tape Overview and Functionality (Algo Trading)
 ---
 
 The financial markets have seen profound changes with the advancement of technology. At the forefront of these changes are the consolidated tape, algorithmic trading, and tickers. These components play a pivotal role in how market participants access, analyze, and act upon trading data. Understanding these elements is crucial for traders seeking to navigate modern markets effectively.

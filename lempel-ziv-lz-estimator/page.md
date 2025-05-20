@@ -1,6 +1,12 @@
 ---
-title: "Lempel-Ziv (LZ) estimator (Algo Trading)"
-description: Explore how the Lempel-Ziv estimator enhances algorithmic trading by measuring data compressibility to identify market patterns and trends. This approach aids in improving trading accuracy and managing risks, offering insights into market dynamics by evaluating financial time series for better prediction of market movements. Discover the application of the LZ estimator in refining trading strategies and enhancing risk management in the competitive financial landscape.
+category: quant_concept
+description: Explore how the Lempel-Ziv estimator enhances algorithmic trading by
+  measuring data compressibility to identify market patterns and trends. This approach
+  aids in improving trading accuracy and managing risks, offering insights into market
+  dynamics by evaluating financial time series for better prediction of market movements.
+  Discover the application of the LZ estimator in refining trading strategies and
+  enhancing risk management in the competitive financial landscape.
+title: Lempel-Ziv (LZ) estimator (Algo Trading)
 ---
 
 Algorithmic trading refers to the use of computer programs and systems to execute trading strategies on financial markets automatically. These algorithms leverage complex mathematical models and high-speed data processing to identify trading opportunities and act upon them faster than a human trader could. The primary goal is to maximize efficiency and accuracy in trading by minimizing human error and emotional influence. Algorithmic trading is essential as it provides liquidity, narrows spreads, and helps manage transaction costs, thereby making financial markets more efficient.

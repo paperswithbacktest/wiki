@@ -1,6 +1,11 @@
 ---
-title: "Etherscan API Guide (Algo Trading)"
-description: Explore the significance of Etherscan API in algorithmic trading involving Ethereum blockchain data. This guide investigates into utilizing Etherscan’s comprehensive data access for enhancing trading strategies by automating data retrieval and analysis. Learn about key features, benefits, challenges, and integration methods to optimize algorithmic trading success within the evolving cryptocurrency market landscape.
+category: dataset
+description: Explore the significance of Etherscan API in algorithmic trading involving
+  Ethereum blockchain data. This guide investigates into utilizing Etherscan’s comprehensive
+  data access for enhancing trading strategies by automating data retrieval and analysis.
+  Learn about key features, benefits, challenges, and integration methods to optimize
+  algorithmic trading success within the evolving cryptocurrency market landscape.
+title: Etherscan API Guide (Algo Trading)
 ---
 
 Blockchain technology has revolutionized many sectors, with financial markets being one of its most notable areas of influence. The decentralized nature of blockchains offers unparalleled transparency and security, making blockchain data crucial for algorithmic trading. Algorithmic trading, which relies heavily on data-driven decisions, benefits significantly from blockchain's ability to provide precise and real-time data.

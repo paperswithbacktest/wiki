@@ -1,6 +1,9 @@
 ---
-title: "Accounting Errors: Detection and Prevention (Algo Trading)"
-description: "Detecting and preventing accounting errors in algorithmic trading is crucial to safeguard financial integrity minimize legal risks and ensure accurate trade executions."
+category: quant_concept
+description: Detecting and preventing accounting errors in algorithmic trading is
+  crucial to safeguard financial integrity minimize legal risks and ensure accurate
+  trade executions.
+title: 'Accounting Errors: Detection and Prevention (Algo Trading)'
 ---
 
 Accounting errors, often perceived as negligible slip-ups, can have profound effects on financial outcomes, especially in high-stakes environments like algorithmic trading. These errors can lead to significant financial discrepancies, affect market confidence, and even result in substantial legal liabilities. With automated trading systems heavily reliant on accurate financial data, any error in accounting records can cascade through trading algorithms, potentially leading to erroneous trades, financial losses, and disrupted market operations.

@@ -1,6 +1,12 @@
 ---
-title: "Guide to Selecting an Online Stock Brokerage (Algo Trading)"
-description: "Explore the essential aspects of choosing an online stock brokerage with a focus on algorithmic trading. Understand the importance of factors like fees, platform functionality, and security features in optimizing your trading strategy and achieving financial goals. This guide investigates into the transformative impact of technology on trading and provides insights for evaluating brokers based on your unique investment style and objectives."
+category: trading_strategy
+description: Explore the essential aspects of choosing an online stock brokerage with
+  a focus on algorithmic trading. Understand the importance of factors like fees,
+  platform functionality, and security features in optimizing your trading strategy
+  and achieving financial goals. This guide investigates into the transformative impact
+  of technology on trading and provides insights for evaluating brokers based on your
+  unique investment style and objectives.
+title: Guide to Selecting an Online Stock Brokerage (Algo Trading)
 ---
 
 Online stock trading has transformed how individual investors and traders engage with financial markets. The advent of technology has democratized market access, allowing individuals to buy and sell securities with ease from their own devices. However, with the multitude of online brokers now available, deciding which one to use can be a complex task. Each broker may offer different fee structures, trading platforms, and security measures, which can greatly influence a trader's or investor’s experience and success. 

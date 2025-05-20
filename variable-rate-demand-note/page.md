@@ -1,6 +1,13 @@
 ---
-title: "Variable Rate Demand Note (Algo Trading)"
-description: "Explore the intricacies of Variable Rate Demand Notes (VRDNs) and their significance in municipal financing and investment strategy. Learn how these instruments offer variable interest rates, liquidity through a 'put' option, and tax advantages for savvy investors. Discover their role in algorithmic trading, enabling optimized portfolio performance in dynamic market conditions. This comprehensive guide is essential for financial professionals and investors looking to capitalize on VRDNs' unique characteristics and adaptability."
+category: quant_concept
+description: Explore the intricacies of Variable Rate Demand Notes (VRDNs) and their
+  significance in municipal financing and investment strategy. Learn how these instruments
+  offer variable interest rates, liquidity through a 'put' option, and tax advantages
+  for savvy investors. Discover their role in algorithmic trading, enabling optimized
+  portfolio performance in dynamic market conditions. This comprehensive guide is
+  essential for financial professionals and investors looking to capitalize on VRDNs'
+  unique characteristics and adaptability.
+title: Variable Rate Demand Note (Algo Trading)
 ---
 
 Variable Rate Demand Notes (VRDNs), also referred to as Variable Rate Demand Obligations (VRDOs), are an essential class of debt instruments employed by municipal governments to secure funding. These financial tools are instrumental in accommodating the capital-raising needs of public entities while offering distinct advantages for investors. One of the defining features of VRDNs is their variable interest rates, which are typically adjusted in response to prevailing market conditions. This inherent flexibility positions VRDNs as attractive investments, especially for those seeking to optimize their returns in varied economic environments and capitalize on potential tax advantages.

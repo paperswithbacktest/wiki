@@ -1,6 +1,8 @@
 ---
-title: "Economic Sectors Benefiting From Increased Interest Rates (Algo Trading)"
-description: "Discover how rising interest rates impact various economic sectors and financial markets while exploring the role of algorithmic trading in modern finance."
+category: trading_strategy
+description: Discover how rising interest rates impact various economic sectors and
+  financial markets while exploring the role of algorithmic trading in modern finance.
+title: Economic Sectors Benefiting From Increased Interest Rates (Algo Trading)
 ---
 
 Financial markets serve as the backbone of the global economy, facilitating the efficient allocation of resources and enabling various economic activities. They encompass a range of platforms where financial instruments—stocks, bonds, derivatives, currencies—are traded. These markets are vital for raising capital, maintaining liquidity, and distributing risk. By channeling savings into productive investments, financial markets stimulate economic growth and innovation, thereby playing a crucial role in societal development.

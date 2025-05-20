@@ -1,6 +1,14 @@
 ---
-title: "Citadel LLC (Algo Trading)"
-description: Citadel LLC is a leading force in the financial services industry, known for its innovative approach to algorithmic trading. Founded by Kenneth C. Griffin in 1990, the firm has grown to manage over $63 billion in assets, distinguishing itself through technology-driven strategies and rapid trade execution. Citadel's focus on algorithmic and high-frequency trading enhances market efficiency and liquidity, positioning it as a pivotal entity in global finance. With a commitment to cutting-edge technology and data analytics, Citadel continues to shape the future of financial markets, setting benchmarks for precision and speed in trading.
+category: quant_concept
+description: Citadel LLC is a leading force in the financial services industry, known
+  for its innovative approach to algorithmic trading. Founded by Kenneth C. Griffin
+  in 1990, the firm has grown to manage over $63 billion in assets, distinguishing
+  itself through technology-driven strategies and rapid trade execution. Citadel's
+  focus on algorithmic and high-frequency trading enhances market efficiency and liquidity,
+  positioning it as a pivotal entity in global finance. With a commitment to cutting-edge
+  technology and data analytics, Citadel continues to shape the future of financial
+  markets, setting benchmarks for precision and speed in trading.
+title: Citadel LLC (Algo Trading)
 ---
 
 Citadel LLC stands as a titan within the hedge fund and financial services industry, recognized for its pioneering approach and impressive growth trajectory. Founded by Kenneth C. Griffin in 1990, Citadel has evolved from a small trading firm into a formidable powerhouse managing over $63 billion in assets. This remarkable growth underscores its strategic foresight and robust business practices, positioning it as an influential entity within the global financial markets.

@@ -1,6 +1,9 @@
 ---
-title: "Secured Overnight Financing Rate (Algo Trading)"
-description: "Explore the role of the Secured Overnight Financing Rate in algo trading and its impact on loans Learn about SOFR's global shift from LIBOR and new market dynamics"
+category: quant_concept
+description: Explore the role of the Secured Overnight Financing Rate in algo trading
+  and its impact on loans Learn about SOFR's global shift from LIBOR and new market
+  dynamics
+title: Secured Overnight Financing Rate (Algo Trading)
 ---
 
 The Secured Overnight Financing Rate (SOFR) has emerged as a pivotal benchmark in modern finance, particularly for derivatives and loans denominated in U.S. dollars. Officially replacing the London Interbank Offered Rate (LIBOR) in June 2023, SOFR aims to provide a more reliable and less manipulable standard for a wide array of financial transactions. The necessity for this transition stemmed from LIBOR's susceptibility to manipulation and its dependence on estimates rather than actual transactions, leading to calls for a more transparent and stable benchmark.

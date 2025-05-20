@@ -1,6 +1,8 @@
 ---
-title: "Comparison of Penny Stocks and Small Cap Stocks (Algo Trading)"
-description: "Explore the characteristics, advantages, and risks of penny stocks and small cap stocks in this detailed comparison to optimize your investment strategy."
+category: quant_concept
+description: Explore the characteristics, advantages, and risks of penny stocks and
+  small cap stocks in this detailed comparison to optimize your investment strategy.
+title: Comparison of Penny Stocks and Small Cap Stocks (Algo Trading)
 ---
 
 The stock market presents a multitude of investment opportunities, each catering to various risk tolerances and strategic preferences. Among these, small cap stocks, penny stocks, and algorithmic trading stand out as prominent options for investors. This article aims to provide comprehensive insights into these investment forms, their characteristics, and their applicability within today's financial framework. We will explore the definitions, differences, advantages, and associated risks of small cap and penny stocks. Small cap stocks are generally defined as shares of companies with a market capitalization ranging from $250 million to $2 billion, often sought after for their growth potential. In contrast, penny stocks typically trade at low prices, often below $5 per share, and are considered high-risk ventures due to their inherent volatility and low market liquidity.

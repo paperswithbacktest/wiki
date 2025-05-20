@@ -1,7 +1,8 @@
 ---
-title: Understanding Attention Mechanisms in Neural Networks
+category: quant_concept
 description: Attention mechanisms help models focus on key data segments to boost
   accuracy and interpretability in NLP and vision applications. Discover more inside.
+title: Understanding Attention Mechanisms in Neural Networks
 ---
 
 ![Image](images/1.png)

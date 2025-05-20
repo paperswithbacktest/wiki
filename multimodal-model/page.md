@@ -1,7 +1,8 @@
 ---
-title: Understanding Multimodal Models in Machine Learning
+category: quant_concept
 description: Multimodal models merge text images and video to enhance tasks like image
   captioning and diagnosis with unified data processing Discover more inside.
+title: Understanding Multimodal Models in Machine Learning
 ---
 
 ![Image](images/1.webp)

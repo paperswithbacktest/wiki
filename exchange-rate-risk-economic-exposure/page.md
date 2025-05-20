@@ -1,6 +1,8 @@
 ---
-title: "Exchange Rate Risk and Economic Exposure (Algo Trading)"
-description: "Explore the impact of exchange rate risk and economic exposure on businesses in a global economy and discover how algorithmic trading can mitigate these risks."
+category: quant_concept
+description: Explore the impact of exchange rate risk and economic exposure on businesses
+  in a global economy and discover how algorithmic trading can mitigate these risks.
+title: Exchange Rate Risk and Economic Exposure (Algo Trading)
 ---
 
 In the globalized economy, businesses and investors frequently engage in cross-border transactions, which expose them to various financial risks. Among these risks, exchange rate risk, also known as currency risk, and economic exposure are prominent concerns. Exchange rate risk arises from fluctuations in the value of one currency against another, impacting profit margins, cash flows, and the valuation of assets and liabilities. Economic exposure, on the other hand, encompasses the broader impact of currency value changes on a company's market value, affecting its competitive position and long-term profitability.

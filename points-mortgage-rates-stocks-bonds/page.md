@@ -1,6 +1,8 @@
 ---
-title: "Points in Mortgage Rates, Stocks, and Bonds (Algo Trading)"
-description: "Explore how mortgage rates stocks bonds and algorithmic trading interconnect influencing investment strategies and economic outcomes for informed decision-making."
+category: trading_strategy
+description: Explore how mortgage rates stocks bonds and algorithmic trading interconnect
+  influencing investment strategies and economic outcomes for informed decision-making.
+title: Points in Mortgage Rates, Stocks, and Bonds (Algo Trading)
 ---
 
 In today's interconnected financial landscape, mortgage rates, stocks, bonds, and algorithmic trading have become integral components influencing the financial decisions of individuals and institutions. Understanding the interactions among these elements is crucial for both investors and homeowners, as they play pivotal roles in shaping economic outcomes and investment strategies.

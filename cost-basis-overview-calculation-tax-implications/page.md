@@ -1,6 +1,8 @@
 ---
-title: "Cost Basis: Overview, Calculation, and Tax Implications (Algo Trading)"
-description: "Discover the essential role of cost basis in algo trading—from investment strategy to tax implications—ensuring accuracy in capital gains and compliance."
+category: quant_concept
+description: Discover the essential role of cost basis in algo trading—from investment
+  strategy to tax implications—ensuring accuracy in capital gains and compliance.
+title: 'Cost Basis: Overview, Calculation, and Tax Implications (Algo Trading)'
 ---
 
 Cost basis is a critical concept in both investing and tax calculations, serving as the foundation for determining capital gains or losses when an asset is sold. It represents the original value of an asset, including any associated costs such as brokerage fees and commissions. This initial measurement is pivotal, as the difference between the cost basis and the sale price of an asset will dictate the capital gain or loss, which in turn influences the taxable event.
@@ -258,4 +260,3 @@ In conclusion, the successful navigation of cost basis within algorithmic tradin
 9. **Morningstar - Tax Strategies for Investors** - An article providing strategic guidance on tax optimization for investors, with specific references to the impact of different cost basis methods on investment returns.
 
 10. **Journal of Financial Economics** - This journal publishes articles on various financial topics, including research studies that examine the impact of trading strategies, tax regulations, and cost basis calculations on market behavior and investor performance.
-

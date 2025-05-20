@@ -1,6 +1,8 @@
 ---
-title: "Adam Smith: The Wealth of Nations (Algo Trading)"
-description: "Explore Adam Smith's economic principles and their influence on modern algorithmic trading which seeks market efficiency through advanced technologies."
+category: quant_concept
+description: Explore Adam Smith's economic principles and their influence on modern
+  algorithmic trading which seeks market efficiency through advanced technologies.
+title: 'Adam Smith: The Wealth of Nations (Algo Trading)'
 ---
 
 Adam Smith, a towering figure in economic theory, is widely celebrated for his transformative work, "The Wealth of Nations," published in 1776. Smith's exploration of economic processes laid the foundation for classical economics, introducing concepts that have significantly shaped the understanding of markets. One of his seminal ideas, the "invisible hand," posits that individuals pursuing their self-interest inadvertently contribute to the economic well-being of society, advocating for minimal government intervention in free markets. Smith's insights on productivity, driven by the division of labor, highlight how specialized workforces enhance efficiency, contributing to economic growth.

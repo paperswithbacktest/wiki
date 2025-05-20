@@ -1,6 +1,8 @@
 ---
-title: "Naked Short Selling (Algo Trading)"
-description: "Explore the complexities of naked short selling and algorithmic trading in today's financial markets Learn about their impact on market dynamics and regulations"
+category: quant_concept
+description: Explore the complexities of naked short selling and algorithmic trading
+  in today's financial markets Learn about their impact on market dynamics and regulations
+title: Naked Short Selling (Algo Trading)
 ---
 
 The financial trading landscape has evolved significantly, with the stock market's dynamics becoming increasingly complex due to advancements in technology and changes in market regulations. Among these complexities are practices like naked short selling and algorithmic trading, both of which play critical roles in today's markets.

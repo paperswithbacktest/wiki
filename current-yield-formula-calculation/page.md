@@ -1,6 +1,8 @@
 ---
-title: "Current Yield: Formula and Calculation (Algo Trading)"
-description: "Explore bond yields, investment returns, and algorithmic trading to enhance portfolio management. Learn calculations and strategies for optimal financial gains."
+category: quant_concept
+description: Explore bond yields, investment returns, and algorithmic trading to enhance
+  portfolio management. Learn calculations and strategies for optimal financial gains.
+title: 'Current Yield: Formula and Calculation (Algo Trading)'
 ---
 
 In today's dynamic financial landscape, understanding bond yields, investment returns, and algorithmic trading is crucial for achieving optimal portfolio performance. As the financial markets evolve, these concepts play a pivotal role in shaping investment strategies and optimizing return profiles. Bond yields, encompassing various metrics such as coupon yield, current yield, and yield to maturity, offer critical insights into the potential profitability of fixed-income securities. Accurately calculating these yields is essential for evaluating investment opportunities and managing risk.
@@ -152,4 +154,3 @@ Fabozzi, F. J., et al. *Bond Markets, Analysis, and Strategies* offers a compreh
 Brandt, M. W. *Portfolio Choice Problems* investigates into the complexities of portfolio management, offering a detailed examination of various investment return measures and strategies for optimizing portfolio performance. This book provides a solid foundation for investors seeking to understand risk-adjusted returns and the importance of strategic decision-making in aligning investment strategies with financial objectives.
 
 Kissell, R. *The Science of Algorithmic Trading and Portfolio Management* explores the technological advancements driving algorithmic trading, including the role of artificial intelligence and machine learning in enhancing trade execution and market efficiency. This text is crucial for comprehending how automated trading strategies can be integrated with yield calculations to improve investment performance and navigate the challenges of market volatility.
-

@@ -1,6 +1,8 @@
 ---
-title: "Financial Assets: Liquid and Illiquid Types (Algo Trading)"
-description: "Explore liquid and illiquid financial assets and discover how algorithmic trading optimizes trading strategies and execution to enhance portfolio performance."
+category: quant_concept
+description: Explore liquid and illiquid financial assets and discover how algorithmic
+  trading optimizes trading strategies and execution to enhance portfolio performance.
+title: 'Financial Assets: Liquid and Illiquid Types (Algo Trading)'
 ---
 
 Understanding the various types of financial assets is crucial for any investor looking to optimize their portfolio. Financial assets fall into two main categories: liquid and illiquid assets, each possessing distinct characteristics that offer unique advantages and challenges. Liquid assets, such as stocks and marketable securities, provide quick access to funds and facilitate swift transactions without significantly impacting market prices. On the other hand, illiquid assets, including real estate and private equity, often require more time to convert into cash and may offer the potential for higher returns due to the associated illiquidity premium.

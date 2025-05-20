@@ -1,6 +1,9 @@
 ---
-title: "Accounting Standards Overview (Algo Trading)"
-description: "Discover how accounting standards like GAAP and IFRS enhance financial reporting integrity, aiding informed algorithmic trading decisions in financial markets."
+category: quant_concept
+description: Discover how accounting standards like GAAP and IFRS enhance financial
+  reporting integrity, aiding informed algorithmic trading decisions in financial
+  markets.
+title: Accounting Standards Overview (Algo Trading)
 ---
 
 Accounting standards, principles, and financial reporting are foundational to the financial industry. These elements ensure the integrity, transparency, and consistency of financial information, facilitating informed decision-making by stakeholders such as investors, regulators, and management. Accounting standards, encompassing frameworks like Generally Accepted Accounting Principles (GAAP) and International Financial Reporting Standards (IFRS), provide structured guidelines for recognizing, measuring, and disclosing financial transactions. Additionally, core accounting principles, including accrual basis, conservatism, consistency, and materiality, play crucial roles in shaping the reliability and comparability of financial statements across different entities and jurisdictions.

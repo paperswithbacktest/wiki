@@ -1,6 +1,9 @@
 ---
-title: "Permanent Capital Vehicle: Overview and Benefits (Algo Trading)"
-description: "Explore the benefits of Permanent Capital Vehicles and their synergy with algorithmic trading. Learn how this innovative investment approach offers stability and growth."
+category: trading_strategy
+description: Explore the benefits of Permanent Capital Vehicles and their synergy
+  with algorithmic trading. Learn how this innovative investment approach offers stability
+  and growth.
+title: 'Permanent Capital Vehicle: Overview and Benefits (Algo Trading)'
 ---
 
 Permanent Capital Vehicles (PCVs) have emerged as a significant innovation in the investment landscape, offering a distinct avenue for investors seeking stability and growth over an extended period. These vehicles are designed to maintain capital on a perpetual basis, allowing for sustained investment and reinvestment without the typical short-term pressures of traditional investment vehicles. Their architecture supports long-term vision, aligning with investors aiming for consistent capital appreciation and reduced volatility.

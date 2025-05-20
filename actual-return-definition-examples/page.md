@@ -1,6 +1,8 @@
 ---
-title: "Actual Return: Definition and Examples (Algo Trading)"
-description: "Unlock the potential of algorithmic trading to boost investment returns by leveraging technology for accurate decision-making and performance optimization."
+category: quant_concept
+description: Unlock the potential of algorithmic trading to boost investment returns
+  by leveraging technology for accurate decision-making and performance optimization.
+title: 'Actual Return: Definition and Examples (Algo Trading)'
 ---
 
 Understanding investment returns is essential for maximizing profitability in today's financial landscape. The emergence of algorithmic trading has marked a significant advancement in optimizing these returns. Algorithmic trading employs computer algorithms to execute trades with precision and speed, capitalizing on fleeting market movements while minimizing human error. This technological shift has reshaped how investments are managed and underscores the importance of leveraging advanced tools to enhance financial performance.

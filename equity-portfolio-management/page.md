@@ -1,6 +1,8 @@
 ---
-title: "Equity Portfolio Management (Algo Trading)"
-description: "Explore the synergy of equity portfolio management and algorithmic trading to enhance investment strategies maximize returns and manage risks effectively."
+category: trading_strategy
+description: Explore the synergy of equity portfolio management and algorithmic trading
+  to enhance investment strategies maximize returns and manage risks effectively.
+title: Equity Portfolio Management (Algo Trading)
 ---
 
 Investment strategies play a vital role in the financial markets by guiding investors in the allocation of their resources with the goal of achieving optimal returns while managing risk. Different strategies, such as growth, value, and income investing, offer unique approaches to this task. Growth investing typically focuses on companies with strong potential for future earnings, while value investing targets undervalued stocks that may offer potential for appreciation. Income investing, on the other hand, prioritizes assets that provide steady dividend payouts. The strategic blend of these approaches is fundamental to aligning investment activities with financial objectives and risk tolerance.

@@ -1,6 +1,9 @@
 ---
-title: "Differences Between Dividend Yield and Dividend Payout Ratio (Algo Trading)"
-description: "Discover the key differences between dividend yield and dividend payout ratio and how these metrics impact investment strategies particularly in algorithmic trading."
+category: quant_concept
+description: Discover the key differences between dividend yield and dividend payout
+  ratio and how these metrics impact investment strategies particularly in algorithmic
+  trading.
+title: Differences Between Dividend Yield and Dividend Payout Ratio (Algo Trading)
 ---
 
 Investing in dividend-paying stocks is a popular strategy among investors seeking a stable source of income. This strategy allows investors to receive regular income through dividends, which are portions of a company's earnings distributed to shareholders. Central to evaluating such investments are two critical financial metrics: the dividend payout ratio and dividend yield. 
@@ -142,4 +145,3 @@ To maximize returns and minimize risks, a comprehensive approach is advisable. I
 [4]: Case Studies on Dividend Strategies in Various Industries: This source provides a collection of case studies examining dividend strategies across different sectors. It analyzes how companies tailor their dividend policies based on industry characteristics and market conditions, offering lessons on the adaptability and effectiveness of various approaches.
 
 [5]: Maximizing Returns with Dividend-Focused Algorithmic Trading: This reference outlines strategies for enhancing returns through the integration of algorithmic trading with dividend-focused investments. It discusses the potential benefits of using advanced algorithms to monitor market trends, predict dividend sustainability, and adjust investment strategies in real time to maximize yields while minimizing risks.
-

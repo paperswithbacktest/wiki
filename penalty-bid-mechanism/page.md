@@ -1,6 +1,8 @@
 ---
-title: "Penalty Bid Mechanism (Algo Trading)"
-description: "Explore the impact of penalty bids in algorithmic trading and their role in maintaining price integrity during IPOs while navigating regulatory constraints."
+category: quant_concept
+description: Explore the impact of penalty bids in algorithmic trading and their role
+  in maintaining price integrity during IPOs while navigating regulatory constraints.
+title: Penalty Bid Mechanism (Algo Trading)
 ---
 
 Penalty bids are an essential concept within the sphere of stock market investment banking, serving as a mechanism to discourage undesirable market behaviors during the initial distribution of securities. Typically, they are imposed on underwriters or brokers if shares allocated to them are resold within a short timeframe, leading to price instability. This mechanism is vital for maintaining price integrity and ensuring orderly market functions, particularly during initial public offerings (IPOs) or secondary offerings.

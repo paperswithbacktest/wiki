@@ -1,7 +1,8 @@
 ---
-title: Video Frame Interpolation Techniques for Smoother Playback
+category: quant_concept
 description: Video Frame Interpolation adds intelligent frames to low frame rate videos
   for smoother playback and broader device compatibility Discover more inside.
+title: Video Frame Interpolation Techniques for Smoother Playback
 ---
 
 ![Image](images/1.png)

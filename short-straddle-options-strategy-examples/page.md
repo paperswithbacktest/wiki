@@ -1,6 +1,8 @@
 ---
-title: "Short Straddle Options Strategy and Examples (Algo Trading)"
-description: "Explore the mechanics of the short straddle options strategy in algorithmic trading. Learn about its profits, risks, and how technology can enhance execution."
+category: trading_strategy
+description: Explore the mechanics of the short straddle options strategy in algorithmic
+  trading. Learn about its profits, risks, and how technology can enhance execution.
+title: Short Straddle Options Strategy and Examples (Algo Trading)
 ---
 
 Options trading offers a diverse array of strategies designed to help traders capitalize on various market conditions. Among these strategies, the short straddle stands out as a popular choice for traders aiming to benefit from anticipated stability in the price of a particular asset. A short straddle involves simultaneously selling a call option and a put option with the same strike price and expiration date. This approach allows the trader to collect premiums on the options written, with the primary objective being to profit from the lack of significant price movement in the underlying asset.

@@ -1,6 +1,9 @@
 ---
-title: "Execution of Buy Limit Orders (Algo Trading)"
-description: "Explore the role of buy limit orders in algorithmic trading Discover how these orders ensure price control in volatile markets while enhancing trading precision"
+category: trading_strategy
+description: Explore the role of buy limit orders in algorithmic trading Discover
+  how these orders ensure price control in volatile markets while enhancing trading
+  precision
+title: Execution of Buy Limit Orders (Algo Trading)
 ---
 
 In the world of stock trading, different types of orders play a crucial role in maximizing profits and managing risks. Orders are instructions given by traders to brokers or trading platforms to buy or sell stocks with specific conditions. Among the various order types, two of the most popular are the buy limit order and the market order, each serving different purposes and strategies for traders.

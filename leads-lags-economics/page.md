@@ -1,6 +1,8 @@
 ---
-title: "Leads and Lags in Economics (Algo Trading)"
-description: "Explore algo trading and its reliance on economic leads and lags to seize market opportunities and manage risks for enhanced trading performance."
+category: trading_strategy
+description: Explore algo trading and its reliance on economic leads and lags to seize
+  market opportunities and manage risks for enhanced trading performance.
+title: Leads and Lags in Economics (Algo Trading)
 ---
 
 Algorithmic trading, widely known as algo trading, is a fundamental component of today's financial markets. By utilizing complex algorithms and electronic platforms, traders can execute orders at speeds and volumes unimaginable with manual trading. The primary advantage of algo trading lies in its ability to process massive datasets swiftly, executing trades on the basis of sophisticated models that incorporate numerous variables. This efficiency translates into opportunities for enhanced returns, as traders can capitalize on fleeting market opportunities.

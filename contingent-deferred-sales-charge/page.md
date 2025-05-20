@@ -1,6 +1,12 @@
 ---
-title: "Contingent Deferred Sales Charge (Algo Trading)"
-description: "Explore how Contingent Deferred Sales Charges (CDSCs) impact investment portfolios and the innovative role algorithmic trading can play in optimizing fee management. Learn about different types of investment fees, including CDSCs, and discover strategies for minimizing costs to enhance long-term investment returns. This guide helps investors understand fee structures and the advantages of algo trading in effectively navigating these financial charges."
+category: quant_concept
+description: Explore how Contingent Deferred Sales Charges (CDSCs) impact investment
+  portfolios and the innovative role algorithmic trading can play in optimizing fee
+  management. Learn about different types of investment fees, including CDSCs, and
+  discover strategies for minimizing costs to enhance long-term investment returns.
+  This guide helps investors understand fee structures and the advantages of algo
+  trading in effectively navigating these financial charges.
+title: Contingent Deferred Sales Charge (Algo Trading)
 ---
 
 Investment fees play a significant role in shaping the overall returns on investment portfolios, directly affecting the financial outcomes for investors. One type of fee, known as sales charges, can notably influence investor success by imposing additional costs on transactions. Among these, Contingent Deferred Sales Charges (CDSCs) function as a critical element, as they are applied when certain investments like mutual fund shares are sold within a specific timeframe. These charges are designed to encourage investors to maintain their investments over the long term, thereby reducing the frequency of transaction costs that can erode capital gains.

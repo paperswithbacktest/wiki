@@ -1,6 +1,8 @@
 ---
-title: "Leading Chinese Natural Gas Companies: SHI and PTR (Algo Trading)"
-description: "Explore Chinese natural gas leaders SHI and PTR embracing algorithmic trading to enhance efficiency and market influence in a dynamic energy landscape."
+category: trading_strategy
+description: Explore Chinese natural gas leaders SHI and PTR embracing algorithmic
+  trading to enhance efficiency and market influence in a dynamic energy landscape.
+title: 'Leading Chinese Natural Gas Companies: SHI and PTR (Algo Trading)'
 ---
 
 The energy sector in China plays a pivotal role in both domestic and international markets, distinguishing itself as a significant contributor to global energy dynamics. Central to this sector are the natural gas companies, which are increasingly utilizing advanced technologies to bolster their trading capabilities. These enterprises are at the forefront of integrating innovative solutions to maintain competitiveness in a rapidly evolving energy landscape.

@@ -1,6 +1,9 @@
 ---
-title: "Difference Between Realized and Unrealized Profits (Algo Trading)"
-description: "Explore the key distinctions between realized and unrealized profits in algorithmic trading Discover how these concepts shape trading strategies and financial outcomes"
+category: quant_concept
+description: Explore the key distinctions between realized and unrealized profits
+  in algorithmic trading Discover how these concepts shape trading strategies and
+  financial outcomes
+title: Difference Between Realized and Unrealized Profits (Algo Trading)
 ---
 
 In the ever-evolving world of finance, the concepts of unrealized profits, realized profits, and paper profits are pivotal to understanding a trader's financial standing and decision-making process. These profit types offer insights into both potential and actual financial outcomes, influencing how financial strategies are formulated and executed. 

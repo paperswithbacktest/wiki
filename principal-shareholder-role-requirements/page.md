@@ -1,6 +1,9 @@
 ---
-title: "Principal Shareholder: Role and Requirements (Algo Trading)"
-description: "Explore the role and responsibilities of principal shareholders in corporate governance and the impact of algo trading on investment strategies and stock market dynamics."
+category: quant_concept
+description: Explore the role and responsibilities of principal shareholders in corporate
+  governance and the impact of algo trading on investment strategies and stock market
+  dynamics.
+title: 'Principal Shareholder: Role and Requirements (Algo Trading)'
 ---
 
 In the context of corporate governance, understanding the roles and requirements of different types of shareholders is crucial. Shareholders are individuals or entities that own one or more shares in a company, granting them certain rights and responsibilities. Among the various shareholder categories, principal shareholders and primary shareholders stand out due to their significant influence and decision-making capabilities within a corporation.

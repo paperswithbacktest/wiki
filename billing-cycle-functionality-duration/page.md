@@ -1,6 +1,8 @@
 ---
-title: "Billing Cycle: Functionality and Duration (Algo Trading)"
-description: "Explore the impact of efficient billing cycles and automation in algorithmic trading to enhance financial management, optimize cash flow, and improve accuracy."
+category: quant_concept
+description: Explore the impact of efficient billing cycles and automation in algorithmic
+  trading to enhance financial management, optimize cash flow, and improve accuracy.
+title: 'Billing Cycle: Functionality and Duration (Algo Trading)'
 ---
 
 Understanding the intricacies of billing cycles and their impact on business operations is crucial for maintaining financial health. At its core, the billing process is about managing invoice generation, setting appropriate periods, and aligning with payment behaviors. These elements ensure that businesses can maintain a steady revenue stream, anticipate future income, and manage expenses effectively.

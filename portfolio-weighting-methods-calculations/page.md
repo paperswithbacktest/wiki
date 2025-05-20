@@ -1,6 +1,8 @@
 ---
-title: "Portfolio Weighting Methods and Calculations (Algo Trading)"
-description: "Explore portfolio weighting methods and algorithmic trading techniques to optimize investment allocation Discover strategies for robust financial management"
+category: trading_strategy
+description: Explore portfolio weighting methods and algorithmic trading techniques
+  to optimize investment allocation Discover strategies for robust financial management
+title: Portfolio Weighting Methods and Calculations (Algo Trading)
 ---
 
 Investment strategies have undergone a profound transformation with the advent of modern technology. At the forefront of this evolution are concepts like portfolio weight, investment allocation, and algorithmic trading, which collectively shape the landscape of contemporary finance.

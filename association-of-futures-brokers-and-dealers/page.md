@@ -1,6 +1,8 @@
 ---
-title: "Association of Futures Brokers and Dealers (Algo Trading)"
-description: "Discover how futures brokers and algo trading shape modern financial markets by enhancing efficiency and transparency while adhering to regulatory standards."
+category: quant_concept
+description: Discover how futures brokers and algo trading shape modern financial
+  markets by enhancing efficiency and transparency while adhering to regulatory standards.
+title: Association of Futures Brokers and Dealers (Algo Trading)
 ---
 
 The financial markets have historically been shaped by technological advancements, leading to significant transformations in how trading is conducted. Today, we see this evolution most prominently in the intersection of futures trading, algorithmic trading (often referred to as algo trading), and the organizations like the Financial Markets Dealers Association that aim to regulate and oversee these activities.

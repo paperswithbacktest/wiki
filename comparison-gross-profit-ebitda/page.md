@@ -1,6 +1,8 @@
 ---
-title: "Comparison of Gross Profit and EBITDA (Algo Trading)"
-description: "Discover the key financial metrics of EBITDA and Gross Profit and their impact on algorithmic trading strategies to boost your financial decision-making."
+category: quant_concept
+description: Discover the key financial metrics of EBITDA and Gross Profit and their
+  impact on algorithmic trading strategies to boost your financial decision-making.
+title: Comparison of Gross Profit and EBITDA (Algo Trading)
 ---
 
 In the fast-paced world of finance, understanding key financial metrics is crucial for making informed decisions. Financial metrics serve as the backbone for analyzing a company's performance and viability, guiding both businesses and investors towards more strategic actions. Among these metrics, EBITDA, Gross Profit, and Algorithmic Trading frequently appear in discussions due to their critical roles in assessing operational performance and influencing trading strategies.

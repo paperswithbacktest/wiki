@@ -1,6 +1,9 @@
 ---
-title: "Heating Degree Day Calculation (Algo Trading)"
-description: "Explore how Heating Degree Days impact energy trading and algorithmic trading decisions. Learn to calculate HDD and its role in predicting heating demand and market shifts."
+category: quant_concept
+description: Explore how Heating Degree Days impact energy trading and algorithmic
+  trading decisions. Learn to calculate HDD and its role in predicting heating demand
+  and market shifts.
+title: Heating Degree Day Calculation (Algo Trading)
 ---
 
 Heating Degree Days (HDD) are a pivotal metric in determining energy requirements for heating specific to colder weather conditions. HDD quantifies the demand for energy to heat a building and is integral for various domains, including energy trading, climatology, and algorithmic trading. This measure provides insights into seasonal variations in temperature and energy needs, making it valuable for predicting heating demand and scheduling energy distribution effectively.

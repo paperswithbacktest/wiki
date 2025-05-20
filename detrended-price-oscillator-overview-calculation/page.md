@@ -1,6 +1,9 @@
 ---
-title: "Detrended Price Oscillator: Overview and Calculation (Algo Trading)"
-description: "The Detrended Price Oscillator (DPO) helps traders identify price cycles and potential turning points by removing trends from data, aiding strategic trading decisions."
+category: quant_concept
+description: The Detrended Price Oscillator (DPO) helps traders identify price cycles
+  and potential turning points by removing trends from data, aiding strategic trading
+  decisions.
+title: 'Detrended Price Oscillator: Overview and Calculation (Algo Trading)'
 ---
 
 The Detrended Price Oscillator (DPO) is a technical analysis tool prominently used in algorithmic trading to refine trading decisions by focusing on cycle identification rather than momentum. Distinct from traditional momentum-based indicators, the DPO strips away price trends, allowing traders to better estimate the length and potential turning points of price cycles. This oscillator offers insights into potential buying and selling points by highlighting the cyclical nature of asset prices.

@@ -1,6 +1,8 @@
 ---
-title: "PIIGS and the European Debt Crisis (Algo Trading)"
-description: "Explore the impact of algorithmic trading on the European Debt Crisis and the PIIGS countries. Analyze crisis origins and EU stabilization measures."
+category: quant_concept
+description: Explore the impact of algorithmic trading on the European Debt Crisis
+  and the PIIGS countries. Analyze crisis origins and EU stabilization measures.
+title: PIIGS and the European Debt Crisis (Algo Trading)
 ---
 
 The European Debt Crisis, spanning from 2009 to about 2014, marked a significant turning point in the economic landscape of the Eurozone. This period was characterized by economic turmoil predominantly centered around five countries known by the acronym PIIGS: Portugal, Italy, Ireland, Greece, and Spain. These nations faced profound financial instability, underlined by excessive debt burdens, fiscal deficits, and a lack of competitive economic performance. Each of these countries struggled with distinct economic challenges that contributed to a broader crisis within the Eurozone, highlighting systemic issues within the European economic framework.

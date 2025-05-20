@@ -1,6 +1,8 @@
 ---
-title: "Level 3 Assets Compared to Level 1 and Level 2 Assets (Algo Trading)"
-description: "Explore the complexities of Level 3 assets compared to Level 1 and 2 with insights into algorithmic trading strategies enhancing asset management efficiency."
+category: quant_concept
+description: Explore the complexities of Level 3 assets compared to Level 1 and 2
+  with insights into algorithmic trading strategies enhancing asset management efficiency.
+title: Level 3 Assets Compared to Level 1 and Level 2 Assets (Algo Trading)
 ---
 
 Financial markets encompass a diverse array of assets, each with distinct valuation challenges and liquidity profiles. Among these, Level 3 assets stand out due to their complexity, primarily arising from their illiquidity and the absence of observable market prices. Unlike Level 1 and Level 2 assets, which benefit from market-driven valuations, Level 3 assets require the use of sophisticated financial models and significant judgment, making their valuation more intricate.

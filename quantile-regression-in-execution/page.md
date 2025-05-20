@@ -1,6 +1,9 @@
 ---
-title: "quantile regression in execution (Algo Trading)"
-description: "Quantile regression enhances algo trading by modeling asset return distributions enabling improved risk management and strategy optimization under varying market conditions."
+category: quant_concept
+description: Quantile regression enhances algo trading by modeling asset return distributions
+  enabling improved risk management and strategy optimization under varying market
+  conditions.
+title: quantile regression in execution (Algo Trading)
 ---
 
 Quantile regression is a flexible and robust tool in statistical modeling that provides several benefits over traditional regression methods. Unlike traditional approaches that focus on estimating the mean of the response variable, quantile regression enables the modeling and prediction of different quantiles within the distribution of a dependent variable. This capability is particularly advantageous in algorithmic trading, where understanding the full distribution of asset returns is crucial for developing effective trading strategies.

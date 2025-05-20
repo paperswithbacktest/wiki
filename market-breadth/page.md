@@ -1,6 +1,15 @@
 ---
-title: "Market Breadth Explained (Algo Trading)"
-description: Market breadth indicators are vital for traders and investors seeking insights into the financial market's health. These tools analyze the ratio of advancing to declining stocks to evaluate market momentum and sentiment. By assessing the market's breadth beyond index price changes, traders gain a clearer view of underlying conditions. In modern trading, market breadth indicators are crucial in algorithmic strategies, enhancing decision-making precision by assessing market trends and optimizing strategies for risk management and opportunities. Key indicators include the Advance-Decline Line and the New Highs-Lows Index, integral to automated trading systems and market analysis.
+category: quant_concept
+description: Market breadth indicators are vital for traders and investors seeking
+  insights into the financial market's health. These tools analyze the ratio of advancing
+  to declining stocks to evaluate market momentum and sentiment. By assessing the
+  market's breadth beyond index price changes, traders gain a clearer view of underlying
+  conditions. In modern trading, market breadth indicators are crucial in algorithmic
+  strategies, enhancing decision-making precision by assessing market trends and optimizing
+  strategies for risk management and opportunities. Key indicators include the Advance-Decline
+  Line and the New Highs-Lows Index, integral to automated trading systems and market
+  analysis.
+title: Market Breadth Explained (Algo Trading)
 ---
 
 Market breadth indicators serve as essential tools for traders and investors, providing key insights into the overall health and dynamics of the financial market. These indicators analyze the ratio of advancing stocks to declining stocks, thereby assessing market momentum and investor sentiment. The core idea is to measure the breadth of market participation in price movements, offering a more nuanced view beyond mere price changes of major indices. For example, a market index might be rising, but if only a few large-cap stocks are pushing the index higher while a majority of stocks are declining, it suggests a weaker market condition than the index would imply.

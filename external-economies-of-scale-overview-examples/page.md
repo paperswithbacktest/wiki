@@ -1,6 +1,9 @@
 ---
-title: "External Economies of Scale: Overview and Examples (Algo Trading)"
-description: "Explore external economies of scale in this insightful article, focusing on their impact in industries like algorithmic trading through shared efficiencies and tech advancements."
+category: quant_concept
+description: Explore external economies of scale in this insightful article, focusing
+  on their impact in industries like algorithmic trading through shared efficiencies
+  and tech advancements.
+title: 'External Economies of Scale: Overview and Examples (Algo Trading)'
 ---
 
 Understanding economies of scale is crucial in explaining how businesses and industries function efficiently. Economies of scale refer to cost advantages that enterprises realize due to the scale of their operations, with cost per unit of output generally decreasing as scale increases. This principle not only applies to individual firms but extends to entire industries, influenced significantly by external factors that create industry-wide cost advantages.

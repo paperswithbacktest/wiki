@@ -1,7 +1,8 @@
 ---
-title: Understanding Classes in Machine Learning Classification
+category: quant_concept
 description: Machine learning classes define categories models use to classify data
   based on features Discover how class handling boosts model accuracy Discover more
+title: Understanding Classes in Machine Learning Classification
 ---
 
 ![Image](images/1.jpeg)

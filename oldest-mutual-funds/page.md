@@ -1,6 +1,8 @@
 ---
-title: "Oldest Mutual Funds (Algo Trading)"
-description: "Explore the historical evolution of mutual funds, from their 18th-century roots to modern-day strategies, including algorithmic trading and diversification."
+category: quant_concept
+description: Explore the historical evolution of mutual funds, from their 18th-century
+  roots to modern-day strategies, including algorithmic trading and diversification.
+title: Oldest Mutual Funds (Algo Trading)
 ---
 
 Mutual funds have played a pivotal role in shaping modern investment strategies, offering investors a vehicle to pool their resources and access a diversified array of securities. Historically, they have provided individuals—especially those without substantial financial acumen or resources—the opportunity to participate in the financial markets with the guidance of professional management.

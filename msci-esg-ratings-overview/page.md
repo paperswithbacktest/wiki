@@ -1,6 +1,8 @@
 ---
-title: "MSCI ESG Ratings Overview (Algo Trading)"
-description: "Explore MSCI ESG Ratings for insights on sustainable investments aligning ethical values with financial success in algorithmic trading and modern strategies."
+category: dataset
+description: Explore MSCI ESG Ratings for insights on sustainable investments aligning
+  ethical values with financial success in algorithmic trading and modern strategies.
+title: MSCI ESG Ratings Overview (Algo Trading)
 ---
 
 In the era of conscious investing, Environmental, Social, and Governance (ESG) factors have taken center stage in investment decision-making. These criteria provide a framework for evaluating a company's sustainable and ethical impact, highlighting commitment to principles that are increasingly valued by investors globally. ESG ratings serve as a benchmark for this form of investing, offering insights into how companies manage risks and opportunities related to environmental stewardship, social responsibility, and governance practices.

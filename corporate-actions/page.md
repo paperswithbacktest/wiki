@@ -1,6 +1,8 @@
 ---
-title: "Corporate Actions (Algo Trading)"
-description: "Discover the impact of corporate actions on trading and shareholder value Learn how algorithmic trading transforms these financial events into strategic opportunities"
+category: quant_concept
+description: Discover the impact of corporate actions on trading and shareholder value
+  Learn how algorithmic trading transforms these financial events into strategic opportunities
+title: Corporate Actions (Algo Trading)
 ---
 
 Corporate actions are pivotal occurrences within the financial sector, prompted by companies and bearing significant consequences for shareholders. These events are essential for investors to grasp, as they have the potential to affect a company's stock price, public perception, and overall financial stability. Understanding corporate actions is not only vital for retaining shareholder value but also for anticipating strategic opportunities and risks in securities trading.

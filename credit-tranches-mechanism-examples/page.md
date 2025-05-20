@@ -1,6 +1,9 @@
 ---
-title: "Credit Tranches: Mechanism and Examples (Algo Trading)"
-description: "Explore the synergy between credit tranches and algorithmic trading. Discover how these financial mechanisms enhance investment strategies through risk management and efficiency."
+category: quant_concept
+description: Explore the synergy between credit tranches and algorithmic trading.
+  Discover how these financial mechanisms enhance investment strategies through risk
+  management and efficiency.
+title: 'Credit Tranches: Mechanism and Examples (Algo Trading)'
 ---
 
 In today's dynamic financial environment, understanding the intersection of investment finance, credit tranches, and algorithmic trading has become crucial. These components collectively shape the modern landscape of investing, offering opportunities and complexities that demand a nuanced grasp of their functions.
@@ -142,4 +145,3 @@ Hull, J. C. 'Options, Futures, and Other Derivatives'. This reference offers a t
 Lewis, M. 'The Big Short: Inside the Doomsday Machine'. In this narrative, Michael Lewis provides a detailed account of the 2008 financial crisis, with a focus on the mortgage market collapse. The book sheds light on the implications of risky tranches in mortgage-backed securities, offering readers a cautionary tale about the potential dangers of these financial products.
 
 Additional resources include industry publications, academic papers, and financial market analyses, which provide valuable insights into the rapidly evolving landscape of finance. These resources cover a broad spectrum of topics including algorithmic trading, structured finance, credit enhancements, and risk management strategies, all of which are crucial for investors and professionals looking to stay informed and agile in today's complex financial environment.
-

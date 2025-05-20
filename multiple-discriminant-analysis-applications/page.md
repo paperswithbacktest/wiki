@@ -1,6 +1,8 @@
 ---
-title: "Multiple Discriminant Analysis and Its Applications (Algo Trading)"
-description: "Explore Multiple Discriminant Analysis in algo trading and finance Learn how MDA refines investment decisions by analyzing complex datasets and trading algorithms"
+category: quant_concept
+description: Explore Multiple Discriminant Analysis in algo trading and finance Learn
+  how MDA refines investment decisions by analyzing complex datasets and trading algorithms
+title: Multiple Discriminant Analysis and Its Applications (Algo Trading)
 ---
 
 Multiple Discriminant Analysis (MDA) is an essential statistical tool pivotal to enhancing financial analysis and guiding investment decision-making processes. As financial markets continue to grow in complexity, the ability to accurately classify and evaluate multiple variables becomes increasingly important. MDA provides a robust framework for such assessments, particularly in the fields of statistical classification and algorithmic trading.

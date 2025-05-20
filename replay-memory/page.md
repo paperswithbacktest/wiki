@@ -1,7 +1,8 @@
 ---
-title: Replay Memory for Stable and Efficient Reinforcement Learning
+category: quant_concept
 description: Replay Memory improves reinforcement learning by storing and sampling
   diverse experiences to stabilize and accelerate training. Discover more inside.
+title: Replay Memory for Stable and Efficient Reinforcement Learning
 ---
 
 ![Image](images/1.png)

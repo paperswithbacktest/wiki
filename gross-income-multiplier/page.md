@@ -1,6 +1,13 @@
 ---
-title: "Gross Income Multiplier (Algo Trading)"
-description: "Discover the Gross Income Multiplier (GMI) and its crucial role in real estate valuation by assessing a property's worth based on its potential revenue. The GMI aids investors in making quick decisions by comparing a property's sale price to its gross annual rental income, though it should be used alongside other financial analysis methods for a comprehensive evaluation. Explore how integrating GMI into algorithmic trading can refine investment strategies and provide a dynamic approach in today's fast-paced real estate markets."
+category: trading_strategy
+description: Discover the Gross Income Multiplier (GMI) and its crucial role in real
+  estate valuation by assessing a property's worth based on its potential revenue.
+  The GMI aids investors in making quick decisions by comparing a property's sale
+  price to its gross annual rental income, though it should be used alongside other
+  financial analysis methods for a comprehensive evaluation. Explore how integrating
+  GMI into algorithmic trading can refine investment strategies and provide a dynamic
+  approach in today's fast-paced real estate markets.
+title: Gross Income Multiplier (Algo Trading)
 ---
 
 The Gross Income Multiplier (GMI) stands as a pivotal figure in real estate valuation, offering a snapshot of an investment property’s value based on its potential revenue streams. Calculating GMI is straightforward: it involves dividing the property's sale price by its gross annual rental income. This metric simplifies the initial assessment of whether a property's asking price aligns with its anticipated income, though it does not consider detailed financial factors such as operating costs, maintenance, or taxes. As a result, GMI serves as a preliminary filter for investors assessing the validity of a property’s pricing relative to its income-generating potential.

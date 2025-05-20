@@ -1,6 +1,9 @@
 ---
-title: "Relative Strength in Investing and Stock Analysis (Algo Trading)"
-description: "Unlock enhanced investment strategies with relative strength stock analysis and algorithmic trading. Discover how technology revolutionizes trading efficiency and returns."
+category: trading_strategy
+description: Unlock enhanced investment strategies with relative strength stock analysis
+  and algorithmic trading. Discover how technology revolutionizes trading efficiency
+  and returns.
+title: Relative Strength in Investing and Stock Analysis (Algo Trading)
 ---
 
 The landscape of investing has transformed significantly with the advent of technology and data-driven strategies, marking a new era for investors worldwide. Amid this evolution, relative strength stock analysis and algorithmic trading have emerged as crucial tools, offering new ways to optimize investment decisions. These innovations empower investors by utilizing systematic methods to enhance returns and reduce inefficiencies in trading practices.

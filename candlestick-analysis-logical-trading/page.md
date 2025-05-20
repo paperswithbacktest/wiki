@@ -1,6 +1,14 @@
 ---
-title: "Candlestick Analysis in Logical Trading (Algo Trading)"
-description: "Explore the intersection of candlestick analysis and algorithmic trading in this insightful guide for traders seeking an edge in financial markets. Understand how the historical Japanese technique of candlestick analysis reveals market sentiment and forecasts price movements through patterns like Doji and Hammer. Dive into algorithmic trading which leverages technology for high-speed execution minimizing emotional bias. Learn how combining these methodologies enhances trading strategies efficiency and decision-making enabling timely responses to market changes within financial markets."
+category: trading_strategy
+description: Explore the intersection of candlestick analysis and algorithmic trading
+  in this insightful guide for traders seeking an edge in financial markets. Understand
+  how the historical Japanese technique of candlestick analysis reveals market sentiment
+  and forecasts price movements through patterns like Doji and Hammer. Dive into algorithmic
+  trading which leverages technology for high-speed execution minimizing emotional
+  bias. Learn how combining these methodologies enhances trading strategies efficiency
+  and decision-making enabling timely responses to market changes within financial
+  markets.
+title: Candlestick Analysis in Logical Trading (Algo Trading)
 ---
 
 In trading, various tools and strategies are employed to make informed decisions. Among these, candlestick analysis stands out as a fundamental component of technical analysis, crucial for predicting market trends. Originating from Japan in the 18th century, this method uses patterns formed by the open, high, low, and close prices of an asset to give traders insights into market sentiment and potential price movements. Common patterns, such as the Doji and Hammer, serve as signals for possible market reversals or continuations, aiding traders in making timely decisions.

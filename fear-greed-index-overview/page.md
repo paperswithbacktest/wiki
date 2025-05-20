@@ -1,6 +1,9 @@
 ---
-title: "Fear and Greed Index Overview (Algo Trading)"
-description: "Explore how the Fear and Greed Index influences algorithmic trading by measuring investor sentiment and providing insights into market trends and trading strategies."
+category: quant_concept
+description: Explore how the Fear and Greed Index influences algorithmic trading by
+  measuring investor sentiment and providing insights into market trends and trading
+  strategies.
+title: Fear and Greed Index Overview (Algo Trading)
 ---
 
 Investor sentiment plays a crucial role in determining the movements of the stock market. It reflects the collective emotions and attitudes of investors, which can significantly influence their buying and selling decisions. Understanding this sentiment is key for predicting market trends, as it can lead to fresh insights about potential bullish or bearish movements. One popular tool for gauging market sentiment is the Fear and Greed Index, which offers a snapshot of market emotions by measuring various factors such as volatility, stock price momentum, and the demand for safe-haven assets. This index ranges from 0, indicating extreme fear, to 100, indicating extreme greed.

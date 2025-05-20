@@ -1,6 +1,8 @@
 ---
-title: "Portfolio Protection Through Correlation Diversification (Algo Trading)"
-description: "Explore how correlation, diversification, and algorithmic trading combine for effective portfolio protection maximizing returns while minimizing risk in investments."
+category: trading_strategy
+description: Explore how correlation, diversification, and algorithmic trading combine
+  for effective portfolio protection maximizing returns while minimizing risk in investments.
+title: Portfolio Protection Through Correlation Diversification (Algo Trading)
 ---
 
 In the ever-evolving financial landscape, investors are constantly searching for strategies that maximize returns while minimizing risk. Among the myriad techniques available, the integration of correlation analysis, diversification, and algorithmic trading has emerged as crucial components for portfolio protection.

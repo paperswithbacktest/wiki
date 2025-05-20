@@ -1,6 +1,10 @@
 ---
-title: "What are the best prop trading firms?"
-description: "Discover the top 10 proprietary trading firms recognized for their expertise in quantitative trading, market-making, ETF trading, equity trading, and high-frequency trading. Each firm's unique strengths include technology, culture, performance, and strategy. Research carefully to find the best fit for your specific criteria."
+category: quant_concept
+description: Discover the top 10 proprietary trading firms recognized for their expertise
+  in quantitative trading, market-making, ETF trading, equity trading, and high-frequency
+  trading. Each firm's unique strengths include technology, culture, performance,
+  and strategy. Research carefully to find the best fit for your specific criteria.
+title: What are the best prop trading firms?
 ---
 
 Proprietary trading, commonly known as prop trading, plays an influential role in financial markets, offering unique opportunities and challenges for traders and firms alike. At its core, prop trading involves a financial firm trading stocks, bonds, currencies, or other financial instruments using its own capital, rather than the capital of clients. This approach allows firms to leverage their resources to earn direct profits rather than earning through commissions or fees from client-driven trades.

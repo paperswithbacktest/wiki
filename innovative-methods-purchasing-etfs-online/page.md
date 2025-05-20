@@ -1,6 +1,8 @@
 ---
-title: "Innovative Methods for Purchasing ETFs Online (Algo Trading)"
-description: "Explore innovative online methods for ETF purchasing using algorithmic trading to streamline investments improve efficiency and potentially optimize returns."
+category: trading_strategy
+description: Explore innovative online methods for ETF purchasing using algorithmic
+  trading to streamline investments improve efficiency and potentially optimize returns.
+title: Innovative Methods for Purchasing ETFs Online (Algo Trading)
 ---
 
 The landscape of investing has undergone profound transformations with the infusion of technological advancements, providing investors numerous tools and platforms to refine their trading methodologies. Central to this evolution are Exchange-Traded Funds (ETFs) and algorithmic trading, both of which have become vital constituents of modern investment strategies.

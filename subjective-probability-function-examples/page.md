@@ -1,6 +1,9 @@
 ---
-title: "Subjective Probability: Function and Examples (Algo Trading)"
-description: "Explore subjective probability in algorithmic trading uncover its role in decision-making and risk management Learn how traders use intuition alongside data-driven strategies"
+category: quant_concept
+description: Explore subjective probability in algorithmic trading uncover its role
+  in decision-making and risk management Learn how traders use intuition alongside
+  data-driven strategies
+title: 'Subjective Probability: Function and Examples (Algo Trading)'
 ---
 
 Algorithmic trading, a frontier of modern finance, leverages cutting-edge technologies to automate the decision-making and execution process in financial markets. Central to this digital transformation is probability theory, a mathematical framework that offers traders tools to navigate financial markets with precision. This theory aids in dissecting complexity and uncertainty, enabling traders to make informed choices amidst market volatility.

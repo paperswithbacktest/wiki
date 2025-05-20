@@ -1,6 +1,9 @@
 ---
-title: "Flip-Flop Note: Functionality and Examples (Algo Trading)"
-description: "Explore flip-flop notes and algorithmic trading in modern investing. Learn how these strategies optimize decision-making to navigate today's dynamic markets."
+category: quant_concept
+description: Explore flip-flop notes and algorithmic trading in modern investing.
+  Learn how these strategies optimize decision-making to navigate today's dynamic
+  markets.
+title: 'Flip-Flop Note: Functionality and Examples (Algo Trading)'
 ---
 
 The financial world is constantly evolving, adapting to the dynamic nature of global markets and economic forces. As new opportunities and challenges emerge, investors must refine their strategies to navigate this complex environment effectively. Modern investment strategies now encompass a diverse array of financial instruments and methodologies designed to maximize returns while minimizing risks.

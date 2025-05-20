@@ -1,9 +1,12 @@
 ---
-title: "How can someone break into the field of algorithmic trading?"
-description: "Discover how to break into the lucrative field of algorithmic trading with this comprehensive guide. Learn about required formal education, technical skills, practical experience, networking opportunities, continuous learning, understanding financial markets, risk management, developing a critical mindset, interview preparation, building a portfolio, ethics and integrity."
+category: quant_concept
+description: Discover how to break into the lucrative field of algorithmic trading
+  with this comprehensive guide. Learn about required formal education, technical
+  skills, practical experience, networking opportunities, continuous learning, understanding
+  financial markets, risk management, developing a critical mindset, interview preparation,
+  building a portfolio, ethics and integrity.
+title: How can someone break into the field of algorithmic trading?
 ---
-
-
 
 Algorithmic trading, often referred to as automated trading, uses computer algorithms to execute trading instructions at speeds and frequencies that are impossible for human traders. These algorithms consider variables such as price, timing, and volume, and execute trades based on pre-defined criteria. This method has revolutionized the financial markets by enhancing the speed, accuracy, and efficiency of trading. Its significance in today's financial markets cannot be overstated, as it allows for optimal decision-making, minimizes human error, and provides the capability to handle large volumes of trades while maintaining consistency and reliability.
 

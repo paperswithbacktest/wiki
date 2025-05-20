@@ -1,6 +1,9 @@
 ---
-title: "Comparison of Investment Practices in the United States and Canada (Algo Trading)"
-description: "Explore the contrasts in algorithmic trading practices between the U.S. and Canada considering market dynamics regulatory environments and technological advancements."
+category: quant_concept
+description: Explore the contrasts in algorithmic trading practices between the U.S.
+  and Canada considering market dynamics regulatory environments and technological
+  advancements.
+title: Comparison of Investment Practices in the United States and Canada (Algo Trading)
 ---
 
 In the world of finance, Canada and the United States stand out as two highly developed economies sharing a long border and many cultural similarities. Both nations have robust financial systems and play significant roles in the global market. However, when it comes to automated trading, known as algorithmic trading, these countries exhibit notable differences in their investment landscapes. Algorithmic trading utilizes computer algorithms to execute trading orders at high speed and efficiency, which heavily relies on the infrastructure and regulatory framework of each country.

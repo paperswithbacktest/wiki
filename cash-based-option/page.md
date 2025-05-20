@@ -1,6 +1,9 @@
 ---
-title: "Cash-Based Option (Algo Trading)"
-description: "Explore the powerful synergy of cash-based options and algorithmic trading for enhanced market efficiency Learn how these tools optimize risk management and strategy execution"
+category: quant_concept
+description: Explore the powerful synergy of cash-based options and algorithmic trading
+  for enhanced market efficiency Learn how these tools optimize risk management and
+  strategy execution
+title: Cash-Based Option (Algo Trading)
 ---
 
 Financial derivatives, particularly options, are essential instruments in financial markets, playing critical roles in hedging, speculation, and arbitrage activities. An option is a financial contract that grants the holder the right, but not the obligation, to buy or sell an underlying asset at a predetermined price within a specified time frame. This flexibility allows options to be uniquely suited to a variety of market conditions, offering strategic advantages for traders aiming to manage risk or capitalize on market movements.

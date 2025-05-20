@@ -1,6 +1,8 @@
 ---
-title: "Resampling (Algo Trading)"
-description: "Discover the power of resampling in algorithmic trading to transform raw tick data into comprehensive insights for refined strategy development."
+category: quant_concept
+description: Discover the power of resampling in algorithmic trading to transform
+  raw tick data into comprehensive insights for refined strategy development.
+title: Resampling (Algo Trading)
 ---
 
 Algorithmic trading relies heavily on the efficiency and precision of data analysis. At the core of this domain is resampling tick data, a technique essential for converting high-frequency, granular data into formats that are more manageable and useful for traders. This practice transforms comprehensive tick-by-tick datasets into summarized data that can be represented in time frames such as one minute, hourly, or daily intervals, commonly referred to as OHLC (Open, High, Low, Close) data. Through this process, traders can better navigate market trends and adjustments, gaining insights that are crucial for making informed trading decisions.

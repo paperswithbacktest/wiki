@@ -1,6 +1,9 @@
 ---
-title: "Operating Margin and Calculation Formula (Algo Trading)"
-description: "Explore the significance of operating margin in financial analysis and how it aids algorithmic trading by assessing company's operational efficiency and cost management."
+category: quant_concept
+description: Explore the significance of operating margin in financial analysis and
+  how it aids algorithmic trading by assessing company's operational efficiency and
+  cost management.
+title: Operating Margin and Calculation Formula (Algo Trading)
 ---
 
 The world of financial analysis is vast, and fundamental metrics such as profitability ratios are integral for evaluating a company's financial health. These ratios offer essential insights into how well a company can convert its operations into profits. Financial metrics are vital for investors, analysts, and traders who aim to gauge a firm's efficiency and make informed decisions. Among these metrics, the operating margin stands out as a key indicator of operational efficiency, demonstrating the proportion of revenue remaining after covering the variable costs of production.

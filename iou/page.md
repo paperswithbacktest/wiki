@@ -1,7 +1,8 @@
 ---
-title: Intersection Over Union IOU Metric for Object Detection Accuracy
+category: quant_concept
 description: IOU evaluates object detection accuracy by measuring the overlap between
   predicted and actual bounding boxes in ML models Discover more inside.
+title: Intersection Over Union IOU Metric for Object Detection Accuracy
 ---
 
 ![Image](images/1.png)

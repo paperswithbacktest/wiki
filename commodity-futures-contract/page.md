@@ -1,6 +1,9 @@
 ---
-title: "Commodity Futures Contract (Algo Trading)"
-description: "Explore the evolving role of commodity futures contracts and algorithmic trading in financial markets Discover how technology enhances trading strategies and market efficiency"
+category: quant_concept
+description: Explore the evolving role of commodity futures contracts and algorithmic
+  trading in financial markets Discover how technology enhances trading strategies
+  and market efficiency
+title: Commodity Futures Contract (Algo Trading)
 ---
 
 Futures trading has rapidly evolved over the years, becoming a vital part of the financial landscape. It facilitates the buying and selling of contracts for the delivery of financial instruments and commodities at a specified future date. These contracts allow traders to hedge against future price fluctuations or speculate on price movements to achieve potential profit.

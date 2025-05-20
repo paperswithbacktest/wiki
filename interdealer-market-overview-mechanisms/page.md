@@ -1,6 +1,8 @@
 ---
-title: "Interdealer Market: Overview and Mechanisms (Algo Trading)"
-description: "Explore the essential aspects and mechanisms of the interdealer market including the role of algorithmic trading in enhancing efficiency and liquidity."
+category: quant_concept
+description: Explore the essential aspects and mechanisms of the interdealer market
+  including the role of algorithmic trading in enhancing efficiency and liquidity.
+title: 'Interdealer Market: Overview and Mechanisms (Algo Trading)'
 ---
 
 In the fast-paced world of financial markets, understanding trading mechanisms is essential for participants seeking to navigate the complexities of modern finance. This article examines the intricate operations of the interdealer market, a fundamental component of financial markets that serves as a hub for institutional trading. The interdealer market is where financial institutions, including banks and hedge funds, conduct large-scale trades outside the traditional exchanges.

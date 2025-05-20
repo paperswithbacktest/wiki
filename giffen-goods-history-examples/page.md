@@ -1,6 +1,8 @@
 ---
-title: "Giffen Goods: History and Examples (Algo Trading)"
-description: "Explore the unique nature of Giffen goods that defy conventional demand laws and their intersection with algorithmic trading and consumer behavior."
+category: quant_concept
+description: Explore the unique nature of Giffen goods that defy conventional demand
+  laws and their intersection with algorithmic trading and consumer behavior.
+title: 'Giffen Goods: History and Examples (Algo Trading)'
 ---
 
 Giffen goods constitute a fascinating anomaly within economic theory, challenging traditional assumptions about consumer behavior and demand. Named after the Scottish economist Sir Robert Giffen, these goods defy the typical law of demand, which states that as the price of a good rises, the quantity demanded generally falls. For Giffen goods, an increase in price results in an increase in quantity demanded, illustrating a direct violation of the conventional downward-sloping demand curve. This paradox predominantly occurs under specific economic conditions, where consumers, constrained by limited income, prioritize the consumption of inferior goods over superior alternatives.

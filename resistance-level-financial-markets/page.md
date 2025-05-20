@@ -1,6 +1,12 @@
 ---
-title: "Resistance Level in Financial Markets (Algo Trading)"
-description: "Explore the crucial role of resistance levels in financial markets and their integration into algorithmic trading to enhance decision-making and strategy formulation. Understand how these key price points act as barriers and guide trading actions based on technical analysis and market sentiment insights. Delve into the synergy between resistance levels and algo trading, enabling precise automated trades free from human emotion."
+category: quant_concept
+description: Explore the crucial role of resistance levels in financial markets and
+  their integration into algorithmic trading to enhance decision-making and strategy
+  formulation. Understand how these key price points act as barriers and guide trading
+  actions based on technical analysis and market sentiment insights. Delve into the
+  synergy between resistance levels and algo trading, enabling precise automated trades
+  free from human emotion.
+title: Resistance Level in Financial Markets (Algo Trading)
 ---
 
 The financial markets have long been a rich landscape for traders who aim to profit by capitalizing on price fluctuations. In this dynamic environment, achieving consistent success is not merely a matter of chance; it requires a comprehensive understanding of market mechanics. One vital element in the trader's toolkit is the concept of resistance levels, which plays a significant role in technical analysis.

@@ -1,6 +1,9 @@
 ---
-title: "Riba in Islam and Its Prohibition (Algo Trading)"
-description: "Explore the prohibition of Riba in Islamic finance and its impact on algorithmic trading Discover ethical solutions aligning with Islamic principles in modern markets"
+category: quant_concept
+description: Explore the prohibition of Riba in Islamic finance and its impact on
+  algorithmic trading Discover ethical solutions aligning with Islamic principles
+  in modern markets
+title: Riba in Islam and Its Prohibition (Algo Trading)
 ---
 
 Islamic finance, a rapidly growing segment within the global finance sector, offers a unique approach grounded in religious principles. It emphasizes equity, fairness, and ethical practices. Over the past decade, this form of finance has gained significance due to its resilience to market shocks, as evidenced during financial crises. With assets estimated to reach over $3.8 trillion by 2023, Islamic finance continues to expand its influence across geographies and industries.

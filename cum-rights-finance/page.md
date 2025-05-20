@@ -1,6 +1,8 @@
 ---
-title: "Cum Rights in Finance (Algo Trading)"
-description: "Explore the dynamics of stock market finance, cum rights, and algorithmic trading to enhance investment strategies and maximize financial outcomes."
+category: quant_concept
+description: Explore the dynamics of stock market finance, cum rights, and algorithmic
+  trading to enhance investment strategies and maximize financial outcomes.
+title: Cum Rights in Finance (Algo Trading)
 ---
 
 In today's rapidly evolving financial landscape, the interplay between stock market finance, cum rights, and algorithmic trading holds significant importance for investors and financial professionals. Stock market finance serves as a backbone of the global economy, encompassing the processes of buying, selling, and issuing various financial instruments. Navigating this complex environment necessitates an understanding of the sophisticated practices and tools available to maximize returns while effectively managing risks.

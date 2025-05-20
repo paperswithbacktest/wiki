@@ -1,6 +1,8 @@
 ---
-title: "OTCQX: Stock Criteria and Market Tiers (Algo Trading)"
-description: "Explore the elite OTCQX market tier for diverse investing opportunities. Discover how algorithmic trading enhances efficiency in this unique trading platform."
+category: quant_concept
+description: Explore the elite OTCQX market tier for diverse investing opportunities.
+  Discover how algorithmic trading enhances efficiency in this unique trading platform.
+title: 'OTCQX: Stock Criteria and Market Tiers (Algo Trading)'
 ---
 
 The stock market is a complex financial ecosystem characterized by a variety of trading environments and security tiers. Among the multitude of platforms, the OTCQX stands as the elite level of the over-the-counter (OTC) markets. This section provides an overview of the OTCQX, highlighting its distinguishing features and its role within the broader context of OTC markets. The introduction also touches upon the influence of algorithmic trading—an emerging force shaping modern trading operations within these exchanges. 

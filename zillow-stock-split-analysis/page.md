@@ -1,6 +1,8 @@
 ---
-title: "Zillow Stock Split Analysis (Algo Trading)"
-description: "Explore the dynamics of Zillow's stock split, its impact on the real estate market, and the role of algorithmic trading in shaping investment strategies."
+category: trading_strategy
+description: Explore the dynamics of Zillow's stock split, its impact on the real
+  estate market, and the role of algorithmic trading in shaping investment strategies.
+title: Zillow Stock Split Analysis (Algo Trading)
 ---
 
 The world of finance is continually changing, requiring investors to be vigilant about current market trends and events. This article provides an analysis of the interplay between stock splits, the real estate market, and algorithmic trading, using Zillow as a case study. By exploring Zillow's stock split history, its influence on the real estate market, and the transformative impact of algorithmic trading on investment strategies, readers can gain a comprehensive understanding of these key financial concepts. Such knowledge is invaluable for investors aiming to make informed decisions amidst the complexities of modern finance. We'll begin by exploring the concept of a stock split and the reasons behind Zillow's decision to undertake this strategic action.

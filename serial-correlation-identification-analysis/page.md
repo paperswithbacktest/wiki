@@ -1,6 +1,9 @@
 ---
-title: "Serial Correlation: Identification and Analysis (Algo Trading)"
-description: "Explore serial correlation and autocorrelation in time series analysis to enhance algo trading strategies by identifying patterns and predicting market trends."
+category: quant_concept
+description: Explore serial correlation and autocorrelation in time series analysis
+  to enhance algo trading strategies by identifying patterns and predicting market
+  trends.
+title: 'Serial Correlation: Identification and Analysis (Algo Trading)'
 ---
 
 Time series analysis is a vital component of financial market assessment and strategy development. This statistical method analyzes a series of data points ordered over time, which can uncover trends, seasonal patterns, and cyclical movements in the financial markets. By understanding these temporal sequences, analysts and traders can make informed decisions and anticipate market movements more effectively.
@@ -260,4 +263,3 @@ For readers interested in gaining a deeper understanding of autocorrelation and 
    - QuantStart, a resource filled with tutorials on quantitative finance, regularly discusses algorithmic trading strategies utilizing autocorrelation.
 
 These resources offer a wealth of knowledge for anyone interested in exploring the technical and practical aspects of autocorrelation within time series analysis and its involvement in algorithmic trading strategies.
-

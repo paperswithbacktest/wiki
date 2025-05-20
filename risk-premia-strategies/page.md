@@ -1,6 +1,8 @@
 ---
-title: "Risk Premia Strategies (Algo Trading)"
-description: "Explore the benefits and risks of risk premia strategies in algo trading and learn how they can improve trading decisions through systematic approaches."
+category: trading_strategy
+description: Explore the benefits and risks of risk premia strategies in algo trading
+  and learn how they can improve trading decisions through systematic approaches.
+title: Risk Premia Strategies (Algo Trading)
 ---
 
 Risk premia strategies are crucial components of algorithmic (algo) trading, aimed at exploiting excess returns resulting from additional risk taken beyond the risk-free rate. These strategies focus on extracting returns from diverse risk factors present within financial markets. By utilizing algorithmic trading, investors can harness risk premia in a systematic manner, fostering more disciplined trading decisions free from emotional biases. Algorithmic trading allows for the automation of trading strategies based on predefined rules, optimizing the decision-making process while leveraging computational power to manage vast datasets.

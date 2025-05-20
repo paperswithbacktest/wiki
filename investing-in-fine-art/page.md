@@ -1,6 +1,8 @@
 ---
-title: "Investing in Fine Art (Algo Trading)"
-description: "Explore the intersection of art and finance with algorithmic trading in fine art See how technology influences art market trends and investment strategies"
+category: trading_strategy
+description: Explore the intersection of art and finance with algorithmic trading
+  in fine art See how technology influences art market trends and investment strategies
+title: Investing in Fine Art (Algo Trading)
 ---
 
 Fine art, encompassing painting, sculpture, and other traditional visual media, is often recognized for its aesthetic and cultural significance. However, beyond its artistic merit, fine art holds value as a unique investment class. As tangible assets, artworks can serve as a hedge against inflation and economic instability, providing a store of value that typically appreciates over time. Historically, fine art has shown promising returns that can rival, and sometimes surpass, more conventional assets such as stocks or real estate. According to a report by Art Market Research (AMR), the art market has yielded an average annual return of approximately 10% over the last four decades, though actual returns can vary significantly depending on the artist, genre, and economic conditions.

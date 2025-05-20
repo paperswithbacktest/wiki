@@ -1,6 +1,13 @@
 ---
-title: "Dividend Aristocrats 2024: Criteria and Companies (Algo Trading)"
-description: "Explore the esteemed group of Dividend Aristocrats for 2024, renowned for their reliable dividend growth over 25 consecutive years. These companies stand as a cornerstone for investors seeking stable income and resilience amid market fluctuations. Discover how algorithmic trading elevates investment strategies, offering precision and efficiency in selecting these distinguished stocks. Gain insights into performance metrics and criteria to create a sound portfolio in a dynamic economic landscape."
+category: trading_strategy
+description: Explore the esteemed group of Dividend Aristocrats for 2024, renowned
+  for their reliable dividend growth over 25 consecutive years. These companies stand
+  as a cornerstone for investors seeking stable income and resilience amid market
+  fluctuations. Discover how algorithmic trading elevates investment strategies, offering
+  precision and efficiency in selecting these distinguished stocks. Gain insights
+  into performance metrics and criteria to create a sound portfolio in a dynamic economic
+  landscape.
+title: 'Dividend Aristocrats 2024: Criteria and Companies (Algo Trading)'
 ---
 
 Dividend Aristocrats are a group of esteemed companies within the S&P 500 Index, renowned for their consistent record of increasing dividend payouts for at least 25 consecutive years. This distinguished class of stocks has become a cornerstone for both conservative and income-focused investors, offering a blend of reliability and stability. The significance of these equities in the financial world lies in their demonstrated ability to not only weather economic fluctuations but also to provide a steady income stream, all while potentially appreciating in value over time.

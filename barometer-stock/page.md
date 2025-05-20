@@ -1,6 +1,9 @@
 ---
-title: "Barometer Stock (Algo Trading)"
-description: "Explore the dynamic world of stock market indicators and algorithmic trading. Learn how technical and economic trends guide investor decisions for strategic success."
+category: trading_strategy
+description: Explore the dynamic world of stock market indicators and algorithmic
+  trading. Learn how technical and economic trends guide investor decisions for strategic
+  success.
+title: Barometer Stock (Algo Trading)
 ---
 
 The stock market serves as a dynamic arena where economic indicators and stock market trends interlink, guiding investors in their decision-making processes. Stock market indicators act as a barometer, reflecting broader economic trends and helping traders discern the current market pulse. For instance, technical indicators like the Moving Average Convergence Divergence (MACD) or the Relative Strength Index (RSI) provide insights into potential price movements, thus supporting the formulation of trading strategies.

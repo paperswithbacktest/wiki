@@ -1,6 +1,8 @@
 ---
-title: "Paul Krugman (Algo Trading)"
-description: "Explore the fascinating link between Paul Krugman's economic theories and algorithmic trading, revealing their potential to enhance modern financial strategies."
+category: quant_concept
+description: Explore the fascinating link between Paul Krugman's economic theories
+  and algorithmic trading, revealing their potential to enhance modern financial strategies.
+title: Paul Krugman (Algo Trading)
 ---
 
 Paul Krugman, a distinguished economist and Nobel Prize winner, is widely celebrated for his pioneering contributions to international trade theory. His profound understanding of global trade dynamics and economic geography has reshaped contemporary economic thought, influencing both academic and policy-making circles. This article examines the fascinating intersection between Krugman's economic theories and the burgeoning field of algorithmic trading—a technology-driven approach that is redefining the financial landscape. By leveraging Krugman's insightful ideas, we aim to uncover their potential applications within the context of modern finance and automated trading.

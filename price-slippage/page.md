@@ -1,6 +1,9 @@
 ---
-title: "Price Slippage (Algo Trading)"
-description: "Explore price slippage in algorithmic trading, understanding its impact on trade execution and strategies. Learn techniques to manage this vital trading factor."
+category: quant_concept
+description: Explore price slippage in algorithmic trading, understanding its impact
+  on trade execution and strategies. Learn techniques to manage this vital trading
+  factor.
+title: Price Slippage (Algo Trading)
 ---
 
 Price slippage in algorithmic trading refers to the divergence between the expected price of a trade, and the actual price at which it is executed. This phenomenon arises when there are changes in the market conditions between the submission of a trade order and its execution. Slippage is particularly relevant in algo trading where trades are executed based on pre-programmed rules and strategies, as even minor discrepancies can significantly affect the performance of advanced trading algorithms.

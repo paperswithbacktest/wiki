@@ -1,6 +1,9 @@
 ---
-title: "Involuntary Bankruptcy Process and Mechanics (Algo Trading)"
-description: "Discover how involuntary bankruptcy and algorithmic trading intersect within the financial world providing critical insights for investors and businesses alike."
+category: quant_concept
+description: Discover how involuntary bankruptcy and algorithmic trading intersect
+  within the financial world providing critical insights for investors and businesses
+  alike.
+title: Involuntary Bankruptcy Process and Mechanics (Algo Trading)
 ---
 
 This article explores two complex topics: involuntary bankruptcy and algorithmic trading. These subjects, while seemingly unrelated, play significant roles in today's financial landscape. Understanding both is essential for businesses and investors aiming to navigate the intricacies of modern financial systems.

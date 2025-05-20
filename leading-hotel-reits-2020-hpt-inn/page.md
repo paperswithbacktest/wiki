@@ -1,6 +1,8 @@
 ---
-title: "Leading Hotel REITs in 2020: HPT and INN (Algo Trading)"
-description: "Explore the role of algorithmic trading in optimizing investments in leading hotel REITs HPT and INN Discover strategic insights for maximizing returns"
+category: trading_strategy
+description: Explore the role of algorithmic trading in optimizing investments in
+  leading hotel REITs HPT and INN Discover strategic insights for maximizing returns
+title: 'Leading Hotel REITs in 2020: HPT and INN (Algo Trading)'
 ---
 
 The world of Real Estate Investment Trusts (REITs) encompasses a diverse range of investment opportunities, providing investors with the benefits of real estate ownership without the complexities of direct management. Among the various types of REITs, hotel REITs stand out by focusing specifically on the hospitality sector, offering exposure to a market characterized by its cyclical nature and sensitivity to broader economic trends. This article examines two prominent players in the hotel REIT landscape, Summit Hotel Properties (INN) and Hospitality Properties Trust (HPT), highlighting how the burgeoning field of algorithmic trading is shaping contemporary investment strategies.

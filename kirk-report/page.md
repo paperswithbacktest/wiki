@@ -1,6 +1,11 @@
 ---
-title: "Kirk Report (Algo Trading)"
-description: Explore the innovative world of algorithmic trading with The Kirk Report by Charles E. Kirk, a cornerstone for traders aiming to leverage computational power for strategic financial decisions. Gain access to insightful market analyses, actionable ideas, and risk management techniques designed to optimize your trading algorithms, empowering you to navigate complex markets with precision and confidence.
+category: quant_concept
+description: Explore the innovative world of algorithmic trading with The Kirk Report
+  by Charles E. Kirk, a cornerstone for traders aiming to leverage computational power
+  for strategic financial decisions. Gain access to insightful market analyses, actionable
+  ideas, and risk management techniques designed to optimize your trading algorithms,
+  empowering you to navigate complex markets with precision and confidence.
+title: Kirk Report (Algo Trading)
 ---
 
 Algorithmic trading, often referred to as algo trading, represents a significant transformation in the investment landscape, offering a systematic approach that leverages computational power to execute trades based on pre-defined criteria. This method harnesses algorithms and quantitative models to analyze market data and execute trades at speeds and frequencies beyond human capability, thereby providing a competitive advantage to traders seeking to optimize their strategies and capitalize on market opportunities.

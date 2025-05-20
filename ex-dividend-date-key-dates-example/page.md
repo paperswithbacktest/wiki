@@ -1,6 +1,8 @@
 ---
-title: "Ex-Dividend Date Explained with Key Dates and Example (Algo Trading)"
-description: "Learn about the ex-dividend date and its significance with key dates, examples, and algorithmic trading insights to maximize your investment strategy."
+category: quant_concept
+description: Learn about the ex-dividend date and its significance with key dates,
+  examples, and algorithmic trading insights to maximize your investment strategy.
+title: Ex-Dividend Date Explained with Key Dates and Example (Algo Trading)
 ---
 
 Dividends have traditionally played a significant role in investing. As a portion of a company's earnings distributed to its shareholders, dividends not only serve as a source of income but also signal a company's financial health and profitability. They are an essential component of total shareholder return, which combines price appreciation with dividends received over a period. For many investors, particularly those seeking income or wishing to reinvest dividends for compound growth, understanding the dynamics of dividend distribution is crucial.

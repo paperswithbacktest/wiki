@@ -1,6 +1,8 @@
 ---
-title: "Exempt Commodity: Definition and Mechanism (Algo Trading)"
-description: "Explore the dynamic intersection of exempt commodities and algorithmic trading, highlighting regulatory frameworks ensuring fairness and market stability."
+category: quant_concept
+description: Explore the dynamic intersection of exempt commodities and algorithmic
+  trading, highlighting regulatory frameworks ensuring fairness and market stability.
+title: 'Exempt Commodity: Definition and Mechanism (Algo Trading)'
 ---
 
 The commodity market represents a multifaceted environment where complex regulatory frameworks are pivotal in maintaining fairness and stability. This intricate landscape has witnessed significant transformations with the increasing integration of algorithmic trading, particularly in the commodities sector. This shift has sparked important discussions regarding the necessity and adequacy of current regulatory measures to accommodate these advancements.

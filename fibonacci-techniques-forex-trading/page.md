@@ -1,6 +1,8 @@
 ---
-title: "Fibonacci Techniques in Forex Trading (Algo Trading)"
-description: "Explore how Fibonacci techniques enhance forex trading with algorithms Analyze market behavior easily using Fibonacci retracement and extension strategies"
+category: trading_strategy
+description: Explore how Fibonacci techniques enhance forex trading with algorithms
+  Analyze market behavior easily using Fibonacci retracement and extension strategies
+title: Fibonacci Techniques in Forex Trading (Algo Trading)
 ---
 
 Forex trading involves a fluctuating marketplace where traders employ various strategies to predict changes in currency values. Among these strategies, technical analysis stands out as a key approach for making informed trading decisions. Technical analysis utilizes mathematical tools and patterns to anticipate future market behavior.

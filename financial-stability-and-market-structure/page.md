@@ -1,6 +1,9 @@
 ---
-title: "Financial Stability and Market Structure (Algo Trading)"
-description: "Explore the vital role of financial stability in markets and the transformative impact of algorithmic trading on structure and stability including its benefits and risks."
+category: quant_concept
+description: Explore the vital role of financial stability in markets and the transformative
+  impact of algorithmic trading on structure and stability including its benefits
+  and risks.
+title: Financial Stability and Market Structure (Algo Trading)
 ---
 
 Financial stability is a fundamental aspect of healthy financial markets, serving as the bedrock that supports sustainable economic growth and development. It refers to the resilience of the financial system—comprising institutions, markets, and market infrastructures—against shocks that could adversely affect the allocation of savings to investments and the processing of payments. Financial stability is crucial as it ensures the efficient functioning of these components, enabling them to mobilize resources effectively, manage risks, and create a conducive environment for economic activity.

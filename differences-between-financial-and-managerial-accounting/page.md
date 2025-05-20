@@ -1,6 +1,8 @@
 ---
-title: "Differences Between Financial and Managerial Accounting (Algo Trading)"
-description: "Explore the differences between financial and managerial accounting and their roles in algorithmic trading Discover how each contributes to business success."
+category: quant_concept
+description: Explore the differences between financial and managerial accounting and
+  their roles in algorithmic trading Discover how each contributes to business success.
+title: Differences Between Financial and Managerial Accounting (Algo Trading)
 ---
 
 Accounting serves as the backbone of modern business operations, providing essential insights into financial performance and strategic direction. Its implications extend beyond record-keeping to informing decisions and strategies that propel organizations towards their objectives. Within accounting, significant variations exist, particularly between financial and managerial accounting. These branches cater to distinct audiences and purposes, shaping how businesses analyze their past performance and plan for future growth.

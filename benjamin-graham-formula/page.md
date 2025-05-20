@@ -1,6 +1,8 @@
 ---
-title: "Benjamin Graham formula (Algo Trading)"
-description: "Discover the power of the Benjamin Graham Formula for algorithmic trading Learn how to evaluate stock value and find investment opportunities confidently"
+category: trading_strategy
+description: Discover the power of the Benjamin Graham Formula for algorithmic trading
+  Learn how to evaluate stock value and find investment opportunities confidently
+title: Benjamin Graham formula (Algo Trading)
 ---
 
 Investing in the stock market can seem daunting for beginners, but with the right strategies, anyone can learn to invest successfully. One such strategy is the Benjamin Graham Formula, a time-tested method for identifying undervalued stocks. Benjamin Graham, known as the 'father of value investing,' developed this approach, which has influenced numerous investors, including Warren Buffett. By focusing on the intrinsic value of stocks, Graham's methodology guides investors in making informed decisions that emphasize long-term gains and financial security.

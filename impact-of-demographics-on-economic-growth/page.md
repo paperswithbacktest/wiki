@@ -1,6 +1,8 @@
 ---
-title: "Impact of Demographics on Economic Growth (Algo Trading)"
-description: "Discover how demographics shape economic growth and influence financial markets. Explore key economic indicators and their role in algorithmic trading strategies."
+category: quant_concept
+description: Discover how demographics shape economic growth and influence financial
+  markets. Explore key economic indicators and their role in algorithmic trading strategies.
+title: Impact of Demographics on Economic Growth (Algo Trading)
 ---
 
 The interconnected nature of demographics, economic growth, and technological advancements plays a pivotal role in shaping the modern financial markets. As countries around the world experience varying degrees of aging populations, shifting birth rates, and evolving workforce dynamics, these demographic trends are exerting profound influences on economic outcomes. Recognizing and interpreting these shifts is vital for investors, policymakers, and economists alike, as they provide both opportunities and challenges for economic prosperity.

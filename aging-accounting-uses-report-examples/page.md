@@ -1,6 +1,8 @@
 ---
-title: "Aging in Accounting: Uses and Report Examples (Algo Trading)"
-description: "Explore how accounts receivable aging in accounting enhances financial management and informs algorithmic trading. Discover methodologies and report examples."
+category: quant_concept
+description: Explore how accounts receivable aging in accounting enhances financial
+  management and informs algorithmic trading. Discover methodologies and report examples.
+title: 'Aging in Accounting: Uses and Report Examples (Algo Trading)'
 ---
 
 Efficient financial management stands as a cornerstone for the sustained growth and success of businesses across various industries. This encompasses a wide range of tasks such as budgeting, forecasting, investing, and managing resources. A critical aspect of financial management is ensuring that revenue streams are predictable and stable, which is where accounting practices like accounts receivable aging become essential. 

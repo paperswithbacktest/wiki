@@ -1,6 +1,9 @@
 ---
-title: "Funding Currency: Overview and Functionality (Algo Trading)"
-description: "Explore the complexities of financial trading with insights into funding currencies, financial instruments, and the role of algorithmic trading in modern markets."
+category: quant_concept
+description: Explore the complexities of financial trading with insights into funding
+  currencies, financial instruments, and the role of algorithmic trading in modern
+  markets.
+title: 'Funding Currency: Overview and Functionality (Algo Trading)'
 ---
 
 The landscape of financial trading has significantly transformed over recent decades, driven primarily by technological advancements. This transformation has introduced sophisticated tools and methodologies that have reshaped various aspects of trading. This article examines the complex interplay between financial instruments, funding currencies, currency markets, and algorithmic trading, each playing a crucial role in the modern financial ecosystem.

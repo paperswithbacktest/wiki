@@ -1,6 +1,9 @@
 ---
-title: "Moral Hazard and Morale Hazard: Differences (Algo Trading)"
-description: "Explore the distinctions between moral and morale hazard in financial markets Learn how these concepts interact with algorithmic trading and affect market stability"
+category: quant_concept
+description: Explore the distinctions between moral and morale hazard in financial
+  markets Learn how these concepts interact with algorithmic trading and affect market
+  stability
+title: 'Moral Hazard and Morale Hazard: Differences (Algo Trading)'
 ---
 
 Moral hazard, a term widely used in economic theory, refers to situations where individuals or institutions are insulated from the consequences of their risky decisions. In the context of financial risk, it arises when entities do not bear the full cost of their actions, often due to protective measures like insurance or government bailouts, potentially leading them to engage in riskier behavior than they otherwise would. This concept is closely linked to significant issues in financial markets, exemplified by the 2008 financial crisis, where excessive risk-taking by banks was partially attributed to the expectation of government intervention.

@@ -1,6 +1,8 @@
 ---
-title: "Largest Microfinance Institutions (Algo Trading)"
-description: "Explore the synergy between microfinance and algorithmic trading in reshaping financial sectors with innovative tech for enhanced efficiency, access, and growth."
+category: quant_concept
+description: Explore the synergy between microfinance and algorithmic trading in reshaping
+  financial sectors with innovative tech for enhanced efficiency, access, and growth.
+title: Largest Microfinance Institutions (Algo Trading)
 ---
 
 Technological advancements have significantly reshaped the financial sector, leading to a paradigm shift in how banking, financial institutions, microfinance, and algorithmic trading operate to meet modern demands. Traditional financial systems and practices are continuously being re-evaluated and integrated with cutting-edge technology to enhance efficiency, accessibility, and inclusivity. The evolution in this sector is driven by a need to accommodate the increasingly dynamic global economic environment and the rising expectations of consumers for seamless financial interactions.

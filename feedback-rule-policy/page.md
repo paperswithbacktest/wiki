@@ -1,6 +1,8 @@
 ---
-title: "Feedback Rule Policy (Algo Trading)"
-description: "Explore how policy feedback rules influence AI-driven algorithmic trading strategies, enhancing their adaptability to market conditions and economic indicators."
+category: trading_strategy
+description: Explore how policy feedback rules influence AI-driven algorithmic trading
+  strategies, enhancing their adaptability to market conditions and economic indicators.
+title: Feedback Rule Policy (Algo Trading)
 ---
 
 Algorithmic trading has become an integral aspect of financial markets, employing sophisticated algorithms that execute trades at speeds and frequencies unimaginable to human traders. The continuous advancements in computer technology and artificial intelligence (AI) have significantly shaped the strategies employed within this domain, enabling traders to process vast amounts of data and make split-second decisions. Among these advancements is the emergence of AI-driven strategies such as the policy feedback rule. This concept draws from economic theory and incorporates it into trading strategies, offering the potential to fundamentally reshape the operational dynamics of algorithmic trading.

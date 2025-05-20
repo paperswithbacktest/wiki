@@ -1,6 +1,8 @@
 ---
-title: "Understanding Interest Rate Swap Quotes (Algo Trading)"
-description: "Discover how interest rate swaps manage interest rate risks and optimize trading strategies, providing insights into market expectations through swap quotes."
+category: quant_concept
+description: Discover how interest rate swaps manage interest rate risks and optimize
+  trading strategies, providing insights into market expectations through swap quotes.
+title: Understanding Interest Rate Swap Quotes (Algo Trading)
 ---
 
 Interest rate swaps are key instruments in the financial markets, serving as vital tools for managing interest rate risks. These swaps enable the exchange of fixed-rate payments for floating-rate payments between parties, facilitating effective management of interest rate exposure. By utilizing interest rate swaps, financial entities can stabilize cash flows and hedge against adverse movements in interest rates.

@@ -1,6 +1,12 @@
 ---
-title: "Cryptocurrency Burning and Its Applications (Algo Trading)"
-description: "Explore the dynamic world of cryptocurrency with our in-depth article on crypto burning and algorithmic trading. Discover how crypto burning influences token scarcity and market value, and delve into the innovations of algo trading that enhance trading efficiency. Understand these impactful strategies to navigate the evolving digital asset ecosystem effectively and gain insights into the future of digital finance."
+category: quant_concept
+description: Explore the dynamic world of cryptocurrency with our in-depth article
+  on crypto burning and algorithmic trading. Discover how crypto burning influences
+  token scarcity and market value, and delve into the innovations of algo trading
+  that enhance trading efficiency. Understand these impactful strategies to navigate
+  the evolving digital asset ecosystem effectively and gain insights into the future
+  of digital finance.
+title: Cryptocurrency Burning and Its Applications (Algo Trading)
 ---
 
 The world of cryptocurrency is ever-evolving, with new terminologies and strategies emerging regularly. Among these, 'crypto burning' has garnered significant attention as a mechanism intricately linked to blockchain technology. This process involves permanently removing cryptocurrency tokens from circulation, thereby affecting their scarcity and potentially their market value. As cryptocurrency markets continue to grow, strategies like crypto burning have found a place in influencing supply dynamics and value propositions within the digital asset environment.

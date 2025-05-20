@@ -1,6 +1,8 @@
 ---
-title: "History of the U.S. High-Yield Bond Market (Algo Trading)"
-description: "Explore the evolution of the U.S. high-yield bond market and the impact of algorithmic trading Discover how these dynamics shape investment strategies today."
+category: quant_concept
+description: Explore the evolution of the U.S. high-yield bond market and the impact
+  of algorithmic trading Discover how these dynamics shape investment strategies today.
+title: History of the U.S. High-Yield Bond Market (Algo Trading)
 ---
 
 High-yield bonds, commonly referred to as junk bonds, are a pivotal component of the U.S. bond market, predominantly characterized by their offering of higher returns in exchange for taking on increased risks. These bonds are essentially issued by companies that possess lower credit ratings, posing a greater risk of default. However, that increased risk can translate into substantial returns for investors willing to embrace it.

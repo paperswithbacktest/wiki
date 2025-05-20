@@ -1,6 +1,8 @@
 ---
-title: "Job Openings and Labor Turnover Survey (JOLTS) (Algo Trading)"
-description: "Explore the intersection of JOLTS data and algorithmic trading to boost trading strategies and assess economic health using labor market indicators."
+category: dataset
+description: Explore the intersection of JOLTS data and algorithmic trading to boost
+  trading strategies and assess economic health using labor market indicators.
+title: Job Openings and Labor Turnover Survey (JOLTS) (Algo Trading)
 ---
 
 The U.S. Bureau of Labor Statistics, a key institution for economic data, consistently provides a variety of important metrics that offer a window into the economic health of the nation. Among these, the Job Openings and Labor Turnover Survey (JOLTS) stands out as a crucial indicator, shedding light on the intricate dynamics of the labor market. This survey provides detailed insights by reporting on job openings, hires, and separations, each of which plays a significant role in understanding labor market trends.

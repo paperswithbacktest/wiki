@@ -1,6 +1,8 @@
 ---
-title: "Measures of Corporate Financial Health (Algo Trading)"
-description: "Explore corporate financial health and algo trading synergy with key indicators like liquidity solvency and profitability for optimized financial strategies."
+category: quant_concept
+description: Explore corporate financial health and algo trading synergy with key
+  indicators like liquidity solvency and profitability for optimized financial strategies.
+title: Measures of Corporate Financial Health (Algo Trading)
 ---
 
 Financial health is a critical concept in corporate finance, encapsulating a company's ability to sustain profitable operations, manage debts, and generate returns for stakeholders. It serves as an indicator of a corporation’s capability to meet its financial obligations and achieve long-term growth and stability. Evaluating a corporation's financial health is essential for assessing management performance, guiding investment decisions, and understanding its market position.

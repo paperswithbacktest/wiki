@@ -1,6 +1,9 @@
 ---
-title: "Savings and Loan Crisis: Overview and Aftermath (Algo Trading)"
-description: "Discover the legacy of the Savings and Loan Crisis its economic impact and lessons for modern finance including the rise of algorithmic trading and risk management."
+category: quant_concept
+description: Discover the legacy of the Savings and Loan Crisis its economic impact
+  and lessons for modern finance including the rise of algorithmic trading and risk
+  management.
+title: 'Savings and Loan Crisis: Overview and Aftermath (Algo Trading)'
 ---
 
 The Savings and Loan (S&L) Crisis was a major financial disaster during the 1980s, marked by the failure of numerous savings and loan associations in the United States. This crisis not only highlighted vulnerabilities within the financial system but also instigated substantial economic repercussions. S&Ls, also known as thrift institutions, were originally established to promote homeownership by providing affordable and accessible mortgage loans. During the crisis, a confluence of high interest rates, deregulation, and speculative lending practices led to widespread insolvency in these institutions.

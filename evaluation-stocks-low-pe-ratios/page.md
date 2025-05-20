@@ -1,6 +1,9 @@
 ---
-title: "Evaluation of Stocks with Low P/E Ratios (Algo Trading)"
-description: "Explore effective stock investment strategies by understanding low P/E ratios in algorithmic trading Learn how these insights help identify undervalued opportunities"
+category: trading_strategy
+description: Explore effective stock investment strategies by understanding low P/E
+  ratios in algorithmic trading Learn how these insights help identify undervalued
+  opportunities
+title: Evaluation of Stocks with Low P/E Ratios (Algo Trading)
 ---
 
 Stock valuation metrics play a crucial role in investment analysis by helping investors assess the financial health and potential of a company. These metrics offer insights into a company's profitability, efficiency, liquidity, and market valuation, aiding in informed decision-making. Among these metrics, the Price-to-Earnings (P/E) ratio is particularly significant. It is calculated by dividing a company's current share price by its earnings per share (EPS):
@@ -185,4 +188,3 @@ Algorithmic trading, when used in conjunction with stock evaluation metrics like
 9. **Statman, M. (1987).** *How Many Stocks Make a Diversified Portfolio?*. *Journal of Financial and Quantitative Analysis, 22*(3), 353-363. This paper provides insights into constructing investment portfolios, relevant to strategies involved in algorithmic trading.
 
 10. **For further exploration, consider reading relevant articles from financial journals such as The Journal of Finance, The Financial Analysts Journal, Journal of Financial and Quantitative Analysis, which regularly publish research on stock valuation metrics and algorithmic trading advancements.**
-

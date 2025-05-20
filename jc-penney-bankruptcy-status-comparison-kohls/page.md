@@ -1,6 +1,8 @@
 ---
-title: "J.C. Penney Bankruptcy Status and Comparison with Kohl's (Algo Trading)"
-description: "Explore the financial challenges and recovery efforts of Kohl's and J.C. Penney amid industry upheaval and the impact of algorithmic trading on retail stability."
+category: trading_strategy
+description: Explore the financial challenges and recovery efforts of Kohl's and J.C.
+  Penney amid industry upheaval and the impact of algorithmic trading on retail stability.
+title: J.C. Penney Bankruptcy Status and Comparison with Kohl's (Algo Trading)
 ---
 
 The retail sector has undergone significant upheaval in recent years, with department store giants Kohl's and J.C. Penney navigating serious financial turmoils. These challenges are emblematic of the larger shifts within the industry, where traditional retail models are increasingly pressured by evolving consumer preferences and the disruptive influence of e-commerce. Koh's, facing potential insolvency, highlights a stark reality for many traditional retailers. Meanwhile, J.C. Penney, which filed for bankruptcy in 2020 amidst a global pandemic, represents a case of both caution and optimism as it seeks recovery through strategic restructuring and partnerships.

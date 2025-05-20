@@ -1,6 +1,13 @@
 ---
-title: "Comparison of General Ledger and General Journal (Algo Trading)"
-description: "Explore the comparison between general ledgers and general journals in financial accounting, especially in the context of algorithmic trading. Understand their roles and significance as foundational elements for accurate financial reporting. Gain insights into how these tools aid in both historical analysis and future forecasting, ensuring systematic recording and integrity in financial statements. Discover their interaction with modern trading strategies, highlighting the importance of staying informed in the evolving financial landscape."
+category: quant_concept
+description: Explore the comparison between general ledgers and general journals in
+  financial accounting, especially in the context of algorithmic trading. Understand
+  their roles and significance as foundational elements for accurate financial reporting.
+  Gain insights into how these tools aid in both historical analysis and future forecasting,
+  ensuring systematic recording and integrity in financial statements. Discover their
+  interaction with modern trading strategies, highlighting the importance of staying
+  informed in the evolving financial landscape.
+title: Comparison of General Ledger and General Journal (Algo Trading)
 ---
 
 Understanding the nuances of different recording mechanisms in financial accounting is essential for businesses and individuals aiming to achieve precision in financial reporting and decision-making. This article compares general journals and general ledgers, providing insight into their roles, significance, and the evolution of their use in the modern era of algorithmic trading. These accounting tools form the backbone of financial record-keeping, providing information crucial for both historical analysis and future forecasting.

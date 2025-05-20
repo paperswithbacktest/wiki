@@ -1,6 +1,8 @@
 ---
-title: "Exogenous Growth Theory and Comparison with Endogenous Growth (Algo Trading)"
-description: "Explore the relationship between exogenous and endogenous growth theories and their influence on algorithmic trading strategies and financial market trends."
+category: quant_concept
+description: Explore the relationship between exogenous and endogenous growth theories
+  and their influence on algorithmic trading strategies and financial market trends.
+title: Exogenous Growth Theory and Comparison with Endogenous Growth (Algo Trading)
 ---
 
 In the complex world of economic growth theories, endogenous and exogenous models stand as core pillars explaining the dynamics of development. Endogenous growth theory emphasizes the role of internal factors, such as innovation and human capital, as primary drivers of economic expansion. By fostering an environment that nurtures innovation, education, and knowledge accumulation, economies can achieve sustainable growth. Exogenous growth models, on the other hand, attribute economic growth to external influences like technological advancement and capital inflows. These models, particularly typified by the Solow-Swan model, highlight the importance of factors outside the inherent economic system, including international trade and technological diffusion, in driving long-term economic prospects.

@@ -1,6 +1,14 @@
 ---
-title: "Poloniex Overview (Algo Trading)"
-description: "Discover Poloniex, a leading cryptocurrency exchange since 2014, known for its extensive range of digital assets and advanced trading features. This article explores how Poloniex supports algorithmic trading, providing traders with tools to navigate the rapidly evolving cryptocurrency market. Poloniex emphasizes security and user experience, offering features like margin trading, futures, and robust API support to enhance trading performance. Comparing Poloniex with exchanges like Binance and Coinbase highlights its unique offerings. Learn how Poloniex's platform can give you an edge in executing strategies in the volatile crypto market."
+category: quant_concept
+description: Discover Poloniex, a leading cryptocurrency exchange since 2014, known
+  for its extensive range of digital assets and advanced trading features. This article
+  explores how Poloniex supports algorithmic trading, providing traders with tools
+  to navigate the rapidly evolving cryptocurrency market. Poloniex emphasizes security
+  and user experience, offering features like margin trading, futures, and robust
+  API support to enhance trading performance. Comparing Poloniex with exchanges like
+  Binance and Coinbase highlights its unique offerings. Learn how Poloniex's platform
+  can give you an edge in executing strategies in the volatile crypto market.
+title: Poloniex Overview (Algo Trading)
 ---
 
 Cryptocurrency trading has transformed the financial landscape, offering a decentralized and digital approach to asset exchange. This innovation involves trading digital currencies like Bitcoin, Ethereum, and others. It has gained considerable traction due to its potential for high returns and its operation outside traditional banking systems. The 24/7 nature of the cryptocurrency market, coupled with significant price volatility, provides both opportunities and challenges for traders worldwide.

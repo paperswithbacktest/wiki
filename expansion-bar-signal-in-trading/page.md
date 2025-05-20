@@ -1,6 +1,9 @@
 ---
-title: "Expansion Bar Signal in Trading (Algo Trading)"
-description: "Discover how expansion bars in trading work to signal market trends and movements. Learn how they integrate with algo trading strategies for improved trading efficiency."
+category: trading_strategy
+description: Discover how expansion bars in trading work to signal market trends and
+  movements. Learn how they integrate with algo trading strategies for improved trading
+  efficiency.
+title: Expansion Bar Signal in Trading (Algo Trading)
 ---
 
 Technical analysis is a cornerstone of trading, offering investors a methodology to evaluate and forecast price movements by examining historical market data, primarily price and volume. Its significance lies in allowing traders to identify patterns and trends, enabling informed decision-making regarding buying and selling assets. Among the various tools and indicators in technical analysis, the concept of the expansion bar stands out due to its potential to signal substantial price movements and transitions in market conditions.

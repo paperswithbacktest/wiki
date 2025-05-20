@@ -1,6 +1,8 @@
 ---
-title: "Asset Management Company (Algo Trading)"
-description: "Explore how asset management and algorithmic trading drive modern finance through technology enhancing investment strategies and market efficiencies."
+category: quant_concept
+description: Explore how asset management and algorithmic trading drive modern finance
+  through technology enhancing investment strategies and market efficiencies.
+title: Asset Management Company (Algo Trading)
 ---
 
 The modern financial landscape has undergone a transformative evolution driven by the integration of technology and innovative strategies. Central to this evolution are investment funds, financial services, asset management, and algorithmic trading, which collectively define and shape the operational dynamics of contemporary markets. Investment funds function as collective vehicles for pooling capital from diverse investors to acquire a wide range of securities, thereby enabling diversification and professional management. Asset management encompasses the strategic oversight of investment portfolios, aiming to enhance growth while prudently managing potential risks.

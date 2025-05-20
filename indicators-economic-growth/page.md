@@ -1,6 +1,12 @@
 ---
-title: "Indicators of Economic Growth (Algo Trading)"
-description: "Explore how key economic indicators shape investment strategies, particularly in algorithmic trading. This article investigates into the role of indicators in measuring GDP and their impact on economic growth, providing insights for investors to make informed decisions. Discover the influence of economic data on algo trading, optimizing strategies for enhanced returns and navigating financial markets with precision."
+category: trading_strategy
+description: Explore how key economic indicators shape investment strategies, particularly
+  in algorithmic trading. This article investigates into the role of indicators in
+  measuring GDP and their impact on economic growth, providing insights for investors
+  to make informed decisions. Discover the influence of economic data on algo trading,
+  optimizing strategies for enhanced returns and navigating financial markets with
+  precision.
+title: Indicators of Economic Growth (Algo Trading)
 ---
 
 In today's fast-paced financial world, understanding economic indicators and their impact on economic growth is crucial. Economic indicators serve as the backbone of financial analysis, offering a window into the complex dynamics of economies. These indicators not only help in gauging the performance and direction of economic activity but also play a pivotal role in shaping investment strategies, particularly in the domain of algorithmic trading. By analyzing data from economic indicators, investors and traders can make informed decisions, optimize their strategies, and potentially enhance returns.

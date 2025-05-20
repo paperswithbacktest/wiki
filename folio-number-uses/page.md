@@ -1,6 +1,9 @@
 ---
-title: "Folio Number and Its Uses (Algo Trading)"
-description: "Explore how folio numbers play a crucial role in financial management and trading by serving as unique identifiers, enhancing transparency and precision in investments."
+category: quant_concept
+description: Explore how folio numbers play a crucial role in financial management
+  and trading by serving as unique identifiers, enhancing transparency and precision
+  in investments.
+title: Folio Number and Its Uses (Algo Trading)
 ---
 
 The financial world is undergoing a swift transformation characterized by the integration of advanced technologies and innovative strategies. This evolution is reshaping how investments are managed and optimized. Key concepts such as financial accounts, folio numbers, portfolio management, and algorithmic trading are central to this new financial landscape. Each of these elements plays a pivotal role in enhancing an investor's ability to make informed decisions, ultimately guiding them toward achieving wealth maximization.

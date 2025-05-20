@@ -1,6 +1,8 @@
 ---
-title: "After-Tax Basis: Explanation and Functionality (Algo Trading)"
-description: "Understand the importance of after-tax investment accounting in algorithmic trading to optimize returns by incorporating tax calculations, strategies, and regulations."
+category: quant_concept
+description: Understand the importance of after-tax investment accounting in algorithmic
+  trading to optimize returns by incorporating tax calculations, strategies, and regulations.
+title: 'After-Tax Basis: Explanation and Functionality (Algo Trading)'
 ---
 
 The interplay between tax calculation, investment accounting on an after-tax basis, and algorithmic trading is a complex but crucial element in the decision-making processes of investors and traders. These interconnected components fundamentally shape the outcomes of financial decisions by influencing net returns, portfolio strategies, and risk assessments. Effective management of taxes is critical, as they can substantially erode investment gains. By understanding tax implications, investors can strategically plan to maximize returns through robust tax strategies and sophisticated investment accounting techniques.

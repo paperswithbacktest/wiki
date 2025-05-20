@@ -1,6 +1,9 @@
 ---
-title: "Index Futures Usage (Algo Trading)"
-description: "Explore the fusion of index futures and algorithmic trading shaping modern financial markets by enabling advanced strategies for risk management and efficient trade execution."
+category: trading_strategy
+description: Explore the fusion of index futures and algorithmic trading shaping modern
+  financial markets by enabling advanced strategies for risk management and efficient
+  trade execution.
+title: Index Futures Usage (Algo Trading)
 ---
 
 In the ever-evolving landscape of trading, the convergence of technology and finance has birthed innovative ways to interact with financial markets. The advent of digital technology has fundamentally altered the mechanisms through which trades are conducted, analyzed, and executed, paving the way for sophisticated financial strategies that were once inconceivable. Among the most impactful advancements in this area are index futures trading and algorithmic trading, frequently referred to as algo trading.

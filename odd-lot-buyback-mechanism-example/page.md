@@ -1,6 +1,8 @@
 ---
-title: "Odd-Lot Buyback: Mechanism and Example (Algo Trading)"
-description: "Explore the mechanism of odd-lot buybacks and their role in algorithmic trading to improve market efficiency maximize shareholder value, and enhance liquidity."
+category: quant_concept
+description: Explore the mechanism of odd-lot buybacks and their role in algorithmic
+  trading to improve market efficiency maximize shareholder value, and enhance liquidity.
+title: 'Odd-Lot Buyback: Mechanism and Example (Algo Trading)'
 ---
 
 Stock repurchase, also known as a buyback, occurs when a company purchases its own outstanding shares to reduce the number of shares available on the open market. This action can bolster the value of remaining shares and is often perceived as a signal of confidence from the company's management regarding the firm’s future performance. Odd-lot buybacks refer specifically to the purchase of small batches of shares, typically fewer than 100, which were historically the smallest tradeable unit. These buybacks can improve overall market efficiency by eliminating small shareholders, reducing administrative costs, and streamlining ownership.

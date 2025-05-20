@@ -1,6 +1,8 @@
 ---
-title: "Defensive Interval Ratio: Formula and Benefits (Algo Trading)"
-description: "Explore the Defensive Interval Ratio DIR its formula and benefits in algorithmic trading Learn how DIR aids in assessing a company's liquidity and stability"
+category: quant_concept
+description: Explore the Defensive Interval Ratio DIR its formula and benefits in
+  algorithmic trading Learn how DIR aids in assessing a company's liquidity and stability
+title: 'Defensive Interval Ratio: Formula and Benefits (Algo Trading)'
 ---
 
 In financial analysis, understanding liquidity is a crucial component for assessing a company's financial health. Liquidity refers to the ability of a company to meet its short-term obligations without raising additional capital. Among various liquidity metrics, the Defensive Interval Ratio (DIR) stands out as an essential tool. DIR measures the duration a company can sustain its operations using only its liquid assets, without relying on any external financial resources. By providing this insight, DIR plays a critical role in financial ratio analysis, aiding investors and analysts in making informed decisions. 

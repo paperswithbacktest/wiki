@@ -1,6 +1,9 @@
 ---
-title: "Broker Responsibilities for Share Buybacks in Bear Markets (Algo Trading)"
-description: "Explore brokers' roles in share buybacks within bear markets including algorithmic trading's impact on market dynamics and the investor strategies for volatile periods."
+category: trading_strategy
+description: Explore brokers' roles in share buybacks within bear markets including
+  algorithmic trading's impact on market dynamics and the investor strategies for
+  volatile periods.
+title: Broker Responsibilities for Share Buybacks in Bear Markets (Algo Trading)
 ---
 
 Share buybacks, bear markets, broker responsibilities, and algorithmic trading are key components of the modern financial ecosystem. Each element plays a critical role in shaping market dynamics, investor behavior, and corporate strategies, particularly during periods of volatility. 

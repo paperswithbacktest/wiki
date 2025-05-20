@@ -1,6 +1,8 @@
 ---
-title: "Mastercard Acquirer: Overview and Functionality (Algo Trading)"
-description: "Discover how Mastercard enhances global payment processing as an acquirer, utilizing secure partnerships and algorithmic trading for seamless, efficient transactions."
+category: quant_concept
+description: Discover how Mastercard enhances global payment processing as an acquirer,
+  utilizing secure partnerships and algorithmic trading for seamless, efficient transactions.
+title: 'Mastercard Acquirer: Overview and Functionality (Algo Trading)'
 ---
 
 The world of payment processing is complex, involving a multitude of players who ensure transactions are completed efficiently and securely. A pivotal entity in this ecosystem is the payment processing acquirer, an institution that serves as the intermediary between merchants and card networks. Mastercard, a leading global payment processor, plays a critical role as an acquirer, facilitating transactions through secure and robust partnerships with merchants worldwide.

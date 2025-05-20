@@ -1,6 +1,9 @@
 ---
-title: "Issuer (Finance) (Algo Trading)"
-description: "Explore the transformative impact of algorithmic trading on financial markets, focusing on its integration with issuer securities to enhance trade execution and market efficiency."
+category: quant_concept
+description: Explore the transformative impact of algorithmic trading on financial
+  markets, focusing on its integration with issuer securities to enhance trade execution
+  and market efficiency.
+title: Issuer (Finance) (Algo Trading)
 ---
 
 In recent years, algorithmic trading has significantly transformed financial markets by providing a robust platform for efficient trade execution. This technological advancement leverages computer programs and algorithms to automate trading strategies, increasing the speed and precision of financial transactions. The widespread adoption of algorithmic trading across global markets has brought about substantial changes in trading volume, market liquidity, and volatility patterns, reshaping traditional investment paradigms.

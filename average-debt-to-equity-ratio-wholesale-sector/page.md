@@ -1,6 +1,8 @@
 ---
-title: "Average Debt-to-Equity Ratio in the Wholesale Sector (Algo Trading)"
-description: "Explore the significance of debt-to-equity ratios in the wholesale sector and their impact on algorithmic trading strategies for better investment decisions."
+category: quant_concept
+description: Explore the significance of debt-to-equity ratios in the wholesale sector
+  and their impact on algorithmic trading strategies for better investment decisions.
+title: Average Debt-to-Equity Ratio in the Wholesale Sector (Algo Trading)
 ---
 
 The financial health of a company is often gauged through various financial metrics, one of which is the debt-to-equity (D/E) ratio. This ratio is a financial leverage metric that provides insights into the proportion of debt and equity financing employed by a company. The D/E ratio is particularly significant in the wholesale sector, where it serves as a critical indicator of a company's leverage and financial stability. A balanced ratio can suggest effective management and long-term sustainability, whereas an excessively high ratio might indicate potential financial distress, with the company relying heavily on debt for capital.

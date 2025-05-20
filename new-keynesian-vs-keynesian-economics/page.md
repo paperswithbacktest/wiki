@@ -1,6 +1,9 @@
 ---
-title: "Comparison of New Keynesian and Keynesian Economics (Algo Trading)"
-description: "Explore the distinctions and intersections between Keynesian and New Keynesian economics in algorithmic trading Discover how these theories shape trading strategies"
+category: quant_concept
+description: Explore the distinctions and intersections between Keynesian and New
+  Keynesian economics in algorithmic trading Discover how these theories shape trading
+  strategies
+title: Comparison of New Keynesian and Keynesian Economics (Algo Trading)
 ---
 
 Keynesian economics, a foundation of modern economic thought, was introduced by British economist John Maynard Keynes in the 1930s. This economic framework emerged in response to the inadequacies of classical economics during the Great Depression, a time when market forces failed to self-correct and unemployment soared. Central to Keynesian economics is the idea that aggregate demand—comprising consumption, investment, and government spending—is the primary driving force in an economy. Keynes advocated for active government intervention, especially fiscal policies, to stimulate demand and combat high unemployment and deflation, thereby stabilizing the economy.

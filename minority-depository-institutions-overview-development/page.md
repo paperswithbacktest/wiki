@@ -1,6 +1,9 @@
 ---
-title: "Minority Depository Institutions: Overview and Development (Algo Trading)"
-description: "Discover how Minority Depository Institutions foster financial inclusivity, support minority communities with tailored services, and explore algorithmic trading's impact."
+category: quant_concept
+description: Discover how Minority Depository Institutions foster financial inclusivity,
+  support minority communities with tailored services, and explore algorithmic trading's
+  impact.
+title: 'Minority Depository Institutions: Overview and Development (Algo Trading)'
 ---
 
 Minority Depository Institutions (MDIs) play an essential role in the financial sector by fostering economic inclusivity and serving communities that are often overlooked by mainstream financial entities. MDIs are minority-owned or controlled banks and credit unions that primarily support minority individuals and businesses through tailored financial services. These institutions are instrumental in bridging the financial gap, ensuring that minority communities have access to essential banking services such as loans, credit, and investment opportunities.

@@ -1,6 +1,8 @@
 ---
-title: "Disappearance of Paper Stock Certificates (Algo Trading)"
-description: "Explore the transition from paper stock certificates to electronic records in the financial world highlighting dematerialization and algorithmic trading advancements."
+category: quant_concept
+description: Explore the transition from paper stock certificates to electronic records
+  in the financial world highlighting dematerialization and algorithmic trading advancements.
+title: Disappearance of Paper Stock Certificates (Algo Trading)
 ---
 
 The financial world has undergone significant changes as physical stock certificates, once tangible symbols of share ownership, give way to electronic records. This evolution, known as the dematerialization of stocks, represents a major transition in financial transactions, emphasizing increased efficiency and security. Dematerialization refers to the process of converting physical stock certificates into electronic form, thereby facilitating seamless transactions and ensuring robust record-keeping. This transformation addresses the limitations of paper-based systems, such as delays in transfer, risk of physical damage, and administrative burden.

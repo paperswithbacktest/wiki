@@ -1,6 +1,9 @@
 ---
-title: "Eurocurrency: Concept and Examples (Algo Trading)"
-description: "Explore Eurocurrency concepts and the impact of algorithmic trading on global finance markets with insights into their roles and mechanisms in international trade."
+category: quant_concept
+description: Explore Eurocurrency concepts and the impact of algorithmic trading on
+  global finance markets with insights into their roles and mechanisms in international
+  trade.
+title: 'Eurocurrency: Concept and Examples (Algo Trading)'
 ---
 
 The international finance currency market represents a multifaceted and rapidly evolving segment of the global economy, integral to international trade and investment. This market facilitates the exchange of currencies across borders, impacting everything from multinational corporations to individual investors. Among the numerous components driving its evolution, Eurocurrency and algorithmic trading emerge as pivotal forces.

@@ -1,9 +1,14 @@
 ---
-title: "Introduction to Trading Mutual Funds (Algo Trading)"
-description: "Explore the basics of mutual funds and algorithmic trading to understand their roles in modern investing. Learn how mutual funds offer diversified investments managed by professionals and how algorithmic trading leverages technology to enhance trade execution. Discover the synergy between these tools for efficient wealth management and informed investment strategies."
+category: quant_concept
+description: Explore the basics of mutual funds and algorithmic trading to understand
+  their roles in modern investing. Learn how mutual funds offer diversified investments
+  managed by professionals and how algorithmic trading leverages technology to enhance
+  trade execution. Discover the synergy between these tools for efficient wealth management
+  and informed investment strategies.
+title: Introduction to Trading Mutual Funds (Algo Trading)
 ---
 
- to Mutual Funds and Algorithmic Trading
+to Mutual Funds and Algorithmic Trading
 
 Mutual funds are investment vehicles that pool resources from multiple investors to purchase a diversified portfolio of stocks, bonds, or other securities. Managed by professional fund managers, these funds offer individual investors access to diversified portfolios without the need to make individual security selections. Mutual funds are categorized into various types, including equity funds, bond funds, money market funds, and hybrid funds, each tailored to meet different risk profiles and investment objectives.
 

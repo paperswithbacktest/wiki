@@ -1,6 +1,9 @@
 ---
-title: "Rights Issues in Finance (Algo Trading)"
-description: "Explore rights issues and algorithmic trading in finance. Understand their impact on investment strategies and market dynamics, enhancing your financial insights."
+category: quant_concept
+description: Explore rights issues and algorithmic trading in finance. Understand
+  their impact on investment strategies and market dynamics, enhancing your financial
+  insights.
+title: Rights Issues in Finance (Algo Trading)
 ---
 
 In the ever-evolving landscape of finance, understanding various mechanisms like rights issues, stock offerings, and algorithmic trading is crucial. As financial markets become increasingly complex and interconnected, these elements play significant roles in shaping investment strategies and market dynamics. This article aims to demystify these concepts and outline their importance in the financial markets, providing valuable insights for both investors and financial enthusiasts.

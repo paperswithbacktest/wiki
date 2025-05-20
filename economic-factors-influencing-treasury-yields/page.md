@@ -1,6 +1,9 @@
 ---
-title: "Economic Factors Influencing Treasury Yields (Algo Trading)"
-description: "Explore how treasury yields, interest rates, and algorithmic trading interplay, impacting investment strategies and market dynamics in the financial landscape."
+category: quant_concept
+description: Explore how treasury yields, interest rates, and algorithmic trading
+  interplay, impacting investment strategies and market dynamics in the financial
+  landscape.
+title: Economic Factors Influencing Treasury Yields (Algo Trading)
 ---
 
 Understanding the intricate relationships between treasury yields, interest rates, and algorithmic trading is crucial for financial market participants and policymakers. These elements, each playing a significant role in the economic landscape, are interconnected in ways that influence market behavior, capital allocation, and broader economic decisions.
@@ -111,4 +114,3 @@ In conclusion, the interplay of treasury yields, interest rates, and algorithmic
    - "Interest Rates and Inflation" by Frederic S. Mishkin. A classic study that examines the relationship between inflation expectations and interest rates, crucially affecting investor sentiment and economic health assessments through treasury yields.
 
 These resources serve as an essential compilation for financial professionals and academics seeking detailed knowledge on treasury yields, interest rates, and the transformative role of algorithmic trading.
-

@@ -1,6 +1,9 @@
 ---
-title: "Principal Orders: Functionality and Implications (Algo Trading)"
-description: "Explore the impact of Principal Orders in algorithmic trading including their role in market dynamics risk management and profit strategies through POOM insights."
+category: quant_concept
+description: Explore the impact of Principal Orders in algorithmic trading including
+  their role in market dynamics risk management and profit strategies through POOM
+  insights.
+title: 'Principal Orders: Functionality and Implications (Algo Trading)'
 ---
 
 In the rapidly evolving world of financial markets, algorithmic trading, commonly referred to as 'algo trading,' has established itself as a significant force, revolutionizing how trades are conducted. This modern approach encompasses the use of sophisticated algorithms to execute trades at high speed and volume, optimizing market positions and leveraging available information more efficiently than traditional trading methods.

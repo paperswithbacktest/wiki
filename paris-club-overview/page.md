@@ -1,6 +1,9 @@
 ---
-title: "Paris Club Overview (Algo Trading)"
-description: "Explore the synergy of debt restructuring, creditor nations, the Paris Club, and algorithmic trading in global finance, highlighting their distinct yet interconnected roles."
+category: quant_concept
+description: Explore the synergy of debt restructuring, creditor nations, the Paris
+  Club, and algorithmic trading in global finance, highlighting their distinct yet
+  interconnected roles.
+title: Paris Club Overview (Algo Trading)
 ---
 
 This article explores the interconnected topics of debt restructuring, creditor nations, the Paris Club, and algorithmic trading, highlighting their roles and implications in the global economy. Debt restructuring serves as a vital financial strategy for nations and corporations grappling with financial distress. It involves reorganizing existing debt obligations to achieve a more manageable financial state, thereby preventing default and restoring economic stability.

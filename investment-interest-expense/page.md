@@ -1,6 +1,9 @@
 ---
-title: "Investment Interest Expense (Algo Trading)"
-description: "Explore financial interest expense algorithmic trading and investment strategies Learn how to manage costs optimize returns and leverage technology for success"
+category: quant_concept
+description: Explore financial interest expense algorithmic trading and investment
+  strategies Learn how to manage costs optimize returns and leverage technology for
+  success
+title: Investment Interest Expense (Algo Trading)
 ---
 
 The financial landscape is multifaceted, encompassing a wide array of concepts that require an in-depth understanding to navigate effectively. This article aims to explore several critical topics within this domain: financial interest, investment expense, interest expense, and algorithmic trading. Each of these components plays a significant role in shaping financial strategies and their outcomes.
@@ -145,4 +148,3 @@ In "Machine Learning for Algorithmic Trading," Stefan Jansen provides an in-dept
 Chan, E. P. Quantitative Trading: How to Build Your Own Algorithmic Trading Business
 
 Ernest P. Chan's "Quantitative Trading: How to Build Your Own Algorithmic Trading Business" is a practical resource for individuals interested in starting their own trading enterprise. The book guides readers through the process of developing, [backtesting](/wiki/backtesting), and deploying [quantitative trading](/wiki/quantitative-trading) strategies. It highlights the importance of precise financial calculations and data management in achieving success in algorithmic trading environments. Chan's insights are invaluable for practitioners who aim to combine financial theory with real-world trading applications.
-

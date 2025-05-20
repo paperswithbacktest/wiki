@@ -1,6 +1,15 @@
 ---
-title: "Average holding period in backtesting (Algo Trading)"
-description: Understanding the average holding period in backtesting is crucial for traders optimizing algorithmic strategies. This metric, representing the mean duration trades are held, provides key insights into strategy alignment with trading goals and market conditions. A longer average holding period might indicate a focus on capturing extended market trends, while a shorter one may suggest frequent trades. By evaluating the average holding period, traders can ensure strategies meet their risk management preferences and investment objectives, while also considering transaction costs and market volatility implications. This article outlines its significance and offers best practices for strategy optimization.
+category: trading_strategy
+description: Understanding the average holding period in backtesting is crucial for
+  traders optimizing algorithmic strategies. This metric, representing the mean duration
+  trades are held, provides key insights into strategy alignment with trading goals
+  and market conditions. A longer average holding period might indicate a focus on
+  capturing extended market trends, while a shorter one may suggest frequent trades.
+  By evaluating the average holding period, traders can ensure strategies meet their
+  risk management preferences and investment objectives, while also considering transaction
+  costs and market volatility implications. This article outlines its significance
+  and offers best practices for strategy optimization.
+title: Average holding period in backtesting (Algo Trading)
 ---
 
 Backtesting serves a critical role in algorithmic trading, functioning as a tool that enables traders to assess the viability of trading strategies through the use of historical data. This step is essential before any strategy is applied to live markets, as it helps traders to understand how their strategies would have performed in different market conditions. Among the many metrics used in backtesting, the 'average holding period' stands out as a crucial indicator. This metric measures the average duration that a position is held in a given trading strategy. By comprehending the average holding period, traders can gain valuable insights into a strategy's inherent timeframe as well as its potential risks.

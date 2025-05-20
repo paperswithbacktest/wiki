@@ -1,6 +1,13 @@
 ---
-title: "Introduction to Cash Flow Analysis (Algo Trading)"
-description: "Explore the interconnected world of cash flow analysis and algorithmic trading in our comprehensive guide. Understand how cash flow management informs financial decisions and contributes to business success. Discover the impact of algorithmic trading on financial markets, leveraging technology and data-driven strategies for rapid, automated trading. Learn how these advanced concepts create a framework for sustainable growth and competitive advantage in today's dynamic economic landscape."
+category: quant_concept
+description: Explore the interconnected world of cash flow analysis and algorithmic
+  trading in our comprehensive guide. Understand how cash flow management informs
+  financial decisions and contributes to business success. Discover the impact of
+  algorithmic trading on financial markets, leveraging technology and data-driven
+  strategies for rapid, automated trading. Learn how these advanced concepts create
+  a framework for sustainable growth and competitive advantage in today's dynamic
+  economic landscape.
+title: Introduction to Cash Flow Analysis (Algo Trading)
 ---
 
 In today's globally connected and data-driven world, the interconnectedness of business finance, cash flow financial analysis, and algorithmic trading is becoming increasingly prominent. These areas are not isolated; rather, they complement one another, creating a framework for sophisticated financial management that is crucial for business success.
@@ -164,4 +171,4 @@ This article has aimed to provide an insightful overview of how modern business 
 
 [6]: Harris, L. (2003). ["Trading and Exchanges: Market Microstructure for Practitioners"](https://www.amazon.com/Trading-Exchanges-Market-Microstructure-Practitioners/dp/0195144708)  
 
-[7]: Chan, E. P. (2006). ["Algorithmic Trading: Winning Strategies and Their Rationale"](https://github.com/ftvision/quant_trading_echan_book)  
+[7]: Chan, E. P. (2006). ["Algorithmic Trading: Winning Strategies and Their Rationale"](https://github.com/ftvision/quant_trading_echan_book)

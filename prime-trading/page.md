@@ -1,6 +1,8 @@
 ---
-title: "Prime Trading (Algo Trading)"
-description: "Discover the power of Prime Trading a sophisticated form of algorithmic trading that optimizes strategies for improved returns and minimized risks."
+category: quant_concept
+description: Discover the power of Prime Trading a sophisticated form of algorithmic
+  trading that optimizes strategies for improved returns and minimized risks.
+title: Prime Trading (Algo Trading)
 ---
 
 Algorithmic trading, commonly referred to as algo trading, represents a modern approach in executing trades using pre-set instructions and complex mathematical models to make decisions. This technique harnesses the power of computer algorithms to analyze market data and automatically initiate buy or sell orders within fractions of a second. The primary attributes of algorithmic trading include high speed, accuracy, and the ability to process vast quantities of data, which significantly surpass human capabilities in terms of operational efficiency and decision making.

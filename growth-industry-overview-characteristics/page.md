@@ -1,6 +1,8 @@
 ---
-title: "Growth Industry: Overview and Characteristics (Algo Trading)"
-description: "Explore the dynamic world of algorithmic trading a key force in finance sector growth Learn how tech innovation drives market efficiency and economic expansion"
+category: quant_concept
+description: Explore the dynamic world of algorithmic trading a key force in finance
+  sector growth Learn how tech innovation drives market efficiency and economic expansion
+title: 'Growth Industry: Overview and Characteristics (Algo Trading)'
 ---
 
 The evolving landscape of global economics is intrinsically linked to the progress of various industries that are designated as growth industries, characterized by their rapid development and expansive market reach. A prominent example of these is the finance sector, where algorithmic trading has emerged as a crucial force in shaping economic development. Algorithmic trading, utilizing complex computer programs, is known for executing trades on predefined criteria, thereby revolutionizing the speed, efficiency, and cost structure of trading within financial markets.

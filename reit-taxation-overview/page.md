@@ -1,6 +1,15 @@
 ---
-title: "REIT Taxation Overview (Algo Trading)"
-description: "Explore the taxation and strategic advantages of Real Estate Investment Trusts (REITs) for investors interested in gaining real estate market exposure without direct property management hassles. Understand how REITs manage income distribution to minimize corporate taxes enhancing investor returns through dividends. Discover how algorithmic trading enhances REIT strategies by optimizing buy and sell decisions. This informative overview provides insights into tax implications for investors categorized as ordinary income capital gains or return of capital and highlights different REIT types including Equity Mortgage and Hybrid REITs to guide investment choices."
+category: quant_concept
+description: Explore the taxation and strategic advantages of Real Estate Investment
+  Trusts (REITs) for investors interested in gaining real estate market exposure without
+  direct property management hassles. Understand how REITs manage income distribution
+  to minimize corporate taxes enhancing investor returns through dividends. Discover
+  how algorithmic trading enhances REIT strategies by optimizing buy and sell decisions.
+  This informative overview provides insights into tax implications for investors
+  categorized as ordinary income capital gains or return of capital and highlights
+  different REIT types including Equity Mortgage and Hybrid REITs to guide investment
+  choices.
+title: REIT Taxation Overview (Algo Trading)
 ---
 
 Real Estate Investment Trusts (REITs) provide investors a straightforward method of gaining exposure to the real estate market without the responsibilities associated with direct property management. By pooling capital from numerous investors, REITs allow for the acquisition and management of income-generating real estate and real estate-related assets. This structure offers diversification that individual property ownership might not, mitigating certain investment risks.
@@ -153,4 +162,3 @@ In conclusion, REITs offer a unique avenue for investment, characterized by thei
 [7]: Phillips, J. T. (2019). ["Algorithmic and High-Frequency Trading: Mathematics, Finance, and Modeling."](https://assets.cambridge.org/97811070/91146/frontmatter/9781107091146_frontmatter.pdf) Cambridge University Press.
 
 [8]: Ramaswamy, K., & Bhargava, V. (2021). ["Machine Learning and Data Science Blueprints for Finance."](https://scholar.google.com/citations?user=P12ERk0AAAAJ) Packt Publishing.
-

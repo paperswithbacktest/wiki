@@ -1,6 +1,9 @@
 ---
-title: "Key Industries Influencing the U.S. Economy (Algo Trading)"
-description: "Discover how key industries like technology and healthcare drive U.S. economic growth Explore how algorithmic trading reshapes financial markets and boosts efficiency"
+category: dataset
+description: Discover how key industries like technology and healthcare drive U.S.
+  economic growth Explore how algorithmic trading reshapes financial markets and boosts
+  efficiency
+title: Key Industries Influencing the U.S. Economy (Algo Trading)
 ---
 
 The United States boasts a vibrant and diverse economy enriched by multiple thriving industries. As of recent years, pivotal sectors such as technology, healthcare, and construction have played significant roles in driving the nation's economic growth. Technology continues to transform industries with innovations such as artificial intelligence and cloud computing, fostering both efficiency and new employment opportunities. Healthcare remains indispensable, propelled by an aging population and ongoing medical advancements. Simultaneously, construction sees sustained demand driven by population growth and infrastructure needs.

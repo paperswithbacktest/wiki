@@ -1,6 +1,8 @@
 ---
-title: "Generative Models (Algo Trading)"
-description: "Explore how generative models transform algorithmic trading by uncovering patterns and strategies from market data with GenAI for competitive trading edge."
+category: trading_strategy
+description: Explore how generative models transform algorithmic trading by uncovering
+  patterns and strategies from market data with GenAI for competitive trading edge.
+title: Generative Models (Algo Trading)
 ---
 
 In the fast-paced world of online trading, generative models are transforming the way traders innovate and conduct operations. Generative AI (GenAI) is at the forefront of this transformation, evolving rapidly to produce new patterns and strategies derived from existing data sets. The year 2024 signifies a pivotal moment where the influence of GenAI is more significant than ever, providing traders with innovative methods to analyze markets and manage risks effectively.

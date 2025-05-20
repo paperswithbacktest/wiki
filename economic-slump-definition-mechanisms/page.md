@@ -1,6 +1,8 @@
 ---
-title: "Economic Slump: Definition and Mechanisms (Algo Trading)"
-description: "Explore how economic slumps affect markets and the significant role of algorithmic trading in stabilizing or predicting downturns using advanced technologies."
+category: quant_concept
+description: Explore how economic slumps affect markets and the significant role of
+  algorithmic trading in stabilizing or predicting downturns using advanced technologies.
+title: 'Economic Slump: Definition and Mechanisms (Algo Trading)'
 ---
 
 Economic downturns, recessions, and slumps are phenomena that evoke significant concern among investors and policymakers. These terms describe phases of economic decline that can drastically affect global markets and individual financial stability. Understanding the nuances of these economic states and their implications is increasingly important as the landscape of financial markets evolves with technological advancements.

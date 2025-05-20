@@ -1,6 +1,14 @@
 ---
-title: "Generations of Blockchain Technology (Algo Trading)"
-description: "Explore the evolution of blockchain technology and its integration with algorithmic trading in this comprehensive article. Delve into the different generations of blockchain, from its origins with Bitcoin to the rise of smart contracts with Ethereum, and future prospects with Web3 developments. Discover how blockchain's decentralized, secure, and transparent nature is revolutionizing sectors beyond finance, enhancing trading systems' efficiency and reliability. Gain insights into the transformative potential of blockchain, driving innovation and streamlining operations within a decentralized digital ecosystem."
+category: quant_concept
+description: Explore the evolution of blockchain technology and its integration with
+  algorithmic trading in this comprehensive article. Delve into the different generations
+  of blockchain, from its origins with Bitcoin to the rise of smart contracts with
+  Ethereum, and future prospects with Web3 developments. Discover how blockchain's
+  decentralized, secure, and transparent nature is revolutionizing sectors beyond
+  finance, enhancing trading systems' efficiency and reliability. Gain insights into
+  the transformative potential of blockchain, driving innovation and streamlining
+  operations within a decentralized digital ecosystem.
+title: Generations of Blockchain Technology (Algo Trading)
 ---
 
 In the rapidly changing landscape of technology, blockchain stands out as a transformative innovation. It is redefining how we perceive data security and decentralization and has become a crucial component in various industry sectors. Initially developed to secure digital currencies such as Bitcoin, blockchain technology has evolved to disrupt a multitude of sectors beyond finance. By leveraging its decentralized nature, blockchain ensures unprecedented security, transparency, and efficiency.

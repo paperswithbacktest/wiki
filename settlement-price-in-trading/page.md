@@ -1,6 +1,12 @@
 ---
-title: "Settlement Price in Trading (Algo Trading)"
-description: "Explore the vital connection between settlement prices and algorithmic trading in modern financial markets. Learn how settlement prices serve as key reference points and the role of algorithms in executing trades efficiently. Understand the benefits and challenges of algorithmic trading and the evolving synergy with settlement mechanisms as technology advances. Stay informed on how accurate settlement data can give traders a competitive edge in fast-paced financial environments."
+category: quant_concept
+description: Explore the vital connection between settlement prices and algorithmic
+  trading in modern financial markets. Learn how settlement prices serve as key reference
+  points and the role of algorithms in executing trades efficiently. Understand the
+  benefits and challenges of algorithmic trading and the evolving synergy with settlement
+  mechanisms as technology advances. Stay informed on how accurate settlement data
+  can give traders a competitive edge in fast-paced financial environments.
+title: Settlement Price in Trading (Algo Trading)
 ---
 
 Technology's impact on trading processes is growing significantly as financial markets evolve rapidly. Two critical concepts in modern finance are settlement prices and algorithmic trading. Settlement prices serve as essential reference points in trading, helping to assess daily profits or losses and determine the final payoffs in derivatives and options contracts. Understanding how these prices are established and their role in trading is vital for market participants.

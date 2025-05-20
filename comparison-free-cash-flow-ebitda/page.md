@@ -1,6 +1,12 @@
 ---
-title: "Comparison of Free Cash Flow and EBITDA (Algo Trading)"
-description: "Explore the differences between Free Cash Flow (FCF) and EBITDA in assessing a company's financial health and operational efficiency. Learn how these metrics are used in algorithmic trading for strategic decision-making and financial analysis. Understand the role of FCF in offering insights into cash management and the significance of EBITDA in evaluating core profitability, enabling better investment opportunities and risk assessment."
+category: quant_concept
+description: Explore the differences between Free Cash Flow (FCF) and EBITDA in assessing
+  a company's financial health and operational efficiency. Learn how these metrics
+  are used in algorithmic trading for strategic decision-making and financial analysis.
+  Understand the role of FCF in offering insights into cash management and the significance
+  of EBITDA in evaluating core profitability, enabling better investment opportunities
+  and risk assessment.
+title: Comparison of Free Cash Flow and EBITDA (Algo Trading)
 ---
 
 Understanding the financial health of a company is crucial for investors and stakeholders who seek to make informed decisions about allocating their resources. Whether evaluating potential risks, identifying growth opportunities, or simply seeking value, stakeholders rely on a comprehensive analysis of financial metrics. Among these metrics, Free Cash Flow (FCF) and Earnings Before Interest, Tax, Depreciation, and Amortization (EBITDA) are pivotal in assessing a company's profitability and operational efficiency.

@@ -1,6 +1,8 @@
 ---
-title: "Bond Power: Definition, Mechanism, and Examples (Algo Trading)"
-description: "Explore bond power and its impact on modern trading with insights into financial securities, mechanisms, and algorithmic trading's role in market evolution."
+category: quant_concept
+description: Explore bond power and its impact on modern trading with insights into
+  financial securities, mechanisms, and algorithmic trading's role in market evolution.
+title: 'Bond Power: Definition, Mechanism, and Examples (Algo Trading)'
 ---
 
 The financial markets are in a state of constant evolution, with various kinds of financial securities playing pivotal roles. Among these, bonds have emerged as fundamental instruments, serving as critical mechanisms for capital mobilization and risk management. Financial securities like bonds serve as contracts or instruments that represent a financial value and are indispensable for investment strategies and economic stability. For investors today, a keen understanding of these securities is imperative, encompassing the nuanced concepts of finance bond power and the ongoing transformation through algorithmic trading.
@@ -102,4 +104,3 @@ Jansen, S. "Machine Learning for Algorithmic Trading: A Step-by-Step Guide to Pr
 Chan, E. P. "Quantitative Trading: How to Build Your Own Algorithmic Trading Business." Wiley. This book offers practical advice on setting up a [quantitative trading](/wiki/quantitative-trading) business. Chan focuses on designing trading strategies, understanding market risks, and the technological infrastructure necessary for algorithmic trading.
 
 Bergstra, J., et al. "Algorithms for Hyper-Parameter Optimization." Advances in Neural Information Processing Systems 24. This paper discusses algorithms for optimizing hyper-parameters in machine learning models. Bergstra and colleagues present techniques like random search and sequential model-based optimization, which can significantly enhance model performance and are valuable for developing efficient trading algorithms.
-

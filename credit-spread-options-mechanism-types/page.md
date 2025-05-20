@@ -1,6 +1,9 @@
 ---
-title: "Credit Spread Options: Mechanism and Types (Algo Trading)"
-description: "Explore the mechanics and types of credit spread options in algorithmic trading Discover strategies to manage risk and maximize income in modern financial markets"
+category: quant_concept
+description: Explore the mechanics and types of credit spread options in algorithmic
+  trading Discover strategies to manage risk and maximize income in modern financial
+  markets
+title: 'Credit Spread Options: Mechanism and Types (Algo Trading)'
 ---
 
 Financial derivatives, particularly options, have become integral to modern financial markets by providing sophisticated tools for managing risk and enhancing investment strategies. Derivatives are financial contracts whose value is derived from an underlying asset, such as stocks, bonds, commodities, or market indices. Options, a subset of derivatives, offer investors the capacity to either hedge against potential adverse price movements or take advantage of speculative opportunities. This flexibility makes them highly popular among investors and traders.

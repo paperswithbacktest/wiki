@@ -1,6 +1,9 @@
 ---
-title: "Book Value Per Common Share (Algo Trading)"
-description: "Explore the significance of Book Value Per Common Share (BVPS) in evaluating companies. Learn how it aids in identifying undervalued stocks for better investment strategies."
+category: quant_concept
+description: Explore the significance of Book Value Per Common Share (BVPS) in evaluating
+  companies. Learn how it aids in identifying undervalued stocks for better investment
+  strategies.
+title: Book Value Per Common Share (Algo Trading)
 ---
 
 Book Value Per Common Share (BVPS) is a critical metric for evaluating a company's financial health. It represents the equity value available to common shareholders divided by the number of outstanding common shares. BVPS is particularly essential as it offers insight into a company's inherent value on a per-share basis, independent of market fluctuations. By comparing a company's BVPS to its current market price, investors can make informed decisions about whether a stock is potentially undervalued or overvalued.

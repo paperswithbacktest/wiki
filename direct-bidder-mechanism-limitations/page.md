@@ -1,6 +1,8 @@
 ---
-title: "Direct Bidder: Mechanism and Limitations (Algo Trading)"
-description: "Explore direct bidder auctions and their limitations compared to algorithmic trading highlighting the impact on investment strategies and market efficiency."
+category: quant_concept
+description: Explore direct bidder auctions and their limitations compared to algorithmic
+  trading highlighting the impact on investment strategies and market efficiency.
+title: 'Direct Bidder: Mechanism and Limitations (Algo Trading)'
 ---
 
 Bidding mechanisms are integral components in the world of trading and investments, serving as the cornerstone for conducting transactions. They define how prices and allocations of securities and assets are determined and are essential for ensuring liquidity and market efficiency.

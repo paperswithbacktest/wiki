@@ -1,6 +1,8 @@
 ---
-title: "PHLX Housing Sector Index: Components and Examples (Algo Trading)"
-description: "Discover the PHLX Housing Sector Index HGX and its role in tracking housing market trends Learn about its components and impact on algorithmic trading strategies"
+category: dataset
+description: Discover the PHLX Housing Sector Index HGX and its role in tracking housing
+  market trends Learn about its components and impact on algorithmic trading strategies
+title: 'PHLX Housing Sector Index: Components and Examples (Algo Trading)'
 ---
 
 Sector indices play a crucial role in financial markets by serving as benchmarks for assessing the performance of specific segments within the economy. They offer investors insight into how particular industries or sectors are performing relative to the broader market, allowing for more informed investment decisions. Moreover, by tracking these indices, investors can gain a clearer picture of sector-specific trends and economic health, aiding in risk management and portfolio diversification.

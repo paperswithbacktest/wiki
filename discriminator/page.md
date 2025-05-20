@@ -1,7 +1,8 @@
 ---
-title: Understanding the GAN Discriminator Role in Machine Learning
+category: quant_concept
 description: GAN Discriminator identifies real and fake data using loss functions
   and training strategies to enhance model performance stability Discover more inside
+title: Understanding the GAN Discriminator Role in Machine Learning
 ---
 
 ![Image](images/1.jpeg)

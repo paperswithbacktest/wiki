@@ -1,6 +1,9 @@
 ---
-title: "Consumer Confidence And Sentiment Comparison (Algo Trading)"
-description: "Explore the interplay of consumer confidence and sentiment metrics with algorithmic trading strategies to improve decision-making and anticipate market trends effectively."
+category: quant_concept
+description: Explore the interplay of consumer confidence and sentiment metrics with
+  algorithmic trading strategies to improve decision-making and anticipate market
+  trends effectively.
+title: Consumer Confidence And Sentiment Comparison (Algo Trading)
 ---
 
 Economic indicators are instrumental in assessing the health and direction of an economy. Among these, consumer sentiment and consumer confidence are invaluable for understanding potential economic trends. Consumer confidence indices, like the Consumer Confidence Index (CCI) and the Michigan Consumer Sentiment Index (MCSI), serve as barometers for gauging future economic behavior. These indices reflect consumer willingness to engage in economic activities such as spending and investment, providing strategic insights for traders.

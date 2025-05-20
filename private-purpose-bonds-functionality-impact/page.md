@@ -1,6 +1,8 @@
 ---
-title: "Private-Purpose Bonds: Functionality and Impact (Algo Trading)"
-description: "Explore private-purpose bonds and their impact on municipal finance. Discover how algo trading influences bond markets and optimizes finance strategies."
+category: quant_concept
+description: Explore private-purpose bonds and their impact on municipal finance.
+  Discover how algo trading influences bond markets and optimizes finance strategies.
+title: 'Private-Purpose Bonds: Functionality and Impact (Algo Trading)'
 ---
 
 Municipal finance plays a crucial role in the economic development of cities and local governments, enabling them to fund essential public services and infrastructure projects such as schools, transportation systems, and utilities. The healthy functioning of this financial sector ensures that municipalities can provide high-quality services to their residents, fostering economic growth and improving overall quality of life. A key component of municipal finance is the issuance of bonds, which are debt securities used by cities and counties to raise capital. Bonds are essential for large-scale investments that might not otherwise be possible due to budgetary constraints.

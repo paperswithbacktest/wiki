@@ -1,6 +1,8 @@
 ---
-title: "USD Coin: Functionality, Currency Role, and Valuation (Algo Trading)"
-description: "Explore USD Coin's role and benefits as a stable, reliable asset in digital currency trading and algorithmic strategies, ensuring low volatility and high liquidity."
+category: quant_concept
+description: Explore USD Coin's role and benefits as a stable, reliable asset in digital
+  currency trading and algorithmic strategies, ensuring low volatility and high liquidity.
+title: 'USD Coin: Functionality, Currency Role, and Valuation (Algo Trading)'
 ---
 
 The digital currency landscape has experienced a significant transformation with the introduction of stablecoins, designed to mitigate the volatility typically associated with cryptocurrencies like Bitcoin and Ethereum. Amidst a plethora of stablecoin offerings, USD Coin (USDC) has emerged as a pivotal player renowned for its stability and reliability in the crypto market. USDC is a stablecoin fully backed by U.S. dollar assets, aiming to maintain a 1:1 peg with the U.S. dollar, providing a dependable alternative to more volatile digital assets.

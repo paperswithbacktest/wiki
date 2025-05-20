@@ -1,6 +1,8 @@
 ---
-title: "Incremental Cash Flow: Overview and Calculation (Algo Trading)"
-description: "Understand incremental cash flow and its role in financial decisions and algo trading Discover the impact of cash flow analysis on investment strategies"
+category: quant_concept
+description: Understand incremental cash flow and its role in financial decisions
+  and algo trading Discover the impact of cash flow analysis on investment strategies
+title: 'Incremental Cash Flow: Overview and Calculation (Algo Trading)'
 ---
 
 Cash flow analysis and incremental cash flow are fundamental concepts in the field of finance, crucial for making well-informed financial decisions. Cash flow analysis involves examining how cash enters and exits a business over a specified period, providing insights into a company's liquidity and overall financial health. This analytical process is indispensable for managers, investors, and stakeholders who wish to evaluate a company's operational efficiency and ability to generate cash.

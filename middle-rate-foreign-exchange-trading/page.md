@@ -1,6 +1,8 @@
 ---
-title: "Middle Rate in Foreign Exchange Trading (Algo Trading)"
-description: "Explore the significance of middle rate in forex trading and how algorithmic strategies optimize it to enhance trade efficiency minimize costs and maximize profits."
+category: quant_concept
+description: Explore the significance of middle rate in forex trading and how algorithmic
+  strategies optimize it to enhance trade efficiency minimize costs and maximize profits.
+title: Middle Rate in Foreign Exchange Trading (Algo Trading)
 ---
 
 Foreign exchange (FX) trading plays a pivotal role in the global financial markets, serving as a crucial conduit for currency exchange and international trade. This dynamic market is marked by continuous innovation and the adoption of advanced technologies to enhance trading efficiencies. Among the noteworthy advancements in FX trading is the emergence of algorithmic trading strategies that focus on optimizing the middle rate, which acts as a bridge across the bid-ask spread.

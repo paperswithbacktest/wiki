@@ -1,6 +1,8 @@
 ---
-title: "Financial Modeling (Algo Trading)"
-description: "Explore the transformative role of financial modeling and economic forecasting in algorithmic trading Learn how these domains empower modern trading systems"
+category: quant_concept
+description: Explore the transformative role of financial modeling and economic forecasting
+  in algorithmic trading Learn how these domains empower modern trading systems
+title: Financial Modeling (Algo Trading)
 ---
 
 The integration of technology into financial domains, specifically in financial modeling, economic forecasting, and financial analysis, has led to profound transformations in traditional trading methods. At the forefront of this evolution is algorithmic trading, which leverages advanced financial models and economic indicators to automate and optimize the trading process. This article aims to explore how these interconnected fields are collectively empowering modern trading systems.

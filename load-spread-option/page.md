@@ -1,6 +1,9 @@
 ---
-title: "Load Spread Option (Algo Trading)"
-description: "Explore load spread options and algorithmic trading in finance Discover how these tools improve fee management optimize trading strategies and tackle market risks"
+category: trading_strategy
+description: Explore load spread options and algorithmic trading in finance Discover
+  how these tools improve fee management optimize trading strategies and tackle market
+  risks
+title: Load Spread Option (Algo Trading)
 ---
 
 The world of finance is immense and intricate, offering a plethora of instruments and strategies that cater to a diverse range of investors, from retail traders to institutional players. At its core, finance aims to manage risk and optimize returns, making understanding the various available tools an indispensable skill for anyone engaged in the market. In recent years, the integration of load spread options, financial derivatives, and algorithmic trading has become increasingly significant as part of the advancement of contemporary financial markets.

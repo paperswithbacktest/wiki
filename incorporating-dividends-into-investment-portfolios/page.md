@@ -1,6 +1,8 @@
 ---
-title: "Incorporating Dividends into Investment Portfolios (Algo Trading)"
-description: "Incorporate dividends and algorithmic trading into investment portfolios for stable income and optimized trades Discover strategies to boost returns effectively"
+category: trading_strategy
+description: Incorporate dividends and algorithmic trading into investment portfolios
+  for stable income and optimized trades Discover strategies to boost returns effectively
+title: Incorporating Dividends into Investment Portfolios (Algo Trading)
 ---
 
 The world of investment offers a spectrum of opportunities, with dividends and algorithmic trading emerging as popular strategies. Dividend investing is centered around generating regular income through payouts derived from a company's profits, signifying a lucrative method for investors seeking stable returns. This strategy involves selecting companies known for their consistent profit-sharing policies, providing a steady income stream that can form the backbone of a financial portfolio.

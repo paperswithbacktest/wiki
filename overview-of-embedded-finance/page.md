@@ -1,6 +1,8 @@
 ---
-title: "Overview of Embedded Finance (Algo Trading)"
-description: "Explore the synergy of embedded finance and algorithmic trading reshaping fintech through seamless integrations in platforms and innovative trading strategies."
+category: quant_concept
+description: Explore the synergy of embedded finance and algorithmic trading reshaping
+  fintech through seamless integrations in platforms and innovative trading strategies.
+title: Overview of Embedded Finance (Algo Trading)
 ---
 
 In the rapidly evolving world of finance, technology has become a pivotal force, driving innovations such as embedded finance and algorithmic trading. Embedded finance signifies an evolution in the delivery of financial services, transitioning them from standalone entities to seamless integrations within non-financial platforms. This shift enables companies across various sectors to enrich their offerings by embedding financial products directly into their ecosystems, thus enhancing user experience and expanding customer touchpoints. For instance, platforms like Shopify and Uber have leveraged embedded finance to include payment solutions and banking services, respectively, demonstrating its potential to transform business models.

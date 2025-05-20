@@ -1,6 +1,9 @@
 ---
-title: "International Petroleum Investment Company (Algo Trading)"
-description: "Discover how IPIC leverages cutting-edge algorithmic trading to enhance investment strategies and navigate global markets, promoting financial efficiency and growth."
+category: trading_strategy
+description: Discover how IPIC leverages cutting-edge algorithmic trading to enhance
+  investment strategies and navigate global markets, promoting financial efficiency
+  and growth.
+title: International Petroleum Investment Company (Algo Trading)
 ---
 
 The world of investment is continually evolving, with technology playing a significant role in transforming traditional methods. One of the most significant advancements in this arena is algorithmic trading, commonly referred to as algo trading. This method utilizes computer algorithms to automate trading processes, enabling financial firms to execute trades at speeds and efficiencies unattainable by human operators. As a result, algo trading has become a cornerstone of modern financial strategies.

@@ -1,6 +1,8 @@
 ---
-title: "Negative Carry and Positive Carry: Comparison and Examples (Algo Trading)"
-description: "Discover the nuances of positive and negative carry in algo trading strategies. Learn how interest rate differentials impact trading profits and market movements."
+category: trading_strategy
+description: Discover the nuances of positive and negative carry in algo trading strategies.
+  Learn how interest rate differentials impact trading profits and market movements.
+title: 'Negative Carry and Positive Carry: Comparison and Examples (Algo Trading)'
 ---
 
 Carry trading, a well-regarded investment strategy in financial markets, involves borrowing in a currency with a lower interest rate and investing in a currency offering a higher interest rate. The primary aim is to capitalize on the differential in interest rates between the two currencies, generating profits from this discrepancy. This strategy is particularly influential in foreign exchange markets, where it can significantly impact currency valuations due to the large-scale movements of capital based on interest rate expectations.

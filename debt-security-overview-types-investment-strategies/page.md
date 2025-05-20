@@ -1,6 +1,8 @@
 ---
-title: "Debt Security: Overview, Types, and Investment Strategies (Algo Trading)"
-description: "Explore the world of debt securities and algorithmic trading Uncover types investment strategies and potential risks to make informed financial decisions"
+category: trading_strategy
+description: Explore the world of debt securities and algorithmic trading Uncover
+  types investment strategies and potential risks to make informed financial decisions
+title: 'Debt Security: Overview, Types, and Investment Strategies (Algo Trading)'
 ---
 
 In the ever-evolving landscape of finance, understanding the different modes of investment is vital for investors and financial analysts alike. Financial instruments serve as fundamental tools that facilitate a wide array of investment opportunities. Among these instruments, debt securities like bonds and debentures are integral for both corporate and personal investment strategies due to their fixed-income nature. Alongside these traditional investment vehicles, the burgeoning field of algorithmic trading is transforming how trades are executed in financial markets.

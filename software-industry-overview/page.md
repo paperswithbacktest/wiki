@@ -1,6 +1,9 @@
 ---
-title: "Software Industry Overview (Algo Trading)"
-description: "Explore how the software industry's advancements are revolutionizing algorithmic trading in the financial sector by enhancing efficiency and real-time data processing."
+category: quant_concept
+description: Explore how the software industry's advancements are revolutionizing
+  algorithmic trading in the financial sector by enhancing efficiency and real-time
+  data processing.
+title: Software Industry Overview (Algo Trading)
 ---
 
 The software market, a pivotal segment of the broader technology sector, plays a fundamental role in driving innovation and enhancing operational efficiencies across various industries. Valued at trillions of dollars, this market encompasses diverse segments such as system infrastructure, enterprise application software, and custom programming services. The pervasiveness of software solutions is evident in their application across sectors including healthcare, finance, education, and entertainment, subtly revolutionizing how businesses operate and interact with their customers.

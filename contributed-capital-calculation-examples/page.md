@@ -1,6 +1,8 @@
 ---
-title: "Contributed Capital: Calculation and Examples (Algo Trading)"
-description: "Explore contributed capital's pivotal role in algo trading as it influences financial strategies and decisions insightful for traders navigating complex markets."
+category: quant_concept
+description: Explore contributed capital's pivotal role in algo trading as it influences
+  financial strategies and decisions insightful for traders navigating complex markets.
+title: 'Contributed Capital: Calculation and Examples (Algo Trading)'
 ---
 
 Understanding the intricate components of financial calculations is crucial for investors and traders alike. At the heart of these calculations lies the concept of contributed capital, a fundamental component used in evaluating a company's financial health. Contributed capital, often referred to as paid-in capital, is essentially the funds that shareholders invest in exchange for equity. This financial metric provides insight into the financial robustness of a company, potentially influencing investor confidence and market valuation.

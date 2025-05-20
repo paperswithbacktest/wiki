@@ -1,6 +1,8 @@
 ---
-title: "Foreign Exchange Interbank Market and Its Mechanism (Algo Trading)"
-description: "Discover the complex world of the forex interbank market with a focus on the transformative role of algorithmic trading in modern currency trading dynamics."
+category: quant_concept
+description: Discover the complex world of the forex interbank market with a focus
+  on the transformative role of algorithmic trading in modern currency trading dynamics.
+title: Foreign Exchange Interbank Market and Its Mechanism (Algo Trading)
 ---
 
 Currency trading plays a crucial role in today’s financial landscape, acting as a key driver of the global economy. As one of the most dynamic aspects of the financial world, it involves the buying and selling of currencies within the international foreign exchange market, commonly known as the forex market. This article aims to explore the complexities of currency trading within the forex interbank market, emphasizing the significant role and influence of algorithmic trading within this sphere.

@@ -1,6 +1,9 @@
 ---
-title: "Cooling Degree Day and Energy Demand Calculation (Algo Trading)"
-description: "Explore the significance of Cooling Degree Day calculations in predicting energy demand accurately. Learn how integrating CDD with algo trading optimizes energy markets."
+category: quant_concept
+description: Explore the significance of Cooling Degree Day calculations in predicting
+  energy demand accurately. Learn how integrating CDD with algo trading optimizes
+  energy markets.
+title: Cooling Degree Day and Energy Demand Calculation (Algo Trading)
 ---
 
 Accurate prediction of energy demand has become increasingly critical in today's landscape of growing energy needs and environmental concerns. As societies strive for efficient energy consumption and sustainability, the ability to predict how much energy will be required for heating, cooling, and other uses is vital. Cooling Degree Day (CDD) is one of the key metrics developed to estimate energy demand specifically linked to cooling systems. This measure represents the accumulated temperature difference above a predefined base temperature, typically 65°F (18°C), over a certain period, offering valuable insights into air conditioning requirements.

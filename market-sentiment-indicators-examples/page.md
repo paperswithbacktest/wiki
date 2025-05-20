@@ -1,6 +1,8 @@
 ---
-title: "Market Sentiment: Indicators and Examples (Algo Trading)"
-description: "Explore how sentiment indicators impact algo trading by understanding investor emotions and market psychology, helping refine strategies for better trades."
+category: quant_concept
+description: Explore how sentiment indicators impact algo trading by understanding
+  investor emotions and market psychology, helping refine strategies for better trades.
+title: 'Market Sentiment: Indicators and Examples (Algo Trading)'
 ---
 
 Understanding sentiment indicators is crucial for navigating financial markets due to their powerful influence on trading decisions and market movements. Market sentiment encapsulates the collective emotions and attitudes of investors towards specific financial instruments or markets as a whole, which can lead to significant price fluctuations and impact the financial landscape. It embodies the psychology that drives market participants, reflecting optimism or pessimism and consequently shaping market dynamics.

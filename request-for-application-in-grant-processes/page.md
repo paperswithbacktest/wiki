@@ -1,6 +1,9 @@
 ---
-title: "Request for Application in Grant Processes (Algo Trading)"
-description: "Securing grants is vital for funding innovation in algorithmic trading, enabling advanced development without debt, enhancing competitiveness, and fostering tech advancements."
+category: trading_strategy
+description: Securing grants is vital for funding innovation in algorithmic trading,
+  enabling advanced development without debt, enhancing competitiveness, and fostering
+  tech advancements.
+title: Request for Application in Grant Processes (Algo Trading)
 ---
 
 In the rapidly changing financial landscape, securing funding has become imperative, especially in sectors that demand constant innovation, such as algorithmic trading. Algorithmic trading utilizes complex algorithms and high-frequency trading systems to make decisions on the purchasing and selling of securities. This sector relies heavily on cutting-edge technology and research, which requires significant financial investment.

@@ -1,6 +1,8 @@
 ---
-title: "Morningstar Sustainability Rating and Methodology (Algo Trading)"
-description: "Explore the Morningstar Sustainability Rating to understand ESG criteria in investment funds Featuring a five-globe system it's essential for ethical investors"
+category: trading_strategy
+description: Explore the Morningstar Sustainability Rating to understand ESG criteria
+  in investment funds Featuring a five-globe system it's essential for ethical investors
+title: Morningstar Sustainability Rating and Methodology (Algo Trading)
 ---
 
 In a rapidly changing world, sustainability has become a focal point in investment strategies. Environmental, social, and governance (ESG) principles are increasingly critical as investors seek to align their portfolios with sustainable values. ESG factors encompass a broad range of considerations, including climate change impact, social responsibility, and corporate governance practices. By incorporating these factors, investors aim to mitigate long-term risks and identify opportunities that contribute to sustainable development.

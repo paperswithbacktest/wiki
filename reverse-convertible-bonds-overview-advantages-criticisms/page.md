@@ -1,6 +1,9 @@
 ---
-title: "Reverse Convertible Bonds: Overview, Advantages, and Criticisms (Algo Trading)"
-description: "Explore the world of reverse convertible bonds and understand their advantages and pitfalls. Discover how algorithmic trading influences modern bond investment strategies."
+category: quant_concept
+description: Explore the world of reverse convertible bonds and understand their advantages
+  and pitfalls. Discover how algorithmic trading influences modern bond investment
+  strategies.
+title: 'Reverse Convertible Bonds: Overview, Advantages, and Criticisms (Algo Trading)'
 ---
 
 Investment is a multifaceted field characterized by a wide range of instruments tailored to diverse investor preferences and varying risk profiles. Among these instruments, bonds, especially reverse convertible bonds (RCBs), have garnered interest due to their unique structural features and potential investment returns. Bonds are fixed-income securities known for providing predictable returns through interest, which aligns well with conservative investment strategies seeking stable income streams.

@@ -1,6 +1,8 @@
 ---
-title: "Comparison of Mutual Funds and Hedge Funds (Algo Trading)"
-description: "Explore the differences between mutual funds and hedge funds focusing on algo trading Uncover unique investment strategies to optimize portfolio returns"
+category: quant_concept
+description: Explore the differences between mutual funds and hedge funds focusing
+  on algo trading Uncover unique investment strategies to optimize portfolio returns
+title: Comparison of Mutual Funds and Hedge Funds (Algo Trading)
 ---
 
 In the world of investing, maximizing returns is a primary objective for investors, prompting them to explore a variety of investment options. Each investment method offers distinct characteristics and benefits, appealing to investors with different preferences and risk profiles. Among these methods, mutual funds, hedge funds, and algorithmic trading stand out as prominent choices.

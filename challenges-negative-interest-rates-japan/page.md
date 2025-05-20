@@ -1,6 +1,8 @@
 ---
-title: "Challenges of Negative Interest Rates in Japan (Algo Trading)"
-description: "Explore the complexities of Japan's negative interest rate policy and its effects on economic growth and financial markets, including algo trading implications."
+category: quant_concept
+description: Explore the complexities of Japan's negative interest rate policy and
+  its effects on economic growth and financial markets, including algo trading implications.
+title: Challenges of Negative Interest Rates in Japan (Algo Trading)
 ---
 
 Understanding the unique economic strategies of different countries offers valuable insights into global financial dynamics. Japan, a significant player in the world economy, has employed negative interest rates as a core component of its monetary policy. This approach reflects Japan's efforts to stimulate economic activity and counter persistent deflationary pressures. 

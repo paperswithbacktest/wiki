@@ -1,6 +1,10 @@
 ---
-title: "Non-Exempt Employee Status: Advantages, Disadvantages, and Job Types (Algo Trading)"
-description: "Explore the advantages and disadvantages of non-exempt employee status in algorithmic trading Learn about FLSA regulations and job types in this dynamic field"
+category: quant_concept
+description: Explore the advantages and disadvantages of non-exempt employee status
+  in algorithmic trading Learn about FLSA regulations and job types in this dynamic
+  field
+title: 'Non-Exempt Employee Status: Advantages, Disadvantages, and Job Types (Algo
+  Trading)'
 ---
 
 In today's rapidly evolving workplace, both employers and employees must navigate a complex regulatory landscape to understand employee status effectively. This complexity is illustrated by the non-exempt employee status outlined in the Fair Labor Standards Act (FLSA) and the specific requirements faced by non-exempt employees working in algorithmic trading environments. The FLSA sets the foundation for workplace rights by establishing measures for minimum wage and overtime pay, thereby protecting workers who could otherwise be vulnerable to unfair labor practices.

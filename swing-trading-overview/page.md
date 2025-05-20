@@ -1,6 +1,8 @@
 ---
-title: "Swing Trading Overview (Algo Trading)"
-description: "Discover how swing trading strategies, bolstered by algorithmic tools, capitalize on market fluctuations for optimal returns in short to medium timeframes."
+category: trading_strategy
+description: Discover how swing trading strategies, bolstered by algorithmic tools,
+  capitalize on market fluctuations for optimal returns in short to medium timeframes.
+title: Swing Trading Overview (Algo Trading)
 ---
 
 In financial markets, traders aim to exploit market fluctuations through diverse strategies. Swing trading has gained prominence as a favored approach, resonating with both individual and institutional investors due to its adaptability and potential for significant returns. Swing traders seek to capture price movements over the short to medium term, typically holding positions for several days to weeks, thereby allowing them to benefit from market 'swings' or fluctuations.

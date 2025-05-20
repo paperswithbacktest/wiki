@@ -1,6 +1,8 @@
 ---
-title: "Earnings Yield and Calculation Method (Algo Trading)"
-description: "Discover the significance of earnings yield in investment analysis Learn how this financial ratio aids in evaluating potential returns and stock valuation"
+category: quant_concept
+description: Discover the significance of earnings yield in investment analysis Learn
+  how this financial ratio aids in evaluating potential returns and stock valuation
+title: Earnings Yield and Calculation Method (Algo Trading)
 ---
 
 Financial ratio investment calculation serves as a foundational tool for investors analyzing potential investments. Among these ratios, earnings yield is particularly significant. Earnings yield is a measure of the return on an investment relative to the price paid, calculated as the earnings per share (EPS) divided by the current share price. This ratio allows investors to assess how much they earn from each dollar invested in the stock, providing a straightforward metric to evaluate investment opportunities.

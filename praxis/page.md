@@ -1,10 +1,9 @@
 ---
-title: Mastering Machine Learning Praxis for Real World Applications
+category: quant_concept
 description: Machine Learning Praxis applies real world workflows from data collection
   to model deployment using iterative testing and refinement. Discover more inside.
+title: Mastering Machine Learning Praxis for Real World Applications
 ---
-
-
 
 ## Table of Contents
 

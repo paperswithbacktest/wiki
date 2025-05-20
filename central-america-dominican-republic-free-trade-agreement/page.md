@@ -1,6 +1,8 @@
 ---
-title: "Central America-Dominican Republic Free Trade Agreement (Algo Trading)"
-description: "Examine the impact of CAFTA-DR on Central America's economy and explore how it supports the integration of advanced technologies like algorithmic trading."
+category: quant_concept
+description: Examine the impact of CAFTA-DR on Central America's economy and explore
+  how it supports the integration of advanced technologies like algorithmic trading.
+title: Central America-Dominican Republic Free Trade Agreement (Algo Trading)
 ---
 
 The Central America Free Trade Agreement-Dominican Republic (CAFTA-DR) represents a pivotal shift in trade dynamics between the United States and Central American countries. Enacted in 2004, this agreement includes Costa Rica, El Salvador, Guatemala, Honduras, Nicaragua, and the Dominican Republic. CAFTA-DR aimed to eliminate trade barriers, augment regional market access, and promote economic integration. The agreement’s implementation has significantly enhanced trade volume and economic linkages across member countries, encouraging foreign investments and facilitating a more competitive market environment.

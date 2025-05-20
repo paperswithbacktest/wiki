@@ -1,6 +1,11 @@
 ---
-title: "Backtesting Market Replay (Algo Trading)"
-description: Explore the significance of backtesting and market replay in algorithmic trading as methods for enhancing strategy performance. Backtesting simulates strategies using historical data to predict success while market replay allows practicing in real-time scenarios without financial risk. Understand key tools like TradingView and their role in improving trading skills and strategy robustness.
+category: trading_strategy
+description: Explore the significance of backtesting and market replay in algorithmic
+  trading as methods for enhancing strategy performance. Backtesting simulates strategies
+  using historical data to predict success while market replay allows practicing in
+  real-time scenarios without financial risk. Understand key tools like TradingView
+  and their role in improving trading skills and strategy robustness.
+title: Backtesting Market Replay (Algo Trading)
 ---
 
 Algorithmic trading, commonly referred to as algo trading, utilizes computer programs to execute trades in financial markets with the aim of generating profits at speeds and frequencies impossible for human traders. These programs follow a predefined set of rules that can incorporate timing, price, quantity, or other mathematical models. The efficacy of these algorithms is predicated on their ability to process a large volume of market data in real-time to make swift trading decisions.

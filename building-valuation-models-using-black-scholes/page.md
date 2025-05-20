@@ -1,6 +1,8 @@
 ---
-title: "Building Valuation Models Using Black-Scholes (Algo Trading)"
-description: "Explore how the Black-Scholes model revolutionizes financial modeling by providing a systematic approach for valuing options in algo trading environments."
+category: quant_concept
+description: Explore how the Black-Scholes model revolutionizes financial modeling
+  by providing a systematic approach for valuing options in algo trading environments.
+title: Building Valuation Models Using Black-Scholes (Algo Trading)
 ---
 
 The Black-Scholes model is a cornerstone in financial modeling, particularly known for its pivotal role in determining the pricing of options and derivatives. Developed by Fischer Black, Myron Scholes, and Robert Merton in the early 1970s, the model fundamentally transformed the field of financial economics by providing a systematic method to estimate the value of options, which are complex financial instruments used for hedging and speculation. The standard form of the Black-Scholes equation can be expressed as:

@@ -1,6 +1,8 @@
 ---
-title: "Eisler Capital (Algo Trading)"
-description: "Discover the cutting-edge world of algorithmic trading with Eisler Capital leader in leveraging technology and innovation to enhance financial market performance."
+category: quant_concept
+description: Discover the cutting-edge world of algorithmic trading with Eisler Capital
+  leader in leveraging technology and innovation to enhance financial market performance.
+title: Eisler Capital (Algo Trading)
 ---
 
 The modern financial landscape has undergone significant transformation with the advent of algorithmic trading, a technology-driven approach that utilizes complex algorithms and high-speed computer systems to automate financial trading. This evolution has streamlined trading processes, enhanced market efficiency, and allowed for the execution of trades at speeds unimaginable in traditional trading methods. At the forefront of this technological revolution is Eisler Capital, a leading hedge fund renowned for its sophisticated algorithmic trading strategies and technological innovation.

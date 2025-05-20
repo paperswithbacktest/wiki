@@ -1,7 +1,8 @@
 ---
-title: Degridding in Machine Learning for Enhanced Data Accuracy
+category: quant_concept
 description: Degridding boosts accuracy by converting gridded machine learning data
   into flexible non-grid formats for clearer image analysis Discover more inside.
+title: Degridding in Machine Learning for Enhanced Data Accuracy
 ---
 
 ![Image](images/1.png)

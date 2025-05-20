@@ -1,7 +1,8 @@
 ---
-title: Understanding Disparate Treatment In Machine Learning Models
+category: quant_concept
 description: Disparate treatment in machine learning occurs when models use protected
   traits to bias outcomes audit your algorithms for fairness Discover more inside
+title: Understanding Disparate Treatment In Machine Learning Models
 ---
 
 ![Image](images/1.png)

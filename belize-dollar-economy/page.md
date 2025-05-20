@@ -1,6 +1,9 @@
 ---
-title: "Belize Dollar and Economy of Belize (Algo Trading)"
-description: "Explore the Belize Dollar's role in stabilizing Belize's economy and discover opportunities in algorithmic trading with BZD. Understand its fixed USD peg and economic impact."
+category: quant_concept
+description: Explore the Belize Dollar's role in stabilizing Belize's economy and
+  discover opportunities in algorithmic trading with BZD. Understand its fixed USD
+  peg and economic impact.
+title: Belize Dollar and Economy of Belize (Algo Trading)
 ---
 
 The Belize Dollar (BZD) is a crucial component of Belize's economy, providing stability and facilitating trade. As Belize continues to develop, understanding the BZD's role becomes increasingly important for investors, policymakers, and traders. This article explores the economic impact of the Belize Dollar, its role in international trade, and the opportunities for algorithmic trading with BZD. The analysis includes an examination of the factors that influence the value of the BZD, its position within foreign exchange markets, and the exchange rate regime underpinning its stability.

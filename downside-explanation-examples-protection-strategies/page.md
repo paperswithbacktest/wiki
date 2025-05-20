@@ -1,6 +1,8 @@
 ---
-title: "Downside: Explanation, Examples, and Protection Strategies (Algo Trading)"
-description: "Explore effective strategies for managing downside risk in algorithmic trading Learn how to protect investments from market volatility and technical challenges"
+category: trading_strategy
+description: Explore effective strategies for managing downside risk in algorithmic
+  trading Learn how to protect investments from market volatility and technical challenges
+title: 'Downside: Explanation, Examples, and Protection Strategies (Algo Trading)'
 ---
 
 Managing risk is a crucial element in finance, particularly in the high-paced world of algorithmic trading. This article examines the strategies used in downside risk management for algorithmic trading, providing key insights for investors and analysts aiming to protect their investments.

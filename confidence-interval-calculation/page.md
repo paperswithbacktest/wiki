@@ -1,6 +1,9 @@
 ---
-title: "Confidence Interval Calculation (Algo Trading)"
-description: "Confidence intervals in algorithmic trading offer a statistical measure of uncertainty helping traders evaluate the reliability of strategies and optimize performance."
+category: quant_concept
+description: Confidence intervals in algorithmic trading offer a statistical measure
+  of uncertainty helping traders evaluate the reliability of strategies and optimize
+  performance.
+title: Confidence Interval Calculation (Algo Trading)
 ---
 
 In algorithmic trading, statistical analysis is crucial for optimizing trading strategies. One key component of this analysis is the calculation of confidence intervals, which enable traders to evaluate the reliability of their predictions. Confidence intervals provide traders with a quantitative measure of uncertainty, helping them to understand the range within which the true value of an estimated parameter, such as future asset returns, is likely to lie. This statistical tool is essential in the dynamic environment of financial markets, where data is often subject to significant variability.

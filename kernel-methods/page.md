@@ -1,8 +1,9 @@
 ---
-title: Understanding Kernel Methods in Machine Learning Explained
+category: quant_concept
 description: Kernel methods transform data into higher dimensions using the kernel
   trick to improve classification and regression efficiency in real time Discover
   more inside.
+title: Understanding Kernel Methods in Machine Learning Explained
 ---
 
 ![Image](images/1.jpeg)

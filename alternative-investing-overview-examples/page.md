@@ -1,6 +1,8 @@
 ---
-title: "Alternative Investing: Overview and Examples (Algo Trading)"
-description: "Explore alternative investing, algorithmic trading, and modern strategies to enhance portfolio diversity and returns in today's competitive financial markets."
+category: trading_strategy
+description: Explore alternative investing, algorithmic trading, and modern strategies
+  to enhance portfolio diversity and returns in today's competitive financial markets.
+title: 'Alternative Investing: Overview and Examples (Algo Trading)'
 ---
 
 In today's financial landscape, traditional investing strategies are being complemented by innovative techniques. Various financial instruments and technologies are redefining how investors approach portfolio management and returns optimization. This article explores pivotal investment strategies, placing a spotlight on alternative investing, examining numerous financial examples, and demystifying algorithmic trading. These elements are increasingly important as investors seek to diversify portfolios and enhance returns in a competitive market environment.

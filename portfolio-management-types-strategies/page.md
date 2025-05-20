@@ -1,6 +1,12 @@
 ---
-title: "Portfolio Management: Types and Strategies (Algo Trading)"
-description: "Discover the essential synergy between investment strategies, financial planning, portfolio management, and algorithmic trading to enhance your financial management skills. Learn how these components intersect to build a resilient financial plan that aligns with your goals while optimizing returns and managing risks effectively. Explore tailored strategies according to risk profiles and market conditions to achieve long-term financial success."
+category: trading_strategy
+description: Discover the essential synergy between investment strategies, financial
+  planning, portfolio management, and algorithmic trading to enhance your financial
+  management skills. Learn how these components intersect to build a resilient financial
+  plan that aligns with your goals while optimizing returns and managing risks effectively.
+  Explore tailored strategies according to risk profiles and market conditions to
+  achieve long-term financial success.
+title: 'Portfolio Management: Types and Strategies (Algo Trading)'
 ---
 
 The synergy between investment strategies, financial planning, portfolio management, and algorithmic trading is essential to constructing a robust financial plan. Each component contributes distinct yet interrelated benefits that reinforce one another to achieve successful investment outcomes. Understanding and leveraging these elements can significantly enhance an investor's ability to manage wealth effectively.

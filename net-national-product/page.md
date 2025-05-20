@@ -1,6 +1,14 @@
 ---
-title: "Net National Product (Algo Trading)"
-description: "Discover the significance of Net National Product (NNP) as a key economic indicator that captures the net value of goods and services produced by a nation's citizens accounting for asset depreciation. Learn how NNP differs from Gross Domestic Product (GDP) and its importance in evaluating economic sustainability. Explore how NNP is utilized in algorithmic trading to enhance decision-making and portfolio returns. This page provides insights into NNP's calculation its role in assessing economic health and its application in trading strategies in the global economic landscape."
+category: quant_concept
+description: Discover the significance of Net National Product (NNP) as a key economic
+  indicator that captures the net value of goods and services produced by a nation's
+  citizens accounting for asset depreciation. Learn how NNP differs from Gross Domestic
+  Product (GDP) and its importance in evaluating economic sustainability. Explore
+  how NNP is utilized in algorithmic trading to enhance decision-making and portfolio
+  returns. This page provides insights into NNP's calculation its role in assessing
+  economic health and its application in trading strategies in the global economic
+  landscape.
+title: Net National Product (Algo Trading)
 ---
 
 Net National Product (NNP) serves as a crucial economic indicator, providing insights into the value of goods and services produced by a nation's citizens both within and beyond its borders. By accounting for depreciation, NNP offers a nuanced view of a nation’s economic output, distinguishing it from other indicators such as Gross Domestic Product (GDP). Understanding NNP can help economists and traders make informed decisions about economic performance. 

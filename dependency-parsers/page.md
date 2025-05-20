@@ -1,7 +1,8 @@
 ---
-title: Comprehensive Guide to Dependency Parsing in Machine Learning
+category: quant_concept
 description: Dependency parsing explained in this guide reveals sentence structure
   for machine translation accuracy and fine tuning parsers. Discover more inside.
+title: Comprehensive Guide to Dependency Parsing in Machine Learning
 ---
 
 ![Image](images/1.jpeg)

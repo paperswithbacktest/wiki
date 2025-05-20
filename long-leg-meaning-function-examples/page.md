@@ -1,6 +1,8 @@
 ---
-title: "Long Leg: Meaning and Function with Examples (Algo Trading)"
-description: "Explore the role of the long leg in algo trading, focusing on its use in options strategies to optimize returns and manage risks amid market volatility."
+category: quant_concept
+description: Explore the role of the long leg in algo trading, focusing on its use
+  in options strategies to optimize returns and manage risks amid market volatility.
+title: 'Long Leg: Meaning and Function with Examples (Algo Trading)'
 ---
 
 In the rapidly evolving world of finance, algorithmic trading has become a pivotal mechanism for executing trades with precision and speed. Algorithmic trading, often termed as algo trading, leverages computer programs to automate various execution strategies in the market. This approach allows traders to quickly respond to market fluctuations, optimizing the timing of trades, minimizing impact costs, and enhancing the overall efficacy of trading operations.

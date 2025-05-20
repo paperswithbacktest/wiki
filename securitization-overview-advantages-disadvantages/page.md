@@ -1,6 +1,9 @@
 ---
-title: "Securitization: Overview, Advantages, and Disadvantages (Algo Trading)"
-description: "Explore the financial concepts of securitization and algorithmic trading including their benefits and drawbacks to navigate the modern trading landscape effectively."
+category: quant_concept
+description: Explore the financial concepts of securitization and algorithmic trading
+  including their benefits and drawbacks to navigate the modern trading landscape
+  effectively.
+title: 'Securitization: Overview, Advantages, and Disadvantages (Algo Trading)'
 ---
 
 In the ever-evolving financial landscape, two significant trends have emerged: securitization and algorithmic trading. Securitization involves the process of converting illiquid assets, such as mortgages or loans, into tradable securities. This practice facilitates liquidity in financial markets, thereby enabling the redistribution of risk across different market participants. However, securitization is not without its financial drawbacks. It can obscure risk assessment for investors due to a lack of transparency concerning underlying assets. There is also the risk of default on the securitized loans, which could lead to substantial losses. Early loan prepayments can further complicate expected returns, highlighting potential financial instabilities inherent in such structured financial products.

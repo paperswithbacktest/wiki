@@ -1,6 +1,9 @@
 ---
-title: "Level Load: Definition, Benefits, and Examples (Algo Trading)"
-description: "Explore the intricacies of level loads in algo trading, detailing their impact on supply chain optimization and showcasing ways to enhance both efficiency and financial strategies."
+category: quant_concept
+description: Explore the intricacies of level loads in algo trading, detailing their
+  impact on supply chain optimization and showcasing ways to enhance both efficiency
+  and financial strategies.
+title: 'Level Load: Definition, Benefits, and Examples (Algo Trading)'
 ---
 
 Supply chain optimization is essential for businesses aiming to enhance efficiency and achieve cost-effectiveness. At its core, it involves refining the coordination and movement of goods, services, and information from the point of origin to the final consumer. This process not only lowers operational costs but also boosts service quality and enhances product flow.

@@ -1,6 +1,9 @@
 ---
-title: "Adjustment: Meaning and Function (Algo Trading)"
-description: "Explore the vital role of adjustments in algorithmic trading adapting strategies to market changes ensuring optimal performance and risk management for traders."
+category: quant_concept
+description: Explore the vital role of adjustments in algorithmic trading adapting
+  strategies to market changes ensuring optimal performance and risk management for
+  traders.
+title: 'Adjustment: Meaning and Function (Algo Trading)'
 ---
 
 Algorithmic trading is a crucial element of contemporary financial markets, employing sophisticated algorithms to automate and enhance trading decisions. This technological advancement allows for the execution of high-speed trades, leveraging computational power to process large volumes of data and identify favorable trading opportunities. The primary objective of algorithmic trading is to maximize returns while effectively managing risks, a goal that requires constant refinement and optimization of trading strategies.

@@ -1,6 +1,8 @@
 ---
-title: "Fair Market Value and Calculation Methods (Algo Trading)"
-description: "Discover how fair market value and its calculation methods such as market, income, and cost approaches are vital in optimizing algorithmic trading strategies."
+category: quant_concept
+description: Discover how fair market value and its calculation methods such as market,
+  income, and cost approaches are vital in optimizing algorithmic trading strategies.
+title: Fair Market Value and Calculation Methods (Algo Trading)
 ---
 
 Understanding fair market value (FMV) is critical for accurately appraising assets across various fields such as taxation, real estate, and financial reporting. FMV represents the price an asset would command in a competitive and open market, reflecting both the motivation of buyers and sellers and their knowledge of pertinent facts. This article examines several methodologies for determining FMV, utilizing these insights specifically in algorithmic trading.

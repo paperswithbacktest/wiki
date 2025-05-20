@@ -1,6 +1,9 @@
 ---
-title: "Duration of Outstanding Accounts Receivable (Algo Trading)"
-description: "Explore how optimizing accounts receivable durations and leveraging algorithmic trading can enhance financial management. Discover strategies for liquidity and growth."
+category: quant_concept
+description: Explore how optimizing accounts receivable durations and leveraging algorithmic
+  trading can enhance financial management. Discover strategies for liquidity and
+  growth.
+title: Duration of Outstanding Accounts Receivable (Algo Trading)
 ---
 
 In today's fast-paced business environment, efficient financial management is critical to success. This task involves a multifaceted approach, integrating various components such as accounts receivable (AR), financial management, payment duration, and algorithmic trading. These elements, while distinct, are interlinked and play crucial roles in optimizing business operations and ensuring liquidity and growth.

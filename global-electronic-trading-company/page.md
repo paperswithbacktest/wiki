@@ -1,6 +1,8 @@
 ---
-title: "Global Electronic Trading Company (Algo Trading)"
-description: "Discover the pivotal role of GETCO in revolutionizing algorithmic trading and electronic market making through innovation, speed, and strategic expansions."
+category: quant_concept
+description: Discover the pivotal role of GETCO in revolutionizing algorithmic trading
+  and electronic market making through innovation, speed, and strategic expansions.
+title: Global Electronic Trading Company (Algo Trading)
 ---
 
 In the fast-paced world of financial markets, electronic trading has become a cornerstone of modern finance. Among the pioneers in this domain is the Global Electronic Trading Company (GETCO), which has made significant contributions to algorithmic trading and electronic market making.

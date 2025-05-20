@@ -1,6 +1,8 @@
 ---
-title: "Potential Disadvantages of High Liquidity Ratios (Algo Trading)"
-description: "Explore potential drawbacks of high liquidity ratios in algorithmic trading and understand their impact on market behavior and investment strategies."
+category: quant_concept
+description: Explore potential drawbacks of high liquidity ratios in algorithmic trading
+  and understand their impact on market behavior and investment strategies.
+title: Potential Disadvantages of High Liquidity Ratios (Algo Trading)
 ---
 
 Understanding the financial health of a business is essential for its long-term sustainability and growth. One of the primary metrics utilized in this assessment is the liquidity ratio, which evaluates a company's capacity to meet its short-term debt commitments. This metric serves as a vital component in financial analysis, offering insights into a firm's operational stability and financial security. 

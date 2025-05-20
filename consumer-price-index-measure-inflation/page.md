@@ -1,6 +1,8 @@
 ---
-title: "Consumer Price Index as a Measure of Inflation (Algo Trading)"
-description: "Explore the role of the Consumer Price Index in inflation measurement and its integration into algorithmic trading strategies to enhance market predictions."
+category: quant_concept
+description: Explore the role of the Consumer Price Index in inflation measurement
+  and its integration into algorithmic trading strategies to enhance market predictions.
+title: Consumer Price Index as a Measure of Inflation (Algo Trading)
 ---
 
 The Consumer Price Index (CPI) is a vital economic indicator used to measure inflation. It does this by tracking price changes across a basket of goods and services typically purchased by urban consumers. The CPI reflects shifts in the costs of living and purchasing power, making it a fundamental component in assessing economic conditions. Understanding the CPI is crucial for investors and traders because this indicator significantly influences monetary policy decisions by central banks, which in turn affect financial markets.

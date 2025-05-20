@@ -1,6 +1,8 @@
 ---
-title: "Discount Brokers: Functions, Drawbacks, and Pricing (Algo Trading)"
-description: "Explore the benefits and drawbacks of discount brokers and how they impact investment strategy and algo trading efficiency in today's financial markets."
+category: trading_strategy
+description: Explore the benefits and drawbacks of discount brokers and how they impact
+  investment strategy and algo trading efficiency in today's financial markets.
+title: 'Discount Brokers: Functions, Drawbacks, and Pricing (Algo Trading)'
 ---
 
 The investment landscape is rapidly transforming, with emerging technologies and platforms reshaping how individuals engage with financial markets. Central to this transformation are investment platforms that offer a variety of trading options to investors, providing both convenience and expanded access. The rise of discount brokers has been a pivotal development in this sector, as they offer essential brokerage services at a fraction of the cost compared to traditional full-service brokers. Discount brokers focus on cost-effective, no-frills brokerage services that are particularly appealing to self-directed investors who prefer to make their own investment decisions. This shift is significant because it democratizes access to financial markets, allowing a broader audience to participate in investing without the financial barrier of high brokerage fees.

@@ -1,6 +1,8 @@
 ---
-title: "Financial Ratios for Healthcare Stock Analysis (Algo Trading)"
-description: "Analyze healthcare stocks with financial ratios like Profit Margin and ROE to optimize algo trading strategies and enhance investment outcomes."
+category: trading_strategy
+description: Analyze healthcare stocks with financial ratios like Profit Margin and
+  ROE to optimize algo trading strategies and enhance investment outcomes.
+title: Financial Ratios for Healthcare Stock Analysis (Algo Trading)
 ---
 
 Investment analysis is a systematic approach used to assess the viability, stability, and profitability of an investment, typically using tools and techniques from both qualitative and quantitative schools of thought. It plays a crucial role in financial markets by guiding investors to make informed decisions, ultimately aiming to optimize returns while managing risk. In the context of healthcare stocks, investment analysis becomes particularly valuable due to the sector's unique characteristics, such as regulatory scrutiny, technological advancements, and demographic-driven demand.

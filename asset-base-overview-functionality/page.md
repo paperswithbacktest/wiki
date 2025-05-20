@@ -1,6 +1,9 @@
 ---
-title: "Asset Base: Overview and Functionality (Algo Trading)"
-description: "Explore asset base and algorithmic trading's role in modern finance. Learn strategies for asset management to optimize portfolios and improve trading efficiency."
+category: quant_concept
+description: Explore asset base and algorithmic trading's role in modern finance.
+  Learn strategies for asset management to optimize portfolios and improve trading
+  efficiency.
+title: 'Asset Base: Overview and Functionality (Algo Trading)'
 ---
 
 In today's rapidly evolving financial landscape, understanding and managing financial assets is crucial for investors and companies alike. The integration of technology into finance has transformed traditional practices, allowing for more precise and data-driven decision-making processes. This article explores key concepts such as asset management, asset base, and algorithmic trading to provide insights into modern financial practices. 
@@ -165,4 +168,3 @@ Bergstra, J., Bardenet, R., Bengio, Y., & Kégl, B. (2011). 'Algorithms for Hype
 Lopez de Prado, M. (2018). 'Advances in Financial Machine Learning.' Wiley. This comprehensive text discusses modern techniques in financial machine learning, emphasizing their application to create more efficient and effective trading algorithms. Lopez de Prado provides insight into the critical role of machine learning in developing strategies that can adapt to changing market dynamics, a concept integral to contemporary asset management and algorithmic trading.
 
 Aronson, D. (2006). 'Evidence-Based Technical Analysis: Applying the Scientific Method and Statistical Inference to Trading Signals.' Wiley. Aronson's book addresses the application of rigorous scientific methods to evaluate trading signals and technical analysis techniques. By advocating for a data-driven approach, it aligns with the principles of quantitative analysis and risk management covered in the article, underscoring the importance of empirical validation in the development of reliable trading strategies.
-

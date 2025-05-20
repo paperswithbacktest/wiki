@@ -1,6 +1,8 @@
 ---
-title: "Intangible Assets on Balance Sheets (Algo Trading)"
-description: "Explore how intangible assets are reported on balance sheets, their valuation challenges, and their crucial role in data-driven algorithmic trading strategies."
+category: quant_concept
+description: Explore how intangible assets are reported on balance sheets, their valuation
+  challenges, and their crucial role in data-driven algorithmic trading strategies.
+title: Intangible Assets on Balance Sheets (Algo Trading)
 ---
 
 In the rapidly evolving financial landscape, understanding the interplay between balance sheet reporting, intangible assets, and algorithmic trading has become critical. Intangible assets, which include patents, trademarks, copyrights, and goodwill, have become increasingly pivotal to a company's success. These non-physical assets contribute significantly to competitive advantage and innovation, particularly in technology-driven industries where intellectual property can constitute a major portion of a company’s asset base.
@@ -189,4 +191,3 @@ References:
 3. Apple Inc. "Annual Reports".
 4. The Coca-Cola Company. "Annual Reports".
 5. Jorion, P. (Author). "Financial Risk Manager Handbook".
-

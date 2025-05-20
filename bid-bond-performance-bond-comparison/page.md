@@ -1,6 +1,8 @@
 ---
-title: "Bid Bond and Performance Bond Comparison (Algo Trading)"
-description: "Explore the roles of bid and performance bonds in construction contracts and the impacts of algo trading in financial markets to understand their convergence."
+category: quant_concept
+description: Explore the roles of bid and performance bonds in construction contracts
+  and the impacts of algo trading in financial markets to understand their convergence.
+title: Bid Bond and Performance Bond Comparison (Algo Trading)
 ---
 
 Performance bond, construction contracts, bid bond, and algorithmic trading are integral components of the construction and financial industries. A performance bond is a type of surety bond issued by an insurance company or a bank to guarantee satisfactory completion of a project by a contractor. It is commonly used in construction contracts to protect the project owner against a contractor’s failure to complete contractual obligations. The construction contract is a legally binding agreement between a contractor and a project owner that outlines the scope, terms, and conditions for completing a construction project.

@@ -1,6 +1,8 @@
 ---
-title: "Absorption Costing Under GAAP (Algo Trading)"
-description: "Explore absorption costing under GAAP and its integration with algorithmic trading to enhance financial strategy efficiency and market competitiveness."
+category: quant_concept
+description: Explore absorption costing under GAAP and its integration with algorithmic
+  trading to enhance financial strategy efficiency and market competitiveness.
+title: Absorption Costing Under GAAP (Algo Trading)
 ---
 
 This article examines critical aspects of accounting methodologies, specifically focusing on GAAP's absorption costing and the evolving field of algorithmic trading. Understanding these concepts is vital for businesses that aim to optimize operations and refine their financial strategies. By examining how these accounting methods intersect with algorithmic trading, we gain valuable insights into their practical applications and associated benefits.

@@ -1,6 +1,8 @@
 ---
-title: "Treasury Yield Curve Rates (Algo Trading)"
-description: "Discover how treasury yield curves can enhance algo trading strategies Learn to leverage this vital economic indicator to boost algorithmic decision-making"
+category: quant_concept
+description: Discover how treasury yield curves can enhance algo trading strategies
+  Learn to leverage this vital economic indicator to boost algorithmic decision-making
+title: Treasury Yield Curve Rates (Algo Trading)
 ---
 
 In the world of finance, treasury interest rates and the yield curve serve as vital indicators of economic health. The treasury yield curve, often referenced in market analyses, offers a graphical representation of the yields on U.S. Treasury securities across different maturities. This curve is not only a tool for visualizing medium to long-term interest rate expectations but also for assessing the overall direction of the economy. An understanding of its shape—whether normal, inverted, or flat—can yield insights into investors’ expectations and potential shifts in economic conditions.

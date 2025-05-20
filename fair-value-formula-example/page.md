@@ -1,6 +1,14 @@
 ---
-title: "Fair Value: Formula and Example (Algo Trading)"
-description: "Explore the crucial role of accurate valuation in financial markets and its integration into algorithmic trading strategies. This article details valuation formulas and methods like DCF analysis and P/E ratios, showcasing their significance in identifying market opportunities and guiding trading decisions. Delve into the challenges faced due to market volatility and the importance of historical data in forecasting. Gain insights into fair value concepts and the advancements in algorithmic models for high-frequency trading, equipping you with the knowledge to navigate this dynamic field effectively."
+category: quant_concept
+description: Explore the crucial role of accurate valuation in financial markets and
+  its integration into algorithmic trading strategies. This article details valuation
+  formulas and methods like DCF analysis and P/E ratios, showcasing their significance
+  in identifying market opportunities and guiding trading decisions. Delve into the
+  challenges faced due to market volatility and the importance of historical data
+  in forecasting. Gain insights into fair value concepts and the advancements in algorithmic
+  models for high-frequency trading, equipping you with the knowledge to navigate
+  this dynamic field effectively.
+title: 'Fair Value: Formula and Example (Algo Trading)'
 ---
 
 Valuation is a cornerstone of financial markets, providing the basis for making informed investment and trading decisions. It involves determining the intrinsic value of an asset, whether it's a stock, bond, or any other finance-related instrument. Accurate valuation is crucial as it allows investors to identify underpriced or overpriced assets, guiding them towards profitable trading and investment strategies. Misvaluation, on the other hand, can lead to suboptimal portfolio performance and increased financial risk.

@@ -1,6 +1,8 @@
 ---
-title: "Largest Banks in Russia (Algo Trading)"
-description: "Discover how Russia's top banks utilize algorithmic trading to stay competitive. Explore strategies, technological investments, and their economic impacts."
+category: dataset
+description: Discover how Russia's top banks utilize algorithmic trading to stay competitive.
+  Explore strategies, technological investments, and their economic impacts.
+title: Largest Banks in Russia (Algo Trading)
 ---
 
 The Russian banking sector, a cornerstone of the nation's financial system, is marked by its vast network and substantial influence both domestically and internationally. As one of the world's largest economies, Russia's banking sector plays a pivotal role in global finance. The system is characterized by a mix of state-owned behemoths and a competitive field of private financial institutions. Among the key players, Sberbank, VTB Bank, and Gazprombank stand out due to their significant market shares, extensive customer bases, and strategic roles in economic development. These institutions influence not only the national economy but also wield considerable clout in regional and global finance, impacting investment flows, trade, and economic policies.

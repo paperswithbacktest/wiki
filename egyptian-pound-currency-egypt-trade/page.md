@@ -1,6 +1,8 @@
 ---
-title: "Egyptian Pound as Currency of Egypt and Its Trade (Algo Trading)"
-description: "Explore the significance of the Egyptian Pound in Egypt's economy and global trade Discover how algorithmic trading impacts EGP and financial stability"
+category: quant_concept
+description: Explore the significance of the Egyptian Pound in Egypt's economy and
+  global trade Discover how algorithmic trading impacts EGP and financial stability
+title: Egyptian Pound as Currency of Egypt and Its Trade (Algo Trading)
 ---
 
 The Egyptian Pound (EGP) is the official currency of Egypt, serving as a foundational element of the nation's economic landscape. It holds significant importance not only domestically but also in the context of global financial markets. Understanding the dynamics of the EGP is crucial for investors and traders, particularly as Egypt's economy experiences rapid changes and growth. This currency's behavior can provide insights into the broader economic trends and challenges facing the country.

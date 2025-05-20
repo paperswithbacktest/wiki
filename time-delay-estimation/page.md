@@ -1,7 +1,8 @@
 ---
-title: Time Delay Estimation in Signal Processing and Machine Learning
+category: quant_concept
 description: Time Delay Estimation aligns signals from multiple sensors using cross-correlation
   and algorithms for precise source localization. Discover more inside.
+title: Time Delay Estimation in Signal Processing and Machine Learning
 ---
 
 ![Image](images/1.png)

@@ -1,6 +1,9 @@
 ---
-title: "Production Gap Overview and Mechanisms (Algo Trading)"
-description: "Explore the role of algorithmic trading in addressing the fossil fuel production gap and aligning energy policies with climate goals for a sustainable future."
+category: quant_concept
+description: Explore the role of algorithmic trading in addressing the fossil fuel
+  production gap and aligning energy policies with climate goals for a sustainable
+  future.
+title: Production Gap Overview and Mechanisms (Algo Trading)
 ---
 
 As the global community grapples with the intensifying climate crisis, the scrutiny of energy production and policy has become more urgent. A central element of this scrutiny is the 'production gap,' which describes the incongruity between projected fossil fuel production and the levels necessary to meet international climate targets, particularly the goal of limiting global warming to 1.5°C above pre-industrial levels. The production gap highlights the pressing need for realignment in energy policy, as policies that fail to address this gap risk exacerbating climate change and undermining environmental commitments.

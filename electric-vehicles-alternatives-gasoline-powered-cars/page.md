@@ -1,6 +1,8 @@
 ---
-title: "Electric Vehicles as Alternatives to Gasoline-Powered Cars (Algo Trading)"
-description: "Explore the transformative shift from gasoline to electric vehicles and the role of algorithmic trading in energy markets fostering a sustainable future."
+category: quant_concept
+description: Explore the transformative shift from gasoline to electric vehicles and
+  the role of algorithmic trading in energy markets fostering a sustainable future.
+title: Electric Vehicles as Alternatives to Gasoline-Powered Cars (Algo Trading)
 ---
 
 The transportation industry is undergoing a transformative period characterized by the increasing prevalence of electric vehicles (EVs) which are challenging the long-standing dominance of gasoline-powered cars. This shift is largely driven by technological advancements and an increasing emphasis on sustainability, reflecting a broader global movement towards reducing carbon emissions and dependency on fossil fuels. Electric vehicles present a cleaner, more environmentally friendly alternative to traditional internal combustion engines, and their growing adoption marks a significant shift in personal and commercial transportation paradigms.

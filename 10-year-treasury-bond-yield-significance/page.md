@@ -1,6 +1,8 @@
 ---
-title: "10-Year Treasury Bond Yield and Its Significance (Algo Trading)"
-description: "Explore the critical role of the 10-year Treasury bond yield in financial markets and how algorithmic trading leverages it for strategic investment decisions."
+category: quant_concept
+description: Explore the critical role of the 10-year Treasury bond yield in financial
+  markets and how algorithmic trading leverages it for strategic investment decisions.
+title: 10-Year Treasury Bond Yield and Its Significance (Algo Trading)
 ---
 
 The landscape of financial markets is significantly shaped by bond yields, with the 10-year Treasury bond yield holding particular importance. As a pivotal benchmark, the 10-year Treasury yield influences various aspects of financial markets, including interest rates, mortgage rates, and the valuation of equities. Investors, both individual and institutional, closely monitor these yields to gauge market sentiment and make informed decisions.

@@ -1,11 +1,10 @@
 ---
-title: Policy Concepts in Machine Learning and Reinforcement Learning
+category: quant_concept
 description: Machine Learning policy defines agent action rules to optimize rewards
   while balancing exploration and exploitation in reinforcement learning Discover
   more
+title: Policy Concepts in Machine Learning and Reinforcement Learning
 ---
-
-
 
 ## Table of Contents
 

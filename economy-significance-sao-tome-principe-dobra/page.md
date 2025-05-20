@@ -1,6 +1,9 @@
 ---
-title: "Economy and Significance of the São Tomé and Príncipe Dobra (Algo Trading)"
-description: "Explore the role of the São Tomé and Príncipe dobra in global markets as algorithmic trading offers transformative financial opportunities for this island nation."
+category: quant_concept
+description: Explore the role of the São Tomé and Príncipe dobra in global markets
+  as algorithmic trading offers transformative financial opportunities for this island
+  nation.
+title: Economy and Significance of the São Tomé and Príncipe Dobra (Algo Trading)
 ---
 
 São Tomé and Príncipe, an island nation situated off the west coast of Central Africa, adopts the dobra, abbreviated as STD, as its official currency. This small island country has experienced a range of economic challenges and opportunities over the years, stemming from its reliance on agricultural production and the emergence of new industries. Historically, the economy of São Tomé and Príncipe has been largely dependent on a few key agricultural commodities, with cocoa beans serving as a primary export. However, the nation is increasingly looking toward diversification and modernization to bolster economic stability and growth.

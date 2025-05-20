@@ -1,6 +1,9 @@
 ---
-title: "Products Benefiting from Protective Tariffs (Algo Trading)"
-description: "Discover how protective tariffs and algorithmic trading shape global trade dynamics and influence domestic industries, consumer prices, and economic policies."
+category: quant_concept
+description: Discover how protective tariffs and algorithmic trading shape global
+  trade dynamics and influence domestic industries, consumer prices, and economic
+  policies.
+title: Products Benefiting from Protective Tariffs (Algo Trading)
 ---
 
 The global trade landscape is an intricate network of transactions and policies, defined by an array of tariffs, trade barriers, and protective measures. At the heart of this network are protective tariffs and trade protectionism, crucial elements that significantly affect industries and economies across the world. Protective tariffs are duties imposed on imports with the intent of shielding domestic industries from foreign competition. By increasing the cost of imported goods, these tariffs aim to sway consumer preference towards domestically produced alternatives.

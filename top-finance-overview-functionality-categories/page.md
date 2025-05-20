@@ -1,6 +1,8 @@
 ---
-title: "Top Finance: Overview, Functionality, and Categories (Algo Trading)"
-description: "Discover the world of finance with insights into functionality, financial types, and cutting-edge algorithmic trading to navigate complex markets confidently."
+category: quant_concept
+description: Discover the world of finance with insights into functionality, financial
+  types, and cutting-edge algorithmic trading to navigate complex markets confidently.
+title: 'Top Finance: Overview, Functionality, and Categories (Algo Trading)'
 ---
 
 In the rapidly evolving world of finance, understanding the different financial functions, types, and emerging technologies like algorithmic trading is crucial. Financial systems underpin the global economy and involve various core operations such as banking, investments, and savings, each designed to meet specific needs and contribute to economic stability and growth. As these operations continue to digitize, they bring about significant advancements in terms of speed, accessibility, and security.

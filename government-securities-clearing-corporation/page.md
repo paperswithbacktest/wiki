@@ -1,6 +1,9 @@
 ---
-title: "Government Securities Clearing Corporation (Algo Trading)"
-description: "Explore the pivotal role of the Government Securities Clearing Corporation in enhancing trade settlements for government securities amidst the rise of algo trading."
+category: quant_concept
+description: Explore the pivotal role of the Government Securities Clearing Corporation
+  in enhancing trade settlements for government securities amidst the rise of algo
+  trading.
+title: Government Securities Clearing Corporation (Algo Trading)
 ---
 
 Financial markets have witnessed significant evolution over the years, marked by innovations in both trading and clearing processes. Central to this evolution has been the handling and processing of government securities, which are critical instruments for government financing and economic stability. This article aims to explore the concept of financial clearing within the context of government securities, with a particular focus on the pivotal role played by the Government Securities Clearing Corporation (GSCC) and the transformative rise of algorithmic (algo) trading.

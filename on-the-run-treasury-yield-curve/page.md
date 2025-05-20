@@ -1,6 +1,8 @@
 ---
-title: "On-The-Run Treasury Yield Curve (Algo Trading)"
-description: "Explore the integration of the on-the-run Treasury yield curve and algorithmic trading in bond markets to optimize strategies and unlock new opportunities."
+category: quant_concept
+description: Explore the integration of the on-the-run Treasury yield curve and algorithmic
+  trading in bond markets to optimize strategies and unlock new opportunities.
+title: On-The-Run Treasury Yield Curve (Algo Trading)
 ---
 
 The bond market is a complex and dynamic part of the financial system, offering numerous opportunities and insights for investors. One of its fundamental elements is the on-the-run Treasury yield curve, which serves as a crucial instrument for pricing and trading fixed-income securities. This yield curve represents the yields of the most recently issued U.S. Treasury securities relative to their maturities, thus providing the most current market data available. In parallel, algorithmic trading, often referred to as algo trading, has significantly transformed the approach to bond trading by leveraging computational techniques for enhancing both efficiency and accuracy.

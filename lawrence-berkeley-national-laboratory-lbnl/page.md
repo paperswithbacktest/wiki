@@ -1,6 +1,10 @@
 ---
-title: "Lawrence Berkeley National Laboratory (LBNL) (Algo Trading)"
-description: Explore Lawrence Berkeley National Laboratory's cutting-edge research in quantum computing and algorithmic trading, showcasing how their advancements in these fields promise to revolutionize financial markets through efficient and sophisticated data processing strategies.
+category: dataset
+description: Explore Lawrence Berkeley National Laboratory's cutting-edge research
+  in quantum computing and algorithmic trading, showcasing how their advancements
+  in these fields promise to revolutionize financial markets through efficient and
+  sophisticated data processing strategies.
+title: Lawrence Berkeley National Laboratory (LBNL) (Algo Trading)
 ---
 
 Lawrence Berkeley National Laboratory (LBNL), situated in Berkeley, California, is recognized as one of the premier research institutions globally. Founded in 1931, LBNL has consistently contributed to scientific advancements by fostering an interdisciplinary approach across various domains, including quantum computing and advanced materials. The laboratory's commitment to cutting-edge research is underscored by its collaborations with eminent institutions such as the University of California, Berkeley, and the California Institute of Technology (Caltech). These partnerships have facilitated pioneering work in quantum information science, substantially advancing our understanding and capabilities within this field.

@@ -1,6 +1,8 @@
 ---
-title: "Overview of Atomic Wallet (Algo Trading)"
-description: "Atomic Wallet offers a secure platform for managing digital assets with features like atomic swaps and staking ideal for elevating your algo trading strategies."
+category: dataset
+description: Atomic Wallet offers a secure platform for managing digital assets with
+  features like atomic swaps and staking ideal for elevating your algo trading strategies.
+title: Overview of Atomic Wallet (Algo Trading)
 ---
 
 Digital asset management has become an essential component in the rapidly evolving cryptocurrency landscape. As digital currencies continue their rise in popularity, the need for secure and efficient tools to manage these assets has become more apparent. Atomic Wallet is one such solution, offering a comprehensive platform for managing digital assets. This multi-currency digital wallet enables users to store, exchange, and manage a wide variety of cryptocurrencies securely, thus serving a critical role in the digital asset management ecosystem.

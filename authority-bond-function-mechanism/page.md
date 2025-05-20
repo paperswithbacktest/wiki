@@ -1,6 +1,8 @@
 ---
-title: "Authority Bond Function and Mechanism (Algo Trading)"
-description: "Explore the bond market's role in investment and funding strategies and learn about authority bonds and modern algorithmic trading practices in finance."
+category: quant_concept
+description: Explore the bond market's role in investment and funding strategies and
+  learn about authority bonds and modern algorithmic trading practices in finance.
+title: Authority Bond Function and Mechanism (Algo Trading)
 ---
 
 The financial world is abundant with various instruments tailored to satisfy a wide range of investment and funding requirements. Among these, bonds emerge as a fundamental tool through which entities worldwide secure capital. Bonds, essentially loans made by investors to borrowers, play multifaceted roles—from financing critical infrastructure projects like roads and bridges to facilitating expansive corporate strategies for growth and development.

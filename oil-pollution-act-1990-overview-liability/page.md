@@ -1,6 +1,8 @@
 ---
-title: "Oil Pollution Act of 1990: Overview and Liability (Algo Trading)"
-description: "Explore the Oil Pollution Act of 1990's impact on environmental liability and its influence on financial markets through algorithmic trading dynamics."
+category: quant_concept
+description: Explore the Oil Pollution Act of 1990's impact on environmental liability
+  and its influence on financial markets through algorithmic trading dynamics.
+title: 'Oil Pollution Act of 1990: Overview and Liability (Algo Trading)'
 ---
 
 The intersection of environmental legislation and the financial sector presents a unique landscape marked by challenges and innovations. At the forefront of this intersection is the Oil Pollution Act of 1990 (OPA), a pivotal piece of legislation aimed at mitigating the environmental impacts of oil spills. This act emerged in response to the infamous Exxon Valdez oil spill and significantly altered the framework of environmental liability by imposing stringent requirements on oil spill prevention and response measures.

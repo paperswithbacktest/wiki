@@ -1,6 +1,8 @@
 ---
-title: "Regulation 9: Overview and Special Considerations (Algo Trading)"
-description: "Explore the complexities of Regulation 9 in algorithmic trading from compliance challenges to best practices that enhance market efficiency and integrity."
+category: quant_concept
+description: Explore the complexities of Regulation 9 in algorithmic trading from
+  compliance challenges to best practices that enhance market efficiency and integrity.
+title: 'Regulation 9: Overview and Special Considerations (Algo Trading)'
 ---
 
 Algorithmic trading has significantly transformed financial markets by leveraging computer algorithms to execute trades at speeds and scales that are unmanageable by human traders. This evolution has not only enhanced the efficiency of market operations but has also introduced a range of compliance challenges that firms must navigate to mitigate legal risks and ensure fair practice. Compliance with regulations is a fundamental aspect of algorithmic trading, as it prevents legal pitfalls and promotes market integrity.

@@ -1,6 +1,9 @@
 ---
-title: "Outright Option: Meaning and Functionality (Algo Trading)"
-description: "Explore the intricacies of outright options and their function in algo trading Gain insights into options trading strategies and financial derivatives for better market engagement"
+category: quant_concept
+description: Explore the intricacies of outright options and their function in algo
+  trading Gain insights into options trading strategies and financial derivatives
+  for better market engagement
+title: 'Outright Option: Meaning and Functionality (Algo Trading)'
 ---
 
 The landscape of financial trading has evolved tremendously over the years, with outright options, options trading, and financial derivatives playing crucial roles in today’s dynamic markets. Outright options, a fundamental type of derivative, provide investors with significant flexibility by granting the right, but not the obligation, to buy or sell an underlying asset at a predetermined price before a specified expiration date. These options, often considered the cornerstone of more complex financial strategies, allow for precise risk management and speculative opportunities.

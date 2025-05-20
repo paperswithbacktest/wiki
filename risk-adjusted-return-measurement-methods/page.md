@@ -1,6 +1,8 @@
 ---
-title: "Risk-Adjusted Return and Measurement Methods (Algo Trading)"
-description: "Explore the significance of risk-adjusted returns and algorithmic trading in modern finance Essential metrics and strategies for optimal investment performance"
+category: trading_strategy
+description: Explore the significance of risk-adjusted returns and algorithmic trading
+  in modern finance Essential metrics and strategies for optimal investment performance
+title: Risk-Adjusted Return and Measurement Methods (Algo Trading)
 ---
 
 In the fast-paced world of finance, measuring investments accurately is crucial for success. Investors and financial analysts rely on a variety of financial metrics to assess the performance of their investments and to make informed decisions. These metrics provide insights into the risk and potential returns associated with different assets, helping investors to strategically allocate their resources for optimal outcomes.

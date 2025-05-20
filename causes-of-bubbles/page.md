@@ -1,6 +1,8 @@
 ---
-title: "Causes of Bubbles (Algo Trading)"
-description: "Explore the causes of economic bubbles focusing on speculative investing, economic policies, and how algorithmic trading influences market dynamics."
+category: quant_concept
+description: Explore the causes of economic bubbles focusing on speculative investing,
+  economic policies, and how algorithmic trading influences market dynamics.
+title: Causes of Bubbles (Algo Trading)
 ---
 
 Economic bubbles are complex phenomena characterized by rapid escalation in asset prices followed by a swift collapse. These events reflect a situation where asset prices significantly deviate from their intrinsic values, ultimately leading to market corrections and economic disruptions. Historically, bubbles have been triggered and amplified by various elements including speculative investing, market sentiment, and economic policies.

@@ -1,6 +1,12 @@
 ---
-title: "Dark Pools (Algo Trading)"
-description: "Discover the intricate world of stock trading as we delve into the roles of trading platforms, dark pools, and algorithmic trading. Explore how private exchanges facilitate large-scale anonymous trades while advanced algorithms execute transactions using predefined criteria. Gain insights into these components and their impact on market dynamics and investor strategies. Understanding these elements is crucial for appreciating their influence on today's financial landscape."
+category: quant_concept
+description: Discover the intricate world of stock trading as we delve into the roles
+  of trading platforms, dark pools, and algorithmic trading. Explore how private exchanges
+  facilitate large-scale anonymous trades while advanced algorithms execute transactions
+  using predefined criteria. Gain insights into these components and their impact
+  on market dynamics and investor strategies. Understanding these elements is crucial
+  for appreciating their influence on today's financial landscape.
+title: Dark Pools (Algo Trading)
 ---
 
 The stock market represents a complex ecosystem shaped by various entities and technologies, each contributing uniquely to the trading process. Among these, trading platforms, dark pools, and algorithmic (algo) trading are pivotal. Trading platforms provide the necessary interface and tools for traders to engage in the buying and selling of securities efficiently. These platforms offer real-time data, technical analysis tools, and order-execution capabilities that are essential for making informed trading decisions.

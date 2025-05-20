@@ -1,6 +1,9 @@
 ---
-title: "Bitcoin Unlimited (Algo Trading)"
-description: "Explore Bitcoin Unlimited a project focused on blockchain scalability through increased block size and algorithmic trading insights. Learn how these innovations address crypto market challenges."
+category: quant_concept
+description: Explore Bitcoin Unlimited a project focused on blockchain scalability
+  through increased block size and algorithmic trading insights. Learn how these innovations
+  address crypto market challenges.
+title: Bitcoin Unlimited (Algo Trading)
 ---
 
 The cryptocurrency ecosystem has experienced significant growth and transformation, marked by a series of innovations and challenges. As digital currencies become increasingly prominent, addressing scalability and transaction speed remains vital, particularly for Bitcoin and other similar cryptocurrencies. Scalability refers to the capability of a blockchain network to handle a growing number of transactions efficiently, while transaction speed involves the time it takes for transactions to be processed and confirmed on the blockchain. These factors are essential for the widespread adoption and usability of cryptocurrencies in mainstream financial systems.

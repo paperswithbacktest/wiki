@@ -1,6 +1,9 @@
 ---
-title: "Determining Resistance Levels and Target Prices of Stocks (Algo Trading)"
-description: "Explore the complexities of identifying resistance levels and target prices in stock trading using both traditional and algorithmic methods to enhance strategy."
+category: trading_strategy
+description: Explore the complexities of identifying resistance levels and target
+  prices in stock trading using both traditional and algorithmic methods to enhance
+  strategy.
+title: Determining Resistance Levels and Target Prices of Stocks (Algo Trading)
 ---
 
 The stock market operates as a constantly shifting landscape where traders and investors attempt to predict future price movements to make informed decisions. Within this realm, one of the critical aspects of technical analysis is the identification of resistance levels and the setting of target prices. A resistance level represents a price point where an asset is expected to face significant selling pressure, often causing the price to halt its upward trajectory or reverse direction. Understanding these levels can be crucial for traders as they strategize entry and exit points for their trades.

@@ -1,7 +1,8 @@
 ---
-title: Enhancing Monocular Depth Estimation with ViP-DeepLab
+category: quant_concept
 description: Monocular depth estimation estimates distances from a single camera using
   ViP-DeepLab vision permutation to create accurate depth maps Discover more inside
+title: Enhancing Monocular Depth Estimation with ViP-DeepLab
 ---
 
 ![Image](images/1.png)

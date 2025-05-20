@@ -1,6 +1,8 @@
 ---
-title: "Deposit Insurance Fund Overview and Functionality (Algo Trading)"
-description: "Explore the role of the Deposit Insurance Fund in protecting depositor assets and enhancing confidence in banking amid the rise of algorithmic trading."
+category: quant_concept
+description: Explore the role of the Deposit Insurance Fund in protecting depositor
+  assets and enhancing confidence in banking amid the rise of algorithmic trading.
+title: Deposit Insurance Fund Overview and Functionality (Algo Trading)
 ---
 
 In today's dynamic financial landscape, safeguarding investments and savings holds paramount importance for individuals and institutions alike. The stability of the global financial system relies heavily on mechanisms that protect depositor interests and maintain confidence in banking institutions. One of the critical components ensuring this stability is the Deposit Insurance Fund (DIF), which plays a pivotal role in fostering trust among depositors.

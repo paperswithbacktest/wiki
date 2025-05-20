@@ -1,6 +1,8 @@
 ---
-title: "Lump of Labor Fallacy (Algo Trading)"
-description: "Explore the impact of the lump of labor fallacy on job markets and the role of algorithmic trading in shaping the global economy and labor dynamics."
+category: quant_concept
+description: Explore the impact of the lump of labor fallacy on job markets and the
+  role of algorithmic trading in shaping the global economy and labor dynamics.
+title: Lump of Labor Fallacy (Algo Trading)
 ---
 
 The global economy is in a continual state of transformation, driven by a myriad of factors, including shifts in the labor market, technological progress, and evolving economic theories. This article investigates the interplay between labor market employment theory, economic fallacies, and the influence of algorithmic trading. These elements are critical for understanding the complex dynamics of contemporary economies and assessing the impacts of labor policies and technological innovations. 

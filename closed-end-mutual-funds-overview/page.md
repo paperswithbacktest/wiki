@@ -1,6 +1,8 @@
 ---
-title: "Closed-End Mutual Funds Overview (Algo Trading)"
-description: "Explore the world of closed-end mutual funds and algorithmic trading, understanding their unique features, advantages, and the evolving landscape of investments."
+category: quant_concept
+description: Explore the world of closed-end mutual funds and algorithmic trading,
+  understanding their unique features, advantages, and the evolving landscape of investments.
+title: Closed-End Mutual Funds Overview (Algo Trading)
 ---
 
 Investing in today's diverse financial landscape requires navigating a multitude of options designed to optimize returns while managing risks. Among the myriad of investment vehicles, mutual funds, closed-end funds, and algorithmic trading stand out as significant opportunities for investors seeking to achieve their financial goals. Each of these options offers distinct characteristics, advantages, and potential drawbacks that are crucial for investors to understand for effective portfolio management.

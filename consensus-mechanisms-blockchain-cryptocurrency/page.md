@@ -1,6 +1,9 @@
 ---
-title: "Consensus Mechanisms in Blockchain and Cryptocurrency (Algo Trading)"
-description: "Explore blockchain consensus mechanisms and cryptocurrency algorithmic trading to understand their impact on transaction security and efficiency in the market."
+category: quant_concept
+description: Explore blockchain consensus mechanisms and cryptocurrency algorithmic
+  trading to understand their impact on transaction security and efficiency in the
+  market.
+title: Consensus Mechanisms in Blockchain and Cryptocurrency (Algo Trading)
 ---
 
 In the rapidly evolving world of cryptocurrencies, understanding the underlying technologies is paramount for success in the market. One of the foundational elements of these technologies is the blockchain consensus mechanism. These mechanisms are pivotal in ensuring that digital currencies function securely and efficiently. They provide a means for the distributed network of nodes to agree on the validity of transactions, thereby maintaining the integrity of the blockchain without the need for a central authority. Various types of consensus mechanisms, such as Proof of Work and Proof of Stake, each offer unique advantages and challenges, influencing factors like transaction speed, security, and energy consumption.

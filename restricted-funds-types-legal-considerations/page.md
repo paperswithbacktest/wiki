@@ -1,6 +1,9 @@
 ---
-title: "Restricted Funds: Types and Legal Considerations (Algo Trading)"
-description: "Explore the interplay between restricted funds and algorithmic trading in financial markets Understand legal intricacies and regulatory challenges for fund management"
+category: quant_concept
+description: Explore the interplay between restricted funds and algorithmic trading
+  in financial markets Understand legal intricacies and regulatory challenges for
+  fund management
+title: 'Restricted Funds: Types and Legal Considerations (Algo Trading)'
 ---
 
 The financial markets are complex systems heavily influenced by regulations and legal mandates, particularly regarding fund management and algorithmic trading. Amidst this landscape, restricted funds serve as an essential financial instrument, guaranteeing that donor contributions are dedicated solely to defined objectives. These funds are pivotal in environments such as nonprofit organizations, educational institutions, and insurance companies, where donor intent is paramount.

@@ -1,7 +1,8 @@
 ---
-title: Understanding Classification Models in Machine Learning
+category: quant_concept
 description: Classification models in machine learning sort data into categories using
   algorithms metrics and techniques to improve accuracy Discover more inside
+title: Understanding Classification Models in Machine Learning
 ---
 
 ![Image](images/1.png)

@@ -1,6 +1,8 @@
 ---
-title: "Applications of Coefficient of Variation (Algo Trading)"
-description: "Discover how the Coefficient of Variation helps algorithmic traders assess risk and optimize portfolios by providing insights into financial asset variability."
+category: quant_concept
+description: Discover how the Coefficient of Variation helps algorithmic traders assess
+  risk and optimize portfolios by providing insights into financial asset variability.
+title: Applications of Coefficient of Variation (Algo Trading)
 ---
 
 In algorithmic trading, understanding statistical metrics is essential for success. This article focuses on the Coefficient of Variation (COV) and its application in statistical analysis and algorithmic trading. The COV is a critical measure that aids traders and analysts in quantifying risk and comparing it across various financial instruments. As financial markets become more complex, the ability to assess risk effectively is paramount.

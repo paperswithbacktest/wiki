@@ -1,6 +1,12 @@
 ---
-title: "Gaussian probability distributions (Algo Trading)"
-description: Explore the foundational role of Gaussian probability distributions in algorithmic trading, highlighting their significance in modeling asset returns and price variations. Understand how Gaussian models, characterized by the bell-shaped normal distribution curve, assist in market trend analysis and risk management. Despite their advantages, these models have limitations due to market anomalies, requiring traders to complement them with additional statistical tools.
+category: quant_concept
+description: Explore the foundational role of Gaussian probability distributions in
+  algorithmic trading, highlighting their significance in modeling asset returns and
+  price variations. Understand how Gaussian models, characterized by the bell-shaped
+  normal distribution curve, assist in market trend analysis and risk management.
+  Despite their advantages, these models have limitations due to market anomalies,
+  requiring traders to complement them with additional statistical tools.
+title: Gaussian probability distributions (Algo Trading)
 ---
 
 Understanding statistical models is crucial for algorithmic trading success. One of the most significant statistical tools used in financial markets is the Gaussian probability distribution, also known as the normal distribution. Characterized by its symmetric bell curve, the Gaussian distribution is foundational in representing real-world continuous data, such as asset returns and price variations, within the scope of financial systems. The prevalence of this distribution arises from the Central Limit Theorem, which states that the sum of a large number of independent and identically distributed random variables approximates a normal distribution, regardless of the original distribution's shape.

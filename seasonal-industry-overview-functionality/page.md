@@ -1,6 +1,9 @@
 ---
-title: "Seasonal Industry: Overview and Functionality (Algo Trading)"
-description: "Explore seasonal industries and trading strategies that capitalize on predictable patterns in business activities and financial markets driven by time of year."
+category: quant_concept
+description: Explore seasonal industries and trading strategies that capitalize on
+  predictable patterns in business activities and financial markets driven by time
+  of year.
+title: 'Seasonal Industry: Overview and Functionality (Algo Trading)'
 ---
 
 A seasonal industry is one in which business activities significantly fluctuate according to the time of year, typically driven by climatic changes, holidays, or consumer behavior. The impact of these fluctuations is substantial, affecting production schedules, cash flow management, inventory levels, staffing, and marketing strategies. For instance, a ski resort experiences peak operations in winter due to favorable snow conditions, while agricultural businesses may hinge on planting and harvest seasons, significantly impacting their operational timelines and financial performance.

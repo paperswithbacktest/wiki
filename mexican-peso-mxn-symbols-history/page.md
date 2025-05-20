@@ -1,6 +1,8 @@
 ---
-title: "Mexican Peso (MXN): Symbols and History (Algo Trading)"
-description: "Explore the evolution of the Mexican Peso MXN from its historical roots to its current role in algorithmic trading and global financial markets."
+category: quant_concept
+description: Explore the evolution of the Mexican Peso MXN from its historical roots
+  to its current role in algorithmic trading and global financial markets.
+title: 'Mexican Peso (MXN): Symbols and History (Algo Trading)'
 ---
 
 The Mexican Peso (MXN) is a fundamental component of the global economic landscape, serving as the official currency of Mexico and playing a pivotal role in international trade and finance. Renowned for its liquidity, the Peso ranks as the 15th most traded currency in the world, establishing itself as a prominent symbol of emerging market economies. Its significance is amplified by Mexico's robust economic collaborations, notably through agreements such as the North American Free Trade Agreement (NAFTA) and its successor, the United States-Mexico-Canada Agreement (USMCA), which underpin the Peso's utility in facilitating cross-border transactions.

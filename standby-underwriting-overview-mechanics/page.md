@@ -1,6 +1,9 @@
 ---
-title: "Standby Underwriting: Overview and Mechanics (Algo Trading)"
-description: "Explore the essentials of standby underwriting and algo trading in the financial markets Understand how they impact IPOs market efficiency and risk management strategies"
+category: quant_concept
+description: Explore the essentials of standby underwriting and algo trading in the
+  financial markets Understand how they impact IPOs market efficiency and risk management
+  strategies
+title: 'Standby Underwriting: Overview and Mechanics (Algo Trading)'
 ---
 
 In today's dynamic financial markets, understanding various underwriting processes is crucial for investors and financial professionals. Standby underwriting, financial guarantees, and algorithmic trading (algo trading) play significant roles in shaping investment strategies and market dynamics. These elements together influence how companies raise capital, how risks are managed, and how trades are executed efficiently.

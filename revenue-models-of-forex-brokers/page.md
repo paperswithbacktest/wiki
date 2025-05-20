@@ -1,6 +1,12 @@
 ---
-title: "Revenue Models of Forex Brokers (Algo Trading)"
-description: "Explore how forex brokers generate revenue in the world's largest financial market and the role of algorithmic trading. Learn about different revenue models such as spreads, commissions, and fees, and understand how algorithmic trading, with its rapid and precise execution, impacts market dynamics and trading strategies. Familiarize yourself with how these elements contribute to efficient trading and help traders maximize their potential in the forex landscape."
+category: quant_concept
+description: Explore how forex brokers generate revenue in the world's largest financial
+  market and the role of algorithmic trading. Learn about different revenue models
+  such as spreads, commissions, and fees, and understand how algorithmic trading,
+  with its rapid and precise execution, impacts market dynamics and trading strategies.
+  Familiarize yourself with how these elements contribute to efficient trading and
+  help traders maximize their potential in the forex landscape.
+title: Revenue Models of Forex Brokers (Algo Trading)
 ---
 
 The global forex market is a complex and ever-evolving ecosystem where currencies are exchanged around the clock. Every day, trillions of dollars are traded, making it the largest financial market worldwide. Forex brokers are pivotal to this process, bridging the gap between currency traders and the market by providing platforms, tools, and resources necessary for trading activities. These brokers play an essential role in ensuring liquidity, which allows trades to be executed with minimal delays—a critical component for the fluid functioning of the forex market.

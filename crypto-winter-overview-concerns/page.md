@@ -1,6 +1,8 @@
 ---
-title: "Crypto Winter: Overview and Concerns (Algo Trading)"
-description: "Discover the dynamics of crypto winter and the role of algorithmic trading in navigating market downturns to mitigate losses and adapt to volatility."
+category: quant_concept
+description: Discover the dynamics of crypto winter and the role of algorithmic trading
+  in navigating market downturns to mitigate losses and adapt to volatility.
+title: 'Crypto Winter: Overview and Concerns (Algo Trading)'
 ---
 
 Cryptocurrency markets are infamous for their extreme volatility, characterized by abrupt and significant fluctuations in the value of digital assets. These fluctuations can be compared to waves of intense heat and cold, resembling the unpredictable ebb and flow of market forces. Among these fluctuations, a 'crypto winter' represents a particularly frigid period, during which cryptocurrencies experience substantial price declines and reduced market activity. Such periods can be challenging for investors, as the value erosion often leads to pessimism and trepidation within the market.

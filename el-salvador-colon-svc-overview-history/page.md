@@ -1,6 +1,9 @@
 ---
-title: "El Salvador Colón (SVC): Overview and History (Algo Trading)"
-description: "Discover the compelling history of El Salvador's currency transition from the Colón to the U.S. dollar and explore the impact of algorithmic trading innovations."
+category: quant_concept
+description: Discover the compelling history of El Salvador's currency transition
+  from the Colón to the U.S. dollar and explore the impact of algorithmic trading
+  innovations.
+title: 'El Salvador Colón (SVC): Overview and History (Algo Trading)'
 ---
 
 The intriguing history of El Salvador's currency, the El Salvador Colón (SVC), presents a story of economic evolution that is instrumental in understanding the nation's development. The El Salvador Colón, which served as the country's official currency until 2001, represents a significant period in the nation's economic history before the pivotal shift to the U.S. dollar. This transition, which occurred at the onset of the 21st century, underscores vital economic changes in the region, prompted by various economic challenges and policy decisions.

@@ -1,6 +1,8 @@
 ---
-title: "Bag Holder and Psychological Analysis (Algo Trading)"
-description: "Explore investor psychology in stock market dynamics focusing on the 'bag holder' behavior and how algorithmic trading can mitigate emotional biases."
+category: quant_concept
+description: Explore investor psychology in stock market dynamics focusing on the
+  'bag holder' behavior and how algorithmic trading can mitigate emotional biases.
+title: Bag Holder and Psychological Analysis (Algo Trading)
 ---
 
 Understanding the dynamics of investor psychology is crucial in the stock market. This encompasses how emotions and cognitive biases influence decision-making processes, often leading investors away from rationality. Among the notable behaviors shaped by these psychological influences is that of the 'bag holder'. This term describes investors who hold onto depreciating stocks, often ignoring critical market signals that suggest selling, due to the hope of a price recovery. Such behavior often results in extended holding periods and potentially significant financial losses.

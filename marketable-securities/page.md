@@ -1,6 +1,9 @@
 ---
-title: "Marketable Securities (Algo Trading)"
-description: "Explore the dynamic world of liquid assets and algorithmic trading in modern finance Uncover sophisticated strategies that optimize investment portfolios for maximum flexibility and returns."
+category: quant_concept
+description: Explore the dynamic world of liquid assets and algorithmic trading in
+  modern finance Uncover sophisticated strategies that optimize investment portfolios
+  for maximum flexibility and returns.
+title: Marketable Securities (Algo Trading)
 ---
 
 The financial landscape is evolving rapidly, introducing investors to a wide range of financial instruments and strategies. As the complexity of markets increases, so does the necessity for more sophisticated tools and approaches to investing. Among these, liquid assets and algorithmic trading have become increasingly integral components of modern investment strategies.

@@ -1,6 +1,12 @@
 ---
-title: "Accounts Receivable Overview and Applications (Algo Trading)"
-description: "Discover the essential role of Accounts Receivable (AR) in financial health and cash flow management, and explore how algorithmic trading revolutionizes AR processes for enhanced optimization and predictive capabilities. Learn how integrating algorithmic models with AR can improve liquidity and strategic decision-making, providing businesses with a competitive edge in today's fast-evolving financial landscape."
+category: quant_concept
+description: Discover the essential role of Accounts Receivable (AR) in financial
+  health and cash flow management, and explore how algorithmic trading revolutionizes
+  AR processes for enhanced optimization and predictive capabilities. Learn how integrating
+  algorithmic models with AR can improve liquidity and strategic decision-making,
+  providing businesses with a competitive edge in today's fast-evolving financial
+  landscape.
+title: Accounts Receivable Overview and Applications (Algo Trading)
 ---
 
 Accounts Receivable (AR) plays a crucial role in maintaining a company's cash flow by representing outstanding invoices or money owed to the company by its clients. It is a fundamental aspect of any business's financial health, directly impacting liquidity and financial operations. Efficient management of AR ensures a steady inflow of cash, which is indispensable for handling day-to-day business expenses, investing in growth opportunities, and maintaining overall financial stability.

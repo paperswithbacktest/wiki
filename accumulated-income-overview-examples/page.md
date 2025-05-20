@@ -1,6 +1,9 @@
 ---
-title: "Accumulated Income Overview and Examples (Algo Trading)"
-description: "Discover how accumulated income and algo trading can boost financial growth. Learn strategies to optimize retained earnings and enhance income with algorithmic methods."
+category: quant_concept
+description: Discover how accumulated income and algo trading can boost financial
+  growth. Learn strategies to optimize retained earnings and enhance income with algorithmic
+  methods.
+title: Accumulated Income Overview and Examples (Algo Trading)
 ---
 
 In finance, understanding various income streams and how they accumulate is critical for investors and businesses. Accumulated income, also known as retained earnings, plays a significant role in financial planning and growth strategies. This article examines the concept of accumulated income, methods for accumulating income, and how algorithmic trading can be leveraged to enhance income generation.

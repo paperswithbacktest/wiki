@@ -1,6 +1,9 @@
 ---
-title: "Non-Compete Agreement: Purpose and Requirements (Algo Trading)"
-description: "Protect your business in the competitive algorithmic trading industry with non-compete agreements. Learn about their purpose, key components, and legal considerations."
+category: quant_concept
+description: Protect your business in the competitive algorithmic trading industry
+  with non-compete agreements. Learn about their purpose, key components, and legal
+  considerations.
+title: 'Non-Compete Agreement: Purpose and Requirements (Algo Trading)'
 ---
 
 In an increasingly competitive market landscape, businesses need to safeguard their trade secrets and proprietary information. One method companies employ to shield themselves from unfair competition following an employee's departure involves the use of non-compete contracts. These agreements are particularly prevalent in high-stakes industries like algorithmic trading, where competitive advantage is rooted deeply in proprietary technologies and sophisticated trading algorithms.

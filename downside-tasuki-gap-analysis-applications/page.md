@@ -1,6 +1,8 @@
 ---
-title: "Downside Tasuki Gap Analysis and Applications (Algo Trading)"
-description: "Explore the Downside Tasuki Gap candlestick pattern for insights in bear market trends and learn its applications for improving algorithmic trading strategies."
+category: trading_strategy
+description: Explore the Downside Tasuki Gap candlestick pattern for insights in bear
+  market trends and learn its applications for improving algorithmic trading strategies.
+title: Downside Tasuki Gap Analysis and Applications (Algo Trading)
 ---
 
 Candlestick patterns are fundamental tools in technical analysis, providing insights into possible future market trends based on historical price data. Among these patterns, the Downside Tasuki Gap is recognized as a bearish continuation pattern that traders frequently employ to predict the continuation of a downtrend. It is characterized by a specific sequence of candlesticks that depict the battle between bearish and bullish market forces, ultimately suggesting a potential resumption of a declining trend.

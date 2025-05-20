@@ -1,6 +1,8 @@
 ---
-title: "Natural Capital: Definition and Function (Algo Trading)"
-description: "Explore the significance of natural capital and its integration in economic systems through algorithmic trading for sustainability and environmental balance."
+category: quant_concept
+description: Explore the significance of natural capital and its integration in economic
+  systems through algorithmic trading for sustainability and environmental balance.
+title: 'Natural Capital: Definition and Function (Algo Trading)'
 ---
 
 The increasing focus on sustainability and environmental protection has made concepts like natural capital crucial in economic and financial discussions. Natural capital encompasses the stock of natural resources, including water, oil, and other commodities, that entities such as companies or governments possess. These resources are fundamental in sustaining economic activities and are becoming a priority in economic planning due to their finite nature and essential role in maintaining environmental health.

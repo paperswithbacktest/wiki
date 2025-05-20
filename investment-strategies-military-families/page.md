@@ -1,6 +1,9 @@
 ---
-title: "Investment Strategies for Military Families (Algo Trading)"
-description: "Discover tailored investment strategies for military families including diversification and algorithmic trading to ensure financial stability amid a unique lifestyle."
+category: trading_strategy
+description: Discover tailored investment strategies for military families including
+  diversification and algorithmic trading to ensure financial stability amid a unique
+  lifestyle.
+title: Investment Strategies for Military Families (Algo Trading)
 ---
 
 Military families encounter a distinctive set of financial challenges and opportunities, primarily due to the inherent nature of military life. The transient lifestyle characterized by frequent relocations, deployments, and an irregular income stream necessitates a well-structured approach to financial planning. This unique environment requires a proactive strategy to ensure financial stability and security. 

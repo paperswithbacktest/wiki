@@ -1,6 +1,9 @@
 ---
-title: "Forex Spot Rate (Algo Trading)"
-description: "Explore the dynamic world of forex spot rate trading and algorithmic advancements Learn how real-time exchange rates and AI are transforming global currency markets"
+category: quant_concept
+description: Explore the dynamic world of forex spot rate trading and algorithmic
+  advancements Learn how real-time exchange rates and AI are transforming global currency
+  markets
+title: Forex Spot Rate (Algo Trading)
 ---
 
 Currency trading, commonly referred to as forex, acts as a critical component of the global financial landscape. This system allows for the exchange of currencies necessary for international trade and investment activities. Every day, the forex market sees a staggering volume, with trillions of dollars being traded. Its immense scale and high liquidity are largely attributable to spot rates, which are the current exchange rates that enable immediate currency transactions.
@@ -139,4 +142,3 @@ Papers with Backtest: Algorithmic Trading and Spot Rate Dynamics explores the ap
 Bergstra et al. (2011): Algorithms for Hyper-Parameter Optimization discusses the optimization of algorithm parameters, a critical aspect of enhancing the performance of algorithmic trading systems. The paper introduces techniques like grid search and random search, comparing their efficiency in optimizing models used for predictive analytics in forex trading.
 
 Lopez de Prado (2018): Advances in Financial Machine Learning provides a detailed examination of the application of machine learning techniques to financial markets. The book covers topics such as fractional differentiation, feature engineering, and backtesting, offering valuable insights into developing robust trading models that leverage real-time data for forex and other financial markets.
-

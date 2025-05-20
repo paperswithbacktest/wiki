@@ -1,6 +1,9 @@
 ---
-title: "Methods to Access Historical Stock Prices (Algo Trading)"
-description: "Explore methods to access historical stock prices for algorithmic trading to enhance investment decisions by utilizing data to analyze market trends and predict future movements."
+category: dataset
+description: Explore methods to access historical stock prices for algorithmic trading
+  to enhance investment decisions by utilizing data to analyze market trends and predict
+  future movements.
+title: Methods to Access Historical Stock Prices (Algo Trading)
 ---
 
 The stock market is a continuously evolving entity, integral to the functioning of the global economy. It acts as a barometer for economic health, reflecting the ever-changing dynamics of the world’s financial environment. For investors and traders aiming to make sound decisions, understanding historical stock prices is an indispensable requirement. Historical prices provide a structured record of a stock's past performance, offering valuable insights into price fluctuations, economic events, and market sentiment that have influenced the market over time.

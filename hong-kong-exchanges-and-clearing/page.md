@@ -1,6 +1,8 @@
 ---
-title: "Hong Kong Exchanges and Clearing (Algo Trading)"
-description: "Explore the vital role of algorithmic trading at Hong Kong's HKEX, enhancing market efficiency and liquidity while driving global trading innovations."
+category: quant_concept
+description: Explore the vital role of algorithmic trading at Hong Kong's HKEX, enhancing
+  market efficiency and liquidity while driving global trading innovations.
+title: Hong Kong Exchanges and Clearing (Algo Trading)
 ---
 
 The Hong Kong Stock Exchange (HKEX), established in 1891, is one of the largest and most significant financial markets worldwide, playing a pivotal role in the global economy. Serving as a crucial bridge between mainland China and international investors, HKEX facilitates capital flow and investment opportunities in the Asia-Pacific region and beyond. The exchange offers a comprehensive platform for trading a diverse array of financial products, including equities, bonds, and derivatives, attracting participants from across the globe.

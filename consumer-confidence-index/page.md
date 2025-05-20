@@ -1,6 +1,14 @@
 ---
-title: "Consumer Confidence Index (Algo Trading)"
-description: "The Consumer Confidence Index (CCI) is a key economic indicator reflecting consumer sentiment about financial conditions and the economy's stability. This index helps forecast economic trends, as consumer spending forms a large part of GDP in developed nations. Algorithmic trading utilizes automated strategies, benefiting from improved precision by integrating CCI data to predict market movements. This synergy aids in crafting efficient trading models and understanding economic phases. Explore how the CCI informs algorithmic trading and its role in economic analysis, with insights into historical impacts and strategic enhancements for future growth."
+category: quant_concept
+description: The Consumer Confidence Index (CCI) is a key economic indicator reflecting
+  consumer sentiment about financial conditions and the economy's stability. This
+  index helps forecast economic trends, as consumer spending forms a large part of
+  GDP in developed nations. Algorithmic trading utilizes automated strategies, benefiting
+  from improved precision by integrating CCI data to predict market movements. This
+  synergy aids in crafting efficient trading models and understanding economic phases.
+  Explore how the CCI informs algorithmic trading and its role in economic analysis,
+  with insights into historical impacts and strategic enhancements for future growth.
+title: Consumer Confidence Index (Algo Trading)
 ---
 
 The Consumer Confidence Index (CCI) serves as a vital economic indicator that assesses the overall sentiment of consumers regarding the financial health and stability of an economy. It reflects how optimistic or pessimistic consumers feel about their expected financial situation, and by extension, their propensity to spend. As consumer spending represents a significant portion of economic activity—typically accounting for around 60% to 70% of GDP in developed countries—the CCI becomes instrumental in forecasting economic trends. Changes in consumer confidence can trigger shifts in the business cycle, influencing contracting or expanding economic phases.

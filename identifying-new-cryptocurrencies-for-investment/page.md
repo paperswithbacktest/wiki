@@ -1,6 +1,14 @@
 ---
-title: "Identifying New Cryptocurrencies for Investment (Algo Trading)"
-description: "Discover the evolving landscape of cryptocurrency investment through exploring innovative technologies like DeFi and NFTs which are reshaping asset management and financial transactions. This guide offers insights into identifying promising new cryptocurrencies utilizing algorithmic trading strategies to maximize returns in the dynamic crypto market. Aimed at equipping investors with essential tools and knowledge to navigate market complexities and capitalize on emerging trends it emphasizes the importance of technological understanding and strategic diversification in crafting a resilient and profitable investment portfolio."
+category: trading_strategy
+description: Discover the evolving landscape of cryptocurrency investment through
+  exploring innovative technologies like DeFi and NFTs which are reshaping asset management
+  and financial transactions. This guide offers insights into identifying promising
+  new cryptocurrencies utilizing algorithmic trading strategies to maximize returns
+  in the dynamic crypto market. Aimed at equipping investors with essential tools
+  and knowledge to navigate market complexities and capitalize on emerging trends
+  it emphasizes the importance of technological understanding and strategic diversification
+  in crafting a resilient and profitable investment portfolio.
+title: Identifying New Cryptocurrencies for Investment (Algo Trading)
 ---
 
 The cryptocurrency market has undergone significant transformation in recent years, reshaping the financial landscape and offering vast opportunities for investors globally. Since the inception of Bitcoin in 2009, the market has expanded dramatically, with thousands of cryptocurrencies now in circulation, each possessing unique features and technologies designed to address various financial challenges and opportunities. This surge in diversification provides investors with numerous options to enhance and expand their portfolios strategically.

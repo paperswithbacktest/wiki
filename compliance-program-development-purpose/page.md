@@ -1,6 +1,8 @@
 ---
-title: "Compliance Program Development and Purpose (Algo Trading)"
-description: "Optimize your algorithmic trading compliance program to meet evolving regulatory standards while minimizing risks and maintaining operational integrity."
+category: quant_concept
+description: Optimize your algorithmic trading compliance program to meet evolving
+  regulatory standards while minimizing risks and maintaining operational integrity.
+title: Compliance Program Development and Purpose (Algo Trading)
 ---
 
 In the ever-evolving financial landscape, compliance management has become essential for businesses seeking to utilize algorithmic trading technologies both efficiently and legally. Algorithmic trading, the use of advanced mathematical models to execute trades at speeds and frequencies that are impossible for human traders, presents its own set of complexities and risks. As a result, the implementation of robust compliance programs is necessary to ensure adherence to the myriad laws and regulations governing financial markets.

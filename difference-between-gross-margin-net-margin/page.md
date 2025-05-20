@@ -1,6 +1,8 @@
 ---
-title: "Difference Between Gross Margin and Net Margin (Algo Trading)"
-description: "Understand the differences between gross and net profit margins and how they impact algorithmic trading strategies. Learn to enhance financial performance."
+category: quant_concept
+description: Understand the differences between gross and net profit margins and how
+  they impact algorithmic trading strategies. Learn to enhance financial performance.
+title: Difference Between Gross Margin and Net Margin (Algo Trading)
 ---
 
 In the fast-paced world of finance, understanding key financial metrics such as profit margins is crucial for success. Profit margins serve as essential benchmarks, revealing how effectively a company transforms its revenue into profit. Specifically, these margins are divided into gross profit margin and net profit margin, each providing distinct insights into a company's financial health. Gross profit margin measures the efficiency of production by calculating the difference between net sales and the cost of goods sold (COGS), then dividing the result by net sales. Formulaically, it is expressed as:
@@ -203,4 +205,3 @@ To effectively leverage profit margins, it is essential to integrate consistent 
    GitHub offers open-source code and resources for building algorithmic trading strategies, many of which factor in profit margins as part of their decision-making processes: [GitHub: Algorithmic Trading Strategies](https://github.com/topics/algorithmic-trading) 
 
 Readers seeking to deepen their understanding of profit margins and algorithmic trading are encouraged to explore these resources for further information.
-

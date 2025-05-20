@@ -1,6 +1,8 @@
 ---
-title: "Protective Put: Concept, Mechanics, and Examples (Algo Trading)"
-description: "Protective put options help manage trading risks by hedging against market downturns while maintaining upside potential. Essential for today's volatile markets."
+category: quant_concept
+description: Protective put options help manage trading risks by hedging against market
+  downturns while maintaining upside potential. Essential for today's volatile markets.
+title: 'Protective Put: Concept, Mechanics, and Examples (Algo Trading)'
 ---
 
 Protective put options are a fundamental financial instrument designed to serve as a risk management tool within trading strategies. Essentially, a protective put is an option strategy where an investor holds a long position in a stock and simultaneously buys a put option for the same stock. This approach provides a safety net, allowing the investor to safeguard against potential losses in the stock's value, while still retaining the ability to benefit from any upward movement in the stock price. Protective put options provide the benefit of limiting downside risk, thus offering a form of portfolio insurance.

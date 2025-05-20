@@ -1,6 +1,13 @@
 ---
-title: "Averaging Down in Investing (Algo Trading)"
-description: "Explore the implications of averaging down in investing and its integration with algorithmic trading in this comprehensive guide. Learn how this strategy can reduce average investment costs by purchasing shares as stock prices decline, potentially leading to profits if prices recover. Understand the benefits and risks, the psychological aspect, and how algo trading can automate and enhance the execution of averaging down. This article also provides insights on backtesting algorithms and contrasts the averaging down strategy with its counterpart, averaging up."
+category: trading_strategy
+description: Explore the implications of averaging down in investing and its integration
+  with algorithmic trading in this comprehensive guide. Learn how this strategy can
+  reduce average investment costs by purchasing shares as stock prices decline, potentially
+  leading to profits if prices recover. Understand the benefits and risks, the psychological
+  aspect, and how algo trading can automate and enhance the execution of averaging
+  down. This article also provides insights on backtesting algorithms and contrasts
+  the averaging down strategy with its counterpart, averaging up.
+title: Averaging Down in Investing (Algo Trading)
 ---
 
 In the volatile world of stock markets, choosing the right investment strategy is crucial for maximizing returns. One strategy, known as averaging down, enables investors to lower the average cost of their investment by purchasing additional shares as a stock's price declines. This can be advantageous if the stock's price eventually increases, allowing the investor to profit from a smaller price recovery. This article outlines various aspects of averaging down, examines its role in algorithmic trading, and evaluates its potential as an investment strategy.

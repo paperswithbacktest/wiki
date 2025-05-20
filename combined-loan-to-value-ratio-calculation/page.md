@@ -1,6 +1,15 @@
 ---
-title: "Combined Loan-to-Value Ratio and Calculation (Algo Trading)"
-description: "Understanding mortgage-related financial metrics like loan-to-value (LTV) and combined loan-to-value (CLTV) ratios is essential for homebuyers, investors, and lenders in today's complex financial landscape. These ratios impact loan terms and conditions, while helping lenders assess the risk of providing loans. LTV measures a lender's exposure by comparing loan amount to property value, while CLTV includes all secured loans, providing a comprehensive risk evaluation. This article investigates into LTV and CLTV calculation methods, their impact on mortgage agreements, and their relevance in algorithmic trading, guiding financial decisions and enhancing stability."
+category: quant_concept
+description: Understanding mortgage-related financial metrics like loan-to-value (LTV)
+  and combined loan-to-value (CLTV) ratios is essential for homebuyers, investors,
+  and lenders in today's complex financial landscape. These ratios impact loan terms
+  and conditions, while helping lenders assess the risk of providing loans. LTV measures
+  a lender's exposure by comparing loan amount to property value, while CLTV includes
+  all secured loans, providing a comprehensive risk evaluation. This article investigates
+  into LTV and CLTV calculation methods, their impact on mortgage agreements, and
+  their relevance in algorithmic trading, guiding financial decisions and enhancing
+  stability.
+title: Combined Loan-to-Value Ratio and Calculation (Algo Trading)
 ---
 
 In today's complex financial landscape, understanding mortgage-related financial metrics such as the loan-to-value (LTV) and combined loan-to-value (CLTV) ratios is crucial. These ratios are essential for homebuyers and investors, as they significantly impact the terms and conditions of mortgage agreements. For lenders, these metrics serve as fundamental tools to assess the risk associated with providing loans. 

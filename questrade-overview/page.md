@@ -1,6 +1,8 @@
 ---
-title: "Questrade Overview (Algo Trading)"
-description: "Explore Questrade's algo trading leader in Canada featuring advanced platforms tools and a wide range of assets perfect for tech-savvy investors."
+category: dataset
+description: Explore Questrade's algo trading leader in Canada featuring advanced
+  platforms tools and a wide range of assets perfect for tech-savvy investors.
+title: Questrade Overview (Algo Trading)
 ---
 
 Questrade is a distinguished Canadian brokerage firm known for its comprehensive array of investment options. Founded in 1999, it offers a viable alternative to traditional banking institutions for Canadian residents, providing a competitive edge with its varied financial services. This review seeks to elucidate the facets of Questrade's platforms, trading technology, cost structure, and service offerings, with a particular emphasis on its algorithmic trading capabilities. The firm's user-friendly platforms, coupled with advanced trading tools, cater to both novice and experienced traders who value technology-driven investment strategies.

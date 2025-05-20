@@ -1,6 +1,8 @@
 ---
-title: "Extreme Mortality Bonds: Overview and Functionality (Algo Trading)"
-description: "Explore Extreme Mortality Bonds the cutting-edge intersection of insurance, financial securities and algorithmic trading in today's complex financial landscape."
+category: quant_concept
+description: Explore Extreme Mortality Bonds the cutting-edge intersection of insurance,
+  financial securities and algorithmic trading in today's complex financial landscape.
+title: 'Extreme Mortality Bonds: Overview and Functionality (Algo Trading)'
 ---
 
 In today's complex financial landscape, managing risk in the insurance and investment sectors is crucial. Extreme Mortality Bonds (EMBs) have emerged as a fascinating intersection of insurance, financial securities, and algorithmic trading. These bonds provide insurance companies with a financial mechanism to manage liabilities that arise from catastrophic mortality events. By transferring some of the risks associated with extreme events like pandemics or large-scale natural disasters to the capital markets, insurance firms can maintain fiscal stability during challenging periods.

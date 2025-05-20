@@ -1,6 +1,8 @@
 ---
-title: "Junk Bond Overview and Credit Ratings (Algo Trading)"
-description: "Explore the dynamics of junk bonds, credit ratings, and algorithmic trading in financial markets. Understand their interactions and impact on investment strategies."
+category: quant_concept
+description: Explore the dynamics of junk bonds, credit ratings, and algorithmic trading
+  in financial markets. Understand their interactions and impact on investment strategies.
+title: Junk Bond Overview and Credit Ratings (Algo Trading)
 ---
 
 Junk bonds, sometimes referred to as high-yield bonds, are a category of bonds that carry a higher risk of default but offer potentially higher returns to compensate for that risk. These bonds are issued by entities with lower credit ratings, typically below investment grade. Consequently, they attract investors willing to accept greater risk in exchange for the possibility of substantial returns. The defining characteristics of junk bonds include higher yield spreads over risk-free investments like U.S. Treasury securities, increased volatility, and a predominant issuance by leveraged companies or those facing financial stress.

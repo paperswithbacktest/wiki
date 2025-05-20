@@ -1,6 +1,8 @@
 ---
-title: "SSE Composite Index: Overview and History (Algo Trading)"
-description: "Explore the SSE Composite Index's role in China's economy from its history to its calculation essential for informed investment and algorithmic trading strategies."
+category: dataset
+description: Explore the SSE Composite Index's role in China's economy from its history
+  to its calculation essential for informed investment and algorithmic trading strategies.
+title: 'SSE Composite Index: Overview and History (Algo Trading)'
 ---
 
 The stock market is a multifaceted entity that continuously evolves, offering a plethora of indices that aid investors in monitoring market trends and making informed decisions. Among these, the SSE Composite Index stands out as a crucial metric within the Asian financial landscape. Associated with the Shanghai Stock Exchange, the SSE Composite Index provides vital insights into the performance of listed stocks in China, reflecting the broader economic conditions of the country. This article explores the significance of the SSE Composite Index, including its historical context, how it is calculated, and its application in algorithmic trading.

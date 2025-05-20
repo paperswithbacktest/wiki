@@ -1,6 +1,9 @@
 ---
-title: "Impact of Consumer Price Index on Investment Strategies (Algo Trading)"
-description: "Explore the critical role of the Consumer Price Index (CPI) in shaping investment strategies and algorithmic trading by leveraging economic data for market insights."
+category: trading_strategy
+description: Explore the critical role of the Consumer Price Index (CPI) in shaping
+  investment strategies and algorithmic trading by leveraging economic data for market
+  insights.
+title: Impact of Consumer Price Index on Investment Strategies (Algo Trading)
 ---
 
 In the dynamic and often unpredictable landscape of financial markets, understanding and effectively utilizing economic indicators is essential for crafting successful investment strategies. Among these indicators, the Consumer Price Index (CPI) holds significant importance due to its capacity to provide insights into inflation trends, a critical factor influencing economic and investment environments. This article aims to explore how the CPI intersects with investment strategies and algorithmic trading, offering investors and traders a systematic approach to navigating market complexities.

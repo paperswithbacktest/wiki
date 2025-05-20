@@ -1,6 +1,8 @@
 ---
-title: "Impact of Trade Wars on Individuals (Algo Trading)"
-description: "Explore how trade wars impact individuals and markets through the lens of algorithmic trading highlighting economic shifts and strategic adaptations needed."
+category: quant_concept
+description: Explore how trade wars impact individuals and markets through the lens
+  of algorithmic trading highlighting economic shifts and strategic adaptations needed.
+title: Impact of Trade Wars on Individuals (Algo Trading)
 ---
 
 The global economy is witnessing significant shifts due to the evolving dynamics between the United States and China, two of the world's largest economic powers. Central to this evolving relationship is the ongoing trade war, a series of economic conflicts characterized by the imposition of tariffs and other trade barriers. These measures are often employed by countries in a bid to protect their domestic industries or retaliate against what they perceive as unfair trade practices by their counterparts. 

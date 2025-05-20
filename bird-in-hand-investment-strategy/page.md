@@ -1,6 +1,8 @@
 ---
-title: "Bird In Hand as an Investment Strategy (Algo Trading)"
-description: "Explore the Bird in Hand Theory as an investment strategy emphasizing preference for stable dividends over capital gains, shaping modern investor behavior."
+category: trading_strategy
+description: Explore the Bird in Hand Theory as an investment strategy emphasizing
+  preference for stable dividends over capital gains, shaping modern investor behavior.
+title: Bird In Hand as an Investment Strategy (Algo Trading)
 ---
 
 Investment strategies are designed to meet the varying preferences of investors, aiming to strike a balance between risk and reward. The Bird in Hand Theory, introduced by Myron Gordon and John Lintner, posits that investors often prefer dividends over potential capital gains due to the certainty they offer. This theory challenges the Modigliani-Miller theorem, which suggests that dividend policy does not affect a company's valuation in a perfect market. The Bird in Hand Theory, however, emphasizes the tangible and predictable nature of dividends, suggesting that they carry more weight in an investor's decision-making process than uncertain future price appreciations.

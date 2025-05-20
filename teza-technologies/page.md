@@ -1,6 +1,8 @@
 ---
-title: "Teza Technologies (Algo Trading)"
-description: "Discover how Teza Technologies is revolutionizing algorithmic trading with innovative strategies and cutting-edge technology for enhanced market efficiency."
+category: trading_strategy
+description: Discover how Teza Technologies is revolutionizing algorithmic trading
+  with innovative strategies and cutting-edge technology for enhanced market efficiency.
+title: Teza Technologies (Algo Trading)
 ---
 
 Teza Technologies, an influential entity in the field of algorithmic trading, has consistently spearheaded advancements in financial technology. Specializing in quantitative research and complex algorithmic systems, Teza Technologies has been instrumental in redefining trading strategies across global markets. This article investigates into how Teza Technologies is reshaping the algorithmic trading landscape through its innovative approaches and robust technologies.

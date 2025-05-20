@@ -1,6 +1,11 @@
 ---
-title: "Taxation of Dividend Income (Algo Trading)"
-description: "Explore how dividends impact taxable income with a focus on algorithmic trading. Learn about the tax implications of qualified and non-qualified dividends, and how algorithms factor in dividend tax strategies. Gain insights into effectively managing dividend taxes within complex trading frameworks, and stay updated on trends affecting dividend taxation in an evolving financial landscape."
+category: quant_concept
+description: Explore how dividends impact taxable income with a focus on algorithmic
+  trading. Learn about the tax implications of qualified and non-qualified dividends,
+  and how algorithms factor in dividend tax strategies. Gain insights into effectively
+  managing dividend taxes within complex trading frameworks, and stay updated on trends
+  affecting dividend taxation in an evolving financial landscape.
+title: Taxation of Dividend Income (Algo Trading)
 ---
 
 Taxable income is a critical component in financial planning, as it determines the amount of money that individuals and businesses owe to tax authorities. It encompasses all types of income, including wages, salaries, bonuses, and investment earnings, after deductions and exemptions are taken into account. Understanding taxable income is essential for effective tax planning, which can influence personal savings, investment decisions, and long-term financial goals.

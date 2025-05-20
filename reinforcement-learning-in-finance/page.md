@@ -1,6 +1,9 @@
 ---
-title: "reinforcement learning in finance (Algo Trading)"
-description: "Explore the transformative role of reinforcement learning in algorithmic trading offering adaptive strategies for dynamic financial markets and optimized decision-making."
+category: trading_strategy
+description: Explore the transformative role of reinforcement learning in algorithmic
+  trading offering adaptive strategies for dynamic financial markets and optimized
+  decision-making.
+title: reinforcement learning in finance (Algo Trading)
 ---
 
 Reinforcement learning (RL) has emerged as a powerful tool in the field of algorithmic trading within financial markets. As financial markets evolve, the need for sophisticated and adaptive trading strategies becomes essential. RL offers a promising solution as it enables the development of models capable of learning and adapting to complex, rapidly changing environments. This adaptability is particularly crucial in finance, where market dynamics are stochastic and often unpredictable.

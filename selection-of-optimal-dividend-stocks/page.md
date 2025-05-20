@@ -1,6 +1,9 @@
 ---
-title: "Selection of Optimal Dividend Stocks (Algo Trading)"
-description: "Optimize your investment strategy by integrating dividend stocks with portfolio management and algorithmic trading. Leverage stable income, diversify risk, and enhance precision."
+category: trading_strategy
+description: Optimize your investment strategy by integrating dividend stocks with
+  portfolio management and algorithmic trading. Leverage stable income, diversify
+  risk, and enhance precision.
+title: Selection of Optimal Dividend Stocks (Algo Trading)
 ---
 
 Dividend stocks play an essential role in wealth accumulation by providing investors with a dependable income stream and potential for capital appreciation. These stocks, typically issued by well-established companies with robust profit margins, distribute a portion of earnings to shareholders. This steady income makes dividend stocks appealing to investors seeking both financial stability and long-term growth.

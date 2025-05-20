@@ -1,6 +1,8 @@
 ---
-title: "Forex Trend Stages (Algo Trading)"
-description: "Master Forex trading by understanding market stages and trends with algo trading Learn how to leverage these insights for successful currency trades"
+category: trading_strategy
+description: Master Forex trading by understanding market stages and trends with algo
+  trading Learn how to leverage these insights for successful currency trades
+title: Forex Trend Stages (Algo Trading)
 ---
 
 In Forex trading, understanding market stages and trends is crucial for success. Forex trading, the global marketplace for buying and selling currencies, is influenced by a myriad of economic, political, and social factors that lead to fluctuating exchange rates. As the market evolves through various stages and trends, traders must possess a keen insight into these movements to execute trades effectively.

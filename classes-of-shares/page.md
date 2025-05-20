@@ -1,6 +1,9 @@
 ---
-title: "Classes of Shares (Algo Trading)"
-description: "Explore the categories of stocks, including common and preferred shares, and understand the impacts of algorithmic trading on investment strategies in the stock market."
+category: quant_concept
+description: Explore the categories of stocks, including common and preferred shares,
+  and understand the impacts of algorithmic trading on investment strategies in the
+  stock market.
+title: Classes of Shares (Algo Trading)
 ---
 
 In stock markets, understanding the various categories of stocks is crucial for any investor. The stock market, a complex and multifaceted entity, offers a range of investment opportunities that require a keen understanding of different stock classifications and their implications. As investors, both novice and experienced, navigate this financial landscape, they encounter various stock categories such as common and preferred stocks, and specific share classes like Class A and Class B shares. These distinctions are not merely academic but have tangible impacts on investment strategies and outcomes.
@@ -169,4 +172,3 @@ For investors, the synthesis of traditional investment knowledge with algorithmi
 8. **"Effect of Voting Rights on Stock Prices"** - An article in the Financial Analysts Journal explores how variations in voting rights among different classes of shares can influence stock prices and investor behaviors. [Financial Analysts Journal](https://www.cfainstitute.org/en/research/financial-analysts-journal) 
 
 These resources offer foundational and advanced insights into the topics of stock classes, equity types, and algorithmic trading, equipping investors with the necessary knowledge to make informed decisions.
-

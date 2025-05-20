@@ -1,6 +1,9 @@
 ---
-title: "Lawrence Leibowitz: Biography and Career (Algo Trading)"
-description: "Lawrence Leibowitz is a key figure in algorithmic trading and finance, known for his leadership in advancing market technologies and driving financial innovation."
+category: quant_concept
+description: Lawrence Leibowitz is a key figure in algorithmic trading and finance,
+  known for his leadership in advancing market technologies and driving financial
+  innovation.
+title: 'Lawrence Leibowitz: Biography and Career (Algo Trading)'
 ---
 
 Lawrence Leibowitz has been a prominent figure in the financial markets, renowned for his impactful role in algorithmic trading and technological advancements. His career has been marked by significant contributions to the evolution of trading systems and market structures, making him a pivotal force in modern finance.

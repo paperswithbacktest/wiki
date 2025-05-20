@@ -1,6 +1,9 @@
 ---
-title: "Commingled Fund: Overview, Purpose, and Functionality (Algo Trading)"
-description: "Explore how commingled funds and algorithmic trading enhance financial management by providing diversification and efficient trade execution in modern finance."
+category: quant_concept
+description: Explore how commingled funds and algorithmic trading enhance financial
+  management by providing diversification and efficient trade execution in modern
+  finance.
+title: 'Commingled Fund: Overview, Purpose, and Functionality (Algo Trading)'
 ---
 
 Understanding the symbiotic relationship between financial management strategies and investment vehicles is crucial for modern investors aiming to navigate complex financial landscapes efficiently. This exploration focuses on commingled fund investments and the enhancement of financial management through algorithmic trading, commonly referred to as algo trading. By examining commingled funds, we reveal how these investment pools can be structured to offer amplified returns to investors through diversification and professional management.

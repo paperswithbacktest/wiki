@@ -1,6 +1,9 @@
 ---
-title: "GTS (Algo Trading)"
-description: "Discover how GTS revolutionizes algo trading with automation and precision improving efficiency and accuracy while minimizing human error and enhancing market strategies."
+category: quant_concept
+description: Discover how GTS revolutionizes algo trading with automation and precision
+  improving efficiency and accuracy while minimizing human error and enhancing market
+  strategies.
+title: GTS (Algo Trading)
 ---
 
 In the rapidly evolving world of finance, algorithmic trading, or 'algo trading', has emerged as a cornerstone for modern trading strategies. This sophisticated approach utilizes advanced mathematical models and high-speed data processing to execute trades with precision and efficiency that manual methods simply cannot match. A key component of this paradigm is Global Trading System (GTS), which fundamentally alters the landscape of how trades are executed in today's markets.

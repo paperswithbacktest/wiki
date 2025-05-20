@@ -1,6 +1,14 @@
 ---
-title: "List of Fixed Assets (Algo Trading)"
-description: "Explore the essential aspects of fixed assets in algorithmic trading, covering their role in long-term business operations and financial management. Understand how both tangible and intangible assets, including machinery, buildings, vehicles, and intellectual properties, contribute to profitability and growth. This guide investigates into asset categorization, depreciation, maintenance, and integration with algotrading strategies to enhance financial performance. Gain insights into leveraging assets for improved profitability, operational efficiency, and risk assessment in today's competitive market."
+category: quant_concept
+description: Explore the essential aspects of fixed assets in algorithmic trading,
+  covering their role in long-term business operations and financial management. Understand
+  how both tangible and intangible assets, including machinery, buildings, vehicles,
+  and intellectual properties, contribute to profitability and growth. This guide
+  investigates into asset categorization, depreciation, maintenance, and integration
+  with algotrading strategies to enhance financial performance. Gain insights into
+  leveraging assets for improved profitability, operational efficiency, and risk assessment
+  in today's competitive market.
+title: List of Fixed Assets (Algo Trading)
 ---
 
 Understanding the role of assets in a business is foundational for effective financial management. Assets, broadly defined, are resources owned by a company that have economic value and are expected to provide future benefits. This article targets two primary asset types: fixed and business assets. Fixed assets, also known as long-term or capital assets, include tangible items such as machinery, buildings, and vehicles that a company uses over an extended period for its operational needs. Unlike fixed assets, business assets comprise everything of value owned by the company, extending into both tangible and intangible categories like cash, patents, and goodwill.

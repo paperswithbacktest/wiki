@@ -1,6 +1,9 @@
 ---
-title: "Major Historical Asset Bubbles (Algo Trading)"
-description: "Explore how historical asset bubbles like the Dutch Tulip Mania and the 2008 Financial Crisis shape economies, influenced by speculative trading and algorithmic practices."
+category: quant_concept
+description: Explore how historical asset bubbles like the Dutch Tulip Mania and the
+  2008 Financial Crisis shape economies, influenced by speculative trading and algorithmic
+  practices.
+title: Major Historical Asset Bubbles (Algo Trading)
 ---
 
 Asset bubbles and economic history are closely interconnected, often leading to financial crises that impact economies on a global scale. Understanding the evolution of asset bubbles is crucial as they often trigger significant market instability. These bubbles occur when the price of an asset surges significantly above its intrinsic value, driven largely by speculative investment behavior. This disparity between asset price and intrinsic value can lead to volatile market conditions and economic disruptions when the bubble ultimately bursts.
@@ -188,4 +191,3 @@ A balanced approach to integrating trading innovations and informed economic pol
 9. Shleifer, A., & Vishny, R. W. (1997). *The Limits of Arbitrage*. The Journal of Finance, 52(1), 35-55. An essential read on the constraints of arbitrage in financial markets and its implications for asset pricing bubbles.
 
 These references provide a solid foundation for understanding the complexities of asset bubbles and the influence of algorithmic trading on financial markets.
-

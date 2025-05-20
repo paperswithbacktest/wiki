@@ -1,6 +1,9 @@
 ---
-title: "Investment Strategies in OTC Pink Market Stocks (Algo Trading)"
-description: "Discover investment strategies in OTC Pink Market stocks with algo trading Learn how algorithmic approaches can optimize trading decisions in this unique market segment."
+category: trading_strategy
+description: Discover investment strategies in OTC Pink Market stocks with algo trading
+  Learn how algorithmic approaches can optimize trading decisions in this unique market
+  segment.
+title: Investment Strategies in OTC Pink Market Stocks (Algo Trading)
 ---
 
 Stock investment, the practice of allocating capital into financial assets with the expectation of a future return, has long been a cornerstone of wealth accumulation and economic development worldwide. With technological advancements and an ever-evolving financial landscape, investors today have access to a broader array of markets and trading tools than ever before. Among these, the Over-The-Counter (OTC) Pink Market has garnered significant attention as an alternative to conventional stock exchanges. 

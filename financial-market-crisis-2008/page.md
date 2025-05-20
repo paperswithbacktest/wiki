@@ -1,6 +1,8 @@
 ---
-title: "Financial Market Crisis of 2008 (Algo Trading)"
-description: "Explore the origins and impact of the 2008 financial crisis with a focus on algorithmic trading's influence on market volatility and systemic failures."
+category: quant_concept
+description: Explore the origins and impact of the 2008 financial crisis with a focus
+  on algorithmic trading's influence on market volatility and systemic failures.
+title: Financial Market Crisis of 2008 (Algo Trading)
 ---
 
 In 2008, the world witnessed that one of the most impactful financial crises in history unfolded with dramatic intensity. Referred to as the 2008 financial crisis or the economic downturn of 2008, this period was marked by a massive market collapse that shook global economies to their very core. The crisis originated in the United States but quickly spread, resulting in a domino effect that led to severe repercussions worldwide. Financial institutions saw their foundations crack as asset values plummeted, triggering widespread anxiety and uncertainty across markets.

@@ -1,6 +1,8 @@
 ---
-title: "History of the First Publicly Traded Company (Algo Trading)"
-description: "Explore the emergence of publicly traded companies and algorithmic trading, highlighting their roles in market evolution, capital growth, and investor dynamics."
+category: quant_concept
+description: Explore the emergence of publicly traded companies and algorithmic trading,
+  highlighting their roles in market evolution, capital growth, and investor dynamics.
+title: History of the First Publicly Traded Company (Algo Trading)
 ---
 
 Publicly traded companies play a vital role in financial markets, providing essential opportunities for investment and capital growth. A publicly traded company is defined as a corporation whose ownership is dispersed via stock exchanges, where shares are openly bought and sold. These companies are significant because they offer investors a platform to own a fraction of the business and partake in its profits, thus promoting economic growth and efficiency by enabling the accumulation and allocation of capital. Public company stock issuance, particularly through Initial Public Offerings (IPOs), marks the transition from private to public status, allowing companies to raise capital from the public by selling shares to institutional and retail investors. 

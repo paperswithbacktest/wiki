@@ -1,6 +1,12 @@
 ---
-title: "Probability in Trading (Algo Trading)"
-description: Explore the crucial role of probability in algorithmic trading to enhance decision-making and strategy optimization. Learn how probability theory underpins trading models by quantifying uncertainties, enabling systematic data-driven strategies that are emotion-free. Discover how these models utilize probability distributions to anticipate market shifts and improve risk management, optimizing opportunities for profitable trading.
+category: quant_concept
+description: Explore the crucial role of probability in algorithmic trading to enhance
+  decision-making and strategy optimization. Learn how probability theory underpins
+  trading models by quantifying uncertainties, enabling systematic data-driven strategies
+  that are emotion-free. Discover how these models utilize probability distributions
+  to anticipate market shifts and improve risk management, optimizing opportunities
+  for profitable trading.
+title: Probability in Trading (Algo Trading)
 ---
 
 Algorithmic trading, commonly known as algo trading, has significantly transformed the methodology applied by traders within the financial markets. At the heart of this transformation lies the concept of trading probability, a pivotal element that informs the creation and deployment of trading strategies. Probability plays an essential role in guiding algorithmic decisions by enabling traders to evaluate the likelihood of various market events. This allows them to navigate the complexities of market dynamics with greater precision and objectivity.

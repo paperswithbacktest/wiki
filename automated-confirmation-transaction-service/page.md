@@ -1,6 +1,8 @@
 ---
-title: "Automated Confirmation Transaction Service (Algo Trading)"
-description: "Discover the essential role of automated transaction confirmation and algorithmic trading in modern finance improving efficiency accuracy and transparency."
+category: quant_concept
+description: Discover the essential role of automated transaction confirmation and
+  algorithmic trading in modern finance improving efficiency accuracy and transparency.
+title: Automated Confirmation Transaction Service (Algo Trading)
 ---
 
 In today's rapidly evolving financial markets, financial technology, known as fintech, plays an integral role in shaping the way transactions are conducted and managed. Central to this technological transformation are automated transaction confirmation services and algorithmic trading, often referred to as algo trading. These innovations have become indispensable to modern financial transactions, providing unprecedented levels of efficiency and intelligence.

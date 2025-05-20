@@ -1,6 +1,13 @@
 ---
-title: "Steps for Creating a Successful Trading Plan (Algo Trading)"
-description: "Learn how to create a successful trading plan for algo trading. This guide covers essential steps including setting objectives, risk management, and performance evaluation to optimize trading strategies. Understand the integration of technology in trading to achieve efficiency and minimize emotional biases. Enhance decision-making and strategic resource allocation with a well-crafted trading plan, aligning with broader financial planning for long-term financial stability and growth in today's dynamic economy."
+category: trading_strategy
+description: Learn how to create a successful trading plan for algo trading. This
+  guide covers essential steps including setting objectives, risk management, and
+  performance evaluation to optimize trading strategies. Understand the integration
+  of technology in trading to achieve efficiency and minimize emotional biases. Enhance
+  decision-making and strategic resource allocation with a well-crafted trading plan,
+  aligning with broader financial planning for long-term financial stability and growth
+  in today's dynamic economy.
+title: Steps for Creating a Successful Trading Plan (Algo Trading)
 ---
 
 In an ever-evolving global economy marked by fluctuations and unpredictability, financial planning plays a pivotal role in securing an individual's or entity's economic future. Sound financial planning equips individuals with the tools needed to navigate economic turbulence by enabling informed decision-making and strategic resource allocation.

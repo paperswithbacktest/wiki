@@ -1,6 +1,9 @@
 ---
-title: "Contributed Surplus: History and Overview (Algo Trading)"
-description: "Explore the integral role of contributed surplus in corporate finance and algorithmic trading Discover how it impacts equity financing boosts investor confidence and aids strategic growth."
+category: quant_concept
+description: Explore the integral role of contributed surplus in corporate finance
+  and algorithmic trading Discover how it impacts equity financing boosts investor
+  confidence and aids strategic growth.
+title: 'Contributed Surplus: History and Overview (Algo Trading)'
 ---
 
 Contributed surplus is a crucial concept in corporate finance, representing the capital received from shareholders that exceeds the par value of issued shares. This financial component is instrumental in revealing investor confidence in a company. When investors are willing to pay more than the nominal value of a company's shares, it reflects their trust in the firm's future prospects and potential growth. This component of equity plays a significant role in various strategic financial moves, guiding companies in optimizing their capital structure and enhancing their financial strategies.

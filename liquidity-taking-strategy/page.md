@@ -1,6 +1,14 @@
 ---
-title: "Liquidity Taking Strategy (Algo Trading)"
-description: Discover how liquidity-taking strategies in algorithmic trading can capitalize on market inefficiencies through the immediate execution of trades. This approach is crucial in high-frequency trading, enabling rapid entry and exit from positions with minimal delay. While these strategies offer benefits such as instant order fulfillment and exploiting short-term market movements, they also incur higher trading costs. This article explores the key concepts, implementation techniques, and the importance of high-quality market data provided by platforms like Databento in refining these strategies for competitive advantage.
+category: trading_strategy
+description: Discover how liquidity-taking strategies in algorithmic trading can capitalize
+  on market inefficiencies through the immediate execution of trades. This approach
+  is crucial in high-frequency trading, enabling rapid entry and exit from positions
+  with minimal delay. While these strategies offer benefits such as instant order
+  fulfillment and exploiting short-term market movements, they also incur higher trading
+  costs. This article explores the key concepts, implementation techniques, and the
+  importance of high-quality market data provided by platforms like Databento in refining
+  these strategies for competitive advantage.
+title: Liquidity Taking Strategy (Algo Trading)
 ---
 
 Algorithmic trading has fundamentally transformed financial markets by automating and optimizing trading decisions through sophisticated algorithms. This approach utilizes computational and mathematical models to execute orders at speeds and frequencies beyond human capability. Among the myriad of strategies in algorithmic trading, liquidity-taking strategies have gained popularity for their potential to capitalize on market inefficiencies. These strategies operate by placing market or aggressive orders that immediately interact with the available market liquidity.

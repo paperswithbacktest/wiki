@@ -1,6 +1,12 @@
 ---
-title: "Negative log loss scores (Algo Trading)"
-description: Explore the significance of negative Log Loss scores in algorithmic trading. Understand how this metric evaluates classification model performance, optimizing trading strategies by measuring prediction accuracy and confidence. Discover how minimizing Log Loss aids traders in refining models to enhance financial outcomes, and learn common misconceptions about this crucial evaluation tool in data science and finance.
+category: trading_strategy
+description: Explore the significance of negative Log Loss scores in algorithmic trading.
+  Understand how this metric evaluates classification model performance, optimizing
+  trading strategies by measuring prediction accuracy and confidence. Discover how
+  minimizing Log Loss aids traders in refining models to enhance financial outcomes,
+  and learn common misconceptions about this crucial evaluation tool in data science
+  and finance.
+title: Negative log loss scores (Algo Trading)
 ---
 
 Algorithmic trading, or algo trading, involves executing trades using automated systems powered by pre-programmed trading instructions. These algorithms consider factors such as timing, price, and volume to optimize trade execution, reduce transaction costs, and capitalize on market opportunities with precision and speed. The use of algorithms enhances the efficiency and accuracy of trading processes, making it an integral component of modern financial markets.

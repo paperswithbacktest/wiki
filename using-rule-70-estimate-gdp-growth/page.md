@@ -1,6 +1,9 @@
 ---
-title: "Using the Rule of 70 to Estimate GDP Growth (Algo Trading)"
-description: "Explore the Rule of 70 to swiftly estimate GDP doubling time with its growth rate Discover its importance in economic analysis and algorithmic trading today"
+category: quant_concept
+description: Explore the Rule of 70 to swiftly estimate GDP doubling time with its
+  growth rate Discover its importance in economic analysis and algorithmic trading
+  today
+title: Using the Rule of 70 to Estimate GDP Growth (Algo Trading)
 ---
 
 Understanding the economic growth of a country is crucial for policymakers, investors, and economists. One effective tool for estimating how quickly an economy can double is the Rule of 70. This straightforward concept enables individuals and institutions to determine the doubling time of any given quantity, such as GDP, based on its annual growth rate. The simplicity and elegance of the Rule of 70 lie in its basic formula: 

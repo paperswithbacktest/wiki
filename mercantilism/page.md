@@ -1,6 +1,9 @@
 ---
-title: "Mercantilism (Algo Trading)"
-description: "Explore how historical mercantilism contrasts with modern algorithmic trading, highlighting the evolution from government-regulated economic policies to technology-driven trade mechanisms."
+category: quant_concept
+description: Explore how historical mercantilism contrasts with modern algorithmic
+  trading, highlighting the evolution from government-regulated economic policies
+  to technology-driven trade mechanisms.
+title: Mercantilism (Algo Trading)
 ---
 
 The landscape of global trade has evolved significantly over the centuries, with various economic theories shaping the policies of nations. Mercantilism, prevailing from the 16th to the 18th centuries, was an economic theory focused on enhancing national wealth through governmental regulation, prioritizing exports over imports. It was based on the belief that a nation's power depended primarily on its wealth, especially in terms of precious metals like gold and silver, which were seen as finite resources within the global economy.

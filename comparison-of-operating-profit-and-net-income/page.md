@@ -1,6 +1,9 @@
 ---
-title: "Comparison of Operating Profit and Net Income (Algo Trading)"
-description: "Explore key differences between operating profit and net income in algo trading. Understand their strategic importance for developing efficient trading strategies."
+category: quant_concept
+description: Explore key differences between operating profit and net income in algo
+  trading. Understand their strategic importance for developing efficient trading
+  strategies.
+title: Comparison of Operating Profit and Net Income (Algo Trading)
 ---
 
 In today's fast-paced financial world, understanding the intricacies of financial metrics is crucial for businesses and investors alike. These metrics offer a quantitative basis for assessing a company's financial health and operational efficiency. Among these, operating profit and net income stand out as pivotal indicators on a company's income statement. Each serves a unique role, providing distinct insights into the financial dynamics of a business.

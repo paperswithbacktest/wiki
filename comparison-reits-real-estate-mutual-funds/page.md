@@ -1,6 +1,8 @@
 ---
-title: "Comparison of REITs and Real Estate Mutual Funds (Algo Trading)"
-description: "Explore the differences between REITs and real estate mutual funds in algo trading Learn about their benefits risks and which suits your investment strategy"
+category: trading_strategy
+description: Explore the differences between REITs and real estate mutual funds in
+  algo trading Learn about their benefits risks and which suits your investment strategy
+title: Comparison of REITs and Real Estate Mutual Funds (Algo Trading)
 ---
 
 Investing is a crucial strategy for individuals seeking to grow their wealth, providing opportunities to generate additional income and meet long-term financial goals. Amid a plethora of options, four prominent investment opportunities stand out: Real Estate, Mutual Funds, Real Estate Investment Trusts (REITs), and Algorithmic Trading. Understanding these options and how they align with one's financial objectives and risk tolerance is essential for optimal portfolio growth and risk management.

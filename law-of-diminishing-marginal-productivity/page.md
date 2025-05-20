@@ -1,6 +1,10 @@
 ---
-title: "Law of Diminishing Marginal Productivity (Algo Trading)"
-description: "Explore how understanding the law of diminishing marginal productivity can optimize algorithmic trading strategies for increased efficiency and profitability. Learn how traders use economic principles to maximize output and maintain a competitive edge in financial markets."
+category: quant_concept
+description: Explore how understanding the law of diminishing marginal productivity
+  can optimize algorithmic trading strategies for increased efficiency and profitability.
+  Learn how traders use economic principles to maximize output and maintain a competitive
+  edge in financial markets.
+title: Law of Diminishing Marginal Productivity (Algo Trading)
 ---
 
 In economics and finance, comprehending key concepts is fundamental to optimizing productivity and making informed investment decisions. Economic theories like marginal productivity and diminishing returns play a significant role in understanding how resources can be efficiently allocated to maximize output. These concepts are not only pivotal in traditional economics but also find essential applications in modern financial practices, particularly algorithmic trading, where the objective is to maximize returns by leveraging technology and data-driven strategies.

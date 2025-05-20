@@ -1,6 +1,11 @@
 ---
-title: "Methods of Currency Investment (Algo Trading)"
-description: "Explore the dynamic world of forex trading with insights into traditional strategies and the modern advancements of algorithmic trading. Understand key techniques for investing in the largest and most liquid financial market, emphasizing risk management and strategic diversification to harness its potential while navigating inherent challenges."
+category: trading_strategy
+description: Explore the dynamic world of forex trading with insights into traditional
+  strategies and the modern advancements of algorithmic trading. Understand key techniques
+  for investing in the largest and most liquid financial market, emphasizing risk
+  management and strategic diversification to harness its potential while navigating
+  inherent challenges.
+title: Methods of Currency Investment (Algo Trading)
 ---
 
 Forex trading, also known as currency trading, is one of the most dynamic markets in the financial world. It involves the exchange of currencies in a decentralized global market, which is the largest and most liquid financial market globally. With a daily trading volume exceeding $6 trillion, it offers traders and investors a vast arena of opportunities. In this article, we will explore the key strategies for investing in forex, covering both traditional methods and the emerging trend of algorithmic trading. 

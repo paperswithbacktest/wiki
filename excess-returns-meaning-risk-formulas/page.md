@@ -1,6 +1,8 @@
 ---
-title: "Excess Returns: Meaning, Risk, and Formulas (Algo Trading)"
-description: "Explore the meaning of excess returns and investment risk in algo trading, utilizing essential formulas to enhance portfolio performance and optimize strategies."
+category: quant_concept
+description: Explore the meaning of excess returns and investment risk in algo trading,
+  utilizing essential formulas to enhance portfolio performance and optimize strategies.
+title: 'Excess Returns: Meaning, Risk, and Formulas (Algo Trading)'
 ---
 
 In finance, understanding key concepts such as investment risk, excess returns, and algorithmic trading is crucial for both novice and experienced investors. These elements form the backbone of modern investment strategies, influencing decisions on portfolio management and asset allocation.

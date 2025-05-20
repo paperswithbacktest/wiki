@@ -1,6 +1,9 @@
 ---
-title: "Investment Company Institute: Overview and History (Algo Trading)"
-description: "Explore the Investment Company Institute's role in advocating for ethical standards and investor protection while navigating technological advancements like algo trading."
+category: quant_concept
+description: Explore the Investment Company Institute's role in advocating for ethical
+  standards and investor protection while navigating technological advancements like
+  algo trading.
+title: 'Investment Company Institute: Overview and History (Algo Trading)'
 ---
 
 The Investment Company Institute (ICI) is a prominent global trade association that represents the interests of regulated investment funds, including mutual funds, exchange-traded funds (ETFs), closed-end funds, and unit investment trusts. Established during the transformative New Deal era, the ICI has been instrumental in fostering a deeper understanding among the public about investment funds and advocating for high ethical standards within the industry. Over the years, it has played a significant role in shaping financial and regulatory frameworks, ensuring that investment practices are aligned with investor protections and market integrity.

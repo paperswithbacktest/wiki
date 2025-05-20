@@ -1,6 +1,8 @@
 ---
-title: "Pre-Reimbursement Expense Ratio (Algo Trading)"
-description: "Explore the impact of expense ratios and reimbursement practices on algorithmic trading strategies for enhanced investment performance and cost efficiency."
+category: quant_concept
+description: Explore the impact of expense ratios and reimbursement practices on algorithmic
+  trading strategies for enhanced investment performance and cost efficiency.
+title: Pre-Reimbursement Expense Ratio (Algo Trading)
 ---
 
 The financial landscape continues to evolve rapidly, driven by advances in technology and a deeper understanding of financial metrics. One of the most notable developments in recent years has been the rise of algorithmic trading, which uses mathematical models and complex algorithms to make trading decisions. This method of trading emphasizes efficiency and precision, and is heavily influenced by various financial metrics such as expense ratios.

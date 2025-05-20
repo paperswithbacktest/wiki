@@ -1,7 +1,8 @@
 ---
-title: Self-Training in Machine Learning A Comprehensive Overview
+category: quant_concept
 description: Self-Training in machine learning boosts model accuracy using limited
   labels and unlabeled data through confident predictions Discover more inside
+title: Self-Training in Machine Learning A Comprehensive Overview
 ---
 
 ![Image](images/1.png)

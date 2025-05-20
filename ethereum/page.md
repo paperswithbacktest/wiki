@@ -1,6 +1,8 @@
 ---
-title: "Ethereum (Algo Trading)"
-description: "Discover how Ethereum's blockchain transforms algorithmic trading with smart contracts that ensure secure, transparent, and automated trading solutions."
+category: quant_concept
+description: Discover how Ethereum's blockchain transforms algorithmic trading with
+  smart contracts that ensure secure, transparent, and automated trading solutions.
+title: Ethereum (Algo Trading)
 ---
 
 Ethereum has emerged as a leading blockchain platform, distinguished by its capacity to execute smart contracts. Founded in 2013 by Vitalik Buterin, it has developed into a robust decentralized ecosystem that underpins various applications beyond traditional finance. Unlike Bitcoin, which primarily functions as a peer-to-peer currency, Ethereum provides a programmable platform that enables developers to create decentralized applications (dApps) through its Turing-complete programming language. This fundamental difference positions Ethereum uniquely within the cryptocurrency space, facilitating more complex operations and interactions on its network.

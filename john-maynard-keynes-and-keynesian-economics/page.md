@@ -1,6 +1,8 @@
 ---
-title: "John Maynard Keynes and Keynesian Economics (Algo Trading)"
-description: "Explore the impact of John Maynard Keynes, the pioneer of Keynesian economics, on shaping modern economic policies and algorithmic trading strategies."
+category: quant_concept
+description: Explore the impact of John Maynard Keynes, the pioneer of Keynesian economics,
+  on shaping modern economic policies and algorithmic trading strategies.
+title: John Maynard Keynes and Keynesian Economics (Algo Trading)
 ---
 
 John Maynard Keynes, an influential British economist, is widely recognized as the father of modern macroeconomics. His groundbreaking contributions laid the groundwork for Keynesian economics, a theory advocating for proactive government intervention as a means to manage economic cycles, especially during recessions. Before Keynes, classical economic theories often emphasized supply-side factors and limited government interference, leaving economies vulnerable to prolonged periods of stagnation or excessive inflation. Keynes challenged this notion by proposing that aggregate demand—the total demand for goods and services within an economy—plays a pivotal role in influencing economic output and employment levels.

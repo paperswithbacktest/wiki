@@ -1,6 +1,8 @@
 ---
-title: "Illiquid Options: Overview and Disadvantages (Algo Trading)"
-description: "Explore the complexities and challenges of illiquid options trading including wider bid-ask spreads and low market interest along with algorithmic strategies."
+category: quant_concept
+description: Explore the complexities and challenges of illiquid options trading including
+  wider bid-ask spreads and low market interest along with algorithmic strategies.
+title: 'Illiquid Options: Overview and Disadvantages (Algo Trading)'
 ---
 
 Options trading is a multifaceted area within finance, involving numerous asset types and trading strategies. Among these, illiquid options stand out for their distinct characteristics, presenting unique challenges and opportunities for traders. Illiquid options refer to those options that lack ease of sale or conversion to cash. This illiquidity is primarily attributed to low trading volumes and limited market interest, which often result in wider bid-ask spreads and less frequent trading activity.

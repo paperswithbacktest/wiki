@@ -1,6 +1,8 @@
 ---
-title: "Cryptocurrency as Commodity: Definition and Examples (Algo Trading)"
-description: "Explore how commodities, cryptocurrencies, and algorithmic trading intersect to influence modern investment strategies and portfolio diversification."
+category: quant_concept
+description: Explore how commodities, cryptocurrencies, and algorithmic trading intersect
+  to influence modern investment strategies and portfolio diversification.
+title: 'Cryptocurrency as Commodity: Definition and Examples (Algo Trading)'
 ---
 
 In recent years, the financial markets have experienced marked changes driven by the convergence of traditional assets and cutting-edge technologies. Commodity financial assets, long-established as foundational elements of global trade and investment, include a wide array of raw materials and primary agricultural products like oil, gold, and wheat. These commodities are essential not only for their intrinsic value and role in supporting industrial and consumer activities but also for their capacity to serve as hedges against inflation and economic volatility.

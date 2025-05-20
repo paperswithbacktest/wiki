@@ -1,6 +1,8 @@
 ---
-title: "Monetary and Digital Asset Gifting (Algo Trading)"
-description: "Discover the innovative world of digital and monetary gifting through cryptocurrencies NFTs and algo trading for a seamless and modern gift-giving experience."
+category: quant_concept
+description: Discover the innovative world of digital and monetary gifting through
+  cryptocurrencies NFTs and algo trading for a seamless and modern gift-giving experience.
+title: Monetary and Digital Asset Gifting (Algo Trading)
 ---
 
 The digital age has revolutionized the concept of gifting. Traditional methods of gift-giving are being supplemented and sometimes replaced by digital gifts, digital assets, and novel ways of gifting money. The convenience and immediacy offered by digital gifts make them particularly appealing in today's fast-paced world. These gifts range from cryptocurrencies and non-fungible tokens (NFTs) to electronic money transfers and digital gift cards. 

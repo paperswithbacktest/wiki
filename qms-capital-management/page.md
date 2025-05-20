@@ -1,6 +1,8 @@
 ---
-title: "QMS Capital Management (Algo Trading)"
-description: "Discover the impactful role of QMS Capital Management in algorithmic trading with cutting-edge quantitative techniques for superior financial performance."
+category: quant_concept
+description: Discover the impactful role of QMS Capital Management in algorithmic
+  trading with cutting-edge quantitative techniques for superior financial performance.
+title: QMS Capital Management (Algo Trading)
 ---
 
 QMS Capital Management is a panoptic entity within the financial industry, primarily known for its expertise in algorithmic trading. Algorithmic trading, defined as the use of complex algorithms to automate trading strategies, has burgeoned into a critical component of the modern financial ecosystem. By employing sophisticated mathematical models and high-speed computations to execute trades, algorithmic trading offers significant enhancements over traditional trading methods, optimizing for speed, efficiency, and accuracy.

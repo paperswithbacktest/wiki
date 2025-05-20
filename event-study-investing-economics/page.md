@@ -1,6 +1,8 @@
 ---
-title: "Event Study in Investing and Economics (Algo Trading)"
-description: "Explore event studies, economic analysis, and algorithmic trading to gain valuable insights into market dynamics and enhance investment strategies."
+category: quant_concept
+description: Explore event studies, economic analysis, and algorithmic trading to
+  gain valuable insights into market dynamics and enhance investment strategies.
+title: Event Study in Investing and Economics (Algo Trading)
 ---
 
 Event studies, economic analysis, investing methods, and algorithmic trading represent core foundations of contemporary financial markets. These elements interplay to form a sophisticated environment for understanding, predicting, and capitalizing on market movements. Event studies focus on the assessment of how specific events such as corporate announcements, regulatory changes, or economic shifts impact the prices of securities. By isolating the 'event window', analysts can evaluate market efficiency and understand investor behavior, particularly through the lens of abnormal returns, calculated as the difference between actual and expected stock performance.

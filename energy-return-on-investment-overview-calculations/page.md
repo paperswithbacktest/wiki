@@ -1,6 +1,9 @@
 ---
-title: "Energy Return on Investment: Overview and Calculations (Algo Trading)"
-description: "Explore the synergy of EROI insights and algorithmic trading to enhance energy investment strategies and capitalize on market dynamics with precision and speed."
+category: quant_concept
+description: Explore the synergy of EROI insights and algorithmic trading to enhance
+  energy investment strategies and capitalize on market dynamics with precision and
+  speed.
+title: 'Energy Return on Investment: Overview and Calculations (Algo Trading)'
 ---
 
 Understanding the dynamics of energy economics and investment strategies is crucial for navigating the modern financial landscape. As global energy resources face increasing scarcity, the role of Energy Return on Investment (EROI) calculations becomes paramount in determining the viability of different energy sources. EROI, defined as the ratio of energy obtained from an energy resource to the energy expended to harvest that energy, provides crucial insights into the economic and energetic efficiency of a source. A higher EROI indicates a more advantageous and efficient energy source, as it requires less energy input for a comparable or superior energy output.

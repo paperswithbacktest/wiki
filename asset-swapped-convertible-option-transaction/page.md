@@ -1,6 +1,8 @@
 ---
-title: "Asset Swapped Convertible Option Transaction (Algo Trading)"
-description: "Explore the complexities of Asset Swapped Convertible Option Transactions ASCOT and understand their pivotal role in strategy-driven algorithmic trading."
+category: quant_concept
+description: Explore the complexities of Asset Swapped Convertible Option Transactions
+  ASCOT and understand their pivotal role in strategy-driven algorithmic trading.
+title: Asset Swapped Convertible Option Transaction (Algo Trading)
 ---
 
 Asset Swapped Convertible Option Transactions (ASCOT) represent a sophisticated financial mechanism employed in the world of investment, combining the attributes of convertible bonds with structured financial engineering. At its core, ASCOT involves the separation of a convertible bond into distinct components — a fixed income segment and an equity option. This separation allows investors to capitalize on the separate attributes of each element, tailoring their investment strategy to specific market conditions. The relevance of ASCOT in the financial market lies in its capacity to create a hybrid financial product that can accommodate varying risk profiles and return expectations.

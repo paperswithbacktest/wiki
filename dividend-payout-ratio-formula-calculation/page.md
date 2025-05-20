@@ -1,6 +1,9 @@
 ---
-title: "Dividend Payout Ratio: Formula and Calculation (Algo Trading)"
-description: "Learn how the dividend payout ratio influences investment decisions, aids in evaluating dividend sustainability, and its role in algorithmic trading strategies."
+category: quant_concept
+description: Learn how the dividend payout ratio influences investment decisions,
+  aids in evaluating dividend sustainability, and its role in algorithmic trading
+  strategies.
+title: 'Dividend Payout Ratio: Formula and Calculation (Algo Trading)'
 ---
 
 Understanding the financial health of a company is essential for investors, especially when evaluating dividend-paying stocks. One of the primary tools for gauging this financial health is the dividend payout ratio. This ratio provides insight into the proportion of a company’s earnings distributed to shareholders as dividends, serving as an indicator of the company's dividend policy and its approach to balancing immediate shareholder returns with long-term growth potential.

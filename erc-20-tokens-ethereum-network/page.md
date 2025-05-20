@@ -1,6 +1,8 @@
 ---
-title: "ERC-20 Tokens on the Ethereum Network (Algo Trading)"
-description: "Explore ERC-20 tokens on the Ethereum network and discover how they revolutionize digital assets through interoperability and algorithmic trading opportunities."
+category: quant_concept
+description: Explore ERC-20 tokens on the Ethereum network and discover how they revolutionize
+  digital assets through interoperability and algorithmic trading opportunities.
+title: ERC-20 Tokens on the Ethereum Network (Algo Trading)
 ---
 
 Cryptocurrency has significantly impacted global finance by introducing decentralized digital currencies that operate independently of traditional banking systems. Bitcoin, the first cryptocurrency, demonstrated the potential for a peer-to-peer transaction network without a central authority, leading to the creation of numerous other cryptocurrencies. These digital currencies facilitate cross-border transactions with reduced fees and increased speed, offering an alternative to conventional payment methods. The rise of cryptocurrencies has also challenged regulatory frameworks worldwide, prompting governments to evaluate their stance on digital currencies and their integration into existing financial systems.

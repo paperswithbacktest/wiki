@@ -1,6 +1,8 @@
 ---
-title: "Comparison of CDs and Inflation (Algo Trading)"
-description: "Discover how inflation influences CDs and the role of algorithmic trading in optimizing investment strategies to preserve purchasing power and enhance returns."
+category: trading_strategy
+description: Discover how inflation influences CDs and the role of algorithmic trading
+  in optimizing investment strategies to preserve purchasing power and enhance returns.
+title: Comparison of CDs and Inflation (Algo Trading)
 ---
 
 The financial landscape is continuously evolving, with inflation, certificate of deposit (CD) rates, and algorithmic trading as pivotal components impacting investment strategies. As economies fluctuate, understanding the intricate dynamics of these elements becomes crucial for formulating robust investment strategies. Inflation, which refers to the general increase in prices and subsequent erosion of purchasing power, directly influences investment returns by eating into real gains. Consequently, strategies that fail to account for inflation risk may inadvertently lead to diminished investment outcomes.

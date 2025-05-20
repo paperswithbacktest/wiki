@@ -1,6 +1,8 @@
 ---
-title: "Credit Derivatives: Types and Misuse (Algo Trading)"
-description: "Explore the various types of credit derivatives and their influences on financial markets. Learn about their benefits, risks, and the role of algo trading."
+category: quant_concept
+description: Explore the various types of credit derivatives and their influences
+  on financial markets. Learn about their benefits, risks, and the role of algo trading.
+title: 'Credit Derivatives: Types and Misuse (Algo Trading)'
 ---
 
 Derivatives have significantly impacted the financial landscape by providing versatile tools for hedging, speculation, and risk management. They allow market participants to transfer various types of risk—such as commodity price fluctuations, currency inconsistencies, and interest rate variability—to those willing to accept them. Among derivatives, credit derivatives hold particular importance as they enable parties to manage exposure to credit risk effectively. This capacity is crucial for financial institutions, investors, and businesses seeking to protect themselves from the potential default of borrowers or changes in credit conditions.

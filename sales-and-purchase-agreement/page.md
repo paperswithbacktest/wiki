@@ -1,6 +1,8 @@
 ---
-title: "Sales and Purchase Agreement (Algo Trading)"
-description: "Discover the essential role Sales and Purchase Agreements play in transactions across various industries including real estate and algorithmic trading."
+category: quant_concept
+description: Discover the essential role Sales and Purchase Agreements play in transactions
+  across various industries including real estate and algorithmic trading.
+title: Sales and Purchase Agreement (Algo Trading)
 ---
 
 In this article, we explore the critical business documents referred to as Sales and Purchase Agreements (SPAs). SPAs serve as the backbone of numerous industries by clearly defining the terms of a transaction between a buyer and a seller. This transparency is vital for ensuring that both parties have a mutual understanding and agreement before finalizing any deal. SPAs are employed extensively in transactions that demand detailed negotiation and precision. 

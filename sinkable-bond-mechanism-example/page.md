@@ -1,6 +1,9 @@
 ---
-title: "Sinkable Bond Mechanism and Example (Algo Trading)"
-description: "Explore the benefits of sinkable bonds in algo trading Learn how their unique structures and sinking funds offer robust options for modern investors and issuers"
+category: quant_concept
+description: Explore the benefits of sinkable bonds in algo trading Learn how their
+  unique structures and sinking funds offer robust options for modern investors and
+  issuers
+title: Sinkable Bond Mechanism and Example (Algo Trading)
 ---
 
 In the evolving landscape of financial investments, sinkable bonds emerge as a robust option for both issuers and investors. These bonds, characterized by their unique structure involving a sinking fund, offer mechanisms that distinguish them from other fixed-income securities. The sinking fund, a reserve set aside by the issuer, serves to repurchase portions of the bond gradually over its term, effectively mitigating the risk of default and offering a structured approach to debt retirement. This feature not only enhances the bond's safety for investors but also facilitates a more predictable debt management strategy for issuers.

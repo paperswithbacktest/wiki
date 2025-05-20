@@ -1,6 +1,8 @@
 ---
-title: "Efficient Market Hypothesis and Stock Market Efficiency (Algo Trading)"
-description: "Explore the Efficient Market Hypothesis and its impact on algorithmic trading with insights into stock market efficiency challenges and investment strategies."
+category: quant_concept
+description: Explore the Efficient Market Hypothesis and its impact on algorithmic
+  trading with insights into stock market efficiency challenges and investment strategies.
+title: Efficient Market Hypothesis and Stock Market Efficiency (Algo Trading)
 ---
 
 The concept of market efficiency is pivotal for understanding financial markets and trading activities as it affects how assets are priced and traded globally. At the core of this concept is the Efficient Market Hypothesis (EMH), a theory which posits that asset prices fully reflect all available information. This implies that, in an efficient market, it is impossible to consistently achieve higher-than-average returns, since any new information relevant to asset prices is rapidly and accurately integrated into those prices.

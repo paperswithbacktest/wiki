@@ -1,6 +1,8 @@
 ---
-title: "Mutual Fund Yield: Definition and Functionality with Example (Algo Trading)"
-description: "Discover the functionality of mutual fund yields and algorithmic trading techniques Explore how they contribute to a balanced and profitable investment strategy"
+category: quant_concept
+description: Discover the functionality of mutual fund yields and algorithmic trading
+  techniques Explore how they contribute to a balanced and profitable investment strategy
+title: 'Mutual Fund Yield: Definition and Functionality with Example (Algo Trading)'
 ---
 
 The world of investing offers a plethora of strategies designed to generate returns, with mutual funds and algorithmic trading standing out as prominent choices among investors. Each approach presents unique advantages and considerations crucial for optimizing investment portfolios. 

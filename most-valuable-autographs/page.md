@@ -1,6 +1,8 @@
 ---
-title: "List of Most Valuable Autographs (Algo Trading)"
-description: "Discover the allure of rare autographs, explore algorithmic trading trends in collectibles, and uncover investment opportunities in historical signatures."
+category: dataset
+description: Discover the allure of rare autographs, explore algorithmic trading trends
+  in collectibles, and uncover investment opportunities in historical signatures.
+title: List of Most Valuable Autographs (Algo Trading)
 ---
 
 The world of collectibles is vast and varied, encompassing items from stamps and coins to rare autographs and celebrity signatures. Autographs hold a special place in this landscape, serving as tangible connections to historical figures and present-day celebrities. They capture moments in time, embodying personal interactions and significant historical events.

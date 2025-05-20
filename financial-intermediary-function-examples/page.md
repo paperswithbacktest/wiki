@@ -1,6 +1,8 @@
 ---
-title: "Financial Intermediary: Function and Examples (Algo Trading)"
-description: "Explore the crucial role of financial intermediaries and algorithmic trading in the economy, enhancing market efficiency, liquidity, and innovation."
+category: quant_concept
+description: Explore the crucial role of financial intermediaries and algorithmic
+  trading in the economy, enhancing market efficiency, liquidity, and innovation.
+title: 'Financial Intermediary: Function and Examples (Algo Trading)'
 ---
 
 Financial intermediaries are fundamental entities within an economy, acting as conduits between savers and borrowers. These intermediaries, by facilitating the flow of funds, enable individuals and institutions to achieve investment goals and manage financial risks. Commercial banks, mutual funds, and insurance companies are among the most well-known types of financial intermediaries, each providing vital functions that promote economic stability. By pooling resources, offering diversified investment options, and improving market liquidity, these institutions contribute significantly to efficient resource allocation and risk management across financial landscapes.

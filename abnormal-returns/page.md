@@ -1,6 +1,12 @@
 ---
-title: "Abnormal Returns (Algo Trading)"
-description: Discover how algorithmic trading enables investors to achieve abnormal returns by surpassing expected profit levels based on risk and market conditions. Explore the mechanics behind automated trading systems that leverage advanced algorithms and data analysis to identify opportunities invisible to human traders, driving superior market performance. Understand the significance of datasets and machine learning models in optimizing trading strategies for enhanced financial returns.
+category: trading_strategy
+description: Discover how algorithmic trading enables investors to achieve abnormal
+  returns by surpassing expected profit levels based on risk and market conditions.
+  Explore the mechanics behind automated trading systems that leverage advanced algorithms
+  and data analysis to identify opportunities invisible to human traders, driving
+  superior market performance. Understand the significance of datasets and machine
+  learning models in optimizing trading strategies for enhanced financial returns.
+title: Abnormal Returns (Algo Trading)
 ---
 
 In the fast-evolving world of finance, algorithmic trading has emerged as a powerful tool for achieving abnormal returns. An abnormal return refers to a profit level that surpasses the expected return when considering the risk and market conditions involved. Traditional investment models, such as the Capital Asset Pricing Model (CAPM), establish a baseline for expected returns by correlating an asset’s risk with its potential reward. When actual returns exceed these expectations, they are termed as abnormal.

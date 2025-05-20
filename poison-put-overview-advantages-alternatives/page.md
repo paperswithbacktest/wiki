@@ -1,6 +1,9 @@
 ---
-title: "Poison Put: Overview, Advantages, and Alternatives (Algo Trading)"
-description: "Explore the strategic role of poison puts in corporate finance enhance acquisition defenses and mitigate risks, providing insights for savvy investors and corporations."
+category: trading_strategy
+description: Explore the strategic role of poison puts in corporate finance enhance
+  acquisition defenses and mitigate risks, providing insights for savvy investors
+  and corporations.
+title: 'Poison Put: Overview, Advantages, and Alternatives (Algo Trading)'
 ---
 
 Corporate finance operates as a network of strategies and instruments crafted to enhance value, mitigate risk, and ensure organizational stability in an ever-evolving financial environment. Within this spectrum, the 'poison put' mechanism used in debt securities has emerged as a significant tool. This provision, often embedded in bond covenants, plays a crucial role in financial planning and acquisition defenses, offering tactical advantages in volatile markets.

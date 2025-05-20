@@ -1,6 +1,9 @@
 ---
-title: "Mental Accounting and Cognitive Bias (Algo Trading)"
-description: "Explore how cognitive biases like mental accounting affect algorithmic trading decisions by skewing perceptions and strategies Learn to mitigate their impact"
+category: quant_concept
+description: Explore how cognitive biases like mental accounting affect algorithmic
+  trading decisions by skewing perceptions and strategies Learn to mitigate their
+  impact
+title: Mental Accounting and Cognitive Bias (Algo Trading)
 ---
 
 Cognitive biases are systematic patterns of deviation from rationality in judgment, often arising from human tendencies to simplify complex decision-making processes. These mental shortcuts can profoundly impact various fields, notably finance and algorithmic trading. In finance, where decisions often involve significant uncertainty and risk, cognitive biases can skew an investor's perception and actions, leading to suboptimal outcomes. Algorithmic trading, despite its reliance on automated systems, is not immune to these biases because the design and oversight of trading algorithms are influenced by human cognition.

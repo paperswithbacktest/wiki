@@ -1,6 +1,9 @@
 ---
-title: "Sector ETFs and Investment Strategies (Algo Trading)"
-description: "Explore how sector ETFs and algorithmic trading intersect to optimize investment strategies. Learn to harness these tools for enhanced diversification and informed decision-making."
+category: trading_strategy
+description: Explore how sector ETFs and algorithmic trading intersect to optimize
+  investment strategies. Learn to harness these tools for enhanced diversification
+  and informed decision-making.
+title: Sector ETFs and Investment Strategies (Algo Trading)
 ---
 
 Investment strategies have evolved significantly with the advent of sector exchange-traded funds (ETFs) and algorithmic trading, offering investors new pathways to optimize their portfolios. Sector ETFs provide a focused investment vehicle by allowing investors to target specific sectors of the economy, such as technology, healthcare, or financial services. This targeted approach offers a level of diversification that enhances portfolio management by spreading risk across various sector-specific securities rather than relying solely on individual stocks.

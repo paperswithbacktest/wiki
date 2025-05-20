@@ -1,6 +1,8 @@
 ---
-title: "General Obligation Bond Types and Comparison with Revenue Bonds (Algo Trading)"
-description: "Explore municipal bonds with this expert guide on general obligation and revenue bonds. Learn their differences, risks, benefits, and role in algo trading."
+category: quant_concept
+description: Explore municipal bonds with this expert guide on general obligation
+  and revenue bonds. Learn their differences, risks, benefits, and role in algo trading.
+title: General Obligation Bond Types and Comparison with Revenue Bonds (Algo Trading)
 ---
 
 Bond investment plays a crucial role in both municipal finance and an investor's portfolio. Two prominent types of municipal bonds are revenue bonds and general obligation (GO) bonds. These financial instruments serve as essential tools for local governments seeking to fund projects without immediate tax increases, thereby spreading the cost over time to future beneficiaries.

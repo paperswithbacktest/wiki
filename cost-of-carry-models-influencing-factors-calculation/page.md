@@ -1,6 +1,9 @@
 ---
-title: "Cost of Carry: Models, Influencing Factors, and Calculation (Algo Trading)"
-description: "Explore the critical role of cost of carry in trading by understanding its impact on pricing models, asset valuation, and algorithmic strategies for profit optimization."
+category: quant_concept
+description: Explore the critical role of cost of carry in trading by understanding
+  its impact on pricing models, asset valuation, and algorithmic strategies for profit
+  optimization.
+title: 'Cost of Carry: Models, Influencing Factors, and Calculation (Algo Trading)'
 ---
 
 In the rapidly evolving landscape of financial markets, understanding the concept of cost of carry is crucial for traders and investors. Cost of carry refers to the expenses associated with holding a financial position or asset over a period. These costs include interest payments, storage fees, insurance, and opportunity costs, depending on the asset class and market conditions. Recognizing and accurately assessing the cost of carry is essential for making informed trading decisions, optimizing trade execution, and managing investment portfolios efficiently.

@@ -1,6 +1,9 @@
 ---
-title: "limit order book dynamics (Algo Trading)"
-description: "Explore the dynamics of limit order books in algorithmic trading Learn how they provide valuable market insights aid strategy development and enhance trade execution"
+category: quant_concept
+description: Explore the dynamics of limit order books in algorithmic trading Learn
+  how they provide valuable market insights aid strategy development and enhance trade
+  execution
+title: limit order book dynamics (Algo Trading)
 ---
 
 A limit order book (LOB) is a record of all outstanding limit orders in a market, organized by price levels. Limit orders specify the maximum price a buyer is willing to pay or the minimum price a seller is ready to accept. The limit order book thus serves as a representation of supply and demand dynamics, providing critical insight into the structure of financial markets. It plays an essential role in facilitating efficient trade execution by matching buy and sell orders based on price and time priority.
@@ -120,4 +123,3 @@ Looking ahead, the future of LOBs and algorithmic trading promises further integ
    - Institutions like the *National Bureau of Economic Research (NBER)* offer working papers and publications relevant to financial markets and trading infrastructure.
 
 By leveraging these resources, readers can further understand limit order book dynamics, explore their role in algorithmic trading, and enhance their strategic approaches in financial markets.
-

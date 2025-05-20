@@ -1,6 +1,8 @@
 ---
-title: "January Barometer: Overview and Examples (Algo Trading)"
-description: "Discover how the January Barometer, a concept linking January stock performance to the year's market trends, integrates with algorithmic trading strategies."
+category: quant_concept
+description: Discover how the January Barometer, a concept linking January stock performance
+  to the year's market trends, integrates with algorithmic trading strategies.
+title: 'January Barometer: Overview and Examples (Algo Trading)'
 ---
 
 The stock market is a dynamic and intricate system, continually shaped by a wide array of factors and indicators that challenge even the most seasoned traders and analysts. Among these many phenomena is the January Barometer, a concept that has sparked considerable interest within the financial community. This idea posits that the performance of the stock market in January can serve as a predictor for its performance over the remainder of the year. This article explores the interplay between economic indicators, the stock market, the January Barometer, and the evolving realm of algorithmic trading. 

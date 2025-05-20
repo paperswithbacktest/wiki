@@ -1,6 +1,13 @@
 ---
-title: "Efficiency Wages and Their Impact (Algo Trading)"
-description: "Discover the crucial role of efficiency wages in labor economics and their impact on algorithmic trading. This concept highlights how offering wages above market levels can boost employee productivity and firm performance by reducing turnover and improving morale. The page explores the historical roots and modern applications of efficiency wages, emphasizing their importance in sectors like finance where top-tier talent is necessary. Learn how strategic wage policies can enhance motivation and productivity in this comprehensive overview."
+category: quant_concept
+description: Discover the crucial role of efficiency wages in labor economics and
+  their impact on algorithmic trading. This concept highlights how offering wages
+  above market levels can boost employee productivity and firm performance by reducing
+  turnover and improving morale. The page explores the historical roots and modern
+  applications of efficiency wages, emphasizing their importance in sectors like finance
+  where top-tier talent is necessary. Learn how strategic wage policies can enhance
+  motivation and productivity in this comprehensive overview.
+title: Efficiency Wages and Their Impact (Algo Trading)
 ---
 
 Efficient wage theory is a pivotal concept in labor economics, shedding light on the ways in which wage levels can impact both employee productivity and the overall performance of firms. At its core, efficiency wages describe the phenomenon where employers offer wages that exceed market equilibrium levels with the aim of retaining skilled workers and fostering enhanced productivity. This strategy can result in numerous benefits for firms, including reduced employee turnover, decreased shirking, and improved morale.

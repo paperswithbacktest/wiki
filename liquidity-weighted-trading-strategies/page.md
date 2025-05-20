@@ -1,6 +1,9 @@
 ---
-title: "Liquidity-Weighted Trading Strategies (Algo Trading)"
-description: "Explore liquidity-weighted algorithmic trading strategies that optimize trade execution by integrating liquidity factors, minimizing market impact, and enhancing order efficiency."
+category: trading_strategy
+description: Explore liquidity-weighted algorithmic trading strategies that optimize
+  trade execution by integrating liquidity factors, minimizing market impact, and
+  enhancing order efficiency.
+title: Liquidity-Weighted Trading Strategies (Algo Trading)
 ---
 
 Liquidity-weighted trading strategies are an innovative approach within algorithmic trading that prioritize the inclusion of liquidity factors when executing trades. These strategies dynamically adjust order execution based on prevailing market liquidity levels, allowing traders to achieve optimal trade execution with minimal market impact. Traditionally, algorithmic trading has focused on aspects such as speed, efficiency, and comprehensive data analysis to automate trading decisions and execution processes. However, the growing importance of liquidity in this domain has prompted a shift towards strategies that incorporate market liquidity as a critical consideration.
@@ -193,4 +196,3 @@ In conclusion, liquidity-weighted trading strategies are indispensable for conte
 [8]: López de Prado, M. (2018). ["Advances in Financial Machine Learning."](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089)
 
 [9]: Menkveld, A.J. (2013). ["High Frequency Trading and the New Market Makers."](https://www.sciencedirect.com/science/article/pii/S1386418113000281) Journal of Financial Markets.
-

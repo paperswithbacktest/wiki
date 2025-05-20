@@ -1,6 +1,8 @@
 ---
-title: "Major Shareholders of General Motors (Algo Trading)"
-description: "Explore GM's major shareholders and the impact of algorithmic trading on its stock performance Insights on how algorithms influence GM's market valuation"
+category: dataset
+description: Explore GM's major shareholders and the impact of algorithmic trading
+  on its stock performance Insights on how algorithms influence GM's market valuation
+title: Major Shareholders of General Motors (Algo Trading)
 ---
 
 General Motors (GM) stands as a cornerstone of the global automotive industry, establishing its reputation through decades of innovation, resilience, and growth. Founded in 1908, GM has evolved into one of the largest automobile manufacturers worldwide, with a diverse portfolio of brands that include Chevrolet, Cadillac, GMC, and Buick. As a major player, GM is not only pivotal in shaping industry trends but also in pioneering technologies, such as electric vehicles (EVs) and autonomous driving systems. These innovations underscore GM’s commitment to sustainable transportation and contribute significantly to its investment appeal.

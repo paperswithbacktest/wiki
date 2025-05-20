@@ -1,6 +1,9 @@
 ---
-title: "Guarantees on Mortgage-Backed Securities (Algo Trading)"
-description: "Explore the intricacies of mortgage-backed securities including financial guarantees investment risks and the impact of algorithmic trading on these key financial instruments"
+category: quant_concept
+description: Explore the intricacies of mortgage-backed securities including financial
+  guarantees investment risks and the impact of algorithmic trading on these key financial
+  instruments
+title: Guarantees on Mortgage-Backed Securities (Algo Trading)
 ---
 
 Mortgage-backed securities (MBS) stand as prominent financial instruments, intricately connecting homebuyers with investors. Emerging from the need to channel mortgage debt from lenders to the broader capital markets, MBS serve as a crucial bridge between housing finance and investment portfolios. This article examines the complexity of these instruments, focusing on financial guarantees, investment risks, and the role of algorithmic trading. By gaining insights into these elements, investors are better positioned to make informed decisions and successfully navigate the evolving real estate investment landscape.

@@ -1,9 +1,9 @@
 ---
-title: Interactive Brokers Vs TD Ameritrade 2024 Comparison Guide
+category: trading_strategy
 description: Interactive Brokers vs TD Ameritrade comparison examines fees minimums
   tools platforms and support so you can choose the right broker Discover more inside.
+title: Interactive Brokers Vs TD Ameritrade 2024 Comparison Guide
 ---
-
 
 ![Image](images/1.png)
 

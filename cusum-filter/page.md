@@ -1,6 +1,15 @@
 ---
-title: "CUSUM filter (Algo Trading)"
-description: The CUSUM filter is a powerful tool in algorithmic trading for identifying market trends and potential trading opportunities by monitoring changes in cumulative sums of deviations from a target value. This article explores the CUSUM filter’s principles, applications, and benefits in trading, highlighting its effectiveness in detecting price breakpoints faster than traditional methods. Simple and computationally efficient, the CUSUM filter enhances real-time data analysis and helps traders distinguish noise from actual trends, improving strategies for market entry and exit. The guide includes practical insights into threshold settings and integration into trading models.
+category: trading_strategy
+description: The CUSUM filter is a powerful tool in algorithmic trading for identifying
+  market trends and potential trading opportunities by monitoring changes in cumulative
+  sums of deviations from a target value. This article explores the CUSUM filter’s
+  principles, applications, and benefits in trading, highlighting its effectiveness
+  in detecting price breakpoints faster than traditional methods. Simple and computationally
+  efficient, the CUSUM filter enhances real-time data analysis and helps traders distinguish
+  noise from actual trends, improving strategies for market entry and exit. The guide
+  includes practical insights into threshold settings and integration into trading
+  models.
+title: CUSUM filter (Algo Trading)
 ---
 
 Algorithmic trading has become a cornerstone of modern financial markets, utilizing advanced technology to automate and enhance trading decision-making processes. Key to successful algorithmic trading is the ability to filter and analyze large volumes of data effectively, which enables the identification of market trends and potential trading opportunities. One such tool that stands out for its effectiveness in detecting changes in data series is the Cumulative Sum (CUSUM) filter.

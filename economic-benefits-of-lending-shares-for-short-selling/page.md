@@ -1,6 +1,8 @@
 ---
-title: "Economic Benefits of Lending Shares for Short Selling (Algo Trading)"
-description: "Explore the economic advantages of lending shares for short selling in algo trading Enhance liquidity diversify strategies and maximize financial returns"
+category: trading_strategy
+description: Explore the economic advantages of lending shares for short selling in
+  algo trading Enhance liquidity diversify strategies and maximize financial returns
+title: Economic Benefits of Lending Shares for Short Selling (Algo Trading)
 ---
 
 Financial markets are pivotal structures in the global economy, serving as arenas for the exchange of capital and financial assets. They underpin economic growth by providing businesses and governments with access to capital, which facilitates investment, innovation, and ultimately, economic expansion. These markets enable the efficient allocation of resources, ensuring that funds are directed toward the most promising enterprises and projects. 

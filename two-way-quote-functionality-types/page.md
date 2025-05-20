@@ -1,6 +1,8 @@
 ---
-title: "Two-Way Quote: Functionality and Types (Algo Trading)"
-description: "Discover the essentials of two-way quotes in algorithmic trading. Learn how bid and ask prices reveal market liquidity, helping traders make informed decisions."
+category: quant_concept
+description: Discover the essentials of two-way quotes in algorithmic trading. Learn
+  how bid and ask prices reveal market liquidity, helping traders make informed decisions.
+title: 'Two-Way Quote: Functionality and Types (Algo Trading)'
 ---
 
 Understanding the mechanisms behind quotes is essential in financial trading, as they are the foundation for evaluating market conditions and making informed decisions. Financial quotes, particularly the two-way quote system, play a crucial role in reflecting a security's market value through bid and ask prices. These prices indicate what buyers are willing to pay (bid) and what sellers are asking (ask), with the difference between them, known as the bid-ask spread, acting as a key indicator of market liquidity and transaction costs.

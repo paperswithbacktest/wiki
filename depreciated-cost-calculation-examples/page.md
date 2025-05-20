@@ -1,6 +1,9 @@
 ---
-title: "Depreciated Cost Calculation and Examples (Algo Trading)"
-description: "Explore the impact of depreciated cost calculations on algorithmic trading strategies. Understand asset valuation methods to optimize trading models and financial reports."
+category: quant_concept
+description: Explore the impact of depreciated cost calculations on algorithmic trading
+  strategies. Understand asset valuation methods to optimize trading models and financial
+  reports.
+title: Depreciated Cost Calculation and Examples (Algo Trading)
 ---
 
 In the intricate world of finance, accounting concepts like depreciation are pivotal in shaping financial narratives. Depreciation, by systematically allocating the cost of tangible assets over their useful lives, impacts accounting records and financial reporting. It provides a method to mirror the consumption of an asset's value, offering transparency in financial statements.
@@ -186,4 +189,3 @@ Books, articles, and online resources provide valuable insights into understandi
 On the other hand, "Algorithmic Trading: Winning Strategies and Their Rationale" by Ernest P. Chan investigates into the nuances of algorithmic trading. This text discusses the integration of financial concepts like depreciation into trading algorithms, providing strategies that leverage data effectively for trading success. Chan’s book serves as a guide for developing trading models that incorporate real-time changes in asset values, enhancing decision-making accuracy and robustness.
 
 These publications provide foundational knowledge and strategies for professionals in accounting and trading, offering clarity on the complexities of depreciation and its influence on financial decision-making.
-

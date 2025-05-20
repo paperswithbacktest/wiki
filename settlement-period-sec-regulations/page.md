@@ -1,6 +1,8 @@
 ---
-title: "Settlement Period and SEC Regulations (Algo Trading)"
-description: "Explore the impact of SEC regulations on settlement periods and algorithmic trading in financial markets shaping efficiency transparency and innovation."
+category: quant_concept
+description: Explore the impact of SEC regulations on settlement periods and algorithmic
+  trading in financial markets shaping efficiency transparency and innovation.
+title: Settlement Period and SEC Regulations (Algo Trading)
 ---
 
 The financial trading world is a complex and dynamic system, essential to the global economy's functioning. Financial markets facilitate the exchange of capital and credit between investors, corporations, and governments. Key players and instruments within this environment include stocks, bonds, commodities, and derivatives, all of which contribute to market liquidity and capital distribution.

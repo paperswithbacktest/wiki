@@ -1,6 +1,9 @@
 ---
-title: "Lao Kip: Currency and Functionality (Algo Trading)"
-description: "Explore the Lao Kip and its role in algorithmic trading Discover how this unique currency offers trading opportunities amid economic dynamics and market challenges"
+category: dataset
+description: Explore the Lao Kip and its role in algorithmic trading Discover how
+  this unique currency offers trading opportunities amid economic dynamics and market
+  challenges
+title: 'Lao Kip: Currency and Functionality (Algo Trading)'
 ---
 
 The Lao Kip (LAK) serves as the official currency of the Lao People's Democratic Republic, commonly known as Laos. It is managed by the central bank, the Bank of the Lao P.D.R. Introduced in 1952 following the nation's independence from France, the Kip replaced the Indochinese piastre and has been a cornerstone of the country's financial system. Unlike many Asian currencies, the Kip is a freely floating currency in the foreign exchange market, offering a unique profile for traders and economists. While the US dollar is also commonly accepted in urban centers and tourist destinations, the Kip remains pivotal in Laos’ predominantly cash-based economy.

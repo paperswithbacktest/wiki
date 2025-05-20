@@ -1,6 +1,8 @@
 ---
-title: "liquidity cost (Algo Trading)"
-description: "Learn about liquidity cost in algorithmic trading its impact on strategy profitability and methods to efficiently manage expenses for competitive trading."
+category: quant_concept
+description: Learn about liquidity cost in algorithmic trading its impact on strategy
+  profitability and methods to efficiently manage expenses for competitive trading.
+title: liquidity cost (Algo Trading)
 ---
 
 Liquidity cost in the context of algorithmic trading refers to the expenses incurred from executing large orders that may impact the market price, mainly due to limited market depth and bid-ask spreads. Such costs are a critical consideration in trading and financial markets as they directly influence the profitability of trading strategies. High liquidity generally allows traders to buy or sell assets quickly without causing a significant impact on the price, reducing the cost associated with large order executions.

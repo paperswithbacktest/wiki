@@ -1,6 +1,14 @@
 ---
-title: "Are Cryptocurrencies Exposed to Traditional Factor Risks?"
-description: Explore the intersection of cryptocurrencies and traditional factor risks in this insightful article. Discover if digital assets like Bitcoin are subject to risks such as value, size, and momentum, which are pivotal in traditional asset pricing models. With the rise of Bitcoin ETFs and algorithmic trading strategies, understanding these dynamics is crucial for investors aiming to balance risk and return in their portfolios. Delve into the implications for portfolio management and gain strategic insights into incorporating cryptocurrencies in the evolving global financial landscape.
+category: quant_concept
+description: Explore the intersection of cryptocurrencies and traditional factor risks
+  in this insightful article. Discover if digital assets like Bitcoin are subject
+  to risks such as value, size, and momentum, which are pivotal in traditional asset
+  pricing models. With the rise of Bitcoin ETFs and algorithmic trading strategies,
+  understanding these dynamics is crucial for investors aiming to balance risk and
+  return in their portfolios. Delve into the implications for portfolio management
+  and gain strategic insights into incorporating cryptocurrencies in the evolving
+  global financial landscape.
+title: Are Cryptocurrencies Exposed to Traditional Factor Risks?
 ---
 
 Cryptocurrencies have rapidly transitioned from niche financial instruments to significant components in mainstream investment portfolios. Their potential for high returns, combined with increasing acceptance and adoption, has spurred significant intrigue among investors and financial analysts. One notable development is the advent of spot Bitcoin Exchange-Traded Funds (ETFs), which have redefined the landscape by offering a regulated and easily accessible means for individuals and institutions to invest in cryptocurrencies. This development has lowered entry barriers, making digital assets more appealing for traditional investors.

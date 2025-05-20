@@ -1,7 +1,8 @@
 ---
-title: Imitation Learning Techniques and Modern AI Applications
+category: quant_concept
 description: Imitation Learning enables systems to mimic human actions and adapt with
   methods like IQ Learn and CLIPort for real world tasks Discover more inside.
+title: Imitation Learning Techniques and Modern AI Applications
 ---
 
 ![Image](images/1.png)

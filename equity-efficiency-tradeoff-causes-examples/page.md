@@ -1,6 +1,9 @@
 ---
-title: "Equity-Efficiency Tradeoff: Causes and Examples (Algo Trading)"
-description: "Discover how algorithmic trading has transformed equity markets by analyzing the efficiency-equity tradeoff. Explore the challenges of maintaining fairness while maximizing economic efficiency and the implications for traders and policymakers."
+category: quant_concept
+description: Discover how algorithmic trading has transformed equity markets by analyzing
+  the efficiency-equity tradeoff. Explore the challenges of maintaining fairness while
+  maximizing economic efficiency and the implications for traders and policymakers.
+title: 'Equity-Efficiency Tradeoff: Causes and Examples (Algo Trading)'
 ---
 
 The rise of algorithmic trading has revolutionized the equity markets, altering how trades are executed and markets function. This method leverages complex algorithms to automate trading decisions, enhancing both speed and efficiency. However, as with any technological advancement, there exist inherent tradeoffs and complexities that come with balancing efficiency and equity. This article examines the concept of efficiency tradeoff in equity algorithmic trading, highlighting its definitions and implications for both modern traders and economists.

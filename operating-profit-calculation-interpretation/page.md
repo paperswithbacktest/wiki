@@ -1,6 +1,9 @@
 ---
-title: "Operating Profit Calculation and Interpretation (Algo Trading)"
-description: "Explore the calculation and significance of operating profit in algo trading Learn to assess core business profitability and optimize trading strategies effectively"
+category: trading_strategy
+description: Explore the calculation and significance of operating profit in algo
+  trading Learn to assess core business profitability and optimize trading strategies
+  effectively
+title: Operating Profit Calculation and Interpretation (Algo Trading)
 ---
 
 Algorithmic trading, commonly referred to as algo trading, has gained significant traction in the financial markets due to its capability to perform trades at high speed and with a quantitative foundation. This type of trading leverages complex algorithms that can analyze vast amounts of data and execute trades based on predefined criteria without human intervention. The precision and speed of algo trading provide traders with the means to capitalize on even minute market movements, often leading to improved profitability and reduced transaction costs.

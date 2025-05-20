@@ -1,7 +1,8 @@
 ---
-title: Machine Learning Techniques for Robotic Manipulation Models
+category: quant_concept
 description: Robotic manipulation uses machine learning to train robots that learn
   from virtual simulation feedback and deep learning Discover more inside.
+title: Machine Learning Techniques for Robotic Manipulation Models
 ---
 
 ![Image](images/1.png)

@@ -1,6 +1,8 @@
 ---
-title: "Generally Accepted Accounting Principles (Algo Trading)"
-description: "Explore the vital connection between GAAP accounting standards and algorithmic trading for accurate financial reporting and enhanced market transparency."
+category: quant_concept
+description: Explore the vital connection between GAAP accounting standards and algorithmic
+  trading for accurate financial reporting and enhanced market transparency.
+title: Generally Accepted Accounting Principles (Algo Trading)
 ---
 
 In the rapidly evolving financial landscape, the intersection between accounting standards, financial reporting, and algorithmic trading has become increasingly significant. In today's markets, where decisions are often made in fractions of a second, the need for accuracy and uniformity in financial data is paramount. Fundamental to this process are the Generally Accepted Accounting Principles (GAAP), which play a crucial role in ensuring consistency and transparency in financial reporting. GAAP provides a comprehensive framework for financial statements, enabling stakeholders, including investors, regulatory bodies, and market participants, to assess and compare the financial health of companies effectively.

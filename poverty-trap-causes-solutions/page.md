@@ -1,6 +1,9 @@
 ---
-title: "Poverty Trap: Causes and Solutions (Algo Trading)"
-description: "Explore the self-reinforcing mechanisms of poverty traps and discover economic, socio-political, and environmental solutions, including algorithmic trading strategies."
+category: quant_concept
+description: Explore the self-reinforcing mechanisms of poverty traps and discover
+  economic, socio-political, and environmental solutions, including algorithmic trading
+  strategies.
+title: 'Poverty Trap: Causes and Solutions (Algo Trading)'
 ---
 
 A poverty trap is a self-reinforcing mechanism that causes poverty to persist. This concept is significant in the global economy as it explains why some countries or populations fail to progress economically despite external aid or policy interventions. When individuals or communities are caught in a poverty trap, they lack the income necessary to invest in their futures, which perpetuates a cycle of poverty. These are often regions where access to fundamental resources such as education, healthcare, and infrastructure is severely limited. Understanding poverty traps is crucial because they present significant barriers to economic development and affect a substantial portion of the global population.

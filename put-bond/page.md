@@ -1,6 +1,8 @@
 ---
-title: "Put Bond (Algo Trading)"
-description: "Navigate the intriguing world of bonds and algorithmic trading Discover bond mechanisms and their impact on the financial market with cutting-edge insights"
+category: trading_strategy
+description: Navigate the intriguing world of bonds and algorithmic trading Discover
+  bond mechanisms and their impact on the financial market with cutting-edge insights
+title: Put Bond (Algo Trading)
 ---
 
 Bonds are fundamental instruments in financial markets, primarily serving as a tool for raising capital and as an investment vehicle for diverse market participants. These debt securities represent a promise by the issuer to repay the principal amount along with periodic interest, known as coupons, to the bondholder. They play a crucial role in the financial ecosystem by providing liquidity, managing risk, and funding public and private sector projects.
@@ -225,4 +227,3 @@ In conclusion, the interplay of bond mechanisms, types, and algorithmic trading 
 - The International Capital Market Association’s *Guide to Best Practice in the European Fixed Income Markets* offers insights into the regulatory framework and best practices in bond trading.
 
 - *Blockchain and the Future of Financial Markets* by C. Parknotts investigates into the impact of emerging technologies on financial trading systems, including bond markets.
-

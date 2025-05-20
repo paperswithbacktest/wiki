@@ -1,6 +1,9 @@
 ---
-title: "History of the First Mutual Fund (Algo Trading)"
-description: "Discover the compelling history of mutual funds and their evolution from 18th-century origins to the impacts of algorithmic trading in today's investment landscape."
+category: quant_concept
+description: Discover the compelling history of mutual funds and their evolution from
+  18th-century origins to the impacts of algorithmic trading in today's investment
+  landscape.
+title: History of the First Mutual Fund (Algo Trading)
 ---
 
 Mutual funds have gained prominence as a fundamental component of modern investment portfolios, providing a streamlined avenue for individual and institutional investors to achieve diversification across various asset classes. These financial instruments allow investors to pool their resources, granting access to a professionally managed, diversified portfolio of stocks, bonds, or other securities that might otherwise be difficult to assemble individually. This diversification mitigates risks and aims to enhance potential returns, embodying a balanced investment strategy.

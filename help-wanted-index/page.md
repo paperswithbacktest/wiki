@@ -1,6 +1,8 @@
 ---
-title: "Help-Wanted Index (Algo Trading)"
-description: "Explore the role of the Help-Wanted Index in understanding labor demand and its integration into algorithmic trading for enhanced market predictions."
+category: dataset
+description: Explore the role of the Help-Wanted Index in understanding labor demand
+  and its integration into algorithmic trading for enhanced market predictions.
+title: Help-Wanted Index (Algo Trading)
 ---
 
 The job market is a dynamic and constantly changing environment, with its evolution being shaped by various factors such as technological advancements, economic fluctuations, and shifting employment trends. One key metric used to understand and analyze this complex landscape is the Help-Wanted Index (HWI), an indicator that assesses labor demand by measuring the volume of job advertisements across different media platforms. Initially developed in 1951, the HWI provides insights into the supply and demand dynamics of the labor market, acting as a leading indicator of employment trends and potential shifts in unemployment rates. 
@@ -127,4 +129,3 @@ Through thoughtful analysis and adaptation, stakeholders can maximize the utilit
 [5]: Byrne, D., & Corrado, C. (2017). ["ICT Prices and ICT Services: What Do They Tell Us About Productivity and Technology?"](https://www.federalreserve.gov/econres/feds/files/2017015r1pap.pdf).
 
 [6]: Gomber, P., Arndt, B., Lutat, M., & Uhle, T. (2011). ["High-Frequency Trading."](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1858626) Business & Information Systems Engineering, 3(2), 153-162.
-

@@ -1,7 +1,8 @@
 ---
-title: Understanding Actor-Critic Reinforcement Learning Algorithms
+category: quant_concept
 description: Actor-Critic algorithm integrates policy and value based learning to
   optimize agent decisions through TD error driven feedback Discover more inside.
+title: Understanding Actor-Critic Reinforcement Learning Algorithms
 ---
 
 ![Image](images/1.png)

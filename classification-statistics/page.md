@@ -1,6 +1,12 @@
 ---
-title: "Classification statistics (Algo Trading)"
-description: Explore how classification statistics enhance algorithmic trading by refining strategies for better market responses. Dive into how categorizing market inputs allows traders to spot patterns and trends, optimizing performance and decision-making. Learn about the integration of machine learning models like decision trees and SVMs, and the impact of classification on trading effectiveness. Gain insights into creating adaptive, data-driven trading methodologies in this fast-paced financial arena.
+category: trading_strategy
+description: Explore how classification statistics enhance algorithmic trading by
+  refining strategies for better market responses. Dive into how categorizing market
+  inputs allows traders to spot patterns and trends, optimizing performance and decision-making.
+  Learn about the integration of machine learning models like decision trees and SVMs,
+  and the impact of classification on trading effectiveness. Gain insights into creating
+  adaptive, data-driven trading methodologies in this fast-paced financial arena.
+title: Classification statistics (Algo Trading)
 ---
 
 In financial markets, algorithmic trading has emerged as a dominant force, increasingly utilizing classification statistics to refine and enhance trading strategies. Algorithmic trading, often referred to as algo trading, employs advanced mathematical models and computational strategies to execute trades at lightning speed, significantly altering traditional trading paradigms. This advent of technology-driven trading strategies not only increases efficiency but also influences market dynamics on a global scale.

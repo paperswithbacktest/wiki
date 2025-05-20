@@ -1,6 +1,8 @@
 ---
-title: "Benefits of Stock Share Repurchases (Algo Trading)"
-description: "Explore the intersection of stock buybacks and algorithmic trading, examining their impact on modern finance, market dynamics, and corporate strategies."
+category: trading_strategy
+description: Explore the intersection of stock buybacks and algorithmic trading, examining
+  their impact on modern finance, market dynamics, and corporate strategies.
+title: Benefits of Stock Share Repurchases (Algo Trading)
 ---
 
 Corporate finance encompasses the various strategies that companies employ to source, allocate, and manage their capital in order to maximize shareholder value. A vital component of corporate finance is capital management, which involves optimizing the capital structure to balance risk and return while supporting the company's strategic objectives. This process is fundamental for companies to maintain financial health, sustain growth, and gain competitive advantages in their industries.

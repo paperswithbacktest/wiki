@@ -1,6 +1,13 @@
 ---
-title: "Average Price and Mean: Calculation and Comparison (Algo Trading)"
-description: "Discover the vital role of average and mean price calculations in financial trading and investments. These methods form the backbone of strategies used by traders to predict trends, optimize trades, and enhance decision-making accuracy. Explore the significance of arithmetic mean and volume-weighted average price (VWAP) in simplifying data, forecasting market movements, and refining trading strategies. This in-depth guide reveals how these calculations are crucial for navigating volatile markets and maximizing trading efficiency."
+category: quant_concept
+description: Discover the vital role of average and mean price calculations in financial
+  trading and investments. These methods form the backbone of strategies used by traders
+  to predict trends, optimize trades, and enhance decision-making accuracy. Explore
+  the significance of arithmetic mean and volume-weighted average price (VWAP) in
+  simplifying data, forecasting market movements, and refining trading strategies.
+  This in-depth guide reveals how these calculations are crucial for navigating volatile
+  markets and maximizing trading efficiency.
+title: 'Average Price and Mean: Calculation and Comparison (Algo Trading)'
 ---
 
 Understanding how average and mean prices are determined is crucial in financial trading and investment. These calculations form the foundation for various trading strategies and investment decisions. Traders rely on these numerical indicators to assess market trends, make predictions, and execute trades with greater accuracy and efficiency.

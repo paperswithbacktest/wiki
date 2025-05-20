@@ -1,7 +1,8 @@
 ---
-title: Understanding Subword Tokenization in Machine Learning Developers
+category: quant_concept
 description: Subword tokenization improves NLP by breaking words into familiar parts
   for better handling of rare terms and efficiency Discover more inside.
+title: Understanding Subword Tokenization in Machine Learning Developers
 ---
 
 ![Image](images/1.webp)

@@ -1,7 +1,8 @@
 ---
-title: Image Restoration Models and Techniques in Machine Learning
+category: quant_concept
 description: Image restoration uses machine learning to remove blur noise and scratches
   while preserving detail in photos and medical scans Discover more inside
+title: Image Restoration Models and Techniques in Machine Learning
 ---
 
 ![Image](images/1.jpeg)

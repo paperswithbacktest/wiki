@@ -1,6 +1,9 @@
 ---
-title: "Consumer Packaged Goods Vs. Durable Goods (Algo Trading)"
-description: "Explore how algorithmic trading transforms market strategies in durable and consumer packaged goods industries by offering data-driven insights and strategic advantages."
+category: trading_strategy
+description: Explore how algorithmic trading transforms market strategies in durable
+  and consumer packaged goods industries by offering data-driven insights and strategic
+  advantages.
+title: Consumer Packaged Goods Vs. Durable Goods (Algo Trading)
 ---
 
 In the rapidly evolving financial landscape, algorithmic trading has emerged as a significant force, particularly within the domains of Durable Goods and Consumer Packaged Goods (CPG). This method utilizes computer algorithms to make trading decisions at speed and scale, offering a strategic advantage in analyzing complex market dynamics and executing transactions efficiently. The adoption of algo trading is transforming these sectors, providing firms with the tools to enhance their market strategies and tap into new investment opportunities.

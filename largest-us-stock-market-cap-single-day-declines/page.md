@@ -1,6 +1,9 @@
 ---
-title: "Largest U.S. Stock Market Cap Single-Day Declines (Algo Trading)"
-description: "Explore the impact of algorithmic trading on U.S. stock market cap declines amidst turbulent conditions offering insights into investor strategies and market dynamics."
+category: quant_concept
+description: Explore the impact of algorithmic trading on U.S. stock market cap declines
+  amidst turbulent conditions offering insights into investor strategies and market
+  dynamics.
+title: Largest U.S. Stock Market Cap Single-Day Declines (Algo Trading)
 ---
 
 The stock market is a complex ecosystem where numerous factors play a role in the valuation of companies. As an intricate web of economic indicators, investor sentiment, corporate performance, and geopolitical influences, the stock market constantly shifts. In recent times, one of the noteworthy phenomena in the U.S. stock market has been its significant fluctuations, underscoring the substantial declines in market capitalization. Market capitalization, the total market value of a company's outstanding shares, is a critical measure used by investors to assess company size and value. However, it is susceptible to swiftly diminishing during turbulent market conditions.

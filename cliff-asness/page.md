@@ -1,6 +1,14 @@
 ---
-title: "Cliff Asness (Algo Trading)"
-description: Discover the profound impact of Clifford Asness on hedge fund management and algorithmic trading. Explore how, as co-founder of AQR Capital Management, Asness revolutionized investment strategies with quantitative and data-driven approaches, helping AQR become one of the largest hedge funds. His leadership underscores a shift from traditional methods to an empirical, innovative paradigm that merges academic theory with market application. Learn about Asness's early education, pivotal role at Goldman Sachs, and the genesis of algorithmic trading, all contributing to his status as a key figure in modern finance.
+category: quant_concept
+description: Discover the profound impact of Clifford Asness on hedge fund management
+  and algorithmic trading. Explore how, as co-founder of AQR Capital Management, Asness
+  revolutionized investment strategies with quantitative and data-driven approaches,
+  helping AQR become one of the largest hedge funds. His leadership underscores a
+  shift from traditional methods to an empirical, innovative paradigm that merges
+  academic theory with market application. Learn about Asness's early education, pivotal
+  role at Goldman Sachs, and the genesis of algorithmic trading, all contributing
+  to his status as a key figure in modern finance.
+title: Cliff Asness (Algo Trading)
 ---
 
 Clifford Asness has had a profound impact on hedge fund management, significantly altering the landscape of the financial world through his innovative approaches. Asness is the co-founder and managing principal of AQR Capital Management, a firm widely recognized for its implementation of quantitative and algorithmic trading strategies. Launched in 1998, AQR Capital Management quickly rose to prominence as one of the largest hedge funds, driven by its data-driven investment approach and rigorous analysis. Asness's leadership in algorithmic trading and his empirical approach to investment management have paved the way for innovative strategies that integrate academic theory with practical application.

@@ -1,6 +1,8 @@
 ---
-title: "Impact of Fee Compression on ETF Management (Algo Trading)"
-description: "Explore how fee compression in ETFs and the rise of algorithmic trading redefine investment strategies and market dynamics offering cost-efficient opportunities."
+category: quant_concept
+description: Explore how fee compression in ETFs and the rise of algorithmic trading
+  redefine investment strategies and market dynamics offering cost-efficient opportunities.
+title: Impact of Fee Compression on ETF Management (Algo Trading)
 ---
 
 In the rapidly evolving world of finance, investment strategies are continuously adapting to address new challenges and seize emerging opportunities. Among the key trends reshaping the investment landscape today are the compression of management fees in Exchange Traded Funds (ETFs) and the rising prominence of algorithmic trading. These developments are not just shaping market dynamics; they are redefining the criteria for successful investing.

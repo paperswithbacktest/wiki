@@ -1,6 +1,8 @@
 ---
-title: "Money Market Mutual Fund Liquidity Facility (Algo Trading)"
-description: "Explore the critical role of liquidity facilities, MMMFs, and algorithmic trading in modern finance, highlighting their impact during economic crises."
+category: quant_concept
+description: Explore the critical role of liquidity facilities, MMMFs, and algorithmic
+  trading in modern finance, highlighting their impact during economic crises.
+title: Money Market Mutual Fund Liquidity Facility (Algo Trading)
 ---
 
 In today's financial landscape, understanding the interplay between various market mechanisms is crucial. This article examines the impact and importance of liquidity facilities, money market mutual funds (MMMFs), and algorithmic trading in shaping modern financial systems. Among these, the Money Market Mutual Fund Liquidity Facility (MMLF) is of particular interest, given its role in alleviating financial uncertainty during periods of economic distress like the COVID-19 pandemic. 

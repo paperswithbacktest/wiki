@@ -1,10 +1,9 @@
 ---
-title: Master Machine Learning Pipelines for Efficient Model Workflows
+category: quant_concept
 description: Machine learning pipelines automate data preprocessing, feature selection,
   and model training to save time and reduce errors Discover more inside
+title: Master Machine Learning Pipelines for Efficient Model Workflows
 ---
-
-
 
 ## Table of Contents
 

@@ -1,7 +1,8 @@
 ---
-title: Understanding the Exploding Gradient Problem in Neural Networks
+category: quant_concept
 description: Exploding Gradient Problem insights help spot unstable neural network
   training with gradient clipping and initialization techniques Discover more inside.
+title: Understanding the Exploding Gradient Problem in Neural Networks
 ---
 
 ![Image](images/1.png)

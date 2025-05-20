@@ -1,7 +1,8 @@
 ---
-title: Comprehensive Guide to Feedforward Neural Network Fundamentals
+category: quant_concept
 description: Feedforward Neural Network models process data in a single forward pass
   to simplify training and improve prediction accuracy Discover more inside
+title: Comprehensive Guide to Feedforward Neural Network Fundamentals
 ---
 
 ![Image](images/1.png)

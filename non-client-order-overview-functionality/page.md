@@ -1,6 +1,8 @@
 ---
-title: "Non-Client Order: Overview and Functionality (Algo Trading)"
-description: "Explore the dynamics of non-client orders in algo trading Understand how these transactions impact modern trading enhancing transparency and market integrity"
+category: quant_concept
+description: Explore the dynamics of non-client orders in algo trading Understand
+  how these transactions impact modern trading enhancing transparency and market integrity
+title: 'Non-Client Order: Overview and Functionality (Algo Trading)'
 ---
 
 In the ever-evolving landscape of financial markets, technology continues to revolutionize the way transactions are executed. Central to this transformation is algorithmic trading, commonly known as algo trading, along with the concept of non-client orders, both of which are pivotal to understanding modern trading dynamics.

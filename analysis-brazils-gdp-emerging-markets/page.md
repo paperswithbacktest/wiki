@@ -1,6 +1,9 @@
 ---
-title: "Analysis of Brazil's GDP in Emerging Markets (Algo Trading)"
-description: "Discover how Brazil's GDP performs in emerging markets, analyzing key sectors like services, industry, and agriculture along with algorithmic trading insights."
+category: dataset
+description: Discover how Brazil's GDP performs in emerging markets, analyzing key
+  sectors like services, industry, and agriculture along with algorithmic trading
+  insights.
+title: Analysis of Brazil's GDP in Emerging Markets (Algo Trading)
 ---
 
 Brazil stands as the largest economy in Latin America and the eleventh-largest economy in the world, with a Gross Domestic Product (GDP) of $1.92 trillion in 2022. This robust stature highlights Brazil's significance on the global economic stage. Historically, Brazil experienced a period of rapid economic expansion, ranking among the fastest-growing economies until 2012. However, since then, various internal and external factors have contributed to a notable slowdown in its economic growth.

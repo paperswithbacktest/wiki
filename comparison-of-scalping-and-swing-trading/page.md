@@ -1,6 +1,9 @@
 ---
-title: "Comparison of Scalping and Swing Trading (Algo Trading)"
-description: "Explore the differences between scalping and swing trading in algo trading. Understand their unique strategies, risk levels, and how each suits different trader profiles."
+category: trading_strategy
+description: Explore the differences between scalping and swing trading in algo trading.
+  Understand their unique strategies, risk levels, and how each suits different trader
+  profiles.
+title: Comparison of Scalping and Swing Trading (Algo Trading)
 ---
 
 In the ever-evolving world of financial markets, trading strategies are vital for investors aiming to maximize returns and manage risk effectively. This article examines three prominent trading strategies: swing trading, scalping, and algorithmic trading. Each strategy caters to various trading styles, timeframes, and levels of expertise, presenting unique opportunities for both novice and experienced traders.

@@ -1,6 +1,8 @@
 ---
-title: "Dow Jones Utility Average: Overview and Examples (Algo Trading)"
-description: "Explore how the Dow Jones Utility Average tracks utility stocks and influences trading strategies through algorithmic methods. Stay updated on DJUA impacts."
+category: quant_concept
+description: Explore how the Dow Jones Utility Average tracks utility stocks and influences
+  trading strategies through algorithmic methods. Stay updated on DJUA impacts.
+title: 'Dow Jones Utility Average: Overview and Examples (Algo Trading)'
 ---
 
 The Dow Jones Utility Average (DJUA) plays a crucial role in the financial markets by serving as a key indicator of investor sentiment and market trends within the utility sector. Established in 1929, it is one of the oldest stock indices used to track the performance of leading utility companies in the United States. The DJUA includes 15 prominent utility stocks, acting as a barometer for the industry's health and aligning closely with economic fluctuations.

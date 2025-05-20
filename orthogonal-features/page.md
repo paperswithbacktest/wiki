@@ -1,6 +1,12 @@
 ---
-title: "Orthogonal features (Algo Trading)"
-description: Explore the importance of orthogonal features in algorithmic trading and how they enhance predictive models by minimizing multicollinearity. Learn about techniques like PCA and ICA used for constructing these features, which contribute to more robust and efficient trading algorithms capable of navigating volatile financial markets with greater accuracy and effectiveness. Discover real-world examples and strategies to gain a competitive edge in the fast-paced world of algo trading.
+category: quant_concept
+description: Explore the importance of orthogonal features in algorithmic trading
+  and how they enhance predictive models by minimizing multicollinearity. Learn about
+  techniques like PCA and ICA used for constructing these features, which contribute
+  to more robust and efficient trading algorithms capable of navigating volatile financial
+  markets with greater accuracy and effectiveness. Discover real-world examples and
+  strategies to gain a competitive edge in the fast-paced world of algo trading.
+title: Orthogonal features (Algo Trading)
 ---
 
 Algorithmic trading stands at the forefront of the financial industry, continuously evolving with advancements in technology and data science. It leverages complex algorithms and statistical models to execute trading decisions at speeds and frequencies that are impossible for human traders. One of the critical challenges in this domain is building predictive models that can adapt to diverse market conditions while avoiding overfitting—a situation where a model performs well on historical data but fails in practical applications.

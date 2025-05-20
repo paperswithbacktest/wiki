@@ -1,6 +1,9 @@
 ---
-title: "Stock Dividend and Its Mechanism (Algo Trading)"
-description: "Explore the synergy between stock dividends and algorithmic trading in modern finance. Learn how these strategies enhance investment portfolios and yield potential."
+category: trading_strategy
+description: Explore the synergy between stock dividends and algorithmic trading in
+  modern finance. Learn how these strategies enhance investment portfolios and yield
+  potential.
+title: Stock Dividend and Its Mechanism (Algo Trading)
 ---
 
 In today's dynamic financial landscape, investors are continuously exploring strategies to maximize returns while managing risk. Among the myriad of investment strategies, stock dividend investment and algorithmic trading have gained significant popularity due to their distinct advantages and potential for synergy. Stock dividends provide a steady stream of income, reflecting a company's profitability and financial health, while algorithmic trading offers precision and speed, leveraging technology to execute trades with minimal human intervention.

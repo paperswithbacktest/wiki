@@ -1,6 +1,8 @@
 ---
-title: "Obamanomics: Concept and Mechanism (Algo Trading)"
-description: "Explore the economic policies of Barack Obama's presidency known as Obamanomics and their impact on financial markets and algorithmic trading dynamics."
+category: quant_concept
+description: Explore the economic policies of Barack Obama's presidency known as Obamanomics
+  and their impact on financial markets and algorithmic trading dynamics.
+title: 'Obamanomics: Concept and Mechanism (Algo Trading)'
 ---
 
 Barack Obama's presidency, marked from 2009 to 2017, was shaped by an ambitious set of economic policies referred to as Obamanomics. These policies were centered around counteracting the severe economic downturn known as the Great Recession, which began in 2007 and presented significant challenges to the United States' fiscal health. Key among these challenges was the need to restore financial stability and confidence, revitalized through measures such as the American Recovery and Reinvestment Act (ARRA) and the Dodd-Frank Wall Street Reform and Consumer Protection Act.

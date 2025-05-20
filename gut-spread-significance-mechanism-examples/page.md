@@ -1,6 +1,9 @@
 ---
-title: "Gut Spread: Significance, Mechanism, and Examples (Algo Trading)"
-description: "Discover how biology and tech intersect in Gut Spread by exploring analogies between gut microbiota and algorithmic trading uncovering insights into adaptive systems."
+category: quant_concept
+description: Discover how biology and tech intersect in Gut Spread by exploring analogies
+  between gut microbiota and algorithmic trading uncovering insights into adaptive
+  systems.
+title: 'Gut Spread: Significance, Mechanism, and Examples (Algo Trading)'
 ---
 
 Understanding the dynamic intersections between biology and technology is key to innovations across multiple fields. This article explores the intriguing parallels between biological systems, particularly the gut microbiota, and technological processes like algorithmic trading. Both fields operate as complex adaptive systems, characterized by interactions that lead to emergent behavior. By examining how these systems function, we can uncover patterns and strategies relevant across domains, leading to novel insights and methodologies.

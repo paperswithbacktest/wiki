@@ -1,6 +1,8 @@
 ---
-title: "Hoarding in Commodities (Algo Trading)"
-description: "Explore the dynamic influences of hoarding and algorithmic trading in commodities markets uncovering their roles in price volatility and market efficiency."
+category: trading_strategy
+description: Explore the dynamic influences of hoarding and algorithmic trading in
+  commodities markets uncovering their roles in price volatility and market efficiency.
+title: Hoarding in Commodities (Algo Trading)
 ---
 
 Hoarding and algorithmic trading are influential practices within commodities economics, shaping the dynamics of markets through distinct yet interconnected mechanisms. The deliberate accumulation of commodities, known as hoarding, is often driven by expectations of future price increases. This strategy can lead to a rise in prices and market imbalances. Conversely, algorithmic trading utilizes sophisticated algorithms to execute trades rapidly, providing liquidity and efficiency but also introducing potential volatility.

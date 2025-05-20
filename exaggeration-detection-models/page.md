@@ -1,7 +1,8 @@
 ---
-title: Exaggeration Detection With MT-PET In Machine Learning
+category: quant_concept
 description: Exaggeration detection uses MT-PET models fine tuned on labeled datasets
   to spot overstatements and improve NLP accuracy Discover more inside
+title: Exaggeration Detection With MT-PET In Machine Learning
 ---
 
 ![Image](images/1.png)

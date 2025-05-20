@@ -1,6 +1,8 @@
 ---
-title: "Projected Benefit Obligation (Algo Trading)"
-description: "Explore the intersection of actuarial accounting and algorithmic trading in pension management Discover how these elements shape future financial strategies"
+category: quant_concept
+description: Explore the intersection of actuarial accounting and algorithmic trading
+  in pension management Discover how these elements shape future financial strategies
+title: Projected Benefit Obligation (Algo Trading)
 ---
 
 Understanding the complexities of retirement benefits and pension liabilities is vital for financial planning and actuarial accounting. Pension liabilities are essentially long-term financial commitments that corporations and public entities make to their employees, promising specific payouts when they retire. Calculating these obligations requires a blend of financial acumen and actuarial expertise, where assumptions about future events such as employee longevity, salary growth, and the expected returns on pension fund assets become critical.

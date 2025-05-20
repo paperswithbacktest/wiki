@@ -1,6 +1,9 @@
 ---
-title: "Green Investor Podcast by Investopedia (Algo Trading)"
-description: "Discover the synergy of sustainable investing and algorithmic trading through expert insights via podcasts unlocking innovative financial strategies and ESG trends."
+category: quant_concept
+description: Discover the synergy of sustainable investing and algorithmic trading
+  through expert insights via podcasts unlocking innovative financial strategies and
+  ESG trends.
+title: Green Investor Podcast by Investopedia (Algo Trading)
 ---
 
 In a rapidly evolving financial landscape, the integration of sustainable investing and algorithmic trading is gaining momentum. Sustainable investing focuses on strategies that prioritize Environmental, Social, and Governance (ESG) criteria alongside financial returns, seeking to address wider societal impacts while achieving market returns. On the other hand, algorithmic trading uses advanced computational methods to automate and optimize trading decisions, leveraging data and technology for efficient market participation.

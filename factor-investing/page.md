@@ -1,9 +1,12 @@
 ---
-title: "Factor Investing (Algo Trading)"
-description: Discover the intersection of Factor Investing and Algo Trading, where data-driven analysis meets timeless investment strategies. Learn about factors, their categories, and how quantitative methods enhance this approach for successful market navigation. Explore resources for trading strategies, libraries, datasets, and become a quant trader.
+category: trading_strategy
+description: Discover the intersection of Factor Investing and Algo Trading, where
+  data-driven analysis meets timeless investment strategies. Learn about factors,
+  their categories, and how quantitative methods enhance this approach for successful
+  market navigation. Explore resources for trading strategies, libraries, datasets,
+  and become a quant trader.
+title: Factor Investing (Algo Trading)
 ---
-
-
 
 Factor investing, a strategy that involves targeting specific drivers of returns across asset classes, has become an essential component in the modern investment landscape. Unlike traditional approaches that may concentrate on individual stock selection or market timing, factor investing focuses on quantifiable characteristics or factors—such as size, value, and momentum—that can explain variances in stock returns. This method offers a more systematic and disciplined approach to capturing excess returns and managing risk. Its significance is underscored by its widespread adoption by institutional investors seeking long-term performance in diverse market conditions.
 

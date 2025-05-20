@@ -1,6 +1,8 @@
 ---
-title: "Cash Accounting: Overview and Limitations (Algo Trading)"
-description: "Discover the pros and cons of cash accounting and its impact on algorithmic trading Understand how this method can affect financial management and decision-making"
+category: quant_concept
+description: Discover the pros and cons of cash accounting and its impact on algorithmic
+  trading Understand how this method can affect financial management and decision-making
+title: 'Cash Accounting: Overview and Limitations (Algo Trading)'
 ---
 
 Accounting practices are foundational to financial management, playing a crucial role in how businesses track performance, manage resources, and strategize for future growth. Accurate and reliable accounting practices are essential for businesses to provide transparency, comply with regulations, and make informed financial decisions. However, these practices are not without their limitations. Understanding these limitations is vital for businesses and investors to navigate potential pitfalls that might influence business operations and investment strategies.

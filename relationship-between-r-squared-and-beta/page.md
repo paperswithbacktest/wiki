@@ -1,6 +1,9 @@
 ---
-title: "Relationship Between R-Squared and Beta (Algo Trading)"
-description: "Explore the link between R-Squared and Beta in algo trading Discover how Beta Finance leverages these metrics for optimized trading precision and market engagement"
+category: quant_concept
+description: Explore the link between R-Squared and Beta in algo trading Discover
+  how Beta Finance leverages these metrics for optimized trading precision and market
+  engagement
+title: Relationship Between R-Squared and Beta (Algo Trading)
 ---
 
 Beta Finance is a decentralized finance (DeFi) platform designed to provide users with tools for effective financial strategies, focusing on volatility management and market participation. It leverages the principles of decentralized finance to offer a streamlined experience for borrowing, lending, and shorting digital assets, thereby playing a crucial role in the cryptocurrency market where managing digital asset risks is essential for both institutional and individual investors.

@@ -1,6 +1,8 @@
 ---
-title: "Coinbase (Cryptocurrency Exchange) (Algo Trading)"
-description: "Discover the synergy of Coinbase's role in crypto trading and blockchain innovations Learn how algorithmic trading shapes the future of digital finance"
+category: quant_concept
+description: Discover the synergy of Coinbase's role in crypto trading and blockchain
+  innovations Learn how algorithmic trading shapes the future of digital finance
+title: Coinbase (Cryptocurrency Exchange) (Algo Trading)
 ---
 
 Cryptocurrency has dramatically reshaped the landscape of digital finance, with key players like Coinbase leading the charge. Over the past decade, digital currencies have evolved from niche curiosities to assets of significant financial importance. This shift has been propelled by the development of sophisticated trading platforms and technologies, such as blockchain and algorithmic trading. To effectively engage with the cryptocurrency market, an understanding of these elements is essential.

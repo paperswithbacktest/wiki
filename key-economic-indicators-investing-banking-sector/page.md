@@ -1,6 +1,9 @@
 ---
-title: "Key Economic Indicators for Investing in the Banking Sector (Algo Trading)"
-description: "Discover critical economic indicators for investing in the banking sector via algorithmic trading Learn how interest rates inflation and GDP impact profitability and strategies"
+category: quant_concept
+description: Discover critical economic indicators for investing in the banking sector
+  via algorithmic trading Learn how interest rates inflation and GDP impact profitability
+  and strategies
+title: Key Economic Indicators for Investing in the Banking Sector (Algo Trading)
 ---
 
 The banking sector is a cornerstone of the modern economy, serving as an intermediary for capital allocation, facilitating payments, and supporting economic growth through lending and investment activities. As financial institutions engage in these operations, they significantly influence and are influenced by economic indicators such as interest rates, inflation, and Gross Domestic Product (GDP). Evaluating these economic indicators is crucial for making informed investment decisions within the banking sector.

@@ -1,6 +1,8 @@
 ---
-title: "Chicago School of Economics (Algo Trading)"
-description: "Explore the synergy between the Chicago School of Economics and algorithmic trading, where free-market principles meet cutting-edge data-driven financial strategies."
+category: quant_concept
+description: Explore the synergy between the Chicago School of Economics and algorithmic
+  trading, where free-market principles meet cutting-edge data-driven financial strategies.
+title: Chicago School of Economics (Algo Trading)
 ---
 
 The interplay between economic theory, the Chicago School of Economics, and algorithmic trading represents a fascinating confluence of ideas and practices. Economic theory lays the groundwork for understanding market behaviors and trends through principles like supply and demand, utility, and market equilibrium. These principles serve as the bedrock for analyzing how various economic actors interact within markets, influencing prices, production, and distribution of resources. The Chicago School of Economics, established in the 1930s at the University of Chicago, is renowned for its significant contributions to free-market theories and monetarism. This school of thought has emphasized the importance of minimal government intervention, advocating that free markets are efficient and self-regulating.

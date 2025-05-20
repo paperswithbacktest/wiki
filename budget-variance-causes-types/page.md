@@ -1,6 +1,9 @@
 ---
-title: "Budget Variance: Causes and Types (Algo Trading)"
-description: "Explore the significance of budget variance and its impact on financial management Learn how algorithmic trading can enhance forecast accuracy and reduce variances"
+category: quant_concept
+description: Explore the significance of budget variance and its impact on financial
+  management Learn how algorithmic trading can enhance forecast accuracy and reduce
+  variances
+title: 'Budget Variance: Causes and Types (Algo Trading)'
 ---
 
 Budget variance is a critical concept in financial management and analysis. It represents the difference between the budgeted figures and the actual financial outcomes within a specified period. Understanding budget variance is essential as it allows businesses to assess their financial performance against their planned objectives, aiding in strategic decision-making and resource allocation. Accurately identifying variances helps organizations pinpoint areas of financial inefficiency or surplus, thus enabling them to take corrective actions to improve financial health.

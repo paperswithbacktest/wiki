@@ -1,6 +1,8 @@
 ---
-title: "Return on Average Assets (Algo Trading)"
-description: "Discover how Return on Average Assets and algorithmic trading can optimize investment portfolios by enhancing asset efficiency and driving long-term profitability."
+category: quant_concept
+description: Discover how Return on Average Assets and algorithmic trading can optimize
+  investment portfolios by enhancing asset efficiency and driving long-term profitability.
+title: Return on Average Assets (Algo Trading)
 ---
 
 In today's ever-evolving financial landscape, understanding the performance of financial assets is critical for both individual and institutional investors. Investors must navigate a complex array of factors influencing asset performance to achieve their financial goals. Among these factors, financial metrics and technological advances play pivotal roles in shaping investment strategies.

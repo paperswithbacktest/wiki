@@ -1,6 +1,8 @@
 ---
-title: "Taxation of Futures and Options (Algo Trading)"
-description: "Navigate complex tax regulations for futures and options trading including algorithmic strategies to optimize returns ensure compliance and enhance profitability."
+category: quant_concept
+description: Navigate complex tax regulations for futures and options trading including
+  algorithmic strategies to optimize returns ensure compliance and enhance profitability.
+title: Taxation of Futures and Options (Algo Trading)
 ---
 
 In the world of financial derivatives trading, understanding taxation is an essential component for optimizing profitability and ensuring compliance with regulations. The complex nature of derivatives, such as options, futures, and algorithmic trading strategies, introduces unique tax challenges that require careful consideration and planning.

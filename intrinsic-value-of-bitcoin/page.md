@@ -1,6 +1,8 @@
 ---
-title: "Intrinsic Value of Bitcoin (Algo Trading)"
-description: "Explore Bitcoin's intrinsic value within algorithmic trading, analyzing how perceptions impact trading strategies and investor decisions in volatile markets."
+category: quant_concept
+description: Explore Bitcoin's intrinsic value within algorithmic trading, analyzing
+  how perceptions impact trading strategies and investor decisions in volatile markets.
+title: Intrinsic Value of Bitcoin (Algo Trading)
 ---
 
 Bitcoin, the first and most well-known cryptocurrency, has experienced a meteoric rise since its inception in 2009. Its creation by the pseudonymous Satoshi Nakamoto marked the beginning of a new era in digital finance. Bitcoin rapidly gained popularity as an alternative to traditional currencies, due to its decentralized nature and the promise of financial sovereignty for users. The initial surge in interest and value led to heated discussions about Bitcoin's intrinsic value, an aspect that has remained controversial among economists, investors, and policymakers.

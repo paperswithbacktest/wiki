@@ -1,6 +1,8 @@
 ---
-title: "Options Roll Up (Algo Trading)"
-description: "Explore the evolving landscape of financial derivatives with a focus on roll-up strategies in options trading and the impact of algorithmic trading."
+category: quant_concept
+description: Explore the evolving landscape of financial derivatives with a focus
+  on roll-up strategies in options trading and the impact of algorithmic trading.
+title: Options Roll Up (Algo Trading)
 ---
 
 The landscape of financial derivatives and options trading has continuously evolved, notably impacted by advancements in technology and shifts in market dynamics. Financial derivatives are complex financial instruments whose value is derived from underlying assets, and options are among the most popular types of these derivatives. Options give traders the right, but not the obligation, to buy or sell an underlying asset at a predetermined price—which plays a critical role in diversifying trading strategies and managing risk.

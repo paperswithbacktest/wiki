@@ -1,6 +1,8 @@
 ---
-title: "Myanmar Kyat: History and Economic Instability (Algo Trading)"
-description: "Explore the Myanmar Kyat's rich history and economic instability influenced by both traditional factors and modern algorithmic trading dynamics."
+category: quant_concept
+description: Explore the Myanmar Kyat's rich history and economic instability influenced
+  by both traditional factors and modern algorithmic trading dynamics.
+title: 'Myanmar Kyat: History and Economic Instability (Algo Trading)'
 ---
 
 The Myanmar Kyat (MMK) is a cornerstone of Myanmar's economic landscape, tracing its origins back to centuries of historical and financial transformations. Since its inception in its modern form in 1952, the MMK has experienced numerous fluctuations in its value and stability. These fluctuations often reflect broader economic conditions, influenced by both domestic policies and external pressures. As such, the currency's trajectory is not merely an internal affair but interlinked with global economic dynamics.

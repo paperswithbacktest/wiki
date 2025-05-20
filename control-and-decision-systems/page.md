@@ -1,7 +1,8 @@
 ---
-title: Overview of Control and Decision Systems in Machine Learning
+category: quant_concept
 description: Control and Decision Systems in machine learning enable real-time control
   with feedback and optimization to improve performance. Discover more inside.
+title: Overview of Control and Decision Systems in Machine Learning
 ---
 
 ![Image](images/1.jpeg)

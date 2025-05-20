@@ -1,7 +1,8 @@
 ---
-title: Understanding Masked Language Models in Machine Learning
+category: quant_concept
 description: Masked Language Models boost NLP by predicting masked words with bidirectional
   context for translation summarization and QA Discover more inside
+title: Understanding Masked Language Models in Machine Learning
 ---
 
 ![Image](images/1.png)

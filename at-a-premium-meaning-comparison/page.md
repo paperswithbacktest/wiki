@@ -1,6 +1,8 @@
 ---
-title: "At A Premium: Meaning and Comparison (Algo Trading)"
-description: "Explore the impact of premium pricing on algorithmic trading learn key financial terms and strategies to optimize trades and enhance market precision."
+category: quant_concept
+description: Explore the impact of premium pricing on algorithmic trading learn key
+  financial terms and strategies to optimize trades and enhance market precision.
+title: 'At A Premium: Meaning and Comparison (Algo Trading)'
 ---
 
 Algorithmic trading, commonly referred to as algo trading, has revolutionized how financial markets operate. By leveraging advanced algorithms, traders can execute complex trading strategies at speeds and volumes beyond human capability. This technological advancement allows for the processing of vast quantities of market data to identify patterns and opportunities in real time, thereby enhancing trading efficiency and precision. Algo trading encompasses a range of strategies including market making, statistical arbitrage, and trend following, which are executed with minimal human intervention.

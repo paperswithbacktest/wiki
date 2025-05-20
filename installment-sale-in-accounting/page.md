@@ -1,6 +1,8 @@
 ---
-title: "Installment Sale in Accounting (Algo Trading)"
-description: "Explore the synergy of installment sale accounting and algorithmic trading in finance Learn how these practices enhance cash flow tax deferral and trade efficiency"
+category: quant_concept
+description: Explore the synergy of installment sale accounting and algorithmic trading
+  in finance Learn how these practices enhance cash flow tax deferral and trade efficiency
+title: Installment Sale in Accounting (Algo Trading)
 ---
 
 Installment sale accounting is a financial method employed to recognize revenue in stages, primarily used when buyers make payments over time, rather than in a lump sum at the point of purchase. This method allows sellers to defer tax liabilities by recognizing income proportional to the receive payments rather than the total sales price immediately. According to the Generally Accepted Accounting Principles (GAAP), this approach is significant for managing cash flow and aligning revenue recognition with cash receipts, providing a clear picture of financial health and ensuring compliance with accounting standards.

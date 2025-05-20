@@ -1,9 +1,14 @@
 ---
-title: "How can you assess the market capacity and impact of your strategy before it goes live?"
-description: "Ensure your trading strategy is market-ready by assessing its capacity and potential market impact. Learn how to simulate your strategy, estimate order book depth, apply market impact models, and perform slippage tests to predict real-world performance. Explore liquidity trends, limit order size, and consider expert consultations to fine-tune your strategy before going live. These essential steps help mitigate risks and ensure sustainability in live trading."
+category: trading_strategy
+description: Ensure your trading strategy is market-ready by assessing its capacity
+  and potential market impact. Learn how to simulate your strategy, estimate order
+  book depth, apply market impact models, and perform slippage tests to predict real-world
+  performance. Explore liquidity trends, limit order size, and consider expert consultations
+  to fine-tune your strategy before going live. These essential steps help mitigate
+  risks and ensure sustainability in live trading.
+title: How can you assess the market capacity and impact of your strategy before it
+  goes live?
 ---
-
-
 
 Understanding market capacity and evaluating the potential impact of a business strategy are essential elements for achieving business success. Market capacity refers to the maximum potential power of a market to absorb products and services, given the existing demand, competition, and consumer behavior. Businesses aiming to thrive must assess this capacity accurately to ensure that their strategies align with market realities.
 

@@ -1,7 +1,8 @@
 ---
-title: Understanding Mini-Batch Gradient Descent for Neural Networks
+category: quant_concept
 description: Mini-Batch Gradient Descent speeds up training and stabilizes updates
   using small data subsets for better generalization Discover more inside.
+title: Understanding Mini-Batch Gradient Descent for Neural Networks
 ---
 
 ![Image](images/1.png)

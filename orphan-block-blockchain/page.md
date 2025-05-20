@@ -1,6 +1,9 @@
 ---
-title: "Orphan Block in Blockchain (Algo Trading)"
-description: "Explore the role of orphan blocks in blockchain technology and their impact on algorithmic trading. Understand how these blocks affect data consistency and trading strategies."
+category: quant_concept
+description: Explore the role of orphan blocks in blockchain technology and their
+  impact on algorithmic trading. Understand how these blocks affect data consistency
+  and trading strategies.
+title: Orphan Block in Blockchain (Algo Trading)
 ---
 
 Blockchain technology is a continuously developing field that offers vast opportunities across various domains. Fundamentally, it is a decentralized, distributed ledger system that enables secure, transparent, and tamper-proof record-keeping. Blockchain's relevance extends far beyond cryptocurrency to sectors like supply chain management, healthcare, finance, voting systems, and more, driven by its core features of decentralization and trustlessness.

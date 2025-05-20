@@ -1,6 +1,9 @@
 ---
-title: "Mature Economy: Definition and Functionality (Algo Trading)"
-description: "Explore how mature economies, algorithmic trading, and economic development shape financial systems. Understand their impact on global market stability and growth."
+category: quant_concept
+description: Explore how mature economies, algorithmic trading, and economic development
+  shape financial systems. Understand their impact on global market stability and
+  growth.
+title: 'Mature Economy: Definition and Functionality (Algo Trading)'
 ---
 
 In today’s interconnected world, economic systems are evolving rapidly, driven by technological advancements and shifts in global trade dynamics. This evolution is marked by the increasing complexity of financial interactions, which necessitates a deeper understanding of the interplay between mature economies, economic development, and algorithmic trading.

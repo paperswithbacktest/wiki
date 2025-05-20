@@ -1,6 +1,8 @@
 ---
-title: "Real Estate and Infrastructure Diversification (Algo Trading)"
-description: "Explore how diversifying with real estate infrastructure and algorithmic trading can enhance returns and manage risks in modern investment portfolios."
+category: trading_strategy
+description: Explore how diversifying with real estate infrastructure and algorithmic
+  trading can enhance returns and manage risks in modern investment portfolios.
+title: Real Estate and Infrastructure Diversification (Algo Trading)
 ---
 
 In a rapidly changing investments landscape, diversification, real estate, infrastructure, and algorithmic trading play pivotal roles. This article explores how integrating these elements can optimize investment portfolios, offering a comprehensive strategy that enhances returns and manages risks effectively.

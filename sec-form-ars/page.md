@@ -1,6 +1,8 @@
 ---
-title: "SEC Form ARS (Algo Trading)"
-description: "Discover the importance of SEC Form ARS in providing insight into a company’s financial performance and strategic direction with shareholder-focused transparency."
+category: dataset
+description: Discover the importance of SEC Form ARS in providing insight into a company’s
+  financial performance and strategic direction with shareholder-focused transparency.
+title: SEC Form ARS (Algo Trading)
 ---
 
 The financial reporting landscape for public companies is a critical component of modern capital markets, serving as a cornerstone for investor decision-making and corporate governance. Public companies are mandated to disclose their financial performance, operational activities, and strategic direction through detailed reports that provide transparency to stakeholders. These reports include financial statements, management discussions, and analyses that are essential for maintaining trust and accountability with shareholders.

@@ -1,6 +1,8 @@
 ---
-title: "High-frequency trading (HFT) (Algo Trading)"
-description: "Explore the world of high-frequency trading HFT a cutting-edge algorithmic trading method reshaping finance with rapid trades and market influence."
+category: quant_concept
+description: Explore the world of high-frequency trading HFT a cutting-edge algorithmic
+  trading method reshaping finance with rapid trades and market influence.
+title: High-frequency trading (HFT) (Algo Trading)
 ---
 
 The rapid evolution of financial markets has led to the introduction and widespread adoption of high-frequency trading (HFT), a sophisticated method of algorithmic trading. HFT utilizes advanced algorithms to execute a vast number of trades at incredibly high speeds, creating a fundamental shift in how financial transactions are conducted. Central to this approach is the capacity to perform trades within fractions of a second, allowing traders to capitalize on minute price discrepancies that are imperceptible to traditional trading methods. This ability to process and engage in numerous transactions simultaneously distinguishes HFT as a formidable presence in today's financial markets.

@@ -1,6 +1,8 @@
 ---
-title: "Double Top Pattern in Trading (Algo Trading)"
-description: "Explore the intricacies of the double top pattern in trading and its role in algorithmic strategies to predict market reversals and optimize trades."
+category: trading_strategy
+description: Explore the intricacies of the double top pattern in trading and its
+  role in algorithmic strategies to predict market reversals and optimize trades.
+title: Double Top Pattern in Trading (Algo Trading)
 ---
 
 Trading patterns are fundamental components in technical analysis, providing insights into potential market trends and reversals. Among these, the double top pattern stands out as one of the most recognized formations, serving as a crucial indicator for traders anticipating market shifts. This pattern is typically characterized as a bearish reversal formation, signifying a potential transition from an uptrend to a downtrend. The double top pattern forms when a security's price reaches a peak, retraces slightly, and then rebounds to the same level as the first peak before declining again, thus resembling an "M" shape on the chart. The confirmation of this pattern occurs when the price falls below the support level, often referred to as the neckline.

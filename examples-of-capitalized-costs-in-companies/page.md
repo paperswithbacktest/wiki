@@ -1,6 +1,14 @@
 ---
-title: "Examples of Capitalized Costs in Companies (Algo Trading)"
-description: "Explore the significance of capitalized costs in business and algorithmic trading, highlighting their impact on financial reporting and asset management. Learn how these expenses, recorded as balance sheet assets, influence company profitability by spreading costs over time and aligning them with expected benefits. Discover practical applications within algorithmic trading, where capitalized technology investments play a critical role in maintaining competitive edge. Understand the importance of accurate reporting in enhancing financial transparency, regulatory compliance, and resource allocation for a resilient organization."
+category: quant_concept
+description: Explore the significance of capitalized costs in business and algorithmic
+  trading, highlighting their impact on financial reporting and asset management.
+  Learn how these expenses, recorded as balance sheet assets, influence company profitability
+  by spreading costs over time and aligning them with expected benefits. Discover
+  practical applications within algorithmic trading, where capitalized technology
+  investments play a critical role in maintaining competitive edge. Understand the
+  importance of accurate reporting in enhancing financial transparency, regulatory
+  compliance, and resource allocation for a resilient organization.
+title: Examples of Capitalized Costs in Companies (Algo Trading)
 ---
 
 In the intricate landscape of business accounting, financial reporting, and algorithmic trading, understanding financial terminology is paramount. Among these terms, the concept of capitalized costs stands out due to its significant impact on how companies report and manage their financial operations. Capitalized costs refer to expenditures that are not immediately expensed but instead recorded as assets on the balance sheet. This classification allows companies to spread these costs over time, aligning them with the benefits they are expected to generate.

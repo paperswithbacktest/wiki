@@ -1,9 +1,12 @@
 ---
-title: "How can we assess the impact of latency on a trading strategy?"
-description: "Discover how latency affects trading strategies and learn methods to assess its impact, including direct measurement, simulation, real environment testing, opportunity cost analysis, market consideration, bottleneck assessment, resilience testing, and technology solutions. Adjust and optimize your strategy for maximum performance and effective risk management."
+category: trading_strategy
+description: Discover how latency affects trading strategies and learn methods to
+  assess its impact, including direct measurement, simulation, real environment testing,
+  opportunity cost analysis, market consideration, bottleneck assessment, resilience
+  testing, and technology solutions. Adjust and optimize your strategy for maximum
+  performance and effective risk management.
+title: How can we assess the impact of latency on a trading strategy?
 ---
-
-
 
 In the fast-paced world of trading, latency can have a significant impact on the effectiveness of a trading strategy. At its core, latency refers to any delay between the initiation and execution of a trading order. This delay can originate from various sources, such as network transmission times, processing delays within trading platforms, and data feed lags. These seemingly small delays can accumulate, potentially leading to missed trading opportunities or suboptimal execution prices. For instance, in high-frequency trading (HFT), where decisions are made in microseconds, even a slight increase in latency can diminish a strategy's edge over competitors.
 

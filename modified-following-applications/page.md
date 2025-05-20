@@ -1,6 +1,8 @@
 ---
-title: "Modified Following and Its Applications (Algo Trading)"
-description: "Explore how algorithmic trading principles are transforming social media algorithms to enhance user engagement and personalized content experiences."
+category: quant_concept
+description: Explore how algorithmic trading principles are transforming social media
+  algorithms to enhance user engagement and personalized content experiences.
+title: Modified Following and Its Applications (Algo Trading)
 ---
 
 In recent years, the landscape of social media has undergone substantial transformation, significantly influenced by algorithmic advancements inspired by the finance industry, particularly algorithmic trading. Algorithmic trading utilizes mathematically driven computer algorithms to execute trading decisions at speeds and frequencies beyond human capability. Analogous to this, social media platforms have leveraged sophisticated algorithms to enhance user engagement and provide tailored content experiences. This evolution marks a shift from simple chronological content presentation to complex, data-driven methodologies that predict user behavior and preferences.

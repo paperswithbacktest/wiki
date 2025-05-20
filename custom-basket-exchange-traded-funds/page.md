@@ -1,6 +1,8 @@
 ---
-title: "Custom Basket Exchange-Traded Funds (Algo Trading)"
-description: "Explore the potential of custom basket ETFs optimized for diversification and risk management, powered by algorithmic trading for precision and efficiency."
+category: trading_strategy
+description: Explore the potential of custom basket ETFs optimized for diversification
+  and risk management, powered by algorithmic trading for precision and efficiency.
+title: Custom Basket Exchange-Traded Funds (Algo Trading)
 ---
 
 Exchange-Traded Funds (ETFs) have dramatically reshaped the landscape of modern investment strategies since their inception in the early 1990s. Designed as a hybrid between mutual funds and stocks, ETFs offer investors the best of both worlds—diversification akin to mutual funds and the liquidity associated with individual stocks. Their popularity has surged due to their cost-effectiveness, tax efficiency, and ease of access, leading to a significant increase in assets under management globally. As a pivotal instrument in contemporary portfolios, ETFs have democratized access to a wide array of asset classes, allowing investors to efficiently capitalize on global economic trends.

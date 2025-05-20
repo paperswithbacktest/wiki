@@ -1,6 +1,8 @@
 ---
-title: "Sector Mutual Funds (Algo Trading)"
-description: "Explore sector mutual funds and algo trading to enhance your portfolio. Discover strategies to diversify, manage risks, and boost returns in financial markets."
+category: trading_strategy
+description: Explore sector mutual funds and algo trading to enhance your portfolio.
+  Discover strategies to diversify, manage risks, and boost returns in financial markets.
+title: Sector Mutual Funds (Algo Trading)
 ---
 
 Investment funds, mutual funds, sector mutual funds, and algorithmic trading are integral components of the contemporary financial landscape. These elements provide investors with diverse options and strategies that are essential for effective portfolio management and the optimization of returns. By pooling resources, investment funds offer the advantages of diversification and professional management, thereby making them appealing to both individual and institutional investors seeking broad market exposure.

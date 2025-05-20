@@ -1,6 +1,8 @@
 ---
-title: "Platinum: Properties and Applications (Algo Trading)"
-description: "Explore the unique properties of platinum and its critical role in industry and investment. Learn about its intersection with algorithmic trading."
+category: quant_concept
+description: Explore the unique properties of platinum and its critical role in industry
+  and investment. Learn about its intersection with algorithmic trading.
+title: 'Platinum: Properties and Applications (Algo Trading)'
 ---
 
 Platinum is a distinguished precious metal renowned for its exceptional physical and chemical properties, most notably its resistance to corrosion and its high melting point of 1,768 degrees Celsius (3,214 degrees Fahrenheit). These characteristics make platinum particularly invaluable across numerous industrial sectors, where it functions as a critical material for a variety of high-precision applications. This article provides an exploration into the unique properties of platinum that contribute to its industrial versatility. 

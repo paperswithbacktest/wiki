@@ -1,7 +1,8 @@
 ---
-title: Understanding Position Recovery Models for Autonomous Navigation
+category: quant_concept
 description: Position Recovery Models use sensor fusion and Kalman filters to track
   objects in robotics and autonomous vehicles with precision. Discover more inside.
+title: Understanding Position Recovery Models for Autonomous Navigation
 ---
 
 ![Image](images/1.png)

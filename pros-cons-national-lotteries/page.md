@@ -1,6 +1,9 @@
 ---
-title: "Pros and Cons of National Lotteries (Algo Trading)"
-description: "Explore the pros and cons of national lotteries and their integration with algo trading. Delve into benefits, drawbacks, and the impact on revenue and fairness."
+category: trading_strategy
+description: Explore the pros and cons of national lotteries and their integration
+  with algo trading. Delve into benefits, drawbacks, and the impact on revenue and
+  fairness.
+title: Pros and Cons of National Lotteries (Algo Trading)
 ---
 
 Lotteries, an age-old form of gambling, have transcended centuries and cultures, evolving into both a popular pastime and a significant economic tool. Their appeal lies in the simple allure of turning a small investment into a life-changing reward, attracting millions of hopeful participants globally. The dual nature of lotteries—delivering entertainment and serving as a revenue mechanism for governments—ensures their enduring relevance in modern society.

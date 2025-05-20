@@ -1,7 +1,8 @@
 ---
-title: Detection Assignment Rules for Precise Anomaly Identification
+category: quant_concept
 description: Detection Assignment Rules set statistical thresholds to flag true anomalies
   and cut false positives in real time data analysis Discover more inside
+title: Detection Assignment Rules for Precise Anomaly Identification
 ---
 
 ![Image](images/1.png)

@@ -1,6 +1,9 @@
 ---
-title: "Backtesting and Forward Testing: Role of Correlation (Algo Trading)"
-description: "Explore the role of correlation in backtesting and forward testing for algorithmic trading Discover how these methods ensure robust and reliable trading strategies"
+category: trading_strategy
+description: Explore the role of correlation in backtesting and forward testing for
+  algorithmic trading Discover how these methods ensure robust and reliable trading
+  strategies
+title: 'Backtesting and Forward Testing: Role of Correlation (Algo Trading)'
 ---
 
 Algorithmic trading has revolutionized financial markets by enabling trades to be executed automatically based on predefined criteria. This sophisticated trading method leverages computational algorithms to make informed decisions, reducing human intervention and emotional bias in trading activities. A crucial component of developing a successful trading algorithm is rigorous testing, which predominantly involves backtesting and forward testing.

@@ -1,6 +1,8 @@
 ---
-title: "Impact of Market Risk on Capital Costs (Algo Trading)"
-description: "Explore the impact of market risk on capital costs in algo trading, enhancing investment strategies and risk management through technology and analytics insights."
+category: quant_concept
+description: Explore the impact of market risk on capital costs in algo trading, enhancing
+  investment strategies and risk management through technology and analytics insights.
+title: Impact of Market Risk on Capital Costs (Algo Trading)
 ---
 
 The modern financial landscape is undergoing a transformative evolution fueled by advancements in technology and analytics. These changes have created a complex environment where understanding essential components such as market risk, cost of capital, and algorithmic trading is critical for investors and financial professionals. Market risk refers to the potential for financial losses due to fluctuations in market prices, influencing every investment uniquely. Similarly, the cost of capital, which represents the necessary return to justify a capital investment, serves as a cornerstone for evaluating investment opportunities and understanding risk profiles.

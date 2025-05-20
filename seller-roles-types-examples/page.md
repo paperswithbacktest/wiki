@@ -1,6 +1,8 @@
 ---
-title: "Seller: Roles, Types, and Examples (Algo Trading)"
-description: "Explore the roles and types of sellers, the evolution of selling methods, and the impact of algorithmic trading in today's dynamic financial markets."
+category: quant_concept
+description: Explore the roles and types of sellers, the evolution of selling methods,
+  and the impact of algorithmic trading in today's dynamic financial markets.
+title: 'Seller: Roles, Types, and Examples (Algo Trading)'
 ---
 
 This article explores the multifaceted roles of sellers, the diverse types of selling in business, and the transformative impact of algorithmic trading in financial markets. Sellers play a crucial role in business transactions, serving as intermediaries who facilitate the exchange of goods and services. Their responsibilities encompass setting prices, managing inventory, and maintaining customer relationships, all of which are essential to the smooth functioning of markets. Understanding these roles allows for a clearer perspective on how businesses operate and thrive.

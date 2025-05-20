@@ -1,6 +1,9 @@
 ---
-title: "Difference Between Nominal and Real Value of Stock (Algo Trading)"
-description: "Explore the crucial difference between nominal and real stock values in algorithmic trading to make informed investment decisions with accurate valuation insights."
+category: quant_concept
+description: Explore the crucial difference between nominal and real stock values
+  in algorithmic trading to make informed investment decisions with accurate valuation
+  insights.
+title: Difference Between Nominal and Real Value of Stock (Algo Trading)
 ---
 
 In today's dynamic financial landscape, understanding stock valuation concepts is crucial for investors, especially those involved in algorithmic trading. With the increasing complexity of financial markets, accurately assessing the value of stocks becomes essential for making informed investment decisions. This article examines important valuation concepts such as nominal value and real value, which are pivotal in the context of algorithmic trading. Nominal value, also known as face value, is the initial value assigned to a stock at issuance and is primarily relevant for legal and accounting purposes. Real value, on the other hand, provides an inflation-adjusted perspective, offering a clearer picture of a stock's worth over time.

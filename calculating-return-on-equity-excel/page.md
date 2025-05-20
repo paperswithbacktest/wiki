@@ -1,6 +1,8 @@
 ---
-title: "Calculating Return on Equity in Excel (Algo Trading)"
-description: "Learn how to calculate Return on Equity (ROE) in Excel through a step-by-step guide ideal for algorithmic trading to optimize investment strategies effectively."
+category: quant_concept
+description: Learn how to calculate Return on Equity (ROE) in Excel through a step-by-step
+  guide ideal for algorithmic trading to optimize investment strategies effectively.
+title: Calculating Return on Equity in Excel (Algo Trading)
 ---
 
 Return on Equity (ROE) is a financial metric that evaluates a company's ability to generate profits from the shareholders' equity invested in the business. Mathematically, it is expressed as the ratio of Net Income to Shareholders' Equity. This formula assesses how effectively a company's management is using the equity capital to generate earnings. 
@@ -239,4 +241,3 @@ The adaptability of ROE finds relevance in evolving financial strategies, making
 9. Financial Times Lexicon. (n.d.). *Return on Equity (ROE)*. [Link](https://www.ft.com/lexicon). The Financial Times provides definitions and descriptions of key financial terms, including ROE, with explanations relevant to both new and seasoned investors.
 
 10. Graham, B., & Dodd, D. L. (2009). *Security Analysis*. A seminal text in investing that addresses the evaluation of companies using ROE and other key performance indicators to assess long-term value and performance.
-

@@ -1,6 +1,9 @@
 ---
-title: "Compulsory Convertible Debenture (Algo Trading)"
-description: "Explore Compulsory Convertible Debentures and algorithmic trading and discover how these innovative financial tools enhance investment strategies in modern markets."
+category: quant_concept
+description: Explore Compulsory Convertible Debentures and algorithmic trading and
+  discover how these innovative financial tools enhance investment strategies in modern
+  markets.
+title: Compulsory Convertible Debenture (Algo Trading)
 ---
 
 In finance, a myriad of instruments and strategies are available to investors aiming to find the optimal balance between risk and return. Among these financial instruments, Compulsory Convertible Debentures (CCDs) stand out due to their hybrid nature, combining attributes of both debt and equity. CCDs offer fixed interest payments, providing a steady income stream until their pre-specified conversion into equity, which allows investors to potentially benefit from a company's growth.

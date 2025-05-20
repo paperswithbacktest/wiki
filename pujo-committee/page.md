@@ -1,6 +1,9 @@
 ---
-title: "Pujo Committee (Algo Trading)"
-description: "Explore the intersection of tradition and technology in Durga Puja as we delve into how Pujo committees use algorithmic trading to manage festival funds efficiently."
+category: quant_concept
+description: Explore the intersection of tradition and technology in Durga Puja as
+  we delve into how Pujo committees use algorithmic trading to manage festival funds
+  efficiently.
+title: Pujo Committee (Algo Trading)
 ---
 
 Durga Puja is not just a festival; it is an emotion that binds communities through cultural splendor and worship. It signifies the victory of good over evil, uniting millions in celebrating the power of Goddess Durga. Typically observed in the Indian states of West Bengal, Assam, and Odisha, this festival transforms cities with artistic pandals (temporary structures), vibrant rituals, and grand processions. As with many traditional festivals, its spirit has remained untouched, yet its organization has evolved significantly in response to modern challenges and technologies.

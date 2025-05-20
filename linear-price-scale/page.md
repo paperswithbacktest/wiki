@@ -1,6 +1,8 @@
 ---
-title: "Linear Price Scale (Algo Trading)"
-description: "Explore different pricing methods and chart scales essential for algorithmic trading. Understand how linear and logarithmic price scales impact trading decisions."
+category: quant_concept
+description: Explore different pricing methods and chart scales essential for algorithmic
+  trading. Understand how linear and logarithmic price scales impact trading decisions.
+title: Linear Price Scale (Algo Trading)
 ---
 
 Understanding different pricing methods and chart scales is crucial in financial analysis and trading. This article explores the intricacies of these topics, emphasizing their relevance in algorithmic trading. Financial analysts and traders rely on accurate interpretations of market data to make informed decisions, and a key component of this process involves selecting appropriate pricing and scaling methods.

@@ -1,6 +1,9 @@
 ---
-title: "Impact of Human Capital on Investors (Algo Trading)"
-description: "Explore the synergy between human capital and algorithmic trading vital for innovation and economic growth Discover how skilled talent enhances trading efficiencies"
+category: quant_concept
+description: Explore the synergy between human capital and algorithmic trading vital
+  for innovation and economic growth Discover how skilled talent enhances trading
+  efficiencies
+title: Impact of Human Capital on Investors (Algo Trading)
 ---
 
 The intersection of human capital investment and algorithmic trading offers a compelling field of study with significant implications for economic growth. Human capital, defined as the knowledge, skills, and abilities of individuals, is a pivotal asset for fostering innovation and enhancing productivity. When coupled with algorithmic trading, which employs advanced computational techniques and technologies to execute trading strategies, the potential to boost economic productivity becomes evident.
@@ -147,4 +150,3 @@ Continuous professional development is vital for individuals to remain competiti
 10. **Nash, R., & Behn, R. (2020). "Algorithmic Trading and Information". Journal of Economic Perspectives.** This article investigates into how information is processed and utilized in algorithmic trading, emphasizing the importance of continual learning and adaptation to stay competitive. 
 
 These resources provide a comprehensive foundation for understanding the critical role of human capital in algorithmic trading, as well as the economic implications of this intersection. They are essential for anyone seeking to further investigate the dynamic relationship between technological innovations and human skills in financial markets.
-

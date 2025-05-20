@@ -1,6 +1,8 @@
 ---
-title: "Dutch Tulip Mania: The Tulip Bulb Market Bubble (Algo Trading)"
-description: "Explore the fascinating history of Dutch tulip mania, a classic case of a market bubble driven by speculative trading and the allure of rare tulip varieties."
+category: quant_concept
+description: Explore the fascinating history of Dutch tulip mania, a classic case
+  of a market bubble driven by speculative trading and the allure of rare tulip varieties.
+title: 'Dutch Tulip Mania: The Tulip Bulb Market Bubble (Algo Trading)'
 ---
 
 Tulip mania, often referred to as the Dutch tulip bulb market bubble, stands as one of the most illustrious instances of an economic bubble. Originating in the Dutch Republic during the early 17th century, this phenomenon provides a historical backdrop for understanding speculative trading. Central to this analysis is the rapid escalation in the prices of tulip bulbs, reaching values that far exceeded the annual income of skilled artisans. The surge in demand was primarily driven by the allure of exotic tulip varieties, also known as 'broken' bulbs, which captured the fascination of the Dutch merchant class and aristocracy.

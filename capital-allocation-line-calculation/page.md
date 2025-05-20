@@ -1,6 +1,8 @@
 ---
-title: "Capital Allocation Line: Definition and Calculation (Algo Trading)"
-description: "Explore the Capital Allocation Line definition and its application in algorithmic trading to optimize risk-return portfolios and enhance investment strategies."
+category: quant_concept
+description: Explore the Capital Allocation Line definition and its application in
+  algorithmic trading to optimize risk-return portfolios and enhance investment strategies.
+title: 'Capital Allocation Line: Definition and Calculation (Algo Trading)'
 ---
 
 Strategic capital allocation is a cornerstone of successful investment management, playing a critical role in optimizing returns while managing risk. By efficiently distributing resources across various investment opportunities, investors can achieve a balance that suits their financial goals and risk tolerance. One valuable tool in this endeavor is the Capital Allocation Line (CAL), a concept rooted in modern portfolio theory that represents the risk-return combinations available through different mixes of a risk-free asset and a portfolio of risky assets. CAL helps investors identify the optimal portfolio that maximizes returns for a given level of risk, thus significantly enhancing the process of portfolio management.

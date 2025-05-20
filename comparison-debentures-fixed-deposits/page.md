@@ -1,6 +1,8 @@
 ---
-title: "Comparison of Debentures and Fixed Deposits (Algo Trading)"
-description: "Explore the key differences and advantages of fixed deposits and debentures while understanding their roles in algo trading to make informed investment decisions."
+category: trading_strategy
+description: Explore the key differences and advantages of fixed deposits and debentures
+  while understanding their roles in algo trading to make informed investment decisions.
+title: Comparison of Debentures and Fixed Deposits (Algo Trading)
 ---
 
 Investing involves choosing among various financial instruments to achieve specific financial goals. Each investment option typically caters to a different type of investor, depending on factors such as risk tolerance, investment horizon, and desired returns. Among the myriad of investment opportunities available, fixed deposits, debentures, and algorithmic trading stand out as unique options that cater to diverse investor profiles.

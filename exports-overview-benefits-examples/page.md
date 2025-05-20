@@ -1,6 +1,9 @@
 ---
-title: "Exports: Overview, Benefits, and Examples (Algo Trading)"
-description: "Explore the significance of exports and international trade, discover their economic benefits and understand how algorithmic trading is streamlining global trade operations."
+category: quant_concept
+description: Explore the significance of exports and international trade, discover
+  their economic benefits and understand how algorithmic trading is streamlining global
+  trade operations.
+title: 'Exports: Overview, Benefits, and Examples (Algo Trading)'
 ---
 
 International trade, exports, and algorithmic trading collectively influence and reshape the global economic landscape in various ways, generating both opportunities and challenges. This article addresses the economic benefits derived from international trade and exports alongside the rising influence of algorithmic trading in streamlining trade operations. Understanding the interaction between these elements is vital for policymakers and businesses aiming to harness their economic capabilities effectively.

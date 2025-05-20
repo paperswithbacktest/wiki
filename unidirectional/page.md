@@ -1,7 +1,8 @@
 ---
-title: Unidirectional Machine Learning Explained For Real-Time Models
+category: quant_concept
 description: Unidirectional machine learning delivers fast stable predictions in real
   time using fixed trained models and optimized features Discover more inside.
+title: Unidirectional Machine Learning Explained For Real-Time Models
 ---
 
 ![Image](images/1.png)

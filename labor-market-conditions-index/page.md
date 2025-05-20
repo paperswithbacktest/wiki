@@ -1,6 +1,9 @@
 ---
-title: "Labor Market Conditions Index (Algo Trading)"
-description: "Explore how labor market conditions influence economic stability and trading. Discover the role of indicators and algorithmic trading in shaping financial strategies."
+category: quant_concept
+description: Explore how labor market conditions influence economic stability and
+  trading. Discover the role of indicators and algorithmic trading in shaping financial
+  strategies.
+title: Labor Market Conditions Index (Algo Trading)
 ---
 
 Understanding the labor market is crucial for economists, policymakers, and traders. The state of the labor market is a significant indicator of a nation’s economic health, influencing wage levels, employment rates, and overall economic stability. The labor market operates through the interaction of demand for labor by employers and the supply provided by workers. It is closely monitored to assess economic well-being and guide policy and investment decisions.

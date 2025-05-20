@@ -1,6 +1,9 @@
 ---
-title: "Role of Collateralized Debt Obligations in the 2008 Financial Crisis (Algo Trading)"
-description: "Explore how Collateralized Debt Obligations and algorithmic trading amplified the 2008 financial crisis revealing market vulnerabilities and systemic risks."
+category: quant_concept
+description: Explore how Collateralized Debt Obligations and algorithmic trading amplified
+  the 2008 financial crisis revealing market vulnerabilities and systemic risks.
+title: Role of Collateralized Debt Obligations in the 2008 Financial Crisis (Algo
+  Trading)
 ---
 
 The 2008 financial crisis marked a pivotal moment in global economic history, characterized by a cascade of economic failures and subsequent reforms that resonated worldwide. At the heart of this crisis were complex financial instruments known as Collateralized Debt Obligations (CDOs). These products, designed to pool various revenue-generating assets, became notorious for the dangerous financial practices that surrounded their use. Financial institutions and investors, blinded by the high-yield promise of CDOs, underestimated the inherent risks embedded in these obligations. 

@@ -1,6 +1,9 @@
 ---
-title: "Key Economic Indicators of the United Kingdom (Algo Trading)"
-description: "Explore how key UK economic indicators like GDP and inflation impact algorithmic trading and influence strategic decisions for investors and policymakers alike."
+category: quant_concept
+description: Explore how key UK economic indicators like GDP and inflation impact
+  algorithmic trading and influence strategic decisions for investors and policymakers
+  alike.
+title: Key Economic Indicators of the United Kingdom (Algo Trading)
 ---
 
 The UK economy relies on a complex network of indicators and metrics, vital for guiding decisions in both government policy and business strategy. Among these indicators, Gross Domestic Product (GDP), inflation rates, and employment statistics stand out as key measures of economic health. GDP reflects the total economic output and provides insight into the overall economic performance. Inflation, primarily measured by the Consumer Prices Index (CPI), offers a snapshot of purchasing power and cost of living, essential for evaluating price stability. Meanwhile, employment levels serve as a barometer for labor market conditions, influencing consumer confidence and spending.

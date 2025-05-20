@@ -1,6 +1,8 @@
 ---
-title: "Buy a Bounce: Concept, Mechanism, and Examples (Algo Trading)"
-description: "Explore how the 'Buy a Bounce' strategy in algo trading leverages technical analysis to enhance investment decisions through strategic trade execution and automation."
+category: trading_strategy
+description: Explore how the 'Buy a Bounce' strategy in algo trading leverages technical
+  analysis to enhance investment decisions through strategic trade execution and automation.
+title: 'Buy a Bounce: Concept, Mechanism, and Examples (Algo Trading)'
 ---
 
 In the modern financial market, investors and traders continuously seek strategies to gain an edge. One such strategy that has gained traction is 'Buy a Bounce,' which combines elements of technical analysis with strategic trade execution. This approach is grounded in the identification of support levels, where a security's price is expected to halt its downward trajectory and start to rise again. By focusing on these pivotal points, traders aim to capitalize on anticipated price reversals, thereby enhancing their potential for profits.

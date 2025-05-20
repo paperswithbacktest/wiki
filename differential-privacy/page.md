@@ -1,7 +1,8 @@
 ---
-title: Differential Privacy Techniques for Secure Machine Learning
+category: quant_concept
 description: Differential Privacy adds controlled randomness to data to protect individual
   details while enabling machine learning insights. Discover more inside.
+title: Differential Privacy Techniques for Secure Machine Learning
 ---
 
 ![Image](images/1.png)

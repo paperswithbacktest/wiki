@@ -1,6 +1,8 @@
 ---
-title: "No-Par Value Stock (Algo Trading)"
-description: "Explore the importance of no-par value stocks in finance uncovering their impact on stock valuation and the role of algorithmic trading in today's markets."
+category: quant_concept
+description: Explore the importance of no-par value stocks in finance uncovering their
+  impact on stock valuation and the role of algorithmic trading in today's markets.
+title: No-Par Value Stock (Algo Trading)
 ---
 
 The world of financial securities is complex, with various terms and concepts that can be confusing for investors. One such concept is the distinction between no-par value stocks and par value stocks. In traditional settings, par value refers to the nominal value assigned to a stock, typically indicated on the face of the stock certificate. No-par value stock, however, is issued without this nominal value, giving companies greater flexibility in setting share prices according to market conditions.

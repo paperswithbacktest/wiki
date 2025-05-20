@@ -1,6 +1,9 @@
 ---
-title: "Consumer Discretionary Sector: Industry Overview (Algo Trading)"
-description: "Explore the impact of algorithmic trading on the consumer discretionary sector highlighting key industries, market dynamics, trends, and risks for informed investing."
+category: quant_concept
+description: Explore the impact of algorithmic trading on the consumer discretionary
+  sector highlighting key industries, market dynamics, trends, and risks for informed
+  investing.
+title: 'Consumer Discretionary Sector: Industry Overview (Algo Trading)'
 ---
 
 The consumer discretionary sector is a vital component of the global economy, encompassing industries such as automotive, luxury goods, and leisure. These industries thrive on consumer spending that is more fluctuating and non-essential compared to staples, reflecting consumers' income levels and spending patterns. In 2022, this sector accounted for approximately 12% of the overall market capitalization of global equities, underscoring its significant impact and volatility driven by economic cycles (source needed).

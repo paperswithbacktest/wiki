@@ -1,6 +1,8 @@
 ---
-title: "Behavioral Economics: Theories, Goals, and Applications (Algo Trading)"
-description: "Explore behavioral economics and its application to algorithmic trading through insights into cognitive biases and emotions influencing decision-making."
+category: quant_concept
+description: Explore behavioral economics and its application to algorithmic trading
+  through insights into cognitive biases and emotions influencing decision-making.
+title: 'Behavioral Economics: Theories, Goals, and Applications (Algo Trading)'
 ---
 
 Behavioral economics offers a unique perspective on economic decision-making by integrating insights from psychology and economics. Unlike traditional economic models that often assume humans make rational decisions, behavioral economics acknowledges that human behavior is influenced by cognitive biases and emotional factors. This interdisciplinary approach provides a deeper understanding of why individuals and markets deviate from conventional theories of rationality.

@@ -1,6 +1,8 @@
 ---
-title: "Chinese Banking System (Algo Trading)"
-description: "Explore the rapidly evolving Chinese banking system and the impact of algorithmic trading as they reshape China's financial landscape with new opportunities."
+category: quant_concept
+description: Explore the rapidly evolving Chinese banking system and the impact of
+  algorithmic trading as they reshape China's financial landscape with new opportunities.
+title: Chinese Banking System (Algo Trading)
 ---
 
 China's financial system stands as one of the most significant on the global stage, distinguished by its swift evolution and deepening integration into the world economy. This system has played a fundamental role in China's remarkable economic transformation, shifting from a centrally planned framework to a more market-oriented economy. Central to this transformation is the Chinese banking system, which has been instrumental in the nation's economic development. It supports various economic activities, including infrastructure projects, manufacturing, and consumer financing, crucial for sustaining China’s growth trajectory.

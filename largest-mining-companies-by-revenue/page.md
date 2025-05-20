@@ -1,6 +1,13 @@
 ---
-title: "Largest Mining Companies by Revenue (Algo Trading)"
-description: "Explore the dynamic world of the largest mining companies by revenue. Uncover how these industry giants shape the global economy by sourcing essential raw materials for technology, construction, and manufacturing. Delve into the role of algorithmic trading in enhancing profitability and efficiency in the mining sector, while gaining insight into the strategic innovations that drive the industry forward. Discover the impact of these companies on regional economic landscapes and global supply chains, highlighting the integral function of mining in modern infrastructure."
+category: dataset
+description: Explore the dynamic world of the largest mining companies by revenue.
+  Uncover how these industry giants shape the global economy by sourcing essential
+  raw materials for technology, construction, and manufacturing. Delve into the role
+  of algorithmic trading in enhancing profitability and efficiency in the mining sector,
+  while gaining insight into the strategic innovations that drive the industry forward.
+  Discover the impact of these companies on regional economic landscapes and global
+  supply chains, highlighting the integral function of mining in modern infrastructure.
+title: Largest Mining Companies by Revenue (Algo Trading)
 ---
 
 The global mining industry plays an indispensable role in the economic vitality of nations around the world. By extracting vital raw materials, it serves as the backbone for various industries, including manufacturing, construction, and technology. Metals such as copper, iron, and aluminum are foundational to infrastructure and technology developments, while precious metals like gold and silver have financial and industrial applications.

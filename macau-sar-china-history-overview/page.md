@@ -1,6 +1,13 @@
 ---
-title: "Macau SAR, China: History and Overview (Algo Trading)"
-description: "Explore the dynamic and culturally rich region of Macau, China, renowned for its unique blend of Chinese and Portuguese influences. Often called the 'Las Vegas of Asia', Macau is famous for its thriving gaming and tourism industries set against a backdrop of baroque churches and traditional temples. Discover the region's strategic economic developments, including its growing prowess in algorithmic trading, as this vibrant SAR leverages its historical roots and political autonomy to thrive as a global financial and cultural hub."
+category: quant_concept
+description: Explore the dynamic and culturally rich region of Macau, China, renowned
+  for its unique blend of Chinese and Portuguese influences. Often called the 'Las
+  Vegas of Asia', Macau is famous for its thriving gaming and tourism industries set
+  against a backdrop of baroque churches and traditional temples. Discover the region's
+  strategic economic developments, including its growing prowess in algorithmic trading,
+  as this vibrant SAR leverages its historical roots and political autonomy to thrive
+  as a global financial and cultural hub.
+title: 'Macau SAR, China: History and Overview (Algo Trading)'
 ---
 
 Macau Special Administrative Region (SAR) of China is a vibrant and dynamic region that boasts a unique blend of Chinese and Portuguese cultures. Situated on the southern coast of China, near the Pearl River Delta, Macau stands as a testament to centuries of cultural exchange and economic development. Known as the 'Las Vegas of Asia', Macau is renowned for its bustling tourism and gaming industries. The city's skyline, dominated by luxury hotels and glittering casinos, highlights its role as a leading global destination for entertainment and hospitality.

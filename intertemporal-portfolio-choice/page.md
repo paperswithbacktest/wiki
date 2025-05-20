@@ -1,6 +1,9 @@
 ---
-title: "Intertemporal portfolio choice (Algo Trading)"
-description: "Explore intertemporal portfolio choice in algorithmic trading which optimizes asset allocation over time for maximizing returns and managing risks in dynamic markets."
+category: quant_concept
+description: Explore intertemporal portfolio choice in algorithmic trading which optimizes
+  asset allocation over time for maximizing returns and managing risks in dynamic
+  markets.
+title: Intertemporal portfolio choice (Algo Trading)
 ---
 
 Intertemporal portfolio choice is a core concept in financial strategy that emphasizes the systematic allocation of assets over time to maximize returns in a dynamic environment. Unlike traditional static portfolio management, intertemporal portfolio choice accounts for the evolving implications of today's investment decisions on future opportunities and outcomes. This perspective allows investors not only to optimize immediate returns but also to strategically plan for future growth and risk management across multiple time periods. 

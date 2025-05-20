@@ -1,10 +1,9 @@
 ---
-title: Understanding Rectified Linear Unit Activation in Neural Networks
+category: quant_concept
 description: Rectified Linear Unit activation speeds up neural network training by
   avoiding vanishing gradients and enabling deeper architectures Discover more inside.
+title: Understanding Rectified Linear Unit Activation in Neural Networks
 ---
-
-
 
 ## Table of Contents
 

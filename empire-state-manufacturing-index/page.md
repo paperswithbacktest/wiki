@@ -1,6 +1,9 @@
 ---
-title: "Empire State Manufacturing Index (Algo Trading)"
-description: "Explore how the Empire State Manufacturing Index serves as a vital economic indicator in New York, impacting algorithmic trading strategies with real-time data insights."
+category: dataset
+description: Explore how the Empire State Manufacturing Index serves as a vital economic
+  indicator in New York, impacting algorithmic trading strategies with real-time data
+  insights.
+title: Empire State Manufacturing Index (Algo Trading)
 ---
 
 The Empire State Manufacturing Index, often regarded as a barometer of the manufacturing sector in New York, serves as a pivotal economic indicator. Published monthly by the Federal Reserve Bank of New York, this index provides timely insights into the state's manufacturing industry, reflecting the business sentiment and operational conditions faced by manufacturing executives. As a comprehensive gauge, it offers a window into various factors such as general business conditions, new orders, shipments, and employment. This makes it an invaluable tool for assessing the economic landscape.

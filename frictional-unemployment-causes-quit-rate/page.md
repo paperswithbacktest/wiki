@@ -1,6 +1,8 @@
 ---
-title: "Frictional Unemployment: Causes and Quit Rate (Algo Trading)"
-description: "Explore frictional unemployment and quit rates in the labor market, uncovering their impact on job dynamics and economic health, especially with algorithmic trading."
+category: quant_concept
+description: Explore frictional unemployment and quit rates in the labor market, uncovering
+  their impact on job dynamics and economic health, especially with algorithmic trading.
+title: 'Frictional Unemployment: Causes and Quit Rate (Algo Trading)'
 ---
 
 Understanding unemployment necessitates examining several key factors, including quit rates, frictional unemployment, and their underlying causes. These components are vital to analyzing the health and dynamics of the labor market. Quit rates, which measure how frequently employees voluntarily resign, serve as indicators of economic vitality. High quit rates often suggest a thriving economy where workers are optimistic about securing alternative employment opportunities.

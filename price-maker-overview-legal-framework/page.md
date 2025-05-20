@@ -1,6 +1,8 @@
 ---
-title: "Price Maker: Overview and Legal Framework (Algo Trading)"
-description: "Explore the intersection of market power, price-making, and algorithmic trading, and understand their influence on economic landscapes and competitive dynamics."
+category: quant_concept
+description: Explore the intersection of market power, price-making, and algorithmic
+  trading, and understand their influence on economic landscapes and competitive dynamics.
+title: 'Price Maker: Overview and Legal Framework (Algo Trading)'
 ---
 
 Economics is characterized by the interplay of various forces, with market power, price-making capabilities, and algorithmic trading standing out as pivotal elements. Market power, the ability of a firm to influence the prices of goods and services, directly impacts competitive dynamics and market equilibria. Companies capable of making pricing decisions possess an advantage, often leading to greater profits and market control, which in turn shapes entire industries' competitive landscapes.
@@ -112,4 +114,3 @@ Leveraging these interrelated factors strategically can yield competitive advant
 - Stigler, G. J. (1964). "A Theory of Oligopoly." *The Quarterly Journal of Economics*. Stigler’s influential work on oligopoly theory provides insights into how market power can be concentrated among a few firms, which impacts pricing and competitive strategies. This paper lays the foundation for understanding the dynamics within industries where few firms hold significant influence.
 
 - Hendershott, T., Jones, C. M., & Menkveld, A. J. (2011). "Does Algorithmic Trading Improve Liquidity?" *The Review of Financial Studies*. This study examines the effects of algorithmic trading on market liquidity, offering empirical evidence on its benefits and challenges. It explores how such trading strategies can reduce transaction costs and improve market efficiency, while also presenting risks related to market stability.
-

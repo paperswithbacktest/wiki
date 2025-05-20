@@ -1,6 +1,15 @@
 ---
-title: "Sensitivity analysis (Algo Trading)"
-description: Discover how sensitivity analysis in algorithmic trading can enhance the reliability and resilience of trading strategies. This essential tool allows traders to optimize strategies by systematically varying input parameters and observing their effects on performance. From seasoned traders to beginners, understanding sensitivity analysis offers significant insights, enabling informed decision-making and strategic adjustments. Learn about key techniques like Monte Carlo simulations and parameter optimization, and explore how platforms like Build Alpha provide advanced resources for conducting these analyses effectively. Unlock the potential for long-term success in algo trading with robust strategy development.
+category: trading_strategy
+description: Discover how sensitivity analysis in algorithmic trading can enhance
+  the reliability and resilience of trading strategies. This essential tool allows
+  traders to optimize strategies by systematically varying input parameters and observing
+  their effects on performance. From seasoned traders to beginners, understanding
+  sensitivity analysis offers significant insights, enabling informed decision-making
+  and strategic adjustments. Learn about key techniques like Monte Carlo simulations
+  and parameter optimization, and explore how platforms like Build Alpha provide advanced
+  resources for conducting these analyses effectively. Unlock the potential for long-term
+  success in algo trading with robust strategy development.
+title: Sensitivity analysis (Algo Trading)
 ---
 
 Sensitivity analysis in algorithmic trading (algo trading) is a crucial tool for traders looking to understand the robustness and reliability of their trading strategies. This analytical process allows traders to systematically vary input parameters and observe the resulting effects on strategy performance, thus identifying potentially fragile areas within a trading model. By assessing how sensitive a strategy is to changes in inputs, traders can optimize their strategies, making them more resilient to market shifts and unforeseen events. This article explores the concept of sensitivity analysis, detailing its significance in algo trading and its role in enhancing trading performance.

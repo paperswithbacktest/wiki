@@ -1,6 +1,8 @@
 ---
-title: "Asset-Backed Commercial Paper Money Market Fund (Algo Trading)"
-description: "Explore the evolution of the Asset-Backed Commercial Paper Fund Liquidity Facility and its impact on money markets and algorithmic trading."
+category: trading_strategy
+description: Explore the evolution of the Asset-Backed Commercial Paper Fund Liquidity
+  Facility and its impact on money markets and algorithmic trading.
+title: Asset-Backed Commercial Paper Money Market Fund (Algo Trading)
 ---
 
 In response to the severe disruptions caused by the 2008-2009 financial crisis, the U.S. Federal Reserve introduced a range of initiatives aimed at restoring stability to the financial system. Among these initiatives was the Asset-Backed Commercial Paper Money Market Fund Liquidity Facility (AMLF), a program designed to support money market funds during a period of unprecedented market stress. The AMLF was a strategic response to the liquidity concerns that arose when investors began massive withdrawals from money market mutual funds, which were traditionally viewed as safe investments. This loss of confidence was partly triggered by the collapse of major financial institutions and the ensuing credit crunch.

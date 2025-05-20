@@ -1,6 +1,9 @@
 ---
-title: "Exercising a Put Option (Algo Trading)"
-description: "Discover the potential of algorithmic trading in exercising put options. Learn how to optimize strategies, manage risks, and maximize returns in dynamic markets."
+category: quant_concept
+description: Discover the potential of algorithmic trading in exercising put options.
+  Learn how to optimize strategies, manage risks, and maximize returns in dynamic
+  markets.
+title: Exercising a Put Option (Algo Trading)
 ---
 
 Financial derivatives are essential tools in modern finance, allowing market participants to hedge risks, speculate, or enhance the returns of their portfolios. Among these derivatives, options play a significant role due to their versatility and adaptability across various market conditions. An option is a contract that gives the holder the right, but not the obligation, to buy or sell an underlying asset at a predetermined price before or at a specific expiration date. In particular, put options offer the holder the right to sell the underlying asset, and they are crucial for strategies aimed at protecting against declines in asset prices.

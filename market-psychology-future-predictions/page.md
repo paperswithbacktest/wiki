@@ -1,6 +1,9 @@
 ---
-title: "Market Psychology and Future Predictions (Algo Trading)"
-description: "Explore the interplay of market psychology, financial predictions, and algorithmic trading to gain insights into investor behavior and formulate effective trading strategies."
+category: quant_concept
+description: Explore the interplay of market psychology, financial predictions, and
+  algorithmic trading to gain insights into investor behavior and formulate effective
+  trading strategies.
+title: Market Psychology and Future Predictions (Algo Trading)
 ---
 
 The financial markets represent a multifaceted ecosystem encompassing a wide range of participants, from individual investors seeking personal financial growth to large institutional entities that drive significant market movements. In recent years, the intersection of financial predictions, market psychology, and algorithmic (algo) trading has emerged as a significant focus for both academic researchers and industry practitioners.

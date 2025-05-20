@@ -1,6 +1,11 @@
 ---
-title: "Risk Assessment of Asset Classes (Algo Trading)"
-description: "Explore the world of finance by understanding the risks associated with asset classes and the role of algorithmic trading. Learn to balance risk and return in investments like equities, bonds, money markets, and real estate. Discover how algorithmic trading enhances decision-making and how statistical models aid in risk management for optimized returns."
+category: quant_concept
+description: Explore the world of finance by understanding the risks associated with
+  asset classes and the role of algorithmic trading. Learn to balance risk and return
+  in investments like equities, bonds, money markets, and real estate. Discover how
+  algorithmic trading enhances decision-making and how statistical models aid in risk
+  management for optimized returns.
+title: Risk Assessment of Asset Classes (Algo Trading)
 ---
 
 In the world of finance, understanding risk is paramount to making informed investment decisions. Risk encompasses the potential financial loss an investor might face when engaging in business ventures or financial markets. It arises from various factors, including fluctuations in asset values, creditworthiness of entities, and operational intricacies within trading systems. Recognizing these factors and their implications can aid investors in making data-driven choices to optimize returns while safeguarding against potential deficits.

@@ -1,6 +1,8 @@
 ---
-title: "Capital and Financial Accounts in Balance of Payments (Algo Trading)"
-description: "Explore the integration of financial accounts, balance of payments, capital accounts, and algorithmic trading in shaping global finance and market dynamics."
+category: quant_concept
+description: Explore the integration of financial accounts, balance of payments, capital
+  accounts, and algorithmic trading in shaping global finance and market dynamics.
+title: Capital and Financial Accounts in Balance of Payments (Algo Trading)
 ---
 
 The interplay of financial account, balance of payments, capital account, and algorithmic trading forms the backbone of international finance and trading. These concepts are vital in understanding how economies across the globe interact, influence one another, and maintain financial stability.
@@ -163,4 +165,3 @@ Further research could focus on developing more robust models and simulations to
    - Clenow, A. (2013). *Trading Evolved: Anyone Can Build Killer Trading Strategies in Python*. A guide that provides practical insight into using Python for developing algorithmic trading strategies, which can be valuable for those interested in technology-driven finance.
 
 These resources will provide readers with a foundation for understanding how the balance of payments, capital accounts, and algorithmic trading shape global economic dynamics and financial stability.
-

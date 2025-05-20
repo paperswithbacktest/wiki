@@ -1,6 +1,8 @@
 ---
-title: "Lottery Bonds: Overview and Mechanism (Algo Trading)"
-description: "Discover the excitement of lottery bonds and enhance your investment strategy with algorithmic trading, blending stable returns with dynamic market agility."
+category: quant_concept
+description: Discover the excitement of lottery bonds and enhance your investment
+  strategy with algorithmic trading, blending stable returns with dynamic market agility.
+title: 'Lottery Bonds: Overview and Mechanism (Algo Trading)'
 ---
 
 In the ever-evolving world of financial securities, investors are continually on the lookout for unique and diverse investment opportunities. Lottery bonds represent a distinctive blend of stability and excitement, offering a novel way to diversify one's investment portfolio. Unlike conventional bonds that provide fixed interest returns, lottery bonds entice investors with the potential of periodic lottery winnings, combining financial investment with the thrill of unpredictable outcomes.

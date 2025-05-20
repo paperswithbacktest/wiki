@@ -1,6 +1,9 @@
 ---
-title: "Calculating Beta in Excel (Algo Trading)"
-description: "Master calculating beta in Excel to assess market risk and enhance trading strategies in this guide This tutorial equips you with essential Excel skills for algo trading"
+category: quant_concept
+description: Master calculating beta in Excel to assess market risk and enhance trading
+  strategies in this guide This tutorial equips you with essential Excel skills for
+  algo trading
+title: Calculating Beta in Excel (Algo Trading)
 ---
 
 Understanding how to calculate beta is crucial in finance, especially when it comes to risk assessment and portfolio management. Beta, a measure of a stock’s volatility in relation to the overall market, offers insights that are essential for making informed financial decisions. This comprehensive guide focuses on using Excel for beta calculation, a skill that proves invaluable whether you are a seasoned finance professional or a newcomer to trading.

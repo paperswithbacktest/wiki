@@ -1,6 +1,8 @@
 ---
-title: "Placement in Finance: Regulations and Risks (Algo Trading)"
-description: "Explore the regulations and risks of algorithmic trading in finance Discover how technological advancements are reshaping investment strategies and capital raising"
+category: quant_concept
+description: Explore the regulations and risks of algorithmic trading in finance Discover
+  how technological advancements are reshaping investment strategies and capital raising
+title: 'Placement in Finance: Regulations and Risks (Algo Trading)'
 ---
 
 The world of finance is undergoing a transformative shift as technological advancements become integral to its development. Central to this evolution is the use of automated and data-driven decision-making processes, with algorithmic trading emerging as a principal innovation in the investment sector. Historically dominated by human discretion and traditional methods, investment strategies are now increasingly characterized by their adaptability and efficiency brought on by technology. Algorithmic trading stands at the forefront, offering unprecedented speed and precision in executing trades, which is critical in today's fast-paced markets.

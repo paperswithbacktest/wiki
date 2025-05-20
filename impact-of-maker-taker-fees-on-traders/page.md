@@ -1,6 +1,8 @@
 ---
-title: "Impact of Maker-Taker Fees on Traders (Algo Trading)"
-description: "Explore the impact of maker-taker fees on traders in algorithmic trading Learn how trading costs influence profitability and shape market behavior."
+category: quant_concept
+description: Explore the impact of maker-taker fees on traders in algorithmic trading
+  Learn how trading costs influence profitability and shape market behavior.
+title: Impact of Maker-Taker Fees on Traders (Algo Trading)
 ---
 
 In the complex world of financial markets, trading fees are pivotal in shaping the cost efficiency and profitability of trading strategies. They encompass the charges imposed by exchanges or brokers for executing trades and can significantly affect the overall performance of traders. Among the various fee structures, the maker-taker fee model has garnered substantial attention due to its unique influence on trading behaviors and market dynamics.

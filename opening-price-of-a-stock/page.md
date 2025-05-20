@@ -1,6 +1,11 @@
 ---
-title: "How the Opening Price of a Stock is Determined (Algo Trading)"
-description: Discover how opening stock prices are set and their critical impact on algorithmic trading. Explore the factors influencing these prices including pre-market dynamics and global events. Learn how traders use these insights to shape strategies and optimize performance by analyzing historical data and price gaps, ultimately enhancing decision-making in trading algorithms.
+category: quant_concept
+description: Discover how opening stock prices are set and their critical impact on
+  algorithmic trading. Explore the factors influencing these prices including pre-market
+  dynamics and global events. Learn how traders use these insights to shape strategies
+  and optimize performance by analyzing historical data and price gaps, ultimately
+  enhancing decision-making in trading algorithms.
+title: How the Opening Price of a Stock is Determined (Algo Trading)
 ---
 
 Understanding market open and close prices is a fundamental aspect for traders, particularly those engaged in algorithmic trading. These price points are derived from the start and end of daily trading sessions and are pivotal in determining market trends. By analyzing the gap between the previous day's close and the current day's open, traders can formulate strategies that leverage the resulting price movements.

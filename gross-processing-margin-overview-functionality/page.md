@@ -1,6 +1,8 @@
 ---
-title: "Gross Processing Margin: Overview and Functionality (Algo Trading)"
-description: "Explore the strategic role of Gross Processing Margin in commodity trading Understand its impact on profitability and market dynamics using algorithmic techniques"
+category: quant_concept
+description: Explore the strategic role of Gross Processing Margin in commodity trading
+  Understand its impact on profitability and market dynamics using algorithmic techniques
+title: 'Gross Processing Margin: Overview and Functionality (Algo Trading)'
 ---
 
 The Gross Processing Margin (GPM) is a fundamental concept in the field of commodity trading, representing the spread between the costs incurred for acquiring and processing raw commodities and the income generated from selling the resulting finished products. This metric serves as a critical benchmark for assessing profitability, enabling both producers and traders to make informed decisions regarding production levels, investment choices, and trading strategies.

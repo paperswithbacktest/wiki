@@ -1,6 +1,8 @@
 ---
-title: "Patsystems PLC Overview (Algo Trading)"
-description: "Explore Patsystems Plc's cutting-edge trading platforms and risk management solutions designed for algorithmic and futures trading in global financial markets."
+category: dataset
+description: Explore Patsystems Plc's cutting-edge trading platforms and risk management
+  solutions designed for algorithmic and futures trading in global financial markets.
+title: Patsystems PLC Overview (Algo Trading)
 ---
 
 Patsystems Plc stands at the forefront of the trading solutions industry, renowned for its significant contributions to futures trading technology and financial software. Established in 1994, this innovative company is headquartered in London and extends its influence globally with offices in principal financial centers such as Chicago, New York, Singapore, Tokyo, Sydney, and Hong Kong. As a subsidiary of ION Trading, Patsystems has made a name for itself with its widely recognized trading platforms, J-Trader and Pro-Mark.

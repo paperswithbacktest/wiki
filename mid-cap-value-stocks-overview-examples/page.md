@@ -1,6 +1,9 @@
 ---
-title: "Mid-Cap Value Stocks: Overview and Examples (Algo Trading)"
-description: "Discover the potential of mid-cap value stocks with this insightful overview combining growth and stability. Learn how value investing and algo trading maximize returns."
+category: trading_strategy
+description: Discover the potential of mid-cap value stocks with this insightful overview
+  combining growth and stability. Learn how value investing and algo trading maximize
+  returns.
+title: 'Mid-Cap Value Stocks: Overview and Examples (Algo Trading)'
 ---
 
 The stock market offers a plethora of investment opportunities, each with its unique set of principles and potential rewards. However, navigating through these options can be daunting for even seasoned investors. Among the many strategies, value investing and mid-cap stocks stand out for their distinct, yet complementary characteristics. Value investing centers on identifying undervalued stocks—those believed to be trading below their intrinsic or book value. This approach requires careful analysis and patience but promises substantial long-term rewards when executed effectively.

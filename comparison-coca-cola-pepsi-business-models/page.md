@@ -1,6 +1,8 @@
 ---
-title: "Comparison of Coca-Cola and Pepsi Business Models (Algo Trading)"
-description: "Explore the business models of Coca-Cola and Pepsi, their rivalry, and how algorithmic trading may impact their strategies in the beverage industry."
+category: trading_strategy
+description: Explore the business models of Coca-Cola and Pepsi, their rivalry, and
+  how algorithmic trading may impact their strategies in the beverage industry.
+title: Comparison of Coca-Cola and Pepsi Business Models (Algo Trading)
 ---
 
 PepsiCo, Inc. and The Coca-Cola Company stand as titans in the global beverage industry, often symbolizing the intense rivalry that defines this market. Established in 1893 and headquartered in Purchase, New York, PepsiCo commands a diverse portfolio that extends beyond beverages to include snacks and food products. Meanwhile, Coca-Cola, founded in 1892 and headquartered in Atlanta, Georgia, has maintained a laser focus on the beverage sector, offering an extensive range of soft drinks and beverages across the world.

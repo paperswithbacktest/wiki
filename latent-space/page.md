@@ -1,7 +1,8 @@
 ---
-title: Understanding Latent Space in Machine Learning Models
+category: quant_concept
 description: Latent Space transforms data into compact representations for efficient
   pattern discovery and generation in autoencoders and GANs Discover more inside.
+title: Understanding Latent Space in Machine Learning Models
 ---
 
 ![Image](images/1.png)

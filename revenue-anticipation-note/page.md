@@ -1,6 +1,8 @@
 ---
-title: "Revenue Anticipation Note (Algo Trading)"
-description: "Explore how municipalities utilize Revenue Anticipation Notes and algorithmic trading to enhance fiscal management and secure short-term funding effectively."
+category: quant_concept
+description: Explore how municipalities utilize Revenue Anticipation Notes and algorithmic
+  trading to enhance fiscal management and secure short-term funding effectively.
+title: Revenue Anticipation Note (Algo Trading)
 ---
 
 In the rapidly evolving world of finance, municipalities are increasingly turning to innovative solutions to address their short-term fiscal needs. Revenue Anticipation Notes (RANs) provide municipalities the flexibility to secure necessary funding by borrowing against anticipated future revenue. These financial instruments are crucial for maintaining the cash flow required for essential community projects without waiting for revenue cycles to complete. RANs exemplify the intersection of public finance and strategic borrowing, offering municipalities a means to manage their working capital effectively.

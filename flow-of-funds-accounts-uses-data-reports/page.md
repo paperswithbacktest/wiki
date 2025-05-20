@@ -1,6 +1,8 @@
 ---
-title: "Flow of Funds Accounts: Uses and Data Reports (Algo Trading)"
-description: "Discover the significance of Flow of Funds accounts in economic analysis and algorithmic trading to gain insights into financial dynamics and market trends."
+category: dataset
+description: Discover the significance of Flow of Funds accounts in economic analysis
+  and algorithmic trading to gain insights into financial dynamics and market trends.
+title: 'Flow of Funds Accounts: Uses and Data Reports (Algo Trading)'
 ---
 
 Flow of Funds (FOF) accounts play a crucial role in understanding the financial dynamics within an economy. These accounts offer detailed insights into the movement of money across different sectors, enabling analysts and policymakers to make informed decisions. By systematically tracking financial transactions, such as borrowing, lending, and investment activities, FOF accounts reveal how funds circulate among households, corporations, governments, and the foreign sector. This comprehensive view aids in assessing the economic health of these sectors and helps identify potential imbalances or trends that require attention.

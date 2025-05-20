@@ -1,6 +1,9 @@
 ---
-title: "Athens Stock Exchange History (Algo Trading)"
-description: "Explore the evolution of the Athens Stock Exchange and its adaptation to global trends with algorithmic trading enhancing speed and efficiency in financial markets."
+category: quant_concept
+description: Explore the evolution of the Athens Stock Exchange and its adaptation
+  to global trends with algorithmic trading enhancing speed and efficiency in financial
+  markets.
+title: Athens Stock Exchange History (Algo Trading)
 ---
 
 The Athens Stock Exchange (ATHEX) serves as a central pillar of Greece's financial system, providing a vital platform for securities trading and contributing to the nation's economic development. Established as a key institution, the ATHEX facilitates the raising of capital by connecting investors with companies, thereby stimulating economic growth and innovation within Greece. This article examines the historical journey and transformation of the Athens Stock Exchange, highlighting how it has adapted to the changing landscapes of global financial markets.

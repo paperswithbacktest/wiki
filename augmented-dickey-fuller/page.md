@@ -1,6 +1,9 @@
 ---
-title: "Augmented Dickey-Fuller (Algo Trading)"
-description: "Discover the significance of the Augmented Dickey-Fuller test in algorithmic trading by analyzing time series data for stationarity, crucial for robust trading strategies."
+category: quant_concept
+description: Discover the significance of the Augmented Dickey-Fuller test in algorithmic
+  trading by analyzing time series data for stationarity, crucial for robust trading
+  strategies.
+title: Augmented Dickey-Fuller (Algo Trading)
 ---
 
 Algorithmic trading has revolutionized financial market operations by leveraging complex statistical methods to automate and enhance trading strategies. A fundamental component in these strategies is the analysis of time series data, which is crucial for making informed trading decisions. One key property of time series data used in algorithmic trading is stationarity. Stationarity refers to a process where statistical properties such as mean, variance, and autocorrelation structure are constant over time. This property is desirable since it allows for the consistent modeling and prediction of future values, which is vital for developing effective trading strategies.
@@ -191,4 +194,3 @@ In summary, while the ADF test is a critical tool for ensuring the stationarity 
 9. Investopedia. "Stationarity." Available at: https://www.investopedia.com/terms/s/stationarity.asp. An online article offering a plain-language explanation of stationarity, its importance in time series analysis, and its relevance to financial modeling.
 
 10. Dickey, D.A., & Fuller, W.A. (1979). "Distribution of the Estimators for Autoregressive Time Series with a Unit Root." *Journal of the American Statistical Association*, 74(366), 427-431. This influential paper introduces the Dickey-Fuller test, which is fundamental to understanding the ADF test.
-

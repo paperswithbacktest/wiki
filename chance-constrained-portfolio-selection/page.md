@@ -1,6 +1,9 @@
 ---
-title: "Chance-constrained portfolio selection (Algo Trading)"
-description: "Explore chance-constrained portfolio selection as a sophisticated technique in algorithmic trading that enhances risk management and optimizes investments using probabilistic constraints."
+category: trading_strategy
+description: Explore chance-constrained portfolio selection as a sophisticated technique
+  in algorithmic trading that enhances risk management and optimizes investments using
+  probabilistic constraints.
+title: Chance-constrained portfolio selection (Algo Trading)
 ---
 
 In the ever-evolving world of finance, portfolio optimization is crucial for maximizing returns while minimizing risk. One such optimization technique is chance-constrained portfolio selection, which integrates probabilistic constraints into the investment process. This methodology utilizes the concept of embedding probability into the decision-making framework, allowing investors to manage uncertainty more effectively. By adapting to the inherent unpredictability of financial markets, this technique presents a refined approach beyond traditional deterministic models.

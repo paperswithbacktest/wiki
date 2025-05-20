@@ -1,6 +1,9 @@
 ---
-title: "Indicators for Tracking Stock Market and Economic Performance (Algo Trading)"
-description: "Explore economic and stock market indicators with insights into algo trading to understand market dynamics. Learn how GDP, unemployment, and inflation data influence trading strategies."
+category: trading_strategy
+description: Explore economic and stock market indicators with insights into algo
+  trading to understand market dynamics. Learn how GDP, unemployment, and inflation
+  data influence trading strategies.
+title: Indicators for Tracking Stock Market and Economic Performance (Algo Trading)
 ---
 
 The financial world is intricate, influenced by numerous factors that drive market behavior and shape investment decisions. Central to understanding these dynamics are economic indicators, market analysis, and stock market indicators. Economic indicators, such as Gross Domestic Product (GDP), unemployment rates, and inflation indices, provide a snapshot of economic health and are vital for anticipating market movements.

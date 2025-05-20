@@ -1,6 +1,9 @@
 ---
-title: "List of High-Demand Rare Earth Minerals (Algo Trading)"
-description: "Explore the growing demand for high-demand rare earth minerals like lithium, nickel, and cobalt, vital for today's tech and energy solutions plus algo trading insights."
+category: dataset
+description: Explore the growing demand for high-demand rare earth minerals like lithium,
+  nickel, and cobalt, vital for today's tech and energy solutions plus algo trading
+  insights.
+title: List of High-Demand Rare Earth Minerals (Algo Trading)
 ---
 
 The demand for rare earth minerals and critical minerals has significantly increased over the past few years, driven by their pivotal role in modern technological advancements and the transition towards cleaner energy sources. Key minerals such as lithium, nickel, and cobalt have become indispensable components in the production of batteries, electronics, and renewable energy technologies. Specifically, lithium is crucial for battery technology, particularly in electric vehicles (EVs), while nickel and cobalt are essential for battery storage and stainless steel production. As global demand for sustainable technologies escalates, the pressure on these minerals has intensified.

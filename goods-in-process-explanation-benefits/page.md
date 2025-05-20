@@ -1,6 +1,9 @@
 ---
-title: "Goods in Process: Explanation and Benefits (Algo Trading)"
-description: "Explore the synergy between work-in-progress in manufacturing and algorithmic trading highlighting its role in efficiency and strategy development. Discover the benefits here."
+category: quant_concept
+description: Explore the synergy between work-in-progress in manufacturing and algorithmic
+  trading highlighting its role in efficiency and strategy development. Discover the
+  benefits here.
+title: 'Goods in Process: Explanation and Benefits (Algo Trading)'
 ---
 
 The intersection of work-in-progress (WIP) in manufacturing and algorithmic trading underscores the importance of precise terminology for efficient operations. In manufacturing, work-in-progress refers to goods that are partially completed, positioned between raw materials and finished products within the production cycle. This concept is not confined to traditional manufacturing processes; it finds significant applications in other industries, notably in finance and algorithmic trading.
@@ -132,4 +135,3 @@ The convergence of methodologies from manufacturing and finance underscores the 
 - Chan, E.P. (2009). **Quantitative Trading**. Chan provides a detailed exploration of quantitative strategies in trading, including statistical arbitrage and automated execution. The book highlights the importance of robust strategy design and testing, reinforcing the need for continuous monitoring and adaptation similar to work-in-progress management in manufacturing.
 
 These references serve as critical resources for understanding the intersection of manufacturing and finance through work-in-progress principles, providing foundational knowledge for enhancing efficiencies in algorithmic trading.
-

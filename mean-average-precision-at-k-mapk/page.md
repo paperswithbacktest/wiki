@@ -1,7 +1,8 @@
 ---
-title: Understanding Mean Average Precision at K in Machine Learning
+category: quant_concept
 description: Mean Average Precision at K measures how well machine learning models
   rank relevant items in the top K results to evaluate performance Discover more inside
+title: Understanding Mean Average Precision at K in Machine Learning
 ---
 
 ![Image](images/1.png)

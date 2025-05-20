@@ -1,6 +1,9 @@
 ---
-title: "Hedge Fund (Algo Trading)"
-description: "Explore the synergy between hedge funds and algorithmic trading as they revolutionize investment strategies with data analytics and advanced technology for superior returns."
+category: quant_concept
+description: Explore the synergy between hedge funds and algorithmic trading as they
+  revolutionize investment strategies with data analytics and advanced technology
+  for superior returns.
+title: Hedge Fund (Algo Trading)
 ---
 
 The investment finance landscape is a complex and dynamic field, characterized by a wide array of participants and financial instruments, all contributing to the global economy's vitality. Central to this landscape are hedge funds, which serve as critical players through their roles in market liquidity provision, risk management, and capital allocation. Hedge funds are pooled investment structures that employ various strategies to maximize returns for their investors. These funds are typically accessible to accredited investors due to their complex nature and regulatory standards, and they often leverage techniques such as long-short equity, market neutral, and event-driven strategies, among others.

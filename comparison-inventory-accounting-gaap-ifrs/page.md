@@ -1,6 +1,13 @@
 ---
-title: "Comparison of Inventory Accounting Under GAAP and IFRS (Algo Trading)"
-description: "Explore the complexities of inventory accounting under GAAP and IFRS in the context of algorithmic trading. This article investigates into how different inventory valuation methods like FIFO, LIFO, and Weighted Average, with their unique impacts on financial statements, intersect with the rapid, data-driven nature of algo-trading. Understand the crucial differences between IFRS and GAAP and their implications for financial reporting, essential for professionals navigating today's evolving financial landscape."
+category: quant_concept
+description: Explore the complexities of inventory accounting under GAAP and IFRS
+  in the context of algorithmic trading. This article investigates into how different
+  inventory valuation methods like FIFO, LIFO, and Weighted Average, with their unique
+  impacts on financial statements, intersect with the rapid, data-driven nature of
+  algo-trading. Understand the crucial differences between IFRS and GAAP and their
+  implications for financial reporting, essential for professionals navigating today's
+  evolving financial landscape.
+title: Comparison of Inventory Accounting Under GAAP and IFRS (Algo Trading)
 ---
 
 Understanding inventory accounting under International Financial Reporting Standards (IFRS) and Generally Accepted Accounting Principles (GAAP) is crucial as global finance evolves. Algorithmic trading, defined by the automation of trade flows through algorithms and mathematical models, adds complexity to conventional accounting procedures. This requires a seamless integration with inventory valuation standards. With the rise of high-frequency trading systems and their rapid execution capabilities, it is essential to scrutinize how these systems interact with distinct accounting frameworks like IFRS and GAAP. These frameworks dictate different approaches for inventory valuation, such as FIFO (First-In, First-Out), LIFO (Last-In, First-Out), and Weighted Average cost methods. 

@@ -1,6 +1,8 @@
 ---
-title: "Automated Trading Systems (Algo Trading)"
-description: "Explore the benefits and strategies of automated trading systems in financial markets, learn how they increase speed, minimize emotional bias, and boost efficiency."
+category: trading_strategy
+description: Explore the benefits and strategies of automated trading systems in financial
+  markets, learn how they increase speed, minimize emotional bias, and boost efficiency.
+title: Automated Trading Systems (Algo Trading)
 ---
 
 Algorithmic trading, often referred to as automated trading or algo trading, plays a vital role in financial markets today. It involves the use of computer programs to execute trades based on pre-set rules and strategies. These algorithms are designed to take into account various market variables, such as timing, price, and volume, allowing for trades to be executed with a speed and precision that surpasses human capabilities. This method of trading is instrumental in reducing emotional bias from trading decisions, a common pitfall in manual trading. By relying on strict, data-driven rules, algorithmic trading can enhance the speed of execution and often secure more favorable pricing due to its systematic nature.

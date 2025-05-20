@@ -1,6 +1,13 @@
 ---
-title: "Trending Shares (Algo Trading)"
-description: "Discover the advantages and challenges of algorithmic trading in today's fast-paced financial markets. Understand how algo-trading leverages sophisticated algorithms for efficient and precise stock market investing, minimizing emotional bias and maximizing speed. Explore the implications for investors and institutions as automation and big data reshape modern finance. Gain insights into the complexities and potential of algo-trading, and learn how automated systems are influencing trade management and execution for better investment outcomes."
+category: trading_strategy
+description: Discover the advantages and challenges of algorithmic trading in today's
+  fast-paced financial markets. Understand how algo-trading leverages sophisticated
+  algorithms for efficient and precise stock market investing, minimizing emotional
+  bias and maximizing speed. Explore the implications for investors and institutions
+  as automation and big data reshape modern finance. Gain insights into the complexities
+  and potential of algo-trading, and learn how automated systems are influencing trade
+  management and execution for better investment outcomes.
+title: Trending Shares (Algo Trading)
 ---
 
 In the fast-paced financial markets of today, investing in the stock market has taken on new dimensions with the advent of algorithmic trading. Algorithmic trading, often referred to as algo-trading or automated trading, relies on complex computer programs to execute trades at speeds and frequencies that are impossible for human traders. This technological advancement leverages sophisticated algorithms and vast amounts of data to make informed trading decisions, often optimizing these decisions based on predetermined criteria. With the proliferation of big data and advancements in computing power, algo-trading has become a staple in modern finance, dominating a significant portion of trading volumes in global markets.

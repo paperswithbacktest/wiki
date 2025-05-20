@@ -1,6 +1,9 @@
 ---
-title: "Guns and Butter in Government Spending (Algo Trading)"
-description: "Explore the intersection of the 'guns and butter' economic model and algorithmic trading to understand government spending's impact on markets and investment strategies."
+category: quant_concept
+description: Explore the intersection of the 'guns and butter' economic model and
+  algorithmic trading to understand government spending's impact on markets and investment
+  strategies.
+title: Guns and Butter in Government Spending (Algo Trading)
 ---
 
 In a complex global economy, comprehending the dynamics of government spending is crucial for both policymakers and investors. One fundamental economic concept that aids this understanding is the 'guns and butter' model, which examines the trade-offs nations face between allocating resources to military expenditures ('guns') or civilian goods and services ('butter'). Historically, this model has highlighted the opportunity costs associated with prioritizing one type of spending over the other, particularly during times of geopolitical tension or economic constraint.

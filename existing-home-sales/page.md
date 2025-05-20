@@ -1,6 +1,8 @@
 ---
-title: "Existing Home Sales (Algo Trading)"
-description: "Explore how algorithmic trading reshapes existing home sales by leveraging data analytics for faster transactions and market trend predictions in real estate."
+category: trading_strategy
+description: Explore how algorithmic trading reshapes existing home sales by leveraging
+  data analytics for faster transactions and market trend predictions in real estate.
+title: Existing Home Sales (Algo Trading)
 ---
 
 The real estate housing market, traditionally characterized by slower transactions and substantial deliberation, is currently experiencing a transformative upheaval with the integration of algorithmic trading strategies. Recent advancements in technology are facilitating this shift, enabling transactions that are faster and more optimized. This transition is increasingly relevant as the market embraces data-driven solutions to advance efficiency.
@@ -121,4 +123,3 @@ S&P Dow Jones Indices - Case-Shiller Home Price Indices: The S&P Dow Jones Indic
 Federal Housing Finance Agency - FHFA House Price Index: The Federal Housing Finance Agency (FHFA) compiles the House Price Index (HPI), which measures changes in single-family home prices across the nation. This index offers a valuable tool for observing long-term trends and making informed investment decisions in the housing sector.
 
 Various sources explore the impact and methodologies of algorithmic trading in real estate: The integration of algorithmic trading into real estate has been analyzed by several scholars and industry reports. These sources provide insights into the algorithms used to assess market conditions, predict price movements, and execute transactions. Such methodologies offer potential for improved efficiency and profitability, while also raising concerns about market fairness and accessibility. Notable sources include industry white papers and studies published in academic journals that examine the technological and economic implications of algorithmic trading in the housing market.
-

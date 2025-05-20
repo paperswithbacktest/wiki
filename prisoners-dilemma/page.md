@@ -1,6 +1,9 @@
 ---
-title: "Prisoner's Dilemma (Algo Trading)"
-description: "Explore the strategic complexities of the Prisoner's Dilemma in algorithmic trading, where cooperation and competition drive decision-making and influence market outcomes."
+category: quant_concept
+description: Explore the strategic complexities of the Prisoner's Dilemma in algorithmic
+  trading, where cooperation and competition drive decision-making and influence market
+  outcomes.
+title: Prisoner's Dilemma (Algo Trading)
 ---
 
 The Prisoner's Dilemma is a pivotal concept in game theory and strategic interaction, illustrating the complexities of decision-making processes among rational individuals. Conceptually, it highlights how two people, acting in their self-interest, might choose not to cooperate even when cooperation would lead to a more favorable outcome. This paradox reveals significant insights into human behavior, economic dynamics, and even extends into modern technological applications such as algorithmic trading.

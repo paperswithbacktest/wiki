@@ -1,6 +1,12 @@
 ---
-title: "Peter Lynch Strategy Explained (Algo Trading)"
-description: Discover how Peter Lynch's renowned investment strategies can be fused with modern algorithmic trading techniques to enhance decision-making in the financial markets. Learn how his principles of investing in familiar businesses and identifying "ten baggers" can be integrated with automated trading systems for improved stock selection and portfolio management. Explore the potential this blend offers in maximizing returns while navigating the complexities of contemporary investing.
+category: trading_strategy
+description: Discover how Peter Lynch's renowned investment strategies can be fused
+  with modern algorithmic trading techniques to enhance decision-making in the financial
+  markets. Learn how his principles of investing in familiar businesses and identifying
+  "ten baggers" can be integrated with automated trading systems for improved stock
+  selection and portfolio management. Explore the potential this blend offers in maximizing
+  returns while navigating the complexities of contemporary investing.
+title: Peter Lynch Strategy Explained (Algo Trading)
 ---
 
 In the evolving world of finance, the fusion of classical investment philosophies with cutting-edge techniques like algorithmic trading provides an intriguing prospect for investors. Among the many legendary investors who have shaped modern finance, Peter Lynch stands out for his exceptional management of the Magellan Fund at Fidelity. Under his leadership from 1977 to 1990, the fund achieved a staggering average annual return of 29.2%, surpassing the performance of the S&P 500. Lynch's investment philosophy, characterized by his principle of "invest in what you know" and his pursuit of "ten baggers"—companies capable of increasing their value tenfold—has left a lasting impact on the investment community.

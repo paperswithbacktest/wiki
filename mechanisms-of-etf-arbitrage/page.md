@@ -1,6 +1,8 @@
 ---
-title: "Mechanisms of ETF Arbitrage (Algo Trading)"
-description: "Explore the dynamic interplay between ETF arbitrage opportunities and algorithmic trading strategies to optimize investment returns and market efficiency."
+category: trading_strategy
+description: Explore the dynamic interplay between ETF arbitrage opportunities and
+  algorithmic trading strategies to optimize investment returns and market efficiency.
+title: Mechanisms of ETF Arbitrage (Algo Trading)
 ---
 
 In the modern financial landscape, arbitrage investment has emerged as a potent strategy, particularly in the context of ETFs and algorithmic trading. This article examines the compelling interaction of arbitrage opportunities within Exchange-Traded Funds (ETFs) trading and the practical role of algorithmic trading in optimizing investment returns. 

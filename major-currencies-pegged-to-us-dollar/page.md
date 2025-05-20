@@ -1,6 +1,14 @@
 ---
-title: "Major Currencies Pegged to the U.S. Dollar (Algo Trading)"
-description: "Explore the significant impact of currency exchange rates on national economies and their role in influencing trade balances and economic growth. Discover the dynamics of pegged currencies, where nations tie their currency value to the U.S. dollar to ensure stability and mitigate market volatility. Delve into how this practice interacts with algorithmic trading strategies, aiding in maintaining stable economic environments. Uncover why many countries, like Saudi Arabia and Hong Kong, opt to peg their currencies to the U.S. dollar, leveraging its global financial dominance to foster economic predictability and growth."
+category: quant_concept
+description: Explore the significant impact of currency exchange rates on national
+  economies and their role in influencing trade balances and economic growth. Discover
+  the dynamics of pegged currencies, where nations tie their currency value to the
+  U.S. dollar to ensure stability and mitigate market volatility. Delve into how this
+  practice interacts with algorithmic trading strategies, aiding in maintaining stable
+  economic environments. Uncover why many countries, like Saudi Arabia and Hong Kong,
+  opt to peg their currencies to the U.S. dollar, leveraging its global financial
+  dominance to foster economic predictability and growth.
+title: Major Currencies Pegged to the U.S. Dollar (Algo Trading)
 ---
 
 Currency exchange rates significantly influence a nation's economic health by determining the value of one currency in terms of another. These rates affect trade balances, inflation, and economic growth by impacting the price of imports and exports. Exchange rates are generally divided into two categories: free-floating and fixed or pegged. Free-floating exchange rates fluctuate based on market dynamics, such as supply and demand, and are often subject to currency speculation. In contrast, fixed or pegged exchange rates are maintained at a specified value relative to another currency, often to ensure economic stability.

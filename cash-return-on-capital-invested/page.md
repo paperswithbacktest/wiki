@@ -1,6 +1,9 @@
 ---
-title: "Cash Return on Capital Invested (Algo Trading)"
-description: "Explore the power of Cash Return on Capital Invested to enhance investment decisions by focusing on cash flows over accounting profits and boosting trading strategy effectiveness."
+category: quant_concept
+description: Explore the power of Cash Return on Capital Invested to enhance investment
+  decisions by focusing on cash flows over accounting profits and boosting trading
+  strategy effectiveness.
+title: Cash Return on Capital Invested (Algo Trading)
 ---
 
 In today's rapidly evolving financial markets, investors are increasingly seeking advanced metrics and strategies to enhance their investment decisions. Traditional metrics such as Return on Equity (ROE) and Return on Capital Invested (ROIC) have been widely used to assess a company's performance. However, these measures often rely heavily on accounting earnings, which may not fully capture a company's financial health. This is where CROCI, or Cash Return on Capital Invested, comes into play. 

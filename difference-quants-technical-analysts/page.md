@@ -1,6 +1,11 @@
 ---
-title: "Difference Between Quants and Technical Analysts (Algo Trading)"
-description: Explore the differences between quantitative and technical analysis in algorithmic trading. Understand how technical analysis uses historical data and chart patterns to predict market movements, while quantitative analysis employs mathematical models and diverse data sets for deeper insights. Discover how these methodologies enhance trading strategies and decision-making in various market scenarios.
+category: quant_concept
+description: Explore the differences between quantitative and technical analysis in
+  algorithmic trading. Understand how technical analysis uses historical data and
+  chart patterns to predict market movements, while quantitative analysis employs
+  mathematical models and diverse data sets for deeper insights. Discover how these
+  methodologies enhance trading strategies and decision-making in various market scenarios.
+title: Difference Between Quants and Technical Analysts (Algo Trading)
 ---
 
 In the fast-paced world of trading, algorithmic trading stands out as a powerful tool that enables traders to make informed decisions both quickly and efficiently. Central to this advancement are two prominent methodologies: technical analysis and quantitative analysis. These approaches have become integral components of algorithmic trading, each serving distinct functions and catering to diverse trading goals.

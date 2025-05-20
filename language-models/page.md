@@ -1,7 +1,8 @@
 ---
-title: Understanding Language Models and Transformer Architecture
+category: quant_concept
 description: Language models drive chatbots and translation by analyzing word patterns
   probabilities and context to generate humanlike text Discover more inside.
+title: Understanding Language Models and Transformer Architecture
 ---
 
 ![Image](images/1.png)

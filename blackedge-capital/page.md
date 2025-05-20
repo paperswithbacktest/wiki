@@ -1,6 +1,8 @@
 ---
-title: "BlackEdge Capital (Algo Trading)"
-description: "Discover BlackEdge Capital's innovative algorithmic trading strategies that leverage cutting-edge tech and expertise to enhance financial market efficiency."
+category: trading_strategy
+description: Discover BlackEdge Capital's innovative algorithmic trading strategies
+  that leverage cutting-edge tech and expertise to enhance financial market efficiency.
+title: BlackEdge Capital (Algo Trading)
 ---
 
 In the fast-paced world of trading, algorithmic or 'algo' trading has emerged as a key player, revolutionizing the way financial markets operate. Among the prominent firms leveraging this technology is BlackEdge Capital, known for its rigorous approach to algorithmic trading that combines quantitative analysis, advanced technology, and strategic insight. BlackEdge Capital has established itself as a leader by integrating sophisticated algorithms and data-driven methodologies to navigate and capitalize on market opportunities.

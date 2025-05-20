@@ -1,7 +1,8 @@
 ---
-title: Model Compression Techniques for Efficient Edge Computing
+category: quant_concept
 description: Model compression streamlines machine learning models to run faster and
   use less memory on edge devices while maintaining accuracy Discover more inside
+title: Model Compression Techniques for Efficient Edge Computing
 ---
 
 ![Image](images/1.png)

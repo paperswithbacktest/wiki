@@ -1,6 +1,13 @@
 ---
-title: "Rollover in the Forex Market (Algo Trading)"
-description: "Discover how the forex market facilitates global trade and investment with currency trading, a pivotal financial activity involving major currency pairs like EUR/USD and USD/JPY. Understand forex rollover, which impacts positions held overnight, and explore the role of algorithmic trading in enhancing trade precision and efficiency. This comprehensive guide offers insights into market fundamentals, rollover dynamics, and the innovation of algo trading, helping traders navigate the ever-evolving forex landscape while optimizing strategies and managing risks."
+category: trading_strategy
+description: Discover how the forex market facilitates global trade and investment
+  with currency trading, a pivotal financial activity involving major currency pairs
+  like EUR/USD and USD/JPY. Understand forex rollover, which impacts positions held
+  overnight, and explore the role of algorithmic trading in enhancing trade precision
+  and efficiency. This comprehensive guide offers insights into market fundamentals,
+  rollover dynamics, and the innovation of algo trading, helping traders navigate
+  the ever-evolving forex landscape while optimizing strategies and managing risks.
+title: Rollover in the Forex Market (Algo Trading)
 ---
 
 The global foreign exchange (forex) market serves as the backbone of international trade and investment, with trillions of dollars exchanged daily. It operates as a decentralized network where currencies are traded in global financial hubs, enabling businesses and individuals to convert one currency into another. This market is vital as it facilitates international trade and investment, supports global economic stability, and provides opportunities for speculation and profit.

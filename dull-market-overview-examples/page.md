@@ -1,6 +1,8 @@
 ---
-title: "Dull Market: Overview and Examples (Algo Trading)"
-description: "Explore the dynamics of dull markets and algorithmic trading to harness innovative strategies and optimize investments in low-activity market environments."
+category: quant_concept
+description: Explore the dynamics of dull markets and algorithmic trading to harness
+  innovative strategies and optimize investments in low-activity market environments.
+title: 'Dull Market: Overview and Examples (Algo Trading)'
 ---
 
 In the rapidly evolving world of finance, understanding market dynamics is crucial for investors to make informed decisions. Financial markets are complex systems characterized by fluctuating trends, varying levels of activity, and diverse trader interactions. Investors must discern these changing patterns to effectively strategize and optimize their portfolios. Two significant components in this landscape are dull markets and algorithmic trading, each playing a pivotal role in shaping financial market analysis.

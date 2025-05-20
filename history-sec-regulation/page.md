@@ -1,6 +1,8 @@
 ---
-title: "History of SEC Regulation (Algo Trading)"
-description: "Explore the evolution of SEC regulation in algorithmic trading and its impact on market dynamics aiming for market efficiency while ensuring investor protection."
+category: quant_concept
+description: Explore the evolution of SEC regulation in algorithmic trading and its
+  impact on market dynamics aiming for market efficiency while ensuring investor protection.
+title: History of SEC Regulation (Algo Trading)
 ---
 
 Algorithmic trading, the use of computer algorithms to execute trades at speeds and volumes beyond human capability, has redefined the financial markets over the past few decades. Its origins trace back to the 1970s with the advent of electronic communication networks. Initially used for simple processes such as order routing, algorithmic trading has evolved to encompass complex decision-making processes based on vast quantities of data, leveraging advancements in computing power and data analytics.

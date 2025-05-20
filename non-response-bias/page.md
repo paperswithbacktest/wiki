@@ -1,7 +1,8 @@
 ---
-title: Understanding Non-Response Bias in Machine Learning Models
+category: quant_concept
 description: Non-response bias in machine learning skews model accuracy by excluding
   underrepresented data explore detection mitigation strategies discover more inside
+title: Understanding Non-Response Bias in Machine Learning Models
 ---
 
 ![Image](images/1.png)

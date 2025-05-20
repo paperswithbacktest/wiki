@@ -1,6 +1,8 @@
 ---
-title: "Comparison of Investment Risk: Small-Cap vs Large-Cap Companies (Algo Trading)"
-description: "Explore the investment risks of small-cap vs large-cap companies and how algorithmic trading impacts their market dynamics for well-informed decisions."
+category: trading_strategy
+description: Explore the investment risks of small-cap vs large-cap companies and
+  how algorithmic trading impacts their market dynamics for well-informed decisions.
+title: 'Comparison of Investment Risk: Small-Cap vs Large-Cap Companies (Algo Trading)'
 ---
 
 In the complex world of investing, both large-cap and small-cap companies present unique opportunities and risks to investors. Large-cap companies, characterized by their substantial market capitalizations, generally offer stability and consistent dividends. They are typically well-established entities that attract risk-averse investors seeking dependable returns. Conversely, small-cap companies, with their lower market capitalization, can provide high growth potential but come with increased volatility and risk. 

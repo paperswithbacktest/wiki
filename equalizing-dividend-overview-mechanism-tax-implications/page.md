@@ -1,6 +1,9 @@
 ---
-title: "Equalizing Dividend: Overview, Mechanism, and Tax Implications (Algo Trading)"
-description: "Discover the complexities of dividend strategies and tax implications in algorithmic trading. Understand how these elements influence investor returns and tax efficiency."
+category: quant_concept
+description: Discover the complexities of dividend strategies and tax implications
+  in algorithmic trading. Understand how these elements influence investor returns
+  and tax efficiency.
+title: 'Equalizing Dividend: Overview, Mechanism, and Tax Implications (Algo Trading)'
 ---
 
 In the rapidly evolving financial landscape, understanding the interconnectedness of dividend tax, dividend mechanisms, and algorithmic trading is pivotal for investors and financial professionals. These elements, though distinct, interact in ways that profoundly influence trading strategies and tax efficiencies.

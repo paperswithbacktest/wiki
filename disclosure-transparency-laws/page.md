@@ -1,6 +1,12 @@
 ---
-title: "Disclosure and Transparency Laws (Algo Trading)"
-description: "Explore the critical role of disclosure transparency laws in algorithmic trading within today's financial markets. Understand how these regulations aim to ensure fair trading practices by requiring that market participants provide clear information about their trading algorithms. Delve into notable cases and existing legal frameworks that highlight the importance of transparency to protect investors and maintain market integrity as financial technologies evolve."
+category: quant_concept
+description: Explore the critical role of disclosure transparency laws in algorithmic
+  trading within today's financial markets. Understand how these regulations aim to
+  ensure fair trading practices by requiring that market participants provide clear
+  information about their trading algorithms. Delve into notable cases and existing
+  legal frameworks that highlight the importance of transparency to protect investors
+  and maintain market integrity as financial technologies evolve.
+title: Disclosure and Transparency Laws (Algo Trading)
 ---
 
 Algorithmic trading, often referred to as algo trading, has become an integral part of today's financial markets. This technologically advanced method of trading utilizes complex algorithms to make high-speed transactions possible. These algorithms can analyze vast amounts of data, identify market trends, and execute trades much faster than any human trader. The speed and efficiency that algo trading brings to financial markets have revolutionized the way trading occurs.

@@ -1,6 +1,8 @@
 ---
-title: "Hedge Fund Fee Structure: Two and Twenty (Algo Trading)"
-description: "Explore the impact of the 'two and twenty' fee structure in hedge funds on algorithmic trading strategies as it shapes management incentives and innovation."
+category: quant_concept
+description: Explore the impact of the 'two and twenty' fee structure in hedge funds
+  on algorithmic trading strategies as it shapes management incentives and innovation.
+title: 'Hedge Fund Fee Structure: Two and Twenty (Algo Trading)'
 ---
 
 Hedge funds represent a specific sector within the financial industry characterized by their aggressive investment strategies, diverse asset allocations, and active management. These private investment partnerships cater mainly to accredited investors, using pooled funds to generate high returns, potentially uncorrelated with traditional markets. A defining aspect of hedge funds is their compensation model, known as the 'two and twenty' fee structure, which has become a cornerstone of the industry. This model entails a 2% management fee of the total assets under management (AUM) and a 20% performance fee on any profits generated.

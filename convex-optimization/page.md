@@ -1,7 +1,8 @@
 ---
-title: Fundamentals Of Convex Optimization In Machine Learning
+category: quant_concept
 description: Convex Optimization ensures reliable model training with efficient algorithms
   and duality applications in regression and SVM Discover more inside
+title: Fundamentals Of Convex Optimization In Machine Learning
 ---
 
 ![Image](images/1.png)

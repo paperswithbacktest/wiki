@@ -1,6 +1,8 @@
 ---
-title: "Yield Equivalence (Algo Trading)"
-description: "Unlock the synergistic potential of yield finance equivalence and algorithmic trading to optimize investment strategies balancing tax benefits and market efficiency."
+category: quant_concept
+description: Unlock the synergistic potential of yield finance equivalence and algorithmic
+  trading to optimize investment strategies balancing tax benefits and market efficiency.
+title: Yield Equivalence (Algo Trading)
 ---
 
 In recent years, the financial sector has been transformed by significant technological advancements, particularly with the advent of algorithmic trading and the concept of yield finance equivalence. These developments have dramatically influenced the methods by which investments are analyzed and directed, leading to enhanced decision-making processes and optimization of investment strategies. 

@@ -1,6 +1,8 @@
 ---
-title: "Financial Accelerator in Economics (Algo Trading)"
-description: "Explore how monetary policy, economic theory, and algorithmic trading impact global financial markets and the economy's dynamics, enhancing trading strategies."
+category: quant_concept
+description: Explore how monetary policy, economic theory, and algorithmic trading
+  impact global financial markets and the economy's dynamics, enhancing trading strategies.
+title: Financial Accelerator in Economics (Algo Trading)
 ---
 
 The global economy functions as an intricate web where various factors coalesce to shape its trajectory. At the heart of these factors lie monetary policy, economic theories, and technological advancements, each playing a pivotal role in influencing market dynamics. This interplay is crucial for understanding the broader economic landscape in which stakeholders operate.

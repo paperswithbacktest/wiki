@@ -1,6 +1,9 @@
 ---
-title: "Analysis of Trending and Range-Bound Forex Currencies (Algo Trading)"
-description: "Explore forex trends and range-bound currencies with algorithmic trading insights. Improve your strategy by distinguishing market conditions using technical analysis."
+category: trading_strategy
+description: Explore forex trends and range-bound currencies with algorithmic trading
+  insights. Improve your strategy by distinguishing market conditions using technical
+  analysis.
+title: Analysis of Trending and Range-Bound Forex Currencies (Algo Trading)
 ---
 
 In the world of forex trading, the ability to discern between trending and range-bound currencies is essential for traders looking to achieve success. This distinction is the foundation for developing effective trading strategies and making well-informed decisions in the market. Trending currencies showcase a clear directional movement, either upwards or downwards, over a given time frame. In contrast, range-bound currencies meander within specific price limits, lacking a definitive trend.

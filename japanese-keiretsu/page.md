@@ -1,6 +1,8 @@
 ---
-title: "Japanese Keiretsu (Algo Trading)"
-description: "Discover the keiretsu structure's impact on Japan's economy and explore how algorithmic trading influences these networks in Japan's ever-evolving market."
+category: quant_concept
+description: Discover the keiretsu structure's impact on Japan's economy and explore
+  how algorithmic trading influences these networks in Japan's ever-evolving market.
+title: Japanese Keiretsu (Algo Trading)
 ---
 
 The term 'keiretsu' pertains to a distinctive organizational framework prevalent in Japan, characterized by interconnected business relationships and shareholdings. These conglomerates have played a crucial role in shaping Japan's economic landscape, particularly during its early phases of development and industrialization. Originating from the dissolution of pre-war zaibatsus, which were tightly-knit family-owned monopolies, keiretsus emerged as a more democratic and collaborative arrangement, designed to promote business stability and economic growth post World War II.

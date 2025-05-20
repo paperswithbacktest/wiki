@@ -1,6 +1,13 @@
 ---
-title: "Contract for Differences: Overview and Examples (Algo Trading)"
-description: "Discover the world of Contract for Differences (CFDs) where traders can speculate on price movements of assets like stocks and commodities without owning them. Explore how algorithmic trading enhances CFD trading efficiency by enabling high-speed order execution and data analysis. Understand the mechanics, benefits, and risks of CFDs, and learn about the legalities and global market opportunities. This overview equips readers with insights into leveraging CFDs for trading success in a dynamic financial landscape."
+category: quant_concept
+description: Discover the world of Contract for Differences (CFDs) where traders can
+  speculate on price movements of assets like stocks and commodities without owning
+  them. Explore how algorithmic trading enhances CFD trading efficiency by enabling
+  high-speed order execution and data analysis. Understand the mechanics, benefits,
+  and risks of CFDs, and learn about the legalities and global market opportunities.
+  This overview equips readers with insights into leveraging CFDs for trading success
+  in a dynamic financial landscape.
+title: 'Contract for Differences: Overview and Examples (Algo Trading)'
 ---
 
 A Contract for Differences (CFD) is a financial instrument that allows traders to speculate on the price movements of various assets, such as stocks, commodities, and indices, without actually owning the underlying assets. This flexibility makes CFDs a valuable tool in modern financial trading, offering both retail and institutional investors the opportunity to engage with markets worldwide. The popularity of CFDs has surged due to their ability to provide exposure to multiple asset classes with relatively low capital outlay, thanks to the leverage offered by many brokers.

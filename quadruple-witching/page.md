@@ -1,6 +1,13 @@
 ---
-title: "Quadruple Witching Explained (Algo Trading)"
-description: Discover the complex world of quad witching days in financial markets, occurring quarterly as four types of derivative contracts expire simultaneously. Traders and investors face increased volatility and trading volumes, presenting both opportunities and risks. Learn about strategic maneuvers, the impact on algorithmic trading, and how to navigate these dynamic market conditions. Explore the significance of liquidity, volatility, and trading volumes to better position yourself for potential gains and manage inherent challenges.
+category: quant_concept
+description: Discover the complex world of quad witching days in financial markets,
+  occurring quarterly as four types of derivative contracts expire simultaneously.
+  Traders and investors face increased volatility and trading volumes, presenting
+  both opportunities and risks. Learn about strategic maneuvers, the impact on algorithmic
+  trading, and how to navigate these dynamic market conditions. Explore the significance
+  of liquidity, volatility, and trading volumes to better position yourself for potential
+  gains and manage inherent challenges.
+title: Quadruple Witching Explained (Algo Trading)
 ---
 
 Quad witching, a term often whispered with a mix of anticipation and trepidation among traders, signifies a pivotal event in the financial markets that occurs four times a year. It takes place on the third Friday of March, June, September, and December, each time punctuated by the simultaneous expiration of four significant types of derivative contracts: stock index futures, stock index options, single stock options, and single stock futures. This synchronization can lead to increased volatility and trading volumes, creating an environment filled with both opportunities and challenges for traders and investors.

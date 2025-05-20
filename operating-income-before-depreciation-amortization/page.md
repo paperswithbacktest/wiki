@@ -1,6 +1,9 @@
 ---
-title: "Operating Income Before Depreciation and Amortization (Algo Trading)"
-description: "Explore how Operating Income Before Depreciation and Amortization (OIBDA) provides insights into a company's operational performance, essential for algorithmic trading."
+category: quant_concept
+description: Explore how Operating Income Before Depreciation and Amortization (OIBDA)
+  provides insights into a company's operational performance, essential for algorithmic
+  trading.
+title: Operating Income Before Depreciation and Amortization (Algo Trading)
 ---
 
 Operating Income Before Depreciation and Amortization (OIBDA) is a crucial financial metric that plays a significant role in evaluating a company's core business profitability. By focusing on a company's operational performance without the impact of non-cash expenses like depreciation and amortization, OIBDA provides a clearer picture of the company's financial health. This article will examine the relationship among operating income, OIBDA, and algorithmic trading.

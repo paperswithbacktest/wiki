@@ -1,7 +1,8 @@
 ---
-title: Understanding Lamda Language Model for Dialogue Applications
+category: quant_concept
 description: Lamda language model for dialogue applications delivers human-like conversational
   AI by focusing on context and engagement. Discover more inside.
+title: Understanding Lamda Language Model for Dialogue Applications
 ---
 
 ![Image](images/1.png)

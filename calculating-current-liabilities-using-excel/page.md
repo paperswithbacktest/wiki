@@ -1,6 +1,9 @@
 ---
-title: "Calculating Current Liabilities Using Excel (Algo Trading)"
-description: "Explore how Excel simplifies tracking current liabilities, enhancing liquidity assessment in financial analysis, and learn its significance in algorithmic trading."
+category: quant_concept
+description: Explore how Excel simplifies tracking current liabilities, enhancing
+  liquidity assessment in financial analysis, and learn its significance in algorithmic
+  trading.
+title: Calculating Current Liabilities Using Excel (Algo Trading)
 ---
 
 Financial analysis is a critical component of business strategy and decision-making, providing insights into a company's performance, stability, and profitability. It involves evaluating financial data to understand a business's strengths and weaknesses, forecast future performance, and make informed decisions. One key aspect of financial analysis is the examination of a company's liabilities, particularly current liabilities. 

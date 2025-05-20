@@ -1,6 +1,12 @@
 ---
-title: "Wealth: Definition and Measurement (Algo Trading)"
-description: "Explore the essential aspects of wealth measurement, economic analysis, and algorithmic trading in this comprehensive guide. Understand the intricacies of financial assessment, including asset valuation, debt evaluation, and key economic indicators like GDP and inflation rates. Learn how algorithmic trading leverages data to optimize market strategies, ensuring informed decision-making and financial success in today's complex economic landscape."
+category: quant_concept
+description: Explore the essential aspects of wealth measurement, economic analysis,
+  and algorithmic trading in this comprehensive guide. Understand the intricacies
+  of financial assessment, including asset valuation, debt evaluation, and key economic
+  indicators like GDP and inflation rates. Learn how algorithmic trading leverages
+  data to optimize market strategies, ensuring informed decision-making and financial
+  success in today's complex economic landscape.
+title: 'Wealth: Definition and Measurement (Algo Trading)'
 ---
 
 In an era where financial decisions drive economies and personal wealth, understanding the mechanisms of financial assessment becomes crucial. The complexity of modern financial markets necessitates a thorough comprehension of various methodologies and strategies, enabling individuals and institutions to make informed, strategic decisions. This article explores the integral elements of wealth measurement, economic analysis, and algorithmic trading strategies, offering a detailed examination of how these components contribute to efficient financial management.

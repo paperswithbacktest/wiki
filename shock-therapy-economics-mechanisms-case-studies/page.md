@@ -1,6 +1,8 @@
 ---
-title: "Shock Therapy in Economics: Mechanisms and Case Studies (Algo Trading)"
-description: "Explore the intersection of economic shock therapy and algorithmic trading, analyzing their impact on market efficiency and reform in transitioning economies."
+category: quant_concept
+description: Explore the intersection of economic shock therapy and algorithmic trading,
+  analyzing their impact on market efficiency and reform in transitioning economies.
+title: 'Shock Therapy in Economics: Mechanisms and Case Studies (Algo Trading)'
 ---
 
 In recent years, there has been growing interest in how economic reform strategies intersect with advanced trading technologies. One such economic reform strategy is shock therapy, a method involving rapid and comprehensive changes to quickly transition economies towards market-based systems. This article examines the concept of shock therapy, assessing its economic impacts and relevance to modern trading practices, specifically algorithmic trading.

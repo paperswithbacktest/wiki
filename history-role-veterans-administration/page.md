@@ -1,6 +1,9 @@
 ---
-title: "History and Role of the Veterans Administration (Algo Trading)"
-description: "Explore the history and evolution of the U.S. Department of Veterans Affairs and its vital role in providing comprehensive services to support military veterans."
+category: quant_concept
+description: Explore the history and evolution of the U.S. Department of Veterans
+  Affairs and its vital role in providing comprehensive services to support military
+  veterans.
+title: History and Role of the Veterans Administration (Algo Trading)
 ---
 
 The Veterans Administration, now recognized as the U.S. Department of Veterans Affairs (VA), is a cornerstone institution dedicated to supporting military veterans in the United States. Its inception in 1930, during the turmoil of the Great Depression, marked a significant commitment by the federal government to address the multifaceted needs of returning service members. This era saw a growing acknowledgment of the unique challenges faced by veterans, encompassing healthcare, reintegration into civilian life, and economic stability.

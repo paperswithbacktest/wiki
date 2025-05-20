@@ -1,6 +1,8 @@
 ---
-title: "Investment Strategies During Bear Markets (Algo Trading)"
-description: "Navigate bear markets confidently with effective investment strategies and algorithmic trading techniques Learn to manage risks and seize opportunities "
+category: trading_strategy
+description: 'Navigate bear markets confidently with effective investment strategies
+  and algorithmic trading techniques Learn to manage risks and seize opportunities '
+title: Investment Strategies During Bear Markets (Algo Trading)
 ---
 
 In the world of finance, bear markets are phases characterized by a decline in asset prices and widespread uncertainty. These downturns present significant challenges and risks for investors. A bear market is typically defined by a decline of 20% or more in major stock indices, such as the S&P 500, from recent highs. This substantial decrease can be triggered by various factors, including economic recession, geopolitical tensions, or abrupt changes in market sentiment.

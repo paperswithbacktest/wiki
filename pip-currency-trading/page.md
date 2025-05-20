@@ -1,6 +1,12 @@
 ---
-title: "Pip in Currency Trading (Algo Trading)"
-description: "Explore the critical roles of pips and algorithmic trading in forex markets, enhancing your understanding and strategy effectiveness. Learn how pips quantify rate fluctuations, influence financial outcomes, and are integral to risk management. Discover how algorithmic trading automates decisions for precision and consistency, transforming trading dynamics. Embrace these concepts to navigate the forex landscape with improved insight and efficiency."
+category: quant_concept
+description: Explore the critical roles of pips and algorithmic trading in forex markets,
+  enhancing your understanding and strategy effectiveness. Learn how pips quantify
+  rate fluctuations, influence financial outcomes, and are integral to risk management.
+  Discover how algorithmic trading automates decisions for precision and consistency,
+  transforming trading dynamics. Embrace these concepts to navigate the forex landscape
+  with improved insight and efficiency.
+title: Pip in Currency Trading (Algo Trading)
 ---
 
 Currency trading in the forex market presents a dynamic arena where traders can profit by speculating on fluctuations in exchange rates. At its core, effective forex trading demands a deep understanding of key concepts such as the 'pip,' which is fundamental to calculating price changes and thus determining potential profits or losses. A 'pip,' or 'point in percentage,' represents the smallest price move in a currency pair's exchange rate, usually set at 0.0001 for most pairs, and is essential for traders eager to grasp the nuances of currency market movements.

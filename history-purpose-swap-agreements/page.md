@@ -1,6 +1,8 @@
 ---
-title: "History and Purpose of Swap Agreements (Algo Trading)"
-description: "Discover the history and purpose of swap agreements in algorithmic trading Learn how they enhance risk management and strategy execution in financial markets"
+category: quant_concept
+description: Discover the history and purpose of swap agreements in algorithmic trading
+  Learn how they enhance risk management and strategy execution in financial markets
+title: History and Purpose of Swap Agreements (Algo Trading)
 ---
 
 In financial instruments, swap agreements and derivatives have emerged as pivotal tools for managing risk and capitalizing on market opportunities. These financial constructs are particularly significant in algorithmic trading, where speed and precision are crucial. Swap agreements, often utilized to hedge against interest rate or currency fluctuations, involve the exchange of cash flows or financial liabilities between two parties. Derivatives, on the other hand, are financial contracts whose value is tied to an underlying asset, index, or rate, offering both risk management and speculative opportunities.

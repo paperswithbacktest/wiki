@@ -1,6 +1,14 @@
 ---
-title: "Relative Strength Index: Understanding the Indicator and Its Formula (Algo Trading)"
-description: "Discover the power of the Relative Strength Index (RSI) in algorithmic trading to evaluate market momentum and predict price reversals. Learn about its history, calculation formula, and strategic application in diverse trading environments. Understand how the RSI, oscillating between 0 and 100, can signal potential overbought or oversold conditions, aiding traders in making informed decisions. Enhance your trading strategy by integrating the RSI with other indicators to refine your market analysis and optimize entry and exit points for better trading outcomes."
+category: quant_concept
+description: Discover the power of the Relative Strength Index (RSI) in algorithmic
+  trading to evaluate market momentum and predict price reversals. Learn about its
+  history, calculation formula, and strategic application in diverse trading environments.
+  Understand how the RSI, oscillating between 0 and 100, can signal potential overbought
+  or oversold conditions, aiding traders in making informed decisions. Enhance your
+  trading strategy by integrating the RSI with other indicators to refine your market
+  analysis and optimize entry and exit points for better trading outcomes.
+title: 'Relative Strength Index: Understanding the Indicator and Its Formula (Algo
+  Trading)'
 ---
 
 The Relative Strength Index (RSI) is a widely utilized momentum oscillator in technical analysis, developed by J. Welles Wilder Jr. Introduced in Wilder's seminal 1978 book, "New Concepts in Technical Trading Systems," the RSI has become a cornerstone for traders seeking to gauge market momentum and make informed trading decisions. This indicator measures the speed and change of price movements, providing traders with a quantifiable method to assess market conditions and potential reversals.

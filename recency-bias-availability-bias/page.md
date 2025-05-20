@@ -1,6 +1,11 @@
 ---
-title: "Recency Bias and Availability Bias (Algo Trading)"
-description: "Explore how cognitive biases like recency and availability bias can influence algorithmic trading decisions. Understand how these biases, rooted in human psychology, can impact the development and effectiveness of automated trading systems, leading to potential errors and inefficiencies. Discover strategies to mitigate these biases for improved trading outcomes."
+category: quant_concept
+description: Explore how cognitive biases like recency and availability bias can influence
+  algorithmic trading decisions. Understand how these biases, rooted in human psychology,
+  can impact the development and effectiveness of automated trading systems, leading
+  to potential errors and inefficiencies. Discover strategies to mitigate these biases
+  for improved trading outcomes.
+title: Recency Bias and Availability Bias (Algo Trading)
 ---
 
 Algorithmic trading refers to the use of computer algorithms to automate trading decisions, execute trades, and manage market strategies. These computer-driven strategies follow a pre-set of rules or use mathematical models to decide when, how, and why a trade should be executed. This trading approach has become increasingly significant in modern financial markets due to its ability to process vast amounts of data at speed far beyond human capability, leading to enhanced efficiency and liquidity. Algorithmic trading now constitutes a major part of global financial markets, allowing institutional investors and hedge funds to manage large transactions with minimal market impact.

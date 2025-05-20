@@ -1,6 +1,12 @@
 ---
-title: "Indicators to Build a Trend-Following Strategy (Algo Trading)"
-description: Explore how to build a trend-following strategy for algorithmic trading using key indicators like moving averages, Bollinger Bands, and RSI. Discover how these tools help traders identify market trends and optimize entry and exit points, enabling a systematic approach to capitalize on market momentum and mitigate risks. Perfect for traders looking to automate their processes and remove emotional biases while maximizing returns through algo trading.
+category: trading_strategy
+description: Explore how to build a trend-following strategy for algorithmic trading
+  using key indicators like moving averages, Bollinger Bands, and RSI. Discover how
+  these tools help traders identify market trends and optimize entry and exit points,
+  enabling a systematic approach to capitalize on market momentum and mitigate risks.
+  Perfect for traders looking to automate their processes and remove emotional biases
+  while maximizing returns through algo trading.
+title: Indicators to Build a Trend-Following Strategy (Algo Trading)
 ---
 
 Algorithmic trading, commonly known as algo trading, is a significant advancement in financial markets, fundamentally changing the mechanics of trading by leveraging technology to execute orders with remarkable speed and efficiency. The integration of complex algorithms with market data has enabled traders to conduct transactions in milliseconds, significantly outperforming human execution capabilities. This technological evolution has not only increased market liquidity but also facilitated the execution of high-frequency and large-volume trades seamlessly.

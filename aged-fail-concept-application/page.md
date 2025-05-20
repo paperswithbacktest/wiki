@@ -1,6 +1,11 @@
 ---
-title: "Aged Fail: Concept and Application (Algo Trading)"
-description: "Explore the concept of aged fail in algorithmic trading, where a trade fails to settle within the standard time frame, and its implications on market stability. Understanding the causes of aged fails is crucial as they can impact liquidity and increase counterparty risk. Learn about effective strategies to mitigate these risks and ensure efficient trading operations."
+category: quant_concept
+description: Explore the concept of aged fail in algorithmic trading, where a trade
+  fails to settle within the standard time frame, and its implications on market stability.
+  Understanding the causes of aged fails is crucial as they can impact liquidity and
+  increase counterparty risk. Learn about effective strategies to mitigate these risks
+  and ensure efficient trading operations.
+title: 'Aged Fail: Concept and Application (Algo Trading)'
 ---
 
 Algorithmic trading, often referred to as algo trading, has fundamentally changed financial markets by deploying computer programs to automate the process of trading orders at speeds and frequencies that are impossible for a human trader to achieve. This technological leap has enabled traders to execute complex strategies swiftly and efficiently, reshaping the dynamics of stock exchanges globally.

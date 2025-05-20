@@ -1,6 +1,8 @@
 ---
-title: "Magic Formula Investing (Algo Trading)"
-description: "Discover how the Magic Formula, a stock-picking strategy by Joel Greenblatt, integrates with algorithmic trading to enhance investment outcomes in today's market."
+category: trading_strategy
+description: Discover how the Magic Formula, a stock-picking strategy by Joel Greenblatt,
+  integrates with algorithmic trading to enhance investment outcomes in today's market.
+title: Magic Formula Investing (Algo Trading)
 ---
 
 In today's fast-paced stock market, investors are constantly on the lookout for robust strategies to maximize returns while minimizing risks. One such approach is the Magic Formula, devised by renowned investor Joel Greenblatt. The Magic Formula is celebrated for its simplicity and efficacy in identifying undervalued stocks possessing high growth potential. At its core, this formula uses a quantitative strategy to rank stocks based on specific financial metrics, focusing on companies that consistently deliver strong financial performance.

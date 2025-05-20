@@ -1,6 +1,9 @@
 ---
-title: "Coiled Market: Meaning, Function, and Examples (Algo Trading)"
-description: "Explore the intriguing concept of coiled markets where price tension builds like a compressed spring Discover how algorithmic trading taps into these dynamics for strategic gains"
+category: quant_concept
+description: Explore the intriguing concept of coiled markets where price tension
+  builds like a compressed spring Discover how algorithmic trading taps into these
+  dynamics for strategic gains
+title: 'Coiled Market: Meaning, Function, and Examples (Algo Trading)'
 ---
 
 Financial markets operate as complex ecosystems where various forces interplay to dictate prices and trends. One of the intriguing phenomena within these markets is the concept of coiled markets. A coiled market is akin to a compressed spring, where prices are under pressure due but wait for the right conditions to release energy and potentially lead to significant market movements. Understanding these markets involves scrutinizing the dynamics at play, including the influence of market pressures and fundamental factors, and the role of algorithmic trading, which has revolutionized how market phenomena are analyzed and exploited.

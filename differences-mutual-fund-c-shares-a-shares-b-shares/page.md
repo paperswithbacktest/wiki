@@ -1,6 +1,8 @@
 ---
-title: "Differences Between Mutual Fund C Shares and A Shares, B Shares (Algo Trading)"
-description: "Explore the differences between mutual fund A, B, and C shares and how algorithmic trading enhances investment strategies to meet diverse financial goals."
+category: quant_concept
+description: Explore the differences between mutual fund A, B, and C shares and how
+  algorithmic trading enhances investment strategies to meet diverse financial goals.
+title: Differences Between Mutual Fund C Shares and A Shares, B Shares (Algo Trading)
 ---
 
 The world of mutual fund investments is marked by a wide array of options, each with its own unique fee structure and attributes. A fundamental aspect of these investments is the understanding of different share classes, specifically Class A, B, and C shares. These classes cater to diverse investor needs and preferences, influencing decisions based on factors like investment duration and initial capital. Class A shares are characterized by an upfront sales charge, beneficial for long-term investors. Class B shares, while diminishing in popularity, impose a back-end load and transition to Class A over time. Class C shares, with their level-load fee structure, suit short-term investors.

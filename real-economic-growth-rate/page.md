@@ -1,6 +1,9 @@
 ---
-title: "Real Economic Growth Rate (Algo Trading)"
-description: "Explore the relationship between economic indicators, growth rates, and the role of algorithmic trading in finance. Learn how they influence investment strategies."
+category: quant_concept
+description: Explore the relationship between economic indicators, growth rates, and
+  the role of algorithmic trading in finance. Learn how they influence investment
+  strategies.
+title: Real Economic Growth Rate (Algo Trading)
 ---
 
 In finance and economics, understanding the key drivers of economic growth and the implications of economic indicators is crucial. Economic growth is a fundamental measure of a country's economic health, reflecting its capacity to produce goods and services. Key metrics such as Gross Domestic Product (GDP), employment rates, and inflation are essential economic indicators that provide insights into an economy's performance and future direction.

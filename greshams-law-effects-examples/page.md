@@ -1,6 +1,8 @@
 ---
-title: "Gresham's Law and Its Effects (Algo Trading)"
-description: "Explore how Gresham's Law impacts algorithmic trading in modern currency markets Understand the interplay of legal tender laws and economic behaviors."
+category: quant_concept
+description: Explore how Gresham's Law impacts algorithmic trading in modern currency
+  markets Understand the interplay of legal tender laws and economic behaviors.
+title: Gresham's Law and Its Effects (Algo Trading)
 ---
 
 Understanding the dynamics of currency and trading is crucial in today's global economy as they form the backbone of international financial interactions. The study of these dynamics can be significantly enhanced by examining Gresham's Law, a monetary principle that originally addressed the circulation of different forms of currency. This law, often encapsulated by the phrase "bad money drives out good," sheds light on the behavior and circulation of money, especially when different currencies coexist within the same economic system.

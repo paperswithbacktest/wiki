@@ -1,6 +1,9 @@
 ---
-title: "History and Statistics of Gender Income Inequality (Algo Trading)"
-description: "Explore the intersection of gender income inequality and algorithmic trading revealing their historical roots impacts on modern economics and role in shaping equity."
+category: quant_concept
+description: Explore the intersection of gender income inequality and algorithmic
+  trading revealing their historical roots impacts on modern economics and role in
+  shaping equity.
+title: History and Statistics of Gender Income Inequality (Algo Trading)
 ---
 
 Income inequality and gender inequality represent enduring and significant facets of societal disparities, shaping the socio-economic fabric across the globe. Algorithmic trading, a cornerstone of modern financial systems, further complicates these dynamics, introducing new dimensions to consider when analyzing economic equity. This article explores how these phenomena intersect, highlighting their implications and interconnections within contemporary economic frameworks.

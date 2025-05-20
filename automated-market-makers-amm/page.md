@@ -1,6 +1,8 @@
 ---
-title: "automated market makers (AMM) (Algo Trading)"
-description: "Discover the transformative role of automated market makers in decentralized finance. Learn how AMMs enhance crypto trading with liquidity pools and smart contracts."
+category: quant_concept
+description: Discover the transformative role of automated market makers in decentralized
+  finance. Learn how AMMs enhance crypto trading with liquidity pools and smart contracts.
+title: automated market makers (AMM) (Algo Trading)
 ---
 
 Automated market makers (AMMs) represent a paradigm shift in the cryptocurrency trading landscape, emerging as a core component of decentralized finance (DeFi). In contrast to traditional financial markets, which rely on the matching of buy and sell orders, AMMs utilize liquidity pools to facilitate continuous trading. This mechanism ensures that markets remain liquid, even in the absence of formal exchanges. Liquidity pools consist of cryptocurrency reserves deposited by users and are governed by smart contracts. These smart contracts execute trades in a permissionless and automated fashion, offering traders more autonomy and reduced costs.

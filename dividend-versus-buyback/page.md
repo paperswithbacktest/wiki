@@ -1,6 +1,9 @@
 ---
-title: "Dividend Versus Buyback (Algo Trading)"
-description: "Explore the dynamics of dividend policies versus stock buybacks and the role of algorithmic trading in enhancing shareholder value and optimizing corporate finance."
+category: trading_strategy
+description: Explore the dynamics of dividend policies versus stock buybacks and the
+  role of algorithmic trading in enhancing shareholder value and optimizing corporate
+  finance.
+title: Dividend Versus Buyback (Algo Trading)
 ---
 
 The financial landscape is marked by a myriad of strategies aimed at enhancing shareholder value and optimizing financial performance. Central to these strategies are stock repurchases, dividend policies, and the increasingly significant role of algorithmic trading. Stock repurchases, also known as buybacks, involve a company purchasing its own shares from the marketplace, thereby reducing the number of outstanding shares. This can lead to an increased value of remaining shares and is indicative of the company's confidence in its current valuation.

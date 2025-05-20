@@ -1,6 +1,12 @@
 ---
-title: "Impact of Unemployment Rate on Society (Algo Trading)"
-description: "Explore the societal impact of unemployment rates influenced by the rise of algorithmic trading in financial markets. This analysis investigates into how advanced trading technologies enhance market efficiency while potentially increasing economic inequality and job displacement. Understand the interconnectedness of unemployment, economic stability, and digital transformation, highlighting the importance of policy interventions to balance technological progress with inclusive economic growth."
+category: quant_concept
+description: Explore the societal impact of unemployment rates influenced by the rise
+  of algorithmic trading in financial markets. This analysis investigates into how
+  advanced trading technologies enhance market efficiency while potentially increasing
+  economic inequality and job displacement. Understand the interconnectedness of unemployment,
+  economic stability, and digital transformation, highlighting the importance of policy
+  interventions to balance technological progress with inclusive economic growth.
+title: Impact of Unemployment Rate on Society (Algo Trading)
 ---
 
 The ever-evolving landscape of the global economy is increasingly influenced by advanced technologies like algorithmic trading. This method of trading utilizes computer algorithms to automatically make trading decisions and execute trades at speeds and frequencies that are impossible for human traders. As such, algorithmic trading is transforming financial markets, leading to increased efficiencies and market liquidity. However, its proliferation also poses challenges, notably its potential impact on unemployment and economic inequality.

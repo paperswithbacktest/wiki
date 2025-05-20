@@ -1,6 +1,9 @@
 ---
-title: "Generic Securities: Overview and Mechanisms (Algo Trading)"
-description: "Explore the world of generic securities and algorithmic trading to enhance investment strategies Discover how these modern financial tools can optimize your portfolio"
+category: quant_concept
+description: Explore the world of generic securities and algorithmic trading to enhance
+  investment strategies Discover how these modern financial tools can optimize your
+  portfolio
+title: 'Generic Securities: Overview and Mechanisms (Algo Trading)'
 ---
 
 In the constantly evolving world of finance, understanding various financial instruments and trading methodologies is crucial for optimizing investment strategies. This article aims to explore the core concepts of financial instruments, with a particular focus on generic securities and how algorithmic trading is reshaping the investment landscape. 

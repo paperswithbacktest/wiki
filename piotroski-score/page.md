@@ -1,6 +1,9 @@
 ---
-title: "Piotroski Score (Algo Trading)"
-description: "Explore how integrating the Piotroski Score with algorithmic trading can enhance stock selection and boost investment returns by leveraging financial health insights."
+category: trading_strategy
+description: Explore how integrating the Piotroski Score with algorithmic trading
+  can enhance stock selection and boost investment returns by leveraging financial
+  health insights.
+title: Piotroski Score (Algo Trading)
 ---
 
 Investors employ a range of strategies to optimize returns and mitigate risks, often leveraging financial analysis to assess stock potential. An increasingly popular method is the Piotroski Score-based strategy, which combines fundamental analysis with algorithmic trading techniques to evaluate and select promising stocks. This article introduces an investment strategy that integrates the Piotroski Score with algorithmic models, providing a sophisticated framework for scrutinizing financial health and making informed investment decisions.

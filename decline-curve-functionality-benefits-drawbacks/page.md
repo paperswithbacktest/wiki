@@ -1,6 +1,8 @@
 ---
-title: "Decline Curve: Functionality, Benefits, and Drawbacks (Algo Trading)"
-description: "Explore how decline curve analysis aids in forecasting oil and gas production rates and enhances algorithmic trading for optimal investment strategies."
+category: trading_strategy
+description: Explore how decline curve analysis aids in forecasting oil and gas production
+  rates and enhances algorithmic trading for optimal investment strategies.
+title: 'Decline Curve: Functionality, Benefits, and Drawbacks (Algo Trading)'
 ---
 
 Oil and gas production forecasting presents a complex challenge that is crucial for effective resource management and investment strategies. Decline curve analysis (DCA) serves as a vital tool in this domain, allowing analysts to project the future productivity of a well by examining its historical production data. Through mathematical models, DCA predicts how production rates will decrease over time, aiding in the estimation of reserves and in strategic planning.

@@ -1,6 +1,14 @@
 ---
-title: "Range Bar Trading Strategy (Algo Trading)"
-description: Explore the innovative Range Bar Trading Strategy within algorithmic trading, emphasizing price action over time intervals to enhance market analysis. Discover how this chart type offers a clearer perspective by focusing on significant price movements, eliminating market noise, and aiding in pinpointing trading opportunities. Gain insights into the origin of range bars, their advantages, and their application in trading strategies such as trend following, momentum, and breakout trading, providing traders with a refined approach to understanding market dynamics and making informed decisions.
+category: trading_strategy
+description: Explore the innovative Range Bar Trading Strategy within algorithmic
+  trading, emphasizing price action over time intervals to enhance market analysis.
+  Discover how this chart type offers a clearer perspective by focusing on significant
+  price movements, eliminating market noise, and aiding in pinpointing trading opportunities.
+  Gain insights into the origin of range bars, their advantages, and their application
+  in trading strategies such as trend following, momentum, and breakout trading, providing
+  traders with a refined approach to understanding market dynamics and making informed
+  decisions.
+title: Range Bar Trading Strategy (Algo Trading)
 ---
 
 In algorithmic trading, choosing the appropriate chart type is a critical factor that can significantly influence trading outcomes. Traditional time-based charts, such as candlestick and bar charts, have long dominated the trading landscape. However, range bars present a compelling alternative that traders should consider. Unlike conventional charts, range bars are constructed based on price movement rather than time. This approach provides a fresh perspective on market activity, allowing traders to focus solely on the fluctuations in price action.

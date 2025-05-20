@@ -1,7 +1,8 @@
 ---
-title: Comprehensive Guide To Activation Functions In Neural Networks
+category: quant_concept
 description: Activation functions empower neural networks with non-linear capabilities
   to learn complex patterns and improve performance. Discover more inside.
+title: Comprehensive Guide To Activation Functions In Neural Networks
 ---
 
 ![Image](images/1.png)

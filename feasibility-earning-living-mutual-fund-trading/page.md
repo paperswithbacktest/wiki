@@ -1,6 +1,8 @@
 ---
-title: "Feasibility of Earning a Living Through Mutual Fund Trading (Algo Trading)"
-description: "Explore the potential of earning a living through mutual fund investing and algo trading Learn how these methods can be integrated for financial success"
+category: trading_strategy
+description: Explore the potential of earning a living through mutual fund investing
+  and algo trading Learn how these methods can be integrated for financial success
+title: Feasibility of Earning a Living Through Mutual Fund Trading (Algo Trading)
 ---
 
 In today's dynamic financial landscape, investing and trading have evolved significantly. The convergence of traditional and modern approaches offers both opportunities and challenges for investors aiming to achieve financial success. This article examines the intricacies of living off mutual funds and the rise of algorithmic (algo) trading.

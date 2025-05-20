@@ -1,6 +1,8 @@
 ---
-title: "Misery Index: Components, History, and Limitations (Algo Trading)"
-description: "Explore the Misery Index and its impact on algorithmic trading by understanding inflation and unemployment dynamics to enhance financial strategies."
+category: quant_concept
+description: Explore the Misery Index and its impact on algorithmic trading by understanding
+  inflation and unemployment dynamics to enhance financial strategies.
+title: 'Misery Index: Components, History, and Limitations (Algo Trading)'
 ---
 
 Understanding economic indicators such as inflation and unemployment is a cornerstone for evaluating a nation’s economic health. These indicators not only reveal internal economic dynamics but also influence public perception of economic wellbeing. A prominent concept that encapsulates public economic distress is the Misery Index. Developed by economist Arthur Okun in the 1970s, this index is a straightforward calculation derived by summing the inflation rate and the unemployment rate. The Misery Index serves as a quick gauge of economic discomfort experienced by the general populace, where higher values suggest heightened economic distress.

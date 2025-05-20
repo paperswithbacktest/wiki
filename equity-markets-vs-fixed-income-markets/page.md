@@ -1,6 +1,9 @@
 ---
-title: "Equity Markets vs. Fixed-Income Markets (Algo Trading)"
-description: "Explore the dynamics between equity and fixed-income markets in algorithmic trading. Understand their varying risk profiles and potential for optimizing investment strategies."
+category: quant_concept
+description: Explore the dynamics between equity and fixed-income markets in algorithmic
+  trading. Understand their varying risk profiles and potential for optimizing investment
+  strategies.
+title: Equity Markets vs. Fixed-Income Markets (Algo Trading)
 ---
 
 Investment opportunities within financial markets provide individuals and institutions with a range of options to grow their wealth and manage risks. Two primary markets that offer distinct investment avenues are the fixed-income markets and equity markets. Fixed-income markets predominantly feature securities such as bonds, treasury notes, and other debt instruments, where investors lend money to entities—in exchange for periodic interest payments and the return of principal upon maturity. Fixed-income securities are often considered lower risk compared to equities, providing a predictable income stream, making them attractive to risk-averse investors.

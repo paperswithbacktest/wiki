@@ -1,6 +1,8 @@
 ---
-title: "Negotiable Goods, Contracts, and Securities (Algo Trading)"
-description: "Discover the crucial roles of negotiable goods, securities contracts, and algorithmic trading in modern finance and their impact on global markets."
+category: quant_concept
+description: Discover the crucial roles of negotiable goods, securities contracts,
+  and algorithmic trading in modern finance and their impact on global markets.
+title: Negotiable Goods, Contracts, and Securities (Algo Trading)
 ---
 
 In the fast-evolving world of finance and trading, negotiable goods, securities contracts, and algorithmic trading play crucial roles. These elements are integral to the efficiency and dynamism of modern financial markets, fostering innovation and facilitating global commerce. Investors and traders continually seek ways to optimize their strategies for better returns, leveraging technology and sophisticated contracts to navigate the complexities of the market landscape.

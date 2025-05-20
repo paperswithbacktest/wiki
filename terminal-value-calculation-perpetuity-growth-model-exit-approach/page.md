@@ -1,6 +1,9 @@
 ---
-title: "Terminal Value Calculation: Perpetuity Growth Model and Exit Approach (Algo Trading)"
-description: "Explore terminal value calculation methods like the perpetuity growth model and exit multiple approach essential for informed algorithmic trading decisions."
+category: quant_concept
+description: Explore terminal value calculation methods like the perpetuity growth
+  model and exit multiple approach essential for informed algorithmic trading decisions.
+title: 'Terminal Value Calculation: Perpetuity Growth Model and Exit Approach (Algo
+  Trading)'
 ---
 
 In finance, accurately valuing a company is crucial for making informed decisions, especially in the context of algorithmic trading. A key element in this valuation process is calculating the terminal value, which often comprises a significant portion of the enterprise's total value. The terminal value represents the present value of all future cash flows that a company expects to generate beyond a specified forecast period. 

@@ -1,6 +1,9 @@
 ---
-title: "Compound Annual Growth Rate: Key Concepts (Algo Trading)"
-description: "Understand the Compound Annual Growth Rate (CAGR) and its vital role in evaluating investment growth and enhancing algorithmic trading strategies. Optimize your approach."
+category: quant_concept
+description: Understand the Compound Annual Growth Rate (CAGR) and its vital role
+  in evaluating investment growth and enhancing algorithmic trading strategies. Optimize
+  your approach.
+title: 'Compound Annual Growth Rate: Key Concepts (Algo Trading)'
 ---
 
 In today's rapidly evolving financial markets, understanding key investment metrics is crucial for any investor. Among these metrics, the Compound Annual Growth Rate (CAGR) stands out for its ability to provide a clear picture of an investment’s growth over a specified period. By calculating the mean annual growth rate, CAGR helps investors evaluate the performance of investments that may fluctuate in value over time. This metric is particularly valued for its ability to present a smoothed annual return rate, offering a more straightforward perspective on past performance in comparison to simple averages, which can be distorted by volatility.

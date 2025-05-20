@@ -1,6 +1,8 @@
 ---
-title: "Mutual Investment Certificate (Algo Trading)"
-description: "Discover the benefits and challenges of investment certificates, mutual funds, and algorithmic trading to enhance your portfolio and achieve financial growth."
+category: trading_strategy
+description: Discover the benefits and challenges of investment certificates, mutual
+  funds, and algorithmic trading to enhance your portfolio and achieve financial growth.
+title: Mutual Investment Certificate (Algo Trading)
 ---
 
 In today's dynamic financial market, investors are presented with a multitude of financial products and trading strategies designed to cater to diverse investment needs and risk appetites. Among these investment options are investment certificates, mutual funds, and sophisticated trading techniques such as algorithmic trading. Each of these options provides unique opportunities and challenges for investors seeking to grow their wealth.

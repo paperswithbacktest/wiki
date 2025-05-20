@@ -1,6 +1,11 @@
 ---
-title: "Comparison of ROCE and ROI (Algo Trading)"
-description: "Explore the crucial role of ROCE and ROI in investment analysis and algorithmic trading as they provide insights into profitability and capital efficiency. Gain a comprehensive understanding of their distinct strengths and applications, helping investors maximize returns and optimize trading strategies in a competitive financial landscape."
+category: quant_concept
+description: Explore the crucial role of ROCE and ROI in investment analysis and algorithmic
+  trading as they provide insights into profitability and capital efficiency. Gain
+  a comprehensive understanding of their distinct strengths and applications, helping
+  investors maximize returns and optimize trading strategies in a competitive financial
+  landscape.
+title: Comparison of ROCE and ROI (Algo Trading)
 ---
 
 In the fast-paced world of investments, understanding key financial metrics is critical for making informed decisions. Effective financial analysis relies heavily on metrics such as Return on Investment (ROI) and Return on Capital Employed (ROCE), which provide insights into the profitability and efficiency of capital use. These metrics are integral not only to traditional investment evaluations but also play a significant role in algorithmic trading. 

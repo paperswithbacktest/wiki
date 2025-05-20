@@ -1,6 +1,8 @@
 ---
-title: "Comparison of GNI and GDP as Economic Indicators (Algo Trading)"
-description: "Explore how algorithmic trading leverages GNI and GDP as key economic indicators to optimize investment strategies and enhance trading system predictions."
+category: quant_concept
+description: Explore how algorithmic trading leverages GNI and GDP as key economic
+  indicators to optimize investment strategies and enhance trading system predictions.
+title: Comparison of GNI and GDP as Economic Indicators (Algo Trading)
 ---
 
 In the rapidly evolving world of finance, algorithmic trading has become an indispensable tool for investors and analysts. As technology advances, the speed and efficiency of trade execution have increased, rendering traditional trading methods less competitive. Understanding economic indicators is pivotal to developing effective trading algorithms that harness this new capability.

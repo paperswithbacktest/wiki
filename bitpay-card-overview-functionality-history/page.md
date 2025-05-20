@@ -1,6 +1,8 @@
 ---
-title: "Bitpay Card: Overview, Functionality, History (Algo Trading)"
-description: "Explore the Bitpay Card for seamless crypto transactions and delve into the rise of algo trading in cryptocurrency, reshaping modern finance."
+category: quant_concept
+description: Explore the Bitpay Card for seamless crypto transactions and delve into
+  the rise of algo trading in cryptocurrency, reshaping modern finance.
+title: 'Bitpay Card: Overview, Functionality, History (Algo Trading)'
 ---
 
 Cryptocurrency has significantly altered the financial landscape, presenting new opportunities and challenges in a digital age. As digital currencies such as Bitcoin, Ethereum, and others increasingly become part of mainstream commerce, the necessity for effective payment solutions has intensified. Enter the Bitpay Card—a pivotal tool that facilitates the use of cryptocurrencies in daily transactions. This card functions much like a traditional debit card, yet it bridges the gap between digital assets and fiat currency, allowing users to seamlessly spend their crypto holdings at millions of locations worldwide.

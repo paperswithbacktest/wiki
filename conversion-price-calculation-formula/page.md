@@ -1,6 +1,12 @@
 ---
-title: "Conversion Price and Calculation Formula (Algo Trading)"
-description: "Explore the essential role of conversion price in modern finance, crucial for investors and companies in algorithmic trading. Understand how this dynamic metric connects convertible securities to common stock, affecting capital structure, investment attractiveness, and trading strategies. Gain insights into the conversion price formula and its impact on financial modeling, with factors like market conditions and investor sentiment shaping its significance in the financial landscape."
+category: quant_concept
+description: Explore the essential role of conversion price in modern finance, crucial
+  for investors and companies in algorithmic trading. Understand how this dynamic
+  metric connects convertible securities to common stock, affecting capital structure,
+  investment attractiveness, and trading strategies. Gain insights into the conversion
+  price formula and its impact on financial modeling, with factors like market conditions
+  and investor sentiment shaping its significance in the financial landscape.
+title: Conversion Price and Calculation Formula (Algo Trading)
 ---
 
 In the modern financial landscape, understanding the intricacies of conversion price calculation is essential for both investors and companies. As markets become increasingly complex, the ability to navigate and manipulate financial models and algorithmic trading systems is becoming a crucial skill. Conversion price stands as a cornerstone in this regard, providing a pivotal link between convertible securities and common stock. It represents the price per share at which a security, such as a convertible bond or preferred share, can be exchanged for common stock. This is not merely a static number; rather, it reflects a dynamic interplay of market conditions and corporate strategies.

@@ -1,6 +1,8 @@
 ---
-title: "Odd Lot Trader (Algo Trading)"
-description: "Explore the intricacies of odd lot and algorithmic trading to maximize stock market strategies and opportunities with advanced, efficient trading technologies."
+category: trading_strategy
+description: Explore the intricacies of odd lot and algorithmic trading to maximize
+  stock market strategies and opportunities with advanced, efficient trading technologies.
+title: Odd Lot Trader (Algo Trading)
 ---
 
 In the evolving world of financial markets, stock trading is a crucial element that draws the attention of investors globally. Participants have a plethora of trading methodologies at their disposal, allowing engagement in the stock market through varied strategies and insights. Among these methodologies, odd lot trading and algorithmic (algo) trading have garnered significant attention in recent years. Mastery of these terms and underlying concepts is essential for effectively navigating the complexities of the stock market. This article will explain the odd lot market, outline various stock trading strategies, and introduce the innovative approach of algo trading.

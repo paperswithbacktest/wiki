@@ -1,6 +1,8 @@
 ---
-title: "Goldilocks Economy: Characteristics and Functioning (Algo Trading)"
-description: "Discover how the Goldilocks Economy's balanced growth, low inflation, and minimal unemployment interact with algorithmic trading to foster economic stability."
+category: quant_concept
+description: Discover how the Goldilocks Economy's balanced growth, low inflation,
+  and minimal unemployment interact with algorithmic trading to foster economic stability.
+title: 'Goldilocks Economy: Characteristics and Functioning (Algo Trading)'
 ---
 
 In the ever-evolving landscape of global economics, achieving a harmonious balance between growth and sustainability stands as a central challenge for policymakers, economists, and financial institutions. This challenge is encapsulated in the concept of the Goldilocks Economy, where economic conditions are 'just right'—neither too hot, leading to inflation, nor too cold, resulting in stagnation. Drawing inspiration from the renowned fairy tale, the Goldilocks Economy embodies an ideal state that many nations strive to maintain, characterized by balanced growth, low inflation, and minimal unemployment.

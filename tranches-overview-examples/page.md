@@ -1,6 +1,9 @@
 ---
-title: "Tranches: Overview and Examples (Algo Trading)"
-description: "Explore the concept of tranches in structured finance, their role in algorithmic trading, and how they provide tailored investment opportunities with varied risk levels."
+category: quant_concept
+description: Explore the concept of tranches in structured finance, their role in
+  algorithmic trading, and how they provide tailored investment opportunities with
+  varied risk levels.
+title: 'Tranches: Overview and Examples (Algo Trading)'
 ---
 
 Financial instruments are assets that can be traded, including cash, evidence of ownership in an entity, or a contractual right to receive or deliver cash or another financial instrument. Common examples encompass stocks, bonds, and derivatives. These instruments play a crucial role in the allocation of capital and risk across different sectors of the economy, facilitating investment and hedging activities.

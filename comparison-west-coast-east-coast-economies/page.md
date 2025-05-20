@@ -1,6 +1,8 @@
 ---
-title: "Comparison of the West Coast and East Coast Economies (Algo Trading)"
-description: "Explore the economic strengths of the East and West Coasts of the U.S. Financial hubs meet tech innovation with algo trading reshaping regional dynamics."
+category: quant_concept
+description: Explore the economic strengths of the East and West Coasts of the U.S.
+  Financial hubs meet tech innovation with algo trading reshaping regional dynamics.
+title: Comparison of the West Coast and East Coast Economies (Algo Trading)
 ---
 
 The United States, characterized by a diverse and expansive landscape, is economically segmented into distinctive regions, each contributing uniquely to the nation's prosperity. Among these, the East Coast and the West Coast emerge as two formidable economic powerhouses. The East Coast, anchored by historical cities and financial giants, contrasts with the West Coast's dynamic thrust towards technological evolution and innovation. This article seeks to deliver a comprehensive economic comparison of these two pivotal regions, underscoring their individual strengths and the specific contributions they make to the broader U.S. economy.

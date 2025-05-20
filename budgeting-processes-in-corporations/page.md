@@ -1,6 +1,9 @@
 ---
-title: "Budgeting Processes in Corporations (Algo Trading)"
-description: "Explore the ties between corporate budgeting, financial planning, and algo trading. Master these for strategic financial success and sustained competitive edge."
+category: quant_concept
+description: Explore the ties between corporate budgeting, financial planning, and
+  algo trading. Master these for strategic financial success and sustained competitive
+  edge.
+title: Budgeting Processes in Corporations (Algo Trading)
 ---
 
 In the ever-evolving world of business finance, staying ahead of the curve is imperative for success. Corporate budgeting and financial planning are fundamental aspects that guide companies towards achieving their financial goals. These processes involve carefully managing a company's monetary resources, predicting revenues, allocating funds, and setting clear financial objectives. They form a roadmap that helps organizations remain financially stable and resilient during economic fluctuations and uncertainty.

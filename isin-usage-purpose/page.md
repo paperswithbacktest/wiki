@@ -1,6 +1,8 @@
 ---
-title: "ISIN: Usage and Purpose (Algo Trading)"
-description: "Discover how ISINs enhance financial trading by providing a unique, standardized identifier for securities, crucial for efficient and accurate global transactions."
+category: quant_concept
+description: Discover how ISINs enhance financial trading by providing a unique, standardized
+  identifier for securities, crucial for efficient and accurate global transactions.
+title: 'ISIN: Usage and Purpose (Algo Trading)'
 ---
 
 In the ever-evolving world of finance, the accurate identification of securities is paramount for ensuring efficient trading and settlement processes. With global markets becoming increasingly interconnected, there is a critical need for a standardized system that can universally identify securities. The International Securities Identification Number (ISIN) meets this need by providing a unique 12-digit alphanumeric code to identify securities across different countries and trading platforms.

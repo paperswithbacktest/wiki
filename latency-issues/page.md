@@ -1,6 +1,8 @@
 ---
-title: "latency issues (Algo Trading)"
-description: "Learn how latency impacts algorithmic trading success. Discover strategies to minimize delays in trade execution for optimal performance and efficiency."
+category: quant_concept
+description: Learn how latency impacts algorithmic trading success. Discover strategies
+  to minimize delays in trade execution for optimal performance and efficiency.
+title: latency issues (Algo Trading)
 ---
 
 In the fast-paced world of algorithmic trading, even the smallest delays can lead to significant losses. Latency, defined as the delay between the initiation of a trade order and its execution, is a critical factor that can greatly impact trading performance. In high-frequency trading environments, where numerous trades are executed in milliseconds, latency can reduce profits or cause missed trading opportunities.

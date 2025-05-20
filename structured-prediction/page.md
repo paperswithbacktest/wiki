@@ -1,7 +1,8 @@
 ---
-title: Structured Prediction Techniques in Machine Learning
+category: quant_concept
 description: Structured prediction transforms ML by accurately modeling interdependent
   outputs in NLP computer vision and bioinformatics Discover more inside.
+title: Structured Prediction Techniques in Machine Learning
 ---
 
 ![Image](images/1.png)

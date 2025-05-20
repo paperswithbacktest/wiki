@@ -1,6 +1,8 @@
 ---
-title: "Accounts Receivable Aging (Algo Trading)"
-description: "Master AR aging and algo trading for optimal cash flow and strategic growth Enhance receivable management and leverage trading tech for financial efficiency"
+category: quant_concept
+description: Master AR aging and algo trading for optimal cash flow and strategic
+  growth Enhance receivable management and leverage trading tech for financial efficiency
+title: Accounts Receivable Aging (Algo Trading)
 ---
 
 In today's dynamic financial environment, mastering the complexities of aging report accounts, receivable management, cash flow, and algorithmic trading is essential for businesses aiming to optimize their financial operations. Accounts receivable aging provides insights into the health of a company's receivables by categorizing invoices based on their duration outstanding. This categorization serves as a valuable tool in evaluating the credit risk posed by customers, ultimately impacting a firm's cash flow.

@@ -1,6 +1,9 @@
 ---
-title: "Political Economy: History and Applications (Algo Trading)"
-description: "Explore the complex interplay of political economy, economic history, and algorithmic trading to gain insights into the modern economic landscape and its dynamics."
+category: quant_concept
+description: Explore the complex interplay of political economy, economic history,
+  and algorithmic trading to gain insights into the modern economic landscape and
+  its dynamics.
+title: 'Political Economy: History and Applications (Algo Trading)'
 ---
 
 The intersection of economic applications, economic history, and political economy creates a rich tapestry for understanding the modern economic landscape. Each of these domains offers unique insights into how economies function, evolve, and interact with the political and social frameworks that govern them. Economic applications translate theoretical insights into practical tools and policies that directly impact individuals, businesses, and governments. Economic history provides the chronological framework to understand how past events and decisions have shaped current economic conditions and trends. Political economy studies the influence of political structures and processes on economic systems, revealing the interplay between economic policies and political forces.

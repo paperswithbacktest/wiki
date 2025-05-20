@@ -1,6 +1,9 @@
 ---
-title: "SEC Form 1-A: Overview and Historical Context (Algo Trading)"
-description: "Understand the essential role of SEC Form 1-A in streamlining small to mid-sized companies' access to public capital markets under Regulation A while considering the impact of algorithmic trading."
+category: quant_concept
+description: Understand the essential role of SEC Form 1-A in streamlining small to
+  mid-sized companies' access to public capital markets under Regulation A while considering
+  the impact of algorithmic trading.
+title: 'SEC Form 1-A: Overview and Historical Context (Algo Trading)'
 ---
 
 In investment, securities regulation is critical to maintaining market integrity and ensuring investor protection. Central to this regulatory framework is the U.S. Securities and Exchange Commission (SEC), which oversees various forms and filings. These documents provide transparency and accountability in financial markets, allowing investors to make informed decisions and helping to prevent fraudulent activities.

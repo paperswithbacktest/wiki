@@ -1,6 +1,9 @@
 ---
-title: "Bank Discount Rate: Overview and Applications (Algo Trading)"
-description: "Explore the essential concepts of bank discount rates and algorithmic trading in modern finance Understand their impact on investment strategies and market dynamics"
+category: quant_concept
+description: Explore the essential concepts of bank discount rates and algorithmic
+  trading in modern finance Understand their impact on investment strategies and market
+  dynamics
+title: 'Bank Discount Rate: Overview and Applications (Algo Trading)'
 ---
 
 In the ever-evolving world of finance, grasping key financial concepts is essential for investors and traders. Terms like financial instruments, bank discount rates, interest rates, and algorithmic trading not only frame the landscape of trading but also drive decision-making processes. These concepts are deeply interconnected, each influencing the others and playing a significant role in shaping investment strategies and market dynamics.
@@ -199,4 +202,3 @@ Staying informed and adaptable in this rapidly evolving financial landscape is c
 - **Websites:**
   - QuantInsti: A training platform that focuses on algorithmic and quantitative trading, offering valuable insights and training materials to enhance understanding and practical skills.
   - Investopedia: A well-established educational website that offers detailed articles and tutorials about financial concepts, trading strategies, and market behavior.
-

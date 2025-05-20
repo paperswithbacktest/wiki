@@ -1,6 +1,14 @@
 ---
-title: "Neural networks (Algo Trading)"
-description: Discover how neural networks are revolutionizing algorithmic trading by enhancing decision-making and predictive accuracy. These advanced models mimic the human brain's data processing, making them ideal for complex financial markets. Learn about different neural network types like CNNs and RNNs and their applications in stock prediction, volatility forecasting, and portfolio optimization to gain a competitive edge in the trading world. Explore how harnessing neural networks can optimize trading strategies and increase profitability in dynamic financial environments.
+category: trading_strategy
+description: Discover how neural networks are revolutionizing algorithmic trading
+  by enhancing decision-making and predictive accuracy. These advanced models mimic
+  the human brain's data processing, making them ideal for complex financial markets.
+  Learn about different neural network types like CNNs and RNNs and their applications
+  in stock prediction, volatility forecasting, and portfolio optimization to gain
+  a competitive edge in the trading world. Explore how harnessing neural networks
+  can optimize trading strategies and increase profitability in dynamic financial
+  environments.
+title: Neural networks (Algo Trading)
 ---
 
 In recent years, neural networks have become an integral part of algorithmic trading strategies, significantly enhancing decision-making processes by leveraging complex data patterns. These powerful computational models mimic the human brain's ability to recognize intricate data structures, making them particularly suited for financial markets where such complexities are abundant.

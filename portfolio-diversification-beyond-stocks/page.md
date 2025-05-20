@@ -1,6 +1,8 @@
 ---
-title: "Portfolio Diversification Beyond Stocks (Algo Trading)"
-description: "Discover the benefits of portfolio diversification beyond stocks by exploring alternative assets and algorithmic trading to enhance returns and reduce risks."
+category: trading_strategy
+description: Discover the benefits of portfolio diversification beyond stocks by exploring
+  alternative assets and algorithmic trading to enhance returns and reduce risks.
+title: Portfolio Diversification Beyond Stocks (Algo Trading)
 ---
 
 In today's rapidly evolving financial markets, investors are constantly seeking ways to enhance their portfolios while mitigating risks. Diversification, alternative assets, and algorithmic trading represent three pivotal strategies in contemporary investment management. This article will evaluate these strategies to provide a comprehensive understanding of how they can be used effectively. By learning about these concepts, investors can make informed decisions that align with their financial goals. 

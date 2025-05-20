@@ -1,6 +1,10 @@
 ---
-title: "Ratio Analysis for Company Comparison (Algo Trading)"
-description: "Explore the intricate relationship between ratio analysis and algorithmic trading in financial markets. Discover how key financial ratios help investors assess company performance while aiding the development of sophisticated trading algorithms for improved decision-making and competitive advantage."
+category: quant_concept
+description: Explore the intricate relationship between ratio analysis and algorithmic
+  trading in financial markets. Discover how key financial ratios help investors assess
+  company performance while aiding the development of sophisticated trading algorithms
+  for improved decision-making and competitive advantage.
+title: Ratio Analysis for Company Comparison (Algo Trading)
 ---
 
 Understanding financial markets requires accurately assessing the performance of companies within those markets. A fundamental method for this assessment is ratio analysis, which serves as a critical tool for comparing the financial health of different companies. Ratio analysis involves calculating various financial ratios from a company’s reported financial information—ensuring investors and analysts gain insights that extend beyond simple balance sheets or income statements. By examining ratios related to profitability, liquidity, and solvency, stakeholders can make informed judgments about a company's operational efficiency and financial stability.

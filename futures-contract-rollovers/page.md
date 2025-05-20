@@ -1,6 +1,8 @@
 ---
-title: "Futures Contract Rollovers (Algo Trading)"
-description: "Explore the complexities of futures contract rollovers in algorithmic trading Discover strategies to optimize market exposure and minimize disruptions"
+category: trading_strategy
+description: Explore the complexities of futures contract rollovers in algorithmic
+  trading Discover strategies to optimize market exposure and minimize disruptions
+title: Futures Contract Rollovers (Algo Trading)
 ---
 
 Futures contracts trading presents a complex landscape filled with a variety of strategies and operational challenges that traders must adeptly handle. Among the critical elements of trading in this domain is the rollover process, an essential mechanism particularly significant for those engaged in algorithmic trading. A futures contract is essentially an agreement to buy or sell a specific quantity of a commodity or financial instrument at a predetermined price on a specified future date. This inherent expiration feature introduces timing complexities that traders need to navigate to maintain continuous market positions.

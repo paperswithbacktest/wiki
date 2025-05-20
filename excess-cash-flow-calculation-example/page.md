@@ -1,6 +1,9 @@
 ---
-title: "Excess Cash Flow: Calculation and Example (Algo Trading)"
-description: "Explore the essential concepts of excess cash flow and algorithmic trading to enhance financial strategy Learn how business cash management drives growth and stability"
+category: quant_concept
+description: Explore the essential concepts of excess cash flow and algorithmic trading
+  to enhance financial strategy Learn how business cash management drives growth and
+  stability
+title: 'Excess Cash Flow: Calculation and Example (Algo Trading)'
 ---
 
 Understanding cash flow and its management is vital for both businesses and investors. Cash flow, the lifeblood of any business, indicates the financial health of a company by showing how effectively it generates cash to fund its operating expenses, service debts, and enable growth through investments. This article discusses key concepts such as excess cash flow and cash flow calculation, with a specific emphasis on algorithmic trading, a modern and efficient approach to investment.

@@ -1,6 +1,8 @@
 ---
-title: "Economic Bubble: Definition, Mechanism, and Examples (Algo Trading)"
-description: "Explore economic bubbles their mechanisms and key historical examples like Tulip Mania and Dot-Com Bubble while examining the impact of algorithmic trading."
+category: quant_concept
+description: Explore economic bubbles their mechanisms and key historical examples
+  like Tulip Mania and Dot-Com Bubble while examining the impact of algorithmic trading.
+title: 'Economic Bubble: Definition, Mechanism, and Examples (Algo Trading)'
 ---
 
 Economic and market bubbles have long captivated the attention of investors, economists, and policymakers. These phenomena occur when the prices of assets rise significantly over their intrinsic values and are unsustainable in the long run. The resultant bubbles can lead to extreme volatility in market values, and their eventual burst often precipitates major economic disruptions. Understanding the nature and causes of these bubbles is essential for mitigating risks and making informed investment decisions.

@@ -1,6 +1,9 @@
 ---
-title: "Single-Family Zoning and Its Role in Racial Segregation (Algo Trading)"
-description: "Explore the impact of single-family zoning on racial segregation, urban planning, and their connection to algorithmic trading in today's socio-economic context."
+category: quant_concept
+description: Explore the impact of single-family zoning on racial segregation, urban
+  planning, and their connection to algorithmic trading in today's socio-economic
+  context.
+title: Single-Family Zoning and Its Role in Racial Segregation (Algo Trading)
 ---
 
 Zoning, racial segregation, urban planning, and algorithmic trading are critical components of contemporary socio-economic discourse. Zoning, by setting the legal framework for land use, plays a foundational role in shaping the physical and social landscapes of urban centers. It determines where residential, commercial, and industrial activities can develop, influencing the demographic and economic character of neighborhoods. Historically, zoning has been wielded as a tool of racial segregation, creating and perpetuating divides by determining the racial and socio-economic makeup of different areas. Segregationist policies have often been embedded within zoning laws, restricting access to certain neighborhoods, services, and opportunities based on race.

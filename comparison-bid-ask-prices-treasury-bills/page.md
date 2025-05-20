@@ -1,6 +1,8 @@
 ---
-title: "Comparison of Bid and Ask Prices for Treasury Bills (Algo Trading)"
-description: "Explore bid and ask price dynamics for Treasury Bills and the impact of algorithmic trading on liquidity and efficiency in financial markets."
+category: quant_concept
+description: Explore bid and ask price dynamics for Treasury Bills and the impact
+  of algorithmic trading on liquidity and efficiency in financial markets.
+title: Comparison of Bid and Ask Prices for Treasury Bills (Algo Trading)
 ---
 
 Understanding bid and ask prices is a fundamental aspect of financial markets. These prices are critical, especially in the context of Treasury Bills (T-Bills), which are short-term government securities with durations of one year or less. T-Bills are pivotal in investment strategies due to their perceived safety and liquidity. Investors closely monitor the bid and ask prices as they reflect the highest price a buyer is willing to pay and the lowest price a seller will accept, respectively. The spread between these prices serves as an indicator of market liquidity and efficiency; a narrower spread typically signifies a more liquid market.

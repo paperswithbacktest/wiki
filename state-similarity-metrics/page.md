@@ -1,7 +1,8 @@
 ---
-title: Understanding State Similarity Metrics In Machine Learning
+category: quant_concept
 description: State Similarity Metrics help machine learning models assess how similar
   data points and behaviors are for improved recommendations Discover more inside
+title: Understanding State Similarity Metrics In Machine Learning
 ---
 
 ![Image](images/1.png)

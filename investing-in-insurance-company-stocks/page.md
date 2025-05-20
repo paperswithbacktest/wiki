@@ -1,6 +1,8 @@
 ---
-title: "Investing in Insurance Company Stocks (Algo Trading)"
-description: "Explore the intersection of algorithmic trading and insurance stocks investment Heres insights on leveraging tech for enhanced efficiency and risk management"
+category: trading_strategy
+description: Explore the intersection of algorithmic trading and insurance stocks
+  investment Heres insights on leveraging tech for enhanced efficiency and risk management
+title: Investing in Insurance Company Stocks (Algo Trading)
 ---
 
 Investing in stocks and insurance companies through algorithmic trading is gaining significant traction as technology continues to transform traditional financial sectors. This article seeks to explore the intersection of these domains, providing insights into the potential benefits and complexities of this hybrid investment approach.

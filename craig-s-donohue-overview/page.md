@@ -1,6 +1,9 @@
 ---
-title: "Craig S. Donohue Overview (Algo Trading)"
-description: "Discover the achievements of Craig S. Donohue, chairman of the Options Clearing Corporation, renowned for his transformative impact on algorithmic trading and market dynamics."
+category: quant_concept
+description: Discover the achievements of Craig S. Donohue, chairman of the Options
+  Clearing Corporation, renowned for his transformative impact on algorithmic trading
+  and market dynamics.
+title: Craig S. Donohue Overview (Algo Trading)
 ---
 
 Craig S. Donohue stands as a prominent figure in the financial markets, particularly regarding algorithmic trading. He currently serves as the chairman of the Options Clearing Corporation (OCC), a powerhouse in the derivatives market. The OCC is a Systemically Important Financial Market Utility, underscoring its critical role in securing the integrity of the market infrastructure for options and futures. Under Donohue's strategic direction, the OCC has maintained robust market structures that support the dynamic requirements of modern trading.

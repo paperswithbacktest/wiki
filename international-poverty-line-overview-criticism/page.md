@@ -1,6 +1,8 @@
 ---
-title: "International Poverty Line: Overview and Criticism (Algo Trading)"
-description: "Explore the international poverty line's significance and criticism due to its simplicity. Delve into potential improvements and the role of financial technology."
+category: quant_concept
+description: Explore the international poverty line's significance and criticism due
+  to its simplicity. Delve into potential improvements and the role of financial technology.
+title: 'International Poverty Line: Overview and Criticism (Algo Trading)'
 ---
 
 The international poverty line is a crucial metric employed globally to assess poverty levels. Established by the World Bank, it is set at $2.15 per person per day as of the latest revision. This monetary threshold aims to quantify poverty in a universally understandable manner, providing a benchmark for comparisons across nations and over time.

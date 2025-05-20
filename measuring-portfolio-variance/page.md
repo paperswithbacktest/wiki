@@ -1,6 +1,8 @@
 ---
-title: "Measuring Portfolio Variance (Algo Trading)"
-description: "Explore how financial metrics portfolio variance and algorithmic trading empower investors to enhance investment analysis and manage risks in financial markets."
+category: trading_strategy
+description: Explore how financial metrics portfolio variance and algorithmic trading
+  empower investors to enhance investment analysis and manage risks in financial markets.
+title: Measuring Portfolio Variance (Algo Trading)
 ---
 
 Investment analysis is pivotal for maximizing returns and minimizing risks within financial markets. It involves a comprehensive evaluation of financial data, enabling investors to make informed decisions and optimize their portfolios. At the core of investment analysis are financial metrics, which serve as quantitative indicators to assess an investment's potential performance. These metrics are essential for comparing different investment opportunities and gauging market dynamics.

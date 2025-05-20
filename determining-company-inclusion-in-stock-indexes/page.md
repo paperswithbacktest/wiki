@@ -1,6 +1,8 @@
 ---
-title: "Determining Company Inclusion in Stock Indexes (Algo Trading)"
-description: "Explore the relationship between stock index inclusion and algorithmic trading to understand their profound impact on market dynamics and investment strategies."
+category: trading_strategy
+description: Explore the relationship between stock index inclusion and algorithmic
+  trading to understand their profound impact on market dynamics and investment strategies.
+title: Determining Company Inclusion in Stock Indexes (Algo Trading)
 ---
 
 Understanding the dynamic interplay of financial markets involves a comprehensive analysis of various elements such as stock indices, the process of index inclusion, and the implementation of algorithmic trading. Financial indices serve as essential benchmarks, providing a quantitative measure of market trends, sector performances, and economic vitality. These indices, which include prominent examples like the S&P 500 and the Nasdaq 100, play a crucial role in shaping investment strategies, offering investors a snapshot of the broader market dynamics.

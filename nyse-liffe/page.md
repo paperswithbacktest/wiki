@@ -1,6 +1,8 @@
 ---
-title: "Title (Algo Trading)"
-description: "Explore the impact of algorithmic trading and futures contracts on global markets. Discover how NYSE Liffe facilitates risk management and price discovery."
+category: quant_concept
+description: Explore the impact of algorithmic trading and futures contracts on global
+  markets. Discover how NYSE Liffe facilitates risk management and price discovery.
+title: Title (Algo Trading)
 ---
 
 Futures trading represents a significant segment of the global financial markets, providing participants with opportunities to hedge risks, speculate on price movements, and diversify portfolios. A futures contract is a standardized agreement to buy or sell a specific asset at a predetermined price on a future date. These contracts are essential for managing price volatility in commodities, financial indices, interest rates, and currencies. By enabling participants to lock in prices, futures trading plays a critical role in risk management and price discovery, impacting both the microeconomic and macroeconomic landscapes.

@@ -1,6 +1,9 @@
 ---
-title: "Calculation of Moving Average Convergence Divergence (Algo Trading)"
-description: "Explore the significance of MACD in algorithmic trading and its role in enhancing trading decisions by identifying trends and potential market shifts efficiently."
+category: trading_strategy
+description: Explore the significance of MACD in algorithmic trading and its role
+  in enhancing trading decisions by identifying trends and potential market shifts
+  efficiently.
+title: Calculation of Moving Average Convergence Divergence (Algo Trading)
 ---
 
 The Moving Average Convergence Divergence (MACD) is a widely recognized technical analysis tool employed by traders and investors across financial markets. Its primary function is to assist in identifying potential buy and sell signals, which are pivotal for making informed investment decisions based on asset price momentum and trends. This technical indicator is celebrated for its effectiveness in spotlighting shifts in market conditions, thereby offering a reliable foundation for strategic trading actions.

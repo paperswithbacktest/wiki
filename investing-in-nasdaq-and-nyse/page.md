@@ -1,6 +1,8 @@
 ---
-title: "Investing in Nasdaq and NYSE (Algo Trading)"
-description: "Explore the power of algorithmic trading on NYSE and Nasdaq Learn how automation with complex algorithms can optimize trading decisions and efficiency"
+category: trading_strategy
+description: Explore the power of algorithmic trading on NYSE and Nasdaq Learn how
+  automation with complex algorithms can optimize trading decisions and efficiency
+title: Investing in Nasdaq and NYSE (Algo Trading)
 ---
 
 In today's fast-paced financial markets, algorithmic trading, commonly referred to as algo trading, represents a pivotal strategy for modern investors. Predominantly employed on major stock exchanges such as the New York Stock Exchange (NYSE) and Nasdaq, this approach leverages sophisticated computer algorithms to execute trades with unparalleled efficiency and speed. By automating the process based on pre-set criteria, algorithmic trading minimizes human intervention, which can lead to faster decision-making and reduced potential for emotional bias.

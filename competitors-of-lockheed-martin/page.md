@@ -1,6 +1,9 @@
 ---
-title: "Competitors of Lockheed Martin Corporation (Algo Trading)"
-description: "Discover the competitive landscape of Lockheed Martin in the defense aerospace industry, examining key rivals and the role of algorithmic trading in financial strategies."
+category: quant_concept
+description: Discover the competitive landscape of Lockheed Martin in the defense
+  aerospace industry, examining key rivals and the role of algorithmic trading in
+  financial strategies.
+title: Competitors of Lockheed Martin Corporation (Algo Trading)
 ---
 
 The defense industry is integral to national security and technological progress, primarily through its contributions to aerospace developments. Aerospace companies lead this vital sector, focusing on engineering and producing advanced vehicles and weaponry crucial for military operations and strategic dominance. Key players within this industry, such as Lockheed Martin, are recognized for their significant impact on defense through innovative products and technologies.

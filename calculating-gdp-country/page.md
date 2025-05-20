@@ -1,6 +1,9 @@
 ---
-title: "Calculating GDP of a Country (Algo Trading)"
-description: "Explore the comprehensive guide on calculating a country's GDP and its significance in algorithmic trading Learn about GDP methods insights and trading strategy enhancements"
+category: quant_concept
+description: Explore the comprehensive guide on calculating a country's GDP and its
+  significance in algorithmic trading Learn about GDP methods insights and trading
+  strategy enhancements
+title: Calculating GDP of a Country (Algo Trading)
 ---
 
 Gross Domestic Product (GDP) is a crucial economic measure that quantifies the total monetary value of all finished goods and services produced within a country's borders over a specified time frame. As a comprehensive indicator, GDP is pivotal in assessing the economic performance of nations. This article will explore the multifaceted aspects of GDP, including its calculation methods through expenditures, production, and income approaches, each providing distinct insights into a nation's economic activities.

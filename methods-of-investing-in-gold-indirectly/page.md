@@ -1,6 +1,9 @@
 ---
-title: "Methods of Investing in Gold Indirectly (Algo Trading)"
-description: "Explore how algorithmic trading offers indirect investment opportunities in gold without physical possession. Discover the benefits and risks of gold derivatives and ETFs."
+category: trading_strategy
+description: Explore how algorithmic trading offers indirect investment opportunities
+  in gold without physical possession. Discover the benefits and risks of gold derivatives
+  and ETFs.
+title: Methods of Investing in Gold Indirectly (Algo Trading)
 ---
 
 Gold has long been regarded as a precious and strategic asset, serving as a hedge against inflation and economic uncertainties. Its intrinsic value and historical significance have made it a cornerstone in wealth preservation and financial planning across generations. Traditionally, investing in gold required physical possession through the purchase of bars, coins, or jewelry. However, advancements in financial markets have introduced a plethora of indirect investment options, allowing investors to gain exposure to gold without the necessity of storage and safekeeping.

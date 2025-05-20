@@ -1,6 +1,8 @@
 ---
-title: "Mexican Peso Crisis: Causes, Recovery, and Historical Context (Algo Trading)"
-description: "Explore the Mexican Peso Crisis of 1994 including its causes, the recovery efforts, and the significance of algorithmic trading in managing economic volatility."
+category: quant_concept
+description: Explore the Mexican Peso Crisis of 1994 including its causes, the recovery
+  efforts, and the significance of algorithmic trading in managing economic volatility.
+title: 'Mexican Peso Crisis: Causes, Recovery, and Historical Context (Algo Trading)'
 ---
 
 The Mexican Peso Crisis of 1994, widely referred to as the Tequila Crisis, stands out as a pivotal economic upheaval that not only rattled Mexico but also sent tremors throughout emerging markets globally. Central to this crisis was the sudden and steep devaluation of the Mexican peso, an event that unfolded as a consequence of several intertwined domestic and international dynamics. Key domestic factors included persistent political instability and vulnerabilities in fiscal and monetary policies, while the international arena added pressures through fluctuating foreign investment and global economic conditions.

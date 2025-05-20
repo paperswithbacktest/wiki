@@ -1,7 +1,8 @@
 ---
-title: Model Cascading in Machine Learning for Efficient Predictions
+category: quant_concept
 description: Model Cascading in machine learning uses a tiered sequence of models
   to accelerate predictions and save computational resources Discover more inside.
+title: Model Cascading in Machine Learning for Efficient Predictions
 ---
 
 ![Image](images/1.jpeg)

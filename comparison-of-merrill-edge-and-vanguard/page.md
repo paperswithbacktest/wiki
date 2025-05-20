@@ -1,6 +1,8 @@
 ---
-title: "Comparison of Merrill Edge and Vanguard (Algo Trading)"
-description: "Explore the key differences between Merrill Edge and Vanguard for algorithmic trading. Compare their user interface, trading tools, costs, and mobile capabilities."
+category: trading_strategy
+description: Explore the key differences between Merrill Edge and Vanguard for algorithmic
+  trading. Compare their user interface, trading tools, costs, and mobile capabilities.
+title: Comparison of Merrill Edge and Vanguard (Algo Trading)
 ---
 
 The world of investment presents a myriad of opportunities, with platforms like Merrill Edge and Vanguard offering tailored solutions to meet diverse investor needs. These platforms, renowned for their brokerage services, provide distinct features and cater to varying levels of expertise and preferences among investors. The significance of understanding the differences between Merrill Edge and Vanguard cannot be overstated, particularly for investors considering algorithmic trading as part of their strategy. Both platforms possess unique characteristics that can impact an investor's decision-making process, from usability and trade experience to costs and technological capabilities.

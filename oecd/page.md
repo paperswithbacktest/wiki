@@ -1,6 +1,8 @@
 ---
-title: "OECD (Algo Trading)"
-description: "Explore the OECD's role in shaping global economic policies with a focus on algorithmic trading's impact on market liquidity and financial stability."
+category: quant_concept
+description: Explore the OECD's role in shaping global economic policies with a focus
+  on algorithmic trading's impact on market liquidity and financial stability.
+title: OECD (Algo Trading)
 ---
 
 The Organisation for Economic Co-operation and Development (OECD) is an influential intergovernmental economic organization that plays a significant role in shaping global economic and social policies. Established in 1961, the OECD comprises 37 member countries that are committed to democratic governance and market economies. Its primary mission is to promote policies that improve the economic and social well-being of people around the world. The OECD focuses on fostering economic growth, boosting employment, raising living standards, and maintaining financial stability, serving as a platform for member countries to coordinate and refine these efforts in response to global challenges.

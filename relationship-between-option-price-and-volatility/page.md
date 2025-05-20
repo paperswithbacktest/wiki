@@ -1,6 +1,8 @@
 ---
-title: "Relationship Between Option Price and Volatility (Algo Trading)"
-description: "Explore the link between option pricing and volatility in algorithmic trading Discover how volatility impacts option premiums and influences trading strategies"
+category: quant_concept
+description: Explore the link between option pricing and volatility in algorithmic
+  trading Discover how volatility impacts option premiums and influences trading strategies
+title: Relationship Between Option Price and Volatility (Algo Trading)
 ---
 
 The complex world of financial markets often involves the interplay of various sophisticated instruments, among which financial derivatives hold significant importance. These financial derivatives, especially options, are integral to the strategies deployed in risk management and speculative ventures. Options are contracts that provide the holder with the right, but not the obligation, to buy or sell an underlying asset at a predetermined price within a set timeframe. This flexibility makes options a powerful tool for traders seeking to leverage market conditions.

@@ -1,6 +1,9 @@
 ---
-title: "Bond Exchange-Traded Funds as Investment Alternatives (Algo Trading)"
-description: "Explore bond ETFs as investment alternatives offering diversification and liquidity. Learn how algo trading enhances strategy in the evolving bond market landscape."
+category: trading_strategy
+description: Explore bond ETFs as investment alternatives offering diversification
+  and liquidity. Learn how algo trading enhances strategy in the evolving bond market
+  landscape.
+title: Bond Exchange-Traded Funds as Investment Alternatives (Algo Trading)
 ---
 
 Bond ETFs have increasingly gained attention as a significant asset class within the financial investment world. Offering a compelling blend of diversification and steady income, these financial instruments address the needs of investors who seek both stability and liquidity. By integrating the ease of trading stocks with the extensive variety offered by bond markets, bond exchange-traded funds (ETFs) provide a distinct advantage over traditional individual bond investments. 

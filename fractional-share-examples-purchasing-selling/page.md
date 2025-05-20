@@ -1,6 +1,8 @@
 ---
-title: "Fractional Share: Examples, Purchasing, and Selling (Algo Trading)"
-description: "Explore the world of fractional shares in algo trading and discover how they transform investment accessibility by enabling strategic buying and selling."
+category: quant_concept
+description: Explore the world of fractional shares in algo trading and discover how
+  they transform investment accessibility by enabling strategic buying and selling.
+title: 'Fractional Share: Examples, Purchasing, and Selling (Algo Trading)'
 ---
 
 Fractional shares have emerged as a transformative element in the investment landscape, providing unprecedented opportunities for both novice and seasoned investors. These are essentially portions of a full share, allowing individuals to invest in high-priced stocks without needing to purchase entire shares. This innovation makes even the most expensive stocks accessible, enabling a more inclusive approach to investing. The introduction of fractional shares has fundamentally changed how people engage with the stock market, democratizing access and allowing investors to diversify portfolios with smaller sums of money.

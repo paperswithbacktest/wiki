@@ -1,6 +1,8 @@
 ---
-title: "Credit Cycles in Investing (Algo Trading)"
-description: "Discover how credit cycles, financial factors, and algorithmic trading shape modern investing. Explore strategies for navigating dynamic market conditions."
+category: quant_concept
+description: Discover how credit cycles, financial factors, and algorithmic trading
+  shape modern investing. Explore strategies for navigating dynamic market conditions.
+title: Credit Cycles in Investing (Algo Trading)
 ---
 
 The financial industry continues to transform with the integration of innovative strategies and technologies. Amongst the areas drawing substantial focus are investment strategies shaped by financial factors, the significant role of credit cycles, and the emergence of algorithmic trading. These components together are reshaping the landscape of modern investing and trading decisions.

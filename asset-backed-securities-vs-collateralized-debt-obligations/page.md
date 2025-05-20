@@ -1,6 +1,9 @@
 ---
-title: "Asset-Backed Securities Vs. Collateralized Debt Obligations (Algo Trading)"
-description: "Explore the complexities of asset-backed securities and collateralized debt obligations in trading Discover their structures benefits and algorithmic trading roles"
+category: quant_concept
+description: Explore the complexities of asset-backed securities and collateralized
+  debt obligations in trading Discover their structures benefits and algorithmic trading
+  roles
+title: Asset-Backed Securities Vs. Collateralized Debt Obligations (Algo Trading)
 ---
 
 The world of financial instruments is vast and intricate, encompassing various complex products designed to optimize risk and return. Among these, asset-backed securities (ABS) and collateralized debt obligations (CDOs) distinguish themselves as notable innovations. These instruments allow lenders to transform a range of assets into marketable securities, providing liquidity and enabling diversified investments. 

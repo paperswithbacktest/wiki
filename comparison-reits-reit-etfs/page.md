@@ -1,6 +1,9 @@
 ---
-title: "Comparison of REITs and REIT ETFs (Algo Trading)"
-description: "Explore the benefits and differences of investing in Real Estate Investment Trusts versus REIT ETFs and how algorithmic trading can enhance your investment strategy."
+category: trading_strategy
+description: Explore the benefits and differences of investing in Real Estate Investment
+  Trusts versus REIT ETFs and how algorithmic trading can enhance your investment
+  strategy.
+title: Comparison of REITs and REIT ETFs (Algo Trading)
 ---
 
 Diversification is a fundamental principle in investment strategy, helping to manage risk and enhance potential returns. This article examines three distinct investment options that exemplify diverse approaches to investing: Real Estate Investment Trusts (REITs), REIT Exchange-Traded Funds (ETFs), and algorithmic trading. Each of these options offers unique advantages and aligns with different investment strategies. 

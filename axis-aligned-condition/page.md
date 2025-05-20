@@ -1,7 +1,8 @@
 ---
-title: Understanding Axis-Aligned Conditions in Decision Trees
+category: quant_concept
 description: Axis-Aligned Conditions streamline decision tree splits by evaluating
   one feature at a time for clear, efficient models Discover more inside.
+title: Understanding Axis-Aligned Conditions in Decision Trees
 ---
 
 ![Image](images/1.png)

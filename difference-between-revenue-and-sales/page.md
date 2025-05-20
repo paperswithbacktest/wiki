@@ -1,6 +1,8 @@
 ---
-title: "Difference Between Revenue and Sales (Algo Trading)"
-description: "Gain insights into how revenue and sales differ and their impact on algorithmic trading as vital metrics driving quantitative strategies in financial markets."
+category: quant_concept
+description: Gain insights into how revenue and sales differ and their impact on algorithmic
+  trading as vital metrics driving quantitative strategies in financial markets.
+title: Difference Between Revenue and Sales (Algo Trading)
 ---
 
 In the ever-evolving landscape of financial markets, knowledge of the distinct aspects of revenue and sales, along with their application in algorithmic trading, is essential for understanding how financial decisions are made and executed. Revenue and sales are pivotal metrics that companies use to gauge their financial health, influencing investor decisions and market perceptions. Understanding these figures enables investors and traders to evaluate a company's performance and to develop strategies grounded in quantitative data.

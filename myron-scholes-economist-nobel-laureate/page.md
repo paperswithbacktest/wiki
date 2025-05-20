@@ -1,6 +1,8 @@
 ---
-title: "Myron Scholes: Economist and Nobel Laureate (Algo Trading)"
-description: "Discover the accomplishments of economist and Nobel laureate Myron Scholes known for co-developing the Black-Scholes model revolutionizing option pricing."
+category: quant_concept
+description: Discover the accomplishments of economist and Nobel laureate Myron Scholes
+  known for co-developing the Black-Scholes model revolutionizing option pricing.
+title: 'Myron Scholes: Economist and Nobel Laureate (Algo Trading)'
 ---
 
 Myron Samuel Scholes, born in July 1941, is a Canadian-American economist recognized for his groundbreaking contributions to financial economics. Notably, Scholes is renowned for co-developing the Black-Scholes model for option pricing, a pivotal advancement that transformed the domain of financial derivatives. This model, created alongside Fischer Black and Robert C. Merton, offered a robust theoretical framework for valuing options, thereby making the market more accessible and manageable for traders and financial professionals.

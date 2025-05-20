@@ -1,6 +1,8 @@
 ---
-title: "2000 Investor Limit (Algo Trading)"
-description: "Discover the impact of the SEC's 2000 Investor Limit on algo trading and investor limits Explore evolving securities regulations and market dynamics"
+category: trading_strategy
+description: Discover the impact of the SEC's 2000 Investor Limit on algo trading
+  and investor limits Explore evolving securities regulations and market dynamics
+title: 2000 Investor Limit (Algo Trading)
 ---
 
 The world of investing is continuously evolving with advancements in technology and regulatory changes. This evolution has given rise to innovative trading practices, most notably algorithmic trading, which has gained significant popularity among both institutional and retail investors. Algorithmic trading, or algo trading, enables the automatic execution of trades employing pre-determined criteria such as price fluctuations or trading volume. This approach enhances trading efficiency and minimizes human error, offering distinct advantages in the modern financial markets.

@@ -1,6 +1,8 @@
 ---
-title: "Risk Arbitrage: Overview, Mechanism, and Criticism (Algo Trading)"
-description: "Explore risk arbitrage: a strategy exploiting price differences during corporate mergers using algorithmic trading for fast precise executions."
+category: trading_strategy
+description: 'Explore risk arbitrage: a strategy exploiting price differences during
+  corporate mergers using algorithmic trading for fast precise executions.'
+title: 'Risk Arbitrage: Overview, Mechanism, and Criticism (Algo Trading)'
 ---
 
 The financial market landscape is undergoing continuous transformation, driven by the rapid integration of sophisticated technologies and novel strategies. This progression is not merely a superficial evolution but represents a fundamental shift in how financial activities are conceptualized and executed. Key concepts such as investment critique, financial strategy, risk arbitrage, and algorithmic trading play pivotal roles in this dynamic environment, serving as both pillars and catalysts for change.

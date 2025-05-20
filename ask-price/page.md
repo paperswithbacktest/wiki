@@ -1,6 +1,14 @@
 ---
-title: "Ask price (Algo Trading)"
-description: Discover the intricacies of the ask price in financial markets with our comprehensive guide. Learn how the ask price, the minimum price a seller is willing to accept for an asset, influences trading dynamics, market liquidity, and transaction costs. Explore its crucial role in algorithmic trading, stock exchange transactions, and mutual fund investments, with insights into algorithmic strategies like mean reversion and the significance of the bid-ask spread. Whether you're a trader or investor, understanding the ask price is key to successful financial decision-making and risk management.
+category: quant_concept
+description: Discover the intricacies of the ask price in financial markets with our
+  comprehensive guide. Learn how the ask price, the minimum price a seller is willing
+  to accept for an asset, influences trading dynamics, market liquidity, and transaction
+  costs. Explore its crucial role in algorithmic trading, stock exchange transactions,
+  and mutual fund investments, with insights into algorithmic strategies like mean
+  reversion and the significance of the bid-ask spread. Whether you're a trader or
+  investor, understanding the ask price is key to successful financial decision-making
+  and risk management.
+title: Ask price (Algo Trading)
 ---
 
 In the context of financial markets, the ask price represents the minimum price a seller is willing to accept for an asset, such as a stock, commodity, or a currency pair. It is a crucial component of financial trading as it establishes the seller's baseline and is instrumental in price determination. The ask price, together with the bid price—which is the maximum price a buyer is ready to pay—forms the bid-ask spread, a critical indicator of market liquidity and transaction costs.

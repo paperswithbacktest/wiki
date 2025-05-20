@@ -1,6 +1,8 @@
 ---
-title: "Enterprise Ethereum Alliance: Overview, Examples, and Membership (Algo Trading)"
-description: "Discover how Enterprise Ethereum Alliance membership enhances algorithmic trading with blockchain technology fostering innovation and optimizing strategies."
+category: quant_concept
+description: Discover how Enterprise Ethereum Alliance membership enhances algorithmic
+  trading with blockchain technology fostering innovation and optimizing strategies.
+title: 'Enterprise Ethereum Alliance: Overview, Examples, and Membership (Algo Trading)'
 ---
 
 Blockchain technology has become a cornerstone for innovation across numerous sectors by providing decentralized and transparent solutions. These qualities have led to significant transformations, particularly in industries that require high levels of trust and security, such as finance, supply chain, and healthcare. One of the key drivers behind the adoption of blockchain technology in the enterprise landscape is the Enterprise Ethereum Alliance (EEA). This organization is dedicated to enhancing the integration of Ethereum blockchain technology in business environments, promoting its use through collaboration between leading corporations, startups, researchers, and technology vendors.
@@ -124,4 +126,3 @@ Enterprises considering EEA membership must focus on aligning their trading stra
 [4]: "Enterprise Ethereum Alliance." (n.d.). [Enterprise Ethereum Alliance official website](https://entethalliance.org/).
 
 [5]: Mallers, J. & Swan, M. (2015). ["Blockchain: Blueprint for a New Economy"](https://books.google.com/books/about/Blockchain.html?id=RHJmBgAAQBAJ). O'Reilly Media.
-

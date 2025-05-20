@@ -1,6 +1,8 @@
 ---
-title: "Comparison of CAPM and Arbitrage Pricing Theory (Algo Trading)"
-description: "Explore how CAPM and APT are utilized in algorithmic trading to enhance investment strategies and manage portfolios in the finance industry."
+category: quant_concept
+description: Explore how CAPM and APT are utilized in algorithmic trading to enhance
+  investment strategies and manage portfolios in the finance industry.
+title: Comparison of CAPM and Arbitrage Pricing Theory (Algo Trading)
 ---
 
 In the ever-evolving world of finance, comprehending different financial models is crucial for crafting effective investment strategies. This article focuses on three pivotal financial models: the Capital Asset Pricing Model (CAPM), the Arbitrage Pricing Theory (APT), and their roles in algorithmic trading. These models provide frameworks to optimize trading strategies and enhance portfolio management, making them indispensable tools for investors and financial analysts.

@@ -1,6 +1,8 @@
 ---
-title: "MSCI BIC Index (Algo Trading)"
-description: "Explore the MSCI BIC Index to understand emerging markets in Brazil, India, and China and how algorithmic trading enhances investment strategies."
+category: quant_concept
+description: Explore the MSCI BIC Index to understand emerging markets in Brazil,
+  India, and China and how algorithmic trading enhances investment strategies.
+title: MSCI BIC Index (Algo Trading)
 ---
 
 In the rapidly evolving world of finance, numerous indices serve as essential tools for investors striving to make well-informed decisions. One of the most critical indices is the MSCI BIC Index, especially pertinent to those interested in emerging markets. This index is a crucial benchmark that offers insights into the economic climates of Brazil, India, and China—three powerhouses in terms of growth potential and investment opportunities.

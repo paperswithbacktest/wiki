@@ -1,6 +1,8 @@
 ---
-title: "Adjoint Algorithmic Differentiation (Algo Trading)"
-description: "Explore the integration of Adjoint Algorithmic Differentiation in algorithmic trading to enhance accuracy and efficiency in risk management and portfolio optimization."
+category: quant_concept
+description: Explore the integration of Adjoint Algorithmic Differentiation in algorithmic
+  trading to enhance accuracy and efficiency in risk management and portfolio optimization.
+title: Adjoint Algorithmic Differentiation (Algo Trading)
 ---
 
 Differentiation plays a vital role in finance by enabling the analysis of how small changes in inputs affect outputs. This is particularly crucial in risk management, pricing derivatives, and optimizing portfolios. Adjoint Algorithmic Differentiation (AAD) is a computational technique that efficiently calculates gradients, which are necessary for these analyses. Unlike traditional methods of differentiation, which can be computationally expensive and inefficient, AAD provides a more effective means to compute derivatives of functions, especially in complex financial models. By transforming the way gradients are computed, AAD has become essential in handling the intricate calculations required in finance.

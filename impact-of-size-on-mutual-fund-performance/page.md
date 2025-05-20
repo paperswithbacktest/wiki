@@ -1,6 +1,8 @@
 ---
-title: "Impact of Size on Mutual Fund Performance (Algo Trading)"
-description: "Explore how mutual fund size impacts performance and the role of algo trading in fund management plus insights for investors choosing the right fund."
+category: trading_strategy
+description: Explore how mutual fund size impacts performance and the role of algo
+  trading in fund management plus insights for investors choosing the right fund.
+title: Impact of Size on Mutual Fund Performance (Algo Trading)
 ---
 
 Mutual funds have emerged as a widely favored investment vehicle due to their capacity to offer investors both diversification and professional management. By pooling resources from a large number of investors, mutual funds can invest across a diverse array of asset classes, thereby minimizing unsystematic risk and enabling individual investors to benefit from professional expertise without the need for substantial capital.

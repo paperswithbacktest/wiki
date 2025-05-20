@@ -1,6 +1,8 @@
 ---
-title: "Comparison of ETF Gross and Net Expense Ratios (Algo Trading)"
-description: "Explore ETF gross and net expense ratios and their impact on investments with a focus on cost efficiency Algo trading influences expense ratios and returns"
+category: quant_concept
+description: Explore ETF gross and net expense ratios and their impact on investments
+  with a focus on cost efficiency Algo trading influences expense ratios and returns
+title: Comparison of ETF Gross and Net Expense Ratios (Algo Trading)
 ---
 
 The gross expense ratio, net expense ratio, and ETF expense ratios are critical metrics utilized by investors to evaluate the costs associated with investment funds. The gross expense ratio represents the total annual fund operating expenses, expressed as a percentage of the average net assets. This figure encompasses management fees, distribution and service fees, and other expenses incurred by the fund, excluding any fee waivers or reimbursements. In contrast, the net expense ratio reflects the fund's actual operating expenses after accounting for such waivers and reimbursements, providing a clearer picture of the costs directly borne by investors.

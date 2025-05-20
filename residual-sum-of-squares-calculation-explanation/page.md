@@ -1,6 +1,8 @@
 ---
-title: "Residual Sum of Squares: Calculation and Explanation (Algo Trading)"
-description: "Discover how Residual Sum of Squares (RSS) enhances algorithmic trading by quantifying model accuracy and guiding the refinement of trading strategies."
+category: quant_concept
+description: Discover how Residual Sum of Squares (RSS) enhances algorithmic trading
+  by quantifying model accuracy and guiding the refinement of trading strategies.
+title: 'Residual Sum of Squares: Calculation and Explanation (Algo Trading)'
 ---
 
 Algorithmic trading has become increasingly prominent, leveraging mathematical models and computational algorithms to make trading decisions at speeds and frequencies that are beyond human capacity. Within this framework, statistical calculations play a crucial role in developing models that are not only predictive but also robust. Among these statistical tools, Residual Sum of Squares (RSS) is a fundamental measure used in regression analysis to quantify the discrepancy between observed and predicted values in a model.

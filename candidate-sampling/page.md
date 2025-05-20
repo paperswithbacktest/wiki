@@ -1,7 +1,8 @@
 ---
-title: Candidate Sampling in Machine Learning for Faster Training
+category: quant_concept
 description: Candidate sampling speeds up machine learning training by focusing on
   true outcomes and selected negatives to cut computation Discover more inside.
+title: Candidate Sampling in Machine Learning for Faster Training
 ---
 
 ![Image](images/1.png)

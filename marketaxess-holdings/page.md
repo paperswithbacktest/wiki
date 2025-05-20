@@ -1,6 +1,9 @@
 ---
-title: "MarketAxess Holdings (Algo Trading)"
-description: "Discover MarketAxess Holdings' revolutionary role in electronic trading with advanced algorithms boosting market efficiency and connectivity for global investors."
+category: quant_concept
+description: Discover MarketAxess Holdings' revolutionary role in electronic trading
+  with advanced algorithms boosting market efficiency and connectivity for global
+  investors.
+title: MarketAxess Holdings (Algo Trading)
 ---
 
 The financial services industry has been reshaped by the emergence of electronic trading platforms, leading to a more streamlined and efficient market environment. MarketAxess Holdings Inc., established in 2000, has positioned itself at the vanguard of this transformation, particularly in the fixed-income securities domain. As a pioneer, MarketAxess introduced a centralized platform that revolutionized the way credit trading is conducted, making significant strides in accessibility and execution for institutional investors.

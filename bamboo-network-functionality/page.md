@@ -1,6 +1,8 @@
 ---
-title: "Bamboo Network and Its Functionality (Algo Trading)"
-description: "Explore the interplay of traditional Bamboo Networks with modern algorithmic trading in Southeast Asia boosting business adaptability and technological integration."
+category: quant_concept
+description: Explore the interplay of traditional Bamboo Networks with modern algorithmic
+  trading in Southeast Asia boosting business adaptability and technological integration.
+title: Bamboo Network and Its Functionality (Algo Trading)
 ---
 
 The Bamboo Network is a defining feature of East Asian economies, notably present among ethnic Chinese businesses throughout Southeast Asia. It consists of informal yet potent business ties that have shaped commerce and innovation within the region. Originating from the historical migrations of ethnic Chinese communities, these networks rely heavily on relational ties and trust, known in Chinese culture as guanxi. This social fabric extends across multiple business sectors, fostering cooperation and expedience in both trade and operational processes.

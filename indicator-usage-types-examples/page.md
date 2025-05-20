@@ -1,6 +1,9 @@
 ---
-title: "Indicator: Usage, Types, and Examples (Algo Trading)"
-description: "Explore key indicators in algorithmic trading and economic analysis to understand market trends and strategies enhancing informed decision-making and trading performance."
+category: quant_concept
+description: Explore key indicators in algorithmic trading and economic analysis to
+  understand market trends and strategies enhancing informed decision-making and trading
+  performance.
+title: 'Indicator: Usage, Types, and Examples (Algo Trading)'
 ---
 
 Indicators serve as vital instruments in economic analysis and algorithmic trading, acting as barometers for market trends, economic conditions, and price movements. By distilling complex market data into actionable insights, indicators help traders, investors, and policymakers make informed decisions. In economic analysis, indicators are essential for understanding macroeconomic trends, including growth rates, inflation, and unemployment levels. These metrics provide a snapshot of economic health, enabling governments and financial institutions to devise appropriate fiscal and monetary policies.

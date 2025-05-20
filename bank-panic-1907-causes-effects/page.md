@@ -1,6 +1,8 @@
 ---
-title: "Bank Panic of 1907: Causes and Effects (Algo Trading)"
-description: "Explore the causes and effects of the Bank Panic of 1907 to gain insights into financial crises and understand the evolution of modern economic resilience."
+category: quant_concept
+description: Explore the causes and effects of the Bank Panic of 1907 to gain insights
+  into financial crises and understand the evolution of modern economic resilience.
+title: 'Bank Panic of 1907: Causes and Effects (Algo Trading)'
 ---
 
 Understanding historical financial crises is crucial in navigating today's complex economic landscape. These crises provide valuable insights into the vulnerabilities and weaknesses that can precipitate economic turmoil, highlighting the importance of implementing robust financial systems and regulatory frameworks to mitigate future risks. The Bank Panic of 1907 serves as a significant historical case, illustrating the profound impact financial instability can have on economies and the subsequent development of measures to enhance financial resilience.

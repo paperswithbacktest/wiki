@@ -1,6 +1,9 @@
 ---
-title: "Mirror trading (Algo Trading)"
-description: "Explore mirror trading as a hands-free investment method that automates trade replication from expert traders, enabling both newcomers and experienced investors to capitalize on skilled strategies effortlessly."
+category: trading_strategy
+description: Explore mirror trading as a hands-free investment method that automates
+  trade replication from expert traders, enabling both newcomers and experienced investors
+  to capitalize on skilled strategies effortlessly.
+title: Mirror trading (Algo Trading)
 ---
 
 Mirror trading, also referred to as algo trading, is an innovative approach to investing that automates the process of replicating the trades executed by experienced traders. This groundbreaking method of trading serves as a bridge for investors, enabling both novices and those with trading experience to capitalize on the insights and strategies of professional traders without requiring deep market expertise.

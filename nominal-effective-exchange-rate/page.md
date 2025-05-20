@@ -1,6 +1,8 @@
 ---
-title: "Nominal Effective Exchange Rate (Algo Trading)"
-description: "Delve into the complex world of currency valuation and forex dynamics, exploring how algorithmic trading influences global markets and exchange rate mechanisms."
+category: quant_concept
+description: Delve into the complex world of currency valuation and forex dynamics,
+  exploring how algorithmic trading influences global markets and exchange rate mechanisms.
+title: Nominal Effective Exchange Rate (Algo Trading)
 ---
 
 Currency valuation, international economics, exchange rate mechanisms, and algorithmic trading are essential components of the global economic framework. These elements collectively influence how currencies are valued, traded, and impacted within financial markets worldwide.

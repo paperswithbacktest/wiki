@@ -1,6 +1,9 @@
 ---
-title: "Entropy: Concept, Risk Assessment, and Computation (Algo Trading)"
-description: "Explore how entropy enhances algorithmic trading by assessing market risk and unpredictability This concept offers unique insights for refined trading strategies"
+category: quant_concept
+description: Explore how entropy enhances algorithmic trading by assessing market
+  risk and unpredictability This concept offers unique insights for refined trading
+  strategies
+title: 'Entropy: Concept, Risk Assessment, and Computation (Algo Trading)'
 ---
 
 Automated trading, commonly known as algo trading, has undergone significant transformations with technological innovations. At the heart of this transformation is the integration of mathematical models and sophisticated algorithms, leading to enhanced trading strategies and efficiency. A notable tool gaining traction in this domain is entropy computation, a concept originally from physics and information theory. In the context of financial markets, entropy computation provides a new method for assessing risk and analyzing market trends. This article explores the role of entropy in algo trading, emphasizing its importance, methodology, and practical applications.

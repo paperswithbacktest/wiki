@@ -1,6 +1,13 @@
 ---
-title: "Jesse Livermore Trading Strategy: Backtest and Performance (Algo Trading)"
-description: Explore how Jesse Livermore's legendary trading strategies can be integrated into modern algorithmic trading systems. This article examines the timeless principles of market trend analysis, risk management, and leverage that Livermore perfected, and discusses their application in creating disciplined and adaptable trading strategies using advanced computational methods. Learn how blending historical trading wisdom with today’s technology can enhance trading performance in the complex financial markets.
+category: trading_strategy
+description: Explore how Jesse Livermore's legendary trading strategies can be integrated
+  into modern algorithmic trading systems. This article examines the timeless principles
+  of market trend analysis, risk management, and leverage that Livermore perfected,
+  and discusses their application in creating disciplined and adaptable trading strategies
+  using advanced computational methods. Learn how blending historical trading wisdom
+  with today’s technology can enhance trading performance in the complex financial
+  markets.
+title: 'Jesse Livermore Trading Strategy: Backtest and Performance (Algo Trading)'
 ---
 
 Jesse Livermore, often referred to as the "Great Bear of Wall Street," is renowned for his exceptional trading strategies that have left a lasting imprint on the financial markets. Throughout his career in the early 20th century, Livermore's keen understanding of market trends and human psychology enabled him to execute some of the most famous trades in stock market history. His approach to trading, deeply rooted in observation and analysis, emphasized the importance of patience, discipline, and risk management, traits that are just as crucial for traders today.

@@ -1,6 +1,9 @@
 ---
-title: "Expectations Index: Definition and Mechanism (Algo Trading)"
-description: "Explore how the Expectations Index and consumer sentiment influence algorithmic trading. Understand their significance in shaping economic indicators and trading strategies."
+category: quant_concept
+description: Explore how the Expectations Index and consumer sentiment influence algorithmic
+  trading. Understand their significance in shaping economic indicators and trading
+  strategies.
+title: 'Expectations Index: Definition and Mechanism (Algo Trading)'
 ---
 
 The nexus between economic indicators, consumer sentiment, and algorithmic trading plays a pivotal role in modern financial markets. Economic indicators like the Expectations Index and Consumer Confidence Index (CCI) provide essential insights into economic activities and consumer behaviors. These indicators help market participants and policymakers understand the underlying economic conditions, which can drive financial market trends. 

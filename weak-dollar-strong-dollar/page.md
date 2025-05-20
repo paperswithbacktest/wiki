@@ -1,6 +1,8 @@
 ---
-title: "Weak Dollar and Strong Dollar (Algo Trading)"
-description: "Explore the impact of strong and weak US dollar dynamics in global finance and the role of algorithmic trading in exchange rate fluctuation."
+category: quant_concept
+description: Explore the impact of strong and weak US dollar dynamics in global finance
+  and the role of algorithmic trading in exchange rate fluctuation.
+title: Weak Dollar and Strong Dollar (Algo Trading)
 ---
 
 Understanding the dynamics of currency exchange rates is crucial for global trade and finance. Exchange rates, determined by numerous economic indicators, impact everything from international trade agreements to tourist expenditures. One often encounters the terms 'strong dollar' and 'weak dollar' in financial news, reflecting the U.S. dollar's relative value compared to other currencies. But what do they really mean?

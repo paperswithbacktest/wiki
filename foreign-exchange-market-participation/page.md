@@ -1,6 +1,9 @@
 ---
-title: "Foreign Exchange Market Participation (Algo Trading)"
-description: "Explore the evolving forex market with insights on algorithmic trading. Discover how technology enhances trading strategies while navigating opportunities and risks."
+category: quant_concept
+description: Explore the evolving forex market with insights on algorithmic trading.
+  Discover how technology enhances trading strategies while navigating opportunities
+  and risks.
+title: Foreign Exchange Market Participation (Algo Trading)
 ---
 
 The currency market, commonly referred to as the foreign exchange or forex market, represents the largest financial market globally, with a daily trading volume that surpasses $6 trillion, dwarfing other financial markets. Unlike traditional stock markets, forex is decentralized and operates 24 hours a day, five days a week, facilitating currency exchanges across different time zones and continents. The forex market serves a fundamental role in the global economy, enabling currency conversion for international trade and investment purposes. Additionally, it attracts a diverse range of participants, including central banks, financial institutions, multinational corporations, and individual traders, each contributing to its dynamic and fluid nature.

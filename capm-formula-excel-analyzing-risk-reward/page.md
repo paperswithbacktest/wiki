@@ -1,6 +1,9 @@
 ---
-title: "CAPM Formula in Excel: Analyzing Risk and Reward (Algo Trading)"
-description: "Analyze risk and reward using the CAPM formula in Excel with insights into algorithmic trading enabling precision in financial decisions and portfolio management."
+category: quant_concept
+description: Analyze risk and reward using the CAPM formula in Excel with insights
+  into algorithmic trading enabling precision in financial decisions and portfolio
+  management.
+title: 'CAPM Formula in Excel: Analyzing Risk and Reward (Algo Trading)'
 ---
 
 In today's fast-paced financial world, risk analysis has become an indispensable tool for investors and traders alike. As financial markets grow increasingly complex, understanding and managing risk is crucial for minimizing potential losses and maximizing opportunities. One of the most versatile software tools in this endeavor is Microsoft Excel, widely recognized for its powerful capabilities in financial analysis. With its vast array of functions, data visualization tools, and computational strengths, Excel provides financial professionals with an effective platform for conducting comprehensive risk analyses.

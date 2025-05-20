@@ -1,6 +1,14 @@
 ---
-title: "Gross National Happiness Index and Four Pillars (Algo Trading)"
-description: "Explore the Gross National Happiness Index and its four foundational pillars as a comprehensive measure of economic and moral progress over traditional metrics like GDP. Originating in Bhutan, this holistic framework prioritizes well-being and happiness through dimensions such as governance, sustainable development, cultural values, and environmental preservation. This article discusses integrating GNH principles with algorithmic trading in financial markets to enhance societal well-being alongside economic efficiency. Discover how these inclusive policies aim to balance economic objectives with ethical considerations for a more equitable and sustainable future."
+category: quant_concept
+description: Explore the Gross National Happiness Index and its four foundational
+  pillars as a comprehensive measure of economic and moral progress over traditional
+  metrics like GDP. Originating in Bhutan, this holistic framework prioritizes well-being
+  and happiness through dimensions such as governance, sustainable development, cultural
+  values, and environmental preservation. This article discusses integrating GNH principles
+  with algorithmic trading in financial markets to enhance societal well-being alongside
+  economic efficiency. Discover how these inclusive policies aim to balance economic
+  objectives with ethical considerations for a more equitable and sustainable future.
+title: Gross National Happiness Index and Four Pillars (Algo Trading)
 ---
 
 Gross National Happiness (GNH) is a holistic measure of economic and moral progress, contrasting with more traditional economic indicators such as Gross Domestic Product (GDP). Introduced by the Kingdom of Bhutan, GNH is based on the premise that true development occurs when material and spiritual development happen side by side, thereby emphasizing the well-being and happiness of citizens as fundamental to development plans and policies. The importance of GNH lies in its comprehensive approach to national development. It incorporates various dimensions of life, including governance, sustainable development, cultural values, and environmental preservation, providing a broader, morally grounded framework for measuring a nation's progress.

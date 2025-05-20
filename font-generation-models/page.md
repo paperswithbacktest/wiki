@@ -1,7 +1,8 @@
 ---
-title: Understanding Font Generation Models in Machine Learning
+category: quant_concept
 description: Font Generation Models use AI techniques like GANs and VAEs to quickly
   create custom fonts and streamline design workflows Discover more inside
+title: Understanding Font Generation Models in Machine Learning
 ---
 
 ![Image](images/1.png)

@@ -1,6 +1,8 @@
 ---
-title: "Accounting Rate of Return (Algo Trading)"
-description: "Explore the simplicity and utility of the Accounting Rate of Return (ARR) in evaluating investment profitability and capital allocation decisions."
+category: quant_concept
+description: Explore the simplicity and utility of the Accounting Rate of Return (ARR)
+  in evaluating investment profitability and capital allocation decisions.
+title: Accounting Rate of Return (Algo Trading)
 ---
 
 Understanding how investments perform over time is critical for businesses and investors alike. Among the various tools available for evaluating the profitability of potential investments, the Accounting Rate of Return (ARR) stands out due to its simplicity and utility in capital budgeting decisions. ARR serves as a financial metric that provides investors with a straightforward way to assess expected returns on investments, thereby aiding in the allocation of capital towards the most promising opportunities.

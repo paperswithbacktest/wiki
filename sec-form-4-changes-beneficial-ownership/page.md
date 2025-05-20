@@ -1,6 +1,8 @@
 ---
-title: "SEC Form 4: Changes in Beneficial Ownership (Algo Trading)"
-description: "Explore the dynamics of SEC Form 4 involving changes in beneficial ownership and the impact of algorithmic trading on market transparency and decision-making."
+category: quant_concept
+description: Explore the dynamics of SEC Form 4 involving changes in beneficial ownership
+  and the impact of algorithmic trading on market transparency and decision-making.
+title: 'SEC Form 4: Changes in Beneficial Ownership (Algo Trading)'
 ---
 
 The world of stock market trading and investments is complex and multifaceted, encompassing various components and influences that dictate market dynamics. A fundamental aspect of this intricate environment is the concept of 'beneficial ownership' and the pivotal role played by SEC Form 4. Beneficial ownership refers to individuals or entities with significant control or benefit from shares, despite not directly owning them. In this context, SEC Form 4 emerges as a crucial regulatory requirement, mandating insiders to disclose any changes in their company shares, thus providing transparency and promoting accountability within the markets.

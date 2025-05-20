@@ -1,6 +1,8 @@
 ---
-title: "Euromarket: Overview and Historical Background (Algo Trading)"
-description: "Explore the Euromarket's impact on global finance and trade through its development, key financial instruments, and the role of algorithmic trading."
+category: quant_concept
+description: Explore the Euromarket's impact on global finance and trade through its
+  development, key financial instruments, and the role of algorithmic trading.
+title: 'Euromarket: Overview and Historical Background (Algo Trading)'
 ---
 
 The Euromarket represents a pivotal element within the vast framework of international finance, acting as a central hub for the trading of eurocurrencies and facilitating seamless free trade among the countries of the European Union. This market, distinct in its operational mechanisms, enables the movement and management of large volumes of currency outside their countries of origin, thus offering a unique platform that significantly influences global economic interactions.

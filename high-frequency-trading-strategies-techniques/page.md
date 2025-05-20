@@ -1,6 +1,9 @@
 ---
-title: "High-Frequency Trading Strategies and Techniques (Algo Trading)"
-description: "Explore high-frequency trading strategies and techniques in financial markets. Learn how algorithmic trading impacts market liquidity, volatility, and stability."
+category: trading_strategy
+description: Explore high-frequency trading strategies and techniques in financial
+  markets. Learn how algorithmic trading impacts market liquidity, volatility, and
+  stability.
+title: High-Frequency Trading Strategies and Techniques (Algo Trading)
 ---
 
 Financial markets play a vital role in global economies by facilitating the exchange of assets such as stocks, bonds, commodities, and derivatives. They serve as platforms where buyers and sellers come together to trade, influencing economic activity through resource allocation and price determination. Within these markets, trading strategies are fundamental determinants of success for investors, as they provide structured approaches to buying and selling assets based on specific goals and market conditions.

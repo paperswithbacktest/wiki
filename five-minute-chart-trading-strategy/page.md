@@ -1,6 +1,13 @@
 ---
-title: "Five-Minute Chart Trading Strategy (Algo Trading)"
-description: "Explore the potential of the five-minute chart in algo trading to capitalize on short-term market trends and fluctuations. This guide dives into the power of technical analysis, integrating it with algorithmic systems for swift and precise trading. Designed for day traders and high-frequency strategies, it provides comprehensive insights into constructing robust trading approaches that leverage technical indicators and automation. Enhance your trading success by understanding the trends, patterns, and tools specific to the five-minute chart in today's dynamic financial markets."
+category: trading_strategy
+description: Explore the potential of the five-minute chart in algo trading to capitalize
+  on short-term market trends and fluctuations. This guide dives into the power of
+  technical analysis, integrating it with algorithmic systems for swift and precise
+  trading. Designed for day traders and high-frequency strategies, it provides comprehensive
+  insights into constructing robust trading approaches that leverage technical indicators
+  and automation. Enhance your trading success by understanding the trends, patterns,
+  and tools specific to the five-minute chart in today's dynamic financial markets.
+title: Five-Minute Chart Trading Strategy (Algo Trading)
 ---
 
 Technical analysis is an essential tool in trading, providing traders with the means to evaluate and make predictions about future price movements based on historical market data. This analytical method employs various charts and indicators, allowing traders to discern trends and patterns that may suggest future movements in asset prices.

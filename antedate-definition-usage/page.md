@@ -1,6 +1,9 @@
 ---
-title: "Antedate: Definition and Usage (Algo Trading)"
-description: "Explore the intersection of antedate and algorithmic trading in finance emphasizing legal implications and algorithm efficiency. Learn key strategies for improved trading."
+category: quant_concept
+description: Explore the intersection of antedate and algorithmic trading in finance
+  emphasizing legal implications and algorithm efficiency. Learn key strategies for
+  improved trading.
+title: 'Antedate: Definition and Usage (Algo Trading)'
 ---
 
 In the ever-evolving world of finance, concepts such as 'antedate' and 'algorithmic trading' play crucial roles and have established distinct places in trading practices. Understanding these concepts is essential for navigating today's financial landscape.

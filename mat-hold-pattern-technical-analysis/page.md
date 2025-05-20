@@ -1,6 +1,9 @@
 ---
-title: "Mat Hold Pattern in Technical Analysis (Algo Trading)"
-description: "Discover how the Mat Hold pattern aids traders in identifying trends within algorithmic trading, leveraging technical analysis for more informed market decisions."
+category: trading_strategy
+description: Discover how the Mat Hold pattern aids traders in identifying trends
+  within algorithmic trading, leveraging technical analysis for more informed market
+  decisions.
+title: Mat Hold Pattern in Technical Analysis (Algo Trading)
 ---
 
 In stock trading, technical analysis serves as a crucial tool for traders who seek to interpret market data and forecast future price movements. Among the numerous patterns employed in technical analysis, the Mat Hold pattern stands out as a continuation formation, signaling the persistence of ongoing trends. This pattern is characterized by a specific sequence of candlesticks that collectively suggest the strengthening of the prevailing trend, whether bullish or bearish.

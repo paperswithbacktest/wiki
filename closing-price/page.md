@@ -1,6 +1,14 @@
 ---
-title: "Closing Price (Algo Trading)"
-description: "Explore the vital role of closing prices in stock market analysis and algorithmic trading. This article investigates into how closing prices, defined as the final price at which a stock trades on a given day, serve as benchmarks for evaluating stock performance and market trends. Learn about their usage in technical and fundamental analyses and their importance in backtesting and developing algorithmic trading strategies. By understanding the significance of closing prices, you can gain insights into investor sentiment and optimize trading decisions in dynamic market environments."
+category: dataset
+description: Explore the vital role of closing prices in stock market analysis and
+  algorithmic trading. This article investigates into how closing prices, defined
+  as the final price at which a stock trades on a given day, serve as benchmarks for
+  evaluating stock performance and market trends. Learn about their usage in technical
+  and fundamental analyses and their importance in backtesting and developing algorithmic
+  trading strategies. By understanding the significance of closing prices, you can
+  gain insights into investor sentiment and optimize trading decisions in dynamic
+  market environments.
+title: Closing Price (Algo Trading)
 ---
 
 The stock market represents a dynamic world where opportunities often walk hand in hand with risks. Navigating this complex environment requires a deep understanding of financial data, which serves as the foundation for sound trading and investment decisions. Among various data points within the market, the closing price of a stock holds particular significance. Defined as the final price at which a stock trades on a given trading day, the closing price is pivotal in assessing both individual stock performance and broader market trends.

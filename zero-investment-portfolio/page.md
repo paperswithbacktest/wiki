@@ -1,6 +1,9 @@
 ---
-title: "Zero-Investment Portfolio (Algo Trading)"
-description: "Explore zero-investment portfolios and algorithmic trading strategies to optimize returns without initial cash outlay Delve into innovative financial techniques"
+category: trading_strategy
+description: Explore zero-investment portfolios and algorithmic trading strategies
+  to optimize returns without initial cash outlay Delve into innovative financial
+  techniques
+title: Zero-Investment Portfolio (Algo Trading)
 ---
 
 Financial markets provide a dynamic environment where a multitude of investment opportunities and strategies coalesce. From traditional long-term investing to cutting-edge high-frequency trading, these markets are the playground for investors seeking to optimize returns while managing risks. A strategy growing in prominence is algorithmic trading, which uses computer algorithms to trade securities at speeds and frequencies that humans cannot match. This has transformed the landscape of modern investment strategies, emphasizing speed, efficiency, and data-driven decision-making.

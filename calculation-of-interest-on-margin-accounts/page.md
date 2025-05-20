@@ -1,6 +1,8 @@
 ---
-title: "Calculation of Interest on Margin Accounts (Algo Trading)"
-description: "Explore how interest charges affect margin accounts in algo trading Learn to optimize trading strategies by understanding interest calculations and risks"
+category: quant_concept
+description: Explore how interest charges affect margin accounts in algo trading Learn
+  to optimize trading strategies by understanding interest calculations and risks
+title: Calculation of Interest on Margin Accounts (Algo Trading)
 ---
 
 Margin accounts play a crucial role in the financial trading landscape, offering traders the opportunity to magnify their buying power through borrowed funds. These accounts allow investors to purchase securities using a combination of their own capital and funds borrowed from their broker. By leveraging borrowed money, traders can increase their investment capacity beyond what their capital alone could support. However, this benefit comes with the responsibility of managing interest charges and potential risks, which can significantly affect the profitability of trades.

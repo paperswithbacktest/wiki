@@ -1,6 +1,8 @@
 ---
-title: "Chameleon Option (Algo Trading)"
-description: "Explore the flexibility of chameleon options in algo trading which offers adaptable strategies for improved efficiency and profitability in volatile markets."
+category: quant_concept
+description: Explore the flexibility of chameleon options in algo trading which offers
+  adaptable strategies for improved efficiency and profitability in volatile markets.
+title: Chameleon Option (Algo Trading)
 ---
 
 In today's rapidly evolving financial markets, the utilization of derivative trading is instrumental in both risk management and speculative strategies. Among the recent innovations in this domain is the introduction of chameleon options, which offer significant flexibility and customization compared to traditional financial options. These advanced derivatives allow for modifications in their structural parameters based on contract stipulations, providing adaptability to the trader's strategic needs.

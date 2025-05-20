@@ -1,7 +1,8 @@
 ---
-title: Understanding Episode Machine Learning Key Concepts and Uses
+category: quant_concept
 description: Episode Machine Learning breaks tasks into support and query sets to
   improve few shot and reinforcement learning with limited data Discover more inside
+title: Understanding Episode Machine Learning Key Concepts and Uses
 ---
 
 ![Image](images/1.png)

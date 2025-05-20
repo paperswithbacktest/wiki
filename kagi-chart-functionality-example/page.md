@@ -1,6 +1,8 @@
 ---
-title: "Kagi Chart: Functionality and Example (Algo Trading)"
-description: "Explore the innovative Kagi chart for algo trading Learn how this Japanese charting method filters market noise highlights trends and aids decision-making"
+category: quant_concept
+description: Explore the innovative Kagi chart for algo trading Learn how this Japanese
+  charting method filters market noise highlights trends and aids decision-making
+title: 'Kagi Chart: Functionality and Example (Algo Trading)'
 ---
 
 In the ever-evolving world of financial markets, traders constantly seek innovative methods to analyze price movements and make informed decisions. One of the less conventional but highly efficient tools is the Kagi chart, a unique charting method developed in Japan. This tool differentiates itself from traditional charts by focusing on significant price changes rather than time intervals, thus filtering out market noise and highlighting trends.

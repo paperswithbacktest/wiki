@@ -1,6 +1,8 @@
 ---
-title: "Retail Investor and Their Market Impact (Algo Trading)"
-description: "Explore how retail investors and their participation in algorithmic trading are reshaping financial markets with enhanced efficiency and opportunities."
+category: quant_concept
+description: Explore how retail investors and their participation in algorithmic trading
+  are reshaping financial markets with enhanced efficiency and opportunities.
+title: Retail Investor and Their Market Impact (Algo Trading)
 ---
 
 In recent years, the investing market has experienced profound changes, largely due to technological advancements and the surge in retail investor participation. One pivotal development in this evolving landscape is algorithmic trading, which has transformed the methodologies employed by individual and institutional investors alike. By employing computer algorithms to execute trades according to predetermined criteria and market conditions, algorithmic trading has enhanced the efficiency and speed of transactions, minimizing the potential for human error.

@@ -1,6 +1,8 @@
 ---
-title: "Hockey Stick Chart in Investing (Algo Trading)"
-description: "Explore how hockey stick charts enhance financial analysis and algorithmic trading, enabling investors to spot lucrative growth opportunities and improve decision-making."
+category: quant_concept
+description: Explore how hockey stick charts enhance financial analysis and algorithmic
+  trading, enabling investors to spot lucrative growth opportunities and improve decision-making.
+title: Hockey Stick Chart in Investing (Algo Trading)
 ---
 
 In the ever-evolving world of finance, the intersection of technology and investment strategies has paved the way for innovative concepts and tools. Among these developments is the use of financial analysis techniques such as the hockey stick chart, which has become particularly relevant in algorithmic trading. This article focuses on the significance of these concepts in modern investing, particularly how the hockey stick chart is applied in financial analysis and its impact on algo trading.

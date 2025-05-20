@@ -1,6 +1,14 @@
 ---
-title: "Johansen Test for Cointegrating Time Series Analysis in R (Algo Trading)"
-description: Discover the Johansen cointegration test, a powerful statistical tool for identifying long-term equilibrium relationships among multiple time series data. Crucial for algorithmic trading, this test helps traders uncover assets moving together over time, enhancing strategies like pairs trading and statistical arbitrage by focusing on persistent relationships rather than short-term fluctuations. With its ability to examine multiple cointegrating vectors, the Johansen test offers a comprehensive analysis of complex systems, empowering traders with insights for more robust trading decisions and uncovering hidden opportunities in financial markets.
+category: quant_concept
+description: Discover the Johansen cointegration test, a powerful statistical tool
+  for identifying long-term equilibrium relationships among multiple time series data.
+  Crucial for algorithmic trading, this test helps traders uncover assets moving together
+  over time, enhancing strategies like pairs trading and statistical arbitrage by
+  focusing on persistent relationships rather than short-term fluctuations. With its
+  ability to examine multiple cointegrating vectors, the Johansen test offers a comprehensive
+  analysis of complex systems, empowering traders with insights for more robust trading
+  decisions and uncovering hidden opportunities in financial markets.
+title: Johansen Test for Cointegrating Time Series Analysis in R (Algo Trading)
 ---
 
 The Johansen cointegration test is a sophisticated statistical technique designed to detect the presence of long-term equilibrium relationships between multiple time series data. In algorithmic trading, comprehending these equilibrium relationships is vital for formulating robust trading strategies. This test is particularly useful in identifying assets that move together over time, allowing traders to exploit these relationships for potential profits.

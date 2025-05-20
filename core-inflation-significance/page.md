@@ -1,6 +1,8 @@
 ---
-title: "Core Inflation and Its Significance (Algo Trading)"
-description: "Explore the significance of core inflation in economic analysis and its impact on algorithmic trading strategies Learn how it influences financial decision-making"
+category: quant_concept
+description: Explore the significance of core inflation in economic analysis and its
+  impact on algorithmic trading strategies Learn how it influences financial decision-making
+title: Core Inflation and Its Significance (Algo Trading)
 ---
 
 Economic indicators are vital tools for analyzing and interpreting the condition of financial markets and overall economic health. They consist of statistical metrics that provide insights into the direction and stability of economies, assisting investors, policymakers, and traders in making informed decisions. Among these, inflation stands out as a critical economic indicator due to its influence on the purchasing power of money, interest rates, and economic policy decisions.
@@ -151,4 +153,3 @@ The integration of core inflation insights into algorithmic trading strategies e
 [6]: ["Algo Bots and the Law: Technology, Automation, and the Regulation of Algorithmic Trading"](https://www.amazon.com/Algo-Bots-Law-Technology-Derivatives/dp/1316616533) by Gregory Scopino.
 
 [7]: Apel, M., & Jansson, P. (1999). ["Systematic Non-Use of Information in the Phillips Curve."](https://www.mdpi.com/2079-8954/7/3/33) International Journal of Central Banking, Q3.
-

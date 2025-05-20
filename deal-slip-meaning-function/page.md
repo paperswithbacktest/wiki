@@ -1,6 +1,8 @@
 ---
-title: "Deal Slip: Meaning and Function (Algo Trading)"
-description: "Discover the vital role of deal slips in forex and algorithmic trading ensuring accurate transaction records for transparency compliance and strategy refinement."
+category: quant_concept
+description: Discover the vital role of deal slips in forex and algorithmic trading
+  ensuring accurate transaction records for transparency compliance and strategy refinement.
+title: 'Deal Slip: Meaning and Function (Algo Trading)'
 ---
 
 In the fast-evolving world of financial markets, accurate record-keeping is more important than ever. Deal slips serve as foundational documents that directly contribute to the transparency and trustworthiness of financial transactions. These slips are especially vital in the foreign exchange (forex) market, where the sheer volume and speed of trades necessitate precise documentation to ensure all activities are accurately recorded.

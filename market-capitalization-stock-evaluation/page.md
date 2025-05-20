@@ -1,6 +1,8 @@
 ---
-title: "Market Capitalization in Stock Evaluation (Algo Trading)"
-description: "Explore the impact of market capitalization on stock evaluation and algorithmic trading to devise strategies that optimize returns while managing risks effectively."
+category: trading_strategy
+description: Explore the impact of market capitalization on stock evaluation and algorithmic
+  trading to devise strategies that optimize returns while managing risks effectively.
+title: Market Capitalization in Stock Evaluation (Algo Trading)
 ---
 
 Investment strategies in modern finance revolve around the art of making decisions that optimize returns while managing risks. As financial markets become increasingly sophisticated, the necessity for robust investment strategies has never been more crucial. Central to these strategies is the practice of stock evaluation, which plays a vital role in making informed investment decisions. Stock evaluation allows investors to analyze a company's financial health and its growth prospects, providing a structured approach to determining the intrinsic value of a stock and its potential for future profitability.

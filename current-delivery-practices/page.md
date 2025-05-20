@@ -1,6 +1,9 @@
 ---
-title: "Current Delivery Practices (Algo Trading)"
-description: "Explore how current delivery practices in logistics leverage algorithmic trading concepts for efficiency enhancing supply chain management with real-time data analysis."
+category: trading_strategy
+description: Explore how current delivery practices in logistics leverage algorithmic
+  trading concepts for efficiency enhancing supply chain management with real-time
+  data analysis.
+title: Current Delivery Practices (Algo Trading)
 ---
 
 In the modern global economy, businesses rely heavily on efficient delivery systems, shipping methods, and logistics solutions to maintain competitiveness and meet customer expectations. The need for speed, reliability, and cost-effectiveness in logistics operations has never been greater, driven by the rapid growth of e-commerce and consumer demand for fast delivery. Traditional logistics models are becoming insufficient, prompting companies to seek innovative solutions.

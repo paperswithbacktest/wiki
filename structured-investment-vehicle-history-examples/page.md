@@ -1,6 +1,9 @@
 ---
-title: "Structured Investment Vehicle: History and Examples (Algo Trading)"
-description: "Explore the history and impact of Structured Investment Vehicles and algorithmic trading innovations in finance Learn how these strategies shaped modern investment practices"
+category: quant_concept
+description: Explore the history and impact of Structured Investment Vehicles and
+  algorithmic trading innovations in finance Learn how these strategies shaped modern
+  investment practices
+title: 'Structured Investment Vehicle: History and Examples (Algo Trading)'
 ---
 
 Investment strategies have undergone significant transformation over the decades, evolving from straightforward stock and bond investments to more complex financial instruments designed to maximize returns and manage risk. These advanced financial instruments include Structured Investment Vehicles (SIVs) and algorithmic trading, both of which have been instrumental in shaping modern finance and investment practices.

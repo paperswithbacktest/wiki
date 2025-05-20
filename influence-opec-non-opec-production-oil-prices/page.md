@@ -1,6 +1,8 @@
 ---
-title: "Influence of OPEC and Non-OPEC Production on Oil Prices (Algo Trading)"
-description: "Explore how OPEC and non-OPEC production, alongside algorithmic trading, influence oil prices and market dynamics in the global economy."
+category: trading_strategy
+description: Explore how OPEC and non-OPEC production, alongside algorithmic trading,
+  influence oil prices and market dynamics in the global economy.
+title: Influence of OPEC and Non-OPEC Production on Oil Prices (Algo Trading)
 ---
 
 Oil prices are pivotal to the global economy, influencing everything from energy costs to investment decisions. As a crucial input for transportation and industry, fluctuations in oil prices resonate through various sectors, affecting inflation rates, monetary policy, and capital flows worldwide. The complexity of oil pricing stems from the interplay of diverse stakeholders, notably the Organization of the Petroleum Exporting Countries (OPEC), which adjusts production levels based on market conditions and economic forecasts. OPEC, alongside prominent non-OPEC producers like the United States and Canada, exerts significant influence over supply, and consequently, pricing dynamics.

@@ -1,6 +1,8 @@
 ---
-title: "Largest Developed Market ETFs (Algo Trading)"
-description: "Explore the largest EFA Developed Market ETFs and the role of algorithmic trading with a focus on VEA to optimize your investment strategy globally."
+category: dataset
+description: Explore the largest EFA Developed Market ETFs and the role of algorithmic
+  trading with a focus on VEA to optimize your investment strategy globally.
+title: Largest Developed Market ETFs (Algo Trading)
 ---
 
 Exchange-traded funds (ETFs) are financial instruments that enable investors to buy shares in a diversified portfolio of assets that track a specific index or sector. These funds are traded on major stock exchanges, similar to individual stocks, and offer investors exposure to a wide range of asset classes, including equities, bonds, and commodities. ETFs have become an essential component of the modern investment landscape due to their cost efficiency, tax advantages, and versatility in providing targeted exposure to specific markets or investment strategies.

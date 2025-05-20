@@ -1,7 +1,8 @@
 ---
-title: Semantic Segmentation Models Explained for Image Analysis
+category: quant_concept
 description: Semantic segmentation labels each pixel for precise image understanding
   enabling safer self-driving and medical insights Discover more inside.
+title: Semantic Segmentation Models Explained for Image Analysis
 ---
 
 ![Image](images/1.png)

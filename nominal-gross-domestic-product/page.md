@@ -1,6 +1,8 @@
 ---
-title: "Nominal Gross Domestic Product (Algo Trading)"
-description: "Explore the significance of nominal GDP in algorithmic trading, highlighting its role in economic assessments and market predictions without inflation adjustments."
+category: quant_concept
+description: Explore the significance of nominal GDP in algorithmic trading, highlighting
+  its role in economic assessments and market predictions without inflation adjustments.
+title: Nominal Gross Domestic Product (Algo Trading)
 ---
 
 Understanding Gross Domestic Product (GDP) is essential for evaluating the economic health and performance of a nation. As the total monetary value of all finished goods and services produced within a country's borders in a specific time period, GDP serves as a comprehensive scorecard of a country’s economic activity. This article provides an in-depth examination of nominal GDP, highlighting its measurement and importance, particularly in the context of algorithmic trading.

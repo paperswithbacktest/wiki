@@ -1,6 +1,9 @@
 ---
-title: "U.S. Treasury Bonds (Algo Trading)"
-description: "Discover the stability and benefits of U.S. Treasury bonds, their role in investment portfolios, and the impact of algorithmic trading on optimizing bond strategies."
+category: quant_concept
+description: Discover the stability and benefits of U.S. Treasury bonds, their role
+  in investment portfolios, and the impact of algorithmic trading on optimizing bond
+  strategies.
+title: U.S. Treasury Bonds (Algo Trading)
 ---
 
 The landscape of investing presents a diverse array of opportunities, each characterized by distinct risks and potential rewards. Among these, U.S. debt securities, specifically Treasury bonds, stand out as particularly stable due to their government backing. Understanding the function and dynamics of Treasury bonds is essential for investors seeking to diversify their portfolios. These bonds are long-term financial instruments issued by the U.S. Department of the Treasury to fund government operations and manage national debt. They are perceived as low-risk investments because they are fully backed by the U.S. government's financial credibility.

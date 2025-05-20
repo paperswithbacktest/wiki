@@ -1,6 +1,8 @@
 ---
-title: "Comparison of Gross Profit Margin and Operating Profit Margin (Algo Trading)"
-description: "Explore the essentials of gross profit and operating profit margins in algorithmic trading to enhance decision-making, profitability, and trading efficiency."
+category: quant_concept
+description: Explore the essentials of gross profit and operating profit margins in
+  algorithmic trading to enhance decision-making, profitability, and trading efficiency.
+title: Comparison of Gross Profit Margin and Operating Profit Margin (Algo Trading)
 ---
 
 Understanding financial ratios is critical for analyzing a company's financial health. Among these ratios, gross profit margin and operating profit margin are pivotal in assessing profitability. Gross profit margin is calculated by determining the difference between revenue and the cost of goods sold (COGS), then dividing the result by revenue and multiplying by 100 to express it as a percentage. This ratio is essential for evaluating how effectively a company is producing its goods in comparison with its peers. Operating profit margin, on the other hand, considers both COGS and operating expenses like rent, utilities, and payroll. It is calculated by dividing operating income by revenue and multiplying by 100, offering insights into how well a company manages its overall operational costs relative to its revenue.

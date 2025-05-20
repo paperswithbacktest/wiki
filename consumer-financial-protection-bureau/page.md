@@ -1,6 +1,9 @@
 ---
-title: "Consumer Financial Protection Bureau (Algo Trading)"
-description: "Explore how the Consumer Financial Protection Bureau ensures consumer protection in algorithmic trading by regulating data usage and promoting market fairness."
+category: quant_concept
+description: Explore how the Consumer Financial Protection Bureau ensures consumer
+  protection in algorithmic trading by regulating data usage and promoting market
+  fairness.
+title: Consumer Financial Protection Bureau (Algo Trading)
 ---
 
 The financial landscape has become increasingly intricate with the introduction of algorithmic trading and digital financial platforms. These advancements offer numerous benefits, such as enhanced transaction speed and efficiency, but they also bring about challenges that necessitate robust consumer protection measures. In this evolving environment, understanding and safeguarding consumer rights are crucial. 

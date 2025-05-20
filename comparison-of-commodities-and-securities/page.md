@@ -1,6 +1,9 @@
 ---
-title: "Comparison of Commodities and Securities (Algo Trading)"
-description: "Explore the dynamic world of commodities and securities in algorithmic trading Understand their unique roles and how algo trading transforms investment strategies"
+category: quant_concept
+description: Explore the dynamic world of commodities and securities in algorithmic
+  trading Understand their unique roles and how algo trading transforms investment
+  strategies
+title: Comparison of Commodities and Securities (Algo Trading)
 ---
 
 In the ever-evolving financial landscape, commodities and securities have long stood as crucial investment options, each offering unique characteristics and benefits. Commodities, such as agricultural products, energy resources, and metals, represent tangible goods utilized across various sectors. Their value is primarily driven by supply and demand dynamics, which can fluctuate based on geopolitical events, weather conditions, and technological advancements. On the other hand, securities, including stocks, bonds, and derivatives, represent financial instruments that investors use to gain exposure to companies' economic growth and profitability.

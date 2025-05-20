@@ -1,6 +1,9 @@
 ---
-title: "Countries by Healthcare Expenditure (Algo Trading)"
-description: "Explore how countries allocate financial resources to healthcare and the role of algorithmic trading in influencing economic dynamics and healthcare funding."
+category: dataset
+description: Explore how countries allocate financial resources to healthcare and
+  the role of algorithmic trading in influencing economic dynamics and healthcare
+  funding.
+title: Countries by Healthcare Expenditure (Algo Trading)
 ---
 
 Understanding how countries allocate their financial resources to healthcare is essential for assessing the quality and accessibility of medical services globally. The way in which nations prioritize healthcare spending reveals significant insights into their governmental priorities, healthcare system structures, and the resultant public health outcomes. For instance, high expenditure on healthcare in one country may suggest a strong commitment to public health, while in another, it may reflect inefficiencies or high service costs.

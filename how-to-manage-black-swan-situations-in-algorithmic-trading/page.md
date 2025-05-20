@@ -1,9 +1,13 @@
 ---
-title: "How to manage black swan situations in algorithmic trading?"
-description: "Discover how to effectively manage black swan situations in algorithmic trading. Learn about recognition, preparation, reacting, post-event analysis, education, and the importance of a robust strategy. Prepare for unforeseen market events with continuous monitoring, trading limits, emergency stops, diversification, and team training. Read more for resources on trading strategies, libraries, datasets, and becoming a quant trader."
+category: trading_strategy
+description: Discover how to effectively manage black swan situations in algorithmic
+  trading. Learn about recognition, preparation, reacting, post-event analysis, education,
+  and the importance of a robust strategy. Prepare for unforeseen market events with
+  continuous monitoring, trading limits, emergency stops, diversification, and team
+  training. Read more for resources on trading strategies, libraries, datasets, and
+  becoming a quant trader.
+title: How to manage black swan situations in algorithmic trading?
 ---
-
-
 
 Algorithmic trading has become a cornerstone of modern financial markets, leveraging sophisticated mathematical models and systems for executing a large number of trades at speeds and frequencies that are impossible for human traders. This form of trading is built on the use of algorithms, which are sets of rules or instructions executed by computers to automate decision-making processes in trading. Its increasing prevalence is evident across major global exchanges, where algorithms are responsible for a significant portion of trading activity, providing liquidity, reducing transaction costs, and facilitating more efficient markets.
 

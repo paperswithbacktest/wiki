@@ -1,6 +1,9 @@
 ---
-title: "Comparison of Gearing Ratio and Debt-to-Equity Ratio (Algo Trading)"
-description: "Dive into the differences between gearing and debt-to-equity ratios, essential for evaluating a company's financial leverage and risk in algorithmic trading."
+category: quant_concept
+description: Dive into the differences between gearing and debt-to-equity ratios,
+  essential for evaluating a company's financial leverage and risk in algorithmic
+  trading.
+title: Comparison of Gearing Ratio and Debt-to-Equity Ratio (Algo Trading)
 ---
 
 Financial ratios are essential tools in evaluating a company’s financial health and performance. By analyzing these metrics, stakeholders can assess the company’s profitability, liquidity, and solvency, which are critical for informed investment decisions. Among the various financial ratios, the debt-to-equity ratio and gearing ratio are particularly significant as they provide valuable insights into a company's leverage, indicating the extent to which a company is financing its operations through debt compared to its own equity.

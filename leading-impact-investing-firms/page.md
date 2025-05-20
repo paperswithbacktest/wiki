@@ -1,6 +1,9 @@
 ---
-title: "Leading Impact Investing Firms (Algo Trading)"
-description: "Explore how leading impact investing firms use algotrading to enhance sustainable finance by considering ESG factors, generating social and financial gains."
+category: quant_concept
+description: Explore how leading impact investing firms use algotrading to enhance
+  sustainable finance by considering ESG factors, generating social and financial
+  gains.
+title: Leading Impact Investing Firms (Algo Trading)
 ---
 
 Sustainable finance is a financial approach that incorporates environmental, social, and governance (ESG) considerations into investment decisions, aiming to create long-term value not only for investors but also for society at large. In today's economy, characterized by pressing issues such as climate change and social inequality, sustainable finance plays an essential role in fostering economic growth that is both inclusive and environmentally sound. By prioritizing investments that consider the impact on society and the planet, sustainable finance is reshaping the way financial markets operate, challenging traditional investment paradigms by showing that profitability and sustainability can go hand in hand.

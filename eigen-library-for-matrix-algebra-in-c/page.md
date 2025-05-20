@@ -1,6 +1,14 @@
 ---
-title: "Eigen Library for Matrix Algebra in C++ (Algo Trading)"
-description: Explore the advantages of leveraging C++ matrix libraries in algorithmic trading to boost computational performance. Discover how these libraries enhance speed and accuracy in trading algorithms, critical for optimizing performance in high-frequency trading environments. Learn about the role of matrix operations in financial modeling, from risk management to portfolio optimization, and why C++ is the preferred language for high-performance computing in financial markets. Understand the importance of efficient data processing in executing advanced trading strategies and maintaining a competitive edge.
+category: quant_concept
+description: Explore the advantages of leveraging C++ matrix libraries in algorithmic
+  trading to boost computational performance. Discover how these libraries enhance
+  speed and accuracy in trading algorithms, critical for optimizing performance in
+  high-frequency trading environments. Learn about the role of matrix operations in
+  financial modeling, from risk management to portfolio optimization, and why C++
+  is the preferred language for high-performance computing in financial markets. Understand
+  the importance of efficient data processing in executing advanced trading strategies
+  and maintaining a competitive edge.
+title: Eigen Library for Matrix Algebra in C++ (Algo Trading)
 ---
 
 Algorithmic trading, also known as algo trading, refers to the use of computer algorithms to execute trading strategies at speeds and frequencies that are beyond human capabilities. This method of trading has become integral to modern financial markets, significantly increasing in both volume and complexity. The primary benefit of algorithmic trading lies in its ability to process vast quantities of market data swiftly and execute orders at optimal prices, leading to increased market efficiency and liquidity.

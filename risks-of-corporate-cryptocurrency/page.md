@@ -1,6 +1,9 @@
 ---
-title: "Risks of Corporate Cryptocurrency (Algo Trading)"
-description: "Explore the risks of corporate cryptocurrency and algorithmic trading Discover insights into navigating financial challenges and opportunities in the crypto market"
+category: quant_concept
+description: Explore the risks of corporate cryptocurrency and algorithmic trading
+  Discover insights into navigating financial challenges and opportunities in the
+  crypto market
+title: Risks of Corporate Cryptocurrency (Algo Trading)
 ---
 
 In recent years, corporate involvement in cryptocurrency has notably surged, driven by an escalating interest in digital assets and the transformative potential of blockchain technology. This interest is partly fueled by the disruptiveness of cryptocurrencies, which offer opportunities for diversification, innovation, and competitive advantage in a rapidly changing financial landscape. As companies explore these digital assets, they encounter both enticing possibilities and significant challenges that must be navigated with caution and strategic foresight.

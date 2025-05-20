@@ -1,6 +1,11 @@
 ---
-title: "Kelly formula (Algo Trading)"
-description: Discover the application and benefits of the Kelly Formula in algorithmic trading. Learn how this mathematical approach, originally designed for gambling, helps maximize long-term wealth growth through optimal investment sizing. Explore the advantages, limitations, and practical implementations with examples and Python scripts for effective capital management.
+category: quant_concept
+description: Discover the application and benefits of the Kelly Formula in algorithmic
+  trading. Learn how this mathematical approach, originally designed for gambling,
+  helps maximize long-term wealth growth through optimal investment sizing. Explore
+  the advantages, limitations, and practical implementations with examples and Python
+  scripts for effective capital management.
+title: Kelly formula (Algo Trading)
 ---
 
 The Kelly Formula, introduced by John L. Kelly Jr. in 1956, presents a systematic approach to managing investments and trades. Initially conceived for gambling applications, this mathematical formula aids in determining the optimal size of a bet to maximize the long-term growth of wealth. The core principle of the Kelly Criterion is to balance the size of bets or investments to ensure the greatest logarithmic growth potential, effectively managing risks while optimizing returns.

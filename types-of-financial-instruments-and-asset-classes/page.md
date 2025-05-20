@@ -1,6 +1,9 @@
 ---
-title: "Types of Financial Instruments and Asset Classes (Algo Trading)"
-description: "Discover the key financial instruments and asset classes essential for designing robust investment strategies. Optimize your understanding of algorithmic trading."
+category: quant_concept
+description: Discover the key financial instruments and asset classes essential for
+  designing robust investment strategies. Optimize your understanding of algorithmic
+  trading.
+title: Types of Financial Instruments and Asset Classes (Algo Trading)
 ---
 
 In today's financial markets, understanding key concepts such as 'financial instruments', 'asset classes', 'investment types', and 'algorithmic trading' is essential for investors looking to optimize their strategies. These terms represent the fundamental components of modern investing and are crucial to navigate the complexities of the financial environment effectively.

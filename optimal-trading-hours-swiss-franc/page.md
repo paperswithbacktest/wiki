@@ -1,6 +1,8 @@
 ---
-title: "Optimal Trading Hours for the Swiss Franc (Algo Trading)"
-description: "Explore the optimal trading hours for the Swiss franc and boost your forex strategies with algorithmic trading insights to capitalize on key market moments."
+category: trading_strategy
+description: Explore the optimal trading hours for the Swiss franc and boost your
+  forex strategies with algorithmic trading insights to capitalize on key market moments.
+title: Optimal Trading Hours for the Swiss Franc (Algo Trading)
 ---
 
 The Swiss franc (CHF) is a cornerstone of the global forex market, offering traders a variety of opportunities to capitalize on its unique characteristics. As a currency entrenched in a nation known for its economic stability and political neutrality, the CHF provides both a safe haven and a dynamic asset for speculators and investors alike. This article aims to dissect the intricacies of trading the Swiss franc, focusing particularly on the trading hours, currency pairs, and the advantages presented by algorithmic trading techniques.

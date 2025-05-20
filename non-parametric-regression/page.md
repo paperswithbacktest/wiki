@@ -1,7 +1,8 @@
 ---
-title: Non-Parametric Regression Techniques for Real-World Data Modeling
+category: quant_concept
 description: Non-parametric regression methods unlock flexible modeling of complex
   data with Gaussian Processes SVM k-NN GAMs and energy analysis Discover more inside.
+title: Non-Parametric Regression Techniques for Real-World Data Modeling
 ---
 
 ![Image](images/1.png)

@@ -1,6 +1,9 @@
 ---
-title: "Corporate Bonds: Buying and Selling (Algo Trading)"
-description: "Explore how algorithmic trading is revolutionizing the corporate bonds market enhancing trading efficiency and providing insights into future financial trends."
+category: trading_strategy
+description: Explore how algorithmic trading is revolutionizing the corporate bonds
+  market enhancing trading efficiency and providing insights into future financial
+  trends.
+title: 'Corporate Bonds: Buying and Selling (Algo Trading)'
 ---
 
 Bond trading markets are instrumental in global finance, serving as essential platforms for borrowing and lending. Bonds, which are fixed-income securities, represent loans made by an investor to a borrower. The bond market's significance lies in its vast scale and liquidity, providing governments, municipalities, and corporations with the capital necessary to fund projects and operations. This market is crucial for facilitating economic growth and stability, and it is pivotal in determining interest rates and monetary policy effectiveness.

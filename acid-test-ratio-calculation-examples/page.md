@@ -1,6 +1,8 @@
 ---
-title: "Acid-Test Ratio Calculation and Examples (Algo Trading)"
-description: "Explore the acid-test ratio's role in evaluating corporate liquidity and its application in algorithmic trading for informed financial decision-making."
+category: quant_concept
+description: Explore the acid-test ratio's role in evaluating corporate liquidity
+  and its application in algorithmic trading for informed financial decision-making.
+title: Acid-Test Ratio Calculation and Examples (Algo Trading)
 ---
 
 Liquidity ratios are fundamental tools in financial analysis, providing insight into a company's ability to meet its short-term obligations. These ratios are pivotal in evaluating a firm’s operational health as they measure the liquidity, or the ease with which assets can be converted into cash to cover liabilities. Ensuring adequate liquidity is essential not only for addressing immediate financial responsibilities but also for maintaining the long-term solvency and stability of a company.

@@ -1,6 +1,8 @@
 ---
-title: "Porter's Five Forces and Its Application (Algo Trading)"
-description: "Explore how Porter's Five Forces framework enhances strategic insights in algorithmic trading by analyzing key competitive dynamics and market opportunities."
+category: quant_concept
+description: Explore how Porter's Five Forces framework enhances strategic insights
+  in algorithmic trading by analyzing key competitive dynamics and market opportunities.
+title: Porter's Five Forces and Its Application (Algo Trading)
 ---
 
 In today's competitive business environment, understanding strategic models is critical for any industry. Porter's Five Forces is a foundational framework that helps businesses assess their competitive environment and craft robust strategies. Since its introduction by Michael E. Porter in 1979, this model has been widely utilized across various sectors to evaluate the intensity of competition and identify areas that require strategic focus.

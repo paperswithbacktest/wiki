@@ -1,6 +1,9 @@
 ---
-title: "Stock Quotes: Interpretation and Examples (Algo Trading)"
-description: "Discover how financial literacy, stock market investments, and algorithmic trading intersect to help you make informed financial decisions and achieve your goals."
+category: quant_concept
+description: Discover how financial literacy, stock market investments, and algorithmic
+  trading intersect to help you make informed financial decisions and achieve your
+  goals.
+title: 'Stock Quotes: Interpretation and Examples (Algo Trading)'
 ---
 
 In an increasingly complex financial landscape, understanding financial literacy, investments, and the dynamics of the stock market are crucial skills. Financial literacy encompasses the knowledge needed to effectively manage one’s financial resources, which is essential for making informed decisions in an ever-evolving market environment. By mastering financial concepts, such as budgeting, saving, and investing, individuals can enhance their ability to manage and grow their wealth over time.

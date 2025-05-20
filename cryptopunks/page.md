@@ -1,6 +1,8 @@
 ---
-title: "CryptoPunks (Algo Trading)"
-description: "Explore how CryptoPunks NFTs and algorithmic trading are reshaping digital art markets, creating new investment avenues through blockchain technology and innovation."
+category: quant_concept
+description: Explore how CryptoPunks NFTs and algorithmic trading are reshaping digital
+  art markets, creating new investment avenues through blockchain technology and innovation.
+title: CryptoPunks (Algo Trading)
 ---
 
 In recent years, digital art has significantly transformed, fostering new markets and lucrative investment opportunities. This evolution is prominently highlighted by the emergence of CryptoPunks NFTs, which epitomize a major innovation that amalgamates art with cutting-edge technology. As unique digital assets secured by blockchain technology, CryptoPunks have become emblematic of the evolving digital art landscape, demonstrating how the intersection of creativity and technology can redefine art ownership and value.

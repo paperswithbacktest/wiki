@@ -1,6 +1,8 @@
 ---
-title: "DV Trading (Algo Trading)"
-description: "Discover the synergy between DV Trading and algorithmic strategies, enhancing market efficiency and profitability through cutting-edge technology and analytics."
+category: trading_strategy
+description: Discover the synergy between DV Trading and algorithmic strategies, enhancing
+  market efficiency and profitability through cutting-edge technology and analytics.
+title: DV Trading (Algo Trading)
 ---
 
 DV Trading refers to the sophisticated trading strategies employed by proprietary trading firms, which often utilize a variety of methodologies to arbitrage inefficiencies across diverse financial markets. DV Trading is instrumental in financial markets due to its capacity to enhance market liquidity and price discovery processes. These trading activities are primarily characterized by the unique strategies developed by firms to capitalize on market opportunities, leveraging advanced technology and data analytics.

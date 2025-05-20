@@ -1,6 +1,9 @@
 ---
-title: "Rent Stabilization: Mechanisms, Functionality, and Case Studies (Algo Trading)"
-description: "Explore how rent stabilization policies aim to balance affordable housing and fair landlord returns while algorithmic trading impacts rental markets and tenant protection."
+category: quant_concept
+description: Explore how rent stabilization policies aim to balance affordable housing
+  and fair landlord returns while algorithmic trading impacts rental markets and tenant
+  protection.
+title: 'Rent Stabilization: Mechanisms, Functionality, and Case Studies (Algo Trading)'
 ---
 
 Rent stabilization is a critical housing policy mechanism aimed at controlling the rate at which rental prices increase, thus safeguarding tenants from excessive hikes in housing costs. This protective strategy is particularly prominent in high-demand urban areas where housing affordability becomes a pressing issue. Through rent stabilization, the goal is to strike a balance between providing tenants with more predictable and affordable living expenses, while also ensuring that landlords receive a fair return on their investments.

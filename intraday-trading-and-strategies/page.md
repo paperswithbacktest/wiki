@@ -1,6 +1,8 @@
 ---
-title: "Intraday Trading and Strategies (Algo Trading)"
-description: "Explore effective day and intraday trading strategies that leverage algorithmic trading to enhance performance, reduce risks, and boost profitability."
+category: trading_strategy
+description: Explore effective day and intraday trading strategies that leverage algorithmic
+  trading to enhance performance, reduce risks, and boost profitability.
+title: Intraday Trading and Strategies (Algo Trading)
 ---
 
 Day trading refers to the practice of purchasing and selling financial securities within a single trading day. Unlike long-term investing, where assets are typically held for months or years, day traders aim to capitalize on small price movements that occur within a short timeframe. This method demands constant attention and quick decision-making to exploit market volatility. Intraday trading is akin to day trading, focusing on the execution and completion of trades within the same day, but it places a stronger emphasis on tracking and analyzing real-time market data to inform swift trading actions. Both practices are vital in the stock market as they contribute to liquidity and efficient price discovery, thus facilitating smoother functioning of markets.

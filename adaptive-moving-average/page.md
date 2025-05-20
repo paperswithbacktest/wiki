@@ -1,6 +1,12 @@
 ---
-title: "Adaptive Moving Average Explained (Algo Trading)"
-description: Discover how adaptive moving averages like Kaufman's adaptive moving average (KAMA) enhance algorithmic trading by adjusting to market volatility. Learn about the implementation on the Zerodha platform, the mechanics behind KAMA, and how it differentiates from traditional moving averages to provide more responsive and reliable trading signals. Explore the advantages of integrating KAMA into your algo trading strategies for better decision-making and improved performance.
+category: trading_strategy
+description: Discover how adaptive moving averages like Kaufman's adaptive moving
+  average (KAMA) enhance algorithmic trading by adjusting to market volatility. Learn
+  about the implementation on the Zerodha platform, the mechanics behind KAMA, and
+  how it differentiates from traditional moving averages to provide more responsive
+  and reliable trading signals. Explore the advantages of integrating KAMA into your
+  algo trading strategies for better decision-making and improved performance.
+title: Adaptive Moving Average Explained (Algo Trading)
 ---
 
 Algorithmic trading, commonly referred to as algo trading, is a technique that employs automated systems for executing trades based on pre-defined strategies. This approach has gained significant traction among traders seeking operational efficiency and enhanced decision-making capabilities. One strategy prominently explored in this domain is the adaptive moving average (AMA), an innovative tool that adjusts to market conditions by responding to changes in volatility.

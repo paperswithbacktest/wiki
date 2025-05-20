@@ -1,6 +1,8 @@
 ---
-title: "Payout Ratio: Overview and Calculation (Algo Trading)"
-description: "Explore how the payout ratio can shape investment strategies in dividend-focused algorithmic trading. Learn key metrics to gauge a company's financial health."
+category: quant_concept
+description: Explore how the payout ratio can shape investment strategies in dividend-focused
+  algorithmic trading. Learn key metrics to gauge a company's financial health.
+title: 'Payout Ratio: Overview and Calculation (Algo Trading)'
 ---
 
 Understanding key financial metrics is essential for making informed investment decisions. Among these metrics, dividends and the payout ratio play a significant role. Dividends represent portions of a company's earnings distributed to shareholders, serving as a reward for their investment. The payout ratio, conversely, is a financial metric that evaluates the sustainability of a company’s dividend payments by expressing what percentage of earnings are paid out as dividends versus retained in the business. These metrics not only provide insights into a company’s financial health but also its commitment to returning value to shareholders.

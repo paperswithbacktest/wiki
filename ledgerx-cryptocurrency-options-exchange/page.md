@@ -1,6 +1,9 @@
 ---
-title: "LedgerX: Cryptocurrency Options Exchange (Algo Trading)"
-description: "LedgerX offers a secure and regulated platform for cryptocurrency derivatives trading with advanced algorithmic tools catering to both institutional and retail investors."
+category: quant_concept
+description: LedgerX offers a secure and regulated platform for cryptocurrency derivatives
+  trading with advanced algorithmic tools catering to both institutional and retail
+  investors.
+title: 'LedgerX: Cryptocurrency Options Exchange (Algo Trading)'
 ---
 
 LedgerX is a pioneering cryptocurrency options exchange, renowned for offering a wide array of financial products specifically designed for the trading of digital currency derivatives. Established in 2014, LedgerX holds the significant accolade of being the first federally regulated exchange and clearinghouse for cryptocurrency derivatives within the United States. This regulatory approval has been pivotal in cementing its reputation as a trustworthy platform in the rapidly evolving cryptocurrency market.
@@ -135,4 +138,3 @@ In conclusion, LedgerX stands as a technologically advanced and regulatory-compl
 [7]: Narayanan, A., Bonneau, J., Felten, E., Miller, A., & Goldfeder, S. (2016). ["Bitcoin and Cryptocurrency Technologies."](https://press.princeton.edu/books/hardcover/9780691171692/bitcoin-and-cryptocurrency-technologies) Princeton University Press.
 
 [8]: Popper, N. (2015). ["Digital Gold: Bitcoin and the Inside Story of the Misfits and Millionaires Trying to Reinvent Money."](https://archive.org/details/digitalgoldbitco0000popp) HarperCollins.
-

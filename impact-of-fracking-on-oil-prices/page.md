@@ -1,6 +1,8 @@
 ---
-title: "Impact of Fracking on Oil Prices (Algo Trading)"
-description: "Explore how fracking influences oil prices and the role of algorithmic trading in this dynamic landscape with insights for investors and policymakers."
+category: trading_strategy
+description: Explore how fracking influences oil prices and the role of algorithmic
+  trading in this dynamic landscape with insights for investors and policymakers.
+title: Impact of Fracking on Oil Prices (Algo Trading)
 ---
 
 The complex dynamics of energy markets are shaped by an intricate interplay of oil prices, fracking, and algorithmic trading. These elements are critical to understand for a diverse range of stakeholders including investors, policymakers, and industry players. Oil prices have long acted as a barometer for economic health globally, influencing inflation, trade balances, and the cost structures across various sectors. They are subject to a myriad of influences, such as geopolitical events, shifts in supply and demand, and technological advancements like fracking.

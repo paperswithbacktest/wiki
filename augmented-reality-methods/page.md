@@ -1,7 +1,8 @@
 ---
-title: Machine Learning Integration in Augmented Reality Applications
+category: quant_concept
 description: Augmented Reality uses machine learning to deliver precise interactive
   overlays for gaming training and retail Discover how ML transforms AR now
+title: Machine Learning Integration in Augmented Reality Applications
 ---
 
 ![Image](images/1.jpeg)

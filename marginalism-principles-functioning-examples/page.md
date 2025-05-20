@@ -1,6 +1,8 @@
 ---
-title: "Marginalism: Principles, Functioning, and Examples (Algo Trading)"
-description: "Explore how marginalism—a key economic concept—enhances algorithmic trading by focusing on incremental changes in costs and benefits for optimal decision-making."
+category: quant_concept
+description: Explore how marginalism—a key economic concept—enhances algorithmic trading
+  by focusing on incremental changes in costs and benefits for optimal decision-making.
+title: 'Marginalism: Principles, Functioning, and Examples (Algo Trading)'
 ---
 
 Marginalism is a fundamental economic concept that scrutinizes decision-making through the lens of incremental changes in costs and benefits. Originating from the Marginal Revolution of the late 19th century, marginalism offers a nuanced understanding of how individuals and firms make choices at the margin—decisions based on the additional utility or cost associated with producing or consuming one more unit of a product or service. This concept serves as the backbone of modern economic theories concerning pricing, resource allocation, and consumer behavior.

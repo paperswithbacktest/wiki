@@ -1,6 +1,9 @@
 ---
-title: "Impact of Announcements on Financial Markets (Algo Trading)"
-description: "Announcements significantly impact financial markets by causing immediate and often volatile reactions. Algo trading exploits these effects, optimizing strategies and managing risk."
+category: quant_concept
+description: Announcements significantly impact financial markets by causing immediate
+  and often volatile reactions. Algo trading exploits these effects, optimizing strategies
+  and managing risk.
+title: Impact of Announcements on Financial Markets (Algo Trading)
 ---
 
 The modern financial landscape is heavily influenced by announcements from companies, governments, and financial institutions. These announcements can cause swift movements in financial markets, often impacting stock prices, bond yields, and currency values. Known as the "announcement effect," this phenomenon describes the market reactions following significant news releases. The announcement effect is a crucial aspect of financial markets, as it dictates how market participants, including individual and institutional investors, react to new information.

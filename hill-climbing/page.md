@@ -1,7 +1,8 @@
 ---
-title: Understanding Hill Climbing Optimization in Machine Learning
+category: quant_concept
 description: Hill Climbing offers a simple optimization framework for machine learning
   models with strategies to escape local peaks Discover more inside.
+title: Understanding Hill Climbing Optimization in Machine Learning
 ---
 
 ![Image](images/1.png)

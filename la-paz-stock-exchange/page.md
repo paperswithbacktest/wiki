@@ -1,6 +1,8 @@
 ---
-title: "La Paz Stock Exchange (Algo Trading)"
-description: "Explore how algorithmic trading is transforming the La Paz Stock Exchange by optimizing efficiencies and modernizing Bolivia's financial market landscape."
+category: dataset
+description: Explore how algorithmic trading is transforming the La Paz Stock Exchange
+  by optimizing efficiencies and modernizing Bolivia's financial market landscape.
+title: La Paz Stock Exchange (Algo Trading)
 ---
 
 The Bolivian Stock Market holds a unique position in South America as the only stock exchange serving Bolivia, officially named the La Paz Stock Exchange (Bolsa Boliviana de Valores, BBV). Established to provide a structured marketplace for the trading of various securities, the BBV has become a pivotal hub for financial activity within the country. It facilitates the buying and selling of financial instruments, such as equities, bonds, and local commodities, contributing to the overall economic health and capital market development of Bolivia.

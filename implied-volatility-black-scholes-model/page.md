@@ -1,6 +1,9 @@
 ---
-title: "Application of Implied Volatility in the Black-Scholes Model (Algo Trading)"
-description: "Explore the role of implied volatility in the Black-Scholes model within algorithmic trading to enhance decision-making and strategy development in financial markets."
+category: quant_concept
+description: Explore the role of implied volatility in the Black-Scholes model within
+  algorithmic trading to enhance decision-making and strategy development in financial
+  markets.
+title: Application of Implied Volatility in the Black-Scholes Model (Algo Trading)
 ---
 
 Options trading is a vital component of modern financial markets, providing investors and institutions with tools for hedging, speculation, and income generation. Options are derivative contracts that grant the buyer the right, but not the obligation, to buy or sell an underlying asset at a predetermined price within a specified time frame. This flexibility allows traders to design strategies that align with their market outlook and risk tolerance, making options an attractive instrument in both bullish and bearish environments.

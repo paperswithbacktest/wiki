@@ -1,6 +1,8 @@
 ---
-title: "Deposit/Withdrawal at Custodian (DWAC) (Algo Trading)"
-description: "Deposit/Withdrawal at Custodian (DWAC) facilitates swift and secure electronic securities transfers essential for efficient algo trading and modern financial operations."
+category: quant_concept
+description: Deposit/Withdrawal at Custodian (DWAC) facilitates swift and secure electronic
+  securities transfers essential for efficient algo trading and modern financial operations.
+title: Deposit/Withdrawal at Custodian (DWAC) (Algo Trading)
 ---
 
 Deposit/Withdrawal at Custodian (DWAC) is an essential component of today's financial landscape, facilitating seamless securities transfers in a digital format. DWAC represents a method through which securities are deposited into or withdrawn from a brokerage account without the need for physical certificates. In the evolving financial environment, this system is pivotal, as it drastically reduces the time and risk traditionally associated with the transfer of assets. 
@@ -108,4 +110,3 @@ Despite potential technological and regulatory challenges, the case for DWAC's i
 [6]: Angel, J. J., Harris, L. E., & Spatt, C. S. (2011). ["Trading in Fragmented Markets."](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1584026) Journal of Financial Markets, 14(4), 547-585. 
 
 [7]: "Settlement and custody: modernizing infrastructure for capital markets" – Available on IMF website
-

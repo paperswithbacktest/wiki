@@ -1,6 +1,8 @@
 ---
-title: "Fibonacci Sequence and Golden Ratio (Algo Trading)"
-description: "Explore how the mathematical elegance of the Fibonacci sequence and the Golden Ratio enhances modern algorithmic trading strategies and market analysis."
+category: quant_concept
+description: Explore how the mathematical elegance of the Fibonacci sequence and the
+  Golden Ratio enhances modern algorithmic trading strategies and market analysis.
+title: Fibonacci Sequence and Golden Ratio (Algo Trading)
 ---
 
 In the fast-paced world of trading, finding a reliable strategy can make a significant difference between profit and loss. Among the multitude of tools available, the Fibonacci sequence and the Golden Ratio have garnered attention for their mathematical elegance and practical applications in financial markets. The Fibonacci sequence begins with the numbers 0 and 1, with each subsequent number being the sum of the two preceding ones. Mathematically expressed, it follows the recursive formula:
@@ -214,4 +216,3 @@ Traders are encouraged to incorporate these robust strategies into their trading
      ```
 
 This compilation of [books](/wiki/algo-trading-books), articles, and tools serves as a foundation for those looking to deepen their understanding and application of the Fibonacci sequence and Golden Ratio in trading.
-

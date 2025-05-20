@@ -1,6 +1,8 @@
 ---
-title: "Corporate Bond Issuance and Debt Financing (Algo Trading)"
-description: "Explore the dynamic world of corporate bond issuance and debt financing enhanced by algorithmic trading Discover how bonds drive growth and market efficiency"
+category: quant_concept
+description: Explore the dynamic world of corporate bond issuance and debt financing
+  enhanced by algorithmic trading Discover how bonds drive growth and market efficiency
+title: Corporate Bond Issuance and Debt Financing (Algo Trading)
 ---
 
 The landscape of corporate finance is dynamic and complex, with bonds serving as a foundational element in debt issuance and financing. Corporate bonds, as debt securities, allow companies to raise significant capital, facilitating various strategic initiatives such as expansion, acquisitions, and refinancing. By issuing bonds, corporations can access the financial markets to secure funds that might otherwise be unavailable or too costly through traditional bank loans.
@@ -164,4 +166,3 @@ Understanding the intricate dynamics between corporate bonds and algo trading is
 11. **CITI GPS (2016).** *Digital Disruption: How FinTech is Forcing Banking to a Tipping Point*. Industry insights on how fintech innovations, including blockchain and AI, are transforming traditional banking and finance practices, pertinent to debt issuance.
 
 12. **Biais, B., Foucault, T., & Moinas, S. (2015).** “Equilibrium High Frequency Trading”, Econometrica. This paper discusses the equilibrium impacts of high-frequency trading on market stability, relevant to bond and equity markets alike.
-

@@ -1,6 +1,9 @@
 ---
-title: "Gilt Fund: Meaning and Operation (Algo Trading)"
-description: "Explore the world of gilt funds and algorithmic trading to enhance your investment strategy. Discover how to balance low-risk securities with cutting-edge tech."
+category: trading_strategy
+description: Explore the world of gilt funds and algorithmic trading to enhance your
+  investment strategy. Discover how to balance low-risk securities with cutting-edge
+  tech.
+title: 'Gilt Fund: Meaning and Operation (Algo Trading)'
 ---
 
 Gilt funds are mutual funds that primarily invest in government securities, known as gilts, which are bonds issued by the government. These funds are characterized by their low-risk profile, offering investors a relatively stable return due to the government's backing. In the broader investment landscape, gilt funds serve as a conservative investment choice, particularly appealing during periods of economic uncertainty. They help to diversify an investment portfolio while providing a steady income stream, appealing to risk-averse investors.

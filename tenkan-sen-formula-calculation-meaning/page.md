@@ -1,6 +1,9 @@
 ---
-title: "Tenkan-Sen: Formula, Calculation, and Meaning (Algo Trading)"
-description: "Explore Tenkan-Sen's impact on algorithmic trading Discover its calculation method and significance in optimizing trading strategies through the Ichimoku Cloud system"
+category: quant_concept
+description: Explore Tenkan-Sen's impact on algorithmic trading Discover its calculation
+  method and significance in optimizing trading strategies through the Ichimoku Cloud
+  system
+title: 'Tenkan-Sen: Formula, Calculation, and Meaning (Algo Trading)'
 ---
 
 In today's dynamic financial markets, traders are constantly seeking effective tools and strategies to optimize their trading decisions. Among the myriad of technical analysis tools available, the Ichimoku Cloud, or Ichimoku Kinko Hyo, has emerged as a popular choice due to its comprehensive approach to analyzing market trends, momentum, and key support/resistance levels. A central feature of this system is the Tenkan-Sen, also known as the Conversion Line. This component provides traders with valuable insights into short-term price dynamics.

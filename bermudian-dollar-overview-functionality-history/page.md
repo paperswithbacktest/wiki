@@ -1,6 +1,9 @@
 ---
-title: "Bermudian Dollar: Overview, Functionality, and History (Algo Trading)"
-description: "Explore the history and functionality of the Bermudian Dollar from its colonial roots to its modern-day significance in algorithmic trading and economic stability."
+category: dataset
+description: Explore the history and functionality of the Bermudian Dollar from its
+  colonial roots to its modern-day significance in algorithmic trading and economic
+  stability.
+title: 'Bermudian Dollar: Overview, Functionality, and History (Algo Trading)'
 ---
 
 Bermuda, a British Overseas Territory occupying a strategic position in the North Atlantic Ocean, has cultivated a rich historical tapestry shaped by its colonial associations and pivotal trade route positioning. This article investigates into the development of Bermuda's distinct economic identity, tracing its roots back to the colonial era and highlighting the transformation of its monetary system. Central to this narrative is the evolution from the Bermudian pound to the Bermudian Dollar (BMD), which symbolizes Bermuda’s deliberate economic realignment from its British colonial legacy towards a more integrated relationship with the United States.

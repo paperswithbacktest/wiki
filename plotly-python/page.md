@@ -1,6 +1,13 @@
 ---
-title: "Plotly in Python (Algo Trading)"
-description: Explore how Python and Plotly enhance algorithmic trading through dynamic data visualization. This page details Python's powerful libraries for financial analytics alongside Plotly's interactive charting capabilities which transform complex datasets into intuitive visual insights aiding traders in market analysis and strategic refinement. Learn the seamless process of integrating Plotly into Python environments, facilitating real-time, data-driven trading decisions with robust graphing tools pivotal for assessing market trends and developing sophisticated trading strategies.
+category: quant_concept
+description: Explore how Python and Plotly enhance algorithmic trading through dynamic
+  data visualization. This page details Python's powerful libraries for financial
+  analytics alongside Plotly's interactive charting capabilities which transform complex
+  datasets into intuitive visual insights aiding traders in market analysis and strategic
+  refinement. Learn the seamless process of integrating Plotly into Python environments,
+  facilitating real-time, data-driven trading decisions with robust graphing tools
+  pivotal for assessing market trends and developing sophisticated trading strategies.
+title: Plotly in Python (Algo Trading)
 ---
 
 Python has become an increasingly favored language for algorithmic trading, thanks to its simplicity, adaptability, and extensive library ecosystem that supports in-depth financial analytics. Python's ability to handle complex computations efficiently and its large collection of libraries make it exceptionally suited for financial applications, where precise handling of large datasets is crucial. Libraries such as NumPy and Pandas provide powerful tools for data manipulation and statistical analysis, while others like Scikit-learn enable advanced machine learning tasks, all of which are essential for developing sophisticated trading strategies.

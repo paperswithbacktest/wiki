@@ -1,6 +1,8 @@
 ---
-title: "Personal Financial Advisor (Algo Trading)"
-description: "Explore the synergy of personal finance and algo trading, where tech-driven tools enhance financial management strategies for a secure financial future."
+category: trading_strategy
+description: Explore the synergy of personal finance and algo trading, where tech-driven
+  tools enhance financial management strategies for a secure financial future.
+title: Personal Financial Advisor (Algo Trading)
 ---
 
 The world of personal finance is experiencing a significant transformation driven by rapid advancements in technology. These developments are reshaping how individuals manage their money, make investments, and plan for the future. Financial advisors and structured financial planning have always played a pivotal role in helping individuals achieve financial stability and security. Today, they are supported by technological tools that enhance their capabilities and extend their reach.

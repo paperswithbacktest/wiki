@@ -1,6 +1,9 @@
 ---
-title: "Current Income (Algo Trading)"
-description: "Explore current income strategies and algorithmic trading to enhance personal finance. Leverage technology for efficient cash flows and optimize your financial health."
+category: trading_strategy
+description: Explore current income strategies and algorithmic trading to enhance
+  personal finance. Leverage technology for efficient cash flows and optimize your
+  financial health.
+title: Current Income (Algo Trading)
 ---
 
 The landscape of personal finance and investing is undergoing swift transformations driven by technological advancement and innovative strategies. Algorithmic trading and current income strategies have emerged as crucial components in empowering individuals to manage their finances effectively. These tools offer new avenues for enhancing income streams and optimizing financial health by leveraging technology and advanced strategies.

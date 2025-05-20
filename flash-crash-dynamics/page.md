@@ -1,6 +1,9 @@
 ---
-title: "Flash crash dynamics (Algo Trading)"
-description: "Explore the complexities of algorithmic trading and flash crashes uncovering their causes and effects Learn strategies to safeguard investments from rapid market shifts"
+category: quant_concept
+description: Explore the complexities of algorithmic trading and flash crashes uncovering
+  their causes and effects Learn strategies to safeguard investments from rapid market
+  shifts
+title: Flash crash dynamics (Algo Trading)
 ---
 
 Algorithmic strategies are integral to modern financial trading, offering investors the ability to execute trades with speed and precision. However, these strategies carry inherent risks, particularly flash crashes, which are rapid and extreme drops in market prices. Flash crashes pose significant challenges to the stability and confidence of financial systems, as they can create sudden market volatility and uncertainty.
@@ -66,4 +69,3 @@ The 2017 paper by Kirilenko, A., Kyle, A. S., Samadi, M., & Tuzun, T., titled "T
 Gsell, M. (2009) discusses the outcomes of algorithmic trading within financial markets in the doctoral thesis "Assessing the Impact of Algorithmic Trading on Markets: A Simulation Approach." This work from the University of Hohenheim evaluates algorithm-induced market behaviors and potential stability issues via simulated environments.
 
 Irene Aldridge's book, "High-Frequency Trading: A Practical Guide to Algorithmic Strategies and Trading Systems" (2013), published by Wiley, serves as a comprehensive resource on algorithmic trading practices, offering practical insights and guidance on developing and deploying effective trading systems in high-speed markets.
-

@@ -1,6 +1,9 @@
 ---
-title: "Comparison of Bitcoin and Bitcoin Cash (Algo Trading)"
-description: "Discover the key differences between Bitcoin and Bitcoin Cash in algo trading. Explore how their unique traits impact strategies, transaction speeds, and fees."
+category: trading_strategy
+description: Discover the key differences between Bitcoin and Bitcoin Cash in algo
+  trading. Explore how their unique traits impact strategies, transaction speeds,
+  and fees.
+title: Comparison of Bitcoin and Bitcoin Cash (Algo Trading)
 ---
 
 Bitcoin and Bitcoin Cash are two well-known cryptocurrencies, each with unique characteristics shaping their usability and market dynamics. Bitcoin, introduced in 2009 by an anonymous entity known as Satoshi Nakamoto, revolutionized the financial technology landscape as the first decentralized digital currency. It is often regarded as "digital gold" due to its limited supply and perceived value retention over time. Bitcoin's primary focus has traditionally been as a store of value, akin to precious metals, which makes it attractive to investors looking for long-term wealth preservation.

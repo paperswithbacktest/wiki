@@ -1,6 +1,8 @@
 ---
-title: "Jump-diffusion models (Algo Trading)"
-description: "Jump-diffusion models provide a refined approach to algorithmic trading by incorporating both continuous fluctuations and sudden jumps, enhancing risk management."
+category: quant_concept
+description: Jump-diffusion models provide a refined approach to algorithmic trading
+  by incorporating both continuous fluctuations and sudden jumps, enhancing risk management.
+title: Jump-diffusion models (Algo Trading)
 ---
 
 Jump-diffusion models represent a significant advancement in quantitative finance, particularly in algorithmic trading, due to their ability to account for both continuous market fluctuations and sudden, unpredictable market events. These models extend the conventional frameworks by integrating the standard diffusion process, which typically operates under the assumption of continuous price changes characterized by Brownian motion, with a jump process that captures abrupt market shifts. The inclusion of jumps in the model is structured through a Poisson process, which introduces a stochastic component that allows the model to reflect real-world financial phenomena, including unexpected market movements that can lead to dramatic asset price changes.

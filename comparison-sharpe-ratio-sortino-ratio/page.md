@@ -1,6 +1,11 @@
 ---
-title: "Comparison of Sharpe Ratio and Sortino Ratio (Algo Trading)"
-description: "Discover the key differences and applications of the Sharpe Ratio and Sortino Ratio in algorithmic trading. Learn how these essential metrics assist traders in assessing risk and optimizing strategies by focusing on risk-adjusted returns and downside risk. Understanding these ratios empowers investors to make informed decisions in the fast-paced world of algorithmic trading."
+category: quant_concept
+description: Discover the key differences and applications of the Sharpe Ratio and
+  Sortino Ratio in algorithmic trading. Learn how these essential metrics assist traders
+  in assessing risk and optimizing strategies by focusing on risk-adjusted returns
+  and downside risk. Understanding these ratios empowers investors to make informed
+  decisions in the fast-paced world of algorithmic trading.
+title: Comparison of Sharpe Ratio and Sortino Ratio (Algo Trading)
 ---
 
 In the world of finance and investment, particularly in algorithmic trading, the skill to accurately assess and manage risk is pivotal to achieving success. Algorithmic trading, which involves using computer programs to execute trades at high speeds and volumes, relies heavily on quantitative metrics to evaluate the performance of trading strategies. Among these metrics, the Sharpe Ratio and Sortino Ratio are widely regarded as instrumental tools in understanding the balance between risk and return.

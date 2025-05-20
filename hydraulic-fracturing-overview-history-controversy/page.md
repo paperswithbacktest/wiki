@@ -1,6 +1,9 @@
 ---
-title: "Hydraulic Fracturing: Overview, History, and Controversy (Algo Trading)"
-description: "Explore hydraulic fracturing and algorithmic trading two transformative technologies reshaping energy and financial markets amid environmental concerns and market risks"
+category: quant_concept
+description: Explore hydraulic fracturing and algorithmic trading two transformative
+  technologies reshaping energy and financial markets amid environmental concerns
+  and market risks
+title: 'Hydraulic Fracturing: Overview, History, and Controversy (Algo Trading)'
 ---
 
 Hydraulic fracturing, commonly referred to as fracking, and algorithmic trading are two pivotal technologies influencing the modern landscape of energy and financial markets. Fracking is a technique employed to extract oil and natural gas from subterranean rock formations, significantly boosting energy production and contributing to changes in global energy supply dynamics. This technology has revolutionized the energy sector by unlocking vast reserves of hydrocarbons, leading to an increase in oil and gas output, thus affecting prices and energy security.
@@ -100,4 +103,3 @@ Ultimately, the objective should be to harness the capabilities of hydraulic fra
 - Ellsworth, W. L. (2013). Injection-Induced Earthquakes. *Science*, 341(6142), 1225942. Ellsworth examines the connection between fluid injection methods, such as those used in hydraulic fracturing, and the occurrence of earthquakes, presenting empirical data that underscores the geophysical risks inherent in fracking activities.
 
 - Aldridge, I. (2013). *High-Frequency Trading: A Practical Guide to Algorithmic Strategies and Trading Systems*. John Wiley & Sons. This guide provides an in-depth exploration of algorithmic trading strategies, relevant for understanding how technological advancements in trading systems impact market dynamics, paralleling the transformative effects seen with fracking in energy markets.
-

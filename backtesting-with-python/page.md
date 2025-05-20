@@ -1,9 +1,13 @@
 ---
-title: "Backtesting with Python"
-description: Discover why Python is the preferred choice for backtesting trading strategies with its flexibility, rich libraries, and active community support. Dive deep into Backtesting.py, a powerful Python library designed for backtesting, boasting features like vectorized backtesting, integrated performance metrics, custom strategy definition, and more. Benefit from its user-friendly design, faster simulation speeds, and comprehensive performance analysis.
+category: trading_strategy
+description: Discover why Python is the preferred choice for backtesting trading strategies
+  with its flexibility, rich libraries, and active community support. Dive deep into
+  Backtesting.py, a powerful Python library designed for backtesting, boasting features
+  like vectorized backtesting, integrated performance metrics, custom strategy definition,
+  and more. Benefit from its user-friendly design, faster simulation speeds, and comprehensive
+  performance analysis.
+title: Backtesting with Python
 ---
-
-
 
 Backtesting is the backbone of validating any trading strategy. Before deploying a strategy in the real world, where financial capital is at risk, it's imperative to understand its theoretical performance in past scenarios. By re-running a strategy on historical data, traders can gain insights into the potential profitability, risks, and vulnerabilities of a strategy. Hence, backtesting is not just an optional step but a necessary bridge between theoretical strategy and practical execution.
 

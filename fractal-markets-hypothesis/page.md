@@ -1,6 +1,9 @@
 ---
-title: "Fractal Markets Hypothesis (Algo Trading)"
-description: "Explore the Fractal Markets Hypothesis in algo trading Learn how this unique theory challenges traditional market views and enhances trading strategy insights"
+category: quant_concept
+description: Explore the Fractal Markets Hypothesis in algo trading Learn how this
+  unique theory challenges traditional market views and enhances trading strategy
+  insights
+title: Fractal Markets Hypothesis (Algo Trading)
 ---
 
 Understanding market behavior is crucial for investors, policymakers, and economists, as it enables them to make informed decisions and anticipate future movements. Traditional financial theories, such as the Efficient Market Hypothesis (EMH), have long been utilized to predict market trends. The EMH posits that asset prices fully reflect all available information, suggesting that it is impossible to consistently outperform the market through expert stock selection or market timing. However, the limitations of EMH, especially during instances of market anomalies and financial crises, highlight the need for alternative theoretical frameworks.

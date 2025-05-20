@@ -1,6 +1,8 @@
 ---
-title: "Know Sure Thing (KST) (Algo Trading)"
-description: "Explore the Know Sure Thing (KST) momentum oscillator, its calculation and application in algorithmic trading for informed market entry and exit decisions."
+category: trading_strategy
+description: Explore the Know Sure Thing (KST) momentum oscillator, its calculation
+  and application in algorithmic trading for informed market entry and exit decisions.
+title: Know Sure Thing (KST) (Algo Trading)
 ---
 
 The world of trading and investing is rich with tools designed to help traders interpret market behavior and make informed decisions. Among these tools is the Know Sure Thing (KST), a momentum oscillator developed by Martin Pring. This indicator provides valuable insights by analyzing price momentum over multiple timeframes, thereby allowing traders to assess the market's cyclical trends effectively. The KST considers various rates of change and smooths them through moving averages to provide a comprehensive view of market momentum.

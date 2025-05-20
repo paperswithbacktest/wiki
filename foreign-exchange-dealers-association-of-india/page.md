@@ -1,6 +1,9 @@
 ---
-title: "Foreign Exchange Dealers Association of India (Algo Trading)"
-description: "Explore the impact of the Foreign Exchange Dealers Association of India on forex algo trading shaping regulatory frameworks and ensuring market stability in India."
+category: quant_concept
+description: Explore the impact of the Foreign Exchange Dealers Association of India
+  on forex algo trading shaping regulatory frameworks and ensuring market stability
+  in India.
+title: Foreign Exchange Dealers Association of India (Algo Trading)
 ---
 
 Foreign exchange, commonly known as forex, is a vital component of the global financial markets, facilitating international trade and investment by enabling currency conversion. In India, the Foreign Exchange Dealers Association of India (FEDAI) plays a crucial role in regulating and guiding the forex market. Established in 1958, FEDAI is instrumental in setting standards and protocols for interbank forex dealings, working alongside the Reserve Bank of India (RBI) to ensure a stable and efficient market environment.
@@ -107,4 +110,3 @@ Future sustainable development in the Indian forex sector will require ongoing c
 [4]: Hasbrouck, J. (2007). ["Empirical Market Microstructure: The Institutions, Economics, and Econometrics of Securities Trading."](https://academic.oup.com/book/52241) Oxford University Press.
 
 [5]: ["MiFID II and Algorithmic Trading: A New Regime"](https://www.esma.europa.eu/document/mifid-ii-final-report-algorithmic-trading) by Niamh Moloney
-

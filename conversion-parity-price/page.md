@@ -1,6 +1,8 @@
 ---
-title: "Conversion Parity Price (Algo Trading)"
-description: "Explore how conversion parity, pricing mechanisms, and algo trading impact investment strategies. Learn to leverage these concepts for better financial outcomes."
+category: quant_concept
+description: Explore how conversion parity, pricing mechanisms, and algo trading impact
+  investment strategies. Learn to leverage these concepts for better financial outcomes.
+title: Conversion Parity Price (Algo Trading)
 ---
 
 In finance, understanding key investment terms can significantly impact an investor's strategy and success. The ever-evolving financial markets require investors to be agile and informed about various concepts that can influence their decisions. This article explores the concepts of conversion parity, financial pricing mechanisms, and the role of algorithmic trading in the market. Each of these terms plays a critical role in shaping financial strategies and outcomes.

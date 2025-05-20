@@ -1,6 +1,9 @@
 ---
-title: "Deep-Discount Bonds: Overview and Examples (Algo Trading)"
-description: "Explore deep-discount bonds and algorithmic trading in bond markets to uncover investment opportunities and risks, maximizing yields with cutting-edge technology."
+category: quant_concept
+description: Explore deep-discount bonds and algorithmic trading in bond markets to
+  uncover investment opportunities and risks, maximizing yields with cutting-edge
+  technology.
+title: 'Deep-Discount Bonds: Overview and Examples (Algo Trading)'
 ---
 
 Financial instruments, particularly bonds, have long been foundational components of investment portfolios, offering stability and predictable returns. However, the advent of algorithmic trading has significantly transformed traditional investment strategies, introducing greater efficiency and scope in how fixed income securities are traded. Bonds, including niche types such as deep-discount bonds, offer distinct opportunities and pose specific challenges for investors. 

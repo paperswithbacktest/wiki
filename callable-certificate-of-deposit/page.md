@@ -1,6 +1,9 @@
 ---
-title: "Callable Certificate of Deposit (Algo Trading)"
-description: "Explore the benefits and risks of investing in callable certificates of deposit and how algorithmic trading can optimize returns by navigating market dynamics."
+category: quant_concept
+description: Explore the benefits and risks of investing in callable certificates
+  of deposit and how algorithmic trading can optimize returns by navigating market
+  dynamics.
+title: Callable Certificate of Deposit (Algo Trading)
 ---
 
 Understanding investment options is crucial for financial growth and stability. One such investment vehicle is the callable certificate of deposit (CD), which offers unique advantages and challenges for investors. Callable CDs are mechanisms that allow financial institutions to "call" or redeem the CD before its maturity date, typically at a higher interest rate than traditional CDs. This feature makes them an attractive option for those seeking potentially higher yields, but also comes with the tradeoff of reinvestment risk if the CD is called early, especially in declining interest rate environments.

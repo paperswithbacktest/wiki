@@ -1,6 +1,8 @@
 ---
-title: "Economic Impact of Food Insecurity (Algo Trading)"
-description: "Explore the intersection of algorithmic trading and food insecurity, examining how financial markets impact food prices and global hunger solutions."
+category: quant_concept
+description: Explore the intersection of algorithmic trading and food insecurity,
+  examining how financial markets impact food prices and global hunger solutions.
+title: Economic Impact of Food Insecurity (Algo Trading)
 ---
 
 Food insecurity and hunger remain some of the most pressing challenges facing our world today. According to the Food and Agriculture Organization of the United Nations, an estimated 690 million people were undernourished in 2019, a number that likely increased due to the global disruptions caused by the COVID-19 pandemic. The root causes of food insecurity are complex and multifaceted, involving economic instability, natural disasters, conflict, and poverty. Food insecurity does not merely signify a lack of sufficient calories; it also encompasses a lack of essential nutrients, impacting physical and mental health, productivity, and long-term development.

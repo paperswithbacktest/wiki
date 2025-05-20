@@ -1,6 +1,9 @@
 ---
-title: "Order Book Modelling (Algo Trading)"
-description: "Explore the essentials of order book modelling in algotrading Discover how simulating order flows and incorporating historical data enhances trading strategies and profitability"
+category: quant_concept
+description: Explore the essentials of order book modelling in algotrading Discover
+  how simulating order flows and incorporating historical data enhances trading strategies
+  and profitability
+title: Order Book Modelling (Algo Trading)
 ---
 
 Algorithmic trading, a cornerstone of modern finance, relies heavily on the use of sophisticated models to understand market mechanics. Among the various models utilized, order book modelling stands out for its critical role in strategizing market making.

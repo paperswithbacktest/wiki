@@ -1,6 +1,11 @@
 ---
-title: "Office of Management and Budget (Algo Trading)"
-description: "Explore the intersection of the U.S. Office of Management and Budget's role in federal budget management with the dynamics of algorithmic trading. This article examines how algo trading's market volatility impacts economic forecasting and budget planning, highlighting the necessity for policymakers to adapt to these financial innovations for effective fiscal strategies and stability."
+category: quant_concept
+description: Explore the intersection of the U.S. Office of Management and Budget's
+  role in federal budget management with the dynamics of algorithmic trading. This
+  article examines how algo trading's market volatility impacts economic forecasting
+  and budget planning, highlighting the necessity for policymakers to adapt to these
+  financial innovations for effective fiscal strategies and stability.
+title: Office of Management and Budget (Algo Trading)
 ---
 
 The U.S. government's Office of Management and Budget (OMB) serves a fundamental role in shaping and executing the federal budget. Established in 1921, the agency assists the President in overseeing the implementation of financial policies and ensuring efficient use of taxpayer dollars. The OMB's tasks include crafting the President’s budget, evaluating agency performance, and scrutinizing federal regulations to align fiscal strategy with political priorities. This responsibility requires a meticulous synthesis of economic analysis and public policy planning, thus demanding OMB personnel to possess expertise in these areas.

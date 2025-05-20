@@ -1,6 +1,8 @@
 ---
-title: "Non-Competitive Tendering: Definition and Process (Algo Trading)"
-description: "Discover how non-competitive tendering and algorithmic trading reshape procurement and market strategies enhancing decision-making and operational efficiency."
+category: quant_concept
+description: Discover how non-competitive tendering and algorithmic trading reshape
+  procurement and market strategies enhancing decision-making and operational efficiency.
+title: 'Non-Competitive Tendering: Definition and Process (Algo Trading)'
 ---
 
 In an increasingly complex economic environment, the integration of procurement, non-competitive tendering, and algorithmic trading is emerging as a potent framework for enhancing decision-making and operational efficiency. The synergy between these elements presents profound implications for both financial markets and procurement strategies, potentially transforming traditional approaches and revealing new pathways for growth and optimization.

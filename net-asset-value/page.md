@@ -1,6 +1,8 @@
 ---
-title: "Net Asset Value (Algo Trading)"
-description: "Discover the crucial role of Net Asset Value (NAV) in investment valuation and algorithmic trading and learn how it guides investors in strategic decision-making."
+category: quant_concept
+description: Discover the crucial role of Net Asset Value (NAV) in investment valuation
+  and algorithmic trading and learn how it guides investors in strategic decision-making.
+title: Net Asset Value (Algo Trading)
 ---
 
 In the rapidly evolving world of finance, investors are continually seeking methods to gauge the value of their investments effectively. Among various tools and metrics available, the Net Asset Value (NAV) holds a pivotal place in assessing the worth of investment funds such as mutual funds and exchange-traded funds (ETFs). The accuracy and reliability of NAV as a metric offer investors a comprehensive understanding of a fund's financial health and performance. 

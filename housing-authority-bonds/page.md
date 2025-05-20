@@ -1,6 +1,9 @@
 ---
-title: "Housing Authority Bonds (Algo Trading)"
-description: "Explore the intersection of housing bonds and algorithmic trading in today's financial markets. Learn how these tools optimize investment opportunities and enhance market efficiency."
+category: quant_concept
+description: Explore the intersection of housing bonds and algorithmic trading in
+  today's financial markets. Learn how these tools optimize investment opportunities
+  and enhance market efficiency.
+title: Housing Authority Bonds (Algo Trading)
 ---
 
 Housing bonds, municipal finance authority bonds, and algorithmic trading represent crucial components of today's financial markets. These instruments and methodologies are foundational for facilitating investment, funding critical infrastructure projects, and enhancing market efficiency. Understanding these elements is vital for comprehending the complexities of financial markets and the innovative methods used to optimize them.

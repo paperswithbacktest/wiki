@@ -1,6 +1,14 @@
 ---
-title: "Covered Bonds: Overview and Advantages (Algo Trading)"
-description: "Covered bonds offer a unique blend of financial security and attractive returns, appealing to investors seeking stability. As senior secured debt instruments, they provide dual recourse, protecting investors through claims against both the issuer and a pool of assets. This safety feature has solidified their importance in Europe's financial markets and is drawing attention in the U.S. market. Our article explores covered bonds' structural benefits, their impact on global finance, and the role of algorithmic trading in enhancing their market dynamics. Discover the growing influence of these pivotal instruments in today's economy."
+category: quant_concept
+description: Covered bonds offer a unique blend of financial security and attractive
+  returns, appealing to investors seeking stability. As senior secured debt instruments,
+  they provide dual recourse, protecting investors through claims against both the
+  issuer and a pool of assets. This safety feature has solidified their importance
+  in Europe's financial markets and is drawing attention in the U.S. market. Our article
+  explores covered bonds' structural benefits, their impact on global finance, and
+  the role of algorithmic trading in enhancing their market dynamics. Discover the
+  growing influence of these pivotal instruments in today's economy.
+title: 'Covered Bonds: Overview and Advantages (Algo Trading)'
 ---
 
 Covered bonds offer a unique intersection of financial security and attractive returns for investors. Originating as a safe investment avenue, these senior secured debt instruments provide a dual layer of protection. Investors benefit from recourse against both the issuer and the underlying pool of assets, typically comprising mortgages or public sector loans. This structural safety has made covered bonds an integral part of Europe's financial markets, with increasing interest from U.S. financial institutions as well.

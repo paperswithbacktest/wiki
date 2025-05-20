@@ -1,6 +1,9 @@
 ---
-title: "Market-Moving Economic Indicators (Algo Trading)"
-description: "Explore how economic indicators drive market movements and algorithmic trading strategies Discover their impact on financial markets for informed trading decisions"
+category: quant_concept
+description: Explore how economic indicators drive market movements and algorithmic
+  trading strategies Discover their impact on financial markets for informed trading
+  decisions
+title: Market-Moving Economic Indicators (Algo Trading)
 ---
 
 Understanding the complexities of financial markets is crucial for investors, traders, and economists seeking to make informed decisions and maximize returns. These markets, which include platforms for exchanging financial instruments like stocks, bonds, and commodities, are influenced by a myriad of factors that affect their dynamics and overall performance. Among these factors, economic indicators play a pivotal role. They serve as key metrics that offer insights into the health and direction of an economy, providing critical data that can be used to analyze and predict market movements. Such indicators include metrics like GDP, unemployment rates, and inflation data, which directly impact investor confidence and market trends.

@@ -1,6 +1,12 @@
 ---
-title: "Markowitz model (Algo Trading)"
-description: Discover the principles of the Markowitz Model in financial theory for optimizing investment portfolios by balancing expected returns with risk. Developed by Harry Markowitz, this model revolutionizes asset diversification to minimize risk while maximizing potential returns. Learn how mean-variance optimization aids in constructing efficient portfolios within the 'Efficient Frontier' and explore its enduring impact on modern portfolio management and algorithmic trading strategies.
+category: quant_concept
+description: Discover the principles of the Markowitz Model in financial theory for
+  optimizing investment portfolios by balancing expected returns with risk. Developed
+  by Harry Markowitz, this model revolutionizes asset diversification to minimize
+  risk while maximizing potential returns. Learn how mean-variance optimization aids
+  in constructing efficient portfolios within the 'Efficient Frontier' and explore
+  its enduring impact on modern portfolio management and algorithmic trading strategies.
+title: Markowitz model (Algo Trading)
 ---
 
 The Markowitz model, formulated by Nobel laureate Harry Markowitz in 1952, stands as a cornerstone in financial theory, particularly for portfolio optimization. This pioneering model introduced a new dimension to the investment world by systematically illustrating how diversification could reduce investment risk, a concept that remains pivotal in financial decision-making.

@@ -1,6 +1,8 @@
 ---
-title: "Walk-Through Test in Accounting (Algo Trading)"
-description: "Explore how algorithmic trading transforms financial markets, enhancing efficiency and reducing costs, while posing unique accounting and auditing challenges."
+category: quant_concept
+description: Explore how algorithmic trading transforms financial markets, enhancing
+  efficiency and reducing costs, while posing unique accounting and auditing challenges.
+title: Walk-Through Test in Accounting (Algo Trading)
 ---
 
 Algorithmic trading has revolutionized financial markets by harnessing sophisticated computational techniques to execute trades at speeds and volumes that surpass human capabilities. This technological advancement has evolved from the traditional trading floor to computer-based systems that analyze market conditions and execute buy and sell orders in fractions of a second. The primary benefits of algorithmic trading include heightened market efficiency, reduced transaction costs, and minimized human errors, which collectively contribute to a more streamlined and effective trading environment.

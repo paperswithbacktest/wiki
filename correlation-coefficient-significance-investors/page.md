@@ -1,6 +1,8 @@
 ---
-title: "Correlation Coefficient and Its Significance for Investors (Algo Trading)"
-description: "Explore the impact of the correlation coefficient in algorithmic trading as a statistical tool used to enhance strategies and improve investment outcomes."
+category: quant_concept
+description: Explore the impact of the correlation coefficient in algorithmic trading
+  as a statistical tool used to enhance strategies and improve investment outcomes.
+title: Correlation Coefficient and Its Significance for Investors (Algo Trading)
 ---
 
 Understanding the interconnectedness of financial metrics is crucial for effective investment analysis in modern finance. Among these metrics, the correlation coefficient is a key statistical tool used to determine relationships between variables. The correlation coefficient, often represented by the symbol $r$, ranges from -1 to +1, indicating the strength and direction of a linear relationship between two variables. An $r$ value of +1 signifies a perfect positive correlation, -1 indicates a perfect negative correlation, and 0 suggests no linear relationship.

@@ -1,6 +1,8 @@
 ---
-title: "Zeta Model: Overview and Significance (Algo Trading)"
-description: "Explore the significance of the Zeta Model in predicting bankruptcy and its role in algorithmic trading. Learn how it enhances financial risk assessments."
+category: quant_concept
+description: Explore the significance of the Zeta Model in predicting bankruptcy and
+  its role in algorithmic trading. Learn how it enhances financial risk assessments.
+title: 'Zeta Model: Overview and Significance (Algo Trading)'
 ---
 
 In the ever-evolving landscape of finance, mathematical models are pivotal in assessing the financial health of companies. One such model is the Zeta Model, which has gained prominence for its ability to predict the likelihood of public companies facing bankruptcy within a two-year period. Since its inception, the model has been instrumental for analysts and investors in anticipating financial distress, aiding in the early identification of risks associated with corporate insolvency.

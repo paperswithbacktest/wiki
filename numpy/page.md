@@ -1,7 +1,8 @@
 ---
-title: Essential NumPy Techniques for Efficient Machine Learning
+category: quant_concept
 description: NumPy speeds up numerical computing with arrays and linear algebra to
   streamline machine learning workflows and preprocessing Discover more inside
+title: Essential NumPy Techniques for Efficient Machine Learning
 ---
 
 ![Image](images/1.png)

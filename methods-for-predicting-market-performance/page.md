@@ -1,6 +1,14 @@
 ---
-title: "Methods for Predicting Market Performance (Algo Trading)"
-description: "Explore effective methods for predicting market performance and mastering algorithmic trading strategies in the finance sector. Understand investment strategies that balance risk and return such as value and growth investing. Gain insights into market prediction techniques including technical and fundamental analysis and leverage algorithmic trading for optimizing your investment portfolio. Discover how these concepts interconnect to enhance informed decision-making and performance in dynamic financial markets. Ideal for both novice and seasoned investors keen on staying agile amidst rapid market changes."
+category: trading_strategy
+description: Explore effective methods for predicting market performance and mastering
+  algorithmic trading strategies in the finance sector. Understand investment strategies
+  that balance risk and return such as value and growth investing. Gain insights into
+  market prediction techniques including technical and fundamental analysis and leverage
+  algorithmic trading for optimizing your investment portfolio. Discover how these
+  concepts interconnect to enhance informed decision-making and performance in dynamic
+  financial markets. Ideal for both novice and seasoned investors keen on staying
+  agile amidst rapid market changes.
+title: Methods for Predicting Market Performance (Algo Trading)
 ---
 
 Investment strategies, market prediction, financial forecasting, and algorithmic trading are pivotal concepts in the modern financial landscape, each playing a unique role in investment and financial management. 

@@ -1,6 +1,9 @@
 ---
-title: "American Currency Quotation (Algo Trading)"
-description: "Explore American currency quotations and their significance in algorithmic forex trading Gain insights into strategies utilizing USD rates and automated trading technology"
+category: quant_concept
+description: Explore American currency quotations and their significance in algorithmic
+  forex trading Gain insights into strategies utilizing USD rates and automated trading
+  technology
+title: American Currency Quotation (Algo Trading)
 ---
 
 Forex trading, characterized by the buying and selling of currencies, represents one of the most liquid and active markets globally. The dynamics of exchange rates are complex and constantly in flux, influenced by a myriad of economic factors such as interest rates, inflation, and geopolitical events. At the heart of these dynamics is the American dollar, often regarded as a global benchmark due to its widespread use in international trade and finance. Understanding American currency quotations is essential for traders aiming to effectively navigate this landscape. These quotations express the value of foreign currencies in terms of U.S. dollars and form the basis for making informed trading decisions.

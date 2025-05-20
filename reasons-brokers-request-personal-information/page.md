@@ -1,6 +1,8 @@
 ---
-title: "Reasons Brokers Request Personal Information (Algo Trading)"
-description: "Explore why brokers request personal information for algorithmic trading and the importance of balancing data use with security to protect personal privacy."
+category: quant_concept
+description: Explore why brokers request personal information for algorithmic trading
+  and the importance of balancing data use with security to protect personal privacy.
+title: Reasons Brokers Request Personal Information (Algo Trading)
 ---
 
 In the digital era, data security and privacy have become paramount concerns, particularly in algorithmic trading, where personal information is extensively used for high-frequency transactions. Algorithmic trading is a method that utilizes computer algorithms to execute trading decisions automatically and is heavily reliant on vast datasets. These datasets often include sensitive personal information such as financial records, transaction histories, and behavioral patterns, which are critical for executing trades with speed and precision.

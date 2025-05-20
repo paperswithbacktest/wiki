@@ -1,6 +1,9 @@
 ---
-title: "Selecting and Building Benchmarks for Portfolio Performance Measurement (Algo Trading)"
-description: "Explore key strategies for measuring portfolio performance using benchmarks and algorithmic trading techniques to improve investment success and risk management."
+category: trading_strategy
+description: Explore key strategies for measuring portfolio performance using benchmarks
+  and algorithmic trading techniques to improve investment success and risk management.
+title: Selecting and Building Benchmarks for Portfolio Performance Measurement (Algo
+  Trading)
 ---
 
 In the fast-paced world of investing, understanding how to effectively manage and benchmark your portfolio's performance is crucial. The dynamic nature of financial markets demands strategies that not only focus on capital appreciation but also on minimizing risk and measuring performance against established standards. This article explores key components of an investment strategy focused on portfolio performance, benchmarking, and algorithmic trading. 

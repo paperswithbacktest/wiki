@@ -1,6 +1,8 @@
 ---
-title: "Bond Convexity (Algo Trading)"
-description: "Explore how bonds, fixed income, and convexity shape investment strategies and risk management. Discover the role of algorithmic trading in optimizing returns."
+category: quant_concept
+description: Explore how bonds, fixed income, and convexity shape investment strategies
+  and risk management. Discover the role of algorithmic trading in optimizing returns.
+title: Bond Convexity (Algo Trading)
 ---
 
 Bonds, fixed income, and convexity are integral components of the financial landscape, pivotal for shaping investment strategies and managing risk. Bonds, as debt securities, represent loans made by investors to issuers such as governments or corporations, with the issuer promising to pay back the principal along with interest over time. This forms the core of the fixed income market, characterized by its provision of regular interest payments, making it a stable and predictable investment vehicle.

@@ -1,6 +1,9 @@
 ---
-title: "Hang Seng Index (Algo Trading)"
-description: "Explore the intricacies of the Hang Seng Index and its significance in algorithmic trading uncovering strategies to optimize trading performance and market outcomes."
+category: trading_strategy
+description: Explore the intricacies of the Hang Seng Index and its significance in
+  algorithmic trading uncovering strategies to optimize trading performance and market
+  outcomes.
+title: Hang Seng Index (Algo Trading)
 ---
 
 The Hang Seng Index (HSI) stands as a prominent financial index, representing the largest and most liquid companies listed on the Hong Kong Stock Exchange. Established in 1969, the HSI serves as a key benchmark for tracking the performance of the Hong Kong stock market, often reflecting the economic health and market sentiment of Hong Kong and its integration with the global financial system.

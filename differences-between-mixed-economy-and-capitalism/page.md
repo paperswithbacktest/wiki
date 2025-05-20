@@ -1,6 +1,8 @@
 ---
-title: "Differences Between Mixed Economy and Capitalism (Algo Trading)"
-description: "Explore how capitalism and mixed economies differ and understand the role of algorithmic trading in shaping market dynamics and regulatory policies."
+category: quant_concept
+description: Explore how capitalism and mixed economies differ and understand the
+  role of algorithmic trading in shaping market dynamics and regulatory policies.
+title: Differences Between Mixed Economy and Capitalism (Algo Trading)
 ---
 
 In today's interconnected world, economic systems form the backbone for financial transactions and economic activities, influencing how they are structured and regulated. Among the most prominent of these systems are capitalism and mixed economies, each possessing distinctive characteristics and implications for economic growth and social welfare. Capitalism is centered around private ownership and market-driven principles, emphasizing minimal government interference and a competitive marketplace. In contrast, mixed economies strive to balance private market freedom with government regulations, combining features of both capitalism and socialism to address social inequalities and allocate resources efficiently.
@@ -176,4 +178,3 @@ Explore comprehensive studies and analyses on economic systems and algorithmic t
 5. **Expert Publications and Industry Reports**: Organizations such as McKinsey & Company and the World Economic Forum release industry reports that discuss the implications of financial technologies within various economic frameworks. These publications often include data-driven insights that can inform strategic decisions.
 
 These resources collectively offer a robust foundation for understanding the intricacies of capitalism, mixed economies, and the technological shifts driven by algorithmic trading.
-

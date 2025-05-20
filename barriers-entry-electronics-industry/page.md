@@ -1,6 +1,9 @@
 ---
-title: "Barriers to Entry in the Electronics Industry (Algo Trading)"
-description: "Explore the intricacies of entering the electronics and algorithmic trading industries. Discover the high capital costs, technical expertise, and strategic planning needed."
+category: quant_concept
+description: Explore the intricacies of entering the electronics and algorithmic trading
+  industries. Discover the high capital costs, technical expertise, and strategic
+  planning needed.
+title: Barriers to Entry in the Electronics Industry (Algo Trading)
 ---
 
 The electronics industry and algorithmic trading are two of the most technologically demanding sectors today. They are characterized by rapid innovation and intricate market dynamics that shape their operational landscapes. Both industries hold critical positions in the global economy, influencing everything from consumer products to financial markets.

@@ -1,7 +1,8 @@
 ---
-title: Comprehensive Guide to Hidden Layers in Neural Networks
+category: quant_concept
 description: Hidden Layers enable neural networks to learn complex data patterns extract
   meaningful features and apply dropout and regularization Discover more inside.
+title: Comprehensive Guide to Hidden Layers in Neural Networks
 ---
 
 ![Image](images/1.png)

@@ -1,9 +1,11 @@
 ---
-title: "AI Trading Algorithm"
-description: Discover how AI trading algorithms are revolutionizing the financial markets with their ability to learn, adapt, and execute trades at unprecedented speeds. Understand the mechanics behind these advanced systems, their benefits, risks, and explore popular strategies like quantitative momentum and mean reversion.
+category: trading_strategy
+description: Discover how AI trading algorithms are revolutionizing the financial
+  markets with their ability to learn, adapt, and execute trades at unprecedented
+  speeds. Understand the mechanics behind these advanced systems, their benefits,
+  risks, and explore popular strategies like quantitative momentum and mean reversion.
+title: AI Trading Algorithm
 ---
-
-
 
 AI trading algorithms are not just a futuristic concept; they are here, reshaping the financial markets with their capacity to learn, adapt, and execute trades at a speed and volume unattainable by human traders.
 

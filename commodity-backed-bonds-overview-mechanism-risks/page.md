@@ -1,6 +1,8 @@
 ---
-title: "Commodity-Backed Bonds: Overview, Mechanism, and Risks (Algo Trading)"
-description: "Explore commodity-backed bonds and their risks for investors using bonds, commodities, or algorithmic trading. Learn to manage risk and seize opportunities."
+category: quant_concept
+description: Explore commodity-backed bonds and their risks for investors using bonds,
+  commodities, or algorithmic trading. Learn to manage risk and seize opportunities.
+title: 'Commodity-Backed Bonds: Overview, Mechanism, and Risks (Algo Trading)'
 ---
 
 In today's intricate financial landscape, understanding the risks associated with various investment avenues is essential for investors focused on protecting and expanding their portfolios. Investment markets offer a plethora of avenues such as bonds, commodities, and algorithmic trading, each possessing distinctive risk aspects that demand careful evaluation.

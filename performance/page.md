@@ -1,10 +1,9 @@
 ---
-title: Evaluating Machine Learning Model Performance Metrics
+category: quant_concept
 description: Machine learning performance metrics gauge model accuracy and reliability
   for real-world applications Optimize models with insights Discover more inside.
+title: Evaluating Machine Learning Model Performance Metrics
 ---
-
-
 
 ## Table of Contents
 

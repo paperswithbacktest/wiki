@@ -1,6 +1,8 @@
 ---
-title: "Negative Convexity in Finance (Algo Trading)"
-description: "Explore the intricacies of negative convexity in bonds and its role in algorithmic trading to enhance your investment strategy and portfolio management."
+category: quant_concept
+description: Explore the intricacies of negative convexity in bonds and its role in
+  algorithmic trading to enhance your investment strategy and portfolio management.
+title: Negative Convexity in Finance (Algo Trading)
 ---
 
 Bonds have played an integral role in financial markets, historically providing investors with a relatively stable form of investment. As a fundamental component within finance, understanding the mechanics of bond pricing and the risks, such as negative convexity, are vital for making informed investment choices. This article aims to elucidate the concepts of bond pricing, delve into the intricacies of negative convexity, and explore how these notions are integrated into the modern landscape of algorithmic trading.

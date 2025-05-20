@@ -1,6 +1,8 @@
 ---
-title: "Akuna Capital (Algo Trading)"
-description: "Discover Akuna Capital and its role in shaping the future of options market making with cutting-edge algorithmic trading strategies and tech innovation."
+category: quant_concept
+description: Discover Akuna Capital and its role in shaping the future of options
+  market making with cutting-edge algorithmic trading strategies and tech innovation.
+title: Akuna Capital (Algo Trading)
 ---
 
 In the ever-evolving world of finance, algorithmic trading firms are pivotal in driving technological innovation and enhancing market efficiency. These firms leverage advanced computational models and high-speed infrastructure to execute trades, optimizing for both speed and precision beyond the capability of human traders. Amidst the landscape of algorithmic trading, Akuna Capital emerges as a significant entity, recognized for its distinct specialization in options market making. The company has strategically positioned itself by integrating algorithmic efficiency with cutting-edge trading strategies, enabling it to stand out in a competitive field.

@@ -1,6 +1,9 @@
 ---
-title: "Golden Visa Programs by Country (Algo Trading)"
-description: "Discover the synergy between Golden Visa programs and algorithmic trading for strategic investment gains leading to global residency and optimized financial returns."
+category: quant_concept
+description: Discover the synergy between Golden Visa programs and algorithmic trading
+  for strategic investment gains leading to global residency and optimized financial
+  returns.
+title: Golden Visa Programs by Country (Algo Trading)
 ---
 
 Golden Visa programs have emerged as a notable global trend, offering individuals a pathway to obtain residency through investment in a host country. These programs have gained traction due to their dual appeal: facilitating geographical and economic mobility for investors and providing economic benefits to host nations. Countries such as Portugal, Greece, and Spain have particularly capitalized on this, offering residency, and in some cases, eventual citizenship, in exchange for significant investments in real estate or government bonds. This trend has been fueled by increasing globalization and the desire for geographical diversification, as well as the potential for lifestyle enhancements in nations with stable economies and favorable living conditions.

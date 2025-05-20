@@ -1,6 +1,9 @@
 ---
-title: "Bullion Market Overview and Types (Algo Trading)"
-description: "Explore the dynamic world of gold and bullion markets enhanced by algorithmic trading, offering savvy investors a cutting-edge approach to capitalizing on market opportunities."
+category: trading_strategy
+description: Explore the dynamic world of gold and bullion markets enhanced by algorithmic
+  trading, offering savvy investors a cutting-edge approach to capitalizing on market
+  opportunities.
+title: Bullion Market Overview and Types (Algo Trading)
 ---
 
 In financial markets, gold and other precious metals have continued to serve as safe havens for investors. With their intrinsic value and limited supply, these assets offer a reliable hedge against economic volatility and inflation. Gold, in particular, has maintained its status as a cornerstone of financial security through centuries of economic change and has been sought after during times of market instability.

@@ -1,6 +1,8 @@
 ---
-title: "Pivot Strategies in Forex Trading (Algo Trading)"
-description: "Master pivot strategies in forex trading to enhance decision-making with algorithmic tools This guide explores pivot points a key aspect for predicting trends"
+category: trading_strategy
+description: Master pivot strategies in forex trading to enhance decision-making with
+  algorithmic tools This guide explores pivot points a key aspect for predicting trends
+title: Pivot Strategies in Forex Trading (Algo Trading)
 ---
 
 Forex trading, the practice of buying and selling currency pairs on the foreign exchange market, remains a highly favored activity among traders globally. This popularity stems from the market's high liquidity, 24-hour accessibility, and the potential for significant returns. A pivotal element in enhancing trading strategies within this market is the use of pivot strategies. These strategies are fundamental tools extensively utilized by forex traders to forecast market trends and make shrewd trading decisions.

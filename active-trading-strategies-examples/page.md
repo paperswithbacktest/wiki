@@ -1,6 +1,9 @@
 ---
-title: "Active Trading Strategies and Examples (Algo Trading)"
-description: "Explore active and algorithmic trading strategies in this insightful guide to maximize returns and manage risks effectively in ever-changing financial markets."
+category: trading_strategy
+description: Explore active and algorithmic trading strategies in this insightful
+  guide to maximize returns and manage risks effectively in ever-changing financial
+  markets.
+title: Active Trading Strategies and Examples (Algo Trading)
 ---
 
 In the ever-evolving financial markets, investment strategies are crucial for maximizing returns and mitigating risks. Investors worldwide continuously seek methods to enhance their portfolios by employing a variety of trading techniques tailored to their goals. This article examines various trading strategies, with a particular focus on active trading and algorithmic trading—commonly known as algo trading. These strategies represent distinctive approaches to engaging with the market, each offering unique methods to capitalize on financial opportunities.

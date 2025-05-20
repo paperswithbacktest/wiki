@@ -1,6 +1,8 @@
 ---
-title: "One-Cancels-All Order in Finance (Algo Trading)"
-description: "Explore the intricacies of One-Cancels-All orders in algo trading to enhance trading strategies reduce risks and streamline execution for optimal outcomes."
+category: trading_strategy
+description: Explore the intricacies of One-Cancels-All orders in algo trading to
+  enhance trading strategies reduce risks and streamline execution for optimal outcomes.
+title: One-Cancels-All Order in Finance (Algo Trading)
 ---
 
 Financial trading is a multifaceted domain characterized by an array of strategies and order types, each designed to enhance trading performance. Among these, the One-Cancels-All (OCA) order stands out as a sophisticated tool tailored for experienced investors. The primary purpose of an OCA order is to effectively manage risk while potentially improving trading outcomes. When employing an OCA order, traders can bundle multiple limit orders, typically three or more, into a single unit. The execution of any one of these orders results in the cancellation of the remaining orders, thereby allowing traders to efficiently target optimal entry prices or stock selections.

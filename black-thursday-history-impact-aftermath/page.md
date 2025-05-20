@@ -1,6 +1,8 @@
 ---
-title: "Black Thursday: History, Impact, and Aftermath (Algo Trading)"
-description: "Explore the history and impact of Black Thursday in 1929, a pivotal event in the Stock Market Crash, and its modern parallels in algorithmic trading."
+category: quant_concept
+description: Explore the history and impact of Black Thursday in 1929, a pivotal event
+  in the Stock Market Crash, and its modern parallels in algorithmic trading.
+title: 'Black Thursday: History, Impact, and Aftermath (Algo Trading)'
 ---
 
 The stock market has consistently been a subject of intrigue and concern due to its inherent volatility and profound impact on both individual fortunes and global economies. Notably, significant downturns have historically led to extensive financial upheavals. Among these, Black Thursday, which occurred on October 24, 1929, stands as a landmark event that shaped the modern financial landscape. This event marked the onset of the Stock Market Crash of 1929, which initiated a series of economic repercussions culminating in the Great Depression, a period characterized by widespread unemployment and severe economic instability.
@@ -114,4 +116,3 @@ Therefore, examining the causes and effects of the 1929 crash assists in underst
 [6]: Thomas, W. A. (2009). ["The Stock Exchanges of Ireland."](https://www.amazon.com/Exchanges-Ireland-Studies-Financial-Economic/dp/0905205340) Palgrave Macmillan. 
 
 [7]: U.S. Securities and Exchange Commission. (n.d.). ["The Laws That Govern the Securities Industry."](https://www.sec.gov/rules-regulations/statutes-regulations)
-

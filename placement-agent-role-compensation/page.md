@@ -1,6 +1,9 @@
 ---
-title: "Placement Agent: Role and Compensation (Algo Trading)"
-description: "Discover the essential roles and compensation structures in financial services including placement agents and algorithmic trading strategies to boost your career."
+category: quant_concept
+description: Discover the essential roles and compensation structures in financial
+  services including placement agents and algorithmic trading strategies to boost
+  your career.
+title: 'Placement Agent: Role and Compensation (Algo Trading)'
 ---
 
 The financial industry is a vast and intricate network that plays a pivotal role in global economies. This sector encompasses a diverse range of roles, each characterized by distinct responsibilities and compensation models. Understanding the nuances of these roles is essential for anyone interested in the field, whether they are students, current professionals, or individuals seeking to expand their knowledge. In this article, we will examine three specific financial roles that contribute significantly to the industry's operation and efficiency: placement agents, compensation structures in financial roles, and algorithmic trading.

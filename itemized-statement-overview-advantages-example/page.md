@@ -1,6 +1,13 @@
 ---
-title: "Itemized Statement: Overview, Advantages, and Example (Algo Trading)"
-description: "Explore the crucial role of itemized statements, financial statements, and billing examples in algorithmic trading with this comprehensive guide. Discover how these financial documents enhance transparency, support strategic planning, and aid in optimizing trading strategies. Understand the importance of accurate and detailed records for both personal finance and business operations, helping to improve budgeting, detect discrepancies, and maintain accountability in fast-paced financial environments."
+category: quant_concept
+description: Explore the crucial role of itemized statements, financial statements,
+  and billing examples in algorithmic trading with this comprehensive guide. Discover
+  how these financial documents enhance transparency, support strategic planning,
+  and aid in optimizing trading strategies. Understand the importance of accurate
+  and detailed records for both personal finance and business operations, helping
+  to improve budgeting, detect discrepancies, and maintain accountability in fast-paced
+  financial environments.
+title: 'Itemized Statement: Overview, Advantages, and Example (Algo Trading)'
 ---
 
 Understanding the basics of financial documents is crucial in both personal finance and trading. These documents serve as the backbone for informed financial decision-making and strategic planning. They enable individuals and businesses to maintain a clear view of their financial status and track their progress towards financial goals. 

@@ -1,6 +1,8 @@
 ---
-title: "Indicators for Scalping Trading Strategy (Algo Trading)"
-description: "Explore effective scalping strategies using trading indicators for algorithmic day trading Gain insights into tools like RSI and moving averages for better decisions"
+category: trading_strategy
+description: Explore effective scalping strategies using trading indicators for algorithmic
+  day trading Gain insights into tools like RSI and moving averages for better decisions
+title: Indicators for Scalping Trading Strategy (Algo Trading)
 ---
 
 Trading indicators, day trading, scalping, and algorithmic trading are instrumental components in today's fast-paced trading environment, each contributing unique advantages and utilities for traders. Trading indicators are mathematical calculations based on the price, volume, or open interest of a security. They serve as tools that help traders analyze price movements and predict future market behavior, enhancing their decision-making capabilities. Commonly used indicators include Moving Averages, Relative Strength Index (RSI), and Bollinger Bands, which allow traders to identify trends, measure momentum, and assess volatility.

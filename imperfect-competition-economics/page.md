@@ -1,6 +1,9 @@
 ---
-title: "Imperfect Competition in Economics (Algo Trading)"
-description: "Explore the dynamics of imperfect competition in economics and its interplay with algorithmic trading impacting market structures and shaping modern financial landscapes."
+category: quant_concept
+description: Explore the dynamics of imperfect competition in economics and its interplay
+  with algorithmic trading impacting market structures and shaping modern financial
+  landscapes.
+title: Imperfect Competition in Economics (Algo Trading)
 ---
 
 In the complex world of economics, understanding market structures is critical to analyzing how firms compete and how prices are set. Market structures are generally classified into four categories: perfect competition, monopoly, oligopoly, and monopolistic competition. Each of these structures presents distinct characteristics that dictate the behavior of firms within the market, the level of competition, and the pricing mechanisms.

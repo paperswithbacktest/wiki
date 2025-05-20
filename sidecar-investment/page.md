@@ -1,6 +1,9 @@
 ---
-title: "Sidecar Investment (Algo Trading)"
-description: "Explore sidecar investing and algorithmic trading as innovative strategies in today's investment world Discover how these approaches optimize returns and manage risks"
+category: trading_strategy
+description: Explore sidecar investing and algorithmic trading as innovative strategies
+  in today's investment world Discover how these approaches optimize returns and manage
+  risks
+title: Sidecar Investment (Algo Trading)
 ---
 
 The world of investment is characterized by a range of strategies tailored to meet the diverse needs and goals of investors. Among the numerous approaches available, co-investing, sidecar investing, and algorithmic trading have risen to prominence due to their distinct advantages and strategic benefits. This article seeks to explore these investment strategies in detail, examining their definitions, purposes, and applications in modern investment contexts.

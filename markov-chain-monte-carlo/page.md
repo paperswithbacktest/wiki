@@ -1,7 +1,8 @@
 ---
-title: Markov Chain Monte Carlo Methods for Efficient Machine Learning
+category: quant_concept
 description: Markov Chain Monte Carlo explores complex distributions in machine learning
   models efficiently with gradient techniques Discover more inside
+title: Markov Chain Monte Carlo Methods for Efficient Machine Learning
 ---
 
 ![Image](images/1.png)

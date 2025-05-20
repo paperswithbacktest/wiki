@@ -1,6 +1,9 @@
 ---
-title: "Blockchain Operating System: An Overview (Algo Trading)"
-description: "Explore how blockchain operating systems enhance algorithmic trading by improving security transparency and efficiency. Learn about the benefits and challenges."
+category: quant_concept
+description: Explore how blockchain operating systems enhance algorithmic trading
+  by improving security transparency and efficiency. Learn about the benefits and
+  challenges.
+title: 'Blockchain Operating System: An Overview (Algo Trading)'
 ---
 
 In the rapidly evolving world of technology, the integration of blockchain operating systems and algorithmic trading is significantly transforming the financial landscape. Blockchain technology, known for its decentralized nature, offers a secure and transparent framework for managing financial transactions without the need for intermediaries. This characteristic is complemented by algorithmic trading, which utilizes computer algorithms to optimize the speed and accuracy of trading, thereby minimizing human intervention and enhancing efficiency.

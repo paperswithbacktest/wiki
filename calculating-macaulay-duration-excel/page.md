@@ -1,6 +1,9 @@
 ---
-title: "Calculating Macaulay Duration Using Excel (Algo Trading)"
-description: "Learn how to calculate Macaulay Duration using Excel to enhance your bond investment strategy. Perfect for algorithmic trading, risk management, and valuation."
+category: quant_concept
+description: Learn how to calculate Macaulay Duration using Excel to enhance your
+  bond investment strategy. Perfect for algorithmic trading, risk management, and
+  valuation.
+title: Calculating Macaulay Duration Using Excel (Algo Trading)
 ---
 
 In the world of bond investment, understanding the dynamics of bond duration is crucial for both novice and seasoned investors. Duration is a crucial metric that captures how the price of a bond will change in response to interest rate fluctuations. This article focuses specifically on Macaulay Duration, an essential measure used to assess bond price sensitivity by calculating the weighted average time to receive a bond's cash flows. This concept plays a fundamental role in assessing interest rate risk and is indispensable for investment strategies focused on managing bond portfolios.

@@ -1,6 +1,8 @@
 ---
-title: "Coefficient of Determination: Calculation and Interpretation (Algo Trading)"
-description: "Explore the significance of the coefficient of determination or R-squared in algorithmic trading by evaluating model predictions and improving strategy accuracy."
+category: quant_concept
+description: Explore the significance of the coefficient of determination or R-squared
+  in algorithmic trading by evaluating model predictions and improving strategy accuracy.
+title: 'Coefficient of Determination: Calculation and Interpretation (Algo Trading)'
 ---
 
 Algorithmic trading, often referred to as algo trading, is a method of executing orders using automated and pre-programmed trading instructions that account for variables such as time, price, and volume. This method leverages the speed and computational power of computers to perform trading at a pace and frequency that would be impossible for human traders. Increasingly, algorithmic trading has become a significant component of the financial markets, accounting for a substantial percentage of trades in markets worldwide. The growth of this trading approach is attributable to its ability to provide liquidity, reduce trading costs, and enable sophisticated investment strategies.

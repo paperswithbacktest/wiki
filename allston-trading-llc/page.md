@@ -1,6 +1,8 @@
 ---
-title: "Allston Trading LLC (Algo Trading)"
-description: "Explore Allston Trading's proprietary and algorithmic trading strategies enhancing market efficiency with cutting-edge technology and data-driven decisions."
+category: quant_concept
+description: Explore Allston Trading's proprietary and algorithmic trading strategies
+  enhancing market efficiency with cutting-edge technology and data-driven decisions.
+title: Allston Trading LLC (Algo Trading)
 ---
 
 The financial services industry is undergoing a significant transformation, particularly within trading firms that specialize in proprietary and algorithmic trading. Proprietary trading refers to the act of firms trading stocks, bonds, and other financial instruments using their own capital, as opposed to that of clients. This allows firms to capitalize on higher profit margins. Algorithmic trading, on the other hand, involves using computer algorithms to execute trades efficiently based on a set of predetermined criteria. The integration of technology and vast datasets has become essential in crafting strategies that optimize trading performance.

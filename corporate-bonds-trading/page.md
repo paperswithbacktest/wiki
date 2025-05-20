@@ -1,6 +1,9 @@
 ---
-title: "Corporate Bonds Trading (Algo Trading)"
-description: "Explore the impact of algorithmic trading on corporate bonds trading highlighting benefits like increased speed and efficiency and addressing associated challenges."
+category: trading_strategy
+description: Explore the impact of algorithmic trading on corporate bonds trading
+  highlighting benefits like increased speed and efficiency and addressing associated
+  challenges.
+title: Corporate Bonds Trading (Algo Trading)
 ---
 
 Corporate bonds trading is a pivotal component of financial markets, serving as a mechanism through which corporations can raise essential capital. These debt securities are issued by companies and acquired by investors, thus establishing a financial bridge between corporate entities and capital markets. Investors receive returns through fixed or variable interest payments over a specified period, aligning the interests of both parties involved.

@@ -1,6 +1,8 @@
 ---
-title: "Blend Fund: Overview and Examples (Algo Trading)"
-description: "Explore how blend funds merge growth and value investing with algo trading to enhance returns and manage risks in dynamic financial markets."
+category: trading_strategy
+description: Explore how blend funds merge growth and value investing with algo trading
+  to enhance returns and manage risks in dynamic financial markets.
+title: 'Blend Fund: Overview and Examples (Algo Trading)'
 ---
 
 In the rapidly evolving world of finance, the integration of traditional investment strategies with cutting-edge technology is transforming the way investors interact with the market. This transformation is prominently seen in the synergy between investment fund blend funds, mutual funds, and algorithmic (algo) trading. Each of these elements plays a distinct role in portfolio management, yet their combined use offers enhanced opportunities for maximizing returns and managing risks.

@@ -1,6 +1,8 @@
 ---
-title: "Cboe Europe Overview (Algo Trading)"
-description: "Discover Cboe Europe's pivotal role in algorithmic trading with advanced technologies and diverse services across 18 major European markets for optimal strategies."
+category: quant_concept
+description: Discover Cboe Europe's pivotal role in algorithmic trading with advanced
+  technologies and diverse services across 18 major European markets for optimal strategies.
+title: Cboe Europe Overview (Algo Trading)
 ---
 
 The financial markets in Europe represent a complex and dynamic ecosystem encompassing various asset classes, exchanges, and regulatory frameworks. Among the key players is the Cboe European Stock Exchange, a significant entity within the pan-European trading landscape. Founded through the merger of BATS Trading Europe and Chi-X Europe, Cboe Europe has established itself as a prominent venue, providing extensive securities trading services across 18 major European markets.

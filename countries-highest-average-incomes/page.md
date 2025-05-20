@@ -1,6 +1,8 @@
 ---
-title: "Countries With the Highest Average Incomes (Algo Trading)"
-description: "Explore the intersection of high average incomes and algorithmic trading in wealthy countries Discover how these factors influence global economic landscapes"
+category: quant_concept
+description: Explore the intersection of high average incomes and algorithmic trading
+  in wealthy countries Discover how these factors influence global economic landscapes
+title: Countries With the Highest Average Incomes (Algo Trading)
 ---
 
 Welcome to our in-depth exploration of income levels in the world's wealthiest countries and how algorithmic trading is impacting these economies. In this article, we will explore disposable income per capita, a vital metric for assessing the wealthiest nations. Disposable income per capita provides insights into the average amount of money individuals have available for spending and saving after paying taxes. It serves as a key indicator of economic well-being and quality of life in different countries.

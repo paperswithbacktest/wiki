@@ -1,6 +1,8 @@
 ---
-title: "Dow Jones & Co. (Algo Trading)"
-description: "Explore the intersection of business news, financial data, and algorithmic trading to understand modern markets and capitalize on opportunities effectively."
+category: quant_concept
+description: Explore the intersection of business news, financial data, and algorithmic
+  trading to understand modern markets and capitalize on opportunities effectively.
+title: Dow Jones & Co. (Algo Trading)
 ---
 
 This article explores the interconnected realms of business news, financial information, stock market indices, and algorithmic trading. In today's fast-paced financial landscape, staying updated with the latest business news and financial information is crucial for investors and traders. Business news acts as a catalyst for market movements by offering timely updates and analyses on economic and corporate developments. Key events, such as mergers, acquisitions, and policy changes, can significantly influence stock market trends, impacting investor decisions and market dynamics.

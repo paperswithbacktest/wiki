@@ -1,6 +1,8 @@
 ---
-title: "Great Moderation (Algo Trading)"
-description: "Explore how the integration of economic analysis with algorithmic trading optimizes investment strategies amidst business cycles and enhances market stability."
+category: quant_concept
+description: Explore how the integration of economic analysis with algorithmic trading
+  optimizes investment strategies amidst business cycles and enhances market stability.
+title: Great Moderation (Algo Trading)
 ---
 
 The convergence of economic analysis, business cycles, and algorithmic trading presents a powerful framework for understanding and navigating modern financial markets. Business cycles, characterized by alternating phases of economic expansion and contraction, play a significant role in shaping investment strategies and policy decisions. These cycles are influenced by several economic indicators, including gross domestic product (GDP), unemployment rates, and inflation, which serve as vital inputs for assessing economic conditions.

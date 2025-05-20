@@ -1,6 +1,10 @@
 ---
-title: "Application programming interface (API) (Algo Trading)"
-description: Explore how APIs are revolutionizing algorithmic trading by providing seamless automation, real-time data access, and customizable trading strategies for enhanced efficiency and precision. Discover the types of APIs, their advantages, and how traders can harness them to gain a competitive edge in the financial markets.
+category: quant_concept
+description: Explore how APIs are revolutionizing algorithmic trading by providing
+  seamless automation, real-time data access, and customizable trading strategies
+  for enhanced efficiency and precision. Discover the types of APIs, their advantages,
+  and how traders can harness them to gain a competitive edge in the financial markets.
+title: Application programming interface (API) (Algo Trading)
 ---
 
 In the ever-evolving arena of financial trading, the use of Application Programming Interfaces (APIs) has transformed algorithmic trading, also known as algo trading. By enabling seamless communication between software applications, APIs play a pivotal role in facilitating automated trading strategies through the provision of accurate and timely market data. They serve as intermediaries that allow trading platforms to perform tasks ranging from executing trades to managing portfolios, all while receiving real-time market information.

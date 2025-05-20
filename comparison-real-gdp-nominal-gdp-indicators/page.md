@@ -1,6 +1,8 @@
 ---
-title: "Comparison of Real GDP and Nominal GDP Indicators (Algo Trading)"
-description: "Discover the crucial differences between Real GDP and Nominal GDP for economic analysis and algorithmic trading to enhance your investment strategies."
+category: quant_concept
+description: Discover the crucial differences between Real GDP and Nominal GDP for
+  economic analysis and algorithmic trading to enhance your investment strategies.
+title: Comparison of Real GDP and Nominal GDP Indicators (Algo Trading)
 ---
 
 In today's dynamic economic environment, Gross Domestic Product (GDP) serves as a pivotal metric for gauging economic health. GDP, representing the total value of all goods and services produced over a specific time period within a nation's borders, is fundamental for economic analysis and policy formulation. It reflects the size and growth of an economy, making it indispensable for understanding economic trends and making informed decisions.
@@ -132,4 +134,3 @@ Bureau of Economic Analysis - The Bureau of Economic Analysis (BEA) is a trusted
 Investopedia - Investopedia serves as a valuable educational resource for those seeking a thorough understanding of economic concepts, particularly Nominal and Real GDP. The platform offers detailed guides, explanatory articles, and video tutorials that clarify the distinctions between these GDP measures, providing practical insights into their implications for economic analysis and trading strategies. Check out Investopedia's well-structured content to enhance your grasp of GDP-related topics.
 
 Academic literature on algorithmic trading and economic indicators offers insight into the integration of GDP metrics within complex trading models. Authors like Marcos Lopez de Prado and Ernest P. Chan provide in-depth explorations and practical applications of quantitative strategies in trading, which encompass the use of GDP data. Lopez de Prado's works focus on [machine learning](/wiki/machine-learning) and its applications in finance, while Chan’s [books](/wiki/algo-trading-books) offer practical guidance on quantitative investment using a variety of economic indicators, including GDP. These resources are crucial for understanding how economic metrics like GDP can inform algorithmic trading approaches and strategies.
-

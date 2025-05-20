@@ -1,6 +1,8 @@
 ---
-title: "Order Book: Function and Components (Algo Trading)"
-description: "Explore the function and components of order books in algorithmic trading to enhance market strategies and execution efficiency for optimized trading outcomes."
+category: quant_concept
+description: Explore the function and components of order books in algorithmic trading
+  to enhance market strategies and execution efficiency for optimized trading outcomes.
+title: 'Order Book: Function and Components (Algo Trading)'
 ---
 
 Understanding the dynamics of financial markets is crucial for investors and traders. These markets are complex ecosystems where the forces of supply, demand, investor sentiment, and geopolitical events intersect to determine asset prices. The ability to navigate these markets effectively requires not only an understanding of fundamental and technical analysis but also the capability to interpret large volumes of data in real-time.

@@ -1,6 +1,11 @@
 ---
-title: "Exporting Inline (Algo Trading)"
-description: Explore how exporting inline revolutionizes algorithmic trading with real-time data handling, minimizing latency and enhancing accuracy while addressing challenges of infrastructure costs and complexity. Discover how Databento leverages this technology to offer superior market data, enabling traders to make informed decisions quickly in a competitive financial landscape.
+category: quant_concept
+description: Explore how exporting inline revolutionizes algorithmic trading with
+  real-time data handling, minimizing latency and enhancing accuracy while addressing
+  challenges of infrastructure costs and complexity. Discover how Databento leverages
+  this technology to offer superior market data, enabling traders to make informed
+  decisions quickly in a competitive financial landscape.
+title: Exporting Inline (Algo Trading)
 ---
 
 Algorithmic trading, commonly referred to as algo trading, is reshaping the trading landscape by utilizing automated strategies to execute trades at speeds and frequencies impossible for human traders. These automated systems often rely on complex algorithms to recognize patterns and execute orders across various financial markets. The combination of technological advancement and high-speed internet connectivity has been pivotal in enabling real-time data processing, forming the backbone of algo trading capabilities.

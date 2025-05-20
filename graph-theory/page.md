@@ -1,6 +1,12 @@
 ---
-title: "Graph theory (Algo Trading)"
-description: Explore the intersection of graph theory and algorithmic trading with insights into how mathematical modeling of financial networks enhances trading strategies. Understand the benefits of graph theory in identifying patterns and relationships within market datasets, thus leading to more informed trading decisions. Discover how this mathematical approach contributes to more adaptive and efficient algorithms in the fast-paced financial markets.
+category: quant_concept
+description: Explore the intersection of graph theory and algorithmic trading with
+  insights into how mathematical modeling of financial networks enhances trading strategies.
+  Understand the benefits of graph theory in identifying patterns and relationships
+  within market datasets, thus leading to more informed trading decisions. Discover
+  how this mathematical approach contributes to more adaptive and efficient algorithms
+  in the fast-paced financial markets.
+title: Graph theory (Algo Trading)
 ---
 
 In the evolving landscape of finance, algorithmic trading has become a cornerstone strategy for traders and financial institutions. It leverages advanced computer algorithms to automate and optimize the process of buying and selling financial instruments. A notable development in this field is the application of graph theory, which is increasingly utilized to enhance the analytical capabilities of these algorithms.

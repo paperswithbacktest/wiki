@@ -1,6 +1,9 @@
 ---
-title: "National Stock Exchange of India Limited (Algo Trading)"
-description: "Explore the National Stock Exchange of India's role in revolutionizing securities trading through algorithmic trading and its impact on market efficiency and transparency."
+category: quant_concept
+description: Explore the National Stock Exchange of India's role in revolutionizing
+  securities trading through algorithmic trading and its impact on market efficiency
+  and transparency.
+title: National Stock Exchange of India Limited (Algo Trading)
 ---
 
 The National Stock Exchange (NSE) of India is a pivotal institution in the financial landscape of the country, known for its role in modernizing the Indian securities market. Established in 1992, NSE transformed stock trading in India by offering a fully automated electronic trading platform. This innovation has significantly enhanced market efficiency and transparency, contributing to NSE's position as the world's largest derivatives exchange in terms of contracts traded and one of the largest stock exchanges globally by market capitalization (World Federation of Exchanges, 2022).

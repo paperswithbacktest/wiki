@@ -1,6 +1,9 @@
 ---
-title: "51% Attack: Risks, Examples, and Costs (Algo Trading)"
-description: "Explore the dynamics of 51% attacks on blockchain networks examining the risks and costs involved Discover preventive measures to safeguard against these threats."
+category: quant_concept
+description: Explore the dynamics of 51% attacks on blockchain networks examining
+  the risks and costs involved Discover preventive measures to safeguard against these
+  threats.
+title: '51% Attack: Risks, Examples, and Costs (Algo Trading)'
 ---
 
 In recent years, the exponential growth of cryptocurrencies has attracted the attention of investors, technologists, and entrepreneurs worldwide. The advent of digital currencies such as Bitcoin and Ethereum has transformed the landscape of financial transactions and technological innovations, offering opportunities for high returns and enabling novel applications across various sectors. However, this burgeoning domain is not without significant risks. As the popularity and market capitalization of cryptocurrencies have surged, so too have the concerns regarding their security and integrity.

@@ -1,6 +1,9 @@
 ---
-title: "Introduction to Forex Trading (Algo Trading)"
-description: "Discover the dynamic world of forex trading with algorithmic strategies Learn how to harness market opportunities with precision reduce errors and gain insights"
+category: trading_strategy
+description: Discover the dynamic world of forex trading with algorithmic strategies
+  Learn how to harness market opportunities with precision reduce errors and gain
+  insights
+title: Introduction to Forex Trading (Algo Trading)
 ---
 
 The global currency market, known as the forex or foreign exchange market, ranks among the most dynamic financial landscapes worldwide. It garners attention due to its impressive scale, with a daily trading volume surpassing $6.6 trillion according to data from the Bank for International Settlements [BIS](https://www.bis.org/statistics/rpfx19.htm). This vast liquidity attracts a diverse range of traders, from large financial institutions to individual speculators, all looking to take advantage of the minute fluctuations in currency values.

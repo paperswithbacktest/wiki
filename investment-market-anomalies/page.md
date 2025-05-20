@@ -1,6 +1,8 @@
 ---
-title: "Investment Market Anomalies (Algo Trading)"
-description: "Explore how investment strategies and market anomalies shape stock market dynamics. Learn how algorithmic trading leverages technology for strategic advantages."
+category: trading_strategy
+description: Explore how investment strategies and market anomalies shape stock market
+  dynamics. Learn how algorithmic trading leverages technology for strategic advantages.
+title: Investment Market Anomalies (Algo Trading)
 ---
 
 Understanding the stock market involves comprehending a spectrum of strategies and anomalies that influence investment decisions. The landscape of investment has been significantly transformed by the advent of technology, with algorithmic trading standing out as a pivotal innovation. This method of trading has not only revolutionized how transactions are executed, enabling rapid and precise operations, but it has also expanded the analytical horizons available to investors. The automation of trading strategies, driven by complex algorithms, allows market participants to conduct trades with speed and accuracy unattainable through manual means.

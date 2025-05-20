@@ -1,6 +1,9 @@
 ---
-title: "Short and Long Positions in Financial Markets (Algo Trading)"
-description: "Discover how long and short positions play crucial roles in financial markets. Explore their impact on trading strategies enhanced by algorithmic trading tools."
+category: quant_concept
+description: Discover how long and short positions play crucial roles in financial
+  markets. Explore their impact on trading strategies enhanced by algorithmic trading
+  tools.
+title: Short and Long Positions in Financial Markets (Algo Trading)
 ---
 
 In trading and investment, financial positions are fundamental components determining market actions and strategies. A financial position refers to the ownership status of an asset, characterized by two primary types: long positions and short positions. These positions not only dictate an investor's market stance but are pivotal in expressing views on market trends and potential asset price movements.

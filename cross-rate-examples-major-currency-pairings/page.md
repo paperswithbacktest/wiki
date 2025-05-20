@@ -1,6 +1,8 @@
 ---
-title: "Cross Rate Examples and Major Currency Pairings (Algo Trading)"
-description: "Explore how cross rates and major currency pairings influence forex trading and how algorithmic strategies enhance trading efficiency and opportunities."
+category: quant_concept
+description: Explore how cross rates and major currency pairings influence forex trading
+  and how algorithmic strategies enhance trading efficiency and opportunities.
+title: Cross Rate Examples and Major Currency Pairings (Algo Trading)
 ---
 
 The foreign exchange market, commonly referred to as forex, is the largest and most liquid financial market globally, with a daily trading volume surpassing $6 trillion as of 2021. Its significance lies in facilitating international trade, investment, and economic stability by allowing currency conversion and financial hedging. Within this market, currency pairs form the foundational concept. Each currency pair consists of a base currency and a quote currency, which are denoted as BASE/QUOTE. For instance, in the EUR/USD pair, EUR is the base currency, and USD is the quote currency. The quoted exchange rate indicates how much of the quote currency is needed to purchase one unit of the base currency.

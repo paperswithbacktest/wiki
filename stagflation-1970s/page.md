@@ -1,6 +1,8 @@
 ---
-title: "Stagflation of the 1970s (Algo Trading)"
-description: "Explore the stagflation of the 1970s and its impact on economic policies and algorithmic trading evolution offering insights into today's financial landscape."
+category: quant_concept
+description: Explore the stagflation of the 1970s and its impact on economic policies
+  and algorithmic trading evolution offering insights into today's financial landscape.
+title: Stagflation of the 1970s (Algo Trading)
 ---
 
 The 1970s was a pivotal decade in economic history, marked by profound challenges and transformations. One of the most defining aspects of this period was the emergence of stagflation, a term that combines stagnation and inflation, which dominated the economic landscape of this era. This unusual combination of high inflation, stagnant economic growth, and rising unemployment posed significant challenges to traditional economic theories and policies.

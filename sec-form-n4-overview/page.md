@@ -1,6 +1,9 @@
 ---
-title: "SEC Form N-4 Overview (Algo Trading)"
-description: "Explore the role of SEC Form N-4 in annuities and its regulation of variable annuities. Learn about algorithmic trading and its impact on automated investing strategies."
+category: quant_concept
+description: Explore the role of SEC Form N-4 in annuities and its regulation of variable
+  annuities. Learn about algorithmic trading and its impact on automated investing
+  strategies.
+title: SEC Form N-4 Overview (Algo Trading)
 ---
 
 The financial trading world is vast and intricate, characterized by diverse instruments and regulatory frameworks that are pivotal for ensuring compliance and transparency. Among these, annuities, SEC Form N-4, and algorithmic trading each play significant roles. Annuities, a staple in retirement planning, offer a steady income stream, typically provided by insurance companies. They require a comprehensive understanding of associated risks, costs, and benefits, which are detailed in the annuity prospectus.

@@ -1,6 +1,9 @@
 ---
-title: "Arbitrage Bonds (Algo Trading)"
-description: "Explore the world of bond arbitrage and algorithmic trading uncovering strategies that leverage market inefficiencies for profits through advanced tech and quantitative analysis."
+category: trading_strategy
+description: Explore the world of bond arbitrage and algorithmic trading uncovering
+  strategies that leverage market inefficiencies for profits through advanced tech
+  and quantitative analysis.
+title: Arbitrage Bonds (Algo Trading)
 ---
 
 Bond arbitrage is a sophisticated financial strategy designed to exploit inefficiencies in the bond market to generate profits. This technique involves identifying and capitalizing on pricing discrepancies between similar or related bonds, providing opportunities for financial gain. Bond arbitrage strategies are built on the principles of risk management and profitability, often employing advanced mathematical models and quantitative analysis to maximize returns.

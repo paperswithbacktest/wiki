@@ -1,7 +1,8 @@
 ---
-title: Understanding Convex Sets and Optimization in Machine Learning
+category: quant_concept
 description: Convex sets in machine learning ensure cost functions reach global minima
   by simplifying optimization and boosting model reliability Discover more inside
+title: Understanding Convex Sets and Optimization in Machine Learning
 ---
 
 ![Image](images/1.png)

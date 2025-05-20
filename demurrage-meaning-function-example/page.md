@@ -1,6 +1,8 @@
 ---
-title: "Demurrage: Meaning, Function, and Example (Algo Trading)"
-description: "Discover the pivotal role of demurrage, cargo fees, and algorithmic trading in logistics. Learn to optimize costs and enhance efficiency in supply chain operations."
+category: quant_concept
+description: Discover the pivotal role of demurrage, cargo fees, and algorithmic trading
+  in logistics. Learn to optimize costs and enhance efficiency in supply chain operations.
+title: 'Demurrage: Meaning, Function, and Example (Algo Trading)'
 ---
 
 In the complex domains of logistics and finance, grasping specific terminologies such as demurrage, cargo fees, and algorithmic trading is pivotal for gaining a competitive edge. These elements are integral to the operational costs and strategic financial planning of businesses involved in the movement and management of goods. Demurrage charges, in particular, are a prevalent concern, impacting the financial outcomes for companies engaged in shipping and transportation. These charges arise when cargo or shipping containers exceed the allotted free time at a port or terminal, leading to additional costs that can affect the overall efficiency and cost-effectiveness of logistics operations.

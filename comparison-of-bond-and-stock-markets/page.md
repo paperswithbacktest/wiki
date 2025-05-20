@@ -1,6 +1,8 @@
 ---
-title: "Comparison of Bond and Stock Markets (Algo Trading)"
-description: "Explore the dynamics of bond and stock markets with a focus on algo trading's transformative role enhancing transaction speed and market efficiency."
+category: quant_concept
+description: Explore the dynamics of bond and stock markets with a focus on algo trading's
+  transformative role enhancing transaction speed and market efficiency.
+title: Comparison of Bond and Stock Markets (Algo Trading)
 ---
 
 The financial markets are a crucial component of the global economy, providing platforms for the exchange of financial securities such as stocks and bonds. These markets serve as mechanisms for companies to raise capital, for governments to finance public expenditures, and for investors to earn returns on their investments. The stock market and bond market are two fundamental sectors within these financial markets, each offering distinct investment opportunities characterized by varying risk and return profiles.

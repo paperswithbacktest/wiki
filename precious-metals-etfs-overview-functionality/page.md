@@ -1,6 +1,9 @@
 ---
-title: "Precious Metals ETFs: Overview and Functionality (Algo Trading)"
-description: "Discover how precious metals ETFs offer a modern investment approach while exploring the role of algorithmic trading in optimizing trading strategies and ETF performance."
+category: quant_concept
+description: Discover how precious metals ETFs offer a modern investment approach
+  while exploring the role of algorithmic trading in optimizing trading strategies
+  and ETF performance.
+title: 'Precious Metals ETFs: Overview and Functionality (Algo Trading)'
 ---
 
 Precious metals have long been prized for their intrinsic value and beauty, serving as a form of currency, a store of wealth, and an investment asset across different civilizations throughout history. Gold, silver, platinum, and palladium are the most notable precious metals, with gold especially maintaining a symbolic and economic significance across cultures for millennia. The historical significance of these metals lies not only in their decorative and practical uses but also in their ability to retain value over time, particularly during periods of economic uncertainty or inflation.

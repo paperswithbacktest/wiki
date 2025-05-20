@@ -1,6 +1,8 @@
 ---
-title: "Green Card: Definition, Function, and Eligibility Criteria (Algo Trading)"
-description: "Explore the intricacies of the Green Card lottery and the world of algorithmic trading Learn about eligibility criteria while understanding modern investment strategies"
+category: quant_concept
+description: Explore the intricacies of the Green Card lottery and the world of algorithmic
+  trading Learn about eligibility criteria while understanding modern investment strategies
+title: 'Green Card: Definition, Function, and Eligibility Criteria (Algo Trading)'
 ---
 
 Understanding the nuances of immigration and investment processes can offer individuals pathways to stability and prosperity. The Green Card lottery, officially known as the Diversity Visa (DV) Program, represents a significant avenue for individuals from underrepresented countries to secure permanent residency in the United States. Established by the Immigration Act of 1990, this program aims to enhance the diversity of immigrants entering the U.S. by offering opportunities specifically to those originating from countries with low immigration rates. Each year, around 55,000 visas are made available through a randomized drawing, providing a life-changing opportunity for many aspiring immigrants.
@@ -114,4 +116,3 @@ For those interested in algorithmic trading strategies, numerous publications di
 Researchers and practitioners can further benefit from exploring scholarly articles on computational techniques in modern trading. Journals such as the *Journal of Financial Markets* and the *Journal of Computational Finance* frequently publish papers detailing new algorithms and their impact on trading efficiency and risk management.
 
 Additionally, staying updated on immigration policy developments is vital for understanding the broader context of the Diversity Visa Program. This information is regularly updated on government websites and through policy analysis reports released by think tanks and research institutes focused on immigration. These platforms provide analyses of legislative changes, offering perspectives on how they might affect future immigration flows and related economic outcomes.
-

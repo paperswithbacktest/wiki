@@ -1,6 +1,8 @@
 ---
-title: "At-the-Close Order (Algo Trading)"
-description: "Discover the intricacies of at-the-close orders and algorithmic trading Learn strategic approaches for optimal trade executions in modern financial markets"
+category: trading_strategy
+description: Discover the intricacies of at-the-close orders and algorithmic trading
+  Learn strategic approaches for optimal trade executions in modern financial markets
+title: At-the-Close Order (Algo Trading)
 ---
 
 In today's fast-paced financial markets, efficient trade execution is crucial for successful stock trading. As the complexity and volume of transactions continue to increase, traders require strategies that maximize their effectiveness while minimizing risks. One key component of effective trade execution is the use of specialized orders, such as the 'at-the-close' order. This type of order enables traders to execute trades at the market's closing price, or as close as possible, providing an opportunity to settle trades without the volatility often associated with intraday price fluctuations. 

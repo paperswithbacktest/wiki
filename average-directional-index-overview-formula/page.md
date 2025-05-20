@@ -1,6 +1,8 @@
 ---
-title: "Average Directional Index: Overview and Formula (Algo Trading)"
-description: "Enhance your trading strategies by integrating the Average Directional Index for gauging trend strength and refining decisions in algorithmic trading systems."
+category: quant_concept
+description: Enhance your trading strategies by integrating the Average Directional
+  Index for gauging trend strength and refining decisions in algorithmic trading systems.
+title: 'Average Directional Index: Overview and Formula (Algo Trading)'
 ---
 
 In the world of finance, traders are perpetually on the lookout for tools and strategies that can improve their decision-making capabilities. Among these tools, technical analysis is pivotal in spotting potential trading opportunities by analyzing statistical trends derived from historical price data and trading volumes. A key instrument within technical analysis is the Average Directional Index (ADX), an indicator extensively employed to gauge the strength of a price trend.

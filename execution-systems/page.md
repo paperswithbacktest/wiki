@@ -1,6 +1,14 @@
 ---
-title: "Execution systems (Algo Trading)"
-description: Explore the pivotal role of execution systems in algorithmic trading as they automate trade execution processes and enhance trading efficiency. Execution systems optimize costs by employing algorithms to minimize market impact and ensure prompt, strategic trade execution. By utilizing historical data and real-time analytics, these systems manage order sizes and timing, reducing trading costs and maximizing profitability in swiftly changing financial markets. Discover the sophisticated frameworks behind execution systems that enable traders to maintain a competitive edge by optimizing strategy implementation and preserving cost-effectiveness.
+category: quant_concept
+description: Explore the pivotal role of execution systems in algorithmic trading
+  as they automate trade execution processes and enhance trading efficiency. Execution
+  systems optimize costs by employing algorithms to minimize market impact and ensure
+  prompt, strategic trade execution. By utilizing historical data and real-time analytics,
+  these systems manage order sizes and timing, reducing trading costs and maximizing
+  profitability in swiftly changing financial markets. Discover the sophisticated
+  frameworks behind execution systems that enable traders to maintain a competitive
+  edge by optimizing strategy implementation and preserving cost-effectiveness.
+title: Execution systems (Algo Trading)
 ---
 
 Algorithmic trading has significantly transformed the operations of financial markets by instituting a systematic methodology for trade execution. It employs computer algorithms to automate trading decisions, ensuring rapid and precise execution, minimizing human intervention. This paradigm shift has reshaped trading dynamics, allowing for the handling of large volumes with enhanced efficiency.

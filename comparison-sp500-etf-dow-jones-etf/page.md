@@ -1,6 +1,8 @@
 ---
-title: "Comparison of S&P 500 ETF and Dow Jones ETF (Algo Trading)"
-description: "Explore the differences between S&P 500 ETF and Dow Jones ETF to enhance your investment strategy Learn about algorithmic trading and key performance insights"
+category: trading_strategy
+description: Explore the differences between S&P 500 ETF and Dow Jones ETF to enhance
+  your investment strategy Learn about algorithmic trading and key performance insights
+title: Comparison of S&P 500 ETF and Dow Jones ETF (Algo Trading)
 ---
 
 Investing in Exchange-Traded Funds (ETFs) has garnered significant attention among both new and seasoned investors. This interest stems primarily from the inherent benefits of ETFs, such as diversification and cost-effectiveness. Among the various ETF options available, the S&P 500 ETF and the Dow Jones ETF stand out as two of the most widely traded and recognized products in the financial markets.

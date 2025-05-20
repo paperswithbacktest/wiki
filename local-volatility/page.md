@@ -1,6 +1,8 @@
 ---
-title: "Local volatility (Algo Trading)"
-description: "Discover the crucial role of local volatility in pricing derivatives and the impact of algo trading in modern finance for optimizing trade strategies."
+category: quant_concept
+description: Discover the crucial role of local volatility in pricing derivatives
+  and the impact of algo trading in modern finance for optimizing trade strategies.
+title: Local volatility (Algo Trading)
 ---
 
 In the dynamic landscape of financial markets, understanding the interplay of various instruments is key to crafting advanced trading strategies. Local volatility plays a crucial role in the pricing of financial derivatives, which are financial instruments deriving their value from underlying assets such as stocks, bonds, or commodities. Unlike constant volatility models, local volatility models consider volatility as a function of both time and the asset’s current level, providing a more detailed approach to option pricing. This nuanced understanding is essential for accurately evaluating derivatives, particularly exotic options that possess unique payoff structures.
@@ -144,4 +146,3 @@ Gatheral, J. (2006). *The Volatility Surface: A Practitioner's Guide.* Wiley. Th
 Hull, J. C. (2017). *Options, Futures, and Other Derivatives* (9th Edition). Pearson. Hull's textbook is an authoritative resource in derivative securities, offering comprehensive coverage of fundamental and advanced concepts in options and futures markets, including the pivotal Black-Scholes model and its assumptions about constant volatility.
 
 Black, F., & Scholes, M. (1973). *The Pricing of Options and Corporate Liabilities.* Journal of Political Economy. This seminal paper introduced the Black-Scholes model, a groundbreaking approach for pricing options that set the foundation for modern derivatives markets. Despite its assumptions of constant volatility and Brownian motion, the model remains influential in financial modeling and is the basis for subsequent developments in local and stochastic volatility models.
-

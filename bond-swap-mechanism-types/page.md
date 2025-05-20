@@ -1,6 +1,9 @@
 ---
-title: "Bond Swap: Mechanism and Types (Algo Trading)"
-description: "Explore bond swaps and algorithmic trading to optimize your investment strategy. Understand how these tools improve portfolio performance and mitigate risks."
+category: trading_strategy
+description: Explore bond swaps and algorithmic trading to optimize your investment
+  strategy. Understand how these tools improve portfolio performance and mitigate
+  risks.
+title: 'Bond Swap: Mechanism and Types (Algo Trading)'
 ---
 
 The world of finance is vast and interconnected, offering a wide range of financial instruments and strategies to investors. Among these, bond swaps and algorithmic trading have become important elements in portfolio management and trading strategies. Bond swaps allow investors to sell one bond and purchase another, often to improve yield, manage risk, or achieve tax efficiency. On the other hand, algorithmic trading involves using computer algorithms to execute trades swiftly and efficiently, often benefiting from market fluctuations.

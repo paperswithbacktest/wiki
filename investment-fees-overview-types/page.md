@@ -1,6 +1,8 @@
 ---
-title: "Investment Fees: Overview and Types (Algo Trading)"
-description: "Explore the impact of investment fees and algorithmic trading on portfolio returns. Learn cost management strategies to enhance financial outcomes."
+category: quant_concept
+description: Explore the impact of investment fees and algorithmic trading on portfolio
+  returns. Learn cost management strategies to enhance financial outcomes.
+title: 'Investment Fees: Overview and Types (Algo Trading)'
 ---
 
 Financial charges and fees play a pivotal role in the investment landscape, forming an essential consideration for anyone engaged in financial markets. These charges encompass various costs that investors incur during the process of buying, holding, and selling investments. Understanding these fees is critical for investors as they can significantly influence the overall profitability of an investment portfolio. Even minor fees, when compounded over time, can erode substantial portions of returns, making awareness and management of these costs imperative. For instance, a seemingly small annual fee of 1% on a $100,000 investment can result in a loss of over $28,000 in potential returns over 20 years, assuming a 5% annual return rate.

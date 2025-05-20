@@ -1,6 +1,8 @@
 ---
-title: "Corridor Rule: Explanation and Application (Algo Trading)"
-description: "Explore the pivotal role of the Corridor Rule in managing pension plan expenses in financial statements and its synergy with actuarial science in trading."
+category: quant_concept
+description: Explore the pivotal role of the Corridor Rule in managing pension plan
+  expenses in financial statements and its synergy with actuarial science in trading.
+title: 'Corridor Rule: Explanation and Application (Algo Trading)'
 ---
 
 In today's complex financial landscape, having a comprehensive understanding of pension plans, actuarial science, and modern trading mechanisms is essential for effective financial planning and investment strategies. Pension plans are integral to ensuring financial security during retirement, providing either defined benefits or contributions that require careful management and reporting by both employers and employees. Meanwhile, the Corridor Rule significantly impacts the presentation of pension expenses, helping manage the volatility in financial statements due to actuarial gains or losses.

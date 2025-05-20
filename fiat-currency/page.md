@@ -1,6 +1,10 @@
 ---
-title: "Fiat Currency (Algo Trading)"
-description: "Explore how fiat currency and algorithmic trading shape modern economies in this comprehensive guide. Understand the role of fiat currency in economic policies and how algorithmic trading is transforming financial markets with speed and efficiency. Discover their influence on market dynamics, economic stability, and growth opportunities."
+category: quant_concept
+description: Explore how fiat currency and algorithmic trading shape modern economies
+  in this comprehensive guide. Understand the role of fiat currency in economic policies
+  and how algorithmic trading is transforming financial markets with speed and efficiency.
+  Discover their influence on market dynamics, economic stability, and growth opportunities.
+title: Fiat Currency (Algo Trading)
 ---
 
 In the ever-evolving world of finance and economics, understanding the intricacies of money supply and currency forms is crucial. Fiat currency, a dominant form in global economies, plays a fundamental role in shaping economic policies. Unlike money that is backed by physical commodities such as gold or silver, fiat currency derives its value from the trust and authority of the government that issues it. This form of currency allows greater flexibility in monetary policy, enabling governments to adapt more readily to economic conditions and foster economic stability and growth.

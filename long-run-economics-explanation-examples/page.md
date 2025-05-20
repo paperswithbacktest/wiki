@@ -1,6 +1,8 @@
 ---
-title: "Long Run in Economics: Explanation and Examples (Algo Trading)"
-description: "Explore how long-run economic principles intersect with algorithmic trading to enhance decision-making through cost analysis, market dynamics, and technology."
+category: trading_strategy
+description: Explore how long-run economic principles intersect with algorithmic trading
+  to enhance decision-making through cost analysis, market dynamics, and technology.
+title: 'Long Run in Economics: Explanation and Examples (Algo Trading)'
 ---
 
 In the contemporary financial landscape, the intersection of economics and algorithmic trading offers unique insights and opportunities. This fusion allows for the development of sophisticated trading strategies that leverage economic principles to optimize performance and enhance outcomes. The focus of this article is to explore the synergies between long-run economic principles and algorithmic trading, shedding light on how these two domains can be integrated for improved strategic decision-making.
@@ -169,4 +171,3 @@ Furthermore, staying updated with the latest studies and industry reports is ess
 To complement these resources, engaging with online platforms like arXiv.org for preprints and SSRN (Social Science Research Network) can be beneficial. These platforms host a plethora of working papers and research articles from finance and economics scholars worldwide, offering early access to cutting-edge research that can influence trading strategies.
 
 Adopting this comprehensive approach to further reading will provide valuable knowledge that can be directly applied in refining algorithmic trading methodologies. By integrating insights from [books](/wiki/algo-trading-books), journals, reports, and online resources, traders and researchers can develop more robust and forward-looking trading strategies that effectively combine economic understanding with algorithmic precision.
-

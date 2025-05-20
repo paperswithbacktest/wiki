@@ -1,6 +1,8 @@
 ---
-title: "TED Spread: Explanation, Application, and Calculation (Algo Trading)"
-description: "Learn about the TED Spread its importance in assessing credit risk and market liquidity and how it applies to algorithmic trading for informed market decisions."
+category: quant_concept
+description: Learn about the TED Spread its importance in assessing credit risk and
+  market liquidity and how it applies to algorithmic trading for informed market decisions.
+title: 'TED Spread: Explanation, Application, and Calculation (Algo Trading)'
 ---
 
 Financial metrics are essential for comprehending and navigating the complex landscape of financial markets. Among these metrics, interest rate spreads and the TED Spread are pivotal indicators that analysts and traders frequently rely upon. Interest rate spreads, which signify the difference between interest rates on various financial instruments, provide insights into market conditions, risk assessments, and potential investment opportunities. The TED Spread, defined as the difference between the three-month Treasury bill rate and the three-month LIBOR, serves as a critical gauge of credit risk and market liquidity.

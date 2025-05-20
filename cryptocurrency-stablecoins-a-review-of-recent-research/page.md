@@ -1,6 +1,14 @@
 ---
-title: "Cryptocurrency Stablecoins – A Review of Recent Research"
-description: Explore the dynamic world of stablecoins with this insightful review of recent research highlighting their role in the cryptocurrency landscape. Learn how stablecoins maintain stability against fiat currencies and address the volatility of traditional cryptocurrencies. Understand their impact on financial systems, fostering inclusivity and reducing reliance on intermediaries. Delve into algorithmic trading strategies utilizing stablecoins for optimized transactions. Discover the transformative potential stablecoins hold in bridging the gap between digital currencies and traditional finance, supporting more efficient and decentralized financial operations globally.
+category: quant_concept
+description: Explore the dynamic world of stablecoins with this insightful review
+  of recent research highlighting their role in the cryptocurrency landscape. Learn
+  how stablecoins maintain stability against fiat currencies and address the volatility
+  of traditional cryptocurrencies. Understand their impact on financial systems, fostering
+  inclusivity and reducing reliance on intermediaries. Delve into algorithmic trading
+  strategies utilizing stablecoins for optimized transactions. Discover the transformative
+  potential stablecoins hold in bridging the gap between digital currencies and traditional
+  finance, supporting more efficient and decentralized financial operations globally.
+title: Cryptocurrency Stablecoins – A Review of Recent Research
 ---
 
 Cryptocurrencies, particularly Bitcoin, have captured significant attention since the release of its white paper by an anonymous entity known as Satoshi Nakamoto in 2008. Designed as a decentralized digital currency, Bitcoin promised rapid transactions with lower fees compared to traditional financial systems. However, its price volatility has impeded its broader acceptance as a stable medium of exchange. For instance, Bitcoin's value could swing drastically within short periods, impacting its reliability for everyday transactions and savings.

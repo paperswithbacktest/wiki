@@ -1,6 +1,8 @@
 ---
-title: "Ceteris Paribus in Economics (Algo Trading)"
-description: "Discover how the concept of ceteris paribus in economic theory is integrated into algorithmic trading to enhance strategies and predict market behaviors."
+category: quant_concept
+description: Discover how the concept of ceteris paribus in economic theory is integrated
+  into algorithmic trading to enhance strategies and predict market behaviors.
+title: Ceteris Paribus in Economics (Algo Trading)
 ---
 
 In today's rapidly evolving financial landscape, trading practices are increasingly dominated by the integration of economic principles and technological advancements. At the core of economic theory lies the concept of ceteris paribus, a Latin term meaning "all other things being equal." This notion allows economists to focus on the impact of a single variable amidst the complex interplay of market forces, offering a foundational tool for understanding and predicting economic scenarios.

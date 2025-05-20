@@ -1,6 +1,8 @@
 ---
-title: "Calculation of Stock Futures Prices (Algo Trading)"
-description: "Explore the complex world of stock futures pricing and algorithmic trading Learn how precise calculations fuel strategies in this dynamic financial landscape"
+category: quant_concept
+description: Explore the complex world of stock futures pricing and algorithmic trading
+  Learn how precise calculations fuel strategies in this dynamic financial landscape
+title: Calculation of Stock Futures Prices (Algo Trading)
 ---
 
 The stock futures market plays a pivotal role in global finance by providing a mechanism for managing risk and facilitating speculation. Futures contracts are standardized agreements to buy or sell an asset at a predetermined price at a future date. They cater to a wide range of underlying assets, including stocks, commodities, indices, and currencies. The futures market offers liquidity, price discovery, and risk management tools essential for the stability and efficiency of financial markets worldwide.

@@ -1,6 +1,9 @@
 ---
-title: "Big Three Automakers Overview (Algo Trading)"
-description: "Explore the impact of algorithmic trading on the market capitalizations of the Big Three US automakers General Motors, Ford, and Stellantis in today's evolving auto industry."
+category: quant_concept
+description: Explore the impact of algorithmic trading on the market capitalizations
+  of the Big Three US automakers General Motors, Ford, and Stellantis in today's evolving
+  auto industry.
+title: Big Three Automakers Overview (Algo Trading)
 ---
 
 The Big Three automakers of the United States—General Motors, Ford, and Stellantis—have historically held significant positions in the global automotive industry. These companies not only epitomize American industrial might but also serve as pivotal players shaping automotive market trends and technological advancements. A key metric that reflects their standing and investor sentiment is market capitalization. Essentially, market capitalization, or market cap, is derived from the total market value of a company’s outstanding shares of stock. It serves as an indicator of the size of a company, providing investors insight into potential risk and growth opportunities. Market cap is particularly important in the automotive sector, as it reflects underlying business performance, strategic direction, and investor confidence.

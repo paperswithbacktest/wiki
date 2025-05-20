@@ -1,6 +1,8 @@
 ---
-title: "Zero-Coupon Certificate of Deposit (Algo Trading)"
-description: "Explore the synergy of zero-coupon CDs and algorithmic trading for diversified investment strategies maximize returns efficiently utilizing automated trading technology."
+category: quant_concept
+description: Explore the synergy of zero-coupon CDs and algorithmic trading for diversified
+  investment strategies maximize returns efficiently utilizing automated trading technology.
+title: Zero-Coupon Certificate of Deposit (Algo Trading)
 ---
 
 In today's dynamic financial landscape, investors are constantly exploring diverse options to maximize returns and manage risks. Among the myriad of investment instruments, Zero-coupon Certificates of Deposit (CDs) present a unique opportunity. Unlike traditional CDs, zero-coupon CDs do not offer periodic interest payments. Instead, they are issued at a discount to their face value, allowing investors to gain a return through appreciation when the CD reaches maturity. This characteristic makes zero-coupon CDs particularly attractive to those who can forgo regular interest payments in exchange for potential higher yields upon maturity and a simplified investment experience.

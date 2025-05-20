@@ -1,6 +1,9 @@
 ---
-title: "Covered Calls and Option Risk (Algo Trading)"
-description: "Explore covered calls and option risk within algorithmic trading Optimize your strategy by understanding how these complex financial tools can boost returns and manage risk"
+category: trading_strategy
+description: Explore covered calls and option risk within algorithmic trading Optimize
+  your strategy by understanding how these complex financial tools can boost returns
+  and manage risk
+title: Covered Calls and Option Risk (Algo Trading)
 ---
 
 Understanding complex financial instruments such as options can be daunting, but they provide remarkable flexibility for investors. Options allow investors to leverage positions, hedge against risks, and potentially enhance returns, making them an integral part of a sophisticated investment strategy. This article explores investment strategies, focusing primarily on covered calls and the risks associated with options and algorithmic trading.

@@ -1,6 +1,9 @@
 ---
-title: "Non-Security: Concept, Mechanism, and Valuation (Algo Trading)"
-description: "Explore the intricacies of valuing non-security financial instruments such as derivatives and commodities and the pivotal role of algorithmic trading in modern finance."
+category: quant_concept
+description: Explore the intricacies of valuing non-security financial instruments
+  such as derivatives and commodities and the pivotal role of algorithmic trading
+  in modern finance.
+title: 'Non-Security: Concept, Mechanism, and Valuation (Algo Trading)'
 ---
 
 In the evolving landscape of finance, the valuation of financial mechanisms, particularly non-security instruments, has garnered significant interest. Non-security instruments, often overlooked, encompass a broad range of assets including derivatives, commodities, and insurance contracts. These instruments differ fundamentally from traditional securities like stocks and bonds as they do not represent either ownership in a company or a debt obligation.

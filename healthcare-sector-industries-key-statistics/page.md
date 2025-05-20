@@ -1,6 +1,9 @@
 ---
-title: "Healthcare Sector Industries and Key Statistics (Algo Trading)"
-description: "Explore the pivotal role of the healthcare industry in the global economy through key statistics and the influence of algorithmic trading on this evolving sector."
+category: dataset
+description: Explore the pivotal role of the healthcare industry in the global economy
+  through key statistics and the influence of algorithmic trading on this evolving
+  sector.
+title: Healthcare Sector Industries and Key Statistics (Algo Trading)
 ---
 
 The healthcare industry plays a crucial role in the global economy, encompassing diverse sectors such as pharmaceuticals, medical devices, and healthcare facilities. It represents a significant and essential component of economic systems worldwide, influencing various facets of societal wellbeing. With rapid technological advancements, the healthcare sector is undergoing pivotal growth and transformation, which is reshaping how services are delivered and managed.

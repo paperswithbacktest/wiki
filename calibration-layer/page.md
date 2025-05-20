@@ -1,7 +1,8 @@
 ---
-title: Machine Learning Calibration Layers For Reliable Predictions
+category: quant_concept
 description: Calibration layer techniques improve machine learning probability estimates
   and boost model trust for critical decisions Discover more inside
+title: Machine Learning Calibration Layers For Reliable Predictions
 ---
 
 ![Image](images/1.jpeg)

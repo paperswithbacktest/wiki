@@ -1,6 +1,12 @@
 ---
-title: "Analysis of Ally Invest (Algo Trading)"
-description: "Explore the comprehensive analysis of Ally Invest's trading platform, focusing on its algorithmic trading capabilities. Dive into its features, costs, user experience, and support to determine alignment with your trading goals. Ally Invest offers a cost-effective and user-friendly environment with seamless banking integration but may require third-party software for sophisticated algorithmic strategies. Discover whether this platform suits your investment needs and preferences."
+category: trading_strategy
+description: Explore the comprehensive analysis of Ally Invest's trading platform,
+  focusing on its algorithmic trading capabilities. Dive into its features, costs,
+  user experience, and support to determine alignment with your trading goals. Ally
+  Invest offers a cost-effective and user-friendly environment with seamless banking
+  integration but may require third-party software for sophisticated algorithmic strategies.
+  Discover whether this platform suits your investment needs and preferences.
+title: Analysis of Ally Invest (Algo Trading)
 ---
 
 The world of online investing offers a variety of platforms each competing for the attention of savvy traders and investors. Among these, Ally Invest stands out with its compelling mix of low costs and robust features. Designed to attract both novice and seasoned investors, Ally Invest provides an integrated suite of tools aimed at facilitating a streamlined trading experience. This brokerage service is part of Ally Financial, a company well-known for its comprehensive array of financial products. Ally Invest differentiates itself from many conventional brokerage platforms by emphasizing affordability with zero commissions on eligible U.S. securities and the absence of account minimums.

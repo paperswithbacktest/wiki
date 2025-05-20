@@ -1,6 +1,8 @@
 ---
-title: "SEC Form 10-K405 (Algo Trading)"
-description: "Explore the historical role of SEC Form 10-K405 in insider trading disclosures and its impact on algorithmic trading strategy development in today's markets."
+category: quant_concept
+description: Explore the historical role of SEC Form 10-K405 in insider trading disclosures
+  and its impact on algorithmic trading strategy development in today's markets.
+title: SEC Form 10-K405 (Algo Trading)
 ---
 
 In the evolving landscape of financial markets, understanding financial disclosures is crucial for making informed investment decisions. These disclosures serve as vital tools for investors, analysts, and market participants, allowing them to assess the financial health and strategic direction of companies. Among these, the SEC Form 10-K405 once played a significant role by providing insights into insider trading activities, a factor that can have profound implications on market perceptions and stock valuations.
@@ -121,4 +123,3 @@ For more information on SEC filings, please refer to the SEC's official website.
 "Quantitative Trading" by Ernest P. Chan provides practical guidance on crafting and implementing algorithmic trading strategies. Through its comprehensive approach, it highlights essential strategies and potential pitfalls, making it an excellent read for traders interested in optimizing their methodologies. The book offers a step-by-step introduction to critical concepts necessary for constructing successful quantitative trading models.
 
 These resources collectively provide a foundational understanding for stakeholders interested in SEC disclosures and the integration of technological advancements in the financial trading landscape.
-

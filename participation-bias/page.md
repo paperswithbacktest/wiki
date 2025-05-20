@@ -1,7 +1,8 @@
 ---
-title: Mitigating Participation Bias in Machine Learning Models
+category: quant_concept
 description: Participation bias can skew fairness, mitigate it with diverse data collection
   reweighting and bias detection to build equitable ML Discover more inside.
+title: Mitigating Participation Bias in Machine Learning Models
 ---
 
 ![Image](images/1.jpeg)

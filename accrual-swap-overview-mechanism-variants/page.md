@@ -1,6 +1,9 @@
 ---
-title: "Accrual Swap: Overview, Mechanism, and Variants (Algo Trading)"
-description: "Explore the dynamics of accrual swaps and their strategic applications in algo trading Learn how financial entities manage risk and enhance trade efficiency with swaps"
+category: quant_concept
+description: Explore the dynamics of accrual swaps and their strategic applications
+  in algo trading Learn how financial entities manage risk and enhance trade efficiency
+  with swaps
+title: 'Accrual Swap: Overview, Mechanism, and Variants (Algo Trading)'
 ---
 
 In the constantly evolving financial markets, managing exposure to volatility and risk is a fundamental concern for institutions and investors. One significant tool employed for this purpose is financial derivatives, which are contracts whose value is derived from an underlying entity such as assets, indices, or interest rates. Among these financial instruments, swaps play a critical role. Swaps involve the exchange of cash flows or other financial benefits between parties, typically to manage interest rate, currency, or commodity price exposure. These financial derivatives are pivotal not only in hedging existing risks but also in executing strategic, profit-driven financial transactions.

@@ -1,6 +1,12 @@
 ---
-title: "Economic Factors Contributing to US Dollar Depreciation (Algo Trading)"
-description: "Explore the factors leading to US dollar depreciation through this detailed examination of economic indicators such as inflation rates, interest rates, and political stability among others alongside the impact of algorithmic trading on forex markets. Discover how these elements interact to influence currency valuation offering critical insights for businesses investors and policymakers navigating the complex landscape of global finance."
+category: quant_concept
+description: Explore the factors leading to US dollar depreciation through this detailed
+  examination of economic indicators such as inflation rates, interest rates, and
+  political stability among others alongside the impact of algorithmic trading on
+  forex markets. Discover how these elements interact to influence currency valuation
+  offering critical insights for businesses investors and policymakers navigating
+  the complex landscape of global finance.
+title: Economic Factors Contributing to US Dollar Depreciation (Algo Trading)
 ---
 
 In today's global economy, understanding currency valuation is crucial for businesses, investors, and policymakers. The valuation of a currency determines the purchasing power of a nation's money relative to other currencies, affecting everything from international trade to local inflation rates. The US dollar, as the world's primary reserve currency, plays a pivotal role in international trade and finance, influencing economic activities across the globe.

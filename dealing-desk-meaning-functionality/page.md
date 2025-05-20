@@ -1,6 +1,8 @@
 ---
-title: "Dealing Desk: Meaning and Functionality (Algo Trading)"
-description: "Explore the intricacies of dealing desk brokers and algorithmic trading in the forex market Learn how these elements shape trading strategies and outcomes."
+category: quant_concept
+description: Explore the intricacies of dealing desk brokers and algorithmic trading
+  in the forex market Learn how these elements shape trading strategies and outcomes.
+title: 'Dealing Desk: Meaning and Functionality (Algo Trading)'
 ---
 
 Forex trading, or foreign exchange trading, is a market characterized by its high liquidity and the continuous operation across global time zones. As it evolves, the integration of advanced technologies and sophisticated trading strategies has profoundly transformed how traders engage with the market. Among these advancements, dealing desk brokers and algorithmic trading stand out as pivotal concepts, each playing a significant role in shaping the trading landscape.

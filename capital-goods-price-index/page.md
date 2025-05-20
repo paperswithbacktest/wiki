@@ -1,6 +1,9 @@
 ---
-title: "Capital Goods Price Index (Algo Trading)"
-description: "The Capital Goods Price Index is essential for tracking fixed capital asset price changes in New Zealand, aiding economic assessments and algorithmic trading strategies."
+category: dataset
+description: The Capital Goods Price Index is essential for tracking fixed capital
+  asset price changes in New Zealand, aiding economic assessments and algorithmic
+  trading strategies.
+title: Capital Goods Price Index (Algo Trading)
 ---
 
 The Capital Goods Price Index (CGPI) is a key economic indicator in New Zealand, providing critical insights into the price movements of fixed capital assets. These assets include residential and non-residential buildings, transportation equipment, plant machinery, and infrastructure projects. By monitoring changes in the prices of these goods, the CGPI plays a vital role in assessing economic inflation and guiding policy decisions. This article offers an examination of CGPI, highlighting its importance in economic assessments and algorithmic trading involving capital goods.

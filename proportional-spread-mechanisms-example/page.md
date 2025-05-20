@@ -1,6 +1,9 @@
 ---
-title: "Proportional Spread and Its Mechanisms (Algo Trading)"
-description: "Explore the intricacies of proportional spreads in algorithmic trading to understand how they influence market efficiency and decision-making in spread trading strategies."
+category: quant_concept
+description: Explore the intricacies of proportional spreads in algorithmic trading
+  to understand how they influence market efficiency and decision-making in spread
+  trading strategies.
+title: Proportional Spread and Its Mechanisms (Algo Trading)
 ---
 
 Financial markets operate through complex mechanisms, governed by various factors that influence trading decisions and strategies. Among these, spread trading and algorithmic trading strategies hold significant importance due to their potential for profit optimization and efficiency. Spread trading, a vital component of financial markets, involves the simultaneous purchase and sale of related securities, commodities, or financial instruments to capture price differences. This approach aims to exploit the relative movement or spread between the prices of these instruments.

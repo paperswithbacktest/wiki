@@ -1,6 +1,12 @@
 ---
-title: "Keynesian Economics: Theory and Applications (Algo Trading)"
-description: "Discover the intersection of Keynesian Economics and algorithmic trading in economic policy. Explore how the demand-driven principles of Keynesian theories shape contemporary macroeconomic strategies, and understand the impact of technological advancements like algorithmic trading on financial markets. Gain insights into the strategic role of fiscal and monetary policies in achieving economic stability and growth."
+category: quant_concept
+description: Discover the intersection of Keynesian Economics and algorithmic trading
+  in economic policy. Explore how the demand-driven principles of Keynesian theories
+  shape contemporary macroeconomic strategies, and understand the impact of technological
+  advancements like algorithmic trading on financial markets. Gain insights into the
+  strategic role of fiscal and monetary policies in achieving economic stability and
+  growth.
+title: 'Keynesian Economics: Theory and Applications (Algo Trading)'
 ---
 
 Macroeconomic policy represents a cornerstone of economic management, aiming to achieve broad objectives such as economic stability, growth, and employment generation. It operates in a complex environment influenced by various domestic and international factors. The significance of macroeconomic policy extends beyond its immediate economic implications, affecting social and political dimensions as well. It involves the strategic use of instruments like fiscal policy, monetary policy, and regulatory frameworks to navigate and influence economic dynamics.

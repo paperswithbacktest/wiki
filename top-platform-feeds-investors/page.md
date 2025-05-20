@@ -1,6 +1,9 @@
 ---
-title: "Top Platform Feeds for Investors (Algo Trading)"
-description: "Discover top platforms and feeds for investors focused on algo trading Utilize modern investment tools to access real-time data make informed decisions and stay competitive"
+category: dataset
+description: Discover top platforms and feeds for investors focused on algo trading
+  Utilize modern investment tools to access real-time data make informed decisions
+  and stay competitive
+title: Top Platform Feeds for Investors (Algo Trading)
 ---
 
 In the modern era of investing, technology has fundamentally transformed the landscape of information gathering and decision-making for investors. The proliferation of financial feeds, sophisticated investment platforms, and algorithmic trading systems represent significant advancements that have reshaped the financial industry. These innovations collectively provide an expansive suite of resources, empowering investors to navigate complex markets with greater insight and precision.

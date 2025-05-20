@@ -1,6 +1,14 @@
 ---
-title: "Weights (Algo Trading)"
-description: Explore the essential role of weights in algorithmic trading, understanding their influence on trade decisions and strategy optimization. Discover how weights prioritize market indicators, shaping trading outcomes and enhancing precision. This article investigates into various weighted strategies, their implementation, and the adaptability of algorithms in fluctuating market conditions. Gain insights into refining weights for improved trading performance, optimizing strategies through historical analysis, and using adaptive techniques to maintain a competitive edge in dynamic financial markets.
+category: quant_concept
+description: Explore the essential role of weights in algorithmic trading, understanding
+  their influence on trade decisions and strategy optimization. Discover how weights
+  prioritize market indicators, shaping trading outcomes and enhancing precision.
+  This article investigates into various weighted strategies, their implementation,
+  and the adaptability of algorithms in fluctuating market conditions. Gain insights
+  into refining weights for improved trading performance, optimizing strategies through
+  historical analysis, and using adaptive techniques to maintain a competitive edge
+  in dynamic financial markets.
+title: Weights (Algo Trading)
 ---
 
 Algorithmic trading, also known as algo trading, has significantly transformed financial markets by facilitating trades with unparalleled precision and speed. This transformation is largely driven by the mathematical and computational power embedded within trading algorithms. A key component in this context is the concept of 'weights', which refer to the importance assigned to various variables or inputs that form part of a trading algorithm.

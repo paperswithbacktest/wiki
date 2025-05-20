@@ -1,6 +1,9 @@
 ---
-title: "Regulatory Accounting Principles (Algo Trading)"
-description: "Integrating Regulatory Accounting Principles with algorithmic trading enhances financial compliance and accuracy in trading mechanisms, optimizing modern trading strategies."
+category: quant_concept
+description: Integrating Regulatory Accounting Principles with algorithmic trading
+  enhances financial compliance and accuracy in trading mechanisms, optimizing modern
+  trading strategies.
+title: Regulatory Accounting Principles (Algo Trading)
 ---
 
 The integration of regulatory accounting principles (RAP) with algorithmic trading represents a pivotal focus in the landscape of financial markets. As algorithmic trading has become a dominant force, managing vast transaction volumes with minimal human intervention, understanding the underlying accounting frameworks has become increasingly important. Regulatory Accounting Principles were initially designed to assist financial institutions, specifically savings and loan associations, in meeting capital requirements by allowing them to depict a stronger financial position. The ramifications of these principles, which were partly implicated in the savings and loan crisis of the late 1980s, underscore the need to comprehend RAP within a historical context to appreciate its impact today.

@@ -1,6 +1,8 @@
 ---
-title: "Equity Risk Premium Calculation Using Excel (Algo Trading)"
-description: "Discover how to calculate equity risk premium using Excel and enhance your algo trading strategies to optimize investment returns and manage risks effectively."
+category: quant_concept
+description: Discover how to calculate equity risk premium using Excel and enhance
+  your algo trading strategies to optimize investment returns and manage risks effectively.
+title: Equity Risk Premium Calculation Using Excel (Algo Trading)
 ---
 
 The modern financial landscape is marked by increasing complexity, characterized by an array of intricate terms and concepts that significantly influence investment decisions. Amidst this complex ecosystem, key financial calculations, such as the equity risk premium, play a crucial role. The equity risk premium, which measures the additional return expected from investing in equities over risk-free assets, is vital for evaluating potential equity investments and optimizing portfolio management. This metric is foundational in financial models like the Capital Asset Pricing Model (CAPM), used to predict expected returns by contrasting anticipated market returns with risk-free rates.

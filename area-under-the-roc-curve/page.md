@@ -1,7 +1,8 @@
 ---
-title: Understanding ROC Curves And AUC In Machine Learning
+category: quant_concept
 description: ROC Curve analysis clarifies classifier performance across thresholds
   and details how to use AUC for effective model evaluation Discover more inside
+title: Understanding ROC Curves And AUC In Machine Learning
 ---
 
 ![Image](images/1.png)

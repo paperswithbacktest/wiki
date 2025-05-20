@@ -1,6 +1,8 @@
 ---
-title: "Residual Dividend: Purpose and Example (Algo Trading)"
-description: "Explore the strategic residual dividend policy in corporate finance to prioritize growth reinvestment before shareholder payouts, enhancing long-term value."
+category: quant_concept
+description: Explore the strategic residual dividend policy in corporate finance to
+  prioritize growth reinvestment before shareholder payouts, enhancing long-term value.
+title: 'Residual Dividend: Purpose and Example (Algo Trading)'
 ---
 
 In the complex world of corporate finance, a company's dividend policy serves as a fundamental component influencing both investor returns and market perception. Dividend policies dictate how a company distributes its earnings, directly impacting investor satisfaction and the firm's reputation in the financial markets. Among the various approaches to dividend policy, the residual dividend policy stands out by prioritizing the reinvestment of profits over immediate dividend distribution to shareholders. This approach is particularly noteworthy as it emphasizes channeling earnings back into the company for growth and expansion before considering dividend payouts.

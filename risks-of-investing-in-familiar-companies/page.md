@@ -1,6 +1,8 @@
 ---
-title: "Risks of Investing in Familiar Companies (Algo Trading)"
-description: "Explore the risks of investing in familiar companies versus the opportunities and challenges of algorithmic trading in today's evolving financial markets."
+category: trading_strategy
+description: Explore the risks of investing in familiar companies versus the opportunities
+  and challenges of algorithmic trading in today's evolving financial markets.
+title: Risks of Investing in Familiar Companies (Algo Trading)
 ---
 
 The world of investments offers myriad opportunities for growth, but it's not without its risks. Navigating the financial landscape requires a thorough understanding of investment risks, which can arise from market volatility, economic factors, or specific strategies. Traditional investment strategies, such as investing in well-known companies, have long been popular among investors seeking safety and familiarity. Companies with established business models present an intuitive choice, giving investors a sense of predictability and security.

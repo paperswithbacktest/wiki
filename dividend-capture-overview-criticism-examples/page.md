@@ -1,6 +1,9 @@
 ---
-title: "Dividend Capture: Overview, Criticism, and Examples (Algo Trading)"
-description: "Discover strategic insights into dividend capture in algorithmic trading with a focus on techniques benefits risks and examples to optimize your investment returns"
+category: trading_strategy
+description: Discover strategic insights into dividend capture in algorithmic trading
+  with a focus on techniques benefits risks and examples to optimize your investment
+  returns
+title: 'Dividend Capture: Overview, Criticism, and Examples (Algo Trading)'
 ---
 
 Understanding investment strategies is essential for optimizing financial growth. One such strategy, particularly focused on leveraging stock dividends, is the dividend capture strategy. This approach involves purchasing dividend-paying stocks just before the ex-dividend date, capturing the declared dividend, and then selling the stock shortly after. Though seemingly simple, this strategy's timing-oriented execution requires a nuanced understanding of market dynamics and individual stock performance.

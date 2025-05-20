@@ -1,6 +1,15 @@
 ---
-title: "Portfolio Analysis: Calculating Risk and Returns (Algo Trading)"
-description: Explore the intricacies of algorithmic trading with a focus on portfolio analysis and the critical balance of risk and returns. This page investigates into the sophisticated realm of trading algorithms, the pivotal role of portfolios in risk management, and the essential concepts of asset allocation and diversification. Learn about key metrics such as the Sharpe Ratio, Alpha, and Beta that inform risk-adjusted return assessments, and discover strategies for optimizing trading outcomes through effective portfolio construction and analysis. Ideal for traders and financial enthusiasts, this comprehensive guide equips you with the knowledge needed for strategic, resilient trading in dynamic markets.
+category: trading_strategy
+description: Explore the intricacies of algorithmic trading with a focus on portfolio
+  analysis and the critical balance of risk and returns. This page investigates into
+  the sophisticated realm of trading algorithms, the pivotal role of portfolios in
+  risk management, and the essential concepts of asset allocation and diversification.
+  Learn about key metrics such as the Sharpe Ratio, Alpha, and Beta that inform risk-adjusted
+  return assessments, and discover strategies for optimizing trading outcomes through
+  effective portfolio construction and analysis. Ideal for traders and financial enthusiasts,
+  this comprehensive guide equips you with the knowledge needed for strategic, resilient
+  trading in dynamic markets.
+title: 'Portfolio Analysis: Calculating Risk and Returns (Algo Trading)'
 ---
 
 Algorithmic trading represents a significant evolution in financial markets, leveraging sophisticated algorithms and computational power to execute trades at speeds and efficiencies unmatched by human traders. The essence of algorithmic trading lies in its ability to process large datasets quickly, identify trading opportunities, and execute orders with precision. However, the success of algorithmic trading strategically hinges on the effective management of risk and return, ensuring that portfolios are not only profitable but also resilient against market adversities. 

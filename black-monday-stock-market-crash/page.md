@@ -1,6 +1,14 @@
 ---
-title: "Black Monday (Stock Market Crash) (Algo Trading)"
-description: "Explore the events of Black Monday in 1987 when the Dow Jones plummeted by 22.6% in a single day. Understand the role algorithmic trading played in this historic crash, highlighting how strategies like portfolio insurance inadvertently led to market chaos. This article examines the causes, impacts, and lessons learned from Black Monday, emphasizing the need for a balance between automated trading and human oversight to prevent future financial turmoil. Discover how this pivotal moment reshaped trading practices and regulatory frameworks, ensuring more resilient financial systems today."
+category: quant_concept
+description: Explore the events of Black Monday in 1987 when the Dow Jones plummeted
+  by 22.6% in a single day. Understand the role algorithmic trading played in this
+  historic crash, highlighting how strategies like portfolio insurance inadvertently
+  led to market chaos. This article examines the causes, impacts, and lessons learned
+  from Black Monday, emphasizing the need for a balance between automated trading
+  and human oversight to prevent future financial turmoil. Discover how this pivotal
+  moment reshaped trading practices and regulatory frameworks, ensuring more resilient
+  financial systems today.
+title: Black Monday (Stock Market Crash) (Algo Trading)
 ---
 
 October 19, 1987, known in financial history as Black Monday, marks a pivotal moment when the Dow Jones Industrial Average (DJIA) suffered an unprecedented one-day decline of 22.6%. This catastrophic event sent shockwaves throughout global financial markets, setting a somber precedent for market volatility.
@@ -88,4 +96,3 @@ Publications and studies on algorithmic trading and market regulations discuss t
 Books and articles exploring the evolution of trading strategies post-Black Monday address changes in trading paradigms in response to the 1987 crash. They assess developments in risk management practices, the advancement of trading technology, and the adaptation of financial strategies in an ever-evolving market landscape.
 
 Documentation on circuit breakers and regulatory responses to market volatility provides detailed accounts of the measures introduced to curb market instability. These documents outline the implementation of mechanisms to halt trading temporarily during severe market movements, promoting investor protection and preventing panic-induced sell-offs.
-

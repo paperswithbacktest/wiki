@@ -1,6 +1,11 @@
 ---
-title: "Monetary Accord of 1951 (Algo Trading)"
-description: "Explore the significance of the Monetary Accord of 1951 and its impact on the autonomy of the Federal Reserve and U.S. economic policy. Discover how this pivotal agreement set the stage for central bank independence and modern monetary frameworks, alongside the revolutionary developments in algorithmic trading that transform financial markets."
+category: quant_concept
+description: Explore the significance of the Monetary Accord of 1951 and its impact
+  on the autonomy of the Federal Reserve and U.S. economic policy. Discover how this
+  pivotal agreement set the stage for central bank independence and modern monetary
+  frameworks, alongside the revolutionary developments in algorithmic trading that
+  transform financial markets.
+title: Monetary Accord of 1951 (Algo Trading)
 ---
 
 The Federal Reserve, often referred to as the Fed, plays a critical role in the U.S. economy by influencing monetary policy, regulating financial institutions, and ensuring financial system stability. Established in 1913, its primary objectives are to manage inflation, promote maximum employment, and stabilize interest rates. The Fed's actions are crucial in shaping economic performance, as its monetary policies influence lending rates, consumer spending, and overall economic growth.

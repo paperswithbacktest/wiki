@@ -1,6 +1,8 @@
 ---
-title: "Bookout: Definition and Functionality (Algo Trading)"
-description: "Explore bookout functionality in algo trading and its role in enhancing trade efficiency and risk management by closing positions before maturity."
+category: quant_concept
+description: Explore bookout functionality in algo trading and its role in enhancing
+  trade efficiency and risk management by closing positions before maturity.
+title: 'Bookout: Definition and Functionality (Algo Trading)'
 ---
 
 In the fast-evolving world of trading, algorithmic trading, commonly known as algo trading, has gained immense popularity due to its ability to execute complex strategies with speed and precision. Central to the landscape of algo trading is the concept of bookout functionality, which plays a critical role in the efficient management of trading positions. Bookout functionality enables traders to close out open positions in swap contracts or other over-the-counter derivatives prior to their maturity dates, often involving cash settlements to reconcile differences in agreed prices.

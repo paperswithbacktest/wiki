@@ -1,6 +1,9 @@
 ---
-title: "Mutual Fund Pricing Methods (Algo Trading)"
-description: "Gain insights into mutual fund pricing methods and explore the impact of algorithmic trading on valuation and risk management for informed investment decisions."
+category: quant_concept
+description: Gain insights into mutual fund pricing methods and explore the impact
+  of algorithmic trading on valuation and risk management for informed investment
+  decisions.
+title: Mutual Fund Pricing Methods (Algo Trading)
 ---
 
 The financial landscape is constantly evolving, with investment funds such as mutual funds serving as key components in both individual and institutional portfolios. These funds are vital because they provide a medium for pooling resources, allowing investors to achieve diversification and professional management of their investments. Comprehending how these funds are priced and valued is essential for making informed investment decisions that align with one's financial goals and risk tolerance.

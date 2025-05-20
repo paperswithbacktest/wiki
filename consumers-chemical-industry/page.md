@@ -1,6 +1,8 @@
 ---
-title: "Consumers of the Chemical Industry (Algo Trading)"
-description: "Explore the intersection of the chemical industry and algorithmic trading to understand how technology can optimize operations, pricing, and market responsiveness."
+category: dataset
+description: Explore the intersection of the chemical industry and algorithmic trading
+  to understand how technology can optimize operations, pricing, and market responsiveness.
+title: Consumers of the Chemical Industry (Algo Trading)
 ---
 
 The chemical industry plays a pivotal role in the global economy, serving as a backbone for numerous sectors such as agriculture, automotive, pharmaceuticals, and consumer goods. It encompasses the conversion of raw materials like crude oil into a vast array of chemical products, from basic petrochemicals to sophisticated polymers and pharmaceuticals. This industry not only contributes significantly to global GDP but also influences various aspects of societal development, including healthcare, agriculture productivity, and technology innovation.

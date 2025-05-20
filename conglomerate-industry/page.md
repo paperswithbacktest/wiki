@@ -1,6 +1,9 @@
 ---
-title: "Conglomerate Industry (Algo Trading)"
-description: "Explore how business conglomerates leverage algorithmic trading to maintain a competitive edge achieving growth through advanced strategies and cross-industry synergies."
+category: quant_concept
+description: Explore how business conglomerates leverage algorithmic trading to maintain
+  a competitive edge achieving growth through advanced strategies and cross-industry
+  synergies.
+title: Conglomerate Industry (Algo Trading)
 ---
 
 Business conglomerates are large corporations that own a group of diverse subsidiaries, often spanning various industries and markets. These conglomerates are structured to achieve diversification, reduce investment risk, and harness cross-industry synergies. Subsidiaries within a conglomerate may operate independently, allowing each unit to leverage its specialized expertise while contributing to the conglomerate's overarching strategy. This business model has historically been employed to capitalize on economies of scale, optimize resource allocation, and maintain a steady flow of income across economic cycles.

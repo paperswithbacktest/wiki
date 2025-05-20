@@ -1,6 +1,9 @@
 ---
-title: "Bank Stress Test: Mechanism, Advantages, and Criticisms (Algo Trading)"
-description: "Explore how bank stress tests and algorithmic trading interact to ensure financial stability, assessing resilience and influencing market dynamics within the banking sector."
+category: quant_concept
+description: Explore how bank stress tests and algorithmic trading interact to ensure
+  financial stability, assessing resilience and influencing market dynamics within
+  the banking sector.
+title: 'Bank Stress Test: Mechanism, Advantages, and Criticisms (Algo Trading)'
 ---
 
 The banking industry is a cornerstone of the global financial system, responsible for facilitating transactions, providing credit, and managing economic risk. Financial stability within this sector is crucial, as banks hold significant amounts of public capital and are deeply integrated into economies worldwide. Maintaining this stability is complex, influenced by various factors, including market fluctuations, economic policies, and technological advancements.

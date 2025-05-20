@@ -1,6 +1,8 @@
 ---
-title: "Amount Realized in Finance (Algo Trading)"
-description: "Discover the vital role of 'amount realized' in finance and algorithmic trading, where accurate calculations of financial outcomes enhance trading strategies."
+category: quant_concept
+description: Discover the vital role of 'amount realized' in finance and algorithmic
+  trading, where accurate calculations of financial outcomes enhance trading strategies.
+title: Amount Realized in Finance (Algo Trading)
 ---
 
 In the constantly evolving world of finance, understanding the principles behind calculations such as 'amount realized' and its applications in algorithmic trading is crucial. The 'amount realized' represents the total monetary gain obtained from the sale of an asset. This metric is pivotal in assessing the financial outcome of a transaction, as it includes not only cash received but also the fair market value of any additional assets and liabilities assumed during the transaction.

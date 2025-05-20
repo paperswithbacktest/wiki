@@ -1,6 +1,9 @@
 ---
-title: "Revenue Sources of the NBA (Algo Trading)"
-description: "Explore the lucrative revenue streams of the NBA including TV rights merchandise sponsorships and ticket sales while highlighting its innovative business strategies"
+category: dataset
+description: Explore the lucrative revenue streams of the NBA including TV rights
+  merchandise sponsorships and ticket sales while highlighting its innovative business
+  strategies
+title: Revenue Sources of the NBA (Algo Trading)
 ---
 
 The National Basketball Association (NBA) operates as a dominant force in the global sports industry, transcending the conventional boundaries of basketball games and athletes. Renowned for its thrilling matches and iconic players, the NBA is equally significant for its sophisticated business model, marked by a complex web of financial operations. At its core, the NBA's financial engine is powered by lucrative television rights, thriving merchandising endeavors, extensive sponsorship deals, and robust ticket sales.
@@ -117,4 +120,4 @@ In conclusion, the NBA stands as a testament to the power of diverse revenue str
 
 [5]: Silver, D. (2019). ["NBA 2K League: The Growth and Future of Esports."](https://www.sciencedirect.com/science/article/pii/S014829632100312X) The Wall Street Journal.
 
-[6]: Willoughby, I. (2019). ["Sports Broadcast Rights and the Economic Impact on Leagues: The Case of the NBA."](https://www.academia.edu/86196870/Sports_Rights_and_the_Broadcast_Industry) Journal of Sport and Social Issues. 
+[6]: Willoughby, I. (2019). ["Sports Broadcast Rights and the Economic Impact on Leagues: The Case of the NBA."](https://www.academia.edu/86196870/Sports_Rights_and_the_Broadcast_Industry) Journal of Sport and Social Issues.

@@ -1,6 +1,8 @@
 ---
-title: "Methods Used by Mutual Fund Managers for Stock Selection (Algo Trading)"
-description: "Explore methods mutual fund managers use for stock selection, including fundamental analysis and algorithmic trading, and learn how to optimize portfolios."
+category: trading_strategy
+description: Explore methods mutual fund managers use for stock selection, including
+  fundamental analysis and algorithmic trading, and learn how to optimize portfolios.
+title: Methods Used by Mutual Fund Managers for Stock Selection (Algo Trading)
 ---
 
 Investing in today's financial landscape involves a diverse array of strategies and instruments. With the increasing complexity of global markets, investors are required to develop a solid understanding of various investment tools and strategies to make informed decisions. Key areas like stock selection, mutual fund management, and algorithmic trading form the cornerstone of modern investment decision-making. They offer a structured approach for investors seeking to optimize their portfolios and manage risks effectively.

@@ -1,6 +1,9 @@
 ---
-title: "Certificate of Deposit Index (Algo Trading)"
-description: "Explore the historical impact and continued influence of the Certificate of Deposit Index in algorithmic trading modern finance's fusion of traditional benchmarks and new strategies."
+category: trading_strategy
+description: Explore the historical impact and continued influence of the Certificate
+  of Deposit Index in algorithmic trading modern finance's fusion of traditional benchmarks
+  and new strategies.
+title: Certificate of Deposit Index (Algo Trading)
 ---
 
 The evolution of finance has ushered in an era of transformative investment options and trading techniques, driven by the advancement of technology. Among these innovations is the integration of algorithms in trading financial indices, a practice that has changed the landscape of financial markets. Algorithmic trading, which utilizes pre-programmed instructions to trade at high speeds and volumes, represents a dynamic fusion of finance and technology. It allows market participants to execute strategies based on quantitative models, leveraging data-driven insights for optimized decision-making.

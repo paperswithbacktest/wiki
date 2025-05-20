@@ -1,6 +1,9 @@
 ---
-title: "Notional Value of Futures Contracts (Algo Trading)"
-description: "Explore the critical role of notional value in futures contracts and its impact on algorithmic trading Learn how it aids in risk management and strategic decisions"
+category: quant_concept
+description: Explore the critical role of notional value in futures contracts and
+  its impact on algorithmic trading Learn how it aids in risk management and strategic
+  decisions
+title: Notional Value of Futures Contracts (Algo Trading)
 ---
 
 Understanding futures contracts is paramount for investors, traders, and financial professionals navigating the fast-paced financial sector. Central to these contracts is the concept of notional value, which serves as an essential metric for assessing the scale and exposure inherent in a trade. Notional value provides a theoretical measure of the value of assets tied to a leveraged position, offering insights into the magnitude of trades without necessitating the exchange of actual cash during the transaction.

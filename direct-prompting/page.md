@@ -1,7 +1,8 @@
 ---
-title: Understanding Direct Prompting in Machine Learning Applications
+category: quant_concept
 description: Direct prompting in machine learning uses clear instructions to produce
   accurate responses in translation chatbots and assistants Discover more inside
+title: Understanding Direct Prompting in Machine Learning Applications
 ---
 
 ![Image](images/1.jpeg)

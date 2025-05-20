@@ -1,6 +1,8 @@
 ---
-title: "Committee on Payment and Settlement Systems Overview (Algo Trading)"
-description: "Discover the evolution of payment systems and algorithmic trading's impact as the Committee on Payments and Market Infrastructures ensures financial stability."
+category: quant_concept
+description: Discover the evolution of payment systems and algorithmic trading's impact
+  as the Committee on Payments and Market Infrastructures ensures financial stability.
+title: Committee on Payment and Settlement Systems Overview (Algo Trading)
 ---
 
 The rapid evolution of finance and technology has necessitated the development of robust systems to manage transactions efficiently and securely. At the heart of this evolution are payment and settlement systems, which serve as the backbone of financial infrastructures globally. These systems enable the seamless transfer of funds, ensuring that payments are processed accurately and in a timely manner.

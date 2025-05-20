@@ -1,6 +1,15 @@
 ---
-title: "Andrew Lo (Algo Trading)"
-description: Andrew Wen-Chuan Lo is a leading figure in finance and algorithmic trading, renowned for his advancements in financial engineering and quantitative investment. His work integrates quantitative methods with behavioral insights, influencing hedge funds and investment banks globally. Through his Adaptive Markets Hypothesis, Lo offers a novel perspective on market dynamics, applying evolutionary principles to finance. As a professor and director at MIT, Lo combines rigorous research with practical applications, pioneering algorithmic trading innovations that leverage machine learning. His contributions continue to shape the future of finance, bridging theoretical frameworks with real-world impact.
+category: quant_concept
+description: Andrew Wen-Chuan Lo is a leading figure in finance and algorithmic trading,
+  renowned for his advancements in financial engineering and quantitative investment.
+  His work integrates quantitative methods with behavioral insights, influencing hedge
+  funds and investment banks globally. Through his Adaptive Markets Hypothesis, Lo
+  offers a novel perspective on market dynamics, applying evolutionary principles
+  to finance. As a professor and director at MIT, Lo combines rigorous research with
+  practical applications, pioneering algorithmic trading innovations that leverage
+  machine learning. His contributions continue to shape the future of finance, bridging
+  theoretical frameworks with real-world impact.
+title: Andrew Lo (Algo Trading)
 ---
 
 Andrew Wen-Chuan Lo, a prominent figure in the worlds of finance and algorithmic trading, has significantly advanced the fields of financial engineering and quantitative investment. As a professor and economist, Lo's research and theories have transformed how market participants understand and approach financial market complexities. His pioneering work in algorithmic trading has provided both theoretical frameworks and practical applications that have influenced the practices of hedge funds, investment banks, and financial academic research.

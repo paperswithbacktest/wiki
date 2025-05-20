@@ -1,6 +1,9 @@
 ---
-title: "Axe in Securities Trading (Algo Trading)"
-description: "Explore the importance of understanding the term 'axe' in securities trading and its implications on market strategies and dynamics, especially in algorithmic trading."
+category: quant_concept
+description: Explore the importance of understanding the term 'axe' in securities
+  trading and its implications on market strategies and dynamics, especially in algorithmic
+  trading.
+title: Axe in Securities Trading (Algo Trading)
 ---
 
 In the fast-paced world of financial markets, understanding key terms and concepts is essential for traders and investors. One such important term is 'axe' in securities trading, which often carries implications about a trader's intentions. In trading parlance, having an 'axe' to grind means having a specific interest in buying or selling a particular security that the trader already holds. This interest is not merely academic; it can shape strategies and influence market dynamics. The internal motivation behind a trader's axe often remains clandestine, allowing them to strategically position themselves without attracting undue attention from competitors.

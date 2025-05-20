@@ -1,6 +1,8 @@
 ---
-title: "Investing in Toronto Stock Exchange Equities (Algo Trading)"
-description: "Explore how algorithmic trading is transforming investments in Toronto Stock Exchange equities by enhancing trade efficiency and offering strategic advantages."
+category: trading_strategy
+description: Explore how algorithmic trading is transforming investments in Toronto
+  Stock Exchange equities by enhancing trade efficiency and offering strategic advantages.
+title: Investing in Toronto Stock Exchange Equities (Algo Trading)
 ---
 
 The Toronto Stock Exchange (TSX) stands as a cornerstone of Canada's financial landscape, playing a crucial role in the trading of Canadian equities. As one of the largest stock exchanges globally, the TSX provides a platform for companies within the financials, energy, and materials sectors—industries that are integral to both national and global economies. These sectors offer investors distinct investment opportunities due to Canada's abundant natural resources and robust economic infrastructure.

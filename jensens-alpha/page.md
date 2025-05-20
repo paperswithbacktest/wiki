@@ -1,6 +1,9 @@
 ---
-title: "Jensen's alpha (Algo Trading)"
-description: "Discover the power of Jensen's Alpha in algorithmic trading Learn how to assess portfolio performance and exceed market expectations with this essential metric"
+category: quant_concept
+description: Discover the power of Jensen's Alpha in algorithmic trading Learn how
+  to assess portfolio performance and exceed market expectations with this essential
+  metric
+title: Jensen's alpha (Algo Trading)
 ---
 
 Jensen's Alpha, also commonly referred to as Jensen's Ratio, is a fundamental financial metric employed to assess the risk-adjusted performance of investment portfolios and trading strategies. This measure is particularly useful in algorithmic trading, where it indicates a strategy's ability to deliver returns surpassing those of a benchmark index, after adjusting for the associated risk. Originating from the work of economist Michael Jensen, the concept relies on the Capital Asset Pricing Model (CAPM) to ascertain whether a portfolio's returns exceed market expectations.
@@ -168,4 +171,3 @@ Sharpe, W.F. (1964). 'Capital Asset Prices: A Theory of Market Equilibrium under
 Lintner, J. (1965). 'The Valuation of Risk Assets and the Selection of Risky Investments in Stock Portfolios and Capital Budgets.' This paper further explores CAPM's application in evaluating risky investments and forming capital budgets, complementing Sharpe’s development of the model.
 
 Bodie, Z., Kane, A., & Marcus, A.J. (2014). 'Investments.' McGraw-Hill Education. This textbook covers comprehensive investment strategies, including risk assessment and portfolio management, essential for applying Jensen's Alpha in financial analysis and algorithmic trading.
-

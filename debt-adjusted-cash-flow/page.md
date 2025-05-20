@@ -1,6 +1,8 @@
 ---
-title: "Debt-Adjusted Cash Flow (Algo Trading)"
-description: "Discover the power of Debt-Adjusted Cash Flow in financial analysis and algo trading strategies to accurately evaluate a company's true economic performance."
+category: quant_concept
+description: Discover the power of Debt-Adjusted Cash Flow in financial analysis and
+  algo trading strategies to accurately evaluate a company's true economic performance.
+title: Debt-Adjusted Cash Flow (Algo Trading)
 ---
 
 In today's fast-paced financial world, understanding key metrics is crucial for making informed investment decisions. One such essential metric is the Debt-Adjusted Cash Flow (DACF), which provides deep insights into a company's financial health, with particular relevance to sectors like oil and gas. DACF is increasingly recognized for its ability to account for the nuances of a company's debt obligations and cash flow, making it a valuable tool for investors and financial analysts alike.

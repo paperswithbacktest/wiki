@@ -1,6 +1,9 @@
 ---
-title: "Return on Innovation Investment (Algo Trading)"
-description: "Discover actionable insights on optimizing return on investment through innovation and algorithmic trading, enhancing profitability in the digital market landscape."
+category: quant_concept
+description: Discover actionable insights on optimizing return on investment through
+  innovation and algorithmic trading, enhancing profitability in the digital market
+  landscape.
+title: Return on Innovation Investment (Algo Trading)
 ---
 
 In the ever-evolving landscape of financial markets, return on investment (ROI) stands as a pivotal metric for gauging the profitability of various investment ventures. ROI provides investors with a straightforward means of assessing the efficiency and potential gains from their investments by calculating the ratio of net profit to the initial investment cost. This classic financial indicator proves indispensable for investors striving for optimal performance in increasingly complex markets.

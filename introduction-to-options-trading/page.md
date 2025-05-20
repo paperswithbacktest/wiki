@@ -1,6 +1,14 @@
 ---
-title: "Introduction to Options Trading (Algo Trading)"
-description: "Explore the intricacies of options trading with our in-depth guide focused on financial derivatives and algorithmic trading. Understand the essential role of options in risk management and opportunity leveraging while utilizing cutting-edge algo trading techniques for precise execution. This comprehensive resource provides insights into the balance of risk and reward in modern finance, empowering investors with strategies to enhance returns and safeguard against market volatility. Discover the synergy between derivatives and technology-driven trading for informed decision-making in a dynamic financial landscape."
+category: quant_concept
+description: Explore the intricacies of options trading with our in-depth guide focused
+  on financial derivatives and algorithmic trading. Understand the essential role
+  of options in risk management and opportunity leveraging while utilizing cutting-edge
+  algo trading techniques for precise execution. This comprehensive resource provides
+  insights into the balance of risk and reward in modern finance, empowering investors
+  with strategies to enhance returns and safeguard against market volatility. Discover
+  the synergy between derivatives and technology-driven trading for informed decision-making
+  in a dynamic financial landscape.
+title: Introduction to Options Trading (Algo Trading)
 ---
 
 Financial derivatives are integral tools in modern finance, allowing traders and investors to manage risk and leverage opportunities. These instruments derive their value from underlying assets, such as stocks, bonds, or commodities. Among the vast array of derivatives, options trading has emerged as a prominent field, offering unique strategies to balance investment rewards against associated risks. Options are contracts providing the right, but not the obligation, to buy or sell an underlying asset at a predetermined price, called the strike price, before a specific expiry date.

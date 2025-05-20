@@ -1,6 +1,8 @@
 ---
-title: "Russian Ruble: Overview of Russia's Currency (Algo Trading)"
-description: "Explore the significance of the Russian ruble in global finance and the impact of algorithmic trading on currency markets and trading strategies."
+category: quant_concept
+description: Explore the significance of the Russian ruble in global finance and the
+  impact of algorithmic trading on currency markets and trading strategies.
+title: 'Russian Ruble: Overview of Russia''s Currency (Algo Trading)'
 ---
 
 The Russian ruble (RUB) serves as the official currency of the Russian Federation and plays a vital role in the global financial system. Its significance extends beyond national borders, influencing international trade and investment flow. As one of the world's most widely-traded currencies, the RUB impacts various sectors, from energy to commodities, given Russia's prominent position in these markets. This article explores the multifaceted nature of the Russian ruble, examining its historical trajectory, value fluctuations, and the evolving landscape of currency trading, particularly through algorithmic strategies.

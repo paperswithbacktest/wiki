@@ -1,6 +1,8 @@
 ---
-title: "Cost of Penalising Models (Algo Trading)"
-description: "Exploring the costs of penalizing models in algorithmic trading, highlighting the balance between precision and profitability for traders optimizing strategies."
+category: trading_strategy
+description: Exploring the costs of penalizing models in algorithmic trading, highlighting
+  the balance between precision and profitability for traders optimizing strategies.
+title: Cost of Penalising Models (Algo Trading)
 ---
 
 Algorithmic trading has witnessed significant transformations, establishing itself as a vital component for traders aiming to enhance efficiency within financial markets. This technological advancement enables execution of complex trading strategies at unprecedented speeds while analyzing multiple variables in real-time. As these capabilities evolve, traders are increasingly reliant on algorithmic models that demand precision and adaptability.

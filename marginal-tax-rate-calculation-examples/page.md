@@ -1,6 +1,8 @@
 ---
-title: "Marginal Tax Rate and Calculation with Examples (Algo Trading)"
-description: "Explore the concept of marginal tax rates in progressive taxation and understand its impact on financial decisions and algorithmic trading strategies."
+category: quant_concept
+description: Explore the concept of marginal tax rates in progressive taxation and
+  understand its impact on financial decisions and algorithmic trading strategies.
+title: Marginal Tax Rate and Calculation with Examples (Algo Trading)
 ---
 
 Understanding the complexities of tax calculations can be daunting for many individuals, particularly when faced with varying tax principles that influence personal and financial decisions. This article aims to shed light on some of these foundational concepts by focusing on marginal tax rates and their broader implications. Marginal tax rates, which determine the tax levied on an additional dollar of income, play a crucial role in progressive taxation systems. These systems are designed to ensure that individuals with higher earnings contribute a proportionately larger share of their income in taxes.

@@ -1,6 +1,9 @@
 ---
-title: "Machine Learning in Trading (Algo Trading)"
-description: "Explore the rise of machine learning in algorithmic trading where AI analyzes vast data sets to enhance decision-making processes and optimize trading strategies."
+category: quant_concept
+description: Explore the rise of machine learning in algorithmic trading where AI
+  analyzes vast data sets to enhance decision-making processes and optimize trading
+  strategies.
+title: Machine Learning in Trading (Algo Trading)
 ---
 
 In the modern financial landscape, machine learning (ML) has emerged as a transformative force, particularly in algorithmic trading, commonly known as algo trading. As financial markets have evolved with increasing complexity, the demand for automated trading solutions has surged. ML offers a suite of sophisticated tools and techniques that address this need by automating the analysis of vast datasets, identifying patterns, and executing trades with minimal human intervention. This article explores the significance and application of ML in trading, highlighting its profound impact on the investment industry.

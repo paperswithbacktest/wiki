@@ -1,6 +1,8 @@
 ---
-title: "Callable Preferred Stock and Its Advantages (Algo Trading)"
-description: "Explore callable preferred stock advantages including high dividend yields and safety via priority in liquidation, enhanced by algorithmic trading strategies."
+category: quant_concept
+description: Explore callable preferred stock advantages including high dividend yields
+  and safety via priority in liquidation, enhanced by algorithmic trading strategies.
+title: Callable Preferred Stock and Its Advantages (Algo Trading)
 ---
 
 In the ever-evolving world of finance, investment strategies and financial instruments are pivotal in shaping an investor's portfolio. With continuous advancements in technology, investors are presented with a variety of instruments and strategies designed to optimize returns while managing risk. One such financial instrument is callable preferred stock, which combines features of both equity and debt, offering distinct advantages to issuers and investors alike.

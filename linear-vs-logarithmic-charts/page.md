@@ -1,6 +1,14 @@
 ---
-title: "Linear vs. Logarithmic Charts in Trading (Algo Trading)"
-description: "Explore the essential differences between linear and logarithmic charts in algorithmic trading with this informative guide. Each chart type offers unique advantages: linear charts provide straightforward visualization of absolute price changes, while logarithmic charts emphasize percentage changes, offering a more balanced view over large value ranges. Understanding these distinctions is crucial for traders aiming to enhance analytical precision and inform their trading strategies. Discover how selecting the right chart type can influence your perception of market trends and improve decision-making in your trading practices."
+category: quant_concept
+description: 'Explore the essential differences between linear and logarithmic charts
+  in algorithmic trading with this informative guide. Each chart type offers unique
+  advantages: linear charts provide straightforward visualization of absolute price
+  changes, while logarithmic charts emphasize percentage changes, offering a more
+  balanced view over large value ranges. Understanding these distinctions is crucial
+  for traders aiming to enhance analytical precision and inform their trading strategies.
+  Discover how selecting the right chart type can influence your perception of market
+  trends and improve decision-making in your trading practices.'
+title: Linear vs. Logarithmic Charts in Trading (Algo Trading)
 ---
 
 Algorithmic trading is an investment practice that employs computer algorithms to execute a significant number of trades at very high speeds. At the core of this process is data analysis, where the representation of data plays a critical role. The ability to effectively interpret market data hinges upon the type of charts used to visualize price movements over time. Among the most commonly used chart types in financial analysis are linear and logarithmic charts.

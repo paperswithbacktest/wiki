@@ -1,6 +1,15 @@
 ---
-title: "Legal Tender: Economic Functions and Examples (Algo Trading)"
-description: "Legal tender is a pivotal concept in economics, defining the money legally recognized for settling debts. This article explores its economic roles and significance in fostering transaction stability and trust. It examines currency functions including its use as a medium of exchange and store of value amidst evolving monetary systems like digital payments and cryptocurrencies. The rise of algorithmic trading highlights technological impacts on markets, enhancing transaction efficiency and reshaping financial landscapes. The discussion addresses the interaction between legal tender and market stability, emphasizing the importance of understanding these dynamics in navigating modern economic environments."
+category: quant_concept
+description: Legal tender is a pivotal concept in economics, defining the money legally
+  recognized for settling debts. This article explores its economic roles and significance
+  in fostering transaction stability and trust. It examines currency functions including
+  its use as a medium of exchange and store of value amidst evolving monetary systems
+  like digital payments and cryptocurrencies. The rise of algorithmic trading highlights
+  technological impacts on markets, enhancing transaction efficiency and reshaping
+  financial landscapes. The discussion addresses the interaction between legal tender
+  and market stability, emphasizing the importance of understanding these dynamics
+  in navigating modern economic environments.
+title: 'Legal Tender: Economic Functions and Examples (Algo Trading)'
 ---
 
 Legal tender is a critical concept in economics and finance, reflecting a form of money that is legally recognized for settling debts within a country. Its underpinning significance ensures that transactions occur smoothly in various economies, fostering stability and trust among market participants. Understanding legal tender's role and impact requires examining the broader functions of currency in economic systems. This article aims to explore these economic functions, specifically focusing on currency's roles as a medium of exchange, a unit of account, a store of value, and a standard of deferred payment.

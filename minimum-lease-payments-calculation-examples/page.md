@@ -1,6 +1,8 @@
 ---
-title: "Minimum Lease Payments and Calculation Examples (Algo Trading)"
-description: "Explore lease payment calculations for financial planning covering minimum lease payments and algorithmic optimization in trading for enhanced management."
+category: quant_concept
+description: Explore lease payment calculations for financial planning covering minimum
+  lease payments and algorithmic optimization in trading for enhanced management.
+title: Minimum Lease Payments and Calculation Examples (Algo Trading)
 ---
 
 Understanding lease payment calculations is essential in today's financial environment for both businesses and individuals. Leasing provides an appealing alternative to full asset ownership, offering flexibility and financial planning advantages, especially for assets prone to high depreciation or those with a finite useful life. This article seeks to clarify the complexities involved in lease payment examples, computations of minimum lease payments, and how lease calculations integrate into algorithmic trading.

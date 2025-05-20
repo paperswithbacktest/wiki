@@ -1,6 +1,9 @@
 ---
-title: "Foreign Exchange Market: Emergence and Growth (Algo Trading)"
-description: "Explore the growing impact of algorithmic trading in the Forex market, enhancing speed and efficiency for traders while minimizing human error in global currency exchanges."
+category: quant_concept
+description: Explore the growing impact of algorithmic trading in the Forex market,
+  enhancing speed and efficiency for traders while minimizing human error in global
+  currency exchanges.
+title: 'Foreign Exchange Market: Emergence and Growth (Algo Trading)'
 ---
 
 The world of financial markets is vast and complex, with the foreign exchange (Forex) market distinguishing itself as the largest and most liquid market globally. This market is where national currencies are traded, and its turnover surpasses any other asset class, with daily transactions exceeding $6 trillion as of recent estimates. Forex trading has advanced considerably over the years, primarily driven by technological innovation, which has transformed traditional trading methods. Algorithmic trading, or 'algo trading', represents a significant shift in how trades are executed in this market, utilizing advanced algorithms to automate trading decisions and strategies.

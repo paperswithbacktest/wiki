@@ -1,6 +1,9 @@
 ---
-title: "Bahrain Stock Exchange Overview (Algo Trading)"
-description: "Discover the Bahrain Stock Exchange's evolution to Bahrain Bourse and its embrace of algorithmic trading enhancing financial market efficiency and attracting investors."
+category: quant_concept
+description: Discover the Bahrain Stock Exchange's evolution to Bahrain Bourse and
+  its embrace of algorithmic trading enhancing financial market efficiency and attracting
+  investors.
+title: Bahrain Stock Exchange Overview (Algo Trading)
 ---
 
 The Bahrain Stock Exchange (BSE), established as a pivotal financial institution in the Gulf Cooperation Council (GCC) region, has played a significant role in the Middle East's financial landscape. Originally inaugurated in 1987, the BSE facilitated the trading of securities and served as a critical platform for capital raising, thereby contributing to the economic development of Bahrain. Its importance was not just confined to the national level; the BSE formed an integral part of the GCC financial markets, offering a gateway for investors seeking exposure to this economically vibrant region.

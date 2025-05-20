@@ -1,9 +1,12 @@
 ---
-title: "Callable Bonds: Types, Examples, Advantages and Disadvantages (Algo Trading)"
-description: "Explore the world of callable bonds including types examples benefits and risks associated with these flexible debt instruments and algorithmic trading integration"
+category: quant_concept
+description: Explore the world of callable bonds including types examples benefits
+  and risks associated with these flexible debt instruments and algorithmic trading
+  integration
+title: 'Callable Bonds: Types, Examples, Advantages and Disadvantages (Algo Trading)'
 ---
 
- to Bonds
+to Bonds
 
 Bonds play a critical role in the financial markets, serving as a reliable source of income and a fundamental component of many investment portfolios. They are debt securities, essentially loans made by investors to issuers such as corporations, municipalities, or governments. In exchange for the investment, issuers make periodic interest payments to investors and repay the principal amount at the bond's maturity.
 

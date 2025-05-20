@@ -1,7 +1,8 @@
 ---
-title: Deep Q-Network Architecture Explained for Reinforcement Learning
+category: quant_concept
 description: Deep Q-Network leverages neural networks and experience replay to stabilize
   decision making for AI tasks in complex environments Discover more inside
+title: Deep Q-Network Architecture Explained for Reinforcement Learning
 ---
 
 ![Image](images/1.png)

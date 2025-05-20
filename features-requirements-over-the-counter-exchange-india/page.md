@@ -1,6 +1,8 @@
 ---
-title: "Features and Requirements of the Over-The-Counter Exchange of India (Algo Trading)"
-description: "Discover how the Over-The-Counter Exchange of India empowers SMEs through flexible listing requirements and advances with algorithmic trading for market efficiency."
+category: quant_concept
+description: Discover how the Over-The-Counter Exchange of India empowers SMEs through
+  flexible listing requirements and advances with algorithmic trading for market efficiency.
+title: Features and Requirements of the Over-The-Counter Exchange of India (Algo Trading)
 ---
 
 The Over-The-Counter Exchange of India (OTCEI) serves as a crucial component of India's financial ecosystem, providing a dedicated platform for small- and medium-sized enterprises (SMEs) to access capital markets. This exchange was born out of a necessity to support businesses that often face hurdles in meeting the stringent requirements of larger stock exchanges. By offering an alternative route, OTCEI empowers these companies to issue securities and facilitates an inclusive financial environment catered to their unique needs.

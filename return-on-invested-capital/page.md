@@ -1,6 +1,8 @@
 ---
-title: "Return on Invested Capital (Algo Trading)"
-description: "Explore how Return on Invested Capital (ROIC) optimizes algorithmic trading by enhancing capital efficiency assessment to boost investment decisions and profitability."
+category: quant_concept
+description: Explore how Return on Invested Capital (ROIC) optimizes algorithmic trading
+  by enhancing capital efficiency assessment to boost investment decisions and profitability.
+title: Return on Invested Capital (Algo Trading)
 ---
 
 Understanding key financial metrics is essential for investors, analysts, and business leaders aiming to make informed decisions in the dynamic world of financial analysis. Among these metrics, Return on Invested Capital (ROIC) is frequently highlighted for its importance and utility in assessing a company's efficiency in utilizing its capital. ROIC serves as a critical indicator of a company's capacity to generate returns from its invested capital, offering insights into operational efficiency and profitability.

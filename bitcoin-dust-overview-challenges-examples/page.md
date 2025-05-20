@@ -1,6 +1,9 @@
 ---
-title: "Bitcoin Dust: Overview, Challenges, and Examples (Algo Trading)"
-description: "Explore the intricacies of Bitcoin dust and algorithmic trading to enhance your cryptocurrency portfolio. Uncover valuable strategies for effective crypto trading."
+category: quant_concept
+description: Explore the intricacies of Bitcoin dust and algorithmic trading to enhance
+  your cryptocurrency portfolio. Uncover valuable strategies for effective crypto
+  trading.
+title: 'Bitcoin Dust: Overview, Challenges, and Examples (Algo Trading)'
 ---
 
 Understanding the evolving landscape of blockchain and cryptocurrency is crucial for both traders and technology enthusiasts. As digital currencies continue to revolutionize financial ecosystems, gaining insights into blockchain transactions becomes pivotal. This article focuses on two key concepts: Bitcoin dust and algorithmic trading, both of which illustrate the complexities and potential opportunities within the crypto market.

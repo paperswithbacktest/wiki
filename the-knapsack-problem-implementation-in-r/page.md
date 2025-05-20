@@ -1,6 +1,13 @@
 ---
-title: "The Knapsack Problem Implementation in R"
-description: Explore the implementation of the Knapsack problem in R, a key combinatorial optimization challenge where maximizing item value within weight limits is crucial. This guide is aimed at algorithmic trading applications, using R to optimize asset selection by treating assets as items in the problem. Learn to leverage simulated annealing, a technique that approximates global optima by mimicking physical annealing, to enhance strategy robustness. Discover how R's capabilities support dynamic portfolio adjustment for superior trading results with controlled risk.
+category: quant_concept
+description: Explore the implementation of the Knapsack problem in R, a key combinatorial
+  optimization challenge where maximizing item value within weight limits is crucial.
+  This guide is aimed at algorithmic trading applications, using R to optimize asset
+  selection by treating assets as items in the problem. Learn to leverage simulated
+  annealing, a technique that approximates global optima by mimicking physical annealing,
+  to enhance strategy robustness. Discover how R's capabilities support dynamic portfolio
+  adjustment for superior trading results with controlled risk.
+title: The Knapsack Problem Implementation in R
 ---
 
 The Knapsack problem is a cornerstone of combinatorial optimization, where the objective is to select a subset of items, each with a specific weight and value, that maximizes the total value while staying within a defined weight limit. Mathematically, it is expressed as:

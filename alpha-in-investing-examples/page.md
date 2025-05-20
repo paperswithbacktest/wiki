@@ -1,6 +1,8 @@
 ---
-title: "Alpha in Investing: Definition and Examples (Algo Trading)"
-description: "Discover how algorithmic trading can generate alpha in investing by leveraging quantitative techniques to outperform the market and identify trading opportunities."
+category: quant_concept
+description: Discover how algorithmic trading can generate alpha in investing by leveraging
+  quantitative techniques to outperform the market and identify trading opportunities.
+title: 'Alpha in Investing: Definition and Examples (Algo Trading)'
 ---
 
 Alpha, in the context of investing, refers to the measure of an investment strategy's ability to beat the market, represented by a benchmark index, on a risk-adjusted basis. Positive alpha indicates that a strategy has succeeded in outperforming the market through skillful management rather than pure chance. This performance metric is crucial for investors looking to assess the added value provided by portfolio managers, enabling them to discern between genuine skill and market movements.

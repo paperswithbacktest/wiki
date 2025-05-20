@@ -1,6 +1,8 @@
 ---
-title: "Cryptocurrency Exit Scam Identification (Algo Trading)"
-description: "Explore strategies to detect and prevent cryptocurrency exit scams and 'rug pulls' using algorithmic trading tools for safer investments in digital finance."
+category: trading_strategy
+description: Explore strategies to detect and prevent cryptocurrency exit scams and
+  'rug pulls' using algorithmic trading tools for safer investments in digital finance.
+title: Cryptocurrency Exit Scam Identification (Algo Trading)
 ---
 
 Cryptocurrency exit scams, commonly known as 'rug pulls', are a critical issue that has increasingly plagued the digital finance sector. In these scams, crypto project developers suddenly disappear with investors’ money, often resulting in severe financial damage to unsuspecting participants. This type of fraud has been facilitated by the rise of decentralized finance (DeFi) platforms, which allow individuals to launch new tokens with minimal oversight or regulatory scrutiny.

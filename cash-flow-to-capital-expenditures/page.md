@@ -1,6 +1,8 @@
 ---
-title: "Cash Flow to Capital Expenditures (Algo Trading)"
-description: "Explore the interplay between cash flow and capital expenditures in algo trading Analyze financial health through Free Cash Flow for smarter investments"
+category: quant_concept
+description: Explore the interplay between cash flow and capital expenditures in algo
+  trading Analyze financial health through Free Cash Flow for smarter investments
+title: Cash Flow to Capital Expenditures (Algo Trading)
 ---
 
 Understanding the significance of capital expenditures (CapEx) and cash flow is crucial in the financial analysis of any company. Capital expenditures represent the funds used by a company to acquire, upgrade, and maintain physical assets such as property, industrial buildings, or equipment. This financial outlay is necessary for a company to maintain its operational capacities and foster growth through new projects and expansions. On the other hand, cash flow measures the net amount of cash being transferred into and out of a business, which impacts its ability to fund operations and investments without relying on external financing.

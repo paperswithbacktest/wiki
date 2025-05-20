@@ -1,6 +1,8 @@
 ---
-title: "Putable Common Stock (Algo Trading)"
-description: "Explore the benefits and strategies of common stock, putable stock, and algorithmic trading to maximize returns and mitigate risks in financial portfolios."
+category: quant_concept
+description: Explore the benefits and strategies of common stock, putable stock, and
+  algorithmic trading to maximize returns and mitigate risks in financial portfolios.
+title: Putable Common Stock (Algo Trading)
 ---
 
 In finance, understanding different investment vehicles is crucial for investors seeking to maximize returns and manage risks effectively. This article will explore the concepts of common stock, putable stock, stock options, and algorithmic trading. These financial instruments and strategies play a vital role in shaping an investor's portfolio and can significantly affect investment outcomes.

@@ -1,6 +1,8 @@
 ---
-title: "Repatriation of Funds (Algo Trading)"
-description: "Explore how technological advancements like fintech and algorithmic trading enhance the efficiency and security of repatriating funds in international finance."
+category: quant_concept
+description: Explore how technological advancements like fintech and algorithmic trading
+  enhance the efficiency and security of repatriating funds in international finance.
+title: Repatriation of Funds (Algo Trading)
 ---
 
 Repatriation of funds involves the transfer of assets from a foreign country to the home country of an individual or business. This process plays a significant role in international finance, influencing financial strategies for global businesses, individual investors, and expatriates. By converting foreign-held funds or profits into the domestic currency, repatriation ensures that resources are available to meet local financial obligations, investments, and consumption.

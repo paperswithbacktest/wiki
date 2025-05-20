@@ -1,6 +1,9 @@
 ---
-title: "Detection of Financial Statement Fraud (Algo Trading)"
-description: "Explore the role of algorithmic trading in detecting financial statement fraud highlighting the balance between technological advancements and potential misuse."
+category: trading_strategy
+description: Explore the role of algorithmic trading in detecting financial statement
+  fraud highlighting the balance between technological advancements and potential
+  misuse.
+title: Detection of Financial Statement Fraud (Algo Trading)
 ---
 
 The increasing complexity of financial markets, coupled with rapid advancements in technology, has created fertile ground for financial statement fraud. In an age where transactions occur at lightning speed and datasets grow exponentially, the risk of deceptive financial activities has multiplied. Financial statement fraud involves the intentional misstatement of financial reports, aimed at misleading stakeholders about a company's health, often leading to severe repercussions for investors, employees, and the broader economy.

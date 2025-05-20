@@ -1,6 +1,12 @@
 ---
-title: "Understanding Options Through the Greeks (Algo Trading)"
-description: "Explore the intricacies of financial derivatives and options trading through the Greeks. Learn how Delta, Gamma, Theta, Vega, and Rho provide vital insights into an option's pricing sensitivity to market factors like price volatility and interest rates. Discover the role these metrics play in effective risk management and strategic optimization within algorithmic trading. This comprehensive analysis highlights how understanding the Greeks can significantly enhance trading strategies."
+category: quant_concept
+description: Explore the intricacies of financial derivatives and options trading
+  through the Greeks. Learn how Delta, Gamma, Theta, Vega, and Rho provide vital insights
+  into an option's pricing sensitivity to market factors like price volatility and
+  interest rates. Discover the role these metrics play in effective risk management
+  and strategic optimization within algorithmic trading. This comprehensive analysis
+  highlights how understanding the Greeks can significantly enhance trading strategies.
+title: Understanding Options Through the Greeks (Algo Trading)
 ---
 
 Financial derivatives are intricate financial instruments whose value is derived from one or more underlying assets, such as stocks, bonds, commodities, or market indexes. Options are a prominent category of derivatives, providing traders with the right, but not the obligation, to buy (call option) or sell (put option) an asset at a specified strike price before a certain expiration date. This characteristic embeds a layer of complexity within options, driven by various market factors such as price volatility, time decay, and interest rates, making precise valuation essential.

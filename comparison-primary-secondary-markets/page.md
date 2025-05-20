@@ -1,6 +1,8 @@
 ---
-title: "Comparison of Primary and Secondary Markets (Algo Trading)"
-description: "Explore the dynamics of primary and secondary markets in finance and how algorithmic trading enhances efficiency in trading securities."
+category: quant_concept
+description: Explore the dynamics of primary and secondary markets in finance and
+  how algorithmic trading enhances efficiency in trading securities.
+title: Comparison of Primary and Secondary Markets (Algo Trading)
 ---
 
 The world of financial markets is vast and complex, encompassing various platforms, instruments, and participants. Central to these markets are the primary and secondary markets, which serve as foundational pillars in the progression of financial exchanges and economic growth. The primary market is where new securities are issued directly by companies to investors, providing issuers with the necessary capital for expansion and development. In contrast, the secondary market facilitates the trading of existing securities among investors, contributing to market liquidity and efficient price discovery.

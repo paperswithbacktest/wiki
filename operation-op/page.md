@@ -1,7 +1,8 @@
 ---
-title: Understanding Operations in Machine Learning Models
+category: quant_concept
 description: Machine learning operations break models into modular tasks for scalable
   training and efficient performance and simplify debugging Discover more inside.
+title: Understanding Operations in Machine Learning Models
 ---
 
 ![Image](images/1.png)

@@ -1,6 +1,9 @@
 ---
-title: "Glide Path in Investment Strategies (Algo Trading)"
-description: "Explore how glide path strategies in investing adjust asset allocation over time, reduce risk near retirement, and integrate algorithmic trading for enhanced management."
+category: trading_strategy
+description: Explore how glide path strategies in investing adjust asset allocation
+  over time, reduce risk near retirement, and integrate algorithmic trading for enhanced
+  management.
+title: Glide Path in Investment Strategies (Algo Trading)
 ---
 
 In today's rapidly evolving investment landscape, strategies around portfolio management continue to innovate. As investors seek efficient ways to achieve their financial goals, one strategy gaining prominence is the 'glide path' in investing. This approach is particularly relevant to target-date funds and retirement planning, offering a structured method to adjust asset allocation over time.

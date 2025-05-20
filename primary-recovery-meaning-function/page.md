@@ -1,6 +1,8 @@
 ---
-title: "Primary Recovery: Meaning and Function (Algo Trading)"
-description: "Explore primary recovery's role in the oil industry and how algo trading is transforming market dynamics and oil extraction strategies for improved efficiency."
+category: quant_concept
+description: Explore primary recovery's role in the oil industry and how algo trading
+  is transforming market dynamics and oil extraction strategies for improved efficiency.
+title: 'Primary Recovery: Meaning and Function (Algo Trading)'
 ---
 
 The petroleum industry is a cornerstone of the global economy, providing essential energy resources that power transportation, manufacturing, and numerous other sectors. As the world seeks new ways to meet its energy demands, the extraction of oil remains a vital endeavor. This process begins with primary recovery, the foundational stage of oil extraction. Primary recovery capitalizes on the natural pressure within oil reservoirs to drive oil to the surface, setting the stage for subsequent extraction methods.

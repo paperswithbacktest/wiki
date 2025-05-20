@@ -1,6 +1,8 @@
 ---
-title: "Construction Spending: Measurement and Tracking (Algo Trading)"
-description: "Discover how construction spending data is used in algorithmic trading to predict market trends and inform investment strategies with economic insights."
+category: dataset
+description: Discover how construction spending data is used in algorithmic trading
+  to predict market trends and inform investment strategies with economic insights.
+title: 'Construction Spending: Measurement and Tracking (Algo Trading)'
 ---
 
 Tracking and measuring construction spending is essential in understanding the modern economy's health. As a critical economic indicator, construction spending provides insights into the financial commitments across various sectors, including residential, commercial, and public infrastructure. This data not only reflects current economic conditions but also influences future policy decisions and economic forecasts.

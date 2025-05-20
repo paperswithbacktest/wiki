@@ -1,6 +1,11 @@
 ---
-title: "Automated Clearing House and Its Operation (Algo Trading)"
-description: "Discover how the Automated Clearing House (ACH) network and algorithmic trading are transforming modern finance by streamlining electronic payments and enhancing trading efficiency. Explore their critical roles in ensuring secure, fast, and reliable transactions, and learn how their integration supports a dynamic and evolving digital financial landscape."
+category: quant_concept
+description: Discover how the Automated Clearing House (ACH) network and algorithmic
+  trading are transforming modern finance by streamlining electronic payments and
+  enhancing trading efficiency. Explore their critical roles in ensuring secure, fast,
+  and reliable transactions, and learn how their integration supports a dynamic and
+  evolving digital financial landscape.
+title: Automated Clearing House and Its Operation (Algo Trading)
 ---
 
 In the rapidly evolving world of finance, electronic payments have become integral to modern transaction methods, offering speed, security, and convenience unmatched by traditional cash-based systems. At the heart of these electronic transactions lies the Automated Clearing House (ACH), a crucial network facilitating the processing of vast volumes of credit and debit transactions efficiently and effectively. The ACH network plays a pivotal role by ensuring that funds are transferred securely between parties, supporting a wide array of transactions such as direct deposits, payroll, and bill payments.

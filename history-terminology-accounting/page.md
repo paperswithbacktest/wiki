@@ -1,6 +1,9 @@
 ---
-title: "History and Terminology of Accounting (Algo Trading)"
-description: "Explore the evolution and terminology of accounting, from ancient record-keeping to its crucial role in modern algorithmic trading, enhancing financial transparency and strategy."
+category: quant_concept
+description: Explore the evolution and terminology of accounting, from ancient record-keeping
+  to its crucial role in modern algorithmic trading, enhancing financial transparency
+  and strategy.
+title: History and Terminology of Accounting (Algo Trading)
 ---
 
 Accounting serves as a critical backbone in the domains of business and finance, offering systematic frameworks for documenting financial transactions, analyzing economic trends, and guiding strategic decision-making. By providing transparency and accuracy, accounting ensures that stakeholders—from investors to regulatory bodies—can confidently gauge an organization’s financial health.

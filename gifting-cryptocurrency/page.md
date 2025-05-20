@@ -1,6 +1,8 @@
 ---
-title: "Gifting Cryptocurrency (Algo Trading)"
-description: "Explore the exciting world of gifting cryptocurrency and learn how algo trading optimizes the process, ensuring both educational value and potential growth."
+category: trading_strategy
+description: Explore the exciting world of gifting cryptocurrency and learn how algo
+  trading optimizes the process, ensuring both educational value and potential growth.
+title: Gifting Cryptocurrency (Algo Trading)
 ---
 
 Cryptocurrency is no longer a fringe investment but has become an integrated part of modern financial ecosystems. As the acceptance of digital currencies grows, they are emerging as a mainstream gift choice, offering a novel way to introduce friends and family to cryptocurrency investments.

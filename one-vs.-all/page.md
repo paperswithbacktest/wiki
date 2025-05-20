@@ -1,7 +1,8 @@
 ---
-title: One-Vs-All Classification Strategy for Multi-Class Models
+category: trading_strategy
 description: One-Vs-All classification splits multi-class problems into binary models
   to simplify training evaluation and address imbalance Discover more inside.
+title: One-Vs-All Classification Strategy for Multi-Class Models
 ---
 
 ![Image](images/1.png)

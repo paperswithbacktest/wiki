@@ -1,6 +1,9 @@
 ---
-title: "Metrics for Evaluating Telecommunications Companies (Algo Trading)"
-description: "Discover key metrics to evaluate performance in the telecommunications and algorithmic trading sectors These metrics guide strategic decisions for growth and efficiency"
+category: trading_strategy
+description: Discover key metrics to evaluate performance in the telecommunications
+  and algorithmic trading sectors These metrics guide strategic decisions for growth
+  and efficiency
+title: Metrics for Evaluating Telecommunications Companies (Algo Trading)
 ---
 
 In today's fast-paced market environment, evaluating company performance in the telecommunications sector and algorithmic trading space is critical. As industries face constant technological advancements and competitive pressures, having a robust framework to measure and analyze performance becomes indispensable. Effective evaluation allows businesses to adapt and thrive by utilizing strategic metrics that not only highlight operational efficiencies but also expose areas that require improvement.

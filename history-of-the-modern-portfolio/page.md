@@ -1,6 +1,8 @@
 ---
-title: "History of the Modern Portfolio (Algo Trading)"
-description: "Discover the evolution of investment strategies from traditional methods to advanced technology-driven approaches, focusing on algorithmic trading."
+category: trading_strategy
+description: Discover the evolution of investment strategies from traditional methods
+  to advanced technology-driven approaches, focusing on algorithmic trading.
+title: History of the Modern Portfolio (Algo Trading)
 ---
 
 Investment strategies have undergone a profound transformation from traditional methodologies to incorporate cutting-edge, technology-driven approaches. In the past, investment strategies primarily focused on selecting assets based on fundamental analysis and maximizing returns through straightforward means such as stock picking and bond investing. However, the landscape of modern finance is now characterized by dynamic shifts, largely driven by innovations like algorithmic trading.

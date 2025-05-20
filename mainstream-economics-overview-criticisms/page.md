@@ -1,6 +1,9 @@
 ---
-title: "Mainstream Economics: Overview and Criticisms (Algo Trading)"
-description: "Explore the interplay between mainstream economics and algorithmic trading as emerging critiques and technologies challenge traditional theories and influence market dynamics."
+category: quant_concept
+description: Explore the interplay between mainstream economics and algorithmic trading
+  as emerging critiques and technologies challenge traditional theories and influence
+  market dynamics.
+title: 'Mainstream Economics: Overview and Criticisms (Algo Trading)'
 ---
 
 In this article, we explore the intricate relationship between economic criticism, mainstream economics, economic theory, and algorithmic trading. Traditional economic theories, which have long informed our understanding of markets and decision-making, are currently undergoing significant scrutiny and transformation. Mainstream economics, often characterized by its assumptions of rationality and self-regulating markets, is being questioned by emergent economic critiques, particularly in light of new findings from behavioral economics and other heterodox perspectives.

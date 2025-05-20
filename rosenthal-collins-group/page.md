@@ -1,6 +1,9 @@
 ---
-title: "Rosenthal Collins Group (Algo Trading)"
-description: "Rosenthal Collins Group LLC excels in commodities trading with innovative algorithmic tools and global reach offering superior trading platforms and financial services."
+category: quant_concept
+description: Rosenthal Collins Group LLC excels in commodities trading with innovative
+  algorithmic tools and global reach offering superior trading platforms and financial
+  services.
+title: Rosenthal Collins Group (Algo Trading)
 ---
 
 Rosenthal Collins Group LLC (RCG), established as a leading entity in the commodities trading industry, is renowned for its comprehensive array of financial services and state-of-the-art trading platforms. With its roots deeply embedded in the tradition of futures trading, RCG has evolved to meet the complex demands of modern markets, providing solutions that accommodate both institutional and individual traders. The company's services are meticulously tailored to enhance the trading experience by leveraging algorithmic tools, which ensure accuracy and efficiency in trade execution.

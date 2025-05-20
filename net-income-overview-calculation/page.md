@@ -1,6 +1,9 @@
 ---
-title: "Net Income: Overview and Calculation (Algo Trading)"
-description: "Discover effective net income calculation methods and profit analysis in algorithmic trading to enhance decision-making by understanding key financial metrics."
+category: quant_concept
+description: Discover effective net income calculation methods and profit analysis
+  in algorithmic trading to enhance decision-making by understanding key financial
+  metrics.
+title: 'Net Income: Overview and Calculation (Algo Trading)'
 ---
 
 Understanding financial metrics is crucial in the world of finance, as these metrics serve as fundamental indicators of a company's economic health and operational efficiency. Among these, net income and profit are particularly significant, providing insights into a company's overall performance and its ability to generate wealth for shareholders. In algorithmic trading, where precision and speed govern decision-making processes, the accurate calculation and interpretation of net income and profit become indispensable.
@@ -194,4 +197,3 @@ By leveraging the depth and breadth of information that net income and profit ca
    - *ACM Digital Library - The Challenges of Ensuring Data Accuracy in Algorithmic Trading*: Investigates the challenges of maintaining data accuracy for sound algorithmic trading decisions. Visit: [ACM Digital Library](https://dl.acm.org/)
 
 These sources provide foundational and advanced knowledge for readers interested in deepening their understanding of financial metrics and their application in algorithmic trading. They serve as a gateway to both theoretical insights and practical applications in finance.
-

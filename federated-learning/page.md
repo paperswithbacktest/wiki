@@ -1,7 +1,8 @@
 ---
-title: Federated Learning Architecture Benefits and Future Trends
+category: quant_concept
 description: Federated Learning trains models on user devices to protect privacy and
   boost accuracy through secure updates and aggregation Discover more inside.
+title: Federated Learning Architecture Benefits and Future Trends
 ---
 
 ![Image](images/1.png)

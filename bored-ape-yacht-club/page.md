@@ -1,6 +1,10 @@
 ---
-title: "Bored Ape Yacht Club (Algo Trading)"
-description: "Discover the intersection of Bored Ape Yacht Club NFTs and algorithmic trading as we explore unique digital assets, trading strategies, and market dynamics. Uncover how BAYC's exclusivity and community benefits enhance its status in the NFT space and its potential role in the evolving landscape of digital asset trading."
+category: quant_concept
+description: Discover the intersection of Bored Ape Yacht Club NFTs and algorithmic
+  trading as we explore unique digital assets, trading strategies, and market dynamics.
+  Uncover how BAYC's exclusivity and community benefits enhance its status in the
+  NFT space and its potential role in the evolving landscape of digital asset trading.
+title: Bored Ape Yacht Club (Algo Trading)
 ---
 
 The world of non-fungible tokens (NFTs) has garnered significant attention, captivating audiences globally with its potential to revolutionize the digital art and collectibles market. Among the plethora of NFT projects, Bored Ape Yacht Club (BAYC) has emerged as a prominent player, capturing the imagination of both collectors and investors. Launched in 2021, BAYC is distinguished by its collection of 10,000 unique, cartoon-like ape NFTs, each with distinct attributes and varying levels of rarity, establishing itself as a symbol of digital exclusivity and status.

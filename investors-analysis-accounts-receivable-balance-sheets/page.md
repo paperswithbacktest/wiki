@@ -1,6 +1,9 @@
 ---
-title: "Investors' Analysis of Accounts Receivable on Balance Sheets (Algo Trading)"
-description: "Analyze the significance of accounts receivable in balance sheets and algorithmic trading Learn how these elements influence investment strategies and financial decisions"
+category: quant_concept
+description: Analyze the significance of accounts receivable in balance sheets and
+  algorithmic trading Learn how these elements influence investment strategies and
+  financial decisions
+title: Investors' Analysis of Accounts Receivable on Balance Sheets (Algo Trading)
 ---
 
 Understanding financial documents is crucial for interpreting a company's financial health. Among these documents, the balance sheet stands out as an essential tool for investors, offering insights into various facets of a company's operations, including asset management, liquidity, and financial stability. It presents a snapshot of what the company owns and owes, as well as the amount invested by shareholders. Within the balance sheet, accounts receivable (AR) play a critical role, providing valuable information about future cash inflows. AR represents the money owed to a company by its customers for sales made on credit, revealing the effectiveness of a company's credit policies and customer payment practices.

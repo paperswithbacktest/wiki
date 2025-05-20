@@ -1,6 +1,8 @@
 ---
-title: "Responsibilities of the United States Secretary of the Treasury (Algo Trading)"
-description: "Explore the crucial role of the US Secretary of the Treasury in economic policy and regulation, focusing on the impact of algorithmic trading on market stability."
+category: quant_concept
+description: Explore the crucial role of the US Secretary of the Treasury in economic
+  policy and regulation, focusing on the impact of algorithmic trading on market stability.
+title: Responsibilities of the United States Secretary of the Treasury (Algo Trading)
 ---
 
 The Treasury Department of the United States plays a pivotal role in the nation's economy, with responsibilities that extend across financial management, economic growth, and job creation. Established to oversee government revenue and foster economic stability, the Treasury has evolved into a crucial component of both domestic and international monetary frameworks. At its helm is the United States Secretary of the Treasury, a key figure tasked with policy development, financial regulation, and representing the U.S. in international economic arenas. The Secretary's leadership is vital to maneuvering through fiscal policies, regulatory reforms, and financial crises, ensuring the nation's economic health and stability.

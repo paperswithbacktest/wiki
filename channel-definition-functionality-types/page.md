@@ -1,6 +1,8 @@
 ---
-title: "Channel: Definition, Functionality, and Types (Algo Trading)"
-description: "Explore the essentials of trading channels in algorithmic trading including their functionality types and how they enhance trading strategies in financial markets."
+category: quant_concept
+description: Explore the essentials of trading channels in algorithmic trading including
+  their functionality types and how they enhance trading strategies in financial markets.
+title: 'Channel: Definition, Functionality, and Types (Algo Trading)'
 ---
 
 Algorithmic trading, often referred to as "algo trading," has significantly reshaped the landscape of financial markets. This type of trading uses computer algorithms to execute orders based on pre-defined criteria, efficiently executing trades at speeds and frequencies that would be impossible for a human trader. The appeal of algorithmic trading is largely due to its ability to remove emotional biases from trading decisions, ensure consistent strategy execution, and capitalize on small price discrepancies in the market typically through high-frequency trading. 

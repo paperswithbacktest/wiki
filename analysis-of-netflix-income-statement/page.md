@@ -1,6 +1,9 @@
 ---
-title: "Analysis of Netflix's Income Statement (Algo Trading)"
-description: "Uncover insights into Netflix's financial health with a deep dive into its income statement Discover how algorithmic trading uses this data for strategic investments"
+category: trading_strategy
+description: Uncover insights into Netflix's financial health with a deep dive into
+  its income statement Discover how algorithmic trading uses this data for strategic
+  investments
+title: Analysis of Netflix's Income Statement (Algo Trading)
 ---
 
 The world of finance and investing is constantly evolving, driven largely by technological advancements that reshape traditional practices. At the forefront of this evolution is Netflix, a leading streaming service known for its ability to captivate global audiences. Beyond its entertainment value, Netflix also offers intriguing opportunities for financial analysis and the application of algorithmic trading—a method where automated systems execute trades based on predefined criteria derived from data analysis.

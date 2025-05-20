@@ -1,6 +1,9 @@
 ---
-title: "Compound Return and Its Calculation (Algo Trading)"
-description: "Explore the essentials of compound return calculations in algorithmic trading Discover how annual growth rates and financial analysis empower informed investment strategies."
+category: quant_concept
+description: Explore the essentials of compound return calculations in algorithmic
+  trading Discover how annual growth rates and financial analysis empower informed
+  investment strategies.
+title: Compound Return and Its Calculation (Algo Trading)
 ---
 
 In the ever-evolving world of finance, understanding investment returns and market strategies plays a crucial role for investors. As financial landscapes change, gaining insight into the mechanics of compound returns—where reinvested earnings contribute to growth—becomes essential. Compound return offers a nuanced view of how investments can grow over time compared to straightforward metrics like simple or average returns.

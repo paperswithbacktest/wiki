@@ -1,6 +1,8 @@
 ---
-title: "Incremental Value at Risk: Interpretation and Usage (Algo Trading)"
-description: "Explore how Incremental Value at Risk helps investors make informed decisions in algorithmic trading by assessing individual asset impacts on portfolio risk."
+category: quant_concept
+description: Explore how Incremental Value at Risk helps investors make informed decisions
+  in algorithmic trading by assessing individual asset impacts on portfolio risk.
+title: 'Incremental Value at Risk: Interpretation and Usage (Algo Trading)'
 ---
 
 Value at Risk (VaR) represents a fundamental metric in financial risk management, widely utilized in algorithmic trading. It quantifies potential losses within a portfolio over a specific period, offering a confidence level to investors and risk managers. Essentially, VaR answers the critical question: "What is my potential loss in investment, within a predetermined confidence interval, over a set timeframe?"

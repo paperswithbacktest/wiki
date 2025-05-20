@@ -1,6 +1,9 @@
 ---
-title: "Permutations: Formula, Types, and Examples (Algo Trading)"
-description: "Explore the crucial role of permutations in algorithmic trading Learn how these mathematical concepts optimize trading strategies by evaluating trade sequences"
+category: quant_concept
+description: Explore the crucial role of permutations in algorithmic trading Learn
+  how these mathematical concepts optimize trading strategies by evaluating trade
+  sequences
+title: 'Permutations: Formula, Types, and Examples (Algo Trading)'
 ---
 
 Mathematics plays a crucial role in the modern financial landscape, significantly influencing the development and implementation of algorithmic trading. As financial markets become increasingly complex, the use of sophisticated mathematical concepts such as combinatorics and permutations has become indispensable. These concepts are central to understanding how trading algorithms can be fine-tuned and optimized for better performance.

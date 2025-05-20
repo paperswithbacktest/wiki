@@ -1,6 +1,9 @@
 ---
-title: "Objectives for Beginner Traders (Algo Trading)"
-description: "Beginner traders can learn to set effective trading goals and explore foundational strategies in this guide designed to aid successful navigation in algo trading."
+category: trading_strategy
+description: Beginner traders can learn to set effective trading goals and explore
+  foundational strategies in this guide designed to aid successful navigation in algo
+  trading.
+title: Objectives for Beginner Traders (Algo Trading)
 ---
 
 In recent years, the landscape of trading has undergone significant transformation, evolving from a domain primarily dominated by large financial institutions to one that is increasingly accessible to individual investors. This shift has been facilitated by advancements in technology and the development of diverse trading strategies, including algorithmic trading, also known as algo trading. Algo trading employs computer algorithms to automate trading decisions, allowing for rapid execution and minimizing human error.

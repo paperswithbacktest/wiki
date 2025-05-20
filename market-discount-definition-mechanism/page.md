@@ -1,6 +1,8 @@
 ---
-title: "Market Discount: Definition and Mechanism (Algo Trading)"
-description: "Explore the dynamics of investment market discounts and algorithmic trading in modern finance Learn how these concepts create opportunities for informed investors"
+category: quant_concept
+description: Explore the dynamics of investment market discounts and algorithmic trading
+  in modern finance Learn how these concepts create opportunities for informed investors
+title: 'Market Discount: Definition and Mechanism (Algo Trading)'
 ---
 
 Investment market discounts and algorithmic trading have become pivotal concepts in the landscape of modern finance. Investment market discounts arise when the purchase price of a security is below its nominal or intrinsic value. This discrepancy can occur due to numerous factors, such as shifts in interest rates, changes in credit ratings, or market sentiment, each influencing the valuation of securities and creating opportunities for informed investors.

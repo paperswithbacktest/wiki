@@ -1,6 +1,9 @@
 ---
-title: "Economic Implications of China's Economic Slowdown (Algo Trading)"
-description: "Discover how China's economic slowdown impacts global markets and the role of algorithmic trading in navigating the challenges and opportunities in this evolving landscape."
+category: quant_concept
+description: Discover how China's economic slowdown impacts global markets and the
+  role of algorithmic trading in navigating the challenges and opportunities in this
+  evolving landscape.
+title: Economic Implications of China's Economic Slowdown (Algo Trading)
 ---
 
 In recent years, China's economy has been experiencing a notable slowdown, raising concerns among investors and economists worldwide. Once the powerhouse driving global economic growth, China's GDP has decelerated to its lowest levels in decades. This downturn has prompted fears of broader economic implications both within and beyond its borders.

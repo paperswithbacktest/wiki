@@ -1,7 +1,8 @@
 ---
-title: "Comparison of Global and American Depositary Receipts (Algo Trading)"
-description: "Explore the differences between American Depositary Receipts and Global Depositary Receipts in algorithmic trading and their role in global financial markets.
-"
+category: quant_concept
+description: 'Explore the differences between American Depositary Receipts and Global
+  Depositary Receipts in algorithmic trading and their role in global financial markets. '
+title: Comparison of Global and American Depositary Receipts (Algo Trading)
 ---
 
 In the global financial markets, investors can access a plethora of financial instruments to diversify their portfolios. Among these are depositary receipts, such as American Depositary Receipts (ADRs) and Global Depositary Receipts (GDRs), which play pivotal roles in facilitating cross-border investments. ADRs enable U.S. investors to hold shares in foreign companies through receipts issued by U.S. depositary banks. Similarly, GDRs offer a mechanism for corporations to raise capital outside their home markets, making their shares accessible to global investors.

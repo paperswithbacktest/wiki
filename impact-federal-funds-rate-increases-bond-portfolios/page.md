@@ -1,6 +1,8 @@
 ---
-title: "Impact of Federal Funds Rate Increases on Bond Portfolios (Algo Trading)"
-description: "Explore how federal funds rate increases impact bond portfolios and discover strategies to mitigate risks and optimize returns with algorithmic trading."
+category: trading_strategy
+description: Explore how federal funds rate increases impact bond portfolios and discover
+  strategies to mitigate risks and optimize returns with algorithmic trading.
+title: Impact of Federal Funds Rate Increases on Bond Portfolios (Algo Trading)
 ---
 
 Understanding the impact of interest rate hikes on bond portfolios is crucial for investors. The Federal Reserve, as the central bank of the United States, frequently adjusts the federal funds rate in response to prevailing economic conditions, such as inflation or unemployment levels. This rate serves as a benchmark, influencing the cost of borrowing across the economy. Consequently, any modification in the federal funds rate propagates through the financial system, impacting bond markets significantly.

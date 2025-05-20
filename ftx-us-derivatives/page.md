@@ -1,6 +1,8 @@
 ---
-title: "FTX US Derivatives (Algo Trading)"
-description: "Explore FTX US platform with its innovative derivatives and algo trading offerings, designed to help traders optimize strategies in the crypto market."
+category: trading_strategy
+description: Explore FTX US platform with its innovative derivatives and algo trading
+  offerings, designed to help traders optimize strategies in the crypto market.
+title: FTX US Derivatives (Algo Trading)
 ---
 
 Cryptocurrency trading has experienced significant growth in recent years as digital currencies have garnered increasing attention from both retail and institutional investors. The rise of decentralized finance and blockchain technology has contributed to the expansion of cryptocurrency exchanges, where users can buy, sell, and trade digital assets. Among these platforms, FTX US has emerged as a notable player in the crypto market, carving its niche with a range of sophisticated financial products.

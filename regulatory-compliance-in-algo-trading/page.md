@@ -1,6 +1,8 @@
 ---
-title: "Regulatory Compliance in Algo Trading (Algo Trading)"
-description: "Explore the complexities of regulatory compliance in algorithmic trading including key frameworks by CFTC and SEC to ensure market stability and integrity."
+category: quant_concept
+description: Explore the complexities of regulatory compliance in algorithmic trading
+  including key frameworks by CFTC and SEC to ensure market stability and integrity.
+title: Regulatory Compliance in Algo Trading (Algo Trading)
 ---
 
 Algorithmic trading, often referred to as algo trading, is a modern trading method that employs computer algorithms to execute orders in financial markets with remarkable speed and precision. This technological advancement has led to significant improvements in trading efficiency and liquidity, making it a critical component of contemporary financial markets.

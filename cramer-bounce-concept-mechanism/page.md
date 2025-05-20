@@ -1,6 +1,9 @@
 ---
-title: "Cramer Bounce: Concept and Mechanism (Algo Trading)"
-description: "Explore the Cramer Bounce phenomenon in algorithmic trading analyzing media-driven stock price surges after Jim Cramer's recommendations and their temporary effects."
+category: trading_strategy
+description: Explore the Cramer Bounce phenomenon in algorithmic trading analyzing
+  media-driven stock price surges after Jim Cramer's recommendations and their temporary
+  effects.
+title: 'Cramer Bounce: Concept and Mechanism (Algo Trading)'
 ---
 
 The world of investing is filled with numerous strategies, each tailored to maximize returns and minimize risks. One such intriguing strategy is the Cramer Bounce, named after Jim Cramer, the charismatic host of CNBC's "Mad Money." Cramer's recommendations often trigger immediate market reactions, leading to a temporary surge in the stock prices he endorses—a phenomenon widely known as the Cramer Bounce. This article explores the implications of this market behavior and its relevance in algorithmic trading, a field that seeks to automate the response to such media-driven price movements.

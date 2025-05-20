@@ -1,6 +1,9 @@
 ---
-title: "Cadbury Competitors (Algo Trading)"
-description: "Explore Cadbury's competitive landscape and how algorithmic trading affects the chocolate industry. Discover market strategies of major rivals like Mars, Hershey, and Nestlé."
+category: dataset
+description: Explore Cadbury's competitive landscape and how algorithmic trading affects
+  the chocolate industry. Discover market strategies of major rivals like Mars, Hershey,
+  and Nestlé.
+title: Cadbury Competitors (Algo Trading)
 ---
 
 Cadbury, a renowned name in the confectionery industry, stands as a prominent division of Mondelēz International. Esteemed for its iconic Dairy Milk chocolate bar, Cadbury possesses a significant market presence across various countries worldwide. From its origins in Birmingham, England, in 1824, Cadbury has expanded its reach, becoming a household name in the chocolate sector. Its diverse product range, including favorites such as Crunchie, Flake, and Wispa, caters to a wide array of consumer preferences, further solidifying its position in the market.

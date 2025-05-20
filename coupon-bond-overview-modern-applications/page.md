@@ -1,6 +1,8 @@
 ---
-title: "Coupon Bond Overview and Modern Applications (Algo Trading)"
-description: "Explore fixed income investing with coupon bonds for steady income and diversification. Discover impacts of algorithmic trading on bond markets and strategies."
+category: quant_concept
+description: Explore fixed income investing with coupon bonds for steady income and
+  diversification. Discover impacts of algorithmic trading on bond markets and strategies.
+title: Coupon Bond Overview and Modern Applications (Algo Trading)
 ---
 
 Fixed income investing through coupon bonds stands out as a reliable option for generating steady income and achieving portfolio diversification. As financial markets evolve, it is essential for investors to understand the various components that influence bond investments. Coupon bonds, which provide periodic interest payments, are a core element of this sector. Traditionally, these bonds had physical coupons that investors would redeem for interest, but they have mostly transitioned to an electronic form while maintaining the principle of fixed interest payouts.

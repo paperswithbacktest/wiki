@@ -1,6 +1,9 @@
 ---
-title: "Oliver Williamson: Biography and Contributions (Algo Trading)"
-description: "Explore the groundbreaking work of Oliver E. Williamson, a pioneer in New Institutional Economics and Transaction Cost Economics, impacting modern economic analysis."
+category: quant_concept
+description: Explore the groundbreaking work of Oliver E. Williamson, a pioneer in
+  New Institutional Economics and Transaction Cost Economics, impacting modern economic
+  analysis.
+title: 'Oliver Williamson: Biography and Contributions (Algo Trading)'
 ---
 
 Oliver E. Williamson is widely acknowledged for his pioneering work in New Institutional Economics and Transaction Cost Economics, which have profoundly reshaped the understanding of economic institutions and their impact on organizational behavior. His research offers a comprehensive framework for analyzing how firms are structured and how they govern their internal and external transactions. By emphasizing the significance of transaction costs — the expenses beyond the explicit price that are incurred when conducting economic exchanges — Williamson challenged the traditional economic assertion that markets inherently operate with maximum efficiency. This perspective has provided new insights into fields such as industrial organization, economic governance, and vertical integration.

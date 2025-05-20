@@ -1,6 +1,9 @@
 ---
-title: "Determining Cost Basis of Stock Investments (Algo Trading)"
-description: "Explore the complexities of determining cost basis in stock investments and algorithmic trading Learn methods like FIFO LIFO and Average Cost to enhance profitability"
+category: quant_concept
+description: Explore the complexities of determining cost basis in stock investments
+  and algorithmic trading Learn methods like FIFO LIFO and Average Cost to enhance
+  profitability
+title: Determining Cost Basis of Stock Investments (Algo Trading)
 ---
 
 Understanding the cost basis in stock investments is crucial for any investor, as it directly influences tax liabilities and the overall profitability of trades. The cost basis is the original value of an asset for tax purposes, and adjustments over time—such as through stock splits, dividends, and capital distributions—affect this value. This foundational financial metric determines the capital gains or losses realized when an asset is sold, thus impacting the investor's tax obligations.

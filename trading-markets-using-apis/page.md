@@ -1,6 +1,12 @@
 ---
-title: "Trading Markets Using APIs (Algo Trading)"
-description: Explore the world of algorithmic trading and how APIs are revolutionizing financial markets by automating processes and enhancing decision-making accuracy. Dive into how APIs like REST and WebSocket facilitate real-time data transfer and trade execution, offering traders tools for higher efficiency and reduced emotional biases. This article examines the underlying mechanics and benefits of API trading, providing insights into its crucial role in optimizing modern trading strategies.
+category: trading_strategy
+description: Explore the world of algorithmic trading and how APIs are revolutionizing
+  financial markets by automating processes and enhancing decision-making accuracy.
+  Dive into how APIs like REST and WebSocket facilitate real-time data transfer and
+  trade execution, offering traders tools for higher efficiency and reduced emotional
+  biases. This article examines the underlying mechanics and benefits of API trading,
+  providing insights into its crucial role in optimizing modern trading strategies.
+title: Trading Markets Using APIs (Algo Trading)
 ---
 
 Algorithmic trading has become a cornerstone of the financial markets, leveraging computer algorithms to execute trading instructions with minimal human intervention. This trading method has grown in popularity due to its ability to process vast amounts of data rapidly and make split-second decisions that capitalize on market movements. As opposed to traditional trading, which relies heavily on human intuition and decision-making, algorithmic trading utilizes advanced mathematical models and strategies to identify trading opportunities and manage trades systematically. This has enabled traders to achieve higher efficiency and accuracy, reducing both the time and emotional biases associated with conventional trading approaches.

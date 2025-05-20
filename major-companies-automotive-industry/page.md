@@ -1,6 +1,9 @@
 ---
-title: "Major Companies in the Automotive Industry (Algo Trading)"
-description: "Explore the evolving automotive industry as major companies like GM and Tesla embrace electric vehicles and algorithmic trading to reshape their financial strategies."
+category: trading_strategy
+description: Explore the evolving automotive industry as major companies like GM and
+  Tesla embrace electric vehicles and algorithmic trading to reshape their financial
+  strategies.
+title: Major Companies in the Automotive Industry (Algo Trading)
 ---
 
 The automotive industry is undergoing a significant transformation, propelled by technological advancements and the increasing prominence of electric vehicles (EVs). This transformation is not only changing how vehicles are manufactured and powered but also influencing the financial strategies and market behaviors of auto companies and car manufacturers.

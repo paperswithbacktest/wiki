@@ -1,6 +1,8 @@
 ---
-title: "Implicit Costs and Their Functionality (Algo Trading)"
-description: "Explore how economic cost analysis, focusing on implicit costs, enhances algorithmic trading strategies, improving financial decisions and profitability."
+category: quant_concept
+description: Explore how economic cost analysis, focusing on implicit costs, enhances
+  algorithmic trading strategies, improving financial decisions and profitability.
+title: Implicit Costs and Their Functionality (Algo Trading)
 ---
 
 Economic cost analysis is a fundamental aspect of business finance, assessing the total costs associated with any business decision. Unlike accounting costs, which solely consider explicit expenses such as wages and materials, economic cost incorporates both explicit and implicit costs. Implicit costs represent the opportunity costs of utilizing resources already owned by the company, rather than choosing the next best alternative use for those resources. These costs can include the foregone income from employing one's own funds or the potential earnings from alternative projects not pursued. Recognizing implicit costs is crucial, as they can significantly impact a company's profitability and strategic direction over time.

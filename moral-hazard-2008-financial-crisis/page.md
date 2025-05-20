@@ -1,6 +1,9 @@
 ---
-title: "Moral Hazard and the 2008 Financial Crisis (Algo Trading)"
-description: "Explore the critical role of moral hazard and algorithmic trading in the 2008 financial crisis outlining their impact on global financial systems and risk management."
+category: quant_concept
+description: Explore the critical role of moral hazard and algorithmic trading in
+  the 2008 financial crisis outlining their impact on global financial systems and
+  risk management.
+title: Moral Hazard and the 2008 Financial Crisis (Algo Trading)
 ---
 
 The financial crisis of 2008 marked a pivotal moment in global economic history, shaking the foundation of financial institutions worldwide. This catastrophic event was not the result of a single cause but rather a confluence of various elements that, when combined, led to significant economic turmoil. Among the key contributors to this crisis were a myriad of economic factors, compounded by moral hazards and the burgeoning of algorithmic trading, each playing a crucial role in the catastrophe that unfolded.

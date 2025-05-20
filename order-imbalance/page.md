@@ -1,6 +1,8 @@
 ---
-title: "Order imbalance (Algo Trading)"
-description: "Explore the crucial role of order imbalance in algorithmic trading to predict market shifts and refine strategies by analyzing buy and sell disparities."
+category: quant_concept
+description: Explore the crucial role of order imbalance in algorithmic trading to
+  predict market shifts and refine strategies by analyzing buy and sell disparities.
+title: Order imbalance (Algo Trading)
 ---
 
 Order imbalance in trading refers to the disparity in buy and sell orders in the market at any given point in time. This imbalance can signal potential price changes and is a critical factor in understanding market dynamics, particularly within algorithmic and high-frequency trading. By analyzing order flow imbalance, traders can gain insights into the underlying forces driving market behavior.

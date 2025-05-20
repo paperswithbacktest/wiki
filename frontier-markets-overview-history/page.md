@@ -1,6 +1,8 @@
 ---
-title: "Frontier Markets: Overview and Historical Context (Algo Trading)"
-description: "Explore the dynamics of frontier markets and algorithmic trading to unlock unique investment opportunities and growth potential while managing inherent risks."
+category: quant_concept
+description: Explore the dynamics of frontier markets and algorithmic trading to unlock
+  unique investment opportunities and growth potential while managing inherent risks.
+title: 'Frontier Markets: Overview and Historical Context (Algo Trading)'
 ---
 
 Frontier markets refer to a subset of global financial markets that are considered less advanced than emerging markets but more developed than what is typically classified as least developed countries. These markets are characterized by their potential for high growth, yet they come with a distinct set of risks, including political instability, lack of liquidity, and relatively underdeveloped infrastructure. Despite these challenges, frontier markets hold significance in the global economy due to their potential to deliver strong returns on investment, driven by rapid urbanization, expanding middle classes, and youthful populations that promise to stimulate economic activity and consumer demand.

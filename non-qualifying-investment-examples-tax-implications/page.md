@@ -1,6 +1,8 @@
 ---
-title: "Non-Qualifying Investment: Examples and Tax Implications (Algo Trading)"
-description: "Explore non-qualifying investments and their tax implications. Understand how they differ from qualifying assets and the role of algorithmic trading in strategy."
+category: quant_concept
+description: Explore non-qualifying investments and their tax implications. Understand
+  how they differ from qualifying assets and the role of algorithmic trading in strategy.
+title: 'Non-Qualifying Investment: Examples and Tax Implications (Algo Trading)'
 ---
 
 The landscape of investments is diverse and complex, influenced heavily by tax implications. This article provides a detailed examination of non-qualifying investments and their role in the broader investment ecosystem. Taxation is a critical factor affecting investment decisions, influencing how assets are allocated and managed.
@@ -123,4 +125,4 @@ In conclusion, making informed investment decisions requires a comprehensive und
 
 [6]: MarketWatch. ["Understanding the Tax Implications of Investment Income."](https://www.marketwatch.com/story/filing-your-taxes-watch-out-for-these-red-flags-in-your-investing-tax-forms-3a532d2f) 
 
-[7]: Investopedia. ["Non-Qualifying Investment."](https://www.investopedia.com/terms/n/non-qualifying-investment.asp) 
+[7]: Investopedia. ["Non-Qualifying Investment."](https://www.investopedia.com/terms/n/non-qualifying-investment.asp)

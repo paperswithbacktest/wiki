@@ -1,6 +1,9 @@
 ---
-title: "Impact of Government Regulation on the Pharmaceutical Industry (Algo Trading)"
-description: "Explore how government regulations shape the pharmaceutical industry's trajectory and impact innovation while algorithmic trading redefines investment strategies."
+category: quant_concept
+description: Explore how government regulations shape the pharmaceutical industry's
+  trajectory and impact innovation while algorithmic trading redefines investment
+  strategies.
+title: Impact of Government Regulation on the Pharmaceutical Industry (Algo Trading)
 ---
 
 The pharmaceutical industry represents a pivotal domain that intricately balances innovation and safety, governed predominantly by stringent regulations aimed at safeguarding public health. This sector is characterized by its complexity and the ever-watchful oversight of government bodies, which enforce regulatory frameworks to ensure that drugs developed and marketed to the public are both safe and efficacious. Key players in this field face a dual challenge: to innovate swiftly while adhering to a comprehensive regulatory landscape.

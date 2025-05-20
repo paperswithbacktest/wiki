@@ -1,6 +1,9 @@
 ---
-title: "Marginal Utility and Marginal Value: Differences (Algo Trading)"
-description: "Learn the differences between marginal utility and marginal value and their impact on algorithmic trading strategies Explore how these concepts enhance decision-making"
+category: quant_concept
+description: Learn the differences between marginal utility and marginal value and
+  their impact on algorithmic trading strategies Explore how these concepts enhance
+  decision-making
+title: 'Marginal Utility and Marginal Value: Differences (Algo Trading)'
 ---
 
 In today's rapidly evolving financial markets, understanding key economic concepts such as marginal value and marginal utility is crucial for those involved in algorithmic trading. These concepts form the foundation of economic theory and are instrumental in explaining consumer behaviors and market dynamics. Traders who grasp these notions can develop more effective trading strategies and optimize their decision-making processes.

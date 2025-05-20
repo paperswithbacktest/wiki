@@ -1,6 +1,9 @@
 ---
-title: "Process and Implications of Liquidation (Algo Trading)"
-description: "Explore the intricate process of liquidation in algorithmic trading, highlighting asset distribution and liquidation strategies to optimize returns during business closures."
+category: quant_concept
+description: Explore the intricate process of liquidation in algorithmic trading,
+  highlighting asset distribution and liquidation strategies to optimize returns during
+  business closures.
+title: Process and Implications of Liquidation (Algo Trading)
 ---
 
 Business closure represents a significant challenge for entrepreneurs, marking the culmination of a venture's lifecycle and the onset of numerous complex procedures. Central to the discussion are the processes of liquidation, asset distribution, and algorithmic trading, crucial elements within asset management. Liquidation involves the conversion of a company's tangible and intangible assets into cash, primarily to settle outstanding debts with creditors. It is a pivotal step in the business closure that determines how the remaining value is allocated.

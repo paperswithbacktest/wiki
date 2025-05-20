@@ -1,6 +1,9 @@
 ---
-title: "Fixed-Interest Securities: Definition, Function, and Risks (Algo Trading)"
-description: "Explore fixed-interest securities and understand their predictable returns and inherent risks. Learn how algorithmic trading enhances management and investment strategies."
+category: quant_concept
+description: Explore fixed-interest securities and understand their predictable returns
+  and inherent risks. Learn how algorithmic trading enhances management and investment
+  strategies.
+title: 'Fixed-Interest Securities: Definition, Function, and Risks (Algo Trading)'
 ---
 
 The world of investment offers a plethora of financial instruments, each catering to different investor needs and risk appetites. Among these, fixed-interest securities stand out due to their capacity to deliver predictable returns through regular interest payments. Often referred to as bonds, these financial instruments are fundamental components of financial markets, providing a stable income stream for investors. They are particularly attractive to those with a risk-averse profile, seeking safety and regular returns in a dynamic economic landscape.
@@ -92,4 +95,3 @@ AI in Algorithmic Trading emphasizes harnessing artificial intelligence in optim
 The Bond Book: Everything Investors Need to Know About Treasuries, Municipals, GNMAs, Corporates, and Zeros by Annette Thau serves as a definitive guide to understanding and investing in various bond types. This book is essential for investors looking to deepen their knowledge of fixed-income securities, offering practical advice on navigating the complexities of the bond market.
 
 Advances in Financial Machine Learning by Marcos Lopez de Prado explores cutting-edge techniques at the intersection of machine learning and finance. The book presents advanced methodologies for financial data analysis, enabling the development of more sophisticated and effective trading algorithms. It is particularly relevant for those interested in leveraging technology to enhance the management of investments in fixed-interest securities.
-

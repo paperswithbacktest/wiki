@@ -1,6 +1,8 @@
 ---
-title: "Minimum Number of Shares for Purchase (Algo Trading)"
-description: "Explore the benefits of algorithmic and fractional trading to enhance stock market accessibility and efficiency Learn how tech reshapes investment strategies"
+category: trading_strategy
+description: Explore the benefits of algorithmic and fractional trading to enhance
+  stock market accessibility and efficiency Learn how tech reshapes investment strategies
+title: Minimum Number of Shares for Purchase (Algo Trading)
 ---
 
 Investing in the stock market requires a foundational understanding of how stocks function and the strategies behind their purchase. At its core, a share represents a unit of ownership in a corporation, granting the shareholder voting rights and a claim to a portion of the corporation's profits in the form of dividends. This basic unit of investment provides a means for individuals to participate in the growth of public companies, potentially increasing their wealth over time.

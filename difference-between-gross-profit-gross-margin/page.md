@@ -1,6 +1,8 @@
 ---
-title: "Difference Between Gross Profit and Gross Margin (Algo Trading)"
-description: "Discover the essential differences between gross profit and gross margin in algorithmic trading to enhance trading strategies and improve financial insights."
+category: quant_concept
+description: Discover the essential differences between gross profit and gross margin
+  in algorithmic trading to enhance trading strategies and improve financial insights.
+title: Difference Between Gross Profit and Gross Margin (Algo Trading)
 ---
 
 Financial metrics are indispensable tools for evaluating business performance, offering insights into a company’s economic health and guiding strategic decision-making. In algorithmic trading, these metrics provide a foundation for developing and optimizing trading strategies that generate consistent returns. Understanding how fundamental financial metrics like gross profit and gross margin impact algo trading performance can significantly enhance the effectiveness of these automated systems.

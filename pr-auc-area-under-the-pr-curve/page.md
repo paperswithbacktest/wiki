@@ -1,10 +1,9 @@
 ---
-title: Understanding PR AUC Performance Metric in Machine Learning
+category: quant_concept
 description: PR AUC evaluation guides your model to balance precision and recall on
   imbalanced data for clearer performance insights. Discover more inside.
+title: Understanding PR AUC Performance Metric in Machine Learning
 ---
-
-
 
 ## Table of Contents
 

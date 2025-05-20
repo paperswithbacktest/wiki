@@ -1,6 +1,9 @@
 ---
-title: "Foregone Earnings: Overview and Examples (Algo Trading)"
-description: "Explore the critical economic concepts of foregone earnings and opportunity cost in algorithmic trading to improve financial decision-making and optimize trade strategies."
+category: quant_concept
+description: Explore the critical economic concepts of foregone earnings and opportunity
+  cost in algorithmic trading to improve financial decision-making and optimize trade
+  strategies.
+title: 'Foregone Earnings: Overview and Examples (Algo Trading)'
 ---
 
 In the rapidly evolving world of financial markets, comprehending economic concepts such as foregone earnings, economic loss, and opportunity cost is paramount, particularly for individuals engaged in algorithmic trading. Algorithmic trading, commonly referred to as algo trading, utilizes algorithms and automated systems to execute trades at speeds and frequencies surpassing human capability. This trading approach, widely adopted across financial markets, involves unique economic considerations that traders must navigate. The automated nature of algorithmic trading not only accelerates trade execution but also introduces specific economic dynamics that influence trading outcomes.

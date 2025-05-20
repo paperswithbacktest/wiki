@@ -1,6 +1,9 @@
 ---
-title: "Closely Held Stock: Overview and Benefits (Algo Trading)"
-description: "Discover the benefits and challenges of closely held stocks and private company shares and their intersection with algorithmic trading to shape effective investment strategies."
+category: quant_concept
+description: Discover the benefits and challenges of closely held stocks and private
+  company shares and their intersection with algorithmic trading to shape effective
+  investment strategies.
+title: 'Closely Held Stock: Overview and Benefits (Algo Trading)'
 ---
 
 In the intricate landscape of financial markets, closely held stocks and private company shares present distinct advantages and challenges for investors. This article will explore how the intersection of these financial components with algorithmic trading influences investment strategies. Closely held stocks refer to shares owned predominantly by a small group of individuals, such as company founders or family members, which are not typically available on public exchanges. On the other hand, private company shares offer shareholders significant control and flexibility in decision-making but often come with limited trading opportunities.

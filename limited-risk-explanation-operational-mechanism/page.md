@@ -1,6 +1,8 @@
 ---
-title: "Limited Risk: Explanation and Operational Mechanism (Algo Trading)"
-description: "Learn about limited risk strategies in algorithmic trading and discover key techniques to manage risk, protect investments and optimize trading strategies."
+category: trading_strategy
+description: Learn about limited risk strategies in algorithmic trading and discover
+  key techniques to manage risk, protect investments and optimize trading strategies.
+title: 'Limited Risk: Explanation and Operational Mechanism (Algo Trading)'
 ---
 
 In the fast-paced world of algorithmic trading, the concept of risk management is crucial to protect investments. Algorithmic trading, which involves using computer programs to execute trades at speeds and frequencies beyond human capability, has transformed financial markets. While it offers numerous opportunities for profit, it also exposes traders to significant risks. Limited risk strategies are indispensable for enabling traders to seize opportunities without incurring substantial losses. 

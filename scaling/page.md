@@ -1,7 +1,8 @@
 ---
-title: Mastering Feature Scaling for Improved Machine Learning Models
+category: quant_concept
 description: Feature scaling adjusts data ranges for fair feature contributions and
   faster model training with normalization and standardization Discover more inside
+title: Mastering Feature Scaling for Improved Machine Learning Models
 ---
 
 ![Image](images/1.webp)

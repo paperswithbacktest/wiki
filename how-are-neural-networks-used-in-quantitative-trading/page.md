@@ -1,9 +1,11 @@
 ---
-title: "How are neural networks used in quantitative trading?"
-description: "Discover how neural networks, a type of artificial intelligence model, are utilized in the field of quantitative trading. Learn about price forecasting, risk management, portfolio optimization, advantages, and precautions. Dive into this innovative application with real-life examples."
+category: quant_concept
+description: Discover how neural networks, a type of artificial intelligence model,
+  are utilized in the field of quantitative trading. Learn about price forecasting,
+  risk management, portfolio optimization, advantages, and precautions. Dive into
+  this innovative application with real-life examples.
+title: How are neural networks used in quantitative trading?
 ---
-
-
 
 In recent years, neural networks have increasingly integrated into various industries, with finance being a notable early adopter. Quantitative trading, in particular, has seen a significant transformation through the implementation of these sophisticated models. At its core, quantitative trading relies heavily on data-driven decisions to optimize strategies and maximize returns. The advancement of neural networks has propelled this domain to new heights by enabling traders to process and analyze vast amounts of market data with unprecedented accuracy.
 

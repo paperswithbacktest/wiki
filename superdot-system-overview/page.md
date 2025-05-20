@@ -1,6 +1,9 @@
 ---
-title: "SuperDot System Overview (Algo Trading)"
-description: "Explore how SuperDOT revolutionized trading by automating order routing on NYSE and pioneered today's high-frequency trading systems enhancing speed and precision."
+category: trading_strategy
+description: Explore how SuperDOT revolutionized trading by automating order routing
+  on NYSE and pioneered today's high-frequency trading systems enhancing speed and
+  precision.
+title: SuperDot System Overview (Algo Trading)
 ---
 
 The financial trading landscape has experienced significant changes over the years, driven by technological advancements and evolving market demands. One of the key transformative systems that has played a role in this evolution is the Designated Order Turnaround (DOT) system, commonly referred to as SuperDOT. SuperDOT was instrumental in enhancing the efficiency and speed of trade execution by automating much of the trading process traditionally handled manually. This system allowed for the direct routing of orders to the trading floor specialists of the New York Stock Exchange (NYSE), thus bypassing brokers and streamlining operations.

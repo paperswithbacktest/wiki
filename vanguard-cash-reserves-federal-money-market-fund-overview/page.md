@@ -1,6 +1,9 @@
 ---
-title: "Vanguard Cash Reserves Federal Money Market Fund Overview (Algo Trading)"
-description: "Discover the stability and liquidity of Vanguard's Cash Reserves Federal Money Market Fund and explore its integration with cutting-edge algorithmic trading strategies."
+category: dataset
+description: Discover the stability and liquidity of Vanguard's Cash Reserves Federal
+  Money Market Fund and explore its integration with cutting-edge algorithmic trading
+  strategies.
+title: Vanguard Cash Reserves Federal Money Market Fund Overview (Algo Trading)
 ---
 
 The financial landscape is continuously transforming, driven by technological advancements and evolving market needs. Within this dynamic environment, money market funds have emerged as a focal point for investors seeking a blend of stability and liquidity. These funds are designed to offer safety and yield, often investing in short-term, high-quality debt securities. Among such financial instruments, Vanguard's Cash Reserves Federal Money Market Fund (VMRXX) distinguishes itself as a robust option for conservative investors.

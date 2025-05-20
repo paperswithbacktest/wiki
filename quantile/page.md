@@ -1,10 +1,9 @@
 ---
-title: Quantiles and Quantile Regression for Machine Learning
+category: quant_concept
 description: Quantile regression shows data distribution at key percentiles and improves
   model accuracy by handling outliers and uncertainty Discover more inside
+title: Quantiles and Quantile Regression for Machine Learning
 ---
-
-
 
 ## Table of Contents
 

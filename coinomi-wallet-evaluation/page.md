@@ -1,6 +1,8 @@
 ---
-title: "Coinomi Wallet Evaluation (Algo Trading)"
-description: "Explore an in-depth review of Coinomi Wallet focusing on its features, pros, cons, and suitability for algorithmic trading to optimize your crypto management."
+category: dataset
+description: Explore an in-depth review of Coinomi Wallet focusing on its features,
+  pros, cons, and suitability for algorithmic trading to optimize your crypto management.
+title: Coinomi Wallet Evaluation (Algo Trading)
 ---
 
 In recent years, the proliferation of cryptocurrency has catalyzed the development of a wide array of digital wallets tailored to meet diverse user needs. Among these, Coinomi has garnered attention, primarily due to its multi-currency support and intuitive interface. As digital currencies continue to gain traction among investors and technology enthusiasts, the importance of selecting a reliable and efficient wallet cannot be understated.

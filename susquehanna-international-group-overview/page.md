@@ -1,6 +1,8 @@
 ---
-title: "Susquehanna International Group Overview (Algo Trading)"
-description: "Explore Susquehanna International Group's pioneering role in algorithmic trading featuring game theory algorithms and global influence in the financial markets."
+category: quant_concept
+description: Explore Susquehanna International Group's pioneering role in algorithmic
+  trading featuring game theory algorithms and global influence in the financial markets.
+title: Susquehanna International Group Overview (Algo Trading)
 ---
 
 Susquehanna International Group (SIG) is a prominent global financial trading firm recognized for its pioneering techniques in algorithmic trading and quantitative research. Established in 1987, SIG has evolved into a significant entity within the trading industry, boasting a presence in key cities around the world, such as Bala Cynwyd, Boston, Chicago, Dublin, and Sydney. The firm's growth and widespread operational reach reflect its strategic emphasis on integrating cutting-edge technology and innovative trading methodologies.

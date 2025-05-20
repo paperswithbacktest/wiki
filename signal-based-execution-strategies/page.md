@@ -1,6 +1,8 @@
 ---
-title: "signal-based execution strategies (Algo Trading)"
-description: "Discover how signal-based execution strategies enhance algorithmic trading with speed, precision, and consistency. Understand their benefits and components."
+category: trading_strategy
+description: Discover how signal-based execution strategies enhance algorithmic trading
+  with speed, precision, and consistency. Understand their benefits and components.
+title: signal-based execution strategies (Algo Trading)
 ---
 
 In the fast-paced world of financial markets, algorithmic trading has become an indispensable tool for traders and investors seeking a competitive advantage. The utilization of algorithms to execute trades with speed and precision has revolutionized the way financial transactions occur, enabling participants to react quickly to market changes. Signal-based execution strategies stand out as a key element within this framework, utilizing pre-defined mathematical models and computer algorithms to guide trading decisions.

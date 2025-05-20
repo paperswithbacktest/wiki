@@ -1,7 +1,8 @@
 ---
-title: Comprehensive T5 Text-to-Text Transfer Transformer Overview
+category: quant_concept
 description: T5 Text-to-Text Transfer Transformer uses a unified text approach to
   handle translation summarization and question answering Discover more inside.
+title: Comprehensive T5 Text-to-Text Transfer Transformer Overview
 ---
 
 ![Image](images/1.png)

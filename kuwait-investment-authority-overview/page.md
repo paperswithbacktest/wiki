@@ -1,6 +1,9 @@
 ---
-title: "Kuwait Investment Authority Overview (Algo Trading)"
-description: "Explore the pivotal role of the Kuwait Investment Authority in wealth management leveraging algorithmic trading for economic diversification and financial innovation."
+category: quant_concept
+description: Explore the pivotal role of the Kuwait Investment Authority in wealth
+  management leveraging algorithmic trading for economic diversification and financial
+  innovation.
+title: Kuwait Investment Authority Overview (Algo Trading)
 ---
 
 The Kuwait Investment Authority (KIA) is a pivotal institution in the financial landscape of Kuwait, serving as the steward of the nation's wealth through its management of sovereign funds. As the world's oldest sovereign wealth fund, established in 1982, KIA has played an essential role in safeguarding the economic security of Kuwait by effectively managing the country's accumulated surplus oil revenues. Its historical roots can be traced back to the Kuwait Investment Board formed in 1953, signaling a long-standing tradition of financial prudence and strategic foresight.

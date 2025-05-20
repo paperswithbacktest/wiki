@@ -1,6 +1,8 @@
 ---
-title: "Impact of the Triffin Dilemma on Global Currencies (Algo Trading)"
-description: "Explore how the Triffin Dilemma influences global currencies and algorithmic trading revealing their impact on international finance and economic stability."
+category: quant_concept
+description: Explore how the Triffin Dilemma influences global currencies and algorithmic
+  trading revealing their impact on international finance and economic stability.
+title: Impact of the Triffin Dilemma on Global Currencies (Algo Trading)
 ---
 
 The global financial system is a complex network comprising international financial institutions, markets, and its backbone: currencies. In modern economies, currencies are vital as they facilitate trade, investment, and economic growth by acting as a medium of exchange, a store of value, and a unit of account. Major global currencies, such as the US Dollar and the Euro, are pivotal in shaping international trade dynamics and economic policies.

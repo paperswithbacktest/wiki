@@ -1,6 +1,9 @@
 ---
-title: "Methods of Calculating Depreciation (Algo Trading)"
-description: "Explore various methods of calculating depreciation and their impact on financial reporting and algorithmic trading strategies, enhancing your financial insights."
+category: quant_concept
+description: Explore various methods of calculating depreciation and their impact
+  on financial reporting and algorithmic trading strategies, enhancing your financial
+  insights.
+title: Methods of Calculating Depreciation (Algo Trading)
 ---
 
 Depreciation is a fundamental accounting practice that enables companies to systematically allocate the expense of tangible assets over their expected useful life. This methodical approach allows businesses to recognize asset expenses gradually, rather than as a one-time financial hit, which aligns expenses with the revenue those assets generate. The calculation of depreciation is not merely a bookkeeping exercise; it significantly influences financial reporting and tax obligations. By spreading the asset's cost over time, companies can match expenses with income, thus providing a more accurate financial picture.
@@ -291,4 +294,3 @@ Ultimately, a comprehensive understanding of depreciation and its implications e
 [6]: ["Accelerated Depreciation Techniques and Their Economic Effects."](https://www.investopedia.com/terms/a/accelerateddepreciation.asp) National Bureau of Economic Research.
 
 [7]: ["Depreciation Calculation Methods."](https://www.investopedia.com/ask/answers/021815/what-are-different-ways-calculate-depreciation.asp) Investopedia.
-

@@ -1,6 +1,9 @@
 ---
-title: "Industries With Highest Lobbying Expenditures (Algo Trading)"
-description: "Discover which industries spend the most on lobbying in the U.S. Explore the financial sector's efforts to shape policy in algorithmic trading and other key areas."
+category: quant_concept
+description: Discover which industries spend the most on lobbying in the U.S. Explore
+  the financial sector's efforts to shape policy in algorithmic trading and other
+  key areas.
+title: Industries With Highest Lobbying Expenditures (Algo Trading)
 ---
 
 Lobbying is a fundamental component of the U.S. political and economic systems, characterized by its significant financial implications. At its core, lobbying encompasses a variety of activities aimed at influencing decision-makers within the government, thereby shaping legislation and regulatory frameworks. The financial ramifications of these activities are profound, as industries and organizations invest substantial sums to ensure their interests are represented and their voices heard.

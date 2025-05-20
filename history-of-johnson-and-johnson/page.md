@@ -1,6 +1,9 @@
 ---
-title: "History of Johnson & Johnson (Algo Trading)"
-description: "Explore the history of Johnson & Johnson and its evolution from sterile surgical supplies to a global healthcare giant with potential for algorithmic trading integration."
+category: quant_concept
+description: Explore the history of Johnson & Johnson and its evolution from sterile
+  surgical supplies to a global healthcare giant with potential for algorithmic trading
+  integration.
+title: History of Johnson & Johnson (Algo Trading)
 ---
 
 Johnson & Johnson, a distinguished entity in the health and wellness sector, boasts a rich history dating back to its founding in 1886. Established by Robert Wood Johnson and his brothers, the company initially focused on the manufacture of sterile surgical supplies. Over time, it has evolved into a multifaceted global corporation known for its significant contributions to healthcare innovation and its wide array of consumer products. 

@@ -1,7 +1,8 @@
 ---
-title: Balancing Model Capacity in Machine Learning for Optimal Results
+category: quant_concept
 description: Model capacity shapes machine learning by balancing complexity to prevent
   overfitting or underfitting Adjust capacity for your data Discover more inside
+title: Balancing Model Capacity in Machine Learning for Optimal Results
 ---
 
 ![Image](images/1.png)

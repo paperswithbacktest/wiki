@@ -1,6 +1,8 @@
 ---
-title: "Buying and Selling Stocks (Algo Trading)"
-description: "Explore the world of stock trading from traditional methods to advanced algorithmic strategies Learn how technology reshapes markets and investor opportunities"
+category: trading_strategy
+description: Explore the world of stock trading from traditional methods to advanced
+  algorithmic strategies Learn how technology reshapes markets and investor opportunities
+title: Buying and Selling Stocks (Algo Trading)
 ---
 
 Stock trading is a core component of the financial markets, involving the acquisition and disposition of equity securities known as stocks. This process allows individuals and institutions to buy ownership shares in companies, providing capital for businesses to grow while offering investors the opportunity to profit from the companies' success. The traditional methods of stock trading have evolved significantly over time, with the emergence of new technologies and strategies.

@@ -1,6 +1,8 @@
 ---
-title: "Coinage Act of 1873 (Algo Trading)"
-description: "Explore the transformative impact of the Coinage Act of 1873 on monetary policy and its influence on modern algo trading shaping market dynamics today."
+category: quant_concept
+description: Explore the transformative impact of the Coinage Act of 1873 on monetary
+  policy and its influence on modern algo trading shaping market dynamics today.
+title: Coinage Act of 1873 (Algo Trading)
 ---
 
 Monetary policies have evolved significantly over centuries, with silver playing a pivotal role. Historically, the Silver Standard formed the backbone of several economies, effectively tying currency value to a specified amount of silver. This relationship illustrates the essential role of silver in shaping monetary policies, as various nations relied on it to stabilize and legitimize their currencies. 

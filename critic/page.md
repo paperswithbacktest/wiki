@@ -1,7 +1,8 @@
 ---
-title: Understanding the Critic Role in Machine Learning Models
+category: quant_concept
 description: Critic in Machine Learning evaluates models in RL and GANs by predicting
   rewards and providing feedback to improve performance Discover more inside
+title: Understanding the Critic Role in Machine Learning Models
 ---
 
 ![Image](images/1.png)

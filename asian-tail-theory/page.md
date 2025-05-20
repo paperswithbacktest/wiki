@@ -1,6 +1,8 @@
 ---
-title: "Asian Tail Theory (Algo Trading)"
-description: "Explore how Asian tail probability theory and algorithmic trading converge, enhancing risk management and decision-making in modern financial markets."
+category: quant_concept
+description: Explore how Asian tail probability theory and algorithmic trading converge,
+  enhancing risk management and decision-making in modern financial markets.
+title: Asian Tail Theory (Algo Trading)
 ---
 
 In this article, we examine the intersection of finance, Asian tail probability theory, and algorithmic trading, highlighting how these advanced concepts are shaping modern financial markets. Asian tail probability theory provides a distinctive approach to risk management and the optimization of trading strategies. By focusing on the probabilistic outcomes of price movements, this theory allows traders to better anticipate and mitigate extreme market events, thereby enhancing decision-making processes.
@@ -113,4 +115,3 @@ prices['position'] = prices['signal'].diff()
 ```
 
 Engaging with expert works from prominent financial analysts and institutions, such as articles from the Journal of Finance and reports from financial research firms, can deepen understanding and provide access to the latest advancements in trading strategies. Continuous education through these resources allows traders and financial professionals to adapt to the ever-evolving financial markets effectively.
-

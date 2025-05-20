@@ -1,6 +1,8 @@
 ---
-title: "SEC Form N-17f-2 Overview (Algo Trading)"
-description: "SEC Form N-17f-2 ensures the secure custody of securities by investment companies involved in algorithmic trading, enhancing transparency and investor trust."
+category: dataset
+description: SEC Form N-17f-2 ensures the secure custody of securities by investment
+  companies involved in algorithmic trading, enhancing transparency and investor trust.
+title: SEC Form N-17f-2 Overview (Algo Trading)
 ---
 
 SEC Form N-17f-2 is a critical filing required by the Securities and Exchange Commission (SEC) for investment companies. Its primary purpose is to serve as a custodian verification document, ensuring the safeguarding of securities held by these companies. This verification is particularly significant for firms engaged in algorithmic trading and other forms of automated investing, where large volumes of securities are managed and traded at high speeds.

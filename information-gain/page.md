@@ -1,7 +1,8 @@
 ---
-title: Understanding Information Gain in Machine Learning Decision Trees
+category: quant_concept
 description: Information Gain measures how much a feature reduces uncertainty in decision
   trees by using entropy difference to improve model accuracy Discover more inside
+title: Understanding Information Gain in Machine Learning Decision Trees
 ---
 
 ![Image](images/1.jpeg)

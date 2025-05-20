@@ -1,6 +1,8 @@
 ---
-title: "Factors Influencing Corporate Stock Splits (Algo Trading)"
-description: "Explore how stock splits and algorithmic trading impact corporate finance and investing strategies to optimize liquidity, market activity, and trading efficiency."
+category: trading_strategy
+description: Explore how stock splits and algorithmic trading impact corporate finance
+  and investing strategies to optimize liquidity, market activity, and trading efficiency.
+title: Factors Influencing Corporate Stock Splits (Algo Trading)
 ---
 
 Investing encompasses various strategies and technologies, among which stock splits and algorithmic trading are key components that shape financial outcomes. Stock splits, where a company adjusts the number of its shares without changing overall market value, serve as strategic corporate actions with implications for liquidity and investor perception. Algorithmic trading employs computer programs to execute trades at optimal speeds and conditions, enhancing decision-making in markets responding to such corporate maneuvers.

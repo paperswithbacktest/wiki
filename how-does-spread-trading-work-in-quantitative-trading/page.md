@@ -1,9 +1,13 @@
 ---
-title: "How does spread trading work in quantitative trading?"
-description: "Discover how spread trading, a popular technique in quantitative trading, works by identifying relationships between assets, measuring spreads, taking positions, and closing them for profit. Learn the advantages and disadvantages of this strategy for risk reduction, market opportunities, data accuracy, transaction costs, and non-convergence risk. Explore related resources for deeper understanding and practical implementation."
+category: trading_strategy
+description: Discover how spread trading, a popular technique in quantitative trading,
+  works by identifying relationships between assets, measuring spreads, taking positions,
+  and closing them for profit. Learn the advantages and disadvantages of this strategy
+  for risk reduction, market opportunities, data accuracy, transaction costs, and
+  non-convergence risk. Explore related resources for deeper understanding and practical
+  implementation.
+title: How does spread trading work in quantitative trading?
 ---
-
-
 
 Quantitative trading represents a significant evolution in the landscape of modern finance. It leverages mathematical models and algorithms to exploit market efficiencies and execute trades at high speed and volume. This method has fundamentally transformed how investment strategies are conceived and executed, offering a scientific approach to decision-making in the financial markets.
 

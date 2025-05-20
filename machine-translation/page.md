@@ -1,7 +1,8 @@
 ---
-title: Understanding Machine Translation Systems and Approaches
+category: quant_concept
 description: Machine translation uses AI driven and rule based methods to deliver
   accurate translations while handling context and idioms Discover more inside
+title: Understanding Machine Translation Systems and Approaches
 ---
 
 ![Image](images/1.png)

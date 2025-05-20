@@ -1,6 +1,8 @@
 ---
-title: "Candle Makers Petition and Its Economic History (Algo Trading)"
-description: "Discover how Frédéric Bastiat's satirical "Candle Maker's Petition" critiques protectionism and its relevance to modern market theories like algorithmic trading."
+category: quant_concept
+description: Discover how Frédéric Bastiat's satirical "Candle Maker's Petition" critiques
+  protectionism and its relevance to modern market theories like algorithmic trading.
+title: Candle Makers Petition and Its Economic History (Algo Trading)
 ---
 
 In the world of economics, both historical and modern theories offer unique insights into understanding market dynamics and policy decisions. A significant contribution to economic thought comes from Frédéric Bastiat, a 19th-century French economist known for his sharp critiques and wit. Among his renowned works is the "Candle Maker's Petition," an economic satire that challenges protectionist tariffs. This humorous yet profound piece presents a fictional plea from candle makers urging the government to block sunlight — a free natural resource — to increase demand for artificial lighting. Through this satire, Bastiat illustrates the absurdity of protectionism, emphasizing its potential to privilege producers at the consumers' expense.

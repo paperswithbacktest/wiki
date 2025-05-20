@@ -1,6 +1,8 @@
 ---
-title: "Solomon Islands Dollar and Economy (Algo Trading)"
-description: "Explore the impact of the Solomon Islands Dollar on the economy addressing trade and algorithmic trading while identifying growth challenges and opportunities."
+category: quant_concept
+description: Explore the impact of the Solomon Islands Dollar on the economy addressing
+  trade and algorithmic trading while identifying growth challenges and opportunities.
+title: Solomon Islands Dollar and Economy (Algo Trading)
 ---
 
 The Solomon Islands, situated in the Pacific Ocean, is an archipelagic nation characterized by its distinct economic framework, which is significantly shaped by the Solomon Islands Dollar (SBD). The SBD serves as the national currency and plays a crucial role in the country's economic activities. The interplay between the SBD, economic functions, and trade relationships is of paramount importance for investors and economic strategists seeking to comprehend the economic prospects of this island nation.

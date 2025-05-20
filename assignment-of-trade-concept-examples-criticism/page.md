@@ -1,6 +1,9 @@
 ---
-title: "Assignment of Trade: Concept, Examples, and Criticism (Algo Trading)"
-description: "Discover the role of Assignment of Trade in optimizing strategies within the mortgage-backed securities market. Explore its mechanisms and criticisms in algo trading."
+category: quant_concept
+description: Discover the role of Assignment of Trade in optimizing strategies within
+  the mortgage-backed securities market. Explore its mechanisms and criticisms in
+  algo trading.
+title: 'Assignment of Trade: Concept, Examples, and Criticism (Algo Trading)'
 ---
 
 In the rapidly evolving world of financial trading, the Assignment of Trade (AOT) emerges as a pivotal mechanism. Particularly significant within the mortgage-backed securities (MBS) market, AOT plays a crucial role in optimizing trading strategies and enhancing market efficiency. Understanding its intricacies is essential for industry participants, as AOT facilitates the transfer of trade obligations among parties, thus promoting liquidity and risk management. 

@@ -1,6 +1,8 @@
 ---
-title: "Metrics for Evaluating Mutual Fund Risk-Return Tradeoff (Algo Trading)"
-description: "Explore metrics to evaluate mutual fund risk-return using algorithmic trading insights combining traditional analysis and technology for optimized portfolios."
+category: quant_concept
+description: Explore metrics to evaluate mutual fund risk-return using algorithmic
+  trading insights combining traditional analysis and technology for optimized portfolios.
+title: Metrics for Evaluating Mutual Fund Risk-Return Tradeoff (Algo Trading)
 ---
 
 Understanding the risk-return tradeoff is crucial for any investment strategy. This fundamental concept involves balancing potential returns against the risks associated with an investment. In the domain of mutual funds and modern investment portfolios, this tradeoff plays a pivotal role in shaping investor decisions. Mutual funds, which pool money from numerous investors to purchase a diversified portfolio of stocks, bonds, or other securities, inherently carry various types of risks and opportunities for returns. 

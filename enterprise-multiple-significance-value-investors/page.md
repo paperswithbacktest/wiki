@@ -1,6 +1,9 @@
 ---
-title: "Enterprise Multiple and Its Significance for Value Investors (Algo Trading)"
-description: "Explore the significance of Enterprise Multiple for value investors and algorithmic trading Discover how EV/EBITDA aids in evaluating company valuation and operations"
+category: quant_concept
+description: Explore the significance of Enterprise Multiple for value investors and
+  algorithmic trading Discover how EV/EBITDA aids in evaluating company valuation
+  and operations
+title: Enterprise Multiple and Its Significance for Value Investors (Algo Trading)
 ---
 
 The world of investing and finance is becoming increasingly complex, with new strategies and tools emerging for savvy investors. One concept that has gained prominence in value investing is the Enterprise Multiple, which combines Enterprise Value (EV) with Earnings Before Interest, Taxes, Depreciation, and Amortization (EBITDA). This key financial metric is instrumental in evaluating a company's valuation concerning its operational performance. The formula for the Enterprise Multiple is:

@@ -1,6 +1,8 @@
 ---
-title: "Sensitivity Analysis in Investment Decision-Making (Algo Trading)"
-description: "Explore the synergy of sensitivity analysis financial analysis and algorithmic trading in investment decisions to enhance risk management and strategic planning."
+category: trading_strategy
+description: Explore the synergy of sensitivity analysis financial analysis and algorithmic
+  trading in investment decisions to enhance risk management and strategic planning.
+title: Sensitivity Analysis in Investment Decision-Making (Algo Trading)
 ---
 
 This article explores the interconnected roles of investment decisions, financial analysis, sensitivity analysis, and algorithmic trading in the modern financial landscape. Investment decisions are the cornerstone of financial strategy, involving the selection of suitable assets, optimal resource allocation, and effective portfolio management to realize specific financial objectives. These decisions ultimately aim to balance potential risks and returns in alignment with an investor's financial goals and risk appetite.

@@ -1,6 +1,13 @@
 ---
-title: "Quantitative Easing (Algo Trading)"
-description: "Explore the dynamic world of quantitative easing and its impact on algorithmic trading in financial markets. Understand how central banks utilize quantitative easing to stimulate economic activity by injecting liquidity through large-scale asset purchases. Discover the role of algorithmic trading in modern financial systems, leveraging advanced technology for rapid and efficient trading operations. This page investigates into the intersection of these key financial mechanisms, offering insights into their effects on market behavior, liquidity, and economic growth."
+category: quant_concept
+description: Explore the dynamic world of quantitative easing and its impact on algorithmic
+  trading in financial markets. Understand how central banks utilize quantitative
+  easing to stimulate economic activity by injecting liquidity through large-scale
+  asset purchases. Discover the role of algorithmic trading in modern financial systems,
+  leveraging advanced technology for rapid and efficient trading operations. This
+  page investigates into the intersection of these key financial mechanisms, offering
+  insights into their effects on market behavior, liquidity, and economic growth.
+title: Quantitative Easing (Algo Trading)
 ---
 
 Central banking plays a crucial role in the regulation and supervision of a country's monetary system, serving as the central authority typically embodied by a central bank. This institution is responsible for maintaining economic stability and fostering trust in the nation's financial system. One of the primary tools utilized by central banks in fulfilling this role is monetary policy, which involves strategic actions designed to manage the economy through the control of interest rates and the money supply. By adjusting these levers, central banks aim to influence inflation, employment, and overall economic growth.

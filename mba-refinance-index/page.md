@@ -1,6 +1,8 @@
 ---
-title: "MBA Refinance Index (Algo Trading)"
-description: "Explore the key factors influencing mortgage refinancing and learn how algorithmic trading impacts the MBA Refinance Index and the broader mortgage market."
+category: dataset
+description: Explore the key factors influencing mortgage refinancing and learn how
+  algorithmic trading impacts the MBA Refinance Index and the broader mortgage market.
+title: MBA Refinance Index (Algo Trading)
 ---
 
 Mortgage refinancing is a fundamental aspect of the financial market, allowing homeowners to replace their existing mortgage with a new one, often under more favorable terms. This process can lead to lower monthly payments, reduced interest rates, or altered loan durations, making it an attractive option for many. Mortgage refinancing holds significant sway over the housing market and the broader economy as it influences consumer spending, savings, and investment behaviors. 

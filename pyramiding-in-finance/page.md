@@ -1,6 +1,8 @@
 ---
-title: "Pyramiding in Finance (Algo Trading)"
-description: "Explore the strategic method of pyramiding in algorithmic trading where traders scale successful positions aligning risk management with market momentum."
+category: trading_strategy
+description: Explore the strategic method of pyramiding in algorithmic trading where
+  traders scale successful positions aligning risk management with market momentum.
+title: Pyramiding in Finance (Algo Trading)
 ---
 
 In the ever-evolving world of finance, traders are constantly on the lookout for innovative strategies to optimize their returns. Among these strategies, pyramiding has emerged as a popular technique that involves increasing a position as it becomes more profitable. Pyramiding harnesses the power of momentum by allowing traders to capitalize on favorable market trends without committing extensive capital initially. This approach aligns with the principles of smart risk-taking, as it aims to maximize returns in a market characterized by uncertainty.

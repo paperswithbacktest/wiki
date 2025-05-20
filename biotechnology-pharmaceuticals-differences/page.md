@@ -1,6 +1,8 @@
 ---
-title: "Biotechnology and Pharmaceuticals: Differences (Algo Trading)"
-description: "Explore the distinct methodologies between biotechnology and pharmaceuticals in healthcare development Discover investment insights in this evolving landscape"
+category: quant_concept
+description: Explore the distinct methodologies between biotechnology and pharmaceuticals
+  in healthcare development Discover investment insights in this evolving landscape
+title: 'Biotechnology and Pharmaceuticals: Differences (Algo Trading)'
 ---
 
 Biotechnology and pharmaceuticals are vital pillars of healthcare, each contributing uniquely to the development of medical treatments. Despite their occasional interchangeability in public discourse, these fields employ fundamentally different methodologies. Biotechnology primarily utilizes the manipulation of living organisms, leveraging techniques such as genetic engineering and bio-manufacturing to create therapeutics. In contrast, pharmaceuticals focus on synthesizing drugs through chemical processes. 

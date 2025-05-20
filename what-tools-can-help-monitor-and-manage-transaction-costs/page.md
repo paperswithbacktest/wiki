@@ -1,6 +1,10 @@
 ---
-title: "What tools can help monitor and manage transaction costs?"
-description: "Discover tools and methods for monitoring and managing transaction costs in trading strategies. From Order Management Systems to Intelligent trading algorithms, optimize your approach with this comprehensive guide. Reduce costs through diversification, frequency optimization, limit orders, and more."
+category: trading_strategy
+description: Discover tools and methods for monitoring and managing transaction costs
+  in trading strategies. From Order Management Systems to Intelligent trading algorithms,
+  optimize your approach with this comprehensive guide. Reduce costs through diversification,
+  frequency optimization, limit orders, and more.
+title: What tools can help monitor and manage transaction costs?
 ---
 
 Managing transaction costs is crucial for the financial success of any business. These costs, which encompass fees, taxes, and administrative expenses, directly affect a company's profitability and can significantly influence strategic decisions. Effective transaction cost management, therefore, ensures that resources are allocated efficiently, enhancing overall business operations.
@@ -207,4 +211,3 @@ In conclusion, businesses must continually adapt to technological advancements a
 ## References & Further Reading
 
 [1]: AMF, CFM (2019). ["Some Stylized Facts On Transaction Costs And Their Impact On Investors"](https://www.amf-france.org/sites/institutionnel/files/resource/Some%20stylized%20facts%20on%20transaction%20costs%20-%20Presentation%20CA%20Lehalle.pdf).
-

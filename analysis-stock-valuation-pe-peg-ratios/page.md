@@ -1,6 +1,9 @@
 ---
-title: "Analysis of Stock Valuation Using P/E and PEG Ratios (Algo Trading)"
-description: "Explore stock valuation using P/E and PEG ratios to make informed investment decisions. Understand how these metrics integrate with algorithmic trading for optimal strategies."
+category: trading_strategy
+description: Explore stock valuation using P/E and PEG ratios to make informed investment
+  decisions. Understand how these metrics integrate with algorithmic trading for optimal
+  strategies.
+title: Analysis of Stock Valuation Using P/E and PEG Ratios (Algo Trading)
 ---
 
 Understanding stock valuation is vital for investors aiming to make informed decisions in the complex world of financial markets. Two essential metrics widely utilized by investors for assessing a stock's value are the Price-to-Earnings (P/E) ratio and the Price/Earnings-to-Growth (PEG) ratio. These ratios are integral in evaluating whether a stock is fairly valued, overvalued, or undervalued based on its earnings performance and growth forecasts.

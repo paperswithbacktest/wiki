@@ -1,6 +1,14 @@
 ---
-title: "Swiss National Bank (Algo Trading)"
-description: "This article investigates into the complex interactions between central banking, monetary policy, and algorithmic trading, focusing on the Swiss National Bank (SNB). As a key player in global finance, the SNB influences inflation, interest rates, and liquidity, thereby affecting both national and international markets. With algorithmic trading becoming more prevalent, its relationship with the SNB's policy decisions offers a dynamic context for market participants. This exploration provides insights into how the SNB shapes economic landscapes, vital for anyone interested in financial systems and economic forecasting."
+category: quant_concept
+description: This article investigates into the complex interactions between central
+  banking, monetary policy, and algorithmic trading, focusing on the Swiss National
+  Bank (SNB). As a key player in global finance, the SNB influences inflation, interest
+  rates, and liquidity, thereby affecting both national and international markets.
+  With algorithmic trading becoming more prevalent, its relationship with the SNB's
+  policy decisions offers a dynamic context for market participants. This exploration
+  provides insights into how the SNB shapes economic landscapes, vital for anyone
+  interested in financial systems and economic forecasting.
+title: Swiss National Bank (Algo Trading)
 ---
 
 This article explores the intersections of central banking, monetary policy, and algorithmic trading, specifically concentrating on the Swiss National Bank (SNB). The SNB plays an integral role in maintaining economic stability through its monetary policy strategies, which are essential for regulating inflation, influencing interest rates, and ensuring liquidity within financial markets. Central banking operations, such as those executed by the SNB, are pivotal in shaping both national and international financial landscapes due to Switzerland's significant role in global finance.

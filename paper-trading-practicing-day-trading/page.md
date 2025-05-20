@@ -1,6 +1,8 @@
 ---
-title: "Paper Trading for Practicing Day Trading (Algo Trading)"
-description: "Practice day trading and algorithmic trading with paper trading to refine strategies in a risk-free environment before committing real money in live markets."
+category: trading_strategy
+description: Practice day trading and algorithmic trading with paper trading to refine
+  strategies in a risk-free environment before committing real money in live markets.
+title: Paper Trading for Practicing Day Trading (Algo Trading)
 ---
 
 The world of trading is vast and dynamic, offering numerous opportunities for financial growth and learning. At the heart of this complex ecosystem lies paper trading, a crucial practice for both novice and experienced traders looking to test strategies without incurring financial risks. By simulating real-market conditions, paper trading allows individuals to engage in buying and selling securities in a risk-free environment, making it an indispensable tool in the trader's toolkit.

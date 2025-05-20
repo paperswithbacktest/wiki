@@ -1,6 +1,8 @@
 ---
-title: "Deflation Risks and Economic Impact (Algo Trading)"
-description: "Explore the impact of deflation risks and algorithmic trading on global markets. Discover how these forces interact to influence economic growth and stability."
+category: quant_concept
+description: Explore the impact of deflation risks and algorithmic trading on global
+  markets. Discover how these forces interact to influence economic growth and stability.
+title: Deflation Risks and Economic Impact (Algo Trading)
 ---
 
 In today's complex financial landscape, understanding the intricate relationships between various economic factors is crucial. The global economy is in a constant state of flux, influenced by numerous variables that can unpredictably alter market dynamics. This article explores the financial impact of economic risks associated with deflation and algorithmic trading, shedding light on how these two phenomena influence contemporary markets.

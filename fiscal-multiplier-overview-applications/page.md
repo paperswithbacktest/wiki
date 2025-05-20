@@ -1,6 +1,14 @@
 ---
-title: "Fiscal Multiplier: Overview and Applications (Algo Trading)"
-description: "Explore the fiscal multiplier's crucial role in macroeconomics and its impact on GDP through government fiscal spending. Understand its roots in Keynesian economics, analyzing how changes in government expenditure and taxation influence economic activity. Discover its application in modern financial tools like algorithmic trading to enhance market prediction and policy-making effectiveness. This article provides an in-depth look at theoretical and practical aspects of the fiscal multiplier, its historical uses, and its significance in navigating economic crises and fostering growth."
+category: quant_concept
+description: Explore the fiscal multiplier's crucial role in macroeconomics and its
+  impact on GDP through government fiscal spending. Understand its roots in Keynesian
+  economics, analyzing how changes in government expenditure and taxation influence
+  economic activity. Discover its application in modern financial tools like algorithmic
+  trading to enhance market prediction and policy-making effectiveness. This article
+  provides an in-depth look at theoretical and practical aspects of the fiscal multiplier,
+  its historical uses, and its significance in navigating economic crises and fostering
+  growth.
+title: 'Fiscal Multiplier: Overview and Applications (Algo Trading)'
 ---
 
 The fiscal multiplier is a fundamental concept in macroeconomics, emphasizing the impact of government fiscal spending on a country's economic output, particularly its Gross Domestic Product (GDP). At its core, the fiscal multiplier quantifies how changes in government expenditure or taxation can influence the total economic activity. Understanding this concept is essential for governments as it informs the development of effective economic policies, especially during periods of economic turmoil and recovery, such as during financial crises or recessions.

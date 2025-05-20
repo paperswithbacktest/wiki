@@ -1,6 +1,8 @@
 ---
-title: "Intellectual Property Exchange International (Algo Trading)"
-description: "Explore the intersection of intellectual property and algorithmic trading in global markets Discover how IP exchanges revolutionize IP transactions and commercialization"
+category: quant_concept
+description: Explore the intersection of intellectual property and algorithmic trading
+  in global markets Discover how IP exchanges revolutionize IP transactions and commercialization
+title: Intellectual Property Exchange International (Algo Trading)
 ---
 
 Intellectual property (IP) stands as a cornerstone in today's commercial and technological landscape, serving as a vital asset for entities across various innovative and creative sectors. The strategic management of IP is not merely a legal necessity but a crucial component for establishing and maintaining a competitive advantage in global markets. This article examines how IP intertwines with modern commerce and highlights the concept of an IP exchange—a burgeoning platform for IP transactions. Furthermore, the role of algorithmic trading in revolutionizing these markets is discussed.

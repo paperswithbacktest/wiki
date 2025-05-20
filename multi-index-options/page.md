@@ -1,6 +1,8 @@
 ---
-title: "Multi-Index Options (Algo Trading)"
-description: "Explore the benefits of multi-index options in algorithmic trading to optimize strategies and manage risks with precision for enhanced portfolio performance."
+category: quant_concept
+description: Explore the benefits of multi-index options in algorithmic trading to
+  optimize strategies and manage risks with precision for enhanced portfolio performance.
+title: Multi-Index Options (Algo Trading)
 ---
 
 Financial derivatives have become a cornerstone of modern finance, enabling investors to hedge risks, speculate on market movements, and enhance portfolio returns. These financial instruments derive their value from underlying assets such as stocks, bonds, commodities, or indices, and are utilized in various forms to manage financial exposures effectively. Among these derivatives, options trading stands out due to its inherent flexibility and potential for profitable strategies. Options offer traders the right, but not the obligation, to buy or sell an underlying asset at a predetermined price before a specified expiration date, allowing for strategic positioning based on market predictions.

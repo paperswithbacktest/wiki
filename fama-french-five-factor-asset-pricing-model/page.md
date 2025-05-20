@@ -1,6 +1,12 @@
 ---
-title: "The Fama-French Five-Factor Asset Pricing Model (Algo Trading)"
-description: Explore the comprehensive Fama-French Five-Factor Asset Pricing Model in algorithmic trading to understand stock returns through market risk, size, value, profitability, and investment patterns. This article investigates into its theoretical foundation and practical applications, comparing it with other models to highlight its advantages. A valuable resource for traders refining strategies and researchers studying asset pricing dynamics.
+category: quant_concept
+description: Explore the comprehensive Fama-French Five-Factor Asset Pricing Model
+  in algorithmic trading to understand stock returns through market risk, size, value,
+  profitability, and investment patterns. This article investigates into its theoretical
+  foundation and practical applications, comparing it with other models to highlight
+  its advantages. A valuable resource for traders refining strategies and researchers
+  studying asset pricing dynamics.
+title: The Fama-French Five-Factor Asset Pricing Model (Algo Trading)
 ---
 
 In the ever-evolving world of algorithmic trading, numerous models have been developed to enhance the prediction and assessment of stock returns. Among these, the Fama-French 5 Factor Model has gained considerable prominence. Building on the foundation of the earlier 3-factor model, the Fama-French 5 Factor Model incorporates five distinct factors to create a comprehensive framework for understanding stock returns: market risk, size, value, profitability, and investment patterns. These factors offer a multidimensional perspective on the drivers of asset returns, making the model an important tool in both academic research and practical trading applications.

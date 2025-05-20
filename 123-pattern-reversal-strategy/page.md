@@ -1,6 +1,14 @@
 ---
-title: "1-2-3 Pattern Reversal Strategy Explained (Algo Trading)"
-description: Explore the intricacies of the 1-2-3 pattern reversal strategy in algorithmic trading where this powerful tool helps traders identify market reversals and make informed trading decisions. Learn how the pattern is built on three key price points that signal potential market shifts. The guide covers pattern setup across various markets and emphasizes the importance of backtesting for evaluating strategy effectiveness. Dive into the components of the pattern and understand trading rules including entry points stop-loss positioning and profit targets to navigate market complexities effectively.
+category: trading_strategy
+description: Explore the intricacies of the 1-2-3 pattern reversal strategy in algorithmic
+  trading where this powerful tool helps traders identify market reversals and make
+  informed trading decisions. Learn how the pattern is built on three key price points
+  that signal potential market shifts. The guide covers pattern setup across various
+  markets and emphasizes the importance of backtesting for evaluating strategy effectiveness.
+  Dive into the components of the pattern and understand trading rules including entry
+  points stop-loss positioning and profit targets to navigate market complexities
+  effectively.
+title: 1-2-3 Pattern Reversal Strategy Explained (Algo Trading)
 ---
 
 Algorithmic trading represents a sophisticated approach to the financial markets, leveraging computational algorithms and mathematical models to execute trades with precision and speed that surpass human capability. Among the numerous strategies employed in algorithmic trading, the 1-2-3 pattern holds a pivotal role as a technical analysis tool for forecasting potential market reversals. This pattern is characterized by its straightforwardness and efficacy in identifying shifts in market trends.

@@ -1,6 +1,8 @@
 ---
-title: "Sin Investing: Overview and Portfolio Integration (Algo Trading)"
-description: "Discover how sin investing can coexist with ethical portfolios using algorithmic trading Learn to balance high returns with personal values in finance"
+category: trading_strategy
+description: Discover how sin investing can coexist with ethical portfolios using
+  algorithmic trading Learn to balance high returns with personal values in finance
+title: 'Sin Investing: Overview and Portfolio Integration (Algo Trading)'
 ---
 
 Ethical investing, often known as socially responsible investing (SRI), refers to the practice of allocating capital in a manner that aligns with the investor's ethical values and principles. It focuses on investing in companies and sectors that achieve positive environmental, social, and governance (ESG) outcomes. In today's market, this type of investing has gained significant traction as individuals and institutions alike are increasingly conscious of their contributions to sustainability and social welfare. The emphasis on ethical investing signifies a shift towards considering the long-term implications of investment choices, affecting corporate behavior and encouraging responsible business practices.

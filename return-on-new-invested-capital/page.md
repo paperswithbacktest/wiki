@@ -1,6 +1,8 @@
 ---
-title: "Return on New Invested Capital (Algo Trading)"
-description: "Explore the significance of RONIC in investment strategies and algorithmic trading to enhance capital efficiency and investment performance analysis."
+category: trading_strategy
+description: Explore the significance of RONIC in investment strategies and algorithmic
+  trading to enhance capital efficiency and investment performance analysis.
+title: Return on New Invested Capital (Algo Trading)
 ---
 
 Understanding various metrics that evaluate investment performance is crucial for both investors and companies. A key metric in this context is the Return on New Invested Capital (RONIC). RONIC measures the expected return from newly deployed capital, offering insights into how efficiently additional funds are utilized within a company.

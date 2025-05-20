@@ -1,6 +1,8 @@
 ---
-title: "CANSLIM: Overview and Functionality (Algo Trading)"
-description: "Discover the advantages of combining the CANSLIM strategy with algorithmic trading for efficient stock selection and improved investment outcomes."
+category: trading_strategy
+description: Discover the advantages of combining the CANSLIM strategy with algorithmic
+  trading for efficient stock selection and improved investment outcomes.
+title: 'CANSLIM: Overview and Functionality (Algo Trading)'
 ---
 
 Understanding the complexities of stock analysis and investment strategies is fundamental to achieving success in trading. Among various strategies available, CANSLIM stands out as a time-tested approach, particularly appreciated for its systematic framework for identifying high-potential growth stocks. Devised by William J. O’Neil, the CANSLIM acronym encapsulates a set of criteria—Current earnings, Annual earnings, New innovations, Supply and demand, Leader or laggard status, Institutional sponsorship, and Market direction—that guides investors in making informed stock selections.

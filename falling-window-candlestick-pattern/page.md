@@ -1,6 +1,11 @@
 ---
-title: "Falling Window Candlestick Pattern Explained (Algo Trading)"
-description: Explore the significance of the Falling Window candlestick pattern in algorithmic trading which signals bearish market trends through a price gap between consecutive candlesticks. Learn how traders utilize this pattern along with technical indicators to predict market movements and integrate it into automated trading strategies for enhanced decision-making and improved financial outcomes.
+category: quant_concept
+description: Explore the significance of the Falling Window candlestick pattern in
+  algorithmic trading which signals bearish market trends through a price gap between
+  consecutive candlesticks. Learn how traders utilize this pattern along with technical
+  indicators to predict market movements and integrate it into automated trading strategies
+  for enhanced decision-making and improved financial outcomes.
+title: Falling Window Candlestick Pattern Explained (Algo Trading)
 ---
 
 The candlestick charting method, developed in 18th-century Japan, revolutionized the way traders analyze and predict market trends. Known for its visual simplicity and profound implications, this technique has stood the test of time and remains integral in modern financial analysis. A crucial aspect of this method is the ability to discern specific patterns that suggest potential future price movements. Among these, the Falling Window candlestick pattern holds particular significance due to its ability to identify bearish trends with predictive value.

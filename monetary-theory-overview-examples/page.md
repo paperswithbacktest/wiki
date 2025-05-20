@@ -1,6 +1,10 @@
 ---
-title: "Monetary Theory: Overview and Examples (Algo Trading)"
-description: "Explore the evolving intersection of monetary theory and algorithmic trading in today's financial landscape. Understand the foundational economic concepts shaping modern markets and how technological advancements like algo trading are applied to optimize trading strategies and enhance market efficiency."
+category: quant_concept
+description: Explore the evolving intersection of monetary theory and algorithmic
+  trading in today's financial landscape. Understand the foundational economic concepts
+  shaping modern markets and how technological advancements like algo trading are
+  applied to optimize trading strategies and enhance market efficiency.
+title: 'Monetary Theory: Overview and Examples (Algo Trading)'
 ---
 
 In today's rapidly evolving financial landscape, the confluence of economic theory, monetary policy, and technological innovation is fundamentally reshaping the paradigms of trading and finance. Economic and monetary theories provide the foundational frameworks for understanding how economies operate, making them indispensable for deciphering the complexities of modern financial systems. As the financial sector becomes increasingly sophisticated, these theories serve as a compass guiding policymakers and market participants alike.

@@ -1,6 +1,9 @@
 ---
-title: "Dividend Discount Model Analysis (Algo Trading)"
-description: "Delve into the Dividend Discount Model's role in stock valuation and algorithmic trading, offering insights into its application for dividend-paying equities."
+category: quant_concept
+description: Delve into the Dividend Discount Model's role in stock valuation and
+  algorithmic trading, offering insights into its application for dividend-paying
+  equities.
+title: Dividend Discount Model Analysis (Algo Trading)
 ---
 
 Stock valuation is a cornerstone of financial analysis, offering a systematic approach to determine the intrinsic value of a company's stock. This process is crucial for investors and analysts as it guides their decisions to buy, hold, or sell stocks based on whether the market price reflects the stock's underlying value. Among the various models used for stock valuation, the Dividend Discount Model (DDM) serves a significant role, particularly for valuing dividend-paying stocks. The DDM posits that the intrinsic value of a stock is equal to the present value of all its expected future dividends. 

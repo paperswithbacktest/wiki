@@ -1,7 +1,8 @@
 ---
-title: Understanding Return In Reinforcement Learning And MDPs
+category: quant_concept
 description: Return in reinforcement learning measures immediate and discounted rewards
   that guide agents toward optimal decisions over time Discover more inside.
+title: Understanding Return In Reinforcement Learning And MDPs
 ---
 
 ![Image](images/1.png)

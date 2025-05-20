@@ -1,6 +1,8 @@
 ---
-title: "Financial Account Components and Assets (Algo Trading)"
-description: "Explore the interactions between financial accounts and assets in algorithmic trading Discover how automation in trading reshapes financial strategies and outcomes"
+category: quant_concept
+description: Explore the interactions between financial accounts and assets in algorithmic
+  trading Discover how automation in trading reshapes financial strategies and outcomes
+title: Financial Account Components and Assets (Algo Trading)
 ---
 
 Algorithmic trading has significantly transformed the financial sector by automating trading activities through pre-programmed algorithms. This innovation allows for executing trades with remarkable speed and precision, optimizing the dealing process in ways that were previously unattainable by manual trading methods. In this article, we will examine the intricate interactions between financial assets, financial accounts, the constituents of these accounts, and their relationship with algorithmic trading.

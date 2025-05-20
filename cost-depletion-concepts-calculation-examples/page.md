@@ -1,6 +1,9 @@
 ---
-title: "Cost Depletion: Concepts, Calculation, and Examples (Algo Trading)"
-description: "Explore cost depletion in resource extraction and algorithmic trading Learn its essential role in accounting for resource consumption and market opportunity erosion"
+category: quant_concept
+description: Explore cost depletion in resource extraction and algorithmic trading
+  Learn its essential role in accounting for resource consumption and market opportunity
+  erosion
+title: 'Cost Depletion: Concepts, Calculation, and Examples (Algo Trading)'
 ---
 
 In the intersecting worlds of resource extraction and algorithmic trading, understanding the depletion formula and its implications is crucial. This article explores the concept of cost depletion, its application in resource extraction, and its relevance in algorithmic trading. In doing so, we establish a comprehensive framework connecting financial strategies and investment decisions with practical methodologies for accounting and trading.

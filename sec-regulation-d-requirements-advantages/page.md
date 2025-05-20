@@ -1,6 +1,8 @@
 ---
-title: "SEC Regulation D: Requirements and Advantages (Algo Trading)"
-description: "Learn about SEC Regulation D a key regulation for raising capital through private placements in algo trading without SEC registration burdens."
+category: quant_concept
+description: Learn about SEC Regulation D a key regulation for raising capital through
+  private placements in algo trading without SEC registration burdens.
+title: 'SEC Regulation D: Requirements and Advantages (Algo Trading)'
 ---
 
 SEC Regulation D is a set of rules promulgated by the U.S. Securities and Exchange Commission (SEC), governing private placements of securities. Introduced to facilitate capital formation while ensuring investor protection, Regulation D is vital in financial markets as it provides a framework for businesses to raise capital without undergoing the onerous process of registering securities with the SEC. This regulation allows companies, especially small businesses and startups, to access a significant pool of investment resources by easing the regulatory burdens typically associated with public offerings.

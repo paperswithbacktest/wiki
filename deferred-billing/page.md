@@ -1,6 +1,8 @@
 ---
-title: "Deferred Billing (Algo Trading)"
-description: "Explore the role of deferred billing in algorithmic trading and how it enhances payment flexibility, boosts customer satisfaction, and aids cash flow management."
+category: quant_concept
+description: Explore the role of deferred billing in algorithmic trading and how it
+  enhances payment flexibility, boosts customer satisfaction, and aids cash flow management.
+title: Deferred Billing (Algo Trading)
 ---
 
 Understanding various billing processes is crucial for both businesses and consumers. Among these processes, deferred billing stands out as a practice that offers flexibility in payment terms. This type of billing allows purchasers to obtain goods or services immediately while deferring payment to a later specified date. Deferred billing plays an essential role in modern financial systems by impacting purchasing decisions, consumer satisfaction, and business cash flow management.

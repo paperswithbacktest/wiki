@@ -1,6 +1,8 @@
 ---
-title: "Quantitative Market Making (Algo Trading)"
-description: "Discover the transformative power of quantitative market making and algorithmic trading in modern finance for efficient liquidity and enhanced execution speed."
+category: quant_concept
+description: Discover the transformative power of quantitative market making and algorithmic
+  trading in modern finance for efficient liquidity and enhanced execution speed.
+title: Quantitative Market Making (Algo Trading)
 ---
 
 Quantitative market making and algorithmic trading represent cutting-edge methodologies in modern finance, driving significant advancements in how trading operations are executed across global markets. At its core, quantitative market making leverages mathematical models and computing power to facilitate efficient and effective liquidity provision by continuously posting bid and ask prices, enabling a smoother flow of transactions. Algorithmic trading, a broader category encompassing a wide range of strategies including market making, uses complex algorithms to automate the execution of trading orders, significantly enhancing speed and reducing costs.

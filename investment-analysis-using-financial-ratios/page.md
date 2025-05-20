@@ -1,6 +1,8 @@
 ---
-title: "Investment Analysis Using Financial Ratios (Algo Trading)"
-description: "Explore investment analysis using financial ratios and algorithmic trading to automate decisions enhance precision and capitalize on market opportunities efficiently"
+category: trading_strategy
+description: Explore investment analysis using financial ratios and algorithmic trading
+  to automate decisions enhance precision and capitalize on market opportunities efficiently
+title: Investment Analysis Using Financial Ratios (Algo Trading)
 ---
 
 In finance, understanding financial health and evaluating investment opportunities is crucial for both individual and institutional investors. This process heavily relies on the analysis of financial ratios, which offer quantitative insights into a company's performance and stability. By dissecting financial statements, these ratios highlight areas of strength and potential risks, aiding investors in making informed decisions.

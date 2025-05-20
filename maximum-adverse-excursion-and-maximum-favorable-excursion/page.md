@@ -1,6 +1,11 @@
 ---
-title: "Maximum Adverse Excursion and Maximum Favorable Excursion Explained (Algo Trading)"
-description: Explore the essentials of Maximum Adverse Excursion (MAE) in algorithmic trading as a key tool for managing risks and optimizing trading strategies. Learn how MAE quantifies potential losses, informs stop-loss placement, and enhances decision-making by evaluating historical drawdowns, making it crucial for developing robust trading frameworks.
+category: quant_concept
+description: Explore the essentials of Maximum Adverse Excursion (MAE) in algorithmic
+  trading as a key tool for managing risks and optimizing trading strategies. Learn
+  how MAE quantifies potential losses, informs stop-loss placement, and enhances decision-making
+  by evaluating historical drawdowns, making it crucial for developing robust trading
+  frameworks.
+title: Maximum Adverse Excursion and Maximum Favorable Excursion Explained (Algo Trading)
 ---
 
 Maximum Adverse Excursion (MAE) is a pivotal concept in algorithmic trading that measures the largest loss a trading position incurs before it either closes or becomes profitable. Introduced by John Sweeney, this concept plays a significant role in helping traders set optimal stop-loss levels through the analysis of historical drawdown data. MAE helps quantify the maximum amount an asset's price can move adversely against a trader's position. This information is crucial for assessing risk and making informed decisions about where to place stop-loss orders, with the aim to minimize potential losses without stifling profit opportunities.

@@ -1,6 +1,9 @@
 ---
-title: "Confidential Treatment Order: Overview and Functionality (Algo Trading)"
-description: "Confidential Treatment Orders are vital tools in financial regulations allowing firms, particularly in algorithmic trading, to protect sensitive data and strategies."
+category: quant_concept
+description: Confidential Treatment Orders are vital tools in financial regulations
+  allowing firms, particularly in algorithmic trading, to protect sensitive data and
+  strategies.
+title: 'Confidential Treatment Order: Overview and Functionality (Algo Trading)'
 ---
 
 The financial landscape operates under a complex network of regulatory frameworks designed to ensure transparency and protect investors. A pivotal aspect of these regulations is the Confidential Treatment Order (CTO), which plays a vital role by enabling companies to withhold sensitive information from public disclosures. This provision is particularly significant for companies engaged in sectors like algorithmic trading, where proprietary data and strategies are crucial for maintaining competitive advantage.

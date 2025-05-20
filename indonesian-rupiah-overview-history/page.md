@@ -1,6 +1,8 @@
 ---
-title: "Indonesian Rupiah: Overview and History (Algo Trading)"
-description: "Explore the evolution of the Indonesian Rupiah and how algorithmic trading shapes its dynamics understanding its historical impact on Asia's financial landscape."
+category: dataset
+description: Explore the evolution of the Indonesian Rupiah and how algorithmic trading
+  shapes its dynamics understanding its historical impact on Asia's financial landscape.
+title: 'Indonesian Rupiah: Overview and History (Algo Trading)'
 ---
 
 The Indonesian Rupiah (IDR) is not just a currency but a cornerstone of Southeast Asia's economic fabric. As Indonesia's official currency, the IDR has been pivotal in shaping the country's economic policies and interactions with global markets. Recognizing the significance of the IDR requires appreciating its historical journey, its fluctuations over decades, and the emerging role of algorithmic trading in its valuation and trading dynamics.

@@ -1,6 +1,8 @@
 ---
-title: "Mauritius Rupee: History and Economic Impact (Algo Trading)"
-description: "Explore the historical evolution and modern economic impact of the Mauritius Rupee including the rise of algorithmic trading in the Mauritian financial sector."
+category: quant_concept
+description: Explore the historical evolution and modern economic impact of the Mauritius
+  Rupee including the rise of algorithmic trading in the Mauritian financial sector.
+title: 'Mauritius Rupee: History and Economic Impact (Algo Trading)'
 ---
 
 The Mauritius Rupee (MUR) stands as a crucial element in the economic framework of Mauritius, reflecting its historical transitions and current financial dynamics. The evolution of currency in Mauritius is a narrative that mirrors the nation's colonial past and its stride toward economic independence. Initially, the island's monetary system was heavily influenced by its colonizers, with the Indian Rupee and the British monetary systems playing significant roles. The formal establishment of the Mauritius Rupee in 1877 marked a significant milestone, symbolizing autonomy in financial governance and adaptability within the global economic fields.

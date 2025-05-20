@@ -1,6 +1,8 @@
 ---
-title: "Impact of Federal and State Law on the Economy (Algo Trading)"
-description: "Explore how federal and state laws impact economic indicators and algorithmic trading strategies especially focusing on the implications of minimum wage legislation."
+category: quant_concept
+description: Explore how federal and state laws impact economic indicators and algorithmic
+  trading strategies especially focusing on the implications of minimum wage legislation.
+title: Impact of Federal and State Law on the Economy (Algo Trading)
 ---
 
 Algorithmic trading has transformed the landscape of financial markets by utilizing complex algorithms and high-speed data processing to execute trades with precision. These algorithms are designed to analyze vast amounts of data in real time, allowing traders to capitalize on market opportunities that would be imperceptible through manual trading. The efficiency and speed of algorithmic trading have made it a dominant force in modern finance, representing a significant portion of trading volume in major financial markets globally.

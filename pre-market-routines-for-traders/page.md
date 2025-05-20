@@ -1,6 +1,8 @@
 ---
-title: "Pre-Market Routines for Traders (Algo Trading)"
-description: "Optimize your algo trading strategies with robust pre-market routines Analyse overnight developments gauge market sentiment and gain a competitive edge"
+category: trading_strategy
+description: Optimize your algo trading strategies with robust pre-market routines
+  Analyse overnight developments gauge market sentiment and gain a competitive edge
+title: Pre-Market Routines for Traders (Algo Trading)
 ---
 
 The stock market operates as a dynamic and intricate ecosystem, demanding meticulous preparation for those seeking to achieve success. In this vast marketplace, traders encounter a myriad of factors — from global economic shifts to instantaneous news developments — that can influence price movements and market behavior. As such, a well-structured pre-market routine serves as a cornerstone for informed decision-making and effective trading strategies. 

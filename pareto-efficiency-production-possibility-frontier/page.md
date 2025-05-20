@@ -1,6 +1,8 @@
 ---
-title: "Pareto Efficiency and Production Possibility Frontier (Algo Trading)"
-description: "Explore Pareto Efficiency and Production Possibility Frontier in algorithmic trading to optimize resource allocation and economic outcomes with advanced models."
+category: quant_concept
+description: Explore Pareto Efficiency and Production Possibility Frontier in algorithmic
+  trading to optimize resource allocation and economic outcomes with advanced models.
+title: Pareto Efficiency and Production Possibility Frontier (Algo Trading)
 ---
 
 The interplay between economics and technology continues to redefine the landscapes of finance and resource management. Among the core concepts at the heart of these transformations are the Production Possibility Frontier (PPF), Pareto Efficiency, and algorithmic trading. Each of these principles provides a unique lens through which we can examine the allocation of scarce resources and optimize economic outcomes.

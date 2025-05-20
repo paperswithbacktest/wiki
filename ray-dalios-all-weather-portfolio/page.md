@@ -1,6 +1,11 @@
 ---
-title: "Ray Dalio’s All-Weather Portfolio Explained (Algo Trading)"
-description: Discover the intricacies of Ray Dalio's All-Weather Portfolio, a resilient investment strategy designed to thrive in diverse economic climates through balanced asset diversification. Explore how algorithmic trading enhances this approach by optimizing asset allocation, improving risk management, and streamlining portfolio operations for consistent, long-term financial stability and performance.
+category: trading_strategy
+description: Discover the intricacies of Ray Dalio's All-Weather Portfolio, a resilient
+  investment strategy designed to thrive in diverse economic climates through balanced
+  asset diversification. Explore how algorithmic trading enhances this approach by
+  optimizing asset allocation, improving risk management, and streamlining portfolio
+  operations for consistent, long-term financial stability and performance.
+title: Ray Dalio’s All-Weather Portfolio Explained (Algo Trading)
 ---
 
 The All Weather Portfolio (AWP) is an investment strategy developed by Ray Dalio, the founder of Bridgewater Associates, with the primary objective of performing well across various economic conditions. This approach emphasizes robust diversification across asset classes to mitigate potential losses and enhance risk-adjusted returns.

@@ -1,6 +1,9 @@
 ---
-title: "Key Financial Ratios for Penny Stocks (Algo Trading)"
-description: "Discover the key financial ratios essential for analyzing penny stocks and how algorithmic trading can enhance investment strategies in this high-risk market."
+category: trading_strategy
+description: Discover the key financial ratios essential for analyzing penny stocks
+  and how algorithmic trading can enhance investment strategies in this high-risk
+  market.
+title: Key Financial Ratios for Penny Stocks (Algo Trading)
 ---
 
 Understanding investment analysis and financial ratios is a critical aspect of engaging with penny stocks, which are known for their low price and high volatility characteristics. These stocks, often representing small-cap companies, provide unique opportunities alongside significant risks, making them a distinct segment in the equities market. Effective evaluation of penny stocks relies heavily on comprehensive financial analysis, which involves scrutinizing the company's financial health and market position. 

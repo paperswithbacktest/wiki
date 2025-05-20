@@ -1,6 +1,8 @@
 ---
-title: "Mark-to-Model Valuation (Algo Trading)"
-description: "Explore the integration of mark-to-model valuation with algorithmic trading in today's financial markets Understand the synergy for effective asset management"
+category: quant_concept
+description: Explore the integration of mark-to-model valuation with algorithmic trading
+  in today's financial markets Understand the synergy for effective asset management
+title: Mark-to-Model Valuation (Algo Trading)
 ---
 
 In today's fast-paced financial markets, the integration of technology into investment strategies has become indispensable. The convergence of financial modeling, mark-to-model valuation, and algorithmic trading represents a significant advancement in how financial professionals approach asset valuation and trading strategies. Understanding these interconnected components is vital for navigating the complexities associated with modern financial markets.

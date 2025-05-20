@@ -1,6 +1,8 @@
 ---
-title: "Macanese Pataca: Overview and Functionality (Algo Trading)"
-description: "Explore how the Macanese Pataca integrates into Macau's economy and algorithmic trading highlighting its stability and impact on local and global markets."
+category: dataset
+description: Explore how the Macanese Pataca integrates into Macau's economy and algorithmic
+  trading highlighting its stability and impact on local and global markets.
+title: 'Macanese Pataca: Overview and Functionality (Algo Trading)'
 ---
 
 The Macanese Pataca (MOP) serves as the official currency of Macau, a special administrative region of China known for its vibrant cultural heritage and significant economic contributions. Introduced in 1894, the Pataca has a rich historical background intertwined with the colonial and modern phases of Macau's development. This article aims to explore the pivotal role of the Macanese Pataca within Macau's economy and examine its interaction with contemporary trading practices, such as algorithmic trading.

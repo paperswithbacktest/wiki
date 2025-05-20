@@ -1,6 +1,9 @@
 ---
-title: "Net Proceeds: Calculation and Examples (Algo Trading)"
-description: "Explore how net proceeds influence algorithmic trading strategies by understanding their calculation and crucial role in optimizing financial performance and decision-making strategies."
+category: trading_strategy
+description: Explore how net proceeds influence algorithmic trading strategies by
+  understanding their calculation and crucial role in optimizing financial performance
+  and decision-making strategies.
+title: 'Net Proceeds: Calculation and Examples (Algo Trading)'
 ---
 
 Financial calculations form the backbone of strategic decision-making in trading and investment practices. This article is centered on understanding net proceeds and their vital role in shaping financial trading strategies, specifically algorithmic trading. 

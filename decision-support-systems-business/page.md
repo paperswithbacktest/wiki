@@ -1,6 +1,9 @@
 ---
-title: "Decision Support Systems in Business (Algo Trading)"
-description: "Discover the vital role of Decision Support Systems in enhancing algorithmic trading strategies by leveraging data analysis to optimize decision-making and bolster trading efficiency."
+category: trading_strategy
+description: Discover the vital role of Decision Support Systems in enhancing algorithmic
+  trading strategies by leveraging data analysis to optimize decision-making and bolster
+  trading efficiency.
+title: Decision Support Systems in Business (Algo Trading)
 ---
 
 Decision Support Systems (DSS) are instrumental in current business practices, acting as crucial tools for informed decision-making by processing and analyzing large datasets. Their importance is underscored in the field of algorithmic trading, where strategic decisions rely heavily on data-driven insights. This article discusses how DSS can be integrated into algorithmic trading to optimize decision-making and trading strategies.

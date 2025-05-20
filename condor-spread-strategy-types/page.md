@@ -1,6 +1,8 @@
 ---
-title: "Condor Spread Strategy and Types (Algo Trading)"
-description: "Discover the intricacies of the condor spread strategy in algo trading Learn about its types benefits and applications to optimize your investment portfolio"
+category: trading_strategy
+description: Discover the intricacies of the condor spread strategy in algo trading
+  Learn about its types benefits and applications to optimize your investment portfolio
+title: Condor Spread Strategy and Types (Algo Trading)
 ---
 
 Financial derivatives are integral to modern trading, offering tools for hedging risk, speculating, and enhancing investment portfolios. Among the myriad of derivative strategies available, the condor spread stands out for its unique structure and applications, particularly when combined with algorithmic trading. This strategy, known for its non-directional approach, seeks to limit potential gains and losses by profiting from volatility patterns in the market.

@@ -1,6 +1,9 @@
 ---
-title: "Form F-6EF: Definition and Filing Process (Algo Trading)"
-description: "Explore how Form F-6EF simplifies listing ADRs for foreign companies on U.S. exchanges, alongside the impact of algo trading on global markets and financial strategies."
+category: quant_concept
+description: Explore how Form F-6EF simplifies listing ADRs for foreign companies
+  on U.S. exchanges, alongside the impact of algo trading on global markets and financial
+  strategies.
+title: 'Form F-6EF: Definition and Filing Process (Algo Trading)'
 ---
 
 The SEC Form F-6EF is a pivotal tool in the domain of securities regulation, particularly when it comes to facilitating global market access via American Depositary Receipts (ADRs). ADRs are crucial for international investors, as they allow U.S. investors to own shares in foreign companies while benefitting from the protection and convenience of trading on U.S. exchanges. This instrument effectively bridges the gap between international enterprises and American capital markets, enhancing both market visibility and investor reach for non-U.S. companies.

@@ -1,6 +1,8 @@
 ---
-title: "Cognitive Biases in Trading (Algo Trading)"
-description: "Explore cognitive biases in algorithmic trading and learn strategies to mitigate their effects for improved decision-making and enhanced trading performance."
+category: quant_concept
+description: Explore cognitive biases in algorithmic trading and learn strategies
+  to mitigate their effects for improved decision-making and enhanced trading performance.
+title: Cognitive Biases in Trading (Algo Trading)
 ---
 
 In investing and trading, understanding the intricacies of investor behavior and trading psychology can significantly impact success. Investors and traders are constantly faced with psychological biases that can skew decision-making processes and lead to suboptimal outcomes. These biases often result from cognitive and emotional influences that distort perception, judgment, and ultimately, financial decisions. Recognizing and understanding these biases is crucial to overcome them and improve trading efficiency.

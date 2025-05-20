@@ -1,6 +1,9 @@
 ---
-title: "Government Regulations Impacting Banking Sector Investment (Algo Trading)"
-description: "Explore how government regulations shape investment banking and algorithmic trading, balancing innovation with market stability and promoting transparent financial practices."
+category: quant_concept
+description: Explore how government regulations shape investment banking and algorithmic
+  trading, balancing innovation with market stability and promoting transparent financial
+  practices.
+title: Government Regulations Impacting Banking Sector Investment (Algo Trading)
 ---
 
 Investment banking regulation and government policy play pivotal roles in shaping the operation of financial markets and the activities of investment banks. These regulations establish the framework within which financial institutions operate, aiming to maintain market integrity, promote transparency, and protect investors. As financial markets have evolved, so too have the regulatory measures designed to monitor and control the activities of market participants. The emergence of algorithmic trading has introduced new challenges and opportunities, necessitating a proactive regulatory approach.

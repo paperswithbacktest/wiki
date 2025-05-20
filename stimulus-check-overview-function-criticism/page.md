@@ -1,6 +1,9 @@
 ---
-title: "Stimulus Check Overview, Function, and Criticism (Algo Trading)"
-description: "Explore the impact of stimulus checks on economic health and the role of algo trading in modern finance Discover the benefits and challenges of these tools"
+category: quant_concept
+description: Explore the impact of stimulus checks on economic health and the role
+  of algo trading in modern finance Discover the benefits and challenges of these
+  tools
+title: Stimulus Check Overview, Function, and Criticism (Algo Trading)
 ---
 
 The economic landscape has undergone substantial changes over the past few years, with a marked increase in the relevance of stimulus checks, government payments, and overall economic relief efforts. These elements have garnered significant attention in global economic discussions, driven by their impacts on financial health and economic stability. Notably, stimulus checks have emerged as a vital fiscal policy tool, designed to invigorate consumer spending and address economic downturns, such as those prompted by the financial crisis of 2008 and the recent COVID-19 pandemic.

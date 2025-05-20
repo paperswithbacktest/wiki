@@ -1,6 +1,8 @@
 ---
-title: "Notional Value and Market Value Differences (Algo Trading)"
-description: "Explore notional value and market value to understand their impact on trading strategies risk management and the dynamic role of algorithmic trading."
+category: quant_concept
+description: Explore notional value and market value to understand their impact on
+  trading strategies risk management and the dynamic role of algorithmic trading.
+title: Notional Value and Market Value Differences (Algo Trading)
 ---
 
 Understanding the nuances of financial instruments is essential for investors and traders aiming to navigate the complex landscape of modern markets. Two key financial concepts that play a pivotal role, particularly within derivative markets, are notional value and market value. These concepts help in assessing financial positions and gauging potential exposures and risks. Notional value refers to the total value of a leveraged position’s assets in a contract, serving as a measure used primarily in derivatives like futures, options, and swaps. Conversely, market value pertains to the price at which a security can be bought or sold at any given time, shaped by the current supply and demand dynamics. 

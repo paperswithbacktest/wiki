@@ -1,6 +1,9 @@
 ---
-title: "Basis Differential and Its Functionality (Algo Trading)"
-description: "Explore the intricate roles of price spread, basis differential, and algorithmic trading in modern financial markets to optimize strategies and trading outcomes."
+category: quant_concept
+description: Explore the intricate roles of price spread, basis differential, and
+  algorithmic trading in modern financial markets to optimize strategies and trading
+  outcomes.
+title: Basis Differential and Its Functionality (Algo Trading)
 ---
 
 The financial markets represent a complex and dynamic environment, demanding a comprehensive grasp of diverse trading strategies for effective navigation. These markets are influenced by numerous variables, necessitating a solid understanding of key concepts such as price spread, basis differential, and algorithmic trading. Each of these plays a critical role in the modern financial trading infrastructure.
@@ -158,4 +161,3 @@ Machine Learning for Algorithmic Trading by Stefan Jansen offers comprehensive c
 Quantitative Trading by Ernest P. Chan is a practical guide on starting an algorithmic trading business. Chan draws from his own experiences to advise traders on creating and testing market strategies. The text covers aspects of trading system development, including the backtesting process, risk management, and market analysis, providing a robust framework for aspiring quantitative traders.
 
 Options, Futures, and Other Derivatives by John C. Hull is considered a cornerstone in understanding derivative instruments. Hull's work thoroughly explains the fundamental concepts of options and futures markets, pricing models, and hedging strategies. His book is indispensable for traders seeking a solid grounding in derivatives and their applications in financial risk management.
-

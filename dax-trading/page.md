@@ -1,6 +1,12 @@
 ---
-title: "DAX Trading Explained (Algo Trading)"
-description: Explore DAX trading and learn how algorithmic strategies can be effectively applied to this key German stock market index. Discover various techniques, including trend following, mean reversion, and contrarian trading, along with insights into the DAX's liquidity and volatility. Enhance your trading performance by understanding the role of the DAX as an economic indicator and leveraging advanced computational tools for data analysis and strategy implementation.
+category: trading_strategy
+description: Explore DAX trading and learn how algorithmic strategies can be effectively
+  applied to this key German stock market index. Discover various techniques, including
+  trend following, mean reversion, and contrarian trading, along with insights into
+  the DAX's liquidity and volatility. Enhance your trading performance by understanding
+  the role of the DAX as an economic indicator and leveraging advanced computational
+  tools for data analysis and strategy implementation.
+title: DAX Trading Explained (Algo Trading)
 ---
 
 The DAX, formally known as the Deutscher Aktienindex, serves as a key indicator of the German economy, encapsulating the performance of 40 leading companies listed on the Frankfurt Stock Exchange. It stands as one of Europe's foremost stock market indices, reflecting economic health and business climate across Germany, and by extension, the European Union. Due to its liquidity and volatility, the DAX is an attractive target for algorithmic and quantitative traders, who use systematic approaches to exploit market patterns.

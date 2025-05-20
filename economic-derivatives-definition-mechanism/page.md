@@ -1,6 +1,9 @@
 ---
-title: "Economic Derivatives: Definition and Mechanism (Algo Trading)"
-description: "Discover the mechanisms and significance of economic derivatives and algorithmic trading Learn how these financial tools impact modern financial markets and risk management strategies"
+category: quant_concept
+description: Discover the mechanisms and significance of economic derivatives and
+  algorithmic trading Learn how these financial tools impact modern financial markets
+  and risk management strategies
+title: 'Economic Derivatives: Definition and Mechanism (Algo Trading)'
 ---
 
 The complex world of finance is an intricate tapestry woven from various interconnected components such as financial instruments, economic derivatives, economics, and algorithmic trading. In contemporary financial markets, understanding these elements is not merely advantageous but essential. They form the basis of financial strategies, risk management, and analyzing economic impact. The interplay between these components drives financial dynamics and shapes economic realities.

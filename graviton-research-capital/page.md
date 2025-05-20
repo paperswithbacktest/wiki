@@ -1,6 +1,9 @@
 ---
-title: "Graviton Research Capital (Algo Trading)"
-description: "Explore the innovative world of algorithmic trading with Graviton Research Capital which combines advanced technology and data-driven strategies for optimal performance."
+category: quant_concept
+description: Explore the innovative world of algorithmic trading with Graviton Research
+  Capital which combines advanced technology and data-driven strategies for optimal
+  performance.
+title: Graviton Research Capital (Algo Trading)
 ---
 
 Graviton Research Capital stands as a prominent figure in the domain of algorithmic trading, distinguished by its innovative approach and advanced technological resources. The emergence of algorithmic trading has profoundly transformed the financial landscape, offering significant advantages over traditional trading methods, such as increased speed, precision, and the ability to process vast amounts of data instantaneously. This form of trading leverages complex algorithms, statistical models, and machine learning techniques to execute trades at optimal conditions, often in fractions of a second, thus providing participants a competitive edge.

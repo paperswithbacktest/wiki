@@ -1,6 +1,8 @@
 ---
-title: "Oil Price History (Algo Trading)"
-description: "Explore the historical volatility of oil prices driven by geopolitics and economics and discover how algorithmic trading is transforming oil market strategies."
+category: dataset
+description: Explore the historical volatility of oil prices driven by geopolitics
+  and economics and discover how algorithmic trading is transforming oil market strategies.
+title: Oil Price History (Algo Trading)
 ---
 
 The oil market holds a pivotal position in the global economy, significantly impacting transportation, manufacturing, and energy production. A myriad of industries depends on oil as a primary energy source, which underscores its economic significance. Over the decades, oil prices have been characterized by extreme volatility, reflecting not only the complex dynamics of supply and demand but also the influence of geopolitical events, economic cycles, and technological advancements.

@@ -1,6 +1,9 @@
 ---
-title: "Country Risk Premium: Overview and Calculation (Algo Trading)"
-description: "Explore the impact of Country Risk Premium on algorithmic trading and international investments. Understand CRP calculation methods and its role in risk assessment."
+category: quant_concept
+description: Explore the impact of Country Risk Premium on algorithmic trading and
+  international investments. Understand CRP calculation methods and its role in risk
+  assessment.
+title: 'Country Risk Premium: Overview and Calculation (Algo Trading)'
 ---
 
 Financial risk assessment plays a pivotal role in the global financial markets by evaluating potential risks associated with investment opportunities. This process primarily aims to measure the uncertainty in achieving expected returns, thereby guiding investors and financial institutions in their decision-making. A critical component of financial risk assessment is the Country Risk Premium (CRP), which quantifies the additional return an investor requires to invest in a foreign country rather than a risk-free domestic asset. Another key element underpinning modern financial systems is algorithmic trading, where computer algorithms automatically execute trading decisions at high speeds, thereby enhancing market efficiency and liquidity.

@@ -1,6 +1,9 @@
 ---
-title: "American Callable Bonds: Overview, Risks, and Examples (Algo Trading)"
-description: "Explore the unique features of American callable bonds including their risks and benefits Enhance your portfolio using advanced algorithmic trading strategies for bonds"
+category: quant_concept
+description: Explore the unique features of American callable bonds including their
+  risks and benefits Enhance your portfolio using advanced algorithmic trading strategies
+  for bonds
+title: 'American Callable Bonds: Overview, Risks, and Examples (Algo Trading)'
 ---
 
 In the world of finance, bonds are attractive to investors looking for stable returns. Among these, American callable bonds present unique opportunities and risks. Callable bonds, in general, are a type of bond that allow the issuer to repay the bond before its maturity date at predetermined call prices. This feature provides issuers with flexibility to manage their debt more efficiently, particularly when interest rates decline, thus enabling them to refinance at lower rates.

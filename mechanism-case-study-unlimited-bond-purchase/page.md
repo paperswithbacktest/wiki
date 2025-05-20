@@ -1,6 +1,8 @@
 ---
-title: "Mechanism and Case Study of Unlimited Bond Purchase (Algo Trading)"
-description: "Explore the interplay of financial policy, quantitative easing, and algorithmic trading redefining the economic landscape and understanding the future of finance."
+category: quant_concept
+description: Explore the interplay of financial policy, quantitative easing, and algorithmic
+  trading redefining the economic landscape and understanding the future of finance.
+title: Mechanism and Case Study of Unlimited Bond Purchase (Algo Trading)
 ---
 
 The complex interplay of financial policy, quantitative easing, bond purchases, and algorithmic trading has fundamentally reshaped the global economic landscape. These elements represent critical pillars of modern financial frameworks and understanding them is essential for anyone keen on grasping the nuances of contemporary finance and economics.

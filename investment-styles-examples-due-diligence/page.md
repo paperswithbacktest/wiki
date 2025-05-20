@@ -1,6 +1,9 @@
 ---
-title: "Investment Styles: Examples and Due Diligence (Algo Trading)"
-description: "Explore diverse investment styles and the importance of due diligence in this insightful article Learn about value growth and income investing highlighting algorithmic trading trends"
+category: trading_strategy
+description: Explore diverse investment styles and the importance of due diligence
+  in this insightful article Learn about value growth and income investing highlighting
+  algorithmic trading trends
+title: 'Investment Styles: Examples and Due Diligence (Algo Trading)'
 ---
 
 Investing is a fundamental component of financial planning, providing a pathway for individuals to build wealth and achieve financial security. Investment strategies are diverse, enabling investors to customize their portfolios according to specific objectives and personal circumstances. The spectrum of investment strategies ranges from traditional approaches to innovative methods powered by technology.

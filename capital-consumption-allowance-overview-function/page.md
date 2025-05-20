@@ -1,6 +1,9 @@
 ---
-title: "Capital Consumption Allowance: Overview and Function (Algo Trading)"
-description: "Explore the interplay of capital consumption allowance depreciation and algorithmic trading in the modern economy and its impact on financial growth and stability."
+category: quant_concept
+description: Explore the interplay of capital consumption allowance depreciation and
+  algorithmic trading in the modern economy and its impact on financial growth and
+  stability.
+title: 'Capital Consumption Allowance: Overview and Function (Algo Trading)'
 ---
 
 The modern economic landscape is continually evolving, influenced by a mix of traditional financial concepts and emerging technologies. A deeper understanding of this evolution can be gained by examining the interplay among four critical topics: economic accounting, capital consumption allowance (CCA), depreciation, and algorithmic trading. These elements are pivotal in comprehending business operations and the broader economy's adaptability and growth.

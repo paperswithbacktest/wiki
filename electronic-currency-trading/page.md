@@ -1,6 +1,9 @@
 ---
-title: "Electronic Currency Trading (Algo Trading)"
-description: "Explore the transformative impact of electronic currency trading and algorithmic strategies in the forex market Enhance trading efficiency and accessibility globally"
+category: quant_concept
+description: Explore the transformative impact of electronic currency trading and
+  algorithmic strategies in the forex market Enhance trading efficiency and accessibility
+  globally
+title: Electronic Currency Trading (Algo Trading)
 ---
 
 Electronic trading in financial markets has fundamentally transformed global finance by enabling faster and more efficient execution of trades (Chaboud et al., 2009). By moving away from traditional floor trading, electronic platforms now allow for seamless transactions across global markets, significantly reducing time and cost barriers. In particular, electronic trading has redefined currency trading, offering traders continuous access to the foreign exchange market. This development has given rise to unprecedented liquidity and market participation on a global scale.

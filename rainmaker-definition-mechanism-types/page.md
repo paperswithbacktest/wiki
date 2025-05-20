@@ -1,6 +1,8 @@
 ---
-title: "Rainmaker: Definition, Mechanism, and Types (Algo Trading)"
-description: "Explore the concept of rainmaker mechanisms in algorithmic trading. Understand their types functions and impact on trading efficiency and risk management."
+category: quant_concept
+description: Explore the concept of rainmaker mechanisms in algorithmic trading. Understand
+  their types functions and impact on trading efficiency and risk management.
+title: 'Rainmaker: Definition, Mechanism, and Types (Algo Trading)'
 ---
 
 The world of financial trading has experienced a dramatic evolution over recent decades, driven largely by advances in technology. One of the most transformative developments in this field is algorithmic trading, which leverages sophisticated mathematical models and complex algorithms to automate trading decisions. 

@@ -1,6 +1,8 @@
 ---
-title: "Dow Jones Stock Market Index (Algo Trading)"
-description: "Explore the impact of algorithmic trading on the Dow Jones stock market index Learn how automation transforms trading strategies for investors today"
+category: quant_concept
+description: Explore the impact of algorithmic trading on the Dow Jones stock market
+  index Learn how automation transforms trading strategies for investors today
+title: Dow Jones Stock Market Index (Algo Trading)
 ---
 
 The Dow Jones Stock Market Index, formally known as the Dow Jones Industrial Average (DJIA), is a quintessential measure of the U.S. equity market and one of the most trusted indicators of the economic health of the United States. It comprises 30 significant publicly-traded companies in the U.S., spanning various sectors, excluding transportation and utilities. Since its inception in 1896 by Charles Dow and Edward Jones, the DJIA has gained immense importance in both domestic and global finance as a proxy for broader market trends and economic movements. More than just a collection of stock prices, it symbolizes the performance of well-established companies, often referred to as blue-chip stocks.

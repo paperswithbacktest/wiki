@@ -1,6 +1,8 @@
 ---
-title: "Multiple Column Tariff: Overview and Impacts (Algo Trading)"
-description: "Explore the dynamic intersection of multiple column tariffs and algorithmic trading Discover their profound impacts on global trade and financial markets."
+category: quant_concept
+description: Explore the dynamic intersection of multiple column tariffs and algorithmic
+  trading Discover their profound impacts on global trade and financial markets.
+title: 'Multiple Column Tariff: Overview and Impacts (Algo Trading)'
 ---
 
 In recent times, trade policy and tariff strategies have emerged as pivotal components in the discourse of global economics. Their significance lies not just in influencing economic activities but in reshaping the political and social interactions among nations. Trade policies, encompassing both protectionist and liberalization measures, serve as a nation's blueprint for governing imports and exports, influencing everything from local economies to global supply chains.

@@ -1,6 +1,9 @@
 ---
-title: "Comparison of Operating Cash Flow and Net Operating Income (Algo Trading)"
-description: "Explore the nuances between Operating Cash Flow and Net Operating Income as key financial metrics, and their integration into powerful algorithmic trading strategies."
+category: quant_concept
+description: Explore the nuances between Operating Cash Flow and Net Operating Income
+  as key financial metrics, and their integration into powerful algorithmic trading
+  strategies.
+title: Comparison of Operating Cash Flow and Net Operating Income (Algo Trading)
 ---
 
 In the fast-paced world of finance, understanding key metrics and leveraging technology is essential for success. Navigating the complexities of financial markets requires a comprehensive grasp of critical components such as operating cash flow financial analysis, net operating income, and algorithmic trading. These elements form the backbone of insightful investment strategies and sophisticated algorithmic trading models.

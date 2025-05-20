@@ -1,6 +1,9 @@
 ---
-title: "Regulation of Investment Banks in the United States (Algo Trading)"
-description: "Explore how U.S. investment banks navigate regulation and the rise of algorithmic trading amidst evolving financial markets emphasizing compliance and innovation."
+category: quant_concept
+description: Explore how U.S. investment banks navigate regulation and the rise of
+  algorithmic trading amidst evolving financial markets emphasizing compliance and
+  innovation.
+title: Regulation of Investment Banks in the United States (Algo Trading)
 ---
 
 In the rapidly evolving world of finance, investment banks play a pivotal role in managing mergers, acquisitions, and trading activities. These institutions are integral to the financial markets, channeling capital flow and providing essential advisory services. The landscape of investment banking is continuously changing, driven by technological advancements and regulatory shifts. Among these changes, algorithmic trading has emerged as a prominent feature within investment banks. Characterized by the use of sophisticated algorithms to execute trades at high speeds, it offers distinct advantages such as increased market liquidity and precision. However, it also poses significant regulatory challenges and raises concerns about market volatility and systemic risks.

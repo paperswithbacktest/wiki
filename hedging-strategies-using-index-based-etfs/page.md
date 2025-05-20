@@ -1,6 +1,9 @@
 ---
-title: "Hedging Strategies Using Index-Based ETFs (Algo Trading)"
-description: "Explore hedging strategies using index-based ETFs to manage investment risks effectively and enhance portfolio performance through algorithmic trading insights."
+category: trading_strategy
+description: Explore hedging strategies using index-based ETFs to manage investment
+  risks effectively and enhance portfolio performance through algorithmic trading
+  insights.
+title: Hedging Strategies Using Index-Based ETFs (Algo Trading)
 ---
 
 Index-based Exchange Traded Funds (ETFs) have emerged as a prominent investment instrument in the financial markets, appealing to both institutional and individual investors. These financial products are designed to track the performance of specific indices, such as the S&P 500 or NASDAQ-100, offering investors exposure to a diverse array of securities. The appeal of index-based ETFs lies in their ability to provide diversification, liquidity, and a cost-effective way to engage in a passive investment strategy.

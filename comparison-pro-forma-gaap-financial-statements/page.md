@@ -1,6 +1,9 @@
 ---
-title: "Comparison of Pro Forma and GAAP Financial Statements (Algo Trading)"
-description: "Explore the key differences between pro forma and GAAP financial statements and their impact on algorithmic trading providing insights into financial reporting and decision-making."
+category: quant_concept
+description: Explore the key differences between pro forma and GAAP financial statements
+  and their impact on algorithmic trading providing insights into financial reporting
+  and decision-making.
+title: Comparison of Pro Forma and GAAP Financial Statements (Algo Trading)
 ---
 
 In the world of finance, understanding the nuances between different financial statements is crucial for making informed decisions. Financial statements are the backbone of reporting, serving as a key source of information to investors, regulators, and other stakeholders. Among these, Generally Accepted Accounting Principles (GAAP) statements and pro forma statements stand out due to their distinct methodologies and purposes. This article explores the differences between pro forma statements and GAAP statements, with a focus on their implications in financial reporting.

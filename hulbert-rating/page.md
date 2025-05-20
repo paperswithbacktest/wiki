@@ -1,6 +1,8 @@
 ---
-title: "Hulbert Rating (Algo Trading)"
-description: "Explore the synergy between Hulbert Ratings and algorithmic trading Discover how performance metrics enrich algo strategies for informed investment decisions"
+category: quant_concept
+description: Explore the synergy between Hulbert Ratings and algorithmic trading Discover
+  how performance metrics enrich algo strategies for informed investment decisions
+title: Hulbert Rating (Algo Trading)
 ---
 
 The investment rating market has become increasingly important as investors demand robust and reliable evaluations of financial products and services. A key instrument in this area is the Hulbert Rating, which offers detailed insights into the performance of investment newsletters. Established by Mark Hulbert in 1980, this rating system has been a staple for investors looking to assess historical performance and risk-adjusted returns of these newsletters through its systematic and empirical approach.

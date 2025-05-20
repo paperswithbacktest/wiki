@@ -1,6 +1,8 @@
 ---
-title: "Comparison of Payment Netting and Close-Out Netting (Algo Trading)"
-description: "Explore how payment netting and close-out netting enhance risk management and transaction efficiency in algorithmic trading within the financial markets."
+category: quant_concept
+description: Explore how payment netting and close-out netting enhance risk management
+  and transaction efficiency in algorithmic trading within the financial markets.
+title: Comparison of Payment Netting and Close-Out Netting (Algo Trading)
 ---
 
 The financial industry is marked by a web of intricate transactions and inherent risks. To navigate these challenges, financial institutions implement various methods, one of which is netting. Netting involves the aggregation of multiple financial obligations into a single net amount, thus streamlining the settlement process. By reducing the number of cash flows exchanged between parties, netting minimizes transaction costs and mitigates risk exposure. This technique is pivotal, particularly in areas like derivatives trading, where large volumes of transactions occur daily.

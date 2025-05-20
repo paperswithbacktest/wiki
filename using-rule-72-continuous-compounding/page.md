@@ -1,6 +1,9 @@
 ---
-title: "Using the Rule of 72 for Continuous Compounding Calculations (Algo Trading)"
-description: "Discover how the Rule of 72 simplifies investment growth projections by estimating doubling time in various financial contexts including algorithmic trading."
+category: quant_concept
+description: Discover how the Rule of 72 simplifies investment growth projections
+  by estimating doubling time in various financial contexts including algorithmic
+  trading.
+title: Using the Rule of 72 for Continuous Compounding Calculations (Algo Trading)
 ---
 
 The Rule of 72 is a straightforward yet potent tool that investors utilize to estimate the time required for an investment to double in value at a fixed annual rate of return. By offering a quick approximation, the Rule of 72 underscores the profound effect of compound interest on investments, thus serving as an immediate reference for assessing growth potential. This simplicity makes it particularly advantageous in various financial scenarios, including algorithmic trading (algo trading), where rapid decision-making is crucial.

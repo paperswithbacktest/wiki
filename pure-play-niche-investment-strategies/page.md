@@ -1,6 +1,9 @@
 ---
-title: "Pure Play: Examples of Niche Investment Strategies (Algo Trading)"
-description: "Discover the transformative world of niche investing strategies with our in-depth look at pure play and algo trading Explore how focused investments can maximize returns"
+category: trading_strategy
+description: Discover the transformative world of niche investing strategies with
+  our in-depth look at pure play and algo trading Explore how focused investments
+  can maximize returns
+title: 'Pure Play: Examples of Niche Investment Strategies (Algo Trading)'
 ---
 
 Investing strategies are undergoing a transformation as niche investing gains traction among investors who seek focused opportunities in specific sectors or market segments. This approach, known as 'niche investing', offers a targeted investment strategy aimed at maximizing returns through concentrated exposure to select markets.

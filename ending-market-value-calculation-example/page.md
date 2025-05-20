@@ -1,6 +1,9 @@
 ---
-title: "Ending Market Value: Calculation and Example (Algo Trading)"
-description: "Explore the significance of Ending Market Value and its role in algo trading for precise investment analysis Understand how EMV guides your financial decisions."
+category: quant_concept
+description: Explore the significance of Ending Market Value and its role in algo
+  trading for precise investment analysis Understand how EMV guides your financial
+  decisions.
+title: 'Ending Market Value: Calculation and Example (Algo Trading)'
 ---
 
 In the rapidly changing financial landscape, understanding the intricacies of investment analysis and algorithmic trading is critical. As investors navigate a dynamic market environment, assessing the Ending Market Value (EMV) of investments becomes essential for informed decision-making. EMV, which calculates the value of an investment at the end of a specified period, serves as a fundamental metric in evaluating investment performance and aligning strategies with market realities.

@@ -1,6 +1,8 @@
 ---
-title: "Denomination with Real-World Examples (Algo Trading)"
-description: "Explore real-world examples of how currency denomination impacts algorithmic trading strategies and influences key parameters like pricing and risk management."
+category: quant_concept
+description: Explore real-world examples of how currency denomination impacts algorithmic
+  trading strategies and influences key parameters like pricing and risk management.
+title: Denomination with Real-World Examples (Algo Trading)
 ---
 
 Algorithmic trading is a sophisticated approach in the financial markets that utilizes computer programs and algorithms to execute a large volume of trades at speeds and frequencies that would be impossible for human traders. This methodology has revolutionized the trading landscape, facilitating transactions with increased speed, accuracy, and efficiency, thereby reducing transaction costs and benefiting from arbitrage opportunities. 

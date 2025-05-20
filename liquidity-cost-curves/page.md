@@ -1,6 +1,9 @@
 ---
-title: "Liquidity cost curves (Algo Trading)"
-description: "Liquidity cost curves are essential for algorithmic trading offering insights on trade costs based on size enhancing strategies like VWAP and TWAP to optimize execution."
+category: quant_concept
+description: Liquidity cost curves are essential for algorithmic trading offering
+  insights on trade costs based on size enhancing strategies like VWAP and TWAP to
+  optimize execution.
+title: Liquidity cost curves (Algo Trading)
 ---
 
 Liquidity cost curves are critical tools for those engaging in algorithmic trading, especially in the stock and forex markets. These mathematical models help traders estimate the cost of executing trades of varying sizes, thereby influencing decision-making and optimizing trading strategies. The dynamic nature of financial markets necessitates the reliance on algorithms that can provide real-time insights, and liquidity cost curves are among the most vital components in this toolkit.

@@ -1,6 +1,9 @@
 ---
-title: "Convertible Cars: Types and Mechanisms (Algo Trading)"
-description: "Explore the allure of convertible cars including types and mechanisms while uncovering their surprising connection to algorithmic trading for enhanced experiences."
+category: quant_concept
+description: Explore the allure of convertible cars including types and mechanisms
+  while uncovering their surprising connection to algorithmic trading for enhanced
+  experiences.
+title: 'Convertible Cars: Types and Mechanisms (Algo Trading)'
 ---
 
 Convertible cars, with their open-top designs, offer drivers a unique blend of freedom and style, allowing them to enjoy the open road with an unobstructed view of the sky. These vehicles have seen a resurgence in popularity in recent years, fueled by technological advancements and a renewed interest in driving experiences that emphasize connection with the environment. As the automotive market expands, convertible cars are increasingly appealing to a diverse demographic, captivated by both their aesthetic appeal and the unrivaled driving pleasure they provide.

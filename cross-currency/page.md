@@ -1,6 +1,8 @@
 ---
-title: "Cross Currency (Algo Trading)"
-description: "Explore the dynamics of cross currency trading and algorithmic strategies in the forex market—a realm of immense opportunities and complex strategies."
+category: quant_concept
+description: Explore the dynamics of cross currency trading and algorithmic strategies
+  in the forex market—a realm of immense opportunities and complex strategies.
+title: Cross Currency (Algo Trading)
 ---
 
 In today's ever-evolving financial landscape, foreign exchange (forex) trading has become a pivotal platform for global economic interaction. As one of the largest and most liquid markets in the world, forex provides immense opportunities for both individual traders and financial institutions. Currency trading serves as a vital tool for international trade and investment, as well as for ensuring economic stability through hedging and diversification.
@@ -138,4 +140,3 @@ Ultimately, the fusion of human strategic thinking with technological advancemen
    Open-source platforms such as QuantConnect and QuantLib offer tools for developing and testing algorithmic trading strategies. These resources are essential for traders interested in exploring Python and C++ applications to enhance trading precision and efficiency.
 
 These materials provide a well-rounded approach to understanding and mastering forex trading and algorithmic strategies, offering valuable insights into both foundational concepts and cutting-edge advancements in the industry.
-

@@ -1,6 +1,8 @@
 ---
-title: "L Bond: Overview and Characteristics (Algo Trading)"
-description: "Discover the unique characteristics of L Bonds, intertwined with algorithmic trading, offering insights into innovative investment strategies and market dynamics."
+category: quant_concept
+description: Discover the unique characteristics of L Bonds, intertwined with algorithmic
+  trading, offering insights into innovative investment strategies and market dynamics.
+title: 'L Bond: Overview and Characteristics (Algo Trading)'
 ---
 
 Bonds are fundamental instruments in the world of finance, serving as debt securities issued by entities such as governments, municipalities, and corporations to raise capital. They constitute a significant portion of global financial markets and act as a cornerstone for both conservative and strategic investment portfolios. A bond typically involves an investor lending money to the issuer in exchange for periodic interest payments and the return of the bond's face value upon maturity. Understanding the intricacies of bond characteristics, including principal, interest, maturity, yield, and ratings, is crucial for investors seeking to optimize their portfolios through diversification and risk management.

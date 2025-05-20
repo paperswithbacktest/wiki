@@ -1,6 +1,13 @@
 ---
-title: "Long-Short Equity Strategy (Algo Trading)"
-description: Explore the intricacies of the long-short equity strategy in algorithmic trading, a method that aims to generate returns regardless of market conditions by balancing long and short positions. Understand how this approach minimizes risk and leverages both overvalued and undervalued stocks. Through comprehensive insights into its mechanics, benefits, and challenges, this article reveals how the long-short strategy can enhance portfolio performance using advanced models and backtesting in the dynamic world of financial markets.
+category: trading_strategy
+description: Explore the intricacies of the long-short equity strategy in algorithmic
+  trading, a method that aims to generate returns regardless of market conditions
+  by balancing long and short positions. Understand how this approach minimizes risk
+  and leverages both overvalued and undervalued stocks. Through comprehensive insights
+  into its mechanics, benefits, and challenges, this article reveals how the long-short
+  strategy can enhance portfolio performance using advanced models and backtesting
+  in the dynamic world of financial markets.
+title: Long-Short Equity Strategy (Algo Trading)
 ---
 
 Algorithmic trading has transformed the financial industry by enabling traders to execute strategies with unparalleled speed and precision. This advanced form of trading leverages computer algorithms to make swift trading decisions, often based on pre-defined criteria, and is prevalent in the fast-paced environment of financial markets today.

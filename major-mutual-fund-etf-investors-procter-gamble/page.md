@@ -1,6 +1,9 @@
 ---
-title: "Major Mutual Fund and ETF Investors in Procter & Gamble (Algo Trading)"
-description: "Explore the top mutual funds and ETFs investing in Procter & Gamble to understand their strategies and the role of algorithmic trading in boosting P&G's market influence."
+category: dataset
+description: Explore the top mutual funds and ETFs investing in Procter & Gamble to
+  understand their strategies and the role of algorithmic trading in boosting P&G's
+  market influence.
+title: Major Mutual Fund and ETF Investors in Procter & Gamble (Algo Trading)
 ---
 
 Procter & Gamble (P&G) is a renowned multinational corporation primarily engaged in the production and distribution of a wide range of consumer goods. Established in 1837, P&G has continually expanded its reach and influence, becoming a formidable player in the consumer goods sector. The company manages a diverse portfolio of brands across various categories such as personal health, hygiene, and household care, including well-known names like Tide, Gillette, and Pampers. P&G’s strategic focus on product innovation, marketing, and global expansion has contributed to its sustained market leadership and significant revenue generation.

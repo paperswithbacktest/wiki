@@ -1,6 +1,9 @@
 ---
-title: "Market Proxy: Definition and Functionality (Algo Trading)"
-description: "Explore how market proxies and algorithmic trading enhance investment strategies by serving as benchmarks and leveraging automation for optimized trading decisions."
+category: quant_concept
+description: Explore how market proxies and algorithmic trading enhance investment
+  strategies by serving as benchmarks and leveraging automation for optimized trading
+  decisions.
+title: 'Market Proxy: Definition and Functionality (Algo Trading)'
 ---
 
 The financial markets have undergone significant transformation over the years, characterized by increased complexity and diversification. This evolution has brought forth the need for sophisticated investment strategies that can efficiently navigate the changing financial landscape. Modern investment approaches often incorporate advanced tools and techniques, among which the integration of market proxies and algorithmic trading plays a crucial role.

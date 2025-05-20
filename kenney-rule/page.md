@@ -1,6 +1,8 @@
 ---
-title: "Kenney Rule (Algo Trading)"
-description: "Explore the Kenney Rule's application in algorithmic trading to enhance financial stability and risk management, promoting market integrity and efficiency."
+category: quant_concept
+description: Explore the Kenney Rule's application in algorithmic trading to enhance
+  financial stability and risk management, promoting market integrity and efficiency.
+title: Kenney Rule (Algo Trading)
 ---
 
 The world of finance is undergoing a significant transformation, with algorithmic trading emerging as a crucial element of the securities market. This transformation is marked by the integration of technology and finance, where computer algorithms are used to execute trades at remarkable speed and volume. As this trend continues, the focus on regulatory frameworks becomes imperative to ensure market integrity and financial stability.

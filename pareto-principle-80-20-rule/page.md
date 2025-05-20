@@ -1,6 +1,8 @@
 ---
-title: "Pareto Principle: 80/20 Rule (Algo Trading)"
-description: "Discover how the Pareto Principle or 80/20 Rule applies to algorithmic trading strategies where a minority of efforts yield the majority of profits."
+category: quant_concept
+description: Discover how the Pareto Principle or 80/20 Rule applies to algorithmic
+  trading strategies where a minority of efforts yield the majority of profits.
+title: 'Pareto Principle: 80/20 Rule (Algo Trading)'
 ---
 
 The Pareto Principle, commonly known as the 80/20 Rule, is a concept stemming from the observation that a small percentage of causes often lead to a large percentage of results. Named after the Italian economist Vilfredo Pareto, who observed that 80% of Italy's wealth was owned by 20% of the population, this principle has become a foundational concept in various fields. It suggests that in many situations, approximately 80% of consequences are the result of 20% of the causes. This imbalance implies that focusing efforts on the most significant factors can yield substantial improvements, making the Pareto Principle applicable in diverse domains such as business efficiency, quality control, and personal productivity.

@@ -1,6 +1,11 @@
 ---
-title: "Individuals Alleged to Be Bitcoin Creator Satoshi Nakamoto (Algo Trading)"
-description: "Explore the intriguing mystery of Bitcoin creator Satoshi Nakamoto whose identity remains unknown despite sparking vast speculation. Delve into Nakamoto's vision of decentralized finance and how algorithmic trading intersects with cryptocurrency innovation shaping the future of digital economies and broadening access to financial systems worldwide."
+category: quant_concept
+description: Explore the intriguing mystery of Bitcoin creator Satoshi Nakamoto whose
+  identity remains unknown despite sparking vast speculation. Delve into Nakamoto's
+  vision of decentralized finance and how algorithmic trading intersects with cryptocurrency
+  innovation shaping the future of digital economies and broadening access to financial
+  systems worldwide.
+title: Individuals Alleged to Be Bitcoin Creator Satoshi Nakamoto (Algo Trading)
 ---
 
 Bitcoin, a decentralized digital currency launched in 2009, has marked a significant shift in global finance by providing an alternative to traditional fiat currencies and centralized financial institutions. Unlike conventional currencies, Bitcoin operates on a peer-to-peer network, utilizing blockchain technology to maintain a secure and transparent ledger of transactions. This innovative approach minimizes the need for intermediaries, potentially lowering transaction costs and broadening access to financial systems worldwide.

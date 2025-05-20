@@ -1,6 +1,9 @@
 ---
-title: "Methods for Part-Time Forex Trading (Algo Trading)"
-description: "Explore efficient methods for part-time forex trading using algorithmic strategies to automate trades manage time effectively and optimize trading success in a volatile market."
+category: trading_strategy
+description: Explore efficient methods for part-time forex trading using algorithmic
+  strategies to automate trades manage time effectively and optimize trading success
+  in a volatile market.
+title: Methods for Part-Time Forex Trading (Algo Trading)
 ---
 
 Trading in the forex market can be a complex yet fulfilling pursuit, particularly for those engaging on a part-time basis. The forex market, being the largest and most liquid financial market globally, offers numerous opportunities but equally poses challenges due to its volatile nature and the necessity for substantial knowledge and strategy development. Part-time traders often face the challenge of balancing market engagement with time constraints, necessitating the adoption of strategies that enable them to navigate these complexities efficiently.

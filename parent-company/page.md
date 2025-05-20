@@ -1,6 +1,12 @@
 ---
-title: "Parent Company (Algo Trading)"
-description: "Explore the dynamics of corporate ownership focusing on the relationship between parent companies and their subsidiaries and their impact on algorithmic trading. Understand how these entities interact to maximize efficiency and economic gains in financial markets by leveraging technology and governance. Discover the role of governance and strategic alignment in optimizing corporate structures for enhanced financial performance."
+category: quant_concept
+description: Explore the dynamics of corporate ownership focusing on the relationship
+  between parent companies and their subsidiaries and their impact on algorithmic
+  trading. Understand how these entities interact to maximize efficiency and economic
+  gains in financial markets by leveraging technology and governance. Discover the
+  role of governance and strategic alignment in optimizing corporate structures for
+  enhanced financial performance.
+title: Parent Company (Algo Trading)
 ---
 
 This article explores the intricate dynamics of corporate ownership, specifically analyzing the relationship between parent companies and their subsidiaries. Such relationships are fundamental to understanding the hierarchical nature of corporate entities and the strategic roles they fulfill. Often, parent companies exercise control over their subsidiaries, influencing their operational strategies and, crucially, their approach to algorithmic trading.

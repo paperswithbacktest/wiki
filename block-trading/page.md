@@ -1,6 +1,8 @@
 ---
-title: "block trading (Algo Trading)"
-description: "Explore how block trading in stocks, executed through algo trading, enhances order efficiency, lowers costs, and mitigates market impact for significant trades."
+category: quant_concept
+description: Explore how block trading in stocks, executed through algo trading, enhances
+  order efficiency, lowers costs, and mitigates market impact for significant trades.
+title: block trading (Algo Trading)
 ---
 
 Block trading in the stock market refers to the exchange of large volumes of securities, typically involving transactions of 10,000 shares or more, or bonds in units exceeding $200,000. This trading paradigm has historically been the domain of institutional investors such as mutual funds and pension funds, who engage in block trading to accommodate their substantial capital movements without inducing drastic market volatility. With the advent of algorithmic trading, or algo trading, there has been a marked transformation in the mechanisms of block trading, resulting in enhanced execution speed and efficiency.

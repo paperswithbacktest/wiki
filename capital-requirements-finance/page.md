@@ -1,6 +1,8 @@
 ---
-title: "Capital Requirements in Finance (Algo Trading)"
-description: "Explore the dynamics of capital requirements and regulations in finance with insights into algorithmic trading's role in enhancing market efficiency."
+category: quant_concept
+description: Explore the dynamics of capital requirements and regulations in finance
+  with insights into algorithmic trading's role in enhancing market efficiency.
+title: Capital Requirements in Finance (Algo Trading)
 ---
 
 The modern financial landscape is experiencing a transformation driven by a sophisticated interplay of regulations and technological advancements. Financial regulations, banking standards, and capital requirements collectively form the backbone of the banking system, providing the necessary structure to ensure stability and security within the sector. These regulatory frameworks are indispensable in maintaining the integrity of financial operations, protecting consumers, and fostering healthy competition among financial institutions. Regulatory bodies like the U.S. Securities and Exchange Commission (SEC) and the Bank for International Settlements (BIS) play pivotal roles in establishing and enforcing these guidelines.

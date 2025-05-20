@@ -1,6 +1,8 @@
 ---
-title: "Weighted Average Credit Rating (Algo Trading)"
-description: "Understand how Weighted Average Credit Rating and algorithmic trading strategies optimize investment returns by assessing bond fund credit risk efficiently."
+category: quant_concept
+description: Understand how Weighted Average Credit Rating and algorithmic trading
+  strategies optimize investment returns by assessing bond fund credit risk efficiently.
+title: Weighted Average Credit Rating (Algo Trading)
 ---
 
 In finance, understanding credit ratings and leveraging algorithmic trading strategies are essential for maximizing investment returns. Credit ratings provide valuable information about the creditworthiness of borrowers, which is crucial for investors making decisions about bond investments. Weighted Average Credit Rating (WACR) and Weighted Average Rating Factor (WARF) are two significant metrics used to assess the overall credit quality of bond funds. WACR calculates the average credit ratings of all bonds within a fund, offering investors a clear picture of the fund’s credit quality and associated risk level. Meanwhile, WARF aggregates individual credit ratings into a single numerical representation, streamlining the analysis of credit risk.

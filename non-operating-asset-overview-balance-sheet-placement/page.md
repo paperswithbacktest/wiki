@@ -1,6 +1,8 @@
 ---
-title: "Non-Operating Asset Overview and Balance Sheet Placement (Algo Trading)"
-description: "Explore the strategic significance of non-operating assets in a company's balance sheet and how algorithmic trading optimizes financial strategies."
+category: quant_concept
+description: Explore the strategic significance of non-operating assets in a company's
+  balance sheet and how algorithmic trading optimizes financial strategies.
+title: Non-Operating Asset Overview and Balance Sheet Placement (Algo Trading)
 ---
 
 Understanding the composition of a company's balance sheet is fundamental for investors and financial analysts seeking to assess a company's financial health and strategic potential. Within this framework, non-operating assets hold a significant, yet often underappreciated, position. Unlike operating assets, which are integral to a business's core activities, non-operating assets are those that are not essential to these primary operations. Nevertheless, they have the potential to generate income and offer strategic advantages.

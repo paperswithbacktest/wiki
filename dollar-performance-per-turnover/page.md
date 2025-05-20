@@ -1,6 +1,12 @@
 ---
-title: "Dollar performance per turnover (Algo Trading)"
-description: Explore the crucial metric of dollar performance per turnover in algorithmic trading to assess financial success relative to trade activity. This concept evaluates the profitability and efficiency of trading strategies, considering transaction costs and slippage. Learn about methodologies for calculation and interpretation to enhance trading strategies, providing insights into optimizing performance and understanding the relationship between turnover and trading activities.
+category: trading_strategy
+description: Explore the crucial metric of dollar performance per turnover in algorithmic
+  trading to assess financial success relative to trade activity. This concept evaluates
+  the profitability and efficiency of trading strategies, considering transaction
+  costs and slippage. Learn about methodologies for calculation and interpretation
+  to enhance trading strategies, providing insights into optimizing performance and
+  understanding the relationship between turnover and trading activities.
+title: Dollar performance per turnover (Algo Trading)
 ---
 
 Algorithmic trading, a method that utilizes computer programs to execute trading strategies at speeds and frequencies beyond human capability, has become increasingly important in financial markets. This approach leverages mathematical models and statistical analyses to decide when to buy or sell financial instruments, aiming to optimize both the speed and efficiency of transactions. As algorithmic trading continues to grow, so too does the importance of effectively measuring its performance.

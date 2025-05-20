@@ -1,6 +1,9 @@
 ---
-title: "Corporate Profit: Explanation and Function (Algo Trading)"
-description: "Explore the synergy between corporate profits and algorithmic trading in today's business landscape. Gain insights into maximizing profit and navigating dynamic markets."
+category: quant_concept
+description: Explore the synergy between corporate profits and algorithmic trading
+  in today's business landscape. Gain insights into maximizing profit and navigating
+  dynamic markets.
+title: 'Corporate Profit: Explanation and Function (Algo Trading)'
 ---
 
 The modern business landscape is marked by a relentless quest for profit, compelling companies to embrace innovative strategies and technological advancements. This evolution is driven by several interconnected elements such as corporate profit mechanisms, economic principles, and algorithmic trading. These factors collectively shape the frameworks that companies operate within today.

@@ -1,6 +1,9 @@
 ---
-title: "SEC Form PX14A6G Overview and Function (Algo Trading)"
-description: "Explore the role of SEC Form PX14A6G in enhancing corporate governance and shareholder communication within the fast-evolving landscape of algorithmic trading."
+category: quant_concept
+description: Explore the role of SEC Form PX14A6G in enhancing corporate governance
+  and shareholder communication within the fast-evolving landscape of algorithmic
+  trading.
+title: SEC Form PX14A6G Overview and Function (Algo Trading)
 ---
 
 Corporate governance is a system of rules, practices, and processes by which a company is directed and controlled. It serves as a framework for achieving a company's objectives, involving almost every sphere of management, from action plans and internal controls to performance measurement and corporate disclosure. The primary importance of corporate governance lies in its ability to foster a culture of transparency, accountability, and fairness, safeguarding the interests of shareholders and ensuring the long-term success of an organization.

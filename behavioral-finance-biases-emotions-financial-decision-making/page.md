@@ -1,6 +1,16 @@
 ---
-title: "Behavioral Finance: Biases, Emotions, and Financial Decision-Making (Algo Trading)"
-description: "Explore the intricate world of behavioral finance focusing on how cognitive biases such as overconfidence anchoring and loss aversion shape financial decisions and market dynamics. This comprehensive article examines the intersection of psychological factors and economic theory highlighting their impact on trading strategies and market trends. Delve into the implications of these biases on market anomalies like bubbles and crashes and discover how algorithmic trading adapts behavioral insights to enhance decision-making and optimize investment returns. Understand the importance of identifying and mitigating these biases to improve financial outcomes in today's complex financial markets."
+category: quant_concept
+description: Explore the intricate world of behavioral finance focusing on how cognitive
+  biases such as overconfidence anchoring and loss aversion shape financial decisions
+  and market dynamics. This comprehensive article examines the intersection of psychological
+  factors and economic theory highlighting their impact on trading strategies and
+  market trends. Delve into the implications of these biases on market anomalies like
+  bubbles and crashes and discover how algorithmic trading adapts behavioral insights
+  to enhance decision-making and optimize investment returns. Understand the importance
+  of identifying and mitigating these biases to improve financial outcomes in today's
+  complex financial markets.
+title: 'Behavioral Finance: Biases, Emotions, and Financial Decision-Making (Algo
+  Trading)'
 ---
 
 In the world of finance, understanding human behavior is crucial. Financial markets, driven by the actions and decisions of numerous participants, are inevitably influenced by human behavior. One of the fundamental ways that behavior impacts financial markets is through cognitive biases, which are systematic patterns of deviation from norm or rationality in judgment. These biases frequently lead to market anomalies, such as bubbles and crashes, which are often characterized by significant discrepancies between an asset’s market price and its intrinsic value.

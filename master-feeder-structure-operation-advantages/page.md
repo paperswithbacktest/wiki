@@ -1,6 +1,9 @@
 ---
-title: "Master-Feeder Structure: Operation and Advantages (Algo Trading)"
-description: "Explore the operation and advantages of the master-feeder structure in algo trading Discover how this fund setup enhances strategy execution and investment outcomes"
+category: quant_concept
+description: Explore the operation and advantages of the master-feeder structure in
+  algo trading Discover how this fund setup enhances strategy execution and investment
+  outcomes
+title: 'Master-Feeder Structure: Operation and Advantages (Algo Trading)'
 ---
 
 Investment funds serve as essential mechanisms for gathering financial resources with the intent of fostering growth and generating returns. By pooling capital from diverse investors, these funds enable access to a broader range of investments than what might be available to individual investors. This collective approach not only diversifies risk but also leverages the expertise of professional fund managers to optimize investment outcomes.

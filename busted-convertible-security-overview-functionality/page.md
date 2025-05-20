@@ -1,6 +1,9 @@
 ---
-title: "Busted Convertible Security: Overview and Functionality (Algo Trading)"
-description: "Explore the intriguing world of busted convertible securities blending debt and equity features for diverse portfolios and strategic algorithmic trading potential."
+category: quant_concept
+description: Explore the intriguing world of busted convertible securities blending
+  debt and equity features for diverse portfolios and strategic algorithmic trading
+  potential.
+title: 'Busted Convertible Security: Overview and Functionality (Algo Trading)'
 ---
 
 Welcome to the world of convertible bonds, an intriguing class of financial instruments blending the characteristics of both debt and equity. As hybrid securities, these bonds offer opportunities for portfolio diversification and enhanced returns, behaving like traditional bonds but with the added feature of conversion into equity shares at specified terms. Convertible bonds, thereby, serve as a dynamic tool for investors seeking exposure to equity markets with controlled risk.

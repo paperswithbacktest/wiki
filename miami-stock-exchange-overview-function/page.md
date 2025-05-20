@@ -1,6 +1,8 @@
 ---
-title: "Miami Stock Exchange: Overview and Function (Algo Trading)"
-description: "The Miami Stock Exchange is a crucial link in North-South American financial markets offering advanced algorithmic trading for stocks currencies and futures."
+category: quant_concept
+description: The Miami Stock Exchange is a crucial link in North-South American financial
+  markets offering advanced algorithmic trading for stocks currencies and futures.
+title: 'Miami Stock Exchange: Overview and Function (Algo Trading)'
 ---
 
 The Miami Stock Exchange (MS4X) is a vital platform for trading stocks, currencies, and futures within the Latin American and Caribbean region. Located strategically in Miami, Florida, MS4X acts as a crucial connection between the financial markets of North and South America. This exchange serves a unique role by providing access to markets that are otherwise challenging to reach, offering a bridge for financial transactions across two continents.

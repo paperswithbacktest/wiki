@@ -1,6 +1,9 @@
 ---
-title: "Long Bond: Overview, Functionality, Advantages and Disadvantages (Algo Trading)"
-description: "Explore how long bonds can enhance portfolios with stability and predictable returns. Discover the impact of algorithmic trading on bond markets and investment strategies."
+category: quant_concept
+description: Explore how long bonds can enhance portfolios with stability and predictable
+  returns. Discover the impact of algorithmic trading on bond markets and investment
+  strategies.
+title: 'Long Bond: Overview, Functionality, Advantages and Disadvantages (Algo Trading)'
 ---
 
 Fixed income securities, particularly bonds, play a crucial role in investment portfolios by providing stability and consistent returns. They are instrumental in offsetting the volatility typically associated with equities, thereby serving as a balancing component in diversified portfolios. The predictable income streams from fixed income securities stem from regular interest payments and the return of principal upon maturity, making them particularly appealing to conservative investors. Such investors often prioritize capital preservation and predictable yields, finding long bonds an attractive option for consistent, long-term income.
@@ -185,4 +188,3 @@ For those interested in the evolving dynamics of the bond market, consider the f
 3. **"Modern Principles of Economics" by Tyler Cowen and Alex Tabarrok**: While not exclusively about bonds, this textbook provides a broad understanding of economic principles that influence financial markets, including the bond market.
 
 These materials collectively offer a robust foundation for anyone looking to deepen their knowledge of fixed income securities, bond investment strategies, and the impact of algorithmic trading on financial markets.
-

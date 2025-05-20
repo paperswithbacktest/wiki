@@ -1,6 +1,8 @@
 ---
-title: "Limit Order in Trading (Algo Trading)"
-description: "Discover the role of limit orders in algorithmic trading where controlled execution meets optimal strategy to manage risks and price fluctuations."
+category: quant_concept
+description: Discover the role of limit orders in algorithmic trading where controlled
+  execution meets optimal strategy to manage risks and price fluctuations.
+title: Limit Order in Trading (Algo Trading)
 ---
 
 The stock market has undergone a remarkable transformation with the advent of algorithmic trading, a method where pre-programmed computer algorithms are used to execute trades at speeds and frequencies that human traders cannot match. Central to this evolution are limit orders, which provide traders the ability to buy or sell a security at a specified or better price, granting a higher degree of control over trade executions.

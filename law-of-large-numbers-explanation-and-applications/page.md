@@ -1,6 +1,8 @@
 ---
-title: "Law of Large Numbers: Explanation and Applications (Algo Trading)"
-description: "Understand how the Law of Large Numbers ensures predictions in algorithmic trading are accurate by converging large datasets' outcomes toward expected values."
+category: quant_concept
+description: Understand how the Law of Large Numbers ensures predictions in algorithmic
+  trading are accurate by converging large datasets' outcomes toward expected values.
+title: 'Law of Large Numbers: Explanation and Applications (Algo Trading)'
 ---
 
 The Law of Large Numbers (LLN) is a foundational element in the field of probability theory and statistics, essential for understanding the behavior of averages over numerous trials. The LLN posits that as the number of trials in a probability experiment increases, the average of the observed outcomes converges towards the expected value. This phenomenon is mathematically expressed as:

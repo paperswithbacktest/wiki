@@ -1,7 +1,8 @@
 ---
-title: Understanding Online Inference for Real-Time Machine Learning
+category: quant_concept
 description: Online inference powers real-time machine learning with instant predictions
   and adaptive updates for drift management and reliability Discover more inside.
+title: Understanding Online Inference for Real-Time Machine Learning
 ---
 
 ![Image](images/1.png)

@@ -1,6 +1,8 @@
 ---
-title: "Basis Trading: Overview and Functionality (Algo Trading)"
-description: "Explore basis trading and algorithmic trading as key strategies in financial markets. Understand their mechanisms and applications, enhancing trading outcomes."
+category: trading_strategy
+description: Explore basis trading and algorithmic trading as key strategies in financial
+  markets. Understand their mechanisms and applications, enhancing trading outcomes.
+title: 'Basis Trading: Overview and Functionality (Algo Trading)'
 ---
 
 Financial trading is a sophisticated field involving various strategies and techniques to generate profits in different market conditions. At its core, financial trading involves the buying and selling of financial instruments, such as stocks, bonds, commodities, and derivatives, with the objective of achieving financial gains. Technological advancements and the globalization of markets have increased the complexity and scope of trading strategies available to investors and traders.

@@ -1,6 +1,13 @@
 ---
-title: "Financial Instrument (Algo Trading)"
-description: "Discover the world of financial instruments and algorithmic trading in our comprehensive guide. Explore how algo trading leverages computer systems to execute trades swiftly and with precision, transforming the investment landscape for better decision-making. Understand the intricate network of financial tools, assets, and strategies that shape markets and optimize investment outcomes for both new and seasoned investors. Unravel these complexities to enhance your trading potential and achieve superior financial results."
+category: quant_concept
+description: Discover the world of financial instruments and algorithmic trading in
+  our comprehensive guide. Explore how algo trading leverages computer systems to
+  execute trades swiftly and with precision, transforming the investment landscape
+  for better decision-making. Understand the intricate network of financial tools,
+  assets, and strategies that shape markets and optimize investment outcomes for both
+  new and seasoned investors. Unravel these complexities to enhance your trading potential
+  and achieve superior financial results.
+title: Financial Instrument (Algo Trading)
 ---
 
 In finance, the mastery of various financial instruments, assets, and investment tools is essential for both novice and seasoned investors. These elements serve as the foundation of financial markets, influencing how trading is conducted and investments are made. This article focuses on algorithmic trading, a sophisticated strategy that operates at the intersection of these vital components of the financial sector.

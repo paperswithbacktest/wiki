@@ -1,6 +1,8 @@
 ---
-title: "CBOE Options Exchange (Algo Trading)"
-description: "Explore CBOE Options Exchange's role in global finance with a focus on its innovative algorithmic trading, VIX Volatility Index, and diverse product offerings."
+category: quant_concept
+description: Explore CBOE Options Exchange's role in global finance with a focus on
+  its innovative algorithmic trading, VIX Volatility Index, and diverse product offerings.
+title: CBOE Options Exchange (Algo Trading)
 ---
 
 The CBOE Options Exchange is recognized as one of the predominant platforms influencing the global financial markets. Established in 1973 under the name Chicago Board Options Exchange, it has grown to be the largest options exchange worldwide. This transformation highlights its strategic significance in finance, which was further solidified by the rebranding to CBOE Global Markets in 2017. The exchange has been at the forefront of innovations in financial products and trading technologies, offering a wide array of options strategies that cater to various trading needs.

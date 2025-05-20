@@ -1,6 +1,8 @@
 ---
-title: "Largest Canadian Software Companies (Algo Trading)"
-description: "Explore Canada's largest software companies in algorithmic trading, highlighting industry leaders driving innovation and efficiency in financial markets."
+category: dataset
+description: Explore Canada's largest software companies in algorithmic trading, highlighting
+  industry leaders driving innovation and efficiency in financial markets.
+title: Largest Canadian Software Companies (Algo Trading)
 ---
 
 Canada's tech industry has witnessed remarkable growth, becoming a pivotal player on the global stage. With its diverse and innovative ecosystem, the country's tech sector is a significant contributor to the national economy. Software companies, in particular, have emerged as vital components of this industry, driving innovation, productivity, and economic growth. Notable software enterprises, such as Shopify, Constellation Software Inc., and OpenText Corporation, have not only achieved substantial market presence domestically but have also established themselves as influential global entities.

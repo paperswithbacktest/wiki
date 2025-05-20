@@ -1,6 +1,8 @@
 ---
-title: "Intertemporal Choice in Business and Personal Finance (Algo Trading)"
-description: "Explore intertemporal choice and its impact on personal finance and algo trading. Learn how present decisions affect future outcomes and optimize strategies."
+category: quant_concept
+description: Explore intertemporal choice and its impact on personal finance and algo
+  trading. Learn how present decisions affect future outcomes and optimize strategies.
+title: Intertemporal Choice in Business and Personal Finance (Algo Trading)
 ---
 
 Intertemporal choice is a crucial concept in economics and decision-making that concerns how individuals make choices about what and when to consume across different periods of time. It involves evaluating present and future benefits and costs to make optimal decisions that align with one's preferences and future goals. This framework is pertinent in both personal finance and algorithmic trading, where decisions made today can significantly impact future financial outcomes.

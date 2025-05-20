@@ -1,6 +1,9 @@
 ---
-title: "Kiwi Bond (Algo Trading)"
-description: "Explore Kiwi Bonds as a secure, government-backed investment for New Zealand residents. Learn how algorithmic trading can enhance returns on these fixed-income securities."
+category: quant_concept
+description: Explore Kiwi Bonds as a secure, government-backed investment for New
+  Zealand residents. Learn how algorithmic trading can enhance returns on these fixed-income
+  securities.
+title: Kiwi Bond (Algo Trading)
 ---
 
 Kiwi Bonds represent a distinct investment opportunity tailored for New Zealand residents, offering a secure, government-backed fixed income alternative. These bonds serve as a critical component of the country's financial framework, ensuring that investors have access to stable, risk-averse vehicles for their capital. By providing fixed interest rates over various maturity periods, Kiwi Bonds enable residents to manage their investment timelines and financial goals with a high level of certainty.

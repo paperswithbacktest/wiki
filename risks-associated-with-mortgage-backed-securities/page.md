@@ -1,6 +1,8 @@
 ---
-title: "Risks Associated with Mortgage-Backed Securities (Algo Trading)"
-description: "Explore the risks of mortgage-backed securities in algo trading, including prepayment, credit, and market volatility risks. Understand their economic implications."
+category: quant_concept
+description: Explore the risks of mortgage-backed securities in algo trading, including
+  prepayment, credit, and market volatility risks. Understand their economic implications.
+title: Risks Associated with Mortgage-Backed Securities (Algo Trading)
 ---
 
 Mortgage-backed securities (MBS) have been integral components of the U.S. financial landscape for many years, serving as both investment opportunities and tools for capital redistribution. These complex financial instruments are constructed from bundles of mortgage loans sold to investors, essentially transferring the risk from the initial lenders to the financial markets. As such, understanding MBS is pivotal for grasping their dual nature of potential benefits and inherent risks to the broader economy.

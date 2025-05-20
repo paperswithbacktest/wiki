@@ -1,6 +1,9 @@
 ---
-title: "Impact of the Plaza Accord on Currency Markets (Algo Trading)"
-description: "Explore the Plaza Accord's impact on currency markets and algo trading Discover how this historic agreement influences today's financial strategies and technology"
+category: quant_concept
+description: Explore the Plaza Accord's impact on currency markets and algo trading
+  Discover how this historic agreement influences today's financial strategies and
+  technology
+title: Impact of the Plaza Accord on Currency Markets (Algo Trading)
 ---
 
 In 1985, the Plaza Accord marked a significant turning point in global economic policy when five major industrialized nations, known as the G-5—comprising the United States, Japan, Germany, France, and the United Kingdom—cooperated to address critical currency valuation imbalances. This historic agreement was primarily aimed at devaluing the US dollar, which had reached a high exchange rate level that adversely affected American exports and contributed to global trade imbalances. The appreciation of the dollar was a result of the high interest rate policies adopted by the United States in the early 1980s, which attracted foreign capital and strengthened the currency. However, this strength hindered American international competitiveness and exacerbated trade deficits.

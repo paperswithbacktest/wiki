@@ -1,6 +1,8 @@
 ---
-title: "SEC Form 8-A: Purpose, Requirements, and Benefits (Algo Trading)"
-description: "SEC Form 8-A facilitates quick registration of securities, streamlining the listing process for companies on U.S. exchanges crucial for algo trading efficiency."
+category: quant_concept
+description: SEC Form 8-A facilitates quick registration of securities, streamlining
+  the listing process for companies on U.S. exchanges crucial for algo trading efficiency.
+title: 'SEC Form 8-A: Purpose, Requirements, and Benefits (Algo Trading)'
 ---
 
 The SEC Form 8-A plays a crucial role in the registration of securities, offering a streamlined process for companies to list their securities on U.S. exchanges quickly. It is primarily used for registering securities under the Securities Exchange Act of 1934 and facilitates efficient market entry for companies that meet specific criteria. This form is particularly important for firms aiming to list their securities without providing extensive documentation akin to Form 10, thus expediting access to public markets.

@@ -1,6 +1,8 @@
 ---
-title: "Federal Farm Credit System Overview (Algo Trading)"
-description: "Discover how the Federal Farm Credit System empowers U.S. agriculture with enhanced financing through algorithmic trading for sustainable growth and efficiency."
+category: quant_concept
+description: Discover how the Federal Farm Credit System empowers U.S. agriculture
+  with enhanced financing through algorithmic trading for sustainable growth and efficiency.
+title: Federal Farm Credit System Overview (Algo Trading)
 ---
 
 The Federal Farm Credit System (FFCS) is integral to the financial infrastructure supporting the U.S. agricultural sector, providing much-needed capital to farmers and agribusinesses. Established amidst the economic challenges posed by farming, the FFCS addresses the sector's unique financial needs by offering credit that is often more accessible and favorable than that provided by traditional lenders. The importance of agriculture to the U.S. economy cannot be overstated, necessitating a robust system for financing to ensure the sector's growth and sustainability.

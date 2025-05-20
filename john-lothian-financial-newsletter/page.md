@@ -1,6 +1,9 @@
 ---
-title: "John Lothian Financial Newsletter (Algo Trading)"
-description: "Discover insights into algorithmic trading with the John Lothian Financial Newsletter which covers financial market trends emerging technologies and trading strategies."
+category: quant_concept
+description: Discover insights into algorithmic trading with the John Lothian Financial
+  Newsletter which covers financial market trends emerging technologies and trading
+  strategies.
+title: John Lothian Financial Newsletter (Algo Trading)
 ---
 
 In today's fast-paced financial world, maintaining an up-to-date grasp of market trends and innovations is crucial for investors, traders, and financial institutions. Among the most transformative developments in recent years is algorithmic trading, often referred to as algo trading. This approach to trading involves the use of computer programs and algorithms to execute trades at speeds and volumes that would be impossible for human traders.

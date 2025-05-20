@@ -1,6 +1,9 @@
 ---
-title: "Largest Banks in Canada (Algo Trading)"
-description: "Discover the largest banks in Canada and the role of algorithmic trading in shaping their success in the financial sector. Explore insights into Canadian banking."
+category: dataset
+description: Discover the largest banks in Canada and the role of algorithmic trading
+  in shaping their success in the financial sector. Explore insights into Canadian
+  banking.
+title: Largest Banks in Canada (Algo Trading)
 ---
 
 The Canadian banking sector is widely recognized for its unparalleled stability and substantial presence in the global financial landscape. At the heart of this system are the 'Big Six' banks, which include the Royal Bank of Canada (RBC), Toronto-Dominion Bank (TD), Bank of Nova Scotia (Scotiabank), Bank of Montreal (BMO), Canadian Imperial Bank of Commerce (CIBC), and National Bank of Canada. These financial institutions not only dominate the domestic market but also extend their influence internationally, showcasing robust performances across a variety of financial services.

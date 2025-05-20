@@ -1,6 +1,8 @@
 ---
-title: "Wholesale Energy: Overview and Mechanisms (Algo Trading)"
-description: "Explore the transformative role of algorithmic trading in the wholesale energy market where tech advances and regulatory shifts drive efficiency and precision."
+category: quant_concept
+description: Explore the transformative role of algorithmic trading in the wholesale
+  energy market where tech advances and regulatory shifts drive efficiency and precision.
+title: 'Wholesale Energy: Overview and Mechanisms (Algo Trading)'
 ---
 
 The energy market is undergoing transformative changes, particularly in wholesale and algorithmic trading. These changes are driven by advancements in technology, shifts in energy production and consumption patterns, and regulatory evolutions. Wholesale energy trading involves the large-scale purchase and sale of energy commodities such as electricity and natural gas. This segment serves as the backbone for ensuring that energy supplies meet global demands, affecting every facet of modern economies.
@@ -137,4 +139,3 @@ In summary, as energy markets continue to evolve, a synergistic approach combini
 [4]: Aronson, David. ["Evidence-Based Technical Analysis: Applying the Scientific Method and Statistical Inference to Trading Signals"](https://www.amazon.com/Evidence-Based-Technical-Analysis-Scientific-Statistical/dp/0470008741). Wiley, 2006.
 
 [5]: Bergstra, J., Bardenet, R., Bengio, Y., & Kégl, B. (2011). ["Algorithms for Hyper-Parameter Optimization."](https://dl.acm.org/doi/10.5555/2986459.2986743) Advances in Neural Information Processing Systems 24.
-

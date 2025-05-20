@@ -1,6 +1,8 @@
 ---
-title: "Market Portfolio: Theory and Examples (Algo Trading)"
-description: "Explore market portfolio theory and algorithmic trading with examples Learn how these concepts optimize investment strategies by balancing risk and returns."
+category: quant_concept
+description: Explore market portfolio theory and algorithmic trading with examples
+  Learn how these concepts optimize investment strategies by balancing risk and returns.
+title: 'Market Portfolio: Theory and Examples (Algo Trading)'
 ---
 
 In today's dynamic financial markets, investment strategies continually evolve, driven by advancements in theoretical frameworks and technological innovations. Three pivotal concepts that have significantly influenced this evolution include the market portfolio, portfolio theory, and algorithmic trading. These elements collectively shape the decision-making processes of investors seeking to optimize returns while managing risks effectively.

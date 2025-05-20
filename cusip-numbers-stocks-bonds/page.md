@@ -1,6 +1,8 @@
 ---
-title: "CUSIP Numbers for Stocks and Bonds (Algo Trading)"
-description: "Explore how CUSIP numbers and algorithmic trading enhance stock and bond transactions ensuring precision and efficiency in modern investment strategies."
+category: dataset
+description: Explore how CUSIP numbers and algorithmic trading enhance stock and bond
+  transactions ensuring precision and efficiency in modern investment strategies.
+title: CUSIP Numbers for Stocks and Bonds (Algo Trading)
 ---
 
 The world of investing offers a diverse array of financial instruments, each serving a distinct purpose and equipped with specific identifiers. Among these instruments are stocks, bonds, and derivatives, which are fundamental to constructing a well-rounded investment portfolio. Stocks signify equity ownership in companies, granting shareholders the dual benefits of voting rights and potential profit-sharing through dividends. On the other hand, bonds are debt securities issued typically by governments or corporations as a means of capital generation, ensuring fixed returns over a specified period.

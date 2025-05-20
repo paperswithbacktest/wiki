@@ -1,6 +1,8 @@
 ---
-title: "Multi-Factor Model for Comparing Factors (Algo Trading)"
-description: "Explore the power of multi-factor models in algorithmic trading to compare factors influencing asset prices These models enhance data-driven investment decisions."
+category: trading_strategy
+description: Explore the power of multi-factor models in algorithmic trading to compare
+  factors influencing asset prices These models enhance data-driven investment decisions.
+title: Multi-Factor Model for Comparing Factors (Algo Trading)
 ---
 
 Understanding asset price movements is essential in financial analysis and algorithmic trading. Multi-factor models play a crucial role in analyzing these movements by evaluating various influencing variables. These models are complex statistical frameworks that consider multiple factors—such as macroeconomic indicators, company fundamentals, and statistical patterns—to offer a comprehensive interpretation of asset prices. 

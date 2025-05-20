@@ -1,6 +1,8 @@
 ---
-title: "Types of Financial Swaps (Algo Trading)"
-description: "Explore the world of financial swaps in algorithmic trading, understanding their types and advantages for effective risk management and strategic investment."
+category: quant_concept
+description: Explore the world of financial swaps in algorithmic trading, understanding
+  their types and advantages for effective risk management and strategic investment.
+title: Types of Financial Swaps (Algo Trading)
 ---
 
 Financial markets have experienced extensive transformation, marked by the advent of complex financial instruments such as swaps and derivatives. These tools provide investors with mechanisms not only to manage risk but also to enhance profitability. Swaps, a pivotal category of derivatives, have emerged as essential elements in sophisticated investment strategies, allowing market participants to address specific financial needs by exchanging cash flows or various risk exposures.

@@ -1,6 +1,9 @@
 ---
-title: "Financial Ratios in the Restaurant Industry (Algo Trading)"
-description: "Explore the role of financial ratios and algorithmic trading in enhancing financial decisions for restaurants Analyze profitability and performance for sustained growth"
+category: quant_concept
+description: Explore the role of financial ratios and algorithmic trading in enhancing
+  financial decisions for restaurants Analyze profitability and performance for sustained
+  growth
+title: Financial Ratios in the Restaurant Industry (Algo Trading)
 ---
 
 Understanding financial ratios is crucial for analyzing the financial health of businesses, including those in the restaurant industry. Financial ratios offer a quantitative measure of a company's financial performance by evaluating its financial statements, such as the balance sheet and income statement. For restaurants, these ratios are indispensable tools in assessing operational efficiency, financial stability, and profitability. The restaurant industry, known for its diverse array of business models and competitive challenges, requires precise financial analysis for sustainable growth. Various factors like high overhead costs, fluctuating customer demand, and razor-thin profit margins further complicate the financial landscape for restaurant operators, emphasizing the need for robust financial scrutiny.

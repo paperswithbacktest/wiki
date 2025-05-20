@@ -1,6 +1,9 @@
 ---
-title: "Difference Between Sharpe Ratio and Alpha (Algo Trading)"
-description: "Explore the difference between Sharpe ratio and alpha in algorithmic trading to assess risk-adjusted returns and benchmark performance for successful strategies."
+category: trading_strategy
+description: Explore the difference between Sharpe ratio and alpha in algorithmic
+  trading to assess risk-adjusted returns and benchmark performance for successful
+  strategies.
+title: Difference Between Sharpe Ratio and Alpha (Algo Trading)
 ---
 
 In the world of finance and investing, understanding the performance metrics of your investments is crucial for success. With the advent of technology, algorithmic trading—often referred to as algo trading—has gained prominence as a method where computer programs execute trades at high speed and frequency. This technological advancement enables traders to capitalize on market opportunities with precision and efficiency.

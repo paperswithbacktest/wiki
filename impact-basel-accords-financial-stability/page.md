@@ -1,6 +1,9 @@
 ---
-title: "Impact of Basel Accords on Financial Stability (Algo Trading)"
-description: "Explore the impact of Basel Accords on financial stability and algorithmic trading Understand how these regulations enhance banking safety and global financial security"
+category: quant_concept
+description: Explore the impact of Basel Accords on financial stability and algorithmic
+  trading Understand how these regulations enhance banking safety and global financial
+  security
+title: Impact of Basel Accords on Financial Stability (Algo Trading)
 ---
 
 The global financial market functions as a complex ecosystem, encompassing a myriad of players such as local banks, central banks, investors, and regulatory bodies. This intricate network is vital for economic growth and stability in daily life. Financial markets facilitate capital flow, investment opportunities, and risk distribution, which stimulate economic development. The stability of these markets is paramount, as financial turmoil can lead to widespread economic disruptions, affecting both developed and developing nations.

@@ -1,6 +1,8 @@
 ---
-title: "Scalping in Trading: Function, Legality, and Examples (Algo Trading)"
-description: "Scalping in trading focuses on quick profits via numerous trades and small price movements. Explore its legality, examples, and role in algorithmic trading."
+category: trading_strategy
+description: Scalping in trading focuses on quick profits via numerous trades and
+  small price movements. Explore its legality, examples, and role in algorithmic trading.
+title: 'Scalping in Trading: Function, Legality, and Examples (Algo Trading)'
 ---
 
 In the fast-paced world of trading, scalping has gained popularity as a strategy for achieving quick profits. This approach involves making numerous trades within short periods to capitalize on small price movements. Unlike long-term investing, which focuses on potential significant gains over extended periods, scalping aims for accumulation of small gains through frequent transactions. Such rapid transactions require not only keen market insight but also swift execution capabilities.

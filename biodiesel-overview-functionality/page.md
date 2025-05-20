@@ -1,6 +1,9 @@
 ---
-title: "Biodiesel: Overview and Functionality (Algo Trading)"
-description: "Explore how integrating biodiesel with algorithmic trading can transform energy markets promoting sustainability efficiency and leveraging renewable energy sources."
+category: quant_concept
+description: Explore how integrating biodiesel with algorithmic trading can transform
+  energy markets promoting sustainability efficiency and leveraging renewable energy
+  sources.
+title: 'Biodiesel: Overview and Functionality (Algo Trading)'
 ---
 
 The shift towards renewable energy and alternative fuels is becoming increasingly crucial in addressing the pressing challenges of climate change, energy security, and environmental degradation. The global energy landscape is undergoing a significant transformation as nations strive to reduce their carbon footprint and promote sustainable energy sources. Renewable energy, comprising solar, wind, hydroelectric, and biofuels, is gaining prominence due to its potential to provide a cleaner and more sustainable energy future. Among these alternatives, biodiesel has emerged as a viable substitute for conventional fossil fuels, offering notable environmental benefits.

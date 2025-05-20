@@ -1,6 +1,9 @@
 ---
-title: "Kula Investments (Algo Trading)"
-description: "Kula Investments leads in algorithmic trading by leveraging complex algorithms for high-speed trading decisions maximizing returns and minimizing risk in competitive markets."
+category: quant_concept
+description: Kula Investments leads in algorithmic trading by leveraging complex algorithms
+  for high-speed trading decisions maximizing returns and minimizing risk in competitive
+  markets.
+title: Kula Investments (Algo Trading)
 ---
 
 Understanding the basics of algorithmic trading is essential in the contemporary financial ecosystem, characterized by rapid technological advancements and competitive markets. Kula Investments, a prominent player in this space, has positioned itself at the forefront of algorithmic trading technology. Algorithmic trading, or algo trading, refers to the use of complex algorithms and mathematical models to make high-speed trading decisions that would be infeasible for a human trader to execute manually. These algorithms are capable of analyzing massive data sets, identifying patterns, and executing trades based on predefined criteria, all within fractions of a second.

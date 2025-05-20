@@ -1,6 +1,9 @@
 ---
-title: "Common Shareholder: Roles and Rights (Algo Trading)"
-description: "Explore the roles and rights of common shareholders in the context of algorithmic trading Understand how these rights influence corporate governance and shareholder impact"
+category: quant_concept
+description: Explore the roles and rights of common shareholders in the context of
+  algorithmic trading Understand how these rights influence corporate governance and
+  shareholder impact
+title: 'Common Shareholder: Roles and Rights (Algo Trading)'
 ---
 
 Stock investing holds a pivotal role in today’s financial markets, serving as a fundamental vehicle for individuals and institutions to build wealth. The equities market allows investors to buy shares in companies, thereby gaining potential returns through appreciation and dividends. This not only fuels personal financial growth but also provides companies with the capital necessary for expansion and innovation. As such, understanding the rights associated with stock ownership becomes critical, especially with the expansive and intricate developments in financial trading methods, such as algorithmic trading.

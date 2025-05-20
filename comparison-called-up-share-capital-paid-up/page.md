@@ -1,6 +1,8 @@
 ---
-title: "Comparison of Called-Up Share Capital and Paid-Up Share Capital (Algo Trading)"
-description: "Explore the differences between called-up and paid-up share capital in corporate finance and how algorithmic trading enhances investment strategies."
+category: quant_concept
+description: Explore the differences between called-up and paid-up share capital in
+  corporate finance and how algorithmic trading enhances investment strategies.
+title: Comparison of Called-Up Share Capital and Paid-Up Share Capital (Algo Trading)
 ---
 
 In the world of corporate finance, understanding the various components of share capital is crucial. Share capital, often divided into common and preferred shares, serves as a foundational aspect of a company's financial structure. It enables companies to raise funds by issuing shares, which represent ownership stakes in the organization. These shares carry different rights and obligations for investors, making the management of share capital a central piece of strategic financial planning.

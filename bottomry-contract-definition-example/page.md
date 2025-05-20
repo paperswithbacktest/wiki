@@ -1,6 +1,9 @@
 ---
-title: "Bottomry Contract: Definition and Example (Algo Trading)"
-description: "Explore the fascinating world of bottomry contracts and their evolution into modern marine insurance and algorithmic trading, enhancing risk management today."
+category: quant_concept
+description: Explore the fascinating world of bottomry contracts and their evolution
+  into modern marine insurance and algorithmic trading, enhancing risk management
+  today.
+title: 'Bottomry Contract: Definition and Example (Algo Trading)'
 ---
 
 Bottomry is a historic financial instrument that played a crucial role in the maritime ventures of the past. It was a form of loan secured against a ship and its cargo, where the borrower agreed to repay the loan only if the voyage was successful. If the ship was lost at sea, the lender would incur the loss. This unique arrangement facilitated early maritime trade by mitigating the financial risk associated with long and perilous sea journeys. The importance of bottomry lay in its ability to provide a financial safety net at a time when marine navigation was fraught with unpredictability.

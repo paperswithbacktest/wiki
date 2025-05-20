@@ -1,6 +1,9 @@
 ---
-title: "Benjamin Graham and the Analysis of Financial Statements (Algo Trading)"
-description: "Benjamin Graham's value investing is elevated by algorithmic trading's speed and precision, blending traditional analysis with cutting-edge technology for optimal strategies."
+category: trading_strategy
+description: Benjamin Graham's value investing is elevated by algorithmic trading's
+  speed and precision, blending traditional analysis with cutting-edge technology
+  for optimal strategies.
+title: Benjamin Graham and the Analysis of Financial Statements (Algo Trading)
 ---
 
 Benjamin Graham's investment analysis, known as value investing, has long been revered for its focus on identifying undervalued securities based on a company's fundamental financial health. This method, primarily anchored in analyzing financial ratios and intrinsic value, is seeing a resurgence through integration with algorithmic trading. This pairing of traditional value investing principles with modern trading technology marks a significant shift in strategic investment approaches.
@@ -178,4 +181,3 @@ Looking forward, the fusion of technology and timeless investing wisdom presents
     - **Coursera and edX**: Offer numerous courses on algorithmic trading, financial markets, and data science-driven strategies developed by leading universities and institutions. Examples include "Machine Learning for Trading" and "Financial Engineering".
 
 These resources offer a comprehensive view of both classical investment analysis and modern algorithmic innovations, providing a solid foundation for anyone interested in enhancing their investment strategies using Graham’s principles and current technological advancements.
-

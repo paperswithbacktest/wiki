@@ -1,6 +1,9 @@
 ---
-title: "Robert F. Engle III: Nobel Prize in Economics (Algo Trading)"
-description: "Discover Robert F. Engle III’s groundbreaking ARCH model that revolutionized financial volatility modeling earning him the Nobel Prize and transforming algorithmic trading."
+category: quant_concept
+description: Discover Robert F. Engle III’s groundbreaking ARCH model that revolutionized
+  financial volatility modeling earning him the Nobel Prize and transforming algorithmic
+  trading.
+title: 'Robert F. Engle III: Nobel Prize in Economics (Algo Trading)'
 ---
 
 Robert F. Engle III has significantly contributed to the field of economics through his pioneering work on modeling financial volatility, culminating in the development of the Autoregressive Conditional Heteroskedasticity (ARCH) model. This groundbreaking innovation, which earned him the Nobel Prize in Economic Sciences in 2003, transformed the way economists and financial analysts perceive time-varying volatility in data. The ARCH model allows for the modeling of variance over time, providing a sophisticated tool for understanding financial markets' fluctuations. By capturing the dynamic nature of volatility, which traditional models struggled to elucidate, Engle's work has provided deeper insights into a critical aspect of financial data analysis. 

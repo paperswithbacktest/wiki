@@ -1,6 +1,8 @@
 ---
-title: "Covered Securities and Tax Implications (Algo Trading)"
-description: "Explore the tax implications and regulatory framework of covered securities in algorithmic trading to optimize strategies while ensuring compliance."
+category: trading_strategy
+description: Explore the tax implications and regulatory framework of covered securities
+  in algorithmic trading to optimize strategies while ensuring compliance.
+title: Covered Securities and Tax Implications (Algo Trading)
 ---
 
 The financial industry has undergone substantial evolution with the integration of technology, particularly influencing the domains of trading and investment. At the forefront of this technological revolution is algorithmic trading, which has established itself as a key element of contemporary financial markets. This sophisticated trading approach relies on complex algorithms capable of executing trades at unprecedented speeds, fundamentally altering traditional trading dynamics.

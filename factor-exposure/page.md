@@ -1,6 +1,12 @@
 ---
-title: "Factor exposure (Algo Trading)"
-description: Explore the concept of factor exposure in algorithmic trading where traders leverage technology to automate trades and respond to market dynamics in real time. By understanding market factors like size value momentum and volatility traders can optimize their strategies balance portfolios and enhance risk-adjusted returns. This article investigates into the applications of factor exposure aiming to integrate this concept into trading practices for better decision-making in evolving markets.
+category: quant_concept
+description: Explore the concept of factor exposure in algorithmic trading where traders
+  leverage technology to automate trades and respond to market dynamics in real time.
+  By understanding market factors like size value momentum and volatility traders
+  can optimize their strategies balance portfolios and enhance risk-adjusted returns.
+  This article investigates into the applications of factor exposure aiming to integrate
+  this concept into trading practices for better decision-making in evolving markets.
+title: Factor exposure (Algo Trading)
 ---
 
 Algorithmic trading represents a cutting-edge intersection of finance and technology, offering traders myriad opportunities to capitalize on market dynamics through sophisticated strategies. Leveraging algorithms, traders can automate the execution of trades based on predetermined criteria, thus enabling moment-to-moment adjustments that capitalize on even the most fleeting market conditions. A fundamental concept within this domain is 'factor exposure', a critical determinant in shaping trading strategies and influencing performance outcomes.

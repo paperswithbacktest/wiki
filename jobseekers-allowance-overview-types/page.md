@@ -1,6 +1,8 @@
 ---
-title: "Jobseeker's Allowance: Overview and Types (Algo Trading)"
-description: "Explore the Jobseeker's Allowance JSA types in the UK providing essential support to those seeking work including insights into algorithmic trading opportunities."
+category: quant_concept
+description: Explore the Jobseeker's Allowance JSA types in the UK providing essential
+  support to those seeking work including insights into algorithmic trading opportunities.
+title: 'Jobseeker''s Allowance: Overview and Types (Algo Trading)'
 ---
 
 The Jobseeker's Allowance (JSA) is an essential component of the United Kingdom's social welfare system, designed to provide financial assistance to those who find themselves without employment but are actively seeking work. By offering monetary support, JSA alleviates some of the financial burdens individuals face during periods of unemployment, thereby serving as a temporary safety net. This article aims to provide a comprehensive overview of the different types of JSA available, alongside their respective eligibility criteria. 

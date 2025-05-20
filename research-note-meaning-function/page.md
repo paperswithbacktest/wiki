@@ -1,6 +1,8 @@
 ---
-title: "Research Note: Meaning and Function (Algo Trading)"
-description: "Explore how research notes enhance algo trading by offering timely market insights improving strategy precision and efficiency amidst evolving market trends."
+category: quant_concept
+description: Explore how research notes enhance algo trading by offering timely market
+  insights improving strategy precision and efficiency amidst evolving market trends.
+title: 'Research Note: Meaning and Function (Algo Trading)'
 ---
 
 Algorithmic trading, commonly known as algo trading, represents a significant transformation in the operation of financial markets. By seamlessly integrating finance with cutting-edge technology, it automates trading processes through pre-defined strategies, which allows trades to be executed at a speed and frequency that a human trader cannot match. This technological advancement has led to increased efficiency, reduced transaction costs, and the capability to process vast volumes of data swiftly.

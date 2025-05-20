@@ -1,6 +1,8 @@
 ---
-title: "Profit and Loss Statement (Algo Trading)"
-description: "Explore how Profit and Loss statements enhance algorithmic trading strategies by providing key financial insights improving risk management and optimizing returns."
+category: quant_concept
+description: Explore how Profit and Loss statements enhance algorithmic trading strategies
+  by providing key financial insights improving risk management and optimizing returns.
+title: Profit and Loss Statement (Algo Trading)
 ---
 
 In the world of finance and investing, understanding financial statements is fundamental for making informed decisions. A key component of these statements is the profit and loss (P&L) statement, also known as an income statement. This document summarizes a company's revenues, costs, and expenses over a specific period, providing insights into its operational efficiency and profitability. Investors and traders utilize P&L statements to assess a company's financial performance and predict future earnings potential.

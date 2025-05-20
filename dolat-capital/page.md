@@ -1,6 +1,9 @@
 ---
-title: "Dolat Capital (Algo Trading)"
-description: "Explore Dolat Capital's transformation of modern finance with pioneering algorithmic trading. Learn how they utilize cutting-edge technology for superior market performance."
+category: quant_concept
+description: Explore Dolat Capital's transformation of modern finance with pioneering
+  algorithmic trading. Learn how they utilize cutting-edge technology for superior
+  market performance.
+title: Dolat Capital (Algo Trading)
 ---
 
 Dolat Capital, a prominent financial entity, has established itself as a significant player in the finance industry by leveraging cutting-edge technological solutions to enhance its market operations. Recognized for its strategic focus on innovation, the company has consistently embraced advanced methodologies, particularly algorithmic trading, to remain competitive in the ever-evolving capital markets.

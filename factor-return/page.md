@@ -1,6 +1,12 @@
 ---
-title: "Factor return (Algo Trading)"
-description: Explore the impact of factor returns on algorithmic trading and learn how traders can use these strategic insights to enhance trading performance. Dive into factors such as size, value, and momentum, and discover practical tips for integrating these components into robust trading algorithms. Equip yourself with the knowledge to navigate market complexities and capitalize on market opportunities through advanced algorithmic strategies.
+category: quant_concept
+description: Explore the impact of factor returns on algorithmic trading and learn
+  how traders can use these strategic insights to enhance trading performance. Dive
+  into factors such as size, value, and momentum, and discover practical tips for
+  integrating these components into robust trading algorithms. Equip yourself with
+  the knowledge to navigate market complexities and capitalize on market opportunities
+  through advanced algorithmic strategies.
+title: Factor return (Algo Trading)
 ---
 
 In the fast-paced world of finance, algorithmic trading has emerged as a key player, allowing traders to execute orders with unprecedented speed and precision. This automated approach to trading utilizes sophisticated algorithms to identify and capitalize on market opportunities more efficiently than traditional methods. A crucial component of successful algorithmic trading is understanding 'factor return,' a concept that can significantly influence trading strategies.

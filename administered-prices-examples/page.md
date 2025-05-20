@@ -1,6 +1,8 @@
 ---
-title: "Administered Prices and Examples (Algo Trading)"
-description: "Explore how administered price controls shape markets by influencing supply and demand dynamics and their interplay with algorithmic trading systems."
+category: quant_concept
+description: Explore how administered price controls shape markets by influencing
+  supply and demand dynamics and their interplay with algorithmic trading systems.
+title: Administered Prices and Examples (Algo Trading)
 ---
 
 Administered price controls play a crucial role in shaping economic systems, particularly in how they influence the dynamics between supply and demand. These controls involve government or authoritative intervention in setting prices for goods and services rather than allowing natural market forces to dictate them. The primary rationale behind implementing such controls is to achieve specific policy objectives, mitigate market failures, and ensure affordable access or stability during economic disruptions. Understanding these mechanisms is vital for stakeholders such as investors and policymakers, as they affect market behavior, resource allocation, and investment decisions.

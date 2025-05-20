@@ -1,7 +1,8 @@
 ---
-title: "SEC Form N-17D-1 (Algo Trading)"
-description: "Discover the significance of SEC Form N-17D-1 in ensuring transparency and compliance in SBICs and algorithmic trading through detailed financial disclosure.
-"
+category: quant_concept
+description: 'Discover the significance of SEC Form N-17D-1 in ensuring transparency
+  and compliance in SBICs and algorithmic trading through detailed financial disclosure. '
+title: SEC Form N-17D-1 (Algo Trading)
 ---
 
 SEC Form N-17D-1 is a crucial document mandated by the Securities and Exchange Commission (SEC) for Small Business Investment Companies (SBICs) and their affiliated banks. This form plays an essential role in ensuring transparency and accountability in financial reporting, particularly when it involves investments associated with SBICs. By requiring detailed documentation of investment activities, SEC Form N-17D-1 contributes significantly to the integrity and transparency of financial markets.

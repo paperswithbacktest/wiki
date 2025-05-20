@@ -1,6 +1,8 @@
 ---
-title: "Bit Gold: Concept and Comparison with Bitcoin (Algo Trading)"
-description: "Explore the historical significance of Bit Gold and Bitcoin in the world of cryptocurrencies Discover their foundational concepts and influence on algo trading"
+category: quant_concept
+description: Explore the historical significance of Bit Gold and Bitcoin in the world
+  of cryptocurrencies Discover their foundational concepts and influence on algo trading
+title: 'Bit Gold: Concept and Comparison with Bitcoin (Algo Trading)'
 ---
 
 Cryptocurrency, a digital or virtual form of currency, has become a significant player in the modern digital economy. Unlike traditional currencies controlled by central banks, cryptocurrencies rely on decentralized systems typically underpinned by blockchain technology. This innovation not only decentralizes money but also enhances transparency and security, reshaping how we perceive financial transactions.

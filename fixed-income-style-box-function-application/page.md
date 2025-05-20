@@ -1,6 +1,9 @@
 ---
-title: "Fixed-Income Style Box: Function and Application (Algo Trading)"
-description: "Explore the strategic application of fixed-income style boxes and algorithmic trading to enhance portfolio management with insights into maturity, credit quality, and trade optimization."
+category: trading_strategy
+description: Explore the strategic application of fixed-income style boxes and algorithmic
+  trading to enhance portfolio management with insights into maturity, credit quality,
+  and trade optimization.
+title: 'Fixed-Income Style Box: Function and Application (Algo Trading)'
 ---
 
 The world of investment provides a vast array of opportunities, particularly within fixed-income securities and algorithmic trading. As financial markets evolve, investors are continually seeking methods to improve portfolio performance and manage risks. This article focuses on style box investment, a strategic framework designed to classify and evaluate fixed-income investments. These style boxes, pioneered by firms like Morningstar, enable investors to visualize maturity and credit quality, aiding in informed decision-making.

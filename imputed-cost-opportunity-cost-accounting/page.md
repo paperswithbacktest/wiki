@@ -1,6 +1,8 @@
 ---
-title: "Imputed Cost and Opportunity Cost in Accounting (Algo Trading)"
-description: "Explore the impact of opportunity and imputed costs in accounting and algorithmic trading to optimize resource allocation and enhance financial strategies."
+category: quant_concept
+description: Explore the impact of opportunity and imputed costs in accounting and
+  algorithmic trading to optimize resource allocation and enhance financial strategies.
+title: Imputed Cost and Opportunity Cost in Accounting (Algo Trading)
 ---
 
 Opportunity cost is a fundamental concept in economics, intersecting with various financial disciplines. It refers to the benefits an individual or business forgoes when choosing one option over the next best alternative. This principle is essential for understanding how to optimize resource allocation and enhance decision-making in economic and financial contexts. In this article, we explore opportunity cost in relation to accounting terms, imputed cost, and algorithmic trading.

@@ -1,7 +1,8 @@
 ---
-title: Distributed Machine Learning Methods for Scalable Model Training
+category: quant_concept
 description: Distributed machine learning methods divide training across computers
   to boost speed cut memory use and improve efficiency Discover more inside
+title: Distributed Machine Learning Methods for Scalable Model Training
 ---
 
 ![Image](images/1.png)

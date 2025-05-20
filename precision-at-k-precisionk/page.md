@@ -1,10 +1,9 @@
 ---
-title: Understanding Precision@K for Evaluating Machine Learning Models
+category: quant_concept
 description: Precision@K measures how well a model ranks relevant items in its top
   K results to boost search and recommendation accuracy. Discover more inside.
+title: Understanding Precision@K for Evaluating Machine Learning Models
 ---
-
-
 
 ## Table of Contents
 

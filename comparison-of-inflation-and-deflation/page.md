@@ -1,6 +1,9 @@
 ---
-title: "Comparison of Inflation and Deflation (Algo Trading)"
-description: "Discover the impact of inflation and deflation on algorithmic trading and market dynamics. Learn how these forces shape economic strategies and trading decisions."
+category: quant_concept
+description: Discover the impact of inflation and deflation on algorithmic trading
+  and market dynamics. Learn how these forces shape economic strategies and trading
+  decisions.
+title: Comparison of Inflation and Deflation (Algo Trading)
 ---
 
 In the intricate world of economics, inflation and deflation represent two major forces that significantly influence market dynamics. These phenomena, characterized by rising and falling price levels, respectively, have far-reaching implications for both financial markets and broader economic activities. This is especially true in algorithmic trading, where fast-paced decision-making and the ability to swiftly adapt to changing market conditions are crucial for success.

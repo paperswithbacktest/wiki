@@ -1,6 +1,9 @@
 ---
-title: "systemic risk (Algo Trading)"
-description: "Algorithmic trading, while revolutionizing markets with speed and efficiency, also introduces systemic risks. These risks are crucial for institutions and regulators to address."
+category: quant_concept
+description: Algorithmic trading, while revolutionizing markets with speed and efficiency,
+  also introduces systemic risks. These risks are crucial for institutions and regulators
+  to address.
+title: systemic risk (Algo Trading)
 ---
 
 In the digital age, algorithmic trading has transformed financial markets by enabling transactions that are both efficient and lightning-fast. By leveraging complex algorithms and vast computational power, traders can execute trades with precision and at scales far beyond human capabilities. This technological advancement has democratized access to financial markets, reducing transaction costs and increasing liquidity. Nevertheless, as the prevalence of algorithmic trading has surged, it has brought forth a series of systemic risks that now serve as focal concerns for financial institutions and regulatory bodies alike.

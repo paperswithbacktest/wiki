@@ -1,6 +1,8 @@
 ---
-title: "No Quote: Meaning, Functionality, and Example (Algo Trading)"
-description: "Discover the meaning and implications of 'No Quote' and 'Algorithmic Trading' in today's markets. Learn how they impact strategies and trading decisions."
+category: quant_concept
+description: Discover the meaning and implications of 'No Quote' and 'Algorithmic
+  Trading' in today's markets. Learn how they impact strategies and trading decisions.
+title: 'No Quote: Meaning, Functionality, and Example (Algo Trading)'
 ---
 
 In today's fast-paced financial markets, understanding various trading terminologies and situations is crucial for investors and traders alike. Two concepts that frequently surface in trading discussions are 'No Quote No Quote' and 'Algorithmic Trading', each bearing significant implications for market participants. As the complexity of financial markets increases, these terms emerge not only as essential technical jargon but also as central elements influencing trading strategies and decision-making processes.

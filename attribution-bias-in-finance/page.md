@@ -1,6 +1,8 @@
 ---
-title: "Attribution Bias in Finance (Algo Trading)"
-description: "Uncover the impact of attribution bias in finance and algorithmic trading Understand how cognitive distortions affect decision-making and investment strategies"
+category: quant_concept
+description: Uncover the impact of attribution bias in finance and algorithmic trading
+  Understand how cognitive distortions affect decision-making and investment strategies
+title: Attribution Bias in Finance (Algo Trading)
 ---
 
 Attribution bias represents a significant concept within behavioral finance, influencing decision-making across finance and trading sectors. This cognitive bias arises when individuals unconsciously attribute successes to their own actions while blaming external factors for failures. Such bias can skew perceptions and decisions in financial contexts, where objective evaluation is crucial. Understanding and mitigating attribution bias is essential for crafting effective investment strategies and achieving optimal performance in algorithmic trading.

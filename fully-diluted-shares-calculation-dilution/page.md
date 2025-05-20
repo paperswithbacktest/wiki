@@ -1,6 +1,15 @@
 ---
-title: "Fully Diluted Shares and Calculation of Dilution (Algo Trading)"
-description: "Explore the essential concepts of share dilution and fully diluted shares in the context of investment and company stakeholder interests. Learn how the issuance of additional shares can reduce existing ownership percentages, impacting earnings per share (EPS) and overall company valuation. Delve into how algorithmic trading leverages these dynamics, offering opportunities during dilution events. This comprehensive guide provides insights into calculating share dilution, understanding fully diluted shares, and navigating investment strategies effectively amidst changing capital structures. Empower yourself with knowledge to make informed decisions and optimize trading outcomes."
+category: quant_concept
+description: Explore the essential concepts of share dilution and fully diluted shares
+  in the context of investment and company stakeholder interests. Learn how the issuance
+  of additional shares can reduce existing ownership percentages, impacting earnings
+  per share (EPS) and overall company valuation. Delve into how algorithmic trading
+  leverages these dynamics, offering opportunities during dilution events. This comprehensive
+  guide provides insights into calculating share dilution, understanding fully diluted
+  shares, and navigating investment strategies effectively amidst changing capital
+  structures. Empower yourself with knowledge to make informed decisions and optimize
+  trading outcomes.
+title: Fully Diluted Shares and Calculation of Dilution (Algo Trading)
 ---
 
 Share dilution and fully diluted shares are fundamental concepts for investors and company stakeholders. When a company issues additional shares, existing shareholders experience a reduction in their ownership percentage, commonly referred to as share dilution. This process is often a byproduct of activities such as fundraising, stock option exercises, or the conversion of convertible securities.

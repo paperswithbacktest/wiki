@@ -1,6 +1,12 @@
 ---
-title: "Earnings Before Interest, Depreciation, and Amortization (Algo Trading)"
-description: "Discover the conservative financial metric EBIDA which adds insights to both corporate finance and algorithmic trading. This article explores how Earnings Before Interest Depreciation and Amortization offers a nuanced view of operational cash flows by factoring in tax expenses. Dive into the details of why EBIDA is valued for showcasing a company's true financial performance and how it assists algorithmic traders in making informed decisions based on a company's operational health."
+category: quant_concept
+description: Discover the conservative financial metric EBIDA which adds insights
+  to both corporate finance and algorithmic trading. This article explores how Earnings
+  Before Interest Depreciation and Amortization offers a nuanced view of operational
+  cash flows by factoring in tax expenses. Dive into the details of why EBIDA is valued
+  for showcasing a company's true financial performance and how it assists algorithmic
+  traders in making informed decisions based on a company's operational health.
+title: Earnings Before Interest, Depreciation, and Amortization (Algo Trading)
 ---
 
 In the world of corporate finance, understanding various financial metrics is crucial for stakeholders and decision-makers. These metrics not only paint a picture of a company's fiscal health but also inform strategic planning and investment decisions. One metric that has garnered attention alongside its more commonly used counterpart, EBITDA, is Earnings Before Interest, Depreciation, and Amortization (EBIDA). EBIDA distinguishes itself by providing insightful data on a company’s operational efficiency through the lens of cash flows absent of interest and amortization impacts. This metric serves as a conservative measure, capturing tax expenses, which can offer a more nuanced perspective of profitability.

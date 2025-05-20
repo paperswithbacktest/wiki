@@ -1,6 +1,8 @@
 ---
-title: "Radner Equilibrium in Economic Theory (Algo Trading)"
-description: "Explore Radner Equilibrium to understand market mechanics under uncertainty. Discover its impact on modern economic paradigms and algorithmic trading strategies."
+category: quant_concept
+description: Explore Radner Equilibrium to understand market mechanics under uncertainty.
+  Discover its impact on modern economic paradigms and algorithmic trading strategies.
+title: Radner Equilibrium in Economic Theory (Algo Trading)
 ---
 
 The concept of equilibrium is integral to economic theory, offering insight into the mechanics of markets under diverse scenarios. At the heart of this exploration lies the Radner Equilibrium, a sophisticated extension of the Arrow-Debreu General Equilibrium. This model uniquely incorporates elements of uncertainty, reflecting the realities of economic decision-making where information is often imperfect and incomplete. 

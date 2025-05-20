@@ -1,6 +1,8 @@
 ---
-title: "Features of a Mixed Economic System (Algo Trading)"
-description: "Discover the balance of capitalism and socialism in mixed economies with algo trading's role in enhancing market efficiency through technology and regulation."
+category: quant_concept
+description: Discover the balance of capitalism and socialism in mixed economies with
+  algo trading's role in enhancing market efficiency through technology and regulation.
+title: Features of a Mixed Economic System (Algo Trading)
 ---
 
 Understanding the various economic systems is crucial for grasping how they impact global markets and individual societies. Each economic system, whether it is capitalism, socialism, or a combination thereof, plays a decisive role in shaping financial structures, consumer behavior, and government policies. A mixed economic system uniquely blends elements of both capitalist and socialist economies, allowing for a dual structure of public and private control. This duality ensures that while private enterprises can operate freely, the state retains the power to intervene to promote social welfare or stabilize the economy.

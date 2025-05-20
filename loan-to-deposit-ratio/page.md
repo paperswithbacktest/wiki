@@ -1,6 +1,9 @@
 ---
-title: "Loan-to-Deposit Ratio (Algo Trading)"
-description: "Explore the importance of the Loan-to-Deposit Ratio in banking. Learn how it reflects a bank's liquidity and lending practices, impacting financial health and strategy."
+category: quant_concept
+description: Explore the importance of the Loan-to-Deposit Ratio in banking. Learn
+  how it reflects a bank's liquidity and lending practices, impacting financial health
+  and strategy.
+title: Loan-to-Deposit Ratio (Algo Trading)
 ---
 
 In the rapidly evolving world of finance, understanding key banking metrics and financial ratios is crucial for investors, analysts, and financial institutions. Among these metrics, the Loan-to-Deposit Ratio (LDR) stands out as a vital measure of a bank's liquidity and lending practices. The LDR is a financial metric that highlights the relationship between a bank's loan portfolio and its deposit base, offering insight into how well a bank is managing its core business functions—primarily its ability to extend credit while maintaining sufficient liquidity.

@@ -1,6 +1,9 @@
 ---
-title: "Call and Put Options: Meaning and Application (Algo Trading)"
-description: "Discover how call and put options empower traders in algorithmic trading Enhance your understanding of options strategies for optimized risk management and returns"
+category: quant_concept
+description: Discover how call and put options empower traders in algorithmic trading
+  Enhance your understanding of options strategies for optimized risk management and
+  returns
+title: 'Call and Put Options: Meaning and Application (Algo Trading)'
 ---
 
 Financial trading has undergone significant transformation over the years with the introduction and evolution of complex financial instruments. Among these, options trading—comprising call and put options—has emerged as a critical component of modern financial markets. Options are financial derivatives that provide versatility in investment strategies through the right, but not the obligation, to buy or sell an asset at a predetermined price within a set timeframe. This flexibility allows investors to hedge risks, speculate on market movements, and enhance portfolio returns.

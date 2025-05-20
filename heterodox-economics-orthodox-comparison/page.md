@@ -1,6 +1,8 @@
 ---
-title: "Heterodox Economics and Orthodox Comparison (Algo Trading)"
-description: "Explore the contrasting realms of heterodox and orthodox economics, examining diverse theories and their implications on algorithmic trading strategies."
+category: quant_concept
+description: Explore the contrasting realms of heterodox and orthodox economics, examining
+  diverse theories and their implications on algorithmic trading strategies.
+title: Heterodox Economics and Orthodox Comparison (Algo Trading)
 ---
 
 In the ever-evolving world of economics, diverse theories compete to explain the complexities of economic systems. The study of economics involves understanding how societies allocate limited resources and address issues such as production, distribution, and consumption of goods and services. Mainstream economic thought is often characterized by established theories and models that prioritize efficiency, predictability, and equilibrium. These orthodox theories, predominantly Keynesian and neoclassical, provide a framework for analyzing market behavior and guiding policy decisions.

@@ -1,6 +1,9 @@
 ---
-title: "Canada Premium Bond Overview (Algo Trading)"
-description: "Explore the historical significance of Canada Premium Bonds and their transformation through algorithmic trading a modern force reshaping traditional bond markets."
+category: quant_concept
+description: Explore the historical significance of Canada Premium Bonds and their
+  transformation through algorithmic trading a modern force reshaping traditional
+  bond markets.
+title: Canada Premium Bond Overview (Algo Trading)
 ---
 
 This article offers a comprehensive examination of Canada Premium Bonds (CPB), a financial instrument once pivotal in the Canadian government's portfolio. Issued as part of post-World War II economic strategies, CPBs served as a secure investment option, attracting citizens with their competitive interest rates and government-backed assurance. While CPBs were ultimately discontinued in 2017 due to evolving market conditions and strategic financial considerations, their legacy in shaping investment behaviors endures.

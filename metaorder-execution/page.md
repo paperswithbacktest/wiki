@@ -1,6 +1,8 @@
 ---
-title: "Meta-order execution (Algo Trading)"
-description: "Meta-order execution in algo trading minimizes market impact and optimizes trade efficiency for large trades using advanced execution algorithms and strategies."
+category: quant_concept
+description: Meta-order execution in algo trading minimizes market impact and optimizes
+  trade efficiency for large trades using advanced execution algorithms and strategies.
+title: Meta-order execution (Algo Trading)
 ---
 
 Meta-order execution plays a vital role in the domain of algorithmic trading, focusing on the execution of large block trades with an objective to minimize their impact on the market and optimize overall trading efficiency. This approach is increasingly significant as trading volumes and the need for precision in financial markets grow. Meta-order execution is essential for institutional traders, such as hedge funds and banks, who regularly deal with substantial trade volumes that, if improperly managed, could adversely affect market prices.

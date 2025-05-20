@@ -1,6 +1,10 @@
 ---
-title: "Noise (Algo Trading)"
-description: Explore the intricacies of noise in algorithmic trading where distinguishing genuine signals from random market fluctuations is crucial. Delve into the sources and impacts of noise and discover how advanced techniques can filter it out to enhance trading precision and strategy effectiveness.
+category: quant_concept
+description: Explore the intricacies of noise in algorithmic trading where distinguishing
+  genuine signals from random market fluctuations is crucial. Delve into the sources
+  and impacts of noise and discover how advanced techniques can filter it out to enhance
+  trading precision and strategy effectiveness.
+title: Noise (Algo Trading)
 ---
 
 Algorithmic trading has brought about a revolutionary change in how financial markets operate, allowing traders to execute orders with remarkable speed and precision. This rapid execution is made possible through sophisticated algorithms that analyze large volumes of market data and make trading decisions within milliseconds. However, one of the significant challenges that traders face in algorithmic trading is the differentiation of meaningful signals from noise. 

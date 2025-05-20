@@ -1,6 +1,8 @@
 ---
-title: "Exercise Limit: Mechanism and Examples (Algo Trading)"
-description: "Explore the synergy between exercise and algorithmic trading by understanding exercise limits and the impact of fitness on trading performance and mental acuity."
+category: quant_concept
+description: Explore the synergy between exercise and algorithmic trading by understanding
+  exercise limits and the impact of fitness on trading performance and mental acuity.
+title: 'Exercise Limit: Mechanism and Examples (Algo Trading)'
 ---
 
 In the ever-evolving world of trading and physical fitness, the interplay between exercise limits, physical fitness, exercise physiology, and algorithmic trading has become increasingly important. As both fields advance, recognizing how these elements intersect can lead to enhanced performance, whether on the trading floor or in personal fitness pursuits. This article takes a comprehensive look at these components, combining insights from both fitness and trading to boost performance in both arenas.

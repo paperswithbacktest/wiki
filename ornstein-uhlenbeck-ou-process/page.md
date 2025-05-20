@@ -1,6 +1,11 @@
 ---
-title: "Ornstein-Uhlenbeck (O-U) process (Algo Trading)"
-description: Explore the significance of the Ornstein-Uhlenbeck process in algorithmic trading where its mean-reverting traits provide traders with a robust tool for mean reversion and pairs trading strategies. Gain insights into its mathematical foundations and practical applications in financial modeling enhancing market prediction and strategy development.
+category: quant_concept
+description: Explore the significance of the Ornstein-Uhlenbeck process in algorithmic
+  trading where its mean-reverting traits provide traders with a robust tool for mean
+  reversion and pairs trading strategies. Gain insights into its mathematical foundations
+  and practical applications in financial modeling enhancing market prediction and
+  strategy development.
+title: Ornstein-Uhlenbeck (O-U) process (Algo Trading)
 ---
 
 The financial trading landscape has been significantly reshaped with the rise of algorithmic trading. In this modern trading approach, statistical models and algorithms are extensively employed to make precise and timely trading decisions. Among these models, the Ornstein-Uhlenbeck (OU) process stands out for its mean-reverting properties, making it particularly valuable in strategies focusing on mean reversion and pairs trading.

@@ -1,6 +1,9 @@
 ---
-title: "Primary Dealer (Algo Trading)"
-description: "Explore the synergy between government securities primary dealers and algorithmic trading in financial markets highlighting the dynamics shaping modern finance."
+category: quant_concept
+description: Explore the synergy between government securities primary dealers and
+  algorithmic trading in financial markets highlighting the dynamics shaping modern
+  finance.
+title: Primary Dealer (Algo Trading)
 ---
 
 Financial markets are instrumental in directing resources and investment capital efficiently across the global economy. They provide a platform where various financial instruments are traded, offering opportunities and tools for investment, speculation, and risk management. Among the diverse array of financial instruments, government securities stand out as a relatively secure investment choice. Issued by national governments, these debt instruments are considered low-risk due to the government's ability to tax or print currency to meet obligations, thus offering a dependable income stream through interest payments. Common forms of government securities include Treasury bills, notes, and bonds, each distinguished by their maturity, yield, and role in fiscal strategy.

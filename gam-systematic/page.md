@@ -1,6 +1,8 @@
 ---
-title: "GAM Systematic (Algo Trading)"
-description: "Explore GAM Systematic's algo trading to learn how algorithms enhance trade execution, manage portfolios, and propel investment strategies forward."
+category: trading_strategy
+description: Explore GAM Systematic's algo trading to learn how algorithms enhance
+  trade execution, manage portfolios, and propel investment strategies forward.
+title: GAM Systematic (Algo Trading)
 ---
 
 In the fast-paced world of financial trading, the integration of algorithms is revolutionizing the execution of trades and management of portfolios. At the forefront of this transformation is GAM Systematic, a prominent entity that harnesses algorithmic trading strategies to optimize investment outcomes. By utilizing advanced computational techniques, GAM Systematic not only enhances performance but also provides insightful perspectives on the dynamic and complex nature of financial markets.

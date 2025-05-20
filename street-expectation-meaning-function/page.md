@@ -1,6 +1,8 @@
 ---
-title: "Street Expectation: Meaning and Function (Algo Trading)"
-description: "Discover how market psychology, street expectations, and algorithmic trading intersect to shape financial markets and enhance trading strategies."
+category: quant_concept
+description: Discover how market psychology, street expectations, and algorithmic
+  trading intersect to shape financial markets and enhance trading strategies.
+title: 'Street Expectation: Meaning and Function (Algo Trading)'
 ---
 
 Financial markets operate through the dynamic interplay of market psychology, street expectations, and algorithmic trading. These elements collectively influence trading strategies and market movements, serving as foundational pillars for market analysis. For traders and investors, mastering the interactions among these factors is paramount to thriving in volatile and unpredictable market conditions.

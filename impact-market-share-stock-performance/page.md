@@ -1,6 +1,9 @@
 ---
-title: "Impact of Market Share on Stock Performance (Algo Trading)"
-description: "Explore how market share influences stock performance and the role of algorithmic trading. Dive into company valuation techniques affecting economic perceptions and investments."
+category: quant_concept
+description: Explore how market share influences stock performance and the role of
+  algorithmic trading. Dive into company valuation techniques affecting economic perceptions
+  and investments.
+title: Impact of Market Share on Stock Performance (Algo Trading)
 ---
 
 The stock market is a cornerstone of modern economic systems, serving as a pivotal indicator of the health and direction of an economy. Its performance is intricately tied to various macroeconomic trends ranging from interest rates and inflation to geopolitical events and consumer confidence. Understanding the stock market requires an examination of several key factors, including market share, stock performance, and company valuation.

@@ -1,6 +1,8 @@
 ---
-title: "Rule of 72: Explanation and Applications (Algo Trading)"
-description: "Discover the Rule of 72 and its applications in finance and algorithmic trading to simplify estimating investment doubling time and analyze strategy growth."
+category: quant_concept
+description: Discover the Rule of 72 and its applications in finance and algorithmic
+  trading to simplify estimating investment doubling time and analyze strategy growth.
+title: 'Rule of 72: Explanation and Applications (Algo Trading)'
 ---
 
 The Rule of 72 is a well-regarded financial formula that simplifies the process of calculating the time it will take for an investment to double. Widely recognized for its utility, this rule provides a quick and intuitive way to estimate the effect of compound interest, making it a valuable tool for anyone involved in financial planning or investment analysis. Beyond its applications in pure finance, the simplicity and elegance of the Rule of 72 make it applicable in various domains where exponential growth is significant, such as population studies and technology adoption rates.

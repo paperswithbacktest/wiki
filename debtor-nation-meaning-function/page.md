@@ -1,6 +1,8 @@
 ---
-title: "Debtor Nation: Meaning and Function (Algo Trading)"
-description: "Explore the impact of national debt on debtor countries and how algorithmic trading may influence economic stability and debt management strategies."
+category: quant_concept
+description: Explore the impact of national debt on debtor countries and how algorithmic
+  trading may influence economic stability and debt management strategies.
+title: 'Debtor Nation: Meaning and Function (Algo Trading)'
 ---
 
 Understanding national debt and its implications on a country's economy is essential for grasping contemporary economic dynamics. National debt represents the total amount that a government owes to creditors, which can be a mixture of domestic and foreign entities. This debt accumulates over time due to budgetary deficits, where government expenditures exceed revenues, necessitating borrowing through the issuance of government securities like bonds.

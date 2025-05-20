@@ -1,6 +1,9 @@
 ---
-title: "Regulatory Limitations (Algo Trading)"
-description: "Explore the complexities of algorithmic trading regulation addressing market efficiency, systemic risk, and the balance between innovation and financial stability."
+category: quant_concept
+description: Explore the complexities of algorithmic trading regulation addressing
+  market efficiency, systemic risk, and the balance between innovation and financial
+  stability.
+title: Regulatory Limitations (Algo Trading)
 ---
 
 Algorithmic trading, commonly known as algo trading, has revolutionized the landscape of global financial markets. Utilizing sophisticated algorithms, traders can execute substantial volumes of trades in fractions of a second, far surpassing the capabilities of human traders. This technological advance has resulted in notable benefits, including enhanced market efficiency and increased liquidity. By automating trading processes, market participants can react almost instantaneously to market changes, which reduces transaction costs and narrows bid-ask spreads. 

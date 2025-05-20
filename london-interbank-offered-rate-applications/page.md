@@ -1,6 +1,8 @@
 ---
-title: "London Interbank Offered Rate and Its Applications (Algo Trading)"
-description: "Explore the influence of LIBOR in global financial markets and the implications of its 2023 phaseout on algorithmic trading and financial strategies."
+category: quant_concept
+description: Explore the influence of LIBOR in global financial markets and the implications
+  of its 2023 phaseout on algorithmic trading and financial strategies.
+title: London Interbank Offered Rate and Its Applications (Algo Trading)
 ---
 
 The London Interbank Offered Rate (LIBOR) was once the predominant benchmark interest rate used by global banks when lending to one another. Established in the late 20th century, LIBOR served as a critical component in the financial markets by providing a standardized, transparent rate indicative of the cost at which major banks could obtain unsecured funding from each other. Its widespread adoption meant that it became the interest rate reference for trillions of dollars in financial products, including mortgages, loans, and derivatives.

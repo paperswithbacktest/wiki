@@ -1,6 +1,9 @@
 ---
-title: "Currency Production in the United States (Algo Trading)"
-description: "Explore the crucial link between U.S. currency production by the Federal Reserve and the impact of algorithmic trading on financial markets and economic stability."
+category: quant_concept
+description: Explore the crucial link between U.S. currency production by the Federal
+  Reserve and the impact of algorithmic trading on financial markets and economic
+  stability.
+title: Currency Production in the United States (Algo Trading)
 ---
 
 Currency production is a fundamental component of the U.S. economy, facilitating trade, investment, and consumption. The process is managed by the Federal Reserve, the central banking system of the United States, which plays a pivotal role in regulating the money supply through various mechanisms, including currency production. The Federal Reserve's influence extends beyond simple issuance, encompassing critical responsibilities such as influencing interest rates, controlling inflation, and ensuring economic stability. In this regard, the Federal Reserve is an essential institution in maintaining the balance between the demand and supply of money, which subsequently affects economic growth and employment levels.

@@ -1,6 +1,10 @@
 ---
-title: "Intangible Drilling Costs (Algo Trading)"
-description: "Discover how Intangible Drilling Costs impact financial strategies in the oil and gas industry by offering immediate tax advantages and influencing operational decisions. Explore the integration of algorithmic trading and IDCs to optimize financial returns and manage risk in an evolving energy landscape."
+category: quant_concept
+description: Discover how Intangible Drilling Costs impact financial strategies in
+  the oil and gas industry by offering immediate tax advantages and influencing operational
+  decisions. Explore the integration of algorithmic trading and IDCs to optimize financial
+  returns and manage risk in an evolving energy landscape.
+title: Intangible Drilling Costs (Algo Trading)
 ---
 
 In contemporary society, oil and gas are essential components powering economies and daily life. This reliance underscores the importance of comprehending the financial frameworks that bolster these industries. One such framework is Intangible Drilling Costs (IDCs), which play a vital role, particularly in the U.S., by offering significant tax advantages that can influence operational decisions and profitability in oil and gas exploration.

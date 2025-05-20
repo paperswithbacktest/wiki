@@ -1,6 +1,9 @@
 ---
-title: "Hypothesis Testing in Finance (Algo Trading)"
-description: "Explore the essential role of hypothesis testing in finance as it enhances decision-making for algo trading and financial analysis by validating models and strategies."
+category: quant_concept
+description: Explore the essential role of hypothesis testing in finance as it enhances
+  decision-making for algo trading and financial analysis by validating models and
+  strategies.
+title: Hypothesis Testing in Finance (Algo Trading)
 ---
 
 In the world of finance, effective decision-making is crucial. As markets become increasingly complex and data-driven, financial analysts seek methodologies that provide structured approaches to interpret vast amounts of data accurately and confidently. Hypothesis testing stands out as a valuable statistical tool in this context, enabling analysts to make informed decisions by evaluating data-driven insights within a rigorous framework. It allows the validation or refutation of financial models, ensuring that decisions are based on robust evidence rather than mere speculation.

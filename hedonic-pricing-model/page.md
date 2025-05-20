@@ -1,6 +1,8 @@
 ---
-title: "Hedonic Pricing Model (Algo Trading)"
-description: "Discover how hedonic pricing enhances algorithmic trading by decomposing product values into attributes for better market insights and economic valuation."
+category: quant_concept
+description: Discover how hedonic pricing enhances algorithmic trading by decomposing
+  product values into attributes for better market insights and economic valuation.
+title: Hedonic Pricing Model (Algo Trading)
 ---
 
 In today's dynamic economic landscape, understanding the intricacies of pricing models is crucial for various sectors, from real estate to financial markets. Pricing models serve as the backbone for assessing the value of goods and services, capturing a wide array of contributing factors and utilising them to inform economic decisions. This article explores the fundamentals of the pricing model economic valuation, with a particular focus on hedonic pricing and its integration into algorithmic trading.

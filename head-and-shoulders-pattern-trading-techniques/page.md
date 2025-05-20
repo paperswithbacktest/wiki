@@ -1,6 +1,9 @@
 ---
-title: "Head and Shoulders Pattern Trading Techniques (Algo Trading)"
-description: "Explore trading techniques using the Head and Shoulders pattern, focusing on integrating it into algorithmic trading for improved strategy effectiveness and market success."
+category: trading_strategy
+description: Explore trading techniques using the Head and Shoulders pattern, focusing
+  on integrating it into algorithmic trading for improved strategy effectiveness and
+  market success.
+title: Head and Shoulders Pattern Trading Techniques (Algo Trading)
 ---
 
 Technical analysis is a cornerstone of trading strategies across various financial markets, providing traders with tools to anticipate future market movements based on historical price data. A critical component of technical analysis is the identification of patterns within price charts that signal potential trend reversals or continuations. Among these, the Head and Shoulders pattern is particularly valued for its reliability and predictive capacity, making it an essential tool for traders.

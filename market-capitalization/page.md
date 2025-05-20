@@ -1,6 +1,12 @@
 ---
-title: "Market Capitalization (Algo Trading)"
-description: "Explore the intricacies of market capitalization and algorithmic trading as pivotal elements in stock market investment strategies. Gain insights into how market cap categorizes company sizes and influences investment decisions, while algorithmic trading reshapes transaction execution with advanced technology. Understand essential financial metrics like P/E ratios and EPS to optimize investment choices in this dynamic financial ecosystem."
+category: quant_concept
+description: Explore the intricacies of market capitalization and algorithmic trading
+  as pivotal elements in stock market investment strategies. Gain insights into how
+  market cap categorizes company sizes and influences investment decisions, while
+  algorithmic trading reshapes transaction execution with advanced technology. Understand
+  essential financial metrics like P/E ratios and EPS to optimize investment choices
+  in this dynamic financial ecosystem.
+title: Market Capitalization (Algo Trading)
 ---
 
 The stock market has long been a cornerstone of financial trading, providing a platform where equity shares of publicly held companies are issued and traded, either through exchanges or over-the-counter markets. Understanding the myriad facets of this complex financial ecosystem is essential for any investor or trader aiming to optimize their investment strategies. Several key financial metrics can significantly influence the market's dynamics and investors' decisions, such as market capitalization, price-to-earnings ratios, and earnings per share. Similarly, algorithmic trading has become a prominent force in the stock market landscape, utilizing advanced algorithms to execute trades with speed and precision. This article explores these critical components of the stock market and discusses their implications for investment choices and strategies. By delving into these topics, the article aims to equip investors with the knowledge necessary to navigate this ever-evolving economic landscape effectively.

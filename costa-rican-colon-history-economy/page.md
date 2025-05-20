@@ -1,6 +1,9 @@
 ---
-title: "Costa Rican Colón: Overview, History, and Economic Role (Algo Trading)"
-description: "Explore the impact of algorithmic trading on the Costa Rican Colón and economy as technology reshapes finance and traditional economic models in Costa Rica."
+category: quant_concept
+description: Explore the impact of algorithmic trading on the Costa Rican Colón and
+  economy as technology reshapes finance and traditional economic models in Costa
+  Rica.
+title: 'Costa Rican Colón: Overview, History, and Economic Role (Algo Trading)'
 ---
 
 Costa Rica's economy has gained recognition for its stability and robustness, characterized by a mix of traditional and modern economic activities. Historically, the nation transitioned from an agrarian economy focused primarily on coffee and bananas to a more diverse economy that includes significant contributions from tourism and technology sectors. As part of Central America's economic landscape, Costa Rica has achieved a unique economic position through open markets and sustainable development practices. The Costa Rican Colón (CRC), established in 1896, serves as the country's official currency. Managed by the Central Bank of Costa Rica, the CRC plays a pivotal role in the nation's economic affairs, with its value influenced by factors such as foreign investment, tourism income, and external economic conditions.

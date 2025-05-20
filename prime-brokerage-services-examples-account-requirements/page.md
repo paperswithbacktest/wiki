@@ -1,6 +1,13 @@
 ---
-title: "Prime Brokerage Services: Examples and Account Requirements (Algo Trading)"
-description: "Discover the essential role of prime brokerage services in algorithmic trading as they enable hedge funds and institutional investors to execute complex strategies efficiently. Explore the account requirements needed to leverage these services, including access to diverse markets, advanced risk management tools, and exclusive trading platforms. Learn how prime brokers support the infrastructure for high-frequency trading and sophisticated trading strategies, crucial for maximizing investment returns in today's interconnected financial landscape."
+category: trading_strategy
+description: Discover the essential role of prime brokerage services in algorithmic
+  trading as they enable hedge funds and institutional investors to execute complex
+  strategies efficiently. Explore the account requirements needed to leverage these
+  services, including access to diverse markets, advanced risk management tools, and
+  exclusive trading platforms. Learn how prime brokers support the infrastructure
+  for high-frequency trading and sophisticated trading strategies, crucial for maximizing
+  investment returns in today's interconnected financial landscape.
+title: 'Prime Brokerage Services: Examples and Account Requirements (Algo Trading)'
 ---
 
 In the modern financial landscape, prime brokerage serves as a cornerstone for hedge funds and institutional investors. These sophisticated services provide essential support for executing complex trading strategies, enhancing investment activities, and meeting the demands of an increasingly global and interconnected market environment. 

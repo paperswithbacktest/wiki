@@ -1,6 +1,8 @@
 ---
-title: "Capital Share: Meaning and Mechanism (Algo Trading)"
-description: "Explore the impact of algorithmic trading on capital distribution and economic growth. Discover how it reshapes financial markets for investors and policymakers."
+category: quant_concept
+description: Explore the impact of algorithmic trading on capital distribution and
+  economic growth. Discover how it reshapes financial markets for investors and policymakers.
+title: 'Capital Share: Meaning and Mechanism (Algo Trading)'
 ---
 
 In this article, we explore the complex interactions between economic distribution, investment capital, and algorithmic trading, and their combined influence on modern financial markets. Algorithmic trading, also known as algo trading, has redefined how trades are executed, leading to enhanced market efficiencies and introducing new avenues for capital allocation and economic growth. Stakeholders, including investors and policymakers, must understand the impact of these components to effectively navigate the multifaceted landscape of today's financial investments.

@@ -1,6 +1,8 @@
 ---
-title: "Depth of Market and Utilization of DOM Data (Algo Trading)"
-description: "Discover the power of Depth of Market data for algorithmic trading Dive into market dynamics liquidity insights and refine your trading strategies effectively"
+category: quant_concept
+description: Discover the power of Depth of Market data for algorithmic trading Dive
+  into market dynamics liquidity insights and refine your trading strategies effectively
+title: Depth of Market and Utilization of DOM Data (Algo Trading)
 ---
 
 Depth of Market (DOM) represents a pivotal concept in contemporary trading, particularly in algorithmic trading. DOM data provides a comprehensive view of supply and demand for tradable assets, serving as an instrumental tool in assessing market liquidity and potential price fluctuations. This data is essential for traders and financial analysts seeking to grasp current market conditions and predict future trends.

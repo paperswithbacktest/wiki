@@ -1,6 +1,8 @@
 ---
-title: "Comparison of Return on Equity and Return on Capital (Algo Trading)"
-description: "Explore the significance of Return on Equity and Return on Capital in algorithmic trading and their role in enhancing investment strategies and decisions."
+category: quant_concept
+description: Explore the significance of Return on Equity and Return on Capital in
+  algorithmic trading and their role in enhancing investment strategies and decisions.
+title: Comparison of Return on Equity and Return on Capital (Algo Trading)
 ---
 
 Understanding key financial metrics is crucial for evaluating company performance. Among these metrics, Return on Capital (ROC) and Return on Equity (ROE) hold particular significance, especially within the context of algorithmic trading. This article explores the intricacies of ROC and ROE, their importance in financial analysis, and their application in algorithmic trading.

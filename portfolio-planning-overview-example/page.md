@@ -1,6 +1,9 @@
 ---
-title: "Portfolio Planning: Overview and Example (Algo Trading)"
-description: "Explore the essential elements of portfolio planning for algorithmic trading. Understand how to integrate strategy and technology for effective financial management."
+category: trading_strategy
+description: Explore the essential elements of portfolio planning for algorithmic
+  trading. Understand how to integrate strategy and technology for effective financial
+  management.
+title: 'Portfolio Planning: Overview and Example (Algo Trading)'
 ---
 
 Understanding and effectively managing investments is crucial for achieving long-term financial goals. Investment strategy, portfolio planning, financial planning, and algorithmic trading each play interconnected roles in this process. As investors strive to achieve their financial objectives, these components offer distinct yet complementary functions that, when combined, enhance the potential for optimal outcomes.

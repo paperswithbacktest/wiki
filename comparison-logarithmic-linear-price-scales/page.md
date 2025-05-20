@@ -1,6 +1,8 @@
 ---
-title: "Comparison of Logarithmic and Linear Price Scales (Algo Trading)"
-description: "Explore the key differences between linear and logarithmic price scales and their implications for algorithmic trading strategies in financial markets."
+category: quant_concept
+description: Explore the key differences between linear and logarithmic price scales
+  and their implications for algorithmic trading strategies in financial markets.
+title: Comparison of Logarithmic and Linear Price Scales (Algo Trading)
 ---
 
 In the world of finance and technical analysis, scales are fundamental tools for interpreting and representing price data. The two most common methods used in charts are linear and logarithmic scales. Linear scales depict equal distances on the chart for equal price changes, while logarithmic scales use equal distances to show equal percentage changes. This distinction is critical for traders, especially those employing algorithmic methods to make informed trading decisions.

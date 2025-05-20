@@ -1,6 +1,9 @@
 ---
-title: "Resolution Funding Corporation (Algo Trading)"
-description: "Resolution Funding Corporation enhances financial stability by leveraging algorithmic trading to optimize its operations using advanced technology for precise and agile execution."
+category: quant_concept
+description: Resolution Funding Corporation enhances financial stability by leveraging
+  algorithmic trading to optimize its operations using advanced technology for precise
+  and agile execution.
+title: Resolution Funding Corporation (Algo Trading)
 ---
 
 In recent years, the intersection of finance and technology has been revolutionizing trading practices, with algorithmic trading leading this transformation by providing enhanced efficiency and precision in financial transactions. This approach uses complex algorithms and automated systems to execute large volumes of trade at speeds and accuracies beyond human capability. The ability to analyze market data and execute trades in milliseconds not only reduces the chances of human error but also allows for more strategic decision-making based on vast amounts of historical and real-time data.

@@ -1,6 +1,8 @@
 ---
-title: "Interest-Sensitive Stock (Algo Trading)"
-description: "Explore the impact of interest rates on stocks and the role of algorithmic trading in managing them Learn strategies to optimize your investments effectively"
+category: quant_concept
+description: Explore the impact of interest rates on stocks and the role of algorithmic
+  trading in managing them Learn strategies to optimize your investments effectively
+title: Interest-Sensitive Stock (Algo Trading)
 ---
 
 Interest-sensitive stocks have increasingly become a focal point in the financial markets, largely due to their susceptibility to fluctuations in interest rates. These stocks, which typically include those of financial institutions, highly leveraged businesses, and high dividend-paying companies, exhibit a strong correlation with interest rate movements. As global economies grapple with the dynamics of monetary policies, the impact of interest rates on these stocks cannot be understated.

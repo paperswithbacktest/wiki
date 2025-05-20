@@ -1,6 +1,8 @@
 ---
-title: "Telephone Bond (Algo Trading)"
-description: "Explore the dynamic world of telephone bonds and algorithmic trading to optimize investments in the evolving telecom market and leverage financial innovations."
+category: quant_concept
+description: Explore the dynamic world of telephone bonds and algorithmic trading
+  to optimize investments in the evolving telecom market and leverage financial innovations.
+title: Telephone Bond (Algo Trading)
 ---
 
 In the digital era, the landscape of finance has undergone substantial transformation powered by technological advancements. This change is especially visible in investment finance, where tools such as telephone bonds and algorithmic trading are fundamentally altering traditional methods and strategies. Grasping these components is essential for investors aiming to optimize their returns and adeptly navigate the intricate modern markets.
@@ -135,4 +137,4 @@ The integration of traditional investment methods with modern technology facilit
 
 [6]: Hasbrouck, J. (2003). ["Intraday Price Formation in U.S. Equity Markets."](https://onlinelibrary.wiley.com/doi/10.1046/j.1540-6261.2003.00609.x) The Review of Financial Studies, 16(4), 1155–1187. 
 
-[7]: BlackRock. (2021). ["2021 Global Bond Market Outlook."](https://www.orionportfoliosolutions.com/wp-content/uploads/dlm_uploads/2021/02/BR_2021_Global_Outlook_pdf_PNzLO4Tw.pdf) 
+[7]: BlackRock. (2021). ["2021 Global Bond Market Outlook."](https://www.orionportfoliosolutions.com/wp-content/uploads/dlm_uploads/2021/02/BR_2021_Global_Outlook_pdf_PNzLO4Tw.pdf)

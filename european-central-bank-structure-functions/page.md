@@ -1,6 +1,9 @@
 ---
-title: "European Central Bank: Structure and Functions (Algo Trading)"
-description: "Explore the European Central Bank's role in monetary policy and financial stability Learn about its impact on algorithmic trading within the eurozone financial markets"
+category: quant_concept
+description: Explore the European Central Bank's role in monetary policy and financial
+  stability Learn about its impact on algorithmic trading within the eurozone financial
+  markets
+title: 'European Central Bank: Structure and Functions (Algo Trading)'
 ---
 
 The European Central Bank (ECB) serves as a cornerstone in both the European and global financial systems. Established to manage the euro, the single currency adopted by 19 of the 27 European Union member countries, the ECB plays a crucial role in maintaining economic stability across the eurozone. As the central bank for the euro, the ECB is responsible for framing and implementing the monetary policy for EU member states associated with the currency, thereby significantly influencing global economic conditions.

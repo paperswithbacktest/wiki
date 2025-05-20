@@ -1,6 +1,8 @@
 ---
-title: "Comparison of High-Yield and Low-Yield Bond Investments (Algo Trading)"
-description: "Explore high-yield and low-yield bond investments Plus learn how algorithmic trading optimizes bond portfolios by balancing risk and reward effectively"
+category: trading_strategy
+description: Explore high-yield and low-yield bond investments Plus learn how algorithmic
+  trading optimizes bond portfolios by balancing risk and reward effectively
+title: Comparison of High-Yield and Low-Yield Bond Investments (Algo Trading)
 ---
 
 The bond market offers investors a myriad of opportunities, tailored to accommodate varying risk appetites and financial aspirations. A central dichotomy within this market is presented by high-yield and low-yield bonds, each possessing unique characteristics and catering to distinct investor profiles. 

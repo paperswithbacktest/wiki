@@ -1,6 +1,9 @@
 ---
-title: "PEST Analysis: Applications and Uses in Business (Algo Trading)"
-description: "Explore how PEST analysis enhances business strategy and decision-making in algorithmic trading by assessing political economic social and technological factors."
+category: quant_concept
+description: Explore how PEST analysis enhances business strategy and decision-making
+  in algorithmic trading by assessing political economic social and technological
+  factors.
+title: 'PEST Analysis: Applications and Uses in Business (Algo Trading)'
 ---
 
 The landscape of business strategy and analysis is broad and varied, encompassing numerous frameworks designed to help organizations navigate their competitive environments and the external factors that influence them. Among these frameworks, PEST analysis stands out due to its focus on Political, Economic, Social, and Technological factors. By concentrating on these four key areas, PEST analysis provides valuable insights into the macro-environment, enabling businesses to understand external influences that might affect their operations and long-term strategy.

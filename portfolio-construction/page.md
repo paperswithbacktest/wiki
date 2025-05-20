@@ -1,6 +1,13 @@
 ---
-title: "Portfolio construction (Algo Trading)"
-description: Discover how algorithmic trading redefines portfolio construction with a focus on automation and precision. This comprehensive guide investigates into strategic asset selection, effective risk management, and the dynamic portfolio adjustments essential for optimizing returns and mitigating risks. Explore the integration of data-driven decision-making and quantitative analysis in creating diversified portfolios, leveraging advanced tools and methodologies to navigate market fluctuations and enhance trading outcomes.
+category: trading_strategy
+description: Discover how algorithmic trading redefines portfolio construction with
+  a focus on automation and precision. This comprehensive guide investigates into
+  strategic asset selection, effective risk management, and the dynamic portfolio
+  adjustments essential for optimizing returns and mitigating risks. Explore the integration
+  of data-driven decision-making and quantitative analysis in creating diversified
+  portfolios, leveraging advanced tools and methodologies to navigate market fluctuations
+  and enhance trading outcomes.
+title: Portfolio construction (Algo Trading)
 ---
 
 Algorithmic trading has revolutionized financial markets by integrating automation and precision into trading strategies. This technological advancement allows traders to execute orders at speeds and frequencies unimaginable to human traders, thus capitalizing on even minute price discrepancies. At the heart of algorithmic trading is portfolio construction, a sophisticated task that involves selecting a combination of assets and strategies to achieve optimal returns while mitigating risk. This process is particularly intricate in algorithmic trading due to its reliance on data-driven decision-making and quantitative analysis.

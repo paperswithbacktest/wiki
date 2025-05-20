@@ -1,6 +1,8 @@
 ---
-title: "Anchoring and Adjustment in Business and Finance (Algo Trading)"
-description: "Explore the impact of anchoring and adjustment on algorithmic trading and behavioral finance Learn strategies to improve decision-making and trading outcomes"
+category: quant_concept
+description: Explore the impact of anchoring and adjustment on algorithmic trading
+  and behavioral finance Learn strategies to improve decision-making and trading outcomes
+title: Anchoring and Adjustment in Business and Finance (Algo Trading)
 ---
 
 The intersection of behavioral finance and algorithmic trading presents both fascinating challenges and substantial opportunities for financial professionals and businesses. Behavioral finance, a field that studies how cognitive biases and psychological factors affect financial decision-making, identifies anchoring and adjustment as pivotal concepts. Anchoring is a cognitive heuristic where individuals place undue emphasis on the first piece of information they encounter, often using it as a reference point for subsequent decisions. Adjustment refers to the process of revising these initial estimates in light of new information.

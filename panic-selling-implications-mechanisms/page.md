@@ -1,6 +1,9 @@
 ---
-title: "Panic Selling: Implications and Mechanisms (Algo Trading)"
-description: "Explore the implications and mechanisms of panic selling in algo trading. Understand investor psychology and algorithmic influence on market volatility and strategies to manage fear-driven sell-offs."
+category: quant_concept
+description: Explore the implications and mechanisms of panic selling in algo trading.
+  Understand investor psychology and algorithmic influence on market volatility and
+  strategies to manage fear-driven sell-offs.
+title: 'Panic Selling: Implications and Mechanisms (Algo Trading)'
 ---
 
 Panic selling is a significant event in financial markets where investors rapidly sell off their assets, often driven more by fear and emotional reactions than by rational analysis. This behavior typically follows sudden market changes, such as unexpected economic news, political instability, or scandals that disrupt investor confidence. For instance, a sudden drop in a major stock index or geopolitical tensions might trigger anxiety among investors, leading to hasty liquidation of assets to minimize perceived losses.

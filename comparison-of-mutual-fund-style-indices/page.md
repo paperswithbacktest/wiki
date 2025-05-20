@@ -1,6 +1,8 @@
 ---
-title: "Comparison of Mutual Fund Style Indices (Algo Trading)"
-description: "Explore the synergy between mutual fund and index fund strategies with algorithmic trading to maximize returns and manage risk effectively in modern investing."
+category: trading_strategy
+description: Explore the synergy between mutual fund and index fund strategies with
+  algorithmic trading to maximize returns and manage risk effectively in modern investing.
+title: Comparison of Mutual Fund Style Indices (Algo Trading)
 ---
 
 The financial landscape is undergoing a rapid transformation as novel and innovative investment strategies continue to emerge. At the forefront of this evolution is the integration of traditional investment instruments, such as mutual funds and index funds, with cutting-edge approaches like algorithmic trading. This convergence brings together the long-standing stability and diversification offered by mutual and index funds with the precision and speed characteristic of algorithmic trading systems.
@@ -141,4 +143,3 @@ Narang, R. K. (2013). *Inside the Black Box: A Simple Guide to Quantitative and 
 Chan, E. P. (2009). *Quantitative Trading: How to Build Your Own Algorithmic Trading Business*. Ernie Chan’s book functions as a detailed manual for developing [quantitative trading](/wiki/quantitative-trading) strategies. It emphasizes practical implementation, discussing mathematical models and programming, predominantly in Python, for building an efficient trading system.
 
 Investopedia and QuantConnect are recommended online platforms offering extensive educational materials on mutual funds and algorithmic trading. Investopedia provides a broad range of articles and tutorials catering to different investment levels, while QuantConnect offers a hands-on approach with algorithmic trading tutorials, data resources, and a community of algorithm developers.
-

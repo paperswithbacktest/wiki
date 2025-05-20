@@ -1,6 +1,9 @@
 ---
-title: "The Conference Board: Overview and Functionality (Algo Trading)"
-description: "Discover how the Conference Board equips businesses with economic insights amidst the rise of algorithmic trading offering data-driven strategies for market success"
+category: dataset
+description: Discover how the Conference Board equips businesses with economic insights
+  amidst the rise of algorithmic trading offering data-driven strategies for market
+  success
+title: 'The Conference Board: Overview and Functionality (Algo Trading)'
 ---
 
 In today's rapidly evolving economic landscape, business organizations are increasingly relying on various tools and research methodologies to stay ahead. As market dynamics shift and global competition intensifies, data-driven insights have become indispensable for crafting effective strategies. The Conference Board plays a pivotal role by providing essential economic insights, enabling informed decision-making. This non-profit research organization offers a wealth of information through its comprehensive analysis of economic trends, empowering businesses to navigate complex environments more effectively.

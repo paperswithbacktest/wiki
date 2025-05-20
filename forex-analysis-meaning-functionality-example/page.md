@@ -1,6 +1,9 @@
 ---
-title: "Forex Analysis: Meaning, Functionality, and Example (Algo Trading)"
-description: "Explore the essentials of Forex analysis and algorithmic trading. Learn how fundamental and technical factors impact currency movement and enhance trading decisions."
+category: quant_concept
+description: Explore the essentials of Forex analysis and algorithmic trading. Learn
+  how fundamental and technical factors impact currency movement and enhance trading
+  decisions.
+title: 'Forex Analysis: Meaning, Functionality, and Example (Algo Trading)'
 ---
 
 The foreign exchange market, commonly known as Forex, is internationally recognized as the largest and most liquid financial market. It involves a massive volume of currency trading activities occurring daily, with participants looking to capitalize on fluctuating exchange rates. This market operates 24 hours a day, five days a week, allowing trading to occur across various time zones globally.

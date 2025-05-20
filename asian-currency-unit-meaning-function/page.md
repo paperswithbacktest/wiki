@@ -1,6 +1,8 @@
 ---
-title: "Asian Currency Unit: Meaning and Function (Algo Trading)"
-description: "Explore the Asian Currency Unit as a proposed currency basket designed to stabilize exchange rates and its implications for algorithmic trading in Asia."
+category: quant_concept
+description: Explore the Asian Currency Unit as a proposed currency basket designed
+  to stabilize exchange rates and its implications for algorithmic trading in Asia.
+title: 'Asian Currency Unit: Meaning and Function (Algo Trading)'
 ---
 
 In the evolving global financial landscape, the concept of currency baskets, including the Asian Currency Unit (ACU), has garnered significant attention. Currency baskets are collections of selected currencies grouped together to provide a comprehensive measure of value or to stabilize exchange rates within a region. The ACU is a proposed currency basket for Asia, intended to serve as a stabilizing force against the volatility often observed in individual national currencies. By drawing together the economic strengths of various Asian nations, it aims to foster monetary cooperation and reduce dependence on the US dollar, thereby enhancing regional financial stability.

@@ -1,6 +1,9 @@
 ---
-title: "Tradeweb Markets (Algo Trading)"
-description: "Explore how Tradeweb Markets has revolutionized financial trading through innovative algorithmic and electronic platforms enhancing efficiency and market access."
+category: quant_concept
+description: Explore how Tradeweb Markets has revolutionized financial trading through
+  innovative algorithmic and electronic platforms enhancing efficiency and market
+  access.
+title: Tradeweb Markets (Algo Trading)
 ---
 
 In today's interconnected financial world, electronic trading platforms and algorithmic trading have revolutionized the trading landscape by automating transactions and providing unprecedented access to market information. These technological advancements have fundamentally changed how markets operate, influencing everything from trading strategies to market infrastructure.

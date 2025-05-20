@@ -1,6 +1,8 @@
 ---
-title: "National Commodity and Derivatives Exchange (Algo Trading)"
-description: "Explore the impact of algorithmic trading in NCDEX derivatives for enhanced risk management and swift execution within India's leading commodity exchange."
+category: quant_concept
+description: Explore the impact of algorithmic trading in NCDEX derivatives for enhanced
+  risk management and swift execution within India's leading commodity exchange.
+title: National Commodity and Derivatives Exchange (Algo Trading)
 ---
 
 Derivatives trading has experienced a significant surge in popularity over recent years, establishing the National Commodity and Derivatives Exchange (NCDEX) as a critical nexus for traders engaging in the commodity markets. This burgeoning interest stems from the potential of derivatives to offer strategies for risk management, price discovery, and speculation based on underlying commodity assets. NCDEX, renowned for its regulated and transparent trading environment, specializes in agricultural commodities, providing a structured platform for futures and options trading.

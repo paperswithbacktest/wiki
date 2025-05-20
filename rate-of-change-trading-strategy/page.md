@@ -1,6 +1,14 @@
 ---
-title: "Rate of Change (ROC) Trading Strategy Explained (Algo Trading)"
-description: Explore the Rate of Change (ROC) trading strategy and discover its impact on algorithmic trading. This comprehensive guide explains the ROC momentum indicator, crucial for identifying market trends and reversals by comparing current and past prices. Learn how to calculate ROC, its advantages in trading, and its integration into effective trading strategies. This article also addresses the limitations of ROC and offers insight into its role in managing risk and enhancing decision-making in financial markets. Perfect for traders aiming to deepen their understanding and improve performance.
+category: trading_strategy
+description: Explore the Rate of Change (ROC) trading strategy and discover its impact
+  on algorithmic trading. This comprehensive guide explains the ROC momentum indicator,
+  crucial for identifying market trends and reversals by comparing current and past
+  prices. Learn how to calculate ROC, its advantages in trading, and its integration
+  into effective trading strategies. This article also addresses the limitations of
+  ROC and offers insight into its role in managing risk and enhancing decision-making
+  in financial markets. Perfect for traders aiming to deepen their understanding and
+  improve performance.
+title: Rate of Change (ROC) Trading Strategy Explained (Algo Trading)
 ---
 
 The world of algorithmic trading involves numerous indicators designed to assist traders in making informed decisions. Among these, the Rate of Change (ROC) is a significant momentum indicator. It functions by comparing the current price of a security with its price from a previous period, denoted as 'n'. This comparison aids traders in assessing market momentum, which is crucial for identifying trends and potential reversals.

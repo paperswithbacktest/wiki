@@ -1,6 +1,8 @@
 ---
-title: "Forward Rate Agreement: Overview and Calculation (Algo Trading)"
-description: "Explore Forward Rate Agreements FRAs and their role in managing interest rate risks using algorithmic trading Discover how FRAs stabilize cash flows."
+category: quant_concept
+description: Explore Forward Rate Agreements FRAs and their role in managing interest
+  rate risks using algorithmic trading Discover how FRAs stabilize cash flows.
+title: 'Forward Rate Agreement: Overview and Calculation (Algo Trading)'
 ---
 
 Financial derivatives are financial instruments whose value is derived from the value of an underlying asset, index, or interest rate. They play a pivotal role in the global financial market by enabling participants to hedge risks, speculate on future price movements, and gain access to otherwise inaccessible assets or markets. Derivatives such as futures, options, swaps, and Forward Rate Agreements (FRAs) are fundamental tools in the financial landscape, utilized by corporations, institutions, and individual investors to manage exposure to various financial risks.

@@ -1,6 +1,9 @@
 ---
-title: "Restricted Market: Explanation and Mechanisms (Algo Trading)"
-description: "Explore how restricted markets interact with algorithmic trading and economic regulations shaping modern financial landscapes. Understand the crucial oversight role in market integrity."
+category: quant_concept
+description: Explore how restricted markets interact with algorithmic trading and
+  economic regulations shaping modern financial landscapes. Understand the crucial
+  oversight role in market integrity.
+title: 'Restricted Market: Explanation and Mechanisms (Algo Trading)'
 ---
 
 The dynamic interplay of economic regulation, market mechanisms, and restricted markets has significantly shaped the financial landscape, influencing how modern markets operate today. In particular, algorithmic trading, commonly referred to as algo trading, represents a significant component of these markets. This sophisticated form of trading utilizes pre-programmed algorithms to execute trades at exceptionally high speeds and frequencies, thus transforming conventional trading practices.

@@ -1,6 +1,8 @@
 ---
-title: "Anti-Fragility (Algo Trading)"
-description: "Discover how antifragility and resilience in algo trading create robust strategies that thrive amid market volatility while effectively managing risks."
+category: quant_concept
+description: Discover how antifragility and resilience in algo trading create robust
+  strategies that thrive amid market volatility while effectively managing risks.
+title: Anti-Fragility (Algo Trading)
 ---
 
 The financial markets inherently exhibit volatility and uncertainty, characteristics that demand robust risk management to ensure successful trading strategies. Algorithmic trading, commonly referred to as algo trading, leverages automated, pre-defined rules to execute trades, providing speed and precision unattainable by human traders. However, this automation also poses specific challenges and risks that necessitate a comprehensive understanding of risk management beyond mere damage control. In the context of algo trading, effective risk management encompasses building resilience and creating systems capable of thriving amidst unpredictability.

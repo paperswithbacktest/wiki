@@ -1,6 +1,12 @@
 ---
-title: "Moomoo Trading Platform Analysis 2024 (Algo Trading)"
-description: "Discover Moomoo, a competitive online trading platform excelling in user-friendly design and commission-free trading. Analyze its 2024 features, focusing on algorithmic trading potential and strategic investments. Suitable for both seasoned and novice traders, Moomoo offers an intuitive interface, global market access, and cost savings, making it a compelling choice for diverse investor needs. Explore its pros and cons to assess alignment with your trading goals."
+category: trading_strategy
+description: Discover Moomoo, a competitive online trading platform excelling in user-friendly
+  design and commission-free trading. Analyze its 2024 features, focusing on algorithmic
+  trading potential and strategic investments. Suitable for both seasoned and novice
+  traders, Moomoo offers an intuitive interface, global market access, and cost savings,
+  making it a compelling choice for diverse investor needs. Explore its pros and cons
+  to assess alignment with your trading goals.
+title: Moomoo Trading Platform Analysis 2024 (Algo Trading)
 ---
 
 Moomoo has positioned itself as a robust contender in the online trading platforms market, offering a combination of sophisticated analytical tools alongside commission-free trading, which has appealed to a new generation of investors. Established by Futu Holdings Ltd in 2018, Moomoo's mission is to deliver professional-grade trading experiences to individual investors, thereby democratizing access to high-quality financial markets. 

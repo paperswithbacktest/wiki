@@ -1,6 +1,8 @@
 ---
-title: "Impact of Terrorism on Airlines (Algo Trading)"
-description: "Explore how terrorism impacts the airline industry, affecting security and financial stability. Learn about algorithmic trading's response to such events."
+category: trading_strategy
+description: Explore how terrorism impacts the airline industry, affecting security
+  and financial stability. Learn about algorithmic trading's response to such events.
+title: Impact of Terrorism on Airlines (Algo Trading)
 ---
 
 In an increasingly connected world, the airline industry faces multifaceted challenges that affect both operational and financial aspects. One of the most significant challenges is the aftermath of terrorism. Terrorism poses a dual threat to the aviation sector: compromising aviation security and destabilizing the financial integrity of airlines. Terrorist incidents lead to immediate safety concerns, necessitating heightened security measures and leading to increased operational costs for the industry. These events also have an enduring financial impact, causing shifts in passenger confidence, route adjustments, and immediate negative reactions in airline stock valuations.

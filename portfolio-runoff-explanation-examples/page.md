@@ -1,6 +1,8 @@
 ---
-title: "Portfolio Runoff: Explanation and Examples (Algo Trading)"
-description: "Explore the intricacies of portfolio runoff and algorithmic trading in investment strategies Learn how they impact asset management and optimize returns"
+category: quant_concept
+description: Explore the intricacies of portfolio runoff and algorithmic trading in
+  investment strategies Learn how they impact asset management and optimize returns
+title: 'Portfolio Runoff: Explanation and Examples (Algo Trading)'
 ---
 
 In the evolving landscape of investment strategies, the intersection of finance and technology plays an increasingly pivotal role. This article explores two significant components: portfolio runoff and algorithmic trading. Portfolio runoff refers to the reduction of an investment portfolio's asset base due to maturities, redemptions, and prepayments, which can significantly impact the management of fixed-income securities and broader financial strategies. It is a crucial aspect for investors and financial institutions alike, as it influences liquidity management and future investment decisions.

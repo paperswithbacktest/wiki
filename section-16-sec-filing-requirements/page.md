@@ -1,6 +1,8 @@
 ---
-title: "Section 16 and SEC Filing Requirements (Algo Trading)"
-description: "Explore the critical intersection of Section 16 compliance and algorithmic trading learn how timely SEC filings enhance transparency and uphold market integrity."
+category: quant_concept
+description: Explore the critical intersection of Section 16 compliance and algorithmic
+  trading learn how timely SEC filings enhance transparency and uphold market integrity.
+title: Section 16 and SEC Filing Requirements (Algo Trading)
 ---
 
 Section 16 of the Securities Exchange Act of 1934 establishes the foundation for transparency and accountability among certain individuals in publicly traded companies. It is designed to prevent unfair use of information by mandating that directors, officers, and beneficial owners of more than 10% of a company's stock disclose their ownership and changes in ownership. This disclosure is crucial in maintaining market integrity and investor confidence. Compliance with Section 16 is not merely a legal obligation but a critical component in safeguarding the trust of the investing public.

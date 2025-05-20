@@ -1,6 +1,8 @@
 ---
-title: "Defense ETFs Amid North Korean Tensions (Algo Trading)"
-description: "Explore the potential of Defense ETFs as investor interest grows amid North Korean tensions and increased defense spending Learn about key ETFs and strategies"
+category: trading_strategy
+description: Explore the potential of Defense ETFs as investor interest grows amid
+  North Korean tensions and increased defense spending Learn about key ETFs and strategies
+title: Defense ETFs Amid North Korean Tensions (Algo Trading)
 ---
 
 The recent geopolitical climate has seen increased tensions, largely due to North Korea's active participation in supporting Russia's ongoing military efforts. This emerging alliance has significantly heightened global uncertainty and has directed investor attention towards defense-related assets. As nations brace for potential escalations, defense spending is witnessing substantial growth, prompting investors to seek financial instruments that can effectively hedge against these geopolitical risks.

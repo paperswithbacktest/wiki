@@ -1,6 +1,9 @@
 ---
-title: "Trade Working Capital (Algo Trading)"
-description: "Explore the vital role of trade working capital in business success and learn how its management aids financial decisions and enhances algorithmic trading strategies."
+category: quant_concept
+description: Explore the vital role of trade working capital in business success and
+  learn how its management aids financial decisions and enhances algorithmic trading
+  strategies.
+title: Trade Working Capital (Algo Trading)
 ---
 
 In the fast-paced world of finance, effective management and calculation of working capital are vital for the success and sustainability of any business. Working capital, fundamentally, is the difference between a company's current assets and current liabilities, representing the liquidity available for day-to-day operations. However, trade working capital narrows this focus, pinpointing the operating liquidity directly connected to routine business activities. By honing in on trade working capital, businesses can gain a more precise understanding of their immediate financial health, isolating elements that directly influence operational efficiency and short-term obligations.

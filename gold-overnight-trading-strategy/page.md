@@ -1,6 +1,13 @@
 ---
-title: "Gold Overnight Trading Strategy Explained (Algo Trading)"
-description: Explore an in-depth guide on gold overnight trading strategies within algorithmic trading frameworks. Discover how to leverage gold's unique market dynamics to enhance returns and manage risks. Examine the role of economic trends geopolitical tensions and central bank policies in influencing gold prices while learning practical approaches for executing trades with precision. This article provides insights into building a successful trading plan tailored to gold's distinct characteristics and market influences.
+category: trading_strategy
+description: Explore an in-depth guide on gold overnight trading strategies within
+  algorithmic trading frameworks. Discover how to leverage gold's unique market dynamics
+  to enhance returns and manage risks. Examine the role of economic trends geopolitical
+  tensions and central bank policies in influencing gold prices while learning practical
+  approaches for executing trades with precision. This article provides insights into
+  building a successful trading plan tailored to gold's distinct characteristics and
+  market influences.
+title: Gold Overnight Trading Strategy Explained (Algo Trading)
 ---
 
 The gold market is a fascinating and complex domain for traders, having captivated investors for centuries with its enduring appeal as a symbol of value and wealth. This precious metal, often considered a safe-haven asset, possesses unique characteristics that distinguish it from other commodities, thereby presenting distinct opportunities for investment and trading. Its intrinsic value, coupled with its historical significance in monetary systems, has fortified its standing in global financial markets.

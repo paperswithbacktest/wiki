@@ -1,7 +1,8 @@
 ---
-title: Understanding Empirical Risk Minimization In Machine Learning
+category: quant_concept
 description: Empirical Risk Minimization shows how to reduce average loss in machine
   learning models for improved generalization and performance. Discover more inside
+title: Understanding Empirical Risk Minimization In Machine Learning
 ---
 
 ![Image](images/1.gif)

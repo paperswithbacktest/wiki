@@ -1,6 +1,8 @@
 ---
-title: "Gifting Stocks During Holidays (Algo Trading)"
-description: "Gifting stocks during the holidays offers a unique, lasting present that fosters financial literacy and encourages long-term growth and wealth building."
+category: trading_strategy
+description: Gifting stocks during the holidays offers a unique, lasting present that
+  fosters financial literacy and encourages long-term growth and wealth building.
+title: Gifting Stocks During Holidays (Algo Trading)
 ---
 
 The holiday season is a time for giving, and what better way to inspire a future of financial success than by gifting stocks? Unlike conventional presents that may lose their appeal or value over time, stocks stand out as a unique and enduring gift. They represent a piece of ownership in a company and hold the potential for appreciation, offering recipients not just a present, but an opportunity to grow wealth.

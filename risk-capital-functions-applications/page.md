@@ -1,6 +1,8 @@
 ---
-title: "Risk Capital: Functions and Applications (Algo Trading)"
-description: "Explore advanced strategies in risk capital investment and algo trading to optimize returns while managing financial risks in today's dynamic market environment."
+category: trading_strategy
+description: Explore advanced strategies in risk capital investment and algo trading
+  to optimize returns while managing financial risks in today's dynamic market environment.
+title: 'Risk Capital: Functions and Applications (Algo Trading)'
 ---
 
 The landscape of financial markets is evolving rapidly, driven by advancements in technology, globalization, and innovative financial instruments. This evolution demands more sophisticated strategies to outperform benchmarks and manage risks effectively. Three key components stand out in this dynamic context: risk capital investment, financial management, and algorithmic (algo) trading. 

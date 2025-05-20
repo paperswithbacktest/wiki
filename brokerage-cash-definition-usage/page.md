@@ -1,6 +1,9 @@
 ---
-title: "Brokerage Cash: Definition and Usage (Algo Trading)"
-description: "Explore brokerage cash investment accounts and algorithmic trading in financial management to maximize investments diversify portfolios and manage risk efficiently."
+category: quant_concept
+description: Explore brokerage cash investment accounts and algorithmic trading in
+  financial management to maximize investments diversify portfolios and manage risk
+  efficiently.
+title: 'Brokerage Cash: Definition and Usage (Algo Trading)'
 ---
 
 Financial management involves the strategic planning and oversight of financial resources to meet specified organizational or personal goals. It encompasses a broad spectrum of practices, including the allocation of assets, budgeting, forecasting, and the strategic analysis necessary to make sound financial decisions. Within this sphere, brokerage cash investment accounts serve as crucial vehicles, enabling individuals and organizations to invest in a variety of financial instruments such as stocks, bonds, and mutual funds. These accounts play a vital role in financial management by facilitating the diversification of investments, which is key to managing risk and maximizing returns.

@@ -1,6 +1,8 @@
 ---
-title: "Securities and Exchange Board of India (Algo Trading)"
-description: "Explore the role of the Securities and Exchange Board of India in regulating algo trading bringing transparency and efficiency to India's financial markets."
+category: quant_concept
+description: Explore the role of the Securities and Exchange Board of India in regulating
+  algo trading bringing transparency and efficiency to India's financial markets.
+title: Securities and Exchange Board of India (Algo Trading)
 ---
 
 The Securities and Exchange Board of India (SEBI) plays a crucial role in the regulation of financial markets in India. Established as a statutory body, SEBI's primary objectives are to protect the interests of investors, ensure fair practices, and promote the development of the securities markets. With the rapid advancement of technology in the financial sector, SEBI's regulatory framework has been required to evolve, particularly to address the complexities introduced by algorithmic trading. 

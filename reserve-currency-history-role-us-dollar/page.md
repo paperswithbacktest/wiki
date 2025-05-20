@@ -1,6 +1,8 @@
 ---
-title: "Reserve Currency: History and Role of the U.S. Dollar (Algo Trading)"
-description: "Discover the history of the U.S. Dollar's rise as the world's reserve currency and the impact of algorithmic trading on modern financial markets."
+category: quant_concept
+description: Discover the history of the U.S. Dollar's rise as the world's reserve
+  currency and the impact of algorithmic trading on modern financial markets.
+title: 'Reserve Currency: History and Role of the U.S. Dollar (Algo Trading)'
 ---
 
 The U.S. Dollar has established itself as a cornerstone in global economics, often regarded as the world's primary reserve currency. This article seeks to explore the complex history that led to the dollar's prominence, its enduring status as a reserve currency, and the transformative impact of algorithmic trading in current financial markets. The evolution of the U.S. Dollar from a national currency to a global financial linchpin is rooted in pivotal historical events and economic developments. Notable milestones such as the Coinage Act of 1792 and the Bretton Woods Agreement of 1944 have been instrumental in cementing its international standing. These historical shifts highlight the dollar's role in fostering global trade and financial stability.
@@ -96,4 +98,3 @@ Bordo, M. D., & Eichengreen, B. "The Rise and Fall of a Barbarous Relic: The Rol
 Bank for International Settlements. "Triennial Central Bank Survey: Foreign Exchange Turnover in April 2019." This survey delivers key [statistics](/wiki/bayesian-statistics) on the forex market, including currency trading volumes, which highlight the dominance of the U.S. Dollar and the impact of algorithmic trading strategies on market liquidity.
 
 Murphy, C. "Algorithmic Trading in the Foreign Exchange Market." Journal of International Financial Markets, Institutions, and Money. Murphy's work examines the methodologies and implications of algorithmic trading in forex markets, with a focus on efficiency, risks, and the regulatory landscape that governs these activities.
-

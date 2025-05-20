@@ -1,6 +1,9 @@
 ---
-title: "Benchmark Options for Small-Cap Stock Portfolios (Algo Trading)"
-description: "Explore the potential of combining small-cap investments with algorithmic trading for optimized returns and risk management Discover strategies and tools for success"
+category: trading_strategy
+description: Explore the potential of combining small-cap investments with algorithmic
+  trading for optimized returns and risk management Discover strategies and tools
+  for success
+title: Benchmark Options for Small-Cap Stock Portfolios (Algo Trading)
 ---
 
 In the ever-evolving world of investing, small-cap stocks have consistently caught the eye of investors due to their growth potential. Typically comprising companies with market capitalizations between $300 million and $2 billion, small-cap stocks often represent businesses at a more nascent stage in their growth trajectory. Their relative obscurity compared to large-cap entities can result in higher growth rates, especially during periods of economic recovery. Consequently, they attract investors looking to capitalize on untapped opportunities.

@@ -1,6 +1,9 @@
 ---
-title: "Comparison of Dollar-Cost Averaging and Value Averaging (Algo Trading)"
-description: "Explore dollar-cost averaging and value averaging as systematic investment strategies in algorithmic trading Discover their benefits for optimizing investment goals"
+category: trading_strategy
+description: Explore dollar-cost averaging and value averaging as systematic investment
+  strategies in algorithmic trading Discover their benefits for optimizing investment
+  goals
+title: Comparison of Dollar-Cost Averaging and Value Averaging (Algo Trading)
 ---
 
 Investment strategies are fundamental tools for achieving financial goals, offering structured methodologies for asset allocation, risk management, and wealth accumulation. Understanding and selecting the right strategy is crucial, as it enables investors to align their activities with their financial objectives and risk tolerances, thereby optimizing their investment performance.

@@ -1,6 +1,8 @@
 ---
-title: "Time Value in Financial Markets (Algo Trading)"
-description: "Explore the interplay of extrinsic and time value in financial derivatives and how algo trading impacts markets enhancing risk assessment and investment strategies."
+category: quant_concept
+description: Explore the interplay of extrinsic and time value in financial derivatives
+  and how algo trading impacts markets enhancing risk assessment and investment strategies.
+title: Time Value in Financial Markets (Algo Trading)
 ---
 
 Financial markets are platforms where financial instruments such as stocks, bonds, and derivatives are exchanged. They play a vital role in the global economy by facilitating the allocation of capital, promoting liquidity, and enabling price discovery. Financial markets support economic growth by ensuring that money is channeled into productive investments, thereby driving innovation and efficiency.

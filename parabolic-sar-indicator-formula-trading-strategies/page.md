@@ -1,6 +1,8 @@
 ---
-title: "Parabolic SAR Indicator: Formula and Trading Strategies (Algo Trading)"
-description: "Explore the Parabolic SAR indicator for trading strategies and algorithmic applications. Learn its formula, uses, and how it aids in identifying trend reversals."
+category: trading_strategy
+description: Explore the Parabolic SAR indicator for trading strategies and algorithmic
+  applications. Learn its formula, uses, and how it aids in identifying trend reversals.
+title: 'Parabolic SAR Indicator: Formula and Trading Strategies (Algo Trading)'
 ---
 
 Technical analysis is a vital component of modern trading, offering a range of tools and techniques to analyze historical price patterns and market trends. These tools assist traders in forecasting future price movements and making informed trading decisions. Among the various indicators employed in technical analysis, the Parabolic SAR (Stop and Reverse) stands out as a popular choice for identifying potential reversals in market trends.

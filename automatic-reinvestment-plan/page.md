@@ -1,6 +1,8 @@
 ---
-title: "Automatic Reinvestment Plan (Algo Trading)"
-description: "Unlock financial growth with an Automatic Reinvestment Plan linking investment plans and algorithmic trading to compound returns and mitigate risks."
+category: trading_strategy
+description: Unlock financial growth with an Automatic Reinvestment Plan linking investment
+  plans and algorithmic trading to compound returns and mitigate risks.
+title: Automatic Reinvestment Plan (Algo Trading)
 ---
 
 The financial world is abundant with strategies designed to optimize returns and effectively manage risks. Prominent among these are investment plans, reinvestment strategies, and algorithmic trading. These tools provide substantial financial benefits when used correctly and in cohesion.

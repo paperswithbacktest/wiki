@@ -1,6 +1,9 @@
 ---
-title: "Market Risk and Equity Risk Premium (Algo Trading)"
-description: "Explore the essential concepts of market risk and equity risk premium in algorithmic trading. Understand how these elements shape investment strategies and optimize returns."
+category: quant_concept
+description: Explore the essential concepts of market risk and equity risk premium
+  in algorithmic trading. Understand how these elements shape investment strategies
+  and optimize returns.
+title: Market Risk and Equity Risk Premium (Algo Trading)
 ---
 
 The world of finance is an intricate network of concepts and practices, where the understanding of market risk, financial risk, equity risk premium, and algorithmic trading is essential for navigating its complexities. These components are not only interconnected but also crucial for investors aiming to optimize their returns while managing potential risks effectively.

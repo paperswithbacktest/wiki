@@ -1,6 +1,8 @@
 ---
-title: "Pain Trade in Financial Markets (Algo Trading)"
-description: "Explore the crucial role of pain trade in financial markets and how algorithmic trading can help mitigate risks and capitalize on unexpected market shifts."
+category: quant_concept
+description: Explore the crucial role of pain trade in financial markets and how algorithmic
+  trading can help mitigate risks and capitalize on unexpected market shifts.
+title: Pain Trade in Financial Markets (Algo Trading)
 ---
 
 Pain trade is a concept that holds considerable significance in financial markets, reflecting the complex interactions between market dynamics and investor behavior. At its core, the pain trade occurs when the market moves in a direction that causes the greatest amount of financial discomfort to the largest number of participants, typically defying popular expectations. This concept often materializes in settings where the majority of market participants are positioned similarly, leading to collective losses when the market shifts unexpectedly.

@@ -1,6 +1,13 @@
 ---
-title: "Earnings Announcement Requirements for Companies (Algo Trading)"
-description: "Explore how algorithmic trading leverages earnings reports to enhance trading strategies and capitalize on financial insights such as revenue and EPS. Discover techniques like machine learning and natural language processing that aid in making informed decisions during volatile market periods resulting from earnings announcements. This guide investigates into the methodologies and technologies used by algorithms to optimize trading outcomes based on patterns and sentiment analysis within earnings data."
+category: dataset
+description: Explore how algorithmic trading leverages earnings reports to enhance
+  trading strategies and capitalize on financial insights such as revenue and EPS.
+  Discover techniques like machine learning and natural language processing that aid
+  in making informed decisions during volatile market periods resulting from earnings
+  announcements. This guide investigates into the methodologies and technologies used
+  by algorithms to optimize trading outcomes based on patterns and sentiment analysis
+  within earnings data.
+title: Earnings Announcement Requirements for Companies (Algo Trading)
 ---
 
 Earnings announcements are pivotal events in the financial calendar, providing crucial insights into a company's financial health and future prospects. They are essential for traders, investors, and financial analysts because they contain valuable information such as revenue figures, net income, and earnings per share (EPS), which can significantly influence market dynamics and stock prices.
@@ -233,4 +240,3 @@ Zhang, X., et al. (2020). "Algorithmic Trading with Reinforcement Learning: A Re
 Fama, E. F., & French, K. R. (1993). "Common Risk Factors in the Returns on Stocks and Bonds." This seminal work introduces a three-factor model to explain stock returns, considering market risk, company size, and book-to-market value as primary factors. For those interested in earnings report trading, this framework underscores the importance of understanding systemic risk factors that might influence stock movements during earnings seasons. By integrating these factors into algorithmic models, traders can better anticipate potential risks and returns associated with earnings announcements.
 
 Li, X., et al. (2021). "Applied Machine Learning for Algorithmic Trading." The authors explore machine learning applications tailored to algorithmic trading, detailing specific techniques such as supervised learning, unsupervised learning, and reinforcement learning. The paper emphasizes the importance of training algorithms on historical market data, including past earnings reports, to predict future market responses effectively. Practical examples demonstrate how machine learning algorithms can be customized to optimize trading strategies, making them more robust against the market volatility typical during earnings seasons.
-

@@ -1,6 +1,9 @@
 ---
-title: "Vienna Stock Exchange: History and Overview (Algo Trading)"
-description: "Explore the historical and modern evolution of the Vienna Stock Exchange from its founding in 1771 to its embrace of algorithmic trading and technological innovation."
+category: quant_concept
+description: Explore the historical and modern evolution of the Vienna Stock Exchange
+  from its founding in 1771 to its embrace of algorithmic trading and technological
+  innovation.
+title: 'Vienna Stock Exchange: History and Overview (Algo Trading)'
 ---
 
 The Vienna Stock Exchange, known as Wiener Börse AG (WBAG), is one of Europe's oldest financial trading platforms and a cornerstone of Austria's capital market. Established in 1771 under the auspices of Empress Maria Theresa, the exchange commenced as a marketplace for bonds and foreign currencies, rapidly becoming integral to Austria's economic framework. Its historical journey epitomizes the evolution of financial markets over the centuries, adapting to various economic, technological, and regulatory changes.

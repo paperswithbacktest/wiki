@@ -1,6 +1,11 @@
 ---
-title: "Schiller, Robert (Algo Trading)"
-description: Robert Shiller's CAPE ratio is a pivotal financial metric offering long-term market valuation perspectives while algorithmic trading harnesses AI to transform trade execution strategies providing speed and precision. This article explores their synergy and how AI enhances CAPE's application for refined market analysis and investment strategy in dynamic financial landscapes.
+category: quant_concept
+description: Robert Shiller's CAPE ratio is a pivotal financial metric offering long-term
+  market valuation perspectives while algorithmic trading harnesses AI to transform
+  trade execution strategies providing speed and precision. This article explores
+  their synergy and how AI enhances CAPE's application for refined market analysis
+  and investment strategy in dynamic financial landscapes.
+title: Schiller, Robert (Algo Trading)
 ---
 
 Robert Shiller has made significant contributions to the field of finance, with the Cyclically Adjusted Price-to-Earnings (CAPE) ratio standing out as a pivotal tool for market valuation. Developed to account for cyclical variations in earnings, the CAPE ratio offers a broader perspective by averaging earnings over ten years and adjusting for inflation. This method provides a more stable and comprehensive valuation measure compared to traditional P/E ratios, helping investors assess whether equity markets are overvalued or undervalued based on historical norms.

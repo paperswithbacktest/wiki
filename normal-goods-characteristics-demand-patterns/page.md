@@ -1,6 +1,8 @@
 ---
-title: "Normal Goods: Characteristics and Demand Patterns (Algo Trading)"
-description: "Explore the interplay of normal goods with demand theory and algorithmic trading to enhance strategy development in today's dynamic financial markets."
+category: quant_concept
+description: Explore the interplay of normal goods with demand theory and algorithmic
+  trading to enhance strategy development in today's dynamic financial markets.
+title: 'Normal Goods: Characteristics and Demand Patterns (Algo Trading)'
 ---
 
 In the rapidly evolving financial landscape, understanding demand theory in economics and its implications is crucial for crafting effective trading strategies. Demand theory, a fundamental concept in economics, examines how the quantity of a good demanded by consumers changes in response to changes in price, income, and other factors. Central to this theory is the law of demand, which posits an inverse relationship between the price of a good and the quantity demanded, implying that, all else being equal, demand decreases as prices rise and increases as prices fall. This principle is foundational for analyzing consumer behavior and informing market strategies.
@@ -230,4 +232,3 @@ For those interested in deepening their understanding of demand theory, normal g
    - Platforms such as Coursera and edX offer courses on demand theory, economics, and algorithmic trading. Courses like "Financial Markets" by Yale University and "Machine Learning for Trading" by Georgia Institute of Technology provide foundational knowledge and practical skills.
 
 By engaging with these resources, individuals can gain a richer comprehension of the interplay between economic theories and modern trading practices, equipping themselves to better navigate and innovate in the financial sector.
-

@@ -1,6 +1,8 @@
 ---
-title: "Practical Indication Explanation (Algo Trading)"
-description: "Explore the world of algorithmic trading where predefined rules power trade automation Process data swiftly to optimize decisions and minimize risks efficiently"
+category: trading_strategy
+description: Explore the world of algorithmic trading where predefined rules power
+  trade automation Process data swiftly to optimize decisions and minimize risks efficiently
+title: Practical Indication Explanation (Algo Trading)
 ---
 
 Algorithmic trading, also known as algo trading, has become a significant facet of modern financial markets. This trading method involves the use of predefined sets of rules, known as algorithms, to automate the execution of trades. By employing these algorithms, traders can process vast amounts of data rapidly and make trading decisions with greater speed and accuracy than manual systems.

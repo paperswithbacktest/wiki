@@ -1,6 +1,9 @@
 ---
-title: "Japan Stewardship Code Function (Algo Trading)"
-description: "Discover how Japan's Stewardship Code promotes responsible investment and shapes corporate governance amidst the rise of algorithmic trading for market evolution."
+category: quant_concept
+description: Discover how Japan's Stewardship Code promotes responsible investment
+  and shapes corporate governance amidst the rise of algorithmic trading for market
+  evolution.
+title: Japan Stewardship Code Function (Algo Trading)
 ---
 
 Japan's economy, renowned for its innovation and resilience, has experienced substantial reforms in corporate governance and investment policies over recent years. As part of these reforms, the Japan Stewardship Code has emerged as a pivotal initiative directing the enhancement of corporate governance standards. Introduced to foster a culture of responsible investment, the code sets out principles that aim to build effective engagement between institutional investors and the companies in which they invest. This initiative is crucial in promoting long-term sustainable growth and improving corporate value.

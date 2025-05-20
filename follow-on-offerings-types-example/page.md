@@ -1,6 +1,8 @@
 ---
-title: "Follow-On Offerings: Types and Example (Algo Trading)"
-description: "Discover the essentials of follow-on offerings (FPO) in finance including types, benefits, and the role of algorithmic trading in modern stock issuance."
+category: quant_concept
+description: Discover the essentials of follow-on offerings (FPO) in finance including
+  types, benefits, and the role of algorithmic trading in modern stock issuance.
+title: 'Follow-On Offerings: Types and Example (Algo Trading)'
 ---
 
 In the financial world, companies often seek ways to raise capital beyond their initial public offering (IPO). These efforts can be crucial for funding further growth, addressing debt obligations, or making strategic acquisitions. One common method that has emerged as a significant tool for such capital raising is the follow-on offering (FPO). This involves the issuance of additional shares to the public after the initial IPO process has been completed.

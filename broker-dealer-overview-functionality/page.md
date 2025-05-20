@@ -1,6 +1,13 @@
 ---
-title: "Broker-Dealer Overview and Functionality (Algo Trading)"
-description: "Discover how broker-dealer services are evolving with algorithmic trading, enhancing operational efficiency and client offerings. This article explores the integration of algo trading in broker-dealer operations, highlighting benefits like optimized trade execution, reduced transaction costs, and increased market participation. Learn how this synergetic relationship is reshaping financial services by combining cutting-edge technology with expert human insight, fostering a more agile and competitive market landscape for both clients and the industry."
+category: quant_concept
+description: Discover how broker-dealer services are evolving with algorithmic trading,
+  enhancing operational efficiency and client offerings. This article explores the
+  integration of algo trading in broker-dealer operations, highlighting benefits like
+  optimized trade execution, reduced transaction costs, and increased market participation.
+  Learn how this synergetic relationship is reshaping financial services by combining
+  cutting-edge technology with expert human insight, fostering a more agile and competitive
+  market landscape for both clients and the industry.
+title: Broker-Dealer Overview and Functionality (Algo Trading)
 ---
 
 The financial services industry has undergone considerable transformation due to technological advancements and innovation. Central to this evolution are investment broker-dealers, which play a pivotal role in undertaking transactions and delivering financial services to their clientele. Typically, broker-dealers act as intermediaries in the market, executing buy and sell orders for securities, thereby ensuring liquidity and efficiency in financial markets. In recent years, algorithmic trading, or algo trading, has surfaced as an integral component of modern trading strategies employed by broker-dealers.

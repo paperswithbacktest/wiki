@@ -1,6 +1,9 @@
 ---
-title: "Working Capital Turnover Ratio (Algo Trading)"
-description: "Explore the intersection of financial ratios and algo trading with a focus on the Working Capital Turnover Ratio. Enhance trading strategies and optimize investments."
+category: quant_concept
+description: Explore the intersection of financial ratios and algo trading with a
+  focus on the Working Capital Turnover Ratio. Enhance trading strategies and optimize
+  investments.
+title: Working Capital Turnover Ratio (Algo Trading)
 ---
 
 The financial world is constantly undergoing transformation as businesses and investors relentlessly pursue sustainability and growth within competitive markets. A vital component of this endeavor is financial analysis, which provides critical insights into a company's performance and strategic direction. Central to financial analysis is the understanding and application of various financial ratios, with the Working Capital Turnover Ratio being notably significant. This ratio serves as an indicator of how efficiently a company utilizes its working capital to generate sales, supporting operational efficiency evaluations and investment decision-making.

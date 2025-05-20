@@ -1,6 +1,8 @@
 ---
-title: "Accommodative Monetary Policy and Examples (Algo Trading)"
-description: "Explore how accommodative monetary policy, with low interest rates, impacts algorithmic trading, shaping market dynamics and economic opportunities."
+category: quant_concept
+description: Explore how accommodative monetary policy, with low interest rates, impacts
+  algorithmic trading, shaping market dynamics and economic opportunities.
+title: Accommodative Monetary Policy and Examples (Algo Trading)
 ---
 
 Understanding the interplay between economic policies and trading strategies is essential for grasping the modern financial landscape. Economies today are inextricably linked to both the decisions of central banks and the actions of market participants employing advanced technological tools. Accommodative monetary policy, characterized by lower interest rates and increased money supply, is a principal tool used by central banks to stimulate economic growth, particularly during periods of economic downturn. This policy aims to reduce the cost of borrowing, thereby encouraging spending and investment—key drivers of economic activity.

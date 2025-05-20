@@ -1,6 +1,8 @@
 ---
-title: "Differences Between ETF Options and Index Options (Algo Trading)"
-description: "Discover the key differences between ETF and index options in algorithmic trading Explore how these instruments help hedge risks and seize market opportunities"
+category: quant_concept
+description: Discover the key differences between ETF and index options in algorithmic
+  trading Explore how these instruments help hedge risks and seize market opportunities
+title: Differences Between ETF Options and Index Options (Algo Trading)
 ---
 
 In the rapidly evolving world of finance, understanding various trading instruments is crucial for portfolio diversification. An informed investor recognizes the importance of utilizing a range of financial products to manage risk effectively and capitalize on market opportunities. Among the array of available instruments, index options and ETF options have emerged as popular choices for both hedging against risk and speculating on future market movements.

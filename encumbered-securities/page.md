@@ -1,6 +1,9 @@
 ---
-title: "Encumbered Securities (Algo Trading)"
-description: "Explore the dynamic world of encumbered securities and algorithmic trading, revealing their impact on risk management, liquidity, and investment strategies in finance."
+category: quant_concept
+description: Explore the dynamic world of encumbered securities and algorithmic trading,
+  revealing their impact on risk management, liquidity, and investment strategies
+  in finance.
+title: Encumbered Securities (Algo Trading)
 ---
 
 In today's dynamic financial landscape, financial assets are integral to the architecture of investment strategies. These assets, which can be either tangible or intangible, represent resources offering ownership or command over future economic benefits. As investors navigate increasingly complex markets, understanding the multiple dimensions of financial assets is essential to informed decision-making.

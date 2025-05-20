@@ -1,6 +1,11 @@
 ---
-title: "Currency Symbols: History and Examples (Algo Trading)"
-description: "Explore the fascinating history of currency symbols and their evolution from ancient barter systems to modern algorithmic trading. Discover how these symbols simplify international trade, their role in digital currency, and the impact of automated trading on forex markets. Understand the significance of currency symbols in global finance and their historical journey in shaping today's economy."
+category: quant_concept
+description: Explore the fascinating history of currency symbols and their evolution
+  from ancient barter systems to modern algorithmic trading. Discover how these symbols
+  simplify international trade, their role in digital currency, and the impact of
+  automated trading on forex markets. Understand the significance of currency symbols
+  in global finance and their historical journey in shaping today's economy.
+title: 'Currency Symbols: History and Examples (Algo Trading)'
 ---
 
 Currencies have been integral to global economics since ancient times, serving as the backbone of trade and commerce. They have evolved from early barter systems to complex digital currencies used today. This evolution highlights the importance of understanding various currency examples, their historical journey, symbolic representations, and modern innovations such as algorithmic trading.

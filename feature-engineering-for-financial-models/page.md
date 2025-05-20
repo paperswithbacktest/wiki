@@ -1,6 +1,9 @@
 ---
-title: "Feature engineering for financial models (Algo Trading)"
-description: "Feature engineering is crucial in algorithmic trading to convert raw financial data into predictive features enhancing model accuracy. Explore strategies to boost your trading models."
+category: trading_strategy
+description: Feature engineering is crucial in algorithmic trading to convert raw
+  financial data into predictive features enhancing model accuracy. Explore strategies
+  to boost your trading models.
+title: Feature engineering for financial models (Algo Trading)
 ---
 
 In the fast-paced world of algorithmic trading, feature engineering is indispensable for crafting sophisticated and effective financial models. The ability to transform raw financial data into insightful and predictive features can significantly enhance a model's performance, thereby improving stock market predictions. This article provides a comprehensive overview of the strategies involved in feature engineering for financial data, focusing on how to extract, transform, and create inputs that drive the predictive power of your models. Whether you are a novice or an experienced data scientist, understanding these techniques will bolster your ability to make precise and reliable predictions in algorithmic trading.

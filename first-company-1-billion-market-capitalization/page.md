@@ -1,6 +1,9 @@
 ---
-title: "First Company with a $1 Billion Market Capitalization (Algo Trading)"
-description: "Explore the history and evolution of companies reaching billion-dollar market caps, from U.S. Steel's industrial milestone to modern algorithmic trading impacts."
+category: quant_concept
+description: Explore the history and evolution of companies reaching billion-dollar
+  market caps, from U.S. Steel's industrial milestone to modern algorithmic trading
+  impacts.
+title: First Company with a $1 Billion Market Capitalization (Algo Trading)
 ---
 
 In recent years, the financial sector has witnessed companies achieving remarkable milestones in market capitalization, surpassing billion-dollar thresholds with increasing regularity. This transformation marks a significant moment in the stock market, where the financial trajectories of companies are not just measured in their immediate economic impact but in their legacy and influence over time. The phenomenon of reaching a billion-dollar market cap carries substantial implications, as it symbolizes financial robustness, strategic foresight, and market influence.

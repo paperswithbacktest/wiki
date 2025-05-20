@@ -1,6 +1,8 @@
 ---
-title: "Crash: Mechanisms and Examples (Algo Trading)"
-description: "Explore the mechanisms and examples of market crashes linked to algorithmic trading. Understand flash crashes, systemic risks, and strategies for mitigation."
+category: quant_concept
+description: Explore the mechanisms and examples of market crashes linked to algorithmic
+  trading. Understand flash crashes, systemic risks, and strategies for mitigation.
+title: 'Crash: Mechanisms and Examples (Algo Trading)'
 ---
 
 Algorithmic trading, or algo trading, involves the use of computer algorithms to automate the process of buying and selling financial instruments. It harnesses the power of advanced mathematical models and high-frequency data to make trading decisions at a speed and frequency that is impossible for a human trader. This technology-driven approach offers significant advantages, such as increased speed of execution, reduced transaction costs, and the elimination of human emotional influences from trading. However, it also introduces substantial risks, particularly the potential for market crashes.

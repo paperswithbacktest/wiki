@@ -1,6 +1,14 @@
 ---
-title: "Sample size (Algo Trading)"
-description: This article investigates into the crucial role of sample size in algorithmic trading focusing on the determination of optimal sample sizes for strategy development. Understanding the right sample size aids in strategic optimization risk reduction and performance enhancement. Readers will explore principles like statistical power analysis to ensure realistic strategy simulations and informed trading decisions. The insights provided aim to enhance backtesting reliability and contribute to the development of more effective trading strategies crucial for success in the dynamic field of algorithmic trading.
+category: quant_concept
+description: This article investigates into the crucial role of sample size in algorithmic
+  trading focusing on the determination of optimal sample sizes for strategy development.
+  Understanding the right sample size aids in strategic optimization risk reduction
+  and performance enhancement. Readers will explore principles like statistical power
+  analysis to ensure realistic strategy simulations and informed trading decisions.
+  The insights provided aim to enhance backtesting reliability and contribute to the
+  development of more effective trading strategies crucial for success in the dynamic
+  field of algorithmic trading.
+title: Sample size (Algo Trading)
 ---
 
 Algorithmic trading, commonly known as algo trading, has surged in popularity due to its capacity to execute trades with speed and precision, leveraging complex algorithms to make data-driven decisions. Central to the efficacy of algorithmic trading is the sample size used in backtesting and strategy development. The sample size plays a pivotal role in determining the accuracy and robustness of trading strategies, directly impacting the reliability of results obtained during backtesting.

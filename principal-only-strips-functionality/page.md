@@ -1,6 +1,9 @@
 ---
-title: "Principal-Only Strips and Their Functionality (Algo Trading)"
-description: "Explore the unique features of Principal-Only strips in algo trading These instruments focus solely on principal repayments from MBS pools offering strategic investment opportunities"
+category: quant_concept
+description: Explore the unique features of Principal-Only strips in algo trading
+  These instruments focus solely on principal repayments from MBS pools offering strategic
+  investment opportunities
+title: Principal-Only Strips and Their Functionality (Algo Trading)
 ---
 
 In the world of finance, having a comprehensive understanding of the various instruments available is crucial for investors aiming to make informed decisions. Among these complex instruments is the Principal-Only (PO) strip, a specific type of fixed-income security that originates from mortgage-backed securities (MBS). PO strips represent a unique investment opportunity as they allow investors to receive only the principal repayments from a pool of underlying mortgages, as opposed to also receiving interest payments. 

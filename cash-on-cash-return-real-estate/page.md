@@ -1,6 +1,8 @@
 ---
-title: "Cash-on-Cash Return in Real Estate (Algo Trading)"
-description: "Explore the significance of cash-on-cash return in real estate investments and how algorithmic trading can optimize strategies to enhance cash flow performance."
+category: quant_concept
+description: Explore the significance of cash-on-cash return in real estate investments
+  and how algorithmic trading can optimize strategies to enhance cash flow performance.
+title: Cash-on-Cash Return in Real Estate (Algo Trading)
 ---
 
 The integration of advanced technologies in real estate investment is reshaping how investors approach portfolio optimization. These technological advancements are equipping investors with sophisticated tools that enhance analytical capabilities and facilitate more efficient decision-making processes. Central to evaluating the performance of real estate investments is the cash-on-cash return. This metric is critical for assessing the profitability of property investments, especially those involving financing with loans. It offers a direct measurement of annual cash earnings relative to the initial cash investment, providing a clear snapshot of a property's ability to generate cash flow.

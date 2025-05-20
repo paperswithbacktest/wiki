@@ -1,6 +1,8 @@
 ---
-title: "Forex Spread Betting: Overview and Mechanism (Algo Trading)"
-description: "Explore the world of forex spread betting and algorithmic trading Understand modern trading mechanisms to gain a strategic edge in global financial markets."
+category: quant_concept
+description: Explore the world of forex spread betting and algorithmic trading Understand
+  modern trading mechanisms to gain a strategic edge in global financial markets.
+title: 'Forex Spread Betting: Overview and Mechanism (Algo Trading)'
 ---
 
 The modern financial trading landscape is characterized by an array of diverse and dynamic trading and betting methods, each offering unique ways to engage with the global markets. Among these, forex trading, financial betting, spread betting, and algorithmic trading are particularly prominent.

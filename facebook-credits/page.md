@@ -1,6 +1,9 @@
 ---
-title: "Facebook Credits (Algo Trading)"
-description: "Explore the evolution of Facebook Credits a pioneering virtual currency facilitating social media transactions since 2009 and their transition to blockchain projects."
+category: quant_concept
+description: Explore the evolution of Facebook Credits a pioneering virtual currency
+  facilitating social media transactions since 2009 and their transition to blockchain
+  projects.
+title: Facebook Credits (Algo Trading)
 ---
 
 The rapid advancement of digital payment systems has given rise to an extensive range of virtual currencies, each serving distinct applications. Among these innovations, Facebook Credits emerged as a notable development, facilitating transactions within the social networking platform of Facebook. Launched in 2009, this virtual currency was designed to streamline and unify in-app purchases across Facebook's ecosystem, enhancing the transactional experience for users engaged in games and applications. Although Facebook Credits were phased out by 2013 in favor of direct transactions in local currencies, their introduction marked a significant step in adapting digital currency solutions within social media landscapes.

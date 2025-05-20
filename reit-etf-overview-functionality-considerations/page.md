@@ -1,6 +1,8 @@
 ---
-title: "REIT ETF: Overview, Functionality, and Considerations (Algo Trading)"
-description: "Explore how REIT ETFs combine real estate investment with the benefits of algorithmic trading offering diversification, liquidity, and data-driven strategies."
+category: quant_concept
+description: Explore how REIT ETFs combine real estate investment with the benefits
+  of algorithmic trading offering diversification, liquidity, and data-driven strategies.
+title: 'REIT ETF: Overview, Functionality, and Considerations (Algo Trading)'
 ---
 
 Real Estate Investment Trusts (REITs) have gained substantial popularity as investment vehicles, providing individuals with the opportunity to invest in diverse real estate portfolios without the direct responsibility of property management. As publicly traded entities, REITs must adhere to specific regulations, including the requirement to distribute at least 90% of their taxable income to shareholders, which makes them particularly appealing to investors focused on regular income streams.

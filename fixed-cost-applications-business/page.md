@@ -1,6 +1,9 @@
 ---
-title: "Fixed Cost and Its Applications in Business (Algo Trading)"
-description: "Explore fixed costs and their impact on business profitability Discover strategies for optimizing fixed expenses and leveraging algorithmic trading for financial efficiency"
+category: quant_concept
+description: Explore fixed costs and their impact on business profitability Discover
+  strategies for optimizing fixed expenses and leveraging algorithmic trading for
+  financial efficiency
+title: Fixed Cost and Its Applications in Business (Algo Trading)
 ---
 
 In today's competitive business environment, effective cost management is essential for profitability. Businesses are continuously seeking ways to streamline operations, minimize expenses, and enhance financial outcomes. A critical aspect of this process is understanding the intersection of fixed costs, business finance, cost management, and algorithmic trading.

@@ -1,6 +1,8 @@
 ---
-title: "Market Sentiment Indicators and Their Analytical Applications (Algo Trading)"
-description: "Explore modern strategies combining market sentiment with algorithmic trading and financial analysis to optimize investment decisions in dynamic markets."
+category: trading_strategy
+description: Explore modern strategies combining market sentiment with algorithmic
+  trading and financial analysis to optimize investment decisions in dynamic markets.
+title: Market Sentiment Indicators and Their Analytical Applications (Algo Trading)
 ---
 
 Modern investment strategies in the financial market have evolved significantly due to technological advancements and the increasing availability of data. In the current financial landscape, understanding the complexities of market sentiment is crucial for shaping investment decisions. Market sentiment, a collective attitude of investors towards a particular financial market or asset, can drive price movements and influence the creation of strategies that react to psychological factors rather than pure economic fundamentals.

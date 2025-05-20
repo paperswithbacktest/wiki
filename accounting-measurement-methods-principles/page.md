@@ -1,6 +1,8 @@
 ---
-title: "Accounting Measurement Methods and Principles (Algo Trading)"
-description: "Explore the integration of accounting measurement methods with algorithmic trading to enhance financial accuracy and adaptability in fast-paced market environments."
+category: quant_concept
+description: Explore the integration of accounting measurement methods with algorithmic
+  trading to enhance financial accuracy and adaptability in fast-paced market environments.
+title: Accounting Measurement Methods and Principles (Algo Trading)
 ---
 
 In the ever-evolving world of finance and accounting, understanding measurement methods and principles is crucial for accurate financial reporting and analysis. Financial transactions and statements form the backbone of corporate decision-making and investor confidence, necessitating precision in how these figures are computed and presented. Measurement methods in accounting serve to quantify economic activities in monetary terms, thereby creating a framework for consistency and reliability in financial documentation.

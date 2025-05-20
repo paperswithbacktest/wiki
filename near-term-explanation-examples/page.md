@@ -1,6 +1,8 @@
 ---
-title: "Near Term: Explanation and Examples (Algo Trading)"
-description: "Discover the synergy between near-term financial planning and algorithmic trading to efficiently achieve short-term investment goals amidst market fluctuations."
+category: trading_strategy
+description: Discover the synergy between near-term financial planning and algorithmic
+  trading to efficiently achieve short-term investment goals amidst market fluctuations.
+title: 'Near Term: Explanation and Examples (Algo Trading)'
 ---
 
 Investment strategies have undergone remarkable transformation over recent decades, driven primarily by advancements in technology and the emergence of algorithmic trading. Traditionally, investment strategies were often based on fundamental analysis and manual execution, relying heavily on the judgment and expertise of individual traders and financial planners. However, the integration of algorithmic trading into the financial planning landscape has introduced a paradigm shift, offering new levels of efficiency and precision.

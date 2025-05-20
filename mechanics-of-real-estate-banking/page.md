@@ -1,6 +1,9 @@
 ---
-title: "Mechanics of Real Estate Banking (Algo Trading)"
-description: "Explore the transformative role of algorithmic trading in real estate banking improving investment speed accuracy and efficiency with advanced financial mechanisms."
+category: quant_concept
+description: Explore the transformative role of algorithmic trading in real estate
+  banking improving investment speed accuracy and efficiency with advanced financial
+  mechanisms.
+title: Mechanics of Real Estate Banking (Algo Trading)
 ---
 
 In the modern financial landscape, the intersection of real estate, banking, and technology has given rise to innovative financial mechanisms. These mechanisms are increasingly influenced by the rise of algorithmic trading (algo trading), a crucial tool in optimizing financial transactions across various sectors. Algorithmic trading leverages computer algorithms to automate and enhance trading decisions, significantly impacting the efficiency and precision of financial operations.

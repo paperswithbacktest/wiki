@@ -1,7 +1,8 @@
 ---
-title: Preventing Label Leakage in Machine Learning Models
+category: quant_concept
 description: Label leakage erodes model accuracy by using future data. Discover how
   to spot and eliminate leakage for reliable predictions. Discover more inside
+title: Preventing Label Leakage in Machine Learning Models
 ---
 
 ![Image](images/1.png)

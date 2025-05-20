@@ -1,6 +1,8 @@
 ---
-title: "Comparison of Vanguard VGSTX and Fidelity FBALX Balanced Funds (Algo Trading)"
-description: "Explore the comparison between Vanguard VGSTX and Fidelity FBALX balanced funds Discover how algorithmic trading influences their performance and benefits."
+category: trading_strategy
+description: Explore the comparison between Vanguard VGSTX and Fidelity FBALX balanced
+  funds Discover how algorithmic trading influences their performance and benefits.
+title: Comparison of Vanguard VGSTX and Fidelity FBALX Balanced Funds (Algo Trading)
 ---
 
 In today's intricate and varied investment landscape, mutual funds play a pivotal role for investors aiming to achieve balanced growth and financial stability. Mutual funds pool capital from numerous investors to purchase a diverse set of securities, such as stocks and bonds, managed by professional fund managers. Among the array of mutual funds available, balanced funds stand out due to their mixed investment approach that seeks to offer both safety and the opportunity for capital appreciation.

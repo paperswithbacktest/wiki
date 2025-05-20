@@ -1,6 +1,8 @@
 ---
-title: "Differences Between Delta Hedging and Beta Hedging (Algo Trading)"
-description: "Discover the core differences between delta and beta hedging in algo trading Learn how these strategies manage directional and unsystematic risks efficiently"
+category: trading_strategy
+description: Discover the core differences between delta and beta hedging in algo
+  trading Learn how these strategies manage directional and unsystematic risks efficiently
+title: Differences Between Delta Hedging and Beta Hedging (Algo Trading)
 ---
 
 Hedging strategies are essential tools employed by investors to manage risk, particularly in the face of volatile market conditions. These strategies provide mechanisms to minimize potential losses by taking offsetting positions in the market. Among the various techniques available, beta hedging and delta hedging are notably popular among traders for mitigating distinct types of risks.

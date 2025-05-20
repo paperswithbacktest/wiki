@@ -1,6 +1,8 @@
 ---
-title: "Non-Core Assets: Overview and Examples (Algo Trading)"
-description: "Explore how non-core assets and algorithmic trading are revolutionizing financial strategies, improving liquidity, risk management, and asset optimization."
+category: quant_concept
+description: Explore how non-core assets and algorithmic trading are revolutionizing
+  financial strategies, improving liquidity, risk management, and asset optimization.
+title: 'Non-Core Assets: Overview and Examples (Algo Trading)'
 ---
 
 The financial landscape is undergoing a swift transformation, driven by the integration of innovative strategies and cutting-edge technologies. These advancements are reshaping investment approaches and asset management practices. Among the pivotal components influencing these modern financial strategies are non-core assets, asset management, and algorithmic trading. As businesses and investors strive to maintain a competitive edge, understanding and effectively utilizing these elements have become crucial.

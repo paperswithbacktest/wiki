@@ -1,6 +1,8 @@
 ---
-title: "Behavioral Finance Overview (Algo Trading)"
-description: "Explore behavioral finance algorithmic trading and investor psychology to gain insights into market dynamics and improve financial decision-making strategies."
+category: quant_concept
+description: Explore behavioral finance algorithmic trading and investor psychology
+  to gain insights into market dynamics and improve financial decision-making strategies.
+title: Behavioral Finance Overview (Algo Trading)
 ---
 
 The world of finance is an intricate network of variables that significantly impact decision-making for both individual and institutional investors. Among these variables, investor psychology, behavioral finance, and algorithmic trading stand out as pivotal factors in shaping modern financial strategies. Each of these elements contributes uniquely to the financial decision-making landscape, offering insights into market dynamics and investor behavior.

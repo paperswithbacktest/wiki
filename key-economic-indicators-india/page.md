@@ -1,6 +1,8 @@
 ---
-title: "Key Economic Indicators of India (Algo Trading)"
-description: "Explore how key economic indicators drive algo trading in India. Understand the metrics, trends, and data sources shaping investment strategies."
+category: dataset
+description: Explore how key economic indicators drive algo trading in India. Understand
+  the metrics, trends, and data sources shaping investment strategies.
+title: Key Economic Indicators of India (Algo Trading)
 ---
 
 Economic indicators are fundamental tools for evaluating the health and stability of a country's economy. They provide crucial insights into economic performance and help guide both domestic and international investment decisions. For India, a burgeoning and significant player in the global market, a nuanced understanding of these indicators becomes imperative. India's dynamic economic landscape is driven by various factors, including a large and skilled workforce, and presents unique challenges and opportunities for investors and policy-makers alike.

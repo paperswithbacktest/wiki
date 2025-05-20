@@ -1,6 +1,8 @@
 ---
-title: "Types of Vertical Option Spreads (Algo Trading)"
-description: "Explore the mechanics of vertical option spreads in algo trading Learn how these strategies enhance efficiency and risk management in today's market landscape"
+category: trading_strategy
+description: Explore the mechanics of vertical option spreads in algo trading Learn
+  how these strategies enhance efficiency and risk management in today's market landscape
+title: Types of Vertical Option Spreads (Algo Trading)
 ---
 
 Options trading has become an increasingly popular avenue for traders seeking to diversify their portfolios and manage risk. It involves contracts that give the holder the right, but not the obligation, to buy or sell a particular asset at a predetermined price before a specified expiration date. This flexibility, combined with the potential for leveraging capital, makes options trading attractive to a wide range of investors, from novices to seasoned professionals.

@@ -1,6 +1,8 @@
 ---
-title: "Tick-by-tick data (Algo Trading)"
-description: "Explore how tick-by-tick data enhances algorithmic trading with real-time market insights boosting precision and accuracy in rapidly changing environments."
+category: dataset
+description: Explore how tick-by-tick data enhances algorithmic trading with real-time
+  market insights boosting precision and accuracy in rapidly changing environments.
+title: Tick-by-tick data (Algo Trading)
 ---
 
 In the rapidly evolving world of trading, access to detailed market data is crucial for making informed decisions. Among the various data types available to traders, tick-by-tick data stands out for its ability to provide a granular view of market activities. This fine-grained data offers traders precise insights into market dynamics by capturing every single trade and price change as they occur. Unlike other forms of market data that may provide periodic snapshots, tick-by-tick data offers a continuous stream of information, which is essential for traders seeking to optimize their strategies.

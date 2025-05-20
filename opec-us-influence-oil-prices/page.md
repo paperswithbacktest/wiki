@@ -1,6 +1,11 @@
 ---
-title: "OPEC and U.S. Influence on Oil Prices (Algo Trading)"
-description: "Explore the intricate dynamics of the global oil market influenced by OPEC, the US, and the rise of algorithmic trading. Delve into how geopolitical and technological shifts impact oil pricing and market control, examining the US's role in potentially influencing OPEC-driven prices. This discussion highlights the critical intersection of technology and strategy in shaping the energy sector's future."
+category: trading_strategy
+description: Explore the intricate dynamics of the global oil market influenced by
+  OPEC, the US, and the rise of algorithmic trading. Delve into how geopolitical and
+  technological shifts impact oil pricing and market control, examining the US's role
+  in potentially influencing OPEC-driven prices. This discussion highlights the critical
+  intersection of technology and strategy in shaping the energy sector's future.
+title: OPEC and U.S. Influence on Oil Prices (Algo Trading)
 ---
 
 The global oil market represents a highly intricate and evolving domain, substantially influenced by pivotal entities such as the Organization of the Petroleum Exporting Countries (OPEC) and the United States. This market's complexity arises not only from the traditional supply and demand dynamics but also from the interplay of geopolitical, economic, and technological variables. In recent years, algorithmic trading has emerged as a powerful force impacting oil prices. This development has led to a growing discourse on whether algorithmic trading provides the United States with a mechanism to potentially influence OPEC-driven oil prices.

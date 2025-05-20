@@ -1,6 +1,8 @@
 ---
-title: "Deadweight Loss and Its Economic Impacts (Algo Trading)"
-description: "Explore the economic impacts of deadweight loss, its causes like taxes and monopolies, and the complex role of algorithmic trading in market efficiency."
+category: quant_concept
+description: Explore the economic impacts of deadweight loss, its causes like taxes
+  and monopolies, and the complex role of algorithmic trading in market efficiency.
+title: Deadweight Loss and Its Economic Impacts (Algo Trading)
 ---
 
 Understanding the concept of deadweight loss is crucial to grasping the complexities of market inefficiencies. Deadweight loss represents the loss of economic efficiency when supply and demand are out of balance, a common occurrence in today's markets. In an ideal market, resources are allocated in a manner where consumer and producer surplus are maximized, achieving what economists call Pareto efficiency. However, various factors such as taxes, price controls, and monopolistic practices can disturb this balance, resulting in deadweight loss.

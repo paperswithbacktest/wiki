@@ -1,6 +1,8 @@
 ---
-title: "Central Limit Theorem (Algo Trading)"
-description: "Explore the pivotal role of the Central Limit Theorem in enhancing algorithmic trading strategies by simplifying data analysis and predicting market trends."
+category: quant_concept
+description: Explore the pivotal role of the Central Limit Theorem in enhancing algorithmic
+  trading strategies by simplifying data analysis and predicting market trends.
+title: Central Limit Theorem (Algo Trading)
 ---
 
 The Central Limit Theorem (CLT) is a fundamental principle in statistical theory that is essential for data analysis and modeling across a wide array of disciplines, with particularly significant applications in algorithmic trading. The theorem posits that for any population with a finite mean and variance, the distribution of sample means will approximate a normal distribution as the sample size increases, regardless of the original distribution's shape. This characteristic allows statisticians and data scientists to make inferences about population parameters by analyzing sample data, thus simplifying complex data analysis processes.
@@ -158,4 +160,3 @@ Patton, A. J. (2009). "Copula-based models for financial time series." This work
 Taleb, N. N. (2007). "The Black Swan: The Impact of the Highly Improbable." Nassim Nicholas Taleb's book discusses the profound impact of rare, unpredictable events, known as Black Swans, on markets and society. It highlights the limitations of traditional statistical models, making it an essential read for traders seeking to understand and mitigate unpredictable market risks.
 
 Jorion, P. (2007). "Value at Risk: The New Benchmark for Managing Financial Risk." This authoritative guide on Value-at-Risk provides traders with a framework for risk assessment and management. Jorion's work is fundamental for understanding how to measure and control financial risk, a crucial aspect of algorithmic trading strategy development.
-

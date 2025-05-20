@@ -1,6 +1,8 @@
 ---
-title: "Financial Performance Overview and Applications (Algo Trading)"
-description: "Explore the synergy of financial performance analysis and algorithmic trading to enhance decision-making and capitalize on market opportunities efficiently."
+category: trading_strategy
+description: Explore the synergy of financial performance analysis and algorithmic
+  trading to enhance decision-making and capitalize on market opportunities efficiently.
+title: Financial Performance Overview and Applications (Algo Trading)
 ---
 
 Business finance, financial performance, financial analysis, and algorithmic trading represent interconnected facets of the financial landscape. These elements collectively influence the decision-making processes of businesses and investors alike. Understanding a business's financial performance is crucial for internal stakeholders, such as management, employees, and board members, to ensure the company is on a trajectory that aligns with its strategic objectives. It also provides external stakeholders, namely investors and creditors, with insights into a company's operational efficacy and profitability.

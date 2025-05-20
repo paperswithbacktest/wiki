@@ -1,6 +1,8 @@
 ---
-title: "Impact of Purchase Price on Capital Gains in Finance (Algo Trading)"
-description: "Explore the impact of purchase price on capital gains to enhance investment strategies and leverage the power of algorithmic trading for greater financial returns."
+category: trading_strategy
+description: Explore the impact of purchase price on capital gains to enhance investment
+  strategies and leverage the power of algorithmic trading for greater financial returns.
+title: Impact of Purchase Price on Capital Gains in Finance (Algo Trading)
 ---
 
 In the ever-evolving landscape of finance, understanding the interplay between capital gains, purchase price, finance, and algorithmic trading is critical for investors seeking to optimize their portfolios. Capital gains, defined as the profit derived from the sale of assets or investments, are influenced by the purchase price or initial cost basis of these investments. By effectively managing purchase prices and utilizing strategic entry and exit points, investors can enhance their potential for substantial capital appreciation.

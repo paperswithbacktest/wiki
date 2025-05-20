@@ -1,6 +1,12 @@
 ---
-title: "Contrarian Trading Strategy Explained (Algo Trading)"
-description: Explore the contrarian trading strategy in algorithmic trading where going against prevailing market trends can offer profitable opportunities. Understand how emotional market inefficiencies can be leveraged through automated algorithms to exploit mispricings and capitalize on market corrections. Delve into how this strategic integration can transform market sentiment patterns into systematic and efficient trading outcomes.
+category: trading_strategy
+description: Explore the contrarian trading strategy in algorithmic trading where
+  going against prevailing market trends can offer profitable opportunities. Understand
+  how emotional market inefficiencies can be leveraged through automated algorithms
+  to exploit mispricings and capitalize on market corrections. Delve into how this
+  strategic integration can transform market sentiment patterns into systematic and
+  efficient trading outcomes.
+title: Contrarian Trading Strategy Explained (Algo Trading)
 ---
 
 Contrarian trading is a strategy that involves going against prevailing market trends. This approach is rooted in the belief that markets are often influenced by human emotions such as fear and greed, which can trigger overreactions. These emotional fluctuations can result in market inefficiencies, presenting opportunities for astute traders to capitalize on mispricings. 

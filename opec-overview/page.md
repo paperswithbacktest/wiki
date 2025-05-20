@@ -1,6 +1,12 @@
 ---
-title: "OPEC Overview (Algo Trading)"
-description: "Explore how OPEC's policy decisions shape global oil markets and the role of algorithmic trading in amplifying these effects. Understand the complex interplay between OPEC's influence on oil pricing and supply and the rapid, automated responses of trading algorithms. This comprehensive overview investigates into strategic insights for investors navigating the volatile oil sector, highlighting opportunities and challenges influenced by geopolitical and technological factors."
+category: quant_concept
+description: Explore how OPEC's policy decisions shape global oil markets and the
+  role of algorithmic trading in amplifying these effects. Understand the complex
+  interplay between OPEC's influence on oil pricing and supply and the rapid, automated
+  responses of trading algorithms. This comprehensive overview investigates into strategic
+  insights for investors navigating the volatile oil sector, highlighting opportunities
+  and challenges influenced by geopolitical and technological factors.
+title: OPEC Overview (Algo Trading)
 ---
 
 The global oil market operates as a multifaceted ecosystem influenced by diverse factors such as geopolitical tensions, technological advancements, and economic policies. Pooling these factors together is the Organization of Petroleum Exporting Countries (OPEC) along with its allies, known collectively as OPEC+. This coalition plays a pivotal role in influencing global oil dynamics through coordinated efforts in production and pricing strategies.

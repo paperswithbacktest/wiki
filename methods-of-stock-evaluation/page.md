@@ -1,6 +1,9 @@
 ---
-title: "Methods of Stock Evaluation (Algo Trading)"
-description: "Explore stock evaluation methods in algo trading including fundamental and technical analysis enhanced by algorithmic trading for optimized investment strategies."
+category: trading_strategy
+description: Explore stock evaluation methods in algo trading including fundamental
+  and technical analysis enhanced by algorithmic trading for optimized investment
+  strategies.
+title: Methods of Stock Evaluation (Algo Trading)
 ---
 
 In today's financial markets, successful investing requires a thorough understanding of stock evaluation and analysis. Recent advancements have introduced new methods to streamline this complex process, significantly impacting market strategies. Traditional approaches such as fundamental and technical analysis continue to play pivotal roles, yet technological innovations, particularly algorithmic trading, are reshaping how investors approach the market. 

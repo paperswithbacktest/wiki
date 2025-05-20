@@ -1,6 +1,11 @@
 ---
-title: "Bond ETFs: Types, Examples, and Investment Strategies (Algo Trading)"
-description: "Explore the world of Bond ETFs and discover investment strategies that leverage diversification, liquidity, and flexibility. This article investigates into various types of Bond ETFs, highlights the impact of algorithmic trading on investment execution, and offers insights into constructing efficient portfolios to meet financial objectives and risk preferences."
+category: trading_strategy
+description: Explore the world of Bond ETFs and discover investment strategies that
+  leverage diversification, liquidity, and flexibility. This article investigates
+  into various types of Bond ETFs, highlights the impact of algorithmic trading on
+  investment execution, and offers insights into constructing efficient portfolios
+  to meet financial objectives and risk preferences.
+title: 'Bond ETFs: Types, Examples, and Investment Strategies (Algo Trading)'
 ---
 
 Investment strategies are essential for effectively navigating the intricacies of financial markets. They offer guidance in decision-making and help in achieving financial goals while managing risk. Among various investment options, bond Exchange-Traded Funds (ETFs) have gained prominence due to their inherent benefits. Bond ETFs combine the advantages of mutual funds—such as diversification and professional management—with the flexibility of stock trading, offering an easy way to invest in a portfolio of bonds. This dual characteristic allows investors to gain exposure to fixed income markets, often with lower costs and higher liquidity compared to individual bond investments.

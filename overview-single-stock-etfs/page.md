@@ -1,6 +1,8 @@
 ---
-title: "Overview of Single-Stock ETFs (Algo Trading)"
-description: "Explore the world of single-stock ETFs and algorithmic trading for targeted investments in specific stocks uncovering their benefits, risks, and trading strategies."
+category: trading_strategy
+description: Explore the world of single-stock ETFs and algorithmic trading for targeted
+  investments in specific stocks uncovering their benefits, risks, and trading strategies.
+title: Overview of Single-Stock ETFs (Algo Trading)
 ---
 
 In the ever-evolving world of investment, exchange-traded funds (ETFs) have revolutionized the way investors approach the financial markets. From beginners to experienced investors, ETFs offer a versatile and cost-effective means to gain exposure across various asset classes. A recent development in the ETF landscape is the advent of single-stock ETFs, which focus on the performance of individual stocks rather than a diversified portfolio.

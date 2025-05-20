@@ -1,6 +1,8 @@
 ---
-title: "History of the Ukrainian Hryvnia (Algo Trading)"
-description: "Explore the journey of the Ukrainian Hryvnia from its 1996 introduction to its modern role in forex markets impacted by algorithmic trading dynamics."
+category: quant_concept
+description: Explore the journey of the Ukrainian Hryvnia from its 1996 introduction
+  to its modern role in forex markets impacted by algorithmic trading dynamics.
+title: History of the Ukrainian Hryvnia (Algo Trading)
 ---
 
 The Ukrainian Hryvnia (UAH) is the national currency of Ukraine, first introduced in 1996 following Ukraine's independence from the Soviet Union. It replaced the karbovanets and became an essential symbol of Ukrainian sovereignty and economic stability. The UAH is not only a medium for daily transactions but also plays a significant role in the broader Ukrainian economy. It serves as a tool for executing monetary policy and a benchmark for setting interest rates through the actions of the National Bank of Ukraine (NBU). Since its inception, the currency has undergone various changes, reflecting the economic landscape and political environment of the country.

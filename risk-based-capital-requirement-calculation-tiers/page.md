@@ -1,6 +1,9 @@
 ---
-title: "Risk-Based Capital Requirement: Calculation and Tiers (Algo Trading)"
-description: "Explore the crucial role of risk-based capital requirements and financial tiers in algorithmic trading. Learn how these regulations ensure trading resilience and risk management."
+category: quant_concept
+description: Explore the crucial role of risk-based capital requirements and financial
+  tiers in algorithmic trading. Learn how these regulations ensure trading resilience
+  and risk management.
+title: 'Risk-Based Capital Requirement: Calculation and Tiers (Algo Trading)'
 ---
 
 Algorithmic trading, commonly referred to as algo trading, has transformed the financial markets by rendering trade execution rapid and automated. By leveraging sophisticated algorithms, trading decisions are made and executed within milliseconds, offering a competitive advantage through speed and precision. This mechanism has led to a significant increase in trading volumes across global markets.

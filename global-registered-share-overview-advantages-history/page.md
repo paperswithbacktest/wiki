@@ -1,6 +1,10 @@
 ---
-title: "Global Registered Share: Overview, Advantages, and Historical Background (Algo Trading)"
-description: "Explore the historical evolution of investment strategies focusing on Global Registered Shares and algorithmic trading highlighting their impact on modern markets."
+category: quant_concept
+description: Explore the historical evolution of investment strategies focusing on
+  Global Registered Shares and algorithmic trading highlighting their impact on modern
+  markets.
+title: 'Global Registered Share: Overview, Advantages, and Historical Background (Algo
+  Trading)'
 ---
 
 The evolution of investment strategies is intrinsically linked to advancements in technology and the forces of globalization that have shaped modern financial markets. The intricate landscape of investment mechanisms has undergone significant transformations, from the early days of financial history to the sophisticated realm of algorithmic trading that we witness today. This article endeavors to chart the progression of these mechanisms and their profound impact on the global market, with a particular focus on Global Registered Shares (GRS) and algorithmic trading.

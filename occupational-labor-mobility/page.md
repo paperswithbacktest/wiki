@@ -1,6 +1,8 @@
 ---
-title: "Occupational Labor Mobility (Algo Trading)"
-description: "Explore the transformative impact of occupational labor mobility on career transitions within algorithmic trading Learn how this dynamic fosters economic growth"
+category: quant_concept
+description: Explore the transformative impact of occupational labor mobility on career
+  transitions within algorithmic trading Learn how this dynamic fosters economic growth
+title: Occupational Labor Mobility (Algo Trading)
 ---
 
 The modern job market is experiencing substantial transformation due to the proliferation of automation technologies and the emergence of new tech-driven sectors. This shift has had profound implications on employment, requiring a reevaluation of traditional job roles and career pathways. At the heart of this dynamic environment is occupational labor mobility, which represents the capacity of individuals to move across different jobs or industries. This mobility plays a pivotal role in enabling effective employment transitions and fostering career change.

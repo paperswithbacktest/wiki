@@ -1,6 +1,14 @@
 ---
-title: "Pairs Trading: Basics (Algo Trading)"
-description: Explore the fundamentals of pairs trading, a market-neutral strategy in algorithmic trading that capitalizes on statistical relationships between two assets to uncover trading opportunities. Rooted in co-integration, this approach allows traders to profit from temporary price deviations while hedging against market risks. Designed for controlled risk environments, pairs trading has evolved through technological advancements, making it more accessible to individual traders. Discover how statistical tools and tests enhance precision in identifying promising trades and ensure that chosen asset pairs maintain stable relationships over time.
+category: trading_strategy
+description: Explore the fundamentals of pairs trading, a market-neutral strategy
+  in algorithmic trading that capitalizes on statistical relationships between two
+  assets to uncover trading opportunities. Rooted in co-integration, this approach
+  allows traders to profit from temporary price deviations while hedging against market
+  risks. Designed for controlled risk environments, pairs trading has evolved through
+  technological advancements, making it more accessible to individual traders. Discover
+  how statistical tools and tests enhance precision in identifying promising trades
+  and ensure that chosen asset pairs maintain stable relationships over time.
+title: 'Pairs Trading: Basics (Algo Trading)'
 ---
 
 Pairs trading is a strategic approach in algorithmic trading that capitalizes on the statistical relationship between two financial instruments to identify trading opportunities. It is founded on the principle of co-integration, which is vital for detecting pairs of assets whose prices move together over time. Co-integration involves statistical methods that ensure the spread between two assets remains stable, despite individual price fluctuations, enabling traders to exploit temporary deviations. The use of co-integration, often tested through algorithms like the augmented Dickey-Fuller test, serves as the foundation for executing successful pairs trades.

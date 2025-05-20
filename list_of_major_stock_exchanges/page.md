@@ -1,6 +1,11 @@
 ---
-title: "List of Major Stock Exchanges"
-description: This article provides a dynamic list of major stock exchanges around the world. It also includes futures exchanges that offer trading in securities, alongside futures contracts. Notably, exchanges that belong to the "$1 Trillion Club" (exchanges with market capitalizations exceeding US$1 trillion) dominate global markets.
+category: quant_concept
+description: This article provides a dynamic list of major stock exchanges around
+  the world. It also includes futures exchanges that offer trading in securities,
+  alongside futures contracts. Notably, exchanges that belong to the "$1 Trillion
+  Club" (exchanges with market capitalizations exceeding US$1 trillion) dominate global
+  markets.
+title: List of Major Stock Exchanges
 ---
 
 Stock exchanges hold a pivotal position in global financial markets, acting as organized venues where securities, including stocks and bonds, are bought and sold. Their significance is underscored by their ability to provide liquidity, price discovery, and a secure environment for transactions, which are essential elements that maintain investor confidence and facilitate economic activities.

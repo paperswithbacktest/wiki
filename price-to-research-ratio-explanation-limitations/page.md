@@ -1,6 +1,9 @@
 ---
-title: "Price-to-Research Ratio: Explanation and Limitations (Algo Trading)"
-description: "Explore the Price-to-Research Ratio for investment insights into company innovation and valuation in algorithmic trading. Understand PRR limitations and opportunities."
+category: quant_concept
+description: Explore the Price-to-Research Ratio for investment insights into company
+  innovation and valuation in algorithmic trading. Understand PRR limitations and
+  opportunities.
+title: 'Price-to-Research Ratio: Explanation and Limitations (Algo Trading)'
 ---
 
 In investment analysis, the Price-to-Research Ratio (PRR) has gained traction as a crucial metric for assessing company innovation and market valuation. PRR evaluates the alignment between a company's market capitalization and its research and development (R&D) expenditures, offering unique insights into an organization’s commitment to innovation. The increasing relevance of PRR is evident in algorithmic trading, where it assists investors in identifying promising investment opportunities by highlighting companies with potential for future growth due to strong R&D investments.

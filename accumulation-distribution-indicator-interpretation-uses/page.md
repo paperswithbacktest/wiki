@@ -1,6 +1,8 @@
 ---
-title: "Accumulation/Distribution Indicator: Interpretation and Uses (Algo Trading)"
-description: "Explore the Accumulation/Distribution Indicator in algo trading and learn how it evaluates market supply-demand dynamics to enhance trading strategies."
+category: trading_strategy
+description: Explore the Accumulation/Distribution Indicator in algo trading and learn
+  how it evaluates market supply-demand dynamics to enhance trading strategies.
+title: 'Accumulation/Distribution Indicator: Interpretation and Uses (Algo Trading)'
 ---
 
 The world of algorithmic trading is vast and ever-expanding, with technical analysis indicators playing a crucial role in traders' strategies. Technical indicators help traders make informed decisions by analyzing past market data to predict future price movements. Among these indicators, the Accumulation/Distribution (A/D) Indicator stands out as a powerful tool that helps traders assess supply and demand dynamics. This indicator provides insights into the flow of money into or out of a security by considering both price and volume data. It gives traders an ability to evaluate whether an asset is experiencing accumulation, where buying pressure is dominant, or distribution, where selling pressure prevails.

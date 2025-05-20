@@ -1,6 +1,8 @@
 ---
-title: "Hands-Off Investment Strategy: Advantages and Disadvantages (Algo Trading)"
-description: "Explore the pros and cons of hands-off investing with algorithmic trading. Learn how this approach can automate your investment strategy for long-term growth."
+category: trading_strategy
+description: Explore the pros and cons of hands-off investing with algorithmic trading.
+  Learn how this approach can automate your investment strategy for long-term growth.
+title: 'Hands-Off Investment Strategy: Advantages and Disadvantages (Algo Trading)'
 ---
 
 In the world of investing, strategies span a continuum from active management to fully passive investing. Active management involves frequent buying and selling of securities, aiming to outperform market indices through expert selection and timing. In contrast, passive investing is designed for those who prefer minimizing their day-to-day involvement in investment decisions. By focusing on long-term growth, passive strategies typically involve holding investments over extended periods, largely ignoring short-term market fluctuations and trends.

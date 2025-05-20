@@ -1,6 +1,9 @@
 ---
-title: "Arab League: Regional Organization (Algo Trading)"
-description: "Discover how the Arab League's economic landscape intersects with the rise of algo trading navigating Middle Eastern financial markets and global trade dynamics."
+category: quant_concept
+description: Discover how the Arab League's economic landscape intersects with the
+  rise of algo trading navigating Middle Eastern financial markets and global trade
+  dynamics.
+title: 'Arab League: Regional Organization (Algo Trading)'
 ---
 
 The Middle East holds a pivotal position in global trade and finance, serving as a bridge between the continents of Asia, Africa, and Europe. Its significance is underscored by its abundant energy resources, strategic maritime routes, and vibrant economic activities. The region plays a crucial role in the global supply chain, especially through oil and natural gas exports, which continue to be integral to its economic strength and international relevance.

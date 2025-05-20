@@ -1,6 +1,8 @@
 ---
-title: "Factors Influencing Daily Trading (Algo Trading)"
-description: "Explore the dynamic world of algorithmic trading and discover the factors influencing daily financial markets to enhance your trading strategies and decision-making."
+category: trading_strategy
+description: Explore the dynamic world of algorithmic trading and discover the factors
+  influencing daily financial markets to enhance your trading strategies and decision-making.
+title: Factors Influencing Daily Trading (Algo Trading)
 ---
 
 Financial markets are crucial components of the global economy, acting as facilitators for capital flows, liquidity provision, and risk management. They encompass various types such as stock markets, bond markets, foreign exchange (forex) markets, and commodities markets. Each market type plays a specific role in economic development and wealth creation by providing platforms where governments, corporations, and individuals can raise funds, invest savings, and hedge risks.

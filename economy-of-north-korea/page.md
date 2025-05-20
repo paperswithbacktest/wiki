@@ -1,6 +1,10 @@
 ---
-title: "Economy of North Korea (Algo Trading)"
-description: "Explore the unique economic landscape of North Korea, driven by a command economy focused on self-reliance. Delve into the complexities of limited data, the impact of sanctions, and the potential for algorithmic trading in this isolated nation, examining both challenges and development prospects."
+category: quant_concept
+description: Explore the unique economic landscape of North Korea, driven by a command
+  economy focused on self-reliance. Delve into the complexities of limited data, the
+  impact of sanctions, and the potential for algorithmic trading in this isolated
+  nation, examining both challenges and development prospects.
+title: Economy of North Korea (Algo Trading)
 ---
 
 The Democratic People's Republic of Korea, commonly referred to as North Korea, is distinguished by its distinct economic system, which has garnered significant global scrutiny and discourse. This isolated nation operates under a command economy framework, characterized by the state's centralized control over all economic activities. This system places a strong emphasis on heavy industry and military spending, aligning with the overarching ideological principle of self-reliance known as 'juche'. Such a structure not only influences the economic paradigm of the country but also shapes its broader socio-political landscape.

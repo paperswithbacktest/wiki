@@ -1,6 +1,9 @@
 ---
-title: "Comparison of Preferred Stocks and Bonds (Algo Trading)"
-description: "Explore the comprehensive comparison of bonds and preferred stocks, two key investment options, and learn about the impact of algorithmic trading on these assets."
+category: trading_strategy
+description: Explore the comprehensive comparison of bonds and preferred stocks, two
+  key investment options, and learn about the impact of algorithmic trading on these
+  assets.
+title: Comparison of Preferred Stocks and Bonds (Algo Trading)
 ---
 
 In the ever-evolving world of finance, it is essential to understand the various investment options available in order to construct a robust and diversified portfolio. This article specifically focuses on providing a comprehensive comparison between two widely regarded investment vehicles: bonds and preferred stocks. Additionally, it investigates into the incorporation of algorithmic trading strategies, a technological advancement that has significantly reshaped trading dynamics.

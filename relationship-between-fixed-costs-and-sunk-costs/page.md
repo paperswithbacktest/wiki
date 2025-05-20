@@ -1,6 +1,9 @@
 ---
-title: "Relationship Between Fixed Costs and Sunk Costs (Algo Trading)"
-description: "Explore the crucial relationship between sunk and fixed costs in algorithmic trading and learn how understanding these can optimize trading strategies and improve profitability."
+category: quant_concept
+description: Explore the crucial relationship between sunk and fixed costs in algorithmic
+  trading and learn how understanding these can optimize trading strategies and improve
+  profitability.
+title: Relationship Between Fixed Costs and Sunk Costs (Algo Trading)
 ---
 
 In finance and accounting, understanding cost structures is essential for making informed decisions. This article examines two critical cost concepts: sunk costs and fixed costs, which play significant roles in cost accounting and algorithmic trading. Sunk costs refer to expenses that have already occurred and are irreversible, while fixed costs are expenditures that remain constant regardless of production levels.

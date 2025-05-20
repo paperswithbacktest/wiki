@@ -1,6 +1,8 @@
 ---
-title: "Quick Ratio: Formula, Examples, Advantages, and Disadvantages (Algo Trading)"
-description: "Discover the quick ratio's significance in evaluating a company's immediate liquidity in algo trading. Learn its formula, advantages, and implications here."
+category: quant_concept
+description: Discover the quick ratio's significance in evaluating a company's immediate
+  liquidity in algo trading. Learn its formula, advantages, and implications here.
+title: 'Quick Ratio: Formula, Examples, Advantages, and Disadvantages (Algo Trading)'
 ---
 
 Liquidity ratios are fundamental tools in financial analysis, offering critical insights into a company's capacity to meet its short-term obligations. Among these ratios, the quick ratio stands out as it measures a company's ability to utilize its liquid assets to cover its current liabilities. Unlike the current ratio, the quick ratio provides a more stringent assessment by excluding inventory from its calculation, focusing on assets that can be quickly converted to cash. This approach offers a more accurate gauge of a firm's financial health and immediate liquidity.

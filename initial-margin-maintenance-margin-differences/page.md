@@ -1,6 +1,8 @@
 ---
-title: "Initial Margin and Maintenance Margin: Differences (Algo Trading)"
-description: "Explore the crucial differences between initial margin and maintenance margin in algorithmic trading to maximize returns and manage risk effectively."
+category: quant_concept
+description: Explore the crucial differences between initial margin and maintenance
+  margin in algorithmic trading to maximize returns and manage risk effectively.
+title: 'Initial Margin and Maintenance Margin: Differences (Algo Trading)'
 ---
 
 The world of trading and investing has undergone a significant transformation with the rise of margin and algorithmic trading. These innovative approaches have redefined traditional market dynamics, offering new strategies and mechanisms for enhancing financial performance. Margin trading, in particular, facilitates investments by allowing traders to use borrowed funds, thus amplifying potential returns. This method operates through a margin account, where traders are required to deposit an initial margin—essentially a security deposit to cover potential risks associated with leveraged positions. 

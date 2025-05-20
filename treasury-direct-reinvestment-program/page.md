@@ -1,6 +1,8 @@
 ---
-title: "Treasury Direct Reinvestment Program (Algo Trading)"
-description: "Explore the benefits of Treasury Direct Reinvestment Plans with algorithmic trading to enhance investment returns through automated dividend reinvestments."
+category: trading_strategy
+description: Explore the benefits of Treasury Direct Reinvestment Plans with algorithmic
+  trading to enhance investment returns through automated dividend reinvestments.
+title: Treasury Direct Reinvestment Program (Algo Trading)
 ---
 
 In the world of investing, strategies that maximize returns are crucial for investors seeking to boost their financial portfolios. One effective strategy involves Direct Reinvestment Plans (DRIPs), specifically focused on Treasury securities. These plans allow dividends to be automatically reinvested to purchase additional shares, thereby compounding returns over time.

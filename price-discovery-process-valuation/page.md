@@ -1,6 +1,9 @@
 ---
-title: "Price Discovery Process and Comparison with Valuation (Algo Trading)"
-description: "Explore the intricate processes of price discovery and valuation in financial markets while understanding the role of algorithmic trading in enhancing market efficiency."
+category: quant_concept
+description: Explore the intricate processes of price discovery and valuation in financial
+  markets while understanding the role of algorithmic trading in enhancing market
+  efficiency.
+title: Price Discovery Process and Comparison with Valuation (Algo Trading)
 ---
 
 The financial world is complex and dynamic, relying on a multitude of processes to facilitate the valuation and trading of assets. Key among these processes are valuation, price discovery, and algorithmic trading, each serving a distinct yet complementary function within the financial ecosystem.

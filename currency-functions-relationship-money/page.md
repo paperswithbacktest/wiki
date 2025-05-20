@@ -1,6 +1,13 @@
 ---
-title: "Currency: Functions and Relationship with Money (Algo Trading)"
-description: "Explore the intricate dynamics of money and its pivotal role within financial systems and economies. This deep dive investigates into the essence of currency and the transformative impact of algorithmic trading on global markets. From traditional banknotes to digital currencies like Bitcoin, the landscape is evolving, presenting opportunities and challenges. Grasp essential concepts to navigate the complexities of economic transactions and understand the forces driving financial innovation and stability in today's rapidly changing world."
+category: quant_concept
+description: Explore the intricate dynamics of money and its pivotal role within financial
+  systems and economies. This deep dive investigates into the essence of currency
+  and the transformative impact of algorithmic trading on global markets. From traditional
+  banknotes to digital currencies like Bitcoin, the landscape is evolving, presenting
+  opportunities and challenges. Grasp essential concepts to navigate the complexities
+  of economic transactions and understand the forces driving financial innovation
+  and stability in today's rapidly changing world.
+title: 'Currency: Functions and Relationship with Money (Algo Trading)'
 ---
 
 The modern financial landscape is a complex and dynamic environment characterized by its dependence on a multitude of elements, including money, financial systems, currencies, and algorithmic trading. These components not only shape how transactions are conducted but also influence broader economic stability and growth.

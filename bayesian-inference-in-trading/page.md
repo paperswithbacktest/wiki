@@ -1,6 +1,9 @@
 ---
-title: "Bayesian inference in trading (Algo Trading)"
-description: "Bayesian inference in algorithmic trading enhances decision-making by updating beliefs with new market data, leading to refined predictions and adaptive strategies."
+category: quant_concept
+description: Bayesian inference in algorithmic trading enhances decision-making by
+  updating beliefs with new market data, leading to refined predictions and adaptive
+  strategies.
+title: Bayesian inference in trading (Algo Trading)
 ---
 
 Bayesian inference, a significant statistical method, transforms our approach to uncertainty and probability by incorporating prior knowledge and evidence to update beliefs. Rooted in Bayes' theorem, which mathematically expresses the probability of an event based on prior knowledge of related conditions, Bayesian inference has become indispensable. This method contrasts with frequentist approaches that emphasize long-run frequency properties and instead allows for a dynamic updating process essential in many contemporary applications.

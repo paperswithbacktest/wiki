@@ -1,6 +1,8 @@
 ---
-title: "Fractal market hypothesis (Algo Trading)"
-description: "Explore the Fractal Market Hypothesis in algorithmic trading to enhance market prediction and risk management using fractal models for financial analysis."
+category: quant_concept
+description: Explore the Fractal Market Hypothesis in algorithmic trading to enhance
+  market prediction and risk management using fractal models for financial analysis.
+title: Fractal market hypothesis (Algo Trading)
 ---
 
 The Fractal Market Hypothesis (FMH) is a conceptual advance in understanding financial markets, especially through the lens of algorithmic trading. Originating from the principles of fractal geometry, FMH offers an innovative approach to deciphering the complexities inherent in financial time series analysis. As opposed to traditional linear models, which often fail to capture the intricate dynamics of markets, FMH posits that market behaviors are characterized by self-affine structures and scaling laws. This perspective allows for a more nuanced analysis of market data, reflecting the complexity and self-organizing characteristics of financial markets.

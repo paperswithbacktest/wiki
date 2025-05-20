@@ -1,6 +1,9 @@
 ---
-title: "Employment Act of 1946: Overview and Historical Context (Algo Trading)"
-description: "Explore the impact of the Employment Act of 1946 on U.S. economic policy by examining its role in stabilizing post-war economy through structured federal management."
+category: quant_concept
+description: Explore the impact of the Employment Act of 1946 on U.S. economic policy
+  by examining its role in stabilizing post-war economy through structured federal
+  management.
+title: 'Employment Act of 1946: Overview and Historical Context (Algo Trading)'
 ---
 
 The Employment Act of 1946 was a pivotal piece of legislation in the United States, crafted to address the economic challenges following World War II. During this period, the nation faced the daunting task of transitioning from a wartime economy to a peacetime one, with the potential threats of inflation, unemployment, and economic instability looming large. The act aimed to stabilize the economy by laying the groundwork for structured federal intervention. It sought to promote full employment, spur economic growth, and ensure stable prices in the emerging post-war era.

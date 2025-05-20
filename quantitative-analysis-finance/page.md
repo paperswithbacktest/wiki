@@ -1,6 +1,9 @@
 ---
-title: "Quantitative Analysis in Finance (Algo Trading)"
-description: "Explore the dynamics of quantitative analysis and algorithmic trading in finance Uncover how data-driven techniques enhance investment strategies and market operations"
+category: quant_concept
+description: Explore the dynamics of quantitative analysis and algorithmic trading
+  in finance Uncover how data-driven techniques enhance investment strategies and
+  market operations
+title: Quantitative Analysis in Finance (Algo Trading)
 ---
 
 In today's rapidly evolving financial landscape, quantitative analysis (QA) has emerged as a vital tool for making informed decisions. As data becomes increasingly abundant and complex, QA provides the framework to interpret this information objectively and effectively. This article explores the intersection of quantitative analysis, financial analysis, and algorithmic trading, offering insights into their roles and applications within the industry.

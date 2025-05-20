@@ -1,6 +1,8 @@
 ---
-title: "Impairment Charges: Analysis and Implications (Algo Trading)"
-description: "Explore the intersection of impairment charges and algo trading, highlighting their impact on financial accounting, asset valuation, and investment decisions."
+category: quant_concept
+description: Explore the intersection of impairment charges and algo trading, highlighting
+  their impact on financial accounting, asset valuation, and investment decisions.
+title: 'Impairment Charges: Analysis and Implications (Algo Trading)'
 ---
 
 Financial accounting is a systematic process that allows businesses to record, summarize, and report their financial transactions. It plays a crucial role in delivering accurate and comprehensive financial information to stakeholders, which is essential for making informed business decisions. Financial accounting involves key areas such as asset valuation and impairment charges. Asset valuation determines the worth of a company's resources, influencing strategic decisions and financial health assessments. Impairment charges represent reductions in the recoverable value of assets when their book value exceeds future cash flows, significantly impacting financial statements.

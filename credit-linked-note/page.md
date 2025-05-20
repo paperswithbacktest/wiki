@@ -1,6 +1,9 @@
 ---
-title: "Credit-Linked Note (Algo Trading)"
-description: "Explore the synergy between Credit-Linked Notes and algorithmic trading Discover how technology enhances CLN trading strategies optimizing returns and managing risks"
+category: quant_concept
+description: Explore the synergy between Credit-Linked Notes and algorithmic trading
+  Discover how technology enhances CLN trading strategies optimizing returns and managing
+  risks
+title: Credit-Linked Note (Algo Trading)
 ---
 
 Financial instruments are essential components of global financial markets, facilitating various economic activities such as investment, hedging, and risk management. They include a wide array of products such as stocks, bonds, derivatives, and hybrid instruments. Among these, Credit-Linked Notes (CLNs) have emerged as significant tools for investors and issuers alike. CLNs are hybrid financial instruments that combine the features of bonds and credit derivatives, allowing investors to gain exposure to credit risk while potentially enhancing returns.

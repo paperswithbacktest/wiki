@@ -1,6 +1,9 @@
 ---
-title: "Broker-Dealer Business Model (Algo Trading)"
-description: "Explore the transformative impact of algorithmic trading on broker-dealers enhancing trade efficiency and market liquidity while navigating regulatory challenges in finance."
+category: quant_concept
+description: Explore the transformative impact of algorithmic trading on broker-dealers
+  enhancing trade efficiency and market liquidity while navigating regulatory challenges
+  in finance.
+title: Broker-Dealer Business Model (Algo Trading)
 ---
 
 Broker-dealers hold a crucial position in the financial services ecosystem, acting as intermediaries that facilitate the buying and selling of securities for clients. As key players in financial markets, broker-dealers provide essential services such as executing trades, providing market liquidity, and offering investment advice. Traditionally, these activities were conducted manually, relying heavily on human expertise and decision-making. However, the financial industry has experienced significant transformation with the advent of algorithmic trading, which has fundamentally altered how broker-dealers operate.

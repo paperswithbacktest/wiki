@@ -1,7 +1,8 @@
 ---
-title: Advancing Image Manipulation in Machine Learning with DeepSIM
+category: quant_concept
 description: Image manipulation in machine learning uses DeepSIM to achieve realistic
   transformations with neural networks and data augmentation Discover more inside
+title: Advancing Image Manipulation in Machine Learning with DeepSIM
 ---
 
 ![Image](images/1.png)

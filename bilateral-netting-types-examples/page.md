@@ -1,6 +1,8 @@
 ---
-title: "Bilateral Netting: Types and Examples (Algo Trading)"
-description: "Explore the significance of bilateral netting in finance to streamline settlements reduce risks and improve efficiency in algorithmic trading and markets."
+category: quant_concept
+description: Explore the significance of bilateral netting in finance to streamline
+  settlements reduce risks and improve efficiency in algorithmic trading and markets.
+title: 'Bilateral Netting: Types and Examples (Algo Trading)'
 ---
 
 In the intricate world of finance, netting is a fundamental process that enhances efficiency and mitigates risk. Among its various forms, bilateral netting is particularly significant. This method allows two parties to consolidate all outstanding financial obligations into a single, net payment, effectively streamlining the settlement process. By reducing the number of transactions and their associated costs, bilateral netting plays a critical role in financial operations.

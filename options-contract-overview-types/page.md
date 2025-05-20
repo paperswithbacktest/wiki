@@ -1,6 +1,8 @@
 ---
-title: "Options Contract Overview and Types (Algo Trading)"
-description: "Discover the intricacies of options contracts and algorithmic trading Learn how financial derivatives like call and put options can enhance trading strategies"
+category: quant_concept
+description: Discover the intricacies of options contracts and algorithmic trading
+  Learn how financial derivatives like call and put options can enhance trading strategies
+title: Options Contract Overview and Types (Algo Trading)
 ---
 
 In the modern financial landscape, options contracts and algorithmic trading occupy a crucial niche. Financial derivatives, such as options contracts, offer traders and investors flexibility and leverage to manage risk, speculate, or enhance returns. Options contracts are agreements granting the holder the right, but not the obligation, to buy or sell an asset at a specified price before a certain date. This feature allows market participants to tailor their strategies extensively.

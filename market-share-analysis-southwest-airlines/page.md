@@ -1,6 +1,8 @@
 ---
-title: "Market Share Analysis of Southwest Airlines (Algo Trading)"
-description: "Explore Southwest Airlines' strategic market share growth in the aviation industry through unique business models and algorithmic trading optimization."
+category: dataset
+description: Explore Southwest Airlines' strategic market share growth in the aviation
+  industry through unique business models and algorithmic trading optimization.
+title: Market Share Analysis of Southwest Airlines (Algo Trading)
 ---
 
 The aviation industry, a cornerstone of global transportation, is undergoing rapid transformation. Characterized by relentless competition and constant innovation, this sector serves as a critical link in the worldwide economy. Among the many players jostling for position, Southwest Airlines has distinguished itself as a significant force. Founded in 1971, the airline has progressively evolved by implementing a unique business model that focuses on cost-efficiency and customer satisfaction. This strategic approach has allowed Southwest Airlines to secure a substantial portion of the market share in the domestic aviation landscape.

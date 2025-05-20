@@ -1,6 +1,9 @@
 ---
-title: "Federal Covered Advisor (Algo Trading)"
-description: "Explore the role of SEC compliance in algorithmic trading for investment advisors Learn to balance innovative strategies with regulatory standards for market integrity"
+category: quant_concept
+description: Explore the role of SEC compliance in algorithmic trading for investment
+  advisors Learn to balance innovative strategies with regulatory standards for market
+  integrity
+title: Federal Covered Advisor (Algo Trading)
 ---
 
 The financial landscape is undergoing continuous transformation due to advancements in technology and evolving regulatory challenges. As this evolution progresses, investment advisors find themselves at the forefront, tasked with steering assets and guiding clients through a complex and dynamic environment. One area of significant impact is algorithmic trading, a practice that utilizes advanced algorithms to execute trades rapidly and efficiently. This technological innovation presents both lucrative opportunities and substantial challenges.

@@ -1,6 +1,10 @@
 ---
-title: "Back Office in Business (Algo Trading)"
-description: "Discover the essential role of back office operations in supporting algorithmic trading. This article explores how these functions enhance trade efficiency, maintain compliance, and provide vital IT support, ensuring seamless execution of trading strategies and optimizing financial market performance."
+category: trading_strategy
+description: Discover the essential role of back office operations in supporting algorithmic
+  trading. This article explores how these functions enhance trade efficiency, maintain
+  compliance, and provide vital IT support, ensuring seamless execution of trading
+  strategies and optimizing financial market performance.
+title: Back Office in Business (Algo Trading)
 ---
 
 In finance, algorithmic trading has emerged as a revolutionary approach, employing advanced mathematical models and high-speed computers to execute trades with precision and speed. This sophisticated trading method depends heavily on robust back office operations, which provide essential support to ensure the seamless functioning of algorithmic trading strategies. These operations are crucial in the settlement of trades, maintaining records, managing compliance, and offering IT support, among other functions.

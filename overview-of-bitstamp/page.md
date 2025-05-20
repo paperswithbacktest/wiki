@@ -1,6 +1,9 @@
 ---
-title: "Overview of Bitstamp (Algo Trading)"
-description: "Explore Bitstamp a trusted crypto exchange since 2011 offering a reliable platform for both new and experienced traders with a focus on security and ease of use"
+category: dataset
+description: Explore Bitstamp a trusted crypto exchange since 2011 offering a reliable
+  platform for both new and experienced traders with a focus on security and ease
+  of use
+title: Overview of Bitstamp (Algo Trading)
 ---
 
 Bitstamp, founded in 2011, has established itself as one of the oldest and most reliable cryptocurrency exchanges globally. Recognized for its long-standing presence in the rapidly evolving cryptocurrency market, Bitstamp provides a platform that accommodates both novice and seasoned traders. Its longevity in the industry is a testament to its adaptability and commitment to meeting user needs.

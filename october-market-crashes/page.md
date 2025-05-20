@@ -1,6 +1,8 @@
 ---
-title: "October Market Crashes (Algo Trading)"
-description: "Explore the October Effect and market crashes influenced by algorithmic trading Learn historical insights and strategies to manage October volatility"
+category: quant_concept
+description: Explore the October Effect and market crashes influenced by algorithmic
+  trading Learn historical insights and strategies to manage October volatility
+title: October Market Crashes (Algo Trading)
 ---
 
 October has long been recognized as a month associated with significant market volatility and catastrophic financial events. Known for infamous financial crises, October has been marked by episodes that have left lasting impacts on investors and the global economy. This article explores the historical backdrop of these events and investigates into the psychological phenomenon termed the 'October Effect'.

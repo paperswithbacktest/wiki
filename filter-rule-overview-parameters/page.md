@@ -1,6 +1,9 @@
 ---
-title: "Filter Rule: Overview and Parameters (Algo Trading)"
-description: "Discover how the filter rule enhances algo trading by setting objective criteria for trades based on price changes Boost efficiency and precision in trading decisions"
+category: trading_strategy
+description: Discover how the filter rule enhances algo trading by setting objective
+  criteria for trades based on price changes Boost efficiency and precision in trading
+  decisions
+title: 'Filter Rule: Overview and Parameters (Algo Trading)'
 ---
 
 The world of trading presents a plethora of strategies and tools designed to gain an edge in the markets. Among these strategies, the filter rule stands out for its simplicity and effectiveness. The filter rule is a systematic approach that enables traders to establish objective criteria for buying and selling assets based on price variations. It operates on clear pre-set parameters that trigger trading actions once those are met. The approach focuses on capturing the essence of price trends, which serve as a fundamental aspect of technical analysis—a core component of the filter rule's effectiveness. 

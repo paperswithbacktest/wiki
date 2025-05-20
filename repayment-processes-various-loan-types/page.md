@@ -1,6 +1,9 @@
 ---
-title: "Repayment Processes for Various Loan Types (Algo Trading)"
-description: "Explore various loan types and their repayment strategies highlighting the role of algorithmic trading in optimizing and streamlining the loan management process."
+category: quant_concept
+description: Explore various loan types and their repayment strategies highlighting
+  the role of algorithmic trading in optimizing and streamlining the loan management
+  process.
+title: Repayment Processes for Various Loan Types (Algo Trading)
 ---
 
 Understanding the complexities of loan types and their respective repayment processes is crucial for borrowers and financial institutions alike. Loans are integral to both individual financial planning and broader economic frameworks, with various types offering specific benefits and obligations that cater to different needs. As financial landscapes evolve, the convergence of traditional financial strategies and modern technologies has brought about innovative methods to enhance loan management.

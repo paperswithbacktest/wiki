@@ -1,6 +1,9 @@
 ---
-title: "InterNotes (Algo Trading)"
-description: "Explore how InterNotes and algorithmic trading transform the corporate bond market offering retail investors structured debt security options and efficient trading strategies."
+category: quant_concept
+description: Explore how InterNotes and algorithmic trading transform the corporate
+  bond market offering retail investors structured debt security options and efficient
+  trading strategies.
+title: InterNotes (Algo Trading)
 ---
 
 In today's dynamic financial landscape, understanding financial instruments is crucial for investors aiming to maximize returns while managing risks. InterNotes have become a preferred choice for retail investors seeking higher yields within the corporate bond markets. These instruments offer a structured approach to investing in corporate debt, providing opportunities for individual investors traditionally limited to institutional participants.

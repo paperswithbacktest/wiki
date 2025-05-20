@@ -1,6 +1,9 @@
 ---
-title: "Degearing in Finance (Algo Trading)"
-description: "Explore how degearing and algorithmic trading shape financial strategies by reducing leverage and optimizing trading decisions for market resilience and competitive advantage."
+category: quant_concept
+description: Explore how degearing and algorithmic trading shape financial strategies
+  by reducing leverage and optimizing trading decisions for market resilience and
+  competitive advantage.
+title: Degearing in Finance (Algo Trading)
 ---
 
 In the complex world of corporate finance, leverage reduction, degearing, and algorithmic trading significantly influence corporate strategies. Leverage reduction, or degearing, involves decreasing a company's reliance on borrowed funds. This process aims to mitigate financial risk and enhance operational flexibility by lowering the debt-to-equity ratio. As financial environments become increasingly volatile, companies that effectively manage their leverage position themselves better to weather economic downturns and capitalize on growth opportunities.
@@ -115,4 +118,3 @@ Moreover, maintaining up-to-date risk management frameworks is indispensable in 
 - Jansen, Stefan, *Machine Learning for Algorithmic Trading*. Jansen provides a comprehensive guide on how to integrate machine learning techniques into trading algorithms. His book showcases practical examples and code implementations in Python, which are valuable for understanding algorithm adjustments during market changes like deleveraging.
 
 - Chan, Ernest P., *Quantitative Trading: How to Build Your Own Algorithmic Trading Business*. Chan's guide is an essential resource for traders looking to create and manage their own algorithmic trading strategies. It covers everything from backtesting to risk management and offers insight into developing systems resilient to market disruptions.
-

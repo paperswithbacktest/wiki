@@ -1,6 +1,9 @@
 ---
-title: "Demand Theory in Economics (Algo Trading)"
-description: "Explore how demand theory informs algorithmic trading strategies by examining consumer behavior's impact on market prices and trade execution, optimizing financial outcomes."
+category: quant_concept
+description: Explore how demand theory informs algorithmic trading strategies by examining
+  consumer behavior's impact on market prices and trade execution, optimizing financial
+  outcomes.
+title: Demand Theory in Economics (Algo Trading)
 ---
 
 In the modern world of finance, understanding the nuances of market behaviors is essential for navigating complex economic landscapes. Economic theories, developed over centuries, serve as the foundational tools for deconstructing these behaviors. Among these theories, demand theory stands as a pillar, crucial for deciphering how consumer preferences influence market prices and resource allocation. Demand theory posits that consumer behavior, specifically the desire and ability to purchase goods and services, directly impacts the price levels and supply dynamics within a market. This relationship is typically represented through demand curves and elasticity measurements, providing insights into how changes in price levels influence the quantity of goods demanded by consumers.

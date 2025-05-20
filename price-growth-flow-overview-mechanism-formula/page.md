@@ -1,6 +1,8 @@
 ---
-title: "Price-Growth Flow: Overview, Mechanism, and Formula (Algo Trading)"
-description: "Explore the synergy of economic indicators, price-growth models, and algo trading in modern markets. Equip yourself with insights for strategic trading."
+category: quant_concept
+description: Explore the synergy of economic indicators, price-growth models, and
+  algo trading in modern markets. Equip yourself with insights for strategic trading.
+title: 'Price-Growth Flow: Overview, Mechanism, and Formula (Algo Trading)'
 ---
 
 The article explores the intersection of economic indicators, price-growth models, and algorithmic trading, examining how these elements coalesce to shape modern financial markets. Economic indicators serve as the heartbeat of economies, providing insights into economic health and direction. These indicators, ranging from Gross Domestic Product (GDP) figures to unemployment and inflation rates, are instrumental in crafting financial models that guide investment decisions and strategies. By analyzing these indicators, traders and financial modelers can develop predictive models that anticipate market shifts and inform trading strategies.
@@ -212,4 +214,3 @@ The importance of continual learning and adaptation cannot be overstated in this
 6. **Software and Programming Resources**:
    - *Python for Finance: Mastering Data-Driven Finance* by Yves Hilpisch: Provides an overview of using Python for financial analyses, emphasizing how to integrate economic indicators into trading algorithms.
    - *GitHub Repositories on Algorithmic Trading*: Platforms offering open-source code and projects focused on developing and testing trading strategies using real economic data.
-

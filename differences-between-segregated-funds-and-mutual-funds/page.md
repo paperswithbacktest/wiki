@@ -1,6 +1,9 @@
 ---
-title: "Differences Between Segregated Funds and Mutual Funds (Algo Trading)"
-description: "Explore the key differences between segregated funds and mutual funds as investment options and understand how algorithmic trading contrasts with these traditional vehicles."
+category: quant_concept
+description: Explore the key differences between segregated funds and mutual funds
+  as investment options and understand how algorithmic trading contrasts with these
+  traditional vehicles.
+title: Differences Between Segregated Funds and Mutual Funds (Algo Trading)
 ---
 
 Investing in funds presents a range of opportunities for accumulating wealth, with mutual funds and segregated funds standing out as popular choices among investors. Mutual funds, which pool investments from various individuals to create a diversified portfolio managed by professional fund managers, have long been favored for their accessibility and potential for growth. On the other hand, segregated funds, offered by insurance companies, provide a unique combination of investment and insurance benefits, including guarantees that can protect against market downturns, making them particularly attractive to those with a focus on risk mitigation.

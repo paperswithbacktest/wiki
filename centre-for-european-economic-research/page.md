@@ -1,6 +1,8 @@
 ---
-title: "Centre for European Economic Research (Algo Trading)"
-description: "Discover how the Centre for European Economic Research impacts economic policy and algorithmic trading through insightful analysis and expert data."
+category: quant_concept
+description: Discover how the Centre for European Economic Research impacts economic
+  policy and algorithmic trading through insightful analysis and expert data.
+title: Centre for European Economic Research (Algo Trading)
 ---
 
 In today's fast-paced financial world, understanding economic research and its interaction with algorithmic trading is crucial for investors, analysts, and policymakers. As financial markets grow more intricate, the need for timely and insightful economic analysis becomes increasingly important. This is where institutions like the ZEW (Centre for European Economic Research) play an essential role, providing valuable insights into economic trends and sentiments within Europe.

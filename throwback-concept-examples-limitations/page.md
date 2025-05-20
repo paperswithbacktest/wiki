@@ -1,6 +1,8 @@
 ---
-title: "Throwback: Concept, Examples, and Limitations (Algo Trading)"
-description: "Explore the concept of throwbacks in algorithmic trading including examples and limitations Understand how recognizing throwbacks can enhance trading strategies"
+category: quant_concept
+description: Explore the concept of throwbacks in algorithmic trading including examples
+  and limitations Understand how recognizing throwbacks can enhance trading strategies
+title: 'Throwback: Concept, Examples, and Limitations (Algo Trading)'
 ---
 
 Algorithmic trading has transformed the financial industry by enabling the execution of trades with a degree of speed and precision unattainable through manual methods. This form of trading uses complex algorithms to make decisions based on predefined criteria and market conditions, allowing for the high-frequency trading of assets. As a result, traders can capitalize on fleeting market opportunities faster than human intuition and reaction times allow.

@@ -1,6 +1,8 @@
 ---
-title: "Cover: Definitions, Overview, And Applications (Algo Trading)"
-description: "Explore algorithmic trading definitions overview and applications Discover how algo trading enhances efficiency across markets and the top platforms used today"
+category: quant_concept
+description: Explore algorithmic trading definitions overview and applications Discover
+  how algo trading enhances efficiency across markets and the top platforms used today
+title: 'Cover: Definitions, Overview, And Applications (Algo Trading)'
 ---
 
 Algorithmic trading, often referred to as algo trading, involves the use of computer programs to execute trading strategies at high speed and volume. These programs are engineered to follow predefined instructions for trading, which may involve timings, prices, or quantities, allowing them to operate seamlessly across various asset classes. This article will explore the concept of algorithmic trading, discuss its numerous applications, and outline some of the leading platforms and software utilized in this domain. Furthermore, we will examine the pros and cons of algo trading and offer guidance on selecting the right platform tailored to different trading needs. By the conclusion of this article, you will have gained a comprehensive understanding of how algorithmic trading functions and how it can be effectively leveraged for investment purposes.

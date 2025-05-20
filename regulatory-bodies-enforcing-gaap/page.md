@@ -1,6 +1,8 @@
 ---
-title: "Regulatory Bodies Enforcing GAAP (Algo Trading)"
-description: "Explore how regulatory bodies like FASB and SEC enforce GAAP standards in the evolving world of algorithmic trading ensuring transparency and compliance."
+category: quant_concept
+description: Explore how regulatory bodies like FASB and SEC enforce GAAP standards
+  in the evolving world of algorithmic trading ensuring transparency and compliance.
+title: Regulatory Bodies Enforcing GAAP (Algo Trading)
 ---
 
 The modern financial landscape is intricately woven with a variety of complex elements, among which accounting standards, regulatory enforcement, and algorithmic trading (algo trading) stand prominently. Algorithmic trading, characterized by the use of automated and systematic algorithms to execute financial transactions, has significantly transformed market dynamics by increasing transaction speed and efficiency. It has introduced complexities that intersect with accounting standards such as the Generally Accepted Accounting Principles (GAAP), which are crucial for ensuring consistency, reliability, and comparability in financial reporting.

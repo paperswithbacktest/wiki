@@ -1,6 +1,9 @@
 ---
-title: "Applications of Artificial Intelligence by the U.S. Government (Algo Trading)"
-description: "Explore how the U.S. government utilizes AI in algorithmic trading for enhanced financial transactions providing insights into AI's implications on economy and technology."
+category: quant_concept
+description: Explore how the U.S. government utilizes AI in algorithmic trading for
+  enhanced financial transactions providing insights into AI's implications on economy
+  and technology.
+title: Applications of Artificial Intelligence by the U.S. Government (Algo Trading)
 ---
 
 Artificial Intelligence (AI) has emerged as a revolutionary force in various sectors, driving significant advancements and transforming industries across the globe. From healthcare and manufacturing to finance and transportation, AI technologies are reshaping how businesses operate and societies function. By automating complex processes, enhancing decision-making, and providing unprecedented data analysis capabilities, AI holds the potential to significantly boost productivity and innovation.

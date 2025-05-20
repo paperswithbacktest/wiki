@@ -1,6 +1,9 @@
 ---
-title: "Charlie Shrem (Algo Trading)"
-description: "Explore Charlie Shrem's pivotal role in the early adoption of Bitcoin and the relevance of algorithmic trading in managing cryptocurrency market complexities efficiently."
+category: quant_concept
+description: Explore Charlie Shrem's pivotal role in the early adoption of Bitcoin
+  and the relevance of algorithmic trading in managing cryptocurrency market complexities
+  efficiently.
+title: Charlie Shrem (Algo Trading)
 ---
 
 Charlie Shrem is a well-known figure in the cryptocurrency industry, recognized for his pivotal role in the early adoption and integration of Bitcoin. His journey with Bitcoin began during his college years when he identified the potential of this digital currency to revolutionize financial transactions. Shrem's entrepreneurial spirit and technical prowess led him to become one of Bitcoin's earliest advocates, contributing significantly to its dissemination and mainstream acknowledgment.

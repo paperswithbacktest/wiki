@@ -1,6 +1,9 @@
 ---
-title: "Fractional Ownership: Overview and Examples (Algo Trading)"
-description: "Explore the dynamics of fractional ownership and algorithmic trading in real estate Learn how shared ownership models are enhanced by tech-driven investment strategies"
+category: quant_concept
+description: Explore the dynamics of fractional ownership and algorithmic trading
+  in real estate Learn how shared ownership models are enhanced by tech-driven investment
+  strategies
+title: 'Fractional Ownership: Overview and Examples (Algo Trading)'
 ---
 
 Shared ownership, fractional ownership, and property investment are increasingly relevant concepts in today's real estate market. Shared ownership entails multiple parties owning a portion of a single property. This model allows individuals to purchase part of a property, often making real estate more accessible by lowering upfront costs. Fractional ownership, while somewhat similar, involves purchasing shares in the property that provide defined rights to use and possibly profit from the property. This method is commonly seen in vacation homes and commercial properties, allowing investors to benefit from rental income or property appreciation.

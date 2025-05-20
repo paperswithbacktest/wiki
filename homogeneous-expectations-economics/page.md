@@ -1,6 +1,9 @@
 ---
-title: "Homogeneous Expectations in Economics (Algo Trading)"
-description: "Explore how homogeneous expectations in economics and cutting-edge algorithmic trading shape investment strategies by merging theory and technology for precision and impact."
+category: quant_concept
+description: Explore how homogeneous expectations in economics and cutting-edge algorithmic
+  trading shape investment strategies by merging theory and technology for precision
+  and impact.
+title: Homogeneous Expectations in Economics (Algo Trading)
 ---
 
 In the fast-paced world of finance, crafting successful investment strategies is fundamentally dependent on a comprehensive understanding of both theoretical and technological advances. Theoretical foundations, such as economic theories, provide the essential framework upon which these strategies are built. A key component in this regard is the concept of homogeneous expectations, originating from Harry Markowitz's Modern Portfolio Theory (MPT). This theory suggests that all investors predict similar outcomes for the performance of securities, reinforcing the idea of investors as rational actors making decisions based purely on available information.

@@ -1,6 +1,9 @@
 ---
-title: "Warrants and Call Options (Algo Trading)"
-description: "Explore the intricacies of warrants and call options in algo trading with insights into their strategic uses, differences, and the role of algorithmic systems."
+category: quant_concept
+description: Explore the intricacies of warrants and call options in algo trading
+  with insights into their strategic uses, differences, and the role of algorithmic
+  systems.
+title: Warrants and Call Options (Algo Trading)
 ---
 
 In the intricate world of finance, derivatives have become pivotal instruments for risk management and speculation. These complex financial constructs derive their value from underlying assets and provide mechanisms for hedging and leveraging positions in various market conditions. Among the myriad forms of derivatives, call options and warrants stand out due to their unique characteristics and strategic uses in the financial markets. 

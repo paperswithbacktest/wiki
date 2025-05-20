@@ -1,6 +1,11 @@
 ---
-title: "Revenue: Formula, Calculation, and Examples (Algo Trading)"
-description: "Explore the complexities of revenue calculation and how algorithmic trading is shaping modern financial markets. Understand the role of revenue as a key indicator of business health and its impact on investment and growth. Discover industry examples illustrating diverse revenue streams and learn how these concepts are crucial for competitive business strategies."
+category: quant_concept
+description: Explore the complexities of revenue calculation and how algorithmic trading
+  is shaping modern financial markets. Understand the role of revenue as a key indicator
+  of business health and its impact on investment and growth. Discover industry examples
+  illustrating diverse revenue streams and learn how these concepts are crucial for
+  competitive business strategies.
+title: 'Revenue: Formula, Calculation, and Examples (Algo Trading)'
 ---
 
 In today's financial landscape, revenue calculation plays a pivotal role in determining the success and growth of a business. Revenue, commonly referred to as the top line, is the income generated from goods or services before deducting any expenses. It serves as a primary indicator of a company's financial health, impacting its ability to invest, expand, and innovate. Furthermore, revenue figures are crucial for investors and stakeholders as they assess a company's market performance.

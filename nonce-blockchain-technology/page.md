@@ -1,6 +1,8 @@
 ---
-title: "Nonce in Blockchain Technology (Algo Trading)"
-description: "Discover how cryptography, blockchain, and algorithmic trading intersect to enhance security, efficiency, and transparency in the evolving digital landscape."
+category: quant_concept
+description: Discover how cryptography, blockchain, and algorithmic trading intersect
+  to enhance security, efficiency, and transparency in the evolving digital landscape.
+title: Nonce in Blockchain Technology (Algo Trading)
 ---
 
 The digital landscape is continuously evolving, driven by advancements in technology and the increasing interconnectedness of various domains. Cryptography stands as a cornerstone of this progression, serving as a fundamental component in securing communications, protecting data, and ensuring privacy. At its core, cryptography involves the development and analysis of protocols that prevent third parties from reading private messages. Concepts such as encryption, decryption, and cryptographic keys are central to its application, providing the basis for secure digital interactions across the globe.

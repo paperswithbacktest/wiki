@@ -1,6 +1,13 @@
 ---
-title: "Seasonal trading strategies (Algo Trading)"
-description: Explore seasonal trading strategies in algorithmic trading where predictable market trends at specific times are leveraged to optimize investment outcomes. Learn how these strategies use historical data to exploit patterns like the "January Effect" affecting various asset classes beyond equities, including commodities. Discover how traders integrate these strategies using advanced algorithms and machine learning models to predict and capitalize on recurring seasonal market behaviors for enhanced trading efficiency and accuracy.
+category: trading_strategy
+description: Explore seasonal trading strategies in algorithmic trading where predictable
+  market trends at specific times are leveraged to optimize investment outcomes. Learn
+  how these strategies use historical data to exploit patterns like the "January Effect"
+  affecting various asset classes beyond equities, including commodities. Discover
+  how traders integrate these strategies using advanced algorithms and machine learning
+  models to predict and capitalize on recurring seasonal market behaviors for enhanced
+  trading efficiency and accuracy.
+title: Seasonal trading strategies (Algo Trading)
 ---
 
 Algorithmic trading has significantly changed financial markets by allowing orders to be executed with unmatched speed and accuracy. This innovative approach utilizes computer algorithms to automate trading processes, enabling traders to take advantage of fleeting market opportunities that would be challenging to capture manually. Within this domain, seasonal trading strategies are particularly noteworthy. These strategies leverage predictable market trends associated with specific times of the year, making them a powerful tool for traders looking to optimize their investment outcomes.
@@ -148,4 +155,3 @@ Lopez de Prado, M. (2018). 'Advances in Financial Machine Learning.' This work i
 Jansen, S. (2020). 'Machine Learning for Algorithmic Trading.' Jansen discusses the application of machine learning in trading, providing detailed examples of how models can be trained to recognize and exploit seasonal trends, enhancing algorithmic strategies.
 
 Aronson, D. R. (2007). 'Evidence-Based Technical Analysis.' Aronson's book emphasizes the importance of statistically validating trading strategies, including those based on seasonal patterns, to avoid overfitting and ensure robust decision-making.
-

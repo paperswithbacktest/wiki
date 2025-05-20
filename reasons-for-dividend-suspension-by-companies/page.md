@@ -1,6 +1,9 @@
 ---
-title: "Reasons for Dividend Suspension by Companies (Algo Trading)"
-description: "Explore why companies suspend dividends amid financial challenges and the impact of algorithmic trading on these decisions essential for investors and companies alike."
+category: quant_concept
+description: Explore why companies suspend dividends amid financial challenges and
+  the impact of algorithmic trading on these decisions essential for investors and
+  companies alike.
+title: Reasons for Dividend Suspension by Companies (Algo Trading)
 ---
 
 In today's fast-paced financial world, companies frequently encounter challenging decisions regarding their dividend policies, decisions that hold significant implications for both the company and its shareholders. Dividends, which represent a portion of a company's earnings distributed to shareholders, are often seen as indicators of a company's financial health. Regular dividend payments are associated with stability and growth, thereby attracting investors' attention and influencing their investment choices.

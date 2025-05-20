@@ -1,6 +1,12 @@
 ---
-title: "Finance (Algo Trading)"
-description: Explore how algorithmic trading is revolutionizing the financial sector by automating trade operations with advanced algorithms and quantitative models. Gain insights into the role of finance in crafting effective trading strategies and the critical skills needed to navigate the complexities of modern markets. Discover the benefits and challenges of algo trading and its impact on speed, precision, and cost efficiency in trading execution.
+category: quant_concept
+description: Explore how algorithmic trading is revolutionizing the financial sector
+  by automating trade operations with advanced algorithms and quantitative models.
+  Gain insights into the role of finance in crafting effective trading strategies
+  and the critical skills needed to navigate the complexities of modern markets. Discover
+  the benefits and challenges of algo trading and its impact on speed, precision,
+  and cost efficiency in trading execution.
+title: Finance (Algo Trading)
 ---
 
 Algorithmic trading, commonly referred to as algo trading, has significantly transformed the financial sector by leveraging sophisticated computing to automate trading operations. The core of this transformation lies in utilizing advanced algorithms and quantitative models to make swift and efficient trading decisions, far surpassing human capabilities in both speed and volume. This automation marks a pivotal shift from traditional trading methods, bringing about a new era where precision and efficiency are paramount.

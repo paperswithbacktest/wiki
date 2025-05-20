@@ -1,6 +1,8 @@
 ---
-title: "Wiener process (Algo Trading)"
-description: "Explore the Wiener process in algorithmic trading, detailing its stochastic properties, role in financial modeling, and applications in risk management."
+category: quant_concept
+description: Explore the Wiener process in algorithmic trading, detailing its stochastic
+  properties, role in financial modeling, and applications in risk management.
+title: Wiener process (Algo Trading)
 ---
 
 The Wiener process, also known as Brownian motion, is a pivotal concept in algorithmic trading. It plays a crucial role in modeling the stochastic nature of asset price movements over time, offering a mathematical framework to represent randomness in financial markets. The process is characterized by its continuous path and normally distributed increments independent of each other, making it a robust tool for modeling financial assets' behavior.

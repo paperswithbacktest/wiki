@@ -1,6 +1,9 @@
 ---
-title: "Positive Butterfly Strategy in Fixed Income Trading (Algo Trading)"
-description: "Explore the Positive Butterfly Strategy in fixed income trading leveraging algorithmic techniques to optimize bond portfolios by interpreting yield curve movements efficiently."
+category: trading_strategy
+description: Explore the Positive Butterfly Strategy in fixed income trading leveraging
+  algorithmic techniques to optimize bond portfolios by interpreting yield curve movements
+  efficiently.
+title: Positive Butterfly Strategy in Fixed Income Trading (Algo Trading)
 ---
 
 Fixed income trading is a crucial component of the financial markets, offering investors a steady income stream through investments like bonds, treasury bills, and other debt instruments. These securities are typically characterized by a fixed interest payment until maturity, making them attractive for risk-averse investors seeking stable returns and portfolio diversification. Fixed income trading plays a significant role in the financial ecosystem by providing liquidity and aiding in price discovery for debt instruments.

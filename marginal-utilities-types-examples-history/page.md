@@ -1,6 +1,9 @@
 ---
-title: "Marginal Utilities: Types, Examples, and History (Algo Trading)"
-description: "Explore the intricate world of marginal utilities in economic theory and algorithmic trading Unveil how understanding utility shapes consumer choices and market dynamics"
+category: quant_concept
+description: Explore the intricate world of marginal utilities in economic theory
+  and algorithmic trading Unveil how understanding utility shapes consumer choices
+  and market dynamics
+title: 'Marginal Utilities: Types, Examples, and History (Algo Trading)'
 ---
 
 Utility analysis and economic theory are fundamental components that shape our understanding of consumer choice and decision-making processes. At the heart of these theories lies the concept of utility, which measures satisfaction or pleasure derived from consuming goods and services. Central to utility analysis is the notion of marginal utility, which is pivotal in interpreting how consumers allocate their resources and make purchasing decisions. Marginal utility refers to the additional satisfaction gained from consuming an additional unit of a good or service, influencing not only individual choices but also broader market dynamics.

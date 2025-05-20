@@ -1,6 +1,8 @@
 ---
-title: "Dow Jones Industrial Average Record High (Algo Trading)"
-description: "Explore how algorithmic trading impacts the Dow Jones Industrial Average DJIA's record highs considering increased market efficiency and potential volatility."
+category: quant_concept
+description: Explore how algorithmic trading impacts the Dow Jones Industrial Average
+  DJIA's record highs considering increased market efficiency and potential volatility.
+title: Dow Jones Industrial Average Record High (Algo Trading)
 ---
 
 The Dow Jones Industrial Average (DJIA) is a prominent stock market index that serves as a barometer for the health of the United States economy. Created by Charles Dow in 1896, the DJIA tracks 30 significant publicly traded companies across various sectors, providing insight into market trends and investor sentiment. As one of the oldest and most widely recognized indices, its fluctuations are meticulously analyzed by investors, economists, and policymakers alike, making it a critical component of financial discourse.

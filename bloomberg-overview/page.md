@@ -1,6 +1,9 @@
 ---
-title: "Bloomberg Overview (Algo Trading)"
-description: "Explore Bloomberg's transformative impact on algorithmic trading with insights into their data services and technology innovations that enhance market strategies and decisions."
+category: dataset
+description: Explore Bloomberg's transformative impact on algorithmic trading with
+  insights into their data services and technology innovations that enhance market
+  strategies and decisions.
+title: Bloomberg Overview (Algo Trading)
 ---
 
 The intersection of media finance, Bloomberg, and algorithmic trading represents a transformative shift in how financial markets operate. Bloomberg L.P., established in 1981, has become a cornerstone in this evolution, known for its comprehensive financial data and media services. As a financial data and media company, Bloomberg has significantly shaped the information landscape, facilitating access to real-time data that informs trading decisions and market strategies. The Bloomberg Terminal, a flagship product, is instrumental, providing users with unparalleled access to financial data, analytics, and trading capabilities. This tool has cemented Bloomberg's significance, becoming a vital resource in financial markets worldwide.

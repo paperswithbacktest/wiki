@@ -1,6 +1,13 @@
 ---
-title: "Predicted probabilities in bet sizing (Algo Trading)"
-description: Explore how predicted probabilities influence bet sizing in algorithmic trading systems. Learn about machine learning techniques used to predict market outcomes and their role in optimizing capital allocation. Understand methodologies for dynamic bet sizing that enhance profitability and minimize risk, while adapting to real-time market conditions. Discover how integrating machine learning-driven predictions can refine trading strategies, manage risk, and ensure effective decision-making in variable market environments.
+category: trading_strategy
+description: Explore how predicted probabilities influence bet sizing in algorithmic
+  trading systems. Learn about machine learning techniques used to predict market
+  outcomes and their role in optimizing capital allocation. Understand methodologies
+  for dynamic bet sizing that enhance profitability and minimize risk, while adapting
+  to real-time market conditions. Discover how integrating machine learning-driven
+  predictions can refine trading strategies, manage risk, and ensure effective decision-making
+  in variable market environments.
+title: Predicted probabilities in bet sizing (Algo Trading)
 ---
 
 Algorithmic trading involves the use of computer algorithms to make trading decisions. A key aspect of these systems is bet sizing, which refers to the determination of how much capital to allocate for each trade. This decision can greatly impact the profitability and risk exposure of trading strategies. Predicted probabilities, often generated through machine learning algorithms, can significantly influence bet sizing by providing a quantifiable assessment of a trade's likelihood of success.

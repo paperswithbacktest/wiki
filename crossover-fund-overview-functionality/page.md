@@ -1,6 +1,8 @@
 ---
-title: "Crossover Fund: Overview and Functionality (Algo Trading)"
-description: "Explore the dynamic interplay of crossover funds and algorithmic trading to optimize investment portfolios and navigate financial market complexities effectively."
+category: trading_strategy
+description: Explore the dynamic interplay of crossover funds and algorithmic trading
+  to optimize investment portfolios and navigate financial market complexities effectively.
+title: 'Crossover Fund: Overview and Functionality (Algo Trading)'
 ---
 
 The financial markets provide a diverse array of investment opportunities, each characterized by distinct strategies and associated risks. Investors are often on a quest to optimize returns while managing exposure to market volatility. In this pursuit, crossover funds and algorithmic trading have emerged as pivotal areas of interest for those aiming to diversify their portfolios effectively.

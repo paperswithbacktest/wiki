@@ -1,6 +1,9 @@
 ---
-title: "Cold Storage: Operation and Security (Algo Trading)"
-description: "Explore how cold storage enhances security in algorithmic trading by keeping assets offline to prevent cyber threats ensuring both asset protection and efficient trading."
+category: quant_concept
+description: Explore how cold storage enhances security in algorithmic trading by
+  keeping assets offline to prevent cyber threats ensuring both asset protection and
+  efficient trading.
+title: 'Cold Storage: Operation and Security (Algo Trading)'
 ---
 
 Cold storage is a method used across various industries to preserve and secure valuable assets, primarily by keeping them in conditions that limit exposure to external vulnerabilities. In the digital age, cold storage has gained significant prominence due to its capability to protect digital assets from cyber threats. This is especially evident in the domain of digital currencies, where cold storage is employed to safeguard cryptocurrencies by storing private keys offline, thereby minimizing the risk of theft from online attacks.

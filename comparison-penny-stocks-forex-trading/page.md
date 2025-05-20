@@ -1,6 +1,8 @@
 ---
-title: "Comparison of Penny Stocks and Forex Trading (Algo Trading)"
-description: "Explore the differences between penny stocks and forex trading emphasizing their unique risks and opportunities to optimize financial returns using algo trading."
+category: trading_strategy
+description: Explore the differences between penny stocks and forex trading emphasizing
+  their unique risks and opportunities to optimize financial returns using algo trading.
+title: Comparison of Penny Stocks and Forex Trading (Algo Trading)
 ---
 
 Investment alternatives such as penny stocks, forex trading, and algorithmic trading (algo trading) offer diverse opportunities for optimizing financial returns. Each avenue presents unique characteristics and challenges, making it crucial for investors to understand these options to align their strategies with their personal financial goals.

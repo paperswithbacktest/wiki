@@ -1,7 +1,8 @@
 ---
-title: Understanding Auxiliary Loss in Neural Network Training
+category: quant_concept
 description: Auxiliary loss enhances ML model training by guiding models to learn
   robust features that boost accuracy and reduce overfitting Discover more inside
+title: Understanding Auxiliary Loss in Neural Network Training
 ---
 
 ![Image](images/1.png)

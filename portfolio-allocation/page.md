@@ -1,6 +1,9 @@
 ---
-title: "Portfolio Allocation (Algo Trading)"
-description: "Explore the key benefits of algorithmic trading in portfolio allocation to enhance investment efficiency minimize risks and maximize returns in financial markets."
+category: trading_strategy
+description: Explore the key benefits of algorithmic trading in portfolio allocation
+  to enhance investment efficiency minimize risks and maximize returns in financial
+  markets.
+title: Portfolio Allocation (Algo Trading)
 ---
 
 In the dynamic world of finance, portfolio allocation plays a critical role in achieving financial goals and managing risk. It encompasses the strategic distribution of an individual’s or institution’s investments across various asset classes, such as equities, bonds, and real estate, to optimize the balance between risk and return. Traditionally, this process required manual analysis and decision-making, often relying on subjective judgment and historical data. However, the advent of algorithmic trading, commonly known as algo trading, has revolutionized portfolio management by introducing automation and enhancing efficiency.

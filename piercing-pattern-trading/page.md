@@ -1,6 +1,8 @@
 ---
-title: "Piercing Pattern in Trading (Algo Trading)"
-description: "Understand how the Piercing Pattern functions in algorithmic trading Learn how this bullish reversal pattern can enhance your trading strategy effectiveness"
+category: trading_strategy
+description: Understand how the Piercing Pattern functions in algorithmic trading
+  Learn how this bullish reversal pattern can enhance your trading strategy effectiveness
+title: Piercing Pattern in Trading (Algo Trading)
 ---
 
 Trading strategies are essential tools for investors and traders aiming to maximize their returns while minimizing risk in the financial markets. Among the various approaches, candlestick patterns remain a popular choice due to their ability to visually convey complex market data and potential price movements. Developed in Japan over three centuries ago, candlestick charts provide a graphical representation of price movements, capturing the open, high, low, and close of a particular asset within a specific time period.

@@ -1,6 +1,8 @@
 ---
-title: "Frictionless Market: Concepts and Mechanisms (Algo Trading)"
-description: "Explore the interplay between frictionless market concepts and algorithmic trading in modern finance Understanding market dynamics and optimizing trade efficiencies"
+category: quant_concept
+description: Explore the interplay between frictionless market concepts and algorithmic
+  trading in modern finance Understanding market dynamics and optimizing trade efficiencies
+title: 'Frictionless Market: Concepts and Mechanisms (Algo Trading)'
 ---
 
 In the complex world of economics and trading, theoretical concepts like the frictionless market hold significant value for understanding market dynamics. A frictionless market represents an ideal state where transaction costs and trading restraints are non-existent, allowing continuous and cost-free trading. This hypothetical scenario provides an essential framework for developing economic theories and crafting sophisticated models. By assuming no transaction costs, economic theorists can focus on fundamental market mechanics, predicting pricing trends and understanding market behavior with greater precision.

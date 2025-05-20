@@ -1,6 +1,8 @@
 ---
-title: "Trading Halt: Overview, Mechanisms, and Causes (Algo Trading)"
-description: "Discover the role of trading halts in stabilizing markets during rapid price changes and their impact on algorithmic trading. Essential reading for traders."
+category: quant_concept
+description: Discover the role of trading halts in stabilizing markets during rapid
+  price changes and their impact on algorithmic trading. Essential reading for traders.
+title: 'Trading Halt: Overview, Mechanisms, and Causes (Algo Trading)'
 ---
 
 Trading suspensions and halts are essential tools in maintaining the stability and integrity of the stock market. They are mechanisms designed to protect investors and preserve market order by temporarily pausing trading activities under specific circumstances. These circumstances can include regulatory concerns where compliance issues arise, large and potentially destabilizing price movements, or the need for disseminating crucial information to market participants.

@@ -1,7 +1,8 @@
 ---
-title: Understanding Centroid Based Clustering for Machine Learning
+category: quant_concept
 description: Centroid based clustering groups data by finding central points and iteratively
   refining clusters for precise segmentation in machine learning Discover more inside
+title: Understanding Centroid Based Clustering for Machine Learning
 ---
 
 ![Image](images/1.webp)

@@ -1,7 +1,8 @@
 ---
-title: Model Robustness With Adversarial Image Data Augmentation
+category: quant_concept
 description: Adversarial Image Data Augmentation strengthens classifiers by training
   on hard examples that boost accuracy and resilience Discover more inside
+title: Model Robustness With Adversarial Image Data Augmentation
 ---
 
 ![Image](images/1.png)

@@ -1,6 +1,9 @@
 ---
-title: "Intraday Intensity Index (Algo Trading)"
-description: "Explore intraday intensity in financial index trading, where trading metrics merge with algorithmic strategies to harness market dynamics and enhance performance."
+category: trading_strategy
+description: Explore intraday intensity in financial index trading, where trading
+  metrics merge with algorithmic strategies to harness market dynamics and enhance
+  performance.
+title: Intraday Intensity Index (Algo Trading)
 ---
 
 In the fast-paced world of finance, trading on indexes has become a crucial aspect for investors looking to capitalize on market trends. Financial index trading involves buying and selling stock indexes based on major market indices such as the S&P 500, Dow Jones Industrial Average, and NASDAQ Composite. These indices serve as representative samples of the broader market, reflecting the performance of selected stocks that define their respective sectors.

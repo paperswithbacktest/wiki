@@ -1,6 +1,9 @@
 ---
-title: "Inflation-Adjusted Return (Algo Trading)"
-description: "Explore inflation-adjusted returns and algorithmic trading for a true understanding of investment performance. Learn how to optimize returns in inflationary times."
+category: quant_concept
+description: Explore inflation-adjusted returns and algorithmic trading for a true
+  understanding of investment performance. Learn how to optimize returns in inflationary
+  times.
+title: Inflation-Adjusted Return (Algo Trading)
 ---
 
 In the complex world of investing, understanding the impact of inflation on returns is crucial. Inflation, defined as the rate at which the general level of prices for goods and services rises, erodes the purchasing power of money over time. As a result, the nominal returns on an investment, which are the gross earnings without any adjustments, can give a skewed picture of the actual financial gain. Without considering inflation, these returns can be misleading, making investments appear more profitable than they truly are in terms of purchasing power. 

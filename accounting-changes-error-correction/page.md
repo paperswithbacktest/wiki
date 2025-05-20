@@ -1,6 +1,8 @@
 ---
-title: "Accounting Changes and Error Correction (Algo Trading)"
-description: "Explore accounting changes, error correction, and algorithmic trading fundamentals in financial reporting, essential for transparency and regulatory compliance."
+category: quant_concept
+description: Explore accounting changes, error correction, and algorithmic trading
+  fundamentals in financial reporting, essential for transparency and regulatory compliance.
+title: Accounting Changes and Error Correction (Algo Trading)
 ---
 
 Accurate and reliable financial reporting is fundamental in the contemporary financial landscape, characterized by rapid technological advancements and evolving regulatory demands. Stakeholders, including investors, regulatory bodies, and financial analysts, rely heavily on financial reports for decision-making processes, emphasizing their critical role. This article will explore essential components of modern financial management: financial reporting, accounting changes, error correction, and algorithmic trading.

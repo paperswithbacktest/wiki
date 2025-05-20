@@ -1,6 +1,9 @@
 ---
-title: "Nasdaq-100 Index: Composition, Weighting, and Trading (Algo Trading)"
-description: "Explore the Nasdaq-100 index including its composition and weighting Learn about algorithmic trading strategies and their benefits such as speed and precision"
+category: trading_strategy
+description: Explore the Nasdaq-100 index including its composition and weighting
+  Learn about algorithmic trading strategies and their benefits such as speed and
+  precision
+title: 'Nasdaq-100 Index: Composition, Weighting, and Trading (Algo Trading)'
 ---
 
 The world of stock market index trading offers numerous opportunities for investors looking to diversify their portfolios. Indices act as benchmarks for the performance of specific segments of the stock market, offering a means for traders to engage with a wide array of sectors through a single financial instrument. Among the various indices available, the Nasdaq-100 stands out due to its representation of the most significant non-financial companies in the Nasdaq stock exchange. This index encapsulates sectors such as technology, healthcare, and consumer discretionary, capturing a significant portion of the modern economic landscape. Companies such as Apple, Microsoft, and Amazon are among those represented, underscoring the Nasdaq-100's significance as a measure of broader market trends excluding financial institutions.

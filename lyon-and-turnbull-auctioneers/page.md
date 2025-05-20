@@ -1,6 +1,8 @@
 ---
-title: "Lyon & Turnbull Auctioneers (Algo Trading)"
-description: "Discover how Lyon & Turnbull blends traditional art auctions with cutting-edge algorithmic trading insights redefining investment strategies in the art market."
+category: trading_strategy
+description: Discover how Lyon & Turnbull blends traditional art auctions with cutting-edge
+  algorithmic trading insights redefining investment strategies in the art market.
+title: Lyon & Turnbull Auctioneers (Algo Trading)
 ---
 
 Auction houses are pivotal in blending the traditions of art with modern investment strategies. Among them, Lyon & Turnbull stands out as one of Scotland's oldest and most esteemed establishments, having been at the forefront of art auctions since 1826. This article examines the intersection of traditional art auctions with contemporary algorithmic trading strategies, highlighting how these dual forces redefine the art market landscape.

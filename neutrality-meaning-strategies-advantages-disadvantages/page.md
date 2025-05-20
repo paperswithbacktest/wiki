@@ -1,6 +1,8 @@
 ---
-title: "Neutrality: Meaning, Strategies, Advantages and Disadvantages (Algo Trading)"
-description: "Discover the meaning and strategies of market neutrality in algo trading Explore advantages like reduced risk and disadvantages of neutral trading approaches"
+category: trading_strategy
+description: Discover the meaning and strategies of market neutrality in algo trading
+  Explore advantages like reduced risk and disadvantages of neutral trading approaches
+title: 'Neutrality: Meaning, Strategies, Advantages and Disadvantages (Algo Trading)'
 ---
 
 Algorithmic trading, often referred to as algo trading, has significantly revolutionized financial markets. It leverages computer algorithms to execute trades at speeds and frequencies that are impossible for human traders. This advancement has enabled the exploitation of transient market inefficiencies that arise momentarily, providing opportunities for enhanced returns. 

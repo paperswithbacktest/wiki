@@ -1,6 +1,8 @@
 ---
-title: "Warrant Premium: Overview, Calculation, and Example (Algo Trading)"
-description: "Explore the intricacies of warrant premiums and their role in investment strategies with insights into calculation and application in algorithmic trading."
+category: quant_concept
+description: Explore the intricacies of warrant premiums and their role in investment
+  strategies with insights into calculation and application in algorithmic trading.
+title: 'Warrant Premium: Overview, Calculation, and Example (Algo Trading)'
 ---
 
 In the intricate world of financial investments, understanding the diverse instruments available is key to making informed decisions. Among these instruments, warrants stand out due to their unique characteristics and potential impact on investment strategies. At the heart of understanding warrants is the concept of the warrant premium, a critical yet often-overlooked aspect that carries significant implications for investors.

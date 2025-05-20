@@ -1,7 +1,8 @@
 ---
-title: Understanding R-Squared For Accurate Regression Model Evaluation
+category: quant_concept
 description: R-Squared evaluates how well regression models explain variance to help
   you interpret performance limits and guide improvements Discover more inside
+title: Understanding R-Squared For Accurate Regression Model Evaluation
 ---
 
 ![Image](images/1.png)

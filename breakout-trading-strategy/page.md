@@ -1,6 +1,13 @@
 ---
-title: "Breakout Trading Strategy Explained (Algo Trading)"
-description: Discover the fundamentals of breakout trading in algorithmic trading featuring a strategy focused on identifying key price levels known as support and resistance. Learn how traders anticipate and capitalize on price movements as securities break through these critical price barriers. Explore the role of technical analysis, volume indicators, chart patterns, and automated systems in enhancing the efficacy of breakout strategies. Gain insights into the tools and techniques used to develop, backtest, and execute profitable breakout trades with precision and speed.
+category: trading_strategy
+description: Discover the fundamentals of breakout trading in algorithmic trading
+  featuring a strategy focused on identifying key price levels known as support and
+  resistance. Learn how traders anticipate and capitalize on price movements as securities
+  break through these critical price barriers. Explore the role of technical analysis,
+  volume indicators, chart patterns, and automated systems in enhancing the efficacy
+  of breakout strategies. Gain insights into the tools and techniques used to develop,
+  backtest, and execute profitable breakout trades with precision and speed.
+title: Breakout Trading Strategy Explained (Algo Trading)
 ---
 
 Breakout trading is a prominent strategy utilized in algorithmic trading, which involves identifying price levels that securities struggle to surpass, either on the upper or lower side. These critical price points are often referred to as resistance and support levels, respectively. In anticipation of a breakout, traders prepare to take action when the security's price breaks through these predetermined levels.

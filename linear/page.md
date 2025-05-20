@@ -1,7 +1,8 @@
 ---
-title: Key Concepts and Techniques of Linear Machine Learning
+category: quant_concept
 description: Linear machine learning covers key regression techniques, regularization
   and evaluation metrics so you can create accurate models. Discover more inside
+title: Key Concepts and Techniques of Linear Machine Learning
 ---
 
 ![Image](images/1.png)

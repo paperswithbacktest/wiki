@@ -1,6 +1,9 @@
 ---
-title: "Fiscal Policy and Its Multiplier Effect on the Economy (Algo Trading)"
-description: "Explore how fiscal policy impacts economic growth through the multiplier effect and the role of algorithmic trading in leveraging these economic shifts for financial gains."
+category: quant_concept
+description: Explore how fiscal policy impacts economic growth through the multiplier
+  effect and the role of algorithmic trading in leveraging these economic shifts for
+  financial gains.
+title: Fiscal Policy and Its Multiplier Effect on the Economy (Algo Trading)
 ---
 
 Fiscal policy is a cornerstone of macroeconomic management, involving government actions to influence economic activity through taxation and expenditure. It is instrumental in promoting economic stability and growth. By adjusting tax rates and government spending, fiscal policy aims to influence aggregate demand, thereby affecting overall economic output and employment levels. This policy is particularly vital during economic downturns, where it can be used to stimulate growth and counteract recessions, or during booms to cool down inflationary pressures.
@@ -249,4 +252,3 @@ The future implications for economic policy and financial market strategies are 
 
 11. **Shreve, S. E. (2004)**. *Stochastic Calculus for Finance*. Springer.
     - For those interested in the mathematical underpinnings of financial models, this book covers stochastic calculus techniques that can be utilized in developing sophisticated algorithmic trading systems.
-

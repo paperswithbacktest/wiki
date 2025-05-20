@@ -1,7 +1,8 @@
 ---
-title: Understanding Gini Impurity in Decision Tree Classification
+category: quant_concept
 description: Gini Impurity measures how well decision tree splits separate class labels
   and guides model accuracy by reducing data impurity Discover more inside
+title: Understanding Gini Impurity in Decision Tree Classification
 ---
 
 ![Image](images/1.png)

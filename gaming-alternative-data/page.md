@@ -1,6 +1,11 @@
 ---
-title: "Gaming Alternative Data (Algo Trading)"
-description: Explore the impact of integrating gaming alternative data into algorithmic trading. Discover how unconventional data sources like player interactions and in-game transactions offer new insights into consumer behavior and market trends. Learn how harnessing this data can potentially transform trading strategies, offering a competitive advantage in the fast-paced financial market landscape.
+category: dataset
+description: Explore the impact of integrating gaming alternative data into algorithmic
+  trading. Discover how unconventional data sources like player interactions and in-game
+  transactions offer new insights into consumer behavior and market trends. Learn
+  how harnessing this data can potentially transform trading strategies, offering
+  a competitive advantage in the fast-paced financial market landscape.
+title: Gaming Alternative Data (Algo Trading)
 ---
 
 In the rapidly evolving world of financial markets, the quest for gaining a competitive edge is relentless. Algorithmic trading has transformed the trading landscape, leveraging vast amounts of data to make split-second decisions. This technique enables traders to execute orders at speeds and frequencies that would be impossible for a human trader. The core strength of algorithmic trading lies in its ability to process conventional datasets such as stock prices, trading volumes, and economic indicators. However, recent advancements have given rise to an intriguing trend: the integration of alternative data sources into algorithmic trading strategies.

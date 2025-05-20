@@ -1,6 +1,12 @@
 ---
-title: "Liquidity Risk in Banking and Business (Algo Trading)"
-description: "Explore the critical role of managing liquidity risk and business risk in banking and business. Understand how algorithmic trading adds complexity to these risks and impacts financial stability. This article provides insights into the interplay among these factors, emphasizing the importance of comprehensive risk management strategies for financial professionals and policymakers seeking to ensure market stability and optimize risk approaches."
+category: quant_concept
+description: Explore the critical role of managing liquidity risk and business risk
+  in banking and business. Understand how algorithmic trading adds complexity to these
+  risks and impacts financial stability. This article provides insights into the interplay
+  among these factors, emphasizing the importance of comprehensive risk management
+  strategies for financial professionals and policymakers seeking to ensure market
+  stability and optimize risk approaches.
+title: Liquidity Risk in Banking and Business (Algo Trading)
 ---
 
 Banking liquidity risk and business risk are critical components of the financial ecosystem, demanding prudent management to prevent potential destabilization of financial institutions and businesses. Liquidity risk, in particular, refers to the inability of an institution to meet its financial obligations without incurring substantial losses, a situation that can lead to operational setbacks and diminished trust among stakeholders. In parallel, business risk encompasses factors that threaten an entity's financial or operational stability, affecting its performance and profitability. These risks are further compounded by the increasing adoption of algorithmic trading, which has introduced new dimensions to risk management and financial stability.

@@ -1,6 +1,8 @@
 ---
-title: "MIAX Options Exchange (Algo Trading)"
-description: "Explore the cutting-edge world of options trading with MIAX Exchange Group a leading U.S. options platform known for technology-driven trading solutions."
+category: quant_concept
+description: Explore the cutting-edge world of options trading with MIAX Exchange
+  Group a leading U.S. options platform known for technology-driven trading solutions.
+title: MIAX Options Exchange (Algo Trading)
 ---
 
 Financial markets are intricate ecosystems where assets such as stocks, bonds, currencies, and derivatives like options are traded. These markets serve as a foundational component of the global economy, providing platforms for capital allocation and risk management. Options trading, a subset of derivatives trading, involves contracts that give buyers the right, but not the obligation, to buy or sell an underlying asset at a specified price before a certain date. This flexibility allows traders and investors to hedge potential risks and speculate on future price movements, making options an essential tool for portfolio diversification and risk mitigation.

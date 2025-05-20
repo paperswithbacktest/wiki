@@ -1,6 +1,8 @@
 ---
-title: "Temasek Holdings Overview and Operations (Algo Trading)"
-description: "Explore Temasek Holdings as a global financial powerhouse leveraging diverse investments and algorithmic trading to bolster Singapore's economy and innovation."
+category: dataset
+description: Explore Temasek Holdings as a global financial powerhouse leveraging
+  diverse investments and algorithmic trading to bolster Singapore's economy and innovation.
+title: Temasek Holdings Overview and Operations (Algo Trading)
 ---
 
 Temasek Holdings is a sovereign wealth fund established to manage a vast and varied investment portfolio on behalf of the Singapore government. Since its inception, Temasek has emerged as an influential entity in global finance, navigating diverse markets and sectors to solidify its role as a key player in both local and international spheres. As of March 2020, Temasek's portfolio was valued at SGD $306 billion, reflecting its significant impact and reach in the financial world.

@@ -1,6 +1,8 @@
 ---
-title: "Pairs Trading Strategy and Example (Algo Trading)"
-description: "Explore the mechanics and benefits of pairs trading within algorithmic frameworks to exploit price anomalies for optimized market-neutral strategies."
+category: trading_strategy
+description: Explore the mechanics and benefits of pairs trading within algorithmic
+  frameworks to exploit price anomalies for optimized market-neutral strategies.
+title: Pairs Trading Strategy and Example (Algo Trading)
 ---
 
 In the fast-paced world of finance, finding strategies that offer both robustness and profitability is crucial. Pairs trading is one such market-neutral trading strategy that has gained significant attention, particularly in algorithmic trading. This approach involves the simultaneous buying and selling of two highly correlated securities to exploit temporary anomalies in their price relationship. By maintaining a balanced long and short position, pairs trading seeks to provide a hedge against market movements, thereby reducing the overall exposure to market risk.

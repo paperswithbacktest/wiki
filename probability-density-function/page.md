@@ -1,10 +1,9 @@
 ---
-title: Understanding Probability Density Functions in Machine Learning
+category: quant_concept
 description: Probability Density Functions model how data is distributed in machine
   learning to improve predictions and decision making. Discover more inside.
+title: Understanding Probability Density Functions in Machine Learning
 ---
-
-
 
 ## Table of Contents
 

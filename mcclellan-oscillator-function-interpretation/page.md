@@ -1,6 +1,8 @@
 ---
-title: "McClellan Oscillator: Function and Interpretation (Algo Trading)"
-description: "Explore the McClellan Oscillator and its role in algo trading Unlock market sentiment insights Gauge momentum and predict reversals with this tool"
+category: quant_concept
+description: Explore the McClellan Oscillator and its role in algo trading Unlock
+  market sentiment insights Gauge momentum and predict reversals with this tool
+title: 'McClellan Oscillator: Function and Interpretation (Algo Trading)'
 ---
 
 Understanding the complexities of the stock market requires a suite of technical analysis tools. One such tool is the McClellan Oscillator, an advanced indicator that helps traders assess market sentiment. This article will examine the intricacies of the McClellan Oscillator, highlighting its calculation and application in algorithmic trading strategies. The McClellan Oscillator enhances trading decisions by providing insight into market breadth and potential reversals. It uses the difference between the number of advancing and declining stocks to gauge market momentum and indicate shifts in trend direction. As such, this tool aids in predicting overbought or oversold conditions, facilitating traders in identifying trend reversals.

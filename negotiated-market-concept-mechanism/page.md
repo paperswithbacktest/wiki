@@ -1,6 +1,8 @@
 ---
-title: "Negotiated Market: Concept and Mechanism (Algo Trading)"
-description: "Explore the dynamics of negotiated markets in algo trading where buyers and sellers directly determine security prices revolutionizing financial ecosystems."
+category: quant_concept
+description: Explore the dynamics of negotiated markets in algo trading where buyers
+  and sellers directly determine security prices revolutionizing financial ecosystems.
+title: 'Negotiated Market: Concept and Mechanism (Algo Trading)'
 ---
 
 The financial markets operate through various mechanisms that facilitate the buying and selling of securities. One of the essential components in this environment is the market structure itself, where negotiated markets play a pivotal role. These markets contribute to a dynamic and complex ecosystem enabling direct negotiation of security prices between buyers and sellers without the intervention of intermediaries. This structural characteristic presents both opportunities and challenges.

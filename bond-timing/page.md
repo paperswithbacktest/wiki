@@ -1,9 +1,12 @@
 ---
-title: "Bond Timing (Algo Trading)"
-description: Discover the intricacies of bond timing in algo trading, a complex strategy for anticipating the best time to buy or sell bonds based on expected price movements in the secondary market. Learn about factors affecting bond prices, strategies like Roll Down and Momentum, research findings, risks involved, and resources for further study.
+category: trading_strategy
+description: Discover the intricacies of bond timing in algo trading, a complex strategy
+  for anticipating the best time to buy or sell bonds based on expected price movements
+  in the secondary market. Learn about factors affecting bond prices, strategies like
+  Roll Down and Momentum, research findings, risks involved, and resources for further
+  study.
+title: Bond Timing (Algo Trading)
 ---
-
-
 
 Bond timing in algorithmic trading is a sophisticated practice that aims to optimize the timing of bond transactions to achieve superior returns. Unlike the traditional buy-and-hold strategy, where investors purchase bonds and hold them until maturity to earn interest income and preserve capital, active bond timing involves short-term buying and selling decisions based on market conditions. This approach seeks to capitalize on price fluctuations caused by economic news, interest rate changes, or shifts in market sentiment.
 

@@ -1,6 +1,8 @@
 ---
-title: "Replacement Cost Explanation (Algo Trading)"
-description: "Explore the importance of replacement cost in accounting and insurance, essential in asset valuation and algorithmic trading to optimize financial decision-making."
+category: quant_concept
+description: Explore the importance of replacement cost in accounting and insurance,
+  essential in asset valuation and algorithmic trading to optimize financial decision-making.
+title: Replacement Cost Explanation (Algo Trading)
 ---
 
 Asset valuation, replacement cost, insurance valuation, and algorithmic trading are fundamental concepts that play significant roles in the financial sector and broader economy. Asset valuation involves determining the worth of assets, which can be tangible, like real estate and machinery, or intangible, such as patents and trademarks. Understanding asset valuation is crucial for making informed investment decisions, financial reporting, and strategic planning.

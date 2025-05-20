@@ -1,6 +1,8 @@
 ---
-title: "Regulation B and the Equal Credit Opportunity Act (Algo Trading)"
-description: "Explore Regulation B and the Equal Credit Opportunity Act's role in fair lending amidst the rise of algorithmic trading emphasizing compliance and innovation."
+category: quant_concept
+description: Explore Regulation B and the Equal Credit Opportunity Act's role in fair
+  lending amidst the rise of algorithmic trading emphasizing compliance and innovation.
+title: Regulation B and the Equal Credit Opportunity Act (Algo Trading)
 ---
 
 The Equal Credit Opportunity Act (ECOA) is a fundamental piece of legislation in the United States that seeks to ensure fair access to credit for all individuals. Enacted in 1974, the ECOA prohibits discrimination in any aspect of a credit transaction based on race, color, religion, national origin, sex, marital status, age, or because an individual receives income from a public assistance program. To enforce these protections, Regulation B was issued by the Federal Reserve Board, which outlines the rules for implementing the ECOA. Regulation B plays a critical role by mandating creditors to provide clear justifications for credit denials and ensuring transparency in the lending process. Violations of Regulation B may result in significant penalties, including legal action and monetary fines, thus underscoring its essential function in promoting fairness in lending practices.

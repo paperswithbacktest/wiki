@@ -1,6 +1,14 @@
 ---
-title: "Investment Banking: Functions and Notable Examples (Algo Trading)"
-description: "Explore the dynamic world of investment banking and algorithmic trading in this comprehensive guide. Understand how investment banks facilitate major financial transactions like IPOs and M&As, while offering strategic advisory services to global entities. Learn about the rise of algorithmic trading which employs sophisticated algorithms for executing trades with speed and efficiency, contributing to improved market liquidity and economic growth. Discover the vital roles these financial systems play in wealth creation and economic stability, influencing market dynamics and driving innovation in today's financial ecosystem."
+category: quant_concept
+description: Explore the dynamic world of investment banking and algorithmic trading
+  in this comprehensive guide. Understand how investment banks facilitate major financial
+  transactions like IPOs and M&As, while offering strategic advisory services to global
+  entities. Learn about the rise of algorithmic trading which employs sophisticated
+  algorithms for executing trades with speed and efficiency, contributing to improved
+  market liquidity and economic growth. Discover the vital roles these financial systems
+  play in wealth creation and economic stability, influencing market dynamics and
+  driving innovation in today's financial ecosystem.
+title: 'Investment Banking: Functions and Notable Examples (Algo Trading)'
 ---
 
 In today's dynamic financial landscape, banking services, financial institutions, and investment banking play a pivotal role in the global economy. These entities not only facilitate the flow of capital but also serve as catalysts for economic development, influencing both individual wealth creation and systemic financial stability. Their importance is universally acknowledged, as they underpin the economies of nations by ensuring efficient capital allocation and risk management.

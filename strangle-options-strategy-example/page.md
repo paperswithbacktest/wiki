@@ -1,6 +1,8 @@
 ---
-title: "Strangle Options Strategy Explanation and Example (Algo Trading)"
-description: "Learn how the strangle options strategy can help you capitalize on market volatility with examples. Discover the benefits and risks in algorithmic trading."
+category: trading_strategy
+description: Learn how the strangle options strategy can help you capitalize on market
+  volatility with examples. Discover the benefits and risks in algorithmic trading.
+title: Strangle Options Strategy Explanation and Example (Algo Trading)
 ---
 
 Options trading is a versatile strategy utilized by traders to profit from market volatility. Among the numerous strategies available, the strangle is widely recognized for its efficacy in scenarios where significant price swings are anticipated without a clear directional bias. The essence of the strangle strategy is the simultaneous purchase of call and put options on the same underlying asset, albeit with different strike prices. This dual-option approach makes the strangle particularly effective when major market movements are expected, but the direction of the move is uncertain.

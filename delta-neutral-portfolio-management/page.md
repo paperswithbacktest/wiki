@@ -1,6 +1,9 @@
 ---
-title: "Delta Neutral in Portfolio Management (Algo Trading)"
-description: "Discover how delta neutral strategies and algorithmic trading synergize to minimize risk and optimize profits in dynamic markets through sophisticated portfolio management."
+category: trading_strategy
+description: Discover how delta neutral strategies and algorithmic trading synergize
+  to minimize risk and optimize profits in dynamic markets through sophisticated portfolio
+  management.
+title: Delta Neutral in Portfolio Management (Algo Trading)
 ---
 
 In today's dynamic financial markets, managing risk while maximizing returns is a critical concern for both investors and traders. The complexity and volatility of these markets require sophisticated strategies to achieve desired financial outcomes. Among the strategies employed, delta neutral portfolio management and algorithmic trading have gained prominence due to their effectiveness in addressing these challenges.

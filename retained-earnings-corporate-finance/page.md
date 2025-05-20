@@ -1,6 +1,9 @@
 ---
-title: "Retained Earnings in Corporate Finance (Algo Trading)"
-description: "Explore how retained earnings impact corporate finance and algorithmic trading By understanding retained earnings gain insights into company growth and investment strategies"
+category: quant_concept
+description: Explore how retained earnings impact corporate finance and algorithmic
+  trading By understanding retained earnings gain insights into company growth and
+  investment strategies
+title: Retained Earnings in Corporate Finance (Algo Trading)
 ---
 
 In today's fast-paced world of business and finance, understanding key financial terms and concepts is crucial. This article addresses retained earnings, a vital aspect of financial accounting that is essential in corporate finance and its association with algorithmic trading.

@@ -1,10 +1,9 @@
 ---
-title: Understanding Reinforcement Learning From Human Feedback
+category: quant_concept
 description: Reinforcement Learning From Human Feedback trains AI with human guidance
   to align decisions with human values more accurately Discover more inside.
+title: Understanding Reinforcement Learning From Human Feedback
 ---
-
-
 
 ## Table of Contents
 

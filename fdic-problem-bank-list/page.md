@@ -1,6 +1,8 @@
 ---
-title: "FDIC Problem Bank List (Algo Trading)"
-description: "Explore the interplay between FDIC's Problem Bank List and algorithmic trading assessing impact on financial stability risk management and regulatory challenges."
+category: dataset
+description: Explore the interplay between FDIC's Problem Bank List and algorithmic
+  trading assessing impact on financial stability risk management and regulatory challenges.
+title: FDIC Problem Bank List (Algo Trading)
 ---
 
 The world of banking is a multifaceted system where financial stability is paramount, and regulatory frameworks such as those provided by the Federal Deposit Insurance Corporation (FDIC) are essential for ensuring this stability. Established to instill public confidence in the financial system, the FDIC plays a crucial role in overseeing banking institutions and safeguarding the interests of depositors. A vital component of this regulatory structure is the FDIC Problem Bank List, which serves as an indicator of financial distress within banks. Understanding this list is crucial for recognizing the underlying issues that may affect the stability of banking institutions.

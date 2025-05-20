@@ -1,6 +1,9 @@
 ---
-title: "Reliability of MACD in Trading Strategies (Algo Trading)"
-description: "Explore the effectiveness of the MACD indicator in algorithmic trading strategies analyzing its role in identifying momentum shifts and optimizing trade execution."
+category: trading_strategy
+description: Explore the effectiveness of the MACD indicator in algorithmic trading
+  strategies analyzing its role in identifying momentum shifts and optimizing trade
+  execution.
+title: Reliability of MACD in Trading Strategies (Algo Trading)
 ---
 
 The Moving Average Convergence Divergence (MACD) is a widely recognized indicator in technical analysis, serving as a fundamental component of many trading strategies. Its development is attributed to Gerald Appel in the late 1970s, and since then, it has become indispensable for traders seeking to interpret price trends and momentum shifts. The MACD indicator uniquely combines elements of trend-following and momentum analysis, offering a versatile tool for both novice and seasoned traders.

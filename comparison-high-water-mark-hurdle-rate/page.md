@@ -1,6 +1,9 @@
 ---
-title: "Comparison of High-Water Mark and Hurdle Rate (Algo Trading)"
-description: "Unlock investment insights with an exploration of high-water marks and hurdle rates in algorithmic trading Learn how these metrics protect investors and drive fund performance"
+category: quant_concept
+description: Unlock investment insights with an exploration of high-water marks and
+  hurdle rates in algorithmic trading Learn how these metrics protect investors and
+  drive fund performance
+title: Comparison of High-Water Mark and Hurdle Rate (Algo Trading)
 ---
 
 In investment and trading, understanding the mechanisms that align the interests of fund managers with investors is crucial. The investment landscape is characterized by its complex fee structures and performance metrics, requiring both investors and managers to navigate these intricacies with precision. This article explores key concepts such as the high-water mark and hurdle rate, which play a vital role in evaluating investment performance, particularly in the context of algorithmic trading.

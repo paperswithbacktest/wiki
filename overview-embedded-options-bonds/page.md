@@ -1,6 +1,9 @@
 ---
-title: "Overview of Embedded Options in Bonds (Algo Trading)"
-description: "Explore the nuances of embedded options in bonds including callable, putable, and convertible features Analyze how algorithmic trading enhances decision-making and risk management."
+category: quant_concept
+description: Explore the nuances of embedded options in bonds including callable,
+  putable, and convertible features Analyze how algorithmic trading enhances decision-making
+  and risk management.
+title: Overview of Embedded Options in Bonds (Algo Trading)
 ---
 
 In fixed-income securities, bonds with embedded options present distinct opportunities and challenges for investors. These bonds come with options that can significantly impact their value and investment potential. Understanding the nature of these options—such as callable, putable, and convertible bonds—is essential for investors looking to optimize their returns in an ever-changing market environment.

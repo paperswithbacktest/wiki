@@ -1,6 +1,8 @@
 ---
-title: "Matched Book in Finance (Algo Trading)"
-description: "Discover the evolution of finance with matched book investments & algo trading Learn how these strategies optimize trade execution & enhance liquidity"
+category: quant_concept
+description: Discover the evolution of finance with matched book investments & algo
+  trading Learn how these strategies optimize trade execution & enhance liquidity
+title: Matched Book in Finance (Algo Trading)
 ---
 
 The landscape of financial trading has experienced a profound transformation, primarily driven by technological advancements that have redefined the way market transactions are executed. Among the innovations leading this evolution are matched book investments and algorithmic trading. These two elements have become central to optimizing trade execution strategies within the financial sector.

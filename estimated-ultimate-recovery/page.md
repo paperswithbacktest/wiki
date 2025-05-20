@@ -1,6 +1,8 @@
 ---
-title: "Estimated Ultimate Recovery (Algo Trading)"
-description: "Discover the synergy between Estimated Ultimate Recovery and algorithmic trading in the oil and gas industry to optimize resource management and boost efficiency."
+category: quant_concept
+description: Discover the synergy between Estimated Ultimate Recovery and algorithmic
+  trading in the oil and gas industry to optimize resource management and boost efficiency.
+title: Estimated Ultimate Recovery (Algo Trading)
 ---
 
 The oil and gas industry plays a pivotal role in the global energy landscape, providing the primary energy source for countless applications worldwide. Ensuring the efficient management of its reserves is fundamental to sustaining the industry's productivity and meeting the burgeoning energy demands. A key concept in this domain is the Estimated Ultimate Recovery (EUR), a metric essential for assessing the total volume of hydrocarbons that can be economically retrieved from a reservoir. It is indispensable for appraising the value and potential output of oil and gas reserves.

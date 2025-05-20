@@ -1,6 +1,9 @@
 ---
-title: "Plowback Ratio: Calculation and Example (Algo Trading)"
-description: "Explore the significance of plowback ratio in algo trading, learn its calculation, and understand how this metric aids investors in evaluating a company's growth potential."
+category: quant_concept
+description: Explore the significance of plowback ratio in algo trading, learn its
+  calculation, and understand how this metric aids investors in evaluating a company's
+  growth potential.
+title: 'Plowback Ratio: Calculation and Example (Algo Trading)'
 ---
 
 The financial world is filled with numerous metrics that help in evaluating a company's financial health and growth prospects. Among these metrics, the retention ratio and plowback ratio are particularly significant. These terms are often used interchangeably and refer to the proportion of earnings that a company retains for reinvestment rather than distributing as dividends to shareholders. Understanding these ratios is crucial as they provide insight into a company's strategic decisions regarding earnings retention and reinvestment.

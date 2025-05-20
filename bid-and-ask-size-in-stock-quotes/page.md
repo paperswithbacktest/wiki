@@ -1,6 +1,9 @@
 ---
-title: "Bid and Ask Size in Stock Quotes (Algo Trading)"
-description: "Explore the fundamentals of stock quotes including bid and ask sizes, and their vital role in algorithmic trading. Unlock insights into market liquidity and dynamics."
+category: quant_concept
+description: Explore the fundamentals of stock quotes including bid and ask sizes,
+  and their vital role in algorithmic trading. Unlock insights into market liquidity
+  and dynamics.
+title: Bid and Ask Size in Stock Quotes (Algo Trading)
 ---
 
 Stock trading is a dynamic segment of the financial markets where buying and selling transactions of publicly traded company shares occur. It involves several critical terminologies that are essential for navigating and understanding market dynamics. Among these, stock quotes, bid size, and ask size stand out as fundamental components that traders and investors must comprehend.

@@ -1,6 +1,8 @@
 ---
-title: "Bottom Fishing in Investment (Algo Trading)"
-description: "Explore bottom fishing in stock investment utilizing algorithmic trading to identify undervalued stocks for potential high returns amidst market recoveries."
+category: trading_strategy
+description: Explore bottom fishing in stock investment utilizing algorithmic trading
+  to identify undervalued stocks for potential high returns amidst market recoveries.
+title: Bottom Fishing in Investment (Algo Trading)
 ---
 
 Bottom fishing in the stock market involves the practice of identifying and investing in stocks that appear to be undervalued and trading at their lowest potential price points. This approach is rooted in the objective of capitalizing on price rebounds, as these securities are typically anticipated to experience an upward correction when market conditions improve or when a company’s fundamentals recover. The allure of bottom fishing lies in the potential for substantial returns by purchasing stocks at significantly reduced prices. However, distinguishing distressed stocks—those that may never recover—from genuinely undervalued investments is crucial.

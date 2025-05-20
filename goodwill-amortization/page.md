@@ -1,6 +1,8 @@
 ---
-title: "Goodwill Amortization (Algo Trading)"
-description: "Explore how goodwill amortization impacts algorithmic trading strategies, offering insights on managing intangible assets for informed financial decision-making."
+category: quant_concept
+description: Explore how goodwill amortization impacts algorithmic trading strategies,
+  offering insights on managing intangible assets for informed financial decision-making.
+title: Goodwill Amortization (Algo Trading)
 ---
 
 In today's fast-paced financial landscape, understanding the intricacies of accounting, goodwill amortization, and algorithmic trading has become essential. These concepts are foundational within their respective domains and intersect to shape contemporary business strategies and decision-making processes.
@@ -96,4 +98,3 @@ Financial professionals who harness technological evolutions, paired with a thor
 6. **"The Impact of Amortization and Impairment of Goodwill on Financial Reporting: Evidence from European Firms" by Agustina Barriel and Rosario Acasuso**: This scholarly article investigates the effect of different accounting treatments of goodwill on financial reporting quality among European companies, providing empirical analysis and insights.
 
 These references collectively offer foundational guidance and advanced strategies necessary for professionals navigating the multifaceted interactions between goodwill accounting and algorithmic trading.
-

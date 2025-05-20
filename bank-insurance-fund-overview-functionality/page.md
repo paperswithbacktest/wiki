@@ -1,6 +1,8 @@
 ---
-title: "Bank Insurance Fund: Overview and Functionality (Algo Trading)"
-description: "Explore how the Bank Insurance Fund and algorithmic trading strategies bolster financial stability and depositor confidence through innovative protections."
+category: quant_concept
+description: Explore how the Bank Insurance Fund and algorithmic trading strategies
+  bolster financial stability and depositor confidence through innovative protections.
+title: 'Bank Insurance Fund: Overview and Functionality (Algo Trading)'
 ---
 
 Bank insurance plays a pivotal role in safeguarding the financial system by instilling confidence among depositors and ensuring stability during financial upheavals. The assurance that funds are protected against bank failures is critical in maintaining public trust and preventing bank runs, which can severely destabilize economies. The concept of bank insurance materialized in the United States with the establishment of funds and mechanisms designed to protect depositors and absorb financial shocks.

@@ -1,6 +1,8 @@
 ---
-title: "DIY Investing: Overview, Tools, Advantages, and Disadvantages (Algo Trading)"
-description: "Explore the world of DIY investing with insights into tools, pros, cons, and algorithmic trading to empower your financial future and portfolio management."
+category: trading_strategy
+description: Explore the world of DIY investing with insights into tools, pros, cons,
+  and algorithmic trading to empower your financial future and portfolio management.
+title: 'DIY Investing: Overview, Tools, Advantages, and Disadvantages (Algo Trading)'
 ---
 
 DIY investing has become an increasingly popular approach for individual investors seeking to take control of their financial futures. This shift towards self-management is largely fueled by advancements in technology that empower investors with a suite of tools enabling them to manage their own portfolios. These tools eliminate the need for full-service financial advisors by providing direct access to trading platforms, financial data, and investment strategies.

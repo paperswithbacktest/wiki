@@ -1,6 +1,8 @@
 ---
-title: "Voting Trust Certificate (Algo Trading)"
-description: "Explore the synergy of voting trust certificates algorithmic trading and corporate governance in finance enhancing decision-making and market strategies."
+category: quant_concept
+description: Explore the synergy of voting trust certificates algorithmic trading
+  and corporate governance in finance enhancing decision-making and market strategies.
+title: Voting Trust Certificate (Algo Trading)
 ---
 
 The world of finance is a complex network of interrelated concepts that significantly influence strategic decision-making and corporate governance. Certificate voting trusts, corporate governance, and algorithmic trading are among these critical concepts. Each plays a distinctive role in the financial ecosystem, contributing to the intricate dynamics that drive business success and market efficiency.

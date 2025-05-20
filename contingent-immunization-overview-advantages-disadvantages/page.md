@@ -1,6 +1,9 @@
 ---
-title: "Contingent Immunization: Overview, Advantages, and Disadvantages (Algo Trading)"
-description: "Discover how contingent immunization combines active and passive strategies to manage risk and maximize returns in today's volatile markets with algorithmic trading insights."
+category: trading_strategy
+description: Discover how contingent immunization combines active and passive strategies
+  to manage risk and maximize returns in today's volatile markets with algorithmic
+  trading insights.
+title: 'Contingent Immunization: Overview, Advantages, and Disadvantages (Algo Trading)'
 ---
 
 The landscape of investment strategies encompasses a wide array of approaches designed to balance risk and optimize returns. Among these strategies is contingent immunization, which integrates both active and passive management elements to address the complexities of today's financial markets. This nuanced strategy initiates with active management to pursue returns that surpass a predetermined benchmark. If the portfolio performance deteriorates beyond an acceptable threshold, it shifts to a passive stance to protect against additional losses.
@@ -137,4 +140,3 @@ Tailoring the contingent immunization strategy to specific investment goals and 
 [5]: ["Quantitative Trading: How to Build Your Own Algorithmic Trading Business"](https://github.com/LucindaYa/quant-resources/blob/master/Quantitative%20Trading%20How%20to%20Build%20Your%20Own%20Algorithmic%20Trading%20Business.pdf) by Ernest P. Chan.
 
 [6]: McCulloch, J. H. (1971). ["Measuring the Variation of Bond Yields."](https://econpapers.repec.org/RePEc:ucp:jnlbus:v:44:y:1971:i:1:p:19-31) Journal of Finance, 26(2), 19-29.
-

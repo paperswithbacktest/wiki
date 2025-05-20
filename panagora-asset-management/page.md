@@ -1,6 +1,15 @@
 ---
-title: "PanAgora Asset Management (Algo Trading)"
-description: PanAgora Asset Management, based in Boston, is recognized for its innovative approach to investment management, leveraging quantitative analysis and algorithmic trading to optimize investment strategies. Founded in 1989, the firm has established itself as a leader in the financial sector by utilizing advanced computational models to balance risk and return efficiently. Through its pioneering integration of behavioral economics with quantitative methods and its strategic use of risk parity, PanAgora continuously sets industry benchmarks. The firm's adept implementation of algorithmic trading enhances decision-making processes and offers precise, data-driven investment solutions, influencing trends across the investment management industry.
+category: trading_strategy
+description: PanAgora Asset Management, based in Boston, is recognized for its innovative
+  approach to investment management, leveraging quantitative analysis and algorithmic
+  trading to optimize investment strategies. Founded in 1989, the firm has established
+  itself as a leader in the financial sector by utilizing advanced computational models
+  to balance risk and return efficiently. Through its pioneering integration of behavioral
+  economics with quantitative methods and its strategic use of risk parity, PanAgora
+  continuously sets industry benchmarks. The firm's adept implementation of algorithmic
+  trading enhances decision-making processes and offers precise, data-driven investment
+  solutions, influencing trends across the investment management industry.
+title: PanAgora Asset Management (Algo Trading)
 ---
 
 PanAgora Asset Management, based in Boston, is distinguished for its unique and forward-thinking approach to investment management. As a leader in the financial industry, the firm excels through its adept use of quantitative analysis and algorithmic trading. These techniques have enabled PanAgora to carve out a niche where data-driven decision-making and advanced computational models are at the forefront of its investment strategies. This approach not only enhances the efficiency of their trading operations but also allows for a more rigorous evaluation and management of risks versus returns. The following article will provide an in-depth examination of PanAgora's ground-breaking methods and the substantial influence the firm has exerted on algorithmic trading. By leveraging state-of-the-art algorithms and a commitment to continuous innovation, PanAgora is setting benchmarks in how investments are assessed and executed.

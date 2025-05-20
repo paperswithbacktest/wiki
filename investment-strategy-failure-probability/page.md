@@ -1,6 +1,12 @@
 ---
-title: "Investment strategy failure probability (Algo Trading)"
-description: Explore the multifaceted risks and failure probabilities of investment strategies in algorithmic trading. While algo trading offers speed and efficiency, it entails technical failures, market volatility, and regulatory changes that can impair performance. Understand how factors like outdated algorithms and insufficient backtesting contribute to strategy failures and learn about managing these risks in modern financial markets.
+category: trading_strategy
+description: Explore the multifaceted risks and failure probabilities of investment
+  strategies in algorithmic trading. While algo trading offers speed and efficiency,
+  it entails technical failures, market volatility, and regulatory changes that can
+  impair performance. Understand how factors like outdated algorithms and insufficient
+  backtesting contribute to strategy failures and learn about managing these risks
+  in modern financial markets.
+title: Investment strategy failure probability (Algo Trading)
 ---
 
 Algorithmic trading has revolutionized modern financial markets by leveraging computer algorithms to facilitate trading decisions and executions. This technology-driven method offers distinct advantages over traditional trading practices, primarily through increased speed, efficiency, and the reduction of human emotional biases. Algorithms can analyze vast datasets within seconds, identifying trends and executing trades at speeds unattainable by human traders. These improvements have resulted in enhanced market liquidity and tighter bid-ask spreads, benefitting both institutional and retail investors.

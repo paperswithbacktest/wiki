@@ -1,6 +1,9 @@
 ---
-title: "Circle Pay Application Overview (Algo Trading)"
-description: "Explore the synergy of Circle Pay and algorithmic trading as they revolutionize financial transactions with blockchain security and efficiency in real-time fund management."
+category: dataset
+description: Explore the synergy of Circle Pay and algorithmic trading as they revolutionize
+  financial transactions with blockchain security and efficiency in real-time fund
+  management.
+title: Circle Pay Application Overview (Algo Trading)
 ---
 
 Digital wallets have become an essential component of today's financial ecosystem. As technology continues to permeate various aspects of our daily lives, financial transactions are no exception. Digital wallets allow users to perform a range of financial activities—such as making payments, transferring money, and managing multiple currency accounts—without the need for physical cash or cards. These tools are designed for convenience, security, and accessibility worldwide. 
@@ -99,4 +102,4 @@ In conclusion, as the landscape of finance continues to evolve, the integration 
 
 [4]: De Filippi, P., & Wright, A. (2018). ["Blockchain and the Law: The Rule of Code."](https://www.jstor.org/stable/j.ctv2867sp) Harvard University Press.
 
-[5]: R.D. Yates, & D.J. Goodman (2014). ["Probability and Stochastic Processes: A Friendly Introduction for Electrical and Computer Engineers."](https://archive.org/details/isbn_2900471272143) Wiley.  
+[5]: R.D. Yates, & D.J. Goodman (2014). ["Probability and Stochastic Processes: A Friendly Introduction for Electrical and Computer Engineers."](https://archive.org/details/isbn_2900471272143) Wiley.

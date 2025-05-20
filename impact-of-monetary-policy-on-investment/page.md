@@ -1,6 +1,8 @@
 ---
-title: "Impact of Monetary Policy on Investment (Algo Trading)"
-description: "Explore the dynamic influence of monetary policy on investment strategies and algorithmic trading within financial markets and its impact on economic growth."
+category: quant_concept
+description: Explore the dynamic influence of monetary policy on investment strategies
+  and algorithmic trading within financial markets and its impact on economic growth.
+title: Impact of Monetary Policy on Investment (Algo Trading)
 ---
 
 Financial markets are complex ecosystems where investment strategies, monetary policy, and algorithmic trading intertwine to shape both immediate market dynamics and long-term economic growth. Understanding these interconnected elements is crucial for comprehending how financial markets influence and are influenced by various economic forces.

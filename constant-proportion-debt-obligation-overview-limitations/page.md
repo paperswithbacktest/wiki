@@ -1,6 +1,8 @@
 ---
-title: "Constant Proportion Debt Obligation: Overview and Limitations (Algo Trading)"
-description: "Constant Proportion Debt Obligations utilize complex algorithms to offer high yields with investment-grade risk but face limitations revealed during downturns."
+category: quant_concept
+description: Constant Proportion Debt Obligations utilize complex algorithms to offer
+  high yields with investment-grade risk but face limitations revealed during downturns.
+title: 'Constant Proportion Debt Obligation: Overview and Limitations (Algo Trading)'
 ---
 
 Constant Proportion Debt Obligations (CPDOs) represent a sophisticated financial instrument designed to offer high returns with relatively low risk. These instruments were first introduced by ABN AMRO in 2006, providing a structured means for investors to enhance their exposure to credit indices, specifically targeting those like iTraxx and CDX. By leveraging complex algorithms, CPDOs promised an attractive alternative to traditional investment vehicles, presenting a mix of high yields typically associated with junk bonds, but with risk profiles closer to those of investment-grade securities.

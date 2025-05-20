@@ -1,6 +1,8 @@
 ---
-title: "Reasons for Corporate Stock Buybacks (Algo Trading)"
-description: "Explore the strategic reasons behind corporate stock buybacks and how algorithmic trading is transforming buyback execution to enhance shareholder value."
+category: quant_concept
+description: Explore the strategic reasons behind corporate stock buybacks and how
+  algorithmic trading is transforming buyback execution to enhance shareholder value.
+title: Reasons for Corporate Stock Buybacks (Algo Trading)
 ---
 
 Stock buybacks, or share repurchases, have become a significant tool within the framework of corporate finance, providing companies with a mechanism to enhance their financial standing and maximize shareholder value. As corporations strive to efficiently manage their capital, buybacks offer an avenue for reallocating excess funds, influencing stock valuations, and reinforcing strategic financial positions.

@@ -1,6 +1,8 @@
 ---
-title: "Market Average: Definition, Function, and Historical Context (Algo Trading)"
-description: "Explore how market averages and algorithmic trading redefine financial strategies with insights into key financial metrics and economic indicators."
+category: quant_concept
+description: Explore how market averages and algorithmic trading redefine financial
+  strategies with insights into key financial metrics and economic indicators.
+title: 'Market Average: Definition, Function, and Historical Context (Algo Trading)'
 ---
 
 In today's rapidly evolving financial landscape, understanding key financial metrics and economic indicators is crucial for investors and traders. The financial industry, a sector once dominated by traditional methods and manual trading, is undergoing a paradigm shift propelled by technological advancements. Securities, commodities, and other financial assets are now traded at unprecedented speeds, largely due to the integration of algorithmic trading. This modern approach has allowed for more sophisticated strategies that depend heavily on precise financial metrics and economic indicators.

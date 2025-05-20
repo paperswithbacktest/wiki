@@ -1,6 +1,8 @@
 ---
-title: "Energy-Efficient Buildings: Investment Benefits and Drawbacks (Algo Trading)"
-description: "Explore the benefits and drawbacks of investing in energy-efficient buildings with insights on algorithmic trading for sustainable investments and market optimization."
+category: trading_strategy
+description: Explore the benefits and drawbacks of investing in energy-efficient buildings
+  with insights on algorithmic trading for sustainable investments and market optimization.
+title: 'Energy-Efficient Buildings: Investment Benefits and Drawbacks (Algo Trading)'
 ---
 
 In today's world, energy-efficient buildings and sustainable construction practices are gaining traction as more investors and builders recognize their potential benefits, both environmentally and financially. With increased awareness of climate change and resource depletion, the construction industry is shifting towards methods that not only reduce carbon footprints but also offer long-term financial returns. As interest in these sectors grows, understanding the investment landscape, along with potential advantages and disadvantages, becomes essential. 

@@ -1,6 +1,8 @@
 ---
-title: "Funds From Operations to Total Debt Ratio (Algo Trading)"
-description: "Explore the significance of the Funds From Operations to Total Debt ratio in assessing financial health and its role in algorithmic trading for market predictions."
+category: trading_strategy
+description: Explore the significance of the Funds From Operations to Total Debt ratio
+  in assessing financial health and its role in algorithmic trading for market predictions.
+title: Funds From Operations to Total Debt Ratio (Algo Trading)
 ---
 
 Financial ratios are essential tools in corporate finance, providing insights into various aspects of a company's financial health and operational efficiency. They serve as benchmarks for assessing a firm's leverage, profitability, and risk management capabilities. Among these, the Funds From Operations (FFO) to Total Debt ratio stands out for its focus on a company's financial risk and ability to manage leverage effectively. This ratio is particularly important in evaluating how well a company can handle its debt obligations using cash flow generated from its core operations.

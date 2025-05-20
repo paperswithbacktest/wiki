@@ -1,6 +1,8 @@
 ---
-title: "Expanded Accounting Equation (Algo Trading)"
-description: "Explore the vital link between the accounting equation and algorithmic trading Discover how financial reports enhance strategic trading decisions"
+category: quant_concept
+description: Explore the vital link between the accounting equation and algorithmic
+  trading Discover how financial reports enhance strategic trading decisions
+title: Expanded Accounting Equation (Algo Trading)
 ---
 
 This article explores the essential connections between the accounting equation, financial statements, and algorithmic trading. The accounting equation—expressed as Assets = Liabilities + Equity—is the cornerstone of accounting systems, ensuring that financial records remain balanced and accurate. This fundamental equation serves as a guide for maintaining financial stability and effective decision-making.

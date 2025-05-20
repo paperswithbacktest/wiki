@@ -1,6 +1,8 @@
 ---
-title: "Importance of Knowing Outstanding Shares for Shareholders (Algo Trading)"
-description: "Understanding outstanding shares is essential for shareholders to evaluate a company's market value and investment potential in the era of algorithmic trading."
+category: quant_concept
+description: Understanding outstanding shares is essential for shareholders to evaluate
+  a company's market value and investment potential in the era of algorithmic trading.
+title: Importance of Knowing Outstanding Shares for Shareholders (Algo Trading)
 ---
 
 The stock market represents a complex and dynamic financial ecosystem where investors buy and sell shares of publicly traded companies. This marketplace operates on the principles of supply and demand, with prices influenced by a myriad of factors, including economic indicators, corporate performance, and global events. A fundamental component of this system is the concept of shareholders—individuals or entities that own shares in a company.
@@ -235,4 +237,3 @@ Investors must appreciate these intertwined concepts for making astute, informed
    - [edX](https://www.edx.org)
 
 These resources provide a strong foundation for anyone looking to enhance their understanding of the stock market, shareholder dynamics, and algorithmic trading.
-

@@ -1,6 +1,14 @@
 ---
-title: "Financial Services Alternative Data (Algo Trading)"
-description: Discover how alternative data is revolutionizing financial services and algorithmic trading by offering unique insights beyond traditional metrics. Explore diverse data sources including social media sentiment, satellite imagery, and credit card transactions to enhance trading models and gain a competitive edge in the market. This approach unveils new patterns and trends, enabling traders to make informed decisions and respond swiftly to market changes. Learn how the integration of alternative data is reshaping trading strategies and providing opportunities for improved profitability in an ever-evolving financial landscape.
+category: dataset
+description: Discover how alternative data is revolutionizing financial services and
+  algorithmic trading by offering unique insights beyond traditional metrics. Explore
+  diverse data sources including social media sentiment, satellite imagery, and credit
+  card transactions to enhance trading models and gain a competitive edge in the market.
+  This approach unveils new patterns and trends, enabling traders to make informed
+  decisions and respond swiftly to market changes. Learn how the integration of alternative
+  data is reshaping trading strategies and providing opportunities for improved profitability
+  in an ever-evolving financial landscape.
+title: Financial Services Alternative Data (Algo Trading)
 ---
 
 In the fast-paced world of financial markets, gaining a competitive advantage is key to successful trading. As traders strive to outperform their peers, traditional financial metrics such as earnings reports, balance sheets, and market news have long been the cornerstone of investment strategies. However, these conventional data sources have become increasingly ubiquitous, often offering limited scope for differentiation among market participants. Consequently, savvy traders are seeking novel ways to gain unique insights that can enable them to make more informed decisions.

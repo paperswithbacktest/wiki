@@ -1,6 +1,12 @@
 ---
-title: "Multiplier Effect (Algo Trading)"
-description: "Explore the synergy between macroeconomic theory and algorithmic trading on this comprehensive page detailing the multiplier effect. Learn how initial spending changes can profoundly impact economic output and how algo trading uses precision technology to optimize financial strategies. Delve into examples of the multiplier effect, enhancing market efficiency and illustrating economic interconnectedness for informed financial decision-making."
+category: quant_concept
+description: Explore the synergy between macroeconomic theory and algorithmic trading
+  on this comprehensive page detailing the multiplier effect. Learn how initial spending
+  changes can profoundly impact economic output and how algo trading uses precision
+  technology to optimize financial strategies. Delve into examples of the multiplier
+  effect, enhancing market efficiency and illustrating economic interconnectedness
+  for informed financial decision-making.
+title: Multiplier Effect (Algo Trading)
 ---
 
 Macroeconomics provides a comprehensive framework for understanding large-scale economic phenomena, with the multiplier effect being one of its pivotal concepts. This effect illustrates how an initial change in spending can lead to a larger overall impact on the economy. Essentially, the multiplier effect describes the process through which an initial injection of funds into the economy, such as through government spending or business investments, leads to increased production and income that is greater than the original spending amount. This concept is fundamental to analyzing how economic activities are interconnected and amplified through various sectors.

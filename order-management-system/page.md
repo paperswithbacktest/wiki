@@ -1,6 +1,13 @@
 ---
-title: "Order management system (Algo Trading)"
-description: Order Management Systems (OMS) are essential for efficiently managing orders throughout their lifecycle, with particular importance in algorithmic trading. In this context, OMS automate trading orders and integrate with algorithmic strategies, enabling high-speed, accurate trade execution. These systems are vital for financial firms that rely on high-frequency trading, offering features such as order routing, trade management, and risk monitoring. By improving trading performance and ensuring best execution, OMS provide a competitive edge in today's fast-paced financial markets.
+category: quant_concept
+description: Order Management Systems (OMS) are essential for efficiently managing
+  orders throughout their lifecycle, with particular importance in algorithmic trading.
+  In this context, OMS automate trading orders and integrate with algorithmic strategies,
+  enabling high-speed, accurate trade execution. These systems are vital for financial
+  firms that rely on high-frequency trading, offering features such as order routing,
+  trade management, and risk monitoring. By improving trading performance and ensuring
+  best execution, OMS provide a competitive edge in today's fast-paced financial markets.
+title: Order management system (Algo Trading)
 ---
 
 Order Management Systems (OMS) are integral tools employed across various industries to streamline and automate the management of orders throughout their lifecycle. These systems, by design, help businesses efficiently track and manage the entire order process—from order inception through fulfillment and service delivery. While OMS are universally applicable and play critical roles in industries such as retail, manufacturing, and pharmaceuticals for inventory management and logistics, their significance is particularly pronounced in the financial sector, especially concerning algorithmic trading.

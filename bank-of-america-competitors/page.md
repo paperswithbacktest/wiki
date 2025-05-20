@@ -1,6 +1,9 @@
 ---
-title: "Bank of America Competitors (Algo Trading)"
-description: "Explore how Bank of America navigates the competitive landscape of algorithmic trading, focusing on strategies and technological advancements that drive its market dominance."
+category: trading_strategy
+description: Explore how Bank of America navigates the competitive landscape of algorithmic
+  trading, focusing on strategies and technological advancements that drive its market
+  dominance.
+title: Bank of America Competitors (Algo Trading)
 ---
 
 The financial industry is a vibrant and highly competitive sector, characterized by constant shifts in market power and technological advancements. Major financial institutions strive to outperform one another, which drives progress and innovation. Bank of America is one of these powerful entities, firmly entrenched as a leading presence among the 'big four' U.S. banks. Alongside JPMorgan Chase, Wells Fargo, and Citigroup, Bank of America plays a critical role in shaping the dynamics of the American and global financial markets.

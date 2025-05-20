@@ -1,6 +1,12 @@
 ---
-title: "Calculating Value at Risk in Excel and Python (Algo Trading)"
-description: Learn how to calculate Value at Risk (VaR) using Excel and Python in the context of algorithmic trading to effectively manage portfolio risk and protect against market volatility. Explore different methods of VaR calculation including Variance-Covariance, Historical Simulation, and Monte Carlo Simulation and understand why Python is a preferred tool for traders and analysts. Enhance your trading strategies by integrating advanced risk management techniques into algorithmic processes.
+category: quant_concept
+description: Learn how to calculate Value at Risk (VaR) using Excel and Python in
+  the context of algorithmic trading to effectively manage portfolio risk and protect
+  against market volatility. Explore different methods of VaR calculation including
+  Variance-Covariance, Historical Simulation, and Monte Carlo Simulation and understand
+  why Python is a preferred tool for traders and analysts. Enhance your trading strategies
+  by integrating advanced risk management techniques into algorithmic processes.
+title: Calculating Value at Risk in Excel and Python (Algo Trading)
 ---
 
 Value at Risk (VaR) is a statistical technique used to measure the risk of loss in a portfolio, representing the maximum expected loss over a specified time period at a given confidence level. In the fast-evolving landscape of algorithmic trading, managing risk has become more crucial than ever. Algorithmic trading, which involves the use of computer algorithms and models to execute trades at high speed and volume, presents unique challenges and opportunities in risk management. Effective risk management strategies are necessary to protect against potential market volatility and unexpected losses that can arise in rapidly changing trading environments.

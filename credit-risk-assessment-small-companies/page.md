@@ -1,6 +1,9 @@
 ---
-title: "Credit Risk Assessment for Small Companies (Algo Trading)"
-description: "Explore how small companies can balance credit risk and algorithmic trading to achieve financial stability and growth. Discover strategies to manage unique financial challenges."
+category: trading_strategy
+description: Explore how small companies can balance credit risk and algorithmic trading
+  to achieve financial stability and growth. Discover strategies to manage unique
+  financial challenges.
+title: Credit Risk Assessment for Small Companies (Algo Trading)
 ---
 
 In the rapidly evolving world of finance, algorithmic trading has become a prominent tool for small companies to enhance their participation in financial markets. By leveraging technology, these businesses can execute large volumes of trades at high speeds, taking advantage of micro-opportunities that would otherwise be unattainable through traditional trading methods. This shift has opened doors to greater financial prospects, offering efficiency and potential profitability.

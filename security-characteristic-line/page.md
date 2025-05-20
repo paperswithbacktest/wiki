@@ -1,6 +1,8 @@
 ---
-title: "Security characteristic line (Algo Trading)"
-description: "Explore the pivotal role of the Security Characteristic Line in algorithmic trading Learn how SCL helps assess asset performance and enhance trading strategies"
+category: quant_concept
+description: Explore the pivotal role of the Security Characteristic Line in algorithmic
+  trading Learn how SCL helps assess asset performance and enhance trading strategies
+title: Security characteristic line (Algo Trading)
 ---
 
 The Security Characteristic Line (SCL) is a fundamental concept in finance that plays a critical role in understanding the relationship between risk and return, particularly in the sphere of algorithmic trading. At its core, the SCL is a graphical representation that depicts how a specific security's returns compare to the market as a whole. By plotting an asset's performance against a benchmark market portfolio, the SCL serves as a key tool in investment analysis and strategizing within algorithmic trading systems.
@@ -160,4 +162,3 @@ In conclusion, the Security Characteristic Line remains an essential tool for in
   - Discusses risk premiums in investment and how tools like the SCL contribute to evaluating risk and potential investment returns.
 
 These resources provide an insightful exploration into the concepts surrounding the Security Characteristic Line, capital asset pricing, and algorithmic trading, offering both theoretical foundations and practical applications.
-

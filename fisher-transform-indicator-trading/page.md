@@ -1,6 +1,9 @@
 ---
-title: "Fisher Transform Indicator in Trading (Algo Trading)"
-description: "Explore the Fisher Transform Indicator used in trading to signal price reversals by converting price data into a Gaussian distribution for better trend analysis."
+category: trading_strategy
+description: Explore the Fisher Transform Indicator used in trading to signal price
+  reversals by converting price data into a Gaussian distribution for better trend
+  analysis.
+title: Fisher Transform Indicator in Trading (Algo Trading)
 ---
 
 The Fisher Transform Indicator, a creation of John F. Ehlers, stands as a notable tool in the field of technical analysis, serving to transform price data into a Gaussian normal distribution. This transformation is pivotal for traders as it highlights turning points in asset prices, thereby facilitating the identification of trends and reversals. As a result, the Fisher Transform Indicator is not merely a tool for analyzing current market conditions but also a crucial component in constructing algorithmic trading strategies. These strategies benefit from the indicator's ability to provide efficient and effective decision-making capabilities.

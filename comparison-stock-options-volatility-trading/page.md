@@ -1,6 +1,8 @@
 ---
-title: "Comparison of Stock and Options Volatility Trading (Algo Trading)"
-description: "Explore the dynamics of stock and options volatility trading with algorithmic strategies that optimize volatility for potential profit and risk management."
+category: trading_strategy
+description: Explore the dynamics of stock and options volatility trading with algorithmic
+  strategies that optimize volatility for potential profit and risk management.
+title: Comparison of Stock and Options Volatility Trading (Algo Trading)
 ---
 
 Volatility trading is an essential aspect of financial markets, where traders seek to capitalize on price swings in stocks and options. This method involves devising strategies that exploit fluctuations, potentially leading to profitable outcomes during periods of uncertainty.

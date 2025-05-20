@@ -1,6 +1,12 @@
 ---
-title: "Brokerage Firm: Revenue Streams and Types (Algo Trading)"
-description: "Explore how brokerage firms in financial markets utilize algorithmic trading to enhance transaction efficiency and decision-making. Discover the various types of brokerage firms, including full-service, discount brokers, and robo-advisors, and how they generate revenue through innovative models and services. Learn how algo trading impacts the investment landscape, helping investors make informed choices to align with their financial goals and strategies."
+category: quant_concept
+description: Explore how brokerage firms in financial markets utilize algorithmic
+  trading to enhance transaction efficiency and decision-making. Discover the various
+  types of brokerage firms, including full-service, discount brokers, and robo-advisors,
+  and how they generate revenue through innovative models and services. Learn how
+  algo trading impacts the investment landscape, helping investors make informed choices
+  to align with their financial goals and strategies.
+title: 'Brokerage Firm: Revenue Streams and Types (Algo Trading)'
 ---
 
 In financial markets, brokerage firms are essential in facilitating transactions and offering a wide range of investment services. These firms connect investors with the financial markets, enabling the buying and selling of stocks, bonds, options, and various other financial instruments. As technology advances, brokerage firms must adapt to new methods and tools that enhance trading efficiency and decision-making processes. One such innovation is algorithmic trading, which has become a transformative force in the way trades are executed. 

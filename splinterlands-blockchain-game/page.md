@@ -1,6 +1,8 @@
 ---
-title: "Splinterlands Blockchain Game (Algo Trading)"
-description: "Explore Splinterlands a blockchain-based card game that merges NFT card ownership with strategic gameplay. Earn and trade assets seamlessly across platforms."
+category: quant_concept
+description: Explore Splinterlands a blockchain-based card game that merges NFT card
+  ownership with strategic gameplay. Earn and trade assets seamlessly across platforms.
+title: Splinterlands Blockchain Game (Algo Trading)
 ---
 
 The world of digital gaming continues to evolve at a rapid pace, with advanced technologies like blockchain radically transforming user experiences. In this emerging landscape, Splinterlands stands out as a pioneering force, integrating the captivating mechanics of traditional card games with the innovative potential that blockchain technology offers. By digitizing card ownership through non-fungible tokens (NFTs), Splinterlands introduces a new dimension to gaming, enabling players to truly own and trade their in-game assets across different platforms. This convergence of digital card gaming with blockchain technology extends beyond mere gameplay, venturing into economic territories with opportunities akin to algorithmic trading.

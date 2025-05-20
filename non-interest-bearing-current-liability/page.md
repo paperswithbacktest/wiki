@@ -1,6 +1,9 @@
 ---
-title: "Non-Interest-Bearing Current Liability (Algo Trading)"
-description: "Discover the significance of non-interest-bearing current liabilities in corporate finance and algorithmic trading. Understand how they influence liquidity and strategic decisions."
+category: quant_concept
+description: Discover the significance of non-interest-bearing current liabilities
+  in corporate finance and algorithmic trading. Understand how they influence liquidity
+  and strategic decisions.
+title: Non-Interest-Bearing Current Liability (Algo Trading)
 ---
 
 In finance, understanding key financial terms is crucial for both individuals and corporate entities. Non-interest-bearing current liabilities (NIBCL) play a significant role in corporate finance and have implications for individual financial planning. NIBCLs typically comprise short-term obligations that a company must settle within a fiscal year, such as accounts payable, accrued expenses, and deferred revenues. Unlike interest-bearing liabilities, these do not incur additional costs related to interest, making them a vital component of a company's liquidity management.

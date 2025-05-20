@@ -1,7 +1,8 @@
 ---
-title: Generative Discrimination Techniques for Machine Learning
+category: quant_concept
 description: Generative Discrimination combines generative and discriminative models
   to improve classification with synthetic data and minibatches. Discover more inside
+title: Generative Discrimination Techniques for Machine Learning
 ---
 
 ![Image](images/1.webp)

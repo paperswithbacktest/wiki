@@ -1,6 +1,9 @@
 ---
-title: "Net Present Value of Growth Opportunities (Algo Trading)"
-description: "Discover the intersection of Net Present Value and growth opportunities in algorithmic trading Learn how to leverage financial analysis for optimal investment strategies"
+category: quant_concept
+description: Discover the intersection of Net Present Value and growth opportunities
+  in algorithmic trading Learn how to leverage financial analysis for optimal investment
+  strategies
+title: Net Present Value of Growth Opportunities (Algo Trading)
 ---
 
 Net Present Value (NPV) is a cornerstone concept in financial analysis, allowing investors and analysts to assess the value of future cash flows relative to present value. By discounting future cash flows to their present value using a specified discount rate, NPV provides a measure of the profitability and feasibility of an investment or project. This analytical approach considers the time value of money, acknowledging that a dollar today is worth more than a dollar tomorrow. NPV is pivotal in making informed investment decisions, guiding corporations and individual investors alike to select projects that offer the greatest potential for profitability.
@@ -232,4 +235,3 @@ The ever-evolving technological landscape continually reshapes financial decisio
 9. **Journal of Finance (American Finance Association):** Suitable for those seeking the latest research and discussions around financial theories and practices, including in-depth articles on NPV, NPVGO, and trading algorithms. [Journal Website](https://onlinelibrary.wiley.com/journal/15406261)
 
 These references are pivotal for a detailed understanding of NPV, NPVGO, and algorithmic trading, offering both theoretical foundations and practical applications within the financial sector.
-

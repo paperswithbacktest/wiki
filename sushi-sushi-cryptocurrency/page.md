@@ -1,6 +1,8 @@
 ---
-title: "Sushi (SUSHI) Cryptocurrency (Algo Trading)"
-description: "Explore SushiSwap's journey in DeFi featuring the SUSHI token's governance utility and algorithmic trading, offering insights into its innovative ecosystem."
+category: quant_concept
+description: Explore SushiSwap's journey in DeFi featuring the SUSHI token's governance
+  utility and algorithmic trading, offering insights into its innovative ecosystem.
+title: Sushi (SUSHI) Cryptocurrency (Algo Trading)
 ---
 
 In the ever-evolving world of cryptocurrency, innovative projects like SushiSwap have carved a niche with unique offerings. Emerging as a significant entity in the decentralized finance (DeFi) landscape, SushiSwap has attracted attention for its robust functionalities. At the heart of its operations is the SUSHI token, a key element that facilitates a range of activities within the platform. SushiSwap not only functions as a decentralized exchange but also brings additional features that enhance its utility and appeal to users.

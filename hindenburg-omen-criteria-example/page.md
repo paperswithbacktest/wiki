@@ -1,6 +1,8 @@
 ---
-title: "Hindenburg Omen: Criteria and Example (Algo Trading)"
-description: "Discover the criteria and examples of the Hindenburg Omen in algo trading Understand how this controversial index provides insights into market instability"
+category: trading_strategy
+description: Discover the criteria and examples of the Hindenburg Omen in algo trading
+  Understand how this controversial index provides insights into market instability
+title: 'Hindenburg Omen: Criteria and Example (Algo Trading)'
 ---
 
 The global financial markets have always been a subject of intrigue and speculation, driven by the complex interplay of economic indicators, geopolitical factors, and investor psychology. In the quest to predict market downturns or upswings, analysts and traders have explored various indicators, each offering unique insights into market dynamics. Among these, the Hindenburg Omen stands out due to its controversial nature and historical significance.

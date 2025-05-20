@@ -1,6 +1,8 @@
 ---
-title: "Russell Top 50 Mega Cap Index Overview (Algo Trading)"
-description: "Explore the Russell Top 50 Mega Cap Index highlighting algorithmic trading's role in mega-cap stocks and its impact on investment strategies and market trends."
+category: quant_concept
+description: Explore the Russell Top 50 Mega Cap Index highlighting algorithmic trading's
+  role in mega-cap stocks and its impact on investment strategies and market trends.
+title: Russell Top 50 Mega Cap Index Overview (Algo Trading)
 ---
 
 The Mega Cap Index, an investment tool often comprising the largest publicly traded companies by market capitalization, plays a pivotal role in the stock market. It represents a segment of the market that is characterized by stability, substantial financial resources, and significant influence over global economic conditions. The Russell Top 50 Index is one such Mega Cap Index, encompassing the top 50 largest U.S. stocks by market capitalization. This index is significant as it provides investors with exposure to established companies with resilient business models and consistent earnings, serving as a benchmark for mega-cap performance.

@@ -1,7 +1,8 @@
 ---
-title: On-Policy TD Control in Reinforcement Learning with SARSA Lambda
+category: quant_concept
 description: On-Policy TD Control explains how SARSA and TD Lambda efficiently update
   Q-values with eligibility traces for real-time learning Discover more inside
+title: On-Policy TD Control in Reinforcement Learning with SARSA Lambda
 ---
 
 ![Image](images/1.png)

@@ -1,6 +1,11 @@
 ---
-title: "Bloomberg (Algo Trading)"
-description: Explore how Bloomberg optimizes algorithmic trading by providing essential real-time data and robust analytics via its Bloomberg Terminal. This article highlights Bloomberg's major role in automating trading processes ensuring high speed and accuracy for traders. Discover how Bloomberg enhances strategy development execution and risk management for superior trading success in evolving financial markets.
+category: quant_concept
+description: Explore how Bloomberg optimizes algorithmic trading by providing essential
+  real-time data and robust analytics via its Bloomberg Terminal. This article highlights
+  Bloomberg's major role in automating trading processes ensuring high speed and accuracy
+  for traders. Discover how Bloomberg enhances strategy development execution and
+  risk management for superior trading success in evolving financial markets.
+title: Bloomberg (Algo Trading)
 ---
 
 Algorithmic trading, commonly known as algo trading, has markedly transformed the landscape of financial markets. This form of trading employs sophisticated computer algorithms to automate and streamline trading processes. By eliminating human limitations such as emotion and fatigue, algo trading allows for higher speed and accuracy in executing trades. This technology-driven approach enhances efficiency, reduces transaction costs, and capitalizes on market opportunities that may be imperceptible to the human trader.

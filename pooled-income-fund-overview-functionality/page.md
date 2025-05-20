@@ -1,6 +1,8 @@
 ---
-title: "Pooled Income Fund Overview and Functionality (Algo Trading)"
-description: "Discover the synergy of pooled income funds and algorithmic trading for optimized investment returns and tax benefits while supporting charitable causes."
+category: quant_concept
+description: Discover the synergy of pooled income funds and algorithmic trading for
+  optimized investment returns and tax benefits while supporting charitable causes.
+title: Pooled Income Fund Overview and Functionality (Algo Trading)
 ---
 
 In a rapidly evolving financial landscape, the need to understand diverse financial instruments is more critical than ever for optimizing both investment portfolios and charitable contributions. This article examines the interconnected roles of pooled income funds, charitable giving, and algorithmic trading, three key components in the modern financial toolkit.

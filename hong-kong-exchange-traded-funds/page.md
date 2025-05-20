@@ -1,6 +1,8 @@
 ---
-title: "Hong Kong Exchange-Traded Funds (Algo Trading)"
-description: "Explore how Hong Kong's ETF market and algorithmic trading are transforming investing, offering diversified, efficient, and innovative strategies for investors."
+category: dataset
+description: Explore how Hong Kong's ETF market and algorithmic trading are transforming
+  investing, offering diversified, efficient, and innovative strategies for investors.
+title: Hong Kong Exchange-Traded Funds (Algo Trading)
 ---
 
 Exchange-traded funds (ETFs) have become significant players in the financial investing landscape, offering investors a diversified portfolio of assets that can be traded on exchanges much like individual stocks. ETFs typically mirror the performance of a specified index, sector, commodity, or a combination of assets, thereby providing investors with exposure to a wide array of financial instruments while maintaining liquidity and transparency. Their cost-effectiveness and ease of trading also contribute to their growing popularity among institutional and retail investors alike.

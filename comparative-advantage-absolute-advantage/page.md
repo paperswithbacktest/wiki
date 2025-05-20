@@ -1,6 +1,8 @@
 ---
-title: "Comparative Advantage and Absolute Advantage (Algo Trading)"
-description: "Explore the crucial economic concepts of comparative and absolute advantage in international trade and how they integrate with algorithmic trading strategies."
+category: quant_concept
+description: Explore the crucial economic concepts of comparative and absolute advantage
+  in international trade and how they integrate with algorithmic trading strategies.
+title: Comparative Advantage and Absolute Advantage (Algo Trading)
 ---
 
 In economics, the concepts of comparative advantage and absolute advantage are foundational in understanding international trade dynamics. Comparative advantage, introduced by British economist David Ricardo in the early 19th century, refers to a country's ability to produce a particular good at a lower opportunity cost compared to others. This theory suggests that even if one nation holds an absolute advantage in producing all goods more efficiently, mutual benefits can still be achieved by specializing in products where they hold a comparative advantage and trading with others.

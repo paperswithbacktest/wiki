@@ -1,6 +1,11 @@
 ---
-title: "Accrued Expenses: Overview and Examples (Algo Trading)"
-description: "Explore the critical role of accrued expenses in financial accounting and algorithmic trading, enhancing fiscal efficiency and strategic growth. Understand how these financial obligations impact liquidity, cash flow, and financial reporting. Learn strategies for effective expense management to optimize financial performance and achieve a competitive edge."
+category: quant_concept
+description: Explore the critical role of accrued expenses in financial accounting
+  and algorithmic trading, enhancing fiscal efficiency and strategic growth. Understand
+  how these financial obligations impact liquidity, cash flow, and financial reporting.
+  Learn strategies for effective expense management to optimize financial performance
+  and achieve a competitive edge.
+title: 'Accrued Expenses: Overview and Examples (Algo Trading)'
 ---
 
 The intersection of accrued expenses, expense management, financial accounting, and algorithmic trading serves as a pivotal framework for organizations seeking enhanced fiscal efficiency and strategic growth. Each of these components plays an integral role in shaping an organization's financial landscape, allowing for a comprehensive approach to managing financial resources.

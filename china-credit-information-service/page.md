@@ -1,6 +1,8 @@
 ---
-title: "China Credit Information Service (Algo Trading)"
-description: "Explore China's evolving credit reporting landscape with the China Credit Information Service CCIS leading crucial fintech and algorithmic trading advancements."
+category: dataset
+description: Explore China's evolving credit reporting landscape with the China Credit
+  Information Service CCIS leading crucial fintech and algorithmic trading advancements.
+title: China Credit Information Service (Algo Trading)
 ---
 
 In this rapidly evolving digital era, credit reporting plays a crucial role in maintaining economic stability and financial health. China's credit reporting landscape is multifaceted, with several institutions contributing to its robustness and efficiency. At the forefront of these institutions is the China Credit Information Service (CCIS), which has become integral to the nation's financial infrastructure. Established with the goal of enhancing credit transparency, CCIS offers critical services including credit ratings, business consulting, and market research, thereby supporting the development of both domestic and international financial systems.

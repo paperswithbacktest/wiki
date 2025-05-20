@@ -1,6 +1,9 @@
 ---
-title: "Hard Money Loan: Uses and Pros and Cons (Algo Trading)"
-description: "Explore the benefits and drawbacks of hard money loans in real estate financing Discover how algorithmic trading influences investment strategies for optimal returns"
+category: trading_strategy
+description: Explore the benefits and drawbacks of hard money loans in real estate
+  financing Discover how algorithmic trading influences investment strategies for
+  optimal returns
+title: 'Hard Money Loan: Uses and Pros and Cons (Algo Trading)'
 ---
 
 Real estate financing plays a pivotal role in property investments, providing individuals and businesses with the necessary capital to acquire, develop, or renovate real estate assets. It serves as the backbone of property transactions, enabling investors to control substantial assets without needing the full purchase price upfront. Real estate financing encompasses a variety of loan types, essential for different investor needs and risk profiles.

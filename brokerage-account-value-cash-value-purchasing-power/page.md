@@ -1,6 +1,9 @@
 ---
-title: "Brokerage Account Value, Cash Value, and Purchasing Power (Algo Trading)"
-description: "Explore the essential concepts of cash value, purchasing power, and brokerage account value in algorithmic trading to navigate and optimize your trading strategies effectively."
+category: quant_concept
+description: Explore the essential concepts of cash value, purchasing power, and brokerage
+  account value in algorithmic trading to navigate and optimize your trading strategies
+  effectively.
+title: Brokerage Account Value, Cash Value, and Purchasing Power (Algo Trading)
 ---
 
 In the world of finance, understanding the nuances of terminology related to trading and investing can be quite overwhelming. This article aims to clarify the concepts of cash value, purchasing power, brokerage account value, and algorithmic trading, highlighting their role and significance in the trading landscape.

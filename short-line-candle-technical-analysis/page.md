@@ -1,6 +1,8 @@
 ---
-title: "Short Line Candle in Technical Analysis (Algo Trading)"
-description: "Explore Short Line Candle patterns in algorithmic trading to improve market analysis and decision making Harness candlestick insights for strategic trades."
+category: quant_concept
+description: Explore Short Line Candle patterns in algorithmic trading to improve
+  market analysis and decision making Harness candlestick insights for strategic trades.
+title: Short Line Candle in Technical Analysis (Algo Trading)
 ---
 
 Technical analysis is a fundamental component of trading strategies used within a variety of financial markets. Candlestick patterns are central to this form of analysis, providing essential insights into market sentiment and helping forecast future price movements. These patterns have been utilized by traders for centuries to identify potential turning points in market trends and gauge the likelihood of price continuations or reversals.

@@ -1,6 +1,9 @@
 ---
-title: "Deposit in Transit: Explanation and Example (Algo Trading)"
-description: "Explore the importance of deposits in transit and bank reconciliation in financial accounting to ensure accurate cash flow management and reliable financial reporting."
+category: quant_concept
+description: Explore the importance of deposits in transit and bank reconciliation
+  in financial accounting to ensure accurate cash flow management and reliable financial
+  reporting.
+title: 'Deposit in Transit: Explanation and Example (Algo Trading)'
 ---
 
 Understanding the intricacies of various transactions in financial accounting is crucial for maintaining accuracy and preventing errors. Financial transactions encompass a wide range of activities, each with its own set of rules and impact on a company's financial statements. This article explores specific accounting components that play a pivotal role in financial management, including deposits in transit, bank reconciliation, and algorithmic trading.

@@ -1,6 +1,12 @@
 ---
-title: "Day Trading Tips and Getting Started (Algo Trading)"
-description: "Explore the dynamic world of day trading and algorithmic trading with essential tips and a detailed guide designed for beginners. This comprehensive resource covers foundational concepts, strategies, risk management, and the impact of market psychology, equipping you with the knowledge to make informed decisions. Whether starting with day trading or venturing into algorithmic systems, this guide is crafted to help you successfully navigate the complexities of the financial markets."
+category: trading_strategy
+description: Explore the dynamic world of day trading and algorithmic trading with
+  essential tips and a detailed guide designed for beginners. This comprehensive resource
+  covers foundational concepts, strategies, risk management, and the impact of market
+  psychology, equipping you with the knowledge to make informed decisions. Whether
+  starting with day trading or venturing into algorithmic systems, this guide is crafted
+  to help you successfully navigate the complexities of the financial markets.
+title: Day Trading Tips and Getting Started (Algo Trading)
 ---
 
 Day trading and algorithmic trading represent dynamic and fast-paced segments of the financial markets, each presenting unique opportunities and challenges to participants. Both forms of trading require a solid grasp of financial concepts and strategies, making them intriguing pursuits for those interested in active market participation. This article is crafted to provide beginners with essential trading tips alongside a detailed guide aimed at kickstarting their journey in day trading and algorithmic trading.

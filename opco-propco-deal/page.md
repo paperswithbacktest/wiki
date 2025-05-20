@@ -1,6 +1,8 @@
 ---
-title: "Opco/Propco Deal (Algo Trading)"
-description: "Explore the Opco/Propco model's potential in optimizing investment with algorithmic trading, focusing on financial flexibility and strategic asset separation."
+category: quant_concept
+description: Explore the Opco/Propco model's potential in optimizing investment with
+  algorithmic trading, focusing on financial flexibility and strategic asset separation.
+title: Opco/Propco Deal (Algo Trading)
 ---
 
 The Opco/Propco model, short for Operating Company/Property Company, has gained substantial prominence in today's business landscape. This organizational structure involves the separation of a company's operational activities (Opco) from its real estate or property assets (Propco), creating distinct legal entities for each. This separation is particularly relevant in industries like real estate and technology, where the physical assets and operational capabilities play unique yet interconnected roles. By segmenting these functions, companies can optimize management strategies, financial structures, and risk exposure.

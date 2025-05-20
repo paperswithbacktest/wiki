@@ -1,6 +1,12 @@
 ---
-title: "Closed Economies and Their Absence in the Modern World (Algo Trading)"
-description: "Explore the transformation from closed to open economies influenced by globalization and technology. Discover how algorithmic trading reshapes modern economic landscapes by enhancing market efficiency while posing new challenges. Understand the rare existence of closed economies today due to global interconnectedness, emphasizing the importance of strategic adaptation for sustainable growth and prosperity in the dynamic global market environment."
+category: quant_concept
+description: Explore the transformation from closed to open economies influenced by
+  globalization and technology. Discover how algorithmic trading reshapes modern economic
+  landscapes by enhancing market efficiency while posing new challenges. Understand
+  the rare existence of closed economies today due to global interconnectedness, emphasizing
+  the importance of strategic adaptation for sustainable growth and prosperity in
+  the dynamic global market environment.
+title: Closed Economies and Their Absence in the Modern World (Algo Trading)
 ---
 
 Modern economic systems have undergone significant transformations, evolving from traditional barter-based models to complex global networks. The evolution of these systems is primarily characterized by the shift from closed economies to open economies, influenced by technological advancements and globalization. These economic systems can be categorized broadly into different types based on the degree of openness, government intervention, and market dynamics.

@@ -1,6 +1,8 @@
 ---
-title: "2% Rule as an Investing Strategy in Algorithmic Trading"
-description: "Discover the 2% rule and algo trading's impact on investment strategy aimed at optimizing risk management and enhancing your portfolio performance."
+category: trading_strategy
+description: Discover the 2% rule and algo trading's impact on investment strategy
+  aimed at optimizing risk management and enhancing your portfolio performance.
+title: 2% Rule as an Investing Strategy in Algorithmic Trading
 ---
 
 ![Image](images/1.png)

@@ -1,6 +1,8 @@
 ---
-title: "Leverage in the Foreign Exchange Market (Algo Trading)"
-description: "Explore the role of leverage and algorithmic trading in the forex market Learn strategies for minimizing risks while optimizing potential profits "
+category: trading_strategy
+description: 'Explore the role of leverage and algorithmic trading in the forex market
+  Learn strategies for minimizing risks while optimizing potential profits '
+title: Leverage in the Foreign Exchange Market (Algo Trading)
 ---
 
 The foreign exchange market, commonly known as the forex market, stands as the largest financial marketplace globally, with a daily trading volume exceeding $5 trillion. This vast market operates as a hub for international currency trading, providing a platform where currencies are bought and sold against one another. It functions on a 24-hour basis, five days a week, accommodating the diverse needs of market participants across time zones worldwide.

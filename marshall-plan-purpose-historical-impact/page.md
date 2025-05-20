@@ -1,6 +1,8 @@
 ---
-title: "Marshall Plan: Purpose and Historical Impact (Algo Trading)"
-description: "Explore the transformative impact of the Marshall Plan on post-WWII Europe and its influence on modern economic strategies like algorithmic trading."
+category: quant_concept
+description: Explore the transformative impact of the Marshall Plan on post-WWII Europe
+  and its influence on modern economic strategies like algorithmic trading.
+title: 'Marshall Plan: Purpose and Historical Impact (Algo Trading)'
 ---
 
 The European Recovery Program, widely known as the Marshall Plan, was a strategic and transformative initiative implemented by the United States after World War II. It aimed to rejuvenate the devastated economies of Europe through substantial economic aid and resources. Named after then-U.S. Secretary of State George C. Marshall, the plan was officially announced in 1947 and became a pivotal element in the stabilization and recovery of European nations during a tumultuous period in history. The program allocated over $13 billion (equivalent to over $100 billion today) in aid to rebuild infrastructure, revitalize industrial production, and ensure agricultural stability, thereby fostering renewed economic growth and cooperation among the recipient countries.

@@ -1,6 +1,11 @@
 ---
-title: "Rate of Return (Algo Trading)"
-description: "This page explores the role of rate of return in investment analysis and algorithmic trading highlighting methods for calculating returns and the impact of automated systems on trading strategies. It discusses the integration of traditional financial metrics and modern technologies providing insights on enhancing investment outcomes."
+category: trading_strategy
+description: This page explores the role of rate of return in investment analysis
+  and algorithmic trading highlighting methods for calculating returns and the impact
+  of automated systems on trading strategies. It discusses the integration of traditional
+  financial metrics and modern technologies providing insights on enhancing investment
+  outcomes.
+title: Rate of Return (Algo Trading)
 ---
 
 Investment analysis is a fundamental aspect of financial decision-making that assesses the potential of various investment opportunities to achieve specific financial objectives. It involves examining factors such as risk, return, and the broader market environment to guide investment choices. This process is essential for both individual and institutional investors to ensure optimal allocation of resources and to maximize returns.

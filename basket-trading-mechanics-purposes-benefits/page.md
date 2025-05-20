@@ -1,6 +1,8 @@
 ---
-title: "Basket Trading: Mechanics, Purposes, and Benefits (Algo Trading)"
-description: "Explore the mechanics and benefits of basket trading within algorithmic trading. Understand how this strategy boosts diversification and efficiency."
+category: trading_strategy
+description: Explore the mechanics and benefits of basket trading within algorithmic
+  trading. Understand how this strategy boosts diversification and efficiency.
+title: 'Basket Trading: Mechanics, Purposes, and Benefits (Algo Trading)'
 ---
 
 Financial investing has been transformed dramatically by technological advancements, leading to the emergence of innovative strategies such as basket trading and algorithmic trading. These developments have redefined how investors approach the markets, offering new tools and methods to enhance efficiency and profitability.

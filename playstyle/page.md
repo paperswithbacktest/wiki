@@ -1,7 +1,8 @@
 ---
-title: Understanding Playstyle Analysis in Machine Learning Models
+category: quant_concept
 description: Playstyle Analysis reveals behavior patterns in games and ML models using
   distance metrics and algorithms for personalized experiences Discover more inside
+title: Understanding Playstyle Analysis in Machine Learning Models
 ---
 
 ![Image](images/1.png)

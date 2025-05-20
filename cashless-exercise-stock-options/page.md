@@ -1,6 +1,8 @@
 ---
-title: "Cashless Exercise and Stock Options (Algo Trading)"
-description: "Discover the benefits of cashless exercise of stock options and how algorithmic trading can help employees maximize profits with minimal financial risk."
+category: quant_concept
+description: Discover the benefits of cashless exercise of stock options and how algorithmic
+  trading can help employees maximize profits with minimal financial risk.
+title: Cashless Exercise and Stock Options (Algo Trading)
 ---
 
 The world of equity compensation is intricate but offers employees in various organizations significant opportunities to accumulate wealth and align their interests with company performance. Equity compensation, primarily through stock options, enables employees to purchase company shares, potentially at a favorable price. One particularly advantageous method of acquiring such shares is the cashless exercise of stock options. This approach allows employees to exercise their stock options without needing to provide upfront cash, making it a financially accessible option for many.

@@ -1,6 +1,9 @@
 ---
-title: "Quartile: Definition and Applications (Algo Trading)"
-description: "Explore how quartile statistics enhance algorithmic trading strategies providing insights into data distribution and improving decision-making in financial markets."
+category: quant_concept
+description: Explore how quartile statistics enhance algorithmic trading strategies
+  providing insights into data distribution and improving decision-making in financial
+  markets.
+title: 'Quartile: Definition and Applications (Algo Trading)'
 ---
 
 Algorithmic trading, commonly known as algo trading, involves the use of computer algorithms to execute trading orders. It's a strategy that relies on pre-defined criteria to carry out trades at high speed and frequency. This method capitalizes on the computational power of machines to analyze large volumes of data and make decisions faster than human traders. Data analysis plays a crucial role in enhancing trading strategies within algo trading by refining these criteria to improve prediction accuracy and optimize trades. 

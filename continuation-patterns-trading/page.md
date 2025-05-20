@@ -1,6 +1,9 @@
 ---
-title: "Continuation Patterns in Trading (Algo Trading)"
-description: "Explore continuation patterns in algorithmic trading to forecast market trends and make informed trading decisions. Learn how to identify and apply these key chart patterns."
+category: trading_strategy
+description: Explore continuation patterns in algorithmic trading to forecast market
+  trends and make informed trading decisions. Learn how to identify and apply these
+  key chart patterns.
+title: Continuation Patterns in Trading (Algo Trading)
 ---
 
 Continuation patterns are integral components of technical analysis, serving as pivotal indicators for traders seeking to forecast market trends. These patterns signify the potential resumption of an existing trend after a period of consolidation, providing traders with insights into future price movements. Chart patterns, as visual representations of historical price data, mirror market trends by identifying systematic psychological responses of market participants to various economic factors.

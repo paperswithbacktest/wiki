@@ -1,6 +1,9 @@
 ---
-title: "Continental Currency: Meaning, History, and Value (Algo Trading)"
-description: "Explore the fascinating history of Continental Currency issued during the American Revolutionary War how it rapidly depreciated and its impact on modern finance"
+category: quant_concept
+description: Explore the fascinating history of Continental Currency issued during
+  the American Revolutionary War how it rapidly depreciated and its impact on modern
+  finance
+title: 'Continental Currency: Meaning, History, and Value (Algo Trading)'
 ---
 
 Continental Currency was a revolutionary financial experiment initiated by the Continental Congress during the American Revolutionary War in 1775. This currency was introduced as a response to the pressing need for funds to support the colonies in their struggle for independence from British rule. Without a centralized government or established financial systems, the colonies faced the daunting task of sourcing funds to maintain military and civil operations. The Congress decided to issue paper money, which was intended to be backed by anticipated future tax revenues. 

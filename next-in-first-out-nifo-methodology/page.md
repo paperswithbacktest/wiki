@@ -1,6 +1,8 @@
 ---
-title: "Next In, First Out (NIFO) Methodology (Algo Trading)"
-description: "Explore the strategic benefits of the Next In, First Out (NIFO) methodology in algorithmic trading, adapting to inflation and real-time market dynamics."
+category: quant_concept
+description: Explore the strategic benefits of the Next In, First Out (NIFO) methodology
+  in algorithmic trading, adapting to inflation and real-time market dynamics.
+title: Next In, First Out (NIFO) Methodology (Algo Trading)
 ---
 
 In today's fast-paced financial markets, efficient inventory management and accurate accounting methods are crucial for businesses to maintain competitiveness and profitability. Companies must navigate complex financial landscapes where inventory valuation methods play a significant role in financial reporting and tax calculations. Among these, the Next In, First Out (NIFO) inventory management strategy can provide a unique perspective, particularly when integrated with advanced trading strategies such as algorithmic trading.

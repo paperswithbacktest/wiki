@@ -1,6 +1,9 @@
 ---
-title: "Buy to Close in Options Trading (Algo Trading)"
-description: "Explore how the 'Buy to Close' order integrates with algorithmic trading strategies to manage short options positions, optimize tactics, and enhance financial gains."
+category: quant_concept
+description: Explore how the 'Buy to Close' order integrates with algorithmic trading
+  strategies to manage short options positions, optimize tactics, and enhance financial
+  gains.
+title: Buy to Close in Options Trading (Algo Trading)
 ---
 
 Options trading is a significant component of modern financial markets, offering investors the flexibility to hedge risk, speculate on price movements, and leverage positions with limited capital. Options are financial derivatives that derive their value from an underlying asset, typically stocks. They provide traders with the right, but not the obligation, to buy (call options) or sell (put options) the underlying asset at a predetermined price within a specified time frame. This characteristic allows options to be versatile tools for various trading strategies, including income generation, risk management, and portfolio diversification.

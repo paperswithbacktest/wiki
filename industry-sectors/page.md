@@ -1,6 +1,12 @@
 ---
-title: "Industry Sectors (Algo Trading)"
-description: "Classifying industry and economic sectors helps businesses understand the market, make informed decisions, and develop effective strategies. Algo trading leverages these classifications to automate trades using market data and trends. Standardized frameworks like TRBC and GICS enable consistent economic analysis, aiding sector-specific assessments. Integrating business classification with algo trading offers insights for optimizing investment returns."
+category: quant_concept
+description: Classifying industry and economic sectors helps businesses understand
+  the market, make informed decisions, and develop effective strategies. Algo trading
+  leverages these classifications to automate trades using market data and trends.
+  Standardized frameworks like TRBC and GICS enable consistent economic analysis,
+  aiding sector-specific assessments. Integrating business classification with algo
+  trading offers insights for optimizing investment returns.
+title: Industry Sectors (Algo Trading)
 ---
 
 Classifying industry and economic sectors is crucial for businesses as it provides a structured understanding of the market landscape, enabling informed decision-making and strategic planning. These classifications serve as a backbone for businesses to analyze competition, identify growth opportunities, and tailor their strategies to specific industry dynamics. In sectors ranging from agriculture to technology, proper classification helps in assessing sector-specific risks and potential returns, which are vital for both operational and financial success.

@@ -1,6 +1,8 @@
 ---
-title: "Functions and Achievements of Budget Committees (Algo Trading)"
-description: "Explore the crucial roles and accomplishments of budget committees in guiding fiscal responsibility and supporting algorithmic trading within organizations."
+category: quant_concept
+description: Explore the crucial roles and accomplishments of budget committees in
+  guiding fiscal responsibility and supporting algorithmic trading within organizations.
+title: Functions and Achievements of Budget Committees (Algo Trading)
 ---
 
 This article examines the roles and accomplishments of budget committees, focusing on their pivotal function in guiding fiscal responsibility within organizations. Budget committees serve as essential financial decision-making bodies, tasked with overseeing and directing financial allocations to ensure that an entity's strategic goals are achieved effectively. Their influence extends beyond traditional budget oversight, making them integral players in the modern financial landscape.

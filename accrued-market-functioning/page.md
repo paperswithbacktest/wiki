@@ -1,6 +1,8 @@
 ---
-title: "Accrued Market and Its Functioning (Algo Trading)"
-description: "Explore the synergy between finance and algorithmic trading in accrued markets Understanding these dynamics aids in grasping modern financial market operations"
+category: quant_concept
+description: Explore the synergy between finance and algorithmic trading in accrued
+  markets Understanding these dynamics aids in grasping modern financial market operations
+title: Accrued Market and Its Functioning (Algo Trading)
 ---
 
 The integration of finance, accrued market functioning, and algorithmic trading has revolutionized the landscape of modern financial markets. Accrued market functioning, particularly in bond markets, plays a crucial role in understanding price adjustments related to interest income that accrues over time. Meanwhile, finance offers the analytical tools and frameworks needed to comprehend, model, and predict market behavior. Algorithmic trading, leveraging these tools, utilizes algorithms to drive trading decisions and executions, redefining the speed and efficiency of transactions.

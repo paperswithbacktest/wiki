@@ -1,6 +1,9 @@
 ---
-title: "Adaptive grid (Algo Trading)"
-description: "Explore the benefits of adaptive grid trading in algorithmic trading a dynamic strategy that adjusts to market conditions for maximizing trade efficiency and profitability."
+category: trading_strategy
+description: Explore the benefits of adaptive grid trading in algorithmic trading
+  a dynamic strategy that adjusts to market conditions for maximizing trade efficiency
+  and profitability.
+title: Adaptive grid (Algo Trading)
 ---
 
 The concept of adaptive grid trading in algorithmic trading represents a flexible method for managing trades across diverse market conditions. This approach is beneficial in allowing traders to automate their strategies while maintaining responsiveness to price fluctuations. Unlike traditional grid trading, which operates within static price intervals, adaptive grid trading adjusts these intervals based on market dynamics, enabling traders to maximize efficiency and profitability.

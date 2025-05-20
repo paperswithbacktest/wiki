@@ -1,6 +1,8 @@
 ---
-title: "Debt Bomb: Overview and Mechanisms (Algo Trading)"
-description: "Explore how debt bombs and algo trading mechanisms pose critical risks to global financial stability by disrupting markets and amplifying economic crises."
+category: quant_concept
+description: Explore how debt bombs and algo trading mechanisms pose critical risks
+  to global financial stability by disrupting markets and amplifying economic crises.
+title: 'Debt Bomb: Overview and Mechanisms (Algo Trading)'
 ---
 
 In today’s interconnected global economy, financial risks are ever-present and can lead to significant economic crises. These risks are driven by a multitude of factors, including fluctuating interest rates, global market volatility, and imbalances in national economies. A particular concern is the "debt bomb," a large-scale default event that can trigger widespread disruptions across financial systems. Debt bombs occur when accumulated financial obligations become unsustainable, prompting defaults that have the potential to cause a chain reaction of financial failures.

@@ -1,6 +1,8 @@
 ---
-title: "Current Face: Analysis and Advantages (Algo Trading)"
-description: "Discover the powerful advantages of algorithmic trading with a focus on high throughput and analyzing 'current face' metrics within mortgage-backed securities."
+category: trading_strategy
+description: Discover the powerful advantages of algorithmic trading with a focus
+  on high throughput and analyzing 'current face' metrics within mortgage-backed securities.
+title: 'Current Face: Analysis and Advantages (Algo Trading)'
 ---
 
 In the rapidly-evolving world of finance, algorithmic trading, often referred to as algo trading, has become an essential tool for traders and financial institutions. Algo trading utilizes computer algorithms to automate trade executions with remarkable speed and precision. As financial markets grow increasingly complex, a firm grasp of the benefits and methodologies of algo trading provides a significant competitive edge.

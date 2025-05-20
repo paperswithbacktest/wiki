@@ -1,6 +1,8 @@
 ---
-title: "Kelly Criterion in Trading (Algo Trading)"
-description: "Explore the Kelly Criterion's role in algorithmic trading to optimize capital allocation and manage risk effectively for long-term portfolio growth."
+category: quant_concept
+description: Explore the Kelly Criterion's role in algorithmic trading to optimize
+  capital allocation and manage risk effectively for long-term portfolio growth.
+title: Kelly Criterion in Trading (Algo Trading)
 ---
 
 The Kelly Criterion is a mathematical formula introduced by John L. Kelly Jr. in 1956, specifically designed to determine the optimal bet size that maximizes the long-term growth of capital. Its core objective is to address the challenge of deciding how much of one's capital should be invested in a particular opportunity to achieve maximum growth over time. Unlike other betting strategies that may prioritize short-term gains, the Kelly Criterion focuses on sustaining and augmenting wealth incrementally and systematically. 
@@ -139,4 +141,3 @@ MacLean, L. C., Thorp, E. O., & Ziemba, W. T. (2011). The Kelly Capital Growth I
 Vince, R. (1992). The Mathematics of Money Management: Risk Analysis Techniques for Traders. This work delves into various risk management strategies employed by traders, focusing on quantitative and mathematical approaches. It discusses the application of the Kelly Criterion in money management, offering insights into how traders can effectively balance risk and return to enhance the performance of their investments.
 
 Thorp, E. O. (1969). Optimal Gambling Systems for Favorable Games. Review of the International Statistical Institute. In this paper, Edward O. Thorp examines the implementation of optimal betting strategies in gambling scenarios where the player has a favorable edge. It further validates the utilization of the Kelly Criterion by illustrating how it can provide gamblers with a mathematical means to maximize bankroll growth over time while minimizing the risks of bankroll depletion.
-

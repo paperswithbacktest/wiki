@@ -1,6 +1,11 @@
 ---
-title: "Securities and Exchange Commission (SEC) (Algo Trading)"
-description: Explore the role of the U.S. Securities and Exchange Commission in regulating algorithmic trading which has transformed financial markets by automating trade executions at unprecedented speeds. The SEC ensures market transparency and fairness while addressing risks like manipulation and volatility. Understanding SEC regulations is crucial for traders to align strategies with market protection goals.
+category: quant_concept
+description: Explore the role of the U.S. Securities and Exchange Commission in regulating
+  algorithmic trading which has transformed financial markets by automating trade
+  executions at unprecedented speeds. The SEC ensures market transparency and fairness
+  while addressing risks like manipulation and volatility. Understanding SEC regulations
+  is crucial for traders to align strategies with market protection goals.
+title: Securities and Exchange Commission (SEC) (Algo Trading)
 ---
 
 Algorithmic trading has significantly transformed the landscape of financial markets, providing both institutional and individual traders with the ability to execute trades at speeds that are significantly faster than traditional methods. This innovation leverages sophisticated algorithms to automate trading decisions, which enhances the efficiency and speed of transactions to levels previously unattainable by human traders alone. As these technologies permeate trading activities across the globe, they bring with them both opportunities and challenges.

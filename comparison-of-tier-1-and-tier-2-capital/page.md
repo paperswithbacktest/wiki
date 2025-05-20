@@ -1,6 +1,8 @@
 ---
-title: "Comparison of Tier 1 and Tier 2 Capital (Algo Trading)"
-description: "Explore the critical role of Tier 1 and Tier 2 capital in banking, understand capital requirements, and learn how they align with algorithmic trading strategies."
+category: quant_concept
+description: Explore the critical role of Tier 1 and Tier 2 capital in banking, understand
+  capital requirements, and learn how they align with algorithmic trading strategies.
+title: Comparison of Tier 1 and Tier 2 Capital (Algo Trading)
 ---
 
 The banking sector operates within a framework of regulations designed to promote financial stability and ensure effective risk management. Among these regulatory measures, capital requirements, particularly Tier 1 and Tier 2 capital, play a pivotal role in the resilience and sustainability of financial institutions. Tier 1 capital, comprising primarily common equity and retained earnings, represents the core financial basis of banks, ensuring they possess the necessary resources to absorb shocks and sustain operations. In contrast, Tier 2 capital includes supplementary financial instruments such as subordinated debt which provide additional layers of security.

@@ -1,6 +1,12 @@
 ---
-title: "Great Leap Forward: Objectives and Consequences (Algo Trading)"
-description: "Explore the objectives and far-reaching consequences of the Great Leap Forward, a pivotal period in Chinese history aimed at rapid industrialization. This article investigates into the profound impacts of these policies on both the economic and social structures of the time, offering a unique comparison with the development of algorithmic trading today. Uncover key historical lessons relevant to current economic strategies and technological advancements in this insightful analysis."
+category: trading_strategy
+description: Explore the objectives and far-reaching consequences of the Great Leap
+  Forward, a pivotal period in Chinese history aimed at rapid industrialization. This
+  article investigates into the profound impacts of these policies on both the economic
+  and social structures of the time, offering a unique comparison with the development
+  of algorithmic trading today. Uncover key historical lessons relevant to current
+  economic strategies and technological advancements in this insightful analysis.
+title: 'Great Leap Forward: Objectives and Consequences (Algo Trading)'
 ---
 
 The Great Leap Forward, initiated by Mao Zedong, stands as a transformative chapter in Chinese history that reshaped its socio-economic landscape. During the late 1950s, China's leadership sought to transition the nation from an agrarian economy into an industrialized powerhouse. This ambition was manifested through an array of extensive policies that profoundly impacted the country's economic and social fabric. As China pursued rapid transformation, the Great Leap Forward became a complex tapestry of high aspirations and profound consequences.

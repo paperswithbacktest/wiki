@@ -1,6 +1,8 @@
 ---
-title: "Economy of New Jersey: Leading Industries and GDP Growth (Algo Trading)"
-description: "Discover the diverse economic landscape of New Jersey with strong GDP growth driven by leading industries like pharmaceuticals and algorithmic trading."
+category: quant_concept
+description: Discover the diverse economic landscape of New Jersey with strong GDP
+  growth driven by leading industries like pharmaceuticals and algorithmic trading.
+title: 'Economy of New Jersey: Leading Industries and GDP Growth (Algo Trading)'
 ---
 
 New Jersey plays a prominent role in the U.S. economy, holding the position of the ninth-largest GDP among all states. This economic strength is a result of its varied industrial base, which encompasses key sectors such as pharmaceuticals, finance, manufacturing, technology, and logistics. Pharmaceuticals, in particular, are a standout sector, with the presence of major companies like Johnson & Johnson and Merck & Co. driving innovation and growth. The state's financial services sector also significantly contributes to its GDP, with its proximity to New York City enhancing its attractiveness to financial firms. Algorithmic trading has emerged as a transformative force within this sector, providing a technological edge that bolsters competitiveness in securities and commodities markets.

@@ -1,6 +1,9 @@
 ---
-title: "International Monetary Fund: Advantages and Disadvantages (Algo Trading)"
-description: "Explore the advantages and disadvantages of the IMF on global economics and algorithmic trading, balancing the benefits of economic stability with potential challenges."
+category: quant_concept
+description: Explore the advantages and disadvantages of the IMF on global economics
+  and algorithmic trading, balancing the benefits of economic stability with potential
+  challenges.
+title: 'International Monetary Fund: Advantages and Disadvantages (Algo Trading)'
 ---
 
 The International Monetary Fund (IMF) serves as a cornerstone of the global financial architecture, establishing itself as a pivotal institution for economic stabilization. Founded in the aftermath of World War II, its primary purpose is to facilitate monetary cooperation internationally, thereby ensuring the stability of the global economy. The IMF's role encompasses providing financial support and guidance to countries grappling with economic difficulties, effectively functioning as a lender and overseer of international financial markets.

@@ -1,6 +1,8 @@
 ---
-title: "Net Realizable Value and Calculation Formula (Algo Trading)"
-description: "Explore the importance of Net Realizable Value (NRV) as a key financial metric in asset valuation and its role in enhancing algorithmic trading strategies."
+category: quant_concept
+description: Explore the importance of Net Realizable Value (NRV) as a key financial
+  metric in asset valuation and its role in enhancing algorithmic trading strategies.
+title: Net Realizable Value and Calculation Formula (Algo Trading)
 ---
 
 Understanding financial metrics is crucial for any business aiming to optimize its performance. One such vital metric is the Net Realizable Value (NRV), an essential accounting concept that plays a significant role in asset valuation. By accurately assessing the revenue that can be generated from an asset's sale, minus the necessary costs to make the sale, NRV ensures that businesses maintain realistic valuations of their assets. This conservative approach helps in preventing the overstatement of asset values on financial statements, which is integral to maintaining financial integrity.

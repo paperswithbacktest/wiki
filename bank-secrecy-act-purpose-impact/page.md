@@ -1,6 +1,8 @@
 ---
-title: "Bank Secrecy Act: Purpose and Impact (Algo Trading)"
-description: "Explore the Bank Secrecy Act's role in financial regulation and its impact on algorithmic trading Learn how the BSA combats money laundering and ensures compliance"
+category: quant_concept
+description: Explore the Bank Secrecy Act's role in financial regulation and its impact
+  on algorithmic trading Learn how the BSA combats money laundering and ensures compliance
+title: 'Bank Secrecy Act: Purpose and Impact (Algo Trading)'
 ---
 
 Financial regulation serves as a critical foundation for sustaining the integrity of the financial system, acting as a safeguard against illicit activities that could undermine public trust and global economic stability. Among the myriad regulatory frameworks in place, the Bank Secrecy Act (BSA) stands out as a pivotal piece of legislation that aims to combat money laundering and other financial crimes. Enacted in 1970, the BSA has continually evolved to address the complexities of the financial markets, making it an essential focus for stakeholders seeking to navigate these waters effectively.

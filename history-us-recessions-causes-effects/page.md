@@ -1,6 +1,9 @@
 ---
-title: "History of U.S. Recessions: Causes and Effects (Algo Trading)"
-description: "Explore the causes and consequences of U.S. recessions, highlighting how historical downturns have shaped economic policies and the role of algorithmic trading."
+category: quant_concept
+description: Explore the causes and consequences of U.S. recessions, highlighting
+  how historical downturns have shaped economic policies and the role of algorithmic
+  trading.
+title: 'History of U.S. Recessions: Causes and Effects (Algo Trading)'
 ---
 
 Economic recessions are pivotal events that reshape the financial landscape of any nation, significantly influencing economic policies and strategies. The United States, with its complex economic framework, has experienced numerous recessions throughout its history. These recessions have played a critical role in molding the nation’s economic policies, contributing to the development of various financial strategies designed to mitigate future downturns. By analyzing these historical occurrences, this article aims to provide a comprehensive understanding of the causes and effects of past U.S. recessions.

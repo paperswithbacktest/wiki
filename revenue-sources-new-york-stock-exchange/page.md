@@ -1,6 +1,8 @@
 ---
-title: "Revenue Sources of the New York Stock Exchange (Algo Trading)"
-description: "Explore the revenue streams of the New York Stock Exchange and understand how algorithmic trading is reshaping financial markets and trading practices."
+category: quant_concept
+description: Explore the revenue streams of the New York Stock Exchange and understand
+  how algorithmic trading is reshaping financial markets and trading practices.
+title: Revenue Sources of the New York Stock Exchange (Algo Trading)
 ---
 
 The financial markets serve as the backbone of the global economy, acting as a critical junction for capital flow and investment. Among the world's most significant exchanges, the New York Stock Exchange (NYSE) stands out due to its massive scale and influence. This article explores various facets of financial markets with a particular focus on the NYSE's revenue streams and earnings. Additionally, it examines the rising trend of algorithmic trading—a significant component of financial technology (fintech)—which has fundamentally transformed trading practices. 

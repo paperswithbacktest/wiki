@@ -1,6 +1,8 @@
 ---
-title: "Failed Break: Mechanism and Examples (Algo Trading)"
-description: "Explore failed breakouts in algorithmic trading analyzing factors that cause them and how traders can leverage these insights to improve trading strategies."
+category: trading_strategy
+description: Explore failed breakouts in algorithmic trading analyzing factors that
+  cause them and how traders can leverage these insights to improve trading strategies.
+title: 'Failed Break: Mechanism and Examples (Algo Trading)'
 ---
 
 Technical analysis is a popular methodology employed by traders to evaluate and predict future price movements utilizing historical market data. It serves as a cornerstone of modern trading strategies, providing insight into market trends, patterns, and potential price targets. A fundamental aspect of technical analysis is the identification of key levels, such as support and resistance, which traders use to gauge market behavior and potential breakout points.

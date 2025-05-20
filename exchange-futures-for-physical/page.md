@@ -1,6 +1,9 @@
 ---
-title: "Exchange Futures for Physical (Algo Trading)"
-description: "Discover how Exchange of Futures for Physical and algorithmic trading intersect to provide enhanced efficiency, risk management, and strategic advantage in commodity markets."
+category: trading_strategy
+description: Discover how Exchange of Futures for Physical and algorithmic trading
+  intersect to provide enhanced efficiency, risk management, and strategic advantage
+  in commodity markets.
+title: Exchange Futures for Physical (Algo Trading)
 ---
 
 Futures trading represents a vital component of commodity exchange markets, providing participants with opportunities to generate profit and effectively manage risk. This dynamic sector involves various strategies, among which the Exchange of Futures for Physical (EFP) distinguishes itself as a unique transaction mechanism. EFP is a private agreement allowing the swap of futures positions for corresponding physical assets. This exchange can be instrumental for market participants seeking to open or close futures positions or transition them seamlessly to physical commodities.

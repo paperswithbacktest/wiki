@@ -1,6 +1,12 @@
 ---
-title: "Cost of Carry (Algo Trading)"
-description: "Explore the significance of cost of carry in algorithmic trading and its impact on trade profitability. Understand how this vital concept affects decision-making in financial markets including costs like interest expenses and storage fees. Learn how accurate calculation and management can enhance trading strategies and outcomes. Discover its application in derivatives markets and strategies like cash-and-carry arbitrage while maintaining a competitive edge through informed trading decisions."
+category: quant_concept
+description: Explore the significance of cost of carry in algorithmic trading and
+  its impact on trade profitability. Understand how this vital concept affects decision-making
+  in financial markets including costs like interest expenses and storage fees. Learn
+  how accurate calculation and management can enhance trading strategies and outcomes.
+  Discover its application in derivatives markets and strategies like cash-and-carry
+  arbitrage while maintaining a competitive edge through informed trading decisions.
+title: Cost of Carry (Algo Trading)
 ---
 
 In finance, algorithmic trading has emerged as a significant force, revolutionizing how investments are managed. One critical concept that traders and investors need to understand is the 'cost of carry', which plays a pivotal role in determining the profitability of trades. Cost of carry refers to the costs involved in holding a financial position or asset over time, including interest expenses, storage fees, insurance, and opportunity costs. 

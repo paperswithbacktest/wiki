@@ -1,6 +1,8 @@
 ---
-title: "Berhad (BHD): Meaning and Example Companies (Algo Trading)"
-description: "Explore the significance of Berhad (BHD) companies in Malaysia's economy, particularly their role in public equity markets and algorithmic trading advancements."
+category: quant_concept
+description: Explore the significance of Berhad (BHD) companies in Malaysia's economy,
+  particularly their role in public equity markets and algorithmic trading advancements.
+title: 'Berhad (BHD): Meaning and Example Companies (Algo Trading)'
 ---
 
 In the dynamic landscape of Malaysian business, the corporate structure of Berhad, indicated by the suffix BHD, plays a crucial role. BHD companies represent public limited companies in Malaysia, serving as fundamental components of the country's financial and economic framework. These entities are integral to capital markets due to their ability to access public equity financing and adhere to rigorous financial disclosure requirements. 

@@ -1,6 +1,8 @@
 ---
-title: "American Depositary Shares: Overview and Comparison with ADRs (Algo Trading)"
-description: "Explore American Depositary Shares (ADS) and Receipts (ADR) for global investment. Enhance portfolio diversity and learn algorithmic trading advantages."
+category: quant_concept
+description: Explore American Depositary Shares (ADS) and Receipts (ADR) for global
+  investment. Enhance portfolio diversity and learn algorithmic trading advantages.
+title: 'American Depositary Shares: Overview and Comparison with ADRs (Algo Trading)'
 ---
 
 The purpose of this article is to shed light on the mechanisms and significance of American Depositary Shares (ADS) and American Depositary Receipts (ADR). These financial instruments are integral for U.S. investors seeking exposure to international markets without the direct involvement in foreign exchanges. Understanding ADS and ADR is crucial, as they facilitate smoother, more diverse investment strategies, thereby enriching global investment portfolios.

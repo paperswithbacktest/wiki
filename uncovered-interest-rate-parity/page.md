@@ -1,6 +1,10 @@
 ---
-title: "Uncovered Interest Rate Parity (Algo Trading)"
-description: "Explore the intricacies of Uncovered Interest Rate Parity in forex trading and its role in algorithmic strategies. Understand how UIP connects interest rate differentials with exchange rate expectations and serves as a theoretical foundation for traders seeking to navigate the volatile foreign exchange market effectively."
+category: quant_concept
+description: Explore the intricacies of Uncovered Interest Rate Parity in forex trading
+  and its role in algorithmic strategies. Understand how UIP connects interest rate
+  differentials with exchange rate expectations and serves as a theoretical foundation
+  for traders seeking to navigate the volatile foreign exchange market effectively.
+title: Uncovered Interest Rate Parity (Algo Trading)
 ---
 
 The foreign exchange market, commonly known as the forex market, is a pivotal component of the global financial system, characterized by its high liquidity and volatile nature. It stands as the largest financial market in the world, with daily trading volumes exceeding $6 trillion as of 2021[^1^]. This environment presents myriad opportunities for traders and investors aiming to capitalize on currency fluctuations. One crucial concept in understanding the dynamics of forex trading is the Uncovered Interest Rate Parity (UIP).

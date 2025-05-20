@@ -1,7 +1,8 @@
 ---
-title: Understanding L1 Loss in Machine Learning Regression
+category: quant_concept
 description: L1 Loss measures model error by averaging absolute differences, reducing
   outlier impact and enhancing feature selection Discover more inside
+title: Understanding L1 Loss in Machine Learning Regression
 ---
 
 ![Image](images/1.png)

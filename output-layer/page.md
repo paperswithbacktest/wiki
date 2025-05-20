@@ -1,7 +1,8 @@
 ---
-title: Understanding the Output Layer and Activation in Neural Networks
+category: quant_concept
 description: Output layer in neural networks determines predictions via softmax sigmoid
   or ReLU for classification and regression tasks Discover more inside
+title: Understanding the Output Layer and Activation in Neural Networks
 ---
 
 ![Image](images/1.png)

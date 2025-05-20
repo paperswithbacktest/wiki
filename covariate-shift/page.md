@@ -1,6 +1,8 @@
 ---
-title: "Covariate shift (Algo Trading)"
-description: "Covariate shift in algorithmic trading affects input variable distribution, influencing model predictions and financial outcomes. Learn its impact and mitigation."
+category: quant_concept
+description: Covariate shift in algorithmic trading affects input variable distribution,
+  influencing model predictions and financial outcomes. Learn its impact and mitigation.
+title: Covariate shift (Algo Trading)
 ---
 
 Covariate shift in algorithmic trading refers to the change in the statistical properties of the input variables that a trading model uses, while the conditional distribution of the outcome variables remains unchanged. This phenomenon is particularly significant in algorithmic trading, where vast amounts of historical data are leveraged to make predictions about future market movements. In essence, while the conditions used to assess risk and potential profit may appear consistent over time, the underlying factors influencing these conditions can vary, leading to a misalignment between the model's training environment and its operational setting.

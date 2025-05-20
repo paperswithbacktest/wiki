@@ -1,6 +1,8 @@
 ---
-title: "Roll Down: Definition, Mechanism, and Variations (Algo Trading)"
-description: "Explore the roll down strategy in algorithmic trading focusing on how it adapts positions to market shifts to optimize trading outcomes and manage risks."
+category: quant_concept
+description: Explore the roll down strategy in algorithmic trading focusing on how
+  it adapts positions to market shifts to optimize trading outcomes and manage risks.
+title: 'Roll Down: Definition, Mechanism, and Variations (Algo Trading)'
 ---
 
 Algorithmic trading has significantly transformed the landscape of financial markets by leveraging complex algorithms to execute trades at optimal prices and unprecedented speeds. This type of trading uses computer algorithms to determine the timing, price, and quantity of orders, thereby reducing the influence of human emotion on trading decisions and enhancing execution efficiency. It employs a range of sophisticated strategies to capitalize on market opportunities, and among these, mechanism roll down variations have attracted considerable attention.

@@ -1,6 +1,9 @@
 ---
-title: "Blockchain as a Historical Invention (Algo Trading)"
-description: "Explore how blockchain revolutionizes industries beyond cryptocurrencies by enhancing transparency and security in sectors like finance, healthcare, and trading."
+category: quant_concept
+description: Explore how blockchain revolutionizes industries beyond cryptocurrencies
+  by enhancing transparency and security in sectors like finance, healthcare, and
+  trading.
+title: Blockchain as a Historical Invention (Algo Trading)
 ---
 
 Blockchain technology is heralded as a significant innovation, often compared to the transformative impact of the internet. Initially introduced to the global stage through Bitcoin's inception in 2009, blockchain's conceptual roots extend further back into technology histories, inspired by ideas such as cryptographic security and decentralized computing. At its core, blockchain is a distributed ledger technology that ensures data transparency, immutability, and security, serving multiple applications across diverse sectors beyond its original association with digital currencies.

@@ -1,6 +1,10 @@
 ---
-title: "Brian Deese: Education and Achievements at the National Economic Council (Algo Trading)"
-description: "Explore how Brian Deese's expertise at the National Economic Council has shaped U.S. economic policy and the rise of algorithmic trading in financial markets."
+category: quant_concept
+description: Explore how Brian Deese's expertise at the National Economic Council
+  has shaped U.S. economic policy and the rise of algorithmic trading in financial
+  markets.
+title: 'Brian Deese: Education and Achievements at the National Economic Council (Algo
+  Trading)'
 ---
 
 The interconnected themes of education, economics, leadership, and the rise of algorithmic trading form a complex landscape shaping modern financial markets and policy decisions. Central to this exploration is Brian Deese, a pivotal figure in U.S. economic policy, who served as the director of the National Economic Council (NEC) under President Biden. Deese's expertise and leadership have significantly impacted how economic strategies are formulated and implemented, positioning him as a key influencer in addressing contemporary economic challenges.

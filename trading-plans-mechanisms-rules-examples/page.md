@@ -1,6 +1,8 @@
 ---
-title: "Trading Plans: Mechanisms, Rules, and Examples (Algo Trading)"
-description: "Explore trading plans as critical tools in algorithmic trading with this detailed guide on mechanisms and rules Learn how to optimize your investment strategies"
+category: trading_strategy
+description: Explore trading plans as critical tools in algorithmic trading with this
+  detailed guide on mechanisms and rules Learn how to optimize your investment strategies
+title: 'Trading Plans: Mechanisms, Rules, and Examples (Algo Trading)'
 ---
 
 In the ever-evolving world of finance, having a robust investment strategy is crucial for achieving your financial goals. The complexity and dynamism of financial markets necessitate a strategic approach that not only cushions against risks but also maximizes potential returns. This article examines the interconnected domains of financial planning, trading plans, and algorithmic trading, each playing a vital role in the investment decision-making process.

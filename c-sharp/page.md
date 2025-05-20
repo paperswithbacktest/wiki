@@ -1,6 +1,12 @@
 ---
-title: "C# (Algo Trading)"
-description: Explore how C# empowers algorithmic trading with its robust framework and seamless integration with trading platforms. Learn about tools and frameworks to efficiently build and deploy algorithms, leveraging C# for enhanced precision and efficiency in financial markets. Discover popular platforms and open-source projects that support complex trading strategies and are adaptable to evolving market conditions.
+category: trading_strategy
+description: Explore how C# empowers algorithmic trading with its robust framework
+  and seamless integration with trading platforms. Learn about tools and frameworks
+  to efficiently build and deploy algorithms, leveraging C# for enhanced precision
+  and efficiency in financial markets. Discover popular platforms and open-source
+  projects that support complex trading strategies and are adaptable to evolving market
+  conditions.
+title: C# (Algo Trading)
 ---
 
 Algorithmic trading, often referred to as algo trading, involves using computer programs to execute trades based on pre-defined criteria. These programs rely on algorithms to make decisions regarding the timing, price, and quantity of trades, thereby reducing human intervention and potential errors. By leveraging mathematical models and statistical analysis, algo trading aims to maximize returns while minimizing risks across financial markets.

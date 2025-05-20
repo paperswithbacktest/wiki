@@ -1,6 +1,8 @@
 ---
-title: "Range Bar Charts in Market Analysis (Algo Trading)"
-description: "Discover the power of range bar charts in market analysis for algo trading Learn how these price-based charts enhance trend detection and trading strategies"
+category: quant_concept
+description: Discover the power of range bar charts in market analysis for algo trading
+  Learn how these price-based charts enhance trend detection and trading strategies
+title: Range Bar Charts in Market Analysis (Algo Trading)
 ---
 
 In the rapidly-evolving world of financial markets, innovative tools for analysis and trading are continuously being developed to aid traders in making more informed decisions. Among these tools, range bar charts have emerged as a valuable resource, offering traders a unique perspective on market movements and dynamics. Unlike traditional time-based charts, which may obscure critical market signals with temporal noise, range bar charts are constructed based on price changes alone, allowing traders to focus solely on price movement. This can result in clearer insights that enhance both market analysis and algorithmic trading strategies. 

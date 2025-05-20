@@ -1,6 +1,12 @@
 ---
-title: "Equity curve (Algo Trading)"
-description: Explore the importance of equity curves in algorithmic trading as they provide visual insights into the performance of trading strategies over time. A rising equity curve indicates success while a declining one signals potential issues. Traders use these curves to assess and refine strategies enhancing profitability and risk management. Understanding and analyzing equity curves is crucial for developing effective trading models and staying competitive in volatile markets.
+category: trading_strategy
+description: Explore the importance of equity curves in algorithmic trading as they
+  provide visual insights into the performance of trading strategies over time. A
+  rising equity curve indicates success while a declining one signals potential issues.
+  Traders use these curves to assess and refine strategies enhancing profitability
+  and risk management. Understanding and analyzing equity curves is crucial for developing
+  effective trading models and staying competitive in volatile markets.
+title: Equity curve (Algo Trading)
 ---
 
 Algorithmic trading has revolutionized the financial markets by employing complex algorithms to automate trading strategies. Within this field, traders rely on various analytic tools to assess the performance and potential of their strategies. Among these tools, the equity curve stands out as a crucial component for traders. An equity curve visually represents the growth or decline in capital resulting from a specific trading strategy over time.

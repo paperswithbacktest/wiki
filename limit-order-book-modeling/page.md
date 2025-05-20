@@ -1,6 +1,9 @@
 ---
-title: "limit order book modeling (Algo Trading)"
-description: "Explore how limit order book modeling is essential for algorithmic trading, enhancing market transparency and execution efficiency through advanced computational strategies."
+category: quant_concept
+description: Explore how limit order book modeling is essential for algorithmic trading,
+  enhancing market transparency and execution efficiency through advanced computational
+  strategies.
+title: limit order book modeling (Algo Trading)
 ---
 
 A Limit Order Book (LOB) is a fundamental component of electronic financial markets, serving as a structured record of all buy and sell orders for a particular security. These orders are queued based on their price levels and the time they were entered into the system. The LOB facilitates transactions by matching buy and sell orders, acting as an intermediary that enables traders to execute their trades without direct negotiation. It provides transparency in the trading process by displaying the depth of the market, including the prices and quantities of outstanding orders, thus allowing traders to make informed decisions.

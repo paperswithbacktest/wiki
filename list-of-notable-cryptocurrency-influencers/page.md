@@ -1,6 +1,8 @@
 ---
-title: "List of Notable Cryptocurrency Influencers (Algo Trading)"
-description: "Explore the world of cryptocurrency influencers and algo trading Learn how these elements shape the crypto landscape and inform investment decisions"
+category: quant_concept
+description: Explore the world of cryptocurrency influencers and algo trading Learn
+  how these elements shape the crypto landscape and inform investment decisions
+title: List of Notable Cryptocurrency Influencers (Algo Trading)
 ---
 
 The world of cryptocurrency has rapidly transformed into a multifaceted ecosystem brimming with both opportunities and challenges. Since the inception of Bitcoin in 2009, digital currencies have gained significant traction, leading to the creation of thousands of alternative cryptocurrencies and the establishment of a new class of influencers known as crypto experts. These individuals have garnered substantial followings on social media platforms by sharing insights, analysis, and updates, profoundly influencing the opinions and decision-making processes of both novice and experienced investors.

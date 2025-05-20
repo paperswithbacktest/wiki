@@ -1,6 +1,8 @@
 ---
-title: "Capital Goods Sector: Companies and Examples (Algo Trading)"
-description: "Explore the role of the capital goods sector in global economies and its intersection with algorithmic trading strategies influencing market dynamics."
+category: quant_concept
+description: Explore the role of the capital goods sector in global economies and
+  its intersection with algorithmic trading strategies influencing market dynamics.
+title: 'Capital Goods Sector: Companies and Examples (Algo Trading)'
 ---
 
 In the global landscape of industrial and economic systems, the capital goods sector serves as a foundational pillar, essential for facilitating manufacturing processes and enabling production across various industries. This sector encompasses a wide range of machinery and equipment used to produce other goods, playing an indispensable role in both developed and developing economies. The capital goods sector is not only pivotal in maintaining the infrastructure necessary for economic growth but also in fostering technological advancements and innovation. 

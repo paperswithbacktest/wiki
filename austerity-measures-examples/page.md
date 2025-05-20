@@ -1,6 +1,8 @@
 ---
-title: "Austerity Measures and Examples (Algo Trading)"
-description: "Explore the interplay of austerity measures fiscal policy and algorithmic trading in shaping global economic dynamics and market strategies effectively."
+category: quant_concept
+description: Explore the interplay of austerity measures fiscal policy and algorithmic
+  trading in shaping global economic dynamics and market strategies effectively.
+title: Austerity Measures and Examples (Algo Trading)
 ---
 
 Austerity, fiscal policy, and algorithmic trading are pivotal concepts in today's economic and financial landscape. Austerity refers to a set of policies implemented by governments aimed at reducing public sector debt through spending cuts, tax increases, or a combination of both. These measures are often enacted during periods of fiscal crisis, with the objective of improving public finances and restoring confidence in a nation's economic management.

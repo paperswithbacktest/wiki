@@ -1,6 +1,8 @@
 ---
-title: "Calculating Internal Rate of Return in Excel and Google Sheets (Algo Trading)"
-description: "Learn how to calculate the Internal Rate of Return (IRR) using Excel and Google Sheets to evaluate investment profitability with step-by-step guidance."
+category: quant_concept
+description: Learn how to calculate the Internal Rate of Return (IRR) using Excel
+  and Google Sheets to evaluate investment profitability with step-by-step guidance.
+title: Calculating Internal Rate of Return in Excel and Google Sheets (Algo Trading)
 ---
 
 The Internal Rate of Return (IRR) is a pivotal financial metric extensively utilized to assess the potential profitability of investments. Serving as a gauge, IRR delineates the annualized expected yield or rate of return that a project or investment is anticipated to generate. When the IRR is greater than the cost of capital, it typically suggests a favorable investment opportunity.

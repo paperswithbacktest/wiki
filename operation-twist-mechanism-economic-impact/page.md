@@ -1,6 +1,8 @@
 ---
-title: "Operation Twist: Mechanism and Economic Impact (Algo Trading)"
-description: "Explore the intricate dynamics of Operation Twist a Federal Reserve strategy to modify interest rates and its interplay with algorithmic trading in today’s economy."
+category: quant_concept
+description: Explore the intricate dynamics of Operation Twist a Federal Reserve strategy
+  to modify interest rates and its interplay with algorithmic trading in today’s economy.
+title: 'Operation Twist: Mechanism and Economic Impact (Algo Trading)'
 ---
 
 Monetary policy instruments are pivotal in directing economic activity and ensuring financial stability. Among such tools, Operation Twist stands out as a strategic initiative by the Federal Reserve, targeting interest rate manipulation to encourage economic expansion. First introduced in the 1960s and revisited during periods of economic duress, such as the 2008 financial crisis, Operation Twist involves the simultaneous purchasing of long-term Treasury securities while selling short-term ones. This tactical adjustment in the composition of the Fed's balance sheet seeks to influence the yield curve, primarily aiming to lower long-term interest rates without altering the total size of the Federal Reserve's holdings.

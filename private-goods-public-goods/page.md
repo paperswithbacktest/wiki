@@ -1,6 +1,9 @@
 ---
-title: "Private Goods and Public Goods (Algo Trading)"
-description: "Explore the distinctions between private, public, and economic goods, and learn how algorithmic trading impacts their valuation and market behavior in economic theory."
+category: quant_concept
+description: Explore the distinctions between private, public, and economic goods,
+  and learn how algorithmic trading impacts their valuation and market behavior in
+  economic theory.
+title: Private Goods and Public Goods (Algo Trading)
 ---
 
 In economics, goods are categorized based on how they are consumed and accessed, playing a crucial role in understanding resource allocation. Such goods include private, public, and economic goods. Each category has distinct characteristics that affect economic interactions and policies. Private goods are typically characterized by excludability and rivalry, meaning consumption by one individual prevents another from consuming the same unit. Examples include consumer products like food and clothing. On the other hand, public goods are non-excludable and non-rivalrous, such as street lighting or national defense, accessible to all without reducing availability to others.

@@ -1,7 +1,8 @@
 ---
-title: Machine Learning Outlier Detection Methods and Best Practices
+category: quant_concept
 description: Outlier detection in machine learning helps you identify and manage anomalous
   data points that skew model performance and insights Discover more inside.
+title: Machine Learning Outlier Detection Methods and Best Practices
 ---
 
 ![Image](images/1.png)

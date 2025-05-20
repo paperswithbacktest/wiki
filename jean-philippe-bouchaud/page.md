@@ -1,6 +1,12 @@
 ---
-title: "Jean-Philippe Bouchaud (Algo Trading)"
-description: Explore the groundbreaking work of Jean-Philippe Bouchaud, a prominent physicist who has revolutionized algorithmic trading by applying physics principles to finance. His innovative models challenge traditional economic theories, offering advanced methods for predicting market behavior and enhancing risk management. Bouchaud's interdisciplinary approach continues to reshape modern financial markets, influencing both academic research and practical applications.
+category: quant_concept
+description: Explore the groundbreaking work of Jean-Philippe Bouchaud, a prominent
+  physicist who has revolutionized algorithmic trading by applying physics principles
+  to finance. His innovative models challenge traditional economic theories, offering
+  advanced methods for predicting market behavior and enhancing risk management. Bouchaud's
+  interdisciplinary approach continues to reshape modern financial markets, influencing
+  both academic research and practical applications.
+title: Jean-Philippe Bouchaud (Algo Trading)
 ---
 
 Jean-Philippe Bouchaud is a renowned French physicist, widely celebrated for his contributions to the fields of disordered systems and quantitative finance. His work is foundational in bridging the gap between complex physical systems and financial markets, providing innovative methods to understand and predict market behavior. Bouchaud has effectively merged his knowledge of physics with finance, especially through his work in algorithmic trading. This competitive area leverages computer algorithms to automate trading decisions and execute orders at speeds and frequencies beyond human capability, providing substantial advancements in efficiency and precision in financial markets.

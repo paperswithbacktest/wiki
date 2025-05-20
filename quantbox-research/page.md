@@ -1,6 +1,9 @@
 ---
-title: "Quantbox Research (Algo Trading)"
-description: "Discover Quantbox Research's innovative contributions to algorithmic trading offering advanced tools and insights to optimize strategies for modern financial markets."
+category: quant_concept
+description: Discover Quantbox Research's innovative contributions to algorithmic
+  trading offering advanced tools and insights to optimize strategies for modern financial
+  markets.
+title: Quantbox Research (Algo Trading)
 ---
 
 Quantbox Research is a pioneering entity in algorithmic trading, driving innovation and precision in modern financial markets. Algorithmic trading involves the use of computer programs to execute trades at speeds and frequencies that are beyond the reach of human traders. It leverages mathematical models and statistical analysis to make critical trading decisions. In today's fast-paced financial markets, algorithmic trading has become indispensable, accounting for a significant portion of global trading volume. Its significance lies in its ability to offer enhanced trading efficiency, reduced transaction costs, and minimized human error.

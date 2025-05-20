@@ -1,6 +1,8 @@
 ---
-title: "Financial Securities: Examples, Types, Regulation, and Importance (Algo Trading)"
-description: "Explore the role and regulation of financial securities in global markets and see how technology is revolutionizing trading through algorithmic techniques."
+category: quant_concept
+description: Explore the role and regulation of financial securities in global markets
+  and see how technology is revolutionizing trading through algorithmic techniques.
+title: 'Financial Securities: Examples, Types, Regulation, and Importance (Algo Trading)'
 ---
 
 This article explores the multifaceted world of securities regulation, various types of securities, financial securities, and algorithmic trading. Financial markets are complex environments where these concepts intertwine to shape the landscape of global finance. A clear understanding of these areas is essential for market participants, from individual investors to institutional entities, to make informed decisions and achieve their financial objectives. In this discussion, we will cover the definitions, classifications, and the significant impact that technological advancements, particularly in algorithmic trading, have had on trading practices.

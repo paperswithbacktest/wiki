@@ -1,6 +1,9 @@
 ---
-title: "Balloon Maturity and Its Mechanics (Algo Trading)"
-description: "Explore balloon maturity loans and algorithmic trading to enhance financial strategies. Discover their mechanics, benefits, and risks in this comprehensive guide."
+category: quant_concept
+description: Explore balloon maturity loans and algorithmic trading to enhance financial
+  strategies. Discover their mechanics, benefits, and risks in this comprehensive
+  guide.
+title: Balloon Maturity and Its Mechanics (Algo Trading)
 ---
 
 Financial management is a critical aspect of both personal and corporate finance, encompassing the strategic planning, organizing, directing, and controlling of financial undertakings. It involves the effective management of financial resources to achieve financial objectives and maximize profitability. Among the many facets of financial management are loans and investments, two pillars that significantly influence one's financial health and growth.

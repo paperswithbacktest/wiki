@@ -1,6 +1,8 @@
 ---
-title: "AM Best Rating System and History (Algo Trading)"
-description: "Explore AM Best's vital role in financial decision-making with its thorough evaluation of insurers. Learn how ratings enhance algorithmic trading strategies."
+category: quant_concept
+description: Explore AM Best's vital role in financial decision-making with its thorough
+  evaluation of insurers. Learn how ratings enhance algorithmic trading strategies.
+title: AM Best Rating System and History (Algo Trading)
 ---
 
 Understanding insurance ratings is crucial for making informed financial decisions. These ratings provide insights into the financial health and creditworthiness of insurance companies, which are vital for individuals, investors, and financial professionals alike. Among various rating agencies, AM Best stands out as a key player in the global insurance industry.

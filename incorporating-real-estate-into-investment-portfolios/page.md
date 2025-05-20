@@ -1,6 +1,9 @@
 ---
-title: "Incorporating Real Estate into Investment Portfolios (Algo Trading)"
-description: "Explore the integration of real estate into investment portfolios with algo trading uncovering how technology reshapes strategies for enhanced returns and analysis."
+category: trading_strategy
+description: Explore the integration of real estate into investment portfolios with
+  algo trading uncovering how technology reshapes strategies for enhanced returns
+  and analysis.
+title: Incorporating Real Estate into Investment Portfolios (Algo Trading)
 ---
 
 Real estate investment has long been a cornerstone of wealth building, offering investors the potential for significant returns through rental income and property appreciation. As a tangible asset class, real estate provides a hedge against inflation and economic volatility, making it an attractive option for portfolio diversification. In recent years, the industry has witnessed a transformative convergence with technology, particularly the integration of algorithmic trading, which has introduced new dynamics to the market.

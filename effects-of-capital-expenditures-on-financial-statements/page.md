@@ -1,6 +1,9 @@
 ---
-title: "Effects of Capital Expenditures on Financial Statements (Algo Trading)"
-description: "Explore the impact of capital expenditures on financial statements in the context of algorithmic trading and understand their strategic implications for business growth."
+category: quant_concept
+description: Explore the impact of capital expenditures on financial statements in
+  the context of algorithmic trading and understand their strategic implications for
+  business growth.
+title: Effects of Capital Expenditures on Financial Statements (Algo Trading)
 ---
 
 Capital expenditures (CapEx) play a crucial role in business finance, serving as a key driver for expanding operations and modernizing infrastructure. CapEx refers to funds used by a company to acquire, upgrade, or maintain physical assets such as property, industrial buildings, or equipment. These expenditures are vital for companies aiming to enhance their productive capacity or adapt to technological advancements. The strategic allocation of CapEx can significantly influence a firm's long-term growth trajectory and competitive positioning by determining its ability to innovate, scale, and meet market demands.
@@ -150,4 +153,3 @@ Ongoing adaptation and learning are vital as financial markets evolve, necessita
 9. **"Advances in Financial Machine Learning" by Marcos López de Prado** – Explores the use of machine learning techniques in financial markets, providing a modern perspective on improving algorithmic trading strategy effectiveness.
 
 These resources offer foundational knowledge and advanced insights for professionals and students pursuing deeper understanding in capital expenditures, algorithmic trading, and financial strategy.
-

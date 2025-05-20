@@ -1,6 +1,9 @@
 ---
-title: "Jordanian Dinar: Overview and Considerations (Algo Trading)"
-description: "Explore the Jordanian Dinar's stable peg to the US dollar and how it intersects with algorithmic trading in optimizing trade strategies and minimizing risks."
+category: quant_concept
+description: Explore the Jordanian Dinar's stable peg to the US dollar and how it
+  intersects with algorithmic trading in optimizing trade strategies and minimizing
+  risks.
+title: 'Jordanian Dinar: Overview and Considerations (Algo Trading)'
 ---
 
 The Jordanian Dinar (JOD) serves as the official currency of the Hashemite Kingdom of Jordan, playing a critical role in both the nation's history and its economic landscape. Established in 1950, it replaced the Palestinian pound, signifying a pivotal moment in Jordanian economic sovereignty. The currency's enduring importance is primarily attributed to its stability, which is anchored by a fixed exchange rate to the United States dollar. This peg has fostered economic predictability, drawing significant foreign investment and promoting financial confidence within and beyond the borders of Jordan.

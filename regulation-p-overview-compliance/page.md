@@ -1,6 +1,9 @@
 ---
-title: "Regulation P: Overview and Compliance (Algo Trading)"
-description: "Explore Regulation P compliance for algorithmic trading Learn how financial institutions handle consumer data under this privacy regulation essential for protecting information"
+category: quant_concept
+description: Explore Regulation P compliance for algorithmic trading Learn how financial
+  institutions handle consumer data under this privacy regulation essential for protecting
+  information
+title: 'Regulation P: Overview and Compliance (Algo Trading)'
 ---
 
 Privacy regulations play a vital role in safeguarding consumer information within the financial sector. As financial services increasingly rely on digital data processing and sharing, protecting consumer privacy has become paramount. Regulation P, also known as the Privacy of Consumer Financial Information, is a critical regulation that dictates how financial institutions handle consumer financial data. Established under the Gramm-Leach-Bliley Act, Regulation P mandates that financial institutions develop and disclose their privacy policies and practices along with measures for safeguarding consumer non-public personal information.

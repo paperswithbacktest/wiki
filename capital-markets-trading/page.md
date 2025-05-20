@@ -1,6 +1,8 @@
 ---
-title: "Capital Markets Trading (Algo Trading)"
-description: "Explore how algorithmic trading is transforming capital markets by enhancing trade efficiency minimizing costs and offering advanced strategies for investors."
+category: quant_concept
+description: Explore how algorithmic trading is transforming capital markets by enhancing
+  trade efficiency minimizing costs and offering advanced strategies for investors.
+title: Capital Markets Trading (Algo Trading)
 ---
 
 In the rapidly evolving world of finance, capital markets trading is experiencing a significant transformation with the integration of algorithmic trading. Algorithmic trading, commonly known as 'algo trading', involves the use of sophisticated computer algorithms to execute trading orders at speeds and frequencies far beyond the capability of human traders. This technological advancement allows for the processing of vast amounts of financial data in real-time, facilitating the rapid execution of trades and the optimization of investment strategies.

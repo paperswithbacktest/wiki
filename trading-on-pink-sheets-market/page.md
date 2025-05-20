@@ -1,6 +1,8 @@
 ---
-title: "Trading on the Pink Sheets Market (Algo Trading)"
-description: "Explore the dynamics of Pink Sheets trading in the OTC market and how algorithmic trading offers insights and strategies to capitalize on high-risk environments."
+category: trading_strategy
+description: Explore the dynamics of Pink Sheets trading in the OTC market and how
+  algorithmic trading offers insights and strategies to capitalize on high-risk environments.
+title: Trading on the Pink Sheets Market (Algo Trading)
 ---
 
 The stock market offers a plethora of trading avenues, with Over-the-Counter (OTC) Markets being one notable option. Within the hierarchy of OTC Markets, the Pink Sheets stand out as the most speculative and loosely regulated segment. Unlike major exchanges such as the New York Stock Exchange (NYSE) or NASDAQ, Pink Sheets do not impose stringent regulatory standards. This lack of oversight draws a variety of companies, ranging from legitimate foreign firms to more erratic penny stocks.

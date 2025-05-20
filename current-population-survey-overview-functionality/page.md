@@ -1,6 +1,9 @@
 ---
-title: "Current Population Survey: Overview and Functionality (Algo Trading)"
-description: "Explore the vital role of the Current Population Survey in labor market analysis and algorithmic trading. Gain insights into its methodology and applications in economic decision-making."
+category: dataset
+description: Explore the vital role of the Current Population Survey in labor market
+  analysis and algorithmic trading. Gain insights into its methodology and applications
+  in economic decision-making.
+title: 'Current Population Survey: Overview and Functionality (Algo Trading)'
 ---
 
 Survey Methodology refers to the set of processes used to conduct surveys, ensuring that the data collected is accurate, reliable, and representative of the target population. This concept is vital in understanding the Current Population Survey (CPS), which is one of the most significant and influential surveys conducted in the United States. The CPS, a joint initiative by the U.S. Bureau of Labor Statistics (BLS) and the U.S. Census Bureau, is instrumental in providing critical insights into the U.S. labor market.

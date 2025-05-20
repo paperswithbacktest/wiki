@@ -1,6 +1,9 @@
 ---
-title: "Financial Distress Costs: Mechanisms and Calculation (Algo Trading)"
-description: "Explore how financial distress costs and algorithmic trading intersect to offer insights and solutions for financial stability and optimized strategies in firms."
+category: quant_concept
+description: Explore how financial distress costs and algorithmic trading intersect
+  to offer insights and solutions for financial stability and optimized strategies
+  in firms.
+title: 'Financial Distress Costs: Mechanisms and Calculation (Algo Trading)'
 ---
 
 Understanding financial distress costs and the role of algorithmic trading is essential for investors and firms striving to maintain financial stability and optimize their financial strategies. Financial distress costs embody the expenses that a company faces when experiencing financial challenges. These costs can manifest as increased borrowing expenses, reduced operational productivity, and impaired strategic decision-making. Analyzing these costs provides insights into a firm's financial health, its ability to secure capital, and the implications for its operational continuity.

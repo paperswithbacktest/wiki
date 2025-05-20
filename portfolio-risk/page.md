@@ -1,6 +1,13 @@
 ---
-title: "Portfolio risk (Algo Trading)"
-description: Explore the importance of robust risk management in algorithmic trading to safeguard against financial losses due to market volatility and algorithm errors. Understand key concepts like Value at Risk (VaR) and portfolio optimization to balance risk and return effectively. Learn strategies for risk mitigation, such as the use of statistical measures and diversification. This comprehensive guide can enhance your ability to manage portfolios sustainably and profitably in the dynamic algorithmic trading environment.
+category: trading_strategy
+description: Explore the importance of robust risk management in algorithmic trading
+  to safeguard against financial losses due to market volatility and algorithm errors.
+  Understand key concepts like Value at Risk (VaR) and portfolio optimization to balance
+  risk and return effectively. Learn strategies for risk mitigation, such as the use
+  of statistical measures and diversification. This comprehensive guide can enhance
+  your ability to manage portfolios sustainably and profitably in the dynamic algorithmic
+  trading environment.
+title: Portfolio risk (Algo Trading)
 ---
 
 Portfolio risk management is an integral aspect of algorithmic trading, which leverages sophisticated computer algorithms to automate trading decisions and activities. This method of trading has revolutionized financial markets through enhanced efficiency and improved precision in trade executions. However, it also introduces unique risks, particularly related to managing trading portfolios.

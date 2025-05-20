@@ -1,6 +1,8 @@
 ---
-title: "Barriers to Entry and Competitive Limitations (Algo Trading)"
-description: "Discover the complexities of algorithmic trading by exploring competitive limitations and barriers to entry. Gain insights into market dynamics and innovation."
+category: quant_concept
+description: Discover the complexities of algorithmic trading by exploring competitive
+  limitations and barriers to entry. Gain insights into market dynamics and innovation.
+title: Barriers to Entry and Competitive Limitations (Algo Trading)
 ---
 
 Algorithmic trading refers to the use of computer algorithms to automate trading decisions, execution, and management in financial markets. This method of trading has gained significant prominence due to its ability to process large volumes of data with speed and accuracy, far surpassing the capabilities of human traders. Over the past few decades, algorithmic trading has revolutionized trading practices by enhancing efficiency, reducing transaction costs, and allowing traders to conduct high-frequency operations that capitalize on market movements in fractions of a second.

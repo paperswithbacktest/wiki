@@ -1,6 +1,10 @@
 ---
-title: "Amortization and Depreciation Differences (Algo Trading)"
-description: "Explore the distinctions between amortization and depreciation in financial accounting, and their significance in algorithmic trading. Learn how these concepts impact asset value representation, risk assessment, and investment strategies crucial for navigating today's financial landscape."
+category: quant_concept
+description: Explore the distinctions between amortization and depreciation in financial
+  accounting, and their significance in algorithmic trading. Learn how these concepts
+  impact asset value representation, risk assessment, and investment strategies crucial
+  for navigating today's financial landscape.
+title: Amortization and Depreciation Differences (Algo Trading)
 ---
 
 In today's dynamic financial landscape, understanding financial concepts such as financial accounting, amortization, depreciation, and algorithmic trading is essential for both aspiring and seasoned investors. These core principles form the backbone of effective investment strategies and play a vital role in decision-making processes within the financial sector. 
@@ -163,4 +167,4 @@ As technology and financial markets evolve, staying updated on these core princi
 
 [7]: ["Amortization vs. Depreciation: A Comparison"](https://www.investopedia.com/ask/answers/06/amortizationvsdepreciation.asp) on Investopedia
 
-[8]: ["The Impact of Machine Learning on Economics"](https://projects.iq.harvard.edu/files/pegroup/files/athey2018.pdf) by Athey, S., & Imbens, G. W. 
+[8]: ["The Impact of Machine Learning on Economics"](https://projects.iq.harvard.edu/files/pegroup/files/athey2018.pdf) by Athey, S., & Imbens, G. W.

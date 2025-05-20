@@ -1,6 +1,12 @@
 ---
-title: "Jensen’s Alpha Explained (Algo Trading)"
-description: Discover how Jensen's Alpha, also known as the Jensen Ratio, serves as a vital tool in algorithmic trading for evaluating risk-adjusted portfolio performance. Learn about its calculation using the Capital Asset Pricing Model and its significance in optimizing trading strategies by providing insights into returns compared to market expectations. Explore the role it plays in assessing trading algorithms efficiency and effectiveness, ultimately enhancing decision-making for optimal investment strategies.
+category: quant_concept
+description: Discover how Jensen's Alpha, also known as the Jensen Ratio, serves as
+  a vital tool in algorithmic trading for evaluating risk-adjusted portfolio performance.
+  Learn about its calculation using the Capital Asset Pricing Model and its significance
+  in optimizing trading strategies by providing insights into returns compared to
+  market expectations. Explore the role it plays in assessing trading algorithms efficiency
+  and effectiveness, ultimately enhancing decision-making for optimal investment strategies.
+title: Jensen’s Alpha Explained (Algo Trading)
 ---
 
 The Jensen Ratio, also known as Jensen's Alpha, serves as an essential tool for evaluating the risk-adjusted performance of investment portfolios. It reflects the ability of a portfolio manager or trading algorithm to generate returns that surpass expected levels that factor in market risks. Named after the economist Michael Jensen, this metric uses the Capital Asset Pricing Model (CAPM) to assess whether the returns on an asset, portfolio, or trading strategy have outperformed a benchmark index after adjusting for risk.

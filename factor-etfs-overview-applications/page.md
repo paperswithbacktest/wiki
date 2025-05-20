@@ -1,6 +1,8 @@
 ---
-title: "Factor ETFs: Overview and Applications (Algo Trading)"
-description: "Explore the benefits of Factor ETFs in algorithmic trading with insights on strategic factor exposure and portfolio diversification to optimize performance."
+category: trading_strategy
+description: Explore the benefits of Factor ETFs in algorithmic trading with insights
+  on strategic factor exposure and portfolio diversification to optimize performance.
+title: 'Factor ETFs: Overview and Applications (Algo Trading)'
 ---
 
 Exchange-Traded Funds (ETFs) have emerged as a favored choice among investors due to their inherent flexibility, cost-effectiveness, and ability to provide diversified exposure to various asset classes. Within the expansive universe of ETFs, Factor ETFs represent a specialized subset, designed to target specific market factors such as size, value, momentum, and volatility. This specialized targeting aims to bolster returns and improve the risk-adjusted performance of an investment portfolio.

@@ -1,6 +1,8 @@
 ---
-title: "Variable Price Limit (Algo Trading)"
-description: "Explore the crucial role of variable price limits in moderating volatility and maintaining stability in financial markets, especially in algorithmic trading."
+category: quant_concept
+description: Explore the crucial role of variable price limits in moderating volatility
+  and maintaining stability in financial markets, especially in algorithmic trading.
+title: Variable Price Limit (Algo Trading)
 ---
 
 In today's dynamic financial markets, managing volatility is crucial for maintaining investor confidence and preserving market integrity. Financial markets are continually shaped by rapid technological advancements, which have introduced sophisticated trading practices such as algorithmic trading. These practices, while enhancing operational efficiency, can also contribute to significant volatility, highlighting the need for mechanisms that ensure market stability. Variable price limits are crucial tools implemented to address this challenge.

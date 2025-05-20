@@ -1,6 +1,11 @@
 ---
-title: "Modigliani-Miller Theorem (Algo Trading)"
-description: "Discover how the Modigliani-Miller theorem influences corporate finance and algorithmic trading. Explore this seminal concept that redefines capital structure relevance, emphasizing future earnings over financial engineering. Understand its theory, historical context, and practical implications in modern finance, offering insights into trading strategies and capital budgeting."
+category: quant_concept
+description: Discover how the Modigliani-Miller theorem influences corporate finance
+  and algorithmic trading. Explore this seminal concept that redefines capital structure
+  relevance, emphasizing future earnings over financial engineering. Understand its
+  theory, historical context, and practical implications in modern finance, offering
+  insights into trading strategies and capital budgeting.
+title: Modigliani-Miller Theorem (Algo Trading)
 ---
 
 The Modigliani-Miller theorem is a fundamental concept in corporate finance that has significantly influenced how firms and investors view capital structure and valuation. Developed by economists Franco Modigliani and Merton Miller in the 1950s, this theorem posits that the value of a company is determined by its future earnings rather than the way it finances its operations. In essence, under a set of idealized conditions—including no taxes, perfect capital markets, and symmetric information between investors—a firm's market value remains unaffected by its capital structure.

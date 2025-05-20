@@ -1,6 +1,8 @@
 ---
-title: "Piggyback Warrants (Algo Trading)"
-description: "Discover how piggyback warrants enhance investment strategies when paired with algorithmic trading Learn to optimize trades and capitalize on market inefficiencies"
+category: quant_concept
+description: Discover how piggyback warrants enhance investment strategies when paired
+  with algorithmic trading Learn to optimize trades and capitalize on market inefficiencies
+title: Piggyback Warrants (Algo Trading)
 ---
 
 The financial world is ever-evolving, with investors constantly on the lookout for innovative ways to enhance returns. Financial instruments such as stock warrants and piggyback warrants provide unique investment opportunities that can be leveraged for substantial gains. Stock warrants are derivatives that allow investors to purchase a company's stock at a predetermined price, creating possibilities for profit if the stock's market price exceeds this strike price at the time of exercising the warrant. Piggyback warrants take this concept further by activating after primary warrants are exercised, thus offering additional investment opportunities at potentially advantageous terms.

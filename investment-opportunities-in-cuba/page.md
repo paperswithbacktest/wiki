@@ -1,6 +1,8 @@
 ---
-title: "Investment Opportunities in Cuba (Algo Trading)"
-description: "Explore investment opportunities in Cuba's evolving economy with insights into recent reforms and the potential of algorithmic trading to enhance market efficiency."
+category: trading_strategy
+description: Explore investment opportunities in Cuba's evolving economy with insights
+  into recent reforms and the potential of algorithmic trading to enhance market efficiency.
+title: Investment Opportunities in Cuba (Algo Trading)
 ---
 
 Cuba's economy has undergone numerous changes since the mid-20th century, heavily influenced by political shifts and international relations. The island nation, strategically located in the Caribbean, possesses a skilled workforce and abundant natural resources, making it a region of significant potential for investors. Historically, Cuba's economy has been shaped by its political landscape, with the transition to socialism in the late 1950s marking a defining moment.
@@ -110,4 +112,3 @@ In summary, while investment in Cuba comes with its set of challenges—chiefly 
 [7]: Mesquita Moreira, M., & Blyde, J. (eds.). (2006). ["Unblocking Trade: Alternatives to Cancun."](https://mpra.ub.uni-muenchen.de/59736/) Inter-American Development Bank.
 
 [8]: Hoffmann, B. (2004). ["The Politics of the Internet in Third World Development: Challenges in Contrasting Regimes with Case Studies of Cuba, Nicaragua and Sri Lanka."](https://en.wikipedia.org/wiki/Philip_Seymour_Hoffman) Palgrave Macmillan.
-

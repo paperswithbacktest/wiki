@@ -1,6 +1,12 @@
 ---
-title: "Benford’s Law Suggests Bitcoin’s Price Manipulation"
-description: Explore the intriguing findings of a study that applies Benford's Law to Bitcoin's price data, revealing potential market manipulation. Utilizing a mathematical principle often used to detect anomalies, the study suggests deviations from expected patterns in Bitcoin's prices due to algorithmic trading. This indicates possible manipulation in cryptocurrency markets, emphasizing the need for investigation and regulation to ensure market integrity and transparency.
+category: quant_concept
+description: Explore the intriguing findings of a study that applies Benford's Law
+  to Bitcoin's price data, revealing potential market manipulation. Utilizing a mathematical
+  principle often used to detect anomalies, the study suggests deviations from expected
+  patterns in Bitcoin's prices due to algorithmic trading. This indicates possible
+  manipulation in cryptocurrency markets, emphasizing the need for investigation and
+  regulation to ensure market integrity and transparency.
+title: Benford’s Law Suggests Bitcoin’s Price Manipulation
 ---
 
 Bitcoin, the enigmatic cryptocurrency, has captured substantial attention as both a pioneering digital asset and a contentious topic within financial circles. Lauded by its proponents for offering unparalleled transparency through its underlying blockchain technology, Bitcoin presents a system where every transaction is chronologically recorded and publicly verifiable. This characteristic offers a sense of security and authenticity that traditional financial systems may lack. However, the cryptocurrency is not without its critics. Concerns often focus on its significant price volatility, which can pose substantial risks to investors, and its susceptibility to manipulation, raising questions about market integrity.

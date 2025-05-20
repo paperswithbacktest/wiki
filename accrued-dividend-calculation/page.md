@@ -1,6 +1,8 @@
 ---
-title: "Accrued Dividend Calculation (Algo Trading)"
-description: "Explore financial accounting, accrued dividends, and algorithmic trading to boost investment strategy. Optimize dividend calculations and trading efficiency."
+category: quant_concept
+description: Explore financial accounting, accrued dividends, and algorithmic trading
+  to boost investment strategy. Optimize dividend calculations and trading efficiency.
+title: Accrued Dividend Calculation (Algo Trading)
 ---
 
 Financial accounting, accrued dividends, and algorithmic trading represent interconnected facets of modern investing. Understanding these elements is essential for investors seeking to maximize their returns while navigating the complexities of financial markets. This article explores the roles of financial accounting and accrued dividends in dividend calculation and highlights the integration of algorithmic trading into investment strategies, thus providing investors with innovative ways to optimize their portfolios.

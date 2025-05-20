@@ -1,6 +1,12 @@
 ---
-title: "Momentum investing (Algo Trading)"
-description: Explore the dynamic world of momentum investing intertwined with algorithmic trading. Discover how this powerful strategy leverages market inefficiencies by identifying and capitalizing on existing trends. The page investigates into the integration of algorithmic techniques, enabling traders to enhance speed and efficiency in executing momentum strategies. Uncover how historical insights and technological advancements shape modern momentum investing, redefining the financial landscape.
+category: trading_strategy
+description: Explore the dynamic world of momentum investing intertwined with algorithmic
+  trading. Discover how this powerful strategy leverages market inefficiencies by
+  identifying and capitalizing on existing trends. The page investigates into the
+  integration of algorithmic techniques, enabling traders to enhance speed and efficiency
+  in executing momentum strategies. Uncover how historical insights and technological
+  advancements shape modern momentum investing, redefining the financial landscape.
+title: Momentum investing (Algo Trading)
 ---
 
 Momentum investing is a dynamic strategy rooted in the simple concept of buying stocks that have shown strong recent performance and selling those that have underperformed. Typically evaluated over periods of three to twelve months, this approach capitalizes on the continuation of existing market trends. Despite its historical success in yielding significant returns, momentum investing presents a fundamental challenge to traditional financial theories, particularly the efficient market hypothesis (EMH). According to EMH, asset prices fully reflect all available information, suggesting that consistently outperforming the market should be impossible without exceptional risk.

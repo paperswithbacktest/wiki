@@ -1,6 +1,11 @@
 ---
-title: "Expected Return in Finance (Algo Trading)"
-description: "Explore the significance of expected return in finance, particularly in algorithmic trading, and understand its role in predicting investment outcomes and maximizing returns. Discover how expected return aids in risk assessment, decision-making, and performance benchmarking, while providing a statistical foundation for optimizing investment portfolios tailored to investors' risk preferences and financial objectives."
+category: quant_concept
+description: Explore the significance of expected return in finance, particularly
+  in algorithmic trading, and understand its role in predicting investment outcomes
+  and maximizing returns. Discover how expected return aids in risk assessment, decision-making,
+  and performance benchmarking, while providing a statistical foundation for optimizing
+  investment portfolios tailored to investors' risk preferences and financial objectives.
+title: Expected Return in Finance (Algo Trading)
 ---
 
 The world of finance presents investors with a diverse array of investment opportunities, each characterized by different potential returns driven by market dynamics, risk levels, and economic conditions. Among the various concepts integral to informed investment decision-making, the expected return plays a pivotal role. Essentially, the expected return is a statistical measure that forecasts the weighted average of potential profits or losses from an investment, thus providing insights into its anticipated performance.

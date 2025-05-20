@@ -1,6 +1,8 @@
 ---
-title: "Company Earnings and Measurement Examples (Algo Trading)"
-description: "Explore how algorithmic trading harnesses the power of financial measurements and earnings reports to optimize trading strategies and enhance market predictions."
+category: quant_concept
+description: Explore how algorithmic trading harnesses the power of financial measurements
+  and earnings reports to optimize trading strategies and enhance market predictions.
+title: Company Earnings and Measurement Examples (Algo Trading)
 ---
 
 The financial market is an ever-evolving landscape where the measurement of earnings plays a critical role in determining a company's financial health. Earnings reports, usually released on a quarterly basis, provide investors with essential insights into a company's profitability and overall performance. These reports serve as a foundational tool for investors and analysts who seek to make informed decisions by evaluating the financial health and growth potential of companies.

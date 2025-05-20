@@ -1,6 +1,8 @@
 ---
-title: "Fibonacci Arcs: Calculation and Formula (Algo Trading)"
-description: "Explore Fibonacci Arcs in algo trading and discover how these dynamic tools identify support and resistance levels aiding in market forecasting for traders."
+category: quant_concept
+description: Explore Fibonacci Arcs in algo trading and discover how these dynamic
+  tools identify support and resistance levels aiding in market forecasting for traders.
+title: 'Fibonacci Arcs: Calculation and Formula (Algo Trading)'
 ---
 
 Technical analysis is an essential practice in the trading world, enabling traders to forecast market trends and make informed decisions based on past price movements and volume data. A wide array of technical analysis tools is available to traders, each with its own approach to evaluating price actions and identifying potential market movements. Among these, Fibonacci Arcs hold a special position due to their unique method of identifying potential support and resistance levels through geometric relationships.

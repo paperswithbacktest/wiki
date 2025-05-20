@@ -1,6 +1,8 @@
 ---
-title: "Constant Yield Method Overview and Calculation (Algo Trading)"
-description: "Explore how the constant yield method and algorithmic trading strategies merge to enhance investment returns with precise yield calculations and rapid executions."
+category: quant_concept
+description: Explore how the constant yield method and algorithmic trading strategies
+  merge to enhance investment returns with precise yield calculations and rapid executions.
+title: Constant Yield Method Overview and Calculation (Algo Trading)
 ---
 
 In the ever-evolving financial landscape, understanding yield calculations and algorithmic trading is crucial for investors seeking to optimize their portfolio strategies. Yield metrics, such as the constant yield method, are vital in bond valuation and influence investment decisions by providing a measure of the income generated from fixed-income securities relative to their price or face value. The constant yield method provides a more precise indication of return by accounting for the time value of money through discounted cash flow analysis, contrasting simpler approaches like current yield or coupon yield, which may not fully capture a bond's potential return over its lifetime.

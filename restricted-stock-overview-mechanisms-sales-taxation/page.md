@@ -1,6 +1,9 @@
 ---
-title: "Restricted Stock: Overview, Mechanisms, Sales, and Taxation (Algo Trading)"
-description: "Explore the mechanisms, sales, and taxation of restricted stocks in the world of algo trading Discover strategies for optimizing your investments and navigating complex tax landscapes"
+category: quant_concept
+description: Explore the mechanisms, sales, and taxation of restricted stocks in the
+  world of algo trading Discover strategies for optimizing your investments and navigating
+  complex tax landscapes
+title: 'Restricted Stock: Overview, Mechanisms, Sales, and Taxation (Algo Trading)'
 ---
 
 Investors and companies face an increasingly complex landscape when it comes to stock transactions and asset management. Central to understanding this environment are the key topics of stock sales, stock taxation, restricted stocks, and algorithmic trading. These elements form the backbone of modern investment strategies and corporate compensation frameworks.

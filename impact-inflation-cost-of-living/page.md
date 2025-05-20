@@ -1,6 +1,8 @@
 ---
-title: "Impact of Inflation on Cost of Living (Algo Trading)"
-description: "Explore the intricate links between inflation, cost of living, and algorithmic trading in today's economy, highlighting their combined impact on financial decisions."
+category: quant_concept
+description: Explore the intricate links between inflation, cost of living, and algorithmic
+  trading in today's economy, highlighting their combined impact on financial decisions.
+title: Impact of Inflation on Cost of Living (Algo Trading)
 ---
 
 In today's interconnected global economy, understanding economic indicators such as inflation and the cost of living is increasingly important. These metrics are critical in evaluating financial health and social well-being across different societies. Inflation refers to the rise in prices over time, which directly impacts the purchasing power of consumers and the stability of the economy. The cost of living, on the other hand, encompasses the amount of money needed to sustain a certain standard of living, covering expenses for goods and services, housing, and healthcare.
@@ -178,4 +180,3 @@ As the future unfolds, the exploration and adaptation to new economic measuremen
 10. **Hochreiter, S., & Schmidhuber, J. (1997).** "Long Short-Term Memory," *Neural Computation*, 9(8), 1735-1780. This seminal paper introduces LSTM networks, which have applications in predicting economic trends for algorithmic trading.  
 
 For further reading, these sources provide varying perspectives on the intricate relationships between inflation, economic indicators, and algorithmic trading methods.
-

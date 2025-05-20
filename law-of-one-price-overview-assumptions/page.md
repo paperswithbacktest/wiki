@@ -1,6 +1,8 @@
 ---
-title: "Law of One Price: Overview and Assumptions (Algo Trading)"
-description: "Explore the law of one price in efficient markets with a focus on algorithmic trading's role in enhancing market equilibrium and pricing consistency."
+category: quant_concept
+description: Explore the law of one price in efficient markets with a focus on algorithmic
+  trading's role in enhancing market equilibrium and pricing consistency.
+title: 'Law of One Price: Overview and Assumptions (Algo Trading)'
 ---
 
 Economic theory forms the bedrock of our understanding of markets, serving as both a lens to view financial interactions and a guide for policymaking. In its essence, economic theory examines how individuals, firms, and governments allocate resources to meet various needs and desires, influencing the structure and behavior of financial markets. Its significance is underscored by the transformative impact it has had on modern financial systems, from shaping regulatory frameworks to guiding investment strategies. This theoretical underpinning helps explain market dynamics and provides tools for predicting and managing economic phenomena.

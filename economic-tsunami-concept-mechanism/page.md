@@ -1,6 +1,8 @@
 ---
-title: "Economic Tsunami: Concept and Mechanism (Algo Trading)"
-description: "Explore the concept of economic tsunamis and the role of algorithmic trading in navigating financial crises and globalization impacts in modern markets."
+category: quant_concept
+description: Explore the concept of economic tsunamis and the role of algorithmic
+  trading in navigating financial crises and globalization impacts in modern markets.
+title: 'Economic Tsunami: Concept and Mechanism (Algo Trading)'
 ---
 
 The financial landscape has undergone significant transformations over recent decades, driven by rapid technological advancements and a series of economic crises. These shifts have necessitated the development of new tools and strategies to manage economic turbulence, one of which is algorithmic trading (algo trading). The metaphor 'economic tsunami' is often used to describe profound economic disruptions that sweep across financial markets with significant force, much like a tidal wave reshaping the coastline. Economic crises, whether regional or global, have massive impacts on financial markets, creating both challenges and opportunities. 
@@ -162,4 +164,3 @@ Aronson, D. R. (2006). "Evidence-Based Technical Analysis: Applying the Scientif
 Jansen, S. (2020). "Machine Learning for Algorithmic Trading: Predictive Models to Extract Signals from Market and Alternative Data for Systematic Trading Strategies with Python." Packt Publishing Ltd. A practical guide focused on using machine learning in Python to create and implement systematic trading strategies.
 
 Chan, E. P. (2009). "Quantitative Trading: How to Build Your Own Algorithmic Trading Business." John Wiley & Sons. This book offers a pragmatic approach to establishing an algorithmic trading business, covering essential concepts and strategies necessary for success in [quantitative trading](/wiki/quantitative-trading).
-

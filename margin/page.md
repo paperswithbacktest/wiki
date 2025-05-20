@@ -1,6 +1,11 @@
 ---
-title: "Margin (Algo Trading)"
-description: Discover the crucial role of margin in algorithmic trading, where leverage strategies empower traders to optimize their capital use. Margin acts as collateral, allowing control over larger positions to amplify potential returns while managing credit risk. It facilitates strategic financial transactions while ensuring stability in markets. Explore how margin enhances trading efficiency within algorithmic strategies.
+category: quant_concept
+description: Discover the crucial role of margin in algorithmic trading, where leverage
+  strategies empower traders to optimize their capital use. Margin acts as collateral,
+  allowing control over larger positions to amplify potential returns while managing
+  credit risk. It facilitates strategic financial transactions while ensuring stability
+  in markets. Explore how margin enhances trading efficiency within algorithmic strategies.
+title: Margin (Algo Trading)
 ---
 
 Margin is a cornerstone of algorithmic trading, offering traders an opportunity to leverage positions and manage capital effectively. In algorithmic trading, where strategies are executed by computer algorithms at speed and volume beyond human capacity, margin plays a critical role. Its primary function is to act as collateral, enabling traders to control larger positions than they could with their capital alone.

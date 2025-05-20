@@ -1,9 +1,12 @@
 ---
-title: "Machine learning trading strategies"
-description: Discover how machine learning is revolutionizing trading strategies in finance, enabling faster decision-making and more accurate predictions. Explore the concepts of supervised and unsupervised learning, and their applications in trading, as well as the emerging role of reinforcement learning. Unlock insights into complex financial data and stay ahead in today's volatile markets.
+category: trading_strategy
+description: Discover how machine learning is revolutionizing trading strategies in
+  finance, enabling faster decision-making and more accurate predictions. Explore
+  the concepts of supervised and unsupervised learning, and their applications in
+  trading, as well as the emerging role of reinforcement learning. Unlock insights
+  into complex financial data and stay ahead in today's volatile markets.
+title: Machine learning trading strategies
 ---
-
-
 
 Machine learning, a subset of artificial intelligence, has been transforming the landscape of trading strategies, introducing a level of precision and efficiency previously unattainable. At its core, machine learning employs algorithms that can learn from and make predictions on data, making it an invaluable tool in the complex and data-driven world of trading. This technological evolution is not just a fleeting trend but a fundamental shift in how trading strategies are developed and executed.
 

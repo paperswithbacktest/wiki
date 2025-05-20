@@ -1,7 +1,8 @@
 ---
-title: Multi-Scale Training Techniques for Robust Object Detection
+category: quant_concept
 description: Multi-Scale Training enhances object detection by teaching models to
   identify objects at varied sizes boosting accuracy for real use Discover more inside
+title: Multi-Scale Training Techniques for Robust Object Detection
 ---
 
 ![Image](images/1.png)

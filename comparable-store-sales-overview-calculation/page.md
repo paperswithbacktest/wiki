@@ -1,6 +1,9 @@
 ---
-title: "Comparable Store Sales: Overview and Calculation (Algo Trading)"
-description: "Explore how comparable store sales can enhance retail strategies by analyzing organic growth at established locations and integrating with algo trading for optimized performance."
+category: quant_concept
+description: Explore how comparable store sales can enhance retail strategies by analyzing
+  organic growth at established locations and integrating with algo trading for optimized
+  performance.
+title: 'Comparable Store Sales: Overview and Calculation (Algo Trading)'
 ---
 
 The retail industry is undergoing a significant transformation, primarily fueled by technological advancements and evolving consumer behaviors. As retailers strive to adapt to a dynamic market environment, they increasingly turn to innovative strategies to maintain and enhance their competitive positioning. One such strategy is the analysis of comparable store sales, commonly known as 'comps.' This metric plays a critical role in retail analysis as it allows businesses to assess the sales performance of established locations without the confounding effects of expansion.

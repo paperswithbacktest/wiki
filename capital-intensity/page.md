@@ -1,6 +1,9 @@
 ---
-title: "Capital Intensity (Algo Trading)"
-description: "Explore the interplay between capital-intensive industries and algorithmic trading Learn how economic metrics aid stakeholders in optimizing resources and investment strategies"
+category: quant_concept
+description: Explore the interplay between capital-intensive industries and algorithmic
+  trading Learn how economic metrics aid stakeholders in optimizing resources and
+  investment strategies
+title: Capital Intensity (Algo Trading)
 ---
 
 In today's dynamic economic environment, understanding capital-intensive businesses is crucial for investors, economists, and entrepreneurs. These industries demand significant investment in fixed assets, such as property, plant, and equipment, to produce goods or services. As a result, they are pivotal in shaping global economic dynamics. Capital-intensive industries include sectors like automobile manufacturing, oil production, and telecommunications, which require extensive investment to maintain and enhance production capabilities. The importance of these industries is underscored by their substantial contribution to GDP, technological advancements, and employment generation.

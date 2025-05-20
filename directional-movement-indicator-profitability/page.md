@@ -1,6 +1,8 @@
 ---
-title: "Directional Movement Indicator and Profitability (Algo Trading)"
-description: "Explore how the Directional Movement Index (DMI) can boost algorithmic trading profitability by identifying market trends and optimizing trading strategies."
+category: trading_strategy
+description: Explore how the Directional Movement Index (DMI) can boost algorithmic
+  trading profitability by identifying market trends and optimizing trading strategies.
+title: Directional Movement Indicator and Profitability (Algo Trading)
 ---
 
 The world of trading is progressing at an unprecedented pace, fueled by the integration of advanced technical indicators and sophisticated algorithmic tools. Among these, the Directional Movement Index (DMI) stands out as a powerful instrument essential for developing effective trading strategies. As traders seek innovative approaches to boost their returns, understanding and implementing the DMI can greatly enhance trading effectiveness and profitability.

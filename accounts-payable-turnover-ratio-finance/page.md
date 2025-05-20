@@ -1,6 +1,9 @@
 ---
-title: "Accounts Payable Turnover Ratio in Finance (Algo Trading)"
-description: "Discover the role of the Accounts Payable Turnover Ratio in financial analysis and algorithmic trading Learn how this key metric impacts liquidity and decision-making"
+category: quant_concept
+description: Discover the role of the Accounts Payable Turnover Ratio in financial
+  analysis and algorithmic trading Learn how this key metric impacts liquidity and
+  decision-making
+title: Accounts Payable Turnover Ratio in Finance (Algo Trading)
 ---
 
 Financial trading is a pivotal element of the global economy, driving economic growth and enabling the exchange of goods and services across borders. This dynamic field involves the buying and selling of financial instruments such as stocks, bonds, currencies, and derivatives, facilitating capital allocation and risk management. A crucial aspect of successful trading lies in effective financial analysis, which aids traders and investors in making informed decisions.

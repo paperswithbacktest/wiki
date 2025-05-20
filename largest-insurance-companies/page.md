@@ -1,6 +1,8 @@
 ---
-title: "List of Largest Insurance Companies (Algo Trading)"
-description: "Explore the impact of algorithmic trading on leading insurance companies, enhancing risk management and investment efficiency amidst global economic shifts."
+category: dataset
+description: Explore the impact of algorithmic trading on leading insurance companies,
+  enhancing risk management and investment efficiency amidst global economic shifts.
+title: List of Largest Insurance Companies (Algo Trading)
 ---
 
 The global insurance market serves as a foundational pillar in the provision of risk management solutions, essential for safeguarding the interests of individuals, businesses, and governments worldwide. Insurance, by its very nature, allows for the transfer and mitigation of risk, offering a financial safety net that supports economic stability and growth. This article aims to examine some of the largest insurance companies, their financial robustness, and the transformative influence of algorithmic trading within the industry. 

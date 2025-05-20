@@ -1,6 +1,8 @@
 ---
-title: "Commitments of Traders Report: Function, Categories, and Examples (Algo Trading)"
-description: "Gain insights into futures market dynamics with the Commitments of Traders report explore its functionality and strategic use in algorithmic trading strategies."
+category: dataset
+description: Gain insights into futures market dynamics with the Commitments of Traders
+  report explore its functionality and strategic use in algorithmic trading strategies.
+title: 'Commitments of Traders Report: Function, Categories, and Examples (Algo Trading)'
 ---
 
 The Commitments of Traders (COT) report is a critical resource for those involved in the futures market, delivering invaluable insights into market dynamics and trader behavior. Released weekly by the Commodity Futures Trading Commission (CFTC), the COT report provides a detailed snapshot of the positions held by different categories of traders in the U.S. futures markets. By revealing the aggregated positioning of commercial traders, non-commercial traders, and non-reportable positions, the COT report aims to enhance market transparency and offer a clearer perspective on market sentiment.

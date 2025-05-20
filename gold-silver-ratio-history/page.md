@@ -1,6 +1,13 @@
 ---
-title: "Gold-Silver Ratio History (Algo Trading)"
-description: "Discover the historical dynamics and investment insights of the gold-silver ratio in the precious metals market. This metric, assessing the relative value of gold and silver, plays a significant role in algorithmic trading strategies. Fluctuating due to various economic factors, the ratio offers traders opportunities to make strategic investments. Learn how understanding the historical context and modern applications of the gold-silver ratio can enhance trading strategies and decision-making for increased profit and reduced risk."
+category: quant_concept
+description: Discover the historical dynamics and investment insights of the gold-silver
+  ratio in the precious metals market. This metric, assessing the relative value of
+  gold and silver, plays a significant role in algorithmic trading strategies. Fluctuating
+  due to various economic factors, the ratio offers traders opportunities to make
+  strategic investments. Learn how understanding the historical context and modern
+  applications of the gold-silver ratio can enhance trading strategies and decision-making
+  for increased profit and reduced risk.
+title: Gold-Silver Ratio History (Algo Trading)
 ---
 
 The precious metals market, renowned for its historical significance and investment potential, often attracts attention for the fascinating dynamics between gold and silver. At the heart of this interest lies a particularly intriguing metric: the gold-silver ratio. This ratio evaluates the relative value between these two metals by expressing how many ounces of silver it takes to purchase one ounce of gold. This relationship not only serves as a traditional metric of comparison but also provides rich insights for investment strategies, particularly through algorithmic trading. Algorithmic trading utilizes technology to execute trades based on predetermined criteria, making it an ideal platform for engaging with the insights provided by the gold-silver ratio. 
@@ -270,4 +277,3 @@ Investopedia provides a comprehensive historical guide to the gold-silver ratio 
    This paper investigates into mean-reversion trading strategies, which are frequently employed in trading based on the gold-silver ratio. It outlines the statistical rationale and practical implementation of these strategies.
 
 These resources provide foundational insights into both the historical and practical applications of the gold-silver ratio, offering valuable perspectives for both novice and experienced traders interested in its use within algorithmic trading frameworks.
-

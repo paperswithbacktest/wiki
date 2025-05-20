@@ -1,6 +1,8 @@
 ---
-title: "Over-the-Counter Trading of Bonds in the Secondary Market (Algo Trading)"
-description: "Explore the dynamics of over-the-counter bond trading in the secondary market with a focus on algorithmic trading's role in enhancing liquidity and efficiency."
+category: quant_concept
+description: Explore the dynamics of over-the-counter bond trading in the secondary
+  market with a focus on algorithmic trading's role in enhancing liquidity and efficiency.
+title: Over-the-Counter Trading of Bonds in the Secondary Market (Algo Trading)
 ---
 
 Bonds are essential instruments in the financial markets, serving as tools for raising capital and for investors seeking steady returns. Governments, corporations, and municipalities issue bonds as a form of debt, providing them with a means to fund projects, operations, or to refinance existing obligations. These fixed-income securities promise to pay periodic interest payments and return the principal at maturity, making them a staple in diversified investment portfolios. Bonds are integral in balancing risk, offering stability and predictable income that counterbalances the volatility of equities.

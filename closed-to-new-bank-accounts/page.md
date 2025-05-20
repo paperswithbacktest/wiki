@@ -1,6 +1,9 @@
 ---
-title: "Closed To New Bank Accounts (Algo Trading)"
-description: "Explore the impact of bank account closures on financial strategies with a focus on algorithmic trading Discover risk mitigation and innovative solutions to stay resilient"
+category: quant_concept
+description: Explore the impact of bank account closures on financial strategies with
+  a focus on algorithmic trading Discover risk mitigation and innovative solutions
+  to stay resilient
+title: Closed To New Bank Accounts (Algo Trading)
 ---
 
 Account management plays a crucial role in the financial services industry, serving as the backbone for effective financial planning and execution for individuals and businesses alike. Effective account management ensures that customers can efficiently access and utilize financial services, while institutions maintain the necessary controls and insights into customer activities. A pivotal element of this process is the account closure—a practice that can significantly impact both individual and global financial strategies.

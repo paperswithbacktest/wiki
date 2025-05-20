@@ -1,6 +1,10 @@
 ---
-title: "Risk Assessment Methods and Comparison: Qualitative vs. Quantitative (Algo Trading)"
-description: "Explore the intricacies of risk assessment in algorithmic trading by comparing quantitative and qualitative methods to optimize trading strategies and manage risks."
+category: quant_concept
+description: Explore the intricacies of risk assessment in algorithmic trading by
+  comparing quantitative and qualitative methods to optimize trading strategies and
+  manage risks.
+title: 'Risk Assessment Methods and Comparison: Qualitative vs. Quantitative (Algo
+  Trading)'
 ---
 
 Understanding and managing risk in finance and investments is a key element to achieving successful outcomes, especially in the expanding field of algorithmic trading. Algorithmic trading, often referred to as algo trading, utilizes computer programs to execute financial trades at an unparalleled speed. This automation offers the potential for significant profit due to rapid decision-making, yet it also introduces considerable risk, making effective risk assessment indispensable.

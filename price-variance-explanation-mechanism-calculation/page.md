@@ -1,6 +1,9 @@
 ---
-title: "Price Variance: Explanation, Mechanism, Calculation (Algo Trading)"
-description: "Understand price variance in algorithmic trading with insights on its impact on strategy, risk, and cost analysis. Optimize performance by mastering variance calculations."
+category: quant_concept
+description: Understand price variance in algorithmic trading with insights on its
+  impact on strategy, risk, and cost analysis. Optimize performance by mastering variance
+  calculations.
+title: 'Price Variance: Explanation, Mechanism, Calculation (Algo Trading)'
 ---
 
 Algorithmic trading has fundamentally transformed the trading landscape. It offers investors the ability to automate trading decisions, thereby enhancing efficiency and precision. One of the most critical components in this domain is understanding and managing variances. Variance, a statistical measure that indicates the degree of variation or dispersion in a set of values, plays a significant role in assessing the risks and potential rewards associated with different trading strategies.

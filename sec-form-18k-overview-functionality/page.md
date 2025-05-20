@@ -1,6 +1,9 @@
 ---
-title: "SEC Form 18-K: Overview and Functionality (Algo Trading)"
-description: "SEC Form 18-K is vital for transparency in global finance, informing investors about foreign government securities and supporting algorithmic trading strategies."
+category: quant_concept
+description: SEC Form 18-K is vital for transparency in global finance, informing
+  investors about foreign government securities and supporting algorithmic trading
+  strategies.
+title: 'SEC Form 18-K: Overview and Functionality (Algo Trading)'
 ---
 
 In the world of financial regulation and securities, a network of forms and regulations is essential to maintain order, transparency, and investor protection in international finance. Among these regulatory requirements is the SEC Form 18-K, a pivotal document concerning non-U.S. sovereign governments and their political subdivisions. This form is a foundational component of financial reporting, shedding light on its significance in securities regulation and its implications for algorithmic trading.

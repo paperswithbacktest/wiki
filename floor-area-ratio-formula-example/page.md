@@ -1,6 +1,9 @@
 ---
-title: "Floor Area Ratio: Formula and Example (Algo Trading)"
-description: "Explore the synergy between urban planning and technology through the concept of Floor Area Ratio Learn how FAR and algo trading influence real estate and city growth"
+category: quant_concept
+description: Explore the synergy between urban planning and technology through the
+  concept of Floor Area Ratio Learn how FAR and algo trading influence real estate
+  and city growth
+title: 'Floor Area Ratio: Formula and Example (Algo Trading)'
 ---
 
 Urban planning and building density are crucial determinants in the development of sustainable and efficient cities. A key concept in this domain is the Floor Area Ratio (FAR), which dictates how land can be utilized for various types of developments. FAR is essentially the ratio of a building's total floor area to the size of the land parcel it occupies. This metric is pivotal in urban planning, as it influences building density, infrastructure development, and land use efficiency.

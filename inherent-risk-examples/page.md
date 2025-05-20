@@ -1,6 +1,9 @@
 ---
-title: "Inherent Risk Examples (Algo Trading)"
-description: "Explore the inherent risks of algorithmic trading and discover effective strategies for risk management Learn how to safeguard investments from technical and market challenges"
+category: trading_strategy
+description: Explore the inherent risks of algorithmic trading and discover effective
+  strategies for risk management Learn how to safeguard investments from technical
+  and market challenges
+title: Inherent Risk Examples (Algo Trading)
 ---
 
 Algorithmic trading, known as algo trading, has surged in popularity in financial markets, primarily due to its ability to execute trades swiftly and in large volumes. This advancement allows traders to leverage vast datasets and complex algorithms to make precise trading decisions within milliseconds. However, the same features that make algo trading advantageous also introduce significant risks. Rapid execution and high volumes can amplify errors, making effective risk management essential to prevent substantial losses.

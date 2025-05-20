@@ -1,6 +1,8 @@
 ---
-title: "SNAP Benefits Distribution by U.S. State (Algo Trading)"
-description: "Explore how SNAP benefits vary across U.S. states due to living costs, policies, and demographics with a focus on using algorithms for better analysis."
+category: dataset
+description: Explore how SNAP benefits vary across U.S. states due to living costs,
+  policies, and demographics with a focus on using algorithms for better analysis.
+title: SNAP Benefits Distribution by U.S. State (Algo Trading)
 ---
 
 The Supplemental Nutrition Assistance Program (SNAP) is a critical component of the social safety net in the United States, designed to provide nutritional support to low-income individuals and families. As the largest federal nutrition assistance program, SNAP plays a vital role in alleviating hunger and enhancing food security across the nation. By providing eligible participants with benefits to purchase food, SNAP helps to improve dietary quality and promote better health outcomes.

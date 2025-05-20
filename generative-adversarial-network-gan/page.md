@@ -1,7 +1,8 @@
 ---
-title: Generative Adversarial Networks for Realistic Data Generation
+category: quant_concept
 description: Generative Adversarial Networks combine a generator and discriminator
   in a dynamic game to produce realistic images sounds and more Discover more inside.
+title: Generative Adversarial Networks for Realistic Data Generation
 ---
 
 ![Image](images/1.jpeg)

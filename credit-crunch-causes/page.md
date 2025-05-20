@@ -1,6 +1,8 @@
 ---
-title: "Credit Crunch Causes (Algo Trading)"
-description: "Explore the causes of credit crunches and their impact on global markets Learn how banking systems financial crises and algorithmic trading interconnect"
+category: quant_concept
+description: Explore the causes of credit crunches and their impact on global markets
+  Learn how banking systems financial crises and algorithmic trading interconnect
+title: Credit Crunch Causes (Algo Trading)
 ---
 
 The global financial landscape has undergone significant changes characterized by episodes such as banking collapses, currency devaluations, and credit crunches, each leaving a lasting imprint on market dynamics. These upheavals highlight the complex interplay between banking economics, financial crises, and advanced trading methodologies. As the financial world evolves, it becomes crucial to understand how these elements influence each other and the broader economy.
@@ -139,4 +141,3 @@ MacKenzie, D. (2014). "A Sociology of Algorithms: High-frequency Trading and the
 Allen, F., & Gale, D. (2000). "Financial Contagion." This paper analyzes how financial contagion spreads through markets, highlighting the mechanisms that lead to widespread financial instability across global markets.
 
 Shleifer, A., & Vishny, R. W. (2010). "Unstable Banking." This research explores the instability inherent in banking systems, focusing on the factors that can lead to systemic banking crises.
-

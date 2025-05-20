@@ -1,6 +1,8 @@
 ---
-title: "Dividend discount model (Algo Trading)"
-description: "Unlock the power of the Dividend Discount Model in algo trading to assess stock value through future dividends, merging traditional and modern trading tactics."
+category: quant_concept
+description: Unlock the power of the Dividend Discount Model in algo trading to assess
+  stock value through future dividends, merging traditional and modern trading tactics.
+title: Dividend discount model (Algo Trading)
 ---
 
 The Dividend Discount Model (DDM) is a critical tool for investors seeking to estimate a company's intrinsic value by focusing on projected future dividends. By calculating the present value of anticipated dividends, DDM offers insights into a stock's worth, aiding investors in making informed decisions about buying or selling securities. This method assumes that dividends are a direct reflection of a company's financial health and ability to generate cash flows for its shareholders.

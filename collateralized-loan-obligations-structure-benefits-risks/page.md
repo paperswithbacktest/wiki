@@ -1,6 +1,8 @@
 ---
-title: "Collateralized Loan Obligations: Structure, Benefits, and Risks (Algo Trading)"
-description: "Learn about the structure benefits and risks of Collateralized Loan Obligations CLOs and how algorithmic trading and technology impact this financial instrument"
+category: quant_concept
+description: Learn about the structure benefits and risks of Collateralized Loan Obligations
+  CLOs and how algorithmic trading and technology impact this financial instrument
+title: 'Collateralized Loan Obligations: Structure, Benefits, and Risks (Algo Trading)'
 ---
 
 The financial landscape is inherently complex, characterized by an array of instruments crafted to manage risk while generating returns. Among these instruments, the Collateralized Loan Obligation (CLO) stands out for its distinct structure and potential benefits. CLOs are financial tools used predominantly by institutional investors, drawn to their high yield prospects and the promise of portfolio diversification. As a securitized product, CLOs consist of a collection of loans, typically corporate loans with lower credit ratings, pooled together and sold as a single security. This diversification can mitigate individual loan risks, transforming a bundle of high-risk loans into a relatively stable financial product. 

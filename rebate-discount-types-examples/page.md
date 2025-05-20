@@ -1,6 +1,8 @@
 ---
-title: "Rebate and Discount: Types and Examples (Algo Trading)"
-description: "Discover the strategic role of rebates in algo trading. Explore how rebate and discount models can enhance profitability and market strategies."
+category: quant_concept
+description: Discover the strategic role of rebates in algo trading. Explore how rebate
+  and discount models can enhance profitability and market strategies.
+title: 'Rebate and Discount: Types and Examples (Algo Trading)'
 ---
 
 Rebates have emerged as a pivotal component in modern trading and investing, offering both tangible financial benefits and strategic opportunities for market participants. Rebates function as post-transaction incentives that vary based on the volume or value of trading activities and are distinct from traditional discounts, which are applied at the time of purchase. This distinction makes rebates particularly attractive in financial markets where rapid decision-making and execution are paramount.

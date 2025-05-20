@@ -1,6 +1,8 @@
 ---
-title: "Chinese Hedge in Finance (Algo Trading)"
-description: "Explore the rise of Chinese hedge funds redefining finance with cutting-edge algorithmic trading strategies optimizing investment outcomes globally."
+category: trading_strategy
+description: Explore the rise of Chinese hedge funds redefining finance with cutting-edge
+  algorithmic trading strategies optimizing investment outcomes globally.
+title: Chinese Hedge in Finance (Algo Trading)
 ---
 
 In recent years, the financial world has undergone a significant transformation, driven by technological advancements that have reshaped traditional investment strategies. Leading this evolution are Chinese hedge funds, which have emerged as pivotal players utilizing sophisticated algorithmic trading strategies. These strategies are transforming how investments are managed and outcomes optimized, providing a unique competitive edge in the global financial market.
@@ -184,4 +186,3 @@ In summary, the strategic adoption of advanced technologies by Chinese hedge fun
 3. **Machine Learning for Asset Managers by Marcos Lopez de Prado.** Building on the ideas from his previous work, De Prado discusses the use of machine learning techniques specifically tailored for asset management. This book provides practical insights into implementing machine learning systems for asset management, offering tools for risk management and strategy development within financial operations.
 
 4. **Quantitative Trading: How to Build Your Own Algorithmic Trading Business by Ernest P. Chan.** Chan's book is a guide for setting up an algorithmic trading business. It discusses the implementation of quantitative trading strategies, the necessary technological infrastructure, and the operational considerations required to successfully run a trading operation. This resource is invaluable for those looking to enter the quantitative trading space with a focus on practical application and business viability.
-

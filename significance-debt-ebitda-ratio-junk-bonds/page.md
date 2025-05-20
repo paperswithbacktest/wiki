@@ -1,6 +1,11 @@
 ---
-title: "Significance of the Debt/EBITDA Ratio in Junk Bonds (Algo Trading)"
-description: "Explore the importance of the Debt/EBITDA ratio in financial analysis especially regarding junk bonds and algorithmic trading. Understand how this metric aids in evaluating a company's debt management and financial stability helping investors assess high-yield investments' risk. Discover its role in credit ratings and decision-making processes."
+category: quant_concept
+description: Explore the importance of the Debt/EBITDA ratio in financial analysis
+  especially regarding junk bonds and algorithmic trading. Understand how this metric
+  aids in evaluating a company's debt management and financial stability helping investors
+  assess high-yield investments' risk. Discover its role in credit ratings and decision-making
+  processes.
+title: Significance of the Debt/EBITDA Ratio in Junk Bonds (Algo Trading)
 ---
 
 The Debt/EBITDA ratio stands as a critical metric in financial analysis, playing a key role in evaluating a company's financial health and its ability to manage and repay its debts. This ratio measures the extent of a company's debt in relation to its earnings before interest, taxes, depreciation, and amortization (EBITDA). By comparing these elements, the ratio offers insights into how efficiently a company can cover its debt obligations through its operating profits.

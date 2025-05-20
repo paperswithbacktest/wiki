@@ -1,6 +1,9 @@
 ---
-title: "Crown Jewels: Definition and Function (Algo Trading)"
-description: "Explore the intricate link between algorithmic trading and a company's crown jewels. Discover how these valuable assets shape trading strategies and impact market positioning."
+category: quant_concept
+description: Explore the intricate link between algorithmic trading and a company's
+  crown jewels. Discover how these valuable assets shape trading strategies and impact
+  market positioning.
+title: 'Crown Jewels: Definition and Function (Algo Trading)'
 ---
 
 Algorithmic trading and the concept of 'crown jewels' present a deeply intertwined relationship in the corporate sphere, where the value of high-profile assets significantly influences business strategies and financial practices. The term 'crown jewels' refers to the most valuable and critical assets of a company, which may include intellectual property, key patents, proprietary technology, or important client contracts. These assets are fundamental not only to a corporation's current profitability but also to its long-term strategic positioning and future growth prospects.

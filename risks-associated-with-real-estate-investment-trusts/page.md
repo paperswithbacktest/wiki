@@ -1,6 +1,8 @@
 ---
-title: "Risks Associated with Real Estate Investment Trusts (Algo Trading)"
-description: "Explore the risks of investing in Real Estate Investment Trusts and discover how algorithmic trading could mitigate these challenges for better returns."
+category: quant_concept
+description: Explore the risks of investing in Real Estate Investment Trusts and discover
+  how algorithmic trading could mitigate these challenges for better returns.
+title: Risks Associated with Real Estate Investment Trusts (Algo Trading)
 ---
 
 Real estate investing has emerged as a popular avenue for individuals and institutions aiming to diversify their portfolios and generate consistent income. This popularity is particularly evident in the growth of Real Estate Investment Trusts (REITs), which have become a staple for investors seeking exposure to real estate markets without the direct complexities and capital requirements of owning physical properties.

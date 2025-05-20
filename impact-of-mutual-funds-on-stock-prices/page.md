@@ -1,6 +1,8 @@
 ---
-title: "Impact of Mutual Funds on Stock Prices (Algo Trading)"
-description: "Explore how mutual funds and algorithmic trading impact stock prices through large-scale transactions and high-speed data analysis in financial markets."
+category: trading_strategy
+description: Explore how mutual funds and algorithmic trading impact stock prices
+  through large-scale transactions and high-speed data analysis in financial markets.
+title: Impact of Mutual Funds on Stock Prices (Algo Trading)
 ---
 
 In the ever-evolving financial markets, numerous elements shape stock prices and guide investment decisions. Among these, mutual funds and algorithmic trading stand out due to their significant impact and influence. Mutual funds, as collective investment vehicles, pool capital from a large number of investors to purchase a diversified portfolio of stocks and other securities. Their large-scale buying and selling activities have the power to move markets, causing immediate fluctuations in stock prices.

@@ -1,6 +1,8 @@
 ---
-title: "Global Variations in Mutual Funds (Algo Trading)"
-description: "Explore global strategies in mutual funds and algorithmic trading, highlighting regulatory impacts, benefits, and challenges for discerning investors."
+category: quant_concept
+description: Explore global strategies in mutual funds and algorithmic trading, highlighting
+  regulatory impacts, benefits, and challenges for discerning investors.
+title: Global Variations in Mutual Funds (Algo Trading)
 ---
 
 Investors face a plethora of choices when venturing into global financial markets. The complexity of these markets necessitates a robust understanding of the various investment vehicles available. Among these, mutual funds and algorithmic trading stand out as prominent strategies, each with distinct characteristics and operational frameworks shaped by diverse regulatory environments worldwide.

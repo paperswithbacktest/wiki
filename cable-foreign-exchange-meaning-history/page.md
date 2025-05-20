@@ -1,6 +1,8 @@
 ---
-title: "Cable in Foreign Exchange: Meaning and Historical Context (Algo Trading)"
-description: "Explore the historical context and significance of 'cable' in forex the GBP/USD pair and how forex algorithmic trading has transformed currency trading."
+category: quant_concept
+description: Explore the historical context and significance of 'cable' in forex the
+  GBP/USD pair and how forex algorithmic trading has transformed currency trading.
+title: 'Cable in Foreign Exchange: Meaning and Historical Context (Algo Trading)'
 ---
 
 The foreign exchange market, commonly referred to as forex, stands as the largest and most liquid financial market globally, facilitating a daily trading volume exceeding $6 trillion. This immense size and liquidity stem from the continuous exchange of currencies by a wide range of participants, including governments, corporations, financial institutions, and individual traders. Within this expansive market, the British pound sterling (GBP) paired against the U.S. dollar (USD), colloquially known as 'cable,' holds a noteworthy position due to its historical significance and trading volume.

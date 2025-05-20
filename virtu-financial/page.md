@@ -1,6 +1,8 @@
 ---
-title: "Virtu Financial (Algo Trading)"
-description: "Discover Virtu Financial's pioneering role in algorithmic trading focusing on innovative technology strategies market efficiency and enhanced liquidity solutions."
+category: quant_concept
+description: Discover Virtu Financial's pioneering role in algorithmic trading focusing
+  on innovative technology strategies market efficiency and enhanced liquidity solutions.
+title: Virtu Financial (Algo Trading)
 ---
 
 Algorithmic trading, a technique that utilizes computer algorithms to automate financial trading, has revolutionized the landscape of modern financial markets. It involves the use of complex algorithms capable of executing trades at rapid speeds and with precision, often capturing price discrepancies and market trends that might be invisible to human traders. Since its emergence, algorithmic trading has grown exponentially, significantly impacting trading volumes and market dynamics by enhancing market efficiency and liquidity, while also minimizing the potential for human error. 

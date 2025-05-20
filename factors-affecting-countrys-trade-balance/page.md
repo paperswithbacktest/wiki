@@ -1,6 +1,8 @@
 ---
-title: "Factors Affecting a Country's Trade Balance (Algo Trading)"
-description: "Discover key economic factors impacting a country's trade balance including the pivotal roles of trade policies exchange rates and technological advancements."
+category: quant_concept
+description: Discover key economic factors impacting a country's trade balance including
+  the pivotal roles of trade policies exchange rates and technological advancements.
+title: Factors Affecting a Country's Trade Balance (Algo Trading)
 ---
 
 The global economy functions as a multifaceted network comprising interdependent nations, where trade balances are pivotal in assessing economic health. Trade balance, defined as the difference between a country's exports and imports, serves as a key indicator of a nation’s economic performance. A positive trade balance, or surplus, suggests that a country exports more than it imports, while a negative trade balance, or deficit, indicates the opposite. This dynamic interplay can significantly influence a nation's GDP, employment rates, and overall economic stability.

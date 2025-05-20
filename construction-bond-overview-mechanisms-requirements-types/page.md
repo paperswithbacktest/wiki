@@ -1,6 +1,9 @@
 ---
-title: "Construction Bond: Overview, Mechanisms, Requirements, and Types (Algo Trading)"
-description: "Explore construction bonds and their essential role in the industry, ensuring project completion and financial safeguards for stakeholders amidst technological advances."
+category: quant_concept
+description: Explore construction bonds and their essential role in the industry,
+  ensuring project completion and financial safeguards for stakeholders amidst technological
+  advances.
+title: 'Construction Bond: Overview, Mechanisms, Requirements, and Types (Algo Trading)'
 ---
 
 Bonds are financial instruments that play a crucial role in various economic sectors by providing security, facilitating investment, and ensuring the completion of projects. These instruments are categorized into different types depending on their purpose and the agreements they support. Surety and construction bonds, for example, are essential in creating enforceable contracts within construction and other industries, thereby ensuring accountability and financial protection. On the other hand, bonds as tradable assets in financial markets serve significant roles in the execution of investment strategies and liquidity management.

@@ -1,6 +1,8 @@
 ---
-title: "Pro-Forma Forecasting: Explanation and Example (Algo Trading)"
-description: "Explore pro-forma forecasting for algo trading including income statements balance sheets and cash flow analysis to enhance strategic financial planning."
+category: quant_concept
+description: Explore pro-forma forecasting for algo trading including income statements
+  balance sheets and cash flow analysis to enhance strategic financial planning.
+title: 'Pro-Forma Forecasting: Explanation and Example (Algo Trading)'
 ---
 
 Pro-forma forecasts represent a critical element in the toolkit of financial professionals, particularly in the areas of financial planning and analysis. These forecasts are constructed based on hypothetical financial statements that outline potential future states of a business, contingent upon certain assumptions. The primary objective of such forecasts is to provide businesses with a forward-looking perspective of their financial health, which is essential for planning investments, preparing for future growth, and guiding strategic decision-making.

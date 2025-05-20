@@ -1,6 +1,9 @@
 ---
-title: "Affirmative Obligation and Its Significance (Algo Trading)"
-description: "Explore the significance of affirmative obligation in algorithmic trading understand financial responsibility to ensure ethical participation and successful investing in modern markets."
+category: quant_concept
+description: Explore the significance of affirmative obligation in algorithmic trading
+  understand financial responsibility to ensure ethical participation and successful
+  investing in modern markets.
+title: Affirmative Obligation and Its Significance (Algo Trading)
 ---
 
 In today's fast-paced financial markets, investors encounter a multifaceted landscape of responsibilities and obligations. Algorithmic trading, a prominent aspect of these markets, involves using advanced computing technologies to execute trades with speed and precision. As this financial innovation continues to reshape trading strategies, understanding financial responsibility becomes crucial for investors. This understanding not only promotes sustainable growth but also ensures ethical participation within the market.

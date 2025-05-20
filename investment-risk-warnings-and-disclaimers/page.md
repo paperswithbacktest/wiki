@@ -1,6 +1,8 @@
 ---
-title: "Investment Risk Warnings and Disclaimers (Algo Trading)"
-description: "Explore the nuances of investment risk warnings and disclaimers in algo trading to make informed decisions. Understand the potential impacts on your investments."
+category: quant_concept
+description: Explore the nuances of investment risk warnings and disclaimers in algo
+  trading to make informed decisions. Understand the potential impacts on your investments.
+title: Investment Risk Warnings and Disclaimers (Algo Trading)
 ---
 
 In today's financial landscape, understanding investment risk is crucial for both seasoned traders and novice investors. Investment risk fundamentally represents the possibility of losses or underperformance relative to an expected return, and it manifests in various forms, such as market risk, credit risk, and operational risk. These risks impact the stability and reliability of financial decisions, making it essential for investors to grasp the potential consequences thoroughly.

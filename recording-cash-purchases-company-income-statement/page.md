@@ -1,6 +1,8 @@
 ---
-title: "Recording Cash Purchases in a Company’s Income Statement (Algo Trading)"
-description: "Explore how cash purchases are recorded in financial statements and their impact on a company's income statement within the context of algorithmic trading."
+category: quant_concept
+description: Explore how cash purchases are recorded in financial statements and their
+  impact on a company's income statement within the context of algorithmic trading.
+title: Recording Cash Purchases in a Company’s Income Statement (Algo Trading)
 ---
 
 Financial recording and algorithmic trading both play pivotal roles in the financial industry, providing essential frameworks and tools for managing and optimizing financial activities. Financial recording encompasses the systematic documentation of financial transactions, ensuring that every purchase, sale, and movement of funds is accurately captured. This process involves meticulous record-keeping through various accounting practices, which are crucial for assessing the financial health and performance of an organization.

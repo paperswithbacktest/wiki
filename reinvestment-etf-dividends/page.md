@@ -1,6 +1,9 @@
 ---
-title: "Reinvestment of ETF Dividends (Algo Trading)"
-description: "Explore the advantages of reinvesting ETF dividends through automated algo trading to enhance portfolio growth and optimize returns with precision and efficiency."
+category: trading_strategy
+description: Explore the advantages of reinvesting ETF dividends through automated
+  algo trading to enhance portfolio growth and optimize returns with precision and
+  efficiency.
+title: Reinvestment of ETF Dividends (Algo Trading)
 ---
 
 Exchange-traded funds (ETFs) have become a staple in the portfolios of a growing number of investors, particularly those interested in dividend investing. ETFs offer a flexible and cost-effective way to gain exposure to a broad range of asset classes, including equities, bonds, and commodities. While initially popular for their liquidity and diversification benefits, ETFs that focus on dividend-paying stocks are increasingly attracting attention. This form of investing is gaining momentum as investors seek the dual advantages of steady income through dividends and potential capital appreciation.

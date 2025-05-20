@@ -1,7 +1,8 @@
 ---
-title: Understanding Graph Execution in Machine Learning Models
+category: quant_concept
 description: Graph Execution enables optimized machine learning graphs to boost speed,
   reduce memory use and leverage hardware acceleration Discover more inside
+title: Understanding Graph Execution in Machine Learning Models
 ---
 
 ![Image](images/1.png)

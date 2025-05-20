@@ -1,6 +1,8 @@
 ---
-title: "Noon Average Rate Contract (Algo Trading)"
-description: "Explore the transformative role of Noon Average Rate Contracts in currency markets and how their principles inform modern algorithmic trading strategies."
+category: quant_concept
+description: Explore the transformative role of Noon Average Rate Contracts in currency
+  markets and how their principles inform modern algorithmic trading strategies.
+title: Noon Average Rate Contract (Algo Trading)
 ---
 
 The financial world is consistently undergoing transformation, marked by the development of various instruments and contracts that cater to risk management and profit-maximization strategies. Among these tools, the Noon Average Rate Contract (NARC) played a significant role in currency markets over the years. NARC was particularly pivotal as it allowed participants to engage in currency forward contracts using a fixed reference point: the noon exchange rates, primarily between the U.S. and Canadian dollars. This fixed rate mechanism enabled businesses and traders to stabilize potential currency exchange risks.

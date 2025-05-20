@@ -1,6 +1,8 @@
 ---
-title: "Bond Market Pricing Mechanisms (Algo Trading)"
-description: " Explore the crucial role of accurate pricing mechanisms and the impact of algorithmic trading in the bond market to optimize strategies and enhance efficiency."
+category: quant_concept
+description: ' Explore the crucial role of accurate pricing mechanisms and the impact
+  of algorithmic trading in the bond market to optimize strategies and enhance efficiency.'
+title: Bond Market Pricing Mechanisms (Algo Trading)
 ---
 
 The financial instruments market encompasses a diverse array of assets, including equities, derivatives, currencies, and fixed-income securities such as bonds. These instruments facilitate the transfer of risk, liquidity provision, and capital allocation across the global financial system. Bonds, in particular, play a crucial role in this market, offering a mechanism for governments and corporations to raise capital and for investors to gain predictable income streams.

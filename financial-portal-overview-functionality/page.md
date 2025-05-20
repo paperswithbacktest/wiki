@@ -1,6 +1,9 @@
 ---
-title: "Financial Portal: Overview and Functionality (Algo Trading)"
-description: "Discover the transformative world of algo trading and financial platforms Learn how these tools empower users by automating trading and managing personal finances"
+category: quant_concept
+description: Discover the transformative world of algo trading and financial platforms
+  Learn how these tools empower users by automating trading and managing personal
+  finances
+title: 'Financial Portal: Overview and Functionality (Algo Trading)'
 ---
 
 The world of finance has undergone a significant transformation with the advent of online tools and platforms. These digital innovations range from algorithmic trading systems, which automate and optimize trading strategies, to personal finance management applications that empower individuals in managing their finances more effectively. Collectively, such tools have reshaped the way both individuals and businesses engage with financial markets.

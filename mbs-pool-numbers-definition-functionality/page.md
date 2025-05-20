@@ -1,6 +1,9 @@
 ---
-title: "MBS Pool Numbers: Definition and Functionality (Algo Trading)"
-description: "Explore the essential role of MBS pool numbers in algorithmic trading and investment, offering key insights into mortgage-backed securities for informed decision-making."
+category: quant_concept
+description: Explore the essential role of MBS pool numbers in algorithmic trading
+  and investment, offering key insights into mortgage-backed securities for informed
+  decision-making.
+title: 'MBS Pool Numbers: Definition and Functionality (Algo Trading)'
 ---
 
 Mortgage-backed securities (MBS) are unique financial instruments that play a crucial role in financial markets, offering a mechanism through which investors can gain exposure to the real estate sector. Structurally, an MBS represents a collection of mortgage loans, bundled together to form an investment product. Investors in MBS receive periodic payments derived from the principal and interest payments made by homeowners on their mortgages. This makes MBS an attractive investment for those seeking steady income streams, although they come with their own set of risks.

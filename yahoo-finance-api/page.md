@@ -1,9 +1,11 @@
 ---
-title: "Yahoo Finance API: Comprehensive Guide for Algo Trading"
-description: Discover the comprehensive guide to using Yahoo Finance API for algo trading, its functionalities, reasons to adopt it, potential drawbacks, pricing structure, and practical tutorials on how to use popular platforms like RapidAPI, yfinance, and Yahoo_fin.
+category: dataset
+description: Discover the comprehensive guide to using Yahoo Finance API for algo
+  trading, its functionalities, reasons to adopt it, potential drawbacks, pricing
+  structure, and practical tutorials on how to use popular platforms like RapidAPI,
+  yfinance, and Yahoo_fin.
+title: 'Yahoo Finance API: Comprehensive Guide for Algo Trading'
 ---
-
-
 
 Yahoo Finance, recognized as one of the world's leading business news platforms, offers more than just news articles and stock market updates. One of its most prized features, particularly for developers and data analysts, is the Yahoo Finance API. This Application Programming Interface (API) offers a gateway to a trove of financial data, from historical stock prices to company fundamentals. For anyone involved in the finance sector, be it a hobbyist, professional, or academic researcher, having access to such a vast amount of data is invaluable.
 

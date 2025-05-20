@@ -1,6 +1,8 @@
 ---
-title: "Non-Deliverable Forward: Structure and Currency Markets (Algo Trading)"
-description: "Explore the role of Non-Deliverable Forwards in currency markets and algorithmic trading and how they enable hedging and speculation in restricted markets."
+category: quant_concept
+description: Explore the role of Non-Deliverable Forwards in currency markets and
+  algorithmic trading and how they enable hedging and speculation in restricted markets.
+title: 'Non-Deliverable Forward: Structure and Currency Markets (Algo Trading)'
 ---
 
 Non-Deliverable Forwards (NDFs) are pivotal instruments in currency markets, offering unique solutions for trading in environments where certain currencies are restricted or illiquid. These financial derivatives have carved out a niche, enabling traders and investors to manage currency exposure without the need for physical delivery. By focusing on cash-settled contracts, NDFs facilitate participation in currency markets otherwise constrained by capital controls or limited convertibility.

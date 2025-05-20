@@ -1,7 +1,8 @@
 ---
-title: Key Techniques For Machine Learning Model Interpretability
+category: quant_concept
 description: Machine learning interpretability reveals model decisions and uncovers
   bias with SHAP LIME and feature importance for transparent AI Discover more inside.
+title: Key Techniques For Machine Learning Model Interpretability
 ---
 
 ![Image](images/1.png)

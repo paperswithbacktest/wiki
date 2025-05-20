@@ -1,6 +1,9 @@
 ---
-title: "Comparison of Book Value and Market Value (Algo Trading)"
-description: "Explore the essential differences between book value and market value in financial investing. Learn how these metrics provide unique insights for algorithmic trading."
+category: quant_concept
+description: Explore the essential differences between book value and market value
+  in financial investing. Learn how these metrics provide unique insights for algorithmic
+  trading.
+title: Comparison of Book Value and Market Value (Algo Trading)
 ---
 
 In financial investing, book value and market value are two essential metrics used to evaluate a company's worth. Each provides unique insights into the inherent value of a company and its potential for future growth. Book value represents the net value of a company's assets as recorded on its balance sheet. It reflects the amount shareholders would hypothetically receive if the company liquidated all assets and settled its liabilities. On the other hand, market value, often termed market capitalization, indicates the total value of a company's shares in the open market and is primarily driven by investor sentiment and share price.

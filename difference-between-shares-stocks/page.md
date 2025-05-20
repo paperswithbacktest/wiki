@@ -1,6 +1,8 @@
 ---
-title: "Difference Between Shares and Stocks (Algo Trading)"
-description: "Explore the differences between shares and stocks with a focus on algorithmic trading Learn how modern strategies reshape investments in today's markets"
+category: quant_concept
+description: Explore the differences between shares and stocks with a focus on algorithmic
+  trading Learn how modern strategies reshape investments in today's markets
+title: Difference Between Shares and Stocks (Algo Trading)
 ---
 
 Understanding the ever-evolving world of finance is crucial for anyone looking to invest or trade in stocks. This article focuses on the complex interplay between stocks, shares, and modern financial methodologies, emphasizing how algorithmic trading is reshaping stock trading. Stocks and shares represent fundamental components of any investment strategy, granting investors ownership in companies and a claim on their assets and earnings. Navigating the stock market effectively necessitates a strong grasp of these concepts, as well as a keen awareness of the dynamic market conditions and financial indicators that influence stock valuations.

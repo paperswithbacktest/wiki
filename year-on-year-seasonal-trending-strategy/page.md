@@ -1,6 +1,14 @@
 ---
-title: "Year-on-year seasonal trending strategy (Algo Trading)"
-description: Discover the potential of algorithmic trading by understanding year-on-year seasonal trending strategies. Explore how traders leverage historical data to identify recurring market patterns, enhancing predictive capabilities and profitability. Gain insights into phenomena like the Santa Claus Rally and January Effect, and learn how integrating these patterns into trading algorithms can optimize decision-making and risk management. Unlock the advantages of backtesting and use historical trends as a foundation for more informed trading strategies, while maintaining a competitive edge in the evolving financial markets.
+category: trading_strategy
+description: Discover the potential of algorithmic trading by understanding year-on-year
+  seasonal trending strategies. Explore how traders leverage historical data to identify
+  recurring market patterns, enhancing predictive capabilities and profitability.
+  Gain insights into phenomena like the Santa Claus Rally and January Effect, and
+  learn how integrating these patterns into trading algorithms can optimize decision-making
+  and risk management. Unlock the advantages of backtesting and use historical trends
+  as a foundation for more informed trading strategies, while maintaining a competitive
+  edge in the evolving financial markets.
+title: Year-on-year seasonal trending strategy (Algo Trading)
 ---
 
 Algorithmic trading has fundamentally transformed financial markets by employing sophisticated computer algorithms to automate trading decisions. This advanced form of trading leverages vast amounts of quantitative data and complex mathematical models to execute trades at speeds and frequencies that are nearly impossible for human traders to achieve. A pivotal strategy within this domain is the use of year-on-year seasonal trends, which involves analyzing historical data to identify recurring patterns that might signal potential market movements.

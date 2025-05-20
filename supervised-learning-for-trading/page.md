@@ -1,6 +1,9 @@
 ---
-title: "Supervised Learning for Trading (Algo Trading)"
-description: "Unlock algorithmic trading potential with supervised learning Explore regression and classification methods to enhance market prediction and strategy accuracy"
+category: trading_strategy
+description: Unlock algorithmic trading potential with supervised learning Explore
+  regression and classification methods to enhance market prediction and strategy
+  accuracy
+title: Supervised Learning for Trading (Algo Trading)
 ---
 
 Supervised learning has become an influential element in the field of algorithmic trading, providing tools to predict market movements with increased accuracy. This approach involves training models on known data and outcomes to forecast future events accurately. In trading, where precision and timely decisions are critical, supervised learning models can significantly enhance traders' ability to forecast market behaviors.

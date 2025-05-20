@@ -1,6 +1,15 @@
 ---
-title: "Point and figure chart (Algo Trading)"
-description: Experience the unique methodology of Point and Figure (P&F) charting—a time-independent technique in technical analysis that highlights major price movements by filtering out market noise. P&F charts employ a grid system marked with Xs and Os to illustrate upward and downward price trends, respectively, offering a clear visual of support, resistance, and potential breakout points. Key tools, such as 45-degree trend lines, provide invaluable insights for traders, aiding in identifying trend directions and reversals. Highly relevant in algorithmic trading, P&F charts facilitate data-driven decisions by showcasing pure price action, free from time-based distractions.
+category: quant_concept
+description: Experience the unique methodology of Point and Figure (P&F) charting—a
+  time-independent technique in technical analysis that highlights major price movements
+  by filtering out market noise. P&F charts employ a grid system marked with Xs and
+  Os to illustrate upward and downward price trends, respectively, offering a clear
+  visual of support, resistance, and potential breakout points. Key tools, such as
+  45-degree trend lines, provide invaluable insights for traders, aiding in identifying
+  trend directions and reversals. Highly relevant in algorithmic trading, P&F charts
+  facilitate data-driven decisions by showcasing pure price action, free from time-based
+  distractions.
+title: Point and figure chart (Algo Trading)
 ---
 
 Point and figure (P&F) charting is a unique approach to technical analysis that focuses on capturing significant price movements while disregarding the passage of time. Unlike traditional charts, which plot price against time, P&F charts track only changes in price that exceed a specified threshold. This threshold is known as the box size, and it allows traders to filter out minor fluctuations, providing a clearer view of market trends and removing the noise often present in time-based charting methods.
@@ -151,4 +160,4 @@ For those interested in expanding their understanding and application of P&F cha
 
 [4]: Murphy, J. J. (1999). ["Technical Analysis of the Financial Markets: A Comprehensive Guide to Trading Methods and Applications."](https://archive.org/details/technicalanalysi0000murp) New York Institute of Finance.
 
-[5]: Schwager, J. D. (1989). ["Market Wizards: Interviews with Top Traders."](https://www.amazon.com/Market-Wizards-Jack-D-Schwager/dp/0887306101) Wiley. 
+[5]: Schwager, J. D. (1989). ["Market Wizards: Interviews with Top Traders."](https://www.amazon.com/Market-Wizards-Jack-D-Schwager/dp/0887306101) Wiley.

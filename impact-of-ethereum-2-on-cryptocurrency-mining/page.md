@@ -1,6 +1,12 @@
 ---
-title: "Impact of Ethereum 2.0 on Cryptocurrency Mining (Algo Trading)"
-description: "Explore the transformative impact of Ethereum 2.0 on cryptocurrency mining and algorithmic trading in this insightful article. Understand how the shift from Proof of Work to Proof of Stake aims to enhance energy efficiency and scalability while examining the pivotal role of algorithmic trading in shaping crypto markets. Discover the future dynamics of mining and trading within the evolving blockchain ecosystem."
+category: quant_concept
+description: Explore the transformative impact of Ethereum 2.0 on cryptocurrency mining
+  and algorithmic trading in this insightful article. Understand how the shift from
+  Proof of Work to Proof of Stake aims to enhance energy efficiency and scalability
+  while examining the pivotal role of algorithmic trading in shaping crypto markets.
+  Discover the future dynamics of mining and trading within the evolving blockchain
+  ecosystem.
+title: Impact of Ethereum 2.0 on Cryptocurrency Mining (Algo Trading)
 ---
 
 Cryptocurrency mining plays a crucial role in the blockchain ecosystem, serving as the backbone for verifying transactions and maintaining the security of decentralized networks. By solving complex mathematical problems, miners add new blocks to the blockchain, ensuring the integrity and transparency of transactions within the network. This process not only facilitates the creation of new cryptocurrency units but also prevents double-spending, a fundamental problem in digital currencies.

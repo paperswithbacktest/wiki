@@ -1,6 +1,8 @@
 ---
-title: "Digital Markets Act: Functionality and Implementation (Algo Trading)"
-description: "Explore how the Digital Markets Act impacts algorithmic trading by fostering fair competition and transparency in digital platforms, reshaping market dynamics."
+category: quant_concept
+description: Explore how the Digital Markets Act impacts algorithmic trading by fostering
+  fair competition and transparency in digital platforms, reshaping market dynamics.
+title: 'Digital Markets Act: Functionality and Implementation (Algo Trading)'
 ---
 
 The Digital Markets Act (DMA) represents a monumental shift in European Union (EU) legislation aimed at regulating Big Tech companies. Enacted in 2022, the DMA primarily focuses on the 'gatekeepers' of the digital economy—large online platforms that have significant influence over the market. By targeting these gatekeepers, the DMA seeks to level the playing field for smaller companies, thereby fostering innovation and competition while also protecting consumer interests.

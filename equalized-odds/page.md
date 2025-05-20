@@ -1,7 +1,8 @@
 ---
-title: Understanding Equalized Odds For Fair Machine Learning Models
+category: quant_concept
 description: Equalized Odds aligns true and false positive rates across all groups
   to reduce bias improve outcomes and build trust in AI decisions Discover more inside.
+title: Understanding Equalized Odds For Fair Machine Learning Models
 ---
 
 ![Image](images/1.png)

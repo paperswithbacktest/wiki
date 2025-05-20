@@ -1,6 +1,9 @@
 ---
-title: "Line Chart: Types and Examples (Algo Trading)"
-description: "Explore how line charts enhance algorithmic trading by clarifying trends and patterns. Discover their simplicity in visualizing financial data for informed decisions."
+category: quant_concept
+description: Explore how line charts enhance algorithmic trading by clarifying trends
+  and patterns. Discover their simplicity in visualizing financial data for informed
+  decisions.
+title: 'Line Chart: Types and Examples (Algo Trading)'
 ---
 
 Data visualization plays a crucial role in algorithmic trading by providing clear insights into financial markets. Algorithmic trading involves the use of computer algorithms to execute trading strategies based on predetermined criteria. In this context, effective data visualization enables traders to interpret vast amounts of complex financial data rapidly and accurately, facilitating informed decision-making.

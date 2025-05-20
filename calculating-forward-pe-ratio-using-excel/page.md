@@ -1,6 +1,8 @@
 ---
-title: "Calculating Forward P/E Ratio Using Excel (Algo Trading)"
-description: "Learn how to use Excel to calculate the Forward P/E ratio a key metric for assessing stock valuation and managing investment strategies in algo trading."
+category: quant_concept
+description: Learn how to use Excel to calculate the Forward P/E ratio a key metric
+  for assessing stock valuation and managing investment strategies in algo trading.
+title: Calculating Forward P/E Ratio Using Excel (Algo Trading)
 ---
 
 The Forward Price-to-Earnings (P/E) ratio is an essential metric for investors who aim to assess a company's valuation and anticipate future growth potential. Unlike traditional valuation metrics, the Forward P/E ratio provides a forward-looking perspective by incorporating projected earnings rather than relying solely on historical data. This approach enables investors to make more informed predictions about the company's future financial performance, which can be particularly valuable for identifying investment opportunities.
@@ -165,4 +167,3 @@ To enhance your understanding of the Forward Price-to-Earnings (P/E) ratio, cons
 6. **Python for Finance: Analyze Big Financial Data by Yves Hilpisch**: For those interested in algorithmic trading, this book outlines how Python can be used to manipulate financial data, including calculating and integrating Forward P/E ratios into trading algorithms.
 
 These resources are a blend of theory, practical applications, and software implementation techniques, providing a well-rounded foundation for understanding and utilizing the Forward P/E ratio in both valuation and trading strategies.
-

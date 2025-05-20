@@ -1,6 +1,9 @@
 ---
-title: "Major Risks Associated with Bonds (Algo Trading)"
-description: "Discover the risks associated with bond investments and algorithmic trading Learn about interest rate credit liquidity risks and the implications of tech-driven trading"
+category: quant_concept
+description: Discover the risks associated with bond investments and algorithmic trading
+  Learn about interest rate credit liquidity risks and the implications of tech-driven
+  trading
+title: Major Risks Associated with Bonds (Algo Trading)
 ---
 
 The financial markets present a landscape filled with various investment opportunities, each promising potential returns. However, with these prospects come inherent risks that can significantly influence the outcomes of such investments. Investors are often attracted to bonds for their perceived safety compared to equities, given their reputation for offering stable income through interest payments. Yet, the bond market is not without its complexities. Factors such as interest rate fluctuations, creditworthiness of issuers, and market liquidity are vital considerations that can affect bond prices and yields.

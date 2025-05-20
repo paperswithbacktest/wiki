@@ -1,6 +1,8 @@
 ---
-title: "Minimum Price Contract: Overview and Example (Algo Trading)"
-description: "Explore the essential role of minimum price contracts in mitigating market volatility, offering security and predictability in commodity and agricultural markets."
+category: quant_concept
+description: Explore the essential role of minimum price contracts in mitigating market
+  volatility, offering security and predictability in commodity and agricultural markets.
+title: 'Minimum Price Contract: Overview and Example (Algo Trading)'
 ---
 
 In the intricate world of finance, understanding the various contract pricing mechanisms is vital for effective financial management. At the heart of these mechanisms is the minimum price contract, a fundamental element in financial agreements that plays a significant role in protecting parties against market volatility. These contracts serve as an essential tool in ensuring that a baseline price is guaranteed, offering a sense of security and predictability amidst fluctuating market conditions.

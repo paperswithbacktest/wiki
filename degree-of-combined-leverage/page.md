@@ -1,6 +1,8 @@
 ---
-title: "Degree of Combined Leverage (Algo Trading)"
-description: "Explore the importance of leverage in financial strategies analyzing financial operating and combined leverage to optimize returns and manage risks effectively."
+category: quant_concept
+description: Explore the importance of leverage in financial strategies analyzing
+  financial operating and combined leverage to optimize returns and manage risks effectively.
+title: Degree of Combined Leverage (Algo Trading)
 ---
 
 Understanding leverage is a crucial component for informed financial decision-making. In essence, leverage involves the use of various financial instruments or borrowed capital to increase the potential return of an investment. However, it is a double-edged sword; while it can amplify potential returns, it also increases potential risks, thereby affecting a company’s profitability and financial stability. This dual nature demands a thorough understanding and careful application of leverage within financial strategies.

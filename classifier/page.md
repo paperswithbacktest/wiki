@@ -1,7 +1,8 @@
 ---
-title: Understanding Machine Learning Classifiers and Their Performance
+category: quant_concept
 description: Machine Learning classifiers sort data into categories with precision
   using SVM bagging and boosting for accurate predictions Discover more inside.
+title: Understanding Machine Learning Classifiers and Their Performance
 ---
 
 ![Image](images/1.png)

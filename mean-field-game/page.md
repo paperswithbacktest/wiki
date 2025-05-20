@@ -1,6 +1,8 @@
 ---
-title: "mean field game (Algo Trading)"
-description: "Explore the synergy of Mean Field Games and algorithmic trading to optimize high-frequency trading strategies, enhance market liquidity, and reduce costs."
+category: quant_concept
+description: Explore the synergy of Mean Field Games and algorithmic trading to optimize
+  high-frequency trading strategies, enhance market liquidity, and reduce costs.
+title: mean field game (Algo Trading)
 ---
 
 Algorithmic trading refers to the use of computer algorithms to automate trading decisions and execute orders in financial markets at high speed and frequency. This approach has revolutionized the trading landscape, allowing for more precise, timely, and efficient transactions compared to traditional methods. The significance of algorithmic trading in modern financial markets is extensive, offering benefits such as improved liquidity, reduced transaction costs, and the ability to leverage large volumes of data for informed decision-making. The impact of algorithmic trading is evident as it accounts for a substantial portion of global trading volumes, with its influence continuously expanding as technologies advance.

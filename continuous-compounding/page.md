@@ -1,6 +1,13 @@
 ---
-title: "Continuous Compounding (Algo Trading)"
-description: "Discover the transformative power of continuous compounding in algorithmic trading where reinvesting profits can lead to exponential growth and maximize returns. This page investigates into the fundamental principles of compound interest and how it strategically integrates with automated trading systems to adapt to market changes optimize investment strategies and achieve financial goals efficiently. Explore the complexities and potential of compounding to enhance wealth accumulation and trading outcomes through careful planning and disciplined execution."
+category: quant_concept
+description: Discover the transformative power of continuous compounding in algorithmic
+  trading where reinvesting profits can lead to exponential growth and maximize returns.
+  This page investigates into the fundamental principles of compound interest and
+  how it strategically integrates with automated trading systems to adapt to market
+  changes optimize investment strategies and achieve financial goals efficiently.
+  Explore the complexities and potential of compounding to enhance wealth accumulation
+  and trading outcomes through careful planning and disciplined execution.
+title: Continuous Compounding (Algo Trading)
 ---
 
 The concept of compounding has significantly impacted financial growth strategies, providing effective avenues for exponential wealth accumulation. By continuously reinvesting earnings, compounding enables capital to grow at a faster rate than simple interest, where profits are generated only on the principal amount. In the fields of finance and trading, a thorough understanding of how compounding works can drastically influence investment outcomes. 

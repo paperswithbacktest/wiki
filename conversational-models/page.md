@@ -1,7 +1,8 @@
 ---
-title: 'Conversational AI Models: Components, Use Cases, and Challenges'
+category: quant_concept
 description: Conversational model leverages NLP transformers and reward shaping to
   boost dialogue coherence and performance in customer service Discover more inside
+title: 'Conversational AI Models: Components, Use Cases, and Challenges'
 ---
 
 ![Image](images/1.webp)

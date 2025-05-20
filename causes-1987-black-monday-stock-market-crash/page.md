@@ -1,6 +1,13 @@
 ---
-title: "Causes of the 1987 Black Monday Stock Market Crash (Algo Trading)"
-description: "Explore the causes of the 1987 Black Monday stock market crash by examining the role of algorithmic trading and technological advancements. Discover how program trading, particularly strategies like portfolio insurance, contributed to the unprecedented market decline and highlighted systemic risks associated with automated trading. This analysis investigates into the economic context and the impact of macroeconomic policies, providing insights into one of the most significant financial disruptions of the 20th century."
+category: quant_concept
+description: Explore the causes of the 1987 Black Monday stock market crash by examining
+  the role of algorithmic trading and technological advancements. Discover how program
+  trading, particularly strategies like portfolio insurance, contributed to the unprecedented
+  market decline and highlighted systemic risks associated with automated trading.
+  This analysis investigates into the economic context and the impact of macroeconomic
+  policies, providing insights into one of the most significant financial disruptions
+  of the 20th century.
+title: Causes of the 1987 Black Monday Stock Market Crash (Algo Trading)
 ---
 
 On October 19, 1987, global stock markets experienced what is now known as Black Monday, a day marked by an unprecedented and staggering decline in market values across the world. During this single trading session, major indices such as the U.S. S&P 500 and the Dow Jones Industrial Average plummeted by over 20%, demonstrating the largest one-day percentage drop in stock market history. This dramatic event not only sent shockwaves through financial markets but also ushered in a period of introspection and analysis aimed at understanding the underlying causes.

@@ -1,6 +1,15 @@
 ---
-title: "Data analysis (Algo Trading)"
-description: Algorithmic trading leverages advanced technology to revolutionize finance through high-speed market data analysis and automated trading strategies. This approach integrates sophisticated algorithms that optimize trade execution by processing extensive data rapidly, minimizing human error, and enhancing decision-making. As computing power and electronic platforms advance, algorithmic trading becomes more accessible, democratizing financial market participation and improving profitability. Data analysis is fundamental, employing techniques like technical analysis, statistical methods, and machine learning to refine strategies. These elements collectively ensure robust, agile trading operations in dynamic financial environments.
+category: trading_strategy
+description: Algorithmic trading leverages advanced technology to revolutionize finance
+  through high-speed market data analysis and automated trading strategies. This approach
+  integrates sophisticated algorithms that optimize trade execution by processing
+  extensive data rapidly, minimizing human error, and enhancing decision-making. As
+  computing power and electronic platforms advance, algorithmic trading becomes more
+  accessible, democratizing financial market participation and improving profitability.
+  Data analysis is fundamental, employing techniques like technical analysis, statistical
+  methods, and machine learning to refine strategies. These elements collectively
+  ensure robust, agile trading operations in dynamic financial environments.
+title: Data analysis (Algo Trading)
 ---
 
 Algorithmic trading represents a paradigm shift in the domain of finance, fundamentally altering the landscape through the integration of high-frequency market data analysis. The inception of algorithmic trading can be traced back to the adoption of basic program trading strategies, which primarily focused on executing large orders with minimal market impact. Over time, these rudimentary approaches have been supplanted by sophisticated algorithms capable of executing trades in microseconds, adjusting in real-time to the dynamic conditions of financial markets.

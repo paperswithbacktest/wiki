@@ -1,6 +1,8 @@
 ---
-title: "Comparison of Dividend ETFs and the S&P 500 (Algo Trading)"
-description: "Explore the pros and cons of Dividend ETFs the S&P 500 and algorithmic trading With insights on their characteristics risks and potential returns for investors"
+category: trading_strategy
+description: Explore the pros and cons of Dividend ETFs the S&P 500 and algorithmic
+  trading With insights on their characteristics risks and potential returns for investors
+title: Comparison of Dividend ETFs and the S&P 500 (Algo Trading)
 ---
 
 In today's ever-evolving financial landscape, investors are constantly searching for the best strategies to maximize their returns. Among the popular options are Dividend ETFs, the S&P 500, and algorithmic trading. Each approach offers unique advantages and challenges, making it crucial for investors to understand how they compare.

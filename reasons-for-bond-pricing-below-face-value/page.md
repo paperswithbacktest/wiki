@@ -1,6 +1,8 @@
 ---
-title: "Reasons for Bond Pricing Below Face Value (Algo Trading)"
-description: "Explore why bond prices can fall below face value due to interest rate changes and market dynamics. Learn how algorithmic trading influences these valuations."
+category: quant_concept
+description: Explore why bond prices can fall below face value due to interest rate
+  changes and market dynamics. Learn how algorithmic trading influences these valuations.
+title: Reasons for Bond Pricing Below Face Value (Algo Trading)
 ---
 
 Bond valuation and pricing are integral components of financial markets, playing a crucial role for both investors and issuers. Bonds represent a significant portion of investment portfolios, offering stable returns and diversification benefits. The valuation of bonds involves determining the present value of expected future cash flows, considering critical factors like interest rates, the bond's coupon rate, and the time to maturity. Accurate bond pricing enables investors to make informed decisions regarding purchasing, holding, or selling bonds. 

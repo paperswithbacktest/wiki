@@ -1,6 +1,8 @@
 ---
-title: "Factors Influencing Competition in Microeconomics (Algo Trading)"
-description: "Explore how microeconomic principles shape competitive dynamics and influence algorithmic trading in finance boosting efficiency and market performance."
+category: quant_concept
+description: Explore how microeconomic principles shape competitive dynamics and influence
+  algorithmic trading in finance boosting efficiency and market performance.
+title: Factors Influencing Competition in Microeconomics (Algo Trading)
 ---
 
 Microeconomics provides foundational insights into how individuals, households, and firms allocate scarce resources, influencing decision-making processes that underpin economic activities. Central to microeconomics are the market forces of supply and demand, which are fundamental in determining prices and output levels in diverse markets. Supply and demand frameworks illustrate the interaction between consumer desires and producer capabilities, creating a balance known as market equilibrium where the quantity supplied equals the quantity demanded.

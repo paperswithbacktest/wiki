@@ -1,6 +1,9 @@
 ---
-title: "Deep reinforcement learning for trading (Algo Trading)"
-description: "Explore cutting-edge deep reinforcement learning for algorithmic trading Discover adaptive strategies that leverage AI to optimize financial market analysis and decision-making"
+category: trading_strategy
+description: Explore cutting-edge deep reinforcement learning for algorithmic trading
+  Discover adaptive strategies that leverage AI to optimize financial market analysis
+  and decision-making
+title: Deep reinforcement learning for trading (Algo Trading)
 ---
 
 The application of Deep Reinforcement Learning (DRL) in algorithmic trading represents a cutting-edge approach to financial market analysis and decision-making. By marrying advanced machine learning techniques with the complexities of trading, DRL offers the potential for developing highly adaptive trading strategies that evolve based on continuous market feedback. This comprehensive guide will walk you through the entire process of developing, implementing, and deploying a DRL-based trading system.

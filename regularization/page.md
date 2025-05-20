@@ -1,10 +1,9 @@
 ---
-title: Regularization Techniques and Best Practices in Machine Learning
+category: quant_concept
 description: Regularization in machine learning prevents overfitting by penalizing
   complex models and balancing bias variance with L1 L2 techniques Discover more inside
+title: Regularization Techniques and Best Practices in Machine Learning
 ---
-
-
 
 ## Table of Contents
 

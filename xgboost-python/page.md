@@ -1,6 +1,13 @@
 ---
-title: "XGBoost in Python (Algo Trading)"
-description: Explore how XGBoost enhances algorithmic trading by leveraging its high predictive accuracy and ability to model complex, non-linear relationships in financial data. This article guides traders and data scientists in using XGBoost to develop advanced trading strategies, improving decision-making efficiency and offering a competitive edge in financial markets. Discover the setup process and integration of XGBoost in a trading environment, and unlock the potential of this powerful machine learning tool in your trading algorithms.
+category: trading_strategy
+description: Explore how XGBoost enhances algorithmic trading by leveraging its high
+  predictive accuracy and ability to model complex, non-linear relationships in financial
+  data. This article guides traders and data scientists in using XGBoost to develop
+  advanced trading strategies, improving decision-making efficiency and offering a
+  competitive edge in financial markets. Discover the setup process and integration
+  of XGBoost in a trading environment, and unlock the potential of this powerful machine
+  learning tool in your trading algorithms.
+title: XGBoost in Python (Algo Trading)
 ---
 
 Algorithmic trading refers to the use of computer algorithms to automate trading decisions in financial markets. By leveraging vast amounts of data and processing capabilities, algorithmic trading enables the execution of complex trading strategies at speeds and frequencies that are impossible for human traders to achieve. With the evolution of data analytics and computational power, algorithmic trading now constitutes a significant share of trading volume in global financial markets, effectively reshaping the landscape of modern finance.

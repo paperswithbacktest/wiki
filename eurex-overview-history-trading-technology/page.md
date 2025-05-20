@@ -1,6 +1,8 @@
 ---
-title: "Eurex: Overview, History, and Trading Technology (Algo Trading)"
-description: "Explore Eurex a leader in futures and options markets blending historic roots with cutting-edge trading technology and innovative algorithmic systems."
+category: quant_concept
+description: Explore Eurex a leader in futures and options markets blending historic
+  roots with cutting-edge trading technology and innovative algorithmic systems.
+title: 'Eurex: Overview, History, and Trading Technology (Algo Trading)'
 ---
 
 The Eurex Exchange serves as a fundamental pillar in the global financial markets and is recognized as one of the largest futures and options markets globally. With its extensive scope and innovative technological approaches, Eurex has become central to the modern trading landscape. This article aims to explore the multifaceted nature of Eurex, offering insights into its financial and technological evolution, particularly highlighting its trading and algorithmic trading systems.

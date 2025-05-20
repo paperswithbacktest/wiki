@@ -1,6 +1,9 @@
 ---
-title: "Three White Soldiers Pattern in Technical Analysis (Algo Trading)"
-description: "Discover the Three White Soldiers pattern in technical analysis A powerful bullish reversal indicator enhanced by algorithmic trading for efficient market strategies"
+category: trading_strategy
+description: Discover the Three White Soldiers pattern in technical analysis A powerful
+  bullish reversal indicator enhanced by algorithmic trading for efficient market
+  strategies
+title: Three White Soldiers Pattern in Technical Analysis (Algo Trading)
 ---
 
 Candlestick patterns are a cornerstone of technical analysis, serving as visual representations of price movements in financial markets over specific time frames. These patterns provide traders with insights into market sentiment and potential future price movements. Among the diverse array of candlestick patterns, the Three White Soldiers pattern stands out due to its significance as a bullish reversal indicator. This pattern comprises three consecutive long-bodied candlesticks, each closing higher than the previous, and typically emerges after a downward trend, signaling a potential shift to bullish momentum.

@@ -1,7 +1,8 @@
 ---
-title: Effective Model Training Techniques for Machine Learning
+category: quant_concept
 description: Model training guides algorithms to learn data patterns through split
   training testing and tuning to improve predictive accuracy Discover more inside.
+title: Effective Model Training Techniques for Machine Learning
 ---
 
 ![Image](images/1.png)

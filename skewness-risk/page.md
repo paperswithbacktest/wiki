@@ -1,6 +1,15 @@
 ---
-title: "Skewness risk (Algo Trading)"
-description: Skewness risk in algorithmic trading is often overlooked, yet it's crucial for risk assessment and decision-making. Skewness refers to asymmetric data distribution, which can mislead trading algorithms that assume normality, potentially underestimating extreme market outcomes. This can lead to significant financial impacts by distorting models like Value at Risk (VaR) and volatility measures. Addressing skewness involves using models that accommodate asymmetry, enhancing algorithm reliability and protecting against unforeseen losses. Understanding and mitigating skewness risk is vital for optimizing trading strategies and improving risk management in the face of asymmetric data.
+category: quant_concept
+description: Skewness risk in algorithmic trading is often overlooked, yet it's crucial
+  for risk assessment and decision-making. Skewness refers to asymmetric data distribution,
+  which can mislead trading algorithms that assume normality, potentially underestimating
+  extreme market outcomes. This can lead to significant financial impacts by distorting
+  models like Value at Risk (VaR) and volatility measures. Addressing skewness involves
+  using models that accommodate asymmetry, enhancing algorithm reliability and protecting
+  against unforeseen losses. Understanding and mitigating skewness risk is vital for
+  optimizing trading strategies and improving risk management in the face of asymmetric
+  data.
+title: Skewness risk (Algo Trading)
 ---
 
 Skewness risk in algorithmic trading is a critical factor often overlooked by traders. In financial models, skewness refers to the degree of asymmetry observed in a data distribution. When data points are not symmetrically distributed around an average value, it indicates skewness, which, if ignored, can significantly disrupt trading algorithms. Skewed data distributions can lead to misleading assessments of risk, potentially compromising the decision-making processes that traders rely on. For instance, a trading algorithm might anticipate a normal distribution of price movements, but if the actual distribution exhibits skewness, this assumption can lead to underestimating the probability of extreme losses or gains.

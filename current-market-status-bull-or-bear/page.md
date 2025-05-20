@@ -1,6 +1,8 @@
 ---
-title: "Current Market Status: Bull or Bear (Algo Trading)"
-description: "Explore the dynamics of bull and bear markets essential for traders using algo trading to leverage trends maximize returns and mitigate financial risks."
+category: quant_concept
+description: Explore the dynamics of bull and bear markets essential for traders using
+  algo trading to leverage trends maximize returns and mitigate financial risks.
+title: 'Current Market Status: Bull or Bear (Algo Trading)'
 ---
 
 In financial markets, understanding trends such as bull and bear markets is essential for investors and traders seeking to maximize returns and mitigate risks. These market conditions reveal significant shifts in asset prices, with bull markets indicating upward trajectories and bear markets showing downward trends. A bull market typically exhibits rising asset prices, driven by strong economic indicators and investor optimism. Conversely, bear markets are characterized by a decline in asset prices, often triggered by economic slowdowns and negative market sentiment.

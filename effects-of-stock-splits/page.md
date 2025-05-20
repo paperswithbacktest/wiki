@@ -1,6 +1,8 @@
 ---
-title: "Effects of Stock Splits (Algo Trading)"
-description: "Explore the impacts of stock splits and algorithmic trading on financial markets. Gain insights into investing strategies and market dynamics post-split."
+category: trading_strategy
+description: Explore the impacts of stock splits and algorithmic trading on financial
+  markets. Gain insights into investing strategies and market dynamics post-split.
+title: Effects of Stock Splits (Algo Trading)
 ---
 
 Financial markets are pivotal to the global economy, serving as conduits for capital formation and facilitating portfolio growth. These markets provide a platform for the exchange of financial instruments, which in turn supports business expansion, innovation, and economic development. Beyond their basic functions, financial markets are a vital component for resource allocation, price discovery, and risk management.

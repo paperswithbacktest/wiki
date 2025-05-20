@@ -1,7 +1,8 @@
 ---
-title: Co-Training in Machine Learning Semi-Supervised Methods
+category: quant_concept
 description: Co-training in machine learning uses two distinct feature views and unlabeled
   data to improve classification accuracy with few labels Discover more inside
+title: Co-Training in Machine Learning Semi-Supervised Methods
 ---
 
 ![Image](images/1.png)

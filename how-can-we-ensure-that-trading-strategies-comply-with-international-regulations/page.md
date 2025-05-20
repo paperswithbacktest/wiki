@@ -1,9 +1,14 @@
 ---
-title: "How can we ensure that trading strategies comply with international regulations?"
-description: "Discover how to ensure trading strategies adhere to international regulations with this comprehensive guide. Identify relevant jurisdictions, understand regulatory details, use monitoring tools, provide specific training, collaborate with advisors, implement a rigorous review process, and maintain meticulous documentation. Read more for resources and datasets on equities, cryptocurrencies, commodities, currencies, bonds, options, libraries, packages, strategies, books, blogs, tutorials, and becoming a quant trader."
+category: trading_strategy
+description: Discover how to ensure trading strategies adhere to international regulations
+  with this comprehensive guide. Identify relevant jurisdictions, understand regulatory
+  details, use monitoring tools, provide specific training, collaborate with advisors,
+  implement a rigorous review process, and maintain meticulous documentation. Read
+  more for resources and datasets on equities, cryptocurrencies, commodities, currencies,
+  bonds, options, libraries, packages, strategies, books, blogs, tutorials, and becoming
+  a quant trader.
+title: How can we ensure that trading strategies comply with international regulations?
 ---
-
-
 
 In the global financial context, regulations are essential instruments for ensuring a fair and transparent market. When developing trading strategies, ensuring compliance with international standards is crucial. Here's a detailed guide to how.
 

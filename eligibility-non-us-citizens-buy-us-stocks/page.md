@@ -1,6 +1,14 @@
 ---
-title: "Eligibility of Non-U.S. Citizens to Buy U.S. Stocks (Algo Trading)"
-description: "Discover how non-U.S. citizens can invest in U.S. stocks using algorithmic trading to enhance trading efficiency and profitability. Understand the eligibility criteria, legal frameworks, and verification processes necessary for foreign investors to participate in the U.S. stock market. Explore tax and regulatory considerations and learn how leveraging advanced trading technologies can provide a competitive edge in executing trades effectively. This guide offers valuable insights for international investors aiming to capitalize on the stability and liquidity of the U.S. stock market."
+category: trading_strategy
+description: Discover how non-U.S. citizens can invest in U.S. stocks using algorithmic
+  trading to enhance trading efficiency and profitability. Understand the eligibility
+  criteria, legal frameworks, and verification processes necessary for foreign investors
+  to participate in the U.S. stock market. Explore tax and regulatory considerations
+  and learn how leveraging advanced trading technologies can provide a competitive
+  edge in executing trades effectively. This guide offers valuable insights for international
+  investors aiming to capitalize on the stability and liquidity of the U.S. stock
+  market.
+title: Eligibility of Non-U.S. Citizens to Buy U.S. Stocks (Algo Trading)
 ---
 
 The global investment landscape is continually evolving, with investors seeking diverse opportunities to maximize their returns. One of the most attractive prospects for international investors is the U.S. stock market, renowned for its stability, liquidity, and robust economic environment. This market has become increasingly accessible to non-U.S. citizens, paving the way for a broader range of investment strategies, including the use of algorithmic trading.

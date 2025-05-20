@@ -1,6 +1,8 @@
 ---
-title: "Risks and Rewards of Penny Stocks (Algo Trading)"
-description: "Explore the high-risk world of penny stocks and algorithmic trading, uncovering their potential rewards and pitfalls to make informed investment decisions."
+category: trading_strategy
+description: Explore the high-risk world of penny stocks and algorithmic trading,
+  uncovering their potential rewards and pitfalls to make informed investment decisions.
+title: Risks and Rewards of Penny Stocks (Algo Trading)
 ---
 
 The world of stock market investments is both expansive and diverse, presenting a landscape replete with opportunities for both substantial gains and significant losses. In this intricate ecosystem, understanding the nuances and risks involved is crucial for any investor wishing to maximize their financial endeavors. This article shines a spotlight on two particularly high-risk areas of the stock market: penny stocks and algorithmic trading. 

@@ -1,6 +1,9 @@
 ---
-title: "Market Indicators and Their Applications (Algo Trading)"
-description: "Explore essential market indicators and algorithmic trading strategies to enhance your investment decisions. Gain insights into predicting market trends and trading efficiently."
+category: trading_strategy
+description: Explore essential market indicators and algorithmic trading strategies
+  to enhance your investment decisions. Gain insights into predicting market trends
+  and trading efficiently.
+title: Market Indicators and Their Applications (Algo Trading)
 ---
 
 In the ever-evolving world of finance, understanding and leveraging the right investment tools is crucial for success. Investors today are inundated with a plethora of options, ranging from advanced financial analysis platforms to innovative algorithmic trading systems. With markets becoming increasingly complex and technology-driven, both beginner and experienced investors need to be adept at utilizing these tools effectively to achieve their financial goals.

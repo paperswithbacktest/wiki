@@ -1,6 +1,9 @@
 ---
-title: "Montreal Exchange (Algo Trading)"
-description: "Explore the Montreal Exchange's role in transforming financial markets with algorithmic trading, offering innovative derivatives for efficient and advanced trading strategies."
+category: quant_concept
+description: Explore the Montreal Exchange's role in transforming financial markets
+  with algorithmic trading, offering innovative derivatives for efficient and advanced
+  trading strategies.
+title: Montreal Exchange (Algo Trading)
 ---
 
 The financial markets span a broad and extensive spectrum, with the Montreal Stock Exchange (MX) holding a critical position in the field of derivatives trading. Established as a cornerstone of Canadian financial infrastructure, the MX has been pivotal in facilitating the trading of derivative contracts, which include equity options and index futures. Historically, the exchange's focus has shifted over time to embrace derivatives, transforming into a central venue for this sophisticated market segment.

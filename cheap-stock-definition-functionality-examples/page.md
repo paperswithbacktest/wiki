@@ -1,6 +1,8 @@
 ---
-title: "Cheap Stock: Definition, Functionality, and Examples (Algo Trading)"
-description: "Explore how algorithmic trading can identify and exploit undervalued stocks within financial markets enhancing investment strategies and optimizing returns."
+category: quant_concept
+description: Explore how algorithmic trading can identify and exploit undervalued
+  stocks within financial markets enhancing investment strategies and optimizing returns.
+title: 'Cheap Stock: Definition, Functionality, and Examples (Algo Trading)'
 ---
 
 Financial markets are pivotal structures in the global economy, serving as platforms for the trading of financial securities such as stocks and bonds. They facilitate liquidity, enable price discovery, and provide opportunities for wealth accumulation through investments in various asset classes. Stock investment, in particular, plays a crucial role by allowing individuals and institutions to gain partial ownership in companies, thereby participating in their success and growth.

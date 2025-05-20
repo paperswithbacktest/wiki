@@ -1,6 +1,8 @@
 ---
-title: "Comparison of Convertible and Reverse Convertible Bonds (Algo Trading)"
-description: "Discover the intricacies of convertible and reverse convertible bonds alongside the impact of algorithmic trading in bond markets, vital for modern investors."
+category: quant_concept
+description: Discover the intricacies of convertible and reverse convertible bonds
+  alongside the impact of algorithmic trading in bond markets, vital for modern investors.
+title: Comparison of Convertible and Reverse Convertible Bonds (Algo Trading)
 ---
 
 Convertible bonds, reverse convertible bonds, and algorithmic trading are pivotal components of the contemporary financial landscape, offering both opportunities and complexities for issuers and investors. Convertible bonds are hybrid securities that provide holders with the option to convert the bond into a predetermined number of shares of the issuing company, thus allowing investors to enjoy both fixed-income features and potential equity upside. In contrast, reverse convertible bonds are typically short-term instruments that give the issuer the right to repay the principal in cash or a predetermined number of shares, usually depending on the performance of a reference asset. These instruments often provide higher yields compared to traditional bonds, reflecting their increased risk profile.
@@ -188,4 +190,3 @@ For those interested in understanding more, a wealth of literature exists on the
    - McKinsey & Company. (2020). *The future of algorithmic trading*. A report detailing advancements and the future outlook for algorithmic trading practices in financial markets.
 
 These resources cater to both foundational understanding and advanced analyses of convertible and reverse convertible bonds, as well as algorithmic trading.
-

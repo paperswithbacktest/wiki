@@ -1,6 +1,8 @@
 ---
-title: "History of Exchange-Traded Funds (Algo Trading)"
-description: "Explore the transformative journey of ETFs and algorithmic trading in modern finance uncovering their impact on global markets and investment strategies."
+category: quant_concept
+description: Explore the transformative journey of ETFs and algorithmic trading in
+  modern finance uncovering their impact on global markets and investment strategies.
+title: History of Exchange-Traded Funds (Algo Trading)
 ---
 
 Modern investing has been profoundly transformed by the advent of Exchange-Traded Funds (ETFs) and algorithmic trading. These developments have redefined how individuals and institutions engage with financial markets across the globe. ETFs have emerged as a pivotal innovation, offering investors an efficient way to access a broad spectrum of asset classes with the ease and flexibility associated with trading stocks. Compared to traditional mutual funds, ETFs present compelling advantages, including lower management fees, intraday trading capabilities, and tax efficiencies, making them an attractive choice for contemporary investment strategies.

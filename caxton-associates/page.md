@@ -1,6 +1,8 @@
 ---
-title: "Caxton Associates (Algo Trading)"
-description: "Discover how Caxton Associates leverages algorithmic trading and global macro strategies to maintain its leadership in the hedge fund sector."
+category: quant_concept
+description: Discover how Caxton Associates leverages algorithmic trading and global
+  macro strategies to maintain its leadership in the hedge fund sector.
+title: Caxton Associates (Algo Trading)
 ---
 
 Caxton Associates is a globally recognized hedge fund established in 1983, with its headquarters located in London. It holds a significant position within the investment management industry due to its strategic approach to market analysis and investment decisions. Caxton is skilled in interpreting global economic trends and is noted for its rigorous research and analysis methodology.

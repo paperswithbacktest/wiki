@@ -1,6 +1,9 @@
 ---
-title: "Liquidity detection algorithms (Algo Trading)"
-description: "Liquidity detection algorithms enhance trading by optimizing execution of large trades with minimal market impact leveraging advanced data analysis and machine learning."
+category: quant_concept
+description: Liquidity detection algorithms enhance trading by optimizing execution
+  of large trades with minimal market impact leveraging advanced data analysis and
+  machine learning.
+title: Liquidity detection algorithms (Algo Trading)
 ---
 
 In recent years, liquidity detection algorithms have become pivotal in the field of algorithmic trading, providing a sophisticated approach to understanding and gauging liquidity within financial markets. These algorithms are fundamentally designed to optimize trade execution by accurately assessing the availability of liquidity, thereby ensuring that large transactions can be conducted with minimal market disruption. 

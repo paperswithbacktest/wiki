@@ -1,6 +1,9 @@
 ---
-title: "Financial Ratios in the Pharmaceutical Industry (Algo Trading)"
-description: "Explore how financial ratios impact pharmaceutical industry performance and algo trading strategies Optimize trading with key metrics on profitability and investment efficiency"
+category: trading_strategy
+description: Explore how financial ratios impact pharmaceutical industry performance
+  and algo trading strategies Optimize trading with key metrics on profitability and
+  investment efficiency
+title: Financial Ratios in the Pharmaceutical Industry (Algo Trading)
 ---
 
 The pharmaceutical industry is a fundamental component of the healthcare sector, distinguished by its substantial capital investment in research and development (R&D). This intensive focus on R&D is necessitated by the lengthy pipeline required to bring a drug from initial discovery through to market approval. Such investment is pivotal in driving innovation and maintaining a competitive edge in an industry where R&D expenses can lead to significant long-term payoffs.

@@ -1,6 +1,9 @@
 ---
-title: "Largest Canadian Mining Companies (Algo Trading)"
-description: "Canadian mining companies lead in resource production with commodities like uranium, zinc, and gold. Algorithmic trading reshapes operations, boosting efficiency."
+category: dataset
+description: Canadian mining companies lead in resource production with commodities
+  like uranium, zinc, and gold. Algorithmic trading reshapes operations, boosting
+  efficiency.
+title: Largest Canadian Mining Companies (Algo Trading)
 ---
 
 Canada stands as a global leader in the mining industry, boasting a prodigious array of natural resources. The nation's mining companies are pivotal to the production of essential materials, including but not limited to uranium, zinc, nickel, and gold. These commodities not only contribute significantly to Canada’s economy but also play a vital role in various industries worldwide. In recent years, the mining sector in Canada is witnessing a transformative phase, strongly influenced by technological advancements. One such significant development is the integration of algorithmic trading, often abbreviated as algo trading, which is fundamentally reshaping the operations and trade strategies of mining companies.

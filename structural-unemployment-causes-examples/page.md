@@ -1,6 +1,8 @@
 ---
-title: "Structural Unemployment: Causes and Examples (Algo Trading)"
-description: "Discover the root causes and examples of structural unemployment including the impacts of technology, globalization, and policy shifts on the job market."
+category: quant_concept
+description: Discover the root causes and examples of structural unemployment including
+  the impacts of technology, globalization, and policy shifts on the job market.
+title: 'Structural Unemployment: Causes and Examples (Algo Trading)'
 ---
 
 Structural unemployment represents a significant challenge to economies worldwide, precisely because it stems from profound changes within the economic landscape, unlike other more transient forms of unemployment. As societies undergo economic shifts, driven by technological advancements, globalization, and policy decisions, the workforce often finds itself at a crossroads. Workers who previously filled roles essential to an older economic model may now face obsolescence as new industries and technologies emerge. This mismatch between skills and job requirements underpins structural unemployment, distinguishing it from cyclical unemployment, which is tied to the business cycle, and frictional unemployment, which is temporary and occurs as workers transition between jobs.

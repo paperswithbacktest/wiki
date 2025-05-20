@@ -1,6 +1,9 @@
 ---
-title: "Section 179 Tax Deduction (Algo Trading)"
-description: "Discover how Section 179 can help algorithmic trading firms optimize taxes by allowing full deductions on essential assets, enhancing their competitive edge."
+category: quant_concept
+description: Discover how Section 179 can help algorithmic trading firms optimize
+  taxes by allowing full deductions on essential assets, enhancing their competitive
+  edge.
+title: Section 179 Tax Deduction (Algo Trading)
 ---
 
 Understanding tax deductions is crucial for businesses seeking to optimize their financial strategies. Effective tax management can make a significant difference in a company's financial health, enabling reinvestment and fostering growth. Section 179 of the U.S. Internal Revenue Code offers businesses a compelling opportunity to optimize tax liabilities by deducting the full purchase price of qualifying equipment and software from their taxable income in the year the purchase is made. 

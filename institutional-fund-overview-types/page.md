@@ -1,6 +1,9 @@
 ---
-title: "Institutional Fund: Overview and Types (Algo Trading)"
-description: "Explore institutional funds and algorithmic trading to understand how these powerful financial tools enhance investment strategies and market operations for large investors."
+category: quant_concept
+description: Explore institutional funds and algorithmic trading to understand how
+  these powerful financial tools enhance investment strategies and market operations
+  for large investors.
+title: 'Institutional Fund: Overview and Types (Algo Trading)'
 ---
 
 Institutional funds and algorithmic trading are crucial components of contemporary financial systems, significantly influencing investment methodologies and market dynamics. Institutional funds cater to large-scale investors such as corporations, non-profits, and government bodies, providing them with robust platforms for diversified and efficient portfolio management. These funds are designed to meet the specific investment requirements of substantial entities, offering advantages such as reduced costs and tailored investment structures.

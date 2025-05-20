@@ -1,6 +1,8 @@
 ---
-title: "Speculators: Types and Market Impact (Algo Trading)"
-description: "Explore the types and impact of speculators and algorithmic trading in today's financial markets. Understand how these elements shape market dynamics."
+category: quant_concept
+description: Explore the types and impact of speculators and algorithmic trading in
+  today's financial markets. Understand how these elements shape market dynamics.
+title: 'Speculators: Types and Market Impact (Algo Trading)'
 ---
 
 In today's dynamic financial landscape, a myriad of investment types interact to shape market behaviors. Traditional investment vehicles such as stocks and bonds remain foundational elements. Stocks offer investors a piece of ownership in a company, with potential for capital gains and dividends, while bonds provide fixed-income returns through interest payments. These traditional forms are complemented by modern financial instruments like cryptocurrencies and exchange-traded funds (ETFs), which bring new dimensions to investing. Cryptocurrencies, digital or virtual currencies utilizing cryptography for security, introduce higher volatility and substantial risk, yet offer significant growth potential. ETFs, which pool money from multiple investors to invest in a diversified portfolio of assets, offer flexibility and reduced costs compared to individual stock picking.

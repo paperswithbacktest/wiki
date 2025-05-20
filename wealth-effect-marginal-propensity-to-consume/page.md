@@ -1,6 +1,8 @@
 ---
-title: "Wealth Effect and Marginal Propensity to Consume (Algo Trading)"
-description: "Explore the relationship between Marginal Propensity to Consume wealth effect and algo trading to understand modern economic dynamics and market influences."
+category: quant_concept
+description: Explore the relationship between Marginal Propensity to Consume wealth
+  effect and algo trading to understand modern economic dynamics and market influences.
+title: Wealth Effect and Marginal Propensity to Consume (Algo Trading)
 ---
 
 In the modern economic landscape, understanding the interplay among the Marginal Propensity to Consume (MPC), the wealth effect, and algorithmic trading is becoming increasingly essential. The MPC, a key concept rooted in Keynesian economic theory, measures the proportion of additional income that a household is likely to spend on consumption rather than saving. This metric is fundamental for economists to analyze consumer behavior and its subsequent impact on economic growth.

@@ -1,6 +1,9 @@
 ---
-title: "Marginalism in Microeconomics (Algo Trading)"
-description: "Discover how marginalism, a key concept in microeconomics, influences algorithmic trading strategies by enhancing decision-making in complex financial markets."
+category: quant_concept
+description: Discover how marginalism, a key concept in microeconomics, influences
+  algorithmic trading strategies by enhancing decision-making in complex financial
+  markets.
+title: Marginalism in Microeconomics (Algo Trading)
 ---
 
 Marginalism in microeconomics serves as a foundation for understanding various economic theories that shape contemporary financial markets and trading strategies. This article investigates the relationship between marginalism, as a critical aspect of microeconomic theory, and its influence on algorithmic trading—a prominent technology in today's finance industry.

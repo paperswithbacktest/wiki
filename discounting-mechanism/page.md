@@ -1,6 +1,8 @@
 ---
-title: "Discounting Mechanism (Algo Trading)"
-description: "Discover how discounting mechanisms integrate with economics, finance, and algorithmic trading to revolutionize financial markets and risk management strategies."
+category: quant_concept
+description: Discover how discounting mechanisms integrate with economics, finance,
+  and algorithmic trading to revolutionize financial markets and risk management strategies.
+title: Discounting Mechanism (Algo Trading)
 ---
 
 The convergence of discounting, economics, finance, and algorithmic trading has profoundly transformed the financial markets. Modern trading strategies are increasingly shaped by the interplay of these elements, which together drive advancements in decision-making processes and risk management techniques within financial institutions.

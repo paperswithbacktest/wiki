@@ -1,6 +1,8 @@
 ---
-title: "Risks of Contracts for Difference (Algo Trading)"
-description: "Explore the risks of CFD trading when combined with algorithmic strategies. Understand potential challenges and exposures for successful, responsible trading."
+category: trading_strategy
+description: Explore the risks of CFD trading when combined with algorithmic strategies.
+  Understand potential challenges and exposures for successful, responsible trading.
+title: Risks of Contracts for Difference (Algo Trading)
 ---
 
 Financial trading involves the buying and selling of financial instruments with the aim of generating profit. These instruments can include stocks, bonds, currencies, commodities, and derivatives. Contracts for Difference (CFDs) have emerged as a popular form of derivative trading, allowing traders to speculate on the price movements of these financial instruments without owning the underlying assets. 

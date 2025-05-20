@@ -1,6 +1,8 @@
 ---
-title: "European Customs Union Overview (Algo Trading)"
-description: "Explore the European Customs Union's evolution enhancing trade efficiency with a common tariff while adapting to algorithmic trading's opportunities and challenges."
+category: quant_concept
+description: Explore the European Customs Union's evolution enhancing trade efficiency
+  with a common tariff while adapting to algorithmic trading's opportunities and challenges.
+title: European Customs Union Overview (Algo Trading)
 ---
 
 The European Customs Union represents a critical component of the European Union's economic architecture, established to enhance trade efficiency by removing internal customs barriers among member states and imposing a common external tariff. Since its inception in 1968, the Customs Union has played a significant role in promoting economic integration across Europe, simplifying trade flows, and reducing trade costs. This framework not only facilitates the seamless movement of goods among EU member states but also enhances the EU's bargaining power on the global stage through collective trade negotiations.

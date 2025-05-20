@@ -1,6 +1,9 @@
 ---
-title: "Factors Influencing Stock Bid-Ask Spread (Algo Trading)"
-description: "Discover how factors like market liquidity volatility and algorithmic trading influence the stock bid-ask spread Learn strategies to optimize trading costs"
+category: quant_concept
+description: Discover how factors like market liquidity volatility and algorithmic
+  trading influence the stock bid-ask spread Learn strategies to optimize trading
+  costs
+title: Factors Influencing Stock Bid-Ask Spread (Algo Trading)
 ---
 
 Understanding the financial trading landscape is crucial for both amateur and professional traders. One of the critical elements in this landscape is the bid-ask spread. The bid-ask spread is essentially the difference between the highest price that a buyer is willing to pay for an asset (the bid) and the lowest price a seller is willing to accept (the ask). This spread is a fundamental concept in financial markets, serving as a measure of market liquidity and a cost factor for implementing trading strategies. 
@@ -140,4 +143,3 @@ In conclusion, the potential for profitable trading strategies through a compreh
 - Engaging in webinars and conferences hosted by organizations such as the CFA Institute and the Algorithmic Trading Symposium can provide current industry developments and expert perspectives.
 
 These resources, ranging from foundational texts to interactive platforms, are essential for anyone looking to deepen their understanding of bid-ask spreads and the role of algorithmic trading in modern financial markets.
-

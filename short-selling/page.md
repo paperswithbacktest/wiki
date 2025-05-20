@@ -1,6 +1,10 @@
 ---
-title: "Short Selling (Algo Trading)"
-description: Discover the intricacies of short selling, a strategy used in algorithmic trading to maximize profits. Learn why investors choose to short sell, its risks, and how it's employed in algo trading for volatility navigation and significant profits. Dive deeper with recommended resources.
+category: quant_concept
+description: Discover the intricacies of short selling, a strategy used in algorithmic
+  trading to maximize profits. Learn why investors choose to short sell, its risks,
+  and how it's employed in algo trading for volatility navigation and significant
+  profits. Dive deeper with recommended resources.
+title: Short Selling (Algo Trading)
 ---
 
 Algorithmic trading has become an integral component of modern financial markets, leveraging computer algorithms to execute trading decisions at speeds and frequencies impossible for human traders. This automation and reliance on data-driven strategies have not only increased the efficiency of trading operations but also provided traders with a capability to process vast amounts of market data instantly. The significance of algorithmic trading is underscored by its adoption across various investment firms, hedge funds, and financial institutions seeking to capitalize on minute market movements.

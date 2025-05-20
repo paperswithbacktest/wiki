@@ -1,6 +1,8 @@
 ---
-title: "Swing Trader Daily Routine (Algo Trading)"
-description: "Unlock the secrets of swing trading with an effective daily routine that blends technical and fundamental analysis to enhance market performance."
+category: trading_strategy
+description: Unlock the secrets of swing trading with an effective daily routine that
+  blends technical and fundamental analysis to enhance market performance.
+title: Swing Trader Daily Routine (Algo Trading)
 ---
 
 Swing trading is a dynamic approach to the financial markets, combining elements of both fundamental and technical analysis to exploit medium-term price movements. This style of trading is positioned between day trading's rapid pace and long-term investing's more gradual approach, offering a unique balance that attracts many market participants. By merging fundamental factors, such as earnings reports and economic indicators, with technical tools like charts and trendlines, swing traders aim to capture significant market swings and optimize their return on capital.

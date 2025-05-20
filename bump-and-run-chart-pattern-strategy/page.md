@@ -1,6 +1,13 @@
 ---
-title: "Bump and Run Chart Pattern Strategy Explained (Algo Trading)"
-description: Discover how the Bump and Run chart pattern plays a pivotal role in algorithmic trading by identifying potential trend reversals. This comprehensive guide explains how to recognize the distinct phases of the pattern to enhance trading strategies. Gain insights into the pattern's application in automated systems and leverage statistical analyses to optimize trading performance and profitability. Ideal for traders seeking to improve decision-making and capitalize on market dynamics through informed pattern recognition.
+category: trading_strategy
+description: Discover how the Bump and Run chart pattern plays a pivotal role in algorithmic
+  trading by identifying potential trend reversals. This comprehensive guide explains
+  how to recognize the distinct phases of the pattern to enhance trading strategies.
+  Gain insights into the pattern's application in automated systems and leverage statistical
+  analyses to optimize trading performance and profitability. Ideal for traders seeking
+  to improve decision-making and capitalize on market dynamics through informed pattern
+  recognition.
+title: Bump and Run Chart Pattern Strategy Explained (Algo Trading)
 ---
 
 Algorithmic trading is a complex domain where precision, speed, and data-driven decisions are essential for success. As traders seek to enhance their strategies, recognizing chart patterns that predict market movements becomes increasingly important. One such pattern, the Bump and Run pattern, serves as an invaluable tool for identifying potential trend reversals. By understanding this pattern, traders can better position themselves to take advantage of market developments and refine their trading strategies for optimized outcomes.

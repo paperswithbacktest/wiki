@@ -1,7 +1,8 @@
 ---
-title: Understanding the Bellman Equation in Reinforcement Learning
+category: quant_concept
 description: Bellman Equation helps agents efficiently break complex decisions into
   state values for optimal policies in reinforcement learning Discover more inside.
+title: Understanding the Bellman Equation in Reinforcement Learning
 ---
 
 ![Image](images/1.jpeg)

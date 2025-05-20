@@ -1,6 +1,9 @@
 ---
-title: "Countertrade: Types and Examples (Algo Trading)"
-description: "Explore countertrade as a vital strategy in international trade, particularly in developing countries, involving types like barter, counterpurchase, and offset agreements."
+category: quant_concept
+description: Explore countertrade as a vital strategy in international trade, particularly
+  in developing countries, involving types like barter, counterpurchase, and offset
+  agreements.
+title: 'Countertrade: Types and Examples (Algo Trading)'
 ---
 
 Countertrade is a reciprocal form of international trade in which goods and services are exchanged for other goods and services rather than for hard currency. This form of trade is particularly significant in international markets, especially for developing countries that often face challenges in acquiring sufficient foreign exchange reserves. Countertrade can be a strategic tool for these nations to engage in global commerce by utilizing their available resources and goods, rather than relying on scarce foreign currency.

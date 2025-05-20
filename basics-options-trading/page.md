@@ -1,6 +1,12 @@
 ---
-title: "The Basics of Options Trading (Algo Trading)"
-description: Discover the fundamentals of options trading and its integration with algorithmic trading to enhance investment strategies. Explore how options empower investors to hedge, speculate, and improve returns while utilizing advanced algorithms for efficient execution. Understand key terms and benefits associated with options to gain a competitive edge in financial markets through informed decision-making and rapid market adjustments.
+category: quant_concept
+description: Discover the fundamentals of options trading and its integration with
+  algorithmic trading to enhance investment strategies. Explore how options empower
+  investors to hedge, speculate, and improve returns while utilizing advanced algorithms
+  for efficient execution. Understand key terms and benefits associated with options
+  to gain a competitive edge in financial markets through informed decision-making
+  and rapid market adjustments.
+title: The Basics of Options Trading (Algo Trading)
 ---
 
 Options trading is a sophisticated financial practice that enables investors to buy or sell options derived from underlying assets such as stocks. An option is a contract granting the holder the right, but not the obligation, to buy or sell an asset at a predetermined price within a specified timeframe. Options are versatile financial instruments that can be used for hedging, speculation, or enhancing portfolio returns with relatively controlled risk.

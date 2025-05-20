@@ -1,6 +1,8 @@
 ---
-title: "Kyoto Protocol: History, Timeline, and Current Status (Algo Trading)"
-description: "Explore the history and impact of the Kyoto Protocol on global climate policy and discover how algorithmic trading is transforming environmental markets."
+category: quant_concept
+description: Explore the history and impact of the Kyoto Protocol on global climate
+  policy and discover how algorithmic trading is transforming environmental markets.
+title: 'Kyoto Protocol: History, Timeline, and Current Status (Algo Trading)'
 ---
 
 The Kyoto Protocol represents a significant milestone in the international community's response to climate change, marking a concerted effort to address the global reduction of greenhouse gas emissions. Adopted in 1997 and entering into force in 2005, the protocol set legally binding targets for developed countries to reduce their emissions. This agreement not only underscored the severity of environmental degradation but also highlighted the importance of international cooperation in formulating and implementing effective sustainability measures.

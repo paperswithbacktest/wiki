@@ -1,6 +1,8 @@
 ---
-title: "Down-Market Capture Ratio Formula and Examples (Algo Trading)"
-description: "Discover the significance of the down-market capture ratio in algorithmic trading Learn how this metric helps gauge investment performance during market declines"
+category: trading_strategy
+description: Discover the significance of the down-market capture ratio in algorithmic
+  trading Learn how this metric helps gauge investment performance during market declines
+title: Down-Market Capture Ratio Formula and Examples (Algo Trading)
 ---
 
 The world of finance employs numerous metrics to evaluate investment performance. An important metric among these is the down-market capture ratio. This ratio plays a crucial role in understanding how well an investment strategy performs, especially during unfavorable market conditions, and is particularly significant for algorithmic trading strategies.

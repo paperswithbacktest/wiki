@@ -1,6 +1,8 @@
 ---
-title: "Fixed Charge in Corporate Finance (Algo Trading)"
-description: "Discover the significance of fixed charges in corporate finance and how they impact algorithmic trading decisions. Learn about FCCR for better risk assessment."
+category: quant_concept
+description: Discover the significance of fixed charges in corporate finance and how
+  they impact algorithmic trading decisions. Learn about FCCR for better risk assessment.
+title: Fixed Charge in Corporate Finance (Algo Trading)
 ---
 
 Fixed charges are a fundamental concept in corporate finance, denoting recurring expenses a company incurs regardless of business volume. These charges are pivotal in understanding a company's financial obligations and overall health, especially when assessed through financial ratios like the Fixed Charge Coverage Ratio (FCCR). In the context of algorithmic trading, understanding and evaluating fixed charges through FCCR can provide critical insights for investors and traders, helping analyze the stability and risk profile of potential investments.
@@ -175,4 +177,3 @@ Encouraging further analysis of FCCR alongside other financial metrics enriches 
 9. "Algorithmic Trading and the Fixed Charge Coverage Ratio" – An academic paper featuring case studies and theoretical applications of FCCR in algorithmic trading strategies.
 
 These resources provide a solid foundation for further understanding fixed charges, the Fixed Charge Coverage Ratio, and their application in financial analysis and strategy.
-

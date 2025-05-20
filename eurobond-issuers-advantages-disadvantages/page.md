@@ -1,6 +1,8 @@
 ---
-title: "Eurobond: Issuers, Advantages, and Disadvantages (Algo Trading)"
-description: "Explore Eurobonds and gain insights into their issuance, advantages, and the role of algorithmic trading in modern financial markets for optimized investments."
+category: quant_concept
+description: Explore Eurobonds and gain insights into their issuance, advantages,
+  and the role of algorithmic trading in modern financial markets for optimized investments.
+title: 'Eurobond: Issuers, Advantages, and Disadvantages (Algo Trading)'
 ---
 
 Eurobonds are a noteworthy class of debt instruments characterized by their issuance in a currency that is not the domestic currency of the country where they are issued. Unlike traditional domestic bonds, Eurobonds provide issuers with the unique ability to tap into international capital markets, enhancing their access to a broader investor base. This international reach can lead to several financial advantages for issuers, including increased liquidity, the potential for lower interest rates due to heightened competition among investors, and diversification of funding sources, thereby reducing reliance on domestic markets.

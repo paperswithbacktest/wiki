@@ -1,6 +1,8 @@
 ---
-title: "Difference Between Accounting Principle and Accounting Estimate (Algo Trading)"
-description: "Explore the integral role of accounting principles and estimates in enhancing algorithmic trading strategies for better investment decisions and risk management."
+category: quant_concept
+description: Explore the integral role of accounting principles and estimates in enhancing
+  algorithmic trading strategies for better investment decisions and risk management.
+title: Difference Between Accounting Principle and Accounting Estimate (Algo Trading)
 ---
 
 The intersection of accounting practices and algorithmic trading is pivotal in the modern financial landscape. As financial transactions become increasingly complex, the fusion of these disciplines is crucial for navigating and optimizing the rapidly evolving market environment. Algorithmic trading, characterized by the use of computer algorithms to automate trading decisions, greatly benefits from the precision and transparency offered by robust accounting practices.

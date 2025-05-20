@@ -1,6 +1,9 @@
 ---
-title: "Dealer Bank (Algo Trading)"
-description: "Discover the crucial role of dealer banks in financial markets, utilizing algorithmic trading to boost efficiency and liquidity while navigating complex financial systems."
+category: quant_concept
+description: Discover the crucial role of dealer banks in financial markets, utilizing
+  algorithmic trading to boost efficiency and liquidity while navigating complex financial
+  systems.
+title: Dealer Bank (Algo Trading)
 ---
 
 In today's rapidly evolving financial landscape, dealer banks are key players within financial institutions, executing pivotal operations such as algorithmic trading. These banks contribute significantly to the dynamics of financial markets, functioning as intermediaries that facilitate transactions involving securities and other financial assets. As financial systems become increasingly complex, the role of dealer banks grows in importance, necessitating a comprehensive understanding of their operations.

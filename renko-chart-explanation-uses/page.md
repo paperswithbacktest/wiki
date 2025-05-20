@@ -1,6 +1,8 @@
 ---
-title: "Renko Chart Explanation and Uses (Algo Trading)"
-description: "Discover how Renko charts offer a unique way to view market trends by focusing on price changes instead of time create effective trading strategies."
+category: quant_concept
+description: Discover how Renko charts offer a unique way to view market trends by
+  focusing on price changes instead of time create effective trading strategies.
+title: Renko Chart Explanation and Uses (Algo Trading)
 ---
 
 Renko charts are a distinctive form of financial chart that represent price movements independent of time intervals, offering a unique perspective on market trends. Unlike traditional candlestick or bar charts, which plot price movements based on specific time periods, Renko charts focus solely on price changes. This is achieved through the use of "bricks," which are added to the chart only when the price moves by a pre-determined amount known as the "box size." This methodology allows traders to filter out market noise and concentrate on significant price movements, thus simplifying the interpretation of trends and patterns.

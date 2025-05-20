@@ -1,6 +1,14 @@
 ---
-title: "Camarilla Pivot Trading Strategy Explained (Algo Trading)"
-description: Explore the intricacies of the Camarilla Pivot Trading Strategy designed by Nick Scott in the late 1980s which emphasizes specific mathematical formulas to identify crucial market reversal levels based on the previous day's price data. This tool is invaluable for algorithmic traders seeking to automate the identification of potential market turning points enhancing risk management and trade precision. The strategy's adaptability across varying market conditions makes it a versatile addition to any trading toolkit enabling better entry and exit decisions through a structured analysis of support and resistance levels.
+category: trading_strategy
+description: Explore the intricacies of the Camarilla Pivot Trading Strategy designed
+  by Nick Scott in the late 1980s which emphasizes specific mathematical formulas
+  to identify crucial market reversal levels based on the previous day's price data.
+  This tool is invaluable for algorithmic traders seeking to automate the identification
+  of potential market turning points enhancing risk management and trade precision.
+  The strategy's adaptability across varying market conditions makes it a versatile
+  addition to any trading toolkit enabling better entry and exit decisions through
+  a structured analysis of support and resistance levels.
+title: Camarilla Pivot Trading Strategy Explained (Algo Trading)
 ---
 
 Pivot points are a widely used technical analysis tool in trading, providing forecasted levels of support and resistance based on the previous period's high, low, and close prices. They are particularly valuable in determining potential turning points in the market. Pivot points help traders identify probable market entry and exit points, making them a crucial element in both discretionary and algorithmic trading strategies. Among the various types of pivot points, Camarilla pivot points are distinctive due to their mathematical approach and specific set of levels designed to predict market behavior.

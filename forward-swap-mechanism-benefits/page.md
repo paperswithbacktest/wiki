@@ -1,6 +1,8 @@
 ---
-title: "Forward Swap: Mechanism and Benefits (Algo Trading)"
-description: "Explore the benefits of forward swaps in algorithmic trading, detailing their role in risk management, cash flow optimization, and strategy enhancement."
+category: quant_concept
+description: Explore the benefits of forward swaps in algorithmic trading, detailing
+  their role in risk management, cash flow optimization, and strategy enhancement.
+title: 'Forward Swap: Mechanism and Benefits (Algo Trading)'
 ---
 
 Financial derivatives are financial instruments whose value is derived from the performance of underlying assets, indices, or interest rates. These instruments play a crucial role in modern finance by providing mechanisms for hedging risk, enabling price discovery, and improving market efficiency. They serve as fundamental tools for both financial and non-financial institutions to manage fluctuations in markets, currency exchange rates, and interest rates.

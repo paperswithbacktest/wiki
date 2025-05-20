@@ -1,6 +1,9 @@
 ---
-title: "Genetic Algorithms in Financial Market Forecasting (Algo Trading)"
-description: "Explore how Genetic Algorithms revolutionize financial market forecasting by optimizing algorithmic trading strategies through evolutionary principles and adaptability."
+category: trading_strategy
+description: Explore how Genetic Algorithms revolutionize financial market forecasting
+  by optimizing algorithmic trading strategies through evolutionary principles and
+  adaptability.
+title: Genetic Algorithms in Financial Market Forecasting (Algo Trading)
 ---
 
 The world of financial markets is undergoing significant transformation driven by advancements in technology and data science. In this dynamic environment, market participants are increasingly seeking innovative methods to enhance trading strategies and maximize returns. Among these innovations, Genetic Algorithms (GAs) have emerged as a powerful tool inspired by the principles of natural selection and evolutionary biology. These algorithms are designed to search for optimal solutions through processes that mimic biological evolution, such as selection, crossover, and mutation.

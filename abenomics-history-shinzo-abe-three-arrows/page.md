@@ -1,6 +1,9 @@
 ---
-title: "Abenomics: History and Shinzo Abe's Three Arrows (Algo Trading)"
-description: "Explore Abenomics and Shinzo Abe's transformative economic strategy, focusing on three arrows to revitalize Japan's growth. Ideal for algorithmic trading insights."
+category: quant_concept
+description: Explore Abenomics and Shinzo Abe's transformative economic strategy,
+  focusing on three arrows to revitalize Japan's growth. Ideal for algorithmic trading
+  insights.
+title: 'Abenomics: History and Shinzo Abe''s Three Arrows (Algo Trading)'
 ---
 
 Shinzo Abe, Japan's former Prime Minister, was a pivotal figure in the country's economic transformation during his tenure, spearheading a revolutionary initiative known as Abenomics. Launched in 2012, Abenomics was designed to rejuvenate Japan's economy, which had been grappling with prolonged stagnation and deflation for decades. At the heart of Abenomics is the "three arrows" strategy, a tripartite approach encompassing aggressive monetary policy, fiscal stimulus, and structural reforms. These components collectively aimed to boost economic growth, stimulate demand, and enhance the competitiveness of Japanese industries on the global stage.

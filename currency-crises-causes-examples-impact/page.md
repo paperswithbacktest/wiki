@@ -1,6 +1,11 @@
 ---
-title: "Currency Crises: Causes, Examples, and Impact (Algo Trading)"
-description: "Explore the causes and consequences of currency crises within the global economy. Learn how forex markets contribute to these issues and discover the role of algorithmic trading in navigating such economic upheavals. Through historical examples, understand the triggers and impacts of currency devaluations and how strategic measures can stabilize affected economies."
+category: quant_concept
+description: Explore the causes and consequences of currency crises within the global
+  economy. Learn how forex markets contribute to these issues and discover the role
+  of algorithmic trading in navigating such economic upheavals. Through historical
+  examples, understand the triggers and impacts of currency devaluations and how strategic
+  measures can stabilize affected economies.
+title: 'Currency Crises: Causes, Examples, and Impact (Algo Trading)'
 ---
 
 The global economy has become increasingly intertwined, with foreign exchange (forex) markets playing a fundamental role in facilitating international trade and finance. These markets enable the seamless exchange of currencies between nations, thus supporting global economic activities that range from tourism to international investments. However, currency crises present significant challenges, manifesting as severe devaluations of national currencies that can lead to economic instability. Such crises disrupt these exchange processes, affecting not only local economies but also the broader international financial system.

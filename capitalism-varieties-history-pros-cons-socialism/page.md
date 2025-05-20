@@ -1,6 +1,9 @@
 ---
-title: "Capitalism: Varieties, History, Advantages and Disadvantages, and Comparison with Socialism (Algo Trading)"
-description: "Explore capitalism's history, varieties, advantages, and downsides, comparing it with socialism. Understand algo trading's role in modern economies."
+category: quant_concept
+description: Explore capitalism's history, varieties, advantages, and downsides, comparing
+  it with socialism. Understand algo trading's role in modern economies.
+title: 'Capitalism: Varieties, History, Advantages and Disadvantages, and Comparison
+  with Socialism (Algo Trading)'
 ---
 
 Economic systems structure the production, distribution, and consumption of goods and services within a society, playing a crucial role in shaping modern economies. They determine how resources are allocated, who makes these decisions, and who profits from the outcomes. The significance of economic systems lies in their influence on economic stability, growth, and the overall quality of life for individuals within a society.

@@ -1,7 +1,8 @@
 ---
-title: Machine Learning Path Planning Algorithms And Techniques
+category: quant_concept
 description: Machine learning path planning covers algorithms like A star Dijkstra
   and deep reinforcement learning for dynamic environments Discover more inside
+title: Machine Learning Path Planning Algorithms And Techniques
 ---
 
 ![Image](images/1.png)

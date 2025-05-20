@@ -1,6 +1,8 @@
 ---
-title: "Fibonacci Numbers as a Research Tool (Algo Trading)"
-description: "Explore how Fibonacci numbers contribute to algorithmic trading as a tool to predict market trends by identifying key support and resistance levels."
+category: quant_concept
+description: Explore how Fibonacci numbers contribute to algorithmic trading as a
+  tool to predict market trends by identifying key support and resistance levels.
+title: Fibonacci Numbers as a Research Tool (Algo Trading)
 ---
 
 Fibonacci numbers, initially introduced by the Italian mathematician Leonardo of Pisa, known as Fibonacci, capture a unique intersection between mathematics and natural phenomena. Originating from a simple sequence beginning with 0 and 1, each subsequent number is derived as the sum of the two preceding numbers. This sequence not only unveils intrinsic mathematical beauty but also mirrors patterns found in nature, such as the arrangement of leaves and the branching of trees, underscoring its widespread significance.

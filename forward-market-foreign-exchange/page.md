@@ -1,6 +1,8 @@
 ---
-title: "Forward Market in Foreign Exchange (Algo Trading)"
-description: "Explore the synergy of forward market forex trading and algorithmic strategies enhancing trading precision, risk management, and efficiency in global finance."
+category: quant_concept
+description: Explore the synergy of forward market forex trading and algorithmic strategies
+  enhancing trading precision, risk management, and efficiency in global finance.
+title: Forward Market in Foreign Exchange (Algo Trading)
 ---
 
 Currency trading, or foreign exchange (forex) trading, is a pivotal component of the global financial markets, facilitating the transfer of purchasing power between nations. It serves as a platform where currencies are bought and sold, enabling businesses, investors, and governments to execute international transactions and investments. The forex market is the largest financial market worldwide, with trillions of dollars traded daily, underscoring its significant impact on global economics and finance.

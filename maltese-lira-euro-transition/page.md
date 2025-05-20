@@ -1,6 +1,9 @@
 ---
-title: "Maltese Lira and Transition to the Euro (Algo Trading)"
-description: "The transition from the Maltese Lira to the Euro in 2008 marked a pivotal shift in Malta’s economy enhancing trade, stability, and integration within the EU."
+category: quant_concept
+description: The transition from the Maltese Lira to the Euro in 2008 marked a pivotal
+  shift in Malta’s economy enhancing trade, stability, and integration within the
+  EU.
+title: Maltese Lira and Transition to the Euro (Algo Trading)
 ---
 
 The transition from the Maltese Lira to the Euro represents a pivotal moment in Malta's economic evolution. This currency change, officially implemented in January 2008, underscored Malta's commitment to further integrating with the European Union and aligning its financial systems with broader Eurozone mechanisms. Prior to this, the Maltese Lira (MTL) had been the island nation’s currency since 1972, following its independence from Britain in 1964. As part of its accession treaty obligations, Malta was required to adopt the Euro, thus replacing the longstanding Maltese Lira with a stable and universally recognized currency.

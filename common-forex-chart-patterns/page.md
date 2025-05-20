@@ -1,6 +1,12 @@
 ---
-title: "Common Forex Chart Patterns (Algo Trading)"
-description: "Discover essential forex chart patterns and their integration into algorithmic trading strategies to enhance decision-making in the forex market. Explore popular chart formations and their role in predicting price movements, while learning how automation can improve trade execution and reduce emotional biases. Unlock new trading insights and strategies for increased profitability in competitive forex trading environments."
+category: trading_strategy
+description: Discover essential forex chart patterns and their integration into algorithmic
+  trading strategies to enhance decision-making in the forex market. Explore popular
+  chart formations and their role in predicting price movements, while learning how
+  automation can improve trade execution and reduce emotional biases. Unlock new trading
+  insights and strategies for increased profitability in competitive forex trading
+  environments.
+title: Common Forex Chart Patterns (Algo Trading)
 ---
 
 Forex trading is an exciting arena where myriad strategies and tools can be employed to gain an edge in the market. Among these, chart patterns serve as crucial instruments, offering traders visual cues that may help predict future price movements. These patterns are essentially formations created by the price movements of a security, and their accurate identification can significantly enhance trading decisions.

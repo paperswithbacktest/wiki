@@ -1,6 +1,15 @@
 ---
-title: "Kurtosis risk (Algo Trading)"
-description: Explore the critical concept of kurtosis risk in algorithmic trading, focusing on how it impacts trading strategies and decision-making. Kurtosis risk addresses the frequent occurrence of extreme market events not accounted for by normal distribution models, often used in algorithmic systems. Recognizing fat tails in financial data, which signal significant deviations and outliers, is crucial for developing robust trading algorithms. Learn how ignoring kurtosis can lead to underestimated risks, excessive leverage, and substantial financial losses, as exemplified by historical cases like Long-Term Capital Management. Enhance your trading strategies to ensure resilience against market anomalies.
+category: quant_concept
+description: Explore the critical concept of kurtosis risk in algorithmic trading,
+  focusing on how it impacts trading strategies and decision-making. Kurtosis risk
+  addresses the frequent occurrence of extreme market events not accounted for by
+  normal distribution models, often used in algorithmic systems. Recognizing fat tails
+  in financial data, which signal significant deviations and outliers, is crucial
+  for developing robust trading algorithms. Learn how ignoring kurtosis can lead to
+  underestimated risks, excessive leverage, and substantial financial losses, as exemplified
+  by historical cases like Long-Term Capital Management. Enhance your trading strategies
+  to ensure resilience against market anomalies.
+title: Kurtosis risk (Algo Trading)
 ---
 
 Kurtosis risk is a critical concept in statistics and decision theory that pertains to the propensity of data distributions to exhibit extreme values far from the mean more often than predicted by the normal distribution. The kurtosis of a distribution is a measure of the "tailedness" or thickness of its tails. Specifically, a higher kurtosis indicates a greater number of outliers, signifying significant risk exposures that are often underestimated when relying solely on standard statistical assumptions.

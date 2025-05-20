@@ -1,6 +1,9 @@
 ---
-title: "Non-Renounceable Rights and Their Mechanisms (Algo Trading)"
-description: "Explore the impact of non-renounceable rights equity offerings and algorithmic trading on global financial markets Learn how these mechanisms shape strategies and growth"
+category: quant_concept
+description: Explore the impact of non-renounceable rights equity offerings and algorithmic
+  trading on global financial markets Learn how these mechanisms shape strategies
+  and growth
+title: Non-Renounceable Rights and Their Mechanisms (Algo Trading)
 ---
 
 The financial market, an ever-evolving landscape, now incorporates a plethora of mechanisms that shape investment strategies and influence market dynamics. Among these, non-renounceable rights, equity offerings, and algorithmic trading stand out for their significant impacts on financial environments globally. Each mechanism possesses unique attributes that, when understood and leveraged correctly, can offer substantial benefits to both investors and companies.

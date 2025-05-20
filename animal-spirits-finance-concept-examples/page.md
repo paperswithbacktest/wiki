@@ -1,6 +1,8 @@
 ---
-title: "Animal Spirits in Finance: Concept and Examples (Algo Trading)"
-description: "Explore the impact of animal spirits from Keynes on financial behavior and how algorithmic trading interacts with emotional market dynamics in modern finance."
+category: quant_concept
+description: Explore the impact of animal spirits from Keynes on financial behavior
+  and how algorithmic trading interacts with emotional market dynamics in modern finance.
+title: 'Animal Spirits in Finance: Concept and Examples (Algo Trading)'
 ---
 
 Behavioral economics has been increasingly recognized for its role in challenging traditional economic theories that assume rational decision-making processes. The field highlights the psychological underpinnings that often drive financial decisions, providing a nuanced understanding of market dynamics. Central to this discourse is the concept of 'animal spirits', a term introduced by the British economist John Maynard Keynes in his seminal work, "The General Theory of Employment, Interest, and Money" (1936). Keynes used this term to articulate the role of human emotions, such as confidence, fear, and optimism, which influence economic behavior in ways that often deviate from strict rationality.

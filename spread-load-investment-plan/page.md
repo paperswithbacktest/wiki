@@ -1,6 +1,9 @@
 ---
-title: "Spread-Load Investment Plan (Algo Trading)"
-description: "Discover effective financial planning strategies like spread-load investment plans and algorithmic trading to optimize your investment portfolio for lasting success."
+category: trading_strategy
+description: Discover effective financial planning strategies like spread-load investment
+  plans and algorithmic trading to optimize your investment portfolio for lasting
+  success.
+title: Spread-Load Investment Plan (Algo Trading)
 ---
 
 In today's rapidly evolving financial landscape, effective financial planning and investment strategies are fundamental for achieving both short-term and long-term financial objectives. Navigating the complexities of personal finance requires a thorough understanding of various financial tools and methodologies, each playing a significant role in crafting an optimized investment portfolio. As investors seek to adapt to changing market dynamics, three key concepts have become central to modern financial planning: investment spread-load plans, comprehensive financial planning, and algorithmic trading.

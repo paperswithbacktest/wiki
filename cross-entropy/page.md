@@ -1,7 +1,8 @@
 ---
-title: Cross-Entropy Loss in Machine Learning Classification
+category: quant_concept
 description: Cross Entropy Loss measures how model predictions differ from actual
   outcomes and guides optimization to improve accuracy. Discover more inside.
+title: Cross-Entropy Loss in Machine Learning Classification
 ---
 
 ![Image](images/1.png)

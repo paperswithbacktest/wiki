@@ -1,6 +1,8 @@
 ---
-title: "Deferred Interest Bonds (Algo Trading)"
-description: "Explore the intricacies of deferred interest bonds and algorithmic trading Discover their unique structures, benefits, and how tech optimizes bond market strategies"
+category: quant_concept
+description: Explore the intricacies of deferred interest bonds and algorithmic trading
+  Discover their unique structures, benefits, and how tech optimizes bond market strategies
+title: Deferred Interest Bonds (Algo Trading)
 ---
 
 Deferred interest bonds are a specific category of fixed-income securities that differ from conventional bonds in terms of interest payment structure. Unlike standard bonds that provide periodic interest payments (or coupon payments) to the bondholders, deferred interest bonds accumulate interest and make a single lump-sum payment, including the accumulated interest and principal, at the bond's maturity. This characteristic allows issuers to postpone coupon payments, offering flexibility in cash flow management. These financial instruments are significant in markets as they cater to investors with varied risk appetites and financial strategies, offering potential benefits such as tax deferrals and capital appreciation.

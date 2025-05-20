@@ -1,6 +1,8 @@
 ---
-title: "Economic Outlook of India and Brazil: A Comparative Analysis (Algo Trading)"
-description: "Explore the economic landscapes of Brazil and India with a comparative analysis of key indicators challenges and growth opportunities in the global market."
+category: quant_concept
+description: Explore the economic landscapes of Brazil and India with a comparative
+  analysis of key indicators challenges and growth opportunities in the global market.
+title: 'Economic Outlook of India and Brazil: A Comparative Analysis (Algo Trading)'
 ---
 
 In the evolving global economic landscape, Brazil and India emerge as pivotal players, each wielding vast resources and burgeoning markets that attract global attention. Their roles are further accentuated by their inclusion in the BRICS group of emerging economies, which underscores their importance on the world stage. This article provides a thorough economic comparison of Brazil and India by examining key indicators, challenges, and opportunities inherent in each nation’s financial and structural environment.

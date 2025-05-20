@@ -1,6 +1,8 @@
 ---
-title: "Comparison of Blockfolio and Coinbase (Algo Trading)"
-description: "Explore the strengths of Coinbase and Blockfolio for algorithmic trading in this comparative analysis tailored for investors seeking diverse crypto opportunities."
+category: trading_strategy
+description: Explore the strengths of Coinbase and Blockfolio for algorithmic trading
+  in this comparative analysis tailored for investors seeking diverse crypto opportunities.
+title: Comparison of Blockfolio and Coinbase (Algo Trading)
 ---
 
 Cryptocurrency trading has seen a remarkable rise in popularity over the past decade, becoming a mainstream investment activity. Platforms like Coinbase and Blockfolio have emerged as significant players in this space, each offering distinct advantages to investors. Coinbase, with its headquarters in the United States, is renowned for its transparent operations and user-friendly interface. It provides a secure environment for both novice and experienced traders to buy, sell, and manage a variety of cryptocurrencies. On the other hand, Blockfolio, initially launched as a comprehensive portfolio tracker, has evolved into a versatile platform under the FTX brand, integrating trading functionalities while maintaining its strength in portfolio management.

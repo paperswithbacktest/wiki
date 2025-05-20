@@ -1,6 +1,10 @@
 ---
-title: "Leverage Ratio and Calculation (Algo Trading)"
-description: "Discover the crucial role of leverage ratios in assessing financial stability and guiding investment decisions. Understand how these metrics, vital for evaluating a company’s debt level and operational efficiency, enhance algorithmic trading strategies by balancing risk and reward in modern financial markets."
+category: quant_concept
+description: Discover the crucial role of leverage ratios in assessing financial stability
+  and guiding investment decisions. Understand how these metrics, vital for evaluating
+  a company’s debt level and operational efficiency, enhance algorithmic trading strategies
+  by balancing risk and reward in modern financial markets.
+title: Leverage Ratio and Calculation (Algo Trading)
 ---
 
 In today's fast-paced financial environment, understanding key financial metrics is crucial for both investors and analysts. Leverage ratios are essential tools that offer insight into a company's financial health and operational efficiency. These ratios evaluate the degree of a company's debt in relation to its assets or equity, providing a snapshot of its financial stability. Given the integral role debt plays in a company’s capital structure, understanding these metrics can guide investment decisions and risk assessments.
@@ -128,4 +132,3 @@ In conclusion, proficiency in leverage ratios not only enhances the analytical c
 
 5. **Python for Finance: Fundamental Techniques for Financial Analysis**  
    Michael Bowles' "Python for Finance" provides practical insights into the application of Python programming in financial analysis, including the calculation and application of leverage ratios in trading algorithms. This book is ideal for financial analysts seeking to integrate quantitative methods into their trading strategies. [Learn more about Python for finance](https://www.oreilly.com/library/view/python-for-finance/9781492024330/).
-

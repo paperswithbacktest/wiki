@@ -1,6 +1,8 @@
 ---
-title: "Martingale System in Investing (Algo Trading)"
-description: "Explore the Martingale system's application in algorithmic trading its potential for gains and risks in modern investing and strategies for effective deployment."
+category: trading_strategy
+description: Explore the Martingale system's application in algorithmic trading its
+  potential for gains and risks in modern investing and strategies for effective deployment.
+title: Martingale System in Investing (Algo Trading)
 ---
 
 The Martingale system is a profound investment strategy with roots stretching back to 18th century France, initially employed in gambling and gradually finding relevance within contemporary financial markets. Its straightforward yet bold premise involves doubling the investment amount following each loss, with the anticipation that a future win will recapture prior losses alongside a profit equal to the initial stake. This method banks on the statistical likelihood of mean reversion, whereby asset prices or outcomes eventually return to their historical or expected norms.

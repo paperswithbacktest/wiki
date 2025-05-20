@@ -1,6 +1,9 @@
 ---
-title: "Municipal Investment Trust (Algo Trading)"
-description: "Explore Municipal Investment Trusts and their role in modern investing. Learn about the significance of municipal bonds and algorithmic trading in enhancing portfolio performance."
+category: quant_concept
+description: Explore Municipal Investment Trusts and their role in modern investing.
+  Learn about the significance of municipal bonds and algorithmic trading in enhancing
+  portfolio performance.
+title: Municipal Investment Trust (Algo Trading)
 ---
 
 The financial world is a complex and dynamic environment where different investment instruments vie for attention. Among these, investment trusts, financial instruments, municipal bonds, and algorithmic trading have emerged as significant tools that have shaped modern investing. 

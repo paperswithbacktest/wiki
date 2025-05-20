@@ -1,9 +1,9 @@
 ---
-title: Robinhood vs E*TRADE Investment Platform Comparison 2024
+category: trading_strategy
 description: Robinhood vs E*TRADE comparison breaks down fees tools and services so
   you can choose the right trading platform for your goals Discover more inside
+title: Robinhood vs E*TRADE Investment Platform Comparison 2024
 ---
-
 
 ![Image](images/1.png)
 

@@ -1,6 +1,8 @@
 ---
-title: "Recurring vs. Non-Recurring Expenses (Algo Trading)"
-description: "Explore the crucial distinctions between recurring and non-recurring expenses in algorithmic trading to enhance financial planning and trading strategies."
+category: quant_concept
+description: Explore the crucial distinctions between recurring and non-recurring
+  expenses in algorithmic trading to enhance financial planning and trading strategies.
+title: Recurring vs. Non-Recurring Expenses (Algo Trading)
 ---
 
 In finance, grasping the nuances of various expenses is essential for effective budgeting and financial planning. One critical distinction is between non-recurring and recurring expenses. Properly identifying these different types of expenses is fundamental to creating a strategic financial plan, particularly in specialized fields like algorithmic trading.

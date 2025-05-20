@@ -1,6 +1,9 @@
 ---
-title: "Invisible Trade: Definition and Examples (Algo Trading)"
-description: "Discover the complexities of invisible trade and algorithmic trading and their significant roles in global economic dynamics through services like banking and insurance."
+category: quant_concept
+description: Discover the complexities of invisible trade and algorithmic trading
+  and their significant roles in global economic dynamics through services like banking
+  and insurance.
+title: 'Invisible Trade: Definition and Examples (Algo Trading)'
 ---
 
 Economic trade encompasses a vast array of transactions that form the backbone of the global economy. Among the different facets of trade, invisible trade, services trade, and algorithmic trading stand out as crucial components, each contributing uniquely to economic dynamism.

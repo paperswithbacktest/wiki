@@ -1,6 +1,11 @@
 ---
-title: "Capitalized Cost: Examples, Advantages, and Disadvantages (Algo Trading)"
-description: "Explore the key differences between Capital Expenditure (CapEx) and Operational Expenditure (OpEx) in financial accounting. Understand how these expenditures impact financial strategy, resource allocation, and business growth. This article investigates into the capitalization of costs and their significance in algorithmic trading, offering insights into optimizing financial planning and ensuring long-term success."
+category: quant_concept
+description: Explore the key differences between Capital Expenditure (CapEx) and Operational
+  Expenditure (OpEx) in financial accounting. Understand how these expenditures impact
+  financial strategy, resource allocation, and business growth. This article investigates
+  into the capitalization of costs and their significance in algorithmic trading,
+  offering insights into optimizing financial planning and ensuring long-term success.
+title: 'Capitalized Cost: Examples, Advantages, and Disadvantages (Algo Trading)'
 ---
 
 In financial accounting, Capital Expenditure (CapEx) and Operational Expenditure (OpEx) are pivotal in shaping a company's financial strategy and operational decisions. CapEx involves investments in long-term assets that benefit the company over several years, such as equipment and infrastructure. These expenditures are capitalized and depreciated over time. In contrast, OpEx consists of day-to-day expenses necessary for regular business operations, including salaries, rent, and utilities, which are expensed in the period incurred.

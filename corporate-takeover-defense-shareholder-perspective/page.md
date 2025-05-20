@@ -1,6 +1,8 @@
 ---
-title: "Corporate Takeover Defense from a Shareholder Perspective (Algo Trading)"
-description: "Explore defensive strategies for shareholders in hostile takeovers including the role of algorithmic trading in takeover dynamics and shareholder decision-making."
+category: trading_strategy
+description: Explore defensive strategies for shareholders in hostile takeovers including
+  the role of algorithmic trading in takeover dynamics and shareholder decision-making.
+title: Corporate Takeover Defense from a Shareholder Perspective (Algo Trading)
 ---
 
 Corporate takeovers are significant corporate events where one company seeks to acquire control over another. These takeovers can be amicable or hostile, with the latter posing considerable challenges to both the target company and its shareholders. Hostile takeovers occur when an acquiring company seeks ownership against the management's wishes, often leading to conflicts and strategic maneuvers.

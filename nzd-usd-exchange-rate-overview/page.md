@@ -1,6 +1,8 @@
 ---
-title: "NZD/USD Exchange Rate Overview (Algo Trading)"
-description: "Explore algorithmic trading with the NZD/USD currency pair Discover strategies benefits and challenges of algo trading to navigate forex market complexities effectively"
+category: trading_strategy
+description: Explore algorithmic trading with the NZD/USD currency pair Discover strategies
+  benefits and challenges of algo trading to navigate forex market complexities effectively
+title: NZD/USD Exchange Rate Overview (Algo Trading)
 ---
 
 Forex trading represents a cornerstone of global financial markets, enabling the exchange and valuation of currencies. Such trading is pivotal for international trade and economic stability, with currency pairs like the NZD/USD playing a critical role. The NZD/USD pair, representing the New Zealand dollar against the US dollar, is well-regarded for its liquidity and volatility, which draw interest from individual traders and institutional investors alike.

@@ -1,6 +1,8 @@
 ---
-title: "Major Oil Producers in Asia (Algo Trading)"
-description: "Explore major oil producers in Asia including China and India alongside the rise of algorithmic trading in the oil market and future industry challenges."
+category: dataset
+description: Explore major oil producers in Asia including China and India alongside
+  the rise of algorithmic trading in the oil market and future industry challenges.
+title: Major Oil Producers in Asia (Algo Trading)
 ---
 
 The Asian oil industry has established itself as a critical component of the global energy market. This prominence stems from the region's substantial contribution to both the world's oil production and consumption. In recent years, Asia has accounted for a significant portion of global oil demand, largely driven by rapid economic development and industrialization, particularly in major economies like China and India. These countries have shown an insatiable need for energy resources to fuel their continuous growth, urbanization, and increasing standards of living.

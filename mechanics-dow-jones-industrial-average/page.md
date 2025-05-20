@@ -1,6 +1,9 @@
 ---
-title: "Mechanics of the Dow Jones Industrial Average (Algo Trading)"
-description: "Explore the Dow Jones Industrial Average and the impact of algorithmic trading on investments providing insights into market trends and algorithm-driven strategies."
+category: quant_concept
+description: Explore the Dow Jones Industrial Average and the impact of algorithmic
+  trading on investments providing insights into market trends and algorithm-driven
+  strategies.
+title: Mechanics of the Dow Jones Industrial Average (Algo Trading)
 ---
 
 The Dow Jones Industrial Average (DJIA) holds a prominent position in the world of stock indices, representing the performance of 30 major U.S. blue-chip companies. Established in 1896 by Charles Dow and Edward Jones, the DJIA serves as a critical indicator of market trends and economic health in the United States. Despite its relatively narrow focus, compared to broader indices like the S&P 500, the DJIA continues to attract significant attention from investors, analysts, and the media.

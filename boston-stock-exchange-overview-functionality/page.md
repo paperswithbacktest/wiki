@@ -1,6 +1,9 @@
 ---
-title: "Boston Stock Exchange: Overview and Functionality (Algo Trading)"
-description: "Explore the Boston Stock Exchange's historic role in U.S. finance and the impact of algorithmic trading on market dynamics following its integration with Nasdaq."
+category: quant_concept
+description: Explore the Boston Stock Exchange's historic role in U.S. finance and
+  the impact of algorithmic trading on market dynamics following its integration with
+  Nasdaq.
+title: 'Boston Stock Exchange: Overview and Functionality (Algo Trading)'
 ---
 
 Boston, known for its rich history and academic prominence, is also a vital hub in the financial market landscape of the United States. The city hosts a diverse range of financial institutions, including banks, investment firms, and insurance companies, playing a key role in both regional and national financial ecosystems.

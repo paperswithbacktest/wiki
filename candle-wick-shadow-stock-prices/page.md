@@ -1,6 +1,8 @@
 ---
-title: "Candle Wick and Shadow in Stock Prices (Algo Trading)"
-description: "Explore the role of candle wick analysis in algorithmic trading to enhance stock strategy precision and market performance with candlestick insights."
+category: trading_strategy
+description: Explore the role of candle wick analysis in algorithmic trading to enhance
+  stock strategy precision and market performance with candlestick insights.
+title: Candle Wick and Shadow in Stock Prices (Algo Trading)
 ---
 
 In recent years, the trading industry has undergone substantial change, spurred by technological advancements that have introduced innovative forms of analysis and trading strategies. One strategy that has surged in popularity is algorithmic trading, or algo trading, which employs sophisticated computer programs to execute trades at unprecedented speeds and volumes. This method has revolutionized the trading landscape by allowing for precise and rapid decision-making, which is crucial in today’s fast-paced financial markets.

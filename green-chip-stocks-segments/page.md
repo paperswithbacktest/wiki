@@ -1,6 +1,9 @@
 ---
-title: "Green Chip Stocks and Their Segments (Algo Trading)"
-description: "Explore how green chip stocks offer sustainable investment opportunities, focusing on renewable energy and eco-friendly sectors. Discover the impact of algo trading."
+category: trading_strategy
+description: Explore how green chip stocks offer sustainable investment opportunities,
+  focusing on renewable energy and eco-friendly sectors. Discover the impact of algo
+  trading.
+title: Green Chip Stocks and Their Segments (Algo Trading)
 ---
 
 As global awareness of environmental challenges intensifies, the financial sector is experiencing a significant shift towards sustainability in investment trends. This movement represents a growing recognition that investments can simultaneously drive profit and contribute positively to societal and environmental goals. Sustainable investing has become a key focus, as it aligns capital allocation with principles that support environmental, social, and governance (ESG) criteria. This approach not only attracts environmentally conscious investors but also yields competitive financial returns. The urgency of climate change and resource depletion has accelerated this trend, making sustainability a crucial consideration for modern investors.

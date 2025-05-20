@@ -1,6 +1,8 @@
 ---
-title: "Off-The-Run Treasury Securities (Algo Trading)"
-description: "Explore the unique advantages of off-the-run Treasuries in algo trading Discover how these securities offer higher yields and diversify investment strategies"
+category: quant_concept
+description: Explore the unique advantages of off-the-run Treasuries in algo trading
+  Discover how these securities offer higher yields and diversify investment strategies
+title: Off-The-Run Treasury Securities (Algo Trading)
 ---
 
 The bond market serves as a cornerstone of the global financial system, providing a diverse array of investment vehicles crucial for economic stability and growth. Among these, Treasury securities represent an essential component, as they are debt instruments issued by the U.S. government to finance its operations. These securities are considered some of the safest investments due to the government's backing.

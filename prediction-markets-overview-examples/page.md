@@ -1,6 +1,8 @@
 ---
-title: "Prediction Markets: Overview and Examples (Algo Trading)"
-description: "Explore how prediction markets and algorithmic trading are transforming finance with new forecasting tools and strategies vital for informed trading decisions."
+category: quant_concept
+description: Explore how prediction markets and algorithmic trading are transforming
+  finance with new forecasting tools and strategies vital for informed trading decisions.
+title: 'Prediction Markets: Overview and Examples (Algo Trading)'
 ---
 
 As the finance and trading sectors continue to evolve, understanding the dynamics at play is becoming increasingly vital for investors. Two key components shaping this modern landscape are prediction markets and algorithmic trading, both of which are gaining traction as essential tools for forecasting and making informed decisions.

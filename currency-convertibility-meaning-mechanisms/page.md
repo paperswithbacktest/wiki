@@ -1,6 +1,8 @@
 ---
-title: "Currency Convertibility: Meaning and Mechanisms (Algo Trading)"
-description: "Explore the role of currency convertibility and exchange mechanisms in global finance and discover how algorithmic trading reshapes financial markets."
+category: quant_concept
+description: Explore the role of currency convertibility and exchange mechanisms in
+  global finance and discover how algorithmic trading reshapes financial markets.
+title: 'Currency Convertibility: Meaning and Mechanisms (Algo Trading)'
 ---
 
 The global financial system functions as a vast, intricate network bringing together diverse participants — governments, financial institutions, investors, and traders — all engaging in complex transactions essential for facilitating international trade and investment. Central to this ecosystem are the mechanisms of currency exchange and convertibility. These mechanisms ensure that transactions across borders can occur smoothly, enabling the fluid movement of money and capital and forming the backbone of global commerce and investment.

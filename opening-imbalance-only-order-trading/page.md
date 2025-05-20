@@ -1,6 +1,8 @@
 ---
-title: "Opening Imbalance-Only Order in Trading (Algo Trading)"
-description: "Understand how Opening Imbalance-Only Orders influence market dynamics. Enhance trading strategies with insights into imbalances during opening sessions."
+category: quant_concept
+description: Understand how Opening Imbalance-Only Orders influence market dynamics.
+  Enhance trading strategies with insights into imbalances during opening sessions.
+title: Opening Imbalance-Only Order in Trading (Algo Trading)
 ---
 
 Understanding the dynamics of financial markets during opening sessions is crucial for traders, as these periods often set the tone for the trading day. During these sessions, the concept of Opening Imbalance Only Orders (OIO) becomes significant in market operations, particularly in the context of the opening cross—an essential mechanism that determines the opening price of a security. OIO orders are designed to provide liquidity exclusively during these opening moments, offering a strategic approach for traders to engage with the market without being prematurely executed like continuous market orders.

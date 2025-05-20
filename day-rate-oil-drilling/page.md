@@ -1,6 +1,9 @@
 ---
-title: "Day Rate in Oil Drilling (Algo Trading)"
-description: "Explore the dynamics of oil drilling day rate contracts and their impact on algorithmic trading Learn how these contracts shape financial strategies in volatile markets"
+category: quant_concept
+description: Explore the dynamics of oil drilling day rate contracts and their impact
+  on algorithmic trading Learn how these contracts shape financial strategies in volatile
+  markets
+title: Day Rate in Oil Drilling (Algo Trading)
 ---
 
 Day rate drilling contracts are pivotal in the oil and gas industry, significantly impacting the financial dynamics of drilling projects. These contracts establish a predetermined daily financial commitment that an oil company makes to a drilling contractor for the utilization of drilling rigs. This model provides a level of cost predictability which is essential for effective budget planning and resource allocation in drilling projects.

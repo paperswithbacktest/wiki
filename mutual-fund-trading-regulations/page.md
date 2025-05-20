@@ -1,6 +1,8 @@
 ---
-title: "Mutual Fund Trading Regulations (Algo Trading)"
-description: "Explore mutual fund and algorithmic trading regulations impacting investment strategies Learn how trading rules protect investors and ensure market integrity"
+category: quant_concept
+description: Explore mutual fund and algorithmic trading regulations impacting investment
+  strategies Learn how trading rules protect investors and ensure market integrity
+title: Mutual Fund Trading Regulations (Algo Trading)
 ---
 
 In the evolving landscape of investment, mutual funds and algorithmic trading stand out as significant components that have reshaped traditional financial practices. Mutual funds offer investors a collective way to invest, pooling resources to purchase a diversified portfolio of securities managed by professional fund managers. This method provides benefits such as reduced risk through diversification, professional management, and liquidity, making it an attractive option for both novice and seasoned investors.

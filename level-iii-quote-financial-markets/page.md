@@ -1,6 +1,8 @@
 ---
-title: "Level III Quote in Financial Markets (Algo Trading)"
-description: "Explore the pivotal role of Level III quotes in financial markets and algorithmic trading. Gain insights into bid-ask dynamics and enhance trading strategies."
+category: quant_concept
+description: Explore the pivotal role of Level III quotes in financial markets and
+  algorithmic trading. Gain insights into bid-ask dynamics and enhance trading strategies.
+title: Level III Quote in Financial Markets (Algo Trading)
 ---
 
 In the fast-paced world of stock trading, having access to detailed and accurate information is crucial for making informed decisions. Traders and investors rely on various data to guide their actions and maximize profits. Among the myriad of data available, Level III quotes stand out by providing the most comprehensive insights into financial markets. These quotes offer a depth of data that includes bid and ask prices, quote sizes, and additional market nuances typically reserved for institutional players and registered Nasdaq market makers. 

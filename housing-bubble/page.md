@@ -1,6 +1,9 @@
 ---
-title: "Housing Bubble (Algo Trading)"
-description: "Explore the intricate interplay of real estate markets, economic bubbles, and algorithmic trading, focusing on their influence on financial stability and investment strategies."
+category: quant_concept
+description: Explore the intricate interplay of real estate markets, economic bubbles,
+  and algorithmic trading, focusing on their influence on financial stability and
+  investment strategies.
+title: Housing Bubble (Algo Trading)
 ---
 
 The interconnected topics of the real estate housing market, economic bubbles, and algorithmic trading are critical components of today's financial landscape, each influencing and being influenced by a myriad of economic factors. The real estate market serves as a cornerstone of both individual wealth and broader economic health. It affects investment portfolios, government policy, and social stability. However, the dynamics of this market are volatile, often prone to expansion and contraction cycles that, in extreme cases, result in economic bubbles. These bubbles can have far-reaching consequences, including destabilizing entire economies when they burst.

@@ -1,8 +1,9 @@
 ---
-title: Understanding LSTM Networks and Their Key Components
+category: quant_concept
 description: LSTM networks solve vanishing gradients by using memory cells and gates
   to retain long-term dependencies in sequential data for NLP and forecasting Discover
   more inside.
+title: Understanding LSTM Networks and Their Key Components
 ---
 
 ![Image](images/1.png)

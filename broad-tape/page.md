@@ -1,6 +1,9 @@
 ---
-title: "Broad Tape (Algo Trading)"
-description: "Explore the evolution of the broad tape and algorithmic trading to understand their role in modern finance Learn how these tools enhance market efficiency and decision-making"
+category: quant_concept
+description: Explore the evolution of the broad tape and algorithmic trading to understand
+  their role in modern finance Learn how these tools enhance market efficiency and
+  decision-making
+title: Broad Tape (Algo Trading)
 ---
 
 The stock market has long been a dynamic arena of financial activity, with technology increasingly influencing its operations and efficiency. The ever-evolving landscape of financial markets has brought forth sophisticated tools and strategies, such as the broad tape financial ticker and algorithmic trading, essential for modern trading environments. This article examines these concepts and their significance in today’s financial systems.

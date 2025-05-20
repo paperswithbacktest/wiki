@@ -1,6 +1,8 @@
 ---
-title: "Consideration of Municipal Bonds (Algo Trading)"
-description: "Explore the benefits and strategies of trading municipal bonds with algorithmic systems. Discover tax advantages and how to optimize returns efficiently."
+category: trading_strategy
+description: Explore the benefits and strategies of trading municipal bonds with algorithmic
+  systems. Discover tax advantages and how to optimize returns efficiently.
+title: Consideration of Municipal Bonds (Algo Trading)
 ---
 
 Understanding the avenues of investment is crucial in today's complex financial landscape, as investors seek strategies that balance risk, return, and tax efficiency. Municipal bonds, often referred to as 'munis,' provide an intriguing investment alternative that offers significant tax advantages. These debt securities, issued by states, cities, and other governmental entities, help finance public infrastructure and services. Their backing by government entities generally positions them as low-risk investments, attractive to risk-averse individuals and institutional investors alike.

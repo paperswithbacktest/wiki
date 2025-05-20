@@ -1,6 +1,8 @@
 ---
-title: "Factors Influencing Bond Price Appreciation (Algo Trading)"
-description: "Explore how algorithmic trading influences bond price appreciation, considering factors such as interest rates, economic conditions, and investor sentiment."
+category: trading_strategy
+description: Explore how algorithmic trading influences bond price appreciation, considering
+  factors such as interest rates, economic conditions, and investor sentiment.
+title: Factors Influencing Bond Price Appreciation (Algo Trading)
 ---
 
 The bond market stands as a cornerstone of the global financial system, playing a pivotal role in capital formation and investment. It provides issuers, including corporations and governments, with a mechanism to obtain funds for various purposes, from infrastructure projects to corporate expansions. Simultaneously, it offers investors a venue to achieve returns and diversify their portfolios through fixed-income securities.

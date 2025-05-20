@@ -1,6 +1,8 @@
 ---
-title: "Real Bills Doctrine (Algo Trading)"
-description: "Explore the intersection of the Real Bills Doctrine and algorithmic trading in modern finance Discover historical insights on monetary policy and economic stability"
+category: quant_concept
+description: Explore the intersection of the Real Bills Doctrine and algorithmic trading
+  in modern finance Discover historical insights on monetary policy and economic stability
+title: Real Bills Doctrine (Algo Trading)
 ---
 
 In economics and finance, understanding core theories is crucial for navigating the complexities of modern marketplaces. Economists and financial strategists have long focused on various theoretical frameworks to grasp how market forces interact and influence economic phenomena. Among the essential theories in this domain are Monetary Theory, the Real Bills Doctrine, and Algorithmic Trading.

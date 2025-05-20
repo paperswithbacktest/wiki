@@ -1,6 +1,8 @@
 ---
-title: "Investability Quotient: Overview and Applications (Algo Trading)"
-description: "Understand how the investability quotient and financial metrics enhance algorithmic trading to maximize returns and manage risks in today's investment landscape."
+category: quant_concept
+description: Understand how the investability quotient and financial metrics enhance
+  algorithmic trading to maximize returns and manage risks in today's investment landscape.
+title: 'Investability Quotient: Overview and Applications (Algo Trading)'
 ---
 
 Understanding the interplay between financial metrics, the investability quotient, and algorithmic trading is essential for investors aiming to maximize returns and manage risk effectively. These interconnected elements form the backbone of modern investment analysis, offering a structured approach to evaluating opportunities and executing trades with precision. Financial metrics provide quantifiable insights into the health and performance of potential investments, allowing investors to make informed, data-driven decisions.

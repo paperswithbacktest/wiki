@@ -1,6 +1,8 @@
 ---
-title: "Reset Margin Concept (Algo Trading)"
-description: "Explore the complex interplay between reset margins, interest rates, and algorithmic trading to optimize financial strategies and manage risk effectively."
+category: quant_concept
+description: Explore the complex interplay between reset margins, interest rates,
+  and algorithmic trading to optimize financial strategies and manage risk effectively.
+title: Reset Margin Concept (Algo Trading)
 ---
 
 In the rapidly evolving world of finance, understanding key concepts such as reset margins, interest rates, and algorithmic trading is essential. These components are not only fundamental in shaping financial strategies but are also interconnected in complex ways that impact trading outcomes. Reset margins, a significant element in floating interest rate products, serve as a buffer between a loan's interest rate and its index, adjusting periodically to reflect current market conditions. This mechanism ensures that lenders and borrowers can manage their risk exposure effectively.

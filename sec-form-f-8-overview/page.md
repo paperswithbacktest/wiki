@@ -1,6 +1,9 @@
 ---
-title: "SEC Form F-8 Overview (Algo Trading)"
-description: "Explore the implications of SEC Form F-8 and algorithmic trading in financial markets focusing on Canadian companies accessing U.S. markets and evolving regulatory challenges."
+category: quant_concept
+description: Explore the implications of SEC Form F-8 and algorithmic trading in financial
+  markets focusing on Canadian companies accessing U.S. markets and evolving regulatory
+  challenges.
+title: SEC Form F-8 Overview (Algo Trading)
 ---
 
 In the ever-evolving world of finance, regulatory compliance and technological advancements play pivotal roles in ensuring the smooth operation of financial markets. Among these, SEC Form F-8 and algorithmic trading are two significant components that impact international securities trading and financial reporting. The Securities and Exchange Commission (SEC) is integral to financial reporting, particularly through SEC Form F-8, which plays a vital role for Canadian issuers seeking to engage with U.S. markets. This form is fundamental in facilitating cross-border transactions while maintaining transparency and compliance with U.S. regulatory standards.

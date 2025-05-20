@@ -1,6 +1,8 @@
 ---
-title: "Re-Fracking: Concepts, Processes, and Costs (Algo Trading)"
-description: "Explore the intersections of hydraulic fracturing and algorithmic trading, discussing energy extraction, technological impacts, and sustainability challenges."
+category: quant_concept
+description: Explore the intersections of hydraulic fracturing and algorithmic trading,
+  discussing energy extraction, technological impacts, and sustainability challenges.
+title: 'Re-Fracking: Concepts, Processes, and Costs (Algo Trading)'
 ---
 
 In the modern energy sector, hydraulic fracturing, commonly referred to as fracking, has become a pivotal technique for extracting oil and gas from challenging underground reservoirs. This method involves the injection of high-pressure fluid into shale rock formations to create fractures, thereby facilitating the release of hydrocarbons that were previously inaccessible. The adoption of hydraulic fracturing has significantly expanded the availability of energy resources, playing a critical role in meeting global energy demands.

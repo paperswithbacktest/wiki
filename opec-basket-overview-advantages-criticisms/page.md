@@ -1,6 +1,8 @@
 ---
-title: "OPEC Basket: Overview, Advantages, and Criticisms (Algo Trading)"
-description: "Explore the significance of the OPEC Basket in global oil pricing, its impact on economies, and the role of algorithmic trading in modernizing market strategies."
+category: quant_concept
+description: Explore the significance of the OPEC Basket in global oil pricing, its
+  impact on economies, and the role of algorithmic trading in modernizing market strategies.
+title: 'OPEC Basket: Overview, Advantages, and Criticisms (Algo Trading)'
 ---
 
 The global oil market is an intricate and interconnected network significantly shaped by influential entities, most notably the Organization of the Petroleum Exporting Countries (OPEC) and the United States. OPEC plays a critical role by coordinating oil production among its member countries to influence and stabilize prices globally. The United States, as one of the largest oil producers and consumers, also holds substantial sway over global oil dynamics. 

@@ -1,6 +1,9 @@
 ---
-title: "Turkish Lira: Overview and Functioning (Algo Trading)"
-description: "Explore the Turkish Lira's volatility and economic challenges including inflation and external debt Discover how algorithmic trading offers new insights into the currency's dynamics"
+category: quant_concept
+description: Explore the Turkish Lira's volatility and economic challenges including
+  inflation and external debt Discover how algorithmic trading offers new insights
+  into the currency's dynamics
+title: 'Turkish Lira: Overview and Functioning (Algo Trading)'
 ---
 
 The Turkish economy and its currency, the Turkish Lira (TRY), have drawn considerable attention due to their intrinsic volatility and the challenges they face. As a nation strategically positioned at the crossroads of Europe and Asia, Turkey has seen its economic landscape shaped by diverse geopolitical and economic influences. The Turkish Lira, in particular, serves as a barometer for Turkey's financial health, often mirroring the broader economic environment.

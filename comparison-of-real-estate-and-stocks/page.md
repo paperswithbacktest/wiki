@@ -1,6 +1,8 @@
 ---
-title: "Comparison of Real Estate and Stocks (Algo Trading)"
-description: "Explore the differences between real estate and stock investments and how algorithmic trading can enhance strategies for optimal portfolio management."
+category: trading_strategy
+description: Explore the differences between real estate and stock investments and
+  how algorithmic trading can enhance strategies for optimal portfolio management.
+title: Comparison of Real Estate and Stocks (Algo Trading)
 ---
 
 Understanding the complexities of investment avenues is crucial for achieving financial success. Individuals and institutions are continually tasked with making informed decisions regarding where to allocate their resources for optimal returns. Two of the most prominent avenues for investment, real estate and stocks, present distinct opportunities and challenges that appeal to a range of investor profiles.
@@ -183,4 +185,3 @@ Investors must remain informed and adaptable to capitalize on the opportunities 
 - Jansen, S. *Machine Learning for Algorithmic Trading.* This book provides a hands-on guide to implementing machine learning techniques in trading strategies. Covering topics from data acquisition to deploying trading algorithms, it serves as a practical starting point for incorporating AI in trading decisions. Published by Packt Publishing, the book contains real-world code examples that facilitate the transition from theory to practical application.
 
 - Chan, E. P. *Quantitative Trading: How to Build Your Own Algorithmic Trading Business.* Chan outlines the process of creating a trading business, offering insights into strategy development, risk management, and infrastructure setup. This guide is perfect for those intending to establish their algorithmic trading operations, balanced between theoretical concepts and practical tips. Available through Wiley Trading.
-

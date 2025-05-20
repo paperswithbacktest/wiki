@@ -1,6 +1,8 @@
 ---
-title: "Marginal Utility of Income (Algo Trading)"
-description: "Explore how marginal utility, income dynamics, and algorithmic trading influence modern finance, shaping efficient trading strategies and economic policies."
+category: quant_concept
+description: Explore how marginal utility, income dynamics, and algorithmic trading
+  influence modern finance, shaping efficient trading strategies and economic policies.
+title: Marginal Utility of Income (Algo Trading)
 ---
 
 The interconnectedness of marginal utility, economics, income, and algorithmic trading forms a fascinating nexus in modern finance. These elements converge to shape financial systems, influencing both theoretical constructs and practical applications in trading and investment. Marginal utility, a fundamental concept in economics, describes the additional satisfaction a consumer receives from consuming one more unit of a good or service. This concept is crucial for understanding consumer behavior patterns and demand dynamics, forming the basis upon which economists predict how individuals allocate their resources.

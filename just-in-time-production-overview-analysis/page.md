@@ -1,6 +1,9 @@
 ---
-title: "Just-in-Time Production: Overview and Analysis (Algo Trading)"
-description: "Discover the benefits and challenges of Just-in-Time manufacturing. This strategy optimizes production by aligning schedules with demand to enhance efficiency and reduce waste."
+category: quant_concept
+description: Discover the benefits and challenges of Just-in-Time manufacturing. This
+  strategy optimizes production by aligning schedules with demand to enhance efficiency
+  and reduce waste.
+title: 'Just-in-Time Production: Overview and Analysis (Algo Trading)'
 ---
 
 In the fast-paced world of modern manufacturing, strategies that enhance efficiency and reduce waste are in high demand. Just-in-Time (JIT) manufacturing offers a solution by aligning production schedules closely with customer demand, thereby optimizing inventory levels. This methodology focuses on producing goods precisely when they are needed and in the exact quantities required, which reduces excess stock and minimizes storage costs. At its core, JIT is about creating a responsive supply chain that can adapt to changes in customer orders rapidly, making it an attractive approach for businesses seeking to streamline operations and boost profitability.

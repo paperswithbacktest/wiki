@@ -1,7 +1,8 @@
 ---
-title: Machine Learning Optimization Algorithms Explained and Compared
+category: quant_concept
 description: Machine learning optimization algorithms boost accuracy by adjusting
   parameters with SGD Adam and RMSProp to find optimal settings Discover more inside.
+title: Machine Learning Optimization Algorithms Explained and Compared
 ---
 
 ![Image](images/1.png)

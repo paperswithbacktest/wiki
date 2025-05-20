@@ -1,7 +1,8 @@
 ---
-title: Autoregressive Transformer Architecture Applications and Trends
+category: quant_concept
 description: Autoregressive Transformers efficiently power text and music generation
   from context Explore architecture applications and trends Discover more inside
+title: Autoregressive Transformer Architecture Applications and Trends
 ---
 
 ![Image](images/1.png)

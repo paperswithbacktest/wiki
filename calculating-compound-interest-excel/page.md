@@ -1,6 +1,9 @@
 ---
-title: "Calculating Compound Interest in Excel (Algo Trading)"
-description: "Learn how to calculate compound interest in Excel for effective financial planning and explore its intersection with algorithmic trading for optimal investment strategies."
+category: quant_concept
+description: Learn how to calculate compound interest in Excel for effective financial
+  planning and explore its intersection with algorithmic trading for optimal investment
+  strategies.
+title: Calculating Compound Interest in Excel (Algo Trading)
 ---
 
 In today's fast-paced financial world, understanding the tools at your disposal can make a significant difference in managing personal and professional finances. Microsoft Excel has long been a cornerstone of financial analysis, offering a wide array of formulas that simplify complex calculations. With features tailored for both basic and advanced financial operations, Excel provides the functionality needed to analyze, interpret, and forecast financial data effectively. Specifically, Excel formulas enable users to perform precise calculations related to compound interest—a critical concept that impacts the growth of investments over time.

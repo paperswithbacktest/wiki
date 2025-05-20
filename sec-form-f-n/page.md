@@ -1,6 +1,8 @@
 ---
-title: "SEC Form F-N (Algo Trading)"
-description: "Discover the importance of SEC Form F-N for foreign entities in algorithmic trading. This guide covers compliance, requirements, and market participation essentials."
+category: quant_concept
+description: Discover the importance of SEC Form F-N for foreign entities in algorithmic
+  trading. This guide covers compliance, requirements, and market participation essentials.
+title: SEC Form F-N (Algo Trading)
 ---
 
 The financial landscape is constantly evolving, especially with the increasing reliance on algorithmic trading, which employs complex mathematical models and high-speed data analysis to execute trades. This technological approach has revolutionized the trading process, offering the potential for higher efficiency and improved market liquidity. However, with these advancements comes the imperative for stringent oversight and compliance with securities regulations.

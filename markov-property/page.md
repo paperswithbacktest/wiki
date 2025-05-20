@@ -1,7 +1,8 @@
 ---
-title: Markov Property Essentials For Machine Learning Models
+category: quant_concept
 description: Markov Property streamlines machine learning models by focusing on current
   states for efficient predictions and simpler model design Discover more inside
+title: Markov Property Essentials For Machine Learning Models
 ---
 
 ![Image](images/1.jpeg)

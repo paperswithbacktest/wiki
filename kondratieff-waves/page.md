@@ -1,6 +1,8 @@
 ---
-title: "Kondratieff Waves (Algo Trading)"
-description: "Explore the impact of Kondratieff Waves on global markets and algorithmic trading Understand long-term economic cycles driven by technological innovations"
+category: quant_concept
+description: Explore the impact of Kondratieff Waves on global markets and algorithmic
+  trading Understand long-term economic cycles driven by technological innovations
+title: Kondratieff Waves (Algo Trading)
 ---
 
 Economic systems worldwide display distinct cyclical patterns characterized by phases of growth and contraction. Understanding these cycles is essential for navigating the complexities of global markets, and one influential framework that aids in this understanding is the Kondratieff Wave theory. Named after the Russian economist Nikolai Kondratiev, this theory proposes that economic cycles span periods of 40 to 60 years. These long-term waves trace their origins to pivotal technological innovations that bring substantial changes to the structure of economies.

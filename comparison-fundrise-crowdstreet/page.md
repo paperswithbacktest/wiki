@@ -1,6 +1,9 @@
 ---
-title: "Comparison of Fundrise and CrowdStreet (Algo Trading)"
-description: "Explore the innovative synergy between real estate crowdfunding platforms like Fundrise and CrowdStreet and the potential of algorithmic trading in enhancing investment strategies."
+category: trading_strategy
+description: Explore the innovative synergy between real estate crowdfunding platforms
+  like Fundrise and CrowdStreet and the potential of algorithmic trading in enhancing
+  investment strategies.
+title: Comparison of Fundrise and CrowdStreet (Algo Trading)
 ---
 
 Real estate crowdfunding has emerged as a significant development in the investment landscape, enabling individuals to invest in real estate projects collectively, typically via online platforms. This model democratizes access to real estate investment opportunities, previously limited to wealthy individuals and institutional investors. As of recent years, the popularity of real estate crowdfunding has increased substantially, offering investors a chance to diversify their portfolios and participate in projects that require substantial capital. Two leading platforms in this sector are CrowdStreet and Fundrise. CrowdStreet focuses predominantly on commercial real estate opportunities, providing access to institutional-quality assets. Fundrise, on the other hand, offers a diverse range of investment options, including real estate investment trusts (REITs) and individual properties, catering to various investor profiles.

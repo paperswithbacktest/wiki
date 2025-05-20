@@ -1,6 +1,9 @@
 ---
-title: "Bullish Belt Hold Candlestick Pattern (Algo Trading)"
-description: "Discover the bullish belt hold candlestick pattern and its role in algorithmic trading Learn how to identify this pattern and use it to capture market reversals effectively"
+category: trading_strategy
+description: Discover the bullish belt hold candlestick pattern and its role in algorithmic
+  trading Learn how to identify this pattern and use it to capture market reversals
+  effectively
+title: Bullish Belt Hold Candlestick Pattern (Algo Trading)
 ---
 
 Understanding candlestick patterns is vital for traders aiming to make informed decisions. Among these patterns, the bullish belt hold serves as a significant indicator used to pinpoint potential upward trends in market prices. It is characterized by a single candlestick that opens at the low of the session and closes near its high, demonstrating strong buying pressure. This pattern often signals a possible reversal from a downtrend to an uptrend, making it a valuable tool for traders seeking to identify shifts in market sentiment.

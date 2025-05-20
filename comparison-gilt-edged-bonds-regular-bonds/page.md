@@ -1,6 +1,8 @@
 ---
-title: "Comparison of Gilt-Edged Bonds and Regular Bonds (Algo Trading)"
-description: "Explore the differences between gilt-edged bonds and regular bonds in algorithmic trading highlighting their risk profiles features and strategic implications."
+category: trading_strategy
+description: Explore the differences between gilt-edged bonds and regular bonds in
+  algorithmic trading highlighting their risk profiles features and strategic implications.
+title: Comparison of Gilt-Edged Bonds and Regular Bonds (Algo Trading)
 ---
 
 Bonds are a foundational element of the financial investment ecosystem, known for providing a degree of stability and offering predictable returns. Within the bond market, various types of bonds cater to different levels of risk appetite and investment strategies. Among them, gilt-edged bonds possess a hallmark of high credit quality and are often perceived as a safe investment option due to the high probability of timely interest payments and principal return. These bonds are typically issued by governments or entities with robust financial health, contributing to their reputation for security.

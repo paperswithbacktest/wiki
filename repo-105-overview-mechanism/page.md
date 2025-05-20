@@ -1,6 +1,8 @@
 ---
-title: "Repo 105: Overview and Mechanism (Algo Trading)"
-description: "Explore the ethical and regulatory challenges of Repo 105 and algorithmic trading with insights into their impact on financial transparency and market stability."
+category: quant_concept
+description: Explore the ethical and regulatory challenges of Repo 105 and algorithmic
+  trading with insights into their impact on financial transparency and market stability.
+title: 'Repo 105: Overview and Mechanism (Algo Trading)'
 ---
 
 The world of finance is continually evolving, offering a range of practices designed to enhance financial position and investment efficacy. These practices often aim to optimize returns, manage risk, and improve operational efficiency. However, some approaches, such as Repo 105 and algorithmic trading, have ignited significant debates surrounding ethics, transparency, and regulatory oversight.

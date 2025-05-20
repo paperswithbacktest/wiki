@@ -1,6 +1,9 @@
 ---
-title: "Periodic Payment Plan Certificate (Algo Trading)"
-description: "Discover innovative investment strategies with periodic payment plans and algorithmic trading Explore ways to manage risk and enhance returns in your financial portfolio"
+category: trading_strategy
+description: Discover innovative investment strategies with periodic payment plans
+  and algorithmic trading Explore ways to manage risk and enhance returns in your
+  financial portfolio
+title: Periodic Payment Plan Certificate (Algo Trading)
 ---
 
 Investment strategies in finance are essential tools for managing portfolios and maximizing returns while minimizing risks. These strategies range from traditional forms like stocks and bonds to more modern approaches involving derivatives and alternative assets. Each strategy carries its unique characteristics, potential rewards, and risks. Investors often diversify their portfolios by employing a mix of investment strategies to balance risk and rewards, tailored to their financial goals and risk tolerance.

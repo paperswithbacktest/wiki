@@ -1,6 +1,8 @@
 ---
-title: "Market Creation: Definition and Mechanisms (Algo Trading)"
-description: "Explore market creation and mechanisms in trading Understand the impact of algorithmic trading on market dynamics liquidity and price discovery for traders"
+category: quant_concept
+description: Explore market creation and mechanisms in trading Understand the impact
+  of algorithmic trading on market dynamics liquidity and price discovery for traders
+title: 'Market Creation: Definition and Mechanisms (Algo Trading)'
 ---
 
 The financial markets are essential components of the global economy, serving as the main channels through which capital flows, investment opportunities arise, and wealth is generated. These markets encompass a wide range of platforms where diverse assets, including stocks, bonds, currencies, and derivatives, are traded. Understanding the mechanisms that create and drive these markets is imperative for traders of all levels, as these elements directly impact trading strategies, market efficiency, and potential profitability.

@@ -1,7 +1,8 @@
 ---
-title: Understanding Size Invariance in Machine Learning Models
+category: quant_concept
 description: Size invariance enables ML models to recognize objects at varying scales
   for reliable image recognition in autonomous driving Discover more inside.
+title: Understanding Size Invariance in Machine Learning Models
 ---
 
 ![Image](images/1.png)

@@ -1,6 +1,12 @@
 ---
-title: "Crystallization Process (Algo Trading)"
-description: "Explore the intersection between chemistry and finance on our Crystallization Process page. Discover how principles of crystallization in materials science can inform algorithmic trading strategies in finance. Learn about solidification, portfolio management, and the role of algorithmic trading in modern markets. Uncover multidisciplinary insights that enhance both scientific and financial systems for innovative risk management and predictive modeling techniques."
+category: quant_concept
+description: Explore the intersection between chemistry and finance on our Crystallization
+  Process page. Discover how principles of crystallization in materials science can
+  inform algorithmic trading strategies in finance. Learn about solidification, portfolio
+  management, and the role of algorithmic trading in modern markets. Uncover multidisciplinary
+  insights that enhance both scientific and financial systems for innovative risk
+  management and predictive modeling techniques.
+title: Crystallization Process (Algo Trading)
 ---
 
 Chemistry, crystallization, and algorithmic trading, though distinct in nature, share a profound interconnectedness that reveals insights into both scientific and financial systems. Solidification in chemistry refers to the process through which a liquid changes into a solid, typically as cooling induces atomic or molecular locking into a crystalline structure. This transformation is pivotal in materials science for the development of metals, alloys, and other compounds, illustrating the transition from disorder to order at the molecular level.

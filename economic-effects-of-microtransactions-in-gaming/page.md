@@ -1,6 +1,9 @@
 ---
-title: "Economic Effects of Microtransactions in Gaming (Algo Trading)"
-description: "Explore the economic impact of microtransactions in gaming and their parallel to algorithmic trading Learn how these transactions transform revenue models and engage players"
+category: quant_concept
+description: Explore the economic impact of microtransactions in gaming and their
+  parallel to algorithmic trading Learn how these transactions transform revenue models
+  and engage players
+title: Economic Effects of Microtransactions in Gaming (Algo Trading)
 ---
 
 The gaming industry has transformed drastically over the years, evolving from a niche entertainment medium into a formidable economic powerhouse. This evolution is largely attributed to the rise of microtransactions, a business model where players engage in small financial transactions to access virtual goods within games. Originally popularized in free-to-play games, microtransactions have since become integral to the industry's economic fabric, influencing both revenue streams and player interactions. 

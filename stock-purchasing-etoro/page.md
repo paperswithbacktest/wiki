@@ -1,6 +1,10 @@
 ---
-title: "Stock Purchasing on eToro (Algo Trading)"
-description: "Explore how eToro combines social trading with algorithmic trading, empowering investors with innovative tools and features to optimize stock trading decisions. Achieve strategic insights through automated strategies while leveraging eToro's community-driven trading environment for enhanced market success."
+category: trading_strategy
+description: Explore how eToro combines social trading with algorithmic trading, empowering
+  investors with innovative tools and features to optimize stock trading decisions.
+  Achieve strategic insights through automated strategies while leveraging eToro's
+  community-driven trading environment for enhanced market success.
+title: Stock Purchasing on eToro (Algo Trading)
 ---
 
 Investing in stocks has surged in popularity, offering investors the potential for substantial financial returns. This trend has been bolstered by platforms like eToro, which provide a unique blend of traditional and social trading features, making stock trading accessible to a broader audience. Established in 2007, eToro is a social trading and multi-asset brokerage company, renowned for its innovative approach to trading by integrating social networking with financial investments. This platform enables users to follow, interact with, and, if desired, replicate the trades of more experienced investors, thereby democratizing investment strategies and insights.

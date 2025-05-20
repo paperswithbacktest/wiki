@@ -1,7 +1,8 @@
 ---
-title: Understanding Ablation Studies in Machine Learning Models
+category: quant_concept
 description: Ablation study reveals which parts of a machine learning model drive
   accuracy by removing components and comparing results Discover more inside
+title: Understanding Ablation Studies in Machine Learning Models
 ---
 
 ![Image](images/1.png)

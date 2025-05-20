@@ -1,6 +1,10 @@
 ---
-title: "Contributing Factors to an Overheated Economy (Algo Trading)"
-description: "This article explores the complexities of an overheated economy focusing on causes like consumer spending and monetary policies and the role of algorithmic trading. Understanding these dynamics is crucial for identifying risks and developing strategies to maintain financial stability in an interconnected global economy."
+category: quant_concept
+description: This article explores the complexities of an overheated economy focusing
+  on causes like consumer spending and monetary policies and the role of algorithmic
+  trading. Understanding these dynamics is crucial for identifying risks and developing
+  strategies to maintain financial stability in an interconnected global economy.
+title: Contributing Factors to an Overheated Economy (Algo Trading)
 ---
 
 Economic overheating refers to a situation in which an economy expands at an unsustainable pace, leading to imbalances and elevated inflation levels. This phenomenon can pose significant challenges as demand outstrips supply, potentially causing price increases and economic disequilibrium. Prolonged overheating can threaten financial stability and necessitate intervention from policymakers and economists to stabilize the situation.   

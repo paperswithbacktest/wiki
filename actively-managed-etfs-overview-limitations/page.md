@@ -1,6 +1,8 @@
 ---
-title: "Actively Managed ETFs: Overview and Limitations (Algo Trading)"
-description: "Discover the benefits and drawbacks of actively managed ETFs, including impact from algorithmic trading and how these investment vehicles can fit your strategy."
+category: quant_concept
+description: Discover the benefits and drawbacks of actively managed ETFs, including
+  impact from algorithmic trading and how these investment vehicles can fit your strategy.
+title: 'Actively Managed ETFs: Overview and Limitations (Algo Trading)'
 ---
 
 Exchange-Traded Funds (ETFs) have emerged as a popular investment choice for individuals and institutions alike, offering an efficient way to achieve diversified exposure across various asset classes and markets. As financial instruments that pool together investments to track specific indices, commodities, sectors, or other asset categories, ETFs enable investors to gain broad market exposure without having to select individual securities. This accessibility has contributed to the widespread adoption of ETFs by both novice and seasoned investors looking to optimize their investment portfolios.

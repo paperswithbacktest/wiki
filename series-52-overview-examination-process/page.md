@@ -1,6 +1,9 @@
 ---
-title: "Series 52: Overview and Examination Process (Algo Trading)"
-description: "Navigate the complexities of the Series 52 exam with insights into municipal securities qualifications and the role of municipal advisors in today's financial landscape."
+category: quant_concept
+description: Navigate the complexities of the Series 52 exam with insights into municipal
+  securities qualifications and the role of municipal advisors in today's financial
+  landscape.
+title: 'Series 52: Overview and Examination Process (Algo Trading)'
 ---
 
 The financial industry presents a highly intricate and diverse landscape that necessitates a deep understanding and specific qualifications to navigate proficiently. At the forefront of this landscape is the Series 52 exam, a pivotal certification for professionals aspiring to work with municipal securities. Municipal securities, including bonds issued by city and state governments, form an integral part of the financial markets, serving as a key instrument for public financing. The Series 52 exam is designed to ensure that professionals engaged in these transactions possess the requisite knowledge and competence. 

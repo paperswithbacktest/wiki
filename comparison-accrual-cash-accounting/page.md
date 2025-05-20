@@ -1,6 +1,8 @@
 ---
-title: "Comparison of Accrual and Cash Accounting (Algo Trading)"
-description: "Explore the crucial differences between accrual and cash accounting for algo trading. Learn their impacts on financial reporting and strategic decision-making."
+category: quant_concept
+description: Explore the crucial differences between accrual and cash accounting for
+  algo trading. Learn their impacts on financial reporting and strategic decision-making.
+title: Comparison of Accrual and Cash Accounting (Algo Trading)
 ---
 
 In today's dynamic financial environment, understanding the differences between cash accounting and accrual accounting is essential, particularly when considering their impact on financial reporting and algorithmic trading. Cash accounting, which records transactions only when cash is exchanged, provides a straightforward view of an entity's cash flow, making it easier for businesses to manage immediate financial activities. However, it may not accurately reflect a company's long-term financial health, as it ignores transactions that have been contracted but not yet realized in cash terms.
@@ -132,4 +134,3 @@ Penman, S. H. "Financial Statement Analysis and Security Valuation" offers an in
 Johnson, B. "Algorithmic Trading and DMA: An Introduction to Direct Access Trading Strategies" provides a detailed overview of algorithmic trading, including the importance of accurate and timely financial data in developing trading algorithms. The text highlights how accrual accounting supports algorithmic trading by ensuring that financial statements reflect real-time economic activities, which is crucial for making informed trading decisions.
 
 These resources provide foundational knowledge and advanced insights into financial accounting, analysis, and algorithmic trading, bridging the gap between theoretical concepts and practical application in today's financial environment.
-

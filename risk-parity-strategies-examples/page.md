@@ -1,6 +1,8 @@
 ---
-title: "Risk Parity Strategies and Examples (Algo Trading)"
-description: "Discover risk parity strategies for algorithmic trading and learn how to balance risk across portfolios. Explore advanced techniques for optimizing investments."
+category: trading_strategy
+description: Discover risk parity strategies for algorithmic trading and learn how
+  to balance risk across portfolios. Explore advanced techniques for optimizing investments.
+title: Risk Parity Strategies and Examples (Algo Trading)
 ---
 
 Investment strategies in modern financial markets have evolved considerably over recent decades, driven by advancements in technology, data availability, and a better understanding of risk management. Traditional models for asset allocation, such as the capital asset pricing model (CAPM) and the modern portfolio theory (MPT), have served as foundational approaches. These models typically emphasize balancing expected returns against risk, often measured using volatility as a proxy. However, the dynamic nature of market conditions calls for more sophisticated approaches to optimize investment portfolios.

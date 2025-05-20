@@ -1,6 +1,9 @@
 ---
-title: "Latency arbitrage (Algo Trading)"
-description: "Explore latency arbitrage a trading strategy that capitalizes on temporary price differences across markets using high-frequency algorithms and low-latency tech."
+category: trading_strategy
+description: Explore latency arbitrage a trading strategy that capitalizes on temporary
+  price differences across markets using high-frequency algorithms and low-latency
+  tech.
+title: Latency arbitrage (Algo Trading)
 ---
 
 Latency arbitrage is a strategy in algorithmic trading that capitalizes on small temporal price differences across markets. This technique exploits the brief period when a price discrepancy exists between two or more markets before it is corrected. With the rise of high-frequency trading (HFT), latency arbitrage has gained prominence as an effective method for traders to benefit from milliseconds-long price disparities. High-frequency traders utilize sophisticated algorithms to detect these fleeting opportunities and execute trades with remarkable speed.

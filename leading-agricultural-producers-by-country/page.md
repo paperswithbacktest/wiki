@@ -1,6 +1,9 @@
 ---
-title: "Leading Agricultural Producers by Country (Algo Trading)"
-description: "Explore the pivotal roles of leading agricultural producers like China, India, and the USA in global food security while advancing through algorithmic trading innovations."
+category: dataset
+description: Explore the pivotal roles of leading agricultural producers like China,
+  India, and the USA in global food security while advancing through algorithmic trading
+  innovations.
+title: Leading Agricultural Producers by Country (Algo Trading)
 ---
 
 Agricultural production and distribution represent key pillars in the economic frameworks of nations around the globe. In an era where food security is a critical concern, the agricultural sector's ability to sustain the global population is intertwined with its influence on trade and economic stability. The industry's significance extends beyond feeding billions, serving as a foundation for the livelihoods of millions while contributing substantially to national GDPs through both domestic production and international trade. Global agricultural dynamics are shaped by a few leading powerhouse nations known for their extensive output in quantity and diversity of produce.

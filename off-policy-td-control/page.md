@@ -1,7 +1,8 @@
 ---
-title: Advances in Off-Policy TD Control for Reinforcement Learning
+category: quant_concept
 description: Off-Policy TD Control empowers agents to learn optimal policies from
   diverse experiences using Q-learning DQN and Double Q. Discover more inside
+title: Advances in Off-Policy TD Control for Reinforcement Learning
 ---
 
 ![Image](images/1.png)

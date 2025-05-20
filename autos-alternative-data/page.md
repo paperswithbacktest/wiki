@@ -1,6 +1,12 @@
 ---
-title: "Autos Alternative Data (Algo Trading)"
-description: Explore the transformative role of alternative data in automotive algorithmic trading as traders leverage unconventional data sources like satellite imagery and social media insights to refine trading strategies. This insightful analysis investigates into the potential advantages of gaining a competitive edge and overcoming the challenges that come with integrating these datasets into trading systems in the fast-paced financial markets.
+category: dataset
+description: Explore the transformative role of alternative data in automotive algorithmic
+  trading as traders leverage unconventional data sources like satellite imagery and
+  social media insights to refine trading strategies. This insightful analysis investigates
+  into the potential advantages of gaining a competitive edge and overcoming the challenges
+  that come with integrating these datasets into trading systems in the fast-paced
+  financial markets.
+title: Autos Alternative Data (Algo Trading)
 ---
 
 Algorithmic trading is an integral component of contemporary financial markets. Its evolution is heavily influenced by the perpetual search for innovative data sources that can offer a competitive advantage. A notable trend in this context is the growing reliance on alternative data, which serves as a promising resource for traders. Unlike conventional financial metrics, such as earnings reports or macroeconomic indicators, alternative data encompasses a wide range of unconventional sources, such as satellite imagery, social media sentiment, and geo-location data, offering unique insights into market dynamics.

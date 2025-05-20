@@ -1,6 +1,9 @@
 ---
-title: "Bond Vigilantes (Algo Trading)"
-description: "Explore the intricate dynamics of bond vigilantes in financial markets and their impact on fiscal policies through human actions and algorithmic trading strategies."
+category: quant_concept
+description: Explore the intricate dynamics of bond vigilantes in financial markets
+  and their impact on fiscal policies through human actions and algorithmic trading
+  strategies.
+title: Bond Vigilantes (Algo Trading)
 ---
 
 The term 'financial markets vigilantes' conjures images of traders wielding their influence to enforce fiscal policy discipline. Within this domain, bond vigilantes stand out as pivotal figures, particularly in bond markets. The term 'bond vigilantes' was introduced by Ed Yardeni in the 1980s, describing investors who sell government bonds when faced with inflationary fiscal policies. This action results in increased borrowing costs, effectively signaling market discontent with the fiscal stance of governments.

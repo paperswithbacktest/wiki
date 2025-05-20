@@ -1,6 +1,9 @@
 ---
-title: "Cost of Tendering (Algo Trading)"
-description: "Explore the impact of tendering costs on procurement efficiency including bid preparation, compliance expenses, and how algorithmic trading can streamline processes."
+category: quant_concept
+description: Explore the impact of tendering costs on procurement efficiency including
+  bid preparation, compliance expenses, and how algorithmic trading can streamline
+  processes.
+title: Cost of Tendering (Algo Trading)
 ---
 
 Understanding the complexities of the procurement process is vital for organizations seeking cost efficiency. Procurement involves obtaining goods and services from external suppliers, a task that directly affects an organization's operational costs and efficiency. As a central aspect of procurement, tendering, the competitive process wherein suppliers submit bids to secure contracts, plays a pivotal role in ensuring optimal supplier selection and cost control.

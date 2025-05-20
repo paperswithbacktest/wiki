@@ -1,6 +1,12 @@
 ---
-title: "Dutch Disease: Origins and Examples (Algo Trading)"
-description: "Explore the origins and impacts of Dutch Disease, an economic phenomenon where a country's resource wealth causes currency appreciation, reducing competitiveness in other sectors. Learn how natural resources can lead to long-term economic imbalances and discover potential modern solutions like algorithmic trading to stabilize economies and prevent resource dependency. Understand the significance of strategic economic policies for resource-rich nations to ensure diversified growth and resilience."
+category: quant_concept
+description: Explore the origins and impacts of Dutch Disease, an economic phenomenon
+  where a country's resource wealth causes currency appreciation, reducing competitiveness
+  in other sectors. Learn how natural resources can lead to long-term economic imbalances
+  and discover potential modern solutions like algorithmic trading to stabilize economies
+  and prevent resource dependency. Understand the significance of strategic economic
+  policies for resource-rich nations to ensure diversified growth and resilience.
+title: 'Dutch Disease: Origins and Examples (Algo Trading)'
 ---
 
 'Dutch Disease' is a term used in economic discussions to describe the negative consequences that can result from a spike in a country's wealth due to the discovery or exploitation of natural resources. The term originated from the Netherlands in the 1960s, following the discovery of natural gas in the North Sea. This discovery led to a rise in the value of the Dutch currency, which in turn made other exports less competitive and resulted in a decline in the manufacturing sector. This phenomenon, where an increase in revenue from natural resources can lead to a decrease in competitiveness in other sectors, has since been observed in various economies globally.

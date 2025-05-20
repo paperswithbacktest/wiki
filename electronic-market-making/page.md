@@ -1,6 +1,8 @@
 ---
-title: "Electronic Market Making (Algo Trading)"
-description: "Explore the role of electronic market making in algo trading, focusing on its impact on liquidity, efficiency, strategies, benefits, and potential challenges."
+category: quant_concept
+description: Explore the role of electronic market making in algo trading, focusing
+  on its impact on liquidity, efficiency, strategies, benefits, and potential challenges.
+title: Electronic Market Making (Algo Trading)
 ---
 
 In algorithmic trading, electronic market making is a vital component in maintaining both market liquidity and efficiency. Market makers operate by providing simultaneous buy and sell quotes, which facilitates smoother transactions and aids in the process of price discovery. This seamless interaction not only enhances the ease with which trades are conducted but also significantly contributes to the overall stability of financial markets.

@@ -1,6 +1,9 @@
 ---
-title: "Calculating Sharpe Ratio Using Excel (Algo Trading)"
-description: "Learn how to calculate the Sharpe Ratio using Excel, an essential financial metric for optimizing algorithmic trading strategies and evaluating risk-adjusted returns."
+category: quant_concept
+description: Learn how to calculate the Sharpe Ratio using Excel, an essential financial
+  metric for optimizing algorithmic trading strategies and evaluating risk-adjusted
+  returns.
+title: Calculating Sharpe Ratio Using Excel (Algo Trading)
 ---
 
 The Sharpe Ratio, conceptualized by Nobel laureate William F. Sharpe in 1966, stands as a cornerstone financial metric, instrumental in assessing the risk-adjusted return of an investment portfolio. This ratio serves as a fundamental tool for investors and analysts, helping them strike a balance between risk and return—a balance that is crucial in the financial world. By comparing the potential returns of an investment to its inherent risk, the Sharpe Ratio provides a quantitative measure that enables both novice investors and experienced professionals to evaluate the efficacy of their trading strategies.

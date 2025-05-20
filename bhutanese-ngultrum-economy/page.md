@@ -1,6 +1,8 @@
 ---
-title: "Bhutanese Ngultrum and Economy (Algo Trading)"
-description: "Discover the role of the Bhutanese Ngultrum in the economy, its peg to the Indian Rupee, and how it influences algorithmic trading opportunities."
+category: dataset
+description: Discover the role of the Bhutanese Ngultrum in the economy, its peg to
+  the Indian Rupee, and how it influences algorithmic trading opportunities.
+title: Bhutanese Ngultrum and Economy (Algo Trading)
 ---
 
 The Bhutanese Ngultrum (BTN) is the official currency of Bhutan, a small and culturally rich nation situated in the Eastern Himalayas. This currency was introduced in 1974, a pivotal year that marked a new chapter in Bhutan's economic history. The Ngultrum is pegged to the Indian Rupee (INR) at par, a strategic decision that ensures stability and facilitates seamless trade with India, Bhutan's largest trade partner. This peg enables Bhutan to maintain a stable exchange rate, minimizing currency fluctuations that could adversely affect its economy.

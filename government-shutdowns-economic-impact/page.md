@@ -1,6 +1,12 @@
 ---
-title: "Government Shutdowns and Economic Impact (Algo Trading)"
-description: "Explore the intricate relationship between government shutdowns and economic impacts as they affect policy, businesses, and investors. Delve into how algorithmic trading responds to these shutdowns, providing valuable insights into market dynamics during political and economic uncertainties. Discover strategies for navigating these challenges and gain a deeper understanding of the financial markets' adaptive mechanisms in the face of federal funding disputes."
+category: trading_strategy
+description: Explore the intricate relationship between government shutdowns and economic
+  impacts as they affect policy, businesses, and investors. Delve into how algorithmic
+  trading responds to these shutdowns, providing valuable insights into market dynamics
+  during political and economic uncertainties. Discover strategies for navigating
+  these challenges and gain a deeper understanding of the financial markets' adaptive
+  mechanisms in the face of federal funding disputes.
+title: Government Shutdowns and Economic Impact (Algo Trading)
 ---
 
 Government shutdowns have become an increasingly familiar phenomenon in recent years, exerting significant effects across various sectors of the economy. These events occur when federal agencies halt operations due to funding gaps often triggered by political deadlock. The resulting disruptions span a spectrum from delayed government contracts and unreleased economic data to furloughed employees, creating ripple effects that concern policymakers, businesses, and investors.

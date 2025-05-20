@@ -1,7 +1,8 @@
 ---
-title: Improving Machine Learning Training With Negative Sampling
+category: quant_concept
 description: Negative sampling accelerates model training by focusing on key negative
   and positive examples for more accurate embeddings Discover more inside
+title: Improving Machine Learning Training With Negative Sampling
 ---
 
 ![Image](images/1.png)

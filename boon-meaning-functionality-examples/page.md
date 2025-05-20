@@ -1,6 +1,9 @@
 ---
-title: "Boon: Meaning, Functionality, and Examples (Algo Trading)"
-description: "Explore the advantages and examples of boon functionalities in algorithmic trading that enhance efficiency and strategy development, helping traders gain a competitive edge."
+category: quant_concept
+description: Explore the advantages and examples of boon functionalities in algorithmic
+  trading that enhance efficiency and strategy development, helping traders gain a
+  competitive edge.
+title: 'Boon: Meaning, Functionality, and Examples (Algo Trading)'
 ---
 
 In today’s fast-paced financial markets, algorithmic trading has become an indispensable tool for traders striving to maintain a competitive edge. These automated trading systems are designed to execute orders by employing pre-defined criteria, which can be based on timing, price, or other mathematical models. Boon functionality, in this context, refers to advantageous features within algorithmic trading that significantly enhance operational efficiency. Through automation, these functionalities streamline trading operations, allowing for rapid order execution, minimized risks, and optimized trading strategies.

@@ -1,7 +1,8 @@
 ---
-title: Gradient Clipping Techniques for Stable Neural Network Training
+category: quant_concept
 description: Gradient clipping controls gradient magnitudes to prevent unstable updates
   in neural networks for smooth training and performance Discover more inside.
+title: Gradient Clipping Techniques for Stable Neural Network Training
 ---
 
 ![Image](images/1.jpeg)

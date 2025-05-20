@@ -1,6 +1,9 @@
 ---
-title: "Indicators of Corporate Distress (Algo Trading)"
-description: "Discover how algorithmic trading platforms can identify corporate distress signals such as declining profits and increasing debt, crucial for sustaining business stability."
+category: trading_strategy
+description: Discover how algorithmic trading platforms can identify corporate distress
+  signals such as declining profits and increasing debt, crucial for sustaining business
+  stability.
+title: Indicators of Corporate Distress (Algo Trading)
 ---
 
 In today's fast-paced business environment, recognizing the warning signs of corporate distress is more crucial than ever. Corporate distress can lead to significant financial losses, affect stakeholder trust, and even result in bankruptcy if not addressed timely. As businesses operate under increased pressure to perform and remain competitive, the ability to detect early indicators of corporate distress is essential for sustaining long-term viability. These indicators often manifest through symptoms such as declining profits, poor cash flow, and increasing debt, which threaten a company's financial and operational stability.

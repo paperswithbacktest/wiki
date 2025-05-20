@@ -1,7 +1,8 @@
 ---
-title: Understanding Step Size in Machine Learning Model Training
+category: quant_concept
 description: Step size determines how fast and accurate model training converges in
   machine learning with gradient descent for improved performance Discover more inside
+title: Understanding Step Size in Machine Learning Model Training
 ---
 
 ![Image](images/1.png)

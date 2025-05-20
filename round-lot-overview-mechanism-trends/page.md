@@ -1,6 +1,8 @@
 ---
-title: "Round Lot: Overview, Mechanism, and Current Trends (Algo Trading)"
-description: "Explore how round lot and algorithmic trading shape modern stock markets from trade execution efficiency to evolving trends that impact trader strategies."
+category: quant_concept
+description: Explore how round lot and algorithmic trading shape modern stock markets
+  from trade execution efficiency to evolving trends that impact trader strategies.
+title: 'Round Lot: Overview, Mechanism, and Current Trends (Algo Trading)'
 ---
 
 The world of stock trading is a multifaceted environment influenced by a myriad of variables, where adept traders navigate complex trends to optimize their investment strategies. Central to understanding these dynamics are mechanisms like round lots and algorithmic trading—key components that have a significant impact on market behavior and trader decisions.

@@ -1,7 +1,8 @@
 ---
-title: Mitigating Bias in Machine Learning for Fair and Ethical Use
+category: quant_concept
 description: Bias in machine learning can lead to unfair decisions We explain sources
   measurement and mitigation to build more equitable models Discover more inside.
+title: Mitigating Bias in Machine Learning for Fair and Ethical Use
 ---
 
 ![Image](images/1.png)

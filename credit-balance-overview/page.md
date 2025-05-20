@@ -1,6 +1,8 @@
 ---
-title: "Credit Balance Overview (Algo Trading)"
-description: "Explore the vital roles of accounting terms, credit balances, and algorithmic trading to enhance financial management and strategic planning in modern finance."
+category: quant_concept
+description: Explore the vital roles of accounting terms, credit balances, and algorithmic
+  trading to enhance financial management and strategic planning in modern finance.
+title: Credit Balance Overview (Algo Trading)
 ---
 
 In the complex world of finance, understanding accounting terms, mastering credit balances, and exploring algorithmic trading are essential for successful financial management. The dynamic nature of today's financial markets necessitates a comprehensive grasp of these concepts, which not only facilitate better financial reporting and analysis but also enhance decision-making and strategic planning.

@@ -1,6 +1,8 @@
 ---
-title: "Buy Quote (Algo Trading)"
-description: "Explore essential financial concepts like buy quotes and algorithmic trading to enhance your stock market strategies and informed decision-making."
+category: quant_concept
+description: Explore essential financial concepts like buy quotes and algorithmic
+  trading to enhance your stock market strategies and informed decision-making.
+title: Buy Quote (Algo Trading)
 ---
 
 This article explores essential financial concepts related to the stock market, primarily focusing on 'buy quotes' and algorithmic trading. In an era marked by the increasing complexity of financial markets, grasping these terms is pivotal for both novice and seasoned traders. Buy quotes, representing the best available price at which a trader can purchase a security, serve as a vital component in understanding price dynamics and market transactions. These quotes inform traders about the entry and exit points, heavily influencing trading strategies and decisions within the volatile stock market environment.

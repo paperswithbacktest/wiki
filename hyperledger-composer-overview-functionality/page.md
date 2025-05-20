@@ -1,6 +1,9 @@
 ---
-title: "Hyperledger Composer: Overview and Functionality (Algo Trading)"
-description: "Explore the transformative power of Hyperledger Composer in blockchain development with its user-friendly tools and integration with Hyperledger Fabric for advanced algo trading."
+category: quant_concept
+description: Explore the transformative power of Hyperledger Composer in blockchain
+  development with its user-friendly tools and integration with Hyperledger Fabric
+  for advanced algo trading.
+title: 'Hyperledger Composer: Overview and Functionality (Algo Trading)'
 ---
 
 The rise of blockchain technology has significantly transformed a wide array of industries by offering decentralized and secure solutions. This shift has driven the adoption and development of various tools and platforms tailored to capitalize on the blockchain's potential. Among these tools, Hyperledger Composer distinguishes itself with unique features and capabilities that cater specifically to the demands of blockchain development. Designed to support both novices and seasoned developers, Hyperledger Composer serves as an instrumental resource in creating sophisticated and efficient blockchain applications.

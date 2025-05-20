@@ -1,6 +1,9 @@
 ---
-title: "Anticipation Note: Functions and Examples (Algo Trading)"
-description: "Explore how anticipation notes, financial instruments, and algorithmic trading shape modern market strategies. Enhance your trading insights with this comprehensive guide."
+category: quant_concept
+description: Explore how anticipation notes, financial instruments, and algorithmic
+  trading shape modern market strategies. Enhance your trading insights with this
+  comprehensive guide.
+title: 'Anticipation Note: Functions and Examples (Algo Trading)'
 ---
 
 Financial instruments are pivotal in the global financial market, representing assets that can be traded. They include a diverse array of assets such as stocks, bonds, derivatives, and commodities. These instruments are fundamental for implementing investment strategies, allowing for hedging against risks, speculating for profit, and generating income. By facilitating the diversification of portfolios, financial instruments contribute to reducing risk while maximizing potential returns, thereby playing a crucial role in the financial ecosystem.

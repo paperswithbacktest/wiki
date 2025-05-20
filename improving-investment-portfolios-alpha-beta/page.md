@@ -1,6 +1,8 @@
 ---
-title: "Improving Investment Portfolios with Alpha and Beta (Algo Trading)"
-description: "Improve your investment portfolios using alpha and beta strategies with algorithmic trading Learn how to manage risk and enhance returns effectively"
+category: trading_strategy
+description: Improve your investment portfolios using alpha and beta strategies with
+  algorithmic trading Learn how to manage risk and enhance returns effectively
+title: Improving Investment Portfolios with Alpha and Beta (Algo Trading)
 ---
 
 The financial markets provide a plethora of investment strategies designed to cater to varying risk appetites and expected returns. Among these sophisticated strategies is the utilization of alpha and beta in investment portfolios, particularly through the deployment of algorithmic trading techniques. Alpha and beta are foundational concepts in finance, where beta measures the tendency of a security's returns to respond to market movements, and alpha reflects the ability of an investment to outperform the benchmark index, designated as alpha = (actual return - expected return based on beta).

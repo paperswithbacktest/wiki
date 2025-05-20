@@ -1,6 +1,12 @@
 ---
-title: "Priority of Creditors in Liquidation (Algo Trading)"
-description: "Explore the intricacies of creditor liquidation, debt priority, and algorithmic trading to understand how these elements impact financial stability and investment returns during corporate liquidations. Learn about the legal framework that dictates the hierarchy of creditor repayments and the role of algorithmic trading in optimizing decisions and managing risks in debt markets. Equip yourself with crucial insights for navigating distressed asset transactions and enhancing your investment strategies."
+category: quant_concept
+description: Explore the intricacies of creditor liquidation, debt priority, and algorithmic
+  trading to understand how these elements impact financial stability and investment
+  returns during corporate liquidations. Learn about the legal framework that dictates
+  the hierarchy of creditor repayments and the role of algorithmic trading in optimizing
+  decisions and managing risks in debt markets. Equip yourself with crucial insights
+  for navigating distressed asset transactions and enhancing your investment strategies.
+title: Priority of Creditors in Liquidation (Algo Trading)
 ---
 
 In the complex world of finance, understanding the nuances of creditor liquidation, debt priority, and algorithmic trading is paramount for both maintaining financial stability and maximizing investment returns. These topics are intricately connected within the financial ecosystem, significantly influencing outcomes during corporate liquidations. 

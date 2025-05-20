@@ -1,6 +1,8 @@
 ---
-title: "Equity Compensation Overview (Algo Trading)"
-description: "Explore the role of stock options and equity compensation in employee benefits, and discover how algorithmic trading optimizes financial returns."
+category: quant_concept
+description: Explore the role of stock options and equity compensation in employee
+  benefits, and discover how algorithmic trading optimizes financial returns.
+title: Equity Compensation Overview (Algo Trading)
 ---
 
 Stock options and equity compensation have gained prominence as essential elements in the landscape of employment benefits. In the competitive recruitment environment, companies are increasingly leveraging these financial instruments as incentives to attract and retain top talent. Stock options offer employees the right, but not the obligation, to purchase shares of the company at a predetermined price, potentially aligning their interests with those of shareholders and the long-term success of the company. Equity compensation, which can include stock options, restricted stock, and stock appreciation rights, offers employees not just a stake in the company, but also a vested interest in its growth and success.

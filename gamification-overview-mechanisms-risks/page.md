@@ -1,6 +1,9 @@
 ---
-title: "Gamification: Overview, Mechanisms, and Potential Risks (Algo Trading)"
-description: "Explore how gamification, game mechanics, and algorithmic trading interact in modern platforms. Discover their influence on trading strategies, user engagement, and risk awareness."
+category: quant_concept
+description: Explore how gamification, game mechanics, and algorithmic trading interact
+  in modern platforms. Discover their influence on trading strategies, user engagement,
+  and risk awareness.
+title: 'Gamification: Overview, Mechanisms, and Potential Risks (Algo Trading)'
 ---
 
 Risk analysis, game mechanics, gamification, and algorithmic trading are crucial components in the contemporary trading landscape. Each element contributes uniquely to the dynamic nature of trading, influencing decision-making, strategy development, and user engagement.

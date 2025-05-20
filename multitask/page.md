@@ -1,7 +1,8 @@
 ---
-title: Multitask Learning Techniques to Improve Machine Learning Models
+category: quant_concept
 description: Multitask learning trains models on multiple tasks at once to boost efficiency
   and accuracy by leveraging shared patterns. Discover more inside.
+title: Multitask Learning Techniques to Improve Machine Learning Models
 ---
 
 ![Image](images/1.png)

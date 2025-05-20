@@ -1,6 +1,8 @@
 ---
-title: "Bitumen: Characteristics, Examples, and Applications (Algo Trading)"
-description: "Explore bitumen's essential industrial uses and the innovations of algorithmic trading where traditional practices meet cutting-edge financial technology."
+category: quant_concept
+description: Explore bitumen's essential industrial uses and the innovations of algorithmic
+  trading where traditional practices meet cutting-edge financial technology.
+title: 'Bitumen: Characteristics, Examples, and Applications (Algo Trading)'
 ---
 
 The exploration of bitumen and algorithmic trading presents a unique narrative that intertwines traditional industrial practices with modern technological advancements. Bitumen, a viscous byproduct of crude oil, plays a vital role in various sectors, notably in road construction, waterproofing, and infrastructure development. Its value stems from its adhesive and waterproofing properties, making it indispensable in building and maintaining essential structures.

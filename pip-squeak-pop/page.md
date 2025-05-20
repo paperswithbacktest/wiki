@@ -1,6 +1,10 @@
 ---
-title: "Pip-Squeak Pop (Algo Trading)"
-description: "Explore the fascinating convergence of pop music and algorithmic trading, dubbed \"Pip-Squeak Pop,\" where music's viral hits parallel sudden stock price surges. Both realms depend on trend recognition, rapid reactions, and the momentum of fleeting popularity and market swings, presenting unique insights and opportunities for success."
+category: quant_concept
+description: Explore the fascinating convergence of pop music and algorithmic trading,
+  dubbed "Pip-Squeak Pop," where music's viral hits parallel sudden stock price surges.
+  Both realms depend on trend recognition, rapid reactions, and the momentum of fleeting
+  popularity and market swings, presenting unique insights and opportunities for success.
+title: Pip-Squeak Pop (Algo Trading)
 ---
 
 In today’s fast-paced world, both music and finance remain pivotal arenas capable of drastically influencing culture and economy. A particularly captivating term merging these two fields is "Pip-Squeak Pop." This notion draws its roots from the vibrant pop music scene and the dynamic world of algorithmic trading in finance. By examining "Pip-Squeak Pop," we witness an intriguing intersection where both worlds reflect each other's dynamics and potential impacts.

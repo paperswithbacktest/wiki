@@ -1,7 +1,8 @@
 ---
-title: Understanding Gated Linear Networks For Model Interpretability
+category: quant_concept
 description: Gated Linear Networks boost interpretability and performance through
   gates that manage data flow and prevent vanishing gradients Discover more inside.
+title: Understanding Gated Linear Networks For Model Interpretability
 ---
 
 ![Image](images/1.png)

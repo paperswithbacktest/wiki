@@ -1,7 +1,8 @@
 ---
-title: Comprehensive Guide to Ensembling Techniques in Machine Learning
+category: quant_concept
 description: Ensembling in machine learning improves accuracy by combining models
   and reducing overfitting for more robust predictions Discover more inside
+title: Comprehensive Guide to Ensembling Techniques in Machine Learning
 ---
 
 ![Image](images/1.png)

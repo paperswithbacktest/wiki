@@ -1,6 +1,9 @@
 ---
-title: "Entity Trading Account: Overview and Benefits (Algo Trading)"
-description: "Explore the advantages of entity trading accounts and algorithmic trading Their strategic benefits like tax efficiency and speed can optimize modern trading efforts"
+category: quant_concept
+description: Explore the advantages of entity trading accounts and algorithmic trading
+  Their strategic benefits like tax efficiency and speed can optimize modern trading
+  efforts
+title: 'Entity Trading Account: Overview and Benefits (Algo Trading)'
 ---
 
 In today's fast-paced financial markets, trading has undergone significant transformation due to the impact of advanced technologies and sophisticated strategies. This evolution has introduced new methodologies and tools that have reshaped how trades are executed and managed. Central to these developments are entity trading accounts and algorithmic trading, which represent key components in the modern trading ecosystem.

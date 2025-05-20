@@ -1,6 +1,8 @@
 ---
-title: "Forex Trading: Trend Versus Range Strategies (Algo Trading)"
-description: "Explore Forex trend and range strategies enhanced by algo trading Uncover the benefits and challenges of these techniques for smart trading decisions"
+category: trading_strategy
+description: Explore Forex trend and range strategies enhanced by algo trading Uncover
+  the benefits and challenges of these techniques for smart trading decisions
+title: 'Forex Trading: Trend Versus Range Strategies (Algo Trading)'
 ---
 
 Forex trading, or foreign exchange trading, is the buying and selling of currencies on a global market. It is a decentralized market, operating 24 hours a day, five days a week, and is the largest financial market in the world, with a daily trading volume exceeding $6 trillion as of 2021. This liquidity and market size make Forex trading a critical component of global finance, influencing currency exchange rates and, consequently, international trade and economic stability.

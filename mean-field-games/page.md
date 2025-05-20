@@ -1,6 +1,9 @@
 ---
-title: "Mean field games (Algo Trading)"
-description: "Explore the intersection of mean field games and algorithmic trading within quantitative finance. Uncover frameworks that enhance market modeling and strategy development."
+category: quant_concept
+description: Explore the intersection of mean field games and algorithmic trading
+  within quantitative finance. Uncover frameworks that enhance market modeling and
+  strategy development.
+title: Mean field games (Algo Trading)
 ---
 
 Mean field games (MFG) and algorithmic trading represent pivotal domains within quantitative finance, both offering distinct yet intersecting frameworks that have significant implications for traders and market dynamics. Algorithmic trading involves the automated execution of trading orders based on pre-defined strategies and rules, while mean field games provide a mathematical framework to analyze and model the interactions of many agents, each with their own objectives, in competitive environments. These agents influence one another, reflecting characteristics inherent in financial markets. 

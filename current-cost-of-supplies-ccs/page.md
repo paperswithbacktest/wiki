@@ -1,6 +1,8 @@
 ---
-title: "Current Cost of Supplies (CCS) (Algo Trading)"
-description: "Discover how the Current Cost of Supplies metric enhances financial reporting and its pivotal role in optimizing algorithmic trading strategies for volatile markets."
+category: quant_concept
+description: Discover how the Current Cost of Supplies metric enhances financial reporting
+  and its pivotal role in optimizing algorithmic trading strategies for volatile markets.
+title: Current Cost of Supplies (CCS) (Algo Trading)
 ---
 
 The financial landscape is undergoing significant transformation, adapting to contemporary challenges and technological advancements. Metrics and tools play a vital role in this evolution, providing insights that are crucial for decision-making processes in finance. A prominent example of such a metric is the Current Cost of Supplies (CCS), which serves as an integral part of financial reporting, particularly for businesses influenced by fluctuating commodity prices like oil and gas.

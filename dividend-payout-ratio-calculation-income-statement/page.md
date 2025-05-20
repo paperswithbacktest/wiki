@@ -1,6 +1,8 @@
 ---
-title: "Dividend Payout Ratio Calculation from Income Statement (Algo Trading)"
-description: "Explore the importance of the dividend payout ratio in evaluating a company's financial health and dividend policies for successful algorithmic trading."
+category: quant_concept
+description: Explore the importance of the dividend payout ratio in evaluating a company's
+  financial health and dividend policies for successful algorithmic trading.
+title: Dividend Payout Ratio Calculation from Income Statement (Algo Trading)
 ---
 
 In the landscape of investing, understanding the financial health of a company is essential, particularly when assessing dividend-paying stocks. For investors, dividends represent a tangible return on investment, and evaluating these returns often hinges on understanding key financial metrics. One such metric is the dividend payout ratio, which offers insights into the proportion of a company's earnings that are distributed to shareholders in the form of dividends. This ratio not only reflects a company's dividend policy but also serves as an indicator of its financial strategy regarding profit allocation.
@@ -235,4 +237,3 @@ For those looking to enhance their understanding of dividend payout ratios and t
    - Financial modeling tools such as Python libraries (e.g., pandas, NumPy) can be deployed for conducting analyses of financial metrics, including scripting for calculating dividend payout ratios.
 
 By exploring these resources, readers can develop a deeper understanding of how dividend payout ratios serve as a critical metric within financial analysis and investment strategies.
-

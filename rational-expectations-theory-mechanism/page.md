@@ -1,6 +1,9 @@
 ---
-title: "Rational Expectations Theory and Its Mechanism (Algo Trading)"
-description: "Explore Rational Expectations Theory's role in economic forecasting and algorithmic trading Discover how rational expectations shape economic outcomes and trading strategies"
+category: quant_concept
+description: Explore Rational Expectations Theory's role in economic forecasting and
+  algorithmic trading Discover how rational expectations shape economic outcomes and
+  trading strategies
+title: Rational Expectations Theory and Its Mechanism (Algo Trading)
 ---
 
 Economic forecasting plays a crucial role in guiding both investment decisions and policy-making. By anticipating future economic conditions, businesses and governments can allocate resources more effectively, mitigate risks, and capitalize on potential opportunities. Central to the accuracy of these forecasts is the understanding of how expectations influence economic outcomes. Rational Expectations Theory provides a framework to grasp these dynamics, positing that individuals make decisions based on rationality, the information available, and past experiences. This framework holds that people's expectations will, on average, be correct because they utilize all accessible, relevant information in their decision-making processes. 

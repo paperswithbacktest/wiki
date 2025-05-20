@@ -1,6 +1,8 @@
 ---
-title: "Milton Friedman and Monetarism (Algo Trading)"
-description: "Explore how Milton Friedman's monetarism informs algorithmic trading, linking economic models and advanced technologies to enhance modern financial strategies."
+category: quant_concept
+description: Explore how Milton Friedman's monetarism informs algorithmic trading,
+  linking economic models and advanced technologies to enhance modern financial strategies.
+title: Milton Friedman and Monetarism (Algo Trading)
 ---
 
 This article examines the intersection of monetarism, the economic theories of Milton Friedman, and the rapidly evolving field of algorithmic trading. Monetarism, a theory closely associated with Friedman, emphasizes the pivotal role governments have in managing money supply to influence economic stability and growth. Friedman's ideas have fundamentally shaped modern economic policies, paving the way for practices focused on controlling inflation and promoting stable national outputs through monetary regulation.

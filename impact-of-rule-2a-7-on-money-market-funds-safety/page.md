@@ -1,6 +1,8 @@
 ---
-title: "Impact of Rule 2a-7 on Money Market Funds' Safety (Algo Trading)"
-description: "Explore the impact of SEC's Rule 2a-7 on money market fund safety and algorithmic trading's role in enhancing these funds' compliance and efficiency."
+category: quant_concept
+description: Explore the impact of SEC's Rule 2a-7 on money market fund safety and
+  algorithmic trading's role in enhancing these funds' compliance and efficiency.
+title: Impact of Rule 2a-7 on Money Market Funds' Safety (Algo Trading)
 ---
 
 The financial landscape is continually evolving, with regulations shaping its course. A pivotal regulation in this domain is the Securities and Exchange Commission's Rule 2a-7, which specifically targets money market funds. Introduced to enhance the resilience of these funds, Rule 2a-7 addresses critical factors such as liquidity and risk management. Money market funds, traditionally seen as low-risk investment vehicles, are vital components of both individual and institutional investment strategies. However, vulnerabilities can arise, particularly under stressed financial conditions. As such, Rule 2a-7 serves as a regulatory framework to mitigate these risks by enforcing specific liquidity and quality standards on the portfolios of money market funds.

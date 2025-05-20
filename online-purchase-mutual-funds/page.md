@@ -1,6 +1,8 @@
 ---
-title: "Online Purchase of Mutual Funds (Algo Trading)"
-description: "Explore the world of online mutual fund investments and algorithmic trading Learn to select platforms manage fees and optimize strategies for better returns"
+category: trading_strategy
+description: Explore the world of online mutual fund investments and algorithmic trading
+  Learn to select platforms manage fees and optimize strategies for better returns
+title: Online Purchase of Mutual Funds (Algo Trading)
 ---
 
 The digital era has drastically transformed investment practices, broadening the accessibility of mutual funds through online platforms. This shift has empowered individual investors, providing them with easy access to a vast array of mutual funds directly from their personal devices. As a result, more people can participate in the financial markets, leveraging the expertise of professional fund managers without the traditional barriers.

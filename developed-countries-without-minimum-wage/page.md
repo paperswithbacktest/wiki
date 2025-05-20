@@ -1,6 +1,8 @@
 ---
-title: "Developed Countries Without Minimum Wage Laws (Algo Trading)"
-description: "Explore the complex relationship between labor laws, minimum wage policies, and algorithmic trading in developed countries and their impact on economic stability."
+category: quant_concept
+description: Explore the complex relationship between labor laws, minimum wage policies,
+  and algorithmic trading in developed countries and their impact on economic stability.
+title: Developed Countries Without Minimum Wage Laws (Algo Trading)
 ---
 
 The interplay between labor laws, minimum wage policies, and algorithmic trading is central to understanding the economic dynamics in developed countries. As economies become increasingly complex and technology-driven, these three elements play a critical role in shaping market behavior and employment landscapes.

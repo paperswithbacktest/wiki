@@ -1,6 +1,9 @@
 ---
-title: "Booking the Basis: Definition and Mechanism (Algo Trading)"
-description: "Discover how algorithmic trading utilizes the concept of booking the basis to manage risk in futures trading, enhance profitability, and optimize trading strategies."
+category: quant_concept
+description: Discover how algorithmic trading utilizes the concept of booking the
+  basis to manage risk in futures trading, enhance profitability, and optimize trading
+  strategies.
+title: 'Booking the Basis: Definition and Mechanism (Algo Trading)'
 ---
 
 The landscape of financial markets has drastically changed with the rise of algorithmic trading, which employs automated software to execute trades at speeds and frequencies that are impossible for human traders. This innovation has added a layer of complexity to trading, introducing new strategies and risks that market participants must navigate. Among the key concepts in this evolving landscape is the financial booking basis, an essential aspect of commodities and futures trading that involves securing the differential between future and spot prices of an asset. This strategy helps traders hedge against price volatility while maintaining the ability to engage in forward sales agreements.

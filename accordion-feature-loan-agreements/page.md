@@ -1,6 +1,8 @@
 ---
-title: "Accordion Feature in Loan Agreements (Algo Trading)"
-description: "Discover how the accordion feature in loan agreements offers borrowers dynamic credit line flexibility and strategic agility in algorithmic trading."
+category: quant_concept
+description: Discover how the accordion feature in loan agreements offers borrowers
+  dynamic credit line flexibility and strategic agility in algorithmic trading.
+title: Accordion Feature in Loan Agreements (Algo Trading)
 ---
 
 In today's dynamic financial landscape, businesses and individuals are constantly seeking innovative financial solutions to enhance flexibility and maximize opportunities. The need to efficiently manage credit lines and capitalize on market fluctuations has led to the development of financial instruments that cater to varied requirements. One such innovative instrument is the loan terms accordion feature. This feature is designed to offer a unique approach to managing credit arrangements by providing borrowers the flexibility to adjust their credit lines within predefined limits under an existing loan agreement.

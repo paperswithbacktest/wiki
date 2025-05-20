@@ -1,6 +1,10 @@
 ---
-title: "Impact of Industrialization on Economies of Less Developed Countries (Algo Trading)"
-description: "Explore the impact of industrialization on less developed countries focusing on the transformative role of algorithmic trading in market efficiency and economic growth."
+category: quant_concept
+description: Explore the impact of industrialization on less developed countries focusing
+  on the transformative role of algorithmic trading in market efficiency and economic
+  growth.
+title: Impact of Industrialization on Economies of Less Developed Countries (Algo
+  Trading)
 ---
 
 Industrialization has been a pivotal force in shaping the economies of less developed countries (LDCs), acting as a catalyst for economic transformation and growth. This article explores the significant economic impacts of industrialization on LDCs, with particular attention to the emerging role of algorithmic trading within these economies. Algorithmic trading, defined as the use of computer algorithms to manage trading decisions, execution, and processing, is expected to significantly influence the way LDCs interact with global markets by enhancing market efficiencies and liquidity.

@@ -1,6 +1,8 @@
 ---
-title: "Causes of Greece's Debt Crisis (Algo Trading)"
-description: "Explore the causes and implications of Greece's debt crisis in the Eurozone with insights on fiscal policies, monetary challenges, and the role of algo trading."
+category: quant_concept
+description: Explore the causes and implications of Greece's debt crisis in the Eurozone
+  with insights on fiscal policies, monetary challenges, and the role of algo trading.
+title: Causes of Greece's Debt Crisis (Algo Trading)
 ---
 
 The Greek debt crisis stands as one of the defining economic events of the early 21st century, highlighting both the challenges and intricacies within the European Union and the global financial systems. The crisis not only exposed the vulnerabilities of Greece's economy due to fiscal mismanagement and excessive borrowing but also served as a critical lesson on the interconnectedness of modern global economies. This article examines the economic trajectory that led Greece to its crisis, evaluating both historical and contemporary factors, and its implications for the future. 

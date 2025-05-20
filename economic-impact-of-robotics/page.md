@@ -1,6 +1,12 @@
 ---
-title: "Economic Impact of Robotics (Algo Trading)"
-description: "Explore the transformative impact of automation, robotics, and algorithmic trading on the economy, as these technologies reshape financial processes with improved efficiency and precision. Dive into how these innovations are redefining market dynamics while presenting challenges like cybersecurity risks. Understanding these trends is crucial for stakeholders aiming to leverage advancements and navigate the evolving automation economy."
+category: quant_concept
+description: Explore the transformative impact of automation, robotics, and algorithmic
+  trading on the economy, as these technologies reshape financial processes with improved
+  efficiency and precision. Dive into how these innovations are redefining market
+  dynamics while presenting challenges like cybersecurity risks. Understanding these
+  trends is crucial for stakeholders aiming to leverage advancements and navigate
+  the evolving automation economy.
+title: Economic Impact of Robotics (Algo Trading)
 ---
 
 The fusion of automation, robotics, and algorithmic trading is profoundly altering the economic landscape, marking the advent of what is increasingly known as the 'automation economy'. As these technological innovations continue to evolve, their integration into the financial sector brings significant transformations with both promising benefits and noteworthy challenges.

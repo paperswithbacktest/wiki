@@ -1,6 +1,8 @@
 ---
-title: "Impact of the Soviet Economic System on Consumer Goods (Algo Trading)"
-description: "Discover how the Soviet command economy impacted consumer goods production, leading to chronic shortages and a thriving underground market amid centralization."
+category: quant_concept
+description: Discover how the Soviet command economy impacted consumer goods production,
+  leading to chronic shortages and a thriving underground market amid centralization.
+title: Impact of the Soviet Economic System on Consumer Goods (Algo Trading)
 ---
 
 The Soviet Union, a state characterized by its command economy, presents a fascinating case for examining the production and distribution of consumer goods. For decades, the Soviet government maintained strict control over economic activities, prioritizing industrial and military outputs over consumer needs. Operating under a centralized planning system, the Soviet economy was marked by state-directed production quotas and collective ownership, which often led to systemic inefficiencies and resource misallocation. This highly structured approach failed to accurately assess consumer demand, resulting in persistent shortages of basic goods and a black market that flourished alongside the official economy.

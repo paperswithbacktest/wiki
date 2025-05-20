@@ -1,6 +1,10 @@
 ---
-title: "Cryptocurrency Spoofing: Mechanisms and Prevention (Algo Trading)"
-description: "Explore the world of cryptocurrency spoofing and learn about the mechanisms behind this manipulative practice and its impact on market dynamics. Discover how algorithmic trading plays a role and the various strategies for prevention and regulation, all critical for maintaining financial integrity in growing crypto markets."
+category: quant_concept
+description: Explore the world of cryptocurrency spoofing and learn about the mechanisms
+  behind this manipulative practice and its impact on market dynamics. Discover how
+  algorithmic trading plays a role and the various strategies for prevention and regulation,
+  all critical for maintaining financial integrity in growing crypto markets.
+title: 'Cryptocurrency Spoofing: Mechanisms and Prevention (Algo Trading)'
 ---
 
 Cryptocurrencies have seen a remarkable rise in the financial sector over the past decade, transforming from niche technological novelties into widely recognized financial instruments. This growth is primarily driven by the promise of decentralized finance (DeFi), which aims to offer transparency, reduced costs, and financial inclusivity. Bitcoin, the first cryptocurrency released in 2009, set the stage for a digital currency revolution, followed by the development of various others like Ethereum, Ripple, and Litecoin.

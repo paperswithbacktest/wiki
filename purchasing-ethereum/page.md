@@ -1,6 +1,8 @@
 ---
-title: "Purchasing Ethereum (Algo Trading)"
-description: "Discover the potential of Ethereum in crypto investing and trading. Learn about its acquisition, smart contract technology, and algorithmic trading strategies."
+category: trading_strategy
+description: Discover the potential of Ethereum in crypto investing and trading. Learn
+  about its acquisition, smart contract technology, and algorithmic trading strategies.
+title: Purchasing Ethereum (Algo Trading)
 ---
 
 Ethereum has rapidly ascended as a prominent figure in the cryptocurrency landscape, capturing the attention of investors and traders alike. Unlike other cryptocurrencies, Ethereum's value proposition extends beyond being a digital currency; it stands as a groundbreaking platform for decentralized applications (dApps), with its smart contract technology revolutionizing the way transactions and digital agreements are executed.

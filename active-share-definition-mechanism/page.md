@@ -1,6 +1,8 @@
 ---
-title: "Active Share: Definition and Mechanism (Algo Trading)"
-description: "Explore active share in investment strategies and algorithmic trading's role in enhancing portfolio management, focusing on returns and risk minimization."
+category: quant_concept
+description: Explore active share in investment strategies and algorithmic trading's
+  role in enhancing portfolio management, focusing on returns and risk minimization.
+title: 'Active Share: Definition and Mechanism (Algo Trading)'
 ---
 
 In finance, effective portfolio management plays a vital role in maximizing returns while minimizing risks. At the forefront of contemporary strategies, active portfolio management and algorithmic trading have gained significant traction due to their potential to enhance investment outcomes. This article seeks to provide a comprehensive overview of key financial strategies, including portfolio management, investment analysis, active share, and the role of algorithmic trading in optimizing these strategies.

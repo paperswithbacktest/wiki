@@ -1,6 +1,8 @@
 ---
-title: "Difference Between Capital Gains and Investment Income (Algo Trading)"
-description: "Explore the key differences between capital gains and investment income with a focus on taxation and algorithmic trading implications for investors."
+category: quant_concept
+description: Explore the key differences between capital gains and investment income
+  with a focus on taxation and algorithmic trading implications for investors.
+title: Difference Between Capital Gains and Investment Income (Algo Trading)
 ---
 
 Understanding the different facets of income generated through investments is crucial for any investor, be it a beginner or a seasoned professional. Navigating through the financial landscape requires a strong grasp of capital gains and the various types of investment incomes. These include interest, dividends, and other returns, each carrying unique financial implications and tax treatments. As financial markets become increasingly complex, differentiating between these income streams is vital for effective tax planning and wealth management.

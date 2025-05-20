@@ -1,6 +1,9 @@
 ---
-title: "Cash Asset Ratio and Its Calculation (Algo Trading)"
-description: "Discover how the cash asset ratio is calculated and its role in algorithmic trading. Learn to enhance trading strategies with liquidity metrics to ensure financial stability."
+category: quant_concept
+description: Discover how the cash asset ratio is calculated and its role in algorithmic
+  trading. Learn to enhance trading strategies with liquidity metrics to ensure financial
+  stability.
+title: Cash Asset Ratio and Its Calculation (Algo Trading)
 ---
 
 Financial markets rely heavily on specific metrics to evaluate a company's financial standing and performance. One of the key metrics is the cash asset ratio, a crucial measure of liquidity that assesses a firm's ability to meet its short-term obligations. The cash asset ratio is defined as the sum of cash and cash equivalents divided by current liabilities, serving as an important indicator of a company's immediate financial health. 

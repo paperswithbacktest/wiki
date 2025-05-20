@@ -1,6 +1,8 @@
 ---
-title: "Round-Trip Trading: Analysis and Examples (Algo Trading)"
-description: "Discover the complexities of round-trip trading in the financial world including its ethical implications and role in algorithmic trading strategies."
+category: trading_strategy
+description: Discover the complexities of round-trip trading in the financial world
+  including its ethical implications and role in algorithmic trading strategies.
+title: 'Round-Trip Trading: Analysis and Examples (Algo Trading)'
 ---
 
 The financial world operates as a complex network of transactions, where ethical behavior underpins trust and stability. This intricate environment has birthed numerous practices, one of which is round-trip trading. This practice involves the cyclical buying and selling of the same security, sparking questions about its ethical and legal implications. Such transactions can be used to artificially boost trading volumes or misrepresent a security's demand, raising ethical concerns.

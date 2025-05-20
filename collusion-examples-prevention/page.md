@@ -1,6 +1,8 @@
 ---
-title: "Collusion: Examples and Prevention (Algo Trading)"
-description: "Explore how algorithmic trading can lead to collusion with real-world examples and learn strategies to prevent unethical practices ensuring market integrity."
+category: quant_concept
+description: Explore how algorithmic trading can lead to collusion with real-world
+  examples and learn strategies to prevent unethical practices ensuring market integrity.
+title: 'Collusion: Examples and Prevention (Algo Trading)'
 ---
 
 Algorithmic trading has significantly impacted financial markets by facilitating rapid, efficient transactions that were previously unattainable with traditional trading methods. The use of algorithms allows traders to execute orders at speeds and frequencies that would be impossible for human traders, thus optimizing profits and market efficiency. However, along with these advancements come potential ethical concerns, such as the risk of collusion among traders.

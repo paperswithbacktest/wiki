@@ -1,6 +1,9 @@
 ---
-title: "Inside Market: Overview and Functionality (Algo Trading)"
-description: "Explore how algorithmic trading transforms financial markets by enhancing efficiency and liquidity. Understand the role of the inside market in optimizing trading strategies."
+category: quant_concept
+description: Explore how algorithmic trading transforms financial markets by enhancing
+  efficiency and liquidity. Understand the role of the inside market in optimizing
+  trading strategies.
+title: 'Inside Market: Overview and Functionality (Algo Trading)'
 ---
 
 The modern trading landscape has undergone tremendous transformation with the integration of technology, particularly through the development of algorithmic trading. This form of trading, often referred to as algo-trading, utilizes sophisticated computer programs to execute trades at speeds and efficiencies beyond human capability. Algorithmic trading is characterized by its ability to process vast amounts of data in real-time, identify trading opportunities, and execute orders within milliseconds. This capability is augmented by advanced algorithms that can analyze market trends, assess risks, and make decisions without human intervention.

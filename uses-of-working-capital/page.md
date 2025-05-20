@@ -1,6 +1,9 @@
 ---
-title: "Uses of Working Capital (Algo Trading)"
-description: "Explore how working capital and algorithmic trading intersect to optimize financial operations. Discover strategies for managing investments and enhancing liquidity."
+category: trading_strategy
+description: Explore how working capital and algorithmic trading intersect to optimize
+  financial operations. Discover strategies for managing investments and enhancing
+  liquidity.
+title: Uses of Working Capital (Algo Trading)
 ---
 
 The intersection of finance and technology has significantly transformed the way businesses handle their financial and investment activities. This evolution has given rise to a multifaceted field known as business finance, which encompasses various strategies aimed at optimizing cash flow, managing investments, and leveraging technological solutions for trading. 

@@ -1,6 +1,8 @@
 ---
-title: "AlphaGrep (Algo Trading)"
-description: "AlphaGrep excels in quantitative trading with advanced algorithmic strategies, offering liquidity on 30+ global exchanges to enhance market efficiency."
+category: trading_strategy
+description: AlphaGrep excels in quantitative trading with advanced algorithmic strategies,
+  offering liquidity on 30+ global exchanges to enhance market efficiency.
+title: AlphaGrep (Algo Trading)
 ---
 
 AlphaGrep stands as a distinguished entity within the domain of quantitative trading and investment. Since its inception in 2010, the firm has pioneered the development of advanced algorithmic trading strategies. These strategies are critical in modern trading, where the ability to execute transactions in milliseconds can determine profitable outcomes. The company's operations span over 30 global exchanges, encompassing a wide array of asset classes, showcasing its versatility and adaptability in diverse market environments.

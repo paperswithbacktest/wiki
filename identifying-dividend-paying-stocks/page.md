@@ -1,6 +1,8 @@
 ---
-title: "Identifying Dividend-Paying Stocks (Algo Trading)"
-description: "Optimize returns by combining dividend investing with algorithmic trading Discover key strategies and metrics to enhance your financial market strategy"
+category: trading_strategy
+description: Optimize returns by combining dividend investing with algorithmic trading
+  Discover key strategies and metrics to enhance your financial market strategy
+title: Identifying Dividend-Paying Stocks (Algo Trading)
 ---
 
 The stock market has transformed into a rapidly changing environment, increasingly influenced by dividend strategies and algorithmic trading. With the advent of sophisticated technology and data analytics, investors are eager to optimize returns by combining time-tested dividend investing techniques with modern algorithmic tools. Dividend stocks, which represent equity in companies that regularly distribute a portion of their earnings to shareholders, offer a stable and relatively predictable source of income, appealing to those with long-term financial objectives. Key indicators like dividend yield and payout ratio are vital in evaluating these stocks. 

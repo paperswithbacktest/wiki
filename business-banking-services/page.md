@@ -1,6 +1,8 @@
 ---
-title: "Business Banking Services (Algo Trading)"
-description: "Explore the integration of business banking services corporate finance and algorithmic trading to optimize financial management and drive sustainable growth."
+category: quant_concept
+description: Explore the integration of business banking services corporate finance
+  and algorithmic trading to optimize financial management and drive sustainable growth.
+title: Business Banking Services (Algo Trading)
 ---
 
 In today's rapidly evolving financial landscape, banking services, corporate finance, and algorithmic trading are essential components that underpin business operations and facilitate economic growth. These elements are not only interconnected but also symbiotic, supporting each other in maintaining a robust financial ecosystem. 

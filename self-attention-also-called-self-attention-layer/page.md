@@ -1,7 +1,8 @@
 ---
-title: Understanding Self-Attention Mechanisms in Machine Learning
+category: quant_concept
 description: Self-attention empowers models to weigh input relationships for deeper
   context understanding and efficient language processing Discover more inside
+title: Understanding Self-Attention Mechanisms in Machine Learning
 ---
 
 ![Image](images/1.png)

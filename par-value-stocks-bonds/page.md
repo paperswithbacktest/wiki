@@ -1,6 +1,9 @@
 ---
-title: "Par Value of Stocks and Bonds (Algo Trading)"
-description: "Explore integral financial concepts like par value in stocks and bonds, and understand algorithmic trading's impact on modern investment strategies for informed decision-making."
+category: quant_concept
+description: Explore integral financial concepts like par value in stocks and bonds,
+  and understand algorithmic trading's impact on modern investment strategies for
+  informed decision-making.
+title: Par Value of Stocks and Bonds (Algo Trading)
 ---
 
 Understanding the intricate dynamics of finance involves grasping key concepts such as bonds, stocks, par value, and algorithmic trading. These components play pivotal roles in shaping investment strategies and financial decision-making. Bonds and stocks represent fundamental investment vehicles, with bonds being debt securities issued by entities like governments and corporations to raise capital, while stocks signify ownership in a company. The concept of par value is crucial in both. For bonds, par value determines the maturity value and coupon payments, influencing the investment's return profile. In stocks, par value is more of a nominal figure important for legal and accounting purposes.

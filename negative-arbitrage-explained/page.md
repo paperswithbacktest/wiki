@@ -1,6 +1,9 @@
 ---
-title: "Negative Arbitrage Explained (Algo Trading)"
-description: "Discover the intricacies of negative arbitrage and algorithmic trading to enhance your investment strategies and navigate modern financial complexities efficiently."
+category: quant_concept
+description: Discover the intricacies of negative arbitrage and algorithmic trading
+  to enhance your investment strategies and navigate modern financial complexities
+  efficiently.
+title: Negative Arbitrage Explained (Algo Trading)
 ---
 
 In today’s fast-paced financial world, investment strategies are continually evolving as investors strive to maximize returns while minimizing risks. Two critical concepts in this landscape are negative arbitrage and algorithmic trading, each playing a significant role in shaping modern financial strategies.

@@ -1,6 +1,8 @@
 ---
-title: "Ginnie Mae Pass-Through: Overview and Mechanisms (Algo Trading)"
-description: "Explore Ginnie Mae pass-through securities, their secure returns backed by the U.S. government, and learn about their role in algorithmic trading strategies."
+category: quant_concept
+description: Explore Ginnie Mae pass-through securities, their secure returns backed
+  by the U.S. government, and learn about their role in algorithmic trading strategies.
+title: 'Ginnie Mae Pass-Through: Overview and Mechanisms (Algo Trading)'
 ---
 
 Mortgage-backed securities (MBS) are financial instruments that aggregate a collection of mortgages into a unified security. Investors purchase these securities and receive returns based on the interest and principal payments from homeowners. This pooling and securitization process transforms individual home loans into liquid financial assets, facilitating greater capital flow in the mortgage market.

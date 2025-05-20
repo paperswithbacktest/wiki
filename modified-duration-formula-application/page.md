@@ -1,6 +1,8 @@
 ---
-title: "Modified Duration Formula and Application (Algo Trading)"
-description: "Explore the application of modified duration in bond trading and algorithmic strategies to better manage interest rate risk and optimize investment portfolios."
+category: quant_concept
+description: Explore the application of modified duration in bond trading and algorithmic
+  strategies to better manage interest rate risk and optimize investment portfolios.
+title: Modified Duration Formula and Application (Algo Trading)
 ---
 
 The financial landscape is in a state of constant change, driven by global economic shifts and innovative investment strategies. In this dynamic environment, bond trading stands as a vital component of fixed-income investments, requiring sophisticated analysis tools to manage the risks associated with fluctuations in interest rates. Modified duration is one such tool, providing a critical measure for analyzing bond price sensitivity to changes in interest rates. As interest rates rise or fall, the value of bonds can vary significantly, and modified duration helps quantify this risk, offering investors a clearer understanding of potential price volatility.

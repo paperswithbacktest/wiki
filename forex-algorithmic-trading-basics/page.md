@@ -1,6 +1,9 @@
 ---
-title: "Forex Algorithmic Trading Basics (Algo Trading)"
-description: "Explore the transformative power of algorithmic trading in the forex market Learn how technology enhances strategies reduces human error and democratizes access"
+category: trading_strategy
+description: Explore the transformative power of algorithmic trading in the forex
+  market Learn how technology enhances strategies reduces human error and democratizes
+  access
+title: Forex Algorithmic Trading Basics (Algo Trading)
 ---
 
 Trading has experienced a profound transformation over the decades, driven primarily by technological advancements. One of the most significant innovations in this landscape is algorithmic trading, particularly within the forex market. This article will focus on the integral components of trading, emphasizing the roles of algorithmic and forex trading, and how these elements intertwine to enhance trading strategies.

@@ -1,6 +1,8 @@
 ---
-title: "Basis Value: Concept, Calculation, and Example (Algo Trading)"
-description: "Explore the concept of basis value in algorithmic trading including calculation examples and how it integrates with valuation principles for informed trading decisions."
+category: quant_concept
+description: Explore the concept of basis value in algorithmic trading including calculation
+  examples and how it integrates with valuation principles for informed trading decisions.
+title: 'Basis Value: Concept, Calculation, and Example (Algo Trading)'
 ---
 
 Valuation is a fundamental process in finance, essential for providing insights into the true worth of a company or asset. Accurate valuation forms the bedrock of informed investment and trading decisions, offering a systematic basis for assessing asset value. This article examines various valuation concepts and techniques, particularly their application within algorithmic trading through the financial calculation of basis value. In this context, valuation is pivotal, enabling investors and traders to navigate the complexities of financial markets with increased confidence.

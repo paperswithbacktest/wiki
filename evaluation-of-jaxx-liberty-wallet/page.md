@@ -1,6 +1,9 @@
 ---
-title: "Evaluation of Jaxx Liberty Wallet (Algo Trading)"
-description: "Discover Jaxx Liberty Wallet's versatility in securely managing over 80 digital currencies with an easy interface real-time data and seamless crypto swaps."
+category: dataset
+description: Discover Jaxx Liberty Wallet's versatility in securely managing over
+  80 digital currencies with an easy interface real-time data and seamless crypto
+  swaps.
+title: Evaluation of Jaxx Liberty Wallet (Algo Trading)
 ---
 
 In the fast-evolving world of cryptocurrencies, ensuring your digital assets are securely stored and easily accessible is vital. With the increasing number of digital currencies available, a wallet that supports multiple assets and offers top-notch security becomes essential. Jaxx Liberty emerges as a robust solution for cryptocurrency enthusiasts, celebrated for its versatility and comprehensive range of supported assets.

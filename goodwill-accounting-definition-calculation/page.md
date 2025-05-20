@@ -1,6 +1,9 @@
 ---
-title: "Goodwill in Accounting: Definition and Calculation (Algo Trading)"
-description: "Explore goodwill in accounting and its role in valuing acquisitions as a unique intangible asset Learn how algorithmic trading influences goodwill perception and strategy"
+category: quant_concept
+description: Explore goodwill in accounting and its role in valuing acquisitions as
+  a unique intangible asset Learn how algorithmic trading influences goodwill perception
+  and strategy
+title: 'Goodwill in Accounting: Definition and Calculation (Algo Trading)'
 ---
 
 Intangible assets have become a cornerstone of modern economies, playing a crucial role in the valuation and strategic positioning of companies. Unlike tangible assets, such as machinery or real estate, intangible assets are non-physical resources that generate value. They encompass a wide range of elements, including intellectual property, brand recognition, and proprietary technology. Among these, goodwill stands out as a unique intangible asset that arises during the acquisition of one company by another, representing the premium paid over the fair market value of tangible and identifiable intangible assets.

@@ -1,6 +1,8 @@
 ---
-title: "quantitative portfolio execution (Algo Trading)"
-description: "Explore the world of quantitative portfolio execution where algorithmic trading harnesses mathematical models and data to refine financial strategies efficiently."
+category: trading_strategy
+description: Explore the world of quantitative portfolio execution where algorithmic
+  trading harnesses mathematical models and data to refine financial strategies efficiently.
+title: quantitative portfolio execution (Algo Trading)
 ---
 
 Quantitative portfolio execution, commonly referred to as algorithmic trading, has fundamentally transformed financial markets by seamlessly integrating cutting-edge technology with advanced financial strategies. At its core, algorithmic trading utilizes a blend of mathematical models, statistical methods, and substantial computing power to refine and implement trading strategies with precision and efficiency.

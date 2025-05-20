@@ -1,6 +1,9 @@
 ---
-title: "Impact of Working Capital Changes on Cash Flow (Algo Trading)"
-description: "Explore how working capital changes affect cash flow in algorithmic trading. Understand financial analysis's role in refining strategies for optimal trading decisions."
+category: quant_concept
+description: Explore how working capital changes affect cash flow in algorithmic trading.
+  Understand financial analysis's role in refining strategies for optimal trading
+  decisions.
+title: Impact of Working Capital Changes on Cash Flow (Algo Trading)
 ---
 
 Understanding cash flow, working capital, and financial analysis is essential for investors and financial professionals aiming to make informed decisions in today's dynamic financial markets. These financial components provide critical insights into a company’s financial health and operational efficiency. Cash flow refers to the net amount of cash and cash equivalents moving in and out of a business, which highlights its ability to generate liquidity and meet its obligations. Meanwhile, working capital, defined as the difference between a company’s current assets and liabilities, measures a business’s capability to manage its short-term financial commitments effectively.

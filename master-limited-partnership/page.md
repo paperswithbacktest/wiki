@@ -1,6 +1,13 @@
 ---
-title: "Master Limited Partnership (Algo Trading)"
-description: "Discover the unique benefits of Master Limited Partnerships (MLPs) in the energy sector that combine publicly traded liquidity with partnership tax advantages. Understand their ability to deliver steady income through pass-through taxation and diverse investment structures. Learn how algorithmic trading can enhance MLP strategies by leveraging market inefficiencies and optimizing trades for modern portfolios. This article provides comprehensive insights into maximizing returns and minimizing tax burdens with MLP investments."
+category: quant_concept
+description: Discover the unique benefits of Master Limited Partnerships (MLPs) in
+  the energy sector that combine publicly traded liquidity with partnership tax advantages.
+  Understand their ability to deliver steady income through pass-through taxation
+  and diverse investment structures. Learn how algorithmic trading can enhance MLP
+  strategies by leveraging market inefficiencies and optimizing trades for modern
+  portfolios. This article provides comprehensive insights into maximizing returns
+  and minimizing tax burdens with MLP investments.
+title: Master Limited Partnership (Algo Trading)
 ---
 
 Master Limited Partnerships (MLPs) are a unique investment vehicle that combine the liquidity of publicly traded securities with the tax benefits of partnerships. Typically found in the energy and natural resources sector, MLPs have gained attention for their ability to provide steady income streams to investors, primarily due to their distinctive tax advantages and business structure.

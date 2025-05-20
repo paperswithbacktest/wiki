@@ -1,6 +1,9 @@
 ---
-title: "Commodity Exchange Act: Overview and Functionality (Algo Trading)"
-description: "Explore the Commodity Exchange Act's role in US commodity market regulation and its adaptation to modern algorithmic trading challenges with oversight by the CFTC."
+category: quant_concept
+description: Explore the Commodity Exchange Act's role in US commodity market regulation
+  and its adaptation to modern algorithmic trading challenges with oversight by the
+  CFTC.
+title: 'Commodity Exchange Act: Overview and Functionality (Algo Trading)'
 ---
 
 The Commodity Exchange Act (CEA) serves as the backbone of commodities regulation in the United States, establishing a comprehensive framework to oversee commodity futures and options markets. Enacted in 1936, the CEA was a legislative response to the need for greater market stability and fair competition, reflecting the economic concerns of that era. By imposing regulations, it seeks to curb speculative excesses and prevent market manipulation, setting the stage for a structured and transparent trading environment.

@@ -1,6 +1,9 @@
 ---
-title: "Patent Cliff: Definition and Mechanism (Algo Trading)"
-description: "Explore the impact of patent cliffs on pharmaceuticals and learn strategies to counter revenue losses post-patent expiration, including algorithmic trading solutions."
+category: quant_concept
+description: Explore the impact of patent cliffs on pharmaceuticals and learn strategies
+  to counter revenue losses post-patent expiration, including algorithmic trading
+  solutions.
+title: 'Patent Cliff: Definition and Mechanism (Algo Trading)'
 ---
 
 In today's pharmaceutical landscape, the term 'patent cliff' has become increasingly significant. It describes the substantial revenue loss pharmaceutical companies face when their drug patents expire and generic alternatives emerge. Pharmaceutical patents grant exclusive rights to market a drug, typically for 20 years in the United States, as defined by the U.S. Patent and Trademark Office. However, the true period of market exclusivity is often shorter due to the lengthy research and development (R&D) and regulatory approval processes required before a drug can reach the market. On average, it takes around 10-15 years for a drug to move from the initial discovery phase to market approval, which consumes a significant portion of the patent lifespan.

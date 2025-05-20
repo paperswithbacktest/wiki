@@ -1,6 +1,8 @@
 ---
-title: "Coskewness: Definition and Functionality (Algo Trading)"
-description: "Discover the role of coskewness in finance and algorithmic trading Learn how this advanced statistical measure enhances risk analysis and portfolio optimization"
+category: quant_concept
+description: Discover the role of coskewness in finance and algorithmic trading Learn
+  how this advanced statistical measure enhances risk analysis and portfolio optimization
+title: 'Coskewness: Definition and Functionality (Algo Trading)'
 ---
 
 Statistical measures are fundamental in the field of finance and algorithmic trading, providing essential tools for analyzing data, assessing risks, and making informed decisions. As financial markets become increasingly complex, the need for sophisticated statistical methods to understand price movements, correlations, and risk factors grows. Among these measures, coskewness stands out as a significant concept that offers insights into the asymmetric behavior of asset returns and their interactions.

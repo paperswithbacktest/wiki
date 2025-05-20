@@ -1,6 +1,12 @@
 ---
-title: "Registered Investment Advisor: Roles and Income (Algo Trading)"
-description: "Explore the roles and responsibilities of Registered Investment Advisors and financial advisors as they optimize clients' investment strategies. Understand how algorithmic trading impacts their work within the financial ecosystem. Learn about the fiduciary duties that define RIAs and discover how financial advisors tailor comprehensive financial plans. Gain insights into career possibilities and the evolving landscape of investment advisory."
+category: trading_strategy
+description: Explore the roles and responsibilities of Registered Investment Advisors
+  and financial advisors as they optimize clients' investment strategies. Understand
+  how algorithmic trading impacts their work within the financial ecosystem. Learn
+  about the fiduciary duties that define RIAs and discover how financial advisors
+  tailor comprehensive financial plans. Gain insights into career possibilities and
+  the evolving landscape of investment advisory.
+title: 'Registered Investment Advisor: Roles and Income (Algo Trading)'
 ---
 
 The financial advisory field is a multifaceted industry encompassing a range of roles dedicated to optimizing clients' investment strategies. At the forefront of this field are Registered Investment Advisors (RIAs) and financial advisors, both of whom are integral to the management of portfolio assets. RIAs and financial advisors each bring distinct approaches and responsibilities to the table, shaping the ways in which investments are managed and portfolios are structured.

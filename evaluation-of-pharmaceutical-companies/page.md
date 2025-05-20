@@ -1,6 +1,8 @@
 ---
-title: "Evaluation of Pharmaceutical Companies (Algo Trading)"
-description: "Discover the comprehensive evaluation of pharmaceutical companies with insights on complex valuation processes and the impact of algorithmic trading strategies."
+category: trading_strategy
+description: Discover the comprehensive evaluation of pharmaceutical companies with
+  insights on complex valuation processes and the impact of algorithmic trading strategies.
+title: Evaluation of Pharmaceutical Companies (Algo Trading)
 ---
 
 The pharmaceutical industry is recognized for its intricate dynamics and operational complexities, which stem from several critical factors. Among these are the long development cycles inherent to drug discovery and commercialization, rigorous regulatory approval processes enforced by entities such as the U.S. Food and Drug Administration (FDA), and the significant research and development (R&D) investments required for innovation. These elements together define the landscape of the pharmaceutical sector, influencing not only how companies operate but also how they are valued.

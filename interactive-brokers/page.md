@@ -1,6 +1,13 @@
 ---
-title: "Interactive Brokers (Algo Trading)"
-description: Interactive Brokers facilitates algorithmic trading by offering a sophisticated suite of trading platforms and robust API support, allowing traders to execute complex strategies with precision and speed. As a leader in advanced technology and global market access, Interactive Brokers is ideal for both individual and institutional traders seeking automated trading solutions. With platforms like Trader Workstation, IBKR Mobile, and WebTrader, users can efficiently manage and optimize their algo trading activities, ensuring a competitive advantage in the financial markets.
+category: trading_strategy
+description: Interactive Brokers facilitates algorithmic trading by offering a sophisticated
+  suite of trading platforms and robust API support, allowing traders to execute complex
+  strategies with precision and speed. As a leader in advanced technology and global
+  market access, Interactive Brokers is ideal for both individual and institutional
+  traders seeking automated trading solutions. With platforms like Trader Workstation,
+  IBKR Mobile, and WebTrader, users can efficiently manage and optimize their algo
+  trading activities, ensuring a competitive advantage in the financial markets.
+title: Interactive Brokers (Algo Trading)
 ---
 
 Algorithmic trading, commonly referred to as algo trading, has fundamentally transformed the landscape of the financial markets. This approach utilizes computer programs to execute trading strategies at high speeds and with precision that surpasses human capabilities. By leveraging algorithms, traders can automatically carry out orders based on pre-defined criteria such as timing, price, and volume. This methodology significantly reduces human error and streamlines the trading process, which can result in more efficient and profitable trading outcomes.

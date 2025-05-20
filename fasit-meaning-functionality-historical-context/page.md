@@ -1,6 +1,9 @@
 ---
-title: "FASIT: Meaning, Functionality, and Historical Context (Algo Trading)"
-description: "Discover the interplay between FASITs and algorithmic trading in finance. Learn about their historical, regulatory, and technological influences shaping today's markets."
+category: quant_concept
+description: Discover the interplay between FASITs and algorithmic trading in finance.
+  Learn about their historical, regulatory, and technological influences shaping today's
+  markets.
+title: 'FASIT: Meaning, Functionality, and Historical Context (Algo Trading)'
 ---
 
 In the constantly evolving landscape of finance, the interplay between tax structures, financial history, and novel trading strategies such as algorithmic trading continues to shape the market. Financial markets have traditionally been influenced by historical precedents and regulatory frameworks, which provide the foundation for how transactions are executed, assets are valued, and risks are managed. 

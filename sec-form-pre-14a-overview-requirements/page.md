@@ -1,6 +1,9 @@
 ---
-title: "SEC Form PRE 14A: Overview and Requirements (Algo Trading)"
-description: "The SEC Form PRE 14A plays a crucial role in corporate governance by providing shareholders with essential information for informed voting before key company meetings."
+category: quant_concept
+description: The SEC Form PRE 14A plays a crucial role in corporate governance by
+  providing shareholders with essential information for informed voting before key
+  company meetings.
+title: 'SEC Form PRE 14A: Overview and Requirements (Algo Trading)'
 ---
 
 Proxy statements are pivotal documents in the sphere of corporate governance, serving as a critical link between corporate management and shareholders. These documents provide detailed information about key corporate decisions that require shareholder approval, such as the election of directors, mergers, acquisitions, and executive compensation. By facilitating transparency and informed decision-making, proxy statements enhance shareholder engagement and uphold the integrity of corporate governance structures.

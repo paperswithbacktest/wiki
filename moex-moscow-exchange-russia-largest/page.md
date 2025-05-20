@@ -1,6 +1,8 @@
 ---
-title: "MOEX: Moscow Exchange, Russia's Largest Financial Market (Algo Trading)"
-description: "Discover MOEX Russia's premier financial market supporting equity bonds and algo trading boosting market efficiency and attracting global investors."
+category: dataset
+description: Discover MOEX Russia's premier financial market supporting equity bonds
+  and algo trading boosting market efficiency and attracting global investors.
+title: 'MOEX: Moscow Exchange, Russia''s Largest Financial Market (Algo Trading)'
 ---
 
 The Moscow Exchange (MOEX) stands as Russia's largest and most prominent financial marketplace. Established in December 2011, MOEX is the result of a strategic merger between two significant trading platforms: the Moscow Interbank Currency Exchange (MICEX) and the Russian Trading System (RTS). This merger aimed to streamline and enhance the trading landscape in Russia by consolidating the trading of various asset classes, leading to improved market efficiency and cost reductions. MOEX offers a comprehensive suite of services that include trading in equities, bonds, derivatives, and other financial instruments, marking its significance in the Russian financial sector.

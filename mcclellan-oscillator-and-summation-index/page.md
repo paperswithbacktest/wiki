@@ -1,6 +1,13 @@
 ---
-title: "McClellan Oscillator and Summation Index Explained (Algo Trading)"
-description: The McClellan Oscillator and Summation Index article provides a comprehensive analysis of these key market indicators, often used by traders to assess market breadth and trends. With a focus on their application in algorithmic trading, it illustrates how these tools can enhance automated trading decisions through quantitative analysis. The detailed explanations on calculating and backtesting strategies with these indicators offer valuable insights for traders seeking to optimize trading models for effective long-term results.
+category: trading_strategy
+description: The McClellan Oscillator and Summation Index article provides a comprehensive
+  analysis of these key market indicators, often used by traders to assess market
+  breadth and trends. With a focus on their application in algorithmic trading, it
+  illustrates how these tools can enhance automated trading decisions through quantitative
+  analysis. The detailed explanations on calculating and backtesting strategies with
+  these indicators offer valuable insights for traders seeking to optimize trading
+  models for effective long-term results.
+title: McClellan Oscillator and Summation Index Explained (Algo Trading)
 ---
 
 The McClellan Summation Index is a widely utilized market breadth indicator that traders depend on to evaluate long-term market trends. Derived from the McClellan Oscillator, this index offers a means to assess the cumulative strength of advancing versus declining stocks, providing insights into the overall health and direction of the market. By tracking fluctuations above and below its zero line, the McClellan Summation Index aids in detecting bullish and bearish divergences, which are essential signals for traders considering potential market reversals.

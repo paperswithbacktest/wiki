@@ -1,6 +1,8 @@
 ---
-title: "Execution Venue Selection (Algo Trading)"
-description: "Optimize your algorithmic trading by selecting the right execution venue considering factors like liquidity, costs, technology, and regulatory compliance."
+category: trading_strategy
+description: Optimize your algorithmic trading by selecting the right execution venue
+  considering factors like liquidity, costs, technology, and regulatory compliance.
+title: Execution Venue Selection (Algo Trading)
 ---
 
 Execution venue selection is a critical component of algorithmic trading, significantly influencing the efficiency, cost, and success of trade executions. The landscape of execution venues is varied, encompassing traditional exchanges, dark pools, and electronic communication networks (ECNs). Each of these options offers distinct advantages and challenges, which necessitate careful evaluation.

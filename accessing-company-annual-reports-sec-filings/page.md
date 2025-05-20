@@ -1,6 +1,9 @@
 ---
-title: "Accessing Company Annual Reports and SEC Filings (Algo Trading)"
-description: "Discover the role of annual reports and SEC filings in financial analysis and algorithmic trading Learn how they enhance transparency and drive investment strategies"
+category: dataset
+description: Discover the role of annual reports and SEC filings in financial analysis
+  and algorithmic trading Learn how they enhance transparency and drive investment
+  strategies
+title: Accessing Company Annual Reports and SEC Filings (Algo Trading)
 ---
 
 Annual reports are fundamental for understanding a company's financial health, offering a comprehensive overview of its performance and strategic direction. They serve as a primary tool for stakeholders, providing detailed insights into the fiscal activities and market position of a corporation. Key components of annual reports, such as financial statements and management analysis, offer crucial metrics and indicators that assist investors and analysts in evaluating a company's economic stability and growth potential.

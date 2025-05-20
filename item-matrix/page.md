@@ -1,7 +1,8 @@
 ---
-title: Building Effective Item Matrices for Recommendation Systems
+category: quant_concept
 description: Item Matrix structures organize item features for accurate machine learning
   recommendations while optimizing data sourcing Discover more inside.
+title: Building Effective Item Matrices for Recommendation Systems
 ---
 
 ![Image](images/1.png)

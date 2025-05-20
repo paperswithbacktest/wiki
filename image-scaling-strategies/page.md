@@ -1,7 +1,8 @@
 ---
-title: FixRes Image Scaling Method for Machine Learning Models
+category: quant_concept
 description: FixRes image scaling preserves original aspect ratios to improve model
   accuracy by scaling and cropping images intelligently Discover more inside
+title: FixRes Image Scaling Method for Machine Learning Models
 ---
 
 ![Image](images/1.png)

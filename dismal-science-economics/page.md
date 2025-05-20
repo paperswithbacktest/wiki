@@ -1,6 +1,9 @@
 ---
-title: "Dismal Science and Its Use in Economics (Algo Trading)"
-description: "Explore the intersection of economics and technology through algorithmic trading Understand how the dismal science shapes today's trading systems and economic frameworks"
+category: quant_concept
+description: Explore the intersection of economics and technology through algorithmic
+  trading Understand how the dismal science shapes today's trading systems and economic
+  frameworks
+title: Dismal Science and Its Use in Economics (Algo Trading)
 ---
 
 Economics, often dubbed the "dismal science," plays an essential role in shaping financial paradigms and trading systems worldwide. The term was coined by Thomas Carlyle in the 19th century, initially to describe the grim predictions associated with economic analysis, particularly those concerning population growth and resource scarcity posited by Thomas Malthus. Despite its bleak connotations, economics provides a comprehensive framework for understanding and addressing real-world challenges, influencing policy-making, business strategy, and personal financial decisions.

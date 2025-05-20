@@ -1,6 +1,9 @@
 ---
-title: "Recession Resistant Industries and Strategies (Algo Trading)"
-description: "Discover effective strategies and invest in recession-resistant industries with algorithmic trading for economic resilience and portfolio stability during downturns."
+category: trading_strategy
+description: Discover effective strategies and invest in recession-resistant industries
+  with algorithmic trading for economic resilience and portfolio stability during
+  downturns.
+title: Recession Resistant Industries and Strategies (Algo Trading)
 ---
 
 Navigating through recessions is a paramount concern in today's economic landscape, emphasizing the necessity for both businesses and individuals to be equipped with robust strategies. The convergence of economic strategies, recession-resistant industries, and advanced algorithmic trading (algo trading) techniques offers a significant avenue for bolstering resilience during economic downturns. This article aims to explore the potent combination of these factors and how they contribute to a more resilient investment portfolio.

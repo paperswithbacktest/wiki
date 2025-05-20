@@ -1,6 +1,8 @@
 ---
-title: "Locating a BIPOC Financial Advisor or Planner (Algo Trading)"
-description: "Discover the importance of finding BIPOC financial advisors and understand how diversity in finance boosts innovation, equity, and better client relations."
+category: trading_strategy
+description: Discover the importance of finding BIPOC financial advisors and understand
+  how diversity in finance boosts innovation, equity, and better client relations.
+title: Locating a BIPOC Financial Advisor or Planner (Algo Trading)
 ---
 
 The financial sector has traditionally exhibited a homogeneous landscape, predominantly characterized by a limited demographic, resulting in a significant lack of diversity among financial planners and advisors. This narrow representation stands in contrast to the diverse clientele and globalized economy these professionals serve. The absence of diversity not only reinforces systemic inequities but also influences the effectiveness and breadth of financial advice and services offered. 

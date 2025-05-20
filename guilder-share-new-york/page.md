@@ -1,6 +1,8 @@
 ---
-title: "Guilder Share in New York (Algo Trading)"
-description: "Explore the evolution of Guilder shares from their role in global trading before ADRs to their influence on cross-border financial integration today."
+category: trading_strategy
+description: Explore the evolution of Guilder shares from their role in global trading
+  before ADRs to their influence on cross-border financial integration today.
+title: Guilder Share in New York (Algo Trading)
 ---
 
 Guilder shares, colloquially referred to as New York Shares, played a critical role in global trading practices involving Dutch companies prior to the development of American Depository Receipts (ADRs). These financial instruments were integral at a time when strict Dutch regulations prohibited the trading of domestic stocks on foreign exchanges. By creating a workaround, Guilder shares enabled U.S. investors to own stakes in companies primarily listed in the Netherlands, while Dutch companies could still tap into the capital-rich U.S. markets. This mechanism fundamentally allowed Dutch businesses to grow internationally, despite regulatory constraints.

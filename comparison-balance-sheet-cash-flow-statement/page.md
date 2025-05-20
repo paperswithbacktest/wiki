@@ -1,6 +1,8 @@
 ---
-title: "Comparison of Balance Sheet and Cash Flow Statement (Algo Trading)"
-description: "Explore the crucial role of balance sheets and cash flow statements in algo trading Learn how to leverage these documents for data-driven trading strategies"
+category: quant_concept
+description: Explore the crucial role of balance sheets and cash flow statements in
+  algo trading Learn how to leverage these documents for data-driven trading strategies
+title: Comparison of Balance Sheet and Cash Flow Statement (Algo Trading)
 ---
 
 In today's complex financial landscape, investors and traders must possess a deep understanding of key financial documents to make informed decisions. Among these documents, the balance sheet and the cash flow statement are fundamental, providing essential insights into a company's financial health. The balance sheet offers a snapshot of a company's financial condition at a specific point in time, detailing its assets, liabilities, and shareholders' equity. In contrast, the cash flow statement tracks the inflow and outflow of cash over a period, revealing how well a company manages its cash operations.

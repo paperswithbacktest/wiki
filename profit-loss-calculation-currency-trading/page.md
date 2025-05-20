@@ -1,6 +1,10 @@
 ---
-title: "Profit and Loss Calculation in Currency Trading (Algo Trading)"
-description: "Discover the fundamentals of profit and loss calculation in currency trading and how algorithmic trading revolutionizes financial analysis. Gain insights into maximizing opportunities within the forex market while managing risks effectively through strategic analysis."
+category: trading_strategy
+description: Discover the fundamentals of profit and loss calculation in currency
+  trading and how algorithmic trading revolutionizes financial analysis. Gain insights
+  into maximizing opportunities within the forex market while managing risks effectively
+  through strategic analysis.
+title: Profit and Loss Calculation in Currency Trading (Algo Trading)
 ---
 
 Currency trading, commonly referred to as forex trading, is a global financial activity that involves the exchange of currencies on a decentralized marketplace. This trading arena offers substantial opportunities for profit due to its large volume and liquidity, yet it also entails significant risks that require thorough analysis to navigate successfully. A pivotal component of succeeding in this venture is understanding the fundamentals of profit and loss, which are crucial for strategic decision-making and ensuring long-term success. 

@@ -1,6 +1,10 @@
 ---
-title: "Comparison of EBIT and Operating Income (Algo Trading)"
-description: "Explore the essential differences and applications of EBIT and Operating Income in algorithmic trading to enhance profitability and operational analysis. Discover how these key financial metrics serve as vital tools for traders, offering insights into company performance and informing precise automated trading decisions."
+category: trading_strategy
+description: Explore the essential differences and applications of EBIT and Operating
+  Income in algorithmic trading to enhance profitability and operational analysis.
+  Discover how these key financial metrics serve as vital tools for traders, offering
+  insights into company performance and informing precise automated trading decisions.
+title: Comparison of EBIT and Operating Income (Algo Trading)
 ---
 
 In the world of finance, understanding and utilizing the right financial metrics is crucial for success. Choosing appropriate financial indicators enables investors and traders to evaluate potential investments effectively, assess business performance, and make informed trading decisions. Among the myriad of financial metrics available, EBIT (Earnings Before Interest and Taxes) and Operating Income stand out as vital tools, particularly when applied within the rapidly evolving sphere of algorithmic trading.

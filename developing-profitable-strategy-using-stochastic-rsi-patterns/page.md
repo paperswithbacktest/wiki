@@ -1,6 +1,9 @@
 ---
-title: "Developing a Profitable Strategy Using Stochastic RSI Patterns (Algo Trading)"
-description: "Discover how to develop a profitable algorithmic trading strategy using Stochastic RSI patterns. Leverage this technical indicator for better market insights and decision-making."
+category: trading_strategy
+description: Discover how to develop a profitable algorithmic trading strategy using
+  Stochastic RSI patterns. Leverage this technical indicator for better market insights
+  and decision-making.
+title: Developing a Profitable Strategy Using Stochastic RSI Patterns (Algo Trading)
 ---
 
 In today's trading environment, identifying profitable trading patterns is paramount for success. Among the numerous tools available, the Stochastic RSI is a central technical indicator for traders. This indicator combines the insights of the Stochastic Oscillator and the Relative Strength Index (RSI) to provide a more sensitive measure of an asset's momentum and price trend. This article will explore how traders can utilize Stochastic RSI to construct a profitable trading strategy, with a focus on algorithmic trading.

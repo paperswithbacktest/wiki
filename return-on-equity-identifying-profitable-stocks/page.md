@@ -1,6 +1,8 @@
 ---
-title: "Return on Equity as a Tool for Identifying Profitable Stocks (Algo Trading)"
-description: "Discover how Return on Equity can identify profitable stocks and enhance trading strategies through algorithmic trading for optimal investment returns."
+category: trading_strategy
+description: Discover how Return on Equity can identify profitable stocks and enhance
+  trading strategies through algorithmic trading for optimal investment returns.
+title: Return on Equity as a Tool for Identifying Profitable Stocks (Algo Trading)
 ---
 
 The world of stock investment is extensive and complex, encompassing a multitude of strategies that aim to achieve profitability. Among these strategies, evaluating a company's ability to generate profits efficiently, relative to the equity provided by shareholders, is critical. Return on Equity (ROE) serves as a vital metric in this evaluation. It provides insight into how effectively a company is utilizing its equity capital to produce profits, expressed as a percentage. By calculating ROE, investors can compare companies within the same industry to identify potential opportunities. The formula for ROE is given by:

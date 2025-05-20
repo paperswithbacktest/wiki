@@ -1,6 +1,9 @@
 ---
-title: "Lowest Possible Price: Definition and Mechanisms (Algo Trading)"
-description: "Explore how algorithmic trading enhances pricing strategies and cost control in business. Discover the interplay of technology and market dynamics for competitive advantage."
+category: quant_concept
+description: Explore how algorithmic trading enhances pricing strategies and cost
+  control in business. Discover the interplay of technology and market dynamics for
+  competitive advantage.
+title: 'Lowest Possible Price: Definition and Mechanisms (Algo Trading)'
 ---
 
 The modern marketplace is constantly evolving, with businesses seeking competitive advantages through innovative strategies. Pricing strategies play a pivotal role in this pursuit, as they can decisively influence consumer behavior and directly affect company profitability. By setting appropriate pricing, businesses can attract and retain customers, enhance market share, and improve their overall financial performance.

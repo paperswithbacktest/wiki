@@ -1,6 +1,9 @@
 ---
-title: "Comparison of Marginal Propensity to Consume and Save (Algo Trading)"
-description: "Explore the impact of Marginal Propensity to Consume and Save on economic trends and algorithmic trading strategies by analyzing key economic indicators for better market predictions."
+category: quant_concept
+description: Explore the impact of Marginal Propensity to Consume and Save on economic
+  trends and algorithmic trading strategies by analyzing key economic indicators for
+  better market predictions.
+title: Comparison of Marginal Propensity to Consume and Save (Algo Trading)
 ---
 
 In today's complex economic landscape, understanding consumer behavior and its impact on the economy is crucial. The Marginal Propensity to Consume (MPC) and the Marginal Propensity to Save (MPS) are pivotal concepts that offer insights into how individuals allocate their income between consumption and savings. These metrics are essential for analyzing consumer spending patterns, which have far-reaching implications for economic stability and policy-making. 

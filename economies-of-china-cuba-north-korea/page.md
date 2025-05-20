@@ -1,6 +1,9 @@
 ---
-title: "Economies of China, Cuba, and North Korea (Algo Trading)"
-description: "Explore the unique socialist economies of China, Cuba, and North Korea, their technological integration, and the global impact of their distinct economic models."
+category: quant_concept
+description: Explore the unique socialist economies of China, Cuba, and North Korea,
+  their technological integration, and the global impact of their distinct economic
+  models.
+title: Economies of China, Cuba, and North Korea (Algo Trading)
 ---
 
 In today's globalized world, the economies of different countries are more interconnected than ever before. While economic integration offers numerous benefits, it also highlights the diversity of economic systems that individual nations maintain. North Korea, Cuba, and China are often studied for their unique approaches to socialism within the context of a rapidly globalizing economy. Each of these countries adopts socialist principles but applies them in differing ways that reflect their historical, ideological, and economic imperatives.

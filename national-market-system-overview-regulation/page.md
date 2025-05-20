@@ -1,6 +1,8 @@
 ---
-title: "National Market System: Overview and Regulation (Algo Trading)"
-description: "Explore the National Market System's role in transforming financial markets with transparency and efficiency and its impact on algorithmic trading."
+category: quant_concept
+description: Explore the National Market System's role in transforming financial markets
+  with transparency and efficiency and its impact on algorithmic trading.
+title: 'National Market System: Overview and Regulation (Algo Trading)'
 ---
 
 The financial markets have undergone a significant transformation with the advent of advanced technology and regulatory frameworks. One of the pivotal regulations shaping market operations is the National Market System (NMS) regulation in the United States. Enacted to address the rapidly evolving landscape of trading practices, the NMS seeks to create a cohesive and transparent environment, which is crucial for maintaining the integrity of financial exchanges.

@@ -1,7 +1,8 @@
 ---
-title: Exploring the Sigmoid Function for Machine Learning Models
+category: quant_concept
 description: Sigmoid function maps inputs to probabilities from 0 to 1 in machine
   learning covering its advantages drawbacks and Python examples Discover more inside
+title: Exploring the Sigmoid Function for Machine Learning Models
 ---
 
 ![Image](images/1.png)

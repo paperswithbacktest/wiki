@@ -1,6 +1,8 @@
 ---
-title: "McClellan Summation Index (Algo Trading)"
-description: "Explore the McClellan Summation Index for insights into market breadth and trends Ideal for traders and analysts in technical and algorithmic trading strategies"
+category: trading_strategy
+description: Explore the McClellan Summation Index for insights into market breadth
+  and trends Ideal for traders and analysts in technical and algorithmic trading strategies
+title: McClellan Summation Index (Algo Trading)
 ---
 
 Understanding stock market indicators is crucial for traders and investors looking to navigate the volatile markets successfully. Traders often rely on these tools to make informed decisions and maximize their return on investment while managing risk. One such indicator that has proven valuable in analyzing market breadth is the McClellan Summation Index. This index serves as a powerful tool in assessing the underlying strength or weakness of stock market movements, offering insights into general market sentiment beyond what is visible through price patterns alone.

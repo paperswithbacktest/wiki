@@ -1,6 +1,9 @@
 ---
-title: "Neural networks for volatility modeling (Algo Trading)"
-description: "Explore how neural networks enhance volatility modeling in algorithmic trading Discover machine learning's role in predicting market risk and developing strategies"
+category: quant_concept
+description: Explore how neural networks enhance volatility modeling in algorithmic
+  trading Discover machine learning's role in predicting market risk and developing
+  strategies
+title: Neural networks for volatility modeling (Algo Trading)
 ---
 
 The growing complexity of financial markets necessitates the implementation of sophisticated tools for modeling and predicting volatility. As financial systems become more interconnected and dynamic, traditional models, which often rely on linear assumptions, struggle to capture the intricate relationships inherent in these markets. This limitation has accelerated the shift towards more advanced methodologies, including machine learning and neural networks. These techniques are capable of analyzing complex, non-linear relationships, making them particularly suited for volatility forecasting.

@@ -1,6 +1,8 @@
 ---
-title: "Alexander Hamilton and the Foundations of Wall Street (Algo Trading)"
-description: "Explore how Alexander Hamilton's innovative financial policies laid the groundwork for Wall Street's development and the rise of algorithmic trading."
+category: quant_concept
+description: Explore how Alexander Hamilton's innovative financial policies laid the
+  groundwork for Wall Street's development and the rise of algorithmic trading.
+title: Alexander Hamilton and the Foundations of Wall Street (Algo Trading)
 ---
 
 Alexander Hamilton, a founding father of the United States, was instrumental in shaping the financial foundations of the country. As the first Secretary of the Treasury, Hamilton implemented pioneering policies that established a strong federal financial system, laying the groundwork for America's economic expansion. Notably, he was responsible for creating the First Bank of the United States, which was crucial in stabilizing the young nation's finances, managing debt, and encouraging commerce. Hamilton’s emphasis on a central banking system, funding public debt, and fostering industrial growth set precedents that resonate in modern financial practices.

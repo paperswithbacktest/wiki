@@ -1,6 +1,9 @@
 ---
-title: "Black Swan Events and Investment Impact (Algo Trading)"
-description: "Explore the impact of black swan events on investments and algorithmic trading Discover strategies to manage risks in financial markets during unpredictable times"
+category: quant_concept
+description: Explore the impact of black swan events on investments and algorithmic
+  trading Discover strategies to manage risks in financial markets during unpredictable
+  times
+title: Black Swan Events and Investment Impact (Algo Trading)
 ---
 
 The financial world is inherently unpredictable, often characterized by events known as black swans. These phenomena, named and studied extensively by the risk analyst Nassim Nicholas Taleb, refer to events that are rare, unforeseen, and have significant impacts on investment portfolios and financial markets at large. Due to their unpredictable nature, black swan events pose a considerable challenge for investors, particularly those employing algorithmic trading strategies. Algorithmic trading systems, though sophisticated and fast, primarily rely on historical data to forecast future market behaviors. This reliance can make them vulnerable to unforeseen anomalies, as these models may not be equipped to handle data and scenarios that fall outside their experiential training set.

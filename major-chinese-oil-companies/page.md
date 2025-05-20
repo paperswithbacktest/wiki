@@ -1,6 +1,8 @@
 ---
-title: "Major Chinese Oil Companies (Algo Trading)"
-description: "Explore major Chinese oil firms like CNPC, Sinopec, and CNOOC as they leverage algorithmic trading to enhance operational efficiencies and market strategies."
+category: dataset
+description: Explore major Chinese oil firms like CNPC, Sinopec, and CNOOC as they
+  leverage algorithmic trading to enhance operational efficiencies and market strategies.
+title: Major Chinese Oil Companies (Algo Trading)
 ---
 
 The oil industry in China holds a significant position in the global energy landscape, primarily due to the activities of its largest oil companies. State-owned enterprises such as China National Petroleum Corporation (CNPC), Sinopec, Sinochem Group, CNOOC, and Shandong Energy are pivotal players that contribute to both national and international energy markets. These companies are involved in a comprehensive range of operations, from oil exploration and drilling to refining and distribution. Such extensive activities underscore their vital role in not only meeting China's growing energy demands but also in influencing global oil dynamics.

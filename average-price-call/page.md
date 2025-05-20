@@ -1,6 +1,9 @@
 ---
-title: "Average Price Call (Algo Trading)"
-description: "Discover how average price call options, a type of Asian option, provide unique advantages for risk management and trading strategies through algorithmic trading."
+category: quant_concept
+description: Discover how average price call options, a type of Asian option, provide
+  unique advantages for risk management and trading strategies through algorithmic
+  trading.
+title: Average Price Call (Algo Trading)
 ---
 
 Financial derivatives are pivotal components in modern finance, offering mechanisms for risk management and speculative opportunities. Among these complex instruments, average price call options, commonly referred to as Asian options, stand out for their unique structure and strategic applications. Unlike traditional call options, whose payoff depends on the spot price of the underlying asset at expiration, the payoff of an average price call option is determined by the average price of the underlying asset over a specified period. This averaging feature can mitigate the impact of price volatility and is particularly useful for investors looking to stabilize returns in uncertain market conditions.

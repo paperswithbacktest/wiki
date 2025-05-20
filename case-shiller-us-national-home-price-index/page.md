@@ -1,6 +1,8 @@
 ---
-title: "Case-Shiller U.S. National Home Price Index (Algo Trading)"
-description: "Explore the Case-Shiller U.S. National Home Price Index, a vital tool for understanding housing market trends and enhancing algorithmic trading strategies."
+category: dataset
+description: Explore the Case-Shiller U.S. National Home Price Index, a vital tool
+  for understanding housing market trends and enhancing algorithmic trading strategies.
+title: Case-Shiller U.S. National Home Price Index (Algo Trading)
 ---
 
 Understanding the intricacies of the housing market is essential for investors and financial analysts. The S&P CoreLogic Case-Shiller U.S. National Home Price NSA Index serves as a critical tool for assessing changes in the residential housing market. This index has proven invaluable not only in traditional market analysis but also in the context of automated trading algorithms—a growing facet of modern financial operations. Algorithmic trading, which is heavily reliant on data-driven decisions, benefits immensely from the robust analytical framework provided by the Case-Shiller Index.

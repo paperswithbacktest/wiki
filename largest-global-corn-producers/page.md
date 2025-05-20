@@ -1,6 +1,8 @@
 ---
-title: "Largest Global Corn Producers (Algo Trading)"
-description: "Explore the dynamics of global corn production and the impact of algorithmic trading on markets Discover trends challenges and major corn producers worldwide"
+category: dataset
+description: Explore the dynamics of global corn production and the impact of algorithmic
+  trading on markets Discover trends challenges and major corn producers worldwide
+title: Largest Global Corn Producers (Algo Trading)
 ---
 
 Corn is one of the most significant agricultural commodities produced globally, serving diverse roles across various sectors. As a staple food, it provides essential nutrients to billions of people worldwide. In agriculture, it is a fundamental component of animal feed, supporting the livestock industries that many economies depend on. Furthermore, corn is a key ingredient in numerous industrial products, from biofuels to bioplastics, underscoring its versatility and importance in modern industry.

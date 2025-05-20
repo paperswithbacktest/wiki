@@ -1,6 +1,12 @@
 ---
-title: "Reserve Tranche and IMF Funding (Algo Trading)"
-description: "Explore the importance of reserve tranches and IMF funding in the global financial landscape shaped by algorithmic trading. Understand how these financial mechanisms support liquidity and economic stability while influencing trading strategies and market dynamics. This article provides insights into the interplay between IMF policies and algorithmic trading, offering valuable knowledge for investors seeking to optimize performance in interconnected financial markets."
+category: quant_concept
+description: Explore the importance of reserve tranches and IMF funding in the global
+  financial landscape shaped by algorithmic trading. Understand how these financial
+  mechanisms support liquidity and economic stability while influencing trading strategies
+  and market dynamics. This article provides insights into the interplay between IMF
+  policies and algorithmic trading, offering valuable knowledge for investors seeking
+  to optimize performance in interconnected financial markets.
+title: Reserve Tranche and IMF Funding (Algo Trading)
 ---
 
 Reserve tranches and the International Monetary Fund (IMF) are integral components of the global financial architecture, ensuring international finance and economic stability. In today's rapidly evolving financial landscape, characterized by the proliferation of algorithmic trading, understanding these foundational mechanisms becomes essential. Algorithmic trading relies heavily on data and market predictability, which are profoundly influenced by the stability provided by institutions like the IMF.

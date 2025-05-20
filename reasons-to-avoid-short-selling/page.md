@@ -1,6 +1,8 @@
 ---
-title: "Reasons to Avoid Short Selling (Algo Trading)"
-description: "Avoid short selling in algo trading due to risks like unlimited losses and timing challenges Explore safer market strategies to optimize trading outcomes"
+category: trading_strategy
+description: Avoid short selling in algo trading due to risks like unlimited losses
+  and timing challenges Explore safer market strategies to optimize trading outcomes
+title: Reasons to Avoid Short Selling (Algo Trading)
 ---
 
 The stock market offers a diverse range of strategies that investors and traders can employ to generate profits. One of the more controversial and inherently risky methods is short selling—a strategy that involves selling borrowed stocks with the intention of buying them back at a lower price. This technique allows investors to profit from declining stock prices, earning gains from a market downturn. However, short selling carries significant risks, including potentially unlimited losses if the stock price rises instead. 

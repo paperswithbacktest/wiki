@@ -1,6 +1,8 @@
 ---
-title: "Dividend ETF: Overview and Functionality (Algo Trading)"
-description: "Explore the benefits of Dividend ETFs and algorithmic trading to optimize income-focused investments. Learn how modern technology enhances market strategies."
+category: quant_concept
+description: Explore the benefits of Dividend ETFs and algorithmic trading to optimize
+  income-focused investments. Learn how modern technology enhances market strategies.
+title: 'Dividend ETF: Overview and Functionality (Algo Trading)'
 ---
 
 Exchange Traded Funds (ETFs) have fundamentally transformed how investors access and interact with financial markets by combining the unique benefits of stocks and mutual funds. As investment vehicles, ETFs offer diversity and a relatively lower cost structure, providing investors with an array of options to tailor their investment strategies. With their introduction, ETFs have democratized investing, making it accessible to a broader audience that spans both retail and institutional investors.

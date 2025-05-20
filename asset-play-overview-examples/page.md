@@ -1,6 +1,9 @@
 ---
-title: "Asset Play: Overview and Examples (Algo Trading)"
-description: "Explore the synergy of asset play and algorithmic trading to optimize investment returns. Learn how combining undervalued asset strategies with automation creates robust profits."
+category: trading_strategy
+description: Explore the synergy of asset play and algorithmic trading to optimize
+  investment returns. Learn how combining undervalued asset strategies with automation
+  creates robust profits.
+title: 'Asset Play: Overview and Examples (Algo Trading)'
 ---
 
 In investing, strategies like asset play and algorithmic trading have become influential in shaping diverse investor perspectives. Asset play focuses on identifying undervalued companies by examining discrepancies between market capitalization and actual asset value, allowing investors to capitalize on potential mispricing. Meanwhile, algorithmic trading employs sophisticated computer algorithms to execute trades based on predefined parameters and real-time data, offering advantages of speed, efficiency, and precision not possible in traditional trading methods.

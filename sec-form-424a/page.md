@@ -1,6 +1,9 @@
 ---
-title: "SEC Form 424A (Algo Trading)"
-description: "Explore the crucial role of SEC Form 424A in investment documentation and algorithmic trading ensuring transparency and informed decisions in financial markets."
+category: quant_concept
+description: Explore the crucial role of SEC Form 424A in investment documentation
+  and algorithmic trading ensuring transparency and informed decisions in financial
+  markets.
+title: SEC Form 424A (Algo Trading)
 ---
 
 Understanding investment documentation is crucial for both individual investors and businesses, as it ensures informed decision-making and regulatory compliance within the financial markets. One of the vital components of this documentation is the SEC Form 424A, which plays a significant role in providing essential amendments to previously filed prospectuses. This form, regulated by the Securities and Exchange Commission (SEC), aids in maintaining transparency by updating investors on the latest relevant information regarding the securities in question.

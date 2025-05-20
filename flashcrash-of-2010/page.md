@@ -1,6 +1,11 @@
 ---
-title: "FlashCrash of 2010 (Algo Trading)"
-description: Explore the dramatic events of the 2010 Flash Crash, where the Dow Jones fell nearly 9% in minutes, revealing vulnerabilities in the stock market tied to algorithmic trading and high-frequency trading. This incident serves as a pivotal study in assessing the risks of modern trading technologies, liquidity issues, and the regulatory challenges they present in today's financial landscape.
+category: quant_concept
+description: Explore the dramatic events of the 2010 Flash Crash, where the Dow Jones
+  fell nearly 9% in minutes, revealing vulnerabilities in the stock market tied to
+  algorithmic trading and high-frequency trading. This incident serves as a pivotal
+  study in assessing the risks of modern trading technologies, liquidity issues, and
+  the regulatory challenges they present in today's financial landscape.
+title: FlashCrash of 2010 (Algo Trading)
 ---
 
 On May 6, 2010, the U.S. stock market encountered one of its most dramatic incidents, widely known as the 'Flash Crash.' During this unsettling event, the Dow Jones Industrial Average (DJIA) plummeted approximately 1,000 points—or nearly 9%—within a matter of minutes, only to rapidly recover much of its lost ground shortly thereafter. This sudden and vast fluctuation highlighted significant vulnerabilities within the stock market infrastructure, particularly those associated with the rise of algorithmic trading and high-frequency trading (HFT). Algorithmic trading involves using computer algorithms to automatically execute transactions based on pre-set conditions, often at speeds and frequencies far beyond human capabilities.

@@ -1,6 +1,8 @@
 ---
-title: "Council of Petroleum Accountants Societies (Algo Trading)"
-description: "Explore how COPAS and algorithmic trading transform petroleum accounting; understand the evolving landscape and the need for continued professional development."
+category: quant_concept
+description: Explore how COPAS and algorithmic trading transform petroleum accounting;
+  understand the evolving landscape and the need for continued professional development.
+title: Council of Petroleum Accountants Societies (Algo Trading)
 ---
 
 Oil and gas accounting presents unique challenges due to the intricacies and scale of the industry. This sector is characterized by large-scale operations, significant capital investments, and complex financial transactions, from exploration to production and distribution. These factors create a demanding environment for accounting professionals who must ensure accurate financial reporting and compliance with varying regulations.

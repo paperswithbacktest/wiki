@@ -1,6 +1,8 @@
 ---
-title: "Risk and Reward in Trading High-Beta Stocks (Algo Trading)"
-description: "Explore the dynamics of trading high-beta stocks with algorithmic strategies Learn how to balance risk and reward for optimized investment success."
+category: trading_strategy
+description: Explore the dynamics of trading high-beta stocks with algorithmic strategies
+  Learn how to balance risk and reward for optimized investment success.
+title: Risk and Reward in Trading High-Beta Stocks (Algo Trading)
 ---
 
 In the world of investing, balancing risk and reward is key to achieving financial success. Investors are constantly seeking strategies that maximize returns while effectively managing the inherent risks associated with financial markets. Among the myriad of strategies, high-beta stocks and algorithmic trading have gained significant attention.

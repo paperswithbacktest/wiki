@@ -1,7 +1,8 @@
 ---
-title: Optimizing Machine Learning Training Sets for Model Performance
+category: quant_concept
 description: Machine Learning training sets ensure accurate models by supplying diverse
   labeled data through preprocessing balancing validation Discover more inside.
+title: Optimizing Machine Learning Training Sets for Model Performance
 ---
 
 ![Image](images/1.png)

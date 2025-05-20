@@ -1,6 +1,11 @@
 ---
-title: "Comparison of GDP and GNP (Algo Trading)"
-description: "Explore the vital roles of GDP and GNP in economic analysis and algorithmic trading. Understand their differences: GDP measures domestic production, while GNP includes global citizen contributions. Traders leverage these indicators to enhance trading strategies and predict market trends, ensuring optimal decision-making in response to economic changes."
+category: quant_concept
+description: 'Explore the vital roles of GDP and GNP in economic analysis and algorithmic
+  trading. Understand their differences: GDP measures domestic production, while GNP
+  includes global citizen contributions. Traders leverage these indicators to enhance
+  trading strategies and predict market trends, ensuring optimal decision-making in
+  response to economic changes.'
+title: Comparison of GDP and GNP (Algo Trading)
 ---
 
 In today's fast-paced financial markets, traders and investors are increasingly required to understand economic indicators to make informed decisions. Among the most significant of these indicators are Gross Domestic Product (GDP) and Gross National Product (GNP), both of which provide crucial insights into a nation’s economic health and performance. GDP measures the total value of all goods and services produced within a country's borders, serving as a key indicator of domestic economic activity. In contrast, GNP includes the value of goods and services produced by a country’s citizens, both domestically and abroad, offering a global perspective on economic contributions.

@@ -1,6 +1,9 @@
 ---
-title: "Support and Resistance in Financial Markets (Algo Trading)"
-description: "Explore how support and resistance levels guide trading strategies in financial markets and enhance efficiency through algorithmic trading and breakout techniques."
+category: quant_concept
+description: Explore how support and resistance levels guide trading strategies in
+  financial markets and enhance efficiency through algorithmic trading and breakout
+  techniques.
+title: Support and Resistance in Financial Markets (Algo Trading)
 ---
 
 In the ever-evolving world of financial markets, technical analysis plays a crucial role in guiding traders' decisions. It is a method used to evaluate and forecast the future price movements of securities by examining past market data, primarily price and volume. Central to this technique are the concepts of support and resistance, which provide a framework for understanding market psychology and dynamics.
@@ -168,4 +171,3 @@ For additional insights into algorithmic trading and technical analysis, consult
 - **"Evidence-Based Technical Analysis" by David Aronson**: This book challenges traditional assumptions and methodologies in technical analysis by advocating a scientific approach to trading. Aronson emphasizes the use of statistical and evidence-based techniques to validate trading indicators and systems. By offering a critical look at technical analysis, this work guides traders in developing methodologies that are empirically grounded.
 
 Explore the principles discussed in these works to deepen your understanding and application of trading strategies. By integrating insights from these texts, traders can enhance their analytical frameworks and develop more robust trading strategies.
-

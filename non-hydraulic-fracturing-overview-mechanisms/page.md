@@ -1,6 +1,9 @@
 ---
-title: "Non-Hydraulic Fracturing: Overview and Mechanisms (Algo Trading)"
-description: "Explore non-hydraulic fracturing methods that minimize environmental impact by eliminating water usage in energy extraction and discover their financial optimization through algorithmic trading."
+category: quant_concept
+description: Explore non-hydraulic fracturing methods that minimize environmental
+  impact by eliminating water usage in energy extraction and discover their financial
+  optimization through algorithmic trading.
+title: 'Non-Hydraulic Fracturing: Overview and Mechanisms (Algo Trading)'
 ---
 
 The energy sector is perpetually in search of innovative and sustainable methods for resource extraction, driven by the increasing demand for energy coupled with the necessity for environmental stewardship. One such method, hydraulic fracturing, or fracking, has been pivotal in accessing oil and gas reserves. However, its extensive water usage and potential for environmental harm, including groundwater contamination and induced seismicity, have prompted significant controversy and public concern (Rahm, 2011).

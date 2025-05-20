@@ -1,6 +1,9 @@
 ---
-title: "Gross Yield: Definition and Examples (Algo Trading)"
-description: "Explore the fundamentals of gross yield and its role in algorithmic trading Discover investment yield types and key financial metrics for optimal investing strategies"
+category: quant_concept
+description: Explore the fundamentals of gross yield and its role in algorithmic trading
+  Discover investment yield types and key financial metrics for optimal investing
+  strategies
+title: 'Gross Yield: Definition and Examples (Algo Trading)'
 ---
 
 In the world of finance, understanding key concepts like investment yield, financial metrics, gross yield, and algorithmic trading is crucial for anyone looking to navigate the complexities of the investment landscape. These concepts form the backbone of effective investment strategies and can significantly impact the decision-making processes of both novice and experienced investors.

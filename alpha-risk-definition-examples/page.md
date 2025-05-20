@@ -1,6 +1,8 @@
 ---
-title: "Alpha Risk: Definition and Examples (Algo Trading)"
-description: "Discover alpha risk in hypothesis testing and its impact on algorithmic trading Learn how to manage alpha risk to improve trading strategy reliability"
+category: quant_concept
+description: Discover alpha risk in hypothesis testing and its impact on algorithmic
+  trading Learn how to manage alpha risk to improve trading strategy reliability
+title: 'Alpha Risk: Definition and Examples (Algo Trading)'
 ---
 
 Hypothesis testing is a fundamental statistical tool utilized in a variety of applications, notably in finance and algorithmic trading. At its core, hypothesis testing is employed to make inferences about a population based on sample data, thus guiding decision-making processes. In the domain of algorithmic trading, hypothesis testing aids in evaluating trading strategies and market signals.
@@ -157,4 +159,3 @@ Refer to authoritative texts on statistical methods and trading strategies for a
 Further reading may include resources on financial [machine learning](/wiki/machine-learning) and evidence-based technical analysis. "Advances in Financial Machine Learning" by Marcos López de Prado addresses contemporary methods in machine learning tailored for trading, providing algorithms and techniques that enhance decision-making. Additionally, "Evidence-Based Technical Analysis" by David Aronson presents a framework for developing systematic, statistical analysis for trading strategies. This text is valuable for those seeking to utilize evidence-based approaches rather than relying on anecdotal or traditionally heuristic methods.
 
 Web resources such as research papers available on platforms like arXiv and SSRN could also provide cutting-edge insights and empirical studies related to algorithmic trading and hypothesis testing applications. These platforms host a plethora of studies covering recent advancements and methodologies which can be beneficial for both academic study and practical application in trading strategies.
-

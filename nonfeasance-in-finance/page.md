@@ -1,6 +1,9 @@
 ---
-title: "Nonfeasance in Finance (Algo Trading)"
-description: "Explore key financial concepts like nonfeasance and algorithmic trading to navigate today's finance world Understand liabilities equities liquidity and more"
+category: quant_concept
+description: Explore key financial concepts like nonfeasance and algorithmic trading
+  to navigate today's finance world Understand liabilities equities liquidity and
+  more
+title: Nonfeasance in Finance (Algo Trading)
 ---
 
 Understanding financial terms is crucial for navigating the complexities of finance and trading. In today's dynamic financial landscape, individuals and organizations constantly interact with an array of financial components that influence decision-making and strategy. The precision in understanding these terms enhances one's ability to manage and forecast financial outcomes effectively.

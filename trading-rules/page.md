@@ -1,6 +1,14 @@
 ---
-title: "Trading rules (Algo Trading)"
-description: Discover the essential trading rules for algorithmic trading to enhance efficiency and accuracy in your trading strategies. Learn how algorithmic trading leverages computer algorithms to execute trades automatically based on predefined conditions, eliminating emotional biases and capturing market opportunities with speed and precision. Explore the structured framework that guides trade executions systematically, ensuring consistency and optimizing strategies while managing risks. Understand the application of trading rules, such as backtesting and risk management, to refine strategies and stay competitive in the dynamic financial markets environment.
+category: trading_strategy
+description: Discover the essential trading rules for algorithmic trading to enhance
+  efficiency and accuracy in your trading strategies. Learn how algorithmic trading
+  leverages computer algorithms to execute trades automatically based on predefined
+  conditions, eliminating emotional biases and capturing market opportunities with
+  speed and precision. Explore the structured framework that guides trade executions
+  systematically, ensuring consistency and optimizing strategies while managing risks.
+  Understand the application of trading rules, such as backtesting and risk management,
+  to refine strategies and stay competitive in the dynamic financial markets environment.
+title: Trading rules (Algo Trading)
 ---
 
 Algorithmic trading, often abbreviated as algo trading, is a methodical approach that employs computer algorithms to execute trading strategies. These algorithms automatically place trades when specified conditions are met, using pre-defined instructions based on variables such as timing, price, or volume. The primary aim of these algorithms is to enhance efficiency and accuracy in trading by eliminating emotional biases often present in manual trading decisions. By executing trades at precise moments, algorithmic trading aids in capturing market opportunities that might be missed by human traders.

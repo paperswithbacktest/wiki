@@ -1,6 +1,8 @@
 ---
-title: "National Stock Exchange of India: Overview and Functionality (Algo Trading)"
-description: "Explore the National Stock Exchange of India's pivotal role in revolutionizing trading with algo trading technology enhancing efficiency and transparency."
+category: quant_concept
+description: Explore the National Stock Exchange of India's pivotal role in revolutionizing
+  trading with algo trading technology enhancing efficiency and transparency.
+title: 'National Stock Exchange of India: Overview and Functionality (Algo Trading)'
 ---
 
 The National Stock Exchange (NSE) of India stands as a pivotal institution in the Indian financial landscape, having revolutionized capital markets in the country since its establishment in 1992. Designed to provide a modern, fully automated screen-based trading system, the NSE introduced technology that increased transparency and efficiency, significantly transforming how trading was conducted in India. As the largest stock exchange in India and one of the largest in the world by market capitalization, the NSE has continuously evolved to meet the demands of a dynamic financial ecosystem.

@@ -1,6 +1,8 @@
 ---
-title: "EAFE Index: Countries and Uses (Algo Trading)"
-description: "Explore the EAFE Index a key benchmark for developed markets outside North America. Learn about its role in algorithmic trading and investment strategies."
+category: dataset
+description: Explore the EAFE Index a key benchmark for developed markets outside
+  North America. Learn about its role in algorithmic trading and investment strategies.
+title: 'EAFE Index: Countries and Uses (Algo Trading)'
 ---
 
 The EAFE Index, introduced by Morgan Stanley Capital International (MSCI), stands as a key performance benchmark for international stock markets. This index encompasses companies from developed nations in Europe, Australasia, and the Far East, deliberately excluding those from the U.S. and Canada. Such exclusion allows investors to focus on truly international diversification outside of North American markets.

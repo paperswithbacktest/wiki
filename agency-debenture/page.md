@@ -1,6 +1,8 @@
 ---
-title: "Agency Debenture (Algo Trading)"
-description: "Explore the critical role of agency debentures in financial markets and algorithmic trading highlighting low-risk investment opportunities and trading strategies."
+category: quant_concept
+description: Explore the critical role of agency debentures in financial markets and
+  algorithmic trading highlighting low-risk investment opportunities and trading strategies.
+title: Agency Debenture (Algo Trading)
 ---
 
 Debentures hold a pivotal position in the financial markets, functioning as a primary instrument through which corporations and government entities secure funds. These debt instruments contribute significantly to the financial ecosystem by facilitating the capital requirements of issuers while offering diverse investment opportunities to investors. Debentures are structured to provide a specified interest rate, along with the promise to repay the principal amount at maturity, making them a reliable choice for yield-seeking investors.

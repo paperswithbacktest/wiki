@@ -1,6 +1,8 @@
 ---
-title: "CME Globex Electronic Trading Platform (Algo Trading)"
-description: "Discover how CME Globex revolutionized futures trading with global electronic access, boosting speed and efficiency for high-volume algorithmic trading."
+category: quant_concept
+description: Discover how CME Globex revolutionized futures trading with global electronic
+  access, boosting speed and efficiency for high-volume algorithmic trading.
+title: CME Globex Electronic Trading Platform (Algo Trading)
 ---
 
 The CME Globex platform has fundamentally transformed futures trading by providing electronic access to markets on a global scale. Introduced in 1992, CME Globex was pioneering as the first electronic trading system for futures and options worldwide, allowing traders to bypass traditional pit trading and access markets from virtually anywhere. This innovation marked a significant shift in how futures were traded, replacing the open outcry systems with a streamlined electronic model.

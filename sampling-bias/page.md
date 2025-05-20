@@ -1,7 +1,8 @@
 ---
-title: Understanding and Preventing Sampling Bias in Machine Learning
+category: quant_concept
 description: Sampling bias can skew ML predictions when training data lacks diversity
   We show how to detect and correct bias for fairer models Discover more inside.
+title: Understanding and Preventing Sampling Bias in Machine Learning
 ---
 
 ![Image](images/1.png)

@@ -1,6 +1,12 @@
 ---
-title: "Avalanche (AVAX): Analysis of Advantages and Risks (Algo Trading)"
-description: "Explore the innovative technology and risks of Avalanche (AVAX) cryptocurrency and algorithmic trading. This article investigates into how Avalanche's high throughput and scalability make it suitable for decentralized applications, while considering the potential profits and pitfalls of algorithmic trading in volatile markets. Learn about the importance of robust risk management strategies to navigate the complexities of cryptocurrency trading effectively."
+category: quant_concept
+description: Explore the innovative technology and risks of Avalanche (AVAX) cryptocurrency
+  and algorithmic trading. This article investigates into how Avalanche's high throughput
+  and scalability make it suitable for decentralized applications, while considering
+  the potential profits and pitfalls of algorithmic trading in volatile markets. Learn
+  about the importance of robust risk management strategies to navigate the complexities
+  of cryptocurrency trading effectively.
+title: 'Avalanche (AVAX): Analysis of Advantages and Risks (Algo Trading)'
 ---
 
 Cryptocurrency has significantly altered the financial landscape by offering an alternative to traditional financial systems, characterized by decentralized governance and digital issuance. Among these digital assets, AVAX from Avalanche has attracted significant attention due to its innovative technology. Avalanche is a blockchain platform known for its high throughput and scalability, which is designed to support decentralized applications more efficiently than many of its predecessors.
@@ -119,4 +125,4 @@ Ultimately, a comprehensive understanding of the cryptocurrency market combined 
 
 [4]: Avalabs. (2021). ["Technical Whitepaper on the Avalanche Consensus Protocol."](https://www.avalabs.org/whitepapers) 
 
-[5]: Rick, Cl. (2021). ["An Introduction to Algorithmic Trading in Python."](https://www.imdb.com/name/nm0000190/) Medium.com. 
+[5]: Rick, Cl. (2021). ["An Introduction to Algorithmic Trading in Python."](https://www.imdb.com/name/nm0000190/) Medium.com.

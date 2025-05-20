@@ -1,6 +1,9 @@
 ---
-title: "Securities Market Structures (Algo Trading)"
-description: "Explore the complexities of securities market structures and algorithmic trading Learn how financial markets operate optimize strategies and aid economic growth"
+category: quant_concept
+description: Explore the complexities of securities market structures and algorithmic
+  trading Learn how financial markets operate optimize strategies and aid economic
+  growth
+title: Securities Market Structures (Algo Trading)
 ---
 
 The global landscape of financial markets is a dynamic environment shaped by a myriad of factors such as technological advancements, regulatory changes, and the diverse activities of market participants. Financial markets serve as platforms for trading a variety of instruments, including stocks, bonds, commodities, and derivatives. These environments facilitate the allocation of resources, risk management, and price discovery, which are fundamental to economic growth and stability.

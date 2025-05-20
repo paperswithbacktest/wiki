@@ -1,6 +1,9 @@
 ---
-title: "Bearish Engulfing Pattern in Technical Analysis (Algo Trading)"
-description: "Explore the Bearish Engulfing Pattern in technical analysis learn to identify this key reversal indicator and enhance your algorithmic trading strategies effectively."
+category: trading_strategy
+description: Explore the Bearish Engulfing Pattern in technical analysis learn to
+  identify this key reversal indicator and enhance your algorithmic trading strategies
+  effectively.
+title: Bearish Engulfing Pattern in Technical Analysis (Algo Trading)
 ---
 
 Technical analysis is a method employed by traders to evaluate and forecast future price movements in financial markets by analyzing historical market data, primarily price and volume. This approach is crucial as it empowers traders to make informed decisions based on patterns and trends rather than mere speculation. Among the various tools used in technical analysis, candlestick patterns stand out as a vital component. These patterns offer graphical representations of price movements over a specific period, providing insights into market sentiment and potential future price directions.

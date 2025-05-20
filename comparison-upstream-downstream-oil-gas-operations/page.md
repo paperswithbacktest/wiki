@@ -1,6 +1,9 @@
 ---
-title: "Comparison of Upstream and Downstream Oil and Gas Operations (Algo Trading)"
-description: "Explore the critical roles of upstream and downstream operations in the oil and gas industry. Discover how algorithmic trading is transforming efficiency in this sector."
+category: quant_concept
+description: Explore the critical roles of upstream and downstream operations in the
+  oil and gas industry. Discover how algorithmic trading is transforming efficiency
+  in this sector.
+title: Comparison of Upstream and Downstream Oil and Gas Operations (Algo Trading)
 ---
 
 Understanding the different phases of production in the oil and gas industry is crucial for comprehending its dynamic nature. This sector is segmented into upstream, midstream, and downstream operations, each playing a distinct role and exerting specific impacts on the global energy market. The focus of this article is to explore downstream operations, which are critical in transforming raw crude oil into consumable products. We will discuss how downstream activities are interconnected with upstream processes and investigate the burgeoning influence of algorithmic trading within the industry.

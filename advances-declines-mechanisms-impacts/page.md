@@ -1,6 +1,8 @@
 ---
-title: "Advances and Declines: Mechanisms and Impacts (Algo Trading)"
-description: "Explore the intricate world of algorithmic trading with insights into declines, mechanisms, and recent advances to navigate and optimize trading strategies."
+category: quant_concept
+description: Explore the intricate world of algorithmic trading with insights into
+  declines, mechanisms, and recent advances to navigate and optimize trading strategies.
+title: 'Advances and Declines: Mechanisms and Impacts (Algo Trading)'
 ---
 
 Algorithmic trading refers to the use of computer algorithms to automate trading strategies and execute orders in financial markets. These algorithms, based on specific instructions such as timing, price, or quantity, enable traders to make high-frequency decisions and execute transactions at speeds and frequencies beyond human capabilities. The significance of algorithmic trading in modern financial markets is profound; it enhances market liquidity, reduces transaction costs, and enables traders to exploit market inefficiencies more efficiently.

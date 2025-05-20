@@ -1,6 +1,9 @@
 ---
-title: "Stub: Definition, Functionality, and Examples (Algo Trading)"
-description: "Discover the crucial role of stubs in algorithmic trading Learn how these tools enhance strategy testing and validation in simulated market conditions for robustness"
+category: quant_concept
+description: Discover the crucial role of stubs in algorithmic trading Learn how these
+  tools enhance strategy testing and validation in simulated market conditions for
+  robustness
+title: 'Stub: Definition, Functionality, and Examples (Algo Trading)'
 ---
 
 Algorithmic trading has revolutionized the financial markets by enabling traders and investors to make automated decisions and execute trades based on established criteria. This technological advancement allows for high-frequency trading and more sophisticated investment strategies, driven by data analysis and algorithms. At the heart of developing and refining these systems is stub functionality, an essential tool for ensuring the seamless integration and rigorous testing of algorithms.

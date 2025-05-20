@@ -1,6 +1,8 @@
 ---
-title: "Metaverse: Meaning and Functionality of the Virtual World (Algo Trading)"
-description: "Explore how the Metaverse is reshaping digital ecosystems through virtual worlds and algorithmic trading to unlock new economic opportunities and innovations."
+category: quant_concept
+description: Explore how the Metaverse is reshaping digital ecosystems through virtual
+  worlds and algorithmic trading to unlock new economic opportunities and innovations.
+title: 'Metaverse: Meaning and Functionality of the Virtual World (Algo Trading)'
 ---
 
 The concept of the Metaverse is rapidly evolving into a digital ecosystem where traditional boundaries dissolve. This transformation is characterized by the integration of various technological advancements, including social media, gaming, virtual reality (VR), and augmented reality (AR). Together, these elements contribute to creating an immersive digital environment that transcends conventional digital interactions.

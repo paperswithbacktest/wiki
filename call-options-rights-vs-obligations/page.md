@@ -1,6 +1,9 @@
 ---
-title: "Call Options: Rights Versus Obligations (Algo Trading)"
-description: "Explore the dynamic world of call options and their role in algorithmic trading strategies. Learn how technology optimizes call options for better market performance."
+category: quant_concept
+description: Explore the dynamic world of call options and their role in algorithmic
+  trading strategies. Learn how technology optimizes call options for better market
+  performance.
+title: 'Call Options: Rights Versus Obligations (Algo Trading)'
 ---
 
 The financial market presents a wide range of instruments to investors, with derivatives such as options standing out for their dynamic nature. Among these, call options are a cornerstone, granting investors the right—but not the obligation—to purchase assets at a predetermined strike price within a specified timeframe. This contractual flexibility allows investors to speculate on asset price movements or hedge against potential portfolio losses, making call options an attractive choice for diverse trading strategies.

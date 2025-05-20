@@ -1,6 +1,8 @@
 ---
-title: "OTC Options Versus Standard Options and Associated Risks (Algo Trading)"
-description: "Explore the differences between OTC and standard options in trading Learn about their benefits risks and the impact of algorithmic trading on options markets"
+category: quant_concept
+description: Explore the differences between OTC and standard options in trading Learn
+  about their benefits risks and the impact of algorithmic trading on options markets
+title: OTC Options Versus Standard Options and Associated Risks (Algo Trading)
 ---
 
 In the intricate world of financial markets, options trading represents a significant avenue for potential gains, albeit accompanied by inherent risks that demand careful navigation. Options are financial derivatives that give buyers the right, but not the obligation, to buy or sell an underlying asset at a predetermined price before a specified expiration date. Standard options are typically traded on formal exchanges, such as the Chicago Board Options Exchange (CBOE), which provide a regulated environment with standardized contracts ensuring liquidity and transparency. 

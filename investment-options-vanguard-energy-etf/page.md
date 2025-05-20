@@ -1,6 +1,8 @@
 ---
-title: "Investment Options in Vanguard Energy ETF (Algo Trading)"
-description: "Explore the Vanguard Energy ETF for diversified exposure to the oil sector with algorithmic trading strategies balancing risk and return in a volatile market."
+category: trading_strategy
+description: Explore the Vanguard Energy ETF for diversified exposure to the oil sector
+  with algorithmic trading strategies balancing risk and return in a volatile market.
+title: Investment Options in Vanguard Energy ETF (Algo Trading)
 ---
 
 The energy sector plays a crucial role in the global economy, with oil being a primary driver in energy production and consumption. As a major source of fuel for transportation and industry, oil remains indispensable despite growing interest in renewable energy. For investors interested in participating in the oil market, there are several strategies available. These include direct investments in oil companies, trading oil futures, or opting for exchange-traded funds (ETFs) such as the Vanguard Energy ETF.

@@ -1,6 +1,8 @@
 ---
-title: "Jump Trading (Algo Trading)"
-description: "Explore the dynamic world of algorithmic trading and discover Jump Trading's innovative strategies in the financial market. Learn how technology transforms trading."
+category: quant_concept
+description: Explore the dynamic world of algorithmic trading and discover Jump Trading's
+  innovative strategies in the financial market. Learn how technology transforms trading.
+title: Jump Trading (Algo Trading)
 ---
 
 The financial trading industry has undergone significant transformation over the past few decades, revolutionized by the advent of algorithmic trading. Algorithmic trading, or algo trading, refers to the utilization of complex algorithms to automate trading decisions. These algorithms are capable of processing vast amounts of financial data at lightning speed, executing trades with precision and minimal human intervention. This technological advancement is a game-changer in modern markets, offering increased efficiency, speed, and the potential for higher profitability.

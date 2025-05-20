@@ -1,6 +1,9 @@
 ---
-title: "Financial Analysis: Importance, Types, and Examples (Algo Trading)"
-description: "Explore the significance of financial analysis in assessing financial health and performance its types like fundamental and technical analysis and its role in algo trading"
+category: quant_concept
+description: Explore the significance of financial analysis in assessing financial
+  health and performance its types like fundamental and technical analysis and its
+  role in algo trading
+title: 'Financial Analysis: Importance, Types, and Examples (Algo Trading)'
 ---
 
 Understanding financial analysis is crucial for evaluating the financial health and performance of an entity. It serves as an essential practice in both personal and professional contexts, providing insights into how efficiently a company or an investment is operating, and predicting its future successes or challenges. Financial analysis essentially involves the assessment of a given entity's financial statements, employing various methodologies to interpret data that conveys the fiscal stability, profitability, and growth potential of the organization.

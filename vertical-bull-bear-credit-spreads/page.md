@@ -1,6 +1,8 @@
 ---
-title: "Vertical Bull and Bear Credit Spreads (Algo Trading)"
-description: "Explore the intricacies of bull and bear credit spreads in algorithmic trading. Learn strategies to manage risk and optimize returns in volatile markets."
+category: trading_strategy
+description: Explore the intricacies of bull and bear credit spreads in algorithmic
+  trading. Learn strategies to manage risk and optimize returns in volatile markets.
+title: Vertical Bull and Bear Credit Spreads (Algo Trading)
 ---
 
 Trading strategies in derivatives markets can often appear complex given the myriad of options available. Among these, spread strategies such as bull spreads, bear spreads, and credit spreads each offer unique benefits and risks. Understanding these strategies is essential for traders aiming to adopt approaches that manage risk and optimize returns, especially in volatile markets.

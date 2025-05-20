@@ -1,6 +1,8 @@
 ---
-title: "Wirehouse and Its Economic Role (Algo Trading)"
-description: "Explore how investment firms, wirehouses, and algorithmic trading shape financial markets through efficiency and innovation in the evolving economy."
+category: quant_concept
+description: Explore how investment firms, wirehouses, and algorithmic trading shape
+  financial markets through efficiency and innovation in the evolving economy.
+title: Wirehouse and Its Economic Role (Algo Trading)
 ---
 
 In the rapidly changing financial environment, investment firms, wirehouses, the economy, and algorithmic trading form a complex network of interactions that influence the dynamics of financial markets. Investment firms and wirehouses are integral in mobilizing savings for investments, offering a range of financial services and solutions. These institutions historically operated under a traditional model, often involving personal interactions between financial advisors and clients. However, technological advancements and economic developments have prompted a transformation in how these entities function.

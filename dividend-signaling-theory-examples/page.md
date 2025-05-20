@@ -1,6 +1,9 @@
 ---
-title: "Dividend Signaling Theory and Examples (Algo Trading)"
-description: "Explore the intersection of dividend signaling theory and algorithmic trading to enhance investment strategies by predicting company financial health and performance."
+category: quant_concept
+description: Explore the intersection of dividend signaling theory and algorithmic
+  trading to enhance investment strategies by predicting company financial health
+  and performance.
+title: Dividend Signaling Theory and Examples (Algo Trading)
 ---
 
 Investment strategies are continuously advancing as new financial theories and technological solutions emerge. These developments are particularly evident at the intersection of dividend signaling, financial theory, and algorithmic trading. Dividend signaling, a financial theory, proposes that changes in dividends can be indicative of a company's future financial health and prospects. This concept is built on the premise that management possesses more information about a company's future earnings than investors, and thus uses dividend changes as a communication tool.

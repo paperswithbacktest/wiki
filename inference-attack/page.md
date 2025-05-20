@@ -1,7 +1,8 @@
 ---
-title: Securing Machine Learning Models Against Inference Attacks
+category: quant_concept
 description: Inference attacks in machine learning reveal private data explore differential
   privacy and regularization methods to secure models Read more inside
+title: Securing Machine Learning Models Against Inference Attacks
 ---
 
 ![Image](images/1.png)

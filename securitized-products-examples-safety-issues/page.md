@@ -1,6 +1,9 @@
 ---
-title: "Securitized Products: Examples and Safety Issues (Algo Trading)"
-description: "Explore securitized products and algorithmic trading in modern finance uncovering examples benefits risks and how technology enhances financial safety and investment strategies."
+category: quant_concept
+description: Explore securitized products and algorithmic trading in modern finance
+  uncovering examples benefits risks and how technology enhances financial safety
+  and investment strategies.
+title: 'Securitized Products: Examples and Safety Issues (Algo Trading)'
 ---
 
 In contemporary finance, investment opportunities are increasingly diversified, with securitized products and algorithmic trading emerging as influential components. Securitized products refer to the financial instruments created through the process of securitization, which involves aggregating various illiquid assets and converting them into marketable securities. This transformation facilitates greater liquidity, providing investors with an array of options to enhance their portfolios. Notable among these products are mortgage-backed securities (MBS), asset-backed securities (ABS), and collateralized debt obligations (CDO), each serving distinct functions yet sharing the common benefit of offering diversification, liquidity enhancement, and potential returns. However, they also come with inherent risks such as credit risk and market risk.

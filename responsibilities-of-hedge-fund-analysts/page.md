@@ -1,6 +1,8 @@
 ---
-title: "Responsibilities of Hedge Fund Analysts (Algo Trading)"
-description: "Explore the critical role of hedge fund analysts in identifying investment opportunities and the impact of algorithmic trading on fund performance."
+category: quant_concept
+description: Explore the critical role of hedge fund analysts in identifying investment
+  opportunities and the impact of algorithmic trading on fund performance.
+title: Responsibilities of Hedge Fund Analysts (Algo Trading)
 ---
 
 Hedge funds are private investment entities that pool capital from accredited individuals or institutional investors to employ various complex strategies for generating high returns, often regardless of market conditions. Unlike mutual funds, hedge funds tend to use a broader array of investment strategies, including leverage, derivatives, and short selling, seeking to exploit diverse market opportunities. Their primary aim is absolute returns, not merely relative returns against benchmark indices.

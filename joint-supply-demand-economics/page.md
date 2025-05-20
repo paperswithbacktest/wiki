@@ -1,6 +1,8 @@
 ---
-title: "Joint Supply and Demand in Economics (Algo Trading)"
-description: "Explore the essential roles of joint demand and joint supply in economics and algorithmic trading, revolutionizing today's market strategies and efficiency."
+category: quant_concept
+description: Explore the essential roles of joint demand and joint supply in economics
+  and algorithmic trading, revolutionizing today's market strategies and efficiency.
+title: Joint Supply and Demand in Economics (Algo Trading)
 ---
 
 The modern economic landscape is characterized by an intricate web of supply and demand relationships, pivotal in both established and innovative markets. Central to this landscape are concepts like joint demand and joint supply. Their understanding has become increasingly significant in the context of algorithmic trading, a field that automates and optimizes financial transactions using sophisticated algorithms. 

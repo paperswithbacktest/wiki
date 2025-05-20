@@ -1,7 +1,8 @@
 ---
-title: Point Cloud Processing Techniques in Machine Learning
+category: quant_concept
 description: Point Cloud processing drives 3D object recognition scene understanding
   and efficient model design for robotics autonomous systems Discover more inside.
+title: Point Cloud Processing Techniques in Machine Learning
 ---
 
 ![Image](images/1.png)

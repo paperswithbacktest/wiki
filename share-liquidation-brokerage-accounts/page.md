@@ -1,6 +1,8 @@
 ---
-title: "Share Liquidation in Brokerage Accounts (Algo Trading)"
-description: "Discover how investment brokerage accounts, share liquidation, and algorithmic trading shape modern investing by enhancing efficiency and precision."
+category: quant_concept
+description: Discover how investment brokerage accounts, share liquidation, and algorithmic
+  trading shape modern investing by enhancing efficiency and precision.
+title: Share Liquidation in Brokerage Accounts (Algo Trading)
 ---
 
 The world of investment has undergone notable transformations due to advancements in technology. This shift has given rise to investment brokerage accounts, share liquidation, and algorithmic trading as pivotal elements that shape contemporary investing. These components serve as essential tools for investors seeking efficiency and precision in managing their portfolios. This article aims to provide a comprehensive overview of brokerage accounts, explore the concept of share liquidation, and examine the role of algorithmic trading within the investment ecosystem. 

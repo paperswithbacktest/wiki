@@ -1,6 +1,9 @@
 ---
-title: "Caribbean Free Trade Association (Algo Trading)"
-description: "Explore how the Caribbean Free Trade Association evolved into CARICOM driving regional economic integration and how algorithmic trading can boost trade efficiency."
+category: quant_concept
+description: Explore how the Caribbean Free Trade Association evolved into CARICOM
+  driving regional economic integration and how algorithmic trading can boost trade
+  efficiency.
+title: Caribbean Free Trade Association (Algo Trading)
 ---
 
 The Caribbean Free Trade Association (CARIFTA) was established in 1965 as a multilateral free-trade area aimed at promoting economic collaboration among Caribbean nations. This initiative emerged following the dissolution of the West Indian Federation, a political union that intended to create a unified political entity among its participating Caribbean territories but faltered due to differences in political and economic visions among its members. With the federation's failure, there was a significant need to foster economic cooperation in the region to promote sustainable development and integration. CARIFTA aimed to address this need by eliminating barriers to trade and encouraging the movement of goods and services among member states.

@@ -1,6 +1,8 @@
 ---
-title: "Largest Oil Tanker Companies (Algo Trading)"
-description: "Explore top oil tanker companies leading the global energy supply chain and discover how algorithmic trading enhances efficiency in the oil market."
+category: dataset
+description: Explore top oil tanker companies leading the global energy supply chain
+  and discover how algorithmic trading enhances efficiency in the oil market.
+title: Largest Oil Tanker Companies (Algo Trading)
 ---
 
 The shipping industry serves as a cornerstone of the global economy, ensuring the smooth movement of goods, including crude oil, across the world. As one of the most critical elements within this sector, the transportation of crude oil is heavily reliant on oil tankers, which are designed to efficiently transport large volumes of oil over vast oceanic distances. These vessels not only ensure the steady supply of energy resources required for industrial and domestic use but also support international trade by linking producers to global markets.

@@ -1,6 +1,8 @@
 ---
-title: "Hyperinflation: Causes, Effects, and Preparation (Algo Trading)"
-description: "Explore the causes and effects of hyperinflation and discover strategic financial preparation methods including the role of algorithmic trading systems."
+category: quant_concept
+description: Explore the causes and effects of hyperinflation and discover strategic
+  financial preparation methods including the role of algorithmic trading systems.
+title: 'Hyperinflation: Causes, Effects, and Preparation (Algo Trading)'
 ---
 
 The global economy often grapples with inflation and, in more severe instances, hyperinflation. Hyperinflation is characterized by extraordinarily rapid and often uncontrollable price increases, destabilizing economic structures and severely affecting consumer prices, savings, and investment strategies. This phenomenon can erode the value of currency to the point where traditional economic transactions become challenging, if not impossible. The necessity for financial preparation during such periods is vital, as it helps cushion the blow of these precipitous economic downswings. 

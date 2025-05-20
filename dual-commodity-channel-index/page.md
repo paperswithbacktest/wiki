@@ -1,6 +1,9 @@
 ---
-title: "Dual Commodity Channel Index (Algo Trading)"
-description: "Explore the Duel Commodity Channel Index for algo trading strategies. Enhance your market analysis with DCCI's dual-oscillator mechanism and improve trade accuracy."
+category: trading_strategy
+description: Explore the Duel Commodity Channel Index for algo trading strategies.
+  Enhance your market analysis with DCCI's dual-oscillator mechanism and improve trade
+  accuracy.
+title: Dual Commodity Channel Index (Algo Trading)
 ---
 
 Technical indicators are essential tools in stock trading, allowing traders to analyze historical data and forecast future market movements. These indicators provide insights into price patterns, volume trends, and market psychology, enabling traders to make informed decisions. Among the various technical indicators, the Duel Commodity Channel Index (DCCI) stands out as a distinct tool in technical analysis, offering a unique mechanism to assess market conditions.

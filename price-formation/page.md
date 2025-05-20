@@ -1,6 +1,8 @@
 ---
-title: "Price Formation (Algo Trading)"
-description: "Price formation is key in algorithmic trading influencing trade decisions and market efficiency As traders decode price dynamics they better optimize strategies"
+category: quant_concept
+description: Price formation is key in algorithmic trading influencing trade decisions
+  and market efficiency As traders decode price dynamics they better optimize strategies
+title: Price Formation (Algo Trading)
 ---
 
 Price formation is a critical aspect of algorithmic trading, directly affecting decision-making and the efficiency of financial markets. By understanding the dynamics involved in price formation, traders can develop effective strategies and optimize their trading outcomes. Algorithmic trading relies heavily on sophisticated automated systems designed to analyze vast sets of market data, identify patterns, and make informed trading decisions based on these insights.

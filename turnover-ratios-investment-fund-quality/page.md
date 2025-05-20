@@ -1,6 +1,8 @@
 ---
-title: "Turnover Ratios and Investment Fund Quality (Algo Trading)"
-description: "Explore how turnover ratios reveal investment fund quality and impacts of algorithmic trading on returns. Enhance your investment strategy with these insights."
+category: quant_concept
+description: Explore how turnover ratios reveal investment fund quality and impacts
+  of algorithmic trading on returns. Enhance your investment strategy with these insights.
+title: Turnover Ratios and Investment Fund Quality (Algo Trading)
 ---
 
 In investments, understanding key metrics can significantly enhance decision-making and potentially boost returns. Among these metrics, turnover ratios play a crucial role in offering insights into the trading activity within investment funds. A turnover ratio is typically expressed as a percentage, representing the proportion of the fund's holdings that have been replaced over a given time period. This metric is invaluable for investors as it sheds light on the level of trading activity, which in turn influences transaction costs and tax implications. 

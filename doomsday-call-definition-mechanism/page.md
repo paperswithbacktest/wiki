@@ -1,6 +1,8 @@
 ---
-title: "Doomsday Call: Definition and Mechanism (Algo Trading)"
-description: "Explore the world of algorithmic trading and the intriguing concept of the doomsday call in bond markets. Learn how these tools influence financial strategies."
+category: quant_concept
+description: Explore the world of algorithmic trading and the intriguing concept of
+  the doomsday call in bond markets. Learn how these tools influence financial strategies.
+title: 'Doomsday Call: Definition and Mechanism (Algo Trading)'
 ---
 
 In the rapidly evolving world of financial markets, algorithmic trading has emerged as a pivotal innovation, transforming how transactions are executed and decisions are made. Leveraging complex algorithms and vast computing power, algo trading allows for lightning-fast execution of trades, which can significantly influence market dynamics. Amidst this technological revolution, a lesser-known yet intriguing concept is the 'Doomsday Call' within the bond market. This unique feature permits bond issuers to redeem bonds before their maturity, offering a strategic tool to manage interest rate risk. 

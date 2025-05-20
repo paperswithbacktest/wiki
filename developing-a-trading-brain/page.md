@@ -1,6 +1,8 @@
 ---
-title: "Developing a Trading Brain (Algo Trading)"
-description: "Enhance your trading success with a deep dive into investment strategies, cognitive skills, trading psychology, and algorithmic trading techniques."
+category: trading_strategy
+description: Enhance your trading success with a deep dive into investment strategies,
+  cognitive skills, trading psychology, and algorithmic trading techniques.
+title: Developing a Trading Brain (Algo Trading)
 ---
 
 Investment strategies, cognitive skills, trading psychology, and algorithmic trading are pivotal components in the modern trading arena. These elements are essential for anyone looking to succeed in the highly dynamic and competitive environment of financial markets. Each component plays a crucial role not only individually but also collectively, influencing and interacting with one another in various ways. 

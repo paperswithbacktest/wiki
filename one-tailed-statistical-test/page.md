@@ -1,6 +1,9 @@
 ---
-title: "One-Tailed Statistical Test (Algo Trading)"
-description: "Explore how one-tailed statistical tests optimize algorithmic trading by enabling precise analysis of market trends and validating trading strategies effectively."
+category: quant_concept
+description: Explore how one-tailed statistical tests optimize algorithmic trading
+  by enabling precise analysis of market trends and validating trading strategies
+  effectively.
+title: One-Tailed Statistical Test (Algo Trading)
 ---
 
 In the fast-evolving landscape of algorithmic trading, the integration of rigorous statistical tools is essential for optimizing strategies and enhancing decision-making. The ability of traders to swiftly analyze data and derive actionable insights can significantly influence their success in the market. One of the pivotal statistical methods in this domain is hypothesis testing, which provides a structured framework for analyzing sample data, inferring patterns, and validating trading strategies with greater reliability.
@@ -159,4 +162,3 @@ print(f"One-tailed p-value: {one_tailed_p_value}")
 ```
 
 This code snippet performs a one-tailed t-test to determine if the sample mean is significantly greater than the population mean. It highlights practical application using Python libraries, which is essential for traders looking to incorporate statistical testing into their strategies.
-

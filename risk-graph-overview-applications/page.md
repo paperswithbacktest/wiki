@@ -1,6 +1,9 @@
 ---
-title: "Risk Graph: Overview and Applications (Algo Trading)"
-description: "Navigate the complexities of algorithmic trading with risk graphs Learn to manage financial risks and enhance your trading strategies using these visual tools"
+category: quant_concept
+description: Navigate the complexities of algorithmic trading with risk graphs Learn
+  to manage financial risks and enhance your trading strategies using these visual
+  tools
+title: 'Risk Graph: Overview and Applications (Algo Trading)'
 ---
 
 Algorithmic trading, often referred to as algo trading, has dramatically transformed the landscape of financial markets by enabling traders to execute orders with unprecedented speed and precision. This advancement is primarily driven by complex algorithms that analyze market conditions and execute trades automatically, minimizing human intervention. Despite these benefits, the integration of sophisticated algorithms introduces significant risks, such as exposure to rapid market changes and system failures, which necessitate effective risk management strategies.

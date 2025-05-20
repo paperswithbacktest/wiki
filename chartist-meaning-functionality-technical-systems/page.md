@@ -1,6 +1,8 @@
 ---
-title: "Chartist: Meaning, Functionality, and Technical Systems (Algo Trading)"
-description: "Explore how chartism, technical analysis, and algorithmic trading come together to transform modern finance and optimize contemporary trading strategies."
+category: trading_strategy
+description: Explore how chartism, technical analysis, and algorithmic trading come
+  together to transform modern finance and optimize contemporary trading strategies.
+title: 'Chartist: Meaning, Functionality, and Technical Systems (Algo Trading)'
 ---
 
 The intersection of financial systems, technical analysis, chartism, and algorithmic trading is profoundly reshaping modern finance. Each of these components represents a crucial layer in understanding and executing contemporary trading strategies. Financial systems provide the infrastructure and regulatory frameworks necessary for the operation and stability of markets. Technical analysis offers tools derived from historical price and volume data, assisting traders in making data-driven decisions by observing patterns thought to repeat over time.

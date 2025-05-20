@@ -1,6 +1,8 @@
 ---
-title: "Utilizing Covered Calls to Enhance IRA Income (Algo Trading)"
-description: "Learn how utilizing covered calls and algorithmic trading can enhance IRA income by generating additional revenue and managing risk with strategic precision."
+category: trading_strategy
+description: Learn how utilizing covered calls and algorithmic trading can enhance
+  IRA income by generating additional revenue and managing risk with strategic precision.
+title: Utilizing Covered Calls to Enhance IRA Income (Algo Trading)
 ---
 
 Covered calls are a widely utilized investment strategy designed to generate additional income, particularly within an Individual Retirement Account (IRA). This strategy involves holding a long position in a particular stock while simultaneously selling call options on the same stock. This transaction allows investors to earn a premium, thus providing an extra income stream on top of potential stock gains. The simplicity and conservative nature of this strategy make it attractive for investors seeking to enhance portfolio returns while managing risk.

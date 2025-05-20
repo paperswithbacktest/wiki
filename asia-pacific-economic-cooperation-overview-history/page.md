@@ -1,6 +1,8 @@
 ---
-title: "Asia-Pacific Economic Cooperation: Overview and History (Algo Trading)"
-description: "Explore the dynamic interplay between APEC economic policies and the rise of algorithmic trading shaping the Asia-Pacific region's financial landscape."
+category: quant_concept
+description: Explore the dynamic interplay between APEC economic policies and the
+  rise of algorithmic trading shaping the Asia-Pacific region's financial landscape.
+title: 'Asia-Pacific Economic Cooperation: Overview and History (Algo Trading)'
 ---
 
 The Asia-Pacific Economic Cooperation (APEC) functions as a pivotal entity in molding the economic policies of countries bordering the Pacific Rim. Established to foster free trade and economic collaboration, APEC's initiatives significantly influence global markets. By promoting tariff reductions and improving customs operations, APEC has successfully bridged economic disparities between developed and developing nations within the region. Its multilateral approach to policy-making not only supports international trade but also plays a crucial role in ensuring sustainable economic development.

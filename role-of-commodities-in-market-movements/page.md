@@ -1,6 +1,8 @@
 ---
-title: "Role of Commodities in Market Movements (Algo Trading)"
-description: "Explore how commodities like gold, oil, and copper influence market trends and understand the transformative role of algorithmic trading in financial markets."
+category: quant_concept
+description: Explore how commodities like gold, oil, and copper influence market trends
+  and understand the transformative role of algorithmic trading in financial markets.
+title: Role of Commodities in Market Movements (Algo Trading)
 ---
 
 The financial markets have undergone significant transformation over the years, with commodities emerging as key components in global trade. Commodities such as gold, oil, and copper are not mere trading assets; they are pivotal indicators of global economic health and trends. Gold, for instance, traditionally serves as a safe-haven investment, hinting at market uncertainties and potential downturns when its demand surges. Oil prices, deeply intertwined with geopolitical stability and economic policies, can cause ripple effects across global economies, influencing everything from inflation rates to currency values. Copper, essential in industrial applications and construction, is closely watched as a barometer for economic growth, reflecting the demand in these sectors.

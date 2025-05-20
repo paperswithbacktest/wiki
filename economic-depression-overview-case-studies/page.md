@@ -1,6 +1,14 @@
 ---
-title: "Economic Depression: Overview and Case Studies (Algo Trading)"
-description: "Explore the dynamics of economic depressions and the influence of algorithmic trading on financial markets in this in-depth article. Delve into historical case studies like the Great Depression and the Great Recession to understand the causes and effects of economic downturns. Analyze how modern algo trading, with its ability to automate and expedite trade decisions, interacts with fluctuating economic conditions, potentially stabilizing or intensifying market volatility. This examination offers valuable insights into developing resilient financial strategies and policies to navigate the inevitable ebbs and flows of the global economy."
+category: quant_concept
+description: Explore the dynamics of economic depressions and the influence of algorithmic
+  trading on financial markets in this in-depth article. Delve into historical case
+  studies like the Great Depression and the Great Recession to understand the causes
+  and effects of economic downturns. Analyze how modern algo trading, with its ability
+  to automate and expedite trade decisions, interacts with fluctuating economic conditions,
+  potentially stabilizing or intensifying market volatility. This examination offers
+  valuable insights into developing resilient financial strategies and policies to
+  navigate the inevitable ebbs and flows of the global economy.
+title: 'Economic Depression: Overview and Case Studies (Algo Trading)'
 ---
 
 The global economy functions through cycles of expansion and contraction, commonly referred to as business cycles. These cycles are characterized by alternating phases of economic growth, where indicators such as GDP, employment, and consumer spending rise, and economic contraction or downturns, where these indicators fall. Understanding these cycles is crucial for investors, businesses, and policymakers, as they influence economic strategies and policy-making processes.

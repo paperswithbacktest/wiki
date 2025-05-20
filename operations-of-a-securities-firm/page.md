@@ -1,6 +1,11 @@
 ---
-title: "Operations of a Securities Firm (Algo Trading)"
-description: "Discover the essential functions of securities firms and investment banking in the modern financial landscape. Explore the critical roles of algorithmic trading in enhancing market efficiency and supporting global financial markets. Gain insights into how these elements contribute to corporate growth and economic development while ensuring market stability."
+category: quant_concept
+description: Discover the essential functions of securities firms and investment banking
+  in the modern financial landscape. Explore the critical roles of algorithmic trading
+  in enhancing market efficiency and supporting global financial markets. Gain insights
+  into how these elements contribute to corporate growth and economic development
+  while ensuring market stability.
+title: Operations of a Securities Firm (Algo Trading)
 ---
 
 Securities firms, investment banking, and algorithmic trading are pivotal components of the modern financial landscape. These elements are not only integral to the functionality of global financial markets but also to their efficiency and growth.

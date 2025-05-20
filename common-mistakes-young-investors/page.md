@@ -1,6 +1,9 @@
 ---
-title: "Common Mistakes by Young Investors (Algo Trading)"
-description: "Discover the common pitfalls young investors face in algorithmic trading and learn how to avoid them to enhance your journey towards financial growth and success."
+category: trading_strategy
+description: Discover the common pitfalls young investors face in algorithmic trading
+  and learn how to avoid them to enhance your journey towards financial growth and
+  success.
+title: Common Mistakes by Young Investors (Algo Trading)
 ---
 
 Investing presents a challenging yet promising frontier, particularly for young investors stepping into this intricate arena for the first time. Navigating this terrain requires awareness of numerous common pitfalls that can undermine financial progress. New investors often encounter obstacles that can deter potential financial growth, making it crucial to understand these hurdles as a way to sidestep them effectively.

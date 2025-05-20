@@ -1,6 +1,8 @@
 ---
-title: "Financial Statement That Includes Retained Earnings (Algo Trading)"
-description: "Explore how retained earnings impact financial statement analysis and enhance algorithmic trading strategies for informed and optimized investment decisions."
+category: quant_concept
+description: Explore how retained earnings impact financial statement analysis and
+  enhance algorithmic trading strategies for informed and optimized investment decisions.
+title: Financial Statement That Includes Retained Earnings (Algo Trading)
 ---
 
 In today’s dynamic financial landscape, understanding the nexus between accounting practices and trading technologies is crucial. As markets evolve with rapid technological advancements, the interplay between traditional financial concepts and modern trading mechanisms shapes investment strategies. Retained earnings, financial statements, and algorithmic trading form the backbone of investment strategies, providing vital insights and decision-making tools.
@@ -219,4 +221,3 @@ Those interested in hands-on learning can explore platforms such as QuantConnect
 For continuous professional development, the Financial Times and Wall Street Journal offer insightful articles on current financial trends and technologies. These publications are renowned for their in-depth analysis and cover a broad spectrum of topics that are pertinent to both accounting and trading professionals.
 
 Engaging with these [books](/wiki/algo-trading-books), courses, and platforms will not only enhance understanding of key concepts but also prepare individuals to navigate and excel within the evolving financial markets.
-

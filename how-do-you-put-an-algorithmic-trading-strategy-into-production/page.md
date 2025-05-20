@@ -1,9 +1,12 @@
 ---
-title: "How do you put an algorithmic trading strategy into production?"
-description: "Discover the technical steps to put an algorithmic trading strategy into production, including integration with APIs, infrastructure setup, monitoring, risk management, continuous updates, and version control. Ensure your algorithm operates efficiently and safely on financial markets. Read more for resources on strategies, libraries, datasets, and becoming a quant trader."
+category: trading_strategy
+description: Discover the technical steps to put an algorithmic trading strategy into
+  production, including integration with APIs, infrastructure setup, monitoring, risk
+  management, continuous updates, and version control. Ensure your algorithm operates
+  efficiently and safely on financial markets. Read more for resources on strategies,
+  libraries, datasets, and becoming a quant trader.
+title: How do you put an algorithmic trading strategy into production?
 ---
-
-
 
 Algorithmic trading, often termed algo-trading, utilizes mathematical models and automated systems to execute trades in financial markets. This method leverages the power of computer algorithms to make buying or selling decisions, which can include a variety of factors such as price, timing, or quantity. The significance of algorithmic trading in modern finance cannot be understated, as it accounts for a substantial portion of transactions in stock exchanges around the world. By automating trading decisions, algo-trading can process information and act upon it at speeds that are impossible for human traders, providing an edge in markets where timing is crucial.
 

@@ -1,6 +1,10 @@
 ---
-title: "Fibonacci Moving Averages Explained (Algo Trading)"
-description: Discover how Fibonacci moving averages enhance algorithmic trading by incorporating numbers from the Fibonacci sequence to identify key support and resistance levels in price trends. This method empowers traders with a sophisticated tool for technical analysis, improving trend forecasts and decision-making in trading strategies.
+category: trading_strategy
+description: Discover how Fibonacci moving averages enhance algorithmic trading by
+  incorporating numbers from the Fibonacci sequence to identify key support and resistance
+  levels in price trends. This method empowers traders with a sophisticated tool for
+  technical analysis, improving trend forecasts and decision-making in trading strategies.
+title: Fibonacci Moving Averages Explained (Algo Trading)
 ---
 
 Fibonacci moving averages are a distinctive form of moving average employed in algorithmic trading. Unlike traditional moving averages, they incorporate numbers from the Fibonacci sequence to form exponential moving averages (EMA). These Fibonacci-based EMAs are known for identifying dynamic support and resistance levels in price trends, making them a valuable tool in technical analysis.

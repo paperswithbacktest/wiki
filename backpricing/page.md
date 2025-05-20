@@ -1,6 +1,9 @@
 ---
-title: "Backpricing (Algo Trading)"
-description: "Discover the transformative power of backpricing and algorithmic trading in finance Enhance trading strategies by combining adaptive pricing with automated precision"
+category: quant_concept
+description: Discover the transformative power of backpricing and algorithmic trading
+  in finance Enhance trading strategies by combining adaptive pricing with automated
+  precision
+title: Backpricing (Algo Trading)
 ---
 
 In the ever-evolving landscape of finance, advancements in technology have significantly transformed the trading sector. Two pivotal concepts driving this transformation are backpricing and algorithmic trading. These innovative approaches offer novel methods for engaging with financial markets, facilitating more informed and strategic decision-making for traders.

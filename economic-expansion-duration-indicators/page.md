@@ -1,6 +1,13 @@
 ---
-title: "Economic Expansion: Duration and Indicators (Algo Trading)"
-description: "Explore the vital interconnections between economic indicators, business cycles, and algorithmic trading in economic expansion without the use of colons. Understand how metrics like GDP, unemployment, and inflation reflect economic health and guide investments and policies. Discover how business cycles shape market behavior and trading strategies, while algorithmic trading impacts market liquidity and efficiency. Learn how advancements in technology and economic insight contribute to growth and stability, offering valuable guidance to investors and policymakers."
+category: quant_concept
+description: Explore the vital interconnections between economic indicators, business
+  cycles, and algorithmic trading in economic expansion without the use of colons.
+  Understand how metrics like GDP, unemployment, and inflation reflect economic health
+  and guide investments and policies. Discover how business cycles shape market behavior
+  and trading strategies, while algorithmic trading impacts market liquidity and efficiency.
+  Learn how advancements in technology and economic insight contribute to growth and
+  stability, offering valuable guidance to investors and policymakers.
+title: 'Economic Expansion: Duration and Indicators (Algo Trading)'
 ---
 
 Economic indicators, business cycles, and the role of algorithmic trading in economic expansion form a triad of interconnected elements vital to the comprehension of modern financial dynamics. Economic indicators such as Gross Domestic Product (GDP), unemployment rates, and inflation provide quantitative measures that reflect the economic health and performance. These metrics are instrumental for investors and policymakers who rely on them to make informed decisions that affect both macroeconomic policies and microeconomic strategies.

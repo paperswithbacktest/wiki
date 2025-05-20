@@ -1,7 +1,8 @@
 ---
-title: Understanding Labeled Examples in Supervised Machine Learning
+category: quant_concept
 description: Labeled examples drive supervised learning success by teaching models
   to recognize patterns from tagged data and boost accuracy Discover more inside.
+title: Understanding Labeled Examples in Supervised Machine Learning
 ---
 
 ![Image](images/1.png)

@@ -1,6 +1,13 @@
 ---
-title: "Currency Pegs (Algo Trading)"
-description: "Explore the intricate dynamics of currency pegs and algorithmic trading in the global financial market. Understand how exchange rates and foreign exchange influence international economics, and delve into the strategies underpinning currency pegs. Discover the technological evolution of algorithmic trading and its impact on forex markets, enhancing efficiency and precision. Gain insights into the definitions, operations, and economic effects of these crucial components, offering valuable guidance for navigating the complexities of today's financial landscape."
+category: quant_concept
+description: Explore the intricate dynamics of currency pegs and algorithmic trading
+  in the global financial market. Understand how exchange rates and foreign exchange
+  influence international economics, and delve into the strategies underpinning currency
+  pegs. Discover the technological evolution of algorithmic trading and its impact
+  on forex markets, enhancing efficiency and precision. Gain insights into the definitions,
+  operations, and economic effects of these crucial components, offering valuable
+  guidance for navigating the complexities of today's financial landscape.
+title: Currency Pegs (Algo Trading)
 ---
 
 Exchange rates, foreign exchange (forex), currency pegs, and algorithmic trading are pivotal elements of the global financial market. These components not only underpin international economic interactions but also influence the strategic decisions of investors, policymakers, and businesses worldwide. 

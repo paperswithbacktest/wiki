@@ -1,6 +1,8 @@
 ---
-title: "Dry Bulk Commodity: Overview and Comparison to Container Shipping (Algo Trading)"
-description: "Explore the role of dry bulk commodities in global trade, comparing their transport dynamics with container shipping and the impact of algo trading on efficiency."
+category: quant_concept
+description: Explore the role of dry bulk commodities in global trade, comparing their
+  transport dynamics with container shipping and the impact of algo trading on efficiency.
+title: 'Dry Bulk Commodity: Overview and Comparison to Container Shipping (Algo Trading)'
 ---
 
 The global economy operates through an intricate network of trade relationships, with shipping serving as a crucial component in moving essential commodities across the globe. This process involves the seamless interaction of multiple facets, including bulk shipping, dry bulk commodities, container shipping, and algorithmic (algo) trading, which all play pivotal roles in the international trade landscape.

@@ -1,7 +1,8 @@
 ---
-title: Understanding Video-Text Retrieval Models in Machine Learning
+category: quant_concept
 description: Video-Text Retrieval enables precise matching of videos to text queries
   using embeddings and similarity measures in active voice Discover more inside.
+title: Understanding Video-Text Retrieval Models in Machine Learning
 ---
 
 ![Image](images/1.png)

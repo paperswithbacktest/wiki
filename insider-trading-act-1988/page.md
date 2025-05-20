@@ -1,6 +1,9 @@
 ---
-title: "Insider Trading Act of 1988 (Algo Trading)"
-description: "Explore the pivotal Insider Trading Act of 1988 its impact on market integrity and the complexities of regulating insider trading in the era of algorithmic trading."
+category: quant_concept
+description: Explore the pivotal Insider Trading Act of 1988 its impact on market
+  integrity and the complexities of regulating insider trading in the era of algorithmic
+  trading.
+title: Insider Trading Act of 1988 (Algo Trading)
 ---
 
 In the world of finance, regulations play a crucial role in maintaining market integrity and investor trust by establishing a framework that dictates fair practices and protects market participants from fraudulent activities. The Insider Trading Act of 1988 is a prominent regulation seeking to address the unfair advantages gained through insider information. It represents a significant step in the legal battle against insider trading, where individuals exploit non-public information to gain unfair advantages in the stock market.

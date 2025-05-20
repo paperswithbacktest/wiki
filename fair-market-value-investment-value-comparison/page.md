@@ -1,6 +1,13 @@
 ---
-title: "Fair Market Value and Investment Value Comparison (Algo Trading)"
-description: "Explore the dynamic interplay between fair market value and investment value in financial decision-making, highlighting the significance of accurate asset valuation in developing investment strategies. Discover how algorithmic trading leverages these valuations to execute trades with precision, using advanced techniques such as discounted cash flow analysis and comparable company analysis. This guide equips financial professionals with the insights needed to navigate complex markets and optimize investment outcomes."
+category: quant_concept
+description: Explore the dynamic interplay between fair market value and investment
+  value in financial decision-making, highlighting the significance of accurate asset
+  valuation in developing investment strategies. Discover how algorithmic trading
+  leverages these valuations to execute trades with precision, using advanced techniques
+  such as discounted cash flow analysis and comparable company analysis. This guide
+  equips financial professionals with the insights needed to navigate complex markets
+  and optimize investment outcomes.
+title: Fair Market Value and Investment Value Comparison (Algo Trading)
 ---
 
 In the complex world of finance and investment, several key concepts guide decision-making and strategy development. Among these concepts are fair market value, financial valuation, investment value, and algorithmic trading. These terms are crucial for investors, analysts, and financial professionals aiming to optimize their financial strategies and make well-informed investment decisions. 

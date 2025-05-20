@@ -1,6 +1,8 @@
 ---
-title: "China as the World's Manufacturing Hub (Algo Trading)"
-description: "Discover how China's dominance in manufacturing and the rise of algorithmic trading are reshaping global industrial production and economic dynamics."
+category: quant_concept
+description: Discover how China's dominance in manufacturing and the rise of algorithmic
+  trading are reshaping global industrial production and economic dynamics.
+title: China as the World's Manufacturing Hub (Algo Trading)
 ---
 
 Global industrial production plays a crucial role in shaping the economic landscape, with China serving as a pivotal player due to its dominance in manufacturing. The interplay between China’s manufacturing sector and algorithmic trading (algotrading) illustrates the complexities and opportunities that exist at the intersection of traditional industries and technological advancements.

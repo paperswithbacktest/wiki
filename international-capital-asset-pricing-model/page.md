@@ -1,6 +1,9 @@
 ---
-title: "International Capital Asset Pricing Model (Algo Trading)"
-description: "Discover how the International Capital Asset Pricing Model enhances investment strategies by addressing global market dynamics and exchange rate risks in algo trading."
+category: quant_concept
+description: Discover how the International Capital Asset Pricing Model enhances investment
+  strategies by addressing global market dynamics and exchange rate risks in algo
+  trading.
+title: International Capital Asset Pricing Model (Algo Trading)
 ---
 
 In today's globalized financial markets, understanding and applying sophisticated financial models is essential for making informed investment decisions. Among these models, the Capital Asset Pricing Model (CAPM) remains a fundamental tool for investors. Developed in the 1960s, CAPM provides insights into expected returns on investment by linking them to market risk, often represented through the beta coefficient. The formula for CAPM is as follows:
@@ -211,4 +214,3 @@ In summary, the incorporation of ICAPM into financial analysis and algorithmic t
 
 10. **Coursera and edX Courses on Financial Modelling**  
     For those seeking more interactive learning experiences, several online courses offer modules dedicated to understanding financial models, including CAPM and ICAPM. These courses often include practical coding exercises and real-world applications.
-

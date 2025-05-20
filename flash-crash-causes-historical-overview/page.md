@@ -1,6 +1,8 @@
 ---
-title: "Flash Crash: Causes and Historical Overview (Algo Trading)"
-description: "Explore the causes of flash crashes and their historical impact on financial markets Discover how algorithmic trading influences these rapid market events"
+category: quant_concept
+description: Explore the causes of flash crashes and their historical impact on financial
+  markets Discover how algorithmic trading influences these rapid market events
+title: 'Flash Crash: Causes and Historical Overview (Algo Trading)'
 ---
 
 The stock market is a crucial pillar of the global economy, acting as a platform where equities, bonds, and other securities are traded, facilitating capital formation and driving economic growth. It reflects economic conditions, guides investment decisions, and is pivotal in shaping financial policies worldwide. The stock market's significance extends beyond national borders, influencing international trade, investment flows, and policy formulations.

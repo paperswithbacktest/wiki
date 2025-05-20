@@ -1,6 +1,9 @@
 ---
-title: "Methods for Enhancing Investment Performance (Algo Trading)"
-description: "Explore diverse investment strategies and algorithmic trading to optimize financial performance. Learn actionable tips for better investment outcomes and risk management."
+category: trading_strategy
+description: Explore diverse investment strategies and algorithmic trading to optimize
+  financial performance. Learn actionable tips for better investment outcomes and
+  risk management.
+title: Methods for Enhancing Investment Performance (Algo Trading)
 ---
 
 The increasing interest in investment strategies reflects a growing awareness of the importance of financial literacy in achieving personal and economic goals. As individuals seek to build wealth and ensure financial security, understanding the various avenues of investment has become crucial. This knowledge empowers individuals to make informed decisions that align with their long-term objectives.

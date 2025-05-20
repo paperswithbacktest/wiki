@@ -1,6 +1,9 @@
 ---
-title: "Profit Margin Types and Uses in Business and Investing (Algo Trading)"
-description: "Explore how understanding profit margins and using algorithmic trading can boost investment returns by combining efficient cost management with advanced trading strategies."
+category: quant_concept
+description: Explore how understanding profit margins and using algorithmic trading
+  can boost investment returns by combining efficient cost management with advanced
+  trading strategies.
+title: Profit Margin Types and Uses in Business and Investing (Algo Trading)
 ---
 
 In today's fast-paced financial environment, understanding profit margins and algorithmic trading is essential for investors and business owners. The concept of profit margins serves as a reflection of a company's financial health, offering insights into its effectiveness in cost management and its ability to generate revenue. High profit margins often signal robust operational efficiency and competitive advantages, making them a critical metric for evaluating a company's performance.

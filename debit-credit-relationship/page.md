@@ -1,6 +1,9 @@
 ---
-title: "Debit and Credit Relationship (Algo Trading)"
-description: "Explore the crucial role of debits and credits in accounting and their integration with algorithmic trading for optimized trading strategies and accurate record-keeping."
+category: quant_concept
+description: Explore the crucial role of debits and credits in accounting and their
+  integration with algorithmic trading for optimized trading strategies and accurate
+  record-keeping.
+title: Debit and Credit Relationship (Algo Trading)
 ---
 
 In today's fast-evolving financial landscape, a comprehensive understanding of both accounting principles and advanced trading techniques is essential for financial decision-making. The integration of these disciplines has become particularly relevant with the rise of algorithmic trading, which leverages computer programs to make rapid and data-driven trading decisions. At the core of this intersection lies the fundamental accounting concept of debits and credits, a dual-entry bookkeeping system that helps maintain balanced and accurate financial statements.

@@ -1,6 +1,8 @@
 ---
-title: "Marginal Utility and Consumer Choice (Algo Trading)"
-description: "Explore the synergy between marginal utility consumer choice theory and algorithmic trading to understand decision-making in economics and financial markets."
+category: quant_concept
+description: Explore the synergy between marginal utility consumer choice theory and
+  algorithmic trading to understand decision-making in economics and financial markets.
+title: Marginal Utility and Consumer Choice (Algo Trading)
 ---
 
 The interconnectedness between marginal utility economics, consumer choice theory, and algorithmic trading forms a crucial foundation for understanding decision-making processes in both economics and financial markets. Marginal utility, a key concept in microeconomics, refers to the additional satisfaction or utility a consumer derives from consuming an additional unit of a good or service. This concept plays a pivotal role in shaping consumer choice theory, which examines how individuals allocate their limited resources to maximize overall satisfaction.

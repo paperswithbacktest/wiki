@@ -1,6 +1,8 @@
 ---
-title: "Expiration Time: Definition, Mechanism, and Example (Algo Trading)"
-description: "Discover how expiration time impacts algorithmic trading. Understand key mechanisms and strategies to optimize trading outcomes and navigate market dynamics."
+category: quant_concept
+description: Discover how expiration time impacts algorithmic trading. Understand
+  key mechanisms and strategies to optimize trading outcomes and navigate market dynamics.
+title: 'Expiration Time: Definition, Mechanism, and Example (Algo Trading)'
 ---
 
 Algorithmic trading, often referred to as algo trading, involves using computer algorithms to execute various trading tasks at speeds and frequencies that are impossible for a human trader. This technological advancement in the financial markets has led to increased efficiency and a significant reduction in human errors. One of the critical components in mastering algorithmic trading, particularly in options trading, is a thorough understanding of expiration time.
@@ -181,4 +183,3 @@ The key to harnessing expiration time lies in comprehensively understanding its 
 - Brogaard, J., Hendershott, T., & Riordan, R. 'High-Frequency Trading and Price Discovery.' Published in The Review of Financial Studies, this paper examines the role of high-frequency trading in markets, analyzing its impact on price formation and market efficiency.
 
 - Harris, L. 'Trading and Exchanges: Market Microstructure for Practitioners.' This text explores the intricate details of market microstructure, offering practical insights for practitioners on how markets are structured and how trading occurs within these frameworks.
-

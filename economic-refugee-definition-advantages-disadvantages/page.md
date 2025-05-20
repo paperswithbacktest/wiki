@@ -1,6 +1,8 @@
 ---
-title: "Economic Refugee: Definition, Advantages, and Disadvantages (Algo Trading)"
-description: "Discover the dynamics of economic migration including the benefits and challenges faced by economic refugees and their impact on global migration trends."
+category: quant_concept
+description: Discover the dynamics of economic migration including the benefits and
+  challenges faced by economic refugees and their impact on global migration trends.
+title: 'Economic Refugee: Definition, Advantages, and Disadvantages (Algo Trading)'
 ---
 
 The movement of people across borders in search of better economic opportunities has long been a significant aspect of migration. Economic refugees, or those engaged in economic migration, are individuals leaving their home countries primarily to pursue improved job prospects and higher living standards. This phenomenon has been a major driver of global migration patterns, reflecting the disparities in economic conditions across different regions. 

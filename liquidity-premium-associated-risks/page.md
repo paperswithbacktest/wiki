@@ -1,6 +1,8 @@
 ---
-title: "Liquidity Premium and Associated Risks (Algo Trading)"
-description: "Explore the investment dynamics of liquidity premiums financial risks and algorithmic trading. Gain insights into optimizing portfolios amid market complexities."
+category: quant_concept
+description: Explore the investment dynamics of liquidity premiums financial risks
+  and algorithmic trading. Gain insights into optimizing portfolios amid market complexities.
+title: Liquidity Premium and Associated Risks (Algo Trading)
 ---
 
 The financial market landscape is characterized by continuous change and adaptation, driven by a myriad of factors that collectively influence its complexity and behavior. Among these influential elements are the liquidity premium, financial risk, and algorithmic trading, each playing a pivotal role in shaping investment strategies and outcomes. The liquidity premium refers to the additional return demanded by investors as compensation for the risk associated with holding less liquid assets. Understanding this concept is vital as it affects the yields of long-term investments, influencing decisions around portfolio composition.

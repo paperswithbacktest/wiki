@@ -1,6 +1,9 @@
 ---
-title: "Position Trading: Strategies, Advantages, and Disadvantages (Algo Trading)"
-description: "Explore position and algorithmic trading their strategies advantages and drawbacks. Learn how to align trading methods with your investment goals and risk tolerance."
+category: trading_strategy
+description: Explore position and algorithmic trading their strategies advantages
+  and drawbacks. Learn how to align trading methods with your investment goals and
+  risk tolerance.
+title: 'Position Trading: Strategies, Advantages, and Disadvantages (Algo Trading)'
 ---
 
 Position trading and algo trading are two distinctive approaches that have gained traction among traders. Each method presents its own unique methodologies and strategies, offering both advantages and disadvantages tailored to various trading preferences.

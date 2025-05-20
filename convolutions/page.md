@@ -1,7 +1,8 @@
 ---
-title: Key Convolution Techniques in Machine Learning Architectures
+category: quant_concept
 description: Convolution techniques in machine learning explained with practical insights
   on kernel types to improve model efficiency and accuracy Discover more inside
+title: Key Convolution Techniques in Machine Learning Architectures
 ---
 
 ![Image](images/1.gif)

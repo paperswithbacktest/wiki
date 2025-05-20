@@ -1,6 +1,8 @@
 ---
-title: "Comparison of ETFs and Index Mutual Funds (Algo Trading)"
-description: "Explore the key differences between ETFs and index mutual funds in this comprehensive guide Discover their structures benefits and risks for investors"
+category: trading_strategy
+description: Explore the key differences between ETFs and index mutual funds in this
+  comprehensive guide Discover their structures benefits and risks for investors
+title: Comparison of ETFs and Index Mutual Funds (Algo Trading)
 ---
 
 Investment vehicles are diverse financial products available to investors, each offering unique risk-return profiles and strategic advantages. They include stocks, bonds, real estate, and various funds, each serving distinct financial goals. Among these, index mutual funds, exchange-traded funds (ETFs), and algorithmic trading stand out for their unique characteristics and widespread adoption.

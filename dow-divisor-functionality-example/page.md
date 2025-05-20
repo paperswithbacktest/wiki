@@ -1,6 +1,8 @@
 ---
-title: "Dow Divisor: Functionality and Example (Algo Trading)"
-description: "Explore how the Dow Divisor maintains the Dow Jones Industrial Average's integrity amid corporate actions, aiding algorithmic trading and investment strategies."
+category: quant_concept
+description: Explore how the Dow Divisor maintains the Dow Jones Industrial Average's
+  integrity amid corporate actions, aiding algorithmic trading and investment strategies.
+title: 'Dow Divisor: Functionality and Example (Algo Trading)'
 ---
 
 Understanding stock indices is crucial for investors looking to make informed decisions in financial markets. Stock indices provide a snapshot of market performance, serving as benchmarks for investment portfolios and economic sentiment indicators. Central to this article is the exploration of stock index calculations, particularly focusing on the Dow Divisor and the role of algorithmic trading. By examining these components, we gain insights into how they collectively shape market dynamics and inform investment strategies.

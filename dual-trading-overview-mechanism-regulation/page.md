@@ -1,6 +1,8 @@
 ---
-title: "Dual Trading: Overview, Mechanism, and Regulation (Algo Trading)"
-description: "Explore the complexities of dual trading and algorithmic trading in financial markets Understand their mechanisms, benefits, risks, and regulatory frameworks"
+category: quant_concept
+description: Explore the complexities of dual trading and algorithmic trading in financial
+  markets Understand their mechanisms, benefits, risks, and regulatory frameworks
+title: 'Dual Trading: Overview, Mechanism, and Regulation (Algo Trading)'
 ---
 
 The financial markets function under a sophisticated array of regulations designed to ensure integrity and stability. These regulations are crucial for maintaining investor confidence and the smooth functioning of markets. Trading today includes a variety of methods, notably dual trading and algorithmic trading, each of which carries specific implications for market participants and regulators alike.

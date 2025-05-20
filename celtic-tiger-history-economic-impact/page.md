@@ -1,6 +1,8 @@
 ---
-title: "Celtic Tiger: History and Economic Impact (Algo Trading)"
-description: "Explore the economic boom of the Celtic Tiger era in Ireland and its lasting impact Discover key factors like low corporate tax and foreign investments"
+category: quant_concept
+description: Explore the economic boom of the Celtic Tiger era in Ireland and its
+  lasting impact Discover key factors like low corporate tax and foreign investments
+title: 'Celtic Tiger: History and Economic Impact (Algo Trading)'
 ---
 
 The term 'Celtic Tiger' refers to the period from 1995 to 2007 when Ireland experienced unprecedented economic growth. This era dramatically transformed the nation, elevating it from one of the poorest countries in Europe to one of the richest. Several key elements contributed to this economic upturn. Among these were increased foreign investments encouraged by low corporate tax rates, which made Ireland an attractive destination for multinational corporations. The period was further characterized by a booming construction sector, adding to the economic vibrancy.
@@ -125,4 +127,4 @@ As Ireland continues to progress, lessons learned from the Celtic Tiger period w
 
 [7]: Quinn, J. B. (2008). ["The Celtic Tiger: Gaining and Losing Economic Advantage in the Irish Economy"](https://www.researchgate.net/publication/379434243_Ireland's_Long_Economic_Boom_The_Celtic_Tiger_Economy_1986-2007). Journal of International Business Studies, 39(2), 229-247.
 
-[8]: Murphy, A. E. (2000). ["The 'Celtic Tiger'—An Analysis of Ireland's Economic Growth Performance"](https://cadmus.eui.eu/handle/1814/1656). Economic Policy. 
+[8]: Murphy, A. E. (2000). ["The 'Celtic Tiger'—An Analysis of Ireland's Economic Growth Performance"](https://cadmus.eui.eu/handle/1814/1656). Economic Policy.

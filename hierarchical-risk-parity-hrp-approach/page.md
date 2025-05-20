@@ -1,6 +1,15 @@
 ---
-title: "Hierarchical Risk Parity (HRP) approach (Algo Trading)"
-description: Hierarchical Risk Parity (HRP) is an innovative and advanced portfolio optimization method transforming algorithmic trading by emphasizing robust risk management and enhanced diversification. Unlike classical risk parity strategies, HRP employs machine learning and graph theory to form a more resilient hierarchical structure based on asset correlations. This approach overcomes traditional limitations by reducing reliance on volatile market data and enabling a stable and balanced portfolio. HRP utilizes its unique three-step algorithm to build a resilient investment strategy, making it a preferred choice for traders seeking to improve risk-adjusted returns and achieve consistent market performance.
+category: trading_strategy
+description: Hierarchical Risk Parity (HRP) is an innovative and advanced portfolio
+  optimization method transforming algorithmic trading by emphasizing robust risk
+  management and enhanced diversification. Unlike classical risk parity strategies,
+  HRP employs machine learning and graph theory to form a more resilient hierarchical
+  structure based on asset correlations. This approach overcomes traditional limitations
+  by reducing reliance on volatile market data and enabling a stable and balanced
+  portfolio. HRP utilizes its unique three-step algorithm to build a resilient investment
+  strategy, making it a preferred choice for traders seeking to improve risk-adjusted
+  returns and achieve consistent market performance.
+title: Hierarchical Risk Parity (HRP) approach (Algo Trading)
 ---
 
 Hierarchical Risk Parity (HRP) is an advanced portfolio optimization technique increasingly utilized in algorithmic trading to enhance portfolio diversification and risk management. Unlike traditional risk parity strategies, which often rely on precise return estimates and can be sensitive to volatility fluctuations, HRP introduces a more adaptable approach that incorporates elements of machine learning and graph theory. By focusing on the correlations between assets, HRP constructs a hierarchical structure that offers a more robust risk distribution.

@@ -1,6 +1,9 @@
 ---
-title: "Archipelagos: Definition and Function (Algo Trading)"
-description: "Explore how geographical metaphors like archipelagos enhance understanding of algorithmic trading by illustrating complex financial strategies as interconnected networks."
+category: quant_concept
+description: Explore how geographical metaphors like archipelagos enhance understanding
+  of algorithmic trading by illustrating complex financial strategies as interconnected
+  networks.
+title: 'Archipelagos: Definition and Function (Algo Trading)'
 ---
 
 Understanding the complex world of trading and finance often requires diving into niche areas with unique terminologies. In modern financial markets, these terminologies frequently intersect with concepts and metaphors derived from other disciplines, including geography. This article aims to explore one such intriguing intersection: the metaphorical application of island chains—referred to as 'archipelagos'—within algorithmic trading environments, which is often abbreviated as 'algo trading'. The concept of an archipelago traditionally describes a collection or chain of islands that may have both environmental and strategic significance due to their geographic distribution.

@@ -1,6 +1,13 @@
 ---
-title: "Duration in Fixed Income Investing (Algo Trading)"
-description: "Explore the pivotal role of fixed income securities like bonds in financial markets offering stability and predictable returns. Learn how algorithmic trading transforms fixed income investing providing speed precision and data-driven decision-making. Delve into the importance of understanding duration a key measure of a bond's sensitivity to interest rate changes crucial for managing risk. Discover how technology and investment strategies merge to optimize returns and manage risks in modern fixed income markets."
+category: quant_concept
+description: Explore the pivotal role of fixed income securities like bonds in financial
+  markets offering stability and predictable returns. Learn how algorithmic trading
+  transforms fixed income investing providing speed precision and data-driven decision-making.
+  Delve into the importance of understanding duration a key measure of a bond's sensitivity
+  to interest rate changes crucial for managing risk. Discover how technology and
+  investment strategies merge to optimize returns and manage risks in modern fixed
+  income markets.
+title: Duration in Fixed Income Investing (Algo Trading)
 ---
 
 Fixed income securities, such as bonds, play a pivotal role in the financial markets, providing stability and predictable returns for investors. These securities are particularly appealing for those seeking to diversify their portfolios and mitigate risks associated with equity investments. With fixed income instruments, investors essentially lend money to issuers, such as corporations or governments, and receive periodic interest payments over a specified term, along with the return of the principal upon maturity.

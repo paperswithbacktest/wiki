@@ -1,7 +1,8 @@
 ---
-title: Fiddle For Machine Learning Model Management And Experimentation
+category: quant_concept
 description: Fiddle streamlines machine learning model management and experimentation
   with code-free tweaks and deployment Discover more inside
+title: Fiddle For Machine Learning Model Management And Experimentation
 ---
 
 ![Image](images/1.jpeg)

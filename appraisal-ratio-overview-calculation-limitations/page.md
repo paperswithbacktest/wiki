@@ -1,6 +1,9 @@
 ---
-title: "Appraisal Ratio: Overview, Calculation, and Limitations (Algo Trading)"
-description: "Explore the appraisal ratio in algo trading to measure portfolio returns against unsystematic risk. Understand its role in optimizing strategies and assessing managers."
+category: quant_concept
+description: Explore the appraisal ratio in algo trading to measure portfolio returns
+  against unsystematic risk. Understand its role in optimizing strategies and assessing
+  managers.
+title: 'Appraisal Ratio: Overview, Calculation, and Limitations (Algo Trading)'
 ---
 
 In today's fast-paced financial markets, understanding the performance of investment strategies is crucial for investors and fund managers who seek to optimize returns and sustainably grow their portfolios. Among the various metrics available for evaluating investment performance, the appraisal ratio stands out as an essential tool. This ratio helps investors assess the effectiveness of fund managers by measuring their ability to generate returns beyond market benchmarks while accounting for the specific risks associated with their portfolios.

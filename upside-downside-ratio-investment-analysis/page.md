@@ -1,6 +1,8 @@
 ---
-title: "Upside/Downside Ratio in Investment Analysis (Algo Trading)"
-description: "Explore the pivotal role of the upside/downside ratio in investment strategies to assess market momentum using algorithmic trading for informed decisions."
+category: trading_strategy
+description: Explore the pivotal role of the upside/downside ratio in investment strategies
+  to assess market momentum using algorithmic trading for informed decisions.
+title: Upside/Downside Ratio in Investment Analysis (Algo Trading)
 ---
 
 Investment ratios hold immense significance in the financial markets as tools that provide insights into the performance and risk of different investment opportunities. They help investors make informed decisions by evaluating potential investments in quantitative terms. Among these ratios, the upside/downside ratio plays a pivotal role in investment strategies, offering a nuanced view of market dynamics by measuring gains against losses over a particular period. This ratio allows investors to gauge the potential for profit relative to risk, thereby informing their buy, hold, or sell decisions.

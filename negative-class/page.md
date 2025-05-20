@@ -1,7 +1,8 @@
 ---
-title: Understanding the Negative Class in Machine Learning Models
+category: quant_concept
 description: Negative class in machine learning guides threshold and imbalance techniques
   to reduce false positives while improving accuracy Discover more inside
+title: Understanding the Negative Class in Machine Learning Models
 ---
 
 ![Image](images/1.png)

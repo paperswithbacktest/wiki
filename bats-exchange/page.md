@@ -1,6 +1,8 @@
 ---
-title: "BATS Exchange (Algo Trading)"
-description: "Explore BATS Global Markets' journey from an alternative trading system to a key player in algorithmic trading and its impact on modern financial markets."
+category: quant_concept
+description: Explore BATS Global Markets' journey from an alternative trading system
+  to a key player in algorithmic trading and its impact on modern financial markets.
+title: BATS Exchange (Algo Trading)
 ---
 
 BATS Global Markets has been instrumental in shaping the contemporary landscape of global stock exchanges. Initially positioned as an alternative trading system, BATS quickly emerged as a formidable competitor to traditional powerhouses like the New York Stock Exchange (NYSE) and NASDAQ. This article examines the transformative journey of BATS Global Markets, focusing on its pivotal moments and how these have influenced modern trading practices. Further, we analyze the strategic implications of its acquisition by Cboe Global Markets, a move that not only altered BATS' trajectory but also had far-reaching effects on the broader financial markets.

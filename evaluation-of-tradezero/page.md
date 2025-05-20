@@ -1,6 +1,8 @@
 ---
-title: "Evaluation of TradeZero (Algo Trading)"
-description: "Explore TradeZero's advanced algorithmic trading platform, offering automated strategies and comprehensive tools for beginners and seasoned traders worldwide."
+category: trading_strategy
+description: Explore TradeZero's advanced algorithmic trading platform, offering automated
+  strategies and comprehensive tools for beginners and seasoned traders worldwide.
+title: Evaluation of TradeZero (Algo Trading)
 ---
 
 Online trading platforms have become essential tools for traders due to their ability to facilitate the buying and selling of various securities over the internet. These platforms provide individual investors and traders with direct access to financial markets, offering a wide range of services including stock trading, options trading, and even forex trading. As a result, they significantly contribute to the democratization of stock market access, enabling anyone with internet access to engage in trading activities that were once only available to professional brokers.

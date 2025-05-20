@@ -1,6 +1,8 @@
 ---
-title: "List of Largest Retail Companies (Algo Trading)"
-description: "Explore how top retail giants Walmart, Amazon, and Costco leverage algorithmic trading to optimize operations and maintain dominance in the global market."
+category: dataset
+description: Explore how top retail giants Walmart, Amazon, and Costco leverage algorithmic
+  trading to optimize operations and maintain dominance in the global market.
+title: List of Largest Retail Companies (Algo Trading)
 ---
 
 The global retail industry stands as a cornerstone of the world economy, representing a dynamic and expansive sector with a profound influence on economic trends and consumer behaviors. This industry encompasses a diverse range of businesses, from small local shops to colossal multinational corporations. The convergence of traditional retail practices with advanced technology marks a significant shift in how the industry operates today, driven notably by algorithmic trading. Algorithmic trading refers to the use of complex algorithms to optimize trading decisions, offering the retail sector new methodologies to enhance operational efficiencies and maintain a competitive edge.

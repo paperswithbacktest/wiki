@@ -1,6 +1,9 @@
 ---
-title: "Investment Philosophy (Algo Trading)"
-description: "Discover the intricacies of investment philosophy in the modern landscape with insights into algorithmic trading blending traditional strategies and innovative techniques."
+category: trading_strategy
+description: Discover the intricacies of investment philosophy in the modern landscape
+  with insights into algorithmic trading blending traditional strategies and innovative
+  techniques.
+title: Investment Philosophy (Algo Trading)
 ---
 
 In the complex world of finance, crafting a robust investment strategy is essential for achieving financial success. As economic landscapes continually evolve, investors must adapt to various opportunities and challenges to optimize their portfolios. This article explores the wide array of investment types, offering insights into philosophical perspectives and modern approaches such as algorithmic trading. 

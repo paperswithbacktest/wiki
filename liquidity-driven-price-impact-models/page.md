@@ -1,6 +1,9 @@
 ---
-title: "Liquidity-Driven Price Impact Models (Algo Trading)"
-description: "Explore the impact of liquidity on price in algorithmic trading Learn how liquidity-driven models optimize trades reducing transaction costs and improving efficiency"
+category: quant_concept
+description: Explore the impact of liquidity on price in algorithmic trading Learn
+  how liquidity-driven models optimize trades reducing transaction costs and improving
+  efficiency
+title: Liquidity-Driven Price Impact Models (Algo Trading)
 ---
 
 Algorithmic trading, often referred to as algo trading, employs complex algorithms to execute trades at high speeds and frequencies. It has transformed modern financial markets by enhancing market efficiency, reducing transaction costs, and providing liquidity. These algorithms analyze vast amounts of market data and make trading decisions based on predefined criteria, significantly increasing the speed and accuracy of trading.

@@ -1,6 +1,9 @@
 ---
-title: "Lapse in Insurance: Mechanism and Consequences (Algo Trading)"
-description: "Explore the impacts of insurance lapses and their relation to algorithmic trading Learn how lapses affect financial risk and market strategies in this insightful article"
+category: quant_concept
+description: Explore the impacts of insurance lapses and their relation to algorithmic
+  trading Learn how lapses affect financial risk and market strategies in this insightful
+  article
+title: 'Lapse in Insurance: Mechanism and Consequences (Algo Trading)'
 ---
 
 A lapse, in the context of financial management and insurance, refers to the discontinuation or expiration of a policy or contract due to non-fulfillment of certain obligations. Typically, this can happen when a policyholder fails to make required premium payments, leading to a voided insurance policy. Such lapses signify a break in coverage, leaving the individual or entity without protection against risks previously covered by the policy. The implications of a policy lapse are broad, impacting the financial stability and risk exposure of the policyholder. Often, lapses result in financial penalties or the necessity to negotiate new terms to reinstate coverage, which may come with increased premiums or less favorable conditions.

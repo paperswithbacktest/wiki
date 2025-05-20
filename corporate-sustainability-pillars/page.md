@@ -1,6 +1,9 @@
 ---
-title: "Corporate Sustainability Pillars (Algo Trading)"
-description: "Explore corporate sustainability in the context of algorithmic trading and how it integrates Environmental Social and Governance factors to boost ethical investing."
+category: quant_concept
+description: Explore corporate sustainability in the context of algorithmic trading
+  and how it integrates Environmental Social and Governance factors to boost ethical
+  investing.
+title: Corporate Sustainability Pillars (Algo Trading)
 ---
 
 In today's business landscape, sustainability is not merely a buzzword but an essential strategic goal that aligns business operations with the broader needs of the world. As environmental and social concerns continue to escalate, the importance of corporate sustainability has surged to the forefront of business priorities. Companies are increasingly recognizing the necessity to incorporate sustainability into their core strategies, aiming for a balanced approach that includes environmental stewardship, social equity, and economic viability.

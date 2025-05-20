@@ -1,7 +1,8 @@
 ---
-title: Understanding Adagrad Optimization For Sparse Data Models
+category: quant_concept
 description: Adagrad adapts learning rates for each parameter based on gradient history
   to boost performance on sparse data sets in NLP models Discover more inside.
+title: Understanding Adagrad Optimization For Sparse Data Models
 ---
 
 ![Image](images/1.jpeg)

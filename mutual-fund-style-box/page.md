@@ -1,6 +1,8 @@
 ---
-title: "Mutual Fund Style Box (Algo Trading)"
-description: "Explore the integration of style box mutual funds and algorithmic trading to enhance investment strategies and optimize portfolios for better returns."
+category: trading_strategy
+description: Explore the integration of style box mutual funds and algorithmic trading
+  to enhance investment strategies and optimize portfolios for better returns.
+title: Mutual Fund Style Box (Algo Trading)
 ---
 
 The investment landscape is vast and complex, providing a myriad of strategies and instruments designed to enhance returns and manage risk. Among these, mutual funds and algorithmic trading stand out as prominent tools for investors aiming to optimize their portfolios. Each offers distinct advantages and can be tailored to meet individual investment objectives and risk tolerance levels.

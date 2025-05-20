@@ -1,6 +1,8 @@
 ---
-title: "Chicago Board of Trade Overview (Algo Trading)"
-description: "Explore the Chicago Board of Trade's pivotal role in futures trading with insights on algorithmic strategies, technological influence, and market evolution."
+category: quant_concept
+description: Explore the Chicago Board of Trade's pivotal role in futures trading
+  with insights on algorithmic strategies, technological influence, and market evolution.
+title: Chicago Board of Trade Overview (Algo Trading)
 ---
 
 Futures trading is a critical component of the global financial markets, serving as a mechanism for participants to hedge against price fluctuations and speculate on the future movements of asset prices. At its core, futures trading involves the buying and selling of standardized contracts with predetermined prices for delivery of an asset at a future date. These financial instruments are traded on organized exchanges, which act as central marketplaces where futures contracts are standardized, traded, and cleared.

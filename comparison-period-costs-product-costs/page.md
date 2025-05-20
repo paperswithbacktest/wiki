@@ -1,6 +1,8 @@
 ---
-title: "Comparison of Period Costs and Product Costs (Algo Trading)"
-description: "Explore the differences between period and product costs in cost accounting and their influence on algorithmic trading strategies for profitability and efficiency."
+category: trading_strategy
+description: Explore the differences between period and product costs in cost accounting
+  and their influence on algorithmic trading strategies for profitability and efficiency.
+title: Comparison of Period Costs and Product Costs (Algo Trading)
 ---
 
 In today's financial landscape, understanding cost structures and trading strategies is paramount for businesses seeking sustainability and profitability. This article aims to elucidate the intricate details of product costs and period costs within cost accounting, alongside their implications in the rapidly evolving field of algorithmic trading.

@@ -1,6 +1,9 @@
 ---
-title: "Disparity in Bid and Ask Quotes during After-Hours Trading (Algo Trading)"
-description: "Explore the dynamics of after-hours trading focusing on bid and ask price disparities and how algorithmic trading can optimize strategies and manage risks effectively."
+category: quant_concept
+description: Explore the dynamics of after-hours trading focusing on bid and ask price
+  disparities and how algorithmic trading can optimize strategies and manage risks
+  effectively.
+title: Disparity in Bid and Ask Quotes during After-Hours Trading (Algo Trading)
 ---
 
 After-hours trading refers to the buying and selling of securities outside the regular trading hours of major stock exchanges. Traditionally, these exchanges, such as the New York Stock Exchange (NYSE) and the Nasdaq, operate from 9:30 a.m. to 4:00 p.m. Eastern Time (ET). However, with the evolution of electronic communication networks (ECNs), the window for trading has extended beyond this timeframe, accommodating both pre-market and after-hours sessions. The primary objective of ECNs is to match buy and sell orders electronically, thereby facilitating trades without the need for a central exchange floor, which has significantly increased the accessibility and popularity of after-hours trading.

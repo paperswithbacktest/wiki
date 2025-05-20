@@ -1,6 +1,8 @@
 ---
-title: "Creative Destruction and Innovation (Algo Trading)"
-description: "Explore creative destruction's role in economic growth through innovation with a focus on algorithmic trading's transformation of financial markets."
+category: quant_concept
+description: Explore creative destruction's role in economic growth through innovation
+  with a focus on algorithmic trading's transformation of financial markets.
+title: Creative Destruction and Innovation (Algo Trading)
 ---
 
 Creative destruction is a significant concept in comprehending the fluidity of economic systems and their propensity for innovation. Originating from the work of economist Joseph Schumpeter, the term describes the process through which old, inefficient practices and systems are dismantled to make way for new, more effective innovations. This relentless cycle of transformation is seen as a fundamental characteristic of capitalist economies, driving continuous advancement and efficiency.

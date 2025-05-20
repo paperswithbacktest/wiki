@@ -1,6 +1,12 @@
 ---
-title: "Race to the Bottom (Algo Trading)"
-description: "Explore the complex dynamics of globalization and algorithmic trading in modern markets. Understand how regulatory standards shape competition, address ethical concerns, and maintain market stability amidst global economic challenges. Delve into the implications of economic competition, regulatory harmonization, and the race to the bottom in labor, taxation, and environmental policies, providing insights into navigating today's interconnected financial landscape."
+category: quant_concept
+description: Explore the complex dynamics of globalization and algorithmic trading
+  in modern markets. Understand how regulatory standards shape competition, address
+  ethical concerns, and maintain market stability amidst global economic challenges.
+  Delve into the implications of economic competition, regulatory harmonization, and
+  the race to the bottom in labor, taxation, and environmental policies, providing
+  insights into navigating today's interconnected financial landscape.
+title: Race to the Bottom (Algo Trading)
 ---
 
 In today’s globalized economy, regulatory standards are instrumental in shaping competitive dynamics across international markets. The globalization of markets has led to increased economic competition, fostering innovation while simultaneously presenting a host of regulatory challenges. This dynamic landscape has given rise to algorithmic trading, a technological advancement that significantly impacts market efficiency and the broader competitive environment.

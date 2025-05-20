@@ -1,7 +1,8 @@
 ---
-title: Machine Learning Motion Control Systems For Robotics and Vehicles
+category: quant_concept
 description: Machine learning motion control uses adaptive algorithms to optimize
   robotics and drone movements for precision and efficiency Discover more inside
+title: Machine Learning Motion Control Systems For Robotics and Vehicles
 ---
 
 ![Image](images/1.jpeg)

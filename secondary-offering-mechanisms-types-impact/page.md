@@ -1,6 +1,9 @@
 ---
-title: "Secondary Offering: Mechanisms, Types, and Impact (Algo Trading)"
-description: "Explore the mechanisms and impact of secondary offerings in the stock market emphasizing the role of algorithmic trading in managing these complex equity issuances."
+category: quant_concept
+description: Explore the mechanisms and impact of secondary offerings in the stock
+  market emphasizing the role of algorithmic trading in managing these complex equity
+  issuances.
+title: 'Secondary Offering: Mechanisms, Types, and Impact (Algo Trading)'
 ---
 
 The stock market is a highly intricate and dynamic ecosystem that is continuously evolving, driven by a multitude of financial instruments and mechanisms. Among these, secondary offerings, or equity issuances, hold significant importance within the capital market landscape. Unlike initial public offerings (IPOs), where a company offers shares for the first time, secondary offerings pertain to the sale of previously issued securities. These transactions can take various forms and serve diverse purposes, impacting both the issuing company and the broader market.

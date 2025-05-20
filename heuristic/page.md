@@ -1,7 +1,8 @@
 ---
-title: Heuristics in Machine Learning for Fast and Efficient Solutions
+category: quant_concept
 description: Machine learning heuristics apply rules of thumb to accelerate problem
   solving and optimize algorithms while saving resources Discover more inside.
+title: Heuristics in Machine Learning for Fast and Efficient Solutions
 ---
 
 ![Image](images/1.jpeg)

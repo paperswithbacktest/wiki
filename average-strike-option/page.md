@@ -1,6 +1,9 @@
 ---
-title: "Average Strike Option (Algo Trading)"
-description: "Explore average strike options in algorithmic trading and their unique pricing structure. Understand how they reduce market manipulation and volatility exposure."
+category: quant_concept
+description: Explore average strike options in algorithmic trading and their unique
+  pricing structure. Understand how they reduce market manipulation and volatility
+  exposure.
+title: Average Strike Option (Algo Trading)
 ---
 
 Financial derivatives are sophisticated financial instruments whose value is contingent upon the price fluctuations of underlying assets such as stocks, bonds, or commodities. Among the most prominent derivatives are options, which are pivotal in constructing diverse investment strategies. Options trading grants an individual the right, though not the obligation, to buy or sell an asset at a predetermined price within a specified timeframe. This flexibility in decision-making allows investors to hedge against potential losses, speculate on market movements, and increase leverage to amplify potential returns.

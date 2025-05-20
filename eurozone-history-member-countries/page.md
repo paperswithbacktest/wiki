@@ -1,6 +1,8 @@
 ---
-title: "Eurozone History and Member Countries (Algo Trading)"
-description: "Explore the Eurozone's history and member countries while understanding how algorithmic trading reshapes economic landscapes of this global economic powerhouse."
+category: quant_concept
+description: Explore the Eurozone's history and member countries while understanding
+  how algorithmic trading reshapes economic landscapes of this global economic powerhouse.
+title: Eurozone History and Member Countries (Algo Trading)
 ---
 
 The Eurozone represents a significant component of the global economy, comprising European Union (EU) member states that have adopted the euro as their primary legal tender. It serves as a pivotal region for economic activity, influencing global trade dynamics and financial markets. This comprehensive article aims to provide an incisive examination of the Eurozone's member countries, its historical development, and the influence of modern financial technologies like algorithmic trading on its economic structure.

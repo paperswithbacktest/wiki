@@ -1,7 +1,8 @@
 ---
-title: Edit Distance Algorithms and Applications in Machine Learning
+category: quant_concept
 description: Edit distance quantifies string similarity with minimal edits and powers
   spell checking, speech recognition, DNA sequence analysis. Discover more inside
+title: Edit Distance Algorithms and Applications in Machine Learning
 ---
 
 ![Image](images/1.jpeg)

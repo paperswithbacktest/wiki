@@ -1,6 +1,9 @@
 ---
-title: "Omani Rial: Currency of Oman (Algo Trading)"
-description: "Explore the economic role of the Omani Rial in global markets and its interaction with algorithmic trading which enhances currency liquidity and market efficiency."
+category: quant_concept
+description: Explore the economic role of the Omani Rial in global markets and its
+  interaction with algorithmic trading which enhances currency liquidity and market
+  efficiency.
+title: 'Omani Rial: Currency of Oman (Algo Trading)'
 ---
 
 The Omani Rial (OMR) serves as the official currency of the Sultanate of Oman, playing a central role in shaping the nation's economy and financial systems. Given its economic significance, an understanding of the OMR is essential for appreciating its impact within both domestic and global financial landscapes. As a currency deeply intertwined with Oman's economic strategies, the OMR provides a stable foundation that supports the nation’s fiscal policies, particularly in a region where oil exports dominate.

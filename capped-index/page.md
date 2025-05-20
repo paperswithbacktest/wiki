@@ -1,6 +1,8 @@
 ---
-title: "Capped Index (Algo Trading)"
-description: "Discover the fundamentals of capped index, index funds, and algorithmic trading in financial markets to enhance risk management and optimize portfolio performance."
+category: trading_strategy
+description: Discover the fundamentals of capped index, index funds, and algorithmic
+  trading in financial markets to enhance risk management and optimize portfolio performance.
+title: Capped Index (Algo Trading)
 ---
 
 The financial markets are complex ecosystems comprising a wide array of investment strategies, each serving a unique purpose within the investment landscape. Among these strategies, the capped index, index funds, and algorithmic trading have emerged as pivotal components in modern investing. These tools offer diverse advantages for investors seeking to optimize portfolio performance and manage risk effectively.
@@ -176,4 +178,3 @@ For optimal portfolio performance, it is crucial for investors to tailor their i
   - Industry reports and whitepapers from financial institutions such as BlackRock, Vanguard, and Goldman Sachs often include analyses and data on market trends, offering valuable insights into the practical implications of various investment approaches, including those discussed in the article.
 
 Continued engagement with these resources will provide investors and finance professionals with a deeper understanding of how these investment tools and strategies can be effectively harnessed to optimize portfolio performance and achieve specific financial objectives.
-

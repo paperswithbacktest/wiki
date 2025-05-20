@@ -1,6 +1,9 @@
 ---
-title: "Efficiency Ratios in Financial Analysis (Algo Trading)"
-description: "Explore efficiency ratios and performance metrics in algorithmic trading. Understand how these tools optimize strategies, enhance decision-making, and boost outcomes."
+category: quant_concept
+description: Explore efficiency ratios and performance metrics in algorithmic trading.
+  Understand how these tools optimize strategies, enhance decision-making, and boost
+  outcomes.
+title: Efficiency Ratios in Financial Analysis (Algo Trading)
 ---
 
 In the modern financial ecosystem, the integration of technology and finance has given rise to algorithmic trading, a method leveraging computers to execute pre-programmed trading instructions automatically. This evolution allows for rapid reactions to market changes and the efficient handling of large volumes of trades that would be impossible to execute manually. Algorithmic trading has revolutionized the financial industry by increasing execution speed and enhancing the precision of trades, thereby providing traders with strategic advantages.

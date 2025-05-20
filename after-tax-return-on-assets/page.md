@@ -1,6 +1,8 @@
 ---
-title: "After-Tax Return on Assets (Algo Trading)"
-description: "Explore ROA and After-Tax ROA in algorithmic trading to identify companies efficiently using assets, enhancing investment decisions and trading strategy effectiveness."
+category: quant_concept
+description: Explore ROA and After-Tax ROA in algorithmic trading to identify companies
+  efficiently using assets, enhancing investment decisions and trading strategy effectiveness.
+title: After-Tax Return on Assets (Algo Trading)
 ---
 
 The financial industry is deeply rooted in evaluating company performance and investment potential through a variety of metrics. Among these, Return on Assets (ROA) and After-Tax Return on Assets serve as crucial indicators of how effectively a company is utilizing its assets to generate profits, particularly after considering tax obligations. ROA is a fundamental financial ratio, calculated as Net Income divided by Total Assets, reflecting a company's efficiency in converting its investments into earnings. After-Tax ROA goes a step further by adjusting the formula to provide a clearer picture of profitability post-taxation, calculated as (After-Tax Income ÷ Average Total Assets) x 100.
@@ -207,4 +209,3 @@ In conclusion, while ROA and After-Tax ROA alone provide significant insights in
 - Investopedia (www.investopedia.com) - This website provides detailed articles and tutorials on financial metrics including ROA and After-Tax ROA, and their relevance in trading and financial analysis.
 
 Readers interested in a more in-depth understanding and practical applications of ROA and After-Tax ROA will find these resources valuable for further exploration.
-

@@ -1,6 +1,8 @@
 ---
-title: "Parametric Method in Value at Risk (Algo Trading)"
-description: "Explore how the parametric method in Value at Risk offers a computationally efficient way to assess potential losses in algorithmic trading environments."
+category: quant_concept
+description: Explore how the parametric method in Value at Risk offers a computationally
+  efficient way to assess potential losses in algorithmic trading environments.
+title: Parametric Method in Value at Risk (Algo Trading)
 ---
 
 In today's dynamic financial markets, understanding and managing risk is paramount for both individual investors and financial organizations. With fluctuating economic conditions and market volatility, the importance of accurately assessing potential financial loss cannot be understated. Value at Risk (VaR) has emerged as a critical metric in financial risk management. It provides a probabilistic estimate of the potential loss in investment portfolios over a specified time frame at a given confidence level, offering insights into the worst-case financial loss that could occur.
@@ -239,4 +241,3 @@ This work explores various aspects of risk management, including methodologies t
 
 Various online resources and academic journals offer additional insights into the application and evolution of VaR methodologies.  
 Numerous academic journals and financial websites continually publish research on advancements in VaR methodologies, such as semi-parametric approaches, Monte Carlo simulations, and the integration of machine learning tools to refine VaR models. These resources can be valuable for staying updated on contemporary trends and innovations in financial risk assessment techniques.
-

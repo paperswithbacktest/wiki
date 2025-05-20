@@ -1,6 +1,8 @@
 ---
-title: "Real Estate Price Trends (Algo Trading)"
-description: "Discover how algorithmic trading is revolutionizing real estate markets by enhancing property price predictions and offering strategic insights to investors."
+category: trading_strategy
+description: Discover how algorithmic trading is revolutionizing real estate markets
+  by enhancing property price predictions and offering strategic insights to investors.
+title: Real Estate Price Trends (Algo Trading)
 ---
 
 The real estate market has consistently served as a robust pillar within the global economy, providing a variety of opportunities for both individual and institutional investors. Its historical significance and potential for stable returns have solidified its position as a key investment avenue. However, as the market dynamics evolve, influenced by factors like economic changes, demographic shifts, and technological advancements, new methodologies have emerged to predict property prices with increasing accuracy.

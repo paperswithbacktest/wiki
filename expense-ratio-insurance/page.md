@@ -1,6 +1,8 @@
 ---
-title: "Expense Ratio in Insurance (Algo Trading)"
-description: "Explore how expense ratios and algorithmic trading reshape insurance, boosting cost management and profitability through innovative investment strategies."
+category: quant_concept
+description: Explore how expense ratios and algorithmic trading reshape insurance,
+  boosting cost management and profitability through innovative investment strategies.
+title: Expense Ratio in Insurance (Algo Trading)
 ---
 
 The insurance industry is a multifaceted field where understanding financial metrics is crucial for maintaining profitability and operational efficiency. Among the most critical indicators are the expense ratio and the combined ratio, each serving as a barometer for evaluating an insurance company's performance. The expense ratio, which calculates the portion of premiums used to cover operating expenses, provides insights into a company's cost management efficiency. Meanwhile, the combined ratio, integrating both the loss ratio and the expense ratio, offers a comprehensive measure of underwriting profitability.

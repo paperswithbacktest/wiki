@@ -1,6 +1,8 @@
 ---
-title: "Guerrilla Trading: Concept, Mechanism, and Example (Algo Trading)"
-description: "Explore Guerrilla Trading a strategy focused on high-volume rapid transactions capturing market price fluctuations for quick profits with minimal risk exposure."
+category: trading_strategy
+description: Explore Guerrilla Trading a strategy focused on high-volume rapid transactions
+  capturing market price fluctuations for quick profits with minimal risk exposure.
+title: 'Guerrilla Trading: Concept, Mechanism, and Example (Algo Trading)'
 ---
 
 In the fast-paced world of financial trading, strategies that offer quick profits are highly sought after by investors and traders alike. Among these strategies, Guerrilla Trading stands out due to its unique focus on executing a high volume of small, rapid transactions aimed at capturing minor price fluctuations in the market. Unlike other trading strategies that may prioritize larger, long-term gains, Guerrilla Trading capitalizes on brief moments within the trading day, relying on the ability to quickly enter and exit positions as prices move.

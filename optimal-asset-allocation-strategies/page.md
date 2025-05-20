@@ -1,6 +1,9 @@
 ---
-title: "Optimal Asset Allocation Strategies (Algo Trading)"
-description: "Discover optimal asset allocation strategies in algo trading to enhance investment outcomes by balancing risk and reward through portfolio management and technology."
+category: trading_strategy
+description: Discover optimal asset allocation strategies in algo trading to enhance
+  investment outcomes by balancing risk and reward through portfolio management and
+  technology.
+title: Optimal Asset Allocation Strategies (Algo Trading)
 ---
 
 Investment strategies have evolved significantly over the years, becoming an integral part of financial planning. Central to these strategies are three core concepts: asset allocation, portfolio management, and algorithmic trading. Each of these components serves a unique purpose, and when combined effectively, they can significantly enhance investment outcomes.

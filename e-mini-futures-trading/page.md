@@ -1,6 +1,9 @@
 ---
-title: "E-Mini in Futures Trading (Algo Trading)"
-description: "Explore the world of E-mini futures and algorithmic trading. Understand the benefits and risks for traders seeking affordable access and strategic market participation."
+category: trading_strategy
+description: Explore the world of E-mini futures and algorithmic trading. Understand
+  the benefits and risks for traders seeking affordable access and strategic market
+  participation.
+title: E-Mini in Futures Trading (Algo Trading)
 ---
 
 Futures trading is a cornerstone of modern financial markets, empowering investors to hedge their portfolios against potential losses or profit from anticipated price fluctuations. Among the diverse range of futures contracts, E-mini futures have emerged as a prominent choice for traders seeking both affordability and ease of access. These contracts, a scaled-down version of standard futures, facilitate participation in the market for a broader array of investors, including those with limited capital.

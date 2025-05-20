@@ -1,6 +1,8 @@
 ---
-title: "Calculating Bid-Ask Spread (Algo Trading)"
-description: "Learn to calculate bid-ask spreads essential for algo trading by understanding this concept's impact on liquidity pricing and execution costs."
+category: quant_concept
+description: Learn to calculate bid-ask spreads essential for algo trading by understanding
+  this concept's impact on liquidity pricing and execution costs.
+title: Calculating Bid-Ask Spread (Algo Trading)
 ---
 
 In financial markets, the bid-ask spread is a fundamental concept that traders must grasp to effectively navigate the trading landscape. This spread represents the difference between the highest price a buyer is willing to pay for an asset and the lowest price a seller is willing to accept. It reflects the cost of trading and plays a pivotal role in determining market liquidity and pricing efficiency.

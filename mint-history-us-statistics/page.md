@@ -1,6 +1,8 @@
 ---
-title: "Mint: Overview, History, and Statistics of the U.S. Mint (Algo Trading)"
-description: "Explore the historical and modern intersections of U.S. Mint coin production and algorithmic trading their evolution and impacts on the financial sector."
+category: quant_concept
+description: Explore the historical and modern intersections of U.S. Mint coin production
+  and algorithmic trading their evolution and impacts on the financial sector.
+title: 'Mint: Overview, History, and Statistics of the U.S. Mint (Algo Trading)'
 ---
 
 The world of coin production and trading is a fascinating intersection of history, economics, and technology. At the heart of coin production in the United States is the U.S. Mint, an institution steeped in history yet continuously evolving to meet modern needs. Established in 1792, the U.S. Mint is responsible for creating not only coins for everyday circulation but also collectibles that capture the interest of numismatists worldwide. Its operations are a reflection of tradition and progress, where time-honored methods meet cutting-edge techniques to ensure efficiency and precision in coin production.

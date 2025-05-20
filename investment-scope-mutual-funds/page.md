@@ -1,6 +1,8 @@
 ---
-title: "Investment Scope of Mutual Funds (Algo Trading)"
-description: "Explore how mutual funds and algorithmic trading are reshaping investment strategies for better returns and risk management in today's dynamic financial landscape."
+category: quant_concept
+description: Explore how mutual funds and algorithmic trading are reshaping investment
+  strategies for better returns and risk management in today's dynamic financial landscape.
+title: Investment Scope of Mutual Funds (Algo Trading)
 ---
 
 The investment landscape is undergoing a significant transformation due to rapid technological advancements. Mutual funds, which pool money from various investors to create a diversified investment portfolio, aim to minimize risk while maximizing potential returns. These funds are professionally managed, allowing investors to access a broad range of assets without the need for hands-on management. The strength of mutual funds lies in their ability to spread risk across various securities, thus reducing the impact of any single asset's poor performance on the overall portfolio.

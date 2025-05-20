@@ -1,6 +1,8 @@
 ---
-title: "Money-Weighted Rate of Return (Algo Trading)"
-description: "Discover the benefits of the Money-Weighted Rate of Return MWRR in evaluating investments considering cash flow timing and magnitude for accurate insights."
+category: quant_concept
+description: Discover the benefits of the Money-Weighted Rate of Return MWRR in evaluating
+  investments considering cash flow timing and magnitude for accurate insights.
+title: Money-Weighted Rate of Return (Algo Trading)
 ---
 
 Investment performance measurement is an essential practice for investors striving to evaluate the success of their investment strategies. Accurate performance metrics enable investors to make informed decisions, optimize their portfolios, and achieve their financial goals. Among the plethora of performance indicators, the money-weighted rate of return (MWRR) offers a distinct advantage by taking into account the timing and magnitude of cash flows. This characteristic makes MWRR particularly insightful, as it mirrors the actual financial experience of the investor.

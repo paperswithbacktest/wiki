@@ -1,6 +1,8 @@
 ---
-title: "Limited Power of Attorney: Types and Forms (Algo Trading)"
-description: "Explore the essentials of Limited Power of Attorney in algo trading including its types and how it enables financial control while delegating specific tasks."
+category: quant_concept
+description: Explore the essentials of Limited Power of Attorney in algo trading including
+  its types and how it enables financial control while delegating specific tasks.
+title: 'Limited Power of Attorney: Types and Forms (Algo Trading)'
 ---
 
 Limited Power of Attorney (LPOA) is a crucial legal document often employed to authorize specific actions by a designated representative, particularly in financial contexts. Unlike a general power of attorney that grants broader powers, an LPOA is tailored to cover distinct tasks or transactions, providing a principal with the flexibility to maintain certain controls while designating authority for specific needs. This selective empowerment can be vital for individuals or corporations seeking to manage parts of their financial or investment portfolios efficiently without relinquishing full control.

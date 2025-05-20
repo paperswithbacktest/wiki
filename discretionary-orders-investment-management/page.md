@@ -1,6 +1,8 @@
 ---
-title: "Discretionary Orders in Investment Management (Algo Trading)"
-description: "Enhance your trading strategy with discretionary orders for optimal investment management. Discover their benefits and risks in today's dynamic financial markets."
+category: trading_strategy
+description: Enhance your trading strategy with discretionary orders for optimal investment
+  management. Discover their benefits and risks in today's dynamic financial markets.
+title: Discretionary Orders in Investment Management (Algo Trading)
 ---
 
 The world of trading and investment management is vast and complex, involving a variety of strategies and tools designed to maximize returns and manage risks. One such tool is the discretionary order, which provides brokers the flexibility to execute trades with a certain level of autonomy. This autonomy is essential for adapting to the ever-changing dynamics of financial markets.

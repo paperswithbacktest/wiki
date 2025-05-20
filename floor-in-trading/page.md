@@ -1,6 +1,9 @@
 ---
-title: "Floor in Trading (Algo Trading)"
-description: "Explore the transition from traditional trading floors to algorithmic trading and its impact on financial markets methods strategies and the skills required for success."
+category: quant_concept
+description: Explore the transition from traditional trading floors to algorithmic
+  trading and its impact on financial markets methods strategies and the skills required
+  for success.
+title: Floor in Trading (Algo Trading)
 ---
 
 Financial markets are complex ecosystems that facilitate the exchange of financial instruments such as stocks, bonds, and currencies. These markets are essential for the functioning of modern economies, providing liquidity and enabling the efficient allocation of resources. Traders play a critical role in these markets, acting as intermediaries who buy and sell assets to capitalize on price fluctuations and, in doing so, contribute significantly to liquidity and price discovery. By accommodating both buyers and sellers, traders help ensure that markets operate smoothly and efficiently.

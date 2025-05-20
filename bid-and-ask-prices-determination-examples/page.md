@@ -1,6 +1,8 @@
 ---
-title: "Bid and Ask Prices: Determination and Examples (Algo Trading)"
-description: "Explore the fundamentals of bid and ask prices in algo trading and learn how to optimize trades with algorithmic strategies that enhance market liquidity."
+category: quant_concept
+description: Explore the fundamentals of bid and ask prices in algo trading and learn
+  how to optimize trades with algorithmic strategies that enhance market liquidity.
+title: 'Bid and Ask Prices: Determination and Examples (Algo Trading)'
 ---
 
 In financial markets, the concepts of bid and ask prices are fundamental to trading operations. The bid price is the highest amount a buyer is willing to pay for an asset, whereas the ask price represents the lowest amount a seller is prepared to accept. The difference between these prices is known as the bid-ask spread, which is a crucial indicator of market liquidity and transaction costs. For any trader, whether operating manually or through sophisticated algorithms, understanding these prices is essential for executing trades efficiently and optimizing returns.
@@ -125,4 +127,3 @@ Ultimately, success in trading bid-ask spreads is contingent upon a trader's abi
 - **Chan, E. P. - 'Quantitative Trading: How to Build Your Own Algorithmic Trading Business'**: Chan details the steps to creating an algorithmic trading business, illustrating how quantitative methods can be used to develop trading strategies. This work provides insights into harnessing bid-ask spreads for profit through quantitative analysis and systematic trading approaches.
 
 - **Hull, J. C. - 'Options, Futures, and Other Derivatives'**: Hull's renowned book covers the fundamentals and advanced concepts in derivatives trading. While it is primarily focused on options and futures, it provides a solid understanding of how bid-ask spreads are relevant in the pricing and trading of derivative instruments, reinforcing the significance of liquidity and precise execution in financial markets.
-

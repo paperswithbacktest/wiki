@@ -1,6 +1,9 @@
 ---
-title: "Continuous Net Settlement: Overview and Benefits (Algo Trading)"
-description: "Explore the benefits of Continuous Net Settlement in financial markets, a key process enhancing trading efficiency by netting trades and reducing counterparty risk."
+category: quant_concept
+description: Explore the benefits of Continuous Net Settlement in financial markets,
+  a key process enhancing trading efficiency by netting trades and reducing counterparty
+  risk.
+title: 'Continuous Net Settlement: Overview and Benefits (Algo Trading)'
 ---
 
 In today's fast-paced financial markets, efficiency and risk management are of utmost importance. The rapid evolution of technology has transformed the landscape of trading, leading to significant innovations in the processes of securities clearing and settlement. Among these innovations is Continuous Net Settlement (CNS), a crucial process that facilitates seamless clearing and settlement, thereby mitigating the risks associated with high-volume financial transactions. CNS, primarily used by the National Securities Clearing Corporation (NSCC), is designed to optimize and streamline transactions by netting trades and minimizing the reciprocal exchange of securities between trading parties. This not only bolsters the efficiency of financial markets but also enhances their stability by reducing counterparty risk.

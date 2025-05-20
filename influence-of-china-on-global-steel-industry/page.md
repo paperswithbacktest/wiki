@@ -1,6 +1,8 @@
 ---
-title: "Influence of China on the Global Steel Industry (Algo Trading)"
-description: "Explore how China shapes the global steel market as the top producer and consumer plus the role of algorithmic trading in navigating market complexities."
+category: dataset
+description: Explore how China shapes the global steel market as the top producer
+  and consumer plus the role of algorithmic trading in navigating market complexities.
+title: Influence of China on the Global Steel Industry (Algo Trading)
 ---
 
 The global steel industry plays an indispensable role in modern economies, supplying essential materials for key sectors such as infrastructure, transportation, and manufacturing. Steel's versatility and strength make it a critical component in constructing buildings, bridges, and transportation networks, providing the backbone for economic development and growth worldwide. Among the countries involved in the steel market, China stands at the forefront, not only as the largest producer but also as the most significant consumer of steel. This elevated position gives China a substantial influence over global steel markets, affecting production levels, pricing, and trade flows across the globe.

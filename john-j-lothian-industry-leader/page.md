@@ -1,6 +1,8 @@
 ---
-title: "John J. Lothian: Industry Leader (Algo Trading)"
-description: "Discover the impact of John J. Lothian in the futures market and the rise of algorithmic trading shaping financial innovation and industry growth."
+category: quant_concept
+description: Discover the impact of John J. Lothian in the futures market and the
+  rise of algorithmic trading shaping financial innovation and industry growth.
+title: 'John J. Lothian: Industry Leader (Algo Trading)'
 ---
 
 The futures market represents a vibrant and complex landscape where predictive analysis intersects with real-time data, creating substantial opportunities for both financial growth and speculation. Within this dynamic sphere, John J. Lothian has emerged as a significant figure in commodity trading and the broader financial sector, imparting a profound impact on the futures industry through his innovative methodologies and leadership.

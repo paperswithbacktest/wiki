@@ -1,6 +1,9 @@
 ---
-title: "Discount Margin and Its Application and Calculation (Algo Trading)"
-description: "Understand discount margin and its pivotal role in the financial markets. Learn how to calculate DM, its impact on bond pricing, and make informed investment decisions."
+category: quant_concept
+description: Understand discount margin and its pivotal role in the financial markets.
+  Learn how to calculate DM, its impact on bond pricing, and make informed investment
+  decisions.
+title: Discount Margin and Its Application and Calculation (Algo Trading)
 ---
 
 The discount margin (DM) plays a critical role in bond pricing and holds substantial significance within financial markets. As a measure of the yield spread that investors require over a reference rate to hold a floating-rate bond, the discount margin is pivotal in determining the attractiveness and valuation of these securities. Understanding DM helps investors assess the risk and potential returns of their bond investments, thereby influencing their decision-making processes.

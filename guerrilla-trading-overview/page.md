@@ -1,6 +1,9 @@
 ---
-title: "Guerrilla Trading Overview (Algo Trading)"
-description: "Explore the fast-paced world of Guerrilla Trading where high-frequency transactions target small price movements for profit maximizing market efficiencies with algorithmic precision."
+category: trading_strategy
+description: Explore the fast-paced world of Guerrilla Trading where high-frequency
+  transactions target small price movements for profit maximizing market efficiencies
+  with algorithmic precision.
+title: Guerrilla Trading Overview (Algo Trading)
 ---
 
 The financial markets represent an intricate ecosystem characterized by a multitude of trading strategies that employ both age-old and contemporary methods to achieve financial gain. Among these strategies, Guerrilla Trading stands out for its unique approach. It is defined by its high-frequency, rapid-fire transactions, which aim to capitalize on minuscule price fluctuations. This method diverges significantly from traditional practices, focusing instead on brief, opportunistic trades designed to exploit fleeting market movements.

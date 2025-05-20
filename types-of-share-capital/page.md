@@ -1,6 +1,9 @@
 ---
-title: "Types of Share Capital (Algo Trading)"
-description: "Explore the critical roles of share capital in corporate finance and how algorithmic trading optimizes trading decisions using advanced analytics for investors."
+category: quant_concept
+description: Explore the critical roles of share capital in corporate finance and
+  how algorithmic trading optimizes trading decisions using advanced analytics for
+  investors.
+title: Types of Share Capital (Algo Trading)
 ---
 
 In the landscape of corporate finance, share capital represents one of the most crucial elements in the foundation of a company's financial structure. Share capital refers to the funds raised by a company through the issuance of shares of stock, which signifies ownership in the company. This capital is fundamental for funding business operations, enabling companies to undertake projects, acquire assets, or invest in research and development. The importance of share capital is underscored by its direct connection to a company's ability to expand, innovate, and compete effectively in the marketplace. Shareholders, who own these shares, provide the financial backing that a company requires while also bearing the associated risks and participating in potential rewards.

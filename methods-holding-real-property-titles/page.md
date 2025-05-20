@@ -1,6 +1,12 @@
 ---
-title: "Methods of Holding Real Property Titles (Algo Trading)"
-description: "Discover the various methods of holding real property titles and their significance in real estate transactions. Learn about joint tenancy, tenancy in common, tenants by entirety, sole ownership, and community property, and explore the innovative application of algorithmic trading in real estate for enhanced efficiency and decision-making. Understanding these key concepts ensures smoother property dealings and leverages technology for effective investment strategies."
+category: quant_concept
+description: Discover the various methods of holding real property titles and their
+  significance in real estate transactions. Learn about joint tenancy, tenancy in
+  common, tenants by entirety, sole ownership, and community property, and explore
+  the innovative application of algorithmic trading in real estate for enhanced efficiency
+  and decision-making. Understanding these key concepts ensures smoother property
+  dealings and leverages technology for effective investment strategies.
+title: Methods of Holding Real Property Titles (Algo Trading)
 ---
 
 Property titles are fundamental components within the real estate sector. They serve as legal documents that define ownership rights to a specific real estate asset, ensuring the legitimacy and security of transactions. In essence, a property title is a certificate that stipulates who has legal ownership of a property and any rights and restrictions attached to it. Clear and defect-free titles are critical as they prevent future disputes and encumbrances, thereby facilitating smoother real estate transactions.

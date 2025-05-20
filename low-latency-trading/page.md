@@ -1,6 +1,9 @@
 ---
-title: "Low-Latency Trading (Algo Trading)"
-description: "Discover the advantages of low-latency algorithmic trading and learn how cutting-edge technology reduces execution time for a competitive edge in fast markets."
+category: trading_strategy
+description: Discover the advantages of low-latency algorithmic trading and learn
+  how cutting-edge technology reduces execution time for a competitive edge in fast
+  markets.
+title: Low-Latency Trading (Algo Trading)
 ---
 
 Low-latency trading, frequently referred to as algorithmic trading, involves the employment of advanced algorithms to conduct trades at extremely high speeds, typically measured in microseconds or milliseconds. The fundamental objective of this strategy is to seize fleeting market opportunities that emerge and vanish swiftly, using speed as a substantial competitive advantage. This approach is particularly vital in domains such as high-frequency trading, where substantial volumes of trades are executed within exceptionally brief timeframes.

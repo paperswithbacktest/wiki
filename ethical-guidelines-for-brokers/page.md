@@ -1,6 +1,9 @@
 ---
-title: "Ethical Guidelines for Brokers (Algo Trading)"
-description: "Explore the ethical guidelines and responsibilities of brokers in algorithmic trading, emphasizing integrity, transparency, and investor protection in evolving markets."
+category: quant_concept
+description: Explore the ethical guidelines and responsibilities of brokers in algorithmic
+  trading, emphasizing integrity, transparency, and investor protection in evolving
+  markets.
+title: Ethical Guidelines for Brokers (Algo Trading)
 ---
 
 The investment landscape is undergoing significant transformation due to technological advancements that are redefining trading practices. Among the most influential innovations is algorithmic trading, where the role of brokers becomes increasingly critical. In this context, brokers are not merely facilitators of trade; they are key players responsible for ensuring ethical standards and fostering trust in the market. With algorithmic trading, transactions are executed at speeds and volumes humans cannot achieve, introducing new challenges and ethical considerations. Understanding the ethics and guidelines that govern brokers is crucial to maintaining market integrity and protecting investor interests. This article examines the ethical frameworks and regulations that guide brokers in this technologically advanced trading environment.

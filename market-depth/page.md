@@ -1,6 +1,13 @@
 ---
-title: "Market depth (Algo Trading)"
-description: Discover the significance of market depth in algorithmic trading and how it enhances trade execution and strategy optimization. Learn how this crucial concept allows traders to assess market liquidity, anticipate price movements, and manage risk with precision. Explore the impact of factors like tick size and trading restrictions on market depth, and see how algorithms leverage this data to improve decision-making and profitability. Whether you're a seasoned trader or new to the financial world, understanding market depth can transform your trading approach.
+category: quant_concept
+description: Discover the significance of market depth in algorithmic trading and
+  how it enhances trade execution and strategy optimization. Learn how this crucial
+  concept allows traders to assess market liquidity, anticipate price movements, and
+  manage risk with precision. Explore the impact of factors like tick size and trading
+  restrictions on market depth, and see how algorithms leverage this data to improve
+  decision-making and profitability. Whether you're a seasoned trader or new to the
+  financial world, understanding market depth can transform your trading approach.
+title: Market depth (Algo Trading)
 ---
 
 Market depth is a crucial concept in finance, representing the ability of a market to absorb large orders without significantly impacting the price of the financial instrument involved. It is typically depicted through the order book, which consists of buy and sell orders at various price levels. A well-defined market depth means there are enough open orders on both sides of the bid-ask spread to facilitate significant trades with minimal price movement.

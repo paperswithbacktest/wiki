@@ -1,6 +1,14 @@
 ---
-title: "Gartley Pattern Trading Strategy Explained (Algo Trading)"
-description: The Gartley pattern trading strategy is a detailed harmonic trading method utilized for forecasting market retracements and continuations using Fibonacci ratios. This strategy offers traders a systematic approach to predict possible reversals or trend continuations by recognizing a specific chart formation. In algorithmic trading, automating the detection of the Gartley pattern can help traders enhance decision-making reliability. Mastery of this pattern requires a deep understanding of harmonic trading principles and the integration of these insights into algorithmic models to refine entry and exit points effectively.
+category: trading_strategy
+description: The Gartley pattern trading strategy is a detailed harmonic trading method
+  utilized for forecasting market retracements and continuations using Fibonacci ratios.
+  This strategy offers traders a systematic approach to predict possible reversals
+  or trend continuations by recognizing a specific chart formation. In algorithmic
+  trading, automating the detection of the Gartley pattern can help traders enhance
+  decision-making reliability. Mastery of this pattern requires a deep understanding
+  of harmonic trading principles and the integration of these insights into algorithmic
+  models to refine entry and exit points effectively.
+title: Gartley Pattern Trading Strategy Explained (Algo Trading)
 ---
 
 The Gartley pattern is a recognized harmonic pattern within the trading community, introduced by H.M. Gartley in 1935. This pattern is distinguished by its basis in Fibonacci numbers, which are integral to its structure. It's employed primarily to predict market retracements and continuation patterns, providing a framework for anticipating potential price reversals or trend continuations. The complex nature of the Gartley pattern involves a specific configuration of price movements, making it both a challenging and rewarding chart pattern to identify accurately.

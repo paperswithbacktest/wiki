@@ -1,6 +1,8 @@
 ---
-title: "Brace Gatarek Musiela Model (Algo Trading)"
-description: "Exploring the BGM model for interest rate derivatives and algorithmic trading offering insights into risk management strategies and financial market dynamics."
+category: trading_strategy
+description: Exploring the BGM model for interest rate derivatives and algorithmic
+  trading offering insights into risk management strategies and financial market dynamics.
+title: Brace Gatarek Musiela Model (Algo Trading)
 ---
 
 Financial derivatives are integral to modern finance, enabling market participants to manage risk, enhance returns, and efficiently utilize capital. Derivatives derive their value from underlying assets, such as stocks, bonds, commodities, or interest rates, and are used for both hedging and speculative purposes. Interest rate derivatives, a significant subset, allow investors to manage exposure to fluctuations in interest rates, playing a pivotal role in financial risk management.

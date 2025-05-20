@@ -1,6 +1,9 @@
 ---
-title: "Condensed Financial Statements (Algo Trading)"
-description: "Unlock the power of financial data with condensed financial statements and algorithmic trading Learn how these tools enhance decision-making and investment strategies"
+category: trading_strategy
+description: Unlock the power of financial data with condensed financial statements
+  and algorithmic trading Learn how these tools enhance decision-making and investment
+  strategies
+title: Condensed Financial Statements (Algo Trading)
 ---
 
 In today’s rapidly evolving financial landscape, the ability to quickly interpret and utilize financial data is more crucial than ever. As businesses and investors navigate complex economic environments, tools such as financial statements, condensed financials, financial reporting, and algorithmic trading play a vital role in shaping informed decision-making processes. These components are not only foundational for assessing a company's financial health but also integral to developing strategies that can enhance investment outcomes and business growth.

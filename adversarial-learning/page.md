@@ -1,6 +1,9 @@
 ---
-title: "Adversarial learning (Algo Trading)"
-description: "Explore the role of adversarial learning in algo trading, highlighting its adaptive strategy development to tackle market fluctuations and enhance trading efficiency."
+category: quant_concept
+description: Explore the role of adversarial learning in algo trading, highlighting
+  its adaptive strategy development to tackle market fluctuations and enhance trading
+  efficiency.
+title: Adversarial learning (Algo Trading)
 ---
 
 Adversarial learning is a contemporary method in machine learning that is increasingly being adopted across various fields, including algorithmic trading. This article explores the concept of adversarial learning with an emphasis on its application and effects in algorithmic trading, often referred to as algo trading. 

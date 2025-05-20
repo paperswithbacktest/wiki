@@ -1,6 +1,9 @@
 ---
-title: "Financial Innovation and Its Impact (Algo Trading)"
-description: "Discover how financial innovation and algorithmic trading are transforming the economic landscape by enhancing efficiency, market liquidity, and financial inclusivity."
+category: quant_concept
+description: Discover how financial innovation and algorithmic trading are transforming
+  the economic landscape by enhancing efficiency, market liquidity, and financial
+  inclusivity.
+title: Financial Innovation and Its Impact (Algo Trading)
 ---
 
 Economic development finance is a critical driver in shaping modern economies, focusing on the mobilization of financial resources to support economic growth, infrastructure enhancements, and job creation. This domain not only nurtures a nation's economic health but also aims to reduce socio-economic disparities by promoting equitable opportunities. Economic development finance encompasses various mechanisms, including government grants, private investments, and public-private partnerships, all geared towards sustainable development.

@@ -1,6 +1,8 @@
 ---
-title: "De-Dollarization and Its Status (Algo Trading)"
-description: "Explore the impact of de-dollarization and the rise of algorithmic trading on the global economy and currency markets in our detailed analysis."
+category: quant_concept
+description: Explore the impact of de-dollarization and the rise of algorithmic trading
+  on the global economy and currency markets in our detailed analysis.
+title: De-Dollarization and Its Status (Algo Trading)
 ---
 
 The global economy has undergone substantial transformations, particularly in the domains of currencies and international trade. One pivotal aspect of this evolution is the phenomenon of de-dollarization, which reflects a growing trend where various countries are actively seeking alternatives to the U.S. dollar for their trade and financial activities. This shift arises from multiple factors, including geopolitical shifts and the desire for greater financial independence from the influence of U.S.-centric monetary policy.

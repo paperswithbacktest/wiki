@@ -1,6 +1,8 @@
 ---
-title: "Creditors' Committee: Function and Operation (Algo Trading)"
-description: "Explore the critical role of creditors' committees in bankruptcy, examining how they navigate the challenges presented by the rise of algorithmic trading."
+category: quant_concept
+description: Explore the critical role of creditors' committees in bankruptcy, examining
+  how they navigate the challenges presented by the rise of algorithmic trading.
+title: 'Creditors'' Committee: Function and Operation (Algo Trading)'
 ---
 
 The intersection of bankruptcy, insolvency, and algorithmic trading (algo trading) presents a complex landscape for both creditors and debtors. As financial markets evolve, creditors and debtors must navigate an intricate web of legal, financial, and technological factors. At the heart of this process is the creditors' committee, a body essential to the bankruptcy framework. Its primary function is to safeguard the interests of creditors by participating actively in restructuring negotiations and decisions regarding the financially distressed entity. A firm grasp of the creditors' committee's role is crucial for stakeholders aiming to manage or recover from financial distress effectively.

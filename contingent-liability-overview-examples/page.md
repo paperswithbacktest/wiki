@@ -1,6 +1,8 @@
 ---
-title: "Contingent Liability: Overview and Examples (Algo Trading)"
-description: "Discover the intricacies of contingent liabilities and algorithmic trading essential concepts in finance for businesses and investors seeking strategic insights."
+category: quant_concept
+description: Discover the intricacies of contingent liabilities and algorithmic trading
+  essential concepts in finance for businesses and investors seeking strategic insights.
+title: 'Contingent Liability: Overview and Examples (Algo Trading)'
 ---
 
 In the complex world of finance and accounting, understanding key concepts such as contingent liabilities and algorithmic trading is crucial for businesses and investors. Contingent liabilities refer to potential financial obligations that may arise depending on the outcome of future events. These liabilities can significantly impact a company’s financial health as they represent uncertainties that must be accounted for in financial planning and reporting. Examples of contingent liabilities include pending lawsuits and product warranties, which require careful estimation and disclosure to provide an accurate picture of a company’s obligations.

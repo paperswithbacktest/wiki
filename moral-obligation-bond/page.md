@@ -1,6 +1,8 @@
 ---
-title: "Moral Obligation Bond (Algo Trading)"
-description: "Discover the unique world of moral obligation bonds and their role in public finance and explore how algorithmic trading is transforming bond markets."
+category: quant_concept
+description: Discover the unique world of moral obligation bonds and their role in
+  public finance and explore how algorithmic trading is transforming bond markets.
+title: Moral Obligation Bond (Algo Trading)
 ---
 
 The world of public finance is complex and diverse, encapsulating numerous investment opportunities and responsibilities, as well as advances in technology. At the core of this financial landscape are moral obligation bonds and public finance bond financing, which underscore the specific commitments and responsibilities linked to government and municipal bonds. Moral obligation bonds are distinctive due to their reliance on the issuer's moral promise rather than legal obligations, thus representing a unique form of municipal security used primarily to fund large public projects. Meanwhile, public finance bond financing is a critical strategy used by governments to support projects without resorting to immediate tax increases or budget cuts, employing different types of bonds tailored to distinct financial aims and risk profiles.

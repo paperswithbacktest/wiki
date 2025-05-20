@@ -1,6 +1,9 @@
 ---
-title: "Comparison of Cash Flow and Fund Flow (Algo Trading)"
-description: "Explore the key differences between cash flow and fund flow in finance and discover how algorithmic trading enhances investment strategy with speed and precision."
+category: quant_concept
+description: Explore the key differences between cash flow and fund flow in finance
+  and discover how algorithmic trading enhances investment strategy with speed and
+  precision.
+title: Comparison of Cash Flow and Fund Flow (Algo Trading)
 ---
 
 In the world of finance, mastering various tools and strategies is essential for effective financial management and investment. Among these, cash flow, fund flow, and algorithmic trading stand out as critical components to comprehend. Understanding cash flow provides insights into the net cash inflow and outflow within a business, helping to assess liquidity, financial health, and operational efficiency. On the other hand, fund flow analysis offers a broader perspective, capturing all funds moving into and out of a company, thus aiding in long-term financial planning and investment evaluation.

@@ -1,6 +1,8 @@
 ---
-title: "Crack-Up Boom: Overview and Historical Examples (Algo Trading)"
-description: "Explore the concept of a crack-up boom in finance highlighting its impact on modern algorithmic trading and historical examples of hyperinflation crises."
+category: quant_concept
+description: Explore the concept of a crack-up boom in finance highlighting its impact
+  on modern algorithmic trading and historical examples of hyperinflation crises.
+title: 'Crack-Up Boom: Overview and Historical Examples (Algo Trading)'
 ---
 
 The world of finance and economics experiences recurring cycles of growth and recession, phenomena widely studied and debated among economists and financial experts. Among these cycles, the 'crack-up boom' stands out due to its severe and dramatic nature. This concept, introduced by the Austrian economist Ludwig von Mises, refers to an economic downturn of unusual intensity brought on by unchecked credit expansion. A crack-up boom occurs when sustained monetary expansion leads to a loss of confidence in the currency, precipitating a crisis where individuals abandon the use of the devalued money.

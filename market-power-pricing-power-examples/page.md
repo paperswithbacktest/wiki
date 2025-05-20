@@ -1,6 +1,8 @@
 ---
-title: "Market Power and Pricing Power: Explanation and Examples (Algo Trading)"
-description: "Discover how market power, pricing power, and algorithmic trading impact financial markets and shape investment strategies in today's economy."
+category: quant_concept
+description: Discover how market power, pricing power, and algorithmic trading impact
+  financial markets and shape investment strategies in today's economy.
+title: 'Market Power and Pricing Power: Explanation and Examples (Algo Trading)'
 ---
 
 The interconnected realms of economic influence, market power, pricing power, and algorithmic trading shape the intricate dynamics of modern financial markets. These components are not isolated; rather, they interact and influence each other, leading to complex market dynamics and diverse pricing strategies. For investors, economists, and policymakers, gaining an understanding of these interactions is essential. The modern landscape is increasingly driven by technological advancements and global competition, requiring adaptive strategies and informed decision-making.

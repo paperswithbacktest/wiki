@@ -1,6 +1,8 @@
 ---
-title: "Comparison of Brent Crude and West Texas Intermediate (Algo Trading)"
-description: "Compare Brent Crude and West Texas Intermediate oil benchmarks Understand their roles in global markets and how algorithmic trading impacts oil trading dynamics"
+category: trading_strategy
+description: Compare Brent Crude and West Texas Intermediate oil benchmarks Understand
+  their roles in global markets and how algorithmic trading impacts oil trading dynamics
+title: Comparison of Brent Crude and West Texas Intermediate (Algo Trading)
 ---
 
 In commodities trading, oil stands out as a particularly dynamic and globally relevant market. Central to this market are Brent Crude and West Texas Intermediate (WTI), two primary oil benchmarks that play a key role in setting prices within their respective territories. Brent Crude serves primarily as the benchmark for pricing in Europe, Africa, and the Middle East, whereas WTI is the main standard for the American oil market.

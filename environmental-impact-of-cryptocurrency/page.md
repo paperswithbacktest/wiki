@@ -1,6 +1,10 @@
 ---
-title: "Environmental Impact of Cryptocurrency (Algo Trading)"
-description: "Explore the environmental impact of integrating cryptocurrency with algorithmic trading, focusing on energy consumption, carbon emissions, and electronic waste. Learn how innovations like Algorand's Pure Proof of Stake offer sustainable alternatives and the implications for future financial practices."
+category: quant_concept
+description: Explore the environmental impact of integrating cryptocurrency with algorithmic
+  trading, focusing on energy consumption, carbon emissions, and electronic waste.
+  Learn how innovations like Algorand's Pure Proof of Stake offer sustainable alternatives
+  and the implications for future financial practices.
+title: Environmental Impact of Cryptocurrency (Algo Trading)
 ---
 
 The integration of cryptocurrency with algorithmic trading represents a pivotal development in today's financial markets. This technology signifies a shift toward more innovative and efficient trading methods, where digital currencies are bought and sold with speed and precision aided by advanced computational algorithms. As cryptocurrencies like Bitcoin, Ethereum, and numerous altcoins become increasingly intertwined with traditional trading systems, it becomes essential to scrutinize their environmental implications, particularly within the context of sustainability.

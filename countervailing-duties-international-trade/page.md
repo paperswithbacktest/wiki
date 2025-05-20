@@ -1,6 +1,9 @@
 ---
-title: "Countervailing Duties in International Trade (Algo Trading)"
-description: "Explore the role of countervailing duties in balancing international trade by addressing the challenges posed by foreign subsidies and the impact of algorithmic trading."
+category: quant_concept
+description: Explore the role of countervailing duties in balancing international
+  trade by addressing the challenges posed by foreign subsidies and the impact of
+  algorithmic trading.
+title: Countervailing Duties in International Trade (Algo Trading)
 ---
 
 In the sphere of global trade, ensuring equitable conditions for all participants is an ongoing endeavor. A primary method that governments employ to shield domestic industries from unfair external competition is the implementation of countervailing duties (CVDs). These specific tariffs are designed to neutralize the benefits that foreign producers receive from subsidies granted by their governments. By doing so, CVDs aim to restore a level competitive field, allowing domestic industries to compete on equal footing without being undercut by artificially low-priced imports.

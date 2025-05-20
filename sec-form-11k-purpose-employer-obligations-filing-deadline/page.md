@@ -1,6 +1,8 @@
 ---
-title: "SEC Form 11-K: Purpose, Employer Obligations, and Filing Deadline (Algo Trading)"
-description: "Learn about SEC Form 11-K a vital annual filing for companies with employee stock purchase plans aiding transparency and investor trust with SEC compliance."
+category: quant_concept
+description: Learn about SEC Form 11-K a vital annual filing for companies with employee
+  stock purchase plans aiding transparency and investor trust with SEC compliance.
+title: 'SEC Form 11-K: Purpose, Employer Obligations, and Filing Deadline (Algo Trading)'
 ---
 
 SEC Form 11-K serves as a key annual filing requirement for publicly traded companies maintaining employee stock purchase plans. This mandatory submission to the Securities and Exchange Commission (SEC) ensures that companies transparently report detailed information regarding employee stock ownership plans (ESOPs) and other similar savings schemes. Maintaining transparency is critical, particularly as modern financial markets become increasingly complex and interconnected.

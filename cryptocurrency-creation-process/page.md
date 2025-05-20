@@ -1,6 +1,9 @@
 ---
-title: "Cryptocurrency Creation Process (Algo Trading)"
-description: "Discover the intersection of blockchain, digital currencies, and algo trading in crypto markets Learn how these technologies are reshaping finance and investments"
+category: quant_concept
+description: Discover the intersection of blockchain, digital currencies, and algo
+  trading in crypto markets Learn how these technologies are reshaping finance and
+  investments
+title: Cryptocurrency Creation Process (Algo Trading)
 ---
 
 Blockchain technology and digital currencies have fundamentally transformed the financial landscape, introducing new paradigms that challenge traditional systems. The emergence of cryptocurrencies such as Bitcoin and Ethereum represents a significant shift toward decentralized financial models, which depart from conventional banking and monetary systems. These digital assets have not only disrupted how transactions are conducted but have also catalyzed the development of algorithmic trading within the crypto market.

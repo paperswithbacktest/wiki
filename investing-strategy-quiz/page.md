@@ -1,6 +1,11 @@
 ---
-title: "Investing Strategy Quiz (Algo Trading)"
-description: "Discover how investment strategy quizzes, strategic investing, and algorithmic trading unite to enhance your investment approach. Learn how to discern your risk profile and preferences with quizzes, and leverage algorithmic models for precision trading. Gain insights into aligning strategies with personal goals and the evolving financial landscape for informed and effective investing decisions."
+category: trading_strategy
+description: Discover how investment strategy quizzes, strategic investing, and algorithmic
+  trading unite to enhance your investment approach. Learn how to discern your risk
+  profile and preferences with quizzes, and leverage algorithmic models for precision
+  trading. Gain insights into aligning strategies with personal goals and the evolving
+  financial landscape for informed and effective investing decisions.
+title: Investing Strategy Quiz (Algo Trading)
 ---
 
 Investing has undergone considerable transformation with technological advancements and the development of innovative trading strategies. At the forefront of this transformation is algorithmic trading, commonly referred to as algo-trading, which integrates computer algorithms with financial trading to achieve enhanced accuracy and speed. Algo-trading utilizes complex computations and live data analysis to systematically execute trades, minimizing human error and emotion-driven decision-making [1]. This evolution allows traders to handle vast amounts of market data efficiently, executing transactions in milliseconds [2].

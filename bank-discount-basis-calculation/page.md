@@ -1,6 +1,8 @@
 ---
-title: "Bank Discount Basis: Definition and Calculation (Algo Trading)"
-description: "Explore the bank discount basis and its calculation for financial instruments like Treasury bills Learn how algorithmic trading benefits from these key concepts"
+category: quant_concept
+description: Explore the bank discount basis and its calculation for financial instruments
+  like Treasury bills Learn how algorithmic trading benefits from these key concepts
+title: 'Bank Discount Basis: Definition and Calculation (Algo Trading)'
 ---
 
 The world of finance is intricate and multifaceted, involving various principles and practices that dictate investments, market behavior, and financial stability. One such crucial concept is the bank discount basis, which plays an essential role in determining the expected yield of securities offered at a discount, such as Treasury bills. These instruments are sold for less than their face value and redeemed at maturity, providing investors with a return that represents the difference between the purchase price and the maturity value.

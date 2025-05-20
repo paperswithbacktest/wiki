@@ -1,6 +1,8 @@
 ---
-title: "Oil-to-Natural Gas Price Ratio (Algo Trading)"
-description: "Discover the intricacies of the oil-to-natural gas price ratio and its impact on algorithmic trading in the dynamic and evolving energy market landscape."
+category: trading_strategy
+description: Discover the intricacies of the oil-to-natural gas price ratio and its
+  impact on algorithmic trading in the dynamic and evolving energy market landscape.
+title: Oil-to-Natural Gas Price Ratio (Algo Trading)
 ---
 
 The energy market is a cornerstone of the global economy, significantly influencing economic growth, geopolitical stability, and technological development. Among the primary commodities at the heart of this market are oil and natural gas, both critical not only for electricity generation and transportation but also for industrial processes and residential use. The pervasive influence of these commodities makes an understanding of their pricing dynamics vital for investors, traders, and policymakers who must navigate this complex landscape.

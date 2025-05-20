@@ -1,6 +1,15 @@
 ---
-title: "Fixed-income relative-value investing (Algo Trading)"
-description: Discover the sophisticated world of Fixed-Income Relative-Value Investing (FI-RV), an investment strategy designed to exploit valuation discrepancies in related fixed-income securities. This approach leverages algorithmic trading to enhance precision and speed, enabling investors to capitalize on fleeting market inefficiencies across government bonds, interest rate swaps, and futures contracts. With a focus on risk management and leveraging advanced quantitative models, FI-RV offers a systematic and scalable means to achieve consistent profits while adapting to evolving financial markets. Explore the synergies between technology and strategy in today's fast-paced investment landscape.
+category: trading_strategy
+description: Discover the sophisticated world of Fixed-Income Relative-Value Investing
+  (FI-RV), an investment strategy designed to exploit valuation discrepancies in related
+  fixed-income securities. This approach leverages algorithmic trading to enhance
+  precision and speed, enabling investors to capitalize on fleeting market inefficiencies
+  across government bonds, interest rate swaps, and futures contracts. With a focus
+  on risk management and leveraging advanced quantitative models, FI-RV offers a systematic
+  and scalable means to achieve consistent profits while adapting to evolving financial
+  markets. Explore the synergies between technology and strategy in today's fast-paced
+  investment landscape.
+title: Fixed-income relative-value investing (Algo Trading)
 ---
 
 Fixed-Income Relative-Value Investing (FI-RV) is an investment strategy that seeks to capitalize on the valuation discrepancies between related fixed-income securities. These inefficiencies often arise due to temporary market anomalies, institutional behaviors, or macroeconomic factors, enabling investors to profit by simultaneously taking long and short positions in these securities. FI-RV is predominantly utilized in markets such as government bonds, interest rate swaps, and futures contracts, where price movements can deviate from their theoretical values.

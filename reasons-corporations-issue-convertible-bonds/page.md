@@ -1,6 +1,8 @@
 ---
-title: "Reasons for Corporations to Issue Convertible Bonds (Algo Trading)"
-description: "Explore why corporations issue convertible bonds to raise capital efficiently while balancing debt and equity. Learn how algorithmic trading impacts this market."
+category: quant_concept
+description: Explore why corporations issue convertible bonds to raise capital efficiently
+  while balancing debt and equity. Learn how algorithmic trading impacts this market.
+title: Reasons for Corporations to Issue Convertible Bonds (Algo Trading)
 ---
 
 Convertible bonds represent a unique financial instrument that blends the features of both debt and equity, offering benefits and challenges to both issuers and investors. These bonds provide fixed interest payments over a specified period, with the added option for conversion into a set number of equity shares. This conversion option becomes attractive when the issuing company's stock performs well, offering bondholders the opportunity to benefit from potential equity gains. As a result, convertible bonds are appealing to issuers looking to raise capital at a lower cost and investors seeking a combination of fixed income and equity potential.
@@ -142,4 +144,3 @@ To gain a comprehensive understanding of convertible bonds, their pricing, and a
 8. **Algorithmic Trading References**: For those interested in the algorithmic aspects, "Algorithmic Trading and DMA" by Barry Johnson is a recommended resource providing context on the technological and strategic landscape impacting convertible bond trading.
 
 These resources collectively provide valuable insights into the intricacies of convertible bonds, guiding both theoretical understanding and practical application in financial markets.
-

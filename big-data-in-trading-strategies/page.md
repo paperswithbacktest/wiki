@@ -1,6 +1,8 @@
 ---
-title: "Big Data in Trading Strategies (Algo Trading)"
-description: "Explore how big data revolutionizes algorithmic trading by enabling data-driven strategies for faster and more accurate financial market decisions."
+category: trading_strategy
+description: Explore how big data revolutionizes algorithmic trading by enabling data-driven
+  strategies for faster and more accurate financial market decisions.
+title: Big Data in Trading Strategies (Algo Trading)
 ---
 
 The integration of big data into algorithmic trading has significantly transformed financial markets, enhancing the capabilities of traders to make well-informed decisions with unprecedented speed and efficiency. As financial markets continue to grow in complexity, the utilization of vast datasets has become a pivotal factor in the construction and execution of sophisticated trading strategies.

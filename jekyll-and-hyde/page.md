@@ -1,6 +1,8 @@
 ---
-title: "Jekyll and Hyde (Algo Trading)"
-description: "Explore the dual nature of algorithmic trading with insights from Jekyll and Hyde reflecting on market stability and volatility for optimized trading strategies."
+category: trading_strategy
+description: Explore the dual nature of algorithmic trading with insights from Jekyll
+  and Hyde reflecting on market stability and volatility for optimized trading strategies.
+title: Jekyll and Hyde (Algo Trading)
 ---
 
 The intriguing world of algorithmic trading often draws comparisons to the classic literary figures Dr. Jekyll and Mr. Hyde, illustrating the dual nature present within financial markets. This comparison underscores the complexity and multiplicity of roles that traders and algorithms must adapt to in order to achieve success. Dr. Jekyll, with his benevolent and steady demeanor, symbolizes the stability and predictability that traders seek in their investments. In contrast, Mr. Hyde's unpredictable volatility mirrors the sudden market swings that can disrupt even the most well-planned strategies.

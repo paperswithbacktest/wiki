@@ -1,6 +1,8 @@
 ---
-title: "Indirect Bidder (Algo Trading)"
-description: "Explore the impact of indirect bidding and algorithmic trading in financial markets. Discover key auction methods like English Dutch and sealed-bid auctions."
+category: quant_concept
+description: Explore the impact of indirect bidding and algorithmic trading in financial
+  markets. Discover key auction methods like English Dutch and sealed-bid auctions.
+title: Indirect Bidder (Algo Trading)
 ---
 
 In today's financial markets, understanding the complexities of the indirect bidding process, various auction methods, and the role of algorithmic trading is crucial for success. Financial markets are continually evolving with sophisticated strategies and technologies playing pivotal roles in shaping how securities are traded. For investors and traders aiming to optimize their performance, having a strong grasp of how indirect bidder processes work, the different auction methodologies employed in the financial sector, and the enhancements brought by algorithmic trading is essential. 

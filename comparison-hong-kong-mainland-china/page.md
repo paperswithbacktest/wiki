@@ -1,6 +1,9 @@
 ---
-title: "Comparison of Hong Kong and Mainland China (Algo Trading)"
-description: "Explore the key differences in algorithmic trading between Hong Kong and Mainland China Discover diverse regulatory policies market structures and trading strategies"
+category: quant_concept
+description: Explore the key differences in algorithmic trading between Hong Kong
+  and Mainland China Discover diverse regulatory policies market structures and trading
+  strategies
+title: Comparison of Hong Kong and Mainland China (Algo Trading)
 ---
 
 In the rapidly evolving world of finance, algorithmic trading has established itself as a significant force, particularly in the dynamic markets of Mainland China and Hong Kong. As technological advancements continue to transform financial markets globally, understanding the distinctions in how algorithmic trading functions within these two regions becomes crucial for traders, investors, and financial institutions, whether they are operational in the area or considering entry.

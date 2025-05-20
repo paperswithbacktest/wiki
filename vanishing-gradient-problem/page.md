@@ -1,7 +1,8 @@
 ---
-title: Understanding the Vanishing Gradient Problem in Neural Networks
+category: quant_concept
 description: Vanishing Gradient Problem blocks deep learning by reducing gradients
   in training Use ReLU and normalization to restore gradient flow Discover more inside
+title: Understanding the Vanishing Gradient Problem in Neural Networks
 ---
 
 ![Image](images/1.jpeg)

@@ -1,6 +1,9 @@
 ---
-title: "Quadeye (Algo Trading)"
-description: "Quadeye leverages advanced algorithms and cutting-edge technology to optimize trading strategies offering speed precision and adaptability in financial markets."
+category: trading_strategy
+description: Quadeye leverages advanced algorithms and cutting-edge technology to
+  optimize trading strategies offering speed precision and adaptability in financial
+  markets.
+title: Quadeye (Algo Trading)
 ---
 
 In recent years, algorithmic trading has transformed financial markets by giving savvy investors a notable advantage through speed, precision, and the ability to process vast amounts of data. Among the firms that have significantly impacted this domain is Quadeye, recognized for its innovation and sophisticated trading strategies. This article aims to explore the core aspects of Quadeye and its contributions to algorithmic trading.

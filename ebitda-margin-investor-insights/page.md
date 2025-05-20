@@ -1,6 +1,8 @@
 ---
-title: "EBITDA Margin and Investor Insights (Algo Trading)"
-description: "Discover how EBITDA margin analysis and algorithmic trading combine to enhance investment strategies offering insights into profitability and decision-making."
+category: quant_concept
+description: Discover how EBITDA margin analysis and algorithmic trading combine to
+  enhance investment strategies offering insights into profitability and decision-making.
+title: EBITDA Margin and Investor Insights (Algo Trading)
 ---
 
 In today’s fast-paced financial markets, making informed investment decisions is more crucial than ever. Investors rely on financial metrics to evaluate the performance and potential growth of their investments effectively. One such crucial metric is the EBITDA margin, which serves as a key performance indicator by providing insights into a company's operating profitability. The EBITDA margin is calculated using the formula:

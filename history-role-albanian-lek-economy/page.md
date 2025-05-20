@@ -1,6 +1,9 @@
 ---
-title: "History and Role of the Albanian Lek in the Economy (Algo Trading)"
-description: "Explore Albania's economic history and the transformative impact of algorithmic trading on the Albanian Lek highlighting its role in shaping the nation's financial landscape."
+category: quant_concept
+description: Explore Albania's economic history and the transformative impact of algorithmic
+  trading on the Albanian Lek highlighting its role in shaping the nation's financial
+  landscape.
+title: History and Role of the Albanian Lek in the Economy (Algo Trading)
 ---
 
 The Albanian economy has undergone significant transformations over the years, primarily influenced by a series of political and economic events. Historically, these changes have been marked by an evolution from a centrally planned economy to a more liberalized market structure post-1990s. This shift has facilitated increased integration into the global economic system and has been pivotal in transforming Albania's economic landscape.

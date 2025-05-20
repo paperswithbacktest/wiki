@@ -1,6 +1,14 @@
 ---
-title: "Producer Price Index and Its Calculation (Algo Trading)"
-description: "The Producer Price Index (PPI) is a crucial economic indicator used to assess wholesale inflation by tracking the average change in prices received by domestic producers for their goods and services over time. As a vital tool for economists and traders, the PPI offers valuable insights into price fluctuations at the production level, distinguishing it from the Consumer Price Index (CPI) which focuses on retail prices. The PPI serves as an early indicator of inflation and plays a significant role in algorithmic trading, enabling informed decision-making by providing data that reflects the economic health and competitive positioning of nations."
+category: quant_concept
+description: The Producer Price Index (PPI) is a crucial economic indicator used to
+  assess wholesale inflation by tracking the average change in prices received by
+  domestic producers for their goods and services over time. As a vital tool for economists
+  and traders, the PPI offers valuable insights into price fluctuations at the production
+  level, distinguishing it from the Consumer Price Index (CPI) which focuses on retail
+  prices. The PPI serves as an early indicator of inflation and plays a significant
+  role in algorithmic trading, enabling informed decision-making by providing data
+  that reflects the economic health and competitive positioning of nations.
+title: Producer Price Index and Its Calculation (Algo Trading)
 ---
 
 The Producer Price Index (PPI) is an essential economic indicator that reflects the average changes in prices received by domestic producers for their goods and services over time. By offering a detailed measure of wholesale inflation, the PPI becomes a crucial tool for economists and traders who utilize this data for a variety of applications, including economic forecasting and developing market strategies. This metric provides insight into price fluctuations at the production level rather than at the retail level, distinguishing it from the Consumer Price Index (CPI).

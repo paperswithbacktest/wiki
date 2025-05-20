@@ -1,6 +1,9 @@
 ---
-title: "Bearish Diamond Formation (Algo Trading)"
-description: "Discover the bearish diamond formation pattern in algo trading This guide highlights how to identify market reversals using this rare pattern for algorithmic strategies"
+category: trading_strategy
+description: Discover the bearish diamond formation pattern in algo trading This guide
+  highlights how to identify market reversals using this rare pattern for algorithmic
+  strategies
+title: Bearish Diamond Formation (Algo Trading)
 ---
 
 Diamond formation is a rare but potent technical analysis pattern used by traders to predict reversals in existing trends. This particular pattern forms a diamond-like shape when traced over specific peaks and troughs on a price chart, often signifying significant market indecision before a potential reversal. In this article, we will explore the bearish diamond formation, particularly focusing on how it functions within the context of algorithmic trading and technical analysis.

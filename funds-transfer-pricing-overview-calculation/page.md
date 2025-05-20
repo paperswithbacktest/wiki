@@ -1,6 +1,11 @@
 ---
-title: "Funds Transfer Pricing Overview and Calculation (Algo Trading)"
-description: "Explore Funds Transfer Pricing (FTP), a vital framework in banking that helps institutions evaluate profitability across business segments. Understand how FTP analyzes the impact of funding sources on financial performance, aiding in risk management and decision-making. Learn key FTP concepts, calculation methods, and its role in algorithmic trading to enhance financial strategies."
+category: quant_concept
+description: Explore Funds Transfer Pricing (FTP), a vital framework in banking that
+  helps institutions evaluate profitability across business segments. Understand how
+  FTP analyzes the impact of funding sources on financial performance, aiding in risk
+  management and decision-making. Learn key FTP concepts, calculation methods, and
+  its role in algorithmic trading to enhance financial strategies.
+title: Funds Transfer Pricing Overview and Calculation (Algo Trading)
 ---
 
 Funds Transfer Pricing (FTP) is an essential framework in banking finance that plays a pivotal role in enabling financial institutions to evaluate and optimize their profitability across various business segments. By adopting FTP, banks can comprehensively analyze how different funding sources contribute to their overall financial performance. This methodology allows for a clear understanding of the dynamics between interest income from loans and the cost associated with deposits and other liabilities.

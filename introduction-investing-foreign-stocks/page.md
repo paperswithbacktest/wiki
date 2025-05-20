@@ -1,6 +1,8 @@
 ---
-title: "Introduction to Investing in Foreign Stocks (Algo Trading)"
-description: "Explore the benefits of investing in foreign stocks, including diversification and potential returns, and learn about algorithmic trading's impact on global markets."
+category: trading_strategy
+description: Explore the benefits of investing in foreign stocks, including diversification
+  and potential returns, and learn about algorithmic trading's impact on global markets.
+title: Introduction to Investing in Foreign Stocks (Algo Trading)
 ---
 
 Investing in international stocks allows investors to diversify their portfolios and reduce reliance on local economies alone. By engaging in foreign markets, investors can tap into growth opportunities that exist beyond their domestic borders. Emerging markets, often characterized by rapid economic expansion and industrialization, present particularly attractive prospects for achieving significant returns. Countries such as China, India, and Brazil have shown substantial GDP growth, driven by factors like the burgeoning middle class and industrial innovations.

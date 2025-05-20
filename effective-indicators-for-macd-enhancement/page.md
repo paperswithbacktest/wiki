@@ -1,6 +1,8 @@
 ---
-title: "Effective Indicators for MACD Enhancement (Algo Trading)"
-description: "Optimize your MACD trading strategies with insights into its components and applications in algorithmic trading Enhance your buy and sell signals today"
+category: trading_strategy
+description: Optimize your MACD trading strategies with insights into its components
+  and applications in algorithmic trading Enhance your buy and sell signals today
+title: Effective Indicators for MACD Enhancement (Algo Trading)
 ---
 
 The Moving Average Convergence Divergence (MACD) indicator is a fundamental component of technical analysis and algorithmic trading. It is designed to uncover changes in the strength, direction, momentum, and duration of a trend in a stock's price. By providing insights into potential trend reversals and continuation, the MACD is widely utilized to identify potential buy and sell signals, making it a staple among traders and investors alike. 
@@ -194,4 +196,3 @@ By combining the MACD with other indicators and maintaining an adaptive approach
 [4]: Jankovsky, D. (2008). ["The Art of the Trade: What I Learned (and Lost) Trading the Chicago Futures Markets."](https://www.amazon.com/Art-Trade-Learned-Trading-Chicago/dp/0470138998) John Wiley & Sons.
 
 [5]: Elder, A. (2002). ["Come Into My Trading Room: A Complete Guide to Trading."](https://www.amazon.com/Come-Into-My-Trading-Room/dp/0471225347) Wiley Trading.
-

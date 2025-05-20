@@ -1,6 +1,9 @@
 ---
-title: "Account Settlement Types and Examples (Algo Trading)"
-description: "Discover account settlement types and their role in algorithmic trading. Explore how settlements ensure efficient, risk-managed transactions in evolving markets."
+category: quant_concept
+description: Discover account settlement types and their role in algorithmic trading.
+  Explore how settlements ensure efficient, risk-managed transactions in evolving
+  markets.
+title: Account Settlement Types and Examples (Algo Trading)
 ---
 
 Financial transactions settlement is integral to maintaining the smooth and efficient functioning of financial markets. It comprises various mechanisms that ensure the completion of transactions, involving the transfer of funds and securities between parties. These processes are essential because settlements mitigate risks like counterparty risk, where one party might fail to fulfill its contractual obligations.
@@ -118,4 +121,3 @@ The evolving landscape of financial markets necessitates continuous adaptation i
    - "Smart Contracts for Financial Instruments on Blockchain" offers insights into how blockchain-based contracts facilitate automated settlements and reduce counterparty risk.
 
 These resources will enhance understanding of the underlying principles, regulatory landscapes, and technological innovations that drive financial transaction settlements forward.
-

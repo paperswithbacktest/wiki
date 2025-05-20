@@ -1,6 +1,9 @@
 ---
-title: "Chande Momentum Oscillator (Algo Trading)"
-description: "Explore the Chande Momentum Oscillator and its unique approach to measuring market momentum Perfect for traders looking to enhance their technical analysis skills"
+category: trading_strategy
+description: Explore the Chande Momentum Oscillator and its unique approach to measuring
+  market momentum Perfect for traders looking to enhance their technical analysis
+  skills
+title: Chande Momentum Oscillator (Algo Trading)
 ---
 
 The world of technical analysis is rich with indicators, each offering unique insights into market dynamics. These tools assist traders in predicting future price movements based on historical data. Among these indicators, the Chande Momentum Oscillator (CMO) stands out for its balanced approach to measuring momentum, providing insights that are both comprehensive and versatile. Developed by Tushar Chande in 1994, the CMO is a momentum indicator used extensively in both technical analysis and algorithmic trading to capture shifts in market momentum.

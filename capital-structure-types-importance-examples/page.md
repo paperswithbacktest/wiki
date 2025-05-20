@@ -1,6 +1,9 @@
 ---
-title: "Capital Structure: Types, Importance, and Examples (Algo Trading)"
-description: "Explore capital structure and algorithmic trading in finance Learn how optimal funding and tech-driven strategies can boost business growth and competitive edge"
+category: quant_concept
+description: Explore capital structure and algorithmic trading in finance Learn how
+  optimal funding and tech-driven strategies can boost business growth and competitive
+  edge
+title: 'Capital Structure: Types, Importance, and Examples (Algo Trading)'
 ---
 
 In the contemporary world of finance, the intersection of corporate finance, financial strategy, capital structure, and algorithmic trading forms a pivotal framework for businesses aiming to achieve sustainable growth. These elements are deeply interconnected, each playing a crucial role in determining a firm's financial health and strategic direction. Corporate finance serves as the backbone, focusing on managing a company's financial activities and resources efficiently. Financial strategy aligns this framework with a firm's broader business goals, ensuring that resource allocation and investment decisions support the achievement of these objectives.

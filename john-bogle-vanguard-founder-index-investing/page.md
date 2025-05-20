@@ -1,6 +1,9 @@
 ---
-title: "John Bogle: Founder of Vanguard and Pioneer of Index Investing (Algo Trading)"
-description: "John Bogle revolutionized investing by introducing index funds through Vanguard prioritizing low costs and democratizing access shaping modern portfolio strategies."
+category: trading_strategy
+description: John Bogle revolutionized investing by introducing index funds through
+  Vanguard prioritizing low costs and democratizing access shaping modern portfolio
+  strategies.
+title: 'John Bogle: Founder of Vanguard and Pioneer of Index Investing (Algo Trading)'
 ---
 
 The investment landscape has been significantly shaped by innovative thinkers like John Bogle, the founder of Vanguard Group. Bogle is celebrated for introducing index investing, a strategy that allows investors to track the broader market efficiently. Index investing offers a systematic approach that mitigates individual stock risks by diversifying investments across the entire market. This strategy not only democratized investing by making it accessible to ordinary individuals but also emphasized the importance of low costs in enhancing long-term investment returns.
@@ -114,4 +117,3 @@ As financial markets continue to evolve, the combination of Bogle's insights wit
 [7]: ["The Concept of Indexation and the Construction of Bond Indices"](https://fastercapital.com/content/Bond-Index-Construction--Understanding-the-Role-of-Bond-Index-Construction-in-Portfolio-Management.html) by Claude Gaspard, The Journal of Financial and Quantitative Analysis
 
 [8]: ["Vanguard: to buy or not to buy index funds"](https://investor.vanguard.com/investment-products/index-funds) by David Randall, Reuters
-

@@ -1,6 +1,9 @@
 ---
-title: "Abu Dhabi Investment Council: Overview and Functionality (Algo Trading)"
-description: "Explore the history and strategic investment approaches of the Abu Dhabi Investment Council including its use of algorithmic trading for efficient global asset management."
+category: quant_concept
+description: Explore the history and strategic investment approaches of the Abu Dhabi
+  Investment Council including its use of algorithmic trading for efficient global
+  asset management.
+title: 'Abu Dhabi Investment Council: Overview and Functionality (Algo Trading)'
 ---
 
 Sovereign wealth funds (SWFs) are pivotal to global investing and economic stability due to their extensive capital bases and long-term investment horizons. They act as financial buffers for their respective nations, aiding in economic diversification, fiscal stability, and strategic economic planning. As custodians of immense public wealth, SWFs invest in a wide range of asset classes and geographic regions, thereby influencing global financial markets significantly.

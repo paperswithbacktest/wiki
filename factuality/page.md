@@ -1,7 +1,8 @@
 ---
-title: Ensuring Factuality in Machine Learning for Reliable Predictions
+category: quant_concept
 description: Factuality in machine learning ensures model outputs match real-world
   data by using quality datasets and validation metrics Discover more inside.
+title: Ensuring Factuality in Machine Learning for Reliable Predictions
 ---
 
 ![Image](images/1.png)

@@ -1,6 +1,8 @@
 ---
-title: "Lebanese Pound: Overview, History, and Conversion (Algo Trading)"
-description: "Explore the history and complexities of the Lebanese Pound with an emphasis on currency conversion, economic challenges, and the role of algorithmic trading."
+category: dataset
+description: Explore the history and complexities of the Lebanese Pound with an emphasis
+  on currency conversion, economic challenges, and the role of algorithmic trading.
+title: 'Lebanese Pound: Overview, History, and Conversion (Algo Trading)'
 ---
 
 The Lebanese Pound (LBP) stands as the official currency of Lebanon, a nation characterized by a rich history and complex economic backdrop. Once a model of financial stability, Lebanon's economic journey has been marked by significant challenges, impacting the LBP profoundly over the years. This article aims to provide an exploration of the Lebanese Pound, touching upon its historical development, the complications it faces in currency conversion, and the emerging prospects through algorithmic trading.

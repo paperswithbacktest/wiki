@@ -1,6 +1,8 @@
 ---
-title: "Self-Exciting Processes (Algo Trading)"
-description: "Explore the role of self-exciting processes like Hawkes in algo trading enhancing predictive accuracy and capturing market dynamics for profitable decision-making."
+category: quant_concept
+description: Explore the role of self-exciting processes like Hawkes in algo trading
+  enhancing predictive accuracy and capturing market dynamics for profitable decision-making.
+title: Self-Exciting Processes (Algo Trading)
 ---
 
 Algorithmic trading represents a modern approach to executing financial trades through automated systems, leveraging mathematical and statistical models to analyze market data and make decisions. These systems are designed to identify and exploit market inefficiencies, often executing trades at speeds and volumes beyond human capabilities. The core of such trading strategies lies in their ability to predict market movements and respond in near real-time, which is where sophisticated mathematical constructs like self-exciting processes become crucial.

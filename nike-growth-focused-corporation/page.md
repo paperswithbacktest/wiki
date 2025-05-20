@@ -1,6 +1,9 @@
 ---
-title: "Nike as a Growth-Focused Corporation (Algo Trading)"
-description: "Nike integrates growth strategies and algorithmic trading to enhance market leadership optimizing financial decisions and expanding its competitive edge globally."
+category: trading_strategy
+description: Nike integrates growth strategies and algorithmic trading to enhance
+  market leadership optimizing financial decisions and expanding its competitive edge
+  globally.
+title: Nike as a Growth-Focused Corporation (Algo Trading)
 ---
 
 Nike, a globally recognized brand, has positioned itself as a leading growth company. Founded in 1964, Nike has evolved into an iconic symbol of athletic excellence, with its swoosh logo known worldwide. The company's strategic approach intertwines growth tactics and algorithmic trading insights to maintain its competitive edge and market leadership. These strategies have enabled Nike to not only sustain but enhance its market presence in the highly competitive athletic apparel industry.

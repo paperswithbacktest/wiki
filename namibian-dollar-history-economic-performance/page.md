@@ -1,6 +1,9 @@
 ---
-title: "Namibian Dollar: History and Economic Performance (Algo Trading)"
-description: "Explore the history and economic performance of the Namibian Dollar and its role in algorithmic trading. Learn how its peg to the Rand influences trading strategies."
+category: dataset
+description: Explore the history and economic performance of the Namibian Dollar and
+  its role in algorithmic trading. Learn how its peg to the Rand influences trading
+  strategies.
+title: 'Namibian Dollar: History and Economic Performance (Algo Trading)'
 ---
 
 The Namibian Dollar (NAD) serves as a fascinating study in currency, boasting a rich history and significant economic implications. Introduced in 1993, the NAD officially replaced the South African Rand (ZAR) as the currency of Namibia. While the transition marked a pivotal moment in the nation’s monetary history, the ZAR continues to circulate as legal tender due to deeply intertwined economic and historical ties. 

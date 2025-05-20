@@ -1,6 +1,8 @@
 ---
-title: "Advantages and Disadvantages of Pegged Exchange Rates (Algo Trading)"
-description: "Explore the benefits and drawbacks of pegged exchange rates in global markets and discover how algorithmic trading impacts currency values and stability."
+category: quant_concept
+description: Explore the benefits and drawbacks of pegged exchange rates in global
+  markets and discover how algorithmic trading impacts currency values and stability.
+title: Advantages and Disadvantages of Pegged Exchange Rates (Algo Trading)
 ---
 
 Pegged exchange rates, also known as fixed exchange rate systems or currency pegs, are financial mechanisms utilized by countries to anchor their currency's value to another, often more stable and widely-used, currency. Typically pegged to strong international currencies such as the US dollar or the euro, this system aims to foster economic stability and predictability, particularly vital for economies heavily dependent on international trade. By aligning a domestic currency’s value with a stable foreign currency, countries can mitigate the risks associated with currency value fluctuations. This contributes to a more predictable economic environment, which can bolster investor confidence and enhance trade relationships.

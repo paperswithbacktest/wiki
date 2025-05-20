@@ -1,6 +1,8 @@
 ---
-title: "Impact Decline of Japan's Quantitative Easing (Algo Trading)"
-description: "Explore the impact of Japan's long-term quantitative easing on the global economy and algorithmic trading strategies with insightful analysis and case studies."
+category: quant_concept
+description: Explore the impact of Japan's long-term quantitative easing on the global
+  economy and algorithmic trading strategies with insightful analysis and case studies.
+title: Impact Decline of Japan's Quantitative Easing (Algo Trading)
 ---
 
 Japan's monetary policy has attracted significant attention from economists and policymakers worldwide, particularly due to its prolonged use of quantitative easing (QE). This monetary policy strategy, initially adopted to counteract persistent deflation and economic stagnation, revolves around the central bank purchasing securities to increase the money supply and stimulate economic activity. Despite Japan's pioneering role in implementing QE, the nation's economy has encountered mixed results.

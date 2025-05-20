@@ -1,6 +1,11 @@
 ---
-title: "AAII and Market Sentiment Indicators Explained (Algo Trading)"
-description: Explore the role of the AAII Investor Sentiment Index in algorithmic trading to enhance strategies by understanding investor attitudes. This article highlights how sentiment indicators can predict market trends and aid in better trading decisions. Learn how the AAII Index helps gauge market psychology and the integration of such data within trading systems for improved performance.
+category: trading_strategy
+description: Explore the role of the AAII Investor Sentiment Index in algorithmic
+  trading to enhance strategies by understanding investor attitudes. This article
+  highlights how sentiment indicators can predict market trends and aid in better
+  trading decisions. Learn how the AAII Index helps gauge market psychology and the
+  integration of such data within trading systems for improved performance.
+title: AAII and Market Sentiment Indicators Explained (Algo Trading)
 ---
 
 In algorithmic trading, sentiment indicators are increasingly employed to gauge investor attitudes and improve trading strategies. One significant tool in this domain is the AAII Investor Sentiment Index, which serves as a barometer for individual investor sentiments regarding stock market directions. By measuring the balance of bullish and bearish sentiments, this index provides a nuanced understanding of investor psychology, thereby allowing traders to strategize more effectively.

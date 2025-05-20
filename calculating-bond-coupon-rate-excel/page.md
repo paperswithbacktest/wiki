@@ -1,6 +1,8 @@
 ---
-title: "Calculating a Bond's Coupon Rate Using Excel (Algo Trading)"
-description: "Learn to calculate bond coupon rates using Excel by setting up precise formulae, enabling effective analysis for algo trading strategies and informed decisions."
+category: quant_concept
+description: Learn to calculate bond coupon rates using Excel by setting up precise
+  formulae, enabling effective analysis for algo trading strategies and informed decisions.
+title: Calculating a Bond's Coupon Rate Using Excel (Algo Trading)
 ---
 
 Understanding financial terms and calculations is essential for investors and financial analysts seeking to maximize returns and manage risks effectively. One crucial aspect in the world of fixed-income securities is understanding bond investments, which necessitates a comprehensive knowledge of metrics such as coupon rates and yields. The coupon rate, in particular, serves as a fundamental measure of the periodic interest payment a bondholder receives relative to the bond’s face value. This metric plays a pivotal role in determining a bond’s attractiveness and its expected return over time.

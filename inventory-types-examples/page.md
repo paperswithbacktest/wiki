@@ -1,6 +1,9 @@
 ---
-title: "Inventory: Types and Examples (Algo Trading)"
-description: "Explore how inventory management impacts both traditional industries and algorithmic trading revealing insights into types, methodologies, and efficiency gains."
+category: quant_concept
+description: Explore how inventory management impacts both traditional industries
+  and algorithmic trading revealing insights into types, methodologies, and efficiency
+  gains.
+title: 'Inventory: Types and Examples (Algo Trading)'
 ---
 
 In today's rapidly evolving financial landscape, inventory management is a cornerstone of operational efficiency across numerous sectors, including both traditional industries and algorithmic trading. Inventory, encompassing raw materials, work-in-progress items, and finished products, is essential for a company's ability to meet market demands effectively. This article examines the significance of recognizing different types of inventory and their management methodologies, especially within algorithmic trading systems, where strategic handling of financial instruments is crucial.

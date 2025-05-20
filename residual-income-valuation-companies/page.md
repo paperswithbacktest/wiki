@@ -1,6 +1,13 @@
 ---
-title: "Residual Income Valuation of Companies (Algo Trading)"
-description: "Residual income valuation is pivotal in company valuation and algorithmic trading by measuring economic profitability after capital costs. This approach helps investors discern companies generating returns beyond capital expenses. By integrating residual income into algorithmic trading, traders refine strategies based on accurate profitability metrics. Positive residual income indicates value creation, offering a reliable measure beyond traditional accounting. This analysis aids investors in identifying genuine shareholder value, supporting data-driven trading decisions."
+category: quant_concept
+description: Residual income valuation is pivotal in company valuation and algorithmic
+  trading by measuring economic profitability after capital costs. This approach helps
+  investors discern companies generating returns beyond capital expenses. By integrating
+  residual income into algorithmic trading, traders refine strategies based on accurate
+  profitability metrics. Positive residual income indicates value creation, offering
+  a reliable measure beyond traditional accounting. This analysis aids investors in
+  identifying genuine shareholder value, supporting data-driven trading decisions.
+title: Residual Income Valuation of Companies (Algo Trading)
 ---
 
 Residual income plays a crucial role at the intersection of company valuation, financial analysis, and algorithmic trading, serving as an essential tool for evaluating economic profitability. As a measure of profitability calculated after accounting for the cost of capital, residual income helps investors determine whether a company generates returns exceeding its capital costs. This capability positions residual income as an indispensable factor in assessing a company's financial health, beyond what traditional accounting metrics like net income can provide.

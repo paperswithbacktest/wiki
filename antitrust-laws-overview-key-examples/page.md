@@ -1,6 +1,9 @@
 ---
-title: "Antitrust Laws: Overview and Key Examples (Algo Trading)"
-description: "Explore the significance of antitrust laws in maintaining fair competition and regulating algorithmic trading. Discover their evolving role against digital monopolies."
+category: quant_concept
+description: Explore the significance of antitrust laws in maintaining fair competition
+  and regulating algorithmic trading. Discover their evolving role against digital
+  monopolies.
+title: 'Antitrust Laws: Overview and Key Examples (Algo Trading)'
 ---
 
 Antitrust laws play a crucial role in shaping the global commerce landscape by working to prevent anti-competitive practices and maintain fair competition. These laws have been instrumental in fostering an economic environment where businesses can compete on a level playing field, thereby ensuring consumer choice, innovation, and fair pricing. Initially designed to combat traditional forms of monopolistic behavior, antitrust laws have expanded in scope to address modern challenges such as digital monopolies and the rise of algorithmic trading.

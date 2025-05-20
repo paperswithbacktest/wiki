@@ -1,6 +1,14 @@
 ---
-title: "List of Asian stock exchanges (Algo Trading)"
-description: Explore the dynamic world of Asian stock exchanges and algorithmic trading, where advanced technology fuels market efficiency and growth. As key players in the global economy, exchanges like the Tokyo Stock Exchange, Shanghai Stock Exchange, and India's National Stock Exchange lead in integrating sophisticated trading systems. This article investigates into the rise of algorithmic trading across Eastern, Central, and other Asian regions, showcasing how these innovations drive economic development, attract investors, and enhance global financial integration. Discover the transformative impact of algorithmic trading on Asian markets in 2023.
+category: dataset
+description: Explore the dynamic world of Asian stock exchanges and algorithmic trading,
+  where advanced technology fuels market efficiency and growth. As key players in
+  the global economy, exchanges like the Tokyo Stock Exchange, Shanghai Stock Exchange,
+  and India's National Stock Exchange lead in integrating sophisticated trading systems.
+  This article investigates into the rise of algorithmic trading across Eastern, Central,
+  and other Asian regions, showcasing how these innovations drive economic development,
+  attract investors, and enhance global financial integration. Discover the transformative
+  impact of algorithmic trading on Asian markets in 2023.
+title: List of Asian stock exchanges (Algo Trading)
 ---
 
 Stock exchanges serve as pivotal platforms where investors can buy and sell securities, playing a critical role in the global economy. By facilitating capital formation, they enable corporations to raise funds for expansion and innovation, which in turn drives economic growth and job creation. The liquidity provided by stock exchanges ensures that buying and selling activities can be conducted efficiently, maintaining the trust and confidence of investors. These exchanges are intrinsically linked to global economic health, with their performance often reflecting broader economic trends.

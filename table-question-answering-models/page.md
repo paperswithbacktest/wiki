@@ -1,8 +1,9 @@
 ---
-title: Understanding Table Question Answering Models in AI
+category: quant_concept
 description: Table Question Answering Models simplify data analysis by interpreting
   table structures and answering queries directly from spreadsheets Discover more
   inside.
+title: Understanding Table Question Answering Models in AI
 ---
 
 ![Image](images/1.jpeg)

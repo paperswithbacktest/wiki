@@ -1,6 +1,8 @@
 ---
-title: "Tenbagger Stocks and Identification (Algo Trading)"
-description: "Explore how to identify tenbagger stocks using algorithmic trading Discover strategies and insights into leveraging technology for high-growth investment opportunities"
+category: trading_strategy
+description: Explore how to identify tenbagger stocks using algorithmic trading Discover
+  strategies and insights into leveraging technology for high-growth investment opportunities
+title: Tenbagger Stocks and Identification (Algo Trading)
 ---
 
 In stock investment, terms like 'tenbagger' capture the imagination of many investors due to their potential for substantial financial gain. A tenbagger refers to a stock that appreciates tenfold from its initial purchase price, offering exciting yet challenging objectives for investors who seek significant growth in their portfolios. The quest to identify these high-growth opportunities has led to the increasing use of technology, with algorithmic trading playing a pivotal role.

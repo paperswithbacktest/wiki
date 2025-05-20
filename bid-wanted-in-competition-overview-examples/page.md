@@ -1,6 +1,9 @@
 ---
-title: "Bid Wanted in Competition: Overview and Examples (Algo Trading)"
-description: "Explore the transformative role of Bid Wanted in Competition and algorithmic trading in enhancing financial market efficiency, ensuring competitive pricing and liquidity."
+category: quant_concept
+description: Explore the transformative role of Bid Wanted in Competition and algorithmic
+  trading in enhancing financial market efficiency, ensuring competitive pricing and
+  liquidity.
+title: 'Bid Wanted in Competition: Overview and Examples (Algo Trading)'
 ---
 
 In the contemporary financial landscape, the dynamics of bid competition and investment practices have undergone considerable transformation. This evolution underscores the growing significance of auction mechanisms and algorithmic trading methods in shaping modern financial operations. Traditionally, the financial markets relied heavily on manual processes and human judgment, often leading to inefficiencies and potential errors. However, the advent of technological advancements has revolutionized these practices, enabling more dynamic, competitive, and efficient market environments.

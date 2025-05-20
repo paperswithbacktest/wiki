@@ -1,6 +1,8 @@
 ---
-title: "NAHB/Wells Fargo Housing Market Index (Algo Trading)"
-description: "Explore the impact of the NAHB/Wells Fargo Housing Market Index on algorithmic trading strategies to enhance real estate investment decisions and market insights."
+category: dataset
+description: Explore the impact of the NAHB/Wells Fargo Housing Market Index on algorithmic
+  trading strategies to enhance real estate investment decisions and market insights.
+title: NAHB/Wells Fargo Housing Market Index (Algo Trading)
 ---
 
 The housing market serves as a vital pillar of the economy, significantly impacting consumer spending, investment patterns, and overall economic stability. Due to its vast influence, various tools and indicators are utilized to monitor and assess its health. Among these indicators, the Housing Market Index (HMI) stands out as a prominent measure, a product of the collaboration between Wells Fargo and the National Association of Home Builders (NAHB). This index provides valuable insights into the sentiment among U.S. homebuilders, offering a lens through which to evaluate current and future conditions in the housing sector.

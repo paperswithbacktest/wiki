@@ -1,6 +1,13 @@
 ---
-title: "Milton Friedman (Algo Trading)"
-description: "Explore the integration of monetarism and algorithmic trading, highlighting the influence of Milton Friedman's economic theories on modern financial markets. Understand how monetarist principles, focusing on the money supply, are applied in algorithmic trading to optimize strategies and improve decision-making. This article offers insights into the convergence of traditional economic thought and technological advancements, showcasing their impact on contemporary economies and trading environments."
+category: quant_concept
+description: Explore the integration of monetarism and algorithmic trading, highlighting
+  the influence of Milton Friedman's economic theories on modern financial markets.
+  Understand how monetarist principles, focusing on the money supply, are applied
+  in algorithmic trading to optimize strategies and improve decision-making. This
+  article offers insights into the convergence of traditional economic thought and
+  technological advancements, showcasing their impact on contemporary economies and
+  trading environments.
+title: Milton Friedman (Algo Trading)
 ---
 
 The interplay between monetarism, economics, and algorithmic trading exemplifies the integration of traditional economic principles with modern technology. Monetarism, a school of thought prominently associated with the work of economist Milton Friedman, focuses on the role of governments in controlling the amount of money in circulation. Its central tenet is that variations in the money supply have major influences on national output in the short run and the price level over longer periods. Friedman's contributions, particularly his advocacy for a steady, small expansion of the money supply, have significantly influenced economic policies worldwide. 

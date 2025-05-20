@@ -1,6 +1,8 @@
 ---
-title: "In The Tank: Meaning and Functionality (Algo Trading)"
-description: "Explore the meaning of 'in the tank' in trading and its link to algorithmic trading Discover how these concepts affect financial strategies and decision-making"
+category: quant_concept
+description: Explore the meaning of 'in the tank' in trading and its link to algorithmic
+  trading Discover how these concepts affect financial strategies and decision-making
+title: 'In The Tank: Meaning and Functionality (Algo Trading)'
 ---
 
 The world of financial markets is constantly evolving, driven by technological advancements that have introduced methodologies such as algorithmic trading. This article examines the term 'in the tank,' its significance within trading contexts, and its interplay with algorithmic trading. We will explore the origin of the phrase 'in the tank' and its implications in trading dialogues, as well as the role algorithmic trading plays in today's financial landscape.

@@ -1,6 +1,14 @@
 ---
-title: "Eurozone Sovereign Debt Crisis: Causes and Impacts (Algo Trading)"
-description: "Explore the causes and impacts of the Eurozone Sovereign Debt Crisis from 2009 to 2012 highlighting the vulnerabilities within the EU's financial systems and how algorithmic trading influenced market stability. The crisis primarily affected countries like Greece and Italy uncovering fiscal mismanagement and sparking political and economic shifts including the UK's Brexit decision. Understanding these events is essential for crafting policies to prevent future disruptions while leveraging technology to enhance economic stability. This analysis provides valuable insights for investors policymakers and analysts aiming to strengthen the EU's fiscal governance."
+category: quant_concept
+description: Explore the causes and impacts of the Eurozone Sovereign Debt Crisis
+  from 2009 to 2012 highlighting the vulnerabilities within the EU's financial systems
+  and how algorithmic trading influenced market stability. The crisis primarily affected
+  countries like Greece and Italy uncovering fiscal mismanagement and sparking political
+  and economic shifts including the UK's Brexit decision. Understanding these events
+  is essential for crafting policies to prevent future disruptions while leveraging
+  technology to enhance economic stability. This analysis provides valuable insights
+  for investors policymakers and analysts aiming to strengthen the EU's fiscal governance.
+title: 'Eurozone Sovereign Debt Crisis: Causes and Impacts (Algo Trading)'
 ---
 
 The European sovereign debt crisis, also referred to as the Eurozone crisis, marks a significant episode in the modern financial history of the European Union (EU). The crisis unfolded mainly between 2009 and 2012 and underscored the vulnerabilities within the EU's intricate financial systems. This period was characterized by multiple EU member states facing the dire prospect of defaulting on their national debts, which reverberated through the regional and global economies.

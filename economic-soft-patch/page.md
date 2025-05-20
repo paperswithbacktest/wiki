@@ -1,6 +1,9 @@
 ---
-title: "Economic Soft Patch (Algo Trading)"
-description: "Explore the dynamics of economic cycles and algorithmic trading Understand the role of economic slowdowns and soft patches in investment strategies and market efficiency."
+category: quant_concept
+description: Explore the dynamics of economic cycles and algorithmic trading Understand
+  the role of economic slowdowns and soft patches in investment strategies and market
+  efficiency.
+title: Economic Soft Patch (Algo Trading)
 ---
 
 Understanding economic cycles is crucial for comprehending the fluctuations in economic activity over time. These cycles, often described as the natural ebb and flow of economic expansion and contraction, are key to grasping how economies grow and adjust. Within this framework, the terms 'economic slowdown' and 'soft patch' often surface during periods of reduced growth, indicating temporary disruptions in long-term economic expansion rather than full-scale recessions.

@@ -1,6 +1,13 @@
 ---
-title: "Bars (table rows) (Algo Trading)"
-description: Discover the essentials of bars and tables in algorithmic trading and how they contribute to strategy development and execution. Bars provide a visual representation of market data, highlighting key price points for technical analysis, while tables organize detailed financial information into an analyzable format. Understanding these components is crucial for anyone aiming to excel in the fast-paced world of algorithmic trading. Explore how to effectively use bars and tables to enhance your trading strategies and decision-making processes.
+category: quant_concept
+description: Discover the essentials of bars and tables in algorithmic trading and
+  how they contribute to strategy development and execution. Bars provide a visual
+  representation of market data, highlighting key price points for technical analysis,
+  while tables organize detailed financial information into an analyzable format.
+  Understanding these components is crucial for anyone aiming to excel in the fast-paced
+  world of algorithmic trading. Explore how to effectively use bars and tables to
+  enhance your trading strategies and decision-making processes.
+title: Bars (table rows) (Algo Trading)
 ---
 
 Algorithmic trading, often referred to as algo trading, utilizes computer programs to execute trading strategies based on predefined criteria. This method has revolutionized financial markets by enhancing the speed and precision of trades, allowing traders to take advantage of even the smallest market inefficiencies. A key element of algorithmic trading is the use of bars and tables, which provide traders with a structured way to analyze data and develop strategies.

@@ -1,6 +1,8 @@
 ---
-title: "Impact of the Underground Economy on GDP (Algo Trading)"
-description: "Explore how the underground economy affects GDP accuracy and policy making Learn about shadow economy's global impact and uncover innovative solutions."
+category: quant_concept
+description: Explore how the underground economy affects GDP accuracy and policy making
+  Learn about shadow economy's global impact and uncover innovative solutions.
+title: Impact of the Underground Economy on GDP (Algo Trading)
 ---
 
 The underground economy, often referred to as the black market or shadow economy, consists of economic activities intentionally hidden from official records to evade taxes or bypass legal restrictions. This covert sector includes various transactions, ranging from illicit activities like drug trafficking and illegal gambling to more benign actions such as undeclared tips and cash-based jobs. Despite its clandestine nature, the underground economy has a profound impact on a nation's Gross Domestic Product (GDP) by creating significant discrepancies in economic data. These discrepancies arise because the transactions are not reported, leading to a distortion of the GDP figures that are critical for setting effective fiscal and monetary policies. As such, the accuracy of GDP is compromised, which can result in policy decisions based on erroneous economic data.

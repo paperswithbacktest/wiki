@@ -1,6 +1,12 @@
 ---
-title: "Corwin-Schultz algorithm (Algo Trading)"
-description: Discover the Corwin-Schultz algorithm, a powerful method for estimating transaction costs in algorithmic trading by analyzing daily high and low prices to determine bid-ask spreads. This approach, bypassing the need for high-frequency data, is ideal for traders aiming to optimize strategies and reduce costs. Learn about its foundational concepts, practical applications, and how it enhances market efficiency through accurate spread analysis.
+category: quant_concept
+description: Discover the Corwin-Schultz algorithm, a powerful method for estimating
+  transaction costs in algorithmic trading by analyzing daily high and low prices
+  to determine bid-ask spreads. This approach, bypassing the need for high-frequency
+  data, is ideal for traders aiming to optimize strategies and reduce costs. Learn
+  about its foundational concepts, practical applications, and how it enhances market
+  efficiency through accurate spread analysis.
+title: Corwin-Schultz algorithm (Algo Trading)
 ---
 
 In the fast-evolving world of algorithmic trading, the accurate estimation of transaction costs, particularly the bid-ask spread, is crucial for traders and financial institutions. The bid-ask spread, the difference between the highest price a buyer is willing to pay (bid) and the lowest price a seller is willing to accept (ask), significantly impacts trading decisions and overall market efficiency. Accurately estimating this spread is vital for optimizing trading strategies and minimizing costs.

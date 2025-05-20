@@ -1,6 +1,13 @@
 ---
-title: "ATR Bands Trading Strategy (Algo Trading)"
-description: Explore the ATR Bands trading strategy, a pivotal tool in algorithmic trading that enhances decision-making by quantifying market volatility. Discover how ATR Bands extend the Average True Range (ATR) indicator to visualize price movements, support dynamic risk management, and identify entry and exit points across various market conditions, from trending to range-bound scenarios. Learn the mechanics of ATR Bands, their integration into trading algorithms, and their benefits and limitations for traders seeking to balance returns with risk management.
+category: trading_strategy
+description: Explore the ATR Bands trading strategy, a pivotal tool in algorithmic
+  trading that enhances decision-making by quantifying market volatility. Discover
+  how ATR Bands extend the Average True Range (ATR) indicator to visualize price movements,
+  support dynamic risk management, and identify entry and exit points across various
+  market conditions, from trending to range-bound scenarios. Learn the mechanics of
+  ATR Bands, their integration into trading algorithms, and their benefits and limitations
+  for traders seeking to balance returns with risk management.
+title: ATR Bands Trading Strategy (Algo Trading)
 ---
 
 In algorithmic trading, technical indicators are fundamental tools for developing strategies and analyzing market trends. Among these, the ATR Bands Indicator has garnered significant attention from traders seeking to incorporate volatility measures into their trading frameworks. The Average True Range (ATR), introduced by J. Welles Wilder in his book "New Concepts in Technical Trading Systems" (1978), serves as the foundation for ATR Bands. It quantifies market volatility by analyzing the range of asset price movements over a specified period.

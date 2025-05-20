@@ -1,6 +1,8 @@
 ---
-title: "Bullion Coins: Characteristics and Functionality (Algo Trading)"
-description: "Explore the enduring value of bullion coins and the impact of algorithmic trading on precious metal investments. Optimize your strategy with modern tech."
+category: trading_strategy
+description: Explore the enduring value of bullion coins and the impact of algorithmic
+  trading on precious metal investments. Optimize your strategy with modern tech.
+title: 'Bullion Coins: Characteristics and Functionality (Algo Trading)'
 ---
 
 Investing in precious metals has been a reliable strategy for centuries, appealing to investors through various economic climates. This enduring appeal lies in their ability to act as a hedge against inflation and currency fluctuations. Among the options available, bullion coins stand out due to their stability and intrinsic value, playing a pivotal role within the strategy. Renowned for their high purity and established market value, bullion coins like the American Eagle, Canadian Maple Leaf, and South African Krugerrand are considered sound investments, offering tangible assets amid economic uncertainty.

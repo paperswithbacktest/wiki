@@ -1,6 +1,13 @@
 ---
-title: "MCSI Barra (Algo Trading)"
-description: Enhance your trading strategies with MSCI Barra, a leading analytics platform in algorithmic trading. This tool aids traders and investors by offering sophisticated risk management and portfolio optimization insights. Discover how MSCI Barra integrates into trading systems, improving performance and helping market participants navigate complexities with precision. Whether you're an expert or new to trading, this page provides invaluable insights into leveraging MSCI Barra for a competitive edge in dynamic financial environments.
+category: trading_strategy
+description: Enhance your trading strategies with MSCI Barra, a leading analytics
+  platform in algorithmic trading. This tool aids traders and investors by offering
+  sophisticated risk management and portfolio optimization insights. Discover how
+  MSCI Barra integrates into trading systems, improving performance and helping market
+  participants navigate complexities with precision. Whether you're an expert or new
+  to trading, this page provides invaluable insights into leveraging MSCI Barra for
+  a competitive edge in dynamic financial environments.
+title: MCSI Barra (Algo Trading)
 ---
 
 The world of algorithmic trading is constantly evolving, and tools like MSCI Barra are at the forefront of this transformation. As the financial markets become more dynamic, the demand for sophisticated tools to navigate these complexities increases. In this context, MSCI Barra stands out for its ability to enhance decision-making and optimize trading strategies.

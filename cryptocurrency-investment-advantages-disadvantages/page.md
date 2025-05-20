@@ -1,6 +1,8 @@
 ---
-title: "Cryptocurrency Investment: Advantages and Disadvantages (Algo Trading)"
-description: "Explore the benefits and risks of cryptocurrency investment and the role of algo trading in navigating this dynamic market for potential returns."
+category: trading_strategy
+description: Explore the benefits and risks of cryptocurrency investment and the role
+  of algo trading in navigating this dynamic market for potential returns.
+title: 'Cryptocurrency Investment: Advantages and Disadvantages (Algo Trading)'
 ---
 
 Cryptocurrency has become a prominent subject within digital finance, capturing both interest and skepticism. At the forefront, Bitcoin and Ethereum exemplify the potential of digital currencies to redefine financial systems. These cryptocurrencies offer a decentralized model, independent of traditional banking structures, aimed at enhancing transparency and security through blockchain technology.

@@ -1,6 +1,8 @@
 ---
-title: "deep learning for order flow (Algo Trading)"
-description: "Explore the transformative role of deep learning in algorithmic trading by enhancing order flow prediction to optimize trade execution and market analysis."
+category: trading_strategy
+description: Explore the transformative role of deep learning in algorithmic trading
+  by enhancing order flow prediction to optimize trade execution and market analysis.
+title: deep learning for order flow (Algo Trading)
 ---
 
 In the fast-paced world of financial trading, algorithmic trading, often referred to as algo trading, has fundamentally changed how markets operate. It leverages complex algorithms and cutting-edge technology to execute trades at speeds and frequencies that are impossible for human traders. Deep learning, a powerful subset of artificial intelligence, has recently captured the spotlight for its ability to transform order flow prediction—a critical component of successful algo trading strategies. 

@@ -1,6 +1,8 @@
 ---
-title: "Angel Bonds: Overview and Examples (Algo Trading)"
-description: "Explore the world of angel bonds and algorithmic trading Learn how these low-risk, high-rating bonds can enhance your portfolio with stability and efficiency"
+category: quant_concept
+description: Explore the world of angel bonds and algorithmic trading Learn how these
+  low-risk, high-rating bonds can enhance your portfolio with stability and efficiency
+title: 'Angel Bonds: Overview and Examples (Algo Trading)'
 ---
 
 Investing in bonds is a pivotal part of a well-rounded financial portfolio. Bonds offer a stable source of income and diversification, helping mitigate the volatility associated with equities. Among the diverse types of bonds available, corporate bonds, angel bonds, and investment-grade bonds stand out, each appealing to distinct investor profiles based on varying risk tolerance and investment objectives.

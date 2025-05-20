@@ -1,6 +1,8 @@
 ---
-title: "Blockstack and Stacks: Overview and Functionality (Algo Trading)"
-description: "Discover how Stacks and Blockstack enhance blockchain's functionality with Bitcoin integration smart contracts and dApps offering algo trading opportunities."
+category: quant_concept
+description: Discover how Stacks and Blockstack enhance blockchain's functionality
+  with Bitcoin integration smart contracts and dApps offering algo trading opportunities.
+title: 'Blockstack and Stacks: Overview and Functionality (Algo Trading)'
 ---
 
 In the ever-evolving landscape of blockchain technology, Stacks has emerged as a powerful platform that integrates smart contracts and decentralized applications on Bitcoin. This integration is achieved without altering Bitcoin's core protocol, thereby offering a unique opportunity to enhance Bitcoin's functionality while maintaining its inherent security features. Stacks blockchain technology leverages these capabilities to extend Bitcoin's usability beyond a mere store of value, fostering a new ecosystem of innovation for developers and traders.

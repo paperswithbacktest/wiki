@@ -1,6 +1,9 @@
 ---
-title: "Identifying Rebound Potential in Undervalued Stocks (Algo Trading)"
-description: "Discover proven strategies to identify undervalued stocks with rebound potential and enhance your investment portfolio using advanced algorithmic trading techniques."
+category: trading_strategy
+description: Discover proven strategies to identify undervalued stocks with rebound
+  potential and enhance your investment portfolio using advanced algorithmic trading
+  techniques.
+title: Identifying Rebound Potential in Undervalued Stocks (Algo Trading)
 ---
 
 The stock market is a constantly changing landscape characterized by periods of growth and contraction. Within this dynamic environment, investors can find valuable opportunities, particularly in the context of market corrections and rebounds. Such periods often cause temporary price distortions, leading to certain assets being undervalued relative to their intrinsic worth. 

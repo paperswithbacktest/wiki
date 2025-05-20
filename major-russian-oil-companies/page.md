@@ -1,6 +1,8 @@
 ---
-title: "List of Major Russian Oil Companies (Algo Trading)"
-description: "Discover major Russian oil companies and explore how algorithmic trading is reshaping the oil market enhancing efficiency and influencing global dynamics."
+category: dataset
+description: Discover major Russian oil companies and explore how algorithmic trading
+  is reshaping the oil market enhancing efficiency and influencing global dynamics.
+title: List of Major Russian Oil Companies (Algo Trading)
 ---
 
 Russia holds a pivotal position in the global oil industry, being one of the world's top crude oil producers. Its vast reserves and strategic geographic location enable it to play a key role in shaping global oil dynamics. Russia's oil industry is primarily driven by several leading companies, which contribute significantly to its economy and influence worldwide oil markets.

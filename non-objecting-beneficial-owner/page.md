@@ -1,6 +1,8 @@
 ---
-title: "Non-Objecting Beneficial Owner (Algo Trading)"
-description: "Uncover the strategic advantage of understanding the synergy between Non-Objecting Beneficial Owners and algorithmic trading in modern finance."
+category: quant_concept
+description: Uncover the strategic advantage of understanding the synergy between
+  Non-Objecting Beneficial Owners and algorithmic trading in modern finance.
+title: Non-Objecting Beneficial Owner (Algo Trading)
 ---
 
 In the rapidly evolving world of finance, acquiring a nuanced understanding of shareholder structures, such as Non-Objecting Beneficial Owners (NOBOs), alongside the integration of algorithmic trading, presents a strategic advantage. NOBOs play a crucial role in shareholder communication, influencing how companies engage with and disseminate information to their investors. Their identification affects transparency and how shareholder interests are represented, particularly in voting proxies and financial discussions.

@@ -1,6 +1,9 @@
 ---
-title: "Lipper Leader: Meaning and Function (Algo Trading)"
-description: "Explore how Lipper Leader financial ratings and algorithmic trading enhance investment strategies by efficiently assessing mutual funds and optimizing trading decisions."
+category: quant_concept
+description: Explore how Lipper Leader financial ratings and algorithmic trading enhance
+  investment strategies by efficiently assessing mutual funds and optimizing trading
+  decisions.
+title: 'Lipper Leader: Meaning and Function (Algo Trading)'
 ---
 
 In today's fast-paced financial world, understanding the nuances of investment analysis and financial ratings is crucial for making informed decisions. This article explores the intersection of Lipper Leader financial ratings and algorithmic trading, shedding light on how these tools can enhance investment strategies. Lipper Leader ratings provide a set of metrics that assess mutual funds, offering insights into factors such as consistent performance, capital preservation, and tax efficiency. These ratings, managed by Refinitiv and part-owned by Thomson Reuters, enable investors to compare and assess mutual funds efficiently.

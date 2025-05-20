@@ -1,6 +1,8 @@
 ---
-title: "Introduction to Hedging in Finance (Algo Trading)"
-description: "Explore how hedging in finance and algorithmic trading work together to manage risks and optimize returns through strategic and automated trading solutions."
+category: trading_strategy
+description: Explore how hedging in finance and algorithmic trading work together
+  to manage risks and optimize returns through strategic and automated trading solutions.
+title: Introduction to Hedging in Finance (Algo Trading)
 ---
 
 In finance, investors prioritize risk management and maximizing returns. An approach that effectively combines both objectives involves employing hedging strategies alongside algorithmic trading. This synergy allows investors to not only mitigate potential losses from adverse market movements but also exploit market inefficiencies for potential gains.

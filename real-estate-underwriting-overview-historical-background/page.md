@@ -1,6 +1,8 @@
 ---
-title: "Real Estate Underwriting: Overview and Historical Background (Algo Trading)"
-description: "Explore the intricate world of real estate underwriting where algorithmic trading transforms risk assessment and market evaluation in property transactions."
+category: quant_concept
+description: Explore the intricate world of real estate underwriting where algorithmic
+  trading transforms risk assessment and market evaluation in property transactions.
+title: 'Real Estate Underwriting: Overview and Historical Background (Algo Trading)'
 ---
 
 The real estate market is a multifaceted domain where precise evaluations are essential for successful transactions. It operates as a complex ecosystem with numerous stakeholders, including buyers, sellers, investors, and financial institutions, each aiming to make well-informed decisions. Within this system, underwriting stands as a critical procedure, providing the foundation for assessing risks, establishing pricing strategies, and informing decision-making processes.

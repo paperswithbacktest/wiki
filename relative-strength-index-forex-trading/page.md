@@ -1,6 +1,8 @@
 ---
-title: "Relative Strength Index in Forex Trading (Algo Trading)"
-description: "Explore the use of the Relative Strength Index in algorithmic Forex trading for better entry and exit points Learn how RSI enhances trade performance"
+category: trading_strategy
+description: Explore the use of the Relative Strength Index in algorithmic Forex trading
+  for better entry and exit points Learn how RSI enhances trade performance
+title: Relative Strength Index in Forex Trading (Algo Trading)
 ---
 
 Foreign exchange trading, or Forex trading, involves the exchange of currencies on a global decentralized market. As one of the largest financial markets in the world, its daily trading volume surpasses $6 trillion, highlighting its crucial role in global economics. The Forex market operates 24 hours a day through an electronic network of banks, corporations, and individual traders, enabling currency pairs to be traded across different time zones.

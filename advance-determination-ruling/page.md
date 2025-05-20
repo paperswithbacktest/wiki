@@ -1,6 +1,9 @@
 ---
-title: "Advance Determination Ruling (Algo Trading)"
-description: "Explore the tax implications of American Depositary Receipts and how algorithmic trading strategies can optimize returns in the complex global investment arena."
+category: quant_concept
+description: Explore the tax implications of American Depositary Receipts and how
+  algorithmic trading strategies can optimize returns in the complex global investment
+  arena.
+title: Advance Determination Ruling (Algo Trading)
 ---
 
 The taxation of American Depositary Receipts (ADRs) has become a critical focal point in the landscape of international investments. ADRs enable U.S. investors to access shares of foreign companies while avoiding the complexities associated with trading on international stock exchanges and dealing with foreign currencies. This streamlined investment vehicle has captured the attention of many investors; however, its tax implications are complex and merit careful consideration, especially at a time when algorithmic trading is reshaping the investment landscape.

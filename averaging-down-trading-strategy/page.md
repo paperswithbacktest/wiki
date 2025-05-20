@@ -1,6 +1,13 @@
 ---
-title: "Averaging Down Trading Strategy Explained (Algo Trading)"
-description: Discover the intricacies of the averaging down trading strategy in algorithmic systems, a technique aimed at reducing an investor's average purchase price by buying more shares as prices drop. This guide explores how algo trading utilizes averaging down to potentially counteract initial losses and enhance return probabilities, alongside a critical analysis of its benefits, like cost reduction, and risks, such as compounding losses. Learn through backtesting results and market condition assessments to evaluate its effectiveness in your trading toolkit.
+category: trading_strategy
+description: Discover the intricacies of the averaging down trading strategy in algorithmic
+  systems, a technique aimed at reducing an investor's average purchase price by buying
+  more shares as prices drop. This guide explores how algo trading utilizes averaging
+  down to potentially counteract initial losses and enhance return probabilities,
+  alongside a critical analysis of its benefits, like cost reduction, and risks, such
+  as compounding losses. Learn through backtesting results and market condition assessments
+  to evaluate its effectiveness in your trading toolkit.
+title: Averaging Down Trading Strategy Explained (Algo Trading)
 ---
 
 Averaging down in stock trading is a technique used by investors to purchase additional shares of a stock that has declined in price since the initial buy. The primary aim is to reduce the average purchase price of the entire investment, thereby lowering the threshold for achieving profitability. This can be mathematically represented by the equation:

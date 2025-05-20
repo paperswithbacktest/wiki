@@ -1,6 +1,9 @@
 ---
-title: "Blueshift Asset Management (Algo Trading)"
-description: "Blueshift Asset Management specializes in systematic investing with a focus on algorithmic trading strategies that enhance market efficiency and investment returns."
+category: trading_strategy
+description: Blueshift Asset Management specializes in systematic investing with a
+  focus on algorithmic trading strategies that enhance market efficiency and investment
+  returns.
+title: Blueshift Asset Management (Algo Trading)
 ---
 
 Blueshift Asset Management, established in 2017, is a distinguished player in the field of alternative investment management. The firm specializes in leveraging systematic investing strategies, prominently utilizing equity market-neutral strategies coupled with algorithmic and high-frequency trading. This investment methodology emphasizes the use of advanced computer algorithms to analyze vast sets of financial data, enabling rapid and precise trade execution with minimal human intervention. 

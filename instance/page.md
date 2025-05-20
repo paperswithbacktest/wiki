@@ -1,7 +1,8 @@
 ---
-title: Understanding Instances in Machine Learning Models and Datasets
+category: dataset
 description: Machine learning instances are data points that power model training
   and pattern discovery in supervised and unsupervised methods Discover more inside
+title: Understanding Instances in Machine Learning Models and Datasets
 ---
 
 ![Image](images/1.png)

@@ -1,6 +1,8 @@
 ---
-title: "Setup Price: Concept and Mechanisms (Algo Trading)"
-description: "Explore setup price concepts and pricing mechanisms crucial for success in algorithmic trading Discover how these strategies can optimize trade execution."
+category: quant_concept
+description: Explore setup price concepts and pricing mechanisms crucial for success
+  in algorithmic trading Discover how these strategies can optimize trade execution.
+title: 'Setup Price: Concept and Mechanisms (Algo Trading)'
 ---
 
 In the fast-paced world of finance, understanding pricing mechanisms is fundamental to navigating algorithmic trading effectively. Algorithmic trading, the method of using computer programs to execute trades at speeds and frequencies beyond human capability, relies heavily on precise pricing strategies to succeed. This article focuses on essential pricing concepts such as setup price and various pricing mechanisms and how these apply to algorithmic trading. By unpacking these ideas with clear examples, we aim to make intricate financial concepts more approachable.

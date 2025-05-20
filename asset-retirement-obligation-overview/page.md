@@ -1,6 +1,9 @@
 ---
-title: "Asset Retirement Obligation Overview (Algo Trading)"
-description: "Explore the essential financial concepts of Asset Retirement Obligation and algorithmic trading, crucial for risk management and strategic decision-making in finance."
+category: quant_concept
+description: Explore the essential financial concepts of Asset Retirement Obligation
+  and algorithmic trading, crucial for risk management and strategic decision-making
+  in finance.
+title: Asset Retirement Obligation Overview (Algo Trading)
 ---
 
 The dynamic world of finance frequently presents complex terms such as Asset Retirement Obligation (ARO) and algorithmic trading. Mastering these concepts is of paramount importance for businesses, investors, and financial professionals, as they play a critical role in effective financial management and strategic decision-making.

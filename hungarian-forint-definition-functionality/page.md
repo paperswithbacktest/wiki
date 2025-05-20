@@ -1,6 +1,8 @@
 ---
-title: "Hungarian Forint: Definition and Functionality (Algo Trading)"
-description: "Explore the Hungarian Forint's role in algorithmic trading where rapid execution and strategic approaches navigate the currency's unique forex market dynamics."
+category: quant_concept
+description: Explore the Hungarian Forint's role in algorithmic trading where rapid
+  execution and strategic approaches navigate the currency's unique forex market dynamics.
+title: 'Hungarian Forint: Definition and Functionality (Algo Trading)'
 ---
 
 Algorithmic trading has significantly transformed how financial markets operate, leveraging the power of computers to execute trades with remarkable speed and precision. This approach utilizes predefined sets of rules that automatically make trading decisions, thus minimizing human errors and maximizing efficiency. The rapid execution of trades and the capacity to manage vast and complex strategies are among the primary benefits that algorithmic trading brings to the table.

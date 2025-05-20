@@ -1,9 +1,15 @@
 ---
-title: "High-Frequency Trading Strategies and Algo Trading"
-description: High-Frequency Trading (HFT) involves the use of sophisticated algorithms to execute trades at incredibly high speeds, capitalizing on minute price discrepancies. This guide explores key HFT strategies like market making, statistical arbitrage, and latency arbitrage, along with their infrastructure requirements. It highlights the role of AI and quantum computing in shaping the future of HFT, discusses its market impact, including liquidity provision and criticisms like quote stuffing, and examines the evolving regulatory landscape governing HFT activities across different markets.
+category: trading_strategy
+description: High-Frequency Trading (HFT) involves the use of sophisticated algorithms
+  to execute trades at incredibly high speeds, capitalizing on minute price discrepancies.
+  This guide explores key HFT strategies like market making, statistical arbitrage,
+  and latency arbitrage, along with their infrastructure requirements. It highlights
+  the role of AI and quantum computing in shaping the future of HFT, discusses its
+  market impact, including liquidity provision and criticisms like quote stuffing,
+  and examines the evolving regulatory landscape governing HFT activities across different
+  markets.
+title: High-Frequency Trading Strategies and Algo Trading
 ---
-
-
 
 High-Frequency Trading (HFT) represents a significant evolution in the financial markets, leveraging advanced technologies to execute large volumes of trades in mere fractions of a second. Born from the amalgamation of sophisticated algorithms, lightning-fast computer networks, and intricate strategies, HFT has redefined the landscape of trading in modern times.
 

@@ -1,6 +1,8 @@
 ---
-title: "Continuous Quiver Graph (Algo Trading)"
-description: "Explore the innovative blend of quantum mechanics graph theory CQG and algorithmic trading transforming financial markets with advanced insights and strategies."
+category: quant_concept
+description: Explore the innovative blend of quantum mechanics graph theory CQG and
+  algorithmic trading transforming financial markets with advanced insights and strategies.
+title: Continuous Quiver Graph (Algo Trading)
 ---
 
 The intersection of quantum mechanics, graph theory, CQG, and algorithmic trading represents an exciting frontier in the financial sector. This integration of cutting-edge technologies is revolutionizing trading strategies, providing a new paradigm for market analysis and decision-making. At its core, this intersection leverages the computational power of quantum computing, the structural insights of graph theory, and the sophisticated functionalities of CQG (Continuum Global Solutions), a trading platform renowned for its advanced market data and analysis tools.

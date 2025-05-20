@@ -1,6 +1,9 @@
 ---
-title: "Closing Entry and Recording Process (Algo Trading)"
-description: "Explore the essential process of closing entries in accounting and its influence on accurate financial statements crucial for optimizing algorithmic trading strategies."
+category: quant_concept
+description: Explore the essential process of closing entries in accounting and its
+  influence on accurate financial statements crucial for optimizing algorithmic trading
+  strategies.
+title: Closing Entry and Recording Process (Algo Trading)
 ---
 
 The world of finance and accounting is vast and complex, encompassing many processes that contribute to the understanding and management of financial statements. These processes are vital for businesses to maintain accurate financial records and make informed decisions. Among these processes, closing entries play a critical role. They ensure that financial records are accurate and up-to-date by transitioning account balances and resetting temporary accounts at the end of an accounting period. This step is crucial for preparing accounts for the subsequent period, establishing a clear and concise depiction of financial performance.

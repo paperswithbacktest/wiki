@@ -1,6 +1,8 @@
 ---
-title: "Influences on Black-Scholes Warrant Dilution (Algo Trading)"
-description: "Explore the impact of Black-Scholes on warrant dilution and algorithmic trading. Learn how financial models adjust for new shares to ensure accurate trades."
+category: quant_concept
+description: Explore the impact of Black-Scholes on warrant dilution and algorithmic
+  trading. Learn how financial models adjust for new shares to ensure accurate trades.
+title: Influences on Black-Scholes Warrant Dilution (Algo Trading)
 ---
 
 Warrants and options are crucial elements in the financial markets, providing unique opportunities for both investors and businesses. These financial instruments, while similar in their function of granting purchase rights, differ fundamentally in their issuance and potential market impact. Unlike options, which can be issued by any entity, warrants are specific securities issued directly by the company, allowing the holder the right to buy the company's stock at a predetermined price before a set expiration date.

@@ -1,10 +1,9 @@
 ---
-title: Understanding Machine Learning Recommendation Systems and Methods
+category: quant_concept
 description: Recommendation systems combine collaborative and content based methods
   with hybrid approaches to deliver personalized suggestions Discover more inside.
+title: Understanding Machine Learning Recommendation Systems and Methods
 ---
-
-
 
 ## Table of Contents
 

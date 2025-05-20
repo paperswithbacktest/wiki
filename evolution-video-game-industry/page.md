@@ -1,6 +1,9 @@
 ---
-title: "Evolution of the Video Game Industry (Algo Trading)"
-description: "Explore the dynamic evolution of the video game industry influenced by AI and algorithmic trading shaping immersive experiences and innovative business models."
+category: quant_concept
+description: Explore the dynamic evolution of the video game industry influenced by
+  AI and algorithmic trading shaping immersive experiences and innovative business
+  models.
+title: Evolution of the Video Game Industry (Algo Trading)
 ---
 
 The video game industry has experienced rapid evolution over the past decades, transitioning from simple arcade games to complex, lifelike virtual environments. Today, it stands as a titan in the entertainment sector, outpacing both the film and music industries in terms of revenue. In 2021, the global gaming market was valued at over $162 billion, highlighting its enormous economic impact and cultural significance.

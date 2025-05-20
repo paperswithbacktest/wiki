@@ -1,6 +1,8 @@
 ---
-title: "Shogun Bonds (Algo Trading)"
-description: "Explore the unique world of Shogun Bonds in Japan's vast financial market where foreign entities issue non-yen denominated bonds enhanced by algorithmic trading."
+category: quant_concept
+description: Explore the unique world of Shogun Bonds in Japan's vast financial market
+  where foreign entities issue non-yen denominated bonds enhanced by algorithmic trading.
+title: Shogun Bonds (Algo Trading)
 ---
 
 The global bond market offers diverse investment opportunities, one of which is Shogun Bonds. These bonds are issued in Japan by foreign entities and represent a unique segment within Japan’s substantial financial landscape. Distinct from Samurai Bonds, Shogun Bonds are denominated in foreign currencies rather than the Japanese yen. This key characteristic makes them pivotal in international finance, as they provide foreign investors a means to participate in Japan's capital markets while managing currency exposure.

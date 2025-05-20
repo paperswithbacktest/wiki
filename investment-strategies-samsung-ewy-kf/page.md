@@ -1,6 +1,8 @@
 ---
-title: "Investment Strategies in Samsung Through EWY and KF (Algo Trading)"
-description: "Explore investment strategies in Samsung by leveraging the iShares MSCI South Korea ETF (EWY) and the Korea Fund. Enhance results through algorithmic trading."
+category: trading_strategy
+description: Explore investment strategies in Samsung by leveraging the iShares MSCI
+  South Korea ETF (EWY) and the Korea Fund. Enhance results through algorithmic trading.
+title: Investment Strategies in Samsung Through EWY and KF (Algo Trading)
 ---
 
 South Korean conglomerate Samsung is one of the largest and most influential players in global investments, renowned for its technological advancements and widespread market presence. Nevertheless, American investors frequently encounter obstacles when attempting to invest directly in Samsung due to the absence of its shares on major U.S. stock exchanges. This challenge is compounded by regulatory restrictions and the complexity associated with international financial transactions.

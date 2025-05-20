@@ -1,6 +1,9 @@
 ---
-title: "optimal trade scheduling (Algo Trading)"
-description: "Explore optimal trade scheduling in algorithmic trading to efficiently execute large orders minimize market impact and maximize profitability with strategic timing."
+category: trading_strategy
+description: Explore optimal trade scheduling in algorithmic trading to efficiently
+  execute large orders minimize market impact and maximize profitability with strategic
+  timing.
+title: optimal trade scheduling (Algo Trading)
 ---
 
 Algorithmic trading, often referred to as algo trading, is a method of executing orders using automated and pre-programmed trading instructions. This approach leverages advanced mathematical models, algorithms, and technology to make high-speed trading decisions that were traditionally performed by human traders. The significance of algorithmic trading in financial markets stems from its ability to process vast amounts of market data more quickly and efficiently than human traders, thereby improving market efficiency, reducing transaction costs, and providing liquidity.

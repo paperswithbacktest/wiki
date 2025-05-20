@@ -1,6 +1,11 @@
 ---
-title: "Swap Rate: Functions and Varieties (Algo Trading)"
-description: "Discover how interest rate swaps play a crucial role in managing interest rate risks for corporations, governments, and financial institutions. Learn the significance of swap rates in determining contract pricing and how algorithmic trading has revolutionized swap execution. Gain insights into the mechanics, purposes, and strategies of swaps, enhancing financial stability and market efficiency."
+category: quant_concept
+description: Discover how interest rate swaps play a crucial role in managing interest
+  rate risks for corporations, governments, and financial institutions. Learn the
+  significance of swap rates in determining contract pricing and how algorithmic trading
+  has revolutionized swap execution. Gain insights into the mechanics, purposes, and
+  strategies of swaps, enhancing financial stability and market efficiency.
+title: 'Swap Rate: Functions and Varieties (Algo Trading)'
 ---
 
 Interest rate swaps are pivotal financial instruments within the markets, typically used by corporations, governments, and financial institutions to manage the risk associated with fluctuating interest rates. These swaps are agreements between two parties to exchange one stream of interest payments for another, typically exchanging fixed-rate obligations for floating-rate obligations or vice versa. This exchange enables participants to hedge against unfavorable rate movements, ensuring greater predictability of interest expenses and revenues, and thus supporting effective risk management strategies in diverse economic conditions.

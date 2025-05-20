@@ -1,6 +1,15 @@
 ---
-title: "Arrowstreet Capital (Algo Trading)"
-description: Arrowstreet Capital is a leading investment management firm based in Boston, recognized for its sophisticated use of quantitative analysis and algorithmic trading to navigate global markets. With billions in assets under management, the firm delivers precise investment solutions by leveraging mathematical models and data-driven strategies. Known for its low-profile yet powerful presence, Arrowstreet maintains a 'black box' ethos, offering an air of exclusivity. Founded in 1999 by financial and academic leaders, it serves institutional clients with tailored solutions, emphasizing adaptability through advanced algorithmic approaches to overcome market challenges and achieve resilient performance.
+category: quant_concept
+description: Arrowstreet Capital is a leading investment management firm based in
+  Boston, recognized for its sophisticated use of quantitative analysis and algorithmic
+  trading to navigate global markets. With billions in assets under management, the
+  firm delivers precise investment solutions by leveraging mathematical models and
+  data-driven strategies. Known for its low-profile yet powerful presence, Arrowstreet
+  maintains a 'black box' ethos, offering an air of exclusivity. Founded in 1999 by
+  financial and academic leaders, it serves institutional clients with tailored solutions,
+  emphasizing adaptability through advanced algorithmic approaches to overcome market
+  challenges and achieve resilient performance.
+title: Arrowstreet Capital (Algo Trading)
 ---
 
 Arrowstreet Capital stands as a prominent investment management firm headquartered in Boston. Renowned for its advanced use of quantitative analysis and sophisticated algorithmic trading, the firm has carved out a niche for itself in the competitive financial market arena. By leveraging mathematical models and data-driven strategies, Arrowstreet Capital effectively navigates the complex terrain of global markets, offering clients innovative and precise investment solutions.

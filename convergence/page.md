@@ -1,7 +1,8 @@
 ---
-title: Understanding Convergence in Machine Learning Model Training
+category: quant_concept
 description: Convergence in machine learning ensures your model stabilizes by tracking
   loss and tuning hyperparameters for optimal performance Discover more inside.
+title: Understanding Convergence in Machine Learning Model Training
 ---
 
 ![Image](images/1.png)

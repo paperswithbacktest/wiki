@@ -1,6 +1,9 @@
 ---
-title: "Minimum Margin Requirements for Equities Short Sales (Algo Trading)"
-description: "Understand the essentials of margin requirements in equity short sales and algorithmic trading Explore how these factors impact trading strategies and risk management"
+category: quant_concept
+description: Understand the essentials of margin requirements in equity short sales
+  and algorithmic trading Explore how these factors impact trading strategies and
+  risk management
+title: Minimum Margin Requirements for Equities Short Sales (Algo Trading)
 ---
 
 In the complex world of financial markets, equities short sale margin requirements and algorithmic trading are crucial concepts that traders must understand. Equities refer to stocks or other securities that represent ownership interest in a corporation, providing shareholders voting rights and potential dividends. These instruments are central to capital formation and investment strategies globally.

@@ -1,6 +1,8 @@
 ---
-title: "Unlisted Securities: Types and Risks Overview (Algo Trading)"
-description: "Explore the types and risks of unlisted securities and algorithmic trading strategies for navigating complex financial markets in this comprehensive guide."
+category: quant_concept
+description: Explore the types and risks of unlisted securities and algorithmic trading
+  strategies for navigating complex financial markets in this comprehensive guide.
+title: 'Unlisted Securities: Types and Risks Overview (Algo Trading)'
 ---
 
 Investment in unlisted securities and algorithmic trading have significantly reshaped the financial markets, offering both new opportunities and challenges for investors. In recent years, the increasing complexity of financial markets has highlighted the necessity for both novice and seasoned investors to grasp these evolving investment tools. Central to this understanding is the recognition of the distinct financial risks and potential rewards associated with unlisted securities and the nuanced role algorithmic trading plays in managing these risks.

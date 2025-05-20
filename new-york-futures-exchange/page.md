@@ -1,6 +1,9 @@
 ---
-title: "New York Futures Exchange (Algo Trading)"
-description: "Explore the impactful synergy of algorithmic and traditional futures trading at the New York Futures Exchange. Learn about market dynamics and strategic evolution."
+category: quant_concept
+description: Explore the impactful synergy of algorithmic and traditional futures
+  trading at the New York Futures Exchange. Learn about market dynamics and strategic
+  evolution.
+title: New York Futures Exchange (Algo Trading)
 ---
 
 Futures trading is a significant component of modern financial markets, providing investors with the options to hedge against potential losses, speculate on future price movements, and diversify their investment portfolios. This form of trading involves futures contracts, which are agreements that mandate the buyer or seller to purchase or sell an asset at a predefined price at a future date. The ability to trade these contracts across a variety of asset classes, including commodities, indices, and currencies, underscores their versatility and appeal.

@@ -1,6 +1,13 @@
 ---
-title: "Wedge Trading Strategy Explained (Algo Trading)"
-description: Explore the world of wedge trading strategies and discover their role in algorithmic trading. This article investigates into the formation and types of wedge patterns such as rising and falling wedges and explains how they can predict market reversals. Learn how traders can incorporate these patterns into automated trading systems to improve precision and strategy execution. Gain insights into using technology like Python for efficient wedge pattern detection and enhance your understanding of market dynamics with this comprehensive guide.
+category: trading_strategy
+description: Explore the world of wedge trading strategies and discover their role
+  in algorithmic trading. This article investigates into the formation and types of
+  wedge patterns such as rising and falling wedges and explains how they can predict
+  market reversals. Learn how traders can incorporate these patterns into automated
+  trading systems to improve precision and strategy execution. Gain insights into
+  using technology like Python for efficient wedge pattern detection and enhance your
+  understanding of market dynamics with this comprehensive guide.
+title: Wedge Trading Strategy Explained (Algo Trading)
 ---
 
 Wedge patterns are an integral part of technical analysis, offering a visual representation of market dynamics that traders can leverage to forecast future price movements. These formations arise when converging trend lines capture the oscillations of a stock's price on a chart, potentially indicating shifts in market direction. The geometric precision of wedge patterns, be they rising or falling, provides clear signals: rising wedges suggest potential downtrends, while falling wedges hint at possible upward movements.

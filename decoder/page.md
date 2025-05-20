@@ -1,7 +1,8 @@
 ---
-title: Machine Learning Decoders Explained Key Concepts and Applications
+category: quant_concept
 description: Machine learning decoders convert compact data into images text or sequences
   covering types training and performance evaluation Discover more inside
+title: Machine Learning Decoders Explained Key Concepts and Applications
 ---
 
 ![Image](images/1.jpeg)

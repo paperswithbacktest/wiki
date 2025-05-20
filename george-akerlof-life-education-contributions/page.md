@@ -1,6 +1,8 @@
 ---
-title: "George Akerlof: Life, Education, and Contributions (Algo Trading)"
-description: "Explore how George Akerlof's insights on information asymmetry impact economic theory and modern algorithmic trading strategies in today's financial markets."
+category: quant_concept
+description: Explore how George Akerlof's insights on information asymmetry impact
+  economic theory and modern algorithmic trading strategies in today's financial markets.
+title: 'George Akerlof: Life, Education, and Contributions (Algo Trading)'
 ---
 
 George Akerlof, a Nobel laureate and esteemed economist, has profoundly influenced economic theory through his exploration of information asymmetry. His seminal work, "The Market for Lemons," published in 1970, fundamentally altered how economists and policymakers understand the role of information in market transactions. In this paper, Akerlof examines how asymmetric information—where sellers possess more knowledge about a product's quality than buyers—can lead to significant market inefficiencies.

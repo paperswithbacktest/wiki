@@ -1,6 +1,8 @@
 ---
-title: "Examples of Non-Price Elasticity in Demand (Algo Trading)"
-description: "Explore non-price factors affecting demand elasticity in algorithmic trading including income levels and consumer preferences enhancing trading strategies."
+category: quant_concept
+description: Explore non-price factors affecting demand elasticity in algorithmic
+  trading including income levels and consumer preferences enhancing trading strategies.
+title: Examples of Non-Price Elasticity in Demand (Algo Trading)
 ---
 
 Demand elasticity is a fundamental concept in economics that quantifies the sensitivity of demand to changes in various factors. It serves as a measure of how much the quantity demanded of a good responds to changes in market conditions. While price is the most commonly analyzed factor affecting demand elasticity, other non-price determinants, such as income levels, consumer preferences, and expectations about future prices, also significantly influence consumer behavior and economic outcomes.

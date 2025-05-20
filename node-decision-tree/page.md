@@ -1,7 +1,8 @@
 ---
-title: Understanding Decision Tree Nodes in Machine Learning
+category: quant_concept
 description: Decision tree nodes determine optimal splits at root internal and leaf
   levels to improve model accuracy and interpretability Discover more inside.
+title: Understanding Decision Tree Nodes in Machine Learning
 ---
 
 ![Image](images/1.png)

@@ -1,6 +1,8 @@
 ---
-title: "Common Mistakes by Investors and Traders (Algo Trading)"
-description: "Avoid common investor and trader mistakes in algorithmic trading with a well-defined strategy and risk management. Learn to adapt and enhance performance."
+category: trading_strategy
+description: Avoid common investor and trader mistakes in algorithmic trading with
+  a well-defined strategy and risk management. Learn to adapt and enhance performance.
+title: Common Mistakes by Investors and Traders (Algo Trading)
 ---
 
 Investing and trading, whether in traditional markets or through algorithmic avenues, present opportunities for financial growth but also pose significant risks. Even the most experienced professionals in these fields can stumble due to common missteps. A prevalent issue is the absence of a well-defined strategy, leading to decisions that lack coherence and clear objectives. For instance, without a strategic plan, investors might find themselves swayed by the short-term allure of market trends, potentially purchasing assets at inflated prices and selling them at a loss when hype diminishes.

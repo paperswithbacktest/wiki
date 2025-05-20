@@ -1,6 +1,8 @@
 ---
-title: "Wage Earner's Plan: Overview and Functionality (Algo Trading)"
-description: "Discover the synergy between Chapter 13 bankruptcy, known as the Wage Earner's Plan, and algorithmic trading for financial reorganization and growth."
+category: quant_concept
+description: Discover the synergy between Chapter 13 bankruptcy, known as the Wage
+  Earner's Plan, and algorithmic trading for financial reorganization and growth.
+title: 'Wage Earner''s Plan: Overview and Functionality (Algo Trading)'
 ---
 
 This article explores the intersection of Chapter 13 bankruptcy, commonly referred to as the Wage Earner's Plan, and algorithmic trading. Chapter 13 bankruptcy is designed for individuals with a regular income who need to reorganize their debts under a court-supervised repayment plan. It offers debtors an opportunity to keep their property while adhering to a structured payment plan over a period of three to five years. This process is distinguished from other bankruptcy chapters, such as Chapter 7, which involves the liquidation of assets to pay off debts. Understanding these differences is crucial for individuals considering bankruptcy as a path to financial recovery.

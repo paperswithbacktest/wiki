@@ -1,6 +1,8 @@
 ---
-title: "Advantages and Disadvantages of Simple Moving Average (Algo Trading)"
-description: "Explore the pros and cons of using the Simple Moving Average in algorithmic trading. Learn how this popular tool smooths price data and reveals market trends."
+category: trading_strategy
+description: Explore the pros and cons of using the Simple Moving Average in algorithmic
+  trading. Learn how this popular tool smooths price data and reveals market trends.
+title: Advantages and Disadvantages of Simple Moving Average (Algo Trading)
 ---
 
 The Simple Moving Average (SMA) is a fundamental indicator widely used in algorithmic trading to analyze price data by generating a smoothed price trend over a specified period. It is calculated as the arithmetic mean of a given set of prices, typically closing prices, over a specific number of periods. For example, a 10-day SMA is calculated by summing the closing prices of a financial instrument over the last ten days and dividing by ten. This basic yet effective tool assists traders in recognizing the underlying trends in financial markets, which can be pivotal for making informed trading decisions.

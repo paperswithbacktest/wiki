@@ -1,6 +1,8 @@
 ---
-title: "Market Maker: Role and Revenue Generation (Algo Trading)"
-description: "Explore the roles of market makers and algorithmic trading in modern finance. Discover how they enhance liquidity, efficiency, and market stability."
+category: quant_concept
+description: Explore the roles of market makers and algorithmic trading in modern
+  finance. Discover how they enhance liquidity, efficiency, and market stability.
+title: 'Market Maker: Role and Revenue Generation (Algo Trading)'
 ---
 
 In today's fast-paced financial markets, technology plays a crucial role in trading. The advent of market maker finance and algorithmic trading has brought significant transformations to the exchange of financial assets. These strategies have revolutionized how trades are conducted by enhancing liquidity, speed, and accuracy, thus altering the traditional landscape of financial transactions.

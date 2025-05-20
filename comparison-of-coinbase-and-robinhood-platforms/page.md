@@ -1,6 +1,9 @@
 ---
-title: "Comparison of Coinbase and Robinhood Platforms (Algo Trading)"
-description: "Explore the unique strengths of Coinbase and Robinhood in algorithmic trading from beginner-friendly ease and commission-free trades to advanced crypto tools and vast asset selection"
+category: trading_strategy
+description: Explore the unique strengths of Coinbase and Robinhood in algorithmic
+  trading from beginner-friendly ease and commission-free trades to advanced crypto
+  tools and vast asset selection
+title: Comparison of Coinbase and Robinhood Platforms (Algo Trading)
 ---
 
 In cryptocurrency and stock trading, Robinhood and Coinbase have emerged as prominent platforms, each offering unique advantages to investors. This article intends to provide an in-depth comparison of these platforms, with a particular focus on their capabilities in algorithmic trading.

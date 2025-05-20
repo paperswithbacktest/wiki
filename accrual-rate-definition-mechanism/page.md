@@ -1,6 +1,8 @@
 ---
-title: "Accrual Rate: Definition and Mechanism (Algo Trading)"
-description: "Discover the intricacies of accrual rates and their vital role in algorithmic trading. Understand how accurate interest calculations shape modern trading strategies."
+category: quant_concept
+description: Discover the intricacies of accrual rates and their vital role in algorithmic
+  trading. Understand how accurate interest calculations shape modern trading strategies.
+title: 'Accrual Rate: Definition and Mechanism (Algo Trading)'
 ---
 
 In the ever-evolving financial landscape, understanding key concepts such as interest calculation, accrual rates, and their application in algorithmic trading is vital for both investors and financial professionals. These elements form the backbone of financial decision-making, influencing everything from the valuation of investments to the structuring of trading strategies.
@@ -150,4 +152,3 @@ Online learning platforms like Coursera offer courses on financial modeling, qua
 Regularly reviewing articles and papers from publications such as "The Journal of Fixed Income" is recommended for staying abreast of the latest trends and research in the fixed income markets. Such resources help maintain an understanding of evolving practices and innovative approaches to interest and accrual methodologies in algo-trading.
 
 Lastly, understanding the regulatory frameworks and market standards is critical. Regulatory compliance ensures strategic trading decisions align with current legal and ethical standards. Familiarizing oneself with financial regulations helps prevent costly compliance errors and supports robust and legally sound trading strategies.
-

@@ -1,6 +1,15 @@
 ---
-title: "QuantConnect Guide (Algo Trading)"
-description: QuantConnect is an innovative platform revolutionizing algorithmic trading by providing a comprehensive suite of tools for traders to research, design, test, and deploy strategies across various asset classes. With its open-source nature, community support, and advanced infrastructure, it caters to both beginners and experienced quants. The platform enables precise backtesting, real-time trading, and integration with multiple brokerages, while its machine learning models and multi-language support enhance strategy development. QuantConnect’s user-friendly environment and collaborative ecosystem make it a valuable resource for traders aiming to excel in competitive financial markets.
+category: trading_strategy
+description: QuantConnect is an innovative platform revolutionizing algorithmic trading
+  by providing a comprehensive suite of tools for traders to research, design, test,
+  and deploy strategies across various asset classes. With its open-source nature,
+  community support, and advanced infrastructure, it caters to both beginners and
+  experienced quants. The platform enables precise backtesting, real-time trading,
+  and integration with multiple brokerages, while its machine learning models and
+  multi-language support enhance strategy development. QuantConnect’s user-friendly
+  environment and collaborative ecosystem make it a valuable resource for traders
+  aiming to excel in competitive financial markets.
+title: QuantConnect Guide (Algo Trading)
 ---
 
 Algorithmic trading has fundamentally transformed the world of financial markets, allowing traders to execute complex strategies at speeds and frequencies that are impossible for human traders. As financial markets become increasingly complex and competitive, understanding the nuances of algorithmic trading is essential for traders aiming to maintain an edge. Algorithmic trading strategies often involve the use of mathematical models and computer programs to make decisions about the timing, pricing, and quantity of trades to optimize returns and manage risk.

@@ -1,6 +1,9 @@
 ---
-title: "ETF Liquidation Process (Algo Trading)"
-description: "Explore the synergy of ETF liquidation and algorithmic trading to enhance your financial strategies with efficiency, liquidity, and cost-effectiveness in this comprehensive guide."
+category: trading_strategy
+description: Explore the synergy of ETF liquidation and algorithmic trading to enhance
+  your financial strategies with efficiency, liquidity, and cost-effectiveness in
+  this comprehensive guide.
+title: ETF Liquidation Process (Algo Trading)
 ---
 
 In the ever-evolving world of finance, investors are continuously seeking ways to maximize returns and manage risks. This pursuit has led to the convergence of three significant components: investment liquidation, Exchange-Traded Funds (ETFs), and algorithmic trading. These elements are not only pivotal in their individual capacities but also in how they interact with each other in modern financial markets.

@@ -1,6 +1,12 @@
 ---
-title: "War Economy: Overview and Examples (Algo Trading)"
-description: "Explore the dynamics of a war economy where military spending reshapes national priorities impacting resource allocation and broader economic strategies. Discover the role of algorithmic trading in financial markets during conflicts influencing market stability and policy adjustments. This article examines the interaction between military needs and economic growth highlighting the strategic balance necessary for sustainable development amidst geopolitical tensions."
+category: quant_concept
+description: Explore the dynamics of a war economy where military spending reshapes
+  national priorities impacting resource allocation and broader economic strategies.
+  Discover the role of algorithmic trading in financial markets during conflicts influencing
+  market stability and policy adjustments. This article examines the interaction between
+  military needs and economic growth highlighting the strategic balance necessary
+  for sustainable development amidst geopolitical tensions.
+title: 'War Economy: Overview and Examples (Algo Trading)'
 ---
 
 The economic landscape of a nation comprises a dynamic web of priorities that continuously change in response to both domestic requirements and international conflicts. One of the critical factors influencing these priorities is military spending, particularly within the framework of a war economy. During times of conflict, nations often prioritize defense allocations, which impacts not only the allocation of resources but also the broader economic strategies that a country adopts. The need to support military efforts frequently necessitates the reallocation of resources from other areas to defense, affecting various sectors of the economy.

@@ -1,6 +1,8 @@
 ---
-title: "Net-Net Investment Strategy (Algo Trading)"
-description: "Unlock the potential of net-net investing with algorithmic trading Discover how combining these strategies can optimize stock selection and enhance returns"
+category: trading_strategy
+description: Unlock the potential of net-net investing with algorithmic trading Discover
+  how combining these strategies can optimize stock selection and enhance returns
+title: Net-Net Investment Strategy (Algo Trading)
 ---
 
 In today's fast-paced financial markets, investors are constantly seeking strategies to generate significant returns. One such approach is the net-net valuation method combined with algorithmic trading. This article explores the synergy between this traditional value investing strategy and modern algorithmic processes.

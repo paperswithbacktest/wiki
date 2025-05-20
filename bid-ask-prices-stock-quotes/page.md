@@ -1,6 +1,11 @@
 ---
-title: "Bid and Ask Prices in Stock Quotes (Algo Trading)"
-description: "Understand the dynamics of bid and ask prices in stock trading and how they influence market transactions. Discover the pivotal role stock quotes play in providing real-time data and learn about the fundamentals of algorithmic trading. This guide highlights the essential trading components and strategies that enhance decision-making in the evolving financial markets."
+category: quant_concept
+description: Understand the dynamics of bid and ask prices in stock trading and how
+  they influence market transactions. Discover the pivotal role stock quotes play
+  in providing real-time data and learn about the fundamentals of algorithmic trading.
+  This guide highlights the essential trading components and strategies that enhance
+  decision-making in the evolving financial markets.
+title: Bid and Ask Prices in Stock Quotes (Algo Trading)
 ---
 
 Understanding the stock market requires a grasp of several key concepts, including the ask price, stock quote, and bid price. These components serve as the foundational elements in trading and influence every transaction that occurs in the market. The ask price represents the lowest price a seller is willing to accept for a security, while the bid price is the highest price a buyer is willing to pay. The stock quote provides real-time data about these prices, along with other crucial metrics. Together, these factors create the framework within which trading operations function.

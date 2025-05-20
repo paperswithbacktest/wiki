@@ -1,6 +1,9 @@
 ---
-title: "Nine-Bond Rule in Chemistry (Algo Trading)"
-description: "Explore the fascinating blend of chemistry and finance as the Nine-Bond Rule links molecular stability and algorithmic trading for innovative investment strategies."
+category: quant_concept
+description: Explore the fascinating blend of chemistry and finance as the Nine-Bond
+  Rule links molecular stability and algorithmic trading for innovative investment
+  strategies.
+title: Nine-Bond Rule in Chemistry (Algo Trading)
 ---
 
 In this article, we explore the intriguing intersection of chemistry, the Nine-Bond Rule, chemical structures, and algorithmic trading, a domain where scientific theory meshes with financial innovation to create fertile ground for novel approaches in trading and investment strategies. 

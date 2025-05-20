@@ -1,6 +1,8 @@
 ---
-title: "Impact of Minimum Wage Increases on Inflation (Algo Trading)"
-description: "Explore the complex interplay between minimum wage increases and inflation within the context of algorithmic trading and understand its economic impact."
+category: quant_concept
+description: Explore the complex interplay between minimum wage increases and inflation
+  within the context of algorithmic trading and understand its economic impact.
+title: Impact of Minimum Wage Increases on Inflation (Algo Trading)
 ---
 
 The global economy operates as a complex system influenced by numerous variables that continuously reshape its contours. Among the myriad forces at play, inflation, minimum wage policies, and algorithmic trading have emerged as pivotal factors in defining contemporary financial and economic landscapes. These elements not only function independently but also interact with one another, creating a dynamic environment that requires careful analysis and understanding.

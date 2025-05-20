@@ -1,6 +1,11 @@
 ---
-title: "Capital Lease in Accounting (Algo Trading)"
-description: "Explore the essentials of capital leases and algorithmic trading in the financial sector. This article investigates into capital and operating lease classifications, accounting standards impact on financial statements, and the significant role of algorithmic trading in modern finance. Gain insight into these intertwined concepts and their relevance in today's fast-paced markets."
+category: quant_concept
+description: Explore the essentials of capital leases and algorithmic trading in the
+  financial sector. This article investigates into capital and operating lease classifications,
+  accounting standards impact on financial statements, and the significant role of
+  algorithmic trading in modern finance. Gain insight into these intertwined concepts
+  and their relevance in today's fast-paced markets.
+title: Capital Lease in Accounting (Algo Trading)
 ---
 
 In today’s fast-paced financial world, understanding the nuances of lease classification, capital leases, and algorithmic trading is crucial for businesses and investors. This article examines the intricate details of capital leases, lease classification accounting, and the advent of algorithmic trading. Our goal is to provide a comprehensive guide on how these concepts interact and impact the broader financial landscape. 

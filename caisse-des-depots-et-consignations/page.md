@@ -1,6 +1,8 @@
 ---
-title: "Caisse des Dépôts et Consignations (Algo Trading)"
-description: "Explore Caisse des Dépôts et Consignations' role in France's economy through algorithmic trading and sustainable investment focusing on growth and innovation."
+category: quant_concept
+description: Explore Caisse des Dépôts et Consignations' role in France's economy
+  through algorithmic trading and sustainable investment focusing on growth and innovation.
+title: Caisse des Dépôts et Consignations (Algo Trading)
 ---
 
 The Caisse des Dépôts et Consignations (CDC) is an integral French public financial institution, established in 1816. Initially conceived to manage public deposits and consignments, CDC has grown into one of France's foremost long-term investors, significantly impacting the nation's economic development. As a prominent actor within the financial sector, CDC manages an extensive range of funds, investing in social housing, public infrastructure, and regional economic initiatives. Its strategic priorities include safeguarding French savings deposits and ensuring the prudent management of retirement funds, thereby reinforcing France’s economic resilience.

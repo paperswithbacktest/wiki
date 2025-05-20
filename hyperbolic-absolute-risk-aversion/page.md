@@ -1,6 +1,9 @@
 ---
-title: "Hyperbolic Absolute Risk Aversion (Algo Trading)"
-description: "Explore how Hyperbolic Absolute Risk Aversion (HARA) informs algorithmic trading by adjusting investor risk preferences based on changing wealth levels for optimized trading strategies."
+category: quant_concept
+description: Explore how Hyperbolic Absolute Risk Aversion (HARA) informs algorithmic
+  trading by adjusting investor risk preferences based on changing wealth levels for
+  optimized trading strategies.
+title: Hyperbolic Absolute Risk Aversion (Algo Trading)
 ---
 
 In today's fast-paced financial landscape, algorithmic trading has emerged as a dominant force in market operations, leveraging computing power and sophisticated models to execute trades at speeds and volumes unattainable by human traders. At the heart of optimizing these trading strategies lies the application of complex economic theories designed to anticipate and respond to market dynamics. One such theory is Hyperbolic Absolute Risk Aversion (HARA), a utility function framework that provides insights into how investors' risk preferences evolve with changes in wealth levels.

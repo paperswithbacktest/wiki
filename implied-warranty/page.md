@@ -1,6 +1,8 @@
 ---
-title: "Implied Warranty (Algo Trading)"
-description: "Explore the intersection of warranty law and algorithmic trading to understand how legal assurances impact trading technologies and consumer protection."
+category: quant_concept
+description: Explore the intersection of warranty law and algorithmic trading to understand
+  how legal assurances impact trading technologies and consumer protection.
+title: Implied Warranty (Algo Trading)
 ---
 
 Warranty law and algorithmic trading are two areas that, at first glance, appear unrelated but share a notable commonality: they both navigate the complexities of legal assurances amidst technological advancements. Warranty law, a key component of consumer protection, ensures that products and services meet expected standards, providing a crucial safety net for both consumers and businesses. As products and services become more technologically sophisticated, understanding the intricacies of warranties, including express and implied varieties, becomes increasingly important.

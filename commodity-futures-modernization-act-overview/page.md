@@ -1,6 +1,8 @@
 ---
-title: "Commodity Futures Modernization Act Overview (Algo Trading)"
-description: "Explore the impact of the Commodity Futures Modernization Act on algorithmic trading and its regulatory challenges within US commodity futures markets."
+category: quant_concept
+description: Explore the impact of the Commodity Futures Modernization Act on algorithmic
+  trading and its regulatory challenges within US commodity futures markets.
+title: Commodity Futures Modernization Act Overview (Algo Trading)
 ---
 
 The Commodity Futures Modernization Act (CFMA), enacted in 2000, marked a pivotal shift in the landscape of U.S. financial regulation, primarily motivated by the burgeoning growth of the derivatives market. This legislative framework was crucial in resolving pre-existing regulatory ambiguities by clarifying the responsibilities of major financial oversight bodies, notably the Commodity Futures Trading Commission (CFTC) and the Securities and Exchange Commission (SEC). Specifically, the CFMA exempted over-the-counter (OTC) derivatives from certain regulatory constraints, thereby fostering an environment conducive to innovation and growth in financial instruments such as single-stock futures.

@@ -1,6 +1,8 @@
 ---
-title: "Physical Delivery in Trading (Algo Trading)"
-description: "Explore the roles of physical delivery and algorithmic trading in the financial markets Learn how they affect trade execution and market dynamics"
+category: quant_concept
+description: Explore the roles of physical delivery and algorithmic trading in the
+  financial markets Learn how they affect trade execution and market dynamics
+title: Physical Delivery in Trading (Algo Trading)
 ---
 
 In today's financial landscape, trading financial markets has become increasingly complex and technologically driven. This evolution is largely due to the significant roles played by physical delivery and algorithmic trading within these markets. Physical delivery refers to the actual transfer of the underlying asset, such as commodities or securities, in a futures or derivatives contract when it reaches expiration. This aspect of trading is critical as it ensures alignment with supply and demand dynamics, thereby anchoring futures markets to real-world economic activities.

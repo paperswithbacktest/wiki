@@ -1,6 +1,9 @@
 ---
-title: "Reserve Currencies Overview (Algo Trading)"
-description: "Explore the intricate dynamics of reserve currencies, currency management, and algorithmic trading and understand how they impact global finance and economic stability."
+category: quant_concept
+description: Explore the intricate dynamics of reserve currencies, currency management,
+  and algorithmic trading and understand how they impact global finance and economic
+  stability.
+title: Reserve Currencies Overview (Algo Trading)
 ---
 
 Global finance has evolved considerably, influenced by the dynamic interplay between reserve currencies, currency management, and algorithmic trading. This complex interaction forms the backbone of international trade and bears substantial implications for economic stability worldwide. Reserve currencies, such as the U.S. dollar and the Euro, have historically been instrumental in facilitating global commerce by providing a stable and reliable medium for international transactions. Their dominant position yields significant advantages, including reduced exchange rate risk and lower borrowing costs for issuer countries. These currencies' roles are vital in underpinning economic confidence and stability.

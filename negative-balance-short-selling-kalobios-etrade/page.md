@@ -1,6 +1,9 @@
 ---
-title: "Negative Balance in Short Selling of KaloBios Pharmaceuticals by E*TRADE Account Holder (Algo Trading)"
-description: "Explore the risks of short selling and algorithmic trading through the KaloBios Pharmaceuticals case that highlights the potential for negative balances."
+category: trading_strategy
+description: Explore the risks of short selling and algorithmic trading through the
+  KaloBios Pharmaceuticals case that highlights the potential for negative balances.
+title: Negative Balance in Short Selling of KaloBios Pharmaceuticals by E*TRADE Account
+  Holder (Algo Trading)
 ---
 
 The financial markets are inherently unpredictable and complex, characterized by volatility and risk at every turn. A prominent example of these challenges is the saga involving the short selling of KaloBios Pharmaceuticals. This incident is emblematic of the dangers posed by short selling and algorithmic trading, where events can unfold with unexpected velocity, leading to severe financial repercussions.

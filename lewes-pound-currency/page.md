@@ -1,6 +1,8 @@
 ---
-title: "Lewes Pound Currency (Algo Trading)"
-description: "Discover how the Lewes Pound currency supports local trade within Lewes UK, promotes economic resilience and explores potential ties to algorithmic trading."
+category: quant_concept
+description: Discover how the Lewes Pound currency supports local trade within Lewes
+  UK, promotes economic resilience and explores potential ties to algorithmic trading.
+title: Lewes Pound Currency (Algo Trading)
 ---
 
 Community currencies serve as unique financial instruments designed to address the specific needs of local economies by circulating within a limited geographic area, fostering economic resilience, and supporting local businesses. These currencies are not intended to replace national legal tender but work alongside it to help boost local spending and create an economy that is more attuned to the well-being of its community members. They reinforce community identity and promote sustainable economic practices by encouraging consumers to shop locally, thereby retaining wealth within the community and reducing the environmental impact associated with transporting goods over long distances.

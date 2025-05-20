@@ -1,6 +1,8 @@
 ---
-title: "Retired Securities: Overview and Mechanism (Algo Trading)"
-description: "Explore retired securities and algo trading's impact on finance offering insights into financial instruments risks rewards and strategies for savvy investors"
+category: quant_concept
+description: Explore retired securities and algo trading's impact on finance offering
+  insights into financial instruments risks rewards and strategies for savvy investors
+title: 'Retired Securities: Overview and Mechanism (Algo Trading)'
 ---
 
 The world of finance is inherently diverse and multifaceted, presenting a plethora of opportunities for investment and wealth accumulation. This diversity manifests through various components such as financial instruments, retired securities, and algorithmic trading, each contributing significantly to contemporary investment strategies. Recognizing the pivotal roles these elements play is essential for investors seeking to navigate and capitalize on financial markets effectively.

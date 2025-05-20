@@ -1,6 +1,13 @@
 ---
-title: "Price Value of a Basis Point and Its Applications (Algo Trading)"
-description: "Understand the Price Value of a Basis Point (PVBP) and its critical role in bond price analysis and algorithmic trading. This article explores the PVBP's impact on bond price sensitivity to interest rate changes, essential for managing interest rate risk. Learn about the methodologies for calculating PVBP and its significance in financial analysis and automated trading strategies. Enhance your trading decisions by leveraging this metric to optimize investment outcomes and navigate the complexities of modern financial markets effectively."
+category: quant_concept
+description: Understand the Price Value of a Basis Point (PVBP) and its critical role
+  in bond price analysis and algorithmic trading. This article explores the PVBP's
+  impact on bond price sensitivity to interest rate changes, essential for managing
+  interest rate risk. Learn about the methodologies for calculating PVBP and its significance
+  in financial analysis and automated trading strategies. Enhance your trading decisions
+  by leveraging this metric to optimize investment outcomes and navigate the complexities
+  of modern financial markets effectively.
+title: Price Value of a Basis Point and Its Applications (Algo Trading)
 ---
 
 In the rapidly evolving financial markets, understanding key metrics is crucial for making informed trading decisions. One such metric that has gained prominence for its role in bond price analysis and algorithmic trading is the Price Value of a Basis Point (PVBP). PVBP measures the change in a bond's price for a one basis point change in yield. This sensitivity analysis plays a vital role in understanding how bond prices react to shifts in interest rates, which is fundamental for managing interest rate risk and optimizing trading outcomes.

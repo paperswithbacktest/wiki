@@ -1,6 +1,9 @@
 ---
-title: "Receivables Turnover Ratio: Formula, Importance, Examples, Limitations (Algo Trading)"
-description: "Discover the significance of the receivables turnover ratio in algorithmic trading Explore its formula examples and limitations to optimize financial analysis"
+category: quant_concept
+description: Discover the significance of the receivables turnover ratio in algorithmic
+  trading Explore its formula examples and limitations to optimize financial analysis
+title: 'Receivables Turnover Ratio: Formula, Importance, Examples, Limitations (Algo
+  Trading)'
 ---
 
 The world of finance is both vast and intricate, employing numerous tools and metrics to evaluate a company's performance comprehensively. Among these analytical instruments, financial ratios play an indispensable role. One of the most critical ratios in this context is the accounts receivables turnover ratio. This particular ratio serves as a measure of a company's efficiency in collecting debts owed by customers. As companies compete in diverse markets, the ability to swiftly convert receivables into cash becomes a valuable asset. 

@@ -1,6 +1,14 @@
 ---
-title: "Capital Reserve (Algo Trading)"
-description: "Explore the core concepts of capital reserve, business finances, and algorithmic trading to enhance financial stability and strategic decision-making. Understand how effective management of capital reserves can cushion businesses against unforeseen financial strains and ensure operational resilience. Learn the significance of business finances through budgeting, forecasting, and financial analysis, and how a solid grasp of financial terminology like equity, assets, and liabilities empowers informed decisions. This comprehensive guide offers insights into maintaining financial stability and growth in an ever-evolving financial landscape."
+category: quant_concept
+description: Explore the core concepts of capital reserve, business finances, and
+  algorithmic trading to enhance financial stability and strategic decision-making.
+  Understand how effective management of capital reserves can cushion businesses against
+  unforeseen financial strains and ensure operational resilience. Learn the significance
+  of business finances through budgeting, forecasting, and financial analysis, and
+  how a solid grasp of financial terminology like equity, assets, and liabilities
+  empowers informed decisions. This comprehensive guide offers insights into maintaining
+  financial stability and growth in an ever-evolving financial landscape.
+title: Capital Reserve (Algo Trading)
 ---
 
 The financial industry is increasingly intricate, with a diverse array of terms and concepts that can pose challenges for both novices and seasoned professionals. To navigate this complexity, it is essential to familiarize oneself with key concepts such as capital reserve, business finances, specific financial terms, and algorithmic trading. A solid understanding of these elements not only enhances one's ability to manage business finances but also fosters more informed decision-making and strategic planning.

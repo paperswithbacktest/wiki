@@ -1,6 +1,8 @@
 ---
-title: "Sources of Market Information for Fund Managers (Algo Trading)"
-description: "Discover how fund managers utilize market information to shape investment strategies in algorithmic trading and enhance portfolio management for optimal results."
+category: dataset
+description: Discover how fund managers utilize market information to shape investment
+  strategies in algorithmic trading and enhance portfolio management for optimal results.
+title: Sources of Market Information for Fund Managers (Algo Trading)
 ---
 
 Investment strategies, market information, fund managers, and algorithmic trading are pivotal in shaping the landscape of modern finance. These elements collectively contribute to enhancing investment decisions and optimizing portfolio management, ensuring that investors can navigate the complexities of financial markets effectively. 
@@ -172,4 +174,3 @@ $$
 3. Elton, E.J. and Gruber, M.J. *Modern Portfolio Theory and Investment Analysis*. John Wiley & Sons. This book provides an in-depth examination of modern portfolio theory, offering insights into risk management and optimal portfolio selection. It elaborates on key concepts such as the efficient frontier and the importance of diversification in reducing portfolio risk.
 
 These foundational texts are critical for a deeper understanding of investment strategies, market dynamics, and the principles underpinning portfolio management. They provide both theoretical frameworks and practical insights into the ever-evolving landscape of finance.
-

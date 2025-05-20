@@ -1,6 +1,13 @@
 ---
-title: "Classification problems (Algo Trading)"
-description: Explore how classification problems are integral to algorithmic trading strategies. Learn how these problems predict market movements by categorizing data into classes such as 'buy' or 'sell', enhancing decision-making and profitability. Dive into feature engineering, which refines input data like moving averages and volatility measures to improve model accuracy. Discover popular algorithms used in trading and their applications, offering insights into constructing robust classification models that boost trading performance.
+category: quant_concept
+description: Explore how classification problems are integral to algorithmic trading
+  strategies. Learn how these problems predict market movements by categorizing data
+  into classes such as 'buy' or 'sell', enhancing decision-making and profitability.
+  Dive into feature engineering, which refines input data like moving averages and
+  volatility measures to improve model accuracy. Discover popular algorithms used
+  in trading and their applications, offering insights into constructing robust classification
+  models that boost trading performance.
+title: Classification problems (Algo Trading)
 ---
 
 Algorithmic trading, often referred to as algo trading, involves the use of computer algorithms to automate trading decisions in financial markets. This approach leverages mathematical models and computational power to execute trades at speeds and frequencies beyond the capabilities of human traders. A primary task within algorithmic trading is predicting market movements to inform trading strategies, often addressed through classification problems.

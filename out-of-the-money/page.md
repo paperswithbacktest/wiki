@@ -1,6 +1,14 @@
 ---
-title: "Out Of The Money (Algo Trading)"
-description: "Explore the intriguing world of options trading with a focus on out of the money (OTM) options where risk meets high potential reward. Delve into key concepts like strike price and expiration date crucial for mastering options trading. Learn the role of algorithmic trading in optimizing strategies and how this technology enhances the experience of trading OTM options. Whether you're a novice or seasoned investor this guide empowers you with the knowledge to navigate the options market effectively harnessing both manual and automated strategies for improved trading outcomes."
+category: quant_concept
+description: Explore the intriguing world of options trading with a focus on out of
+  the money (OTM) options where risk meets high potential reward. Delve into key concepts
+  like strike price and expiration date crucial for mastering options trading. Learn
+  the role of algorithmic trading in optimizing strategies and how this technology
+  enhances the experience of trading OTM options. Whether you're a novice or seasoned
+  investor this guide empowers you with the knowledge to navigate the options market
+  effectively harnessing both manual and automated strategies for improved trading
+  outcomes.
+title: Out Of The Money (Algo Trading)
 ---
 
 Options trading is a dynamic investment strategy that allows market participants to buy or sell securities at predetermined prices. This method provides a unique blend of strategic flexibility and leverage, enabling investors to tailor their approaches to various market conditions. Among the different types of options, 'out of the money' (OTM) options hold particular significance for those speculating on substantial price changes. OTM options, while riskier, offer potentially high rewards if the underlying asset experiences significant movement.

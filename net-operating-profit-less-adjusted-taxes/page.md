@@ -1,6 +1,9 @@
 ---
-title: "Net Operating Profit Less Adjusted Taxes (Algo Trading)"
-description: "Understand NOPLAT and its significance in algorithmic trading to enhance investment strategies by focusing on operational profits post-tax adjustments for optimal decisions."
+category: quant_concept
+description: Understand NOPLAT and its significance in algorithmic trading to enhance
+  investment strategies by focusing on operational profits post-tax adjustments for
+  optimal decisions.
+title: Net Operating Profit Less Adjusted Taxes (Algo Trading)
 ---
 
 In today's rapidly evolving financial landscape, comprehending key financial metrics is more crucial than ever. Net Operating Profit Less Adjusted Taxes (NOPLAT) is one such metric that stands out for its relevance in assessing a company's true operational profitability. Unlike traditional measures that might be influenced by capital structure choices or one-time financial events, NOPLAT provides a more refined view of a company's ability to generate profits from core operations after tax adjustments.

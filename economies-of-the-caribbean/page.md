@@ -1,6 +1,11 @@
 ---
-title: "Economies of the Caribbean (Algo Trading)"
-description: "Explore the Caribbean's vibrant economies and their key industries beyond tourism. From Trinidad and Tobago's petrochemical prowess to Jamaica's mining sector, discover how these nations leverage natural resources, strategic financial services, and emerging technologies like algorithmic trading for economic growth and resilience. Dive into an insightful analysis of the region's economic landscape and future potential."
+category: quant_concept
+description: Explore the Caribbean's vibrant economies and their key industries beyond
+  tourism. From Trinidad and Tobago's petrochemical prowess to Jamaica's mining sector,
+  discover how these nations leverage natural resources, strategic financial services,
+  and emerging technologies like algorithmic trading for economic growth and resilience.
+  Dive into an insightful analysis of the region's economic landscape and future potential.
+title: Economies of the Caribbean (Algo Trading)
 ---
 
 The Caribbean is a region celebrated for its breathtaking landscapes and vibrant cultures, attracting millions of tourists annually with its stunning beaches, lush rainforests, and rich historical heritage. This idyllic image, however, only scratches the surface of the Caribbean's economic significance. The region is home to several dynamic economies, each characterized by their unique blend of natural resources, strategic financial positioning, and capacity for innovation. Beyond tourism, which serves as a considerable economic driver, countries within the Caribbean are capitalizing on their diverse assets to foster growth and development.

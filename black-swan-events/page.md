@@ -1,6 +1,13 @@
 ---
-title: "Black swan events (Algo Trading)"
-description: Explore the unpredictable nature of Black Swan events in algorithmic trading and their substantial impact on financial markets. Understand how these rare occurrences challenge traditional trading models and learn strategies to mitigate their risks. Equip yourself with insights to protect investments against unforeseen market upheavals by adapting trading algorithms and embracing robust risk management techniques. Discover historical instances and contemporary solutions to bolster resilience in the face of extreme market dynamics.
+category: quant_concept
+description: Explore the unpredictable nature of Black Swan events in algorithmic
+  trading and their substantial impact on financial markets. Understand how these
+  rare occurrences challenge traditional trading models and learn strategies to mitigate
+  their risks. Equip yourself with insights to protect investments against unforeseen
+  market upheavals by adapting trading algorithms and embracing robust risk management
+  techniques. Discover historical instances and contemporary solutions to bolster
+  resilience in the face of extreme market dynamics.
+title: Black swan events (Algo Trading)
 ---
 
 In the world of finance, Black Swan events represent unpredictable occurrences with severe consequences. These events are characterized by their rarity and their extreme impact on markets. Often defying standard predictions, they lead to significant disruptions across financial sectors. Algorithmic trading, heavily reliant on data and predictions, can be significantly affected by Black Swan events. The algorithms used in trading are designed based on historical data and statistical models which may fail under extraordinary circumstances.

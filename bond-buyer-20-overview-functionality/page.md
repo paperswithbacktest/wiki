@@ -1,6 +1,8 @@
 ---
-title: "Bond Buyer 20: Overview and Functionality (Algo Trading)"
-description: "Explore the functionality of the Bond Buyer 20 Index and the impact of algorithmic trading on municipal bonds with insights into market dynamics and trends."
+category: dataset
+description: Explore the functionality of the Bond Buyer 20 Index and the impact of
+  algorithmic trading on municipal bonds with insights into market dynamics and trends.
+title: 'Bond Buyer 20: Overview and Functionality (Algo Trading)'
 ---
 
 The bond market is a vital element of the global financial infrastructure, facilitating the flow of capital to various sectors of the economy, including governments, corporations, and municipalities. It plays a fundamental role in shaping the economic landscape by enabling entities to raise funds, manage liquidity, and finance operations and development projects.

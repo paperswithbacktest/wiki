@@ -1,6 +1,8 @@
 ---
-title: "Equity Valuation Using the Comparables Approach (Algo Trading)"
-description: "Explore equity valuation using the Comparables Approach for algo trading Understand how financial metrics guide investment decisions and market dynamics"
+category: trading_strategy
+description: Explore equity valuation using the Comparables Approach for algo trading
+  Understand how financial metrics guide investment decisions and market dynamics
+title: Equity Valuation Using the Comparables Approach (Algo Trading)
 ---
 
 The world of finance is multifaceted, employing a variety of tools and methods to assess the value of companies and guide investment decisions. Among these, the Comparables Approach stands out as a practical method for equity valuation, serving as a valuable asset for fundamental analysis and algorithmic trading. This approach, often referred to simply as "comps," involves analyzing the financial metrics of similar companies to estimate the value of a target company.

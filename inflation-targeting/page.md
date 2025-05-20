@@ -1,6 +1,13 @@
 ---
-title: "Inflation Targeting (Algo Trading)"
-description: "Explore the intricate dynamics between inflation, monetary policy, economic strategy, and algorithmic trading to understand their impact on modern financial ecosystems. Discover how central banks manage inflation through monetary policies like interest rate adjustments while aligning fiscal measures to maintain economic stability. Delve into algorithmic trading’s role in leveraging economic data for data-driven decisions, demonstrating the convergence of economic indicators and trading technologies essential for robust strategies in today's financial markets."
+category: quant_concept
+description: Explore the intricate dynamics between inflation, monetary policy, economic
+  strategy, and algorithmic trading to understand their impact on modern financial
+  ecosystems. Discover how central banks manage inflation through monetary policies
+  like interest rate adjustments while aligning fiscal measures to maintain economic
+  stability. Delve into algorithmic trading’s role in leveraging economic data for
+  data-driven decisions, demonstrating the convergence of economic indicators and
+  trading technologies essential for robust strategies in today's financial markets.
+title: Inflation Targeting (Algo Trading)
 ---
 
 The exploration of the intertwined dynamics between inflation, monetary policy, economic strategy, and algorithmic trading unveils a complex web of interactions crucial for understanding modern financial ecosystems. Each of these components plays a significant role, influencing both microeconomic and macroeconomic conditions. Inflation, defined as the rate at which the general level of prices for goods and services rises, eroding purchasing power, serves as a critical economic indicator. The management of inflation is a primary concern for monetary authorities such as central banks, which employ monetary policy tools like interest rate adjustments and modifications in money supply to maintain price stability and foster economic growth.

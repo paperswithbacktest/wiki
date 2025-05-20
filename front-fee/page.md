@@ -1,6 +1,9 @@
 ---
-title: "Front Fee (Algo Trading)"
-description: "Discover the essential financial concepts of front fees and algo trading. Enhance your investment strategies with insights into costs, technology, and market dynamics."
+category: quant_concept
+description: Discover the essential financial concepts of front fees and algo trading.
+  Enhance your investment strategies with insights into costs, technology, and market
+  dynamics.
+title: Front Fee (Algo Trading)
 ---
 
 In the complex world of finance, understanding key terms is crucial for investors and professionals alike. Financial literacy is not merely an academic endeavor; it is a practical necessity for making informed decisions that can significantly impact one's financial well-being. This article aims to demystify some core financial terms, including 'front fee' and 'algo trading', providing clarity and insight. These concepts are not just jargon but are integral to strategies that drive financial markets.

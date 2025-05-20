@@ -1,6 +1,8 @@
 ---
-title: "Brexodus and Its Impact on the UK Economy (Algo Trading)"
-description: "Explore the concept of Brexodus and its profound impact on the UK economy from skilled labor shortages to shifts in financial markets and algorithmic trading."
+category: quant_concept
+description: Explore the concept of Brexodus and its profound impact on the UK economy
+  from skilled labor shortages to shifts in financial markets and algorithmic trading.
+title: Brexodus and Its Impact on the UK Economy (Algo Trading)
 ---
 
 Brexit, the landmark decision by the United Kingdom to exit the European Union, has brought significant changes to its economic and social fabric. This decision, formalized in 2016, initiated a series of transformations that have touched nearly every aspect of the UK’s economy. A notable phenomenon that emerged in the wake of Brexit is termed 'Brexodus.' This phrase describes the migration of skilled workers and businesses from the UK, driven by the uncertainty and regulatory complexities that the departure from the EU introduced.

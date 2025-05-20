@@ -1,6 +1,14 @@
 ---
-title: "Purchasing U.S. Treasury Securities (Algo Trading)"
-description: "Explore the dynamics of U.S. Treasury securities investments, highlighting the blend of traditional methods and modern algorithmic trading. This in-depth article investigates into the efficiencies and precision algorithmic trading brings to bond markets, providing a roadmap for investors to enhance portfolio strategies. Learn about different types of treasury securities, their benefits, and step-by-step guidance on purchasing through TreasuryDirect, banks, and brokerages. Understand the critical role of auctions and secondary markets in optimizing returns, offering vital insights into investing in one of the safest investment vehicles backed by the U.S. government."
+category: trading_strategy
+description: Explore the dynamics of U.S. Treasury securities investments, highlighting
+  the blend of traditional methods and modern algorithmic trading. This in-depth article
+  investigates into the efficiencies and precision algorithmic trading brings to bond
+  markets, providing a roadmap for investors to enhance portfolio strategies. Learn
+  about different types of treasury securities, their benefits, and step-by-step guidance
+  on purchasing through TreasuryDirect, banks, and brokerages. Understand the critical
+  role of auctions and secondary markets in optimizing returns, offering vital insights
+  into investing in one of the safest investment vehicles backed by the U.S. government.
+title: Purchasing U.S. Treasury Securities (Algo Trading)
 ---
 
 Treasury securities play a pivotal role in the global investment landscape due to their reputation for safety and reliability. These debt instruments, backed by the full faith and credit of the U.S. government, are utilized by various investors, ranging from individuals to large financial institutions, as a cornerstone of their portfolios. The primary appeal of treasury securities lies in their risk-free nature, making them a preferred choice during periods of market volatility.

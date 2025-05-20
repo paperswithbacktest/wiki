@@ -1,6 +1,9 @@
 ---
-title: "Comparison of Current Yield and Yield to Maturity (Algo Trading)"
-description: "Discover key differences between current yield and yield to maturity in bond investments Learn how algorithmic trading enhances decision-making for optimal strategies"
+category: quant_concept
+description: Discover key differences between current yield and yield to maturity
+  in bond investments Learn how algorithmic trading enhances decision-making for optimal
+  strategies
+title: Comparison of Current Yield and Yield to Maturity (Algo Trading)
 ---
 
 In bond investments, key metrics such as current yield and yield to maturity (YTM) are essential for making informed decisions. Current yield provides a measure of a bond's annual income relative to its current market price, offering insights into immediate returns. Yield to maturity, on the other hand, evaluates the total expected return of a bond if held until maturity, taking into account coupon payments, market price, time to maturity, and reinvestment of interest. These calculations are critical for investors to assess the income potential and overall profitability of their bond investments.

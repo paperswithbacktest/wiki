@@ -1,6 +1,8 @@
 ---
-title: "Revenue Deficit: Overview and Calculation (Algo Trading)"
-description: "Explore the intricate world of fiscal policy and algo trading Understand how revenue deficits impact investments and markets for informed financial decision-making"
+category: quant_concept
+description: Explore the intricate world of fiscal policy and algo trading Understand
+  how revenue deficits impact investments and markets for informed financial decision-making
+title: 'Revenue Deficit: Overview and Calculation (Algo Trading)'
 ---
 
 Understanding the concepts of budget deficit, fiscal policy, revenue deficit, and algorithmic trading is vital for assessing economic and financial scenarios. A budget deficit arises when government expenditures surpass revenues, leading to borrowing and impacting national debt levels. Fiscal policy, encompassing government strategies on expenditure and taxation, is employed to manage these deficits and stimulate economic growth. The relationship between government revenue and expenses can also result in a revenue deficit, where actual income falls short of projections, often prompting fiscal adjustments.

@@ -1,6 +1,15 @@
 ---
-title: "List of stock exchanges in the Americas (Algo Trading)"
-description: Explore the pivotal role of stock exchanges in the Americas, from the powerhouse NYSE and Nasdaq to Brazil's B3 and the Toronto Stock Exchange. Discover how these financial hubs drive economic activities by enabling companies to raise capital and investors to trade shares. Delve into the transformative impact of algorithmic trading, which enhances liquidity and reduces transaction costs through technology-driven strategies. Learn about the diversity among exchanges across North, Central, and South America, each tailored to its economic environment. This comprehensive overview highlights the importance of these exchanges in supporting market stability and prosperity across the continent.
+category: dataset
+description: Explore the pivotal role of stock exchanges in the Americas, from the
+  powerhouse NYSE and Nasdaq to Brazil's B3 and the Toronto Stock Exchange. Discover
+  how these financial hubs drive economic activities by enabling companies to raise
+  capital and investors to trade shares. Delve into the transformative impact of algorithmic
+  trading, which enhances liquidity and reduces transaction costs through technology-driven
+  strategies. Learn about the diversity among exchanges across North, Central, and
+  South America, each tailored to its economic environment. This comprehensive overview
+  highlights the importance of these exchanges in supporting market stability and
+  prosperity across the continent.
+title: List of stock exchanges in the Americas (Algo Trading)
 ---
 
 Stock exchanges in the Americas play a critical role in the global economy by facilitating the buying and selling of securities, thereby enabling businesses to raise capital and investors to own shares in companies. These exchanges, such as the New York Stock Exchange (NYSE), Nasdaq, Toronto Stock Exchange, and Brazil's B3, serve as financial hubs that drive economic activities across the continent. They provide a platform for price discovery, liquidity, and transparency, which are fundamental to the efficient functioning of the markets.

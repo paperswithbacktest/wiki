@@ -1,7 +1,8 @@
 ---
-title: Understanding the Confusion Matrix in Machine Learning
+category: quant_concept
 description: Confusion matrix breaks down true positives false positives and negatives
   for clear model performance metrics and actionable insights Discover more inside
+title: Understanding the Confusion Matrix in Machine Learning
 ---
 
 ![Image](images/1.jpeg)

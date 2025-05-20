@@ -1,6 +1,9 @@
 ---
-title: "International Foreign Exchange Master Agreement (Algo Trading)"
-description: "Discover how the International Foreign Exchange Master Agreement (IFEMA) standardizes forex trading, enhancing market stability and supporting algorithmic strategies."
+category: quant_concept
+description: Discover how the International Foreign Exchange Master Agreement (IFEMA)
+  standardizes forex trading, enhancing market stability and supporting algorithmic
+  strategies.
+title: International Foreign Exchange Master Agreement (Algo Trading)
 ---
 
 The foreign exchange market (forex) is an integral component of global finance, acting as the backbone facilitating currency exchange and international trade. Forex's vast liquidity and dynamic nature make it indispensable for both countries and corporations, providing a platform for converting earnings and payments into different currencies. Considering its critical role, the establishment of standardized agreements such as the International Foreign Exchange Master Agreement (IFEMA) is essential. IFEMA plays a pivotal role in unifying and streamlining forex transactions, reducing transaction ambiguity and enhancing market stability.

@@ -1,6 +1,9 @@
 ---
-title: "Local Exchange Trading Systems (Algo Trading)"
-description: "Explore modern trading systems, including LETS and algorithmic trading. Learn how these systems offer alternatives to traditional trading and promote local economies."
+category: quant_concept
+description: Explore modern trading systems, including LETS and algorithmic trading.
+  Learn how these systems offer alternatives to traditional trading and promote local
+  economies.
+title: Local Exchange Trading Systems (Algo Trading)
 ---
 
 Trading systems are integral to the modern financial landscape, offering diverse ways to engage in market activities. These systems provide critical infrastructure for the buying and selling of financial instruments, ensuring liquidity and efficiency across various markets. Traditionally, markets were dominated by centralized exchanges and fiat currency transactions. However, recent decades have witnessed the rise of alternative systems that challenge these conventional models. This article explores various trading systems, focusing on alternative currency, Local Exchange Trading Systems (LETS), and algorithmic trading.

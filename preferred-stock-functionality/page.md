@@ -1,6 +1,9 @@
 ---
-title: "Preferred Stock Functionality (Algo Trading)"
-description: "Discover the unique benefits of preferred stock and the efficiency of algorithmic trading in modern investing Learn how these tools can enhance your portfolio strategy"
+category: quant_concept
+description: Discover the unique benefits of preferred stock and the efficiency of
+  algorithmic trading in modern investing Learn how these tools can enhance your portfolio
+  strategy
+title: Preferred Stock Functionality (Algo Trading)
 ---
 
 Financial securities form the backbone of modern investment strategies, offering a broad spectrum of opportunities for investors. These tradable assets range from stocks and bonds to more complex instruments, each playing a pivotal role in capital markets. This article aims to explore the concepts of stock investment with a focus on preferred stock and the transformative practice of algorithmic trading. By understanding these components, investors can strategically incorporate them into their portfolios to potentially boost growth and mitigate risks.

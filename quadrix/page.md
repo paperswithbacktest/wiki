@@ -1,6 +1,8 @@
 ---
-title: "Quadrix (Algo Trading)"
-description: "Explore Quadrix algo trading to boost your investment strategies using advanced geometry and algorithms, gaining insights into stock performance metrics."
+category: quant_concept
+description: Explore Quadrix algo trading to boost your investment strategies using
+  advanced geometry and algorithms, gaining insights into stock performance metrics.
+title: Quadrix (Algo Trading)
 ---
 
 Algorithmic trading, commonly referred to as algo trading, represents a significant paradigm shift in the financial industry. By automating trading strategies through complex mathematical models and computational algorithms, this innovative approach has streamlined processes and enhanced the speed and accuracy of trading activities. A critical component of algo trading is its reliance on sophisticated mathematical concepts to drive informed decision-making.

@@ -1,6 +1,9 @@
 ---
-title: "Overview of the International Capital Asset Pricing Model (Algo Trading)"
-description: "Explore the International Capital Asset Pricing Model for algorithmic trading to understand how it extends CAPM to address exchange rate risks in global markets."
+category: quant_concept
+description: Explore the International Capital Asset Pricing Model for algorithmic
+  trading to understand how it extends CAPM to address exchange rate risks in global
+  markets.
+title: Overview of the International Capital Asset Pricing Model (Algo Trading)
 ---
 
 In today's financial landscape, understanding complex models and strategies is crucial for making informed investment decisions. Investment strategies have evolved significantly, leveraging advanced financial models to quantify and manage risks effectively. Among these models, the Capital Asset Pricing Model (CAPM) plays a pivotal role, providing a framework to quantify the relationship between expected return and risk. Traditional CAPM models focus primarily on domestic investments, ignoring additional complexities introduced by global markets. However, the International Capital Asset Pricing Model (ICAPM) extends this framework, considering factors such as exchange rate risk, making it critical for investors operating across borders. 

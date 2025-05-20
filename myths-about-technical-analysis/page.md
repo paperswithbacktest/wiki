@@ -1,6 +1,8 @@
 ---
-title: "List of Myths About Technical Analysis (Algo Trading)"
-description: "Explore the common myths surrounding technical analysis and algorithmic trading as we dispel misconceptions and reveal their true potential and limitations."
+category: quant_concept
+description: Explore the common myths surrounding technical analysis and algorithmic
+  trading as we dispel misconceptions and reveal their true potential and limitations.
+title: List of Myths About Technical Analysis (Algo Trading)
 ---
 
 Technical analysis, a popular method used in financial markets, often evokes diverse opinions among investors and traders. This approach involves scrutinizing historical market data such as prices, volumes, and open interest to predict future movements. Proponents argue that, by detecting patterns and trends, technical analysis provides an essential toolkit for navigating volatile market environments. Critics, however, often view it as merely a reflection of market psychology, lacking any substantive basis in predicting future market behavior.

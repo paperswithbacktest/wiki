@@ -1,6 +1,14 @@
 ---
-title: "High-Frequency Trading II: Limit Order Book Explained (Algo Trading)"
-description: Explore the intricacies of limit order books in algorithmic trading with this comprehensive guide. Gain insights into their structure, how they provide market transparency, manage liquidity, and improve execution efficiency for traders. Understand the advantages and challenges faced in utilizing limit order books, along with their role in executing sophisticated trading strategies. Discover essential concepts like bid-ask spreads and matching engines, and learn how to leverage these tools to enhance market performance. Perfect for traders and financial institutions looking to optimize their use of algorithmic trading systems.
+category: quant_concept
+description: Explore the intricacies of limit order books in algorithmic trading with
+  this comprehensive guide. Gain insights into their structure, how they provide market
+  transparency, manage liquidity, and improve execution efficiency for traders. Understand
+  the advantages and challenges faced in utilizing limit order books, along with their
+  role in executing sophisticated trading strategies. Discover essential concepts
+  like bid-ask spreads and matching engines, and learn how to leverage these tools
+  to enhance market performance. Perfect for traders and financial institutions looking
+  to optimize their use of algorithmic trading systems.
+title: 'High-Frequency Trading II: Limit Order Book Explained (Algo Trading)'
 ---
 
 A limit order book is a comprehensive record of buy and sell orders for a specific financial instrument organized by price level. In trading, it serves as the central mechanism facilitating orderly transactions by matching buy and sell orders from various market participants. The book consists of limit orders which specify the maximum or minimum price at which a participant is willing to buy or sell a security. As these orders accumulate, they reflect the supply and demand dynamics for the asset, providing crucial insights into market activity.

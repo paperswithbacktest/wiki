@@ -1,6 +1,8 @@
 ---
-title: "Good 'Til Canceled Order (Algo Trading)"
-description: "Explore the key features and benefits of Good 'Til Canceled (GTC) orders in algorithmic trading including their role in automating strategies over time."
+category: quant_concept
+description: Explore the key features and benefits of Good 'Til Canceled (GTC) orders
+  in algorithmic trading including their role in automating strategies over time.
+title: Good 'Til Canceled Order (Algo Trading)
 ---
 
 In stock trading, understanding the various types of stock market orders is crucial for any investor or trader. Stock market orders are instructions given to brokers to buy or sell stocks on behalf of the investor, and they play a fundamental role in determining both the timing and conditions under which stock transactions occur. These orders form the backbone of trading strategies, affecting everything from liquidity to volatility in the market.

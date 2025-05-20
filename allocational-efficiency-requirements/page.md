@@ -1,6 +1,8 @@
 ---
-title: "Allocational Efficiency and Its Requirements (Algo Trading)"
-description: "Explore the synergy between economic and allocational efficiency in algorithmic trading Discover how advanced tech optimizes resource allocation in financial markets"
+category: quant_concept
+description: Explore the synergy between economic and allocational efficiency in algorithmic
+  trading Discover how advanced tech optimizes resource allocation in financial markets
+title: Allocational Efficiency and Its Requirements (Algo Trading)
 ---
 
 Economic efficiency and resource allocation are fundamental concepts in economic theory, closely linked to the optimal use of limited resources within an economy. Economic efficiency refers to a state where resources are allocated in such a way that maximizes the production of goods and services without wasting inputs. This concept ensures that the economy operates at its full potential, producing the desired mix of goods and services most efficiently.

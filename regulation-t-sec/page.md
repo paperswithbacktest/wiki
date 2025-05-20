@@ -1,6 +1,12 @@
 ---
-title: "Regulation T (SEC) (Algo Trading)"
-description: Explore the complexities of Regulation T and its critical role in algorithmic trading, managed by the SEC, ensuring market stability and investor protection. Learn how Regulation T influences margin requirements and leverage, vital for risk management in algo trading. Understand SEC's efforts to prevent market manipulation and enhance cybersecurity in this fast-evolving trading landscape, emphasizing compliance and adaptive strategies for market participants.
+category: quant_concept
+description: Explore the complexities of Regulation T and its critical role in algorithmic
+  trading, managed by the SEC, ensuring market stability and investor protection.
+  Learn how Regulation T influences margin requirements and leverage, vital for risk
+  management in algo trading. Understand SEC's efforts to prevent market manipulation
+  and enhance cybersecurity in this fast-evolving trading landscape, emphasizing compliance
+  and adaptive strategies for market participants.
+title: Regulation T (SEC) (Algo Trading)
 ---
 
 Algorithmic trading, often referred to as algo trading, utilizes sophisticated computer algorithms to automate the process of trading financial instruments. This high-frequency trading approach operates at remarkable speeds and is designed to execute trades based on a set of predetermined criteria, which can include timing, price, quantity, or any mathematical model. With the advent of technology, algo trading has substantially transformed the landscape of financial markets by increasing liquidity and efficiency but simultaneously introducing complex challenges that necessitate rigorous regulatory oversight.

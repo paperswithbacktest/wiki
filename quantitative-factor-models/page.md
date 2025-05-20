@@ -1,6 +1,9 @@
 ---
-title: "quantitative factor models (Algo Trading)"
-description: "Discover how quantitative factor models drive successful algorithmic trading strategies by analyzing data-driven insights for optimized decision-making and higher returns."
+category: quant_concept
+description: Discover how quantitative factor models drive successful algorithmic
+  trading strategies by analyzing data-driven insights for optimized decision-making
+  and higher returns.
+title: quantitative factor models (Algo Trading)
 ---
 
 Quantitative factor models are pivotal in algorithmic trading, bridging the gap between sophisticated mathematical frameworks and practical financial strategies. These models have revolutionized trading, providing automated and refined processes that enhance the potential for significant investment returns. By employing advanced statistical tools, quantitative models enable traders to execute systematic approaches grounded in data-driven insights. This shift towards quantitative strategies reflects the dynamic nature of financial markets, where data accuracy and processing speed are crucial.

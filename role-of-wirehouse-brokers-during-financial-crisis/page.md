@@ -1,6 +1,9 @@
 ---
-title: "Role of Wirehouse Brokers During the Financial Crisis (Algo Trading)"
-description: "Explore the pivotal role of wirehouse brokers in financial crises and the impact of algorithmic trading on the industry highlighting past challenges and evolving strategies."
+category: quant_concept
+description: Explore the pivotal role of wirehouse brokers in financial crises and
+  the impact of algorithmic trading on the industry highlighting past challenges and
+  evolving strategies.
+title: Role of Wirehouse Brokers During the Financial Crisis (Algo Trading)
 ---
 
 Wirehouse brokers, financial crises, brokerage roles, and algorithmic trading are integral components of the financial industry. Understanding these terms and their interactions is crucial to grasping the current financial landscape.

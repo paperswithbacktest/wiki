@@ -1,6 +1,8 @@
 ---
-title: "Direct Indexing: Mechanism, Advantages, and Disadvantages (Algo Trading)"
-description: "Explore how direct indexing and algorithmic trading reshape investment strategies offering personalized portfolios and advanced automation for modern investors."
+category: trading_strategy
+description: Explore how direct indexing and algorithmic trading reshape investment
+  strategies offering personalized portfolios and advanced automation for modern investors.
+title: 'Direct Indexing: Mechanism, Advantages, and Disadvantages (Algo Trading)'
 ---
 
 Investment strategy and portfolio management are essential components for achieving financial success in today's complex financial markets. As the investment landscape continues to evolve, innovative approaches such as direct indexing and algorithmic (algo) trading are gaining prominence. Direct indexing involves constructing a portfolio by purchasing individual components of an index, thus offering a more personalized investment strategy compared to traditional index funds or ETFs. This personalization allows investors to tailor portfolios according to their specific financial goals, tax situations, and values, potentially providing advantages that were previously difficult to achieve.

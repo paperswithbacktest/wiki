@@ -1,6 +1,9 @@
 ---
-title: "Strategies for Selecting Stocks in Intraday Trading (Algo Trading)"
-description: "Discover effective strategies for selecting stocks in intraday trading and algorithmic trading. Learn how liquidity, volatility, and technical indicators play pivotal roles in stock selection."
+category: trading_strategy
+description: Discover effective strategies for selecting stocks in intraday trading
+  and algorithmic trading. Learn how liquidity, volatility, and technical indicators
+  play pivotal roles in stock selection.
+title: Strategies for Selecting Stocks in Intraday Trading (Algo Trading)
 ---
 
 In stock trading, selecting the right strategy is crucial for success. Whether you are an intraday trader looking to capitalize on short-term price movements or an algorithmic trader seeking to automate and refine your trading process, understanding various strategies and techniques is essential. The decision-making process in stock trading is influenced by numerous factors, including market trends, stock liquidity, and price volatility, each of which can significantly impact returns on investments.

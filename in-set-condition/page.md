@@ -1,7 +1,8 @@
 ---
-title: In-Set Conditions in Machine Learning Models Explained
+category: quant_concept
 description: In-Set Condition enforces model predictions within a defined set of outcomes
   to boost reliability and accuracy in classification tasks Discover more inside
+title: In-Set Conditions in Machine Learning Models Explained
 ---
 
 ![Image](images/1.png)

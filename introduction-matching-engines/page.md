@@ -1,6 +1,11 @@
 ---
-title: "Introduction to Matching Engines (Algo Trading)"
-description: Discover the essential role of matching engines in algorithmic trading, where they serve as the backbone for rapid and precise trade execution. Explore their architecture, efficient components like load balancers and proximity hosting, and key algorithms like FIFO, which are vital for modern trading platforms and high-frequency trading strategies.
+category: quant_concept
+description: Discover the essential role of matching engines in algorithmic trading,
+  where they serve as the backbone for rapid and precise trade execution. Explore
+  their architecture, efficient components like load balancers and proximity hosting,
+  and key algorithms like FIFO, which are vital for modern trading platforms and high-frequency
+  trading strategies.
+title: Introduction to Matching Engines (Algo Trading)
 ---
 
 The concept of a matching engine is integral to the world of algorithmic trading due to its pivotal role in enabling rapid and efficient trade execution. Within trading platforms, these engines act as the fundamental infrastructure that partners buy and sell orders based on predefined rules and algorithms. With the increasing prevalence of high-frequency trading, matching engines have become indispensable, as they facilitate the smooth operation of complex trading strategies that rely on the quick and accurate execution of orders.

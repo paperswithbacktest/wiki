@@ -1,6 +1,8 @@
 ---
-title: "Firm Quote: Overview and Functionality (Algo Trading)"
-description: "Discover the role of firm quotes and algorithmic trading in modern financial markets Explore their functionality impact and importance for efficient trading."
+category: quant_concept
+description: Discover the role of firm quotes and algorithmic trading in modern financial
+  markets Explore their functionality impact and importance for efficient trading.
+title: 'Firm Quote: Overview and Functionality (Algo Trading)'
 ---
 
 The financial markets have experienced profound changes driven by the rapid advancement of digital technologies. This evolution has fundamentally altered how trading is conducted, leading to increased efficiency, speed, and accessibility. At the forefront of this transformation are financial transactions firms, which play a pivotal role by engaging in activities such as quote quotations and algorithmic trading. These firms use their expertise to provide liquidity, facilitate trades, and ensure smooth market operations.

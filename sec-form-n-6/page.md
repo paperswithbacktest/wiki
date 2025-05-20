@@ -1,6 +1,8 @@
 ---
-title: "SEC Form N-6 (Algo Trading)"
-description: "Explore the importance of SEC Form N-6 in variable life insurance covering crucial investment insights risks and company financial health to aid informed decisions."
+category: quant_concept
+description: Explore the importance of SEC Form N-6 in variable life insurance covering
+  crucial investment insights risks and company financial health to aid informed decisions.
+title: SEC Form N-6 (Algo Trading)
 ---
 
 In the complex world of financial markets, regulatory forms are vital for ensuring transparency and safeguarding investors against potential risks. One pivotal document in this regulatory landscape is the SEC Form N-6. This form holds particular significance for variable life insurance contracts, serving as a crucial instrument for disclosing comprehensive information about these financial products. Variable life insurance contracts blend insurance protection with investment opportunities, creating intricate financial structures that necessitate clear communication and regulation.

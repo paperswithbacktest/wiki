@@ -1,6 +1,8 @@
 ---
-title: "History of the South Korean Won (Algo Trading)"
-description: "Explore the history of the South Korean Won and its role in algorithmic trading Discover how technological advancements shape KRW's global financial influence"
+category: quant_concept
+description: Explore the history of the South Korean Won and its role in algorithmic
+  trading Discover how technological advancements shape KRW's global financial influence
+title: History of the South Korean Won (Algo Trading)
 ---
 
 The South Korean Won (KRW) represents a pivotal currency within the global economic landscape, playing an essential role in the balance of trade, international finance, and currency markets. As the official currency of South Korea, the KRW has seen its influence grow in parallel with South Korea's emergence as a key player in global trade and technology.

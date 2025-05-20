@@ -1,6 +1,8 @@
 ---
-title: "Stopped Out in Trading (Algo Trading)"
-description: "Explore investment trading strategies, the impact of being stopped out, and how algorithmic trading can enhance or challenge trading outcomes."
+category: trading_strategy
+description: Explore investment trading strategies, the impact of being stopped out,
+  and how algorithmic trading can enhance or challenge trading outcomes.
+title: Stopped Out in Trading (Algo Trading)
 ---
 
 Investment trading strategies are essential tools for both novice and experienced traders aiming to optimize their financial gains while minimizing associated risks. These strategies provide a structured approach to investing, enabling traders to make informed decisions based on a combination of data analysis, market trends, and risk management techniques. 

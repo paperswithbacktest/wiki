@@ -1,6 +1,8 @@
 ---
-title: "Closely Held Corporation (Algo Trading)"
-description: "Explore the synergy of closely held corporations and algorithmic trading offering insights into corporate control structures and modern trading efficiencies."
+category: quant_concept
+description: Explore the synergy of closely held corporations and algorithmic trading
+  offering insights into corporate control structures and modern trading efficiencies.
+title: Closely Held Corporation (Algo Trading)
 ---
 
 The business world is a complex landscape filled with various types of enterprises, each with its own unique structure and operational methods. Among these, the closely held corporation stands out due to its distinctive features and advantages. Characterized by having a limited number of shareholders, this type of corporation typically sees ownership concentrated among a few individuals or families. This concentrated ownership often results in a high level of control and quicker decision-making processes compared to publicly traded companies.
@@ -131,4 +133,3 @@ Understanding the synergies between traditional corporate structures and advance
 [6]: Pardo, R. (2008). ["The Evaluation and Optimization of Trading Strategies"](https://onlinelibrary.wiley.com/doi/book/10.1002/9781119196969) by Robert Pardo
 
 [7]: Hasbrouck, J. (2007). ["Empirical Market Microstructure: The Institutions, Economics, and Econometrics of Securities Trading"](https://academic.oup.com/book/52241) by Joel Hasbrouck
-

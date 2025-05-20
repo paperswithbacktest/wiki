@@ -1,6 +1,8 @@
 ---
-title: "Federal Call: Mechanism and Purpose (Algo Trading)"
-description: "Explore how federal call regulations ensure market stability in algorithmic trading by enforcing margin requirements that prevent excessive leverage and risk."
+category: quant_concept
+description: Explore how federal call regulations ensure market stability in algorithmic
+  trading by enforcing margin requirements that prevent excessive leverage and risk.
+title: 'Federal Call: Mechanism and Purpose (Algo Trading)'
 ---
 
 In an ever-evolving financial landscape, federal call securities regulation serves as a cornerstone in maintaining stability and fairness within markets. These regulations are especially crucial as they oversee and manage the intricate aspects of trading systems, ensuring that excessive risks are mitigated. Federal call regulations, such as those encompassed in the United States under the Securities and Exchange Commission's Regulation T, establish the framework for margin requirements that investors must meet to conduct trades on margin. Specifically, these regulations require that investors provide a minimum of 50% cash, also known as the initial margin, when purchasing securities. This helps maintain an equitable and steady investment environment by preventing excessive leverage.

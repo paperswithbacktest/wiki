@@ -1,6 +1,8 @@
 ---
-title: "Delta-Gamma Hedging in Financial Markets (Algo Trading)"
-description: "Explore the intricacies of Delta-Gamma hedging, a key algorithmic trading strategy in financial markets designed to efficiently manage option-related risks."
+category: trading_strategy
+description: Explore the intricacies of Delta-Gamma hedging, a key algorithmic trading
+  strategy in financial markets designed to efficiently manage option-related risks.
+title: Delta-Gamma Hedging in Financial Markets (Algo Trading)
 ---
 
 Financial derivatives are integral tools in modern financial markets, providing methodologies for managing risk and optimizing returns through various innovative strategies. Among these strategies, Delta-Gamma hedging stands out as a sophisticated algorithmic trading approach that caters specifically to the nuanced needs of options traders. The primary goal of Delta-Gamma hedging is to mitigate risk originating from fluctuations not only in the price of the underlying asset but also in the option's Delta itself, which measures the sensitivity of the option's price to changes in the underlying asset's price.

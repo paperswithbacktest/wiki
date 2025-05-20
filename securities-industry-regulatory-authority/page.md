@@ -1,6 +1,8 @@
 ---
-title: "Securities Industry Regulatory Authority (Algo Trading)"
-description: "Explore the pivotal role of algorithmic trading in modern markets and how FINRA's regulatory measures safeguard trade efficiency and market integrity."
+category: quant_concept
+description: Explore the pivotal role of algorithmic trading in modern markets and
+  how FINRA's regulatory measures safeguard trade efficiency and market integrity.
+title: Securities Industry Regulatory Authority (Algo Trading)
 ---
 
 The landscape of financial trading has undergone profound changes, with algorithmic trading emerging as a pivotal component of contemporary markets. Algorithmic trading leverages computer algorithms to execute trades at high speed and with precision, optimizing the timing and price for transactions. This transformation not only enhances efficiency and liquidity but also introduces complexities and risks that challenge the stability and integrity of financial markets.

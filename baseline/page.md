@@ -1,7 +1,8 @@
 ---
-title: Establishing Baseline Models in Machine Learning Projects
+category: quant_concept
 description: Baseline models in machine learning provide a reference to measure performance
   gains of complex algorithms and avoid wasted effort Discover more inside.
+title: Establishing Baseline Models in Machine Learning Projects
 ---
 
 ![Image](images/1.jpeg)

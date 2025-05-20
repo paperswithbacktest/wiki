@@ -1,6 +1,9 @@
 ---
-title: "Capital Rationing: Overview, Applications, and Types (Algo Trading)"
-description: "Optimize investment strategies by understanding capital rationing and algorithmic trading This synergy aids financial managers in making strategic choices for growth"
+category: trading_strategy
+description: Optimize investment strategies by understanding capital rationing and
+  algorithmic trading This synergy aids financial managers in making strategic choices
+  for growth
+title: 'Capital Rationing: Overview, Applications, and Types (Algo Trading)'
 ---
 
 In today's dynamic financial landscape, businesses face numerous investment opportunities, each promising potential growth and returns. However, the reality of limited resources necessitates strategic decisions on capital allocation to ensure maximum return and sustainable business progress. This constraint poses a significant challenge for financial managers seeking to optimize investment strategies while navigating budget limitations.

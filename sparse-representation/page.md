@@ -1,7 +1,8 @@
 ---
-title: Optimizing Machine Learning with Sparse Representation Techniques
+category: quant_concept
 description: Sparse Representation enhances machine learning efficiency by isolating
   key features for faster processing and accurate predictions Discover more inside
+title: Optimizing Machine Learning with Sparse Representation Techniques
 ---
 
 ![Image](images/1.png)

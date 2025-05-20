@@ -1,6 +1,9 @@
 ---
-title: "Fibonacci ABC Pattern in Financial Trading (Algo Trading)"
-description: "Explore the Fibonacci ABC trading pattern ideal for identifying trend reversals. Learn to apply algorithmic strategies and enhance trading performance in stocks forex and commodities."
+category: trading_strategy
+description: Explore the Fibonacci ABC trading pattern ideal for identifying trend
+  reversals. Learn to apply algorithmic strategies and enhance trading performance
+  in stocks forex and commodities.
+title: Fibonacci ABC Pattern in Financial Trading (Algo Trading)
 ---
 
 The financial markets are a dynamic environment where traders continually innovate strategies to maximize returns. One such approach capitalizes on the Fibonacci pattern, widely utilized in algorithmic trading to uncover potential opportunities. Among these strategies is the ABC trading pattern, which effectively integrates Fibonacci ratios to enhance market analysis and decision-making.

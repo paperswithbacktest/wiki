@@ -1,6 +1,8 @@
 ---
-title: "Earnings Before Interest After Taxes: Calculation and Analysis (Algo Trading)"
-description: "Explore how EBIAT impacts algorithmic trading by considering taxes in financial assessments for better strategy profitability analysis and decision making."
+category: quant_concept
+description: Explore how EBIAT impacts algorithmic trading by considering taxes in
+  financial assessments for better strategy profitability analysis and decision making.
+title: 'Earnings Before Interest After Taxes: Calculation and Analysis (Algo Trading)'
 ---
 
 Algorithmic trading represents a significant shift in the way financial markets operate, leveraging advanced computational techniques to execute trades at high speeds and volumes. This modern approach to trading has increasingly relied on precise financial metrics to maximize profitability and guide strategic decisions. One such crucial metric is EBIAT, or Earnings Before Interest After Taxes, which provides insights into a company's true profitability by accounting for tax impacts while excluding interest expenses. Unlike traditional metrics like EBIT (Earnings Before Interest and Taxes), EBIAT offers a clearer view of net earnings post-tax, an essential consideration for any comprehensive financial analysis.

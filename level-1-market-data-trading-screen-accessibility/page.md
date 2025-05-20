@@ -1,6 +1,9 @@
 ---
-title: "Level 1 Market Data and Trading Screen Accessibility (Algo Trading)"
-description: "Level 1 market data on trading screens offers real-time bid-ask prices crucial for traders and investors, enhancing market accessibility and algo trading efficiency."
+category: dataset
+description: Level 1 market data on trading screens offers real-time bid-ask prices
+  crucial for traders and investors, enhancing market accessibility and algo trading
+  efficiency.
+title: Level 1 Market Data and Trading Screen Accessibility (Algo Trading)
 ---
 
 The digital age has fundamentally transformed the landscape of trading, making it significantly more accessible to both individuals and businesses. This transformation is largely driven by advancements in technology and the proliferation of trading screens. Central to these screens is Level 1 market data, which provides foundational insights into the financial markets by displaying real-time best bid-offer-volume quotes. Such data is integral for traders as it reveals the national best bid and offer (NBBO), allowing for informed decision-making.

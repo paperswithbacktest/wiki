@@ -1,6 +1,8 @@
 ---
-title: "Comparison of Real Estate and Stock Market Investments (Algo Trading)"
-description: "Explore real estate and stock market investments highlighting algorithmic trading's impact in shaping investment strategies and optimizing portfolios."
+category: trading_strategy
+description: Explore real estate and stock market investments highlighting algorithmic
+  trading's impact in shaping investment strategies and optimizing portfolios.
+title: Comparison of Real Estate and Stock Market Investments (Algo Trading)
 ---
 
 Investment strategies have experienced profound changes over the past few decades, primarily due to advancements in technology and the dynamic nature of global markets. Two of the most prominent avenues for wealth generation today are real estate and the stock market. Real estate offers tangible asset investment opportunities, known for their relative stability and potential hedging against inflation, often providing steady rental income and long-term appreciation. Conversely, the stock market presents a platform for investing in corporate equity, characterized by higher liquidity and the potential for significant capital gains, albeit with higher volatility.

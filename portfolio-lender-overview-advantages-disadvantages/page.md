@@ -1,6 +1,8 @@
 ---
-title: "Portfolio Lender: Overview, Advantages, and Disadvantages (Algo Trading)"
-description: "Portfolio lending offers flexibility by tailoring loans to borrower needs, making it ideal for non-traditional income earners but involves higher lender risk."
+category: trading_strategy
+description: Portfolio lending offers flexibility by tailoring loans to borrower needs,
+  making it ideal for non-traditional income earners but involves higher lender risk.
+title: 'Portfolio Lender: Overview, Advantages, and Disadvantages (Algo Trading)'
 ---
 
 In today's complex financial landscape, portfolio lending presents itself as a unique approach that offers both flexibility and inherent risk. This lending model is characterized by financial institutions originating and retaining loans rather than selling them on the secondary market. This practice provides lenders with the capacity to tailor loan terms to better fit individual borrower needs, thereby offering more flexible borrowing options. However, it also places greater financial risk on the lender due to retention of the loans within their portfolio.

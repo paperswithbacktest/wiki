@@ -1,6 +1,9 @@
 ---
-title: "Net Order Imbalance Indicator (Algo Trading)"
-description: "Discover the significance of the Net Order Imbalance Indicator in algorithmic trading. Gain insights into market dynamics for enhanced decision-making and strategic advantage."
+category: trading_strategy
+description: Discover the significance of the Net Order Imbalance Indicator in algorithmic
+  trading. Gain insights into market dynamics for enhanced decision-making and strategic
+  advantage.
+title: Net Order Imbalance Indicator (Algo Trading)
 ---
 
 The stock market is a multifaceted ecosystem where investors and traders continuously seek methods to gain an advantage in making well-informed decisions. Amidst this drive for superior market insight, the Net Order Imbalance Indicator (NOII) has emerged as a significant tool, offering valuable insights into market dynamics. NOII is becoming increasingly important for its capacity to provide real-time data on order imbalances, which is essential for understanding the supply and demand dynamics of securities.

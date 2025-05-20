@@ -1,6 +1,14 @@
 ---
-title: "Profit Factor Explained (Algo Trading)"
-description: Explore the intricacies of the Profit Factor in algorithmic trading with this comprehensive guide. Understand how this key metric evaluates profitability and risk management by analyzing the ratio of gross profits to gross losses. Learn how traders, hedge funds, and financial institutions can leverage the Profit Factor to optimize trading strategies, appreciate risk-return trade-offs, and make informed decisions in a competitive market. Discover the significance of balancing the Profit Factor with other metrics like the Sharpe Ratio for a robust assessment of strategy performance.
+category: trading_strategy
+description: Explore the intricacies of the Profit Factor in algorithmic trading with
+  this comprehensive guide. Understand how this key metric evaluates profitability
+  and risk management by analyzing the ratio of gross profits to gross losses. Learn
+  how traders, hedge funds, and financial institutions can leverage the Profit Factor
+  to optimize trading strategies, appreciate risk-return trade-offs, and make informed
+  decisions in a competitive market. Discover the significance of balancing the Profit
+  Factor with other metrics like the Sharpe Ratio for a robust assessment of strategy
+  performance.
+title: Profit Factor Explained (Algo Trading)
 ---
 
 The world of trading is characterized by its inherent volatility and constant movement, demanding innovative strategies to consistently generate profits. Amidst this dynamic environment, algorithmic trading has emerged as a prominent approach due to its precision and efficiency. This method utilizes computer programs to execute trades based on pre-defined criteria, allowing traders to capitalize on the rapid shifts in the market without the limitations of human intervention.

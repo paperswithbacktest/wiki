@@ -1,6 +1,9 @@
 ---
-title: "Principal-Protected Notes: Benefits and Risks (Algo Trading)"
-description: "Explore the benefits and risks of Principal-Protected Notes, tailored for risk-averse investors. Understand how algo trading can enhance these secure investment instruments."
+category: quant_concept
+description: Explore the benefits and risks of Principal-Protected Notes, tailored
+  for risk-averse investors. Understand how algo trading can enhance these secure
+  investment instruments.
+title: 'Principal-Protected Notes: Benefits and Risks (Algo Trading)'
 ---
 
 Principal-Protected Notes (PPNs) are financial instruments that offer a blend of security and growth potential, primarily targeting risk-averse investors. These investment products integrate bonds and options, creating a structure where the principal amount is protected while providing the possibility of upside returns linked to market performance. Typically, PPNs guarantee the return of the initial investment at maturity, aligning them with the interests of investors seeking to mitigate risk.

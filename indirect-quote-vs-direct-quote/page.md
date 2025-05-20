@@ -1,6 +1,8 @@
 ---
-title: "Indirect Quote vs. Direct Quote (Algo Trading)"
-description: "Explore the role of direct and indirect quotes in forex trading and the impact of algorithmic trading on these processes for better trading outcomes."
+category: quant_concept
+description: Explore the role of direct and indirect quotes in forex trading and the
+  impact of algorithmic trading on these processes for better trading outcomes.
+title: Indirect Quote vs. Direct Quote (Algo Trading)
 ---
 
 Foreign exchange trading is characterized by a variety of terms and concepts critical to understanding market dynamics, with direct and indirect quotes being among the most fundamental. These quote types significantly influence how exchange rates are determined and shape trading strategies in the forex market. Direct quotes represent the domestic currency as the base while expressing its value in terms of a foreign currency, simplifying transactions for traders within domestic markets. Conversely, indirect quotes invert this relationship, displaying the foreign currency as the base currency. Both types of quotes are pivotal in executing trades effectively, especially in regions where specific quote formats are prevalent due to tradition or market dominance.

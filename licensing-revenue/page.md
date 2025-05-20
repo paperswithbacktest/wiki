@@ -1,6 +1,9 @@
 ---
-title: "Licensing Revenue (Algo Trading)"
-description: "Explore how licensing in algorithmic trading generates revenue while enhancing market performance by monetizing proprietary algorithms and fostering innovation."
+category: quant_concept
+description: Explore how licensing in algorithmic trading generates revenue while
+  enhancing market performance by monetizing proprietary algorithms and fostering
+  innovation.
+title: Licensing Revenue (Algo Trading)
 ---
 
 Algorithmic trading has significantly transformed the financial markets by facilitating rapid and efficient execution of trades. This evolution emphasizes speed and precision, often surpassing human capabilities. Crucial to this advancement is the role of Intellectual Property (IP), particularly proprietary algorithms that furnish firms with a competitive edge. These algorithms, embodying derivative strategies and data-driven insights, remain a closely guarded secret and are often zealously protected as intellectual assets.

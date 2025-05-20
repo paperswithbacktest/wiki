@@ -1,6 +1,8 @@
 ---
-title: "Adoption of Blockchain in Health Care (Algo Trading)"
-description: "Explore how blockchain and algorithmic trading are transforming healthcare by enhancing data security, optimizing resources, and improving patient outcomes."
+category: quant_concept
+description: Explore how blockchain and algorithmic trading are transforming healthcare
+  by enhancing data security, optimizing resources, and improving patient outcomes.
+title: Adoption of Blockchain in Health Care (Algo Trading)
 ---
 
 The rapid advancement of technology in the 21st century has led to transformative changes in various industries, with healthcare being at the forefront of this evolution. A significant development in this domain is the integration of blockchain technology and algorithmic trading, which fundamentally alters how healthcare operations are conducted. Blockchain, with its decentralized and immutable ledger system, offers unprecedented data security and privacy, making it a formidable tool for managing sensitive patient information. Meanwhile, algorithmic trading introduces sophisticated data analysis and predictive capabilities, borrowing principles akin to those used in financial markets to optimize resources and decision-making processes in healthcare settings.

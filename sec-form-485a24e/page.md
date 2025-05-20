@@ -1,6 +1,9 @@
 ---
-title: "SEC Form 485A24E (Algo Trading)"
-description: "Explore the significance of SEC Form 485A24E for investment companies as it aligns with the rapidly evolving algorithmic trading, emphasizing compliance and innovation."
+category: quant_concept
+description: Explore the significance of SEC Form 485A24E for investment companies
+  as it aligns with the rapidly evolving algorithmic trading, emphasizing compliance
+  and innovation.
+title: SEC Form 485A24E (Algo Trading)
 ---
 
 In the world of investing, regulatory forms play a significant role in ensuring transparency and compliance. Investment companies must navigate a plethora of regulatory requirements to maintain trust and operational integrity. One such important document is the SEC Form 485A24E, which holds particular relevance for investment companies managing separate accounts. This form is crucial, as it provides detailed information about securities offerings and investment strategies, aligning with the regulatory mandates of the Securities and Exchange Commission (SEC).

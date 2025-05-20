@@ -1,6 +1,8 @@
 ---
-title: "Factor Investing and Strategy Mechanics (Algo Trading)"
-description: "Explore factor investing and algorithmic trading, powerful financial strategies enhancing returns and managing risks with quantitative methods and technology."
+category: trading_strategy
+description: Explore factor investing and algorithmic trading, powerful financial
+  strategies enhancing returns and managing risks with quantitative methods and technology.
+title: Factor Investing and Strategy Mechanics (Algo Trading)
 ---
 
 This article explores the intricate world of financial strategies, specifically focusing on investment strategies like factor investing and algorithmic trading. These strategies have transformed how investors approach portfolios by enhancing performance, managing risks, and optimizing returns. Factor investing involves selecting securities based on attributes or "factors" that have been historically linked to higher returns, such as growth versus value, size, momentum, and quality. Meanwhile, algorithmic trading leverages computer programs to execute trades efficiently, often mitigating human emotion's impact on trading decisions. 

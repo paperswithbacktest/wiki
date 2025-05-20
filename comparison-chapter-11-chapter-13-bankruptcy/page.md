@@ -1,6 +1,9 @@
 ---
-title: "Comparison of Chapter 11 and Chapter 13 Bankruptcy (Algo Trading)"
-description: "Discover key differences between Chapter 11 and Chapter 13 bankruptcy for debt reorganization Learn about their unique benefits and how algo trading impacts decisions"
+category: quant_concept
+description: Discover key differences between Chapter 11 and Chapter 13 bankruptcy
+  for debt reorganization Learn about their unique benefits and how algo trading impacts
+  decisions
+title: Comparison of Chapter 11 and Chapter 13 Bankruptcy (Algo Trading)
 ---
 
 Understanding bankruptcy options is essential for both individuals and businesses facing financial challenges. Bankruptcy provides a legal framework for managing debt, and two significant options are Chapter 11 and Chapter 13. Each caters to different needs and circumstances, with Chapter 11 primarily serving businesses and Chapter 13 designed for individuals with a steady income.

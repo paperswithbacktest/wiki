@@ -1,6 +1,9 @@
 ---
-title: "Constant Currency Calculations and Examples (Algo Trading)"
-description: "Explore constant currency analysis and algorithmic trading to manage currency fluctuations in global finance Optimize financial outcomes with advanced tools and strategies"
+category: quant_concept
+description: Explore constant currency analysis and algorithmic trading to manage
+  currency fluctuations in global finance Optimize financial outcomes with advanced
+  tools and strategies
+title: Constant Currency Calculations and Examples (Algo Trading)
 ---
 
 In the complex world of finance, understanding currency dynamics is crucial for businesses and investors alike. The fluctuations in currency values can significantly impact the financial performance of companies operating across different regions. This underscores the need for robust mechanisms to analyze and manage these variations to provide clear insights into operational performance and facilitate informed decision-making.

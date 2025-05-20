@@ -1,6 +1,12 @@
 ---
-title: "Mathematics of Betting Odds and Gambling (Algo Trading)"
-description: "Explore the intricate relationship between mathematics and gambling as cutting-edge algorithms and mathematical principles redefine betting odds and strategies. Learn how probability theory assists bettors in making informed decisions and discover the role of algorithmic trading in enhancing betting performance. This guide investigates into traditional and modern gambling methodologies, offering valuable insights into risk management and strategic advancements in the industry."
+category: quant_concept
+description: Explore the intricate relationship between mathematics and gambling as
+  cutting-edge algorithms and mathematical principles redefine betting odds and strategies.
+  Learn how probability theory assists bettors in making informed decisions and discover
+  the role of algorithmic trading in enhancing betting performance. This guide investigates
+  into traditional and modern gambling methodologies, offering valuable insights into
+  risk management and strategic advancements in the industry.
+title: Mathematics of Betting Odds and Gambling (Algo Trading)
 ---
 
 In a world where technology and mathematics have reshaped numerous industries, the gambling sector is no exception. The influence of mathematical principles and sophisticated algorithms in gambling is significant, primarily seen in the determination of betting odds and the application of algorithmic trading strategies. These advancements have transformed traditional betting practices, providing tools for more informed decision-making processes among bettors and traders.

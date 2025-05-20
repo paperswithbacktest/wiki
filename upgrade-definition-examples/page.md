@@ -1,6 +1,8 @@
 ---
-title: "Upgrade: Definition and Examples (Algo Trading)"
-description: "Discover the impact of upgrades in algorithmic trading. Learn how analyst ratings influence market decisions and explore strategies for profitable investing."
+category: quant_concept
+description: Discover the impact of upgrades in algorithmic trading. Learn how analyst
+  ratings influence market decisions and explore strategies for profitable investing.
+title: 'Upgrade: Definition and Examples (Algo Trading)'
 ---
 
 In the fast-paced world of financial markets, upgrades are a significant factor in shaping investment decisions. These changes in the evaluation of securities stem from an analyst's improved outlook, influenced by advancements in a company’s fundamentals. Upgrades are pivotal in guiding investors and traders through volatile market environments, presenting new opportunities for reallocation of portfolios.

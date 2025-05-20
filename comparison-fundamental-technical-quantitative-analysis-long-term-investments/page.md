@@ -1,6 +1,10 @@
 ---
-title: "Comparison of Fundamental, Technical, and Quantitative Analysis for Long-Term Investments (Algo Trading)"
-description: "Explore the strengths of fundamental technical and quantitative analysis in algorithmic trading for long-term investments to maximize returns and minimize risk."
+category: trading_strategy
+description: Explore the strengths of fundamental technical and quantitative analysis
+  in algorithmic trading for long-term investments to maximize returns and minimize
+  risk.
+title: Comparison of Fundamental, Technical, and Quantitative Analysis for Long-Term
+  Investments (Algo Trading)
 ---
 
 Long-term investments are crucial for building wealth over time and achieving significant financial milestones such as retirement. They allow investors to capitalize on the potential growth of their assets while mitigating the impact of short-term market fluctuations. Successfully navigating long-term investments requires a comprehensive understanding of various analytical techniques that inform decision-making and strategy formulation. These techniques include fundamental analysis, quantitative analysis, technical analysis, and algorithmic trading.

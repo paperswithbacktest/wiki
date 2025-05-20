@@ -1,6 +1,9 @@
 ---
-title: "Demonetization: Concept and Application (Algo Trading)"
-description: "Explore the intricacies of demonetization and algorithmic trading and their profound impacts on economic policies and financial markets in today's digital era."
+category: quant_concept
+description: Explore the intricacies of demonetization and algorithmic trading and
+  their profound impacts on economic policies and financial markets in today's digital
+  era.
+title: 'Demonetization: Concept and Application (Algo Trading)'
 ---
 
 Economic policies such as currency withdrawal, demonetization, and monetary policy are pivotal in shaping the financial landscape, directly influencing investment strategies, business operations, and policy decisions. The effectiveness of these policies hinges on their intricate mechanisms, which can have far-reaching implications for both stability and growth within an economy.

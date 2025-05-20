@@ -1,6 +1,9 @@
 ---
-title: "Components of Risk Premium (Algo Trading)"
-description: "Explore the intricacies of risk premiums in algorithmic trading and their impact on investment decisions. Learn how to balance potential returns and investment risks."
+category: quant_concept
+description: Explore the intricacies of risk premiums in algorithmic trading and their
+  impact on investment decisions. Learn how to balance potential returns and investment
+  risks.
+title: Components of Risk Premium (Algo Trading)
 ---
 
 In the rapidly evolving world of finance, understanding the risks associated with investments is crucial for any investor. This article explores the intricate components of investment risk, including the risk premium and its role in financial investments. The risk premium represents the additional return an investor expects over a risk-free rate as compensation for the potential risks involved. It plays a pivotal role in shaping investment decisions by balancing potential returns against associated risks.

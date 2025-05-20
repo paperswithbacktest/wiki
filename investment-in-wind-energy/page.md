@@ -1,6 +1,9 @@
 ---
-title: "Investment in Wind Energy (Algo Trading)"
-description: "Explore the potential of investing in wind energy with insights into market opportunities including equities ETFs green bonds and the impact of algorithmic trading."
+category: trading_strategy
+description: Explore the potential of investing in wind energy with insights into
+  market opportunities including equities ETFs green bonds and the impact of algorithmic
+  trading.
+title: Investment in Wind Energy (Algo Trading)
 ---
 
 In recent years, renewable energy has become a focal point of global efforts to reduce carbon emissions and combat climate change. The transition from fossil fuels to cleaner, sustainable energy sources is critical to meeting international climate targets and securing a sustainable future. Among various forms of renewable energy, wind power stands out due to its rapid growth and increasing contribution to the global energy mix. Wind energy is not only abundant and inexhaustible but also one of the lowest-cost sources of new electricity on a global scale, making it an attractive option for energy transition strategies.

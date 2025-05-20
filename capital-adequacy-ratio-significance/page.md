@@ -1,6 +1,8 @@
 ---
-title: "Capital Adequacy Ratio Significance (Algo Trading)"
-description: "Explore the significance of the Capital Adequacy Ratio in banking stability and its interplay with algorithmic trading for a future-proof financial environment."
+category: quant_concept
+description: Explore the significance of the Capital Adequacy Ratio in banking stability
+  and its interplay with algorithmic trading for a future-proof financial environment.
+title: Capital Adequacy Ratio Significance (Algo Trading)
 ---
 
 The financial landscape has witnessed profound transformations over the past few decades, particularly with advancements in banking regulation and maintaining financial stability. Central to this transformation is the concept of the Capital Adequacy Ratio (CAR), a crucial metric for ensuring that financial institutions remain solvent and robust against potential economic adversities. CAR acts as a buffer, allowing banks to absorb losses while protecting the interests of depositors and maintaining trust in the financial system.

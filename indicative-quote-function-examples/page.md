@@ -1,6 +1,9 @@
 ---
-title: "Indicative Quote: Function and Examples (Algo Trading)"
-description: "Explore the significance of indicative quotes and algorithmic trading in financial markets Discover how these concepts enhance trading efficiency and decision-making"
+category: quant_concept
+description: Explore the significance of indicative quotes and algorithmic trading
+  in financial markets Discover how these concepts enhance trading efficiency and
+  decision-making
+title: 'Indicative Quote: Function and Examples (Algo Trading)'
 ---
 
 In financial markets, understanding key concepts like indicative quotes and algorithmic trading is essential for both novice and experienced traders. Financial markets are complex systems where numerous variables interact, and having a solid grasp of these key concepts can significantly aid in making informed trading decisions.

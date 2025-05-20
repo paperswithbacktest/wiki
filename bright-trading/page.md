@@ -1,6 +1,14 @@
 ---
-title: "Bright Trading (Algo Trading)"
-description: Bright trading in algorithmic trading employs advanced strategies and technologies for efficient market engagement, reducing human errors through automated execution at high speeds. It enhances decision-making with cutting-edge indicators, thus bridging traditional and modern trading methods. This approach leverages algorithms to process vast data swiftly, optimizing trade execution with minimal human intervention. The article explores the benefits, strategies, and indicators that enhance bright trading, offering a comprehensive overview of its potential to boost trading performance in evolving financial markets.
+category: quant_concept
+description: Bright trading in algorithmic trading employs advanced strategies and
+  technologies for efficient market engagement, reducing human errors through automated
+  execution at high speeds. It enhances decision-making with cutting-edge indicators,
+  thus bridging traditional and modern trading methods. This approach leverages algorithms
+  to process vast data swiftly, optimizing trade execution with minimal human intervention.
+  The article explores the benefits, strategies, and indicators that enhance bright
+  trading, offering a comprehensive overview of its potential to boost trading performance
+  in evolving financial markets.
+title: Bright Trading (Algo Trading)
 ---
 
 Bright trading in algorithmic trading refers to the use of sophisticated trading strategies and technologies to profit from market trends and inefficiencies. Algorithmic trading, often abbreviated as algo trading, utilizes computer programs specifically designed to execute trades at exceptionally high speeds based on a set of predefined criteria. This automation in trading enhances the ability to manage risk effectively while simultaneously operating on a scale that is challenging for human traders to match. The key advantage here is the capability to execute large volumes of trades with minimal human intervention, reducing errors and inefficiencies associated with manual trading practices.

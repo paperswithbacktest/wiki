@@ -1,6 +1,9 @@
 ---
-title: "Comparison of Dividend Rate and Dividend Yield (Algo Trading)"
-description: "Explore the nuances between dividend rate and dividend yield in dividend investing Discover how algorithmic trading enhances these investment strategies for optimal returns"
+category: trading_strategy
+description: Explore the nuances between dividend rate and dividend yield in dividend
+  investing Discover how algorithmic trading enhances these investment strategies
+  for optimal returns
+title: Comparison of Dividend Rate and Dividend Yield (Algo Trading)
 ---
 
 Dividend investing is a strategy focused on acquiring shares of companies that distribute a portion of their earnings to shareholders in the form of dividends. This approach is popular among investors seeking to generate passive income, as it provides a regular income stream in addition to any potential capital gains from stock price appreciation. Dividend income can be reinvested to purchase more shares, thereby compounding returns over time, or used to supplement personal income, making it especially appealing to retirees and income-focused investors.

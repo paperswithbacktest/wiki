@@ -1,6 +1,9 @@
 ---
-title: "Global Macro Strategy and Types of Funds (Algo Trading)"
-description: "Explore global macro strategy and algorithmic trading in investment funds using macroeconomic trends to inform decisions across asset classes like currencies and equities."
+category: trading_strategy
+description: Explore global macro strategy and algorithmic trading in investment funds
+  using macroeconomic trends to inform decisions across asset classes like currencies
+  and equities.
+title: Global Macro Strategy and Types of Funds (Algo Trading)
 ---
 
 Understanding the landscape of investment funds, particularly those employing a global macro strategy, is critical in today’s interconnected financial markets. Global macro strategies involve leveraging macroeconomic trends to make informed investment decisions across diverse asset classes such as currencies, equities, and commodities. By focusing on these broader economic indicators, investors can position assets strategically to capitalize on predicted economic and geopolitical shifts.

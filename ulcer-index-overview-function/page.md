@@ -1,6 +1,9 @@
 ---
-title: "Ulcer Index: Overview and Function (Algo Trading)"
-description: "Discover the Ulcer Index a unique risk metric in algorithmic trading that focuses on downside risk helping investors better manage portfolio stress during downturns."
+category: quant_concept
+description: Discover the Ulcer Index a unique risk metric in algorithmic trading
+  that focuses on downside risk helping investors better manage portfolio stress during
+  downturns.
+title: 'Ulcer Index: Overview and Function (Algo Trading)'
 ---
 
 In the dynamic landscape of financial trading, managing risk is paramount for maintaining investor confidence and securing long-term success. Effective risk management allows investors to mitigate potential losses and enhance portfolio resilience, fostering confidence in market participation. Within this context, the Ulcer Index (UI) emerges as an innovative tool, specifically focused on measuring downside risk—a crucial aspect often neglected by traditional volatility measures.

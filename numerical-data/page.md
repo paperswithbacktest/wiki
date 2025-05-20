@@ -1,7 +1,8 @@
 ---
-title: Understanding Numerical Data in Machine Learning Applications
+category: quant_concept
 description: Numerical data drives machine learning by enabling precise calculations
   scaling and feature selection for better predictions Discover more inside.
+title: Understanding Numerical Data in Machine Learning Applications
 ---
 
 ![Image](images/1.jpeg)

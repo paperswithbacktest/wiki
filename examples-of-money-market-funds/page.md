@@ -1,6 +1,8 @@
 ---
-title: "Examples of Money Market Funds (Algo Trading)"
-description: "Learn about money market funds and algorithmic trading to enhance your investment strategy Explore their benefits and role in optimizing financial decisions"
+category: quant_concept
+description: Learn about money market funds and algorithmic trading to enhance your
+  investment strategy Explore their benefits and role in optimizing financial decisions
+title: Examples of Money Market Funds (Algo Trading)
 ---
 
 The financial landscape is abundant with diverse investment options, each bringing forth its own set of advantages and challenges. Among these options, money market funds and algorithmic trading have emerged as significant components of modern investment strategies. This article aims to provide a comprehensive understanding of these elements and their roles in optimizing investment decisions.

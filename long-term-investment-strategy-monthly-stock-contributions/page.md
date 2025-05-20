@@ -1,6 +1,10 @@
 ---
-title: "Long-Term Investment Strategy: Monthly Stock Contributions Over Three Decades (Algo Trading)"
-description: "Explore a robust long-term investment strategy by combining monthly stock contributions with algorithmic trading. Benefit from disciplined growth and data-driven insights."
+category: trading_strategy
+description: Explore a robust long-term investment strategy by combining monthly stock
+  contributions with algorithmic trading. Benefit from disciplined growth and data-driven
+  insights.
+title: 'Long-Term Investment Strategy: Monthly Stock Contributions Over Three Decades
+  (Algo Trading)'
 ---
 
 In today's financial landscape, exploring diverse investment strategies is crucial for building long-term wealth. A strategic approach to this involves a combination of monthly stock contributions and algorithmic trading. Small, regular investments can form a robust foundation for an investor's portfolio by allowing for disciplined contributions that benefit from compound growth over time. On the technological front, algorithmic trading plays a significant role by leveraging data-driven insights and automation to enhance investment strategies.

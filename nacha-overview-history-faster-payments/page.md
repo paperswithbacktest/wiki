@@ -1,6 +1,10 @@
 ---
-title: "Nacha: Overview, Historical Development, and Role in Faster Payments (Algo Trading)"
-description: "Explore how Nacha transforms payments and impacts algorithmic trading with efficient transactions enhancing speed and strategy in an evolving financial landscape."
+category: quant_concept
+description: Explore how Nacha transforms payments and impacts algorithmic trading
+  with efficient transactions enhancing speed and strategy in an evolving financial
+  landscape.
+title: 'Nacha: Overview, Historical Development, and Role in Faster Payments (Algo
+  Trading)'
 ---
 
 The concept of faster payments is revolutionizing modern financial transactions, allowing both consumers and businesses to transfer funds almost instantaneously. Central to the faster payments infrastructure in the United States is Nacha, the organization responsible for overseeing the Automated Clearing House (ACH) Network. Nacha's influence has not only transformed how transactions are conducted but also plays a significant role in algorithmic trading.

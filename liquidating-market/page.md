@@ -1,6 +1,9 @@
 ---
-title: "Liquidating Market (Algo Trading)"
-description: "Explore the impact of liquidating markets on investments and trading with insights into algorithmic trading. Understand market dynamics and decision-making in volatile conditions."
+category: quant_concept
+description: Explore the impact of liquidating markets on investments and trading
+  with insights into algorithmic trading. Understand market dynamics and decision-making
+  in volatile conditions.
+title: Liquidating Market (Algo Trading)
 ---
 
 Understanding the dynamics of financial markets is fundamental for both investors and traders. One of the critical concepts in this context is a liquidating market, which has significant implications for financial decision-making. Market liquidation involves the extensive selling of securities, often resulting in downward pressure on asset prices. This phenomenon can be triggered by a range of factors, including economic downturns, financial bubbles bursting, or a significant shift in investor sentiment leading to a sell-off.

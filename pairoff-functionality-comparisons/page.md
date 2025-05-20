@@ -1,6 +1,8 @@
 ---
-title: "Pairoff: Functionality and Comparisons (Algo Trading)"
-description: "Explore algorithmic trading with a focus on pairoff transactions Learn how these strategies streamline operations mitigate risks and enhance market efficiency"
+category: quant_concept
+description: Explore algorithmic trading with a focus on pairoff transactions Learn
+  how these strategies streamline operations mitigate risks and enhance market efficiency
+title: 'Pairoff: Functionality and Comparisons (Algo Trading)'
 ---
 
 The financial world is undergoing continuous transformation, driven by innovative strategies and emerging concepts which significantly influence investment decisions. Among these, algorithmic trading and economic strategies are pioneering advancements that enhance the efficiency of financial operations. This article focuses on exploring these economic strategies, with particular emphasis on the novel concept of a 'pairoff' in financial operations.

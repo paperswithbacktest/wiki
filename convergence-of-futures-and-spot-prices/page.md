@@ -1,6 +1,9 @@
 ---
-title: "Convergence of Futures and Spot Prices (Algo Trading)"
-description: "Explore the fascinating dynamics of futures and spot price convergence in trading Learn how algorithmic trading and arbitrage drive market efficiency and price alignment"
+category: quant_concept
+description: Explore the fascinating dynamics of futures and spot price convergence
+  in trading Learn how algorithmic trading and arbitrage drive market efficiency and
+  price alignment
+title: Convergence of Futures and Spot Prices (Algo Trading)
 ---
 
 In the complex world of trading and investments, two essential concepts that investors frequently encounter are futures prices and spot prices. Futures prices are predetermined rates agreed upon today for transactions that will occur at a specified future date, while spot prices represent the current market value for immediate delivery of securities or commodities. These price mechanisms are fundamental in financial markets as they offer critical insights into market expectations, liquidity levels, and risk management strategies.

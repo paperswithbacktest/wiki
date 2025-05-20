@@ -1,6 +1,8 @@
 ---
-title: "Real Estate Derivatives: Overview and Advantages (Algo Trading)"
-description: "Explore how real estate derivatives and algo trading enhance investment strategies offering risk management portfolio diversification and market efficiency."
+category: quant_concept
+description: Explore how real estate derivatives and algo trading enhance investment
+  strategies offering risk management portfolio diversification and market efficiency.
+title: 'Real Estate Derivatives: Overview and Advantages (Algo Trading)'
 ---
 
 In the evolving landscape of financial markets, various tools and strategies have been introduced to optimize investment portfolios. Investors continually seek methods to maximize returns while managing risks, and innovative financial instruments and technologies have emerged to meet these demands. Among the prominent players in this arena are financial instruments such as real estate derivatives and the innovative approach of algorithmic trading, commonly known as 'algo trading'. These two elements illustrate the intersection of traditional market practices with technology-driven advancements, offering unique opportunities and efficiencies.

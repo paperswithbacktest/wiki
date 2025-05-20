@@ -1,7 +1,8 @@
 ---
-title: Optimizing Reinforcement Learning with Experience Replay
+category: quant_concept
 description: Experience Replay improves reinforcement learning by randomizing past
   experiences to break data correlations and reinforce memory. Discover more inside.
+title: Optimizing Reinforcement Learning with Experience Replay
 ---
 
 ![Image](images/1.png)

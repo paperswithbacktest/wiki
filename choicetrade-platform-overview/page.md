@@ -1,6 +1,9 @@
 ---
-title: "ChoiceTrade Platform Overview (Algo Trading)"
-description: "Discover ChoiceTrade's low-cost options for algorithmic trading boosting market access and efficiency for both novice and experienced traders with innovative tools."
+category: dataset
+description: Discover ChoiceTrade's low-cost options for algorithmic trading boosting
+  market access and efficiency for both novice and experienced traders with innovative
+  tools.
+title: ChoiceTrade Platform Overview (Algo Trading)
 ---
 
 ChoiceTrade is a U.S.-based brokerage firm that has carved a niche for itself by offering low-cost options trading, appealing to both novice and seasoned traders. Established with a focus on reducing trading costs, ChoiceTrade provides an accessible way for active and self-directed investors to engage in options and stock trading. The brokerage's competitive pricing structure, noted for its commission-free trades for stocks and ETFs and low-cost options trading at $0.40 per contract, plays a significant role in attracting cost-conscious traders who seek to maximize their trading efficiencies.

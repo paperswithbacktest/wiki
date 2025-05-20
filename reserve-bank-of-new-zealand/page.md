@@ -1,6 +1,8 @@
 ---
-title: "Reserve Bank of New Zealand (Algo Trading)"
-description: "Explore the Reserve Bank of New Zealand's vital role in economic stability focusing on monetary policy and the impact of algorithmic trading on financial markets."
+category: quant_concept
+description: Explore the Reserve Bank of New Zealand's vital role in economic stability
+  focusing on monetary policy and the impact of algorithmic trading on financial markets.
+title: Reserve Bank of New Zealand (Algo Trading)
 ---
 
 The Reserve Bank of New Zealand (RBNZ) plays a crucial part in maintaining the stability of the nation's financial system. As New Zealand's central bank, it is primarily responsible for ensuring the soundness of the financial framework, influencing economic activity within the country. To accomplish this, the RBNZ implements monetary policy strategies, regulates financial institutions, and issues New Zealand's currency.

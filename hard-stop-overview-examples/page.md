@@ -1,6 +1,8 @@
 ---
-title: "Hard Stop: Overview and Examples (Algo Trading)"
-description: "Learn about the crucial role of hard stops in algorithmic trading to manage risks and enhance trade stability with predefined exit strategies."
+category: trading_strategy
+description: Learn about the crucial role of hard stops in algorithmic trading to
+  manage risks and enhance trade stability with predefined exit strategies.
+title: 'Hard Stop: Overview and Examples (Algo Trading)'
 ---
 
 The increasing complexity of financial markets has necessitated the evolution of sophisticated trading mechanisms, one of which is algorithmic trading. Algorithmic trading involves the use of computer programs to automate the process of trading financial securities, using pre-defined strategies that can execute orders at speeds and frequencies beyond human capability. A core component of this type of trading is the use of risk management tools. Hard stops stand out as a crucial method, designed to mitigate the risks associated with this high-speed trading environment.

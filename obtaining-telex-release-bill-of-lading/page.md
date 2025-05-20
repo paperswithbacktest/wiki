@@ -1,6 +1,8 @@
 ---
-title: "Obtaining a Telex Release for a Bill of Lading (Algo Trading)"
-description: "Explore the streamlined process of obtaining a Telex Release for a Bill of Lading and discover how algo trading optimizes logistics in global shipping."
+category: quant_concept
+description: Explore the streamlined process of obtaining a Telex Release for a Bill
+  of Lading and discover how algo trading optimizes logistics in global shipping.
+title: Obtaining a Telex Release for a Bill of Lading (Algo Trading)
 ---
 
 In the fast-paced world of international trade and shipping, documentation plays a crucial role in ensuring the smooth movement of goods across borders. The Bill of Lading (BL), a key document in this process, serves not only as a receipt for the merchandise but also as a contract and a document of title. The BL has evolved over time, with variants like the Telex Release further simplifying and expediting the shipping processes by allowing the release of goods without needing the original physical document.

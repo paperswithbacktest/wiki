@@ -1,6 +1,8 @@
 ---
-title: "Comparison of Consumer Surplus and Economic Surplus (Algo Trading)"
-description: "Explore how consumer surplus and economic surplus concepts enhance algorithmic trading strategies by analyzing market dynamics to optimize profitability and efficiency."
+category: quant_concept
+description: Explore how consumer surplus and economic surplus concepts enhance algorithmic
+  trading strategies by analyzing market dynamics to optimize profitability and efficiency.
+title: Comparison of Consumer Surplus and Economic Surplus (Algo Trading)
 ---
 
 In contemporary financial markets, possessing a robust understanding of economic concepts like consumer surplus and economic surplus can significantly enhance one's competitive positioning. Algorithmic trading, or algo trading, is an advanced practice in the finance industry that capitalizes on these economic concepts to refine trading strategies and maximize profit margins. This article provides a thorough exploration of consumer surplus and economic surplus, examining their definitions, applications, and roles in market analysis and the development of algorithmic trading strategies. 

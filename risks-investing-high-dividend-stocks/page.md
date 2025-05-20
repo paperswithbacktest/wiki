@@ -1,6 +1,8 @@
 ---
-title: "Risks Associated with Investing in High Dividend Stocks (Algo Trading)"
-description: "Explore the risks of investing in high dividend stocks and learn strategies to mitigate them using technology like algorithmic trading for informed decisions."
+category: trading_strategy
+description: Explore the risks of investing in high dividend stocks and learn strategies
+  to mitigate them using technology like algorithmic trading for informed decisions.
+title: Risks Associated with Investing in High Dividend Stocks (Algo Trading)
 ---
 
 High dividend stocks are a significant part of the investment landscape, offering both enticing opportunities and notable risks for income-focused investors. These stocks often appeal to those attracted by the prospect of steady income streams through regular dividend payouts. However, the lure of high dividends can sometimes mask underlying challenges, making it essential to approach dividend investing with a critical eye.

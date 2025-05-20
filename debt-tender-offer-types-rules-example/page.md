@@ -1,6 +1,9 @@
 ---
-title: "Debt Tender Offer: Types, Rules, and Example (Algo Trading)"
-description: "Explore the importance of bond repurchases and debt tender offers as corporate finance strategies influenced by regulatory compliance and algorithmic trading innovations."
+category: trading_strategy
+description: Explore the importance of bond repurchases and debt tender offers as
+  corporate finance strategies influenced by regulatory compliance and algorithmic
+  trading innovations.
+title: 'Debt Tender Offer: Types, Rules, and Example (Algo Trading)'
 ---
 
 In the complex world of financial markets, bond repurchase and debt tender offers are crucial strategies for managing corporate finances effectively. Bond repurchase allows companies to buy back their bonds, often to reduce liabilities or capitalize on favorable market conditions. On the other hand, debt tender offers involve a company's proposal to repurchase its outstanding debt securities before they reach maturity. Both strategies serve important functions in adjusting a company's capital structure and managing interest expenses efficiently. 

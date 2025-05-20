@@ -1,6 +1,8 @@
 ---
-title: "Amazon's Competitive Strategies Against Google (Algo Trading)"
-description: "Explore Amazon's competitive strategies in algorithmic trading as it rivals Google focusing on their strengths in AI cloud computing and financial technologies"
+category: trading_strategy
+description: Explore Amazon's competitive strategies in algorithmic trading as it
+  rivals Google focusing on their strengths in AI cloud computing and financial technologies
+title: Amazon's Competitive Strategies Against Google (Algo Trading)
 ---
 
 The competitive landscape between Google and Amazon, two titans in the tech industry, is a significant driver of innovation and economic transformation globally. Both companies have extended their influence beyond their core operations—Google in search and advertising, Amazon in e-commerce and cloud computing—into various technological domains, one of which is algorithmic trading. This area is an intersection of finance and technology that leverages computational algorithms to automate trading processes, optimize trading decisions, and enhance market efficiencies.

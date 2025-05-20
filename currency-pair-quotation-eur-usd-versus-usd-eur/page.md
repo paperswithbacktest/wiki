@@ -1,6 +1,8 @@
 ---
-title: "Currency Pair Quotation of EUR/USD Versus USD/EUR (Algo Trading)"
-description: "Explore the pivotal role of EUR/USD in forex trading and discover how algorithmic trading enhances efficiency and precision for optimal trading outcomes."
+category: quant_concept
+description: Explore the pivotal role of EUR/USD in forex trading and discover how
+  algorithmic trading enhances efficiency and precision for optimal trading outcomes.
+title: Currency Pair Quotation of EUR/USD Versus USD/EUR (Algo Trading)
 ---
 
 The EUR/USD currency pair stands as the cornerstone of global forex trading, representing the economic relationship between the Euro and the U.S. Dollar. It is the most actively traded currency pair worldwide, known for its high liquidity and tight spreads, which appeal to traders and institutional investors alike. The pair acts as a barometer of economic health for both the Eurozone and the United States, reflecting changes in economic policies, interest rates, and financial stability.

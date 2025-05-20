@@ -1,6 +1,8 @@
 ---
-title: "Economic Impact of a Strong US Dollar (Algo Trading)"
-description: "Explore the profound effects of a strong US dollar on global trade, investments, and emerging markets with insights into algorithmic trading and currency valuation."
+category: trading_strategy
+description: Explore the profound effects of a strong US dollar on global trade, investments,
+  and emerging markets with insights into algorithmic trading and currency valuation.
+title: Economic Impact of a Strong US Dollar (Algo Trading)
 ---
 
 The global economic climate today is characterized by significant volatility and rapid changes influenced by a multitude of factors including geopolitical tensions, technological advancements, and shifting consumer preferences. One of the key elements in this dynamic environment is the currency market, where the valuation of national currencies plays a crucial role in shaping economic policies and influencing international trade.

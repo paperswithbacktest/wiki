@@ -1,6 +1,9 @@
 ---
-title: "B-Money: Overview, Objectives, and Bitcoin Comparison (Algo Trading)"
-description: "Explore the historical and technological evolution of cryptocurrencies by comparing Bitcoin and B-Money and delve into the impact of algorithmic trading on crypto markets."
+category: quant_concept
+description: Explore the historical and technological evolution of cryptocurrencies
+  by comparing Bitcoin and B-Money and delve into the impact of algorithmic trading
+  on crypto markets.
+title: 'B-Money: Overview, Objectives, and Bitcoin Comparison (Algo Trading)'
 ---
 
 Cryptocurrencies have increasingly captured the attention of both individual and institutional investors, driven by the promise of decentralization, security, and potentially high returns. Bitcoin, created in 2009 by the pseudonymous developer Satoshi Nakamoto, stands as the first and most influential cryptocurrency. Its introduction marked a paradigm shift in digital finance, showcasing blockchain technology as a decentralized ledger system and paving the way for a plethora of alternative digital currencies. Bitcoin's role as a pioneer has established it not only as a medium of exchange but also as a store of value, often likened to "digital gold" due to its limited supply and resistance to inflationary pressures.

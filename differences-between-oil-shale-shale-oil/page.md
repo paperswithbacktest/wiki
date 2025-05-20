@@ -1,6 +1,8 @@
 ---
-title: "Differences Between Oil Shale and Shale Oil (Algo Trading)"
-description: "Explore the key distinctions between shale oil and oil shale, their extraction processes, and the impact of algorithmic trading on the energy market dynamics."
+category: quant_concept
+description: Explore the key distinctions between shale oil and oil shale, their extraction
+  processes, and the impact of algorithmic trading on the energy market dynamics.
+title: Differences Between Oil Shale and Shale Oil (Algo Trading)
 ---
 
 The energy sector is integral to the global economy, playing a decisive role in shaping geopolitical dynamics and influencing economic stability. Within this sector, oil maintains a pivotal position as a primary energy source. Recently, shale oil and oil shale have emerged as prominent topics within the industry. However, they are frequently misunderstood and used interchangeably, despite their distinct characteristics and extraction processes.

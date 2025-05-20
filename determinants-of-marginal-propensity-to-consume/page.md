@@ -1,6 +1,8 @@
 ---
-title: "Determinants of Marginal Propensity to Consume (Algo Trading)"
-description: "Explore how the Marginal Propensity to Consume influences economic trends and trading strategies for better financial planning and policy-making."
+category: quant_concept
+description: Explore how the Marginal Propensity to Consume influences economic trends
+  and trading strategies for better financial planning and policy-making.
+title: Determinants of Marginal Propensity to Consume (Algo Trading)
 ---
 
 Understanding the economic factors that influence consumer behavior is crucial for both economists and traders as it aids in interpreting and predicting trends that affect economic stability and growth. One of the key concepts in this regard is the Marginal Propensity to Consume (MPC), a fundamental aspect of Keynesian macroeconomic theory. MPC quantifies the proportion of additional income that consumers are likely to spend on goods and services rather than saving. This ratio is essential in analyzing consumer behavior, shedding light on economic vitality, and influencing policy-making.
@@ -192,4 +194,3 @@ Continuous research is essential to keep pace with the evolving global market an
 10. Chordia, T., Roll, R., & Subrahmanyam, A. (2001). "Market Liquidity and Trading Activity," *Journal of Finance.* This research examines how trading strategies and market liquidity might be informed by economic indicators, including MPC.
 
 These resources encompass a range of literature that provides a deeper understanding of Marginal Propensity to Consume and its application within the economic and trading environments.
-

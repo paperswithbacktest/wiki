@@ -1,6 +1,8 @@
 ---
-title: "Security market line (Algo Trading)"
-description: "Explore the Security Market Line's role in assessing asset risk and return in algo trading Discover how SML aids in identifying mispriced securities for profit."
+category: quant_concept
+description: Explore the Security Market Line's role in assessing asset risk and return
+  in algo trading Discover how SML aids in identifying mispriced securities for profit.
+title: Security market line (Algo Trading)
 ---
 
 The Security Market Line (SML) serves as a fundamental component of the Capital Asset Pricing Model (CAPM), offering a graphical representation of the expected return of an asset in relation to its systematic risk, commonly referred to as beta (β). This line is pivotal in elucidating the relationship between risk and return, providing investors and analysts with a clear depiction of how much return is warranted for a given level of risk, thus aiding in the determination of a security's fair value in the market.
@@ -158,4 +160,3 @@ Despite these challenges, the SML retains its enduring relevance. Its theoretica
 8. Online Resource: *Khan Academy* offers educational videos and materials on finance and economics, including free lessons on the CAPM and SML. This resource is beneficial for learners looking for a straightforward explanation of complex financial concepts. 
 
 These resources collectively offer an in-depth exploration of the Security Market Line, aiding both theoretical understanding and practical application in financial analysis and algorithmic trading.
-

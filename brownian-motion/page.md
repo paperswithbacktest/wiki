@@ -1,6 +1,8 @@
 ---
-title: "Brownian Motion (Algo Trading)"
-description: "Explore the application of Geometric Brownian Motion in algorithmic trading with a focus on its mathematical formulation and Python implementation."
+category: quant_concept
+description: Explore the application of Geometric Brownian Motion in algorithmic trading
+  with a focus on its mathematical formulation and Python implementation.
+title: Brownian Motion (Algo Trading)
 ---
 
 Algorithmic trading represents a powerful advancement in the execution of trades within financial markets, primarily driven by the use of sophisticated computer algorithms. These algorithms optimize both speed and efficiency, enabling traders to navigate markets with precision and effectiveness. A pivotal mathematical model in this domain is Geometric Brownian Motion (GBM), which proves instrumental in depicting the dynamic yet systematic fluctuations of stock prices. GBM's significance lies in its ability to model stock prices as a continuous stochastic process, characterized by a combination of constant drift and volatility, providing a realistic framework for simulating market behavior.

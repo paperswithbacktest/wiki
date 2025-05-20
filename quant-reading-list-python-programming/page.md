@@ -1,6 +1,14 @@
 ---
-title: "Quant Reading List: Python Programming (Algo Trading)"
-description: Discover how Python is revolutionizing algorithmic trading and quantitative finance with its simplicity, versatility, and extensive library support. This comprehensive guide investigates into Python's role in automating trading decisions, enhancing trading efficiency, and minimizing emotional biases. Explore key Python libraries like NumPy, pandas, and Matplotlib, crucial for financial data manipulation and analysis, and gain insights into building robust trading strategies. Ideal for both beginners and experts, this article highlights Python's scalability, community support, and its growing influence in the financial industry.
+category: quant_concept
+description: Discover how Python is revolutionizing algorithmic trading and quantitative
+  finance with its simplicity, versatility, and extensive library support. This comprehensive
+  guide investigates into Python's role in automating trading decisions, enhancing
+  trading efficiency, and minimizing emotional biases. Explore key Python libraries
+  like NumPy, pandas, and Matplotlib, crucial for financial data manipulation and
+  analysis, and gain insights into building robust trading strategies. Ideal for both
+  beginners and experts, this article highlights Python's scalability, community support,
+  and its growing influence in the financial industry.
+title: 'Quant Reading List: Python Programming (Algo Trading)'
 ---
 
 Algorithmic trading refers to the use of computer algorithms to automate trading decisions, replacing or enhancing the traditional, manual execution of trades. These algorithms, driven by mathematical models and high-speed computing, can process vast volumes of data and execute orders at speeds and frequencies far beyond the capability of human traders. Algorithmic trading is significant in modern finance due to its ability to improve trading efficiency, reduce transaction costs, and minimize emotions in trading decisions. It enables traders to quickly exploit market inefficiencies and synchronize financial strategies with precise timing and accuracy.

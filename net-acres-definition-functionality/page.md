@@ -1,6 +1,8 @@
 ---
-title: "Net Acres: Definition and Functionality (Algo Trading)"
-description: "Discover how net acres and algorithmic trading intersect to enhance real estate investment strategies and valuations in the evolving financial landscape."
+category: quant_concept
+description: Discover how net acres and algorithmic trading intersect to enhance real
+  estate investment strategies and valuations in the evolving financial landscape.
+title: 'Net Acres: Definition and Functionality (Algo Trading)'
 ---
 
 In today's rapidly evolving financial and real estate markets, the intersection of land measurement, real estate investment, and algorithmic trading is becoming increasingly significant. This confluence is driven by the need for precise land evaluation methods, such as net acres, and the technological advancements offered by algorithmic trading systems. By understanding these connections, investors can better navigate the complex landscape of modern real estate trading.

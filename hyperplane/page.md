@@ -1,7 +1,8 @@
 ---
-title: Understanding Hyperplanes in Machine Learning for Classification
+category: quant_concept
 description: Hyperplane theory in machine learning delivers clear decision boundaries
   for classification and regression with SVM and neural nets Discover more inside
+title: Understanding Hyperplanes in Machine Learning for Classification
 ---
 
 ![Image](images/1.png)

@@ -1,6 +1,8 @@
 ---
-title: "Accounts Payable as an Expense (Algo Trading)"
-description: "Explore the integration of accounts payable with expense management and algorithmic trading to optimize financial operations and gain a competitive edge."
+category: quant_concept
+description: Explore the integration of accounts payable with expense management and
+  algorithmic trading to optimize financial operations and gain a competitive edge.
+title: Accounts Payable as an Expense (Algo Trading)
 ---
 
 In the dynamic landscape of financial management, grasping essential concepts such as expenses, financial accounting, accounts payable, and algorithmic trading is crucial for businesses aiming to optimize their operations. Expenses and financial accounting form the backbone of a company's financial health, providing the data necessary to make informed strategic decisions. Managing expenses effectively ensures that a company maintains a healthy cash flow, contributing to sustainable business growth and stability.

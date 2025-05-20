@@ -1,6 +1,14 @@
 ---
-title: "Forex Market Makers Strategy Explained (Algo Trading)"
-description: This article explores the essential role of market makers in the financial markets, focusing on their integration with algorithmic trading strategies to provide liquidity and ensure market efficiency. It investigates into how market makers operate by adjusting buy and sell prices to balance supply and demand, minimize transaction costs, and manage risk using advanced algorithms. The piece also highlights the benefits of using algorithmic market making, such as increased speed, reduced costs, and the ability to manage inventory and adverse selection risks effectively. Understanding these concepts can offer traders valuable insights into the financial ecosystem.
+category: trading_strategy
+description: This article explores the essential role of market makers in the financial
+  markets, focusing on their integration with algorithmic trading strategies to provide
+  liquidity and ensure market efficiency. It investigates into how market makers operate
+  by adjusting buy and sell prices to balance supply and demand, minimize transaction
+  costs, and manage risk using advanced algorithms. The piece also highlights the
+  benefits of using algorithmic market making, such as increased speed, reduced costs,
+  and the ability to manage inventory and adverse selection risks effectively. Understanding
+  these concepts can offer traders valuable insights into the financial ecosystem.
+title: Forex Market Makers Strategy Explained (Algo Trading)
 ---
 
 In the rapidly evolving world of financial markets, the importance of market makers continues to grow, enhancing both liquidity and efficiency. Market making involves setting and maintaining both buy and sell prices in a financial market, consistently providing liquidity and facilitating smoother price discovery. In increasingly complex markets, market making as a strategy within algorithmic trading frameworks has emerged as a pivotal function, helping to balance supply and demand while minimizing transaction costs.
@@ -159,4 +167,4 @@ Understanding market making strategies offers significant insights for traders a
 
 [7]: Kissell, R. (2014). ["The Science of Algorithmic Trading and Portfolio Management."](https://www.sciencedirect.com/book/9780124016897/the-science-of-algorithmic-trading-and-portfolio-management) Academic Press. 
 
-[8]: Abernethy, J., & Kale, S. (2013). ["Adaptive Market Making via Online Learning."](https://proceedings.neurips.cc/paper/2013/file/995e1fda4a2b5f55ef0df50868bf2a8f-Paper.pdf) ACM Conference on Electronic Commerce. 
+[8]: Abernethy, J., & Kale, S. (2013). ["Adaptive Market Making via Online Learning."](https://proceedings.neurips.cc/paper/2013/file/995e1fda4a2b5f55ef0df50868bf2a8f-Paper.pdf) ACM Conference on Electronic Commerce.

@@ -1,6 +1,8 @@
 ---
-title: "Switzerland Cuts Interest Rates As Inflation Declines (Algo Trading)"
-description: "Switzerland cuts interest rates as inflation declines impacting global markets. The shift highlights the role of algo trading in adapting to economic changes."
+category: quant_concept
+description: Switzerland cuts interest rates as inflation declines impacting global
+  markets. The shift highlights the role of algo trading in adapting to economic changes.
+title: Switzerland Cuts Interest Rates As Inflation Declines (Algo Trading)
 ---
 
 Switzerland, historically known for its financial stability and strong economic framework, has recently undergone significant monetary policy changes. The Swiss National Bank's (SNB) decision to cut interest rates marks a pivotal shift aimed at addressing inflationary pressures within the country. These adjustments have rippling effects, not only within Switzerland but also across the global markets, given the nation's integral role in international finance.

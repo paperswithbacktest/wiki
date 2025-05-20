@@ -1,6 +1,8 @@
 ---
-title: "Above the Market: Concepts and Examples (Algo Trading)"
-description: "Discover how algorithmic trading is reshaping financial markets by integrating economic strategies and business tactics for enhanced trading efficiency and insights."
+category: quant_concept
+description: Discover how algorithmic trading is reshaping financial markets by integrating
+  economic strategies and business tactics for enhanced trading efficiency and insights.
+title: 'Above the Market: Concepts and Examples (Algo Trading)'
 ---
 
 In the dynamic landscape of financial markets, understanding economic market strategies and business tactics is crucial for success. The financial sector is continuously shaped by various components that interact and influence each other. One of the key developments in recent years has been the integration of sophisticated algorithms into trading processes, significantly transforming how trades are executed and decisions are made.

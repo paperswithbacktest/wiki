@@ -1,6 +1,8 @@
 ---
-title: "Brevan Howard (Algo Trading)"
-description: "Explore Brevan Howard's pioneering algo trading strategies powered by macro insights and risk management for optimized returns in complex financial markets."
+category: trading_strategy
+description: Explore Brevan Howard's pioneering algo trading strategies powered by
+  macro insights and risk management for optimized returns in complex financial markets.
+title: Brevan Howard (Algo Trading)
 ---
 
 Brevan Howard is a leading name in the hedge fund industry, distinguished for its comprehensive approach to investment management and a primary focus on global macro trading strategies. Established in 2002 by Alan Howard alongside a team of financial experts, the firm has expanded to become one of the most significant macro hedge funds worldwide. This transformation underscores a robust infrastructure built around a unique approach to algorithmic trading, complemented by a broad array of investment strategies that ensure sustained competitive advantage in the financial markets.

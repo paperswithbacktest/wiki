@@ -1,6 +1,8 @@
 ---
-title: "OTC Markets: Trading and Securities (Algo Trading)"
-description: "Explore how OTC markets and algorithmic trading are transforming securities trading by offering new opportunities for strategy optimization and enhanced returns."
+category: trading_strategy
+description: Explore how OTC markets and algorithmic trading are transforming securities
+  trading by offering new opportunities for strategy optimization and enhanced returns.
+title: 'OTC Markets: Trading and Securities (Algo Trading)'
 ---
 
 The world of securities trading is transforming at an unprecedented pace, driven largely by technological advancements. Among these changes, over-the-counter (OTC) markets and algorithmic trading have gained significant attention from investors looking to optimize their strategies and enhance returns. OTC markets offer a platform for trading securities that are not listed on formal exchanges such as the New York Stock Exchange (NYSE), providing opportunities for smaller companies to access capital markets. On the other hand, algorithmic trading utilizes automated systems powered by pre-programmed rules to execute trades, offering the benefits of speed, efficiency, and reduced human error.

@@ -1,6 +1,8 @@
 ---
-title: "Patent Trolls (Algo Trading)"
-description: "Explore the challenges posed by patent trolls in algorithmic trading focusing on litigation tactics and their impact on innovation and resource allocation."
+category: quant_concept
+description: Explore the challenges posed by patent trolls in algorithmic trading
+  focusing on litigation tactics and their impact on innovation and resource allocation.
+title: Patent Trolls (Algo Trading)
 ---
 
 In the world of innovation and entrepreneurship, patents serve as a double-edged sword. On one hand, patents are designed to protect the creations of inventors by granting exclusive rights to their intellectual property (IP), thus incentivizing research and development. This protection encourages technological advancement by providing inventors with the opportunity to capitalize on their innovations. On the other hand, patents can also give rise to entities colloquially known as 'patent trolls'. These entities, which are often non-practicing entities (NPEs), acquire patents not with the intention of developing products or technologies, but rather to profit through litigation and settlements with practicing companies.

@@ -1,6 +1,8 @@
 ---
-title: "Rights of Accumulation: Breakpoints and Examples (Algo Trading)"
-description: "Explore how Rights of Accumulation and investment breakpoints reduce mutual fund sales charges helping investors optimize costs and maximize returns."
+category: trading_strategy
+description: Explore how Rights of Accumulation and investment breakpoints reduce
+  mutual fund sales charges helping investors optimize costs and maximize returns.
+title: 'Rights of Accumulation: Breakpoints and Examples (Algo Trading)'
 ---
 
 Rights of Accumulation (ROA) are provisions designed to benefit mutual fund investors by reducing sales charges when certain investment thresholds are met. Essentially, ROA allows investors to combine the values of their existing fund holdings with new purchases to reach higher investment levels known as breakpoints, which qualify them for lower sales fees. This structure is advantageous as it provides an incentive for investors to consolidate their investments within a particular mutual fund family, ultimately leading to reduced transaction costs and enhanced investment returns over time.

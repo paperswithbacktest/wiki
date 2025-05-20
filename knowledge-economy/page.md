@@ -1,6 +1,8 @@
 ---
-title: "Knowledge Economy (Algo Trading)"
-description: "Explore the knowledge economy with insights into algorithmic trading highlighting the vital role of intellectual capital and innovation in modern finance."
+category: quant_concept
+description: Explore the knowledge economy with insights into algorithmic trading
+  highlighting the vital role of intellectual capital and innovation in modern finance.
+title: Knowledge Economy (Algo Trading)
 ---
 
 The modern global economy is increasingly dominated by the knowledge economy, which is characterized by its reliance on intellectual capital as a primary driving force. Unlike traditional economies that depend on physical inputs and manual labor, the knowledge economy thrives on the creation, dissemination, and utilization of information and expertise. This paradigm shift highlights the significant value of intangible assets such as human ingenuity, technological advancement, and innovative processes.

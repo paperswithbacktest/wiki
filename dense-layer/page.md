@@ -1,7 +1,8 @@
 ---
-title: Understanding Dense Layers And Their Roles In Neural Networks
+category: quant_concept
 description: Dense layer in neural networks extracts patterns using weights biases
   activations and optimizes parameters for improved results Discover more inside.
+title: Understanding Dense Layers And Their Roles In Neural Networks
 ---
 
 ![Image](images/1.png)

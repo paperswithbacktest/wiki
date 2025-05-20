@@ -1,6 +1,9 @@
 ---
-title: "Reservable Deposit: Overview and Challenges (Algo Trading)"
-description: "Explore the intricate connection between reservable deposits, banking regulations, and algorithmic trading, crucial for financial stability and strategic banking operations."
+category: quant_concept
+description: Explore the intricate connection between reservable deposits, banking
+  regulations, and algorithmic trading, crucial for financial stability and strategic
+  banking operations.
+title: 'Reservable Deposit: Overview and Challenges (Algo Trading)'
 ---
 
 The complex interplay of reservable deposits, financial limitations, banking regulations, and algorithmic trading forms the backbone of modern banking. Each element contributes to a sophisticated financial system that impacts both the operational strategies of banks and the economic landscape as a whole. Understanding these components is crucial for financial professionals seeking to optimize performance and for consumers aiming to navigate financial products effectively.

@@ -1,9 +1,13 @@
 ---
-title: "Data Augmentation (Algo Trading)"
-description: Discover the importance and application of Data Augmentation in algorithmic trading. This technique increases data quantity and diversity, improving model performance, filling data gaps, and preventing overfitting. Learn common methods for financial data augmentation and best practices for effective implementation. Boost your quant trading models' robustness, accuracy, and success in the dynamic world of algorithmic finance.
+category: dataset
+description: Discover the importance and application of Data Augmentation in algorithmic
+  trading. This technique increases data quantity and diversity, improving model performance,
+  filling data gaps, and preventing overfitting. Learn common methods for financial
+  data augmentation and best practices for effective implementation. Boost your quant
+  trading models' robustness, accuracy, and success in the dynamic world of algorithmic
+  finance.
+title: Data Augmentation (Algo Trading)
 ---
-
-
 
 Algorithmic trading (algo trading) is an indispensable element of modern financial markets, where computers execute trades based on pre-defined criteria using mathematical models. These sophisticated algorithms have revolutionized the speed, efficiency, and accuracy of trading, enabling strategies to operate at sea-level splits that are humanly impossible. However, the success of algo trading heavily depends on the quality and quantity of data fed into these algorithms.
 
@@ -232,4 +236,4 @@ In an ever-evolving financial landscape, the continuous development and refineme
 
 [6]: Goodfellow, I., Bengio, Y., & Courville, A. (2016). ["Deep Learning."](https://www.deeplearningbook.org/). MIT Press. 
 
-[7]: Brownlees, C., Engle, R. F., & Kelly, B. T. (2011). ["A Practical Guide to Volatility Forecasting through Calm and Storm."](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1502915) 
+[7]: Brownlees, C., Engle, R. F., & Kelly, B. T. (2011). ["A Practical Guide to Volatility Forecasting through Calm and Storm."](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1502915)

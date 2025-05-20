@@ -1,6 +1,9 @@
 ---
-title: "Fund Flow: Example and Interpretation (Algo Trading)"
-description: "Explore the importance of fund flow in algorithmic trading including insights on financial analysis and investment interpretation to improve trading strategies."
+category: quant_concept
+description: Explore the importance of fund flow in algorithmic trading including
+  insights on financial analysis and investment interpretation to improve trading
+  strategies.
+title: 'Fund Flow: Example and Interpretation (Algo Trading)'
 ---
 
 In today's rapidly evolving financial environment, understanding core concepts like financial analysis, fund flow, investment interpretation, and algorithmic trading has become increasingly critical for investors and traders. These elements are foundational to making informed decisions and navigate the complexities of modern financial markets, with each playing a distinct role in shaping market outcomes.

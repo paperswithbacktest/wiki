@@ -1,6 +1,9 @@
 ---
-title: "Investment Crowdfunding: Overview, Functionality, and Benefits (Algo Trading)"
-description: "Explore how investment crowdfunding empowers entrepreneurs to raise capital while offering investors diverse opportunities. Discover its synergy with algorithmic trading."
+category: quant_concept
+description: Explore how investment crowdfunding empowers entrepreneurs to raise capital
+  while offering investors diverse opportunities. Discover its synergy with algorithmic
+  trading.
+title: 'Investment Crowdfunding: Overview, Functionality, and Benefits (Algo Trading)'
 ---
 
 Crowdfunding has emerged as a transformative approach in the world of finance, enabling businesses and entrepreneurs to gather modest amounts of capital from a large number of individuals, often via online platforms. This innovative method has significantly altered the traditional investment landscape by removing intermediaries and expanding access to investment opportunities. By connecting entrepreneurs with potential investors, crowdfunding facilitates a mutually beneficial relationship that can lead to successful business ventures and profitable returns.

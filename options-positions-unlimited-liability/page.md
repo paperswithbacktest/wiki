@@ -1,6 +1,9 @@
 ---
-title: "Options Positions with Unlimited Liability (Algo Trading)"
-description: "Understand the risks of options trading with unlimited liability such as naked positions and explore strategies like algorithmic trading to manage and mitigate losses."
+category: quant_concept
+description: Understand the risks of options trading with unlimited liability such
+  as naked positions and explore strategies like algorithmic trading to manage and
+  mitigate losses.
+title: Options Positions with Unlimited Liability (Algo Trading)
 ---
 
 Options trading is an area of financial markets that offers traders the potential for high returns due to its leverage capabilities. Unlike traditional stock trading, where the loss is generally limited to the amount invested, options trading can pose significantly greater risks, particularly if traders are not fully aware of or prepared for the liabilities involved. At the core of these risks is the concept of unlimited liability, which is a critical factor that any options trader must understand and manage carefully to protect their investments.

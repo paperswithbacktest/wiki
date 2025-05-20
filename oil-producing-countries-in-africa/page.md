@@ -1,6 +1,8 @@
 ---
-title: "Oil-Producing Countries in Africa (Algo Trading)"
-description: "Explore how oil-producing countries like Nigeria and Angola are leveraging algorithmic trading to transform Africa's oil industry and drive economic growth."
+category: dataset
+description: Explore how oil-producing countries like Nigeria and Angola are leveraging
+  algorithmic trading to transform Africa's oil industry and drive economic growth.
+title: Oil-Producing Countries in Africa (Algo Trading)
 ---
 
 Africa, a continent abundant in natural resources, holds a prominent position in the global energy landscape, predominantly due to its considerable oil reserves. Oil production significantly contributes to the continent's economy, not only providing employment and government revenue but also influencing socio-economic development in numerous regions. In Africa, several key countries have emerged as major players in the global oil markets, including Nigeria, Libya, Angola, Algeria, and Egypt. These nations leverage their substantial oil reserves to bolster economic growth and foster international trade relations. 

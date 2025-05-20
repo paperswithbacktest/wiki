@@ -1,6 +1,9 @@
 ---
-title: "Rotella Capital (Algo Trading)"
-description: "Rotella Capital Management leads in algorithmic trading with cutting-edge technology and data-driven strategies for optimal trading performance and investor confidence."
+category: trading_strategy
+description: Rotella Capital Management leads in algorithmic trading with cutting-edge
+  technology and data-driven strategies for optimal trading performance and investor
+  confidence.
+title: Rotella Capital (Algo Trading)
 ---
 
 Rotella Capital Management is a prominent firm in the sphere of algorithmic trading, recognized for its innovative and efficient trading strategies. Established in the late 1980s, Rotella Capital emerged at a time when traditional trading methods dominated financial markets. Over the years, the firm's commitment to leveraging technology and data-driven strategies has solidified its status as a pioneer in algorithmic trading. 

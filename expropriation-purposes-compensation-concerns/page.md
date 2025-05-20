@@ -1,6 +1,12 @@
 ---
-title: "Expropriation: Purposes and Compensation Concerns (Algo Trading)"
-description: "Explore the complexities of expropriation and compensation in the digital age. Understand how property rights, government regulations, and algorithmic trading intersect, challenging traditional notions of ownership. With advancements in technology, expropriation now includes digital assets, raising important questions about compensation frameworks. Stay informed on these dynamics to navigate the evolving economic landscape, where property values and rights are redefined by technological and regulatory changes."
+category: quant_concept
+description: Explore the complexities of expropriation and compensation in the digital
+  age. Understand how property rights, government regulations, and algorithmic trading
+  intersect, challenging traditional notions of ownership. With advancements in technology,
+  expropriation now includes digital assets, raising important questions about compensation
+  frameworks. Stay informed on these dynamics to navigate the evolving economic landscape,
+  where property values and rights are redefined by technological and regulatory changes.
+title: 'Expropriation: Purposes and Compensation Concerns (Algo Trading)'
 ---
 
 In today's complex economic landscape, the intersection of property rights, expropriation, and compensation presents a significant challenge. These elements are foundational to understanding how governments interact with private entities, particularly in cases where public needs supersede individual ownership rights. The legal framework that governs expropriation — the process by which a government may claim private property for public use — is crucial to maintaining a balance between public benefit and individual loss. A pivotal element of this framework is the requirement for just compensation, as articulated in various legal statutes globally, most notably in the U.S. Constitution's Fifth Amendment.

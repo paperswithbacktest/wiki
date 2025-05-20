@@ -1,6 +1,9 @@
 ---
-title: "Federal Reserve Model: Overview and Alternatives (Algo Trading)"
-description: "Discover the Federal Reserve Model's role in investment valuation and explore its applications in algo trading to optimize asset pricing and market timing strategies."
+category: quant_concept
+description: Discover the Federal Reserve Model's role in investment valuation and
+  explore its applications in algo trading to optimize asset pricing and market timing
+  strategies.
+title: 'Federal Reserve Model: Overview and Alternatives (Algo Trading)'
 ---
 
 Investment valuation techniques are indispensable in assessing market conditions and determining asset pricing. These techniques, encompassing diverse models and methods, provide investors with insights into the relative value of stocks, bonds, and other financial instruments, which can inform trading and investment decisions. A critical tool among these valuation techniques is the Federal Reserve Model, commonly referred to as the Fed Model. Although unofficial and not endorsed by the Federal Reserve itself, this model plays a significant role in market timing by evaluating the relationship between stock valuations and bond yields.
@@ -134,4 +137,3 @@ Encouraging further research and exploration into hybrid models is vital, as the
    - Investopedia offers simulations and articles that allow users to practice investment strategies, including applying the Fed Model in a controlled environment. Their stock simulator can be a useful tool for practical application.
 
 These resources serve as a comprehensive guide for anyone interested in exploring the Fed Model further, providing a mix of theoretical and practical insights into investment valuation and algorithmic trading.
-

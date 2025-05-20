@@ -1,6 +1,8 @@
 ---
-title: "Reasons for Changes in Stock Ticker Symbols (Algo Trading)"
-description: "Discover why stock ticker symbols change and their impact on algorithmic trading Learn about mergers acquisitions rebranding and how traders adapt"
+category: quant_concept
+description: Discover why stock ticker symbols change and their impact on algorithmic
+  trading Learn about mergers acquisitions rebranding and how traders adapt
+title: Reasons for Changes in Stock Ticker Symbols (Algo Trading)
 ---
 
 The stock market represents one of the most intricate and vigorous financial systems globally, where companies raise capital and investors seek returns. At its core, this ecosystem facilitates the exchange of millions of shares daily, driven by the interests and strategies of a diverse group of investors. Among the fundamental elements that enable the smooth operation of this market are stock market symbols, commonly referred to as ticker symbols. Despite their understated presence in the financial narrative, these symbols play a pivotal role in simplifying the identification and trading of securities.

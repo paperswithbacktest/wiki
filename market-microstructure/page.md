@@ -1,6 +1,14 @@
 ---
-title: "Market microstructure (Algo Trading)"
-description: Market microstructure is a key finance area studying asset exchange under set trading rules, focusing on price dynamics, liquidity, and market efficiency. It's crucial for both financial experts and algorithmic traders, offering insights on interactions among traders, intermediaries, and market structures. In algorithmic trading, understanding market microstructure aids in optimizing strategies by analyzing transaction costs, price formation, volatility, liquidity, and information dissemination. This knowledge helps improve trade execution and profitability, making it essential for modern trading strategies in the evolving financial landscape.
+category: quant_concept
+description: Market microstructure is a key finance area studying asset exchange under
+  set trading rules, focusing on price dynamics, liquidity, and market efficiency.
+  It's crucial for both financial experts and algorithmic traders, offering insights
+  on interactions among traders, intermediaries, and market structures. In algorithmic
+  trading, understanding market microstructure aids in optimizing strategies by analyzing
+  transaction costs, price formation, volatility, liquidity, and information dissemination.
+  This knowledge helps improve trade execution and profitability, making it essential
+  for modern trading strategies in the evolving financial landscape.
+title: Market microstructure (Algo Trading)
 ---
 
 Market microstructure is a critical area of finance that investigates the processes and outcomes of exchanging assets under specific trading rules. Primarily, it examines how trading mechanisms influence the price dynamics, liquidity, and efficiency of financial markets. Understanding market microstructure is vital for financial practitioners and theorists alike, as it provides valuable insights into the interaction between traders, market intermediaries, and the structures that govern trading. It is particularly significant for algorithmic trading, where precise market models are utilized to make rapid trading decisions based on real-time data.

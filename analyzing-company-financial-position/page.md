@@ -1,6 +1,8 @@
 ---
-title: "Analyzing A Company's Financial Position (Algo Trading)"
-description: "Explore how financial analysis enhances algorithmic trading by evaluating a company's financial health to make data-driven investment decisions efficiently."
+category: trading_strategy
+description: Explore how financial analysis enhances algorithmic trading by evaluating
+  a company's financial health to make data-driven investment decisions efficiently.
+title: Analyzing A Company's Financial Position (Algo Trading)
 ---
 
 In this article, we examine the processes involved in evaluating a company's financial position via financial analysis and consider how algorithmic trading can benefit from comprehensive financial evaluations. Understanding a company's financial health is crucial for making informed investment decisions, providing critical insights into its viability and potential for returns. Investors and traders use these insights to assess different companies, enabling better decision-making in selecting where to allocate capital. 

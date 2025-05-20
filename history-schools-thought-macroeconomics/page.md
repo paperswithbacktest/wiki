@@ -1,6 +1,9 @@
 ---
-title: "History and Schools of Thought in Macroeconomics (Algo Trading)"
-description: "Explore the impact of economic schools of thought on macroeconomics from classical to Keynesian theories Understanding these frameworks is key to economic policy."
+category: quant_concept
+description: Explore the impact of economic schools of thought on macroeconomics from
+  classical to Keynesian theories Understanding these frameworks is key to economic
+  policy.
+title: History and Schools of Thought in Macroeconomics (Algo Trading)
 ---
 
 Economic schools of thought constitute the foundational frameworks that have defined economic analysis and policymaking over centuries. These schools encompass a range of theories and methodologies developed to understand and predict the complex behavior of economies. They provide lenses through which economists analyze issues concerning wealth distribution, growth, stability, employment, and inflation. The significance of these schools lies in their profound influence on economic history and policy, offering diverse interpretations of market dynamics and informing government actions.

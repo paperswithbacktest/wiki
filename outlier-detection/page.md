@@ -1,7 +1,8 @@
 ---
-title: Outlier Detection Methods Explained for Accurate Data Analysis
+category: quant_concept
 description: Outlier Detection helps you identify and handle unusual data points to
   improve model accuracy and insights in your analyses Discover more inside.
+title: Outlier Detection Methods Explained for Accurate Data Analysis
 ---
 
 ![Image](images/1.png)

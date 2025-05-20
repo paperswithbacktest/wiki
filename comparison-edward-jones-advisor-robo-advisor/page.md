@@ -1,6 +1,8 @@
 ---
-title: "Comparison of Edward Jones Financial Advisor and Robo-Advisor (Algo Trading)"
-description: "Explore the key differences and advantages of Edward Jones' personalized financial advisory services versus the cost-efficient, automated strategies of robo-advisors."
+category: quant_concept
+description: Explore the key differences and advantages of Edward Jones' personalized
+  financial advisory services versus the cost-efficient, automated strategies of robo-advisors.
+title: Comparison of Edward Jones Financial Advisor and Robo-Advisor (Algo Trading)
 ---
 
 In the rapidly evolving world of finance, individuals are presented with a multitude of investment options. The rise of digital technology and artificial intelligence has led to a significant shift in how investors manage their assets. Among these options, the choice between a traditional financial advisor like Edward Jones and modern robo-advisors has become increasingly important.

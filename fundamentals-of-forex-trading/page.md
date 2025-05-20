@@ -1,6 +1,9 @@
 ---
-title: "Fundamentals of Forex Trading (Algo Trading)"
-description: "Discover the essentials of forex and algorithmic trading Learn how the vast forex market functions and explore algorithm-driven strategies for trading success"
+category: trading_strategy
+description: Discover the essentials of forex and algorithmic trading Learn how the
+  vast forex market functions and explore algorithm-driven strategies for trading
+  success
+title: Fundamentals of Forex Trading (Algo Trading)
 ---
 
 The foreign exchange, or forex, market stands as the largest financial market globally, with a staggering daily trading volume surpassing $6 trillion. Unlike other markets, the forex market operates continuously, 24 hours a day, five days a week. This seamless operation is facilitated by an interwoven network of banks, financial institutions, corporations, and individual traders around the world, ensuring the continuous exchange of currencies essential for global trade.

@@ -1,6 +1,8 @@
 ---
-title: "Discounted Payoff: Overview, Advantages and Disadvantages, Example (Algo Trading)"
-description: "Explore the concept of discounted payoff in finance including its advantages and disadvantages in investment evaluation and its role in algorithmic trading."
+category: quant_concept
+description: Explore the concept of discounted payoff in finance including its advantages
+  and disadvantages in investment evaluation and its role in algorithmic trading.
+title: 'Discounted Payoff: Overview, Advantages and Disadvantages, Example (Algo Trading)'
 ---
 
 In the ever-evolving world of finance, the intricate interplay between discounted payoff, investment evaluation, financial analysis, and algorithmic trading has become increasingly significant. These concepts are at the forefront of modern financial management, offering frameworks and tools that enhance the precision and effectiveness of investment strategies. This article explores how these elements can be harnessed to optimize financial outcomes.

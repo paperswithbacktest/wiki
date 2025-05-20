@@ -1,6 +1,8 @@
 ---
-title: "Leading Oil-Producing U.S. States (Algo Trading)"
-description: "Explore the intersection of U.S. oil production and algorithmic trading, highlighting top states and transformative impacts on energy markets and strategies."
+category: trading_strategy
+description: Explore the intersection of U.S. oil production and algorithmic trading,
+  highlighting top states and transformative impacts on energy markets and strategies.
+title: Leading Oil-Producing U.S. States (Algo Trading)
 ---
 
 The intersection of oil production and algorithmic trading is fundamentally transforming the energy landscape in the United States. This transformation is being driven by the convergence of advanced technological tools and changing market dynamics, necessitating a deeper understanding of the production dynamics in pivotal oil-producing states across the country. These states are vital to the energy supply chain and thus hold significant influence over both national and global energy markets.

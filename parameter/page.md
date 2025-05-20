@@ -1,7 +1,8 @@
 ---
-title: Machine Learning Parameters Explained for Model Optimization
+category: quant_concept
 description: Machine learning parameters drive model accuracy by learning optimal
   weights biases and settings to improve predictions Discover more inside.
+title: Machine Learning Parameters Explained for Model Optimization
 ---
 
 ![Image](images/1.png)

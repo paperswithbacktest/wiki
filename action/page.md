@@ -1,7 +1,8 @@
 ---
-title: Action Machine Learning Explained for Smart Decision Making
+category: quant_concept
 description: Action machine learning enables systems to learn from trial and error
   and optimize decisions in real-time across industries Discover more inside
+title: Action Machine Learning Explained for Smart Decision Making
 ---
 
 ![Image](images/1.png)

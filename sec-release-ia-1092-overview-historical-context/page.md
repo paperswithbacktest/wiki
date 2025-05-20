@@ -1,6 +1,8 @@
 ---
-title: "SEC Release IA-1092: Overview and Historical Context (Algo Trading)"
-description: "Explore SEC Release IA-1092 and its pivotal role in guiding investment advisors through regulatory complexities in the age of algorithmic trading solutions."
+category: quant_concept
+description: Explore SEC Release IA-1092 and its pivotal role in guiding investment
+  advisors through regulatory complexities in the age of algorithmic trading solutions.
+title: 'SEC Release IA-1092: Overview and Historical Context (Algo Trading)'
 ---
 
 In the evolving landscape of financial services, regulatory frameworks are essential for ensuring the integrity and transparency of market operations. They provide a structured approach to safeguarding investor interests, maintaining fair market conditions, and mitigating the risks associated with financial misconduct. Within this intricate framework, SEC Release IA-1092 holds a significant place in understanding how the U.S. Securities and Exchange Commission (SEC) governs investment advisors and financial planners.

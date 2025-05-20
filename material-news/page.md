@@ -1,6 +1,9 @@
 ---
-title: "Material News (Algo Trading)"
-description: "Explore how material news, financial reporting, corporate disclosures, and algorithmic trading shape investor strategies and impact market volatility in finance."
+category: quant_concept
+description: Explore how material news, financial reporting, corporate disclosures,
+  and algorithmic trading shape investor strategies and impact market volatility in
+  finance.
+title: Material News (Algo Trading)
 ---
 
 In finance, the interplay of material news, financial reporting, corporate disclosure, and algorithmic trading is fundamental in shaping market reactions and investor strategies. Material news, encompassing critical information such as earnings reports, mergers, and acquisitions, can trigger significant price volatility in financial markets. These events, governed by regulations like those from the New York Stock Exchange, ensure transparency and fairness, impacting how investors and funds formulate trading strategies.

@@ -1,6 +1,8 @@
 ---
-title: "Debt-to-Equity Ratios in the Utilities Sector (Algo Trading)"
-description: "Explore the financial dynamics of the utilities sector focusing on the debt-to-equity ratio's impact on investment strategies and algorithmic trading benefits."
+category: trading_strategy
+description: Explore the financial dynamics of the utilities sector focusing on the
+  debt-to-equity ratio's impact on investment strategies and algorithmic trading benefits.
+title: Debt-to-Equity Ratios in the Utilities Sector (Algo Trading)
 ---
 
 The utilities sector serves as a backbone for modern society, providing essential services such as electricity, gas, and water. These services are fundamental for both residential and commercial activities, making the sector a critical component of national and global economies. The financial health of companies operating within this sector is of paramount concern, especially when considering investments. Among various financial metrics, the debt-to-equity (D/E) ratio stands out as a pivotal indicator of financial leverage. This ratio, calculated by dividing a company's total liabilities by its shareholder equity, offers insights into how a company finances its operations, highlighting the proportion of debt in its capital structure.

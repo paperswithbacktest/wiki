@@ -1,6 +1,9 @@
 ---
-title: "Overview of Selling Options (Algo Trading)"
-description: "Discover the intersection of options and algorithmic trading focused on selling strategies Learn about the tools traders use for risk management and profitability"
+category: trading_strategy
+description: Discover the intersection of options and algorithmic trading focused
+  on selling strategies Learn about the tools traders use for risk management and
+  profitability
+title: Overview of Selling Options (Algo Trading)
 ---
 
 The world of financial markets is complex and multifaceted, with a wide range of instruments available to traders. Among these, financial derivatives play an integral role in facilitating diverse trading strategies. Options, a prominent type of derivative, have gained significant traction due to their inherent flexibility and the potential for profitability they offer. Options provide traders with the right, but not the obligation, to buy or sell an underlying asset at a predetermined price, making them versatile tools for risk management, speculation, and income generation.

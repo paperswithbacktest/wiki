@@ -1,6 +1,8 @@
 ---
-title: "Paper Wallet in Cryptocurrency (Algo Trading)"
-description: "Explore the security and advantages of using paper wallets for cryptocurrency storage and trading Discover their integration with algorithmic trading strategies"
+category: quant_concept
+description: Explore the security and advantages of using paper wallets for cryptocurrency
+  storage and trading Discover their integration with algorithmic trading strategies
+title: Paper Wallet in Cryptocurrency (Algo Trading)
 ---
 
 Cryptocurrency has fundamentally transformed conventional perceptions of money and transactions. While the excitement surrounding investment and trading captures much attention, securing these digital assets remains paramount. As cryptocurrencies operate on decentralized networks, the risk of hacks, theft, and other security breaches makes understanding safe storage solutions essential for any investor. This article addresses various methods of cryptocurrency storage, particularly focusing on paper wallets and their security implications, as well as the roles they might play alongside algorithmic trading (algo trading).

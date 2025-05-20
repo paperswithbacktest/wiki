@@ -1,6 +1,9 @@
 ---
-title: "Fundamentals: Types and Common Analysis Ratios (Algo Trading)"
-description: "Explore the importance of financial ratios in algorithmic trading and fundamental analysis to make strategic investment decisions and gain a competitive edge."
+category: trading_strategy
+description: Explore the importance of financial ratios in algorithmic trading and
+  fundamental analysis to make strategic investment decisions and gain a competitive
+  edge.
+title: 'Fundamentals: Types and Common Analysis Ratios (Algo Trading)'
 ---
 
 In the world of financial markets, understanding fundamental analysis ratios is crucial for making informed investment decisions. These tools offer investors a window into a company's financial health, guiding strategic decisions and minimizing risks. With the emergence of advanced technologies, the convergence of fundamental analysis, financial ratios, and algorithmic trading has opened new avenues for designing robust trading strategies. Algorithmic trading, with its ability to process vast amounts of data at high speed, has transformed market dynamics, leading to increased efficiency and reduced human error. Integrating fundamental analysis into these automated systems enhances their effectiveness by embedding a deeper understanding of market conditions and intrinsic value within trading algorithms.

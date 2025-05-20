@@ -1,6 +1,8 @@
 ---
-title: "Forex Moving Average and MACD Combination (Algo Trading)"
-description: "Explore the combination of moving averages and the MACD indicator in forex algorithmic trading to identify momentum shifts and optimize trading strategies."
+category: trading_strategy
+description: Explore the combination of moving averages and the MACD indicator in
+  forex algorithmic trading to identify momentum shifts and optimize trading strategies.
+title: Forex Moving Average and MACD Combination (Algo Trading)
 ---
 
 The Moving Average Convergence Divergence (MACD) is a prevalent technical indicator in forex trading. It is widely recognized for its ability to identify momentum shifts and trend reversals effectively. As a trend-following momentum oscillator, MACD can highlight potential buying or selling opportunities in the forex market by analyzing the convergence and divergence between moving averages.

@@ -1,6 +1,9 @@
 ---
-title: "Inter-Dealer Brokers: Overview, Considerations, and Advantages (Algo Trading)"
-description: "Explore the role of inter-dealer brokers in financial markets focusing on their contributions to liquidity provision price discovery and the rise of algorithmic trading."
+category: quant_concept
+description: Explore the role of inter-dealer brokers in financial markets focusing
+  on their contributions to liquidity provision price discovery and the rise of algorithmic
+  trading.
+title: 'Inter-Dealer Brokers: Overview, Considerations, and Advantages (Algo Trading)'
 ---
 
 Financial markets are vital components of the global economy, serving as platforms where buyers and sellers engage in the trading of financial assets such as stocks, bonds, currencies, and derivatives. These markets facilitate the allocation of resources, the raising of capital, production of goods and services, and international trade. They are essential in fostering economic growth, enabling risk management through diversification, and providing a mechanism for price discovery which reflects the collective expectations of market participants about future economic and business conditions.

@@ -1,6 +1,8 @@
 ---
-title: "Reshoring: Processes and Examples (Algo Trading)"
-description: "Explore the growing trend of reshoring and its impact on supply chains and algorithmic trading Learn how businesses navigate these evolving economic landscapes"
+category: quant_concept
+description: Explore the growing trend of reshoring and its impact on supply chains
+  and algorithmic trading Learn how businesses navigate these evolving economic landscapes
+title: 'Reshoring: Processes and Examples (Algo Trading)'
 ---
 
 In recent years, reshoring has gained prominence as a crucial strategy in the manufacturing supply chain landscape. This trend marks a reversal of offshoring practices that dominated the previous decades, as companies increasingly prioritize bringing their manufacturing operations back to their original countries. Such reshoring efforts are driven by a myriad of factors, including evolving government policies, rising geopolitical tensions, and an overarching need for greater supply chain resilience. 

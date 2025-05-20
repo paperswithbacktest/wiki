@@ -1,6 +1,9 @@
 ---
-title: "Profits Interest vs. Capital Interest (Algo Trading)"
-description: "Explore profits interest vs capital interest in algo trading for informed financial decisions and strategic growth. Understand key distinctions and their business impacts."
+category: quant_concept
+description: Explore profits interest vs capital interest in algo trading for informed
+  financial decisions and strategic growth. Understand key distinctions and their
+  business impacts.
+title: Profits Interest vs. Capital Interest (Algo Trading)
 ---
 
 In the fast-paced world of business finance, understanding various investment concepts paves the way for growth and sustainability. In this dynamic environment, terms like profits interest, business finance, capital interest, and algorithmic trading are not mere jargon but crucial components influencing corporate strategies and success. These elements form the backbone of financial operations, guiding decisions that drive organizational progress and efficiency.

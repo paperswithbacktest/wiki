@@ -1,6 +1,9 @@
 ---
-title: "Centralized Market (Algo Trading)"
-description: "Explore the dynamics of centralized markets with algorithmic trading transforming structures enhancing efficiency and posing new challenges in the financial realm"
+category: quant_concept
+description: Explore the dynamics of centralized markets with algorithmic trading
+  transforming structures enhancing efficiency and posing new challenges in the financial
+  realm
+title: Centralized Market (Algo Trading)
 ---
 
 The economic systems across the globe manifest a broad spectrum of diversity and intricacy. Within this expanse, centralized markets hold a distinguished position characterized by their structured nature and comprehensive regulatory oversight. Centralized markets operate through a central exchange, where all buying and selling orders are routed, providing transparency and reducing the risks associated with unknown or variable counterparties. This well-organized structure promotes fair trading conditions and facilitates investor confidence, thereby ensuring predictable pricing and enhancing market efficiency.

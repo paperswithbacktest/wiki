@@ -1,6 +1,8 @@
 ---
-title: "SEC Form MSD: Overview and Examples (Algo Trading)"
-description: "Explore the regulatory framework of municipal securities dealers with a focus on SEC Form MSD and the impact of algorithmic trading on market dynamics."
+category: quant_concept
+description: Explore the regulatory framework of municipal securities dealers with
+  a focus on SEC Form MSD and the impact of algorithmic trading on market dynamics.
+title: 'SEC Form MSD: Overview and Examples (Algo Trading)'
 ---
 
 Understanding the regulatory landscape in the financial market is essential for municipal securities dealers, as this field is tightly controlled to ensure market stability and investor protection. Municipal securities dealers, entities that buy and sell securities issued by local governments, play a pivotal role in the financial ecosystem. Their activities are vital for the functioning of the municipal bond market, which local governments rely on to raise funds for public projects and services.

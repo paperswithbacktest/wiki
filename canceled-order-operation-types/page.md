@@ -1,6 +1,8 @@
 ---
-title: "Canceled Order: Operation and Types (Algo Trading)"
-description: "Explore the essential role of order cancellation in algorithmic trading and learn about various order types that enhance trading efficiency and flexibility."
+category: quant_concept
+description: Explore the essential role of order cancellation in algorithmic trading
+  and learn about various order types that enhance trading efficiency and flexibility.
+title: 'Canceled Order: Operation and Types (Algo Trading)'
 ---
 
 Algorithmic trading, also known as algo trading, is a sophisticated method of executing orders through automated systems that follow pre-programmed trading instructions. This method leverages technology to make trading more efficient by minimizing human intervention and executing trades at optimal times based on set algorithms. The process can involve various strategies, including high-frequency trading, arbitrage, and trend following, all designed to capitalize on market movements.

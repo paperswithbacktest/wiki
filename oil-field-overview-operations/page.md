@@ -1,6 +1,8 @@
 ---
-title: "Oil Field: Overview and Operations (Algo Trading)"
-description: "Explore the impact of oil field operations and algorithmic trading on the energy sector highlighting technology's role in shaping the modern energy economy."
+category: quant_concept
+description: Explore the impact of oil field operations and algorithmic trading on
+  the energy sector highlighting technology's role in shaping the modern energy economy.
+title: 'Oil Field: Overview and Operations (Algo Trading)'
 ---
 
 This article explores the intersection of oil field energy, petroleum extraction, and algorithmic trading, examining their roles in shaping the modern energy economy. Oil fields serve as vital sources of natural gas and crude oil, underpinning the global energy supply and influencing economic and geopolitical landscapes. Developments in technology have revolutionized both the extraction processes and the financial markets linked to energy trading, making this intersection increasingly relevant. 
@@ -115,4 +117,3 @@ Lopez de Prado, M. (2018). _Advances in Financial Machine Learning_. This work p
 The European Securities and Markets Authority (ESMA) offers guidelines and regulatory frameworks essential for maintaining market integrity. The introduction of MiFID II has significantly impacted algorithmic trading by enforcing stricter transparency and reporting standards, thereby reducing risks associated with high-frequency trading and market manipulation.
 
 International Energy Agency (IEA). _World Energy Outlook 2021_. This publication provides comprehensive analyses of global energy market trends, including oil and gas forecasts. It highlights the significant geopolitical and economic roles of oil fields and projects future energy dynamics. Understanding these trends is crucial for stakeholders aiming to align their trading and resource management strategies with evolving global energy policies.
-

@@ -1,6 +1,9 @@
 ---
-title: "Barriers to Entry in the Pharmaceutical Industry (Algo Trading)"
-description: "Explore the significant barriers to entry in the pharmaceutical industry, such as high R&D costs, stringent regulations, and IP challenges, and how algo trading aids firms."
+category: quant_concept
+description: Explore the significant barriers to entry in the pharmaceutical industry,
+  such as high R&D costs, stringent regulations, and IP challenges, and how algo trading
+  aids firms.
+title: Barriers to Entry in the Pharmaceutical Industry (Algo Trading)
 ---
 
 The pharmaceutical industry stands as one of the most formidable sectors for new entrants, primarily due to its significant barriers to entry which encompass more than just substantial financial outlays. Stringent regulatory requirements, intricate intellectual property issues, and exorbitant research and development (R&D) costs further elevate the entry threshold. The complexity of these challenges requires an intricate understanding of both market dynamics and legislative frameworks to navigate successfully.

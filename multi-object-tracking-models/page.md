@@ -1,7 +1,8 @@
 ---
-title: Understanding Multi-Object Tracking in Machine Learning Systems
+category: quant_concept
 description: Multi-Object Tracking methods combine object detection and data association
   to follow multiple targets reliably in video Discover more inside
+title: Understanding Multi-Object Tracking in Machine Learning Systems
 ---
 
 ![Image](images/1.png)

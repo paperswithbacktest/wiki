@@ -1,6 +1,8 @@
 ---
-title: "Cash Plus Fund: Definition, Benefits, and Risks (Algo Trading)"
-description: "Explore the intricacies of Cash Plus Funds and algorithmic trading Discover how these strategies balance risk and rewards in today's dynamic investment landscape"
+category: quant_concept
+description: Explore the intricacies of Cash Plus Funds and algorithmic trading Discover
+  how these strategies balance risk and rewards in today's dynamic investment landscape
+title: 'Cash Plus Fund: Definition, Benefits, and Risks (Algo Trading)'
 ---
 
 In today's dynamic financial landscape, investors are continually seeking strategies that balance potential returns and risks. The emergence of Cash Plus Funds and algorithmic trading (algo trading) are two notable trends that offer unique advantages and pose certain challenges. As technological advancements continue to reshape financial markets, these tools have gained prominence for their ability to cater to different investment philosophies and risk appetites.

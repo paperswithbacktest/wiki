@@ -1,6 +1,9 @@
 ---
-title: "Bid-to-Cover Ratio (Algo Trading)"
-description: "Explore the bid-to-cover ratio's crucial role in Treasury auctions and its impact on algorithmic trading Learn how this metric influences investment strategies and economic conditions"
+category: quant_concept
+description: Explore the bid-to-cover ratio's crucial role in Treasury auctions and
+  its impact on algorithmic trading Learn how this metric influences investment strategies
+  and economic conditions
+title: Bid-to-Cover Ratio (Algo Trading)
 ---
 
 Understanding complex financial metrics is crucial for investors and policymakers alike as they navigate the dynamic landscape of financial markets. One such metric, the bid-to-cover ratio, serves as a vital indicator for evaluating demand in Treasury auctions. This metric provides valuable insights into investor appetite for government securities, which can, in turn, reflect broader economic conditions. 

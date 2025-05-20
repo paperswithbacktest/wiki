@@ -1,6 +1,9 @@
 ---
-title: "List of Countries by Silver Production (Algo Trading)"
-description: "Explore global silver production dynamics with Mexico, China, and Peru leading the charge. Understand investment strategies including algorithmic trading for silver."
+category: dataset
+description: Explore global silver production dynamics with Mexico, China, and Peru
+  leading the charge. Understand investment strategies including algorithmic trading
+  for silver.
+title: List of Countries by Silver Production (Algo Trading)
 ---
 
 Silver remains a pivotal element in both industrial and investment domains, commanding attention due to its unique properties and diverse applications. As a metal, silver boasts exceptional reflectivity, high electrical and thermal conductivity, and antibacterial qualities, making it indispensable in various industries, including electronics, photovoltaics, and medicine. Its widespread utility underscores the strategic importance of silver production across the globe.

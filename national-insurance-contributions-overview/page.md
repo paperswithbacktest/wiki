@@ -1,6 +1,9 @@
 ---
-title: "National Insurance Contributions Overview (Algo Trading)"
-description: "Explore the impact of National Insurance Contributions on algorithmic trading. Discover how fiscal policies like NICs influence financial markets and trading strategies."
+category: quant_concept
+description: Explore the impact of National Insurance Contributions on algorithmic
+  trading. Discover how fiscal policies like NICs influence financial markets and
+  trading strategies.
+title: National Insurance Contributions Overview (Algo Trading)
 ---
 
 National Insurance Contributions (NICs) are a fundamental part of the United Kingdom's social welfare system, serving as essential funding for public services such as the National Health Service (NHS) and state pensions. Collected from both employers and employees, NICs are a form of taxation on earnings, which supports the financial fabric of the UK by maintaining the welfare state. Their significance extends beyond social security; they influence labor markets and the broader economy by affecting disposable income and employment costs.

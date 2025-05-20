@@ -1,6 +1,8 @@
 ---
-title: "Market Manipulation Strategies (Algo Trading)"
-description: "Discover how algorithmic trading can lead to market manipulation, unveiling deceptive strategies that impact financial markets and regulatory responses."
+category: trading_strategy
+description: Discover how algorithmic trading can lead to market manipulation, unveiling
+  deceptive strategies that impact financial markets and regulatory responses.
+title: Market Manipulation Strategies (Algo Trading)
 ---
 
 Algorithmic trading has dramatically reshaped the financial markets by allowing traders to execute orders at speeds and volumes that were previously impossible. This technological advancement utilizes algorithms—computer programs designed to follow a defined set of instructions for solving problems or performing tasks—to make trading decisions, often in fractions of a second. This high-frequency trading capability has introduced unprecedented efficiency and liquidity, enabling quicker price adjustments and narrower bid-ask spreads.

@@ -1,6 +1,9 @@
 ---
-title: "No-Fee Exchange-Traded Funds: Overview, History, Criticism (Algo Trading)"
-description: "Explore the rise of no-fee ETFs and their symbiotic relationship with algorithmic trading within modern investment strategies highlighting both benefits and criticisms."
+category: quant_concept
+description: Explore the rise of no-fee ETFs and their symbiotic relationship with
+  algorithmic trading within modern investment strategies highlighting both benefits
+  and criticisms.
+title: 'No-Fee Exchange-Traded Funds: Overview, History, Criticism (Algo Trading)'
 ---
 
 Exchange-traded funds (ETFs) have become a cornerstone of modern investment strategies, offering a blend of diversified portfolio management with the liquidity and simplicity of stock trading. These funds are baskets of securities such as stocks, bonds, or commodities that are traded on exchanges, much like individual stocks. Since their inception, ETFs have offered investors an efficient way to participate in different market sectors and asset classes without the need to individually purchase multiple securities.

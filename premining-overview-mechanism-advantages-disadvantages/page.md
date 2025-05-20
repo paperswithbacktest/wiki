@@ -1,6 +1,8 @@
 ---
-title: "Premining: Overview, Mechanism, Advantages and Disadvantages (Algo Trading)"
-description: "Explore the impact of premining on algorithmic trading in cryptocurrency markets, understanding its influence on liquidity, volatility, and trading strategies."
+category: quant_concept
+description: Explore the impact of premining on algorithmic trading in cryptocurrency
+  markets, understanding its influence on liquidity, volatility, and trading strategies.
+title: 'Premining: Overview, Mechanism, Advantages and Disadvantages (Algo Trading)'
 ---
 
 Blockchain cryptocurrency has dramatically transformed the financial sector by introducing a decentralized and secure method of transaction and asset holding. Originally devised to facilitate peer-to-peer transactions without intermediaries, blockchain technology ensures transparency, immutability, and security through its distributed ledger system. Cryptocurrencies like Bitcoin and Ethereum have emerged as digital storehouses of value, embracing broader functionalities beyond traditional fiat currencies, notably smart contracts and decentralized finance.

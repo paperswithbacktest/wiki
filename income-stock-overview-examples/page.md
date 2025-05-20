@@ -1,6 +1,8 @@
 ---
-title: "Income Stock Overview and Examples (Algo Trading)"
-description: "Explore income stock investing and algorithmic trading to optimize returns. Learn how steady dividends and high-speed algorithms create investor opportunities."
+category: trading_strategy
+description: Explore income stock investing and algorithmic trading to optimize returns.
+  Learn how steady dividends and high-speed algorithms create investor opportunities.
+title: Income Stock Overview and Examples (Algo Trading)
 ---
 
 The stock market presents a wide array of investment opportunities, with two of the most popular strategies being income stock investing and algorithmic trading. Income stock investing focuses on the acquisition of securities that provide steady dividend payments, offering investors a reliable source of passive income. These dividends are typically distributed on a regular schedule, providing a financial buffer that can appeal especially to those seeking consistent returns.

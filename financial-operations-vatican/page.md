@@ -1,6 +1,8 @@
 ---
-title: "Financial Operations of the Vatican (Algo Trading)"
-description: "Explore the Vatican's financial operations and modern strategies including algorithmic trading while maintaining ethical guidelines and transparency."
+category: trading_strategy
+description: Explore the Vatican's financial operations and modern strategies including
+  algorithmic trading while maintaining ethical guidelines and transparency.
+title: Financial Operations of the Vatican (Algo Trading)
 ---
 
 The Vatican, officially recognized as Vatican City State, holds the title of the world's smallest sovereign entity, encompassing approximately 44 hectares. Despite its diminutive size, the Vatican's financial influence extends globally, often characterized by a complex and somewhat enigmatic economic framework. This article explores the intricacies of Vatican finances, considering the wealth it possesses, its diverse investments, and the modern financial strategies it employs.

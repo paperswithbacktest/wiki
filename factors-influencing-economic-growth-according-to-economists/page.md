@@ -1,6 +1,9 @@
 ---
-title: "Factors Influencing Economic Growth According to Economists (Algo Trading)"
-description: "Explore the complex factors influencing economic growth as economists examine supply-demand dynamics, technological innovations, and the role of algorithmic trading."
+category: quant_concept
+description: Explore the complex factors influencing economic growth as economists
+  examine supply-demand dynamics, technological innovations, and the role of algorithmic
+  trading.
+title: Factors Influencing Economic Growth According to Economists (Algo Trading)
 ---
 
 The world of economics is constantly evolving, characterized by a complex interplay of factors influencing financial systems and growth trajectories. Economic growth, typically measured by metrics such as Gross Domestic Product (GDP), signifies an increase in a nation's output and is paramount for developing policy frameworks and investment strategies. The study and understanding of economic growth are critical for economists, policymakers, and investors, as they seek mechanisms to stimulate and sustain development.
@@ -141,4 +144,3 @@ Ultimately, the path forward involves a comprehensive approach that respects bot
   - "Algorithmic Trading and Finance Models with Python, R, and Stata Essential Training" on LinkedIn Learning. This course offers a well-rounded approach to understanding trading models using various programming languages.
 
 These resources can provide a deeper understanding of the interconnectedness of economic growth theories and the role of algorithmic trading in financial markets.
-

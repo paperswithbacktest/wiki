@@ -1,10 +1,9 @@
 ---
-title: Understanding the Perceptron Model in Machine Learning
+category: quant_concept
 description: Perceptron fundamentals explain how a simple neural unit classifies data
   using weighted inputs bias activation and trains itself Discover more inside
+title: Understanding the Perceptron Model in Machine Learning
 ---
-
-
 
 ## Table of Contents
 

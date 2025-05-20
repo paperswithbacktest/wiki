@@ -1,6 +1,8 @@
 ---
-title: "Days Sales of Inventory (Algo Trading)"
-description: "Explore Days Sales of Inventory and its role in optimizing business performance and algorithmic trading strategies for improved stock analysis and profitability."
+category: quant_concept
+description: Explore Days Sales of Inventory and its role in optimizing business performance
+  and algorithmic trading strategies for improved stock analysis and profitability.
+title: Days Sales of Inventory (Algo Trading)
 ---
 
 Understanding financial metrics and their impact on business operations is crucial in today's fast-paced market environment. Companies must navigate a complex financial landscape where efficient operations can significantly enhance profitability and provide a competitive edge. Among these financial metrics, Days Sales of Inventory (DSI) stands out as an essential ratio that offers valuable insights into a company's inventory management practices.

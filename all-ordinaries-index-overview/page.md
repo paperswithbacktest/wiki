@@ -1,6 +1,8 @@
 ---
-title: "All-Ordinaries Index Overview (Algo Trading)"
-description: "Explore the All-Ordinaries Index and the impact of algorithmic trading on the Australian market highlighting market dynamics trends and trading efficiencies."
+category: quant_concept
+description: Explore the All-Ordinaries Index and the impact of algorithmic trading
+  on the Australian market highlighting market dynamics trends and trading efficiencies.
+title: All-Ordinaries Index Overview (Algo Trading)
 ---
 
 The All-Ordinaries Stock Index, often referred to as 'All Ords', stands as a leading benchmark in the Australian financial market landscape. Assembled from the 500 largest companies by market capitalization on the Australian Stock Exchange (ASX), it serves as a critical gauge of the overall performance and health of the Australian equities market. Not only does it reflect the stock price movements across a wide array of industries, but it also encapsulates approximately 87% of the total ASX market capitalization, thus offering a comprehensive snapshot of market trends and investor sentiment.

@@ -1,6 +1,9 @@
 ---
-title: "Sales Charge: Types and Criticisms (Algo Trading)"
-description: "Explore the impact of sales charges on investments learn about their types and criticisms and discover how algorithmic trading can help mitigate these costs"
+category: quant_concept
+description: Explore the impact of sales charges on investments learn about their
+  types and criticisms and discover how algorithmic trading can help mitigate these
+  costs
+title: 'Sales Charge: Types and Criticisms (Algo Trading)'
 ---
 
 In the world of mutual funds and investments, sales charges are a common element that investors must contend with. These charges, often referred to as "loads," can significantly impact the overall returns on investment, leading to frequent criticisms and debates over their necessity. In particular, these fees can reduce the amount of capital that is effectively invested, thereby affecting the potential growth of an investment portfolio. Sales charges can manifest in various forms, including front-end loads, back-end loads, and level loads, each with distinct implications for investment performance. 

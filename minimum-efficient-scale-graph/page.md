@@ -1,6 +1,8 @@
 ---
-title: "Minimum Efficient Scale with Graph (Algo Trading)"
-description: "Explore how economies of scale, minimum efficient scale, and algorithmic trading intertwine to optimize business efficiency and competitive market advantage."
+category: quant_concept
+description: Explore how economies of scale, minimum efficient scale, and algorithmic
+  trading intertwine to optimize business efficiency and competitive market advantage.
+title: Minimum Efficient Scale with Graph (Algo Trading)
 ---
 
 Economies of scale represent a critical concept in business economics, holding significant implications for organizations striving for growth and competitive advantage. As businesses expand their operations, they often encounter opportunities to reduce costs through increased production efficiencies, providing a stronger foothold in competitive marketplaces. This article aims to dissect the intricate connection between economies of scale, minimum efficient scale (MES), and algorithmic trading, all of which play pivotal roles in shaping strategic business outcomes.

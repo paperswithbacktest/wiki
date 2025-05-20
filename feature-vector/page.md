@@ -1,7 +1,8 @@
 ---
-title: Understanding Feature Vectors for Machine Learning Models
+category: quant_concept
 description: Feature vector converts raw data into numeric features that power model
   accuracy through selection and scaling with fewer features Discover more inside
+title: Understanding Feature Vectors for Machine Learning Models
 ---
 
 ![Image](images/1.png)

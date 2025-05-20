@@ -1,7 +1,8 @@
 ---
-title: Efficient Machine Learning Through Packed Data Techniques
+category: quant_concept
 description: Packed data streamlines model training by grouping sequences for batch
   processing and reducing memory use to boost efficiency Discover more inside.
+title: Efficient Machine Learning Through Packed Data Techniques
 ---
 
 ![Image](images/1.jpeg)

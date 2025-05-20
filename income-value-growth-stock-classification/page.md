@@ -1,6 +1,8 @@
 ---
-title: "Income, Value, and Growth Stock Classification (Algo Trading)"
-description: "Discover key insights on income growth and value stocks with our guide on their classification and how algorithmic trading enhances investment strategies."
+category: trading_strategy
+description: Discover key insights on income growth and value stocks with our guide
+  on their classification and how algorithmic trading enhances investment strategies.
+title: Income, Value, and Growth Stock Classification (Algo Trading)
 ---
 
 In the world of investment, understanding different types of stocks is crucial to building a diverse portfolio. A well-structured investment strategy often includes a balanced mix of income stocks, growth stocks, and value stocks. Each category offers distinct benefits and risks, appealing to different investor objectives. 

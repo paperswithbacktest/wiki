@@ -1,6 +1,9 @@
 ---
-title: "Islamic Investment Policies and Mechanisms (Algo Trading)"
-description: "Explore the synergy between Shariah-compliant investments and algorithmic trading technologies redefining Islamic finance with ethical and modern investment solutions."
+category: trading_strategy
+description: Explore the synergy between Shariah-compliant investments and algorithmic
+  trading technologies redefining Islamic finance with ethical and modern investment
+  solutions.
+title: Islamic Investment Policies and Mechanisms (Algo Trading)
 ---
 
 The growing intersection of Shariah-compliant investment and modern technologies such as algorithmic trading is reshaping the landscape of Islamic finance. Shariah-compliant investments are guided by Islamic law, which presents specific ethical standards and prohibitions, such as the avoidance of interest (riba) and investments in sectors considered haram, like alcohol and gambling. The deployment of advanced technologies, particularly algorithmic trading, within this domain necessitates adherence to these fundamental principles while facilitating financial activities that align with them.
@@ -138,4 +141,3 @@ The trajectory for Islamic finance is promising, as the sector is poised for con
 9. **Laldin, Mohamad Akram and Furqani, Hafas. "Innovation versus Shariah Compliance in Islamic Finance: The Case of Online Trading and Investment."** This paper discusses the challenges and opportunities at the intersection of FinTech and Islamic finance, particularly focusing on algorithmic trading and digital platforms.
 
 10. **Siddiqi, Muhammad Nejatullah. "Riba, Bank Interest and the Rationale of Its Prohibition."** This work offers a critical examination of the Islamic prohibition of interest (riba), providing an economic understanding that underpins Shariah-compliant financing models.
-

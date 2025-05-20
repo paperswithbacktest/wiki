@@ -1,6 +1,9 @@
 ---
-title: "Leading Global Bond Funds (Algo Trading)"
-description: "Enhance your investment strategy with global bond funds and algorithmic trading for balanced portfolio growth and risk management in a complex financial world."
+category: trading_strategy
+description: Enhance your investment strategy with global bond funds and algorithmic
+  trading for balanced portfolio growth and risk management in a complex financial
+  world.
+title: Leading Global Bond Funds (Algo Trading)
 ---
 
 In an increasingly complex financial ecosystem, investors are continually seeking methods to enhance portfolio returns and mitigate risks. The evolving landscape of financial planning and investment strategies now encompasses a wider range of asset classes, such as global bond funds, and leverages cutting-edge technologies like algorithmic trading. These elements coalesce to form sophisticated and modern investment strategies that cater to both traditional and risk-averse investors.

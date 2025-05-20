@@ -1,6 +1,9 @@
 ---
-title: "Introduction to Reading an Options Chain (Algo Trading)"
-description: "Discover the fundamentals of options trading and the role of algorithmic strategies in financial markets Learn to navigate options chains for smarter trading decisions"
+category: quant_concept
+description: Discover the fundamentals of options trading and the role of algorithmic
+  strategies in financial markets Learn to navigate options chains for smarter trading
+  decisions
+title: Introduction to Reading an Options Chain (Algo Trading)
 ---
 
 In the ever-evolving landscape of modern financial markets, investors have access to a diverse array of investment options ranging from traditional asset classes such as stocks, bonds, and mutual funds to more sophisticated instruments like derivatives, including futures and options. Among these, options trading has garnered significant attention due to its potential for high leverage and strategic diversity. An option is a financial derivative that contracts the right, but not the obligation, to buy (call option) or sell (put option) an underlying asset at a predetermined price before or at a specified expiration date. This flexibility makes options a valuable tool for both speculative trading and hedging strategies.

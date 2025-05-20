@@ -1,7 +1,8 @@
 ---
-title: Understanding Iteration in Machine Learning for Better Models
+category: quant_concept
 description: Iteration in machine learning refines models through repeated gradient
   descent updates and regularization to prevent overfitting Discover more inside
+title: Understanding Iteration in Machine Learning for Better Models
 ---
 
 ![Image](images/1.webp)

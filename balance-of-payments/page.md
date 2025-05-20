@@ -1,6 +1,9 @@
 ---
-title: "Balance of Payments (Algo Trading)"
-description: "Understand the synergy between balance of payments and algorithmic trading in financial markets Learn how BOP data optimizes trading strategies and forecasts market trends"
+category: quant_concept
+description: Understand the synergy between balance of payments and algorithmic trading
+  in financial markets Learn how BOP data optimizes trading strategies and forecasts
+  market trends
+title: Balance of Payments (Algo Trading)
 ---
 
 Economic accounting, balance of payments (BOP), and algorithmic trading are pivotal components of modern financial analysis. Economic accounting is the systematic performance measurement of an economy, utilizing standardized methods to capture a comprehensive picture of national and global economic health. This discipline focuses on national income accounting, which quantifies a nation's total economic activity, encompassing goods and services production, and financial transactions. It plays an essential role in both government policy-making and business strategy, offering insights into economic performance, resource allocation, and fiscal health.

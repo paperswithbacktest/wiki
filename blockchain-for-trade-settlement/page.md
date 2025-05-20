@@ -1,6 +1,8 @@
 ---
-title: "Blockchain for Trade Settlement (Algo Trading)"
-description: "Explore the transformative impact of blockchain on trade settlements and Algo Trading reducing risks and enhancing efficiency in financial markets."
+category: quant_concept
+description: Explore the transformative impact of blockchain on trade settlements
+  and Algo Trading reducing risks and enhancing efficiency in financial markets.
+title: Blockchain for Trade Settlement (Algo Trading)
 ---
 
 The recent evolution of blockchain technology is transforming the world of trade settlements. As global markets pursue enhanced efficiency and reduced risk, blockchain emerges as a promising solution, offering innovations in how transactions are executed and settled. At the forefront of these changes is algorithmic trading (Algo Trading), where speed and precision are paramount. This article will explore the potential role of blockchain in trade settlement, assessing its impact on Algo Trading and other financial market functions.

@@ -1,6 +1,9 @@
 ---
-title: "Limitations of Net Present Value in Investment Analysis (Algo Trading)"
-description: "Discover the limitations of Net Present Value in investment analysis especially within algorithmic trading Learn about alternative strategies for enhanced decisions"
+category: quant_concept
+description: Discover the limitations of Net Present Value in investment analysis
+  especially within algorithmic trading Learn about alternative strategies for enhanced
+  decisions
+title: Limitations of Net Present Value in Investment Analysis (Algo Trading)
 ---
 
 Net Present Value (NPV) is a pivotal concept in the evaluation of investment opportunities, serving as a quantitative measure that determines the current worth of expected future cash flows. By applying a discount rate, NPV translates the potential gains or losses of an investment into today's monetary terms, thereby facilitating informed decision-making for investors and financial analysts.

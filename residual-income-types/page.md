@@ -1,6 +1,8 @@
 ---
-title: "Residual Income and Its Types (Algo Trading)"
-description: "Explore the nuances of residual and passive income, from royalties and rental earnings to algorithmic trading, for a diversified financial portfolio approach."
+category: quant_concept
+description: Explore the nuances of residual and passive income, from royalties and
+  rental earnings to algorithmic trading, for a diversified financial portfolio approach.
+title: Residual Income and Its Types (Algo Trading)
 ---
 
 Residual income and passive income are key concepts in financial planning, each playing distinct roles in enhancing economic stability. Residual income, also known as recurring income, refers to funds earned with minimal ongoing effort after an initial investment of time or resources. Examples include royalties from intellectual property, rental income from real estate, and earnings from business operations not requiring direct day-to-day involvement. Its significance lies in the potential for continuous revenue generation, contributing to long-term financial stability and wealth accumulation.

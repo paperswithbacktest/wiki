@@ -1,6 +1,9 @@
 ---
-title: "Trade Adjustment Assistance Program (Algo Trading)"
-description: "Explore the Trade Adjustment Assistance Program's role in retraining displaced workers for new opportunities including the potential for careers in algorithmic trading."
+category: quant_concept
+description: Explore the Trade Adjustment Assistance Program's role in retraining
+  displaced workers for new opportunities including the potential for careers in algorithmic
+  trading.
+title: Trade Adjustment Assistance Program (Algo Trading)
 ---
 
 The Trade Adjustment Assistance (TAA) program stands as a pivotal federal initiative, purposefully designed to aid American workers who face job losses due to international trade dynamics. With globalization accelerating, more industries encounter competitive pressures from imports, subsequently leading to job displacements. The TAA program addresses this by providing affected workers with access to retraining and various support services, facilitating their transition into new employment opportunities.

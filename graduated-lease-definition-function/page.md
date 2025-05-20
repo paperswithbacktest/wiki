@@ -1,6 +1,8 @@
 ---
-title: "Graduated Lease: Definition and Function (Algo Trading)"
-description: "Explore the intricacies of graduated leases in real estate and their surprising link to algorithmic trading for strategic and informed investment decisions."
+category: quant_concept
+description: Explore the intricacies of graduated leases in real estate and their
+  surprising link to algorithmic trading for strategic and informed investment decisions.
+title: 'Graduated Lease: Definition and Function (Algo Trading)'
 ---
 
 In today's complex real estate and investment environment, grasping key financial terms and mechanisms is essential for making informed decisions. Understanding rental terms and lease agreements is pivotal, as these are foundational elements of real estate transactions. The intricacies such as maintenance responsibilities, insurance obligations, and utility management are vital for creating transparent and beneficial contracts between landlords and tenants.

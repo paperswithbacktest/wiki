@@ -1,6 +1,12 @@
 ---
-title: "Net Change (Algo Trading)"
-description: "Explore the intersection of market trends, financial analysis, and algorithmic trading to enhance your investment strategies. Gain insights into recognizing market trends for profitable trades, leveraging financial analysis for informed decisions, and utilizing algo trading for precision and speed in executions. This comprehensive article empowers traders to navigate modern financial markets effectively, ensuring a competitive advantage."
+category: trading_strategy
+description: Explore the intersection of market trends, financial analysis, and algorithmic
+  trading to enhance your investment strategies. Gain insights into recognizing market
+  trends for profitable trades, leveraging financial analysis for informed decisions,
+  and utilizing algo trading for precision and speed in executions. This comprehensive
+  article empowers traders to navigate modern financial markets effectively, ensuring
+  a competitive advantage.
+title: Net Change (Algo Trading)
 ---
 
 In the rapidly evolving world of finance, understanding market trends and conducting financial analysis are crucial for any investor or trader. Market trends provide essential insights into the general direction of the financial market over time, serving as a critical component for making informed trading decisions. Identifying these trends allows traders to optimize their entry and exit points to maximize profitability.

@@ -1,6 +1,16 @@
 ---
-title: "Risk Parity Asset Allocation"
-description: Risk Parity Asset Allocation explores an innovative investment strategy aimed at achieving balanced risk distribution across various assets by focusing on asset volatility. It addresses the risk imbalance in traditional portfolios that often results from higher volatility assets, leading to potential instability. The strategy involves calculating marginal risk contributions to adjust asset weights, ensuring equal risk contribution. The concept gained prominence through Bridgewater Associates' All Weather fund, which illustrated its effectiveness in achieving stable returns across market conditions. Additionally, the page examines portfolio types like equally-weighted portfolios and naïve risk parity, highlighting the limitations of simplistic strategies in risk management.
+category: trading_strategy
+description: Risk Parity Asset Allocation explores an innovative investment strategy
+  aimed at achieving balanced risk distribution across various assets by focusing
+  on asset volatility. It addresses the risk imbalance in traditional portfolios that
+  often results from higher volatility assets, leading to potential instability. The
+  strategy involves calculating marginal risk contributions to adjust asset weights,
+  ensuring equal risk contribution. The concept gained prominence through Bridgewater
+  Associates' All Weather fund, which illustrated its effectiveness in achieving stable
+  returns across market conditions. Additionally, the page examines portfolio types
+  like equally-weighted portfolios and naïve risk parity, highlighting the limitations
+  of simplistic strategies in risk management.
+title: Risk Parity Asset Allocation
 ---
 
 Risk parity is an innovative strategy in investment management designed to address the imbalance of risk typically observed in conventional portfolios. The primary goal of this approach is to achieve an equal distribution of risk across various assets, predominantly focusing on asset volatility. Traditional portfolios often exhibit a disproportionate concentration of risk in assets with higher volatility, which can lead to portfolio instability. Risk parity seeks to amend this by ensuring that each asset contributes equally to the total portfolio risk in relation to its volatility.

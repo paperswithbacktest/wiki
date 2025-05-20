@@ -1,6 +1,8 @@
 ---
-title: "Mobile Banking (Algo Trading)"
-description: "Explore how mobile and digital banking transform financial services with AI and blockchain while algorithmic trading reshapes markets for faster trades."
+category: quant_concept
+description: Explore how mobile and digital banking transform financial services with
+  AI and blockchain while algorithmic trading reshapes markets for faster trades.
+title: Mobile Banking (Algo Trading)
 ---
 
 The advent of technology has dramatically transformed the financial landscape, enhancing the way we manage and interact with our money. At the forefront of this transformation are mobile banking and digital banking, two revolutionary technologies that offer unparalleled convenience and accessibility. Mobile banking allows users to perform financial transactions and manage their account information via smartphones and tablets. This convenience has been a catalyst for its widespread adoption, redefining customer expectations for financial services. Digital banking extends these capabilities by using digital platforms to emulate the services of traditional banks, while integrating advanced technologies such as artificial intelligence (AI) and blockchain to offer seamless, personalized experiences.

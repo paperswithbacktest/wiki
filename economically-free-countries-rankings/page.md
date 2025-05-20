@@ -1,6 +1,14 @@
 ---
-title: "Economically Free Countries Rankings (Algo Trading)"
-description: "Discover the impact of economic freedom on global prosperity with our rankings of economically free countries. Learn how factors like private property security, regulatory efficiency, and open markets influence innovation and investment, especially in realms such as algorithmic trading. Understand why countries with minimal governmental barriers often lead in economic growth and how this creates robust environments for businesses and investors. Explore insights from top indices like the Heritage Foundation's Index of Economic Freedom and uncover the dynamic link between economic freedom and financial advancements."
+category: dataset
+description: Discover the impact of economic freedom on global prosperity with our
+  rankings of economically free countries. Learn how factors like private property
+  security, regulatory efficiency, and open markets influence innovation and investment,
+  especially in realms such as algorithmic trading. Understand why countries with
+  minimal governmental barriers often lead in economic growth and how this creates
+  robust environments for businesses and investors. Explore insights from top indices
+  like the Heritage Foundation's Index of Economic Freedom and uncover the dynamic
+  link between economic freedom and financial advancements.
+title: Economically Free Countries Rankings (Algo Trading)
 ---
 
 Economic freedom is a crucial determinant in the prosperity and functionality of contemporary nations. It refers to the ease with which individuals and businesses can engage in economic activities without excessive interference from governments or restrictive economic authorities. This freedom is a measure of the opportunities for economic prosperity that a nation provides to its citizens and enterprises. Economic freedom encompasses several elements, including the security of private property rights, freedom to trade, and minimal governmental intervention, which collectively create an environment conducive to economic activities.

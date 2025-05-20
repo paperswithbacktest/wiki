@@ -1,6 +1,9 @@
 ---
-title: "Qualified Institutional Buyer (Algo Trading)"
-description: "Explore the role of Qualified Institutional Buyers in algorithmic trading examining their impact on market liquidity and investment strategies within private securities transactions."
+category: quant_concept
+description: Explore the role of Qualified Institutional Buyers in algorithmic trading
+  examining their impact on market liquidity and investment strategies within private
+  securities transactions.
+title: Qualified Institutional Buyer (Algo Trading)
 ---
 
 A Qualified Institutional Buyer (QIB) is an entity deemed eligible to engage in certain securities transactions that are not available to the general public. This designation exists in the regulatory frameworks of various jurisdictions, such as the United States, to facilitate the buying and selling of securities within private markets. QIBs must meet specific criteria outlined by financial authorities, which typically include financial institutions like banks, insurance companies, registered investment companies, employee benefit plans, and entities that manage at least $100 million in securities. These entities are considered more capable of assessing investment risks due to their experience, expertise, and substantial financial resources.

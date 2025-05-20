@@ -1,6 +1,9 @@
 ---
-title: "Harvard Endowment Investment in Cryptocurrency (Algo Trading)"
-description: "Harvard's $39B endowment's venture into cryptocurrency highlights a strategic shift embracing digital assets, signaling institutional trust in crypto's future potential."
+category: trading_strategy
+description: Harvard's $39B endowment's venture into cryptocurrency highlights a strategic
+  shift embracing digital assets, signaling institutional trust in crypto's future
+  potential.
+title: Harvard Endowment Investment in Cryptocurrency (Algo Trading)
 ---
 
 The financial landscape is undergoing a period of rapid transformation, driven by the integration of innovative technologies that are reshaping traditional investment paradigms. Harvard University, renowned for its academic excellence and substantial financial resources, is at the forefront of this evolution. With an endowment valued at approximately $39 billion, Harvard's exploration of cryptocurrency investments reflects a notable shift in institutional investment strategies. This move highlights the growing recognition of digital assets as a legitimate asset class within the portfolios of major institutional investors.

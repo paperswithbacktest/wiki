@@ -1,6 +1,9 @@
 ---
-title: "Portfolio Performance Evaluation (Algo Trading)"
-description: "Explore key metrics for evaluating portfolio performance within algorithmic trading, vital for optimizing strategies, improving risk management, and enhancing investment returns."
+category: trading_strategy
+description: Explore key metrics for evaluating portfolio performance within algorithmic
+  trading, vital for optimizing strategies, improving risk management, and enhancing
+  investment returns.
+title: Portfolio Performance Evaluation (Algo Trading)
 ---
 
 Algorithmic trading, often abbreviated as algo trading, refers to the practice of using computer algorithms to facilitate and manage trading processes, thereby automating decision-making in financial markets. This approach leverages advanced mathematical models and statistical techniques to execute orders at speeds and frequencies that are beyond the capabilities of human traders. As algo trading becomes increasingly prevalent, the evaluation of portfolio performance emerges as a critical aspect of ensuring the effective implementation of trading strategies.

@@ -1,6 +1,10 @@
 ---
-title: "Iron Butterfly Trading Strategy (Algo Trading)"
-description: "Discover the Iron Butterfly trading strategy, a neutral options market tactic aimed at profiting from minimal price movement. This guide investigates into its mechanics and highlights algorithmic trading's role in optimizing execution, making it ideal for low volatility environments."
+category: trading_strategy
+description: Discover the Iron Butterfly trading strategy, a neutral options market
+  tactic aimed at profiting from minimal price movement. This guide investigates into
+  its mechanics and highlights algorithmic trading's role in optimizing execution,
+  making it ideal for low volatility environments.
+title: Iron Butterfly Trading Strategy (Algo Trading)
 ---
 
 The Iron Butterfly is a trading strategy in the options market that revolves around creating a neutral position using multiple options contracts. This strategy is primarily utilized by traders aiming to profit from an underlying asset's limited price movement. At its core, the Iron Butterfly combines various options to construct a 'wingspread,' offering both a capped risk and potential reward. Unlike other strategies that might capitalize on significant market shifts, the Iron Butterfly thrives in environments characterized by stability and low volatility.

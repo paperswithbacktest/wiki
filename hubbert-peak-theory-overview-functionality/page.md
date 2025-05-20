@@ -1,6 +1,9 @@
 ---
-title: "Hubbert Peak Theory: Overview and Functionality (Algo Trading)"
-description: "Explore Hubbert Peak Theory's impact on oil production trends and market prediction through algorithmic trading Utilizing modern technologies reshapes the energy landscape"
+category: quant_concept
+description: Explore Hubbert Peak Theory's impact on oil production trends and market
+  prediction through algorithmic trading Utilizing modern technologies reshapes the
+  energy landscape
+title: 'Hubbert Peak Theory: Overview and Functionality (Algo Trading)'
 ---
 
 Hubbert Peak Theory, formulated by geophysicist Marion King Hubbert in the mid-20th century, is pivotal in understanding oil production trends. The theory posits that for any given geographical area, the rate of petroleum production follows a bell-shaped curve. Initially, as extraction efforts commence, oil production increases due to technological advancements and heightened exploration. However, as reserves become tapped, production reaches a zenith – the "peak" – followed by a gradual decline. This model was historically accurate for predicting the United States' crude oil production peak in the early 1970s.

@@ -1,6 +1,8 @@
 ---
-title: "New York Stock Exchange Euronext (Algo Trading)"
-description: "Explore the transformative impact of algorithmic trading on NYSE Euronext as technology enhances trading efficiency speed and precision in global markets."
+category: quant_concept
+description: Explore the transformative impact of algorithmic trading on NYSE Euronext
+  as technology enhances trading efficiency speed and precision in global markets.
+title: New York Stock Exchange Euronext (Algo Trading)
 ---
 
 The financial markets have witnessed substantial transformations over recent years, largely driven by the advancement of technology and the integration of algorithmic trading mechanisms. Platforms such as NYSE Euronext have embraced these technological evolutions, cementing algorithmic trading's pivotal role within their operations. This article aims to offer an insightful overview of the NYSE Euronext stock exchange and examine the profound impact that algorithmic trading has on such platforms.

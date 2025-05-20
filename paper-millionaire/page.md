@@ -1,6 +1,9 @@
 ---
-title: "Paper Millionaire (Algo Trading)"
-description: "Explore the concept of paper millionaires in the stock market and how algorithmic trading can help navigate market volatility to maximize returns and manage risks."
+category: quant_concept
+description: Explore the concept of paper millionaires in the stock market and how
+  algorithmic trading can help navigate market volatility to maximize returns and
+  manage risks.
+title: Paper Millionaire (Algo Trading)
 ---
 
 In investing, the stock market presents a multitude of opportunities to accrue wealth. One intriguing aspect of this environment is the concept of a 'paper millionaire.' This term refers to individuals who appear affluent on paper, mainly due to the ownership of valuable assets, yet this wealth remains largely unrealized unless these assets are liquidated into tangible cash. Such a status can be achieved through strategic investment in equities, real estate, or other asset classes, but it also brings certain risks tied to market volatility and asset depreciation.

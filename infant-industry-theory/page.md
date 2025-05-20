@@ -1,6 +1,9 @@
 ---
-title: "Infant Industry Theory (Algo Trading)"
-description: "Explore the intersection of infant industry protectionism and algorithmic trading, analyzing how technology influences trade policies aimed at nurturing emerging sectors."
+category: quant_concept
+description: Explore the intersection of infant industry protectionism and algorithmic
+  trading, analyzing how technology influences trade policies aimed at nurturing emerging
+  sectors.
+title: Infant Industry Theory (Algo Trading)
 ---
 
 Trade protectionism has historically been a divisive topic among economists, creating a spectrum of opinions surrounding its efficacy. A central theory that supports protectionist policies is the Infant Industry Theory, which posits that new and emerging industries, particularly in developing nations, necessitate temporary protection from international market forces to establish themselves. This protection generally takes the form of tariffs, subsidies, or quotas that cushion these fledgling industries from more established global competitors, allowing them to develop operational efficiencies and economies of scale over time.

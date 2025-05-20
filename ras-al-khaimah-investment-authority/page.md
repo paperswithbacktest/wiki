@@ -1,6 +1,9 @@
 ---
-title: "Ras Al Khaimah Investment Authority (Algo Trading)"
-description: "Explore investment opportunities with Ras Al Khaimah Investment Authority as it leverages algorithmic trading to drive economic growth and attract global investors."
+category: quant_concept
+description: Explore investment opportunities with Ras Al Khaimah Investment Authority
+  as it leverages algorithmic trading to drive economic growth and attract global
+  investors.
+title: Ras Al Khaimah Investment Authority (Algo Trading)
 ---
 
 Investment opportunities are increasingly dynamic, and the spotlight is turning towards emerging markets like Ras Al Khaimah. This emirate, recognized for its strategic economic initiatives, is gaining momentum, largely due to the significant contributions of the Ras Al Khaimah Investment Authority (RAKIA). Established with the mission of advancing economic growth in the United Arab Emirates, RAKIA is central to this transformation. 

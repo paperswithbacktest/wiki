@@ -1,6 +1,9 @@
 ---
-title: "Litecoin: Overview, Functionality, and Comparison with Bitcoin (Algo Trading)"
-description: "Explore Litecoin and Bitcoin's functionalities and how algorithmic trading enhances crypto trading efficiency with improved speed and precision in volatile markets."
+category: quant_concept
+description: Explore Litecoin and Bitcoin's functionalities and how algorithmic trading
+  enhances crypto trading efficiency with improved speed and precision in volatile
+  markets.
+title: 'Litecoin: Overview, Functionality, and Comparison with Bitcoin (Algo Trading)'
 ---
 
 In recent years, cryptocurrency trading has gained immense popularity, with Bitcoin and Litecoin emerging as two of the most traded digital currencies. Bitcoin, the pioneering cryptocurrency, introduced blockchain technology and set the foundation for decentralized and secure digital transactions. Litecoin followed, providing faster transaction times and diversified hashing algorithms, contributing to the broad appeal of digital currencies. As these two cryptocurrencies solidify their positions in financial markets, they offer unique trading opportunities and challenges.

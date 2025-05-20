@@ -1,6 +1,9 @@
 ---
-title: "Lot in Stock and Bond Trading (Algo Trading)"
-description: "Explore the complexities of lot trading in stocks and bonds alongside algorithmic systems for informed decision-making in financial markets and strategy optimization."
+category: quant_concept
+description: Explore the complexities of lot trading in stocks and bonds alongside
+  algorithmic systems for informed decision-making in financial markets and strategy
+  optimization.
+title: Lot in Stock and Bond Trading (Algo Trading)
 ---
 
 Trading in finance is a complex and diverse practice encompassing various methods such as lot trading, stock and bond trading, and algorithmic trading. This article aims to explore several types of financial trading by focusing on essential concepts, strategies, and real-world examples. By examining lot trading in stocks and bonds, showcasing examples of financial trading, and clarifying the intricacies of algorithmic trading, we aim to provide a comprehensive understanding of these trading methodologies.

@@ -1,7 +1,8 @@
 ---
-title: Understanding BLEURT for Accurate Machine Translation Evaluation
+category: quant_concept
 description: BLEURT delivers precise machine translation quality scores by capturing
   subtle semantic differences with BERT based evaluations Discover more inside.
+title: Understanding BLEURT for Accurate Machine Translation Evaluation
 ---
 
 ![Image](images/1.png)

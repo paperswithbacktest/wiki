@@ -1,6 +1,10 @@
 ---
-title: "Effects on Shareholders' Equity in Chapter 11 Bankruptcy (Algo Trading)"
-description: "Chapter 11 bankruptcy leads to significant risks for shareholders, often devaluing their equity as creditors and bondholders are prioritized. Understanding the impact on corporate finance and the role of algorithmic trading is crucial in navigating this financial challenge."
+category: quant_concept
+description: Chapter 11 bankruptcy leads to significant risks for shareholders, often
+  devaluing their equity as creditors and bondholders are prioritized. Understanding
+  the impact on corporate finance and the role of algorithmic trading is crucial in
+  navigating this financial challenge.
+title: Effects on Shareholders' Equity in Chapter 11 Bankruptcy (Algo Trading)
 ---
 
 In corporate finance, Chapter 11 bankruptcy carries significant implications for shareholders' equity. This type of bankruptcy serves as a legal procedure that allows financially troubled companies to undergo reorganization under the bankruptcy court's supervision. Unlike Chapter 7, which results in liquidation, Chapter 11 aims to preserve the company's operations while restructuring its debts, ultimately seeking a sustainable financial path forward.

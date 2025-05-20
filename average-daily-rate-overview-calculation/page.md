@@ -1,6 +1,8 @@
 ---
-title: "Average Daily Rate: Overview and Calculation (Algo Trading)"
-description: "Discover the significance of Average Daily Rate (ADR) in the hotel industry from calculation to strategies for optimization using algorithmic trading concepts."
+category: quant_concept
+description: Discover the significance of Average Daily Rate (ADR) in the hotel industry
+  from calculation to strategies for optimization using algorithmic trading concepts.
+title: 'Average Daily Rate: Overview and Calculation (Algo Trading)'
 ---
 
 The hotel industry is consistently evolving, necessitating the adoption and understanding of various performance metrics to maintain competitiveness and ensure operational success. Among these metrics, the Average Daily Rate (ADR) stands out as a crucial measure within the hospitality sector. ADR provides insight into a hotel's pricing strategies and financial health by quantifying the average revenue earned per occupied room per day. Calculated by dividing the total room revenue by the number of rooms sold, ADR serves as a vital indicator of a hotel's market positioning and efficiency in revenue management.

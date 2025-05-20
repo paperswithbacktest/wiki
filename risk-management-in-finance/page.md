@@ -1,6 +1,8 @@
 ---
-title: "Risk Management in Finance (Algo Trading)"
-description: "Explore the convergence of algorithmic trading and risk management, highlighting advanced strategies to optimize profitability and mitigate potential losses."
+category: quant_concept
+description: Explore the convergence of algorithmic trading and risk management, highlighting
+  advanced strategies to optimize profitability and mitigate potential losses.
+title: Risk Management in Finance (Algo Trading)
 ---
 
 In today's financial markets, managing risk is crucial for maintaining profitability and mitigating potential losses. As the market landscape evolves, traditional methods of trading are increasingly replaced by algorithmic trading—a sophisticated approach where trades are executed by computer algorithms designed to follow specific strategies. While algorithmic trading increases efficiency and reduces human error, it also presents unique challenges in risk management due to the speed and volume of transactions that can occur at any given time.

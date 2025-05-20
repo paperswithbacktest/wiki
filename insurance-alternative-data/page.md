@@ -1,6 +1,12 @@
 ---
-title: "Insurance Alternative Data (Algo Trading)"
-description: Explore the evolving role of insurance alternative data in algorithmic trading to gain a competitive edge in financial markets. Discover how non-conventional datasets like claim frequencies and risk assessments can enhance trading strategies by providing unique insights into market dynamics and consumer behavior. Uncover the potential of integrating these data sources into sophisticated algorithms to unlock new market opportunities and redefine the landscape of financial analysis.
+category: dataset
+description: Explore the evolving role of insurance alternative data in algorithmic
+  trading to gain a competitive edge in financial markets. Discover how non-conventional
+  datasets like claim frequencies and risk assessments can enhance trading strategies
+  by providing unique insights into market dynamics and consumer behavior. Uncover
+  the potential of integrating these data sources into sophisticated algorithms to
+  unlock new market opportunities and redefine the landscape of financial analysis.
+title: Insurance Alternative Data (Algo Trading)
 ---
 
 In today's fast-evolving financial markets, traders and investors are continuously seeking a competitive edge to improve their trading outcomes. Algorithmic trading, which utilizes automated software to execute trades based on pre-defined criteria, has become a crucial tool for many due to its ability to provide speed and precision in decision-making. However, as more market participants adopt algorithmic trading, the pursuit of unique insights has intensified, driving traders to look beyond traditional financial metrics and explore alternative data sources.

@@ -1,6 +1,8 @@
 ---
-title: "Weighted Average Coupon (Algo Trading)"
-description: "Explore how Weighted Average Coupon impacts trading strategies in mortgage-backed securities and the role of algorithmic trading in optimizing these transactions."
+category: quant_concept
+description: Explore how Weighted Average Coupon impacts trading strategies in mortgage-backed
+  securities and the role of algorithmic trading in optimizing these transactions.
+title: Weighted Average Coupon (Algo Trading)
 ---
 
 Mortgage-backed securities (MBS) are financial instruments that represent claims on the cash flows from a pool of mortgage loans. Typically issued by government agencies or financial institutions, these securities play a crucial role in the global financial markets. They provide liquidity to the mortgage market and offer investors a vehicle for diversifying their portfolios with income-generating assets. By pooling individual home loans together, MBS reduce the risk of default associated with single mortgages while offering attractive yields.

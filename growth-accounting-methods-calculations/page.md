@@ -1,6 +1,8 @@
 ---
-title: "Growth Accounting Methods and Calculations (Algo Trading)"
-description: "Explore growth accounting methods and calculations in algorithmic trading, highlighting how GDP metrics inform trading strategies and enhance investment decisions."
+category: quant_concept
+description: Explore growth accounting methods and calculations in algorithmic trading,
+  highlighting how GDP metrics inform trading strategies and enhance investment decisions.
+title: Growth Accounting Methods and Calculations (Algo Trading)
 ---
 
 The economic landscape is continually shaped by a variety of local and global factors influencing the growth trajectories of nations. Economists and analysts frequently turn to key metrics such as Gross Domestic Product (GDP) to assess and understand economic performance. GDP serves as a crucial indicator of an economy's overall health, reflecting the total value of goods and services produced over a specific time period. Within GDP analysis, two distinct measures—Nominal GDP and Real GDP—are indispensable. Nominal GDP gauges the total economic output within current prices, providing a raw quantification of output sans adjustments for inflation. Conversely, Real GDP gives a clearer picture of an economy's size and how it’s growing over time by adjusting for inflation, offering a more realistic assessment of economic performance by measuring the value of goods and services at constant prices.

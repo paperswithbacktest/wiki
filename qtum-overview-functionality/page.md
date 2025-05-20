@@ -1,6 +1,9 @@
 ---
-title: "Qtum: Overview and Functionality (Algo Trading)"
-description: "Explore the synergy between QTUM blockchain’s security and Ethereum’s smart contracts, unveiling how algorithmic trading transforms financial strategies effectively."
+category: quant_concept
+description: Explore the synergy between QTUM blockchain’s security and Ethereum’s
+  smart contracts, unveiling how algorithmic trading transforms financial strategies
+  effectively.
+title: 'Qtum: Overview and Functionality (Algo Trading)'
 ---
 
 In the ever-evolving landscape of digital currencies, blockchain technology continues to revolutionize financial systems, ushering in innovative models for conducting business. Central to this transformation is the cryptocurrency Qtum, which exemplifies the fusion of traditional and decentralized financial mechanisms. Qtum uniquely combines the secure Unspent Transaction Output (UTXO) model from Bitcoin with the versatile smart contract capabilities of Ethereum. This hybrid approach enables the development of decentralized applications (dApps) and streamlined financial transactions while maintaining a high level of security and reliability.

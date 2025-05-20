@@ -1,7 +1,8 @@
 ---
-title: Understanding Entity Retrieval Models and Their Key Components
+category: quant_concept
 description: Entity Retrieval Models streamline data searches by recognizing and ranking
   entities with NLP and machine learning for precise results Discover more inside
+title: Understanding Entity Retrieval Models and Their Key Components
 ---
 
 ![Image](images/1.png)

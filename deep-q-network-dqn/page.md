@@ -1,7 +1,8 @@
 ---
-title: Understanding Deep Q-Networks in Reinforcement Learning
+category: quant_concept
 description: Deep Q-Networks use neural nets with experience replay to train stable
   policies for complex environments with reliable learning Discover more inside.
+title: Understanding Deep Q-Networks in Reinforcement Learning
 ---
 
 ![Image](images/1.png)

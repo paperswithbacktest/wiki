@@ -1,6 +1,12 @@
 ---
-title: "Persistence in Cryptocurrencies"
-description: Discover how the persistence of historical price patterns in cryptocurrencies like Bitcoin and Ethereum impacts algorithmic trading strategies. This article explores the predictability of price movements and the potential for generating profits through algo trading by leveraging long-memory methods. Delve into the research by Caporale et al. on market efficiency and inefficiency in crypto markets, and learn how traders can optimize their strategies to maximize returns in this dynamic financial landscape.
+category: quant_concept
+description: Discover how the persistence of historical price patterns in cryptocurrencies
+  like Bitcoin and Ethereum impacts algorithmic trading strategies. This article explores
+  the predictability of price movements and the potential for generating profits through
+  algo trading by leveraging long-memory methods. Delve into the research by Caporale
+  et al. on market efficiency and inefficiency in crypto markets, and learn how traders
+  can optimize their strategies to maximize returns in this dynamic financial landscape.
+title: Persistence in Cryptocurrencies
 ---
 
 The emergence of cryptocurrencies has fundamentally shifted the financial landscape, garnering significant attention from investors and researchers alike. As digital assets such as Bitcoin and Ethereum grow in prominence, understanding their price dynamics becomes increasingly crucial. This article examines the concept of persistence in cryptocurrencies and its significance for algorithmic trading (algo trading). Persistence refers to the extent to which past price patterns continue into the future, thereby implying a level of predictability in price movements. 

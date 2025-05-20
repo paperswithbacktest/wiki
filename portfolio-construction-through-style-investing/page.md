@@ -1,6 +1,9 @@
 ---
-title: "Portfolio Construction Through Style Investing (Algo Trading)"
-description: "Explore the intersection of style investing and algorithmic trading in portfolio construction Learn how these elements optimize returns and manage financial risk"
+category: trading_strategy
+description: Explore the intersection of style investing and algorithmic trading in
+  portfolio construction Learn how these elements optimize returns and manage financial
+  risk
+title: Portfolio Construction Through Style Investing (Algo Trading)
 ---
 
 In finance, grasping the interconnected concepts of investment strategy, style investing, portfolio management, and algorithmic trading is essential for anyone looking to navigate the complexities of modern financial markets. These elements together provide a comprehensive framework that aims to maximize returns while simultaneously managing risk—a critical balance for achieving long-term financial success.

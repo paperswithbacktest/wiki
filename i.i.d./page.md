@@ -1,7 +1,8 @@
 ---
-title: Understanding the I.I.D. Assumption in Machine Learning
+category: quant_concept
 description: I.I.D. assumption in machine learning treats data as independent samples
   from one distribution to improve model reliability Discover more inside
+title: Understanding the I.I.D. Assumption in Machine Learning
 ---
 
 ![Image](images/1.png)

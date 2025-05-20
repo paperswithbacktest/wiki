@@ -1,6 +1,9 @@
 ---
-title: "Short-Term Paper: Overview and Functionality (Algo Trading)"
-description: "Explore how short-term paper and algorithmic trading enhance investment strategies with low-risk, liquid options and advanced trading techniques for optimal returns."
+category: quant_concept
+description: Explore how short-term paper and algorithmic trading enhance investment
+  strategies with low-risk, liquid options and advanced trading techniques for optimal
+  returns.
+title: 'Short-Term Paper: Overview and Functionality (Algo Trading)'
 ---
 
 In the rapidly evolving world of finance, modern investors are continuously seeking ways to enhance investment strategies through a comprehensive understanding of financial instruments, short-term paper, and algorithmic trading. These three components form the backbone of efficient investment management, each offering unique opportunities and challenges that can contribute to strategic financial growth.
@@ -220,4 +223,3 @@ In conclusion, the integration of financial instruments, short-term paper, and a
    - Khan Academy (www.khanacademy.org): Free educational platform that includes an introduction to financial markets and instruments.
 
 These resources provide a broad foundation for understanding financial instruments, short-term paper, and algorithmic trading, offering opportunities for both introductory learning and advanced exploration.
-

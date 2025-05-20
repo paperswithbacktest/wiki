@@ -1,7 +1,8 @@
 ---
-title: Learning Interpretability Tool for Transparent Machine Learning
+category: quant_concept
 description: Learning Interpretability Tool helps you inspect model decisions and
   interact in real time to improve fairness and accuracy Discover more inside.
+title: Learning Interpretability Tool for Transparent Machine Learning
 ---
 
 ![Image](images/1.gif)

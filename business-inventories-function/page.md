@@ -1,6 +1,9 @@
 ---
-title: "Business Inventories and Their Function (Algo Trading)"
-description: "Explore the crucial role of business inventories in economic trends and algorithmic trading Discover how inventory management optimizes operations and trading strategies"
+category: quant_concept
+description: Explore the crucial role of business inventories in economic trends and
+  algorithmic trading Discover how inventory management optimizes operations and trading
+  strategies
+title: Business Inventories and Their Function (Algo Trading)
 ---
 
 In today’s dynamic economic landscape, understanding business inventories and their management has become increasingly vital. Business inventories, encompassing the total amount of goods held by manufacturers, wholesalers, and retailers, play a central role as an economic indicator. They provide critical insights not only into current supply chain efficiencies but also into the broader economic trends that can influence financial markets.

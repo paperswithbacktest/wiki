@@ -1,6 +1,9 @@
 ---
-title: "Faith-Based Investing (Algo Trading)"
-description: "Discover the synergy of faith-based investing and algorithmic trading where ethical finance strategies align personal values with modern technological efficiency."
+category: trading_strategy
+description: Discover the synergy of faith-based investing and algorithmic trading
+  where ethical finance strategies align personal values with modern technological
+  efficiency.
+title: Faith-Based Investing (Algo Trading)
 ---
 
 In today's rapidly evolving financial landscape, ethical investments have emerged as a significant trend, driven by a growing desire to align financial activities with personal values and societal impact. This trend is accompanied by an increasing interest in religious finance and faith-based investing, which are gaining traction alongside the broader movement of conscious capitalism. These investment approaches emphasize moral and ethical considerations, seeking to harmonize wealth creation with principles derived from spiritual beliefs.

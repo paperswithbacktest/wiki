@@ -1,6 +1,9 @@
 ---
-title: "Current Assets: Meaning and Calculation with Examples (Algo Trading)"
-description: "Explore the significance of current assets in maintaining liquidity and financial health, including calculation methods and strategies for optimization in trading."
+category: quant_concept
+description: Explore the significance of current assets in maintaining liquidity and
+  financial health, including calculation methods and strategies for optimization
+  in trading.
+title: 'Current Assets: Meaning and Calculation with Examples (Algo Trading)'
 ---
 
 Effective asset management and a thorough understanding of financial calculations are essential in the fast-paced world of finance. The concept of 'current assets' plays a critical role in maintaining liquidity and operational efficiency. Current assets are fundamental to a company’s ability to meet its short-term obligations and are pivotal in assessing financial health. 

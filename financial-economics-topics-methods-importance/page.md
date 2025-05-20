@@ -1,6 +1,9 @@
 ---
-title: "Financial Economics: Topics, Methods, and Importance (Algo Trading)"
-description: "Explore the crucial role of financial economics and algorithmic trading in modern markets by understanding economic methods and their impact on investment strategies."
+category: quant_concept
+description: Explore the crucial role of financial economics and algorithmic trading
+  in modern markets by understanding economic methods and their impact on investment
+  strategies.
+title: 'Financial Economics: Topics, Methods, and Importance (Algo Trading)'
 ---
 
 Understanding the intersection of economics and finance is crucial in today's complex market. In an era where financial markets are rapidly evolving, a grasp of economic methods, financial economics, and algorithmic trading is indispensable. This article explores these fundamental components, highlighting their roles and applications in modern financial markets.

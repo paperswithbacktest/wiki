@@ -1,6 +1,8 @@
 ---
-title: "General Provisions: Function and Operation (Algo Trading)"
-description: "Discover the impact of financial accounting on algorithmic trading. Learn how provision accounting enhances trading strategies by managing risks effectively."
+category: quant_concept
+description: Discover the impact of financial accounting on algorithmic trading. Learn
+  how provision accounting enhances trading strategies by managing risks effectively.
+title: 'General Provisions: Function and Operation (Algo Trading)'
 ---
 
 The integration of financial accounting concepts in algorithmic trading is transforming the financial landscape. With rapid advancements in technology and increasing complexity in financial markets, the interplay between financial accounting and algorithmic trading has become more significant than ever. This synergy is primarily characterized by the integration of provision accounting, which plays a pivotal role in enhancing trading strategies.

@@ -1,6 +1,9 @@
 ---
-title: "High-Frequency Trading: Mechanisms and Examples (Algo Trading)"
-description: "Discover the mechanisms and examples of high-frequency trading in this detailed exploration Learn how HFT strategies capitalize on speed and precision in financial markets"
+category: quant_concept
+description: Discover the mechanisms and examples of high-frequency trading in this
+  detailed exploration Learn how HFT strategies capitalize on speed and precision
+  in financial markets
+title: 'High-Frequency Trading: Mechanisms and Examples (Algo Trading)'
 ---
 
 High-Frequency Trading (HFT) has emerged as a prominent component of the contemporary financial trading environment. Utilizing sophisticated algorithms and high-powered computing systems, HFT executes substantial volumes of orders within milliseconds, epitomizing the leading edge of trading technology. As a dominant force in the financial markets, HFT uses precision and speed to facilitate trades, making it a subject of considerable interest and debate within the economic community.

@@ -1,6 +1,8 @@
 ---
-title: "Euro Overnight Index Average and Transition to ESTER (Algo Trading)"
-description: "Explore the shift from EONIA to ESTER and its impact on European banking overnight rates Learn about transparency improvements and algorithmic trading effects"
+category: quant_concept
+description: Explore the shift from EONIA to ESTER and its impact on European banking
+  overnight rates Learn about transparency improvements and algorithmic trading effects
+title: Euro Overnight Index Average and Transition to ESTER (Algo Trading)
 ---
 
 The financial landscape in Europe has experienced continuous transformation, influencing the mechanisms by which overnight rates are determined and utilized within the banking sector. Historically, the Euro Overnight Index Average (EONIA) has been a pivotal benchmark for overnight lending operations between European banks. Calculated by the European Central Bank (ECB), EONIA represented the average interest rate at which banks in Europe lent euros to each other overnight. It served as an essential tool for interbank liquidity management and as a reference rate for numerous financial contracts.

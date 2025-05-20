@@ -1,6 +1,9 @@
 ---
-title: "Impact of Stock Splits on Investments (Algo Trading)"
-description: "Explore how stock splits and algorithmic trading influence stock market investments understanding their impact on trading volume liquidity and shareholder value."
+category: quant_concept
+description: Explore how stock splits and algorithmic trading influence stock market
+  investments understanding their impact on trading volume liquidity and shareholder
+  value.
+title: Impact of Stock Splits on Investments (Algo Trading)
 ---
 
 The stock market operates as a multifaceted financial entity influenced by a spectrum of events and methodologies, among which stock splits and algorithmic trading stand prominent. Stock splits represent a corporate maneuver through which a company modifies its share structure, generally to enhance the stock's accessibility and liquidity by reducing its trading price. This structural adjustment does not alter the company's market capitalization, but rather alters the number of shares outstanding. Although the intrinsic value of an investor’s holding remains constant, the perceived value and accessibility of the stock can be transformed significantly.
@@ -134,4 +137,3 @@ Ikenberry, D., Rankine, G., & Stice, E. (1996). "What Do Stock Splits Really Sig
 Lopez de Prado, M. (2018). "Advances in Financial Machine Learning." This book introduces advanced machine learning techniques tailored for financial applications, including algorithmic trading. It discusses how these methods can enhance trading strategies by exploiting market inefficiencies, such as those created by stock splits. Python-based implementations illustrate practical applications of these techniques.
 
 Chan, E. P. (2008). "Quantitative Trading: How to Build Your Own Algorithmic Trading Business." A comprehensive guide to creating and managing an algorithmic trading operation. The book covers the essentials of developing automated trading strategies, with examples that leverage market events like stock splits to maximize trading opportunities. It offers insights into the infrastructure and tools required for a successful algorithmic trading venture.
-

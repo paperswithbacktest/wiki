@@ -1,6 +1,8 @@
 ---
-title: "Inside Days and Outside Days in Trading (Algo Trading)"
-description: "Explore how inside days and outside days impact trading strategies by offering key insights into market movements and optimizing algorithmic trading efficiency."
+category: trading_strategy
+description: Explore how inside days and outside days impact trading strategies by
+  offering key insights into market movements and optimizing algorithmic trading efficiency.
+title: Inside Days and Outside Days in Trading (Algo Trading)
 ---
 
 The world of trading has undergone significant transformation with the integration of algorithmic trading strategies. At the core of these strategies are concepts like inside days and outside days, which are crucial for identifying potential market movements. These candlestick patterns offer traders visual cues that signify periods of market consolidation or volatility, eventually leading to breakout signals. Understanding and utilizing these patterns are essential components of effective trading strategies.

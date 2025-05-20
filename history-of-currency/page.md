@@ -1,6 +1,8 @@
 ---
-title: "History of Currency (Algo Trading)"
-description: "Explore the evolution of currency from ancient barter systems to algorithmic trading highlighting key advancements in finance and monetary systems."
+category: quant_concept
+description: Explore the evolution of currency from ancient barter systems to algorithmic
+  trading highlighting key advancements in finance and monetary systems.
+title: History of Currency (Algo Trading)
 ---
 
 This article explores the evolution of currency and the history of monetary systems, highlighting key advancements in finance from ancient barter systems to modern algorithmic trading. The transformation of money is a story of adaptation and innovation, reflecting human progress and the quest for more efficient economic interactions. Initially, trade occurred through bartering, a direct exchange of goods and services that often faced practical limitations due to the lack of a common measure of value. To mitigate the inefficiencies associated with barter, early societies transitioned to using commodity money, items that held intrinsic value, such as cattle and grains.

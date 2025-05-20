@@ -1,6 +1,8 @@
 ---
-title: "Statistics Overview and Significance (Algo Trading)"
-description: "Explore the essential role of statistics in algorithmic trading to interpret data, optimize strategies, and enhance efficiency for successful trading decisions."
+category: quant_concept
+description: Explore the essential role of statistics in algorithmic trading to interpret
+  data, optimize strategies, and enhance efficiency for successful trading decisions.
+title: Statistics Overview and Significance (Algo Trading)
 ---
 
 Statistics play a vital role in collecting, analyzing, interpreting, and presenting data. This discipline, a branch of mathematics dedicated to understanding data sets, empowers us to extract meaningful insights from seemingly chaotic numbers. From predicting economic trends to assessing financial risks, statistics is a cornerstone of informed decision-making. It underpins models and algorithms that are integral not only to traditional areas like finance and economics but also to advanced domains such as algorithmic trading.

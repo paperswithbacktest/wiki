@@ -1,6 +1,9 @@
 ---
-title: "stochastic gradient descent (Algo Trading)"
-description: "Optimize algorithmic trading with Stochastic Gradient Descent for faster, adaptive model tuning. Enhance trading efficiency and profitability in real-time markets."
+category: quant_concept
+description: Optimize algorithmic trading with Stochastic Gradient Descent for faster,
+  adaptive model tuning. Enhance trading efficiency and profitability in real-time
+  markets.
+title: stochastic gradient descent (Algo Trading)
 ---
 
 Algorithmic trading is a method of executing trades using automated pre-programmed trading instructions that account for variables such as time, price, and volume. These instructions rely on mathematical models and require optimization techniques to enhance performance and efficiency. Optimization in trading involves fine-tuning parameters of trading models to maximize returns and minimize risks. It addresses challenges like rapidly changing market conditions and vast amounts of data, necessitating advanced computational techniques.

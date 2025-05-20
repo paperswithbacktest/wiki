@@ -1,6 +1,9 @@
 ---
-title: "Currency Board: Function and Example (Algo Trading)"
-description: "Discover how currency boards function and explore examples in algo trading, highlighting their role in providing stability despite limiting monetary policy flexibility."
+category: quant_concept
+description: Discover how currency boards function and explore examples in algo trading,
+  highlighting their role in providing stability despite limiting monetary policy
+  flexibility.
+title: 'Currency Board: Function and Example (Algo Trading)'
 ---
 
 In an increasingly interconnected global economy, understanding the complexities of exchange rates, monetary policies, currency boards, and algorithmic trading is essential for market participants. Exchange rates, which determine the relative value of currencies, are primarily influenced by economic factors such as inflation, interest rates, and government policies. The fluctuations in exchange rates have direct implications for international trade, affecting the competitiveness of exports and the cost of imports for nations.
@@ -192,4 +195,3 @@ Bergstra, J., Bardenet, R., Bengio, Y., & Kégl, B. (2011). "Algorithms for Hype
 "Machine Learning for Algorithmic Trading" by Stefan Jansen provides a comprehensive guide on using machine learning to develop trading strategies by harnessing large datasets. This book covers implementing algorithms with Python, offering practical techniques for feature engineering, model evaluation, and real-time applications.
 
 "Quantitative Trading: How to Build Your Own Algorithmic Trading Business" by Ernest P. Chan discusses the foundations of starting an algorithmic trading business, integrating quantitative methods into trading strategies. The book includes implementing strategies in a live trading environment, which is invaluable for traders aiming to bridge the gap between theory and practice.
-

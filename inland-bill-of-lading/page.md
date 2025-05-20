@@ -1,6 +1,8 @@
 ---
-title: "Inland Bill of Lading (Algo Trading)"
-description: "Discover the synergy of Inland Bills of Lading and algorithmic trading in freight shipping to streamline logistics and enhance operational efficiency."
+category: quant_concept
+description: Discover the synergy of Inland Bills of Lading and algorithmic trading
+  in freight shipping to streamline logistics and enhance operational efficiency.
+title: Inland Bill of Lading (Algo Trading)
 ---
 
 Freight shipping documentation is a complex process characterized by numerous essential documents, among which the Inland Bill of Lading plays a pivotal role. It acts as both a receipt and a contract of carriage between the shipper and the carrier, facilitating the domestic transportation of goods over land. This document is indispensable for ensuring legal compliance and smooth logistics operations.
@@ -141,4 +143,3 @@ For those interested in exploring more about the topics discussed in this articl
    - The book "Blockchain in Logistics: Emerging Research and Opportunities" by Houda Harb and Kassem Saleh covers recent case studies and research publications on blockchain applications in logistics.
 
 These resources provide a starting point for further study in the legal, technological, and practical aspects of freight shipping documentation and the evolving role of algorithmic trading in logistics.
-

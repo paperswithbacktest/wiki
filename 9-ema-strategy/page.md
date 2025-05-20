@@ -1,6 +1,13 @@
 ---
-title: "9 EMA (Exponential Moving Average) Trading Strategy in Algorithmic Trading"
-description: Explore the 9 EMA strategy for algorithmic trading to enhance your market analysis. This technique applies a 9-period Exponential Moving Average to capture short-term trends, making it popular among traders for its effectiveness and simplicity. With practical applications across stocks, forex, and commodities, it empowers traders of all levels to make informed decisions by focusing on recent price movements. Discover the rules, benefits, and implementation tactics to maximize your trading success using the 9 EMA strategy.
+category: trading_strategy
+description: Explore the 9 EMA strategy for algorithmic trading to enhance your market
+  analysis. This technique applies a 9-period Exponential Moving Average to capture
+  short-term trends, making it popular among traders for its effectiveness and simplicity.
+  With practical applications across stocks, forex, and commodities, it empowers traders
+  of all levels to make informed decisions by focusing on recent price movements.
+  Discover the rules, benefits, and implementation tactics to maximize your trading
+  success using the 9 EMA strategy.
+title: 9 EMA (Exponential Moving Average) Trading Strategy in Algorithmic Trading
 ---
 
 ![Image](images/1.png)
@@ -123,4 +130,3 @@ The **9 EMA trading strategy** offers traders a simple yet effective way to foll
 [3]: [Master the 9 EMA Strategy: Proven Techniques for Success – NetPicks](https://www.netpicks.com/boost-trading-9-ema/)
 
 [4]: [GitHub – paperswithbacktest/pwb-toolbox](https://github.com/paperswithbacktest/pwb-toolbox)
-

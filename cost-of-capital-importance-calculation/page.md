@@ -1,6 +1,8 @@
 ---
-title: "Cost of Capital: Importance and Calculation (Algo Trading)"
-description: "Explore the cost of capital's importance in financial decision-making and algorithmic trading Learn key concepts calculations and impacts on investments"
+category: quant_concept
+description: Explore the cost of capital's importance in financial decision-making
+  and algorithmic trading Learn key concepts calculations and impacts on investments
+title: 'Cost of Capital: Importance and Calculation (Algo Trading)'
 ---
 
 The concept of cost of capital is pivotal in financial decision-making as it represents the return rate that a firm must achieve to justify the cost of the necessary investment. Essentially, it serves as a benchmark for evaluating the viability of investment opportunities and guides executives in strategizing for growth and profitability. In financial analysis, the cost of capital connects directly with assessing the risk and potential returns of investments, enabling analysts to determine whether a project is likely to create value.

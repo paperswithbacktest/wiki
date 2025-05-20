@@ -1,6 +1,8 @@
 ---
-title: "Apple Stock Valuation Using CAPM (Algo Trading)"
-description: "Explore Apple's stock valuation using CAPM and algorithmic trading learn to analyze returns accounting for risk to optimize investment strategies."
+category: trading_strategy
+description: Explore Apple's stock valuation using CAPM and algorithmic trading learn
+  to analyze returns accounting for risk to optimize investment strategies.
+title: Apple Stock Valuation Using CAPM (Algo Trading)
 ---
 
 The world of investing is extensive and multifaceted, providing investors with a wide array of strategies and models to guide their decision-making processes. Among these is the Capital Asset Pricing Model (CAPM), a cornerstone in financial theory used to estimate the expected returns of an asset while accounting for systematic risk. This article focuses on the application of the CAPM to analyze Apple Inc.'s stock, a critical component for many investors in evaluating potential investment opportunities.

@@ -1,6 +1,9 @@
 ---
-title: "Heuristics: Overview, Advantages, and Disadvantages (Algo Trading)"
-description: "Explore the intersection of heuristics and algorithmic trading in financial markets, unveiling advantages, potential biases, and the fusion of cognitive insights with tech."
+category: quant_concept
+description: Explore the intersection of heuristics and algorithmic trading in financial
+  markets, unveiling advantages, potential biases, and the fusion of cognitive insights
+  with tech.
+title: 'Heuristics: Overview, Advantages, and Disadvantages (Algo Trading)'
 ---
 
 Cognitive psychology and technology intersect in intriguing ways, particularly in the domain of decision-making and financial markets. Heuristics, or mental shortcuts, play a fundamental role in simplifying complex decision-making processes. These shortcuts allow individuals to make quick judgments and decisions without extensive deliberation, utilizing patterns and learned experiences. Heuristics are especially relevant in environments where rapid decisions are crucial, such as financial trading.

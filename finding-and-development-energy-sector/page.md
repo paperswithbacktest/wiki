@@ -1,6 +1,8 @@
 ---
-title: "Finding and Development in the Energy Sector (Algo Trading)"
-description: "Explore the pivotal role of Finding and Development processes in the energy sector and discover how algorithmic trading enhances efficiency and competitiveness."
+category: quant_concept
+description: Explore the pivotal role of Finding and Development processes in the
+  energy sector and discover how algorithmic trading enhances efficiency and competitiveness.
+title: Finding and Development in the Energy Sector (Algo Trading)
 ---
 
 Resource development and energy exploration represent pivotal components of the global economy, closely interlinked with financial dynamics and technological advancements. The primary objective of these sectors is to identify, assess, and effectively utilize natural resources to meet global energy demands. A key aspect of energy exploration is the Finding and Development (F&D) process, which measures the costs involved in discovering and developing properties to create commodity reserves. F&D is essential for determining the economic viability of projects in the energy sector, providing companies with crucial insights into their competitive standing.

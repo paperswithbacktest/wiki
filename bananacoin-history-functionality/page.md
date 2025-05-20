@@ -1,6 +1,9 @@
 ---
-title: "Bananacoin History and Functionality (Algo Trading)"
-description: "Explore the unique value of Bananacoin a cryptocurrency backed by organic bananas. Delve into its blockchain technology and the impact of algo trading on its market role."
+category: quant_concept
+description: Explore the unique value of Bananacoin a cryptocurrency backed by organic
+  bananas. Delve into its blockchain technology and the impact of algo trading on
+  its market role.
+title: Bananacoin History and Functionality (Algo Trading)
 ---
 
 Blockchain technology has rapidly transformed the financial sector, primarily through the emergence of cryptocurrencies. Cryptocurrencies are digital or virtual currencies that utilize cryptography for security, enabling decentralized transactions that are verified by a network of nodes through blockchain. This technology facilitates transparency, security, and efficiency, reducing the need for intermediaries in financial transactions. Since the introduction of Bitcoin in 2009, the market has witnessed an exponential growth in the number of cryptocurrencies, heralding a new era in digital finance.

@@ -1,6 +1,11 @@
 ---
-title: "Escalator Clause (Algo Trading)"
-description: "Explore the concept of escalator clauses in pricing contracts and their significance for financial agreements. Understand how these clauses provide automatic adjustments based on economic indicators to maintain contractual fairness and stability amidst market changes. Discover their benefits, types, and implications for automated trading systems, ensuring equitable and sustainable business relationships."
+category: quant_concept
+description: Explore the concept of escalator clauses in pricing contracts and their
+  significance for financial agreements. Understand how these clauses provide automatic
+  adjustments based on economic indicators to maintain contractual fairness and stability
+  amidst market changes. Discover their benefits, types, and implications for automated
+  trading systems, ensuring equitable and sustainable business relationships.
+title: Escalator Clause (Algo Trading)
 ---
 
 In modern contract negotiations, financial agreements often face the challenge of accounting for unforeseen changes in economic conditions over time. This has led to the inclusion of various provisions that allow for adjustments to the terms of a contract as circumstances evolve. One such provision, the escalator clause, serves as a key mechanism for maintaining contractual flexibility and fairness.

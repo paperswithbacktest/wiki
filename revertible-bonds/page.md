@@ -1,6 +1,9 @@
 ---
-title: "Revertible Bonds (Algo Trading)"
-description: "Explore the evolving financial landscape with a focus on revertible bonds and algorithmic trading to understand their impact on market behaviors and investment strategies."
+category: quant_concept
+description: Explore the evolving financial landscape with a focus on revertible bonds
+  and algorithmic trading to understand their impact on market behaviors and investment
+  strategies.
+title: Revertible Bonds (Algo Trading)
 ---
 
 In the rapidly evolving financial markets, various financial instruments are essential for optimizing investment strategies and enhancing trade effectiveness. Among these, bonds stand out as versatile financial tools that serve both investors and issuers in managing capital efficiently. Bonds, by design, are debt securities through which issuers, such as corporations and governments, can raise funds to finance various initiatives. Investors, in return, receive periodic interest payments and the return of principal at maturity.

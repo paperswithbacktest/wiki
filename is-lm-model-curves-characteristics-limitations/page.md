@@ -1,6 +1,8 @@
 ---
-title: "IS-LM Model: Curves, Characteristics, and Limitations (Algo Trading)"
-description: "Explore the IS-LM model's role in macroeconomic theory and algorithmic trading Learn how it bridges the goods and money markets for economic insights"
+category: quant_concept
+description: Explore the IS-LM model's role in macroeconomic theory and algorithmic
+  trading Learn how it bridges the goods and money markets for economic insights
+title: 'IS-LM Model: Curves, Characteristics, and Limitations (Algo Trading)'
 ---
 
 The IS-LM model, an integral component of Keynesian macroeconomic theory, provides essential insights into the interaction between the goods market and the money market. Developed by economist John Hicks in 1937, this model demonstrates how equilibrium is achieved between interest rates and economic output, a foundational concept for macroeconomic analysis. The model is represented by two curves: the IS curve, which represents investment-savings equilibrium in the real goods market, and the LM curve, which represents liquidity preference-money supply equilibrium in the money market.

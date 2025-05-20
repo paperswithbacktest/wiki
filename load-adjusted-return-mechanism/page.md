@@ -1,6 +1,9 @@
 ---
-title: "Load-Adjusted Return and Its Mechanism (Algo Trading)"
-description: "Explore load-adjusted return and algorithmic trading mechanics to grasp investment performance better, ensuring realistic insights into profitability and strategy optimization."
+category: quant_concept
+description: Explore load-adjusted return and algorithmic trading mechanics to grasp
+  investment performance better, ensuring realistic insights into profitability and
+  strategy optimization.
+title: Load-Adjusted Return and Its Mechanism (Algo Trading)
 ---
 
 In today's fast-paced financial world, understanding the intricacies of investment performance is crucial for investors seeking to maximize their returns. Financial performance evaluation encompasses the analysis and understanding of various factors that impact returns, ranging from fees and charges to algorithmic trading strategies. One essential concept in this context is load-adjusted returns, which offers a more realistic view by considering the impact of sales loads and fees. Unlike nominal returns that solely reflect an investment's performance, load-adjusted returns provide insights into an investor's actual profitability after accounting for the costs incurred.

@@ -1,6 +1,9 @@
 ---
-title: "Execution slippage analysis (Algo Trading)"
-description: "Explore execution slippage in algorithmic trading and learn strategies to minimize its impact on profitability Enhance your trading performance by understanding slippage types and causes"
+category: quant_concept
+description: Explore execution slippage in algorithmic trading and learn strategies
+  to minimize its impact on profitability Enhance your trading performance by understanding
+  slippage types and causes
+title: Execution slippage analysis (Algo Trading)
 ---
 
 Algorithmic trading, often referred to as algo trading, harnesses the power of pre-programmed strategies to execute trades automatically, streamlining the trading process and reducing the potential for human error. A pivotal challenge encountered in this domain is execution slippage, which arises when the execution price of a trade deviates from the expected price. Slippage, therefore, represents a crucial factor that can significantly undermine the profitability of trading strategies, impacting both high and low-frequency trading environments.

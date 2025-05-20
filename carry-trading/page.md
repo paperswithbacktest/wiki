@@ -1,9 +1,12 @@
 ---
-title: "Carry Trading (Algo Trading)"
-description: Discover the synergy of Carry Trading and Algo Trading in this comprehensive guide. Learn how to automate carry trade strategies using sophisticated algorithms for quick reactions and enhanced risk management in the Forex market. Understand the mathematical concept, risks involved, designing algorithms, and employing a basic carry trade strategy with Python and Backtrader.
+category: trading_strategy
+description: Discover the synergy of Carry Trading and Algo Trading in this comprehensive
+  guide. Learn how to automate carry trade strategies using sophisticated algorithms
+  for quick reactions and enhanced risk management in the Forex market. Understand
+  the mathematical concept, risks involved, designing algorithms, and employing a
+  basic carry trade strategy with Python and Backtrader.
+title: Carry Trading (Algo Trading)
 ---
-
-
 
 Carry trading, primarily involves profiting from the difference or "carry" between the interest rates of two different currencies. In essence, an investor borrows money in a currency with a low interest rate and then invests that in another currency with a higher interest rate, hoping to benefit from the interest rate differential. Combining Carry Trading and Algo Trading" allows traders to automate the process of identifying, executing, and managing carry trades using sophisticated algorithms, ensuring quick reactions to market shifts and enhanced risk management.
 

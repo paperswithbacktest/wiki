@@ -1,7 +1,8 @@
 ---
-title: Tensor Processing Units For Faster Machine Learning Workloads
+category: quant_concept
 description: TPUs accelerate model training through fast matrix multiplications and
   high bandwidth memory for efficient machine learning tasks Discover more inside
+title: Tensor Processing Units For Faster Machine Learning Workloads
 ---
 
 ![Image](images/1.png)

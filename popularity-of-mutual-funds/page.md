@@ -1,6 +1,8 @@
 ---
-title: "Popularity of Mutual Funds (Algo Trading)"
-description: "Explore the rise of mutual funds and algorithmic trading in modern finance Discover how these trends transform investment strategies for diverse investors"
+category: quant_concept
+description: Explore the rise of mutual funds and algorithmic trading in modern finance
+  Discover how these trends transform investment strategies for diverse investors
+title: Popularity of Mutual Funds (Algo Trading)
 ---
 
 The financial landscape is undergoing a transformation characterized by rapid technological advancements and evolving investment strategies. As digital innovations continue to permeate the financial world, two significant trends have emerged, capturing the attention of both institutional and individual investors: mutual funds and algorithmic trading. These tools are shaping modern investment trends, offering unique advantages while presenting new challenges and opportunities for investors. 

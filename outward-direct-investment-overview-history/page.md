@@ -1,6 +1,9 @@
 ---
-title: "Outward Direct Investment: Overview and History (Algo Trading)"
-description: "Explore the synergy of outward direct investment and algorithmic trading in international business and discover how these strategies drive global financial success."
+category: trading_strategy
+description: Explore the synergy of outward direct investment and algorithmic trading
+  in international business and discover how these strategies drive global financial
+  success.
+title: 'Outward Direct Investment: Overview and History (Algo Trading)'
 ---
 
 In today's globalized economy, mastering various investment strategies is essential for businesses and investors aiming to thrive amidst complex financial dynamics. The interplay between outward direct investment (ODI), international business, and algorithmic trading forms a pivotal axis influencing the international financial landscape. Outward direct investment enables companies to access new markets and resources by establishing or acquiring business operations abroad, thus serving as a catalyst for growth beyond saturated domestic markets.

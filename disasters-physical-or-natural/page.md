@@ -1,6 +1,10 @@
 ---
-title: "Disasters (physical or natural) (Algo Trading)"
-description: Explore the impact of physical and natural disasters on algorithmic trading, highlighting the challenges and response strategies for ensuring stability in the face of market disruptions. Understand the dynamics of financial markets during catastrophes and how effective risk management helps traders maintain resilience.
+category: quant_concept
+description: Explore the impact of physical and natural disasters on algorithmic trading,
+  highlighting the challenges and response strategies for ensuring stability in the
+  face of market disruptions. Understand the dynamics of financial markets during
+  catastrophes and how effective risk management helps traders maintain resilience.
+title: Disasters (physical or natural) (Algo Trading)
 ---
 
 Algorithmic trading, often referred to as algo trading, uses automated software programs to execute trades in financial markets. These programs utilize complex algorithms to analyze data, monitor market conditions, and execute orders at speeds and frequencies that are beyond human capabilities. By capitalizing on market inefficiencies, algo trading offers significant advantages, such as increased speed and accuracy, reduced transaction costs, and the ability to swiftly adapt to market changes. These benefits have made algorithmic trading a critical component in modern financial markets, underpinning a significant portion of trading volume across global exchanges.

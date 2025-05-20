@@ -1,6 +1,13 @@
 ---
-title: "Drawdown (Algo Trading)"
-description: Explore the concept of drawdown in algorithmic trading a crucial metric measuring the decline from a portfolio's peak to trough. This comprehensive guide investigates into its importance types and calculation methods. By understanding drawdowns traders can manage risks effectively enhance strategy durability and improve overall trading performance. Discover strategies to mitigate drawdowns and ensure sustainable algorithmic trading success while integrating this key risk metric into your trading environment for informed decision-making.
+category: trading_strategy
+description: Explore the concept of drawdown in algorithmic trading a crucial metric
+  measuring the decline from a portfolio's peak to trough. This comprehensive guide
+  investigates into its importance types and calculation methods. By understanding
+  drawdowns traders can manage risks effectively enhance strategy durability and improve
+  overall trading performance. Discover strategies to mitigate drawdowns and ensure
+  sustainable algorithmic trading success while integrating this key risk metric into
+  your trading environment for informed decision-making.
+title: Drawdown (Algo Trading)
 ---
 
 Algorithmic trading, commonly known as algo trading, involves the use of computer programs to automate trading decisions and execute trades based on pre-defined criteria. This technology-driven approach offers enhanced efficiency and speed compared to traditional manual trading methods since computers can quickly analyze vast amounts of data and execute trades at optimal moments, often within fractions of a second. However, this increased efficiency also requires meticulous risk management to safeguard against potential losses.

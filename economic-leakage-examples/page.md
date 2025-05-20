@@ -1,6 +1,8 @@
 ---
-title: "Economic Leakage and Examples (Algo Trading)"
-description: "Explore economic leakage within economics and algorithmic trading to understand its impact on monetary flow and model evaluations, ensuring robust strategies."
+category: quant_concept
+description: Explore economic leakage within economics and algorithmic trading to
+  understand its impact on monetary flow and model evaluations, ensuring robust strategies.
+title: Economic Leakage and Examples (Algo Trading)
 ---
 
 Understanding the concept of leakage in economics and algorithmic trading is crucial for both economists and traders. Leakage represents a divergence of income from a defined circular flow, impacting both economic dynamics and trading algorithms. Within the context of economics, leakage can have significant implications for a nation's capital flow. It occurs when income is diverted from the economic cycle, reducing the amount available for consumption and investment. This can manifest through savings, taxes, and imports that remove funds from the domestic economy, potentially stunting economic growth.

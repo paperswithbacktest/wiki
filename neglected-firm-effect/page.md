@@ -1,6 +1,9 @@
 ---
-title: "Neglected Firm Effect (Algo Trading)"
-description: "Explore the neglected firm effect to uncover how smaller, lesser-known companies may outperform major firms through strategic analysis and algorithmic trading."
+category: trading_strategy
+description: Explore the neglected firm effect to uncover how smaller, lesser-known
+  companies may outperform major firms through strategic analysis and algorithmic
+  trading.
+title: Neglected Firm Effect (Algo Trading)
 ---
 
 Financial markets are complex systems with numerous investment opportunities where astute investors can gain significant strategic advantages. Among these opportunities are market anomalies, which represent deviations from the efficient market hypothesis and offer the potential for enhanced returns. Traditional investment strategies often overlook these peculiar market phenomena, leaving room for strategic exploitation.

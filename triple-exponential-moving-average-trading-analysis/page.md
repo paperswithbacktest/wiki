@@ -1,6 +1,9 @@
 ---
-title: "Triple Exponential Moving Average in Trading and Analysis (Algo Trading)"
-description: "Explore the Triple Exponential Moving Average (TEMA) to gain insights into market trends with enhanced accuracy and responsiveness for effective algorithmic trading strategies."
+category: trading_strategy
+description: Explore the Triple Exponential Moving Average (TEMA) to gain insights
+  into market trends with enhanced accuracy and responsiveness for effective algorithmic
+  trading strategies.
+title: Triple Exponential Moving Average in Trading and Analysis (Algo Trading)
 ---
 
 Technical indicators are essential tools in trading analysis and algorithmic trading, allowing traders to interpret market data to make informed decisions. Among these indicators, the Triple Exponential Moving Average (TEMA) is notably effective in smoothing price data and identifying trends due to its advanced smoothing techniques, which help reduce the lag typically associated with traditional moving averages.

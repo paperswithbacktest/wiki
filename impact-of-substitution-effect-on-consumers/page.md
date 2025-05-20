@@ -1,6 +1,9 @@
 ---
-title: "Impact of the Substitution Effect on Consumers (Algo Trading)"
-description: "Explore the impact of the substitution effect on consumer behavior and its implications for algorithmic trading Understand how economic theories enhance market strategies."
+category: quant_concept
+description: Explore the impact of the substitution effect on consumer behavior and
+  its implications for algorithmic trading Understand how economic theories enhance
+  market strategies.
+title: Impact of the Substitution Effect on Consumers (Algo Trading)
 ---
 
 The interplay between consumer behavior and economic theory offers crucial insights into market dynamics, a foundational aspect of both microeconomics and macroeconomics. One of the key concepts in this interplay is the substitution effect, which elucidates how consumers adjust their purchasing decisions in response to changes in relative prices. Essentially, when the price of a good increases, consumers tend to replace it with a less expensive alternative, thereby maximizing their utility under given budget constraints.
@@ -187,4 +190,3 @@ Adaptability is paramount for any economic model applied to real-world scenarios
 6. **Further Exploration**
    - Keeney, R.L., & Raiffa, H. (1993). *Decisions with Multiple Objectives: Preferences and Value Trade-Offs*. Cambridge University Press. This book assists in understanding decision-making processes with multiple consumer objectives, valuable for modeling trading strategies. 
    - Lambert, P. (2016). *Advanced Statistics Demystified*. McGraw-Hill Education. Provides advanced statistical tools and methodologies, beneficial for developing models and algorithms utilizing substitution effects in trading.
-

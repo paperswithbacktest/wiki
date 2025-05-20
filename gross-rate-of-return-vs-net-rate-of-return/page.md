@@ -1,6 +1,8 @@
 ---
-title: "Gross Rate of Return vs. Net Rate of Return (Algo Trading)"
-description: "Explore the differences between gross and net rates of return in algorithmic trading Discover how to optimize investment performance with these metrics"
+category: quant_concept
+description: Explore the differences between gross and net rates of return in algorithmic
+  trading Discover how to optimize investment performance with these metrics
+title: Gross Rate of Return vs. Net Rate of Return (Algo Trading)
 ---
 
 In today's rapidly evolving financial landscape, understanding investment returns is crucial for both novice and experienced investors. Investment returns can be broadly quantified through two primary metrics: the gross rate of return and the net rate of return. These metrics serve as essential tools for evaluating the profitability and viability of investment opportunities, each offering a unique perspective on the performance of investments.

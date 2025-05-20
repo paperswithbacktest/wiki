@@ -1,6 +1,8 @@
 ---
-title: "Dun & Bradstreet: Operations, Funding, History, and Credit Ratings (Algo Trading)"
-description: "Explore how Dun & Bradstreet enhances business strategies with credit ratings and algorithmic trading insights for optimized growth and risk management."
+category: dataset
+description: Explore how Dun & Bradstreet enhances business strategies with credit
+  ratings and algorithmic trading insights for optimized growth and risk management.
+title: 'Dun & Bradstreet: Operations, Funding, History, and Credit Ratings (Algo Trading)'
 ---
 
 In today's rapidly changing business finance and technology landscape, understanding credit ratings and harnessing the capabilities of algorithmic trading have become pivotal for companies aiming for success. Dun & Bradstreet (D&B) plays a leading role in this arena by offering exceptional business intelligence through its credit rating tools. These tools provide a crucial layer of insight, helping businesses navigate financial challenges and opportunities with greater precision.

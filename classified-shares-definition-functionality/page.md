@@ -1,6 +1,8 @@
 ---
-title: "Classified Shares: Definition and Functionality (Algo Trading)"
-description: "Explore classified shares, their rights, and impact on investor control and returns. Learn how they shape algorithmic trading strategies and corporate governance."
+category: quant_concept
+description: Explore classified shares, their rights, and impact on investor control
+  and returns. Learn how they shape algorithmic trading strategies and corporate governance.
+title: 'Classified Shares: Definition and Functionality (Algo Trading)'
 ---
 
 In the contemporary landscape of financial markets, understanding the classification of shares and the rights they bestow upon shareholders is crucial. Classified shares enable companies to differentiate between types of equity ownership, impacting investor control, financial returns, and corporate governance significantly. Depending on their classification, shares may offer varying voting rights and dividend options, which in turn influence the strategic decisions investors make.
@@ -129,4 +131,3 @@ Therefore, a comprehensive understanding of classified shares, shareholder right
 6. **"Advancements in Algorithmic Trading and AI"** - MIT's Sloan Management Review discusses ongoing developments in machine learning and AI as they pertain to the future of algorithmic trading. [MIT Sloan - AI in Trading](https://sloanreview.mit.edu/)
 
 These resources provide a foundational starting point for understanding the intricate details of classified shares, shareholder rights, and the evolving field of algorithmic trading.
-

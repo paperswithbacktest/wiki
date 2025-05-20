@@ -1,6 +1,8 @@
 ---
-title: "Liquidity Aggregation Techniques (Algo Trading)"
-description: "Explore liquidity aggregation techniques in algorithmic trading to integrate diverse liquidity sources, enhancing trade efficiency and minimizing costs."
+category: quant_concept
+description: Explore liquidity aggregation techniques in algorithmic trading to integrate
+  diverse liquidity sources, enhancing trade efficiency and minimizing costs.
+title: Liquidity Aggregation Techniques (Algo Trading)
 ---
 
 Liquidity aggregation is a fundamental strategy in algorithmic trading, designed to integrate liquidity from various sources to enhance the efficiency of trade execution. This approach aims to minimize slippage, lower transaction costs, and ensure that trade executions are optimal, all of which are crucial for developing profitable trading strategies. A firm grasp of liquidity fundamentals and its significance in financial markets provides traders with the necessary insights to make informed decisions.

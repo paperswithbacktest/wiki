@@ -1,6 +1,8 @@
 ---
-title: "History of Stock Exchanges (Algo Trading)"
-description: "Explore the evolution of stock exchanges and algo trading shaping global financial markets with key historical insights and future trends in economic dynamics."
+category: quant_concept
+description: Explore the evolution of stock exchanges and algo trading shaping global
+  financial markets with key historical insights and future trends in economic dynamics.
+title: History of Stock Exchanges (Algo Trading)
 ---
 
 In today's fast-paced financial world, understanding the complexities of stock exchanges and financial markets is crucial. Stock exchanges have long served as crucial platforms for the buying and selling of securities, acting as pivotal nodes in the global financial ecosystem. The development of financial markets has a profound impact on economic growth, facilitating capital allocation, risk management, and price discovery.

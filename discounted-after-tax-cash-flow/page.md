@@ -1,6 +1,8 @@
 ---
-title: "Discounted After-Tax Cash Flow (Algo Trading)"
-description: "Explore how discounted after-tax cash flow integrates with algorithmic trading for smarter financial decisions. Enhance strategy and investment returns."
+category: quant_concept
+description: Explore how discounted after-tax cash flow integrates with algorithmic
+  trading for smarter financial decisions. Enhance strategy and investment returns.
+title: Discounted After-Tax Cash Flow (Algo Trading)
 ---
 
 In today's fast-paced financial environment, effectively managing and projecting cash flow is essential for investors and businesses. Fundamental financial concepts such as after-tax cash flow and discounted cash flow (DCF) are critical for understanding the potential of investments. After-tax cash flow gives a realistic view of the money available after accounting for taxes, ensuring stakeholders can evaluate the true profitability of ventures. On the other hand, DCF offers a method to estimate the present value of future cash flows, providing a more accurate valuation of potential investments.

@@ -1,6 +1,8 @@
 ---
-title: "Compound Accreted Value (Algo Trading)"
-description: "Discover the significance of Compound Accreted Value in zero-coupon bonds and algorithmic trading Enhance your investment strategies with CAV insights"
+category: quant_concept
+description: Discover the significance of Compound Accreted Value in zero-coupon bonds
+  and algorithmic trading Enhance your investment strategies with CAV insights
+title: Compound Accreted Value (Algo Trading)
 ---
 
 In the complex world of finance, several key concepts and metrics help investors make informed decisions. One such concept is the Compound Accreted Value (CAV), particularly relevant in the context of zero-coupon bonds. Zero-coupon bonds are unique financial instruments that do not provide periodic interest payments; instead, they are issued at a discount and mature at their face value. The CAV serves as a pivotal metric in assessing the current worth of these bonds before they reach maturity. It does so by measuring the bond’s value based on the accrued interest and the initial purchase price. This measurement becomes especially crucial for investors looking to evaluate potential returns and make strategic decisions.

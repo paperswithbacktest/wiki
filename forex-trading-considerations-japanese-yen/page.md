@@ -1,6 +1,8 @@
 ---
-title: "Forex Trading Considerations for the Japanese Yen (Algo Trading)"
-description: "Explore the impact of algorithmic trading on the Japanese Yen in the Forex market Discover strategies for leveraging its stability amid global volatility"
+category: trading_strategy
+description: Explore the impact of algorithmic trading on the Japanese Yen in the
+  Forex market Discover strategies for leveraging its stability amid global volatility
+title: Forex Trading Considerations for the Japanese Yen (Algo Trading)
 ---
 
 The foreign exchange market, commonly recognized as Forex, represents one of the largest and most liquid financial markets globally, with daily trading volumes exceeding $6 trillion as of 2019 (BIS, 2019). This expansive market encompasses a vast array of currencies, with the Japanese Yen (JPY) standing out as a crucial player due to its significant role in international trade and finance. The Yen's prominence is anchored in Japan's robust economic stature as one of the world's leading economies and its reputation for producing high-quality goods and pursuing innovative technologies.

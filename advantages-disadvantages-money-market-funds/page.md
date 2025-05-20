@@ -1,6 +1,9 @@
 ---
-title: "Advantages and Disadvantages of Money Market Funds (Algo Trading)"
-description: "Explore the pros and cons of money market funds and their dynamics with algorithmic trading to make informed investment decisions. Discover liquidity, low risk, and diversification benefits."
+category: trading_strategy
+description: Explore the pros and cons of money market funds and their dynamics with
+  algorithmic trading to make informed investment decisions. Discover liquidity, low
+  risk, and diversification benefits.
+title: Advantages and Disadvantages of Money Market Funds (Algo Trading)
 ---
 
 Money market funds are a type of mutual fund that invests in short-term, high-quality debt instruments and monetary instruments such as Treasury bills, commercial paper, and certificates of deposit. These funds are designed to provide investors with a secure place to invest that offers liquidity while yielding a return. They serve as a crucial component in the financial ecosystem by acting as intermediaries between savers and borrowers, thus facilitating the efficient flow of capital.

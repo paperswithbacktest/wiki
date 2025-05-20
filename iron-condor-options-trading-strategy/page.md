@@ -1,6 +1,11 @@
 ---
-title: "Iron Condor Options Trading Strategy Explained (Algo Trading)"
-description: Explore the iron condor options trading strategy, ideal for low volatility markets, through an algorithmic lens. Learn how to create consistent trading opportunities by automating processes and managing risks effectively in your trading system. Understand the mechanics, benefits, and potential drawbacks while maximizing gains using advanced techniques in algo trading.
+category: trading_strategy
+description: Explore the iron condor options trading strategy, ideal for low volatility
+  markets, through an algorithmic lens. Learn how to create consistent trading opportunities
+  by automating processes and managing risks effectively in your trading system. Understand
+  the mechanics, benefits, and potential drawbacks while maximizing gains using advanced
+  techniques in algo trading.
+title: Iron Condor Options Trading Strategy Explained (Algo Trading)
 ---
 
 The iron condor strategy is widely recognized among options traders for its ability to generate profits in low-volatility market conditions. This strategy involves selling an out-of-the-money call spread and an out-of-the-money put spread simultaneously on the same underlying asset, resulting in a net credit. By establishing four different strike prices, traders create a range within which the price of the underlying asset should ideally remain until the options' expiration.

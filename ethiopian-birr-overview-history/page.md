@@ -1,6 +1,9 @@
 ---
-title: "Ethiopian Birr: Overview and Historical Context (Algo Trading)"
-description: "Explore the historical evolution and economic significance of the Ethiopian Birr within both domestic and international contexts while assessing future challenges and opportunities."
+category: dataset
+description: Explore the historical evolution and economic significance of the Ethiopian
+  Birr within both domestic and international contexts while assessing future challenges
+  and opportunities.
+title: 'Ethiopian Birr: Overview and Historical Context (Algo Trading)'
 ---
 
 The Ethiopian Birr (ETB) serves as the official currency of Ethiopia, a nation characterized by its storied cultural and historical traditions. As the monetary foundation of Africa’s second-most populous country, the Birr is central to both domestic economic transactions and Ethiopia's interactions with the global economy. This article examines the historical evolution of the Ethiopian Birr, charting its development from early currency systems to its present status. Furthermore, it evaluates the currency's role and significance within the Ethiopian economy, where agriculture, particularly coffee, dominates the export landscape.

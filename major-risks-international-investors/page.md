@@ -1,6 +1,8 @@
 ---
-title: "Major Risks for International Investors (Algo Trading)"
-description: "Explore key international investment risks and discover how algorithmic trading helps mitigate issues like currency volatility and political instability."
+category: quant_concept
+description: Explore key international investment risks and discover how algorithmic
+  trading helps mitigate issues like currency volatility and political instability.
+title: Major Risks for International Investors (Algo Trading)
 ---
 
 In today's interconnected financial world, international investments are becoming increasingly significant. The globalization of finance and the ease of cross-border transactions have encouraged investors to look beyond their domestic markets in search of diversification and higher returns. This global outlook allows investors to tap into growth opportunities present in both emerging and developed markets.

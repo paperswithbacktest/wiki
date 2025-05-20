@@ -1,9 +1,9 @@
 ---
-title: "Michel Robe (Algo Trading)"
-description: "Michel Robe is a distinguished expert in algorithmic trading with extensive academic and governmental experience, noted for his research on financial derivatives."
+category: quant_concept
+description: Michel Robe is a distinguished expert in algorithmic trading with extensive
+  academic and governmental experience, noted for his research on financial derivatives.
+title: Michel Robe (Algo Trading)
 ---
-
-
 
 ## Table of Contents
 

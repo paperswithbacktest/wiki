@@ -1,6 +1,9 @@
 ---
-title: "Exchange-Traded Product (ETP): Overview and Types (Algo Trading)"
-description: "Explore exchange-traded products and algorithmic trading to understand their impact on market efficiency and strategies, enhancing your financial market navigation."
+category: quant_concept
+description: Explore exchange-traded products and algorithmic trading to understand
+  their impact on market efficiency and strategies, enhancing your financial market
+  navigation.
+title: 'Exchange-Traded Product (ETP): Overview and Types (Algo Trading)'
 ---
 
 Financial instruments are essential components of global markets, acting as vehicles for the flow of capital and the transfer of risk. They encompass a wide range of assets, including equities, bonds, derivatives, and foreign exchange products, each serving distinct functions in financial ecosystems. These instruments enable investors to allocate capital efficiently, companies to raise funds, and economies to foster growth and development. Their importance in global markets lies in their ability to facilitate liquidity, price discovery, and risk management, all of which are fundamental for maintaining market stability and fostering economic development.
@@ -202,4 +205,4 @@ For those seeking to deepen their understanding, further reading materials are r
 
 [7]: Narang, R. K. (2013). *Inside the Black Box: A Simple Guide to Quantitative and High Frequency Trading*. Wiley. 
 
-[8]: Griffiths, M. D., & Webster, I. (2019). *Quantitative Trading Systems and Implementable Strategies*. Available at SSRN: [Quantitative Trading](https://www.quantifiedstrategies.com/quantitative-trading-strategies/). 
+[8]: Griffiths, M. D., & Webster, I. (2019). *Quantitative Trading Systems and Implementable Strategies*. Available at SSRN: [Quantitative Trading](https://www.quantifiedstrategies.com/quantitative-trading-strategies/).

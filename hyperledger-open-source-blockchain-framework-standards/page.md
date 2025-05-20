@@ -1,6 +1,8 @@
 ---
-title: "Hyperledger: Open Source Blockchain Framework and Standards (Algo Trading)"
-description: "Explore how Hyperledger's blockchain frameworks enhance algorithmic trading with improved security, transparency, and efficiency in financial markets."
+category: quant_concept
+description: Explore how Hyperledger's blockchain frameworks enhance algorithmic trading
+  with improved security, transparency, and efficiency in financial markets.
+title: 'Hyperledger: Open Source Blockchain Framework and Standards (Algo Trading)'
 ---
 
 The convergence of blockchain technology and algorithmic trading represents a significant evolution in financial market innovation. Blockchain technology, characterized by its decentralized and immutable ledger system, brings substantial enhancements to data transparency, security, and process efficiency. Within this domain, Hyperledger emerges as a critical open-source blockchain framework, empowering organizations to develop decentralized and permissioned blockchain applications tailored for a variety of sectors, including finance.

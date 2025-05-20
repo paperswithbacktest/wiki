@@ -1,6 +1,8 @@
 ---
-title: "Understanding T-Bill Quotes (Algo Trading)"
-description: "Discover the essentials of Treasury Bill quotes and the impact of algorithmic trading strategies that enhance investment decisions in fluctuating markets."
+category: quant_concept
+description: Discover the essentials of Treasury Bill quotes and the impact of algorithmic
+  trading strategies that enhance investment decisions in fluctuating markets.
+title: Understanding T-Bill Quotes (Algo Trading)
 ---
 
 Treasury Bills (T-Bills) are short-term securities issued by the U.S. government, serving as a fundamental component of government securities. They are characterized by their minimal risk, making them a popular choice for short-term government financing needs. Investors frequently turn to T-Bills as a secure investment option, particularly in today's volatile financial markets, due to the government's backing, which significantly reduces the risk of default.

@@ -1,6 +1,8 @@
 ---
-title: "Cape Verdean Escudo and Economy of Cabo Verde (Algo Trading)"
-description: "Explore Cabo Verde's unique economic landscape shaped by its service-driven GDP and the role of the Cape Verdean escudo in modern algo trading dynamics."
+category: quant_concept
+description: Explore Cabo Verde's unique economic landscape shaped by its service-driven
+  GDP and the role of the Cape Verdean escudo in modern algo trading dynamics.
+title: Cape Verdean Escudo and Economy of Cabo Verde (Algo Trading)
 ---
 
 The Cape Verdean escudo (CVE) serves as the official currency of Cabo Verde, a nation that boasts a distinctive economic landscape shaped by its historical connections and geographical attributes. Nestled off the northwest coast of Africa, Cabo Verde consists of 10 volcanic islands that have historically played a critical role as a nexus for maritime trade routes. The economic framework of this archipelago is notably unique due to its historical ties with Portugal, which have influenced not only cultural aspects but also economic practices and currency regulations.

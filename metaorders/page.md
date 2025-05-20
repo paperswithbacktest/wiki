@@ -1,6 +1,9 @@
 ---
-title: "Metaorders (Algo Trading)"
-description: "Discover how metaorders optimize algorithmic trading by reducing market impact and transaction costs Master this strategy to enhance market stability and efficiency"
+category: quant_concept
+description: Discover how metaorders optimize algorithmic trading by reducing market
+  impact and transaction costs Master this strategy to enhance market stability and
+  efficiency
+title: Metaorders (Algo Trading)
 ---
 
 In the dynamic world of financial markets, algorithmic trading has transformed how trades are executed, facilitating faster and more efficient transactions. A central element of this transformation is the concept of metaorders, which play a pivotal role in the functioning of algorithmic trading systems. Metaorders refer to the strategic fragmentation of large orders into smaller, manageable parts, which are then executed over a designated period. This practice is crucial in minimizing the impact of large trades on market prices, thereby optimizing trade execution.

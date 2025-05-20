@@ -1,6 +1,9 @@
 ---
-title: "Floating Rate Fund (Algo Trading)"
-description: "Explore the benefits of floating rate funds with algorithmic trading to optimize returns in rising interest rate environments Learn how they adapt and compare to fixed-rate instruments"
+category: trading_strategy
+description: Explore the benefits of floating rate funds with algorithmic trading
+  to optimize returns in rising interest rate environments Learn how they adapt and
+  compare to fixed-rate instruments
+title: Floating Rate Fund (Algo Trading)
 ---
 
 Floating rate funds, also known as floating rate investment funds, have become increasingly popular among investors navigating today's fluctuating financial markets. Their primary appeal is the provision of variable interest payouts, which position these funds as a strategic hedge against the uncertainty of rising interest rates. As global economies face the potential for tightening monetary policies to curb inflation, investors are naturally drawn to financial instruments that offer adaptive and potentially more lucrative returns.

@@ -1,6 +1,14 @@
 ---
-title: "Drawdown (DD) (Algo Trading)"
-description: Explore the significance of drawdown in algorithmic trading as a vital performance metric for evaluating trading strategies and managing risk. Understand how drawdown measures help traders assess financial loss and risk profiles enabling informed decisions on capital allocation and risk-adjusted returns. Learn about types of drawdowns including max and mean drawdown and their roles in identifying worst-case scenarios and consistent losses. See how drawdown analysis supports strategy optimization by enhancing risk management and ensuring stable performance amidst market volatility.
+category: quant_concept
+description: Explore the significance of drawdown in algorithmic trading as a vital
+  performance metric for evaluating trading strategies and managing risk. Understand
+  how drawdown measures help traders assess financial loss and risk profiles enabling
+  informed decisions on capital allocation and risk-adjusted returns. Learn about
+  types of drawdowns including max and mean drawdown and their roles in identifying
+  worst-case scenarios and consistent losses. See how drawdown analysis supports strategy
+  optimization by enhancing risk management and ensuring stable performance amidst
+  market volatility.
+title: Drawdown (DD) (Algo Trading)
 ---
 
 In the fast-evolving world of algorithmic trading, performance metrics are crucial for evaluating the efficiency of a trading strategy. Among these metrics, drawdown is a widely used term. Drawdown is a measure of the decline from a historical peak in some variable, typically the cumulative profit/loss. This metric provides insights into the risk profile of trading strategies by quantifying the extent of financial loss from a peak until a new peak is reached. Understanding drawdown is essential because it helps traders and investors assess the risk and volatility associated with a particular trading approach. It also informs decisions related to capital allocation and the evaluation of risk-adjusted returns.

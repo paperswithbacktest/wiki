@@ -1,6 +1,8 @@
 ---
-title: "Receive Versus Payment in Securities Settlement (Algo Trading)"
-description: "Secure securities settlements with Receive Versus Payment ensuring simultaneous exchange of payment and securities to minimize risk and enhance trust in trading."
+category: quant_concept
+description: Secure securities settlements with Receive Versus Payment ensuring simultaneous
+  exchange of payment and securities to minimize risk and enhance trust in trading.
+title: Receive Versus Payment in Securities Settlement (Algo Trading)
 ---
 
 The financial markets are replete with various mechanisms aimed at reducing risk and ensuring seamless transactions. These mechanisms are essential for maintaining stability and trust in the complex world of financial exchanges. Among them, the Receive Versus Payment (RVP) process holds a significant position. RVP is crucial for safeguarding both buyers and sellers involved in securities transactions by ensuring that the exchange of payment and securities occurs simultaneously. This reciprocal arrangement mitigates the risk of either party failing to fulfill their part of the agreement.

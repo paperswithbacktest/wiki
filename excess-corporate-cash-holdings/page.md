@@ -1,6 +1,8 @@
 ---
-title: "Excess Corporate Cash Holdings (Algo Trading)"
-description: "Discover effective strategies for managing excess corporate cash holdings using algorithmic trading to enhance financial returns and operational stability."
+category: trading_strategy
+description: Discover effective strategies for managing excess corporate cash holdings
+  using algorithmic trading to enhance financial returns and operational stability.
+title: Excess Corporate Cash Holdings (Algo Trading)
 ---
 
 In the financial world, cash management is fundamentally important to corporate success. Cash reserves serve as a critical component in steering a company's growth and strategic direction. The efficient handling of these reserves can significantly influence a company's ability to thrive in a competitive market. Cash reserves act as a cushion, enabling companies to navigate economic turbulence and seize investment opportunities, thus playing an instrumental role in long-term planning and operational stability.

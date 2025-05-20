@@ -1,6 +1,8 @@
 ---
-title: "Direxion Daily S&P Biotech Bull 3X ETF (Algo Trading)"
-description: "Explore the opportunities and risks of investing in the Direxion Daily S&P Biotech Bull 3X ETF. Discover how algorithmic trading can optimize returns."
+category: trading_strategy
+description: Explore the opportunities and risks of investing in the Direxion Daily
+  S&P Biotech Bull 3X ETF. Discover how algorithmic trading can optimize returns.
+title: Direxion Daily S&P Biotech Bull 3X ETF (Algo Trading)
 ---
 
 The biotech industry is experiencing rapid growth, presenting a variety of investment opportunities with strong potential for high returns. As an emerging sector, biotechnology draws significant interest from investors who are willing to tap into its innovative developments and market growth dynamics. Leveraged exchange-traded funds (ETFs), such as the Direxion Daily S&P Biotech Bull 3X ETF (LABU), offer investors a distinctive approach to maximizing potential gains within this sector.

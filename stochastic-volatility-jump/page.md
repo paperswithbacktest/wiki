@@ -1,6 +1,8 @@
 ---
-title: "Stochastic volatility jump (Algo Trading)"
-description: "Explore stochastic volatility jumps in algo trading understand the intricacies of market dynamics and enhance financial strategies with advanced modeling techniques."
+category: quant_concept
+description: Explore stochastic volatility jumps in algo trading understand the intricacies
+  of market dynamics and enhance financial strategies with advanced modeling techniques.
+title: Stochastic volatility jump (Algo Trading)
 ---
 
 Stochastic volatility jumps are a critical component of financial markets, typified by abrupt changes in asset price volatility. Unlike traditional models that operate under the assumption of smooth and continuous market movements, stochastic volatility jumps introduce complexities that challenge these conventional approaches. Such jumps necessitate the use of advanced modeling techniques to accurately capture and predict the erratic behavior of market prices.

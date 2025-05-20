@@ -1,6 +1,8 @@
 ---
-title: "Paloma Partners (Algo Trading)"
-description: "Discover Paloma Partners' pioneering expertise in algorithmic trading Learn how this firm leverages cutting-edge technology for strategic market success"
+category: trading_strategy
+description: Discover Paloma Partners' pioneering expertise in algorithmic trading
+  Learn how this firm leverages cutting-edge technology for strategic market success
+title: Paloma Partners (Algo Trading)
 ---
 
 Paloma Partners is a distinguished investment firm known for its expertise in algorithmic trading, a method that utilizes computer algorithms to automate trading decisions and executions. In this article, we examine the world of Paloma Partners, with a specific focus on its innovative approach to algorithmic trading. We will analyze the firm's history, dissect its trading strategies, and assess its impact on the financial industry.

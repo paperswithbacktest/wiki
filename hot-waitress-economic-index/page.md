@@ -1,6 +1,9 @@
 ---
-title: "Hot Waitress Economic Index (Algo Trading)"
-description: "Explore the impact of economic indices and algorithmic trading on employment trends in the service industry highlighting the role of technology in shaping the future."
+category: quant_concept
+description: Explore the impact of economic indices and algorithmic trading on employment
+  trends in the service industry highlighting the role of technology in shaping the
+  future.
+title: Hot Waitress Economic Index (Algo Trading)
 ---
 
 The evolving landscape of employment trends within the service industry is significantly shaped by various economic indices and technological advancements. As the sector remains a dominant player in global employment, understanding these influences becomes essential for devising effective business strategies and informed policy-making. Economic indices like Gross Domestic Product (GDP), the Unemployment Rate, and specific measures tailored for the service industry provide critical insights into market dynamics, offering a foundation for evaluating economic health and stability.

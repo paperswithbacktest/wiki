@@ -1,6 +1,8 @@
 ---
-title: "Ithaca HOURS: Overview and Functionality (Algo Trading)"
-description: "Explore the synergy between Ithaca HOURS and algorithmic trading in enhancing community economics by leveraging local currencies for sustainable economic development."
+category: quant_concept
+description: Explore the synergy between Ithaca HOURS and algorithmic trading in enhancing
+  community economics by leveraging local currencies for sustainable economic development.
+title: 'Ithaca HOURS: Overview and Functionality (Algo Trading)'
 ---
 
 Local currencies, such as Ithaca HOURS, have long served as vital instruments in fortifying community economics by nurturing local business ecosystems and promoting self-reliance among residents. Originating in Ithaca, New York in 1991, Ithaca HOURS were designed to invigorate the local economy by facilitating trade and services within the community independent of the national currency. By pegging the currency to an hour of labor and equivalently to the U.S. dollar, Ithaca HOURS provided a tangible means for community members to engage in economic activities that resonated with the principles of locality and reciprocal exchange (Glover, R. (1994). *Ithaca HOURS: The Story of the Local Currency*).

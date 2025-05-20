@@ -1,6 +1,9 @@
 ---
-title: "Comparison of Closed-End and Open-End Funds (Algo Trading)"
-description: "Explore the key differences between open-end and closed-end funds in this guide Highlight the benefits challenges and role of algorithmic trading in fund management"
+category: quant_concept
+description: Explore the key differences between open-end and closed-end funds in
+  this guide Highlight the benefits challenges and role of algorithmic trading in
+  fund management
+title: Comparison of Closed-End and Open-End Funds (Algo Trading)
 ---
 
 Understanding the diverse landscape of investment funds is crucial for any investor looking to optimize their portfolio. Investment funds, by pooling resources from many investors, provide access to a diversified set of assets, which can help mitigate risks and enhance returns. This article focuses on two primary types of investment funds: open-end funds (commonly known as mutual funds) and closed-end funds. Each type operates under different mechanisms, catering to varied investor requirements. An in-depth review of these funds will offer clarity on how they function, the advantages and challenges they present, and their role in achieving long-term financial objectives.

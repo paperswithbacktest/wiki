@@ -1,6 +1,8 @@
 ---
-title: "Level 2 Market Data on Nasdaq (Algo Trading)"
-description: "Gain insights into Nasdaq's Level 2 market data for better trading strategies through detailed order book analysis leveraging algorithmic systems for precision."
+category: dataset
+description: Gain insights into Nasdaq's Level 2 market data for better trading strategies
+  through detailed order book analysis leveraging algorithmic systems for precision.
+title: Level 2 Market Data on Nasdaq (Algo Trading)
 ---
 
 In the fast-paced world of stock trading, understanding market dynamics is crucial for making informed decisions that can lead to profitable outcomes. One important tool that traders use to gain a comprehensive understanding of market activity is Level 2 market data. Providing a detailed view of the Nasdaq order book, Level 2 data offers insights into price movements and market depth that go beyond the surface-level information available through regular trading platforms.

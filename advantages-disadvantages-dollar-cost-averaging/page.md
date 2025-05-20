@@ -1,6 +1,8 @@
 ---
-title: "Advantages and Disadvantages of Dollar-Cost Averaging (Algo Trading)"
-description: "Explore the benefits and drawbacks of dollar-cost averaging in algo trading. Learn how this strategy aids in navigating market volatility for long-term gain."
+category: trading_strategy
+description: Explore the benefits and drawbacks of dollar-cost averaging in algo trading.
+  Learn how this strategy aids in navigating market volatility for long-term gain.
+title: Advantages and Disadvantages of Dollar-Cost Averaging (Algo Trading)
 ---
 
 A solid investment strategy is paramount for success in financial markets, where volatility and uncertainty often challenge investors. Among various strategies, dollar-cost averaging (DCA) has emerged as a popular method due to its systematic approach in managing market fluctuations. DCA involves investing a fixed dollar amount in a particular asset at regular intervals, regardless of its current price. This approach helps investors avoid the pitfalls of attempting to time the market, a task known for its complexity and risk. By consistently investing over time, the strategy ensures that an investor buys more units when prices are low and fewer when prices are high, potentially resulting in a lower average cost per share over a given period.

@@ -1,6 +1,8 @@
 ---
-title: "Invisible Hand in Economics (Algo Trading)"
-description: "Explore how Adam Smith's 'invisible hand' theory aligns with modern algorithmic trading enhancing market efficiency through automated self-regulating processes."
+category: quant_concept
+description: Explore how Adam Smith's 'invisible hand' theory aligns with modern algorithmic
+  trading enhancing market efficiency through automated self-regulating processes.
+title: Invisible Hand in Economics (Algo Trading)
 ---
 
 The concept of the 'invisible hand' was introduced by the Scottish economist Adam Smith in his seminal work, "The Wealth of Nations" (1776). The metaphor refers to the self-regulating nature of the marketplace, where individuals pursuing their self-interests inadvertently contribute to the economic well-being of society. Smith argued that through competition and the innate human desire to better one's condition, resources are allocated efficiently, leading to societal benefits even though individuals do not intentionally seek this outcome. The invisible hand has since become a foundational principle of free-market economics and continues to influence economic thought globally.

@@ -1,6 +1,9 @@
 ---
-title: "Risk and Reward Analysis: Upside Potential (Algo Trading)"
-description: "Explore the intricacies of risk and reward in investment analysis, and discover how algorithmic trading maximizes upside potential for optimized financial decisions."
+category: trading_strategy
+description: Explore the intricacies of risk and reward in investment analysis, and
+  discover how algorithmic trading maximizes upside potential for optimized financial
+  decisions.
+title: 'Risk and Reward Analysis: Upside Potential (Algo Trading)'
 ---
 
 Investment analysis stands as a cornerstone in trading, serving the critical function of guiding investment decisions to optimize financial outcomes. By assessing the potential performance of financial instruments, investment analysis seeks to forecast future price movements and identify lucrative opportunities. Its significance in trading is underscored by its ability to mitigate risks, allocate capital efficiently, and enhance decision-making precision.

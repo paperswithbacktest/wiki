@@ -1,6 +1,8 @@
 ---
-title: "NinjaTrader Platform Review (Algo Trading)"
-description: "Explore NinjaTrader a versatile trading platform known for powerful algo trading tools and a C#-based scripting environment for creating custom strategies."
+category: trading_strategy
+description: Explore NinjaTrader a versatile trading platform known for powerful algo
+  trading tools and a C#-based scripting environment for creating custom strategies.
+title: NinjaTrader Platform Review (Algo Trading)
 ---
 
 Algorithmic trading serves as a cornerstone of contemporary financial markets, harnessing advanced computing power and complex algorithms to execute trades with precision and speed unattainable by human traders alone. By utilizing mathematical models and statistical analyses, algorithmic trading systems scour financial markets to identify patterns and execute trades, often capitalizing on minute inefficiencies for profit. This automation not only enhances the speed of trade execution but also reduces emotional bias, leading to potentially more consistent and profitable outcomes.

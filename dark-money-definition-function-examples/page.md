@@ -1,6 +1,9 @@
 ---
-title: "Dark Money: Definition, Function, and Examples (Algo Trading)"
-description: "Explore how dark money and algorithmic trading intersect to influence political campaigns and the democratic process with anonymous donations and advanced tech."
+category: quant_concept
+description: Explore how dark money and algorithmic trading intersect to influence
+  political campaigns and the democratic process with anonymous donations and advanced
+  tech.
+title: 'Dark Money: Definition, Function, and Examples (Algo Trading)'
 ---
 
 In recent years, the role of 'dark money' in political campaigns has gained significant attention and sparked widespread concern. Dark money refers to funds donated to political campaigns or organizations without disclosure of the donor's identity. These anonymous donations have the potential to significantly influence the outcomes of elections, potentially overshadowing the voices and preferences of the public.

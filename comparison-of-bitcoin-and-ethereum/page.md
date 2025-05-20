@@ -1,6 +1,9 @@
 ---
-title: "Comparison of Bitcoin and Ethereum (Algo Trading)"
-description: "Discover the key differences between Bitcoin and Ethereum in algorithmic trading Explore technological foundations strategies and market trends to trade smarter"
+category: trading_strategy
+description: Discover the key differences between Bitcoin and Ethereum in algorithmic
+  trading Explore technological foundations strategies and market trends to trade
+  smarter
+title: Comparison of Bitcoin and Ethereum (Algo Trading)
 ---
 
 Cryptocurrencies have significantly transformed the financial landscape since the introduction of Bitcoin in 2009. As decentralized digital currencies, cryptocurrencies allow for peer-to-peer transactions without the need for a central authority. This innovation has led to the rapid development and proliferation of numerous cryptocurrencies, with Bitcoin and Ethereum emerging as the most prominent players in the market.

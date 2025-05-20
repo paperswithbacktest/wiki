@@ -1,6 +1,8 @@
 ---
-title: "Japan Credit Rating Agency: Functions and Responsibilities (Algo Trading)"
-description: "Explore Japan Credit Rating Agency's vital role in assessing creditworthiness and shaping modern investment and algorithmic trading strategies globally."
+category: quant_concept
+description: Explore Japan Credit Rating Agency's vital role in assessing creditworthiness
+  and shaping modern investment and algorithmic trading strategies globally.
+title: 'Japan Credit Rating Agency: Functions and Responsibilities (Algo Trading)'
 ---
 
 Credit rating agencies play a critical role in the global financial system by providing assessments of the creditworthiness of entities, including corporations and governments. These agencies help investors make informed decisions by evaluating the ability of an entity to meet its financial obligations. Among them, the Japan Credit Rating Agency (JCR) stands out as a key entity responsible for offering comprehensive credit ratings. Established in 1985, JCR has become one of Japan's most influential credit rating agencies, contributing significantly to both domestic and international financial markets.

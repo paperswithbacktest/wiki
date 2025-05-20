@@ -1,6 +1,8 @@
 ---
-title: "Investment in Rare Coins (Algo Trading)"
-description: "Explore the unique blend of history and finance with rare coin investments enhanced by algorithmic trading Discover the potential of these collectible assets"
+category: trading_strategy
+description: Explore the unique blend of history and finance with rare coin investments
+  enhanced by algorithmic trading Discover the potential of these collectible assets
+title: Investment in Rare Coins (Algo Trading)
 ---
 
 The world of rare coin investment is a captivating convergence of history, artistry, and finance. Rare coins, classified under the study of numismatics, represent a distinctive asset class that entices enthusiasts with both aesthetic beauty and financial potential. These coins are often valued for their historical significance, rarity, and unique characteristics, making them sought-after collectibles for both historians and investors.

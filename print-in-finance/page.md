@@ -1,6 +1,9 @@
 ---
-title: "Print in Finance (Algo Trading)"
-description: "Explore the synergies of printing technology finance and algorithmic trading Discover how they drive innovation economic growth and opportunities for all sectors"
+category: quant_concept
+description: Explore the synergies of printing technology finance and algorithmic
+  trading Discover how they drive innovation economic growth and opportunities for
+  all sectors
+title: Print in Finance (Algo Trading)
 ---
 
 The rapid advancements in printing technology have significantly influenced numerous industries, revolutionizing the way products are designed, produced, and distributed. From traditional methods such as woodblock printing to digital innovations like 3D printing, technology has progressed dramatically, enhancing efficiency and opening up new possibilities in fields like publishing, manufacturing, and healthcare. Printing technology has not only simplified complex production processes but also enabled mass customization, thereby allowing industries to cater to diverse customer needs and preferences.

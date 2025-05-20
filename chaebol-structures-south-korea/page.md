@@ -1,6 +1,8 @@
 ---
-title: "Chaebol Structures in South Korea (Algo Trading)"
-description: "Explore how South Korea's chaebols, such as Samsung and Hyundai, shape the economy and adopt algorithmic trading to stay competitive in global markets."
+category: quant_concept
+description: Explore how South Korea's chaebols, such as Samsung and Hyundai, shape
+  the economy and adopt algorithmic trading to stay competitive in global markets.
+title: Chaebol Structures in South Korea (Algo Trading)
 ---
 
 This article examines the business terrain of South Korea, prominently influenced by chaebols, which are large, family-owned conglomerates. These business groups, such as Samsung, Hyundai, and LG, play a pivotal role in South Korea's economy, often spanning diverse sectors including electronics, automobiles, and finance. Their origin can be traced back to the initiatives taken post-Korean War, where governmental support aimed at rapid economic development fostered their growth. This historical context is crucial in understanding how chaebols catalyzed South Korea's remarkable transformation into an advanced industrial economy.

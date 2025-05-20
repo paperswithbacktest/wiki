@@ -1,7 +1,8 @@
 ---
-title: Accelerating Large Scale Training with Hybrid Parallel Methods
+category: quant_concept
 description: Hybrid Parallel Methods combine data and model parallelism to speed up
   large scale training with lower communication overhead Discover more inside
+title: Accelerating Large Scale Training with Hybrid Parallel Methods
 ---
 
 ![Image](images/1.png)

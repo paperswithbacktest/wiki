@@ -1,6 +1,15 @@
 ---
-title: "Evaluating Long-Term Performance of Equities, Bonds, and Commodities Relative to Strength of the US Dollar"
-description: Explore how the strength of the US dollar influences the long-term performance of equities, bonds, and commodities on this page. Gain insights into the complex relationships and dynamics involved, particularly within algorithmic trading contexts. Understand how USD fluctuations impact asset classes, supported by comprehensive data analysis from historical periods. Learn about specific methodologies and strategies for assessing and potentially exploiting these currency-driven shifts in asset valuation. This page offers valuable information for traders and financial analysts seeking to optimize their investment strategies based on USD strength.
+category: trading_strategy
+description: Explore how the strength of the US dollar influences the long-term performance
+  of equities, bonds, and commodities on this page. Gain insights into the complex
+  relationships and dynamics involved, particularly within algorithmic trading contexts.
+  Understand how USD fluctuations impact asset classes, supported by comprehensive
+  data analysis from historical periods. Learn about specific methodologies and strategies
+  for assessing and potentially exploiting these currency-driven shifts in asset valuation.
+  This page offers valuable information for traders and financial analysts seeking
+  to optimize their investment strategies based on USD strength.
+title: Evaluating Long-Term Performance of Equities, Bonds, and Commodities Relative
+  to Strength of the US Dollar
 ---
 
 The US dollar (USD) has maintained its status as the dominant global reserve currency since the mid-20th century. Its role as a fundamental medium of exchange in international trade and finance underscores its massive impact on various asset classes, including equities, bonds, and commodities. This dominance is largely attributed to the stability of the US economy, the depth and liquidity of its financial markets, and the widespread use of the USD in global transactions. The USD's strength or weakness, therefore, inherently influences asset price movements globally.

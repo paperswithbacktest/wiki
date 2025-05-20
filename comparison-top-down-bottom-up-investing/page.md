@@ -1,6 +1,8 @@
 ---
-title: "Comparison of Top-Down and Bottom-Up Investing (Algo Trading)"
-description: "Discover top-down and bottom-up investing strategies in algorithmic trading Understand how macroeconomic and microeconomic analyses shape investment opportunities"
+category: trading_strategy
+description: Discover top-down and bottom-up investing strategies in algorithmic trading
+  Understand how macroeconomic and microeconomic analyses shape investment opportunities
+title: Comparison of Top-Down and Bottom-Up Investing (Algo Trading)
 ---
 
 Investing is a multifaceted arena encompassing a wide range of strategies, each tailored to cater to the unique objectives and risk profiles of investors. At the core, these strategies revolve around optimizing returns while managing uncertainties inherent in financial markets. Among the various approaches employed by investors, 'top-down' and 'bottom-up' strategies stand out due to their distinct methodologies in analyzing and acting upon investment opportunities. 

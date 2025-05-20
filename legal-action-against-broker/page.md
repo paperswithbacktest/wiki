@@ -1,6 +1,9 @@
 ---
-title: "Legal Action Against a Broker (Algo Trading)"
-description: "Explore the complexities and legal challenges of algorithmic trading in modern financial markets Learn how broker litigation resolves disputes and protects client interests"
+category: quant_concept
+description: Explore the complexities and legal challenges of algorithmic trading
+  in modern financial markets Learn how broker litigation resolves disputes and protects
+  client interests
+title: Legal Action Against a Broker (Algo Trading)
 ---
 
 In today's rapidly evolving financial markets, brokers are navigating an increasingly complex landscape. The financial industry witnesses swift technological advancements, and one of the most transformative developments is algorithmic trading, often referred to as algo trading. Algorithmic trading employs pre-programmed instructions, accounting for variables such as timing, price, and volume, to execute large-scale trading at speeds beyond human capability. This shift has not only revolutionized the nature of transactions in financial markets but has also ushered in a new era of potential complexities within broker-client relationships.

@@ -1,6 +1,9 @@
 ---
-title: "Tax Liabilities in Financial Statements (Algo Trading)"
-description: "Explore the intersection of financial statements, tax liabilities, and algorithmic trading. Learn how accounting methods impact tax strategies and financial performance."
+category: quant_concept
+description: Explore the intersection of financial statements, tax liabilities, and
+  algorithmic trading. Learn how accounting methods impact tax strategies and financial
+  performance.
+title: Tax Liabilities in Financial Statements (Algo Trading)
 ---
 
 In the rapidly evolving landscape that combines finance and technology, the interplay between accounting methods, financial statements, tax liabilities, and algorithmic trading emerges as a critical area of focus. Accurate accounting methods are fundamental as they significantly influence how businesses report financial performance and obligations. Understanding these elements is not only essential for compliance but also for optimizing financial performance and strategic decision-making.

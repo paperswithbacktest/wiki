@@ -1,6 +1,8 @@
 ---
-title: "Dollar cost averaging (Algo Trading)"
-description: "Explore dollar-cost averaging in algorithmic trading to mitigate market volatility, enhance investment strategies, and achieve long-term financial goals."
+category: trading_strategy
+description: Explore dollar-cost averaging in algorithmic trading to mitigate market
+  volatility, enhance investment strategies, and achieve long-term financial goals.
+title: Dollar cost averaging (Algo Trading)
 ---
 
 Dollar-cost averaging (DCA) is an investment strategy that involves investing a specific amount of money in a particular asset at regular intervals, irrespective of its current market price. This approach is designed to mitigate the effects of market volatility by spreading out investment purchases over time, thus potentially reducing the overall average cost per share. By purchasing more shares when prices are lower and fewer when prices are higher, investors can avoid the pitfalls of market timing. 
@@ -150,4 +152,3 @@ Zweig, J. (2003). *Your Money and Your Brain: How the New Science of Neuroeconom
 Sharpe, W. F. (1994). “The Sharpe Ratio.” *The Journal of Portfolio Management, 21*(1), 49-58. The paper details the Sharpe Ratio, a crucial measure for evaluating the risk-adjusted returns of an investment strategy, allowing investors to assess the performance of dollar-cost averaging against various benchmarks.
 
 Thorpe, E. O. (1967). *Beat the Market: A Scientific Stock Market System.* Edward O. Thorp is recognized for his analytical approach to market investing. His work underscores the role of systematic strategies such as algorithmic trading in enhancing investment outcomes, an area where dollar-cost averaging can be effectively applied.
-

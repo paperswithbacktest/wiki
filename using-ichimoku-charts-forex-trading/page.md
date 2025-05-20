@@ -1,6 +1,9 @@
 ---
-title: "Using Ichimoku Charts in Forex Trading (Algo Trading)"
-description: "Explore how Ichimoku charts, a powerful tool in Forex trading, enhance algorithmic strategies by providing key insights into market trends and potential signals."
+category: trading_strategy
+description: Explore how Ichimoku charts, a powerful tool in Forex trading, enhance
+  algorithmic strategies by providing key insights into market trends and potential
+  signals.
+title: Using Ichimoku Charts in Forex Trading (Algo Trading)
 ---
 
 Forex trading, also known as foreign exchange trading, involves the exchange of currencies on a global market, which is the largest and most liquid financial market in the world. The market's size and liquidity provide traders with unique opportunities to profit from currency fluctuations. Technical analysis plays a critical role in Forex trading, aiding traders in making informed decisions by evaluating past price movements through charts and statistical indicators. A popular tool within technical analysis is the Ichimoku Kinko Hyo, or Ichimoku charts, which offer a comprehensive view of market trends, providing insights into support and resistance levels, potential reversals, and momentum.

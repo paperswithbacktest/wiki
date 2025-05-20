@@ -1,6 +1,8 @@
 ---
-title: "Comparison of Absolute and Relative P/E Ratios (Algo Trading)"
-description: "Explore the role of absolute and relative P/E ratios in algorithmic trading Discover insights into stock valuation methods for smarter investment decisions"
+category: quant_concept
+description: Explore the role of absolute and relative P/E ratios in algorithmic trading
+  Discover insights into stock valuation methods for smarter investment decisions
+title: Comparison of Absolute and Relative P/E Ratios (Algo Trading)
 ---
 
 Understanding stock valuation is fundamental for making informed investment decisions. One key metric that plays a significant role in stock valuation is the Price-to-Earnings (P/E) ratio. This ratio measures a company's current share price relative to its earnings per share (EPS), providing insight into how much investors are willing to pay for each dollar of earnings. It is calculated using the formula:

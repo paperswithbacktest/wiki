@@ -1,6 +1,8 @@
 ---
-title: "Jamaican Dollar: Overview, Functionality, and Historical Context (Algo Trading)"
-description: "Explore the Jamaican Dollar its historical evolution role in algorithmic trading and international significance illustrating its cultural and economic impact."
+category: dataset
+description: Explore the Jamaican Dollar its historical evolution role in algorithmic
+  trading and international significance illustrating its cultural and economic impact.
+title: 'Jamaican Dollar: Overview, Functionality, and Historical Context (Algo Trading)'
 ---
 
 The Jamaican Dollar (JMD) plays a pivotal role in both the economic framework and cultural identity of Jamaica. Its evolution mirrors the nation's transition from colonial rule to an independent entity, showcasing significant adaptations over time. Initially introduced in 1969, the Jamaican currency has experienced numerous transformations, impacting not only the country's economy but also its cultural symbolism. By understanding the Jamaican Dollar, one gains insight into Jamaica’s historical development, its modern economic strategies such as algorithmic trading, and the currency's ongoing impact on national identity.

@@ -1,6 +1,8 @@
 ---
-title: "Earnings Season Overview (Algo Trading)"
-description: "Explore the role of algorithmic trading during earnings season a critical period when companies report quarterly financial results and affecting market dynamics."
+category: trading_strategy
+description: Explore the role of algorithmic trading during earnings season a critical
+  period when companies report quarterly financial results and affecting market dynamics.
+title: Earnings Season Overview (Algo Trading)
 ---
 
 Earnings season marks a pivotal phase in the financial calendar when publicly traded companies announce their quarterly financial results. This period holds significant importance for investors, analysts, and traders as it provides a comprehensive assessment of a company’s financial wellbeing through detailed reports. The analysis of these results not only offers insights into the financial health of corporations but also reflects broader economic patterns, affecting overall market sentiment and stock valuations.
@@ -232,4 +234,3 @@ In conclusion, navigating earnings season effectively requires balancing the inn
    - *Kissell, R. (2013). The Science of Algorithmic Trading and Portfolio Management*. Academic Press. This resource includes a detailed explanation of algorithmic trading systems and their application during volatile periods such as earnings season. 
 
 Further reading and research into these resources will provide a comprehensive understanding of the intersection between financial reporting, algorithmic trading, and market analysis. These texts offer foundational knowledge and advanced concepts that can enhance strategic trading decisions during earnings seasons.
-

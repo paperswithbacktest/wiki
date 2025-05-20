@@ -1,6 +1,8 @@
 ---
-title: "Guarantee Fees (Algo Trading)"
-description: "Explore the significance of guarantee and algorithmic trading fees and their impact on lending and investment strategies within today's financial landscape."
+category: quant_concept
+description: Explore the significance of guarantee and algorithmic trading fees and
+  their impact on lending and investment strategies within today's financial landscape.
+title: Guarantee Fees (Algo Trading)
 ---
 
 In the ever-evolving financial landscape, understanding fees associated with financial services is crucial. As financial products and services become increasingly complex, the variety and impact of fees associated with these services grow in significance. This article explores various financial fees—including guarantee fees, loan guarantees, and algorithmic trading fees—and analyzes their broader implications on lending and investing strategies within modern markets.

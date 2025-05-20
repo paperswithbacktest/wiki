@@ -1,6 +1,9 @@
 ---
-title: "SEC Form 8A12BEF (Algo Trading)"
-description: "Explore how SEC Form 8A12BEF influenced securities registration processes and its intersection with algorithmic trading, impacting market transparency and regulatory compliance."
+category: quant_concept
+description: Explore how SEC Form 8A12BEF influenced securities registration processes
+  and its intersection with algorithmic trading, impacting market transparency and
+  regulatory compliance.
+title: SEC Form 8A12BEF (Algo Trading)
 ---
 
 The Securities and Exchange Commission (SEC) is a pivotal U.S. federal agency responsible for enforcing laws and regulating the securities industry, which includes the stock and options exchanges, investment ventures, and various financial markets. The SEC's primary objective is to protect investors, maintain fair, orderly, and efficient markets, and facilitate capital formation. Part of its mandate includes overseeing securities registration, an essential process that ensures transparency and fairness in the market, enabling investors to make informed decisions based on reliable and complete information.

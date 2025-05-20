@@ -1,6 +1,13 @@
 ---
-title: "Forex Market Trading Hours: Weekend Trading Feasibility (Algo Trading)"
-description: "Explore the dynamics of the global forex market with insights into trading hours, including the impact of Sydney, Tokyo, London, and New York sessions on market liquidity and volatility. Understand the feasibility of weekend forex trading with its unique risks and opportunities, and discover how algorithmic trading leverages technology for speed and precision. This comprehensive guide aids traders in optimizing strategies and managing risks by aligning with market hours and embracing technological advancements in trading."
+category: quant_concept
+description: Explore the dynamics of the global forex market with insights into trading
+  hours, including the impact of Sydney, Tokyo, London, and New York sessions on market
+  liquidity and volatility. Understand the feasibility of weekend forex trading with
+  its unique risks and opportunities, and discover how algorithmic trading leverages
+  technology for speed and precision. This comprehensive guide aids traders in optimizing
+  strategies and managing risks by aligning with market hours and embracing technological
+  advancements in trading.
+title: 'Forex Market Trading Hours: Weekend Trading Feasibility (Algo Trading)'
 ---
 
 Forex trading, a global marketplace for the exchange of currencies, stands as one of the largest and most liquid financial markets in the world. Trillions of dollars are traded daily, reflecting its sheer scale and widespread appeal among investors and traders. The market operates 24 hours a day, five days a week, with trading occurring across major financial centers in different time zones. These include the Sydney, Tokyo, London, and New York sessions. Each session has distinct characteristics, influencing trading volume and volatility patterns, which traders must understand to optimize their trading strategies.

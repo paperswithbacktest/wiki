@@ -1,6 +1,8 @@
 ---
-title: "Purchasing Chinese Yuan (Algo Trading)"
-description: "Explore the significance of the Chinese Yuan in global markets and discover how algorithmic trading can optimize currency exchange with cutting-edge efficiency."
+category: trading_strategy
+description: Explore the significance of the Chinese Yuan in global markets and discover
+  how algorithmic trading can optimize currency exchange with cutting-edge efficiency.
+title: Purchasing Chinese Yuan (Algo Trading)
 ---
 
 The Chinese Yuan (CNY), the official currency of the People's Republic of China, is garnering increasing attention in global markets due to China's rapid economic expansion. As the world's second-largest economy, China's influence on international trade, finance, and investment continues to grow. This burgeoning interest is mirrored in statistics, with the Chinese Yuan becoming a more prevalent component in global foreign exchange reserves and international payments systems. The inclusion of the Yuan in the International Monetary Fund's (IMF) Special Drawing Rights basket in 2016 marked a significant milestone, reflecting its rising importance as a global reserve currency.

@@ -1,6 +1,8 @@
 ---
-title: "Cash-and-Carry Trade (Algo Trading)"
-description: "Explore cash-and-carry trading, a strategy exploiting price differences between assets and futures contracts, enhanced with algorithmic trading for precision."
+category: trading_strategy
+description: Explore cash-and-carry trading, a strategy exploiting price differences
+  between assets and futures contracts, enhanced with algorithmic trading for precision.
+title: Cash-and-Carry Trade (Algo Trading)
 ---
 
 The cash-and-carry trade strategy is a prominent technique in finance, primarily used to exploit price discrepancies between an asset and its corresponding derivative. This strategy is fundamentally rooted in the concept of arbitrage, which involves capitalizing on price differences between markets or forms of the same asset to secure a risk-free profit. Specifically, the cash-and-carry trade leverages mispriced securities by concurrently buying the underlying asset in the cash market and selling its futures contract. This approach thereby locks in the price difference between the two markets, aiming for a positive return when both positions are unwound.

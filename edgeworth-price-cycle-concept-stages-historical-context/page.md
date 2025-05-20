@@ -1,6 +1,8 @@
 ---
-title: "Edgeworth Price Cycle: Concept, Stages, and Historical Context (Algo Trading)"
-description: "Explore the Edgeworth Price Cycle, its stages, and historical significance. Learn how cyclical pricing impacts commodities and unfolds in competitive markets."
+category: quant_concept
+description: Explore the Edgeworth Price Cycle, its stages, and historical significance.
+  Learn how cyclical pricing impacts commodities and unfolds in competitive markets.
+title: 'Edgeworth Price Cycle: Concept, Stages, and Historical Context (Algo Trading)'
 ---
 
 The Edgeworth Price Cycle is a pivotal concept in economic theory that explicates the cyclical nature of price adjustments observed in certain markets, predominantly those involving commodified goods. This cycle is characterized by repetitive sequences of price reductions followed by gradual increases, a pattern that is particularly prevalent in industries where products are easily substitutable and consumer price sensitivity is high.

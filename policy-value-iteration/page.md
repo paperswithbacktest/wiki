@@ -1,6 +1,9 @@
 ---
-title: "Policy-Value Iteration (Algo Trading)"
-description: "Harness reinforcement learning methods like Policy-Value Iteration to enhance trading strategies in dynamic markets improving decision-making and reducing risks."
+category: quant_concept
+description: Harness reinforcement learning methods like Policy-Value Iteration to
+  enhance trading strategies in dynamic markets improving decision-making and reducing
+  risks.
+title: Policy-Value Iteration (Algo Trading)
 ---
 
 Algorithmic trading has undergone significant transformation with the incorporation of sophisticated algorithms designed to enhance decision-making capabilities. One such innovation is the application of reinforcement learning algorithms, particularly the Policy-Value Iteration methods. These methods represent a crucial advancement in creating algorithms that are capable of learning and optimizing trading strategies through interaction with dynamic market environments.

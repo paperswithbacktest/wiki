@@ -1,6 +1,9 @@
 ---
-title: "ABX Index Performance During the 2008 Subprime Mortgage Crisis (Algo Trading)"
-description: "Discover how the ABX index served as a crucial indicator during the 2008 subprime mortgage crisis revealing market trends and impacting algorithmic trading strategies."
+category: dataset
+description: Discover how the ABX index served as a crucial indicator during the 2008
+  subprime mortgage crisis revealing market trends and impacting algorithmic trading
+  strategies.
+title: ABX Index Performance During the 2008 Subprime Mortgage Crisis (Algo Trading)
 ---
 
 The ABX index has played a pivotal role in assessing the subprime mortgage market's condition, particularly during the 2008 financial crisis. Conceived by Markit Group in 2006, the ABX index tracks a basket of subprime mortgage-backed securities (MBS) and has been instrumental in measuring market sentiment and risk. The collapse of these securities was a significant contributor to the financial turmoil of 2008.

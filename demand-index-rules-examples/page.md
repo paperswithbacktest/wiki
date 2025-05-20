@@ -1,6 +1,8 @@
 ---
-title: "Demand Index: Definition, Rules, and Examples (Algo Trading)"
-description: "Discover the Demand Index in algorithmic trading a key indicator measuring buying and selling pressures to predict market shifts and optimize strategies."
+category: quant_concept
+description: Discover the Demand Index in algorithmic trading a key indicator measuring
+  buying and selling pressures to predict market shifts and optimize strategies.
+title: 'Demand Index: Definition, Rules, and Examples (Algo Trading)'
 ---
 
 In the ever-evolving world of finance, the interplay of market demand and supply is fundamental to investors and traders making informed decisions. Accurately gauging these dynamics aids in anticipating price fluctuations, understanding market trends, and optimizing trading strategies. A key tool in this regard is the Demand Index, a technical indicator developed by James Sibbet. This indicator is designed to measure the buying and selling pressures exerted on individual securities, providing a nuanced view of market conditions. 

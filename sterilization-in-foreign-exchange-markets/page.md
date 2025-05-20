@@ -1,6 +1,8 @@
 ---
-title: "Sterilization in Foreign Exchange Markets (Algo Trading)"
-description: "Discover how foreign exchange sterilization and algorithmic trading impact global forex markets and learn central bank strategies for economic stability."
+category: quant_concept
+description: Discover how foreign exchange sterilization and algorithmic trading impact
+  global forex markets and learn central bank strategies for economic stability.
+title: Sterilization in Foreign Exchange Markets (Algo Trading)
 ---
 
 The global foreign exchange (forex) market is the largest and most liquid financial market in the world, with trading volumes exceeding $6 trillion per day as of 2020 (Bank for International Settlements, 2019). This immense market operates 24/7 across different time zones, facilitating currency exchanges essential for international trade, investment, and finance. However, the forex market is subject to various influencing factors, including currency interventions by central banks, monetary policies, and technological advancements such as algorithmic trading.

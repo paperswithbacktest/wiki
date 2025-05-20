@@ -1,6 +1,9 @@
 ---
-title: "Investors' Use of Leverage Ratios in Financial Health Assessment (Algo Trading)"
-description: "Leverage ratios are crucial for investors assessing financial health and algorithmic trading can integrate these insights to enhance data-driven investment strategies."
+category: quant_concept
+description: Leverage ratios are crucial for investors assessing financial health
+  and algorithmic trading can integrate these insights to enhance data-driven investment
+  strategies.
+title: Investors' Use of Leverage Ratios in Financial Health Assessment (Algo Trading)
 ---
 
 Understanding the financial health of a company is crucial for investors aiming to make informed decisions. Investors seek to evaluate a company's ability to generate profits, manage debt, and sustain growth. This involves analyzing key financial metrics, among which leverage ratios play a pivotal role. Leverage ratios, such as the debt-to-equity ratio and interest coverage ratio, are essential indicators that reveal insights into a company's capital structure and its capacity to manage debt obligations effectively. A high leverage ratio might suggest greater financial risk, whereas a low ratio could indicate conservative debt management.

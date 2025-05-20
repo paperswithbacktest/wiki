@@ -1,6 +1,14 @@
 ---
-title: "Gap Fill Trading Strategies Explained (Algo Trading)"
-description: Discover the intricacies of gap fill trading strategies with a focus on the SPY ETF which leverages price gaps to maximize profits. Learn how algorithmic trading can automate this process enhancing trade efficiency and minimizing emotional bias. Explore various types of gaps including common runaway and exhaustion gaps and understand how traders use historical data and technical indicators to identify lucrative opportunities. Uncover the benefits and challenges of employing algorithmic systems in gap fill strategies and gain insights into successful implementation through testing and market adaptation.
+category: trading_strategy
+description: Discover the intricacies of gap fill trading strategies with a focus
+  on the SPY ETF which leverages price gaps to maximize profits. Learn how algorithmic
+  trading can automate this process enhancing trade efficiency and minimizing emotional
+  bias. Explore various types of gaps including common runaway and exhaustion gaps
+  and understand how traders use historical data and technical indicators to identify
+  lucrative opportunities. Uncover the benefits and challenges of employing algorithmic
+  systems in gap fill strategies and gain insights into successful implementation
+  through testing and market adaptation.
+title: Gap Fill Trading Strategies Explained (Algo Trading)
 ---
 
 Algorithmic trading is widely recognized as a method to enhance trading efficiency through automation and predefined strategies. It employs algorithms to execute trades based on pre-set rules without the need for human intervention, thereby minimizing emotional biases and increasing the speed of trade execution. Within this trading paradigm, the SPY gap fill strategy is notable for its focus on exploiting opening price discrepancies in the S&P 500 ETF (SPY).

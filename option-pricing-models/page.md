@@ -1,6 +1,9 @@
 ---
-title: "Option Pricing Models (Algo Trading)"
-description: "Explore option pricing models and enhance your trading strategy in financial derivatives. Understand frameworks like Black-Scholes and Binomial for accurate option valuation."
+category: quant_concept
+description: Explore option pricing models and enhance your trading strategy in financial
+  derivatives. Understand frameworks like Black-Scholes and Binomial for accurate
+  option valuation.
+title: Option Pricing Models (Algo Trading)
 ---
 
 Option pricing models are mathematical formulations used to determine the theoretical value of options. By evaluating these models, traders and investors can assess the fairness of current market prices, thereby facilitating informed trading and effective risk management decisions. In financial derivatives, option pricing forms a cornerstone, holding paramount importance for market makers and traders who actively participate in options trading.

@@ -1,6 +1,9 @@
 ---
-title: "Impact of Net Neutrality on Investment and Innovation (Algo Trading)"
-description: "Explore the critical impact of net neutrality on investment and algorithmic trading highlighting its vital role in fostering innovation and maintaining a level digital playing field."
+category: quant_concept
+description: Explore the critical impact of net neutrality on investment and algorithmic
+  trading highlighting its vital role in fostering innovation and maintaining a level
+  digital playing field.
+title: Impact of Net Neutrality on Investment and Innovation (Algo Trading)
 ---
 
 In an increasingly digital world, the interplay between net neutrality, investment, and algorithmic trading represents a dynamic and complex landscape. These elements are fundamentally intertwined and have significant implications across diverse industries. Net neutrality—a principle that mandates internet service providers (ISPs) to treat all data equally without preference—plays a critical role in maintaining an equitable digital environment. This principle ensures that the internet remains a level playing field, facilitating innovation and competition among both large corporations and small startups.
@@ -108,4 +111,3 @@ Van Schewick, B. "Internet Architecture and Innovation." This publication discus
 Wu, T. "Network Neutrality, Broadband Discrimination." This work explores the legal and economic aspects of net neutrality, addressing potential discriminatory practices by ISPs and their consequences for online access.
 
 BEREC. "Guidelines on the Implementation by National Regulators of European Net Neutrality Rules." The guidelines provide regulatory frameworks for enforcing net neutrality across European Union member states, aiming to maintain fair access to the internet while allowing innovation and competition.
-

@@ -1,6 +1,8 @@
 ---
-title: "Calculating Cost of Capital for Project Budgeting (Algo Trading)"
-description: "Explore how understanding the cost of capital can optimize project budgeting and algorithmic trading strategies to drive better financial performance."
+category: quant_concept
+description: Explore how understanding the cost of capital can optimize project budgeting
+  and algorithmic trading strategies to drive better financial performance.
+title: Calculating Cost of Capital for Project Budgeting (Algo Trading)
 ---
 
 Understanding the intricate layers of corporate finance is essential for firms seeking to attain optimal value and profitability. The cost of capital is one such fundamental concept, influencing project budgeting, financial analysis, and algorithmic trading. This article seeks to unravel these interlinked elements and highlight their importance in enhancing a company's financial performance.
@@ -147,4 +149,3 @@ Ultimately, the coordinated management of these diverse elements is indispensabl
    This narrative provides perspectives on the rise of algorithmic trading and the quantitative approaches to financial strategy, emphasizing the importance of integrating advanced analytics with financial planning.
 
 These resources collectively enhance understanding of the interconnected aspects of financial strategy explored in the article, supporting enhanced financial literacy and strategic decision-making.
-

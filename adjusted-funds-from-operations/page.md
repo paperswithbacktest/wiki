@@ -1,6 +1,8 @@
 ---
-title: "Adjusted Funds From Operations (Algo Trading)"
-description: "Discover the integration of Adjusted Funds from Operations with algorithmic trading in real estate investment to enhance decision-making and maximize returns."
+category: quant_concept
+description: Discover the integration of Adjusted Funds from Operations with algorithmic
+  trading in real estate investment to enhance decision-making and maximize returns.
+title: Adjusted Funds From Operations (Algo Trading)
 ---
 
 In real estate investment, understanding key financial metrics is essential for making informed decisions that maximize returns and mitigate risk. Among these metrics, Adjusted Funds from Operations (AFFO) is gaining recognition for its role in providing a clearer view of cash flows related to Real Estate Investment Trusts (REITs). AFFO improves upon traditional metrics by factoring in necessary expenses, such as maintenance costs, which are crucial for sustaining property value and income. This perspective enables investors to conduct more accurate valuations and derive a deeper understanding of an investment's long-term viability.

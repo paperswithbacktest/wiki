@@ -1,6 +1,9 @@
 ---
-title: "Sherman Antitrust Act: Overview and Impact (Algo Trading)"
-description: "Explore the pivotal role of the Sherman Antitrust Act in combating monopolistic practices and fostering competition, with insights into its relevance in algorithmic trading."
+category: quant_concept
+description: Explore the pivotal role of the Sherman Antitrust Act in combating monopolistic
+  practices and fostering competition, with insights into its relevance in algorithmic
+  trading.
+title: 'Sherman Antitrust Act: Overview and Impact (Algo Trading)'
 ---
 
 The Sherman Antitrust Act signifies a crucial advancement in legislative efforts designed to eliminate anti-competitive behavior. Enacted in 1890, this law laid the foundation for antitrust regulation aimed at maintaining market competitiveness within the United States. By targeting trade restrictions and curbing monopolistic business structures, the Act was instrumental in shaping fair and open markets. This article examines the importance of the Sherman Antitrust Act, the broader framework of antitrust legislation, and how these principles integrate with competition policy in the rapidly evolving domain of algorithmic trading.

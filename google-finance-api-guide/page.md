@@ -1,6 +1,14 @@
 ---
-title: "Google Finance API Guide (Algo Trading)"
-description: Explore how the Google Finance API can empower algorithmic trading strategies by providing critical market data for making informed decisions. Discover the benefits of integrating real-time and historical market information to enhance trading algorithms. Learn about the viable alternatives that have emerged following the discontinuation of the official API and understand the importance of navigating potential challenges such as data reliability and compliance issues. Dive into the ways this API supports cost-effective, customizable solutions that enable traders to optimize their strategies and improve trading outcomes.
+category: dataset
+description: Explore how the Google Finance API can empower algorithmic trading strategies
+  by providing critical market data for making informed decisions. Discover the benefits
+  of integrating real-time and historical market information to enhance trading algorithms.
+  Learn about the viable alternatives that have emerged following the discontinuation
+  of the official API and understand the importance of navigating potential challenges
+  such as data reliability and compliance issues. Dive into the ways this API supports
+  cost-effective, customizable solutions that enable traders to optimize their strategies
+  and improve trading outcomes.
+title: Google Finance API Guide (Algo Trading)
 ---
 
 In the dynamic landscape of algorithmic trading, access to real-time financial data is crucial for making informed decisions. Algorithmic trading relies heavily on the ability to process large volumes of data rapidly and accurately. Real-time data feeds enable traders to react promptly to market changes, optimizing their strategies for optimal returns. The Google Finance API offers a gateway to such data, allowing traders to integrate it into their trading algorithms. By providing access to current and historical market information, this API serves as a vital tool for constructing algorithmic strategies that capitalize on real-time market updates.

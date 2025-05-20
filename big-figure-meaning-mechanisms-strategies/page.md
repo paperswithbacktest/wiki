@@ -1,6 +1,8 @@
 ---
-title: "Big Figure: Meaning, Mechanisms, and Strategies (Algo Trading)"
-description: "Explore big figure trading and algo trading strategies including mechanisms and technological advances to navigate the complex financial markets efficiently."
+category: trading_strategy
+description: Explore big figure trading and algo trading strategies including mechanisms
+  and technological advances to navigate the complex financial markets efficiently.
+title: 'Big Figure: Meaning, Mechanisms, and Strategies (Algo Trading)'
 ---
 
 Financial trading mechanisms form the backbone of modern markets, enabling the exchange of commodities, equities, and currencies across global platforms. These mechanisms have evolved significantly, driven by technological advancements and the increasing complexity of financial instruments. At their core, trading mechanisms facilitate the price discovery process and provide liquidity, thereby ensuring that markets function efficiently. Whether through manual interactions on trading floors or via sophisticated electronic platforms, these mechanisms are crucial for executing trades in a timely and effective manner.

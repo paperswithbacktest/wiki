@@ -1,6 +1,9 @@
 ---
-title: "Paxos Consensus Algorithm (Algo Trading)"
-description: "Explore the Paxos consensus algorithm, a crucial protocol in distributed systems for ensuring consistency, reliability, and fault tolerance in applications like algo trading."
+category: quant_concept
+description: Explore the Paxos consensus algorithm, a crucial protocol in distributed
+  systems for ensuring consistency, reliability, and fault tolerance in applications
+  like algo trading.
+title: Paxos Consensus Algorithm (Algo Trading)
 ---
 
 Distributed systems are collections of independent computers that appear to users as a single coherent system. These systems are pivotal in numerous applications where coordination, reliability, and fault tolerance are essential. A crucial aspect of maintaining these attributes in distributed systems is the implementation of consensus algorithms. Consensus algorithms are designed to facilitate agreement on a single data value among distributed processes or systems, even in the presence of faults. They ensure consistency in the state of replicated data across distributed networks, preventing conflicting outcomes and maintaining system integrity.

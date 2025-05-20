@@ -1,7 +1,8 @@
 ---
-title: Few-Shot Image-to-Image Translation for Rapid AI Image Adaptation
+category: quant_concept
 description: Few-Shot Image-to-Image Translation enables image transformations from
   just a few examples using meta-learning and COCO-FUNIT Discover more inside
+title: Few-Shot Image-to-Image Translation for Rapid AI Image Adaptation
 ---
 
 ![Image](images/1.jpeg)

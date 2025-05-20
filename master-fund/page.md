@@ -1,6 +1,9 @@
 ---
-title: "Master Fund (Algo Trading)"
-description: "Explore the benefits and intricacies of the master-feeder fund structure in algorithmic trading Discover how this setup optimizes strategy execution and management"
+category: trading_strategy
+description: Explore the benefits and intricacies of the master-feeder fund structure
+  in algorithmic trading Discover how this setup optimizes strategy execution and
+  management
+title: Master Fund (Algo Trading)
 ---
 
 The investment landscape is vast and complex, shaped by a myriad of fund structures that cater to different types of investors while maximizing operational efficiencies. Among these structures, the master-feeder fund configuration is prominent, particularly within the hedge fund industry. This model provides an efficient framework for pooling resources, optimizing capital usage, and meeting diverse investor requirements.
@@ -86,4 +89,3 @@ Understanding and leveraging fund structures, particularly the master-feeder arr
 - Lerner, J., & Schoar, A. (2004). "The Illiquidity Puzzle: Theory and Evidence from Private Equity." Journal of Financial Economics. This paper explores the challenges of illiquidity in private equity investments, offering insights that are valuable for understanding the liquidity considerations specific to different fund structures, including hedge funds.
 
 - Hedge Funds: Structure, Strategies, and Performance by H. Kent Baker and Greg Filbeck. This book provides an in-depth analysis of hedge fund structures, including master-feeder setups, and explores various strategies and performance metrics. It serves as a comprehensive guide for practitioners looking to understand the intricacies of hedge fund management and strategy deployment.
-

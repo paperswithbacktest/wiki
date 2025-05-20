@@ -1,6 +1,9 @@
 ---
-title: "Reasons for Investing in Foreign Exchange (Algo Trading)"
-description: "Explore the benefits of investing in forex and algorithmic trading for efficient currency trading and risk management in the world’s largest financial market."
+category: trading_strategy
+description: Explore the benefits of investing in forex and algorithmic trading for
+  efficient currency trading and risk management in the world’s largest financial
+  market.
+title: Reasons for Investing in Foreign Exchange (Algo Trading)
 ---
 
 Forex trading, or foreign exchange trading, involves the buying and selling of currencies in a global market that is open 24 hours a day, five days a week. This decentralized market facilitates the exchange of national currencies and is, by volume, the largest financial market in the world, surpassing stock markets due to the sheer volume of currency traded daily, which can exceed trillions of dollars.

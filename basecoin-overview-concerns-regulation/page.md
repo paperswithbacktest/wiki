@@ -1,6 +1,9 @@
 ---
-title: "Basecoin: Overview, Concerns, and Regulation (Algo Trading)"
-description: "Explore the rise and challenges of Basecoin an algorithmic stablecoin scrutinized for its regulatory compliance and innovative, yet debated, stability mechanism."
+category: quant_concept
+description: Explore the rise and challenges of Basecoin an algorithmic stablecoin
+  scrutinized for its regulatory compliance and innovative, yet debated, stability
+  mechanism.
+title: 'Basecoin: Overview, Concerns, and Regulation (Algo Trading)'
 ---
 
 The rise of stablecoins has marked a new era in the cryptocurrency landscape, providing an innovative way to balance the volatility seen in traditional cryptocurrencies like Bitcoin. Stablecoins are a unique class of cryptocurrencies pegged to a stable reserve of assets, often fiat currencies like the U.S. dollar, which help mitigate drastic price swings common in crypto markets. This stability is their main appeal, offering a reliable medium of exchange and store of value that contrasts sharply with more volatile cryptocurrencies.

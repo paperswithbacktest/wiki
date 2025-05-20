@@ -1,6 +1,8 @@
 ---
-title: "Proof of Burn in Cryptocurrency (Algo Trading)"
-description: "Explore Proof of Burn in cryptocurrency and its role in algorithmic trading Discover how this consensus mechanism offers sustainable blockchain solutions"
+category: quant_concept
+description: Explore Proof of Burn in cryptocurrency and its role in algorithmic trading
+  Discover how this consensus mechanism offers sustainable blockchain solutions
+title: Proof of Burn in Cryptocurrency (Algo Trading)
 ---
 
 Blockchain technology, since its inception with the introduction of Bitcoin in 2009, has been a catalyst for innovation across various digital landscapes. Its decentralized nature and intrinsic capability to ensure secure, transparent transactions have paved the way for cryptocurrencies, which have revolutionized financial systems. As the blockchain ecosystem evolves, the demand for efficient consensus mechanisms that confirm transactions across these decentralized ledgers becomes paramount.

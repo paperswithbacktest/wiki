@@ -1,6 +1,8 @@
 ---
-title: "SEC Form DEF 14A for Shareholder Use (Algo Trading)"
-description: "Explore how SEC Form DEF 14A intersects with shareholder decisions and algorithmic trading to enhance informed voting on corporate governance issues."
+category: quant_concept
+description: Explore how SEC Form DEF 14A intersects with shareholder decisions and
+  algorithmic trading to enhance informed voting on corporate governance issues.
+title: SEC Form DEF 14A for Shareholder Use (Algo Trading)
 ---
 
 This article explores the nuanced relationship between SEC Form DEF 14A, shareholder proxy statements, and algorithmic trading. SEC Form DEF 14A is a key document that investors scrutinize to make informed decisions regarding shareholder voting. Filed with the U.S. Securities and Exchange Commission (SEC), this definitive proxy statement provides vital information about matters requiring shareholder approval, including executive compensation, director elections, and specific proposals affecting corporate governance. Understanding the intricacies of SEC Form DEF 14A is essential for investors aiming to influence corporate strategies through informed voting.

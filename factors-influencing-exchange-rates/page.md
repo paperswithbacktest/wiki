@@ -1,6 +1,13 @@
 ---
-title: "Factors Influencing Exchange Rates (Algo Trading)"
-description: "Understanding the influence of various economic factors on exchange rates is crucial for participants in global financial markets. This article provides insights into how algorithmic trading has transformed the analysis and approach to currency valuation. It explores the dynamics of factors such as inflation, interest rates, and economic stability that affect exchange rates, offering valuable information for traders, economists, and investors navigating the evolving foreign exchange landscape."
+category: quant_concept
+description: Understanding the influence of various economic factors on exchange rates
+  is crucial for participants in global financial markets. This article provides insights
+  into how algorithmic trading has transformed the analysis and approach to currency
+  valuation. It explores the dynamics of factors such as inflation, interest rates,
+  and economic stability that affect exchange rates, offering valuable information
+  for traders, economists, and investors navigating the evolving foreign exchange
+  landscape.
+title: Factors Influencing Exchange Rates (Algo Trading)
 ---
 
 Understanding the dynamics of currency valuation is essential for anyone involved in global financial markets. Exchange rates, influenced by a myriad of economic factors, serve as crucial indicators of a country's economic health. These rates determine the relative value of currencies, influencing international trade, investment flows, and overall economic growth. In recent years, the introduction of algorithmic trading has significantly transformed how currency valuation and exchange rates are analyzed and approached within these markets. 

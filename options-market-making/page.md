@@ -1,6 +1,8 @@
 ---
-title: "Options market-making (Algo Trading)"
-description: "Explore the intricacies of options market-making through algorithmic trading Discover key strategies used by market makers to enhance liquidity and efficiency"
+category: quant_concept
+description: Explore the intricacies of options market-making through algorithmic
+  trading Discover key strategies used by market makers to enhance liquidity and efficiency
+title: Options market-making (Algo Trading)
 ---
 
 The options market-making process, facilitated by algorithmic trading, plays a pivotal role in the financial ecosystem. Advanced algorithms are employed by market makers to provide liquidity, ensuring smooth functioning of markets by continuously quoting buy and sell prices for various options. This dynamic environment allows traders to execute orders with minimal delay, contributing to a more efficient marketplace.

@@ -1,7 +1,8 @@
 ---
-title: Understanding False Negative Rate in Machine Learning Models
+category: quant_concept
 description: False Negative Rate shows how often models miss actual positives and
   offers data balancing threshold tuning and model updates Discover more inside
+title: Understanding False Negative Rate in Machine Learning Models
 ---
 
 ![Image](images/1.png)

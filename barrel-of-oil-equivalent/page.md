@@ -1,6 +1,8 @@
 ---
-title: "Barrel of Oil Equivalent (Algo Trading)"
-description: "Uncover the pivotal role of the Barrel of Oil Equivalent in energy trading Discover how BOE simplifies energy comparison and enhances algorithmic trading efficiency"
+category: quant_concept
+description: Uncover the pivotal role of the Barrel of Oil Equivalent in energy trading
+  Discover how BOE simplifies energy comparison and enhances algorithmic trading efficiency
+title: Barrel of Oil Equivalent (Algo Trading)
 ---
 
 Energy measurement is a fundamental aspect of both the energy and financial sectors, with the Barrel of Oil Equivalent (BOE) serving as a pivotal unit. BOE is a standardized metric that simplifies the comparison of varied energy sources by equating them to the energy content found in one barrel of crude oil. This standardization is critical for providing clear communication of energy reserves, volumes, and production capabilities among diverse energy sources like oil, natural gas, and others. This simplification becomes even more significant in the context of algorithmic trading, where rapid and accurate evaluation of energy assets is essential for making informed trading decisions.

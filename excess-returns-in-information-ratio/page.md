@@ -1,6 +1,14 @@
 ---
-title: "Excess returns in information ratio (Algo Trading)"
-description: Explore the intricacies of algorithmic trading and excess returns, focusing on the role of the Information Ratio in measuring performance against benchmarks. Learn how sophisticated algo strategies, powered by machine learning and data analysis, strive to achieve superior risk-adjusted returns by refining predictive accuracy and optimizing trading models. Understand the significance of achieving alpha, the effectiveness of active management strategies, and the advanced techniques that enable traders to navigate market complexities and outperform standard measures for sustained success.
+category: trading_strategy
+description: Explore the intricacies of algorithmic trading and excess returns, focusing
+  on the role of the Information Ratio in measuring performance against benchmarks.
+  Learn how sophisticated algo strategies, powered by machine learning and data analysis,
+  strive to achieve superior risk-adjusted returns by refining predictive accuracy
+  and optimizing trading models. Understand the significance of achieving alpha, the
+  effectiveness of active management strategies, and the advanced techniques that
+  enable traders to navigate market complexities and outperform standard measures
+  for sustained success.
+title: Excess returns in information ratio (Algo Trading)
 ---
 
 Algorithmic trading, often abbreviated as algo trading, utilizes computer programs to execute trades based on predefined criteria and strategies. These criteria incorporate a variety of factors such as historical data, market trends, and specific conditions set by the trader. The fundamental objectives of algo trading are twofold: to generate excess returns beyond a specified benchmark and to navigate market risks effectively. In the field of investment management, achieving returns above a benchmark, known as generating alpha, is a primary focus. It signifies an investment strategy's ability to outperform a market index or a standard measure.

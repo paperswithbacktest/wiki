@@ -1,6 +1,9 @@
 ---
-title: "Jean-Baptiste Say: Economist History (Algo Trading)"
-description: "Explore the enduring impact of Jean-Baptiste Say's economic theories such as Say's Law of Markets and their modern relevance, particularly in algorithmic trading."
+category: quant_concept
+description: Explore the enduring impact of Jean-Baptiste Say's economic theories
+  such as Say's Law of Markets and their modern relevance, particularly in algorithmic
+  trading.
+title: 'Jean-Baptiste Say: Economist History (Algo Trading)'
 ---
 
 Jean-Baptiste Say, a renowned French classical liberal economist, has had a profound and lasting impact on economic thought. Prominently known for formulating 'Say's Law of Markets,' he proposed a principle that challenges and enhances our understanding of economic functions and growth. This law, which argues that supply creates its own demand, not only shifted the perceptions of market dynamics during his time but also laid the groundwork for future economic theories.

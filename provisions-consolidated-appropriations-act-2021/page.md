@@ -1,6 +1,8 @@
 ---
-title: "Provisions of the Consolidated Appropriations Act, 2021 (Algo Trading)"
-description: "Explore how the 2021 Consolidated Appropriations Act influences algorithmic trading through fiscal policies and regulations essential for investors and institutions."
+category: quant_concept
+description: Explore how the 2021 Consolidated Appropriations Act influences algorithmic
+  trading through fiscal policies and regulations essential for investors and institutions.
+title: Provisions of the Consolidated Appropriations Act, 2021 (Algo Trading)
 ---
 
 The 2021 Consolidated Appropriations Act, officially enacted into law on December 27, 2020, followed extensive negotiations aimed at addressing the multifaceted challenges posed by the COVID-19 pandemic and other socio-economic issues. As an extensive piece of legislation, the Act allocated approximately $2.3 trillion in government funding, impacting nearly every segment of the U.S. economy. It encompassed a $900 billion coronavirus relief package alongside regular government appropriations, signaling a significant fiscal intervention with broad implications for federal budget strategies. Understanding this Act is crucial, as it shapes the allocation of financial resources and sets regulatory standards affecting both short-term economic stabilization and long-term fiscal policy.

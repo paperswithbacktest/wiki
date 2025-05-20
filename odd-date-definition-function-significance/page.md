@@ -1,6 +1,9 @@
 ---
-title: "Odd Date: Definition, Function, Significance (Algo Trading)"
-description: "Explore the significance and impact of odd dates in algorithmic trading Discover how these calendar anomalies create unique opportunities and challenges for traders"
+category: quant_concept
+description: Explore the significance and impact of odd dates in algorithmic trading
+  Discover how these calendar anomalies create unique opportunities and challenges
+  for traders
+title: 'Odd Date: Definition, Function, Significance (Algo Trading)'
 ---
 
 In today's fast-paced and technology-driven financial markets, algorithmic trading has become a cornerstone for both institutional and individual investors. The use of sophisticated algorithms allows for high-frequency trading and complex decision-making processes that can quickly adapt to the dynamics of the market. Amidst these complexities lies the often-overlooked impact of calendar anomalies, particularly those associated with odd dates. These dates can disrupt typical trading patterns, providing both opportunities and challenges for traders.

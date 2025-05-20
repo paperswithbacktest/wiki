@@ -1,6 +1,8 @@
 ---
-title: "Box-Top Order (Algo Trading)"
-description: "Explore the fusion of traditional trading with technology through box-top orders and algorithmic trading Learn how these concepts shape modern financial markets"
+category: quant_concept
+description: Explore the fusion of traditional trading with technology through box-top
+  orders and algorithmic trading Learn how these concepts shape modern financial markets
+title: Box-Top Order (Algo Trading)
 ---
 
 The financial world is continuously evolving with the advent of technology, transforming the landscape of trading and investment. Concepts such as 'box-top order' and 'algorithmic trading' have emerged as pivotal elements in modern trading environments, epitomizing the fusion of traditional trading methods with contemporary automation technologies. 

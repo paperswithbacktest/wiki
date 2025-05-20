@@ -1,6 +1,9 @@
 ---
-title: "Financial Literacy Initiatives by Independent Advisors (Algo Trading)"
-description: "Discover effective financial literacy initiatives introduced by independent advisors to enhance understanding of financial skills, budgeting, investing, and algo trading."
+category: quant_concept
+description: Discover effective financial literacy initiatives introduced by independent
+  advisors to enhance understanding of financial skills, budgeting, investing, and
+  algo trading.
+title: Financial Literacy Initiatives by Independent Advisors (Algo Trading)
 ---
 
 Financial literacy is the ability to understand and effectively use various financial skills, including personal financial management, budgeting, and investing. In today's fast-paced economy, financial literacy is more important than ever as individuals are required to make complex financial decisions in a landscape characterized by evolving financial products and services. A strong foundation in financial literacy enables individuals to make informed choices, optimize their financial resources, and ultimately achieve economic security.

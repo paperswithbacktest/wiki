@@ -1,6 +1,9 @@
 ---
-title: "Risks Associated with Investing in ETFs (Algo Trading)"
-description: "Explore the risks associated with investing in Exchange-Traded Funds and the complexities introduced by algorithmic trading to make informed financial decisions."
+category: trading_strategy
+description: Explore the risks associated with investing in Exchange-Traded Funds
+  and the complexities introduced by algorithmic trading to make informed financial
+  decisions.
+title: Risks Associated with Investing in ETFs (Algo Trading)
 ---
 
 Exchange-Traded Funds (ETFs) have seen substantial growth as a preferred investment option, attributing their popularity to a combination of diversification benefits, cost-efficiency, and liquidity. These financial instruments are structured to track the performance of a particular index, sector, commodity, or a bundle of various assets, thereby offering investors a broad market exposure without the need to purchase individual stocks or securities.

@@ -1,6 +1,9 @@
 ---
-title: "Asset Class Diversification (Algo Trading)"
-description: "Explore asset class diversification strategies with algorithmic trading to balance risk and return. Learn how algorithms optimize investment portfolios efficiently."
+category: quant_concept
+description: Explore asset class diversification strategies with algorithmic trading
+  to balance risk and return. Learn how algorithms optimize investment portfolios
+  efficiently.
+title: Asset Class Diversification (Algo Trading)
 ---
 
 Investment strategies have long emphasized the importance of diversification—spreading investments across various assets to mitigate risk and enhance returns. The concept of diversification is rooted in Modern Portfolio Theory, established by Harry Markowitz, which suggests that a diversified portfolio can reduce the overall risk without compromising the expected returns. By investing in a variety of asset classes, such as equities, bonds, real estate, and commodities, investors can create a buffer against market volatility and the unsystematic risks unique to individual investments.

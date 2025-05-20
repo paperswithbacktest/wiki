@@ -1,6 +1,10 @@
 ---
-title: "Mean Reversion Trading Strategy Explained (Algo Trading)"
-description: Learn how a mean reversion strategy in algorithmic trading capitalizes on the tendency of asset prices to return to their historical mean. Discover how statistical models and tools like RSI, Bollinger Bands, and Moving Averages guide traders in executing profitable trades in diverse markets.
+category: trading_strategy
+description: Learn how a mean reversion strategy in algorithmic trading capitalizes
+  on the tendency of asset prices to return to their historical mean. Discover how
+  statistical models and tools like RSI, Bollinger Bands, and Moving Averages guide
+  traders in executing profitable trades in diverse markets.
+title: Mean Reversion Trading Strategy Explained (Algo Trading)
 ---
 
 A mean reversion strategy in trading is predicated on the idea that asset prices and returns will eventually revert to their historical mean or average level over time. The foundational principle here is that while asset prices tend to experience periods of random fluctuations, they exhibit a natural tendency to gravitate back to a long-term mean. This concept is grounded in financial theories such as the "Random Walk Hypothesis" and the "Efficient Market Hypothesis", which suggest prices are influenced by news and information but eventually return to a balanced state based on fundamental valuations.

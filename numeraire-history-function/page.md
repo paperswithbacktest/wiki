@@ -1,6 +1,9 @@
 ---
-title: "Numeraire: Definition, History, and Function (Algo Trading)"
-description: "Explore the integral role of numeraire in economics and finance by understanding its historical context, mathematical foundations, and practical applications in algo trading."
+category: quant_concept
+description: Explore the integral role of numeraire in economics and finance by understanding
+  its historical context, mathematical foundations, and practical applications in
+  algo trading.
+title: 'Numeraire: Definition, History, and Function (Algo Trading)'
 ---
 
 The concept of numeraire is integral to both economics and finance, functioning as a reference point or standard against which the value of various goods and financial instruments is compared. Originating from the French language, the term numeraire simplifies the complexities involved in the valuation and pricing of diverse assets by providing a consistent unit of measure. This consistency is vital in financial markets as it allows prices to be normalized, making meaningful comparisons across a wide array of assets possible.

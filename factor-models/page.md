@@ -1,6 +1,15 @@
 ---
-title: "Factor models (Algo Trading)"
-description: Factor models are crucial in algorithmic trading as they enable traders to systematically identify and exploit the influences of various financial factors on asset returns. Originating from foundational models like the Capital Asset Pricing Model, these frameworks have advanced to include multiple factors such as size and value, enhancing the depth of market analysis. By breaking down complex market behaviors, factor models aid in risk management and the formulation of robust trading strategies. They serve as a nexus between financial theory and trading practice, leveraging statistical methods to improve investment decision-making and optimize risk-adjusted performance.
+category: quant_concept
+description: Factor models are crucial in algorithmic trading as they enable traders
+  to systematically identify and exploit the influences of various financial factors
+  on asset returns. Originating from foundational models like the Capital Asset Pricing
+  Model, these frameworks have advanced to include multiple factors such as size and
+  value, enhancing the depth of market analysis. By breaking down complex market behaviors,
+  factor models aid in risk management and the formulation of robust trading strategies.
+  They serve as a nexus between financial theory and trading practice, leveraging
+  statistical methods to improve investment decision-making and optimize risk-adjusted
+  performance.
+title: Factor models (Algo Trading)
 ---
 
 Factor models have become pivotal in algorithmic trading, providing a structured means of identifying and exploiting relationships between various financial factors and asset returns. These models are essential for traders and investors who seek to maximize returns while managing risk effectively. The importance of factor models lies in their ability to break down the complexities of financial markets into comprehensible components that can be modeled mathematically and statistically.

@@ -1,6 +1,14 @@
 ---
-title: "Direct market access (Algo Trading)"
-description: Direct market access (DMA) revolutionizes modern trading by enabling investors to directly interact with exchange order books, bypassing intermediaries like broker-dealers. This enhances control, speed, and precision in trade execution, especially when paired with algorithmic trading. DMA allows for swift market responses, critical in high-liquidity environments. It also reduces transaction costs, improves efficiency, and offers anonymity, crucial for high-frequency and strategic traders. Ultra-Low Latency DMA (ULLDMA) further optimizes execution speed for high-frequency trading, utilizing smart order routing and direct strategy access to maintain competitiveness.
+category: quant_concept
+description: Direct market access (DMA) revolutionizes modern trading by enabling
+  investors to directly interact with exchange order books, bypassing intermediaries
+  like broker-dealers. This enhances control, speed, and precision in trade execution,
+  especially when paired with algorithmic trading. DMA allows for swift market responses,
+  critical in high-liquidity environments. It also reduces transaction costs, improves
+  efficiency, and offers anonymity, crucial for high-frequency and strategic traders.
+  Ultra-Low Latency DMA (ULLDMA) further optimizes execution speed for high-frequency
+  trading, utilizing smart order routing and direct strategy access to maintain competitiveness.
+title: Direct market access (Algo Trading)
 ---
 
 Direct market access (DMA) has become an instrumental component of modern financial markets, fundamentally altering the way trading is conducted by providing investors with direct interaction with exchange order books. This access marks a significant shift from traditional trading practices, where interactions with order books were predominantly restricted to broker-dealers and market-making firms. These entities acted as intermediaries, managing trade orders on behalf of investors.

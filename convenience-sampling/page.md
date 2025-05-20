@@ -1,7 +1,8 @@
 ---
-title: Understanding Convenience Sampling in Machine Learning
+category: quant_concept
 description: Convenience sampling in machine learning speeds up data gathering but
   risks model bias; learn how to mitigate bias and boost fairness Discover more inside.
+title: Understanding Convenience Sampling in Machine Learning
 ---
 
 ![Image](images/1.png)

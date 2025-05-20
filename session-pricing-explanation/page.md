@@ -1,6 +1,8 @@
 ---
-title: "Session Pricing Explanation (Algo Trading)"
-description: "Learn about session pricing and algorithmic trading in today's market Discover how technology enhances pricing strategies and offers a competitive edge"
+category: quant_concept
+description: Learn about session pricing and algorithmic trading in today's market
+  Discover how technology enhances pricing strategies and offers a competitive edge
+title: Session Pricing Explanation (Algo Trading)
 ---
 
 In today's dynamic economic environment, pricing strategies have become crucial for businesses aiming to optimize profits and maintain competitiveness. As companies confront fluctuating market conditions and evolving consumer preferences, traditional methods are being supplemented by advanced technological tools and analytics. Understanding and applying these innovations are key for businesses seeking to remain agile and responsive.

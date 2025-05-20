@@ -1,6 +1,9 @@
 ---
-title: "Maritime Jurisdiction And Sovereignty Disputes (Algo Trading)"
-description: "Explore how maritime boundary disputes influence algorithmic trading and investment strategies, highlighting the impact of geopolitical tensions on global markets."
+category: quant_concept
+description: Explore how maritime boundary disputes influence algorithmic trading
+  and investment strategies, highlighting the impact of geopolitical tensions on global
+  markets.
+title: Maritime Jurisdiction And Sovereignty Disputes (Algo Trading)
 ---
 
 Maritime law, with its intricate web of regulations governing international waters, plays a pivotal role in shaping global trade and political relations. This complex domain not only encompasses the rules of navigation and marine commerce but also addresses disputes over maritime boundaries, which can lead to significant geopolitical tensions. As nations increasingly assert their territorial claims over lucrative sea routes and resources, the potential for conflict grows, consequently impacting international trade routes that lie at the heart of the global economy.

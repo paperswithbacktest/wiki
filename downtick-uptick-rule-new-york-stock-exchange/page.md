@@ -1,6 +1,8 @@
 ---
-title: "Downtick-Uptick Rule on the New York Stock Exchange (Algo Trading)"
-description: "Learn about the downtick-uptick rule on the NYSE its historical role in regulating algo trading during market volatility and insights for modern traders."
+category: quant_concept
+description: Learn about the downtick-uptick rule on the NYSE its historical role
+  in regulating algo trading during market volatility and insights for modern traders.
+title: Downtick-Uptick Rule on the New York Stock Exchange (Algo Trading)
 ---
 
 The New York Stock Exchange (NYSE) is a cornerstone of the global financial landscape, serving as a pivotal platform for the buying and selling of securities. As one of the largest and most influential stock exchanges in the world, the NYSE plays an essential role in providing liquidity, facilitating capital formation, and determining the prices of publicly traded stocks. Due to its significant impact on the economy, ensuring the stability and integrity of trading on the NYSE is of utmost importance.

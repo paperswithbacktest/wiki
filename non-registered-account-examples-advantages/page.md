@@ -1,6 +1,8 @@
 ---
-title: "Non-Registered Account: Examples and Advantages (Algo Trading)"
-description: "Explore the benefits of non-registered accounts for Canadian investors including liquidity and unlimited deposits enhanced by algorithmic trading strategies."
+category: trading_strategy
+description: Explore the benefits of non-registered accounts for Canadian investors
+  including liquidity and unlimited deposits enhanced by algorithmic trading strategies.
+title: 'Non-Registered Account: Examples and Advantages (Algo Trading)'
 ---
 
 As the investment landscape continues to evolve, non-registered accounts have emerged as a flexible option for Canadian investors. In contrast to registered accounts such as Registered Retirement Savings Plans (RRSPs) and Tax-Free Savings Accounts (TFSAs), which provide certain tax benefits, non-registered accounts offer unique advantages in investment management. These accounts allow investors to deposit unlimited amounts and engage in diverse investment strategies, unconstrained by the contribution limits associated with registered vehicles.

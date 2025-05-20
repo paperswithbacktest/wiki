@@ -1,6 +1,9 @@
 ---
-title: "Overview of The Accounting Review (Algo Trading)"
-description: "The Accounting Review, an influential journal by the American Accounting Association, disseminates peer-reviewed research advancing academic and practical accounting practices."
+category: quant_concept
+description: The Accounting Review, an influential journal by the American Accounting
+  Association, disseminates peer-reviewed research advancing academic and practical
+  accounting practices.
+title: Overview of The Accounting Review (Algo Trading)
 ---
 
 Accounting journals are fundamental to advancing knowledge, enhancing education, and evolving practices within the accounting profession. Among these, "The Accounting Review" stands out as a pivotal publication, providing a platform for disseminating rigorous research that influences both academic and practical developments in the field. Established in 1926 by the American Accounting Association (AAA), this journal has made substantial contributions to accounting by offering peer-reviewed articles that cover a broad range of topics, including theoretical frameworks, empirical research, and methodological advancements. These articles not only inform academics and practitioners but also foster an environment of continuous improvement by promoting the exchange of ideas and research findings.

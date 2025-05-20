@@ -1,6 +1,9 @@
 ---
-title: "Dividend Drag: Causes and Examples (Algo Trading)"
-description: "Explore the impact of dividend drag on investment returns and discover how algorithmic trading strategies can help mitigate its effects for better portfolio performance."
+category: quant_concept
+description: Explore the impact of dividend drag on investment returns and discover
+  how algorithmic trading strategies can help mitigate its effects for better portfolio
+  performance.
+title: 'Dividend Drag: Causes and Examples (Algo Trading)'
 ---
 
 The stock market serves as a fundamental component of the global financial ecosystem, providing a platform for buying and selling ownership stakes in companies. This financial marketplace enables companies to raise capital by issuing stocks and offers investors opportunities for wealth accumulation through capital gains and dividends. Dividends, a noteworthy concept within investment strategy, are portions of a company's earnings distributed to shareholders, typically in the form of cash payments or additional shares. They represent a source of passive income and can significantly enhance total investment returns over time, making them highly valued by income-focused investors.

@@ -1,6 +1,9 @@
 ---
-title: "Comparison of CFDs and Spread Betting (Algo Trading)"
-description: "Explore the differences and similarities between CFDs and spread betting in algorithmic trading. Learn how leverage, strategies, and market engagement shape investor opportunities."
+category: trading_strategy
+description: Explore the differences and similarities between CFDs and spread betting
+  in algorithmic trading. Learn how leverage, strategies, and market engagement shape
+  investor opportunities.
+title: Comparison of CFDs and Spread Betting (Algo Trading)
 ---
 
 In recent years, spread betting, Contracts for Difference (CFDs), and algorithmic trading have attracted increasing attention from traders and investors across global financial markets. These financial instruments and trading strategies enable participants to leverage price movements and derive potential profits without owning the actual underlying assets. Spread betting allows traders to speculate on price direction by placing bets, while CFDs involve entering a contract to settle the difference between the opening and closing prices of an asset. Both methods provide a means to engage with a wide array of markets, such as equities, forex, commodities, and indices.

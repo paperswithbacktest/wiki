@@ -1,6 +1,8 @@
 ---
-title: "Comparison of Current and Capital Accounts (Algo Trading)"
-description: "Explore the impact of integrating balance of payments data into algorithmic trading to enhance financial strategy development by predicting global market trends."
+category: trading_strategy
+description: Explore the impact of integrating balance of payments data into algorithmic
+  trading to enhance financial strategy development by predicting global market trends.
+title: Comparison of Current and Capital Accounts (Algo Trading)
 ---
 
 The integration of the balance of payments (BOP), current account, and capital account into algorithmic trading opens new avenues for financial innovation and strategy development. These financial components are pivotal in understanding and reacting to global market dynamics. The balance of payments is a significant economic metric, encompassing a country's total transactions with the rest of the world, divided primarily into the current account and capital account. For traders and financial analysts, comprehending the interplay between these accounts is crucial for leveraging macroeconomic indicators that inform and refine trading algorithms.

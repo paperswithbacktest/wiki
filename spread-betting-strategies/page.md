@@ -1,6 +1,8 @@
 ---
-title: "Spread Betting Strategies (Algo Trading)"
-description: "Explore spread betting strategies within algorithmic trading to manage risk and optimize profits. Learn how to integrate these approaches effectively."
+category: trading_strategy
+description: Explore spread betting strategies within algorithmic trading to manage
+  risk and optimize profits. Learn how to integrate these approaches effectively.
+title: Spread Betting Strategies (Algo Trading)
 ---
 
 Financial trading involves the buying and selling of financial instruments such as stocks, bonds, commodities, and currencies with the objective of making a profit. It plays a crucial role in the modern economy by providing liquidity, enabling price discovery, and allocating resources efficiently. Financial markets facilitate the transfer of capital from investors to companies, fostering economic growth and development. Traders, whether individuals or institutions, participate in these markets aiming to achieve financial success through informed decisions and strategic approaches that consider the risk-reward balance.

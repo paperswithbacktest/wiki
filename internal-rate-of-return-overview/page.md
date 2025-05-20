@@ -1,6 +1,9 @@
 ---
-title: "Internal Rate of Return Overview (Algo Trading)"
-description: "Explore how the Internal Rate of Return is essential for evaluating investment profitability and its integration in algorithmic trading strategies to optimize financial decisions."
+category: quant_concept
+description: Explore how the Internal Rate of Return is essential for evaluating investment
+  profitability and its integration in algorithmic trading strategies to optimize
+  financial decisions.
+title: Internal Rate of Return Overview (Algo Trading)
 ---
 
 Understanding financial analysis is crucial for effective investment evaluation. Investors need robust methods to assess potential assets, ensuring capital is allocated efficiently to maximize returns. Among the myriad of financial metrics available, the internal rate of return (IRR) stands out as a pivotal tool. It helps investors gauge the profitability of investments by estimating the annual growth rate they can expect, allowing for comparison across various options.

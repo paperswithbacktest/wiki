@@ -1,6 +1,12 @@
 ---
-title: "Clearing House Interbank Payments System (Algo Trading)"
-description: "Explore the synergy between the Clearing House Interbank Payments System (CHIPS) and algorithmic trading, highlighting CHIPS' role in facilitating high-volume, large-scale interbank settlements with its efficient netting mechanism. Discover how this critical financial infrastructure enhances liquidity management, reduces operational risk, and supports the rapid transactions essential to modern algorithmic trading environments."
+category: quant_concept
+description: Explore the synergy between the Clearing House Interbank Payments System
+  (CHIPS) and algorithmic trading, highlighting CHIPS' role in facilitating high-volume,
+  large-scale interbank settlements with its efficient netting mechanism. Discover
+  how this critical financial infrastructure enhances liquidity management, reduces
+  operational risk, and supports the rapid transactions essential to modern algorithmic
+  trading environments.
+title: Clearing House Interbank Payments System (Algo Trading)
 ---
 
 The Clearing House Interbank Payments System (CHIPS) is a fundamental component in the world of financial transactions, particularly in the context of large-scale interbank settlements. As a private sector competitor to the Federal Reserve's Fedwire, CHIPS handles an impressive volume, settling over $1.8 trillion daily in both domestic and international payments. This massive throughput underscores its importance as a critical infrastructure within the United States financial system.

@@ -1,6 +1,8 @@
 ---
-title: "Investment in Space Exploration (Algo Trading)"
-description: "Explore the dynamic intersection of space exploration, the space economy, and algorithmic trading Discover investment opportunities beyond our planet"
+category: trading_strategy
+description: Explore the dynamic intersection of space exploration, the space economy,
+  and algorithmic trading Discover investment opportunities beyond our planet
+title: Investment in Space Exploration (Algo Trading)
 ---
 
 The exploration of outer space has undergone a significant transformation, evolving from a domain dominated exclusively by governmental space agencies such as NASA and Roscosmos to an arena bustling with private enterprises. This shift has opened up a vibrant sector, replete with dynamic investment opportunities as the private sector leverages technological advancements and economies of scale to venture into space-related activities. The transition has not only broadened the scope of space exploration but also redefined its economic potential, collectively termed as the space economy.

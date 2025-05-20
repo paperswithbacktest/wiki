@@ -1,6 +1,8 @@
 ---
-title: "Korea Exchange (Algo Trading)"
-description: "Explore the Korea Exchange's role in South Korea's financial sector including insights on algorithmic trading's impact on market efficiency and global relevance."
+category: dataset
+description: Explore the Korea Exchange's role in South Korea's financial sector including
+  insights on algorithmic trading's impact on market efficiency and global relevance.
+title: Korea Exchange (Algo Trading)
 ---
 
 The Korea Exchange (KRX) holds a crucial position in South Korea's financial sector as the exclusive platform facilitating the trading of diverse financial instruments such as stocks, bonds, and derivatives. Established in 2005 through the consolidation of several smaller exchanges, KRX plays a vital role in enhancing the operational efficiency and competitiveness of South Korea's financial markets. This merger not only streamlined operations but also significantly improved the accessibility and appeal of the South Korean market to both domestic and international investors. 
@@ -118,4 +120,3 @@ Jeon, B. N., & Kim, Y. S. (2008). *Impact of the KOSPI 200 Futures on the Volati
 Lee, K., & Kim, S. (2009). *Regulating Algorithmic Trading in Korea: Policy and Implementation*. This research addresses the regulatory challenges posed by the rise of algorithmic trading in the Korean market. It discusses policies implemented to mitigate risk and enhance market stability, offering guidance on regulatory frameworks necessary to manage the complexities introduced by advanced trading technologies.
 
 Yoon, J. H. (2016). *Algorithmic Trading and Market Efficiency: Evidence from Korea*. This study investigates the role of algorithmic trading in enhancing market efficiency in Korea. By analyzing trading data and market trends, the research assesses the impact of algorithmic trading strategies on liquidity, price discovery, and overall market performance.
-

@@ -1,6 +1,9 @@
 ---
-title: "State Minimum Wage Rates in the United States (Algo Trading)"
-description: "Explore the intersection of state wage laws and algorithmic trading in the US Learn how shifts in minimum wage policies can create trading opportunities and risks"
+category: dataset
+description: Explore the intersection of state wage laws and algorithmic trading in
+  the US Learn how shifts in minimum wage policies can create trading opportunities
+  and risks
+title: State Minimum Wage Rates in the United States (Algo Trading)
 ---
 
 State laws regarding wage rates and minimum wage are incredibly dynamic and have profound implications for both the economy at large and the individuals whose livelihoods depend on these wages. These regulations serve as a cornerstone in the socio-economic framework by setting the lowest legal remuneration that employers are obliged to pay their workers. This influences consumer spending, business profitability, and even employment rates. Various states adapt their wage laws to reflect local economic conditions, political ideologies, and social imperatives, leading to a diverse landscape of minimum wage standards across the country.

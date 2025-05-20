@@ -1,6 +1,10 @@
 ---
-title: "Efficient frontier (Algo Trading)"
-description: Explore the importance of the Efficient Frontier in algorithmic trading, which helps traders balance risk and return for optimal portfolio management. By applying Modern Portfolio Theory, traders can make informed decisions to enhance performance and adapt to market changes with efficient asset allocation strategies.
+category: quant_concept
+description: Explore the importance of the Efficient Frontier in algorithmic trading,
+  which helps traders balance risk and return for optimal portfolio management. By
+  applying Modern Portfolio Theory, traders can make informed decisions to enhance
+  performance and adapt to market changes with efficient asset allocation strategies.
+title: Efficient frontier (Algo Trading)
 ---
 
 In the fast-paced world of algorithmic trading, making informed decisions is crucial for maximizing returns while minimizing risk. At the heart of effective portfolio management and trading strategies lies the concept of the Efficient Frontier. This principle is a cornerstone of Modern Portfolio Theory (MPT), which was introduced by Harry Markowitz in 1952. The Efficient Frontier represents a set of optimal portfolios that offer the highest expected return for a defined level of risk. It provides traders and portfolio managers with a framework to assess the trade-offs between risk and return, guiding them towards asset allocations that can enhance performance while controlling for volatility.

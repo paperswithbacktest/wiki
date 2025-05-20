@@ -1,6 +1,9 @@
 ---
-title: "Economic Relationship Between the U.S. Dollar and the Japanese Yen (Algo Trading)"
-description: "Explore the dynamics of the USD/JPY currency pair and algorithmic trading's role in forex markets uncovering factors affecting exchange rates and unique trading strategies."
+category: quant_concept
+description: Explore the dynamics of the USD/JPY currency pair and algorithmic trading's
+  role in forex markets uncovering factors affecting exchange rates and unique trading
+  strategies.
+title: Economic Relationship Between the U.S. Dollar and the Japanese Yen (Algo Trading)
 ---
 
 Currency trading, also known as foreign exchange (forex) trading, is a global marketplace where currencies are exchanged, facilitating international trade and investment. The forex market is the largest and most liquid financial market in the world, with daily trading volumes exceeding $6 trillion [1]. This market plays a vital role in global economics, enabling businesses, governments, and individuals to transact across borders, manage risks associated with currency fluctuations, and speculate on currency movements for profit.

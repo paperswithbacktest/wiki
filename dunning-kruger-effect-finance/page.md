@@ -1,6 +1,9 @@
 ---
-title: "Dunning-Kruger Effect in Finance (Algo Trading)"
-description: "Explore the impact of the Dunning-Kruger Effect in finance and trading. Learn how cognitive biases affect decision-making and how algorithmic trading offers solutions."
+category: quant_concept
+description: Explore the impact of the Dunning-Kruger Effect in finance and trading.
+  Learn how cognitive biases affect decision-making and how algorithmic trading offers
+  solutions.
+title: Dunning-Kruger Effect in Finance (Algo Trading)
 ---
 
 Finance psychology explores how psychological influences affect financial decision-making. It integrates concepts from behavioral economics and cognitive psychology to understand why individuals make certain financial choices. Cognitive biases, systematic patterns of deviation from norm or rationality in judgment, play a crucial role in these decisions. One specific cognitive bias is the Dunning-Kruger Effect, which highlights a cognitive distortion where individuals with limited knowledge in a domain tend to overestimate their competence. Conversely, experts may underestimate their abilities due to their awareness of the vastness of their field.

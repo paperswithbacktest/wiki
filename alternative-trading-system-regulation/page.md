@@ -1,6 +1,9 @@
 ---
-title: "Alternative Trading System Regulation (Algo Trading)"
-description: "Explore the evolving regulation of Alternative Trading Systems in algo trading, focusing on key aspects like market liquidity, efficiency, and regulatory balance."
+category: quant_concept
+description: Explore the evolving regulation of Alternative Trading Systems in algo
+  trading, focusing on key aspects like market liquidity, efficiency, and regulatory
+  balance.
+title: Alternative Trading System Regulation (Algo Trading)
 ---
 
 The financial markets landscape has undergone significant transformations over the last few decades, marked by the rise of Alternative Trading Systems (ATS). These are non-traditional trading venues designed to match buyers and sellers of securities and have created a dynamic shift in how financial transactions are conducted. Traditionally dominated by large exchanges like the New York Stock Exchange and Nasdaq, the financial ecosystem now includes diverse platforms that facilitate trading outside these centralized locations. 

@@ -1,6 +1,8 @@
 ---
-title: "Gross Domestic Income: Formula and Calculation (Algo Trading)"
-description: "Explore the importance and calculation of Gross Domestic Income in economic analysis and algorithmic trading Understand how GDI enhances trading strategies"
+category: quant_concept
+description: Explore the importance and calculation of Gross Domestic Income in economic
+  analysis and algorithmic trading Understand how GDI enhances trading strategies
+title: 'Gross Domestic Income: Formula and Calculation (Algo Trading)'
 ---
 
 In today's fast-paced financial world, understanding economic indicators is crucial for investors and businesses alike. One such important metric is the Gross Domestic Income (GDI), which serves as a mirror to the nation's economic activity by capturing the total income earned by a country's factors of production. Unlike Gross Domestic Product (GDP), which measures the value of goods and services produced within a country's borders, GDI focuses on the income side of the economic equation. This perspective provides a comprehensive view of economic performance through various components, including wages, profits, rents, and taxes.

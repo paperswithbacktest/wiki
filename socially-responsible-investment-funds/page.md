@@ -1,6 +1,9 @@
 ---
-title: "Socially Responsible Investment Funds (Algo Trading)"
-description: "Explore the intersection of sustainability and technology in finance with socially responsible investment funds driven by algorithmic trading for ethical returns"
+category: trading_strategy
+description: Explore the intersection of sustainability and technology in finance
+  with socially responsible investment funds driven by algorithmic trading for ethical
+  returns
+title: Socially Responsible Investment Funds (Algo Trading)
 ---
 
 The landscape of finance is undergoing a significant transformation, characterized by a heightened focus on sustainability and ethics. As global awareness of environmental challenges and social inequalities grows, sustainable finance, ethical investing, and ESG (Environmental, Social, and Governance) funds have emerged as pivotal components of modern financial systems. These elements prioritize not only financial returns but also the broader impact investments have on society and the planet. 

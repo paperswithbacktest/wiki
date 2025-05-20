@@ -1,6 +1,8 @@
 ---
-title: "Electronic Communication Network (Algo Trading)"
-description: "Explore the transformative impact of Electronic Communication Networks and algorithmic trading in financial markets boosting efficiency and global accessibility."
+category: quant_concept
+description: Explore the transformative impact of Electronic Communication Networks
+  and algorithmic trading in financial markets boosting efficiency and global accessibility.
+title: Electronic Communication Network (Algo Trading)
 ---
 
 The rapid evolution of financial markets has significantly altered trading practices through the adoption of innovative technologies. Central to these advancements are Electronic Communication Networks (ECNs) and algorithmic trading, which have fundamentally reshaped the landscape of financial trading. These technologies offer traders enhanced tools for navigating financial markets, increasing both efficiency and competitive edge.

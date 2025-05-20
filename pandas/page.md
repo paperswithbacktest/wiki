@@ -1,7 +1,8 @@
 ---
-title: Essential Pandas Techniques for Machine Learning Data Preparation
+category: dataset
 description: Pandas simplifies data loading cleaning and transformation for machine
   learning workflows so you can prepare data efficiently Discover more inside.
+title: Essential Pandas Techniques for Machine Learning Data Preparation
 ---
 
 ![Image](images/1.jpeg)

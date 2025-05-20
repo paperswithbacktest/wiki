@@ -1,6 +1,8 @@
 ---
-title: "Investment Risk Tolerance and Personality Correlation (Algo Trading)"
-description: "Explore the link between personality traits and investment risk tolerance, and discover how algorithmic trading can enhance personalized investment strategies."
+category: quant_concept
+description: Explore the link between personality traits and investment risk tolerance,
+  and discover how algorithmic trading can enhance personalized investment strategies.
+title: Investment Risk Tolerance and Personality Correlation (Algo Trading)
 ---
 
 Understanding risk tolerance is crucial for effective investment management. It is a measure of an individual's or institution's willingness and capacity to endure financial loss in pursuit of potential gains. Recognizing one's risk tolerance aids in constructing a diversified portfolio that aligns with one's financial goals and comfort levels, thereby optimizing investment performance while minimizing stress and uncertainty.

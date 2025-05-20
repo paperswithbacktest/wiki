@@ -1,6 +1,9 @@
 ---
-title: "MarketsWiki Daily Highlight (Algo Trading)"
-description: "Explore the dynamic world of financial markets with MarketsWiki's insights into algorithmic trading. Gain vital knowledge on trends, efficiency, and market innovations."
+category: quant_concept
+description: Explore the dynamic world of financial markets with MarketsWiki's insights
+  into algorithmic trading. Gain vital knowledge on trends, efficiency, and market
+  innovations.
+title: MarketsWiki Daily Highlight (Algo Trading)
 ---
 
 The world of financial markets is undergoing rapid transformation, largely due to advancements such as algorithmic trading. This innovation involves using computer algorithms to automate trading activities based on predetermined criteria, enhancing the efficiency and speed of transaction execution. Such technologies enable traders to process large volumes of data and execute trades at a scale and speed far beyond human capabilities. MarketsWiki, a comprehensive online resource dedicated to the financial community, plays a crucial role in keeping market participants informed about significant trends, including the rise of algorithmic trading. It provides daily updates and insights that are vital for understanding market dynamics.

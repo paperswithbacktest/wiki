@@ -1,6 +1,14 @@
 ---
-title: "Comparison of Linear and Multiple Regression (Algo Trading)"
-description: "Explore how linear and multiple regression can revolutionize algorithmic trading strategies by analyzing data-driven financial relationships. By understanding these regression techniques, traders can enhance strategy development, objectivity, and potential returns in the fast-paced financial markets. Whether through the straightforward insight of linear regression or the comprehensive capability of multiple regression, these statistical methods provide robust tools for creating effective automated trading systems. Discover the ways regression models in algorithmic trading can refine decision-making processes and help capitalize on market opportunities."
+category: quant_concept
+description: Explore how linear and multiple regression can revolutionize algorithmic
+  trading strategies by analyzing data-driven financial relationships. By understanding
+  these regression techniques, traders can enhance strategy development, objectivity,
+  and potential returns in the fast-paced financial markets. Whether through the straightforward
+  insight of linear regression or the comprehensive capability of multiple regression,
+  these statistical methods provide robust tools for creating effective automated
+  trading systems. Discover the ways regression models in algorithmic trading can
+  refine decision-making processes and help capitalize on market opportunities.
+title: Comparison of Linear and Multiple Regression (Algo Trading)
 ---
 
 In the ever-evolving world of finance and trading, statistical methods such as multiple regression and linear regression have become integral in facilitating data-driven decisions. These methodologies provide valuable insights into the relationships between various financial indicators and significantly enhance the strategies used in algorithmic trading. 

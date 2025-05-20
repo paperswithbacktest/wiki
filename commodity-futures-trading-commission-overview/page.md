@@ -1,6 +1,8 @@
 ---
-title: "Commodity Futures Trading Commission Overview (Algo Trading)"
-description: "Learn about the role of the Commodity Futures Trading Commission in regulating futures trading including the impact of algorithmic trading advancements."
+category: quant_concept
+description: Learn about the role of the Commodity Futures Trading Commission in regulating
+  futures trading including the impact of algorithmic trading advancements.
+title: Commodity Futures Trading Commission Overview (Algo Trading)
 ---
 
 Futures trading in commodities represents a pivotal component of the global financial markets, underpinning both risk management and speculative strategies. This form of trading involves the contractual agreement to buy or sell a specific commodity at a predetermined price and date in the future. Participants in these markets leverage futures contracts primarily for hedging against price fluctuations or seeking profit from shifts in commodity prices. Examples of traded commodities include agriculture products like wheat and corn, energy resources like oil and natural gas, and precious metals such as gold and silver.

@@ -1,6 +1,8 @@
 ---
-title: "Mechanisms of Unconventional Monetary Policy (Algo Trading)"
-description: "Explore the synergy between unconventional monetary policy and algorithmic trading in shaping financial markets and economic stability."
+category: quant_concept
+description: Explore the synergy between unconventional monetary policy and algorithmic
+  trading in shaping financial markets and economic stability.
+title: Mechanisms of Unconventional Monetary Policy (Algo Trading)
 ---
 
 Economic policy is a fundamental driver that shapes national economies by deploying a combination of fiscal and monetary strategies to achieve specific economic objectives. Fiscal policy involves the manipulation of government spending and taxation to influence economic activity, thereby promoting economic growth and stability. On the other hand, monetary policy pertains to the regulation of the money supply and interest rates, primarily overseen by central banks, which aim to control inflation and stabilize the currency.

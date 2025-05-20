@@ -1,6 +1,9 @@
 ---
-title: "Log-Normal Distribution: Applications and Calculation (Algo Trading)"
-description: "Discover how the log-normal distribution enhances algorithmic trading with its unique properties and financial applications improving trading strategy performance."
+category: quant_concept
+description: Discover how the log-normal distribution enhances algorithmic trading
+  with its unique properties and financial applications improving trading strategy
+  performance.
+title: 'Log-Normal Distribution: Applications and Calculation (Algo Trading)'
 ---
 
 Algorithmic trading represents a sophisticated confluence of finance, data science, and technology that transforms the way trading decisions are formulated. At its core, algorithmic trading relies heavily on statistical methods to interpret vast amounts of market data and predict future price movements. A critical aspect of these methods involves understanding statistical distributions, which serve as the foundation for many trading models. 

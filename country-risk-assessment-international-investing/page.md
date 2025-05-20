@@ -1,6 +1,8 @@
 ---
-title: "Country Risk Assessment in International Investing (Algo Trading)"
-description: "Explore the crucial role of country risk and algorithmic trading in international investing Understand how these elements optimize decision-making and portfolio returns"
+category: quant_concept
+description: Explore the crucial role of country risk and algorithmic trading in international
+  investing Understand how these elements optimize decision-making and portfolio returns
+title: Country Risk Assessment in International Investing (Algo Trading)
 ---
 
 In a globalized economy, international investing presents a vast array of opportunities, appealing to investors seeking to diversify their portfolios and capitalize on growth prospects beyond domestic markets. However, this expansion across borders also introduces a range of inherent risks that investors must navigate. As financial markets become increasingly interconnected, understanding these risks has become crucial for optimizing investment outcomes.

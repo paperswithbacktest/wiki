@@ -1,6 +1,9 @@
 ---
-title: "Informationally Efficient Market: Hypothesis and Criticism (Algo Trading)"
-description: "Explore the Efficient Market Hypothesis and its impact on algorithmic trading Discover insights into market efficiency and the challenges of consistently beating the market"
+category: quant_concept
+description: Explore the Efficient Market Hypothesis and its impact on algorithmic
+  trading Discover insights into market efficiency and the challenges of consistently
+  beating the market
+title: 'Informationally Efficient Market: Hypothesis and Criticism (Algo Trading)'
 ---
 
 Market efficiency is a foundational concept in finance that refers to the degree to which asset prices reflect all available information. It posits that in an efficient market, prices fully and instantaneously incorporate relevant information, making it impossible to consistently achieve returns that exceed average market returns. This concept is encapsulated in the Efficient Market Hypothesis (EMH), which serves as a cornerstone of modern financial theory.

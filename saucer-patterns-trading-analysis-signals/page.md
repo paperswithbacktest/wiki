@@ -1,6 +1,8 @@
 ---
-title: "Saucer Patterns in Trading: Analysis and Signals (Algo Trading)"
-description: "Explore saucer patterns in trading to identify potential price reversals and enhance strategies in manual and algo trading for better financial outcomes."
+category: trading_strategy
+description: Explore saucer patterns in trading to identify potential price reversals
+  and enhance strategies in manual and algo trading for better financial outcomes.
+title: 'Saucer Patterns in Trading: Analysis and Signals (Algo Trading)'
 ---
 
 Technical analysis is a valuable tool for traders aiming to predict future price movements in the market. By analyzing historical data, traders identify patterns and trends to inform their trading strategies. Among these various patterns, the saucer pattern, also known as the rounding bottom, serves as an important indicator of potential price reversals. This pattern resembles a shallow, rounded bowl on the price chart and typically indicates a transition from a downtrend to an uptrend.

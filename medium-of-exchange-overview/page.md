@@ -1,6 +1,8 @@
 ---
-title: "Medium of Exchange Overview (Algo Trading)"
-description: "Explore how economic concepts like the medium of exchange intersect with modern trading practices and algorithmic trading to facilitate global commerce."
+category: quant_concept
+description: Explore how economic concepts like the medium of exchange intersect with
+  modern trading practices and algorithmic trading to facilitate global commerce.
+title: Medium of Exchange Overview (Algo Trading)
 ---
 
 This article explores the intersection of economic concepts such as the medium of exchange and modern trading practices, including currency use and algorithmic trading. The aim is to shed light on how these elements interact to facilitate global commerce and foster economic growth. Understanding the intricate relationship between traditional and innovative financial instruments is essential for navigating the complexities of contemporary financial markets.

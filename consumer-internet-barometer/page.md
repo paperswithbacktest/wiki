@@ -1,6 +1,8 @@
 ---
-title: "Consumer Internet Barometer (Algo Trading)"
-description: "Explore the impact of internet trends on consumer behavior and the role of algorithmic trading in markets to gain valuable insights and strategic advantages."
+category: quant_concept
+description: Explore the impact of internet trends on consumer behavior and the role
+  of algorithmic trading in markets to gain valuable insights and strategic advantages.
+title: Consumer Internet Barometer (Algo Trading)
 ---
 
 The digital age has profoundly transformed the ways in which markets and consumer behavior are analyzed. With the advent of the Internet and advanced technological tools, there has been a paradigm shift in understanding how consumers interact with products and services. Internet trends have emerged as pivotal forces in shaping consumer behavior, influencing everything from purchasing habits to engagement with brands. This article explores the impact of these trends on consumer behavior while also examining the role of algorithmic trading in financial markets.

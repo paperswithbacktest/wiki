@@ -1,6 +1,8 @@
 ---
-title: "Budget Control Act (Algo Trading)"
-description: "Explore how the Budget Control Act of 2011 impacts algorithmic trading strategies through fiscal constraints and spending cuts, influencing market volatility."
+category: quant_concept
+description: Explore how the Budget Control Act of 2011 impacts algorithmic trading
+  strategies through fiscal constraints and spending cuts, influencing market volatility.
+title: Budget Control Act (Algo Trading)
 ---
 
 The Budget Control Act (BCA) of 2011 stands as a significant statute in federal budgetary regulation, crafted to address and mitigate the United States' fiscal challenges. This legislation arose primarily in response to the critical 2011 debt ceiling crisis, which necessitated immediate and decisive actions to prevent a sovereign default. The core objectives of the BCA centered on two pivotal tasks: increasing the national debt ceiling and instituting measures for substantial deficit reductions.

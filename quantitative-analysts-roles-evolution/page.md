@@ -1,9 +1,11 @@
 ---
-title: "Quantitative Analysts: Roles and Evolution (Algo Trading)"
-description: "Explore the evolving role of quantitative analysts in finance who harness mathematical models and algorithms to innovate trading strategies and reshape markets."
+category: quant_concept
+description: Explore the evolving role of quantitative analysts in finance who harness
+  mathematical models and algorithms to innovate trading strategies and reshape markets.
+title: 'Quantitative Analysts: Roles and Evolution (Algo Trading)'
 ---
 
- to Quantitative Analysts
+to Quantitative Analysts
 
 The financial landscape is continuously evolving with the integration of advanced mathematical models and algorithms, fundamentally altering the way markets operate. Quantitative analysts, commonly known as 'quants,' play a pivotal role in this ongoing transformation. They employ sophisticated computational techniques to analyze financial data, thereby enabling the creation of innovative financial models and strategies.
 

@@ -1,6 +1,9 @@
 ---
-title: "Comparison of Investing and Speculating (Algo Trading)"
-description: "Discover the differences between investing, speculating, and algorithmic trading to craft a sound financial strategy by understanding their unique goals and risks."
+category: quant_concept
+description: Discover the differences between investing, speculating, and algorithmic
+  trading to craft a sound financial strategy by understanding their unique goals
+  and risks.
+title: Comparison of Investing and Speculating (Algo Trading)
 ---
 
 In finance, distinguishing between investing, speculating, and algorithmic trading is essential for developing a coherent financial strategy. While these activities may seem similar due to their involvement in financial markets, they represent fundamentally different approaches with distinct objectives, methodologies, and risk profiles.

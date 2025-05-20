@@ -1,7 +1,9 @@
 ---
-title: "Pink: The OTC Open Market (Algo Trading)"
-description: "Explore the Pink Sheets in the OTC market  
-Discover how algorithmic trading impacts liquidity and volatility in a dynamic space designed for innovative companies and insightful investors"
+category: quant_concept
+description: Explore the Pink Sheets in the OTC market Discover how algorithmic trading
+  impacts liquidity and volatility in a dynamic space designed for innovative companies
+  and insightful investors
+title: 'Pink: The OTC Open Market (Algo Trading)'
 ---
 
 The Over-the-Counter (OTC) market serves as an essential space for trading financial instruments outside traditional exchanges. A crucial subset of this market involves the Pink Sheets, an electronic quotation system that provides price and liquidity information for securities that may not meet the requirements for listing on major exchanges. These securities often include smaller or emerging companies that seek capital from investors willing to accept higher risk for potentially higher returns. The Pink Sheets play a pivotal role in the OTC landscape by offering a platform for companies that may not have extensive regulatory filings or significant analyst coverage, allowing traders and investors to engage in an open market environment.

@@ -1,6 +1,8 @@
 ---
-title: "Fourth Market in Financial Trading (Algo Trading)"
-description: "Discover the Fourth Market in financial trading, where algorithmic strategies enable direct, private, and cost-effective transactions for institutional investors."
+category: quant_concept
+description: Discover the Fourth Market in financial trading, where algorithmic strategies
+  enable direct, private, and cost-effective transactions for institutional investors.
+title: Fourth Market in Financial Trading (Algo Trading)
 ---
 
 The landscape of financial markets is continuously evolving with the advancement of technology and trading mechanisms. As an integral part of institutional trading, the Fourth Market represents a dynamic shift away from traditional exchanges, emphasizing direct trading between private institutions. This less-known segment offers a notable alternative to conventional trading venues, providing benefits like reduced transaction costs and enhanced privacy.

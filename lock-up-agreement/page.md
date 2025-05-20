@@ -1,6 +1,8 @@
 ---
-title: "Lock-Up Agreement (Algo Trading)"
-description: "Explore the significant role of lock-up agreements in IPOs, their impact on stock price stability, and how algorithmic trading adjusts to these phases."
+category: quant_concept
+description: Explore the significant role of lock-up agreements in IPOs, their impact
+  on stock price stability, and how algorithmic trading adjusts to these phases.
+title: Lock-Up Agreement (Algo Trading)
 ---
 
 An Initial Public Offering (IPO) marks a pivotal transition for a private company as it becomes publicly traded by offering its shares to the broader public for the first time. This crucial phase is governed by a series of rules and agreements aimed at stabilizing share prices and maintaining market confidence throughout the transition. One of the essential mechanisms implemented during this process is the lock-up agreement. 
@@ -151,4 +153,3 @@ In conclusion, mastery over the nuances of lock-up agreements and the use of tec
 7. Zhu, Y., & Huang, G. (2020). "Algorithmic Trading and Its Impact on Stock Market Volatility." International Journal of Financial Studies, 8(2), 32. This article discusses the role of algorithmic trading in handling volatility, particularly during sensitive periods like lock-up expirations, and the strategies used to optimize investment decisions.
 
 8. Patel, J., & Tadross, M. (2017). "Exceptions and Exemptions in IPO Lock-Up Agreements." Journal of Corporate Finance, 45, 50-68. This research investigates into the circumstances under which lock-up agreements might be amended, focusing on the implications for stock prices and investor confidence.
-

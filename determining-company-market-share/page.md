@@ -1,6 +1,12 @@
 ---
-title: "Determining Company Market Share (Algo Trading)"
-description: "Explore the essential roles of business metrics, market share analysis, and algorithmic trading in enhancing company performance. Gain insights into how businesses utilize these tools for strategic decision-making, competitive positioning, and growth potential. Discover the advantages of algo trading, including reduced human errors and high-frequency trading benefits, in optimizing trades with speed and precision."
+category: quant_concept
+description: Explore the essential roles of business metrics, market share analysis,
+  and algorithmic trading in enhancing company performance. Gain insights into how
+  businesses utilize these tools for strategic decision-making, competitive positioning,
+  and growth potential. Discover the advantages of algo trading, including reduced
+  human errors and high-frequency trading benefits, in optimizing trades with speed
+  and precision.
+title: Determining Company Market Share (Algo Trading)
 ---
 
 In today's competitive business landscape, companies must leverage sophisticated tools to analyze performance and track success. Understanding business metrics, such as market share, plays a critical role in informing company analysis. These metrics provide a quantitative measure of an organization's performance, serving as a compass for strategic decision-making and offering insights into areas for improvement and growth. By assessing metrics like revenue, profit margins, and market share, companies gain a clearer picture of their competitive standing and potential for expansion.

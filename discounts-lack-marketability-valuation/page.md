@@ -1,6 +1,9 @@
 ---
-title: "Discounts for Lack of Marketability in Valuation (Algo Trading)"
-description: "Explore Discounts for Lack of Marketability in financial valuation including methodologies and implications for algorithmic trading with expert insights and analysis."
+category: quant_concept
+description: Explore Discounts for Lack of Marketability in financial valuation including
+  methodologies and implications for algorithmic trading with expert insights and
+  analysis.
+title: Discounts for Lack of Marketability in Valuation (Algo Trading)
 ---
 
 Discounts for lack of marketability (DLOM) are a fundamental aspect of financial valuation, particularly when assessing private companies and non-publicly traded shares. DLOM is intended to reflect the reduced value of an asset resulting from its illiquid nature. Illiquidity implies an asset cannot be sold or marketed quickly without potentially affecting its price, distinguishing it from more liquid, publicly traded equivalents.

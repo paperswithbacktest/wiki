@@ -1,6 +1,8 @@
 ---
-title: "Bitcoin ATM: Overview, Fees, and Locations (Algo Trading)"
-description: "Discover everything about Bitcoin ATMs including fees and locations plus delve into algorithmic trading strategies in the crypto market to boost your investments"
+category: dataset
+description: Discover everything about Bitcoin ATMs including fees and locations plus
+  delve into algorithmic trading strategies in the crypto market to boost your investments
+title: 'Bitcoin ATM: Overview, Fees, and Locations (Algo Trading)'
 ---
 
 In recent years, Bitcoin and other cryptocurrencies have captured substantial attention as alternative investment assets, largely due to their potential for high returns and their decentralized nature. This growing interest has resulted in the expansion of Bitcoin ATMs, which are dedicated machines that facilitate the buying and selling of Bitcoin in a user-friendly manner. These ATMs have become an integral part of the cryptocurrency ecosystem, providing a convenient method for transactions, especially for those who prefer or require cash transactions.

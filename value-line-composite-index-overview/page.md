@@ -1,6 +1,8 @@
 ---
-title: "Value Line Composite Index Overview (Algo Trading)"
-description: "Explore the Value Line Composite Index and how its insights enhance algorithmic trading strategies to optimize performance and returns across diverse markets."
+category: dataset
+description: Explore the Value Line Composite Index and how its insights enhance algorithmic
+  trading strategies to optimize performance and returns across diverse markets.
+title: Value Line Composite Index Overview (Algo Trading)
 ---
 
 The Value Line Composite Index represents a significant stock market index encompassing approximately 1,700 companies listed on major exchanges such as the NYSE and NASDAQ. This comprehensive index provides a wide-ranging overview of the market, focusing on the performance trends of a diverse set of companies. The Value Line Composite Index is bifurcated into Geometric and Arithmetic Composite Indices, each offering unique insights into stock trends and market performance. The equal weighting approach of the Value Line Index, distinct from market-cap weighted indices, ensures a balanced representation across all included stocks, making it a diversified market indicator that captures sector-wide movements.

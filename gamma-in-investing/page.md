@@ -1,6 +1,9 @@
 ---
-title: "Gamma in Investing (Algo Trading)"
-description: "Explore how gamma enhances algorithmic trading by optimizing options strategies. Delve into leveraging gamma for precise risk management and strategic trading."
+category: quant_concept
+description: Explore how gamma enhances algorithmic trading by optimizing options
+  strategies. Delve into leveraging gamma for precise risk management and strategic
+  trading.
+title: Gamma in Investing (Algo Trading)
 ---
 
 In today's fast-paced financial markets, investors and traders are constantly seeking innovative strategies to maximize returns and manage risks. With the rapid advancement of technology, traditional trading methods have been increasingly supplemented and, in some cases, replaced by algorithmic trading strategies. These strategies utilize complex mathematical models and fast computing power to execute trades at precise moments, optimizing both returns and risk management. One such advanced concept that is frequently employed in these strategies is gamma, a crucial component in options trading.

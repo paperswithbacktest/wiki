@@ -1,6 +1,8 @@
 ---
-title: "Common Equity Tier 1 (CET1) and Its Calculation (Algo Trading)"
-description: "Explore the essentials of Common Equity Tier 1 (CET1) and its calculation in banking regulation and algorithmic trading's impact on financial systems."
+category: quant_concept
+description: Explore the essentials of Common Equity Tier 1 (CET1) and its calculation
+  in banking regulation and algorithmic trading's impact on financial systems.
+title: Common Equity Tier 1 (CET1) and Its Calculation (Algo Trading)
 ---
 
 In the global financial landscape, bank capital and financial regulation are foundational elements that ensure stability and trust within the system. At the heart of these discussions are concepts like Common Equity Tier 1 (CET1) and algorithmic trading (algo trading), which serve as vital components in modern banking and finance operations.

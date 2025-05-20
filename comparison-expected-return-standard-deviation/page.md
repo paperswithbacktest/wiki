@@ -1,6 +1,8 @@
 ---
-title: "Comparison of Expected Return and Standard Deviation (Algo Trading)"
-description: "Analyze the interplay between expected return and risk in algorithmic trading Understand key concepts and enhance strategies for optimal investment outcomes"
+category: quant_concept
+description: Analyze the interplay between expected return and risk in algorithmic
+  trading Understand key concepts and enhance strategies for optimal investment outcomes
+title: Comparison of Expected Return and Standard Deviation (Algo Trading)
 ---
 
 The landscape of algorithmic trading has evolved significantly over recent years, propelled by swift advancements in technology and data analysis capabilities. Algorithmic trading, which employs complex algorithms to make trading decisions at speeds and frequencies beyond human capacity, has become a cornerstone of modern financial markets. These advancements allow traders to analyze vast volumes of data and execute orders with precision unobtainable a few decades ago, thus reshaping trading paradigms to align more closely with quantitative analysis and data-driven insights.

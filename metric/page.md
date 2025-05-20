@@ -1,7 +1,8 @@
 ---
-title: Machine Learning Metrics Explained for Effective Model Evaluation
+category: quant_concept
 description: Machine learning metrics evaluate model performance for classification
   and regression helping you choose the right measures Discover more inside.
+title: Machine Learning Metrics Explained for Effective Model Evaluation
 ---
 
 ![Image](images/1.jpeg)

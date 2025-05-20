@@ -1,6 +1,10 @@
 ---
-title: "Competitive Devaluation: Overview, Benefits, Challenges, and Case Study (Algo Trading)"
-description: "Explore the intricacies of competitive devaluation and its impact on global markets with insights into algorithmic trading strategies and potential economic benefits and risks."
+category: quant_concept
+description: Explore the intricacies of competitive devaluation and its impact on
+  global markets with insights into algorithmic trading strategies and potential economic
+  benefits and risks.
+title: 'Competitive Devaluation: Overview, Benefits, Challenges, and Case Study (Algo
+  Trading)'
 ---
 
 The global financial landscape is shaped by a myriad of factors, with economic policies, currency devaluation, and algorithmic trading being among the most significant. Competitive devaluation acts as a strategic economic policy, enabling countries to deliberately lower their currency values. This maneuver is designed to make exports more affordable and attractive on the global stage. By lowering the cost of exported goods, a country can enhance its trade balance and stimulate domestic economic growth. However, competitive devaluation carries inherent risks, potentially sparking retaliatory devaluations by other nations.

@@ -1,6 +1,8 @@
 ---
-title: "Portfolio Risk Assessment (Algo Trading)"
-description: "Explore portfolio risk assessment in algo trading and learn how to manage investment risks effectively to optimize returns while minimizing potential losses."
+category: trading_strategy
+description: Explore portfolio risk assessment in algo trading and learn how to manage
+  investment risks effectively to optimize returns while minimizing potential losses.
+title: Portfolio Risk Assessment (Algo Trading)
 ---
 
 Investment risk is an inherent aspect of financial markets, arising from the uncertainty that accompanies every investment decision. Efficiently managing this risk is critical for building and maintaining a successful portfolio. Investors constantly face the challenge of generating returns while minimizing potential losses, which requires a deep understanding of the various forms of investment risk and the implementation of robust risk management strategies.

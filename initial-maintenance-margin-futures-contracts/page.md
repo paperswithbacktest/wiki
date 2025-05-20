@@ -1,6 +1,11 @@
 ---
-title: "Initial and Maintenance Margin in Futures Contracts (Algo Trading)"
-description: "Explore the essential roles of initial and maintenance margins in futures contracts and their impact on risk management and trading strategies. Discover how these elements are foundational to leveraging positions and managing market volatility. Additionally, learn about the integration of algorithmic trading for optimized margin usage and enhanced trade execution."
+category: quant_concept
+description: Explore the essential roles of initial and maintenance margins in futures
+  contracts and their impact on risk management and trading strategies. Discover how
+  these elements are foundational to leveraging positions and managing market volatility.
+  Additionally, learn about the integration of algorithmic trading for optimized margin
+  usage and enhanced trade execution.
+title: Initial and Maintenance Margin in Futures Contracts (Algo Trading)
 ---
 
 Understanding the intricacies of futures contracts is essential for traders, especially when they participate in margin trading. At the core of futures trading are key components such as maintenance margin and initial margin. These margins not only act as financial safeguards but also enable traders to leverage positions significantly, making them fundamental to the trading process.
@@ -229,4 +234,3 @@ Finally, participating in online forums and community discussions can offer prac
 [8]: Jorion, P. (2006). ["Value at Risk: The New Benchmark for Managing Financial Risk."](https://books.google.com/books/about/Value_at_Risk_3rd_Ed.html?id=nnblKhI7KP8C) McGraw-Hill Education.
 
 [9]: Interactive Brokers. ["Margin Requirements for Futures Traders."](https://www.interactivebrokers.com/en/trading/margin-futures-fops.php)
-

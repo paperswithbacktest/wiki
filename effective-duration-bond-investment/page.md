@@ -1,6 +1,8 @@
 ---
-title: "Effective Duration in Bond Investment (Algo Trading)"
-description: "Effective duration is crucial for bond investment and algo trading enabling investors to manage interest rate risk and optimize portfolios for strategic gains."
+category: quant_concept
+description: Effective duration is crucial for bond investment and algo trading enabling
+  investors to manage interest rate risk and optimize portfolios for strategic gains.
+title: Effective Duration in Bond Investment (Algo Trading)
 ---
 
 Effective duration is a fundamental concept within the financial landscape, particularly when it comes to bond investments and portfolio management. This measure plays a critical role in evaluating how sensitive bonds are to changes in interest rates, which can have significant implications for investors. As interest rate fluctuations directly impact the pricing of bonds, understanding effective duration enables investors to manage and mitigate associated risks more effectively.

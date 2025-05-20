@@ -1,6 +1,8 @@
 ---
-title: "Behaviorism: Principles and Beliefs (Algo Trading)"
-description: "Explore how behaviorism principles enhance algorithmic trading by reducing emotional biases and improving decision-making through a focus on observable actions."
+category: quant_concept
+description: Explore how behaviorism principles enhance algorithmic trading by reducing
+  emotional biases and improving decision-making through a focus on observable actions.
+title: 'Behaviorism: Principles and Beliefs (Algo Trading)'
 ---
 
 Behaviorism, a foundational theory in psychology, emphasizes the objective analysis of human behavior by focusing on observable actions and the influence of external stimuli. Developed in the early 20th century by figures such as John B. Watson and B.F. Skinner, behaviorism posits that all behaviors result from interactions with the environment, rather than internal states such as emotions or thoughts. This perspective has been instrumental in understanding human behavior, particularly in contexts where decision-making is critical.

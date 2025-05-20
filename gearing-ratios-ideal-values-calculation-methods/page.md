@@ -1,6 +1,8 @@
 ---
-title: "Gearing Ratios: Ideal Values and Calculation Methods (Algo Trading)"
-description: "Explore gearing ratios and their role in assessing financial leverage learn debt management strategies and discover applications in algorithmic trading."
+category: quant_concept
+description: Explore gearing ratios and their role in assessing financial leverage
+  learn debt management strategies and discover applications in algorithmic trading.
+title: 'Gearing Ratios: Ideal Values and Calculation Methods (Algo Trading)'
 ---
 
 In today's financial landscape, understanding key financial ratios is crucial for both individual and institutional investors. These ratios are essential tools that help assess a company's financial health and inform investment decisions. Among these, gearing ratios, debt management, and algorithmic trading (algo trading) have become significant components of financial analysis and strategy development. Gearing ratios specifically highlight a company's financial leverage by comparing its borrowed funds with equity, providing insights into its capital structure and risk profile.
@@ -154,4 +156,3 @@ Online platforms like Investopedia and QuantInsti offer a wealth of information 
 Professional forums such as QuantConnect and EliteTrader serve as invaluable platforms for exchanging knowledge, strategies, and experiences among algorithmic traders. QuantConnect provides a community-driven platform for algorithm development and [backtesting](/wiki/backtesting), whereas EliteTrader offers a broad space for discussions on trading strategies and market insights.
 
 Engaging with these resources will equip you with the essential tools and knowledge to navigate and succeed in the complex world of financial markets and algorithmic trading.
-

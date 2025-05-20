@@ -1,6 +1,8 @@
 ---
-title: "Convertible Subordinated Notes (Algo Trading)"
-description: "Explore the complex world of convertible subordinated notes and algorithmic trading Learn how these instruments can optimize returns and manage portfolio risk"
+category: quant_concept
+description: Explore the complex world of convertible subordinated notes and algorithmic
+  trading Learn how these instruments can optimize returns and manage portfolio risk
+title: Convertible Subordinated Notes (Algo Trading)
 ---
 
 The financial world is replete with complex instruments that serve various investment objectives and strategies. This diverse array extends far beyond traditional stocks and bonds, encompassing sophisticated tools designed to optimize returns and manage risk within a portfolio. Among these instruments, convertible notes, subordinated debt, and algorithmic trading stand out due to their unique features and applications.

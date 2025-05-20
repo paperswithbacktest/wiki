@@ -1,6 +1,12 @@
 ---
-title: "Fixed Costs in Economics (Algo Trading)"
-description: "Discover the essential role of fixed costs in algorithmic trading and how they influence financial strategies within dynamic markets. Learn how these unchanging costs, such as rent, salaries, and software licenses, form the financial backbone of tech-driven trading platforms. Explore strategies for efficient cost management to optimize profitability, enhance operational efficiency, and maintain a competitive market edge."
+category: quant_concept
+description: Discover the essential role of fixed costs in algorithmic trading and
+  how they influence financial strategies within dynamic markets. Learn how these
+  unchanging costs, such as rent, salaries, and software licenses, form the financial
+  backbone of tech-driven trading platforms. Explore strategies for efficient cost
+  management to optimize profitability, enhance operational efficiency, and maintain
+  a competitive market edge.
+title: Fixed Costs in Economics (Algo Trading)
 ---
 
 In today's dynamic business environment, understanding economic expenses is crucial for maintaining a competitive edge. As businesses navigate ever-evolving challenges and opportunities, knowledge of how these expenses impact financial decisions is vital, particularly within the context of algorithmic trading.

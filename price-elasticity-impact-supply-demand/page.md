@@ -1,6 +1,8 @@
 ---
-title: "Price Elasticity and Its Impact on Supply and Demand (Algo Trading)"
-description: "Explore how price elasticity impacts supply and demand in algorithmic trading Learn how understanding elasticity can enhance strategic trading decision-making"
+category: quant_concept
+description: Explore how price elasticity impacts supply and demand in algorithmic
+  trading Learn how understanding elasticity can enhance strategic trading decision-making
+title: Price Elasticity and Its Impact on Supply and Demand (Algo Trading)
 ---
 
 In the rapidly evolving landscape of financial markets, understanding economic principles such as price elasticity is crucial for developing successful trading strategies. Price elasticity measures how the quantity demanded or supplied of a commodity responds to price changes, offering insights into consumer behavior and market dynamics. Algorithmic trading, which employs pre-programmed instructions to execute trades at high speed, stands to benefit significantly from the integration of elasticity measures.
@@ -223,4 +225,3 @@ Perloff, J. M. "Microeconomics" – Perloff's work is an authoritative resource 
 Mankiw, N. G. "Principles of Economics" – A fundamental guide to economic principles, Mankiw's textbook covers elasticity extensively, presenting its importance in the broader context of economics and decision-making processes.
 
 InvestingAnswers.com – This online platform offers comprehensive resources for understanding the fundamentals of price elasticity. It provides practical examples and explanations that are useful for both beginners and seasoned investors seeking to comprehend how elasticity affects financial markets.
-

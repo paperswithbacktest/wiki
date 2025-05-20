@@ -1,6 +1,8 @@
 ---
-title: "Agent Problem (Algo Trading)"
-description: "Explore the complexities of the agency problem in algorithmic trading where misaligned interests between investors and trading agents pose unique challenges."
+category: quant_concept
+description: Explore the complexities of the agency problem in algorithmic trading
+  where misaligned interests between investors and trading agents pose unique challenges.
+title: Agent Problem (Algo Trading)
 ---
 
 The agency problem is a well-documented challenge within corporate governance and finance, where conflicts arise due to misaligned interests between principals and agents. Principals, typically shareholders or investors, delegate decision-making authority to agents, such as managers or executives, who are expected to act in the principals' best interests. This delegation often leads to conflicts due to differing objectives or asymmetries in information. In the context of algorithmic trading, these agency dilemmas are compounded due to the increased complexity and speed at which financial transactions occur.

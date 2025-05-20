@@ -1,6 +1,9 @@
 ---
-title: "SEC Form ATS-R (Algo Trading)"
-description: "Explore the significance of SEC Form ATS-R in regulating Alternative Trading Systems. This crucial form ensures transparency and compliance in algorithmic trading."
+category: quant_concept
+description: Explore the significance of SEC Form ATS-R in regulating Alternative
+  Trading Systems. This crucial form ensures transparency and compliance in algorithmic
+  trading.
+title: SEC Form ATS-R (Algo Trading)
 ---
 
 In the rapidly evolving financial landscape, Alternative Trading Systems (ATS) have emerged as vital components, providing unique opportunities for market participants to trade outside of traditional exchanges. ATS offer avenues for executing trades that often facilitate larger transactions with minimal market impact, a feature particularly beneficial for institutional investors. The regulatory framework governing these systems is intricate, with the U.S. Securities and Exchange Commission (SEC) serving as a key regulatory authority, ensuring these platforms operate within legal and ethical boundaries. 

@@ -1,6 +1,9 @@
 ---
-title: "Birth-Death Ratio: Overview, Function, and Critiques (Algo Trading)"
-description: "Explore the intersection of demographic studies and algorithmic trading by understanding how birth-death ratios can enhance predictive capabilities in financial strategies."
+category: quant_concept
+description: Explore the intersection of demographic studies and algorithmic trading
+  by understanding how birth-death ratios can enhance predictive capabilities in financial
+  strategies.
+title: 'Birth-Death Ratio: Overview, Function, and Critiques (Algo Trading)'
 ---
 
 Population studies aim to understand the complexities of demographic changes and their socio-economic implications. Central to these studies is the birth-death ratio, a crucial metric that quantifies the net effect of births and deaths within a population over a specific period. This ratio is instrumental in shedding light on trends that influence economic stability, workforce dynamics, and social structures. By examining shifts in birth and death rates, demographers can offer insights into future economic challenges and opportunities, guiding policy-making and business strategies.

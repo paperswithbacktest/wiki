@@ -1,6 +1,8 @@
 ---
-title: "Comparison of Robo-Advisors and Self-Directed Investing (Algo Trading)"
-description: "Explore the benefits and challenges of robo-advisors self-directed investing and algorithmic trading Understand which approach best suits your financial goals"
+category: trading_strategy
+description: Explore the benefits and challenges of robo-advisors self-directed investing
+  and algorithmic trading Understand which approach best suits your financial goals
+title: Comparison of Robo-Advisors and Self-Directed Investing (Algo Trading)
 ---
 
 In today's rapidly evolving financial landscape, investors have more choices than ever before. Various investment strategies are available, ranging from traditional self-directed investing to advanced robo-advisors and algorithmic trading platforms. Each method presents its own set of unique benefits and challenges, allowing investors to select the option that best suits their individual circumstances.

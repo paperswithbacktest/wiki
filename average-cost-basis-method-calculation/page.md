@@ -1,6 +1,10 @@
 ---
-title: "Average Cost Basis Method and Calculation (Algo Trading)"
-description: "Discover the average cost basis method and how it impacts algorithmic trading. Learn how this strategy simplifies cost determination and tax reporting to enhance investment efficiency. Explore various cost basis methods, such as FIFO and LIFO, for strategic financial management."
+category: trading_strategy
+description: Discover the average cost basis method and how it impacts algorithmic
+  trading. Learn how this strategy simplifies cost determination and tax reporting
+  to enhance investment efficiency. Explore various cost basis methods, such as FIFO
+  and LIFO, for strategic financial management.
+title: Average Cost Basis Method and Calculation (Algo Trading)
 ---
 
 The world of investing offers a multitude of strategies and methods for optimizing asset management. Within this multifaceted landscape, investors continuously seek approaches that align with their financial goals and risk appetites. One critical area of focus is the calculation of costs and the determination of an average cost basis, particularly in the dynamic sphere of algorithmic trading. Understanding these financial concepts is crucial, as they significantly impact the profitability and efficiency of investments.

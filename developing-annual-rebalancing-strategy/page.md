@@ -1,6 +1,8 @@
 ---
-title: "Developing an Annual Rebalancing Strategy (Algo Trading)"
-description: "Develop your knowledge on annual rebalancing strategy and algorithmic trading to optimize investment portfolios balance risk and achieve financial goals."
+category: trading_strategy
+description: Develop your knowledge on annual rebalancing strategy and algorithmic
+  trading to optimize investment portfolios balance risk and achieve financial goals.
+title: Developing an Annual Rebalancing Strategy (Algo Trading)
 ---
 
 In the ever-evolving world of investment, staying aligned with financial goals while managing risk requires a strategic approach. One important method is annual rebalancing, a key component of effective portfolio management. This process involves periodically adjusting the allocation of assets in a portfolio to maintain a desired level of risk and return. The significance of this strategy lies in its ability to realign investments with an investor's original goals, ensuring the portfolio does not drift due to market fluctuations.

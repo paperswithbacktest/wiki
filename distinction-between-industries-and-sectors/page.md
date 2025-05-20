@@ -1,6 +1,9 @@
 ---
-title: "Distinction Between Industries and Sectors (Algo Trading)"
-description: "Understand how distinguishing between sectors and industries can optimize algorithmic trading strategies. Enhance trade execution and portfolio management in dynamic markets."
+category: quant_concept
+description: Understand how distinguishing between sectors and industries can optimize
+  algorithmic trading strategies. Enhance trade execution and portfolio management
+  in dynamic markets.
+title: Distinction Between Industries and Sectors (Algo Trading)
 ---
 
 Algorithmic trading represents a shift from traditional trading methods, fundamentally altering how trades are executed through the use of advanced computational techniques. This transformation is driven by the ability of algorithms to process vast amounts of data quickly and to execute trades in fractions of a second. Such capabilities allow traders and financial institutions to identify and exploit market opportunities with precision and efficiency.

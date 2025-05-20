@@ -1,6 +1,9 @@
 ---
-title: "Cryptocurrency Difficulty and Bitcoin Example (Algo Trading)"
-description: "Explore the intricate dynamics of cryptocurrency mining and algorithmic trading Learn how mining difficulty impacts Bitcoin's economic model and trading strategies"
+category: quant_concept
+description: Explore the intricate dynamics of cryptocurrency mining and algorithmic
+  trading Learn how mining difficulty impacts Bitcoin's economic model and trading
+  strategies
+title: Cryptocurrency Difficulty and Bitcoin Example (Algo Trading)
 ---
 
 The world of cryptocurrency is vast and multifaceted, with blockchain technology at its core. This innovative technology underpins a decentralized digital ledger system where all transactions are securely recorded, facilitating transparency and reducing the reliance on central authorities. Mining, the process by which cryptocurrencies are created, is a crucial component of blockchain networks. Miners solve complex cryptographic puzzles to validate transactions and, in return, earn new cryptocurrency units. This process not only ensures network security but also governs the issuance of new coins.

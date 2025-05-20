@@ -1,10 +1,9 @@
 ---
-title: Understanding Retrieval-Augmented Generation in Machine Learning
+category: quant_concept
 description: Retrieval-Augmented Generation combines AI retrieval and generative models
   to deliver accurate up-to-date responses. Discover more inside today.
+title: Understanding Retrieval-Augmented Generation in Machine Learning
 ---
-
-
 
 ## Table of Contents
 

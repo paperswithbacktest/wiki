@@ -1,6 +1,9 @@
 ---
-title: "Price Taker in Perfect Competition (Algo Trading)"
-description: "Explore the interconnectedness of price takers, perfect competition, and algorithmic trading in economic theory and financial markets, enhancing market efficiency."
+category: quant_concept
+description: Explore the interconnectedness of price takers, perfect competition,
+  and algorithmic trading in economic theory and financial markets, enhancing market
+  efficiency.
+title: Price Taker in Perfect Competition (Algo Trading)
 ---
 
 Price takers, perfect competition, and algorithmic trading are integral components of economic theory and modern financial markets. Perfect competition is a theoretical market structure characterized by a large number of small firms or individuals who sell identical products, meaning no single entity can influence prices. In such markets, firms are considered price takers—they accept the market price as given because their individual transactions are insufficient to sway it. This contrasts with monopolistic or oligopolistic markets where firms can exert some degree of price control.

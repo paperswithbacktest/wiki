@@ -1,6 +1,8 @@
 ---
-title: "Investing in a Stock Index (Algo Trading)"
-description: "Explore integrating index fund investing with algorithmic trading for enhanced portfolio management, improved trade execution, and market exposure."
+category: trading_strategy
+description: Explore integrating index fund investing with algorithmic trading for
+  enhanced portfolio management, improved trade execution, and market exposure.
+title: Investing in a Stock Index (Algo Trading)
 ---
 
 In the constantly changing landscape of financial markets, integrating traditional investment methods with advanced technology creates a fertile ground for novel investment opportunities. This article explores the combination of index funds, stock index investing, and algorithmic trading, emphasizing their potential to improve investment strategies. 

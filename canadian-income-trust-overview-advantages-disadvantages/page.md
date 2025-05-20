@@ -1,6 +1,8 @@
 ---
-title: "Canadian Income Trust: Overview, Advantages, and Disadvantages (Algo Trading)"
-description: "Explore the strengths and challenges of Canadian Income Trusts, including structure advantages and how 2011 tax reforms transformed their investment appeal."
+category: trading_strategy
+description: Explore the strengths and challenges of Canadian Income Trusts, including
+  structure advantages and how 2011 tax reforms transformed their investment appeal.
+title: 'Canadian Income Trust: Overview, Advantages, and Disadvantages (Algo Trading)'
 ---
 
 Canadian Income Trusts have historically been popular among investors seeking consistent income streams. These trusts were structured to own income-producing assets and distribute the generated income directly to shareholders, bypassing the corporate tax level that regular corporations are subject to. This structure created a tax-efficient means for income distribution, making these trusts particularly attractive to investors, including non-resident and tax-exempt entities.

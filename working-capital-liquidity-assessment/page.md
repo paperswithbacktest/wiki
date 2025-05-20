@@ -1,6 +1,8 @@
 ---
-title: "Working Capital and Liquidity Assessment (Algo Trading)"
-description: "Discover how liquidity and working capital influence algorithmic trading strategies and enhance trade execution in dynamic financial markets."
+category: quant_concept
+description: Discover how liquidity and working capital influence algorithmic trading
+  strategies and enhance trade execution in dynamic financial markets.
+title: Working Capital and Liquidity Assessment (Algo Trading)
 ---
 
 In today's fast-paced financial markets, the concepts of liquidity, working capital, and algorithmic trading are becoming increasingly intertwined. The evolving landscape of global finance necessitates a comprehensive understanding of these elements, which significantly influence financial analysis and trading strategies. Liquidity, a measure of a company's ability to meet short-term obligations, and working capital, the differential between current assets and current liabilities, serve as critical indicators of a company's financial health and operational efficiency.

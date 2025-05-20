@@ -1,6 +1,8 @@
 ---
-title: "Short Sale Against the Box (Algo Trading)"
-description: "Explore the integration of short selling in algorithmic trading to maximize profits in fluctuating markets Discover strategies for informed and efficient trading"
+category: trading_strategy
+description: Explore the integration of short selling in algorithmic trading to maximize
+  profits in fluctuating markets Discover strategies for informed and efficient trading
+title: Short Sale Against the Box (Algo Trading)
 ---
 
 Short selling is an intricate investment strategy that involves selling a security that the trader does not currently own, with the intention of buying it back later at a lower price. This approach is fundamentally based on the belief that the price of the security will decline, allowing the trader to profit from the difference between the initial selling price and the eventual lower repurchase price. In the context of today's financial markets, understanding short selling is crucial due to its impact on market behavior, price movements, and overall market efficiency.

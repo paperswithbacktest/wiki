@@ -1,6 +1,9 @@
 ---
-title: "Reasons for Stocks Without Par Value (Algo Trading)"
-description: "Explore the significance of no-par value stocks and algorithmic trading in today's financial markets. Learn how these elements impact investment decisions and strategies."
+category: quant_concept
+description: Explore the significance of no-par value stocks and algorithmic trading
+  in today's financial markets. Learn how these elements impact investment decisions
+  and strategies.
+title: Reasons for Stocks Without Par Value (Algo Trading)
 ---
 
 Understanding the dynamics of financial markets involves key concepts such as stocks, par value, and algorithmic trading. These elements form the cornerstone of modern finance, influencing investment decisions and shaping financial strategies. Stocks represent ownership stakes in corporations and are fundamental assets in investment portfolios. Par value, though often misunderstood, denotes the nominal value assigned to a stock at issuance. Despite its diminished relevance in modern markets, par value holds legal significance, impacting the financial structuring of corporations.

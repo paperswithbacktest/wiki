@@ -1,6 +1,9 @@
 ---
-title: "Liability Matching: Explanation and Mechanism (Algo Trading)"
-description: "Discover how liability matching and algorithmic trading work together to enhance investment strategies ensuring financial commitments are met while optimizing returns."
+category: quant_concept
+description: Discover how liability matching and algorithmic trading work together
+  to enhance investment strategies ensuring financial commitments are met while optimizing
+  returns.
+title: 'Liability Matching: Explanation and Mechanism (Algo Trading)'
 ---
 
 The ever-evolving landscape of financial management demands robust and adaptable strategies. This is imperative as global markets become increasingly complex, necessitating an agile approach to capital allocation and risk mitigation. Investment management serves as a cornerstone in this environment, aligning financial objectives with market opportunities to optimize returns and ensure financial stability. Central to this discipline are the practices of liability matching and algorithmic trading, each serving distinct yet complementary roles. 

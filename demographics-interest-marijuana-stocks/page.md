@@ -1,6 +1,8 @@
 ---
-title: "Demographics and Interest in Marijuana Stocks (Algo Trading)"
-description: "Explore the dynamics of marijuana stocks as diverse demographics and algorithmic trading shape the evolving investment landscape amid shifting regulations."
+category: trading_strategy
+description: Explore the dynamics of marijuana stocks as diverse demographics and
+  algorithmic trading shape the evolving investment landscape amid shifting regulations.
+title: Demographics and Interest in Marijuana Stocks (Algo Trading)
 ---
 
 The cannabis industry has gained prominence in global markets as investment and trading opportunities grow. This evolution can be primarily attributed to the rising popularity of marijuana stocks, warranting attention for both unique opportunities and inherent challenges. As regulatory environments shift and public acceptance increases, the cannabis market dynamics evolve, attracting diverse investors from varying backgrounds.

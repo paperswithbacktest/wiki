@@ -1,6 +1,8 @@
 ---
-title: "Ownership of Stock Exchanges (Algo Trading)"
-description: "Explore the impact of stock exchange ownership models on global finance and algorithmic trading Discover how these factors shape market dynamics and governance."
+category: quant_concept
+description: Explore the impact of stock exchange ownership models on global finance
+  and algorithmic trading Discover how these factors shape market dynamics and governance.
+title: Ownership of Stock Exchanges (Algo Trading)
 ---
 
 Stock exchanges are pivotal institutions in global finance, serving as platforms where securities are bought and sold. They function as crucial intermediaries that facilitate capital flow between investors and companies seeking to raise funds. The operations of stock exchanges are deeply intertwined with ownership structures and financial mechanisms. Ownership models of stock exchanges, whether traditional or demutualized, significantly influence how these institutions are governed and how they formulate policies. For instance, demutualized exchanges, which are often publicly listed, prioritize shareholder value and typically adopt more competitive and profit-oriented strategies compared to their mutually-owned counterparts. 

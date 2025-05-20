@@ -1,6 +1,9 @@
 ---
-title: "Proposals for California Secession (Algo Trading)"
-description: "Explore the prospects of California secession and its potential impact on politics, economy, and society Learn about Calexit's feasibility and technological implications"
+category: quant_concept
+description: Explore the prospects of California secession and its potential impact
+  on politics, economy, and society Learn about Calexit's feasibility and technological
+  implications
+title: Proposals for California Secession (Algo Trading)
 ---
 
 The term 'Calexit' has gained traction in recent years, drawing parallels with movements such as Brexit. At its core, Calexit encapsulates the proposition of California seceding from the United States to establish itself as an independent nation. The movement reflects a confluence of political, economic, and social dynamics, as stakeholders weigh the potential ramifications of independence for the state. Inspired by historical precedents and contemporary global trends, Calexit has stimulated a series of debates about the feasibility and implications of such a bold political maneuver.

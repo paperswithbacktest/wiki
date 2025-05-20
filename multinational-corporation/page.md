@@ -1,6 +1,9 @@
 ---
-title: "Multinational Corporation (Algo Trading)"
-description: "Explore the synergy of multinational corporations and algorithmic trading reshaping global finance by enhancing efficiency, market response, and strategic operations."
+category: quant_concept
+description: Explore the synergy of multinational corporations and algorithmic trading
+  reshaping global finance by enhancing efficiency, market response, and strategic
+  operations.
+title: Multinational Corporation (Algo Trading)
 ---
 
 In the rapidly evolving global economic landscape, multinational corporations (MNCs) have assumed a central role. These entities operate across various countries and sectors, driving economic integration and international investment. An integral development accompanying MNCs' growth is the advent of algorithmic trading, or algo trading. This technology has revolutionized financial markets, enabling MNCs to perform trading operations with unprecedented speed and precision. 

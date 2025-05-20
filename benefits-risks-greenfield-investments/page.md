@@ -1,6 +1,8 @@
 ---
-title: "Benefits and Risks of Greenfield Investments (Algo Trading)"
-description: "Discover the benefits and risks of greenfield investments and algorithmic trading in foreign direct investments Explore their impact on global economic strategy"
+category: quant_concept
+description: Discover the benefits and risks of greenfield investments and algorithmic
+  trading in foreign direct investments Explore their impact on global economic strategy
+title: Benefits and Risks of Greenfield Investments (Algo Trading)
 ---
 
 Greenfield investments and algorithmic trading are significant components in the landscape of foreign direct investments (FDI). These investment strategies represent distinct yet interconnected dimensions, each offering opportunities and challenges that merit detailed consideration.
@@ -96,4 +98,3 @@ Caves, R. E. (1996). *Multinational Enterprise and Economic Analysis*. Cambridge
 Lopez de Prado, M. (2018). *Advances in Financial Machine Learning*. Wiley. This book is an essential resource for understanding the innovative applications of machine learning in finance, including algorithmic trading. It covers techniques that can be leveraged to evaluate investment opportunities, optimize trading strategies, and improve the predictive accuracy of financial models, making it particularly relevant for assessing the merits of greenfield investments using data-driven approaches.
 
 Dunning, J. H. (1992). *Multinational Enterprises and the Global Economy*. Addison-Wesley. Dunning's comprehensive examination of the global economy offers valuable insights into the strategies of multinational corporations. It discusses various factors influencing foreign investments, such as the role of technology, market conditions, and geopolitical considerations. This book serves as a critical reference for understanding the broader context within which greenfield investments occur, as well as the impact of algorithmic trading on FDI strategy.
-

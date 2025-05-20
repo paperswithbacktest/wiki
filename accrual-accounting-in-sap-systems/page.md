@@ -1,6 +1,8 @@
 ---
-title: "Accrual Accounting in SAP Systems (Algo Trading)"
-description: "Explore accrual accounting in SAP systems and its integration with algorithmic trading for enhanced financial management and operational efficiency."
+category: quant_concept
+description: Explore accrual accounting in SAP systems and its integration with algorithmic
+  trading for enhanced financial management and operational efficiency.
+title: Accrual Accounting in SAP Systems (Algo Trading)
 ---
 
 In today's rapidly evolving financial landscape, harnessing technological solutions is crucial for sustaining both efficiency and competitiveness. Among the pivotal areas transforming the financial sector are financial management, SAP accrual accounting, and algorithmic trading. Each of these domains contributes uniquely to the optimization of financial processes, enhancing strategic decision-making and operational prowess.

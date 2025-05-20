@@ -1,6 +1,8 @@
 ---
-title: "MACD in Detecting Market Trend Reversals (Algo Trading)"
-description: "Discover how the Moving Average Convergence Divergence (MACD) indicator aids in detecting market trend reversals enhancing algorithmic trading strategies."
+category: trading_strategy
+description: Discover how the Moving Average Convergence Divergence (MACD) indicator
+  aids in detecting market trend reversals enhancing algorithmic trading strategies.
+title: MACD in Detecting Market Trend Reversals (Algo Trading)
 ---
 
 The Moving Average Convergence Divergence (MACD) is a widely utilized technical analysis tool among traders aiming to identify potential trend reversals within financial markets. This indicator's popularity is rooted in its ability to provide insight into momentum shifts and trend changes, which are critical in making informed trading decisions. This article aims to provide a comprehensive examination of how the MACD can effectively be employed in market analysis and algorithmic trading to detect trend reversals.

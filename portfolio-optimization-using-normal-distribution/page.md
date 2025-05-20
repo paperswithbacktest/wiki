@@ -1,6 +1,9 @@
 ---
-title: "Portfolio Optimization Using Normal Distribution (Algo Trading)"
-description: "Optimize your investment strategy by integrating normal distribution with algorithmic trading. Discover how statistical models enhance risk management and returns."
+category: trading_strategy
+description: Optimize your investment strategy by integrating normal distribution
+  with algorithmic trading. Discover how statistical models enhance risk management
+  and returns.
+title: Portfolio Optimization Using Normal Distribution (Algo Trading)
 ---
 
 Investment strategy and portfolio optimization are key elements in achieving desirable financial outcomes. In an increasingly complex financial market, having a well-structured approach to investing is essential for managing risk and maximizing returns. One significant aspect of investment strategy is the integration of statistical principles, notably the normal distribution, with algorithmic trading.

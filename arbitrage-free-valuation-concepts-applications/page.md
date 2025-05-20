@@ -1,6 +1,9 @@
 ---
-title: "Arbitrage-Free Valuation: Concepts and Applications (Algo Trading)"
-description: "Explore arbitrage-free valuation and its role in algo trading Discover how this method ensures fair pricing and unlocks profit opportunities in financial markets"
+category: quant_concept
+description: Explore arbitrage-free valuation and its role in algo trading Discover
+  how this method ensures fair pricing and unlocks profit opportunities in financial
+  markets
+title: 'Arbitrage-Free Valuation: Concepts and Applications (Algo Trading)'
 ---
 
 Arbitrage in financial markets is a strategy that involves simultaneously buying and selling a security, commodity, or currency in different markets to exploit price differences. The aim is to generate profit without a net investment or risk, leveraging the disparity in prices between markets. Typically, such opportunities arise due to inefficiencies or discrepancies in the pricing of identical or related financial instruments across diverse venues.

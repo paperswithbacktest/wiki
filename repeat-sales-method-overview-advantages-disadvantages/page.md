@@ -1,6 +1,8 @@
 ---
-title: "Repeat-Sales Method: Overview, Advantages, and Disadvantages (Algo Trading)"
-description: "Explore the repeat-sales method in real estate valuation its advantages and limitations and how it impacts market perception and trading strategies."
+category: quant_concept
+description: Explore the repeat-sales method in real estate valuation its advantages
+  and limitations and how it impacts market perception and trading strategies.
+title: 'Repeat-Sales Method: Overview, Advantages, and Disadvantages (Algo Trading)'
 ---
 
 The real estate market serves as a key economic indicator, significantly influencing consumer confidence and spending behaviors. Its dynamic nature, marked by fluctuating prices and varied property characteristics, makes the accurate assessment of true property value a complex task. Accurate valuation is crucial, not only for buyers and sellers but also for investors and industry professionals who rely on these evaluations for informed decision-making.

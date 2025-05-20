@@ -1,6 +1,8 @@
 ---
-title: "Currency Substitution: Types and Risks (Algo Trading)"
-description: "Explore the complexities of currency substitution in global finance Learn about its types and risks alongside the impacts of monetary policy and algo trading"
+category: quant_concept
+description: Explore the complexities of currency substitution in global finance Learn
+  about its types and risks alongside the impacts of monetary policy and algo trading
+title: 'Currency Substitution: Types and Risks (Algo Trading)'
 ---
 
 In today's global economy, the interconnected dynamics of financial risks, monetary policy, currency substitution, and algorithmic trading are pivotal factors shaping the financial landscape. Understanding these elements is essential for grasping how modern financial systems operate and evolve.

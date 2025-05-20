@@ -1,6 +1,8 @@
 ---
-title: "Relative Valuation Models: Steps and Types (Algo Trading)"
-description: "Explore the steps and types of relative valuation models in algo trading and learn how these tools influence investment strategies and market dynamics."
+category: quant_concept
+description: Explore the steps and types of relative valuation models in algo trading
+  and learn how these tools influence investment strategies and market dynamics.
+title: 'Relative Valuation Models: Steps and Types (Algo Trading)'
 ---
 
 Financial analysis is a fundamental component of investment decision-making, providing investors with the tools necessary to evaluate financial data and make informed choices. It involves the examination of financial statements, such as balance sheets, income statements, and cash flow statements, to assess a company's performance and predict future financial health. By analyzing key financial ratios and trends, investors can identify potential investment opportunities and risks, ultimately guiding the allocation of capital in a way that maximizes returns and minimizes losses.

@@ -1,8 +1,9 @@
 ---
-title: Understanding Layers in Machine Learning Models
+category: quant_concept
 description: Layer in machine learning organizes complex computations into step by
   step processing to boost model training efficiency and prediction accuracy Discover
   more inside
+title: Understanding Layers in Machine Learning Models
 ---
 
 ![Image](images/1.png)

@@ -1,6 +1,8 @@
 ---
-title: "Days Working Capital (Algo Trading)"
-description: "Explore how financial metrics, working capital, and algorithmic trading optimize business finance, enhance liquidity, and strengthen market strategies."
+category: quant_concept
+description: Explore how financial metrics, working capital, and algorithmic trading
+  optimize business finance, enhance liquidity, and strengthen market strategies.
+title: Days Working Capital (Algo Trading)
 ---
 
 Financial metrics, business finance, working capital, and algorithmic trading are integral components of the modern financial landscape. Each element plays a unique role in evaluating business performance, ensuring liquidity, and optimizing trading strategies. These components are essential for businesses and investors looking to navigate the complex environment of today’s financial markets.

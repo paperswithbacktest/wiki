@@ -1,6 +1,8 @@
 ---
-title: "European Callable Bonds: Mechanism and Functionality (Algo Trading)"
-description: "Explore the intricacies of European callable bonds and algorithmic trading to optimize portfolio performance. Understand their mechanisms, benefits, and risks."
+category: quant_concept
+description: Explore the intricacies of European callable bonds and algorithmic trading
+  to optimize portfolio performance. Understand their mechanisms, benefits, and risks.
+title: 'European Callable Bonds: Mechanism and Functionality (Algo Trading)'
 ---
 
 In this article, we explore the complex world of European callable bonds and algorithmic trading. These financial instruments offer unique opportunities and present distinct challenges for investors. By focusing on the functionality, mechanisms, and strategic optimizations associated with these bonds through algorithmic trading, investors can potentially enhance their portfolio performance and manage associated risks more effectively.

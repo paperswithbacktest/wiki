@@ -1,6 +1,9 @@
 ---
-title: "Diner's Dilemma: Concept and Mechanism (Algo Trading)"
-description: "Explore how the diner's dilemma in game theory impacts algorithmic trading showcasing how individual decisions can lead to suboptimal market outcomes and strategies to counteract them."
+category: quant_concept
+description: Explore how the diner's dilemma in game theory impacts algorithmic trading
+  showcasing how individual decisions can lead to suboptimal market outcomes and strategies
+  to counteract them.
+title: 'Diner''s Dilemma: Concept and Mechanism (Algo Trading)'
 ---
 
 In the intersection of game theory, decision-making, and algorithmic trading, unique dilemmas arise that are reflective of everyday economic interactions. Game theory, a mathematical framework for understanding strategic interactions, provides insights into how individuals or entities make decisions that involve interdependent outcomes. One such dilemma is the 'Diner's Dilemma,' a fascinating concept illustrating how personal incentives can clash with collective well-being. It mimics real-world financial decisions, particularly within investment and trading contexts.

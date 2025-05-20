@@ -1,6 +1,9 @@
 ---
-title: "Horizontal Well: Overview and Operation (Algo Trading)"
-description: "Discover the synergy of horizontal well drilling and algorithmic trading Explore how these two advanced technologies enhance operational efficiency and strategic advantages"
+category: quant_concept
+description: Discover the synergy of horizontal well drilling and algorithmic trading
+  Explore how these two advanced technologies enhance operational efficiency and strategic
+  advantages
+title: 'Horizontal Well: Overview and Operation (Algo Trading)'
 ---
 
 The integration of advanced drilling technology and algorithmic trading has sparked a revolution in how both industries operate. In recent years, the convergence of these seemingly disparate fields has opened new avenues for operational excellence and strategic advantages. At the heart of this transformation is horizontal well drilling technology, which provides significant improvements over traditional drilling methods. This technology, characterized by drilling non-vertical wells to increase exposure to the oil and gas reservoir, has dramatically enhanced resource extraction efficiency.

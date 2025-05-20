@@ -1,6 +1,8 @@
 ---
-title: "Original Issue Discount: Formula and Applications (Algo Trading)"
-description: "Explore the significance of Original Issue Discount in finance including its calculation and applications in algorithmic trading to optimize bond investments."
+category: quant_concept
+description: Explore the significance of Original Issue Discount in finance including
+  its calculation and applications in algorithmic trading to optimize bond investments.
+title: 'Original Issue Discount: Formula and Applications (Algo Trading)'
 ---
 
 Understanding complex financial concepts such as the Original Issue Discount (OID) is important in finance. OID refers to the difference between a bond's face value and its lower initial price. This concept is crucial for investors and issuers, as it impacts yields, pricing strategies, and even tax implications. This article will focus on OID, how it is calculated, and its application in trading, especially algorithmic trading. We will provide examples of how OID is used in financial markets, showcasing its integration with algorithmic trading strategies. By the end of this article, readers will gain a comprehensive understanding of OID, its significance, and its modern relevance.

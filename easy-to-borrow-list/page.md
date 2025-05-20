@@ -1,6 +1,9 @@
 ---
-title: "Easy-To-Borrow List (Algo Trading)"
-description: "Explore the dynamics of securities lending and algorithmic trading Discover how these crucial components bolster liquidity optimize trading strategies and drive market efficiency"
+category: dataset
+description: Explore the dynamics of securities lending and algorithmic trading Discover
+  how these crucial components bolster liquidity optimize trading strategies and drive
+  market efficiency
+title: Easy-To-Borrow List (Algo Trading)
 ---
 
 The financial markets constitute multifaceted ecosystems where a series of strategies and instruments synchronize to bolster liquidity and enhance market efficiency. These complex interactions play a pivotal role in the stability and functionality of economies worldwide. Through an intricate web of buying, selling, lending, and borrowing, market participants, ranging from individual investors to large institutions, seek to maximize returns while managing risks effectively. 

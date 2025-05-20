@@ -1,6 +1,8 @@
 ---
-title: "Retainer Fee: Functions and Applications (Algo Trading)"
-description: "Learn about the role and benefits of retainer fees in algo trading Stay compliant address legal matters swiftly with expert support ensuring smooth operations"
+category: quant_concept
+description: Learn about the role and benefits of retainer fees in algo trading Stay
+  compliant address legal matters swiftly with expert support ensuring smooth operations
+title: 'Retainer Fee: Functions and Applications (Algo Trading)'
 ---
 
 Algorithmic trading, commonly referred to as algo trading, involves using computer algorithms to make trading decisions at speeds and frequencies that are impossible for human traders. As this form of trading continues to dominate financial markets, the legal considerations surrounding it have become increasingly critical. Compliance with regulatory standards and the protection of stakeholders' interests are paramount in this technology-driven trading landscape.

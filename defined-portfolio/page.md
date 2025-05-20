@@ -1,6 +1,8 @@
 ---
-title: "Defined Portfolio (Algo Trading)"
-description: "Explore how algorithmic trading transforms portfolio management by boosting precision and speed to optimize returns and align investment strategies."
+category: trading_strategy
+description: Explore how algorithmic trading transforms portfolio management by boosting
+  precision and speed to optimize returns and align investment strategies.
+title: Defined Portfolio (Algo Trading)
 ---
 
 In today's dynamic financial landscape, investment portfolios are fundamental to effective wealth management. These portfolios, comprising a diverse array of financial assets, serve as the bedrock upon which individuals and institutions build and grow their financial wealth. Investment strategies continually evolve, and one of the most transformative developments in recent times is algorithmic trading. This integration of technology into portfolio management has revolutionized how assets are managed and optimized for better returns.

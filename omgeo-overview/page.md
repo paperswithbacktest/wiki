@@ -1,6 +1,9 @@
 ---
-title: "Omgeo Overview (Algo Trading)"
-description: "Omgeo revolutionizes post-trade processing in the financial industry by automating trade workflows, enhancing efficiency, reducing errors, and supporting algorithmic trading."
+category: quant_concept
+description: Omgeo revolutionizes post-trade processing in the financial industry
+  by automating trade workflows, enhancing efficiency, reducing errors, and supporting
+  algorithmic trading.
+title: Omgeo Overview (Algo Trading)
 ---
 
 The financial services industry is undergoing significant transformation, particularly in the post-trade processing domain, driven by advancements in technology and the increasing prevalence of algorithmic trading. At the core of this evolution is Omgeo, a subsidiary of the Depository Trust & Clearing Corporation (DTCC), which plays a pivotal role in enhancing the efficiency of post-trade operations. Omgeo provides automated solutions that streamline various aspects of trade processing, such as trade allocation, confirmation, and settlement, thereby reducing time consumption and minimizing errors in trade workflows.

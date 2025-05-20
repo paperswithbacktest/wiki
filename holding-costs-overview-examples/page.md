@@ -1,6 +1,8 @@
 ---
-title: "Holding Costs: Overview and Examples (Algo Trading)"
-description: "Explore the significance of holding costs in inventory management and algorithmic trading Learn strategies to optimize inventory expenses and boost profitability"
+category: quant_concept
+description: Explore the significance of holding costs in inventory management and
+  algorithmic trading Learn strategies to optimize inventory expenses and boost profitability
+title: 'Holding Costs: Overview and Examples (Algo Trading)'
 ---
 
 Inventory management plays a pivotal role in determining a company's profitability and operational efficiency. It involves the systematic administration of processes such as ordering, storing, and utilizing a company's inventory to ensure that the right quantity of the right product is available at the right time. Central to this administration are inventory costs, which include holding costs and carrying costs. These costs, representing the expenses associated with unsold goods, can significantly impact an organization's financial health and operational decisions. As such, understanding and managing these costs are key to enhancing inventory management effectiveness.
@@ -106,4 +108,3 @@ Academic articles often provide case studies and empirical analyses that support
 Online resources such as the Inventory Management Review and the Algo Trading Group offer current news, updates, and community discussions on best practices in both fields. These platforms serve as valuable resources for professionals looking to stay informed about the latest trends, tools, and techniques that can aid in reducing inventory carrying costs while enhancing trading performance.
 
 By leveraging a combination of reputable [books](/wiki/algo-trading-books), articles, and online resources, businesses can effectively manage inventory costs and gain a competitive edge in algorithmic trading.
-

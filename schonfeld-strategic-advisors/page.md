@@ -1,6 +1,15 @@
 ---
-title: "Schonfeld Strategic Advisors (Algo Trading)"
-description: Schonfeld Strategic Advisors, a leading hedge fund headquartered in New York City, is renowned for its expert use of algorithmic trading techniques. With a history dating back to 1988, the firm has evolved into a multi-strategy powerhouse managing approximately $13.8 billion in assets as of 2023. Under the leadership of CEO Ryan Tolkin, Schonfeld leverages technology and innovation to thrive in diverse financial markets, employing sophisticated algorithms and data-driven strategies to achieve superior returns. As a prominent player in the global financial landscape, the firm continues to expand its influence, underscored by strategic acquisitions and a commitment to compliance and sustainable growth.
+category: trading_strategy
+description: Schonfeld Strategic Advisors, a leading hedge fund headquartered in New
+  York City, is renowned for its expert use of algorithmic trading techniques. With
+  a history dating back to 1988, the firm has evolved into a multi-strategy powerhouse
+  managing approximately $13.8 billion in assets as of 2023. Under the leadership
+  of CEO Ryan Tolkin, Schonfeld leverages technology and innovation to thrive in diverse
+  financial markets, employing sophisticated algorithms and data-driven strategies
+  to achieve superior returns. As a prominent player in the global financial landscape,
+  the firm continues to expand its influence, underscored by strategic acquisitions
+  and a commitment to compliance and sustainable growth.
+title: Schonfeld Strategic Advisors (Algo Trading)
 ---
 
 Schonfeld Strategic Advisors, headquartered at 590 Madison Avenue in New York City, stands as a prominent figure in the hedge fund industry, recognized for its proficient integration of algorithmic trading techniques. Established in 1988 by Steven Schonfeld, the firm initially operated as a proprietary trading entity. Over the years, it has undergone significant transformation, evolving into a multi-strategy hedge fund that adeptly navigates various financial markets and instruments.

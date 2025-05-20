@@ -1,6 +1,9 @@
 ---
-title: "Credit Sweep: Overview and Mechanism (Algo Trading)"
-description: "Explore how credit sweep strategies and algorithmic trading are revolutionizing financial management offering businesses and investors enhanced efficiency and cost savings."
+category: trading_strategy
+description: Explore how credit sweep strategies and algorithmic trading are revolutionizing
+  financial management offering businesses and investors enhanced efficiency and cost
+  savings.
+title: 'Credit Sweep: Overview and Mechanism (Algo Trading)'
 ---
 
 The world of finance is in a perpetual state of transformation, with technological advancements playing a pivotal role in reshaping traditional banking and financial management practices. Banking services no longer revolve solely around basic transactions but have expanded to encompass a wide array of financial management solutions. This article examines the integration and functionality of modern banking services, financial management tools, credit sweep strategies, and algorithmic trading. A comprehensive understanding of these concepts is essential for both businesses and investors aiming to enhance their financial strategies and minimize costs.

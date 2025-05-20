@@ -1,6 +1,9 @@
 ---
-title: "Triangles in Continuation Patterns (Algo Trading)"
-description: "Explore the role of triangle patterns in algorithmic trading to enhance your strategy. Learn to identify these powerful chart formations for better market analysis."
+category: trading_strategy
+description: Explore the role of triangle patterns in algorithmic trading to enhance
+  your strategy. Learn to identify these powerful chart formations for better market
+  analysis.
+title: Triangles in Continuation Patterns (Algo Trading)
 ---
 
 The world of trading and investments encompasses a vast array of strategies and tools designed to analyze and interpret market trends. Among these strategies, technical analysis holds a prominent position due to its focus on historical price movements and patterns. Within technical analysis, chart patterns serve as vital indicators for predicting price direction and market behavior. One significant category of these patterns is the triangle pattern, which forms part of the continuation patterns used by traders to forecast future price movements.

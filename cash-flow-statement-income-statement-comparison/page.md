@@ -1,6 +1,9 @@
 ---
-title: "Cash Flow Statement and Income Statement Comparison (Algo Trading)"
-description: "Compare cash flow and income statements for better algorithmic trading decisions Discover insights into profitability and liquidity to maximize investment returns"
+category: quant_concept
+description: Compare cash flow and income statements for better algorithmic trading
+  decisions Discover insights into profitability and liquidity to maximize investment
+  returns
+title: Cash Flow Statement and Income Statement Comparison (Algo Trading)
 ---
 
 Understanding financial documents is crucial for anyone engaged in algorithmic trading and investing. These documents provide the foundation for evaluating a company's financial performance and formulating trading strategies aimed at maximizing returns. Among these documents, the income statement and cash flow statement stand out as integral components. 

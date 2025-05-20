@@ -1,6 +1,8 @@
 ---
-title: "Mean-Variance Optimization (Algo Trading)"
-description: "Optimize your algorithmic trading with Mean-Variance Optimization, balancing risk and return to maximize portfolio efficiency based on MVO fundamentals."
+category: quant_concept
+description: Optimize your algorithmic trading with Mean-Variance Optimization, balancing
+  risk and return to maximize portfolio efficiency based on MVO fundamentals.
+title: Mean-Variance Optimization (Algo Trading)
 ---
 
 Mean-Variance Optimization (MVO) stands as a fundamental element of modern portfolio theory, extensively utilized in finance for the purpose of optimizing portfolios. This technique is particularly significant in the sphere of algorithmic trading, offering practical applications that are crucial for contemporary financial strategies. The concept of MVO was pioneered by Harry Markowitz in the 1950s and underlines the essential balance between risk and return – a core consideration in investment analysis.

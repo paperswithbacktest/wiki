@@ -1,6 +1,9 @@
 ---
-title: "Introduction to Investing in Precious Metals (Algo Trading)"
-description: "Explore investing in precious metals such as gold and silver through physical assets and algorithmic trading Gain insights into diversification and market strategies"
+category: trading_strategy
+description: Explore investing in precious metals such as gold and silver through
+  physical assets and algorithmic trading Gain insights into diversification and market
+  strategies
+title: Introduction to Investing in Precious Metals (Algo Trading)
 ---
 
 Investing in precious metals such as gold, silver, platinum, and palladium provides both novice and experienced investors with a diverse array of opportunities for portfolio expansion. These metals have long been valued for their intrinsic worth and their ability to act as a safeguard against inflation and economic instabilities. Gold, for instance, has been a universal symbol of wealth and a standard for currency for centuries, while silver has been highly sought after for its industrial applications and as a store of value. Platinum and palladium, often used in automotive and manufacturing industries, have gained prominence due to their unique properties and scarcity.

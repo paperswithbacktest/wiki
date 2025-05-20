@@ -1,6 +1,9 @@
 ---
-title: "Financial Capital and Economic Capital: Differences (Algo Trading)"
-description: "Explore the differences between financial and economic capital in the context of algorithmic trading Learn how these capitals drive strategies and mitigate risks."
+category: quant_concept
+description: Explore the differences between financial and economic capital in the
+  context of algorithmic trading Learn how these capitals drive strategies and mitigate
+  risks.
+title: 'Financial Capital and Economic Capital: Differences (Algo Trading)'
 ---
 
 The modern financial landscape is characterized by rapid technological advancements and shifting economic paradigms, with financial and economic capital playing pivotal roles, particularly in algorithmic trading. As businesses and investors navigate these changes, distinguishing between financial capital and economic capital becomes crucial. Financial capital primarily consists of monetary assets used to generate goods or services, often categorized into debt and equity forms. These assets fuel business operations and drive future growth by establishing financial leverage.

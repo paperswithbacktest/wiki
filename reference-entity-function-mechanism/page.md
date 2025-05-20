@@ -1,6 +1,9 @@
 ---
-title: "Reference Entity: Function and Mechanism (Algo Trading)"
-description: "Explore the integration of credit derivatives and algorithmic trading in modern financial markets Learn how these tools enhance risk management and market efficiency"
+category: quant_concept
+description: Explore the integration of credit derivatives and algorithmic trading
+  in modern financial markets Learn how these tools enhance risk management and market
+  efficiency
+title: 'Reference Entity: Function and Mechanism (Algo Trading)'
 ---
 
 Financial markets have undergone a significant transformation with the advent of complex financial instruments and advanced trading technologies. Among these innovations, credit derivatives, such as credit default swaps (CDS), are pivotal in managing and transferring credit risk. CDS contracts allow parties to protect against or speculate on the creditworthiness of a reference entity by providing a payout if a specified credit event occurs.

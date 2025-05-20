@@ -1,6 +1,9 @@
 ---
-title: "Market Perform Rating (Algo Trading)"
-description: "Master the nuances of market perform ratings in investment and algorithmic trading Navigate financial analysis for informed decisions and optimize trading strategies."
+category: quant_concept
+description: Master the nuances of market perform ratings in investment and algorithmic
+  trading Navigate financial analysis for informed decisions and optimize trading
+  strategies.
+title: Market Perform Rating (Algo Trading)
 ---
 
 In finance, mastering the intricacies of investment ratings and algorithmic trading has become essential for modern investors. With markets evolving rapidly, the ability to interpret and act on financial data can significantly impact investment outcomes. This article addresses the importance of understanding 'market perform' ratings, an essential tool for evaluating how a stock is expected to perform relative to the market. It serves as a neutral benchmark, distinct from more decisive 'buy' or 'sell' recommendations.

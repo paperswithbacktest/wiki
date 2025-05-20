@@ -1,6 +1,8 @@
 ---
-title: "Hedge Ratio and Types (Algo Trading)"
-description: "Enhance your investment strategy by mastering hedge ratios and algorithmic trading for optimized portfolio management and effective risk control."
+category: quant_concept
+description: Enhance your investment strategy by mastering hedge ratios and algorithmic
+  trading for optimized portfolio management and effective risk control.
+title: Hedge Ratio and Types (Algo Trading)
 ---
 
 Understanding various financial ratios and strategies is crucial for enhancing decision-making in finance and investment. By employing concepts such as hedge ratios, financial ratios, investment strategies, and algorithmic trading, investors can significantly improve their ability to optimize portfolios and manage risk. 

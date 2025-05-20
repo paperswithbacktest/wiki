@@ -1,6 +1,8 @@
 ---
-title: "Compound Interest: Definition, Calculation, and Examples (Algo Trading)"
-description: "Explore compound interest to enhance savings and investments with exponential growth through reinvestment strategies and algorithmic trading methods."
+category: quant_concept
+description: Explore compound interest to enhance savings and investments with exponential
+  growth through reinvestment strategies and algorithmic trading methods.
+title: 'Compound Interest: Definition, Calculation, and Examples (Algo Trading)'
 ---
 
 Understanding the mechanics of interest calculation is fundamental in personal finance and investment. Interest calculations, particularly compound interest, play a crucial role in determining the growth potential of savings and investments. This article will explore various financial formulas, with a specific focus on compound interest. Compound interest is a powerful concept whereby earned interest is reinvested to generate additional earnings. This process results in exponential financial growth as the accumulated interest from previous periods starts to earn interest on its own.
@@ -247,4 +249,3 @@ For further understanding of compound interest and algorithmic trading, several 
 6. **Research Papers**: Academic journals often publish the latest research on financial mathematics and trading algorithms. Accessing platforms like JSTOR or Google Scholar can provide valuable case studies and empirical analyses that contribute significantly to a deep understanding of these topics.
 
 These resources can provide valuable guidance and help develop both the theoretical and practical skills necessary to master compound interest and algorithmic trading.
-

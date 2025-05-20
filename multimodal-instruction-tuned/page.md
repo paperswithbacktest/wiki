@@ -1,7 +1,8 @@
 ---
-title: Understanding Multimodal Instruction-Tuned Learning Models
+category: quant_concept
 description: Multimodal instruction-tuned machine learning integrates text images
   and audio to deliver accurate context aware AI responses Discover more inside
+title: Understanding Multimodal Instruction-Tuned Learning Models
 ---
 
 ![Image](images/1.png)

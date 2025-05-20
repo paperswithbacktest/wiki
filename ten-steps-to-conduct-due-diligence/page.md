@@ -1,6 +1,9 @@
 ---
-title: "Ten Steps to Conduct Due Diligence (Algo Trading)"
-description: "Optimize your algo trading success with these 10 steps to conduct due diligence focusing on risk management and business process evaluations for robust strategies."
+category: trading_strategy
+description: Optimize your algo trading success with these 10 steps to conduct due
+  diligence focusing on risk management and business process evaluations for robust
+  strategies.
+title: Ten Steps to Conduct Due Diligence (Algo Trading)
 ---
 
 Algorithmic trading, commonly known as algo trading, has fundamentally transformed financial markets by employing sophisticated algorithms to automate trading decisions and processes. This automation facilitates unprecedented trading speeds and volume management, far surpassing the capabilities of manual trading. As a result, algorithmic trading has gained a dominant position, accounting for a significant portion of trading volumes on global financial exchanges.

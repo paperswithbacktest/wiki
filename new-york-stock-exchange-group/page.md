@@ -1,6 +1,9 @@
 ---
-title: "New York Stock Exchange Group (Algo Trading)"
-description: "Explore the impact of algorithmic trading on the New York Stock Exchange with insights into its speed and efficiency, challenges, and benefits in today's markets."
+category: quant_concept
+description: Explore the impact of algorithmic trading on the New York Stock Exchange
+  with insights into its speed and efficiency, challenges, and benefits in today's
+  markets.
+title: New York Stock Exchange Group (Algo Trading)
 ---
 
 The fast-paced environment of today's financial markets underscores the significance of algorithmic trading (algo trading) on major platforms like the New York Stock Exchange (NYSE). Algo trading utilizes sophisticated algorithms and high-speed data processing to execute trades with remarkable speed and efficiency, fundamentally transforming traditional trading practices that heavily relied on human judgment and slower execution times.
@@ -90,4 +93,3 @@ Keeping abreast of technological advancements and regulatory developments is cri
 6. Jansen, S. 'Machine Learning for Algorithmic Trading.' This book serves as a comprehensive guide on using machine learning techniques to enhance trading algorithms, covering a range of methods from basic models to more complex deep learning architectures.
 
 7. Chan, E. P. 'Quantitative Trading: How to Build Your Own Algorithmic Trading Business.' Chan provides a practical perspective on establishing an algorithmic trading firm, detailing aspects such as strategy formulation, risk management, and the technological framework required to succeed in the trading industry.
-

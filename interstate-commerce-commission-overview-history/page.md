@@ -1,6 +1,8 @@
 ---
-title: "Interstate Commerce Commission: Overview and History (Algo Trading)"
-description: "Explore the role of the Interstate Commerce Commission in U.S. regulatory history from overseeing transportation to its impact on algorithmic trading."
+category: quant_concept
+description: Explore the role of the Interstate Commerce Commission in U.S. regulatory
+  history from overseeing transportation to its impact on algorithmic trading.
+title: 'Interstate Commerce Commission: Overview and History (Algo Trading)'
 ---
 
 The Interstate Commerce Commission (ICC) played a crucial role in overseeing and regulating interstate transportation from its establishment in 1887 until its dissolution in 1995. As the first federal regulatory agency in the United States, the ICC was initially tasked with ensuring fair rates and practices within the railroad industry. The creation of the ICC marked a significant shift in the federal government's approach to commerce, setting a precedent for future regulatory frameworks.

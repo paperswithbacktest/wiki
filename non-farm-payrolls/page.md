@@ -1,6 +1,12 @@
 ---
-title: "Non-Farm Payrolls (Algo Trading)"
-description: "Explore the intersection of non-farm payrolls and algorithmic trading to understand their impact on financial markets. Discover how real-time employment data drives trading strategies and market movements, and learn the significance of non-farm payrolls in assessing economic health. This article investigates into the evolving role of labor statistics in influencing trade decisions and financial performance in an era of advanced trading technologies."
+category: quant_concept
+description: Explore the intersection of non-farm payrolls and algorithmic trading
+  to understand their impact on financial markets. Discover how real-time employment
+  data drives trading strategies and market movements, and learn the significance
+  of non-farm payrolls in assessing economic health. This article investigates into
+  the evolving role of labor statistics in influencing trade decisions and financial
+  performance in an era of advanced trading technologies.
+title: Non-Farm Payrolls (Algo Trading)
 ---
 
 The job market functions as a pivotal indicator of a country's economic health, offering insights through labor statistics into employment trends that influence both local economies and global financial markets. Labor statistics encompass a wide array of data, including employment rates, sector-specific job growth, and unemployment figures, all of which reflect the underlying economic conditions. These statistics serve not only as a measure of economic stability but also as tools for predicting future economic performance.

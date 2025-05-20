@@ -1,7 +1,8 @@
 ---
-title: Ensuring Fairness And Transparency With Objective Machine Learning
+category: quant_concept
 description: Objective machine learning ensures models meet clear goals for fairness
   transparency and accuracy while building trust in decisions Discover more inside.
+title: Ensuring Fairness And Transparency With Objective Machine Learning
 ---
 
 ![Image](images/1.png)

@@ -1,6 +1,8 @@
 ---
-title: "Measurement of Utility in Economics (Algo Trading)"
-description: "Explore the fusion of economic utility measurement and algorithmic trading Discover how these concepts enhance trading strategies and drive market efficiency"
+category: quant_concept
+description: Explore the fusion of economic utility measurement and algorithmic trading
+  Discover how these concepts enhance trading strategies and drive market efficiency
+title: Measurement of Utility in Economics (Algo Trading)
 ---
 
 In the intersection of economics and trading, utility measurement and algorithmic trading play crucial roles in shaping modern financial markets. Utility serves as a conceptual framework to quantify and analyze consumer satisfaction, acting as a cornerstone in understanding decision-making processes. In trading, algorithmic systems provide a structured and efficient means to execute transactions, incorporating complex data analysis and high-speed operations.
@@ -237,4 +239,3 @@ Markowitz, H. (1952). "Portfolio Selection." The Journal of Finance. This founda
 Kahneman, D., & Tversky, A. (1979). "Prospect Theory: An Analysis of Decision under Risk." Econometrica. This paper challenges traditional economic models of rational behavior by demonstrating that people value gains and losses differently, leading to decision-making anomalies. It explains how human cognitive biases affect perception of risk, providing insight into investor behavior beyond the expected utility theory.
 
 Lopez de Prado, M. (2018). "Advances in Financial Machine Learning." Wiley. This book combines finance and machine learning, presenting algorithmic methodologies to improve financial strategies. Lopez de Prado offers practical insights on implementing machine learning techniques in trading, which enhance data processing, risk management, and decision-making capabilities.
-

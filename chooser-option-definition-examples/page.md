@@ -1,6 +1,9 @@
 ---
-title: "Chooser Option: Definition and Examples (Algo Trading)"
-description: "Explore chooser options in algorithmic trading which offer flexibility and adaptability in volatile markets. Learn how these exotic options enhance strategic investment decisions."
+category: quant_concept
+description: Explore chooser options in algorithmic trading which offer flexibility
+  and adaptability in volatile markets. Learn how these exotic options enhance strategic
+  investment decisions.
+title: 'Chooser Option: Definition and Examples (Algo Trading)'
 ---
 
 Financial derivatives have transformed the landscape of modern finance by providing sophisticated tools that enable traders and investors to manage risk, speculate on market movements, and enhance portfolio returns. Among these instruments, options stand out as versatile contracts giving holders the right, though not the obligation, to buy or sell an underlying asset at a predetermined price within a specific timeframe. This flexibility makes options a powerful instrument for a wide range of financial strategies.

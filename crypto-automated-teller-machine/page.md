@@ -1,6 +1,8 @@
 ---
-title: "Crypto Automated Teller Machine (Algo Trading)"
-description: "Experience the future of finance with crypto ATMs and algorithmic trading Automate and optimize your cryptocurrency transactions with speed and security"
+category: trading_strategy
+description: Experience the future of finance with crypto ATMs and algorithmic trading
+  Automate and optimize your cryptocurrency transactions with speed and security
+title: Crypto Automated Teller Machine (Algo Trading)
 ---
 
 The financial technology landscape has undergone significant transformations in recent years, primarily driven by the advent of digital currencies. These digital assets, powered by blockchain technology, are revolutionizing how financial transactions are conducted, offering new levels of efficiency, security, and transparency. At the forefront of this revolution are digital currency kiosks, cryptocurrency, crypto ATMs, and algorithmic (algo) trading.

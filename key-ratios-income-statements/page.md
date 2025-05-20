@@ -1,6 +1,8 @@
 ---
-title: "Key Ratios in Income Statements (Algo Trading)"
-description: "Explore key financial ratios essential for evaluating a company's financial health in income statements and algorithmic trading, enhancing investment decision-making."
+category: quant_concept
+description: Explore key financial ratios essential for evaluating a company's financial
+  health in income statements and algorithmic trading, enhancing investment decision-making.
+title: Key Ratios in Income Statements (Algo Trading)
 ---
 
 Financial, accounting, and income statement ratios are fundamental tools in the analysis of a company's financial health. These ratios examine different facets of a company’s operations, providing insights into its profitability, liquidity, solvency, and operational efficiency. For investors, analysts, and managers, these metrics are critical for making informed decisions, ensuring that their evaluations are grounded in quantitative assessments.

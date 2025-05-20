@@ -1,6 +1,14 @@
 ---
-title: "An Introduction to Value at Risk Methodologies"
-description: Discover the essentials of Value at Risk (VaR) in risk management with this comprehensive guide. Understand how VaR serves as a key tool in evaluating potential losses in portfolio management systems, especially critical in algorithmic trading. Explore various VaR calculation methodologies including historical simulation, parametric methods, and Monte Carlo simulations, each offering unique insights into risk assessment. Learn about the assumptions, advantages, and limitations of these methods to enhance your risk management strategies and ensure sustainable portfolio performance in the dynamic financial markets.
+category: quant_concept
+description: Discover the essentials of Value at Risk (VaR) in risk management with
+  this comprehensive guide. Understand how VaR serves as a key tool in evaluating
+  potential losses in portfolio management systems, especially critical in algorithmic
+  trading. Explore various VaR calculation methodologies including historical simulation,
+  parametric methods, and Monte Carlo simulations, each offering unique insights into
+  risk assessment. Learn about the assumptions, advantages, and limitations of these
+  methods to enhance your risk management strategies and ensure sustainable portfolio
+  performance in the dynamic financial markets.
+title: An Introduction to Value at Risk Methodologies
 ---
 
 Value at Risk (VaR) represents a fundamental tool in risk management, particularly useful in evaluating potential losses within portfolio management systems. This is especially pertinent in algorithmic trading, where swift market movements require precise and robust risk assessment methodologies. VaR measures the maximum potential loss in the value of a financial portfolio, with a specific probability, over a designated period. Such quantifications are done under the assumption of normal market conditions. It is pivotal for traders and risk managers to possess a clear understanding of VaR to anticipate and mitigate risks effectively.

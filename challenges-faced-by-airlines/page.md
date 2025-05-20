@@ -1,6 +1,9 @@
 ---
-title: "Challenges Faced by Airlines (Algo Trading)"
-description: "Explore how airlines navigate financial challenges such as fuel price volatility and regulatory demands using algorithmic trading to optimize financial strategies."
+category: quant_concept
+description: Explore how airlines navigate financial challenges such as fuel price
+  volatility and regulatory demands using algorithmic trading to optimize financial
+  strategies.
+title: Challenges Faced by Airlines (Algo Trading)
 ---
 
 The airline industry represents a vital sector within the global economy, constantly grappling with financial challenges that threaten its stability and growth. Airlines face a multitude of hurdles that complicate their pursuit of profitability. Global events remain unpredictable, with incidents such as geopolitical conflicts and health pandemics disrupting operations and reducing passenger demand. These disruptions lead to significant revenue losses, as seen during major events like the COVID-19 pandemic.

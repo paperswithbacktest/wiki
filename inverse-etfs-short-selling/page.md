@@ -1,6 +1,8 @@
 ---
-title: "Inverse ETFs and Short Selling (Algo Trading)"
-description: "Explore the dynamic world of inverse ETFs, short selling, and algorithmic trading to profit from declining markets and optimize your investment strategy."
+category: trading_strategy
+description: Explore the dynamic world of inverse ETFs, short selling, and algorithmic
+  trading to profit from declining markets and optimize your investment strategy.
+title: Inverse ETFs and Short Selling (Algo Trading)
 ---
 
 In the modern financial landscape, investment strategies such as inverse Exchange Traded Funds (ETFs), short selling, and algorithmic trading have become increasingly significant. These advanced techniques equip investors with tools to navigate and potentially profit from declining markets—a crucial skill in times of economic uncertainty and volatility. By setting these strategies as focal points, investors can manage risks more adeptly and take advantage of diverse market conditions.

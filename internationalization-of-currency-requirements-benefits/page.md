@@ -1,6 +1,10 @@
 ---
-title: "Internationalization of Currency: Definition, Requirements, and Benefits (Algo Trading)"
-description: "Explore how currency internationalization enhances global trade and economic stability, and discover the efficiency gains from algorithmic trading in currency markets."
+category: quant_concept
+description: Explore how currency internationalization enhances global trade and economic
+  stability, and discover the efficiency gains from algorithmic trading in currency
+  markets.
+title: 'Internationalization of Currency: Definition, Requirements, and Benefits (Algo
+  Trading)'
 ---
 
 The global economy is increasingly interconnected, with currency internationalization and algorithmic trading playing crucial roles in shaping modern financial markets. Currency internationalization involves the widespread use of a country's currency beyond its borders, significantly influencing global trade and economic stability. This process transforms a domestic currency into a preferred choice for international transactions, reserves, and investment, thus enhancing its global economic influence and stability. Examples of prominent international currencies include the U.S. Dollar (USD), Euro (EUR), and Japanese Yen (JPY), which are widely used for international trade settlements and held as reserve currencies by central banks worldwide.
@@ -118,4 +122,3 @@ References:
 - International Monetary Fund (IMF). (2023). Global Currency Reserves. Retrieved from https://www.imf.org
 - Bank for International Settlements (BIS). (2023). Economic Implications of Currency Use. Retrieved from https://www.bis.org
 - Lee, J., Kim, H., & Park, S. (2022). Machine Learning Applications in Algorithmic Trading. Journal of Financial Technology, 15(2), 100-120.
-

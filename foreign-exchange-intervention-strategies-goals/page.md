@@ -1,6 +1,13 @@
 ---
-title: "Foreign Exchange Intervention Strategies and Goals (Algo Trading)"
-description: "Explore the intricate relationship between foreign exchange intervention strategies and algorithmic trading. Delve into how central bank actions and algorithmic trading shape global markets while addressing challenges posed by rapid technological advancements. This article provides insights into the delicate balance of stabilizing currencies and fostering economic growth in a globalized economy, highlighting the strategies, objectives, and potential impacts on international trade and investment flows."
+category: trading_strategy
+description: Explore the intricate relationship between foreign exchange intervention
+  strategies and algorithmic trading. Delve into how central bank actions and algorithmic
+  trading shape global markets while addressing challenges posed by rapid technological
+  advancements. This article provides insights into the delicate balance of stabilizing
+  currencies and fostering economic growth in a globalized economy, highlighting the
+  strategies, objectives, and potential impacts on international trade and investment
+  flows.
+title: Foreign Exchange Intervention Strategies and Goals (Algo Trading)
 ---
 
 In recent years, the intricate interplay between foreign exchange, monetary policy, and currency intervention has garnered increased attention from both economists and investors. This focus is largely driven by the globalized nature of economies, where currency fluctuations can have significant impacts on international trade, investment flows, and economic stability. Foreign exchange (Forex) markets are influenced not only by supply and demand dynamics but also by strategic interventions orchestrated by central banks. These interventions aim to stabilize currencies, control inflation, or boost economic competitiveness, each with potential ramifications on domestic and international economic conditions.

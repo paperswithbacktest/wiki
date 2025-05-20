@@ -1,6 +1,13 @@
 ---
-title: "Fitch Ratings: Uses and Rating Scale (Algo Trading)"
-description: "Explore the role of Fitch Ratings in the financial landscape focusing on its credit rating scale and its impact on algorithmic trading. Discover how Fitch's ratings, alongside Moody's and Standard & Poor's, underpin investment decisions and market dynamics. Understand the integration of these ratings into trading models to navigate financial markets effectively and optimize investment strategies. Learn about the significance of Fitch's rating scale and its influence on borrowing costs, market perceptions, and investment outcomes."
+category: quant_concept
+description: Explore the role of Fitch Ratings in the financial landscape focusing
+  on its credit rating scale and its impact on algorithmic trading. Discover how Fitch's
+  ratings, alongside Moody's and Standard & Poor's, underpin investment decisions
+  and market dynamics. Understand the integration of these ratings into trading models
+  to navigate financial markets effectively and optimize investment strategies. Learn
+  about the significance of Fitch's rating scale and its influence on borrowing costs,
+  market perceptions, and investment outcomes.
+title: 'Fitch Ratings: Uses and Rating Scale (Algo Trading)'
 ---
 
 The world of finance is inherently complex, with myriad factors influencing investment decisions. Among the key players in providing critical financial information is Fitch Ratings, a pivotal institution in the global financial landscape. Fitch Ratings offers insights through its comprehensive financial ratings and credit rating scale, which are invaluable for investors seeking to make informed decisions. This article outlines Fitch Ratings and examines its role in financial markets, particularly focusing on its credit rating scale and the involvement of algorithmic trading in shaping investment strategies.

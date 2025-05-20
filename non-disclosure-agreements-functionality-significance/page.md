@@ -1,6 +1,9 @@
 ---
-title: "Non-Disclosure Agreements: Functionality and Significance (Algo Trading)"
-description: "Non-disclosure agreements are crucial for protecting confidential algorithmic trading strategies by preventing unauthorized disclosure and maintaining competitive advantage."
+category: quant_concept
+description: Non-disclosure agreements are crucial for protecting confidential algorithmic
+  trading strategies by preventing unauthorized disclosure and maintaining competitive
+  advantage.
+title: 'Non-Disclosure Agreements: Functionality and Significance (Algo Trading)'
 ---
 
 In today's fast-paced financial markets, algorithmic trading stands at the forefront of innovation and efficiency. This method involves using sophisticated mathematical models and algorithms to make high-speed trading decisions, allowing traders to capitalize on fleeting opportunities in the market. The speed and precision offered by algorithmic trading have made it an indispensable tool for hedge funds, investment banks, and other financial institutions. However, the competitive advantage these algorithms provide can only be maintained through stringent confidentiality measures.

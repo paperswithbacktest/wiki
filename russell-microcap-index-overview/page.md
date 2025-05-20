@@ -1,6 +1,9 @@
 ---
-title: "Russell Microcap Index Overview (Algo Trading)"
-description: "Explore the Russell Microcap Index and the role of algo trading in microcap markets Learn about investment opportunities and risks associated with microcap stocks"
+category: dataset
+description: Explore the Russell Microcap Index and the role of algo trading in microcap
+  markets Learn about investment opportunities and risks associated with microcap
+  stocks
+title: Russell Microcap Index Overview (Algo Trading)
 ---
 
 The world of stock market indices is vast and varied, encompassing a wide range of companies from heavyweight giants to the smallest of startups. Within this diverse landscape, microcap stocks occupy a unique and often overlooked segment of the market. These stocks represent companies with relatively low market capitalization—typically ranging from $50 million to $300 million. Despite their lesser-known status, microcap stocks offer significant opportunities and carry unique risks that appeal to certain segments of investors.

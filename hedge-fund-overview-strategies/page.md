@@ -1,6 +1,8 @@
 ---
-title: "Hedge Fund Overview and Strategies (Algo Trading)"
-description: "Explore the dynamic world of hedge funds and algorithmic trading uncovering strategies that drive modern investing and optimize returns through innovation."
+category: trading_strategy
+description: Explore the dynamic world of hedge funds and algorithmic trading uncovering
+  strategies that drive modern investing and optimize returns through innovation.
+title: Hedge Fund Overview and Strategies (Algo Trading)
 ---
 
 Investment strategies have seen significant evolution over the years, primarily fueled by advances in technology and financial innovation. These developments have reshaped how investors approach fund management and trading execution, creating diverse opportunities to maximize returns. Notably, hedge funds and algorithmic trading have emerged as pivotal players in the landscape of modern investing. These strategies are known for their unique approaches, which differentiate them from traditional forms of investment.

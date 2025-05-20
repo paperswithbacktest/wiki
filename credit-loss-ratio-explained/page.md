@@ -1,6 +1,9 @@
 ---
-title: "Credit Loss Ratio Explained (Algo Trading)"
-description: "Explore the significance of credit loss ratios in algorithmic trading risk management Learn how these metrics enhance strategy, efficiency and financial decision-making"
+category: quant_concept
+description: Explore the significance of credit loss ratios in algorithmic trading
+  risk management Learn how these metrics enhance strategy, efficiency and financial
+  decision-making
+title: Credit Loss Ratio Explained (Algo Trading)
 ---
 
 Understanding the dynamics of credit loss ratio risk management is crucial in today's volatile financial markets. The rapid evolution of financial products, coupled with increasing market complexity, necessitates robust risk management protocols, especially in algorithmic trading. Algorithmic trading involves the use of automated pre-programmed trading instructions to execute orders at high speed and volume. As such, the capacity to manage risk efficiently within this framework is essential to ensure sustainable trading outcomes.

@@ -1,6 +1,12 @@
 ---
-title: "Physical Capital: Types and Examples (Algo Trading)"
-description: "Explore the various types and examples of physical capital and algorithmic trading, illustrating how capital assets promote production and economic growth. Understand the role of tangible assets in industry efficiency and discover how advancements in algorithmic trading optimize financial operations. Gain insights into the evolving applications of capital in today's economy and the importance of strategic capital investment and management."
+category: quant_concept
+description: Explore the various types and examples of physical capital and algorithmic
+  trading, illustrating how capital assets promote production and economic growth.
+  Understand the role of tangible assets in industry efficiency and discover how advancements
+  in algorithmic trading optimize financial operations. Gain insights into the evolving
+  applications of capital in today's economy and the importance of strategic capital
+  investment and management.
+title: 'Physical Capital: Types and Examples (Algo Trading)'
 ---
 
 The concept of capital lies at the heart of both economic theory and practical application, serving as a cornerstone for production and economic growth. Capital, in economic terms, refers to the collection of assets that facilitate production and drive economic development. These assets come in various forms, each with unique functions and implications for the economy. In this article, we will explore these various types of capital, with a specific focus on physical capital and algorithmic trading, both of which serve as illustrative examples of how capital is manifested economically.

@@ -1,7 +1,8 @@
 ---
-title: Improving Model Accuracy With Label Correction Techniques
+category: quant_concept
 description: Label correction in machine learning fixes wrong data tags to boost model
   accuracy through aggregation and error modeling Discover more inside.
+title: Improving Model Accuracy With Label Correction Techniques
 ---
 
 ![Image](images/1.png)

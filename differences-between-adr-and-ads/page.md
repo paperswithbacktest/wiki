@@ -1,6 +1,8 @@
 ---
-title: "Differences Between ADR and ADS (Algo Trading)"
-description: "Explore the distinctions and connections between ADRs, ADSs, and algo trading to better understand their roles in shaping global financial markets."
+category: quant_concept
+description: Explore the distinctions and connections between ADRs, ADSs, and algo
+  trading to better understand their roles in shaping global financial markets.
+title: Differences Between ADR and ADS (Algo Trading)
 ---
 
 In the rapidly evolving financial markets, understanding the tools and mechanisms available to traders is crucial. As global finance becomes more interconnected, traders and investors need to navigate a complex array of financial instruments and technologies to optimize their strategies. Among the pivotal components in this landscape are American Depositary Receipts (ADRs) and American Depositary Shares (ADSs), which significantly facilitate international equity trading. ADRs enable investors in the United States to invest in foreign companies without dealing with foreign exchanges, while ADSs represent the underlying shares that ADRs convert into on the U.S. exchange.

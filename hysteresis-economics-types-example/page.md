@@ -1,6 +1,8 @@
 ---
-title: "Hysteresis in Economics: Types and Example (Algo Trading)"
-description: "Explore how hysteresis in economics impacts algorithmic trading where past economic shocks influence market conditions and trading strategies in finance."
+category: quant_concept
+description: Explore how hysteresis in economics impacts algorithmic trading where
+  past economic shocks influence market conditions and trading strategies in finance.
+title: 'Hysteresis in Economics: Types and Example (Algo Trading)'
 ---
 
 Hysteresis originally refers to a phenomenon in physics where the state of a system depends on its history. This concept has been adopted in economics to describe situations where temporary shocks can have permanent effects on the level of output or unemployment, even after those shocks have dissipated. In economic terms, hysteresis can manifest in labor markets where long-term unemployment leads to skill deterioration, permanently affecting employability and future workforce participation rates. Similarly, hysteresis in currency markets may occur when temporary policy measures leave lasting impacts on exchange rates.

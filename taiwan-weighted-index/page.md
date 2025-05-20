@@ -1,6 +1,8 @@
 ---
-title: "Taiwan Weighted Index (Algo Trading)"
-description: "Explore the TSEC Weighted Index and its role as a key benchmark for Taiwan's stock market performance. Learn about algorithmic trading impacts."
+category: quant_concept
+description: Explore the TSEC Weighted Index and its role as a key benchmark for Taiwan's
+  stock market performance. Learn about algorithmic trading impacts.
+title: Taiwan Weighted Index (Algo Trading)
 ---
 
 The TSEC Weighted Index serves as a crucial benchmark for the Taiwan Stock Exchange (TWSE), providing a comprehensive gauge of the performance of the largest companies listed on the exchange. By tracking these companies, the index offers investors a clear snapshot of overall market performance in Taiwan. For investors aiming to effectively navigate Taiwan's stock market, understanding the dynamics and implications of the TSEC Weighted Index is essential.

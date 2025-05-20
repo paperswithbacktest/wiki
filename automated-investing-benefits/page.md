@@ -1,6 +1,8 @@
 ---
-title: "Automated Investing and Its Benefits (Algo Trading)"
-description: "Discover the benefits and strategies of automated investing and algorithmic trading explore how these modern approaches can streamline your investment journey."
+category: trading_strategy
+description: Discover the benefits and strategies of automated investing and algorithmic
+  trading explore how these modern approaches can streamline your investment journey.
+title: Automated Investing and Its Benefits (Algo Trading)
 ---
 
 In the rapidly evolving world of finance, understanding investment strategies is crucial for both novice and seasoned investors. Investment strategies are essential as they lay the groundwork for achieving specific financial goals through informed decision-making processes. This article explores three key areas: personal finance, automated investing, and algorithmic trading.

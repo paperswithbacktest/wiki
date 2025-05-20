@@ -1,6 +1,8 @@
 ---
-title: "Philippine Peso: History and Exchange Rate Overview (Algo Trading)"
-description: "Explore the history and exchange rate dynamics of the Philippine Peso (PHP) in algorithmic trading, offering insights into trading strategies."
+category: quant_concept
+description: Explore the history and exchange rate dynamics of the Philippine Peso
+  (PHP) in algorithmic trading, offering insights into trading strategies.
+title: 'Philippine Peso: History and Exchange Rate Overview (Algo Trading)'
 ---
 
 The global financial markets have witnessed significant transformations over the decades, with forex trading emerging as a cornerstone interest area for investors and traders. As technological advancements continue to reshape trading methodologies, algorithmic trading has become increasingly relevant, especially in the context of diverse currencies such as the Philippine Peso (PHP). This article examines the profound importance of the PHP within the broad forex landscape and its implications in algorithmic trading.

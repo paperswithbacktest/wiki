@@ -1,6 +1,8 @@
 ---
-title: "Roger B. Myerson (Algo Trading)"
-description: "Explore Roger B. Myerson's impact in economics with insights into game theory and mechanism design's role in shaping algorithmic trading strategies."
+category: quant_concept
+description: Explore Roger B. Myerson's impact in economics with insights into game
+  theory and mechanism design's role in shaping algorithmic trading strategies.
+title: Roger B. Myerson (Algo Trading)
 ---
 
 Roger Myerson is a distinguished economist renowned for his seminal contributions to game theory and mechanism design. These areas of study provide critical insights into strategic interactions among rational decision-makers and the creation of economic mechanisms to achieve desired outcomes. Myerson's work has profoundly influenced the contours of modern economics and has substantial applications in algorithmic trading systems, reshaping how markets and institutions function.

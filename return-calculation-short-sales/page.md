@@ -1,6 +1,9 @@
 ---
-title: "Return Calculation on Short Sales (Algo Trading)"
-description: "Explore how short sales in algorithmic trading offer profit from market declines by borrowing and selling securities with advanced strategies and precision execution."
+category: trading_strategy
+description: Explore how short sales in algorithmic trading offer profit from market
+  declines by borrowing and selling securities with advanced strategies and precision
+  execution.
+title: Return Calculation on Short Sales (Algo Trading)
 ---
 
 Short selling is an investment or trading strategy that speculates on the decline in the price of a stock or other security. This strategy involves borrowing shares of the asset from a brokerage firm and selling them on the open market with the intention of buying them back later at a lower price. The short seller aims to profit from the difference between the higher selling price and the lower buying price. Short sales are particularly relevant in today's financial markets due to their role in providing liquidity, contributing to price discovery, and enabling hedging activities. They offer investors the possibility to profit from falling markets and serve as a tool for managing risk.

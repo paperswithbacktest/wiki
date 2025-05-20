@@ -1,6 +1,8 @@
 ---
-title: "Bull and Bear Markets: Differences (Algo Trading)"
-description: "Discover the key differences between bull and bear markets and how algorithmic trading helps investors navigate market trends and optimize strategies."
+category: quant_concept
+description: Discover the key differences between bull and bear markets and how algorithmic
+  trading helps investors navigate market trends and optimize strategies.
+title: 'Bull and Bear Markets: Differences (Algo Trading)'
 ---
 
 Understanding the fundamental concepts of bear and bull markets is essential for anyone involved in investing or trading. These terms describe opposing market conditions—bull markets denote a period of rising asset prices typically associated with robust economic growth and positive investor sentiment, while bear markets reflect declining asset prices, often coupled with economic downturns and negative investor sentiment. Recognizing these patterns allows investors to develop informed strategies that align with the prevailing market climate.

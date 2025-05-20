@@ -1,6 +1,8 @@
 ---
-title: "Maturity Mismatch in Finance (Algo Trading)"
-description: "Explore the concept of maturity mismatch in finance learn risk management strategies and discover how algorithmic trading helps optimize liquidity and portfolios."
+category: quant_concept
+description: Explore the concept of maturity mismatch in finance learn risk management
+  strategies and discover how algorithmic trading helps optimize liquidity and portfolios.
+title: Maturity Mismatch in Finance (Algo Trading)
 ---
 
 The finance sector deals with a variety of risks, particularly those concerning the alignment of assets and liabilities, a concept known as maturity mismatch. Maturity mismatch occurs when a financial institution's short-term liabilities exceed its short-term assets, potentially leading to liquidity issues. This imbalance can pose significant challenges, as institutions may face difficulties meeting their obligations if their assets do not mature in time to cover their liabilities.

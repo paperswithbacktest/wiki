@@ -1,6 +1,9 @@
 ---
-title: "Commerce vs Business and Trade (Algo Trading)"
-description: "Explore the impact of algorithmic trading on modern commerce and trade. Discover how algo trading optimizes transaction speed, efficiency, and strategic decision-making."
+category: quant_concept
+description: Explore the impact of algorithmic trading on modern commerce and trade.
+  Discover how algo trading optimizes transaction speed, efficiency, and strategic
+  decision-making.
+title: Commerce vs Business and Trade (Algo Trading)
 ---
 
 In recent years, algorithmic trading, often referred to as 'algo trading', has significantly transformed trade and commerce. This transformation is especially apparent in how financial markets operate today—marked by high-speed transactions and increased market volatility. Algorithmic trading involves using computer algorithms to automatically execute trades based on specific, predefined criteria. This technology-driven approach seeks to optimize the speed and efficiency of trading processes by capitalizing on market inefficiencies that human traders may miss due to slower reaction times or emotional biases.

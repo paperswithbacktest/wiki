@@ -1,6 +1,8 @@
 ---
-title: "Electronic Trading Systems (Algo Trading)"
-description: "Discover how electronic and algorithmic trading are revolutionizing financial markets with faster execution speeds and enhanced tools for traders and investors."
+category: quant_concept
+description: Discover how electronic and algorithmic trading are revolutionizing financial
+  markets with faster execution speeds and enhanced tools for traders and investors.
+title: Electronic Trading Systems (Algo Trading)
 ---
 
 In today's rapidly evolving financial markets, technological advancements have carved a new path for traders and investors, fundamentally altering traditional methods of trade execution and analysis. Electronic trading, trading platforms, and algorithmic trading have emerged as pivotal elements, revolutionizing the landscape of financial markets and providing investors with enhanced tools to optimize their trading strategies. 

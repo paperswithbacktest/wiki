@@ -1,6 +1,9 @@
 ---
-title: "Realized Yield and Its Varieties (Algo Trading)"
-description: "Explore the essentials of realized yield and algorithmic trading Learn about yield types like bond and dividend yield and their role in optimizing investment strategies"
+category: quant_concept
+description: Explore the essentials of realized yield and algorithmic trading Learn
+  about yield types like bond and dividend yield and their role in optimizing investment
+  strategies
+title: Realized Yield and Its Varieties (Algo Trading)
 ---
 
 In the financial markets, understanding yield types and financial concepts is crucial for investors and traders seeking to maximize returns. Yield types, such as realized yield, bond yield, and dividend yield, offer valuable insights into the profitability and risk associated with financial instruments. These yield calculations help investors evaluate expected versus actual performance, providing a foundation for sound decision-making.
@@ -180,4 +183,3 @@ For investors and traders, continuous education and adaptation to new technologi
       - Coursera’s “Introduction to Finance: [Financial Markets](https://www.coursera.org/learn/financial-markets)” by Yale University. This course offers foundational knowledge necessary for understanding yields and financial market dynamics.
 
 These resources provide extensive knowledge and practical insights into realized yield, different yield types, and their application in algorithmic trading, equipping readers with the necessary tools to navigate and succeed in modern financial markets.
-

@@ -1,6 +1,9 @@
 ---
-title: "International Trade Rules and Commercial Policy (Algo Trading)"
-description: "Explore the crucial influence of international trade rules and commercial policy especially in algorithmic trading shaping global commerce and governing cross-border trade activities."
+category: quant_concept
+description: Explore the crucial influence of international trade rules and commercial
+  policy especially in algorithmic trading shaping global commerce and governing cross-border
+  trade activities.
+title: International Trade Rules and Commercial Policy (Algo Trading)
 ---
 
 International trade policies are pivotal in shaping the global economy, acting as the set of rules and standards that govern trade activities across national borders. These policies dictate how countries interact economically, affecting everything from the flow of goods and services to the stability of currencies. At the core, international trade involves a complex system of commercial policies, trade agreements, and regulatory frameworks, each contributing to the bustling ecosystem of global commerce.

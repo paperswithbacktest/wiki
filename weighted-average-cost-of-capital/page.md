@@ -1,6 +1,11 @@
 ---
-title: "Weighted Average Cost of Capital (Algo Trading)"
-description: "Explore the significance of the Weighted Average Cost of Capital (WACC) in corporate finance and algorithmic trading. Discover how WACC acts as a vital benchmark for investment decisions and capital structure management. Learn how integrating WACC in trading algorithms enhances decision-making by evaluating the cost of capital for optimized investment opportunities."
+category: quant_concept
+description: Explore the significance of the Weighted Average Cost of Capital (WACC)
+  in corporate finance and algorithmic trading. Discover how WACC acts as a vital
+  benchmark for investment decisions and capital structure management. Learn how integrating
+  WACC in trading algorithms enhances decision-making by evaluating the cost of capital
+  for optimized investment opportunities.
+title: Weighted Average Cost of Capital (Algo Trading)
 ---
 
 Understanding financial concepts and metrics is essential for anyone engaged in corporate finance or investment. Among these, the Weighted Average Cost of Capital (WACC) stands out as a fundamental metric. WACC represents the average rate of return required to satisfy both investors and debt holders of a company. The significance of WACC extends beyond a mere monetary figure; it serves as a compass for various financial strategies and investment decisions.

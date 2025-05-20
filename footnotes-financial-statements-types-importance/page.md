@@ -1,6 +1,8 @@
 ---
-title: "Footnotes to Financial Statements: Types and Importance (Algo Trading)"
-description: "Discover the intricacies of financial footnotes and their critical role in algorithmic trading. Unlock insights for strategic decision-making in finance."
+category: quant_concept
+description: Discover the intricacies of financial footnotes and their critical role
+  in algorithmic trading. Unlock insights for strategic decision-making in finance.
+title: 'Footnotes to Financial Statements: Types and Importance (Algo Trading)'
 ---
 
 In today's complex financial world, understanding the intricate details of financial statements is crucial. This includes not only the main financial reports but also the footnotes that accompany them. Financial footnotes serve as an indispensable resource by offering comprehensive details that illuminate a company's overall financial status. Despite their importance, these notes are frequently overlooked yet contain critical information that may highlight potential issues or opportunities within a company's financial framework. 

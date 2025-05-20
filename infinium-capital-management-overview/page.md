@@ -1,6 +1,9 @@
 ---
-title: "Infinium Capital Management Overview (Algo Trading)"
-description: "Discover Infinium Capital Management's transformative journey in innovative algorithmic trading and asset management, setting industry standards since 2001 from Chicago and New York."
+category: quant_concept
+description: Discover Infinium Capital Management's transformative journey in innovative
+  algorithmic trading and asset management, setting industry standards since 2001
+  from Chicago and New York.
+title: Infinium Capital Management Overview (Algo Trading)
 ---
 
 Infinium Capital Management LLC emerged as a notable entity in the financial sector, particularly in the domains of proprietary trading and asset management. Established in 2001, the firm quickly positioned itself as an innovator in algorithmic trading, leveraging technology to transform trading strategies. Its headquarters were strategically located in Chicago and New York, two of the world's financial epicenters, which provided a robust platform for engaging with diverse markets.

@@ -1,6 +1,9 @@
 ---
-title: "Notable Investments by Bain Capital (Algo Trading)"
-description: "Explore Bain Capital's notable investments in fintech and algorithmic trading as this global firm embraces technology-driven strategies to redefine investment practices."
+category: trading_strategy
+description: Explore Bain Capital's notable investments in fintech and algorithmic
+  trading as this global firm embraces technology-driven strategies to redefine investment
+  practices.
+title: Notable Investments by Bain Capital (Algo Trading)
 ---
 
 Bain Capital, a Boston-based global alternative investment firm established in 1984, has made significant advancements in the investment sector. The firm is widely recognized for its diverse range of investments across multiple industries, including technology, finance, and retail. In recent years, Bain Capital has demonstrated a particular interest in algorithmic trading and financial technology (fintech) firms. This shift reflects a broader industry trend towards adopting automated and data-driven investment strategies, which are transforming traditional financial practices.

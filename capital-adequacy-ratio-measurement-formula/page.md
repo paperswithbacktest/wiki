@@ -1,6 +1,8 @@
 ---
-title: "Capital Adequacy Ratio: Measurement and Formula (Algo Trading)"
-description: "Explore the intricacies of the Capital Adequacy Ratio an essential banking metric reflecting financial stability through regulatory compliance and risk management."
+category: quant_concept
+description: Explore the intricacies of the Capital Adequacy Ratio an essential banking
+  metric reflecting financial stability through regulatory compliance and risk management.
+title: 'Capital Adequacy Ratio: Measurement and Formula (Algo Trading)'
 ---
 
 The intricate realms of banking, finance, and regulatory practices encompass a wide array of elements that collectively maintain the functionality and stability of financial systems globally. Banking metrics serve as fundamental indicators in assessing the financial health and operational efficiency of financial institutions. They provide vital insights into areas such as liquidity, profitability, and risk exposure.

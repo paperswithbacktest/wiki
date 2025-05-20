@@ -1,6 +1,8 @@
 ---
-title: "Black Tuesday: History and Impact (Algo Trading)"
-description: "Explore Black Tuesday's history and impact on financial markets as it triggered the Great Depression and led to market regulation and modern trading evolution."
+category: quant_concept
+description: Explore Black Tuesday's history and impact on financial markets as it
+  triggered the Great Depression and led to market regulation and modern trading evolution.
+title: 'Black Tuesday: History and Impact (Algo Trading)'
 ---
 
 Black Tuesday, marked on October 29, 1929, stands as a pivotal moment in the history of financial markets, signifying a catastrophic stock market crash that heralded the onset of the Great Depression. This day was characterized by a frenzied sell-off of stocks on the New York Stock Exchange, resulting in monumental financial losses, a shattered sense of economic optimism, and the obliteration of personal fortunes. As stock prices plummeted, the Dow Jones Industrial Average fell nearly 12% in one day, cementing Black Tuesday’s legacy as a symbol of financial disaster.

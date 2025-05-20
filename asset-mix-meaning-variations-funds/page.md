@@ -1,6 +1,9 @@
 ---
-title: "Asset Mix: Meaning, Variations, and Funds (Algo Trading)"
-description: "Explore the dynamics of asset mix strategies and algorithmic trading to optimize investment portfolios balancing risk and return for better financial outcomes."
+category: trading_strategy
+description: Explore the dynamics of asset mix strategies and algorithmic trading
+  to optimize investment portfolios balancing risk and return for better financial
+  outcomes.
+title: 'Asset Mix: Meaning, Variations, and Funds (Algo Trading)'
 ---
 
 Investment funds are designed to cater to various financial goals through a diversified portfolio of assets. The core objective of these funds is to optimize investment returns while managing risks, which is primarily achieved by implementing robust asset mix strategies. An asset mix strategy involves allocating portions of the investment portfolio among different asset classes, such as equities, fixed income, and real estate, to balance risk and reward according to the investor's financial objectives and risk tolerance. 

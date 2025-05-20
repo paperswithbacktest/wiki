@@ -1,6 +1,8 @@
 ---
-title: "Public Offering: Types and SEC Regulations (Algo Trading)"
-description: "Explore the types of public offerings, like IPOs and secondary offerings, and the SEC regulations guiding them, vital for investors and businesses alike."
+category: quant_concept
+description: Explore the types of public offerings, like IPOs and secondary offerings,
+  and the SEC regulations guiding them, vital for investors and businesses alike.
+title: 'Public Offering: Types and SEC Regulations (Algo Trading)'
 ---
 
 Public offerings play a pivotal role in the economic landscape, providing a mechanism for companies to access vital funds and for investors to broaden their investment portfolios. By offering shares to the public, companies can generate substantial capital required for various purposes such as expansion, operational enhancements, and strategic investments. This influx of capital is essential for businesses seeking growth and innovation, contributing to a dynamic economic environment.

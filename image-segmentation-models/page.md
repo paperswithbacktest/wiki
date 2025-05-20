@@ -1,7 +1,8 @@
 ---
-title: Understanding Image Segmentation in Machine Learning Models
+category: quant_concept
 description: Image Segmentation in machine learning divides images into meaningful
   segments for medical, automotive and creative uses. Discover more inside.
+title: Understanding Image Segmentation in Machine Learning Models
 ---
 
 ![Image](images/1.png)

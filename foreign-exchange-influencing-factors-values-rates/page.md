@@ -1,6 +1,9 @@
 ---
-title: "Foreign Exchange: Influencing Factors of Values and Rates (Algo Trading)"
-description: "Discover the dynamics of forex trading including factors influencing currency values the role of algorithmic trading and exchange rate impacts on global trade."
+category: quant_concept
+description: Discover the dynamics of forex trading including factors influencing
+  currency values the role of algorithmic trading and exchange rate impacts on global
+  trade.
+title: 'Foreign Exchange: Influencing Factors of Values and Rates (Algo Trading)'
 ---
 
 Foreign exchange (forex) represents the global decentralized marketplace where currencies are traded. It is the largest and most liquid financial market in the world, with an average daily trading volume exceeding $6 trillion, as reported by the Bank for International Settlements in its 2019 Triennial Survey. Participants include central banks, financial institutions, corporations, governments, and individual traders.
@@ -186,4 +189,3 @@ For further exploration, consider these resources:
 - Zhang, Y., & Ling, C. X. (2018). "Reinforcement Learning Strategies for Forex Trading." Quantitative Finance.
 
 These resources provide a comprehensive foundation for understanding the complexity and technological innovations within the forex market.
-

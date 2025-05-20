@@ -1,6 +1,9 @@
 ---
-title: "Inverse Relationship Between Quantity and Price (Algo Trading)"
-description: "Explore the inverse relationship between quantity and price in algorithmic trading Discover how traders use negative correlation to predict market behavior and optimize strategies"
+category: quant_concept
+description: Explore the inverse relationship between quantity and price in algorithmic
+  trading Discover how traders use negative correlation to predict market behavior
+  and optimize strategies
+title: Inverse Relationship Between Quantity and Price (Algo Trading)
 ---
 
 In the intricate world of financial markets, understanding the interplay between quantity and price is crucial to gaining insights, especially for traders focused on algorithmic trading. The concept of negative correlation between quantity and price, often termed the inverse relationship, forms a core principle in economics. It explains how the price of a good or service and its demanded quantity typically move in opposite directions. This inverse relationship is foundational in understanding consumer behavior and market dynamics, guiding traders in predicting demand fluctuations based on price changes. 
@@ -197,4 +200,3 @@ Aronson, D. "Evidence-Based Technical Analysis." Aronson advocates for a scienti
 Jansen, S. "Machine Learning for Algorithmic Trading." Jansen's work provides an extensive look at the application of machine learning in trading, detailing how traders can utilize algorithms to detect and exploit negative correlations among market assets.
 
 Chan, E. P. "Quantitative Trading: How to Build Your Own Algorithmic Trading Business." Chan offers insights into establishing a successful algorithmic trading business, with guidance on leveraging quantitative models and understanding market relationships, including negative correlations.
-

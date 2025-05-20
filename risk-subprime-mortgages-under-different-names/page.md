@@ -1,6 +1,8 @@
 ---
-title: "Risk of Subprime Mortgages Under Different Names (Algo Trading)"
-description: "Explore how subprime mortgages, despite being high-risk loans, contributed to the 2007-2008 financial crisis and impacted global economic stability."
+category: quant_concept
+description: Explore how subprime mortgages, despite being high-risk loans, contributed
+  to the 2007-2008 financial crisis and impacted global economic stability.
+title: Risk of Subprime Mortgages Under Different Names (Algo Trading)
 ---
 
 The financial crisis of 2007-2008 was a pivotal period in global economic history, with widespread consequences for markets and societies worldwide. At the heart of this crisis were subprime mortgages, which fundamentally changed the landscape of financial risk management and regulation. Subprime mortgages are high-risk loans extended to borrowers with lower credit ratings. These loans were typically characterized by higher interest rates and unfavorable terms, reflecting the increased risk lenders assumed. However, these mortgages also opened up opportunities for greater homeownership and profitability in the early 2000s, driving significant growth in the housing market.

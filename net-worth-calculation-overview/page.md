@@ -1,6 +1,8 @@
 ---
-title: "Net Worth Calculation and Overview (Algo Trading)"
-description: "Explore the role of algorithmic trading in wealth assessment and net worth calculation to optimize financial strategies in today's dynamic market environment."
+category: quant_concept
+description: Explore the role of algorithmic trading in wealth assessment and net
+  worth calculation to optimize financial strategies in today's dynamic market environment.
+title: Net Worth Calculation and Overview (Algo Trading)
 ---
 
 In today's complex financial landscape, understanding the intricacies of wealth assessment and net worth calculation is essential for maintaining both personal and business financial health. As technology advances, algorithmic trading has gained prominence, presenting new avenues for effective wealth management and investment strategies. This article investigates the convergence of financial calculation methods, wealth assessment, and the role of algorithmic trading in modern finance. By gaining insight into these concepts, individuals and businesses can make informed financial decisions, thereby optimizing their strategies for financial growth.

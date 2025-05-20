@@ -1,6 +1,8 @@
 ---
-title: "Money Markets: Overview, Mechanisms, and Users (Algo Trading)"
-description: "Explore the dynamics of money markets, key users like banks and corporations, and the impact of algorithmic trading on liquidity and interest rate management."
+category: quant_concept
+description: Explore the dynamics of money markets, key users like banks and corporations,
+  and the impact of algorithmic trading on liquidity and interest rate management.
+title: 'Money Markets: Overview, Mechanisms, and Users (Algo Trading)'
 ---
 
 Financial instruments are fundamental components of the money markets, serving as vehicles through which capital flow is facilitated between savers and borrowers. These instruments include treasury bills, commercial papers, and certificates of deposit, each playing a unique role in ensuring liquidity and efficient capital allocation (Mishkin, 2015). The money markets themselves are crucial for short-term borrowing and lending, offering a mechanism for managing liquidity and interest rates across the financial ecosystem.

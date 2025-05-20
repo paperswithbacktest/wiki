@@ -1,6 +1,9 @@
 ---
-title: "Alpha Generation Techniques (Algo Trading)"
-description: "Explore alpha generation techniques in algorithmic trading and discover how innovative strategies leverage quantitative models and machine learning for superior returns."
+category: trading_strategy
+description: Explore alpha generation techniques in algorithmic trading and discover
+  how innovative strategies leverage quantitative models and machine learning for
+  superior returns.
+title: Alpha Generation Techniques (Algo Trading)
 ---
 
 Alpha generation is a pivotal component of algorithmic trading, embodying the pursuit of outperforming market benchmarks through innovative investment strategies. As the primary goal of quantitative traders, achieving alpha involves harnessing advanced methodologies and technologies that provide a sustainable trading edge. In the contemporary trading environment, traders utilize sophisticated mathematical models, machine learning algorithms, and deep market insights to secure consistent returns beyond those offered by traditional indices.

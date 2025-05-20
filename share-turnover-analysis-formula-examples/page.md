@@ -1,6 +1,8 @@
 ---
-title: "Share Turnover: Analysis, Formula, and Examples (Algo Trading)"
-description: "Explore the impact of share turnover and algorithmic trading on stock liquidity in financial markets Understand their role in modern trading strategies"
+category: quant_concept
+description: Explore the impact of share turnover and algorithmic trading on stock
+  liquidity in financial markets Understand their role in modern trading strategies
+title: 'Share Turnover: Analysis, Formula, and Examples (Algo Trading)'
 ---
 
 The evolution of stock trading over recent decades is a testament to the profound impact of technological advancements on financial markets. Among the key concepts shaping this landscape are share turnover, liquidity, and algorithmic trading. These components are fundamental for understanding how modern market dynamics operate, offering a framework through which investors and traders can navigate today's complex financial environments.

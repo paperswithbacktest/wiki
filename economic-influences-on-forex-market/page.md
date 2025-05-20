@@ -1,6 +1,8 @@
 ---
-title: "Economic Influences on the Forex Market (Algo Trading)"
-description: "Explore the dynamic forex market affected by macroeconomic factors like GDP and inflation alongside the impact of algorithmic trading on currency values."
+category: quant_concept
+description: Explore the dynamic forex market affected by macroeconomic factors like
+  GDP and inflation alongside the impact of algorithmic trading on currency values.
+title: Economic Influences on the Forex Market (Algo Trading)
 ---
 
 The foreign exchange market, commonly referred to as forex or FX, represents the most significant financial marketplace globally, with a staggering daily trading volume that surpasses $6 trillion. This market facilitates the trade of currencies between various entities such as banks, financial institutions, corporations, and individual investors. The vastness of the forex market is a reflection of its critical role in the global economy, providing the necessary infrastructure for currency conversion which supports international trade and investment.

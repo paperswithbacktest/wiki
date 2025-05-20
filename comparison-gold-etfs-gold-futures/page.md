@@ -1,6 +1,8 @@
 ---
-title: "Comparison of Gold ETFs and Gold Futures (Algo Trading)"
-description: "Discover the differences between Gold ETFs and Gold Futures in algo trading. Explore their benefits, risks, and how they fit diverse investment strategies."
+category: trading_strategy
+description: Discover the differences between Gold ETFs and Gold Futures in algo trading.
+  Explore their benefits, risks, and how they fit diverse investment strategies.
+title: Comparison of Gold ETFs and Gold Futures (Algo Trading)
 ---
 
 Gold has long been a symbol of wealth and financial stability, making it an attractive asset for investors, especially during times of market uncertainty and volatility. Over centuries, gold has maintained its value and reputation as a safe haven, drawing interest from those seeking to mitigate risks associated with the broader financial markets. Investors often turn to gold for its potential ability to serve as a hedge against inflation and currency devaluation, given its historical performance during economic downturns.

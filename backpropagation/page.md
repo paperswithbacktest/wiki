@@ -1,8 +1,9 @@
 ---
-title: Understanding Backpropagation in Neural Network Training
+category: quant_concept
 description: Backpropagation explains how neural networks learn by adjusting connection
   weights based on error gradients using calculus and learning rate tuning Discover
   more inside
+title: Understanding Backpropagation in Neural Network Training
 ---
 
 ![Image](images/1.png)

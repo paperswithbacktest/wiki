@@ -1,6 +1,9 @@
 ---
-title: "Revaluation and Devaluation Compared (Algo Trading)"
-description: "Explore the differences between revaluation and devaluation in currency markets and discover how algorithmic trading leverages these shifts for optimal trading strategies."
+category: quant_concept
+description: Explore the differences between revaluation and devaluation in currency
+  markets and discover how algorithmic trading leverages these shifts for optimal
+  trading strategies.
+title: Revaluation and Devaluation Compared (Algo Trading)
 ---
 
 The global financial markets are driven by complex mechanisms, with currency exchange rates at the core of international trade, investment, and economic policies. Currency exchange rates determine the value of one currency in terms of another and are essential in facilitating cross-border transactions. Key concepts within this sphere include currency adjustment, devaluation, revaluation, and algorithmic trading, all of which play significant roles in shaping economic dynamics.

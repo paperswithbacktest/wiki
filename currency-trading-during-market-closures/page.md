@@ -1,6 +1,8 @@
 ---
-title: "Currency Trading During Market Closures (Algo Trading)"
-description: "Discover the intricacies of forex trading during market closures and the role of algorithmic trading in optimizing strategies and mitigating risks."
+category: trading_strategy
+description: Discover the intricacies of forex trading during market closures and
+  the role of algorithmic trading in optimizing strategies and mitigating risks.
+title: Currency Trading During Market Closures (Algo Trading)
 ---
 
 Forex trading, also known as foreign exchange trading, involves the buying and selling of currencies on the global market. This market plays a critical role in facilitating international trade and investment by enabling currency conversion. The forex market's decentralized nature means it operates over the counter (OTC), without a centralized exchange, allowing it to function 24 hours a day during the workweek. Understanding market hours is crucial for traders, as the timing determines when they can engage actively to capitalize on fluctuating currency values driven by geopolitical developments, economic data releases, or other market-moving events.

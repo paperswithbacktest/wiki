@@ -1,6 +1,8 @@
 ---
-title: "Macroeconomic Factors: Types, Examples, and Impact (Algo Trading)"
-description: "Explore how macroeconomic factors like fiscal policies, geopolitical events, and natural disasters impact algorithmic trading, shaping market strategies."
+category: quant_concept
+description: Explore how macroeconomic factors like fiscal policies, geopolitical
+  events, and natural disasters impact algorithmic trading, shaping market strategies.
+title: 'Macroeconomic Factors: Types, Examples, and Impact (Algo Trading)'
 ---
 
 Macroeconomic factors are essential elements that shape the economic landscape at both regional and national levels. These factors encompass a wide range of events and indicators, such as shifts in fiscal policy, natural disasters, and global geopolitical tensions. They hold the power to sway market dynamics, influencing everything from consumer spending to investment strategies. Among the various sectors affected by these macroeconomic indicators, trading is distinctly impacted. Algorithmic trading, or algo trading, is a prominent example of a domain that interacts closely with these factors. Algo trading employs sophisticated mathematical models and automated algorithms to execute trades at speeds and frequencies that surpass traditional market strategies.

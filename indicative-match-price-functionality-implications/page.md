@@ -1,6 +1,9 @@
 ---
-title: "Indicative Match Price: Functionality and Implications (Algo Trading)"
-description: "Explore how the Indicative Match Price and algorithmic trading enhance market transparency and efficiency through optimal price discovery in securities auctions."
+category: quant_concept
+description: Explore how the Indicative Match Price and algorithmic trading enhance
+  market transparency and efficiency through optimal price discovery in securities
+  auctions.
+title: 'Indicative Match Price: Functionality and Implications (Algo Trading)'
 ---
 
 In today's rapidly evolving financial markets, the integration of Indicative Match Price (IMP) and algorithmic trading is crucial for enhancing trading efficiency and accuracy. The Indicative Match Price is essential in determining the optimal price at which the maximum number of buy and sell orders can be executed during securities auctions. This price discovery mechanism aids in navigating order imbalances, a common issue that traders face. By offering a transparent reference point, IMP supports traders in optimizing trade execution, thus improving market transparency and liquidity.

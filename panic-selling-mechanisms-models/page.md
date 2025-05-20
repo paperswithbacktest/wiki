@@ -1,6 +1,8 @@
 ---
-title: "Panic Selling: Mechanisms and Models (Algo Trading)"
-description: "Explore the mechanisms and models of panic selling in algorithmic trading. Learn how emotional reactions impact markets and strategies to navigate volatility."
+category: quant_concept
+description: Explore the mechanisms and models of panic selling in algorithmic trading.
+  Learn how emotional reactions impact markets and strategies to navigate volatility.
+title: 'Panic Selling: Mechanisms and Models (Algo Trading)'
 ---
 
 Panic selling refers to a disorderly selling of financial assets that is driven by a sudden surge in the fear of significant losses. This phenomenon typically occurs when investors react emotionally to adverse market conditions, eschewing rational analysis. Panic selling can lead to a sharp decline in asset prices, exacerbating market volatility and often triggering a cascading effect as more investors rush to unload their holdings. This behavior starkly contrasts with strategic asset liquidation, where investments are sold based on calculated decisions rather than emotional reactions.

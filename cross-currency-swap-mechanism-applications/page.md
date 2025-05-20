@@ -1,6 +1,9 @@
 ---
-title: "Cross-Currency Swap: Mechanism and Applications (Algo Trading)"
-description: "Explore the mechanism and applications of cross-currency swaps in algo trading, enhancing currency risk management and strategic financial decisions in global markets."
+category: quant_concept
+description: Explore the mechanism and applications of cross-currency swaps in algo
+  trading, enhancing currency risk management and strategic financial decisions in
+  global markets.
+title: 'Cross-Currency Swap: Mechanism and Applications (Algo Trading)'
 ---
 
 Financial derivatives are pivotal in modern finance, providing essential tools for managing risk and capitalizing on market opportunities. At the heart of these instruments are financial contracts whose value is derived from the performance of underlying assets, indices, or rates. Derivatives enable participants to hedge against potential losses, speculate on future price movements, and enhance returns through leverage.

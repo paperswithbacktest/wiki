@@ -1,6 +1,9 @@
 ---
-title: "Impact of OPEC on Global Oil Prices (Algo Trading)"
-description: "Explore the impact of OPEC on global oil prices and the transformative role of algorithmic trading in the oil market. Understand how OPEC's strategic decisions influence pricing and the advanced methods traders use to respond to these changes."
+category: quant_concept
+description: Explore the impact of OPEC on global oil prices and the transformative
+  role of algorithmic trading in the oil market. Understand how OPEC's strategic decisions
+  influence pricing and the advanced methods traders use to respond to these changes.
+title: Impact of OPEC on Global Oil Prices (Algo Trading)
 ---
 
 The global oil market is central to the international economy, serving as a crucial energy source and a significant determinant of geopolitical dynamics. Oil's ubiquitous applications, from fueling transportation to underpinning industrial processes, render its pricing and distribution vital economic concerns. The Organization of the Petroleum Exporting Countries (OPEC) plays a pivotal role in this landscape. Established in 1960 by countries including Iran, Iraq, Kuwait, Saudi Arabia, and Venezuela, OPEC seeks to coordinate and unify petroleum policies among member countries, thereby securing fair and stable prices for petroleum producers and ensuring a reliable supply to consumers. OPEC's ability to influence oil production levels allows it to wield substantial power over global oil prices, impacting economies worldwide.

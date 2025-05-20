@@ -1,6 +1,14 @@
 ---
-title: "Nepalese Rupee: History and Currency Symbol (Algo Trading)"
-description: "Explore the fascinating journey of the Nepalese Rupee (NPR) as it transitioned from the silver-based mohar to its current form, influencing Nepal's economic identity. Learn about its symbolic representation and its significant role in algorithmic trading and forex markets, highlighting technological advancements shaping global financial systems. This article investigates into the NPR's history, currency symbol, and its pivotal role in maintaining economic relations with India due to its fixed exchange rate with the Indian Rupee, providing valuable insights into the NPR's impact on Nepal's economy."
+category: dataset
+description: Explore the fascinating journey of the Nepalese Rupee (NPR) as it transitioned
+  from the silver-based mohar to its current form, influencing Nepal's economic identity.
+  Learn about its symbolic representation and its significant role in algorithmic
+  trading and forex markets, highlighting technological advancements shaping global
+  financial systems. This article investigates into the NPR's history, currency symbol,
+  and its pivotal role in maintaining economic relations with India due to its fixed
+  exchange rate with the Indian Rupee, providing valuable insights into the NPR's
+  impact on Nepal's economy.
+title: 'Nepalese Rupee: History and Currency Symbol (Algo Trading)'
 ---
 
 The Nepalese Rupee (NPR) is the official currency of Nepal, regulated by the Nepal Rastra Bank. The currency was introduced in 1932 to replace the silver-based Nepalese mohar, establishing a new monetary system that aligned more closely with neighboring economies. The NPR is pegged to the Indian Rupee (INR) at a fixed exchange rate of 1.6 NPR to 1 INR, providing stability and predictability in exchange rates between the two nations. This fixed peg assists in maintaining consistent trade relations and economic interactions between Nepal and India, given the significant economic exchange between them.

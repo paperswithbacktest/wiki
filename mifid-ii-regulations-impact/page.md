@@ -1,6 +1,8 @@
 ---
-title: "MiFID II Regulations and Impact (Algo Trading)"
-description: "Explore the impact of MiFID II regulations on algorithmic trading, focusing on transparency, market integrity, and enhanced investor protection in the EU."
+category: quant_concept
+description: Explore the impact of MiFID II regulations on algorithmic trading, focusing
+  on transparency, market integrity, and enhanced investor protection in the EU.
+title: MiFID II Regulations and Impact (Algo Trading)
 ---
 
 The European Union's financial markets have been subject to notable changes following the implementation of MiFID II (Markets in Financial Instruments Directive II) in 2018. MiFID II marks a substantial reform aimed at fostering greater transparency, bolstering investor protection, and enhancing the overall fairness and efficiency of financial markets within the EU. This directive serves as a successor to the original MiFID framework, addressing various regulatory gaps and challenges exposed by the 2008 financial crisis.

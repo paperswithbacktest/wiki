@@ -1,6 +1,8 @@
 ---
-title: "Quantity Theory of Money (Algo Trading)"
-description: "Explore how money supply influences inflation and the role of algorithmic trading in managing market dynamics. Understand monetary policies and trading strategies."
+category: quant_concept
+description: Explore how money supply influences inflation and the role of algorithmic
+  trading in managing market dynamics. Understand monetary policies and trading strategies.
+title: Quantity Theory of Money (Algo Trading)
 ---
 
 Inflation theory is pivotal in understanding how prices evolve and ensuring the stability of an economy. This subject interlinks with the concepts of money supply, where changes can directly affect inflationary trends. By examining this relationship, we gain insights into how monetary policy is shaped and its subsequent impact on financial markets. 

@@ -1,6 +1,8 @@
 ---
-title: "Data Analytics: Overview and Basic Techniques (Algo Trading)"
-description: "Explore how data analytics drives algorithmic trading by automating decisions and improving efficiency Discover techniques that transform trading practices"
+category: quant_concept
+description: Explore how data analytics drives algorithmic trading by automating decisions
+  and improving efficiency Discover techniques that transform trading practices
+title: 'Data Analytics: Overview and Basic Techniques (Algo Trading)'
 ---
 
 Data usage has become an integral part of the global economy, substantially influencing various sectors such as finance, healthcare, and technology. As organizations continue to generate vast amounts of data, the ability to process and interpret these complex datasets has become crucial. Data analytics techniques have emerged as essential tools to derive actionable insights that improve decision-making and operational efficiency.

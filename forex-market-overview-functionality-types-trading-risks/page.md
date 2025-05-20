@@ -1,6 +1,8 @@
 ---
-title: "Forex Market Overview: Functionality, Types, and Trading Risks (Algo Trading)"
-description: "Explore the functionality, types, and risks of forex trading, including the impact of algorithmic trading and strategies to manage inherent market risks."
+category: quant_concept
+description: Explore the functionality, types, and risks of forex trading, including
+  the impact of algorithmic trading and strategies to manage inherent market risks.
+title: 'Forex Market Overview: Functionality, Types, and Trading Risks (Algo Trading)'
 ---
 
 The forex market, or foreign exchange market, stands as the largest and most liquid financial market globally. It operates as a decentralized platform, enabling participants to engage in the exchange of currencies for diverse purposes such as hedging against currency fluctuations or capitalizing on speculative opportunities. The sheer scale of the market, with its 24-hour trading across various time zones, underscores its significance in global finance. 

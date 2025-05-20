@@ -1,6 +1,9 @@
 ---
-title: "Laissez-Faire Economy and Its Functioning (Algo Trading)"
-description: "Explore the principles and challenges of laissez-faire economics in the context of modern technological advancements like algorithmic trading and its market impacts."
+category: quant_concept
+description: Explore the principles and challenges of laissez-faire economics in the
+  context of modern technological advancements like algorithmic trading and its market
+  impacts.
+title: Laissez-Faire Economy and Its Functioning (Algo Trading)
 ---
 
 The laissez-faire economy has long been a subject of debate among economists, business leaders, and policymakers. This economic theory advocates for minimal government intervention, allowing free markets to dictate the flow of commerce. Rooted in the belief that economic order naturally arises from individual self-interest and competition, laissez-faire posits that markets function best when left to their own devices. As modern markets become increasingly complex, intertwining with technological advancements like algorithmic trading, it becomes crucial to revisit laissez-faire principles and their relevance today. 

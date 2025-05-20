@@ -1,7 +1,8 @@
 ---
-title: Addressing Group Attribution Bias in Machine Learning Models
+category: quant_concept
 description: Group Attribution Bias skews machine learning by applying group traits
   to individuals Use diversity and fairness checks to reduce bias Discover more inside
+title: Addressing Group Attribution Bias in Machine Learning Models
 ---
 
 ![Image](images/1.png)

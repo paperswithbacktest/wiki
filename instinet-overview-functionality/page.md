@@ -1,6 +1,10 @@
 ---
-title: "Instinet: Overview and Functionality (Algo Trading)"
-description: "Explore how Instinet, a pioneer in electronic trading platforms, revolutionizes securities trading through algorithmic strategies and sophisticated technologies. Discover its impact on market efficiency and transparency, enabling institutional investors to execute large trades discreetly."
+category: quant_concept
+description: Explore how Instinet, a pioneer in electronic trading platforms, revolutionizes
+  securities trading through algorithmic strategies and sophisticated technologies.
+  Discover its impact on market efficiency and transparency, enabling institutional
+  investors to execute large trades discreetly.
+title: 'Instinet: Overview and Functionality (Algo Trading)'
 ---
 
 The landscape of financial markets has undergone significant transformation with the advent of electronic trading and algorithmic strategies. These developments have enhanced efficiency and transparency, providing a more streamlined trading environment. Instinet, often regarded as a pioneer in the field of electronic trading platforms, has been instrumental in reshaping the global trading of securities. Its role has been particularly notable in enabling large institutional investors to execute trades electronically, thereby revolutionizing how financial markets operate.

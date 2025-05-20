@@ -1,6 +1,9 @@
 ---
-title: "Negative Gearing: Concepts, Mechanisms, and Profitability (Algo Trading)"
-description: "Explore the interconnected roles of negative gearing and algorithmic trading in maximizing investment strategy profitability. Unlock financial insights today."
+category: trading_strategy
+description: Explore the interconnected roles of negative gearing and algorithmic
+  trading in maximizing investment strategy profitability. Unlock financial insights
+  today.
+title: 'Negative Gearing: Concepts, Mechanisms, and Profitability (Algo Trading)'
 ---
 
 Investment strategy profitability, negative gearing, and algorithmic trading represent distinct yet interconnected components of the financial ecosystem. Understanding their interplay is essential for modern investors seeking to navigate complex markets and optimize returns.

@@ -1,6 +1,13 @@
 ---
-title: "Fractal Indicator Strategy Explained (Algo Trading)"
-description: Discover the advantages of incorporating the fractals indicator into algorithmic trading strategies. This versatile tool helps identify potential market turning points, aiding in efficient trade execution by highlighting patterns of peaks and troughs in price movements. Learn how combining fractals with other technical indicators can enhance signal accuracy and improve trading decisions, offering traders a systematic approach to navigate market trends and optimize algorithmic trading systems.
+category: trading_strategy
+description: Discover the advantages of incorporating the fractals indicator into
+  algorithmic trading strategies. This versatile tool helps identify potential market
+  turning points, aiding in efficient trade execution by highlighting patterns of
+  peaks and troughs in price movements. Learn how combining fractals with other technical
+  indicators can enhance signal accuracy and improve trading decisions, offering traders
+  a systematic approach to navigate market trends and optimize algorithmic trading
+  systems.
+title: Fractal Indicator Strategy Explained (Algo Trading)
 ---
 
 Algorithmic trading, often referred to as algo trading, is a method where complex algorithms execute trades in financial markets based on various technical indicators. This automated approach is designed to enhance trading efficiency and decision-making by systematically analyzing market data and executing trades at optimal times. One of the technical indicators that has gained considerable traction among traders is the fractals indicator, which plays a critical role in identifying potential turning points in the market.

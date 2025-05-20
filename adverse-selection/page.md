@@ -1,6 +1,8 @@
 ---
-title: "Adverse selection (Algo Trading)"
-description: "Explore the concept of adverse selection in algorithmic trading where informational imbalances impact market efficiency and pose risks to trading strategies."
+category: quant_concept
+description: Explore the concept of adverse selection in algorithmic trading where
+  informational imbalances impact market efficiency and pose risks to trading strategies.
+title: Adverse selection (Algo Trading)
 ---
 
 Adverse selection is a concept within economics and finance that describes a situation where there is an imbalance in information between parties involved in a transaction. This imbalance can lead to market inefficiencies, as the party with more information can manipulate the transaction to their advantage, leaving the less informed party at a disadvantage. Algorithmic trading, which relies on automated and data-driven strategies to execute trades, is particularly susceptible to adverse selection. This susceptibility arises because algorithmic traders aim to capitalize on small price discrepancies, and any information asymmetry can significantly impact the effectiveness of their strategies.

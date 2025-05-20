@@ -1,6 +1,9 @@
 ---
-title: "Euroyen: Overview and Functionality (Algo Trading)"
-description: "Discover the Euroyen market's impact on algorithmic trading optimizing strategies through access to yen-denominated deposits outside Japan, enhancing liquidity and risk management."
+category: quant_concept
+description: Discover the Euroyen market's impact on algorithmic trading optimizing
+  strategies through access to yen-denominated deposits outside Japan, enhancing liquidity
+  and risk management.
+title: 'Euroyen: Overview and Functionality (Algo Trading)'
 ---
 
 The currency market, encompassing various foreign exchange transactions, is a fundamental component of international finance. These markets facilitate the exchange of currencies between nations, impacting global trade, investment, and economic stability. Among the myriad of currency instruments, the Euroyen stands out as a significant entity. Euroyen refers to Japanese yen-denominated deposits held outside Japan, predominantly in major financial hubs like Europe. Its existence traces back to efforts by Japan's government to deregulate financial markets and liberalize capital flows. This strategic financial instrument enables investors to access the Japanese yen without the constraints typically imposed by Japan's internal monetary policies.

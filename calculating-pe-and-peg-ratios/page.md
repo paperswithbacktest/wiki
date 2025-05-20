@@ -1,6 +1,8 @@
 ---
-title: "Calculating P/E and PEG Ratios (Algo Trading)"
-description: "Learn how to calculate and use P/E and PEG ratios to evaluate stock value and enhance algorithmic trading strategies in dynamic financial markets."
+category: quant_concept
+description: Learn how to calculate and use P/E and PEG ratios to evaluate stock value
+  and enhance algorithmic trading strategies in dynamic financial markets.
+title: Calculating P/E and PEG Ratios (Algo Trading)
 ---
 
 In financial markets, understanding stock valuation is crucial for investors looking to make informed decisions. Investors employ various metrics to assess stock value, with the Price-to-Earnings (P/E) ratio and the Price/Earnings-to-Growth (PEG) ratio being particularly significant. The P/E ratio is calculated by dividing the market value per share by the earnings per share (EPS):
@@ -185,4 +187,3 @@ Johnson's work is an introductory resource on the mechanisms of algorithmic trad
 
 [6]: 'High-Frequency Trading: A Practical Guide to Algorithmic Strategies and Trading Systems' by Irene Aldridge  
 Aldridge’s book explores the technical and strategic aspects of high-frequency trading, which benefits from the incorporation of key finance metrics. This guide demonstrates how the application of stock valuation ratios within algorithmic systems can improve trade execution and market responses, thus making it a valuable reference for those interested in the intersection of finance and technology.
-

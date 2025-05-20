@@ -1,6 +1,8 @@
 ---
-title: "Insights from Schedule 13D for Investors (Algo Trading)"
-description: "Explore how Schedule 13D filings impact market dynamics and investor strategies highlighting the intersection with algorithmic trading for timely insights."
+category: dataset
+description: Explore how Schedule 13D filings impact market dynamics and investor
+  strategies highlighting the intersection with algorithmic trading for timely insights.
+title: Insights from Schedule 13D for Investors (Algo Trading)
 ---
 
 Schedule 13D is a critical document filed with the U.S. Securities and Exchange Commission (SEC) that notifies the public about significant ownership changes in public companies. It is a cornerstone of investor transparency, allowing market participants to track when an entity or individual acquires beneficial ownership of more than 5% of a company's shares. By revealing shifts in ownership, Schedule 13D filings can signal potential corporate actions like takeovers, mergers, or activist campaigns, making them vital for investors seeking to understand shifts in company control and market dynamics.

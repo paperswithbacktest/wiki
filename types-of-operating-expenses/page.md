@@ -1,6 +1,9 @@
 ---
-title: "Types of Operating Expenses (Algo Trading)"
-description: "Discover the key operating expenses in algorithmic trading including technology costs and compensation to optimize financial strategies and maintain competitiveness."
+category: quant_concept
+description: Discover the key operating expenses in algorithmic trading including
+  technology costs and compensation to optimize financial strategies and maintain
+  competitiveness.
+title: Types of Operating Expenses (Algo Trading)
 ---
 
 Operating expenses are essential components of a business, encompassing the costs incurred in the day-to-day functioning of a company. These expenses are crucial for maintaining the operational flow and ensuring that the business machinery remains smooth and effective. In a business context, operating expenses typically include costs associated with rent, utilities, payroll, software, and marketing, among others. These expenses are pivotal as they directly impact the profitability and financial health of a firm. Proper management of these expenses can lead to increased efficiency, cost savings, and higher profit margins.

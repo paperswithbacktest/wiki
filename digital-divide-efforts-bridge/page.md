@@ -1,6 +1,8 @@
 ---
-title: "Digital Divide and Efforts to Bridge It (Algo Trading)"
-description: "Internet inequality hinders access to algo trading and financial services, deepening the digital divide. Bridging this gap boosts inclusion and opportunity."
+category: quant_concept
+description: Internet inequality hinders access to algo trading and financial services,
+  deepening the digital divide. Bridging this gap boosts inclusion and opportunity.
+title: Digital Divide and Efforts to Bridge It (Algo Trading)
 ---
 
 The digital divide is a pressing global issue, manifesting as significant disparities in access to the Internet and technology across different nations, cultures, and societies. This divide delineates not only those with and without Internet access but also highlights the varying degrees of quality, speed, and affordability of technology available to different populations. The ramifications of this divide are profound, impacting various sectors including education, healthcare, and particularly financial services, where modern innovations heavily rely on technological access. 

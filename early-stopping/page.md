@@ -1,7 +1,8 @@
 ---
-title: Early Stopping in Machine Learning To Prevent Overfitting
+category: quant_concept
 description: Early stopping monitors validation set performance to prevent overfitting
   and selects the best model version for reliable predictions Discover more inside
+title: Early Stopping in Machine Learning To Prevent Overfitting
 ---
 
 ![Image](images/1.png)

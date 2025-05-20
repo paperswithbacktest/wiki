@@ -1,7 +1,8 @@
 ---
-title: Effective Data Representation Techniques for Machine Learning
+category: quant_concept
 description: Data representation converts raw inputs into formats that enhance model
   performance across image recognition and text analysis. Discover more inside.
+title: Effective Data Representation Techniques for Machine Learning
 ---
 
 ![Image](images/1.jpeg)

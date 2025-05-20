@@ -1,6 +1,9 @@
 ---
-title: "Psychological Aspects of Support and Resistance (Algo Trading)"
-description: "Explore the psychological dynamics of support and resistance in algo trading to better understand how market sentiment and investor behavior influence price trends."
+category: quant_concept
+description: Explore the psychological dynamics of support and resistance in algo
+  trading to better understand how market sentiment and investor behavior influence
+  price trends.
+title: Psychological Aspects of Support and Resistance (Algo Trading)
 ---
 
 Understanding the financial markets necessitates familiarity with several foundational concepts, with support and resistance zones standing out as vital elements. These zones, intricately tied to market dynamics, signify the areas where demand and supply forces converge, often acting as indicators of potential reversals in market trends. Support serves as a bastion against further declines in asset prices, providing a psychological anchor for buyers who believe an asset is undervalued at that point. Conversely, resistance functions as a cap that impedes additional price increases, representing a level at which sellers might gain conviction that an asset is overvalued.

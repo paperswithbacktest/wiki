@@ -1,6 +1,8 @@
 ---
-title: "Buy Limit Order: Overview, Advantages, and Disadvantages (Algo Trading)"
-description: "Explore the benefits and drawbacks of buy limit orders in stock trading Understand how they provide price control and their role in algorithmic strategies"
+category: trading_strategy
+description: Explore the benefits and drawbacks of buy limit orders in stock trading
+  Understand how they provide price control and their role in algorithmic strategies
+title: 'Buy Limit Order: Overview, Advantages, and Disadvantages (Algo Trading)'
 ---
 
 Understanding the different types of stock trading orders is crucial for any trader or investor. Stock trading orders dictate how a trade is executed, influencing aspects such as timing, pricing, and execution certainty. Among these order types, the buy limit order stands out as it offers control over purchase prices. A buy limit order is a specific type of order where a trader specifies the maximum price they are willing to pay for a stock. This ensures that the order will only be executed at the specified price or lower, providing significant control over costs and protecting against sudden market fluctuations.

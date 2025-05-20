@@ -1,6 +1,8 @@
 ---
-title: "Maximum Wage (Algo Trading)"
-description: "Explore the intersection of wage regulation, income limits, and algorithmic trading, examining their implications on economic equity and market efficiency."
+category: quant_concept
+description: Explore the intersection of wage regulation, income limits, and algorithmic
+  trading, examining their implications on economic equity and market efficiency.
+title: Maximum Wage (Algo Trading)
 ---
 
 Wage regulation plays a critical role in modern economies, aiming to promote fair labor practices and ensure equitable distribution of income. At its core, wage regulation encompasses policies and rules designed to control wage levels, aiming to protect workers and balance the economic distribution. These regulations can include mechanisms like minimum wage laws, which set a floor for earnings, along with less common discussions around maximum wage policies.

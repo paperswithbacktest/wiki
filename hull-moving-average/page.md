@@ -1,6 +1,12 @@
 ---
-title: "Hull Moving Average Explained (Algo Trading)"
-description: Explore the Hull Moving Average (HMA) as a refined trading tool designed to minimize lag and noise while providing accurate market signals. Discover how the HMA's weighted calculation enhances trend identification, aiding both swing and long-term traders. Learn about its development, calculation methods, and effective application in algorithmic trading. Compare the HMA with other moving averages and optimize its settings for improved trading strategies.
+category: quant_concept
+description: Explore the Hull Moving Average (HMA) as a refined trading tool designed
+  to minimize lag and noise while providing accurate market signals. Discover how
+  the HMA's weighted calculation enhances trend identification, aiding both swing
+  and long-term traders. Learn about its development, calculation methods, and effective
+  application in algorithmic trading. Compare the HMA with other moving averages and
+  optimize its settings for improved trading strategies.
+title: Hull Moving Average Explained (Algo Trading)
 ---
 
 The Hull Moving Average (HMA) is a popular tool among traders due to its ability to reduce lag and eliminate noise, providing more accurate signals. Developed by Alan Hull in 2005, the HMA is particularly useful for identifying market trends, making it a favored choice for both swing and long-term traders. Traditional moving averages often struggle with lag, causing delays in reflecting market movements. The HMA addresses this limitation by using a weighted calculation to offer a more responsive indicator.

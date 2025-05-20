@@ -1,6 +1,8 @@
 ---
-title: "Duration of Short Positions in Trading (Algo Trading)"
-description: "Explore the role of short positions in trading and how integrating them with algorithmic strategies can enhance trading speed accuracy and potential returns."
+category: trading_strategy
+description: Explore the role of short positions in trading and how integrating them
+  with algorithmic strategies can enhance trading speed accuracy and potential returns.
+title: Duration of Short Positions in Trading (Algo Trading)
 ---
 
 Financial markets are foundational to the global economy, encompassing a range of venues where buyers and sellers exchange financial assets such as stocks, bonds, derivatives, and currencies. These markets facilitate the efficient allocation of resources, price discovery, and risk management. Trading within these markets can be executed through various strategies, one of the most notable being the short position. 

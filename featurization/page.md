@@ -1,7 +1,8 @@
 ---
-title: Machine Learning Featurization Techniques And Effective Practices
+category: quant_concept
 description: Featurization transforms raw data into machine learning features that
   improve model accuracy through scaling encoding and embeddings Discover more inside.
+title: Machine Learning Featurization Techniques And Effective Practices
 ---
 
 ![Image](images/1.jpeg)

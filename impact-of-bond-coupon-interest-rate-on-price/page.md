@@ -1,6 +1,8 @@
 ---
-title: "Impact of Bond Coupon Interest Rate on Price (Algo Trading)"
-description: "Explore the impact of bond coupon interest rates on bond pricing discover the role of algorithmic trading and learn strategies to optimize investments."
+category: quant_concept
+description: Explore the impact of bond coupon interest rates on bond pricing discover
+  the role of algorithmic trading and learn strategies to optimize investments.
+title: Impact of Bond Coupon Interest Rate on Price (Algo Trading)
 ---
 
 Understanding the complex relationships in the bond market is crucial for both individual investors and financial professionals. Bonds are integral to finance, serving as a predominant method for borrowing funds and investing capital. Consequently, understanding the pricing dynamics of bonds is essential for investors aiming to make informed decisions. The factors influencing bond prices, such as coupon rates and interest rates, significantly affect investment returns and strategies.

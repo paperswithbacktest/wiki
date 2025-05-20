@@ -1,6 +1,8 @@
 ---
-title: "Chaikin Oscillator Usage (Algo Trading)"
-description: "Unlock the potential of the Chaikin Oscillator in algo trading Gain insights into market trends and enhance your trading strategy with this powerful tool"
+category: trading_strategy
+description: Unlock the potential of the Chaikin Oscillator in algo trading Gain insights
+  into market trends and enhance your trading strategy with this powerful tool
+title: Chaikin Oscillator Usage (Algo Trading)
 ---
 
 In the world of stock trading, understanding technical indicators is key to making informed decisions. Among these indicators, the Chaikin Oscillator stands out as a tool with the potential to enhance trading strategies. This oscillator, known for its application in stock analysis, integrates seamlessly into algorithmic trading systems, offering precise insights into market trends.

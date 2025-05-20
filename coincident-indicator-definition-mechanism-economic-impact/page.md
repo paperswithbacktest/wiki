@@ -1,6 +1,8 @@
 ---
-title: "Coincident Indicator: Definition, Mechanism, and Economic Impact (Algo Trading)"
-description: "Discover the role of coincident indicators in understanding economic performance and their impact on trading strategies for effective investment decisions."
+category: quant_concept
+description: Discover the role of coincident indicators in understanding economic
+  performance and their impact on trading strategies for effective investment decisions.
+title: 'Coincident Indicator: Definition, Mechanism, and Economic Impact (Algo Trading)'
 ---
 
 In today's rapidly evolving financial landscape, understanding economic indicators is crucial for making informed investment decisions. Economic indicators are statistical metrics used to gauge the health of an economy, offering a snapshot of various aspects such as growth, productivity, employment, and income levels. Among these, coincident indicators play a pivotal role as they align with real-time economic performance, providing immediate insights into the current state of the economy. 
@@ -126,4 +128,3 @@ For further information on economic indicators and their role in algorithmic tra
 - **Chan, E.P. (2009). Quantitative Trading: How to Build Your Own Algorithmic Trading Business.** This book serves as a practical guide for constructing algorithmic trading systems, including strategies for integrating economic indicators to inform trading decisions.
 
 These resources provide foundational knowledge and advanced insights into the intersection of economic indicators and algorithmic trading, equipping readers with the necessary tools to develop, optimize, and implement effective trading strategies.
-

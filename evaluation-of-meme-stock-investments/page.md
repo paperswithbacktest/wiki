@@ -1,6 +1,14 @@
 ---
-title: "Evaluation of Meme Stock Investments (Algo Trading)"
-description: "Explore the evolving investment landscape as meme stocks and algorithmic trading reshape market dynamics. Meme stocks, driven by social media and retail investor enthusiasm, challenge traditional metrics with high volatility and unexpected momentum. Algorithmic trading enhances market efficiency by executing high-speed trades based on data analysis, capitalizing on trends shaped by cultural phenomena. Both novice and seasoned investors face unique opportunities and challenges, balancing the allure of meme stocks with the precision of algorithmic insights. Embrace these changes to thrive in today's dynamic financial environment."
+category: trading_strategy
+description: Explore the evolving investment landscape as meme stocks and algorithmic
+  trading reshape market dynamics. Meme stocks, driven by social media and retail
+  investor enthusiasm, challenge traditional metrics with high volatility and unexpected
+  momentum. Algorithmic trading enhances market efficiency by executing high-speed
+  trades based on data analysis, capitalizing on trends shaped by cultural phenomena.
+  Both novice and seasoned investors face unique opportunities and challenges, balancing
+  the allure of meme stocks with the precision of algorithmic insights. Embrace these
+  changes to thrive in today's dynamic financial environment.
+title: Evaluation of Meme Stock Investments (Algo Trading)
 ---
 
 The landscape of investing in the stock market has evolved significantly with the interplay of traditional methods, meme stocks, and algorithmic trading. These elements are collectively reshaping how investments are made, analyzed, and perceived. The emergence of meme stocks as a cultural phenomenon has introduced a new layer of volatility and opportunity. These stocks, often driven by social media influence and retail investor enthusiasm, challenge conventional evaluation metrics by generating unexpected momentum irrespective of fundamental values.

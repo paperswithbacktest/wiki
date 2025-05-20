@@ -1,6 +1,9 @@
 ---
-title: "American International Group, Inc. (Algo Trading)"
-description: "Explore how American International Group leverages algorithmic trading to enhance risk management and operational efficiency in the evolving insurance sector."
+category: quant_concept
+description: Explore how American International Group leverages algorithmic trading
+  to enhance risk management and operational efficiency in the evolving insurance
+  sector.
+title: American International Group, Inc. (Algo Trading)
 ---
 
 American International Group (AIG) represents a prominent entity in the global insurance landscape, playing a crucial role in shaping industry dynamics. This article examines the interplay between AIG's traditional insurance methodologies and modern algorithmic trading systems, which have transformed financial operations within the industry. Historically, AIG has not only been a key player in insurance but has also wielded considerable market influence, adapting to economic fluctuations and crises over time.

@@ -1,6 +1,9 @@
 ---
-title: "IEX Trading Platform (Algo Trading)"
-description: "Explore how IEX Group's innovations impact algorithmic trading, promoting fairness and transparency with unique mechanisms like the 350-microsecond speed bump."
+category: quant_concept
+description: Explore how IEX Group's innovations impact algorithmic trading, promoting
+  fairness and transparency with unique mechanisms like the 350-microsecond speed
+  bump.
+title: IEX Trading Platform (Algo Trading)
 ---
 
 The financial markets have undergone a profound transformation with the integration of advanced technologies, particularly influencing stock exchanges and trading practices. The advent of algorithmic trading stands as one of the pivotal advancements, reshaping the methodologies through which trades are executed. In this evolving landscape, the IEX Group has positioned itself as a significant influencer, playing a crucial role in redefining trading norms and practices.

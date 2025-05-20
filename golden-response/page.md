@@ -1,7 +1,8 @@
 ---
-title: Leveraging Golden Response For Enhanced Machine Learning Accuracy
+category: quant_concept
 description: Golden Response provides perfect benchmark outputs to train and evaluate
   machine learning models with higher precision and reliability Discover more inside
+title: Leveraging Golden Response For Enhanced Machine Learning Accuracy
 ---
 
 ![Image](images/1.png)

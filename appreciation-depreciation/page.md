@@ -1,6 +1,9 @@
 ---
-title: "Appreciation and Depreciation (Algo Trading)"
-description: "Explore appreciation depreciation and algorithmic trading's impact on financial markets. Discover how these concepts shape investment strategies and economic growth."
+category: quant_concept
+description: Explore appreciation depreciation and algorithmic trading's impact on
+  financial markets. Discover how these concepts shape investment strategies and economic
+  growth.
+title: Appreciation and Depreciation (Algo Trading)
 ---
 
 In today's rapidly evolving financial landscape, appreciation, depreciation, and algorithmic trading significantly influence economic dynamics. Appreciation pertains to the increase in an asset's value over time, driven by factors such as demand, inflation, or interest rate fluctuations. Conversely, depreciation indicates a decline in value, often resulting from wear and tear or market developments. Both phenomena affect asset valuation and investment strategies, thereby impacting economic growth and individual wealth accumulation.

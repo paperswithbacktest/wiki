@@ -1,6 +1,8 @@
 ---
-title: "Sustainable Investing Trends in 2021 (Algo Trading)"
-description: "Explore the rise of sustainable investing in 2021 and its intersection with algorithmic trading. Discover ESG trends and the impact on financial strategies."
+category: quant_concept
+description: Explore the rise of sustainable investing in 2021 and its intersection
+  with algorithmic trading. Discover ESG trends and the impact on financial strategies.
+title: Sustainable Investing Trends in 2021 (Algo Trading)
 ---
 
 Sustainable investing has increasingly gained traction within the financial markets, primarily due to a growing focus on environmental, social, and governance (ESG) criteria. ESG criteria serve as a set of standards for a company’s operations that socially conscious investors use to screen potential investments. Environment criteria consider how a company performs as a steward of nature, social criteria examine how it manages relationships with employees, suppliers, customers, and the communities where it operates, while governance deals with a company’s leadership, executive pay, audits, internal controls, and shareholder rights.

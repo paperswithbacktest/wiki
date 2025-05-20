@@ -1,6 +1,9 @@
 ---
-title: "Impact of Demographic Trends on Investment Portfolios (Algo Trading)"
-description: "Explore how demographic trends and algorithmic trading are shaping investment portfolios. Understand the interplay of technology and aging populations on financial markets."
+category: trading_strategy
+description: Explore how demographic trends and algorithmic trading are shaping investment
+  portfolios. Understand the interplay of technology and aging populations on financial
+  markets.
+title: Impact of Demographic Trends on Investment Portfolios (Algo Trading)
 ---
 
 The evolving dynamics in finance are influenced by various factors that continually reshape investment landscapes. Among the most significant of these factors are demographic trends and advancements in algorithmic trading. As global populations age, shifts in workforce demographics and retirement patterns present both challenges and opportunities for investors. These changes compel adjustments in asset allocation, risk assessment, and long-term investment strategies.

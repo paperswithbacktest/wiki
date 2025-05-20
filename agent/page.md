@@ -1,7 +1,8 @@
 ---
-title: Comprehensive Guide to Agent-Based Machine Learning Systems
+category: quant_concept
 description: Agent-Based Machine Learning lets programs learn from their environment
   through feedback to improve decision making over time Discover more inside
+title: Comprehensive Guide to Agent-Based Machine Learning Systems
 ---
 
 ![Image](images/1.png)

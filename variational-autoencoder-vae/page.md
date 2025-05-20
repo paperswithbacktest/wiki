@@ -1,7 +1,8 @@
 ---
-title: Variational Autoencoders Architecture And Applications Explained
+category: quant_concept
 description: Variational Autoencoders learn latent distributions and balance reconstruction
   and KL divergence to generate diverse data. Discover more inside
+title: Variational Autoencoders Architecture And Applications Explained
 ---
 
 ![Image](images/1.png)

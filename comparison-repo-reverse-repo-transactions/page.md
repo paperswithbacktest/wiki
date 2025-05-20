@@ -1,6 +1,9 @@
 ---
-title: "Comparison of Repo and Reverse Repo Transactions (Algo Trading)"
-description: "Explore the essential role of repo, reverse repo transactions, and algorithmic trading in modern financial markets. Understanding these tools offers insights into liquidity and efficiency."
+category: quant_concept
+description: Explore the essential role of repo, reverse repo transactions, and algorithmic
+  trading in modern financial markets. Understanding these tools offers insights into
+  liquidity and efficiency.
+title: Comparison of Repo and Reverse Repo Transactions (Algo Trading)
 ---
 
 Financial transactions such as repurchase agreements (repo), reverse repo agreements, and algorithmic trading represent vital components of the modern financial landscape. Each of these elements plays a significant role in shaping market dynamics, providing liquidity, and ensuring operational efficiency across financial institutions worldwide.

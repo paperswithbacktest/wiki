@@ -1,6 +1,10 @@
 ---
-title: "Possibility of Comparative Advantage in All Industries for a Country (Algo Trading)"
-description: "Explore how countries can have a comparative advantage in various industries, boosted by technological advancements like algorithmic trading, enhancing global trade dynamics."
+category: quant_concept
+description: Explore how countries can have a comparative advantage in various industries,
+  boosted by technological advancements like algorithmic trading, enhancing global
+  trade dynamics.
+title: Possibility of Comparative Advantage in All Industries for a Country (Algo
+  Trading)
 ---
 
 The global economy operates as an intricate network of trade relationships, heavily influenced by core economic principles such as comparative and absolute advantage. These principles, endemic to economic theory, are essential for understanding the dynamics of international trade and the subsequent emergence of specialized markets across the world. Comparative advantage, as introduced by David Ricardo, and absolute advantage, as postulated by Adam Smith, represent two foundational concepts that explain how nations benefit from trade based on their respective efficiencies and opportunity costs.

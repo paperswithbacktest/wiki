@@ -1,6 +1,9 @@
 ---
-title: "Rebalancing frequency impact (Algo Trading)"
-description: "Explore the impact of rebalancing frequency in algorithmic trading Discover how strategic adjustments optimize portfolio performance and manage investment risks effectively"
+category: trading_strategy
+description: Explore the impact of rebalancing frequency in algorithmic trading Discover
+  how strategic adjustments optimize portfolio performance and manage investment risks
+  effectively
+title: Rebalancing frequency impact (Algo Trading)
 ---
 
 In the dynamic world of financial markets, algorithmic trading has transformed the way investment portfolios are managed. As markets continue to evolve with the integration of technology and data analytics, portfolio management has adopted algorithmic approaches to enhance decision-making and performance. A crucial aspect of this transformation is the rebalancing frequency — the periodic adjustment of asset weightings aimed at maintaining the desired asset allocation and risk exposure within a portfolio. 

@@ -1,6 +1,8 @@
 ---
-title: "Credit Downgrade: Mechanisms and Indicators (Algo Trading)"
-description: "Explore the mechanisms of credit downgrades and their impact on investors Learn how to leverage algorithmic trading responses to market shifts effectively"
+category: quant_concept
+description: Explore the mechanisms of credit downgrades and their impact on investors
+  Learn how to leverage algorithmic trading responses to market shifts effectively
+title: 'Credit Downgrade: Mechanisms and Indicators (Algo Trading)'
 ---
 
 In the fast-paced world of finance, staying ahead of potential downturns is crucial for investors and market participants. One notable indicator of underlying financial health and market sentiment is credit downgrades. These occur when credit rating agencies lower the credit rating of a borrower, such as a corporation or a government, usually due to deteriorating financial conditions or increased risk factors. A lower credit rating generally implies higher risk, leading to higher borrowing costs and potentially reduced access to capital.

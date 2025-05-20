@@ -1,6 +1,8 @@
 ---
-title: "Assessment of Value in Old Railroad Bonds (Algo Trading)"
-description: "Explore the historical significance of antique railroad bonds and the modern impact of algorithmic trading in bond markets enhancing investment strategies."
+category: quant_concept
+description: Explore the historical significance of antique railroad bonds and the
+  modern impact of algorithmic trading in bond markets enhancing investment strategies.
+title: Assessment of Value in Old Railroad Bonds (Algo Trading)
 ---
 
 The world of finance is rich with history and modern innovation. Antique bonds, particularly railroad bonds, provide insights into the economic and technological milestones of past centuries. These bonds, once integral to the funding of expansive railroad networks across nations during the 19th and early 20th centuries, are now treasured by collectors and historians for their historical significance. As vintage financial instruments, they reflect the economic frameworks and investment landscapes of their times.

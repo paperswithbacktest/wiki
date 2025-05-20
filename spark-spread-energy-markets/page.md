@@ -1,6 +1,8 @@
 ---
-title: "Spark Spread in Energy Markets (Algo Trading)"
-description: "Explore the transformative impact of renewable energy and algorithmic trading on electricity pricing and spark spreads in dynamic energy markets."
+category: trading_strategy
+description: Explore the transformative impact of renewable energy and algorithmic
+  trading on electricity pricing and spark spreads in dynamic energy markets.
+title: Spark Spread in Energy Markets (Algo Trading)
 ---
 
 The electricity pricing market is undergoing significant transformations, influenced by the integration of renewable energy sources, advancements in smart grid technologies, and the proliferation of algorithmic trading. With the global shift towards sustainable energy, renewables like wind and solar are increasingly setting the benchmark for electricity pricing, impacting market strategies and operations. As the demand for real-time data analytics grows, smart grid technologies are instrumental in enhancing grid efficiency and reliability, providing a more robust backbone for modern electricity markets. 

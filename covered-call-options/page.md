@@ -1,6 +1,11 @@
 ---
-title: "Covered Call Options (Algo Trading)"
-description: "Enhance your investment strategy by integrating covered call options with algorithmic trading. This article explores how combining these techniques can generate additional income, manage risk, and maximize profitability in various market conditions. Learn about the mechanics, advantages, and challenges of both covered calls and algo trading to make informed decisions and implement best practices effectively."
+category: trading_strategy
+description: Enhance your investment strategy by integrating covered call options
+  with algorithmic trading. This article explores how combining these techniques can
+  generate additional income, manage risk, and maximize profitability in various market
+  conditions. Learn about the mechanics, advantages, and challenges of both covered
+  calls and algo trading to make informed decisions and implement best practices effectively.
+title: Covered Call Options (Algo Trading)
 ---
 
 Options trading is an essential component of modern financial markets, offering investors a vast array of strategies to optimize portfolio performance. One of these strategies is the covered call, which involves holding a long position in a stock while simultaneously writing (selling) call options on the same asset. This approach allows investors to generate additional income through premiums collected from the options sold, while still maintaining the underlying stock position. Covered calls are particularly favored in flat or mildly bullish markets, where the likelihood of the underlying stock being called away (i.e., reaching the strike price of the sold calls) is lower, allowing the investor to pocket the premium without selling the stock.

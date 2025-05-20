@@ -1,6 +1,9 @@
 ---
-title: "Reverse Convertible Notes (Algo Trading)"
-description: "Explore the dynamics of reverse convertible notes and algorithmic trading in modern finance Learn how these innovations offer lucrative opportunities amid risks"
+category: quant_concept
+description: Explore the dynamics of reverse convertible notes and algorithmic trading
+  in modern finance Learn how these innovations offer lucrative opportunities amid
+  risks
+title: Reverse Convertible Notes (Algo Trading)
 ---
 
 In the modern financial landscape, the array of investment products available to investors is vast and varied. Among these, the reverse convertible note stands out as a product gaining considerable attention. Reverse convertible notes are structured as debt instruments but have unique characteristics linking them to the performance of specific underlying assets. This linkage creates an opportunity for investors to achieve higher yields compared to traditional bonds, albeit with increased risk exposure contingent on the underlying asset's performance.

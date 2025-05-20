@@ -1,6 +1,8 @@
 ---
-title: "List of American Funds Mutual Funds with Long Performance Histories (Algo Trading)"
-description: "Explore the significant impact of American Funds Mutual Funds and algorithmic trading on modern investment strategies including long-term growth and trading efficiency"
+category: dataset
+description: Explore the significant impact of American Funds Mutual Funds and algorithmic
+  trading on modern investment strategies including long-term growth and trading efficiency
+title: List of American Funds Mutual Funds with Long Performance Histories (Algo Trading)
 ---
 
 The objective of this article is to provide an insightful exploration of the pivotal role that American Funds Mutual Funds and algorithmic trading play in contemporary investment strategies. In today's rapidly changing financial landscape, these components are integral in guiding investors toward achieving optimal returns. The mutual fund industry, with American Funds as a notable player, has been instrumental in offering diverse investment opportunities for both individual and institutional investors. Simultaneously, algorithmic trading has revolutionized the way financial markets operate, introducing unprecedented levels of efficiency and sophistication in trading mechanisms.

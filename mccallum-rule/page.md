@@ -1,6 +1,9 @@
 ---
-title: "McCallum Rule (Algo Trading)"
-description: "Explore the McCallum Rule's impact on monetary policy and algorithmic trading; discover its framework for setting monetary base targets using GDP and velocity of money."
+category: quant_concept
+description: Explore the McCallum Rule's impact on monetary policy and algorithmic
+  trading; discover its framework for setting monetary base targets using GDP and
+  velocity of money.
+title: McCallum Rule (Algo Trading)
 ---
 
 The McCallum Rule has emerged as a significant instrument in monetary policy, assisting central banks in setting targets for the monetary base. Originating from the work of economist Bennett T. McCallum, this rule seeks to foster sustainable economic growth by adjusting the supply of money. The McCallum Rule provides a framework that incorporates both the velocity of money and nominal GDP to determine appropriate levels for the monetary base, ensuring that economic growth remains stable and in line with set targets. Its utilization extends beyond mere economic policy control, as its principles also find application in algorithmic trading, where understanding monetary policy's influence on economic indicators is crucial. In this article, we explore the McCallum Rule's components, differences with similar tools like the Taylor Rule, and its application in both monetary policy and algorithmic trading.

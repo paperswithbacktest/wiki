@@ -1,6 +1,12 @@
 ---
-title: "Inflation (Algo Trading)"
-description: "Explore the intricate link between inflation and financial markets, focusing on its impact on economic dynamics, investment strategies, and algorithmic trading solutions. Understand how inflation affects stock valuations, bond yields, and forex, while learning how automated trading systems adapt to inflationary pressures. Discover the importance of inflation data integration for traders and policymakers in navigating modern financial landscapes."
+category: quant_concept
+description: Explore the intricate link between inflation and financial markets, focusing
+  on its impact on economic dynamics, investment strategies, and algorithmic trading
+  solutions. Understand how inflation affects stock valuations, bond yields, and forex,
+  while learning how automated trading systems adapt to inflationary pressures. Discover
+  the importance of inflation data integration for traders and policymakers in navigating
+  modern financial landscapes.
+title: Inflation (Algo Trading)
 ---
 
 Inflation, a critical economic indicator, represents the rate at which the general level of prices for goods and services rises, subsequently eroding purchasing power. This phenomenon intricately links to broader economic dynamics, finance, and algorithmic trading, forming a complex web of interdependencies. In today's globalized financial markets, understanding these connections is vital for both traders and policymakers.

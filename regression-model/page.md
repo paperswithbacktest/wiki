@@ -1,10 +1,9 @@
 ---
-title: Understanding Regression Models in Machine Learning
+category: quant_concept
 description: Regression Models explained including linear logistic and regularized
   methods Evaluate performance with MSE and R squared Discover more inside
+title: Understanding Regression Models in Machine Learning
 ---
-
-
 
 ## Table of Contents
 

@@ -1,6 +1,8 @@
 ---
-title: "Blackboard Trading System (Algo Trading)"
-description: "Explore the transformation of finance from blackboard trading to high-speed algorithmic trading technology revolutionizing efficiency with computer algorithms."
+category: trading_strategy
+description: Explore the transformation of finance from blackboard trading to high-speed
+  algorithmic trading technology revolutionizing efficiency with computer algorithms.
+title: Blackboard Trading System (Algo Trading)
 ---
 
 The finance industry has undergone significant transformations, largely driven by technological advancements, and algorithmic trading stands as a primary driver of this revolution. Algorithmic trading, or algo trading, utilizes complex computer algorithms to automate the execution of financial trades according to predefined criteria. This innovation represents a critical intersection of traditional trading methods and state-of-the-art technology, streamlining processes that were once manual and time-consuming.

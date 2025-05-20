@@ -1,6 +1,15 @@
 ---
-title: "TradingView Trading Strategies Explained (Algo Trading)"
-description: Explore the world of algorithmic trading strategies with TradingView a leading platform that combines advanced charting capabilities and robust backtesting features. This article investigates into how TradingView empowers traders by enabling them to simulate and refine strategies using historical data offering insights into performance without risking capital. With an intuitive scripting language and an extensive library of community-generated indicators TradingView caters to both novice and seasoned traders looking to optimize their trading strategies effectively. Discover how this powerful tool supports strategy development and iterative improvement through comprehensive testing and analysis.
+category: trading_strategy
+description: Explore the world of algorithmic trading strategies with TradingView
+  a leading platform that combines advanced charting capabilities and robust backtesting
+  features. This article investigates into how TradingView empowers traders by enabling
+  them to simulate and refine strategies using historical data offering insights into
+  performance without risking capital. With an intuitive scripting language and an
+  extensive library of community-generated indicators TradingView caters to both novice
+  and seasoned traders looking to optimize their trading strategies effectively. Discover
+  how this powerful tool supports strategy development and iterative improvement through
+  comprehensive testing and analysis.
+title: TradingView Trading Strategies Explained (Algo Trading)
 ---
 
 Algorithmic trading has experienced a significant rise in popularity, driven by the need for traders to execute strategies with greater speed and accuracy than manual trading allows. This automated approach leverages mathematical models and algorithms to make trading decisions based on market data in real time. The surge in popularity is attributable to advances in technology and increased access to complex computational power, making it feasible for both individual and institutional traders to adopt such systems. 

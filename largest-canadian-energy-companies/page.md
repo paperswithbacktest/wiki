@@ -1,6 +1,8 @@
 ---
-title: "List of Largest Canadian Energy Companies (Algo Trading)"
-description: "Explore the major Canadian energy companies and the impact of algorithmic trading on the sector amidst global market challenges and renewable energy shifts."
+category: dataset
+description: Explore the major Canadian energy companies and the impact of algorithmic
+  trading on the sector amidst global market challenges and renewable energy shifts.
+title: List of Largest Canadian Energy Companies (Algo Trading)
 ---
 
 The Canadian energy sector holds a prominent position globally, as one of the largest producers of oil and gas. With vast reserves and advanced technological capabilities, Canada contributes significantly to the worldwide energy supply, catering to both domestic needs and international demands. This article aims to provide a comprehensive understanding of Canadian energy companies, identify the major firms within the industry, and explore the increasingly important role of algorithmic trading in optimizing market operations.

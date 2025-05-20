@@ -1,6 +1,8 @@
 ---
-title: "Methods for Measuring Economic Externalities (Algo Trading)"
-description: "Explore the measurement of externalities in algorithmic trading and its impact on market dynamics to enhance efficiency and stability in financial markets."
+category: quant_concept
+description: Explore the measurement of externalities in algorithmic trading and its
+  impact on market dynamics to enhance efficiency and stability in financial markets.
+title: Methods for Measuring Economic Externalities (Algo Trading)
 ---
 
 In economics, externalities are unintended consequences, either costs or benefits, that affect third parties who are not directly involved in a transaction. These can be categorized as either positive or negative. Positive externalities provide societal benefits, such as the widespread public health improvements arising from vaccination programs. Conversely, negative externalities impose societal costs, with pollution from industrial activities being a classic example. 

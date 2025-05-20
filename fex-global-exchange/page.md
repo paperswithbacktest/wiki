@@ -1,6 +1,8 @@
 ---
-title: "FEX Global Exchange (Algo Trading)"
-description: "Explore FEX Global's innovative algo trading platform for commodities and derivatives Streamline your trading with advanced algorithms for optimal results"
+category: quant_concept
+description: Explore FEX Global's innovative algo trading platform for commodities
+  and derivatives Streamline your trading with advanced algorithms for optimal results
+title: FEX Global Exchange (Algo Trading)
 ---
 
 Financial trading encompasses various financial markets, including commodities, currencies, and derivatives, with each sector presenting its unique dynamics and opportunities. The FEX Global commodity exchange stands as a pivotal player within this domain, particularly in the trading of energy, commodities, and environmental derivatives not only in Australia but also on a broader, international scale. Established as a benchmark for trading these instruments, FEX Global serves as an essential hub for the facilitation and growth of these critical markets.

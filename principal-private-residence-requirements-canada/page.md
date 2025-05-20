@@ -1,6 +1,9 @@
 ---
-title: "Principal Private Residence Requirements in Canada (Algo Trading)"
-description: "Explore Canada's Principal Private Residence requirements and the growing field of algorithmic trading to make informed financial decisions and optimize tax benefits."
+category: quant_concept
+description: Explore Canada's Principal Private Residence requirements and the growing
+  field of algorithmic trading to make informed financial decisions and optimize tax
+  benefits.
+title: Principal Private Residence Requirements in Canada (Algo Trading)
 ---
 
 In this article, we explore Canada's housing requirements concerning Principal Private Residences (PPRs) alongside the emerging domain of algorithmic trading. Understanding the Canadian housing market is crucial for taxpayers, as it helps navigate the complexities of Principal Private Residences and their significant tax implications. A Principal Private Residence, typically one's primary living space, plays a pivotal role in property ownership, offering potential tax benefits and exemptions under specific conditions. We'll examine these requirements closely, providing a comprehensive guide to maintaining primary residences in Canada and outlining their impact on taxpayers and investors alike.

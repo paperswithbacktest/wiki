@@ -1,6 +1,8 @@
 ---
-title: "Market Indexes: Function, Types, and Examples (Algo Trading)"
-description: "Discover the vital role of market indices and algorithmic trading in finance Learn how these tools shape investment strategies and industry practices"
+category: quant_concept
+description: Discover the vital role of market indices and algorithmic trading in
+  finance Learn how these tools shape investment strategies and industry practices
+title: 'Market Indexes: Function, Types, and Examples (Algo Trading)'
 ---
 
 Market indices are foundational tools in finance, acting as essential benchmarks for investors and traders. These indices encapsulate market trends, playing a crucial role in both index trading and crafting investment strategies. By providing a composite view of market movements, indices enable market participants to assess the performance of specific sectors and the broader market. This evaluation not only aids investors in making informed decisions but also allows them to compare the performance of individual investments against the overall market or sector trends.

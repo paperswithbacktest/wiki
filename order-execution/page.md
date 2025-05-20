@@ -1,6 +1,8 @@
 ---
-title: "Order Execution (Algo Trading)"
-description: "Explore the evolving landscape of order execution and algorithmic trading in financial markets Learn how technology enhances trading speed accuracy and efficiency"
+category: trading_strategy
+description: Explore the evolving landscape of order execution and algorithmic trading
+  in financial markets Learn how technology enhances trading speed accuracy and efficiency
+title: Order Execution (Algo Trading)
 ---
 
 The financial markets are experiencing a rapid transformation, fueled by technological advancements and an unrelenting pursuit of efficiency and profitability. In this evolving landscape, order execution and algorithmic trading have become essential elements of modern trading strategies. These components are crucial in enhancing trading performance and optimizing capital allocation.

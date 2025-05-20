@@ -1,6 +1,9 @@
 ---
-title: "Performance Shares: Purpose and Restrictions (Algo Trading)"
-description: "Explore the purpose and restrictions of performance shares in algo trading and understand their impact on aligning interests, optimizing performance, and driving value."
+category: trading_strategy
+description: Explore the purpose and restrictions of performance shares in algo trading
+  and understand their impact on aligning interests, optimizing performance, and driving
+  value.
+title: 'Performance Shares: Purpose and Restrictions (Algo Trading)'
 ---
 
 In today's complex financial landscape, equity compensation, performance shares, and algorithmic trading are pivotal components shaping corporate structures. The interplay between these elements significantly impacts how firms attract, retain, and motivate talent, as well as how they optimize financial performance.
@@ -123,4 +126,3 @@ Machine Learning for Algorithmic Trading by Stefan Jansen. Jansen provides hands
 Quantitative Trading: How to Build Your Own Algorithmic Trading Business by Ernest P. Chan. Chan's book is a practical guide for building and maintaining a [quantitative trading](/wiki/quantitative-trading) business, offering insights into strategy development, risk management, and system execution.
 
 These references and suggested readings provide further insights into the tools and methodologies vital for mastering the integration of equity compensation and algorithmic trading strategies.
-

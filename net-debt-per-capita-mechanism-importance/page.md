@@ -1,6 +1,8 @@
 ---
-title: "Net Debt Per Capita: Definition, Mechanism, and Importance (Algo Trading)"
-description: "Explore the intricacies of net debt and debt per capita, key financial metrics crucial for investors, analysts, and algorithmic trading strategies."
+category: quant_concept
+description: Explore the intricacies of net debt and debt per capita, key financial
+  metrics crucial for investors, analysts, and algorithmic trading strategies.
+title: 'Net Debt Per Capita: Definition, Mechanism, and Importance (Algo Trading)'
 ---
 
 In today's fast-paced financial world, understanding complex financial metrics is crucial for investors and analysts alike. This article explores three important concepts that play a significant role in financial analysis: net debt, debt per capita, and their implications on economic understanding and strategic financial decisions. Moreover, the integration of these metrics into algorithmic trading strategies can significantly enhance financial decision-making.

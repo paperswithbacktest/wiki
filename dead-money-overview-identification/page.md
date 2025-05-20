@@ -1,6 +1,8 @@
 ---
-title: "Dead Money: Overview and Identification (Algo Trading)"
-description: "Discover how to identify and manage dead money in trading while leveraging algorithmic strategies for optimal financial outcomes and portfolio growth."
+category: quant_concept
+description: Discover how to identify and manage dead money in trading while leveraging
+  algorithmic strategies for optimal financial outcomes and portfolio growth.
+title: 'Dead Money: Overview and Identification (Algo Trading)'
 ---
 
 In today's complex financial landscape, understanding financial terms and implementing effective money management strategies are crucial for individual investors and traders. Navigating the intricate world of financial markets requires a firm grasp of key concepts that can significantly influence investment outcomes. This article aims to demystify key financial terms like 'dead money' and explore advanced concepts such as algorithmic trading and its money management implications.

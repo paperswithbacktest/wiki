@@ -1,6 +1,9 @@
 ---
-title: "Margin Account: Overview and Example (Algo Trading)"
-description: "Discover the synergy of margin accounts and algorithmic trading to enhance investment potential while mastering risk management in today's dynamic financial markets."
+category: quant_concept
+description: Discover the synergy of margin accounts and algorithmic trading to enhance
+  investment potential while mastering risk management in today's dynamic financial
+  markets.
+title: 'Margin Account: Overview and Example (Algo Trading)'
 ---
 
 Financial markets today offer a myriad of opportunities for investors and traders to maximize their returns. With the rapid advancement of technology, trading has become more sophisticated, introducing tools that redefine traditional market engagement. Two such pivotal components of modern trading are margin accounts and algorithmic trading. These tools individually harness technology to augment trading efficiency and, when combined, unlock even greater potential.

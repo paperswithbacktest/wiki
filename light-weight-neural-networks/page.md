@@ -1,7 +1,8 @@
 ---
-title: Key Architectures of Light-Weight Neural Networks for Edge AI
+category: quant_concept
 description: Light-Weight Neural Networks bring AI to smartphones and drones by cutting
   parameters and energy for fast image and speech tasks Discover more inside
+title: Key Architectures of Light-Weight Neural Networks for Edge AI
 ---
 
 ![Image](images/1.png)

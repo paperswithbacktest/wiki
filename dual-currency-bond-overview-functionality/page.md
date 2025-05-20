@@ -1,6 +1,8 @@
 ---
-title: "Dual Currency Bond: Overview and Functionality (Algo Trading)"
-description: "Explore the functionality and benefits of dual currency bonds as unique financial instruments offering dual exposure to currency risks and rewards in algotrading."
+category: quant_concept
+description: Explore the functionality and benefits of dual currency bonds as unique
+  financial instruments offering dual exposure to currency risks and rewards in algotrading.
+title: 'Dual Currency Bond: Overview and Functionality (Algo Trading)'
 ---
 
 Dual currency bonds are unique financial instruments that provide a strategic advantage in the landscape of global finance. These bonds are typically denominated in one currency for the principal payment and another for the interest payment, offering investors a dual exposure to different currency risks and rewards. This characteristic makes them particularly relevant for investors seeking to diversify their portfolios across multiple currency regions. Diversification is a core principle in investment strategy, aiming to reduce risk by allocating investments among various financial instruments, industries, and other categories, including currencies.

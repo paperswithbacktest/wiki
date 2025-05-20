@@ -1,6 +1,14 @@
 ---
-title: "Helicopter Money (Algo Trading)"
-description: "Explore the dynamic interaction between helicopter money as a direct economic stimulus, monetary policy strategies, and algorithmic trading in financial markets. This article examines how unconventional monetary tools like helicopter money, which involves distributing funds directly to the public, impact consumer spending, economic stability, and trading strategies. Discover the implications of these measures on inflation, debt sustainability, and market fluctuations, providing a comprehensive overview of modern economic interventions and their effects on global economic health."
+category: trading_strategy
+description: Explore the dynamic interaction between helicopter money as a direct
+  economic stimulus, monetary policy strategies, and algorithmic trading in financial
+  markets. This article examines how unconventional monetary tools like helicopter
+  money, which involves distributing funds directly to the public, impact consumer
+  spending, economic stability, and trading strategies. Discover the implications
+  of these measures on inflation, debt sustainability, and market fluctuations, providing
+  a comprehensive overview of modern economic interventions and their effects on global
+  economic health.
+title: Helicopter Money (Algo Trading)
 ---
 
 This article explores the interconnected themes of helicopter money, monetary policy, economic stimulus, and algorithmic trading. Helicopter money is an unconventional monetary policy tool aimed at injecting liquidity directly into the economy. Unlike traditional approaches such as quantitative easing, helicopter money involves central banks distributing funds directly to the public, potentially increasing consumer spending and economic activity. This strategy, while offering immediate liquidity, also invites debates on its long-term macroeconomic impacts, such as inflation and debt sustainability.
@@ -169,4 +177,4 @@ Ultimately, the future deployment of helicopter money as an economic tool will d
 
 [7]: Jansen, S. (2020). ["Machine Learning for Algorithmic Trading: Predictive Models to Ticker Data and Order Handling Strategies."](https://github.com/stefan-jansen/machine-learning-for-trading) Packt Publishing. 
 
-[8]: Chan, E. P. (2008). ["Quantitative Trading: How to Build Your Own Algorithmic Trading Business."](https://github.com/ftvision/quant_trading_echan_book) Wiley Trading. 
+[8]: Chan, E. P. (2008). ["Quantitative Trading: How to Build Your Own Algorithmic Trading Business."](https://github.com/ftvision/quant_trading_echan_book) Wiley Trading.

@@ -1,6 +1,9 @@
 ---
-title: "Stroud Pound Local Currency (Algo Trading)"
-description: "Discover the Stroud Pound's role in boosting local economies through community currency. Explore its impact, challenges, and the potential of algorithmic trading integration."
+category: quant_concept
+description: Discover the Stroud Pound's role in boosting local economies through
+  community currency. Explore its impact, challenges, and the potential of algorithmic
+  trading integration.
+title: Stroud Pound Local Currency (Algo Trading)
 ---
 
 The concept of community currencies has gained traction in recent years as communities search for innovative ways to bolster local economies. By enabling transactions that focus on local value, these currencies aim to support and sustain regional commercial activity. One notable example is the Stroud Pound, a local currency introduced in 2009 in Stroud, Gloucestershire. This initiative was designed to promote local economic activity by encouraging consumers to make purchases within the community, thereby supporting local businesses and jobs.

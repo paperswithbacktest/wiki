@@ -1,6 +1,9 @@
 ---
-title: "Regulation of Financial Services (Algo Trading)"
-description: "Explore the impact of regulations on the financial services sector and algorithmic trading Enhancing market stability while fostering innovation and preventing crises"
+category: quant_concept
+description: Explore the impact of regulations on the financial services sector and
+  algorithmic trading Enhancing market stability while fostering innovation and preventing
+  crises
+title: Regulation of Financial Services (Algo Trading)
 ---
 
 The financial services sector is a dynamic and complex industry that significantly contributes to the global economy, encompassing a wide range of businesses such as banks, investment houses, lenders, finance companies, real estate brokers, and insurance companies. This sector is integral for facilitating international trade, supporting infrastructure development, and managing personal wealth, underlying its importance in both developed and emerging economies.

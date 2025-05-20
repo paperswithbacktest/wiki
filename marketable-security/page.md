@@ -1,6 +1,10 @@
 ---
-title: "Marketable Security (Algo Trading)"
-description: "Discover how marketable securities and algorithmic trading play pivotal roles in modern investment strategies offering liquidity and precision in financial markets. This article explores the use of marketable assets and the efficiency brought by algorithmic trading enhancing portfolio management and execution efficiency."
+category: quant_concept
+description: Discover how marketable securities and algorithmic trading play pivotal
+  roles in modern investment strategies offering liquidity and precision in financial
+  markets. This article explores the use of marketable assets and the efficiency brought
+  by algorithmic trading enhancing portfolio management and execution efficiency.
+title: Marketable Security (Algo Trading)
 ---
 
 In today's financial landscape, investors are consistently exploring avenues to optimize their portfolios and maximize returns. This quest often encompasses the utilization of diverse financial instruments and strategies, notably marketable securities, marketable assets, and the implementation of algorithmic trading.

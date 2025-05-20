@@ -1,6 +1,10 @@
 ---
-title: "Advantages and Disadvantages of Holding Single Stocks in a Portfolio (Algo Trading)"
-description: "Explore the pros and cons of single stock investments in a portfolio Understand algorithmic trading's role in enhancing strategy efficiency and risk management"
+category: trading_strategy
+description: Explore the pros and cons of single stock investments in a portfolio
+  Understand algorithmic trading's role in enhancing strategy efficiency and risk
+  management
+title: Advantages and Disadvantages of Holding Single Stocks in a Portfolio (Algo
+  Trading)
 ---
 
 In the world of investments, choosing between individual stocks and a diversified portfolio is a pivotal decision for investors. Investing in single stocks offers avenues for high returns, often driven by the performance of individual companies. However, this approach is accompanied by inherent risks and volatility, which can lead to significant financial losses if a company underperforms. On the other hand, a diversified portfolio serves to spread risk across various asset classes, reducing the impact of adverse performance by individual entities. 

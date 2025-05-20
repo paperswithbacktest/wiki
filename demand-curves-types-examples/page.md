@@ -1,6 +1,9 @@
 ---
-title: "Demand Curves: Types and Examples (Algo Trading)"
-description: "Explore the fundamental concepts of demand curves and learn how they influence market forecasts and algorithmic trading strategies in this insightful article"
+category: quant_concept
+description: Explore the fundamental concepts of demand curves and learn how they
+  influence market forecasts and algorithmic trading strategies in this insightful
+  article
+title: 'Demand Curves: Types and Examples (Algo Trading)'
 ---
 
 Demand curves serve as fundamental tools in the field of economics, depicting the relationship between the price of a good or service and its quantity demanded by consumers over a specified period. Typically downward sloping, these curves illustrate the inverse relationship between price and demand: as prices decrease, the demand generally increases, and vice versa. Demand curves are vital for analyzing how markets operate and for predicting consumer behavior, which is an essential component of economic forecasting.

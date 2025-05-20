@@ -1,6 +1,8 @@
 ---
-title: "Glass-Steagall Act: 1933, Impact, and Repeal (Algo Trading)"
-description: "Explore the history and legacy of the Glass-Steagall Act its crucial role in financial reform balancing banking practices and modern regulatory challenges."
+category: quant_concept
+description: Explore the history and legacy of the Glass-Steagall Act its crucial
+  role in financial reform balancing banking practices and modern regulatory challenges.
+title: 'Glass-Steagall Act: 1933, Impact, and Repeal (Algo Trading)'
 ---
 
 The intersection of financial reform and modern banking practices is a dynamic and complex field that has undergone significant transformation over the decades. Historically, one of the pivotal moments in financial regulation was the enactment of the Glass-Steagall Act in 1933, a response to the catastrophic failures of the banking system during the Great Depression. This legislation aimed to restore confidence in the banking system by imposing a clear separation between commercial banking and investment banking. The primary objective was to mitigate the risks associated with conflicts of interest and excessive speculation, which had been prevalent prior to the 1929 stock market crash.[^1^]

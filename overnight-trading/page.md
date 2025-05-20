@@ -1,9 +1,13 @@
 ---
-title: "Overnight Trading (Algo Trading)"
-description: Learn about overnight trading, a type of securities buying and selling activity conducted between the closure of one market session and the opening of the next. Understand its unique dynamics, including decreased liquidity, increased volatility, time zone considerations, and global events impact. Explore strategies, risk management techniques, backtesting, and the psychological aspects of overnight trading.
+category: trading_strategy
+description: Learn about overnight trading, a type of securities buying and selling
+  activity conducted between the closure of one market session and the opening of
+  the next. Understand its unique dynamics, including decreased liquidity, increased
+  volatility, time zone considerations, and global events impact. Explore strategies,
+  risk management techniques, backtesting, and the psychological aspects of overnight
+  trading.
+title: Overnight Trading (Algo Trading)
 ---
-
-
 
 Overnight trading refers to the buying and selling of securities when the main markets are closed. Unlike after-hours trading, which occurs directly following the market close, overnight trading can signify any trade executed during the non-standard hours between one market close and the opening of the next trading day. This type of trading has become more accessible and popular due to the globalization of markets and advancements in technology that allow for 24-hour trading in various assets.
 

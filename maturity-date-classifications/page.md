@@ -1,6 +1,9 @@
 ---
-title: "Maturity Date and Its Classifications (Algo Trading)"
-description: "Discover the significance of maturity dates in investments and algorithmic trading Learn how these key financial concepts influence strategies and maximize returns."
+category: quant_concept
+description: Discover the significance of maturity dates in investments and algorithmic
+  trading Learn how these key financial concepts influence strategies and maximize
+  returns.
+title: Maturity Date and Its Classifications (Algo Trading)
 ---
 
 Investment maturity and maturity dates are crucial concepts in the financial markets, standing as cornerstones for understanding the lifecycle and performance expectations of various financial instruments. Investment maturity refers to the time horizon when an investment reaches its due date, after which the principal and any accrued interest or dividends are expected to be returned to the investor. The maturity date, therefore, marks the end of an investment's lifecycle, establishing the timeframe within which the investment will deliver its promised returns.

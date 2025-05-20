@@ -1,6 +1,8 @@
 ---
-title: "Free Cash Flow Per Share: Overview and Calculations (Algo Trading)"
-description: "Discover the importance of Free Cash Flow and Cash Flow per Share for assessing a company's financial health and making informed algo trading decisions."
+category: quant_concept
+description: Discover the importance of Free Cash Flow and Cash Flow per Share for
+  assessing a company's financial health and making informed algo trading decisions.
+title: 'Free Cash Flow Per Share: Overview and Calculations (Algo Trading)'
 ---
 
 Financial metrics are vital tools for assessing a company's financial health and its potential as an investment opportunity. Among these metrics, Free Cash Flow (FCF) and Cash Flow per Share stand out due to their focus on cash generation and financial stability over time. These metrics differ from traditional indicators that often emphasize accounting profits, providing more accurate insights into how well a company can sustain and grow its operations.
@@ -239,4 +241,3 @@ Overall, the integration of Free Cash Flow and Cash Flow per Share into both tra
 8. Investopedia. "Free Cash Flow (FCF) Definition." https://www.investopedia.com/terms/f/freecashflow.asp. An online resource offering a succinct overview of Free Cash Flow, including its calculation and interpretation.
 
 9. Python for Finance - "Analyzing Financial Data and Implementing Financial Models using Python" by Yves Hilpisch, O’Reilly Media, 2018. This book provides examples of Python programming applied in financial analysis, including calculating and utilizing Free Cash Flow for algorithmic trading.
-

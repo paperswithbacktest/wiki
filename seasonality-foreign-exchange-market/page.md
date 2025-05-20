@@ -1,6 +1,9 @@
 ---
-title: "Seasonality in the Foreign Exchange Market (Algo Trading)"
-description: "Explore how seasonal trends impact currency trading in the forex market and how algorithmic trading enhances strategy implementation by identifying recurring patterns."
+category: trading_strategy
+description: Explore how seasonal trends impact currency trading in the forex market
+  and how algorithmic trading enhances strategy implementation by identifying recurring
+  patterns.
+title: Seasonality in the Foreign Exchange Market (Algo Trading)
 ---
 
 The foreign exchange market, commonly referred to as the forex market, is the largest and most liquid financial market in the world. It facilitates the exchange of currencies, enabling international trade and investment. With a daily trading volume exceeding $6 trillion, the forex market operates 24 hours a day across key financial centers around the world, including London, New York, Tokyo, and Sydney. The forex market is vital to global economics because it determines the relative value of currencies, impacting global trade balances, capital flows, and economic policy decisions. 

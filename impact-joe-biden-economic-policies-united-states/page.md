@@ -1,6 +1,8 @@
 ---
-title: "Impact of Joe Biden's Economic Policies on the United States (Algo Trading)"
-description: "Explore the impact of Biden's economic policies on the U.S. and algorithmic trading Learn how these strategies affect market dynamics and trading opportunities"
+category: trading_strategy
+description: Explore the impact of Biden's economic policies on the U.S. and algorithmic
+  trading Learn how these strategies affect market dynamics and trading opportunities
+title: Impact of Joe Biden's Economic Policies on the United States (Algo Trading)
 ---
 
 This article explores the intersection of U.S. economic policies under President Joe Biden, commonly known as 'Bidenomics', and the evolving world of algorithmic trading. Bidenomics represents a strategic approach aimed at revitalizing the U.S. economy through legislative measures and public investment. Central to this strategy are initiatives like the American Rescue Plan and the Inflation Reduction Act, which are designed to spur economic growth, promote green energy solutions, and improve infrastructure. These policies aim to support the middle class and foster a competitive market environment by implementing measures such as increased taxation on the wealthy and reducing consumer healthcare costs.

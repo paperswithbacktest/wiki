@@ -1,6 +1,8 @@
 ---
-title: "Iraqi Dinar (Algo Trading)"
-description: "Explore the opportunities of Iraqi Dinar trading. Dive into the world of algorithmic trading to mitigate risks and harness volatility for potential gains."
+category: trading_strategy
+description: Explore the opportunities of Iraqi Dinar trading. Dive into the world
+  of algorithmic trading to mitigate risks and harness volatility for potential gains.
+title: Iraqi Dinar (Algo Trading)
 ---
 
 The Iraqi Dinar (IQD) has captured the interest of investors who are drawn to emerging markets due to its intricate historical background and economic possibilities. The currency has been a symbol of both hope and caution; its complex history reflects a tumultuous journey through geopolitical upheavals and economic reforms. For investors, this means both potential opportunities and considerable risks. A key feature of the IQD is its volatility, which has posed challenges but also opened avenues for profit through strategic market engagement.

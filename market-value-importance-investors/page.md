@@ -1,6 +1,8 @@
 ---
-title: "Market Value and Its Importance to Investors (Algo Trading)"
-description: "Discover the importance of market value and investor dynamics in algorithmic trading Explore investment analysis for optimizing portfolios in evolving markets"
+category: quant_concept
+description: Discover the importance of market value and investor dynamics in algorithmic
+  trading Explore investment analysis for optimizing portfolios in evolving markets
+title: Market Value and Its Importance to Investors (Algo Trading)
 ---
 
 The world of investing is continuously evolving, driven by technological advancements, global economic shifts, and financial innovation. In such a dynamic environment, understanding the various components involved in investing can provide investors with a competitive edge. One crucial approach in this context is investment analysis, a systematic process that aids investors in making informed decisions by evaluating the potential risks and returns of different investment opportunities.

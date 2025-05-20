@@ -1,6 +1,14 @@
 ---
-title: "Alternative data (Algo Trading)"
-description: Discover the transformative impact of alternative data in algorithmic trading, where innovative non-traditional data sources offer unique insights for strategic advantage. From social media sentiment to satellite imagery, these data sets reveal market trends beyond conventional metrics, enabling traders to optimize decisions and refine strategies. Explore the growing significance of alternative data, the challenges of its unstructured nature, and the advanced technologies like machine learning that are making its integration into trading systems both feasible and powerful.
+category: dataset
+description: Discover the transformative impact of alternative data in algorithmic
+  trading, where innovative non-traditional data sources offer unique insights for
+  strategic advantage. From social media sentiment to satellite imagery, these data
+  sets reveal market trends beyond conventional metrics, enabling traders to optimize
+  decisions and refine strategies. Explore the growing significance of alternative
+  data, the challenges of its unstructured nature, and the advanced technologies like
+  machine learning that are making its integration into trading systems both feasible
+  and powerful.
+title: Alternative data (Algo Trading)
 ---
 
 Algorithmic trading has significantly transformed financial markets by utilizing intricate algorithms and mathematical models to execute high-frequency trading decisions with precision and speed. This technological advancement has democratized access to trading, enabling both individual and institutional traders to respond to market conditions in real-time. However, as markets evolve, traditional financial metrics alone are proving insufficient for maintaining a competitive edge. To address this, traders are increasingly turning to alternative data sources, which promise unique insights that go beyond conventional performance indicators.

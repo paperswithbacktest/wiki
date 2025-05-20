@@ -1,6 +1,9 @@
 ---
-title: "Preferences Equity Redemption Cumulative Stock (Algo Trading)"
-description: "Explore the unique features of Preference Equity Redemption Cumulative Stock and its role in algorithmic trading Discover enhanced dividends and strategic insights"
+category: quant_concept
+description: Explore the unique features of Preference Equity Redemption Cumulative
+  Stock and its role in algorithmic trading Discover enhanced dividends and strategic
+  insights
+title: Preferences Equity Redemption Cumulative Stock (Algo Trading)
 ---
 
 Preference Equity Redemption Cumulative Stock (PERCS) is a complex financial instrument designed to offer investors enhanced dividends alongside certain conversion features. It embodies a hybrid form of investment, blending characteristics of both equity and fixed income securities. At its core, PERCS is a type of preferred stock that, unlike standard shares, provides cumulative dividends which accrue over time and are prioritized over common stock dividends in the distribution process. The "redemption" aspect refers to the issuer's obligation or ability to buy back the stock from the investors after a specific period or under predetermined conditions.

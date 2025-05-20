@@ -1,6 +1,14 @@
 ---
-title: "Calculation of Shareholders' Equity (Algo Trading)"
-description: "Explore the calculation of shareholders' equity and its significant role in financial analysis and algorithmic trading strategies. Understand how equity, a measure of a company’s net worth, is derived from total assets minus total liabilities, indicating financial health. This article investigates into key financial ratios like Debt-to-Equity and Return on Equity, crucial for decision-making and risk assessment in trading. Gain insight into integrating these metrics in algorithmic models for optimized trading performance, catering to investors, traders, and finance enthusiasts aiming to refine their market strategies."
+category: quant_concept
+description: Explore the calculation of shareholders' equity and its significant role
+  in financial analysis and algorithmic trading strategies. Understand how equity,
+  a measure of a company’s net worth, is derived from total assets minus total liabilities,
+  indicating financial health. This article investigates into key financial ratios
+  like Debt-to-Equity and Return on Equity, crucial for decision-making and risk assessment
+  in trading. Gain insight into integrating these metrics in algorithmic models for
+  optimized trading performance, catering to investors, traders, and finance enthusiasts
+  aiming to refine their market strategies.
+title: Calculation of Shareholders' Equity (Algo Trading)
 ---
 
 In the complex world of finance, understanding various financial metrics is crucial for investors and analysts. This article examines the intricate details of equity calculation, financial metrics, shareholders' equity, and their interplay with algorithmic trading.

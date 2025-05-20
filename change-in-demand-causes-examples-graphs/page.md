@@ -1,6 +1,8 @@
 ---
-title: "Change in Demand: Causes, Examples, and Graphs (Algo Trading)"
-description: "Explore the impact of changing demand on trading with insights into demand graphs and shocks Discover how algorithmic trading leverages these dynamics"
+category: quant_concept
+description: Explore the impact of changing demand on trading with insights into demand
+  graphs and shocks Discover how algorithmic trading leverages these dynamics
+title: 'Change in Demand: Causes, Examples, and Graphs (Algo Trading)'
 ---
 
 The relationship between demand and its graphical representation plays a crucial role in economic theory and trading strategies. This article examines how demand influences the demand graph and algorithmic trading, providing a comprehensive overview of key economic concepts such as change in demand and demand shocks. These phenomena are typically visualized on a demand graph, where demand curves illustrate how quantities demanded respond to various price levels. A shift in these curves, referred to as a change in demand, is driven by factors unrelated to price, such as consumer preferences or income changes.
@@ -181,4 +183,4 @@ In conclusion, understanding and harnessing the power of demand dynamics is not 
 
 [7]: Brynjolfsson, E., & McAfee, A. (2014). ["The Second Machine Age: Work, Progress, and Prosperity in a Time of Brilliant Technologies"](https://psycnet.apa.org/record/2014-07087-000) W. W. Norton & Company. 
 
-[8]: Shiller, R. J. (2008). ["The Subprime Solution: How Today's Global Financial Crisis Happened, and What to Do about It"](https://www.jstor.org/stable/j.cttq94jd) Princeton University Press. 
+[8]: Shiller, R. J. (2008). ["The Subprime Solution: How Today's Global Financial Crisis Happened, and What to Do about It"](https://www.jstor.org/stable/j.cttq94jd) Princeton University Press.

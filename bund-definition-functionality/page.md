@@ -1,6 +1,9 @@
 ---
-title: "Bund: Definition and Functionality (Algo Trading)"
-description: "Explore the role of algorithmic trading in the Bund market with insights on its advantages like reduced costs and enhanced liquidity for better investment outcomes."
+category: quant_concept
+description: Explore the role of algorithmic trading in the Bund market with insights
+  on its advantages like reduced costs and enhanced liquidity for better investment
+  outcomes.
+title: 'Bund: Definition and Functionality (Algo Trading)'
 ---
 
 Algorithmic trading represents a transformative force within the financial markets, characterized by the use of computer algorithms to automate the execution of trades with exceptional precision and speed. This method has become increasingly pivotal, particularly in fixed-income securities, where German government bonds, known as Bunds, have garnered significant interest. Bunds serve as cornerstone instruments in Germany's fiscal environment, offering a combination of stability and liquidity that attracts investors worldwide.

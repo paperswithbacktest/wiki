@@ -1,6 +1,8 @@
 ---
-title: "Dummy CUSIP Number (Algo Trading)"
-description: "Explore the importance of dummy CUSIP numbers in securities trading. Discover their role in facilitating trades, algorithmic functions, and compliance."
+category: dataset
+description: Explore the importance of dummy CUSIP numbers in securities trading.
+  Discover their role in facilitating trades, algorithmic functions, and compliance.
+title: Dummy CUSIP Number (Algo Trading)
 ---
 
 In the intricate world of securities trading, identifiers play a crucial role in ensuring the proper execution of transactions. One of the most pivotal tools in the identification of securities in North America is the CUSIP number. This standardized identifier is employed to keep track of issuers and the types of securities, ensuring uniformity and accuracy across trading activities.

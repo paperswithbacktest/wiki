@@ -1,6 +1,8 @@
 ---
-title: "Hüseyin Erkan - Turkish Business Leader (Algo Trading)"
-description: "Hüseyin Erkan is a leading Turkish business figure known for transformative contributions to algorithmic trading and global financial markets."
+category: quant_concept
+description: Hüseyin Erkan is a leading Turkish business figure known for transformative
+  contributions to algorithmic trading and global financial markets.
+title: Hüseyin Erkan - Turkish Business Leader (Algo Trading)
 ---
 
 Hüseyin Erkan is a distinguished figure in the financial sector, particularly recognized for his leadership roles and contributions to algorithmic trading and stock exchanges. Born in 1958 in Konya, Turkey, Erkan has made substantial strides within the financial markets, both in Turkey and on a global scale. His career is marked by a series of transformative initiatives that have significantly influenced the modern financial landscape.

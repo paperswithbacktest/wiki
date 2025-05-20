@@ -1,6 +1,8 @@
 ---
-title: "Comparison of ETFs and Mutual Funds (Algo Trading)"
-description: "Compare ETFs, mutual funds, and algo trading to understand their benefits, risks, and unique features. Make informed investment choices with this guide."
+category: quant_concept
+description: Compare ETFs, mutual funds, and algo trading to understand their benefits,
+  risks, and unique features. Make informed investment choices with this guide.
+title: Comparison of ETFs and Mutual Funds (Algo Trading)
 ---
 
 Understanding different investment strategies is crucial for any investor aiming to maximize returns. This article compares three popular investment methods: Mutual Funds, ETFs (Exchange-Traded Funds), and Algo Trading. The purpose is to provide clarity on the fundamentals, benefits, and considerations of each approach.

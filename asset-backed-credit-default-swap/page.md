@@ -1,6 +1,9 @@
 ---
-title: "Asset-Backed Credit Default Swap (Algo Trading)"
-description: "Explore the essentials of asset-backed credit default swaps Discover how these financial instruments offer risk management and portfolio diversification benefits"
+category: quant_concept
+description: Explore the essentials of asset-backed credit default swaps Discover
+  how these financial instruments offer risk management and portfolio diversification
+  benefits
+title: Asset-Backed Credit Default Swap (Algo Trading)
 ---
 
 Asset-backed credit default swaps (ABCDS) are sophisticated financial instruments that play a critical role in modern financial markets. These derivatives are designed to provide protection against the default risk of asset-backed securities (ABS), which are financial products backed by a pool of underlying assets such as mortgages, loans, or receivables. By offering a mechanism to hedge against potential defaults, ABCDS serve as valuable tools for risk management and portfolio diversification.

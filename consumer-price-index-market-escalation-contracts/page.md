@@ -1,6 +1,9 @@
 ---
-title: "Consumer Price Index in Market Escalation Contracts (Algo Trading)"
-description: "Discover how the Consumer Price Index enhances market escalation contracts and algorithmic trading strategies to optimize inflation adjustments and financial stability."
+category: quant_concept
+description: Discover how the Consumer Price Index enhances market escalation contracts
+  and algorithmic trading strategies to optimize inflation adjustments and financial
+  stability.
+title: Consumer Price Index in Market Escalation Contracts (Algo Trading)
 ---
 
 In the rapidly changing economic landscape, businesses seek ways to mitigate risks associated with long-term contracts. Escalation clauses in contracts serve as critical tools, often employing the Consumer Price Index (CPI) as a reliable measure. CPI, calculated by the Bureau of Labor Statistics, tracks changes in the price level of a market basket of consumer goods and services purchased by households. As an inflation indicator, it allows businesses to adjust prices or wages accordingly, maintaining the real value of these figures over time. 

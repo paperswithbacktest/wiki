@@ -1,6 +1,8 @@
 ---
-title: "Homemade Leverage and Its Mechanism (Algo Trading)"
-description: "Explore homemade leverage, corporate capital structure, and algorithmic trading. Learn how these elements enhance investment strategies and outcomes."
+category: trading_strategy
+description: Explore homemade leverage, corporate capital structure, and algorithmic
+  trading. Learn how these elements enhance investment strategies and outcomes.
+title: Homemade Leverage and Its Mechanism (Algo Trading)
 ---
 
 Financial strategies have evolved significantly, with interconnected elements such as homemade leverage, corporate capital structure, and algorithmic trading playing pivotal roles in modern financial management practices. These strategies collectively enhance investment outcomes and optimize portfolio management.

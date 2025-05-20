@@ -1,6 +1,9 @@
 ---
-title: "Difference Between Production and Manufacturing Costs (Algo Trading)"
-description: "Explore the distinctions and importance of manufacturing and production costs in algo trading to enhance efficiency and profitability through precise cost analysis."
+category: quant_concept
+description: Explore the distinctions and importance of manufacturing and production
+  costs in algo trading to enhance efficiency and profitability through precise cost
+  analysis.
+title: Difference Between Production and Manufacturing Costs (Algo Trading)
 ---
 
 In the complex world of production, understanding costs is crucial. This article explores the intricacies of manufacturing costs, production costs, and cost analysis, particularly in the context of algorithmic trading. Cost analysis is a critical process that helps businesses evaluate and manage their expenses effectively, ensuring profitability and efficiency. By systematically examining and interpreting cost data, companies gain insights into their financial performance and can identify areas for improvement. 

@@ -1,6 +1,9 @@
 ---
-title: "Days Payable Outstanding and Calculation Methods (Algo Trading)"
-description: "Discover how Days Payable Outstanding (DPO) impacts financial strategy and algorithmic trading by analyzing its calculation and application for optimized outcomes."
+category: quant_concept
+description: Discover how Days Payable Outstanding (DPO) impacts financial strategy
+  and algorithmic trading by analyzing its calculation and application for optimized
+  outcomes.
+title: Days Payable Outstanding and Calculation Methods (Algo Trading)
 ---
 
 Days Payable Outstanding (DPO) is a critical financial metric that offers significant insights into a company’s efficiency in managing payment strategies towards its suppliers. As a vital component of financial health, DPO measures the average time a company takes to settle its debts with trade creditors. This period not only impacts the company's cash flow management but also reflects its ability to negotiate favorable credit terms, directly influencing its liquidity and operational strategy.

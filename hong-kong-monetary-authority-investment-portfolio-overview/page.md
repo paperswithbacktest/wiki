@@ -1,6 +1,9 @@
 ---
-title: "Hong Kong Monetary Authority Investment Portfolio Overview (Algo Trading)"
-description: "Explore the role of algorithmic trading in the Hong Kong Monetary Authority's investment portfolio management aimed at optimizing returns and ensuring financial stability."
+category: dataset
+description: Explore the role of algorithmic trading in the Hong Kong Monetary Authority's
+  investment portfolio management aimed at optimizing returns and ensuring financial
+  stability.
+title: Hong Kong Monetary Authority Investment Portfolio Overview (Algo Trading)
 ---
 
 The Hong Kong Monetary Authority (HKMA) is pivotal in upholding the financial stability of Hong Kong, a leading global financial hub. Central to HKMA's function is the management of its Investment Portfolio, which is integral to maintaining currency stability and supporting the local financial system. This portfolio encompasses substantial assets, reflecting HKMA's strategic approaches to wealth management and financial security.

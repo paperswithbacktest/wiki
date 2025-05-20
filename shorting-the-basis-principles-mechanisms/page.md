@@ -1,6 +1,6 @@
 ---
 title: "Shorting The Basis: Principles And Mechanisms (Algo Trading)"
-description: "Explore "Short the Basis" in futures trading to mitigate price risks by securing price differentials. Learn principles, mechanisms, and algorithmic innovations."
+description: 'Explore "Short the Basis" in futures trading to mitigate price risks by securing price differentials. Learn principles, mechanisms, and algorithmic innovations.'
 ---
 
 Futures trading is a fundamental component of the financial markets, playing a crucial role in both hedging and speculation activities. This trading mechanism enables participants to navigate future uncertainties by locking in prices today for transactions scheduled at a later date. Among the various strategies employed in futures trading, "short the basis" stands out as a notable approach for mitigating price risks. This strategy entails purchasing a futures contract while concurrently selling the underlying asset in the spot market. Its primary goal is to hedge against potential price fluctuations by solidifying a price differential, thus offering stability in revenue or costs over specific timeframes.

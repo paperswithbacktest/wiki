@@ -1,6 +1,8 @@
 ---
-title: "Consumer Spending: Measurement and Importance (Algo Trading)"
-description: "Explore how consumer spending, vital to GDP and economic activity, influences algorithmic trading strategies by analyzing data trends and market behaviors."
+category: quant_concept
+description: Explore how consumer spending, vital to GDP and economic activity, influences
+  algorithmic trading strategies by analyzing data trends and market behaviors.
+title: 'Consumer Spending: Measurement and Importance (Algo Trading)'
 ---
 
 Consumer spending is a fundamental pillar of economic activity, accounting for a substantial portion of the Gross Domestic Product (GDP) in many economies worldwide. By converting individual consumption choices into a measurable economic force, consumer spending drives production, influences business investment decisions, and shapes labor markets. In the United States, for example, consumer spending constitutes approximately two-thirds of GDP, underscoring its critical role as an economic engine.

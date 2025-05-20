@@ -1,6 +1,9 @@
 ---
-title: "IEX API Guide (Algo Trading)"
-description: Explore the transformative impact of IEX APIs for algorithmic trading with insights into their cost-effectiveness real-time data access and robust analytics capabilities that enhance trading strategies and competitive market outcomes.
+category: dataset
+description: Explore the transformative impact of IEX APIs for algorithmic trading
+  with insights into their cost-effectiveness real-time data access and robust analytics
+  capabilities that enhance trading strategies and competitive market outcomes.
+title: IEX API Guide (Algo Trading)
 ---
 
 Algorithmic trading has revolutionized the financial markets by automating complex and high-frequency trading decisions, leveraging vast amounts of data to execute trades with precision and speed that surpass human capabilities. This automated approach to trading not only improves efficiency but also enhances market liquidity and reduces transaction costs. With the financial markets becoming increasingly data-driven, the ability to adapt quickly to changing patterns and execute strategies at lightning speed is indispensable. 

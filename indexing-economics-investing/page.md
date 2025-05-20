@@ -1,6 +1,9 @@
 ---
-title: "Indexing in Economics and Investing (Algo Trading)"
-description: "Explore the intersection of economics indexing and algorithmic trading in modern investing Learn how technology enhances portfolio management and risk strategies"
+category: quant_concept
+description: Explore the intersection of economics indexing and algorithmic trading
+  in modern investing Learn how technology enhances portfolio management and risk
+  strategies
+title: Indexing in Economics and Investing (Algo Trading)
 ---
 
 The world of investing has undergone a profound transformation with the integration of technology, moving beyond traditional human decision-making to embrace sophisticated algorithms and automated strategies. This evolution has been driven by the fusion of investing practices with economics, indexing, and algorithmic trading. These elements collectively contribute to maximizing returns while minimizing risks. In today's investment landscape, complex algorithms analyze vast amounts of data to inform decision-making, economic indicators guide strategic adjustments, and automated trading systems execute precise transactions.

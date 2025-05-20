@@ -1,9 +1,11 @@
 ---
-title: "Xetra Trading System (Algo Trading)"
-description: "Xetra Trading System by Deutsche Boerse AG is a leading electronic trading platform leveraging T7 technology for international equities and ETPs."
+category: quant_concept
+description: Xetra Trading System by Deutsche Boerse AG is a leading electronic trading
+  platform leveraging T7 technology for international equities and ETPs.
+title: Xetra Trading System (Algo Trading)
 ---
 
- to Xetra Trading System
+to Xetra Trading System
 
 Xetra is an advanced electronic trading platform owned and operated by Deutsche Boerse AG, prominently utilized for the trading of international equities and exchange-traded products (ETPs). Since its inception, Xetra has played a crucial role in the digitization and modernization of European financial markets. The platform leverages cutting-edge technologies to facilitate efficient and transparent trading, thereby attracting a broad range of market participants including institutional investors, banks, and private traders.
 

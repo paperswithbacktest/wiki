@@ -1,10 +1,9 @@
 ---
-title: Understanding Random Forest Algorithms For Reliable Predictions
+category: quant_concept
 description: Random Forest uses multiple decision trees and random feature sampling
   to boost prediction accuracy and prevent overfitting Discover more inside.
+title: Understanding Random Forest Algorithms For Reliable Predictions
 ---
-
-
 
 ## Table of Contents
 

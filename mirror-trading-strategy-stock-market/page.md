@@ -1,6 +1,8 @@
 ---
-title: "Mirror Trading Strategy in Stock Market (Algo Trading)"
-description: "Explore the strategic benefits of mirror trading and algorithmic trading in the stock market Learn how these innovations enhance decision-making and efficiency"
+category: trading_strategy
+description: Explore the strategic benefits of mirror trading and algorithmic trading
+  in the stock market Learn how these innovations enhance decision-making and efficiency
+title: Mirror Trading Strategy in Stock Market (Algo Trading)
 ---
 
 In recent years, the landscape of stock market trading strategies has transformed significantly, driven by rapid technological advancements and innovations. Traditional trading methods, which often rely on manual decision-making processes and intuition, are increasingly complemented or replaced by modern techniques such as mirror trading and algorithmic (algo) trading. These contemporary approaches leverage cutting-edge technology to enhance decision-making, improve efficiency, and potentially increase profitability in trading activities.

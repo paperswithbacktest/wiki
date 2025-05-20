@@ -1,6 +1,8 @@
 ---
-title: "Leveraged ETFs Tracking the Banking Sector (Algo Trading)"
-description: "Explore the dynamics of leveraged ETFs in the banking sector and algorithmic trading strategies to maximize gains while understanding inherent risks."
+category: trading_strategy
+description: Explore the dynamics of leveraged ETFs in the banking sector and algorithmic
+  trading strategies to maximize gains while understanding inherent risks.
+title: Leveraged ETFs Tracking the Banking Sector (Algo Trading)
 ---
 
 The banking sector plays a crucial role in the global economy by managing deposits, extending credit, and investing in various financial assets. Its operations facilitate economic growth and stability by providing the necessary funds for businesses and individuals' financial activities. In recent years, financial instruments like leveraged exchange-traded funds (ETFs) have gained popularity as they offer investors an opportunity to amplify their exposure to certain market sectors, including banking. 

@@ -1,6 +1,8 @@
 ---
-title: "Quarter-To-Date Analysis and Applications (Algo Trading)"
-description: "Explore the pivotal role of quarter-to-date analysis in finance and algorithmic trading to make informed strategic decisions and optimize financial outcomes."
+category: trading_strategy
+description: Explore the pivotal role of quarter-to-date analysis in finance and algorithmic
+  trading to make informed strategic decisions and optimize financial outcomes.
+title: Quarter-To-Date Analysis and Applications (Algo Trading)
 ---
 
 In the fast-paced world of finance, quarter-to-date (QTD) analysis is instrumental in evaluating company performance and fortifying strategic decision-making. By examining data from the beginning of a fiscal quarter up to the current date, QTD provides pivotal insights into how a company is progressing towards its financial objectives within this specific timeframe. This ongoing assessment enables businesses to make adjustments as necessary, rather than waiting until the end of the quarter, thus offering an agile approach to achieving set goals. 

@@ -1,6 +1,9 @@
 ---
-title: "Breakout Trading: Overview and Types with Example (Algo Trading)"
-description: "Explore breakout trading and algo trading strategies to capture significant market movements. Understand how these methods leverage technological advancements for potential success."
+category: trading_strategy
+description: Explore breakout trading and algo trading strategies to capture significant
+  market movements. Understand how these methods leverage technological advancements
+  for potential success.
+title: 'Breakout Trading: Overview and Types with Example (Algo Trading)'
 ---
 
 Trading strategies are systematic methods employed by traders to guide their decision-making processes within financial markets. These strategies are developed based on a variety of factors such as historical data analysis, market trends, and specific financial instruments. Among the array of trading strategies, breakout trading stands out for its simplicity and potential profitability, especially when market volatility is heightened. Breakout trading involves identifying key support and resistance levels and entering trades when the price breaks through these levels. This strategy capitalizes on the momentum following a breakout, when traders anticipate significant price movement in the direction of the break.

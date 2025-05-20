@@ -1,6 +1,9 @@
 ---
-title: "Non-stationarity in financial data (Algo Trading)"
-description: "Discover how non-stationarity in financial data impacts algorithmic trading and explore effective strategies to convert such data into stationary form for better forecasts."
+category: quant_concept
+description: Discover how non-stationarity in financial data impacts algorithmic trading
+  and explore effective strategies to convert such data into stationary form for better
+  forecasts.
+title: Non-stationarity in financial data (Algo Trading)
 ---
 
 In the financial world, understanding time series data is crucial for informed market predictions and decision-making. Time series data, representing observations over time, is instrumental in analyzing trends and patterns that can inform various financial strategies. However, a significant challenge arises from non-stationarity, a characteristic of time series data where statistical properties such as mean, variance, and autocorrelation change over time. This poses challenges for traditional modeling techniques, which usually assume that these properties remain constant, thereby complicating tasks like forecasting and risk management.
@@ -195,4 +198,3 @@ Box, G.E.P., Jenkins, G.M., Reinsel, G.C., & Ljung, G.M. (2015) offer an in-dept
 Hamilton, J. D. (1994) in "Time Series Analysis" provides a rigorous treatment of both stationary and non-stationary time series data, with methodologies for understanding and addressing non-stationarity. This text is crucial for those developing algorithmic trading strategies, covering theoretical and applied aspects of econometrics that equip practitioners with tools to effectively model and predict financial markets within non-stationary contexts. 
 
 These references collectively offer a foundation for addressing the complexities of non-stationary processes in financial data analysis, emphasizing the transformation of such data into a form suitable for reliable forecasting and creating adaptive financial models.
-

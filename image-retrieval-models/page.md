@@ -1,7 +1,8 @@
 ---
-title: Understanding Image Retrieval Models and Advanced Techniques
+category: quant_concept
 description: Image retrieval models in machine learning showcase RFE DELG and DOLG
   techniques to enhance search precision and speed. Discover more inside.
+title: Understanding Image Retrieval Models and Advanced Techniques
 ---
 
 ![Image](images/1.png)

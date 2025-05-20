@@ -1,6 +1,8 @@
 ---
-title: "Drug Pricing Strategies of Pharmaceutical Companies (Algo Trading)"
-description: "Explore drug pricing strategies in pharma, focusing on R&D costs, ethical considerations, and algorithmic trading. Learn how firms balance profit and accessibility."
+category: quant_concept
+description: Explore drug pricing strategies in pharma, focusing on R&D costs, ethical
+  considerations, and algorithmic trading. Learn how firms balance profit and accessibility.
+title: Drug Pricing Strategies of Pharmaceutical Companies (Algo Trading)
 ---
 
 The pharmaceutical industry plays a crucial role in shaping global health outcomes and economic stability. Drug pricing within this sector is a multifaceted process, driven by a range of factors that include the costs associated with research and development (R&D), market demand, and the regulatory frameworks that govern the approval and distribution of medications. These elements contribute to the ongoing complexity of determining appropriate and fair pricing for pharmaceutical products.

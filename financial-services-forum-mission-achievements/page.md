@@ -1,6 +1,9 @@
 ---
-title: "Financial Services Forum: Mission and Achievements (Algo Trading)"
-description: "Explore how the Financial Services Forum influences the financial sector through policy advocacy, innovation in algo trading, and promoting economic growth globally."
+category: quant_concept
+description: Explore how the Financial Services Forum influences the financial sector
+  through policy advocacy, innovation in algo trading, and promoting economic growth
+  globally.
+title: 'Financial Services Forum: Mission and Achievements (Algo Trading)'
 ---
 
 The Financial Services Forum plays a vital role in the financial sector by advocating for policies that promote economic growth, job creation, and global competitiveness. Established as a collective of financial leaders, the forum serves as a platform for discussing key issues and fostering collaboration among industry stakeholders. Its influence extends across various facets of finance, prominently including the significant field of algorithmic trading.

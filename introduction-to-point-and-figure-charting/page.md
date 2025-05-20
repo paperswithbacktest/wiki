@@ -1,6 +1,8 @@
 ---
-title: "Introduction to Point and Figure Charting (Algo Trading)"
-description: "Explore the unique method of point and figure charting for algorithmic trading focusing on price changes to enhance your trading strategy and decision-making."
+category: quant_concept
+description: Explore the unique method of point and figure charting for algorithmic
+  trading focusing on price changes to enhance your trading strategy and decision-making.
+title: Introduction to Point and Figure Charting (Algo Trading)
 ---
 
 Point and figure charting is a distinct method in the landscape of technical analysis that offers a unique perspective on market movements by focusing solely on price changes and ignoring the time factor. This technique visually represents price movements through a series of Xs and Os—Xs indicate price increases, while Os signify price decreases—creating a clear, step-like pattern that highlights trends and support/resistance levels without the noise of minor price fluctuations.

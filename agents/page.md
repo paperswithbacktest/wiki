@@ -1,9 +1,12 @@
 ---
-title: "Agents (Algo Trading)"
-description: Discover the role of agents in algorithmic trading, a game-changer in the ever-evolving world of finance. Learn how these autonomous market players, equipped with AI capabilities, analyze markets, optimize orders, and monitor trends. Explore the potential impact on market homogenization and ethical concerns. Prepare for the future of algo trading with valuable resources and insights.
+category: quant_concept
+description: Discover the role of agents in algorithmic trading, a game-changer in
+  the ever-evolving world of finance. Learn how these autonomous market players, equipped
+  with AI capabilities, analyze markets, optimize orders, and monitor trends. Explore
+  the potential impact on market homogenization and ethical concerns. Prepare for
+  the future of algo trading with valuable resources and insights.
+title: Agents (Algo Trading)
 ---
-
-
 
 Artificial intelligence (AI) has revolutionized various industries, and its impact on trading is noteworthy. Over the past few decades, the trading landscape has transformed significantly due to AI's integration. Initially, trading was a manually intensive endeavor, requiring human traders to engage in complex analysis and decision-making processes. AI has changed this paradigm, enabling automated systems to process vast amounts of data, execute trades, and even predict market trends with unprecedented speed and accuracy.
 

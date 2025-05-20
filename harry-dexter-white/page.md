@@ -1,6 +1,8 @@
 ---
-title: "Harry Dexter White (Algo Trading)"
-description: "Explore Harry Dexter White's role in shaping the post-war economic order through the Bretton Woods Conference while examining the espionage allegations."
+category: quant_concept
+description: Explore Harry Dexter White's role in shaping the post-war economic order
+  through the Bretton Woods Conference while examining the espionage allegations.
+title: Harry Dexter White (Algo Trading)
 ---
 
 Harry Dexter White was a distinguished American economist and influential government official renowned for his pivotal role in shaping the post-war global economic order. Born in Boston in 1892, White's career trajectory led him to become one of the central figures in establishing the modern international financial landscape. He is most notably recognized for his substantial contributions to the Bretton Woods Conference, an international gathering held in 1944 that sought to establish a stable post-war economic framework. This conference led to the creation of foundational global financial institutions such as the International Monetary Fund (IMF) and the World Bank, both of which have played critical roles in international economic policy and development.

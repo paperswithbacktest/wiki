@@ -1,6 +1,15 @@
 ---
-title: "Smart order routing (Algo Trading)"
-description: Smart order routing (SOR) optimizes order execution across diverse trading venues, addressing challenges of liquidity fragmentation in modern algorithmic trading. By analyzing market data in real-time, SOR systems ensure better price discovery and execution efficiency, crucial for volatile markets. SOR minimizes price slippage and enhances trading performance by directing orders to favorable liquidity pools. Originating in the 1980s, SOR has evolved alongside regulatory changes, continuously advancing to process large volumes of data quickly. It enables simultaneous multi-venue access, automated price discovery, and supports custom algorithms, despite challenges like latency and complexity.
+category: quant_concept
+description: Smart order routing (SOR) optimizes order execution across diverse trading
+  venues, addressing challenges of liquidity fragmentation in modern algorithmic trading.
+  By analyzing market data in real-time, SOR systems ensure better price discovery
+  and execution efficiency, crucial for volatile markets. SOR minimizes price slippage
+  and enhances trading performance by directing orders to favorable liquidity pools.
+  Originating in the 1980s, SOR has evolved alongside regulatory changes, continuously
+  advancing to process large volumes of data quickly. It enables simultaneous multi-venue
+  access, automated price discovery, and supports custom algorithms, despite challenges
+  like latency and complexity.
+title: Smart order routing (Algo Trading)
 ---
 
 Smart order routing (SOR) plays a significant role in modern algorithmic trading by improving the execution of orders across a variety of trading venues. As the number of trading platforms has increased, so too has the complexity of executing trades efficiently. This growth has resulted in liquidity fragmentation, where the same stock may be traded at different prices and volumes across multiple platforms. This fragmentation poses challenges for traders seeking to optimize their buy and sell positions. SOR addresses these challenges by navigating through this fragmented liquidity landscape to execute trades at the best available prices.

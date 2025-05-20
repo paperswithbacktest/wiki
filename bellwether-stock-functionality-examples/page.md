@@ -1,6 +1,8 @@
 ---
-title: "Bellwether Stock: Definition, Functionality, and Examples (Algo Trading)"
-description: "Discover how bellwether stocks serve as market indicators highlighting broader economic trends and influencing algorithmic trading strategies for investors."
+category: quant_concept
+description: Discover how bellwether stocks serve as market indicators highlighting
+  broader economic trends and influencing algorithmic trading strategies for investors.
+title: 'Bellwether Stock: Definition, Functionality, and Examples (Algo Trading)'
 ---
 
 Bellwether stocks hold substantial importance in the stock market, serving as key indicators of broader market and economic trends. These stocks typically belong to companies that are market leaders in their respective sectors or those whose performances are often reflective of the entire economy's health. As such, analyzing bellwether stocks can provide valuable insights into potential economic growth or slowdowns, allowing investors and analysts to adjust their strategies accordingly.

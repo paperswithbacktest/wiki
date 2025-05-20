@@ -1,6 +1,9 @@
 ---
-title: "Russian Option: Explanation and Example (Algo Trading)"
-description: "Explore the distinctive traits of Russian options and algorithmic trading within financial markets. Learn about their unique features, benefits, and associated risks."
+category: quant_concept
+description: Explore the distinctive traits of Russian options and algorithmic trading
+  within financial markets. Learn about their unique features, benefits, and associated
+  risks.
+title: 'Russian Option: Explanation and Example (Algo Trading)'
 ---
 
 Financial derivatives and financial instruments are essential to the functionality and resilience of the global financial system. These tools allow market participants to hedge risk, speculate on price movements, and improve market liquidity. Among the wide variety of derivatives, Russian options and algorithmic trading represent areas of particular interest due to their unique characteristics and transformative potential.

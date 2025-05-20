@@ -1,6 +1,9 @@
 ---
-title: "Fighting the Tape: Mechanics and Examples (Algo Trading)"
-description: "Explore the contrarian strategy of "fighting the tape" in algorithmic trading. Learn how to navigate market trends with informed decisions for potential rewards."
+category: trading_strategy
+description: Explore the contrarian strategy of "fighting the tape" in algorithmic
+  trading. Learn how to navigate market trends with informed decisions for potential
+  rewards.
+title: 'Fighting the Tape: Mechanics and Examples (Algo Trading)'
 ---
 
 The stock market is a dynamic and complex space, influenced by multifaceted factors including investor sentiment and macroeconomic conditions. Participant behavior and external economic indicators continuously shape market movements, necessitating a variety of trading strategies to navigate these fluctuations. Among these strategies, "fighting the tape" stands out due to its contrarian nature. This approach involves trading against prevailing market trends, betting that current price directions will reverse. 

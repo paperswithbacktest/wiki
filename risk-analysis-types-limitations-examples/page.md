@@ -1,6 +1,14 @@
 ---
-title: "Risk Analysis: Types, Limitations, and Examples (Algo Trading)"
-description: "Explore the essential aspects of risk analysis in algorithmic trading with an in-depth look at various risk types their limitations and practical examples to enhance trading algorithms' resilience. Discover how qualitative and quantitative risk analysis methodologies can be employed to identify assess and prioritize risks effectively mitigating potential financial impacts. Understand the significance of market operational model and liquidity risks and learn best practices for managing these challenges in the fast-paced world of algo trading ensuring strategic trading decisions that align with real-time market conditions."
+category: quant_concept
+description: Explore the essential aspects of risk analysis in algorithmic trading
+  with an in-depth look at various risk types their limitations and practical examples
+  to enhance trading algorithms' resilience. Discover how qualitative and quantitative
+  risk analysis methodologies can be employed to identify assess and prioritize risks
+  effectively mitigating potential financial impacts. Understand the significance
+  of market operational model and liquidity risks and learn best practices for managing
+  these challenges in the fast-paced world of algo trading ensuring strategic trading
+  decisions that align with real-time market conditions.
+title: 'Risk Analysis: Types, Limitations, and Examples (Algo Trading)'
 ---
 
 Algorithmic trading has fundamentally transformed the financial markets. By leveraging mathematical models and complex algorithms, it automates trade execution, resulting in faster and more efficient transactions. This technological advancement allows traders to capitalize on fleeting market opportunities that are imperceptible to human traders due to their speed and complexity. However, alongside these advantages, the increased use of algorithms introduces a unique set of challenges, particularly around risk.

@@ -1,7 +1,8 @@
 ---
-title: Exploring AutoML Components Benefits Challenges and Future Trends
+category: quant_concept
 description: AutoML automates data prep model selection and hyperparameter tuning
   into workflows that accelerate machine learning projects Discover more inside
+title: Exploring AutoML Components Benefits Challenges and Future Trends
 ---
 
 ![Image](images/1.png)

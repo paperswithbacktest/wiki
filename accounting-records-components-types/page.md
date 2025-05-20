@@ -1,6 +1,8 @@
 ---
-title: "Accounting Records: Components and Types (Algo Trading)"
-description: "Discover the essential components and types of accounting records vital for financial documentation in algorithmic trading ensuring accuracy and compliance."
+category: quant_concept
+description: Discover the essential components and types of accounting records vital
+  for financial documentation in algorithmic trading ensuring accuracy and compliance.
+title: 'Accounting Records: Components and Types (Algo Trading)'
 ---
 
 In the rapidly evolving world of finance, understanding financial documentation is critical, particularly within accounting and algorithmic trading. Financial documentation involves the meticulous recording and organization of financial transactions and events. This ensures transparency, accountability, and regulatory compliance, which are paramount in modern financial practices. Proper documentation serves as the foundation for all financial activities, enabling businesses to maintain accurate and reliable records that reflect their economic actions.

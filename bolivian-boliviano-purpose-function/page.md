@@ -1,6 +1,9 @@
 ---
-title: "Bolivian Boliviano: Purpose and Function (Algo Trading)"
-description: "Explore the role of the Bolivian Boliviano and its impact on trade and inflation in Bolivia's economy Learn how algorithmic trading is transforming forex markets"
+category: quant_concept
+description: Explore the role of the Bolivian Boliviano and its impact on trade and
+  inflation in Bolivia's economy Learn how algorithmic trading is transforming forex
+  markets
+title: 'Bolivian Boliviano: Purpose and Function (Algo Trading)'
 ---
 
 Bolivia's economic landscape is characterized by a mix of natural resource wealth and challenges associated with being a developing nation. As of recent assessments, Bolivia has experienced growth driven by its rich deposits of natural gas and minerals, significant contributors to the national GDP. However, the country faces economic volatility due to fluctuating global commodity prices, political instability, and infrastructure deficits. The Bolivian Boliviano (BOB), the national currency, plays a pivotal role in maintaining economic stability, crucial given its influence on trade, inflation, and monetary policy.

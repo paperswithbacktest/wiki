@@ -1,6 +1,8 @@
 ---
-title: "Television Advertising Industry (Algo Trading)"
-description: "Discover how algorithmic trading is transforming the television advertising industry. Explore its impact on ad buying, audience targeting, and market efficiency."
+category: quant_concept
+description: Discover how algorithmic trading is transforming the television advertising
+  industry. Explore its impact on ad buying, audience targeting, and market efficiency.
+title: Television Advertising Industry (Algo Trading)
 ---
 
 The television advertising industry is experiencing a pivotal transformation, driven by continuous advancements in digital media and the integration of sophisticated algorithmic trading techniques. As digital platforms proliferate, attracting advertisers with targeted, data-driven campaigns, traditional TV advertising continues to exhibit unique strengths, particularly its unparalleled capacity to reach broad, diverse audiences effectively. Despite the meteoric rise of digital advertising channels, television remains a cornerstone of mass communication, providing extensive reach and impact that digital media often strives to match.

@@ -1,7 +1,8 @@
 ---
-title: Novelty Detection in Machine Learning Algorithms and Applications
+category: quant_concept
 description: Novelty detection trains models on known data to flag unseen or unusual
   inputs in fraud prevention monitoring and trend analysis. Discover more inside.
+title: Novelty Detection in Machine Learning Algorithms and Applications
 ---
 
 ![Image](images/1.png)

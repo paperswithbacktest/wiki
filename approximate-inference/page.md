@@ -1,7 +1,8 @@
 ---
-title: Approximate Inference Methods in Machine Learning Explained
+category: quant_concept
 description: Approximate inference in machine learning applies sampling and variational
   methods to get fast estimates when exact solutions are infeasible Discover more.
+title: Approximate Inference Methods in Machine Learning Explained
 ---
 
 ![Image](images/1.jpeg)

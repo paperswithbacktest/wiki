@@ -1,6 +1,8 @@
 ---
-title: "Flow Derivative: Components and Examples (Algo Trading)"
-description: "Harness the power of flow derivatives in algo trading to maximize leverage and enhance profits. Explore key components and examples for strategic market bets."
+category: quant_concept
+description: Harness the power of flow derivatives in algo trading to maximize leverage
+  and enhance profits. Explore key components and examples for strategic market bets.
+title: 'Flow Derivative: Components and Examples (Algo Trading)'
 ---
 
 In the rapidly changing landscape of financial trading, flow derivatives are essential instruments that optimize leverage and enhance profit potential. These derivatives are key components in algorithmic trading, offering traders a strategic tool for efficiently placing directional bets on market movements. By capitalizing on minute fluctuations in market values, flow derivatives enable leveraged positions that can magnify returns, albeit with proportionate risks.

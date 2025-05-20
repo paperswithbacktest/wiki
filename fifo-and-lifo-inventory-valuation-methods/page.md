@@ -1,6 +1,8 @@
 ---
-title: "FIFO and LIFO Inventory Valuation Methods (Algo Trading)"
-description: "Explore the impact of FIFO and LIFO inventory valuation on algo trading strategies, understanding financial reporting, tax planning, and trading optimization."
+category: quant_concept
+description: Explore the impact of FIFO and LIFO inventory valuation on algo trading
+  strategies, understanding financial reporting, tax planning, and trading optimization.
+title: FIFO and LIFO Inventory Valuation Methods (Algo Trading)
 ---
 
 In finance and accounting, inventory valuation methods are pivotal for efficient business operations. These methods dictate how inventory costs are determined, impacting everything from balance sheets to profitability assessments. This article explores two key inventory valuation methodologies: LIFO (Last-In, First-Out) and FIFO (First-In, First-Out). While commonly linked to inventory management, the applications and implications of these methods in the sphere of algorithmic trading have been lesser-known territory. 

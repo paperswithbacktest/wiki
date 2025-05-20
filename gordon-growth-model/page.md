@@ -1,6 +1,8 @@
 ---
-title: "Gordon Growth Model (Algo Trading)"
-description: "Discover the Gordon Growth Model for stock valuation by focusing on dividend growth and intrinsic value determination integrated into algorithmic trading."
+category: quant_concept
+description: Discover the Gordon Growth Model for stock valuation by focusing on dividend
+  growth and intrinsic value determination integrated into algorithmic trading.
+title: Gordon Growth Model (Algo Trading)
 ---
 
 In stock valuation, determining the intrinsic value of a stock is vital for making informed investment decisions. Among the numerous models available for this purpose, the Dividend Discount Model (DDM) and its popular variant, the Gordon Growth Model (GGM), are particularly noteworthy. These models are extensively utilized for their robust framework in estimating a stock's worth based on expected future cash flows in the form of dividends.

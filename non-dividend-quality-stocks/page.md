@@ -1,6 +1,8 @@
 ---
-title: "Non-Dividend Quality Stocks (Algo Trading)"
-description: "Discover the potential of non-dividend quality stocks in algo trading and explore strategic insights for maximizing growth and navigating market risks"
+category: trading_strategy
+description: Discover the potential of non-dividend quality stocks in algo trading
+  and explore strategic insights for maximizing growth and navigating market risks
+title: Non-Dividend Quality Stocks (Algo Trading)
 ---
 
 In today's dynamic financial markets, investors are consistently seeking innovative strategies to optimize their portfolios. One area that has garnered increased attention is non-dividend stocks, which have become particularly attractive within the context of algorithmic trading. Unlike traditional dividend-paying stocks, non-dividend stocks channel their profits back into the business, positioning themselves for potential growth rather than distributing income to shareholders.

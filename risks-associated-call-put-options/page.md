@@ -1,6 +1,9 @@
 ---
-title: "Risks Associated With Call and Put Options (Algo Trading)"
-description: "Explore the risks associated with call and put options in algo trading Understand how these investment tools can impact your portfolio and strategies for mitigation"
+category: quant_concept
+description: Explore the risks associated with call and put options in algo trading
+  Understand how these investment tools can impact your portfolio and strategies for
+  mitigation
+title: Risks Associated With Call and Put Options (Algo Trading)
 ---
 
 Options trading is a significant aspect of the financial markets, offering traders extensive flexibility in developing and implementing various strategies. The core of options trading revolves around two fundamental types of contracts: call and put options. Each type presents unique risks that investors must understand to effectively manage potential losses. Call options provide the buyer with the right, but not the obligation, to purchase an underlying asset at a specified strike price within a particular timeframe. Conversely, put options grant the holder the right to sell the underlying asset at a predetermined price before the contract expires. These options are instrumental for traders seeking to hedge risks or engage in speculative activities, thereby enhancing their portfolio strategy.

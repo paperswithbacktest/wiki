@@ -1,6 +1,9 @@
 ---
-title: "Regulation G: Overview and Functionality (Algo Trading)"
-description: "Explore the significance of Regulation G in algorithmic trading, highlighting the importance of transparency, compliance, and ethical trading practices in financial markets."
+category: quant_concept
+description: Explore the significance of Regulation G in algorithmic trading, highlighting
+  the importance of transparency, compliance, and ethical trading practices in financial
+  markets.
+title: 'Regulation G: Overview and Functionality (Algo Trading)'
 ---
 
 Algorithmic trading has revolutionized the landscape of financial markets by facilitating transactions at unprecedented speeds and volumes. This transformation has been primarily driven by advancements in computational technologies and sophisticated algorithms, enabling traders to execute large-scale transactions within milliseconds. As algorithmic trading becomes increasingly intrinsic to financial systems, the necessity for robust compliance with financial regulations has never been more critical. Regulatory frameworks are established to ensure market stability, mitigate systemic risk, and protect investors from unethical trading practices.

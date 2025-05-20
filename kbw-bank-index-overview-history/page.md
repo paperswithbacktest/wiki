@@ -1,6 +1,8 @@
 ---
-title: "KBW Bank Index: Overview and History (Algo Trading)"
-description: "Explore the KBW Bank Index as a vital benchmark for U.S. banking performance. Learn its history, components, and the impact of algorithmic trading."
+category: dataset
+description: Explore the KBW Bank Index as a vital benchmark for U.S. banking performance.
+  Learn its history, components, and the impact of algorithmic trading.
+title: 'KBW Bank Index: Overview and History (Algo Trading)'
 ---
 
 The KBW Bank Index serves as a prominent benchmark for tracking the performance of the banking sector in the United States. Developed by the financial services firm Keefe, Bruyette, and Woods (KBW), the index is comprised of a carefully selected group of 24 banking stocks, chosen to represent the diverse landscape of U.S. banks. This index is critical for investors and analysts aiming to gauge the health and trajectory of the banking sector as it includes both large national banks and regional banking institutions. 

@@ -1,6 +1,9 @@
 ---
-title: "Inverse reinforcement learning for finance (Algo Trading)"
-description: "Explore the transformative potential of Inverse Reinforcement Learning in finance and algorithmic trading uncovering hidden incentives to refine trading strategies effectively."
+category: quant_concept
+description: Explore the transformative potential of Inverse Reinforcement Learning
+  in finance and algorithmic trading uncovering hidden incentives to refine trading
+  strategies effectively.
+title: Inverse reinforcement learning for finance (Algo Trading)
 ---
 
 Inverse Reinforcement Learning (IRL) is an advanced method within artificial intelligence aimed at deducing reward systems from observed behaviors. Unlike traditional reinforcement learning, which seeks to find an optimal policy by maximizing cumulative rewards, IRL works inversely. It attempts to reason backward from decisions to infer the objectives guiding them. This approach is particularly powerful in complex environments where explicit modeling of goals is challenging. 

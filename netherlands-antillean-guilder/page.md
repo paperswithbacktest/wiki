@@ -1,6 +1,9 @@
 ---
-title: "Netherlands Antillean Guilder (Algo Trading)"
-description: "Explore the impact of algorithmic trading on the Caribbean market with a focus on the Netherlands Antillean Guilder learn about its benefits challenges and future trends."
+category: quant_concept
+description: Explore the impact of algorithmic trading on the Caribbean market with
+  a focus on the Netherlands Antillean Guilder learn about its benefits challenges
+  and future trends.
+title: Netherlands Antillean Guilder (Algo Trading)
 ---
 
 The Caribbean region, with its diverse and vibrant economies, encompasses a range of currencies, each reflecting its unique historical and economic heritage. These currencies play a crucial role both locally and globally by facilitating trade, impacting tourism, and influencing the economic stability and development of the islands. Among these, the Netherlands Antillean Guilder (ANG) stands out as a significant medium of exchange used in Curaçao and Sint Maarten. The ANG, pegged to the U.S. dollar at a fixed rate, underscores its importance by ensuring stability in trade and economic transactions in the region.

@@ -1,6 +1,9 @@
 ---
-title: "Existence of Mortgage-Backed Securities (Algo Trading)"
-description: "Explore the impact and significance of mortgage-backed securities (MBS) in the financial market and how algorithmic trading is transforming their trading dynamics."
+category: quant_concept
+description: Explore the impact and significance of mortgage-backed securities (MBS)
+  in the financial market and how algorithmic trading is transforming their trading
+  dynamics.
+title: Existence of Mortgage-Backed Securities (Algo Trading)
 ---
 
 In today's complex financial landscape, understanding various financial instruments is crucial for both individual and institutional investors. Among these instruments, mortgage-backed securities (MBS) hold a significant place due to their impact on the economy and financial markets. Despite their controversial past, particularly highlighted during the financial crisis of 2007-2008, MBS continue to be fundamental to the operations and liquidity of mortgage markets. 

@@ -1,6 +1,9 @@
 ---
-title: "Total Stock Funds: Overview and Benefits (Algo Trading)"
-description: "Explore the benefits of total stock funds and algorithmic trading Learn how combining these strategies can enhance portfolio diversification and optimize trading efficiency"
+category: trading_strategy
+description: Explore the benefits of total stock funds and algorithmic trading Learn
+  how combining these strategies can enhance portfolio diversification and optimize
+  trading efficiency
+title: 'Total Stock Funds: Overview and Benefits (Algo Trading)'
 ---
 
 Investing in total stock funds and engaging in algorithmic trading represent two significant advancements in common investment practices. Total stock funds provide investors with broad market exposure by incorporating a wide spectrum of stocks within a single investment vehicle. These funds typically aim to mirror the performance of a major stock index, such as the S&P 500, thereby offering a diversified portfolio at a reduced cost. In parallel, algorithmic trading employs computer programs to execute trading strategies automatically and efficiently, leveraging technology to optimize returns and manage risk. 

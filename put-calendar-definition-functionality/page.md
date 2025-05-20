@@ -1,6 +1,8 @@
 ---
-title: "Put Calendar: Definition and Functionality (Algo Trading)"
-description: "Explore the put calendar strategy in algorithmic trading to manage risk and optimize returns using innovative techniques for effective financial strategies."
+category: quant_concept
+description: Explore the put calendar strategy in algorithmic trading to manage risk
+  and optimize returns using innovative techniques for effective financial strategies.
+title: 'Put Calendar: Definition and Functionality (Algo Trading)'
 ---
 
 Financial strategies are pivotal to effective wealth management and investment. Among numerous strategies available, options trading, particularly the put calendar strategy, and algorithmic trading have gained significant attention. These strategies offer investors a sophisticated approach to managing risk and optimizing returns, leveraging both temporal opportunities and technological advancements.

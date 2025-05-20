@@ -1,6 +1,8 @@
 ---
-title: "Impact of Senior Housing REITs on Investment Portfolios (Algo Trading)"
-description: "Explore the benefits of incorporating senior housing REITs into investment portfolios using algorithmic trading to optimize returns and manage risks effectively."
+category: trading_strategy
+description: Explore the benefits of incorporating senior housing REITs into investment
+  portfolios using algorithmic trading to optimize returns and manage risks effectively.
+title: Impact of Senior Housing REITs on Investment Portfolios (Algo Trading)
 ---
 
 Senior housing Real Estate Investment Trusts (REITs) play a significant part in the landscape of real estate investment, offering a specialized niche that focuses on properties catering to the aging population. REITs are investment vehicles that allow individuals to invest in large-scale, income-producing real estate without needing to buy properties directly. By pooling capital from numerous investors, REITs offer a way to hold a diversified portfolio of properties, granting access to real estate markets for those who might not have the capital to invest individually in large properties. 

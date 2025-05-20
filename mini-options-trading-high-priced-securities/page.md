@@ -1,6 +1,9 @@
 ---
-title: "Mini Options and Trading High-Priced Securities (Algo Trading)"
-description: "Explore the potential of mini options and algorithmic trading to manage risk and optimize returns in high-priced securities with greater flexibility and efficiency."
+category: trading_strategy
+description: Explore the potential of mini options and algorithmic trading to manage
+  risk and optimize returns in high-priced securities with greater flexibility and
+  efficiency.
+title: Mini Options and Trading High-Priced Securities (Algo Trading)
 ---
 
 The financial markets have witnessed a surge in interest around mini options, a financial instrument that caters specifically to traders looking to manage risk in higher-priced securities with more flexibility. This trend has gained traction, especially among retail investors and smaller portfolios, seeking exposure to high-priced equities without the obligation to purchase a standard options contract, which typically covers 100 shares. Mini options, covering just 10 shares, offer a more accessible entry point for investors who wish to engage with premium-priced stocks without the hefty capital requirement, enhancing market participation for those with limited resources.

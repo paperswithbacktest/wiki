@@ -1,6 +1,12 @@
 ---
-title: "Comparison of Restricted Shares and Stock Options (Algo Trading)"
-description: "Discover the key differences between restricted shares and stock options in equity compensation, and explore how algo trading is reshaping equity management. Learn how startups and established companies use these tools to incentivize employees, foster an ownership culture, and enhance financial strategies. This comprehensive guide investigates into the role of technology in optimizing compensation and highlights crucial considerations for navigating the evolving financial landscape."
+category: quant_concept
+description: Discover the key differences between restricted shares and stock options
+  in equity compensation, and explore how algo trading is reshaping equity management.
+  Learn how startups and established companies use these tools to incentivize employees,
+  foster an ownership culture, and enhance financial strategies. This comprehensive
+  guide investigates into the role of technology in optimizing compensation and highlights
+  crucial considerations for navigating the evolving financial landscape.
+title: Comparison of Restricted Shares and Stock Options (Algo Trading)
 ---
 
 Equity compensation refers to a non-cash remuneration that represents ownership in the firm, incentivizing employees to align their performance with the company's success. It is a powerful tool used by companies to attract, retain, and motivate their workforce. The two most common forms of equity compensation are restricted shares and stock options, each with unique characteristics and benefits. Restricted shares, also known as restricted stock units (RSUs), are company shares granted to employees, typically subject to a vesting period. Stock options offer employees the right to purchase company shares at a predetermined price, often below market value, after a specific duration.

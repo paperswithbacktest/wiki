@@ -1,6 +1,8 @@
 ---
-title: "Profit/Loss Ratio and Its Application (Algo Trading)"
-description: "Explore the profit-loss ratio in algorithmic trading. Understand its significance in evaluating trading performance and enhancing investment strategies."
+category: quant_concept
+description: Explore the profit-loss ratio in algorithmic trading. Understand its
+  significance in evaluating trading performance and enhancing investment strategies.
+title: Profit/Loss Ratio and Its Application (Algo Trading)
 ---
 
 In the ever-evolving landscape of financial markets, both individual and institutional investors continually seek ways to enhance their trading efficiency and profitability. One of the essential metrics in evaluating investment success is the profit-loss ratio, which provides insights into the gains and losses from trading strategies. This article discusses the concept of the profit-loss ratio, its importance in financial analysis, and its crucial role in algorithmic trading.

@@ -1,6 +1,8 @@
 ---
-title: "DRIFT Methodology in Managerial Accounting (Algo Trading)"
-description: "Explore the DRIFT methodology in managerial accounting and algorithmic trading to optimize processes reduce inefficiencies and enhance trading reliability."
+category: trading_strategy
+description: Explore the DRIFT methodology in managerial accounting and algorithmic
+  trading to optimize processes reduce inefficiencies and enhance trading reliability.
+title: DRIFT Methodology in Managerial Accounting (Algo Trading)
 ---
 
 The increasing complexity of managerial accounting and trading scenarios demands reliable strategies that enhance operational efficiency and minimize waste. Do It Right The First Time (DRIFT) emerges as a strategic approach designed to optimize processes within managerial contexts. The focus of DRIFT is to eliminate inefficiencies by ensuring that tasks are executed correctly on the first attempt, thus reducing the need for rework and associated costs.

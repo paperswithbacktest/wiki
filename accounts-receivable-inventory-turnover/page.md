@@ -1,6 +1,8 @@
 ---
-title: "Accounts Receivable and Inventory Turnover (Algo Trading)"
-description: "Explore the vital role of inventory turnover and accounts receivable turnover in evaluating financial health and enhancing algorithmic trading strategies."
+category: quant_concept
+description: Explore the vital role of inventory turnover and accounts receivable
+  turnover in evaluating financial health and enhancing algorithmic trading strategies.
+title: Accounts Receivable and Inventory Turnover (Algo Trading)
 ---
 
 In the intricate world of finance, understanding different financial metrics, such as inventory turnover and accounts receivable turnover, is crucial. These metrics provide essential insights into a company's operational efficiency and financial health. Inventory turnover measures how frequently a company sells and replaces its inventory over a specific period. It is calculated using the formula:

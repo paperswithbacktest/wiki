@@ -1,6 +1,8 @@
 ---
-title: "Impact of Buybacks on Price-to-Book Ratio (Algo Trading)"
-description: "Discover the impact of share buybacks on the Price-to-Book ratio in algorithmic trading, and its significance in modern investment strategies and financial analyses."
+category: quant_concept
+description: Discover the impact of share buybacks on the Price-to-Book ratio in algorithmic
+  trading, and its significance in modern investment strategies and financial analyses.
+title: Impact of Buybacks on Price-to-Book Ratio (Algo Trading)
 ---
 
 In the world of financial metrics, understanding how various elements interplay can offer insights into investment strategies. The Price-to-Book (P/B) Ratio is a fundamental tool in financial assessments, offering a lens through which investors can evaluate market valuations relative to a company's net asset value. This article explores the implications of the P/B ratio and its critical role in financial analyses, with particular attention to its use in buybacks and algorithmic trading.

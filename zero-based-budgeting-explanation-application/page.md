@@ -1,6 +1,8 @@
 ---
-title: "Zero-Based Budgeting: Explanation and Application (Algo Trading)"
-description: "Discover the benefits of zero-based budgeting and its application in algorithmic trading for strategic financial planning and efficient resource allocation."
+category: trading_strategy
+description: Discover the benefits of zero-based budgeting and its application in
+  algorithmic trading for strategic financial planning and efficient resource allocation.
+title: 'Zero-Based Budgeting: Explanation and Application (Algo Trading)'
 ---
 
 Financial planning remains a cornerstone in navigating personal and organizational financial stability and growth. At its core, effective financial planning involves understanding and controlling expenditures, setting clear financial goals, and aligning resources to support these objectives. This process is vital, not just for ensuring day-to-day financial health but also for making informed decisions that drive long-term success.

@@ -1,6 +1,8 @@
 ---
-title: "India Exchange-Traded Fund: Overview and Benefits (Algo Trading)"
-description: "Discover how India's dynamic ETF market offers diverse investment opportunities with algorithmic trading enhancing strategies for optimized growth and risk management."
+category: quant_concept
+description: Discover how India's dynamic ETF market offers diverse investment opportunities
+  with algorithmic trading enhancing strategies for optimized growth and risk management.
+title: 'India Exchange-Traded Fund: Overview and Benefits (Algo Trading)'
 ---
 
 Exchange-traded funds (ETFs) have emerged as a significant innovation in the modern investment landscape, opening new avenues for both individual and institutional investors. These financial instruments have gained traction globally due to their ability to offer diversification, liquidity, and cost-effectiveness, combining the benefits of stocks and mutual funds. ETFs are designed to track specific indices or commodity prices, providing investors with exposure to a wide range of asset classes without requiring direct ownership of the individual securities.

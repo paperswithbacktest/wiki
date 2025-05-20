@@ -1,6 +1,8 @@
 ---
-title: "Investment Goal Identification (Algo Trading)"
-description: "Explore how setting investment goals, strategic financial planning, and algorithmic trading can enhance wealth management and help achieve financial success."
+category: trading_strategy
+description: Explore how setting investment goals, strategic financial planning, and
+  algorithmic trading can enhance wealth management and help achieve financial success.
+title: Investment Goal Identification (Algo Trading)
 ---
 
 In today's dynamic financial landscape, setting and achieving investment goals is critical to ensuring long-term financial success. The integration of robust goal-setting strategies, comprehensive financial planning, and innovative algorithmic trading can significantly enhance one's ability to navigate volatile markets and garner substantial returns. These elements, when harmoniously aligned, serve as the pillars of a solid financial framework that not only safeguards existing wealth but also fosters growth and sustainability.
@@ -256,4 +258,3 @@ Embarking on a financial journey with a strategic mindset involves an appreciati
    - *Stack Exchange (Quantitative Finance)* is a question-and-answer site for finance professionals and academics [Link](https://quant.stackexchange.com/)
 
 These resources are excellent starting points for expanding your knowledge and refining your approach to financial strategy, investment, and algorithmic trading.
-

@@ -1,6 +1,12 @@
 ---
-title: "Impact of Military Spending on Economy (Algo Trading)"
-description: "Explore the intricate connections between military spending and economic growth in the context of algorithmic trading. Defense budgets can drive technological innovations and job creation, contributing to national GDP and development. However, excessive spending may divert resources from essential sectors, affecting long-term growth. This article examines how nations balance these priorities for security and prosperity."
+category: quant_concept
+description: Explore the intricate connections between military spending and economic
+  growth in the context of algorithmic trading. Defense budgets can drive technological
+  innovations and job creation, contributing to national GDP and development. However,
+  excessive spending may divert resources from essential sectors, affecting long-term
+  growth. This article examines how nations balance these priorities for security
+  and prosperity.
+title: Impact of Military Spending on Economy (Algo Trading)
 ---
 
 The relationship between military spending and economic growth is multifaceted and often contentious. On one hand, significant military outlays can catalyze economic investments and foster innovations. Throughout history, defense budgets have been a substantial source of funding for technological advancements, many of which have later found applications beyond military use. The defense sector's demand for advanced technologies stimulates research and development, creating industries and jobs that contribute to economic growth. These investments can lead to breakthroughs in areas such as aerospace, communications, and cybersecurity.

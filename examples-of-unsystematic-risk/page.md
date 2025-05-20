@@ -1,6 +1,9 @@
 ---
-title: "Examples of Unsystematic Risk (Algo Trading)"
-description: "Explore the complexities of unsystematic risk in algorithmic trading Learn how to mitigate these risks through diversification and robust risk management strategies"
+category: quant_concept
+description: Explore the complexities of unsystematic risk in algorithmic trading
+  Learn how to mitigate these risks through diversification and robust risk management
+  strategies
+title: Examples of Unsystematic Risk (Algo Trading)
 ---
 
 In finance, understanding different types of risks is crucial for investors and traders, especially when employing algorithmic trading strategies. Unsystematic risk, also referred to as specific or idiosyncratic risk, impacts individual investments and companies. It arises from factors unique to a particular business or industry, such as management decisions or market position. Unlike systematic risk, which influences the entire market and cannot be avoided, unsystematic risk can be mitigated through strategic diversification. By distributing investments across various sectors and assets, investors can reduce the impact of any single asset's poor performance on their portfolio.
@@ -174,4 +177,3 @@ In conclusion, unsystematic risk management requires a multifaceted approach com
    - Carhart, M. M. (1997). *On Persistence in Mutual Fund Performance*. Journal of Finance, 52(1), 57-82. This paper evaluates mutual fund risk and performance, contributing to the understanding of risk management strategies.
 
 These works collectively provide a detailed insight into understanding and managing unsystematic risks, especially within the context of algorithmic and [quantitative trading](/wiki/quantitative-trading) strategies.
-

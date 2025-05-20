@@ -1,6 +1,12 @@
 ---
-title: "Lo, Andrew (Algo Trading)"
-description: Explore the transformative influence of Andrew W. Lo on algorithmic trading. As a leading expert, Lo merges finance and computational theory to advance modern trading methodologies. His research provides frameworks for managing risks and seizing opportunities in algo trading, significantly shaping our understanding of financial markets. Discover how Lo's theories continue to guide trading strategies and financial policies.
+category: quant_concept
+description: Explore the transformative influence of Andrew W. Lo on algorithmic trading.
+  As a leading expert, Lo merges finance and computational theory to advance modern
+  trading methodologies. His research provides frameworks for managing risks and seizing
+  opportunities in algo trading, significantly shaping our understanding of financial
+  markets. Discover how Lo's theories continue to guide trading strategies and financial
+  policies.
+title: Lo, Andrew (Algo Trading)
 ---
 
 Algorithmic trading, often referred to as algo trading, has significantly transformed financial markets by leveraging computer algorithms to automate trading decisions. These algorithms analyze vast quantities of data at a speed and precision beyond human capability, enabling traders to execute orders at optimal prices. This computational approach has not only enhanced trading efficiency but has also introduced complex dynamics and challenges to financial systems.

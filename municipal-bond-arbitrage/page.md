@@ -1,6 +1,9 @@
 ---
-title: "Municipal Bond Arbitrage (Algo Trading)"
-description: "Explore municipal bond arbitrage and algorithmic trading to optimize returns in the bond market Learning about tax-exempt securities and cutting-edge trading tactics"
+category: trading_strategy
+description: Explore municipal bond arbitrage and algorithmic trading to optimize
+  returns in the bond market Learning about tax-exempt securities and cutting-edge
+  trading tactics
+title: Municipal Bond Arbitrage (Algo Trading)
 ---
 
 Investment strategies in the bond market are diverse and complex, requiring an understanding of various instruments and techniques. The bond market, a cornerstone of global finance, offers numerous opportunities for investors to tailor their strategies according to risk tolerance, investment horizon, and financial goals. Among the myriad of instruments available, municipal bonds, bond arbitrage, and algorithmic trading stand out as pivotal aspects within fixed-income investing. These elements can significantly enhance portfolio performance when leveraged effectively.

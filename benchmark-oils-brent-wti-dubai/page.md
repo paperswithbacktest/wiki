@@ -1,6 +1,9 @@
 ---
-title: "Benchmark Oils: Brent, WTI, Dubai (Algo Trading)"
-description: "Explore the complexities of the global oil market and benchmark oils like Brent and WTI Discover how algorithmic trading reshapes oil price dynamics and strategies"
+category: quant_concept
+description: Explore the complexities of the global oil market and benchmark oils
+  like Brent and WTI Discover how algorithmic trading reshapes oil price dynamics
+  and strategies
+title: 'Benchmark Oils: Brent, WTI, Dubai (Algo Trading)'
 ---
 
 The global oil market is a complex and vital component of the world economy, serving as both a critical energy source and a crucial commodity for international trade. Fundamental to this market are benchmark oils, which are essential in setting global oil prices. Benchmark oils, such as West Texas Intermediate (WTI) and Brent Crude, serve as reference points for buyers and sellers. They are integral in pricing over two-thirds of the world's oil supply, providing stability and predictability in oil trading.
@@ -175,4 +178,3 @@ For those seeking to deepen their understanding of the oil markets and the role 
 9. **MIT OpenCourseWare** - Offers free courses related to financial markets and algorithmic trading. Visit [MITOCW](https://ocw.mit.edu/) for access to high-quality educational materials.
 
 These references serve as a starting point for anyone interested in the pivotal function of WTI and Brent benchmarks or those who wish to explore the dynamic realm of algorithmic trading. Understanding these resources can significantly aid traders and investors in navigating the complexities of modern financial markets.
-

@@ -1,6 +1,14 @@
 ---
-title: "Exempt-Interest Dividends (Algo Trading)"
-description: "Explore the advantages of exempt-interest dividends, a form of investment income that is free from federal tax, enhancing after-tax returns for investors. These dividends, often derived from mutual funds investing in municipal bonds, can significantly boost net income and reduce federal tax liabilities. Algorithmic trading aids in optimizing portfolio tax efficiency, ensuring that exempt-interest dividends contribute effectively to a sophisticated, tax-aware investment strategy. Understanding the tax implications is crucial for maximizing financial growth and meeting compliance requirements."
+category: quant_concept
+description: Explore the advantages of exempt-interest dividends, a form of investment
+  income that is free from federal tax, enhancing after-tax returns for investors.
+  These dividends, often derived from mutual funds investing in municipal bonds, can
+  significantly boost net income and reduce federal tax liabilities. Algorithmic trading
+  aids in optimizing portfolio tax efficiency, ensuring that exempt-interest dividends
+  contribute effectively to a sophisticated, tax-aware investment strategy. Understanding
+  the tax implications is crucial for maximizing financial growth and meeting compliance
+  requirements.
+title: Exempt-Interest Dividends (Algo Trading)
 ---
 
 Investment income encompasses earnings derived from various investments, including interest, dividends, and capital gains. Its significance for investors lies in its potential to generate passive income, contribute to wealth accumulation, and aid in achieving financial goals such as retirement planning or wealth transfer. Understanding the nuances of investment income, particularly its tax implications, is crucial for optimizing returns and maintaining compliance with tax regulations.

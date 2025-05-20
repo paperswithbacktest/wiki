@@ -1,6 +1,9 @@
 ---
-title: "Japan Inc. (Algo Trading)"
-description: "Explore Japan Inc. to understand the synergy between business and government that drives economic growth innovation and algorithmic trading success in the Japanese market."
+category: quant_concept
+description: Explore Japan Inc. to understand the synergy between business and government
+  that drives economic growth innovation and algorithmic trading success in the Japanese
+  market.
+title: Japan Inc. (Algo Trading)
 ---
 
 The Japanese economy stands as one of the most formidable and dynamic systems globally, offering distinct elements encapsulated in the concept known as Japan Inc. This term, widely recognized and studied, encapsulates the intricate interplay between Japan's robust corporate framework, strategic economic policies, and its adeptness at technological innovation. Despite various challenges, such as economic downturns and demographic shifts, Japan has continually showcased resilience and adaptability in the global economic sphere.

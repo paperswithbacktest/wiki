@@ -1,6 +1,8 @@
 ---
-title: "European Capital Markets Institute (Algo Trading)"
-description: "Explore the role of ECMI in enhancing European capital markets through policy insights and research on algo trading that boosts market efficiency and liquidity."
+category: quant_concept
+description: Explore the role of ECMI in enhancing European capital markets through
+  policy insights and research on algo trading that boosts market efficiency and liquidity.
+title: European Capital Markets Institute (Algo Trading)
 ---
 
 European capital markets play a crucial role in the global financial ecosystem, serving as a hub for investment, risk management, and economic growth. These markets consist of a variety of platforms and systems where securities, commodities, derivatives, and other financial instruments are traded. Within this well-orchestrated financial environment, the European Capital Markets Institute (ECMI) emerges as a pivotal entity. Established in 1993, ECMI has continuously played an instrumental role in providing in-depth research and policy insights vital for market participants and policymakers.

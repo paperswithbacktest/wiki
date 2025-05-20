@@ -1,6 +1,8 @@
 ---
-title: "Primary Instrument: Definition and Functionality (Algo Trading)"
-description: "Explore the core principles of algorithmic trading and primary instruments. Learn how algo trading enhances efficiency, speed, and data-driven decisions."
+category: quant_concept
+description: Explore the core principles of algorithmic trading and primary instruments.
+  Learn how algo trading enhances efficiency, speed, and data-driven decisions.
+title: 'Primary Instrument: Definition and Functionality (Algo Trading)'
 ---
 
 Algorithmic trading, commonly referred to as algo trading, employs computer algorithms to automate both investment decisions and trade executions in financial markets. These algorithms work on predefined rules and conditions, which determine the best times to buy and sell financial instruments. The appeal of algo trading has surged in recent years, primarily because of its remarkable ability to process large volumes of data at extremely high speeds, executing trades more efficiently and accurately than human traders.

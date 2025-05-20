@@ -1,6 +1,8 @@
 ---
-title: "Group of Three (G3): Overview and Historical Impact (Algo Trading)"
-description: "Discover the historical impact of the Group of Three G3 trade alliance among Mexico Colombia and Venezuela and its influence on trading dynamics and policies"
+category: quant_concept
+description: Discover the historical impact of the Group of Three G3 trade alliance
+  among Mexico Colombia and Venezuela and its influence on trading dynamics and policies
+title: 'Group of Three (G3): Overview and Historical Impact (Algo Trading)'
 ---
 
 The Group of Three (G3) was an international alliance formed between Mexico, Colombia, and Venezuela with the primary aim of establishing a robust free trade agreement. This pact, effective from 1995, was initially designed to last for ten years and foster economic integration and cooperation among the member countries. Although this agreement was eventually dissolved, its initial intent and subsequent impacts on international trade remain significant topics of study.

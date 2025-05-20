@@ -1,6 +1,9 @@
 ---
-title: "Largest Microcap ETFs (Algo Trading)"
-description: "Explore the dynamic world of microcap ETFs focusing on potential high returns from small-cap stocks Enhanced by algorithmic trading strategies for optimal performance"
+category: trading_strategy
+description: Explore the dynamic world of microcap ETFs focusing on potential high
+  returns from small-cap stocks Enhanced by algorithmic trading strategies for optimal
+  performance
+title: Largest Microcap ETFs (Algo Trading)
 ---
 
 Exchange-Traded Funds (ETFs) have emerged as a dynamic and sought-after investment vehicle due to their notable attributes such as diversification, liquidity, and cost-effectiveness. These funds allow investors to gain exposure to a wide range of assets without the need to purchase individual securities, offering a practical approach to achieve diversified portfolios. ETFs have been particularly attractive to both individual and institutional investors for their ability to trade on stock exchanges like individual stocks, thus providing liquidity that mutual funds often lack.

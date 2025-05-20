@@ -1,6 +1,8 @@
 ---
-title: "Robert E. Lucas: Economic Theories and Impact (Algo Trading)"
-description: "Explore how Robert E. Lucas Jr.'s economic theories, like rational expectations, shape algorithmic trading strategies today enhancing market adaptability and efficiency."
+category: quant_concept
+description: Explore how Robert E. Lucas Jr.'s economic theories, like rational expectations,
+  shape algorithmic trading strategies today enhancing market adaptability and efficiency.
+title: 'Robert E. Lucas: Economic Theories and Impact (Algo Trading)'
 ---
 
 The intersection of economic theory and technology continues to shape modern trading practices, creating opportunities for innovation and efficiency in financial markets. One of the most influential figures in this field is Robert E. Lucas Jr., whose groundbreaking work laid the foundation for understanding how economic theories can inform technology-driven trading strategies. Lucas's pioneering contributions have consistently informed the development of modern economics, particularly in areas where technology and economic theory intersect. 

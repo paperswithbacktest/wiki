@@ -1,6 +1,9 @@
 ---
-title: "Rectangle Formation (Algo Trading)"
-description: "Explore how rectangle formations enhance algorithmic trading by predicting price movements and optimizing strategies Learn to integrate these patterns for better results"
+category: trading_strategy
+description: Explore how rectangle formations enhance algorithmic trading by predicting
+  price movements and optimizing strategies Learn to integrate these patterns for
+  better results
+title: Rectangle Formation (Algo Trading)
 ---
 
 In the rapidly evolving world of financial markets, algorithmic trading has emerged as an essential instrument for traders and investors, offering the ability to execute trades with precision and speed unattainable by manual methods. Among the various tools that enhance algorithmic trading, technical analysis patterns play a critical role. The rectangle formation, in particular, stands out as a valuable pattern in predicting price movements and optimizing trading strategies. This article will provide comprehensive insights into rectangle geometry formation in algorithmic trading, catering to both novice and experienced traders seeking to enhance their technical analysis skills.

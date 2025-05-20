@@ -1,6 +1,8 @@
 ---
-title: "Income Effect: Meaning and Examples (Algo Trading)"
-description: "Explore the income effect's impact on consumer behavior and algorithmic trading Learn how income changes influence demand for goods and market strategies"
+category: quant_concept
+description: Explore the income effect's impact on consumer behavior and algorithmic
+  trading Learn how income changes influence demand for goods and market strategies
+title: 'Income Effect: Meaning and Examples (Algo Trading)'
 ---
 
 Modern economics is a complex field shaped by several fundamental concepts, including the income effect, consumer behavior, and algorithmic trading. These elements collectively influence how markets operate and evolve over time. The income effect specifically concerns the variation in consumer spending power and its resultant impact on the demand for goods and services. This concept is crucial for understanding shifts in economic activities, as it highlights how changes in income levels can alter consumption patterns and ultimately drive market demand.

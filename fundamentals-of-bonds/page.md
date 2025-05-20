@@ -1,6 +1,8 @@
 ---
-title: "Fundamentals of Bonds (Algo Trading)"
-description: "Explore the essentials of bonds and algorithmic trading Discover how these financial tools can enhance portfolio diversity and improve trading efficiency"
+category: quant_concept
+description: Explore the essentials of bonds and algorithmic trading Discover how
+  these financial tools can enhance portfolio diversity and improve trading efficiency
+title: Fundamentals of Bonds (Algo Trading)
 ---
 
 In the world of finance, bonds and algorithmic trading are essential tools for investors aiming to diversify their portfolios or enhance trading efficiency. Bonds, as fixed-income securities, represent a loan made by an investor to a borrower, typically corporate or governmental entities, providing interest income and capital preservation. This article will cover the basics of how bonds function as investment instruments and the underlying principles of algorithmic trading. 

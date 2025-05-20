@@ -1,6 +1,8 @@
 ---
-title: "SEC Form N-54C (Algo Trading)"
-description: "Learn about SEC Form N-54C and its role in algorithmic trading regulation as companies transition from Business Development Company status for strategic growth."
+category: quant_concept
+description: Learn about SEC Form N-54C and its role in algorithmic trading regulation
+  as companies transition from Business Development Company status for strategic growth.
+title: SEC Form N-54C (Algo Trading)
 ---
 
 In the modern financial landscape, regulations play a crucial role in ensuring market stability and protecting investors. As financial markets evolve, integrating advanced technologies such as algorithmic trading, regulatory measures must adapt to maintain their efficacy. One such regulatory element is SEC Form N-54C, a critical document for companies electing to transition away from being classified as Business Development Companies (BDCs). Understanding the significance of this form within the regulatory framework is essential for firms involved in business development and those operating within the algorithmic trading space.

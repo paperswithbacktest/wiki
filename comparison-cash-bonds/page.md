@@ -1,6 +1,8 @@
 ---
-title: "Comparison of Cash and Bonds (Algo Trading)"
-description: "Explore the dynamic integration of algorithmic trading in bonds investments Discover how modern tech reshapes trading for optimized returns and efficiency."
+category: trading_strategy
+description: Explore the dynamic integration of algorithmic trading in bonds investments
+  Discover how modern tech reshapes trading for optimized returns and efficiency.
+title: Comparison of Cash and Bonds (Algo Trading)
 ---
 
 In the ever-evolving world of finance, investment strategies continually adapt to leverage new technologies and insights. Among these, bonds have long served as a cornerstone for investors seeking stable returns and reduced risk compared to equities. Traditionally, bonds offer predictable income streams and security, typically representing a loan from an investor to a borrower, such as a corporation or government entity. This established role, however, is undergoing a significant transformation as emerging technologies reshape how these securities are traded.

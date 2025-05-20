@@ -1,6 +1,9 @@
 ---
-title: "Intelligent ETFs: Overview, Advantages, and Disadvantages (Algo Trading)"
-description: "Intelligent ETFs leverage active management and algorithmic trading to optimize returns and manage risks offering a dynamic investment tool with both advantages and drawbacks."
+category: trading_strategy
+description: Intelligent ETFs leverage active management and algorithmic trading to
+  optimize returns and manage risks offering a dynamic investment tool with both advantages
+  and drawbacks.
+title: 'Intelligent ETFs: Overview, Advantages, and Disadvantages (Algo Trading)'
 ---
 
 Intelligent ETFs, or exchange-traded funds that apply active management strategies, have emerged prominently in the financial markets in recent years. These funds are designed not only to diversify investment portfolios but also to exploit algorithmic trading to achieve strategic financial objectives. Unlike traditional ETFs that passively track market indices, Intelligent ETFs actively select stocks, adjusting their holdings based on predefined rules or algorithms. This strategic adaptability is viewed as a key advantage, especially in markets characterized by volatility and rapid change.

@@ -1,6 +1,8 @@
 ---
-title: "Cyclical and Non-Cyclical Stocks: Differences (Algo Trading)"
-description: "Explore the differences between cyclical and non-cyclical stocks to enhance your investment strategy. Learn how algorithmic trading optimizes portfolio performance."
+category: trading_strategy
+description: Explore the differences between cyclical and non-cyclical stocks to enhance
+  your investment strategy. Learn how algorithmic trading optimizes portfolio performance.
+title: 'Cyclical and Non-Cyclical Stocks: Differences (Algo Trading)'
 ---
 
 Understanding the distinctions between cyclical and non-cyclical stocks is crucial for refining an investment strategy. Cyclical stocks are characterized by their volatility and their sensitivity to economic fluctuations. They typically belong to industries that produce discretionary goods and services, such as automotive, travel, and luxury sectors, which tend to see increased demand during periods of economic growth. Consequently, these stocks can offer substantial returns during economic expansions but also pose significant risks during economic contractions.

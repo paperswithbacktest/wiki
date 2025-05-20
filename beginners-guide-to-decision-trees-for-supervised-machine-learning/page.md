@@ -1,6 +1,13 @@
 ---
-title: "Beginner’s Guide to Decision Trees for Supervised Machine Learning (Algo Trading)"
-description: Explore the crucial role of decision trees in algorithmic trading and how they serve as a supervised learning tool to refine trading strategies. Understand the difference between supervised and unsupervised learning to implement decision trees effectively, enhancing your ability to predict market trends and make informed trading decisions. Delve into how decision trees provide clarity and interpretability in trading environments, allowing traders to leverage data-driven insights with precision and transparency.
+category: quant_concept
+description: Explore the crucial role of decision trees in algorithmic trading and
+  how they serve as a supervised learning tool to refine trading strategies. Understand
+  the difference between supervised and unsupervised learning to implement decision
+  trees effectively, enhancing your ability to predict market trends and make informed
+  trading decisions. Delve into how decision trees provide clarity and interpretability
+  in trading environments, allowing traders to leverage data-driven insights with
+  precision and transparency.
+title: Beginner’s Guide to Decision Trees for Supervised Machine Learning (Algo Trading)
 ---
 
 The world of algorithmic trading has witnessed tremendous advancements, driven by the integration of machine learning techniques designed to optimize and elevate trading strategies. Among these techniques, decision trees stand out for their simplicity and effectiveness, making them a favored choice among traders and developers alike. This article is dedicated to exploring the role of decision trees within the context of algorithmic trading, specifically examining whether they are utilized as supervised or unsupervised learning algorithms.

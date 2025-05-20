@@ -1,6 +1,8 @@
 ---
-title: "Dow Jones Global Titans 50 Index Overview (Algo Trading)"
-description: "Explore the Dow Jones Global Titans 50 Index and discover how algorithmic trading enhances investment strategies for top multinational corporations."
+category: dataset
+description: Explore the Dow Jones Global Titans 50 Index and discover how algorithmic
+  trading enhances investment strategies for top multinational corporations.
+title: Dow Jones Global Titans 50 Index Overview (Algo Trading)
 ---
 
 In the ever-evolving world of finance, indices play a crucial role in representing a segment of the stock market. These indices serve as benchmarks, helping investors to gauge market trends and make informed investment decisions. One such significant index is the Dow Jones Global Titans 50.

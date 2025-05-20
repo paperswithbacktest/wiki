@@ -1,6 +1,9 @@
 ---
-title: "Cheapest to Deliver (CTD) Bond Calculation (Algo Trading)"
-description: "Learn about the 'Cheapest to Deliver' bond in futures trading and how algorithmic strategies enhance profitability by identifying cost-effective delivery options."
+category: quant_concept
+description: Learn about the 'Cheapest to Deliver' bond in futures trading and how
+  algorithmic strategies enhance profitability by identifying cost-effective delivery
+  options.
+title: Cheapest to Deliver (CTD) Bond Calculation (Algo Trading)
 ---
 
 In the world of financial trading, bond markets hold significant importance as they form an integral part of diversified investment strategies. A key element within this realm is the concept of 'Cheapest to Deliver' (CTD), which is vital for traders looking to maximize profitability in bond futures contracts. 

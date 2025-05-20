@@ -1,6 +1,8 @@
 ---
-title: "Retail Foreign Exchange Dealer (Algo Trading)"
-description: "Explore the dynamic world of Retail Foreign Exchange Dealers and algorithmic trading to understand how they shape the expansive forex market for retail traders."
+category: quant_concept
+description: Explore the dynamic world of Retail Foreign Exchange Dealers and algorithmic
+  trading to understand how they shape the expansive forex market for retail traders.
+title: Retail Foreign Exchange Dealer (Algo Trading)
 ---
 
 Foreign exchange trading, commonly known as forex, constitutes a highly dynamic and expansive financial market teeming with opportunities for both retail and institutional investors. At the crux of forex trading lies the role of foreign exchange dealers, and specifically, Retail Foreign Exchange Dealers (RFEDs). RFEDs are pivotal in facilitating seamless currency trades, enabling retail investors to engage in markets that were previously accessible primarily to institutional players.

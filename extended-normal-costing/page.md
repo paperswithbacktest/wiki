@@ -1,6 +1,8 @@
 ---
-title: "Extended Normal Costing (Algo Trading)"
-description: "Explore the intricacies of Extended Normal Costing in algo trading to enhance financial success with refined cost allocation techniques for better decision-making."
+category: quant_concept
+description: Explore the intricacies of Extended Normal Costing in algo trading to
+  enhance financial success with refined cost allocation techniques for better decision-making.
+title: Extended Normal Costing (Algo Trading)
 ---
 
 Costing methods are vital in the business environment as they determine the financial success and sustainability of organizations. Accurate costing is essential for pricing products, managing resources, and generating profits. Errors in costing can lead to incorrect pricing, inefficient resource allocation, and ultimately financial losses. In this context, normal costing stands out as a prevalent method used across various industries to standardize cost allocation and ensure consistency.

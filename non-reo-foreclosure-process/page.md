@@ -1,6 +1,8 @@
 ---
-title: "Non-REO Foreclosure Process (Algo Trading)"
-description: "Explore how non-REO foreclosure and algorithmic trading are revolutionizing real estate investing offering unique opportunities to acquire discounted properties."
+category: trading_strategy
+description: Explore how non-REO foreclosure and algorithmic trading are revolutionizing
+  real estate investing offering unique opportunities to acquire discounted properties.
+title: Non-REO Foreclosure Process (Algo Trading)
 ---
 
 The intersection of foreclosure, real estate, and algorithmic trading is notably reshaping traditional investment strategies and opportunities within the property market. At the core of this transformation is the concept of non-REO foreclosure, which provides investors a chance to acquire properties at a discounted rate before these assets transition to bank-owned status. Non-REO properties are sold through auction without reverting to the bank, presenting a prime opportunity to benefit from reduced prices and increased availability of foreclosed assets.

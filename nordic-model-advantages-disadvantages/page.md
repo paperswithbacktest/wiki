@@ -1,6 +1,8 @@
 ---
-title: "Nordic Model: Advantages and Disadvantages (Algo Trading)"
-description: "Discover the Nordic Model's benefits and challenges in the context of modern algo trading, exploring its unique economic system and welfare policies."
+category: quant_concept
+description: Discover the Nordic Model's benefits and challenges in the context of
+  modern algo trading, exploring its unique economic system and welfare policies.
+title: 'Nordic Model: Advantages and Disadvantages (Algo Trading)'
 ---
 
 The term 'Nordic Model' refers to a distinctive socio-economic system prevalent in the Scandinavian countries of Sweden, Norway, Finland, Denmark, and Iceland. This model is renowned for its unique combination of free-market capitalism and robust welfare policies, leading to both low-income disparity and high standards of living. An essential feature of the Nordic Model is the amalgamation of economic efficiency and social equity. By blending market dynamics with comprehensive welfare mechanisms, it provides a sustainable framework for equitable wealth distribution while maintaining a competitive economy.

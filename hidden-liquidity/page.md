@@ -1,6 +1,9 @@
 ---
-title: "Hidden Liquidity (Algo Trading)"
-description: "Discover the advantages of hidden liquidity in algorithmic trading learn how large trades can be executed discreetly to minimize market impact and enhance efficiency."
+category: quant_concept
+description: Discover the advantages of hidden liquidity in algorithmic trading learn
+  how large trades can be executed discreetly to minimize market impact and enhance
+  efficiency.
+title: Hidden Liquidity (Algo Trading)
 ---
 
 In the domain of financial markets, liquidity is a fundamental factor that determines the efficiency and effectiveness of trading strategies. Beneath the visible market, hidden liquidity presents an intriguing aspect that offers substantial benefits to institutional investors and traders. By executing large orders without exposing their intentions, these market participants can avoid triggering adverse market movements that might occur if their trading activities were visible on public order books.

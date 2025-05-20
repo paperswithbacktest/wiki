@@ -1,6 +1,15 @@
 ---
-title: "Spot Market (Algo Trading)"
-description: "Explore the dynamic world of financial trading with a focus on spot market and algorithmic trading. Discover how spot market trading facilitates immediate transactions with real-time pricing in commodities, currencies, and securities, offering transparency and high liquidity. Learn about the precision of algorithmic trading, where sophisticated computer programs execute trades based on predefined criteria, minimizing human error and capitalizing on market inefficiencies. This article highlights the advantages and potential synergies between these trading methods, guiding traders towards optimized strategies in the ever-evolving financial markets."
+category: quant_concept
+description: Explore the dynamic world of financial trading with a focus on spot market
+  and algorithmic trading. Discover how spot market trading facilitates immediate
+  transactions with real-time pricing in commodities, currencies, and securities,
+  offering transparency and high liquidity. Learn about the precision of algorithmic
+  trading, where sophisticated computer programs execute trades based on predefined
+  criteria, minimizing human error and capitalizing on market inefficiencies. This
+  article highlights the advantages and potential synergies between these trading
+  methods, guiding traders towards optimized strategies in the ever-evolving financial
+  markets.
+title: Spot Market (Algo Trading)
 ---
 
 The financial markets serve as a vibrant platform for traders to engage in diverse trading operations, prominently featuring spot market trading and algorithmic trading. Spot market trading entails the buying and selling of financial instruments for immediate execution, thereby facilitating the rapid exchange of assets such as commodities, currencies, and securities. This type of trading is notable for its price transparency and reflection of real-time market conditions, making it a preferred choice for traders seeking immediate results.

@@ -1,6 +1,8 @@
 ---
-title: "Interpreting Market Psychology Using Technical Indicators (Algo Trading)"
-description: "Explore the relationship between market psychology, technical indicators, and algorithmic trading to develop strategies that leverage emotional market dynamics."
+category: trading_strategy
+description: Explore the relationship between market psychology, technical indicators,
+  and algorithmic trading to develop strategies that leverage emotional market dynamics.
+title: Interpreting Market Psychology Using Technical Indicators (Algo Trading)
 ---
 
 Market psychology, technical analysis, and algorithmic trading are interconnected disciplines within the financial markets, each playing a crucial role in shaping trading strategies. Market psychology examines how emotions and psychological factors such as fear, greed, and optimism influence market movements. These emotional states are not merely theoretical observations; they manifest in quantifiable market trends and patterns that traders seek to understand and exploit. 

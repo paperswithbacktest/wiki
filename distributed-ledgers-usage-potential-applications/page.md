@@ -1,6 +1,12 @@
 ---
-title: "Distributed Ledgers: Usage and Potential Applications (Algo Trading)"
-description: "Explore the transformative potential of distributed ledger technology in algorithmic trading and beyond. Discover how blockchain enhances security, transparency, and efficiency by decentralizing data storage, reducing risks, and improving transaction integrity. Unleash innovation in financial systems and beyond by leveraging the auditability and traceability offered by distributed ledgers, paving the way for a new era of digital transactions."
+category: quant_concept
+description: Explore the transformative potential of distributed ledger technology
+  in algorithmic trading and beyond. Discover how blockchain enhances security, transparency,
+  and efficiency by decentralizing data storage, reducing risks, and improving transaction
+  integrity. Unleash innovation in financial systems and beyond by leveraging the
+  auditability and traceability offered by distributed ledgers, paving the way for
+  a new era of digital transactions.
+title: 'Distributed Ledgers: Usage and Potential Applications (Algo Trading)'
 ---
 
 The rapid advancement of technology has paved the way for revolutionary changes in various sectors, none more intriguing than blockchain technology and its associated distributed ledger systems. Blockchain, a decentralized and often public digital ledger, is at the forefront of these developments, transforming how data is stored and transactions are processed. This exploration centers on the applications of distributed ledgers, with a particular emphasis on blockchain technology's role in algorithmic trading.

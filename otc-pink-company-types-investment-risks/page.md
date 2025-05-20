@@ -1,6 +1,9 @@
 ---
-title: "OTC Pink: Company Types and Investment Risks (Algo Trading)"
-description: "Explore OTC Pink markets and understand their investment risks including limited disclosures and high volatility. Learn how algorithmic trading can help mitigate these risks."
+category: trading_strategy
+description: Explore OTC Pink markets and understand their investment risks including
+  limited disclosures and high volatility. Learn how algorithmic trading can help
+  mitigate these risks.
+title: 'OTC Pink: Company Types and Investment Risks (Algo Trading)'
 ---
 
 OTC Pink, also known simply as the Pink Market, is the most speculative tier of the over-the-counter (OTC) markets. It offers trading in a diverse range of companies that typically do not meet the stringent listing requirements of major stock exchanges such as the New York Stock Exchange (NYSE) or NASDAQ. These markets are characterized by a lack of regulation and disclosure requirements, making them inherently riskier. Understanding these risks is crucial for investors, as the OTC Pink market attracts smaller companies, startups, and foreign corporations that may not provide comprehensive financial data.
@@ -138,4 +141,4 @@ Investors looking into OTC Pink markets and implementing algorithmic strategies 
 
 [4]: OTC Markets Group Inc. (2021). ["OTC Pink Market."](https://www.otcmarkets.com/files/OTC_Markets_Annual_Review_2021.pdf) 
 
-[5]: Gatev, E. G., Goetzmann, W. N., & Rouwenhorst, K. G. (2006). ["Pairs Trading: Performance of a Relative-Value Arbitrage Rule."](https://www.nber.org/papers/w7032) The Review of Financial Studies. 
+[5]: Gatev, E. G., Goetzmann, W. N., & Rouwenhorst, K. G. (2006). ["Pairs Trading: Performance of a Relative-Value Arbitrage Rule."](https://www.nber.org/papers/w7032) The Review of Financial Studies.

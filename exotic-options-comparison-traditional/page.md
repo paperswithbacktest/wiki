@@ -1,6 +1,9 @@
 ---
-title: "Exotic Options and Their Comparison to Traditional Options (Algo Trading)"
-description: "Explore the differences between traditional and exotic options in algo trading, offering insights into their characteristics, uses, and how they fit various investor needs."
+category: quant_concept
+description: Explore the differences between traditional and exotic options in algo
+  trading, offering insights into their characteristics, uses, and how they fit various
+  investor needs.
+title: Exotic Options and Their Comparison to Traditional Options (Algo Trading)
 ---
 
 Options trading is a versatile financial instrument that empowers investors with the ability to hedge risks, speculate on market movements, and potentially enhance portfolio performance. As financial markets become increasingly complex, options offer a strategic avenue to navigate such intricacies. The scope of options trading includes traditional options, often referred to as vanilla options, and more complex exotic options. Both serve distinct purposes and suit different investor needs.

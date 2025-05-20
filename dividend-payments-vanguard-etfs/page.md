@@ -1,6 +1,9 @@
 ---
-title: "Dividend Payments by Vanguard ETFs (Algo Trading)"
-description: "Discover the synergy of dividend-paying Vanguard ETFs and algorithmic trading to optimize investment returns. Learn how these strategies can elevate your portfolio."
+category: trading_strategy
+description: Discover the synergy of dividend-paying Vanguard ETFs and algorithmic
+  trading to optimize investment returns. Learn how these strategies can elevate your
+  portfolio.
+title: Dividend Payments by Vanguard ETFs (Algo Trading)
 ---
 
 Vanguard ETFs, or Exchange-Traded Funds, have become a crucial component of the investment portfolios of millions of investors globally. By providing broad market exposure combined with cost-effectiveness, these financial instruments offer attractive benefits for both novice and seasoned investors. Vanguard stands out in the ETF marketplace due to its commitment to low-cost, diversified funds, which has contributed significantly to their popularity. 

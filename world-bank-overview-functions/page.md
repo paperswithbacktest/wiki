@@ -1,6 +1,8 @@
 ---
-title: "World Bank: Overview and Functions (Algo Trading)"
-description: "Explore the role of the World Bank in global development and the impact of algorithmic trading on international finance highlighting dynamic insights."
+category: dataset
+description: Explore the role of the World Bank in global development and the impact
+  of algorithmic trading on international finance highlighting dynamic insights.
+title: 'World Bank: Overview and Functions (Algo Trading)'
 ---
 
 The global landscape of international finance is marked by its intricate and constantly changing nature. Central to this field is the World Bank, an influential entity dedicated to global development. Established in 1944, the World Bank has grown to become a pivotal organization that provides financial resources and expert assistance to developing nations. Its primary aim is to eradicate poverty and foster sustainable economic growth by supporting an array of projects that focus on infrastructure, education, health, and more. This institution engages in strategic partnerships with governments worldwide to achieve sustainable development goals, thereby impacting millions of lives across the globe.

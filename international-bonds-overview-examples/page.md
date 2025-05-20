@@ -1,6 +1,8 @@
 ---
-title: "International Bonds: Overview and Examples (Algo Trading)"
-description: "Discover the complexities of international bonds, their role in global markets, and the impact of algorithmic trading on bond trading strategies."
+category: quant_concept
+description: Discover the complexities of international bonds, their role in global
+  markets, and the impact of algorithmic trading on bond trading strategies.
+title: 'International Bonds: Overview and Examples (Algo Trading)'
 ---
 
 The financial landscape is vast and ever-changing, with numerous instruments available for investors to consider. Among these, international bonds are notably significant due to their potential for diversification and unique risk profiles. These bonds provide investors the opportunity to mitigate domestic market risks while participating in foreign economies, thus broadening their investment horizon.

@@ -1,6 +1,9 @@
 ---
-title: "Comparison of ETFs and Investment Trusts (Algo Trading)"
-description: "Compare investment trusts and ETFs to optimize investment strategies with algorithmic trading Insights on structure management and enhancing portfolio efficiency"
+category: trading_strategy
+description: Compare investment trusts and ETFs to optimize investment strategies
+  with algorithmic trading Insights on structure management and enhancing portfolio
+  efficiency
+title: Comparison of ETFs and Investment Trusts (Algo Trading)
 ---
 
 Navigating the intricate financial landscape requires a clear understanding of various investment products available to investors. Among these, investment trusts, exchange-traded funds (ETFs), and algorithmic trading have emerged as pivotal components. This article seeks to provide a thorough comparison of investment trusts and ETFs, examining how algorithmic trading can optimize their management and enhance their performance.

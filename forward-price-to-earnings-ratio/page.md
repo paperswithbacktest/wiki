@@ -1,6 +1,9 @@
 ---
-title: "Forward Price-to-Earnings Ratio (Algo Trading)"
-description: "Explore the importance of the Forward Price-to-Earnings (P/E) ratio in evaluating stock valuation and its application in algorithmic trading to optimize strategies."
+category: quant_concept
+description: Explore the importance of the Forward Price-to-Earnings (P/E) ratio in
+  evaluating stock valuation and its application in algorithmic trading to optimize
+  strategies.
+title: Forward Price-to-Earnings Ratio (Algo Trading)
 ---
 
 The financial world is filled with metrics that help investors understand the value and potential growth of stocks. Among these, the Forward Price-to-Earnings (P/E) ratio stands out as a crucial tool for evaluating a company's future earning prospects. This metric provides investors with a forward-looking perspective, focusing on expected earnings rather than past performance. As such, the Forward P/E ratio offers insights into what investors anticipate in terms of a company’s financial growth, making it a valuable component in both fundamental analysis and investment strategies.

@@ -1,6 +1,8 @@
 ---
-title: "International Swaps and Derivatives Association (Algo Trading)"
-description: "Explore the transformative impact of algorithmic trading on derivatives markets and how ISDA's frameworks enhance market stability and operational efficiency."
+category: quant_concept
+description: Explore the transformative impact of algorithmic trading on derivatives
+  markets and how ISDA's frameworks enhance market stability and operational efficiency.
+title: International Swaps and Derivatives Association (Algo Trading)
 ---
 
 Algorithmic trading has brought significant changes to the financial markets, heavily impacting the trading and management of derivatives. These financial instruments, whose value depends on underlying assets such as stocks, bonds, or interest rates, are essential for hedging risks, speculative strategies, and enhancing market liquidity. The adoption of algorithmic trading allows for the execution of large and complex trades with incredible speed and precision, optimizing market strategies and exploiting arbitrage opportunities more effectively than manual trading methods.
@@ -104,4 +106,3 @@ As the financial landscape undergoes technological and regulatory transformation
 - Cartea, Á., Jaimungal, S., & Penalva, J. (2015). *Algorithmic and High-Frequency Trading.* Cambridge University Press. This book investigates into the technical and quantitative aspects of algorithmic trading, providing a detailed analysis of the strategies and algorithms employed in high-frequency trading environments.
 
 - Pirrong, C. (2011). *The Economics of Central Clearing: Theory and Practice.* ISDA. This paper discusses the significance and complexities of central clearing in derivatives markets, exploring the theoretical framework and practical implications of clearinghouses' roles in minimizing counterparty risk.
-

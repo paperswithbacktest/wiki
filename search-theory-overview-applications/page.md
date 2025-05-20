@@ -1,6 +1,8 @@
 ---
-title: "Search Theory: Overview and Applications (Algo Trading)"
-description: "Explore the key insights of search theory in economic decision-making highlighting its role in addressing market frictions and enhancing algorithmic trading."
+category: quant_concept
+description: Explore the key insights of search theory in economic decision-making
+  highlighting its role in addressing market frictions and enhancing algorithmic trading.
+title: 'Search Theory: Overview and Applications (Algo Trading)'
 ---
 
 Search theory is a cornerstone of economic thought that addresses the intricacies of decision-making in situations characterized by incomplete information and transactional frictions. Primarily, it examines how individuals and firms allocate resources and time to search for desirable outcomes, such as products, jobs, or trading partners. The economic significance of search theory lies in its ability to model and provide insights into various types of markets where traditional assumptions of perfect knowledge do not hold.

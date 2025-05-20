@@ -1,6 +1,8 @@
 ---
-title: "Bearer Bonds: Function and Value (Algo Trading)"
-description: "Explore the essentials of bearer bonds and algorithmic trading. Understand the anonymous nature and declining use of bearer bonds, and learn about bond valuation."
+category: quant_concept
+description: Explore the essentials of bearer bonds and algorithmic trading. Understand
+  the anonymous nature and declining use of bearer bonds, and learn about bond valuation.
+title: 'Bearer Bonds: Function and Value (Algo Trading)'
 ---
 
 In the ever-changing landscape of finance, gaining a solid understanding of financial instruments such as bearer bonds, bond valuation, and algorithmic trading is essential for investors. These instruments form the backbone of investment strategies, influencing decisions that can lead to significant economic opportunities. This article aims to provide a detailed guide to these financial tools, beneficial for both novice investors seeking foundational knowledge and seasoned investors looking for deeper insights.

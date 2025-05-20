@@ -1,6 +1,9 @@
 ---
-title: "Net Operating Losses and Carryforward Rules (Algo Trading)"
-description: "Explore how net operating loss carryforwards impact tax strategies in algorithmic trading, focusing on leveraging financial losses to optimize future tax obligations."
+category: quant_concept
+description: Explore how net operating loss carryforwards impact tax strategies in
+  algorithmic trading, focusing on leveraging financial losses to optimize future
+  tax obligations.
+title: Net Operating Losses and Carryforward Rules (Algo Trading)
 ---
 
 In today's dynamic business environment, understanding tax deductions is crucial for enterprises. One important area is how net operating loss (NOL) tax deductions can be leveraged. This article explores the concept of NOL carryforward, its advantages, and its relevance in algorithmic trading.

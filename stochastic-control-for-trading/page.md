@@ -1,6 +1,8 @@
 ---
-title: "Stochastic Control for Trading (Algo Trading)"
-description: "Explore stochastic control in algorithmic trading and its role in optimizing strategies for market volatility. Enhance decision-making in financial trading."
+category: quant_concept
+description: Explore stochastic control in algorithmic trading and its role in optimizing
+  strategies for market volatility. Enhance decision-making in financial trading.
+title: Stochastic Control for Trading (Algo Trading)
 ---
 
 In the world of financial trading, algorithmic trading, also known as algo trading, has become a powerful strategy by leveraging automation. This method allows for executing trades at speeds and volumes that are beyond human capabilities. In this domain, stochastic control, a mathematical optimization method, plays a crucial role, particularly in high-frequency trading (HFT). Stochastic control helps manage the unpredictable nature of financial markets.

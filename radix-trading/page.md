@@ -1,6 +1,9 @@
 ---
-title: "Radix Trading (Algo Trading)"
-description: "Explore Radix Trading a leader in algorithmic trading utilizing cutting-edge technology to transform trades with unparalleled speed efficiency and strategic advantage."
+category: trading_strategy
+description: Explore Radix Trading a leader in algorithmic trading utilizing cutting-edge
+  technology to transform trades with unparalleled speed efficiency and strategic
+  advantage.
+title: Radix Trading (Algo Trading)
 ---
 
 Understanding the landscape of modern financial markets is crucial for any investor or finance enthusiast. One of the most significant developments in recent decades has been the rise of algorithmic trading, or algo trading, which has rapidly transformed how trades are executed. This method involves using complex computer algorithms to automate and enhance the trading process, replacing traditional human decision-making with data-driven strategies. Algo trading allows for high-speed trading with large volumes, leveraging mathematical models to optimize prices and execution times.

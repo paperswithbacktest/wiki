@@ -1,6 +1,8 @@
 ---
-title: "Earning Power: Concepts, Constraints, and Calculation (Algo Trading)"
-description: "Explore the crucial role of financial limits in algorithmic trading Discover how understanding constraints and leveraging technology can optimize earning power"
+category: quant_concept
+description: Explore the crucial role of financial limits in algorithmic trading Discover
+  how understanding constraints and leveraging technology can optimize earning power
+title: 'Earning Power: Concepts, Constraints, and Calculation (Algo Trading)'
 ---
 
 In the rapidly evolving world of finance, understanding and utilizing financial limits is crucial for both individual and institutional investors. These limits help in managing risk and maximizing potential returns by defining the constraints within which trades are executed. As technology continues to advance, algorithmic trading has emerged as an indispensable tool for enhancing earning power. This form of trading uses computer algorithms to automatically make trading decisions that are consistent with predefined rules and strategies.

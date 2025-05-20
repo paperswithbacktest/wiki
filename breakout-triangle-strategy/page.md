@@ -1,6 +1,12 @@
 ---
-title: "Breakout Triangle Strategy Explained (Algo Trading)"
-description: Discover how triangle breakout patterns can enhance your algorithmic trading strategies. Learn about symmetrical, ascending, and descending triangles, and how recognizing these chart formations can guide trading decisions. Understand the importance of automated execution and the role of volume as a confirmation tool. Gain insights into backtesting strategies using Python to optimize success rates and reduce market risks.
+category: trading_strategy
+description: Discover how triangle breakout patterns can enhance your algorithmic
+  trading strategies. Learn about symmetrical, ascending, and descending triangles,
+  and how recognizing these chart formations can guide trading decisions. Understand
+  the importance of automated execution and the role of volume as a confirmation tool.
+  Gain insights into backtesting strategies using Python to optimize success rates
+  and reduce market risks.
+title: Breakout Triangle Strategy Explained (Algo Trading)
 ---
 
 Algorithmic trading has transformed the landscape of financial markets by enabling traders to identify and exploit patterns with precision and speed, harmonizing data analysis and automated execution. Among such strategies, triangle breakout patterns serve as a significant element, assisting traders in anticipating market movements and optimizing trading decisions.

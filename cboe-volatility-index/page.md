@@ -1,6 +1,8 @@
 ---
-title: "Cboe Volatility Index (Algo Trading)"
-description: "Explore the role of the Cboe Volatility Index in market sentiment analysis and algorithmic trading strategies for managing risk and leveraging market uncertainty."
+category: quant_concept
+description: Explore the role of the Cboe Volatility Index in market sentiment analysis
+  and algorithmic trading strategies for managing risk and leveraging market uncertainty.
+title: Cboe Volatility Index (Algo Trading)
 ---
 
 The Cboe Volatility Index (VIX) serves as a crucial barometer for gauging market sentiment and anticipated volatility. Commonly referred to as the 'Fear Index,' the VIX offers insights into the market's expectations of future volatility, particularly concerning the S&P 500 index. Established by the Chicago Board Options Exchange (Cboe) in 1993, this forward-looking indicator plays a significant role in financial markets by helping investors and traders assess potential fluctuations in stock prices over a 30-day period.

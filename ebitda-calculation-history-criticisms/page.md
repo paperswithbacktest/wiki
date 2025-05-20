@@ -1,6 +1,12 @@
 ---
-title: "EBITDA: Calculation, History, and Criticisms (Algo Trading)"
-description: "Learn all about EBITDA how to calculate it its history and the criticisms associated with its use in financial analysis Discover how EBITDA is utilized in algorithmic trading and mergers and acquisitions to evaluate business performance and operational efficiency Understand its role in providing a normalized view of company earnings and how investors use it to assess profitability and make informed investment decisions"
+category: quant_concept
+description: Learn all about EBITDA how to calculate it its history and the criticisms
+  associated with its use in financial analysis Discover how EBITDA is utilized in
+  algorithmic trading and mergers and acquisitions to evaluate business performance
+  and operational efficiency Understand its role in providing a normalized view of
+  company earnings and how investors use it to assess profitability and make informed
+  investment decisions
+title: 'EBITDA: Calculation, History, and Criticisms (Algo Trading)'
 ---
 
 Financial metrics are essential tools for evaluating business performance, offering insights into a company's operational efficiency, profitability, and long-term viability. Among these metrics, EBITDA, which stands for Earnings Before Interest, Taxes, Depreciation, and Amortization, plays a pivotal role in financial analysis. It provides a clear measure of a company's core operational performance, excluding the effects of financing and accounting decisions, making it a popular choice for investors and analysts seeking to assess the intrinsic profitability of a business.

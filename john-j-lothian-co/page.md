@@ -1,6 +1,8 @@
 ---
-title: "John J. Lothian & Co. (Algo Trading)"
-description: "Explore John J. Lothian & Co.'s pivotal role in algorithmic trading and financial media, showcasing their innovative strategies and educational initiatives."
+category: trading_strategy
+description: Explore John J. Lothian & Co.'s pivotal role in algorithmic trading and
+  financial media, showcasing their innovative strategies and educational initiatives.
+title: John J. Lothian & Co. (Algo Trading)
 ---
 
 In the world of financial services, algorithmic trading has emerged as a crucial component for modern trading strategies. This article explores John J. Lothian & Company, a notable player in the financial services space, emphasizing its contributions to algorithmic trading.

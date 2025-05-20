@@ -1,6 +1,9 @@
 ---
-title: "John D. Rockefeller: Biography and Achievements (Algo Trading)"
-description: "Explore the biography and achievements of John D. Rockefeller, a transformative figure in American history whose strategies in the oil industry influenced modern economic practices."
+category: quant_concept
+description: Explore the biography and achievements of John D. Rockefeller, a transformative
+  figure in American history whose strategies in the oil industry influenced modern
+  economic practices.
+title: 'John D. Rockefeller: Biography and Achievements (Algo Trading)'
 ---
 
 John D. Rockefeller, an influential figure in American history, is renowned for his transformative role in the oil industry and his contributions to modern economic practices. As the founder of Standard Oil, Rockefeller revolutionized the energy sector with innovative business strategies that set the foundation for his company's market dominance. Born in 1839, Rockefeller began his career in a time when the oil industry was burgeoning. Through strategic foresight and meticulous planning, he founded Standard Oil in 1870, which quickly ascended to greatness by employing practices such as vertical integration and monopolistic control. These methods not only ensured his company's success but also reshaped the landscape of American industry.

@@ -1,6 +1,8 @@
 ---
-title: "Evaluating Trustworthiness of Financial Advisors (Algo Trading)"
-description: "Explore how trustworthiness in financial advisors and the rise of algorithmic trading impact investment decisions empowering smarter financial strategies."
+category: quant_concept
+description: Explore how trustworthiness in financial advisors and the rise of algorithmic
+  trading impact investment decisions empowering smarter financial strategies.
+title: Evaluating Trustworthiness of Financial Advisors (Algo Trading)
 ---
 
 In the world of finance, trust and innovation are dual forces that guide investors. Financial advisors play a pivotal role in navigating the complexities of the financial landscape, providing tailored advice that aligns with the investor’s goals and risk tolerance. The trustworthiness of these advisors is crucial, ensuring they act in the best interests of their clients.
@@ -151,4 +153,3 @@ Investors are encouraged to embrace these innovations, balancing them with a str
    - SEC’s Investor.gov: Provides resources and updates on regulatory changes and compliance in financial advising.
 
 These resources will help deepen understanding of the critical aspects of financial advising, trustworthiness, and algorithmic trading.
-

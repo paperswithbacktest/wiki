@@ -1,6 +1,8 @@
 ---
-title: "Block Time: Measurement and Verification (Algo Trading)"
-description: "Explore block time and verification in blockchain, crucial for cryptocurrency security and algorithmic trading. Learn how block time impacts transaction speed."
+category: quant_concept
+description: Explore block time and verification in blockchain, crucial for cryptocurrency
+  security and algorithmic trading. Learn how block time impacts transaction speed.
+title: 'Block Time: Measurement and Verification (Algo Trading)'
 ---
 
 Blockchain technology has fundamentally transformed the landscape of cryptocurrencies, providing a decentralized and secure method of conducting transactions. At the core of this innovation are two crucial concepts: blockchain verification and block time. Understanding these elements is vital for both newcomers and veteran participants in the cryptocurrency market because they play pivotal roles in determining transaction efficacy and security.

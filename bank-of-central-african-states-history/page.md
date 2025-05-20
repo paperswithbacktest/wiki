@@ -1,6 +1,8 @@
 ---
-title: "Bank of Central African States: Overview and History (Algo Trading)"
-description: "Discover the rich history and pivotal role of the Bank of Central African States in driving monetary stability and growth in the CEMAC region."
+category: quant_concept
+description: Discover the rich history and pivotal role of the Bank of Central African
+  States in driving monetary stability and growth in the CEMAC region.
+title: 'Bank of Central African States: Overview and History (Algo Trading)'
 ---
 
 The Bank of Central African States (BEAC) holds a central position in the economic framework of Central Africa, orchestrating monetary policy for the Economic and Monetary Community of Central Africa (CEMAC). Established in 1972, BEAC is headquartered in Yaoundé, Cameroon, and caters to the monetary needs of six member countries: Cameroon, the Central African Republic, Chad, Equatorial Guinea, Gabon, and the Republic of the Congo. Through its extensive reach, BEAC is pivotal in pioneering initiatives and implementing strategies tailored to sustain economic stability and foster growth within this multifaceted region.

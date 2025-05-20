@@ -1,6 +1,8 @@
 ---
-title: "Stochastic Portfolio theory (Algo Trading)"
-description: "Explore the synergy between Stochastic Portfolio Theory and algorithmic trading to enhance strategies using probabilistic models in dynamic financial markets."
+category: quant_concept
+description: Explore the synergy between Stochastic Portfolio Theory and algorithmic
+  trading to enhance strategies using probabilistic models in dynamic financial markets.
+title: Stochastic Portfolio theory (Algo Trading)
 ---
 
 Stochastic Portfolio Theory (SPT) provides a framework designed to analyze how different assets within a portfolio interact through the application of probabilistic measures. Unlike traditional approaches that may rely heavily on assumptions of market efficiency or focus primarily on expected returns and volatilities, SPT emphasizes the stochastic behavior of portfolio value processes over time. This perspective allows for a more dynamic understanding of how asset prices evolve, making it particularly valuable for the complexities of modern financial markets.
